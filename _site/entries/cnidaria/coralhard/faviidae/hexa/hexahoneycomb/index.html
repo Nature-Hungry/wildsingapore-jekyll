@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Honey-comb hexagonal  corals  | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="coral, hard, merulinidae, faviidae, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/050509hntg5989m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Cnidaria">Cnidaria</a>
+                    > 
+                    <a href="/Cnidaria/Anthozoa">Anthozoa</a>
+                    > 
+                    <a href="/Cnidaria/Anthozoa/Scleractinia">Scleractinia</a>
+                    >
+                    <a href="/Cnidaria/Anthozoa/Scleractinia/"></a>
+                    >
+                    <a href="/Cnidaria/Anthozoa/Scleractinia//Faviidae">Faviidae</a>
+                </p>
+                <h1>Honey-comb hexagonal  corals </h1>
+                
+                    <p class="scientific-name">Family Faviidae</p>
+                
+
+                <p><em>Updated Nov 2019</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>Hard corals with large hexagonal corallites are sometimes seen on some of our shores.</p>
+
+<h2 id="features">Features</h2>
+
+<p>Colonies seen 10-20cm, generally boulder-shaped, but somewhat irregular and not perfectly spherical. The corallites large (1-2cm) have shared walls and form large irregular cells with sharp angular edges of various sizes and shapes. The walls are thin and tall, corallites are more tubular with a broad ‘base’. The result is a rather irregular pattern of large polygons that resembles a honey comb. The polyps are large and fleshy with a ring of many tentacles around a large oral disk. Colony colours seen include brown, yellow, blue and purple.</p>
+
+<p>Some species of corals recorded for Singapore that have these patterns include:
+<em>Favites, Goniastrea</em>
+and
+<em>Leptastrea</em>
+species.
+It’s hard to distinguish them without close examination of small features and they are grouped here by large external features for convenience of display.</p>
+
+<p><strong>Sometime confused with</strong>
+<a href="../../siderastreidae/hexaneat.md">Neat hexa corals</a>
+(
+<em>Pseudosiderastrea tayami</em>
+) which has more conical corallites with a narrow ‘base’.
+Another coral with honeycomb shaped corallites is
+<em>Gardineroseris planulata</em>
+of
+<a href="../../agariciidae/agariciidae.md">Family Agariciidae</a>
+.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/050509hntg5989m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Hantu, May 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/050509hntg5989m3b.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/050509hntg5989m3f.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+
+</div>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/031029sntbd0058m3.jpg" alt="" />
+        <div class="caption">
+        Sentosa, Oct 03
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/031029sntbd0058m3a.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/031029sntbd0058m3b.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/050525hntg6679m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Hantu, May 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/050525hntg6679m3b.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/050525hntg6681m3a.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/080623cyrd6266m3.jpg" alt="" />
+        <div class="caption">
+        Cyrene Reef, Jun 08
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/080422smkd1415m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau, Apr 08
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/070517sntrd0849m3.jpg" alt="" />
+        <div class="caption">
+        Sentosa, May 07
+        </div>
+    </div>
+    
+
+</div>
+<p>**Species are difficult to positively identify without close examination.</p>
+
+<p>On this website, they are grouped by external features for convenience of display*</p>
+
+<hr />
+
+<p><strong>Honey-comb hexagonal corals on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470@N00&amp;sort=date-posted-desc&amp;view_all=1&amp;text=Honey-comb hexagonal coral">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Honey-comb%2520hexagonal%2520coral/map?&amp;fLat=1.2629&amp;fLon=103.8661&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/100130brkd8476m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Berkas, Jan 10
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/100613sngd5425m3a.jpg" alt="" />
+        <div class="caption">
+        Pulau Senang, Jun 10
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/100601slud4715m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Salu, Jun 10
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/100601slud4754m3b.jpg" alt="" />
+        <div class="caption">
+        Pulau Salu, Jun 10
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/100601slud4758m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Salu, Jun 10
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/100530tbkd4355m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Berkas, May 10
+        </div>
+    </div>
+    
+
+</div>
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

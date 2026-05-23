@@ -1,0 +1,538 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Sea pens  | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="pen, seapen, pennatulacea, anthozoa, cnidaria, pteroides, cavernularia, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/081216prpd3387m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/"></a>
+                    > 
+                    <a href="//"></a>
+                    > 
+                    <a href="///"></a>
+                    >
+                    <a href="////"></a>
+                    >
+                    <a href="/////Vertillidae">Vertillidae</a>
+                </p>
+                <h1>Sea pens </h1>
+                
+                    <p class="scientific-name">Family Vertillidae</p>
+                
+
+                <p><em>Updated Sep 2019</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about them ... Each sea pen is a colony of many animals living together. Small crabs and other creatures often live among the fronds. At low tide, they retract into the ground. Don't step on them!
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        Each sea pen is a colony of many animals living together. Small crabs and other creatures often live among the fronds. At low tide, they retract into the ground. Don't step on them!
+        </div>
+    </div>
+    
+
+</div>
+
+<h2 id="where-seen">Where seen?</h2>
+<p>These strange animals are commonly seen on our Northern shores. In soft, silty sand near seagrasses. At low tide, they are often retracted completely into the sand. Sometimes, an “uprooted” sea pen might be seen washed up on the shore or stranded in a pool.</p>
+
+<p>Please do not step on or pull sea pens out of the sand. You will hurt a whole colony of animals and the small creatures that live on them.</p>
+
+<p><strong>What are sea pens?</strong>
+Sea pens belong to
+<a href="../../cnidaria.md">Phylum Cnidaria</a>
+which includes the more familiar sea anemones, hard corals and jellyfishes. Sea pens are members of the same
+<a href="../../anthozoa.md">Class Anthozoa</a>
+as sea anemones. Unlike sea anemones which are large solitary polyps, each sea pen is a colony of polyps. Sea pens belong to the Subclass Alcyonaria (Octocorallia) that includes the
+<a href="../../coralsoft/coralsoft.md">soft corals</a>
+. Members of this subclass have tentacles which are branched and in multiples of eight. There are about 300 species of known sea pens.</p>
+
+<h2 id="features">Features</h2>
+
+<p>Those seen on our shores average 15-25cm long. Sometimes really small ones 2-4cm long are seen.</p>
+
+<p>Each sea pen is a colony of different kinds of polyps connected to one another, each playing a different role.</p>
+
+<p>There is usually a central ‘stem’, called the axial or primary polyp, that supports the whole colony. The bottom half of the primary polyp forms a muscular ‘foot’ (called the peduncle) that anchors the colony and retracts the whole colony into the ground at low tide. This portion lacks other kinds of polyps. The central stalk is usually stiffened by an internal ‘bone’ made of calcium. You might sometimes come across this bone washed ashore.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/081216prpd3387m3.jpg" alt="" />
+        <div class="caption">
+        The orange foot is visible in this Spiky sea fan that washed ashore. Chek Jawa, Jul 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/060502cftd1783m3.jpg" alt="" />
+        <div class="caption">
+        Half dead sea pencil washed ashore, showing the stick-like skeleton in the centre. Changi, May 06
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/050524chgg6589m3c.jpg" alt="" />
+        <div class="caption">
+        Expanded and retracted polyps of a Flowery sea pen. Changi, May 05
+        </div>
+    </div>
+    
+
+</div>
+<p>The upper half called the rachis sticks out of the surface. The rachis is the budding zone where other kinds of polyps emerge. Some may have leaf-like structures (called oozoids). These leafy shapes make the colony resemble a feather: sea pens are so named because they resemble feather quill pens.</p>
+
+<p>Tiny polyps with 8 branched tentacles, called autozooids, emerge from these leaf-like structures when submerged. The stinging tentacles filter feed at high tide. These can retract fully.</p>
+
+<p>There is also another kind of highly modified polyp, called siphonozooids, that pump water into the colony to keep it rigid, and circulates water through the colony. Siphonozooids do not have tentacles and usually look like bumps or holes in the colony. They are usually much smaller and found among the autozooids.</p>
+
+<p>Some sea pens don’t have leaf-like structures and the autozooids and siphonozooids are found directly on the ‘stem’. At low tide, the autozooids are usually retracted. As a result, some sea pens look just like a stick stuck in the sand, or a floppy sausage on the sand.</p>
+
+<p>The colony might be stiffened by sclerites (tiny bits of calcium). Some have long sharp sclerites that support the feathery structures.</p>
+
+<p>Sea pens are adapted for life on soft sea bottoms. Here, they can dig into the ground for support. They retract completely into the soft ground when alarmed or at low tide. It is said that they can move along the bottom by looping their bodies.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/050726chgg0426m3.jpg" alt="" />
+        <div class="caption">
+        Tiny porcelain crabs are often seen in pairs in a sea pen. Changi, Jul 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/mollusca/slugs/nudibranchia/semperi/190802chglks2.jpg" alt="" />
+        <div class="caption">
+        A nudibranch that eats sea pens is lurking near this one. Changi, Aug 19 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/050524cftg6598m3b.jpg" alt="" />
+        <div class="caption">
+        Commensal shrimp on a sea pen. All that can often be seen are a pair of eyes! Changi, May 05
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>What do they eat?</strong>
+A few sea pens may harbour zooxanthellae (symbiotic algae) inside their bodies. These carry out photosynthesis and may contribute nutrients to the host polyp. But most gather edible bits from the water.
+<strong>Snacking on sea pens:</strong>
+Sea pens are preyed upon by some snails and nudibranchs. The striped
+<a href="../../../mollusca/slugs/nudibranchia/arminina/arminidaenoida.md">Armina nudibranch</a>
+(
+<em>Armina</em>
+sp.) is among those seen near
+<a href="pencil.md">sea pencils</a>
+, and appear to feed on these sea pencils.</p>
+
+<p><strong>Pen pals:</strong>
+Sea pens are often homes to other small creatures. The tiny
+<a href="../../../crustacea/othercrust/anomura/porcellanidae/picta.md">Painted porcelain crab</a>
+(
+<em>Porcellanella picta</em>
+) is often found in the
+<a href="pteroides.md">Common sea pen</a>
+(
+<em>Pteroides</em>
+sp.). Sometimes, tiny transparent shrimps are seen on
+<a href="veretillidae.md">Flowery sea pens</a>
+(Family Vertillidae)</p>
+
+<p><strong>Human uses:</strong>
+These beautiful animals are sometimes taken for the live aquarium trade. However, they usually don’t do well in captivity and eventually die of starvation.</p>
+
+<p><strong>Status and threats:</strong>
+Sea pens are not listed as among the threatened animals of Singapore. However, like other animals harvested for the live aquarium trade, most die before they can reach the retailers. Without professional care, most die soon after they are sold. Those that do survive are unlikely to breed successfully. Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors, and overharvesting by hobbyists also have an impact on local populations.</p>
+
+<hr />
+
+<p><strong>Sea pens on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/050609chgg7516m3.jpg" alt="" />
+        <div class="caption">
+        Flowery sea pen Family Veretillidae
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/050609chgg7516m3a.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/050426cftg5070m3.jpg" alt="" />
+        <div class="caption">
+        Sea pencil ( Lituaria sp.)
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/050722cjg9824m3b.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/120705chgd7083m3.jpg" alt="" />
+        <div class="caption">
+        Spiky sea pen ( Pteroeides sp.)
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/120705chgd7086m3b.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/090722chgd7702m3.jpg" alt="" />
+        <div class="caption">
+        Slender sea pen ( Virgularia sp.)
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/120703chgd6506m3a.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Order Pennatulacea recorded for Singapore</strong>
+from Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+.</p>
+
+<p>Names from Erhardt, Harry and Daniel Knop. 2005.
+<em>Corals: Indo-Pacific Field Guide</em>
+.</p>
+
+<p>+from our observation.</p>
+
+<p>+
+<strong>Family Veretillidae</strong>
+(Flowery sea pens)</p>
+
+<p><a href="veretillidae.md">Flowery sea pen</a></p>
+
+<p><a href="pencil.md"><em>Lituaria</em>
+sp.</a>
+(Sea pencil)</p>
+
+<p><strong>Family Pennatulidae</strong></p>
+
+<p><em><a href="spiky.md">Pteroides</a></em>
+<a href="spiky.md">sp.</a>
+(Spiky sea pens)</p>
+
+<p>+
+<strong><a href="virgularia.md">Family Virgulariidae</a></strong>
+(Slender sea pens)</p>
+
+<hr />
+
+<p>th</p>
+
+<p>edition. McGraw-Hill Book Co., Singapore. 578 pp.</p>
+<ul>
+  <li>Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+. National Council on the Environment. 163pp.</li>
+  <li>Ng, P. K. L. &amp; Y. C. Wee, 1994.
+<em>The Singapore Red Data Book: Threatened Plants and Animals of Singapore</em>
+. The Nature Society (Singapore), Singapore. 343 pp.</li>
+</ul>
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li>
+    <dl>
+      <dt><a href="http://species-identification.org/species.php?species_group=corals&amp;menuentry=groepen">Phylum Cnidaria, Order Pennatulacea</a></dt>
+      <dt>on</dt>
+      <dt><a href="http://species-identification.org/species.php?species_group=corals&amp;menuentry=inleiding">Reef Corals of the Indo-Malayan Seas</a></dt>
+      <dt>on the</dt>
+      <dt><a href="http://species-identification.org/index.php">Marine Species Identification Portal</a></dt>
+      <dd>Technical fact sheet and photos.</dd>
+    </dl>
+  </li>
+  <li><a href="http://www.ucmp.berkeley.edu/cnidaria/pennatulacea.html">Introduction to Pennatulacea</a>
+on the Museum of Paleontology, University of California, Berkeley website: a brief introduction with some photos.</li>
+  <li><a href="http://www.lanecc.edu/science/zonation/seapen.md">Sea Pens</a>
+on the Lane Community College website: short fact sheet on sea pens with lots of photos.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Erhardt, Harry and Daniel Knop. 2005.
+<em>Corals: Indo-Pacific Field Guide</em>
+IKAN-Unterwasserachiv, Frankfurt. 305 pp.</li>
+  <li>Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.
+<em>Invertebrate Zoology</em>
+Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963</li>
+  <li>Pechenik, Jan A., 2005.
+<em>Biology of the Invertebrates</em>
+. 5</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

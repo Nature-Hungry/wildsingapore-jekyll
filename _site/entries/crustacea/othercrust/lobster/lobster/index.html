@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Lobsters and lobster-like crustaceans | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="prawn, shrimp, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/palinuridae/090623d4995m6l.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Arthropoda">Arthropoda</a>
+                    > 
+                    <a href="/Arthropoda/Malacostraca">Malacostraca</a>
+                    > 
+                    <a href="/Arthropoda/Malacostraca/Decapoda">Decapoda</a>
+                    >
+                    <a href="/Arthropoda/Malacostraca/Decapoda/Pleocyemata">Pleocyemata</a>
+                    >
+                    <a href="/Arthropoda/Malacostraca/Decapoda/Pleocyemata/Palinuridae">Palinuridae</a>
+                </p>
+                <h1>Lobsters and lobster-like crustaceans</h1>
+                
+                    <p class="scientific-name">Family Palinuridae</p>
+                
+
+                <p><em>Updated Mar 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>Among our favourite seafood, lobsters do exist on our shores but they are usually found in deeper waters and only sometimes seen by divers. During the day, they are usually well hidden among corals. Those seen on the intertidal, were sadly trapped in drift nets. Some relatives such as mud lobsters and ghost shrimps are also common though rarely seen.</p>
+
+<p><strong>What are lobsters?</strong>
+Lobsters and their relatives are
+<a href="../../crustacea.md">crustaceans</a>
+that belong to various Infraorders in the larger Order
+<a href="../../decapoda.md">Decapoda</a>
+. The Family Palinuridae include some of the lobsters that we eat. There are other lobster-like animals that are not really shrimps. Those more commonly found on our shores include the
+<a href="thalassina.md">mud lobsters</a>
+and
+<a href="glypturus.md">ghost shrimps</a>
+and
+<a href="upogebiidae.md">mud shrimps</a>
+.</p>
+
+<h2 id="features">Features</h2>
+
+<p>Like shrimps, lobsters and lobster-like crustaceans have a long body and broad tail, and long antennae. Lobsters have heavy shells, unlike the light flexible exoskeletons of shrimps. Lobsters and lobster-like crustacea have heavier legs and tend to have powerful claws. They don’t have swimmeretes (pleopods) like shrimps do. But they can also rapidly move backwards by flexing the abdomen and broad tail.</p>
+
+<p><strong>Human uses:</strong>
+Larger lobsters are harvested as seafood everywhere.
+<em>**</em></p>
+
+<hr />
+
+<p><strong>Some lobsters and lobster-like crustaceans on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/palinuridae/090623d4995m6l.jpg" alt="" />
+        <div class="caption">
+        Lobster
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/011114cjd689m3.jpg" alt="" />
+        <div class="caption">
+        Mud lobster
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/glypturus/040521sntbd0050m3.jpg" alt="" />
+        <div class="caption">
+        Coral ghost shrimp
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/110401mndd8415m6lb.jpg" alt="" />
+        <div class="caption">
+        Mud shrimp
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Lobsters and lobster-like crustacea recorded for Singapore</strong></p>
+
+<p>from Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+.</p>
+
+<p>in red are those listed among the threatened animals of Singapore
+from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+<em>The Singapore Red Data Book: Threatened plants and animals of Singapore</em>
+.</p>
+
+<p><em>from Tan, Leo W. H. &amp; Ng, Peter K. L., 1988,
+*A Guide to Seashore Life</em></p>
+
+<p><em>*from Lim, S., P. Ng, L. Tan, &amp; W. Y. Chin, 1994.
+*Rhythm of the Sea: The Life and Times of Labrador Beach</em>
+.</p>
+
+<p>+from our observation.</p>
+
+<p><strong>Infraorder Palinura</strong></p>
+
+<p><strong>+Family Palinuridae</strong></p>
+
+<p>+
+<em><a href="palinuridae.md">Panulirus ornatus</a></em>
+(Ornate rock lobster)</p>
+
+<p><strong>Infraorder Thalassinidae</strong></p>
+
+<p><strong>**Family Callianassidae (ghost shrimps)</strong></p>
+
+<p>**
+<em>Glypturus</em>
+sp.</p>
+
+<p><a href="glypturus.md"><em>Corallianassa</em>
+sp.</a>
+(Coral ghost shrimp)</p>
+
+<p><strong>Family Thalassinidae (mud lobsters)</strong></p>
+
+<p><a href="thalassina.md"><em>Thalassina</em>
+sp.</a>
+(Mud lobsters)
+<em>Thalassina anomala</em>
+(EN: Endangered)</p>
+
+<p><em>Thalassina gracilis</em>
+(EN: Endangered)</p>
+
+<hr />
+<p><a href="upogebiidae.md">Family Upogebiidae</a>
+(mud shrimp)**</p>
+
+<p><em>*Wolffogebia phuketensis</em>
+(Mud shrimp) (EN: Endangered)</p>
+
+<hr />
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+. National Council on the Environment. 163pp.</li>
+  <li>Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+<em>The Singapore Red Data Book: Threatened plants and animals of Singapore</em>
+. Nature Society (Singapore). 285 pp.</li>
+  <li>Jones Diana S. and Gary J. Morgan, 2002.
+<em>A Field Guide to Crustaceans of Australian Waters</em>
+. Reed New Holland. 224 pp.</li>
+  <li>Debelius, Helmut, 2001.
+<em>Crustacea Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean</em>
+IKAN-Unterwasserachiv, Frankfurt. 321 pp.</li>
+  <li>Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.
+<em>Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates</em>
+Sea Challengers. 314pp.</li>
+</ul>
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

@@ -1,0 +1,582 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Stingrays | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="sting, ray, stingray, fish, dasyatidae, rajiformes, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/030717skdd0039m6l.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Chordata">Chordata</a>
+                    > 
+                    <a href="/Chordata/Chondrichthyes">Chondrichthyes</a>
+                    > 
+                    <a href="/Chordata/Chondrichthyes/Myliobatiformes">Myliobatiformes</a>
+                    >
+                    <a href="/Chordata/Chondrichthyes/Myliobatiformes/"></a>
+                    >
+                    <a href="/Chordata/Chondrichthyes/Myliobatiformes//Dasyatidae">Dasyatidae</a>
+                </p>
+                <h1>Stingrays</h1>
+                
+                    <p class="scientific-name">Family Dasyatidae</p>
+                
+
+                <p><em>Updated Sep 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about them ... They are related to sharks and have cartilage instead of bones. They swim by undulating greatly enlarged pectoral fins. They will not sting unless you handle them or step on them. Watch your step!
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        They are related to sharks and have cartilage instead of bones. They swim by undulating greatly enlarged pectoral fins. They will not sting unless you handle them or step on them. Watch your step!
+        </div>
+    </div>
+    
+
+</div>
+
+<h2 id="where-seen">Where seen?</h2>
+<p>Like strange ‘flying’ saucers with bulbous eyes and long whip-like tails, these fishes are often seen in our mangroves and coral reefs. They can sting painfully! These fishes often hide in silty bottoms and under coral ledges, watch where you step and where you put your hand.</p>
+
+<dl>
+  <dt><strong>What are stingrays?</strong></dt>
+  <dt>Stingrays belong to the Family Dasyatidae. According to</dt>
+  <dt><a href="http://www.fishbase.org/Summary/FamilySummary.cfm?id=20">FishBase</a></dt>
+  <dd>the family has 9 genera and 70 species. Together with skates and rays, stingrays belong to the Order Rajiformes. These fishes are related to sharks but most are adapted for hunting and living on the sea bottom. They have flattened bodies with enlarged pectoral fins.</dd>
+</dl>
+
+<h2 id="features">Features</h2>
+
+<p>The largest species of stingrays can grow to 4m in diameter. Those commonly seen on our shores are much smaller.</p>
+
+<p>Like other rays, stingrays have greatly enlarged pectoral fins along their body edges. With graceful undulations of these fins, they seem to ‘fly’ through the water. They generally swim slowly, but can make a quick dash if they need to. They also flap the enlarged fins to bury themselves in the sand in an eyeblink. Stingrays have no or indistinct dorsal fins. They have long whip-like tails but lack tail fins. Their bulbous eyes stick out above the flat body, allowing them to peer out when they lie buried in the sand.</p>
+
+<p>Rays are closely related to sharks. Like sharks, the skeleton of a stingray is made of flexible cartilage. If you want to know how cartilage feels like, your nose and ears are made of cartilage! The stingray’s flat teeth are also made of cartilage but are strong enough to crush clam shells. This is because the teeth are stiffened and braced with struts of different types of cartilage.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/030717skdd0039m6l.jpg" alt="" />
+        <div class="caption">
+        Swimming. Pulau Sekudu, May 04
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/040509skddd0030m3.jpg" alt="" />
+        <div class="caption">
+        Underside. Pulau Sekudu, May 04
+        </div>
+    </div>
+    
+
+</div>
+<p>Living close to the silty or sandy bottom, stingrays have a different way of taking in water to breathe. To avoid sucking in mud and sand, water is taken in from the upperside of the body through holes called spiracles. These holes are found just beside their eyes. The water is then expelled through five pairs of gill slits on the underside of the body.</p>
+
+<p><strong>Sometimes mistaken for</strong>
+a
+<a href="../../../arthropoda/limulidae/limulidae.md">horseshoe crab</a>
+and visa versa. In murky waters, these two different animals do have a similar profile, both being round and flat with a long tail. Other similarly shaped fish include the
+<a href="../Narcinidae/narcine.md">Electric ray</a>
+.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080802sjid8875.jpg" alt="" />
+        <div class="caption">
+        St. John's Island, Aug 08
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080802sjid8875m3.jpg" alt="" />
+        <div class="caption">
+        Spine near the end of the tail.
+        </div>
+    </div>
+    
+
+</div>
+<p>Most stingrays have one spine (some may have up to four spines), often near the base of the tail (where the tail joins the body). Stingrays don’t sting with the tip of the tail. These spines are serrated and can cut deeply and introduce venom into the wound that can cause excruciating pain. These spines are used to protect themselves and not to hunt prey. They can replace lost spines.</p>
+
+<p><strong>Stinging encounter!</strong>
+Stingrays are not aggressive animals and prefer to flee from danger. Most stingray injuries are the result of carelessness, generally when someone accidentally steps on a stingray that is lying harmlessly on the bottom. Stingray spines can penetrate through booties! Read
+<a href="https://theceruleansea.wordpress.com/2022/01/06/13-questions-answered-after-i-got-stung-by-a-stingray/">Crystle Wee’s blog post about her experience being stung</a>
+.</p>
+
+<p><strong>How to stay safe:</strong>
+Wear covered shoes. Watch your step and walk slowly. Stingrays can be hard to spot when the water is murky. Even in clear water, ripples on the surface make them hard to spot. They can also be hidden just beneath the sand. Be aware of your steps, if you feel a movement under your foot, pull back and don’t step down with your full body weight. Do not step into murky water.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/100502tryd2314m6l.jpg" alt="" />
+        <div class="caption">
+        Hard to spot under rippling water. Terumbu Raya, May 10
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/070728sisd4474m3a.jpg" alt="" />
+        <div class="caption">
+        May be half buried in sand. Sisters Island, Jul 07
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>What do they eat?</strong>
+Most rays are well adapted for bottom-dwelling. Their flattened body allows them to hover close over the bottom like a vacuum cleaner. The mouth is on the underside to forage for buried bivalves, crabs and worms. These are crushed and ground up with blunt teeth.</p>
+
+<p><strong>How do they hunt for prey?</strong>
+The snout may function as an electroreceptive organ, sensitive to electric charges of prey buried in the ground. Once they find signs of an edible titbit in the sand, they may expose the buried prey by blowing a jet of water from the mouth. They may also flap their enlarged pectoral fins to dig up large shallow holes in sand or mud. On some of our shores such as Chek Jawa, such ‘craters’ are often seen on the sand bar.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/020501cjd8899m3.jpg" alt="" />
+        <div class="caption">
+        'Craters' left behind by feeding stingrays? Chek Jawa, May 02
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/selachii/selachii/080524sntd4108m3.jpg" alt="" />
+        <div class="caption">
+        An egg case laid by a shark or a ray. Sentosa, Jun 08
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/110705chgL1060451.jpg" alt="" />
+        <div class="caption">
+        Often seen trapped in fishing nets. Changi, Jul 11
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Baby rays:</strong>
+<em>**</em>
+Stingrays practice internal fertilisation. Males have a pair of claspers near the pelvic fins with grooves to introduce the sperm into the female. Stingrays give birth to live, fully developed young.</p>
+
+<p><strong>Human uses:</strong>
+<em>**</em>
+Stingrays are a popular seafood dish in Singapore. The large pectoral fins are barbequed and served with chilli, often on a banana leaf. You can see their cartilageous bones as you eat the flesh. The
+<a href="lymma.md">Blue-spotted fantail ray</a>
+(
+<em>Taeniura lymma</em>
+) is also popular in the live aquarium trade although it does not do well in captivity. Stingrays are often seen among the fishes trapped in abandoned fishing nets and traps on our shores.</p>
+
+<hr />
+
+<p><strong>Some Stingrays on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080802sjid8804m3.jpg" alt="" />
+        <div class="caption">
+        Blue-spotted fantail ray
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/110520chgd2528.jpg" alt="" />
+        <div class="caption">
+        Mangrove whipray
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/kuhlii/071226chgd8385m3.jpg" alt="" />
+        <div class="caption">
+        Blue-spotted stingray
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m3.jpg" alt="" />
+        <div class="caption">
+        Honeycomb whipray
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/220618tmftlks2.jpg" alt="" />
+        <div class="caption">
+        Whitespotted whipray ( Himantura gerrardi ) Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Family Dasyatidae recorded for Singapore</strong>
+from Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+.</p>
+
+<p><em>from Lim, Kelvin K. P. &amp; Jeffrey K. Y. Low, 1998.
+*A Guide to the Common Marine Fishes of Singapore</em>
+.</p>
+
+<p>^from
+<a href="http://www.marinespecies.org/">WORMS</a></p>
+
+<p>+Other additions (Singapore Biodiversity Records, etc)</p>
+
+<p><strong>Family Dasyatidae</strong></p>
+
+<p>*Dasyatis pastinaca</p>
+
+<p>Dasyatis zugei</p>
+
+<p>+Pastinachus atrus*
+(Eastern cowtail stingray)
+<em>^Pastinachus sephen</em>
+=
+<em>Hypolophus sephen</em>
+*^Himantura bleekeri=Dasyatis bleekeri</p>
+
+<p>^Himantura gerrardi=Dasyatis gerrardi*
+*+Himantura granulata</p>
+
+<p>+
+<a href="uarnak.md">Himantura uarnak</a>*
+(Honeycomb whipray)
+<em>+Himantura undulata</em>
+(Leopard whipray)
+**
+<a href="walga.md">Himantura walga</a>*
+(Mangrove whipray)</p>
+
+<p><em>^
+<a href="kuhlii.md">Neotrygon kuhlii</a>
+=Dasyatis kuhli</em>
+(Blue-spotted stingray)</p>
+
+<p><em><a href="lymma.md">Taeniura lymma</a></em>
+(Blue-spotted fantail ray)</p>
+
+<p><strong>^now in Family Gymnuridae</strong>
+*Gymnura micrura</p>
+
+<p>Gymnura poecilura*</p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li>Lim, Kelvin K. P. &amp; Jeffrey K. Y. Low, 1998.
+<em><a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/">A Guide to the Common Marine Fishes of Singapore</a></em>
+. Singapore Science Centre. 163 pp.</li>
+  <li>
+    <dl>
+      <dt><a href="http://www.fishbase.org/Summary/FamilySummary.cfm?id=20">Family Dasyatidae (Stingrays)</a></dt>
+      <dt>and</dt>
+      <dt>[<em>Himantura bleekeri</em></dt>
+      <dt>(Bleeker’s whipray)](http://www.fishbase.org/summary/13148)</dt>
+      <dt>and</dt>
+      <dt>[<em>Himantura gerrardi</em></dt>
+      <dt>(Sharpnose stingray)](http://www.fishbase.org/summary/15483)</dt>
+      <dt>and</dt>
+      <dt>[<em>Neotrygon kuhlii</em></dt>
+      <dt>(Blue-spotted stingray)](http://www.fishbase.org/summary/4508)</dt>
+      <dt>and</dt>
+      <dt>[<em>Dasyatis pastinaca</em></dt>
+      <dt>(Common stingray)](http://www.fishbase.org/summary/2060)</dt>
+      <dt>and</dt>
+      <dt>[<em>Dasyatis zugei</em></dt>
+      <dt>(Pale-edged stingray)](http://www.fishbase.org/summary/8205)</dt>
+      <dt>and</dt>
+      <dt>[<em>Pastinachus sephen</em></dt>
+      <dt>(Cowtail stingray)](http://www.fishbase.org/summary/8203)</dt>
+      <dt>and</dt>
+      <dt>[<em>Himantura undulata</em></dt>
+      <dt>(Leopard whipray)](http://www.fishbase.org/summary/12584)</dt>
+      <dt>and</dt>
+      <dt>[<em>Himantura walga</em></dt>
+      <dt>(Dwarf whipray)](http://www.fishbase.org/summary/15484)</dt>
+      <dt>and</dt>
+      <dt>[<em>Taeniura lymma</em></dt>
+      <dt>(Ribbontail stingray)](http://www.fishbase.org/summary/5399)</dt>
+      <dt>on</dt>
+      <dt><a href="http://www.fishbase.org/">FishBase</a></dt>
+      <dd>Technical fact sheet on the order, including fact sheets on individual species.</dd>
+    </dl>
+  </li>
+  <li><a href="http://www.fao.org/docrep/009/x2401e/x2401e00.md">Volume 3: Batoid fishes, chimaeras and bony fishes part 1 (Elopidae to Linophrynidae)</a>
+FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.</li>
+  <li><a href="https://theceruleansea.wordpress.com/2022/01/06/13-questions-answered-after-i-got-stung-by-a-stingray/">13 questions answered after I got stung by a stingray</a>
+by Crystle Wee</li>
+  <li>From the wild shores of singapore blog</li>
+  <li><a href="http://wildshores.blogspot.com/2010/01/savvy-stingrays-use-tools.html">Savvy stingrays use tools</a></li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Philip Lim &amp; Koh Kwan Siong. 18 December 2015.
+<em>Eastern cowtail stingray in eastern Johor Strait</em>
+. Singapore Biodiversity Records 2015: 208</li>
+  <li>Marcus F. C. Ng. 18 September 2015.
+<em>Juvenile mangrove whip-ray at Pulau Hantu</em>
+. Singapore Biodiversity Records 2015: 128.</li>
+  <li>Toh Chay Hoon and Kelvin K. P. Lim. 31 Oct 2013.
+<em>Mangrove whip-ray (Himantura granulata) at Semakau reef : a new record for Singapore</em>
+. Singapore Biodiversity Records 2013: 46.</li>
+  <li>Allen, Gerry, 2000.
+<em>Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers</em>
+. Periplus Editions. 292 pp.</li>
+  <li>Kuiter, Rudie H. 2002.
+<em>Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers &amp; Fishermen</em>
+New Holland Publishers. 434pp.</li>
+  <li>Lieske, Ewald and Robert Myers. 2001.
+<em>Coral Reef Fishes of the World</em>
+Periplus Editions. 400pp.</li>
+  <li>Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+. National Council on the Environment. 163pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

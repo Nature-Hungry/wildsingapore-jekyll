@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Wild boar  | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="wild, boar, pig, sus, scrofa, suidae, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/vertebrates/mammals/scrofa/011007cjcpd142m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Chordata">Chordata</a>
+                    > 
+                    <a href="/Chordata/Mammalia">Mammalia</a>
+                    > 
+                    <a href="/Chordata/Mammalia/Artiodactyla">Artiodactyla</a>
+                    >
+                    <a href="/Chordata/Mammalia/Artiodactyla/Suina">Suina</a>
+                    >
+                    <a href="/Chordata/Mammalia/Artiodactyla/Suina/Suidae">Suidae</a>
+                </p>
+                <h1>Wild boar </h1>
+                
+                    <p class="scientific-name">Sus scrofa</p>
+                
+
+                <p><em>Updated Oct 2016</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This large hairy beast is quite common in our wilder places but rarely seen as they are shy. It is more active in the early morning and late evening. Several may gather under fruiting trees to forage for fallen fruits.</p>
+
+<p>It is the largest resident land mammal in Singapore and found in forest, scrubland and mangroves. According to Baker, it was believed to be extinct in Singapore, and current populations were probably started by individuals swimming in from Malaysia across the Johor Straits. They are found on Pulau Ubin, Pulau Tekong and the Western Catchment Area and also recorded in Changi, Lim Chu Kang and the Central Catchment Area. Globally, these wild boar are found from Europe, north Africa and most of Asia.</p>
+
+<h2 id="features">Features</h2>
+
+<hr />
+<p>Head and body 1.5-2m, up to 200kg. Typical pig-shaped covered with bristly hairs with a mane on the neck and back that bristles upright when the animal is threatened. Adults have long canine teeth (tusks) and are generally dark greyish brown. Wild boar males are generally solitary, but females and their young live in groups. They are shy and generally avoid humans. But they can be aggressive when cornered. Mothers can be particularly dangerous when protecting their young. Wild boar can run fast. They can swim too!</p>
+
+<p><strong>Boar babies:</strong>
+The female gives birth to a litter of up to 8 babies. She builds a nest of branches, leaves and grass to shelter her young. Infants are brown with white stripes along the body, resembling watermelons.</p>
+
+<p><strong>What does it eat?</strong>
+It eats mainly tubers, roots and fruits. It also snacks on small animals. It may dig for roots and worms, using its strong, flexible snout.</p>
+
+<p><strong>Priscilla the pig:</strong>
+The story goes that as an infant, she was hand raised by the villagers of Kampung Chek Jawa. When the villagers were resettled due to the impending reclamation, they could not bring her along. She stayed on Chek Jawa and seemed to be doing fine foraging in the coastal hill forest and along the seashores. Her Chinese name is ‘Wei Wei’, but visitors started calling her ‘Priscilla the Pig’.</p>
+
+<p>Alas on 27 May 2004, Priscilla was found dead by NParks rangers. There was no obvious cause of death aside from “a small festering wound, and blood coming from her nostrils”. She was buried where she was found, next to the access to Chek Jawa’s shoreline. Her final resting place may be unmarked, but her mark on many of our hearts remains till this day.
+<a href="http://wildshores.blogspot.com/2008/09/memories-of-priscilla-pig-of-chek-jawa.html">More about Priscilla</a>
+on the wild shores of singapore blog.</p>
+
+<p><em><img src="http://www.wildsingapore.com/wildfacts/vertebrates/mammals/scrofa/011007cjcpd142m3.jpg" alt="" /></em>
+Priscilla the Pig.</p>
+
+<p>Chek Jawa, Oct 01</p>
+
+<p><em><img src="http://www.wildsingapore.com/wildfacts/vertebrates/mammals/scrofa/030621cjd0058m3.jpg" alt="" /></em>
+Priscilla the Pig.
+<em>Chek Jawa, Jun 03</em></p>
+
+<p><em><img src="http://www.wildsingapore.com/wildfacts/vertebrates/mammals/scrofa/040502cjd0158m3.jpg" alt="" /></em>
+Priscilla the Pig c
+ooling off in a mud wallow.
+<em>Chek Jawa, May 04</em></p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/mammals/scrofa/120414cjd0013m6l.jpg" alt="" />
+        <div class="caption">
+        Very young piglets, still with their stripes. Chek Jawa, Apr 12
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/mammals/scrofa/111210cjnhcs00571m3.jpg" alt="" />
+        <div class="caption">
+        Safe closer encounters are possible! Chek Jawa, Dec 11
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Wild boar on Singapore shores</strong></p>
+
+<hr />
+
+<p>Photos of
+<a href="https://www.flickr.com/search/?user_id=54527470%40N00&amp;sort=date-taken-desc&amp;text=Sus%20scrofa&amp;view_all=1">Wild boar</a>
+for free download from
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<hr />
+
+<p>Distribution in Singapore on
+<a href="https://www.flickr.com/photos/wildsingapore/tags/Sus%2520scrofa/map?&amp;fLat=1.2629&amp;fLon=103.8661&amp;zl=11&amp;order_by=recent">this wildsingapore flickr map</a></p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://www.ecologyasia.com/verts/mammals/wild_pig.md">Wild Pig</a>
+on Nick Baker’s EcologyAsia website: fact sheet with photos.</li>
+  <li><a href="https://singapore.biodiversity.online/taxo4254/mainSpace/Sus%20Scrofa%20-%20Wild%20Boar.html"><em>Sus scrofa</em></a>
+(Artiodactyla: Suidae) Wild Boar by Teo Li Young, 2013 on taxo4254.</li>
+  <li><a href="http://wildshores.blogspot.com/2008/09/memories-of-priscilla-pig-of-chek-jawa.html">Memories of Priscilla the Pig</a>
+on the wild shores of singapore blog.</li>
+  <li><a href="http://wildshores.blogspot.sg/2012/09/chek-jawa-wild-boar-thousands-of.html">Chek Jawa wild boar: Thousands of peaceful interactions</a>
+on the wild shores of singapore blog.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Yong DL, Lee BPY-H, Ang A &amp; Tan KH (2010)
+<a href="http://lkcnhm.nus.edu.sg/nus/images/data/nature_in_singapore/online_journal/2010/2010nis227-237.pdf">The status on Singapore Island of the Eurasian wild pig
+<em>Sus scrofa</em>
+(Mammalia: Suidae)</a>
+. Nature in Singapore, 3: 227–237.</li>
+  <li>Baker, Nick and Kelvin Lim. 2008.
+<em>Wild Animals of Singapore: A Photographic Guide to Mammals, Reptiles, Amphibians and Freshwater Fishes</em>
+Vertebrate Study Group, Nature Society (Singapore). 180 pp.</li>
+  <li>Francis, Charles M. 2001.
+<em>Mammals of South-East Asia</em>
+New Holland Publishers. 128 pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

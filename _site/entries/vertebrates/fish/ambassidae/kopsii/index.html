@@ -1,0 +1,473 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Asiatic glass perchlets | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="kops, glass, perchlet, fish, ambassis, kopsii, ambassidae, chandidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/040828skdd5497m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Chordata">Chordata</a>
+                    > 
+                    <a href="/Chordata/Actinopterygii">Actinopterygii</a>
+                    > 
+                    <a href="/Chordata/Actinopterygii/Mugiliformes">Mugiliformes</a>
+                    >
+                    <a href="/Chordata/Actinopterygii/Mugiliformes/"></a>
+                    >
+                    <a href="/Chordata/Actinopterygii/Mugiliformes//Ambassidae">Ambassidae</a>
+                </p>
+                <h1>Asiatic glass perchlets</h1>
+                
+                    <p class="scientific-name">Family Ambassidae</p>
+                
+
+                <p><em>Updated Sep 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about them ... The fish is almost transparent, like glass. Look carefully to find it. Large eyes and upturned mouths. Sometimes stranded in pools at low tide. Watch your step!
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        The fish is almost transparent, like glass. Look carefully to find it. Large eyes and upturned mouths. Sometimes stranded in pools at low tide. Watch your step!
+        </div>
+    </div>
+    
+
+</div>
+
+<h2 id="where-seen">Where seen?</h2>
+<dl>
+  <dt>Groups of these silvery fishes are frequently encountered in pools at low tide near seagrasses on many of our shores. Elsewhere, they are found in mangroves, estuaries and freshwater. They form groups during the day among mangrove roots and submerged plants. They disperse at night to feed.</dt>
+  <dt><strong>What are perchlets?</strong></dt>
+  <dt>Perchlets belong to Family Ambassidae (previously Family Chandidae). According to</dt>
+  <dt><a href="http://www.fishbase.org/Summary/FamilySummary.cfm?ID=509">FishBase</a></dt>
+  <dd>The family has 8 genera and 41 species. They are found in Asia and Oceania and the Indo-west Pacific oceans.
+    <h2 id="features">Features</h2>
+  </dd>
+</dl>
+
+<p>To about 10cm. Body nearly transparent covered with thin scales. Thus it is sometimes called the Glassfish. Mouth is upturned with a projecting jaw and large eyes. A single dorsal fin, deeply notched before the last spine. These fishes are often seen in small groups.</p>
+
+<p><strong>Kops’ glass perchlet</strong>
+(
+<em>Ambassis kopsii</em>
+) are commonly seen often in a large group of many individuals. Those seen about 5-8cm, grows to about 10cm. Body silvery almost transparent. A distinctive blackish mark on the tip of the dorsal fin, which is deeply notched. Else seen in coastal and brackish waters, sometimes upstream in freshwater. It eats invertebrates. May be marketed fresh or dried and salted.</p>
+
+<p><strong>Sometimes confused with</strong>
+<a href="../gerreidae/gerreidae.md">Mojarras</a>
+(Family Gerreidae) which have a single dorsal fin that is not deeply notched. More on
+<a href="../cfsilvery.md">how to tell apart small silvery fishes</a>
+.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/040828skdd5497m3.jpg" alt="" />
+        <div class="caption">
+        Mouth upturned, large eyes. Pulau Sekudu, Aug 04
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/050410kusg4216m6l.jpg" alt="" />
+        <div class="caption">
+        Kops' glass perchelet (Ambassis kopsii ) Dorsal fin deeply notched, with blackish tip. Kusu Island, Apr 05
+        </div>
+    </div>
+    
+
+</div>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="https://live.staticflickr.com/4567/37781483284_ce1cea629d_z.jpg" alt="" />
+        <div class="caption">
+        Often seen in large schools. Sungei Buloh Wetland Reserve, Nov 17
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>What do they eat?</strong>
+They eat tiny crustaceans such as ostracods and copepods, insects and sometimes fishes.</p>
+
+<hr />
+<p><strong>Human uses:</strong>
+Perchlets are eaten in some places and sold fresh or dried and salted. Some are used as an ingredient in making fish sauce. They are also used as bait.</p>
+
+<hr />
+
+<p><strong>Glass perchlets on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?text=Ambassis kopsii&amp;sort=date-taken-desc&amp;user_id=54527470@N00">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Ambassis%2520kopsii/map?&amp;fLat=1.2622&amp;fLon=103.8661&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/250626ubnrk5.jpg" alt="" />
+        <div class="caption">
+        Pulau Ubin Jetty, Jun 25 Photo shared by Richard Kuah on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/171010blymn2.jpg" alt="" />
+        <div class="caption">
+        Berlayar Creek, Oct 17 Photo shared by Marcus Ng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/241019lazccn2.jpg" alt="" />
+        <div class="caption">
+        Lazarus Island, Oct 24 Photo shared by Che Cheng Neo on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/251009sjilks11.jpg" alt="" />
+        <div class="caption">
+        St John's Island, Oct 25 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/250810bsisjk6.jpg" alt="" />
+        <div class="caption">
+        Big Sisters, Aug 25 Photo shared by Jayden Kang on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/160208smkshpy5.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau South, Feb 16 Photo shared by Heng Pei Yan on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Family Ambassidae recorded for Singapore</strong>
+from Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+.</p>
+
+<p><em>Lim, Kelvin K. P. &amp; Jeffrey K. Y. Low, 1998.
+*A Guide to the Common Marine Fishes of Singapore</em>
+.</p>
+
+<p>**from
+<a href="http://www.marinespecies.org/index.php">WORMS</a></p>
+
+<p>+Other additions (Singapore Biodiversity Records, etc)</p>
+
+<p><strong>Family Ambassidae (previously Chandidae)</strong>
+some species are freshwater</p>
+
+<p>*Ambassis batjanensis</p>
+
+<p>Ambassis buruensis</p>
+
+<p>Ambassis gymnocephalus</p>
+
+<p>Ambassis interrupta</p>
+
+<p>Ambassis kopsii</p>
+
+<p>Ambassis nalua</p>
+
+<p>Ambassis safgha</p>
+
+<p>Ambassis urotaenia</p>
+
+<p>+Ambassis vachellii</p>
+
+<p>Parambassis punctulatus=
+<strong>*Parambassis siamensis</strong>
+(Non native freshwater)</p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/263.md">Kops’ Glass Perchlet (
+<em>Ambassis kopsii</em>
+)</a>
+Lim, Kelvin K. P. &amp; Jeffrey K. Y. Low, 1998.
+<em><a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/">A Guide to the Common Marine Fishes of Singapore</a></em>
+. Singapore Science Centre. 163 pp.</li>
+  <li><a href="https://singapore.biodiversity.online/taxon/A-Vert-Fish-Perciformes-Ambassidae">Asiatic glassfish (Ambassidae)</a>
+on The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.</li>
+  <li><a href="https://www.ecologyasia.com/verts/fishes/glass-perchlet.md">Glass Perchlets</a>
+on Ecology Asia.</li>
+  <li>
+    <dl>
+      <dt>[Singapore glassy perchlet (</dt>
+      <dt><em>Ambassis kopsii</em></dt>
+      <dt>)](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=5982)</dt>
+      <dt>from</dt>
+      <dt><a href="http://www.fishbase.org/">FishBase</a></dt>
+      <dd>Technical fact sheet.</dd>
+    </dl>
+  </li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

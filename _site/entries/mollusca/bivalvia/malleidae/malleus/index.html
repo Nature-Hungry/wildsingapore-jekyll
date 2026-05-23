@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Hammer oyster  | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="hammer, oyster, malleus, malleidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/090625cyrd5536m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Mollusca">Mollusca</a>
+                    > 
+                    <a href="/Mollusca/Bivalvia">Bivalvia</a>
+                    > 
+                    <a href="/Mollusca/Bivalvia/Ostreida">Ostreida</a>
+                    >
+                    <a href="/Mollusca/Bivalvia/Ostreida/"></a>
+                    >
+                    <a href="/Mollusca/Bivalvia/Ostreida//Malleidae">Malleidae</a>
+                </p>
+                <h1>Hammer oyster </h1>
+                
+                    <p class="scientific-name">Malleus sp.</p>
+                
+
+                <p><em>Updated May 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This T-shaped clam is sometimes seen lying freely among the seagrasses. Some are shaped like tongue depressors or spatulas and seen wedged upright crevices among rocks and rubble, or under stones. Seen on Changi and some of our Southern shores. The clams are said to be found in colonies. According to The Gladys Archerd website, most live in the crevices of coral rocks or on reef flats in tropical regions.
+<em>Malleus</em>
+are NOT true oysters which belong to
+<a href="../ostreidae/osteridae.md">Family Ostreidae</a>
+.</p>
+
+<h2 id="features">Features</h2>
+
+<p>8-12cm. The two-part shell is thick and some are obviously T-shaped. ‘Malleus’ means ‘hammer’ or ‘mallet’ in Latin. The hinge is on the ‘horizontal’ portion of the ‘T’ and the valves held shut by one large adductor muscle that lies at the cross of the ‘T’. Some have wavy edges along the ‘vertical’ portion of the ‘T’. The outer shell is often encrusted with calcareous algae and other organisms. The inner shell is partially lined with mother-of-pearl. Byssus threads are produced near the hinge - the ‘T’ shaped part of the shell - which anchors the clam. .</p>
+
+<p>The clams grouped here are probably from different species.</p>
+
+<p>Those shaped like tongue depressors stuck in crevices are
+<strong>sometimes confused with</strong>
+<a href="../pteriidae/isognomum.md">Elongated toothed oysters</a>
+that have a similar shape and also stuck upright in crevices. It is difficult to tell them apart without ripping them out of their hiding place and looking at the inside of the shell. On the inside, Hammer oysters have a small depression at the hinge and a small area of mother-of-pearl, relative to the shell length.</p>
+
+<p><strong>Human uses:</strong>
+In Indonesia and the Philippines, they are collected. The shell may be used for shellcraft or as lime.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/090625cyrd5536m3.jpg" alt="" />
+        <div class="caption">
+        Sometimes seen lying on the ground. Cyrene Reef, Jul 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/120510chgd2926m3.jpg" alt="" />
+        <div class="caption">
+        Sometimes partially buried. Changi, May 12
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/090208smkd6647m3.jpg" alt="" />
+        <div class="caption">
+        Spatula-shaped clams seen sticking out from among rubble and rocks. Pulau Semakau, Feb 09
+        </div>
+    </div>
+    
+
+</div>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/111225tmskd4833m6l.jpg" alt="" />
+        <div class="caption">
+        On the inside, a small depression at the hinge and area of mother-of-pearl is small relative to the shell length. Terumbu Semakau, Dec 11
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/160208smkso2080010m3.jpg" alt="" />
+        <div class="caption">
+        Stuck under a stone. Pulau Semakau, Feb 16
+        </div>
+    </div>
+    
+
+</div>
+<p>**Species are difficult to positively identify without close examination.</p>
+
+<p>On this website, they are grouped by external features for convenience of display.*</p>
+
+<hr />
+
+<p><strong>Hammer oysters on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470%40N00&amp;sort=date-posted-desc&amp;safe_search=3&amp;view_all=1&amp;text=Malleus">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Malleus/map?&amp;fLat=1.2622&amp;fLon=103.8661&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/100612chglks5m3.jpg" alt="" />
+        <div class="caption">
+        Changi, Jun 10 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/241021ecppcnlll1.jpg" alt="" />
+        <div class="caption">
+        East Coast (Sailing Centre), Oct 24 Photo shared by Low Liong Leong on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/201215bsrpvc2.jpg" alt="" />
+        <div class="caption">
+        Sentosa Serapong, Dec 20 Photo shared by Vincent on facebook
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/201116lazlks4.jpg" alt="" />
+        <div class="caption">
+        Lazarus Island, Nov 20 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/110203sjilks2m3.JPG" alt="" />
+        <div class="caption">
+        St. John's Island, Feb 11 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/201115tkklks1.jpg" alt="" />
+        <div class="caption">
+        Pulau Tekukor, Nov 20 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/200626tptky4.jpg" alt="" />
+        <div class="caption">
+        Terumbu Pempang Tengah, Jun 20 Photo shared by Kelvin Yong on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/121115tsmklks.JPG" alt="" />
+        <div class="caption">
+        Terumbu Semakau, Nov 12 Photo shared by Loh Kok Sheng on flickr .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/100131slud8785m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Salu, Jan 10
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/210428sluvc1.jpg" alt="" />
+        <div class="caption">
+        Pulau Salu, Apr 21 Photo shared by Vincent Choo on facebok .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Family Malleidae recorded for Singapore</strong>
+from Tan Siong Kiat and Henrietta P. M. Woo, 2010
+<em>Preliminary Checklist of The Molluscs of Singapore</em>
+.</p>
+
+<p>^from
+<a href="http://www.marinespecies.org/">WORMS</a></p>
+
+<p><strong>Family Malleidae</strong></p>
+
+<p><em><a href="malleus.md"><strong>Malleus</strong></a></em>
+<strong><a href="malleus.md">sp.</a>
+(Hammer oysters)
+**</strong>
+*Malleus albus</p>
+
+<p>Malleus decurtatus=^Malleus regula</p>
+
+<p>Malleus malleus</p>
+
+<p>Malleus regula*</p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="https://www.sealifebase.se/summary/Malleus-albus.html"><em>Malleus albus</em></a>
+(White hammer oyster),
+<a href="https://www.sealifebase.se/summary/Malleus-malleus.html"><em>Malleus malleus</em></a>
+(Black hammer oyster),
+<a href="https://www.sealifebase.se/summary/Malleus-regula.html"><em>Malleus regula</em></a>
+(Straight hammer oyster) on SeaLife Base.</li>
+  <li><a href="http://shells.tricity.wsu.edu/ArcherdShellCollection/Bivalvia/Malleidae.html">Hammer Oysters (Family Malleidae)</a>
+on the
+<a href="http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html">The Gladys Archerd Shell Collection</a>
+at Washington State University Tri-Cities Natural History Museum website.</li>
+  <li>Family Malleidae in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+<a href="http://www.fao.org/docrep/009/w7191e/w7191e00.md">Volume 1: Seaweeds, corals, bivalves and gastropods</a>
+on the Food and Agriculture Organization of the United Nations (FAO) website.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Tan Siong Kiat and Henrietta P. M. Woo, 2010
+<em>Preliminary Checklist of The Molluscs of Singapore</em>
+(pdf), Raffles Museum of Biodiversity Research, National University of Singapore.</li>
+  <li>Abbott, R. Tucker, 1991.
+<em>Seashells of South East Asia</em>
+. Graham Brash, Singapore. 145 pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

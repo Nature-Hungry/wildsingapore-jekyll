@@ -1,0 +1,503 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Hairy sea hare | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="hairy, seahare, hare, anaspidea, aplysiidae, bursatella, leachii, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/bursatella/050511cftg6199m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Mollusca">Mollusca</a>
+                    > 
+                    <a href="/Mollusca/Gastropoda">Gastropoda</a>
+                    > 
+                    <a href="/Mollusca/Gastropoda/Aplysiida">Aplysiida</a>
+                    >
+                    <a href="/Mollusca/Gastropoda/Aplysiida/"></a>
+                    >
+                    <a href="/Mollusca/Gastropoda/Aplysiida//Aplysiidae">Aplysiidae</a>
+                </p>
+                <h1>Hairy sea hare</h1>
+                
+                    <p class="scientific-name">Bursatella leachii</p>
+                
+
+                <p><em>Updated May 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about them ... Sea hares may secrete a purple dye. But don't tease them to make them do this. Although they can be quite large, they are well camouflaged. Watch your step! Sea hares have very specialised diets and should not be kept in home aquariums.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        Sea hares may secrete a purple dye. But don't tease them to make them do this. Although they can be quite large, they are well camouflaged. Watch your step! Sea hares have very specialised diets and should not be kept in home aquariums.
+        </div>
+    </div>
+    
+
+</div>
+
+<h2 id="where-seen">Where seen?</h2>
+<p>This hirsute sea hare is sometimes seen on our Northern shores among seagrasses and seaweeds. Sometimes many are seen scattered everywhere, then they are no longer seen for many months. Sometimes, several are seen gathered together, densely packed in large numbers, possibly mating? Or simply gathering around a good source of food?</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/bursatella/050511cftg6199m3.jpg" alt="" />
+        <div class="caption">
+        Changi, May 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/bursatella/050511cftg6199m3a.jpg" alt="" />
+        <div class="caption">
+        Two pairs of tubular tentacles
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/bursatella/050511cftg6199m3d.jpg" alt="" />
+        <div class="caption">
+        Short triangular 'tail' edged with white bars.
+        </div>
+    </div>
+    
+
+</div>
+<h2 id="features">Features</h2>
+
+<p>6-12cm. Body long, fleshy with a short triangular tail which has white bars. It is covered with lots of flat branching finger-like projections. It has two pairs of tentacles, oral tentacles and rhinophores about the same size (you have to look carefully among the hairy bits to distinguish the tentacles). The parapodia appears to be a hole in the centre of the body, rather than ‘wings’ or flaps as in other large sea hares. It may come in different shades of brown, sometimes bluish, sometimes with orangey ‘hairs’, usually with bright blue spots which are ringed in brown. It is usually well camouflaged and blends in perfectly with among seaweeds and seagrasses. Like some other sea hares, it produces a purple ink when disturbed.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/bursatella/190720prp.jpg" alt="" />
+        <div class="caption">
+        Egg mass laid by the sea hare. Pasir Ris, JUl 19
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/bursatella/040509skdbd0143m3.jpg" alt="" />
+        <div class="caption">
+        Releases purple ink when disturbed. Pulau Sekudu, May 04
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/bursatella/050511cftg6199m3c.jpg" alt="" />
+        <div class="caption">
+        Projections flat branching, not spiny. Blue spots but no fine lines.
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Sometimes mistaken for</strong>
+the
+<a href="stylocheilus.md">Furry sea hare</a>
+which has finer ‘hair’ and fine parallel lines. More on
+<a href="../../hairyslugsnail.md">how to tell apart hairy slugs and snails</a>
+.</p>
+
+<p><strong>What does it eat?</strong>
+It eats
+<a href="../../../plants/seaweed/cyanobacteria/cyanobacteria.md">cyanobacteria</a>
+, in particular, the mat-forming
+<em>Lyngbya majuscula</em>
+, which was formerly known as the filamentous blue-green alga
+<em>Microcoleus lyngbyaceus</em>
+. Apparently,
+<em>Bursatella</em>
+sea hares swallow large amounts of sand in the process of eating, somewhat like earthworms do.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/bursatella/090428chgd0698m3.jpg" alt="" />
+        <div class="caption">
+        When out of water, looks like a blob. Changi, May 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/bursatella/090428chgd0874m3.jpg" alt="" />
+        <div class="caption">
+        Pale ones sometimes seen. Changi, May 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/bursatella/090428chgd0766m3.jpg" alt="" />
+        <div class="caption">
+        Comes in a variety of shades. Chek Jawa, Feb 07
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Hairy sea hares on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470%40N00&amp;sort=date-posted-desc&amp;view_all=1&amp;text=Bursatella%20leachii">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Bursatella%2520leachii/map?&amp;fLat=1.2626&amp;fLon=103.8661&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/bursatella/201020swgvc2.jpg" alt="" />
+        <div class="caption">
+        Sembawang, Oct 20 Photo shared by Vincent Choo on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/bursatella/200627cnyrk2.jpg" alt="" />
+        <div class="caption">
+        Coney Island, Jun 20 Photo shared by Richard Kuah on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/bursatella/200917prpvc2.jpg" alt="" />
+        <div class="caption">
+        With eggs next to it. Pasir Ris Park, Sep 20 Photo shared by Vincent Choo on facebook.
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/bursatella/110519chglks5m3.jpg" alt="" />
+        <div class="caption">
+        Changi, May 11 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/bursatella/100908chgnml4m3.jpg" alt="" />
+        <div class="caption">
+        Changi, Sep 10 Photo shared by Neo Mei Lin on her blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/bursatella/091203ubnjk1m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Ubin, Dec 09 Photo shared by James Koh on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/bursatella/200819ecptch8.jpg" alt="" />
+        <div class="caption">
+        East Coast Park, Aug 20 Photo shared by Toh Chay Hoon on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/bursatella/090824tuslks.JPG" alt="" />
+        <div class="caption">
+        Tuas, Aug 09 Photo shared by Loh Kok Sheng on flickr .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/bursatella/100528tkkjk16m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Tekukor, May 10 Photo shared by James Koh on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://www.seaslugforum.net/welcome.md">Sea Slug Forum</a>
+by Dr Bill Rudman: photos and fact sheet on
+<em><a href="http://www.seaslugforum.net/factsheet.cfm?base=bursleac">Bursatella leachii</a></em>
+and
+<a href="http://www.seaslugforum.net/factsheet.cfm?base=seahatac">purple ink</a>
+produced by sea hares</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Tan Yong How Jonathan. 31 Mar 2016.
+<em>Congregation of hairy sea hares at Changi Point</em>
+. Singapore Biodiversity Records 2016: 46-47</li>
+  <li>Tan Siong Kiat and Henrietta P. M. Woo, 2010
+<em>Preliminary Checklist of The Molluscs of Singapore</em>
+(pdf), Raffles Museum of Biodiversity Research, National University of Singapore.</li>
+  <li>Debelius, Helmut, 2001.
+<em>Nudibranchs and Sea Snails: Indo-Pacific Field Guide</em>
+IKAN-Unterwasserachiv, Frankfurt. 321 pp.</li>
+  <li>Wells, Fred E. and Clayton W. Bryce. 2000.
+<em>Slugs of Western Australia: A guide to the species from the Indian to West Pacific Oceans</em>
+. Western Australian Museum. 184 pp.</li>
+  <li>Coleman, Neville. 2001.
+<em>1001 Nudibranchs: Catalogue of Indo-Pacific Sea Slugs</em>
+. Neville Coleman’s Underwater Geographic Pty Ltd, Australia.144pp.</li>
+  <li>Humann, Paul and Ned Deloach. 2010.
+<em>Reef Creature Identification: Tropical Pacific</em>
+New World Publications. 497pp.</li>
+  <li>Kuiter, Rudie H and Helmut Debelius. 2009.
+<em>World Atlas of Marine Fauna</em>
+. IKAN-Unterwasserachiv. 723pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

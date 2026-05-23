@@ -1,0 +1,589 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Banded file snake | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="banded, file, snake, watersnake, acrochordus, granulatus, acrochordidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/050710skdg9354m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Chordata">Chordata</a>
+                    > 
+                    <a href="/Chordata/Reptilia">Reptilia</a>
+                    > 
+                    <a href="/Chordata/Reptilia/Squamata">Squamata</a>
+                    >
+                    <a href="/Chordata/Reptilia/Squamata/Serpentes">Serpentes</a>
+                    >
+                    <a href="/Chordata/Reptilia/Squamata/Serpentes/Acrochordidae">Acrochordidae</a>
+                </p>
+                <h1>Banded file snake</h1>
+                
+                    <p class="scientific-name">Acrochordus granulatus</p>
+                
+
+                <p><em>Updated Oct 2019</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This snake with bands is sometimes seen on some of our shores, near seagrass meadows and mangroves. According to Baker, it is mainly found in the Johor Straits including Sungei Buloh Wetland Reserve and was also found out of water, hidden in
+<a href="../../crustacea/othercrust/lobster/thalassina.md">mudlobster mounds</a>
+. A nocturnal snake, it is usually seen in the late evening or early morning. It is widely distributed from India to Southeast Asia to southern China and northern Australia. It was previously known as
+<em>Chersydrus granulatus</em>
+.</p>
+<h2 id="features">Features</h2>
+
+<p>To about 1m, but usually shorter. Body cylindrical, banded with black or brown bands on white or beige. The bands are broad on the top of the snake but narrows at the sides. It does not have a distinct ‘neck’, the head is small and blunt. On the underside, it has no enlarged scales and instead has a prominent fold of skin along the centre of the belly. The tail is tapered to a point and is not flattened. The Banded file snake is non-venomous and harmless to humans.</p>
+
+<p><strong>Sometimes confused with</strong>
+the highly venomous
+<a href="laticauda.md">Yellow-lipped sea snake</a>
+(
+<em>Laticauda colubrina</em>
+). Here’s
+<a href="cfseafile.md">how to tell apart banded snakes</a>
+seen near the coast. It may also be confused with eels. Here’s more on
+<a href="../../glossary/eelsnake.md">how to tell apart sea snakes, eels and eel-like animals</a>
+.</p>
+
+<p>Another file snake recorded for Singapore is the Elephant trunk water snake (
+<em>Acrochordus javanicus)</em>
+. It is longer, grows to about 2.9m. It is not banded and is olive brown to grey brown with faintly marbled black pattern on the sides. The underside is lighter than the upperside. There is no prominent central fold on the underside. In slow-moving waters of estuaries and freshwater streams and canals.
+<strong>What does it eat?</strong>
+Mainly small fishes such as bottom dwelling
+<a href="../fish/gobiidae/gobiidae.md">gobies</a>
+. The snake has a loose skin covered with small rough scales. The file-like skin helps it to grip its slippery prey. The snake has tiny eyes and a small mouth.</p>
+
+<p><strong>File Babies:</strong>
+Mama snake does not lay eggs and instead, gives birth to live young in litters of 5-10.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/050710skdg9354m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Sekudu, Jul 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/050710skdg9354m3a.jpg" alt="" />
+        <div class="caption">
+        Loose, granulated skin Pulau Sekudu, Jul 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/050710skdg9361m3.jpg" alt="" />
+        <div class="caption">
+        Central fold on the underside Pulau Sekudu, Jul 05
+        </div>
+    </div>
+    
+
+</div>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/050710skdg9354m3c.jpg" alt="" />
+        <div class="caption">
+        Small eyes (clouded, suggesting the snake is about to moult)
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/090721skdd7645m3.jpg" alt="" />
+        <div class="caption">
+        Loose skin and the tail is not paddle-shaped. Pulau Sekudu, Jul 09
+        </div>
+    </div>
+    
+
+</div>
+
+<hr />
+
+<p><strong>Banded file snakes on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470%40N00&amp;view_all=1&amp;text=Acrochordus%20granulatus">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Acrochordus%20granulatus/map?&amp;fLat=1.2619&amp;fLon=103.8661&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/170626skdlks4.jpg" alt="" />
+        <div class="caption">
+        Pulau Sekudu, Jun 17 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/180617skdlks2.jpg" alt="" />
+        <div class="caption">
+        Pulau Sekudu, Jun 18 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/250501skddc1.jpg" alt="" />
+        <div class="caption">
+        Pulau Sekudu, May 25 Photo shared by Dayna Cheah on facebook
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/130824smklks.JPG" alt="" />
+        <div class="caption">
+        Covered with algae! Pulau Semakau North, Aug 13 Photo shared by Loh Kok Sheng on his blog.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/181027smksjll1.jpg" alt="" />
+        <div class="caption">
+        Covered with algae! Pulau Semakau South, Oct 18 Photo shared by Jianlin Liu on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/140810smkmn.jpg" alt="" />
+        <div class="caption">
+        Covered with algae! Pulau Semakau, Aug 14 Photo shared by Marcus Ng on flickr .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/111029smkmn.jpg" alt="" />
+        <div class="caption">
+        A pair of snakes mating. Pulau Semakau, Oct 11 Photo shared by Marcus Ng on flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/071103smkljh1m3.jpg" alt="" />
+        <div class="caption">
+        Covered with algae! Pulau Semakau, Nov 07 Photo shared by Lin Juanhui on her flickr .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/110814smkjk3m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau, Aug 11 Photo shared by James Koh on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/221225smksmn2.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau (South), Dec 22 Photo shared by Marcus Ng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/260629smkeccn1.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau East, Jun 25 Photo shared by Che Cheng Neo on facebook . .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/260629smkeccn1a.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau East, Jun 25 Photo shared by Che Cheng Neo on facebook . .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/240822tsmkl2a.jpg" alt="" />
+        <div class="caption">
+        Terumbu Semakau, Aug 24
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/240822tsmkl2.jpg" alt="" />
+        <div class="caption">
+        Photo shared by Lon on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/200708tsmkmn2.jpg" alt="" />
+        <div class="caption">
+        Terumbu Semakau, Jul 20 Photo shared by Marcus Ng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p>Terumbu Semakau, Jul 2020</p>
+
+<hr />
+
+<p>Pulau Semakau, 26 Apr 2017</p>
+
+<hr />
+
+<p>Pulau Semakau, Aug 2013</p>
+
+<p>Shared by Heng Pei Yan on
+<a href="http://peiyansama.blogspot.sg/2013/08/snakey-and-galloping-national-day-at.html">her blog</a></p>
+
+<hr />
+
+<p>Filmed on Pulau Semakau Aug 2013</p>
+
+<p><a href="http://vimeo.com/19483268">banded file snake - 01Feb2011</a>
+from
+<a href="http://vimeo.com/sgbeachbum">SgBeachBum</a>
+on
+<a href="https://vimeo.com">Vimeo</a>
+.</p>
+
+<p>Shared by Heng Pei Yan on
+<a href="http://peiyansama.blogspot.sg/2013/08/snakey-and-galloping-national-day-at.html">her blog</a></p>
+
+<hr />
+
+<p><strong>Family Acrochordidae recorded for Singapore</strong>
+from Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+.</p>
+
+<p><em>from Lim, Kelvin K. P. &amp; Francis L K Lim, 1992.
+*A Guide to the Amphibians and Reptiles of Singapore</em></p>
+
+<p><strong>Family Acrochordidae</strong></p>
+
+<p>*Acrochordus javanicus</p>
+
+<p><em>Acrochordus granulatus</em></p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://singaporesnakes.blogspot.com/search/label/Banded%20File%20Snake">Banded File Snakes</a>
+on the
+<a href="http://singaporesnakes.blogspot.com/">Singapore Snakes</a>
+blog: fact sheet with photos and links to local sightings and other posts.</li>
+  <li><a href="http://mangrove.nus.edu.sg/guidebooks/text/2112.md">Mangrove snakes: File snake</a>
+Ng, Peter K. L. &amp; N. Sivasothi, 1999.
+<em><a href="http://mangrove.nus.edu.sg/guidebooks/">A Guide to the Mangroves of Singapore Ii (Animal Diversity</a></em>
+<a href="http://mangrove.nus.edu.sg/guidebooks/">)</a>
+. Singapore Science Centre. 168 pp.</li>
+  <li><a href="http://www.wildsingapore.per.sg/discovery/factsheet/snakefile.md">Banded File Snake</a>
+on Chan Kwok Wai’s Wildlife Singapore: fact sheet with photos.</li>
+  <li><a href="https://singapore.biodiversity.online/taxo4254/mainSpace/Acrochordus%20granulatus.html"><em>Acrochordus granulatus</em></a>
+(Squamata: Acrochordidae) Banded File Snake by Lee Gang, 2011 from taxo2454.</li>
+  <li><a href="http://www.iucnredlist.org/details/176769/0"><em>Acrochordus granulatus</em></a>
+on the IUCN Red List.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Tan Heok Hui &amp; Kelvin K. P. Lim (fish). 30 Jun 2017.
+<em>Banded file snake hunting and eating a goby</em>
+. Singapore Biodiversity Records 2017: 84-86.</li>
+  <li>Jeffery Teo &amp; Max Khoo De Yuan. 30 Dec 2016.
+<em>Smooth-coated otter interacting with banded file snake</em>
+. Singapore Biodiversity Records 2017: 182-184.</li>
+  <li>David Groenewoud. 20 Mar 2015.
+<em>Banded file snake at Sembawang beach</em>
+. Singapore Biodiversity Records 2015: 40</li>
+  <li>Law Ing Sind. 1 August 014.
+<em>Banded file snakes at Pasir Ris mangroves, Acrochordus granulatus</em>
+. Singapore Biodiversity Records 2014: 211</li>
+  <li>Noel Thomas, Gina Barnett &amp; Anders Zimny. 18 July 014.
+<em>Banded file snake at Pasir Ris mangroves, Acrochordus granulatus</em>
+. Singapore Biodiversity Records 2014: 191.</li>
+  <li>Ng TH (2011)
+<em>A record of the banded file snake, Acrochordus granulatus (Reptilia: Squamata: Acrochordidae) in a freshwater habitat in Singapore</em>
+. Nature in Singapore, 4: 91–93.</li>
+  <li>Lim, Kelvin K. P. &amp; Francis L K Lim, 1992.
+<em>A Guide to the Amphibians and Reptiles of Singapore</em>
+Singapore Science Centre. 160 pp.</li>
+  <li>Baker, Nick and Kelvin Lim. 2008.
+<em>Wild Animals of Singapore: A Photographic Guide to Mammals, Reptiles, Amphibians and Freshwater Fishes</em>
+Vertebrate Study Group, Nature Society (Singapore). 180 pp.</li>
+  <li>Stuebing, Robert B and Robert F. Inger. 1999.
+<em>A Field Guide to the Snakes of Borneo</em>
+Natural History Publications (Borneo). 254 pp.</li>
+  <li>Cox, Merel J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt. 1998.
+<em>A Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular Malaysia and Singapore</em>
+New Holland. pp 144.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

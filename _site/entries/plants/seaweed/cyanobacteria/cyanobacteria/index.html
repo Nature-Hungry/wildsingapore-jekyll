@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Cyanobacteria | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="cyanobacteria, blue-green, blue, green, seaweed, weed, algae, chlorophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/050529sjid3577m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/"></a>
+                    > 
+                    <a href="//"></a>
+                    > 
+                    <a href="///"></a>
+                    >
+                    <a href="////"></a>
+                    >
+                    <a href="/////"></a>
+                </p>
+                <h1>Cyanobacteria</h1>
+                
+                    <p class="scientific-name">Kingdom Animalia</p>
+                
+
+                <p><em>Updated Aug 10</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about them ... They can undergo photosynthesis, but are more similar to bacteria than algae. They include some of the oldest living fossils: those producing stromatolites. They are the reason why wild flamingos are pink!
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        They can undergo photosynthesis, but are more similar to bacteria than algae. They include some of the oldest living fossils: those producing stromatolites. They are the reason why wild flamingos are pink!
+        </div>
+    </div>
+    
+
+</div>
+
+<p><strong>What are cyanobacteria?</strong>
+Cyanobacteria are microscopic organisms that live in water and can undergo photosynthesis. Although they are sometimes called blue-green algae, they are not related to algae. They are classified with bacteria because these organisms share similar features with bacteria.</p>
+
+<p>Cyanobacteria are more abundant in the intertidal zone than in the open ocean. They are also found in soil and freshwater, and some even live inside rocks. They are also found in extreme conditions such as hot springs and snowfields.</p>
+
+<h2 id="where-seen">Where seen?</h2>
+<p>On our shores, cyanobacteria can be seen growing on rocks as well as on sandy shores among seagrasses and seaweeds. 90 species of cyanobacteria are recorded for Singapore by Pham (link below). Some live inside other animals such as sponges like
+<a href="../../../porifera/spatula.md"><em>Lamellodysidea herbacea</em></a>
+.</p>
+
+<h2 id="features">Features</h2>
+
+<p>They have a bluish pigment phycocyanin that is used to capture light for photosynthesis. They also contain chlorophyll.
+<strong>Big bacteria:</strong>
+These microscopic organisms sometimes can aggregate to produce structures large enough for us to see and feel. These can appear as blobs on rocks, or fine hair-like filaments on rocks and among seaweeds and seagrasses, sometimes forming mats. On land, they may look like slime or scum. They are not always blue or green. Some can be black, brown or red.</p>
+
+<p><strong>Bacteria reefs:</strong>
+Although tiny, these organisms can have a large impact on the environment. Cyanobacteria produced stromatolites, the oldest living fossils, dating 3 billion years. Stromatolites are large, hard structures of laminated calcium or silica. Some cyanobacteria continue to produce stromatolites today in tropical Australia and the Bahamas. These large structures are produced by microscopic animals so a stromatolite 1m tall may be 2,000 years old! The chloroplast which plants use to undergo photosynthesis and make food, is actually a cyanobacterium living inside the plant’s cell! It is believed that the oxygen atmosphere we breathe was generated by cyanobacteria in prehistoric times. Cyanobacteria were the dominant lifeform on Earth 2 billion years ago.</p>
+
+<p>Today, cyanobacteria continue to have an impact. The Red Sea is named for the red colour of cyanobacteria
+<em>Oscillatoria</em>
+that produce dense blooms in that body of water. African flamingos are pink from eating a kind of red cyanobacteria
+<em>Sirulina</em>
+. Some species of cyanobacteria can fix atmospheric nitrogen for their own needs. Some of these are believed to benefit seagrasses by fixing nitrogen for the seagrasses.</p>
+
+<p><strong>Role in the habitat:</strong>
+Cyanobacteria are eaten by a wide range of animals. Among the common animals believed to eat cyanobacteria are sea slugs like the
+<a href="../../../mollusca/slugs/anaspidae/bursatella.md">Hairy sea hare</a>
+(
+<em>Bursatella leachii</em>
+) and
+<a href="../../../mollusca/slugs/anaspidae/stylocheilus.md">Long-tailed hairy sea hare</a>
+(
+<em>Styloceilus</em>
+sp.)</p>
+
+<p><strong>Human uses:</strong>
+Some species of cyanobacteria are able to breakdown heavy hydrocarbons and may thus have a practical use in cleaning up oil spills. The nitrogen-fixing properties of cyanobacteria are believed to be important to the fertility of ride padi fields. On the other hand, blooms of cyanobacteria in nutrient rich waters (e.g., polluted by agricultural drainage or sewage) can produce toxins that poison the water.</p>
+
+<p><img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/050529sjid3577m3.jpg" alt="" /></p>
+
+<p>Hair-like cyanobacteria</p>
+
+<p><em>St. John’s Island, May 05</em>
+<img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/061223lazd7071m3.jpg" alt="" /></p>
+
+<p><em>Lazarus Island, Dec 06</em>
+<img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/100813cyrd0515m3.jpg" alt="" /></p>
+
+<p>Growing among and on seagrasses
+<em>Cyrene Reef, Aug 10</em>
+<img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/100813cyrd0515m3a.jpg" alt="" /></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/080422smk3d1587m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau, Apr 08
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/080719sntd7748m3.jpg" alt="" />
+        <div class="caption">
+        Sentosa, Jul 08
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/080207sisd9339m3.jpg" alt="" />
+        <div class="caption">
+        Sisters Island, Feb 08
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/120818lazs02363m6l.jpg" alt="" />
+        <div class="caption">
+        Lazarus Island, Aug 12
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/100612chgd5266m3.jpg" alt="" />
+        <div class="caption">
+        Changi, Jun 10
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/100613sngd5640m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Senang, Jun 10
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Cyanobacteria on Singapore shores</strong></p>
+
+<hr />
+
+<p>Photos of
+<a href="https://www.flickr.com/search/?q=Cyanobacteria&amp;w=54527470%40N00&amp;s=rec">Cyanobacteria</a>
+for free download from
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<hr />
+
+<p>Distribution in Singapore on
+<a href="https://www.flickr.com/photos/wildsingapore/tags/Cyanobacteria/map?&amp;fLat=1.2612&amp;fLon=103.8644&amp;zl=11&amp;order_by=recent">this wildsingapore flickr map</a></p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://www.ucmp.berkeley.edu/bacteria/cyanointro.html">Introduction to Cyanobacteria</a>
+on the
+<a href="http://www.ucmp.berkeley.edu/">Museum of Paleontology, University of California Berkeley</a>
+website: fossil record, life history and ecology, systematics and more on morphology.</li>
+  <li><a href="http://www.botany.hawaii.edu/faculty/webb/BOT311/Cyanobacteria/Cyanobacteria.md">Cynaophyta</a>
+on the University of Hawai’i Manoa website: lots of photos and lots of brief details on major aspects of the group, quite scientific but the photos and diagrams make it easier to understand.</li>
+  <li><a href="http://www-cyanosite.bio.purdue.edu/">Cyanosite</a>
+a Webserver for Cyanobacterial Research: photos, taxonomy and links.</li>
+  <li><a href="http://www.uta.edu/paleomap/homepage/Schieberweb/microbial_mat_page.md">Microbial Mat Page</a>
+by Jurgen Schieber, University of Texas at Arlington Department of Geology website: all about mats produced by microbes with photos and links.</li>
+  <li><a href="http://www.naturebase.net/component/option,com_hotproperty/task,view/id,56/Itemid,755/">Hamelin Pool Marine Nature Reserve</a>
+in Australia is one of the few places where you can see living stromatolites.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
+<em>A photographic guide to the marine algae of Singapore</em>
+, 2015. Tropical Marine Science Institute, 201 pp.</li>
+  <li>Pham, M. N., H. T. W. Tan, S. Mitrovic &amp; H. H. T. Yeo, 2011.
+<a href="http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf"><em>A Checklist of the Algae of Singapore</em></a>
+, 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore, Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].</li>
+  <li>Lim, S., P. Ng, L. Tan, &amp; W. Y. Chin, 1994.
+<em>Rhythm of the Sea: The Life and Times of Labrador Beach</em>
+. Division of Biology, School of Science, Nanyang Technological University &amp; Department of Zoology, the National University of Singapore. 160 pp.</li>
+  <li>Sumich, James L. 1999.
+<em>An Introduction to the Biology of Marine Life</em>
+7th ed., WCB/McGraw-Hill. 484 pp.</li>
+  <li>Bell, Peter R. and Hemsley, Alan R. 2000.
+<em>Green Plants: Their Origin and Diversity</em>
+2nd edition. Cambridge University Press. 349 pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

@@ -1,0 +1,496 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Scorpionfishes | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="scorpionfish, scorpion, fish, scorpaenidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/picta/110730tmftd7492m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Chordata">Chordata</a>
+                    > 
+                    <a href="/Chordata/Actinopterygii">Actinopterygii</a>
+                    > 
+                    <a href="/Chordata/Actinopterygii/Perciformes">Perciformes</a>
+                    >
+                    <a href="/Chordata/Actinopterygii/Perciformes/Scorpaenoidei">Scorpaenoidei</a>
+                    >
+                    <a href="/Chordata/Actinopterygii/Perciformes/Scorpaenoidei/Scorpaenidae">Scorpaenidae</a>
+                </p>
+                <h1>Scorpionfishes</h1>
+                
+                    <p class="scientific-name">Family Scorpaenidae</p>
+                
+
+                <p><em>Updated Oct 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about them ... They are well camouflaged. Look carefully to find them. Some have venomous spines. Don't handle them! Their venom is only used for protection from predators and not to catch prey.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        They are well camouflaged. Look carefully to find them. Some have venomous spines. Don't handle them! Their venom is only used for protection from predators and not to catch prey.
+        </div>
+    </div>
+    
+
+</div>
+
+<h2 id="where-seen">Where seen?</h2>
+<p>These prickly well-camouflaged fishes are seen on many of our shores, in seagrass and coral rubble areas. Masters of disguise, some can also be very small. Most stay motionless and thus do not betray their presence through movement. Patience and a keen eye is required to spot one.</p>
+
+<dl>
+  <dt><strong>What are scorpionfishes?</strong></dt>
+  <dt>Scorpionfishes belong to the Family Scorpaenidae. Among members of this family are the most venomous fishes known. According to</dt>
+  <dt><a href="http://www.fishbase.org/Summary/FamilySummary.cfm?ID=264">FishBase</a></dt>
+  <dd>the family has 23 genera and 172 species, most are bottom-dwellers. They are found on tropical and temperate seas. Some of the fishes that used to be in Family Scorpaenidae are now placed under several different families including Family Apistidae (wasp scorpionfishes), Family Tetrarogidae (waspfishes) and Family Synanceiidae (stonefishes).</dd>
+</dl>
+
+<h2 id="features">Features</h2>
+
+<p>Some are tiny and hide among seaweeds. Others may be larger. Scorpionfishes have large heads. There is a bony ridge on the cheek. The scorpionfish’s mottled pattern matches its surroundings perfectly. Sometimes, the same species living in different locations can have different colours and patterns. It can also darken and lighten its colours. Scorpionfishes are generally bottom dwellers. Some species lack a swim bladder.</p>
+
+<p><strong>Sting like a fish:</strong>
+The common name of these fishes comes from the stinging pain that they can inflict. When stepped upon or mishandled, the stout spines on the dorsal fins act like hypodermic needles, injecting venom into the offending foot or hand. The venom is excruciating to humans. Some species are commonly called waspfishes for their nasty stings. Some also have venomous anal and pelvic fins. Scorpionfishes should thus NOT be handled. Even dead ones.</p>
+
+<p>A scorpionfish uses its venom only for protection and not to catch or kill prey. The scorpionfish is not aggressive and prefers to hide or swim away, using its venom only as a last resort. The best way to avoid being stung is simply not to disturb or touch one.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/picta/110730tmftd7492m3.jpg" alt="" />
+        <div class="caption">
+        Perfectly camouflaged! Tanah Merah, Jul 11
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/pterois/140809hntlks3m6l.jpg" alt="" />
+        <div class="caption">
+        The Lionfish doesn't bother to hide! Pulau Hantu, Aug 15 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Scorpionfish mimic:</strong>
+The
+<a href="../centrogenyidae/vaigiensis.md">False scorpionfish</a>
+(
+<em>Centrogenys vaigiensis</em>
+) looks and behaves like a scorpionfish but belong to the Family Serranidae which includes groupers. By mimicking the more venomous scorpionfishes, the false scorpionfish probably manages to discourage most predators. Here’s more on
+<a href="../cfstonefish.md">how to tell apart fishes that look like stones</a>
+.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/synanceiidae/horrida/060312hntd0311m3.jpg" alt="" />
+        <div class="caption">
+        The Stonefish is from a different family.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/centrogenyidae/vaigiensis/031029sntcd0014m3.jpg" alt="" />
+        <div class="caption">
+        The False scorpionfish is from a dffierent family.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/longispinis/050623cjg8365m3.jpg" alt="" />
+        <div class="caption">
+        The Long-spined waspfish is now in a different family
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>What do they eat?</strong>
+Most scorpionfishes skulk on or near the bottom, staying motionless for hours to ambush passing prey. They will eat any prey that can fit into the large mouth including fishes and crustaceans. Some species may specialise in a particular kind of prey.</p>
+
+<p><strong>Scorpionfish babies:</strong>
+Most scorpionfishes reproduce through internal fertilisation. Some species lay their eggs in a gelatinous balloon. The larvae are planktonic.</p>
+
+<p><strong>Human uses:</strong>
+Scorpionfishes are venomous but not poisonous. In temperate climates, large members of this group called rockfishes or rockcods (
+<em>Sebastes</em>
+sp.) are considered good eating and are caught by sport fishermen as well as commercially for as food fish. Rockfishes are vulnerable to overfishing as they grow slowly and reach maturity late.</p>
+
+<p>Tropical scorpionfishes of various kinds are extensively harvested from the wild for the live aquarium trade. The Lionfish (
+<em>Pterois volitans</em>
+) is particularly popular. Harvesting tropical scorpionfishes for the live aquarium trade may involve the use of cyanide or blasting, which damage the habitat and kill many other creatures. Like other fish and creatures harvested for the live aquarium trade, most die before they can reach the retailers. Without professional care, most die soon after they are sold. Those that do survive are unlikely to breed successfully.</p>
+
+<hr />
+
+<p><strong>Some Scorpionfishes on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/picta/090923labd1778m3a.jpg" alt="" />
+        <div class="caption">
+        Painted scorpionfish
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/diabolus/120818lazd0164m3c.jpg" alt="" />
+        <div class="caption">
+        False stonefish
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/pterois/140809hntlks3m3.jpg" alt="" />
+        <div class="caption">
+        Lionfish
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/picta/090923labd1778m3.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/diabolus/120818lazd0164m3a.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Family Scorpaenidae recorded for Singapore</strong></p>
+
+<p>from Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+.</p>
+
+<p>in red are those listed among the threatened animals of Singapore
+from Ng, P. K. L. &amp; Y. C. Wee, 1994.
+<em>The Singapore Red Data Book: Threatened Plants and Animals of Singapore.</em>
+**from
+<a href="http://www.marinespecies.org/">WORMS</a>
+**
++From our observation
+**</p>
+
+<p><strong>Family Scorpaenidae</strong></p>
+
+<p>*Dendrochirus brachypterus</p>
+
+<p>Dendrochirus zebra*</p>
+
+<p><em><a href="picta.md">Parascorpaena picta</a></em>
+(Painted scorpionfish)
+<em><a href="pterois.md">Pterois</a></em>
+<a href="pterois.md">sp.</a>
+(Lionfish) with species recorded for Singapore.
+*Scorpaenodes guamensis</p>
+
+<p>Scorpaenopsis cirrosa</p>
+
+<p>+
+<a href="diabolus.md">Scorpaenopsis diabolus</a>*
+(False scorpionfish)
+*Scorpaenopsis gibbosa</p>
+
+<p>Sebastapistes tristis=<em>*Sebastapistes strongia</em></p>
+
+<p><strong>**now Family Apistidae (wasp scorpionfishes)</strong></p>
+
+<p><em>Apistus carinatus</em></p>
+
+<p><strong>**now Family Tetrarogidae (waspfishes)</strong></p>
+
+<p><em>Cottapistus cottoides</em>
+*Paracentropogon cyanocephalus</p>
+
+<p>Paracentropogon leucoprosopon</p>
+
+<p><a href="longispinis.md">Paracentropogon longispinis</a>*
+(Longspined waspfish)
+<em>Paracentropogon bandanensis</em>
+**
+<em>Vespicula trachinoides</em>
+(Mangrove waspfish)</p>
+
+<p><strong>**now
+<a href="../synanceiidae/horrida.md">Family Synanceiidae</a>
+(stonefishes)</strong></p>
+
+<p><em>Chloridactylus multibarbis=**Choridactylus multibarbus</em>
+**</p>
+
+<p><em>Polycaulus uranoscopus</em>
+(Stargazer waspfish)</p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li>Lim, Kelvin K. P. &amp; Jeffrey K. Y. Low, 1998.
+<em><a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/">A Guide to the Common Marine Fishes of Singapore</a></em>
+. Singapore Science Centre. 163 pp.</li>
+  <li>
+    <dl>
+      <dt><a href="http://www.fishbase.org/Summary/FamilySummary.cfm?ID=264">Family Scorpaenidae</a></dt>
+      <dt>from</dt>
+      <dt><a href="http://www.fishbase.org/">FishBase</a></dt>
+      <dd>Technical fact sheet on the order, including a fact sheets on individual species.</dd>
+    </dl>
+  </li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+. National Council on the Environment. 163pp.</li>
+  <li>Lim, S., P. Ng, L. Tan, &amp; W. Y. Chin, 1994.
+<em>Rhythm of the Sea: The Life and Times of Labrador Beach</em>
+. Division of Biology, School of Science, Nanyang Technological University &amp; Department of Zoology, the National University of Singapore. 160 pp.</li>
+  <li>Allen, Gerry, 2000.
+<em>Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers</em>
+. Periplus Editions. 292 pp.</li>
+  <li>Kuiter, Rudie H. 2002.
+<em>Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers &amp; Fishermen</em>
+New Holland Publishers. 434pp.</li>
+  <li>Lieske, Ewald and Robert Myers. 2001.
+<em>Coral Reef Fishes of the World</em>
+Periplus Editions. 400pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

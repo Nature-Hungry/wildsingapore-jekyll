@@ -1,0 +1,465 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Longhorn cowfish  | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="longhorn, cow, cowfish, fish, lactoria, cornuta, ostraciidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/110601tmnbd3304m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Chordata">Chordata</a>
+                    > 
+                    <a href="/Chordata/Actinopterygii">Actinopterygii</a>
+                    > 
+                    <a href="/Chordata/Actinopterygii/Tetraodontiformes">Tetraodontiformes</a>
+                    >
+                    <a href="/Chordata/Actinopterygii/Tetraodontiformes/Balistoidei">Balistoidei</a>
+                    >
+                    <a href="/Chordata/Actinopterygii/Tetraodontiformes/Balistoidei/Ostraciidae">Ostraciidae</a>
+                </p>
+                <h1>Longhorn cowfish </h1>
+                
+                    <p class="scientific-name">Lactoria cornuta</p>
+                
+
+                <p><em>Updated Sep 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This strange four-pronged boxy fish is sometimes seen on some of our shores, among seagrasses. Elsewhere, it is found in shallow muddy, sandy sheltered areas, in harbours and estuaries, in weedy areas near rocks and reefs. Juveniles are said to form small groups on shallow mudflats, near river mouths and in brackish water. While adults are solitary and shy.</p>
+
+<h2 id="features">Features</h2>
+
+<p>To 40-50cm, the ones seen was about 10-15cm long. Body cubical boxy, which is enclosed in a protective hard shell (carapace) made up of bony plates with gaps for the various tiny fins, the tail and the mouth. The cowfish got its name for the pair of projecting ‘horns’ above its eyes. There is a second pair of horns sticking out of the bottom, back end of the fish. The tail fin is very long, sometimes almost as long as the body. Colours green, olive to yellowish, with dark blotches and tiny blue spots.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/110601tmnbd3304m3.jpg" alt="" />
+        <div class="caption">
+        Tanah Merah, Aug 06
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/080606cyrd5195m6l.jpg" alt="" />
+        <div class="caption">
+        Cyrene, Jun 08
+        </div>
+    </div>
+    
+
+</div>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/090512tmftd1497m6l.jpg" alt="" />
+        <div class="caption">
+        Tanah Merah, May 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/sbr.JPG" alt="" />
+        <div class="caption">
+        Juvenile. Tuas, Apr 17 Photo from Singapore Biodiversity Records 2017:97
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Baby cowfish:</strong>
+Juveniles lack the horns in the front and back
+.</p>
+
+<p><strong>What does it eat?</strong>
+It feeds on tiny animals hidden in the sand. The fish uncovers these titbits by blowing away the sand with its downturned tubular mouth.</p>
+
+<p><strong>Human uses:</strong>
+Elsewhere, these amazing fishes are sadly harvested and dried to make into ornaments for the tourist trade.</p>
+
+<hr />
+
+<p><strong>Longhorn cowfishes on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470%40N00&amp;sort=date-taken-desc&amp;safe_search=3&amp;view_all=1&amp;text=Lactoria%20cornuta">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Lactoria%2520cornuta/map?&amp;fLat=1.2622&amp;fLon=103.8661&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/170530chg7lks.jpg" alt="" />
+        <div class="caption">
+        Changi, May 17 Photo shared by Lok Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/210528chg7lks1.jpg" alt="" />
+        <div class="caption">
+        Changi Carpark 7, May 21 Photo shared by Lok Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/240821skdky1.jpg" alt="" />
+        <div class="caption">
+        Pulau Sekudu, Aug 24 Photo shared by Kelvin Yong on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/170501tsmktch4.jpg" alt="" />
+        <div class="caption">
+        Terumbu Semakau, May 17 Photo shared by Toh Chay Hoon on facebook ..
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/210228lazjll1.jpg" alt="" />
+        <div class="caption">
+        Lazarus Island, Feb 21 Photo shared by Jianlin Liu on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/100725hntlks3m6l.jpg" alt="" />
+        <div class="caption">
+        Pulau Hantu, Jul 10 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/131104smkmn.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau, Nov 13 Photo shared by Marcus Ng on flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/100713cyrtch4m6l.jpg" alt="" />
+        <div class="caption">
+        Cyrene Reef, Jul 10 Photo shared by Toh Chay Hoon on her blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/210823smkerk1.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau East, Aug 21 Photo shared by Richard Kuah on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/200627cyrlks6.jpg" alt="" />
+        <div class="caption">
+        Cyrene, Jun 20 Photo shared by Lok Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/180419cycw1.jpg" alt="" />
+        <div class="caption">
+        Cyrene Reef, Apr 18 Photo shared by Chris Wong on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/110731trylks4m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Raya, Jul 11 Photo shared by Lok Kok Sheng on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li>
+    <dl>
+      <dt>[Longhorn cowfish (</dt>
+      <dt><em>Lactoria cornuta</em></dt>
+      <dt>)](http://www.fishbase.org/Summary/SpeciesSummary.php?id=6399)</dt>
+      <dt>from</dt>
+      <dt><a href="http://www.fishbase.org/">FishBase</a></dt>
+      <dd>Technical fact sheet.</dd>
+    </dl>
+  </li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Lee Bee Yan &amp; Jeremy W. L. Yeo. 28 Jul 2017.
+<em>A juvenile longhorn cowfish</em>
+. Singapore Biodiversity Records 2017: 97.</li>
+  <li>Ron Yeo. 22 November 2013.
+<em>Longhorn cowfish at Semakau, Lactoria cornuta</em>
+. Singapore Biodiversity Records 2013: 75.</li>
+  <li>Allen, Gerry, 2000.
+<em>Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers</em>
+. Periplus Editions. 292 pp.</li>
+  <li>Kuiter, Rudie H. 2002.
+<em>Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers &amp; Fishermen</em>
+New Holland Publishers. 434pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

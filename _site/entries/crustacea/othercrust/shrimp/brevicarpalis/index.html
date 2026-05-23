@@ -1,0 +1,671 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Peacock-tail anemone shrimp | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="peacock, tail, anemone, shrimp, ancylocaris, periclimenes, brevicarpalis, palaemonidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/070505kusg9020m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Arthropoda">Arthropoda</a>
+                    > 
+                    <a href="/Arthropoda/Malacostraca">Malacostraca</a>
+                    > 
+                    <a href="/Arthropoda/Malacostraca/Decapoda">Decapoda</a>
+                    >
+                    <a href="/Arthropoda/Malacostraca/Decapoda/Pleocyemata">Pleocyemata</a>
+                    >
+                    <a href="/Arthropoda/Malacostraca/Decapoda/Pleocyemata/Palaemonidae">Palaemonidae</a>
+                </p>
+                <h1>Peacock-tail anemone shrimp</h1>
+                
+                    <p class="scientific-name">Ancylocaris brevicarpalis</p>
+                
+
+                <p><em>Updated Jan 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This chubby shrimp with black-ringed orange spots on its tail is often seen in large sea anemones on many of our shores. Usually a pair are seen in one anemone, living safely among tentacles that would otherwise sting other animals. Elsewhere, seen from 1-5m deep. It is also sometimes called the Clown anemone shrimp. It was previously
+<em>Periclimenes brevicarpalis</em>
+.</p>
+
+<h2 id="features">Features</h2>
+
+<p>To about 4cm. Body almost transparent, especially the smaller male. Pincers long transparent with purple bars. The female is often larger and more brightly marked with more and larger white spots on the back, along the abdomen and the base of the tail. The male may be totally transparent except for the eyespots on the tail. Some also have a white tail and a white bar between the eyes like the female. In both the male and female, the tail has 5 black-ringed orange eyespots.</p>
+
+<p>At low tide, they are more easily spotted at night when they are still somewhat active. During the day, they often remain hidden under the anemone.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/070505kusg9020m3.jpg" alt="" />
+        <div class="caption">
+        Kusu Island, May 07
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/070505kusg9020m3c.jpg" alt="" />
+        <div class="caption">
+        Five black-ringed orange spots on the tail.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/070505kusg9020m3b.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+
+</div>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/080706chg7333m3.jpg" alt="" />
+        <div class="caption">
+        The male often smaller and more transparent.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/080706chg7333m3a.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/080706chg7333m3b.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Home Sweet Home:</strong>
+We have seen these shrimps with these large sea anemones:
+<a href="../../../cnidaria/actiniaria/gigantea.md">Giant carpet anemones</a>
+,
+<a href="../../../cnidaria/actiniaria/haddoni.md">Haddon’s carpet anemones</a>
+,
+<a href="../../../cnidaria/actiniaria/magnifica.md">Magnificent anemones</a>
+,
+<a href="../../../cnidaria/actiniaria/crispa.md">Leathery anemone</a>
+,
+<a href="../../../cnidaria/actiniaria/cryptodendrum.md">Pizza anemone</a>
+,
+<a href="../../../cnidaria/actiniaria/entacmaea.md">Bubble-tip anemone</a>
+,
+<a href="../../../cnidaria/actiniaria/phymanthus.md">Frilly sea anemone</a>
+,
+<a href="../../../cnidaria/actiniaria/doreensis.md">Snaky anemone</a>
+,
+<a href="../../../cnidaria/actiniaria/actinodendron.md">Fire anemone</a>
+.</p>
+
+<p>Rarely,
+<a href="../../../vertebrates/fish/pomacentridae/ocellaris.md">False clown anemonefishes</a>
+are also found together with the anemone shrimps on the same anemone. They don’t seem to bother one another.</p>
+
+<p><strong>Does it ‘clean’ fish?</strong>
+A filefish was once observed close to an anemone shrimp for some time. Could it be expecting the shrimp to clean it?</p>
+
+<p><strong>What does it eat?</strong>
+Anemone shrimps do not appear to eat the host anemone or off the anemone’s fluids. Instead, they are believed to shelter in the anemone for protection and may feed on left overs. The shrimps have often been seen “hanging” over the edge of their anemone home with their pincers extended.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/040508skdbd0073m3.jpg" alt="" />
+        <div class="caption">
+        This filefish appeared to be presenting itself to the shrimp Pulau Sekudu, May 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3618m3.jpg" alt="" />
+        <div class="caption">
+        'Locked out' of its sea anemone at low tide! Kusu Island, Jul 04
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/cnidaria/actiniaria/gigantea/070701hntg0823m3.jpg" alt="" />
+        <div class="caption">
+        Sometimes, both anemone shrimps and anemonefishes share the same anemone. Pulau Hantu, Jul 07
+        </div>
+    </div>
+    
+
+</div>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg" alt="" />
+        <div class="caption">
+        In a Haddon's carpet anemone Kusu Island, Jul 04
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/040411hntd0083m3.jpg" alt="" />
+        <div class="caption">
+        In a Magnificent anemone Pulau Hantu, Apr 04
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/070603sntrg9937m3.jpg" alt="" />
+        <div class="caption">
+        In a Giant carpet anemone Sentosa, Jun 07
+        </div>
+    </div>
+    
+
+</div>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/100529kuslks6m3a.jpg" alt="" />
+        <div class="caption">
+        On a pizza anemone . Kusu Island, Jun 10 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/cnidaria/actiniaria/crispa/100528kusmn1m3.jpg" alt="" />
+        <div class="caption">
+        On a leathery anemone . Kusu Island, May 10 Photo shared by Marcus Ng on his flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/110507cyrd0994m3.jpg" alt="" />
+        <div class="caption">
+        On a snaky anemone . Cyrene Reef, May 11
+        </div>
+    </div>
+    
+
+</div>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/121215sislks1.jpg" alt="" />
+        <div class="caption">
+        On a bubble-tip anemone Sisters Island, Dec 12 Photo shared by Loh Kok Sheng on flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/130527tmlks.JPG" alt="" />
+        <div class="caption">
+        On a Frilly anemone Tanah Merah, May 13 Photo shared by Loh Kok Sheng on flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/230804pcn1.jpg" alt="" />
+        <div class="caption">
+        On a Fire anemone East Coast PCN, Aug 2023
+        </div>
+    </div>
+    
+
+</div>
+
+<hr />
+
+<p><strong>Peacock-tail anemone shrimps on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470@N00&amp;sort=date-posted-desc&amp;view_all=1&amp;text=Ancylocaris brevicarpalis">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Ancylocaris%2520brevicarpalis/map?&amp;fLat=1.2616&amp;fLon=103.8661&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/171009blylks2.jpg" alt="" />
+        <div class="caption">
+        Berlayar Creek, Oct 17 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/201019sjijll6.jpg" alt="" />
+        <div class="caption">
+        St John's Island, Oct 20 Photo shared by Jianlin Liu on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/250726cyrjt6.jpg" alt="" />
+        <div class="caption">
+        Cyrene, Jul 25 Photo shared by Jonathan Tan on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/250531thntrk2.jpg" alt="" />
+        <div class="caption">
+        Terumbu Hantu, May 25 Photo shared by Richard Kuah on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/100519tsmjk4m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Semakau, May 10 Photo shared by James Koh on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/100502trygl2m3.JPG" alt="" />
+        <div class="caption">
+        Terumbu Raya, May 10 Photo shared byGeraldine Lee on her blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/cnidaria/actiniaria/crispa/110422tbmrl2m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Bemban, Apr 11 Photo shared by Russel Low on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/251008bbbmn3.jpg" alt="" />
+        <div class="caption">
+        Beting Bemban Besar, Oct 25 Photo shared by Marcus Ng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/100811slud0041m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Salu, Aug 10
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/100811slud0119m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Salu, Aug 10
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/100811slud0119m3a.jpg" alt="" />
+        <div class="caption">
+        Pulau Salu, Aug 10
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/091204pawd5203m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Pawai, Dec 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/100613snglks5m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/cnidaria/actiniaria/mertensii/100613snglks3m3a.jpg" alt="" />
+        <div class="caption">
+        Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/cnidaria/actiniaria/cryptodendrum/091204pawjk13m3d.jpg" alt="" />
+        <div class="caption">
+        On a pizza anemone . Pulau Pawai, Dec 09 Shared by James Koh on his flickr .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="https://live.staticflickr.com/1495/24292062483_93f0593c4a_z.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p>Filmed on Cyrene Reefs, Jul 08</p>
+
+<p><a href="https://vimeo.com/1394443">anemone shrimp @ cyrene reef</a>
+from
+<a href="https://vimeo.com/sgbeachbum">SgBeachBum</a>
+on
+<a href="https://vimeo.com">Vimeo</a>
+.</p>
+
+<hr />
+
+<p>Filmed on Cyrene Reef, Apr 10</p>
+
+<hr />
+
+<p>Filmed on Cyrene Reef, Mar 11</p>
+
+<p><a href="https://vimeo.com/21520262">anemone shrimp @ Cyrene 23Mar2011</a>
+from
+<a href="https://vimeo.com/sgbeachbum">SgBeachBum</a>
+on
+<a href="https://vimeo.com">Vimeo</a>
+.</p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><em><a href="https://singapore.biodiversity.online/taxo4254/mainSpace/Periclimenes%20brevicarpalis%2C%20five-spot%20anemone%20shrimp.html">Periclimenes brevicarpalis</a></em>
+(Decapoda: Palaemonidae) Five-spot anemone shrimp by Pwa Keay Hoon, 2016, on taxo4254.</li>
+  <li><a href="http://www.sealifebase.fisheries.ubc.ca/summary/Periclimenes-brevicarpalis.html"><em>Periclimenes brevicarpalis</em></a>
+on SeaLife Base.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Lim, S., P. Ng, L. Tan, &amp; W. Y. Chin, 1994.
+<em>Rhythm of the Sea: The Life and Times of Labrador Beach</em>
+. Division of Biology, School of Science, Nanyang Technological University &amp; Department of Zoology, the National University of Singapore. 160 pp.</li>
+  <li>Jones Diana S. and Gary J. Morgan, 2002.
+<em>A Field Guide to Crustaceans of Australian Waters</em>
+. Reed New Holland. 224 pp.</li>
+  <li>Humann, Paul and Ned Deloach. 2010.
+<em>Reef Creature Identification: Tropical Pacific</em>
+New World Publications. 497pp.</li>
+  <li>Kuiter, Rudie H and Helmut Debelius. 2009.
+<em>World Atlas of Marine Fauna</em>
+. IKAN-Unterwasserachiv. 723pp.</li>
+  <li>Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.
+<em>Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates</em>
+Sea Challengers. 314pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

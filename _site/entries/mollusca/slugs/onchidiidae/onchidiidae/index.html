@@ -1,0 +1,557 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Onch slugs  | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="pulmonata, pulmonate, slug, seaslug, onch, onchidium, peronium, onchidiidae, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="../../../../Templates/fornatureguides.gif" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Mollusca">Mollusca</a>
+                    > 
+                    <a href="/Mollusca/Gastropoda">Gastropoda</a>
+                    > 
+                    <a href="/Mollusca/Gastropoda/Systellommatophora">Systellommatophora</a>
+                    >
+                    <a href="/Mollusca/Gastropoda/Systellommatophora/"></a>
+                    >
+                    <a href="/Mollusca/Gastropoda/Systellommatophora//Onchidiidae">Onchidiidae</a>
+                </p>
+                <h1>Onch slugs </h1>
+                
+                    <p class="scientific-name">Family Onchidiidae</p>
+                
+
+                <p><em>Updated Jun 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about them ... Onchs are very well camouflaged. Don't step on them! Onchs graze on alge on the rock, see the bare patches on the rock? They are snails without shells, and hermaphrodites.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        Onchs are very well camouflaged. Don't step on them! Onchs graze on alge on the rock, see the bare patches on the rock? They are snails without shells, and hermaphrodites.
+        </div>
+    </div>
+    
+
+</div>
+
+<h2 id="where-seen">Where seen?</h2>
+<p>Onch slugs are common on all our shores, on algae-covered rocks or other hard surfaces, or on mud in mangroves or mangrove tree roots. But they are often well hidden especially on a hot day, or well camouflaged even when moving about in the open.</p>
+
+<p><strong>What are onch slugs?</strong>
+Onch slugs belong to
+<a href="../../mollusca.md">Phylum Mollusca</a>
+and are snails of the
+<a href="../../gastropoda.md">Class Gastropoda</a>
+that lack shells.</p>
+
+<p><strong>Onch slugs are NOT nudibranchs!</strong>
+Pulmonate sea slugs such as the Onch slugs of the Family Onchidiidae breathe air through simple lungs or modified gills. Other sea slugs breathe underwater with gills. Here’s more on how to tell apart
+<a href="../../nudiharesac.md">onch slugs from other sea slugs</a>
+.</p>
+
+<h2 id="features">Features</h2>
+
+<p>1-5cm. Unlike most other snails, they don’t have a shell as adults. Instead, they have tough leathery skin to reduce water loss. But like most other snails, they have a broad foot and tiny eyes at the tips of a pair of long fleshy stalks. Most snails have eyes at the base of tentacles. When disturbed, the eye stalks retract under the tough broad body. Onch slugs often blend perfectly with the rocks in both colour and texture! Bits of sand and sediments that get stuck on their skin adds to the camouflage. So please watch your step when you are walking on a rocky shore.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050527srbg7003m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Sarimbun, May 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050527srbg7003m3a.jpg" alt="" />
+        <div class="caption">
+        Eyes on long thin stalks
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050527srbg7006m3.jpg" alt="" />
+        <div class="caption">
+        Broad foot on the underside
+        </div>
+    </div>
+    
+
+</div>
+<p>These slugs belong to the same group as land snails. They have modified gills, a section of the mantle cavity modified as a lung to breath air. The opening to this cavity is at their rear ends. At high tide, they burrow into mud or sand, trapping an air bubble to breathe from.</p>
+
+<p>It is hard to tell apart the species in the field. To be sure, we need to look at their internal parts.</p>
+
+<p><strong>Onch slug babies:</strong>
+Onch slugs are hermaphrodites, each slug having both male and female reproductive organs.
+The female opening is at the back and the male organ is on the head next to the right tentacle.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/060714rlhg6623m3.jpg" alt="" />
+        <div class="caption">
+        Raffles Lighthouse, Jul 06
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/060714rlhg6623m3b.jpg" alt="" />
+        <div class="caption">
+        Leaving behind a grazed patch, and a trail of 'processed algae' Raffles Lighthouse, Jul 06
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/060714rlhg6624m3a.jpg" alt="" />
+        <div class="caption">
+        One pair of tentacles and a pair of oral flaps at the mouth on the underside. Raffles Lighthouse, Jul 06
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>What do they eat?</strong>
+Onch slugs graze on film of tiny algae and on lichen that grows on sand, mud and rocks. They feed at low tide and are more commonly seen on cool mornings or evenings. They have a pair of oral flaps near the mouth.</p>
+
+<p><strong>Slippery slugs:</strong>
+Avoid touching an onch slug as it is very slimy and if you try to pick it up, it generally slips out of your hands to bounce away among the rocks. The poor slug might get hurt and it may not be able to climb back up to where it can find food and safety.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/100726chgd9184m3.jpg" alt="" />
+        <div class="caption">
+        Underside.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/100726chgd9184m3c.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/100726chgd9184m3a.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Status and threats:</strong>
+One of our mangrove onch slugs (
+<em>Peronina alta</em>
+) is listed among the threatened animals of Singapore. Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors can also have an impact on local populations.</p>
+
+<hr />
+
+<p><strong>Some Onch slugs on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/050723labg0069m3.jpg" alt="" />
+        <div class="caption">
+        Big pimply onch slug
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050527srbg7003m3.jpg" alt="" />
+        <div class="caption">
+        Smooth little onch slug
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/long/050809lckg1053m3.jpg" alt="" />
+        <div class="caption">
+        Long onch slug
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/griseum/050809lckg0948m3.jpg" alt="" />
+        <div class="caption">
+        Orange-footed mangrove onch slug
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/platyvindex/060627krjd3712m3.jpg" alt="" />
+        <div class="caption">
+        Grey-footed mangrove onch slug
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/ornate/090125kntd6113m3.jpg" alt="" />
+        <div class="caption">
+        Ornate onch slug
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Family Onchidiidae recorded for Singapore</strong>
+from Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+.</p>
+
+<p><em>from Ng, Peter K. L. &amp; N. Sivasothi, 1999.
+*A Guide to the Mangroves of Singapore II (Animal Diversity)</em></p>
+
+<p>in red, listed among the threatened animals of Singapore
+from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+<em>The Singapore Red Data Book: Threatened plants and animals of Singapore</em>
+.
+**</p>
+
+<p><strong>Onch slugs seen awaiting identification</strong>
+**
+<em>Onchs are arranged on this website based on their external features for convenience of display.</em></p>
+
+<p><a href="bigpimply.md">Big pimply onch slugs</a></p>
+
+<p><a href="smooth.md">Smooth onch slugs</a></p>
+
+<p><a href="long.md">Long onch slugs</a></p>
+
+<p><a href="ornate.md">Ornate onch slugs</a></p>
+
+<p><strong>Family Onchidiidae</strong></p>
+
+<p>*Onchidium aberrans</p>
+
+<p>Onchidium ambiguum</p>
+
+<p>Onchidium griseofuscum</p>
+
+<p><a href="griseum.md">Onchidium griseum</a>*
+(Orange-footed mangrove onch slug)
+*Onchidium martensi</p>
+
+<p>Onchidium nigrum</p>
+
+<p>Onchidium*
+cf.
+*steenstrupii</p>
+
+<p>Onchidium tumidum</p>
+
+<p>Onchidium*
+sp.
+<em>Paraonchidium</em>
+sp. 1
+<em>Paraonchidium</em>
+sp. 2
+<em>Paraonchidium</em>
+sp. 3
+<em>Peronia verruculata</em>
+<em>Peronina alta</em>
+(DD: Data deficient)
+**
+<a href="platyvindex.md"><em>Platyvindex</em>
+sp.</a>
+(Grey-footed onch slug)
+*Platevindex coriaceus</p>
+
+<p>Platevindex luteus</p>
+
+<p>Platevindex*
+sp. 1
+<em>Platevindex</em>
+sp. 2</p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="https://singapore.biodiversity.online/taxo4254/mainSpace/Peronia%20verruculata.html"><em>Peronia verruculata</em></a>
+(Systellommatophora: Onchidiidae) Onch slug by Chang Jia Jin Marc, 2015, on taxo4254</li>
+  <li><em><a href="https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=207">Peronina alta</a></em>
+on the NParks Flora and Fauna website.</li>
+  <li><a href="http://mangrove.nus.edu.sg/guidebooks/text/2089.md">Mangrove slugs Family Onchidiidae</a>
+Ng, Peter K. L. &amp; N. Sivasothi, 1999.
+<em><a href="http://mangrove.nus.edu.sg/guidebooks/">A Guide to the Mangroves of Singapore II (Animal Diversity)</a></em>
+. Singapore Science Centre. 168 pp</li>
+  <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/149.md">Sea Slug
+<em>Onchidium</em></a>
+Tan, Leo W. H. &amp; Ng, Peter K. L., 1988.
+<em><a href="http://mangrove.nus.edu.sg/pub/seashore/">A Guide to Seashore Life</a></em>
+. The Singapore Science Centre, Singapore. 160 pp.</li>
+  <li><a href="http://campillos.ucmerced.edu/%7Ebdayrat/Onchidiidae.html">Onchidiidae Diversity and Evolution</a>
+on the Benoit Dayrat Lab at University of California at Merced</li>
+  <li><a href="http://www.seaslugforum.net/onchid.md">Marine Pulmonate Slugs</a>
+on
+<a href="http://www.seaslugforum.net/">The Sea Slug Forum</a>
+by Dr Bill Rudman: a brief intro to Onchs with lots of emails queries and photos and Dr Rudman’s responses to them.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Benoit Dayrat et al. (24 Nov 2016).
+<a href="http://zookeys.pensoft.net/articles.php?id=8879">Integrative taxonomy of the genus
+<em>Onchidium</em>
+Buchannan, 1800 (Mollusca, Gastropoda, Pulmonata, Onchidiidae)</a>
+. ZooKeys 636: 1-40</li>
+  <li>Tan Siong Kiat and Henrietta P. M. Woo, 2010
+<em>Preliminary Checklist of The Molluscs of Singapore</em>
+(pdf), Raffles Museum of Biodiversity Research, National University of Singapore.</li>
+  <li>Benoit Dayrat,
+<a href="http://campillos.ucmerced.edu/%7Ebdayrat/PDF%20of%20Papers/Dayrat%20Zootaxa%202009.pdf">Review of the current knowledge of the systematics of Onchidiidae (Mollusca: Gastropoda: Pulmonata) with a checklist of nominal species</a>
+Zootaxa 2068: 1-26 (2009) (pdf)</li>
+  <li>Debelius, Helmut, 2001.
+<em>Nudibranchs and Sea Snails: Indo-Pacific Field Guide</em>
+IKAN-Unterwasserachiv, Frankfurt. 321 pp.</li>
+  <li>Coleman, Neville. 2001.
+<em>1001 Nudibranchs: Catalogue of Indo-Pacific Sea Slugs</em>
+. Neville Coleman’s Underwater Geographic Pty Ltd, Australia.144pp.</li>
+  <li>Coleman, Neville, 1989.
+<em>Nudibranchs of the South Pacific Vol 1</em>
+. 64 pp.</li>
+  <li>Ng, P. K. L. &amp; Y. C. Wee, 1994.
+<em>The Singapore Red Data Book: Threatened Plants and Animals of Singapore</em>
+. The Nature Society (Singapore), Singapore. 343 pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Spotted box crab | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="spotted, box, crab, calappa, philargius, calappidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/120510chgd2776m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Arthropoda">Arthropoda</a>
+                    > 
+                    <a href="/Arthropoda/Malacostraca">Malacostraca</a>
+                    > 
+                    <a href="/Arthropoda/Malacostraca/Decapoda">Decapoda</a>
+                    >
+                    <a href="/Arthropoda/Malacostraca/Decapoda/Pleocyemata">Pleocyemata</a>
+                    >
+                    <a href="/Arthropoda/Malacostraca/Decapoda/Pleocyemata/Calappidae">Calappidae</a>
+                </p>
+                <h1>Spotted box crab</h1>
+                
+                    <p class="scientific-name">Calappa philargius</p>
+                
+
+                <p><em>Updated Dec 2019</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This large boxy crab with four big spots on its flat pincers is sometimes seen on the sandy shores near seagrass areas on our Northern shores. It is more active at night and are rarely seen by daytime visitors as it is then usually buried in the sediments. Once, several pairs were seen half buried near one another.</p>
+
+<h2 id="features">Features</h2>
+
+<p>Body width 8-10cm. It does look rather box-like with a semi-circular body and wing-like extensions on the sides and back that cover part of the walking legs. The adult Spotted box crab has a total of six spots: two dark spots on each pincer and a dark ring around each eye. Small ones may have only one spot in the middle of the body just behind the eyes. It holds its pincers in front of its body to form a boxy shape. So it is sometimes also called the Shame-face crab as it appears to be covering its face in shame. The inner part of the flat pincers have striking brown patterns.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/120510chgd2776m3.jpg" alt="" />
+        <div class="caption">
+        Changi, May 12
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/120510chgd3028m3a.jpg" alt="" />
+        <div class="caption">
+        Two different kinds of pincers.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/120510chgd3029m3.jpg" alt="" />
+        <div class="caption">
+        Eyes!
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>What does it eat?</strong>
+The pincers of box crabs are specialised for cracking open snail shells. The snail is gripped in the left pincer which has pointed claws. With the right pincer, which is stronger, the crab cuts pieces of the shell from the shell opening. Once the gap is big enough, the crab can enjoy its snail meal.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/060529cftd2530m3.jpg" alt="" />
+        <div class="caption">
+        Changi, May 06 Underside.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/120510chgd3032m3a.jpg" alt="" />
+        <div class="caption">
+        P atterns on inside pincers. Changi, May 12
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/060529cftd2550m3.jpg" alt="" />
+        <div class="caption">
+        A pair buried next to one another. Changi, May 06
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Status and threats:</strong>
+This crab is listed as Vulnerable in the Red Data List of threatened animals of Singapore.</p>
+
+<hr />
+
+<p><strong>Spotted box crabs seen on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470@N00&amp;sort=date-posted-desc&amp;view_all=1&amp;text=Calappa philargius">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Calappa%2520philargius%2520/map?&amp;fLat=1.2629&amp;fLon=103.8661&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/170624cjlks1.jpg" alt="" />
+        <div class="caption">
+        Chek Jawa, Jun 17 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/251205cjccn2.jpg" alt="" />
+        <div class="caption">
+        Juvenile? Chek Jawa, Jun 17 Photo shared by Che Cheng Neo on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/200820chgvc1.jpg" alt="" />
+        <div class="caption">
+        Changi, Aug 20 Photo shared by Vincent Choo on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/170528chg6mn1.jpg" alt="" />
+        <div class="caption">
+        Changi, May 17 Photo shared by Marcus Ng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/120704chglks.JPG" alt="" />
+        <div class="caption">
+        Changi, Jul 12 Photo shared by Loh Kok Sheng on flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/110520chgd2626m3.jpg" alt="" />
+        <div class="caption">
+        Changi, May 11 Tanah Merah, May 11
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/120407lazlks11m3.jpg" alt="" />
+        <div class="caption">
+        Seringat Kias, Apr 12 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/110508cyrlks7m3.jpg" alt="" />
+        <div class="caption">
+        Cyrene Reef, May 11 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/110520chgd2626m3.jpg" alt="" />
+        <div class="caption">
+        Changi, May 11 Tanah Merah, May 11
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li>
+    <dl>
+      <dt>[Spectacled box crab (</dt>
+      <dt><em>Calappa philargius</em></dt>
+      <dt>)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=83545)</dt>
+      <dt>on</dt>
+      <dt><a href="http://www.sealifebase.org/search.php">SeaLifeBase</a></dt>
+      <dd>technical fact sheet.</dd>
+    </dl>
+  </li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Lim, S., P. Ng, L. Tan, &amp; W. Y. Chin, 1994.
+<em>Rhythm of the Sea: The Life and Times of Labrador Beach</em>
+. Division of Biology, School of Science, Nanyang Technological University &amp; Department of Zoology, the National University of Singapore. 160 pp.</li>
+  <li>Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+<em>The Singapore Red Data Book: Threatened plants and animals of Singapore</em>
+. Nature Society (Singapore). 285 pp.</li>
+  <li>Jones Diana S. and Gary J. Morgan, 2002.
+<em>A Field Guide to Crustaceans of Australian Waters</em>
+. Reed New Holland. 224 pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

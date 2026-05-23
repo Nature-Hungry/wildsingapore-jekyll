@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Varunid crabs  | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="paddler, crab, varunidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/metaplax/130202mndd3914m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Arthropoda">Arthropoda</a>
+                    > 
+                    <a href="/Arthropoda/Malacostraca">Malacostraca</a>
+                    > 
+                    <a href="/Arthropoda/Malacostraca/Decapoda">Decapoda</a>
+                    >
+                    <a href="/Arthropoda/Malacostraca/Decapoda/Pleocyemata">Pleocyemata</a>
+                    >
+                    <a href="/Arthropoda/Malacostraca/Decapoda/Pleocyemata/Varunidae">Varunidae</a>
+                </p>
+                <h1>Varunid crabs </h1>
+                
+                    <p class="scientific-name">Family Varunidae</p>
+                
+
+                <p><em>Updated Dec 2019</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>These crabs are seen near mangroves and freshwater streams
+.</p>
+
+<h2 id="features">Features</h2>
+
+<p>Small crabs that are often overlooked.</p>
+
+<hr />
+
+<p><strong>Some Varunid crabs on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/metaplax/130202mndd3914m3.jpg" alt="" />
+        <div class="caption">
+        Orange signaller crab
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/070604chgg0129m3.jpg" alt="" />
+        <div class="caption">
+        Paddler crab
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Family Varunidae recorded for Singapore</strong>
+from Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em></p>
+
+<p>++from The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.</p>
+
+<p>+Other additions (Singapore Biodiversity Records, etc)</p>
+
+<p>**</p>
+
+<p><strong>Family Varunidae</strong></p>
+
+<p><em>+Eriocheir sinensis</em>
+(Chinese mitten crab)
+*Metaplax crenulata</p>
+
+<p><a href="metaplax.md">Metaplax elegans</a>*
+(Orange signaller crab)
+*Metaplax sheni</p>
+
+<p>Thalassograpsus harpax</p>
+
+<p>Utica sp.</p>
+
+<p><a href="varuna.md">Varuna yui</a>*
+(Paddler crab)</p>
+
+<p>++
+<em>Varuna</em>
+cf.
+<em>litterata</em></p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://mangrove.nus.edu.sg/guidebooks/text/2046.md">Paddler crab (
+<em>Varuna yui)</em></a>
+,
+<a href="http://mangrove.nus.edu.sg/guidebooks/text/2051.md">Orange signaller crab (
+<em>Metaplax elegans</em>
+)</a>
+Ng, Peter K. L. &amp; N. Sivasothi, 1999.
+<em><a href="http://mangrove.nus.edu.sg/guidebooks/">A Guide to the Mangroves of Singapore II (Animal Diversity)</a></em>
+. Singapore Science Centre. 168 pp.</li>
+  <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/197.md"><em>Varuna litterata</em></a>
+Tan, Leo W. H. &amp; Ng, Peter K. L., 1988.
+<em><a href="http://mangrove.nus.edu.sg/pub/seashore/">A Guide to Seashore Life</a></em>
+. The Singapore Science Centre, Singapore. 160 pp.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Tan Heok Hui. 5 December 2014.
+<em>Chinese mitten crab at West Coast marsh pond, Eriocheir sinensis</em>
+. Singapore Biodiversity Records 2014: 313.</li>
+  <li>Bi Wei Low, Ngan Kee NG, Darren CJ Yeo. February 2013.
+<em>First record of the invasive Chinese mitten crab, Eriocheir sinensis H. Milne Edwards, 1853 (Crustacea: Brachyura: Varunidae) from Singapore</em>
+. BioInvasions Records 2(1):73–78. DOI: 10.3391/bir.2013.2.1.13.</li>
+  <li>Lim, S., P. Ng, L. Tan, &amp; W. Y. Chin, 1994.
+<em>Rhythm of the Sea: The Life and Times of Labrador Beach.</em>
+Division of Biology, School of Science, Nanyang Technological University &amp; Department of Zoology, the National University of Singapore. 160 pp.</li>
+  <li>Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+. National Council on the Environment. 163pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

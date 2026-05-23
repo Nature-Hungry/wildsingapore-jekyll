@@ -1,0 +1,451 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Solitary tubeworm | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="solitary, tube, worm, tubeworm, diopatra, sbristle, polychaete, annelida, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/060114cjg3809m3a.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Annelida">Annelida</a>
+                    > 
+                    <a href="/Annelida/Polychaeta">Polychaeta</a>
+                    > 
+                    <a href="/Annelida/Polychaeta/Eunicida">Eunicida</a>
+                    >
+                    <a href="/Annelida/Polychaeta/Eunicida/"></a>
+                    >
+                    <a href="/Annelida/Polychaeta/Eunicida//Onuphidae">Onuphidae</a>
+                </p>
+                <h1>Solitary tubeworm</h1>
+                
+                    <p class="scientific-name">Diopatra sp.*</p>
+                
+
+                <p><em>Updated Oct 2025</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>Like rubber hoses sticking out of the ground, the sturdy tubes of this worm are commonly seen on all our shores including sandy shores near seagrass areas and soft silty areas near mangroves. The tubes are usually spaced apart from one another.</p>
+
+<p><strong>What are solitary tubeworms?</strong>
+Solitary tubeworms are segmented bristleworms belonging to the Family Onuphidae, Class
+<a href="polychaeta.md">Polychaeta</a>
+, Phylum Annelida. The polychaetes include bristleworms, and Phylum Annelida includes the more familiar earthworm. Most members of the Family Onuphidae build tubes. Some of them carry the tubes around, others are stationary but can leave their tubes. Not all tubeworms are polychaetes and not all polychaetes are tubeworms. More about
+<a href="../tubeworm/tubeworms.md">tubeworms in general</a>
+.</p>
+
+<h2 id="features">Features</h2>
+
+<p>The solitary tubeworm makes a tube 1cm in diameter. The tube can be quite long, but usually only about 10cm of this is sticking out of the surface. The tube is tough, thick and leathery. Only the portion of the tube that sticks out of the ground is usually reinforced with bits and pieces (sand, shells, bits of wood). The tube is usually curved, with the opening facing down towards the surface. The lower portion of the tube that buried in the ground is thin and papery. This is more obvious if you look at a tube that has been washed ashore.</p>
+
+<p>One or two large leaves or large shells are usually added near the tube opening. Some suggestions for the ornamentation of these tubes are that it helps the worm differentiate between harmful predators and food.</p>
+
+<p>According to Leslie Harris, Diopatra is the only genus in the Family Onuphidae with feathery appendages (branchiae with spiraled filaments around a central stem).</p>
+
+<p>Michell Ng shares that the one she saw on Changi on a sandy stretch was spinning in the water, making figure 8 shapes. After taking the photos, when she released it, it proceeded to burrow into the sand.</p>
+
+<p><strong>What do they eat?</strong>
+Some sources suggest Onuphid worms are scavengers that will eat dead animals or plants. Others suggest
+<em>Diopatra</em>
+are predators that ambush prey from their tubes that seize passing prey with teeth and immobilise them with large tentacle-like appendages on their heads.</p>
+
+<p><strong>Singapore tubeworm:</strong>
+One species of Solitary tubeworm,
+<em>Diopatra bulohensis</em>
+, is named after our very own Sungei Buloh!</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/060114cjg3809m3a.jpg" alt="" />
+        <div class="caption">
+        Thick leathery tube Chek Jawa, Jan 06
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/050823chgg2333m3.jpg" alt="" />
+        <div class="caption">
+        Tube washed ashore Changi, Aug 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/040702chgg0938m3.jpg" alt="" />
+        <div class="caption">
+        Changi, Jul 04
+        </div>
+    </div>
+    
+
+</div>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/100429prpd1812m3.jpg" alt="" />
+        <div class="caption">
+        Reaching out to grab a mangrove propagule. Pasir Ris Park, Apr 10
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/100429prpd1822m3.jpg" alt="" />
+        <div class="caption">
+        Got it!
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/100429prpd1828m3.jpg" alt="" />
+        <div class="caption">
+        A closer look at the worm.
+        </div>
+    </div>
+    
+
+</div>
+
+<hr />
+<p>*Species are difficult to positively identify without close examination.</p>
+
+<p>On this website, they are grouped by external features for convenience of display.*</p>
+
+<hr />
+
+<p><strong>Solitary tubeworms on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?q=Diopatra&amp;w=54527470%40N00&amp;s=rec">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Diopatra/map?&amp;fLat=1.2622&amp;fLon=103.8657&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/251107chgmn3a.jpg" alt="" />
+        <div class="caption">
+        Changi Point, Nov 25 Shared by Marcus Ng on facebook.
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/081115chg7841m3.jpg" alt="" />
+        <div class="caption">
+        Changi, Nov 08
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/081115chg7842m3.jpg" alt="" />
+        <div class="caption">
+        Photos shared by Michell Ng.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/081115chg7842m3a.jpg" alt="" />
+        <div class="caption">
+        More photos of these worms out of their tubes .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/110611cjlks.JPG" alt="" />
+        <div class="caption">
+        Being eaten by a mudskipper Chek Jawa, Jun 11 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/251010blytl5.jpg" alt="" />
+        <div class="caption">
+        Berlayar Creek, Oct 25 Photo shared by Tammy Lim on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Acknowledgement</strong></p>
+
+<p>With grateful thanks to Leslie H. Harris of the
+<a href="http://www.nhm.org/">Natural History Museum of Los Angeles County</a>
+for comments on this worm and identification of the worm out of the tube!</p>
+
+<p>th</p>
+
+<p>edition. McGraw-Hill Book Co., Singapore. 578 pp.</p>
+<ul>
+  <li>Jones, R.E. (Ed.) et al. 2000.
+<em>Polychaetes and Allies: The Southern Synthesis</em>
+Australian Biological Resources Study, Canberra. 465pp.</li>
+</ul>
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://mangrove.nus.edu.sg/guidebooks/text/2007.md">Tube worms</a>
+Ng, Peter K. L. &amp; N. Sivasothi, 1999.
+<em><a href="http://mangrove.nus.edu.sg/guidebooks/">A Guide to the Mangroves of Singapore II (Animal Diversity)</a></em>
+. Singapore Science Centre. 168 pp.</li>
+  <li><a href="http://rmbr.nus.edu.sg/polychaete/Onuphidae.html">Family Onuphidae</a>
+from
+<a href="http://rmbr.nus.edu.sg/polychaete/">A Guide to Singapore Polychaetes</a>
+by Lim Yun Ping 1997-2000 on the Raffles Museum of Biodiversity Research website: fact sheets and photos of tubeworms found in Singapore.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Tong, T.L. &amp; Chou, L.M.
+<a href="http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/Raffles%20Bulletin%20of%20Zoology/Past%20Volumes/RBZ%2044(2)/44rbz357-362.pdf"><em>Diopatra bulohensis</em>
+, a new species of Onuphidae (Polychaeta) from Sungei Buloh</a>
+, Singapore. Pp. 357-362 on the The Raffles Bulletin of Zoology, 1928 - 2004 (launches PDF)</li>
+  <li>Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.
+<em>Invertebrate Zoology</em>
+Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963</li>
+  <li>Pechenik, Jan A., 2005.
+<em>Biology of the Invertebrates</em>
+. 5</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

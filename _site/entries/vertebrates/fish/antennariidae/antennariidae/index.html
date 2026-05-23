@@ -1,0 +1,471 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Frogfishes | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="frog, angler, fish, frogfish, anglerfish, antennariidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info,photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/080619chgd5686m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Chordata">Chordata</a>
+                    > 
+                    <a href="/Chordata/Actinopterygii">Actinopterygii</a>
+                    > 
+                    <a href="/Chordata/Actinopterygii/Lophiiformes">Lophiiformes</a>
+                    >
+                    <a href="/Chordata/Actinopterygii/Lophiiformes/"></a>
+                    >
+                    <a href="/Chordata/Actinopterygii/Lophiiformes//Antennariidae">Antennariidae</a>
+                </p>
+                <h1>Frogfishes</h1>
+                
+                    <p class="scientific-name">Family Antennariidae</p>
+                
+
+                <p><em>Updated Sep 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about them ... They are fishes that go fishing! They use lures to attract prey. They are awkward swimmers, but they have the fastest mouth! Hard to spot: they resemble sponges, rocks. So watch your step!
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        They are fishes that go fishing! They use lures to attract prey. They are awkward swimmers, but they have the fastest mouth! Hard to spot: they resemble sponges, rocks. So watch your step!
+        </div>
+    </div>
+    
+
+</div>
+
+<h2 id="where-seen">Where seen?</h2>
+<p>These rotund fishes are sometimes seen on some of our shores. They are probably quite common and often simply overlooked as they are extremely well camouflaged.</p>
+
+<p><strong>What are frogfishes?</strong>
+Frogfishes belong to the Family Antennariidae. According to
+<a href="http://www.fishbase.org/Summary/FamilySummary.cfm?ID=192">FishBase</a>
+, the family has 12 genera and 41 species. These fishes were previously called anglerfishes, a much more appropriate name for these ambush predators. But anglerfish is now a common name reserved for deep sea fishes that also use a lure to attract prey within their reach.</p>
+<h2 id="features">Features</h2>
+
+<p>Those seen about 6-10cm long, can grow to 18cm. The frogfish has a globular body that can expand greatly. A handy feature that allows the fish to swallow prey as large as itself. Not a fast swimmer, the frogfish usually lies motionless near coral rubble, blending perfectly with its surroundings. Here it waits to ambush passing prey. It doesn’t have scales and instead, has a loose prickly skin. Covered with filaments and fleshy bits, it looks just like an algae-covered rock. The frogfish has tube-like gill openings under the base of its pectoral fins. This prevents exhalations from betraying its presence. It is said that the openings can also be used for jet-propelling. Its eyes are at the top of its head. Gill openings are reduced to small round holes.</p>
+
+<p>Frogfishes come in a wide variety of colours and patterns. Some species are brightly coloured to mimic sponges or other colourful reef creatures. According to Kuiter, the young of some species of frogfishes sometimes look like poisonous nudibranchs.</p>
+
+<p><strong>Sometimes mistaken for</strong>
+stonefish and scorpionfish. Unlike those fishes, the frogfish is harmless. Here’s more on
+<a href="../cfstonefish.md">how to tell apart fishes that look like stones.</a></p>
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/080619chgd5686m3.jpg" alt="" />
+        <div class="caption">
+        Changi, Jun 08
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/080619chgd5686m3b.jpg" alt="" />
+        <div class="caption">
+        A lure that draws prey closer to the mouth
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/black/070812sisg1958m3a.jpg" alt="" />
+        <div class="caption">
+        Lure and bright markings in the mouth. Sisters Island, Aug 07
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Fishing with a lure:</strong>
+The frogfish literally lures prey to come closer. The lure is at the top of its head, just above its very large, upward facing mouth.The lure is made up of the first spine of the dorsal fin. The spine is modified into a rod or stalk (called the illicium) tipped with a fleshy, fluffy or otherwise attractive bit (called the esca). This bit is wriggled, jerked and waved about so it appears to be a helpless and tasty little morsel. While the fish itself remains motionless, looking like just another lump of rock or other harmless thing. Unsuspecting creatures that attempt to eat the lure are instead eaten by the frogfish! Each frogfish species usually targets a specific prey and each species has a lure that resembles something the targeted prey would find tasty. When not in use, the lure is safely flattened against the head.</p>
+
+<p>The victim is usually swallowed whole in one gulp of the frogfish’s huge mouth. The frogfish can hugely expand its mouth in less than a second, making it among the fastest capture in the animal kingdom.</p>
+
+<p><strong>What do they eat:</strong>
+Frogfishes generally eat other fishes although some temperate species eat crustaceans. They may even eat other frogfishes, including their potential mates!</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/110409smks09390m3.jpg" alt="" />
+        <div class="caption">
+        'Climbing' on long seagrass with its 'paws'. Pulau Semakau, Apr 11
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/040803tusd4069m3.jpg" alt="" />
+        <div class="caption">
+        Tuas, Aug 04
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/black/050917smkg2501m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau, Sep 05
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Fish with arms?!</strong>
+The frogfish has another unusual feature: limb-like pectoral fins with an elbow-like joint. These look almost like ‘paws’. It uses these fins almost like arms and hands, to grip the surface and ‘walk’ slowly about (more of a waddle actually). It also has clasping pectoral fins under its body.
+<strong>Frogfish babies:</strong>
+A frogfish mother lays thousands of eggs embedded in a large floating gelatinous mass called an ‘egg raft’ or ‘veil’.
+<em>Lophiocharon</em>
+species are known to brood and care for their eggs. It is believed that the female lays eggs directly onto the side of the male, the eggs attached by sticky threads. The father then look after the eggs by curling his body around the eggs, and folding his dorsal, caudal and pectoral fins over the egg mass to partially conceal them. One spotted-tail frogfish
+<a href="http://lkcnhm.nus.edu.sg/nus/images/pdfs/sbr/2014/sbr2014-237-238.pdf">was seen to do that</a>
+.</p>
+
+<p>According to
+<a href="http://www.fishbase.org/Summary/SpeciesSummary.php?id=10330">FishBase</a>
+the father fish carries egg clusters attached to the side of his body, “either as brooding strategy or as aid in luring other fish for food”. Motionless, his eggs will indeed look like a tasty snack on a stone. Any potential egg-snackers will of course be in danger of becoming a snack for papa frogfish!</p>
+
+<p><strong>Unusual frogfishes:</strong>
+While most frogfishes are bottom-dwelling, one species (
+<em>Histrio</em>
+sp.) floats among sargassum seaweed. Another species, the Brackishwater frogfish (
+<em>Antennarius biocellatus</em>
+) inhabits brackish and even totally freshwater habitats.</p>
+
+<hr />
+
+<p><strong>Some Frogfishes on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/black/070812sisg1958m3.jpg" alt="" />
+        <div class="caption">
+        Black frogfish
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/050725labg0247m3.jpg" alt="" />
+        <div class="caption">
+        Spotted-tail frogfish
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Family Antennariidae recorded for Singapore</strong>
+from Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+.</p>
+
+<p><em>Lim, Kelvin K. P. &amp; Jeffrey K. Y. Low, 1998.
+*A Guide to the Common Marine Fishes of Singapore</em>
+.</p>
+
+<p>**from
+<a href="http://www.marinespecies.org/index.php">WORMS</a></p>
+
+<p>+Other additions (Singapore Biodiversity Records, etc)</p>
+
+<p><strong>Frogfishes seen awaiting identification</strong></p>
+
+<p><a href="black.md">Black frogfish</a></p>
+
+<p><strong>Family Antennariidae</strong></p>
+
+<p><em>Antennarius caudimaculatus=<strong>Antennarius commerson*
+(Commerson’s frogfish)
+*Antennarius chironectes=</strong>Antennarius pictus</em>
+(Painted frogfish)
+<em>Antennarius hispidus</em>
+(Shaggy frogfish)
+**
+<em>+Antennatus nummifer</em>
+(Spotfin frogfish)
+**
+<a href="trisignatus.md">Lophiocharon trisignatus</a>*
+(Spotted-tail frogfish)</p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/231.md">Spotted-tail frogfish (
+<em>Lophiocharon trisignatus</em>
+)</a>
+Lim, Kelvin K. P. &amp; Jeffrey K. Y. Low, 1998.
+<em><a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/">A Guide to the Common Marine Fishes of Singapore</a></em>
+. Singapore Science Centre. 163 pp.</li>
+  <li><a href="https://singapore.biodiversity.online/taxon/A-Vert-Fish-Lophiiformes-Antennariidae">Family Antennariidae (Frogfishes)</a>
+on The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.</li>
+  <li>
+    <dl>
+      <dt><a href="http://www.fishbase.org/Summary/FamilySummary.cfm?ID=192">Family Antennariidae</a></dt>
+      <dt>and</dt>
+      <dt><em><a href="http://www.fishbase.org/summary/7293">Antennarius commerson</a></em></dt>
+      <dt><a href="http://www.fishbase.org/summary/7293">(Commerson’s frogfish)</a></dt>
+      <dt>and</dt>
+      <dt><em><a href="http://www.fishbase.org/summary/10276">Antennarius pictus</a></em></dt>
+      <dt><a href="http://www.fishbase.org/summary/10276">(Painted frogfish)</a></dt>
+      <dt>and</dt>
+      <dt>[<em>Antennarius hispidus</em></dt>
+      <dt>(Shaggy angler)](http://www.fishbase.org/summary/8074)</dt>
+      <dt>and</dt>
+      <dt>[<em>Lophiocharon trisignatus</em></dt>
+      <dt>(Three-spot frogfish)](http://www.fishbase.org/summary/10330)</dt>
+      <dt>from</dt>
+      <dt><a href="http://www.fishbase.org/">FishBase</a></dt>
+      <dd>Technical fact sheet on the family, including fact sheets on individual species.</dd>
+    </dl>
+  </li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Tan Tsu Soo &amp; Toh Chay Hoon. 31 October 2019.
+<em>Rediscovery of spotfin frogfish (Antennatus nummifer) in Singapore</em>
+.Singapore Biodiversity Records 2019: 141-142 ISSN 2345-7597, National University of Singapore.</li>
+  <li>Tan Heok Hui. 29 August 2014.
+<em>Egg brooding behaviour of the spot-tail frogfish, Lophiocharon trisignatus</em>
+. Singapore Biodiversity Records 2014; 237-238.</li>
+  <li>Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+. National Council on the Environment. 163pp.</li>
+  <li>Allen, Gerry, 2000.
+<em>Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers</em>
+. Periplus Editions. 292 pp.</li>
+  <li>Kuiter, Rudie H. 2002.
+<em>Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers &amp; Fishermen</em>
+New Holland Publishers. 434pp.</li>
+  <li>Lieske, Ewald and Robert Myers. 2001.
+<em>Coral Reef Fishes of the World</em>
+Periplus Editions. 400pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

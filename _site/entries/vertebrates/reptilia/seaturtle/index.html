@@ -1,0 +1,548 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Sea turtles | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="changeable, lizard, calotes, versicolor, agamidae, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/100710sistch1m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Chordata">Chordata</a>
+                    > 
+                    <a href="/Chordata/Reptilia">Reptilia</a>
+                    > 
+                    <a href="/Chordata/Reptilia/Testudines">Testudines</a>
+                    >
+                    <a href="/Chordata/Reptilia/Testudines/"></a>
+                    >
+                    <a href="/Chordata/Reptilia/Testudines//Cheloniidae">Cheloniidae</a>
+                </p>
+                <h1>Sea turtles</h1>
+                
+                    <p class="scientific-name">Family Cheloniidae</p>
+                
+
+                <p><em>Updated Oct 2019</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>Adult sea turtles are sometimes sighted near our Southern Islands. While there have been several incidents of baby sea turtles hatching on our shores, including East Coast Park!</p>
+
+<h2 id="features">Features</h2>
+
+<p>Marine turtles are air-breathing reptiles that live out at sea. They only return to land to lay their eggs on sandy beaches. Superbly adapated to life at sea, the sea turtles limbs are modified into oar-like flippers. As adults many migrate, some for very long distances. Studies show that sea turtles found in Singapore waters may nest on shores in our neighbouring countries, and possibly visa versa.</p>
+
+<p>Globally, there are 7 sea turtle species belonging to two families. The two species most commonly encountered in Singapore are the Green turtle and the Hawksbill turtle.</p>
+
+<p><strong>Hawksbill turtle</strong>
+(
+<em>Eretmochelys imbricata</em>
+): To about 90cm. Its jaws are distinctly hook-shaped and are used to crunch crabs and shells. The edge of the shell towards the back is serrated and not smooth. It eats mainly sponges but also other animals. It is found near reefs. This is the sea turtle that is harvested for its shell, used in ‘tortoise shell’ products.</p>
+
+<p><strong>Green turtle</strong>
+(
+<em>Chelonia mydas</em>
+): To about 1.5m or more. Jaws are not hooked shaped and the edge of shell is smooth. Their common name arose from the colour of the cartilage and fat deposits around their internal organs. Adults eat mainly or only seagrasses and thus found near coastal areas with seagrass meadows. Juveniles are omnivorous and eat seaweeds, crabs and squid.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/100710sistch1m3.jpg" alt="" />
+        <div class="caption">
+        Young sea turtle found resting in the man-made lagoon. Sisters Island, Jul 10 Photo shared by Toh Chay Hoon on her blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/130909kusrick1m3.jpg" alt="" />
+        <div class="caption">
+        Kusu Island, Sep 13 Photo shared by Leong Chin Rick on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/071112smktsy3m3.jpg" alt="" />
+        <div class="caption">
+        Hawksbill turtle (serrated edge of shell at the back). Pulau Semakau, Nov 07 Photo shared by Teo Siyang on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Stranded baby sea turtles:</strong>
+In recent years, there were incidents of sea turtle hatchlings going in the ‘wrong’ direction when they emerged from the sandy shores of East Coast Park. Why do they do this? Baby sea turtles’ natural instinct is to head towards the sea. In nature, starlight and moonlight on the water would guide them in the right direction. However, in urbanised shores like ours, light from our parks, streets and other human activities disorientate them. As a result, they head in the wrong direction and usually come to a sad end.</p>
+
+<p><strong>What to do with sea turtles stranded on the beach?</strong>
+If you spot any sea turtles on our shores, call the Police or NParks (Helpline number: 1800 4717300, or any other emergency number that you can see posted on signage in the park). They will then activate the Standard Operating Procedure to rescue them. Speak softly and stay out of sight, avoid shining lights or using flash photography, as light and noise may scare the sea turtle before it lays. Don’t trample over tracks left by turtles, as researchers use them to identify the species and locate nests.</p>
+
+<p><strong>You can make a difference:</strong>
+Join NPark’s
+<a href="https://www.nparks.gov.sg/visit/parks/sisters-islands-marine-park/volunteer#biodiversity-beach-patrol">Biodiversity Beach Patrol</a>
+where volunteers patrol the shores and gather data on sea turtle populations in Singapore. Patrols are done June to September yearly, 5am and 7am, 6 days a month per site.</p>
+
+<p><strong>Status and threats:</strong>
+Our sea turtles are listed as ‘Critically Endangered’ on the Red List of threatened animals of Singapore. These species are also globally ‘Critically Endangered’. Globally, sea turtles are threatened by overharvesting of their eggs, and as adults for their meat and shells. Sea turtles also drown when trapped in fishing lines and nets, and die a slow and painful death when they accidentally eat plastic bags and other marine debris. Their nesting beaches are also lost to reclamation or affected by coastal development, light and chemical pollution and other human activities nearby.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/130721ecpdavid1m3.jpg" alt="" />
+        <div class="caption">
+        Sea turtle seen attempting to lay eggs. East Coast Park, Jul 13 Photo shared by David Tan on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/090921kusd1412m3.jpg" alt="" />
+        <div class="caption">
+        Baby sea turtle seen in the man-made lagoon. They were eventually released into the sea. Kusu Island, Sep 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/190320smkm3.jpg" alt="" />
+        <div class="caption">
+        Bones of a dead sea turtle in an abandoned net. Pulau Semakau, Mar 19
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Sea turtles on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470@N00&amp;sort=date-posted-desc&amp;view_all=1&amp;text=Cheloniidae">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Cheloniidae/map?&amp;fLat=1.2626&amp;fLon=103.8654&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/060523ecphn1m3.jpg" alt="" />
+        <div class="caption">
+        East Coast Park, May 06 Photos shared by Sivasothi on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/060523ecphn1m3a.jpg" alt="" />
+        <div class="caption">
+        Rescued hawksbill turtle hatchlings.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/060523ecphn2m3.jpg" alt="" />
+        <div class="caption">
+        Searching for lost Hawksbill hatchlings.
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/170823tsmkjt1.jpg" alt="" />
+        <div class="caption">
+        Terumbu Semakau , Aug 17 Photos shared by Jonathan Tan on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/160625tkklks3.jpg" alt="" />
+        <div class="caption">
+        Dead sea turtle washed ashore. Pulau Tekukor, Jun 16 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<hr />
+
+<p><strong>Sea turtles recorded for Singapore</strong>
+from Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+.</p>
+
+<p><em>Lim, Kelvin K. P. &amp; Jeffrey K. Y. Low, 1998.
+*A Guide to the Common Marine Fishes of Singapore</em>
+.
+**
+in red are those listed among the threatened animals of Singapore
+from
+<em>Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red Data Book: Threatened plants and animals of Singapore.</em>
+**</p>
+
+<p><strong>Family Cheloniidae</strong></p>
+
+<p><em>Caretta caretta</em>
+(Loggerhead sea turtle)</p>
+
+<p><em>Chelonia mydas</em>
+(Green sea turtle) (CR: Critically Endangered)</p>
+
+<p><em>Eretmochelys imbricata</em>
+(Hawksbill turtle) (CR: Critically Endangered)</p>
+
+<p><strong>Family Dermochelyidae</strong></p>
+
+<p><em>Dermochelys coriacea</em>
+(Leatherback turtle)</p>
+
+<hr />
+
+<p><strong>Past sea turtle sightings in Singapore</strong></p>
+
+<ul>
+  <li><a href="https://www.straitstimes.com/multimedia/graphics/2025/09/sea-turtle-hatchery-singapore-sisters-island/index.html">Guardians of Singapore’s sea turtles</a>
+Long Island reclamation is one reason why NParks is relocating turtle eggs laid at East Coast Park Straits Times 10 Sep 2025.</li>
+  <li><a href="https://mothership.sg/2020/12/turtle-tracking-singapore-batam/">Turtles with satellite tracker swim from Singapore to Riau, now feeding at Batam</a>
+Mothership 13 Dec 2020</li>
+  <li><a href="http://wildshores.blogspot.sg/2017/02/singapore-got-sea-turtles.html">1m diameter Green sea turtle at Eastern Pulau Ubin</a>
+, sighted by Richard Lim (26 Feb 2017).</li>
+  <li><a href="https://www.facebook.com/serin.subaraj/posts/1414618098557929">6-7 Green and Hawksbill sea turtles off Pulau Semakau</a>
+, sighted by Serin Subaraj (25 Feb 2017).</li>
+  <li><a href="http://wildsingaporenews.blogspot.sg/2017/01/badly-cut-1m-long-sea-turtle-found-dead.html">Badly cut 1m-long sea turtle found dead along Changi Beach</a>
+Lydia Lam Straits Times AsiaOne (2 Jan 2017)</li>
+  <li><a href="http://wildshores.blogspot.sg/2017/01/what-killed-sea-turtle.html">What killed the sea turtle?</a>
+(17 Sep 2016)</li>
+  <li><a href="https://www.facebook.com/wildsingapore/media_set?set=a.10153717197643595.1073742037.687823594&amp;type=3">Dead sea turtle seen at Pulau Tekukor</a>
+(25 Jun 2016)</li>
+  <li><a href="http://wildshores.blogspot.sg/2015/06/sea-turtle-seen-at-changi.html">Sea turtle seen at Changi</a>
+(23 Jun 2015)</li>
+  <li>Tan Yee Keat. 18 December 2015.
+<a href="http://lkcnhm.nus.edu.sg/nus/images/pdfs/sbr/2015/sbr2015-212-213.pdf">Green turtle carcass showing sign of boat strike at Selat Pandan</a>
+. Singapore Biodiversity Records 2015: 212-213.</li>
+  <li><a href="http://lkcnhm.net/2015/05/28/salvaging-a-dead-sea-turtle-at-changi-beach/">Salvaging a dead sea turtle at Changi Beach</a>
+, May 2015 on the Lee Kong Chian Natural History Museum blog.</li>
+  <li><a href="http://wildshores.blogspot.sg/2015/05/singapore-has-sea-turtles-dolphins.html">Singapore has sea turtles? Dolphins!</a>
+(3 May 15)</li>
+  <li><a href="http://wildshores.blogspot.sg/2015/03/dead-sea-turtle-found-at-tuas.html">Dead sea turtle found at Tuas</a>
+(17 Mar 15)</li>
+  <li><a href="http://wildshores.blogspot.sg/2014/09/wild-dolphins-sea-turtles-in-singapore.html">Wild dolphins! Sea turtles! In Singapore waters!</a>
+(16 Sep 14)</li>
+  <li><a href="http://wildshores.blogspot.sg/2013/10/special-sightings-since-2010-dugongs.html">Special sightings since 2010: dugong, dolphin, sea turtles and more!</a>
+(20 Oct 13)</li>
+  <li><a href="http://wildsingaporenews.blogspot.sg/2013/07/rare-sea-turtle-spotted-on-beach-at.html">Rare sea turtle spotted on beach at East Coast Park</a>
+Grace Chua Straits Times 30 Jul 13;</li>
+  <li><a href="http://www.pulauhantu.org/sea-turtles-nesting-in-singapore/">Sea turtles nesting in Singapore</a>
+on Pulau Hantu 28 Jul 13;</li>
+  <li><a href="http://wildshores.blogspot.sg/2013/03/singapore-has-wild-dolphins-otters.html">Singapore has wild dolphins, otters, dugongs, sea turtles and more!</a>
+(18 Mar 13)</li>
+  <li><a href="http://wildsingaporenews.blogspot.com/2009/09/right-way-to-save-turtles-call-cops.html">Right way to save turtles?</a>
+Teh Jen Lee, The New Paper 17 Sep 09;</li>
+  <li><a href="http://coastalcleanup.wordpress.com/2007/09/18/melakan-hawksbill-turtle-now-off-sentosa/">Hawksbill turtle near Sentosa</a>
+(Sep 06 until Sep 07) tagged with satellite transmitter as part of
+<a href="http://www.wwf.org.my/about_wwf/what_we_do/species_main/turtles/turtles_projects/conservation_of_hawksbill_turtles___painted_terrapins_in_malacca/turtle_satellite_tracking_of_hawksbill_turtles_ver2/the_voyage_of_our_turtles___puteri_pulau_upeh/index.cfm">a WWF Malaysia project</a>
+on the News from International Coastal Cleanup blog</li>
+  <li><a href="http://habitatnews.nus.edu.sg/index.php?entry=/marine/20060523-turtle_rescue.txt">Hawksbill turtle hatchling rescue and release at East Coast Park</a>
+(23 May 06) More photos and lots more details of this on the habitatnews blog
+<a href="http://thebluetempeh.blogspot.com/2006/05/singapore-sightings-dolphins-dugongs.html">http://thebluetempeh.blogspot.com/2006/05/singapore-sightings-dolphins-dugongs.html</a></li>
+  <li><a href="http://uvp.blogspot.com/2006/05/turtles-rescued-from-drains.html">Turtles rescued from drains</a>
+(23 May 06) more photos of the rescue on the ubin volunteer blog</li>
+  <li><a href="http://habitatnews.nus.edu.sg//index.php?entry=/marine/20060222-pulauhantu_hawksbill-jani_thuaibah.txt">Blue Tempeh meets Aunty Betsy under the sea</a>
+(Pulau Hantu) (21 Feb 06) photos and story on the habitatnews blog</li>
+  <li><a href="http://thebluetempeh.blogspot.com/2006/02/rf-xplore-explores-pulau-hantu.html">RF Xplore explores Hantu</a>
+(21 Feb 06) with photos of sea turtle and lots of other marine life on The Blue Tempeh blog</li>
+  <li><a href="http://colorclouds.blogspot.com/2006/02/wonderful-diving-at-pulau-hantu.html">Wonderful diving at Pulau Hantu</a>
+(4 Feb 06) with lots of photos of the sea turtle on the Colourful Clouds blog
+<a href="http://thebluetempeh.blogspot.com/2006/02/rf-xplore-explores-pulau-hantu.html">http://thebluetempeh.blogspot.com/2006/02/rf-xplore-explores-pulau-hantu.html</a></li>
+  <li><a href="http://habitatnews.nus.edu.sg//index.php?entry=/marine/20050322-hantuannvdive.txt">Sea turtle seen on Hantu Bloggers’ first anniversary dive</a>
+(Mar 05) on the habitatnews blog</li>
+</ul>
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://wildsingaporenews.blogspot.com/search/label/sea-turtles">Latest media reports on sea turtles</a>
+on the wildsingapore news blog.</li>
+  <li><a href="http://www.worldwildlife.org/species/finder/marineturtles/marineturtles.html">Marine turtles</a>
+on the WWF website with fact sheets on
+<a href="http://www.worldwildlife.org/species/finder/greenturtle/greenturtle.html">Green turtles</a>
+and
+<a href="http://www.worldwildlife.org/species/finder/hawksbillturtle/hawksbillturtle.html">Hawksbill turtles</a>
+.</li>
+  <li><a href="http://www.wwf.org.my/about_wwf/what_we_do/species_main/turtles/">Sea turtles of Malaysia</a>
+on the WWF Malaysia website: with details of
+<a href="http://www.wwf.org.my/about_wwf/what_we_do/species_main/turtles/turtles_projects/conservation_of_hawksbill_turtles___painted_terrapins_in_malacca/turtle_satellite_tracking_of_hawksbill_turtles_ver2/">satellite tracking of hawskbill turtles</a>
+and
+<a href="http://www.wwf.org.my/media_and_information/events_main/?9000/Maps-Reveal-Secret-Life-of-Turtles-and-Marine-Habitat-in-Urgent-Need-of-Protection">maps of sea turtle migration in the Coral Triangle</a>
+.</li>
+  <li>NParks Flora and Fauna website:
+<a href="https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=263">Green turtle (
+<em>Chelonia mydas</em>
+)</a>
+and
+<a href="https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=262">Hawksbill turtle (
+<em>Eretmochelys imbricata</em>
+)</a>
+.</li>
+  <li>From the wild shores of singapore blog.</li>
+  <li>All sighting from 2019 onwards, compiled under the tag:
+<a href="http://wildshores.blogspot.sg/search/label/mega-fauna">‘mega fauna’</a></li>
+  <li><a href="http://wildshores.blogspot.com/2018/08/happy-national-day-with-dolphins-sea.html">Happy National Day with dolphins, sea turtles and dugongs! (Aug 2018)</a></li>
+  <li><a href="http://wildshores.blogspot.com/2018/06/sea-turtles-and-dolphins-in-singapore.html">Sea turtles and dolphins in Singapore waters! (May 2018)</a></li>
+  <li><a href="http://wildshores.blogspot.sg/2017/02/singapore-got-sea-turtles.html">Singapore got sea turtles!</a></li>
+  <li><a href="http://wildshores.blogspot.sg/2017/01/what-killed-sea-turtle.html">What killed the sea turtle?</a></li>
+  <li><a href="http://wildshores.blogspot.com/2011/01/do-balloon-releases-kill-marine-life.html">Do balloon releases kill marine life?</a></li>
+  <li><a href="http://wildshores.blogspot.com/2011/06/balloons-and-soft-plastic-kill-sea.html">Balloons and soft plastic kill sea turtles, slowly and painfully</a></li>
+  <li><a href="http://wildshores.blogspot.com/2009/07/sea-turtles-of-coral-triangle-and.html">Sea turtles of the Coral Triangle and Singapore</a></li>
+  <li><a href="http://wildshores.blogspot.com/2009/07/discarded-balloons-can-kill-sea-turtles.html">Discarded balloons can kill sea turtles</a></li>
+  <li><a href="http://wildshores.blogspot.com/2009/07/sea-turtle-connection-sentosa-and-pulau.html">Sea turtle connection: Sentosa and Pulau Upeh</a></li>
+  <li><a href="http://wildshores.blogspot.com/2009/03/light-kills.html">Light kills</a></li>
+  <li><a href="http://wildshores.blogspot.com/2009/03/reactions-to-mass-balloon-release.html">Reactions to mass balloon release</a></li>
+  <li><a href="http://wildshores.blogspot.com/2009/02/single-abandoned-fishing-line-can-kill.html">Single abandoned fishing line can kill</a></li>
+  <li><a href="http://wildshores.blogspot.com/2008/12/how-do-sea-turtles-find-their-way-home.html">How do sea turtles find their way home?</a></li>
+  <li><a href="http://wildshores.blogspot.com/2008/08/sea-turtles-and-singapores-shores.html">Sea turtles and Singapore’s shores</a></li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Joseph Cham,
+<em>Distribution of marine turtles in Singapore: human-wildlife coexistence in a highly urbanized seascape</em>
+, Bulletin of Marine Science, 29 May 2024.</li>
+  <li>Ng Juat Ying, Collin H. Y. Tong &amp; Koh Kwan Siong.
+<em>A carcass of an olive ridley turtle at East Coast beach</em>
+. 31 May 2019. Singapore Biodiversity Records 2019: 65-66 ISSN 2345-7597. National University of Singapore.</li>
+  <li>Lim, Kelvin K. P. &amp; Francis L K Lim, 1992.
+<em>A Guide to the Amphibians and Reptiles of Singapore</em>
+Singapore Science Centre. 160 pp.</li>
+  <li>Cox, Merel J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt. 1998.
+<em>A Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular Malaysia and Singapore</em>
+New Holland.</li>
+  <li>Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+<em>The Singapore Red Data Book: Threatened plants and animals of Singapore</em>
+. Nature Society (Singapore). 285 pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

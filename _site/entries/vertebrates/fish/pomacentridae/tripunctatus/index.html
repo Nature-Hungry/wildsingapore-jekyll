@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Threespot damselfish | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="three, spot, damsel, fish, damselfish, pomacentrus, tripunctatus, pomacentridae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/080410cyrd0050m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Chordata">Chordata</a>
+                    > 
+                    <a href="/Chordata/Actinopterygii">Actinopterygii</a>
+                    > 
+                    <a href="/Chordata/Actinopterygii/Blenniiformes">Blenniiformes</a>
+                    >
+                    <a href="/Chordata/Actinopterygii/Blenniiformes/"></a>
+                    >
+                    <a href="/Chordata/Actinopterygii/Blenniiformes//Pomacentridae">Pomacentridae</a>
+                </p>
+                <h1>Threespot damselfish</h1>
+                
+                    <p class="scientific-name">Pomacentrus tripunctatus</p>
+                
+
+                <p><em>Updated Oct 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This dark fish with electric blue markings is sometimes seen on some of our shores among coral rubble and near living reefs. Elsewhere, it is found in shallow bays and silty coastal reefs and other ‘dead’ areas, up to 3m deep. Usually alone, in holes of small rocks on sandy bottoms with coral rubble.</p>
+
+<h2 id="features">Features</h2>
+
+<p>To about 20cm, those seen about 12-15cm long. Adults dull greenish black or dark grey with a blue-edged black spot on the upper tail base, usually seen under rocks at low tide. Juveniles may have an additional blue-edged black spot on the soft parts of the dorsal fin and blue lines on the head and back.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/080410cyrd0050m3.jpg" alt="" />
+        <div class="caption">
+        Tiny juvenile. Cyrene, Apr 08
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/110602tmftd3572m6l.jpg" alt="" />
+        <div class="caption">
+        Juvenile. Tanah Merah, Jun 11
+        </div>
+    </div>
+    
+
+</div>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/050411tusg4489m6l.jpg" alt="" />
+        <div class="caption">
+        Adult. Tuas, Apr 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/110602tmftd3566m3.jpg" alt="" />
+        <div class="caption">
+        Juvenile. Tanah Merah, Jun 11
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Tiny but tough:</strong>
+Tiny juveniles 2-3cm long can have electric blue lines (although these little fishes may also be the juveniles of
+<em>Pomacentrus cuneatus</em>
+or
+<em>Pomacentrus cheraphilus</em>
+). These tiny fishes seem to be territorial and swim in jerky darting movements around their ‘turf’.</p>
+
+<p><strong>What does it eat?</strong>
+It eats mainly algae growing on the sea bottom.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="https://live.staticflickr.com/2805/33971040050_e22ae4991b_z.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Threespot damselfishes on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470%40N00&amp;sort=date-taken-desc&amp;safe_search=3&amp;view_all=1&amp;text=Pomacentrus%20tripunctatus">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Pomacentrus%2520tripunctatus/map?&amp;fLat=1.2643&amp;fLon=103.864&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/200722lyglks5.jpg" alt="" />
+        <div class="caption">
+        Changi-Loyang, Jul 20 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/180517skddc1.jpg" alt="" />
+        <div class="caption">
+        Pulau Sekudu, May 18 Photo shared by Dayna Cheah on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/120508skdmn.jpg" alt="" />
+        <div class="caption">
+        Pulau Sekudu, May 12 Photo shared by Marcus Ng on flickr .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/090818tmjk5m3.jpg" alt="" />
+        <div class="caption">
+        Tanah Merah, Aug 09 Photo shared by James Koh on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/090918tmjk2m3.jpg" alt="" />
+        <div class="caption">
+        Tanah Merah, Sep 09 Photo shared by James Koh on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/220813pcnccn1.jpg" alt="" />
+        <div class="caption">
+        East Coast Park (PCN), Aug 22 Photo shared by Che Cheng Neo on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/210628ecpBlks7.jpg" alt="" />
+        <div class="caption">
+        East Coast Park (B), Jun 21 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/240527sntccn1.jpg" alt="" />
+        <div class="caption">
+        Sentosa Tg Rimau, May 24 Photo shared by Che Cheng Neo on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/240527sntlks4.jpg" alt="" />
+        <div class="caption">
+        Sentosa Tg Rimau, May 24 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/240527sntlks5.jpg" alt="" />
+        <div class="caption">
+        Sentosa Tg Rimau, May 24 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/260104trmlvo3.jpg" alt="" />
+        <div class="caption">
+        Sentosa Tg Rimau, Jan 26 Photo shared by Lon Voon Ong on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/171009blyay10.jpg" alt="" />
+        <div class="caption">
+        Berlayar Creek, Oct 17 Photo shared by Abel Yeo on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/240820kusmn1.jpg" alt="" />
+        <div class="caption">
+        Kusu Island, Aug 24 Photo shared by Marcus Ng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/100502trylks1m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Raya, May 10 Photo shared by Loh Kok Sheng on his flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/140810smkmn.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau, Aug 14 Photo shared by Marcus Ng on flickr .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/180514jngll1.jpg" alt="" />
+        <div class="caption">
+        Pulau Jong, Aug 18 Photo shared by Liz Lim on facebook
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/190522tsmll1.jpg" alt="" />
+        <div class="caption">
+        Terumbu Semakau, May 19 Photo shared by Liz Lim on facebook.
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/110517tptsy1m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Pempang Tengah, May 11 Photo shared by Sam Yeo on facebook
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/100530biomn.jpg" alt="" />
+        <div class="caption">
+        Pulau Biola, May 10 Photo shared by Marcus Ng on flickr .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Acknowledgements</strong>
+Identification of blue juveniles with grateful thanks to Jeffrey Low of NParks Biodiversity Centre.</p>
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/344.md">Threespot damsel (
+<em>Pomacentrus tripunctatus</em>
+)</a>
+Lim, Kelvin K. P. &amp; Jeffrey K. Y. Low, 1998.
+<em><a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/">A Guide to the Common Marine Fishes of Singapore</a></em>
+. Singapore Science Centre. 163 pp.</li>
+  <li>
+    <dl>
+      <dt>[Threespot damsel (</dt>
+      <dt><em>Pomacentrus tripunctatus</em></dt>
+      <dt>)](http://www.fishbase.se/Summary/SpeciesSummary.php?id=8277)</dt>
+      <dt>from</dt>
+      <dt><a href="http://www.fishbase.org/">FishBase</a></dt>
+      <dd>Technical fact sheet.</dd>
+    </dl>
+  </li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Daisuke Taira &amp; Amanda Rouwen Hsiung. 31 August 2020.
+<em>The silty damselfish, Pomacentrus cheraphilus, in Singapore</em>
+. Singapore Biodiversity Records 2020: 119-120 ISSN 2345-7597</li>
+  <li>Allen, Gerry, 2000.
+<em>Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers</em>
+. Periplus Editions. 292 pp.</li>
+  <li>Lieske, Ewald and Robert Myers. 2001.
+<em>Coral Reef Fishes of the World</em>
+Periplus Editions. 400pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

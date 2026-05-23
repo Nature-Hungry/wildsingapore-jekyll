@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Y-branch brown seaweed | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="strap,  brown, seaweed, weed, dictyota, dictyotaceae, phaeophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/050413labd2529m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Ochrophyta">Ochrophyta</a>
+                    > 
+                    <a href="/Ochrophyta/Phaeophyceae">Phaeophyceae</a>
+                    > 
+                    <a href="/Ochrophyta/Phaeophyceae/Dictyotales">Dictyotales</a>
+                    >
+                    <a href="/Ochrophyta/Phaeophyceae/Dictyotales/"></a>
+                    >
+                    <a href="/Ochrophyta/Phaeophyceae/Dictyotales//Dictyotaceae">Dictyotaceae</a>
+                </p>
+                <h1>Y-branch brown seaweed</h1>
+                
+                    <p class="scientific-name">Dictyota sp.</p>
+                
+
+                <p><em>Updated Jan 13</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This flat strap-like brown seaweed is sometimes seen on many of our shores, often anchored in bare sand.</p>
+
+<h2 id="features">Features</h2>
+
+<p>A bunch of several to many strap-like blades about 1-2cm wide and 10-15cm long, branching on one plane forming Y-shapes with rounded or squarish tips. The seaweed does not have a prominent midrib or vein. Usually a plain translucent brown. In some, the entire clump comprises a few long strands. In others, there are many short strands forming a dense clump.</p>
+
+<p>According to
+<a href="http://www.algaebase.org/search/genus/detail/?genus_id=51">AlgaeBase</a>
+, there are more than 70 current
+<em>Dictyota</em>
+species.</p>
+
+<p><strong>Human uses:</strong>
+Strap brown seaweed is eaten by people and used as animal feed, medicine for its antibacterial properties.
+<a href="ybranch.md"><em>Dictyota dichotoma</em></a>
+is also used to make beer, frozen food, fruit juices, ice cream, jellies, in meat and flavour sauces, milk shakes, pastries and salad dressings. Extracts from it are also used in industry as emulsifiers, gelling agents, stabilisers.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/050413labd2529m3.jpg" alt="" />
+        <div class="caption">
+        Labrador, Apr 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/060809skdd5554m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Sekudu, Aug 06
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/050429cftg5397m3.jpg" alt="" />
+        <div class="caption">
+        Changi, Apr 05
+        </div>
+    </div>
+    
+
+</div>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/120209blyd6238m3.jpg" alt="" />
+        <div class="caption">
+        Berlayar Creek, Feb 12
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/050624tusg8538m3.jpg" alt="" />
+        <div class="caption">
+        Tuas, Jun 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/070615sntrd2173m3.jpg" alt="" />
+        <div class="caption">
+        Sentosa, Jun 07
+        </div>
+    </div>
+    
+
+</div>
+
+<p>**Seaweed species are difficult to positively identify without microscopic examination.</p>
+
+<p>On this website, they are grouped by external features for convenience of display.*</p>
+
+<hr />
+
+<p><strong>Y-branch brown seaweed on Singapore shores</strong></p>
+
+<hr />
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?text=Dictyota%20sp.&amp;sort=date-taken-desc&amp;user_id=54527470%40N00">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Dictyota%2520sp./map?&amp;fLat=1.2605&amp;fLon=103.8647&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/230608tmftvc4.jpg" alt="" />
+        <div class="caption">
+        Tanah Merah Ferry Terminal, Jun 23 Photo shared by Vincent Choo on facebook.
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong><em>Dictyota</em>
+species recorded for Singapore</strong>
+**
+Pham, M. N., H. T. W. Tan, S. Mitrovic &amp; H. H. T. Yeo, 2011.
+<em>A Checklist of the Algae of Singapore</em>
+.</p>
+
+<p>*Dictyota adnata</p>
+
+<p>Dictyota bartayresiana</p>
+
+<p>Dictyota ciliolata</p>
+
+<p>Dictyota crispata</p>
+
+<p><a href="ybranch.md">Dictyota dichotoma</a>*
+(Bluish y-branch brown seaweed)
+*Dictyota dichotoma var. intricata</p>
+
+<p>Dictyota hauckiana</p>
+
+<p>Dictyota lata*</p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&amp;l=ur2&amp;o=1" alt="" />
+        <div class="caption">
+        Links Dictyota on AlgaeBase : Technical fact sheet. References Pham, M. N., H. T. W. Tan, S. Mitrovic &amp; H. H. T. Yeo, 2011. A Checklist of the Algae of Singapore (pdf). Raffles Museum of Biodiversity Research, National University of Singapore, Singapore. 100 pp. Uploaded 1 August 2011. Calumpong, H. P. &amp; Menez, E. G., 1997. Field Guide to the Common Mangroves, Seagrasses and Algae of the Philippines . Bookmark, Inc., the Philippines. 197 pp. Huisman, John M. 2000. Marine Plants of Australia University of Western Australia Press. 300pp. Trono, Gavino. C. Jr., 1997. Field Guide and Atlas of the Seaweed Resources of the Philippines. . Bookmark, Inc., the Philippines. 306 pp.
+        </div>
+    </div>
+    
+
+</div>
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://www.algaebase.org/search/genus/detail/?genus_id=51"><em>Dictyota</em></a>
+on <a href="http://www.algaebase.org/">AlgaeBase</a>: Technical
+fact sheet.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Pham, M.
+N., H. T. W. Tan, S. Mitrovic &amp; H. H. T. Yeo, 2011. <a href="http://rmbr.nus.edu.sg/raffles_museum_pub/singapore_algae_checklist.pdf"><em>A
+Checklist of the Algae of Singapore</em></a> (pdf). Raffles Museum
+of Biodiversity Research, National University of Singapore, Singapore.
+100 pp. Uploaded 1 August 2011.</li>
+  <li>Calumpong,
+H. P. &amp; Menez, E. G., 1997.*[Field</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

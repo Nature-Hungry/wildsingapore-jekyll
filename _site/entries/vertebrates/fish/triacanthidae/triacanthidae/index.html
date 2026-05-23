@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Tripodfishes | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="tripodfish, tripod, fish, triacanthidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/triacanthidae/triacanthidae/020225cjcpd7376m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Chordata">Chordata</a>
+                    > 
+                    <a href="/Chordata/Actinopterygii">Actinopterygii</a>
+                    > 
+                    <a href="/Chordata/Actinopterygii/Tetraodontiformes">Tetraodontiformes</a>
+                    >
+                    <a href="/Chordata/Actinopterygii/Tetraodontiformes/Triacanthodoidei">Triacanthodoidei</a>
+                    >
+                    <a href="/Chordata/Actinopterygii/Tetraodontiformes/Triacanthodoidei/Triacanthidae">Triacanthidae</a>
+                </p>
+                <h1>Tripodfishes</h1>
+                
+                    <p class="scientific-name">Family Triacanthidae</p>
+                
+
+                <p><em>Updated Nov 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about them ... These fishes can be tiny and well camouflaged. Watch your step! They do indeed have three spines. Don't take the fish out of the water or it may die.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        These fishes can be tiny and well camouflaged. Watch your step! They do indeed have three spines. Don't take the fish out of the water or it may die.
+        </div>
+    </div>
+    
+
+</div>
+
+<h2 id="where-seen">Where seen?</h2>
+<p>These flat silvery fishes with surprising pointy spines can sometimes be commonly seen on our Northern shores, among seagrasses. Some may be tiny (less than 3cm) and being flat, virtually disappear when seen from above. Larger ones may be seen in streams flowing out of the mangroves during low tide. They are often caught in fishing nets.</p>
+
+<dl>
+  <dt><strong>What are tripodfishes?</strong></dt>
+  <dt>Tripodfishes belong to Family Triacanthidae. According to</dt>
+  <dt><a href="http://www.fishbase.org/Summary/FamilySummary.cfm?ID=444">FishBase</a></dt>
+  <dd>the family has 4 genera and 7 species. They are found in the Indo-Pacific area.
+    <h2 id="features">Features</h2>
+  </dd>
+</dl>
+
+<p>6-25cm. Body extremely flattened sideways, somewhat rhombus-shaped and silvery. The scales are tiny and almost impossible to see with the naked eye. The gill opening is a small vertical slit. The fish does indeed have a tripod made out of a pair of long, rigid pelvic fins and the tail fin. In addition, it also has a stiff dorsal fin spine and stiff spines on the pelvic fins. It can raise all these spines to make it difficult for a predator to swallow it. Its scientific name comes from the Greek ‘tri’ which means ‘three’ and ‘akantha’ which means ‘thorn’.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/triacanthidae/triacanthidae/020225cjcpd7376m3.jpg" alt="" />
+        <div class="caption">
+        Chek Jawa, Feb 02
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/triacanthidae/triacanthidae/031213sbwrd0034m6l.jpg" alt="" />
+        <div class="caption">
+        Sungei Buloh Wetland Reserve, Dec 03
+        </div>
+    </div>
+    
+
+</div>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/triacanthidae/triacanthidae/050622cftg8073m6l.jpg" alt="" />
+        <div class="caption">
+        Disappears when seen from above! Changi, Jun 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/triacanthidae/triacanthidae/050818cftg1406m3.jpg" alt="" />
+        <div class="caption">
+        About 2cm long, this juvenile has flaps on its pointed fins. Changi, Aug 05 .
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>What do they eat?</strong>
+Tripodfish are adapted for sandy or muddy coastal areas. Here, they hunt for small fish and bottom-dwelling animals, sucking these up with their pointed mouths.</p>
+
+<p><strong>Human uses:</strong>
+Tripodfish are generally not considered good eating. When caught by trawlers together with other more marketable fish, tripodfish are considered trash. They are wastefully thrown back, often dead. In some places, however, such ‘trash’ fish are converted into fish meal or fertiliser. One species, the Short-nosed tripodfish (
+<em>Triacanthus biaculeatus</em>
+) is said to be used in traditional Chinese medicine.</p>
+
+<p><strong>Status and threats:</strong>
+Our Tripodfishes are not listed among the threatened animals of Singapore. However, l
+ike other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution.</p>
+
+<hr />
+
+<p><strong>Tripodfishes on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470%40N00&amp;sort=date-taken-desc&amp;view_all=1&amp;text=Triacanthidae">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Triacanthidae/map?&amp;fLat=1.2616&amp;fLon=103.8661&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/triacanthidae/triacanthidae/201019cnyrk9.jpg" alt="" />
+        <div class="caption">
+        Coney Island, Oct 20 Shared by Richard Kuah on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/triacanthidae/triacanthidae/090514prplks3m3.jpg" alt="" />
+        <div class="caption">
+        Pasir Ris, May 09 Shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/triacanthidae/triacanthidae/260103prpezxh7.jpg" alt="" />
+        <div class="caption">
+        Pasir Ris Park (E), Jan 26 Photo shared by Zen Xuan He on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/triacanthidae/triacanthidae/240821skdch3.jpg" alt="" />
+        <div class="caption">
+        Pulau Sekudu, Aug 24 Photo shared by Chay Hoon on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/triacanthidae/triacanthidae/240821skdn1.jpg" alt="" />
+        <div class="caption">
+        Pulau Sekudu, Aug 24 Photo shared by Muhd Nasry on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/triacanthidae/triacanthidae/160705cjlks4.jpg" alt="" />
+        <div class="caption">
+        Chek Jawa, Jul 16 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/triacanthidae/triacanthidae/220716bbccn2.jpg" alt="" />
+        <div class="caption">
+        Beting Bronok, Jul 22 Shared by Che Cheng Neo on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/triacanthidae/triacanthidae/251205cjrg1.jpg" alt="" />
+        <div class="caption">
+        Chek Jawa, Dec 25 Photo shared by Rachael Goh on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/triacanthidae/triacanthidae/220616chgelks18.jpg" alt="" />
+        <div class="caption">
+        Changi Lost Coast, Jun 22 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/triacanthidae/triacanthidae/090918tmjk8m3.jpg" alt="" />
+        <div class="caption">
+        Tanah Merah, Sep 09 Photo shared by James Koh on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/triacanthidae/triacanthidae/110508cyrmng4m3.jpg" alt="" />
+        <div class="caption">
+        Cyrene Reef, May 11 Photo shared by Marcus Ng on flickr .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Family Triacanthidae recorded for Singapore</strong>
+from Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+.</p>
+
+<p>**from
+<a href="http://www.marinespecies.org/">WORMS</a></p>
+
+<p><strong>Family Triacanthidae</strong></p>
+
+<p>*Pseudotriacanthus strigilifer</p>
+
+<p>Triacanthus brevirostris=**Triacanthus biaculeatus</p>
+
+<p>Triacanthus nieuhofii</p>
+
+<p>Triacanthus oxycephalus=**Tripodichthys oxycephalus</p>
+
+<p>Tripodichthys blochii*
+(Longtail tripodfish)</p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/391.md">Longtail Tripodfish (
+<em>Tripodichthys blochii</em>
+)</a>
+Lim, Kelvin K. P. &amp; Jeffrey K. Y. Low, 1998.
+<em><a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/">A Guide to the Common Marine Fishes of Singapore</a></em>
+. Singapore Science Centre. 163 pp.</li>
+  <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/238.md">Tripodfish (
+<em>Triacanthus</em>
+sp.)</a>
+Tan, Leo W. H. &amp; Ng, Peter K. L., 1988.
+<em><a href="http://mangrove.nus.edu.sg/pub/seashore/">A Guide to Seashore Life</a></em>
+. The Singapore Science Centre, Singapore. 160 pp.</li>
+  <li>
+    <dl>
+      <dt><a href="http://www.fishbase.org/Summary/FamilySummary.cfm?ID=444">Family Triacanthidae</a></dt>
+      <dt>and</dt>
+      <dt>[<em>Pseudotriacanthus strigilifer</em></dt>
+      <dt>(Long-spined tripodfish)](http://www.fishbase.org/summary/8191)</dt>
+      <dt>and</dt>
+      <dt>[<em>Triacanthus biaculeatus</em></dt>
+      <dt>(Short-nosed tripodfish)](http://www.fishbase.org/summary/4562)</dt>
+      <dt>and</dt>
+      <dt>[<em>Triacanthus nieuhofii</em></dt>
+      <dt>(Silver tripodfish)](http://www.fishbase.org/summary/10570)</dt>
+      <dt>and</dt>
+      <dt>[<em>Tripodichthys oxycephalus</em></dt>
+      <dt>(Short-tail tripodfish)](http://www.fishbase.org/summary/15229)</dt>
+      <dt>and</dt>
+      <dt>[<em>Tripodichthys blochii</em></dt>
+      <dt>(Long-tail tripodfish)](http://www.fishbase.org/summary/8413)</dt>
+      <dt>from</dt>
+      <dt><a href="http://www.fishbase.org/">FishBase</a></dt>
+      <dd>Technical fact sheet on the family.</dd>
+    </dl>
+  </li>
+  <li><a href="http://www.fao.org/docrep/009/x2400e/x2400e00.md">Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)</a>
+FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+. National Council on the Environment. 163pp.</li>
+  <li>Allen, Gerry, 2000.
+<em>Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers</em>
+. Periplus Editions. 292 pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Phyllid nudibranchs | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="phyllid, phyllidiidae, nudibranch, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/070531sisd1471m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Mollusca">Mollusca</a>
+                    > 
+                    <a href="/Mollusca/Gastropoda">Gastropoda</a>
+                    > 
+                    <a href="/Mollusca/Gastropoda/Nudibranchia">Nudibranchia</a>
+                    >
+                    <a href="/Mollusca/Gastropoda/Nudibranchia/Doridina">Doridina</a>
+                    >
+                    <a href="/Mollusca/Gastropoda/Nudibranchia/Doridina/Phyllidiidae">Phyllidiidae</a>
+                </p>
+                <h1>Phyllid nudibranchs</h1>
+                
+                    <p class="scientific-name">Family Phyllidiidae</p>
+                
+
+                <p><em>Updated Apr 2021</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>These nudibranchs with tough skin are often encountered, especially on our Southern shores, among coral rubble and on reefs. It is believed that these nudibranchs are commonly seen because they can roam around in the open with impunity due to the nasty stuff they secrete to deter predators. Their colourful patterns probably also warn of this feature.</p>
+
+<p><strong>What are phyllid nudibranchs?</strong>
+Phyllid nudibranchs are thick slugs with a body covered in warts or bumps. They don’t have flower-like gill structures on their backs. The gills are hidden under the mantle skirt and are made up of a row as many as 100 leaflets, along the length of the body on either side of the foot. Their short rhinophores are often overlooked among all the bumps on their bodies. The different genus are identified by the position of the anus (in the middle of its back for
+<em>Phyllidia</em>
+species), and shape of the oral tentacles.</p>
+
+<p><strong>What do they eat?</strong>
+Phyllids eat
+<a href="../../../porifera/porifera.md">sponges</a>
+. They lack a radula and don’t rasp the sponge. Instead, digestive juices are secreted into the sponge and the partially digested sponge is sucked up. Sort of like a sponge slurpee. Some species may insert a large feeding organ called the pharyngeal bulb deep into the sponge to eat it.</p>
+
+<p>Members of the Family Phyllidiidae absorb the toxic chemicals in their sponge food and incorporate these chemicals in their own defence. They produce a milky white substance. This is lethal to other nudibranchs especially if they are kept in the same tank.</p>
+
+<dl>
+  <dt><strong>Human uses</strong></dt>
+  <dd>Although colourful, phyllids are not popular in the aquarium trade as they produce a powerful toxin that can kill off the entire tank. The toxins produced are so strong that the water from the aquarium may have an acrid smell. The properties of these toxins are currently being studied for possible applications such as in human medicine and anti-fouling uses.</dd>
+</dl>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/070531sisd1471m3.jpg" alt="" />
+        <div class="caption">
+        Black phyllid : milky substance secreted when disturbed. Sisters Island, May 07
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/120509tsmkd2701m3a.jpg" alt="" />
+        <div class="caption">
+        Short rhinophores of the Varicose phyllid look like the orange blobs on its body. St. John's Island, May 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/pustulosa/060323ulrd0430m3.jpg" alt="" />
+        <div class="caption">
+        Gills on the underside along the length of the body St. John's Island, Jan 06
+        </div>
+    </div>
+    
+
+</div>
+
+<hr />
+
+<p><strong>Some Phyllid nudibranchs on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/050210kusd0112m3.jpg" alt="" />
+        <div class="caption">
+        Black phyllid
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/pustulosa/050528kusg7068m3.jpg" alt="" />
+        <div class="caption">
+        Pimply phyllid
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ocellata/060813jngd6242m3.jpg" alt="" />
+        <div class="caption">
+        Eyed phyllid
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/120509tsmkd2701m3.jpg" alt="" />
+        <div class="caption">
+        Varicose phyllid
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>More Phyllid nudibranchs on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/others/2104hntjll1.jpg" alt="" />
+        <div class="caption">
+        Phyllidia elegans Pulau Hantu, Apr 21 Photo shared by Jianlin Liu on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/others/2104hntjll1a.jpg" alt="" />
+        <div class="caption">
+        Phyllidia elegans (underside)
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+
+</div>
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://www.seaslugforum.net/">The
+Sea Slug Forum</a> by Dr Bill Rudman</li>
+  <li><a href="http://rmbr.nus.edu.sg/nudibranch/main.html">A
+Guide to Singapore Nudibranchs</a> by Uma Sachidhanandam: though
+without any description of the nudibranchs, there are lots of
+photos and locations where the species are found and a list of
+Singapore nudibranchs.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>J. van Alphen,
+N. J. de Voogd and B. W. Hoeksema <em><a href="http://www.springerlink.com/content/2354121t23720028/">Differential
+feeding strategies in phyllidiid nudibranchs on coral reefs at
+Halmahera, northern Moluccas</a></em> Coral Reefs Volume 30, Number
+1 (2011), 59.</li>
+  <li>Debelius, Helmut, 2001. Nudibranchs and Sea Snails: Indo-Pacific Field Guide IKAN-Unterwasserachiv, Frankfurt. 321 pp.</li>
+  <li>Wells, Fred E. and Clayton W. Bryce. 2000. Slugs of Western Australia: A guide to the species from the Indian to West Pacific Oceans. Western Australian Museum. 184 pp.</li>
+  <li>Coleman, Neville. 2001. 1001 Nudibranchs: Catalogue of Indo-Pacific Sea Slugs . Neville Coleman’s Underwater Geographic Pty Ltd, Australia.144pp.</li>
+  <li>Coleman, Neville, 1989. Nudibranchs of the South Pacific Vol 1 . 64 pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

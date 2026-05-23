@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Encrusting coralline red seaweed | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="encrusting, coralline, red, seaweed, weed, algae, mesophyllum, hydrolithon, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/050610sntg7603m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Rhodophyta">Rhodophyta</a>
+                    > 
+                    <a href="/Rhodophyta/Florideophyceae">Florideophyceae</a>
+                    > 
+                    <a href="/Rhodophyta/Florideophyceae/Corallinales">Corallinales</a>
+                    >
+                    <a href="/Rhodophyta/Florideophyceae/Corallinales/Corallinineae">Corallinineae</a>
+                    >
+                    <a href="/Rhodophyta/Florideophyceae/Corallinales/Corallinineae/Corallinaceae">Corallinaceae</a>
+                </p>
+                <h1>Encrusting coralline red seaweed</h1>
+                
+                    <p class="scientific-name">Family Corallinaceae</p>
+                
+
+                <p><em>Updated Sep 2019</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>Thin pink layers of these algae are commonly seen encrusting stones, coral rubble and other hard surfaces, especially on our Southern shores.</p>
+
+<h2 id="features">Features</h2>
+
+<p>This algae covers hard surfaces in a thin, hard slow growing layer. It grows on things like stones, coral rubble, litter such as discarded bottles and washed up pieces of wood. It even coats the shells of living snails and shells occupied by hermit crabs. As well as seagrass leaves. The algae incorporates calcium carbonate and is hard and stony. It is thus also called encrusting calcareous algae. Colours from rose pink, salmon to pale pink and purplish. May be white when bleached.</p>
+
+<p>Encrusting pinkish seaweeds may belong to several groups including:
+<em>Mesophyllum</em>
+from Family Hapalidiaceae and
+<em>Hydrolithon</em>
+species from Family Corallinaceae.
+<strong>Role in the habitat:</strong>
+By growing over bits and pieces, this seaweed is literally the cement of the reef, stabilising the reef structure. Thus providing shelter for reef dwellers. This role is especially important in places where the currents or wave action are too strong for hard corals to grow well. In such places, coralline algae fortify and reinforce the reefs, reducing erosion.</p>
+
+<p>Although they don’t look very tasty, some young animals such as lobsters may eat a great deal of coralline algae.</p>
+
+<p>Coralline algae are also thought to induce settlement and recruitment of invertebrates. Studies suggest young abalones, some corals and soft corals prefer to settle in areas where coralline algae can be found.</p>
+
+<p>There are also suggestions that the presence of coralline algae suppresses the growth of other kinds of seaweeds which may otherwise smother a reef.</p>
+
+<p>Elsewhere, some species can grow unattached (called rhodoliths) forming extensive localised beds, made up of thousands of individuals.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/050610sntg7603m3.jpg" alt="" />
+        <div class="caption">
+        Encrusting dead coral. Sentosa, Jun 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/100103sisd7480m3.jpg" alt="" />
+        <div class="caption">
+        Encrusting a rock. Sisters Island, Jan 10
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/mollusca/bivalvia/malleidae/malleus/090207smkd6360m3.jpg" alt="" />
+        <div class="caption">
+        Encrusting a Hammer oyster . Pulau Semakau. Feb 09
+        </div>
+    </div>
+    
+
+</div>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/seagrass/thalassia/041019labd7736m3b.jpg" alt="" />
+        <div class="caption">
+        The whitish stuff that grows on seagrass leaves is probably also coralline algae Labrador, Oct 04
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/081030sntd1456m3.jpg" alt="" />
+        <div class="caption">
+        Encrusting seagrasses. Sentosa, Oct 08
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/081030sntd1456m3a.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+
+</div>
+
+<p>**Seaweed species are difficult to positively identify without microscopic examination.</p>
+
+<p>On this website, they are grouped by external features for convenience of display.*</p>
+
+<hr />
+
+<p><strong>Encrusting coralline red seaweed on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470%40N00&amp;sort=date-posted-desc&amp;view_all=1&amp;text=Encrusting%20coralline%20red%20seaweed">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Encrusting%2520coralline%2520red%2520seaweed/map?&amp;fLat=1.2629&amp;fLon=103.8647&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/110220lazd6287m3.jpg" alt="" />
+        <div class="caption">
+        Lazarus Island, Feb 11
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/100103sisd7479m3.jpg" alt="" />
+        <div class="caption">
+        Sisters Islands, Jan 10
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/100103sisd7480m3.jpg" alt="" />
+        <div class="caption">
+        Sisters Islands, Jan 10
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/100810sngd9944m3a.jpg" alt="" />
+        <div class="caption">
+        Pulau Senang, Aug 10
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/100617tbd6269m3c.jpg" alt="" />
+        <div class="caption">
+        Terumbu Bemban, Jun 10
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/091204pawd5392m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Pawai, Dec 09
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong><em>Hydrolithon</em>
+species recorded for Singapore</strong>
+**
+Pham, M. N., H. T. W. Tan, S. Mitrovic &amp; H. H. T. Yeo, 2011.
+<em>A Checklist of the Algae of Singapore</em>
+.</p>
+
+<p><em>Hydrolithon farinosum</em></p>
+
+<p><strong><em>Mesophyllum</em>
+species recorded for Singapore</strong>
+**
+Pham, M. N., H. T. W. Tan, S. Mitrovic &amp; H. H. T. Yeo, 2011.
+<em>A Checklist of the Algae of Singapore</em>
+.</p>
+
+<p><em>Mesophyllum erubescens</em></p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/106.md">Red Encrusting Algae</a>
+Tan, Leo W. H. &amp; Ng, Peter K. L., 1988.
+<em><a href="http://mangrove.nus.edu.sg/pub/seashore/">A Guide to Seashore Life</a></em>
+. The Singapore Science Centre, Singapore. 160 pp.</li>
+  <li>
+    <dl>
+      <dt><a href="http://www.algaebase.org/search/genus/detail/?genus_id=98"><em>Mesophyllum</em></a></dt>
+      <dt>and</dt>
+      <dt><em><a href="http://www.algaebase.org/search/genus/detail/?genus_id=32966">Hydrolithon</a></em></dt>
+      <dt>on</dt>
+      <dt><a href="http://www.algaebase.org/">AlgaeBase</a></dt>
+      <dd>LOTS of very technical information.</dd>
+    </dl>
+  </li>
+  <li><a href="http://www.botany.uwc.ac.za/clines/">Introduction to Coralline Algae</a>
+on the University of Western Cape website: A somewhat technical introduction to their shapes, importance to the habitat, reproduction, taxonomy with links to other sites on coralline algae.</li>
+  <li><a href="http://coastal.er.usgs.gov/pulley-ridge/coralline-algae.html">Coralline Algae of Pulley Ridge</a>
+on the US Geological Survey website: photos of some coralline algae</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
+<em>A photographic guide to the marine algae of Singapore</em>
+, 2015. Tropical Marine Science Institute, 201 pp.</li>
+  <li>Pham, M. N., H. T. W. Tan, S. Mitrovic &amp; H. H. T. Yeo, 2011.
+<em>A Checklist of the Algae of Singapore</em>
+, 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore, Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].</li>
+  <li>Harvey, A.; Woelkerling, W.; Farr, T.; Neill, K.; Nelson, W. (2005)
+<a href="http://www.niwa.co.nz/sites/default/files/import/attachments/CentralNZ_IDCor_NIS57.pdf"><em>Coralline algae of central New Zealand: an identification guide to common crustose species</em></a>
+(pdf). NIWA Information Series No. 57 on the
+<a href="http://www.niwa.co.nz/our-science/aquatic-biodiversity-and-biosecurity/tools/marine-guides">New Zealand National Institute of Water and Atmospheric Research website</a></li>
+  <li>Chou, L. M., 1998.
+<em>A Guide to the Coral Reef Life of Singapore</em>
+. Singapore Science Centre. 128 pages.</li>
+  <li>Huisman, John M. 2000.
+<em>Marine Plants of Australia</em>
+University of Western Australia Press. 300pp.</li>
+  <li>Calumpong, H. P. &amp; Menez, E. G., 1997.
+<em>Field Guide to the Common Mangroves, Seagrasses and Algae of the Philippines</em>
+. Bookmark, Inc., the Philippines. 197 pp.</li>
+  <li>Trono, Gavino. C. Jr., 1997.
+<em>Field Guide and Atlas of the Seaweed Resources of the Philippines.</em>
+. Bookmark, Inc., the Philippines. 306 pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

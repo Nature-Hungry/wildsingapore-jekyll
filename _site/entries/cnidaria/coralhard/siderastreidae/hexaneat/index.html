@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Neat hexagonal  coral | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="coral, hard, scleractinia, pseudosiderastrea, tayamai, siderastreidae, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/hexaneat/050821bbg2002m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Cnidaria">Cnidaria</a>
+                    > 
+                    <a href="/Cnidaria/Anthozoa">Anthozoa</a>
+                    > 
+                    <a href="/Cnidaria/Anthozoa/Scleractinia">Scleractinia</a>
+                    >
+                    <a href="/Cnidaria/Anthozoa/Scleractinia/"></a>
+                    >
+                    <a href="/Cnidaria/Anthozoa/Scleractinia//Siderastreidae">Siderastreidae</a>
+                </p>
+                <h1>Neat hexagonal  coral</h1>
+                
+                    <p class="scientific-name">Pseudosiderastrea tayamai*</p>
+                
+
+                <p><em>Updated Nov 2019</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This hard coral with relatively neat hexagonal corallites is among the few hard corals more regularly seen on our northern shores. They are also seen on our southern shores. According to Veron, they are found in very shallow water attached to bare rock and are considered uncommon and cryptic. The genus has only one species.</p>
+
+<h2 id="features">Features</h2>
+
+<p>Colonies seen 5-10cm. The colony is generally encrusting or a smooth dome-shape, but somewhat irregular and not perfectly spherical. The corallites (1-1.5cm) have shared walls and form irregular, wide, shallow cells with sharp angular edges of various sizes and shapes. The corallites are conical with a small ‘base’ and regular ‘grooves’ radiating from the centre. The result is a rather neat pattern of polygons. The walls are distinctively white. The polyp has short tentacles. Colours seen include dark green and brown.</p>
+
+<p><strong>Sometimes confused with</strong>
+<a href="../faviidae/hexa/hexahoneycomb.md">Honeycomb favid corals</a>
+(Family Merulinidae) which have more tubular corallites that have a broader ‘base’.
+<em>Leptastrea purpurea</em>
+and
+<em>Leptastrea transversa</em>
+may also appear similar.</p>
+
+<p><strong>Status and threats:</strong>
+This coral is listed as globally Near Threatened
+<a href="http://www.iucnredlist.org/apps/redlist/details/133453/0">by the IUCN</a>
+. Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors, and over-collection also have an impact on local populations.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/hexaneat/050821bbg2002m3.jpg" alt="" />
+        <div class="caption">
+        Beting Bronok, Aug 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/hexaneat/120704chgd6845m3.jpg" alt="" />
+        <div class="caption">
+        Changi, Jul 12
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/hexaneat/250712tplmn5.jpg" alt="" />
+        <div class="caption">
+        Terumbu Pempang Laut, Jul 25 Photo shared by Marcus Ng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<p>**Species are difficult to positively identify without close examination.</p>
+
+<p>On this website, they are grouped by external features for convenience of display.*</p>
+
+<hr />
+
+<p><strong>Neat hexagonal corals on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470@N00&amp;sort=date-posted-desc&amp;view_all=1&amp;text=Pseudosiderastrea tayamai">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Pseudosiderastrea%2520tayamai/map?&amp;fLat=1.2622&amp;fLon=103.8654&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/hexaneat/170723ubnay6.jpg" alt="" />
+        <div class="caption">
+        Pulau Ubin, Jul 17 Photo shared by Abel Yeo on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/hexaneat/210529ecpblks17.jpg" alt="" />
+        <div class="caption">
+        East Coast Park (B), May 21 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/hexaneat/220419sjimn1.jpg" alt="" />
+        <div class="caption">
+        St John's Island, Apr 22 Photo shared by Marcus Ng on facebook
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Family Siderastreidae recorded for Singapore</strong>
+from Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
+<em>An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new records</em></p>
+
+<p>in red are those listed as threatened
+on the
+<a href="www.iucnredlist.org/">IUCN global list</a>
+.
+**</p>
+
+<p><strong>Family Siderastreidae</strong></p>
+
+<p><em><a href="hexaneat.md">Pseudosiderastrea tayami</a></em>
+(Neat hexa corals) (Near Threatened)</p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://www.coralsoftheworld.org/page/home/">Corals of the World</a>
+with species factsheets.</li>
+  <li><a href="https://www.iucnredlist.org/">IUCN Red List of Threatened Species</a>
+with species factsheets.</li>
+  <li><em><a href="http://www.sealifebase.org/Summary/speciesSummary.php?ID=45498">Pseudosiderastrea tayamai</a></em>
+on SeaLife Base: Technical fact sheets.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
+<em>An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new records</em>
+(pdf). Raffles Bulletin of Zoology Supplement No. 22: 69-80.</li>
+  <li>Veron, Jen. 2000.
+<em>Corals of the World</em>
+Australian Institute of Marine Science, Australia. 3 volumes.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

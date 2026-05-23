@@ -1,0 +1,580 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Jellyfish | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="jellyfish, jelly, fish, jellies,scyphozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/ribbon/110323tsmkd7813m6la.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Cnidaria">Cnidaria</a>
+                    > 
+                    <a href="/Cnidaria/Scyphozoa">Scyphozoa</a>
+                    > 
+                    <a href="/Cnidaria/Scyphozoa/Rhizostomeae">Rhizostomeae</a>
+                    >
+                    <a href="/Cnidaria/Scyphozoa/Rhizostomeae/Kolpophorae">Kolpophorae</a>
+                    >
+                    <a href="/Cnidaria/Scyphozoa/Rhizostomeae/Kolpophorae/Cassiopeidae">Cassiopeidae</a>
+                </p>
+                <h1>Jellyfish</h1>
+                
+                    <p class="scientific-name">Family Cassiopeidae</p>
+                
+
+                <p><em>Updated Aug 2025</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about them ... They are not fish! Many can sting. Don't touch jellyfish, even those stranded on the beach. Sea turtles eat jellyfishes and often mistake plastic bags for jellyfishes. Turtles can die from accidentally eating the bags.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        They are not fish! Many can sting. Don't touch jellyfish, even those stranded on the beach. Sea turtles eat jellyfishes and often mistake plastic bags for jellyfishes. Turtles can die from accidentally eating the bags.
+        </div>
+    </div>
+    
+
+</div>
+
+<h2 id="where-seen">Where seen?</h2>
+<p>Almost everyone knows what a jellyfish looks like! These blobs of jelly are creatures of the open waters and are only sometimes encountered on the shores. In the water, these elegant creatures are a delight to watch. Sometimes, they are trapped in a pool. More unluckily, they are sometimes stranded on the shore and look like sorry heaps of jelly. But no matter where you see them, don’t touch them!</p>
+
+<p><strong>What are jellyfish?</strong>
+Despite their name, they are not fish and are more closely related to sea anemones and corals. They are
+<a href="../../cnidaria.md">Cnidarians</a>
+(Phylum Cnidaria).</p>
+
+<p>Jellyfish may belong to various groups within the Phylum Cnidaria. Many cnidarians undergo a life cycle in which they take a jellyfish-like form (the medusa) in one stage, and a stationary sea anemone-like form (the polyp) in another stage.</p>
+
+<p>Other cnidarians only take the form of a jellyfish in their life cycle and don’t take on the stationary form. These include members of the Class Scyphozoa; Class Cubozoa (which includes the highly venomous box jellies);
+<a href="../hydrozoa/hydrozoa.md">Class Hydrozoa</a>
+(which includes the highly venomous Portuguese-Man-of-War in the Order Siphonophora which is a colony and not a solitary animal like other jellyfish). In Class Scyphozoa and Class Cubozoa, the jellyfish form is the dominant and most conspicuous form in the life cycle.</p>
+
+<h2 id="features">Features</h2>
+
+<p>Jellyfish are more notable for the features that they lack: no head, no organs, no bones. The body called the bell is jelly-like, transparent or semi-transparent. The body has eight-fold symmetry. Like other cnidarians, the jellyfish does not have an anus and wastes are eliminated through the same opening where food is taken in.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/ribbon/110323tsmkd7813m6la.jpg" alt="" />
+        <div class="caption">
+        The Ribbon jellyfish has thin tentacles and thick ruffled long arms. Terumbu Semakau, Mar 11
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/ribbon/110323tsmkd7815m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Semakau, Mar 11
+        </div>
+    </div>
+    
+
+</div>
+<p>The animal moves by contracting its bell. Some may have long thin tentacles on the edge of the bell, others lack these. The mouth is under the bell in the centre. Often surrounding the mouth are long structures called oral arms (not tentacles). These can be short and stout, branched, or long and ribbon-like.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="https://live.staticflickr.com/3821/32623276364_f8a05dc678_z.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Don’t play with jellyfish!</strong>
+Like other cnidarians, jellyfish can sting and some, very painfully. In the water, a jellyfish is translucent and easily overlooked, until you brush against one of its stinging arms with bare skin.</p>
+
+<p>Stingers are still active even after the jellyfish is dead or dying. So don’t touch jellyfish, or bits of jellyfish, even if these are stranded on the beach.</p>
+
+<p><strong>How to stay safe:</strong>
+Do not touch jellyfishes. Cover all skin if you have to work in water: long sleeves, long pants, covered shoes, gloves.</p>
+
+<p><strong>What do they eat?</strong>
+Some jellyfish sting fishes and crustaceans. Others are suspension feeders, trapping plankton in mucus on the underside of their bell-shaped bodies. The
+<a href="upsidedown.md">Upsidedown jellyfish</a>
+has a farm in its arms - it harbours microscopic, single-celled algae (called zooxanthellae) inside its body. The algae undergo photosynthesis to produce food from sunlight. The food produced is shared with the jellyfish, which in return provides the algae with shelter and minerals.</p>
+
+<p><strong>Jellyfish babies:</strong>
+Most jellyfish belonging to Class Scyphozoa and Class Cubozoa have of separate genders and stay the same gender. The reproductive organs are in the stomach and eggs and sperm are released through the mouth. Some species brood fertilised eggs. In the first larval stage, the offspring looks like a sausage and goes through a brief free-swimming stage. It eventually attaches to a surface. It then changes form to become a polyp that looks like a tiny sea anemone. Here, it feeds and grows. In the next stage, the polyp changes form again, budding into several tiny bell-shaped bodies that are stacked on top of each other like stacked cups. Each tiny cup breaks away to form a tiny jellyfish. In some other species, the polyp may bud off to form more polyps, and each polyp transforms into only one jellyfish.</p>
+
+<p>In some small jellyfish, these larvae eventually settle down and develop into polyps that feed and grow. These polyps may reproduce asexually by budding off more polyps. Eventually, the polyp may reproduce asexually by budding off medusa forms. These medusa swim off and develop into adults that may eventually reproduce sexually. The original polyp may remain alive to produce medusa forms again later on.</p>
+
+<p><strong>Role in the habitat:</strong>
+Among the creatures that eat jellyfish are sea turtles. Because plastic bags and balloons look like jellyfish, sea turtles may eat them and eventually become ill and/or die. This is why it is important to dispose of plastic bags and balloons properly. Our litter can kill!</p>
+
+<p><strong>Jellyfish friends:</strong>
+Sometimes, small fishes can be seen near
+<a href="huge.md">huge jellyfishes</a>
+and even
+<a href="ribbon.md">Ribbon jellyfishes</a>
+including near their stinging tentacles.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/huge/160610jngmn5.jpg" alt="" />
+        <div class="caption">
+        Pulau Jong, Jun 16 Photo shared by Marcus Ng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/huge/160610jngmn4.jpg" alt="" />
+        <div class="caption">
+        Small fishes swimming near the jellyfish.
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Human uses:</strong>
+Jellyfish are a delicacy in Chinese cuisine. But so far, there has not been an outcry against harvesting them. Jellyfish themselves can become a threat. Introduced jellyfish (through ballast water) can upset the natural balance by out-competing native animals. Some jellyfish are seasonally abundant and those that sting can be a danger to swimmers when they are plentiful. A sudden increase in jellyfishes can also impair commercial fishing as they clog up nets. Explosions of jellyfish populations are considered to be an indicator of an imbalance in the ecosystem, or pollution.</p>
+
+<p><strong>Status:</strong>
+Except for the
+<a href="mangrove.md">Mangrove jellyfish</a>
+which is listed as Vulnerable, there is inadequate information as at 2024 to make an informed assesment of the conservation status of the recorded jellyfishes in Singapore.</p>
+
+<hr />
+
+<p><strong>Some jellyfishes on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/mangrove/090410ubnd9384m3.jpg" alt="" />
+        <div class="caption">
+        Mangrove jellyfish
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/fatarm/050426cftg5076m3.jpg" alt="" />
+        <div class="caption">
+        Fat-armed jellyfish
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/ribbon/050624tusg8515m3.jpg" alt="" />
+        <div class="caption">
+        Ribbon jellyfish
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/080321smkd0421m3.jpg" alt="" />
+        <div class="caption">
+        Upsidedown jellyfish
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/huge/060516chgd2021m3.jpg" alt="" />
+        <div class="caption">
+        Huge jellyfish
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/hydrozoa/thread/040409tusad0160m3.jpg" alt="" />
+        <div class="caption">
+        Thread-tentacled jellyfish
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Unidentified jellyfishes on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470%40N00&amp;sort=date-posted-desc&amp;view_all=1&amp;text=Unidentified%20jellyfish">Photos</a>
+for free download</li>
+</ul>
+
+<hr />
+
+<p><strong>Class Scyphozoa on Singapore Shores</strong>
+from Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.</p>
+
+<p><a href="huge.md">Huge jellyfishes</a></p>
+
+<p><strong><a href="upsidedown.md">Family Cassiopeidae</a></strong>
+(Upsidedown jellyfish)</p>
+
+<p><em>Cassiopea andromeda</em>
+(Upside-down jellyfish)
+<em>Cassiopea xamachana</em>
+(Upside-down jellyfish)</p>
+
+<p><strong>Family Catostylidae</strong></p>
+
+<p><em><a href="mangrove.md">Acromitus</a></em>
+<a href="mangrove.md">sp.</a>
+(Mangrove jellyfish)</p>
+
+<p><em>Acromitus hardenbergi</em>
+(River jellyfish)</p>
+
+<p><em><a href="catostylus.md">Catostylus</a></em>
+<a href="catostylus.md">sp.</a>
+(Fat-armed jellyfish)</p>
+
+<p><strong>Family Linuchidae</strong></p>
+
+<p><em>Linuche unguiculata</em>
+(Thimble jellyfish)</p>
+
+<p><strong>Family Cyaneidae</strong></p>
+
+<p><em>Cyanea lamarckii</em>
+(Lion’s Mane jellyfish)</p>
+
+<p><strong>Family Pelagiidae</strong></p>
+
+<p><a href="ribbon.md"><em>Chrysaora</em>
+sp.</a>
+(Ribbon jellyfish)
+<em>Chrysaora chinensis</em>
+<em>Chrysaora melanaster</em>
+<em>Pelagia sp.</em>
+(Purple-striped jellyfish)
+<em>Sanderia malayensis</em></p>
+
+<p><strong>Family Ulmaridae</strong></p>
+
+<p><em>Aurelia aurita</em>
+(Moon jellyfish)</p>
+
+<p><em>Ulmaris snelliusi</em></p>
+
+<p><strong>Family
+**Nausithoidae</strong>**</p>
+
+<p><em>Nausithoe punctata</em></p>
+
+<p><strong>Family Cepheidae</strong></p>
+
+<p><em>Cephea octostyla</em>
+(Crown jellyfish)</p>
+
+<p><strong>Family Mastigiidae</strong></p>
+
+<p><em>Mastigias ocellatus</em>
+(Golden jellyfish)
+*Mastigias papua</p>
+
+<p>Mastigias sidereus*
+(Golden jellyfish)
+<em>Phyllorhiza punctata</em>
+(White-spotted jellyfish)</p>
+
+<p><strong>Family Leptobrachidae</strong></p>
+
+<p><em>Thysanostoma</em>
+sp. (Tiger jellyfish)</p>
+
+<hr />
+
+<p><strong>Acknowlegement</strong></p>
+
+<p>With grateful thanks to
+<a href="http://www.ucmerced.edu/faculty/facultybio.asp?facultyid=73">Dr Michael N Dawson</a>
+of the University of California, Merced for identification of the jellyfishes.</p>
+
+<p>th</p>
+
+<p>edition. McGraw-Hill Book Co., Singapore. 578 pp.</p>
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/115.md">Rhizostome jellyfish</a>
+and
+<a href="http://mangrove.nus.edu.sg/pub/seashore/text/249.md">Sea Nettle (
+<em>Chrysaora melanaster</em>
+) Order Semaeostomeae</a>
+Tan, Leo W. H. &amp; Ng, Peter K. L., 1988.
+<em><a href="http://mangrove.nus.edu.sg/pub/seashore/">A Guide to Seashore Life</a></em>
+. The Singapore Science Centre, Singapore. 160 pp.</li>
+  <li><a href="http://thescyphozoan.ucmerced.edu/">The Scyphozoan website</a>
+by Dr Michael N Dawson: lots of info about jellyfishes in Class Scyphozoa.</li>
+  <li><a href="http://wildsingaporenews.blogspot.com/2010/11/jellyfish-do-tourists-need-warnings.html">Jellyfish: Do tourists need warnings?</a>
+Some say they must know risk, but others warn against panic Nirmal Ghosh, Straits Times 26 Nov 10;</li>
+  <li>From the wild shores of singapore blog.</li>
+  <li><a href="http://wildshores.blogspot.com/2008/08/how-to-photograph-jellyfishes-for.html">How to photograph jellyfishes for identification</a></li>
+  <li><a href="http://wildshores.blogspot.com/2008/08/our-jellyfishes-identified.html">Our jellyfishes identified</a></li>
+  <li><a href="http://wildshores.blogspot.com/2008/10/jellyfish-and-nobel-prize.html">Jellyfish and the Nobel Prize</a></li>
+  <li><a href="http://wildshores.blogspot.com/2008/12/jellyfish-stingers-are-as-fast-and.html">Jellyfish stings are as fast and powerful as bullets</a></li>
+  <li><a href="http://wildshores.blogspot.com/2008/12/plague-of-jellyfish.html">A plague of jellyfish</a></li>
+  <li><a href="http://wildshores.blogspot.com/2008/12/truth-about-jellyfish-swarms.html">The truth about jellyfish swarms</a></li>
+  <li><a href="http://wildshores.blogspot.com/2009/01/silent-invasion-of-immortal-jellyfish.html">Silent invasion of ‘immortal’ jellyfish</a></li>
+  <li><a href="http://wildshores.blogspot.com/2009/11/mushroom-coral-munches-on-jellyfish.html">Mushroom coral munches on jellyfish</a></li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.</li>
+  <li>Iffah Iesa, Chuan Chee Hoe &amp; Nicholas Yap Wei Liang. 30 September 2020.
+<em>New record of the jellyfish, Ulmaris snelliusi, in Singapore</em>
+. Singapore Biodiversity Records 2020: 132-133. The National University of Singapore.</li>
+  <li>Iffah Iesa &amp; Nicholas Wei Liang Yap.
+<em>Box jellyfish of the genus Morbakka in Singapore</em>
+. 31 January 2018. Singapore Biodiversity Records 2018: 13-15 ISSN 2345-7597. National University of Singapore.</li>
+  <li>Iffah Iesa.
+<em>Mangrove box jellyfish, Tripedalia cystophora, in Singapore</em>
+. 28 December 2017. Singapore Biodiversity Records 2017: 183 ISSN 2345-7597. National University of Singapore.</li>
+  <li>Uwe Will &amp; Iffah Iesa.
+<em>River jellyfish, Acromitus hardenbergi, at Sungei Buloh</em>
+. 30 November 2017. Singapore Biodiversity Records 2017: 156-157 ISSN 2345-7597. National University of Singapore.</li>
+  <li>Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+. National Council on the Environment. 163pp.</li>
+  <li>Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.
+<em>Invertebrate Zoology</em>
+Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963</li>
+  <li>Pechenik, Jan A., 2005.
+<em>Biology of the Invertebrates</em>
+. 5</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

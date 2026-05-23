@@ -1,0 +1,671 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Hollow-cheeked stonefish | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="stonefish, stone, fish, synanceia, horrida, synanceiidae, scorpaenidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/060312hntd0311m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Chordata">Chordata</a>
+                    > 
+                    <a href="/Chordata/Actinopterygii">Actinopterygii</a>
+                    > 
+                    <a href="/Chordata/Actinopterygii/Perciformes">Perciformes</a>
+                    >
+                    <a href="/Chordata/Actinopterygii/Perciformes/Scorpaenoidei">Scorpaenoidei</a>
+                    >
+                    <a href="/Chordata/Actinopterygii/Perciformes/Scorpaenoidei/Synanceiidae">Synanceiidae</a>
+                </p>
+                <h1>Hollow-cheeked stonefish</h1>
+                
+                    <p class="scientific-name">Synanceia horrida</p>
+                
+
+                <p><em>Updated Oct 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about it ... It is well camouflaged. Look carefully. It has venomous spines. Don't handle it! Watch your step! Its venom is only used for protection from predators and not to catch prey.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        It is well camouflaged. Look carefully. It has venomous spines. Don't handle it! Watch your step! Its venom is only used for protection from predators and not to catch prey.
+        </div>
+    </div>
+    
+
+</div>
+
+<h2 id="where-seen">Where seen?</h2>
+<p>This squat grumpy-looking, ugly fish is, to our discomfort, quite commonly encountered on many of our shores including our recreational beaches. It is particularly abundant near artificial seawalls. It is also present in living reefs and rubbly areas nearby. Resembling a encrusted stone, it is often overlooked. When spotted, however, a stonefish is often the subject of morbid fascination due to its hideous appearance and potent venom.
+Also called the Estuarine stonefish, it is also found in muddy places and estuaries.</p>
+<h2 id="features">Features</h2>
+
+<p>The fish really looks like a stone. It grows to nearly 50cm, those seen about 15-20cm. The eyes are close together with a bony ridge between them. It has a deep depression below each eye. The huge mouth faces upwards and is curved into a perpetual frown. It has a row of tough dorsal spines that can inject potent venom; these are used for self-defence and not for hunting. The skin is leathery with prominent warts on the sides. During the day, it lies motionless on the sandy bottom, in a shallow depression that it creates by scooping sand out and piling sand around its sides with its huge pectoral fins. It usually lies with its tail curled around the body resulting in stone-like profile. Sometimes the fish is covered in patches of algae and encrustations thus completing its disguise. At night, it is said to be more active and often moves on top of reefs.</p>
+
+<p><strong>Sometimes mistaken for</strong>
+scorpionfishes. Here’s more on
+<a href="../cfstonefish.md">how to tell apart fishes that look like stones</a>
+.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/060312hntd0311m3.jpg" alt="" />
+        <div class="caption">
+        Large pectoral fins. Tail curled. Spines up. Pulau Hantu, Mar 06
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/060312hntd0315m3.jpg" alt="" />
+        <div class="caption">
+        Tough spines can penetrate a thick soled shoe! Pulau Hantu, Mar 06
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/060811rlhd5897m3b.jpg" alt="" />
+        <div class="caption">
+        Deep depressions beneath the eye. Mouth in perpetual frown. Raffles Lighthouse, Aug 06
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Deadly stone!</strong>
+The stonefish is one of the most dangerous fishes on our shores. It has many tough dorsal fin spines that can penetrate thick soled shoes. These act like hypodermic needles, injecting a venom that can be fatal to humans. Stonefishes produce neurotoxin that is considered the most deadly of the fish venoms. An emergency first aid is to apply heat to break up the toxins. But the victim should be brought to hospital as soon as possible. There are few documented cases of fatalities. The fishes use their spines in self-defence and not for hunting prey.</p>
+
+<p><strong>How painful is the sting of a stonefish?</strong>
+Here’s a description:</p>
+
+<p>“I got spiked on the finger by a stonefish in Australia. Imagine having each knuckle, then the wrist, elbow and shoulder being hit in turn with a sledgehammer over the course of about an hour. Then about an hour later imagine taking a real kicking to both kidneys for about 45 minutes so that you couldn’t stand or straighten up. I was late 20s, pretty fit physically and this was the tiniest of nicks. Got sensation back in my finger after a few days but had recurrent kidney pains periodically for several years afterwards.” Other stories describe sting victims wanting to have their stung limb amputated from their body.
+<a href="http://i.abcnews.com/Health/PainManagement/story?id=4342241&amp;page=1"><em>Mother Nature’s Kings of Pain</em></a>
+<em>Stings and Bites of Some Animals Are Almost Beyond Endurance, Victims Say By Lauren Cahoon ABC News 26 Feb 08</em>
+<strong>How to stay safe:</strong>
+Wear covered shoes. Watch your step and walk slowly. If you feel a prick through your shoe, pull back and don’t step down with your full body weight. Do not step into murky water.</p>
+
+<p><strong>Can you spot the stonefish in the photo?</strong></p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/110816tmftL1070493m4.jpg" alt="" />
+        <div class="caption">
+        Tanah Merah, Aug 11
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/120619tmd5590m4.jpg" alt="" />
+        <div class="caption">
+        Tanah Merah, Jun 12
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/120424tmnbd0546m4.jpg" alt="" />
+        <div class="caption">
+        Tanah Merah, Apr 12
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/110505tmnbd0734m3.jpg" alt="" />
+        <div class="caption">
+        Tanah Merah, May 11
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/110730tmftd7714m4.jpg" alt="" />
+        <div class="caption">
+        Tanah Merah, Jul 11
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/120806tmfts02147m4.jpg" alt="" />
+        <div class="caption">
+        Tanah Merah, Aug 12
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/101204tmfts01505m4.jpg" alt="" />
+        <div class="caption">
+        Half buried. Tanah Merah, Jan 10
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/101221tmfts02127m4.jpg" alt="" />
+        <div class="caption">
+        Half buried. Tanah Merah, Dec 10
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/190716tbm3a.jpg" alt="" />
+        <div class="caption">
+        Nearly stepped on a stonefish! Terumbu Hantu, Jul 19
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>What do they eat?</strong>
+Stonefishes are carnivores but don’t actively hunt their prey. Instead, they lie motionless, relying on their camouflage to remain undetected. When a suitable snack comes close enough, they suck it into their huge mouths, or grab it with a sudden lunge of incredible speed. They generally eat fishes and crustaceans.</p>
+
+<p><strong>What will eat a stonefish?</strong>
+Incredible as it may sound, some animals do eat them. According to the
+<a href="http://www.amonline.net.au/fishes/students/focus/sverruc.md">Australian Museum</a>
+, sharks and rays and a sea snake (
+<em>Astrotia stokesii</em>
+) eats them! And of course, some people eat them as a delicacy.</p>
+
+<p><strong>Human uses:</strong>
+The stonefish is harvested for the live aquarium trade, as well as an exotic delicacy.</p>
+
+<hr />
+
+<p><strong>Hollow-cheeked stonefishes on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470%40N00&amp;sort=date-taken-desc&amp;view_all=1&amp;text=Synanceia%20horrida">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Synanceia%20horrida/map?&amp;fLat=1.2612&amp;fLon=103.8661&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/161217chglc.jpg" alt="" />
+        <div class="caption">
+        Changi, Dec 16 Photo shared by Lena Chow on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/140614cjlks2.JPG" alt="" />
+        <div class="caption">
+        Chek Jawa, Jun 14 Photo shared by Loh Kok Sheng on flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/150705skdrl2m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Sekudu, Jul 15 Photo shared by Russel Low on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/100709tmmn1m3.jpg" alt="" />
+        <div class="caption">
+        Tanah Merah, Jul 10 Photo shared by Marcus Ng on his flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/091218tmlks4m3.JPG" alt="" />
+        <div class="caption">
+        Tanah Merah, Dec 09 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/091009tmtch1m3.jpg" alt="" />
+        <div class="caption">
+        Tanah Merah, Oct 09 Photo shared by Toh Chay Hoon on her blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/190830epcnky1.jpg" alt="" />
+        <div class="caption">
+        East Coast Park, Sep 19 Photo shared by Kelvin Yong on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/190221nsrccl1.jpg" alt="" />
+        <div class="caption">
+        East Coast Park, Feb 19 Photo shared by Camille Lee on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/221226ecpgky3.jpg" alt="" />
+        <div class="caption">
+        East Coast (G), Dec 22 Photo shared by Kelvin Yong on facebook
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/160509srpmn5.jpg" alt="" />
+        <div class="caption">
+        Sentosa Serapong, May 16 Photo shared by Marcus Ng on flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/110903sntmn.jpg" alt="" />
+        <div class="caption">
+        Sentosa, Sep 11 Photo shared by Marcus Ng on flickr .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/070929kuskms.jpg" alt="" />
+        <div class="caption">
+        Kusu Island, Sep 07 Photo shared by Khoo Min Sheng on flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/100515sjilks8m3.jpg" alt="" />
+        <div class="caption">
+        St. John's Island, May 10 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/090509sislks6m3.jpg" alt="" />
+        <div class="caption">
+        A tiny one! Sisters Island, May 09 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/120505sisjk1m3.jpg" alt="" />
+        <div class="caption">
+        Sisters Island, May 12 Photos shared by James Koh on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/091117smkjk2m6l.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau, Nov 09 Photo shared by James Koh on flickr .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/110830cyrjk3m3.jpg" alt="" />
+        <div class="caption">
+        Cyrene Reef, Aug 11 Photo shared by James Koh on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/171104cyrlks3.jpg" alt="" />
+        <div class="caption">
+        Cyrene Reef, Nov 17 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/170812cymn1.jpg" alt="" />
+        <div class="caption">
+        Cyrene Reef, Aug 17 Photo shared by Marcus Ng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/200626tptky2.jpg" alt="" />
+        <div class="caption">
+        Terumbu Pempang Tengah, Jun 20 Photo shared by Kelvin Yong on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/220102biotch4.jpg" alt="" />
+        <div class="caption">
+        Pulau Biola, Jan 22 Photo shared by Toh Chay Hoon on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><a href="https://vimeo.com/9424816">Stonefish @ Tanah Merah 13Feb2010</a>
+from
+<a href="https://vimeo.com/sgbeachbum">SgBeachBum</a>
+on
+<a href="https://vimeo.com">Vimeo</a>
+.</p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/256.md">Hollow-cheek Stonefish (
+<em>Synanceia horrida</em>
+)</a>
+Lim, Kelvin K. P. &amp; Jeffrey K. Y. Low, 1998.
+<em><a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/">A Guide to the Common Marine Fishes of Singapore</a></em>
+. Singapore Science Centre. 163 pp.</li>
+  <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/231.md">Stonefish (
+<em>Synanceia horrida</em>
+)</a>
+Tan, Leo W. H. &amp; Ng, Peter K. L., 1988.
+<em><a href="http://mangrove.nus.edu.sg/pub/seashore/">A Guide to Seashore Life</a></em>
+. The Singapore Science Centre, Singapore. 160 pp.</li>
+  <li><a href="https://singapore.biodiversity.online/taxo4254/mainSpace/synanceia%20horrida.html"><em>Synanceia horrida</em></a>
+(Scorpaeniformes: Synanceiidae) Estuarine Stonefish by Sze Yue, 2015, on taxo4254.</li>
+  <li>
+    <dl>
+      <dt>[<em>Synanceia horrida (</em></dt>
+      <dt>Estuarine stonefish)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=6389)</dt>
+      <dt>from</dt>
+      <dt><a href="http://www.fishbase.org/">FishBase</a></dt>
+      <dd>Technical fact sheet</dd>
+    </dl>
+  </li>
+  <li><a href="http://lazy-lizard-tales.blogspot.sg/2011/01/stepping-on-stonefish-year-on-part-1.html">Stepping on Stonefish: A Year On (Part 1)</a>
+and
+<a href="http://lazy-lizard-tales.blogspot.sg/2011/01/stepping-on-stonefish-year-on-part-2.html">Part 2</a>
+from Lazy Lizard Tales.</li>
+  <li><a href="http://wildshores.blogspot.sg/2012/07/how-many-stonefishes-at-sentosa.html">How many stonefishes at Sentosa?</a>
+on wild shores of singapore.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+. National Council on the Environment. 163pp.</li>
+  <li>Allen, Gerry, 2000.
+<em>Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers</em>
+. Periplus Editions. 292 pp.</li>
+  <li>Kuiter, Rudie H. 2002.
+<em>Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers &amp; Fishermen</em>
+New Holland Publishers. 434pp.</li>
+  <li>Lieske, Ewald and Robert Myers. 2001.
+<em>Coral Reef Fishes of the World</em>
+Periplus Editions. 400pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

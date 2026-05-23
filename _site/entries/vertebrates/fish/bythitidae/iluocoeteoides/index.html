@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Yellow cuskeel  | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="yellow, cusk, eel, cuskeel, dinematichthys, iluocoeteoides, bythitidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/060531labd2675m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Chordata">Chordata</a>
+                    > 
+                    <a href="/Chordata/Actinopterygii">Actinopterygii</a>
+                    > 
+                    <a href="/Chordata/Actinopterygii/Ophidiiformes">Ophidiiformes</a>
+                    >
+                    <a href="/Chordata/Actinopterygii/Ophidiiformes/"></a>
+                    >
+                    <a href="/Chordata/Actinopterygii/Ophidiiformes//Bythitidae">Bythitidae</a>
+                </p>
+                <h1>Yellow cuskeel </h1>
+                
+                    <p class="scientific-name">Dinematichthys iluocoeteoides</p>
+                
+
+                <p><em>Updated Sep 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This odd little eel-like fish is sometimes seen on some of our shores, usually near reefs at night. It was previously listed under Family Brotulidae and thus sometimes still referred to as brotulids. Another species, the Riau viviparous brotula (
+<em>Ungusurculus riauensis</em>
+) looks very similar.</p>
+
+<h2 id="features">Features</h2>
+
+<p>4-7cm long, can grow to 12cm. Body long flattened, head rounded with tiny eyes. It has a pair of long filaments under its head, but this is hard to see this in a live fish in the wild. It has scales on body, cheeks and gill covers. Tail fin tiny and is separated from the long dorsal and anal fins. Colour usually orangey pink.</p>
+
+<p><strong>Baby cuskeels:</strong>
+Eggs develop inside the mother and she gives birth to live young (ovoviviparous). Embryos are retained in the ovaries until about 6 mm long, getting their nourishment from large yolk sacs.</p>
+
+<p><strong>Sometimes mistaken for</strong>
+other eel-like fishes. Here’s more on
+<a href="../../../glossary/eelsnake.md">how to tell apart sea snakes, eels and eel-like animals</a>
+.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/060531labd2675m3.jpg" alt="" />
+        <div class="caption">
+        Labrador, May 06
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/070728sisd4531m6l.jpg" alt="" />
+        <div class="caption">
+        Sisters Island, Jul 07
+        </div>
+    </div>
+    
+
+</div>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/060531labd2675m3d.jpg" alt="" />
+        <div class="caption">
+        Tiny tail fin separated from long dorsal and anal fins.
+        </div>
+    </div>
+    
+
+</div>
+
+<hr />
+
+<p><strong>Yellow cuskeels on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470%40N00&amp;sort=date-taken-desc&amp;view_all=1&amp;text=Dinematichthys%20iluocoeteoides">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Dinematichthys%2520iluocoeteoides/map?&amp;fLat=1.2622&amp;fLon=103.8661&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/140612skdlks1.JPG" alt="" />
+        <div class="caption">
+        Pulau Sekudu, Jun 14 Photo shared by Loh Kok Sheng on flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/140612skdlks2.JPG" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/200706skdlks4.jpg" alt="" />
+        <div class="caption">
+        Pulau Sekudu, Jul 20 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/230705ssismn1.jpg" alt="" />
+        <div class="caption">
+        Small Sisters Island, Jul 23 Photo shared by Marcus Ng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/251011tgrlks24.jpg" alt="" />
+        <div class="caption">
+        Sentosa Tg Rimau, Oct 25 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/251011tgrlks24a.jpg" alt="" />
+        <div class="caption">
+        Sentosa Tg Rimau, Oct 25 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/200918cyrjll1.jpg" alt="" />
+        <div class="caption">
+        Cyrene, Sep 20 Photo shared by Jianlin Liu on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/210501tbrl1.jpg" alt="" />
+        <div class="caption">
+        Terumbu Bemban, May 21 Photo shared by Russel Low on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/210428slulks5.jpg" alt="" />
+        <div class="caption">
+        Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Family Bythitidae recorded for Singapore</strong>
+from Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+.</p>
+
+<p>+Other additions (Singapore Biodiversity Record, etc)</p>
+
+<p><strong>Family Bythitidae</strong></p>
+
+<p>*Dinematichthys iluocoeteoides</p>
+
+<p>+Ungusurculus riauensi*
+(Riau viviparous brotula)</p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/229.md">Yellow cuskeel (
+<em>Dinematichthys iluocoeteoides</em>
+)</a>
+Lim, Kelvin K. P. &amp; Jeffrey K. Y. Low, 1998.
+<em><a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/">A Guide to the Common Marine Fishes of Singapore</a></em>
+. Singapore Science Centre. 163 pp.</li>
+  <li><a href="https://singapore.biodiversity.online/taxon/A-Vert-Fish-Ophidiiformes-Bythitidae">Bythitidae (Brotulas)</a>
+on The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.</li>
+  <li>
+    <dl>
+      <dt><a href="http://www.fishbase.org/summary/FamilySummary.php?ID=472">Family Bythitidae - Viviparous brotulas</a></dt>
+      <dt>and</dt>
+      <dt>[Yellow pigmy brotula (</dt>
+      <dt><em>Dinematichthys iluocoeteoides</em></dt>
+      <dt>)](http://www.fishbase.org/Summary/SpeciesSummary.php?id=7300)</dt>
+      <dt>from</dt>
+      <dt><a href="http://www.fishbase.org/">FishBase</a></dt>
+      <dd>Technical fact sheet.</dd>
+    </dl>
+  </li>
+  <li><a href="http://research.kahaku.go.jp/zoology/Fishes_of_Bitung/data/p020_04a.html">Family Bythitidae (Viviparous brotulas)</a>
+from
+<a href="http://research.kahaku.go.jp/zoology/Fishes_of_Bitung/index.html">Fishes of Bitung</a>
+(Northern Tip of Sulawesi Indonesia) by Seishi Kimura and Keiichi Matsuura (eds.) on the National Science Museum, Tokyo website: factsheets with photos and description.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Marcus F. C. Ng &amp; Toh Chay Hoon. 20 June 2014.
+<em>Riau viviparous brotula at Pulau Sekudu, Ungusurculus riauensi</em>
+. Singapore Biodiversity Records 2014: 172</li>
+  <li>Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+. National Council on the Environment. 163pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

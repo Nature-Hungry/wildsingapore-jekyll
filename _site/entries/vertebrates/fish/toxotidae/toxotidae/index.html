@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Archerfishes | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="acherfish, archer, fish, toxotidae, toxotes, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/040110sbwrd0029m3a.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Chordata">Chordata</a>
+                    > 
+                    <a href="/Chordata/Actinopterygii">Actinopterygii</a>
+                    > 
+                    <a href="/Chordata/Actinopterygii/Carangiformes">Carangiformes</a>
+                    >
+                    <a href="/Chordata/Actinopterygii/Carangiformes/Toxotoidei">Toxotoidei</a>
+                    >
+                    <a href="/Chordata/Actinopterygii/Carangiformes/Toxotoidei/Toxotidae">Toxotidae</a>
+                </p>
+                <h1>Archerfishes</h1>
+                
+                    <p class="scientific-name">Family Toxotidae</p>
+                
+
+                <p><em>Updated Oct 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about them ... These fishes can shoot down insects from overhanging foliage. But they prefer to jump out of the water to grab them. There are two different species of archerfishes in our waters.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        These fishes can shoot down insects from overhanging foliage. But they prefer to jump out of the water to grab them. There are two different species of archerfishes in our waters.
+        </div>
+    </div>
+    
+
+</div>
+
+<h2 id="where-seen">Where seen?</h2>
+<p>These surface dwelling fishes are commonly seen in mangroves and under jetties on our Northern shores. There are usually large groups of big fat archerfishes under the main bridge at Sungei Buloh Wetland Reserve. Smaller ones are sometimes seen at the Changi Village jetty.</p>
+
+<dl>
+  <dt><strong>What are archerfishes?</strong></dt>
+  <dt>Archerfishes belong to Family Toxotidae. According to</dt>
+  <dt><a href="http://fishbase.org/Summary/FamilySummary.cfm?ID=337">FishBase</a></dt>
+  <dd>the family comprises 1 genus and 6 species found from from India to the Philippines, Australia and Polynesia.
+    <h2 id="features">Features</h2>
+  </dd>
+</dl>
+
+<p>To about 20cm long. Body somewhat flattened sideways, shaped like a knife with a pointed snout and broad rear end. Large scales. Large eyes near the top of the head and large upward-facing mouth.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/040110sbwrd0029m3a.jpg" alt="" />
+        <div class="caption">
+        Archerfishes hanging under the main bridge. Sungei Buloh Wetland Reserve, Nov 04
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/110205krjd5875m6l.jpg" alt="" />
+        <div class="caption">
+        Swimming at the surface among floating debris. Kranji, Feb 11
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Shooting fish:</strong>
+Archerfishes are famed for their ability to shoot down insects and small creatures resting on foliage or mangrove roots. In fact,
+<em>‘toxotes’</em>
+means ‘bowman’ or ‘archer’. Their flattened body presents a narrow profile from above, so they can sneak up on their prey. The bold black-and-white markings camouflage them in the sundappled water under mangrove vegetation.
+<strong>How do they shoot?</strong>
+Archerfishes are like submarine water pistols and can spit out a strong and accurate jet of water. To form this water jet, the tongue is placed against the groove on the roof of the mouth. Water is powerfully forced through this tube by snapping the gills shut. The tip of the tongue acts as a valve. The Australian Museum Fish Site has a
+<a href="http://www.amonline.net.au/fishes/fishfacts/fish/tchatar.md">photo of the inside of an archerfish’s mouth</a>
+to show the groove on the roof of the mouth and shape of the tongue.</p>
+
+<p>To get a good jet of water, the snout sticks out of the water, but the rest of the fish remains underwater. The jet of water is directed with the tip of the tongue.</p>
+
+<p>The large eyes located near the mouth give good binocular vision for accurate aim. The eyes, however, do not automatically correct for refraction, and the fish has to learn how to do this. The position of least distortion is directly below the prey, and the fish soon learn that this is the best shooting spot.</p>
+
+<p>The fish can squirt up to 7 times in quick succession, and the jet can reach 2-3m, but they are accurate to only about 1-1.5m. Fish as small as 2-3cm long can already spit, but their jets reach only 10-20cm.</p>
+
+<p>Once the jet of water knocks down a tasty titbit, it is gulped down with the large mouth which faces upwards. If the blast doesn’t knock down the prey, sometimes the weight of the water on the wings causes the insect to lose its grip and fall.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/031008sbwrd0038m6l.jpg" alt="" />
+        <div class="caption">
+        A large upward facing mouth. Sungei Buloh Wetland Reserve, Oct 03
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/170820kusmn.jpg" alt="" />
+        <div class="caption">
+        Juvenile. Kusu Island, Aug 17 Photo shared by Marcus Ng on flickr .
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Other ways to get their lunch:</strong>
+Archerfishes, however, prefer to leap out of water to grab the prey in their jaws when it is close enough. When the leap fails, they may then resort to spitting. Why is this so?</p>
+
+<p>Archerfishes usually swim in shooting parties. Often, several shoot at the same prey, and shoot relentlessly. When the prey finally falls, all rush to grab it. As the sharpshooter doesn’t always get the prize, if the prey is within reach, the fish prefers to leap out of the water and grab it in its jaws. A prey in the mouth is worth two spat at! They can jump up to 30cm high.</p>
+
+<p>But Archerfishes don’t just eat above-water prey. They also hunt small aquatic creatures and fishes, sometimes swimming in deeper water to catch these.
+<strong>Archer babies:</strong>
+It is believed that only the juveniles are found in brackish water while the adults are more solitary and swim out to the coral reefs to breed. 20,000-150,000 eggs are laid. Only a few reach maturity in 1-2 years. Young fish have iridescent yellow patches on their upper body between the dark bands, which perhaps helps them to school together in the muddy waters. As they get older, patches disappear and the black bands get shorter and eventually only seen on the uppermost part of the body.</p>
+
+<p><strong>Role in the habitat:</strong>
+Archerfishes control populations of their prey. They are also food for others higher up on the food chain.</p>
+
+<p><strong>Human uses:</strong>
+Two Southeast Asian species are collected for the aquarium fish trade. They are not bred in captivity. In Kew Gardens, Archer fishes are kept in ponds with tropical waterlilies to help keep down small insect pests and aphids!</p>
+
+<p><strong>Status and threats:</strong>
+Our archerfishes are not listed among the threatened animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Although they are still fairly common, they are threatened by the destruction of mangroves and by collection for the pet trade.</p>
+
+<hr />
+
+<p><strong>Some Archerfishes on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/051208sbwrd0532m3.jpg" alt="" />
+        <div class="caption">
+        Banded archerfish
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/chatareus/050225sbwrd1096m3.jpg" alt="" />
+        <div class="caption">
+        Spotted archerfish
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Family Toxotidae recorded for Singapore</strong>
+from Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+.</p>
+
+<p><strong>Family Toxotidae</strong></p>
+
+<p><em><a href="chatareus.md">Toxotes chatareus</a></em>
+(Spotted archerfish)
+<em><a href="jaculatrix.md">Toxotes jaculatrix</a></em>
+(Banded archerfish)</p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/324.md">Banded Archerfish (
+<em>Toxotes jaculatrix</em>
+)</a>
+Lim, Kelvin K. P. &amp; Jeffrey K. Y. Low, 1998.
+<em><a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/">A Guide to the Common Marine Fishes of Singapore</a></em>
+. Singapore Science Centre. 163 pp.</li>
+  <li><a href="http://mangrove.nus.edu.sg/guidebooks/text/2105.md">Archerfish (
+<em>Toxotes jaculatrix</em>
+)</a>
+Ng, Peter K. L. &amp; N. Sivasothi, 1999.
+<em><a href="http://mangrove.nus.edu.sg/guidebooks/">A Guide to the Mangroves of Singapore</a>
+II (Animal Diversity)</em>
+. Singapore Science Centre. 168 pp.</li>
+  <li>
+    <dl>
+      <dt><a href="http://fishbase.org/summary/FamilySummary.php?ID=337">Family Toxotidae</a></dt>
+      <dt>and</dt>
+      <dt>[<em>Toxotes jaculatrix</em></dt>
+      <dt>(Banded archerfish)](http://fishbase.org/summary/8229)</dt>
+      <dt>and</dt>
+      <dt>[<em>Toxotes chatareus</em></dt>
+      <dt>(Spotted archerfish)](http://fishbase.org/summary/8079)</dt>
+      <dt>from</dt>
+      <dt><a href="http://www.fishbase.org/">FishBase</a></dt>
+      <dd>Technical fact sheet on the family.</dd>
+    </dl>
+  </li>
+  <li><a href="http://feedproxy.google.com/%7Er/WildShoresOfSingapore/%7E3/0B9kMlL9wJQ/awesome-eye-of-archerfish.html">Awesome Eye of Archerfish</a>
+from wild shores of singapore.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+. National Council on the Environment. 163pp.</li>
+  <li>Allen, Gerry, 2000.
+<em>Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers</em>
+. Periplus Editions. 292 pp.</li>
+  <li>Lieske, Ewald and Robert Myers. 2001.
+<em>Coral Reef Fishes of the World</em>
+Periplus Editions. 400pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

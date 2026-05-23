@@ -1,0 +1,678 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Feather stars | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="feather, star, featherstar, crinoidea, crinoid, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/red/150706srpd7354.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Echinodermata">Echinodermata</a>
+                    > 
+                    <a href="/Echinodermata/Crinoidea">Crinoidea</a>
+                    > 
+                    <a href="/Echinodermata/Crinoidea/Comatulida">Comatulida</a>
+                    >
+                    <a href="/Echinodermata/Crinoidea/Comatulida/"></a>
+                    >
+                    <a href="/Echinodermata/Crinoidea/Comatulida//Colobometridae">Colobometridae</a>
+                </p>
+                <h1>Feather stars</h1>
+                
+                    <p class="scientific-name">Family Colobometridae</p>
+                
+
+                <p><em>Updated Apr 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about them ... Feather stars are rarely found near the shore. Most species can move about from place to place. Their long spiny arms are fragile and break easily. Don't disturb them.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        Feather stars are rarely found near the shore. Most species can move about from place to place. Their long spiny arms are fragile and break easily. Don't disturb them.
+        </div>
+    </div>
+    
+
+</div>
+
+<h2 id="where-seen">Where seen?</h2>
+<p>These feathery animals are sometimes seen on some of our shores, generally near living reefs. They are also encountered by divers on our Southern reefs.
+Most feather stars only come out to feed at night. During the day, they hide in crevices or among coral, curling up their arms in tight coils.</p>
+
+<p><strong>What are feather stars?</strong>
+Feather stars belong to Phylum
+<a href="../echinodermata.md">Echinodermata</a>
+. Although they may look similar to brittle stars, feather stars belong to a different Class Crinoidea. ‘Crinoidea’ means ‘lily-like’ in Greek. There are about 600 known living species of feather stars. Shallow-water crinoids are also called comatulids.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/red/150706srpd7354.jpg" alt="" />
+        <div class="caption">
+        Many gathered on a hard coral. Sentosa Serapong, Jul 15
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/blue/080607chgd5324m3.jpg" alt="" />
+        <div class="caption">
+        Beautiful shades and colours. Changi, Jun 08
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/pale/091008tmd2430m3.jpg" alt="" />
+        <div class="caption">
+        Some can be tiny. Tanah Merah, Oct 09
+        </div>
+    </div>
+    
+
+</div>
+<h2 id="features">Features</h2>
+
+<p>Like other echinoderms, feather stars are symmetrical along five axes, have spiny skin and tube feet. Like brittle stars, feather stars have thin, long and highly flexible arms. But crinoids are much more spectacular than brittle stars, with an explosion of long feathery arms.</p>
+
+<p>The arms arise from a cup-shaped structure at the centre called the calyx. The calyx contains the digestive system and is covered by a soft membrane called the tegmen that may be rounded into a mound or look like a drum skin over the calyx. Unlike sea stars and brittle stars, the feather star’s mouth facing upwards. The mouth may be in the centre of the disk or off to one side. The anus is also on the upperside, in some species at the top of a cone or tube that brings it above the feeding current to prevent fouling of the feeding process.</p>
+
+<p>The side of the feather star that faces downwards has a claw-like appendage called the cirri that is used to grip the surface.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/blue/060528bbd2369m3.jpg" alt="" />
+        <div class="caption">
+        Clinging on with the cirri. Beting Bronok, May 06
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/red/120123hntd5777m3a.jpg" alt="" />
+        <div class="caption">
+        Tiny tube feet on the pinnules. Pulau Hantu, Jan 12
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/crinoid/120820sisd0810m3a.jpg" alt="" />
+        <div class="caption">
+        Channels along the pinnules and arm. Sisters Island, Aug 12
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Sometimes confused with</strong>
+<a href="../ophiuroidea/ophiuroidea.md">brittle stars</a>
+which also have bristley arms. But brittle stars usually only have 5 or 6 arms. More on how to tell apart
+<a href="../../glossary/wormstar.md">bristley animals</a>
+and
+<a href="../../glossary/feathery.md">feathery animals</a>
+.</p>
+
+<p><strong>An armful:</strong>
+Juvenile feather stars start with 5 arms but repeatedly grow back two arms in place of each arm branch that is shed. This branching happens near the calyx. Thus feather stars usually have arms in multiples of 5, most have at least 10 arms. Some can have 80-200 arms!</p>
+
+<p>The arms are made up of large, well developed, jointed ossicles (plates made mostly of calcium carbonate). The ossicles are connected together like a bicycle chain. Along the length of the arms are rows of tiny finger-like structures called pinnules that give the animal its feathery look. Each pinnule is jointed and has a groove down the middle that joins to a groove running down the length of the arm. The grooves are lined by tube feet that produce mucus. Unlike in sea stars, the tube feet do not play a part in moving the animal but are used in collecting food and to breathe. The pinnules near the mouth protect the mouth from harm and keep the area clean.</p>
+
+<p><strong>What do they eat?</strong>
+Feather stars feed on tiny drifting organisms and particles, gathering these passively from the water by adjusting their arms to maximise the filter feeding area relative to the water flow. The arms may form a flat fan or may be curved into a parabola like a satellite dish. Some may hide in crevices and only stick out some part of their arms to gather food. The mucus covered arms have tiny tube feet that flick edible bits into the grooves of the pinnule and arm. These bits are then slowly transported along the groove to the mouth.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/pale/060713rlhd4327m3a.jpg" alt="" />
+        <div class="caption">
+        Regenerating arm tips. Chek Jawa, May 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/crinoid/120820sisd0875m3.jpg" alt="" />
+        <div class="caption">
+        Pink eggs in the pinnules? Sisters Island, Aug 12
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/pale/091008tmd2430m3.jpg" alt="" />
+        <div class="caption">
+        Some can be tiny. Tanah Merah, Oct 09
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Swimming stars:</strong>
+Feather stars can move about by moving their arms. They crawl over soft sediments, using their arms to drag themselves over the surface, lifting up the central portion of their bodies. Their arms and pinnules have tiny hooks that catch on the surface. They can also swim by thrashing their arms in the water in co-ordinated strokes. However, feather stars usually only crawl or swim to get away from predators. They usually don’t move around very much once they find a good spot to settle on. Feather stars are usually perched on top of tall living or dead hard corals, sponges and other sturdy anchors. Here, they extend their arms into the currents and gather food.</p>
+
+<p><strong>Falling apart:</strong>
+Like brittle stars, feather stars can purposely drop off an arm or two when threatened. The dropped arm may continue to wriggle to distract the predator while the brittle star escapes. The feather star is able to do this because the ossicles in its arms are connected by mutable connective tissue. The feather star can rapidly change the consistency of this tissue from rock hard to almost liquid. The arm eventually re-grows, but it takes about a month before it is fully restored. Fishes are the main predators of feather stars.</p>
+
+<p><strong>Feather star babies:</strong>
+Feather stars have separate genders and are usually either male or female. The eggs and sperm are produced in swollen pinnules near the base of the arms. These are released into the water for external fertilisation. Feather stars undergo metamorphosis and their larvae look nothing like the adults. The form that first hatches from the eggs are bilaterally symmetrical and free-swimming, drifting with the plankton. They eventually settle down and develop into tiny stalked feather stars. After a few weeks, the cirri form and the little feather star breaks free from the stalk to become a free-moving adult.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/crustacea/crab/pilumnidae/featherstar/150220lsislks2.JPG" alt="" />
+        <div class="caption">
+        Crab Sisters Island, Feb 15 Photo shared by James Koh on flickr
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/crustacea/othercrust/shrimp/crinoid/120408hntmn3.jpg" alt="" />
+        <div class="caption">
+        Shrimp St John's Island, Apr 12 Photo shared by Marcus Ng on flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/worm/polychaeta/myzostomidae/120820sisd0906m3.jpg" alt="" />
+        <div class="caption">
+        Worm Sisters Island, Aug 12
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Living off a star:</strong>
+Various small
+<a href="../../crustacea/crab/pilumnidae/featherstar.md">crabs</a>
+,
+<a href="../../crustacea/othercrust/shrimp/crinoid.md">shrimps</a>
+,
+<a href="../../worm/polychaeta/myzostomidae.md">worms</a>
+,
+<a href="../ophiuroidea/featherstar.md">brittle stars</a>
+and other tiny animals may live on a feather star. Some are found no where else.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/pale/060713rlhd4317m3d.jpg" alt="" />
+        <div class="caption">
+        Brittle star Raffles Lighthouse, Jul 06
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/ophiuroidea/featherstar/130626ecplks.JPG" alt="" />
+        <div class="caption">
+        Brittle star East Coast Park, Jun 13
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/ophiuroidea/featherstar/130625ecpd8222.jpg" alt="" />
+        <div class="caption">
+        Brittle star East Coast Park, Jun 13
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Old stars:</strong>
+Feather stars are the most ancient and considered the most primitive of echinoderms. In the fossil records, there were 10 times more feather stars and sea lilies than there are today.</p>
+
+<p><strong>Star on a stick:</strong>
+Stalked stars, called sea lilies, are mostly found in deep waters 100m or lower. There are about 80 species of sea lilies. Some living sea lilies can have stalks up to 1m long!</p>
+
+<p><strong>Human uses:</strong>
+Feather stars are not widely used for human purposes. Although they almost invariably die a slow death from starvation in marine aquariums, they are sometimes taken for the live aquarium trade.</p>
+
+<p><strong>Status and threats:</strong>
+Some of our feather stars are listed among the threatened animals of Singapore.
+<em>Stephanometra spicata</em>
+, described in the 1960’s as one of the most common feather stars on our shores, is today listed among the threatened animals of Singapore.
+<em>Lamprometra palmata</em>
+and
+<em>Stephanometra indica</em>
+were considered common in the late 1990’s but were rarely encountered in a survey of echinoderms in the early 2000’s. Like other creatures of the intertidal zone, feather stars are affected by human activities such as reclamation and pollution. Trampling by careless visitors also have an impact on local populations.</p>
+
+<hr />
+
+<p><strong>Feather stars on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/blue/091203ubnd5078m3.jpg" alt="" />
+        <div class="caption">
+        Blue feather star
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/red/090822sisd9753m3.jpg" alt="" />
+        <div class="caption">
+        Red feather star
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/brown/080209htnlks01m3.jpg" alt="" />
+        <div class="caption">
+        Brown feather star
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/black/040604bbg0240m3.jpg" alt="" />
+        <div class="caption">
+        Black-and-white feather star
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/pale/080605hntlks02m3.jpg" alt="" />
+        <div class="caption">
+        Pale feather star
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/purpurea/050623cjg8337m3.jpg" alt="" />
+        <div class="caption">
+        Purple feather star
+        </div>
+    </div>
+    
+
+</div>
+
+<hr />
+
+<p><strong>Class Crinoidea recorded for Singapore</strong></p>
+
+<p>*from C. G. Messing &amp; T. S. Tay. 29 June 2016. Extant Crinoidea (Echinodermata) of Singapore</p>
+
+<p>in red are those listed among the threatened animals of Singapore
+from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+<em>The Singapore Red Data Book: Threatened plants and animals of Singapore</em>
+.</p>
+
+<p>**from
+<a href="http://www.marinespecies.org/">WORMS</a>
+.</p>
+
+<p>+from The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.</p>
+
+<p><strong>Feather stars</strong>
+<strong>seen awaiting identification</strong></p>
+
+<p><em>Feather star species are difficult to positively identify without dissection and examination of internal parts.</em>
+<em>On this website, they are grouped by external features for convenience of display.</em></p>
+
+<p><a href="black.md">Black-and-white feather star</a></p>
+
+<p><a href="blue.md">Blue feather star</a></p>
+
+<p><a href="brown.md">Brown feather star</a></p>
+
+<p><a href="pale.md">Pale feather star</a></p>
+
+<p><a href="purpurea.md">Purple feather star</a></p>
+
+<p><strong>Family “Antedonidae”</strong></p>
+
+<p><em>Dorometra nana</em>
+<em>Dorometra parvicirra</em></p>
+
+<p><strong>Family Colobometridae</strong></p>
+
+<p>*Colobometra perspinosa</p>
+
+<p>Cenometra bella</p>
+
+<p>Decametra sp.</p>
+
+<p>Decametra informis</p>
+
+<p>Decametra mylitta</p>
+
+<p>Oligometra serripinna</p>
+
+<p>Pontiometra andersoni*</p>
+
+<p><strong>Family Comatulidae</strong></p>
+
+<p>*Anneissia bennetti</p>
+
+<p>Capillaster multiradiatus</p>
+
+<p>Capillaster sentosus</p>
+
+<p>Capillaster cf. tenuicirrus</p>
+
+<p>Comaster schlegelii</p>
+
+<p>Comanthus parvicirrus</p>
+
+<p>Comatula cf. solaris</p>
+
+<p>Comatula cf. pectinata</p>
+
+<p>+Comatula purpurea</p>
+
+<p>Comatula*
+sp.
+*Phanogenia typica</p>
+
+<p>Phanogenia schoenovi*</p>
+
+<p><strong>Family Himerometridae</strong></p>
+
+<p>*Amphimetra cf. discoidea</p>
+
+<p>Amphimetra ensifer</p>
+
+<p>Amphimetra molleri</p>
+
+<p>Craspedometra acuticirra</p>
+
+<p>Heterometra affinis</p>
+
+<p>Heterometra amboinae</p>
+
+<p>Heterometra bengalensis</p>
+
+<p>Heterometra cf. crenulata</p>
+
+<p>Heterometra producta</p>
+
+<p>Heterometra quinduplicava</p>
+
+<p>Heterometra schlegelii</p>
+
+<p>Heterometra singularis</p>
+
+<p><a href="red.md">Himerometra robustipinna</a>*
+(Red feather star) (DD: Data deficient)
+<em>Himerometra bartschi</em></p>
+
+<p><strong>Family Mariametridae</strong></p>
+
+<p>*Dichrometra flagellata</p>
+
+<p>Lamprometra palmata*
+*Stephanometra tenuipinna</p>
+
+<p>Stephanometra indica*
+(VU: Vulnerable)</p>
+
+<p><strong>Family Zygometridae</strong></p>
+
+<p><em>Zygometra comata</em></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&amp;l=ur2&amp;o=1" alt="" />
+        <div class="caption">
+        Links Class Echinoidea Tan, Leo W. H. &amp; Ng, Peter K. L., 1988. A Guide to Seashore Life . The Singapore Science Centre, Singapore. 160 pp. References C. G. Messing &amp; T. S. Tay. 29 June 2016. Extant Crinoidea (Echinodermata) of Singapore . The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part I of II) Pp. 627-658. T. S. Tay &amp; J. K. Y. Low. 29 June 2016. Crinoid diversity in the subtidal non-coral reef habitats of Singapore . The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part I of II) Pp. 659-665. Charles Messing. 16 October 2015. New record of the featherstar Cenometra bella in Singapore . Singapore Biodiversity Records 2015: 160 C. G. Messing &amp; T. S. Tay. 29 June 2016. Extant Crinoidea (Echinodermata) of Singapore . [pdf] The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part II of II) Pp. 627-658. Lane, David J.W. and Didier Vandenspiegel. 2003 . A Guide to Sea Stars and Other Echinoderms of Singapore . Singapore Science Centre. 187pp. Ng, P. K. L. &amp; Y. C. Wee, 1994. The Singapore Red Data Book: Threatened Plants and Animals of Singapore . The Nature Society (Singapore), Singapore. 343 pp. Wee Y.C. and Peter K. L. Ng. 1994. A First Look at Biodiversity in Singapore . National Council on the Environment. 163pp. Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004. Invertebrate Zoology Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963 Pechenik, Jan A., 2005. Biology of the Invertebrates . 5 th edition. McGraw-Hill Book Co., Singapore. 578 pp. Hendler, Gordon, John E. Miller, David L. Pawson and Porter M. Kier, 1995. Sea Stars, Sea Urchins, and Allies: Echinoderms of Florida and the Caribbean . Smithsonian Institution Press. 390 pp. Schoppe, Sabine, 2000. Echinoderms of the Philippines: A guide to common shallow water sea stars, brittle stars, sea urchins, sea cucumbers and feather stars . Times Edition, Singapore. 144 pp. Coleman, Neville. undated. Sea Stars of Australasia and their relatives . Neville Coleman's World of Water, Australia. 64pp.
+        </div>
+    </div>
+    
+
+</div>
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/223">Class
+Echinoidea</a>
+Tan, Leo W. H. &amp; Ng, Peter K. L., 1988. <em><a href="http://mangrove.nus.edu.sg/pub/seashore/">A
+Guide to Seashore Life</a></em>. The Singapore Science Centre,
+Singapore. 160 pp.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>C. G. Messing &amp; T. S. Tay. 29 June 2016. <em>Extant Crinoidea (Echinodermata) of Singapore</em>. The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part I of II) Pp. 627-658.</li>
+  <li>T. S. Tay &amp; J. K. Y. Low. 29 June 2016. <em>Crinoid diversity in the subtidal non-coral reef habitats of Singapore</em>. The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part I of II) Pp. 659-665.</li>
+  <li>Charles Messing. 16 October 2015. <em>New record of the featherstar Cenometra bella in Singapore</em>. Singapore Biodiversity Records 2015: 160</li>
+  <li>C. G. Messing &amp; T. S. Tay. 29 June 2016. <em>Extant Crinoidea (Echinodermata) of Singapore</em>. [pdf] The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part II of II) Pp. 627-658.</li>
+  <li>Lane, David
+J.W. and Didier Vandenspiegel. 2003<em>. A
+Guide to Sea Stars and Other Echinoderms of Singapore</em>.
+Singapore Science Centre. 187pp.</li>
+  <li>Ng, P. K.
+L. &amp; Y. C. Wee, 1994. *The</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

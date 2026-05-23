@@ -1,0 +1,689 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Pizza anemone | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="pizza, anemone, cryptodendrum, adhaesivum, thalassianthidae, actiniaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/cryptodendrum/120609tsmkd5075m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Cnidaria">Cnidaria</a>
+                    > 
+                    <a href="/Cnidaria/Anthozoa">Anthozoa</a>
+                    > 
+                    <a href="/Cnidaria/Anthozoa/Actiniaria">Actiniaria</a>
+                    >
+                    <a href="/Cnidaria/Anthozoa/Actiniaria/Enthemonae">Enthemonae</a>
+                    >
+                    <a href="/Cnidaria/Anthozoa/Actiniaria/Enthemonae/Thalassianthidae">Thalassianthidae</a>
+                </p>
+                <h1>Pizza anemone</h1>
+                
+                    <p class="scientific-name">Cryptodendrum adhaesivum</p>
+                
+
+                <p><em>Updated Jul 2024</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This rather large anemone is seldom seen, usually tucked in crevices on rocky and rubbly areas under dead corals on our Southern shores. Possibly simply because it just doesn’t look like a typical anemone, and because it is usually well hidden. During mass coral bleaching, this anemone is often easier to spot as it bleaches white.</p>
+
+<h2 id="features">Features</h2>
+
+<p>Diameter 25-30cm. The flat circular animal has a smooth rounded thick rim - very much like a pizza! The tentacles on the oral disk are short, tiny and tightly packed. The tentacles are very sticky, hence another common name for it is Adhesive anemone.</p>
+
+<p>The tentacles come in two forms as described by Dr Fautin, “those in center have a narrow stalk with five or more short branches at end (i.e. resembling a miniature glove); those near the edge simple elongate bulbs about 1 mm diameter; at extreme margin is a ring of tentacles like the central ones but with fewer branches. Tentacles of the two forms are usually different colours: observed combinations include yellow and pink, blue and gray, green and brown; occasionally tentacles of another colour occur in patches amid those of predominant colour.”</p>
+
+<p>The body column may be brightly coloured; those seen were purple or yellow. Generally smooth with tiny verrucae of the same colour or slightly darker.</p>
+
+<p><strong>Pizza friends:</strong>
+The Pizza anemone harbours symbiotic algae (called zooxanthellae) that photosynthesize. The algae share the food produced with the anemone, which in turn provides the algae with shelter and minerals.</p>
+
+<p>Several kinds of animals may live happily and unharmed on the Pizza anemone. These include the
+<a href="../../crustacea/othercrust/shrimp/brevicarpalis.md">Peacock-tail anemone shrimp</a>
+(
+<em>Periclimenes brevicarpalis</em>
+). Elsewhere it is said that
+<a href="../../vertebrates/fish/pomacentridae/amphiprion.md">anemonefishes</a>
+(
+<em>Amphiprion</em>
+sp.) live with these anemones such as
+<em>Amphiprion bicinctus, A. clarkii and A. xanthurus</em>
+. But none of these have so far been observed on the Pizza anemones we’ve seen on the intertidal during low tide.</p>
+
+<p><strong>Status and threats:</strong>
+As at 2024, it is listed as Critically Endangered in Singapore.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/cryptodendrum/120609tsmkd5075m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Semakau, Jun 12
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/cryptodendrum/120609tsmkd5077m3a.jpg" alt="" />
+        <div class="caption">
+        Two different kinds of tentacles.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/cryptodendrum/120609tsmkrl.jpg" alt="" />
+        <div class="caption">
+        Tiny verrucae on body column. Terumbu Semakau, Jun 12 Photo shared by Russel Low on facebook .
+        </div>
+    </div>
+    
+
+</div>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/cryptodendrum/110324tryas07854m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Raya, Mar 11
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/cryptodendrum/090330smklks02m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Raya, Mar 09 Shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/cryptodendrum/040705sisd2132m3.jpg" alt="" />
+        <div class="caption">
+        Sisters Island, Jul 04
+        </div>
+    </div>
+    
+
+</div>
+
+<hr />
+
+<p><strong>Pizza anemones on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470@N00&amp;sort=date-posted-desc&amp;view_all=1&amp;text=Cryptodendrum adhaesivum">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/cryptodendrum%2520adhaesivum/map?&amp;fLat=1.2626&amp;fLon=103.8661&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/cryptodendrum/100529kuslks1.JPG" alt="" />
+        <div class="caption">
+        Kusu Island, May 10 Photo shared by Loh Kok Sheng on flickr
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/cryptodendrum/110203sjilks1.JPG" alt="" />
+        <div class="caption">
+        St John's Island, Feb 11 Photo shared by Loh Kok Sheng on flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/cryptodendrum/250201bsislks4a.jpg" alt="" />
+        <div class="caption">
+        Big Sisters Island, Feb 25 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/cryptodendrum/230831sjiky2.jpg" alt="" />
+        <div class="caption">
+        St John's Island, Aug 24 Photo shared by Kalvin Yong on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/cryptodendrum/241019lazlks1.jpg" alt="" />
+        <div class="caption">
+        Lazarus Island, Oct 24 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/cryptodendrum/110122sisjk2m3.jpg" alt="" />
+        <div class="caption">
+        Sisters Island, Jan 11 Photo shared by James Koh on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/cryptodendrum/160608cyrlks4.JPG" alt="" />
+        <div class="caption">
+        Cyrene Reef, Jun 16 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/cryptodendrum/080209htnlks02m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Hantu, Feb 08 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/cryptodendrum/090607htnlks.JPG" alt="" />
+        <div class="caption">
+        Pulau Hantu, Jun 09 Photo shared by Loh Kok Sheng on flickr .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/cryptodendrum/120411thntrl3m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Hantu, Apr 12 Photo shared by Russel Low on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/cryptodendrum/250531thntlks1a.jpg" alt="" />
+        <div class="caption">
+        Terumbu Hantu, May 25 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/cryptodendrum/100617tsmklks4m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Semakau, Jun 10 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/cryptodendrum/160711tsmklks2.jpg" alt="" />
+        <div class="caption">
+        Terumbu Semakau, Jul 16 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/cryptodendrum/100519tsmklks3m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Semakau, May 10 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/cryptodendrum/150720smknlks7m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau North, Jul 15 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/cryptodendrum/250401smknrk2.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau North, Apr 25 Photo shared by Richard Kuah on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/cryptodendrum/180421smkslks2.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau South, Apr 18 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/cryptodendrum/250629smkelks8.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau East, Jun 25
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/cryptodendrum/250629smkelks8a.jpg" alt="" />
+        <div class="caption">
+        Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/cryptodendrum/160723smkelks5.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau East, Jul 16 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/cryptodendrum/180615trylks1.jpg" alt="" />
+        <div class="caption">
+        Terumbu Raya, Jun 18 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/cryptodendrum/240511tryccn2.jpg" alt="" />
+        <div class="caption">
+        Terumbu Raya, May 24 Photo shared by Che Cheng Neo on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/cryptodendrum/250713tryky1.jpg" alt="" />
+        <div class="caption">
+        Tiny one (3cm) Terumbu Raya, Jul 25 Photo shared by Kelvin Yong on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/cryptodendrum/250715bbklon1.jpg" alt="" />
+        <div class="caption">
+        Beting Bemban Kecil, Jul 25 Photo shared by Lon Voon Ong on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/cryptodendrum/110422tbmlks1m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Bemban, Apr 11 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/cryptodendrum/170514bbbrl1.jpg" alt="" />
+        <div class="caption">
+        Beting Bemban Besar, Apr 17 Photo shared by Russel Low on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/cryptodendrum/220103tplky3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Pempang Laut, Jan 22 Photo shared by Kelvin Yong on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/cryptodendrum/160806tpllks2.jpg" alt="" />
+        <div class="caption">
+        Terumbu Pempang Laut, Aug 16 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/cryptodendrum/091204pawjk13m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Pawai, Dec 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/cryptodendrum/091204pawjk13m3c.jpg" alt="" />
+        <div class="caption">
+        Shared by James Koh on his flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/cryptodendrum/091204pawjk13m3d.jpg" alt="" />
+        <div class="caption">
+        With an anemone shrimp on it.
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/cryptodendrum/100130brkblks1m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Berkas Besar, Jan 10 Photo shared by Loh Kok Sheng on his flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/cryptodendrum/100810snglks4m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Senang, Aug 10 Photo shared by Loh Kok Sheng on his flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/cryptodendrum/220201brkvc2.jpg" alt="" />
+        <div class="caption">
+        Pulau Berkas, Feb 22 Photo shared by Vincent Choo on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail.cfm?genus=Cryptodendrum&amp;subgenus=&amp;species=adhaesivum&amp;subspecies=&amp;synseniorid=48"><em>Cryptodendrum adhaesivum</em></a>
+on the
+<a href="http://hercules.kgs.ku.edu/Hexacoral/Anemone2/order.cfm">Hexacorallians of the World</a>
+website by Dr Daphne G. Fautin with classification, distribution, biological associations and more.</li>
+  <li><a href="http://www.sealifebase.org/summary/Cryptodendrum-adhaesivum.html"><em>Cryptodendrum adhaesivum</em></a>
+on SeaLife Base: technical fact sheet.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.</li>
+  <li>Daphne Gail Fautin, S. H. Tan and Ria Tan. 30 Dec 2009.
+<em>Sea anemones (Cnidaria: Actiniaria) of Singapore: abundant and well-known shallow-water species</em>
+<a href="http://lkcnhm.nus.edu.sg/rbz/biblio/s22/s22rbz121-143.pdf">.</a>
+Raffles Bulletin of Zoology Supplement No. 22: 121-143.</li>
+  <li>Erhardt, Harry and Daniel Knop. 2005.
+<em>Corals: Indo-Pacific Field Guide</em>
+IKAN-Unterwasserachiv, Frankfurt. 305 pp.</li>
+  <li>Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.
+<em>Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates</em>
+Sea Challengers. 314pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Pipefishes  | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="pipefish, pipe, fish, horse, seahorse, syngnathidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Chordata">Chordata</a>
+                    > 
+                    <a href="/Chordata/Actinopterygii">Actinopterygii</a>
+                    > 
+                    <a href="/Chordata/Actinopterygii/Syngnathiformes">Syngnathiformes</a>
+                    >
+                    <a href="/Chordata/Actinopterygii/Syngnathiformes/Syngnathoidei">Syngnathoidei</a>
+                    >
+                    <a href="/Chordata/Actinopterygii/Syngnathiformes/Syngnathoidei/Syngnathidae">Syngnathidae</a>
+                </p>
+                <h1>Pipefishes </h1>
+                
+                    <p class="scientific-name">Family Syngnathidae</p>
+                
+
+                <p><em>Updated Oct 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about them ... The males look after the eggs! They are globally endangered due to overharvesting for the traditional medicine trade. They are hard to spot and can't move fast. Watch your step or you might step on one!
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        The males look after the eggs! They are globally endangered due to overharvesting for the traditional medicine trade. They are hard to spot and can't move fast. Watch your step or you might step on one!
+        </div>
+    </div>
+    
+
+</div>
+
+<h2 id="where-seen">Where seen?</h2>
+<p>Pipefishes and seahorses are more common than we might imagine. They are well camouflaged and thus usually overlooked. But the patient and keen-eyed observer is often rewarded with a sighting of these amazing fishes on many of our shores especially in seagrass areas.</p>
+
+<dl>
+  <dt><strong>What are pipefishes and seahorses?</strong></dt>
+  <dt>They belong to Family Syngnathidae. According to</dt>
+  <dt><a href="http://www.fishbase.org/Summary/FamilySummary.cfm?ID=258">FishBase</a></dt>
+  <dd>the family has 52 genera and 215 species. They are found in shallow tropical and temperate waters of the Atlantic, Indian and Pacific oceans.</dd>
+</dl>
+
+<h2 id="features">Features</h2>
+
+<p>These are true fish, although they don’t appear very fish-like! Members of this family are enclosed in an armour of bony rings just under the skin. They also have an internal skeleton just like other fish. While most retain a dorsal fin, in some pipefish species, the other fins are small or absent. The seahorse doesn’t have a tail fin, but some pipefishes have a tiny fan-like tail fin. These fishes are adapted for sheltered waters well vegetated with seagrass or seaweed. With reduced fins and rather inflexible bodies, they cannot swim quickly. Instead, they rely on camouflage to blend in with the vegetation. The seahorse has a prehensile tail (can be curled around a firm object) as do some pipefishes.</p>
+
+<p><strong>What do they eat?</strong>
+Seahorses and pipefishes feed on tiny creatures. These are sucked up with their tube-like, toothless snouts. ‘Syngnathus’ means ‘fused jaws’ in Greek.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg" alt="" />
+        <div class="caption">
+        Often seen in a pair. Flexible tail used to hang onto objects. Tanah Merah, Aug 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/080523cyrd3895m3c.jpg" alt="" />
+        <div class="caption">
+        The Alligator pipefish also has a rehensile tail. Cyrene Reef, May 08
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/070702chgd3169m3.jpg" alt="" />
+        <div class="caption">
+        Mobile eyes can move while the body remains still. Toothless jaws used like a straw. Changi, Jul 07
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Pregnant fathers:</strong>
+In many members of this family, the male carries the eggs. In some species, the male has a pouch. For those without a pouch, such as pipefishes, the eggs may be glued to the underside of the male’s tail or abdomen. Often the eggs are embedded in a spongy tissue. Some have a pair of flaps that fold over the eggs. Females have an ovipositor to lay eggs on the male’s body, where the eggs are then fertilised. In some species, ‘pregnant’ males may hang out together in small groups. The eggs develop safely on dad’s body. The father ‘gives birth’ to live young, which emerge as miniatures of the adults.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/120312siss04823m3.jpg" alt="" />
+        <div class="caption">
+        Very pregnant seahorse papa. Sisters Island, Mar 12
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/060724chgg4880m3.jpg" alt="" />
+        <div class="caption">
+        Some seahorses are tiny! Watch your step! Changi, Jul 06
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/seagrass/130624chg7d8080m3.jpg" alt="" />
+        <div class="caption">
+        Very pregnant piepfish papa. Changi, Jun 13
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Human uses:</strong>
+Pipefishes and seahorses are used in traditional Chinese medicine. Some species are also caught for the live aquarium trade.</p>
+
+<p><strong>Status and threats:</strong>
+These fishes are threatened by habitat disturbance and destruction from reclamation, pollution and activities that increase sedimentation. They are also threatened with over-collection for the traditional Chinese medicine and live aquarium trade. They are naturally uncommon because they reproduce slowly and usually seldom travel far from one spot. Usually, in the wild only a handful of babies survive from each batch of eggs. Being slow swimmers without a free-swimming larval stage, they don’t spread quickly to new places. Being slow-moving and defenceless, they are easily collected.</p>
+
+<p>Like other fish and creatures harvested for the live aquarium trade, most die before they can reach the retailers. Without professional care, most die soon after they are sold. Those that do survive are unlikely to breed successfully. Ll
+ike other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Poaching by hobbyists can also have an impact on local populations.</p>
+
+<hr />
+
+<p><strong>Family Syngnathidae recorded for Singapore</strong></p>
+
+<p><strong>Family Syngnathidae</strong></p>
+
+<p><strong><a href="pipefish.md">Pipefishes</a></strong>
+with list of species recorded for Singapore</p>
+
+<p><strong><a href="hippocampus.md">Seahorses</a></strong>
+with list of species recorded for Singapore</p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/230.md">Pipefish (Family Syngnathidae)</a>
+,
+<a href="http://mangrove.nus.edu.sg/pub/seashore/text/229.md">Seahorse (
+<em>Hippocampus</em>
+sp.)</a>
+Tan, Leo W. H. &amp; Ng, Peter K. L., 1988,
+<em>A
+<a href="http://mangrove.nus.edu.sg/pub/seashore/">Guide to Seashore Life</a></em>
+. The Singapore Science Centre, Singapore. 160 pp.</li>
+  <li><a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/250.md">Blue-speckled Pipefish (
+<em>Hippichthys cyanospilus</em>
+)</a>
+,
+<a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/248.md">Spotted Seahorse (
+<em>Hippocampus kuda</em>
+)</a>
+Lim, Kelvin K. P. &amp; Jeffrey K. Y. Low, 1998.
+<em><a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/">A Guide to the Common Marine Fishes of Singapore</a></em>
+. Singapore Science Centre. 163 pp.</li>
+  <li>
+    <dl>
+      <dt><a href="http://seahorse.fisheries.ubc.ca/">Project Seahorse</a></dt>
+      <dd>THE website for everything about seahorses, it also has lots of info about pipefish.</dd>
+    </dl>
+  </li>
+  <li><a href="http://sosmalaysia.org/">Save our Seahorses</a>
+focusing on seahorses and their habitats in Pulai Johor</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+. National Council on the Environment. 163pp.</li>
+  <li>Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+<em>The Singapore Red Data Book: Threatened plants and animals of Singapore</em>
+. Nature Society (Singapore). 285 pp.</li>
+  <li>Allen, Gerry, 2000.
+<em>Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers</em>
+. Periplus Editions. 292 pp.</li>
+  <li>Kuiter, Rudie H. 2002.
+<em>Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers &amp; Fishermen</em>
+New Holland Publishers. 434pp.</li>
+  <li>Lieske, Ewald and Robert Myers. 2001.
+<em>Coral Reef Fishes of the World</em>
+Periplus Editions. 400pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

@@ -1,0 +1,516 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Flowery soft corals  | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="omelette, dendronephthya, nephtheidae,  alcyonacea, soft, coral, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="../../../Templates/fornatureguides.gif" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Cnidaria">Cnidaria</a>
+                    > 
+                    <a href="/Cnidaria/Anthozoa">Anthozoa</a>
+                    > 
+                    <a href="/Cnidaria/Anthozoa/Malacalcyonacea">Malacalcyonacea</a>
+                    >
+                    <a href="/Cnidaria/Anthozoa/Malacalcyonacea/"></a>
+                    >
+                    <a href="/Cnidaria/Anthozoa/Malacalcyonacea//Nephtheidae">Nephtheidae</a>
+                </p>
+                <h1>Flowery soft corals </h1>
+                
+                    <p class="scientific-name">Family Nephtheidae</p>
+                
+
+                <p><em>Updated Nov 2019</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about them ... They are animals! Although they look like plants. Don't step on them! Each soft coral is a colony of countless tiny polyps. Tiny animals may live in the colony. Look for them.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        They are animals! Although they look like plants. Don't step on them! Each soft coral is a colony of countless tiny polyps. Tiny animals may live in the colony. Look for them.
+        </div>
+    </div>
+    
+
+</div>
+
+<h2 id="where-seen">Where seen?</h2>
+<p>Flowery soft corals are commonly seen on many of our shores. They are usually attached to hard surfaces including boulders, jetty pilings and coral rubble.</p>
+
+<h2 id="features">Features</h2>
+
+<hr />
+<p>Colonies are usually 15- 20cm in diameter but may be larger. When submerged, these soft corals look like bushes. The common tissue is generally rubbery, stiff and rough to the touch. A thick ‘main trunk’ attaches to a hard surface on one end, with many small branches on the other end.</p>
+
+<p>Only one kind of polyp (autozooids) usually clustered at the tips of the colony’s ‘branches’. Polyps are tiny (0.5cm or smaller) and have eight short tentacles with 1 row of fine branches. The polyps can be closed but cannot be retracted. The polyps may be white, beige or other colours such as purple.</p>
+
+<p>In some, the polyps are supported by large spindle-shaped sclerites (tiny spikes of calcium carbonate) that stick out of the common tissue and gives the colony a spiky, prickly look. Sclerites may also be embedded in the fleshy supporting tissues that forms the ‘stem’ or ‘branches’. The sclerites are often brightly coloured.</p>
+
+<p>Flowery soft corals come in a variety of colours from pink, red, orange to purple, blue, brown, yellow and white.</p>
+
+<p>Some species can be abundant in areas with fast but one-way flow of water. But they are not often found in areas exposed to strong waves. They can also grow in murky areas.</p>
+
+<p>The
+<a href="../actiniaria/actinodendron.md">fire anemone</a>
+(
+<em>Actinodendron</em>
+sp.) looks similar to a flower soft coral. Unlike the soft coral, however, the anemone has a powerful sting. So be careful!</p>
+
+<p><strong>Flowery babies:</strong>
+Some species reproduce by dropping a branch. Others may drop polyp bundles. These may settle down and become attach to a surface and start growing as a new colony. This is called ‘polyp bail-out’.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/040411hntd0107m3.jpg" alt="" />
+        <div class="caption">
+        When the brown polyps are retracted, the colony can appear different. Pulau Hantu, Apr 04
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/120123hntd5532m3b.jpg" alt="" />
+        <div class="caption">
+        Polyps tiny with eight branched tentacles. Pulau Hantu, Jan 12
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/111222tusd4717m3a.jpg" alt="" />
+        <div class="caption">
+        Polyps reinforced with large sclerites. Tuas, Dec 11
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>What do they eat?</strong>
+Some flowery soft corals harbour microscopic, single-celled symbiotic algae (zooxanthellae) within their bodies. The algae undergo photosynthesis to produce food from sunlight. The food produced is shared with the host, which in return provides the algae with shelter and minerals.</p>
+
+<p>Other flowery soft corals don’t have zooxanthellae and gather edible bits from the water. Generally, those with zooxanthellae tend to be brown or have other boring dull colours.</p>
+
+<p><strong>Flowery friends and frenemies:</strong>
+Many kinds of small animals may be found on flowery soft corals. Some like tiny transparent shrimps,
+<a href="../../crustacea/othercrust/shrimp/alphballsoft.md">snapping shrimps</a>
+, porcelain crabs,
+<a href="../../echinodermata/ophiuroidea/tinycolourful.md">brittle stars</a>
+probably just find shelter within the branching arms of the soft coral. Others, like
+<a href="../../mollusca/gastropoda/ovulidae/ovulidae.md">false cowries</a>
+, eat the soft corals!</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/031126tusad0068m3.jpg" alt="" />
+        <div class="caption">
+        Tiny red nose shrimp in Spiky flowery soft coral. Tuas, Nov 03
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/crustacea/othercrust/shrimp/alphballsoft/110518bbd1955m3.jpg" alt="" />
+        <div class="caption">
+        A pair of white snapping shrimps in a ball flowery soft coral. Beting Bronok, May 11
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/mollusca/gastropoda/ovulidae/softcoral/110518bbd1755m3.jpg" alt="" />
+        <div class="caption">
+        False cowrie snail in a pink flowery soft coral. Beting Bronok, May 11
+        </div>
+    </div>
+    
+
+</div>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/echinodermata/ophiuroidea/white/160606chg1d3845m3.jpg" alt="" />
+        <div class="caption">
+        Large ghost brittle star in Ball flowery soft coral. Changi, Jun 16
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/echinodermata/ophiuroidea/tinyorange/161012cj.jpg" alt="" />
+        <div class="caption">
+        Tiny colourful brittle star and tiny orange brittle star Chek Jawa, Oct 16 In Spiky flowery soft coral
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/031124tuscd0030m3b.jpg" alt="" />
+        <div class="caption">
+        Tiny colourful brittle star in Spiky flowery soft coral. Tuas, Nov 03
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Human uses:</strong>
+Soft corals protect themselves with unusual substances that are being studied for possible anti-cancer properties. These beautiful and delicate animals are also harvested from the wild for the aquarium trade. Collection methods usually harm the soft coral and other marine life and many specimens die before they even reach the retailer. Many more die in home aquariums due to lack of proper care. Living coral reefs, however, are worth far more to humans when they left alone. Reefs bring in tourists which generate business beyond the shore (e.g., hotels, restaurants and travel-related industries).</p>
+
+<p><strong>Status and threats:</strong>
+None of our flowery corals are listed among the endangered animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors, and over-collection by hobbyists also have an impact on local populations.</p>
+
+<hr />
+
+<p><strong>Some Flowery soft corals on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/040605kusg0314m3.jpg" alt="" />
+        <div class="caption">
+        Asparagus flowery soft corals Bushy, don't have spikes.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/neppink/060625bbd3316m3.jpg" alt="" />
+        <div class="caption">
+        Pink flowery soft corals Pink bushy, don't have spikes .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepsmooth/050510tusg6107m3.jpg" alt="" />
+        <div class="caption">
+        Smooth flowery soft corals Long branches, without spikes.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/031124tusbd0074m3.jpg" alt="" />
+        <div class="caption">
+        Spiky flowery soft corals Long branches, with spikes.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepball/060625bbd3408m3.jpg" alt="" />
+        <div class="caption">
+        Ball flowery soft corals Spherical, with spikes.
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Family Neptheidae on Singapore Shores</strong></p>
+
+<p>Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+.</p>
+
+<p><em>from Erhardt, Harry and Daniel Knop. 2005.
+*Corals: Indo-Pacific Field Guide</em>
+.</p>
+
+<p>+from our observation.</p>
+
+<p><strong>*Family Neptheidae</strong></p>
+
+<p><em>Dendronephthya</em>
+sp. (
+<a href="neppink.md">Pink flowery soft coral</a>
+and
+<a href="nepball.md">Ball flowery soft coral</a>
+)</p>
+
+<p>+
+<a href="nepasparagus.md"><em>Nepththea</em>
+sp.</a>
+(Asparagus flowery soft coral)</p>
+
+<p>+
+<a href="nepspiky.md"><em>Stereonephthya</em>
+sp.</a>
+(Spiky flowery soft coral)</p>
+
+<p>+
+<a href="nepsmooth.md"><em>Litophyton</em>
+sp.</a>
+(Smooth flowery soft coral)</p>
+
+<hr />
+
+<p>th</p>
+
+<p>edition. McGraw-Hill Book Co., Singapore. 578 pp.</p>
+<ul>
+  <li>Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+. National Council on the Environment. 163pp.</li>
+  <li>Ng, P. K. L. &amp; Y. C. Wee, 1994.
+<em>The Singapore Red Data Book: Threatened Plants and Animals of Singapore</em>
+. The Nature Society (Singapore), Singapore. 343 pp.</li>
+</ul>
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/118.md">Soft corals (Order Alcyonacea)</a>
+Tan, Leo W. H. &amp; Ng, Peter K. L., 1988.
+<em><a href="http://mangrove.nus.edu.sg/pub/seashore/">A Guide to Seashore Life</a></em>
+. The Singapore Science Centre, Singapore. 160 pp.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Tan Heok Hui &amp; Tan Siong Kiat. 12 December 2014.
+<em>Commensal animals of a soft coral tree in the Singapore Strait: Ball flowery coral tree, Dendronephthya sp.; False cowrie, Margovula marginata; Coral shell, Coralliophila rubrococcinea; Brittlestar, unidentified</em>
+. Singapore Biodiversity Records 2014: 321-323.</li>
+  <li>Erhardt, Harry and Daniel Knop. 2005.
+<em>Corals: Indo-Pacific Field Guide</em>
+IKAN-Unterwasserachiv, Frankfurt. 305 pp.</li>
+  <li>Borneman, Eric H. 2001.
+<em>Aquarium Corals: Selection, Husbandry and Natural History</em>
+T.F. H Publications. 464 pp</li>
+  <li>Fabricius, Katharina and Philip Alderslade, 2001.
+<em>Soft Corals and Sea Fans</em>
+. Australian Institute of Marine Science and the Museum and Art Gallery of the Northern Territoriy. 264 pp</li>
+  <li>Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.
+<em>Invertebrate Zoology</em>
+Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963</li>
+  <li>Pechenik, Jan A., 2005.
+<em>Biology of the Invertebrates</em>
+. 5</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

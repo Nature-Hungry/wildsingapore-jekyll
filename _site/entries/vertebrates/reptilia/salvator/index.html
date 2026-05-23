@@ -1,0 +1,420 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Malayan water monitor | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="malayan, water, monitor, varanus, salvator, varanidae, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/090905sbwrd0298m3c.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Chordata">Chordata</a>
+                    > 
+                    <a href="/Chordata/Reptilia">Reptilia</a>
+                    > 
+                    <a href="/Chordata/Reptilia/Squamata">Squamata</a>
+                    >
+                    <a href="/Chordata/Reptilia/Squamata/Sauria">Sauria</a>
+                    >
+                    <a href="/Chordata/Reptilia/Squamata/Sauria/Varanidae">Varanidae</a>
+                </p>
+                <h1>Malayan water monitor</h1>
+                
+                    <p class="scientific-name">Varanus salvator</p>
+                
+
+                <p><em>Updated Apr 2018</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This large lizard is commonly seen on many of our shores, including our offshore islands. According to Baker, they are found in forests, mangroves, scrubland and beaches where they tend to stay close to water. As well as in large canals in built up areas.</p>
+
+<p>Although mainly terrestrial, it can climb trees and also swims well (keeping its limbs to the side of the body, and propelling itself with sinuous undulations of the flattened tail). It can even dive underwater.</p>
+
+<h2 id="features">Features</h2>
+
+<hr />
+<p>2.5-3m long. Among the largest lizards in the world, certainly the largest reptile in our marine habitats. A robust, muscular body with a long tail that is flattened towards the slender tip. It has a slender forked tongue. The nostrils are located close to the tip of the long and slender snout. It has small non-overlapping scales on a thick leathery skin. Hatchlings are black with whitish undersides with rows of bright yellow spots forming bands along the back and tail. This pattern fades in adults which is often plain grey. Non-venomous and shy of humans, it will prefer to flee than to fight. But if cornered, it may bite. So do leave the monitors alone.</p>
+
+<p><strong>Sometimes mistaken for</strong>
+an
+<a href="porosus.md">Estuarine crocodile</a>
+. The lizard’s snout is short and narrow, and tail is long and slender. A crocodile has a long snout and a much thicker fatter tail.</p>
+
+<p>The lizard often swims by placing its limbs against its body and undulating its long tail from side to side. The crocodile may swim in the same way as the lizard. It may also often sink into the murky water and emerge some distance away. Sometimes, all that sticks out above water are the crocodile’s eyes and the tip of its long snout.</p>
+
+<p>On land, a large monitor lizard can look scary and be mistaken for a crocodile! Once again, observe that the lizard has a short snout and slender tail. And the lizard has a long blue forked tongue which it regularly flicks out now and then. The crocodile doesn’t have such a tongue. A crocodile on the other hand, has a long snout and jaws full of teeth! And a thick fat tail. Its scales are also much bigger.</p>
+
+<p><strong>What does it eat?</strong>
+According to Baker, it eats small animals and fishes and also scavenges on dead animals. According to Cox, it prefers crabs and frogs and also eats eggs, nestling birds and other reptiles and large invertebrates. Young monitor lizards feed on insects. It hunts during the day.</p>
+
+<p><strong>Monitor babies:</strong>
+Mama lizard lays 15-30 eggs with a soft leathery shell. When you see a pair of water monitors hugging one another, they are not mating! They are actually a pair of males wrestling one another. The one that pushes the other onto the ground wins.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/090905sbwrd0298m3c.jpg" alt="" />
+        <div class="caption">
+        Nostrils at the tip of a slender snout.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/090905sbwrd0298m3a.jpg" alt="" />
+        <div class="caption">
+        Small non-overlapping scales. Bands of yellow spots on juveniles that fade in adults. Sungei Buloh Wetland Reserve, Sep 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/120215prpd6908m3.jpg" alt="" />
+        <div class="caption">
+        Long blue forked tongue! Pasir Ris Park, Feb 12
+        </div>
+    </div>
+    
+
+</div>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/120503admd0764m6l.jpg" alt="" />
+        <div class="caption">
+        To swim, it holds its limbs against its body and propels itself with its tail. Admiralty Park, May 12
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/120330prpd7937m6l.jpg" alt="" />
+        <div class="caption">
+        Rival males wrestling. Pasir Ris Park, Mar 13
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/120330prpd7933m3.jpg" alt="" />
+        <div class="caption">
+        The aim is to topple your rival onto the ground.
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/120215prpd6936m3.jpg" alt="" />
+        <div class="caption">
+        Pasir Ris Park, Feb 12
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/120215prpd6941m3.jpg" alt="" />
+        <div class="caption">
+        Digging deep in a muddy hole.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/120215prpd6947m3.jpg" alt="" />
+        <div class="caption">
+        The lizard can hold its breath for a long time!
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Malayan water monitors on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?q=Varanus+salvator&amp;w=54527470@N00&amp;s=rec">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/varanus%252C%2520salvator/map?&amp;fLat=1.2959&amp;fLon=103.8764&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Articles</strong></p>
+
+<ul>
+  <li><a href="http://wildsingaporenews.blogspot.sg/2016/11/water-sport-activities-in-marina.html">Water sport activities in Marina Reservoir suspended after ‘crocodile’ sighting</a>
+Channel NewsAsia, 27 Nov 16.</li>
+  <li><a href="http://wildsingaporenews.blogspot.sg/2012/02/sengkang-river-creature-is-monitor.html">Sengkang river creature is “monitor lizard”</a>
+Channel NewsAsia, 21 Feb 12</li>
+</ul>
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://www.ecologyasia.com/verts/lizards/malayan_water_monitor.md">Malayan Water Monitor</a>
+on Nick Baker’s EcologyAsia website: fact sheet with photos.</li>
+  <li><a href="http://www.wildsingapore.per.sg/discovery/factsheet/malymonitor.md">Malayan Water Monitor</a>
+on Chan Kwok Wai’s Wildlife Singapore: fact sheet with photos.</li>
+  <li><a href="http://iyb2010singapore.blogspot.sg/2010/12/busting-myths-about-monitors.html">Busting Myths about Monitors</a>
+by Ivan Kwan on the Celebrating Singapore’s Biodiversity blog.</li>
+  <li><a href="https://singapore.biodiversity.online/taxo4254/mainSpace/Varanus_salvator.html"><em>Varanus salvator</em></a>
+(Squamata: Varanidae) Water Monitor by Wong Li Jing, 2011 on taxo4254</li>
+  <li><a href="https://www.nparks.gov.sg/gardens-parks-and-nature/dos-and-donts/animal-advisories/monitor-lizards">Monitor lizard: Do’s and don’ts</a>
+on the NParks website</li>
+  <li><a href="https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=842"><em>Varanus salvator</em></a>
+on the NParks Flora and Faunat website.</li>
+  <li>from the wild shores of singapore blog</li>
+  <li><a href="http://wildshores.blogspot.com/2011/01/how-many-monitor-lizards-are-at-sungei.html">How many monitor lizards are at Sungei Buloh Wetland Reserve?</a></li>
+  <li><a href="http://wildshores.blogspot.sg/2012/03/when-lizard-hugs-you-what-does-it-mean.html">When lizards hug what does it mean?</a></li>
+  <li><a href="http://wildshores.blogspot.sg/2012/02/why-pasir-ris-mangroves-are-special.html">Why Pasir Ris mangroves are special</a></li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Craig Justin Tan. 29 May 2020.
+<em>Malayan water monitor preying on dog-faced water snake.</em>
+Singapore Biodiversity Records 2020: 58 ISSN 2345-7597</li>
+  <li>Marcus Ng and Robert W. Mendyk. 2012.
+<a href="https://www.researchgate.net/profile/Robert_Mendyk/publication/307973031_Predation_of_an_Adult_Malaysian_Water_monitor_Varanus_salvator_macromaculatus_by_an_Estuarine_Crocodile_Crocodylus_porosus/links/57d4d86508ae5f03b4916283.pdf?origin=publication_list">Predation of an Adult Malaysian Water monitor (
+<em>Varanus salvator macromaculatus</em>
+) by an Estuarine Crocodile (
+<em>Crocodylus porosus</em>
+)</a>
+. Biawak, 6(1), pp. 34-38, by International Varanid Interest Group.</li>
+  <li>im, Kelvin K. P. &amp; Francis L K Lim, 1992.
+<em>A Guide to the Amphibians and Reptiles of Singapore</em>
+Singapore Science Centre. 160 pp.</li>
+  <li>Baker, Nick and Kelvin Lim. 2008.
+<em>Wild Animals of Singapore: A Photographic Guide to Mammals, Reptiles, Amphibians and Freshwater Fishes</em>
+Vertebrate Study Group, Nature Society (Singapore). 180 pp.</li>
+  <li>Cox, Merel J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt. 1998.
+<em>A Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular Malaysia and Singapore</em>
+New Holland.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

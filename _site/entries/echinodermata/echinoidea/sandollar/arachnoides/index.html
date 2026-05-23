@@ -1,0 +1,532 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Cake sand dollar | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="cake, sand, dollar, arachnoides, placenta, clypeasteroida, echinoidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="../../../../Templates/fornatureguides.gif" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Echinodermata">Echinodermata</a>
+                    > 
+                    <a href="/Echinodermata/Echinoidea">Echinoidea</a>
+                    > 
+                    <a href="/Echinodermata/Echinoidea/Clypeasteroida">Clypeasteroida</a>
+                    >
+                    <a href="/Echinodermata/Echinoidea/Clypeasteroida/Clypeasterina">Clypeasterina</a>
+                    >
+                    <a href="/Echinodermata/Echinoidea/Clypeasteroida/Clypeasterina/Clypeasteridae">Clypeasteridae</a>
+                </p>
+                <h1>Cake sand dollar</h1>
+                
+                    <p class="scientific-name">Arachnoides placenta</p>
+                
+
+                <p><em>Updated Mar 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This rather featureless disk-shaped animal is commonly seen on some of our Northern shores, on sand bars and sandy areas near seagrasses. Often found in groups of large numbers of individuals, half buried in the sand. Sometimes also seen on the Southern shores.</p>
+
+<h2 id="features">Features</h2>
+
+<p>Body diameter 6-8cm. Seen in various sizes, some may be tiny (about the size of a 10cent coin). It has no slots in the body. While the star-shaped petalloid is not very obvious in living specimens, they are clearly seen in the test of a dead sand dollar. The colours of a living sand dollar may range from deep reddish-purple, to brownish-purple or beige.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/080506chgd2311m3.jpg" alt="" />
+        <div class="caption">
+        Changi, May 08
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/080506chgd2312m3.jpg" alt="" />
+        <div class="caption">
+        Underside.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/080720cjd8021m6l.jpg" alt="" />
+        <div class="caption">
+        They are often found in huge numbers. Chek Jawa, Jan 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/080506chgd2311m3a.jpg" alt="" />
+        <div class="caption">
+        Upperside.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/080506chgd2312m3a.jpg" alt="" />
+        <div class="caption">
+        Mouth on the underside.
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Dead or alive?</strong>
+Sand dollars may appear dead, but they are very much alive. A living sand dollar is covered with fine spines and appears velvety. The skeleton (test) of a dead one is smooth, without any spines, and the details of skeleton can be seen more clearly. The skeleton is fragile and will shatter at the slightest pressure.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2851m3.jpg" alt="" />
+        <div class="caption">
+        Upperside of test
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2852m3.jpg" alt="" />
+        <div class="caption">
+        Underside of test
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/090628lazd6116m3.jpg" alt="" />
+        <div class="caption">
+        Living sand dollar moving under wet sand.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2851m3a.jpg" alt="" />
+        <div class="caption">
+        Changi, Jun 06
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2852m3b.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/090628lazd6115m3.jpg" alt="" />
+        <div class="caption">
+        Living sand dollars, not moving under sand. Lazarus Island, Jun 09
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>What eats sand dollars?</strong>
+Some snails such as the
+<a href="../../../mollusca/gastropoda/cassidae/glaucum.md">Grey bonnet</a>
+are believed to feed on sand dollars. A
+<a href="../../asteroidea/protoreaster.md">Knobbly sea star</a>
+was seen with its stomach stuck to a sand dollar. A
+<a href="../../../cnidaria/actiniaria/haddoni.md">Haddon’s carpet anemone</a>
+was also seen in the process of engulfing one. Kok Sheng also shared a video clip (below) of
+<a href="../../../crustacea/othercrust/anomura/hermit/hermit.md">hermit crabs</a>
+arguing over a sand dollar. Tiny
+<a href="../../../mollusca/gastropoda/eulimidae/eulimidae.md">parasitic snails</a>
+are sometimes seen on them too.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/mollusca/gastropoda/cassidae/glaucum/110508cyrmng3m3.jpg" alt="" />
+        <div class="caption">
+        Is this Grey bonnet snail eating a sand dollar? Cyrene Reef, May 11 Photo shared by Marcus Ng on flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/asteroidea/protoreaster/110508cyrmng5m3.jpg" alt="" />
+        <div class="caption">
+        Being eaten by a Knobbly sea star ? Cyrene Reef, May 11 Photo shared by Marcus Ng on flickr .
+        </div>
+    </div>
+    
+
+</div>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/mollusca/gastropoda/eulimidae/eulimidae/110830cyrd0357m3a.jpg" alt="" />
+        <div class="caption">
+        Tiny parasitic snail on a Cake sand dollar. Cyrene, Aug 11
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/cnidaria/actiniaria/haddonieat/040218cjd0004m3.jpg" alt="" />
+        <div class="caption">
+        Cake sand dollar being swallowed by a Haddon's carpet anemone . Chek Jawa Feb 04
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Pecked to death?</strong>
+On Chek Jawa, many sand dollars are observed flipped over with their undersides broken. From the prints around the sand dollars, it seems they were flipped and pecked by birds. Strangely, some sand dollars are flipped but unpecked. Perhaps only egg-bearing females are pecked?</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/100328cjc1801m3.jpg" alt="" />
+        <div class="caption">
+        Bird footprints surround the sand dollar. Chek Jawa, Mar 10
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/100328cjc1802m3a.jpg" alt="" />
+        <div class="caption">
+        It seems birds have flipped over some and pecked out the underside.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/100328cjtsgc1803m3.jpg" alt="" />
+        <div class="caption">
+        Some are flipped but not harmed. Only egg-bearing females are pecked? Chek Jawa, Mar 10
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Status and threats:</strong>
+The Cake sand dollar is not listed among the threatened animals of Singapore. The main threat is habitat loss due to reclamation or human activities along the coast that pollute the water. Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection can also have an impact on local populations.</p>
+
+<hr />
+
+<p><strong>Cake sand dollars on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470@N00&amp;sort=date-posted-desc&amp;view_all=1&amp;text=Arachnoides placenta">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Arachnoides%2520placenta/map?&amp;fLat=1.2622&amp;fLon=103.8661&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/251011tgrlks12.jpg" alt="" />
+        <div class="caption">
+        Sentosa Tg Rimau, Oct 25 Photo shared by Loh Kok Sheng on facebook
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/160625tkkjll1.jpg" alt="" />
+        <div class="caption">
+        Pulau Tekukor, Jun 16 Photo shared by Jianlin Liu on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/090224lazlks02m3.jpg" alt="" />
+        <div class="caption">
+        Lazarus, Feb 09 Shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/200820ssismn4.jpg" alt="" />
+        <div class="caption">
+        Small Sisters Island, Aug 20 Photo shared by Marcus Ng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/110517tptlks6m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Pempang Tengah, May 11 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/091205sudd5468m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Sudong, Dec 09
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p>Filmed at East Coast Park</p>
+
+<p><a href="http://vimeo.com/9975624">Give me back my dollar!</a>
+from
+<a href="http://vimeo.com/user696199">Loh Kok Sheng</a>
+on
+<a href="https://vimeo.com">Vimeo</a>
+.</p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/">The Echinoid Directory</a>
+by Dr. Andrew B. Smith on the London Natural History Museum website: everything you could possibly want to know about sand dollars and sea urchins with lots of large close-up images and explanatory diagrams. With technical descriptions of
+<a href="http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/GENERA/CLYPEAST/CLYPINA/CLYPIDAE.jsp">Family Cylpeasteridae</a>
+and photos of dead
+<a href="http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/GENERA/CLYPEAST/CLYPINA/ARACHNO.jsp"><em>Arachnoides</em></a>
+.</li>
+  <li><em><a href="https://singapore.biodiversity.online/taxo4254/mainSpace/Arachnoides placenta.html">Arachnoides placenta</a></em>
+on Taxo4254.</li>
+  <li><a href="http://www.sealifebase.org/summary/Arachnoides-placenta.html"><em>Arachnoides placenta</em></a>
+on SeaLife Base: Technical fact sheet.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Calvin Jiah Jay Leow. 31 August 2020.
+<em>Parasitic snail, Eulima adamsii, on sand dollar Arachnoides placenta.</em>
+Singapore Biodiversity Records 2020: 127 ISSN 2345-7597</li>
+  <li>Lane, David J.W. and Didier Vandenspiegel. 2003
+<em>. A Guide to Sea Stars and Other Echinoderms of Singapore</em>
+. Singapore Science Centre. 187pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

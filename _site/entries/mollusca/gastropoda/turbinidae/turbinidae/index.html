@@ -1,0 +1,520 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Turban snails  | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="turban, turbinidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="../../../../Templates/fornatureguides.gif" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Mollusca">Mollusca</a>
+                    > 
+                    <a href="/Mollusca/Gastropoda">Gastropoda</a>
+                    > 
+                    <a href="/Mollusca/Gastropoda/Trochida">Trochida</a>
+                    >
+                    <a href="/Mollusca/Gastropoda/Trochida/"></a>
+                    >
+                    <a href="/Mollusca/Gastropoda/Trochida//Turbinidae">Turbinidae</a>
+                </p>
+                <h1>Turban snails </h1>
+                
+                    <p class="scientific-name">Family Turbinidae</p>
+                
+
+                <p><em>Updated Oct 2019</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about them ... The thick, chalky operculum resembles a cat's eye. The pretty shell is often hidden under encrusting growths. Some are threatened by over-collection.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        The thick, chalky operculum resembles a cat's eye. The pretty shell is often hidden under encrusting growths. Some are threatened by over-collection.
+        </div>
+    </div>
+    
+
+</div>
+
+<h2 id="where-seen">Where seen?</h2>
+<p>These tough snails are commonly seen on many of our rocky shores including on man-made sea walls. Smaller ones are also found under stones. Turban shells are not as well adapted to dry condictions as the
+<a href="../neritidae/neritidae.md">Nerites</a>
+and
+<a href="../littorinidae/littorinidae.md">Periwinkles</a>
+, and are thus generally found closer to the low water mark.</p>
+
+<h2 id="features">Features</h2>
+
+<p>3-5cm. In some species, the shell does resemble an elegant turban! Although the Latin ‘turbo’ actually refers to a top, the spinning toy. The shells of are sometimes covered in encrusting lifeforms so that the texture and colours are hidden.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/111002sisd2101m3.jpg" alt="" />
+        <div class="caption">
+        Sisters Island, Oct 11
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/111002sisd2100m3.jpg" alt="" />
+        <div class="caption">
+        Two different kinds of turban snails. More easily distinguished by their operculum.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/120620sntd5829m3.jpg" alt="" />
+        <div class="caption">
+        Sometimes, only the operculum is seen on the shore.
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Cat’s eye:</strong>
+In most of the common turban snails, the operculum is smooth and hemi-spherical (rounded) on the side facing outwards. This possibly makes it difficult for crabs to get a grip and pry out the snail. The shape and markings of the operculum makes it look like a cat’s eye so that is what it is sometimes called.
+Although their shells may appear boring and dull, the living animal can be in bright shades of green or blue. Under the large shell, peep little eyes and long tentacles.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/120722cyrd8426m3.jpg" alt="" />
+        <div class="caption">
+        Spurred turban snail Cyrene Reef, Jul 12
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/091008tmd2543m3.jpg" alt="" />
+        <div class="caption">
+        Dolphin shell snail Tanah Merah, Oct 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/050513labg6474m3.jpg" alt="" />
+        <div class="caption">
+        Ribbed turban snail Labrador, May 05
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Sometimes confused with</strong>
+the
+<a href="../trochidae/trochidae.md">Top shell snail</a>
+(Family Trochidae) has a more pyramidal shell and a thin operculum made of a horn-like material. While the turban shell snail has a shell with more distinct whorls and a thick, chalky operculum. Here’s more on
+<a href="../topturban.md">how to tell apart turban and top shell snails</a>
+.</p>
+
+<p><strong>What do they eat?</strong>
+Turban shells graze the algae that thrive on the rocks, scraping this off with their radula.</p>
+
+<p><strong>Human uses:</strong>
+In our region, the larger turban snails are collected for food and their mother-of-pearl shell. The large Giant green turban snail (
+<em>Turbo mamoratus</em>
+) is collected for food and its shell carved into ornaments and jewellery. In recent years, heavy commercial exploitation has depleted local populations.</p>
+
+<p><strong>Status and threats:</strong>
+The Tapestry turban shell (
+<em>Turbo petholatus</em>
+) is listed as ‘Endangered’ on the Red List of the threatened animals of Singapore. It has a smooth, brightly coloured shell in brown, green and yellow fine lines. According to the Singapore Red Data book: “Although never abundant, this species could be found up until the early 1970’s but is now extremely rare. It needs to be protected from shell collectors”.</p>
+
+<hr />
+
+<p><strong>Some Turban snails on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/050513labg6469m3a.jpg" alt="" />
+        <div class="caption">
+        Ribbed turban snail
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/050513labg6469m3b.jpg" alt="" />
+        <div class="caption">
+        Operculum smooth, green centre with white and yellow margins,
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/050513labg6477m3a.jpg" alt="" />
+        <div class="caption">
+        Spiral ribs smooth without scales.
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/080208hntd9445m3a.jpg" alt="" />
+        <div class="caption">
+        Dwarf turban snail
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/080208hntd9445m3b.jpg" alt="" />
+        <div class="caption">
+        Operculum bumpy, green centre with white and greyish margins. No yellow.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/080208hntd9446m3b.jpg" alt="" />
+        <div class="caption">
+        Spiral ribs rough with tiny scales.
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/100602tmd5119m3.jpg" alt="" />
+        <div class="caption">
+        Dolphin snail
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/090308blyd7605m3.jpg" alt="" />
+        <div class="caption">
+        Spurred turban snail
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/petholatus/150830hntd9887m3.jpg" alt="" />
+        <div class="caption">
+        Tapestry turban snail
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Family Turbinidae recorded for Singapore</strong>
+from Tan Siong Kiat and Henrietta P. M. Woo, 2010
+<em>Preliminary Checklist of The Molluscs of Singapore</em>
+.</p>
+
+<p>in red are those listed among the threatened animals of Singapore
+from
+<em>Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red Data Book: Threatened plants and animals of Singapore.</em></p>
+
+<p><strong>Family Turbinidae</strong></p>
+
+<p><em><a href="angaria.md">Angaria delphinus</a></em>
+(Dolphin snail)
+<em><a href="calcar.md">Astralium calcar</a></em>
+(Spurred turban snail)=
+<em>Astraea calcar</em>
+**</p>
+
+<p>*Guildfordia triumphans</p>
+
+<p>Liotina peronii</p>
+
+<p>Tricolia fordiana</p>
+
+<p><a href="bruneus.md">Turbo bruneus</a>*
+(Dwarf turban snail)
+*Turbo heterocheilus</p>
+
+<p><a href="intercostalis.md">Turbo intercostalis</a>*
+(Ribbed turban snail)
+*Turbo marmoratus</p>
+
+<p><a href="petholatus.md">Turbo petholatus</a>*
+(Tapestry turban snail) (EN: Endangered)</p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/133.md">Dwarf Turban Shell (
+<em>Turbo brunneus</em>
+)</a>
+Tan, Leo W. H. &amp; Ng, Peter K. L., 1988.
+<em><a href="http://mangrove.nus.edu.sg/pub/seashore/">A Guide to Seashore Life</a></em>
+. The Singapore Science Centre, Singapore. 160 pp.</li>
+  <li><a href="http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Turbinidae.html">Family Turbinidae</a>
+on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief fact sheet with photos.</li>
+  <li>
+    <dl>
+      <dt><a href="http://www.nansaidh.us/operc/index1.html">The Humble Operculum</a></dt>
+      <dd>photos and facts just some beautiful opercula of snails, many of which are turban shells, with photos also of their shells. A fascinating site.</dd>
+    </dl>
+  </li>
+  <li>Family Turbinidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+<a href="http://www.fao.org/docrep/009/w7191e/w7191e00.md">Volume 1: Seaweeds, corals, bivalves and gastropods</a>
+on the Food and Agriculture Organization of the United Nations (FAO) website.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Chan Sow Yan &amp; Leo Nguang.
+<em>Recent record of the turban snail, Turbo heterocheilus, at Changi</em>
+. 31 March 2017. Singapore Biodiversity Records 2017: 33-34 ISSN 2345-7597. National University of Singapore.</li>
+  <li>Tan Heok Hui &amp; Tan Siong Kiat. 30 May 2014.
+<em>Colour forms of the tapestry turban snail in Singapore waters, Turbo petholatus</em>
+. Singapore Biodiversity Records 2014: 148-149</li>
+  <li>Tan Siong Kiat &amp; Martyn E. Y. Low. 6 December 2013.
+<em>A record of the green turban Turbo marmoratus in Singapore</em>
+. Singapore Biodiversity Records 2013: 102-103.</li>
+  <li>Tan Siong Kiat and Henrietta P. M. Woo, 2010
+<em>Preliminary Checklist of The Molluscs of Singapore</em>
+(pdf), Raffles Museum of Biodiversity Research, National University of Singapore.</li>
+  <li>Tan, K. S. &amp; L. M. Chou, 2000.
+<em>A Guide to the Common Seashells of Singapore</em>
+. Singapore Science Centre. 160 pp.</li>
+  <li>Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+. National Council on the Environment. 163pp.</li>
+  <li>Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+<em>The Singapore Red Data Book: Threatened plants and animals of Singapore</em>
+. Nature Society (Singapore). 285 pp.</li>
+  <li>Abbott, R. Tucker, 1991.
+<em>Seashells of South East Asia</em>
+. Graham Brash, Singapore. 145 pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

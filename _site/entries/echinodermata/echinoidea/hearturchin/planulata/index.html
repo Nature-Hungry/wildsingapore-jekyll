@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Tiny maretia heart urchin | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="heart, urchin, maretia, planulata, maretiidae, spatangidae, spatangoida, echinoidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/090207smkd6372m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Echinodermata">Echinodermata</a>
+                    > 
+                    <a href="/Echinodermata/Echinoidea">Echinoidea</a>
+                    > 
+                    <a href="/Echinodermata/Echinoidea/Spatangoida">Spatangoida</a>
+                    >
+                    <a href="/Echinodermata/Echinoidea/Spatangoida/Brissidina">Brissidina</a>
+                    >
+                    <a href="/Echinodermata/Echinoidea/Spatangoida/Brissidina/Maretiidae">Maretiidae</a>
+                </p>
+                <h1>Tiny maretia heart urchin</h1>
+                
+                    <p class="scientific-name">Maretia planulata*</p>
+                
+
+                <p><em>Updated Jan 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>Small ones are sometimes seen on Pulau Semakau, in sandy areas of the coral rubble area.According to Lane, were collected subtidally at Pulau Semakau by dredging. Other larger ones are sometimes seen on Pulau Sekudu, usually only their skeletons and seldom, living ones.</p>
+
+<h2 id="features">Features</h2>
+
+<p>About 2cm, body oval mostly white. The sparse long spines directed backwards and are banded orange and white, while there are more white short spines. The petaloid is brownish with brownish patches on the upperside. On the underside, there is a pale orange patten of five petals around the mouth.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/090207smkd6372m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau, Feb 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/090207smkd6372m3b.jpg" alt="" />
+        <div class="caption">
+        A few long banded spines, many more short spines.
+        </div>
+    </div>
+    
+
+</div>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/090207smkd6364m3.jpg" alt="" />
+        <div class="caption">
+        This one seemed to have popped out of the sand, leaving a hole of the same shape.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/090207smkd6370m3.jpg" alt="" />
+        <div class="caption">
+        Side view.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/090207smkd6368m3.jpg" alt="" />
+        <div class="caption">
+        Underside.
+        </div>
+    </div>
+    
+
+</div>
+<p><em>*ID needs confirmation.</em></p>
+
+<hr />
+
+<p><strong>Tiny maretia heart urchins on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470%40N00&amp;sort=date-posted-desc&amp;view_all=1&amp;text=Maretia%20planulata">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Maretia%20planulata/map?&amp;fLat=1.2619&amp;fLon=103.8661&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/120508skdjk1m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Sekudu, May 12 Photo shared by James Koh on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/180301cyll2.jpg" alt="" />
+        <div class="caption">
+        Cyrene Reef, Apr 18 Photo shared by Liz Lim on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/090208smklksp17m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau, Feb 09 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/200111smksjll3a.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau South, Jan 20 Photo shared by Jianlin Liu on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/220201brklks10.jpg" alt="" />
+        <div class="caption">
+        Pulau Berkas, Feb 22 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://www.nhm.ac.uk/research-curation/research/projects/echinoid-directory/taxa/taxon.jsp?id=351"><em>Maretia</em></a>
+on
+<a href="http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/">The Echinoid Directory</a>
+by Dr. Andrew B. Smith on the London Natural History Museum website: everything you could possibly want to know about heart urchins with lots of large close-up images and explanatory diagrams. With technical descriptions of
+<a href="http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/taxon.jsp?id=244">Order Spatangoida</a></li>
+  <li><a href="http://www.sealifebase.org/summary/Maretia-planulata.html"><em>Maretia planulata</em></a>
+on SeaLife Base: Technical fact sheet.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Lane, David J.W. and Didier Vandenspiegel. 2003
+<em>. A Guide to Sea Stars and Other Echinoderms of Singapore</em>
+. Singapore Science Centre. 187pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

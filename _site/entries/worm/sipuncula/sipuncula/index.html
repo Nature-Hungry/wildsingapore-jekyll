@@ -1,0 +1,591 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Peanut worms | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="peanut, worm, sipuncula, sipunculida, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/070421cyrg8928m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Annelida">Annelida</a>
+                    > 
+                    <a href="/Annelida/"></a>
+                    > 
+                    <a href="/Annelida//Sipuncula">Sipuncula</a>
+                    >
+                    <a href="/Annelida//Sipuncula/"></a>
+                    >
+                    <a href="/Annelida//Sipuncula//Phascolosomatidae">Phascolosomatidae</a>
+                </p>
+                <h1>Peanut worms</h1>
+                
+                    <p class="scientific-name">Family Phascolosomatidae</p>
+                
+
+                <p><em>Updated Oct 2016</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about them ... They are smooth unsegmented worms. Common but rarely seen as they usually remain underground. The introvert is one of the interesting parts of this worm.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        They are smooth unsegmented worms. Common but rarely seen as they usually remain underground. The introvert is one of the interesting parts of this worm.
+        </div>
+    </div>
+    
+
+</div>
+
+<h2 id="where-seen">Where seen?</h2>
+<p>These pink smooth fat worms are sometimes seen on some of our shores. They are more commonly encountered in mangroves and on soft ground (silty or muddy). But also in sandy areas near seagrasses.</p>
+
+<p><strong>What are peanut worms?</strong>
+Peanut worms are unsegmented and belong to Phylum Sipuncula. There are about 300 known species of peanut worms.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/070421cyrg8928m3.jpg" alt="" />
+        <div class="caption">
+        Cyrene Reef, Apr 07
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/070421cyrg8928m3a.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/090514prpd1761m3.jpg" alt="" />
+        <div class="caption">
+        Pasir Ris, May 09
+        </div>
+    </div>
+    
+
+</div>
+<h2 id="features">Features</h2>
+
+<p>5-10cm long. Peanut worms are burrowing worm-like creatures that are sometimes seen above the ground on all our shores. When contracted, their ridged skins looks like the texture of peanut shells. Most are only a few millimeters long. Some burrow in mud, while others hide in crevices or abandoned snail shells and even in tubeworm tubes. ‘Siphunculus’ means ‘little tube’. What is unique to peanut worms is their introvert, a long tube on their front end.</p>
+
+<p>This is attached to the rest of the body, called the trunk. Like the finger of a glove, the introvert can be turned completely inside the trunk or extend out of the trunk. The mouth is at the end of the introvert, surrounded with tentacles.</p>
+
+<p>The tentacles are covered with cilia (tiny beating hairs) and mucous. Food particles are gathered with the tentacles and then either the entire introvert is withdrawn into the trunk and the food particles eaten, or cilia on the tentacles transfer the particles along tracts into the mouth. Using their introvert, peanut worms can collect food while their soft bodies remain safely hidden. Some also use their introvert to burrow. One species even uses its introvert to swim!</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/100613snglks3m6l.jpg" alt="" />
+        <div class="caption">
+        Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/100613snglks3m3.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>What do they eat?</strong>
+Most peanut worms eat detritus, most of them mopping it up from the surface. Others eat their way through the sand as they burrow, and process the edible bits in it. They have a J-shaped digestive tract with the anus in the middle of the body so that wastes are brought back up near the entrance of the burrow. One kind of peanut worm can actually pierce annelid worms and suck out their juices!</p>
+
+<p><strong>Peanut worm babies:</strong>
+Peanut worms have separate genders, releasing eggs and sperm simultaneously into the water for external fertilisation. Some have a free-swimming larval stage that can travel long distances. In others, the eggs develop directly into little peanut worms.</p>
+
+<p><strong>Human uses:</strong>
+Peanut worms were once so plentiful in Singapore that they were collected and fed to ducks.</p>
+
+<p><strong>Status and threats:</strong>
+Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors can also have an impact on local populations.</p>
+
+<hr />
+
+<p><strong>Peanut worms on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?q=Sipuncula&amp;w=54527470%40N00&amp;s=rec">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Sipuncula/map?&amp;fLat=1.2441&amp;fLon=103.851&amp;zl=10&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/020406cjd8036m3.jpg" alt="" />
+        <div class="caption">
+        Chek Jawa, Apr 02
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/031122cjd0011m3.jpg" alt="" />
+        <div class="caption">
+        Chek Jawa, Nov 03
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/080706chg7364m3.jpg" alt="" />
+        <div class="caption">
+        Changi, Jul 08
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/150122chgmn.jpg" alt="" />
+        <div class="caption">
+        Changi, Jan 15 Photo shared by Marcus Ng on flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/150122chgmna.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/090720skdmn8m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Sekudu, Jul 09 Photo shared by Marcus Ng on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/210114chg7vc1.jpg" alt="" />
+        <div class="caption">
+        Changi CP7, Jan 21 Photo shared by Vincent Choo on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/120425blys06795m3.jpg" alt="" />
+        <div class="caption">
+        Berlayar Creek, Apr 12
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/260201cyrlks2.jpg" alt="" />
+        <div class="caption">
+        Cyrene, Feb 26 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/210429hntvc9.jpg" alt="" />
+        <div class="caption">
+        Pulau Hantu, Apr 21 Photo shared by Vincent Choo on facbook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/210113smkwjll6.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau West, Jan 21 Photo shared by Jianlin Liu on facbook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/150718smkehpy2m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau East, Jul 15 Photo shared by Heng Pei Yan on facbook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/100613snglks3m6l.jpg" alt="" />
+        <div class="caption">
+        Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/100613snglks3m3.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Peanut worms seen above ground in Tanah Merah after the oil spill in May 10</strong></p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/100527tmd3597m3.jpg" alt="" />
+        <div class="caption">
+        Tanah Merah, May 10
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/100602tmd5151m3.jpg" alt="" />
+        <div class="caption">
+        Tanah Merah, Jun 10
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/100602tmd5153m3.jpg" alt="" />
+        <div class="caption">
+        Tanah Merah, Jun 10
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/100728tmd9440m3.jpg" alt="" />
+        <div class="caption">
+        Tanah Merah, Jul 10
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/100729tmd9578m3.jpg" alt="" />
+        <div class="caption">
+        Tanah Merah, Jul 10
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Phylum Sipuncula recorded for Singapore</strong>
+<strong>from Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+*from
+<a href="http://www.marinespecies.org/">WORMS</a>
+**</strong></p>
+
+<p><strong>*Family Phascolosomatidae</strong></p>
+
+<p><em>Phascolosoma arcuatum=**Phascolosoma (Phascolosoma) arcuatum</em></p>
+
+<p><strong>Family Sipunculidae</strong></p>
+
+<p><em>Dendrostomum signifer=</em>Themiste (Lagenopsis) lageniformis Themistidae (Family)</p>
+
+<p>Phascolosoma arcuatum=**Phascolosoma (Phascolosoma) arcuatum Phascolosomatidae (Family)</p>
+
+<p>Siphonosoma cumanense</p>
+
+<p>Sipunculus nudus</p>
+
+<p>Sipunculus robustus*</p>
+
+<p><strong>*Family Themistidae</strong></p>
+
+<p><em>Dendrostomum signifer=</em>Themiste (Lagenopsis) lageniformis*</p>
+
+<hr />
+
+<p>th</p>
+
+<p>edition. McGraw-Hill Book Co., Singapore. 578 pp.</p>
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/127.md">Peanut worm (Phylum Sipunculida)</a>
+Tan, Leo W. H. &amp; Ng, Peter K. L., 1988.
+<em>A Guide to Seashore Life</em>
+. The Singapore Science Centre, Singapore. 160 pp.</li>
+  <li><a href="http://mangrove.nus.edu.sg/guidebooks/text/2004.md">Peanut Worm (Sipunculids)</a>
+Ng, Peter K. L. &amp; N. Sivasothi, 1999.
+<em>A Guide to the Mangroves of Singapore II (Animal Diversity)</em>
+. Singapore Science Centre. 168 pp.</li>
+  <li><a href="http://www.mesa.edu.au/friends/seashores/worms.html">Peanut worms</a>
+on
+<a href="http://www.mesa.edu.au/friends/seashores/page1.html">Life on Australian Seashores</a>
+by Keith Davey on the Marine Education Society of Australia website: an introduction to worms including sipunculids with explanations of the major parts of their bodies and their lifestyles, and fact sheet on a peanut worm found in Australia.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>P.-W. Hsueh &amp; K. S. Tan. 29 June 2016.
+<a href="http://lkcnhm.nus.edu.sg/nus/images/data/raffles_bulletin_of_zoology/supplement34/S34rbz235-240.pdf">New records of peanut worms (Sipuncula) from Singapore</a>
+. The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part I of II). Pp. 235-240.</li>
+  <li>Ng, P. K. L. &amp; Y. C. Wee, 1994.
+<em>The Singapore Red Data Book: Threatened Plants and Animals of Singapore</em>
+. The Nature Society (Singapore), Singapore. 343 pp.</li>
+  <li>Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+. National Council on the Environment. 163pp.</li>
+  <li>Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.
+<em>Invertebrate Zoology</em>
+Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963</li>
+  <li>Pechenik, Jan A., 2005.
+<em>Biology of the Invertebrates</em>
+. 5</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

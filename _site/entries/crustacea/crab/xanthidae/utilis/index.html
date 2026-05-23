@@ -1,0 +1,496 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Saw-edged spooner crab  | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="saw, edge, spooner, crab, etisus, utilis, xanthidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/050917smkg2456m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Arthropoda">Arthropoda</a>
+                    > 
+                    <a href="/Arthropoda/Malacostraca">Malacostraca</a>
+                    > 
+                    <a href="/Arthropoda/Malacostraca/Decapoda">Decapoda</a>
+                    >
+                    <a href="/Arthropoda/Malacostraca/Decapoda/Pleocyemata">Pleocyemata</a>
+                    >
+                    <a href="/Arthropoda/Malacostraca/Decapoda/Pleocyemata/Xanthidae">Xanthidae</a>
+                </p>
+                <h1>Saw-edged spooner crab </h1>
+                
+                    <p class="scientific-name">Etisus utilis</p>
+                
+
+                <p><em>Updated Dec 2019</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This crab with distinctive saw-like teeth on the edge of its body is sometimes seen near reefs with lots of corals.</p>
+
+<h2 id="features">Features</h2>
+
+<p>Body width 4-6cm. Body somewhat circular with large teeth on the edges that resembles a saw. Pincers large with short spines and black tips. Red or reddish brown, sometimes with white patterns.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/050917smkg2456m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau, Sep 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/050917smkg2456m3b.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/050917smkg2456m3a.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+
+</div>
+
+<hr />
+
+<p><strong>Saw-edged spooner crabs on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470@N00&amp;sort=date-posted-desc&amp;view_all=1&amp;text=Etisus utilis">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Etisus%2520utilis/map?&amp;fLat=1.2629&amp;fLon=103.8654&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/250201bsislks1.jpg" alt="" />
+        <div class="caption">
+        Big Sisters Island, Feb 25 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/240512jngky2.jpg" alt="" />
+        <div class="caption">
+        Pulau Jong, May 24 Photo shared by Kelvin Yong on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/230805thntccn1.jpg" alt="" />
+        <div class="caption">
+        Terumbu Hantu, Aug 23 Photo shared by Che Cheng Neo on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/130511hntlks.JPG" alt="" />
+        <div class="caption">
+        Pulau Hantu, May 13 Photo shared by Loh Kok Sheng on flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/141011hntlks.JPG" alt="" />
+        <div class="caption">
+        Pulau Hantu, Oct 14 Photo shared by Loh Kok Sheng on flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/240623hntky2.jpg" alt="" />
+        <div class="caption">
+        Pulau Hantu, Jun 24 Photo shared by Kelvin Yong on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/201215smkelks2.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau (East), Dec 20 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/150718smkelks3m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau East, Jul 15 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/250727smkwtl1.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau (West), Jul 25 Photo shared by Tammy Lim on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/140713tsmkmn2m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Semakau, Jul 14 Photo shared by Marcus Ng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/230509tsmkmn1.jpg" alt="" />
+        <div class="caption">
+        Terumbu Semakau, May 23 Photo shared by Marcus Ng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/090920smklks.JPG" alt="" />
+        <div class="caption">
+        Pulau Semakau, Sep 09 Photo shared by Loh Kok Sheng on flickr .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/170627tbay4.jpg" alt="" />
+        <div class="caption">
+        Terumbu Bemban, Jun 17 Photo shared by Abel Yeo on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/200625tblks1.jpg" alt="" />
+        <div class="caption">
+        Terumbu Bemban, Jun 20 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/240526bbbky3.jpg" alt="" />
+        <div class="caption">
+        Beting Bemban Besar, May 24 Photo shared by Kelvin Yong on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/140811trylks.JPG" alt="" />
+        <div class="caption">
+        Terumbu Raya, Aug 14 Photo shared by Loh Kok Sheng on flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/140811tryjll3m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Raya, Aug 14 Photo shared by Jianlin Liu on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/230221tryky5.jpg" alt="" />
+        <div class="caption">
+        Terumbu Raya, Fen 23 Photo shared by Kelvin Yong on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/220503tptlks1.jpg" alt="" />
+        <div class="caption">
+        Terumbu Pempang Tengah, May 22 Photo shared by Loh Koh Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/220201brkjll3.jpg" alt="" />
+        <div class="caption">
+        Pulau Berkas, Feb 22 Photo shared by Jianlin Liu on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li>
+    <dl>
+      <dt>[Sawedged spooner (</dt>
+      <dt><em>Etisus utilis</em></dt>
+      <dt>)](http://142.103.81.136/summary/SpeciesSummary.php?genusname=Etisus&amp;speciesname=utilis)</dt>
+      <dt>on</dt>
+      <dt><a href="http://www.sealifebase.fisheries.ubc.ca/search.php">SeaLife Base</a></dt>
+      <dd>Technical fact sheet.</dd>
+    </dl>
+  </li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

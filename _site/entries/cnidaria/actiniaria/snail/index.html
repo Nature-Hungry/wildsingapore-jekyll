@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Snail-hitching  anemone | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="snail, mollusca, gastropod, anemone, paraiptasia, radiata, aiptasiidae, actiniaria, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/080507skdd2382m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Cnidaria">Cnidaria</a>
+                    > 
+                    <a href="/Cnidaria/Anthozoa">Anthozoa</a>
+                    > 
+                    <a href="/Cnidaria/Anthozoa/Actiniaria">Actiniaria</a>
+                    >
+                    <a href="/Cnidaria/Anthozoa/Actiniaria/Enthemonae">Enthemonae</a>
+                    >
+                    <a href="/Cnidaria/Anthozoa/Actiniaria/Enthemonae/Aiptasiidae">Aiptasiidae</a>
+                </p>
+                <h1>Snail-hitching  anemone</h1>
+                
+                    <p class="scientific-name">Paraiptasia radiata</p>
+                
+
+                <p><em>Updated Dec 2024</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This tiny anemone is sometimes seen stuck onto shells occupied by living snails such as
+<a href="../../mollusca/gastropoda/nassariidae/nassariidae.md">whelks</a>
+(Family Nassaridae). Sometimes also seen attached to tiny stones in silty sandy shores. They are more frequently encountered on our Northern shores, but also sometimes seen on other shores.</p>
+
+<h2 id="features">Features</h2>
+
+<p>Diameter with tentacles extended 1-1.5cm. Tentacles many, long and thin, usually transparent with white bands. On the oral disk, often fine white stripes radiating from the mouth.
+Sometimes, a pair of tentacles are of a contrasting colour so that the anemone appears to have a moustache.
+Body column brown with pale stripes. Sometimes, a single single shell may bear two or three of these anemones. When full expanded, these anemone hitch-hikers may be bigger than the snail they are riding on!</p>
+
+<p>There are also small anemones that hitch a ride on
+<a href="hermitsmall.md">a shell occupied by a hermit crab</a>
+.</p>
+
+<p><strong>Status and threats:</strong>
+As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/080507skdd2382m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Sekudu, May 08
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/110703cjd5386m3.jpg" alt="" />
+        <div class="caption">
+        Chek Jawa, Jul 11
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/110703cjd5384m3.jpg" alt="" />
+        <div class="caption">
+        Anemones stick out when snail is buried. Chek Jawa, Jul 11
+        </div>
+    </div>
+    
+
+</div>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/080718wdld7630m3.jpg" alt="" />
+        <div class="caption">
+        Woodlands, Jul 08 Woodlands, Jul 08
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/090705krjd6458m3.jpg" alt="" />
+        <div class="caption">
+        Kranji, Jul 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/090705krjd6492m6l.jpg" alt="" />
+        <div class="caption">
+        Not attached to snails. Kranji, Jul 09
+        </div>
+    </div>
+    
+
+</div>
+
+<p>**Species are difficult to positively identify without close examination.</p>
+
+<p>On this website, they are grouped by external features for convenience of display.*</p>
+
+<hr />
+
+<p><strong>Snail-hitching anemones on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470%40N00&amp;sort=date-posted-desc&amp;view_all=1&amp;text=Snail-hitching%20anemone">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/snail-hitching%2520sea%2520anemone/map?&amp;fLat=1.2626&amp;fLon=103.8661&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/mollusca/gastropoda/nassariidae/olivaceaus/180911pgldc5.jpg" alt="" />
+        <div class="caption">
+        Punggol, Sep 18 Photo shared by Dayna Cheah on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/251208chgrk6.jpg" alt="" />
+        <div class="caption">
+        Changi, Dec 25 Photo shared by Richard Kuah on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/260216cnyrqo1.jpg" alt="" />
+        <div class="caption">
+        Coney Island, Oct 26 Photo shared by Rui Quan Oh on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/090822sislks.JPG" alt="" />
+        <div class="caption">
+        Sisters Island, Aug 09 Photo shared by Loh Kok Sheng on flickr
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="https://live.staticflickr.com/2921/32974945200_26a7c5d455_z.jpg" alt="" />
+        <div class="caption">
+        Kranji, Mar 17
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="https://www.sealifebase.se/summary/Paraiptasia-radiata.html"><em>Paraiptasia radiata</em></a>
+on SeaLife Base: technical fact sheet.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.</li>
+  <li>Daphne Fautin and Roger H. Goodwill. January 2009.
+<em>Neoaiptasia morbilla new species (Cnidaria: Actiniaria), a sea anemone symbiont of sand-dwelling gastropods on Saipan, Mariana Islands, with comments on some other such associations</em>
+. Micronesica.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

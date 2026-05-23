@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Banded krait | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="snake, krait, bungarus fasciatus, elapidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fasciatus/020713cjcpd2754m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Chordata">Chordata</a>
+                    > 
+                    <a href="/Chordata/Reptilia">Reptilia</a>
+                    > 
+                    <a href="/Chordata/Reptilia/Squamata">Squamata</a>
+                    >
+                    <a href="/Chordata/Reptilia/Squamata/Serpentes">Serpentes</a>
+                    >
+                    <a href="/Chordata/Reptilia/Squamata/Serpentes/Elapidae">Elapidae</a>
+                </p>
+                <h1>Banded krait</h1>
+                
+                    <p class="scientific-name">Bungarus fasciatus</p>
+                
+
+                <p><em>Updated Oct 2016</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>Usually rarely seen, this beautiful snake was the highlight of the Chek Jawa boardwalk grand opening! The Singapore Snakes blog
+<a href="http://singaporesnakes.blogspot.com/2006/05/banded-krait-bungarus-fasciatus_29.html">also reported</a>
+swimming near mangroves on an offshore island. According to Baker, in Singapore it has also been recorded in Pulau Ubin, Pulau Tekong, Lim Chu Kang, Sungei Buloh and Khatib Bongsu. Widely distributed in Southeast Asia where it is mostly a coastal snake, but also found in peat swamps and also estates.</p>
+
+<h2 id="features">Features</h2>
+
+<hr />
+<p>1.5-2m long. The body has a triangular cross-section. It has regular black and white bands of equal size. The head is mostly black and is somewhat distinct from the body (it has a ‘neck’). The black patch on the head forms a V-shape with the first black band on the body. The tail is not flattened into a paddle shape although it is somewhat triangular like the rest of the body. A highly venomous snake with a toxin that can be fatal to humans with recorded fatalities. But is not an aggressive snake and it will not bite if it is left alone. When it is scared, it will hide its head under coils of its body. Although it has also been recorded as being active and dangerous at night. WARNING: more aggressive baby cobras (
+<em>Naja sumatrana</em>
+) have similar markings.</p>
+
+<p><strong>Sometimes confused with</strong>
+the highly venomous
+<a href="laticauda.md">Yellow-lipped sea snake</a>
+(
+<em>Laticauda colubrina</em>
+). Here’s
+<a href="cfseafile.md">how to tell apart banded snakes</a>
+seen near the coast. It may also be confused with eels. Here’s more on
+<a href="../../glossary/eelsnake.md">how to tell apart sea snakes, eels and eel-like animals</a>
+.</p>
+
+<p><strong>What does it eat?</strong>
+Mainly lizards and other snakes, as well as other small vertebrates. It considered to be mainly a coastal snake, and terrestrial. Although we have observed one hunting on the coral rubble area at Chek Jawa, investigating crevices, then swimming away in the shallow water.</p>
+
+<p><em><img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fasciatus/020713cjcpd2754m3.jpg" alt="" /></em>
+Swimming in shallow water near coral rubble.
+*Chek Jawa, Jul 02</p>
+
+<p><img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fasciatus/020713cjcpd2753m3a.jpg" alt="" />*
+Black patch on the head forms a V-shape</p>
+
+<p>with the first black band on the body.
+<em>Chek Jawa, Jul 02</em></p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fasciatus/020713cjcpd2746m6l.jpg" alt="" />
+        <div class="caption">
+        Chek Jawa, Jul 02
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Banded kraits on Singapore shores</strong></p>
+
+<hr />
+
+<p>Photos of
+<a href="https://www.flickr.com/search/?text=Bungarus%20fasciatus&amp;sort=relevance&amp;user_id=54527470%40N00">Banded kraits</a>
+for free download from
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<hr />
+
+<p>Distribution in Singapore on this
+<a href="https://www.flickr.com/photos/wildsingapore/tags/Bungarus%2520fasciatus/map?&amp;fLat=1.2622&amp;fLon=103.8661&amp;zl=11&amp;order_by=recent">wildsingapore flickr map</a></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fasciatus/070707cjlks1m6l.jpg" alt="" />
+        <div class="caption">
+        Chek Jawa, Jul 07 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+
+</div>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fasciatus/070707cjlks1m3b.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fasciatus/070707cjlks1m3a.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+
+</div>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://singaporesnakes.blogspot.com/search/label/Banded%20Krait">Banded Kraits</a>
+on the
+<a href="http://singaporesnakes.blogspot.com/">Singapore Snakes</a>
+blog: fact sheet with photos and links to local sightings and other posts.</li>
+  <li><a href="http://www.ecologyasia.com/verts/snakes/banded_krait.md">Banded Krait</a>
+on Nick Baker’s EcologyAsia website: fact sheet with photos.</li>
+  <li><a href="http://habitatnews.nus.edu.sg/index.php?entry=/marine/20070708-bungarus_fasciatus.txt">The Banded Krait that graced the launch of the Chek Jawa boardwalk</a>
+on the habitatnews blog.</li>
+  <li><a href="http://www.iucnredlist.org/details/192063/0"><em>Bungarus fasciatus</em></a>
+on the IUCN Red List.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li><em>Banded krait entering mud lobster mound at Chek Jawa</em>
+, 31 October 2019, Lim Hong Yao, Singapore Biodiversity Records 2019: 128-129 ISSN 2345-7597, National University of Singapore.</li>
+  <li>Tan Heok Hui. 1 Oct 2013.
+<a href="http://lkcnhm.nus.edu.sg/nis/sbr2013/sbr2013-002.pdf">Banded krait (
+<em>Bungarus fasciatus</em>
+) on Pulau Ubin</a>
+. Singapore Biodiversity Records 2013: 2</li>
+  <li>Lim, Kelvin K. P. &amp; Francis L K Lim, 1992.
+<em>A Guide to the Amphibians and Reptiles of Singapore</em>
+Singapore Science Centre. 160 pp.</li>
+  <li>Baker, Nick and Kelvin Lim. 2008.
+<em>Wild Animals of Singapore: A Photographic Guide to Mammals, Reptiles, Amphibians and Freshwater Fishes</em>
+Vertebrate Study Group, Nature Society (Singapore). 180 pp.</li>
+  <li>Stuebing, Robert B and Robert F. Inger. 1999.
+<em>A Field Guide to the Snakes of Borneo</em>
+Natural History Publications (Borneo). 254 pp.</li>
+  <li>Cox, Merel J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt. 1998.
+<em>A Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular Malaysia and Singapore</em>
+New Holland. pp 144.</li>
+  <li>Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+<em>The Singapore Red Data Book: Threatened plants and animals of Singapore</em>
+. Nature Society (Singapore). 285 pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Top shell snails  | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="top, trochidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="../../../../Templates/fornatureguides.gif" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Mollusca">Mollusca</a>
+                    > 
+                    <a href="/Mollusca/Gastropoda">Gastropoda</a>
+                    > 
+                    <a href="/Mollusca/Gastropoda/Trochida">Trochida</a>
+                    >
+                    <a href="/Mollusca/Gastropoda/Trochida/"></a>
+                    >
+                    <a href="/Mollusca/Gastropoda/Trochida//Trochidae">Trochidae</a>
+                </p>
+                <h1>Top shell snails </h1>
+                
+                    <p class="scientific-name">Family Trochidae</p>
+                
+
+                <p><em>Updated Sep 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>These snails with top-shaped shells are commonly seen on many of our rocky shores including man-made sea walls. Top shell snails are not as well adapted to dry conditions as the
+<a href="../neritidae/neritidae.md">Nerites</a>
+and
+<a href="../littorinidae/littorinidae.md">Periwinkles</a>
+, and are thus generally found closer to the low water mark.</p>
+
+<h2 id="features">Features</h2>
+
+<p>3-15cm. Shell thick. Some are shaped like a conical top, the spinning toy. The operculum is circular with concentric rings usually clearly visible. It is made of a thin, horn-like material and is flexible. This allows the snail to withdraw deep into the coils of the shell, hopefully out of the reach of crab pincers. The shell is sometimes covered in encrusting lifeforms. In some species, the body mantle of the living animal is fringed with long tentacles.</p>
+
+<p><strong>Sometimes confused with</strong>
+the
+<a href="../turbinidae/turbinidae.md">Turban snail</a>
+(Family Turbinidae) which has a shell with more distinct whorls and a thick, chalky operculum. While many Top snails have a more conical shell and a thin operculum made of a horn-like material. Here’s more on
+<a href="../topturban.md">how to tell apart turban and top shell snails</a>
+.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/maculatus/050513labg6457m3.jpg" alt="" />
+        <div class="caption">
+        The Spotted top shell snail has a large foot with tentacles fringing the body mantle. Labrador, May 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/050807sjig0794m3.jpg" alt="" />
+        <div class="caption">
+        The Toothed top shell snail also has a large foot with tentacles fringing the body mantle. St. John's Island, Aug 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/umbonium/120817nsrccd0110m3.jpg" alt="" />
+        <div class="caption">
+        Tiny button snails have a long mobile foot and tentacles fringing the body mantle. East Coast, Aug 12
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>What do they eat?</strong>
+Top shells graze the algae that thrive on the rocks, scraping this off with their radula.
+<strong>Human uses:</strong>
+The shell is lined with mother-of-pearl. Larger species are collected for food and their shells that are made into ornaments and pearl buttons. This is still a significant industry in some Pacific Islands and effort is being made to establish a susbtainable method of farming these snails.</p>
+
+<p><strong>Status and threats:</strong>
+<a href="umbonium.md">Button snails</a>
+are listed as ‘Vulnerable’ on the Red List of threatened animals of Singapore.</p>
+
+<hr />
+
+<p><strong>Some Top shell snails on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/maculatus/020628lazcpd0833m3.jpg" alt="" />
+        <div class="caption">
+        Spotted top shell snail
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/060716sisg6748m3.jpg" alt="" />
+        <div class="caption">
+        Toothed top shell snail
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/chrysostoma/130429jngd6403m3.jpg" alt="" />
+        <div class="caption">
+        Orange-mouth top shell snail
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/umbonium/050402cjg3983m3.jpg" alt="" />
+        <div class="caption">
+        Button snails
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Family Trochidae recorded for Singapore</strong>
+from Tan Siong Kiat and Henrietta P. M. Woo, 2010
+<em>Preliminary Checklist of The Molluscs of Singapore</em>
+.</p>
+
+<p>in red are those listed among the threatened animals of Singapore
+from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red Data Book: Threatened plants and animals of Singapore.</p>
+
+<p>^from
+<a href="http://www.marinespecies.org/">WORMS</a>
+.</p>
+
+<p>+Other additions (Singapore BIodiversity Records, etc)</p>
+
+<p><strong>Top shells seen awaiting identification</strong>
+*Species are difficult to positively identify without close examination.</p>
+
+<p>On this website, they are grouped by external features for convenience of display.*</p>
+
+<p><strong>Family Trochidae</strong></p>
+
+<p><em><a href="chrysostoma.md">Chrysostoma paradoxum</a></em>
+(Orange-mouth top shell snail)
+*Clanculus granosus=^Clanculus bronni</p>
+
+<p>Clanculus margaritarius</p>
+
+<p>Ethminolia vitiliginea*
+*Monilea callifera</p>
+
+<p>Monilea lentiginosa</p>
+
+<p>Monilea solanderi</p>
+
+<p><a href="labio.md">Monodonta labio</a>*
+(Toothed top shell snail)
+*Pseudominolia musiva</p>
+
+<p>+Stomatella impertusa</p>
+
+<p>Thalotia zebuensis</p>
+
+<p><a href="maculatus.md">Trochus maculatus</a>*
+(Spotted top shell snail)
+**
+*Trochus radiatus</p>
+
+<p>Trochus tricatenatus</p>
+
+<p><a href="umbonium.md">Umbonium vestiarium</a>*
+(Button snail) (VU: Vulnerable)</p>
+
+<p><strong>^Family Solariellidae</strong></p>
+
+<p>*Minolia biangulosa</p>
+
+<p>Minolia holdsworthana=^Pseudominolia musiva</p>
+
+<p>Minolia singaporensis*</p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/134.md">Family Trochidae</a>
+Tan, Leo W. H. &amp; Ng, Peter K. L., 1988.
+<em><a href="http://mangrove.nus.edu.sg/pub/seashore/">A Guide to Seashore Life</a></em>
+. The Singapore Science Centre, Singapore. 160 pp.</li>
+  <li><a href="http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Trochidae.html">Family Trochidae</a>
+on
+<a href="http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html">The Gladys Archerd Shell Collection</a>
+at Washington State University Tri-Cities Natural History Museum website: brief fact sheet with photos.</li>
+  <li><a href="http://seashellsofnsw.org.au/Trochidae/Pages/Trochidae_intro.md">Family Trochidae (Top Shells)</a>
+on the
+<a href="http://seashellsofnsw.org.au/index.md">The Seashells of New South Wales</a>
+website by Des Beechey Research Associate, Australian Museum: family introductions with photos of shells and detailed fact sheets for many species.</li>
+  <li>Family Trochidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+<a href="http://www.fao.org/docrep/009/w7191e/w7191e00.md">Volume 1: Seaweeds, corals, bivalves and gastropods</a>
+on the Food and Agriculture Organization of the United Nations (FAO) website.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Toh Chay Hoon, Tan Siong Kiat &amp; Martyn E. Y. Low. 10 January 2014.
+<em>A record of Stomatella impertusa in Singapore</em>
+. Singapore Biodiversity Records 2014: 19</li>
+  <li>Tan Siong Kiat and Henrietta P. M. Woo, 2010
+<em>Preliminary Checklist of The Molluscs of Singapore</em>
+(pdf), Raffles Museum of Biodiversity Research, National University of Singapore.</li>
+  <li>Tan, K. S. &amp; L. M. Chou, 2000.
+<em>A Guide to the Common Seashells of Singapore</em>
+. Singapore Science Centre. 160 pp.</li>
+  <li>Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+. National Council on the Environment. 163pp.</li>
+  <li>Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+<em>The Singapore Red Data Book: Threatened plants and animals of Singapore</em>
+. Nature Society (Singapore). 285 pp.</li>
+  <li>Abbott, R. Tucker, 1991.
+<em>Seashells of South East Asia</em>
+. Graham Brash, Singapore. 145 pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

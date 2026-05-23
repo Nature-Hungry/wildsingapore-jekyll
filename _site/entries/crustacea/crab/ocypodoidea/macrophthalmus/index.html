@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Sentinel crab | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="sentinel, crab, macrophthalmus, macrophthalmidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/050525hntg6712m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Chordata">Chordata</a>
+                    > 
+                    <a href="/Chordata/Actinopterygii">Actinopterygii</a>
+                    > 
+                    <a href="/Chordata/Actinopterygii/Acanthuriformes">Acanthuriformes</a>
+                    >
+                    <a href="/Chordata/Actinopterygii/Acanthuriformes/"></a>
+                    >
+                    <a href="/Chordata/Actinopterygii/Acanthuriformes//Macrophthalmidae">Macrophthalmidae</a>
+                </p>
+                <h1>Sentinel crab</h1>
+                
+                    <p class="scientific-name">Macrophthalmus sp.</p>
+                
+
+                <p><em>Updated Dec 2019</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This inconspicous little crab with eyes on super long stalks are sometimes seen on soft silty and muddy shores such as swimming lagoons. It builds distinctive holes which are either rectangular or oval and seldom circular.</p>
+
+<h2 id="features">Features</h2>
+
+<p>Body width 0.5-1cm. Body is flattened, squarish or somewhat rectangular. The eye stalks are long and in some species can even extend outside the sides of the body. This feature probably gave them their common name. Both pincers of equal size.
+<strong>Sometimes confused with</strong>
+<a href="uca.md">fiddler crabs</a>
+(
+<em>Uca</em>
+spp.). Sentinel crabs do not have one enlarged pincer like the fiddler crabs. Sentinel crabs are also not colourful, usually drab brown with darker mottling. Here’s more on
+<a href="cflongeyedcrabs.md">how to tell apart small crabs with long eye stalks</a>
+.</p>
+
+<p><strong>What does it eat?</strong>
+It feeds on detritus and small worms.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/050525hntg6712m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Hantu, May 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/190520hntjll3a.jpg" alt="" />
+        <div class="caption">
+        Pulau Hantu, May 19 Photo shared by Jianlin Liu on facebook .
+        </div>
+    </div>
+    
+
+</div>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/090113prpd5223m3.jpg" alt="" />
+        <div class="caption">
+        Nibbling on a worm. Pasir Ris, Jan 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/090621hntd4596m3.jpg" alt="" />
+        <div class="caption">
+        Squarish burrow opening. Pulau Hantu, Jun 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/081216prpd3404m3.jpg" alt="" />
+        <div class="caption">
+        Just moulted! Moult has transparent eyes. Pasir Ris, Dec 08
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Sentinel crabs on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470%40N00&amp;sort=date-posted-desc&amp;view_all=1&amp;text=Macrophthalmus">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Macrophthalmus/map?&amp;fLat=1.2605&amp;fLon=103.8654&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/250627bbrk10.jpg" alt="" />
+        <div class="caption">
+        Beting Bronok, Jun 25 Photo shared by Richard Kuah on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/251207hntrqo2.jpg" alt="" />
+        <div class="caption">
+        Moult with transparent eyestalks and eye Pulau Hantu, Dec 25 Photo shared by Rui Quan Oh on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/210115mevc2.jpg" alt="" />
+        <div class="caption">
+        East Coast-Marina Bay, Jan 21 Photo shared by Vincent Choo on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/130111sjilks.JPG" alt="" />
+        <div class="caption">
+        St John's Island, Jan 13 Photo shared by Loh Kok Sheng on flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/250430sjilll2.jpg" alt="" />
+        <div class="caption">
+        St John's Island, Apr 25 Photo shared by Low Liong Leong on facebook
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/100912kuslks.JPG" alt="" />
+        <div class="caption">
+        Kusu Island, Sep 10 Photo shared by Loh Kok Sheng on flickr . .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/180815bbbll1.jpg" alt="" />
+        <div class="caption">
+        Beting Bemban Besar, Aug 18 Photo shared by Liz Lim on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/210810tplvc4.jpg" alt="" />
+        <div class="caption">
+        Terumbu Pempang Laut, Aug 21 Photo shared by Vincent Choo on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Family Macrophthalmidae recorded for Singapore</strong>
+from Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+in red are those listed among the threatened animals of Singapore
+from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+<em>The Singapore Red Data Book: Threatened plants and animals of Singapore</em>
+.</p>
+
+<p><em>*from Ng, Peter K. L. &amp; N. Sivasothi, 1999.
+*A Guide to the Mangroves of Singapore II (Animal Diversity)</em></p>
+
+<p>+from The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.</p>
+
+<p><strong>Family Macrophthalmidae</strong>
+(previously Ocypodidae)</p>
+
+<p>*+Chaenostoma cf. boscii</p>
+
+<p>+Ilyograpsus sp.</p>
+
+<p>Ilyograpsus paludicola
+<a href="macrophthalmus.md">macrophthalmus.htm</a></p>
+
+<p>Macrophthalmus boscii</p>
+
+<p>Macrophthalmus brevis=Macrophthalmus dilatatus</p>
+
+<p>Macrophthalmus convexus</p>
+
+<p>Macrophthalmus crassipes</p>
+
+<p><em>*Macrophthalmus crinitus</em>
+(Little sentinel crab)</p>
+
+<p>*Macrophthalmus erato</p>
+
+<p>Macrophthalmus japonicus</p>
+
+<p>Macrophthalmus latreilllei*
+(Latreille’s sentinel crab)</p>
+
+<p><em>+Macrophthalmus milloti</em></p>
+
+<p>*Macrophthalmus pacificus</p>
+
+<p>Macrophthalmus parvimanus</p>
+
+<p>Macrophthalmus telescopicus</p>
+
+<p>Macrophthalmus travancorensis*</p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://mangrove.nus.edu.sg/guidebooks/text/2055.md">Sentinel crabs (
+<em>Macrophthalmus</em>
+spp.)</a>
+Ng, Peter K. L. &amp; N. Sivasothi, 1999.
+<em><a href="http://mangrove.nus.edu.sg/guidebooks/">A Guide to the Mangroves of Singapore II (Animal Diversity)</a></em>
+. Singapore Science Centre. 168 pp.</li>
+  <li><em><a href="http://species-identification.org/species.php?species_group=crabs_of_japan&amp;id=1670">Ilyograpsus paludicola</a></em>
+and
+<em><a href="http://species-identification.org/species.php?species_group=crabs_of_japan&amp;id=1806&amp;menuentry=soorten">Macrophthalmus boscii</a></em>
+and
+<a href="http://species-identification.org/species.php?species_group=crabs_of_japan&amp;id=1793&amp;menuentry=soorten"><em>Macrophthalmus brevis</em></a>
+and
+<a href="http://species-identification.org/species.php?species_group=crabs_of_japan&amp;id=1808&amp;menuentry=soorten"><em>Macrophthalmus erato</em></a>
+and
+<a href="http://species-identification.org/species.php?species_group=crabs_of_japan&amp;id=1796&amp;menuentry=soorten"><em>Macrophthalmus japonicus</em></a>
+and
+<a href="http://species-identification.org/species.php?species_group=crabs_of_japan&amp;id=1797">Latreille’s sentinel crab (
+<em>Macrophthalmus latreillei</em>
+)</a>
+and
+<a href="http://species-identification.org/species.php?species_group=crabs_of_japan&amp;id=1804&amp;menuentry=soorten"><em>Macrophthalmus pacificus</em></a>
+in Crabs of Japan on Marine Species Identification Portal.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
+<em>Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs of the world</em>
+. The Raffles Bulletin of Zoology. Supplement No. 17, 31 Jan 2008. 286 pp.</li>
+  <li>Jones Diana S. and Gary J. Morgan, 2002.
+<em>A Field Guide to Crustaceans of Australian Waters</em>
+. Reed New Holland. 224 pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

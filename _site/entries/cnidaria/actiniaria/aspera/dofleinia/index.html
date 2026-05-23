@@ -1,0 +1,492 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Glass anemone | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="glass, anemone, dofleinia, actiniidae, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/100614bbd5984m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Cnidaria">Cnidaria</a>
+                    > 
+                    <a href="/Cnidaria/Anthozoa">Anthozoa</a>
+                    > 
+                    <a href="/Cnidaria/Anthozoa/Actiniaria">Actiniaria</a>
+                    >
+                    <a href="/Cnidaria/Anthozoa/Actiniaria/Enthemonae">Enthemonae</a>
+                    >
+                    <a href="/Cnidaria/Anthozoa/Actiniaria/Enthemonae/Actiniidae">Actiniidae</a>
+                </p>
+                <h1>Glass anemone</h1>
+                
+                    <p class="scientific-name">Dofleinia sp.</p>
+                
+
+                <p><em>Updated Nov 2019</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This beautiful anemone resembles blown glass and is sometimes seen on sand and near seagrasses on some of our shores.</p>
+
+<h2 id="features">Features</h2>
+
+<p>Diameter with tentacles extended 20cm or more. The oral disk 5-8cm in diameter. Tentacles not many. One ring of about 20 long tentacles (10-20cm), another ring of about the same number of shorter tentacles (length about the diameter of the oral disk). The transparent tentacles and oral disk are covered with tiny bumps that are white, sometimes reddish. In some, the bumps are densely grouped. There is a black-and-white ring on the base of the longer tentacles where they attach to the oral disk. The mouth is ringed by white spots. The body column is smooth almost transparent with regular wide smooth fluted ridges along the column length. It does not seem to have bumps (verrucae).</p>
+
+<p>The Striped or Armed Anemone (
+<em>Dofleinia armata</em>
+) found in Australia is considered extremely dangerous as it can inflict painful stings that take months to heal.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/dofleinia/100614bbd5984m3.jpg" alt="" />
+        <div class="caption">
+        Beting Bronok, Jun 10 Rings of long tentacles and short tentacles.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/dofleinia/050821bbg1882m3.jpg" alt="" />
+        <div class="caption">
+        Beting Bronok, Aug 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/dofleinia/060625bbd3345m3.jpg" alt="" />
+        <div class="caption">
+        Beting Bronok, Jun 06
+        </div>
+    </div>
+    
+
+</div>
+
+<hr />
+
+<p><strong>Glass anemones on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470%40N00&amp;sort=date-posted-desc&amp;view_all=1&amp;text=Dofleinia">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/dofleinia/map?&amp;fLat=1.2626&amp;fLon=103.8661&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/dofleinia/180518chg1jll.jpg" alt="" />
+        <div class="caption">
+        Changi, May 18 Photo shared by Jianlin Liu on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/dofleinia/171204chglks4.jpg" alt="" />
+        <div class="caption">
+        Changi, Dec 17 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/dofleinia/190801chgjll1.jpg" alt="" />
+        <div class="caption">
+        Caught a small fish! Changi, Aug 19 Photo shared by Jianlin Liu on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/dofleinia/210531chg6jt2.jpg" alt="" />
+        <div class="caption">
+        Changi Carpark 6, May 21 Photo shared by Jonathan Tan on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/dofleinia/230605chg7lks4.jpg" alt="" />
+        <div class="caption">
+        Changi Carpark 7, Jun 23 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/dofleinia/121216ubnlks.JPG" alt="" />
+        <div class="caption">
+        Pulau Ubin, Dec 12 Photo shared by Loh Kok Sheng on flickr .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/dofleinia/200706skdlks1.jpg" alt="" />
+        <div class="caption">
+        Pulau Sekudu, Jul 20 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/dofleinia/170626skdtch1.jpg" alt="" />
+        <div class="caption">
+        Pulau Sekudu, Jun 17 Photo shared by Toh Chay Hoon on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/dofleinia/160706skdrl1.jpg" alt="" />
+        <div class="caption">
+        Pulau Sekudu, Jul 16 Photo shared by Russel Low on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/dofleinia/140613skdlks.JPG" alt="" />
+        <div class="caption">
+        Pulau Sekudu, Jun 14 Photo shared by Loh Kok Sheng on flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/dofleinia/180617skdlks1.jpg" alt="" />
+        <div class="caption">
+        Pulau Sekudu, Jun 18 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/dofleinia/180616bbtch1.jpg" alt="" />
+        <div class="caption">
+        Beting Bronok, Jun 18 Photo shared by Toh Chay Hoon on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/dofleinia/210529ecpgtch4.jpg" alt="" />
+        <div class="caption">
+        East Coast Park (G), May 21 Photo shared by Toh Chay Hoon on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/dofleinia/210628ecpBrk2.jpg" alt="" />
+        <div class="caption">
+        East Coast Park (B), Jun 21 Photo shared by Richard Kuah on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/dofleinia/110606cyrlks1.JPG" alt="" />
+        <div class="caption">
+        Cyrene Reef, Jun 11
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/dofleinia/110606cyrlks1a.jpg" alt="" />
+        <div class="caption">
+        Photo shared by Loh Kok Sheng on flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/dofleinia/110606cyrlks4.JPG" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/dofleinia/130810cyrlks.JPG" alt="" />
+        <div class="caption">
+        Cyrene Reef, Aug 13
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/dofleinia/130810cyrlks2.JPG" alt="" />
+        <div class="caption">
+        Photo shared by Loh Kok Sheng on flickr .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://hercules.kgs.ku.edu/Hexacoral/Anemone2/supraspecific_detail.cfm?taxon=Dofleinia&amp;namesearched=Dofleinia&amp;genus=Dofleinia&amp;subgenus=&amp;correctgenus=Dofleinia&amp;correctsubgenus="><em>Dofleinia</em></a>
+on the
+<a href="http://hercules.kgs.ku.edu/Hexacoral/Anemone2/">Hexacorallians of the World</a>
+website by Dr Daphne Fautin with classification, distribution, biological associations and more.</li>
+  <li><a href="http://deh.gov.au/cgi-bin/species-bank/sbank-treatment.pl?id=81299">Striped Anemone (
+<em>Dofleinia armata</em>
+)</a>
+on the Australian Biological Resources Study website: photo, distribution, features, ecology, interaction with humans, other comments.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Erhardt, Harry and Daniel Knop. 2005.
+<em>Corals: Indo-Pacific Field Guide</em>
+IKAN-Unterwasserachiv, Frankfurt. 305 pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

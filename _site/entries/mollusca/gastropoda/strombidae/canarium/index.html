@@ -1,0 +1,515 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Gong-gong or Pearl conch | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="gong, pearl, spider, conch, strombus, turturella, canarium, strombidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/canarium/041114kusd8273m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/"></a>
+                    > 
+                    <a href="//"></a>
+                    > 
+                    <a href="///"></a>
+                    >
+                    <a href="////"></a>
+                    >
+                    <a href="/////Strombidae">Strombidae</a>
+                </p>
+                <h1>Gong-gong or Pearl conch</h1>
+                
+                    <p class="scientific-name">Strombus turturella</p>
+                
+
+                <p><em>Updated Sep 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about them ... A lively snail that hops instead of creeping along the surface. Many of its features are adaptations to this hopping lifestyle: flared shell, large eyes. It is edible, but who could eat such a cute little snail!
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        A lively snail that hops instead of creeping along the surface. Many of its features are adaptations to this hopping lifestyle: flared shell, large eyes. It is edible, but who could eat such a cute little snail!
+        </div>
+    </div>
+    
+
+</div>
+<h2 id="where-seen">Where seen?</h2>
+<p>This delightful ‘fat’ little conch snail is often seen on many of our shores, on silty and sandy areas with good seagrass growths. Although large, these snails are well camouflaged. It was previously known as
+<em>Strombus canarium</em>
+. ‘Canarium’ means ‘dog’ in Latin, and it is sometimes also called the Dog conch.</p>
+
+<h2 id="features">Features</h2>
+
+<p>6-7cm, elsewhere up to 10cm. Shell thick heavy, lip flared. The flared shell protects the long proboscis as the animal sweeps the bottom for titbits. Upperside smooth and usually covered in sediments and sometimes, living plants and animals. Sometimes, the seaweeds growing on a Gong-gong shell becomes larger than the shell! Shell opening pearly white sometimes gold. Body olive green. Large eyes on eyestalks, each eyestalk has a tentacle, the purpose of which is not known. Like other conch snails, it hops using the knife-like operculum at the tip of a long muscular foot.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/canarium/041114kusd8273m3.jpg" alt="" />
+        <div class="caption">
+        Kusu Island, Nov 04
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/canarium/111212tmnbs00821m3.jpg" alt="" />
+        <div class="caption">
+        Hopping along Tanah Merah, Dec 11
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/canarium/090807tmd8499m3.jpg" alt="" />
+        <div class="caption">
+        Highly extendable proboscis. Tanah Merah, Aug 09
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Gong-gong babies:</strong>
+Gong-gong may gather in groups to mate and lay eggs - in fine long strings. Females are said to be larger than males. Young snails may not have a flared portion of the shell, or if they do, this portion is much thinner than in an adult.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/canarium/120424tmnbd0610m6l.jpg" alt="" />
+        <div class="caption">
+        Mating and laying egg string. Tanah Merah, Apr 12
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/canarium/100728tmd9438m3b.jpg" alt="" />
+        <div class="caption">
+        Egg string. Tanah Merah, Jul 10
+        </div>
+    </div>
+    
+
+</div>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/canarium/080702prpd6396m3.jpg" alt="" />
+        <div class="caption">
+        A young snail with a thin shell that hasn't fully developed a flared portion yet. Pasir Ris Park, Jul 08
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/canarium/140812chg4d8590m3.jpg" alt="" />
+        <div class="caption">
+        Harvesting Gong-gong, dragging box behind. Changi, Aug 14
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/canarium/140812chg4d8600.jpg" alt="" />
+        <div class="caption">
+        Gong-gong in the box dragged behind. Changi, Aug 14
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Human uses:</strong>
+Where common it is commercially harvested for food in many parts of Southeast Asia. In the Philippines, the shells are traditionally used by fishermen as sinkers for nets.</p>
+
+<p><strong>Status and threats:</strong>
+Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection can also have an impact on local populations.</p>
+
+<hr />
+
+<p><strong>Gong-gong on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470%40N00&amp;sort=date-taken-desc&amp;view_all=1&amp;text=Strombus%20turturella">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Strombus%2520turturella/map?&amp;fLat=1.2622&amp;fLon=103.8661&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/canarium/151127cnylks3.JPG" alt="" />
+        <div class="caption">
+        Coney Island, Nov 15 Photo shared by Loh Kok Sheng on flickr .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/canarium/081214ecmlks05m3.jpg" alt="" />
+        <div class="caption">
+        East Coast, Dec 08 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/canarium/090819ecpmn1m3.jpg" alt="" />
+        <div class="caption">
+        East Coast, Dec 08 Photo shared by Marcus Ng on his flick .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/canarium/171108ecpmblks13.jpg" alt="" />
+        <div class="caption">
+        East Coast-Marina Bay, Nov 17 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/canarium/251108ecpblks13.jpg" alt="" />
+        <div class="caption">
+        East Coast Park (B), Nov 25 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/canarium/151001blylks3m3.jpg" alt="" />
+        <div class="caption">
+        Berlayar Creek, Oct 15 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/canarium/160208smksjll1.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau South, Feb 16 Photo shared by Jianlin Liu on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/canarium/151225tsmkmn5m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Semakau, Dec 15 Photo shared by Marcus Ng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/canarium/110517tptlks13m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Pempang Tengah, May 11 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/canarium/100810snglks1m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Senang, Aug 10 Photo shared by Loh Kok Sheng on his flickr .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p>Gong-gong using its pointed operculum to turn itself over, filmed on Changi, May 07</p>
+
+<p>Shared by Loh Kok Sheng on
+<a href="http://wondercreation.blogspot.com/2007/05/good-morning-changi.html">his blog</a>
+.</p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&amp;l=ur2&amp;o=1" alt="" />
+        <div class="caption">
+        Links Dog conch ( Strombus canarium ) on SeaLife Base: Technical fact sheet. Dog conch ( Strombus canarium ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific Volume 1: Seaweeds, corals, bivalves and gastropods on the Food and Agriculture Organization of the United Nations (FAO) website. References Tan Siong Kiat and Henrietta P. M. Woo, 2010 Preliminary Checklist of The Molluscs of Singapore (pdf), Raffles Museum of Biodiversity Research, National University of Singapore. Tan, K. S. &amp; L. M. Chou, 2000. A Guide to the Common Seashells of Singapore . Singapore Science Centre. 160 pp. Abbott, R. Tucker, 1991. Seashells of South East Asia . Graham Brash, Singapore. 145 pp.
+        </div>
+    </div>
+    
+
+</div>
+<p>#EndEditable</p>
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://www.sealifebase.org/Summary/speciesSummary.php?ID=86874">Dog
+conch (<em>Strombus canarium</em>)</a> on SeaLife Base: Technical
+fact sheet.</li>
+  <li>Dog conch
+(<em>Strombus canarium</em>) in the Gastropods section by J.M. Poutiers
+in the FAO Species Identification Guide for Fishery Purposes:
+The Living Marine Resources of the Western Central Pacific <a href="http://www.fao.org/docrep/009/w7191e/w7191e00.htm">Volume
+1: Seaweeds, corals, bivalves and gastropods</a> on the Food and
+Agriculture Organization of the United Nations (FAO) website.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Tan Siong
+Kiat and Henrietta P. M. Woo, 2010 <em>Preliminary
+Checklist of The Molluscs of Singapore</em> (pdf), Raffles
+Museum of Biodiversity Research, National University of Singapore.</li>
+  <li>Tan, K. S.
+&amp; L. M. Chou, 2000. <em>A
+Guide to the Common Seashells of Singapore</em>. Singapore
+Science Centre. 160 pp.</li>
+  <li>Abbott, R.
+Tucker, 1991. *Seashells</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

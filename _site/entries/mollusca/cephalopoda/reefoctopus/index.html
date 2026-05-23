@@ -1,0 +1,728 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Reef octopus | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="octopus, octopodidae, mollusc, cephalopod, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/040507rlhad0030m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Mollusca">Mollusca</a>
+                    > 
+                    <a href="/Mollusca/Cephalopoda">Cephalopoda</a>
+                    > 
+                    <a href="/Mollusca/Cephalopoda/Octopoda">Octopoda</a>
+                    >
+                    <a href="/Mollusca/Cephalopoda/Octopoda/Incirrata">Incirrata</a>
+                    >
+                    <a href="/Mollusca/Cephalopoda/Octopoda/Incirrata/Octopodidae">Octopodidae</a>
+                </p>
+                <h1>Reef octopus</h1>
+                
+                    <p class="scientific-name">Family Octopodidae</p>
+                
+
+                <p><em>Updated May 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This active and colourful animal is the most commonly seen octopus near our reefs and coral rubble areas. It is frequently encountered on many of our Southern shores and it is a rare night visit where one is not seen in a suitable habitat. It is more active at night.</p>
+
+<h2 id="features">Features</h2>
+
+<p>Head about 5-8cm long, arms may be 15-30cm long. Arms tapering. Webbing extends to about half the arm’s length. It can change colours and the texture of the skin.</p>
+
+<p><strong>Mimicking other sea creatures?</strong>
+Some octopuses on the Northern shores were seen with their arms arranged to form a flat profile as they moved over the sand. Were they mimicking a flatfish? Or is this just a convenient way to move when you have that many arms? There’s a lot we have yet to learn about these amazing animals.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/040507rlhad0030m3.jpg" alt="" />
+        <div class="caption">
+        Raffles Lighthouse, May 04
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/040703sisd1656m3.jpg" alt="" />
+        <div class="caption">
+        This octopus changed both its colour... Sisters Island, Jul 04
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/040703sisd1659m3.jpg" alt="" />
+        <div class="caption">
+        ... and texture!
+        </div>
+    </div>
+    
+
+</div>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/081016cyrd0036m3.jpg" alt="" />
+        <div class="caption">
+        Using jet propulsion to move. Cyrene Reef, Oct 08
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/040801hntd3776m3.jpg" alt="" />
+        <div class="caption">
+        Using web as a net to trap prey. Pulau Hantu, Aug 04
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/060501labd1608m3a.jpg" alt="" />
+        <div class="caption">
+        Web spreading out along the sides of the tentacle. Labrador, May 06
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/120330cyrd4840m3.jpg" alt="" />
+        <div class="caption">
+        Inking - octopus is perfectly camouflaged with the sand. Cyrene, Mar 12
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/120330cyrd4840.jpg" alt="" />
+        <div class="caption">
+        The ink coagulated a distance away, distracting from the octopus. Cyrene, Mar 12
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/050720sntd5063m6la.jpg" alt="" />
+        <div class="caption">
+        A pair of mating octopuses, one pale and the other dark. Sentosa, Jul 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/050113sntg2841m3.jpg" alt="" />
+        <div class="caption">
+        The arms can stretch out to great length! Sentosa, Jan 05
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/050822cjg2201m3.jpg" alt="" />
+        <div class="caption">
+        Tentacles arranged to form a flat profile. Mimicking a flatfish? Chek Jawa, Aug 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/040521sntbd0090m3.jpg" alt="" />
+        <div class="caption">
+        Head formed into a cone shape. Mimicking a snail? Sentosa, May 04
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/070531sisg9655m3.jpg" alt="" />
+        <div class="caption">
+        Hidden among bumpy hard coral. Sisters Island, May 07
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/251011ssisyls4.jpg" alt="" />
+        <div class="caption">
+        Grabbing a Mojarra fish larger than itself! Small Sisters Island, Oct 25 Photo shared by Yan Le Su on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<p>**Species are difficult to positively identify without close examination.</p>
+
+<p>On this website, they are grouped by external features for convenience of display.*</p>
+
+<hr />
+
+<p><strong>Reef octopuses on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470@N00&amp;sort=date-posted-desc&amp;view_all=1&amp;text=Reef octopus">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/%2522Reef%2520octopus%2522/map?&amp;fLat=1.2626&amp;fLon=103.8661&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/171205ubnay3.jpg" alt="" />
+        <div class="caption">
+        Pulau Ubin, Dec 17 Photo shared by Abel Yeo on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/210115mevc1.jpg" alt="" />
+        <div class="caption">
+        East Coast-Marina Bay, Jan 21 Photo shared by Vincent Choo on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/251108ecpblks2a.jpg" alt="" />
+        <div class="caption">
+        East Coast Park (B), Nov 25 Photo shared by Loh Kok Sheng on facebook
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/251108ecpblks2b.jpg" alt="" />
+        <div class="caption">
+        East Coast Park (B), Nov 25 Photo shared by Loh Kok Sheng on facebook
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/251208meky5.jpg" alt="" />
+        <div class="caption">
+        Marina East, Dec 2025 Photo shared by Kelvin Yong on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/101107tburrl.jpg" alt="" />
+        <div class="caption">
+        Terumbu Buran, Nov 10 Photo shared by Russel Low on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/110220lazrl8m3.jpg" alt="" />
+        <div class="caption">
+        Lazarus Island, Feb 11 Photo shared by Russel Low on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/241019lazmn1.jpg" alt="" />
+        <div class="caption">
+        Lazarus Island, Oct 24 Photo shared by Marcus Ng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/160410blylks3.jpg" alt="" />
+        <div class="caption">
+        Berlayar Creek, Apr 16 Photo shared by Loh Kok Sheng on flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/200210blylks9.jpg" alt="" />
+        <div class="caption">
+        Berlayar Creek, Feb 20 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/201116lazvc3.jpg" alt="" />
+        <div class="caption">
+        Lazarus Island, Nov 20 Photo shared by Vincent Choo on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/110619tslgnml4m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Selegie, Jun 11 Photo shared by Neo Mei Lin on her blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/250726cymn1.jpg" alt="" />
+        <div class="caption">
+        Cyrene, Jul 25 Photo shared by Marcus Ng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/110522bbblks9m3.jpg" alt="" />
+        <div class="caption">
+        Beting Bemban Besar, May 11 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/110717tblks7m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Bemban, Jul 11 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/100629tpdjk12m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Pempang Darat, Jun 10 Photo shared by James Koh on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/250712tpljt1.jpg" alt="" />
+        <div class="caption">
+        Terumbu Pempang Laut, Jul 25 Photo shared by Jonathan Tan on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/110423tpllks8m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Pempang Laut, Apr 11 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/091204pawd5397m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Pawai, Dec 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/091204pawd5399m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Pawai, Dec 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/091205sudd5529m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Sudong, Dec 09
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/210428slulks7.jpg" alt="" />
+        <div class="caption">
+        Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/100613sngd5617m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Senang, Jun 10
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/100810sngd9893m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Senang, Aug 10
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/100613sngtch3m6l.jpg" alt="" />
+        <div class="caption">
+        Mating octopuses Pulau Senang, Jun 10 Photo shared by Toh Chay Hoon on her flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/220102biotch2.jpg" alt="" />
+        <div class="caption">
+        Pulau Biola, Jan 22 Photo shared by Toh Chay Hoon on facebook.
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="https://live.staticflickr.com/884/40662732505_3f8c8fbf90_z.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="https://live.staticflickr.com/420/19828041741_dd2b6bcdae_z.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p>shared by Neo Mei Lin on
+<a href="http://psychedelic-nature.blogspot.com/2011/11/videos-molluscs-on-our-shores.html">her blog</a></p>
+
+<hr />
+
+<p>Filmed on Pulau Hantu, 2008</p>
+
+<p>see how it changes colours!</p>
+
+<p><a href="https://vimeo.com/1296379">octopus surprise @ hantu</a>
+from
+<a href="https://vimeo.com/sgbeachbum">SgBeachBum</a>
+on
+<a href="https://vimeo.com">Vimeo</a>
+.</p>
+
+<hr />
+
+<p>Filmed on Terumbu Raya on 9 Feb 09</p>
+
+<p><a href="https://vimeo.com/3238307">octopus @ terumbu raya 09Feb2009</a>
+from
+<a href="https://vimeo.com/sgbeachbum">SgBeachBum</a>
+on
+<a href="https://vimeo.com">Vimeo</a>
+.</p>
+
+<hr />
+
+<p>Filmed on Pulau Hantu, Jan 11</p>
+
+<p><a href="https://vimeo.com/19068697">octopus escape @ Pulau Hantu 22Jan2011</a>
+from
+<a href="https://vimeo.com/sgbeachbum">SgBeachBum</a>
+on
+<a href="https://vimeo.com">Vimeo</a>
+.</p>
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

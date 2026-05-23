@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Pocilloporid corals  | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="pocilloporidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/050625labg8603m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Cnidaria">Cnidaria</a>
+                    > 
+                    <a href="/Cnidaria/Anthozoa">Anthozoa</a>
+                    > 
+                    <a href="/Cnidaria/Anthozoa/Scleractinia">Scleractinia</a>
+                    >
+                    <a href="/Cnidaria/Anthozoa/Scleractinia/"></a>
+                    >
+                    <a href="/Cnidaria/Anthozoa/Scleractinia//Pocilloporidae">Pocilloporidae</a>
+                </p>
+                <h1>Pocilloporid corals </h1>
+                
+                    <p class="scientific-name">Family Pocilloporidae</p>
+                
+
+                <p><em>Updated Nov 2019</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>The
+<a href="pocillopora.md">Cauliflower coral</a>
+(
+<em>Pocillopora</em>
+sp.) is commonly seen on many of our Southern reefs.</p>
+
+<p>Members of the Family Pocilloporidae are considered the second-largest contributors to reef formations although they have relatively few species. They are most active and found in greatest numbers in shallow waters with strong waves. They reproduce easily by fragmentation, the fragments surviving stress well in nature.</p>
+
+<p><strong><em>Seriatopora</em></strong>
+<strong>sp.</strong>
+Colonies form compact bush-like shapes (arborescent), many have thin branches with pointed tips. Often the branches intertwine and fuse to form a cage-like skeleton. This genus is distinguished by the neat rows of corallites on the branches.</p>
+
+<p><strong><em>Stylophora</em></strong>
+<strong>sp.</strong>
+Colonies may be branched, with thick branches that may be rounded or flattened; or form lumpy shapes (sub-massive). The corallites are embedded in the skeleton and may be hooded with small conical spines called spinules. The polyps are small. These corals are fast growing and adapt well to a wide range of conditions.</p>
+
+<p><strong>Living with pocilloporids:</strong>
+Some shrimps and crabs live with
+<em>Pocillopora</em>
+corals. While most just shelter among the corals, some of these eat the polyps. Some crabs live only with
+<em>Seriatopora</em>
+corals. In one species of crab, the female intentionally traps herself inside a cage of living coral branches and waits for the small male crab to find and mate with her. Some damselfishes shelter in
+<em>Stylophora</em>
+corals. In turn, it is believed the coral benefits from the waste materials of the fish as corals with these fishes have been found to grow much faster.</p>
+
+<p><strong>Human Uses:</strong>
+Many pocilloporid species are harvested for sale as souvenirs. Being tough,
+<em>Pocillopora</em>
+coral are often kept in captivity and used in laboratory conditions. They are sometimes called the coral guinea pigs. They are among the best studied corals.</p>
+
+<p><strong>Status and threats:</strong>
+Some members of the Family Pocilloporidae recorded for Singapore are listed as globally Near Threatened
+<a href="http://www.iucnredlist.org/apps/redlist/details/133453/0">by the IUCN</a>
+. Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors, and over-collection also have an impact on local populations.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/050625labg8603m3.jpg" alt="" />
+        <div class="caption">
+        Labrador, Jun 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/050625labg8606m3.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/crustacea/crab/trapezioidea/redcoral/100711cyrd8229m3a.jpg" alt="" />
+        <div class="caption">
+        Red coral crab in bleaching Cauliflower coral. Cyrene Reef, Jul 10
+        </div>
+    </div>
+    
+
+</div>
+
+<hr />
+
+<p><strong>Family Pocilloporidae recorded for Singapore</strong></p>
+
+<p>from Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
+<em>An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new records</em></p>
+
+<p>**the species found on many shores in Danwei’s paper.</p>
+
+<p>in red are those listed as threatened
+on the
+<a href="www.iucnredlist.org/">IUCN global list</a>
+.</p>
+
+<p><strong>Family Pocilloporidae</strong></p>
+
+<p><em><a href="pocillopora.md">Pocillopora</a></em>
+<a href="pocillopora.md">sp.</a>
+(Cauliflower coral) with list of species recorded for Singapore
+<em>Seriatopora hystrix</em>
+(Thin birdnest coral)
+<em>Stylophora pistillata</em>
+(Smooth cauliflower coral) (Near Threatened)</p>
+
+<hr />
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://www.coralsoftheworld.org/page/home/">Corals of the World</a>
+with species factsheets.</li>
+  <li><a href="https://www.iucnredlist.org/">IUCN Red List of Threatened Species</a>
+with species factsheets.</li>
+  <li><a href="http://species-identification.org/species.php?species_group=corals&amp;id=113&amp;menuentry=groepen">Family Pocilloporidae</a>
+on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal: Technical fact sheet.</li>
+  <li><a href="http://www.iucnredlist.org/apps/redlist/search">Family Pocilloporidae</a>
+(enter Pocilloporidae in search bar) on the IUCN Red List of Threatened Species website: Technical fact sheet.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
+<em>An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new records</em>
+(pdf). Raffles Bulletin of Zoology Supplement No. 22: 69-80.</li>
+  <li>Veron, Jen. 2000.
+<em>Corals of the World</em>
+Australian Institute of Marine Science, Australia. 3 volumes.</li>
+  <li>Chou, L. M., 1998.
+<em>A Guide to the Coral Reef Life of Singapore</em>
+. Singapore Science Centre. 128 pages.</li>
+  <li>Erhardt, Harry and Daniel Knop. 2005.
+<em>Corals: Indo-Pacific Field Guide</em>
+IKAN-Unterwasserachiv, Frankfurt. 305 pp.</li>
+  <li>Borneman, Eric H. 2001.
+<em>Aquarium Corals: Selection, Husbandry and Natural History</em>
+T.F. H Publications. 464 pp</li>
+  <li>Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+. National Council on the Environment. 163pp.</li>
+  <li>Ng, P. K. L. &amp; Y. C. Wee, 1994.
+<em>The Singapore Red Data Book: Threatened Plants and Animals of Singapore</em>
+. The Nature Society (Singapore), Singapore. 343 pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

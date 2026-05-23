@@ -1,0 +1,524 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Pipefishes  | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="pipefish, pipe, fish, syngnathidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/seagrass/071001chgd6784m6la.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Chordata">Chordata</a>
+                    > 
+                    <a href="/Chordata/Actinopterygii">Actinopterygii</a>
+                    > 
+                    <a href="/Chordata/Actinopterygii/Syngnathiformes">Syngnathiformes</a>
+                    >
+                    <a href="/Chordata/Actinopterygii/Syngnathiformes/Syngnathoidei">Syngnathoidei</a>
+                    >
+                    <a href="/Chordata/Actinopterygii/Syngnathiformes/Syngnathoidei/Syngnathidae">Syngnathidae</a>
+                </p>
+                <h1>Pipefishes </h1>
+                
+                    <p class="scientific-name">Family Syngnathidae</p>
+                
+
+                <p><em>Updated Oct 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about them ... They have bones inside as well as outside. The male carries the eggs. They are hard to spot and can't move fast. Watch your step or you might step on one!
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        They have bones inside as well as outside. The male carries the eggs. They are hard to spot and can't move fast. Watch your step or you might step on one!
+        </div>
+    </div>
+    
+
+</div>
+
+<h2 id="where-seen">Where seen?</h2>
+<p>A cousin of the more famous seahorse, these extremely well camouflaged fishes are often mistaken for roots and overlooked. Particularly as they often lie motionless among the seagrasses and seaweeds. Pipefishes are seen on many of our shores. In the North, they appear to be seasonally common. They are more often seen when it is dark. During the day, they remain well hidden.</p>
+
+<p><strong>What are pipefishes?</strong>
+Pipefishes are true fish, although they don’t appear very fish-like! Pipefishes belong to
+<a href="syngnathidae.md">Family Syngnathidae</a>
+which includes seahorses.</p>
+
+<h2 id="features">Features</h2>
+
+<p>Bodies long, cylindrical and rather stiff being enclosed in an armour of bony rings just under the skin. They also have an internal skeleton just like other fish. Most retain a tiny dorsal fin and tiny pectoral fins and some have a tiny fan-like tail fin. Pipefishes lack scales. Gill openings are reduced to a pore. Some have prehensile tails.</p>
+
+<p>Pipefishes are adapted for sheltered waters well vegetated with seagrass or seaweed. With reduced fins and rather inflexible bodies, pipefishes cannot swim quickly. Instead, they rely on camouflage to blend in with the vegetation. Pipefishes come in a wide variety of colours and patterns.</p>
+
+<p><strong>What do they eat?</strong>
+Pipefishes feed on tiny creatures. To suck these up, they use their long tube-like snouts tipped with a small toothless mouth.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/seagrass/071001chgd6784m6la.jpg" alt="" />
+        <div class="caption">
+        Changi, Oct 07
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/seagrass/140812chg4d8517m3.jpg" alt="" />
+        <div class="caption">
+        Long tube-like toothless snout. Tiny tubular nostrils. Tiny pelvic fins. Changi, Aug 14
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Pipefish babies:</strong>
+Like the seahorse, the male pipefish also carries the eggs. In some species, the male has a pouch on the underside of his tail. For those without a pouch, the eggs are glued to the underside of the male’s tail or abdomen. Often the eggs are embedded in a spongy tissue. Some have a pair of flaps that fold over the eggs. Females have an ovipositor to lay eggs on the male’s body, where the eggs are then fertilised. In some species, ‘pregnant’ males may hang out together in small groups. The eggs develop safely on dad’s body. The father ‘gives birth’ to live young, which emerge as miniatures of the adults.</p>
+
+<p>Some pipefishes may perform courtship dances before mating. Unlike seahorses, a mating pair of pipefishes may not remain faithful only to one another. A female might lay her eggs on several males, and a male might carry the eggs of several females.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/050627smkg8911m3.jpg" alt="" />
+        <div class="caption">
+        Carrying eggs on the underside Pulau Semakau, Jun 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/seagrass/090427chgd0639m6l.jpg" alt="" />
+        <div class="caption">
+        Very pregnant papa with a bulging pouch on the underside. Changi, Apr 09
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Human uses:</strong>
+Pipefishes are used in traditional Chinese medicine, often as a substitute for seahorses. Some species are also caught for the live aquarium trade.</p>
+
+<p><strong>Status and threats:</strong>
+See
+<a href="syngnathidae.md">Family Syngnathidae</a>
+for threats to pipefishes and seahorses.</p>
+
+<hr />
+
+<p><strong>Some Pipefishes on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/seagrass/120510chgd2756m3.jpg" alt="" />
+        <div class="caption">
+        Seagrass pipefish
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/080523cyrd3932m3.jpg" alt="" />
+        <div class="caption">
+        Alligator pipefish
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Unidentified pipefishes</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470%40N00&amp;sort=date-posted-desc&amp;view_all=1&amp;text=Unidentified%20pipefish">Photos</a>
+for free download</li>
+</ul>
+
+<hr />
+
+<p><strong>Pipefishes recorded for Singapore</strong>
+from Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+.</p>
+
+<p><em>from Lim, Kelvin K. P. &amp; Jeffrey K. Y. Low, 1998.
+*A Guide to the Common Marine Fishes of Singapore</em>
+.</p>
+
+<p>^from
+<a href="http://www.marinespecies.org/">WORMS</a>
+**
++Other additions (Singapore Biodiversity Records, etc)
+**</p>
+
+<p><strong>Pipefishes seen awaiting identification</strong></p>
+
+<p><a href="seagrass.md">Seagrass pipefishes</a></p>
+
+<p><strong><a href="syngnathidae.md">Family Syngnathidae</a></strong></p>
+
+<p>*Choeroichthys brachysoma</p>
+
+<p>+Corythoichthys*
+cf.
+<em>amplexus</em>
+(White-faced pipefish)
+*^Corythoichthys flavofasciatus=Corythoichthys fasciatus</p>
+
+<p>Corythoichthys haematopterus*
+(Reef-top pipefish)
+<em>Corythoichthys polynotatus</em>
+(Yellow-spotted pipefish)
+<em>+Corythoichthys schultzi</em>
+(Schultz’s pipefish)
+<em>+Doryrhamphus janssi</em>
+(Janss’ pipefish)
+<em>+Dunckerocampus dactyliophorus</em>
+(Ringed pipefish)
+<em>*Halicampus nitidus</em>
+(Zebra or Glittering pipefish)
+<em>*Hippichthys cyanospilos</em>
+(Blue-speckled pipefish)
+<em>*Ichthyocampus carce</em>
+(Mangrove pipefish)
+*Micrognathus brevirostris=^Micrognathus brevirostris brevirostris</p>
+
+<p><a href="biaculeatus.md">Syngnathoides biaculeatus</a>*
+(Alligator pipefish)
+*Syngnathoides spicifer</p>
+
+<p>Syngnathoides djarong</p>
+
+<p>Syngnathoides fasciolatus</p>
+
+<p>Trachyrhamphus bicoarctatus*
+<em>Trachyrhamphus serratus</em></p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/230.md">Pipefish (Family Syngnathidae)</a>
+Tan, Leo W. H. &amp; Ng, Peter K. L., 1988,
+<em><a href="http://mangrove.nus.edu.sg/pub/seashore/">A Guide to Seashore Life</a></em>
+. The Singapore Science Centre, Singapore. 160 pp.</li>
+  <li><a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/250.md">Blue-speckled Pipefish (
+<em>Hippichthys cyanospilus</em>
+)</a>
+Lim, Kelvin K. P. &amp; Jeffrey K. Y. Low, 1998.
+<em><a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/">A Guide to the Common Marine Fishes of Singapore</a></em>
+. Singapore Science Centre. 163 pp.</li>
+  <li>
+    <dl>
+      <dt><a href="http://seahorse.fisheries.ubc.ca/">Project Seahorse</a></dt>
+      <dd>THE website for everything about seahorses, it also has lots of info about pipefish with details on the trade in pipefish.</dd>
+    </dl>
+  </li>
+  <li>
+    <dl>
+      <dt><a href="http://www.fishbase.org/Summary/FamilySummary.cfm?ID=258">Family Syngnathidae</a></dt>
+      <dt>and</dt>
+      <dt>[<em>Choeroichthys brachysoma</em></dt>
+      <dt>(Short-bodied pipefish)](http://www.fishbase.org/summary/5958)</dt>
+      <dt>and</dt>
+      <dt>[<em>Corythoichthys flavofasciatus</em></dt>
+      <dt>(Network pipefish)](http://www.fishbase.org/summary/5959)</dt>
+      <dt>and</dt>
+      <dt>[<em>Halicampus nitidus</em></dt>
+      <dt>(Glittering pipefish)](http://www.fishbase.org/summary/5976)</dt>
+      <dt>and</dt>
+      <dt>[<em>Hippichthys cyanospilos</em></dt>
+      <dt>(Blue-spotted pipefish)](http://www.fishbase.org/summary/7728)</dt>
+      <dt>and</dt>
+      <dt><em><a href="http://www.fishbase.org/summary/11808">Ichthyocampus carce</a></em></dt>
+      <dt>and</dt>
+      <dt>[<em>Micrognathus brevirostris brevirostris</em></dt>
+      <dt>(Thorntail pipefish)](http://www.fishbase.org/summary/7996)</dt>
+      <dt>and</dt>
+      <dt>[<em>Syngnathoides biaculeatus</em></dt>
+      <dt>(Alligator pipefish)](http://www.fishbase.org/summary/5980)</dt>
+      <dt>and</dt>
+      <dt>[<em>Hippichthys spicifer</em></dt>
+      <dt>(Bellybarred pipefish)](http://www.fishbase.org/summary/7495)</dt>
+      <dt>and</dt>
+      <dt>[<em>Bhanotia fasciolata</em></dt>
+      <dt>(Corrugated pipefish)](http://www.fishbase.org/summary/7721)</dt>
+      <dt>and</dt>
+      <dt>[<em>Trachyrhamphus bicoarctatus</em></dt>
+      <dt>(Double-ended pipefish)](http://www.fishbase.org/summary/5981)</dt>
+      <dt>and</dt>
+      <dt><em><a href="http://www.fishbase.org/summary/23123">Trachyrhamphus serratus</a></em></dt>
+      <dt>from</dt>
+      <dt><a href="http://www.fishbase.org/">FishBase</a></dt>
+      <dd>Technical fact sheet on the family, including fact sheets on individual species</dd>
+    </dl>
+  </li>
+  <li><a href="http://wildshores.blogspot.com/2009/12/papa-pipefish-not-so-motherly-after-all.html">Papa pipefish not so motherly after all</a>
+on the wild shores of singapore</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Daisuke Taira.
+<em>Ringed pipefish in the Singapore Strait</em>
+. 31 July 2018. Singapore Biodiversity Records 2018: 89 ISSN 2345-7597. National University of Singapore.</li>
+  <li>Toh Yuet Hsin &amp; Koh Kwan Siong. 18 December 2015.
+<em>New record of ringed pipefish in Singapore</em>
+. Singapore Biodiversity Records 2015: 211</li>
+  <li>Tan Heok Hui. 26 December 2014.
+<em>Janss’ pipefish at Pulau Pawai, Doryramphus janssi</em>
+. Singapore Biodiversity Records 2014: 336.</li>
+  <li>Toh Chay Hoon &amp; Kelvin K. P. Lim. 7 February 2014.
+<em>Schultz’s pipefish off Pulau Hantu</em>
+. Singapore Biodiversity Records 2014: 37.</li>
+  <li>Ng Boon Leong &amp; Khoo Min Hui. 9 May 2014.
+<em>New record of white-faced pipefish in Singapore, Corythoichthys cf. amplexus</em>
+. Singapore Biodiversity Records 2014: 120-121</li>
+  <li>Jeffrey Low K. Y., Jani Isa Thuaibah Tanzil &amp; Zeehan Jaafar, 2009.
+<em>Some note-worthy fishes observed in the Singapore Straits</em>
+. Nature in Singapore, 2: 77–82.</li>
+  <li>Toh Chay Hoon. 31 October 2013.
+<em>Brock’s pipefish at Little Sister Island, Halicampus brocki</em>
+. Singapore Biodiversity Records 2013: 43.</li>
+  <li>Allen, Gerry, 2000.
+<em>Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers</em>
+. Periplus Editions. 292 pp.</li>
+  <li>Kuiter, Rudie H. 2002.
+<em>Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers &amp; Fishermen</em>
+New Holland Publishers. 434pp.</li>
+  <li>Lieske, Ewald and Robert Myers. 2001.
+<em>Coral Reef Fishes of the World</em>
+Periplus Editions. 400pp.</li>
+  <li>Kuiter, Rudie H., 2000 (English edition).
+<em>Seahorses, Pipefishes and their Relatives: A Comprehensive Guide to Syngnathiformes</em>
+TMC Publishing, UK. 240 pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

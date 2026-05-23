@@ -1,0 +1,484 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Sea mussels | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="mussel, clam, shell, mytilidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/040121chgd0031m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Mollusca">Mollusca</a>
+                    > 
+                    <a href="/Mollusca/Bivalvia">Bivalvia</a>
+                    > 
+                    <a href="/Mollusca/Bivalvia/Mytilida">Mytilida</a>
+                    >
+                    <a href="/Mollusca/Bivalvia/Mytilida/"></a>
+                    >
+                    <a href="/Mollusca/Bivalvia/Mytilida//Mytilidae">Mytilidae</a>
+                </p>
+                <h1>Sea mussels</h1>
+                
+                    <p class="scientific-name">Family Mytilidae</p>
+                
+
+                <p><em>Updated May 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about them ... Some species of mussels can bore into concrete. Some tiny mussels live in a colony of thousands. Mussels can cause food poisoning.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        Some species of mussels can bore into concrete. Some tiny mussels live in a colony of thousands. Mussels can cause food poisoning.
+        </div>
+    </div>
+    
+
+</div>
+
+<h2 id="where-seen">Where seen?</h2>
+<p>Mussels are common on many of our shores and mangroves, stuck to rocks, tree roots and other hard surfaces. Some create ‘nests’ out on the sand or mudflats.</p>
+
+<p><strong>What are sea mussels?</strong>
+Sea mussels belong to the Family Mytilidae.</p>
+
+<h2 id="features">Features</h2>
+
+<p>The two-part shell is generally tear-drop shaped (rounded at one end and pointed at the other). Although thin, the shell is quite strong. Instead of gluing down one valve to a rock like
+<a href="../ostreidae/osteridae.md">oysters</a>
+do, mussels attach themselves with byssus threads.</p>
+
+<p>Sea mussels are often found in colonies of a large number of individuals.
+<a href="musculista.md">Nest mussels</a>
+are tiny mussels about 1cm long that live in colonies of thousands. They weave a nest out of byssus threads and mud. Date mussels (
+<em>Lithophaga</em>
+sp.) create a safe hiding place for themselves by drilling into dead coral and even concrete by rotating their shells and secreting an acid.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/040121chgd0031m3.jpg" alt="" />
+        <div class="caption">
+        Green mussels growing on a large boulder. Changi, Jan 04
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/070803cjd5010m3.jpg" alt="" />
+        <div class="caption">
+        Nest mussels can form vast mats Chek Jawa, Aug 07
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/070704skdd3544m3.jpg" alt="" />
+        <div class="caption">
+        Tiny Green mussels growing among tinier Nest mussels . Pulau Sekudu, Jul 07
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>What do they eat?</strong>
+Like most other bivalves, sea mussels are filter feeders. At high tide, they open their shells a little. They then generate a current of water through the shell and sieve out the food particles with enlarged gills. When the tide goes out, they clamp up their shells tightly to prevent water loss.</p>
+
+<p><strong>Human uses:</strong>
+Sea mussels are among the favourite seafood of people everywhere. The
+<a href="viridis.md">Green mussel</a>
+(
+<em>Perna viridis</em>
+) is farmed in many parts of Southeast Asia. In colder seas, they are among key food sources. Like other filter-feeding clams, however, sea mussels may be affected by
+<a href="../../../plants/seaweed/redtide.md">red tide and other harmful algal blooms</a>
+when they are then harmful to eat.</p>
+
+<p><strong>Status and threats:</strong>
+None of our sea mussels are listed among the threatened animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and overcollection can also affect local populations.</p>
+
+<hr />
+
+<p><strong>Some Sea mussels on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/031207cjd0034m3.jpg" alt="" />
+        <div class="caption">
+        Green mussels
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/modiolus/130820skdd1497m3.jpg" alt="" />
+        <div class="caption">
+        Horse mussels
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/xenostrobus/080704skdd6838m3a.jpg" alt="" />
+        <div class="caption">
+        Little black mussels
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/070704skdd3541m3.jpg" alt="" />
+        <div class="caption">
+        Nest mussels
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Family Mytilidae recorded for Singapore</strong>
+from Tan Siong Kiat and Henrietta P. M. Woo, 2010
+<em>Preliminary Checklist of The Molluscs of Singapore</em>
+.</p>
+
+<p>^from
+<a href="http://www.marinespecies.org/">WORMS</a></p>
+
+<p><strong>Family Mytilidae</strong></p>
+
+<p>*Arcuatula arcuatula</p>
+
+<p>Botula cinnamomea</p>
+
+<p>Brachidontes striatulus</p>
+
+<p>Lithophaga gracilis=^Lithophaga teres</p>
+
+<p>Lithophaga lima=^Leiosolenus lima</p>
+
+<p>Lithophaga malaccana</p>
+
+<p>Lithophaga nasuta</p>
+
+<p>Lithophaga obesa</p>
+
+<p>Lithophaga teres</p>
+
+<p><a href="modiolus.md">Modiolus</a>*
+<a href="modiolus.md">sp.</a>
+**
+(Horse mussels)
+*Modiolus albicostus</p>
+
+<p>Modiolus aratus=^Jolya arata</p>
+
+<p>Modiolus auriculatus=^Arcuatula arcuatula</p>
+
+<p>Modiolus elongatus</p>
+
+<p>Modiolus ligneus=^Lioberus ligneus</p>
+
+<p>Modiolus metcalfei=^Modiolus modulaides</p>
+
+<p>Modiolus micropterus</p>
+
+<p>Modiolus nitidus</p>
+
+<p>Modiolus philippinarum</p>
+
+<p>Modiolus proclivis=^Modiolus rumphii</p>
+
+<p>Modiolus trailii</p>
+
+<p><a href="musculista.md">Arcuatula senhousia</a>
+=Musculista senhousia*
+(Nest mussel)
+*Musculus cumingianus</p>
+
+<p>Musculus panhai</p>
+
+<p><a href="viridis.md">Perna viridis</a>*
+(Green mussel)
+*Septifer bilocularis</p>
+
+<p>Septifer excisus</p>
+
+<p>Trichomya hirsuta</p>
+
+<p><a href="xenostrobus.md">Xenostrobus</a>*
+<a href="xenostrobus.md">sp.</a>
+(Little black mussel)
+<em>Xenostrobus</em>
+cf.
+<em>atratus</em></p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/158.md">Green Mussel (
+<em>Perna viridis</em>
+)</a>
+Tan, Leo W. H. &amp; Ng, Peter K. L., 1988.
+<em><a href="http://mangrove.nus.edu.sg/pub/seashore/">A Guide to Seashore Life</a></em>
+. The Singapore Science Centre, Singapore. 160 pp.</li>
+  <li><a href="http://mangrove.nus.edu.sg/guidebooks/text/2091.md">Nest mussel (
+<em>Musculista senhausii</em>
+)</a>
+and
+<a href="http://mangrove.nus.edu.sg/guidebooks/text/2092.md">Black mussel (
+<em>Xenostrobus</em>
+sp.)</a>
+Ng, Peter K. L. &amp; N. Sivasothi, 1999.
+<em><a href="http://mangrove.nus.edu.sg/guidebooks/">A Guide to the Mangroves of Singapore II (Animal Diversity)</a></em>
+. Singapore Science Centre. 168 pp.</li>
+  <li><a href="http://shells.tricity.wsu.edu/ArcherdShellCollection/Bivalvia/Mytilidae.html">Family Mytilidae</a>
+on
+<a href="http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html">The Gladys Archerd Shell Collection</a>
+at Washington State University Tri-Cities Natural History Museum website: brief description and photos.</li>
+  <li>Family Mytilidae in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+<a href="http://www.fao.org/docrep/009/w7191e/w7191e00.md">Volume 1: Seaweeds, corals, bivalves and gastropods</a>
+on the Food and Agriculture Organization of the United Nations (FAO) website.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Tan Siong Kiat and Henrietta P. M. Woo, 2010
+<em>Preliminary Checklist of The Molluscs of Singapore</em>
+(pdf), Raffles Museum of Biodiversity Research, National University of Singapore.</li>
+  <li>Tan, K. S. &amp; L. M. Chou, 2000.
+<em>A Guide to the Common Seashells of Singapore</em>
+. Singapore Science Centre. 160 pp.</li>
+  <li>Abbott, R. Tucker, 1991.
+<em>Seashells of South East Asia</em>
+. Graham Brash, Singapore. 145 pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

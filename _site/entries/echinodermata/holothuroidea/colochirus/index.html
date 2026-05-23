@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Thorny sea cucumber | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="thorny, cucumber, seacucumber, colochirus, quadrangularis, cucumariidae, holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/031226chgd0003m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Echinodermata">Echinodermata</a>
+                    > 
+                    <a href="/Echinodermata/Holothuroidea">Holothuroidea</a>
+                    > 
+                    <a href="/Echinodermata/Holothuroidea/Dendrochirotida">Dendrochirotida</a>
+                    >
+                    <a href="/Echinodermata/Holothuroidea/Dendrochirotida/"></a>
+                    >
+                    <a href="/Echinodermata/Holothuroidea/Dendrochirotida//Cucumariidae">Cucumariidae</a>
+                </p>
+                <h1>Thorny sea cucumber</h1>
+                
+                    <p class="scientific-name">Colochirus quadrangularis</p>
+                
+
+                <p><em>Updated Apr 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This small colourful sea cucumber is commonly seen on our Northern shores. It appears to be seasonally abundant. There are times where many individuals are seen, jammed next to one another. At other times, few are seen, widely separated from one another.</p>
+
+<p>Thorny sea cucumbers do not appear to burrow into the ground and are often found on the sand especially in seagrass areas, clinging to tubeworm tubes or other hard surfaces.</p>
+
+<h2 id="features">Features</h2>
+
+<p>6-10cm long, and really tiny ones hardly bigger than a seagrass leaf are sometimes also seen. Body short, squarish or quadrangular in cross-section with a distinct upperside and underside. Underside is flat with three rows of short red tube feet. The upperside has soft, harmless
+conical projections
+. Anus is surrounded by five tiny teeth-like structures. Body colours range from bright red or orange, with shades of grey and green or bluish lines along the length. Feeding tentacles yellow with tiny brown speckles and branched tips sometimes red or orange.</p>
+
+<p><strong>Sometimes mistaken for</strong>
+the
+<a href="cercodemas.md">Pink warty sea cucumber</a>
+which looks similar and is found in the same habitat often next to the Thorny sea cucumber. The Pink warty sea cucumber has pink warty bumps instead of soft thorns and has yellow on its body, which the Thorny sea cucumber usually lacks.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/031226chgd0003m3.jpg" alt="" />
+        <div class="caption">
+        Changi, Dec 03 Feeding tentacles.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/030814skdd0082m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Sekudu, Aug 03 Teeth-like projections around the anus.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/050726chgg0350m3.jpg" alt="" />
+        <div class="caption">
+        Changi, Jun 05 Three rows of tube feet on the underside.
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>What does it eat?</strong>
+It gathers plankton and suspended organic particles from the water with feathery feeding tentacles. Each tentacle is stuffed one by one into the mouth to wipe off any edible bits that are stuck to it.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/101008tusd1746m3.jpg" alt="" />
+        <div class="caption">
+        Sometimes seen in large numbers clusterd together. Tuas, Oct 10
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/050724bbg0212m3.jpg" alt="" />
+        <div class="caption">
+        Sometimes with blue stripes. Beting Bronok, Jul 05 .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/060502chgd1782m3.jpg" alt="" />
+        <div class="caption">
+        This one was tinier than a seagrass leaf. Changi, May 06
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Living on a cucumber</strong>
+Sometimes small creatures are seen on the sea cucumber. Such as parasitic snails and tiny shrimps.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/090623ecpjk3m3.jpg" alt="" />
+        <div class="caption">
+        Ulimid snails found on the sea cucumber. East Coast, Jun 09 Photo shared by James Koh on flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/050821bbg1857m3b.jpg" alt="" />
+        <div class="caption">
+        Commensal shrimp seen on the sea cucumber.
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Human uses:</strong>
+Thorny sea cucumbers are among the sea cucumbers harvested for the live aquarium trade, although not as popular as the more colourful
+<a href="violaceaus.md">Sea apple sea cucumber</a>
+(
+<em>Pseudocolochirus violaceus</em>
+). Like other fish and creatures harvested from the wild, most die before they can reach the retailers. Without pro
+fessional care, most die soon after they are sold. Often of starvation as owners are unable to provide the food that they need to survive. Those that do survive are unlikely to breed.</p>
+
+<hr />
+
+<p><strong>Thorny sea cucumbers on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470@N00&amp;sort=date-posted-desc&amp;view_all=1&amp;text=Colochirus quadrangularis">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Colochirus%2520quadrangularis%2520/map?&amp;fLat=1.2626&amp;fLon=103.8661&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/190422cnyrk3.jpg" alt="" />
+        <div class="caption">
+        Coney Island, Apr 19 Photo shared by Richard Kuah on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/190206prpll2.jpg" alt="" />
+        <div class="caption">
+        Pasir Ris Park, Feb 19 Photo shared by Liz Lim on facebook ..
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/091203ubnjk4m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Ubin, Dec 09 Photo shared by James Koh on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/090821tmlks1m3.jpg" alt="" />
+        <div class="caption">
+        Tanah Merah, Aug 09 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/110220lazrl14m3.jpg" alt="" />
+        <div class="caption">
+        Seringat-Kias, Feb 11 Photo shared by Russel Low on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/160509srpik10.jpg" alt="" />
+        <div class="caption">
+        Sentosa Serapong, May 16 Photo shared by Ivan Kwan on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/090510sntik8m3.jpg" alt="" />
+        <div class="caption">
+        Sentosa Siloso, May 09 Photo shared by Ivan Kwan on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/171104cyrlks4.jpg" alt="" />
+        <div class="caption">
+        Cyrene Reef, Nov 17 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/222.md">Sea cucumbers</a>
+Tan, Leo W. H. &amp; Ng, Peter K. L., 1988.
+<em><a href="http://mangrove.nus.edu.sg/pub/seashore/">A Guide to Seashore Life</a></em>
+. The Singapore Science Centre, Singapore. 160 pp.</li>
+  <li><a href="http://www.sealifebase.org/summary/Colochirus-quadrangularis.html"><em>Colochirus quadrangularis</em></a>
+on SeaLife Base: Technical fact sheet.</li>
+  <li><a href="http://species-identification.org/species.php?species_group=nasc&amp;id=93"><em>Pentacta quadrangularis</em></a>
+in North Australian Sea Cucumbers on Marine Species Identification Portal: Technical fact sheet.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Lane, David J.W. and Didier Vandenspiegel. 2003
+<em>. A Guide to Sea Stars and Other Echinoderms of Singapore</em>
+. Singapore Science Centre. 187pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

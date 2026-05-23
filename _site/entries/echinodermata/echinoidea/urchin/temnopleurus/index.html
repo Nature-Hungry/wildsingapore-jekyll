@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Black sea urchin | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="black, urchin, temnoplerus, toreumaticus, temnopleuridae, echinoid, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="../../../../Templates/fornatureguides.gif" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Echinodermata">Echinodermata</a>
+                    > 
+                    <a href="/Echinodermata/Echinoidea">Echinoidea</a>
+                    > 
+                    <a href="/Echinodermata/Echinoidea/Camarodonta">Camarodonta</a>
+                    >
+                    <a href="/Echinodermata/Echinoidea/Camarodonta/"></a>
+                    >
+                    <a href="/Echinodermata/Echinoidea/Camarodonta//Temnopleuridae">Temnopleuridae</a>
+                </p>
+                <h1>Black sea urchin</h1>
+                
+                    <p class="scientific-name">Temnopleurus toreumaticus</p>
+                
+
+                <p><em>Updated Apr 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This black sea urchin with short spines is commonly seen on some of our Northern shores. Large heaps of many individuals are sometimes seen. At other times, there are none to be seen. Sandy areas near seagrasses as well as coral rubble and rocky shores and under jetties.</p>
+
+<h2 id="features">Features</h2>
+
+<p>Body diameter 4-5cm, sometimes tiny ones about 1cm in diameter are seen among seaweeds. Short slender spines (1-2cm) with long translucent tube feet that may extend past the spines. The spines on the upperside are black and pointed. Spines on the underside are flattened and may be banded. Some have obvious light-coloured zig-zag lines radiating from the centre around the body. The sea urchin appears to ‘carry’ shells and other debris. This behaviour may help camouflage it or shield it from sunlight.</p>
+
+<p><strong>May be confused with</strong>
+the
+<a href="diadema.md">Long-spined black sea urchin</a>
+(
+<em>Diadema</em>
+sp.) which has much longer spines and is not often seen on the Northern shores.</p>
+
+<p><strong>Prickly Home:</strong>
+Sometimes, an
+<a href="../../../worm/polychaeta/oxydromus.md">Urchin-mouth worm</a>
+is seen curled around the mouth of the sea urchin.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/temnopleurus/050524chgg6608m3.jpg" alt="" />
+        <div class="caption">
+        Changi, May 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/temnopleurus/050524chgg6608m3b.jpg" alt="" />
+        <div class="caption">
+        Zig-zag lines on the upperside. With long tube feet.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/temnopleurus/040702chgd1470m3.jpg" alt="" />
+        <div class="caption">
+        Sometimes found in large groups. Changi, Jul 04
+        </div>
+    </div>
+    
+
+</div>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/temnopleurus/050524chgg6613m3.jpg" alt="" />
+        <div class="caption">
+        Underside.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/temnopleurus/050607chgg7287m3.jpg" alt="" />
+        <div class="caption">
+        Worm-like animal often seen around the mouth. Changi, Jun 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/temnopleurus/190811chgm3.jpg" alt="" />
+        <div class="caption">
+        Carrying a shell. Changi, Aug 19
+        </div>
+    </div>
+    
+
+</div>
+
+<hr />
+
+<p><strong>Black sea urchins on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470%40N00&amp;sort=date-posted-desc&amp;view_all=1&amp;text=Temnopleurus%20toreumaticus">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Temnopleurus%2520toreumaticus/map?&amp;fLat=1.2629&amp;fLon=103.8661&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/temnopleurus/220616chgelks5.jpg" alt="" />
+        <div class="caption">
+        Changi Lost Coast, Jun 22 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/temnopleurus/251205cjky1.jpg" alt="" />
+        <div class="caption">
+        Chek Jawa, Dec 25 Photo shared by Kelvin Yong on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/temnopleurus/240723chgeky1.jpg" alt="" />
+        <div class="caption">
+        Changi East (Lost Coast), Jul 24 Photo shared by Kelvin Yong on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/temnopleurus/100614bbtch2m3.jpg" alt="" />
+        <div class="caption">
+        Beting Bronok, Jun 10
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/temnopleurus/100614bbtch2m3a.jpg" alt="" />
+        <div class="caption">
+        Photo shared by Toh Chay Hoon on her blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/temnopleurus/080507ecplks04m3.jpg" alt="" />
+        <div class="caption">
+        East Coast, May 08 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong><em>Temnopleurus</em>
+species recorded for Singapore</strong></p>
+
+<p>from Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+.</p>
+
+<p>**
+^from
+<a href="http://www.marinespecies.org/">WORMS</a>
+**
++Other additions (Singapore Biodiversity Records, etc)
+**</p>
+
+<p><strong>Family Temnopleuridae</strong></p>
+
+<p><em>+Mespilia globulus</em>
+(Globe urchin)
+*Temnopleurus mortenseni=^Temnopleurus toreumaticus</p>
+
+<p>Temnopleurus toreumaticus</p>
+
+<p>Temnopleurus siamensis=^Temnotrema siamense?*</p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/">The Echinoid Directory</a>
+by Dr. Andrew B. Smith on the London Natural History Museum website: everything you could possibly want to know about sand dollars and sea urchins with lots of large close-up images and explanatory diagrams. With descriptions of
+<a href="http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/GENERA/TEMNOPLE/TEMNOPLE.jsp"><em>Temnopleurus</em></a></li>
+  <li><a href="http://www.sealifebase.org/summary/Temnopleurus-toreumaticus.html"><em>Temnopleurus toreumaticus</em>
+(Striped spine urchin)</a>
+and
+<em><a href="http://www.sealifebase.org/summary/Temnotrema-siamense.html">Temnotrema siamense</a></em>
+on SeaLife Base: Technical fact sheet.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Jeffrey K. Y. Low. 29 May 2015.
+<em>Globe urchin in the Singapore Strait, Mespilia globulus</em>
+. Singapore Biodiversity Records 2015: 65</li>
+  <li>Lane, David J.W. and Didier Vandenspiegel. 2003.
+<em>A Guide to Sea Stars and Other Echinoderms of Singapore</em>
+. Singapore Science Centre. 187pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

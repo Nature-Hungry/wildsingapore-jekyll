@@ -1,0 +1,575 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Circular mushroom coral | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="circular, fungia, mushroom, fungiidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Cnidaria">Cnidaria</a>
+                    > 
+                    <a href="/Cnidaria/Anthozoa">Anthozoa</a>
+                    > 
+                    <a href="/Cnidaria/Anthozoa/Scleractinia">Scleractinia</a>
+                    >
+                    <a href="/Cnidaria/Anthozoa/Scleractinia/"></a>
+                    >
+                    <a href="/Cnidaria/Anthozoa/Scleractinia//Fungiidae">Fungiidae</a>
+                </p>
+                <h1>Circular mushroom coral</h1>
+                
+                    <p class="scientific-name">Fungia sp.</p>
+                
+
+                <p><em>Updated Nov 2019</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about them ... When they are large, they are not attached to the ground. Tiny ones may be seen attached to coral rubble. Watch your step as you might break these flat animals that live on sandy areas.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        When they are large, they are not attached to the ground. Tiny ones may be seen attached to coral rubble. Watch your step as you might break these flat animals that live on sandy areas.
+        </div>
+    </div>
+    
+
+</div>
+
+<h2 id="where-seen">Where seen?</h2>
+<p>This saucer-shaped hard coral is sometimes seen on many of our Southern shores, on sandy shallow areas near living reefs. On some undisturbed shores, many individuals in various stages of development can be seen near one another.</p>
+
+<h2 id="features">Features</h2>
+
+<p>Skeleton 10-15cm in diameter, but tiny ones 1-2cm sometimes seen attached to hard surfaces. Overall shape flat, circular and convex disk somewhat like a frisbee or upside-down saucer. Upper surface with thin continuous lines radiating from the centre, in some, the lines have fine ‘teeth’. Single slit-like mouth in the centre of the upper surface. Often has banded ‘lips’ around the mouth. Tentacles are small, fat, short, tapering, rather sparse and even when fully extended, don’t obscure the skeleton. Tentacles may be extended both during the day and at night. The underside usually concave, some with radiating lines of short bumps.</p>
+
+<p>Large ones lie unattached, sometimes in groups of several individuals of different sizes. Small ones are seen stuck to coral rubble often in clusters of several individuals. Colours seen include beige, brown, pink, blue, purplish, greenish.</p>
+
+<p>Some
+<em>Fungia</em>
+species may also be
+<a href="oval.md">elongated and oval</a>
+, rather than circular.</p>
+
+<p><strong>Sometimes confused with</strong>
+the
+<a href="heliofungia.md">Sunflower mushroom hard coral</a>
+(
+<em>Heliofungia actiniformis</em>
+) especially when the tentacles are retracted. The Sunflower mushroom hard coral also has a flat circular skeleton. However, it has long cylindrical white-tipped tentacles that when full extended, completely obscures the skeleton so that the coral resembles a sea anemone.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3.jpg" alt="" />
+        <div class="caption">
+        Raffles Lighthouse, Jul 06
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3a.jpg" alt="" />
+        <div class="caption">
+        Single slit-like mouth often with banded 'lips'.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3d.jpg" alt="" />
+        <div class="caption">
+        Fat short tentacles.
+        </div>
+    </div>
+    
+
+</div>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/060713rlhd4229m3.jpg" alt="" />
+        <div class="caption">
+        Underside somewhat concave.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/060713rlhd4229m3a.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/100502tryd2366m3.jpg" alt="" />
+        <div class="caption">
+        Often found in clusters. Terumbu Raya, May 10
+        </div>
+    </div>
+    
+
+</div>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/070102sisg7135m3.jpg" alt="" />
+        <div class="caption">
+        Young corals still stuck to a rock. Sisters Island, Jan 07
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/110730tmftd7666m3.jpg" alt="" />
+        <div class="caption">
+        Young corals on stalks. Tanah Merah, Jul 11
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/110423tpld9895m3.jpg" alt="" />
+        <div class="caption">
+        Dead coral with stalk on the underside. Terumbu Pempang Laut, Apr 11
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/051204sisg3297m3.jpg" alt="" />
+        <div class="caption">
+        Sisters Island, Dec 05 Splitting up into two?
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/090625bsrd5318m3.jpg" alt="" />
+        <div class="caption">
+        Beting Bemban Besar, Jun 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/060212sisg4742m3.jpg" alt="" />
+        <div class="caption">
+        Sisters Island, Feb 06
+        </div>
+    </div>
+    
+
+</div>
+<p>**Species are difficult to positively identify without close examination.</p>
+
+<p>On this website, they are grouped by external features for convenience of display.*</p>
+
+<hr />
+
+<p><strong>Circular mushroom corals on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470@N00&amp;sort=date-posted-desc&amp;view_all=1&amp;text=Circular fungia">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/circular%252C%2520mushroom%252C%2520coral/map?&amp;fLat=1.2955&amp;fLon=103.8764&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/090706tmtch1m3.jpg" alt="" />
+        <div class="caption">
+        Tanah Merah, Jul 09 Photo shared by Toh Chay Hoon on her blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/090726tmlks5m3.jpg" alt="" />
+        <div class="caption">
+        Tanah Merah, Jul 09 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/100615tmlks1m3.jpg" alt="" />
+        <div class="caption">
+        Tanah Merah, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/220618tmftlks15.jpg" alt="" />
+        <div class="caption">
+        Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/230608tmftlks5.jpg" alt="" />
+        <div class="caption">
+        Tanah Merah Ferry Terminal, Jun 23 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/2007024pcnlks12.jpg" alt="" />
+        <div class="caption">
+        East Coast PCN, Jul 20 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/170822lablks3.jpg" alt="" />
+        <div class="caption">
+        Labrador, Aug 17 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/250714srpal9.jpg" alt="" />
+        <div class="caption">
+        Sentosa Serapong, Jul 25 Photo shared of Adriane Lee on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/241019lazlks5.jpg" alt="" />
+        <div class="caption">
+        Lazarus Island, Oct 24 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/250629smkelk15.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau East, Jun 25 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/250727smkwlks8.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau West, Jul 25 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/100617tsmklks1m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Semakau, Jun 10 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/110422tpljk3m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Pempang Laut, Apr 11 Photo shared by James Koh on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/120521tptlks.JPG" alt="" />
+        <div class="caption">
+        Terumbu Pempang Tengah, Jul 12 Photo shared by Loh Kok Sheng on flickr .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/080223smklks12m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau, Feb 08 Photo shared by Loh Kok Sheng on his flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/080509smklks9m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau, May 08 Photo shared by Loh Kok Sheng on his flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/100613snglks1m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
+        </div>
+    </div>
+    
+
+</div>
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

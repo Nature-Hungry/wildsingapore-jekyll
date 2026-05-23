@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Nyireh batu  | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="nyireh, batu, xylocarpus, moluccensis, polygalaceae, meliaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090126ubnd6188m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Tracheophyta">Tracheophyta</a>
+                    > 
+                    <a href="/Tracheophyta/Magnoliopsida">Magnoliopsida</a>
+                    > 
+                    <a href="/Tracheophyta/Magnoliopsida/Sapindales">Sapindales</a>
+                    >
+                    <a href="/Tracheophyta/Magnoliopsida/Sapindales/"></a>
+                    >
+                    <a href="/Tracheophyta/Magnoliopsida/Sapindales//Meliaceae">Meliaceae</a>
+                </p>
+                <h1>Nyireh batu </h1>
+                
+                    <p class="scientific-name">Xylocarpus moluccensis</p>
+                
+
+                <p><em>Updated Mar 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This handsome tree is sometimes seen in our larger mangroves, usually alone or a few trees, often on sandy areas. It is commonly seen at Pulau Ubin and at Pasir Ris mangroves.
+<em>Xylocarpus mekongensis</em>
+is a synonym of
+<em>X. moluccensis</em>
+.</p>
+
+<h2 id="features">Features</h2>
+
+<p>Tree 5-20m tall. Bark with longitudinal fissures. Small buttress roots or no buttress roots, many peg-shaped (blunt-tipped, nearly cylindrical) pneumatophores.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090126ubnd6188m3.jpg" alt="" />
+        <div class="caption">
+        Leaflets eye-shaped with pointed tips. Pulau Ubin, Jan 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090126ubnd6182m3.jpg" alt="" />
+        <div class="caption">
+        Bark with longitudinal fissures. Pulau Ubin, Jan 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/100110cjd7878m6l.jpg" alt="" />
+        <div class="caption">
+        Seasonally, all the leaves may turn yellow. Pulau Ubin, Jan 10
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090529prpd3038m3.jpg" alt="" />
+        <div class="caption">
+        Leaflets underside. Pasir Ris Park, May 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090823cjd9863m3a.jpg" alt="" />
+        <div class="caption">
+        Chek Jawa, Aug 09
+        </div>
+    </div>
+    
+
+</div>
+<p>Compound leaf comprising 2-3 pairs of leaflets (4-12cm long) that are oblong with more pointed tips, thin and leathery. The compound leaves are arranged in a spiral and wither to a vivid yellow. Seasonally, all the leaves on a tree may turn yellow, giving an autumn feel to the mangrove forest.</p>
+
+<p>Flowers tiny white to pinkish in clusters on an inflorescence. Fruit oval (not globular) (8-12cm in diameter) containing 5-10 seeds.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090823cjd9874m3.jpg" alt="" />
+        <div class="caption">
+        Flowers in clusters. Chek Jawa, Aug 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090823cjd9874m3a.jpg" alt="" />
+        <div class="caption">
+        Chek Jawa, Aug 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090126ubnd6185m3.jpg" alt="" />
+        <div class="caption">
+        Fruit elliptical. Pulau Ubin, Jan 09
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Human uses:</strong>
+According to Giesen, the timber is moderately light and soft, but strong and seasons well. It is used in construction of houses and boats. In Java, also for the handles of traditional daggers called ‘kris’. It is also used as firewood. Traditional medicinal uses include the seeds for treating stomachaches, fruits to increase appetite, bark tannin for intestinal lailments. The bark is also used to tan fishing nets.</p>
+
+<p><strong>Status and threats:</strong>
+It is listed as ‘Endangered’ on the Red List of threatened plants of Singapore.</p>
+
+<hr />
+
+<p><strong>Nyireh batu on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470@N00&amp;sort=date-posted-desc&amp;view_all=1&amp;text=Xylocarpus moluccensis">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Xylocarpus%2520moluccensis/map?&amp;fLat=1.2626&amp;fLon=103.8654&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://mangrove.nus.edu.sg/guidebooks/text/1077.md"><em>Xylocarpus moluccensis</em></a>
+Ng, Peter K. L. &amp; N. Sivasothi, 1999.
+<em><a href="http://mangrove.nus.edu.sg/guidebooks/">A Guide to the Mangroves of Singapore</a>
+I (Plant Diversity)</em>
+. Singapore Science Centre. 168 pp.</li>
+  <li><em><a href="https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3209">Xylocarpus moluccensis</a></em>
+on the NParks Flora and Fauna website: photos and fact sheet.</li>
+  <li>Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+<a href="http://www.fao.org/docrep/010/ag132e/ag132e00.md"><em>Mangrove Guidebook for Southeast Asia</em></a>
+(PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
+<em>The Concise Flora of Singapore: Gymnosperms and Dicotyledons</em>
+. Singapore University Press. 222 pp.</li>
+  <li>Corners, E. J. H., 1997.
+<em>Wayside Trees of Malaya: in two volumes</em>
+. Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.</li>
+  <li>Tomlinson, P. B., 1986.
+<em>The Botany of Mangroves</em>
+Cambridge University Press. USA. 419 pp.</li>
+  <li>Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+<em>The Singapore Red Data Book: Threatened plants and animals of Singapore</em>
+. Nature Society (Singapore). 285 pp</li>
+  <li>Burkill, I. H., 1993.
+<em>A Dictionary of the Economic Products of the Malay Peninsula</em>
+. 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

@@ -1,0 +1,508 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Groupers | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="grouper, fish, serranidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/100527tmd3431m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Chordata">Chordata</a>
+                    > 
+                    <a href="/Chordata/Actinopterygii">Actinopterygii</a>
+                    > 
+                    <a href="/Chordata/Actinopterygii/Perciformes">Perciformes</a>
+                    >
+                    <a href="/Chordata/Actinopterygii/Perciformes/Percoidei">Percoidei</a>
+                    >
+                    <a href="/Chordata/Actinopterygii/Perciformes/Percoidei/Serranidae">Serranidae</a>
+                </p>
+                <h1>Groupers</h1>
+                
+                    <p class="scientific-name">Family Serranidae</p>
+                
+
+                <p><em>Updated Oct 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about them ... They are solitary hunters with an amazing mouth. They can change their gender. They are among our favourite seafood. However, overharvesting can affect their populations.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        They are solitary hunters with an amazing mouth. They can change their gender. They are among our favourite seafood. However, overharvesting can affect their populations.
+        </div>
+    </div>
+    
+
+</div>
+
+<h2 id="where-seen">Where seen?</h2>
+<p>Groupers are sometimes seen on some of our shores. At low tide, they may be stranded in pools or hiding under large chunks of coral rubble. Juveniles are common in muddy, sandy river mouths and among mangroves. Adults found in reefs as solitary carnivores. Small groupers are sometimes encountered on our shores at low tide. Do leave them alone, so they can grow bigger and perhaps one day we can enjoy them in a different way.</p>
+
+<dl>
+  <dt><strong>What are groupers?</strong></dt>
+  <dt>Groupers belong to the Family Serranidae. According to</dt>
+  <dt><a href="http://www.fishbase.org/Summary/FamilySummary.cfm?ID=289">FishBase</a></dt>
+  <dd>the family has 62 genera and 449 species, found in tropical and temperate seas, with some entering freshwater. They range from small fishes a few centimeters long as adults, to giants 3m long.
+    <h2 id="features">Features</h2>
+  </dd>
+</dl>
+
+<p>Groupers come in various shapes and colours and patterns. Generally, they have large mouths. Groupers are among the top predators in calm, shallow waters. They hunt alone, and either creep up on their prey or lie in ambush. They suck in prey by suddenly opening their huge mouths. Groupers have sharp, spiky teeth. These merely grip and don’t kill, so the prey is usually swallowed alive!
+<strong>Grouper babies:</strong>
+Members of the Family Serranidae can change their gender! Most are female when they first reach maturity. As they get larger, some may change into males. Some groupers gather in large aggregations at a particular place to spawn. Such aggregation sites are often the part of a reef with strong currents that wash the fertilised eggs out to sea, to develop away from hungry filter-feeders.</p>
+
+<p><strong>Human uses:</strong>
+Groupers are edible and a highly valued seafood dish for many Singaporeans. However, we may be eating the groupers to extinction.</p>
+
+<p>Groupers are vulnerable to overfishing because they are not numerous to begin with. At the same time, they have high commercial value and are relatively easy to catch. Many are territorial and stay within a particular home range, and most are not shy of divers. In the Hong Kong area, populations of the larger groupers are dwindling and smaller groupers such as the
+<a href="boenak.md">Chocolate hind</a>
+(
+<em>Cephalopholis boenak</em>
+) are now being targetted.</p>
+
+<p>Being top predators, they are naturally uncommon. They reach maturity and maximum size relatively slowly. Thus overfishing of young fish before they are able to reproduce can have a serious effect. Males are larger and rarer, thus more vulnerable to overfishing. This can result in an imbalance in the gender ratio which can affect reproduction. Overfishing at the spawning sites where large numbers of the usually solitary groupers gather can also devastate the local population of these fishes.</p>
+
+<p>In Southeast Asia, groupers are widely farmed in floating cages or in ponds and tanks. In Singapore, some like the
+<a href="coioides.md">Orange-spotted grouper</a>
+(
+<em>Epinephalus coioides</em>
+) and Malabar grouper (
+<em>Epinephelus malabaricus</em>
+) are reared in floating cages in the sea until they reach marketable size. However, the farms are mostly stocked by juveniles harvested unsustainably from the wild.</p>
+
+<hr />
+
+<p><strong>Some Groupers on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/100527tmd3431m3.jpg" alt="" />
+        <div class="caption">
+        Chocolate hind
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/coioides/120606bbd4364m3.jpg" alt="" />
+        <div class="caption">
+        Orange-spotted grouper
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/formosa/150520ecplks2.jpg" alt="" />
+        <div class="caption">
+        Bluelined hind
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/quoyanus/110418tmftd9031m3.jpg" alt="" />
+        <div class="caption">
+        Honeycomb grouper
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Unidentified groupers on Singapore shores</strong></p>
+
+<p>Photos of
+<a href="https://www.flickr.com/search/?user_id=54527470%40N00&amp;sort=date-taken-desc&amp;safe_search=3&amp;view_all=1&amp;text=Unidentified%20grouper">Unidentified groupers</a>
+for free download from
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<hr />
+
+<hr />
+
+<p><strong>Family Serranidae recorded for Singapore</strong>
+from Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+.</p>
+
+<p><em>from from Tan, K. S. &amp; L. M. Chou, 2000.
+*A Guide to the Common Seashells of Singapore</em>
+.</p>
+
+<p>**from WORMS
+**
++Other additions (Singapore Biodiversity Record, etc)
+**</p>
+
+<p><strong>Family Serranidae</strong></p>
+
+<p><em>Anyperodon leucogrammicus</em>
+*Cephalopholis argus</p>
+
+<p><a href="boenak.md">Cephalopholis boenak</a>*
+(Chocolate hind)
+<em><a href="formosa.md">Cephalopholis formosa</a></em>
+(Blue-lined hind)
+<em>Cromileptes altivelis</em>
+(Humpback grouper)
+<em>Diploprion bifasciatum</em>
+(Yellow soapfish)
+*Plectropomus maculatus</p>
+
+<p>Variola louti</p>
+
+<p>Epinephelus areolatus</p>
+
+<p>Epinephelus argus=**Cephalopholis argus</p>
+
+<p>Epinephelus awoara</p>
+
+<p>Epinephelus bleekeri</p>
+
+<p>Epinephelus boenack=**Cephalopholis boenak</p>
+
+<p>Epinephelus caeruleo-punctatus</p>
+
+<p><a href="coioides.md">Epinephelus coioides</a>*
+(Orange-spotted grouper)
+*Epinephelus corallicola</p>
+
+<p>Epinephelus diacanthus</p>
+
+<p>Epinephelus fasciatus</p>
+
+<p>Epinephelus fuscoguttatus</p>
+
+<p>Epinephelus lanceolatus*
+(Giant grouper)
+<em>Epinephelus malabaricus</em>
+(Malabar grouper)
+*Epinephelus megachir=**Epinephelus quoyanus</p>
+
+<p>Epinephelus merra</p>
+
+<p>Epinephelus nebulosus=**Epinephelus coioides</p>
+
+<p>Epinephelus pachycentrum=**Cephalopholis boenak</p>
+
+<p><a href="quoyanus.md">Epinephelus quoyanus</a>*
+(Honeycomb/Longfin grouper)
+*Epinephelus sexfasciatus</p>
+
+<p>Epinephelus tauvina</p>
+
+<p>Epinephelus urodelus=<em>*Cephalopholis urodeta</em></p>
+
+<p><strong>**now in Family Centrogenyidae (False scorpionfishes)</strong></p>
+
+<p><em><a href="../centrogenyidae/vaigiensis.md">Centrogenys vaigiensis</a></em>
+(False scorpionfish)</p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/243.md">Marbled Grouper (
+<em>Epinephalus tauvina</em>
+)</a>
+Tan, Leo W. H. &amp; Ng, Peter K. L., 1988,
+<em><a href="http://mangrove.nus.edu.sg/pub/seashore/">A Guide to Seashore Life</a></em>
+. The Singapore Science Centre, Singapore. 160 pp.</li>
+  <li><a href="http://mangrove.nus.edu.sg/guidebooks/text/2103.md">Orange-spotted Grouper (
+<em>Epinephelus coioides</em>
+)</a>
+Ng, Peter K. L. &amp; N. Sivasothi, 1999.
+<em><a href="http://mangrove.nus.edu.sg/guidebooks/">A Guide to the Mangroves of Singapore II (Animal Diversity)</a></em>
+. Singapore Science Centre. 168 pp.</li>
+  <li>Lim, Kelvin K. P. &amp; Jeffrey K. Y. Low, 1998.
+<em><a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/">A Guide to the Common Marine Fishes of Singapore</a></em>
+. Singapore Science Centre. 163 pp.</li>
+  <li>
+    <dl>
+      <dt><a href="http://www.hku.hk/ecology/GroupersWrasses/iucnsg/index.html">IUCN Groupers and Wrasses Specialist Group</a></dt>
+      <dd>Details on groupers and the threats they face.</dd>
+    </dl>
+  </li>
+  <li>
+    <dl>
+      <dt><a href="http://www.fishbase.org/Summary/FamilySummary.cfm?ID=289">Family Serranidae</a></dt>
+      <dt>from</dt>
+      <dt><a href="http://www.fishbase.org/">FishBase</a></dt>
+      <dd>Technical fact sheet on the family, including fact sheets on individual species.</dd>
+    </dl>
+  </li>
+  <li>From the wild shores of singapore</li>
+  <li><a href="http://wildshores.blogspot.com/2009/02/eating-live-grouper-devastates-reefs.html">Eating groupers devastates reefs and lives</a></li>
+  <li><a href="http://wildshores.blogspot.com/2008/10/groupers-nearly-gone.html">Groupers nearly gone</a></li>
+  <li><a href="http://wildshores.blogspot.com/2010/01/groupers-are-undersea-architects.html">Groupers are undersea architects building habitats for others</a></li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Neo Mei Lin.
+<em>Giant grouper at Semakau</em>
+. 28 December 2017. Singapore Biodiversity Records 2017: 179 ISSN 2345-7597. National University of Singapore.</li>
+  <li>Kelvin K. P. Lim. 28 Jul 2017.
+<em>Longfin grouper, Epinephelus quoyanus, in Sisters Islands Marine Park</em>
+. Singapore Biodiversity Records 2017: 93.</li>
+  <li>Toh Chay Hoon. 27 May 2016.
+<em>Humpback grouper off Pulau Satumu, Cromileptes altivelis</em>
+. Singapore Biodiversity Records 2016: 69</li>
+  <li>Tan Heok Hui. 18 December 2015.
+<em>Sabah grouper in Singapore, Epinephelus lanceolatus x Epinephelus fuscoguttatus</em>
+. Singapore Biodiversity Records 2015: 197-198.</li>
+  <li>Brian Cabrera, Desmond Ong &amp; Siti Maryam Yaakub. 9 October 2015.
+<em>Probable breeding pair of grouper</em>
+. Singapore Biodiversity Records 2015: 154-155.</li>
+  <li>Toh Chay Hoon &amp; Kelvin K. P. Lim. 24 July 2015.
+<em>Humpback grouper at Chek Jawa</em>
+. Singapore Biodiversity Records 2015: 101.</li>
+  <li>Jeffrey Low K. Y., Jani Isa Thuaibah Tanzil &amp; Zeehan Jaafar, 2009.
+<em>Some note-worthy fishes observed in the Singapore Straits</em>
+. Nature in Singapore, 2: 77–82.</li>
+  <li>Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+. National Council on the Environment. 163pp.</li>
+  <li>Allen, Gerry, 2000.
+<em>Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers</em>
+. Periplus Editions. 292 pp.</li>
+  <li>Kuiter, Rudie H. 2002.
+<em>Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers and Fishermen</em>
+New Holland Publishers. 434pp.</li>
+  <li>Lieske, Ewald and Robert Myers. 2001.
+<em>Coral Reef Fishes of the World</em>
+Periplus Editions. 400pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

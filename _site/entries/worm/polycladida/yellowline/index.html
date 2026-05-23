@@ -1,0 +1,810 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Yellow-lined flatworm | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="elegant, striped, blue, lined, flat, worm, flatworm, pseudoceros, polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/170628jngll1.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Platyhelminthes">Platyhelminthes</a>
+                    > 
+                    <a href="/Platyhelminthes/"></a>
+                    > 
+                    <a href="/Platyhelminthes//Polycladida">Polycladida</a>
+                    >
+                    <a href="/Platyhelminthes//Polycladida/Cotylea">Cotylea</a>
+                    >
+                    <a href="/Platyhelminthes//Polycladida/Cotylea/Pseudocerotidae">Pseudocerotidae</a>
+                </p>
+                <h1>Yellow-lined flatworm</h1>
+                
+                    <p class="scientific-name">Pseudoceros sp.</p>
+                
+
+                <p><em>Updated Feb 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This small pale flatworm elegantly edged in blue with a central blue line is regularly encountered on many of our shores, on coral rubble near living reefs.</p>
+
+<h2 id="features">Features</h2>
+
+<p>2-4cm long. There is a pair of pseudotentacles made up of simple folded edges of the body.</p>
+
+<p>Grouped in this entry are flatworms with a body that is white, beige or pale bluish, edged with a bright blue margin and one central blue stripe along the length of the body. The central line ends with a tiny blue circle-dot near the head.</p>
+
+<p>From Rene Ong:</p>
+
+<p>Blue-lined flatworm (
+<em>Pseudoceros concinnus</em>
+): Two fine blue lines in the centre, which are so close to one another that they appear to be one solid blue line. In between the fine blue lines, is the body colour. Body colour creamy-white to slightly bluish-creamy-white.</p>
+
+<p>Yellow-lined flatworm (
+<em>Pseudoceros</em>
+sp. 3): central line is yellow with dark blue border. Body colour lightly bluish-white to bluish (not solid blue).</p>
+
+<p>Braided-line flatworm (
+<em>Pseudoceros</em>
+sp. 4): resembles Pseudoceros sp. 3 but the central line is golden-speckled yellow that looks intermittent by some dull orange and ends in front. Body colour bluish-white to bluish.</p>
+
+<p><a href="bifurcus.md">Racing-lined flatworm</a>
+(
+<em>Pseudoceros bifurcus</em>
+): Body solid blue to bluish purple (not bluish-white) with central line that is white (not yellow or golden) becoming orange or red near the head, the line is edged with a thin dark purple border.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/170628jngll1.jpg" alt="" />
+        <div class="caption">
+        Pulau Jong, Jun 17* Photo shared by Liz Lim on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/170628jngll1a.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+
+</div>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/190801chglks4.jpg" alt="" />
+        <div class="caption">
+        Changi, Aug 19* Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/190801chglks4a.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+
+</div>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/190706skdlks3.jpg" alt="" />
+        <div class="caption">
+        Pulau Sekudu, Jul 19* Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/190706skdlks3a.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/190620jnglks1.jpg" alt="" />
+        <div class="caption">
+        Pulau Jong, Jun 19* Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/190704bblks1.jpg" alt="" />
+        <div class="caption">
+        Beting Bronok, Jul 19* Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/180912tkkdc2.jpg" alt="" />
+        <div class="caption">
+        Pulau Tekukor, Sep 18 Photo shared by Dayna Cheah on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/190901labsg1.jpg" alt="" />
+        <div class="caption">
+        Labrador, Sep 19 Photo shared by Shawne Goh on facebook .
+        </div>
+    </div>
+    
+
+</div>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/080524sntd4190m3.jpg" alt="" />
+        <div class="caption">
+        With a solid blue line. Sentosa, May 08
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/080524sntd4190m3a.jpg" alt="" />
+        <div class="caption">
+        Little blue circle-dot at the head.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/050917smkg2553m3.jpg" alt="" />
+        <div class="caption">
+        With a blue-and-yellow line. Pulau Semakau, Sep 05
+        </div>
+    </div>
+    
+
+</div>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/110903sntmn.jpg" alt="" />
+        <div class="caption">
+        Sentosa, Sep 11 Photo shared by Marcus Ng on flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/031025cjd0042m3.jpg" alt="" />
+        <div class="caption">
+        With a blue-and-yellow line. Chek Jawa, Oct 03
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+<p>*Species are difficult to positively identify without close examination.</p>
+
+<p>On this website, they are grouped by external features for convenience of display.*</p>
+
+<hr />
+
+<p><strong>Elegant flatworms on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?q=Pseudoceros+concinnus&amp;w=54527470%40N00&amp;s=rec">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Pseudoceros%20concinnus/map?&amp;fLat=1.2626&amp;fLon=103.8657&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/190830chgjll1.jpg" alt="" />
+        <div class="caption">
+        Changi, Aug 19 Shared by Jianlin Liu on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/160706skdlks3.jpg" alt="" />
+        <div class="caption">
+        Pulau Sekudu, Jul 16 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/101009cjnml1m3a.jpg" alt="" />
+        <div class="caption">
+        Chek Jawa, Oct 10 Photo shared by Neo Mei Lin on her blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/140114cjlks2m3a.jpg" alt="" />
+        <div class="caption">
+        Chek Jawa, Jan 14 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/130721cjlks1m3.jpg" alt="" />
+        <div class="caption">
+        Chek Jawa, Jul 13 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/160705cjlks1.jpg" alt="" />
+        <div class="caption">
+        Chek Jawa, Jul 16* Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/180714cjjll6.jpg" alt="" />
+        <div class="caption">
+        Chek Jawa, Jul 18 Photo shared by Jianlin LIu on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/170529srpjll5.jpg" alt="" />
+        <div class="caption">
+        Sentosa Serapong, May 17 Shared by Jianlin Liu on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/150815sislks1m3.JPG" alt="" />
+        <div class="caption">
+        Seringat-Kias, Aug 15 Shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/090224lazlks08m3.jpg" alt="" />
+        <div class="caption">
+        Lazarus, Feb 09 Shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/110702lzrlks1m3.jpg" alt="" />
+        <div class="caption">
+        Lazarus, Jul 11 Shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/110702lzrlks9m3.jpg" alt="" />
+        <div class="caption">
+        Lazarus, Jul 11 Shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/160508kuslks2.JPG" alt="" />
+        <div class="caption">
+        Kusu Island, May 16 Photo shared by Loh Kok Sheng on facebook.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/140131kuslks2m3.JPG" alt="" />
+        <div class="caption">
+        Kusu Island, Jan 14 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/160124smkelks2a.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau East, Jan 16 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/110203sjilks1m3.JPG" alt="" />
+        <div class="caption">
+        St. John's Island, Feb 11 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/070902sjilksm3.JPG" alt="" />
+        <div class="caption">
+        St. John's Island, Sep 07 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/070902sjitch01m3.jpg" alt="" />
+        <div class="caption">
+        St. John's Island, Sep 07 Photo shared by Toh Chay Hoon on her flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/190205bsisay1.jpg" alt="" />
+        <div class="caption">
+        Big Sisters Island, Feb 19 Photo shared by Abel Yeo on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/160625tkklks1.jpg" alt="" />
+        <div class="caption">
+        Pseudoceros sp. 5 * Pulau Tekukor, Jun 16 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/100517jngjk2m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Jong, May 10 Photo shared by James Koh on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/160609thntro1.jpg" alt="" />
+        <div class="caption">
+        Terumbu Hantu, Jun 16 Photo shared by Rene Ong on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/100627hntlks2m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Hantu, Jun 10 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/070701hntlks01m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Hantu, Jul 07 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/161117rlhjll1.jpg" alt="" />
+        <div class="caption">
+        Raffles Lighthouse, Nov 16 Photo shared by Jianlin Liu on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/110422tbmlks6m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Bemban, Apr 11 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/110517tptlks28m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Pempang Tengah, May 11 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/110423tpllks7m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Pempang Laut, Apr 11 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/110814smklks7m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau, Aug 11 Photo shared by Lok Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/100519tsmjk1m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Semakau, May 10 Photo shared by James Koh on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/110522bbblks11m3.jpg" alt="" />
+        <div class="caption">
+        Beting Bemban Besar, May 11 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/091231biod7077m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Biola, Dec 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/091231biolks14m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Biola, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/091231biolks13m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Biola, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/100601sluc4546m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Salu, Jun 10
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/100531biod4480m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Biola, May 10
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/blueline/100613snglks1m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><a href="https://vimeo.com/11051179">blue-lined flatworm @ pulau hantu 17Apr2010</a>
+from
+<a href="https://vimeo.com/sgbeachbum">SgBeachBum</a>
+on
+<a href="https://vimeo.com">Vimeo</a>
+.</p>
+
+<hr />
+
+<p>Blue-lined flatworm gliding (Cyrene), Jun 12</p>
+
+<p>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = “//connect.facebook.net/en_GB/sdk.js#xfbml=1&amp;version=v2.3”; fjs.parentNode.insertBefore(js, fjs);}(document, ‘script’, ‘facebook-jssdk’));</p>
+
+<p><a href="https://www.facebook.com/singaporereefwatch/videos/10151025098221273/">Blue-lined flatworm gliding</a>
+Blue-lined flatworm gliding (Cyrene)</p>
+
+<p>Posted by
+<a href="https://www.facebook.com/singaporereefwatch/">Singapore Reef Watch</a>
+on Thursday, 21 June 2012</p>
+
+<hr />
+
+<hr />
+<p><strong>Acknowledgement</strong></p>
+
+<p>With grateful thanks to Leslie H. Harris of the
+<a href="http://www.nhm.org/">Natural History Museum of Los Angeles County</a>
+for comments on this worm and its identification.</p>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>D. M. Bolaños, B. Q. Gan &amp; R. S. L. Ong. 29 Jun 2016. First records of pseudocerotid flatworms (Platyhelminthes: Polycladida: Cotylea) from Singapore: A taxonomic report with remarks on colour variation.(pdf) The Raffles Bulletin of Zoology Supplement No. 34: 130-169 Pp. 130-169.</li>
+  <li>Newman, Leslie and Lester Cannon. 2003.
+<em>Marine Flatworms: The World of Polyclads</em>
+. CSIRO Publishing. 97pp.</li>
+</ul>
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

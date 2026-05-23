@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Api-api | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="avicennia, avicenniaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/090118smkd5783m6l.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Tracheophyta">Tracheophyta</a>
+                    > 
+                    <a href="/Tracheophyta/Magnoliopsida">Magnoliopsida</a>
+                    > 
+                    <a href="/Tracheophyta/Magnoliopsida/Lamiales">Lamiales</a>
+                    >
+                    <a href="/Tracheophyta/Magnoliopsida/Lamiales/"></a>
+                    >
+                    <a href="/Tracheophyta/Magnoliopsida/Lamiales//Avicenniaceae">Avicenniaceae</a>
+                </p>
+                <h1>Api-api</h1>
+                
+                    <p class="scientific-name">Avicennia sp.</p>
+                
+
+                <p><em>Updated Jan 2013</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>Some Api-api species are among the most commonly seen species in our mangroves. A few species, hoever, are rarely seen on our shores. According to Corners, there are 16 species seen in tropical and subtropical shores. There are 5 species in Malaya on muddy coasts and estuaries or sheltered bays, sometimes standing out to sea. But according to Tomlison, there are 8 species found in tropical shores from the intertidal to back mangroves.</p>
+
+<h2 id="features">Features</h2>
+
+<p>Tree up to 30m tall, those on our shores shorter, about 10-25m. Leaves simple, oval to pointed (8-12cm long), arranged opposite one another. The leaves have glands to secrete salt.</p>
+
+<p>The tree has pencil-like pneumatophores that stick up above the ground from underground cable roots that are long, shallow and spread out from the trunk. Generally alternating with the pneumatophores are anchoring roots that emerge from the cable roots and grow downwards. Anchoring roots may be as long as the pneumatophores are tall. Finer absorbing roots also emerge from anchoring roots.</p>
+
+<p>Flowers small yellow in clusters, the inflorescence forms a cross-shape. Flowers are believed to be pollinated by bees which collect the nectar that is produced in “some quantity” according to Tomlinson.</p>
+
+<p>Fruits small (1-2cm long), different shapes depending on the species. The fruit is semi-viviparous, the seedling developing on the parent tree, but not emerging until it has dropped off. According to Tomlinson, “the embryo germinates promptly upon release”. The fruit contains one large seed, with one large green seed-leaf folded around the other.</p>
+
+<p><em>Avicennia</em>
+is named after Ibn Sina (980-1037 AD), a Persian physician-philosopher who gained fame by curing, at the tender age of 17, the King of Bukhhara of an ailment that other physicians were unable to treat. As a reward, he asked only for permission to use the King’s library. Ibn Sina went on to write an immense encyclopaedia of the medical knowledge of his time, which remained in use for the next six centuries. The encyclopaedia included his own insights into the causes and spread of diseases and their treatment including tuberculosis, meningitis (he was the first to describe it), gynaecological and diseases of childhood. He also wrote an encyclopaedia of other scientific and philosophical knowledge covering physics, mathematics, economics and politics. In this, he also added his own insights into among others, the laws of physics, astronomical measurements and mathematical verifications.</p>
+
+<p><strong>Human uses:</strong>
+According to Burkill, the tree provides an “indifferent firewood” and the timber often too twisted to be of use. However, he reported it was widely used to smoke fish as it gave “an agreeable flavour” and also for smoking rubber. The ‘seeds’ are also eaten in various ways by various coastal natives with much treatment such as boiling then soaking or sun drying or roasting in order to make them more palatable. The leaves are fed to cattle in the Red Sea, Persian Gulf and India as well as Australia. Medical uses include the resin for toothache, as a contraceptive, an aphrodisiac. The ash from burnt wood is used to make soap as there is a large amount of alkali in it.</p>
+
+<p><strong>Status and threats:</strong>
+<em>Avicennia marina</em>
+is listed as ‘Critically Endangered’ in the Red List of threatened plants of Singapore.</p>
+
+<p>*<img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/090118smkd5783m6l.jpg" alt="" /></p>
+
+<p>Pulau Semakau, Jan 09
+<img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/090118smkd5783m3a.jpg" alt="" />*
+Pencil roots.
+<em><img src="http://www.wildsingapore.com/wildfacts/general/031122cjd0051m3.jpg" alt="" /></em>
+Germinating
+<em>Avicennia</em>
+seedlings.
+<em>Chek Jawa, Nov 03</em></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/090114labd5287m3.jpg" alt="" />
+        <div class="caption">
+        Leaves very white underneath.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/020511sbwrcpd9062m3.jpg" alt="" />
+        <div class="caption">
+        Small flowers, not so crowded.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/090307blyd7439m3.jpg" alt="" />
+        <div class="caption">
+        Fruits with long pointed tips smooth.
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/110827smkd9885m3.jpg" alt="" />
+        <div class="caption">
+        Leaves not so white underneath.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/111022smkd2528m3b.jpg" alt="" />
+        <div class="caption">
+        Large flowers, crowded together. Flower stalk squarish to leaf-bearing portions.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/110827smkd9918m3.jpg" alt="" />
+        <div class="caption">
+        Fruits oval smooth. Bluish never yellowish.
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/rumphiana/030914cjd0030m3.jpg" alt="" />
+        <div class="caption">
+        Leaves underneath white and velvety.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/rumphiana/090118smkd5726m3a.jpg" alt="" />
+        <div class="caption">
+        Large flowers, crowded together. Flower stalk squarish NOT to leaf-bearing portions.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/rumphiana/030914cjd0030m3b.jpg" alt="" />
+        <div class="caption">
+        Fruits oval usually wrinkly.
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/officinalis/020727cjcpd4363m3.jpg" alt="" />
+        <div class="caption">
+        Leaves glossy and smooth.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/officinalis/090517ubnd1980m3a.jpg" alt="" />
+        <div class="caption">
+        Large flowers, crowded together.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/officinalis/030817cjd0005m3.jpg" alt="" />
+        <div class="caption">
+        Fruits oval with pointed tip smooth.
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://mangrove.nus.edu.sg/guidebooks/text/1049.md">Api-api (
+<em>Avicennia</em>
+)</a>
+Ng, Peter K. L. &amp; N. Sivasothi, 1999.
+<em><a href="http://mangrove.nus.edu.sg/guidebooks/">A Guide to the Mangroves of Singapore</a>
+I (Plant Diversity)</em>
+. Singapore Science Centre. 168 pp.</li>
+  <li><a href="https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3263"><em>Avicennia alba</em></a>
+and
+<a href="https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=6453"><em>Avicennia marina</em></a>
+and
+<a href="https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3267"><em>Avicennia officinalis</em></a>
+and
+<a href="https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3589"><em>Avicennia rumphiana</em></a>
+on NParks Flora and Fauna website: photos and fact sheet</li>
+  <li>Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+<a href="http://www.fao.org/docrep/010/ag132e/ag132e00.md"><em>Mangrove Guidebook for Southeast Asia</em></a>
+(PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
+<em>The Concise Flora of Singapore: Gymnosperms and Dicotyledons</em>
+. Singapore University Press. 222 pp.</li>
+  <li>Corners, E. J. H., 1997.
+<em>Wayside Trees of Malaya: in two volumes</em>
+. Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.</li>
+  <li>Tomlinson, P. B., 1986.
+<em>The Botany of Mangroves</em>
+Cambridge University Press. USA. 419 pp.</li>
+  <li>Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+<em>The Singapore Red Data Book: Threatened plants and animals of Singapore</em>
+. Nature Society (Singapore). 285 pp.</li>
+  <li>Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+. National Council on the Environment. 163pp.</li>
+  <li>Burkill, I. H., 1993.
+<em>A Dictionary of the Economic Products of the Malay Peninsula</em>
+. 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

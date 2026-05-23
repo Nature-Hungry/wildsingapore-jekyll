@@ -1,0 +1,599 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Toadfishes | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="three, spined, toadfish, toad, fish, batrachomoeus, trispinosus, batrachoididae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/050526cjg6754m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Chordata">Chordata</a>
+                    > 
+                    <a href="/Chordata/Actinopterygii">Actinopterygii</a>
+                    > 
+                    <a href="/Chordata/Actinopterygii/Batrachoidiformes">Batrachoidiformes</a>
+                    >
+                    <a href="/Chordata/Actinopterygii/Batrachoidiformes/"></a>
+                    >
+                    <a href="/Chordata/Actinopterygii/Batrachoidiformes//Batrachoididae">Batrachoididae</a>
+                </p>
+                <h1>Toadfishes</h1>
+                
+                    <p class="scientific-name">Family Batrachoididae</p>
+                
+
+                <p><em>Updated Sep 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about them ... They are ambush predators; lurking in hiding for passing prey. They can croak like a toad. But don't touch, they may bite! Hard to spot: they resemble stones. So watch your step!
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        They are ambush predators; lurking in hiding for passing prey. They can croak like a toad. But don't touch, they may bite! Hard to spot: they resemble stones. So watch your step!
+        </div>
+    </div>
+    
+
+</div>
+
+<h2 id="where-seen">Where seen?</h2>
+<p>These bottom-dwelling fishes are commonly seen on all our shores but often overlooked. Skulking under stones, near coral rubble, or half covered in sand and sediments, they are hard to spot. Even out in the open, they look like algae-covered stones.
+At night, the fish is often spotted by its large eyes that ‘shine’ red in our torch.
+Sometimes seen dry out of water at low tide, under large stones, such fishes are still very much alive. There is no need to ‘save’ them or move them.</p>
+
+<dl>
+  <dt><strong>What are toadfishes?</strong></dt>
+  <dt>Toadfishes belong to the Family Batrachoididae. According to</dt>
+  <dt><a href="http://www.fishbase.org/Summary/FamilySummary.cfm?ID=189">FishBase</a></dt>
+  <dd>the family has 19 genera and 69 species. They are found in the Atlantic, Indian and Pacific oceans.
+‘Batrachos’ means ‘frog’ in Greek and members of the toadfish family do indeed croak when distressed. They make these sounds by vibrating the swim bladder. They are commonly called toadfishes instead of frogfishes because the
+<a href="../antennariidae/antennariidae.md">Frogfish</a>
+is another kind of fish.</dd>
+</dl>
+
+<h2 id="features">Features</h2>
+
+<p>A toadfish is basically an enormous head on a small body! It has a broad, flat head with large eyes near the top of the head.</p>
+
+<p><strong>Three-spined toadfish</strong>
+(
+<em>Batrachomoeus trispinosus</em>
+): Those seen about 10-20cm long, grows to about 30cm. Its super wide mouth circles the broad head and is usually camouflaged with fleshy barbels and flaps around the lips. The first dorsal fin has 2-3 spines. It lacks scales and has a tough, leathery smooth skin with mottled patterns. Distinct greyish-brown bars on the sides, well-contrasted markings on the top of its head. There is a pit behind the upper edge of the pectoral fin base.
+<em>Allenbatrachus reticulatus</em>
+looks similar and lacks this pit.</p>
+
+<p><strong>Sometimes mistaken for</strong>
+stonefish and scorpionfishes. Here’s more on
+<a href="../cfstonefish.md">how to tell apart fishes that look like stones</a>
+.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/050526cjg6754m3.jpg" alt="" />
+        <div class="caption">
+        Huge eyes often the first sign of the fish hidden under stones. Chek Jawa, May 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/070812sisd5439m6l.jpg" alt="" />
+        <div class="caption">
+        Sisters Island, Aug 07
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Don’t touch the Toad!</strong>
+Beware of the sharp spines on the sides of its head that can cause painful pricks. Some may even bite if handled.
+**
+<strong>How to stay safe:</strong>
+Don’t grope around with bare hands, don’t handle fishes.</p>
+
+<p><strong>What does it eat?</strong>
+A sluggish fish that swims poorly, the toadfish is an ambush predator. It waits motionless for small fish, crabs and prawns to wander by. Suitable prey that comes near enough is sucked into its wide jaws. These jaws expand suddenly into a cavernous gape and the prey is usually swallowed whole! The toadfish’s stomach can expand greatly too, to hold large prey. The jaws are set with bands of small, sharp teeth to prevent prey from escaping.</p>
+
+<p><strong>Baby toadfishes:</strong>
+According to the Encyclopedia of Life, males call mates to their nest with croaking, hooting, grunting and humming sounds they make using their swim bladder; toadfish also make (different) noises when threatened. In some species, male looks after the eggs after they are laid in the nest on on ceilings of narrow or low overhangs of rock or rubble. The male protects the embryos until they are self-sufficient, about 3-4 weeks. WE have observed an adult toadfish with many tiny fishes under the shelter of a rock.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/140713bblks1m6l.jpg" alt="" />
+        <div class="caption">
+        Parent fish looking after its young? Beting Bronok, Jul 14 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/140713bblks2m3.JPG" alt="" />
+        <div class="caption">
+        Closer look at the young fishes. Beting Bronok, Jul 14 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Human uses:</strong>
+<em>**</em>
+In some places, members of this family are considered edible delicacies. It is also sold in the live aquarium trade.</p>
+
+<p><strong>Fish in space!</strong>
+The balancing organs of some members of the toadfish family are very similar to ours so they are much studied for medical applications. In fact, some members of this family were sent up in the space shuttle to study the effects of space travel on balance!</p>
+
+<hr />
+
+<p><strong>Three-spined toadfishes on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470%40N00&amp;sort=date-taken-desc&amp;view_all=1&amp;text=Batrachomoeus%20trispinosus">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Batrachomoeus%2520trispinosus/map?&amp;fLat=1.2622&amp;fLon=103.8661&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/201118pglvc8.jpg" alt="" />
+        <div class="caption">
+        Punggol, Nov 20 Photo shared by Vincent Choo on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/250626ubnccn4.jpg" alt="" />
+        <div class="caption">
+        Pulau Ubin, Jun 25 Photo shared by Che Cheng Neo on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/250627bbdc3.jpg" alt="" />
+        <div class="caption">
+        Beting Bronok, Jun 25 Photo shared by Dayna Cheah on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/201117labvc7.jpg" alt="" />
+        <div class="caption">
+        Labrador, Nov 20 Photo shared by Vincent Choo on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/251011labal3.jpg" alt="" />
+        <div class="caption">
+        Labrador, Oct 25 Photo shared by Adriane Lee on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/251011tgrlks27.jpg" alt="" />
+        <div class="caption">
+        Sentosa Tg Rimau, Oct 25 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/100103tkkjk3m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Tekukor, Jan 10 Photo shared by James Koh on his flickr .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/250810bsisky4.jpg" alt="" />
+        <div class="caption">
+        Big Sisters, Aug 25 Photo shared by Kelvin Yong on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/250726cyrlks8.jpg" alt="" />
+        <div class="caption">
+        Cyrene, Jul 25 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/180715thndc1.jpg" alt="" />
+        <div class="caption">
+        Terumbu Hantu, Jul 18 Photo shared by Dayna Cheah on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/080210smktch05m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau, Feb 08 Photo shared by Toh Chay Hoon on her flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/210823smkerk2.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau (East), Aug 21 Photo shared by Richard Kuah on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/210629bbbvc5.jpg" alt="" />
+        <div class="caption">
+        Beting Bemban Besar, Jun 21 Photo shared by Vincent Choo on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/200624trydc1.jpg" alt="" />
+        <div class="caption">
+        Terumbu Raya, Jun 20 Photo shared by Dayna Cheah on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/210428slulks1.jpg" alt="" />
+        <div class="caption">
+        Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Family Batrachoididae recorded for Singapore</strong>
+from Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+.</p>
+
+<p><em>from Lim, Kelvin K. P. &amp; Jeffrey K. Y. Low, 1998.
+*A Guide to the Common Marine Fishes of Singapore</em>
+.</p>
+
+<p>^from
+<a href="http://www.marinespecies.org/index.php">WORMS</a></p>
+
+<p>+other additions (Singapore Biodiversity Records, The Biodiversity of Singapore, etc)</p>
+
+<p><strong>Family Batrachoididae</strong></p>
+
+<p>*+Allenbatrachus reticulatus</p>
+
+<p>Batrichthys grunnieus=^Allenbatrachus grunniens</p>
+
+<p>Halophryne diemensis</p>
+
+<p>Halophryne gangene=^Allenbatrachus grunniens</p>
+
+<p>Halophryne trispinosus=^Batrachomoeus trispinosus*
+(Three-spined toadfish)</p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/232.md">Three-spined Toadfish (
+<em>Batrachomoeus trispinosus</em>
+)</a>
+Lim, Kelvin K. P. &amp; Jeffrey K. Y. Low, 1998.
+<em><a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/">A Guide to the Common Marine Fishes of Singapore</a></em>
+. Singapore Science Centre. 163 pp.</li>
+  <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/232.md">Toadfish (
+<em>Batrachus</em>
+sp.)</a>
+Tan, Leo W. H. &amp; Ng, Peter K. L., 1988.
+<em><a href="http://mangrove.nus.edu.sg/pub/seashore/">A Guide to Seashore Life</a></em>
+<a href="http://mangrove.nus.edu.sg/pub/seashore/">. The Singapore Science Centre</a>
+, Singapore. 160 pp.</li>
+  <li><a href="https://singapore.biodiversity.online/taxon/A-Vert-Fish-Batrachoidiformes-Batrachoididae">Batrachoididae (Toadfishes)</a>
+on The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.</li>
+  <li><a href="http://eol.org/pages/8249/details">Family Batrachoididae</a>
+on Encyclopedia of Life.</li>
+  <li>
+    <dl>
+      <dt><a href="http://www.fishbase.org/Summary/FamilySummary.cfm?ID=189">Family Batrachoididae (Toadfishes)</a></dt>
+      <dt>and</dt>
+      <dt><em><a href="http://www.fishbase.org/summary/6391">Allenbatrachus grunniens</a></em></dt>
+      <dt><a href="http://www.fishbase.org/summary/6391">(Grunting toadfish)</a></dt>
+      <dt>and</dt>
+      <dt>[<em>Halophryne diemensis</em></dt>
+      <dt>(Banded toadfish)](http://www.fishbase.org/summary/10748)</dt>
+      <dt>and</dt>
+      <dt>[<em>Batrachomoeus trispinosus</em></dt>
+      <dt>(Three-spined frogfish)](http://www.fishbase.org/summary/10747)</dt>
+      <dt>from</dt>
+      <dt><a href="http://www.fishbase.org/">FishBase</a></dt>
+      <dd>Technical fact sheet on the family with fact sheets on members of the family.</dd>
+    </dl>
+  </li>
+  <li><a href="ftp://ftp.fao.org/docrep/fao/009/y4161e/y4161e28.pdf">Order Batrachoidiformes Batrachoididae Toadfishes</a>
+by B.B. Collette, National Marine Fisheries Service, National Museum of Natural History, Washington D.C., USA on the FAO website (pdf).</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+. National Council on the Environment. 163pp.</li>
+  <li>Allen, Gerry, 2000.
+<em>Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers</em>
+. Periplus Editions. 292 pp.</li>
+  <li>Kuiter, Rudie H. 2002.
+<em>Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers &amp; Fishermen</em>
+New Holland Publishers. 434pp.</li>
+  <li>Lieske, Ewald and Robert Myers. 2001.
+<em>Coral Reef Fishes of the World</em>
+Periplus Editions. 400pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

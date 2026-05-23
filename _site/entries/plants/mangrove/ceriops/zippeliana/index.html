@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title> Tengar merah | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="ceriops, zippeliana, sp, nov, rhizophoraceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/110226ubnd6418M6L.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Tracheophyta">Tracheophyta</a>
+                    > 
+                    <a href="/Tracheophyta/Magnoliopsida">Magnoliopsida</a>
+                    > 
+                    <a href="/Tracheophyta/Magnoliopsida/Malpighiales">Malpighiales</a>
+                    >
+                    <a href="/Tracheophyta/Magnoliopsida/Malpighiales/"></a>
+                    >
+                    <a href="/Tracheophyta/Magnoliopsida/Malpighiales//Rhizophoraceae">Rhizophoraceae</a>
+                </p>
+                <h1> Tengar merah</h1>
+                
+                    <p class="scientific-name">Ceriops zippeliana</p>
+                
+
+                <p><em>Updated Jan 2013</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This beautiful mangrove with ‘perky’ propagules is sometimes seen in our mangroves, often as shrubs or small trees. This species was first described in 2008! It was previously listed as
+<em>Ceriops sp. nov.</em>
+in our older mangrove checklists.</p>
+
+<h2 id="features">Features</h2>
+
+<p>A shrub to tree 12m tall. Bark brownish with some lenticels, flaky at the base.</p>
+
+<p>Leaves oval (tips not pointed) (7-11cm), glossy green. Leaf stalk usually not pinkish. Stipule flattened knife-like.</p>
+
+<p>Flowers small (0.5cm) with tiny white frilly petals. Several flowers on a short stalk, but not as many flowers as in
+<a href="tagal.md">Tengar</a>
+(
+<em>Ceriops tagal</em>
+).</p>
+
+<p>Fruit brown with a textured pattern: this is the identifying feature of this species. Hypocotyl long pointed (9-17cm long) with fluted ridges along the length and a red collar when ready to drop off. The propagules point upwards and in all directions, not all hanging downwards as in
+<em>Ceriops tagal</em>
+.</p>
+
+<p>Sometimes with stilt roots.</p>
+
+<p><strong>Status and threats:</strong>
+It is listed as ‘Endangered’ on the Red List of threatened plants of Singapore.</p>
+
+<p><em><img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/110226ubnd6418M6L.jpg" alt="" /></em>
+Sometimes with stilt roots.
+<em>Pulau Ubin, Feb 11</em></p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/090124ubnd6042m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Ubin, Jan 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/090704ubnd6338m3.jpg" alt="" />
+        <div class="caption">
+        Leaves oval. Pulau Ubin, Jul 09
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/090124ubnd6058m3.jpg" alt="" />
+        <div class="caption">
+        Flowers small, a few on a short stalk. Pulau Ubin, Jan 09 White petals with frilly edges. Pulau Ubin, Jan 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/090704ubnd6338m3a.jpg" alt="" />
+        <div class="caption">
+        Brown 'fruit' with textured surface. Changi Creek, Apr 09 Propagules point upwards and other directions. Pasir Ris Park, Mar 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/090802ubnd8163m6l.jpg" alt="" />
+        <div class="caption">
+        Red collar on ripe propagule. Ridged propagules. Pulau Ubin, Aug 09
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Tengar merah on Singapore shores</strong></p>
+
+<hr />
+
+<p>Photos of
+<a href="https://www.flickr.com/search/?q=Ceriops+zippeliana&amp;w=54527470%40N00&amp;s=rec">Tengar merah</a>
+for free download from
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<hr />
+
+<p>Distribution in Singapore on
+<a href="https://www.flickr.com/photos/wildsingapore/tags/Ceriops%2520zippeliana/map?&amp;fLat=1.2629&amp;fLon=103.8661&amp;zl=11&amp;order_by=recent">this wildsingapore flickr map</a></p>
+
+<hr />
+
+<p><strong>References</strong></p>
+
+<ul>
+  <li><em><a href="https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=6541">Ceriops zippeliana</a></em>
+on the NParks Flora and Fauna website: photos and fact sheet.</li>
+  <li>Sheue CR, HY Liu, CC Tsai, SMA Rashid, JWH Yong, and YP Yang. 2009. On the morphology and molecular basis of segregation of two Species
+<em>Ceriops zippeliana</em>
+Blume and
+<em>C. decandra</em>
+(Griff.) Ding Hou (Rhizophoraceae) from southeastern Ding Hou (Rhizophoraceae) from southeastern Asia Asia . Blumea (accepted). (SCI) 95-2621-B-415-002-MY2 . Blumea (accepted). (SCI) 95-2621-B-415-002-MY2</li>
+  <li><a href="http://tai2.ntu.edu.tw/taiwania/pdf/tai.2010.55.1.72.pdf"><em>Ceriops zippeliana</em>
+Blume (Rhizophoraceae), a New Record of a Mangrove Species in Singapore</a>
+Chiou-Rong Sheue, S. M. A. Rashid, Jean W. H. Yong and Yuen-Po Yang, Taiwania, 55(1): 72-77, 2010</li>
+</ul>
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

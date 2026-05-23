@@ -1,0 +1,613 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Snaky anemone | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="cork, screw, corkscrew, tentacle, anemone, macrodactyla, heteractis, doreensis, stichodactylidae, actiniaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/050821bbd5815m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Cnidaria">Cnidaria</a>
+                    > 
+                    <a href="/Cnidaria/Anthozoa">Anthozoa</a>
+                    > 
+                    <a href="/Cnidaria/Anthozoa/Actiniaria">Actiniaria</a>
+                    >
+                    <a href="/Cnidaria/Anthozoa/Actiniaria/Enthemonae">Enthemonae</a>
+                    >
+                    <a href="/Cnidaria/Anthozoa/Actiniaria/Enthemonae/Actiniidae">Actiniidae</a>
+                </p>
+                <h1>Snaky anemone</h1>
+                
+                    <p class="scientific-name">Heteractis doreensis</p>
+                
+
+                <p><em>Updated Dec 2024</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This large anemone has long snaky tentacles that resemble udon noodles. It is sometimes seen on some of our shores, on coral rubble and near seagrasses and reefs. Although generally only exposed at the lowest tides, it is said that the anemone is generally found no deeper than 5m. In 2023, it has been reassigned from
+<em>Macrodactyla</em>
+to
+<em>Heteractis doreensis</em>
+.</p>
+
+<h2 id="features">Features</h2>
+
+<p>Diameter with tentacles extended said to reach up to 50cm but those seen usually smaller about 20-30cm. Tentacles snaky, thick and long (about 10cm). Sometimes (not always), the tentacles may be tightly coiled or curled especially when the anemone is submerged. It is also called the Corkscrew Tentacle anemone for this reason. To some (hungry) visitors, the anemone reminds them of a bowl of udon noodles!</p>
+
+<p>The tentacles are close to one another at the circumference of the oral disk, and more sparsely distributed on the oral disk. Sometimes, a broad expanse in the centre of the oral disk around the mouth has no tentacles. There are white stripes radiating from the central mouth. The stripes may extend onto the tentacles. Tentacles and oral disk usually the same colour. Tentacles may be brown, green or purplish, but tips may be darker or lighter. The oral disk is purplish-gray to brown, sometimes with a greenish cast. The underside of the oral disk is purplish with white eye-shaped non-adhesive verrucae that extend onto the white body column.</p>
+
+<p><strong>Sometimes confused with</strong>
+other large sea anemones and similar large cnidarians. Here’s more on how to tell apart
+<a href="cfbiglong.md">large sea anemones with long tentacles</a>
+and
+<a href="../cflargecnidarians.md">large ‘hairy’ cnidarians</a>
+.</p>
+
+<p><strong>Snaky friends:</strong>
+The anemone harbours symbiotic single-celled algae (called zooxanthellae). The algae undergo photosynthesis to produce food from sunlight. The food produced is shared with the anemone, which in return provides the algae with shelter and minerals. The zooxanthellae are believed to give tentacles their brown or greenish tinge.</p>
+
+<p>Several kinds of animals have been associated with snaky anemones including
+<a href="../../crustacea/othercrust/shrimp/palaemonidae.md">anemone shrimps</a>
+(
+<em>Periclimenes</em>
+sp.) and
+<a href="../../vertebrates/fish/pomacentridae/amphiprion.md">anemonefishes</a>
+(
+<em>Amphiprion</em>
+sp.) including
+<em>A. biaculeatus, A. clarkii</em>
+(juvenile and adult),
+<em>A. percula, A. perideraion, A. polymnus</em>
+(juvenile and adult). But these are rarely observed on the Snaky anemones seen on the intertidal during low tide.</p>
+
+<p><strong>Human uses:</strong>
+Unfortunately, these beautiful animals are harvested from the wild for the live aquarium trade, although they are difficult to maintain in captivity.
+<strong>**
+**Status and threats:</strong>
+As at 2024, it is listed as Endangered in Singapore.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/050821bbd5815m3.jpg" alt="" />
+        <div class="caption">
+        Beting Bronok, Aug 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/050821bbd5815m3a.jpg" alt="" />
+        <div class="caption">
+        White stripes radiating from the centre.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/050821bbd5815m3c.jpg" alt="" />
+        <div class="caption">
+        White eyed-shaped verrucae.
+        </div>
+    </div>
+    
+
+</div>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/120621cyrd6061m3.jpg" alt="" />
+        <div class="caption">
+        Cyrene Reef, Jun 12 With Peacock-tail anemone shrimp ( Periclimenes brevicarpalis )
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/070322cyrd9203m3.jpg" alt="" />
+        <div class="caption">
+        Cyrene Reef, Mar 07 Tentacles in tight curls.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/050821bbg1876m3.jpg" alt="" />
+        <div class="caption">
+        Beting Bronok, Aug 05 Body column purplish on the upper portion and white on the lower.
+        </div>
+    </div>
+    
+
+</div>
+
+<hr />
+
+<p><strong>Snaky anemones on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470@N00&amp;sort=date-posted-desc&amp;view_all=1&amp;text=Macrodactyla doreensis">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Macrodactyla%2520doreensis/map?&amp;fLat=1.2619&amp;fLon=103.8661&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/210528chg7tch1.jpg" alt="" />
+        <div class="caption">
+        Changi Carpark 7, May 21 Photo shared by Toh Chay Hoon on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/230605chg7lks2.jpg" alt="" />
+        <div class="caption">
+        Changi Carpark 7, Jun 23 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/250627bbdc4.jpg" alt="" />
+        <div class="caption">
+        Beting Bronok, Jun 25 Photo shared by Dayna Cheah on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/191214cjlks1.jpg" alt="" />
+        <div class="caption">
+        Chek Jawa, Dec 19 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/200706skdjll2.jpg" alt="" />
+        <div class="caption">
+        Pulau Sekudu, Jul 20 Photo shared by Jianlin Liu on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/170625bblks3.jpg" alt="" />
+        <div class="caption">
+        Beting Bronok, Jun 17 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/220716bbtl1.jpg" alt="" />
+        <div class="caption">
+        Beting Bronok, Jul 22 Photo shared by Tammy Lim on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/090528ecplks.JPG" alt="" />
+        <div class="caption">
+        East Coast Park, May 09 Photo shared by Loh Kok Sheng on flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/230608tmftky1.jpg" alt="" />
+        <div class="caption">
+        Tanah Merah Ferry Terminal, Jun 23 Photo shared by Kelvin Yong on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/251107tmftlks9.jpg" alt="" />
+        <div class="caption">
+        Tanah Merah Ferry Terminal, Nov 25 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/190422srpay3.jpg" alt="" />
+        <div class="caption">
+        Sentosa Serapong, Apr 2019 Photo shared by Abel Yeo on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/240527srpky3.jpg" alt="" />
+        <div class="caption">
+        Sentosa Serapong, May 24 Photo shared by Kelvin Yong on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/171108lazro.jpg" alt="" />
+        <div class="caption">
+        Lazarus Island, Nov 17 Photo shared by Rene Ong on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/210625kusrk1.jpg" alt="" />
+        <div class="caption">
+        Kusu Island, Jun 21 Photo shared by Richard Kuah on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/230321tkrky1.jpg" alt="" />
+        <div class="caption">
+        Pulau Tekukor, Mar 23 Photo shared by Kelvin Yong on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/230321tkrtl1.jpg" alt="" />
+        <div class="caption">
+        Pulau Tekukor, Mar 23 Photo shared by Tammy Lim on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/240512jngky3.jpg" alt="" />
+        <div class="caption">
+        Pulau Jong, May 2024 Photo shared by Kelvin Yong on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/200627cyrlks3.jpg" alt="" />
+        <div class="caption">
+        Cyrene, Jun 20 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/210429hntjll1.jpg" alt="" />
+        <div class="caption">
+        Pulau Hantu, Apr 21 Photo shared by Jianlin Liu on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/180421smksjll.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau (South), Apr 2018 Photo shared by Jianlin Liu on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/100519tsmklks2m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Semakau, May 10 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/220619tsmtl1.jpg" alt="" />
+        <div class="caption">
+        Terumbu Semakau, Jun 22 Photo shared by Tammy Lim on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/240526bbbtt1.jpg" alt="" />
+        <div class="caption">
+        Beting Bemban Besar, May 24 Photo shared by Tommy Tan on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/181125jt.jpg" alt="" />
+        <div class="caption">
+        Terumbu Pempang Tengah, Nov 18 Photo shared by Juria Toramae on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail.cfm?genus=Macrodactyla&amp;subgenus=&amp;species=doorensis&amp;subspecies=&amp;synseniorid=77"><em>Macrodactyla doreensis</em></a>
+on the
+<a href="http://hercules.kgs.ku.edu/Hexacoral/Anemone2/">Hexacorallians of the World</a>
+website by Dr Daphne Fautin with classification, distribution, biological associations and more.</li>
+  <li><a href="http://www.nhm.ku.edu/inverts/ebooks/ch1.html#doreen"><em>Macrodactyla doreensis</em></a>
+on Fautin, Daphne G. and Gerald R. Allen, 1992.
+<a href="http://www.nhm.ku.edu/inverts/ebooks/intro.html">Field guide to anemone fishes and their host sea anemones</a>
+. Western Australian Museum.</li>
+  <li><a href="http://www.sealifebase.fisheries.ubc.ca/summary/Macrodactyla-doreensis.html"><em>Macrodactyla doreensis</em></a>
+on SeaLife Base: technical fact sheet.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.</li>
+  <li>Nicholas Wei Liang Yap
+<em>Taxonomy and Molecular Phylogeny of the Sea Anemone Macrodactyla (Haddon, 1898) (Cnidaria, Actiniaria), with a Description of a New Species from Singapore</em>
+. Zoological Studies 62:29 (2023) doi:10.6620/ZS.2023.62-29.</li>
+  <li>Daphne Gail Fautin, S. H. Tan and Ria Tan. Dec 2009.
+<em>Sea anemones (Cnidaria: Actiniaria) of Singapore: abundant and well-known shallow-water species</em>
+. The Raffles Bulletin of Zoology. Pp. 121-143.</li>
+  <li>Erhardt, Harry and Daniel Knop. 2005.
+<em>Corals: Indo-Pacific Field Guide</em>
+IKAN-Unterwasserachiv, Frankfurt. 305 pp.</li>
+  <li>Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996. Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawai’ exclusive of the vertebrates Sea Challengers. 314pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

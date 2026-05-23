@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Furry sea hare | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="seahare, hare, anaspidea, aplysiidae, stylocheilus, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/050325sjig3648m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Mollusca">Mollusca</a>
+                    > 
+                    <a href="/Mollusca/Gastropoda">Gastropoda</a>
+                    > 
+                    <a href="/Mollusca/Gastropoda/Aplysiida">Aplysiida</a>
+                    >
+                    <a href="/Mollusca/Gastropoda/Aplysiida/"></a>
+                    >
+                    <a href="/Mollusca/Gastropoda/Aplysiida//Aplysiidae">Aplysiidae</a>
+                </p>
+                <h1>Furry sea hare</h1>
+                
+                    <p class="scientific-name">Stylocheilus sp.</p>
+                
+
+                <p><em>Updated May 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This is another ‘hairy’ sea hare sometimes seen on some Southern shores. Usually large numbers are seen during a visit and then none for a very long time.</p>
+
+<h2 id="features">Features</h2>
+
+<p>5-8cm, sometimes much smaller.
+Body long with a long ‘tail’. It is covered in tiny spiky projections that give it a furry look. The oral tentacles and rhinophores are about the same size. The oral tentacles usually lack large ‘hairy’ projections and has no flaps. The parapodia appears to be a hole in the centre of the body, rather than ‘wings’ or flaps as in other large sea hares. It comes in various shades of brow, usually with bright blue or purple spots which are ringed in black or brown. With many fine lines in parallel stripes. Usually well camouflaged and blends in perfectly with among seaweeds and seagrasses.</p>
+
+<p><strong>Sometimes mistaken for</strong>
+the
+<a href="geographica.md">Hairy sea hare</a>
+which have flat thicker ‘hair’ and lack fine parallel lines. More on
+<a href="../../hairyslugsnail.md">how to tell apart hairy slugs and snails</a>
+.</p>
+
+<p><strong>What does it eat?</strong>
+It feeds on
+<a href="../../../plants/seaweed/cyanobacteria/cyanobacteria.md">cyanobacteria</a>
+formerly known as the filamentous blue-green algae. These sea hares are preyed upon by the
+<em><a href="../nudibranchia/gymnodoris.md">Gymnodoris</a></em>
+nudibranch.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/050325sjig3648m3.jpg" alt="" />
+        <div class="caption">
+        St John's Island, Mar 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/050325sjig3652m3d.jpg" alt="" />
+        <div class="caption">
+        Long narrow tail with spots.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/050325sjig3648m3a.jpg" alt="" />
+        <div class="caption">
+        Two pairs of tentacles.
+        </div>
+    </div>
+    
+
+</div>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/050325sjig3648m3c.jpg" alt="" />
+        <div class="caption">
+        Spiky projections.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/050325sjig3648m3b.jpg" alt="" />
+        <div class="caption">
+        Purple or blue spots with fine lines running along the length of the body.
+        </div>
+    </div>
+    
+
+</div>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/151128sjid0506.jpg" alt="" />
+        <div class="caption">
+        Well camouflaged among seaweeds. St John's Island, Nov 15
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/150604chg7d4928.jpg" alt="" />
+        <div class="caption">
+        Tiny one among seagrasses. Changi, Jun 15
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/090428chgd0786.jpg" alt="" />
+        <div class="caption">
+        Small one among seagrasses. Changi, Apr 09
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Furry sea hares on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470@N00&amp;sort=date-posted-desc&amp;view_all=1&amp;text=Stylocheilus">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Stylocheilus/map?&amp;fLat=1.2619&amp;fLon=103.8674&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/100617tbtch10m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Bemban, Jun 10 Photo shared by Toh Chay Hoon on her blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/100617tsmklks9m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Semakau, Jun 10 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/100617tsmjk6m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Semakau, Jun 10 Photo shared by James Koh on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/120407lazlks14m3.jpg" alt="" />
+        <div class="caption">
+        Seringat Kias, Apr 12 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/120407lazlks15m3.jpg" alt="" />
+        <div class="caption">
+        Seringat Kias, Apr 12 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/120407lazlks15m3b.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://www.seaslugforum.net/welcome.md">Sea Slug Forum</a>
+by Dr Bill Rudman: all about sea hares, nudibranchs and other sea slugs; including details on
+<em><a href="http://www.seaslugforum.net/factsheet.cfm?base=stylstri">Stylocheilus striatus</a></em>
+and
+<em><a href="http://www.seaslugforum.net/stylcaud.md">Stylocheilus longicauda</a></em></li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Tan Siong Kiat and Henrietta P. M. Woo, 2010
+<em>Preliminary Checklist of The Molluscs of Singapore</em>
+(pdf), Raffles Museum of Biodiversity Research, National University of Singapore.</li>
+  <li>Debelius, Helmut, 2001.
+<em>Nudibranchs and Sea Snails: Indo-Pacific Field Guide</em>
+IKAN-Unterwasserachiv, Frankfurt. 321 pp.</li>
+  <li>Wells, Fred E. and Clayton W. Bryce. 2000.
+<em>Slugs of Western Australia: A guide to the species from the Indian to West Pacific Oceans</em>
+. Western Australian Museum. 184 pp.</li>
+  <li>Coleman, Neville. 2001.
+<em>1001 Nudibranchs: Catalogue of Indo-Pacific Sea Slugs</em>
+. Neville Coleman’s Underwater Geographic Pty Ltd, Australia.144pp.</li>
+  <li>Humann, Paul and Ned Deloach. 2010.
+<em>Reef Creature Identification: Tropical Pacific</em>
+New World Publications. 497pp.</li>
+  <li>Kuiter, Rudie H and Helmut Debelius. 2009.
+<em>World Atlas of Marine Fauna</em>
+. IKAN-Unterwasserachiv. 723pp.</li>
+  <li>Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.
+<em>Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates</em>
+Sea Challengers. 314pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

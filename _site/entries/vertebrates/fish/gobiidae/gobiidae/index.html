@@ -1,0 +1,1059 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Gobies | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="goby, fish, gobiidae, mudskipper, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/020811cjcpd0419m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Chordata">Chordata</a>
+                    > 
+                    <a href="/Chordata/Actinopterygii">Actinopterygii</a>
+                    > 
+                    <a href="/Chordata/Actinopterygii/Gobiiformes">Gobiiformes</a>
+                    >
+                    <a href="/Chordata/Actinopterygii/Gobiiformes/Gobioidei">Gobioidei</a>
+                    >
+                    <a href="/Chordata/Actinopterygii/Gobiiformes/Gobioidei/Gobiidae">Gobiidae</a>
+                </p>
+                <h1>Gobies</h1>
+                
+                    <p class="scientific-name">Family Gobiidae</p>
+                
+
+                <p><em>Updated Sep 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about them ... Gobies are the largest family of marine fishes with about 1,800 species! Some gobies live with snapping shrimps, others in corals. They are well camouflaged. Watch your step!
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        Gobies are the largest family of marine fishes with about 1,800 species! Some gobies live with snapping shrimps, others in corals. They are well camouflaged. Watch your step!
+        </div>
+    </div>
+    
+
+</div>
+
+<h2 id="where-seen">Where seen?</h2>
+<p>Gobies are abundant on many of our shores. But they are hard to spot. At the slightest sign of danger, they bolt into burrows or dart under rocks. Even in plain sight, they blend in with the sand and mud. So watch your step or you might squash a tiny fish! Besides those that are found in pools, another kind of familiar goby found on our shores are the
+<a href="mudskipper.md">mudskippers</a>
+that hop around on mud and rocks.</p>
+
+<dl>
+  <dt><strong>What are gobies?</strong></dt>
+  <dt>Gobies may be small but they are superlatives in several senses. They belong to possibly the largest family of marine fishes. According to</dt>
+  <dt><a href="http://www.fishbase.org/Summary/FamilySummary.cfm?ID=405">FishBase</a></dt>
+  <dd>the family Gobidae has 212 genera and 1875 species! Gobies are found in tropical and subtropical areas, including some freshwater species.</dd>
+</dl>
+
+<p>Because they are small, shy and well camouflaged, new goby species are being discovered all the time! The Family includes among the smallest fish and vertebrate:
+<em>Trimmatom nanus</em>
+, which reaches only 0.8-1cm long and is found in the Chagos Archipelago and Maldives.</p>
+
+<h2 id="features">Features</h2>
+
+<p>5cm or smaller, but some may grow to 10cm. Many gobies are adapted for bottom dwelling, feeding mainly on small animals. Most are not fast, long-distance swimmers. Their bodies are cylindrical rather than streamlined, and they lack a swim bladder. They usually have large eyes high up on the head to keep a look out for danger from above. The pelvic fins are often fused to form a suction pad to grip surfaces.</p>
+
+<p><strong>What do they eat?</strong>
+As a group, gobies eat a wide variety of things from small animals to fishes. Many filter microscopic animals from the sand. Some hover in water to eat plankton.</p>
+
+<p><strong>Goby babies:</strong>
+In some goby species, the male guards the eggs and the young stay close to dad for a time after hatching. Mums rarely participate in parental care. The elongated, club-shaped eggs are stuck onto a surface, usually inside a burrow, crevice, empty shell or other safe place. Some species may change gender, and a few may be simultaneous hermaprodites (each fish has both male and female reproductive organs).</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/020811cjcpd0419m3.jpg" alt="" />
+        <div class="caption">
+        Gobies can be colourful! Chek Jawa, Aug 02
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/ornatus/050607chgg7251m3.jpg" alt="" />
+        <div class="caption">
+        But most are well camouflaged. Changi, Jul 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histrio/100201hntd9103.jpg" alt="" />
+        <div class="caption">
+        The Broad barred acropora goby lives only in Acropora corals. Pulau Hantu, Feb 10
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Fishy friend:</strong>
+The shrimp goby lives in the same burrow with a snapping shrimp. With keener eyesight, the goby keeps a look-out while the shrimp busily digs out and maintains their shared home. The shrimp is literally constantly in touch with the goby with at least one of its antennae always on the goby. When the goby darts into the burrow, the shrimp is right behind it! More about this
+<a href="shrimpgoby.md">shrimp-fish partnership</a>
+.</p>
+
+<p>Other tiny gobies found in coral reefs live in close association with other animals, taking on the colours and patterns of their ‘partners’ for perfect camouflage. Such tiny gobies may be found among the branches of sea fans, or on sponges and corals. The
+<a href="histrio.md">Broad barred acropora goby</a>
+lives only in Acropora corals.</p>
+
+<p>Some gobies (
+<em>Gobiosoma</em>
+spp.) perform ‘cleaning’ functions on larger fishes and other marine creatures. These gobies are usually colourful.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/maudae/050513labg6528m3.jpg" alt="" />
+        <div class="caption">
+        Many-banded snapping shrimp with a young Saddled shrimp-goby . Labrador, May 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/maudae/090208smkthb1m3.jpg" alt="" />
+        <div class="caption">
+        Many-banded snapping shrimp with an adult Saddled shrimp-goby . Pulau Semakau, Feb 09 Photos shared by Tang Hung Bun.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/leptocephalus/080830kusd9939m3.jpg" alt="" />
+        <div class="caption">
+        Many-banded snapping shrimp with a Pink-speckled shrimp-goby . Kusu Island, Aug 08
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Role in the habitat:</strong>
+Being relatively abundant in the ecosystems they inhabit, these small fishes are believed to play a vital part in the food chain. In fact, the absence of gobies may be a sign of danger to the habitat, as
+<a href="http://wildshores.blogspot.com/2009/08/tiniest-reef-fishes-warn-of-risks-to.html">this study of reefs found</a>
+.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/boddarti/130421ubnd5457m3.jpg" alt="" />
+        <div class="caption">
+        Mudskippers are gobies too! Pulau Ubin, Apr 13
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/kabiliensis/110822admd9796m3.jpg" alt="" />
+        <div class="caption">
+        The Bumblebee goby is found in mangroves. Admiralty Park, Mar 11
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/biocellatus/100612chgd5308m3.jpg" alt="" />
+        <div class="caption">
+        The Crocodile flathead goby looks different! Changi, Jun 10
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Human uses:</strong>
+Gobies are generally not eaten, although it is said that large
+<a href="mudskipper.md">mudskippers</a>
+are eaten in places like Taiwan. Some of the more colourful gobies are collected for the live aquarium trade.</p>
+
+<p><strong>Status and threats:</strong>
+None of our gobies are listed among the threatened animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Over-collection by hobbyists can also have an impact on local populations.</p>
+
+<hr />
+
+<p><strong>Unidentifed Gobies on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470%40N00&amp;sort=date-taken-desc&amp;text=unidentified%20goby&amp;view_all=1">Photos</a>
+for free download</li>
+</ul>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gobiidaenoid/230606cjky7.jpg" alt="" />
+        <div class="caption">
+        Seen on a sea whip . Chek Jawa, Jun 23 Photo shared by Kelvin Yong on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Some Gobies on Singapore shores (except
+<a href="mudskipper.md">mudskippers</a>
+)</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/caninus/100913prpd1556m3.jpg" alt="" />
+        <div class="caption">
+        Green-shouldered goby
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/bathygobius/070901sjid6547m3.jpg" alt="" />
+        <div class="caption">
+        Frill-fin goby
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/nebulosus/060726chgd4918m3.jpg" alt="" />
+        <div class="caption">
+        Shadow goby
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/triangularis/100429prpd1888m3.jpg" alt="" />
+        <div class="caption">
+        Brown shore goby
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/goldmanni/140811tryd8309m3a.jpg" alt="" />
+        <div class="caption">
+        Black-spotted lagoon-goby
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/ornatus/110506tmftd0826m3.jpg" alt="" />
+        <div class="caption">
+        Ornate lagoon-goby
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/biocellatus/100612chgd5276m3.jpg" alt="" />
+        <div class="caption">
+        Crocodile flathead goby
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/120820sisd0649m3.jpg" alt="" />
+        <div class="caption">
+        Head-stripe goby
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/muralis/110601tmnbd3312m3.jpg" alt="" />
+        <div class="caption">
+        Mural glider-goby
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Shrimp-gobies: living with snapping shrimps</strong></p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/leptocephalus/080830kusd9939m3b.jpg" alt="" />
+        <div class="caption">
+        Slender-lined shrimp goby
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/maudae/050513labg6519m3.jpg" alt="" />
+        <div class="caption">
+        Saddled shrimp goby
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/maudae/090625cyrd5636m3.jpg" alt="" />
+        <div class="caption">
+        Saddled shrimp goby
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Found in living branching hard corals</strong></p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histrio/051204sisg3318m3.jpg" alt="" />
+        <div class="caption">
+        Broad barred acropora goby
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Found in mangroves</strong></p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/kabiliensis/110822admd9796m3.jpg" alt="" />
+        <div class="caption">
+        Mangrove bumblebee goby
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/javanicus/060627krjd3690m3.jpg" alt="" />
+        <div class="caption">
+        Java fatnose goby
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/sadanundio/110307admd6820m3.jpg" alt="" />
+        <div class="caption">
+        Grey knight goby
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Family Gobiidae recorded for Singapore</strong></p>
+
+<p>from Helen K. Larson, Zeehan Jaafar and Kelvin K. P. Lim. 29 June 2016. An updated checklist of the gobioid fishes of Singapore</p>
+
+<p>^from
+<a href="http://www.marinespecies.org/">WORMS</a>
+**
++Other additions (Singapore Biodiversity Record, etc)
+**</p>
+
+<p><strong>Family Gobiidae</strong></p>
+
+<p><em><a href="caninus.md">Acentrogobius caninus</a></em>
+(Green-shouldered goby)
+**
+*Acentrogobius cyanomos</p>
+
+<p>Acentrogobius janthinopterus*
+(Green-spotted goby)
+**
+<em>Acentrogobius viridipunctatus</em>
+(Papillose goby)</p>
+
+<p><em>Amblyeleotris fontanesii</em>
+(Giant shrimp goby)
+<em>Amblyeleotris gymnocephala</em>
+(Masked or Red-margined shrimp goby)
+**
+<em>Amblyeleotris periophthalma</em>
+*Amblygobius buanensis=Amblygobius decussatus</p>
+
+<p>Amblygobius phaleana</p>
+
+<p>Amblygobius sphynx*
+<em><a href="stethophthalmus.md">Amblygobius stethophthalmus</a></em>
+(previously
+<em>A. bynoensis</em>
+) (Head-stripe goby)
+<em>Amoya gracilis</em>
+(Slender amoya)
+<em>Amoya moloanus</em>
+(Bar-cheek goby)
+<em>Apocyptodon</em>
+(see
+<a href="mudskipper.md">mudskippers</a>
+)
+<em>Arcygobius baliurus</em>
+(Isthmus goby)
+<em>Asterropteryx semipunctatus</em>
+(Starry goby)
+<em>Aulopareia unicolor</em>
+<a href="bathygobius.md"><em>Bathygobius</em>
+sp.</a>
+(Frill-fin gobies)
+<em>Bathygobius fuscus</em>
+(Common frill-fin goby)
+<em>Bathygobius meggitti</em>
+(Meggitt’s frill-fin goby)
+<em>Boleophthalmus</em>
+(see
+<a href="mudskipper.md">mudskippers</a>
+)
+<em>Brachyamblyopus brachysoma</em>
+(Short Eel-goby)</p>
+
+<p><em><a href="kabiliensis.md">Brachygobius kabiliensis</a></em>
+(Mangrove bumblebee goby)
+<em>Brachygobius sabanus</em>
+(Lesser bumblebee goby)</p>
+
+<p><em>Bryaninops amplus</em>
+(Gorgonian goby)
+<em>Bryaninops loki</em></p>
+
+<p><em>Callogobius hasselti</em>
+(Hasselt’s flap-headed goby)
+<em>Callogobius maculipinnis</em>
+(Ostrich goby)
+<em>Cryptocentroides insignis</em>
+(Slender crested goby)</p>
+
+<p>*Cryptocentrus albidorsus</p>
+
+<p>Cryptocentrus caeruleomaculatus*
+(Blue-spotted shrimp-goby)
+<em>Cryptocentrus cinctus</em>
+(Yellow shrimp-goby)</p>
+
+<p><em>Cryptocentrus cyanospilotus</em>
+(Bluespot shrimp-goby)
+<em>Cryptocentrus cyanotaenia</em>
+(Lagoon shrimp-goby)
+<em><a href="leptocephalus.md">Cryptocentrus leptocephalus</a></em>
+(Slender-lined shrimp-goby)
+<em>Cryptocentrus leucostictus</em>
+(Saddled prawn-goby)
+<em><a href="maudae.md">Cryptocentrus maudae</a></em>
+(Saddled shrimp-goby)
+*Cryptocentrus melanopus</p>
+
+<p>Cryptocentrus pavoninoides*
+(Peacock shrimp-goby)
+<em>Cryptocentrus sericus</em>
+(Ventral-barred shrimp-goby)</p>
+
+<p><em>Cryptocentrus strigilliceps</em></p>
+
+<p>*Dotsugobius bleekeri=Lophiogobius bleekeri</p>
+
+<p>Drombus globiceps*
+(Kranji drombus)</p>
+
+<p><em>Drombus ocyurus</em>
+(Blue-marked drombus)
+<em><a href="triangularis.md">Drombus triangularis</a></em>
+(Brown drombus or Brown shore goby)</p>
+
+<p><em>Eugnathogobius illotus=^Calamiana illota</em>
+(Dirty-face brackish goby)</p>
+
+<p>*Eugnathogobius polylepis</p>
+
+<p>Eugnathogobius siamensis=Pseudogobius siamensis*
+(Siam stream goby)
+<em>freshwater goby</em></p>
+
+<p><em>Eugnathogobius variegatus</em>
+(Stripe-face brackish goby)</p>
+
+<p><em>Eviota queenslandica</em>
+(Queensland coral-goby)
+<em>Eviota storthynx</em>
+(Rosy coral-goby)
+<em>Exyrias belissimus</em>
+(Barred high-fin goby)
+<em>Exyrias puntang</em>
+(Estuarine high-fine or Polkadot-fin goby)
+<em>Favonigobius melanobranchus</em>
+(Black-throat sand-goby)
+<em>Favonigobius opalescens</em>
+(Opalescent sand-goby)
+<em>Favonigobius reichei</em>
+(Reiche’s sand-goby)</p>
+
+<p><em>Glossogobius aureus</em>
+(Golden flat-head goby)
+<em>Glossogobius circumspectus</em>
+(Circumspect flat-head goby)
+<em>Glossogobius giuris</em>
+(Tank goby)
+<em>Glossogobius sparsipapillus</em>
+(Papillose flat-head goby)</p>
+
+<p>*Gnatholepis anjerensis</p>
+
+<p>Gnatholepis cauerensis*
+*Gobiodon citrinus</p>
+
+<p>Gobiodon heterospilos=*
+<em>Gobiodon albofasciatus</em>
+(White-striped acropora goby)
+<em><a href="histrio.md">Gobiodon histrio</a></em>
+(Broad-barred acropora goby)
+*Gobiodon micropus</p>
+
+<p>Gobiodon quinquestrigatus</p>
+
+<p>Gobiodon*
+sp. 11
+*Gobiopterus panayensis</p>
+
+<p>Gobiopterus birthwistlei*
+(Lesser glass-goby)
+<em>Gobiopterus brachypterus</em>
+(Greater glass-goby)
+<em>Gobiopsis macrostoma</em>
+(Big-mouth barbel-goby)
+<em>Hemigobius hoevenii</em>
+(Banded or Common mullet-goby)
+<em>Hemigobius melanurus=^Hemigobius mingi</em>
+(Blue-eyed mullet goby)
+<em>Istigobius decoratus</em>
+(Decorated lagoon-goby)
+<em>Istigobius diadema</em>
+(Black-lined lagoon-goby)
+<em><a href="goldmanni.md">Istigobius goldmanni</a></em>
+(Black-spotted lagoon-goby)
+<em><a href="ornatus.md">Istigobius ornatus</a></em>
+(Ornate lagoon-goby)
+**
+<em>Lubricogobius ornatus</em>
+(Ornate slippery goby)
+<em>Macrodontogobius wilburi</em>
+(Wlibur’s goby)
+<em>Mahidolia mystacina</em>
+(Smiling goby)
+<em>Mugilogobius chulae</em>
+(Two-spot mangrove goby)
+<em>Mugilogobius fasciatus</em>
+(Broad-barred mangrove goby)
+<em>Mugilogobius mertoni</em>
+(Yellow-chequered mangrove goby)
+*Mugilogobius platystomus</p>
+
+<p>Mugilogobius rambaiae*
+(Queen of Siam mangrove goby)
+<em>Mugilogobius tigrinus</em>
+(Narrow-barred mangrove goby)
+*Myersina adonis</p>
+
+<p>Myersina crocatus</p>
+
+<p>Myersina filifer</p>
+
+<p>Myersina macrostoma*
+(Flag-finned goby)
+*Odontamblyopus rubicundus</p>
+
+<p>Oligolepis acutipennis</p>
+
+<p>Oplopomops diacanthus*
+<em>Oplopomus caninoides</em>
+<em>Oplopomus oplopomus</em>
+(Pretty lagoon-goby)
+**
+*Oxymetopon amblyopinus</p>
+
+<p>Oxymetopon compressus</p>
+
+<p>Oxuderces*
+(see
+<a href="mudskipper.md">mudskippers</a>
+)
+<em>Oxyurichthys longicauda=Oxyurichthys uronema</em>
+(Fine-blotched tentacle-goby)
+<em>Oxyurichthys microlepis</em>
+(Black-spotted goby)</p>
+
+<p><em>Oxyurichthys papuensis</em>
+*Palutrus scapulopunctatus</p>
+
+<p>Pandaka rouxi=Pandaka pygmaea</p>
+
+<p>Parachaeturichthys polynema</p>
+
+<p>Paragobiodon echinocephalus*
+(Spiny-headed goby)
+<em>Parapocryptes</em>
+(see
+<a href="mudskipper.md">mudskippers</a>
+)
+<em>Paratrypauchen microcephalus</em>
+(Small-eyed worm-goby)</p>
+
+<p><em>Parioglossus palustris</em></p>
+
+<p><em>Periophthalmodon</em>
+(see
+<a href="mudskipper.md">mudskippers</a>
+)
+<em>Periophthalmus</em>
+(see
+<a href="mudskipper.md">mudskippers</a>
+)
+**</p>
+
+<p><em>Priolepis nuchifasciata</em>
+(Nape-banded coral-goby)
+<em>Priolepis semidoliatus</em>
+(Half-banded coral-goby)
+<em><a href="biocellatus.md">Psammogobius biocellatus</a></em>
+(Crocodile flat-head goby)</p>
+
+<p><em>Pseudapocryptes</em>
+(see
+<a href="mudskipper.md">mudskippers</a>
+)</p>
+
+<p><em>Pseudogobiopsis oligactis</em>
+<em>=^Eugnathogobius oligactis</em>
+(Big-mouth stream goby)
+<em>freshwater goby</em></p>
+
+<p><em>Pseudogobius avicennia</em>
+(Avicennia fatnose goby)
+<em><a href="javanicus.md">Pseudogobius javanicus</a></em>
+(Java or Javanese fatnose goby)
+<em>Pseudogobius melanostictus</em>
+(Black-spotted fatnose goby)</p>
+
+<p><em>+Pseudogobius yanamensis</em></p>
+
+<p><em>Ptereleotris hanae</em></p>
+
+<p><em>Redigobius bikolanus=Redigobius isognathus</em>
+<em>Rhinogobius giurinus</em>
+(Oriental river goby)
+<em>introduced freshwater goby</em></p>
+
+<p><em>Scartelaos</em>
+(see
+<a href="mudskipper.md">mudskippers</a>
+)</p>
+
+<p><em>Sicyopterus macrostetholepis</em></p>
+
+<p><em>Silhouettea cf. nuchipunctata</em>
+(Vanishing sand-goby)
+**
+<em>Stigmatogobius borneensis</em>
+(Borneo knight-goby)
+<em>Stigmatogobius pleurostigma</em>
+(Peach knight-goby)
+<em><a href="sadanundio.md">Stigmatogobius sadanundio</a></em>
+(Grey knight-goby)
+<em>Stigmatogobius sella</em>
+(Sharp-nosed knight-goby)</p>
+
+<p><em>Taenioides gracilis</em>
+(Bearded eel-goby)</p>
+
+<p><em>Tomiyamichthys russus</em>
+<em>Trypauchen pelaos</em></p>
+
+<p><em>Trypauchen vagina</em>
+(Pink mud goby)</p>
+
+<p><em>Trypauchenichthys sumatrensis</em></p>
+
+<p><em>Trypauchenichthys typus</em>
+<em><a href="muralis.md">Valenciennea muralis</a></em>
+(Mural glider-goby)
+*Valenciennea puellaris</p>
+
+<p>Valenciennea strigata</p>
+
+<p>Yongeichthys madraspatensis</p>
+
+<p><a href="nebulosus.md">Yongeichthys nebulosus=^Acentrogobius nebulosus</a>*
+(Shadow goby)</p>
+
+<p><em>Yongeichthys virgatulus</em></p>
+
+<p><strong>Previously in Family Gobiidae now in Family Eleotridae</strong></p>
+
+<p><em>Bostrychus sinensis</em>
+(Chinese gudgeon)
+**
+*Butis amboinensis</p>
+
+<p>Butis butis*
+(Crimson-tipped gudgeon)
+*Butis gymnopomus</p>
+
+<p>Butis humeralis*
+(Flathead gudgeon)</p>
+
+<p><em>Butis koliomatodon</em>
+(Crested gudgeon)
+*Eleotris fusca</p>
+
+<p>Eleotris melanosoma</p>
+
+<p>Giuris margaritaceus</p>
+
+<p>Hypseleotris leuciscus</p>
+
+<p>Odonteleotris canina</p>
+
+<p>Ophiocara porocephala*
+(Snakehead gudgeon)</p>
+
+<p><em>Oxyeleotris marmorata</em>
+(Marbled gudgeon)</p>
+
+<p><em>Oxyeleotris urophthalmus</em>
+(Sinuous gudgeon)</p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://mangrove.nus.edu.sg/guidebooks/text/2106.md">Mudskippers</a>
+Ng, Peter K. L. &amp; N. Sivasothi, 1999.
+<em><a href="http://mangrove.nus.edu.sg/guidebooks/">A Guide to the Mangroves of Singapore II (Animal Diversity)</a></em>
+. Singapore Science Centre. 168 pp.</li>
+  <li><a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/151.md">Gobies, mudskippers and their relatives</a>
+Lim, Kelvin K. P. &amp; Jeffrey K. Y. Low, 1998.
+<em><a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/">A Guide to the Common Marine Fishes of Singapore</a></em>
+. Singapore Science Centre. 163 pp.</li>
+  <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/245.md">Family Gobiidae</a>
+and
+<a href="http://mangrove.nus.edu.sg/pub/seashore/text/246.md">Mudskippers</a>
+Tan, Leo W. H. &amp; Ng, Peter K. L., 1988.
+<em><a href="http://mangrove.nus.edu.sg/pub/seashore/">A Guide to Seashore Life</a></em>
+. The Singapore Science Centre, Singapore. 160 pp.</li>
+  <li>
+    <dl>
+      <dt><a href="http://www.fishbase.org/Summary/FamilySummary.cfm?ID=405">Family Gobiidae</a></dt>
+      <dt>(Gobies) from</dt>
+      <dt><a href="http://www.fishbase.org/">FishBase</a></dt>
+      <dd>Technical fact sheet on the family, including fact sheet on
+<a href="http://www.fishbase.org/summary/SpeciesSummary.php?id=25620"><em>Trimmatom nanus</em></a>
+the smallest fish and vertebrate</dd>
+    </dl>
+  </li>
+  <li><a href="http://wildshores.blogspot.com/2009/08/tiniest-reef-fishes-warn-of-risks-to.html">Tiniest reef fishes warn of risks to reefs</a>
+on the wild shores of singapore blog.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Tan Heok Hui &amp; Kelvin K. P. Lim. 31 July 2019.
+<em>New Singapore record of the goby, Pseudogobius yanamensis</em>
+. Singapore Biodiversity Records 2019: 88 ISSN 2345-7597, National University of Singapore.</li>
+  <li>Daisuke Taira.
+<em>Decorative lagoon-goby in the Singapore Strait</em>
+. 31 August 2018. Singapore Biodiversity Records 2018: 90 ISSN 2345-7597. National University of Singapore.</li>
+  <li>Tan Heok Hui (Changi), Zeehan Jaafar (Tuas). 28 Jul 2017.
+<em>Brown drombus goby found in burrows with snapping shrimps</em>
+. Singapore Biodiversity Records 2017: 98-99.</li>
+  <li>Helen K. Larson, Zeehan Jaafar and Kelvin K. P. Lim. 29 June 2016.
+<em>An updated checklist of the gobioid fishes of Singapore</em>
+. Raffles Bulletin of Zoology Supplement No. 34: 744–757.</li>
+  <li>Marcus F. C. Ng. 31 August 2016.
+<em>Saddled shrimp-goby At Sentosa, Cryptocentrus maudae</em>
+. Singapore Biodiversity Records 2016: 111</li>
+  <li>Koh Kwan Siong. 29 July 2016.
+<em>Bluespot shrimp-goby off Pulau Hantu, Cryptocentrus cyanospilotus</em>
+. Singapore Biodiversity Records 2016: 100</li>
+  <li>Tan Heok Hui. 6 March 2015.
+<em>Green-spotted goby at West Coast marsh pond, Acentrogobius janthinopterus</em>
+. Singapore Biodiversity Records 2015: 34</li>
+  <li>Gina Tan &amp; Zeehan Jaafar. 24 April 2015.
+<em>New record of ornate slippery goby Lubricogobius ornatus in Singapore</em>
+. Singapore Biodiversity Records 2015: 53</li>
+  <li>Tan Heok Hui. 30 January 2015.
+<em>Nape-banded coral goby from Terumbu Berkas, Priolepis nuchifasciata</em>
+. Singapore Biodiversity Records 2015: 22</li>
+  <li>Ria Tan &amp; Kelvin K. P. Lim. 26 December 2014.
+<em>Lagoon shrimp-goby at eastern Johor Straits, Cryptocentrus cyanotaenia</em>
+. Singapore Biodiversity Records 2014: 334.</li>
+  <li>Tan Heok Hui, Low Bi Wei &amp; Jonathan Ho. 11 July 2014.
+<em>Lesser bumblebee goby in Upper Seletar Reservoir, Brachygobius sabanus</em>
+. Singapore Biodiversity Records 2014: 185.</li>
+  <li>Helen K. Larson, Zeehan Jaafar and Kelvin K. P. Lim. 29 Feb 2008.
+<em>An annotated checklist of the gobioid fishes of Singapore</em>
+. Raffles Bulletin of Zoology 56(1): 135–155</li>
+  <li>Tan Heok Hui. 30 Jan 2015.
+<em>Nape-banded coral goby from Terumbu Berkas</em>
+. Singapore Biodiversity Records 2015: 22</li>
+  <li>Zeehan Jaafar &amp; Helen K. Larson. 24 Apr 2015.
+<em>New record of ornate slippery goby Lubricogobius ornatus in Singapore</em>
+. Singapore Biodiversity Records 2015: 53</li>
+  <li>Tan Heok Hui. 6 Mar 2015.
+<em>Green-spotted goby at West Coast marsh pond</em>
+. Singapore Biodiversity Records 2015: 34.</li>
+  <li>Jeffrey Low K. Y., Jani Isa Thuaibah Tanzil &amp; Zeehan Jaafar, 2009.
+<em>Some note-worthy fishes observed in the Singapore Straits</em>
+. Nature in Singapore, 2: 77–82.</li>
+  <li>Heng Pei Yan &amp; Kelvin K. P. Lim. 15 November 2013.
+<em>Some noteworthy reef fishes at Pulau Hantu: Ventral-barred shrimp-goby, Cryptocentrus sericus</em>
+. Singapore Biodiversity Records 2013: 65-67.</li>
+  <li>Larson, Helen K and Kelvin K. P. Lim. 2005.
+<em>A Guide to Gobies of Singapore</em>
+. Singapore Science Centre. 164pp.</li>
+  <li>Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+. National Council on the Environment. 163pp.</li>
+  <li>Allen, Gerry, 2000.
+<em>Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers</em>
+. Periplus Editions. 292 pp.</li>
+  <li>Kuiter, Rudie H. 2002.
+<em>Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers &amp; Fishermen</em>
+New Holland Publishers. 434pp.</li>
+  <li>Lieske, Ewald and Robert Myers. 2001.
+<em>Coral Reef Fishes of the World</em>
+Periplus Editions. 400pp.</li>
+  <li>Lim, S., P. Ng, L. Tan, &amp; W. Y. Chin, 1994.
+<em>Rhythm of the Sea: The Life and Times of Labrador Beach</em>
+. Division of Biology, School of Science, Nanyang Technological University &amp; Department of Zoology, the National University of Singapore. 160 pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

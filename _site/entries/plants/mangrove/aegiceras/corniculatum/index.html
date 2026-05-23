@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Kachang-kachang  | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="aegiceras, corniculatum, primulaceae, myrsinaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/aegiceras/corniculatum/110419krjd9208m6l.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Tracheophyta">Tracheophyta</a>
+                    > 
+                    <a href="/Tracheophyta/Magnoliopsida">Magnoliopsida</a>
+                    > 
+                    <a href="/Tracheophyta/Magnoliopsida/Ericales">Ericales</a>
+                    >
+                    <a href="/Tracheophyta/Magnoliopsida/Ericales/"></a>
+                    >
+                    <a href="/Tracheophyta/Magnoliopsida/Ericales//Primulaceae">Primulaceae</a>
+                </p>
+                <h1>Kachang-kachang </h1>
+                
+                    <p class="scientific-name">Aegiceras corniculatum</p>
+                
+
+                <p><em>Updated Jan 2013</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>A rare shrub. According to Ng, it was found in various northern sites and Pulau Unum. According to Hsuan Keng, it was found in mangroves including Tuas, Changi, Lim Chu Kang and Pulau Ubin. According to Davison, it is found on Pulau Unum, Sungei Khatib Bongsu, Sungei Mandai, Pasir Ris Park, Lim Chu Kang and the Western Catchment. Elsewhere, it is characteristic of the outer, seaward fringe of mangroves and usually appears as an isolated shrub, never forming a conspicuous part of the community. According to Burkill, it likes light and is never found under the shade of mangroves. Instead, it is ‘abundant’ on mud above the high water mark. According to Giersen, it tolerant of a wide range of salinity, soil and light conditions and most commonly found in back mangroves that are inundated by the normal high tide, in sandy substrates. It is found from India to New Guinea and common in the mangroves of Malaya. According to Tomlinson, it is widely distributed from Sri Lanka to South China through the Malay archipelago to Polynesia and northeastern Australia to New South Wales.</p>
+
+<h2 id="features">Features</h2>
+
+<p>Shrub or low tree growing to 6m tall, but in Singapore it usually grows up to only 1-2m tall. Bark fissured with numerous lenticels. Roots running along the soil surface.</p>
+
+<p>Leaves oval (4-8cm) thick, leathery dark green glossy above, paler below. The leaves are arranged alternately in spirals. No stipules. The leaves often encrusted with salt crystals.</p>
+
+<p>Flowers (1-2cm) in a dense cluster of 10-20. 5 white or pale pink petals that fold back when mature, fragrant. They are rich in nectar. According to Tomlinson, from the structure of the flowers and the fact that these produce nectar and a fragrance, the plant seems to be pollinated by insects. But there are no records of flower visitors.</p>
+
+<p>Fruit long (5-8cm) cylindrical with pointed tip, usually curved. They resemble long beans, tiny bananas or horns and are light green ripening to pink or purple. ‘Corniculatus’ means ‘with little horns’ while the Malay name ‘
+<em>Kachang</em>
+‘ means ‘bean’. Another Malay name for it is ‘
+<em>Kuku Lang Laut</em>
+‘ which means ‘Claw of the Sea Eagle’. Each fruit contains a single elongated seed which undergoes cyptovivipary, i.e., it germinates while on the parent tree, but does not emerge through the fruit wall until the propagule falls off. The fruits and seeds are well adapted to water dispersal.</p>
+
+<p>It is the preferred local food plant for caterpillars of the moths,
+<em>Anarsia species, Archips species, Darna trima, Gonodontis clelia; Phyllocnistis</em>
+species and
+<em>Zeuzera conferta</em>
+.</p>
+
+<p><strong>Human uses:</strong>
+According to Burkill, the bark is used as a ‘fish poison’, i.e., to stun fish and scoop them up. He identifies the toxin as a saponin. The seeds also contain the same poison. The leaves were eaten by poor people in the Moluccas raw or cooked, while women wore the scented flowers in their hair. According to Giersen, the wood is used to make charcoal. The flowers are probably an important source of nectar for local honey industries.</p>
+
+<p><strong>Status and threats:</strong>
+This plant is listed as ‘Endangered’ in the Red List of threatened plants of Singapore. It is threatened by habitat loss and oil spills.</p>
+
+<p><img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/aegiceras/corniculatum/110419krjd9208m6l.jpg" alt="" /></p>
+
+<p><em>Kranji Nature Trail, Apr 11</em>
+<img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/aegiceras/corniculatum/110501kntd0403m3.jpg" alt="" /></p>
+
+<p><em>Kranji Nature Trail, May 11</em>
+<img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/aegiceras/corniculatum/110501kntd0403m3a.jpg" alt="" /></p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/aegiceras/corniculatum/110419krjd9216m6l.jpg" alt="" />
+        <div class="caption">
+        Alternating leaves in a spiral. Kranji Nature Trail, Apr 11
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/aegiceras/corniculatum/110419krjd9216m3.jpg" alt="" />
+        <div class="caption">
+        Kranji Nature Trail, Apr 11
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/aegiceras/corniculatum/110419krjd9172m3.jpg" alt="" />
+        <div class="caption">
+        Kranji Nature Trail, Apr 11
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/aegiceras/corniculatum/111121tkgd3731m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Tekong, Nov 11
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/aegiceras/corniculatum/060905ubnkl1m3a.jpg" alt="" />
+        <div class="caption">
+        Photo shared by Kevin on his blog . Pulau Ubin, Sep 06
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Kacang-kacang on Singapore shores</strong></p>
+
+<hr />
+
+<p>Photos of
+<a href="https://www.flickr.com/search/?q=Aegiceras+corniculatum&amp;w=54527470%40N00&amp;s=rec">Kacang-kacang</a>
+for free download from
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<hr />
+
+<p>Distribution in Singapore on
+<a href="https://www.flickr.com/photos/wildsingapore/tags/Aegiceras%2520corniculatum/map?&amp;fLat=1.2626&amp;fLon=103.8661&amp;zl=11&amp;order_by=recent">this wildsingapore flickr map</a></p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://floraofsingapore.wordpress.com/2010/07/01/aegiceras-corniculatum/"><em>Aegiceras corniculatum</em></a>
+on Total Vascular Flora of Singapore Online: photos and fact sheet.</li>
+  <li><a href="https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=5436"><em>Aegiceras corniculatum</em></a>
+on the NParks Flora and Fauna website: photos and fact sheet.</li>
+  <li><a href="http://mangrove.nus.edu.sg/guidebooks/text/1048.md">Kacang-kacang (
+<em>Aegiceras corniculatum</em>
+)</a>
+Ng, Peter K. L. &amp; N. Sivasothi, 1999.
+<em><a href="http://mangrove.nus.edu.sg/guidebooks/">A Guide to the Mangroves of Singapore</a>
+I (Plant Diversity)</em>
+. Singapore Science Centre. 168 pp.</li>
+  <li><a href="http://floraofsingapore.wordpress.com/2010/07/01/aegiceras-corniculatum/"><em>Aegiceras corniculatum</em></a>
+on Total Vascular Flora of Singapore Online: photos and fact sheet.</li>
+  <li>Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+<a href="http://www.fao.org/docrep/010/ag132e/ag132e00.md"><em>Mangrove Guidebook for Southeast Asia</em></a>
+(PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
+<em>The Concise Flora of Singapore: Gymnosperms and Dicotyledons</em>
+. Singapore University Press. 222 pp.</li>
+  <li>Corners, E. J. H., 1997.
+<em>Wayside Trees of Malaya: in two volumes</em>
+. Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.</li>
+  <li>Tomlinson, P. B., 1986.
+<em>The Botany of Mangroves</em>
+Cambridge University Press. USA. 419 pp.</li>
+  <li>Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+<em>The Singapore Red Data Book: Threatened plants and animals of Singapore</em>
+. Nature Society (Singapore). 285 pp.</li>
+  <li>Burkill, I. H., 1993.
+<em>A Dictionary of the Economic Products of the Malay Peninsula</em>
+. 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

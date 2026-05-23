@@ -1,0 +1,516 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Spiral melongena  | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="spiral, melongena, pugilina, cochlidium, melogenidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/101207ubnd3195m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/"></a>
+                    > 
+                    <a href="//"></a>
+                    > 
+                    <a href="///"></a>
+                    >
+                    <a href="////"></a>
+                    >
+                    <a href="/////Melongenidae">Melongenidae</a>
+                </p>
+                <h1>Spiral melongena </h1>
+                
+                    <p class="scientific-name">Pugilina cochlidium</p>
+                
+
+                <p><em>Updated Aug 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about them ... Large and common, they are overlooked as they are well camouflaged. When its dead, the shell's orange colour is visible as tiny hairs drop off. They lay large and and interesting egg capsules.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        Large and common, they are overlooked as they are well camouflaged. When its dead, the shell's orange colour is visible as tiny hairs drop off. They lay large and and interesting egg capsules.
+        </div>
+    </div>
+    
+
+</div>
+
+<h2 id="where-seen">Where seen?</h2>
+<p>This large snail is commonly seen on our muddy-sandy shores particularly on our Northern shores, on rocky shores and seagrass meadows and near mangroves.</p>
+
+<h2 id="features">Features</h2>
+
+<p>8-12cm. Shell large, thick with a long siphonal canal. Operculum teardrop-shaped and made out of a horn-like material. Body all black.</p>
+
+<p><strong>‘Hairy’ shell:</strong>
+The shell of a living spiral melongena is covered with a layer of fine hairs (called the periostracum). These hairs trap surrounding sediment so that the snail blends perfectly into the mud. The living snail is thus rarely spotted although relatively large and common. When the snail dies, the hairs drop off revealing a glossy, orange shell. The large empty shell is often taken over by a
+<a href="../../../crustacea/othercrust/anomura/hermit/hermit.md">hermit crab</a>
+.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/101207ubnd3195m3.jpg" alt="" />
+        <div class="caption">
+        Fine hairs on the shell of a living snail. Pulau Ubin, Feb 10
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/101207ubnd3196m3.jpg" alt="" />
+        <div class="caption">
+        Underside. Pulau Ubin, Feb 10
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/050428cftd2949m3.jpg" alt="" />
+        <div class="caption">
+        The animal's body is black.
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>What does it eat?</strong>
+The spiral melongena eats
+<a href="../../../crustacea/othercrust/ciriipedia/cirripedia.md">barnacles</a>
+. It is believed to get to the barnacle by forcing its long proboscis between the plates that seal the barnacle’s shell opening.</p>
+
+<p><strong>Spiral babies:</strong>
+The spiral melongena is responsible for the strange yellow zipper-like egg capsules that are often encountered on rocks and other hard surfaces. The young hatch as miniature snails with a shell and a foot.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/110815chgd9192m3.jpg" alt="" />
+        <div class="caption">
+        Mating and laying eggs Changi, Aug 11
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/110929tmftd1502m3.jpg" alt="" />
+        <div class="caption">
+        Laying eggs Tanah Merah, Sep 11
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/111226tmftd5043m3.jpg" alt="" />
+        <div class="caption">
+        Eggs in the capsule Tanah Merah, Dec 11
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Human uses:</strong>
+It is collected as food in Indonesia, Malaysia and the Philippines, and the shells used to make lime.</p>
+
+<p>**Species are difficult to positively identify without close examination.</p>
+
+<p>On this website, they are grouped by external features for convenience of display.*</p>
+
+<hr />
+
+<p><strong>Spiral melongena snails on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470@N00&amp;sort=date-posted-desc&amp;view_all=1&amp;text=Pugilina cochlidium">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Pugilina%2520cochlidium/map?&amp;fLat=1.2605&amp;fLon=103.8654&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/091217sbglks.JPG" alt="" />
+        <div class="caption">
+        Sembawang, Dec 09 Photo shared by Loh Kok Sheng on flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/160125obsrk1.jpg" alt="" />
+        <div class="caption">
+        Pulau Ubin OBS, Jan 16 Photo shared by Richard Kuah on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/260103prpyls5.jpg" alt="" />
+        <div class="caption">
+        Pasir Ris Park, Dec 25 Photo shared by Yan Le Su on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/160510ecpbsjt3.jpg" alt="" />
+        <div class="caption">
+        East Coast Park, May 16 Photo shared by Jonathan Tan on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/200710mevc7.jpg" alt="" />
+        <div class="caption">
+        East Coast-Marina East, Jul 20 Photo shared by Vincent Choo on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/151001blymn9m3.jpg" alt="" />
+        <div class="caption">
+        Berlayar Creek, Oct 15 Photo shared by Marcus Ng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/160209cyrjll1.jpg" alt="" />
+        <div class="caption">
+        Cyrene Reef, Feb 16 Photo shared by Jianlin Liu on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/080209smkhw02m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau, Feb 08 Photo shared by Dai Jiao on her flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/110814smkjk2m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau, Aug 11 Photo shared by James Koh on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/130428tsmklks.JPG" alt="" />
+        <div class="caption">
+        Terumbu Semakau, Apr 13 Photo shared by Loh Kok Sheng on flickr .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/110517tptlks10m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Pempang Tengah, May 11 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/100629tpdjk10m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Pempang Darat, Jun 10 Photo shared by James Koh on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/145.md">Family Galeodidae (
+<em>Melongena pugilina</em>
+)</a>
+Tan, Leo W. H. &amp; Ng, Peter K. L., 1988.
+<em><a href="http://mangrove.nus.edu.sg/pub/seashore/">A Guide to Seashore Life</a></em>
+. The Singapore Science Centre, Singapore. 160 pp.</li>
+  <li><a href="http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Melongenidae.html">Family Melongenidae</a>
+on The
+<a href="http://shells.tricity.wsu.edu/ArcherdShellCollection/">Gladys Archerd Shell Collection</a>
+at Washington State University Tri-Cities Natural History Museum website: brief fact sheet with photos.</li>
+  <li><a href="http://www.sealifebase.org/Summary/speciesSummary.php?ID=87011">Spiral melongena (
+<em>Pugilina cochlidium</em>
+)</a>
+on SeaLife Base: Technical fact sheet.</li>
+  <li>Spiral melongena (
+<em>Pugilina cochlidium</em>
+) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+<a href="http://www.fao.org/docrep/009/w7191e/w7191e00.md">Volume 1: Seaweeds, corals, bivalves and gastropods</a>
+on the Food and Agriculture Organization of the United Nations (FAO) website.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Tan Siong Kiat and Henrietta P. M. Woo, 2010
+<em>Preliminary Checklist of The Molluscs of Singapore</em>
+(pdf), Lee Kong Chian Natural History Museum, National University of Singapore.</li>
+  <li>Chan, S.-Y., 2009.
+<em>The Melongenidae (Mollusca: Gastropoda) of Singapore</em>
+. Nature in Singapore, 2: 63–67.</li>
+  <li>Tan, K. S.; Phuah, C. L. November 1999.
+<a href="http://connection.ebscohost.com/c/articles/44402978/diet-feeding-habits-pugilina-cochlidium-neogastropoda-melongenidae-singapore">Diet and feeding habits of
+<em>Pugilina cochlidium</em>
+(Neogastropoda: Melongenidae) in Singapore</a>
+. Journal of Molluscan Studies; Nov1999, Vol. 65 Issue 4, p499.</li>
+  <li>Tan, K. S. &amp; L. M. Chou, 2000.
+<em>A Guide to the Common Seashells of Singapore</em>
+. Singapore Science Centre. 160 pp.</li>
+  <li>Abbott, R. Tucker, 1991.
+<em>Seashells of South East Asia</em>
+. Graham Brash, Singapore. 145 pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

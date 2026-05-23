@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Ribbon worms | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="ribbon, worm, ribbonworm, nemertine, nemertea, nemertean, nemertines,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/worm/nemertea/pink/050510tusg6052m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/"></a>
+                    > 
+                    <a href="//"></a>
+                    > 
+                    <a href="///"></a>
+                    >
+                    <a href="////"></a>
+                    >
+                    <a href="/////Geonemertidae">Geonemertidae</a>
+                </p>
+                <h1>Ribbon worms</h1>
+                
+                    <p class="scientific-name">Phylum Nemertea</p>
+                
+
+                <p><em>Updated Oct 2016</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about them ... They can be very long! They are predators and efficient hunters. They are delicate and some are venomous. Don't touch!
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        They can be very long! They are predators and efficient hunters. They are delicate and some are venomous. Don't touch!
+        </div>
+    </div>
+    
+
+</div>
+
+<h2 id="where-seen">Where seen?</h2>
+<p>Ribbon worms regularly seen in coral rubble areas on many of our shores. They are more active at night. During the day, they burrow in the ground or remain in other hiding places.</p>
+
+<p><strong>What are ribbon worms?</strong>
+Ribbon worms are unsegmented
+<a href="../worm.md">worms</a>
+belonging to Phylum Nemertea. They are quite different from the segmented worms that we are more familiar with such as earthworms and
+<a href="../polychaeta/polychaeta.md">bristleworms</a>
+. These belong to Phylum Annelida. According to
+<a href="http://nemertes.si.edu/">the Nemertes website</a>
+, there are approximately 1,000 valid, described species of ribbon worms, with possibly several times this number that remain to be named or discovered! Ribbon worms are found in oceans, freshwaters, and also on land.</p>
+
+<h2 id="features">Features</h2>
+
+<p>Ribbon worms range in length from 1mm to very long ones indeed. Some species can reach 30m! Those we have seen range from short ones 10-15cm long, longer ones 30-40cm long and some more than 1m long. Ribbon worms are NOT segmented worms. The body of a ribbon worm is rather flattened. Although it appears smooth, the body is covered with microscopic hairs (cilia). Ribbon worms may have zero to 80 ‘eyes’ (light-dectecting sensors). Some ribbon worms produces mucus through which they move.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/nemertea/pink/050510tusg6052m3.jpg" alt="" />
+        <div class="caption">
+        Sometimes seen swimming in the water. Tuas, May 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/nemertea/verylong/091205sudd5585m6l.jpg" alt="" />
+        <div class="caption">
+        This one can be more than 1m long. Pulau Sudong, Dec 09
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>What do they eat?</strong>
+Most ribbon worms are voracious predators, often specialising in a particular prey although some will eat a wide variety of prey. Ribbon worm prey include other worms, crustaceans and molluscs.</p>
+
+<p><strong>Shooting off its mouth:</strong>
+To capture its prey, the ribbon worm has a unique eversible proboscis at the front end of the body. This is a hollow, muscular structure that can shoot out with explosive force and is prehensile (can be used to grip) and retractable (can be pulled back). The proboscis is usually wound around the prey which is then hauled back toward the worm’s mouth. Sticky mucus is secreted to help grip the prey.</p>
+
+<p>In one group of ribbon worms, the proboscis is armed with a piercing stylet that can inject a potent paralysing toxin. Such a worm releases the prey after injecting it, and waits for the prey to be paralysed before moving in to feed on it. If the prey is worm-shaped, it may be swallowed whole. For other awkwardly shaped prey, the worm inserts part of its digestive system into the prey and sucks up the victim’s juices. The proboscis may also be used to burrow or to drag itself along the surface.</p>
+
+<p>Being soft and very long, ribbon worms appear defenceless. Studies, however, suggest that they harbour bacteria that produce powerful neurotoxins. These may make the worms toxic to eat. Indeed, many ribbon worms are brightly coloured, perhaps serving to warn of their distasteful nature.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/nemertea/short/060531labd2669m3.jpg" alt="" />
+        <div class="caption">
+        Wrapped around a drill snail. Labrador, May 06
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/nemertea/short/070304hntg7898m3.jpg" alt="" />
+        <div class="caption">
+        Coiled around a paralysed shrimp. Pulau Hantu, Mar 07
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Ribbon worm babies:</strong>
+Most ribbon worms have separate genders. A few may change from being a male to a female as they get older and larger. Fertilisation is external and the young are free-swimming larvae. A few species of ribbon worms can reproduce by fragmentation.</p>
+
+<hr />
+
+<p><strong>Some ribbon worms on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/nemertea/short/100213tmd9299m3a.jpg" alt="" />
+        <div class="caption">
+        Short ribbon worm
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/nemertea/redreef/050111labd9614m3.jpg" alt="" />
+        <div class="caption">
+        Red reef ribbon worm
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/nemertea/pink/060726chgd5005m3.jpg" alt="" />
+        <div class="caption">
+        Pink ribbon worm
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/nemertea/twotone/080603prpd4699m3b.jpg" alt="" />
+        <div class="caption">
+        Two-toned ribbon worm
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/nemertea/verylong/091205sudd5587m3.jpg" alt="" />
+        <div class="caption">
+        Very long ribbon worm
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Phylum Nemertea recorded for Singapore</strong></p>
+
+<p>from Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+.</p>
+
+<p>in red are those listed among the threatened animals of Singapore
+from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+<em>The Singapore Red Data Book: Threatened plants and animals of Singapore</em>
+.
+**</p>
+
+<p>Ribbon worms commonly seen awaiting identification</p>
+
+<p>**Species are difficult to positively identify without close examination.</p>
+
+<p>On this website, they are grouped by external features for convenience of display.*</p>
+
+<p><a href="pink.md">Pink ribbon worm</a></p>
+
+<p><a href="redreef.md">Red reef ribbon worm</a></p>
+
+<p><a href="short.md">Short ribbon worm</a></p>
+
+<p><a href="twotone.md">Two-toned ribbon worm</a></p>
+
+<p><strong>Family Geonemertidae</strong></p>
+
+<p><em>Pantinonemertes sp.</em>
+(EN: Endangered)</p>
+
+<p><strong>Family Valenciniidae</strong></p>
+
+<p>+
+<a href="verylong.md"><em>Baseodiscus quinquelineatus</em></a>
+(Very long ribbon worm)</p>
+
+<hr />
+
+<p>th</p>
+
+<p>edition. McGraw-Hill Book Co., Singapore. 578 pp.</p>
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/125.md">Ribbon worm</a>
+Tan, Leo W. H. &amp; Ng, Peter K. L., 1988.
+<em><a href="http://mangrove.nus.edu.sg/pub/seashore/t">A Guide to Seashore Life</a></em>
+. The Singapore Science Centre, Singapore. 160 pp.</li>
+  <li><a href="http://mangrove.nus.edu.sg/guidebooks/text/2003.md">Mangrove ribbon worm (
+<em>Pantinonemertes</em>
+)</a>
+Ng, Peter K. L. &amp; N. Sivasothi, 1999.
+<em><a href="http://mangrove.nus.edu.sg/guidebooks/">A Guide to the Mangroves of Singapore II (Animal Diversity)</a></em>
+. Singapore Science Centre. 168 pp.</li>
+  <li><a href="http://www.seaslugforum.net/showall/nemertea">Bootlace and ribbon worms: Nemertea</a>
+on the Sea Slug Forum by Dr Bill Rudman: photos and introduction to these worms.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+. National Council on the Environment. 163pp.</li>
+  <li>Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+<em>The Singapore Red Data Book: Threatened plants and animals of Singapore</em>
+. Nature Society (Singapore). 285 pp.</li>
+  <li>Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.
+<em>Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates</em>
+Sea Challengers. 314pp.</li>
+  <li>Allen, Gerald R and Roger Steene. 2002.
+<em>Indo-Pacific Coral Reef Field Guide</em>
+. Tropical Reef Research. 378pp.</li>
+  <li>Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.
+<em>Invertebrate Zoology</em>
+Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963</li>
+  <li>Pechenik, Jan A., 2005.
+<em>Biology of the Invertebrates</em>
+. 5</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

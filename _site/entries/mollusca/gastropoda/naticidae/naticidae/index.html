@@ -1,0 +1,783 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Moon snails  | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="moon, snail, shell, naticidae, natica, policines, gastropod, mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/110520chgd2415m6l.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Mollusca">Mollusca</a>
+                    > 
+                    <a href="/Mollusca/Gastropoda">Gastropoda</a>
+                    > 
+                    <a href="/Mollusca/Gastropoda/Littorinimorpha">Littorinimorpha</a>
+                    >
+                    <a href="/Mollusca/Gastropoda/Littorinimorpha/"></a>
+                    >
+                    <a href="/Mollusca/Gastropoda/Littorinimorpha//Naticidae">Naticidae</a>
+                </p>
+                <h1>Moon snails </h1>
+                
+                    <p class="scientific-name">Family Naticidae</p>
+                
+
+                <p><em>Updated Aug 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about them ... Moon snails usually hunt and rest under the sand. Look for trails in the sand! They are fierce predators that hunt other snails and clams. The body of a moon snail can inflate to many times the size of its shell.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        Moon snails usually hunt and rest under the sand. Look for trails in the sand! They are fierce predators that hunt other snails and clams. The body of a moon snail can inflate to many times the size of its shell.
+        </div>
+    </div>
+    
+
+</div>
+
+<h2 id="where-seen">Where seen?</h2>
+<p>With spherical or oval shells and a huge body, these fierce burrowing snails are commonly seen on our sandy shores. These snails are more commonly seen above ground at night. But a keen observer may still detect their presence by the distinctive trails these snails leave on the surface as they quietly burrow just beneath the sand.</p>
+
+<p><strong>What are moon snails?</strong>
+Moon snails belong to the Family Naticidae. These include the Genus
+<em>Natica</em>
+, which have a thicker operculum that is shell-like (usually white); and the Genus
+<em>Polinices</em>
+, which have a thin operculum made of a horn-like material (usually yellowish) with several whorls. The Naked moon snails of the Genus
+<em>Sinum</em>
+have thin shells and very large bodies which cannot be retracted fully into the shell.</p>
+
+<h2 id="features">Features</h2>
+
+<p>About 2cm. When a moon snail is fully extended out of its shell, it has an amazingly large body compared to its shell. It achieves this by inflating its tissues with seawater.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/110520chgd2415m6l.jpg" alt="" />
+        <div class="caption">
+        The Ball moon snail, like most moon snails, can deflate the huge body and retract completely into the shell. Changi, May 11
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/110520chgd2415m3a.jpg" alt="" />
+        <div class="caption">
+        Siphon (upper left) and tentcles
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Bulldozing for prey:</strong>
+The body forms a wedge shape that helps the snail move under the sand. The front of the foot is used like a plough. A part of the foot covers the head as a protective shield. The tentacles and siphon stick out of this shield. The mantle (a part of its body) extends in two flaps over the shell on either side. A moon snail’s shell often remains shiny and lustrous because the mantle envelopes its shell, and the snail spends most of its time under the sand. Encrusting animals have little chance of establishing on the shell of a living moon snail.</p>
+
+<p><strong>Sometimes mistaken for</strong>
+a sea slug when the mantle covers the shell. Some moon snails can’t retract completely into their shells: like the
+<a href="sinum.md">Naked moon snail</a>
+and
+<a href="mammatus.md">Bosom moon snail</a>
+. Here’s more on how to tell apart
+<a href="../../../glossary/flatwormslug.md">animals that resemble sea slugs</a>
+.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/060614ecpd3194m3.jpg" alt="" />
+        <div class="caption">
+        Tiny button snails leaping away from a hunting moon snail. East Coast, Jun 06
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/120802chgd9178.jpg" alt="" />
+        <div class="caption">
+        A moon snail with a bivalve enveloped in its foot. Changi, Aug 12
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/noid/101011chgd2129m3c.jpg" alt="" />
+        <div class="caption">
+        Clam shell with hole neatly drilled, possibly by a moon snail? Changi, Oct 10
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>What do they eat?</strong>
+Moon snails are fierce predators. They feed on bivalves and snails. A moon snail wraps its huge foot around the hapless prey to suffocate it. If this fails, it has a gland at the tip of its proboscis that secretes an acid to soften the victim’s shell. With its radula, a hole is slowly drilled through the shell. The hole created by a moon snail is usually neat and bevelled.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/noid/110705chgd5864m3.jpg" alt="" />
+        <div class="caption">
+        Bivalve escaping a moon snail! Changi, Jul 11
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/noid/110705chgd5869m6l.jpg" alt="" />
+        <div class="caption">
+        Using its long foot, the bivalve 'leaps' away to safety.
+        </div>
+    </div>
+    
+
+</div>
+<p>Moon snail attempting to eat a bivalve as big as itself!</p>
+
+<p>Filmed on Cyrene Reef Aug 2013</p>
+
+<p>shared by Heng Pei Yan on
+<a href="http://peiyansama.blogspot.sg/2013/08/new-surprises-at-cyrene-reef-with-large.html">her blog</a>
+.</p>
+
+<p><strong>Snail takeaway?</strong>
+Some moon snails have been seen ‘dragging’ a small snail shell behind them attached to the foot. Is it taking the meal away to some other place to eat it in safety?</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/onca/110830cyrd0383m3.jpg" alt="" />
+        <div class="caption">
+        China moon snail dragging a small shell. Cyrene Reef, Aug 11
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/zebra/080519sisd3457m3.jpg" alt="" />
+        <div class="caption">
+        Zebra moon snail dragging a small shell. Sisters Island, May 08
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Moon babies:</strong>
+The sand collar is the moon snail’s egg mass. When the eggs hatch, the collar disintegrates. Thus, an intact collar has living snails in it! Please don’t damage the sand collars. More
+<a href="sandcollar.md">about sand collars</a>
+.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/tigrina/080916tusd0464.jpg" alt="" />
+        <div class="caption">
+        Two snails, mating? or trying to eat the same thing? Tuas, Sep 08
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sandcollar/030703skdd0250m3.jpg" alt="" />
+        <div class="caption">
+        Sand collar: egg mass of a moon snail. more photos of sand collars. Pulau Sekudu, Jul 03
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sandcollar/041127cjd8603m3.jpg" alt="" />
+        <div class="caption">
+        Sand collar: egg mass of a moon snail. more photos of sand collars. Chek Jawa, Nov 04
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Role in the habitat:</strong>
+When a moon snail dies, its shell is usually quickly taken over by a hermit crab. Many of the moon snail shells you see on the surface will probably be so occupied. Living moon snails are rarely seen above ground during the day.</p>
+
+<p><strong>Human uses:</strong>
+Some larger moon snail species are sold as food in Asian markets.</p>
+
+<p><strong>Status and threats:</strong>
+None of our moon snails are listed among the threatened animals in the Red List of threatened animals of Singapore. However, like other creatures of the intertidal zone, the rest of they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection can also have an impact on local populations.</p>
+
+<hr />
+
+<p><strong>Some Moon snails on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/050511cftg6255m3.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/090806tmd8343m3.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/albumen/120512cyrd3342m3.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/050524cftg6597m3.jpg" alt="" />
+        <div class="caption">
+        Ball moon snail
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/090609sntd3548m3.jpg" alt="" />
+        <div class="caption">
+        Oval moon snail
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/albumen/120512cyrd3341m3.jpg" alt="" />
+        <div class="caption">
+        Eggwhite moon snail
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/onca/110830cyrd0332m3.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/080704sekd6844m3.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/zebra/050807sjig0646m3.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/onca/111127sisd3940m3.jpg" alt="" />
+        <div class="caption">
+        China moon snail
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/060711chgg6281m3.jpg" alt="" />
+        <div class="caption">
+        Pink moon snail
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/zebra/050807sjig0641m3.jpg" alt="" />
+        <div class="caption">
+        Zebra moon snail
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/tigrina/050412tusg4564m3.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/lineata/081116chgd2193m3.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/tigrina/050412tusg4560m3b.jpg" alt="" />
+        <div class="caption">
+        Tiger moon snail
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/lineata/081116chgd2180.jpg" alt="" />
+        <div class="caption">
+        Lined moon snail
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/spotted/100711cyrd8184m3.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/110714chgd6457m3.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/albumen/120621cyrd6210m3.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/spotted/100711cyrd8186m3.jpg" alt="" />
+        <div class="caption">
+        Spotted moon snail
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/110518bbd1899m3.jpg" alt="" />
+        <div class="caption">
+        Calf moon snail
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/albumen/120621cyrd6171m3.jpg" alt="" />
+        <div class="caption">
+        Eggwhite moon snail
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammatus/130401chg.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sinum/111028chged2720m3.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammatus/110705chgd5817m3.jpg" alt="" />
+        <div class="caption">
+        Shell of a dead snail Bosom moon snail
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sinum/050402cjg3999m3a.jpg" alt="" />
+        <div class="caption">
+        Naked moon snail
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Family Naticidae recorded for Singapore</strong>
+from Tan Siong Kiat and Henrietta P. M. Woo, 2010
+<em>Preliminary Checklist of The Molluscs of Singapore</em></p>
+
+<p>+from our observation.</p>
+
+<p>^from
+<a href="http://www.marinespecies.org/">WORMS</a></p>
+
+<p><strong>Family Naticidae</strong></p>
+
+<p>*Eunaticina coarctata</p>
+
+<p>Eunaticina linneana</p>
+
+<p>Eunaticina papilla</p>
+
+<p>^Mammilla sebae=Polinices sebae</p>
+
+<p>Natica alapapilionis=^Naticarius alapapilionis</p>
+
+<p>Natica arachnoidea*
+<em><a href="spotted.md">Natica gualteriana</a></em>
+(Spotted moon snail)
+**
+<em>Natica marochiensis</em>
+<em><a href="vitellus.md">Natica vitellus</a></em>
+(Calf moon snail)
+<em>^
+<a href="onca.md">Naticarius onca</a>
+=Natica onca</em>
+(China moon snail)
+**
+<em>^
+<a href="pink.md">Naticarius zonalis</a>
+=Natica zonalis</em>
+(Pink moon snail)</p>
+
+<p><em>^
+<a href="tigrina.md">Notocochlis tigrina</a>
+=Natica tigrina</em>
+(Tiger moon snail)=
+<em>Natica maculosa</em>
+**</p>
+
+<p><em>^
+<a href="didyma.md">Neverita didyma</a>
+=Polinices didyma</em>
+(Ball moon snail)</p>
+
+<p><em><a href="neverita.md">Polinices albumen</a></em>
+(Egg-white moon snail)</p>
+
+<p><a href="mammilla.md"><em>Polinices mammilla</em></a>
+(Oval moon snail)</p>
+
+<p>*Polinices mammatus</p>
+
+<p>Polinices melanostomoides</p>
+
+<p>Polinices melanostomus</p>
+
+<p>Polinices peselephanti*
+(Elephant Foot’s moon snail)
+*Polinices powisianus</p>
+
+<p>Sigatica pomatiella*</p>
+
+<p><a href="sinum.md"><em>Sinum</em>
+sp.</a>
+(Naked moon snail)
+*Sinum delessertii</p>
+
+<p>Sinum eximium</p>
+
+<p>Sinum haliotoideum</p>
+
+<p>Sinum incisum</p>
+
+<p>Sinum neritoideum</p>
+
+<p>+^
+<a href="zebra.md">Tanea areolata</a>
+=Natica areolata*
+(Zebra moon snail)
+<em>^Tanea euzona=Natica euzona</em>
+<em>^
+<a href="lineata.md">Tanea lineata</a>
+=Natica lineata</em>
+(Lined moon snail)
+<em>^Tanea undulata=Natica undulata</em></p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/142.md">Moon Snail (
+<em>Polinices</em>
+sp.)</a>
+Tan, Leo W. H. &amp; Ng, Peter K. L., 1988.
+<em><a href="http://mangrove.nus.edu.sg/pub/seashore/">A Guide to Seashore Life</a></em>
+. The Singapore Science Centre, Singapore. 160 pp.</li>
+  <li><a href="http://www.seaslugforum.net/naticid.md">Moon snails</a>
+on the Sea Slug Forum by Dr Bill Rudman: brief fact sheet with lovely photo of a colourful moon snail.</li>
+  <li><a href="http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Naticidae.html">Family Naticidae</a>
+on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief fact sheet on moon snails with photos.</li>
+  <li><a href="http://seashellsofnsw.org.au/Naticidae/Pages/Naticidae_Intro.md">Family Naticidae (Sand or Moon Snails)</a>
+on the
+<a href="http://seashellsofnsw.org.au/index.md">The Seashells of New South Wales</a>
+website by Des Beechey Research Associate, Australian Museum: family introductions with photos of shells and detailed fact sheets for many species.</li>
+  <li>Family Naticidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+<a href="http://www.fao.org/docrep/009/w7191e/w7191e00.md">Volume 1: Seaweeds, corals, bivalves and gastropods</a>
+on the Food and Agriculture Organization of the United Nations (FAO) website.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Tan Siong Kiat and Henrietta P. M. Woo, 2010
+<em>Preliminary Checklist of The Molluscs of Singapore</em>
+(pdf), Raffles Museum of Biodiversity Research, National University of Singapore.</li>
+  <li>Tan, K. S. &amp; L. M. Chou, 2000.
+<em>A Guide to the Common Seashells of Singapore</em>
+. Singapore Science Centre. 160 pp.</li>
+  <li>Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+. National Council on the Environment. 163pp.</li>
+  <li>Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+<em>The Singapore Red Data Book: Threatened plants and animals of Singapore</em>
+. Nature Society (Singapore). 285 pp.</li>
+  <li>Ng, P. K. L. &amp; Y. C. Wee, 1994.
+<em>The Singapore Red Data Book: Threatened Plants and Animals of Singapore</em>
+. The Nature Society (Singapore), Singapore. 343 pp.</li>
+  <li>Abbott, R. Tucker, 1991.
+<em>Seashells of South East Asia</em>
+. Graham Brash, Singapore. 145 pp.</li>
+  <li>Coleman, Neville. 2003.
+<em>2002 Sea Shells: Catalogue of Indo-Pacific Mollusca</em>
+. Neville Coleman’s Underwater Geographic Pty Ltd, Australia.144pp.</li>
+  <li>Kuiter, Rudie H and Helmut Debelius. 2009.
+<em>World Atlas of Marine Fauna</em>
+. IKAN-Unterwasserachiv. 723pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

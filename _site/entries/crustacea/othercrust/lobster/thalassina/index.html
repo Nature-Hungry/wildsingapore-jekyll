@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Mud lobster | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="mud, lobster, thalassina, anomala, gracilis, thalassinidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/011114cjd689m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Arthropoda">Arthropoda</a>
+                    > 
+                    <a href="/Arthropoda/Malacostraca">Malacostraca</a>
+                    > 
+                    <a href="/Arthropoda/Malacostraca/Decapoda">Decapoda</a>
+                    >
+                    <a href="/Arthropoda/Malacostraca/Decapoda/Pleocyemata">Pleocyemata</a>
+                    >
+                    <a href="/Arthropoda/Malacostraca/Decapoda/Pleocyemata/Thalassinidae">Thalassinidae</a>
+                </p>
+                <h1>Mud lobster</h1>
+                
+                    <p class="scientific-name">Thalassina sp.</p>
+                
+
+                <p><em>Updated Mar 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about them ... They are rarely seen but are a vital part of a healthy mangrove. They are responsible for the huge mounds of mud in the back mangroves. Many other plants and animals live and feed on these mounds.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        They are rarely seen but are a vital part of a healthy mangrove. They are responsible for the huge mounds of mud in the back mangroves. Many other plants and animals live and feed on these mounds.
+        </div>
+    </div>
+    
+
+</div>
+
+<h2 id="where-seen">Where seen?</h2>
+<p>The mud lobster is almost never seen out of its burrow in the mangrove mud. But the impressive mounds created by this animal are still commonly seen in the undisturbed back mangroves on our shores.</p>
+
+<h2 id="features">Features</h2>
+
+<p>Up to 30cm long. The mud lobster is actually not a lobster but more of a giant shrimp. It is more closely related to
+<a href="glypturus.md">ghost shrimps</a>
+of the genus
+<em>Callianasa</em>
+. The mud lobster lives deep under the mound in a U-shaped tunnel and rarely emerges above ground. According to the Singapore Red Data Book, there are two species of mudlobsters found in Singapore.
+<em>Thalassina gracilis</em>
+is smaller with a pointed ‘nose’ (rostrum) and known to live next to
+<em>Thalassina anomala</em>
+.
+<em>Thalassina gracilis</em>
+was not seen for a long time until it was recently re-discovered.</p>
+
+<p><strong>Marvellous farmer of the mangroves:</strong>
+The mud lobster plays a key role in sustaining life in a mangrove. It is believed to eat mud. As it eats-and-digs, it recycles nutrients from deep underground, bringing these within reach of other plants and animals. Its digging also loosens the mud and allows air and oxygenated water to penetrate the otherwise oxygen-poor ground. All this digging also eventually results in a distinctive volcano-shaped mound that can reach impressive proportions.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/011114cjd689m3.jpg" alt="" />
+        <div class="caption">
+        Chek Jawa, Nov 01
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/120314cjd7720m3.jpg" alt="" />
+        <div class="caption">
+        Fresh mud from a mound suggests an active mud lobster deep underground. Chek Jawa, Mar 12
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/m321c.gif" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Mud lobster ‘Condo’:</strong>
+A mud lobster mound can be as tall as 2m above the ground! The mud lobster mound is drier than its surroundings so it makes a perfect home for other animals. Many animals can be found in living in these ‘high-rise’ mounds, creating their own burrows in the mound, sometimes complete with chimneys. ‘Condo’ dwellers include
+<a href="../../../vertebrates/snakes/granulatus.md">snakes</a>
+,
+<a href="../../crab/sesarmidae/sesarmidae.md">crabs</a>
+, ants, spiders, worms, clams and shrimps. Some
+<a href="../../../plants/mangrove/mangroves.md">plants</a>
+also appear to grow better on these mounds. The condominium comes complete with swimming pool! Water is trapped in the mound system forming pools. At low tide, these shelter aquatic animals such as
+<a href="../../../vertebrates/fish/gobiidae/mudskipper.md">mudskippers</a>
+.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/081109cjtch01m3.jpg" alt="" />
+        <div class="caption">
+        Shared by Toh Chay Hoon on her flickr . Chek Jawa, Nov 08
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/071008cjd6944m3.jpg" alt="" />
+        <div class="caption">
+        Mudlobster in its burrow. Chek Jawa, Oct 07
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/090816sbwrd9070m3.jpg" alt="" />
+        <div class="caption">
+        Mangrove ferns growing on a mound. Sungei Buloh Wetland Reserve, Aug 09
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Human uses:</strong>
+Mud lobsters are eaten in some Pacific Islands such as Fiji. In our part of the world, they are considered a nuinsance by fish and prawn farmers as their digging activities undermine the bunds (raised edges of mud) that surround fish and prawn ponds.</p>
+
+<p><strong>Status and threats:</strong>
+Our mud lobsters are listed as ‘Endangered’ on the Red List of threatened animals of Singapore, as their preferred habitats are lost or degraded. If they disappear, so will their ‘condos’ and the plants and animals living there. L
+ike other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/090612pndd4034m3.jpg" alt="" />
+        <div class="caption">
+        Mudlobster mounds Sungei Pandan, Jun 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/091005cjd2220m6l.jpg" alt="" />
+        <div class="caption">
+        Mudlobster mounds Chek Jawa, Oct 09
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Mud lobsters on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470@N00&amp;sort=date-posted-desc&amp;view_all=1&amp;text=Thalassina">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Thalassina/map?&amp;fLat=1.2622&amp;fLon=103.8654&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/090829cjmn.jpg" alt="" />
+        <div class="caption">
+        Chek Jawa, Aug 09 Shared by Marcus Ng on flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/251213prprqo1.jpg" alt="" />
+        <div class="caption">
+        Pasir Ris Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="https://farm4.staticflickr.com/3491/3869824396_53c75a7ba7_z.jpg?zz=1" alt="" />
+        <div class="caption">
+        Seen at Chek Jawa from the mangrove boardwalk on 29 Aug 09. Video clip shared by November on her flickr.
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/183.md">Mud lobster (
+<em>Thalassina anomala</em>
+)</a>
+Tan, Leo W. H. &amp; Ng, Peter K. L., 1988.
+<em><a href="http://mangrove.nus.edu.sg/pub/seashore/">A Guide to Seashore Life</a></em>
+. The Singapore Science Centre, Singapore. 160 pp.</li>
+  <li><a href="http://mangrove.nus.edu.sg/guidebooks/text/2064.md">Mud lobster (
+<em>Thalassina anomala</em>
+)</a>
+Ng, Peter K. L. &amp; N. Sivasothi, 1999.
+<em><a href="http://mangrove.nus.edu.sg/guidebooks/">A Guide to the Mangroves of Singapore I (Plant Diversity</a></em>
+<a href="http://mangrove.nus.edu.sg/guidebooks/">)</a>
+. Singapore Science Centre. 168 pp.</li>
+  <li><em><a href="https://singapore.biodiversity.online/taxo4254/mainSpace/Thalassina%20anomala.html">Thalassina anomala</a></em>
+(Decapoda :Thalassinidae) Mud Lobster by Ariff Abdul Aziz, 2011 on taxo4254.</li>
+  <li><a href="http://species-identification.org/species.php?species_group=lobsters&amp;id=11&amp;menuentry=groepen">Family Thalassinidae</a>
+and
+<a href="http://species-identification.org/species.php?species_group=lobsters&amp;id=75">Scorpion mud lobster (
+<em>Thalassina anomala</em>
+)</a>
+in Marine Lobsters of the World on Marine Life Species Identification Portal.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li><em>Banded krait entering mud lobster mound at Chek Jawa</em>
+, 31 October 2019, Lim Hong Yao, Singapore Biodiversity Records 2019: 128-129 ISSN 2345-7597, National University of Singapore.</li>
+  <li>Moh H. H. and V. C. Chong.
+<em>A new species of Thalassina (Crustacea: Decapoda: Thalassinidae) from Malaysia</em>
+, The Raffles Bulletin of Zoology Vol 57 (2009) Issue No. 2.</li>
+  <li>Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+<em>The Singapore Red Data Book: Threatened plants and animals of Singapore</em>
+. Nature Society (Singapore). 285 pp.</li>
+  <li>Jones Diana S. and Gary J. Morgan, 2002.
+<em>A Field Guide to Crustaceans of Australian Waters</em>
+. Reed New Holland. 224 pp.</li>
+  <li>Debelius, Helmut, 2001.
+<em>Crustacea Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean</em>
+IKAN-Unterwasserachiv, Frankfurt. 321 pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

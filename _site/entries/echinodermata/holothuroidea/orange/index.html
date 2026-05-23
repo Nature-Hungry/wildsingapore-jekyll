@@ -1,0 +1,465 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Orange sea cucumber | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="cucumber, seacucumber, mensamaria, intercedens, cucumarid, holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/080521chgd3646m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Echinodermata">Echinodermata</a>
+                    > 
+                    <a href="/Echinodermata/Holothuroidea">Holothuroidea</a>
+                    > 
+                    <a href="/Echinodermata/Holothuroidea/Dendrochirotida">Dendrochirotida</a>
+                    >
+                    <a href="/Echinodermata/Holothuroidea/Dendrochirotida/"></a>
+                    >
+                    <a href="/Echinodermata/Holothuroidea/Dendrochirotida//Cucumariidae">Cucumariidae</a>
+                </p>
+                <h1>Orange sea cucumber</h1>
+                
+                    <p class="scientific-name">Mensamaria intercedens*</p>
+                
+
+                <p><em>Updated Apr 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This orangey sea cucumber is sometimes seen on our Northern shores, usually attached to coral rubble, often near sponges, sometimes partially covered by sediments, nestled up among hydroids, draped with synaptid sea cucumbers or smaller sea cucumbers. In Australia, they are found on intertidal shores in ‘U-shaped’ burrows or entwined in rhizomes of seagrasses.</p>
+
+<h2 id="features">Features</h2>
+
+<p>8-12cm long. Body spindle-shaped (pointed at both ends) somewhat squarish or quadrangular in cross-section. Doesn’t have a clear upper and underside. Tube feet orange, long and thin, appearing from orange rows along the body length. Actually, the body is dark blue with orange tube feet and orange stripes along its length. But sometimes the orange stripes are wide so that the animal appears mostly orange with fainter dark blue stripes. The feeding tentacles all white or white at the base, black towards the tips, black speckled in between; branched tips pinkish or pale orange.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/080521chgd3646m3.jpg" alt="" />
+        <div class="caption">
+        Body squarish in cross section. Tube feet long thin orange. Changi, May 08
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/091011mkbd2773m3a.jpg" alt="" />
+        <div class="caption">
+        Feeding tentacles extended. Marina Keppel Bay, Oct 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/100712chgd8467m3.jpg" alt="" />
+        <div class="caption">
+        Feeding tentacles not fully extended. Changi, Jul 10
+        </div>
+    </div>
+    
+
+</div>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/081117ecpmd2346.jpg" alt="" />
+        <div class="caption">
+        Dark blue body with orange tube feet. Changi, Jul 10
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/100712chgd8465m3.jpg" alt="" />
+        <div class="caption">
+        Half buried. Changi, Jul 10
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/030521bb0099m3.jpg" alt="" />
+        <div class="caption">
+        Bloated. Beting Bronok, May 03
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/210528lyg.jpg" alt="" />
+        <div class="caption">
+        Feeding tentacles extended. Changi Loyang, May 21
+        </div>
+    </div>
+    
+
+</div>
+<p>**Species are difficult to positively identify without close examination.</p>
+
+<p>On this website, they are grouped by external features for convenience of display*</p>
+
+<hr />
+
+<p><strong>Orange sea cucumbers on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470@N00&amp;sort=date-posted-desc&amp;view_all=1&amp;text=Mensamaria intercedens">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Mensamaria%2520intercedens/map?&amp;fLat=1.2626&amp;fLon=103.8661&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/210531chg6jt3.jpg" alt="" />
+        <div class="caption">
+        Changi Carpark 6, May 21 Photo shared by Jonathan Tan on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/251012chgmn1.jpg" alt="" />
+        <div class="caption">
+        Changi, Oct 25 Photo shared by Marcus Ng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/210628ecpBrk1.jpg" alt="" />
+        <div class="caption">
+        East Coast Park (B), Jun 21 Photo shared by Richard Kuah on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/171108ecpmblks8.jpg" alt="" />
+        <div class="caption">
+        East Coast-Marina Bay, Nov 17 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/081214ecmlks01m3.JPG" alt="" />
+        <div class="caption">
+        East Coast, Dec 08 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/170529srplks2.jpg" alt="" />
+        <div class="caption">
+        Sentosa Serapong, May 17 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/130501sntlks.JPG" alt="" />
+        <div class="caption">
+        Sentosa, May 13 Photo shared by Loh Kok Sheng on flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/130111sjilks.JPG" alt="" />
+        <div class="caption">
+        St John's Island, Jan 13 Photo shared by Loh Kok Sheng on flickr .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/200627cyrlks5.jpg" alt="" />
+        <div class="caption">
+        Cyrene, Jun 20 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/160209cyrlks2.JPG" alt="" />
+        <div class="caption">
+        Cyrene Reef, Feb 16 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/200626tptvc2.jpg" alt="" />
+        <div class="caption">
+        Terumbu Pempang Tengah, Jun 20 Photo shared by Vincent Choo on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://www.sealifebase.org/summary/Mensamaria-intercedens.html"><em>Mensamaria</em>
+<em>intercedens</em></a>
+on SeaLife Base: Technical fact sheet.</li>
+  <li><a href="http://species-identification.org/species.php?species_group=nasc&amp;id=108&amp;menuentry=soorten"><em>Mensamaria</em>
+<em>intercedens</em></a>
+in North Australian Sea Cucumbers on Marine Species Identification Portal: Technical fact sheet.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Ong J. Y. &amp; H. P. S. Wong.
+<em>Sea cucumbers (Echinodermata: Holothuroidea) from the Johor Straits, Singapore</em>
+. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 273-291.</li>
+  <li>Lane, David J.W. and Didier Vandenspiegel. 2003
+<em>. A Guide to Sea Stars and Other Echinoderms of Singapore</em>
+. Singapore Science Centre. 187pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

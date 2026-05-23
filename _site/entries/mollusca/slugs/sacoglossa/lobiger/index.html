@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Tendril slug | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="tendril, slug, lobiger, viridis, seaslug, sap, sucking, sacoglossan, oxynoidae opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/lobiger/050622cftg8209m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Mollusca">Mollusca</a>
+                    > 
+                    <a href="/Mollusca/Gastropoda">Gastropoda</a>
+                    > 
+                    <a href="/Mollusca/Gastropoda/"></a>
+                    >
+                    <a href="/Mollusca/Gastropoda//"></a>
+                    >
+                    <a href="/Mollusca/Gastropoda///Oxynoidae">Oxynoidae</a>
+                </p>
+                <h1>Tendril slug</h1>
+                
+                    <p class="scientific-name">Lobiger viridis</p>
+                
+
+                <p><em>Updated Jun 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This well camouflaged slug is sometimes seen among green seaweeds on our Northern and Southern shores.</p>
+
+<h2 id="features">Features</h2>
+
+<p>To about 3cm. It has a green shell and four long ‘fingers’ sticking out of the sides of its body that look like tendrils of a seaweed. These tendrils can be ‘rolled up’, making the slug very difficult to see among round seagrape seaweeds, for example. The tendrils can also be suddenly expanded and unfurled. This may be done to deter predators. The tendrils can also be dropped off (autotomized) whereupon the tendril continues to wriggle and thus distract the predator. Colour mostly green to match the seaweeds it is found on. Often with orange edges to its tendrils.</p>
+
+<p><strong>What does it eat?</strong>
+Reports find this slug often among
+<a href="../../../plants/seaweed/chlorophyta/racemosa.md">Oval sea grape seaweeds</a>
+(
+<em>Caulerpa racemosa</em>
+). The tendrils may also help the slug obtain food from photosynthesis. Like other sacoglossans, this slug retains in its body, the chloroplasts obtained from its seaweed food.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/lobiger/050622cftg8209m3.jpg" alt="" />
+        <div class="caption">
+        Changi, Jun 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/lobiger/050622cftg8209m3a.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/lobiger/050622cftg8209m3b.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+
+</div>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/lobiger/130426tkkd5655m6l.jpg" alt="" />
+        <div class="caption">
+        Tendrils can be suddenly unfurled to deter predators. Pulau Tekukor, Apr 13
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Tendril slugs on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470@N00&amp;sort=date-posted-desc&amp;view_all=1&amp;text=Lobiger viridis">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Lobiger%20viridis/map?&amp;fLat=1.2612&amp;fLon=103.8661&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/lobiger/121214chgemn1.jpg" alt="" />
+        <div class="caption">
+        Changi East, Dec 12 Photo shared by Marcus Ng on flickr .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&amp;l=ur2&amp;o=1" alt="" />
+        <div class="caption">
+        Links The Sea Slug Forum by Dr Bill Rudman: photos and fact sheet on Lobiger viridis and Lobiger souverbii The Slug Site Branch of the Week: photo and fact sheet on Lobiger viridis and Lobiger souverbii References K. R. Jensen. Sacoglossa (Mollusca: Gastropoda: Heterobranchia) from northern coasts of Singapore . 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 226-249. K. R. Jensen &amp; R. S. L. Ong. Spawning observed in a specimen of the shelled sacoglossan Lobiger viridis Pease, 1863 from Singapore (Mollusca: Gastropoda: Heterobranchia) .10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 250-254.. Debelius, Helmut, 2001. Nudibranchs and Sea Snails: Indo-Pacific Field Guide IKAN-Unterwasserachiv, Frankfurt. 321 pp. Wells, Fred E. and Clayton W. Bryce. 2000. Slugs of Western Australia: A guide to the species from the Indian to West Pacific Oceans . Western Australian Museum. 184 pp. Coleman, Neville. 2001. 1001 Nudibranchs: Catalogue of Indo-Pacific Sea Slugs . Neville Coleman's Underwater Geographic Pty Ltd, Australia.144pp. Coleman, Neville, 1989. Nudibranchs of the South Pacific Vol 1 . 64 pp. Humann, Paul and Ned Deloach. 2010. Reef Creature Identification: Tropical Pacific New World Publications. 497pp. Kuiter, Rudie H and Helmut Debelius. 2009. World Atlas of Marine Fauna . IKAN-Unterwasserachiv. 723pp. Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996. Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates Sea Challengers. 314pp.
+        </div>
+    </div>
+    
+
+</div>
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://www.seaslugforum.net/">The
+Sea Slug Forum</a> by Dr Bill Rudman: photos and fact sheet on
+<a href="http://www.seaslugforum.net/showall.cfm?base=lobiviri"><em>Lobiger
+viridis</em></a> and <em><a href="http://www.seaslugforum.net/factsheet.cfm?base=lobisouv">Lobiger
+souverbii</a></em></li>
+  <li><a href="http://slugsite.us/">The
+Slug Site</a>
+Branch of the Week: photo and fact sheet on <em><a href="http://slugsite.us/bow/nudwk401.htm">Lobiger
+viridis</a></em> and <em><a href="http://slugsite.us/bow/nudwk311.htm">Lobiger
+souverbii</a></em></li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>K. R. Jensen. <em>Sacoglossa (Mollusca: Gastropoda: Heterobranchia) from northern coasts of Singapore</em>. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 226-249.</li>
+  <li>K. R. Jensen &amp; R. S. L. Ong. <em>Spawning observed in a specimen of the shelled sacoglossan Lobiger viridis Pease, 1863 from Singapore (Mollusca: Gastropoda: Heterobranchia)</em>.10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 250-254..</li>
+  <li>Debelius,
+Helmut, 2001. *Nudibranchs</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

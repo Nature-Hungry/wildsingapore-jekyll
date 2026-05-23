@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Gelang laut  | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="sesuvium, portulacastrum, aizoaceae, creeper, plant, bush, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/plants/coastal/ipomoea/pescaprae/090118smkd5798m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Tracheophyta">Tracheophyta</a>
+                    > 
+                    <a href="/Tracheophyta/Magnoliopsida">Magnoliopsida</a>
+                    > 
+                    <a href="/Tracheophyta/Magnoliopsida/Caryophyllales">Caryophyllales</a>
+                    >
+                    <a href="/Tracheophyta/Magnoliopsida/Caryophyllales/"></a>
+                    >
+                    <a href="/Tracheophyta/Magnoliopsida/Caryophyllales//Aizoaceae">Aizoaceae</a>
+                </p>
+                <h1>Gelang laut </h1>
+                
+                    <p class="scientific-name">Sesuvium portulacastrum</p>
+                
+
+                <p><em>Updated Jan 13</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>A carpet of this succulent plant is sometimes seen on beaches and back mangroves. The tiny flowers are delicate and pink. According to Hsuan Keng, it is found on clay soil near the seashores. According to Giesen, it is found throughout Southeast Asia, but not (yet) recorded in Borneo. ‘
+<em>Gelang laut</em>
+‘ means ‘Garland of the Sea’ in Malay. It is also called ‘
+<em>Sepit-sepit</em>
+‘.</p>
+
+<h2 id="features">Features</h2>
+
+<p>A spreading creeper with many branches forming a carpet on the high shores of sandy beaches and in back mangroves. Stems and leaves thick and fleshy. Stems up to 1m long, smooth, sometimes bright red, and with roots at the nodes. Leaves narrow spear-like (2.5-7cm) fleshy. Flowers tiny (0.5cm) at the leaf axils, pale pink. The flowers close at night and when the sky is overcast. Flowering occurs throughout the year. The fruit is a smooth, round capsule containing tiny pea-shaped smooth black seeds. The seeds don’t float.</p>
+
+<p>Small, pollen-collecting bees and day-flying moths pollinate the flowers.</p>
+
+<p><strong>Human uses:</strong>
+According to Burkill, the fresh leaves make a very good vegetable, but only after cooking by 2-3 boilings as they contain much salt. According to Geisen, in Thailand, this plant is used widely as forage and feed for sheep, cattle and pigs and even as a vegetable for human consumption.</p>
+
+<p><img src="http://www.wildsingapore.com/wildfacts/ipomoea/pescaprae/090118smkd5798m3.jpg" alt="" /></p>
+
+<p>Growing with
+<a href="../ipomoea/pescaprae.md">Beach morning glory</a>
+.
+<em>Pulau Semakau, Jan 09</em></p>
+
+<p><img src="http://www.wildsingapore.com/wildfacts/plants/coastal/sesuvium/portulacastrum/090405smkd9021m3.jpg" alt="" /></p>
+
+<p><em>Pulau Semakau, Apr 09</em></p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/coastal/sesuvium/portulacastrum/090126ubnd6233m3a.jpg" alt="" />
+        <div class="caption">
+        Pulau Ubin, Jan 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/coastal/sesuvium/portulacastrum/090126ubnd6233m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Ubin, Jan 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/coastal/sesuvium/portulacastrum/090405smkd9020m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau, Apr 09
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Gelang laut on Singapore shores</strong></p>
+
+<hr />
+
+<p>Photos of Gelang laut for free download from
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<hr />
+
+<p>Distribution in Singapore on
+<a href="https://www.flickr.com/photos/wildsingapore/tags/Sesuvium%2520portulacastrum/map?&amp;fLat=1.2629&amp;fLon=103.8657&amp;zl=11&amp;order_by=recent">this wildsingapore flickr map</a></p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><em><a href="http://floraofsingapore.wordpress.com/2010/10/03/sesuvium-portulacastrum/">Sesuvium portulacastrum</a></em>
+on Total Vascular Flora of Singapore Online: photos and fact sheet.</li>
+  <li><a href="https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2456"><em>Sesuvium portulacastrum</em></a>
+on the NParks Flora and Fauna website: photos and fact sheet.</li>
+  <li>Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+<a href="http://www.fao.org/docrep/010/ag132e/ag132e00.md"><em>Mangrove Guidebook for Southeast Asia</em></a>
+(PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
+<em>The Concise Flora of Singapore: Gymnosperms and Dicotyledons</em>
+. Singapore University Press. 222 pp.</li>
+  <li>Burkill, I. H., 1993.
+<em>A Dictionary of the Economic Products of the Malay Peninsula</em>
+. 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

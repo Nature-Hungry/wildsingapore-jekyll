@@ -1,0 +1,500 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Spiky sea pen | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="spiky, pen, seapen, pteroeides, pteroeididae, pennatulidae, pennatulacea, anthozoa, cnidaria, pteroides, cavernularia, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/120705chgd7083m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Cnidaria">Cnidaria</a>
+                    > 
+                    <a href="/Cnidaria/Anthozoa">Anthozoa</a>
+                    > 
+                    <a href="/Cnidaria/Anthozoa/Scleralcyonacea">Scleralcyonacea</a>
+                    >
+                    <a href="/Cnidaria/Anthozoa/Scleralcyonacea/"></a>
+                    >
+                    <a href="/Cnidaria/Anthozoa/Scleralcyonacea//Pennatulidae">Pennatulidae</a>
+                </p>
+                <h1>Spiky sea pen</h1>
+                
+                    <p class="scientific-name">Pteroeides sp.*</p>
+                
+
+                <p><em>Updated Dec 2019</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This feathery colony is sometimes seen on our Northern shores. In soft silty sand and near seagrasses. The colony does not harbour symbiotic algae (zooxanthellae) and can thus thrive in murky water.</p>
+
+<h2 id="features">Features</h2>
+
+<p>Those seen on our shores are about 15-20cm long (but some species of
+<em>Pteroides</em>
+are said to grow to 60cm long!). According to
+<a href="http://species-identification.org/species.php?species_group=corals&amp;menuentry=inleiding">Reef Corals of the Indo-Malayan Seas</a>
+globally, there are about 17 species of
+<em>Pteroeides</em>
+.</p>
+
+<p>Each colony is stout and feather-like. Made up of a sausage-like ‘stem’ some are plain, others with brown blotches. Some have an orange ‘foot’, usually buried and seen only in uprooted sea pens. Short (2-3cm) leaf-like structures symmetrically on both sides of the ‘stem’. These ‘leaves’ supported by rays of many long needle-like sharp spikes that stick out of the leaf edge. Usually white or beige, sometimes brown or pale orange. When exposed at low tide, the central stalk is often bent over in half so the colony looks like a limp feather.</p>
+
+<p>Tiny feeding polyps (autozooids) with 8 branched tentacles emerge from these ‘leaves’ when submerged. The autozooids can retract completely, leaving tiny bumps on the ‘leaf’ edges. The colony also has another kind of polyp that sucks in water (siphonozooids) and which are minute, numerous and crowded near edges of the ‘leaves’.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/120705chgd7083m3.jpg" alt="" />
+        <div class="caption">
+        Changi, Jul 12
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/120705chgd7086m3b.jpg" alt="" />
+        <div class="caption">
+        Autozooids emerging from the 'leaf' edge. Changi, Jul 12
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/130820skdd1405m3.jpg" alt="" />
+        <div class="caption">
+        Tiny polyps. Pulau Sekudu, Aug 13
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Pen pals:</strong>
+The tiny
+<a href="../../../crustacea/othercrust/anomura/porcellanidae/picta.md">Painted porcelain crab</a>
+(
+<em>Porcellanella picta</em>
+) is often found in this sea pen. Sometimes a pair is seen in one sea pen, at other times, many are seen.
+Washed up sea pens sometimes seen with
+<a href="../../../echinodermata/ophiuroidea/tinycolourful.md">colourful brittle stars</a>
+and other brittle stars. Less friendly animals associated with it are nudibranchs that eat them!</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/040716chgd2523m3.jpg" alt="" />
+        <div class="caption">
+        Bent over at low tide Changi, Jul 04
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/040716chgd2523m3a.jpg" alt="" />
+        <div class="caption">
+        The Painted porcellain crab is often seen in this sea pen.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/111031chgd3404m3a.jpg" alt="" />
+        <div class="caption">
+        Tiny coloutful brittle stars . Changi, Oct 11
+        </div>
+    </div>
+    
+
+</div>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/mollusca/slugs/nudibranchia/semperi/180616chgm3.jpg" alt="" />
+        <div class="caption">
+        A nudibranch that eats sea pens is lurking near this one. Beting Bronok, Jun 18
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/081216prpd3387m3.jpg" alt="" />
+        <div class="caption">
+        Sometimes seen uprooted with orange foot. Pasir Ris, Dec 08
+        </div>
+    </div>
+    
+
+</div>
+
+<hr />
+
+<p><em>*Species are difficult to positively identify without close examination.</em>
+<em>On this website, they are grouped by external features for convenience of display.</em></p>
+
+<hr />
+
+<p><strong>Spiky sea pens on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470%40N00&amp;sort=date-taken-desc&amp;view_all=1&amp;text=Pteroeides">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Pteroeides/map?&amp;fLat=1.2626&amp;fLon=103.8661&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/100615tustch4m3.jpg" alt="" />
+        <div class="caption">
+        Tuas, Jun 10 Photo shared by Toh Chay Hoon on her blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/260103prpyls8.jpg" alt="" />
+        <div class="caption">
+        Pasir Ris Park, Jan 26 Photo shared by Yan Le Su on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/151127cnylks.JPG" alt="" />
+        <div class="caption">
+        Coney Island, Nov 15 Photo shared by Loh Kok Sheng on flickr .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/091203ubnjk6m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Ubin, Dec 09 Photo shared by James Koh on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/250627bbal2.jpg" alt="" />
+        <div class="caption">
+        Beting Bronok, Jun 25 Photo shared by Adriane Lee on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/240723chgeky3.jpg" alt="" />
+        <div class="caption">
+        Changi East (Lost Coast), Jul 24 Photo shared by Kelvin Yong on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/201118nsrcssrk1.jpg" alt="" />
+        <div class="caption">
+        East Coast, NSRCC, Nov 20 Photo shared by Richard Kuah on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/090207tmlks08m3.jpg" alt="" />
+        <div class="caption">
+        Tanah Merah, Feb 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/090207tmlks09m3.jpg" alt="" />
+        <div class="caption">
+        Shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/090821tmjk1m3.jpg" alt="" />
+        <div class="caption">
+        Tanah Merah, Aug 09 Photo shared by James Koh on his blog .
+        </div>
+    </div>
+    
+
+</div>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/160509srpis2.jpg" alt="" />
+        <div class="caption">
+        Sentosa Serapong, Jun 16 Photo shared by Ian Siah on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/120818lazlks.JPG" alt="" />
+        <div class="caption">
+        Seringat-Kias, Aug 12 Photo shared by Loh Kok Sheng on flickr .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>eferences</strong></p>
+
+<ul>
+  <li>Erhardt, Harry and Daniel Knop. 2005.
+<em>Corals: Indo-Pacific Field Guide</em>
+IKAN-Unterwasserachiv, Frankfurt. 305 pp.</li>
+</ul>
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li>
+    <dl>
+      <dt><a href="http://species-identification.org/species.php?species_group=corals&amp;selected=beschrijving&amp;menuentry=groepen&amp;record=Pteroeides"><em>Pteroeides</em></a></dt>
+      <dt>on</dt>
+      <dt><a href="http://species-identification.org/species.php?species_group=corals&amp;menuentry=inleiding">Reef Corals of the Indo-Malayan Seas</a></dt>
+      <dt>on the</dt>
+      <dt><a href="http://species-identification.org/index.php">Marine Species Identification Portal</a></dt>
+      <dd>Technical fact sheet and photos.</dd>
+    </dl>
+  </li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

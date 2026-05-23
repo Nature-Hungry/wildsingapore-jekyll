@@ -1,0 +1,596 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Noble volute | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="noble, volute, cymbiola, nobilis, volutidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/050623cjd4111m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Mollusca">Mollusca</a>
+                    > 
+                    <a href="/Mollusca/Gastropoda">Gastropoda</a>
+                    > 
+                    <a href="/Mollusca/Gastropoda/Neogastropoda">Neogastropoda</a>
+                    >
+                    <a href="/Mollusca/Gastropoda/Neogastropoda/"></a>
+                    >
+                    <a href="/Mollusca/Gastropoda/Neogastropoda//Volutidae">Volutidae</a>
+                </p>
+                <h1>Noble volute</h1>
+                
+                    <p class="scientific-name">Cymbiola nobilis</p>
+                
+
+                <p><em>Updated Sep 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about it ... It is among the large snails you might see on our shores. It is carnivorous. Its prey include smaller snails living beneath the sand! Many volutes are threatened by over-collection as food and for their shells.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        It is among the large snails you might see on our shores. It is carnivorous. Its prey include smaller snails living beneath the sand! Many volutes are threatened by over-collection as food and for their shells.
+        </div>
+    </div>
+    
+
+</div>
+
+<h2 id="where-seen">Where seen?</h2>
+<p>This large, beautifully marked snail is sometimes encountered on sandy areas near seagrasses and coral rubble on some of our shores. It is more commonly seen moving above the surface at night, and is usually buried during the day.
+According to the Singapore Red Data Book, this beautiful snail is restricted to our part of the world, in particular, Singapore and Peninsular Malaysia.
+Empty shells of dead noble volutes are quickly taken over by large hermit crabs.</p>
+
+<h2 id="features">Features</h2>
+
+<p>12-20cm. Shell thick heavy, conical. Shell orange, yellow or beige with red or brown zig-zag patterns. Sometimes all black. A wide variety of patterns can be seen, although in some, the pattern may be obscured by encrusting lifeforms. No operculum. Body large fleshy, black with bright orange or yellow spots. It has a long siphon that sticks out above the sand when the animal is buried.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/050623cjd4111m3.jpg" alt="" />
+        <div class="caption">
+        Chek Jawa, Jun 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/050623cjd4113m3.jpg" alt="" />
+        <div class="caption">
+        Underside, no operculum.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/130624chg7d7899.jpg" alt="" />
+        <div class="caption">
+        Burrowing with siphon sticking out. Changi, Jun 13
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>What does it eat?</strong>
+This predator eats molluscs seeking out buried prey with its siphon and encloses the prey in its huge foot then waits. When the exhausted bivalve opens up to breathe (which can take several days!), the snail sticks its proboscis in and rasps the flesh of its prey with its radula. While it may hunt from the surface, it often burrows to eat their prey under the sand.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/bivalvia/mactridae/bigbrown/120510chgd2887m6l.jpg" alt="" />
+        <div class="caption">
+        Noble volute hunting down a Big brown mactra clam that eventually escaped. Pulau Semakau, Mar 08
+        </div>
+    </div>
+    
+
+</div>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/251205cjccn1.jpg" alt="" />
+        <div class="caption">
+        From video of whelk leaping to escape. Chek Jawa, Dec 25 Photo shared by Che Cheng Neo on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/130624chg7d7981.jpg" alt="" />
+        <div class="caption">
+        Attempting to eat a Fan clam ? Changi, Jun 13
+        </div>
+    </div>
+    
+
+</div>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="https://live.staticflickr.com/7772/26855158272_842d69af7d_z.jpg" alt="" />
+        <div class="caption">
+        A clam using its foot to leap away from a Noble volute.
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Baby nobles:</strong>
+Mama noble volutes lay large egg capsules. Each capsule about 10cm long, oval with angular bumps, translucent white to beige or yellowish. The capsules are usually stacked up to form a cylindrical, generally oval shape and the entire assembly attached to a hard, embedded object such as coral rubble. Each capsule contains many eggs, but only one or a few develop, the survivor having eaten the others. The eggs hatch and undergo metamorphosis within the egg capsules, emerging as tiny crawling snails. Because there
+is no free-swimming larval stage the snail has a restricted range and local populations can be wiped out by over-collection.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/130820skdd1424.jpg" alt="" />
+        <div class="caption">
+        A much smaller one riding on the back of a bigger one. Prelude to mating? Pulau Sekudu, Aug 13
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/070325smkd9603m3.jpg" alt="" />
+        <div class="caption">
+        Laying eggs Pulau Semakau, Mar 07
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/080310smktch01m3.jpg" alt="" />
+        <div class="caption">
+        Baby volute! Pulau Semakau, Mar 08 Photo shared by Toh Chay Hoon on her flickr .
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Human uses:</strong>
+Called ‘kilah’ in Malay, the Noble volute is edible. It is also ‘often collected for its attractive shell.</p>
+
+<p><strong>Status and threats:</strong>
+The Noble volute is listed as ‘Vulnerable’ on the Red List of threatened animals of Singapore due to habitat loss. It was previously abundant in Singapore but is now considered vulnerable due to habitat degradation and overcollection for food and for its attractive shell.
+Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Over-collection can also have an impact on local populations.</p>
+
+<hr />
+
+<p><strong>Noble volutes on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470%40N00&amp;view_all=1&amp;text=Cymbiola%20nobilis&amp;sort=date-taken-desc">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Cymbiola%2520nobilis/map?&amp;fLat=1.202&amp;fLon=103.7828&amp;zl=14&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/160511chg7mn2.jpg" alt="" />
+        <div class="caption">
+        Changi, May 16 Photo shared by Marcus Ng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/140502chg7tch1m3.jpg" alt="" />
+        <div class="caption">
+        Eating a clam Changi, May 14 Photo shared by Toh Chay Hoon on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/230220cjccn1.jpg" alt="" />
+        <div class="caption">
+        Eating a Gong-gong snail . Chek Jawa, Feb 23 Photo shared by Che Cheng Neo on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/230607chgeccn1.jpg" alt="" />
+        <div class="caption">
+        Eating a clam. Changi East, Jun 23 Photo shared by Che Cheng Neo on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/220519ecpbrk3.jpg" alt="" />
+        <div class="caption">
+        East Coast Park-Marina East, May 22 Photo shared by Richard Kuah on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/251207hntml1.jpg" alt="" />
+        <div class="caption">
+        Pulau Hantu, Dec 25 Photo shared by Mathias Luk on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/201215smkelks3.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau (East), Dec 20 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/240708smkett2.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau (East), Jul 24 Photo shared by Tommy Tan on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/151225tsmkjll1m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Semakau, Dec 15 Photo shared by Jianlin Liu on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/100502trylks12m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Raya, May 10 Photo shared by Loh Kok Sheng on his flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/100518bbbnml3m3.jpg" alt="" />
+        <div class="caption">
+        Beting Bemban Besar, May 10 Photo shared by Neo Mei Lin on her blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/251008bbbky7.jpg" alt="" />
+        <div class="caption">
+        Eating a clam. Beting Bemban Besar, Oct 25 Photo shared by Kelvin Yong on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/240412tbtl4.jpg" alt="" />
+        <div class="caption">
+        Terumbu Bemban, Apr 24 Photo shared by Tammy Lim on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/110517tptlks14m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Pempang Tengah, May 11 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/160312tptmn3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Pempang Tengah, Mar 16 Photo shared by Marcus Ng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/091204pawjk1m3a.jpg" alt="" />
+        <div class="caption">
+        Pulau Pawai, Dec 09 Photo shared by James Koh on his flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/220201brkvc3.jpg" alt="" />
+        <div class="caption">
+        Pulau Berkas, Feb 22 Photo shared by Vincent Choo on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&amp;l=ur2&amp;o=1" alt="" />
+        <div class="caption">
+        Links Noble volute ( Cymbiola nobilis ) on the NParks Flora and Fauna website. References Tan Siong Kiat and Henrietta P. M. Woo, 2010 Preliminary Checklist of The Molluscs of Singapore (pdf), Lee Kong Chian Natural History Museum, National University of Singapore. Tan, K. S. &amp; L. M. Chou, 2000. A Guide to the Common Seashells of Singapore . Singapore Science Centre. 160 pp. Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996. Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates Sea Challengers. 314pp. Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red Data Book: Threatened plants and animals of Singapore . Nature Society (Singapore). 285 pp.
+        </div>
+    </div>
+    
+
+</div>
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=205">Noble
+volute (<em>Cymbiola nobilis</em>)</a> on the NParks Flora and Fauna
+website.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Tan Siong
+Kiat and Henrietta P. M. Woo, 2010 <em>Preliminary
+Checklist of The Molluscs of Singapore</em> (pdf), Lee Kong Chian Natural History Museum, National University of Singapore.</li>
+  <li>Tan, K. S.
+&amp; L. M. Chou, 2000. <em>A
+Guide to the Common Seashells of Singapore</em>. Singapore
+Science Centre. 160 pp.</li>
+  <li>Gosliner,
+Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

@@ -1,0 +1,501 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Purple-spotted  flatworm | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="flat, worm, flatworm, pseudoceros, laingensis, polycladida, polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/laingensis/050623cjg8476m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Platyhelminthes">Platyhelminthes</a>
+                    > 
+                    <a href="/Platyhelminthes/"></a>
+                    > 
+                    <a href="/Platyhelminthes//Polycladida">Polycladida</a>
+                    >
+                    <a href="/Platyhelminthes//Polycladida/Cotylea">Cotylea</a>
+                    >
+                    <a href="/Platyhelminthes//Polycladida/Cotylea/Pseudocerotidae">Pseudocerotidae</a>
+                </p>
+                <h1>Purple-spotted  flatworm</h1>
+                
+                    <p class="scientific-name">Pseudoceros laingensis</p>
+                
+
+                <p><em>Updated Feb 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This delightfully spotted flatworm is sometimes seen on our Northern shores, among coral rubble. It seems to be seasonally common, with many of worms seen on one visit, and none later on. It is more active at night. The flatworm is named after Laing Island in Papua New Guinea.</p>
+
+<h2 id="features">Features</h2>
+
+<p>4-6cm long. Body cream with scattered purple spots. Some have very few spots on the body, in others, there are portions with spots and portions without. On the body margin are purple spots close to one another, margin usually not very ruffled. Underside uniformly cream. It has a pair of small pseudotentacles made up of simple folded edge of the body
+.</p>
+
+<p>Those with a yellow body have just eaten, and the yellow colour will fade to cream once the food is digested. Some may be seen with a paler or white stripe along the centre of the body, this is the intestine that shows through the body and is not used to identify the worm.</p>
+
+<p><strong>Good mother:</strong>
+One study has found this worm to display long-term parental care.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/laingensis/050623cjg8476m3.jpg" alt="" />
+        <div class="caption">
+        Chek Jawa, Jun 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/laingensis/050623cjg8476m3a.jpg" alt="" />
+        <div class="caption">
+        Pseudotentacles simple fold of the body edge.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/laingensis/090525chgd2414m3.jpg" alt="" />
+        <div class="caption">
+        Yellowish body=just ate! Will turn to cream after food is digested. Changi, May 09
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/laingensis/170625bbmn2.jpg" alt="" />
+        <div class="caption">
+        Beting Bronok, Jun 17 Photo shared by Marcus Ng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/laingensis/170625bbmn1.jpg" alt="" />
+        <div class="caption">
+        Underside Beting Bronok, Jun 17 Photo shared by Marcus Ng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="https://live.staticflickr.com/1784/42129579754_5df4a0baa8_z.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Purple-spotted flatworms on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470%40N00&amp;sort=date-posted-desc&amp;view_all=1&amp;text=Pseudoceros%20laingensis">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Pseudoceros%2520laingensis/map?&amp;fLat=1.2619&amp;fLon=103.8653&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/laingensis/131213chglks1m3.JPG" alt="" />
+        <div class="caption">
+        Changi, Dec 13 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/laingensis/170528chg7lks2.jpg" alt="" />
+        <div class="caption">
+        Changi, May 17 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/laingensis/180813lygjt1.jpg" alt="" />
+        <div class="caption">
+        Changi, Aug 18 Photo shared by Jonathan Tan on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/laingensis/101009cjnml1m3.jpg" alt="" />
+        <div class="caption">
+        Chek Jawa, Oct 10 Photo shared by Neo Mei Lin on her blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/laingensis/250529cjvc1.jpg" alt="" />
+        <div class="caption">
+        Chek Jawa, May 25 Photo shared by Vincent Choo on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/laingensis/110518bbtch1m6l.jpg" alt="" />
+        <div class="caption">
+        Beting Bronok, May 11 Photo shared by Toh Chay Hoon on her blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/laingensis/250627bbal1.jpg" alt="" />
+        <div class="caption">
+        Betint Bronok, Jun 25 Photo shared by Adriane Lee on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/laingensis/150706skdlks1m3.JPG" alt="" />
+        <div class="caption">
+        Pulau Sekudu, Jul 15 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/laingensis/170723ubnay2.jpg" alt="" />
+        <div class="caption">
+        Pulau Ubin, Jul 17 Photo shared by Abel Yeo on facebook ..
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/laingensis/180618srpay3.jpg" alt="" />
+        <div class="caption">
+        Sentosa Serapong, Jun 18 Photo shared by Abel Yeo on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/laingensis/240527srpky2.jpg" alt="" />
+        <div class="caption">
+        Sentosa Serapong, May 24 Photo shared by Kelvin Yong on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/laingensis/080510smktsj01m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau, May 08 Photo shared by Tan Sijie on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/laingensis/110731trylks7m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Raya, Jul 11 Photo shared by Lok Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/laingensis/150606tryrl2m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Raya, Jun 15 Photo shared by Russel Low on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<hr />
+<p><strong>Acknowledgement</strong></p>
+
+<p>Grateful thanks to Rene Ong for sharing details and identifying the flatworms on this page.</p>
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://polycladida.lifedesks.org/pages/3101"><em>Pseudoceros laingensis</em></a>
+on Encyclopedia of Life, LifeDesks, Marine Flatworms - Polycladida: Technical fact sheet.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li><em><a href="https://doi.org/10.1111/ivb.12293">Mating behavior, spawning, parental care, and embryonic development of some marine pseudocerotid flatworms (Platyhelminthes: Rhabditophora: Polycladida) in Singapore</a></em>
+. Samantha Jia Wen Tong and Rene S.L. Ong. 27 June 2020. Invertebrate Biology.</li>
+  <li>Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018.
+<em>A preliminary checklist and photographic catalogue of polyclad flatworms recorded from Singapore.</em>
+Nature in Singapore 2018 11: 77–125.</li>
+  <li>D. M. Bolaños, B. Q. Gan &amp; R. S. L. Ong. 29 Jun 2016.
+<em>First records of pseudocerotid flatworms (Platyhelminthes: Polycladida: Cotylea) from Singapore: A taxonomic report with remarks on colour variation</em>
+.(pdf) The Raffles Bulletin of Zoology Supplement No. 34: 130-169 Pp. 130-169.</li>
+  <li>Newman, L.J. &amp; Cannon, L.R.G.
+<em>Pseudoceros (Platyhelminthes: Polycladida) from the Indo-Pacific with twelve new species from Australia and Papua New Guinea</em>
+. The Raffles Bulletin of Zoology 1998 Pp. 293-323.</li>
+  <li>Newman, Leslie and Lester Cannon. 2003.
+<em>Marine Flatworms: The World of Polyclads</em>
+. CSIRO Publishing. 97pp.</li>
+  <li>Humann, Paul and Ned Deloach. 2010.
+<em>Reef Creature Identification: Tropical Pacific</em>
+New World Publications. 497pp.</li>
+  <li>Kuiter, Rudie H and Helmut Debelius. 2009.
+<em>World Atlas of Marine Fauna</em>
+. IKAN-Unterwasserachiv. 723pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

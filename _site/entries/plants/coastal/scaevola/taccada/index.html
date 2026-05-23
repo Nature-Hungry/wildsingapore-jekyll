@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Merambong  | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="merambong, scaevola, taccada, goodeniaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/plants/coastal/scaevola/taccada/090118smkd5793m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Tracheophyta">Tracheophyta</a>
+                    > 
+                    <a href="/Tracheophyta/Magnoliopsida">Magnoliopsida</a>
+                    > 
+                    <a href="/Tracheophyta/Magnoliopsida/Asterales">Asterales</a>
+                    >
+                    <a href="/Tracheophyta/Magnoliopsida/Asterales/"></a>
+                    >
+                    <a href="/Tracheophyta/Magnoliopsida/Asterales//Goodeniaceae">Goodeniaceae</a>
+                </p>
+                <h1>Merambong </h1>
+                
+                    <p class="scientific-name">Scaevola taccada</p>
+                
+
+                <p><em>Updated Jan 13</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This bush with fleshy green leaves and a ‘split’ flower is often seen on our rocky shores and sandy beaches where it is tolerant of salty spray although its roots doesn’t actually tolerate regular flooding by seawater. Elsewhere, it is found on beaches and sand dunes, and in mangroves only in sandy, well-drained areas. It is considered among the most common seashore shrubs in our part of the world. It has also been introduced to the New World. Previously known as
+<em>S. frutescens</em>
+and
+<em>S. sericea</em>
+. It is also called ‘
+<em>Ambong-ambong</em>
+‘.</p>
+
+<h2 id="features">Features</h2>
+
+<p>A shrub that can grow to a small tree 3-10m tall. Leaves thick and succulent (8-25cm long), arranged alternately in a spiral. The plant can form extensive colonies by underground branching of its stems.</p>
+
+<p>Flowers (2-2.5cm) emerge in clusters. The flower is distinctive ‘split-into-half’ with the style curving over the white petals, but sometimes with violet stripes. According to Giersen, large bees pollinate the flowers, although self-pollination also seems to occur.</p>
+
+<p>Fruit globular small (1-1.5cm) fleshy, green ripening white. Each fruit contains 1-2 corky seeds. The fruits float in the sea and may be dispersed by water, as well as by birds.</p>
+
+<p><strong>Human uses:</strong>
+According to Corners, the leaves are bitter and “scarcely edible” but the juice of the fruits are soothing and refreshing for inflamed eyes. The large pith of the young twigs are sometimes used by Malays to cut into fancy flowers and other objects. According to Burkill, medicinal uses including the bitter leaves in indigestion, pith for diarrhoea, poultice of leaves for headaches and on swollen legs, juice of berries for sore eyes. According to Wee, in Indonesia the roots are used as an antidote to eating poisonous fish and crabs. According to Giersen, the wood is resistant to sea water but found in small quantities so it is used for making nails for canoes.</p>
+
+<p><img src="http://www.wildsingapore.com/wildfacts/plants/coastal/scaevola/taccada/090118smkd5793m3.jpg" alt="" /></p>
+
+<p><em>Pulau Semakau, Jan 09</em></p>
+
+<p><img src="http://www.wildsingapore.com/wildfacts/plants/coastal/scaevola/taccada/090405smkd9069m3.jpg" alt="" /></p>
+
+<p><em>Pulau Semakau, Mar 09</em></p>
+
+<p><img src="http://www.wildsingapore.com/wildfacts/plants/coastal/scaevola/taccada/090405smkd9069m3a.jpg" alt="" /></p>
+
+<p>Flower is ‘split’.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/coastal/scaevola/taccada/090118smkd5713m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau, Jan 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/coastal/scaevola/taccada/090118smkd5714m3a.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/coastal/scaevola/taccada/090118smkd5714m3c.jpg" alt="" />
+        <div class="caption">
+        Fruit ripens to white.
+        </div>
+    </div>
+    
+
+</div>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/coastal/scaevola/taccada/110719sntd7397m3c.jpg" alt="" />
+        <div class="caption">
+        Sentosa, Jul 11
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/coastal/scaevola/taccada/090405smkd9031m3.jpg" alt="" />
+        <div class="caption">
+        Sometimes with violet markings.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/coastal/scaevola/taccada/110719sntd7397m3b.jpg" alt="" />
+        <div class="caption">
+        Sentosa, Jul 11
+        </div>
+    </div>
+    
+
+</div>
+
+<hr />
+
+<p><strong>Merambong on Singapore shores</strong></p>
+
+<hr />
+
+<p>Photos for free download from
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&amp;l=ur2&amp;o=1" alt="" />
+        <div class="caption">
+        Links Scaevola taccada on Total Vascular Flora of Singapore Online: photos and fact sheet. Scaevola taccada on the NParks Flora and Fauna website: photos and fact sheet. Ambong-Ambong ( Scaevola taccada ) Tan, Leo W. H. &amp; Ng, Peter K. L., 1988. A Guide to Seashore Life . The Singapore Science Centre, Singapore. 160 pp. Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006. Mangrove Guidebook for Southeast Asia (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok. References Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University Press. 222 pp. Corners, E. J. H., 1997. Wayside Trees of Malaya: in two volumes . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236. Tomlinson, P. B., 1986. The Botany of Mangroves Cambridge University Press. USA. 419 pp. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444. Wee Yeow Chin. 1992. A Guide to Medicinal Plants . The Singapore Science Centre. 160pp.
+        </div>
+    </div>
+    
+
+</div>
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://floraofsingapore.wordpress.com/2010/10/03/scaevola-taccada/"><em>Scaevola
+taccada</em></a> on Total Vascular Flora of Singapore Online: photos
+and fact sheet.</li>
+  <li><a href="https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2431"><em>Scaevola
+taccada</em></a> on the NParks Flora and Fauna website: photos
+and fact sheet.</li>
+  <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/110">Ambong-Ambong
+(<em>Scaevola taccada</em>)</a> Tan, Leo W. H. &amp; Ng, Peter K.
+L., 1988. <em><a href="http://mangrove.nus.edu.sg/pub/seashore/">A
+Guide to Seashore Life</a></em>. The Singapore Science Centre,
+Singapore. 160 pp.</li>
+  <li>Giesen,
+Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+<a href="http://www.fao.org/docrep/010/ag132e/ag132e00"><em>Mangrove
+Guidebook for Southeast Asia</em></a> (PDF online downloadable).
+RAP publication 2006/07 Food and Agriculture Organization of the
+United Nations Regional Office for Asia and the Pacific Bangkok.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Hsuan Keng,
+S.C. Chin and H. T. W. Tan. 1990, *[The</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

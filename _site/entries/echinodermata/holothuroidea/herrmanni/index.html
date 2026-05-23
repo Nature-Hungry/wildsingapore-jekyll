@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Herrmann's sea cucumber | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="curryfish, cucumber, seacucumber, stichopus, herrmanni, holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/130824smkd2647m6l.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Echinodermata">Echinodermata</a>
+                    > 
+                    <a href="/Echinodermata/Holothuroidea">Holothuroidea</a>
+                    > 
+                    <a href="/Echinodermata/Holothuroidea/Synallactida">Synallactida</a>
+                    >
+                    <a href="/Echinodermata/Holothuroidea/Synallactida/"></a>
+                    >
+                    <a href="/Echinodermata/Holothuroidea/Synallactida//Stichopodidae">Stichopodidae</a>
+                </p>
+                <h1>Herrmann's sea cucumber</h1>
+                
+                    <p class="scientific-name">Stichopus herrmanni</p>
+                
+
+                <p><em>Updated Apr 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This large sea cucumber is sometimes seen among coral rubble on some Southern shores. It is also called the Curryfish as it is among the sea cucumbers that are edible and harvested for the restaurant trade. It was formerly known as
+<em>S. variegatus</em>
+. Elsewhere it prefers seagrass beds, rubble and sandy-muddy bottoms.</p>
+
+<h2 id="features">Features</h2>
+
+<p>20-30cm, up to 50cm long. Body hard heavy, squarish in cross-section blunt at the ends, with a wrinkled skin and distinct upper and underside. Small wart-like bumps in 2-4 rows along the sides of the body length. Colour uniform black, dark olive, brown to pale beige with dark brown to black spots scattered over the entire body. Elsewhere, also light mustard-yellow to orangey-brown or brown and olive green.
+Distinct flat underside, paler that upperside, with many tube feet appearing in three rows along the body length. Mouth facing downwards with 8-16 stout green feeding tentacles. The body wall disintegrates if the animal is held out of water for a long time. So please don’t handle it.</p>
+
+<p><strong>Baby cucumber home:</strong>
+Juveniles found commonly in shallow reef flat zones and later migrate to other zones. It reaches sexual maturity at 30cm and reproduces annually.</p>
+
+<p><strong>Cucumber home:</strong>
+This sea cucumber is host to the pearlfish
+<em>Carapus mourlani</em>
+and
+<em>Carapus homei</em>
+.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/130824smkd2647m6l.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau, Aug 13
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/130824smkd2647m3.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+
+</div>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/130824smkd2651m3.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/130824smkd2651m6l.jpg" alt="" />
+        <div class="caption">
+        Flat underside with three rows of tube feet.
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Human uses:</strong>
+This is one of the sea cucumbers whose body fluids are harvested in Malaysia for ‘Air Gamat’, a local health tonic that believed to aid healing and other ailments. According to Choo, in Pulau Langkawi, the processing industry has depleted the resources of
+<em>S. hermanni</em>
+, which is now an endangered if not an extinct species in the vicinity of the Langkawi Islands.</p>
+
+<dl>
+  <dt>According to the</dt>
+  <dt><a href="http://www.iucnredlist.org/details/full/180238/0">IUCN Red List</a></dt>
+  <dd>“Although it is not one of the most important species (low value) for fishery purposes, it can may become more popular after the depletion of other species of higher commercial importance and value. Populations are estimated to be depleted and have declined by more than 60-90% in at least 50% of its range, as there is some refuge in deeper waters, and is considered over exploited in at least 40% of it range although exact declines are difficult to estimate.”</dd>
+</dl>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/080803smkd9014m6l.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau, Aug 08
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/080803smkd9015m3.jpg" alt="" />
+        <div class="caption">
+        Tube feet on the underside.
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Herrmann’s sea cucumbers on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470%40N00&amp;sort=date-posted-desc&amp;view_all=1&amp;text=Stichopus%20herrmanni">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Stichopus%2520herrmanni/map?&amp;fLat=1.2622&amp;fLon=103.8661&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/081214smkelm3.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau, Dec 08 Photo by Yvonne Yeoh courtesy of Eric Leong.
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/170501tsmktch2.jpg" alt="" />
+        <div class="caption">
+        Terumbu Semakau, May 17 Photo shared by Toh Chay Hoon on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/170501tsmktch3.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li>
+    <dl>
+      <dt>[<em>Stichopus herrmanni</em></dt>
+      <dt>(Curryfish)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86834)</dt>
+      <dt>on</dt>
+      <dt><a href="http://www.sealifebase.org/search.php">SeaLifeBase</a></dt>
+      <dd>Technical fact sheet.</dd>
+    </dl>
+  </li>
+  <li><a href="http://www.iucnredlist.org/details/180238/0"><em>Stichopus herrmanni</em>
+(Curryfish)</a>
+on the IUCN Red List: Techinal fact sheet.</li>
+  <li><a href="https://singapore.biodiversity.online/taxo4254/mainSpace/Stichopus%20hermanni.html"><em>Stichopus herrmanni</em></a>
+(Asphidochirotida: Stichopodidae) Hermann’s Sea Cucumber by Carmon Kee, 2012 on taxo4254.</li>
+  <li><em>Stichopus herrmanni</em>
+on
+<a href="http://www.fao.org/docrep/017/i1918e/i1918e00.md">Commercially important sea cucumbers of the world</a>
+, by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.</li>
+  <li><a href="http://www.fao.org/docrep/007/y5501e/y5501e0b.md">Fisheries, trade and utilization of sea cucumbers in Malaysia</a>
+by Choo Poh-Sze WorldFish Center, Penang, Malaysia on the FAO website.</li>
+  <li><a href="http://wildshores.blogspot.com/2009/03/malaysia-lists-gamat-sea-cucumbers-as.html">Malaysia lists ‘gamat’ sea cucumbers as endangered</a>
+on the wild shores of singapore blog with an article about the trade in gamat on Pulau Langkawi.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Lane, David J.W. and Didier Vandenspiegel. 2003
+<em>. A Guide to Sea Stars and Other Echinoderms of Singapore</em>
+. Singapore Science Centre. 187pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

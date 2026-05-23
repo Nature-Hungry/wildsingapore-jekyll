@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Api-api putih  | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="api, putih, puteh, avicennia, alba, acanthaceae, avicenniaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/090611prpd3840m6l.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Tracheophyta">Tracheophyta</a>
+                    > 
+                    <a href="/Tracheophyta/Magnoliopsida">Magnoliopsida</a>
+                    > 
+                    <a href="/Tracheophyta/Magnoliopsida/Lamiales">Lamiales</a>
+                    >
+                    <a href="/Tracheophyta/Magnoliopsida/Lamiales/"></a>
+                    >
+                    <a href="/Tracheophyta/Magnoliopsida/Lamiales//Acanthaceae">Acanthaceae</a>
+                </p>
+                <h1>Api-api putih </h1>
+                
+                    <p class="scientific-name">Avicennia alba</p>
+                
+
+                <p><em>Updated Oct 2016</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This tree with pencil roots is commonly encountered in many of our mangroves. It can sometimes even be spotted from afar by the white undersides of their narrow leaves, flipping up in the wind. It is usually found on newly formed mudbanks on the seaward side or along and near rivers. It is considered a pioneering species of sheltered shores.</p>
+
+<h2 id="features">Features</h2>
+
+<p>Shrub or tree up to 10-20m tall. Bark somewhat brown, may be smooth or slightly rough but not fissured. Pneumatophores pencil-like - thin cylindrical with rounded tip, not very tall (about 20cm). May have stilt roots emerging from the base of the tree trunk.</p>
+
+<p>Leaves generally long and pointed (8-12cm long), shiny dark green above with white underside. ‘Alba’ and ‘
+<em>putih</em>
+‘ means ‘white’ in Latin and Malay respectively.
+<em>A. alba</em>
+can have different, ‘non-standard’ leaf and fruit shapes if the tree is growing in the shade or affected by low nutrients or other difficult conditions.</p>
+
+<p>Flowers small (about 0.5cm), yellow in clusters that are less crowded together.</p>
+
+<p>Fruit generally tear-drop shaped (1-4cm) with long tapering pointed tip, smooth velvety.</p>
+
+<p>Seedlings form as soon as the fruit drops off the parent plant. In
+<em>A. alba</em>
+, the seedlings have hooked hairs so that the seedlings are often seen in entangled clumps.</p>
+
+<p>*<img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/090611prpd3840m6l.jpg" alt="" /></p>
+
+<p>Pasir Ris, May 09*</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/090114labd5287m3.jpg" alt="" />
+        <div class="caption">
+        Leaves very white underneath. Berlayar Creek, Jan 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/020511sbwrcpd9062m3.jpg" alt="" />
+        <div class="caption">
+        Small flowers, spaced apart. Sungei Buloh Wetland Reserve, May 02
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/090307blyd7439m3.jpg" alt="" />
+        <div class="caption">
+        Fruits with long pointed tips. Berlayar Creek, Mar 09
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/090517ubnd1913m3b.jpg" alt="" />
+        <div class="caption">
+        Pulau Ubin, May 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/020511sbwrcpd9062m3a.jpg" alt="" />
+        <div class="caption">
+        Sungei Buloh Wetland Reserve, May 02
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/011107sbwrcpd583m3a.jpg" alt="" />
+        <div class="caption">
+        Sungei Buloh, Nov 01
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/090529prpd2908m3a.jpg" alt="" />
+        <div class="caption">
+        Young pneumatophore.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/090611prpd3845m3.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/090611prpd3844m3.jpg" alt="" />
+        <div class="caption">
+        Pasir Ris, May 09
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/110207krjd6049m6l.jpg" alt="" />
+        <div class="caption">
+        Fallen over tree which recovered. Kranji Nature Trail, Feb 11
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/090322krjd8409m3.jpg" alt="" />
+        <div class="caption">
+        May have stilt roots as well as pencil-like pneumatophores. Kranji Canal, Mar 09
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Api-api putih on Singapore shores</strong></p>
+
+<hr />
+
+<p>Photos of Api-api putih for free download from
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<hr />
+
+<p>Distribution in Singapore on
+<a href="https://www.flickr.com/photos/wildsingapore/tags/Avicennia%2520alba/map?&amp;fLat=1.2626&amp;fLon=103.8657&amp;zl=11&amp;order_by=recent">this wildsingapore flickr map</a></p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://mangrove.nus.edu.sg/guidebooks/text/1049.md">Api-api putih (
+<em>Avicennia alba</em>
+)</a>
+Ng, Peter K. L. &amp; N. Sivasothi, 1999.
+<em><a href="http://mangrove.nus.edu.sg/guidebooks/">A Guide to the Mangroves of Singapore</a>
+I (Plant Diversity)</em>
+. Singapore Science Centre. 168 pp.</li>
+  <li><a href="http://floraofsingapore.wordpress.com/2010/04/08/avicennia-alba/"><em>Avicennia alba</em></a>
+on Total Vascular Flora of Singapore Online: photos and fact sheet.</li>
+  <li><a href="https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3263"><em>Avicennia alba</em></a>
+on NParks Flora and Fauna website: photos and fact sheet.</li>
+  <li><a href="https://singapore.biodiversity.online/taxo4254/mainSpace/Avicennia%20alba.html"><em>Avicennia alba</em></a>
+(Lamiales: Avicenniaceae) Api-Api Putih by Tay Ying Ling Jessica, 2014, on taxo4254.</li>
+  <li>Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+<a href="http://www.fao.org/docrep/010/ag132e/ag132e00.md"><em>Mangrove Guidebook for Southeast Asia</em></a>
+(PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
+<em>The Concise Flora of Singapore: Gymnosperms and Dicotyledons</em>
+. Singapore University Press. 222 pp.</li>
+  <li>Tomlinson, P. B., 1986.
+<em>The Botany of Mangroves</em>
+Cambridge University Press. USA. 419 pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

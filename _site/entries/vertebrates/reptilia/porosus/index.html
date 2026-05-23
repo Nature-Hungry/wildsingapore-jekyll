@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Estuarine crocodile  | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="estuarine, crocodile, crocodylus, porosus, crocodylidae, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/porosus/100221sbwrd9556m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Chordata">Chordata</a>
+                    > 
+                    <a href="/Chordata/Reptilia">Reptilia</a>
+                    > 
+                    <a href="/Chordata/Reptilia/Crocodylia">Crocodylia</a>
+                    >
+                    <a href="/Chordata/Reptilia/Crocodylia/"></a>
+                    >
+                    <a href="/Chordata/Reptilia/Crocodylia//Crocodylidae">Crocodylidae</a>
+                </p>
+                <h1>Estuarine crocodile </h1>
+                
+                    <p class="scientific-name">Crocodylus porosus</p>
+                
+
+                <p><em>Updated Apr 2018</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about them ... Only healthy mangroves can support these magnificent top predators! When a crocodile smiles (mouth wide open) it's just cooling down, not about to bite. Crocodiles don't eat people.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        Only healthy mangroves can support these magnificent top predators! When a crocodile smiles (mouth wide open) it's just cooling down, not about to bite. Crocodiles don't eat people.
+        </div>
+    </div>
+    
+
+</div>
+<h2 id="where-seen">Where seen?</h2>
+<p>This awesome reptile is often seen at Sungei Buloh Wetland Reserve. According to Davison, it has been recorded in our estuaries and reservoirs including the Singapore River, Kallang River, Sungei Seletar and Kranji Reservoir, and Pulau Tekong. Also called the Saltwater crocodile, it is the most widely distributed of the crocodiles and found in tropical Asia and the Pacific. It lives in b rackish and freshwater habitats.</p>
+
+<h2 id="features">Features</h2>
+
+<p>Up to 8m long. A large triangular head with broad and long snout and bulbous eyes at the top of the head. There is a pair of ridges along the centre of the snout. It uses its long muscular tail to propel itself in the water. Younger crocodiles have oval scales that are pale yellow with black stripes and spots on the body and tail. The adults are much darker, with lighter tan or grey areas.</p>
+
+<p><strong>Sometimes mistaken for</strong>
+the
+<a href="salvator.md">Malayan water monitor lizard</a>
+. The lizard’s snout is short and narrow, and tail is long and slender. A crocodile has a long snout and a much thicker fatter tail.</p>
+
+<p>The lizard often swims by placing its limbs against its body and undulating its long tail from side to side. The crocodile may swim in the same way as the lizard. It may also often sink into the murky water and emerge some distance away. Sometimes, all that sticks out above water are the crocodile’s eyes and the tip of its long snout.</p>
+
+<p>On land, a large monitor lizard can look scary and be mistaken for a crocodile! Once again, observe that the lizard has a short snout and slender tail. And the lizard has a long blue forked tongue which it regularly flicks out now and then. The crocodile doesn’t have such a tongue. A crocodile on the other hand, has a long snout and jaws full of teeth! And a thick fat tail. Its scales are also much bigger.</p>
+
+<p><strong>Why does a crocodile smile?</strong>
+Sometimes, a crocodile might have its mouth wide open. This is how a crocodile tries to cool down on a hot day (much like the way a dog pants). It’s not doing this to show aggression or to get ready to bite.</p>
+
+<p><strong>What does it eat?</strong>
+Juveniles eat insects, frogs, crabs and fishes. Adults eat larger prey including fish, birds and mammals, hunting mainly at night. They may also scavange on carrion. Despite our worst fears, crocodiles don’t eat people. Like any wild animal, crocodiles will not harm humans if they are not disturbed or threatened, and if we keep a respectful distance from them.</p>
+
+<p><strong>Crocodile babies:</strong>
+A mother crocodile specially constructs a nest of vegetation in which about 80 eggs are laid. The warmth of the decomposing vegetation incubates the eggs. The mother fiercely guards the nest.</p>
+
+<p><strong>What to do if we see a crocodile?</strong>
+Admire this magnificent creature, from a distance. Like any wild animal, crocodiles will not harm humans if they are not disturbed or threatened, and if we keep a respectful distance from them.</p>
+
+<p>Here’s NParks’s advice on what you should do to stay safe</p>
+
+<ul>
+  <li>Stay on desinated paths, don’t get into the water.</li>
+  <li>If a crocodile is spotted on the path, stay calm and back away slowly.</li>
+  <li>Do not approach, provoke or feed the crocodile.</li>
+</ul>
+
+<p>*<img src="http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/porosus/100221sbwrd9556m3.jpg" alt="" /></p>
+
+<p>Sungei Buloh Wetland Reserve, Feb 10</p>
+
+<p><img src="http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/porosus/090913sbwrtsy1m3a.jpg" alt="" />*
+<em>Sungei Buloh Wetland Reserve, Sep 09</em></p>
+
+<p>Photo shared by Teo Siyang on
+<a href="http://uforest.blogspot.com/2009/09/crocodile.html">his blog</a>
+.</p>
+
+<p>*<img src="http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/porosus/091010sbwrbc3m6l.jpg" alt="" /></p>
+
+<p>Sungei Buloh Wetland Reserve, Oct 09*
+Photo shared by Brandon Chia on
+<a href="http://www.flickr.com/photos/brandonchia/3997939750/">his flickr</a>
+.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/porosus/091010sbwrbc2m6l.jpg" alt="" />
+        <div class="caption">
+        Sungei Buloh Wetland Reserve, Oct 09 Photo shared by Brandon Chia on his flickr .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Estuarine crocodiles on Singapore shores</strong></p>
+
+<hr />
+
+<p>Photos of
+<a href="https://www.flickr.com/search/?q=Crocodylus+porosus&amp;w=54527470%40N00&amp;s=rec">Estuarine crocodiles</a>
+for free download from
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<hr />
+
+<p>Distribution in Singapore on this
+<a href="https://www.flickr.com/photos/wildsingapore/tags/crocodylus%252C%2520porosus/map?&amp;fLat=1.2959&amp;fLon=103.8764&amp;zl=11&amp;order_by=recent">wildsingapore flickr map</a></p>
+
+<hr />
+
+<p><a href="https://vimeo.com/10980920">crocodile @ sg buloh</a>
+from
+<a href="https://vimeo.com/sgbeachbum">SgBeachBum</a>
+on
+<a href="https://vimeo.com">Vimeo</a>
+.</p>
+
+<hr />
+
+<p><a href="https://vimeo.com/32906553">croc undercover @ SBWR</a>
+from
+<a href="https://vimeo.com/sgbeachbum">SgBeachBum</a>
+on
+<a href="https://vimeo.com">Vimeo</a>
+.</p>
+
+<hr />
+
+<p><a href="https://vimeo.com/32852792">solar-croc @ SBWR</a>
+from
+<a href="https://vimeo.com/sgbeachbum">SgBeachBum</a>
+on
+<a href="https://vimeo.com">Vimeo</a>
+.</p>
+
+<hr />
+
+<p><a href="https://vimeo.com/22850639">crocodylus porosus @ Sg Buloh 23Apr2011</a>
+from
+<a href="https://vimeo.com/sgbeachbum">SgBeachBum</a>
+on
+<a href="https://vimeo.com">Vimeo</a>
+.</p>
+
+<hr />
+
+<p><a href="https://vimeo.com/23637547">croc on the path @ SBWR 08May2011</a>
+from
+<a href="https://vimeo.com/sgbeachbum">SgBeachBum</a>
+on
+<a href="https://vimeo.com">Vimeo</a>
+.</p>
+
+<hr />
+
+<p><a href="https://vimeo.com/25623897">juvenile estuarine croc @ SBWR 26June2011</a>
+from
+<a href="https://vimeo.com/sgbeachbum">SgBeachBum</a>
+on
+<a href="https://vimeo.com">Vimeo</a>
+.</p>
+
+<hr />
+
+<p><a href="https://vimeo.com/51347589">disappearing croc @ sg buloh wetland reserve - Oct2012</a>
+from
+<a href="https://vimeo.com/sgbeachbum">SgBeachBum</a>
+on
+<a href="https://vimeo.com">Vimeo</a>
+.</p>
+
+<hr />
+
+<p><strong>Crocodiles recorded for Singapore</strong>
+from Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+.
+**</p>
+
+<p><strong>Family Crocodylidae</strong></p>
+
+<p><em>Crocodylus porosus</em>
+(Estuarine crocodile)</p>
+
+<p>*Crocodylus siamensis</p>
+
+<p>Tomistoma schlegelii*
+(Sunda gavial)</p>
+
+<hr />
+
+<p><strong>Articles</strong></p>
+
+<ul>
+  <li><a href="http://wildsingaporenews.blogspot.sg/2018/02/malaysia-large-croc-spotted-at-pantai.html">Malaysia: Large croc spotted at Pantai Lido</a>
+, New Straits Times, 11 Feb 18.</li>
+  <li><a href="http://wildsingaporenews.blogspot.sg/2018/01/nparks-to-extend-barricade-to-pathway.html">NParks to extend barricade to pathway where crocodile was spotted in Sungei Buloh</a></li>
+</ul>
+
+<p>Straits Times, 22 Jan 18.</p>
+<ul>
+  <li><a href="http://wildsingaporenews.blogspot.sg/2017/11/nature-groups-experts-weigh-in-on.html">Nature groups, experts weigh in on recent crocodile sightings</a>
+Channel NewsAsia, 11 Nov 17.</li>
+  <li><a href="http://wildsingaporenews.blogspot.sg/2017/11/no-more-crocodile-sightings-water.html">No more crocodile sightings, water activities to resume at National Sailing Centre</a>
+Today Online, 10 Nov 17.</li>
+  <li><a href="http://wildsingaporenews.blogspot.sg/2017/11/crocodile-spotted-near-national-sailing.html">Crocodile spotted near National Sailing Centre, all water activities suspended</a>
+Today Online, 7 Nov 17.</li>
+  <li><a href="http://wildsingaporenews.blogspot.sg/2017/08/warning-signs-put-up-after-crocodile.html">Warning signs put up after crocodile spotted at Changi Beach</a>
+Channel NewsAsia, 23 Aug 17.</li>
+  <li><a href="http://wildsingaporenews.blogspot.sg/2017/08/nparks-warns-public-after-crocodile.html">NParks warns public after crocodile sightings in Pasir Ris Park</a>
+Channel NewsAsia, 8 Aug 17.</li>
+  <li><a href="http://wildsingaporenews.blogspot.sg/2017/07/wild-crocodile-dies-from-injuries-after.html">Wild crocodile dies from injuries after accident along Kranji Way</a>
+Straits Times, 7 Jul 17.</li>
+  <li><a href="http://wildsingaporenews.blogspot.sg/2016/11/water-sport-activities-in-marina.html">Water sport activities in Marina Reservoir suspended after ‘crocodile’ sighting</a>
+Channel NewsAsia, 27 Nov 16.</li>
+  <li><a href="http://wildsingaporenews.blogspot.sg/2016/11/crocodile-rescued-after-getting-trapped.html">Crocodile rescued after getting trapped in Lim Chu Kang fish farm</a>
+AsiaOne, 20 Nov 16.</li>
+  <li><a href="http://wildsingaporenews.blogspot.sg/2016/06/crocodiles-and-sharks-seen-off-woodlands.html">Crocodiles and sharks seen off Woodlands</a>
+AsiaOne, 20 Jun 16.</li>
+  <li><a href="http://wildsingaporenews.blogspot.sg/2015/05/kayakers-spotted-near-crocodiles-in.html">Kayakers spotted near crocodiles in Sungei Buloh</a>
+Channel NewsAsia, 19 May 15.</li>
+  <li><a href="http://wildsingaporenews.blogspot.sg/2014/06/dead-crocs-will-undergo-autopsies-pub.html">Dead crocs will undergo autopsies: PUB</a>
+AsiaOne, 27 Jun 14.</li>
+  <li><a href="http://wildsingaporenews.blogspot.sg/2014/05/poachers-may-have-killed-barney.html">Poachers may have killed Barney</a>
+AsiaOne, 18 May 14.</li>
+  <li><a href="http://wildsingaporenews.blogspot.sg/2014/05/crocs-death-disposal-raise-questions.html">Croc’s death, disposal raise questions</a>
+AsiaOne, 13 May 14.</li>
+  <li><a href="http://wildsingaporenews.blogspot.sg/2014/05/photographer-surprised-by-2m-croc-at.html">Photographer surprised by 2m croc at Sungei Buloh</a>
+AsiaOne, 11 May 14.</li>
+  <li><a href="http://wildsingaporenews.blogspot.sg/2014/05/400kg-crocodile-found-dead-at-kranji.html">400kg crocodile found dead at Kranji Reservoir</a>
+AsiaOne, 4 May 14.</li>
+  <li><a href="http://wildsingaporenews.blogspot.sg/2013/12/humans-not-on-crocodiles-menu-at-sungei.html">Humans not on crocodiles’ menu at Sungei Buloh</a>
+by Tony O’Dempsey Today Online 16 Dec 13;</li>
+  <li><a href="http://wildsingaporenews.blogspot.sg/2013/12/assess-threat-of-crocodiles-at-sungei.html">Assess threat of crocodiles at Sungei Buloh</a>
+Today Online, 12 Dec 13.</li>
+  <li><a href="http://wildsingaporenews.blogspot.sg/2013/12/saltwater-crocs-find-permanent-home-at.html">Saltwater crocs find permanent home at Sungei Buloh</a>
+Channel NewsAsia, 4 Dec 13</li>
+  <li><a href="http://wildsingaporenews.blogspot.sg/2013/06/catch-crocs-in-sungei-buloh.html">Catch crocs in Sungei Buloh</a>
+Straits Times, 2 Jun 13.</li>
+  <li><a href="http://wildsingaporenews.blogspot.sg/2012/04/moe-camp-stops-water-activities-after.html">MOE camp stops water activities after croc sighting</a>
+Straits Times, 22 Apr 12.</li>
+  <li><a href="http://wildsingaporenews.blogspot.sg/2012/02/sengkang-river-creature-is-monitor.html">Sengkang river creature is “monitor lizard”</a>
+Channel NewsAsia, 21 Feb 12</li>
+  <li><a href="http://wildsingaporenews.blogspot.com/2008/08/pasir-ris-crocodile-caught-on-fishing.html">Pasir Ris crocodile caught on fishing line</a>
+Desmond Ng, The New Paper 20 Aug 08 on the wildsingapore news blog.</li>
+  <li><a href="http://wildsingaporenews.blogspot.com/2008/08/crocodile-spotted-at-pasir-ris-beach.html">Crocodile spotted at Pasir Ris Beach</a>
+Straits Times 5 Aug 08 on the wildsingapore news blog.</li>
+</ul>
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://taxo4254.wikispaces.com/Crocodylus+porosus"><em>Crocodylus porosus</em></a>
+(Crocodylia: Crocodylidae) Salt-water Crocodile by Mohamed Hussain, 2012, on taxo4254.</li>
+  <li><a href="http://www.sbwr.org.sg/Wetlands/text/06-133-1.md">Is That a Crocodile or a Monitor Lizard?</a>
+by Ramakrishnan Kolandavelu in Wetlands, a publication of the Sungei Buloh Wetland Reserve, Vol 13 No 3, 2006.</li>
+  <li><a href="http://www.ecologyasia.com/verts/lizards/estuarine_crocodile.md">Estuarine crocodile</a>
+on Nick Baker’s EcologyAsia website: fact sheet with photos.</li>
+  <li><a href="https://singapore.biodiversity.online/taxo4254/mainSpace/Crocodylus%20porosus.html"><em>Crocodylus porosus</em></a>
+(Crocodylia: Crocodylidae) Salt-water Crocodile by Mohamed Hussain, 2012 on taxo4254.</li>
+  <li>From the wild shores of singapore blog</li>
+  <li><a href="http://wildshores.blogspot.sg/2018/01/smile-singapore-got-crocodile.html">Smile, Singapore got crocodile</a></li>
+  <li><a href="http://wildshores.blogspot.sg/2013/12/crocodile-what-should-i-do.html">Crocodile! What should I do?!</a></li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Marcus Ng and Robert W. Mendyk. 2012.
+<a href="https://www.researchgate.net/profile/Robert_Mendyk/publication/307973031_Predation_of_an_Adult_Malaysian_Water_monitor_Varanus_salvator_macromaculatus_by_an_Estuarine_Crocodile_Crocodylus_porosus/links/57d4d86508ae5f03b4916283.pdf?origin=publication_list">Predation of an Adult Malaysian Water monitor (
+<em>Varanus salvator macromaculatus</em>
+) by an Estuarine Crocodile (
+<em>Crocodylus porosus</em>
+)</a>
+. Biawak, 6(1), pp. 34-38, by International Varanid Interest Group.</li>
+  <li>Lim, Kelvin K. P. &amp; Francis L K Lim, 1992.
+<em>A Guide to the Amphibians and Reptiles of Singapore</em>
+**
+Singapore Science Centre. 160 pp.</li>
+  <li>Baker, Nick and Kelvin Lim. 2008.
+<em>Wild Animals of Singapore: A Photographic Guide to Mammals, Reptiles, Amphibians and Freshwater Fishes</em>
+Vertebrate Study Group, Nature Society (Singapore). 180 pp.</li>
+  <li>Cox, Merel J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt. 1998.
+<em>A Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular Malaysia and Singapore</em>
+New Holland.</li>
+  <li>Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+<em>The Singapore Red Data Book: Threatened plants and animals of Singapore</em>
+. Nature Society (Singapore). 285 pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

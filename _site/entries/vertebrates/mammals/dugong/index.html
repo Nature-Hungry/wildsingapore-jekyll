@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Dugong | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="dugong, seacow, cow, dugongnidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/vertebrates/mammals/dugong/060607rmbr1m6l.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Chordata">Chordata</a>
+                    > 
+                    <a href="/Chordata/Mammalia">Mammalia</a>
+                    > 
+                    <a href="/Chordata/Mammalia/Sirenia">Sirenia</a>
+                    >
+                    <a href="/Chordata/Mammalia/Sirenia/"></a>
+                    >
+                    <a href="/Chordata/Mammalia/Sirenia//Dugongidae">Dugongidae</a>
+                </p>
+                <h1>Dugong</h1>
+                
+                    <p class="scientific-name">Dugong dugon</p>
+                
+
+                <p><em>Updated Jan 2021</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>Dugongs used to be common in the Johor Straits but were considered locally extinct by the 1980’s. While in the late 1990’s, there were increased encounters with dugongs in the Johor Straits, there were fewer sightings in the 2000’s.</p>
+
+<p>According to Davison, they are recorded mainly from the north-eastern Johor Straits around the Sungai Johor estuary. Strandings have occured on Pulau Ubin, Pulau Tekong, Changi and East Coast Park. Individuals have been sighted off Changi, around Pulau Ubin, Pulau Tekong and Labrador.</p>
+
+<p>Dugongs need to eat lots of seagrass so they keep moving and are usually not permanently resident in one small location. Dugongs can travel several hundred kilometers in a few days as they feed from place to place. Our seagrass meadows are probably only one stop among many for dugongs that live in the area.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/mammals/dugong/060607rmbr1m6l.jpg" alt="" />
+        <div class="caption">
+        Dead dugong washed up on Pulau Tekong, Jun 06 Photos from Raffles Museum news .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/mammals/dugong/070120cjm3.jpg" alt="" />
+        <div class="caption">
+        Dugong feeding trail. Chek Jawa, Jan 07
+        </div>
+    </div>
+    
+
+</div>
+<h2 id="features">Features</h2>
+
+<p>Adults 2.4-2.7m long and weighing 230-360kgs. It is an air-breathing mammal that is well adapted to its underwater lifestyle and seagrass diet.
+A dugong’s mouth faces downwards to munch on seagrass and it has large, grinding teeth that grow continuously. Its digestive system is also adapted for tackling seagrass. Its front limbs are modified into flippers, used for steering when swimming, or for ‘walking’ as it floats over the ground when feeding. A dugong has no hind limbs but has a powerful tail fluke to swim with. Its grey, smooth skin is thick and sparsely covered with hair. A dugong has lots of stored fat (blubber) which provides bouyancy. The dugong is the only herbivorous mammal that is strictly marine.</p>
+
+<p><strong>Sometimes confused with</strong>
+the manatee. The natural range of the manatee is in the tropical coasts of the Americas and Western Africa. While the dugong’s natural range is from Eastern Africa, the Red Sea, through India and Southeast Asia to Australia. While the manatee has a circular tail fluke, dugongs have a forked tail fluke.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/mammals/dugong/b6m6l.jpg" alt="" />
+        <div class="caption">
+        Gracie the captive dugong at Underwater World Sentosa on her 12th birthday Jan 09, from Channel NewsAsia .
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>What does it eat?</strong>
+<a href="../../../wildshores/vertebrata/others/g002.md">Seagrass</a>
+is the dugong’s main food.
+So not surprisingly, it is also sometimes called the Sea Cow! It pulls out a mouthful of seagrasses with its thick lips, shakes it to get rid of the sand and then swallows. Dugong feeding trails are formed when dugongs chomp up seagrasses including their roots, leaving a shallow meandering furrow of about equal width and depth. A dugong often ‘cultivates’ a favourite patch of seagrass by cropping it frequently. This promotes faster growth of young tender leaves which the dugong prefers to eat.
+The dugong one of the few large animals that can digest fresh seagrass.
+According to Davison, apparently it feeds during the night and rests in deeper waters during the day.</p>
+
+<p><strong>Dugong babies:</strong>
+The mother dugong gives birth in shallow waters, usually to a single calf. The calf clings to the mother’s back as she grazes. She suckles her baby for up to 18 months. The juvenile might stay with her for another year after that. It is almost impossible for the baby to survive if its mother dies. Dugongs reproduce slowly, taking 9-10 years to reach sexual maturity and give birth only every 3-7 years. They can live up to 70 years.</p>
+
+<p><strong>Status and threats:</strong>
+The Dugong is listed as ‘Critically Endangered’ in the Red List of threatened animals of Singapore.
+The dugong’s natural predators are sharks, killer whales and crocodiles. But man is the main threat, hunting dugongs for their meat, oil, skin (for leather) and for medicinal uses. Dugongs also drown when trapped in fishing nets and are injured by boat propellers. Mostly, they are threatened by the loss of seagrass habitats. Dugongs used to form herds of hundreds, now groups of six are the average. The effective conservation of dugongs requires international cooperation as their natural range can cover many countries. Dugongs are considered highly endangered globally; listed on CITES I and considered by the IUCN to be vulnerable to extinction.</p>
+
+<hr />
+
+<p><strong>Dugong feeding trails on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470%40N00&amp;sort=date-taken-desc&amp;advanced=1&amp;text=dugong%20feeding%20trail&amp;view_all=1">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Dugong%252C%2520/map?&amp;fLat=1.2959&amp;fLon=103.8764&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Recent dugong sightings in Singapore</strong></p>
+
+<ul>
+  <li>From the wild shores of singapore blog.</li>
+  <li>All sighting now compiled under the tag:
+<a href="http://wildshores.blogspot.sg/search/label/mega-fauna">‘mega fauna’</a></li>
+  <li><a href="http://wildshores.blogspot.com/2018/08/happy-national-day-with-dolphins-sea.html">Happy National Day with dolphins, sea turtles and dugongs! (Aug 2018)</a></li>
+  <li><a href="http://wildshores.blogspot.com/2018/06/yes-singapore-got-dugongs.html">YES! Singapore got dugongs (May 2018)</a></li>
+  <li><a href="http://wildshores.blogspot.com/2017/10/yes-singapore-got-dolphins-sea-turttles.html">YES! Singapore got dolphins, sea turtles and dugongs (Aug-Sep 2017)</a></li>
+  <li><a href="http://wildshores.blogspot.com/2017/08/wild-celebrations-with-dolphins-and-sea.html">Wild celebrations with dolphins, sea turtle and dugong (Aug 2017)</a></li>
+  <li><a href="http://wildshores.blogspot.com/2017/06/singapore-got-wild-dolphins-and-dugongs.html">Singapore got wild dolphins and dugongs too (May 2017)</a></li>
+  <li><a href="http://wildshores.blogspot.com/2017/05/singapore-got-sea-turtles-dolphins.html">Singapore got sea turtles, dolphins (April 2017)</a></li>
+  <li><a href="http://wildshores.blogspot.sg/2016/08/mass-coral-bleaching-at-terumbu-pempang.html">Dugong feeding trails at Terumbu Pempang Laut</a>
+(6 Aug 16)</li>
+  <li><a href="http://wildshores.blogspot.sg/2016/07/mass-coral-bleaching-at-chek-jawa.html">Dugong feeding trails at Chek Jawa</a>
+(4 Jul 16)</li>
+  <li><a href="http://wildshores.blogspot.sg/2015/05/babylonia-aplenty-at-changi.html">Dugong feeding trails at Changi</a>
+(18 May 15)</li>
+  <li><a href="http://wildshores.blogspot.sg/2013/03/singapore-has-wild-dolphins-otters.html">Singapore has wild dolphins, otters, dugongs, sea turtles and more!</a>
+(18 Mar 13)</li>
+  <li><a href="http://wildshores.blogspot.sg/2014/06/spongeless-on-sekudu.html">Dugong feeding trails at Pulau Sekudu</a>
+(16 Jun 14)</li>
+  <li><a href="http://wildshores.blogspot.sg/2013/06/new-finds-at-changi.html">Dugong feeding trails at Changi</a>
+(26 Jun 13)</li>
+  <li><a href="http://wildshores.blogspot.sg/2012/05/signs-of-dugong-in-south.html">Signs of dugong in the South!</a>
+(11 May 2012)</li>
+  <li><a href="http://wildshores.blogspot.sg/2013/10/special-sightings-since-2010-dugongs.html">Special sightings since 2010: dugong, dolphin, sea turtles and more!</a></li>
+  <li><a href="http://wildshores.blogspot.sg/2013/08/curious-caterpillars-at-sekudu.html">Dugong feeding trails at Pulau Sekudu</a>
+(20 Aug 13)</li>
+  <li><a href="http://wildshores.blogspot.sg/2013/08/alive-at-chek-jawa-beacon.html">Dugong feeding trails at Chek Jawa</a>
+(21 Aug 13)</li>
+  <li><a href="http://wildshores.blogspot.sg/2013/07/sea-fan-garden-with-signs-of-dugong.html">Dugong feeding trails at Changi</a>
+(26 Jul 13)</li>
+  <li><a href="http://wildshores.blogspot.sg/2013/07/predawn-at-chek-jawa-after-10-years.html">Dugong feeding trails at Chek Jawa</a>
+(21 Jul 13)</li>
+  <li><a href="http://wildshores.blogspot.sg/2013/06/new-finds-at-changi.html">Dugong feeding trails at Changi</a>
+(26 Jun 13)</li>
+  <li><a href="http://wildshores.blogspot.sg/2013/04/seagrass-watch-check-up-on-chek-jawa.html">Dugong feeding trails at Chek Jawa</a>
+(15 Apr 13)</li>
+  <li><a href="http://wildshores.blogspot.sg/2013/04/seagrasswatch-check-up-on-cyrene.html">Dugong feeding trails at Cyrene Reef</a>
+(14 Apr 13)</li>
+  <li><a href="http://wildshores.blogspot.sg/2013/03/singapore-has-wild-dolphins-otters.html">Singapore has wild dolphins, otters, dugongs, sea turtles and more!</a>
+(18 Mar 13)</li>
+  <li><a href="http://wildshores.blogspot.sg/2013/01/dugong-signs-on-changi-with-sea-fan.html">Dugong feeding trails at Changi</a>
+(14 Jan 13)</li>
+  <li><a href="http://wildshores.blogspot.sg/2012/10/otters-and-special-crabs-and-snail-at.html">Dugong feeding trails at Pulau Sekudu</a>
+(18 Oct 12)</li>
+  <li><a href="http://wildshores.blogspot.sg/2012/08/changis-best-seagrass-meadows-being.html">Dugong feeding trails at Changi</a>
+(3 Aug 12)</li>
+  <li><a href="http://wildshores.blogspot.sg/2012/05/bleaching-anemones-uprooted-sea.html">Dugong feeding trails at Chek Jawa</a>
+(13 May 12)</li>
+  <li><a href="http://wildshores.blogspot.sg/2012/04/dugong-feeding-trails-at-cyrene.html">Dugong feeding trails at Cyrene Reef</a>
+(16 Apr 12)</li>
+  <li><a href="http://wildshores.blogspot.sg/2012/04/seagrassy-at-chek-jawa-with-new-wild.html">Dugong feeding trails at Chek Jawa</a>
+(13 Apr 12)</li>
+  <li><a href="http://wildshores.blogspot.sg/2012/01/signs-of-dugongs-at-chek-jawa.html">Dugong feeding trails at Chek Jawa</a>
+(8 Jan 12)</li>
+  <li><a href="http://wildshores.blogspot.sg/2011/07/large-star-and-stargazer-at-changi.html">Dugong feeding trails at Changi</a>
+(5 Jul 11)</li>
+  <li><a href="http://wildshores.blogspot.sg/2011/07/seagrass-sunrise-at-chek-jawa.html">Dugong feeding trails at Chek Jawa</a>
+(20 Jul 11)</li>
+  <li><a href="http://wildshores.blogspot.com/2011/07/quick-chek-jawa-check-up-with-otters.html">Quick Chek Jawa check up with otter and dugong on 3 Jul 2011</a></li>
+  <li><a href="http://wildshores.blogspot.com/2011/05/mollusc-marvels-on-changi-and-more.html">Mollusc marvels on Changi, and more signs of dugong? on 20 May 2011</a></li>
+  <li><a href="http://wildshores.blogspot.com/2011/05/pregnant-papas-on-changi-with-signs-of.html">Pregnant papas on Changi with signs of dugong? on 19 May 2011</a></li>
+  <li><a href="http://wildshores.blogspot.com/2011/04/signs-of-dugong-at-chek-jawa.html">Signs of dugong at Chek Jawa? on 24 Apr 2011</a></li>
+  <li><a href="http://wildshores.blogspot.com/2011/03/dugong-sighting-at-chek-jawa.html">Dugong sighting on Chek Jawa? on 20 Mar 2011</a></li>
+  <li><a href="http://wildshores.blogspot.com/2011/03/dugong-sighting-at-chek-jawa.html">Dugong sighting at Chek Jawa? on 20 Mar 2011</a></li>
+  <li><a href="http://wondercreation.blogspot.sg/2016/01/northern-chek-jawa-survey.html">Dugong feeding trails at Chek Jawa</a>
+(11 Jan 16) on wonder creations blog.</li>
+  <li><a href="http://nakedhermitcrabs.blogspot.sg/2013/10/dugong-and-more-at-chek-jawa.html">Dugong and more at Chek Jawa!</a>
+on the Naked Hermit Crab blog (6 Oct 13)</li>
+  <li><a href="http://wondercreation.blogspot.com/2011/05/dugong-feeding-trails-at-southern.html">Dugong feeding trails at Southern Semakau on 27 May 2011</a>
+on wonderful creation blog.</li>
+  <li><a href="http://funwithnature.blogspot.com/2011/04/dugong-ivory-at-changi-beach.html">Dugong ivory at Changi Beach on 26 Mar 2011</a>
+on the Fun with Nature blog.</li>
+  <li><a href="http://teamseagrass.blogspot.com/2007/01/first-teamseagrass-field-orientation.html">Dugong feeding trail seen on Chek Jawa, 20 Jan 07</a>
+on the teamseagrass blog.</li>
+  <li><a href="http://uvp.blogspot.com/2006/06/house-no-1-location-where-mermaid-was.html">Dugong spotted at Chek Jawa by contractors building the boardwalk, May 06</a>
+on the Ubin volunteers blog.</li>
+  <li><a href="http://rmbr.nus.edu.sg/news/index.php?entry=/news/20060608-dugong_tekong.txt">Dugong carcass washed ashore on southern Tekong, 6 Jun 06</a>
+on the Raffles Museum news blog.</li>
+  <li><a href="http://rmbr.nus.edu.sg/newsletter/issue_02/02_page03.pdf">Dugong carcass found on the East Coast in Jul 01</a>
+on “The Body-snatchers” (PDF) by N. Sivasothi. Raffles Museum Newsletter No. 2, 15 April 2002</li>
+</ul>
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://wildsingaporenews.blogspot.com/search/label/dugongs">Latest media reports about dugongs</a>
+on the wildsingapore news blog. See also
+<a href="http://wildsingaporenews.blogspot.com/search/label/seagrasses">seagrasses</a>
+.</li>
+  <li><a href="http://www.unep.org/Documents.Multilingual/Default.asp?DocumentID=235&amp;ArticleID=3009&amp;l=en">“Mermaids”: Urgent Action Needed to Save them from Habitat Destruction, Pollution and Entanglement in Fishing Nets</a>
+UNEP 12 Feb 02: about the first global study of dugongs led by Prof Helene Marsh: full details on global distribution, conservation and legislation on dugongs including for Singapore and Johor. With a
+<a href="http://www.unep.org/dewa/reports/dugongreport.asp">summary of the report</a>
+and
+<a href="http://www.unep.org/dewa/Docs/DUGONG.pdf">full report</a>
+(PDF).</li>
+  <li><a href="http://www.tesag.jcu.edu.au/dugong/doc/dugongactplan.pdf">Dugong: Status Report and Action Plans for Countries and Territories</a>
+(PDF file) by Helen Marsh, IUCN/SSC Sirenia Specialist Group: full details on global distribution, conservation and legislation on dugongs.</li>
+  <li><a href="http://wildsingaporenews.blogspot.com/2009/01/rescued-dugong-at-underwater-world.html">Rescued dugong at Underwater World celebrates 12th birthday</a>
+Imelda Saad, Channel NewsAsia 13 Jan 09.</li>
+  <li><em><a href="https://singapore.biodiversity.online/taxo4254/mainSpace/Dugong%20dugon.html">Dugong dugon</a></em>
+(Sirenia: Dugongidae) Dugong by Nguyen Kieu Trang, 2014, on taxo4254.</li>
+  <li>From the wild shores of singapore blog</li>
+  <li><a href="http://wildshores.blogspot.com/2011/03/2011-is-pacific-year-of-dugong.html">2011 is Pacific Year of the Dugong</a></li>
+  <li><a href="http://wildshores.blogspot.com/2009/03/dugongs-hunted-in-thailand-are-smuggled.html">Dugongs hunted in Thailand are smuggled to Singapore</a></li>
+  <li><a href="http://wildshores.blogspot.com/2009/10/dugongs-last-moments-frantic-fight-for.html">Dugong’s last moments a frantic fight for survival</a></li>
+  <li><a href="http://wildshores.blogspot.com/2010/01/dugong-blimp-cam-survey-at-sungai-pulai.html">Dugong blimp cam survey at Sungai Pulai</a></li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+<em>The Singapore Red Data Book: Threatened plants and animals of Singapore</em>
+. Nature Society (Singapore). 285 pp.</li>
+  <li>Ripple, Jeff, 1999.
+<em>Manatees and Dugongs of the World</em>
+Voyageur Press, USA. 144 pp.</li>
+  <li>Nowak, Ronald M. 2003.
+<em>Walker’s Marine Mammals of the World</em>
+. The Johns Hopkins University Press. 263 pp.</li>
+  <li>Francis, Charles M. 2001.
+<em>Mammals of South-East Asia</em>
+New Holland Publishers. 128 pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

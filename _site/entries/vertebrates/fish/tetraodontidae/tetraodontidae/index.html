@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Pufferfishes | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="pufferfish, puffer, fish, tetraodontidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/stellatus/161214sjiro2.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Chordata">Chordata</a>
+                    > 
+                    <a href="/Chordata/Actinopterygii">Actinopterygii</a>
+                    > 
+                    <a href="/Chordata/Actinopterygii/Tetraodontiformes">Tetraodontiformes</a>
+                    >
+                    <a href="/Chordata/Actinopterygii/Tetraodontiformes/Tetraodontoidei">Tetraodontoidei</a>
+                    >
+                    <a href="/Chordata/Actinopterygii/Tetraodontiformes/Tetraodontoidei/Tetraodontidae">Tetraodontidae</a>
+                </p>
+                <h1>Pufferfishes</h1>
+                
+                    <p class="scientific-name">Family Tetraodontidae</p>
+                
+
+                <p><em>Updated Nov 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about them ... Pufferfishes are poisonous to eat! They can inflate themselves with water or air to deter predators. But don't force a pufferfish to do this. They have powerful teeth and can give a nasty bite.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        Pufferfishes are poisonous to eat! They can inflate themselves with water or air to deter predators. But don't force a pufferfish to do this. They have powerful teeth and can give a nasty bite.
+        </div>
+    </div>
+    
+
+</div>
+
+<h2 id="where-seen">Where seen?</h2>
+<p>These rotund fishes are sometimes seen on some of our shores. They are found among seagrasses, near coral rubble as well as in mangroves. Sometimes seen in fish traps, and also washed ashore during mass fish death incidents. Divers also encounter on some of our reefs, including very large ones!</p>
+
+<dl>
+  <dt><strong>What are pufferfishes?</strong></dt>
+  <dt>Pufferfishes belong to the Family Tetraodontidae. According to</dt>
+  <dt><a href="http://www.fishbase.org/Summary/FamilySummary.cfm?ID=448">FishBase</a></dt>
+  <dd>the family has 19 genera and 121 species. They are found in tropical and subtropical ares of the Atlantic, Indian and Pacific oceans. Other similar fishes belong to different families: boxfishes and cowfishes to
+<a href="../ostraciidae/ostraciidae.md">Family Ostraciidae</a>
+, and porcupinefishes to
+<a href="../diodontidae/diodontidae.md">Family Diodontidae</a>
+.</dd>
+</dl>
+
+<h2 id="features">Features</h2>
+
+<p>10-30cm. Pufferfishes are slow moving fish that are hardly designed for fast swimming. When relaxed, they are generally elongated bulbous fishes. Pufferfishes get their common name from their ability to inflate the body greatly by swallowing water (or air, if it is out of water). They do this when they are stressed. Fully inflated, they resemble balloons. This probably helps make a pufferfish more difficult to swallow and thus deters predators. They are sometimes also called blowfishes. Please don’t tease pufferfishes or force them to inflate themselves. It is cruel to do so.</p>
+
+<p><strong>Poisonous puffers:</strong>
+Many pufferfishes are highly poisonous to eat. The pufferfish harbours tetraodotoxin. This potent toxin may be concentrated in the intestines, reproductive organs or skin. Even dead fishes can poison anything that eat them.</p>
+
+<p>The tough skin lacks scales. Most species are covered with with tiny spines, some have fleshy filaments. In most, the underside of the body is white while the upper side may have various patterns. The gill opening does not have a cover and are simple slits in front of the pectoral fins. They lack pelvic fins.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/stellatus/161214sjiro2.jpg" alt="" />
+        <div class="caption">
+        And inflated fish that was dead/dying and washed ashore. St. John's Island, Dec 16 Photo shared by Rene Ong on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/reticularis/081101chgik2.jpg" alt="" />
+        <div class="caption">
+        Fused teeth, on a dead pufferfish. Changi, Nov 08 Photo shared by Ivan Kwan on flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/reticularis/081101chgik2a.jpg" alt="" />
+        <div class="caption">
+        Fine prickly skin, on a dead pufferfish. Changi, Nov 08 Photo shared by Ivan Kwan on flickr .
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>What do they eat?</strong>
+Some species appear to eat whatever they can find. Others may specialise in eating algae or invertebrates. Some may scavenge. The mouth is small and teeth fused into a beak made up of four fused powerful teeth. The scientific name comes from the Greek ‘
+<em>tetra</em>
+‘ which means ‘four’ and ‘
+<em>odous</em>
+‘ which means ‘teeth’.</p>
+
+<p><strong>Puffer babies:</strong>
+Pufferfishes lay eggs in a nest and it is presumed that the nest is defended.</p>
+
+<p><strong>Human uses:</strong>
+Despite their toxic nature, pufferfishes are eaten in Japan as a delicacy.</p>
+
+<p><strong>Status and threats:</strong>
+Our pufferfishes are not listed as among the threatened animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Over-collection can also have an impact on local populations.</p>
+
+<hr />
+
+<p><strong>Some Pufferfishes on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/patoca/050708labd4747m3.jpg" alt="" />
+        <div class="caption">
+        Milk-spotted pufferfish
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/nigroviridis/050218sbwrd0424m3.jpg" alt="" />
+        <div class="caption">
+        Spotted green pufferfish
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/070219sisd8189m3.jpg" alt="" />
+        <div class="caption">
+        Yelloweye pufferfish
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/caeruleopunctatus/sbr2019-054-055-caeruleopunctatus.jpg" alt="" />
+        <div class="caption">
+        Blue-spotted pufferfish
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/stellatus/sbr2019-054-055-stellatus.jpg" alt="" />
+        <div class="caption">
+        Starry pufferfish
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/reticularis/sbr2018-091.jpg" alt="" />
+        <div class="caption">
+        Reticulated pufferfish
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/mappa/sbr2019-054-055-mappa.jpg" alt="" />
+        <div class="caption">
+        Map pufferfish
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Family Tetraodontidae recorded for Singapore</strong>
+from Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+.</p>
+
+<p><em>from Lim, Kelvin K. P. &amp; Jeffrey K. Y. Low, 1998.
+*A Guide to the Common Marine Fishes of Singapore</em>
+.</p>
+
+<p>**from WORMS</p>
+
+<p><strong>Family Tetraodontidae</strong></p>
+
+<p><a href="caeruleopunctatus.md"><em>Arothron caeruleopunctatus</em></a>
+(Blue-spotted pufferfish)
+<em>Arothron hispidus</em>
+(Stars-and-stripes pufferfish)
+<em><a href="immaculatus.md">Arothon immaculatus</a></em>
+(Yelloweye pufferfish)
+<em><a href="mappa.md">Arothon mappa</a></em>
+(Map pufferfish)
+<em><a href="reticularis.md">Arothon reticularis</a></em>
+(Reticulated pufferfish)
+<em><a href="stellatus.md">Arothon stellatus</a></em>
+(Starry pufferfish)
+<em><a href="patoca.md">Chelnodon patoca</a></em>
+(Milk-spotted pufferfish)
+*Spheoroides lunaris=<strong>Lagocephalus lunaris*
+(Rough golden toadfish)
+*Spheoroidees oblongus=</strong>Takifugu oblongus</p>
+
+<p>Tetraodon leiurus</p>
+
+<p><a href="nigroviridis.md">Tetraodon nigroviridis</a>*
+(Spotted green pufferfish)
+<em>Tetraodon palembangensis</em></p>
+
+<hr />
+
+<p>Arothron hispidus*
+. Singapore Biodiversity Records 2013: 1.</p>
+<ul>
+  <li>Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+. National Council on the Environment. 163pp.</li>
+  <li>Allen, Gerry, 2000.
+<em>Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers</em>
+. Periplus Editions. 292 pp.</li>
+  <li>Kuiter, Rudie H. 2002.
+<em>Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers &amp; Fishermen</em>
+New Holland Publishers. 434pp.</li>
+  <li>Lieske, Ewald and Robert Myers. 2001.
+<em>Coral Reef Fishes of the World</em>
+Periplus Editions. 400pp.</li>
+</ul>
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/395.md">Yelloweye Puffer (
+<em>Arothron immaculatus</em>
+)</a>
+,
+<a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/396.md">Rough Golden Toadfish (
+<em>Lagocephalus lunaris</em>
+)</a>
+,
+<a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/397.md">Milk-spotted Puffer (
+<em>Chelonodon patoca</em>
+)</a>
+and
+<a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/398.md">Spotted Green Puffer (
+<em>Tetraodon nigroviridis</em>
+)</a>
+Lim, Kelvin K. P. &amp; Jeffrey K. Y. Low, 1998.
+<em><a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/">A Guide to the Common Marine Fishes of Singapore</a></em>
+. Singapore Science Centre. 163 pp.</li>
+  <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/253.md">Puffer or Globe fish</a>
+Tan, Leo W. H. &amp; Ng, Peter K. L., 1988.
+<em><a href="http://mangrove.nus.edu.sg/pub/seashore/">A Guide to Seashore Life</a></em>
+. The Singapore Science Centre, Singapore. 160 pp.</li>
+  <li>
+    <dl>
+      <dt><a href="http://www.fishbase.org/summary/FamilySummary.php?ID=448">Family Tetraodontidae (Puffers)</a></dt>
+      <dt>and</dt>
+      <dt>[<em>Arothron immaculatus</em></dt>
+      <dt>(Immaculate puffer)](http://www.fishbase.org/summary/7188)</dt>
+      <dt>and</dt>
+      <dt>[<em>Arothron mappa</em></dt>
+      <dt>(Map puffer)](http://www.fishbase.org/summary/7857)</dt>
+      <dt>and</dt>
+      <dt>[<em>Arothron stellatus</em></dt>
+      <dt>(Stellate puffer)](http://www.fishbase.org/summary/6526)</dt>
+      <dt>and from</dt>
+      <dt><a href="http://www.fishbase.org/">FishBase</a></dt>
+      <dd>Technical fact sheet on the family.</dd>
+    </dl>
+  </li>
+  <li><a href="http://wildshores.blogspot.com/2009/01/dont-eat-toxic-fish-balls.html">Don’t eat toxic fish balls!</a>
+on the wild shores of singapore blog: about a case of pufferfish poisoning and other uses of pufferfish toxins.</li>
+  <li><a href="http://wildshores.blogspot.com/2009/12/why-are-pufferfishes-deadly-and-not.html">Why pufferfishes are deadly and not dead</a>
+on the wild shores of singapore</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Toh Chay Hoon &amp; Kelvin K. P. Lim.
+<em>Blue-spotted pufferfish (Arothron caeruleopunctatus) observed in the Singapore Strait</em>
+. 30 April 2019. Singapore Biodiversity Records 2019: 54-55 ISSN 2345-7597. National University of Singapore.</li>
+  <li>Tan Heok Hui. 1 October 2013.
+*Stars-and-stripes pufferfish in Singapore Straits</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

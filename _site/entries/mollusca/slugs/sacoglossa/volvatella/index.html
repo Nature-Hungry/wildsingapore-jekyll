@@ -1,0 +1,540 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Volvatella slugs | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="orange, volvatella, vigourouxi, volvatellidae, seaslug, sap, sucking, sacoglossan, oxynoidae opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/120620sntd5876m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Mollusca">Mollusca</a>
+                    > 
+                    <a href="/Mollusca/Gastropoda">Gastropoda</a>
+                    > 
+                    <a href="/Mollusca/Gastropoda/"></a>
+                    >
+                    <a href="/Mollusca/Gastropoda//"></a>
+                    >
+                    <a href="/Mollusca/Gastropoda///Volvatellidae">Volvatellidae</a>
+                </p>
+                <h1>Volvatella slugs</h1>
+                
+                    <p class="scientific-name">Family Volvatellidae</p>
+                
+
+                <p><em>Updated Jun 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>These tiny slugs with very fragile shells are sometimes seen among seaweeds on some of our shores.</p>
+
+<h2 id="features">Features</h2>
+
+<p>Fragile, thin shell about 1cm long, that looks like a poorly folded cone that tapers into a spout at the end. The rhinophores are flattened, rounded and the animal has a pair of rounded oral lobes and a short foot. When disturbed, it secretes a white fluid. The egg mass is a flattened disk laid on seaweed.</p>
+
+<p>It is difficult to tell apart the species in the field, but in general,
+<em>Volvatella vigourouxi</em>
+(0.2-1cm long) is orange or yellowish, shell with fine darker orange-black spirals;
+<em>Volvatella ventricosa</em>
+(about 0.5cm long) is greenish;
+<em>Volvatella maculata</em>
+(about 0.5cm long) is white to pale yellowish with transparent spots.</p>
+
+<p>Another kind of Volvatella has a white shell with transparent spots and it has yet to be identified to species.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/120620sntd5876m3.jpg" alt="" />
+        <div class="caption">
+        Smaller 'males' on top of a larger hermaphrodite snail. Sentosa, Jun 12
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/120620sntd5884m6l.jpg" alt="" />
+        <div class="caption">
+        Sentosa, Jun 12
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>What do they eat?</strong>
+They have been seen on
+<em><a href="../../../plants/seaweed/chlorophyta/caulerpa.md">Caulerpa</a></em>
+<a href="../../../plants/seaweed/chlorophyta/caulerpa.md">green seaweeds</a>
+(
+<em>Caulerpa</em>
+sp.) as well as other kinds of green seaweeds including
+<a href="../../../plants/seaweed/chlorophyta/bryopsis.md">Hairy green seaweeds</a>
+(
+<em>Bryopsis</em>
+sp.).</p>
+
+<p><strong>Baby volvatellas:</strong>
+Often one or more smaller slugs are seen ‘riding’ on top of a larger one. Those on the edge of the shell lip may be mating, with the smaller one inserting its penis into the larger one. According to
+<a href="http://www.seaslugforum.net/find/7456">Bill Rudman</a>
+, although the slugs are hermaphrodites with both male and female reproductive parts, in smaller slugs, the male parts are developed while the female parts are not yet active. Both are developed in larger ones. Thus smaller slugs may be acting as males on larger slugs which act as females.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/110812prpd8594m6l.jpg" alt="" />
+        <div class="caption">
+        Produces a white fluid when disturbed. Pasir Ris, Aug 11
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/210527chgsaftch2.jpg" alt="" />
+        <div class="caption">
+        Laying eggs? Changi Creek, May 21 Photo shared by Toh Chay Hoon on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Volvatella slugs on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470@N00&amp;sort=date-posted-desc&amp;view_all=1&amp;text=Lobiger viridis">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Volvatella/map?&amp;fLat=1.3837&amp;fLon=103.9596&amp;zl=13&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/251012chgmn6.jpg" alt="" />
+        <div class="caption">
+        Changi, Oct 25 Photo shared by Marcus Ng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/110519chglks3m3.jpg" alt="" />
+        <div class="caption">
+        Changi, May 11 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/140517chg1tch1m3.jpg" alt="" />
+        <div class="caption">
+        Changi, May 14 Photo shared by Toh Chay Hoon on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/171206ubnlks8.jpg" alt="" />
+        <div class="caption">
+        Pulau Ubin, Dec 17 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/240821skdch4.jpg" alt="" />
+        <div class="caption">
+        Pulau Sekudu, Aug 24 Photo shared by Chay Hoon on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/100516skdtch7m3a.jpg" alt="" />
+        <div class="caption">
+        Pulau Sekudu, May 10 Photo shared by Toh Chay Hoon on her blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/090720skdmn3m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Sekudu, Jul 09 Photo shared by Marcus Ng on his flickr .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/180714cjmn.jpg" alt="" />
+        <div class="caption">
+        Chek Jawa, Jul 18 Photo shared by Marcus Ng on flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/170624cjtch2.jpg" alt="" />
+        <div class="caption">
+        Chek Jawa, Jun 17 Photo shared by Toh Chay Hoon on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/101009cjnml2m3.jpg" alt="" />
+        <div class="caption">
+        Chek Jawa, Oct 10 Photo shared by Neo Mei Lin on her blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/210626cjtch3.jpg" alt="" />
+        <div class="caption">
+        Chek Jawa, Jun 21 Photo shared by Toh Chay Hoon on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/220616chgelks14.jpg" alt="" />
+        <div class="caption">
+        Changi Lost Coast, Jun 22 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/100515sjlks.JPG" alt="" />
+        <div class="caption">
+        St. John's Island, May 10 Photo shared by Loh Kok Sheng on flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/140712cyrlks.JPG" alt="" />
+        <div class="caption">
+        Cyrene Reef, Jul 14 Photo shared by Loh Kok Sheng on flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/170501tsmktch6.jpg" alt="" />
+        <div class="caption">
+        Terumbu Semakau, May 17 Photo shared by Toh Chay Hoon on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Family Volvatellidae recorded for Singapore</strong></p>
+
+<p>from Tan Siong Kiat and Henrietta P. M. Woo, 2010
+<em>Preliminary Checklist of The Molluscs of Singapore</em>
+.</p>
+
+<p>^K. R. Jensen.
+<a href="http://lkcnhm.nus.edu.sg/nus/images/data/raffles_bulletin_of_zoology/supplement31/S31rbz226-249.pdf">Sacoglossa (Mollusca: Gastropoda: Heterobranchia) from northern coasts of Singapore</a>
+.</p>
+
+<p>*Cornelis (Kees) Swennen.
+<a href="http://lkcnhm.nus.edu.sg/rbz/biblio/59/59rbz029-037.pdf">Large Mangrove-dwelling
+<em>Elysia</em>
+species in Asia, with descriptions of two new species (Gastropoda: Opistobranchia: Sacoglossa)</a></p>
+
+<p>**
+from
+<a href="http://www.marinespecies.org/">WORMS</a></p>
+
+<p><strong>Family Volvatellidae</strong></p>
+
+<p>*^Ascobulla fischeri</p>
+
+<p>^Volvatella ventricosa</p>
+
+<p>Volvatella vigourouxi*
+(Volvatella slug)</p>
+
+<p>*^Volvatella maculata</p>
+
+<p>Volvatella*
+sp.</p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://www.seaslugforum.net/factsheet.cfm?base=volvvigo"><em>Volvatella vigourouxi</em></a>
+on
+<a href="http://www.seaslugforum.net/">The Sea Slug Forum</a>
+by Dr Bill Rudman: photos and fact sheet.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Kathe Jensen &amp; Rene S. L. Ong . 30 Sep 2016.
+<em>Shelled sacoglossa from Lazarus and Saint John’s Islands</em>
+. Singapore Biodiversity Records 2016: 120-121.</li>
+  <li>K. R. Jensen.
+<em>Sacoglossa (Mollusca: Gastropoda: Heterobranchia) from northern coasts of Singapore</em>
+. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 226-249.</li>
+  <li>Kathe R. Jensen. 30 Dec 2009.
+<em>Sacoglossa (Mollusca: Gastropoda: Opisthobranchia) from Singapore</em>
+. The Raffles Bulletin of Zoology, Supplement 22: 207-223.</li>
+  <li>Tan Siong Kiat and Henrietta P. M. Woo, 2010
+<em>Preliminary Checklist of The Molluscs of Singapore</em>
+(pdf), Raffles Museum of Biodiversity Research, National University of Singapore.</li>
+  <li>Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.
+<em>Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates</em>
+Sea Challengers. 314pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

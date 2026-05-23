@@ -1,0 +1,654 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Limpets | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="limpet, lottiidae, nacellidae, siphonariidae, fissurellidae, gastropod, mollusc, scutus, true, false, shield, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="../../../../Templates/fornatureguides.gif" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Mollusca">Mollusca</a>
+                    > 
+                    <a href="/Mollusca/Bivalvia">Bivalvia</a>
+                    > 
+                    <a href="/Mollusca/Bivalvia/Ostreida">Ostreida</a>
+                    >
+                    <a href="/Mollusca/Bivalvia/Ostreida/"></a>
+                    >
+                    <a href="/Mollusca/Bivalvia/Ostreida//Ostreidae">Ostreidae</a>
+                </p>
+                <h1>Limpets</h1>
+                
+                    <p class="scientific-name">Family Ostreidae</p>
+                
+
+                <p><em>Updated Aug 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about them ... Limpets are sometimes confused with barnacles. Limpets can move! But only at high tide. The area around a limpet is often grazed bare of algae.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        Limpets are sometimes confused with barnacles. Limpets can move! But only at high tide. The area around a limpet is often grazed bare of algae.
+        </div>
+    </div>
+    
+
+</div>
+
+<h2 id="where-seen">Where seen?</h2>
+<p>Limpets are found many of our shores. Both on and under stones, as well as on rocks and other hard surfaces. Sometimes the shell is covered with algae and mud and the limpet might look like a sea slug. Immobile at low tide, these abundant snails are often considered uninteresting and ignored by visitors. But they are actually quite amazing little creatures.</p>
+
+<h2 id="features">Features</h2>
+
+<p>‘Limpets’ are molluscs with an uncoiled, umbrella-shaped shell, often with ribs. They are
+<a href="../../gastropoda.md">gastropods</a>
+, and like the snails more familiar to us, also have a broad foot upon which they creep about. Unlike snails, however, limpets don’t have an operculum to seal the opening in their shell. Instead, they clamp down tightly against the rock, forming a seal between the shell edge and the rock. Their grip is so strong that if you try to pry them off, you will hurt them. So please don’t do this. If you want to see what the limpet looks like under its shell, have a look at the factsheets instead.</p>
+
+<p><strong>Sometimes confused with</strong>
+<a href="../../../crustacea/othercrust/ciriipedia/cirripedia.md">barnacles</a>
+which are crustacea; small
+<a href="../../bivalvia/ostreidae/osteridae.md">oysters</a>
+(Family Ostreidae) which are
+<a href="../../bivalvia.md">bivalves</a>
+; and
+<a href="../calyptraeidae/calyptraeidae.md">slipper snails</a>
+(Family Calyptraeidae) which are another kind of gastropod. Unlike limpets, all these other animals cannot move around. More on how to tell apart
+<a href="../../../glossary/limpetbarnacle.md">shelled animals found on rocks</a>
+.</p>
+
+<p><strong>Limpets can move!</strong>
+Unlike the immobile barnacles, limpets can move around. Like most other snails, limpets have tentacles, a broad foot and a radula. The limpet’s broad foot firmly grips the rock to avoid being dislodged by waves or predators.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/keyhole/130426tkkd5691m6l.jpg" alt="" />
+        <div class="caption">
+        A limpet is a snail with an umbrella shaped shell. Pulau Tekukor, Apr 13
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/guamensis/120817nsrccd9861.jpg" alt="" />
+        <div class="caption">
+        East Coast Park, Aug 12
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>What do they eat?</strong>
+Most limpets graze the thin layer of tiny plants and animals that coat a rock. In fact, to find limpets, look out for a ‘bare’ patch of rock!
+<strong>**
+They feed at high tide. At low tide, you may see some grazing at night or when it is cool or wet. Those found in shallow tide pools may also continue to feed at low tide.
+**Home on the Rock:</strong>
+Some species of limpets have a strong homing instinct and move back to the same resting spot after a feeding bout.</p>
+
+<p>This spot is often a slight depression in the rock which fits the outline of the shell perfectly, and is called the ‘home scar’. The limpet creates this perfect spot by rubbing against the rock, wearing away the shell and/or the rock so that a perfect fit is created! Even as the limpet grows bigger.</p>
+
+<p>Sometimes, you might come across a spot on a rock in the shape of a limpet that is completely ‘clean’ with feeding trails leading from the home scar. This could be the home scar of a limpet that has recently come to an unhappy end. Among the animals that prey on limpets are
+<a href="../muricidae/muricidae.md">drill snails</a>
+.</p>
+
+<p>Some limpets are believed to follow their mucus trails back to the home scar. In some of these homing limpets, their mucus also stimulates the growth of algae!</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/limpets/040502cjd0134m3.jpg" alt="" />
+        <div class="caption">
+        Limpets in the middle of a well-grazed portion of a boulder. Chek Jawa, May 04
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/limpets/050412tusd2391m3.jpg" alt="" />
+        <div class="caption">
+        Home scar of recently demised limpet. Tuas, Apr 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/070901sjimn.jpg" alt="" />
+        <div class="caption">
+        Drill snail drilled a hole in the limpet shell. St. John's Island, Sep 07 Photo shared by Marcus Ng on flickr .
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>What are limpets?</strong>
+Two major groups of snails have umbrella-shaped shells. They come from quite separate groups and are not closely related.</p>
+
+<p>One group of limpets called
+<strong>True limpets</strong>
+breathe through gills. Some, like those of the Family Patellidae and Lottiidae do not have holes in their shells.</p>
+
+<p>The Family Fissurellidae includes the
+<a href="keyhole.md">Keyhole limpets</a>
+which have a hole at the tip of their conical shells. Water is sucked in from under the shell, passes over the two feathery gills, and is then expelled out of the hole in the shell. To avoid water loss through this hole, these limpets live in wetter places.</p>
+
+<p>Another member of the Family Fissurellidae are the
+<a href="scutus.md">Shield-limpets</a>
+(
+<em>Scutus</em>
+sp.). Their bodies are a lot larger than their shell. In fact, the shell might be completely covered by their mantle, making them appear to be
+<a href="../../slug.md">slugs</a>
+. A Shield-limpet’s body usually folds up around the edges of the shell and may cover most of the shell. They come in various colours. Their body may be black or beige, and shell white or brown. These limpets are commonly found under rocks on our shores.</p>
+
+<p>Another group of limpets have lungs and breathe air.
+<strong>False limpets</strong>
+(Family Siphonariidae) belong to this group and are closely related to land snails and to
+<a href="../../slugs/onchidiidae/onchidiidae.md">Onch slugs</a>
+(Family Onchidiidae). They have a lung that can be filled with air or seawater. Because they can breathe air, false limpets are often found higher up on the rocks than limpets that breathe through gills. They lay jelly-like egg masses on the rocks.</p>
+
+<p>More on how to
+<a href="cflimpets.md">tell apart the various kinds of limpets</a>
+.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/050108cjd9188m3.jpg" alt="" />
+        <div class="caption">
+        A True limpet, this Smooth limpet breathes through gills. Chek Jawa, Jan 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/guamensis/041212kusd8718m3.jpg" alt="" />
+        <div class="caption">
+        A False limpet, this Guam false limpet , breathes through lungs. Sisters Island, Nov 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/020716cjd3562m3.jpg" alt="" />
+        <div class="caption">
+        Often mistaken for a slug, the Hoof-shield limpet has a body much bigger than its shell! Chek Jawa, Jul 02
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Limpet Babies:</strong>
+<em>Siphonaria</em>
+limpets lay eggs in circular or coiling jelly-like masses that contain thousands of eggs suspended in a gelatinous matrix, attached to a hard surface. The free-swimming limpet larvae have a little spiral shell like other ‘normal’ snails. As they develop, the shell flattens and becomes umbrella-shaped.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/110829ecpd0205m6l.jpg" alt="" />
+        <div class="caption">
+        With egg masses? East Coast Park, Aug 11
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/110829ecpd0209m3a.jpg" alt="" />
+        <div class="caption">
+        East Coast Park, Aug 11
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Human uses:</strong>
+Large limpets are often harvested as food by coastal dwellers.</p>
+
+<p><strong>Status and threats:</strong>
+None of our limpets are listed among the threatened animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Over-collection can also have an impact on local populations.</p>
+
+<hr />
+
+<p><strong>Limpets on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/050502cjg5601m3.jpg" alt="" />
+        <div class="caption">
+        Smooth limpet
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/keyhole/070602sjig9881m3.jpg" alt="" />
+        <div class="caption">
+        Key-hole limpet
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/patelloida/050108cjd9238m3.jpg" alt="" />
+        <div class="caption">
+        Star limpets
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/guamensis/040901sjid6172m3.jpg" alt="" />
+        <div class="caption">
+        Guam false limpet
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/040901sjid6160m3.jpg" alt="" />
+        <div class="caption">
+        Javan false limpet
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/atra/050509hntd3208m3.jpg" alt="" />
+        <div class="caption">
+        Flat false limpet
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/020716cjd3562m3.jpg" alt="" />
+        <div class="caption">
+        Hoof-shied limpet
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/030412cjd0030m3.jpg" alt="" />
+        <div class="caption">
+        Hoof-shied limpet
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/060326tusd0676m3.jpg" alt="" />
+        <div class="caption">
+        Hoof-shied limpet
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Limpets recorded for Singapore</strong></p>
+
+<p>from Tan Siong Kiat and Henrietta P. M. Woo, 2010
+<em>Preliminary Checklist of The Molluscs of Singapore</em>
+.</p>
+
+<p>in red are those listed among the threatened animals of Singapore
+from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+<em>The Singapore Red Data Book: Threatened plants and animals of Singapore</em>
+.</p>
+
+<p>^from
+<a href="http://www.marinespecies.org/">WORMS</a></p>
+
+<p>+Other additions (Singapore Biodiversity Record, etc)</p>
+
+<p><strong>True limpets</strong></p>
+
+<p><strong>Family Nacellidae</strong></p>
+
+<p><a href="cellana.md"><em>Cellana</em>
+sp.</a>
+(Smooth limpet)</p>
+
+<p>*Cellana radiata</p>
+
+<p>Cellana testudinaria*</p>
+
+<p><strong>Family Acmaeidae</strong></p>
+
+<p><em>Acmaea pygmaea</em></p>
+
+<p><strong>Family Fissurellidae</strong></p>
+
+<p><a href="keyhole.md">Keyhole limpets</a>
+*Diodora reevei=^Diodora octagona</p>
+
+<p>Diodora excelsa</p>
+
+<p>Diodora singaporensis</p>
+
+<p>Emarginula cucullata</p>
+
+<p>Emarginula scabricostata</p>
+
+<p>+Montfortista oldhamiana*
+<a href="scutus.md"><em>Scutus</em>
+sp.</a>
+(Hoof-shield limpet)
+*Scutus sinensis</p>
+
+<p>Scutus unguis*
+(EN: Endangered)</p>
+
+<hr />
+
+<p><strong>^Family Lottiidae</strong></p>
+
+<p><em><a href="patelloida.md">Patelloida saccharinoides</a></em>
+(Star limpet)</p>
+
+<p><strong>False limpets</strong></p>
+
+<p><strong>Family Siphonariidae</strong></p>
+
+<p><em><a href="atra.md">Siphonaria atra</a></em>
+(Flat false limpet)
+<em><a href="guamensis.md">Siphonaria guamensis</a></em>
+(Guam false limpet)
+<em><a href="javanica.md">Siphonaria javanica</a></em>
+(Javan false limpet)
+*Siphonaria laciniosa</p>
+
+<p>Williamia tomlini*</p>
+
+<hr />
+
+<p>th</p>
+
+<p>edition. McGraw-Hill Book Co., Singapore. 578 pp.</p>
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/154.md">False limpets</a>
+and
+<a href="http://mangrove.nus.edu.sg/pub/seashore/text/132.md">true limpets</a>
+Tan, Leo W. H. &amp; Ng, Peter K. L., 1988.
+<em><a href="http://mangrove.nus.edu.sg/pub/seashore/">A Guide to Seashore Life</a></em>
+. The Singapore Science Centre, Singapore. 160 pp.</li>
+  <li><a href="http://www.madsci.org/posts/archives/apr2002/1019684437.Gb.r.html">How long does a limpet typically live?</a>
+on the
+<a href="http://www.madsci.org/">Mad Scientist</a>
+website: Aydin Orstan explains, and the answer is surprising!</li>
+  <li><a href="http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Fissurellidae.html">Family Fissurellidae</a>
+on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief fact sheet with photos.</li>
+  <li><a href="http://seashellsofnsw.org.au/Patellidae/Pages/patellogastropoda_intro.md">True limpets (Order Patellogastropoda)</a>
+on the
+<a href="http://seashellsofnsw.org.au/index.md">The Seashells of New South Wales</a>
+website by Des Beechey Research Associate, Australian Museum: family introductions with photos and detailed fact sheets for many species.</li>
+  <li>Family Lottidae and Family Siphonariidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+<a href="http://www.fao.org/docrep/009/w7191e/w7191e00.md">Volume 1: Seaweeds, corals, bivalves and gastropods</a>
+on the Food and Agriculture Organization of the United Nations (FAO) website.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Chan Sow-Yan &amp; Lau Wing Lup.
+<em>New Singapore record of the limpet, Amathina oyamai mortoni.</em>
+30 August 2019. Singapore Biodiversity Records 2019: 113-117 ISSN 2345-7597. National University of Singapore.</li>
+  <li>Tan Siong Kiat, Lee Yen-ling &amp; Rene Ong. 18 September 2015.
+<em>A record of Singapore keyhole limpet, Diodora singaporensis</em>
+. Singapore Biodiversity Records 2015: 131-132</li>
+  <li>Tan Siong Kiat &amp; Martyn E. Y. Low. 13 December 2013.
+<em>New Singapore record of the slit limpet Montfortista oldhamiana</em>
+. Singapore Biodiversity Records 2013: 106</li>
+  <li>Tan Siong Kiat and Henrietta P. M. Woo, 2010
+<em>Preliminary Checklist of The Molluscs of Singapore</em>
+(pdf), Raffles Museum of Biodiversity Research, National University of Singapore.</li>
+  <li>Tan, K. S. &amp; L. M. Chou, 2000.
+<em>A Guide to the Common Seashells of Singapore</em>
+. Singapore Science Centre. 160 pp.</li>
+  <li>Lim, S., P. Ng, L. Tan, &amp; W. Y. Chin, 1994.
+<em>Rhythm of the Sea: The Life and Times of Labrador Beach.</em>
+Division of Biology, School of Science, Nanyang Technological University &amp; Department of Zoology, the National University of Singapore. 160 pp.</li>
+  <li>Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+. National Council on the Environment. 163pp.</li>
+  <li>Ng, P. K. L. &amp; Y. C. Wee, 1994.
+<em>The Singapore Red Data Book: Threatened Plants and Animals of Singapore</em>
+. The Nature Society (Singapore), Singapore. 343 pp.</li>
+  <li>Abbott, R. Tucker, 1991.
+<em>Seashells of South East Asia</em>
+. Graham Brash, Singapore. 145 pp.</li>
+  <li>Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.
+<em>Invertebrate Zoology</em>
+Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963</li>
+  <li>Pechenik, Jan A., 2005.
+<em>Biology of the Invertebrates</em>
+. 5</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

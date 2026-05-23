@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Ulimid snails  | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="ulimid, shell, snail, eulimidae, gastropod, mollusc, mangrove, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/eulimidae/eulimidae/120722cyrd8475m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/"></a>
+                    > 
+                    <a href="//"></a>
+                    > 
+                    <a href="///"></a>
+                    >
+                    <a href="////"></a>
+                    >
+                    <a href="/////Eulimidae">Eulimidae</a>
+                </p>
+                <h1>Ulimid snails </h1>
+                
+                    <p class="scientific-name">Family Eulimidae</p>
+                
+
+                <p><em>Updated Aug 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>These tiny snails are sometimes seen on echinoderms such as sea stars, sea cucumbers and sea urchins.</p>
+
+<h2 id="features">Features</h2>
+
+<p>0.1-0.5cm. Long conical shell, usually white some have brownish patterns. When not attached to a host, they may float on the water surface, often forming ‘rafts’ sticking to one another.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/eulimidae/eulimidae/120722cyrd8475m3.jpg" alt="" />
+        <div class="caption">
+        Cyrene Reef, Jul 12 On Common sea star .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/eulimidae/eulimidae/120722cyrd8482m3.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/eulimidae/eulimidae/120722cyrd8481m3.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>What do they eat?</strong>
+These are parasitic snails that feed on their host. Apparently, they stick their proboscis through the body wall and suck on the host’s body fluids.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/eulimidae/eulimidae/050608chgg7360m3.jpg" alt="" />
+        <div class="caption">
+        On a plain sand star . Changi, Jun 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/eulimidae/eulimidae/050608chgg7360m3a.jpg" alt="" />
+        <div class="caption">
+        Laying eggs too?
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/eulimidae/eulimidae/110830cyrd0357m3a.jpg" alt="" />
+        <div class="caption">
+        Possibly Eulima adamsii. Cyrene Reef, Aug 11 On a Cake sand dollar .
+        </div>
+    </div>
+    
+
+</div>
+<p>So far, these have been seen on the
+<a href="../../../echinodermata/asteroidea/sandplain.md">Plain sand star</a>
+,
+<a href="../../../echinodermata/asteroidea/sandpainted.md">Painted sand star</a>
+and
+<a href="../../../echinodermata/asteroidea/archaster.md">Common sea star</a>
+. Stuck on the upper side of the sea star, sometimes in between the arms in the ‘arm pit’ of the sea star. Also on a
+<a href="../../../echinodermata/holothuroidea/colochirus.md">Thorny sea cucumber</a>
+. As well as on
+<a href="../../../echinodermata/echinoidea/urchin/salmacis.md">White sea urchins</a>
+.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/eulimidae/eulimidae/120722cyrs00771m3a.jpg" alt="" />
+        <div class="caption">
+        Cyrene Reef, Jul 12 On Common sea star .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/eulimidae/eulimidae/120722cyrs00773m3.jpg" alt="" />
+        <div class="caption">
+        Cyrene Reef, Jul 12 On Common sea star .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/eulimidae/eulimidae/110830cyrd0423m3b.jpg" alt="" />
+        <div class="caption">
+        Cyrene Reef, Aug 11 On Common sea star .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Ulimid snails on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470@N00&amp;sort=date-posted-desc&amp;view_all=1&amp;text=Eulimidae">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Eulimidae/map?&amp;fLat=1.2626&amp;fLon=103.8654&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/eulimidae/eulimidae/150123chg7mn.jpg" alt="" />
+        <div class="caption">
+        Changi, Jan 15 Photo shared by Marcus Ng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/eulimidae/eulimidae/160210ecplks.JPG" alt="" />
+        <div class="caption">
+        East Coast Park, Feb 16 On a Painted sand star . Photo shared by Loh Kok Sheng on flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/echinodermata/holothuroidea/colochirus/090623ecpjk3m3.jpg" alt="" />
+        <div class="caption">
+        East Coast, Jun 09 On a sea cucumber . Photo shared by James Koh on flickr .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/echinodermata/echinoidea/urchin/salmacis/170527cyrsbr.jpg" alt="" />
+        <div class="caption">
+        Cyrene, May 17 On White Salmacis urchin . Photo shared on Singapore Biodiversity Records.
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Familty Eulimidae recorded for Singapore</strong>
+from Tan Siong Kiat and Henrietta P. M. Woo, 2010
+<em>Preliminary Checklist of The Molluscs of Singapore</em>
+.</p>
+
+<p>+Other additions (Singapore Biodiversity Record, etc)
+<a href="http://www.marinespecies.org/">http://www.marinespecies.org/</a></p>
+
+<p><strong>Family Eulimidae</strong></p>
+
+<p><em>+Eulima adamsii</em>
+*Melanella aciculata</p>
+
+<p>Melanella martinii</p>
+
+<p>Niso hizensis</p>
+
+<p>Pyramidelloides mirandus</p>
+
+<p>+Vitreobalcis*
+sp.</p>
+
+<hr />
+
+<p><strong>References</strong></p>
+
+<ul>
+  <li>Calvin Jiah Jay Leow. 31 August 2020.
+<em>Parasitic snail, Eulima adamsii, on sand dollar Arachnoides placenta.</em>
+Singapore Biodiversity Records 2020: 127 ISSN 2345-7597</li>
+  <li>Ying Lynette Shu Min. 29 Sep 2017.
+<em>Parasitic snails, Vitreobalcis sp., on white sea urchins (Salmacis sphaeroides) at Cyrene Reef</em>
+. Singapore Biodiversity Records 2017: 123-124.</li>
+  <li>Tan Siong Kiat and Henrietta P. M. Woo, 2010
+<em>Preliminary Checklist of The Molluscs of Singapore</em>
+(pdf), Raffles Museum of Biodiversity Research, National University of Singapore.</li>
+  <li>Coleman, Neville. 2003.
+<em>2002 Sea Shells: Catalogue of Indo-Pacific Mollusca</em>
+Neville Coleman’s Underwater Geographic Pty Ltd, Australia.144pp.</li>
+</ul>
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

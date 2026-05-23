@@ -1,0 +1,584 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Hydroids | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="hydroid, hydrozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/candy/040409tusad0141m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Cnidaria">Cnidaria</a>
+                    > 
+                    <a href="/Cnidaria/Hydrozoa">Hydrozoa</a>
+                    > 
+                    <a href="/Cnidaria/Hydrozoa/Anthoathecata">Anthoathecata</a>
+                    >
+                    <a href="/Cnidaria/Hydrozoa/Anthoathecata/Filifera">Filifera</a>
+                    >
+                    <a href="/Cnidaria/Hydrozoa/Anthoathecata/Filifera/Bougainvilliidae">Bougainvilliidae</a>
+                </p>
+                <h1>Hydroids</h1>
+                
+                    <p class="scientific-name">Family Bougainvilliidae</p>
+                
+
+                <p><em>Updated May 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about them ... Often mistaken for plants, they are animals! Some can sting powerfully. Don't touch them. Each 'bush' is a colony of many little polyps.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        Often mistaken for plants, they are animals! Some can sting powerfully. Don't touch them. Each 'bush' is a colony of many little polyps.
+        </div>
+    </div>
+    
+
+</div>
+
+<h2 id="where-seen">Where seen?</h2>
+<p>A wider variety of those that are large and attached to hard surfaces are commonly encountered on our Northern intertidal shores. Forming colourful fluffy patches. Some fiery stinging ones are also commonly seen on our Southern Islands. They are often overlooked as they resemble plants. Many small to tiny jellyfish-like hydroids are recorded in the water (unattached to surfaces).</p>
+
+<p><strong>What are hydroids?</strong>
+They belong to
+<a href="../../cnidaria.md">Phylum Cnidaria</a>
+. ‘Hydrozoa’ means ‘water animals’ in Greek. Hydrozoans may look like
+<a href="thread.md">jellyfish</a>
+or appear to be branching plants. There are about 3,000 known species of the Class Hydrozoa.</p>
+
+<h2 id="features">Features</h2>
+
+<p>Hydroids are colonial animals. The polyps are tiny (1mm tall with a smaller diameter). In branching forms, the polyps are encased in a ‘skin’ made of chitin (the same substance that insect exoskeleton is made of). In some, each polyp lives in a bell-shaped ‘container’ with a lid. The colony often takes on feathery, branching plant-like forms. The branches arise from a central stalk that is attached to a hard surface.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/candy/040409tusad0141m3.jpg" alt="" />
+        <div class="caption">
+        Colourful Candy hydroids . Tuas, Apr 04
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/140420sisd4964.jpg" alt="" />
+        <div class="caption">
+        Blue button jellyfish (Porpita porpita) Sisters Island, Apr 14
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/thread/040409tuscd0019m3.jpg" alt="" />
+        <div class="caption">
+        This jellyfish belongs to Class Hydrozoa. Tuas, Apr 04
+        </div>
+    </div>
+    
+
+</div>
+<p>The colony may be made up of two different kinds of polyps. Feeding polyps look like sea anemones with tentacles armed with
+<a href="../../cnidaria.md">stingers like other Cnidrians</a>
+. These stingers are used to gather food particles from the water.</p>
+
+<p>Other polyps function as reproductive organs and often don’t have tentacles. Some hydroids have defensive polyps, usually club-shaped and well armed with stingers that can inject toxins or are sticky. These not only protect the colony but may also help to capture tiny prey.</p>
+
+<p>Fire corals (
+<em>Millepora</em>
+sp.) are hydroids that produce a massive skeleton so they appear to be hard corals. As their name suggests, these animals have powerful stingers.</p>
+
+<p><a href="stinging.md">Stinging hydroids</a>
+inflict powerful stings that can leave painful and hideous scars on the bare skin of careless visitors or divers.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/sertularella/100614bbd6022m3.jpg" alt="" />
+        <div class="caption">
+        Tiny polyps of the fern hydroid . Beting Bronok, Jun 10
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/120410chgd9302m3.jpg" alt="" />
+        <div class="caption">
+        Polyp of fluffy hydroid . Changi, Apr 12
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/candy/120508skdd2318m3.jpg" alt="" />
+        <div class="caption">
+        Capsules of candy hydroids . Pulau Sekudu, May 12
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>What do they eat?</strong>
+The feeding polyps gather food with tiny tentacles armed with stinging cells. The digested nutrients are shared with the rest of the colony. Some hydroids such as Fire corals (
+<em>Millepora</em>
+sp.) harbour symbiotic algae (zooxanthellae) in their bodies. The algae undergo photosynthesis to produce food from sunlight. The food produced is shared with the host, which in return provides the algae with shelter and minerals.</p>
+
+<p><strong>Living on a hydroid</strong>
+Despite their powerful stingers, some tiny animals such as amphipods actually live on them. Their stingers don’t deter some nudibranchs from eating them.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/stinging/050821bbg1938m3.jpg" alt="" />
+        <div class="caption">
+        Grass-like pale stinging hydroids . Beting Bronok, Aug 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/stinging/120803chgd9398m3.jpg" alt="" />
+        <div class="caption">
+        Tiny tentacles of stinging hydroids . Changi, Aug 12
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/mollusca/slugs/nudibranchia/sibogae/060812bbd6062m3.jpg" alt="" />
+        <div class="caption">
+        Cuthona nudibranch on Fern hydroid Beting Bronok, Aug 06
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Hydroid babies:</strong>
+To increase in size, the plant-like form buds new polyps and branches. Some species may produce ‘runners’ at the base along the surface that sprout new plant-like forms.</p>
+
+<p>Hydroids may also reproduce in a more complicated way. In some hydroid species, the plant-like form produces tiny jellyfish-like forms (medusa) that break off from the branches and swim away. These forms are reproductively mature adults. Each hydroid usually produces either all male or all female medusa. The medusa produces eggs or sperm that are released into the water. For most hydroid species, however, the plant-like form does not release medusae. Instead, these egg- or sperm-producing forms remain attached to the branches. In yet other hydroids, the free-swimming reproductively mature medusa may bud off more genetically identical medusa before engaging in actual reproduction. Fertilised eggs eventually hatch into free-swimming planula larvae that eventually settle down onto a surface and growing into a new branching colony.</p>
+
+<p><strong>Status and threats:</strong>
+There is inadequate information as at 2024 to make an informed assesment of the conservation status of recorded hydroids in Singapore.</p>
+
+<hr />
+
+<p><strong>Some hydroids on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/stinging/050411tusd2333m3.jpg" alt="" />
+        <div class="caption">
+        Stinging hydroids
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/candy/020629chgd1211m3.jpg" alt="" />
+        <div class="caption">
+        Candy hydroids
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/040409tusad0129m3.jpg" alt="" />
+        <div class="caption">
+        Fluffy hydroids
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/sertularella/030714bbd0074m3.jpg" alt="" />
+        <div class="caption">
+        Fern hydroids
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/050819cjg1531m3a.jpg" alt="" />
+        <div class="caption">
+        Delicate hydroids
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/seagrass/080208hntd9427m3.jpg" alt="" />
+        <div class="caption">
+        Seagrass hydroids grows on seagrasses.
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/giant/100812tpld0425m6l.jpg" alt="" />
+        <div class="caption">
+        Giant hydroids
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p>**Class Hydrozoa recorded for Singapore</p>
+
+<p><a href="../../cnidariaindex.md">text index</a>
+and photo index of
+<a href="../../hydrozoafi.md">hydroids</a>
+and
+<a href="../../jellyfishfi.md">jellyfish</a>
+seen on Singapore shores**
+Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.</p>
+
+<p><strong>Family Bougainvilliidae</strong></p>
+
+<p><em>Thamnostoma macrostomum</em></p>
+
+<p><strong>Family Porpitidae</strong></p>
+
+<p><em>Porpita porpita</em>
+(Blue button jellyfish)</p>
+
+<p><strong>Family Zancleidae</strong></p>
+
+<p><em>Zanclea</em>
+sp.</p>
+
+<p><a href="thread.md"><strong>Family Aequoreidae</strong></a>
+(Thread-tentacled jellyfish)</p>
+
+<p>*Aequorea conica</p>
+
+<p>Aequorea parva</p>
+
+<p>Aequorea pensilis*</p>
+
+<p><strong>Family Campanulariidae</strong></p>
+
+<p><em>Clytia</em>
+sp.</p>
+
+<p><strong>Family Eirenidae</strong></p>
+
+<p><em>Eirene hexanemalis</em></p>
+
+<p><strong>Family Phialuciidae</strong></p>
+
+<p><em>Phialucium mbengha</em></p>
+
+<p><strong>Family Abylidae</strong></p>
+
+<p><em>Ceratocymba leuckarti</em></p>
+
+<p><strong>Family Diphyidae</strong></p>
+
+<p>*Diphyes bojani</p>
+
+<p>Diphyes chamissonis</p>
+
+<p>Lensia*
+sp.</p>
+
+<p><strong>Family Physaliidae</strong></p>
+
+<p><em>Physalia</em>
+sp. (Blue bottle jellyfish)</p>
+
+<p><strong>Family Geryoniidae</strong></p>
+
+<p><em>Liriope tetraphylla</em>
+(Jewel jellyfish)</p>
+
+<p><strong>Family Olindiasidae</strong></p>
+
+<p><em>Craspedacusta sowerbii</em>
+(Freshwater jellyfish)</p>
+
+<p><strong>Family Solmundaeginidae</strong></p>
+
+<p><em>Solmundella</em>
+sp.</p>
+
+<p><strong>Family Cuninidae</strong></p>
+
+<p><em>Cunina duplicata</em></p>
+
+<p>Some
+<a href="../jellyfish/jellyfish.md">Jellyfishes</a>
+are classified as hydroids.</p>
+
+<hr />
+
+<p>th</p>
+
+<p>edition. McGraw-Hill Book Co., Singapore. 578 pp.</p>
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/116.md">Stinging hydroids</a>
+Tan, Leo W. H. &amp; Ng, Peter K. L., 1988.
+<em><a href="http://mangrove.nus.edu.sg/pub/seashore/">A Guide to Seashore Life</a></em>
+. The Singapore Science Centre, Singapore. 160 pp.</li>
+  <li><a href="http://www.habitas.org.uk/marinelife/splist.asp?group=CNIDARIA">Hydroids and anemones</a>
+on the
+<a href="http://www.habitas.org.uk/marinelife/">Encyclopedia of Marine Life of Britain and Ireland</a>
+Edited by Bernard E. Picton and Christine C. Morrow: photo and fact sheet</li>
+  <li><a href="http://www.ville-ge.ch/mhng/hydrozoa/hydrozoa-directory.md">The Hydrozoa Directory</a>
+on the Natural History Museum of Geneva website: photos and fact sheets with glossary of terms, covering everything you might want to know about hydroids from nematocysts to life cycle and more.</li>
+  <li><a href="http://www.vattenkikaren.gu.se/fakta/arter/cnidaria/hydrozoa/olikahe.html">Shallow-water hydroids</a>
+on Aquascope of the Tjarno Marine Biological Laboratory: some photos and titbits on the animals.</li>
+  <li><a href="http://www.seaslugforum.net/hydroids.md">Hydroids</a>
+on the Sea Slug Forum by Dr Bill Rudman: as hydroids are among the stuff that nudibranchs eat, there is some interesting information on them on this site.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li><em>Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore</em>
+by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024.
+<em>The Singapore Red Data Book: Threatened plants and animals of Singapore</em>
+. 3rd edition. National Parks Board. 663 pp</li>
+  <li>Ling Min Kang, Iffah Iesa, Danwei Huang, Nicholas Wei Liang Yap
+<em>Diversity of hydromedusae (Cnidaria: Medusozoa: Hydrozoa) at Sentosa, including three new records for Singapore waters</em>
+. Nature in Singapore 16: e2023076, 8 August 2023, DOI: 10.26107/NIS-2023-0076.</li>
+  <li>Ria Tan. 6 June 2014.
+<em>A blue button at Sisters Islands, Porpita pacifica</em>
+. Singapore Biodiversity Records 2014: 151</li>
+  <li>Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.
+<em>Invertebrate Zoology</em>
+Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963</li>
+  <li>Pechenik, Jan A., 2005.
+<em>Biology of the Invertebrates</em>
+. 5</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Soldier crab  | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="soldier, crab, dotilla, myctiroides, dotillidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/041127cjd8656m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Arthropoda">Arthropoda</a>
+                    > 
+                    <a href="/Arthropoda/Malacostraca">Malacostraca</a>
+                    > 
+                    <a href="/Arthropoda/Malacostraca/Decapoda">Decapoda</a>
+                    >
+                    <a href="/Arthropoda/Malacostraca/Decapoda/Pleocyemata">Pleocyemata</a>
+                    >
+                    <a href="/Arthropoda/Malacostraca/Decapoda/Pleocyemata/Dotillidae">Dotillidae</a>
+                </p>
+                <h1>Soldier crab </h1>
+                
+                    <p class="scientific-name">Dotilla myctiroides</p>
+                
+
+                <p><em>Updated Dec 2019</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about them ... They are everywhere on the sandy shore at low tide. Don't step on them! They are very shy. To see them, wait quietly without moving. Unlike most crabs, they can run forwards, backwards as well as sideways.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        They are everywhere on the sandy shore at low tide. Don't step on them! They are very shy. To see them, wait quietly without moving. Unlike most crabs, they can run forwards, backwards as well as sideways.
+        </div>
+    </div>
+    
+
+</div>
+
+<h2 id="where-seen">Where seen?</h2>
+<p>This amusing tiny ball-shaped crab with enormously elongated pincers is sometimes seen on natural sand bars. While the shy crab itself is seldom seen (it hides as soon as it senses footsteps far away), the balls of sand that it leaves on the shore at low tide indicate where it is active. To spot one, you will have to wait quietly next to a burrow. Stay low and avoid casting a shadow over the burrow. In a few minutes, it and its neighbours will appear. If you stay still, they will go about their amusing business</p>
+
+<h2 id="features">Features</h2>
+
+<p>Body width to about 1.5cm. Body spherical, greenish eyes on short thick reddish stalks. Pincers very long, slender and folded downward with the claws pointed towards itself. The crab is well adapted for life out of water: it can absorb air through special parts of its legs which are thinner. It also absorbs water from the sand through silky hairs on the abdomen. Unlike most crabs, the soldier crab can run forwards as well as sideways. And it can move very fast indeed!</p>
+
+<p><em>Dotilla wichmani</em>
+looks like other
+<a href="scopimera.md">sand bubbler crabs</a>
+. It is smaller (body width up to 1cm) and prefers sandier areas not wandering far from its hole.
+<em>Dotilla myctiroides</em>
+is larger (body width up to 1.5cm) and is found in muddier areas often moving around in large groups at low tide. This habit of ‘trooping’ in numbers gave these crabs their common name.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/041127cjd8656m3.jpg" alt="" />
+        <div class="caption">
+        Chek Jawa, Nov 04
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/060225cjg4975m3a.jpg" alt="" />
+        <div class="caption">
+        Typical burrow with small and big sand balls around the opening. Chek Jawa, Feb 06
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/111129tmftd4218m3.jpg" alt="" />
+        <div class="caption">
+        'Igloo' built just before the incoming tide. Tanah Merah, Nov 11
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Burrowing in a bubble of air:</strong>
+<a href="http://www.sciencedirect.com/science/article/pii/002209819600007X">A study found</a>
+that
+<em>Dotilla myctiroides</em>
+in wet semi-fluid sand builds an ‘igloo’ of sand pellets by rotating itself, in order to seal a bubble of air around itself in the wet sand. Beneath the sand, the crab continues to scoop sand from below it and plaster the sand above the bubble of air. In this way, the crab in its bubble of air is able to burrow downwards. In more stable sand, the crab builds a vertical burrow.</p>
+
+<p><strong>What does it eat?</strong>
+The soldier crab eats the thin coating of detritus on sand grains. Sand grains are scraped up with the downward pointing pincers and brought to the mouthparts that then sift out any tiny food particles.
+The shifted sand is then discarded in a little ball. The bigger untidy balls are sand pellets dug out of the burrow.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/070616cjg0403m3.jpg" alt="" />
+        <div class="caption">
+        Chek Jawa, Jun 07
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/070616cjg0404m3.jpg" alt="" />
+        <div class="caption">
+        Creating an 'igloo' in wet sand with the incoming tide.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/070616cjg0405m3.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Status and threats:</strong>
+One of our soldier crab species (
+<em>Dotilla myctiroides</em>
+) is listed among the threatened animals of Singapore due to loss of our natural beaches. While somewhat common on Chek Jawa, they are not commonly seen elsewhere in Singapore.
+Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors can also have an impact on local populations.</p>
+
+<hr />
+
+<p><strong>Soldier crabs on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470%40N00&amp;sort=date-posted-desc&amp;view_all=1&amp;text=Dotilla">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Dotilla/map?&amp;fLat=1.2619&amp;fLon=103.8661&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/171105cjay1.jpg" alt="" />
+        <div class="caption">
+        Chek Jawa, Nov 17 Shared by Abel Yeo on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/151001blylks2.jpg" alt="" />
+        <div class="caption">
+        Berlayar Creek, Oct 15 Shared by Loh Kok Sheng on flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/090109sjilks01m3.jpg" alt="" />
+        <div class="caption">
+        St. John's Island, Jan 09 Shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/090224lazlks04m3.jpg" alt="" />
+        <div class="caption">
+        Lazarus Island, Feb 09 Shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/160208smkshpy4.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau South, Feb 16 Photo shared by Heng Pei Yan on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/091204pawd5191m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Pawai, Dec 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/091205sudd5475m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Sudong, Dec 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/100810snglks1m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Senang, Aug 10 Photo shared by Loh Kok Sheng on his flickr .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/192.md">Soldier crab (
+<em>Dotilla</em>
+sp.)</a>
+Tan, Leo W. H. &amp; Ng, Peter K. L., 1988.
+<em><a href="http://mangrove.nus.edu.sg/pub/seashore/">A Guide to Seashore Life</a></em>
+. The Singapore Science Centre, Singapore. 160 pp.</li>
+  <li><a href="http://mangrove.nus.edu.sg/guidebooks/text/2052.md">Soldier crab (
+<em>Dotilla myctiroides</em>
+)</a>
+Ng, Peter K. L. &amp; N. Sivasothi, 1999.
+<em><a href="http://mangrove.nus.edu.sg/guidebooks/">A Guide to the Mangroves of Singapore II (Animal Diversity)</a></em>
+. Singapore Science Centre. 168 pp.</li>
+  <li><a href="http://www.sealifebase.fisheries.ubc.ca/summary/speciessummary.php?id=2381111"><em>Dotilla myctiroides</em></a>
+and
+<em><a href="http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=2381110">Dotilla wichmanni</a></em>
+on SeaLife Base: Technical fact sheet.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Satoshi Takeda, Masatoshi Matsumasa, Hoi-Sen Yong, Minoru Murai. 15 June 1996.
+<a href="http://www.sciencedirect.com/science/article/pii/002209819600007X">‘Igloo’ construction by the ocypodid crab,
+<em>Dotilla myctiroides</em>
+(Milne-Edwards) (Crustacea; Brachyura): the role of an air chamber when burrowing in a saturated sandy substratum</a>
+Journal of Experimental Marine Biology and Ecology Volume 198, Issue 2, Pages 237-247.</li>
+  <li>Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
+<em>Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs of the world</em>
+. The Raffles Bulletin of Zoology. Supplement No. 17, 31 Jan 2008. 286 pp.</li>
+  <li>Lim, S., P. Ng, L. Tan, &amp; W. Y. Chin, 1994.
+<em>Rhythm of the Sea: The Life and Times of Labrador Beach.</em>
+Division of Biology, School of Science, Nanyang Technological University &amp; Department of Zoology, the National University of Singapore. 160 pp.</li>
+  <li>Ng, P. K. L. &amp; Y. C. Wee, 1994.
+<em>The Singapore Red Data Book: Threatened Plants and Animals of Singapore</em>
+. The Nature Society (Singapore), Singapore. 343 pp.</li>
+  <li>Jones Diana S. and Gary J. Morgan, 2002.
+<em>A Field Guide to Crustaceans of Australian Waters</em>
+. Reed New Holland. 224 pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

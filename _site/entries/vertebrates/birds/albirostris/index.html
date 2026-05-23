@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Oriental pied-hornbill | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="oriental, pied, hornbill, anthracoceros, albirostris, bucerotidae, birds, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/vertebrates/birds/albirostris/050126cjd9843m6l.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Chordata">Chordata</a>
+                    > 
+                    <a href="/Chordata/Aves">Aves</a>
+                    > 
+                    <a href="/Chordata/Aves/Bucerotiformes">Bucerotiformes</a>
+                    >
+                    <a href="/Chordata/Aves/Bucerotiformes/"></a>
+                    >
+                    <a href="/Chordata/Aves/Bucerotiformes//Bucerotidae">Bucerotidae</a>
+                </p>
+                <h1>Oriental pied-hornbill</h1>
+                
+                    <p class="scientific-name">Anthracoceros albirostris</p>
+                
+
+                <p><em>Updated Oct 2016</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>Oriental pied-hornbills are commonly seen on Pulau Ubin and sometimes also at Changi. They are the only truly wild hornbills found on Singapore. Unlike most other hornbills, Oriental pied-hornbills can be found outside primary rainforests and may visit inhabited areas to feed on fruit. But they still depend on large living trees for nesting sites.</p>
+
+<p>*<img src="http://www.wildsingapore.com/wildfacts/vertebrates/birds/albirostris/050126cjd9843m6l.jpg" alt="" /></p>
+
+<p>Pulau Ubin, Jan 05*</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/birds/albirostris/050126cjd9848m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Ubin, Jan 05 Pulau Ubin, Feb 04 Chek Jawa, Mar 10
+        </div>
+    </div>
+    
+
+</div>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/plants/others/ficus/microcarpa/100314cjd9940m3.jpg" alt="" />
+        <div class="caption">
+        Chek Jawa, Mar 10
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/plants/others/ficus/microcarpa/100314cjd9947m3.jpg" alt="" />
+        <div class="caption">
+        Chek Jawa, Mar 10
+        </div>
+    </div>
+    
+
+</div>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/birds/albirostris/100314cjd0014m3.jpg" alt="" />
+        <div class="caption">
+        Chek Jawa, Mar 10 Nesting box in use?
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/birds/albirostris/091121cjd4573m6l.jpg" alt="" />
+        <div class="caption">
+        Artificial nesting box. Chek Jawa, Nov 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/birds/albirostris/091203ubnd4894m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Ubin, Dec 09
+        </div>
+    </div>
+    
+
+</div>
+
+<hr />
+
+<p><strong>Oriental pied-hornbills on Singapore shores</strong></p>
+
+<hr />
+
+<p>Photos of
+<a href="https://www.flickr.com/search/?user_id=54527470%40N00&amp;sort=date-posted-desc&amp;text=Anthracoceros%20albirostris&amp;advanced=1&amp;view_all=1">Oriental pied-hornbills</a>
+or free download from
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<hr />
+
+<p>Distribution in Singapore on
+<a href="https://www.flickr.com/photos/wildsingapore/tags/Anthracoceros%2520albirostris/map?&amp;fLat=1.2629&amp;fLon=103.8661&amp;zl=11&amp;order_by=recent">this wildsingapore flickr map</a></p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://habitatnews.nus.edu.sg/pub/naturewatch/text/a061f.md">The only truly ‘wild’ hornbills</a>
+by Lim Kim Seng on the Nature Watch website: brief explanation of the hornbills sighted in Singapore.</li>
+  <li><a href="http://members.fortunecity.com/mnsperak/oph/nesting.html">Nesting Observations of the Oriental Pied Hornbill</a>
+by Dr Chan Kai Soon of the Malayan Nature Society: a fascinating record of observations</li>
+  <li><a href="https://singapore.biodiversity.online/taxo4254/mainSpace/Anthracoceros albirostris.html">Oriental pied-hornbill</a>
+on Taxo4254.</li>
+  <li><a href="http://wildsingaporenews.blogspot.com/2009/04/hornbills-can-thrive-in-urban-singapore.html">Hornbills can thrive in urban Singapore</a>
+Straits Times Forum 6 Apr 09;</li>
+  <li><a href="http://wildsingaporenews.blogspot.com/2009/03/wild-hornbill-seeks-mr-right.html">Wild hornbill seeks Mr Right</a>
+Grace Chua, Straits Times 24 Mar 09;</li>
+  <li><a href="http://wildsingaporenews.blogspot.com/2009/01/intelligent-nests-for-pied-hornbills-in.html">‘Intelligent nests’ for pied hornbills in Singapore</a>
+Grace Chua, Straits Times 8 Jan 09;</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+<em>The Singapore Red Data Book: Threatened plants and animals of Singapore</em>
+. Nature Society (Singapore). 285 pp.</li>
+  <li>Strange, Morten &amp; Allan Jeyarajasingam, 1999.
+<em>Birds : A Photographic Guide to the Birds of Peninsular Malaysia and Singapore</em>
+. Sun Tree Publishing Limited, Singapore. 258 pp.</li>
+  <li>Strange, Morten, 1998.
+<em>Birds of South-East Asia: A Photographic Guide to the Birds of Thailand, Malaysia, Singapore, the Philippines and Indonesia.</em>
+New Holland Publishers. 112 pp.</li>
+  <li>Strange, Morten, 2000.
+<em>Tropical Birds of Malaysia and Singapore. Periplus Editions, Hong Kong. 64 pp.</em></li>
+  <li>Lim, Kim Seng and Dana Gardner, 1997.
+<em>An Illustrated Field Guide to the Birds of Singapore</em>
+. Sun Tree Publishing Limited, Singapore. 226 pp.</li>
+  <li>Davidson, G. W. H. &amp; Chew Yen Fook, 1995.
+<em>A Photographic Guide to Birds of Peninsular Malaysia and Singapore</em>
+New Holland Publishers, UK. 144 pp.</li>
+  <li>Madoc, G. C., 1947 (1992 4th ed).
+<em>An Introduction to Malayan Birds</em>
+. The Malayan Nature Society, Kuala Lumpur. 227 pp.</li>
+  <li>Bucknill, John A. S. &amp; Chasen, F. N., 1927 (1990 ed.).
+<em>Birds of Singapore and South-east Asia</em>
+. Tynron Press, Scotland. 247 pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Angelfishes | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="angelfish, angel,  fish, pomacanthidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/mesoleucus/040605kusbd0137m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Chordata">Chordata</a>
+                    > 
+                    <a href="/Chordata/Actinopterygii">Actinopterygii</a>
+                    > 
+                    <a href="/Chordata/Actinopterygii/Acanthuriformes">Acanthuriformes</a>
+                    >
+                    <a href="/Chordata/Actinopterygii/Acanthuriformes/"></a>
+                    >
+                    <a href="/Chordata/Actinopterygii/Acanthuriformes//Pomacanthidae">Pomacanthidae</a>
+                </p>
+                <h1>Angelfishes</h1>
+                
+                    <p class="scientific-name">Family Pomacanthidae</p>
+                
+
+                <p><em>Updated Sep 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>These fishes are rarely seen naturally on the shore at low tide. They are more often encountered by divers in deeper waters. Those we’ve seen were sadly captured in fish traps or already in a fish tank.</p>
+
+<p><strong>What are angelfishes?</strong>
+They belong to Family Pomacanthidae which has 9 genera and 74 species. They are found in the Atlantic, Indian and Pacific oceans. They are closely related to the butterflyfishes (
+<a href="../chaetodontidae/chaetodontidae.md">Family Chaetodontidae</a>
+) and were previously placed in the butterflyfish family.</p>
+
+<h2 id="features">Features</h2>
+
+<p>Their bodies are flattened sideways with an overall shape that is rather rectangular. In many anglefish species, the juveniles are often very different from the adults, with strikingly different colours and patterns. There have been many theories about the purpose of the dazzling patterns of these fishes, but none have been proved with certainty. One theory is that the patterns break up the body outline under the patches of shadows and sunlight in the colourful reef environment where they are found.</p>
+
+<p>Some large species can produce a loud drumming or thumping sound.</p>
+
+<p>Most adults depend on shelter such as caves, rock- or coral-crevices. In the wild, they are seldom sighted in the open. They are mostly bottom feeders, dashing back and forth from feeding to their shelters.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/mesoleucus/040605kusbd0137m3.jpg" alt="" />
+        <div class="caption">
+        Yellowtail or Vermiculated anglefish caught in a fish trap. Kusu Island, Jun 04
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/annularis/110418tmftd9010m6l.jpg" alt="" />
+        <div class="caption">
+        The juvenile looks very different. Tanah Merah, Apr 11
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>What do they eat?</strong>
+As a family, they eat a wide variety of things. These include filamentous algae, zooplankton as well as sponges, small animals and fish eggs.</p>
+
+<p><strong>Angelfish babies:</strong>
+Most can change gender (protogynous hermaphrodites) and have a social system of one male with a harem of females. The male usually has 2-5 females in his harem and is territorial, claiming about a few square metres to more than 1,000 square metres as his territory. They usually spawn at sunset. The male performs a courtship display when a female approaches; involving fin raising, rapid swimming back and forth, and quivering his body. The male and female then slowly spiral towards the surface and suddenly release eggs and sperm simultaneously into the water before swimming back to the bottom. The male may mate with several females one after another.</p>
+
+<p><strong>Human uses:</strong>
+Many members of this family are harvested from the wild for the live aquarium trade.</p>
+
+<p><strong>Status and threats:</strong>
+Some members of the Family Pomacanthidae are listed among the threatened animals of Singapore. Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Poaching by hobbyists and overfishing can also have an impact on local populations.</p>
+
+<hr />
+
+<p><strong>Some Angelfishes on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/mesoleucus/120721tptlks.JPG" alt="" />
+        <div class="caption">
+        Yellowtail or Vermiculated anglefish
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/annularis/060114cjg3805m3.jpg" alt="" />
+        <div class="caption">
+        Blue-ring angelfish
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Family Pomacanthidae recorded for Singapore</strong></p>
+
+<p>from Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+.</p>
+
+<p>**from
+<a href="http://www.marinespecies.org/">WORMS</a></p>
+
+<p>+Other additions (Singapore BIodiversity Records, etc)</p>
+
+<p>**</p>
+
+<p><strong>Family Pomacanthidae</strong></p>
+
+<p><em><a href="mesoleucus.md">Chaetodontoplus mesoleucus</a></em>
+(Yellowtail or Vermiculated angelfish)
+**
+<em>Chaetodontoplus septentrionalis</em>
+(Blue-striped angelfish)
+<em><a href="annularis.md">Pomacanthus annularis</a></em>
+(Bluering angelfish)
+*Pomacanthus imperator</p>
+
+<p>+Pomacanthus semicirculatus*
+(Semicircle anglefish)
+<em>Pomacanthus sexstriatus</em>
+(Six-barred angelfish)
+<em>Pomacanthus striatus=**Pomacanthus maculosus</em></p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li>Lim, Kelvin K. P. &amp; Jeffrey K. Y. Low, 1998.
+<em><a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/">A Guide to the Common Marine Fishes of Singapore</a></em>
+. Singapore Science Centre. 163 pp.</li>
+  <li>
+    <dl>
+      <dt><a href="http://www.fishbase.org/Summary/FamilySummary.cfm?ID=460">Family Pomacanthidae</a></dt>
+      <dt>and</dt>
+      <dt><em><a href="http://www.fishbase.org/summary/5660">Chaetodontoplus mesoleucus</a></em></dt>
+      <dt><a href="http://www.fishbase.org/summary/5660">(Vermiculated angelfish)</a></dt>
+      <dt>and</dt>
+      <dt>[<em>Pomacanthus annularis</em></dt>
+      <dt>(Bluering angelfish)](http://www.fishbase.org/summary/7902)</dt>
+      <dt>and</dt>
+      <dt>[<em>Pomacanthus imperator</em></dt>
+      <dt>(Emperor angelfish)](http://www.fishbase.org/summary/6504)</dt>
+      <dt>and</dt>
+      <dt>[<em>Pomacanthus semicirculatus</em></dt>
+      <dt>(Semicircle angelfish)](http://www.fishbase.org/summary/5663)</dt>
+      <dt>and</dt>
+      <dt>[<em>Pomacanthus sexstriatus</em></dt>
+      <dt>(Sixbar angelfish)](http://www.fishbase.org/summary/6564)</dt>
+      <dt>and</dt>
+      <dt>[<em>Pomacanthus maculosus</em></dt>
+      <dt>(Yellowbar angelfish)](http://www.fishbase.org/summary/7903)</dt>
+      <dt>from</dt>
+      <dt><a href="http://www.fishbase.org/">FishBase</a></dt>
+      <dd>Technical fact sheets.</dd>
+    </dl>
+  </li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li><em>Semicircle angelfish (Pomacanthus semicirculatus) off Pulau Hantu,</em>
+29 November 2019, Toh Chay Hoon, Singapore Biodiversity Records 2019: 147 ISSN 2345-7597, National University of Singapore.</li>
+  <li>Tan Heok Hui &amp; Kelvin K. P. Lim. 16 Jan 2015.
+<em>Blue-striped angelfish and longfin bannerfish from Singapore</em>
+. Singapore Biodiversity Records 201: 12-13 ISSN 2345-7597</li>
+  <li>Tan Heok Hui. 17 January 2014.
+<em>Semicircle angelfish from Tuas</em>
+. Singapore Biodiversity Records 2014: 26 .</li>
+  <li>Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+. National Council on the Environment. 163pp.</li>
+  <li>Allen, Gerry, 2000.
+<em>Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers</em>
+. Periplus Editions. 292 pp.</li>
+  <li>Kuiter, Rudie H. 2002.
+<em>Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers &amp; Fishermen</em>
+New Holland Publishers. 434pp.</li>
+  <li>Lieske, Ewald and Robert Myers. 2001.
+<em>Coral Reef Fishes of the World</em>
+Periplus Editions. 400pp.</li>
+  <li>Lim, S., P. Ng, L. Tan, &amp; W. Y. Chin, 1994.
+<em>Rhythm of the Sea: The Life and Times of Labrador Beach</em>
+. Division of Biology, School of Science, Nanyang Technological University &amp; Department of Zoology, the National University of Singapore. 160 pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

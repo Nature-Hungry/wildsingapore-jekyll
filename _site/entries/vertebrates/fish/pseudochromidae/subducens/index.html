@@ -1,0 +1,732 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Carpet eel-blenny | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="carpet, eel, blenny, eelblenny, fish, congrogadus, subducens, pseudochromidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/040703sisg0982m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Chordata">Chordata</a>
+                    > 
+                    <a href="/Chordata/Actinopterygii">Actinopterygii</a>
+                    > 
+                    <a href="/Chordata/Actinopterygii/Blenniiformes">Blenniiformes</a>
+                    >
+                    <a href="/Chordata/Actinopterygii/Blenniiformes/"></a>
+                    >
+                    <a href="/Chordata/Actinopterygii/Blenniiformes//Pseudochromidae">Pseudochromidae</a>
+                </p>
+                <h1>Carpet eel-blenny</h1>
+                
+                    <p class="scientific-name">Congrogadus subducens</p>
+                
+
+                <p><em>Updated Sep 2019</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about it ... Often mistaken for an eel or snake, it is actually a harmless fish. It may be green, brown or even bluish. It is well camouflaged. Don't step on it!
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        Often mistaken for an eel or snake, it is actually a harmless fish. It may be green, brown or even bluish. It is well camouflaged. Don't step on it!
+        </div>
+    </div>
+    
+
+</div>
+
+<h2 id="where-seen">Where seen?</h2>
+<p>This snake-like fish is commonly seen on many of our shores, among coral rubble and near seagrasses. Most are well camouflaged and are thus often overlooked. Big ones trapped in small pools at low tide usually hide deep under coral rubble with only a bit of the tail sticking out. But small ones may be seen swimming about in larger pools among seagrass, corals or coral rubble.</p>
+
+<dl>
+  <dt><strong>What are carpet eel-bleenies?</strong></dt>
+  <dt>Often mistaken for a snake, this fish is not even an eel! It belongs to the Family Pseudochromidae (also called Dottybacks). According to</dt>
+  <dt><a href="http://www.fishbase.org/Summary/FamilySummary.cfm?ID=291">FishBase</a></dt>
+  <dd>The family has 16 genera and 98 species. Most are live in the Indo-Pacific Ocean. Many of the other members of the family are smaller and a lot shorter (about 10cm long or less), and some are very colourful. Carpet eel-blennies belong to the subfamily Congrogadinae (they were previously in a separate family Congrogadidae).</dd>
+</dl>
+
+<h2 id="features">Features</h2>
+
+<p>Up to 30cm long, those seen are about 10-15cm long, but tiny ones 5cm or less can also be seen. Body cylindrical, somewhat flattened sideways, tapering to an eel-like tail, with the dorsal, anal and tail fins continous. Unlike true eels, it has pectoral fins and scales, and large gill covers. Large mouth with thick lips, and large eyes near the top of the head. Being long and narrow, the fish can easily squirm through tight openings and hide in crevices. Its floral markings add to its camouflage. It can also change its colours. Besides the more commonly seen greenish ones, colours seen include brown, dull to bright green, black and even bluish ones.</p>
+
+<p><strong>Sometimes mistaken for</strong>
+<a href="../../snakes/hydrophiidae/laticauda.md">sea snakes</a>
+or
+<a href="../muraenidae/muraenidae.md">eels</a>
+(Family Muraenidae). Here’s more on
+<a href="../../../glossary/eelsnake.md">how to tell apart sea snakes, eels and eel-like animals</a>
+.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/040703sisg0982m3.jpg" alt="" />
+        <div class="caption">
+        Sisters Island, Jul 04
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/120506sisd1191m6l.jpg" alt="" />
+        <div class="caption">
+        Tiny one hunting among Hairy green seaweed and Bryopsis slugs . Sisters Island, May 12
+        </div>
+    </div>
+    
+
+</div>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/040703sisd1598m6l.jpg" alt="" />
+        <div class="caption">
+        Dorsal, anal and tail fins are continuous. Sisters Island, Jul 04
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/040703sisg0982m3a.jpg" alt="" />
+        <div class="caption">
+        Large mouth, large eyes, large gill covers. Sisters Island, Jul 04
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>What does it eat?</strong>
+The Carpet eel-blenny preys on small fish, crabs and shrimps. It usually hunts alone.</p>
+
+<p><strong>Eel-blenny babies:</strong>
+Carpet eel-blennies lay their eggs in small clumps.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/090822sisd9645m3a.jpg" alt="" />
+        <div class="caption">
+        Caught a Tropical silverside . Sisters Island, Aug 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/160608cyrlks6.JPG" alt="" />
+        <div class="caption">
+        Caught a Diamond tuskfish . Cyrene Reef, Jun 16 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/100528tkkjk.jpg" alt="" />
+        <div class="caption">
+        Doesn't appear to have lots of sharp teeth. Pulau Tekukor, May 10 Photo shared by James Koh on flickr .
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Human uses:</strong>
+Although large, the Carpet eel-blenny is not eaten by people. It is, however, harvested from the wild for the live aquarium trade and sold as “wolf eels”. But they are not the most popular aquarium fish, as they tend to eat their tankmates.</p>
+
+<p><strong>Status and threats:</strong>
+Other dottybacks are more popular in the aquarium trade. Harvesting may involve the use of cyanide or blasting, which damage the habitat and kill many other creatures. Like other fish and creatures harvested from the sea, most die before they can reach the retailers. Without professional care, most die soon after they are sold. Those that do survive are unlikely to breed successfully. Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Poaching by hobbyists also have an impact on local populations.</p>
+
+<hr />
+
+<p><strong>Carpet eel-blennies on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470%40N00&amp;sort=date-taken-desc&amp;view_all=1&amp;text=Congrogadus%20subducens">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Congrogadus%2520subducens/map?&amp;fLat=1.2629&amp;fLon=103.8647&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/110617pgllks.JPG" alt="" />
+        <div class="caption">
+        Punggol, Jun 11 Photo shared by Loh Kok Sheng on flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/190519prpjll4.jpg" alt="" />
+        <div class="caption">
+        Pasir Ris Park, May 19 Photo shared by Jianlin Liu on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/200723bblks3.jpg" alt="" />
+        <div class="caption">
+        Beting Bronok, Jul 20 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/170723ubnay8.jpg" alt="" />
+        <div class="caption">
+        Pulau Ubin, Jul 17 Photo shared by Abel Yeo on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/210528chg7lks4.jpg" alt="" />
+        <div class="caption">
+        Changi Carpark 7, May 21 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/130625ecplks.JPG" alt="" />
+        <div class="caption">
+        East Coast Park, Jun 13 Photo shared by Loh Kok Sheng on flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/220813pcnlks2.jpg" alt="" />
+        <div class="caption">
+        East Coast PCN, Aug 22 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/090808tmtch1m3.jpg" alt="" />
+        <div class="caption">
+        Tanah Merah, Aug 09 Photo shared by Toh Chay Hoon on her blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/091218tmlks3m3.JPG" alt="" />
+        <div class="caption">
+        Tanah Merah, Dec 09 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/251011lablks7.jpg" alt="" />
+        <div class="caption">
+        Labrador, Oct 25 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/151029sntmn.jpg" alt="" />
+        <div class="caption">
+        Sentosa, Oct 15 Photo shared by Marcus Ng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/100420snttch1m3.jpg" alt="" />
+        <div class="caption">
+        Sentosa, Apr 10 Photo shared by Toh Chay Hoon on her blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/100710cyrmn1m3.jpg" alt="" />
+        <div class="caption">
+        Cyrene Reef, Jul 10 Photo shared by Marcus Ng on his flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/080509cyrlks01m3.jpg" alt="" />
+        <div class="caption">
+        Cyrene Reef, May 08 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/250726cyrlks3.jpg" alt="" />
+        <div class="caption">
+        Cyrene, Jul 25 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/160608cyrlks5.JPG" alt="" />
+        <div class="caption">
+        Caught a Diamond tuskfish . Cyrene Reef, Jun 16 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/100528tkkjk1m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Tekukor, May 10 Photo shared by James Koh on flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/110421jngrl1m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Jong, Apr 11 Photo shared by Russel Low on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/110619tslgjk6m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Selegie, Jun 11 Photo shared byJames Koh on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/180715thndc4.jpg" alt="" />
+        <div class="caption">
+        Terumbu Hantu, Jul 18 Photo shared by Dayna Cheah on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/150121tpkjll4m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Pempang Kecil, Jan 15 Photo shared by Jianlin Liu on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/250712tplal3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Pempang Laut, Jul 25 Photo shared by Adriene Lee on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/190521tpljll3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Pempang Laut, May 19 Photo shared by Jianlin Liu on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/100403tbbtch3m3.jpg" alt="" />
+        <div class="caption">
+        Beting Bemban Besar, Apr 10 Photo shared by Toh Chay Hoon on her blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/110522bbblks8m3.jpg" alt="" />
+        <div class="caption">
+        Beting Bemban Besar, May 11 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/110422tbmro1m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Bemban, Apr 11 Photo shared by Rene Ong on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/080804rlhlks02m3.jpg" alt="" />
+        <div class="caption">
+        Raffles Lighthouse, Aug 08 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/100531biojk.jpg" alt="" />
+        <div class="caption">
+        Pulau Biola, May 10 Photo shared by James Koh on flickr .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/210428slutch3.jpg" alt="" />
+        <div class="caption">
+        Pulau Salu, Apr 21 Photo shared by Toh Chay Hoon on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Family Pseudochromidae recorded for Singapore</strong>
+from Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+.</p>
+
+<p><em>from Lim, Kelvin K. P. &amp; Jeffrey K. Y. Low, 1998.
+*A Guide to the Common Marine Fishes of Singapore.</em>
++Other additions (Singapore Biodiversity Records, etc)
+**</p>
+
+<p><strong>Family Pseudochromidae</strong></p>
+
+<p><em>+Pseudochromis ransonneti</em>
+(Yellowbelly dottyback)
+<em>*Congrogadus subducens</em>
+(Carpet eel-blenny)</p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/306.md">Carpet eel-blenny (
+<em>Congrogadus subducens</em>
+)</a>
+Lim, Kelvin K. P. &amp; Jeffrey K. Y. Low, 1998.
+<em><a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/">A Guide to the Common Marine Fishes of Singapore</a>
+.</em>
+Singapore Science Centre. 163 pp.</li>
+  <li>
+    <dl>
+      <dt><a href="http://www.fishbase.org/Summary/FamilySummary.cfm?ID=291">Family Pseudochromidae</a></dt>
+      <dt>and</dt>
+      <dt><a href="http://www.fishbase.org/summary/57899">Karimunjawa dottyback (</a></dt>
+      <dt><a href="http://www.fishbase.org/summary/57899"><em>Pseudochromis ransonneti</em></a></dt>
+      <dt><a href="http://www.fishbase.org/summary/57899">)</a></dt>
+      <dt>and</dt>
+      <dt>[Carpet eel-blenny (</dt>
+      <dt><em>Congrogadus subducens</em></dt>
+      <dt>)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=4419)</dt>
+      <dt>from</dt>
+      <dt><a href="http://www.fishbase.org/">FishBase</a></dt>
+      <dd>Technical fact sheet.</dd>
+    </dl>
+  </li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Tan Yee Keat.
+<em>A yellowbelly dottyback (Pseudochromis ransonneti) off Pulau Satumu.</em>
+31 October 2017. Singapore Biodiversity Records 2017: 148-149 ISSN 2345-7597. National University of Singapore.</li>
+  <li>Heng Pei Yan. 7 March 2014.
+<em>Yellowbelly dottyback courtship behaviour, Pseudochromis ransonneti.</em>
+Singapore Biodiversity Records 2014: 65-66</li>
+  <li>Heng Pei Yan &amp; Kelvin K. P. Lim. 15 November 2013.
+<em>Some noteworthy reef fishes at Pulau Hantu: Yellowbelly dottyback, Pseudrochromis ransonneti</em>
+. Singapore Biodiversity Records 2013: 65-67.</li>
+  <li>Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+. National Council on the Environment. 163pp.</li>
+  <li>Allen, Gerry, 2000.
+<em>Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers</em>
+. Periplus Editions. 292 pp.</li>
+  <li>Lieske, Ewald and Robert Myers. 2001.
+<em>Coral Reef Fishes of the World</em>
+Periplus Editions. 400pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

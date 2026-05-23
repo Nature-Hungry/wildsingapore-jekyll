@@ -1,0 +1,561 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Blue-dot margined | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="blue, dotted, flat, worm, flatworm, pseudoceros, indicus, polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/050710skdg9385m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Platyhelminthes">Platyhelminthes</a>
+                    > 
+                    <a href="/Platyhelminthes/"></a>
+                    > 
+                    <a href="/Platyhelminthes//Polycladida">Polycladida</a>
+                    >
+                    <a href="/Platyhelminthes//Polycladida/Cotylea">Cotylea</a>
+                    >
+                    <a href="/Platyhelminthes//Polycladida/Cotylea/Pseudocerotidae">Pseudocerotidae</a>
+                </p>
+                <h1>Blue-dot margined</h1>
+                
+                    <p class="scientific-name">Pseudoceros indicus*</p>
+                
+
+                <p><em>Updated Feb 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This little flatworm with blue dots on its body margin is often seen on many of our shores. On rocky shores, on boulders and under stones, also near reefs.</p>
+
+<h2 id="features">Features</h2>
+
+<p>2-3cm long. Body uniformly white or cream with closely-set dark blue dots along the body margin. When the worm is contracted, the dots merge so the worm appears to have a solid blue margin. The body margins are only slightly ruffled when the worm is in water. It has a pair of pseudotentacles at the front made up of simple folded edges of the body.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/050710skdg9385m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Sekudu, Jul 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/050710skdg9385m3a.jpg" alt="" />
+        <div class="caption">
+        Front end of the worm.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/060323ulrd0461m3.jpg" alt="" />
+        <div class="caption">
+        Faint line in the centre is the intestine showing through the body. Pulau Hantu, Mar 06
+        </div>
+    </div>
+    
+
+</div>
+<p>Sometimes a faint central stripe is seen. This is the intestine that shows through the body and is not an identifying mark for the worm species.</p>
+
+<p>The worms have been observed enveloping spherical objects. Could they be eating the
+<a href="../../ascidiacea/eudistoma.md">Yellow clustered bead ascidians</a>
+(
+<em>Eudistoma</em>
+sp.) that grow on the rocks? They have also been seen on
+<a href="../../ascidiacea/beige.md">Beige sheet ascidians</a>
+.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/ascidiacea/beige/050822cjg2070m3.jpg" alt="" />
+        <div class="caption">
+        Seen on Beige ascidians . Chek Jawa, Aug 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/080619chgd5684m3.jpg" alt="" />
+        <div class="caption">
+        Eating Yellow clustered bead ascidians ? Changi, Jun 08
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/260217bsisjll4.jpg" alt="" />
+        <div class="caption">
+        Pinkness from something it ate? Big Sisters Island, Feb 26 Photo shared by Jianlin Liu on facebook .
+        </div>
+    </div>
+    
+
+</div>
+
+<p>**Tentative identification. Species are difficult to positively identify without close examination.</p>
+
+<p>On this website, they are grouped by external features for convenience of display.*</p>
+
+<hr />
+
+<p><strong>Blue-dot margined flatworms on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470%40N00&amp;sort=date-posted-desc&amp;view_all=1&amp;text=Pseudoceros%20indicus">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Pseudoceros%20indicus/map?&amp;fLat=1.2622&amp;fLon=103.8661&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/100614bblks1m3.jpg" alt="" />
+        <div class="caption">
+        Beting Bronok, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/170626skdjll1.jpg" alt="" />
+        <div class="caption">
+        Pulau Sekudu, Jun 17 Photo shared by Jianlin Liu on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/211009blyjll1.jpg" alt="" />
+        <div class="caption">
+        Berlayar Creek, Oct 21 Photo shared by Jianlin Liu on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/200805sntlks3.jpg" alt="" />
+        <div class="caption">
+        Sentosa Tg Rimau, Aug 20 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/160509srpis1.jpg" alt="" />
+        <div class="caption">
+        Sentosa Serapong, May 16 Photo shared by Ian Siah on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/141109lazmn1m3.jpg" alt="" />
+        <div class="caption">
+        Seringat-Kias, Nov 14 Photo shared by Marcus Ng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/100528tkklks6m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Tekukor, May 10 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/210824tkkjll2.jpg" alt="" />
+        <div class="caption">
+        Pulau Tekukor, Aug 21 Photo shared by Jianlin LIu on facebook
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/200126bsisjll3.jpg" alt="" />
+        <div class="caption">
+        Big Sisters Island, Jan 20 Photo shared by JIanlin Liu on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/090822sisnml3m3.JPG" alt="" />
+        <div class="caption">
+        Sisters Island, Aug 09 Photo shared by Neo Mei Lin on her blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/170129slglks.JPG" alt="" />
+        <div class="caption">
+        Terumbu Selegie, Jan 17* Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/210812jngjll2.jpg" alt="" />
+        <div class="caption">
+        Pulau Jong, Aug 21 Photo shared by Jianlin LIu on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/220504hntjll1.jpg" alt="" />
+        <div class="caption">
+        Pulau Hantu, May 22 Photo shared by Jianlin Liu on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/220814thntccn1.jpg" alt="" />
+        <div class="caption">
+        Terumbu Hantu, Aug 22 Photo shared by Che Cheng Neo on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/140811smkrl.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau, Aug 14 Photo shared by Russel Low on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/100502trytch7m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Raya, May 10 Photo shared by Toh Chay Hoon on her blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/111225tsmkjk2m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Semakau, Dec 11 Photo shared by James Koh on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/210402tmskjll5.jpg" alt="" />
+        <div class="caption">
+        Terumbu Semakau, Apr 21 Photo shared by Jianlin Liu on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/210428slutch2.jpg" alt="" />
+        <div class="caption">
+        Pulau Salu, Apr 21 Photo shared by Toh Chay Hoon on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/100403tbblks3m3.jpg" alt="" />
+        <div class="caption">
+        Beting Bemban Besar, Apr 10 Photo shared by Loh Kok Sheng on his flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/100617tbtch1m6l.jpg" alt="" />
+        <div class="caption">
+        Terumbu Bemban, Jun 10 Photo shared by Toh Chay Hoon on her blog .
+        </div>
+    </div>
+    
+
+</div>
+<p>**</p>
+
+<hr />
+
+<hr />
+<p><strong>Acknowledgement</strong></p>
+
+<p>Grateful thanks to Leslie H. Harris of the
+<a href="http://www.nhm.org/">Natural History Museum of Los Angeles County</a>
+for comments on this worm and its identification.</p>
+
+<p>Grateful thanks to Rene Ong for sharing details and identifying the flatworms on this page.</p>
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://polycladida.lifedesks.org/pages/4224"><em>Pseudoceros indicus</em></a>
+on Encyclopedia of Life, LifeDesks, Marine Flatworms - Polycladida: Technical fact sheet.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018.
+<em>A preliminary checklist and photographic catalogue of polyclad flatworms recorded from Singapore.</em>
+Nature in Singapore 2018 11: 77–125</li>
+  <li>D. M. Bolaños, B. Q. Gan &amp; R. S. L. Ong. 29 Jun 2016.
+<em>First records of pseudocerotid flatworms (Platyhelminthes: Polycladida: Cotylea) from Singapore: A taxonomic report with remarks on colour variation</em>
+.(pdf) The Raffles Bulletin of Zoology Supplement No. 34: 130-169 Pp. 130-169.</li>
+  <li>Chim C. K., R. S. L. Ong &amp; Gan B. Q.
+<em>Penis fencing, spawning, parental care and embryonic development in the cotylean flatworm Pseudoceros indicus (Platyhelminthes: Polycladida: Pseudocerotidae) from Singapore</em>
+. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 60-67.</li>
+  <li>Newman, Leslie and Lester Cannon. 2003.
+<em>Marine Flatworms: The World of Polyclads</em>
+. CSIRO Publishing. 97pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

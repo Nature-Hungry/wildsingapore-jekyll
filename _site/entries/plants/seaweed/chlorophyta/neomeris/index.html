@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Taugeh seaweed | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="white, stem, sausage, seaweed, weed, green, neomeris, dasycladaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/neomeris/101223sntd3942m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Chlorophyta">Chlorophyta</a>
+                    > 
+                    <a href="/Chlorophyta/Ulvophyceae">Ulvophyceae</a>
+                    > 
+                    <a href="/Chlorophyta/Ulvophyceae/Dasycladales">Dasycladales</a>
+                    >
+                    <a href="/Chlorophyta/Ulvophyceae/Dasycladales/"></a>
+                    >
+                    <a href="/Chlorophyta/Ulvophyceae/Dasycladales//Dasycladaceae">Dasycladaceae</a>
+                </p>
+                <h1>Taugeh seaweed</h1>
+                
+                    <p class="scientific-name">Neomeris sp.</p>
+                
+
+                <p><em>Updated Oct 2016</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This curious comma-shaped white-and-green seaweed is commonly seen on our Southern shores. They do resemble ‘Taugeh’, the local name for beansprouts (from soya beans). Sometimes large clusters of the seaweed can be seen, at other times, only small scattered clusters. On small stones or coral rubble.</p>
+
+<h2 id="features">Features</h2>
+
+<p>Cluster of long (2-3cm) slender, blunt-tipped cylinders, often curved. The base to middle portion often white revealing the heavy incorporation of calcium carbonate in this seaweed. Tips bright green and fuzzy.</p>
+
+<p>The seaweed is actually made up of tiny branches packed tightly around a central stalk to form the cylindrical shape, somewhat like the bristles on a bottlebrush. The green tiny branches at the tip are younger.</p>
+
+<p>The tiny spheres exposed at the base are reproductive structures that produce spores (sporangium).</p>
+
+<p>According to
+<a href="http://www.algaebase.org/search/genus/detail/?genus_id=35954">AlgaeBase</a>
+, there are 7 current
+<em>Neomeris</em>
+species. The species are hard to tell apart in the field.</p>
+
+<p><strong>Sometimes confused with</strong>
+<a href="bornetella.md">green sea sausage seaweeds</a>
+(
+<em>Bornetella</em>
+sp.) but these are completely green and don’t have white stems.</p>
+
+<p>Neomeris is the name of one of the 50 Greek nymphs or sea goddesses collectively called the Nereides.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/neomeris/101223sntd3942m3.jpg" alt="" />
+        <div class="caption">
+        Sentosa, Dec 10 Sentosa, Dec 10
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/neomeris/101223sntd3942m6l.jpg" alt="" />
+        <div class="caption">
+        Sentosa, Dec 10
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/neomeris/070408sntg8568m3.jpg" alt="" />
+        <div class="caption">
+        Sentosa, Apr 07
+        </div>
+    </div>
+    
+
+</div>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/neomeris/111224labd4775m6l.jpg" alt="" />
+        <div class="caption">
+        Labrador, Dec 11
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/neomeris/111224labd4775m3.jpg" alt="" />
+        <div class="caption">
+        Labrador, Dec 11 The tiny spheres exposed produce spores (sporangium).
+        </div>
+    </div>
+    
+
+</div>
+<p>**Species are difficult to positively identify without close examination of internal parts.</p>
+
+<p>On this website, they are grouped by external features for convenience of display.*</p>
+
+<hr />
+
+<p><strong>‘Taugeh’ seaweed on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470%40N00&amp;sort=date-posted-desc&amp;view_all=1&amp;text=Caulerpa%20mexicana">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Caulerpa%2520mexicana/map?&amp;fLat=1.2255&amp;fLon=103.7888&amp;zl=12&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/neomeris/160124smkell4.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau East, Jan 16 Photo shared by Lisa Lim on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/neomeris/200626tptvc1.jpg" alt="" />
+        <div class="caption">
+        Terumbu Pempang Tengah, Jun 20 Photo shared by Vincent Choo on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/neomeris/100601slud4706m3b.jpg" alt="" />
+        <div class="caption">
+        Pulau Salu, Jun 10
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/neomeris/100130brkd8474m3b.jpg" alt="" />
+        <div class="caption">
+        Terumbu Berkas, Jan 10
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/neomeris/091204pawd5388m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Pawai, Dec 09
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong><em>Neomeris</em>
+species recorded for Singapore</strong>
+**
+Pham, M. N., H. T. W. Tan, S. Mitrovic &amp; H. H. T. Yeo, 2011.
+<em>A Checklist of the Algae of Singapore</em>
+.</p>
+
+<p>*Neomeris annulata</p>
+
+<p>Neomeris bilimbata</p>
+
+<p>Neomeris dumetosa</p>
+
+<p>Neomeris stipitata</p>
+
+<p>Neomeris vanbosseae*</p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li>
+    <dl>
+      <dt><a href="http://www.algaebase.org/search/genus/detail/?genus_id=35954"><em>Neomeris</em></a></dt>
+      <dt>on</dt>
+      <dt><a href="http://www.algaebase.org/">AlgaeBase</a></dt>
+      <dd>Technical fact sheet.</dd>
+    </dl>
+  </li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
+<em>A photographic guide to the marine algae of Singapore</em>
+, 2015. Tropical Marine Science Institute, 201 pp.</li>
+  <li>Pham, M. N., H. T. W. Tan, S. Mitrovic &amp; H. H. T. Yeo, 2011.
+<em>A Checklist of the Algae of Singapore</em>
+, 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore, Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].</li>
+  <li>Lim, S., P. Ng, L. Tan, &amp; W. Y. Chin, 1994.
+<em>Rhythm of the Sea: The Life and Times of Labrador Beach</em>
+. Division of Biology, School of Science, Nanyang Technological University &amp; Department of Zoology, the National University of Singapore. 160 pp.</li>
+  <li>Chou, L. M., 1998.
+<em>A Guide to the Coral Reef Life of Singapore</em>
+. Singapore Science Centre. 128 pages.</li>
+  <li>Huisman, John M. 2000.
+<em>Marine Plants of Australia</em>
+University of Western Australia Press. 300pp.</li>
+  <li>Calumpong, H. P. &amp; Menez, E. G., 1997.
+<em>Field Guide to the Common Mangroves, Seagrasses and Algae of the Philippines</em>
+. Bookmark, Inc., the Philippines. 197 pp.</li>
+  <li>Trono, Gavino. C. Jr., 1997.
+<em>Field Guide and Atlas of the Seaweed Resources of the Philippines.</em>
+. Bookmark, Inc., the Philippines. 306 pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

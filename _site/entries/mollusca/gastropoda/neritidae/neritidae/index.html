@@ -1,0 +1,604 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Nerite snails  | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="nerita, nerite, neritidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="../../../../Templates/fornatureguides.gif" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Mollusca">Mollusca</a>
+                    > 
+                    <a href="/Mollusca/Gastropoda">Gastropoda</a>
+                    > 
+                    <a href="/Mollusca/Gastropoda/Cycloneritida">Cycloneritida</a>
+                    >
+                    <a href="/Mollusca/Gastropoda/Cycloneritida/"></a>
+                    >
+                    <a href="/Mollusca/Gastropoda/Cycloneritida//Neritidae">Neritidae</a>
+                </p>
+                <h1>Nerite snails </h1>
+                
+                    <p class="scientific-name">Family Neritidae</p>
+                
+
+                <p><em>Updated Sep 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about them ... Nerite snails can be very common on our rocky shores. They lay their eggs in pools and among small stones, watch your step! The shell's features protect them in the harsh dry area where they live.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        Nerite snails can be very common on our rocky shores. They lay their eggs in pools and among small stones, watch your step! The shell's features protect them in the harsh dry area where they live.
+        </div>
+    </div>
+    
+
+</div>
+
+<h2 id="where-seen">Where seen?</h2>
+<p>These snails with thick, rounded shells are common in our mangroves and rocky shores. Some colourful nerites are hard to spot as they blend well with the equally colourful rocks they are found on. They are usually immobile at low tide during the day. At night and on a cool wet day, you might see them creeping about. Tan and Clements based on surveys of 31 sites over a period of 10 years reveals 19 species with 6 new records for Singapore!</p>
+
+<h2 id="features">Features</h2>
+
+<p>2-4cm. Our nerites typically have a distinctive hemispherical shell, somewhat like half a marble. The shell is quite thick and heavy. The streamlined shape probably helps the snail stick onto a slippery rock that is pounded by waves. It also makes it difficult for a crab (and a human) to grip the shell.</p>
+
+<p>A sturdy chalky operculum provides a secure seal to the shell opening. The operculum has an internal peg to lock it firmly. This makes it difficult for a crab to stick a pincer in and dig out the snail. It also protects against water loss during low tide. Nerites usually stay above the high tide line. This is probably to avoid being eaten by fish.</p>
+
+<p>Some common nerites of the same species can have a wide range of shell colours and patterns. They are best distinguished by the structure of the shell and underside of the shell. A preliminary identification of the various species of nerites can be made by looking at the teeth-like structures at the shell opening (these do not actually function as teeth to chew food), and the general shape and texture of the shell and operculum. But very similar-looking nerites can only be positively distinguished by looking at internal features of the shell and animal.
+Here’s a comparison of some
+<a href="neritidaecf.md">similar nerite snails</a>
+and how to roughly tell them apart.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/051105sisg2949m3a.jpg" alt="" />
+        <div class="caption">
+        Tough shell with thick operculum. Chek Jawa, Jan 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/polita/090114labd5376m3.jpg" alt="" />
+        <div class="caption">
+        The same species of Nerites may come in a wide variety of colours and patterns. Labrador, Jan 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/061106tusd6519m3a.jpg" alt="" />
+        <div class="caption">
+        The tiniest nerites on our shores are aptly named Dubious nerites .
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>What do they eat?</strong>
+Nerites graze the algae that thrive on the rocks, scraping this off with their radula. They also eat lichen growing there. They are often found near their food source; areas where sunlight and water exchange are greatest.</p>
+
+<p><strong>Bouncing escape!</strong>
+When alarmed, nerites can immediately unclamp and retract into their hard round shells. Whereupon, they bounce down the rocks like marbles. This is probably how these slow snails can rapidly escape from crabs and other predators.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="https://live.staticflickr.com/1683/25174359603_fac642f0ce_z.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Nerite babies:</strong>
+Nerites have separate genders and engage in internal fertilisation. They have a complex reproductive system to achieve this, and to produce nutrition-packed eggs in protective capsules. The white circular egg capsules are sometimes seen in rock pools, under rocks and in moist crevices. Each egg capsule may have more than 30 eggs. These hatch into free-swimming larvae that only later settle down to develop into snails.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/neritidaenoid/090628lazd6229m3.jpg" alt="" />
+        <div class="caption">
+        Nerites with their white egg capsules. Lazarus Island, Jun 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/081214ecmd3109m3a.jpg" alt="" />
+        <div class="caption">
+        Tiny egg capsules laid by the tiniest nerite. East Coast, Dec 08
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/neritidaenoid/020213cjd6879m3.jpg" alt="" />
+        <div class="caption">
+        Nerites mating with their white egg capsules. Chek Jawa, Feb 02
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Human uses:</strong>
+They are gathered as food by coastal dwellers. Some species of nerites are eaten raw or toasted. The shell is also used in shell craft.</p>
+
+<p><strong>Status and threats:</strong>
+The tiny and beautifully marked
+<a href="oualaniensis.md">Dubious nerite snails</a>
+(
+<em>Clithon oulaniensis</em>
+) and
+<a href="polita.md">Polished nerite</a>
+<em>(Nerita polita)</em>
+are listed as ‘Vulnerable’ on the Red List of threatened animals of Singapore.</p>
+
+<hr />
+
+<p><strong>Some Nerites on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/albicilla/090208smkd6498m3.jpg" alt="" />
+        <div class="caption">
+        Ox-tongue nerite
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8926m3.jpg" alt="" />
+        <div class="caption">
+        Chameleon nerite
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/060102sisg3617m3.jpg" alt="" />
+        <div class="caption">
+        Waved nerite
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/histrio/060301kusg5365m3.jpg" alt="" />
+        <div class="caption">
+        Scaly nerite
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/articulata/090114blyd5295m3.jpg" alt="" />
+        <div class="caption">
+        Lined nerite
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/planospira/050809lckg1011m3.jpg" alt="" />
+        <div class="caption">
+        Flat-spire nerite
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/polita/080621labd6164m3.jpg" alt="" />
+        <div class="caption">
+        Polished nerite
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/061106tusd6519m3a.jpg" alt="" />
+        <div class="caption">
+        Dubious nerites
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/violacea/110328mndd8041m3.jpg" alt="" />
+        <div class="caption">
+        Red-mouth nerite
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/cornucopia/090612pndd4045m3.jpg" alt="" />
+        <div class="caption">
+        Black-mouth nerite
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/grayana/130317krjd4642m3.jpg" alt="" />
+        <div class="caption">
+        Grey mangrove nerite
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Family Neritidae recorded for Singapore</strong>
+from Tan Siong Kiat and Henrietta P. M. Woo, 2010
+<em>Preliminary Checklist of The Molluscs of Singapore</em>
+.</p>
+
+<p>from Tan, S.K. &amp; Clements, R. (2008)
+<a href="http://zoolstud.sinica.edu.tw/Journals/47.4/481.pdf"><em>Taxonomy and distribution of the Neritidae (Mollusca: Gastropoda) on Singapore</em></a>
+.</p>
+
+<p>in red are those listed among the threatened animals of Singapore
+Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+<em>The Singapore Red Data Book: Threatened plants and animals of Singapore.</em></p>
+
+<p>^from
+<a href="http://www.marinespecies.org/">WORMS</a>
+.</p>
+
+<p>+Other additions (Singapore Biodiversity Record, etc)</p>
+
+<p><strong>Family Neritidae</strong></p>
+
+<p><em>Clithon faba</em>
+<a href="oualaniensis.md"><em>Clithon oualaniensis</em></a>
+(Dubious nerite) (VU: Vulnerable)
+<em>^
+<a href="cornucopia.md">Neritina cornucopia</a>
+=Dostia cornucopia</em>
+(Black-mouth nerite)
+<em>^
+<a href="violacea.md">Neritina violacea</a>
+=Dostia violacea</em>
+(Red-mouth nerite)
+<em>=Neritina violacea</em>
+<a href="albicilla.md"><em>Nerita albicilla</em></a>
+(Ox-tongue nerite)</p>
+
+<p><a href="articulata.md"><em>Nerita articulata</em></a>
+(Lined nerite)=
+<em>Nerita lineata</em></p>
+
+<p><em><a href="chamaeleon.md">Nerita chamaeleon</a></em>
+(Chameleon nerite)
+*Nerita costata</p>
+
+<p><a href="grayana.md">Nerita undulata</a>
+=Nerita grayana*
+(new record) (Gray mangrove nerite)
+<em>^
+<a href="histrio.md">Nerita squamulata</a>
+=Nerita histrio</em>
+(Scaled nerite)=
+*Nerita squamulata</p>
+
+<p><a href="planospira.md">Nerita planospira</a>*
+(Flat-spired nerite) (VU: Vulnerable)
+<em>Nerita plicata</em>
+(new record)
+<em><a href="polita.md">Nerita polita</a></em>
+(Polished nerite)
+<em>Nerita signata</em>
+<a href="undata.md"><em>Nerita undata</em></a>
+(Waved nerite)
+*Neritina auriculata</p>
+
+<p>Neritina siquijorensis</p>
+
+<p>Neritina sulculosa</p>
+
+<p>+Smaragdia souverbiana*
+(Souverbie’s nerite)
+<em>Vittina coromandeliana</em></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&amp;l=ur2&amp;o=1" alt="" />
+        <div class="caption">
+        Links Common nerite ( Nerita lineata ) and Violet nerite ( Dostia violacea ) Ng, Peter K. L. &amp; N. Sivasothi, 1999. A Guide to the Mangroves of Singapore II (Animal Diversity) . Singapore Science Centre. 168 pp. Nerita sp and Clithon oualaniensis Tan, Leo W. H. &amp; Ng, Peter K. L., 1988. A Guide to Seashore Life . The Singapore Science Centre, Singapore. 160 pp. Family Neritidae on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief fact sheet on Nerites with photos. Family Neritidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific Volume 1: Seaweeds, corals, bivalves and gastropods on the Food and Agriculture Organization of the United Nations (FAO) website. References Chan Sow-Yan &amp; Lau Wing Lup. 30 October 2020. Disruption in shell colour patterns of nerite snails . Singapore Biodiversity Records 2020: 181-182. The National University of Singapore. Tan Siong Kiat, Toh Chay Hoon. 31 Oct 2017. First Singapore record of Souverbie’s nerite, Smaragdia souverbiana . Singapore Biodiversity Records 2017:140-141. Tan Siong Kiat and Henrietta P. M. Woo, 2010 Preliminary Checklist of The Molluscs of Singapore (pdf), Raffles Museum of Biodiversity Research, National University of Singapore. Tan, S.K. &amp; Clements, R. (2008) Taxonomy and distribution of the Neritidae (Mollusca: Gastropoda) on Singapore . Zoological Studies 47(4): 481-494. Tan, K. S. &amp; L. M. Chou, 2000. A Guide to the Common Seashells of Singapore . Singapore Science Centre. 160 pp. Wee Y.C. and Peter K. L. Ng. 1994. A First Look at Biodiversity in Singapore . National Council on the Environment. 163pp. Ng, P. K. L. &amp; Y. C. Wee, 1994. The Singapore Red Data Book: Threatened Plants and Animals of Singapore . The Nature Society (Singapore), Singapore. 343 pp. Abbott, R. Tucker, 1991. Seashells of South East Asia . Graham Brash, Singapore. 145 pp. Coleman, Neville. 2003. 2002 Sea Shells: Catalogue of Indo-Pacific Mollusca . Neville Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
+        </div>
+    </div>
+    
+
+</div>
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://mangrove.nus.edu.sg/guidebooks/text/2078.htm">Common
+nerite (<em>Nerita lineata</em>)</a> and <a href="http://mangrove.nus.edu.sg/guidebooks/text/2079.htm">Violet
+nerite (<em>Dostia violacea</em>)</a> Ng, Peter K. L. &amp; N. Sivasothi,
+    <ol>
+      <li><em><a href="http://mangrove.nus.edu.sg/guidebooks/">A Guide
+to the Mangroves of Singapore II (Animal Diversity)</a></em>. Singapore
+Science Centre. 168 pp.</li>
+    </ol>
+  </li>
+  <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/135.htm"><em>Nerita</em>
+sp and <em>Clithon oualaniensis</em></a> Tan, Leo W. H. &amp; Ng, Peter
+K. L., 1988. <em><a href="http://mangrove.nus.edu.sg/pub/seashore/">A
+Guide to Seashore Life</a></em>. The Singapore Science Centre,
+Singapore. 160 pp.</li>
+  <li><a href="http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Neritidae.html">Family
+Neritidae</a> on The Gladys Archerd Shell Collection at Washington
+State University Tri-Cities Natural History Museum website: brief
+fact sheet on Nerites with photos.</li>
+  <li>Family Neritidae
+in
+the Gastropods section by J.M. Poutiers in the FAO Species Identification
+Guide for Fishery Purposes: The Living Marine Resources of the
+Western Central Pacific <a href="http://www.fao.org/docrep/009/w7191e/w7191e00.htm">Volume
+1: Seaweeds, corals, bivalves and gastropods</a> on the Food and
+Agriculture Organization of the United Nations (FAO) website.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Chan Sow-Yan &amp; Lau Wing Lup. 30 October 2020. <em>Disruption in shell colour patterns of nerite snails</em>. Singapore Biodiversity Records 2020: 181-182. The National University of Singapore.</li>
+  <li>Tan Siong Kiat, Toh Chay Hoon. 31 Oct 2017. <em>First Singapore record of Souverbie’s nerite, Smaragdia souverbiana</em>. Singapore Biodiversity Records 2017:140-141.</li>
+  <li>Tan Siong
+Kiat and Henrietta P. M. Woo, 2010 <em>Preliminary
+Checklist of The Molluscs of Singapore</em> (pdf), Raffles
+Museum of Biodiversity Research, National University of Singapore.</li>
+  <li>Tan, S.K.
+&amp; Clements, R. (2008) <a href="http://zoolstud.sinica.edu.tw/Journals/47.4/481.pdf">Taxonomy
+and distribution of the Neritidae (Mollusca: Gastropoda) on Singapore</a>.
+Zoological Studies 47(4): 481-494.</li>
+  <li>Tan, K. S.
+&amp; L. M. Chou, 2000. <em>A
+Guide to the Common Seashells of Singapore</em>. Singapore
+Science Centre. 160 pp.</li>
+  <li>Wee Y.C.
+and Peter K. L. Ng. 1994. <em>A First Look at Biodiversity in Singapore</em>.
+National Council on the Environment. 163pp.</li>
+  <li>Ng, P. K.
+L. &amp; Y. C. Wee, 1994. *The</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>  | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="nyireh, bunga, xylocarpus, granatum, polygalaceae, meliaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090112smkd5008m6l.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Tracheophyta">Tracheophyta</a>
+                    > 
+                    <a href="/Tracheophyta/Magnoliopsida">Magnoliopsida</a>
+                    > 
+                    <a href="/Tracheophyta/Magnoliopsida/Sapindales">Sapindales</a>
+                    >
+                    <a href="/Tracheophyta/Magnoliopsida/Sapindales/"></a>
+                    >
+                    <a href="/Tracheophyta/Magnoliopsida/Sapindales//Meliaceae">Meliaceae</a>
+                </p>
+                <h1> </h1>
+                
+                    <p class="scientific-name">Xylocarpus granatum</p>
+                
+
+                <p><em>Updated Jan 2013</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This handsome tree with cannon-ball shaped fruits is commonly seen in our mangroves. According to Ng, it is found in many of our mangroves and many trees are found at the northern coast of Pulau Tekong. According to Corners, it is common in all Malayan mangroves. According to Hsuan Keng, it was found in mangroves including Kranji, Serangoon, Pulau Seletar. It was also known as
+<em>Carpa obovata</em>
+. Other Malay names for it include ‘Nireh’ and ‘Nyireh Udang’.</p>
+
+<h2 id="features">Features</h2>
+
+<p>A tree 3-8m to 20m tall. Bark smooth, reddish or orange, flaking off in patches, revealing greenish new bark so the overall appearance is blotchy and resembles the camouflaged uniforms used by soldiers. Trunk base of older trees often enlarged with well-developed buttresses forming narrow ribbon-like undulations extending away from the trunk.</p>
+
+<p>Compound leaf comprising 2-4 pairs of leaflets (3.5-12cm long) oval or oblong (tip rounded rather than sharp), thick and leathery. The compound leaves are arranged in a spiral and wither to an orange red.</p>
+
+<p>Flowers tiny (0.5cm) white to pinkish in clusters on an inflorescence. According to Tomlinson, the flower has a “strong but pleasant scent”. Bees are recorded as flower visitors and the shape of the flower suggests it is pollinated by short-tongued insects. It appears to bloom seasonally, with
+<em>X. granatum</em>
+trees on various shores in Singapore blooming at the same time.</p>
+
+<p>Fruit globular and large (10-25cm in diameter) like a cannon-ball or bowling-ball, brown with corky seeds. There are usually 8-10 seeds in a single fruit, although 20 seeds have been recorded. The fruits develop rapidly, usually only one fruit per inflorescence. The ripe fruit can weigh 2-3kgs!</p>
+
+<p>When ripe, the fruit splits open and/or drops off the tree and shatters, releasing the seeds which float away. The seeds may start to germinate as they float. ‘
+<em>Granatum</em>
+‘ means ‘full of seeds’. The angular seeds fit perfectly inside the round fruit. But once spilled from the fruit, the seeds are hard to fit back together. So the tree is sometimes called the ‘Puzzle nut’ mangrove or ‘Monkey puzzle’ tree.</p>
+
+<p><strong>Human uses:</strong>
+According to Burkill, it is produces a timber valued in making boats, houses and furniture. It is also valued as firewood. The bark is so popular in tanning and tougening fishing nets that “in one part of Java, it is rare to find a tree which has not been peeled.” The bark is dark outside and bright red within, and so thin that a tree yields very little of it. Medicinal uses include the bark for dysentery, roots in a secret recipe against cholera, and the seeds for various ailments.</p>
+
+<p><img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090112smkd5008m6l.jpg" alt="" /></p>
+
+<p><em>Pulau Semakau, Jan 09
+<img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090124ubnd6016m3.jpg" alt="" /></em>
+Leaflets spoon-shaped, with rounded tips.
+*Pulau Ubin, Jan 09</p>
+
+<p><img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090126ubnd6191m3.jpg" alt="" /></p>
+
+<p>Bark smooth flaking off in patches.</p>
+
+<p>Pulau Ubin, Jan 09*</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/110109ubnd4812m3a.jpg" alt="" />
+        <div class="caption">
+        Seeds fit like a puzzle within the fruit. Pulau Ubin, Jan 11
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090208smkd6461m3.jpg" alt="" />
+        <div class="caption">
+        Large globular fruit. Pulau Semakau, Feb 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090124ubnd6015m3.jpg" alt="" />
+        <div class="caption">
+        Well-developed ribbon-like buttresses. Pulau Ubin, Jan 09
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090411lckd9438m3b.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090411lckd9438m3a.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090411lckd9438m3.jpg" alt="" />
+        <div class="caption">
+        Lim Chu Kang, Apr 09
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Nyireh bunga on Singapore shores</strong></p>
+
+<hr />
+
+<p>Photos of
+<a href="https://www.flickr.com/search/?q=Xylocarpus+granatum&amp;w=54527470%40N00&amp;s=rec">Nyireh bunga</a>
+for free download from
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<hr />
+
+<p>Distribution in Singapore on
+<a href="https://www.flickr.com/photos/wildsingapore/tags/Xylocarpus%2520granatum/map?&amp;fLat=1.2629&amp;fLon=103.8654&amp;zl=11&amp;order_by=recent">this wildsingapore flickr map</a></p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://floraofsingapore.wordpress.com/2010/12/26/xylocarpus-granatum/"><em>Xylocarpus granatum</em></a>
+on Total Vascular Flora of Singapore Online: photos and fact sheet.</li>
+  <li><em><a href="https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=4836">Xylocarpus granatum</a></em>
+on the NParks Flora and Fauna website: photos and fact sheet.</li>
+  <li><a href="http://mangrove.nus.edu.sg/guidebooks/text/1077.md">Nyireh bunga (
+<em>Xylocarpus granatum</em>
+)</a>
+Ng, Peter K. L. &amp; N. Sivasothi, 1999.
+<em><a href="http://mangrove.nus.edu.sg/guidebooks/">A Guide to the Mangroves of Singapore</a>
+I (Plant Diversity)</em>
+. Singapore Science Centre. 168 pp.</li>
+  <li>Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+<a href="http://www.fao.org/docrep/010/ag132e/ag132e00.md"><em>Mangrove Guidebook for Southeast Asia</em></a>
+(PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.</li>
+  <li><a href="http://wildshores.blogspot.com/2009/04/blooming-ubin.html">Blooming Ubin</a>
+about a mass bloom of
+<em>X. granatum</em>
+on the wild shores of singapore blog.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
+<em>The Concise Flora of Singapore: Gymnosperms and Dicotyledons</em>
+. Singapore University Press. 222 pp.</li>
+  <li>Corners, E. J. H., 1997.
+<em>Wayside Trees of Malaya: in two volumes</em>
+. Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.</li>
+  <li>Tomlinson, P. B., 1986.
+<em>The Botany of Mangroves</em>
+Cambridge University Press. USA. 419 pp.</li>
+  <li>Burkill, I. H., 1993.
+<em>A Dictionary of the Economic Products of the Malay Peninsula</em>
+. 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

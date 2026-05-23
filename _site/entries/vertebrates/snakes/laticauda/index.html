@@ -1,0 +1,506 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Yellow-lipped sea krait | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="sea, snake, krait, laticauda, colubrina, elapidae, hydrophiidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/090509sismn1m6l.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Chordata">Chordata</a>
+                    > 
+                    <a href="/Chordata/Reptilia">Reptilia</a>
+                    > 
+                    <a href="/Chordata/Reptilia/Squamata">Squamata</a>
+                    >
+                    <a href="/Chordata/Reptilia/Squamata/Serpentes">Serpentes</a>
+                    >
+                    <a href="/Chordata/Reptilia/Squamata/Serpentes/Elapidae">Elapidae</a>
+                </p>
+                <h1>Yellow-lipped sea krait</h1>
+                
+                    <p class="scientific-name">Laticauda colubrina</p>
+                
+
+                <p><em>Updated Oct 2019</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This beautiful snake is sometimes seen on our Southern shores especially at night, hunting among reefs and coral rubble. The snake is typically found in shallow seas around coral reefs and rocky shores.
+Some place them in Family Hydrophiidae.</p>
+
+<p>According to Baker, in Singapore, it is only found on our Southern Islands. It can crawl about on land (not helpless like other sea snakes). It is widely distributed in the Indo-Pacific.</p>
+
+<h2 id="features">Features</h2>
+
+<hr />
+<p>To about 1.4m long. Males are smaller (rarely more than 1m in length) while females are heavier bodied and longer. Bluish-grey with distinct smooth scales and regularly spaced, equal-sized black bands that circle the entire body. Its upper lips are distinctly yellow, thus its common name. Head slightly distinct from the body, but no obvious ‘neck’. Its tail is flattened sideways into a paddle-like shape and used like an oar to swim with. At first glance, the tail and the head of this snake look very similar.
+<a href="http://wildshores.blogspot.com/2009/08/two-headed-yellow-lipped-sea-krait.html">A study suggests</a>
+this may help protect the snake from its predators.</p>
+
+<p><strong>Deadly beauty:</strong>
+The snake has a highly toxic venom that can be fatal to humans. But it is a gentle and docile snake with tiny fangs. It will not bite unless provoked. It is best to leave it alone, although it is curious and may investigate you!</p>
+
+<p>**
+<strong>How to stay safe:</strong>
+Wear covered shoes and long pants to cover all skin exposed to water. Don’t harass, touch or pick up the snake.</p>
+
+<p><strong>Sometimes confused</strong>
+with the harmless
+<a href="granulatus.md">Banded file snake</a>
+(
+<em>Acrochordus granulatus</em>
+). Here’s
+<a href="cfseafile.md">how to tell apart banded snakes</a>
+seen near the coast. It may also be confused with eels. Here’s more on
+<a href="../../glossary/eelsnake.md">how to tell apart sea snakes, eels and eel-like animals</a>
+.</p>
+
+<p><strong>What does it eat?</strong>
+It eats fishes and fish eggs. Eels are among their favourite prey. It has been seen actively hunting at night on the shore even at low tide, probing the coral rubble crevices for tit bits. It also comes ashore to rest, digest its meal, shed its skin and to mate.</p>
+
+<p><strong>Sea snake babies:</strong>
+These snakes generally breed on coral atolls and rocky islets where they may gather in large groups to do so. The reef flat at Pulau Sudong used to be a well known nesting ground for the snake until it was reclaimed. The mother snake lays 5-9/7-13 eggs, in caves and grottos. The babies look just like their parents.</p>
+
+<p><strong>Status and threats:</strong>
+Our sea snakes are listed as ‘Endangered’ on the Red List of threatened animals of Singapore. Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/090509sismn1m6l.jpg" alt="" />
+        <div class="caption">
+        Sisters Island, May 09 Photo shared by Marcus Ng on his flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/031029sntcd0003m3.jpg" alt="" />
+        <div class="caption">
+        It has a paddle-shaped tail. Sentosa, Oct 03
+        </div>
+    </div>
+    
+
+</div>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/031124sised0009m3b.jpg" alt="" />
+        <div class="caption">
+        Head and tail can look similar at first glance. Sisters Island, Nov 03
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/031224sised0020m3.jpg" alt="" />
+        <div class="caption">
+        Like other snakes, it sticks out its tongue to sense its surroundings Sisters Island, Dec 03
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/050918smkg2666m3.jpg" alt="" />
+        <div class="caption">
+        These snakes are curious but will not bite if not provoked (that's my bootie!) Pulau Semakau, Sep 05
+        </div>
+    </div>
+    
+
+</div>
+
+<hr />
+
+<p><strong>Yellow-lipped sea kraits on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470%40N00&amp;sort=date-posted-desc&amp;view_all=1&amp;text=Laticauda%20colubrina">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Laticauda%2520colubrina/map?&amp;fLat=1.3165&amp;fLon=103.8653&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/240820kusmn3.jpg" alt="" />
+        <div class="caption">
+        Kusu Island, Aug 24 Photo shared by Marcus Ng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/240114kusky1.jpg" alt="" />
+        <div class="caption">
+        Kusu Island, Jan 24 About 40-45cm long. Photo shared by Kelvin Yong on facebook . Kusu Island, Apr 17 Photos shared by Toh Chay Hoon on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/120505sisgl2m6l.jpg" alt="" />
+        <div class="caption">
+        Sisters Island, May 12 Photos shared by Geraldine Lee on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/110123sislt1m3.jpg" alt="" />
+        <div class="caption">
+        Sisters Island, Jan 11 Photo shared by LIana Tang on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/260103bsisrqo1.jpg" alt="" />
+        <div class="caption">
+        Big Sisters Island, Jan 26 Photo shared by Rui Quan Oh on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/110204sislks1m6l.JPG" alt="" />
+        <div class="caption">
+        Sisters Island, Feb 11 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/240624sjiky6.jpg" alt="" />
+        <div class="caption">
+        St. John's Island, Jun 24 Photos shared by Kelvin Yong on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/201115tkklks6.jpg" alt="" />
+        <div class="caption">
+        Pulau Tekukor, Nov 20 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/100601slujk.JPG" alt="" />
+        <div class="caption">
+        Pulau Salu, Jun 10 Photo shared by James Koh on flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/140617tblks1m3.JPG" alt="" />
+        <div class="caption">
+        Terumbu Benban, Jun 14 Photos shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<hr />
+
+<p>Filmed on Pulau Hantu on 12 Apr 09</p>
+
+<p><a href="http://vimeo.com/4131497">Yellow Lipped Sea Krait @ Pulau Hantu 12Apr2009</a>
+from
+<a href="http://vimeo.com/user466756">BeachBum</a>
+on
+<a href="http://vimeo.com">Vimeo</a>
+.</p>
+
+<hr />
+
+<p>Filmed on Pulau Semakau on 6 Nov 09</p>
+
+<p><a href="http://vimeo.com/7518707">Yellow-Lipped Sea Krait @ Semakau 06Nov2009</a>
+from
+<a href="http://vimeo.com/user466756">BeachBum</a>
+on
+<a href="http://vimeo.com">Vimeo</a>
+.</p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://singaporesnakes.blogspot.com/search/label/Yellow-lipped%20Sea%20Krait">Yellow-lipped Sea Kraits</a>
+on the
+<a href="http://singaporesnakes.blogspot.com/">Singapore Snakes</a>
+blog: fact sheet with photos and links to local sightings and other posts.</li>
+  <li><a href="http://www.ecologyasia.com/verts/snakes/amphibious_sea_snake.md">Amphibious Sea Snake</a>
+on Nick Baker’s EcologyAsia website: fact sheet with photos.</li>
+  <li><a href="https://singapore.biodiversity.online/taxo4254/mainSpace/Laticauda%20colubrina.html#Laticauda%20colubrina"><em>Laticauda colubrina</em></a>
+(Squamata: Hydrophiidae) Yellow-lipped Sea Krait by Lui Chun Yih Gerald, 2011 on taxo4254.</li>
+  <li><a href="http://wildshores.blogspot.com/2009/08/two-headed-yellow-lipped-sea-krait.html">The ‘two-headed’ yellow-lipped sea snake</a>
+on the wild shores of singapore blog.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Lim, Kelvin K. P. &amp; Francis L K Lim, 1992.
+<em>A Guide to the Amphibians and Reptiles of Singapore</em>
+Singapore Science Centre. 160 pp.</li>
+  <li>Baker, Nick and Kelvin Lim. 2008.
+<em>Wild Animals of Singapore: A Photographic Guide to Mammals, Reptiles, Amphibians and Freshwater Fishes</em>
+Vertebrate Study Group, Nature Society (Singapore). 180 pp.</li>
+  <li>Stuebing, Robert B and Robert F. Inger. 1999.
+<em>A Field Guide to the Snakes of Borneo</em>
+Natural History Publications (Borneo). 254 pp.</li>
+  <li>Cox, Merel J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt. 1998.
+<em>A Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular Malaysia and Singapore</em>
+New Holland. pp 144.</li>
+  <li>Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+<em>The Singapore Red Data Book: Threatened plants and animals of Singapore</em>
+. Nature Society (Singapore). 285 pp.</li>
+  <li>Chou, L. M., 1998.
+<em>A Guide to the Coral Reef Life of Singapore</em>
+. Singapore Science Centre. 128 pages.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

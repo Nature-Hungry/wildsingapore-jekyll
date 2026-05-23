@@ -1,0 +1,558 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Whelks | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="whelk, nassarius, nassariidae, gastropod, mollusc, shell, snail, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/050609cftg7531m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Mollusca">Mollusca</a>
+                    > 
+                    <a href="/Mollusca/Gastropoda">Gastropoda</a>
+                    > 
+                    <a href="/Mollusca/Gastropoda/Neogastropoda">Neogastropoda</a>
+                    >
+                    <a href="/Mollusca/Gastropoda/Neogastropoda/"></a>
+                    >
+                    <a href="/Mollusca/Gastropoda/Neogastropoda//Nassariidae">Nassariidae</a>
+                </p>
+                <h1>Whelks</h1>
+                
+                    <p class="scientific-name">Family Nassariidae</p>
+                
+
+                <p><em>Updated Aug 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about them ... These tiny snails are scavengers. When you see a dead thing, look for them! The siphon of a whelk can be as long as its body. Sometimes, a tiny sea anemone hitches a ride on the shell of a living whelk.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        These tiny snails are scavengers. When you see a dead thing, look for them! The siphon of a whelk can be as long as its body. Sometimes, a tiny sea anemone hitches a ride on the shell of a living whelk.
+        </div>
+    </div>
+    
+
+</div>
+<h2 id="where-seen">Where seen?</h2>
+<p>Whelks are commonly seen on many of our shores. On sandy or muddy shores and among seagrasses. Most whelks live in shallow waters, often in large groups. They are sometimes also called Nassa mud snails or Dog whelks. These small snails are among the busiest creatures you might come across at low tide, as they try to beat one another to any fresh dead animals left on the shore. When not foraging, whelks hide in the sand.</p>
+
+<h2 id="features">Features</h2>
+
+<p>About 2cm. Whelks have tough thick shells. They have a long siphon and a large organ near the siphon (called the osphradium) that are used to detect chemicals released by dead animals. The fleshy siphon is extended out of a little notch in the tip of the shell. The siphon of a whelk can be as long as its body! They also use the long siphon to breathe as they burrow in the sand. They have long slender tentacles bearing eyes, and the back of the large foot has a pair of tentacles. Whelks can also drill through shells.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/050609cftg7531m3.jpg" alt="" />
+        <div class="caption">
+        With a large barnacle on the shell. Changi, May 08
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/050818cftg1443m3.jpg" alt="" />
+        <div class="caption">
+        Burrowing just beneath the sand with siphon sticking out. Changi, Aug 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/noid/040425cjd0095m3.jpg" alt="" />
+        <div class="caption">
+        With a pair of tiny sea anemone hitch-hikers. Chek Jawa, Apr 04
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Whelk food:</strong>
+Whelks are active scavengers and often seen busily foraging in pools at the change of the tides. A choice morsel such as a dead crab or fish is a magnet for these snails which hurry as fast as they can to the feast. They have been described as “extremely bold and agile”.</p>
+
+<p><strong>Whelk friends:</strong>
+Often, a
+<a href="../../../cnidaria/actiniaria/snail.md">tiny sea anemone</a>
+hitches a ride on the shell of a whelk! The anemone probably benefits from the whelk’s left overs, and avoids being permanently buried in the sediments. It is not certain if the whelk gets anything in return.
+<a href="../../../crustacea/othercrust/ciriipedia/cirripedia.md">Barnacles</a>
+may sometimes also be found on the shells of large living whelks.</p>
+
+<p><strong>Human uses:</strong>
+Although abundant, they are not much collected. Locally, they may be used as food or bait, and the shells sometimes used for shell craft.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/crustacea/othercrust/anomura/hermit/lavender/070218tmd8085m3a.jpg" alt="" />
+        <div class="caption">
+        Whelks cleaning out a recently dead snail while a hermit crab waits patiently. Tanah Merah, Feb 07
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/noid/030913cjd0102m3.jpg" alt="" />
+        <div class="caption">
+        Whelk Joy! Dead fish! Chek Jawa, Sep 03
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/noid/100103sisd7635m3.jpg" alt="" />
+        <div class="caption">
+        A small fish all to itself. Sisters Island, Jan 10
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Some Whelks on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/jackonianus/050511cftg6345m3.jpg" alt="" />
+        <div class="caption">
+        Mud whelk
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/050524cftg6541m3.jpg" alt="" />
+        <div class="caption">
+        Common whelk
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/pullus/060212sisg4807m3.jpg" alt="" />
+        <div class="caption">
+        Black whelk
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/050818cftg1447m3.jpg" alt="" />
+        <div class="caption">
+        Olive whelk
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/lined/070104chgd7442m3.jpg" alt="" />
+        <div class="caption">
+        Lined whelk
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/prickly/080919sntd0554m3.jpg" alt="" />
+        <div class="caption">
+        Prickly whelk
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/limnaeiformis/130330cyrd4898m3.jpg" alt="" />
+        <div class="caption">
+        Speckled whelk
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Unidentified whelks on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470%40N00&amp;sort=date-posted-desc&amp;view_all=1&amp;text=Unidentified%20Nassariidae">Photos</a>
+for free download</li>
+</ul>
+
+<hr />
+
+<p><strong>Family Nassariidae recorded for Singapore</strong>
+from Tan Siong Kiat and Henrietta P. M. Woo, 2010
+<em>Preliminary Checklist of The Molluscs of Singapore</em>
+.</p>
+
+<p>^from
+<a href="http://www.marinespecies.org/">WORMS</a>
+.</p>
+
+<p>+Other additions (Singapore Biodiversity Records, etc)</p>
+
+<p><strong>Family Nassariidae</strong></p>
+
+<p>*Cyllene pulchella</p>
+
+<p>Hebra subspinosa</p>
+
+<p>+Nassarius acuticostus</p>
+
+<p>Nassarius arcularia</p>
+
+<p>+Nassarius biendongensis</p>
+
+<p>Nassarius bimaculosus</p>
+
+<p>Nassarius castus</p>
+
+<p>Nassarius coronatus</p>
+
+<p>Nassarius comptus</p>
+
+<p>Nassarius concinnus</p>
+
+<p>Nassarius crematus</p>
+
+<p>Nassarius crenoliratus*
+<em><a href="prickly.md">Nassarius echinatus</a></em>
+(Prickly whelk)
+*Nassarius exulatus</p>
+
+<p>Nassarius festivus</p>
+
+<p>Nassarius foveolatus</p>
+
+<p>Nassarius glans</p>
+
+<p>Nassarius globosus</p>
+
+<p>Nassarius harpularia</p>
+
+<p>Nassarius hepaticus</p>
+
+<p>Nassarius himeroessa</p>
+
+<p><a href="jacksonianus.md">Nassarius jacksonianus</a>*
+(Mud whelk)
+*Nassarius javanus</p>
+
+<p>Nassarius leptospirus</p>
+
+<p><a href="limnaeiformis.md">Nassarius limnaeiformis</a>*
+(Speckled whelk)
+<em><a href="livescens.md">Nassarius livescens</a></em>
+(Common whelk)
+*Nassarius luridus=^Nassarius graphiterus</p>
+
+<p>Nassarius margaritifer</p>
+
+<p>Nassarius mitralis</p>
+
+<p>Nassarius nodifer</p>
+
+<p><a href="olivaceus.md">Nassarius olivaceus</a>*
+(Olive whelk)
+*Nassarius pauperus=^Nassarius pauper</p>
+
+<p>Nassarius praematuratus</p>
+
+<p><a href="pullus.md">Nassarius pullus</a>*
+(Black whelk)
+*Nassarius quadrasi</p>
+
+<p>Nassarius sinusigerus</p>
+
+<p>Nassarius siquijorensis</p>
+
+<p>Nassarius stolatus</p>
+
+<p>Nassarius succinctus</p>
+
+<p><a href="lined.md">Nassarius teretiusculus</a>*
+(Lined whelk)</p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://mangrove.nus.edu.sg/guidebooks/text/2087.md">Mud whelk (
+<em>Nassarius jacksonianus</em>
+)</a>
+Ng, Peter K. L. &amp; N. Sivasothi, 1999.
+<em><a href="http://mangrove.nus.edu.sg/guidebooks/">A Guide to the Mangroves of Singapore II (Animal Diversity)</a></em>
+. Singapore Science Centre. 168 pp.</li>
+  <li><a href="http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Nassariidae.html">Family Nassariidae</a>
+on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief fact sheet with photos.</li>
+  <li><a href="http://seashellsofnsw.org.au/Nassariidae/Pages/nassariidae_intro.md">Family Nassariidae (Dog whelks)</a>
+on the
+<a href="http://seashellsofnsw.org.au/index.md">The Seashells of New South Wales</a>
+website by Des Beechey Research Associate, Australian Museum: family introductions with photos of shells and detailed fact sheets for many species.</li>
+  <li>Family Nassariidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+<a href="http://www.fao.org/docrep/009/w7191e/w7191e00.md">Volume 1: Seaweeds, corals, bivalves and gastropods</a>
+on the Food and Agriculture Organization of the United Nations (FAO) website.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Ng Hiong Eng &amp; Chan Sow Yan. 28 Apr 2017.
+<em>Record of three marine snails from the Singapore Strait: Nassarius acuticostus</em>
+. Singapore Biodiversity Records 2017: 50.</li>
+  <li>Tan Siong Kiat. 9 May 2014.
+<em>First record of Nassarius biendongensis from Singapore</em>
+. Singapore Biodiversity Records 2014: 124-125</li>
+  <li>Tan Siong Kiat and Henrietta P. M. Woo, 2010
+<em>Preliminary Checklist of The Molluscs of Singapore</em>
+(pdf), Raffles Museum of Biodiversity Research, National University of Singapore.</li>
+  <li>Tan, K. S. &amp; L. M. Chou, 2000.
+<em>A Guide to the Common Seashells of Singapore</em>
+. Singapore Science Centre. 160 pp.</li>
+  <li>Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+. National Council on the Environment. 163pp.</li>
+  <li>Ng, P. K. L. &amp; Y. C. Wee, 1994.
+<em>The Singapore Red Data Book: Threatened Plants and Animals of Singapore</em>
+. The Nature Society (Singapore), Singapore. 343 pp.</li>
+  <li>Bunjamin Dharma. 1988.
+<em>Indonesian shells (Siput dan Kerang Indonesia)</em>
+. PT Sarana Graha. Indonesia. 111 pp.</li>
+  <li>Abbott, R. Tucker, 1991.
+<em>Seashells of South East Asia</em>
+. Graham Brash, Singapore. 145 pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

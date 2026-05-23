@@ -1,0 +1,451 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Dog-faced water snake | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="schneider, bockadam, dog, faced, water, snake, watersnake, cerberus, schneiderii, rynchops, homalopsidae, colubridae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/031128sbwrad0089m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Chordata">Chordata</a>
+                    > 
+                    <a href="/Chordata/Reptilia">Reptilia</a>
+                    > 
+                    <a href="/Chordata/Reptilia/Squamata">Squamata</a>
+                    >
+                    <a href="/Chordata/Reptilia/Squamata/Serpentes">Serpentes</a>
+                    >
+                    <a href="/Chordata/Reptilia/Squamata/Serpentes/Homalopsidae">Homalopsidae</a>
+                </p>
+                <h1>Dog-faced water snake</h1>
+                
+                    <p class="scientific-name">Cerberus schneiderii</p>
+                
+
+                <p><em>Updated Oct 2016</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>Although quite commonly seen in our mangroves, this well camouflaged snake is shy and blends in with the mud and the leaf litter. It is more active at night and are usually stays well hidden during the day. It is mainly estuarine and not found in freshwater. According to Baker, in Singapore it is common along our coasts, in mangroves as well as seaward side of canals. It is widely distributed in the Indo-Pacific. It was previously known as
+<em>Cerberus rynchops</em>
+. Nick Baker explains the name change
+<a href="http://www.ecologyasia.com/verts/snakes/dog-faced_water-snake.md">on his factsheet about this snake</a>
+.</p>
+
+<h2 id="features">Features</h2>
+
+<hr />
+<p>To about 1m long. Body cylindrical with a ‘neck’ and a broad head. Grey, brown or olive, it may have dark indistinct patterns. A dark streak passes through the eye to the neck. The snake is adapted for slow-moving, shallow and murky waters. It can swim well. On soft mud, it moves quickly by side-winding. Although it very much at home in the water, it still needs to breathe air. Its eyes and nostrils are at the top of the head so it can peep out of the water and breathe while most of its body remains hidden in the murky water. The snake is mildly venomous but is usually docile.</p>
+
+<p><strong>Why ‘dog-faced’?</strong>
+It is said that it got its common name for its protruding eyes, which is rather unusual for a snake. Whether this makes the snake look dog-like is somewhat debatable.</p>
+
+<p><strong>What does it eat?</strong>
+<em>**</em>
+Mainly fishes. As soon as the sun sets, these snakes come out to hunt. The snake might lie motionless among a tangle of roots, its body in S-shapes, ready to strike out at any suitable prey that wanders nearby. Or it might move about slowly among the mangrove roots, checking out burrows and bolt-holes to see if there is something tasty hiding there. The prey is swallowed whole. They’ve been seen catching and swallowing rather large fishes. One was seen attempting to swallow a dead fish head. They sometimes also try to steal one another’s prey.</p>
+
+<p><strong>Dog-faced babies:</strong>
+Mama snake does not lay eggs and instead, gives birth to live young in litters of 8-26. The babies look just like their parents. Sometimes, tiny baby watersnakes might be seen.</p>
+
+<p><img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/031128sbwrad0089m3.jpg" alt="" /></p>
+
+<p>*Sungei Buloh Wetland Reserve, Nov 03</p>
+
+<p><img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/031128sbwrad0089m3b.jpg" alt="" />*
+Protruding eyes give it its common name.
+*<img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/031128sbwrbd0021m3a.jpg" alt="" /></p>
+
+<p>Sungei Buloh Wetland Reserve, Nov 03*</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/070222prpd8325m3.jpg" alt="" />
+        <div class="caption">
+        The fish is lifted out of water. Pasir Ris Park, Feb 07
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/070306prpd8802m3.jpg" alt="" />
+        <div class="caption">
+        Attempted theft of prey. Pasir Ris Park, Mar 07
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/070306prpd8785m3.jpg" alt="" />
+        <div class="caption">
+        Attempting to eat a dead rotten fish head. Pasir Ris Park, Mar 07
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Dog-faced water snakes (Schneider’s Bockadam) on Singapore shores</strong></p>
+
+<hr />
+
+<p>Photos of
+<a href="https://www.flickr.com/search/?text=Cerberus%20schneiderii&amp;sort=relevance&amp;user_id=54527470%40N00">Dog-faced water snakes</a>
+for free download from
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<hr />
+
+<p>Distribution in Singapore on this
+<a href="https://www.flickr.com/photos/wildsingapore/tags/Cerberus%2520schneiderii/map?&amp;fLat=1.2622&amp;fLon=103.8654&amp;zl=11&amp;order_by=recent">wildsingapore flickr map</a></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/110129mndik.jpg" alt="" />
+        <div class="caption">
+        Mandai Mangroves, Jan 11 Photo shared by Ivan Kwan on flickr .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/070306prpd8792m3.jpg" alt="" />
+        <div class="caption">
+        Swallowing a fish bigger than its head! Pasir Ris Park, Mar 07
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/070306prpd8806m3.jpg" alt="" />
+        <div class="caption">
+        Swallowed head first...slowly...slowly.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/070306prpd8816m3.jpg" alt="" />
+        <div class="caption">
+        Gulp!
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/131007smkjk.JPG" alt="" />
+        <div class="caption">
+        Eating a Pink-speckled shrimp-goby . Pulau Semakau, Oct 13 Photo shared by James Koh on flickr .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/160208smksjll4.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau, Feb 16 Photo shared by Jianling Liu on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/160208smksrl1.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau, Feb 16 Photo shared by Russel Low on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p>Filmed in 2008 on Pulau Semakau</p>
+
+<p><a href="http://vimeo.com/1464331">dog-faced water snake@semakau</a>
+from
+<a href="http://vimeo.com/sgbeachbum">SgBeachBum</a>
+on
+<a href="https://vimeo.com">Vimeo</a>
+.</p>
+
+<hr />
+
+<p>Filmed at Pasir Ris, Dec 10</p>
+
+<p><a href="http://vimeo.com/17290888">dog-faced water snake @ Pasir Ris Mangroves</a>
+from
+<a href="http://vimeo.com/sgbeachbum">SgBeachBum</a>
+on
+<a href="https://vimeo.com">Vimeo</a>
+.</p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://mangrove.nus.edu.sg/guidebooks/text/2112.md">Mangrove snakes: Dog-faced water snake</a>
+Ng, Peter K. L. &amp; N. Sivasothi, 1999.
+<em><a href="http://mangrove.nus.edu.sg/guidebooks/">A Guide to the Mangroves of Singapore Ii (Animal Diversity</a></em>
+<a href="http://mangrove.nus.edu.sg/guidebooks/">)</a>
+. Singapore Science Centre. 168 pp.</li>
+  <li><a href="http://www.ecologyasia.com/verts/snakes/dog-faced_water-snake.md">Dog-faced Water Snake</a>
+on Nick Baker’s EcologyAsia website: fact sheet with photos.</li>
+  <li><a href="http://www.wildsingapore.per.sg/discovery/factsheet/snakedogfaced.md">Dog-faced Water Snake</a>
+on Chan Kwok Wai’s Wildlife Singapore: fact sheet with photos.</li>
+  <li><a href="https://singapore.biodiversity.online/taxo4254/mainSpace/Cerberus%20rynchops.html"><em>Cerberus rynchops</em></a>
+(Squamata: Homalopsidae) Dog-faced Water Snake by Lee Bee Yan, 2011 on taxo4254.</li>
+  <li><a href="http://www.iucnredlist.org/details/176680/0"><em>Cerberus rynchops</em></a>
+on the IUCN Red List.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Craig Justin Tan. 29 May 2020.
+<em>Malayan water monitor preying on dog-faced water snake.</em>
+Singapore Biodiversity Records 2020: 58 ISSN 2345-7597</li>
+  <li>Andrew Tay &amp; Caitlin Wind. 6 December 2013.
+<em>Dog-faced water snake attacking pufferfish</em>
+. Singapore Biodiversity Records 2013: 100.</li>
+  <li>Lim, Kelvin K. P. &amp; Francis L K Lim, 1992.
+<em>A Guide to the Amphibians and Reptiles of Singapore</em>
+Singapore Science Centre. 160 pp.</li>
+  <li>Baker, Nick and Kelvin Lim. 2008.
+<em>Wild Animals of Singapore: A Photographic Guide to Mammals, Reptiles, Amphibians and Freshwater Fishes</em>
+Vertebrate Study Group, Nature Society (Singapore). 180 pp.</li>
+  <li>Stuebing, Robert B and Robert F. Inger. 1999.
+<em>A Field Guide to the Snakes of Borneo</em>
+Natural History Publications (Borneo). 254 pp.</li>
+  <li>Cox, Merel J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt. 1998.
+<em>A Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular Malaysia and Singapore</em>
+New Holland. pp 144.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

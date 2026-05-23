@@ -1,0 +1,610 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Peacock sole | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="peacock, flat, fish, flatfish, sole, pardachirus, pavoninus, soleidae, pleuronectiformes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/100810sngd9903m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Chordata">Chordata</a>
+                    > 
+                    <a href="/Chordata/Actinopterygii">Actinopterygii</a>
+                    > 
+                    <a href="/Chordata/Actinopterygii/Carangiformes">Carangiformes</a>
+                    >
+                    <a href="/Chordata/Actinopterygii/Carangiformes/Pleuronectoidei">Pleuronectoidei</a>
+                    >
+                    <a href="/Chordata/Actinopterygii/Carangiformes/Pleuronectoidei/Soleidae">Soleidae</a>
+                </p>
+                <h1>Peacock sole</h1>
+                
+                    <p class="scientific-name">Pardachirus pavoninus</p>
+                
+
+                <p><em>Updated Mar 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This large pretty fish is sometimes seen on on sandy areas near seagrasses on some of our shores.
+<em>**</em></p>
+<h2 id="features">Features</h2>
+
+<p>Those seen about 10-15cm, can grow to about 20cm. Eyes on right side. Small, highly curved mouth. Body oblong and very flat. No pectoral fins. Tail fin separated from the dorsal and anal fins. It has a pattern of circles that resemble eyes (a pale spot with a dark centre). This pattern of eyes possibly gives rise to its common name because the tail of a peacock also has a pattern of eyes.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/100810sngd9903m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Senang, Aug 10
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/050722cjg9806m6l.jpg" alt="" />
+        <div class="caption">
+        Tail fin joined to the dorsal and anal fins only at the base . Chek Jawa, Jul 05
+        </div>
+    </div>
+    
+
+</div>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/050722cjg9806m3b.jpg" alt="" />
+        <div class="caption">
+        Eyes on the right side .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/150422jngd3848m3.jpg" alt="" />
+        <div class="caption">
+        Underside. Pulau Jong, Apr 15
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/150422jngd3849m3.jpg" alt="" />
+        <div class="caption">
+        Underside. Pulau Jong, Apr 15
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Toxic peacocks!</strong>
+The fish produces a mucus from toxin glands along the base of the dorsal and anal fin rays around the entire outline of the body. This may be toxic to small fishes. According to
+<a href="http://www.fishbase.org/Summary/SpeciesSummary.php?id=8271">FishBase</a>
+, this mucus appears to have shark-repellent properties. The more obvious marking on this fish may serve to warn of its unpleasant nature.</p>
+
+<p>The Moses sole (
+<em>Pardachirus mamoratus</em>
+) found in the Red Sea produces an astringent, frothy, soap-like poison, called pardaxin, that was found to repel sharks. However, the toxin proved difficult to package and store and could not be used to protect humans.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/080721cyrd8122m3.jpg" alt="" />
+        <div class="caption">
+        Well camouflaged! Cyrene Reef, Jul 08
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/050820bbg1728m3.jpg" alt="" />
+        <div class="caption">
+        Beting Bronok, Aug 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/100612chgd5305m3.jpg" alt="" />
+        <div class="caption">
+        Changi, Jun 10
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>What does it eat?</strong>
+Lying buried in the sand, it preys on bottom dwelling animals including worms, small crustaceans and molluscs.</p>
+
+<p><strong>Human uses:</strong>
+Although the skin is said to have a bitter taste, the flesh is described as good to eat.</p>
+
+<hr />
+
+<p><strong>Peacock soles on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470%40N00&amp;sort=date-taken-desc&amp;view_all=1&amp;text=Pardachirus%20pavoninus">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Pardachirus%2520pavoninus/map?&amp;fLat=1.2619&amp;fLon=103.8654&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/080604chglksm3.jpg" alt="" />
+        <div class="caption">
+        Changi, Jun 08 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/100612chglks4m6l.jpg" alt="" />
+        <div class="caption">
+        Changi, Jun 10 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/180519skddc1.jpg" alt="" />
+        <div class="caption">
+        Pulau Sekudu, May 18 Photo shared by Dayna Cheah on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/221226ecpglks2.jpg" alt="" />
+        <div class="caption">
+        East Coast (G), Dec 22 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/090725tmjkm6l.jpg" alt="" />
+        <div class="caption">
+        Tanah Merah, Jul 09 Photo shared by James Koh on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/090818tmjk3m3.jpg" alt="" />
+        <div class="caption">
+        Tanah Merah, Aug 09 Photo shared by James Koh on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/150618tmftlks3m3.jpg" alt="" />
+        <div class="caption">
+        Tanah Merah Ferry Terminal, Jun 15 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/100709tmmn2m6l.jpg" alt="" />
+        <div class="caption">
+        Tanah Merah, Jul 10 Photo shared by Loh Kok Sheng on his flickr .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/200311blylks3.jpg" alt="" />
+        <div class="caption">
+        Berlayar Creek, Mar 20 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/160509srpmn6.jpg" alt="" />
+        <div class="caption">
+        Sentosa Serapong, May 16 Photo shared by Marcus Ng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/230508srprk1.jpg" alt="" />
+        <div class="caption">
+        Sentosa Serapong, May 23 Photo shared by Richard Kuah on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/220517sntmn2.jpg" alt="" />
+        <div class="caption">
+        Sentosa Tg Rimau, May 22 Photo shared by Marcus Ng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/130427sntmn.jpg" alt="" />
+        <div class="caption">
+        Sentosa, Apr 13 Photo shared by Marcus Ng on flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/240113lazjll2.jpg" alt="" />
+        <div class="caption">
+        Lazarus Island, Jan 24 Photo shared by Jianlin Liu on facebook
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/200705kusrk2.jpg" alt="" />
+        <div class="caption">
+        Kusu Island, Jul 20 Photo shared by Richard Kuah on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/230831sjirk5.jpg" alt="" />
+        <div class="caption">
+        St John's Island, Aug 23 Photo shared by Richard Kuah on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/200820ssismn2.jpg" alt="" />
+        <div class="caption">
+        Small Sisters Island, Aug 2020 Photo shared by Marcus Ng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/210821cyrdc2.jpg" alt="" />
+        <div class="caption">
+        Cyrene Reef, Aug 21 Photo shared by Dayna Cheah on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/110717tbjk5m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Bemban, Jul 11 Photo shared by James Koh on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/100613sngtch2m6l.jpg" alt="" />
+        <div class="caption">
+        Pulau Senang, Jun 10 Photo shared by Toh Chay Hoon on her flickr .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/091205sudjk13m6l.jpg" alt="" />
+        <div class="caption">
+        Pulau Sudong, Dec 09 Photo shared by James Koh on his flickr .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/385.md">Peacock Sole (
+<em>Pardachirus pavoninus</em>
+)</a>
+Lim, Kelvin K. P. &amp; Jeffrey K. Y. Low, 1998.
+<em><a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/">A Guide to the Common Marine Fishes of Singapore</a></em>
+. Singapore Science Centre. 163 pp. Family Soleidae .</li>
+  <li>
+    <dl>
+      <dt>[Peacock sole (</dt>
+      <dt><em>Pardachirus pavoninus</em></dt>
+      <dt>)](http://www.fishbase.org/summary/8271)</dt>
+      <dt>from</dt>
+      <dt><a href="http://www.fishbase.org/">FishBase</a></dt>
+      <dd>Technical fact sheet. Also on the
+<a href="http://www.fishbase.us/summary/8917"><em>Pardachirus marmoratus</em>
+(Finless sole).</a></dd>
+    </dl>
+  </li>
+  <li><a href="http://www.fao.org/docrep/009/x2400e/x2400e00.md">Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)</a>
+FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.</li>
+  <li><a href="http://wildshores.blogspot.com/2008/09/how-to-avoid-being-eaten-by-shark.html">How to avoid being eaten by a shark</a>
+on the wild shores of singapore blog: about the toxin produced by the Moses sole.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Allen, Gerry, 2000.
+<em>Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers</em>
+. Periplus Editions. 292 pp.</li>
+  <li>Kuiter, Rudie H. 2002.
+<em>Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers &amp; Fishermen</em>
+New Holland Publishers. 434pp.</li>
+  <li>Lieske, Ewald and Robert Myers. 2001.
+<em>Coral Reef Fishes of the World</em>
+Periplus Editions. 400pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

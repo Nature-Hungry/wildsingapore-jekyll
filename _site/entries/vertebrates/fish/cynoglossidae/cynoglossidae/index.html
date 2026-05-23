@@ -1,0 +1,535 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Tongue-soles | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="tongue, sole, flat, fish, flatfish, cynoglossidae, pleuronectiformes, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/081019chgd1321m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Chordata">Chordata</a>
+                    > 
+                    <a href="/Chordata/Actinopterygii">Actinopterygii</a>
+                    > 
+                    <a href="/Chordata/Actinopterygii/Carangiformes">Carangiformes</a>
+                    >
+                    <a href="/Chordata/Actinopterygii/Carangiformes/Pleuronectoidei">Pleuronectoidei</a>
+                    >
+                    <a href="/Chordata/Actinopterygii/Carangiformes/Pleuronectoidei/Cynoglossidae">Cynoglossidae</a>
+                </p>
+                <h1>Tongue-soles</h1>
+                
+                    <p class="scientific-name">Family Cynoglossidae</p>
+                
+
+                <p><em>Updated Sep 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about them ... Small and flat, they are often mistaken for flatworms! Eyes on left side of the body. Tail, dorsal and anal fins joined all around the body. Found beneath the sand. Watch your step!
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        Small and flat, they are often mistaken for flatworms! Eyes on left side of the body. Tail, dorsal and anal fins joined all around the body. Found beneath the sand. Watch your step!
+        </div>
+    </div>
+    
+
+</div>
+
+<h2 id="where-seen">Where seen?</h2>
+<dl>
+  <dt>These tiny flatfishes are sometimes seen on our Northern shores, among seagrasses, buried in sand or hovering over the surface.</dt>
+  <dt><strong>What are tongue-soles?</strong></dt>
+  <dt>Tongue-soles are</dt>
+  <dt><a href="../pleuronectiformes/pleuronectiformes.md">flatfishes</a></dt>
+  <dt>belonging to the Family Cynoglossidae. According to</dt>
+  <dt><a href="http://fishbase.sinica.edu.tw/summary/FamilySummary.cfm?id=442">FishBase</a></dt>
+  <dd>the family has 3 genera and 110 species. They are found in all warm oceans, most species in shallow waters or near river mouths. One group (Symphurinae) are found in very deep waters 1,000m or more. In Greek, ‘kyon’ means ‘dog’ and ‘glossa’ means ‘tongue’.
+    <h2 id="features">Features</h2>
+  </dd>
+</dl>
+
+<p>To about 18cm, those seen about 3-6cm. Both eyes on the left side, usually very small and close together. Body flat and oval, tapering at the tail, like an elongated tear-drop shape. The tail fin is joined and merges seamlessly with the dorsal and anal fins. There are no spines in all the fins. The dorsal fin starts at or infront of the eyes. It lacks pectoral fins. The teeth are tiny and usually only on the blind side. The eyed side usually has an even pattern of pale spots and matches the colour of its surroundings. Patterns may vary even within the same species. And patterns are often obscured by a layer of sand. Species are difficult to positively identify in the field or from photographs without closer examination of small features on the body.</p>
+
+<p><strong>Sometimes confused with</strong>
+other
+<a href="../pleuronectiformes/pleuronectiformes.md">flatfishes</a>
+. Here’s more on
+<a href="../pleuronectiformes/pleuronectiformes1.md">how to tell apart the flatfish families</a>
+commonly seen. Tiny, flat and fast, they are also sometimes mistaken for
+<a href="../../../worm/polycladida/polycladida.md">flatworms</a>
+.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/081019chgd1321m3.jpg" alt="" />
+        <div class="caption">
+        A tiny one. Changi, Oct 08
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/050622cftd4074m6l.jpg" alt="" />
+        <div class="caption">
+        Changi, Jun 05
+        </div>
+    </div>
+    
+
+</div>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/110220lazd6353m6l.jpg" alt="" />
+        <div class="caption">
+        Seringat-Kias, Feb 11
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>What do they eat?</strong>
+Like other flatfishes, they are ambush predators. Lying in wait for prey, just beneath the sediment or sand, with only the eyes sticking out.</p>
+
+<p><strong>Human uses:</strong>
+Many large tongue-sole species are commercially important as food. Elsewhere, some species can reach 40cm long.</p>
+
+<hr />
+
+<p><strong>Tongue-soles on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470%40N00&amp;sort=date-taken-desc&amp;safe_search=3&amp;view_all=1&amp;text=Cynoglossidae">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Cynoglossidae/map?&amp;fLat=1.2622&amp;fLon=103.8661&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/180714prprk1.jpg" alt="" />
+        <div class="caption">
+        Pasir Ris, Jul 18 Shared by Richard Kuah on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/210114chg7mn1.jpg" alt="" />
+        <div class="caption">
+        Changi CP7, Jan 21 Photo shared by Marcus Ng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/090428chglks.jpg" alt="" />
+        <div class="caption">
+        Changi, Apr 09 Photo shared by Loh Kok Sheng on flickr .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/220616chgedc3.jpg" alt="" />
+        <div class="caption">
+        Changi Lost Coast, Jun 22 Shared by Dayna Cheah on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/180812nsrtlks6.jpg" alt="" />
+        <div class="caption">
+        East Coast, Aug 18 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/081214ecmlks04m6l.JPG" alt="" />
+        <div class="caption">
+        East Coast, Dec 08 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/180812nsrtlks6.jpg" alt="" />
+        <div class="caption">
+        East Coast, Aug 18 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/100105tmjk.jpg" alt="" />
+        <div class="caption">
+        Tanah Merah, Jan 10 Photo shared by James Koh on flickr .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Family Cynoglossidae recorded for Singapore</strong>
+from Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+.</p>
+
+<p>^from
+<a href="http://www.marinespecies.org/">WORMS</a></p>
+
+<p><strong>Family Cynoglossidae</strong></p>
+
+<p>*Cynoglossus arel</p>
+
+<p>Cynoglossus bilineatus</p>
+
+<p>Cynoglossus blochii=^Paraplagusia blochii</p>
+
+<p>Cynoglossus borneensis=^Plagusia borneensis=^Cynoglossus trulla</p>
+
+<p>Cynoglossus cynoglossus</p>
+
+<p>Cynoglossus grandisquamis</p>
+
+<p>Cynoglossus kopsii</p>
+
+<p>Cynoglossus lingua</p>
+
+<p>Cynoglossus macrolepidotus</p>
+
+<p>Cynoglossus puncticeps*
+(Speckled tongue-sole)
+*Cynoglossus sibogae</p>
+
+<p>Cynoglossus sumatranus=^Plagusia sumatrana=^Cynoglossus cynoglossus</p>
+
+<p>Paraplagusia bleekeri*
+(Bleeker’s fringelip tongue-sole)
+<em>Paraplagusia bilineata</em>
+(Double-lined tongue-sole)</p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/390.md">Doublelined Tongue-Sole (
+<em>Paraplagusia bilineata</em>
+)</a>
+and
+<a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/389.md">Speckled Tongue-Sole (
+<em>Cynoglossus puncticeps</em>
+)</a>
+Lim, Kelvin K. P. &amp; Jeffrey K. Y. Low, 1998.
+<em><a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/">A Guide to the Common Marine Fishes of Singapore</a></em>
+. Singapore Science Centre. 163 pp.</li>
+  <li><a href="http://www.fishbase.org/summary/FamilySummary.php?ID=442">Family Cynoglossidae</a>
+(Tonguefishes) and
+<a href="http://www.fishbase.org/summary/7523"><em>Cynoglossus arel</em>
+(Largescale tonguesole)</a>
+and
+<a href="http://www.fishbase.org/summary/5455"><em>Cynoglossus bilineatus</em>
+(Fourlined tonguesole)</a>
+and
+<a href="http://www.fishbase.org/summary/9243"><em>Cynoglossus trulla</em>
+(Macau sole)</a>
+and
+<a href="http://www.fishbase.org/summary/5456"><em>Cynoglossus cynoglossus</em>
+(Bengal tongue sole)</a>
+and
+<a href="http://www.fishbase.org/summary/7647"><em>Cynoglossus kopsii</em>
+(Shortheaded tonguesole)</a>
+and
+<a href="http://www.fishbase.org/summary/8238"><em>Cynoglossus lingua</em>
+(Long tongue sole)</a>
+and
+<em><a href="http://www.fishbase.org/summary/59539">Cynoglossus macrolepidotus</a></em>
+and
+<em><a href="http://www.fishbase.org/summary/4807">Cynoglossus puncticeps</a></em>
+<a href="http://www.fishbase.org/summary/4807">(Speckled tonguesole)</a>
+and
+<em><a href="http://www.fishbase.org/summary/59556">Cynoglossus sibogae</a></em>
+and
+<a href="http://www.fishbase.org/summary/522"><em>Paraplagusia bilineata</em>
+(Doublelined tonguesole)</a>
+from
+<a href="http://www.fishbase.org/">FishBase</a>
+.</li>
+  <li><a href="http://www.fao.org/docrep/009/x2400e/x2400e00.md">Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)</a>
+FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Kelvin K. P. Lim &amp; Tan Heok Hui.
+<em>Bleeker’s fringelip tongue-sole at East Coast.</em>
+29 March 2018. Singapore Biodiversity Records 2018: 33-34 ISSN 2345-7597. National University of Singaporec.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

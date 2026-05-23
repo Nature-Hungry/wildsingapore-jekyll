@@ -1,0 +1,693 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Haddon's carpet anemone | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="haddon's, carpet, anemone, stichodactyla, haddoni, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="https://live.staticflickr.com/65535/48210143757_fd8a06835b_c.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Cnidaria">Cnidaria</a>
+                    > 
+                    <a href="/Cnidaria/Anthozoa">Anthozoa</a>
+                    > 
+                    <a href="/Cnidaria/Anthozoa/Actiniaria">Actiniaria</a>
+                    >
+                    <a href="/Cnidaria/Anthozoa/Actiniaria/Enthemonae">Enthemonae</a>
+                    >
+                    <a href="/Cnidaria/Anthozoa/Actiniaria/Enthemonae/Stichodactylidae">Stichodactylidae</a>
+                </p>
+                <h1>Haddon's carpet anemone</h1>
+                
+                    <p class="scientific-name">Stichodactyla haddoni</p>
+                
+
+                <p><em>Updated Dec 2024</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+
+</div>
+
+<h2 id="where-seen">Where seen?</h2>
+<p>This enormous anemone bigger than your face is commonly seen on many of shores. In sandy areas, among seagrasses and also on coral rubble.</p>
+
+<h2 id="features">Features</h2>
+
+<p>Diameter 40-50cm when fully expanded, but is said to reach up to 75-80cm. The large oral disk is densely covered with short tentacles so that it resembles a short-pile carpet. Tentacles short, stubby and may have bulbous tips, sometimes resembling beads. Tentacles are sticky. The outer edge of the oral disk is fringed with tentacles that are twice as long (exocoelic tentacles), alternating with short ones (endocoelic tentacles). The long body column is usually buried and ends in a pedal disk that anchors the animal. Small bumps (verrucae) on the body column are non-adhesive, small and not visible as they are usually the same colour as the body colum.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/050623cjg8256m3.jpg" alt="" />
+        <div class="caption">
+        Chek Jawa, Jun 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/050623cjg8256m3a.jpg" alt="" />
+        <div class="caption">
+        Verrucae invisible.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/050623cjg8256m3b.jpg" alt="" />
+        <div class="caption">
+        Distinctive alternating 'long' and 'short' tentacles at the circumference.
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Colourful Carpets:</strong>
+Carpet anemones of the same species may have very different colours, some may even appear striped. Colours seen include deep purple, a fresh green to muted pastel blue, green and grey. Andy Dinesh took a
+<a href="haddoni1v.md">video clip of these anemones flourescing</a>
+under UV (ultaviolet) light!</p>
+
+<p><strong>Sometimes mistaken for</strong>
+other carpet anemones and other large anemones. Here’s more on how to tell apart
+<a href="stichodactyla.md">the different kinds of carpet anemones</a>
+and
+<a href="cfbiglong.md">large sea anemones with long tentacles</a>
+and
+<a href="../cflargecnidarians.md">large ‘hairy’ cnidarians</a>
+.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/070324cyrd9315m3.jpg" alt="" />
+        <div class="caption">
+        Cyrene, Mar 07
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/070217skdg7655m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Sekudu, Feb 07
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/050623cjd4123m3.jpg" alt="" />
+        <div class="caption">
+        Chek Jawa, Jun 05
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Stinging carpet!</strong>
+<em>**</em>
+Like other anemones, the carpet anemone has stingers in its tentacles. Generally, these stings do not hurt human beings, but they can leave welts on sensitive skin.</p>
+
+<p><strong>Carpet food:</strong>
+Carpet anemones harbour symbiotic single-celled algae (called zooxanthellae). The algae undergo photosynthesis to produce food from sunlight. The food produced is shared with the anemone, which in return provides the algae with shelter and minerals. The zooxanthellae are believed to give the tentacles their brown or greenish tinge. Carpet anemones may also feed on fine particles that are trapped on their bodies.</p>
+
+<p>The anemones have also been seen swallowing various animals. The sticky tentacles grab any that blunder or are washed into them. The oral disk can contract quickly to hold on to the luckless prey, which is eventually transferred into the central mouth. Some large creatures that are swallowed up by carpet anemones include fishes and crabs. More photos of
+<a href="haddonieat.md">what our carpet anemones have been seen swallowing</a>
+.</p>
+
+<p><strong>Haddoni friends:</strong>
+Besides the symbiotic algae that lives inside the their tentacles several kinds of animals have been recorded elsewhere as being associated with Haddon’s carpet anemones. These include anemone shrimps (
+<em>Periclimenes</em>
+sp.), and fishes such as
+<em>Dascyllus trimaculatus</em>
+and
+<a href="../../vertebrates/fish/pomacentridae/amphiprion.md">anemonefishes</a>
+(
+<em>Amphiprion</em>
+sp.) including
+<em>A. akindynos, A. clarkii, A. fuscocaudatus, A. polymnus, A. sebae, A. xanthurus.</em>
+But so far, the only animals seen living on our Haddon’s carpet anemones are the
+<a href="../../crustacea/othercrust/shrimp/carpet.md">tiny carpet anemoneshrimp</a>
+(
+<em>Periclimenes</em>
+sp.),
+<a href="../../crustacea/othercrust/shrimp/brevicarpalis.md">Peacock-tail anemone shrimp</a>
+(
+<em>Periclimenes brevicarpalis</em>
+).</p>
+
+<p>Other animals have been observed taking shelter under these anemones, such as crabs and snapping shrimps.
+<a href="../../echinodermata/holothuroidea/phyllophorus.md">Ball sea cucumbers</a>
+are often found buried near carpet anemones. Also seen were
+<a href="../../vertebrates/fish/chaetodontidae/ocellatus.md">Kite butterflyfish</a>
+(
+<em>Parachaetodon ocellatus</em>
+) and
+<a href="../../vertebrates/fish/apogonidae/margaritophorus.md">Chequered cardinalfish</a>
+(
+<em>Apogon margaritophorus</em>
+) swimming near, but not touching, carpet anemones. Sometimes small groups of small Kite butterflyfishes are seen near carpet anemones.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddonieat/020228cjd7682m3.jpg" alt="" />
+        <div class="caption">
+        Capturing small fishes by folding the oral disk over the prey. Chek Jawa, Feb 02
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/050621skdg8007m3.jpg" alt="" />
+        <div class="caption">
+        Tiny anemone shrimps are often found in these anemones. Pulau Sekudu, Jun 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg" alt="" />
+        <div class="caption">
+        Peacock-tail anemone shrimps are often found in these anemones. Kusu Island, Jul 04
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Should I ‘save’ animals trapped in a carpet anemone?</strong>
+If you do, you will be depriving the anemone of a meal. It might not get so lucky again for a while. The animal that you ‘saved’ might also not survive if it was badly stung by the carpet anemone.</p>
+
+<p><strong>Should I feed the anemones?</strong>
+Please don’t. Carpet anemones know how to feed themselves. You might hurt the anemone if you put the wrong thing on it. If you put another living animal on an anemone you will be hurting two animals. Please don’t put objects such as litter or dead crabs on a carpet anemone either.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/020225cjd7259m3.jpg" alt="" />
+        <div class="caption">
+        Some carpet anemones out on the hot dry sand bar at low tide. Chek Jawa, Feb 02
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/020225cjd7429m3.jpg" alt="" />
+        <div class="caption">
+        They can survive out of water for a short time by shrinking their oral disk. Chek Jawa, Feb 02
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/030518cjd0312m3.jpg" alt="" />
+        <div class="caption">
+        They can also tuck the oral disk into the body column. Chek Jawa, May 03
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Carpet of Death:</strong>
+On Chek Jawa, you might notice that there are many carpet anemones on the hot, dry sand bar at low tide. Why are they there when they could be in the cool pools instead? On Chek Jawa, the sand bar is the first to emerge at low tide and the last to submerge as the tide comes in. As fishes and other animals enter the lagoon with the incoming tide, or leave with the outgoing tide, they have to negotiate this minefield of anemones. Some unlucky creatures might blunder into a Carpet anemone. Carpet anemones on the sand bar may thus have a better chance of a meal.</p>
+
+<p><strong>High and dry:</strong>
+Carpet anemones can survive for a short while out of water. To conserve water, the oral disk shrinks to reduce the surface area and mucus is secreted to cover the mouth and delicate body parts. Sediment gets stuck to this mucus, probably providing some shade from the sun. Smaller anemones may also tuck the oral disk into the body column at low tide. When the tide comes back, the oral disk furls to the full size.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/061108cjd6616.jpg" alt="" />
+        <div class="caption">
+        An uprooted and upside down anemone which is otherwise healthy. Chek Jawa, Nov 06
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/070120cjd7673.jpg" alt="" />
+        <div class="caption">
+        Bleaching and ballooning due to prolonged extreme fall in salinity. Chek Jawa, Jan 07
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/070120cjd7636.jpg" alt="" />
+        <div class="caption">
+        Bleaching and exploded anemone due to prolonged extreme fall in salinity. Chek Jawa, Jan 07
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Can carpet anemones move?</strong>
+Carpet anemones probably usually stay in one spot. However, they can uproot themselves and move to a new place. This is probably how they avoid being buried as the sand bar shifts. If you find an ‘uprooted’ carpet anemone, you may place it in a pool of water. There is no need to ‘re-plant’ it.</p>
+
+<p><strong>Bleaching carpet anemones:</strong>
+Carpet anemones do suffer from bleaching, turning pale or flourescent colours when the symbiotic algae leave them. This happens when they are stressed. Stresses include elevated seawater temperatures for an extended time (which causes
+<a href="../coralhard/coralhard.md">mass coral bleaching</a>
+). As well as other extreme changes in water conditions due to pollution or other causes.
+<a href="https://iyor08singapore.blogspot.com/2008/01/chek-jawa-death-and-life-in-2007.html">In 2007</a>
+, there was mass bleaching of carpet anemones on Chek Jawa, believed to be due to prolonged and high rain fall upstream in the Johor River. The exreme and prolonged fall in salinity caused the carpet anemones to not only bleach but also balloon up and explode.</p>
+
+<p><strong>Carpet babies:</strong>
+There is not much information on how Carpet anemones reproduce. Small carpet anemones seen on our shores may actually be another species, the
+<a href="tapetum.md">Mini carpet anemone</a>
+(
+<em>Stichodactyla tapetum</em>
+) and not a young version of the Haddon’s carpet anemone.</p>
+
+<p><strong>Human uses:</strong>
+Unfortunately, these anemones are harvested for the live aquarium trade. Like other animals harvested for the live aquarium trade, most die before they can reach the retailers. Without professional care, most die soon after they are sold. Those that do survive are unlikely to breed successfully.</p>
+
+<p><strong>Status and threats:</strong>
+As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.</p>
+
+<hr />
+
+<p><strong>Haddon’s carpet anemones on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470@N00&amp;sort=date-posted-desc&amp;view_all=1&amp;text=Stichodactyla haddoni">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/stichodactyla%2520haddoni/map?&amp;fLat=1.2629&amp;fLon=103.8661&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/201020prpalks1.jpg" alt="" />
+        <div class="caption">
+        Pasir Ris-Loyang, Oct 20 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/080507ecplks06m3.jpg" alt="" />
+        <div class="caption">
+        East Coast, May 08 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/210115mevc5.jpg" alt="" />
+        <div class="caption">
+        East Coast-Marina Bay, Jan 21 Photo shared by Vincent Choo on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/170822lablks7.jpg" alt="" />
+        <div class="caption">
+        Labrador, Aug 17 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/260104trmlvo7.jpg" alt="" />
+        <div class="caption">
+        Sentosa Tg Rimau, Jan 26 Photo shared by Lon Voon Ong on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/150706srplks.JPG" alt="" />
+        <div class="caption">
+        Sentosa Serapong, Jul 15 Photo shared by Loh Kok Sheng on flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/250714srptt1.jpg" alt="" />
+        <div class="caption">
+        Sentosa Serapong, Jul 25 Photo shared by Tommy Tan on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/070902sjilks02m3.jpg" alt="" />
+        <div class="caption">
+        St. John's Island, Sep 07 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/260217bsislks1.jpg" alt="" />
+        <div class="caption">
+        Big Sister's Island, Feb 26 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/260201cyrtt2.jpg" alt="" />
+        <div class="caption">
+        Cyrene, Feb 26 Photo shared by Tommy Tan on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/110423tpllks4m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Pempang Laut, Apr 11 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/100810snglks2m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Senang, Aug 10 Photo shared by Loh Kok Sheng on his flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/091204pawd0005m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Pawai, Dec 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/091204pawd5201m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Pawai, Dec 09
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><a href="https://vimeo.com/31549574">haddon’s carpet anemone @ sekudu - Oct2011</a>
+from
+<a href="https://vimeo.com/sgbeachbum">SgBeachBum</a>
+on
+<a href="https://vimeo.com">Vimeo</a>
+.</p>
+
+<hr />
+
+        </div>
+        
+        <div class="trivia-box">
+    <h4 class="trivia-box-title">if you learn only 3 things about them ...</h4>
+    <ul>
+        
+        <li class="trivia-box-item">
+            Small carpet anemones maybe hidden under seaweed. Don't step on them! 
+        </li>
+        
+        <li class="trivia-box-item">
+            You may touch them gently, but please don't poke them. 
+        </li>
+        
+        <li class="trivia-box-item">
+            Please don't feed the anemone or 'rescue' any of its prey
+        </li>
+        
+    </ul>
+</div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/120.md">Sea anemones (
+<em>Stoichactis</em>
+sp.)</a>
+Tan, Leo W. H. &amp; Ng, Peter K. L., 1988.
+<em><a href="http://mangrove.nus.edu.sg/pub/seashore/">A Guide to Seashore Life</a></em>
+. The Singapore Science Centre, Singapore. 160 pp.</li>
+  <li><a href="http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail.cfm?genus=Stichodactyla&amp;subgenus=&amp;species=haddoni&amp;subspecies=&amp;synseniorid=113"><em>Stichodactyla haddoni</em></a>
+on the
+<a href="http://hercules.kgs.ku.edu/Hexacoral/Anemone2/">Hexacorallians of the World</a>
+website by Dr Daphne Fautin with classification, distribution, biological associations and more.</li>
+  <li><a href="http://www.nhm.ku.edu/inverts/ebooks/ch1.html#haddoni"><em>Stichodactyla haddoni</em></a>
+on Fautin, Daphne G. and Gerald R. Allen, 1992.
+<a href="http://www.nhm.ku.edu/inverts/ebooks/intro.html">Field guide to anemone fishes and their host sea anemones</a>
+. Western Australian Museum.</li>
+  <li><a href="http://www.sealifebase.org/summary/Stichodactyla-haddoni.html"><em>Stichodactyla haddoni</em></a>
+on SeaLife Base: technical fact sheet</li>
+  <li><a href="https://singapore.biodiversity.online/taxo4254/mainSpace/Stichodactyla%20haddoni.html"><em>Stichodactyla haddoni</em></a>
+(Actiniaria: Actiniidae) Haddon’s Carpet anemone on Taxo4254.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.</li>
+  <li>Daphne Gail Fautin, S. H. Tan and Ria Tan. 30 Dec 2009.
+<em>Sea anemones (Cnidaria: Actiniaria) of Singapore: abundant and well-known shallow-water species</em>
+. Raffles Bulletin of Zoology Supplement No. 22: 121-143.</li>
+  <li>Chou, L. M., 1998.
+<em>A Guide to the Coral Reef life of Singapore</em>
+. Singapore Science Centre. 128 pages</li>
+  <li>Erhardt, Harry and Daniel Knop. 2005.
+<em>Corals: Indo-Pacific Field Guide</em>
+IKAN-Unterwasserachiv, Frankfurt. 305 pp.</li>
+  <li>Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.
+<em>Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates</em>
+Sea Challengers. 314pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

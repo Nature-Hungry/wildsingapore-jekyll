@@ -1,0 +1,705 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Swimming crabs  | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="swimming, crab, portunidae, thalamita, decapod, crustrace, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/040508skdad0127m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Arthropoda">Arthropoda</a>
+                    > 
+                    <a href="/Arthropoda/Malacostraca">Malacostraca</a>
+                    > 
+                    <a href="/Arthropoda/Malacostraca/Decapoda">Decapoda</a>
+                    >
+                    <a href="/Arthropoda/Malacostraca/Decapoda/Pleocyemata">Pleocyemata</a>
+                    >
+                    <a href="/Arthropoda/Malacostraca/Decapoda/Pleocyemata/Portunidae">Portunidae</a>
+                </p>
+                <h1>Swimming crabs </h1>
+                
+                    <p class="scientific-name">Family Portunidae</p>
+                
+
+                <p><em>Updated Dec 2019</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about them ... Unlike other crabs, they swim very well! They move quickly to hunt fast-moving prey like fish. They can give a nasty pinch. Leave them alone!
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        Unlike other crabs, they swim very well! They move quickly to hunt fast-moving prey like fish. They can give a nasty pinch. Leave them alone!
+        </div>
+    </div>
+    
+
+</div>
+
+<h2 id="where-seen">Where seen?</h2>
+<p>Swimming crabs are commonly seen on all our shores. They particularly active at night, but are often also out and about during the day. Besides the large adults, small juvenile swimming crabs are also hidden among the seagrass and seaweed, and other nooks and crannies. These active crabs come in all kinds of colours. Some can react fiercely by waving spiny pincers, and may even give you a nip. So don’t touch these crabs.</p>
+
+<h2 id="features">Features</h2>
+
+<p>Body width 5-15cm. Swimming crabs are among the few crabs that are swift and agile swimmers. They usually swim sideways, but can also swim backwards and sometimes forwards. They swim with their last pair of legs which are paddle-shaped. These rotate like propeller blades when they swim. However, these crabs are essentially bottom-dwellers and don’t swim about all the time. They often hide among the vegetation and slip under rocks and into other narrow crevices.</p>
+
+<p>Swimming crabs have a streamlined shape for racing through the water. They have long pincers armed with sharp spines to snag fish and other fast moving prey. Often, one pincer is slightly larger than the other.</p>
+
+<p>Here’s more on
+<a href="cfportunidae.md">how to tell apart the swimming crabs</a>
+commonly encountered on our shores.</p>
+
+<p><strong>Fierce Crabs:</strong>
+If disturbed, swimming crabs often fearlessly wave their pincers menacingly. This is not an idle threat. If you come too close, this crab might just give a good nip that draws blood!</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/040508skdad0127m3.jpg" alt="" />
+        <div class="caption">
+        Mating swimming crabs Pulau Sekudu, May 04
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/spinimana/110517tptd1379m3.jpg" alt="" />
+        <div class="caption">
+        Brown crab mating with a red one. Both are Red swimming crabs . Terumbu Pempang Tengah, May 11
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/spinimana/250812tbmn2.jpg" alt="" />
+        <div class="caption">
+        With eggs on the belly. Terumbu Bemban, Aug 25 Photo shared by Marcus Ng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/tiny/040719sntd2861m3.jpg" alt="" />
+        <div class="caption">
+        Flower crab (top) next to its moulted shell (bottom) Sentosa, Jul 04
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>What do they eat?</strong>
+They eat fish, worms, other crustaceans (including other crabs), clams and snails. They may also nibble on seaweed.</p>
+
+<p><strong>Swimming Babies:</strong>
+Like other crabs, swimming crabs often mate when the female is
+<a href="../../moulting.md">moulting</a>
+.</p>
+
+<p><strong>Monstrous crabs:</strong>
+In Greek Mythology, Scylla is a female sea monster, who lives along a narrow channel, opposite the dwelling place of Charybdis, another female sea monster, sometimes a whirlpool. Thus arose the idiom: “between Scylla and Charybdis” meaning a precarious position where avoiding of one danger exposes oneself to another danger.</p>
+
+<p><strong>Human uses:</strong>
+Swimming crabs are edible and enjoyed by people everywhere. In our part of the world, from Asia to Australia., the
+<a href="pelagicus.md">Flower crab</a>
+(
+<em>Portunus pelagicus</em>
+) is one of the commonly eaten members of this family.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/spinimana/090112smkd5112m3.jpg" alt="" />
+        <div class="caption">
+        Threat posture. Pulau Semakau, Nov 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/spinimana/110517tptd1536m3b.jpg" alt="" />
+        <div class="caption">
+        Eating a heart urchin. Terumbu Pempang Tengah, May 11
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/spinimana/041214smkd8903m3.jpg" alt="" />
+        <div class="caption">
+        Eating a jellyfish Pulau Semakau, Dec 04
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/spinimana/250727smkwjk1.jpg" alt="" />
+        <div class="caption">
+        Eating a bristleworm Pulau Semakau (West), Jul 25 Photo shared by Jayden Kang on facebok .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/mottled/260101cryyls4a.jpg" alt="" />
+        <div class="caption">
+        Caught an amphipod? Cyrene, Feb 26 Photo by Yan Le Su on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/090511chgd1344m3.jpg" alt="" />
+        <div class="caption">
+        Eating another swimming crab. Changi, Aug 08
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Some Swimming crabs on Singapore shores</strong></p>
+
+<p>more on
+<a href="cfportunidae.md">how to tell apart the swimming crabs</a>
+on Singapore shores</p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/scylla/111128sntd4168m3.jpg" alt="" />
+        <div class="caption">
+        Mud crab
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/050622cftg8190m3.jpg" alt="" />
+        <div class="caption">
+        Flower crab
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/tiny/050428cftd2923m3.jpg" alt="" />
+        <div class="caption">
+        Tiny flower crabs
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/050621skdg7959m3.jpg" alt="" />
+        <div class="caption">
+        Purple legged swimming crab
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/spinimana/050623cjg8260m3.jpg" alt="" />
+        <div class="caption">
+        Red swimming crab
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/spinimana/050623cjd4115m3.jpg" alt="" />
+        <div class="caption">
+        Red swimming crab
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/anisodon/130726chgsafd0475m3.jpg" alt="" />
+        <div class="caption">
+        Orange-clawed swimming crab
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/bluespined/040818sntd4739m3.jpg" alt="" />
+        <div class="caption">
+        Blue-spined swimming crab
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/mottled/091106smkd3749m3.jpg" alt="" />
+        <div class="caption">
+        Mottled swimming crab
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/annulata/041215labd8963m3.jpg" alt="" />
+        <div class="caption">
+        Banded-leg swimming crab
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/110730tmd7500m3.jpg" alt="" />
+        <div class="caption">
+        Powder blue-clawed swimming crab
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/blue/110730tmftd7804m3.jpg" alt="" />
+        <div class="caption">
+        Blue swimming crab
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/natator/120124sisd6045m3.jpg" alt="" />
+        <div class="caption">
+        Ridged swimming crab
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/sanguinolentus/150605kusmn4m3.jpg" alt="" />
+        <div class="caption">
+        Blood-spotted swimming crab
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/feriatus/050721cjd5144m3.jpg" alt="" />
+        <div class="caption">
+        Crucifix swimming crab
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Family Portunidae recorded for Singapore</strong></p>
+
+<p>from Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em></p>
+
+<p>in red are those listed among the threatened animals of Singapore
+from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+<em>The Singapore Red Data Book: Threatened plants and animals of Singapore</em>
+.</p>
+
+<p>+from The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.</p>
+
+<p><em>from Ng, Peter K. L. &amp; N. Sivasothi, 1999.
+*A Guide to the Mangroves of Singapore II (Animal Diversity)</em></p>
+
+<p>**from
+<a href="http://www.marinespecies.org/">WORMS</a></p>
+
+<p><strong>Family Portunidae</strong></p>
+
+<p>*Charybdis affinis</p>
+
+<p>Charybdis anisodon</p>
+
+<p><a href="annulata.md">Charybdis annulata</a>*
+(Banded-leg swimming crab)
+<em><a href="anisodon.md">Charybdis anisodon</a></em>
+(Orange-clawed swimming crab)
+*Charybdis brevispinosa</p>
+
+<p>Charybdis callianassa</p>
+
+<p>**
+<a href="feriatus.md">Charybdis feriata</a>
+=Charybdis feriatus*
+(Crucifix swimming crab)
+*Charybdis granulata</p>
+
+<p><a href="purpleleg.md">Charybdis hellerii</a>*
+(Purple-legged swimming crab)
+<em><a href="natator.md">Charybdis natator</a></em>
+(Ridged swimming crab)
+*Charybdis orientalis</p>
+
+<p>Charybdis ornatus</p>
+
+<p>Charybdis truncata=**Charybdis (Goniohellenus) truncata</p>
+
+<p>Charybdis variegata</p>
+
+<p>+Lupocycloporus gracilimanus</p>
+
+<p>Lupocyclus inaequalis</p>
+
+<p>Lucocyclus rotundatus*
+(NE: Presumed Nationally Extinct)
+<em>Podophthalmus vigil</em>
+(Sentinel swimming crab)
+*Portunus brocki=**Portunus (Xiphonectes) brockii</p>
+
+<p>+Portunus (Portunus) convexus</p>
+
+<p>Portunus gladiator=**Portunus (Monomia) gladiator</p>
+
+<p>Portunus gracilimanus=**Portunus (Lupocycloporus) gracilimanus</p>
+
+<p>Portunus hastatoides=**Portunus (Xiphonectes) hastatoides</p>
+
+<p>+Portunus (Xiphonectes)*
+cf.
+*hastatoides</p>
+
+<p>Portunus innominatus=<strong>Portunus (Lupocycloporus) innominatus*
+<a href="pelagicus.md"><em>Portunus pelagicus</em></a>
+(Flower crab) including
+<a href="tiny.md">tiny ones</a>
+*Portunus rubromarginatus=</strong>Portunus (Monomia) rubromarginatus</p>
+
+<p><a href="sanguinolentus.md">Portunus sanguinolentus</a>*
+(Blood-spotted swimming crab)
+*Portunus tenuipes=**Portunus (Xiphonectes) tenuipes</p>
+
+<p>Portunus tweediei=<strong>Portunus (Xiphonectes) tweediei*
+<a href="scylla.md">**<em>Scylla</em>**
+**sp.**</a>
+**(mud crabs)</strong>
+<em>*Scylla olivacea</em>
+(Orange mud crab)
+<em>*Scylla paramamosain</em>
+(Green mud crab)
+**
+<em>*Scylla tranquebarica</em>
+(Purple mud crab)</p>
+
+<p><strong><em>Thalamita</em>
+sp. (eyes-wide-apart swimming crabs)</strong></p>
+
+<p><em>Thalamita admete</em>
+*+Thalamita chaptalii</p>
+
+<p><a href="powderblue.md">Thalamita crenata</a>*
+(Powder blue-clawed swimming crab)
+<em><a href="blue.md">Thalamita danae</a></em>
+(Blue swimming crab)
+<em>+Thalamita</em>
+cf.
+*pelsarti</p>
+
+<p><a href="bluespined.md">Thalamita prymna</a>*
+(Blue-spined swimming crab)
+*Thalamita sima</p>
+
+<p><a href="spinimana.md">Thalamita spinimana</a>*
+(Red swimming crab)</p>
+
+<p><em>Thalamita stimpsoni=**Thalamita danae</em></p>
+
+<p><a href="mottled.md"><em>Thalamita</em>
+sp.</a>
+(Mottled swimming crab)</p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/201.md">Swimming crabs (Family Portunidae)</a>
+Tan, Leo W. H. &amp; Ng, Peter K. L., 1988.
+<em><a href="http://mangrove.nus.edu.sg/pub/seashore/">A Guide to Seashore Life</a></em>
+. The Singapore Science Centre, Singapore. 160 pp.</li>
+  <li><a href="http://mangrove.nus.edu.sg/guidebooks/text/2045.md">Mud Crabs (
+<em>Scylla</em>
+sp)</a>
+and
+<a href="http://mangrove.nus.edu.sg/guidebooks/text/2045.md">Flower Crab (
+<em>Portunus pelagicus</em>
+)</a>
+Ng, Peter K. L. &amp; N. Sivasothi, 1999.
+<em><a href="http://mangrove.nus.edu.sg/guidebooks/">A Guide to the Mangroves of Singapore II (Animal Diversity)</a></em>
+. Singapore Science Centre. 168 pp.</li>
+  <li>Family Portunidae in the Crabs section by Peter K. L. Ng in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+<a href="http://www.fao.org/docrep/009/w7192e/w7192e00.md">Volume 2: Cephalopods, crustaceans, holothurians and sharks</a>
+on the Food and Agriculture Organization of the United Nations (FAO) website.</li>
+  <li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;list_uids=10973722&amp;dopt=Abstract">Homing in the swimming crab Thalamita crenata: a mechanism based on underwater landmark memory</a>
+. Cannicci S, Barelli C, Vannini M. on the US National Center for Biotechnology Information website: their study shows these crabs can learn and remember landmarks to safely move about and that their ability is more flexible and complex than other crabs, and comparable to that of honeybees.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Hua Kai &amp; Adib Adris. 30 October 2020.
+<em>Sentinel swimming crab (Podophthalmus vigil) at Seringat-Kias</em>
+. Singapore Biodiversity Records 2020: 175. The National University of Singapore.</li>
+  <li>Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
+<em>Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs of the world</em>
+<a href="http://lkcnhm.nus.edu.sg/rbz/biblio/s17/s17rbz.pdf">.</a>
+The Raffles Bulletin of Zoology. Supplement No. 17, 31 Jan 2008. 286 pp.</li>
+  <li>Wee, D. P. C. &amp; Ng, P. K. L.,
+<em>Swimming crabs of the genera Charybdis De Haan, 1833, and Thalamita Latreille, 1829</em>
+(Crustacea: Decapoda: Brachyura: Portunidae) from Peninsular Malaysia and Singapore. Pp. 1-128. Raffles Bulleting of Zoology, Supplement Series No. 1 (31 December 1995)</li>
+  <li>Lim, S., P. Ng, L. Tan, &amp; W. Y. Chin, 1994.
+<em>Rhythm of the Sea: The Life and Times of Labrador Beach.</em>
+Division of Biology, School of Science, Nanyang Technological University &amp; Department of Zoology, the National University of Singapore. 160 pp.</li>
+  <li>Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+<em>The Singapore Red Data Book: Threatened plants and animals of Singapore</em>
+. Nature Society (Singapore). 285 pp.</li>
+  <li>Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+. National Council on the Environment. 163pp.</li>
+  <li>Jones Diana S. and Gary J. Morgan, 2002.
+<em>A Field Guide to Crustaceans of Australian Waters</em>
+. Reed New Holland. 224 pp.</li>
+  <li>Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.
+<em>Invertebrate Zoology</em>
+Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

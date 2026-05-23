@@ -1,0 +1,649 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Common hairy crabs | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="crab, hairy, crustacea, pilumnus, vespertilio, pilumnidae, decapod, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/080621labd6040m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Arthropoda">Arthropoda</a>
+                    > 
+                    <a href="/Arthropoda/Malacostraca">Malacostraca</a>
+                    > 
+                    <a href="/Arthropoda/Malacostraca/Decapoda">Decapoda</a>
+                    >
+                    <a href="/Arthropoda/Malacostraca/Decapoda/Pleocyemata">Pleocyemata</a>
+                    >
+                    <a href="/Arthropoda/Malacostraca/Decapoda/Pleocyemata/Pilumnidae">Pilumnidae</a>
+                </p>
+                <h1>Common hairy crabs</h1>
+                
+                    <p class="scientific-name">Pilumnus vespertilio</p>
+                
+
+                <p><em>Updated Sep 2019</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about them ... 'Hair' covers almost every part of the body! The hairs trap sediments, adding to their camouflage. So please watch out when you step among the rocks. They are mildy poisonous!
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        'Hair' covers almost every part of the body! The hairs trap sediments, adding to their camouflage. So please watch out when you step among the rocks. They are mildy poisonous!
+        </div>
+    </div>
+    
+
+</div>
+
+<h2 id="where-seen">Where seen?</h2>
+<p>Hairy crabs are commonly seen on rocky and coral rubble areas on many of our shores. The “teddy-bear” of crabs, these hairy little creatures fluff up in the water and look positively cuddlesome. But they are hard to spot and usually well hidden, especially during the day. They are more active at night, but even then, they usually scuttle into the nearest crack or crevice at the first sign of danger.</p>
+
+<p>These little crabs are not the same as the large ‘Hairy crabs’ that are served in our restaurants as seafood.</p>
+
+<h2 id="features">Features</h2>
+
+<p>Body width 3-5cm. As its name suggests, its body and limbs are covered with long, silky hairs. These trap sediments allowing the crab to blend perfectly with its surroundings. In the water, its hairs ‘fluff up’ breaking up its body outline. It also moves slowly and thus overlooked as some bit of drifting rubbish. It has large claws, with black or light brown tips. It has reddish eyes.</p>
+
+<p>The Common hairy crab (
+<em>Pilumnus vespertilio</em>
+) is the most commonly encountered hairy crab on our shores and reefs. It has long, soft hairs and has been described as having the appearance of a mop. The various species of hairy crabs are very difficult to distinguish in the field.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/080621labd6040m3.jpg" alt="" />
+        <div class="caption">
+        Labrador, Jun 08
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/040817sntd4704m3.jpg" alt="" />
+        <div class="caption">
+        Sentosa, Aug 04
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/080606cyrtch.jpg" alt="" />
+        <div class="caption">
+        A pair mating? Cyrene Reef, Jun 08 Photo shared by Toh Chay Hoon on flickr ..
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>What does it eat?</strong>
+The Common hairy crab eats mainly seaweed. It may also eat toxic
+<a href="../../../cnidaria/others/zoanthid/zoanthid.md">zoanthids</a>
+(colonial anemones) and this makes the crab mildly poisonous. Various hairy crabs on our shores have been observed nibbling on hard seaweeds, sponges and even appearing to snack on bristleworms, carrying a clam into a burrow. Also possibly having a taste of a nudibranch and dragging a seahare into its burrow leaving a trail of purple dye from the panicking seahare.</p>
+
+<p><strong>Status and threats:</strong>
+Several of our hairy crabs are listed among the threatened animals of Singapore.
+Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors also have an impact on local populations.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/080321smkd0342m3.jpg" alt="" />
+        <div class="caption">
+        Eating a bristleworm! Pulau Semakau, Mar 08
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/081017cyrtch01m3.jpg" alt="" />
+        <div class="caption">
+        Eating a bristleworm. Cyrene Reef, Oct 08 Shared by Toh Chay Hoon on her flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/190522tsmsg1.jpg" alt="" />
+        <div class="caption">
+        Eating a bristleworm. Cyrene Reef, Oct 08 Shared by Shawne Goh on facebook .
+        </div>
+    </div>
+    
+
+</div>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/120409tptd8682m3.jpg" alt="" />
+        <div class="caption">
+        Nibbling on a Hairy olive sponge. Terumbu Pempang Tengah, Apr 12
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/210502tptvc12.jpg" alt="" />
+        <div class="caption">
+        About to nibble on a sponge? Terumbu Pempang Tengah, May 21 Shared by Vincent Choo on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/080707hntd7507m3a.jpg" alt="" />
+        <div class="caption">
+        About to nibble on nudibranch? Pulau Hantu, Jul 08
+        </div>
+    </div>
+    
+
+</div>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/060228labg5330m3.jpg" alt="" />
+        <div class="caption">
+        Nibbling on hard seaweed. Labrador, Feb 06
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/251008bbbky2.jpg" alt="" />
+        <div class="caption">
+        Eating seaweed? Beting Bemban Besar, Oct 25 Photo shared by Kelvin Yong on facebook
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/200625tbdc1.jpg" alt="" />
+        <div class="caption">
+        Eating a sponge-seaweed. Terumbu Bemban, Jun 20 Photo shared by Dayna Cheah on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<p>Common hairy crab dragging a seahare into its burrow.</p>
+
+<p>Terumbu Bemban, Apr 22. Video shared by Juria Toramae</p>
+
+<hr />
+
+<p><strong>Common hairy crabs on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470@N00&amp;sort=date-posted-desc&amp;view_all=1&amp;text=Pilumnus vespertilio">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Pilumnus%2520vespertilio/map?&amp;fLat=1.2616&amp;fLon=103.8661&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/250501skdjt2.jpg" alt="" />
+        <div class="caption">
+        Pulau Sekudu, May 25 Photo shared by Jonathan Tan on facebook
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/210628ecpBvc3.jpg" alt="" />
+        <div class="caption">
+        East Coast Park (B), Jun 21 Photo shared by Vincent Choo on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/171009blycw2.jpg" alt="" />
+        <div class="caption">
+        Berlayar Creek, Oct 17 Photo shared by Chris Wong on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/251011tgrlks23.jpg" alt="" />
+        <div class="caption">
+        Sentosa Tg Rimau, Oct 25 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/201215bsrpvc7.jpg" alt="" />
+        <div class="caption">
+        Sentosa Serapong, Dec 20 Photo shared by Vincent Choo on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/200820ssistch2.jpg" alt="" />
+        <div class="caption">
+        Small Sisters Island, Aug 20 Photo shared by Toh Chay Hoon on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/20070724thntdc1.jpg" alt="" />
+        <div class="caption">
+        Terumbu Hantu, Jul 20 Photo shared by Dayna Cheah on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/160124smkejt2.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau East, Jan 16 Photo shared by Jonathan Tan on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/110522bbblks1m3.jpg" alt="" />
+        <div class="caption">
+        Beting Bemban Besar, May 11 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/090330trylks1m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Raya, Mar 09 Photo shared by Loh Kok Sheng on flickr .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/220102biovc3.jpg" alt="" />
+        <div class="caption">
+        Pulau Biola, Jan 22 Photo shared by Vincent Choo on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/091231biod6945m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Biola, Dec 09
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/100130brkd8719m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Berkas, Jan 10
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/220201brkvc5.jpg" alt="" />
+        <div class="caption">
+        Pulau Berkas, Feb 22 Photo shared by Vincent Choo on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/100131slulks6m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Salu, Jan 10 Photo shared by Loh Kok Sheng on his flickr .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/091204pawd5222m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Pawai, Dec 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/091205sudd5454m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Sudong, Dec 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/210428slutch3.jpg" alt="" />
+        <div class="caption">
+        Pulau Salu, Apr 21 Photo shared by Toh Chay Hoon on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="https://live.staticflickr.com/1674/24814977961_a792b43b2d_z.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="https://live.staticflickr.com/8006/28765538656_873772655b_z.jpg" alt="" />
+        <div class="caption">
+        Hairy crabs about to mate?
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/211.md">Hairy Crab (
+<em>Pilumnus vespertilio</em>
+)</a>
+Tan, Leo W. H. &amp; Ng, Peter K. L., 1988.
+<em><a href="http://mangrove.nus.edu.sg/pub/seashore/">A Guide to Seashore Life</a></em>
+. The Singapore Science Centre, Singapore. 160 pp.</li>
+  <li><em><a href="https://singapore.biodiversity.online/taxo4254/mainSpace/Pilumnus%20vespertilio.html">Pilumnus vespertilio</a></em>
+(Decapoda: Pilumnidae) Hairy crab by Chiu Jing Hua, 2015, on taxo4254.</li>
+  <li>
+    <dl>
+      <dt><a href="http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=18379&amp;genusname=Pilumnus&amp;speciesname=vespertilio"><em>Pilumnus vespertilio</em></a></dt>
+      <dt>on</dt>
+      <dt><a href="http://www.sealifebase.fisheries.ubc.ca/search.php">SeaLife Base</a></dt>
+      <dd>Technical fact sheet.</dd>
+    </dl>
+  </li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008. Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs of the world. The Raffles Bulletin of Zoology. Supplement No. 17, 31 Jan 2008. 286 pp.</li>
+  <li>Chou, L. M., 1998.
+<em>A Guide to the Coral Reef Life of Singapore</em>
+. Singapore Science Centre. 128 pages.</li>
+  <li>Lim, S., P. Ng, L. Tan, &amp; W. Y. Chin, 1994.
+<em>Rhythm of the Sea: The Life and Times of Labrador Beach.</em>
+Division of Biology, School of Science, Nanyang Technological University &amp; Department of Zoology, the National University of Singapore. 160 pp.</li>
+  <li>Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+<em>The Singapore Red Data Book: Threatened plants and animals of Singapore</em>
+. Nature Society (Singapore). 285 pp.</li>
+  <li>Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+. National Council on the Environment. 163pp.</li>
+  <li>Jones Diana S. and Gary J. Morgan, 2002.
+<em>A Field Guide to Crustaceans of Australian Waters</em>
+. Reed New Holland. 224 pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

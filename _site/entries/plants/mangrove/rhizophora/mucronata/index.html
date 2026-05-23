@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Bakau kurap  | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="bakau, rhizophora, mucronata, rhizophoraceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090802ubind8186m6l.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Tracheophyta">Tracheophyta</a>
+                    > 
+                    <a href="/Tracheophyta/Magnoliopsida">Magnoliopsida</a>
+                    > 
+                    <a href="/Tracheophyta/Magnoliopsida/Malpighiales">Malpighiales</a>
+                    >
+                    <a href="/Tracheophyta/Magnoliopsida/Malpighiales/"></a>
+                    >
+                    <a href="/Tracheophyta/Magnoliopsida/Malpighiales//Rhizophoraceae">Rhizophoraceae</a>
+                </p>
+                <h1>Bakau kurap </h1>
+                
+                    <p class="scientific-name">Rhizophora mucronata</p>
+                
+
+                <p><em>Updated Jan 2013</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This tree is commonly seen in our mangroves. According to Giesen, it is more tolerant of sandy and firmer substrates than
+<em>Rhizophora apiculata</em>
+but is seldom found far from tidal water. Grows best in deeply inundated areas on firm soils. According to Hsuan Keng, the tree was recorded in all our mangroves including Jurong, Bajau, Changi, Kranji and Pulau Brani. Another local name for the tree was ‘Belukup’. ‘Kurap’ is the Malay name for a scaly skin disease in humans and may refer to the pimply texture of the propagules.</p>
+
+<h2 id="features">Features</h2>
+
+<p>Tree up to 15m tall, but usually shorter, rarely more than 3m. Bark dark almost black, horizontally fissured. Has aerial roots growing from the lower branches, as well as stilt roots from the trunk.</p>
+
+<p>Leaves eye-shaped (8-15cm long), shiny green, leathery, larger than
+<em>R. stylosa</em>
+, with tiny evenly distributed spots on the underside. Stipule usually pale or yellowish.</p>
+
+<p>Flowers (1-2cm) 2-14 on a long branching stalk (2-4cm) drooping down from the branch. Calyx egg-shaped white hard thick. Petals thin, delicate with dense woolly marginal hairs. The petals fall off soon after blossoming. Style just a tiny point and not as long as in
+<em>R. stylosa</em>
+.</p>
+
+<p>The fruit looks like a brown, upside down pear (3-4cm) and is crowned by short persistent sepals. The fruit large relative to the sepals, when compared to
+<em>R. stylosa</em>
+. The hypocotyl cylindrical and is more pimply, compared to that of
+<em>R. stylosa</em>
+and grows very long (50-70cm).</p>
+
+<p><strong>Sometimes mistaken for</strong>
+<a href="stylosa.md">Bakau pasir</a>
+(
+<em>R. stylosa</em>
+) which has smaller leaves and shorter, less pimply propagules. The two species can only be distinguished with certainty by looking at the details of the flowers:
+<em>R. stylosa</em>
+has a longer style.</p>
+
+<p><strong>Human uses:</strong>
+According to Wee, in Chinese and Japanese herbal medicine, a decoction of the bark is used to treat diarrhoea. The Burmese use the bark to treat blood in the urine and the Indochinese use the roots to contain bleeding. According to Giesen, the timber is difficult to work as it is very heavy and very hard and tends to shrink excessively. The bark is used for tanning and dyeing. it may be used for making fish traps. It may also be planted to protect bunds and dykes. Seedlings that have been dried in the shade for several days before planting avoid being eaten by crabs. It is believed the process causes accumulations of tannin in the tissues.</p>
+
+<p><img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090802ubind8186m6l.jpg" alt="" /></p>
+
+<p><em>Pulau Ubin, Aug 09
+<img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090802ubind8187m3.jpg" alt="" /></em></p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090809sjid8838m3a.jpg" alt="" />
+        <div class="caption">
+        Fruit on stalks. Fruit large compared to sepals. St. John's Island, Aug 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090801prpd8011m3b.jpg" alt="" />
+        <div class="caption">
+        Flower with short style, more visible without petals. Pasir Ris Park, Aug 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090517ubnd1957m3.jpg" alt="" />
+        <div class="caption">
+        Flowers on long branching stalks. Pulau Ubin, May 09
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090214sbwrd7091m3a.jpg" alt="" />
+        <div class="caption">
+        Sungei Buloh, Feb 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090801prpd8013m6l.jpg" alt="" />
+        <div class="caption">
+        Very long hypocotyl. Pasir Ris Park, Aug 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090611prpd3892m3a.jpg" alt="" />
+        <div class="caption">
+        Short style, more visible without petals.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090214sbwrd7090m3.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090611prpd3892m3b.jpg" alt="" />
+        <div class="caption">
+        Pasir Ris, Jun 09
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Bakau kurap on Singapore shores</strong></p>
+
+<hr />
+
+<p>Photos of
+<a href="https://www.flickr.com/search/?q=Rhizophora+mucronata&amp;w=54527470%40N00&amp;s=rec">Bakau kurap</a>
+for free download from
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<hr />
+
+<p>Distribution in Singapore on
+<a href="https://www.flickr.com/photos/wildsingapore/tags/Rhizophora%2520mucronata/map?&amp;fLat=1.2629&amp;fLon=103.8661&amp;zl=11&amp;order_by=recent">this wildsingapore flickr map</a></p>
+
+<hr />
+
+<p><strong>Other references</strong></p>
+
+<ul>
+  <li>Tomlinson, P. B., 1986.
+<em>The Botany of Mangroves</em>
+Cambridge University Press. USA. 419 pp.</li>
+  <li>Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
+<em>The Concise Flora of Singapore: Gymnosperms and Dicotyledons</em>
+. Singapore University Press. 222 pp.</li>
+  <li>Burkill, I. H., 1993.
+<em>A Dictionary of the Economic Products of the Malay Peninsula</em>
+. 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444</li>
+  <li>Wee Yeow Chin. 1992.
+<em>A Guide to Medicinal Plants</em>
+. The Singapore Science Centre. 160pp.</li>
+</ul>
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://mangrove.nus.edu.sg/guidebooks/text/1070.md">Bakau kurap (
+<em>Rhizophora mucronata</em></a>
+) Ng, Peter K. L. &amp; N. Sivasothi, 1999.
+<em><a href="http://mangrove.nus.edu.sg/guidebooks/">A Guide to the Mangroves of Singapore</a>
+I (Plant Diversity)</em>
+. Singapore Science Centre. 168 pp.</li>
+  <li><a href="https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=4639"><em>Rhizophora mucronata</em></a>
+on the NParks Flora and Fauna website: photos and fact sheet.</li>
+  <li>Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+<a href="http://www.fao.org/docrep/010/ag132e/ag132e00.md"><em>Mangrove Guidebook for Southeast Asia</em></a>
+(PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

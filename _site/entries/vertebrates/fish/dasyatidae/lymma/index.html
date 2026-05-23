@@ -1,0 +1,546 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Blue-spotted fantail ray | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="blue, spotted, fantail, sting, ray, stingray, taeniura, lymma, fish, rajiformes, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080802sjid8804m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Chordata">Chordata</a>
+                    > 
+                    <a href="/Chordata/Chondrichthyes">Chondrichthyes</a>
+                    > 
+                    <a href="/Chordata/Chondrichthyes/Myliobatiformes">Myliobatiformes</a>
+                    >
+                    <a href="/Chordata/Chondrichthyes/Myliobatiformes/"></a>
+                    >
+                    <a href="/Chordata/Chondrichthyes/Myliobatiformes//Dasyatidae">Dasyatidae</a>
+                </p>
+                <h1>Blue-spotted fantail ray</h1>
+                
+                    <p class="scientific-name">Taeniura lymma</p>
+                
+
+                <p><em>Updated Sep 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This beautiful stingray is sometimes encountered on sandy areas and in coral rubble near living reefs on some of our shores. It is often also seen by divers. Sadly, it is also sometimes encountered trapped in a drift net. It is considered possibly the most abundant ray in coral reefs in our region.</p>
+
+<h2 id="features">Features</h2>
+
+<p>Grows to about 30cm in diameter, those seen 15-20cm. Body oval with a rounded snout. Body colour brown, grey, yellow, olive-green to reddish brown; with lots of obvious bright blue spots.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080802sjid8804m3.jpg" alt="" />
+        <div class="caption">
+        Oval body with rounded snout. Many bright blue spots. St. John's Island, Aug 08
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080802sjid8804m3a.jpg" alt="" />
+        <div class="caption">
+        Broad skin flap under the tail. Blue stripes along length of tail.
+        </div>
+    </div>
+    
+
+</div>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080802sjid8875m3.jpg" alt="" />
+        <div class="caption">
+        Spine near the end of the tail.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080802sjid8875.jpg" alt="" />
+        <div class="caption">
+        St. John's Island, Aug 08
+        </div>
+    </div>
+    
+
+</div>
+<p>Tail long rather thick and broad with two blue stripes along the length. There is a broad skin fold under the tail, so it is sometimes called the Blue-spotted ribbontail ray. It has one or two venomous spines near the middle of the tail.</p>
+
+<p><strong>What does it eat?</strong>
+The ray moves into shallow sandy areas with the rising tide to forage for snails and clams, worms, shrimps and crabs. As the tide falls, it shelters in caves and under ledges. It is rarely found buried under sand. It is more active at night.</p>
+
+<p><strong>Fantail ray babies:</strong>
+The ray gives birth to live young.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/100502tryd2314m6l.jpg" alt="" />
+        <div class="caption">
+        Hard to spot under rippling water. Terumbu Raya, May 10
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/070728sisd4474m3a.jpg" alt="" />
+        <div class="caption">
+        May be half buried in sand. Sisters Island, Jul 07
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Human uses:</strong>
+This stingray is harvested commercially as seafood. It is also considered an important gamefish for recreational fishermen. Small specimens are also taken for the aquarium trade, although they don’t do well in captivity.</p>
+
+<p><strong>Status and threats:</strong>
+Throughout its range, the Blue-spotted fantail ray is under pressure from over collection for the aquarium trade and destruction of its reef habitat. It is considered near threatened.</p>
+
+<hr />
+
+<p><strong>Blue-spotted fantail rays on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470%40N00&amp;sort=date-taken-desc&amp;safe_search=3&amp;view_all=1&amp;text=Taeniura%20lymma">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Taeniura%2520lymma/map?&amp;fLat=1.2626&amp;fLon=103.8661&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/091008tmjk4m3.jpg" alt="" />
+        <div class="caption">
+        Hidden under ledges and rocks. Tanah Merah, Oct 09 Photo shared by James Koh on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/170822lablks2.jpg" alt="" />
+        <div class="caption">
+        Labrador, Aug 17 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/250714srpal2.jpg" alt="" />
+        <div class="caption">
+        Sentosa Serapong, Jul 25 Photo shared of Adriane Lee on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/201116lazmn3.jpg" alt="" />
+        <div class="caption">
+        Lazarus Island, Nov 20 Photo shared by Marcus Ng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/200820ssisjll3.jpg" alt="" />
+        <div class="caption">
+        Small Sisters Island, Aug 20 Photo shared by Jianlin Liu on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/240528tsllks9.jpg" alt="" />
+        <div class="caption">
+        Terumbu Selegie, May 24 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/160711tsmkgl1.jpg" alt="" />
+        <div class="caption">
+        Terumbu Semakau, Jul 16 Photo shared by Dayna Cheah on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/201215smkejll6.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau (East), Dec 20 Photo shared by Jianlin Liu on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080510smklksm3.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau, May 08 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/110423tpllks.JPG" alt="" />
+        <div class="caption">
+        Terumbu Pempang Laut, Apr 11 Photo shared by Loh Kok Sheng on flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/160609thntmn4.jpg" alt="" />
+        <div class="caption">
+        Terumbu Hantu, Jun 16 Photo shared by Marcus Ng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/091205sudjk12m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Sudong, Dec 09 Photo shared by James Koh on his flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/100530biomn.jpg" alt="" />
+        <div class="caption">
+        Pulau Biola, May 10 Photo shared by Marcus Ng on flickr .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/210428slulks2.jpg" alt="" />
+        <div class="caption">
+        Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><a href="https://vimeo.com/2254334">Sentosa Blue-Spotted Fantail Ray</a>
+from
+<a href="https://vimeo.com/sgbeachbum">SgBeachBum</a>
+on
+<a href="https://vimeo.com">Vimeo</a>
+.</p>
+
+<hr />
+
+<p><a href="https://vimeo.com/22803386">blue-spotted fantail ray @ tBembanBesar 22Apr2011</a>
+from
+<a href="https://vimeo.com/sgbeachbum">SgBeachBum</a>
+on
+<a href="https://vimeo.com">Vimeo</a>
+.</p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/204.md">Blue-spotted Fantail Ray (
+<em>Taeniura lymma</em>
+)</a>
+Lim, Kelvin K. P. &amp; Jeffrey K. Y. Low, 1998.
+<em><a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/">A Guide to the Common Marine Fishes of Singapore</a></em>
+. Singapore Science Centre. 163 pp.</li>
+  <li><em><a href="https://wiki.nus.edu.sg/display/TAX/Taeniura+lymma+-+Blue-spotted+Fantail+Ray">Taeniura lymma</a></em>
+(Myliobatiformes: Dasyatidae) Blue-spotted Fantail Ray by Shelley Chan Hiang Ming, 2016, on taxo4254.</li>
+  <li>
+    <dl>
+      <dt>[Bluespotted ribbontail ray (</dt>
+      <dt><em>Taeniura lymma</em></dt>
+      <dt>)](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=5399)</dt>
+      <dt>on</dt>
+      <dt><a href="http://www.fishbase.org/">FishBase</a></dt>
+      <dd>Technical fact sheet.</dd>
+    </dl>
+  </li>
+  <li><a href="http://www.fao.org/docrep/009/x2401e/x2401e00.md">Volume 3: Batoid fishes, chimaeras and bony fishes part 1 (Elopidae to Linophrynidae)</a>
+FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.</li>
+  <li><em><a href="http://www.iucnredlist.org/details/39412/0">Taeniura lymma</a></em>
+from IUCN Red List.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+. National Council on the Environment. 163pp.</li>
+  <li>Ng, P. K. L. &amp; Y. C. Wee, 1994.
+<em>The Singapore Red Data Book: Threatened Plants and Animals of Singapore</em>
+. The Nature Society (Singapore), Singapore. 343 pp.</li>
+  <li>Allen, Gerry, 2000.
+<em>Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers</em>
+. Periplus Editions. 292 pp.</li>
+  <li>Kuiter, Rudie H. 2002.
+<em>Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers &amp; Fishermen</em>
+New Holland Publishers. 434pp.</li>
+  <li>Lieske, Ewald and Robert Myers. 2001.
+<em>Coral Reef Fishes of the World</em>
+Periplus Editions. 400pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

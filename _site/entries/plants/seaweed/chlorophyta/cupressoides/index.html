@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Zipper green seaweed | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="zipper, feathery, seaweed, weed, green, caulerpa, cupressoides, caulerpaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/050621skdg7924m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Chlorophyta">Chlorophyta</a>
+                    > 
+                    <a href="/Chlorophyta/Ulvophyceae">Ulvophyceae</a>
+                    > 
+                    <a href="/Chlorophyta/Ulvophyceae/Bryopsidales">Bryopsidales</a>
+                    >
+                    <a href="/Chlorophyta/Ulvophyceae/Bryopsidales/"></a>
+                    >
+                    <a href="/Chlorophyta/Ulvophyceae/Bryopsidales//Caulerpaceae">Caulerpaceae</a>
+                </p>
+                <h1>Zipper green seaweed</h1>
+                
+                    <p class="scientific-name">Caulerpa cupressoides*</p>
+                
+
+                <p><em>Updated Oct 2016</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This toothy green seaweed is commonly seen on some of our shores, usually in a small clump on coral rubble.</p>
+
+<h2 id="features">Features</h2>
+
+<p>Zipper-like structure 4-6cm long. The mid-rib or central ‘stem’ may be cylindrical or flat, narrow or relatively broad. The side ‘branches’ usually very short, flat and have pointed tips. Thus it looks somewhat like a zipper! May be long and slender, or short and very broad. The central stem may branch at the tips to form Y-shapes.</p>
+
+<p>These structures emerge along the length of a ‘stem’ that creeps over hard surfaces or just under the sand. Dark to olive green, sometimes bluish green.</p>
+
+<p><strong>Sometimes confused with</strong>
+similar green seaweeds. Here’s more on
+<a href="cffeathery.md">how to tell apart some green seaweeds</a>
+.</p>
+
+<p><strong>Human uses:</strong>
+Zipper seaweed is reported to be edible, to have antibacterial and antifungal properties, and used to treat high blood pressure. However, some
+<em>Caulerpa</em>
+species produce toxins to protect themselves from browsing fish. This also makes them toxic to humans.</p>
+
+<p>Its scientific name ‘cupressoides’ means ‘cypress-like’ or ‘resembling cypress’.</p>
+
+<p><img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/050621skdg7924m3.jpg" alt="" /></p>
+
+<p><em>Pulau Sekudu, Jun 05</em>
+<img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/050621skdg7924m3a.jpg" alt="" /></p>
+
+<p><img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/100519tsmc4168m3.jpg" alt="" /></p>
+
+<p><em>Terumbu Semakau, May 10</em></p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/050819cjg1542m3.jpg" alt="" />
+        <div class="caption">
+        Chek Jawa, Aug 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/070902skdd6623%20m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Sekudu, Sep 07
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/040621sntd0896m3.jpg" alt="" />
+        <div class="caption">
+        Sentosa, Jun 04
+        </div>
+    </div>
+    
+
+</div>
+
+<p>**Species are difficult to positively identify without close examination of internal parts.</p>
+
+<p>On this website, they are grouped by external features for convenience of display.*</p>
+
+<hr />
+
+<p><strong>Zipper green seaweeds on Singapore shores</strong></p>
+
+<hr />
+
+<p>Photos of
+<a href="https://www.flickr.com/search/?q=Caulerpa+cupressoides&amp;w=54527470%40N00&amp;s=rec">Zipper green seaweeds</a>
+for free download from
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<hr />
+
+<p>Distribution in Singapore on
+<a href="https://www.flickr.com/photos/wildsingapore/tags/Caulerpa%2520cupressoides/map?&amp;fLat=1.2609&amp;fLon=103.8661&amp;zl=11&amp;order_by=recent">this wildsingapore flickr map</a></p>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/210529epcnvc9.jpg" alt="" />
+        <div class="caption">
+        East Coast (PCN), May 21 Photo shared by Vincent Choo on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li>
+    <dl>
+      <dt><a href="http://www.algaebase.org/search/species/detail/?species_id=3746"><em>Caulerpa cupressoides</em></a></dt>
+      <dt>on</dt>
+      <dt><a href="http://www.algaebase.org/">AlgaeBase</a></dt>
+      <dd>Technical fact sheet.</dd>
+    </dl>
+  </li>
+  <li><a href="http://species-identification.org/species.php?species_group=caribbean_diving_guide&amp;menuentry=soorten&amp;id=491&amp;tab=beschrijving"><em>Caulerpa cupressoides</em></a>
+on Interactive Guide to Caribbean Diving, the Marine Species Identification Portal: Technical fact sheet.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Pham, M. N., H. T. W. Tan, S. Mitrovic &amp; H. H. T. Yeo, 2011.
+<a href="http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf">A Checklist of the Algae of Singapore</a>
+, 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore, Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].</li>
+  <li>
+    <dl>
+      <dt>Eric Coppejans and Tom Beeckman. 1990.</dt>
+      <dt><em><a href="http://www.phycology.ugent.be/reprints/p61.pdf">Caulerpa (Chlorophyta, Caulerpales) from the Kenyan coast</a></em></dt>
+      <dt>(pdf). Laboratorium voor Morfologie, Systematiek en Ecologie van de Planten R.U.G. Ledeganckstraat 35, 9000 Gent, Belgium on the</dt>
+      <dt><a href="http://www.phycology.ugent.be/">Phycology Research website</a></dt>
+      <dd>identification key and useful diagrams on how to tell apart similar
+<em>Caulerpa</em>
+species.</dd>
+    </dl>
+  </li>
+  <li>Huisman, John M. 2000.
+<em>Marine Plants of Australia</em>
+University of Western Australia Press. 300pp.</li>
+  <li>Trono, Gavino. C. Jr., 1997.
+<em>Field Guide and Atlas of the Seaweed Resources of the Philippines.</em>
+. Bookmark, Inc., the Philippines. 306 pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Ashy pink sea cucumber | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="cucumber, seacucumber, holothuria, fuscocinerea, holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/fuscocinerea/090625bsrd5364m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Echinodermata">Echinodermata</a>
+                    > 
+                    <a href="/Echinodermata/Holothuroidea">Holothuroidea</a>
+                    > 
+                    <a href="/Echinodermata/Holothuroidea/Holothuriida">Holothuriida</a>
+                    >
+                    <a href="/Echinodermata/Holothuroidea/Holothuriida/"></a>
+                    >
+                    <a href="/Echinodermata/Holothuroidea/Holothuriida//Holothuriidae">Holothuriidae</a>
+                </p>
+                <h1>Ashy pink sea cucumber</h1>
+                
+                    <p class="scientific-name">Holothuria fuscocinerea</p>
+                
+
+                <p><em>Updated Apr 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This long pinkish sea cucumber is sometimes seen on our Southern shores. Usually well wedged among living corals and coral rubble, usually alone. Seen mostly at night, only a short part of the front end cautiously sticking out. It is very sensitive and will retract into its hiding place at the slightest disturbance. The front end usually facing downwards against the ground, suggesting that it browses on edible bits that settle on the ground.
+<em>Holothuria pervicax</em>
+looks very similar. Teo Siyang, Lionel Ng and Loh Kok Sheng have identified it and it is a new record for Singapore! Elsewhere, it is found in lagoons, reef flats and on outer reef slopes of barrier reefs.</p>
+
+<h2 id="features">Features</h2>
+
+<p>15-20cm long. Body soft long cylindrical with a distinct upper and underside. Underside flat pale with many short tube feet. ‘
+<em>Fuscocinerea</em>
+‘ suggests ‘dark’ and ‘ashy’ and indeed, the sea cucumber does look like it has been rolled in ash. Upperside generally pale pink or beige with irregular dark blotchy bars or blobs along the length. Small dark-circled white spots all over the upperside, with tiny spiky protrusions in the centre of the white spots. Anus is distinctly ringed with dark brown or dark purple. Mouth facing down with 20 large feeding tentacles short white with bushy tips. When disturbed, it readily releases from its backside, many very thick sticky white cylindrical tubes called Cuvierian tubules.</p>
+
+<p><strong>Human uses:</strong>
+It is listed among the commercially important sea cucumbers of the world. This species does not have a commercial value in the western central Pacific; however, it is of commercial importance in China, Malaysia and the Philippines. In China, it is of low commercial importance. It is exploited in a multispecies fishery in Sri Lanka.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/fuscocinerea/090625bsrd5364m3.jpg" alt="" />
+        <div class="caption">
+        When disturbed, releases Cuvierian tubules. Beting Bemban Besar, Jun 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/fuscocinerea/090625bsrd5364m3d.jpg" alt="" />
+        <div class="caption">
+        Tiny spikes on white circles.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/fuscocinerea/090625bsrd5364m3e.jpg" alt="" />
+        <div class="caption">
+        Dark blotchy bars on upperside.
+        </div>
+    </div>
+    
+
+</div>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/fuscocinerea/090625bsrd5364m3f.jpg" alt="" />
+        <div class="caption">
+        Anus ringed with dark brown.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/fuscocinerea/090625bsrd5376m3.jpg" alt="" />
+        <div class="caption">
+        Underside flat and pale.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/fuscocinerea/090625bsrd5376m3a.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+
+</div>
+
+<hr />
+
+<p><strong>Ashy pink sea cucumbers on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470@N00&amp;sort=date-posted-desc&amp;view_all=1&amp;text=Holothuria fuscocinerea">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Holothuria%2520fuscocinerea/map?&amp;fLat=1.2626&amp;fLon=103.8654&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/fuscocinerea/091010tmjk8m3.jpg" alt="" />
+        <div class="caption">
+        Tanah Merah, Oct 09 Photo shared by James Koh on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/fuscocinerea/091010tmjk9m3.jpg" alt="" />
+        <div class="caption">
+        Tanah Merah, Oct 09 Photo shared by James Koh on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/fuscocinerea/150618tmftlks17m3.jpg" alt="" />
+        <div class="caption">
+        Tanah Merah Ferry Terminal, Jun 15 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/fuscocinerea/200311blylks8.jpg" alt="" />
+        <div class="caption">
+        Berlayar Creek, Mar 20 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/fuscocinerea/100517jngjk3m6l.jpg" alt="" />
+        <div class="caption">
+        Pulau Jong, May 10 Photo shared by James Koh on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/fuscocinerea/100911lsismn.jpg" alt="" />
+        <div class="caption">
+        Small Sisters Island, Sep 10 Photo shared by Marcus Ng on flickr .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/fuscocinerea/140809hntlks1m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Hantu, Aug 14
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/fuscocinerea/140809hntlks2m3.jpg" alt="" />
+        <div class="caption">
+        Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/fuscocinerea/210429hntjll2.jpg" alt="" />
+        <div class="caption">
+        Pulau Hantu, Apr 21 Photo shared by Jianlin Liu on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/fuscocinerea/240310tplvc4.jpg" alt="" />
+        <div class="caption">
+        Terumbu Pempang Laut, Mar 24 Photo shared by Vincent Choo on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/fuscocinerea/150718smkelks1m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau East, Jul 15 Photo shared by James Koh on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/fuscocinerea/200625tbdc3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Bemban, Jun 20 Photo shared by Dayna Cheah on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/fuscocinerea/251008bbbyls5.jpg" alt="" />
+        <div class="caption">
+        Beting Bemban Besar, Oct 25 Photo shared by Yan Le Su on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/fuscocinerea/100615snglks1m6l.jpg" alt="" />
+        <div class="caption">
+        Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/fuscocinerea/091204pawjk4m6l.jpg" alt="" />
+        <div class="caption">
+        Pulau Pawai, Dec 09 Photo shared by James Koh on his flickr .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://www.sealifebase.org/summary/Holothuria-fuscocinerea.html"><em>Holothuria fuscocinerea</em>
+(Ashen sea cucumber)</a>
+on SeaLife Base: Technical fact sheet.</li>
+  <li><a href="http://species-identification.org/species.php?species_group=nasc&amp;id=62"><em>Holothuria fuscocinerea</em></a>
+in North Australian Sea Cucumbers on Marine Species Identification Portal: Technical fact sheet.</li>
+  <li><em>Holothuria fuscocinerea</em>
+on
+<a href="http://www.fao.org/docrep/017/i1918e/i1918e00.md">Commercially important sea cucumbers of the world</a>
+, by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Teo, S., C. S. L. Ng &amp; K. S. Loh, 2010.
+<em>New record of a sea cucumber, Holothuria (Stauropora) fuscocinerea Jaeger, 1833 (Holothuroidea: Aspidochirotida: Holothuriidae) in Singapore</em>
+. Nature in Singapore, 3: 133-137.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

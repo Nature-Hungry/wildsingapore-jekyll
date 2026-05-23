@@ -1,0 +1,465 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Creeper snails  | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="creeper, cerith, snail, shell, cerithiidae, gastropod, mollusc, mangrove, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1464m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Mollusca">Mollusca</a>
+                    > 
+                    <a href="/Mollusca/Gastropoda">Gastropoda</a>
+                    > 
+                    <a href="/Mollusca/Gastropoda/"></a>
+                    >
+                    <a href="/Mollusca/Gastropoda//"></a>
+                    >
+                    <a href="/Mollusca/Gastropoda///Cerithiidae">Cerithiidae</a>
+                </p>
+                <h1>Creeper snails </h1>
+                
+                    <p class="scientific-name">Family Cerithiidae</p>
+                
+
+                <p><em>Updated Jul 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>Tiny creeper snails are common on our shores but often overlooked. They may be found on sandy shores, coral rubble and reefs on many of our shores. They are often seen in groups of individuals.</p>
+
+<h2 id="features">Features</h2>
+
+<hr />
+<p>2 2.5cm. Shell long and narrow, distinguished by an upturned siphonal canal at the opening that looks like a little spout. This protects the siphon as the snail hides just beneath the sand. The shell opening is oval, and the operculum is made of a horny material usually brown usually with only a few whorls.</p>
+
+<p><strong>Sometimes confused with</strong>
+<a href="../potamididae/potamididae.md">Horn snails</a>
+(Family Potamididae) which also have an operculum made of a horny material but with a tight spiral pattern. Horn snails have siphonal canals that are less pronounced and they are generally larger than Creeper snails. More on
+<a href="../certihpotamid.md">how to tell these snails apart</a>
+.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1464m3.jpg" alt="" />
+        <div class="caption">
+        Sentosa, Oct 08
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1463m3.jpg" alt="" />
+        <div class="caption">
+        Shell opening.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1463m3b.jpg" alt="" />
+        <div class="caption">
+        Operculum with only a few whorls.
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>What do they eat?</strong>
+Creeper snails are often found in groups of many individuals packed close to one another. They feed on algae and detritus on the sea bottom, often near reefs.</p>
+
+<p><strong>Role in the habitat:</strong>
+Should the tiny snail die, the empty shell is often taken over by
+<a href="../../../crustacea/othercrust/anomura/hermit/hermit.md">tiny hermit crabs</a>
+.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/130823prp.jpg" alt="" />
+        <div class="caption">
+        Plain creeper snails sometimes seen in large numbers. Pasir Ris Park, Aug 13
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/crustacea/othercrust/anomura/hermit/huddling/060131sjig4376m3b.jpg" alt="" />
+        <div class="caption">
+        Empty shells may be taken over by tiny huddling hermit crabs . St John's Island, Jan 06
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Human uses:</strong>
+Some of the prettier species are collected for the shell trade.</p>
+
+<p><strong>Status and threats:</strong>
+Traill’s creeper (
+<em>Cerithium trailli</em>
+) is listed as ‘Endangered’ on the Red List of the threatened animals of Singapore, as shores where it was originally found have been lost to reclamation. Like other creatures of the intertidal zone, Creeper snails are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection can also have an impact on local populations.</p>
+
+<hr />
+
+<p><strong>Some Creeper snails on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/050723labg0078m3.jpg" alt="" />
+        <div class="caption">
+        Plain creeper snails
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/080509cyrd2908m3.jpg" alt="" />
+        <div class="caption">
+        Obelisk creeper snail
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/variegated/060212sisg4837m3.jpg" alt="" />
+        <div class="caption">
+        Variegated creeper snail
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/pellucida/050917smkg2563m3.jpg" alt="" />
+        <div class="caption">
+        Mangrove creeper snail
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Family Cerithiidae recorded for Singapore</strong>
+from Tan Siong Kiat and Henrietta P. M. Woo, 2010
+<em>Preliminary Checklist of The Molluscs of Singapore</em>
+.</p>
+
+<p>in red are those isted among the threatened animals of Singapore
+from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+<em>The Singapore Red Data Book: Threatened plants and animals of Singapore.</em>
++Other additions (Singapore Biodiversity Records, etc)
+**</p>
+
+<p><strong>Creeper snails commonly seen awaiting identification</strong>
+*Species are difficult to positively identify without close examination.</p>
+
+<p>On this website, they are grouped by external features for convenience of display.*</p>
+
+<p><a href="plain.md">Plain creeper snail</a></p>
+
+<p><a href="variegated.md">Variegated creeper snail</a></p>
+
+<p><strong>Family Cerithiidae</strong></p>
+
+<p>*Cerithium coralium</p>
+
+<p>Cerithium dialeucum</p>
+
+<p>Cerithium lifuense</p>
+
+<p>Cerithium nodulosum</p>
+
+<p>Cerithium torresi</p>
+
+<p>Cerithium traillii*
+(Traill’s creeper) (EN: Endangered)
+*Cerithium zonatum</p>
+
+<p>+Cerithiopsis sykesii</p>
+
+<p>Clypeomorus adunca</p>
+
+<p>Clypeomorus batillariaeformis</p>
+
+<p>Clypeomorus bifasciata bifasciata</p>
+
+<p>Clypeomorus brevis</p>
+
+<p>Clypeomorus irrorata</p>
+
+<p><a href="pellucida.md">Clypeomorus pellucida</a>*
+(Mangrove creeper snail)=
+*Clypeomorus pellucidus</p>
+
+<p>Clypeomorus petrosa petrosa</p>
+
+<p>Clypeomorus petrosa chemnitziana</p>
+
+<p>Clypeomorus purpurastoma</p>
+
+<p>Rhinoclavis aspera</p>
+
+<p>Rhinoclavis obeliscus</p>
+
+<p><a href="obelisk.md">Rhinoclavis sinensis</a>*
+(Obelisk creeper snail)
+*Rhinoclavis vertagus</p>
+
+<p>+Seila iredalei*</p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=189">Traill’s cerith (
+<em>Cerithium trailli</em>
+)</a>
+on the NParks Flora and Fauna website.</li>
+  <li><a href="http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Cerithiidae.html">Family Cerithiidae</a>
+on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief description and photos.</li>
+  <li>Family Cerithiidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+<a href="http://www.fao.org/docrep/009/w7191e/w7191e00.md">Volume 1: Seaweeds, corals, bivalves and gastropods</a>
+on the Food and Agriculture Organization of the United Nations (FAO) website.</li>
+  <li><em>Records of two cerithiopsid snails in Singapore</em>
+, 22 January 2020, Chan Sow-Yan &amp; Lau Wing Lup, Singapore Biodiversity Records, 2020: 9-10 ISSN 2345-7597, National University of Singapore.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Tan Siong Kiat and Henrietta P. M. Woo, 2010
+<em>Preliminary Checklist of The Molluscs of Singapore</em>
+(pdf), Raffles Museum of Biodiversity Research, National University of Singapore.</li>
+  <li>Tan, K. S. &amp; L. M. Chou, 2000.
+<em>A Guide to the Common Seashells of Singapore</em>
+. Singapore Science Centre. 160 pp.</li>
+  <li>Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+. National Council on the Environment. 163pp.</li>
+  <li>Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+<em>The Singapore Red Data Book: Threatened plants and animals of Singapore</em>
+. Nature Society (Singapore). 285 pp.</li>
+  <li>Abbott, R. Tucker, 1991.
+<em>Seashells of South East Asia</em>
+. Graham Brash, Singapore. 145 pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

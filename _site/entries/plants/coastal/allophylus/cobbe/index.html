@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Tit-berry  | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="tit, berry, allophylus, cobbe, sapindaceae, plant, bush, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/plants/coastal/allophylus/cobbe/091005cjd2099m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Tracheophyta">Tracheophyta</a>
+                    > 
+                    <a href="/Tracheophyta/Magnoliopsida">Magnoliopsida</a>
+                    > 
+                    <a href="/Tracheophyta/Magnoliopsida/Sapindales">Sapindales</a>
+                    >
+                    <a href="/Tracheophyta/Magnoliopsida/Sapindales/"></a>
+                    >
+                    <a href="/Tracheophyta/Magnoliopsida/Sapindales//Sapindaceae">Sapindaceae</a>
+                </p>
+                <h1>Tit-berry </h1>
+                
+                    <p class="scientific-name">Allophylus cobbe</p>
+                
+
+                <p><em>Updated Jan 2013</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This pretty shrub with bright red fruits are sometimes seen in our back mangroves and sandy shores. According to Hsuan Keng, common along seashores including Kranji, Seletar and Jurong. Elsewhere, they are also found in secondary forest. Globally widely distributed from South America, South Africa through India to Southeast Asia and Papua New Guinea.</p>
+
+<h2 id="features">Features</h2>
+
+<p>A shrub to tree (3-5m tall), sometimes a climber. Variable shape and growth form, Corners identified 5 varieties.</p>
+
+<p>Distinguished by leaf made up of three leaflets eye-shaped (4-9cm long), with a toothed edge, green that wither yellow.</p>
+
+<p>Flowers tiny (0.2cm) white many on a spike.</p>
+
+<p>Berries globular small (0.5cm), several clustered on a stem. These ripen orange or red and are fleshy. The seeds are dispersed by birds.</p>
+
+<p>According to the NParks Flora and Fauna website, it is the preferred local food plant for caterpillars of the moths,
+<em>Cleora injectaria</em>
+and
+<em>Gonodontis clelia</em>
+. According to Butterfly Circle, it is the host plant for
+<em><a href="http://www.butterflycircle.com/checklist%20V2/CI/index.php/start-page/startpage/showbutterfly/192">Nacaduba pavana singapura</a></em>
+.</p>
+
+<p><strong>Human uses:</strong>
+According to Giesen, the wood is not considered of good quality and only used for roofing and sometimes as firewood. According to Selvan, the wood was used to make bows. The fruits are edible and according to Selvam, tastes “very sweet”. The leaves are used as a mouthwash, to treat fractures, relieve rashes. The roots are used to treat diarrhoea.</p>
+
+<p><img src="http://www.wildsingapore.com/wildfacts/plants/coastal/allophylus/cobbe/091005cjd2099m3.jpg" alt="" /></p>
+
+<p>*Pulau Ubin, Oct 09</p>
+
+<p><img src="http://www.wildsingapore.com/wildfacts/plants/coastal/allophylus/cobbe/090905sbwrd0283m3.jpg" alt="" /></p>
+
+<p>Sungei Buloh Wetland Reserve, Sep 09*</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/coastal/allophylus/cobbe/130102kntd2955m3.jpg" alt="" />
+        <div class="caption">
+        Kranji Nature Trail, Jan 13
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/coastal/allophylus/cobbe/090905sbwrd0287m3a.jpg" alt="" />
+        <div class="caption">
+        Sungei Buloh Wetland Reserve, Sep 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/coastal/allophylus/cobbe/090905sbwrd0287m3.jpg" alt="" />
+        <div class="caption">
+        Sungei Buloh Wetland Reserve, Sep 09
+        </div>
+    </div>
+    
+
+</div>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/coastal/allophylus/cobbe/031123sbwrad0006m3.jpg" alt="" />
+        <div class="caption">
+        Nymphs of bugs seen on berries. Sungei Buloh Wetland Reserve, Mar 11
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/coastal/allophylus/cobbe/031123sbwrad0019m3.jpg" alt="" />
+        <div class="caption">
+        Nymphs of bugs seen on leaves. Sungei Buloh Wetland Reserve, Mar 11
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/coastal/allophylus/cobbe/090905sbwrd0285m3.jpg" alt="" />
+        <div class="caption">
+        Sungei Buloh Wetland Reserve, Sep 09
+        </div>
+    </div>
+    
+
+</div>
+
+<hr />
+
+<p><strong>Tit-berry on Singapore shores</strong></p>
+
+<hr />
+
+<p>Photos of
+<a href="https://www.flickr.com/search/?q=Allophylus+cobbe&amp;w=54527470%40N00&amp;s=rec">Tit-berry</a>
+for free download from
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<hr />
+
+<p>Distribution in Singapore on
+<a href="https://www.flickr.com/photos/wildsingapore/tags/Allophylus%2520cobbe/map?&amp;fLat=1.2626&amp;fLon=103.8661&amp;zl=11&amp;order_by=recent">this wildsingapore flickr map</a></p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://floraofsingapore.wordpress.com/2010/07/25/allophylus-cobbe/"><em>Allophylus cobbe</em></a>
+on Total Vascular Flora of Singapore Online: photos and fact sheet.</li>
+  <li><a href="https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=1631"><em>Allophylus cobbe</em></a>
+on the NParks Flora and Fauna website: photos and fact sheet.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Tan, Hugh T.W. and T. Morgany. 2001.
+<em>Growing the Native Plants of Singapore</em>
+. BP Science Centre Guidebook. 168pp.</li>
+  <li>Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
+<em>The Concise Flora of Singapore: Gymnosperms and Dicotyledons</em>
+. Singapore University Press. 222 pp.</li>
+  <li>Tomlinson, P. B., 1986.
+<em>The Botany of Mangroves</em>
+Cambridge University Press. USA. 419 pp.</li>
+  <li>Corners, E. J. H., 1997.
+<em>Wayside Trees of Malaya: in two volumes</em>
+. Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.</li>
+  <li>V. Selvam. 2007.
+<em>Trees and Shrubs of the Maldives</em>
+. Food and Agriculture Organisation RAP publication 2007/12.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

@@ -1,0 +1,446 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Bryozoans | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="bryozoan, lace, moss, animal, bryozoa, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/040604bbg0196m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Bryozoa">Bryozoa</a>
+                    > 
+                    <a href="/Bryozoa/"></a>
+                    > 
+                    <a href="/Bryozoa//"></a>
+                    >
+                    <a href="/Bryozoa///"></a>
+                    >
+                    <a href="/Bryozoa////"></a>
+                </p>
+                <h1>Bryozoans</h1>
+                
+                    <p class="scientific-name">Phylum Bryozoa</p>
+                
+
+                <p><em>Updated Nov 2019</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>Delicate lacy creatures, bryozoans encrust hard surfaces and even living seagrasses and seaweeds. Larger ones are sometimes seen on our Northern shores, but tiny ones are probably quite common but simply overlooked.</p>
+
+<p><strong>What is a bryozoan?</strong>
+Bryozoans belong to Phylum Bryozoa. ‘Bryozoa’ means ‘moss animals’ in Greek. Indeed, they often look like moss, mats of algae or lacy, branching seaweed. Bryozoans are often mistaken for plants. There are about 5,000 species of bryozoans.</p>
+
+<h2 id="features">Features</h2>
+
+<p>Bryozoans are colonies of minute individual animals called zooids. Each zooid is about the size of a pinhead but has distinct organs and ring of tentacles (called the lophophore) forming a funnel around a mouth. Each zooid builds a hard casing around itself (called a house), usually made of calcium carbonate. The tentacles emerge through an opening to filter feed. The tentacles can be quickly withdrawn into the house and the opening secured with a tiny lid.</p>
+
+<p>The colony forms as the zooids reproduce by budding. Each new casing remaining attached to the colonial members around it. A colony may have millions of individual zooids. Some colonies take the shape of encrusting layers, others develop into delicate ruffles or branching forms. So bryozoans are sometimes called sea mats, moss animals or lace corals. They grow over hard surfaces in the sea, including seaweed and the surface of sand grains.</p>
+
+<p>Colonies that we have seen are lacy and white, to about 5-7cm wide. Some are much smaller and encrust hard surfaces or living seaweeds and seagrasses. They may also encrust living horseshoe crabs.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/ig901l.gif" alt="" />
+        <div class="caption">
+        Bryozoans are complex animals with tiny tentacles and live inside a hard case that they can retract into.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/080817chgd9745m3a.jpg" alt="" />
+        <div class="caption">
+        Encrusting a living seagrasses Changi, Aug 08
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/050823chgg2279m3.jpg" alt="" />
+        <div class="caption">
+        Encrusting a living seaweed! Changi, Aug 05
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Bryozoan Food:</strong>
+Bryozoans are believed to feed on bacteria and plankton. Their tentacles are covered with cilia (tiny beating hairs) that generate a current through the lophophore and thus filter out edible titbits.</p>
+
+<p>A bryozoan has a U-shaped digestive tract that brings its anus back to the opening in the house, next to the lophophore, for waste disposal.</p>
+
+<p><strong>Bryozoan Rebirth:</strong>
+Each individual zooid may completely degenerate within its house and is later regenerated again by the house. Remains of the old zooid might be consumed by the new zooid. Each zooid might do this 4 or more times. In a single colony, various zooids might be at one of these stages of death and rebirth.</p>
+
+<p><strong>Bryozoan Babies:</strong>
+A bryozoan colony grows by budding, but bryozoans also reproduce sexually. Most bryozoan colonies are hermaphrodites, but each zooid is usually either male or female. Most bryozoans shed their sperm into the water but brood their eggs. The parent zooid usually degenerates as the embryo develops. It may later be regenerated after the free-swimming larva literally leaves the house. These eventually settle down and start a new bryozoan colony. Some produce a particular kind of larva called cyphonautes that is enclosed by a pair of shells and can remain drifting for many months.</p>
+
+<p><strong>Human uses:</strong>
+Being immobile, bryozoans may help protect themselves with chemicals which deter potential predators. Some of these chemicals are being studied for human medical applications. A bryozoan compound is part of the drug bryostatin which is being tested as an anti-cancer drug.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/bryozoa/glass/111030skdd3345m3.jpg" alt="" />
+        <div class="caption">
+        Glassy branching bryozoans Pulau Sekudu, Oct 11
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/130822cjd1835m3.jpg" alt="" />
+        <div class="caption">
+        Chek Jawa, Aug 13
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/130822cjd1835m3a.jpg" alt="" />
+        <div class="caption">
+        Growing on a living horseshoe crab.
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Bryozoans on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470@N00&amp;sort=date-posted-desc&amp;view_all=1&amp;text=Bryozoa">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/bryozoa/map?&amp;fLat=1.2557&amp;fLon=103.8661&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/101223pgllsk1.JPG" alt="" />
+        <div class="caption">
+        Punggol, Dec 10 Photo shared by Loh Kok Sheng on flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/091203ubnd4954m3b.jpg" alt="" />
+        <div class="caption">
+        Pulau Ubin, Dec 09
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/091203ubnd4946m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Ubin, Dec 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/031012cjad0005m3.jpg" alt="" />
+        <div class="caption">
+        Chek Jawa, Oct 03
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/040604bbg0196m3.jpg" alt="" />
+        <div class="caption">
+        Beting Bronok, Jun 04
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/210529ecpblks15.jpg" alt="" />
+        <div class="caption">
+        East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p>th</p>
+
+<p>edition. McGraw-Hill Book Co., Singapore. 578 pp.</p>
+
+        </div>
+        
+        <div class="trivia-box">
+    <h4 class="trivia-box-title">if you learn only 3 things about them ... </h4>
+    <ul>
+        
+        <li class="trivia-box-item">
+            They are animals and NOT plants. Each is a colony of many tiny animals.
+        </li>
+        
+        <li class="trivia-box-item">
+            Unlike sponges, bryozoans are complex animals with internal organs.
+        </li>
+        
+    </ul>
+</div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/129.md">Moss animals (Phylum Ectoprocta=Bryozoa)</a>
+Tan, Leo W. H. &amp; Ng, Peter K. L., 1988,
+<em><a href="http://mangrove.nus.edu.sg/pub/seashore/">A Guide to Seashore Life</a></em>
+. The Singapore Science Centre, Singapore. 160 pp.</li>
+  <li><a href="http://www.microscopy-uk.org.uk/mag/artmay01/bryozoan.html">Flowers of the Sea: Bryozoans</a>
+by Jean-Marie Cavanihac on the Microscopy UK website: fact sheet on bryozoans with lots of lovely super close look at tiny bryozoans.</li>
+  <li><a href="http://www.ucmp.berkeley.edu/bryozoa/bryozoa.html">Bryozoa</a>
+on the Museum of Paleontology, University of California, Berkeley website: details with photos.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>K. J. Tilbrook &amp; D. P. Gordon. 29 June 2016.
+<em>Checklist of Singapore Bryozoa and Entoprocta</em>
+. The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part I of II) Pp. 593-603.</li>
+  <li>K. J. Tilbrook &amp; D. P. Gordon.
+<em>Bryozoa from the Straits of Johor, Singapore, with the description of new species</em>
+. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 255-263.</li>
+  <li>Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.
+<em>Invertebrate Zoology : A Functional Evolutionary Approach</em>
+Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963</li>
+  <li>Pechenik, Jan A., 2005.
+<em>Biology of the Invertebrates</em>
+. 5</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Squids and cuttlefish | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="squid, cuttlefish, cephalopod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="../../../Templates/fornatureguides.gif" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Mollusca">Mollusca</a>
+                    > 
+                    <a href="/Mollusca/Cephalopoda">Cephalopoda</a>
+                    > 
+                    <a href="/Mollusca/Cephalopoda/Myopsida">Myopsida</a>
+                    >
+                    <a href="/Mollusca/Cephalopoda/Myopsida/"></a>
+                    >
+                    <a href="/Mollusca/Cephalopoda/Myopsida//Loliginidae">Loliginidae</a>
+                </p>
+                <h1>Squids and cuttlefish</h1>
+                
+                    <p class="scientific-name">Family Loliginidae</p>
+                
+
+                <p><em>Updated May 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about them ... Squids and cuttlefish are fast moving shelless snails! They have ten arms and two tentacles. Their egg capsules are common on the shores. Don't step on them!
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        Squids and cuttlefish are fast moving shelless snails! They have ten arms and two tentacles. Their egg capsules are common on the shores. Don't step on them!
+        </div>
+    </div>
+    
+
+</div>
+
+<h2 id="where-seen">Where seen?</h2>
+<p>These amazing animals are seasonally common on many of our shores. Tiny squids are also common in seagrass areas, but often overlooked. Their eggs are also seasonally seen. Although better known as seafood, these delightful creatures are equally delicious to observe, with their colour changes and busy behaviour. They are more active at night.</p>
+
+<p><strong>What are squids and cuttlefish?</strong>
+They are not fish! These animals are
+<a href="../mollusca.md">molluscs</a>
+(Phylum Molusca) like snails, slugs and clams; and
+<a href="../cephalopoda.md">cephalopods</a>
+(Class Cephalopoda) which include
+<a href="octopus.md">octopuses</a>
+. Most of the commonly encountered cuttlefishes belong to
+<a href="sepiidae.md">Order Sepiida</a>
+, while our commonly encountered squids belong to Order Teuthida,
+<a href="loliginidae.md">Family Loliginidae</a>
+. The strange ball-shaped cuttlefish-like animals we see belong to
+<a href="sepiolida.md">Order Sepiolida</a>
+. Some small squids and cuttlefish live in the shallow areas among the seagrasses. Others live in deeper waters and may get trapped in a pool at low tide.</p>
+
+<h2 id="features">Features</h2>
+
+<p>From 1-2cm to about 10cm long. Compared to their more sedate cousins the slugs and snails, squids and cuttlefishes are fast-moving predators that hunt speedy prey like fish. They may also hunt snails and clams, crabs and prawns. Most have a horny bird-like beak to rip up prey.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutglittering/050524chgd3327m3.jpg" alt="" />
+        <div class="caption">
+        A cuttlefish has fins all around its body. Changi, May 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/080422smkd1422m3.jpg" alt="" />
+        <div class="caption">
+        Other squid have broad fins that extend the length of the body. Pulau Semakau, Apr 08
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/050622cftd4092m3.jpg" alt="" />
+        <div class="caption">
+        The bobtail or bottletail squids are not streamlined at all! Changi, Jun 05
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Jet-propelled molluscs:</strong>
+Squids and cuttlefish squirt a jet of water out of a funnel to zoom off in the opposite direction. They can move in any direction, but move fastest backwards. Squids tend to be more streamlined than cuttlefish. Squids are among the fastest aquatic invertebrates, some can reach speeds of up to 40km/hr. A cuttlefish can also hover or swim slowly by undulating the fins along the sides of its body. A squid does not have this all-round fin. Instead, the fin is limited to a triangular flap at the tip of the body, which acts as stabilisers.</p>
+
+<p><strong>Lightweight shell:</strong>
+Relying on speed, squids and cuttlefish do not have a thick, heavy outer shell. Their shells are reduced to lightweight internal bones. In squids, the bone is thin and narrow. In cuttlefish, these are flat surfboards riddled with tiny gas-filled chambers. By controlling the amount of gas in the cuttlebone, the cuttlefish can control its buoyancy. The cuttlebone is often seen on the beach among the flotsam. Cuttlebones are sold in pet shops as a source of calcium for caged birds.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/pygmy/030802hntd0082m3b.jpg" alt="" />
+        <div class="caption">
+        Squids have a pair of onger tentacles that extend beyond the shorter arms. Pulau Hantu, Aug 03
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/pygmy/110831tmnbd0631m3.jpg" alt="" />
+        <div class="caption">
+        The tiny Pgymy squid can catch shrimps almost as big as itself. Tanah Merah, Aug 11
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/030329cjd0083m3.jpg" alt="" />
+        <div class="caption">
+        Cuttlebone Chek Jawa, Mar 03
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Armed and Dangerous:</strong>
+Squids and cuttlefish have eight arms. These arms are short and stout, with suckers along their entire length. Some have toothed suckers and hooks for an even better grip.</p>
+
+<p>In addition to the eight arms, squids and cuttlefish also have a pair of tentacles. These may be twice as long as the arms, are thinner and have spoon-shaped tips. Only the tips have suckers. A squid or cuttlefish uses these two longer tentacles to grab prey. These tentacles shoot out and retract in an eye blink, bringing the prey within the grasp of the eight shorter arms which firmly grip the prey for the killing bite with its sharp beak.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/090606tmftd3187m3.jpg" alt="" />
+        <div class="caption">
+        Squids taking on different colours. Tanah Merah, Jun 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/120505sisd0910m6l.jpg" alt="" />
+        <div class="caption">
+        Ink squirted out retains its shape. Sister Island, May 12
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Disappearing Ink:</strong>
+When alarmed, squids and cuttlefish may squirt a cloud of ‘ink’. The ink may contain substances that affect the senses of other sea creatures. The inky clouded water also allows it to make a getaway. Sometimes, mucous is also released that ‘holds’ the ink into a shape that distracts the predator.</p>
+
+<p><strong>Colourful Talk:</strong>
+Squids and cuttlefish can rapidly change colours and patterns (zebra stripes, spots and more) to hide from predators and prey by matching their surroundings. Cuttlefish can also change the texture of their skin.</p>
+
+<p>These colour changes are also used to communicate with each other, for example during courtship. In some species, males and females display different colours and patterns.</p>
+
+<p>Some squids and cuttlefish also glow in the dark, producing bioluminescence. This actually camouflages them from bottom dwelling predators which look upwards for prey. The glowing body of a squid allows it to blend in a moonlit sky, instead of appearing as an obvious dark shadow.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/080208hntd9473m3.jpg" alt="" />
+        <div class="caption">
+        Some egg capsules commonly seen. Pulau Hantu, Feb 08
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/020715chgd3359m3.jpg" alt="" />
+        <div class="caption">
+        String of black egg capsoules Changi, Jul 02
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/030701chgd0073m3.jpg" alt="" />
+        <div class="caption">
+        Developing babies Changi, Jul 03
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Baby squid and cuttlefish:</strong>
+Some squids gather in large groups to spawn. To mate, the male grasps the female’s arms in his and inserts his sperm packets into her body. In some, male squids scrape or flush out sperm packets from previous suitors before inserting their own. To prevent this, some squid sperm packets have teeth to clamp firmly onto the female’s body! The female uses the sperm to fertilise her eggs as she lays them.</p>
+
+<p>Eggs are laid in capsules, attached to hard objects and surfaces; or inserted into crevices and other hiding places. Some cuttlefish incorporate ink into the capsules, making them black.</p>
+
+<p>Squids usually mate only once in their life and die soon after mating and laying eggs. Cuttlefish don’t produce as many eggs as squids.</p>
+
+<p>Here’s more photos of
+<a href="cepeggs.md">squid and cuttlefish eggs</a>
+sometimes seen.</p>
+
+<hr />
+
+<p>Dive video of cuttlefishes courting and laying egg capsules deep in a colony of branching coral.</p>
+
+<p><em>Pulau Hantu, Aug 2020</em></p>
+
+<p><strong>Human uses:</strong>
+People everywhere enjoy eating squids and cuttlefish. In Asia, they may be eaten freshly cooked, or they may be dried. They are also made into candied snacks. In the past, cuttlefish ink, called ‘sepia’, was used for writing and painting.</p>
+
+<p>Squids also have a role in human medical applications. Squids have gigantic nerve cells that are relatively easy to study. Much of what we know about our own nervous system is based on studies of squid nerve cells. Several Nobel prizes were based on such studies! The squid’s efficient jet propulsion system is also inspiring designs for better underwater vehicles.</p>
+
+<p><strong>Status and threats:</strong>
+None of our squids or cuttlefishes are listed among the endangered animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection can also affect local populations.</p>
+
+<hr />
+
+<p><strong>Do you speak cuttlefish?</strong>
+about colour and pattern changes in a cuttlefish</p>
+
+<p>and how these are used in mating, hunting and escaping predators.</p>
+
+<hr />
+
+<p><strong>Squids and cuttlefishes recorded for Singapore</strong>
+from Tan Siong Kiat and Henrietta P. M. Woo, 2010
+<em>Preliminary Checklist of The Molluscs of Singapore</em>
+.</p>
+
+<p><em>Norman, Mark., 2000.
+*Cephalopods: A World Guide</em>
+.</p>
+
+<p><strong>Order Sepiida</strong></p>
+
+<p><a href="sepiidae.md"><strong>Family Sepiidae</strong></a>
+**
+(Cuttlefishes) with list of species recorded for Singapore</p>
+
+<p><strong>Family Sepiadariidae</strong>
+(Bottle squids)</p>
+
+<p><em>Sepiadarium kochi</em></p>
+
+<p><strong>Order Teuthida</strong></p>
+
+<p><a href="loliginidae.md"><strong>Family Loliginidae</strong></a>
+**
+(Pencil squids) with list of species recorded for Singapore</p>
+
+<p><strong>Order Sepiolida</strong></p>
+
+<p><strong><a href="sepiolida.md">Family Sepiolidae</a></strong>
+(Bobtail squids) with list of species recorded for Singapore</p>
+
+<p><strong>Family Idiosepiidae</strong>
+(Pygmy squids)</p>
+
+<p><a href="pygmy.md"><em>Idiosepius</em>
+sp.</a>
+(Pygmy squids)</p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/167.md">Squid</a>
+Tan, Leo W. H. &amp; Ng, Peter K. L., 1988.
+<em><a href="http://mangrove.nus.edu.sg/pub/seashore/">A Guide to Seashore Life</a></em>
+. The Singapore Science Centre, Singapore. 160 pp.</li>
+  <li><a href="http://www.thecephalopodpage.org/">The Cephalopod Page</a>
+by Dr James B Wood on the Dalhousie University and the University of Texas Medical Branch website: everything you could possibly want to know about cephalopods. Lots of info, photos, articles and links to cephalopods. Lots of fabulous photos, a delightful and exhaustive FAQ, and lots of cool articles for the laymen. With a very cute ink-squiring squid cursor!</li>
+  <li>Cephalopods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+<a href="http://www.fao.org/docrep/009/w7191e/w7191e00.md">Volume 1: Seaweeds, corals, bivalves and gastropods</a>
+on the Food and Agriculture Organization of the United Nations (FAO) website.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Tan Siong Kiat and Henrietta P. M. Woo, 2010
+<em>Preliminary Checklist of The Molluscs of Singapore</em>
+(pdf), Raffles Museum of Biodiversity Research, National University of Singapore.</li>
+  <li>Lim, S., P. Ng, L. Tan, &amp; W. Y. Chin, 1994.
+<em>Rhythm of the Sea: The Life and Times of Labrador Beach.</em>
+Division of Biology, School of Science, Nanyang Technological University &amp; Department of Zoology, the National University of Singapore. 160 pp.</li>
+  <li>Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+. National Council on the Environment. 163pp.</li>
+  <li>Ng, P. K. L. &amp; Y. C. Wee, 1994.
+<em>The Singapore Red Data Book: Threatened Plants and Animals of Singapore</em>
+. The Nature Society (Singapore), Singapore. 343 pp.</li>
+  <li>Norman, Mark and Helmut Debelius, 2000.
+<em>Cephalopods: A World Guide</em>
+. ConchBooks, Germany. 319 pp</li>
+  <li>Norman, Mark and Amanda Reid. 2000.
+<em>A Guide to Squid, Cuttlefish and Octopuses of Australasia</em>
+The Gould League of Australia. 96pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

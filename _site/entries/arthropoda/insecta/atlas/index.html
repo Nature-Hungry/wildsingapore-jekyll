@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Atlas moth | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="atlas, moth, atlas attacus, saturniidae, lepidoptera, insect, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/insecta/atlas/040207ubnd0003m6l.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Arthropoda">Arthropoda</a>
+                    > 
+                    <a href="/Arthropoda/Insecta">Insecta</a>
+                    > 
+                    <a href="/Arthropoda/Insecta/Lepidoptera">Lepidoptera</a>
+                    >
+                    <a href="/Arthropoda/Insecta/Lepidoptera/"></a>
+                    >
+                    <a href="/Arthropoda/Insecta/Lepidoptera//Saturniidae">Saturniidae</a>
+                </p>
+                <h1>Atlas moth</h1>
+                
+                    <p class="scientific-name">Attacus atlas</p>
+                
+
+                <p><em>Updated Nov 2019</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>Like a magic furry flying carpet, this enormous moth is sometimes seen in our mangroves and other wild places. Atlas Moths are found only in Southeast Asia. They are common in Singapore, especially in November-January, although they are found throughout the year.</p>
+
+<h2 id="features">Features</h2>
+
+<p>Wings 25-30cm across and among the insects with the largest wing area. It is so named because its wing patterns resemble a map. The wings have triangular transparent ‘windows’ whose purpose we don’t know. The wing tips are hooked and some say resemble a snake’s head complete with eyes, to scare off predators.</p>
+
+<p>Female Atlas moths attract males by secreting a pheromone through a gland at the end of the abdomen. The male Atlas Moths has huge long feathery antennae to track down the female by her pheromones. The females are much larger than the males and don’t have feathery antennae.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/insecta/atlas/040207ubnd0003m6l.jpg" alt="" />
+        <div class="caption">
+        Probably just emerged from the cocoon or awaiting for a female to emerge from hers. Pulau Ubin, Feb 04
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/insecta/atlas/050422adamg4716m3.jpg" alt="" />
+        <div class="caption">
+        The caterpillar is large and whitish. Adam Road, May 04
+        </div>
+    </div>
+    
+
+</div>
+<p>Atlas moth eggs are laid on the underside of a leaf. They hatch in 8-14 days depending on the temperature. The caterpillars are bluish green with large bumps on them, and covered with a fine white powder, large ones with orange spots near the end. The caterpillars eat a wide variety of foodplants and may even wander from one to another. Their foodplants include the various mangrove plants as well as fruit trees.</p>
+
+<p>The Atlas moth’s pupae is encased in a silken cocoon, emerging as an adult moth about 4 weeks later.</p>
+
+<p>Adult Atlas moths don’t eat at all throughout their adult life which lasts for about two weeks. An adult Atlas moth doesn’t even have a mouth and lives off fat reserves built up when it was a caterpillar. The adults quickly mate, lay eggs, and die shortly thereafter.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/insecta/atlas/020116cjcpd4973m3.jpg" alt="" />
+        <div class="caption">
+        The caterpillar creating its cocoon. Pulau Ubin, Jan 02
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/insecta/atlas/091230prpd6472m3.jpg" alt="" />
+        <div class="caption">
+        Cocoons in a Berembang tree . Pasir Ris Park, Dec 09
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Uses by humans:</strong>
+While the Silkworm Moth (
+<em>Bombyx mori</em>
+, which belongs to a different family) which makes its cocoon out of one unbroken silk strand, the Atlas Moth caterpillar makes it out of broken strands of silk. Nevertheless, Atlas Moth cocoons are used to make a durable silk called Fagara Silk, in northern India. In Taiwan, their cocoons are made into pocket purses!</p>
+
+<p><strong>Other mammoth moths:</strong>
+The Giant Silkworm Moth (
+<em>Coscinocera hercules</em>
+) has a wing surface area that rivals the Atlas Moth’s. The Queen Alexandra Birdwing (
+<em>Ornithoptera alexandrae</em>
+) found in Papua New Guinea. Females are larger than males and can reach 28cm across and weigh more than 25g. The Hercules Moth (
+<em>Cosdinoscera hercules</em>
+) from Australia and Papua New Guinea is also 28cm. The Owlet Moth (
+<em>Thysania agrippina</em>
+) of tropical Americas can reach 30cm.</p>
+
+<hr />
+
+<p><strong>Atlas moths on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470@N00&amp;sort=date-posted-desc&amp;view_all=1&amp;text=Atlas attacus">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Atlas%2520attacus/map?&amp;fLat=1.2622&amp;fLon=103.8661&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/insecta/atlas/080601cjwlk.jpg" alt="" />
+        <div class="caption">
+        Chek Jawa, Jun 08 Photo shared by Wong Ley Kun on her blog.
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li>The Atlas Moth Chronicles -
+<a href="http://butterflycircle.blogspot.sg/2012/08/the-atlas-moth-chronicles-episode-1.html">Episode 1</a>
+and
+<a href="http://butterflycircle.blogspot.sg/2012/08/the-atlas-moth-chronicles-episode-2.html">Episode 2</a>
+and
+<a href="http://butterflycircle.blogspot.sg/2012/09/the-atlas-moth-chronicles-episode-3.html">Episode 3</a>
+on the Butterflies of Singapore blog: documenting the life cycle and other interesting behaviour.</li>
+  <li><em><a href="https://singapore.biodiversity.online/taxo4254/mainSpace/Attacus atlas.html">Attacus atlas</a></em>
+on Taxo4254.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Foo Maosheng. 30 Jun 2017.
+<em>An atlas moth infestation at Yishun</em>
+. Singapore Biodiversity Records 2017: 80-81.</li>
+  <li>Paul Sterry,
+<em>“Butterflies and Moths: A Portrait of the Animal World”</em>
+, Todtri, 1995.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

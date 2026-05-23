@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Worm-eels  | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="worm, snake, eel, fish, ophichthidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/040817sntd4718m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Chordata">Chordata</a>
+                    > 
+                    <a href="/Chordata/Actinopterygii">Actinopterygii</a>
+                    > 
+                    <a href="/Chordata/Actinopterygii/Anguilliformes">Anguilliformes</a>
+                    >
+                    <a href="/Chordata/Actinopterygii/Anguilliformes/Congroidei">Congroidei</a>
+                    >
+                    <a href="/Chordata/Actinopterygii/Anguilliformes/Congroidei/Ophichthidae">Ophichthidae</a>
+                </p>
+                <h1>Worm-eels </h1>
+                
+                    <p class="scientific-name">Family Ophichthidae</p>
+                
+
+                <p><em>Updated Sep 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about them ... Often mistaken for snakes or worms, they are fish! They breathe through gills. They have smooth skin instead of scales. Most are burrowing and only active at night.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        Often mistaken for snakes or worms, they are fish! They breathe through gills. They have smooth skin instead of scales. Most are burrowing and only active at night.
+        </div>
+    </div>
+    
+
+</div>
+
+<h2 id="where-seen">Where seen?</h2>
+<p>These worm-like fishes are often seen near coral rubble where there are lots of hiding places, especially on our Southern shores. Larger snake eels sometimes also seen, especially at night.</p>
+
+<dl>
+  <dt><strong>What are worm eels?</strong></dt>
+  <dt>Worm-eels and snake-eels belong to the Family Ophichthidae, which belongs to the Order Anguilliformes (True eels). According to</dt>
+  <dt><a href="http://www.fishbase.org/Summary/FamilySummary.cfm?ID=66">FishBase</a></dt>
+  <dd>the family has 52 genera and 250 species. They are found in tropical to warm temperate seas.</dd>
+</dl>
+
+<h2 id="features">Features</h2>
+
+<p>20cm-2.5m long, these fishes have a tubular body. They lack scales. Some species have pectoral fins, others don’t. The head and tail are pointed and they are adapted for burrowing. They swim by moving the body in S-shapes, rather like a sea snake. In fact, some day-hunting snake eels mimic sea snakes.</p>
+
+<p><strong>Sometimes mistaken for</strong>
+<a href="../../../worm/worm.md">worms</a>
+or
+<a href="../../snakes/hydrophiidae/laticauda.md">sea snakes</a>
+. Here’s more on
+<a href="../../../glossary/eelsnake.md">how to tell apart sea snakes, eels and eel-like animals</a>
+.</p>
+
+<p><strong>What do they eat?</strong>
+Most species are burrowing. They hunt fishes,
+<a href="../../../mollusca/cephalopoda.md">octopus, squids and cuttlefishes</a>
+and crustaceans.</p>
+
+<hr />
+
+<p><strong>Some Worm-eels and Snake-eels on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/040817sntd4718m3.jpg" alt="" />
+        <div class="caption">
+        Worm-eels
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/evermann/081231sisd4444m3.jpg" alt="" />
+        <div class="caption">
+        Evermann's snake-eel
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/mangrove/121227prpd2813m3a.jpg" alt="" />
+        <div class="caption">
+        Mangrove snake-eel
+        </div>
+    </div>
+    
+
+</div>
+
+<hr />
+
+<p><strong>Family Ophichthidae recorded for Singapore</strong>
+from Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+.</p>
+
+<p>**from
+<a href="http://www.marinespecies.org/">WORMS</a></p>
+
+<p><strong>Family Ophichthidae awaiting identification</strong></p>
+
+<p><a href="mangrove.md">Mangrove snake-eel</a></p>
+
+<p><strong>Family Ophichthidae</strong></p>
+
+<p>*Caecula lumbricoides</p>
+
+<p><a href="wormeel.md">Scolecenchelys macroptera=</a>
+Muraenichthys macropterus*
+**
+(Worm-eel)
+<em>Ophichthus apicalis</em>
+(Blunt-nose snake eel)
+*Ophichthus cephalozona</p>
+
+<p>Ophichthus celebicus</p>
+
+<p>Ophichthus evermanni=**
+<a href="evermann.md">Ophichthus lithinus</a>*
+(Evermann’s snake eel)
+*Ophichthus singapurensis</p>
+
+<p>Pisodonophis boro*
+(Rice-paddy eel)
+<em>Pisodonophis cancrivorus</em>
+(Burrowing snake-eel)
+<em>Pisodonophis micropterus</em></p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/213.md">Green worm-eel (
+<em>Muraenichthys</em>
+sp.)</a>
+and
+<a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/214.md">Burrowing Snake-eel (
+<em>Pisodonophis crancrivorus</em>
+)</a>
+Lim, Kelvin and Jeffrey K Y Low,
+<em><a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/">Guide to Common Marine Fishes of Singapore</a></em>
+. Singapore Science Centre.</li>
+  <li><a href="http://www.fishbase.org/summary/FamilySummary.php?ID=66">Family Ophichthidae</a>
+and
+<em><a href="http://www.fishbase.org/Summary/SpeciesSummary.php?ID=64829">Ophichthus lithinus</a></em>
+<a href="http://www.fishbase.us/summary/Ophichthus-lithinus.html">(Evermann’s snake eel)</a>
+and
+<em><a href="http://www.fishbase.us/summary/Ophichthus-apicalis.html">Ophichthus apicalis</a></em>
+<a href="http://www.fishbase.org/Summary/SpeciesSummary.php?ID=8056">(Blunt-nose snake eel)</a>
+and
+<a href="http://www.fishbase.org/summary/7291"><em>Ophichthus cephalozona</em>
+(Dark-shouldered snake eel)</a>
+and
+<em><a href="http://www.fishbase.org/Summary/SpeciesSummary.php?ID=53882">Ophichthus celebicus</a></em>
+and
+<em><a href="http://www.fishbase.us/summary/Ophichthus-singapurensis.html">Ophichthus singapurensis</a></em>
+and
+<a href="http://www.fishbase.org/Summary/SpeciesSummary.php?ID=8055"><em>Pisodonophis boro</em>
+(Rice-paddy eel)</a>
+and
+<em><a href="http://www.fishbase.org/Summary/SpeciesSummary.php?ID=8054">Pisodonophis cancrivorus</a></em>
+<a href="http://www.fishbase.us/summary/Pisodonophis-cancrivorus.html">(Longfin snake-eel)</a>
+and
+<a href="http://www.fishbase.org/summary/7289"><em>Scolecenchelys macroptera</em>
+(Slender snake eel)</a>
+from
+<a href="http://www.fishbase.org/">FishBase</a>
+.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+. National Council on the Environment. 163pp.</li>
+  <li>Allen, Gerry, 2000.
+<em>Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers</em>
+. Periplus Editions. 292 pp.</li>
+  <li>Kuiter, Rudie H. 2002.
+<em>Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers &amp; Fishermen</em>
+New Holland Publishers. 434pp.</li>
+  <li>Lieske, Ewald and Robert Myers. 2001.
+<em>Coral Reef Fishes of the World</em>
+Periplus Editions. 400pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

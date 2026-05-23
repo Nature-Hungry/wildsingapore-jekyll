@@ -1,0 +1,687 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Sharks | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="sharks, selachimorpha, selachii, elasmobranchii, fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/selachii/selachii/070228hnttch2m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Chordata">Chordata</a>
+                    > 
+                    <a href="/Chordata/Chondrichthyes">Chondrichthyes</a>
+                    > 
+                    <a href="/Chordata/Chondrichthyes/Orectolobiformes">Orectolobiformes</a>
+                    >
+                    <a href="/Chordata/Chondrichthyes/Orectolobiformes/"></a>
+                    >
+                    <a href="/Chordata/Chondrichthyes/Orectolobiformes//Hemiscylliidae">Hemiscylliidae</a>
+                </p>
+                <h1>Sharks</h1>
+                
+                    <p class="scientific-name">Family Hemiscylliidae</p>
+                
+
+                <p><em>Updated Oct 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about them ... Sharks can still be found in Singapore waters! They will not harm humans if they are left alone. As top predators, they play an important role in the health and balance of the marine ecosystem.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        Sharks can still be found in Singapore waters! They will not harm humans if they are left alone. As top predators, they play an important role in the health and balance of the marine ecosystem.
+        </div>
+    </div>
+    
+
+</div>
+
+<h2 id="where-seen">Where seen?</h2>
+<p>Sharks are sometimes seen by divers in our waters, and during intertidal trips to Singapore’s southern submerged reefs.</p>
+
+<p><strong>What are sharks?</strong>
+Sharks belong to Infraclass Selachii. And to the Subclass Elasmobranchii which includes the
+<a href="../dasyatidae/rajiformes.md">stingrays</a>
+.</p>
+
+<h2 id="features">Features</h2>
+
+<p>These streamlined predators are torpedo shaped, usually with 8 fins. The skin is rough and sand-papery and have properties that make them efficient swimmers. Sharks breathe through a row of gills behind the eyes. Sharks have teeth, lots of them. Sharks that feed on snails and crustaceans have flattened teeth for crushing, those that hunt fish have needle-like teeth. Only those that feed on larger prey triangular serrated knife-like teeth for cutting. Like rays, the skeleton of sharks are made of flexible cartilage. If you want to know how cartilage feels like, your nose and ears are made of cartilage!</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/selachii/selachii/070228hnttch2m3.jpg" alt="" />
+        <div class="caption">
+        Bamboo shark spotted diving. Pulau Hantu, Feb 07 Photo shared by Toh Chay Hoon on her blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/selachii/selachii/110626hntdn2m3.jpg" alt="" />
+        <div class="caption">
+        The Bamboo shark is often seen by divers at Pulau Hantu. Pulau Hantu, Jun 2011 Photo shared on the Hantu Blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/selachii/selachii/100614bbtch8m3.jpg" alt="" />
+        <div class="caption">
+        Baby bamboo shark! Beting Bronok, Jun 2010 Photo shared by Toh Chay Hoon on her blog
+        </div>
+    </div>
+    
+
+</div>
+<p>Among the sharks commonly seen on our shores are:</p>
+
+<p><strong>Bamboo sharks</strong>
+(Family Hemiscylliidae): sometimes seen by divers at Pulau Hantu.</p>
+
+<p><strong>Black tipped reef sharks</strong>
+(
+<em>Carcharhinus melanopterus</em>
+): sometimes encountered during surveys of the Southern submerged reefs at low tide. These sharks appear to hunt fish in low water, thus staying in the shallows at moderate tides or coming in with the tide.</p>
+
+<p>Records (see below) suggest a wide variety of shark species have been seen in Singapore in the past.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/selachii/selachii/110528smks02448m6l.jpg" alt="" />
+        <div class="caption">
+        This Black-tipped reef shark was found dead . Pulau Semakau, May 11
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/selachii/selachii/120722cyrrl.jpg" alt="" />
+        <div class="caption">
+        Sharks rushing in with the incoming tide. Cyrene Reef, Jul 12 Photo shared by Russel Low on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Sharks in shallow waters:</strong>
+Sharks on our reefy shores often rush in as the tide turns! They’ve been patiently waiting in deeper waters at low tide, and move in at the first opportunity to hunt for small fishes. They are in such a hurry that their dorsal fins stick out above the shallow water. They don’t hunt people, but it’s best for us to stay out of the water during the turn of the tide on a reef flat.</p>
+
+<p><strong>Shark babies:</strong>
+In most shark species, baby sharks develop inside the mother who eventually ‘gives birth’ to live babies. Other sharks may lay eggs in a leathery case attached to a hard surface. When the baby shark emerges, the empty purse-like case may wash ashore. Sharks produce few young which take a longer time to mature compared to other fish. Thus shark populations reproduce slowly and can be seriously affected by overharvesting.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/selachii/selachii/110719sntL1060905.jpg" alt="" />
+        <div class="caption">
+        Shark egg capsule? Washed ashore. Sentosa, Jul 11
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/selachii/selachii/180717tbll7.jpg" alt="" />
+        <div class="caption">
+        Coral cat-shark sheltering under coral rubble during low tide. Terumbu Bemban, Jul 18 Photo shared by Lisa Lim on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Shark friends:</strong>
+The remora aka ‘sharksucker’ is often seen stuck onto sharks as well as other large marine animals, and even boats. The first dorsal fin is modificed into a sucker with slats that open and close to create suction. The remora can swim well on its own.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/selachii/selachii/251107tmftlks2.jpg" alt="" />
+        <div class="caption">
+        Live Remora seen in a lagoon. Tanah Merah Ferry Terminal, Nov 25 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/selachii/selachii/251107tmftlks2a.jpg" alt="" />
+        <div class="caption">
+        Tanah Merah Ferry Terminal, Nov 25 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Status and threats:</strong>
+In Singapore, our sharks are threatened by over fishing
+<a href="http://www.pulauhantu.org/blacktip-reef-shark-caught-at-pulau-hantu/">by recreational fishermen</a>
+,
+<a href="http://wildshores.blogspot.sg/2010/07/dark-side-of-cyrene.html">trapped in nets</a>
+or traps. None of the shark species recorded for Singapore, however, are listed as threatened in the latest Red Data Book.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/selachii/selachii/130809smklks.jpg" alt="" />
+        <div class="caption">
+        Three dead sharks in front of fishing net. Pulau Semakau, Aug 13 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/selachii/selachii/100711cyrd8266m3.jpg" alt="" />
+        <div class="caption">
+        Shark trapped in fishing net. Cyrene, Jul 10
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Sharks on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?q=Selachii&amp;w=54527470%40N00&amp;s=rec&amp;ss=2">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Selachii/map?&amp;fLat=1.2626&amp;fLon=103.8661&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/selachii/selachii/140614cjlks.JPG" alt="" />
+        <div class="caption">
+        Chek Jawa, Jun 14 Photo shared by Loh Kok Sheng on flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/selachii/selachii/180616bblks10.jpg" alt="" />
+        <div class="caption">
+        Beting Bronok, Jun 18 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/selachii/selachii/170625bbll1.jpg" alt="" />
+        <div class="caption">
+        Beting Bronok, Jun 17 Photo shared by Lisa Lim on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/selachii/selachii/201029sisrk.jpg" alt="" />
+        <div class="caption">
+        Black tipped reef shark outside the seawall. Sisters Island, Oct 20 Photo shared by Richard Kuah on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/selachii/selachii/120805cyrjs1m3.jpg" alt="" />
+        <div class="caption">
+        Black tipped reef shark with the incoming tide. Cyrene Reef, Aug 12 Photo shared by Jocelyn Sze on her blog
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/selachii/selachii/210821cyrdc1.jpg" alt="" />
+        <div class="caption">
+        Cyrene Reef, Aug 21 Photo shared by Dayna Cheah on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/selachii/selachii/201018smksvc1.jpg" alt="" />
+        <div class="caption">
+        Found dead at low tide. Pulau Semakau South, Oct 20 Photo shared by Vincent Choo on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/selachii/selachii/120805bbbrl.jpg" alt="" />
+        <div class="caption">
+        Beting Bemban Besar, Aug 12 Photo shared by Russel Low on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/selachii/selachii/220420tbtyj1.jpg" alt="" />
+        <div class="caption">
+        Terumbu Bemban, Apr 22 Photo shared by Tang Yong Jen on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/selachii/selachii/240609tptky1.jpg" alt="" />
+        <div class="caption">
+        Terumbu Pempang Tengah, Jun 24 From video shared by Kelvin Yong on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/selachii/selachii/220102biolks5a.jpg" alt="" />
+        <div class="caption">
+        Pulau Biola, Jan 22 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/selachii/selachii/220102biolks5b.jpg" alt="" />
+        <div class="caption">
+        Pulau Biola, Jan 22 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<hr />
+
+<p><a href="https://vimeo.com/136370095">Juvenile Bamboo Shark (Chiloscyllium sp.)</a>
+from
+<a href="https://vimeo.com/user696199">Loh Kok Sheng</a>
+on
+<a href="https://vimeo.com">Vimeo</a>
+.</p>
+
+<hr />
+
+<p><strong>Sharks recorded for Singapore</strong></p>
+
+<p>from Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+.</p>
+
+<p>*from Lim, Kelvin K. P. &amp; Jeffrey K. Y. Low, 1998. A Guide to the Common Marine Fishes of Singapore. Singapore Science Centre</p>
+
+<p>**from WORMS</p>
+
+<p>+Other additions (Singapore Biodiversity Records, etc)</p>
+
+<p><strong>Family Carcharhinidae (Requiem sharks)</strong></p>
+
+<p><em>Carcharhinus amblyrhynchos</em>
+(Gray reef shark)</p>
+
+<p><em>Carcharhinus dussumieri</em>
+(Whitecheek shark)</p>
+
+<p><em>Carcharhinus longimanus</em>
+(Oceanic whitetip shark)</p>
+
+<p><em>Carcharhinus melanopterus</em>
+(Blacktip reef shark)</p>
+
+<p><em>Carcharhinus menisorrah=**Carcharhinus falciformis</em>
+or
+<em>Carcharhinus sealei</em>
+or
+<em>Carcharhinus amblyrhynchos</em>
+or
+*Carcharhinus dussumieri</p>
+
+<p>Carcharhinus pleurotaenia=**Carcharhinus amblyrhynchoides</p>
+
+<p>+Carcharhinus sealei*
+(Blackspot shark)
+<em>Carcharhinus sorrah</em>
+(Spottail shark)</p>
+
+<p><em>Galeocerdo cuvier</em>
+(Tiger shark)</p>
+
+<p><em>Triaenodon obesus</em>
+(Whitetip reef shark)</p>
+
+<p><strong>Family Ginglymostomatidae (Nurse sharks)</strong></p>
+
+<p>*Nebrius concolor=**Nebrius ferrugineus</p>
+
+<p>Nebrius ferrugineus*
+(Tawny nurse shark)</p>
+
+<p><strong>Family Hemiscylliidae (Bamboo sharks and longtailed carpetsharks)</strong></p>
+
+<p><em>Chiloscyllium punctatum</em>
+(Brown-banded bamboo shark)</p>
+
+<p><em>Hemiscyllium griseum=**Chiloscyllium griseum</em>
+(Grey bamboo shark)</p>
+
+<p><em>Hemiscyllium indicum=**Chiloscyllium indicum</em>
+(Slender bamboo shark)</p>
+
+<p><em>Hemiscyllium plagiosum=**Chiloscyllium plagiosum</em>
+(White-spotted bamboo shark)</p>
+
+<p><strong>Family Lamnidae (Mackerel sharks, porbeagles, and white sharks)</strong></p>
+
+<p><em>Isurus oxyrinchus</em>
+(Shortfin mako)</p>
+
+<p><strong>Family Scyliorhinidae (Cat-sharks)</strong>*</p>
+
+<p><em>Atelomycterus marmoratus</em>
+(Coral cat-shark)</p>
+
+<p><strong>Family Stegostomatidae (Zebra sharks)</strong></p>
+
+<p><em>Stegostoma varium=**Stegostoma fasciatum</em></p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li>Lim, Kelvin K. P. &amp; Jeffrey K. Y. Low, 1998.
+<em><a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/">A Guide to the Common Marine Fishes of Singapore</a></em>
+. Singapore Science Centre. 163 pp.</li>
+  <li><a href="https://singapore.biodiversity.online/taxo4254/mainSpace/Carcharhinus%20melanopterus.html"><em>Carcharhinus melanopterus</em></a>
+(Carcharhiniformes: Carcharhinidae) Blacktip Reef Shark by Kok Wai Kit Jerome, 2012 on taxo4254.</li>
+  <li><em><a href="https://singapore.biodiversity.online/taxo4254/mainSpace/Whitespotted%20Bamboo%20Shark.html">Chiloscyllium plagiosum</a></em>
+(Orectolobiformes: Hemiscylliidae) Whitespotted Bamboo Shark by Lin Yuan, 2015, on taxo4254.</li>
+  <li><a href="https://singapore.biodiversity.online/taxo4254/mainSpace/Sphyrna lewini.html"><em>Sphyrna lewini</em></a>
+(Carcharhiniformes: Sphyrnidea) Scalloped Hammerhead by Li Xuezhi, 2013 on taxo4254.</li>
+  <li>From Mothership</li>
+  <li><a href="https://mothership.sg/2020/08/bamboo-shark-released-anglers/">Anglers at Changi catch &amp; release bamboo shark because it is near-threatened species,</a>
+7 Aug 2020.</li>
+  <li>From the Hantu Blog</li>
+  <li><a href="https://www.pulauhantu.sg/the-sharks-of-singapore/">The Sharks of Singapore</a>
+, 19 Jul 2018</li>
+  <li><a href="http://www.pulauhantu.sg/blacktip-reef-shark-caught-at-pulau-hantu/">Blacktip reef shark caught at Pulau Hantu</a>
+, 1 Jul 2009</li>
+  <li><a href="http://lazy-lizard-tales.blogspot.sg/search/label/sharks%20and%20rays">Sharks and rays</a>
+on the Lazy Lizard Tales blog.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Chim Chee Kong, Lee Yen-ling, Samantha Tong, Teresa Tay &amp; Rene Ong. 16 October 2015.
+<em>Blacktip reef sharks caught in trammel nets at Lazarus Island</em>
+. Singapore Biodiversity Records 2015: 158-159</li>
+  <li>Karenne Tun &amp; Kelvin K. P. Lim . 19 June 2015.
+<em>Brown-banded bamboo shark off Pulau Satumu</em>
+. Singapore Biodiversity Records 2015: 79</li>
+  <li>Chim Chee Kong &amp; Kelvin K. P. Lim. 21 February 2014.
+<em>Coral cat-sharks at eastern Johor Straits</em>
+. Singapore Biodiversity Records 2014: 54</li>
+  <li>Ron K. H. Yeo. 7 February 2014.
+<em>Blacktip reef sharks (Carcharhinus melanopterus) at Semakau Landfill</em>
+. Singapore Biodiversity Records 2014: 33-34</li>
+  <li>Chim Chee Kong &amp; Kelvin K. P. Lim. 7 February 2014.
+<em>Blackspot shark at eastern Johor Straits</em>
+. Singapore Biodiversity Records 2014: 47</li>
+  <li>Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+. National Council on the Environment. 163pp.</li>
+  <li>Lim, S., P. Ng, L. Tan, &amp; W. Y. Chin, 1994.
+<em>Rhythm of the Sea: The Life and Times of Labrador Beach</em>
+. Division of Biology, School of Science, Nanyang Technological University &amp; Department of Zoology, the National University of Singapore. 160 pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Worm snails | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="worm, vermetid, vermetidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/vermetidae/vermetidae/130722skdd9664.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Mollusca">Mollusca</a>
+                    > 
+                    <a href="/Mollusca/Gastropoda">Gastropoda</a>
+                    > 
+                    <a href="/Mollusca/Gastropoda/Littorinimorpha">Littorinimorpha</a>
+                    >
+                    <a href="/Mollusca/Gastropoda/Littorinimorpha/"></a>
+                    >
+                    <a href="/Mollusca/Gastropoda/Littorinimorpha//Vermetidae">Vermetidae</a>
+                </p>
+                <h1>Worm snails</h1>
+                
+                    <p class="scientific-name">Family Vermetidae</p>
+                
+
+                <p><em>Updated Oct 2016</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about them ... Although they look like worms, they are actually snails! They filter feed at high tide, gathering bits with a 'net'. Look for them on large boulders and other hard surfaces.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        Although they look like worms, they are actually snails! They filter feed at high tide, gathering bits with a 'net'. Look for them on large boulders and other hard surfaces.
+        </div>
+    </div>
+    
+
+</div>
+
+<h2 id="where-seen">Where seen?</h2>
+<p>These odd-looking snails are seen coiled on rocks, stones and other hard surfaces. Commonly seen on our Northern shores. Often, the snail shell is covered with encrusting lifeforms, so only the shell opening is visible. Some snails of the
+<a href="../turritellidae/turritella.md">Family Turritellidae</a>
+also build coiling shells.</p>
+
+<h2 id="features">Features</h2>
+
+<p>Tube opening 1-2cm in diameter, coils 10cm long or more. This amazing snail is NOT a worm. It builds a thin hard tube on hard surfaces. The worm snail has a pair of short thick tentacles, and a short foot. Some species of worm snails have a thin operculum attached to the foot that is used to seal the shell opening, others don’t. As young snails, the shell they produce appears ‘normal’, and are free-living and unattached. But they soon attach to a hard surface and the shell produced becomes meandering and coiling.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/vermetidae/vermetidae/130722skdd9664.jpg" alt="" />
+        <div class="caption">
+        Pulau Sekudu, Jul 13
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/vermetidae/vermetidae/050429cftg5490m3a.jpg" alt="" />
+        <div class="caption">
+        Changi, Apr 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/vermetidae/vermetidae/050510tusg6099m3.jpg" alt="" />
+        <div class="caption">
+        Tuas, May 05
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Sometimes confused with</strong>
+<a href="../../../worm/polychaeta/serpulidae.md">keelworms</a>
+(Phylum Annelida, Class Polychaeta) which are segmented worms that also build coiling hard shells on hard surfaces. Tubes made by worms such as keelworms are dull on the inside and made up of two layers. Tube worms have segmented bodies. Tubes made by snails such as vermetids are glossy on the inside because of a deposit of nacre, and made up of three layers. Vermetid snails do not have segmented bodies. Here’s more on how to tell apart
+<a href="../../../glossary/tubehard.md">animals that make hard coiling tubes</a>
+.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/vermetidae/vermetidae/020617tuscpd0757m3.jpg" alt="" />
+        <div class="caption">
+        Feeding with mucus strands? Raffles Marina, Jun 02
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/vermetidae/vermetidae/120604pgld3575m6la.jpg" alt="" />
+        <div class="caption">
+        Often, the shell is covered in encrusting lifeforms and only the shell opening is seen. Punggol, Jun 12
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>What does it eat?</strong>
+A worm snail ‘nets’ food from the water. A sticky mucus net is secreted from a gland near the foot. This net can extend many times the body length. Elsewhere, it was observed that a vermetid snail with a tube diameter of 5cm had a mucus net 2m long! The animal gathers the mucus and eats it together with whatever tasty bits are stuck on it. The vermetid snail’s digestive system is more similar to that of bivalves than other gastropods.</p>
+
+<p><strong>Worm snail babies:</strong>
+Male worm snails release their sperm in packets. Female worm snails ‘net’ these sperm packets in the same way that they gather food. As the sperm packets are hauled near the female’s body, the sperm is released from the packet. Or the female may store the sperm to fertilise the eggs later. Eggs are retained inside the tube. They don’t have a free-swimming stage and emerge out of the tube as little snails. After crawling about briefly, they cement themselves to a hard surface.</p>
+
+<p><strong>Human uses:</strong>
+In Polynesia, they are a traditional food of some coastal people.</p>
+
+<hr />
+
+<p><strong>Vermetid snails on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?text=Vermetidae&amp;sort=date-taken-desc&amp;user_id=54527470@N00">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Vermetidae/map?&amp;fLat=1.2622&amp;fLon=103.8657&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/vermetidae/vermetidae/201020prpalks8.jpg" alt="" />
+        <div class="caption">
+        Pasir Ris-Loyang, Oct 20 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/vermetidae/vermetidae/260103prpyls10.jpg" alt="" />
+        <div class="caption">
+        Pasir Ris Park, Dec 25 Photo shared by Yan Le Su on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Family Vermetidae recorded for Singapore</strong>
+from Tan Siong Kiat and Henrietta P. M. Woo, 2010
+<em>Preliminary Checklist of The Molluscs of Singapore</em>
+.</p>
+
+<p>^from
+<a href="http://www.marinespecies.org/">WORMS</a></p>
+
+<p><strong>Family Vermetidae</strong></p>
+
+<p><em>Serpulorbis</em>
+sp.
+<em>=^Thylacodes</em>
+sp.</p>
+
+<p><em>Vermetus</em>
+sp.</p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Vermetidae.html">Vermetidae and other ‘Worm shells”</a>
+on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief fact sheet with photos.</li>
+  <li><a href="http://www.reefs.org/library/aquarium_net/0897/0897_8.html">Worms that ain’t.. Vermetid Snails In Marine Aquaria</a>
+by Ron Shimek on Aquarium.Net: lots of scientific details about Vermetids.</li>
+  <li>Family Vermitidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+<a href="http://www.fao.org/docrep/009/w7191e/w7191e00.md">Volume 1: Seaweeds, corals, bivalves and gastropods</a>
+on the Food and Agriculture Organization of the United Nations (FAO) website.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Tan Siong Kiat and Henrietta P. M. Woo, 2010
+<em>Preliminary Checklist of The Molluscs of Singapore</em>
+(pdf), Raffles Museum of Biodiversity Research, National University of Singapore.</li>
+  <li>Tan, K. S. &amp; L. M. Chou, 2000.
+<em>A Guide to the Common Seashells of Singapore</em>
+. Singapore Science Centre. 160 pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

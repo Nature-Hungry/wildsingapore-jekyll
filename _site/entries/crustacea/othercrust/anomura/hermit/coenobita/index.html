@@ -1,0 +1,535 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Land hermit crab | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="land, hermit, crab, coenobita, cavipes, violascens, coenobitidae, anomura, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/080222sntd0091m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Arthropoda">Arthropoda</a>
+                    > 
+                    <a href="/Arthropoda/Malacostraca">Malacostraca</a>
+                    > 
+                    <a href="/Arthropoda/Malacostraca/Decapoda">Decapoda</a>
+                    >
+                    <a href="/Arthropoda/Malacostraca/Decapoda/Pleocyemata">Pleocyemata</a>
+                    >
+                    <a href="/Arthropoda/Malacostraca/Decapoda/Pleocyemata/Coenobitidae">Coenobitidae</a>
+                </p>
+                <h1>Land hermit crab</h1>
+                
+                    <p class="scientific-name">Coenobita sp.</p>
+                
+
+                <p><em>Updated Dec 2019</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about them ... This hermit crab is seldom seen on the mainland. Every empty shell is a potential hermit crab home. Don't take any shells home! It is so well adapted to land it will drown if kept under water!
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        This hermit crab is seldom seen on the mainland. Every empty shell is a potential hermit crab home. Don't take any shells home! It is so well adapted to land it will drown if kept under water!
+        </div>
+    </div>
+    
+
+</div>
+
+<h2 id="where-seen">Where seen?</h2>
+<p>This large hermit crab is sometimes seen on our undisturbed shores near the high water line, especially on our offshore islands. Near the high water mark among rocks, boulders and marine debris, and even some distance inland among grass and under trees. But it is only active at night.</p>
+
+<h2 id="features">Features</h2>
+
+<p>Boday 3-6cm long, 1cm wide. Left pincer usually larger than the right. Pincers and walking legs “squarish” thick, not very hairy. May be brownish to pale or dark purple. Eyes on very short flattened stalks. Short antennae quite long, while long antennae not very long.</p>
+
+<p>There are three species of land hermit crabs in Singapore. They are not easy to distinguish in the field.</p>
+
+<p>The Land hermit crab is so well adapted to life out of water that it will drown if kept underwater! It has special gill chambers that act as lungs. These chambers are large and holds water to keep the gill filaments wet. The hermit crab only needs to occasionally dip in either rainwater or the sea to keep the chambers wet. Females, however, must go to the edge of the sea to release their eggs into the sea. These hatch into planktonic larvae. When the larvae develops into a small hermit crab, it finds an empty shell then heads landward. The Family Coenobitidae includes the largest hermit crab, the Robber or Coconut crab (
+<em>Birgus latro</em>
+) which doesn’t live in a shell.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/080222sntd0091m3.jpg" alt="" />
+        <div class="caption">
+        Sentosa, Feb 08
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/080222sntd0091m3a.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/080222sntd0098m3a.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>What does it eat?</strong>
+The hermit crab is a scavenger and also eats plants. It may go far inland to forage. Sometimes, many are seen at night near the visitors’ huts on our offshore islands. Possibly looking for scraps left behind by visitors?</p>
+
+<p><strong>Shells not enough?</strong>
+Often, those seen are found in shells that are too small for the animal. The poor hermit crab often can’t retract all the way into the shell, and a part of it is still sticking out. This is possibly because high up on the shore, there aren’t enough empty shells that are suitably large. The lack of suitably large shells on our shores may limit the population of these amazing animals. The land hermit crab is now considered rare on mainland Singapore.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/080802sjid8711m3.jpg" alt="" />
+        <div class="caption">
+        Some are very purple. St. John's Island, Aug 08
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/060102sisd6530m3.jpg" alt="" />
+        <div class="caption">
+        Some have a dark patch on the outside of the left pincer. Sisters Islands, Jan 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/060102sisd6545m3.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Status and threats:</strong>
+Our land hermit crabs are listed as ‘Vulnerable’ on the Red List of threatened animals of Singapore. Singapore’s more accessible beaches are regularly cleaned of any debris that washes up on the high tide mark. But this is where land hermit crabs find shelter, food and new shells. Deprived of their habitat, these endearing animals are no longer commonly encountered on our beaches.</p>
+
+<p>According to the Singapore Red Data Book, the many beach improvement schemes, clearance of ‘unsightly’ natural beach vegetation have almost exterminated these once common animals. Well-intentioned beach clean up have also resulted in mass removal of seemingly empty shells containing these animals.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="https://live.staticflickr.com/1882/42821197550_e5e95d8ac1_z.jpg" alt="" />
+        <div class="caption">
+        Pulau Tekukor, Sep 2018
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Land hermit crabs on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470@N00&amp;sort=date-posted-desc&amp;view_all=1&amp;text=Coenobita">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Coenobita/map?&amp;fLat=1.2619&amp;fLon=103.8661&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/211207chgerk1.jpg" alt="" />
+        <div class="caption">
+        Changi East (Lost Coast), Dec 21 Photo shared by Richard Kuah on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/171008srglks2.jpg" alt="" />
+        <div class="caption">
+        Seringat-Kias, Oct 17 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/250430sjiml4.jpg" alt="" />
+        <div class="caption">
+        St John's Island, Apr 25 Photo shared by Mathias Luk on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/250201bsisky4.jpg" alt="" />
+        <div class="caption">
+        Big Sisters Island, Feb 25 Photo shared by Kelvin Yong on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/250201bsisky5.jpg" alt="" />
+        <div class="caption">
+        Big Sisters Island, Feb 25 Photo shared by Kelvin Yong on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/251011ssistl5.jpg" alt="" />
+        <div class="caption">
+        Small Sisters Island, Oct 25 Photo shared by Tammy Lim on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/241019lazmn4.jpg" alt="" />
+        <div class="caption">
+        Lazarus Island, Oct 24 Photo shared by Marcus Ng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/241019lazmn4a.jpg" alt="" />
+        <div class="caption">
+        Lazarus Island, Oct 24 Photo shared by Marcus Ng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/110220lazro2m3.jpg" alt="" />
+        <div class="caption">
+        Lazarus Island, Feb 11 Photo shared by Rene Ong on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/110421jngrl1m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Jong, Apr 11 Photo shared by Russel Low on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/150422jngnml2m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Jong, Apr 15 Photo shared by Marcus Ng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/091204pawd5419m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Pawai, Dec 09
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Family Coenobitidae recorded for Singapore</strong>
+from Dwi Listyo Rahayu, 2000. Hermit crabs from the South China Sea (Crustacea: Decapoda: Anomura: Diogenidae, Paguridae, Parapaguridae)</p>
+
+<p>in red are those listed among the threatened animals of Singapore
+from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+<em>The Singapore Red Data Book: Threatened plants and animals of Singapore</em>
+.</p>
+
+<p>+from The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.
+**</p>
+
+<p><strong>Family Coenobitidae</strong></p>
+
+<p><em>Coenobita</em>
+sp. (Land hermit crabs)</p>
+
+<p><em>Coenobita cavipes</em>
+(VU:Vulnerable)</p>
+
+<p><em>+Coenobita lila</em>
+<em>Coenobita violascens</em>
+(VU:Vulnerable)</p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://mangrove.nus.edu.sg/guidebooks/text/2063.md">Land hermit crab (
+<em>Coenobita cavipes</em>
+) Family Coenobitidae</a>
+Ng, Peter K. L. &amp; N. Sivasothi, 1999.
+<em><a href="http://mangrove.nus.edu.sg/guidebooks/">A Guide to the Mangroves of Singapore II (Animal Diversity)</a></em>
+. Singapore Science Centre. 168 pp.</li>
+  <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/186.md">Hermit Crabs, Order Decapoda</a>
+Tan, Leo W. H. &amp; Ng, Peter K. L., 1988.
+<em><a href="http://mangrove.nus.edu.sg/pub/seashore/">A Guide to Seashore Life</a></em>
+. The Singapore Science Centre, Singapore. 160 pp.</li>
+  <li><a href="http://www.sealifebase.fisheries.ubc.ca/summary/Coenobita-violascens.html"><em>Coenobita violascens</em></a>
+and
+<a href="http://www.sealifebase.fisheries.ubc.ca/summary/Coenobita-cavipes.html"><em>Coenobita cavipes</em></a>
+on SeaLife Base: Technical fact sheet with photo.</li>
+  <li><a href="https://singapore.biodiversity.online/taxo4254/mainSpace/Coenobita%20cavipes.html"><em>Coenobita cavipes</em></a>
+(Decapoda: Coenobitidae) Land hermit crab on Taxo4254.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>D. L. Rahayu, H.-T. Shih &amp; P. K. L. Ng. 29 June 2016.
+<em>A new species of land hermit crab in the genus Coenobita Latreille, 1829 from Singapore, Malaysia and Indonesia, previously confused with C. cavipes Stimpson, 1858 (Crustacea: Decapoda: Anomura: Coenobitidae)</em>
+. The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part I of II) Pp. 470-488.</li>
+  <li>Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+<em>The Singapore Red Data Book: Threatened plants and animals of Singapore</em>
+. Nature Society (Singapore). 285 pp.</li>
+  <li>Lim, S., P. Ng, L. Tan, &amp; W. Y. Chin, 1994.
+<em>Rhythm of the Sea: The Life and Times of Labrador Beach.</em>
+Division of Biology, School of Science, Nanyang Technological University &amp; Department of Zoology, the National University of Singapore. 160 pp.</li>
+  <li>Jones Diana S. and Gary J. Morgan, 2002.
+<em>A Field Guide to Crustaceans of Australian Waters</em>
+. Reed New Holland. 224 pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

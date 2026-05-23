@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Geographic sea hare | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="geographic, seahare, hare, syphonota, paraplysia, geographica, aplysiidae, anaspidea, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/050608cftg7393m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Mollusca">Mollusca</a>
+                    > 
+                    <a href="/Mollusca/Gastropoda">Gastropoda</a>
+                    > 
+                    <a href="/Mollusca/Gastropoda/Aplysiida">Aplysiida</a>
+                    >
+                    <a href="/Mollusca/Gastropoda/Aplysiida/"></a>
+                    >
+                    <a href="/Mollusca/Gastropoda/Aplysiida//Aplysiidae">Aplysiidae</a>
+                </p>
+                <h1>Geographic sea hare</h1>
+                
+                    <p class="scientific-name">Syphonota geographica</p>
+                
+
+                <p><em>Updated May 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This chubby delicately patterned sea hare is seasonally common on our Northern shores, among seagrasses. Sometimes large numbers are seen, at other times, not at all. Often found half buried in the soft sediment, but sometimes crawling in the open, especially near sunrise or at night. It is also known as
+<em>Paraplysia geographica</em>
+.</p>
+
+<h2 id="features">Features</h2>
+
+<p>8-12cm. Body large, heavy and smooth. With two pairs of tentacles: one pair of oral tentacles forming flap at the front of the body. When compared with sea hares of the genus
+<em>Aplysia</em>
+, sea hares of the genus
+<em>Syphonota</em>
+have relatively small rhinophores which are close together and situated further back from the head almost between the long ‘wings’ or parapodia. When submerged, these wings are held high. It is said that they can swim with their parapodia.
+Usually olive or yellowish greenish with tiny white spots forming patterns with fine line horizontal lines along the body.</p>
+
+<p><strong>Sometimes confused with</strong>
+the
+<a href="spotted.md">Spotted sea hare</a>
+which has a pattern of tiny white spots that form patches and doesn’t have fine horizontal lines.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/050608cftg7393m3.jpg" alt="" />
+        <div class="caption">
+        Changi, Jun 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/050608cftg7393m3a.jpg" alt="" />
+        <div class="caption">
+        Tiny rhinophores near one another, held between parapodia.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/070614chgd2152m3.jpg" alt="" />
+        <div class="caption">
+        Thin internal shell. Changi, Jun 07
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Baby sea hares:</strong>
+It lays long tangles of pink egg strings among seaweeds and seagrasses.</p>
+
+<p><strong>What does it eat?</strong>
+It is believed to feed on brown seaweeds, but in our observations, these animals seem more abundant during blooms of the green
+<a href="../../../plants/seaweed/chlorophyta/ulva.md">sea lettuce seaweed</a>
+(
+<em>Ulva</em>
+sp.).</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/050622cftd4094m3.jpg" alt="" />
+        <div class="caption">
+        Laying egg string Changi, Jun 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/120410chgd9081m3.jpg" alt="" />
+        <div class="caption">
+        Half buried in soft sediment. Changi, Apr 12
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/111124cyrs00191m3.jpg" alt="" />
+        <div class="caption">
+        Swimming sea hare! Cyrene Reef, Nov 11
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Geographic sea hares on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470@N00&amp;sort=date-posted-desc&amp;view_all=1&amp;text=Syphonota geographica">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Syphonota%2520geographica/map?&amp;fLat=1.2626&amp;fLon=103.8661&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/160510ecpbsyj2.jpg" alt="" />
+        <div class="caption">
+        East Coast Park, May 16 Photo shared by Ywee Chieh on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/150320tuslks2m3.JPG" alt="" />
+        <div class="caption">
+        Tuas, Mar 15 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/110830cyrnml1m3.JPG" alt="" />
+        <div class="caption">
+        Cyrene Reef, Aug 11 Photo shared by Neo Mei Lin on her blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/200627cyrlks2.jpg" alt="" />
+        <div class="caption">
+        Cyrene, Jun 20 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&amp;l=ur2&amp;o=1" alt="" />
+        <div class="caption">
+        Links Sea Slug Forum by Dr Bill Rudman: all about sea hares, nudibranchs and other sea slugs; including details Syphonota geographica including one from Changi and purple ink produced by sea hares The Slug Site: photo and fact sheet on the Branch of the Week Syphonota geographica References Tan Siong Kiat and Henrietta P. M. Woo, 2010 Preliminary Checklist of The Molluscs of Singapore (pdf), Raffles Museum of Biodiversity Research, National University of Singapore. Coleman, Neville. 2001. 1001 Nudibranchs: Catalogue of Indo-Pacific Sea Slugs . Neville Coleman's Underwater Geographic Pty Ltd, Australia.144pp. Humann, Paul and Ned Deloach. 2010. Reef Creature Identification: Tropical Pacific New World Publications. 497pp. Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996. Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates Sea Challengers. 314pp.
+        </div>
+    </div>
+    
+
+</div>
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://www.seaslugforum.net/welcome.htm">Sea
+Slug Forum</a> by Dr Bill Rudman: all about sea hares, nudibranchs
+and other sea slugs; including details <a href="http://www.seaslugforum.net/factsheet.cfm?base=syphgeog"><em>Syphonota
+geographica</em></a> including <a href="http://www.seaslugforum.net/find.cfm?id=9109">one
+from Changi</a> and <a href="http://www.seaslugforum.net/factsheet.cfm?base=seahatac">purple
+ink</a> produced by sea hares</li>
+  <li><a href="http://slugsite.us/">The
+Slug Site:</a> photo and fact sheet on the Branch of the Week
+ <em><a href="http://slugsite.us/bow/nudwk425.htm">Syphonota geographica</a></em></li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Tan Siong
+Kiat and Henrietta P. M. Woo, 2010 <em>Preliminary
+Checklist of The Molluscs of Singapore</em> (pdf), Raffles
+Museum of Biodiversity Research, National University of Singapore.</li>
+  <li>Coleman,
+Neville. 2001. <em>1001
+Nudibranchs: Catalogue of Indo-Pacific Sea Slugs</em>. Neville
+Coleman’s Underwater Geographic Pty Ltd, Australia.144pp.</li>
+  <li>Humann, Paul
+and Ned Deloach. 2010. <em>Reef
+Creature Identification: Tropical Pacific</em> New World Publications.
+497pp.</li>
+  <li>Gosliner,
+Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
+Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

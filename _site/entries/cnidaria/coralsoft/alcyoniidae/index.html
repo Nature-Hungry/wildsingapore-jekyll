@@ -1,0 +1,663 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Leathery soft corals  | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="leathery, alcyoniidae,  alcyonacea, soft, coral, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="../../../Templates/fornatureguides.gif" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Cnidaria">Cnidaria</a>
+                    > 
+                    <a href="/Cnidaria/Anthozoa">Anthozoa</a>
+                    > 
+                    <a href="/Cnidaria/Anthozoa/Malacalcyonacea">Malacalcyonacea</a>
+                    >
+                    <a href="/Cnidaria/Anthozoa/Malacalcyonacea/"></a>
+                    >
+                    <a href="/Cnidaria/Anthozoa/Malacalcyonacea//Alcyoniidae">Alcyoniidae</a>
+                </p>
+                <h1>Leathery soft corals </h1>
+                
+                    <p class="scientific-name">Family Alcyoniidae</p>
+                
+
+                <p><em>Updated Dec 2024</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about them ... They are animals! Although they look like plants. Don't step on them! They don't produce a hard skeleton. Each soft coral is a colony of countless tiny polyps.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        They are animals! Although they look like plants. Don't step on them! They don't produce a hard skeleton. Each soft coral is a colony of countless tiny polyps.
+        </div>
+    </div>
+    
+
+</div>
+
+<h2 id="where-seen">Where seen?</h2>
+<p>Leathery soft corals are commonly seen on our Southern shores and in some places can grow quite large! Exposed out of water at low tide, some look like fried eggs, others like a pile of discarded rubber gloves, and yet others like some bizarre leathery giant carnation or a big floppy pinwheel.</p>
+
+<p><strong>What are leathery soft corals?</strong>
+Leathery corals are
+<a href="coralsoft.md">soft corals</a>
+that belong to the Family Alcyoniidae which has about 15 genera, the more commonly encountered ones on our shores being:
+<em>Sinularia, Sacrophyton</em>
+and
+<em>Lobophytum</em>
+. Together with the genera
+<em>Alcyonium</em>
+and
+<em>Cladiella</em>
+, these five genera make up the vast majority of octocorals found throughout the world.</p>
+
+<h2 id="features">Features</h2>
+
+<hr />
+<p>A colony is made up of tiny polyps embedded in a common leathery tissue. Members of the family may have two kinds of polyps.</p>
+
+<p>Autozooids have long stalks with eight tiny branched tentacles and emerge from the common leathery tissue.</p>
+
+<p>Siphonozooids don’t emerge from the common tissue and function as water pumps for the colony. They appear as tiny holes or bumps in between the taller autozooids.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/050312hntg3315m3.jpg" alt="" />
+        <div class="caption">
+        Leathery soft corals can be quite large! Pulau Hantu, Mar 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/070518tkrg9329m3.jpg" alt="" />
+        <div class="caption">
+        Some colonies are mushroom-shaped with a stem beneath a broad top. Pulau Tekukor, May 07
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/090412hntd9624m3.jpg" alt="" />
+        <div class="caption">
+        Different kinds of polyps: Smaller siphonozooids with larger, taller autozooids. Pulau Hantu, Apr 09
+        </div>
+    </div>
+    
+
+</div>
+<p>When the colony is out of water, the autozooid polyps are usually retracted completely into the common tissue so that the entire colony appears smooth and leathery. The common tissue might also contract, but the entire colony cannot disappear into a crevice like some large anemones do.</p>
+
+<p>The entire colony is quite stiff and hard, and is not soft and flexible. Do not bend leathery corals or handle them roughly. Some may tear, while others contain dangerous toxins. Like most other soft corals, tiny spikes of calcium carbonate, called sclerites, are embedded in the common tissue. These sclerites are used to identify these leathery soft coral species.</p>
+
+<p>Many species of leathery soft coral periodically shed their upper layer as a mucus layer or dead waxy layer to get rid of sediments, algae and other unwanted substances.</p>
+
+<p>Sometimes, very thin long ‘strings’ are seen emerging from leathery soft corals. These are likely the feeding tentacles of
+<a href="../../ctenophora/coeloplana.md">ctenophores</a>
+, tiny animals that closely resemble the soft coral surface.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/050807sjig0631m3.jpg" alt="" />
+        <div class="caption">
+        Colony can contract when out of water. St. John's Island, Aug 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/070304hntd8771m3a.jpg" alt="" />
+        <div class="caption">
+        Shedding a layer of mucus. Pulau Hantu, Mar 07
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/111128sntd4108m3a.jpg" alt="" />
+        <div class="caption">
+        Stinging tentacles produced by ctenophores living on the leathery soft coral. Sentosa, Nov 11
+        </div>
+    </div>
+    
+
+</div>
+<p><strong><em>Sinularia</em></strong>
+<strong>sp.</strong>
+have only autozooids and do not have siphonozooids. A colony can take on a wide variety of shapes and even the same species may have different forms. The centre part of the colony can be tough and hard due to a dense mass of large sclerites.</p>
+
+<p><strong><em>Sacrophyton</em></strong>
+<strong>sp.</strong>
+have both autozooids with long stalks and siphonozooids. A colony is usually mushroom-shaped with a stem or stalk attached to a surface or buried in the sand. A colony usually looks like a mushroom; with a broad, flared smooth mushroom shaped top on with a ‘stem’ or base that is attached to a hard surface or buried in the sand. The flat top may be funnel-shaped, or extensively folded so the colony appears flower- or cabbage-like, but rarely elongated into lobes. A colony can reach 1m in diameter. Colonies have separate genders. Male colonies are smaller, while female ones are bigger. They reach maturity in 8-10 years. Some species of
+<em>Sacrophyton</em>
+can slowly creep quite a distance over time.</p>
+
+<p><strong><em>Lobophytum</em></strong>
+<strong>sp.</strong>
+have both autozooids and siphonozooids, but the autozooids have short stalks and often appear as mere tufts of tentacles. The siphonozooids do not emerge from the body membrance and are usually inconspicuous. A colony is encrusting, that is, the upper surface is the same diameter as the colony base and they do not have a stem or stalk. It may be dish- or bowl-shaped. The colony is thick and generally has lobes, ridges or rib-like structures.
+<strong>Sometimes mistaken for</strong>
+<a href="../actiniaria/actiniaria.md">sea anemones</a>
+. When submerged, with the polyps expanded, the colony can appear rather ‘furry’ and may be mistaken for anemones. Here’s more on how to tell apart
+<a href="../actiniaria/cfbiglong.md">large sea anemones with long tentacles</a>
+and
+<a href="../cflargecnidarians.md">large ‘hairy’ cnidarians</a>
+.</p>
+
+<p><strong>What do they eat?</strong>
+Leathery corals harbour microscopic, single-celled symbiotic algae (zooxanthellae) within their bodies. The algae undergo photosynthesis to produce food from sunlight. The food produced is shared with the host, which in return provides the algae with shelter and minerals.</p>
+
+<p><strong>Human uses:</strong>
+Leathery soft corals are considered toxic in the live aquarium trade. They produce substances that inhibit or stunt the growth of hard corals nearby.</p>
+
+<p><strong>Status and threats:</strong>
+None of our leathery soft corals are listed among the endangered animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors also have an impact on local populations.</p>
+
+<hr />
+
+<p><strong>Some Leathery soft corals on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/050807sjig0617m3.jpg" alt="" />
+        <div class="caption">
+        Omelette leathery soft coral
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/110802smkd8149m3a.jpg" alt="" />
+        <div class="caption">
+        Autozooids on long body column.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/110423tpld9944m3.jpg" alt="" />
+        <div class="caption">
+        Has siphonozooids.
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/070204hntd7874m3a.jpg" alt="" />
+        <div class="caption">
+        Pimply leathery soft coral
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/110423tpld9947m3a.jpg" alt="" />
+        <div class="caption">
+        Autozooids on short body column.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/100812tpld0310m3a.jpg" alt="" />
+        <div class="caption">
+        Has siphonozooids.
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/050808sntg0864m3.jpg" alt="" />
+        <div class="caption">
+        Pinwheel leathery soft coral
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/050808sntg0866m3e.jpg" alt="" />
+        <div class="caption">
+        Autozooids on short body column.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/100528tkkd3835m3.jpg" alt="" />
+        <div class="caption">
+        Has siphonozooids.
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/050808sntg0876m3.jpg" alt="" />
+        <div class="caption">
+        Smooth leathery soft coral
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/080920hntd0749m3c.jpg" alt="" />
+        <div class="caption">
+        Autozooids on short body column.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/110802smkd8309m3a.jpg" alt="" />
+        <div class="caption">
+        No siphonozooids.
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/060402ulrd0976m3.jpg" alt="" />
+        <div class="caption">
+        Black-and-white leathery soft coral
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/111127sisd3862m3a.jpg" alt="" />
+        <div class="caption">
+        Autozooids on short body column.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/100130brkd8673m3b.jpg" alt="" />
+        <div class="caption">
+        No siphonozooids.
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/110717tbd7097m3.jpg" alt="" />
+        <div class="caption">
+        Starry leathery soft coral
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/110717tbd7099m3.jpg" alt="" />
+        <div class="caption">
+        Autozooids very short body column, star-like.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/100130brkd8625m3.jpg" alt="" />
+        <div class="caption">
+        No siphonozooids. Spindle-shaped structures in common tissue.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/031223tused0033m3g.jpg" alt="" />
+        <div class="caption">
+        Starry leathery soft coral
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/031223tused0034m3.jpg" alt="" />
+        <div class="caption">
+        Autozooids very short body column, star-like.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/031223tused0034m3b.jpg" alt="" />
+        <div class="caption">
+        No siphonozooids. Prickly surface due to tiny spicules.
+        </div>
+    </div>
+    
+
+</div>
+
+<p><em>*Species are difficult to positively identify without close examination.</em>
+<em>On this website, they are grouped by external features for convenience of display</em>
+<em>.</em></p>
+
+<hr />
+
+<hr />
+
+<p><strong>**Order Alcyonacea recorded for Singapore</strong></p>
+
+<p><a href="../cnidariaindex.md">text index</a>
+and
+<a href="../cnidariafi2.md">photo index</a>
+of soft corals seen on Singapore shores**
+from Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.</p>
+
+<p><strong>Family Alcyoniidae</strong></p>
+
+<p>*
+<a href="letblackwhite.md"><em>Cladiella</em>
+sp.</a>
+(Black-and-white leathery soft coral) with species recorded for Singapore
+**
+*
+<a href="letpimply.md"><em>Lobophytum</em>
+sp.</a>
+(Pimply leathery soft coral) with species recorded for Singapore
+<em>Studeriotes spinosa</em>
+<a href="letomelette.md"><em>Sarcophyton</em>
+sp.</a>
+(Omelette leathery soft coral) with species recorded for Singapore.</p>
+
+<p><a href="letsmooth.md"><em>Sinularia</em>
+sp.</a>
+(Smooth leathery soft coral) with species recorded for Singapore
+**</p>
+
+<hr />
+
+<p>th</p>
+
+<p>edition. McGraw-Hill Book Co., Singapore. 578 pp.</p>
+<ul>
+  <li>Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+. National Council on the Environment. 163pp.</li>
+  <li>Ng, P. K. L. &amp; Y. C. Wee, 1994.
+<em>The Singapore Red Data Book: Threatened Plants and Animals of Singapore</em>
+. The Nature Society (Singapore), Singapore. 343 pp.</li>
+</ul>
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/118.md">Soft corals (Order Alcyonacea)</a>
+Tan, Leo W. H. &amp; Ng, Peter K. L., 1988.
+<em><a href="http://mangrove.nus.edu.sg/pub/seashore/">A Guide to Seashore Life</a></em>
+. The Singapore Science Centre, Singapore. 160 pp.</li>
+  <li>
+    <dl>
+      <dt><a href="http://species-identification.org/species.php?species_group=corals&amp;id=130&amp;menuentry=groepen">http://species-identification.org/species.php?species_group=corals&amp;id=130&amp;menuentry=groepen</a></dt>
+      <dt><a href="http://species-identification.org/species.php?species_group=corals&amp;id=137&amp;menuentry=groepen">Family Alcyoniidae</a></dt>
+      <dt>on on</dt>
+      <dt><a href="http://species-identification.org/species.php?species_group=corals&amp;menuentry=inleiding">Reef Corals of the Indo-Malayan Seas</a></dt>
+      <dt>on the</dt>
+      <dt><a href="http://species-identification.org/index.php">Marine Species Identification Portal</a></dt>
+      <dd>Technical fact sheet and photos.</dd>
+    </dl>
+  </li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024.
+<em>The Singapore Red Data Book: Threatened plants and animals of Singapore</em>
+. 3rd edition. National Parks Board. 663 pp.</li>
+  <li>Y. Benayahu and L. P. van Ofwegen. Aug 2011.
+<em>New species of the genus Sinularia (Octocorallia: Alcyonacea) from Singapore, with notes on the occurrence of other species of the genus</em>
+. The Raffles Bulletin of Zoology 2011 59(2). Pp. 117-125.</li>
+  <li>Y. Benayahu and L. M. Chou, 28 Feb 2010.
+<em>On some Octocorallia (Cnidaria: Anthozoa: Alcyonacea) from Singapore, with a description of a new Cladiella species</em>
+. The Raffles Bulletin of Zoology 58(1) Pp. 1-13.</li>
+  <li>Erhardt, Harry and Daniel Knop. 2005.
+<em>Corals: Indo-Pacific Field Guide</em>
+IKAN-Unterwasserachiv, Frankfurt. 305 pp.</li>
+  <li>Borneman, Eric H. 2001.
+<em>Aquarium Corals: Selection, Husbandry and Natural History</em>
+T.F. H Publications. 464 pp</li>
+  <li>Fabricius, Katharina and Philip Alderslade, 2001.
+<em>Soft Corals and Sea Fans</em>
+. Australian Institute of Marine Science and the Museum and Art Gallery of the Northern Territoriy. 264 pp</li>
+  <li>Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.
+<em>Invertebrate Zoology</em>
+Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963</li>
+  <li>Pechenik, Jan A., 2005.
+<em>Biology of the Invertebrates</em>
+. 5</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

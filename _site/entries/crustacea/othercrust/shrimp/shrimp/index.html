@@ -1,0 +1,561 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Prawns and shrimps | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="prawn, shrimp, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="../../../../Templates/fornatureguides.gif" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Arthropoda">Arthropoda</a>
+                    > 
+                    <a href="/Arthropoda/Malacostraca">Malacostraca</a>
+                    > 
+                    <a href="/Arthropoda/Malacostraca/Decapoda">Decapoda</a>
+                    >
+                    <a href="/Arthropoda/Malacostraca/Decapoda/Dendrobranchiata">Dendrobranchiata</a>
+                    >
+                    <a href="/Arthropoda/Malacostraca/Decapoda/Dendrobranchiata/Penaeidae">Penaeidae</a>
+                </p>
+                <h1>Prawns and shrimps</h1>
+                
+                    <p class="scientific-name">Family Penaeidae</p>
+                
+
+                <p><em>Updated Apr 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about them ... There is no scientific difference between shrimps and prawns. Many are well camouflaged, others are buried in the sand, yet others transparent. Some live on other animals such as sea anemones and hard corals.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        There is no scientific difference between shrimps and prawns. Many are well camouflaged, others are buried in the sand, yet others transparent. Some live on other animals such as sea anemones and hard corals.
+        </div>
+    </div>
+    
+
+</div>
+
+<h2 id="where-seen">Where seen?</h2>
+<p>Among our favourite seafood, prawns and shrimps come in various sizes and colours. Close observation is needed to appreciate their delicate patterns and colours, and amusing behaviour. Prawns and shrimps are common on almost every shore. However, they are difficult to spot as they are often small, and hide in burrows or just beneath the sand. Even those in plain sight disappear from view as many are nearly transparent. They are adapted for bottom dwelling.</p>
+
+<p><strong>What are prawns and shrimps?</strong>
+Prawns and shrimps are
+<a href="../../crustacea.md">crustaceans</a>
+that belong to various groups in the larger Order
+<a href="../../decapoda.md">Decapoda</a>
+. There are no clear scientific differences between prawns and shrimps. Generally, smaller ones are called shrimps while larger ones prawns.</p>
+
+<h2 id="features">Features</h2>
+
+<p>Usually less than 5cm long. Unlike crabs which have stiff shells to protect their abdomen, a shrimp has a thin, flexible shell over a long abdomen that ends in a broad fan-like tail. A quick contraction of the muscular abdomens propels the shrimp backwards. To swim slowly, the shrimp paddles with the small swimmeretes (pleopods) under the abdomen.</p>
+
+<p>Many shrimps are transparent, blending in wherever they are. Some may be red, a colour that is hard to distinguish in the dark or in deeper water.</p>
+
+<p><strong>What do they eat?</strong>
+Larger shrimps are mostly scavengers or eat small plants and animals. Smaller ones feed on plankton and algae.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/070615sntrg0335m3.jpg" alt="" />
+        <div class="caption">
+        The Blue-tail prawn like other shrimps contracts its abdomen to swim backwards.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/040919sntd7078m3.jpg" alt="" />
+        <div class="caption">
+        Red-nose shrimps are also found among seaweeds, and living hard and soft corals.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/echinodermata/holothuroidea/colochirus/050821bbg1857m3b.jpg" alt="" />
+        <div class="caption">
+        A tiny transparent commensal shrimp , several seen on a Thorny sea cucumber . Beting Bronok, Aug 05
+        </div>
+    </div>
+    
+
+</div>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/meta1.gif" alt="" />
+        <div class="caption">
+        How do they mate? Shrimps have separate genders. To mate, a male inserts his sperm packet into a special receptacle in the female. Fertilisation, however, is external. The female releases the sperms from the packet together with her eggs. A female prawn produces a huge number of eggs, as much as one million in one spawning! Some may carry their eggs under their tails. Prawn babies: Like many marine creatures, shrimps undergo metamorphosis. That is, they change their shape as they develop through their life cycle. Most adult shrimps migrate to deeper waters to breed and release their eggs. Eggs usually hatch quickly, within a day or so. After hatching from the egg, the larvae look nothing like the adults! These larvae drift with the plankton, changing shape as they develop further. Eventually, they look more shrimp-like and migrate back to shallow waters. Here they develop into mature adults before starting the cycle all over again. larvae juvenile adult
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/meta1.gif" alt="" />
+        <div class="caption">
+        larvae juvenile adult
+        </div>
+    </div>
+    
+
+</div>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphballsoft/110518bbd1955m3.jpg" alt="" />
+        <div class="caption">
+        White snapping shrimps live in Ball flowery soft corals. Beting Bronok, May 11
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/vertebrates/fish/gobiidae/leptocephalus/080830kusd9939m3.jpg" alt="" />
+        <div class="caption">
+        A Many-band snapping shrimp sharing a burrow with a Pink-speckled shrimp-goby . Kusu Island, Aug 08
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg" alt="" />
+        <div class="caption">
+        A pair of Five-spot anemone shrimps is commonly found in our carpet anemones.
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Role in the habitat:</strong>
+Shrimps are numerous and eaten by a wide variety of larger creatures. In coral reefs, some species of shrimps act as cleaners, picking parasites and dead skin off fishes. The fish ‘clients’ allow the cleaner shrimps to do their job without eating them. These cleaners are often brightly marked. Some shrimps also live with other sea creatures.
+<a href="palaemonidae.md">Anemone shrimps</a>
+, for example, frolick happily among the tentacles of a sea anemone that would kill and eat other creatures.</p>
+
+<p><strong>Human uses:</strong>
+Shrimps and prawns are relished food by people everywhere. In Asia, shrimps are eaten in many ways. Besides the usual dishes made from whole shrimps, they may also be dried, or made into paste (‘belachan’) or mixtures (‘cincaluk’). Tiny shrimps are used as condiments, and shrimps flavour crackers, balls and other delicacies. While traditional farming and harvesting methods are sustainable, large-scale commercial prawn farms and prawn trawling are more destructive and unsustainable.
+<a href="../../../concepts/prawnfarms.md">More about prawn farming</a>
+and trawling.
+<strong>**
+**Status and threats:</strong>
+Some of our shrimps and prawns are listed among the threatened animals of Singapore. However, like other creatures of the intertidal zone, they are all affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection can also have an impact on local populations.</p>
+
+<hr />
+
+<p><strong>Some Prawns and Shrimps on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/050721cjg9666m3.jpg" alt="" />
+        <div class="caption">
+        Penaeid prawn
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/050621skdg7874m3.jpg" alt="" />
+        <div class="caption">
+        Snapping shrimps
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/050621skdg8007m3.jpg" alt="" />
+        <div class="caption">
+        Commensal shrimps
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/redband/060130hntg4350m3.jpg" alt="" />
+        <div class="caption">
+        Red-banded shrimp
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/saron/090818tmd9180m3.jpg" alt="" />
+        <div class="caption">
+        Saron shrimp
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/humped/111002sisd2124m3.jpg" alt="" />
+        <div class="caption">
+        Humpbacked shrimp
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Marine shrimps and prawns recorded for Singapore</strong></p>
+
+<p>from Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+.</p>
+
+<p>in red are those listed among the threatened animals of Singapore
+from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+<em>The Singapore Red Data Book: Threatened plants and animals of Singapore</em>
+.</p>
+
+<p><em>from Tan, Leo W. H. &amp; Ng, Peter K. L., 1988,
+*A Guide to Seashore Life</em></p>
+
+<p><em>*from Lim, S., P. Ng, L. Tan, &amp; W. Y. Chin, 1994.
+*Rhythm of the Sea: The Life and Times of Labrador Beach</em>
+.</p>
+
+<p>+from our observation.</p>
+
+<p>^from
+<a href="http://www.marinespecies.org/">WORMS</a></p>
+
+<p><strong>Prawns and shrimps seen awaiting identification</strong>
+<em>Species are difficult to positively identify without close examination of small features. On this website, they are grouped by external features for convenience of display.</em></p>
+
+<p><a href="redband.md">Red-banded shrimps</a></p>
+
+<p><a href="humped.md">Humpbacked shrimps</a></p>
+
+<p><strong><a href="penaeidae.md">Family Penaeidae</a>
+(penaeid prawns)</strong>
+with list of species recorded for Singapore</p>
+
+<p><strong>Infraorder Caridea</strong></p>
+
+<p><strong><a href="alpheidae.md">Family Alpheidae</a>
+(snapping shrimps)</strong>
+with list of species recorded for Singapore</p>
+
+<hr />
+
+<p><strong>Family Atyidae (freshwater shrimps)</strong>
+<em>Most members of this family are freshwater shrimps</em></p>
+
+<p>*Caridina gracilirostris</p>
+
+<p>Caridina peninsularis</p>
+
+<p>Caridina propinqua*
+(Mangrove hairy-handed prawn)
+*Caridina tonkinensis</p>
+
+<p>Caridina weberi sumtrensis</p>
+
+<p>Caridina temasek*
+(Temasek shrimp) (EN: Endangered)</p>
+
+<hr />
+
+<p><strong><a href="hippolytidae.md">Family Hippolytidae</a>
+(humpbacked shrimps, cleaner shrimps, saron shrimps)</strong>
+with list of species recorded for Singapore</p>
+
+<hr />
+
+<p><strong><a href="palaemonidae.md">Family Palaemonidae</a>
+(glass shrimps and commensal shrimps)</strong>
+with list of species recorded for Singapore</p>
+
+<hr />
+
+<p><strong>Family Pandalidae (marine carid shrimps)</strong></p>
+
+<p>*Chorotocella gracilis</p>
+
+<p>Heterocarpoides levicarina=^Procletes levicarina*</p>
+
+<hr />
+
+<p><strong>*Family Sergestidae</strong></p>
+
+<p><em>*Acetes sp.</em>
+(Belachan shrimp)</p>
+
+<p><em>Acetes japonicus</em></p>
+
+<hr />
+
+<p><strong>Family Thalassocarididae</strong></p>
+
+<p><em>Chlorotocoides spinicauda</em></p>
+
+<p><strong>Infraorder Stenopodidea</strong></p>
+
+<p><strong>Family Stenopodidae (boxer shrimps)</strong></p>
+
+<p><em>Stenopus hispidus</em></p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/179.md">Belachan Shrimp (Family Sergestidae)</a>
+,
+<a href="http://mangrove.nus.edu.sg/pub/seashore/text/180.md">Glass Shrimp (Family Palaemonidae)</a>
+,
+<a href="http://mangrove.nus.edu.sg/pub/seashore/text/182.md">prawns</a>
+Tan, Leo W. H. &amp; Ng, Peter K. L., 1988,
+<em><a href="http://mangrove.nus.edu.sg/pub/seashore/">A Guide to Seashore Life</a></em>
+. The Singapore Science Centre, Singapore. 160 pp.</li>
+  <li><a href="http://mangrove.nus.edu.sg/guidebooks/text/2038.md">Marine prawns (
+<em>Penaeus and Metapenaeus</em>
+spp.)</a>
+,
+<a href="http://mangrove.nus.edu.sg/guidebooks/text/2037.md">Estuarine prawn (
+<em>Macrobrachium equidens)</em></a>
+,
+<a href="http://mangrove.nus.edu.sg/guidebooks/text/2039.md">Mangrove hairy-handed prawn (
+<em>Caridina propinqua</em>
+)</a>
+Ng, Peter K. L. &amp; N. Sivasothi, 1999.
+<em><a href="http://mangrove.nus.edu.sg/guidebooks/">A Guide to the Mangroves of Singapore II (Animal Diversity)</a></em>
+. Singapore Science Centre. 168 pp.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+. National Council on the Environment. 163pp.</li>
+  <li>Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+<em>The Singapore Red Data Book: Threatened plants and animals of Singapore</em>
+. Nature Society (Singapore). 285 pp.</li>
+  <li>Ong, Jin Eong &amp; Gong, Wooi Khoon (eds.), 2001. The Encyclopedia of Malaysia (Vol. 6): The Seas Didier Millet, Malaysia. 144 pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

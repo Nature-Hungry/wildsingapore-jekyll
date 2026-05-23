@@ -1,0 +1,545 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Cardinalfishes | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="cardinalfish, cardinal, fish, apogonidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/031125hntad0022m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Chordata">Chordata</a>
+                    > 
+                    <a href="/Chordata/Actinopterygii">Actinopterygii</a>
+                    > 
+                    <a href="/Chordata/Actinopterygii/Gobiiformes">Gobiiformes</a>
+                    >
+                    <a href="/Chordata/Actinopterygii/Gobiiformes/Apogonoidei">Apogonoidei</a>
+                    >
+                    <a href="/Chordata/Actinopterygii/Gobiiformes/Apogonoidei/Apogonidae">Apogonidae</a>
+                </p>
+                <h1>Cardinalfishes</h1>
+                
+                    <p class="scientific-name">Family Apogonidae</p>
+                
+
+                <p><em>Updated Sep 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about them ... They have large eyes, mouth and scales. Some are colourful. The male broods the eggs in his mouth. Don't touch them, some can give a nasty bite!
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        They have large eyes, mouth and scales. Some are colourful. The male broods the eggs in his mouth. Don't touch them, some can give a nasty bite!
+        </div>
+    </div>
+    
+
+</div>
+
+<h2 id="where-seen">Where seen?</h2>
+<p>These big-eyed fishes are commonly seen on many of our shores. They are small and often well hidden in pools. They swim about more actively at night than during the day.</p>
+
+<p><strong>What are cardinalfishes?</strong>
+Cardinalfishes belong to Family Apogonidae. According to
+<a href="http://www.fishbase.org/Summary/FamilySummary.cfm?ID=304">FishBase</a>
+, the family has 22 genera and 207 species, most below 10cm, seldom larger than 20cm. They are found in all the oceans including some freshwater species in tropical Pacific Islands. Most species are reef-dwellers.</p>
+
+<h2 id="features">Features</h2>
+
+<p>3-5cm. These small fishes have elongated bodies and large eyes, a large mouth and large scales. They have angular dorsal fins that are separated into two parts. Cardinalfish are often handsomely patterned in stripes or spots. Their common name comes from the red colour of many of the species, although they come in all colours from yellow to brown and blue. Often found in small groups, sheltering among the seagrasses or other hiding places during the day.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/031125hntad0022m3.jpg" alt="" />
+        <div class="caption">
+        Sometimes found in groups. Pulau Hantu, Nov 03
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/111029smkd3106m3b.jpg" alt="" />
+        <div class="caption">
+        Brooding eggs in the mouth. Pulau Semakau, Oct 11
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/111029smkd3110m3.jpg" alt="" />
+        <div class="caption">
+        Brooding young in the mouth. Pulau Semakau, Oct 11
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Cardinalfish babies:</strong>
+Cardinalfishes are mouth brooders. The fertilised egg mass is kept in the mouth until they hatch in several days’ time. Usually it is the male that undertakes this task, but in some species both the male and female do this.
+<strong>What do they eat?</strong>
+As a group they eat a wide variety from small fishes, crabs, prawns and other tiny animals including plankton. Most are more active at night.</p>
+
+<p><strong>Human uses:</strong>
+Some species of cardinalfish like the Five-lined Cardinalfish (
+<em>Cheilodipterus quinquelineatus</em>
+) and
+<a href="orbicularis.md">Orbicular cardinalfish</a>
+(
+<em>Sphaemaria orbicularis</em>
+) are popular in the live aquarium trade. Some are being successfuly bred in captivity.</p>
+
+<hr />
+
+<p><strong>Some Cardinalfishes on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/060130hntg4314m3.jpg" alt="" />
+        <div class="caption">
+        Chequered cardinalfish
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/candystripe/110506tmftd0831.jpg" alt="" />
+        <div class="caption">
+        Candystripe cardinalfish
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/candystripe/100528tkkd3753m3.jpg" alt="" />
+        <div class="caption">
+        Candystripe cardinalfish
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/orbicularis/040830hntd5831m3.jpg" alt="" />
+        <div class="caption">
+        Orbicular cardinalfish
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/melas/100810sngd9986m3.jpg" alt="" />
+        <div class="caption">
+        Black cardinalfish
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Family Apogonidae recorded for Singapore</strong>
+from Heok Hee Ng and Kelvin K. P. Lim. 2014. A preliminary checklist of the cardinalfishes (Actinopterygii: Gobiiformes: Apogonidae) of Singapore.</p>
+
+<p>+Other additions (Singapore Biodiversity Records, etc)</p>
+
+<p><strong>Family Apogonidae</strong></p>
+
+<p>*Apogon crassiceps</p>
+
+<p><a href="melas.md">Apogonichthyoides melas</a>*
+(Black cardinalfish)
+*Apogonichthyoides niger</p>
+
+<p>Apogonichthyoides timorensis</p>
+
+<p>Archamia bleekeri</p>
+
+<p>Cheilodipterus artus</p>
+
+<p>Cheilodipterus macrodon</p>
+
+<p>Cheilodipterus quinquelineatus</p>
+
+<p>Cheilodipterus singapurensis</p>
+
+<p>Fibramia amboinensis</p>
+
+<p>Fibramia lateralis</p>
+
+<p>+Fibramia thermalis*
+(Masked cardinalfish)
+<em>Fowleria variegata</em>
+(Variegated cardinalfish)
+*Jaydia lineata</p>
+
+<p>Jaydia truncata</p>
+
+<p>Lepidamia kalosoma</p>
+
+<p>Nectamia savayensis</p>
+
+<p>Nectamia similis</p>
+
+<p>Ostorhinchus cavitensis*
+(Cavite cardinalfish)
+*Ostorhinchus chrysopomus</p>
+
+<p>Ostorhinchus compressus</p>
+
+<p>+Ostorhinchus cookii*
+(Cook’s cardinalfish)
+<em><a href="candystripe.md">Ostorhinchus endekataenia</a></em>
+(Candystripe cardinalfish)
+*Ostorhinchus fasciatus</p>
+
+<p>+Ostorhinchus fleurieu</p>
+
+<p><a href="margaritophorus.md">Ostorhinchus margaritophorus</a>*
+(Chequered cardinalfish)
+*+Ostorhinchus nanus</p>
+
+<p>Ostorhinchus novemfasciatus</p>
+
+<p>Ostorhinchus pleuron</p>
+
+<p>Ostorhinchus urostigmus</p>
+
+<p>+Ostorhinchus wassinki*
+(Wassink’s cardinalfish)
+*Pristicon rhodopterus</p>
+
+<p>Pristicon trimaculatus</p>
+
+<p>Pseudamia amblyuropterus</p>
+
+<p>Siphamia tubifer</p>
+
+<p>Sphaeramia nematoptera*
+(Pajama cardinalfish)
+<em><a href="orbicularis.md">Sphaeramia orbicularis</a></em>
+(Orbicular cardinalfish)</p>
+
+<p><em>Taeniamia fucata</em>
+(Orange-lined cardinalfish)</p>
+
+<p>+
+<em>Taeniamia macroptera</em>
+(Duskytail cardinalfish)
+*Yarica hyalosoma</p>
+
+<p>Zoramia leptacantha*</p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li>Lim, Kelvin K. P. &amp; Jeffrey K. Y. Low, 1998.
+<em><a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/">A Guide to the Common Marine Fishes of Singapore</a></em>
+. Singapore Science Centre. 163 pp.</li>
+  <li>Ng, Peter K. L. &amp; N. Sivasothi, 1999.
+<em><a href="http://mangrove.nus.edu.sg/guidebooks/">A Guide to the Mangroves of Singapore</a>
+II (Animal Diversity)</em>
+. Singapore Science Centre. 168 pp.</li>
+  <li><a href="https://singapore.biodiversity.online/taxon/A-Vert-Fish-Perciformes-Apogonidae">Apogonidae (Cardinalfishes)</a>
+on The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.</li>
+  <li><a href="http://ikanfish.wordpress.com/cardinalfishes/">Cardinalfishes</a>
+on Reef Fishes of Singapore by Jeffrey Low.</li>
+  <li>
+    <dl>
+      <dt><a href="http://www.fishbase.org/Summary/FamilySummary.cfm?ID=304">Family Apogonidae</a></dt>
+      <dt>from</dt>
+      <dt><a href="http://www.fishbase.org/">FishBase</a></dt>
+      <dd>Technical fact sheet on the family, including fact sheets on individual species.</dd>
+    </dl>
+  </li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Daisuke Taira. 30 November 2020.
+<em>Tiny cardinalfish, Ostorhinchus nanus, off Kusu Island</em>
+. Singapore Biodiversity Records 2020: 207-208. The National University of Singapore.</li>
+  <li>Tan Heok Hui &amp; Kelvin K. P. Lim. 27 March 2020.
+<em>New record of the Cook’s cardinalfish (Ostorhinchus cookii) in Singapore</em>
+. Singapore Biodiversity Records 2020: 39 ISSN 2345-7597</li>
+  <li>Daisuke Taira.
+<em>A recent record of the masked cardinalfish in Singapore</em>
+. 31 May 2018. Singapore Biodiversity Records 2018: 46-47 ISSN 2345-7597. National University of Singapore</li>
+  <li>Marcus F. C. Ng.
+<em>A variegated cardinalfish at Sisters Islands</em>
+. 31 January 2018. Singapore Biodiversity Records 2018: 16 ISSN 2345-7597. National University of SingaporeJ</li>
+  <li>Jeffrey K. Y. Low &amp; Kelvin K. P. Lim. 27 May 2016.
+<em>New Singapore record of Wassink’s cardinalfish, Ostorhinchus wassinki</em>
+. Singapore Biodiversity Records 2016: 75</li>
+  <li>Jeffrey Low and Koh Kwan Siong. 31 March 2016.
+<em>Cavite cardinalfish from Pulau Hantu, Ostorhinchus cavitensis</em>
+. Singapore Biodiversity Records 2016: 54</li>
+  <li>Kelvin K. P. Lim, Koh Kwan Siong &amp; Heng Pei Yan. 29 January 2016.
+<em>Cardinalfishes of the genus Taeniamia off Pulau Hantu: Orange-lined cardinalfish, Taeniamia fucata; Duskytail cardinalfish, Taeniamia macroptera</em>
+. Singapore Biodiversity Records 2016: 18-19</li>
+  <li>Koh Kwan Siong &amp; Kelvin K. P. Lim. 8 May 2015.
+<em>New record of flower cardinalfish in Singapore</em>
+. Singapore Biodiversity Records 2015: 54.</li>
+  <li>Heok Hee Ng and Kelvin Kok Peng Lim. October 2014.
+<em>A preliminary checklist of the cardinalfishes (Actinopterygii: Gobiiformes: Apogonidae) of Singapore</em>
+. Check List 10(5):1061-1070 DOI: 10.15560/10.5.1061</li>
+  <li>Jeffrey K. Y. Low. 2013.
+<em>More noteworthy fishes observed in the Singapore Straits</em>
+. Nature in Singapore, 6: 31–37.</li>
+  <li>Heok Hee Ng and Kelvin K. P. Lim. 2014.
+<em>A preliminary checklist of the cardinalfishes (Actinopterygii: Gobiiformes: Apogonidae) of Singapore</em>
+. Check List 10(5): 1061–1070, 2014</li>
+  <li>Heng Pei Yan &amp; Kelvin K. P. Lim. 15 November 2013.
+<em>Some noteworthy reef fishes at Pulau Hantu</em>
+. Singapore Biodiversity Records 2013: 65-67: Wolf cardinalfish,
+<em>Cheilodipterus artus</em>
+; Cavite cardinalfish,
+<em>Ostorhinchus cavitensis</em>
+; Pajama cardinalfish,
+<em>Sphaeramia nematoptera</em>
+.</li>
+  <li>Chou, L. M., 1998.
+<em>A Guide to the Coral Reef Life of Singapore</em>
+. Singapore Science Centre. 128 pages.</li>
+  <li>Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+. National Council on the Environment. 163pp.</li>
+  <li>Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red Data Book: Threatened plants and animals of Singapore.</li>
+  <li>Allen, Gerry, 2000.
+<em>Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers</em>
+. Periplus Editions. 292 pp.</li>
+  <li>Kuiter, Rudie H. 2002.
+<em>Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers &amp; Fishermen</em>
+New Holland Publishers. 434pp.</li>
+  <li>Lieske, Ewald and Robert Myers. 2001.
+<em>Coral Reef Fishes of the World</em>
+Periplus Editions. 400pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

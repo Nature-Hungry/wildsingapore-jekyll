@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Indo-Pacific hump-backed dolphin | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="indopacific, indo, pacific, humpbacked, hump, back, dolphin, pink, sousa, chinensis, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/vertebrates/mammals/sousa/170823tsmkjt2.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Chordata">Chordata</a>
+                    > 
+                    <a href="/Chordata/Mammalia">Mammalia</a>
+                    > 
+                    <a href="/Chordata/Mammalia/Artiodactyla">Artiodactyla</a>
+                    >
+                    <a href="/Chordata/Mammalia/Artiodactyla/Whippomorpha">Whippomorpha</a>
+                    >
+                    <a href="/Chordata/Mammalia/Artiodactyla/Whippomorpha/Delphinidae">Delphinidae</a>
+                </p>
+                <h1>Indo-Pacific hump-backed dolphin</h1>
+                
+                    <p class="scientific-name">Sousa chinensis</p>
+                
+
+                <p><em>Updated Oct 2019</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>These marvellous creatures are still regularly sighted in the waters of our Southern Islands. According to Davison, these dolphins have been observed among our Southern Islands in the Singapore Straits, as well as near our northern shores in the Johor Straits. Globally, they are found in Africa, Asia and Australia, in seas, estuaries and river mouths. They have been seen in freshwater and upstream in large rivers.</p>
+
+<p>According to Lee and Ooi (June 2020), in discussing the dolphins seen off Jurong Island, “the occurrence of dolphins in such a highly urbanized marine environment could be due to fairly good water quality there as waterpollution has been cited as a major threat to this locally ‘endangered’ dolphin. It has been shown that the waters around the southern coast of Singapore Island, despite being more industrialised, are less polluted in terms of bacteria, chemical tracers and pathogenic vibrios compared to the Johor Strait along the northern coast. This may explain why most sightings of this dolphin species has been in the Singapore Strait and the</p>
+
+<p>eastern Johor Strait.”</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/mammals/sousa/170823tsmkjt2.jpg" alt="" />
+        <div class="caption">
+        St John's Island, Aug 17 Photos by Jonathan Tan on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/mammals/sousa/090610smknml1m3.jpg" alt="" />
+        <div class="caption">
+        Off Pulau Semakau, Jun 09 Photos by Karenne Tun shared on Neo Mei Lin's blog .
+        </div>
+    </div>
+    
+
+</div>
+<h2 id="features">Features</h2>
+
+<hr />
+<p>Head and body length 120-280cm, up to about 140kg. Long narrow jaws filled with teeth, broad tail flukes (45cm), with a dorsal fisn (15cm tall) and pectoral fins (30cm). Colours may be brown, grey, black above and paler beneath. Some may be whitish, speckled or freckled. They are sometimes also called Pink dolphins.</p>
+
+<p><strong>What does it eat?</strong>
+Feeds mainly on fish, as well as cephalopods (octopus, squid and cuttlefish).</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/mammals/sousa/090610smknml2m3.jpg" alt="" />
+        <div class="caption">
+        Off Pulau Semakau, Jun 09 Photos by Karenne Tun shared on Neo Mei Lin's blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/mammals/sousa/070521sisckt1m6.jpg" alt="" />
+        <div class="caption">
+        Off Sisters Islands, May 07 Photo shared by CK Tan on the habitatnews flickr
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Dolphin babies:</strong>
+Baby dolphins are about 100cm long at birth and suckle on their mother’s milk for about two years.</p>
+
+<p><strong>Status and threats:</strong>
+This dolphin is listed as ‘Endangered’ in the Red List of threatened animals of Singapore. Like many other marine mammals, these dolphins are threatened by drowning in fishing lines and fishing nets. They are also affected by pollution and loss of feeding habitats due to reclamation, coastal development and human activities on our coasts and seas.</p>
+
+<hr />
+
+<p><a href="sousa1.md">videoclips</a>
+of dolphins on Singapore shores</p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><em><a href="https://singapore.biodiversity.online/taxo4254/mainSpace/Sousa%20Chinensisl">Sousa chinensis</a></em> (Cetartiodactyla: Delphinidae) Indo-Pacific Humpbacked Dolphin by Yang Jia Qi, 2015, on taxo4254.</li>
+  <li><a href="http://wildshores.blogspot.sg/2015/04/support-acres-effort-for-wild-dolphinsl">Support ACRES effort for wild dolphins in Singapore</a> on the wild shores of singapore blog.</li>
+  <li><a href="http://wildshores.blogspot.com/2009/01/how-to-eat-live-sotong-if-you-have-nol">How
+to eat live sotong if you have no hands?</a> a dolphin hunting
+technique on the wild shores of singapore blog.</li>
+  <li><a href="http://wildsingaporenews.blogspot.com/search/label/dolphins">Latest
+media reports on dolphins</a> on the wildsingapore news blog.</li>
+  <li><a href="http://www.tmsi.nus.edu.sg/mmrl">Singapore
+Wild Marine Mammal Survey</a> (SWiMMS)</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Benjamin P. Y-H. Lee &amp; Michelle Ooi. 30 June 2020. <em>Indo-Pacific humpback dolphins near Jurong Island</em>. Singapore Biodiversity Records 2020: 84-85 ISSN 2345-7597</li>
+  <li>Teresa Stephanie Tay &amp; Rene Ong. 10 October 2014. <em>Indo-Pacific humpback dolphins off Lazarus Island, Sousa chinensis</em>. Singapore Biodiversity Records 2014: 275.</li>
+  <li>Marcus A. H. Chua and Kelvin K. P. Lim. 25 July 014. <em>Irrawaddy dolphin carcass at East Coast beach, Orcaella brevirostris</em>. Singapore Biodiversity Records 2014: 201-202.</li>
+  <li>Marcus A. H. Chua. 25 July 014. <em>Indo-Pacific humpback dolphin carcass at East Coast beach, Sousa chinensis</em>. Singapore Biodiversity Record 2014: 206</li>
+  <li>Teresa Stephanie Tay &amp; Rene Ong. 10 October 2014. <em>Indo-Pacific humpback dolphins off Lazarus Island, Sousa chinensis</em>. Singapore Biodiversity Records 2014: 275.</li>
+  <li>Davison,
+G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. <em>The Singapore
+Red Data Book: Threatened plants and animals of Singapore</em>.
+Nature Society (Singapore). 285 pp.</li>
+  <li>Nowak, Ronald
+M. 2003. <em>Walker’s
+Marine Mammals of the World</em>. The Johns Hopkins University
+Press. 263 pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

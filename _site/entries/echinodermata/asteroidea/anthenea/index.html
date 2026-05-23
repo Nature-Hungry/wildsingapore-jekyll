@@ -1,0 +1,544 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Cake sea star | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="cake, sea star, seastar, starfish, star, fish, anthenea, aspera, oreasteridae, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080703chgd6533m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Echinodermata">Echinodermata</a>
+                    > 
+                    <a href="/Echinodermata/Asteroidea">Asteroidea</a>
+                    > 
+                    <a href="/Echinodermata/Asteroidea/Valvatida">Valvatida</a>
+                    >
+                    <a href="/Echinodermata/Asteroidea/Valvatida/"></a>
+                    >
+                    <a href="/Echinodermata/Asteroidea/Valvatida//Oreasteridae">Oreasteridae</a>
+                </p>
+                <h1>Cake sea star</h1>
+                
+                    <p class="scientific-name">Anthenea aspera</p>
+                
+
+                <p><em>Updated Jul 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This large, flat sea star is often seen on our Northern shores. Smaller ones are usually seen in seagrass meadows while larger ones are usually seen on coral rubble, sometimes wedged under large rocks. It is usually seen alone and usually more active at night. According to Lane, these sea stars were previously only seen from samples dredged from the channel between Pulau Ubin and Pulau Tekong. One was seen in a dive off Pulau Semakau. They are considered rare in the Indo-Pacific (only known from North Australia, southern Japan, China, Indonesia and Singapore) and little is known about them. According to Marsh and Fromont, it is found on muddy sand in Australia.</p>
+
+<h2 id="features">Features</h2>
+
+<hr />
+<p>Diameter with arms 10-20cm. Stiff body, the upperside usually slightly convex. Ams are short with rounded tips. Large, neat marginal plates all around the edges. The upperside is covered with tiny pedicellariae (pincer-like structures). The underside is flat, usually with a pattern of bars that form chevrons around the arms, with large bivalved pedicellariae. The tube feet are short tipped with suckers.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080703chgd6533m3.jpg" alt="" />
+        <div class="caption">
+        Changi, Jul 08
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080703chgd6536m3a.jpg" alt="" />
+        <div class="caption">
+        Upperside covered with tiny pedicellariae.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080703chgd6533m3c.jpg" alt="" />
+        <div class="caption">
+        Large marginal plates on the sides.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080703chgd6535m3.jpg" alt="" />
+        <div class="caption">
+        Underside usually with barred pattern.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080703chgd6535m3c.jpg" alt="" />
+        <div class="caption">
+        Large bivalve pedicellarie on underside
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080703chgd6535m3a.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+
+</div>
+<p>Cake sea stars come in a wide variety of patterns and colours, from black, brown, red, orange, yellow to even green.
+<strong>Sometimes confused with</strong>
+the
+<a href="goniodiscaster.md">Biscuit sea star</a>
+(
+<em>Goniodiscaster scaber</em>
+). and the
+<a href="gymnanthenea.md">Spiny sea star</a>
+(
+<em>Gymnanthenea laevis</em>
+). Here’s more on
+<a href="cfbigstars.md">how to tell apart large sea stars</a>
+seen on our shores.</p>
+
+<p><strong>Status and threats:</strong>
+This star is listed as ‘Vulnerable’ in the Red List of threatened animals of Singapore.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/100712chgd8422m3.jpg" alt="" />
+        <div class="caption">
+        A young Cake sea star with slender arms. Changi, Jul 10
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/070816cjd5908m3.jpg" alt="" />
+        <div class="caption">
+        A small one with broad arms. Chek Jawa, Aug 07
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/090113prpd5226m3.jpg" alt="" />
+        <div class="caption">
+        A small one with broad arms. Pasir Ris Park, Jan 09
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080801chgd8617m3.jpg" alt="" />
+        <div class="caption">
+        Changi, Jul 08
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080409tusd0081m3.jpg" alt="" />
+        <div class="caption">
+        Tuas, Apr 08
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080720cjd7925m3.jpg" alt="" />
+        <div class="caption">
+        Chek Jawa, Jul 08
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Cake sea stars on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470@N00&amp;sort=date-posted-desc&amp;view_all=1&amp;text=Anthenea aspera">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Anthenea%2520aspera/map?&amp;fLat=1.2612&amp;fLon=103.8654&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/090808prplks2m3.jpg" alt="" />
+        <div class="caption">
+        Pasir Ris Park, Aug 09 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/200125prpAky1.jpg" alt="" />
+        <div class="caption">
+        Pasir Ris Park, Jan 20 Photo shared by Kelvin Yong on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/180811chglks5.jpg" alt="" />
+        <div class="caption">
+        Changi, Aug 18 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/251012chgmn9.jpg" alt="" />
+        <div class="caption">
+        Young one. Changi, Oct 25 Photo shared by Marcus Ng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/251012chgmn9a.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/250627bbvc8.jpg" alt="" />
+        <div class="caption">
+        Beting Bronok, Jun 25 Photo shared by Vincent Choo on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/250529cjmn1a.jpg" alt="" />
+        <div class="caption">
+        Young one Chek Jawa, May 25
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/250529cjmn1b.jpg" alt="" />
+        <div class="caption">
+        Photo shared byMarcus Ng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/091203ubnlks1m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Ubin, Dec 09 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/160210ecplks.JPG" alt="" />
+        <div class="caption">
+        East Coast Park, Feb 16 Photo shared by Loh Kok Sheng on flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/210529ecpblks1.jpg" alt="" />
+        <div class="caption">
+        East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080722cyrcck2m3.jpg" alt="" />
+        <div class="caption">
+        Cyrene Reef, Jul 08
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080722cyrcck1m3.jpg" alt="" />
+        <div class="caption">
+        Photo shared by Chim Chee Kong on his flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/100626cyrlks1m3.JPG" alt="" />
+        <div class="caption">
+        Cyrene Reef, Jun 10 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+
+</div>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://www.sealifebase.org/summary/Anthenea-aspera.html"><em>Anthenea aspera</em></a>
+on SeaLife Base: Technical fact sheet.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Loisette M. Marsh and Jane Fromont.
+<em>Field Guide to Shallow Water Seastars of Australia</em>
+. 2020. Western Australian Museum. 543pp.</li>
+  <li>Lane, David J.W. and Didier Vandenspiegel. 2003
+<em>. A Guide to Sea Stars and Other Echinoderms of Singapore</em>
+. Singapore Science Centre. 187pp.</li>
+  <li>Didier VandenSpiegel et al. 1998.
+<em>The Asteroid fauna (Echinodermata) of Singapore with a distribution table and illustrated identification to the species</em>
+. The Raffles Bulletin of Zoology 1998 46(2): 431-470.</li>
+  <li>Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+<em>The Singapore Red Data Book: Threatened plants and animals of Singapore</em>
+. Nature Society (Singapore). 285 pp.</li>
+  <li>Coleman, Neville. 2007.
+<em>Sea stars: Echinoderms of Asia/Indo-Pacific</em>
+. Neville Coleman’s Underwater Geographic Pty Ltd, Australia.136pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

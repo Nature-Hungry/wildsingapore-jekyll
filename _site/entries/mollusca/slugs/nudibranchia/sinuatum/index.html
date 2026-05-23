@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>'Jolly Green Giant' nudibranch  | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="miamira, ceratosoma, sinuatum, sinuata, nudibranch, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/050917smkg2515m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/"></a>
+                    > 
+                    <a href="//"></a>
+                    > 
+                    <a href="///"></a>
+                    >
+                    <a href="////"></a>
+                    >
+                    <a href="/////Chromodorididae">Chromodorididae</a>
+                </p>
+                <h1>'Jolly Green Giant' nudibranch </h1>
+                
+                    <p class="scientific-name">Miamira sinuatum</p>
+                
+
+                <p><em>Updated May 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This large chunky hard nudibranch is sometimes seen among coral rubble and reefs on our Southern islands. Usually several are seen at the same time, and then none for a while. It does look rather jolly and is large! It was previously known as
+<em>Ceratosoma sinuatum</em>
+.</p>
+
+<h2 id="features">Features</h2>
+
+<p>6-8cm long. The body is stiff, narrow with a short, broad tail. The front of the body generally pointed. The body edge has regular undulating lobes along the edge of the mantle from front to end. The lobes are armed with glands that secrete distasteful substances to discourage predators. There is a large horn-like lobe in front of the feathery gills. Colours usually green, with small yellow bumps, sometimes with tiny blue spots. The gills have tiny yellow spots.</p>
+
+<p>Like other members of the Family Chromodorididae, the Ceratosoma nudibranch absorbs the toxic chemicals in their sponge food and incorporate these chemicals into the mantle glands. According to Bill Rudman, most species of
+<em>Ceratosoma</em>
+have a long ‘horn’ that stick out and curves towards the head. This acts as a defensive lure attracting and sacrificed to potential predators. This ‘horn’ contains most of the distasteful chemicals stored from the sponges that they feed on.</p>
+
+<p><strong>What does it eat?</strong>
+It is eats
+<a href="../../../porifera/porifera.md">sponges</a>
+.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/050917smkg2515m3.jpg" alt="" />
+        <div class="caption">
+        Large lobe in front of gills. Pulau Semakau, Sep 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/060729sisg6964m3.jpg" alt="" />
+        <div class="caption">
+        Sisters Island, Jul 06
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/060729sisg6964m3a.jpg" alt="" />
+        <div class="caption">
+        Small rhinophores.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/090207smkd6350m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau, Feb 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/070318labg8192m3b.jpg" alt="" />
+        <div class="caption">
+        Feathery gills with yellow spots. Labrador, Mar 07
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/100519tsmc4196m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Semakau, May 10
+        </div>
+    </div>
+    
+
+</div>
+
+<hr />
+
+<p><strong>‘Jolly Green Giant’ nudibranchs on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?q=Miamira+sinuatum&amp;w=54527470@N00&amp;s=rec&amp;z=t">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/Miamira%2520sinuatum/map?&amp;fLat=1.2626&amp;fLon=103.8657&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/090412hntmn6l.jpg" alt="" />
+        <div class="caption">
+        Releasing white fluid when alarmed. Pulau Hantu, Aug 15 Photo shared by Marcus Ng on flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/090806tmjk7m3.jpg" alt="" />
+        <div class="caption">
+        Tanah Merah, Jul 09 Photo shared by James Koh on flickr .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/250131tkkll1.jpg" alt="" />
+        <div class="caption">
+        Pulau Tekukor, Jan 25 Photo shared by Liz Lim on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/150830hntmn2m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Hantu, Aug 15 Photo shared by Marcus Ng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://www.seaslugforum.net/">The Sea Slug Forum</a>
+by Dr Bill Rudman: photos and fact sheets of
+<em><a href="http://www.seaslugforum.net/find/cerasinu">Ceratosoma sinuatum</a>
+.</em></li>
+  <li><a href="http://slugsite.us/">The Slug Site:</a>
+photo and fact sheet on the Branch of the Week
+<em><a href="http://slugsite.us/bow/nudwk242.md">Ceratosoma sinuata</a></em>
+and discussion of difficulties in differentiating the species,
+<em><a href="http://slugsite.us/bow2007/nudwk555.md">Ceratosoma tenue</a></em></li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Tan Siong Kiat and Henrietta P. M. Woo, 2010 Preliminary Checklist of The Molluscs of Singapore (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.</li>
+  <li>Debelius, Helmut, 2001.
+<em>Nudibranchs and Sea Snails: Indo-Pacific Field Guide</em>
+IKAN-Unterwasserachiv, Frankfurt. 321 pp.</li>
+  <li>Wells, Fred E. and Clayton W. Bryce. 2000.
+<em>Slugs of Western Australia: A guide to the species from the Indian to West Pacific Oceans</em>
+. Western Australian Museum. 184 pp.</li>
+  <li>Coleman, Neville. 2001.
+<em>1001 Nudibranchs: Catalogue of Indo-Pacific Sea Slugs</em>
+. Neville Coleman’s Underwater Geographic Pty Ltd, Australia.144pp.</li>
+  <li>Coleman, Neville, 1989.
+<em>Nudibranchs of the South Pacific Vol 1</em>
+. 64 pp.</li>
+  <li>Humann, Paul and Ned Deloach. 2010.
+<em>Reef Creature Identification:Tropical Pacific</em>
+New World Publications. 497pp.</li>
+  <li>Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.
+<em>Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates</em>
+Sea Challengers. 314pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

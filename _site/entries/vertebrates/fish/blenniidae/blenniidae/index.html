@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Blennies | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="blenny, fish, blenniidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/051216smkg3405m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Chordata">Chordata</a>
+                    > 
+                    <a href="/Chordata/Actinopterygii">Actinopterygii</a>
+                    > 
+                    <a href="/Chordata/Actinopterygii/Blenniiformes">Blenniiformes</a>
+                    >
+                    <a href="/Chordata/Actinopterygii/Blenniiformes/Blennioidei">Blennioidei</a>
+                    >
+                    <a href="/Chordata/Actinopterygii/Blenniiformes/Blennioidei/Blenniidae">Blenniidae</a>
+                </p>
+                <h1>Blennies</h1>
+                
+                    <p class="scientific-name">Family Blenniidae</p>
+                
+
+                <p><em>Updated Sep 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about them ... Some can give a nasty bite! They lay their eggs in empty shells, so please put them back where you found them. Some of them nibble on bigger living fishes!
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        Some can give a nasty bite! They lay their eggs in empty shells, so please put them back where you found them. Some of them nibble on bigger living fishes!
+        </div>
+    </div>
+    
+
+</div>
+
+<h2 id="where-seen">Where seen?</h2>
+<p>Small fang-blennies are sometimes encountered on some of our Southern shores, among seagrasses. Divers probably see a greater variety of blennies.</p>
+
+<dl>
+  <dt><strong>What are blennies?</strong></dt>
+  <dt>Blennies belong to the Family Blenniidae. From</dt>
+  <dt><a href="http://fishbase.org/Summary/FamilySummary.cfm?ID=392">FishBase</a></dt>
+  <dd>the family has 53 genera and 345 species. They are found in the Indian, Atlantic and Pacific Oceans mainly in tropical and subtropical marine habitats.</dd>
+</dl>
+
+<h2 id="features">Features</h2>
+
+<p>Most blennies are small, 10-15cm or smaller. They are generally elongated, lack scales and have a slimy skin. ‘Blennos’ means ‘mucus-like’ in Greek. Most have a continuous dorsal fin along the body length and are thus somewhat eel-like. Head usually blunt with short tentacles on eyes, nose opening. As a group, they come in a wide variety of shapes, colours and patterns.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/051216smkg3405m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau, Dec 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/oyster/090819ecpd9415m6l.jpg" alt="" />
+        <div class="caption">
+        East Coast, Aug 09
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>What do they eat?</strong>
+Most blennies are bottom feeders, nibbling on small animals, algae and detritus. Others eat plankton. Some blennies, however, take on larger animals, and specialise in chomping a mouthfull of scales and fins of bigger fish! To get close to their ‘prey’, these blennies often mimic cleaner fishes.</p>
+
+<p><strong>Fearsome little fishes:</strong>
+A group of blennies called the Sabre-toothed or Fang-blennies have small mouths but large teeth on their lower jaws which are mainly used for defence. Some have a venomous bite! Another group of blennies are called Combtoothed blennies which have blunt heads, a wide mouth and comb-like teeth. Some blennies are territorial and can be aggressive even towards larger animals.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/090918tmd0989m6l.jpg" alt="" />
+        <div class="caption">
+        Guarding eggs laid inside a Fan shell . Tanah Merah, Sep 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/091204pawd5376.jpg" alt="" />
+        <div class="caption">
+        Guarding eggs laid inside a snail shell. Pulau Pawai, Dec 09
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Blenny babies:</strong>
+Males attract females to lay their eggs in a small hole or crevice, on or underneath empty bivalve shells, or in empty tubeworm holes. The eggs are then guarded by the male or by both parents. On our shores, blennies have been seen guarding eggs laid in large empty snail and clam shells.</p>
+
+<hr />
+
+<p><strong>Some blennies on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/091009tmd2618m3.jpg" alt="" />
+        <div class="caption">
+        Variable fang-blenny
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/oyster/090819ecpd9415m3c.jpg" alt="" />
+        <div class="caption">
+        Oyster-blenny
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/rockskipper/190831kusjc2.jpg" alt="" />
+        <div class="caption">
+        Rockskipper blenny
+        </div>
+    </div>
+    
+
+</div>
+
+<hr />
+
+<p><strong>Family Blenniidae recorded for Singapore</strong>
+from Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+.</p>
+
+<p><em>from Lim, Kelvin K. P. &amp; Jeffrey K. Y. Low, 1998.
+*A Guide to the Common Marine Fishes of Singapore</em>
+.</p>
+
+<p>**from
+<a href="http://www.marinespecies.org/index.php">WORMS</a>
+**</p>
+
+<p>+Other additions (Singapore Biodiversity Records, etc)</p>
+
+<p><strong>Blennies seen awaiting identification</strong></p>
+
+<p><a href="oyster.md">Oyster blenny</a></p>
+
+<p><strong>Family Blenniidae</strong></p>
+
+<p><em>+Enchelyurus flavipes</em>
+(Yellowfin blenny)
+**
+<a href="rockskipper.md">Rockskipper blenny</a>
+<em>*Entomacrodus lighti=Entomacrodus stellifer lighti</em>
+(Stellar rockskipper blenny)
+<em>+Entomacrodus striatus</em>
+(Black-spotted rockskipper blenny)
+<em>*Meiacanthus grammistes</em>
+(Striped fang-blenny)
+**
+<a href="oyster.md">Oyster-blenny</a>
+<em>+Omobranchus elongatus</em>
+(Elongate oyster-blenny)
+<em>Omobranchus ferox</em>
+(Whitebar oyster-blenny)</p>
+
+<p><em>Omobranchus smithi</em>
+(Crescent oyster blenny)
+<em>+Parablennius thysanius</em>
+(Taselled blenny)
+*Petroscirtes bankanensis</p>
+
+<p>+Petroscirtes breviceps*
+(Shorthead fang-blenny)
+*Petroscirtes dussumieri</p>
+
+<p>Petroscirtes eretes</p>
+
+<p>Petroscirtes flavipes</p>
+
+<p>Petroscirtes kranjinensis</p>
+
+<p><a href="variabilis.md">Petroscirtes variabilis</a>*
+(Variable fang-blenny)
+*Petroscirtes zebra=**Omobranchus zebra</p>
+
+<p>Salarias ceramensis</p>
+
+<p>Salarias dussumieri=**Istiblennius dussumieri</p>
+
+<p>Salarias fasciatus</p>
+
+<p>Salarias guttatus</p>
+
+<p>Salarias lineatus=<em>*Istiblennius lineatus</em></p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/356.md">Striped Fang-blenny (
+<em>Meiacanthus grammistes</em>
+)</a>
+,
+<a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/355.md">Whitebar Oyster-blenny (
+<em>Omobranchus ferox</em>
+)</a>
+,
+<a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/357.md">Variable Fang-blenny (
+<em>Petroscirtes variabilis</em>
+)</a>
+Lim, Kelvin K. P. &amp; Jeffrey K. Y. Low, 1998.
+<em><a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/">A Guide to the Common Marine Fishes of Singapore</a></em>
+. Singapore Science Centre. 163 pp.</li>
+  <li><a href="https://singapore.biodiversity.online/taxon/A-Vert-Fish-Perciformes-Blenniidae">Blennidae (Combtooth blennies)</a>
+on The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.</li>
+  <li>
+    <dl>
+      <dt><a href="http://fishbase.org/Summary/FamilySummary.cfm?ID=392">Family Blenniidae (Combtooth blennies)</a></dt>
+      <dt>and</dt>
+      <dt><em><a href="http://www.fishbase.org/summary/60080">Entomacrodus lighti</a></em></dt>
+      <dt>and</dt>
+      <dt>[<em>Meiacanthus grammistes</em></dt>
+      <dt>(Striped poison-fang blenny)](http://www.fishbase.org/summary/6069)</dt>
+      <dt>and</dt>
+      <dt>[<em>Omobranchus ferox</em></dt>
+      <dt>(Gossamer blenny)](http://www.fishbase.org/summary/7565)</dt>
+      <dt>and</dt>
+      <dt>[<em>Omobranchus elongatus</em></dt>
+      <dt>(Cloister blenny)](http://www.fishbase.org/summary/8039)</dt>
+      <dt>and</dt>
+      <dt>[<em>Petroscirtes variabilis</em></dt>
+      <dt>(Variable sabretooth blenny)](http://www.fishbase.org/summary/6076)</dt>
+      <dt>and</dt>
+      <dt><em><a href="http://www.fishbase.org/summary/25046">Omobranchus zebra</a></em></dt>
+      <dt>and</dt>
+      <dt>[<em>Salarias ceramensis</em></dt>
+      <dt>(Seram blenny)](http://www.fishbase.org/summary/7749)</dt>
+      <dt>and</dt>
+      <dt>[<em>Istiblennius dussumieri</em></dt>
+      <dt>(Streaky rockskipper)](http://www.fishbase.org/summary/7562)</dt>
+      <dt>and</dt>
+      <dt><a href="http://www.fishbase.org/summary/6058">Salarias fasciatus (Jewelled blenny)</a></dt>
+      <dt>and</dt>
+      <dt>[<em>Salarias guttatus</em></dt>
+      <dt>(Breast-spot blenny)](http://www.fishbase.org/summary/11616)</dt>
+      <dt>and</dt>
+      <dt>[<em>Istiblennius lineatus</em></dt>
+      <dt>(Lined rockskipper)](http://www.fishbase.org/summary/6050)</dt>
+      <dt>from</dt>
+      <dt><a href="http://www.fishbase.org/">FishBase</a></dt>
+      <dd>Technical fact sheet on the family.</dd>
+    </dl>
+  </li>
+  <li><a href="http://wildshores.blogspot.com/2009/02/sneaky-fangblenny-has-changeable.html">The sneaky fangblenny has changeable disguises</a>
+on the wild shores of singapore blog.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Daisuke Taira &amp; Kelvin K. P. Lim.
+<em>Shorthead fang-blenny in the Singapore Strait</em>
+. 31 July 2018. Singapore Biodiversity Records 2018: 80 ISSN 2345-7597. National University of Singapore.</li>
+  <li>Kelvin K. P. Lim and Victor G. Springer. 31 Oct 2017.
+<em>Singapore records of the crescent oyster blenny, Omobranchus smithi.</em>
+Singapore Biodiversity Records 2017: 145.</li>
+  <li>Kelvin Lim Kok Peng &amp; Marcus F. C. Ng. 31 Mar 2017.
+<em>Records of the elongate oyster blenny, Omobranchus elongatus, in Singapore</em>
+. Singapore Biodiversity Records 2017: 58-59.</li>
+  <li>Marcus F. C. Ng &amp; Kelvin K. P. Lim . 26 June 2015.
+<em>New record of the black-spotted rockskipper blenny in Singapore</em>
+. Singapore Biodiversity Records 2015: 87</li>
+  <li>Kelvin K. P. Lim. 28 November 2014.
+<em>New record of the tasselled blenny in Singapore, Parablennius thysanius</em>
+. Singapore Biodiversity Records 2014: 303-304.</li>
+  <li>Ron K. H. Yeo &amp; Kelvin K. P. Lim. 28 March 2014.
+<em>Stellar rockskipper blenny at Big Sister Island</em>
+. Singapore Biodiversity Records 2014: 86.</li>
+  <li>Ron K. H. Yeo and Kelvin K. P. Lim. 21 October 2013.
+<em>Yellowfin blenny at Semakau Landfill Enchelyurus flavipes</em>
+. Singapore Biodiversity Records 2013: 29.</li>
+  <li>Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+. National Council on the Environment. 163pp.</li>
+  <li>Allen, Gerry, 2000.
+<em>Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers</em>
+. Periplus Editions. 292 pp.</li>
+  <li>Kuiter, Rudie H. 2002.
+<em>Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers &amp; Fishermen</em>
+New Holland Publishers. 434pp.</li>
+  <li>Lieske, Ewald and Robert Myers. 2001.
+<em>Coral Reef Fishes of the World</em>
+Periplus Editions. 400pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

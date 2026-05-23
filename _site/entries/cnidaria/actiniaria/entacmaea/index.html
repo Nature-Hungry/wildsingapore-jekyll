@@ -1,0 +1,671 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Bubble-tip  anemone | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="bulb, bubble, tip, anemone, entacmaea, quadricolor, actiniidae, actiniaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="https://live.staticflickr.com/2632/3792260580_fb634970f6_c.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Cnidaria">Cnidaria</a>
+                    > 
+                    <a href="/Cnidaria/Anthozoa">Anthozoa</a>
+                    > 
+                    <a href="/Cnidaria/Anthozoa/Actiniaria">Actiniaria</a>
+                    >
+                    <a href="/Cnidaria/Anthozoa/Actiniaria/Enthemonae">Enthemonae</a>
+                    >
+                    <a href="/Cnidaria/Anthozoa/Actiniaria/Enthemonae/Actiniidae">Actiniidae</a>
+                </p>
+                <h1>Bubble-tip  anemone</h1>
+                
+                    <p class="scientific-name">Entacmaea quadricolor</p>
+                
+
+                <p><em>Updated July 2024</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This anemone with bulbous tips is seen on our Southern shores. Usually nestled among coral rubble with the body column deep in a crevice or hole and only the tentacles sticking out. Thus, it is often mistaken for a hard coral. Sometimes, several small ones are seen clustered together. Larger ones are usually alone, and found in deeper water.</p>
+
+<h2 id="features">Features</h2>
+
+<p>Diameter of anemone with tentacles extended 10-20cm although large ones about 30-40cm have been seen. Tentacles 4-6cm long. The tentacles may have bulbous tips (although not always). There may be a white ‘equator’ around the bulbous portion. When not inflated, the tip is then blunt with a white ring where the ‘equator’ would be. According to Dr Fautin, the bulbous tip seems related to presence of anemonefish, and can disappear. Body column smooth with no verrucae, colour brown, reddish or orange, but is rarely seen as it is usually deeply inserted into crevices. It has a small pedal disc.</p>
+
+<p><strong>Be careful!</strong>
+Like other anemones, this anemone has stingers in its tentacles that can inflict a painful sting.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/120609tsmkd5064m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Semakau, Jun 12
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/070630sisg0770m3.jpg" alt="" />
+        <div class="caption">
+        Sisters Island, Jun 07
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/040410sisbd017m3a.jpg" alt="" />
+        <div class="caption">
+        Sisters Islands, Apr 04
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Bubble friends:</strong>
+The anemone harbours symbiotic algae (called zooxanthellae) that produces food through photosynthesis. The food produced is shared with the anemone, which in turn provides the algae with shelter and minerals. During mass coral bleaching events, this anemone is often the first to bleach.</p>
+
+<p>Several kinds of animals are said to live happily among and unharmed by the tentacles of bubble tip anemones. These include
+<a href="/entries/crustacea/othercrust/shrimp/brevicarpalis">Peacock-tail aemone shrimps</a>
+(
+<em>Periclimenes brevicarpalis</em>
+) these fishes:
+<em>Dascyllus trimaculatus</em>
+and
+<em>Premnas biaculeatus</em>
+and
+<a href="/entries/vertebrates/fish/pomacentridae/amphiprion">anemonefishes</a>
+(
+<em>Amphiprion</em>
+sp.) including
+<em>A. akindynos, A. biaculeatus, A. bicinctus, A. chrysopterus, A. clarkii, A. ephippium,
+<a href="/entries/vertebrates/fish/pomacentridae/frenatus">A. frenatus</a></em>
+(Tomato anemonefish),
+<em>A. fuscocaudatus, A. latezonatus, A. melanopus, A. polymnus</em>
+(juvenile). So far, only the Tomato anemonefish has been seen on the bubble tip anemones on the intertidal.</p>
+
+<p><strong>Status and threats:</strong>
+As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/frenatus/080803smkd9128m3.jpg" alt="" />
+        <div class="caption">
+        The Tomato anemonefish lives with this anemone Pulau Semakau, Aug 08
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/121215sislks1.jpg" alt="" />
+        <div class="caption">
+        Peacock-tail anemone shrimps were seen in this anemone. Sisters Island, Dec 12 Photo shared by Loh Kok Sheng on flickr .
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Human uses:</strong>
+Unfortunately, this beautiful anemone is collected for the live aquarium trade.</p>
+
+<p><strong>Status and threats:</strong>
+As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore. But the anemone fishes that rely on them are on the Red List. However, like other animals harvested for the live aquarium trade, most die before they can reach the retailers. Without professional care, most die soon after they are sold. Those that do survive are unlikely to breed successfully.</p>
+
+<hr />
+
+<p><strong>Bubble-tip anemones on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470@N00&amp;sort=date-posted-desc&amp;view_all=1&amp;text=Entacmaea quadricolor">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/entacmaea%2520quadricolor/map?&amp;fLat=1.2626&amp;fLon=103.8661&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/frenatus/090726tmlks6m3.jpg" alt="" />
+        <div class="caption">
+        Tanah Merah, Jul 09 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/100615tmlks2m3.jpg" alt="" />
+        <div class="caption">
+        In a bleaching anemone. Tanah Merah, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/140518tmlks5m3.JPG" alt="" />
+        <div class="caption">
+        Tanah Merah, May 14 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/170529srplks1.jpg" alt="" />
+        <div class="caption">
+        Sentosa Serapong, May 17
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/170529srplks1a.jpg" alt="" />
+        <div class="caption">
+        Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/120407lazlks6m3.jpg" alt="" />
+        <div class="caption">
+        Seringat Kias, Apr 12 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/120408sjilks3m3.jpg" alt="" />
+        <div class="caption">
+        St. John's Island, Apr 12 Shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/230831sjiky1.jpg" alt="" />
+        <div class="caption">
+        St. John's Island, Aug 23 Shared by Kelvin Yong on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/220202bsisjk2.jpg" alt="" />
+        <div class="caption">
+        Big Sisters Island, Feb 22 Photo shared by James Koh on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/110122sisjk1m3.jpg" alt="" />
+        <div class="caption">
+        Bleaching. Sisters Island, Jan 11 Photo shared by James Koh on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/251207hntjll6.jpg" alt="" />
+        <div class="caption">
+        Pulau Hantu, Dec 25 Shared by Jianlin Liu on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/250615hntccn2.jpg" alt="" />
+        <div class="caption">
+        Pulau Hantu, Jun 25 Photo shared by Che Cheng Neo on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/250531thntlks1.jpg" alt="" />
+        <div class="caption">
+        Terumbu Hantu (Cigar Reef), May 25 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/160608cyrlks7.JPG" alt="" />
+        <div class="caption">
+        Bleaching. Cyrene Reef, Jun 16 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/210629bbbjll1.jpg" alt="" />
+        <div class="caption">
+        Beting Bemban Besar, Jun 21 Photo shared by Jianlin Liu on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/250629smkelks5.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau East, Jun 25 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/140909tptlks3m3.JPG" alt="" />
+        <div class="caption">
+        Teumbu Pempang Tengah, Sep 14 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/210502tptlks8.jpg" alt="" />
+        <div class="caption">
+        Teumbu Pempang Tengah, May 21 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/160806tpllks5.jpg" alt="" />
+        <div class="caption">
+        Bleaching. Teumbu Pempang Laut, Aug 16 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/070701hntlks02m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Hantu, Jul 07 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/090412hnttch04m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Hantu, Apr 09 Photo shared by Toh Chay Hoon on her blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/120411thntrl1m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Hantu, Apr 12 Photo shared by Russel Low on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/110422tbmlks11m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Bemban, Apr 11 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/110422tbmlks12m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Bemban, Apr 11 Photo shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/100519tsmjk3m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Semakau, May 10 Photo shared by James Koh on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/100613snglks2m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/100613snglks3m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/100130slulks19m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Salu, Jan 10 Photo shared by Loh Kok Sheng on his flickr .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/210428slulks10.jpg" alt="" />
+        <div class="caption">
+        Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/220201brklks9.jpg" alt="" />
+        <div class="caption">
+        Pulau Berkas, Feb 22 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+        </div>
+        
+        <div class="trivia-box">
+    <h4 class="trivia-box-title">if you learn only 3 things about them ...</h4>
+    <ul>
+        
+        <li class="trivia-box-item">
+            They are found among the coral rubble. Don't step on them!
+        </li>
+        
+        <li class="trivia-box-item">
+            Don't remove any fishes or shrimps that live in the anemone. They will die and the anemone will also suffer.
+        </li>
+        
+        <li class="trivia-box-item">
+            Don't poke the anemone to try to make fishes or shrimps come out. They will instead hide deeper in the anemone.
+        </li>
+        
+    </ul>
+</div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail_for_nosyn.cfm?genus=Entacmea&amp;subgenus=&amp;species=quadricolor&amp;subspecies="><em>Entacmea quadricolor</em></a>
+on the
+<a href="http://hercules.kgs.ku.edu/Hexacoral/Anemone2/">Hexacorallians of the World</a>
+website by Dr Daphne Fautin with classification, distribution, biological associations and more.</li>
+  <li><a href="http://www.nhm.ku.edu/inverts/ebooks/ch1.html#entac"><em>Entacmea quadricolor</em></a>
+on Fautin, Daphne G. and Gerald R. Allen, 1992.
+<a href="http://www.nhm.ku.edu/inverts/ebooks/intro.html">Field guide to anemone fishes and their host sea anemones</a>
+. Western Australian Museum.</li>
+  <li><a href="http://www.sealifebase.org/summary/Entacmaea-quadricolor.html"><em>Entacmea quadricolor</em></a>
+on SeaLife Base: technical fact sheets.</li>
+  <li><em><a href="https://singapore.biodiversity.online/taxo4254/mainSpace/Entacmaea%20quadricolor.html">Entacmea quadricolor</a></em>
+by Shu Yi on taxo4254.
+<em>**</em></li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.</li>
+  <li>Daphne Gail Fautin, S. H. Tan and Ria Tan. Dec 2009.
+<em>Sea anemones (Cnidaria: Actiniaria) of Singapore: abundant and well-known shallow-water species</em>
+. The Raffles Bulletin of Zoology. Pp. 121-143.</li>
+  <li>Erhardt, Harry and Daniel Knop. 2005.
+<em>Corals: Indo-Pacific Field Guide</em>
+IKAN-Unterwasserachiv, Frankfurt. 305 pp.</li>
+  <li>Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.
+<em>Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates</em>
+Sea Challengers. 314pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

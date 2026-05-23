@@ -1,0 +1,545 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Porcelain crabs  | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="porcelain, crab, porcellanidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/080619chgd5779m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Arthropoda">Arthropoda</a>
+                    > 
+                    <a href="/Arthropoda/Malacostraca">Malacostraca</a>
+                    > 
+                    <a href="/Arthropoda/Malacostraca/Decapoda">Decapoda</a>
+                    >
+                    <a href="/Arthropoda/Malacostraca/Decapoda/Pleocyemata">Pleocyemata</a>
+                    >
+                    <a href="/Arthropoda/Malacostraca/Decapoda/Pleocyemata/Porcellanidae">Porcellanidae</a>
+                </p>
+                <h1>Porcelain crabs </h1>
+                
+                    <p class="scientific-name">Family Porcellanidae</p>
+                
+
+                <p><em>Updated Dec 2019</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about them ... They are NOT true crabs. Some differences from true crabs: only 3 pairs of walking legs, long antennae. They drop their pincers when stressed, so don't harass them Some live with other animals: sea pens, hermit crabs.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        They are NOT true crabs. Some differences from true crabs: only 3 pairs of walking legs, long antennae. They drop their pincers when stressed, so don't harass them Some live with other animals: sea pens, hermit crabs.
+        </div>
+    </div>
+    
+
+</div>
+
+<h2 id="where-seen">Where seen?</h2>
+<p>Porcelain crabs are plentiful under the stones of our rocky shores, scattering in all directions as a stone is lifted. Some porcelain crabs live on or with other larger animals.</p>
+
+<p><strong>What are porcelain crabs?</strong>
+Porcelain crabs belong to the subgroup Anomura of the Order
+<a href="../../../decapoda.md">Decapoda</a>
+. Anomurans includes
+<a href="../hermit/hermit.md">hermit crabs</a>
+. Porcelain crabs belong to Family Porcellanidae.</p>
+<h2 id="features">Features</h2>
+
+<p>Body width 1cm or less. Body and pincers really flat, giving them a cartoonish appearance. But this form allows them to squeeze into nooks and crannies, and shelter in narrow places like under a stone.</p>
+
+<p><strong>Show of Arms:</strong>
+The porcelain crab’s huge pincers are not used to catch prey. Porcelain crabs mostly filter feed peacefully using their feathery mouthparts (see below). Some species may use their pincers to snip off or scrape bits of algae, and others may scavenge on dead animals. Some species use their pincers mainly against rival porcelain crabs in territorial and other disputes.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/080619chgd5779m3.jpg" alt="" />
+        <div class="caption">
+        Huge flat pincers.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/080619chgd5779m3a.jpg" alt="" />
+        <div class="caption">
+        Long antennae emerging from outside instead of between the eyes. Changi, Jun 08
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/050607chgg7319m3a.jpg" alt="" />
+        <div class="caption">
+        Last pair of legs folded on the sides of the body. Changi, Jun 05
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Falling apart at the seams:</strong>
+The porcelain crab tends to shed limbs if stressed, hence its common name. This is a useful trait, in case a limb is trapped between rocks shifting in the currents, or grabbed by a predator. A dropped pincer may continue to move, to distract the predator while the owner makes its getaway. The lost limb eventually re-grows with subsequent
+<a href="../../../moulting.md">moults</a>
+, but this takes time.</p>
+
+<p><strong>Not a true crab!</strong>
+The porcelain crab is not a true crab. True crabs belong to the subgroup Brachyura and have four pairs of walking legs and short antennae. In comparison, porcelain crabs have only three pairs of walking legs and often have long antennae that emerge from outside the eyes, instead of between the eyes. The fourth pair of legs of the porcelain crab are short and folded along the sides of the body. The abdomen of the porcelain crab is long and folded under the body. The abdomen remains free to move. In fact, when alarmed, a submerged porcelain crab may swim upside down by flapping its abdomen!</p>
+
+<p><strong>What do they eat?</strong>
+Porcelain crabs filter feed at high tide. They have large mouthparts which are feathery with long silky hairs. These are extended into the water like nets to strain plankton from the water. Internal mouthparts scrape off any edible titbits caught on the hairs and transfer them to the mouth.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/120818lazd0353m3a.jpg" alt="" />
+        <div class="caption">
+        Feathery mouthparts.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/120818lazd0359m3a.jpg" alt="" />
+        <div class="caption">
+        Lazarus, Aug 12
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Porcelain babies:</strong>
+Porcelain crab eggs hatch into free-swimming larvae that only later settle down and develop into miniatures of their parents.</p>
+
+<p><strong>Role in the habitat:</strong>
+Some porcelain crabs live with other animals. One kind of porcelain crab lives on a
+<a href="../../../../cnidaria/others/pennatulacea/pennatulacea.md">sea pen</a>
+. Elsewhere, there are porcelain crabs that live in
+<a href="../hermit/clibanarius.md">a shell occupied by a hermit crab</a>
+, with tubeworms, in the siphons of bivalves, among the tentacles of sea anemones, on or inside sponges, or up the backside of a sea cucumber!</p>
+
+<p><strong>Status and threats:</strong>
+Some of our porcelain crabs listed among the threatened animals of Singapore.
+However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors also have an impact on local populations.</p>
+
+<hr />
+
+<p><strong>Some Porcelain crabs on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/120818lazd0353m3.jpg" alt="" />
+        <div class="caption">
+        Big porcelain crab
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/tinystone/080521chgd3524m3.jpg" alt="" />
+        <div class="caption">
+        Tiny brown porcelain crab
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/hermit/050315cjd1820m3.jpg" alt="" />
+        <div class="caption">
+        Hermit porcelain crab
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/cnidaria/others/pennatulacea/spiky/040716chgd2523m3.jpg" alt="" />
+        <div class="caption">
+        Painted porcelain crab
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/commensal/110715cyrd6659m3.jpg" alt="" />
+        <div class="caption">
+        Commensal porcelain crabs
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/others/200705kusjll5.jpg" alt="" />
+        <div class="caption">
+        Kusu Island, Jul 20 Photo shared by Jianlin Liu on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Family Porcellanidae recorded for Singapore</strong>
+from Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+.</p>
+
+<p>in red are those listed among the threatened animals of Singapore
+from Ng, P. K. L. &amp; Y. C. Wee, 1994.
+<em>The Singapore Red Data Book: Threatened Plants and Animals of Singapore.</em>
+^from
+<a href="http://www.marinespecies.org/">WORMS</a>
+**
++Other additions (Singapore Biodiversity Records, etc)
+**
+++from The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.
+**</p>
+
+<p><strong>Porcelain crabs seen awaiting identification</strong>
+*Species are difficult to positively identify without close examination.</p>
+
+<p>On this website, they are grouped by external features for convenience of display.*</p>
+
+<p><a href="hermit.md">Hermit porcelain crab</a></p>
+
+<p><a href="tinystone.md">Tiny brown porcelain crab</a>
+<a href="commensal.md">Commensal porcelain crabs</a></p>
+
+<p><strong>Family Porcellanidae</strong></p>
+
+<p><em>++Aliaporcellana telestophila</em></p>
+
+<p><em>Eulanaios cometes</em>
+(EN: Endangered)
+<em>++Lissoporcellana</em>
+sp.
+*Pachycheles sculptus</p>
+
+<hr />
+<p><strong><a href="petrolisthes.md"><em>Petrolisthes</em>
+sp.</a>
+(Big porcelain crab) with species recorded in Singapore</strong></p>
+
+<p>*Polyonyx biunguiculatus</p>
+
+<p>+Polyonyx heok</p>
+
+<p>Polyonyx obesulus</p>
+
+<p>Polyonyx suluensis=^Aliaporcellana suluensis</p>
+
+<p>Polyonyx telestophilus</p>
+
+<p>Polyonyx triunguiculatus</p>
+
+<p>Porcellana gordoni</p>
+
+<p>Porcellana latifrons=^Lissoporcellana spinuligera</p>
+
+<p>Porcellana quadrilobata=^Lissoporcellana quadrilobata</p>
+
+<p>Porcellana streptochiroides</p>
+
+<p>Porcellana corallicola=^Enosteoides ornatus</p>
+
+<p><a href="picta.md">Porcellanella picta=^Porcellanella triloba</a>*
+(Painted porcelain crab) (VU: Vulnerable)
+<em>Pseudoporcellanella manoliensis</em>
+(False porcelain crab) (VU: Vulnerable)
+<em>Raphidopus ciliatus</em>
+(VU: Vulnerable)
+<em>Raphidopus johnsoni</em></p>
+
+<hr />
+
+<p>th</p>
+
+<p>edition. McGraw-Hill Book Co., Singapore. 578 pp.</p>
+<ul>
+  <li>Lim, S., P. Ng, L. Tan, &amp; W. Y. Chin, 1994.
+<em>Rhythm of the Sea: The Life and Times of Labrador Beach.</em>
+Division of Biology, School of Science, Nanyang Technological University &amp; Department of Zoology, the National University of Singapore. 160 pp.</li>
+  <li>Jones Diana S. and Gary J. Morgan, 2002.
+<em>A Field Guide to Crustaceans of Australian Waters</em>
+. Reed New Holland. 224 pp.</li>
+  <li>Debelius, Helmut, 2001.
+<em>Crustacea Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean</em>
+IKAN-Unterwasserachiv, Frankfurt. 321 pp.</li>
+  <li>Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.
+<em>Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates</em>
+Sea Challengers. 314pp.</li>
+</ul>
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/184.md">Porcelain Crab (
+<em>Petrolisthes</em>
+)</a>
+Tan, Leo W. H. &amp; Ng, Peter K. L., 1988.
+<em><a href="http://mangrove.nus.edu.sg/pub/seashore/">A Guide to Seashore Life</a></em>
+. The Singapore Science Centre, Singapore. 160 pp.</li>
+  <li><a href="http://mangrove.nus.edu.sg/guidebooks/text/2066.md">Mangrove porcelain crab (
+<em>Petrolisthes kranjiensis</em>
+)</a>
+Ng, Peter K. L. &amp; N. Sivasothi, 1999.
+<em><a href="http://mangrove.nus.edu.sg/guidebooks/">A Guide to the Mangroves of Singapore II (Animal Diversity)</a></em>
+. Singapore Science Centre. 168 pp.</li>
+  <li>Krystal L. Rypien and A. Richard Palmer,
+<a href="http://www.bioone.org/doi/abs/10.1651/S-2728.1">The effects of sex, size and habitat on the incidence of puncture wounds in the claws of the porcelain crab Petrolisthes cinctipes (Anomura: Porcellanidae)</a>
+. Journal of Crustacean Biology 27(1):59-64. 2007 doi: http://dx.doi.org/10.1651/S-2728.1</li>
+  <li>Roy K. Kropp.
+<a href="http://www.jstor.org/discover/10.2307/20103620?uid=3738992&amp;uid=2&amp;uid=4&amp;sid=21102952517301">Additional Porcelain Crab Feeding Methods (Decapoda, Porcellanidae)</a>
+Crustaceana Vol. 40, No. 3 (May, 1981), pp. 307-310.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>M. Osawa &amp; P. K. L. Ng. 29 June 2016.
+<em>Revision of Polyonyx pedalis Nobili, 1906 (Crustacea: Decapoda: Anomura: Porcellanidae), with descriptions of three new species</em>
+. The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part I of II) Pp. 499-518.</li>
+  <li>Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+. National Council on the Environment. 163pp.</li>
+  <li>Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.
+<em>Invertebrate Zoology</em>
+Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963.</li>
+  <li>Pechenik, Jan A., 2005.
+<em>Biology of the Invertebrates</em>
+. 5</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

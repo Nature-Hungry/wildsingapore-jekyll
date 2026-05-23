@@ -1,0 +1,684 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Damselfishes  | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="damsel, fish, damselfish, anemonefish, pomacentridae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/140713tsmkd7177m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Chordata">Chordata</a>
+                    > 
+                    <a href="/Chordata/Actinopterygii">Actinopterygii</a>
+                    > 
+                    <a href="/Chordata/Actinopterygii/Blenniiformes">Blenniiformes</a>
+                    >
+                    <a href="/Chordata/Actinopterygii/Blenniiformes/"></a>
+                    >
+                    <a href="/Chordata/Actinopterygii/Blenniiformes//Pomacentridae">Pomacentridae</a>
+                </p>
+                <h1>Damselfishes </h1>
+                
+                    <p class="scientific-name">Family Pomacentridae</p>
+                
+
+                <p><em>Updated Sep 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>Damselfishes such as the anemonefishes are sometimes seen on our intertidal shores. But most damselfishes live in deeper waters and are more frequently encountered by divers.</p>
+
+<dl>
+  <dt><strong>What are damselfishes?</strong></dt>
+  <dt>They belong to Family Pomacentridae. According to</dt>
+  <dt><a href="http://www.fishbase.org/Summary/FamilySummary.cfm?ID=350">FishBase</a></dt>
+  <dd>the family has 28 genera and 321 species. They are mainly found in the Indo-Pacific oceans, some are found in brackish waters. Anemonefishes (made famous by the cartoon ‘Nemo’) are among the better known members of this family.</dd>
+</dl>
+
+<h2 id="features">Features</h2>
+
+<p>Damselfishes vary widely in size, colour and shape. Some species can grow to 35cm, others are 1cm or smaller. Those that eat algae tend to be duller while plankton-feeders tend to be more colourful.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/140713tsmkd7177m3.jpg" alt="" />
+        <div class="caption">
+        Clown anemonfish in a Magnificent anemone . Terumbu Semakau, Jul 14
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/070531sisg9763m3.jpg" alt="" />
+        <div class="caption">
+        Juvenile damselfishes can look very different from the adults. Tanah Merah, Nov 10
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/fasciatus/060714rlhg6577m3.jpg" alt="" />
+        <div class="caption">
+        Damselfishes can be abundant on some of our shores! Raffles Lighthouse, Jul 06
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>What do they eat?</strong>
+As a family, they eat a wide variety of things. Plankton-feeding damselfishes are believed to play an important role in reefs as they occur in such huge numbers that they effectively filter the currents. Damselfishes that feed on algae are often aggressively territorial, defending their feeding area from all intruders. These tiny damselfishes will vigorously harass larger fishes and even divers.</p>
+
+<p>According to Jeffrey Low on the Singapore Biodiversity Records: The sergeant damselfishes commonly seen on our shores have overlapping habitat and feeding requirements. The
+<a href="bengalensis.md">Bengal sergeant</a>
+occurs singly or in small groups in inshore and lagoon coral reefs at depths of 1-6 m. It feeds on seaweed, snails and small crabs, and is highly territorial. The
+<a href="sexfasciatus.md">Scissortail sergeant</a>
+lives on coral or rocky reefs, and also in shallow reef flats or crests, at depths of 1-20 m, usually where tall soft coral or hydroid colonies are present. It often forms groups at midwater, high in the water column to feed on zooplankton and algae. The
+<a href="vaigiensis.md">Indo-pacific sergeant</a>
+lives in the upper edge of outer reef slopes and inshore rocky reefs at depths of 1-15 m. Although tending feed on the bottom, eating algae and small invertebrates, it often forms groups in midwater to feed on zooplankton.</p>
+
+<p><strong>Damsel babies:</strong>
+In many species, a nest site is prepared by one or both partners. The eggs are attached by adhesive threads to the site and the male usually guards them until they hatch into free-swimming larvae.
+<strong>Human uses:</strong>
+Many members of this family are harvested from the wild for the live aquarium trade. Harvesting tropical scorpionfishes for the live aquarium trade may involve the use of cyanide or blasting, which damage the habitat and kill many other creatures. Like other fish and creatures harvested for the live aquarium trade, most die before they can reach the retailers. Without professional care, most die soon after they are sold. Those that do survive are unlikely to breed successfully.</p>
+
+<p><strong>Status and threats:</strong>
+<a href="amphiprion.md">Anemonefishes</a>
+of the Family Pomacentridae are listed among the threatened animals of Singapore. Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Overcollection by hobbyists and overfishing can also have an impact on local populations.</p>
+
+<hr />
+
+<p><strong>Some Damselfishes on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/040605kusbd0077m3.jpg" alt="" />
+        <div class="caption">
+        False clown anemonefish
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/frenatus/040829kusg1741m3.jpg" alt="" />
+        <div class="caption">
+        Tomato anemonefish
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/trimaculatus/110619tslgd4444m3.jpg" alt="" />
+        <div class="caption">
+        Three-spot dascyllus
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/110601tmnbd3146m3.jpg" alt="" />
+        <div class="caption">
+        Bengal sergeant
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/sexfasciatus/110602tmftd3507m3.jpg" alt="" />
+        <div class="caption">
+        Scissortail sergeant
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/sordidus/080816sisd9504m3.jpg" alt="" />
+        <div class="caption">
+        Black-spot sergeant
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/fasciatus/060714rlhg6577m3a.jpg" alt="" />
+        <div class="caption">
+        Juvenile
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/fasciatus/120818lazd0172m3.jpg" alt="" />
+        <div class="caption">
+        Juvenile.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/fasciatus/070728sisd4510m3.jpg" alt="" />
+        <div class="caption">
+        Juvenile.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/fasciatus/110601tmnbd3185m3a.jpg" alt="" />
+        <div class="caption">
+        Adult
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/fasciatus/120804bbbd9432m3.jpg" alt="" />
+        <div class="caption">
+        Adult
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/prosopotaenia/100715tptd8836m3.jpg" alt="" />
+        <div class="caption">
+        Juvenile
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/080410cyrd0050m3.jpg" alt="" />
+        <div class="caption">
+        Juvenile
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/110602tmftd3572m3.jpg" alt="" />
+        <div class="caption">
+        Juvenile
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/050411tusg4489m3.jpg" alt="" />
+        <div class="caption">
+        Adult
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Family Pomacentridae recorded for Singapore</strong>
+from Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+.</p>
+
+<p><em>additions from from Ng, P. K. L. &amp; Y. C. Wee, 1994.
+*The Singapore Red Data Book: Threatened Plants and Animals of Singapore.</em></p>
+
+<p>in red are those listed among the threatened animals of Singapore
+from
+<em>Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red Data Book: Threatened plants and animals of Singapore.</em>
+**from
+<a href="http://www.marinespecies.org/">WORMS</a>
+**
++Other additions (Singapore Biodiversity Records, etc)
+**</p>
+
+<p>**Family Pomacentridae</p>
+
+<p>Sergeant majors**</p>
+
+<p><em><a href="bengalensis.md">Abudefduf bengalensis</a></em>
+(Bengal sergeant)
+*Abudefduf melas=**Neoglyphidodon melas</p>
+
+<p><em>Abudefduf notatus</em>
+(Yellowtail sergeant)
+*Abudefduf plagiometopon=**Hemiglyphidodon plagiometopon</p>
+
+<p>Abudefduf saxatillis*</p>
+
+<p>*
+<em><a href="sordidus.md">Abudefduf sordidus</a></em>
+(Black-spot sergeant)
+<em><a href="sexfasciatus.md">Abudefduf sexfasciatus</a></em>
+(Scissortail sergeant)</p>
+
+<p><em>Abudefduf vaigiensis</em>
+(Indo-Pacific sergeant)</p>
+
+<p><em><a href="amphiprion.md">Amphiprion</a></em>
+<a href="amphiprion.md">spp.</a>
+(Clown anemonefishes) with list of species recorded for Singapore</p>
+
+<p><strong>Damselfishes</strong></p>
+
+<p><em>*Amblyglyphidodon curacao</em>
+(Staghorn damsel)
+**Amblyglyphidodon leucogaster</p>
+
+<p>Chromis analis</p>
+
+<p>Chromis atripectoralis</p>
+
+<p>Chromis cinerascens</p>
+
+<p>*Chromis xanthurus</p>
+
+<p>+Chrysiptera parasema*
+(Goldtail damselfish)
+*+Dascyllus reticulatus</p>
+
+<p><a href="trimaculatus.md">Dascyllus trimaculatus</a>*
+(Threespot dascyllus)
+<em>Dischistodus chrysopoecilus</em>
+(Pale-spot damsel)
+<em><a href="fasciatus.md">Dischistodus fasciatus</a></em>
+(Yellow-banded damsel)
+**Dischistodus melanotus</p>
+
+<p><em>Dischistodus perpicillatus</em>
+(White damsel)
+<em><a href="prosopotaenia.md">Dischistodus prosopotaenia</a></em>
+(Honey-head damsel)
+*Eupomacentrus apicalis=**Stegastes apicalis</p>
+
+<p>Hemiglyphidodon plagiometopon</p>
+
+<p>+Neoglyphidodon nigroris*
+(Behn’s damselfish)
+<em>+Neopomacentrus anabatoides</em>
+(Silver demoiselle)
+<em>+</em>
+<em>Neopomacentrus bankieri</em>
+(Chinese demoiselle)
+<em>+Neopomacentrus cyanomos</em>
+(Regal demoiselle)
+<em>Neopomacentrus filamentosus</em>
+(Brown demoiselle)
+*Neopomacentrus nemurus</p>
+
+<p>*Neopomacentrus violascens</p>
+
+<p>Paraglyphidodon nigroris=**Neoglyphidodon nigroris</p>
+
+<p>Pomacentrus albimaculus</p>
+
+<p>Pomacentrus alexanderae</p>
+
+<p>Pomacentrus amboinensis</p>
+
+<p>*Pomacentrus breviceps</p>
+
+<p>*Pomacentrus brachialis</p>
+
+<p><a href="tripunctatus.md">Pomacentrus cuneatus</a>*
+(Wedgespot damsel)
+<em>+Pomacentrus cheraphilus</em>
+(Silty damsel)
+*Pomacentrus chyrysopoecilus=**Dischistodus chrysopoecilus</p>
+
+<p>Pomacentrus fasciatus=**Dischistodus fasciatus</p>
+
+<p>Pomacentrus grammorhynchus</p>
+
+<p>Pomacentrus littoralis*
+(Smoky damselfish)
+*Pomacentrus melanopterus=**Pomacentrus brachialis</p>
+
+<p>+Pomacentrus moluccensis*
+(Lemon damsel)
+*Pomacentrus notophthalmus=**Dischistodus melanotus</p>
+
+<p>Pomacentrus popei=**Pomacentrus moluccensis</p>
+
+<p>Pomacentrus pristiger=**Stegastes limbatus</p>
+
+<p>Pomacentrus prosoptaenia=**Dischistodus prosopotaenia</p>
+
+<p>Pomacentrus rhodonotus=**Pomacentrus chrysurus</p>
+
+<p>*Pomacentrus richardsoni=<strong>Pomachromis richardsoni*
+<em>+Pomacentrus simsiang</em>
+*Pomacentrus taeniurus=</strong>Neopomacentrus taeniurus</p>
+
+<p><a href="tripunctatus.md">Pomacentrus tripunctatus</a>*
+(Threespot damsel)
+*Pomacentrus violascens=**Neopomacentrus violascens</p>
+
+<p>Pomacentrus xanthus=**Stegastes variabilis</p>
+
+<p>*Pritotis jerdoni=**Pristotis obtusirostris</p>
+
+<p>*Stegastes apicalis</p>
+
+<p>*Stegastes lividus</p>
+
+<p>+Stegastes obreptus*</p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li>Lim, Kelvin K. P. &amp; Jeffrey K. Y. Low, 1998.
+<em><a href="http://habitatnews.nus.edu.sg/guidebooks/marinefish/">A Guide to the Common Marine Fishes of Singapore</a></em>
+. Singapore Science Centre. 163 pp.</li>
+  <li><a href="http://ikanfish.wordpress.com/damselfishes/">Damselfishes</a>
+on Reef Fishes of Singapore by Jeffrey Low.</li>
+  <li>
+    <dl>
+      <dt><a href="http://www.fishbase.org/Summary/FamilySummary.cfm?ID=350">Family Pomacentridae</a></dt>
+      <dt>from</dt>
+      <dt><a href="http://www.fishbase.org/">FishBase</a></dt>
+      <dd>Technical fact sheet on the family with fact sheets on many members of the family.</dd>
+    </dl>
+  </li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Daisuke Taira. 30 October 2020.
+<em>A goldtail damselfish, Chrysiptera parasema, at Pulau Hantu</em>
+. Singapore Biodiversity Records 2020: 170. The National University of Singapore.</li>
+  <li>Daisuke Taira &amp; Amanda Rouwen Hsiung. 31 August 2020.
+<em>The silty damselfish, Pomacentrus cheraphilus, in Singapore</em>
+. Singapore Biodiversity Records 2020: 119-120 ISSN 2345-7597</li>
+  <li>Daisuke Taira. 22 January 2020.
+<em>The blueback damselfish, Pomacentrus simsiang, in Singapore</em>
+. Jovena Chun Ling Seah &amp; Aaron Teo, Singapore Biodiversity Records 2020: 1 ISSN 2345-7597, National University of Singapore</li>
+  <li>Jeffrey K. Y. Low.
+<em>Staghorn damselfish in the Singapore Strait</em>
+. 21 December 2018. Singapore Biodiversity Records 2018: 134 ISSN 2345-7597. National University of Singapore.</li>
+  <li>Daisuke Taira.
+<em>White damselfish in the Singapore Strait</em>
+. 31 October 2018. Singapore Biodiversity Records 2018: 118 ISSN 2345-7597. National University of Singapore.</li>
+  <li>Daisuke Taira.
+<em>A Singapore record of the yellowtail sergeant, Abudefduf notatus</em>
+. 31 October 2018. Singapore Biodiversity Records 2018: 115 ISSN 2345-7597. National University of Singapore.</li>
+  <li>Jeffrey K. Y. Low.
+<em>Three species of sergeant damselfishes off Pulau Satumu</em>
+. 30 November 2017. Singapore Biodiversity Records 2017: 167-168 ISSN 2345-7597. National University of Singapore.</li>
+  <li>Daisuke Taira. 30 Jun 2017.
+<em>Western gregory, Stegastes obreptus, at Sultan Shoal</em>
+. Singapore Biodiversity Records 2017: 75.</li>
+  <li>Tan Heok Hui &amp; Kelvin K. P. Lim. 30 Jun 2017.
+<em>Regal demoiselles, Neopomacentrus cyanomos, in Sisters Islands Marine Park</em>
+. Singapore Biodiversity Records 2017: 76.</li>
+  <li>Jeffrey K. Y. Low . 30 Sep 2016.
+<em>Behn’s damselfish in the Singapore Strait. Neoglyphidodon nigroris</em>
+. Singapore Biodiversity Records 2016: 119.</li>
+  <li>Jeffrey K. Y. Low. 30 June 2016.
+<em>New record of reticulated dascyllus in Singapore</em>
+<em>Dascyllus reticulatus</em>
+(Teleostei: Pomacentridae). Singapore Biodiversity Records 2016: 77.</li>
+  <li>Jeffrey K. Y. Low. 21 August 2015.
+<em>Smoky damselfish off Pulau Satumu</em>
+. Singapore Biodiversity Records 2015: 115</li>
+  <li>Kelvin K. P. Lim. 8 August 014.
+<em>Silver demoiselle in the Singapore Straits, Neopomacentrus anabatoides.</em>
+Singapore Biodiversity Records 2014: 216.</li>
+  <li>Toh Chay Hoon. 11 April 2014.
+<em>Spawn of the saddleback anemonefish</em>
+. Singapore Biodiversity Records 2014: 96</li>
+  <li>Toh Chay Hoon &amp; Kelvin K. P. Lim . 14 March 2014.
+<em>Aggregation of two species of demoiselle fishes at Pulau Hantu</em>
+. Singapore Biodiversity Records 2014: 7</li>
+  <li>Jeffrey K. Y. Low. 2013.
+<em>More noteworthy fishes observed in the Singapore Straits</em>
+. Nature in Singapore, 6: 31–37.</li>
+  <li>Jeffrey Low J.K.Y., Randall, J.E. and Chou, L.M.
+<em>New localities for the wedge-spot damselfish, Pomacentrus cuneatus Allen, 1991 (Teleostei: Pomacentridae) in Southeast Asia</em>
+. Raffles Bulletin of Zoology 43(1):45-50.</li>
+  <li>Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+. National Council on the Environment. 163pp.</li>
+  <li>Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+<em>The Singapore Red Data Book: Threatened plants and animals of Singapore</em>
+. Nature Society (Singapore). 285 pp.</li>
+  <li>Allen, Gerry, 2000.
+<em>Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers</em>
+. Periplus Editions. 292 pp.</li>
+  <li>Kuiter, Rudie H. 2002.
+<em>Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers &amp; Fishermen</em>
+New Holland Publishers. 434pp.</li>
+  <li>Lieske, Ewald and Robert Myers. 2001.
+<em>Coral Reef Fishes of the World</em>
+Periplus Editions. 400pp.</li>
+  <li>Lim, S., P. Ng, L. Tan, &amp; W. Y. Chin, 1994.
+<em>Rhythm of the Sea: The Life and Times of Labrador Beach</em>
+. Division of Biology, School of Science, Nanyang Technological University &amp; Department of Zoology, the National University of Singapore. 160 pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

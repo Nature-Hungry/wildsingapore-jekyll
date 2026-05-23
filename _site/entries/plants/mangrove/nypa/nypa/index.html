@@ -1,0 +1,420 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Nipah     palm  | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="nypa, fruticans, nipah, palm,  mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/nypa/nypa/090124ubnd5977m6.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Tracheophyta">Tracheophyta</a>
+                    > 
+                    <a href="/Tracheophyta/Liliopsida">Liliopsida</a>
+                    > 
+                    <a href="/Tracheophyta/Liliopsida/Arecales">Arecales</a>
+                    >
+                    <a href="/Tracheophyta/Liliopsida/Arecales/"></a>
+                    >
+                    <a href="/Tracheophyta/Liliopsida/Arecales//Arecaceae">Arecaceae</a>
+                </p>
+                <h1>Nipah     palm </h1>
+                
+                    <p class="scientific-name">Nypa fruticans</p>
+                
+
+                <p><em>Updated Jan 2013</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This palm that seems to lack a trunk is sometimes seen in our mangroves. In some places, they form huge stands, in others, they occur in small clumps. In the past, it was found in tidal rivers often forming large colonies. It is generally found in calm estuaries and shallow lagoons with permanent and high inflows of freshwater. It does not occur on shores exposed to waves or in areas with high salinity, and is also not found far beyond the intertidal influence.</p>
+
+<h2 id="features">Features</h2>
+
+<p>Palm-shaped leaves very long (5-9m). The base of the frond is filled with air so it can remain upright even when submerged. The ‘stem’ of this palm is mostly horizontal and even underground. Thus called the rhizome, this is very stout (up to 70cm in diameter), creeping in mud, with diagonal leaf scars. The portion of the stem that is vertical is very short. Shoots emerge along the stem, each bearing the long leaves. Pure stands of these palms often appear because of their growth habit from underground stems. The massive, dense underground stem and root system can resist swift running water better than most other mangrove species.</p>
+
+<p>Flowers appear on a long stalk (1m), as an inflorescence. Female flowers are encased in bracts and resemble a cone. Male flowers appear as a long spike and when ripe is golden yellow with sticky pollen.
+<em>Drosophila</em>
+flies appear to be the agent of pollination. According to Tomlinson, two kinds of insects visit the flowers “in significant numbers”: small bees of the genus
+<em>Trigona</em>
+and small flies of the Family Drosophilidae. Bees may not be important pollinators as they only visit the male flowers and not the female flowers. The small flies, however, visit both kinds of flowers and appear to complete their lifecycle in the branches of the male inflorescence.</p>
+
+<p>Fruits are chestnut brown, in cluster forming a globular shape (20-25cm). Each fruit bears one seed which starts to germinate while still on the parent palm and just when the fruits drop off, the seedling is already starting to pierce through the husk of the fruit. The fruits are fibrous and air cavities in the seed coat and fruit coat help keep the seedling afloat.</p>
+
+<p><strong>Human uses:</strong>
+The Nipah palm is among the more commercially valuable plants of the mangroves. The leaves are used as thatch for ‘attap’ huts, the immature seed (endosperm) is harvested as a jellylike sweetmeat called ‘attap-chee’ and is a favourite in local desserts. The sap is extracted from the inflorescence and when fermented, is called ‘toddy’, a local alcoholic drink. The
+<a href="../../../vertebrates/mammals/hermaphroditus.md">Common palm civet</a>
+(
+<em>Paradoxurus hermaphroditus</em>
+) is known to ‘steal’ a drink of the sap. This civet is thus also known as the Toddycat.</p>
+
+<p>According to Burkill, the leaves are used for roofing as is, or “a more skilful use of the leaves” is to produce attap: drying the leaves, folding them over a rod and stitching them in place to form shingles called ‘attap’. These shingles are used for roofing as well as the sides of houses and can last for 5 years or more. The leaves are also used to make umbrellas, sunhats, raincoats, baskets, mats and bags. Young leaves are made into cigarette-wrappers.</p>
+
+<p>Burkill describes the tapping process: A palm is fit to tap at 5 years of age or after its second flowering. When the fruit is forming, the stalk carrying it is beaten with a wooden mallet. After being bruised daily for a week, the stalk is tapped for its sap and the flow maintained by daily shaving off from the stump of the inflorescence. It is accepted that tapping over 50 years is possible. The sap ferments into alcohol, toddy, almost immediately as “bacteria of fermentation is in abundance” in the containers used to collect the sap. Nipah suger is not much made in Malaya because it contains “too much of a treacly substance that is difficult to eliminate”. Toddy left to stand becomes vinegar in a fortnight, which is used to bleach Nipah leaves for the hat and mat industry.</p>
+
+<p><strong>Status and threats:</strong>
+It is listed as ‘Vulnerable’ in the Red List of threatened plants of Singapore. According to Davison, most of the localities where this palm is found is not in protected areas, so there is the danger of development wiping out populations. Only populations at Sungei Buloh, Pulau Ubin and Pulau Tekong are protected.</p>
+
+<p><img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/nypa/nypa/090124ubnd5977m6.jpg" alt="" /></p>
+
+<p>*Pulau Ubin, Jan 09</p>
+
+<p><img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/nypa/nypa/090418admd0248m6la.jpg" alt="" />*
+Ball-shaped female flower with</p>
+
+<p>long yellow spikes of male flowers.
+*Admiralty Park, Apr 09</p>
+
+<p><img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/nypa/nypa/090124ubnd5971m3.jpg" alt="" />*
+Growing fruit.
+<em>Chek Jawa, Feb 09</em></p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/nypa/nypa/100110cjd7870m6lb.jpg" alt="" />
+        <div class="caption">
+        Underground stem. Pulau Ubin, Jan 10
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/nypa/nypa/070422cjg8991m3.jpg" alt="" />
+        <div class="caption">
+        Fruits, most have fallen off. Chek Jawa, Apr 07
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/nypa/nypa/030719cjad0005m3.jpg" alt="" />
+        <div class="caption">
+        Female flowering cone. Chek Jawa, Jul 03
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/nypa/nypa/020224cjcpd6961m3.jpg" alt="" />
+        <div class="caption">
+        Attap chee. Chek Jawa, Feb 02
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/nypa/nypa/020116cjcpd5051m3.jpg" alt="" />
+        <div class="caption">
+        Growing fruit. Chek Jawa, Nov 02
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/nypa/nypa/090418admd0239m3.jpg" alt="" />
+        <div class="caption">
+        Male flowers with pollinators. Admiralty Park, Apr 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/nypa/nypa/090418admd0234m3.jpg" alt="" />
+        <div class="caption">
+        Male flowers with pollinators. Admiralty Park, Apr 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/nypa/nypa/090418admd0277m3.jpg" alt="" />
+        <div class="caption">
+        Male flowers with pollinators. Admiralty Park, Apr 09
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Nipah palms on Singapore shores</strong></p>
+
+<hr />
+
+<p>Photos of
+<a href="https://www.flickr.com/search/?q=Nypa+fruticans&amp;w=54527470%40N00&amp;s=rec">Nipah palms</a>
+for free download from
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<hr />
+
+<p>Distribution in Singapore on
+<a href="https://www.flickr.com/photos/wildsingapore/tags/Nypa%2520fruticans/map?&amp;fLat=1.2629&amp;fLon=103.8661&amp;zl=11&amp;order_by=recent">this wildsingapore flickr map</a></p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><em><a href="http://floraofsingapore.wordpress.com/2010/03/14/nypa-fruticans/">Nypa fruticans</a></em>
+on Total Vascular Flora of Singapore Online: photos and fact sheet.</li>
+  <li><em><a href="https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2658">Nypa fruticans</a></em>
+on the NParks Flora and Fauna website: photos and fact sheet.</li>
+  <li><a href="https://singapore.biodiversity.online/taxo4254/mainSpace/Nypa%20fruticans.html"><em>Nypa fruticans</em></a>
+(Arecales: Arecaceae) Nipah Palm by Erika I. Halim, 2013 on taxo4254.</li>
+  <li><a href="http://mangrove.nus.edu.sg/guidebooks/text/1068.md">Nipah (
+<em>Nypa fruticans</em>
+)</a>
+Ng, Peter K. L. &amp; N. Sivasothi, 1999.
+<em><a href="http://mangrove.nus.edu.sg/guidebooks/">A Guide to the Mangroves of Singapore</a>
+I (Plant Diversity)</em>
+. Singapore Science Centre. 168 pp.</li>
+  <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/109.md">Nipah or Attap Palm (
+<em>Nypa fruticans</em>
+)</a>
+Tan, Leo W. H. &amp; Ng, Peter K. L., 1988.
+<em><a href="http://mangrove.nus.edu.sg/pub/seashore/">A Guide to Seashore Life</a></em>
+. The Singapore Science Centre, Singapore. 160 pp.</li>
+  <li>Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+<a href="http://www.fao.org/docrep/010/ag132e/ag132e00.md"><em>Mangrove Guidebook for Southeast Asia</em></a>
+(PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Teo, S., W. F. Ang, A. F. S. L. Lok, B. R. Kurukulasuriya &amp; H. T. W. Tan, 2010.
+<a href="http://rmbr.nus.edu.sg/nis/bulletin2010/2010nis045-052.pdf">The status and distribution of the nipah palm, Nypa fruticans Wurmb (Arecaceae), in Singapore</a>
+. Nature in Singapore, 3: 45-52.</li>
+  <li>Hsuan Keng, S.C. Chin and H. T. W. Tan.1998,
+<em>The Concise Flora of Singapore II: Monoctyledons</em>
+Singapore University Press. 215 pp.</li>
+  <li>Tomlinson, P. B., 1986.
+<em>The Botany of Mangroves</em>
+Cambridge University Press. USA. 419 pp.</li>
+  <li>Burkill, I. H., 1993.
+<em>A Dictionary of the Economic Products of the Malay Peninsula</em>
+. 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.</li>
+  <li>Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+<em>The Singapore Red Data Book: Threatened plants and animals of Singapore</em>
+. Nature Society (Singapore). 285 pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

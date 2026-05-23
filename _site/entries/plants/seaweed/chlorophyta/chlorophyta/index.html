@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Green seaweed  | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="green, seaweed, weed, algae, chlorophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="../../../../Templates/fornatureguides.gif" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/"></a>
+                    > 
+                    <a href="//"></a>
+                    > 
+                    <a href="///"></a>
+                    >
+                    <a href="////"></a>
+                    >
+                    <a href="/////"></a>
+                </p>
+                <h1>Green seaweed </h1>
+                
+                    <p class="scientific-name">Kingdom Animalia</p>
+                
+
+                <p><em>Updated Aug 08</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about them ... Some kinds of green seaweeds are often mistaken for seagrasses. Many small animals eat green seaweeds. 'Carpets' of green seaweed may form on the shores. These may shelter small animals. Please avoid stepping on the carpet.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        Some kinds of green seaweeds are often mistaken for seagrasses. Many small animals eat green seaweeds. 'Carpets' of green seaweed may form on the shores. These may shelter small animals. Please avoid stepping on the carpet.
+        </div>
+    </div>
+    
+
+</div>
+
+<h2 id="where-seen">Where seen?</h2>
+<p>Green seaweeds are commonly seen on many of our shores. Some grow on boulders, coral rubble and other hard surfaces. Others are found entwined around seagrasses.</p>
+
+<p>Like other seaweeds, some green seaweeds are seasonal (such as
+<a href="ulva.md">sea lettuce</a>
+,
+<em>Ulva</em>
+sp. or the
+<a href="bryopsis.md">hairy green seaweed</a>
+,
+<em>Bryopsis</em>
+sp.). Sometimes one kind of seaweed can be so abundant that it blankets vast areas of a shore in a green carpet. A few weeks later, the shore may be bare of this seaweed.</p>
+
+<h2 id="features">Features</h2>
+
+<p>Green seaweeds are, well, green! They may be grass-green or slightly greyish, but they are seldom yellowish as some red and brown seaweeds are. Green seaweeds have similar chlorophyll pigments as those found in land plants. In fact, it is widely believed that land plants arose from green algae.</p>
+
+<p>Green algae are found in most habitats, not just in the sea. There are about 8,000 species ranging from microscopic algae (some of which may be growing on your bathroom walls right now) to delicate freshwater weeds found in rivers and lakes, and the large green seaweeds in the sea.</p>
+
+<p>Green seaweeds come in a wide range of shapes: translucent bubbles, flat sheets, hard flattened coins, bunches of long thin filaments, bunches of grapes, branched furry stems, coiled strips and more!</p>
+
+<p><strong>Sometimes confused with</strong>
+<a href="../../seagrass/seagrass.md">seagrasses</a>
+. Some feathery green seaweeds are also confused for one another. Here’s more on how to tell apart
+<a href="cfgrapes.md">green seaweeds that look like grapes</a>
+, and
+<a href="cffeathery.md">different feathery green seaweeds</a>
+and
+<a href="../../../glossary/seagrassweed.md">feathery green seaweeds and seagrasses</a>
+.</p>
+
+<p><strong>Human uses:</strong>
+Many green seaweeds are eaten directly by people. In the Philippines,
+<a href="lentillifera.md">sea grapes</a>
+(
+<em>Caulerpa lentillifera</em>
+) is cultivated as food and sold fresh or salted. Some species are used as feritilisers and additives in animal feed (poultry, cattle, fish).</p>
+
+<p>Unlike
+<a href="../phaeophyta/phaeophyta.md">brown seaweeds</a>
+and
+<a href="../rhodophyta/rhodophyta.md">red seaweeds</a>
+, green seaweeds are not a major source of extracts used commercially.</p>
+
+<p><strong>Role in the habitat:</strong>
+Like other seaweeds, green seaweeds provide food and shelter for a wide range of marine animals.</p>
+
+<p>Some of the animals that eat green seaweeds look like the seaweeds! Those commonly seen include the
+<a href="../../../mollusca/slugs/sacoglossa/ornata.md">Ornate leaf slug</a>
+(
+<em>Elysia ornata</em>
+) and a tiny hairy
+<a href="../../../mollusca/slugs/sacoglossa/bryopsis.md">Bryopsis slug</a>
+that is still awaiting identification and is often seen on the
+<a href="bryopsis.md">Hairy green seaweed</a>
+(
+<em>Bryopsis</em>
+sp.) and the tiny
+<a href="../../../mollusca/slugs/sacoglossa/pusilla.md">Halimeda slug</a>
+(
+<em>Pusilla</em>
+sp.) often seen on
+<a href="halbig.md">Big coin green seaweed</a>
+(
+<em>Halimeda</em>
+sp.)</p>
+
+<p>During a seaweed ‘bloom’ there can be a corresponding explosion in the number and variety of animals that eat that particular seaweed. As well as the predators that eat the seaweed-eaters.</p>
+
+<p><img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/others/070714bbd3887m3a.jpg" alt="" /></p>
+
+<p>Three different kinds of green seaweeds</p>
+
+<p><em>Beting Bronok, Jul 07</em></p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/041116labd8420m2a.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/ulva/050426cftd2804m.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/050621skdg7924ma.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/neomeris/031029sntad0038m.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boergesenia/041019labd7671m.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/040605kusbd0026m.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/dictyosphaeria/040507rflbd0153m.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/050528kusg7058m.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrerecta/040703sisd1798m.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bryopsis/040919sntd7088m.jpg" alt="" />
+        <div class="caption">
+        
+        </div>
+    </div>
+    
+
+</div>
+<p><img src="http://www.wildsingapore.com/mollusca/slugs/sacoglossa/bryopsis/031127sntbd0032m3.jpg" alt="" /></p>
+
+<p>This slug looks exactly like the</p>
+
+<p>green seaweed that it probably feeds on
+<em>Sentosa, Nov 03</em></p>
+
+<hr />
+
+<p><strong>Division Chlorophyta on Singapore shores</strong></p>
+
+<p><a href="../seaweedindex.md">text index</a>
+and
+<a href="../seaweedfi.md">photo index</a>
+of green seaweeds on this site</p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://mangrove.nus.edu.sg/pub/seashore/flora.md">Algae</a>
+Tan, Leo W. H. &amp; Ng, Peter K. L., 1988.
+<em><a href="http://mangrove.nus.edu.sg/pub/seashore/">A Guide to Seashore Life</a></em>
+. The Singapore Science Centre, Singapore. 160 pp.</li>
+  <li><a href="http://mangrove.nus.edu.sg/guidebooks/text/1032.md">Algae</a>
+Ng, Peter K. L. &amp; N. Sivasothi, 1999.
+<em><a href="http://mangrove.nus.edu.sg/guidebooks/">A Guide to the Mangroves of Singapore I (Plant Diversity)</a></em>
+. Singapore Science Centre. 168 pp.
+<a href="http://mangrove.nus.edu.sg/guidebooks/text/1032.md">http://mangrove.nus.edu.sg/guidebooks/text/1032.htm</a></li>
+  <li>
+    <dl>
+      <dt><a href="http://www.algaebase.org/">AlgaeBase</a></dt>
+      <dd>Technical fact sheet.</dd>
+    </dl>
+  </li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
+<em>A photographic guide to the marine algae of Singapore</em>
+, 2015. Tropical Marine Science Institute, 201 pp.</li>
+  <li>Pham, M. N., H. T. W. Tan, S. Mitrovic &amp; H. H. T. Yeo, 2011.
+<a href="http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf"><em>A Checklist of the Algae of Singapore</em></a>
+, 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore, Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].</li>
+  <li>A. C. Lee, Lawrence M. Liao and K. S. Tan.
+<a href="http://lkcnhm.nus.edu.sg/rbz/biblio/s22/s22rbz005-040.pdf"><em>New records of marine algae on artificial structures and intertidal flats in coastal waters of Singapore</em></a>
+. Pp. 5-40. in the Raffles Bulletin of Zoology.</li>
+  <li>Lim, S., P. Ng, L. Tan, &amp; W. Y. Chin, 1994.
+<em>Rhythm of the Sea: The Life and Times of Labrador Beach</em>
+. Division of Biology, School of Science, Nanyang Technological University &amp; Department of Zoology, the National University of Singapore. 160 pp.</li>
+  <li>Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+. National Council on the Environment. 163pp.</li>
+  <li>Huisman, John M. 2000.
+<em>Marine Plants of Australia</em>
+University of Western Australia Press. 300pp.</li>
+  <li>Calumpong, H. P. &amp; Menez, E. G., 1997.
+<em>Field Guide to the Common Mangroves, Seagrasses and Algae of the Philippines</em>
+. Bookmark, Inc., the Philippines. 197 pp.</li>
+  <li>Trono, Gavino. C. Jr., 1997.
+<em>Field Guide and Atlas of the Seaweed Resources of the Philippines.</em>
+. Bookmark, Inc., the Philippines. 306 pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

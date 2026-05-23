@@ -34,3 +34,6 @@ collections:
   entries:
     output: true
     permalink: /:collection/:path/
+
+exclude:
+- "*.py"

@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Asparagus flowery soft coral | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="asparagus, flower, nephthea, nephtheidae, alcyonacea, soft, coral, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/040411hntd0107m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Cnidaria">Cnidaria</a>
+                    > 
+                    <a href="/Cnidaria/Anthozoa">Anthozoa</a>
+                    > 
+                    <a href="/Cnidaria/Anthozoa/Malacalcyonacea">Malacalcyonacea</a>
+                    >
+                    <a href="/Cnidaria/Anthozoa/Malacalcyonacea/"></a>
+                    >
+                    <a href="/Cnidaria/Anthozoa/Malacalcyonacea//Nephtheidae">Nephtheidae</a>
+                </p>
+                <h1>Asparagus flowery soft coral</h1>
+                
+                    <p class="scientific-name">Nephthea sp.</p>
+                
+
+                <p><em>Updated Nov 2019</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This large purplish flowery soft coral is commonly seen on our Southern shores. When out of water with the polyps retracted, the tips of this soft coral looks like asparagus spears. Usually among living hard corals on the reef flats.</p>
+
+<h2 id="features">Features</h2>
+
+<p>Colony bushy 15-20cm to 50cm. Colony is branched with thick study ‘stems’ emerging from a stout central ‘trunk’. The ‘stems’ may be white, lilac or purple. Polyps tiny (about 0.5cm) with eight beige or brown branched tentacles. The polyps appear in clusters only at the tips of the branches, the rest of the colony smooth. No obvious large spikes among the polyps. When the polyp tentacles are retracted, the body column forms little lumps, the entire colony may appear purplish or lilac, and the rounded lumps give the ‘stems’ the appearance of asparagus spears. With the polyps tentacles expanded, the colony appears brown and fluffy. The animals harbour symbiotic algae (zooxanthellae) and thus can be found in clearer water.</p>
+
+<p><strong>Sometimes confused with</strong>
+<a href="nepsmooth.md">Smooth flowery soft corals</a>
+(
+<em>Litophyton</em>
+sp.). It may also resemble the
+<a href="../actiniaria/actinodendron.md">Fire anemone</a>
+which, unlike the soft coral, has white stripes radiating from the centre of the oral disk.</p>
+
+<p><strong>Flowery friends:</strong>
+Sometimes, tiny transparent
+<a href="../../crustacea/othercrust/shrimp/rednose.md">red nose shrimps</a>
+and
+<a href="../../echinodermata/ophiuroidea/tinycolourful.md">tiny colourful brittle stars</a>
+can be seen on this soft coral.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/040411hntd0107m3.jpg" alt="" />
+        <div class="caption">
+        Brown when tentacles are expanded, purple when tentacles are retracted. Pulau Hantu, Apr 04
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/040605kusg0314m3.jpg" alt="" />
+        <div class="caption">
+        Sometimes mistaken for a Fire anemone . Kusu Island, Jun 04
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/190522tsmkm3.jpg" alt="" />
+        <div class="caption">
+        Pastel colours suggest a stressed colony. Terumbu Semakau, May 19
+        </div>
+    </div>
+    
+
+</div>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/070304hntg7943m3d.jpg" alt="" />
+        <div class="caption">
+        Expanded tentacles and contracted tentacles. Pulau Hantu,Mar 07
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/110802smkd8178m3a.jpg" alt="" />
+        <div class="caption">
+        Eight brown branched tentacles. Pulau Semakau, Aug 11
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/060130hntg4317m3e.jpg" alt="" />
+        <div class="caption">
+        Tentacles retracted, body column forms lumps. No spikes among the polyps. Pulau Hantu, Jan 06
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/echinodermata/ophiuroidea/tinyorange/250515tpt1a.jpg" alt="" />
+        <div class="caption">
+        Terumbu Pempang Tengah, May 25 With tiny orange brittle stars .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/070322cyrd9116m3.jpg" alt="" />
+        <div class="caption">
+        Cyrene Reef, Mar 07 With tiny orange brittle stars .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/070812sisg1977m3.jpg" alt="" />
+        <div class="caption">
+        Sisters Island, Aug 07 Tiny transparent shrimp .
+        </div>
+    </div>
+    
+
+</div>
+<p><em>*ID awaits confirmation. Species are difficult to positively identify without close examination.</em>
+<em>On this website, they are grouped by external features for convenience of display</em>
+.</p>
+
+<hr />
+
+<p><strong>Asparagus flowery soft corals on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470@N00&amp;sort=date-posted-desc&amp;view_all=1&amp;text=Nephthea sp.">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/nephthea/map?&amp;fLat=1.2629&amp;fLon=103.8661&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/110220lazrl3m3.jpg" alt="" />
+        <div class="caption">
+        Lazarus Island, Feb 11 Photo shared by Russel Low on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/100530tbkd4214m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Berkas, May 10
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/100131slud8797m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Salu, Jan 10
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/100130brkd8478m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Berkas, Jan 10
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/100811slud0064m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Salu, Aug 10
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/091205sudlks9m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Sudong, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/091205pawlks7m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Pawai, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/100601slud4723m3.jpg" alt="" />
+        <div class="caption">
+        Bleaching. Terumbu Salu, Jun 10
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li>
+    <dl>
+      <dt><a href="http://species-identification.org/species.php?species_group=corals&amp;selected=beschrijving&amp;menuentry=groepen&amp;record=Nephthea"><em>Nephthea</em></a></dt>
+      <dt>on</dt>
+      <dt><a href="http://species-identification.org/species.php?species_group=corals&amp;menuentry=inleiding">Reef Corals of the Indo-Malayan Seas</a></dt>
+      <dt>on the</dt>
+      <dt><a href="http://species-identification.org/index.php">Marine Species Identification Portal</a></dt>
+      <dd>Technical fact sheet and photos.</dd>
+    </dl>
+  </li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Fabricius, Katharina and Philip Alderslade, 2001.
+<em>Soft Corals and Sea Fans</em>
+. Australian Institute of Marine Science and the Museum and Art Gallery of the Northern Territoriy. 264 pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

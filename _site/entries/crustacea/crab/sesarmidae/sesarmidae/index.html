@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Sesarmid crabs  | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="sesarmid, crab, sesarmidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/030928sbwad0054m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Arthropoda">Arthropoda</a>
+                    > 
+                    <a href="/Arthropoda/Malacostraca">Malacostraca</a>
+                    > 
+                    <a href="/Arthropoda/Malacostraca/Decapoda">Decapoda</a>
+                    >
+                    <a href="/Arthropoda/Malacostraca/Decapoda/Pleocyemata">Pleocyemata</a>
+                    >
+                    <a href="/Arthropoda/Malacostraca/Decapoda/Pleocyemata/Sesarmidae">Sesarmidae</a>
+                </p>
+                <h1>Sesarmid crabs </h1>
+                
+                    <p class="scientific-name">Family Sesarmidae</p>
+                
+
+                <p><em>Updated Dec 2019</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about them ... These crabs have long legs with pointy tips to cling to and scramble over hard surfaces. They have a flat body to slip through narrow crevices. They are very shy and disappear at the slightest sign of trouble.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        These crabs have long legs with pointy tips to cling to and scramble over hard surfaces. They have a flat body to slip through narrow crevices. They are very shy and disappear at the slightest sign of trouble.
+        </div>
+    </div>
+    
+
+</div>
+
+<h2 id="where-seen">Where seen?</h2>
+<p>Small sesarmid crabs are commonly seen in our mangroves, especially at night. There are as many as 40 species of these crabs in our mangroves. They are often hard to spot as they are well camouflaged, although some may have colourful markings. They are more active at night.</p>
+
+<h2 id="features">Features</h2>
+
+<p>Body width 4-6cm. Sesarmid crabs are adapted for scrambling over slippery surfaces. They have well-developed hooks on the tips of their long legs that grip these surfaces. Their bodies and legs are flattened, allowing them to squeeze deep into narrow cracks and crevices. In some species, males have larger pincers than females. Many can stay out of the water for some time.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/030928sbwad0054m3.jpg" alt="" />
+        <div class="caption">
+        About to munch on flowers? Sungei Buloh Wetland Reserve, Sep 03
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/brockii/060627krjd3636m3.jpg" alt="" />
+        <div class="caption">
+        This mama crab was carrying lots of eggs! Kranji, Jun 06
+        </div>
+    </div>
+    
+
+</div>
+<p><strong>Role in the habitat:</strong>
+By feeding on mangrove leaves, these crabs recycle nutrients in the mangrove forest. Quickly breaking down the leaves for others in the food chain to eat, e.g., animals that eat the fragments left over by the crabs, what comes out of the crab after it eats the leaves, and of course, the crab itself!</p>
+
+<p><strong>Status and threats:</strong>
+Some of our Sesarmid crabs are listed among the threatened animals of Singapore.
+Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors can also affect local populations.</p>
+
+<hr />
+
+<p><strong>Some Sesarmid crabs on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/brockii/031128sbwrad0071m3.jpg" alt="" />
+        <div class="caption">
+        Mangrove tree-dwelling crab
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/031213sbwrd0047m3.jpg" alt="" />
+        <div class="caption">
+        Tree climbing crab
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/100425kntd1687m3a.jpg" alt="" />
+        <div class="caption">
+        Face-banded sesarmine crab
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/sarmatium/110205krjd5938m3.jpg" alt="" />
+        <div class="caption">
+        Mound crab
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Family Sesarmidae recorded for Singapore</strong>
+from Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em></p>
+
+<p>+from The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.</p>
+
+<p><em>*Ng, Peter K. L. &amp; N. Sivasothi, 1999.
+*A Guide to the Mangroves of Singapore II (Animal Diversity)</em>
+.</p>
+
+<p>in red are those listed among the threatened animals of Singapore
+from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+<em>The Singapore Red Data Book: Threatened plants and animals of Singapore</em>
+.
+**
+^from
+<a href="http://www.marinespecies.org/">WORMS</a>
+**</p>
+
+<p><strong>Family Sesarmidae</strong>
+(previously Grapsidae)</p>
+
+<p><em>Bresedium sedilense</em>
+*Clistocoeloma lanatum</p>
+
+<p>Clistocoeloma merguiense*</p>
+
+<p>+
+<em>Clistocoeloma villosum</em></p>
+
+<hr />
+<p><a href="episesarma.md"><em>Episesarma</em>
+sp.</a>
+<strong>tree climbing crabs</strong>
+*with list of species recorded for Singapore</p>
+
+<p>+Fasciarma fasciatum</p>
+
+<p>Geosesarma clavicrure</p>
+
+<p>Geosesarma nemesis*
+(EN: Endangered)
+<em>Geosesarma peraccae</em>
+(VU: Vulnerable)
+<em>Haberma nanum</em>
+(VU: Vulnerable)
+*Labuanium politum</p>
+
+<p>+Lithoselatium kusu*
+(Kusu rock crab)
+<em>Nanosesarma</em>
+spp. (Dwarf sesarmine crabs)
+*^Nanosesarma (Beanium) batavicum=^Nanosesarma batavicum</p>
+
+<p>^Nanosesarma (Beanium) edamensis=^Nanosesarma edamense</p>
+
+<p>Nanosesarma minutum</p>
+
+<p>^Nanosesarma (Beanium) nunongi=^Nanosesarma nunongi</p>
+
+<p>Nanosesarma pontianacense</p>
+
+<p>Neosesarma gemmiferum</p>
+
+<p>Nanosesarmatium smithi=^Neosarmatium smithi</p>
+
+<p>+Parasesarma eumolpe</p>
+
+<p>+Parasesarma rutilimanum</p>
+
+<p>Perisesarma bidens</p>
+
+<p>Perisesarma dussumieri</p>
+
+<p>Perisesarma/Chiromantes eumolpe=^Perisesarma eumolpe*
+(
+<a href="perisesarma.md">Face-banded sesarmine crabs</a>
+)
+*+Perisesarma fasciatum</p>
+
+<p>Perisesarma indiarum*
+(
+<a href="perisesarma.md">Face-banded sesarmine crabs</a>
+)
+*+Perisesarma cf. lenzii</p>
+
+<p>Perisesarma onychophorum</p>
+
+<p>Perisesarma semperi</p>
+
+<p>+Pseudosesarma bocourti</p>
+
+<p>+Pseudosesarma edwardsi*
+**
+<a href="sarmatium.md">Sarmatium germaini</a>*
+(Mound crab) (EN: Endangered)
+*Sarmatium striaticarpus</p>
+
+<p><a href="brockii.md">Selatium brockii</a>*
+(Mangrove tree-dwelling crabs)</p>
+
+<p><em>Sesarmoides borneensis</em>
+(EN: Endangered)</p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://mangrove.nus.edu.sg/guidebooks/text/2048.md">Sesarmine crabs</a>
+,
+<a href="http://mangrove.nus.edu.sg/guidebooks/text/2049.md">Tree-climbing/Vinegar crabs (
+<em>Episesarma</em>
+spp.)</a>
+,
+<a href="http://mangrove.nus.edu.sg/guidebooks/text/2050.md">Mangrove tree-dwelling crab (
+<em>Selatium brockii</em>
+)</a>
+, Ng, Peter K. L. &amp; N. Sivasothi, 1999.
+<em><a href="http://mangrove.nus.edu.sg/guidebooks/">A Guide to the Mangroves of Singapore II (Animal Diversity)</a></em>
+. Singapore Science Centre. 168 pp.</li>
+  <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/198.md">Sesarmine Crabs</a>
+;
+<em><a href="http://mangrove.nus.edu.sg/pub/seashore/text/199.md">Selatium brockii</a></em>
+Tan, Leo W. H. &amp; Ng, Peter K. L., 1988.
+<em><a href="http://mangrove.nus.edu.sg/pub/seashore/t">A Guide to Seashore Life</a></em>
+. The Singapore Science Centre, Singapore. 160 pp.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Marcus F. C. Ng. 28 Oct 2016.
+<em>A mangrove crab Perisesarma fasciatum at Pulau Ubin</em>
+. Singapore Biodiversity Records 2016: 156</li>
+  <li>Tan Heok Hui. 5 December 2014.
+<em>Kusu rock crabs at Pulau Senang, Lithoselatium kusu</em>
+. Singapore Biodiversity Records 2014: 320.</li>
+  <li>Lim, S., P. Ng, L. Tan, &amp; W. Y. Chin, 1994.
+<em>Rhythm of the Sea: The Life and Times of Labrador Beach.</em>
+Division of Biology, School of Science, Nanyang Technological University &amp; Department of Zoology, the National University of Singapore. 160 pp.</li>
+  <li>Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+. National Council on the Environment. 163pp.</li>
+  <li>Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+<em>The Singapore Red Data Book: Threatened plants and animals of Singapore</em>
+. Nature Society (Singapore). 285 pp.</li>
+  <li>Jones Diana S. and Gary J. Morgan, 2002.
+<em>A Field Guide to Crustaceans of Australian Waters</em>
+. Reed New Holland. 224 pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Teruntum merah  | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="teruntum, merah, lumnitzera, littorea, combretaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/090816ubind9120m6la.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Tracheophyta">Tracheophyta</a>
+                    > 
+                    <a href="/Tracheophyta/Magnoliopsida">Magnoliopsida</a>
+                    > 
+                    <a href="/Tracheophyta/Magnoliopsida/Myrtales">Myrtales</a>
+                    >
+                    <a href="/Tracheophyta/Magnoliopsida/Myrtales/"></a>
+                    >
+                    <a href="/Tracheophyta/Magnoliopsida/Myrtales//Combretaceae">Combretaceae</a>
+                </p>
+                <h1>Teruntum merah </h1>
+                
+                    <p class="scientific-name">Lumnitzera littorea</p>
+                
+
+                <p><em>Updated Jan 2013</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This pretty plant with plasticky leaves and tiny red flowers is sometimes seen in good mangroves. It is found in the back mangroves, in soft, muddy substrates where tidal inundation is rare. Also along waterways with a permanent and strong input of freshwater. It was formerly called
+<em>L. coccinea</em>
+.</p>
+
+<h2 id="features">Features</h2>
+
+<p>Short shrub to tree up to 25m tall with a trunk 50-65cm in diameter. Bark dark and deeply fissured. Some may have slender knee roots.</p>
+
+<p>Leaves spatula shaped with oval ends (2-8cm), thick and fleshy, arranged in a spiral. There is small gland at the leaf tip that resembles leaf nodules and are believed to contain nitrogen fixing bacteria.</p>
+
+<p>Flowers small (2-3cm) in dense bunches, bright red with five tiny petals (the stamens are much longer than the petals). The flowers are fragrant and produce lots of nectar. According to Tomlinson, this species appears to be predominantly pollinated by birds, especially sunbirds and honey eaters, with bees and wasps as additional visitors.</p>
+
+<p>The small fruits are ribbed, corky and float, and dispersed by water. Each fruit contains one seed.</p>
+
+<p><strong>Sometimes mistaken for</strong>
+<a href="../scyphiphora/hydrophyllacea.md">Chengam</a>
+(
+<em>Scyphiphora hydrophyllacea</em>
+) which has its leaves arranged in a spiral.</p>
+
+<p>According to Giesen, although occurring throughout Malaysia and Indonesia,
+<em>L. littorea</em>
+and
+<em>L. racemosa</em>
+practically exclude each other in habitat and have never been collected in exactly the same stand. The exact cause of this different ecological behaviour is not yet known.</p>
+
+<p><strong>Human uses:</strong>
+According to Burkill, the timber is hard and durable, and thus sought after for marine pilings as well as bridges, wharves, parts of canoes and other household items. There are reports that pier posts made of the tree were still sound after 20-50 years. When first cut it smells of roses. But large-sized timber is rare. It is also used as firewood.</p>
+
+<p><strong>Status and threats:</strong>
+It is listed as ‘Endangered’ on the Red List of threatened plants of Singapore.</p>
+
+<p><img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/090816ubind9120m6la.jpg" alt="" /></p>
+
+<p><em>Pulau Ubin, Aug 09</em>
+<img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/090816ubind9122m3b.jpg" alt="" /></p>
+
+<p>Small gland at the leaf tip.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/090410ubnd9278m3.jpg" alt="" />
+        <div class="caption">
+        Bark deeply fissured. Pulau Ubin, Apr 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/090315smkd8194m3b.jpg" alt="" />
+        <div class="caption">
+        Stamens much longer than petals. Pulau Semakau, Jan 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/090315smkd8194m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau, Jan 09
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/090112smkd4965m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau, Jan 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/091115ubnd4139m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau, Nov 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/081213smkd3025m3a.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau, Dec 12
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Teruntum merah on Singapore shores</strong></p>
+
+<hr />
+
+<p>Photos of
+<a href="https://www.flickr.com/search/?q=Lumnitzera+littorea&amp;w=54527470%40N00&amp;s=rec">Teruntum merah</a>
+for free download from
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<hr />
+
+<p>Distribution in Singapore on
+<a href="https://www.flickr.com/photos/wildsingapore/tags/Lumnitzera%2520littorea/map?&amp;fLat=1.2629&amp;fLon=103.8661&amp;zl=11&amp;order_by=recent">this wildsingapore flickr map</a></p>
+
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://floraofsingapore.wordpress.com/2010/08/14/lumnitzera-littorea/"><em>Lumnitzera littorea</em></a>
+on Total Vascular Flora of Singapore Online: photos and fact sheet.</li>
+  <li><a href="https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3266"><em>Lumnitzera littorea</em></a>
+<a href="https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=6232">https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=6232</a>
+on the NParks Flora and Fauna website: photos and fact sheet.</li>
+  <li><a href="http://mangrove.nus.edu.sg/guidebooks/text/1065.md">Teruntum merah (
+<em>Lumnitzera littorea</em>
+)</a>
+Ng, Peter K. L. &amp; N. Sivasothi, 1999.
+<em><a href="http://mangrove.nus.edu.sg/guidebooks/">A Guide to the Mangroves of Singapore</a>
+I (Plant Diversity)</em>
+. Singapore Science Centre. 168 pp.</li>
+  <li>Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+<a href="http://www.fao.org/docrep/010/ag132e/ag132e00.md"><em>Mangrove Guidebook for Southeast Asia</em></a>
+(PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
+<em>The Concise Flora of Singapore: Gymnosperms and Dicotyledons</em>
+. Singapore University Press. 222 pp.</li>
+  <li>Corners, E. J. H., 1997.
+<em>Wayside Trees of Malaya: in two volumes</em>
+. Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.</li>
+  <li>Tomlinson, P. B., 1986.
+<em>The Botany of Mangroves</em>
+Cambridge University Press. USA. 419 pp.</li>
+  <li>Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+<em>The Singapore Red Data Book: Threatened plants and animals of Singapore</em>
+. Nature Society (Singapore). 285 pp.</li>
+  <li>Ng, Peter K. L. and Wang Luan Keng and Kelvin K. P. Lim, 2008.
+<em>Private Lives: An Expose of Singapore’s Mangroves</em>
+. The Raffles Museum of Biodiversity Research . 249 pp.</li>
+  <li>Burkill, I. H., 1993.
+<em>A Dictionary of the Economic Products of the Malay Peninsula</em>
+. 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

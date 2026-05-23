@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Sunflower mushroom coral | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="white, tip, mushroom, heliofungia, actiniformis, fungiidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/080803smkd8964m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Cnidaria">Cnidaria</a>
+                    > 
+                    <a href="/Cnidaria/Anthozoa">Anthozoa</a>
+                    > 
+                    <a href="/Cnidaria/Anthozoa/Scleractinia">Scleractinia</a>
+                    >
+                    <a href="/Cnidaria/Anthozoa/Scleractinia/"></a>
+                    >
+                    <a href="/Cnidaria/Anthozoa/Scleractinia//Fungiidae">Fungiidae</a>
+                </p>
+                <h1>Sunflower mushroom coral</h1>
+                
+                    <p class="scientific-name">Heliofungia actiniformis</p>
+                
+
+                <p><em>Updated Jan 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This free-living coral with Udon-like tentacles is only commonly seen on some of our undisturbed Southern shores. They are often seen in shallow silty, sandy areas among seagrasses, sometimes wedged among coral rubble. It used to be commonly seen on Beting Bronok in the north. It is the only species in the genus
+<em>Heliofungia</em>
+and is considered among the largest of hard coral polyps.</p>
+
+<h2 id="features">Features</h2>
+
+<p>Circular skeleton 10-20cm in diameter with a flat smooth base (not concave). It is also sometimes called plate coral because its disk-shaped skeleton does resemble a dish. This coral is free-living (is not attached to the surface) as an adult and is a solitary polyp. The skeleton is light and the upper surface has long continuous lines radiating from the single slit-shaped mouth in the centre. These lines have large, rounded ‘teeth’. The tissue covering the upper surface is usually striped.</p>
+
+<p>The tentacles are long, thick and cylindrical (they look like thick ‘udon’ noodles), usually brown but also bluish and even bright green. Usually with white or cream tips that are sometimes inflated to a bulbous tip.</p>
+
+<p><strong>Sometimes mistaken for</strong>
+a sea anemone when its long tentacles obscure the hard skeleton. The hard skeleton immediately identifies it as a hard coral. Here’s more on how to tell apart
+<a href="../../cflargecnidarians.md">large ‘hairy’ cnidarians</a>
+.</p>
+
+<p>The
+<a href="../euphylliidae/glabrescens.md">Torch coral</a>
+(
+<em>Euphyllia glabrescens</em>
+) has tentacles that look similar to the sunflower mushroom coral. But the torch coral and its tentacles are smaller.</p>
+
+<p>When the tentacles are retracted, it resembles
+<a href="fungia.md">Fungia mushroom corals</a>
+but Sunflower mushroom coral can be distinguished by the large, rounded teeth on the skeleton walls.</p>
+
+<p><strong>Status and threats:</strong>
+It is listed as globally Vulnerable
+<a href="http://www.iucnredlist.org/">by the IUCN</a>
+which says that although “this species is widespread and locally common throughout its range, it is heavily to harvested for aquarium trade and has suffered extensive reduction of coral reef habitat due to a combination of threats.”</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/080803smkd8964m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau, Aug 08
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/080803smkd8964m3a.jpg" alt="" />
+        <div class="caption">
+        Large, lobed teeth.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/030619bbd0065m3.jpg" alt="" />
+        <div class="caption">
+        The underside is flat (not concave) Beting Bronok, Jun 03
+        </div>
+    </div>
+    
+
+</div>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/090112smkd5118m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau, Jan 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/080803smkd8966m3.jpg" alt="" />
+        <div class="caption">
+        Young ones attached to a hard surface. Pulau Semakau, Aug 08
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/030802hnted0011m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Hantu, Aug 03
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/060402ulrd1147m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Hantu, Apr 06
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/050310smkd1590m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau, Mar 05
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/080422smkd1455m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau, Apr 08
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Sunflower mushroom corals on Singapore shores</strong></p>
+
+<p>On
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/search/?user_id=54527470@N00&amp;sort=date-posted-desc&amp;view_all=1&amp;text=Heliofungia actiniformis">Photos</a>
+for free download</li>
+  <li><a href="https://www.flickr.com/photos/wildsingapore/tags/heliofungia%252C%2520actiniformis/map?&amp;fLat=1.2955&amp;fLon=103.8764&amp;zl=11&amp;order_by=recent">Map of sightings in Singapore</a></li>
+</ul>
+
+<hr />
+
+<p><strong>Other sightings on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/170402smktch1.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau (North), Apr 17 Photo shared by Toh Chay Hoon on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/2007025smknlks3.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau (North), Jul 20 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/250727smkwlks9.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau West, Jul 25 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/200111smksll4.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau (South), Jan 20 Photo shared by Liz Lim on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/220619tsmtl3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Semakau, Jun 22 Photo shared by Tammy Lim on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/090330trylks2m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Raya, Mar 09 Photo shared by Loh Kok Sheng on his flickr .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/110522bbbjk2m3.jpg" alt="" />
+        <div class="caption">
+        Beting Bemban Besar, May 11 Photo shared by James Koh on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/100130brkd8644m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Berkas, Jan 10
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/220201brkjll2.jpg" alt="" />
+        <div class="caption">
+        Pulau Berkas, Feb 22 Photo shared by Jianlin Liu on facebook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://www.coralsoftheworld.org/page/home/">Corals of the World</a>
+with species factsheets.</li>
+  <li><a href="https://www.iucnredlist.org/">IUCN Red List of Threatened Species</a>
+with species factsheets.</li>
+  <li><a href="http://species-identification.org/species.php?species_group=corals&amp;selected=beschrijving&amp;menuentry=groepen&amp;record=Heliofungia"><em>Heliofungia actiniformis</em></a>
+on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal: Technical factsheet.</li>
+  <li><em><a href="http://www.sealifebase.org/Summary/speciesSummary.php?ID=45862">Heliofungia actiniformis</a></em>
+on SeaLife Base: Technical fact sheets.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Hoeksema, Bert W. and Esther G. L. Koh. 30 Dec 2009.
+<em>Depauration of the mushroom coral fauna (Fungiidae) of Singapore (1860s-2006) in changing reef conditions</em>
+(pdf). Raffles Bulletin of Zoology Supplement No. 22: 91-101.</li>
+  <li>Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
+<em>An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new records</em>
+(pdf). Raffles Bulletin of Zoology Supplement No. 22: 69-80.</li>
+  <li>Veron, Jen. 2000.
+<em>Corals of the World</em>
+Australian Institute of Marine Science, Australia. 3 volumes.</li>
+  <li>Erhardt, Harry and Daniel Knop. 2005.
+<em>Corals: Indo-Pacific Field Guide</em>
+IKAN-Unterwasserachiv, Frankfurt. 305 pp.</li>
+  <li>Borneman, Eric H. 2001.
+<em>Aquarium Corals: Selection, Husbandry and Natural History</em>
+T.F. H Publications. 464 pp</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

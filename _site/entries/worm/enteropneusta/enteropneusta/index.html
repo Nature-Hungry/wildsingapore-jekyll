@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Acorn worms  | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="acorn, worm, enteropneusta, hemichordata, field, guide, seashore, sea, shore, marine, coastal, intertidal, singalpore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/020811cjd0644m3.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/"></a>
+                    > 
+                    <a href="//"></a>
+                    > 
+                    <a href="///"></a>
+                    >
+                    <a href="////"></a>
+                    >
+                    <a href="/////"></a>
+                </p>
+                <h1>Acorn worms </h1>
+                
+                    <p class="scientific-name">Kingdom Animalia</p>
+                
+
+                <p><em>Updated Oct 2016</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        if you learn only 3 things about them ... They are rarely seen above ground. They are advanced worms and play a role in recycling nutrients. They are very delicate. Don't dig them up!
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/photos/bullet.gif" alt="" />
+        <div class="caption">
+        They are rarely seen above ground. They are advanced worms and play a role in recycling nutrients. They are very delicate. Don't dig them up!
+        </div>
+    </div>
+    
+
+</div>
+
+<h2 id="where-seen">Where seen?</h2>
+<p>Evidence of this curious animal is commonly seen on many of our shores. On sand bars, in sandy areas especially near seagrasses. The animal itself is almost never seen above ground. All that most people see is its coiled, grey cast (although many may use a less polite word). Sometimes if you are lucky, you might spot a bit of its backside poking out of the ground as it creates its cast. Acorn worms are delicate and almost certain to disintegrate if they are dug up. So please don’t try to dig them up.</p>
+
+<p><strong>What are acorn worms?</strong>
+Acorn worms are unsegmented
+<a href="../worm.md">worms</a>
+belonging to Phylum Hemichordata. There are about 70 species of acorn worms. They are quite different from the segmented worms that we are more familiar with such as earthworms and
+<a href="../polychaeta/polychaeta.md">bristleworms</a>
+. These belong to Phylum Annelida.</p>
+
+<h2 id="features">Features</h2>
+
+<p>9-45cm long, some reaching over 2m long! They are usually slimy brown or pink worms. Acorn worms are burrowing animals. They live in shallow waters, in mucus-lined burrows in sandy or muddy bottoms. Some just hide under stones and shells.</p>
+
+<p>An acorn worm’s body is made up of three sections: the proboscis, collar and trunk. The proboscis is the front end of the animal. It is short and conical (looking much like an acorn) and is used to collect food and to burrow. The proboscis is connected by a short stalk to the collar. The collar is narrow and contains the mouth.</p>
+
+<p>Most of the acorn worm is made up of a long trunk that has gill slits. Oxygenated water is drawn into through the mouth and expelled through these gill slits. In this way, the acorn worm breathes with part of its gut! ‘Enteropneusta’ means ‘gut breathing’.</p>
+
+<p>The acorn worm’s skin is densely covered with cilia (tiny hairs) and glands which secrete a mucus that covers the body. Some produce a bromide compound that gives them a medicinal smell and might protect them from bacteria and predators.</p>
+
+<p><strong>Worms with gills like fishes?</strong>
+Acorn worms are considered more highly specialised and advanced than other worm-like creatures. They have a complex respiratory and circulatory system with a heart that also functions as a kidney. They have a gill-like structure similar to primitive fish and are thus sometimes considered a link between vertebrates and invertebrates. Their larvae appear similar to those of echinoderms and thus suggest that vertebrates and echinoderms have a common ancestor.</p>
+
+<p><strong>What do they eat?</strong>
+Acorn worms swallow mud and sand and process these for edible bits. At low tide, they stick out their rear ends at the surface and excrete coils of processed sediments. Called the cast, this is all that most people will see of an acorn worm!</p>
+
+<p><strong>Acorn babies:</strong>
+Acorn worms have separate genders that release eggs and sperm into the water for external fertilisation. In some, eggs develop into free-swimming larvae that look very similar to echinoderm larvae. These eventually settle down and change into tiny acorn worms.</p>
+
+<p><em><img src="http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/020811cjd0644m3.jpg" alt="" /></em>
+This one was seen in a pool of water.
+*Chek Jawa, Aug 02</p>
+
+<p><img src="http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/050402cjd2070m3a.jpg" alt="" />*
+The back end of this worm may stick out</p>
+
+<p>of its burrow as it was creating its cast.
+<em>Chek Jawa, Apr 04</em>
+<em><img src="http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/030702cjd0104m3.jpg" alt="" /></em>
+The worm must obviously manipulate its butt</p>
+
+<p>in order to ‘build’ such a neat coil!
+*Chek Jawa, Jul 03</p>
+
+<p><img src="http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/090428chgd0794m3.jpg" alt="" />*
+Also amongst seagrasses.
+<em>Changi, Apr 09</em></p>
+
+<hr />
+
+<p><strong>Acorn worms on Singapore shores</strong></p>
+
+<hr />
+
+<p>Photos of
+<a href="https://www.flickr.com/search/?q=Enteropneusta&amp;w=54527470%40N00&amp;s=rec">Acorn worms</a>
+for free download from
+<a href="http://www.flickr.com/photos/wildsingapore/">wildsingapore flickr</a></p>
+
+<hr />
+
+<p>Distribution in Singapore on
+<a href="https://www.flickr.com/photos/wildsingapore/tags/Enteropneusta/map?&amp;fLat=1.2622&amp;fLon=103.865&amp;zl=11&amp;order_by=recent">this wildsingapore flickr map</a></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/160508kusjt10.jpg" alt="" />
+        <div class="caption">
+        Kusu Island, May 16 Photo shared by Jonathan Tan on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/080603tmlksm3.jpg" alt="" />
+        <div class="caption">
+        Tanah Merah, Jun 08 Photo shared by Loh Kok Seng on his blog .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/090224lazlks03m3.jpg" alt="" />
+        <div class="caption">
+        Lazarus, Feb 09 Shared by Loh Kok Sheng on his blog .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/200822jngjc5.jpg" alt="" />
+        <div class="caption">
+        Pulau Jong, Aug 20 Photo shared by Joleen Chan on facebook .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/160124smkell5.jpg" alt="" />
+        <div class="caption">
+        Pulau Semakau East, Jan 16 Shared by Loh Kok Sheng on facbook .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/091205sudd5456m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Sudong, Dec 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/100613sngd5780m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Senang, Jun 10
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/091204pawd5418m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Pawai, Dec 09
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/091231biod7101m3.jpg" alt="" />
+        <div class="caption">
+        Pulau Biola, Dec 09
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/100130brklks17m3.jpg" alt="" />
+        <div class="caption">
+        Terumbu Berkas, Jan 10 Shared by Loh Kok Sheng on his flickr .
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&amp;l=ur2&amp;o=1" alt="" />
+        <div class="caption">
+        Links Acorn worms Tan, Leo W. H. &amp; Ng, Peter K. L., 1988. A Guide to Seashore Life . The Singapore Science Centre, Singapore. 160 pp. Class Enteropneusta in Zooplankton and Micronekton of the North Sea on the Marine Species Identification Portal: Technical fact sheet. References Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004. Invertebrate Zoology Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963 Pechenik, Jan A., 2005. Biology of the Invertebrates . 5 th edition. McGraw-Hill Book Co., Singapore. 578 pp.
+        </div>
+    </div>
+    
+
+</div>
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/225">Acorn
+worms</a>  Tan, Leo W. H. &amp; Ng, Peter K. L., 1988. <em><a href="http://mangrove.nus.edu.sg/pub/seashore/">A
+Guide to Seashore Life</a></em>. The Singapore Science Centre,
+Singapore. 160 pp.</li>
+  <li><a href="http://species-identification.org/species.php?species_group=zmns&amp;id=118&amp;menuentry=groepen">Class
+Enteropneusta</a> in Zooplankton and Micronekton of the North
+Sea on the Marine Species Identification Portal: Technical fact
+sheet.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Edward E.
+Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

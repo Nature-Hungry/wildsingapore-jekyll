@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Salmacis sea urchins | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="white, urchin, salmacis, echinoid, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="../../../../Templates/fornatureguides.gif" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Echinodermata">Echinodermata</a>
+                    > 
+                    <a href="/Echinodermata/Echinoidea">Echinoidea</a>
+                    > 
+                    <a href="/Echinodermata/Echinoidea/Camarodonta">Camarodonta</a>
+                    >
+                    <a href="/Echinodermata/Echinoidea/Camarodonta/"></a>
+                    >
+                    <a href="/Echinodermata/Echinoidea/Camarodonta//Temnopleuridae">Temnopleuridae</a>
+                </p>
+                <h1>Salmacis sea urchins</h1>
+                
+                    <p class="scientific-name">Salmacis sp.</p>
+                
+
+                <p><em>Updated Apr 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>This almost-cuddly white sea urchin is seasonally common on our Northern shores among seagrasses. At some times, many of these sea urchins are seen, and then none seen for some time. On Cyrene Reef, gatherings of many of these sea urchins are sometimes seen.</p>
+<h2 id="features">Features</h2>
+
+<p>Body diameter 5-8cm, with tiny sharp spines. It has long tube feet and is often seen carrying all kinds of things from shells to seaweeds. It can quickly gather these things to cover itself. This behaviour may help camouflage it or shield it from sunlight.</p>
+
+<p><strong>What does it eat?</strong>
+It eats seaweeds.</p>
+
+<p><strong>Role in the habitat:</strong>
+Despite being prickly, come animals can eat them. Examination of tests (skeleton of a dead sea urchin) suggest that large snails might prey on them.
+Other animals
+live on the urchin, including
+<a href="../../../mollusca/gastropoda/eulimidae/eulimidae.md">Parasitic snails</a>
+, the Zebra crab and sometimes, the
+<a href="../../../worm/polychaeta/oxydromus.md">Urchin-mouth worm</a>
+is found curled around the mouth.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/070421cyrd0440m3.jpg" alt="" />
+        <div class="caption">
+        Sometimes gathered in large numbers. Cyrene Reef, Apr 07
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/060528bbd2322m3.jpg" alt="" />
+        <div class="caption">
+        Carrying stuff. Beting Bronok, May 06
+        </div>
+    </div>
+    
+
+</div>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/080506chgd2299m3.jpg" alt="" />
+        <div class="caption">
+        Hole with 'burn' mark suggests the urchin was attacked by a Helmet snail . Changi, May 08
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/101011chgd2159m3.jpg" alt="" />
+        <div class="caption">
+        Worm-like thing seen on the underside. Changi, Oct 10
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/170527cyrsbr.jpg" alt="" />
+        <div class="caption">
+        Parasitic snails seen on the urchin Cyrene, May 17 Photo shared on Singapore Biodiversity Records.
+        </div>
+    </div>
+    
+
+</div>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/170625chgsbr.jpg" alt="" />
+        <div class="caption">
+        Zebra crab ( Zebrida adamsii ) seen on the urchin. Changi, Jun 17 Photo shared on Singpaore Biodiversity Records.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/210530ecpglks3a.jpg" alt="" />
+        <div class="caption">
+        Zebra crab ( Zebrida adamsii ) seen on the urchin. East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook .
+        </div>
+    </div>
+    
+
+</div>
+
+<hr />
+
+<p><strong>Some Salmacis sea urchins on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/080506chgd2260m3.jpg" alt="" />
+        <div class="caption">
+        White salmacis urchin ( Salmacis sphaeroides )
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/080506chgd2263m3b.jpg" alt="" />
+        <div class="caption">
+        Spines shorter, mostly white, banded with green or maroon.
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/050524chgg6575m3a.jpg" alt="" />
+        <div class="caption">
+        Underside
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/060529chgd2487m3.jpg" alt="" />
+        <div class="caption">
+        Passion salmacis urchin ( Salmacis virgulata )
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/060529chgd2487m3d.jpg" alt="" />
+        <div class="caption">
+        Spines shorter, all maroon, not banded .
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/060529chgd2490m3a.jpg" alt="" />
+        <div class="caption">
+        Underside
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/bicolor/090528mecpd2807m3.jpg" alt="" />
+        <div class="caption">
+        Two-toned salmacis urchin ( Salmacis bicolor )
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/bicolor/090528mecpd2807m3b.jpg" alt="" />
+        <div class="caption">
+        Spines longer, banded white and maroon
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/bicolor/090528mecpd2814m3a.jpg" alt="" />
+        <div class="caption">
+        Underside
+        </div>
+    </div>
+    
+
+</div>
+
+<hr />
+
+<p><strong><em>Salmacis</em>
+species recorded for Singapore</strong></p>
+
+<p>from Wee Y.C. and Peter K. L. Ng. 1994.
+<em>A First Look at Biodiversity in Singapore</em>
+.</p>
+
+<p>**from
+<a href="http://www.marinespecies.org/">WORMS</a>
+**</p>
+
+<p><strong>Family Temnopleuridae</strong></p>
+
+<p>*<a href="bicolor.md">Salmacis bicolor</a></p>
+
+<p>Salmacis dussumieri=**Salmaciella dussumieri</p>
+
+<p><a href="sphaeroides.md">Salmacis sphaeroides</a></p>
+
+<p><a href="virgulata.md">Salmacis virgulata</a>*</p>
+
+<hr />
+
+<p><strong>Acknowlegment</strong></p>
+
+<p>Grateful thanks to Dr Frederic Ducarme for identifying these sea urchins.</p>
+
+<p>#EndEditable</p>
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li><a href="http://mangrove.nus.edu.sg/pub/seashore/text/223.md">Banded urchin (
+<em>Salmacis</em>
+)</a>
+Tan, Leo W. H. &amp; Ng, Peter K. L., 1988.
+<em>A Guide to Seashore Life</em>
+. The Singapore Science Centre, Singapore. 160 pp.</li>
+  <li><a href="http://www.sealifebase.org/Summary/SpeciesSummary.php?ID=139110"><em>Salmacis bicolor</em></a>
+and
+<a href="http://www.sealifebase.org/summary/Salmacis-sphaeroides.html"><em>Salmacis sphaeroides</em></a>
+and
+<a href="http://www.sealifebase.org/summary/Salmacis-virgulata.html"><em>Salmacis virgulata</em></a>
+and
+<em><a href="http://www.sealifebase.org/summary/Salmaciella-dussumieri.html">Salmaciella dussumieri</a></em>
+on SeaLife Base: Technical fact sheet.</li>
+  <li>P. Satheeshkumar,
+<a href="http://www.idosi.org/wjfms/wjfms3(2)11/7.pdf">First Record of Regular Sea Urchin
+<em>Salmacis virgulata</em>
+(L. Agassiz and Desor 1846) from the Pondicherry Coast, India</a>
+World Journal of Fish and Marine Sciences 3 (2): 126-128, 2011 ISSN 2078-4589 © IDOSI Publications, 2011</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Neo Mei Lin.
+<em>Zebra crab (Zebrida adamsii) on a sea-urchin (Salmacis sphaeroides) at Changi Beach</em>
+. 28 July 2017. Singapore Biodiversity Records 2017: 96 ISSN 2345-7597. National University of Singapore.</li>
+  <li>Ying Lynette Shu Min. 29 Sep 2017.
+<em>Parasitic snails, Vitreobalcis sp., on white sea urchins (Salmacis sphaeroides) at Cyrene Reef</em>
+. Singapore Biodiversity Records 2017: 123-124.</li>
+  <li>Schoppe, S., 2000.
+<em>Echinoderms of the Philippines</em>
+. Times Edition, Singapore. 144 pp.</li>
+  <li>Miskelly, Ashely. 2002.
+<em>Sea Urchins of Australia and the Indo-Pacific</em>
+. Capricornia Publications. 180pp.</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>

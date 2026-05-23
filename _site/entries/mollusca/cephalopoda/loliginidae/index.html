@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Pencil squids  | Wild Fact Sheets</title>
+  
+  <meta name="description" content="Fact sheet with photos on flora and fauna of Singapore's intertidal shores">
+  
+  
+  <meta name="keywords" content="pencil, squid, loliginidae, cephalopod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo">
+  
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/photoindexes.css">
+  <link rel="stylesheet" href="/assets/css/utils.css">
+  <link rel="stylesheet" href="/assets/css/img-galleries.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        
+          
+        <div class="nav-logo">
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+        </div>
+          
+        <div class="nav-links">
+            <a href="/explore">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/wildfacts/makeadiff/">Make a Difference</a>
+            <a href="/links">Useful Links</a>
+        </div>
+        <div class="nav-socials">
+        
+          <div class="site-sidebar__social" aria-label="Social links">
+            
+            <a href="mailto://hello@wildsingapore.com" class="social-btn" aria-label="Email" title="Email"
+              >
+              <i class="fas fa-envelope" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://instagram.com/riawildsingapore" class="social-btn" aria-label="Instagram" title="Instagram"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+            </a>
+            
+            <a href="https://github.com/Wild-Singapore/wild-singapore.github.io" class="social-btn" aria-label="GitHub" title="GitHub"
+              target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+            
+          </div>
+        
+        </div>
+    </nav>
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+
+    @media screen and (max-width:800px){
+        .trivia-box{
+            order:-1;
+            width:100%;
+        }
+        #content-section{
+            flex-direction:column;  
+            gap:0rem;
+        }
+    }
+    @media screen and (max-width:500px){
+        .species-head{
+            flex-direction:column;
+            height:fit-content;
+        }
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex" style="height:100%">
+                <div class="other-images">
+                  
+                </div>
+                <div class="species-cover-container">
+                
+                    <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/120505sisd0910m6l.jpg" alt="" class="species-cover">
+                
+                </div>
+            </div>
+          <div>
+                <p>
+                    <a href="/Mollusca">Mollusca</a>
+                    > 
+                    <a href="/Mollusca/Cephalopoda">Cephalopoda</a>
+                    > 
+                    <a href="/Mollusca/Cephalopoda/Myopsida">Myopsida</a>
+                    >
+                    <a href="/Mollusca/Cephalopoda/Myopsida/"></a>
+                    >
+                    <a href="/Mollusca/Cephalopoda/Myopsida//Loliginidae">Loliginidae</a>
+                </p>
+                <h1>Pencil squids </h1>
+                
+                    <p class="scientific-name">Family Loliginidae</p>
+                
+
+                <p><em>Updated May 2020</em></p>
+                <div class="attributes-row">
+                  
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        <h2 id="where-seen">Where seen?</h2>
+<p>These squids are sometimes seen in numbers on our Southern shores. Among seagrasses, also near coral rubble and reefs. They are often seen with their arms held splayed out when alarmed. They typically gather near the bottom during the day, dispersing in the water at night to hunt. Many are attracted to light and they are often fished at night using a light.</p>
+
+<h2 id="features">Features</h2>
+
+<p>Those seen 8-12cm long, but other species of this family that live in deeper waters can grow to 40cm. Those we have seen in the intertidal zone are rather short and squat. Some are long and slender with triangular fins at the rear end. Others are more squat with wide fins that extend along the entire body length. Arms about half the length of the body, rather broad. Sometimes, enormous ones 30cm or larger are seen. Studies suggest some species only live for a few months.</p>
+
+<p>The family has 5 genera and more than 40 species that can only be identified by examining fin size and shape, sucker ring shapes and modifications on the lower left arm of mature males.
+Most members of this family are smooth, streamlined, torpedo-shaped squids that can swim fast.</p>
+
+<p><strong>Human uses:</strong>
+Our popular seafood squids belong to this family.</p>
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/120505sisd0910m6l.jpg" alt="" />
+        <div class="caption">
+        Ink squirted out retains its shape. Sister Island, May 12
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/110602tmftd3396m3.jpg" alt="" />
+        <div class="caption">
+        Which is ink and which is squid? Tanah Merah, Jun 11
+        </div>
+    </div>
+    
+
+</div>
+<p>**</p>
+
+<hr />
+
+<p><strong>Some Pencil squids on Singapore shores</strong></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/120618tmnbd5467m3.jpg" alt="" />
+        <div class="caption">
+        Bigfin reef squid
+        </div>
+    </div>
+    
+    <div class="img-container">
+        <img src="http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqindian/091008tmd2514m3.jpg" alt="" />
+        <div class="caption">
+        Indian squid
+        </div>
+    </div>
+    
+
+</div>
+<hr />
+
+<p><strong>Family Loliginidae recorded for Singapore</strong>
+from Tan Siong Kiat and Henrietta P. M. Woo, 2010
+<em>Preliminary Checklist of The Molluscs of Singapore</em>
+.</p>
+
+<p>+Other additions (Singapore Biodiversity Record, etc)
+<a href="http://www.marinespecies.org/">http://www.marinespecies.org/</a></p>
+
+<p>**</p>
+
+<p><strong>Family Loliginidae</strong></p>
+
+<p><em>+Loliolus</em>
+sp.
+<em><a href="sqbigfin.md">Sepioteuthis lessoniana</a></em>
+(Bigfin reef squid)
+*Uroteuthis chinensis</p>
+
+<p><a href="sqindian.md">Uroteuthis duvaucelii</a>*
+(Indian squid)
+<em>Uroteuthis sibogae</em></p>
+
+<hr />
+
+<div class="img-wrap-group">
+    
+    <div class="img-container">
+        <img src="http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&amp;l=ur2&amp;o=1" alt="" />
+        <div class="caption">
+        Links Family Loliginidae in the Cephalopod section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific Volume 1: Seaweeds, corals, bivalves and gastropods on the Food and Agriculture Organization of the United Nations (FAO) website. References Tan Siong Kiat and Henrietta P. M. Woo, 2010 Preliminary Checklist of The Molluscs of Singapore (pdf), Raffles Museum of Biodiversity Research, National University of Singapore. Norman, Mark and Helmut Debelius, 2000. Cephalopods: A World Guide . ConchBooks, Germany. 319 pp Norman, Mark and Amanda Reid. 2000. A Guide to Squid, Cuttlefish and Octopuses of Australasia The Gould League of Australia. 96pp.
+        </div>
+    </div>
+    
+
+</div>
+
+        </div>
+        
+      </section>
+        
+        <section>
+            
+
+
+
+<div class="img-grid" style="">
+    
+
+</div>
+        </section>
+        <section>
+            <p><strong>Links</strong></p>
+<ul>
+  <li>Family Loliginidae
+in the Cephalopod section by J.M. Poutiers in the FAO Species
+Identification Guide for Fishery Purposes: The Living Marine Resources
+of the Western Central Pacific <a href="http://www.fao.org/docrep/009/w7191e/w7191e00.htm">Volume
+1: Seaweeds, corals, bivalves and gastropods</a> on the Food and
+Agriculture Organization of the United Nations (FAO) website.</li>
+</ul>
+
+<p><strong>References</strong></p>
+<ul>
+  <li>Tan Siong
+Kiat and Henrietta P. M. Woo, 2010 <em>Preliminary
+Checklist of The Molluscs of Singapore</em> (pdf), Raffles
+Museum of Biodiversity Research, National University of Singapore.</li>
+  <li>Norman, Mark
+and Helmut Debelius, 2000. *Cephalopods:</li>
+</ul>
+
+        </section>
+
+    </main>
+
+</div><!-- .site-wrapper -->
+
+</body>
+</html>
