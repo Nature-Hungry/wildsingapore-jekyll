@@ -41,4 +41,4 @@ galleries:
 {% include img-wrap-group.html items=page.galleries.gallery4 %}
 
 back to
-[general info on head-stripe gobies](stethophthalmus.md)
+[general info on head-stripe gobies](stethophthalmus)

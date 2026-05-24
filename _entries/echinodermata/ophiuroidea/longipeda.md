@@ -201,7 +201,7 @@ faint banded pattern. Generally beige or bluish.
 
 **Sometimes confused with**
 the
-[Blue lined brittle star](lineocaerulea.md)
+[Blue lined brittle star](lineocaerulea)
 which also has very long arms. But it has blue lines along the arms and its spines are more cylindrical.
 
 **What does it eat?**

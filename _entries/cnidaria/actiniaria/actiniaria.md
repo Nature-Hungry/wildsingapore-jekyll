@@ -100,20 +100,20 @@ trivia_items: [
 
 ## Where seen?
 A wide variety of anemones can be seen on all our shores. Tiny anemones often wedge in crevices on rocky shores. Sandy shores teem with anemones; some small and well camouflaged or hidden in the sand. Seagrass meadows often have carpet anemones that may be bigger than your face! Large colourful anemones are also common in coral rubble areas. Anemones may also settle on shells occupied by
-[hermit crabs](hermitsmall.md)
+[hermit crabs](hermitsmall)
 or even
-[living snails](snail.md)
+[living snails](snail)
 .
 
 ## What are sea anemones?
 Sea anemones are to
-[Phylum Cnidaria](../cnidaria.md)
+[Phylum Cnidaria](../cnidaria)
 , which includes jellyfishes and corals. Anemones belong to the
-[Class Anthozoa](../anthozoa.md)
+[Class Anthozoa](../anthozoa)
 that includes
-[cerianthids](../others/ceriantharia/ceriantharia.md)
+[cerianthids](../others/ceriantharia/ceriantharia)
 and
-[hard corals](../coralhard/coralhard.md)
+[hard corals](../coralhard/coralhard)
 . There are about 1,350 known species of anemones. They are found from deep to shallow waters, attached to hard surfaces or burrowing into the ground.
 
 ## Features:
@@ -126,7 +126,7 @@ Many anemones have nematocysts or stingers that can inject toxins. They may also
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 ### Getting a grip
 Most anemones don't move around a lot. Anemones also have a long smooth body column. The other end of the body column may end in a flat muscular pedal disk that attaches to a hard surface. Some anemones can move slowly by gliding on the pedal disk. The
-[Swimming anemone](boloceroididae.md)
+[Swimming anemone](boloceroididae)
 can indeed swim, but can also cling in place with its pedal disk.
 
 Many anemones burrow in sand, mud or crevices in rocks or coral rubble. These may have a bulbous tip at the end of the body column that helps them dig down and stay anchored. Part or most of the body column may be buried or hidden. The body column may have bumps or spots (called verrucae). In some, these are sticky, to help the animal grip the surroundings where it is buried, or to keep the oral disk spread out, flat against a hard surface.
@@ -134,19 +134,19 @@ Many anemones burrow in sand, mud or crevices in rocks or coral rubble. These ma
 In most anemones, the body column can retract towards the base to hide from predators or minimise exposure at low tide. Most can also tuck their tentacles and oral disk into the body column. When small anemones do this, they look like beads of jelly. Others can simply retract their entire bodies into a hole, crevice or into the sand. This is usually done by expelling fluids so that the tentacles and body deflate like balloons. To inflate again, anemones have special body structures to pump in and retain water.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Sometimes mistaken for**
-[soft corals](../coralsoft/coralsoft.md)
+[soft corals](../coralsoft/coralsoft)
 . Some large anemones and large leathery and flowery soft corals may be mistaken for one another. Here's more on
-[how to tell apart large soft cnidarians](../cflargecnidarians.md)
+[how to tell apart large soft cnidarians](../cflargecnidarians)
 on the shore.
 
 Some animals look like anemones but are not, e.g.,
-[cerianthids](../others/ceriantharia/ceriantharia.md)
+[cerianthids](../others/ceriantharia/ceriantharia)
 ,
-[corallimorphs](../others/corallimorphs/corallimorph.md)
+[corallimorphs](../others/corallimorphs/corallimorph)
 and
-[zoanthids](../others/zoanthid/zoanthid.md)
+[zoanthids](../others/zoanthid/zoanthid)
 . Here's more on
-[how to tell apart animals with a ring of smooth tentacles](../cfringtentacles.md)
+[how to tell apart animals with a ring of smooth tentacles](../cfringtentacles)
 .
 
 {% include img-wrap-group.html items=page.galleries.gallery4 %}
@@ -154,7 +154,7 @@ and
 ## What do they eat?
 Anemones may use their tentacles or mucus to trap small particles, detritus and plankton from the water.
 Larger anemones can capture and swallow prey such as fishes whole. Anemones have
-[stingers like other cnidarians](../cnidaria.md)
+[stingers like other cnidarians](../cnidaria)
 . Prey is captured and immobilised with these stingers. Tentacles may push larger prey into the central mouth. The edges of the mouth may be inflated into 'lips' that pucker to hold prey as it is swallowed. The mouth and body column can expand wide to accommodate the prey whole. Or the anemone may fold its oral disk over the prey. Like other cnidarians, the anemone lacks an anus. So it has to spit out any indigestible bits through the mouth.
 
 ### Farm in their arms
@@ -162,15 +162,15 @@ Many anemones also harbour symbiotic single-celled algae (called zooxanthellae) 
 
 ### Anemone friends
 Some anemones may live with other animals such as
-[hermit crabs](hermitsmall.md)
+[hermit crabs](hermitsmall)
 and
-[living snails](snail.md)
+[living snails](snail)
 . Other animals have adapted to live among the tentacles of anemones. The
-[Anemonefish](../../vertebrates/fish/pomacentridae/amphiprion.md)
+[Anemonefish](../../vertebrates/fish/pomacentridae/amphiprion)
 (
 *Amphiprion*
 sp.) is coated with mucus that does not trigger off the host anemone's stingers. Other creatures that also make their homes in anemones include
-[anemone shrimps](../../crustacea/othercrust/shrimp/palaemonidae.md)
+[anemone shrimps](../../crustacea/othercrust/shrimp/palaemonidae)
 (
 *Periclimenes*
 sp.).
@@ -186,7 +186,7 @@ Most anemones are hermaphrodites, but act as one gender at any one time. That is
 
 Some anemones can reproduce asexually by detaching a portion of their body, such as the pedal disk, or even by dividing into two. The detached portion eventually grows into new anemones.
 The
-[Swimming anemone](boloceroididae.md)
+[Swimming anemone](boloceroididae)
 can regenerate a new anemone from a dropped tentacle. But not all anemones do this, so please don't mutilate anemones.
 
 ## Human Uses:
@@ -201,7 +201,7 @@ A few of our anemones are listed among the endangered animals of Singapore. Llik
 
 **Order Actiniaria recorded for Singapore**
 
-[text index](../cnidariaindex.md)
+[text index](../cnidariaindex)
 and
 [photo index]({{ site.url }}/wildfacts/guides/cnidaria/actiniaria/anemonefi)
 of sea anemones seen on Singapore shores**

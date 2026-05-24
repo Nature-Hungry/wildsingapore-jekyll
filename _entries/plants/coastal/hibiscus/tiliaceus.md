@@ -85,7 +85,7 @@ A shrub to a tall tree growing to 10-15m. Leaves (10-15cm) heart-shaped, dark gr
 Each of three veins on the underside of the leaf near the stalk have a small slit. A sweet substance is secreted from these slits, and ants of all sizes can be seen drinking from them. Among these, are the fierce Weaver ants (
 *Oecophylla smaragdina*
 ), which may help keep off insect pests. Some insects that feed on the plant include the
-[Cotton stainer bug](../../../insecta/dysdercus.md)
+[Cotton stainer bug](../../../insecta/dysdercus)
 (
 *Dysdercus decussatus*
 ) that feeds on its seeds.

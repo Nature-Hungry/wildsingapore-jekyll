@@ -48,9 +48,9 @@ links_references: |
   on the
   [Singapore Snakes](http://singaporesnakes.blogspot.com/)
   blog: fact sheet with photos and links to local sightings and other posts.
-  - [Oriental Whip Snake](http://www.ecologyasia.com/verts/snakes/oriental_whip-snake.md)
+  - [Oriental Whip Snake](http://www.ecologyasia.com/verts/snakes/oriental_whip-snake)
   on Nick Baker's EcologyAsia website: fact sheet with photos.
-  - [Oriental Whip Snake](http://www.wildsingapore.per.sg/discovery/factsheet/snakewhiporiental.md)
+  - [Oriental Whip Snake](http://www.wildsingapore.per.sg/discovery/factsheet/snakewhiporiental)
   on Chan Kwok Wai's Wildlife Singapore: fact sheet with photos.
   - [*Ahaetulla prasina*](http://www.iucnredlist.org/details/176329/0)
   on the IUCN Red List.

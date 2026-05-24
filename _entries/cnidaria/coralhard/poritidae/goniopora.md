@@ -125,13 +125,13 @@ also in the Family Poritidae, can look like Anemone corals.
 Colonies (10-15cm) boulder-shaped or form short fat columns with rounded tops. The corallites are small to tiny (0.2-0.5cm) circular or polygonal, packed close to one another. The skeleton is porous. Some have polyps with long bodies and long tentacles. In these, with the polyps extended, the skeleton is hidden and the entire colony is often mistaken for a sea anemone. Others have polyps with short bodies and tentacles, yet others have tiny polyps. Polyps have 24 tentacles and can retract completely into the skeleton.
 
 It's hard to distinguish the different species without close examination. On this website, they are grouped into
-[anemone corals](gonbig.md)
+[anemone corals](gonbig)
 (with long polyps) and
-[small goniopora corals](gonsmall.md)
+[small goniopora corals](gonsmall)
 (with tiny polyps) for convenience of display.
 
 Sometimes, tiny brown
-[acoel flatworms](../../../worm/acoela/acoela.md)
+[acoel flatworms](../../../worm/acoela/acoela)
 are seen on the oral disk or body columns of anemone coral polyps.
 
 **Anemone coral babies:**
@@ -171,11 +171,11 @@ in the above.
 *On this website, they are grouped by external features for convenience of display*
 *.*
 
-[Anemone corals](gonbig.md)
+[Anemone corals](gonbig)
 
-[Small goniopora corals](gonsmall.md)
+[Small goniopora corals](gonsmall)
 
-**[Family Poritidae](poritidae.md)
+**[Family Poritidae](poritidae)
 
 Genus
 *Goniopora***

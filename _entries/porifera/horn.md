@@ -36,9 +36,9 @@ location:
 
 ## Where seen?
 There is a patch of these sponges at Chek Jawa, growing among coral rubble. The base of the sponges are usually covered with
-[tiny red sea cucumbers](../echinodermata/holothuroidea/tinyred.md)
+[tiny red sea cucumbers](../echinodermata/holothuroidea/tinyred)
 and sometimes
-[sponge synaptid sea cucumbers](../echinodermata/holothuroidea/synsponge.md)
+[sponge synaptid sea cucumbers](../echinodermata/holothuroidea/synsponge)
 as well.
 ## Features
 

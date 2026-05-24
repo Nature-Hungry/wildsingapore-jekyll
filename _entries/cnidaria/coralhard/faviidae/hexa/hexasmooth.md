@@ -79,7 +79,7 @@ Some species of corals recorded for Singapore that have these patterns include:
 . It's hard to distinguish them without close examination of small features and they are grouped here by large external features for convenience of display.
 
 **Sometimes confused with**
-[Neat hexa corals](../../siderastreidae/hexaneat.md)
+[Neat hexa corals](../../siderastreidae/hexaneat)
 (
 *Pseudosiderastrea tayamai*
 ) which belong to Family Siderastreidae.

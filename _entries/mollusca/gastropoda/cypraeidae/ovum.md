@@ -181,18 +181,18 @@ pear-shaped
 
 **Sometimes confused with**
 the
-[Wandering cowrie](errones.md)
+[Wandering cowrie](errones)
 (
 *Cypraea errones*
 ) which is similar but is cylindrical in shape. It does not have coloured 'teeth' and has a brown spot or spots at the front end of the shell.
 Here's more on how to tell apart
-[Wandering and Ovum cowries](cfcypraeidae.md)
+[Wandering and Ovum cowries](cfcypraeidae)
 .
 
 When the shell is completely covered in its mantle, it is sometimes mistaken for a
-[sea slug](../../slug.md)
+[sea slug](../../slug)
 . Here's more on
-[how to tell apart slugs and animals that look like slugs](../../../glossary/flatwormslug.md)
+[how to tell apart slugs and animals that look like slugs](../../../glossary/flatwormslug)
 .
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Leave cowries alone:**

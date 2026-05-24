@@ -49,13 +49,13 @@ links_references: |
   **Links**
   - [Orange-spotted Grouper (
   *Epinephelus coioides*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/268.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/268)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
   - [Orange-spotted Grouper (
   *Epinephelus coioides*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2103.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2103)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.

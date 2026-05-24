@@ -86,7 +86,7 @@ links_references: |
   **Links**
   - [Dwarf Turban Shell (
   *Turbo brunneus*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/133.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/133)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -95,7 +95,7 @@ links_references: |
   - [The Humble Operculum](http://www.nansaidh.us/operc/index1.html)
   : photos and facts just some beautiful opercula of snails, many of which are turban shells, with photos also of their shells. A fascinating site.
   - Family Turbinidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   **References**
@@ -136,9 +136,9 @@ location:
 
 ## Where seen?
 These tough snails are commonly seen on many of our rocky shores including on man-made sea walls. Smaller ones are also found under stones. Turban shells are not as well adapted to dry condictions as the
-[Nerites](../neritidae/neritidae.md)
+[Nerites](../neritidae/neritidae)
 and
-[Periwinkles](../littorinidae/littorinidae.md)
+[Periwinkles](../littorinidae/littorinidae)
 , and are thus generally found closer to the low water mark.
 
 ## Features
@@ -151,9 +151,9 @@ Although their shells may appear boring and dull, the living animal can be in br
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Sometimes confused with**
 the
-[Top shell snail](../trochidae/trochidae.md)
+[Top shell snail](../trochidae/trochidae)
 (Family Trochidae) has a more pyramidal shell and a thin operculum made of a horn-like material. While the turban shell snail has a shell with more distinct whorls and a thick, chalky operculum. Here's more on
-[how to tell apart turban and top shell snails](../topturban.md)
+[how to tell apart turban and top shell snails](../topturban)
 .
 
 **What do they eat?**
@@ -192,9 +192,9 @@ from
 
 **Family Turbinidae**
 
-*[Angaria delphinus](angaria.md)*
+*[Angaria delphinus](angaria)*
 (Dolphin snail)
-*[Astralium calcar](calcar.md)*
+*[Astralium calcar](calcar)*
 (Spurred turban snail)=
 *Astraea calcar*
 **
@@ -205,15 +205,15 @@ Liotina peronii
 
 Tricolia fordiana
 
-[Turbo bruneus](bruneus.md)*
+[Turbo bruneus](bruneus)*
 (Dwarf turban snail)
 *Turbo heterocheilus
 
-[Turbo intercostalis](intercostalis.md)*
+[Turbo intercostalis](intercostalis)*
 (Ribbed turban snail)
 *Turbo marmoratus
 
-[Turbo petholatus](petholatus.md)*
+[Turbo petholatus](petholatus)*
 (Tapestry turban snail) (EN: Endangered)
 
 ---

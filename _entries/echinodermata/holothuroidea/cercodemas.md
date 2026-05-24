@@ -92,7 +92,7 @@ nus is surrounded by five tiny teeth-like structures.
 
 **Sometimes mistaken for**
 the
-[Thorny sea cucumber](colochirus.md)
+[Thorny sea cucumber](colochirus)
 which looks similar and is found in the same habitat often next to the Pink warty sea cucumber. The Thorny sea cucumber has soft conical projections and is more red than pink and seldom has yellow on its body.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

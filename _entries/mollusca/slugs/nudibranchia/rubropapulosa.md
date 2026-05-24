@@ -104,7 +104,7 @@ links_references: |
   by Dr Bill Rudman: fact sheets and photos
   - [The Slug Site:](http://slugsite.us/)
   photo and fact sheet on the Branch of the Week
-  *[Gymnodoris rubropapulosa](http://slugsite.us/bow/nudwk511.md)*
+  *[Gymnodoris rubropapulosa](http://slugsite.us/bow/nudwk511)*
   eating a Ceratosoma with a commensal shrimp on its back.
   - [A Guide to Singapore Nudibranchs](http://rmbr.nus.edu.sg/nudibranch/main.html)
   by Uma Sachidhanandam: photo and distribution of
@@ -159,14 +159,14 @@ This rather clownish white nudibranch with orange spots is sometimes seen on our
 , it has much larger orange spots which are more densely arranged, the body is longer and gills relatively small. There are also major anatomical differences. It has a wide Indo-West Pacific distribution and is known from Indonesia and Singapore and recently reported from Hong Kong and Tanzania. Its comical patterns may warn other animals not to mess with it. Some Gymnodoris nudibranchs secrete nasty acids and chemicals.
 **What does it eat?**
 Gymnodoris species are said to be 'voracious predators' of other sea slugs like
-[nudibranchs](../../nudibranchia.md)
+[nudibranchs](../../nudibranchia)
 ,
-[sacoglossans](../sacoglossa/sacoglossa.md)
+[sacoglossans](../sacoglossa/sacoglossa)
 and
-[sea hares](../anaspidae/anaspidea.md)
+[sea hares](../anaspidae/anaspidea)
 . Among its prey is
 [*Ceratosoma*
-sp.](sinuatum.md){% include img-wrap-group.html items=page.galleries.gallery1 %}
+sp.](sinuatum){% include img-wrap-group.html items=page.galleries.gallery1 %}
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

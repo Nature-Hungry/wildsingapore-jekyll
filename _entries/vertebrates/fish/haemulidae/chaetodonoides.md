@@ -64,7 +64,7 @@ links_references: |
   **Links**
   - [Clown Sweetlips (
   *Plectorhinchus chaetodonoides*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/284.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/284)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.

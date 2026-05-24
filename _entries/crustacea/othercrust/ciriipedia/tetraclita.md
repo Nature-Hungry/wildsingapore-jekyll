@@ -58,7 +58,7 @@ galleries:
       Choo on facebook ."
 links_references: |
   **Links**
-  - [Barnacles](http://mangrove.nus.edu.sg/pub/seashore/text/219.md)
+  - [Barnacles](http://mangrove.nus.edu.sg/pub/seashore/text/219)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.

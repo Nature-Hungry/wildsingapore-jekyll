@@ -97,9 +97,9 @@ Diameter with tentacles extended 2-4cm. Tentacles many, thick with bulbous tip, 
 A study found that
 *Rhodactis indosinensis*
 can also look like
-[Carpet corallimorphs](carpet.md)
+[Carpet corallimorphs](carpet)
 .
-[Posy anemones](../../actiniaria/posy.md)
+[Posy anemones](../../actiniaria/posy)
 also look quite similar.
 
 **Status and threats:**

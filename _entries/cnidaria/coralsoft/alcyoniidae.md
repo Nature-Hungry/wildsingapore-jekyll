@@ -123,7 +123,7 @@ galleries:
     caption: No siphonozooids. Prickly surface due to tiny spicules.
 links_references: |
   **Links**
-  - [Soft corals (Order Alcyonacea)](http://mangrove.nus.edu.sg/pub/seashore/text/118.md)
+  - [Soft corals (Order Alcyonacea)](http://mangrove.nus.edu.sg/pub/seashore/text/118)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -186,7 +186,7 @@ Leathery soft corals are commonly seen on our Southern shores and in some places
 
 **What are leathery soft corals?**
 Leathery corals are
-[soft corals](coralsoft.md)
+[soft corals](coralsoft)
 that belong to the Family Alcyoniidae which has about 15 genera, the more commonly encountered ones on our shores being:
 *Sinularia, Sacrophyton*
 and
@@ -213,7 +213,7 @@ The entire colony is quite stiff and hard, and is not soft and flexible. Do not 
 Many species of leathery soft coral periodically shed their upper layer as a mucus layer or dead waxy layer to get rid of sediments, algae and other unwanted substances.
 
 Sometimes, very thin long 'strings' are seen emerging from leathery soft corals. These are likely the feeding tentacles of
-[ctenophores](../../ctenophora/coeloplana.md)
+[ctenophores](../../ctenophora/coeloplana)
 , tiny animals that closely resemble the soft coral surface.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}***Sinularia***
@@ -230,11 +230,11 @@ can slowly creep quite a distance over time.
 **sp.**
 have both autozooids and siphonozooids, but the autozooids have short stalks and often appear as mere tufts of tentacles. The siphonozooids do not emerge from the body membrance and are usually inconspicuous. A colony is encrusting, that is, the upper surface is the same diameter as the colony base and they do not have a stem or stalk. It may be dish- or bowl-shaped. The colony is thick and generally has lobes, ridges or rib-like structures.
 **Sometimes mistaken for**
-[sea anemones](../actiniaria/actiniaria.md)
+[sea anemones](../actiniaria/actiniaria)
 . When submerged, with the polyps expanded, the colony can appear rather 'furry' and may be mistaken for anemones. Here's more on how to tell apart
-[large sea anemones with long tentacles](../actiniaria/cfbiglong.md)
+[large sea anemones with long tentacles](../actiniaria/cfbiglong)
 and
-[large 'hairy' cnidarians](../cflargecnidarians.md)
+[large 'hairy' cnidarians](../cflargecnidarians)
 .
 
 **What do they eat?**
@@ -273,9 +273,9 @@ None of our leathery soft corals are listed among the endangered animals of Sing
 
 ****Order Alcyonacea recorded for Singapore**
 
-[text index](../cnidariaindex.md)
+[text index](../cnidariaindex)
 and
-[photo index](../cnidariafi2.md)
+[photo index](../cnidariafi2)
 of soft corals seen on Singapore shores**
 from Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
 
@@ -283,20 +283,20 @@ from Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Thr
 
 *
 [*Cladiella*
-sp.](letblackwhite.md)
+sp.](letblackwhite)
 (Black-and-white leathery soft coral) with species recorded for Singapore
 **
 *
 [*Lobophytum*
-sp.](letpimply.md)
+sp.](letpimply)
 (Pimply leathery soft coral) with species recorded for Singapore
 *Studeriotes spinosa*
 [*Sarcophyton*
-sp.](letomelette.md)
+sp.](letomelette)
 (Omelette leathery soft coral) with species recorded for Singapore.
 
 [*Sinularia*
-sp.](letsmooth.md)
+sp.](letsmooth)
 (Smooth leathery soft coral) with species recorded for Singapore
 **
 

@@ -51,7 +51,7 @@ links_references: |
   **Links**
   - [Semaphore crabs (
   *Ilyoplax*
-  spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2054.md)
+  spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2054)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.

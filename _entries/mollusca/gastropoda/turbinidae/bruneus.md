@@ -59,7 +59,7 @@ links_references: |
   **Links**
   - [Dwarf Turban Shell (
   *Turbo brunneus*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/133.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/133)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -70,7 +70,7 @@ links_references: |
   - Brown Pacific turban (
   *Turbo bruneus*
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   **References**
@@ -114,9 +114,9 @@ This large turban snail is sometimes seen on our rocky shores. It is also someti
 
 **Sometimes confused with**
 the
-[Top shell snail](../trochidae/trochidae.md)
+[Top shell snail](../trochidae/trochidae)
 (Family Trochidae) has a more pyramidal shell and a thin operculum made of a horn-like material. While the turban shell snail has a shell with more distinct whorls and a thick, chalky operculum. Here's more on
-[how to tell apart turban and top shell snails](../topturban.md)
+[how to tell apart turban and top shell snails](../topturban)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

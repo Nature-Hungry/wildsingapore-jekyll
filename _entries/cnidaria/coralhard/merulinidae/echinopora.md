@@ -161,7 +161,7 @@ on the
 [IUCN global list](../faviidae/www.iucnredlist.org)
 .
 
-**[Family Merulinidae](../faviidae/faviidae.md)
+**[Family Merulinidae](../faviidae/faviidae)
 
 Genus
 *Echinopora***

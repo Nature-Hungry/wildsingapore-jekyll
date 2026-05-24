@@ -92,11 +92,11 @@ This beautiful nudibranch is sometimes seen at Beting Bronok, and often encounte
 
 **Sometimes mistaken for**
 the
-[blue dragon nudibranch](ianthina.md)
+[blue dragon nudibranch](ianthina)
 which has purple bands on the oral tentacles.
 **What does it eat?**
 It eats hydroids, including the orange
-[Fern hydroid](../../../cnidaria/others/hydrozoa/sertularella.md)
+[Fern hydroid](../../../cnidaria/others/hydrozoa/sertularella)
 (
 *Sertularella*
 sp.). According to Bill Rudman, it feeds on

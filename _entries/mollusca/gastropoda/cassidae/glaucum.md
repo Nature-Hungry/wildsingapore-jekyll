@@ -106,7 +106,7 @@ links_references: |
   - Grey bonnet (
   *Phalium glaucum*
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   **References**
@@ -146,9 +146,9 @@ This beautiful snail was seen on sandy areas near lush seagrass meadows. Elsewhe
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**
 According to Tan, it feeds on sea urchins but according to Poutiers it feeds on sand dollars. On our shores, they have been seen on top of
-[Cake sand dollars](../../../echinodermata/echinoidea/sandollar/arachnoides.md)
+[Cake sand dollars](../../../echinodermata/echinoidea/sandollar/arachnoides)
 , and when the sand dollar is examined, a hole is seen in the sand dollar skeleton. This suggests the snail bored the hole. For more gruesome feeding details, see
-[Family Cassidae](cassidae.md)
+[Family Cassidae](cassidae)
 .
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**Baby bonnets:**

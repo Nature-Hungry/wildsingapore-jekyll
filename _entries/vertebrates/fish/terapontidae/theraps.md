@@ -55,7 +55,7 @@ links_references: |
   **Links**
   - [Banded perch (
   *Terapon theraps*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/273.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/273)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
@@ -67,7 +67,7 @@ links_references: |
   - [*Terapon theraps*
   (Largescaled terapon)](http://www.iucnredlist.org/details/187935/0)
   from IUCN.
-  - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.md)
+  - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
 
   **References**

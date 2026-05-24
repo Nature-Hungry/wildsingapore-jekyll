@@ -71,7 +71,7 @@ links_references: |
   - McKenzie, L.J., Yaakub, S.M., and Yoshida, R.L. (2007).
   *[Seagrass-Watch: Guidelines for TeamSeagrass Singapore Participants](http://www.seagrasswatch.org/Training/proceedings/TeamSeagrass_Singapore_workshop_Mar07.pdf)*
   (PDF). Proceedings of a training workshop, National Parks Board, Biodiversity Centre, Singapore, 24th-25th March 2007 (DPI&F, Cairns). 32pp.
-  - [Distribution of Hong Kong seagrasses](http://www.hku.hk/ecology/porcupine/por18/seagrass.md)
+  - [Distribution of Hong Kong seagrasses](http://www.hku.hk/ecology/porcupine/por18/seagrass)
   on the Porcupine Homepage of the Department of Ecology & Biodiversity, The University of Hong Kong website: brief description of
   *H. beccarii*
   and its possible role as a nursery for horseshoe crabs.
@@ -108,7 +108,7 @@ location:
 
 ## Where seen?
 This small seagrass is quite commonly encountered on Chek Jawa, usually in small patches on bare sand that are exposed at low tide near the boardwalk, with larger meadows on the shore west of House No. 1. The
-[preliminary results of a transact survey](http://www.naturia.per.sg/cjsurvey/vegetative/text/halophila%20beccarrii.md)
+[preliminary results of a transact survey](http://www.naturia.per.sg/cjsurvey/vegetative/text/halophila%20beccarrii)
 of Chek Jawa suggest it is probably sparsely distributed in the Chek Jawa seagrass lagoon. It is also found at Sungei Buloh Wetland Reserve, with wide swathes along Kranji Nature Trail and Mandai mangroves.
 
 Globally, it is considered a rare and uncommon seagrass with a distribution restricted to the Bay of Bengal and South China Sea. Singapore lies near the southern most point of the global distribution (see
@@ -123,14 +123,14 @@ and named after him.
 Beccari's seagrass is the smallest seagrass found on our shores (0.5cm long). The long oval-shaped leaves emerge in a rosette of 5-10 tiny leaves on long thin stems. Each plant may bear both male and female flowers, but usually, only male or female flowers are visible on a plant. The flowers and fruits are tiny. Each fruit contains up to 6 seeds.
 
 On Chek Jawa, patches were seen among the byssus nests created by
-[Nest mussels](../../mollusca/bivalvia/mytilidae/musculista.md)
+[Nest mussels](../../mollusca/bivalvia/mytilidae/musculista)
 (
 *Musculita senhausia*
 ). In Singapore's northern mangroves, mangrove seedlings are often seen in patches of this seagrass.
 
 **Role in the habitat:**
 Studies suggest that beds of Beccari's seagrass are an important nursery for
-[horseshoe crabs](../../arthropoda/limulidae/limulidae.md)
+[horseshoe crabs](../../arthropoda/limulidae/limulidae)
 in many regions.
 
 **Status and threats:**

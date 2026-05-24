@@ -151,14 +151,14 @@ This small flatworm is sometimes seen on our Southern shores, on coral rubble ne
 
 **What does it eat?**
 It has been seen on colonial
-[ascidians](../../ascidiacea/ascidiacea.md)
+[ascidians](../../ascidiacea/ascidiacea)
 , including the
-[pink ascidian](../../ascidiacea/pink.md)
+[pink ascidian](../../ascidiacea/pink)
 .
 
 **Sometimes mistaken for**
 similar flatworms. Here's more on how to tell apart small flatworms with
-[one central line and three central lines](cfstriped.md)
+[one central line and three central lines](cfstriped)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 ***

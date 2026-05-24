@@ -103,7 +103,7 @@ galleries:
       .
 links_references: |
   **Links**
-  - [Parthenope](http://mangrove.nus.edu.sg/pub/seashore/text/200.md)
+  - [Parthenope](http://mangrove.nus.edu.sg/pub/seashore/text/200)
   Tan, Leo W. H. & Ng, Peter K. L., 1988,
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -154,7 +154,7 @@ These tiny, slow-moving crabs look like bits of dirt or junk among seaweeds. Loo
 ## Features
 
 Body width 1-2cm. An obvious feature of the crab (once you can actually see the crab) is its elbows: highly elongated large pincers that stick way out from the sides of its body. The upper finger is moveable and curved towards the immobile lower finger. Males may have larger pincers than females. The thin walking legs are small and have pointed tips. Body somewhat triangular or pentangonal, with eyes at the pointed tip. The crab's body and claws may be fuzzy or bumpy and coloured the same as mud or sand. Some have fluffy growths and other encrustations, even
-[keelworms](../../../worm/polychaeta/serpulidae.md)
+[keelworms](../../../worm/polychaeta/serpulidae)
 growing on the body and arms.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 The pincers are large, relative to the crab, and look like they can do some serious damage to small prey. The inner surface of the pincers have a row of coloured bumps and spots that are probably used to startle predators.

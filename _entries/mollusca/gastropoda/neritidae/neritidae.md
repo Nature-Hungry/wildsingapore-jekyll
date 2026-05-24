@@ -192,7 +192,7 @@ A sturdy chalky operculum provides a secure seal to the shell opening. The operc
 
 Some common nerites of the same species can have a wide range of shell colours and patterns. They are best distinguished by the structure of the shell and underside of the shell. A preliminary identification of the various species of nerites can be made by looking at the teeth-like structures at the shell opening (these do not actually function as teeth to chew food), and the general shape and texture of the shell and operculum. But very similar-looking nerites can only be positively distinguished by looking at internal features of the shell and animal.
 Here's a comparison of some
-[similar nerite snails](neritidaecf.md)
+[similar nerite snails](neritidaecf)
 and how to roughly tell them apart.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **What do they eat?**
@@ -209,11 +209,11 @@ They are gathered as food by coastal dwellers. Some species of nerites are eaten
 
 **Status and threats:**
 The tiny and beautifully marked
-[Dubious nerite snails](oualaniensis.md)
+[Dubious nerite snails](oualaniensis)
 (
 *Clithon oulaniensis*
 ) and
-[Polished nerite](polita.md)
+[Polished nerite](polita)
 *(Nerita polita)*
 are listed as 'Vulnerable' on the Red List of threatened animals of Singapore.
 
@@ -253,46 +253,46 @@ Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 **Family Neritidae**
 
 *Clithon faba*
-[*Clithon oualaniensis*](oualaniensis.md)
+[*Clithon oualaniensis*](oualaniensis)
 (Dubious nerite) (VU: Vulnerable)
 *^
-[Neritina cornucopia](cornucopia.md)
+[Neritina cornucopia](cornucopia)
 =Dostia cornucopia*
 (Black-mouth nerite)
 *^
-[Neritina violacea](violacea.md)
+[Neritina violacea](violacea)
 =Dostia violacea*
 (Red-mouth nerite)
 *=Neritina violacea*
-[*Nerita albicilla*](albicilla.md)
+[*Nerita albicilla*](albicilla)
 (Ox-tongue nerite)
 
-[*Nerita articulata*](articulata.md)
+[*Nerita articulata*](articulata)
 (Lined nerite)=
 *Nerita lineata*
 
-*[Nerita chamaeleon](chamaeleon.md)*
+*[Nerita chamaeleon](chamaeleon)*
 (Chameleon nerite)
 *Nerita costata
 
 ^
-[Nerita undulata](grayana.md)
+[Nerita undulata](grayana)
 =Nerita grayana*
 (new record) (Gray mangrove nerite)
 *^
-[Nerita squamulata](histrio.md)
+[Nerita squamulata](histrio)
 =Nerita histrio*
 (Scaled nerite)=
 *Nerita squamulata
 
-[Nerita planospira](planospira.md)*
+[Nerita planospira](planospira)*
 (Flat-spired nerite) (VU: Vulnerable)
 *Nerita plicata*
 (new record)
-*[Nerita polita](polita.md)*
+*[Nerita polita](polita)*
 (Polished nerite)
 *Nerita signata*
-[*Nerita undata*](undata.md)
+[*Nerita undata*](undata)
 (Waved nerite)
 *Neritina auriculata
 

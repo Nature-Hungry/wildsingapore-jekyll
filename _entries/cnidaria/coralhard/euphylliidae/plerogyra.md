@@ -121,7 +121,7 @@ species may also be made up of long, tubular corallites (phaceloid)
 species. Here's more on
 [how to tell apart the
 *Euphyllia*
-species](euphyllia.md)
+species](euphyllia)
 .
 
 **Status and threats:**

@@ -62,7 +62,7 @@ galleries:
 links_references: |
   **Links**
   - [Mangrove horseshoe crab
-  *Carcinoscorpius rotundicauda*](http://mangrove.nus.edu.sg/guidebooks/text/2076.md)
+  *Carcinoscorpius rotundicauda*](http://mangrove.nus.edu.sg/guidebooks/text/2076)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
@@ -98,20 +98,20 @@ This is the smaller of our horseshoe crabs. It is sometimes encountered in our n
 Diameter to about 15cm. The circular shell is brownish. Identified by shorter spines on the side of the body, the tail is circular in cross-section near where it joins the body, without a groove on the underside and without spines on the upperside. The male's special legs for holding on to the female has two 'fingers'.
 
 The underside is sometimes encrusted with
-[Flat slipper snails](../../mollusca/gastropoda/calyptraeidae/crepidula.md)
+[Flat slipper snails](../../mollusca/gastropoda/calyptraeidae/crepidula)
 (
 *Crepidula walshi*
 ) and
-[bryozoans](../../bryozoa/bryozoan.md)
+[bryozoans](../../bryozoa/bryozoan)
 .
 
 **Sometimes confused with**
 the
-[Coastal horseshoe crab](tachypleus.md)
+[Coastal horseshoe crab](tachypleus)
 (
 *Tachypleus gigas*
 ). More on
-[how to tell them apart](limulidae.md)
+[how to tell them apart](limulidae)
 .
 
 **Status and threats:**

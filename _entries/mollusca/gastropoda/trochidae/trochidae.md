@@ -50,7 +50,7 @@ galleries:
     caption: Button snails
 links_references: |
   **Links**
-  - [Family Trochidae](http://mangrove.nus.edu.sg/pub/seashore/text/134.md)
+  - [Family Trochidae](http://mangrove.nus.edu.sg/pub/seashore/text/134)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -58,12 +58,12 @@ links_references: |
   on
   [The Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html)
   at Washington State University Tri-Cities Natural History Museum website: brief fact sheet with photos.
-  - [Family Trochidae (Top Shells)](http://seashellsofnsw.org.au/Trochidae/Pages/Trochidae_intro.md)
+  - [Family Trochidae (Top Shells)](http://seashellsofnsw.org.au/Trochidae/Pages/Trochidae_intro)
   on the
-  [The Seashells of New South Wales](http://seashellsofnsw.org.au/index.md)
+  [The Seashells of New South Wales](http://seashellsofnsw.org.au/index)
   website by Des Beechey Research Associate, Australian Museum: family introductions with photos of shells and detailed fact sheets for many species.
   - Family Trochidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   **References**
@@ -91,9 +91,9 @@ location:
 
 ## Where seen?
 These snails with top-shaped shells are commonly seen on many of our rocky shores including man-made sea walls. Top shell snails are not as well adapted to dry conditions as the
-[Nerites](../neritidae/neritidae.md)
+[Nerites](../neritidae/neritidae)
 and
-[Periwinkles](../littorinidae/littorinidae.md)
+[Periwinkles](../littorinidae/littorinidae)
 , and are thus generally found closer to the low water mark.
 
 ## Features
@@ -102,9 +102,9 @@ and
 
 **Sometimes confused with**
 the
-[Turban snail](../turbinidae/turbinidae.md)
+[Turban snail](../turbinidae/turbinidae)
 (Family Turbinidae) which has a shell with more distinct whorls and a thick, chalky operculum. While many Top snails have a more conical shell and a thin operculum made of a horn-like material. Here's more on
-[how to tell apart turban and top shell snails](../topturban.md)
+[how to tell apart turban and top shell snails](../topturban)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What do they eat?**
@@ -113,7 +113,7 @@ Top shells graze the algae that thrive on the rocks, scraping this off with thei
 The shell is lined with mother-of-pearl. Larger species are collected for food and their shells that are made into ornaments and pearl buttons. This is still a significant industry in some Pacific Islands and effort is being made to establish a susbtainable method of farming these snails.
 
 **Status and threats:**
-[Button snails](umbonium.md)
+[Button snails](umbonium)
 are listed as 'Vulnerable' on the Red List of threatened animals of Singapore.
 
 ---
@@ -147,7 +147,7 @@ On this website, they are grouped by external features for convenience of displa
 
 **Family Trochidae**
 
-*[Chrysostoma paradoxum](chrysostoma.md)*
+*[Chrysostoma paradoxum](chrysostoma)*
 (Orange-mouth top shell snail)
 *Clanculus granosus=^Clanculus bronni
 
@@ -160,7 +160,7 @@ Monilea lentiginosa
 
 Monilea solanderi
 
-[Monodonta labio](labio.md)*
+[Monodonta labio](labio)*
 (Toothed top shell snail)
 *Pseudominolia musiva
 
@@ -168,14 +168,14 @@ Monilea solanderi
 
 Thalotia zebuensis
 
-[Trochus maculatus](maculatus.md)*
+[Trochus maculatus](maculatus)*
 (Spotted top shell snail)
 **
 *Trochus radiatus
 
 Trochus tricatenatus
 
-[Umbonium vestiarium](umbonium.md)*
+[Umbonium vestiarium](umbonium)*
 (Button snail) (VU: Vulnerable)
 
 **^Family Solariellidae**

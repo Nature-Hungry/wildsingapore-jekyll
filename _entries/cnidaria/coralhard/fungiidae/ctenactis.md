@@ -164,7 +164,7 @@ has one mouth, while the other species may have several. In all of them, the mou
 
 **Sometimes confused with**
 other long mushroom corals. Here's more on how to
-[tell apart elongated mushroom hard corals](cflong.md)
+[tell apart elongated mushroom hard corals](cflong)
 .
 
 **Status and threats:**
@@ -229,7 +229,7 @@ on the
 .
 **
 
-**[Family Fungiidae](fungiidae.md)
+**[Family Fungiidae](fungiidae)
 
 Genus
 *Ctenactis***

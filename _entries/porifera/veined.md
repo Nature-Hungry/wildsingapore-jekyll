@@ -51,9 +51,9 @@ Encrusting sheet, thin fragile, but broad (10-20cm). Surface smooth and glossy w
 
 **May be confused with**
 encrusting ascidians such as
-[Rock slime ascidians](../ascidiacea/rockslime.md)
+[Rock slime ascidians](../ascidiacea/rockslime)
 and
-[Orange lobe ascidians](../ascidiacea/orange.md)
+[Orange lobe ascidians](../ascidiacea/orange)
 . These ascidians do not have 'veins'.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Species are difficult to positively identify without close examination.

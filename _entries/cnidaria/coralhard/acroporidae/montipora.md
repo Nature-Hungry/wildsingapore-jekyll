@@ -107,7 +107,7 @@ It's hard to distinguish them without close examination of small features. On th
 
 **Role in the habitat:**
 Montipora corals are among the important building blocks of a reef. Together with
-[Acropora coral](acropora.md)
+[Acropora coral](acropora)
 (
 *Acropora*
 sp.), another member of the Family Acroporidae, montipora corals account for one-third of reef-building coral species. Those with branching forms provide shelter for all kinds of animals including seahorses, tiny clams and all kinds of crabs.
@@ -142,13 +142,13 @@ in the above.
 *On this website, they are grouped by external features for convenience of display*
 *.*
 
-[Branching montipora](monbranch.md)
+[Branching montipora](monbranch)
 
-[Plate montipora](monplate.md)
+[Plate montipora](monplate)
 
-[Ridged montipora](monridged.md)
+[Ridged montipora](monridged)
 
-**[Family Acroporidae](acroporidae.md)
+**[Family Acroporidae](acroporidae)
 
 Genus
 *Montipora***

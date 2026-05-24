@@ -33,9 +33,9 @@ galleries:
     caption: This one landed on the road from a tall tree. Pulau Ubin, Jan 11
 links_references: |
   **Links**
-  - [Paradise Tree Snake](http://www.ecologyasia.com/verts/snakes/paradise_tree-snake.md)
+  - [Paradise Tree Snake](http://www.ecologyasia.com/verts/snakes/paradise_tree-snake)
   on Nick Baker's EcologyAsia website: fact sheet with photos.
-  - [Paradise Tree Snake](http://www.wildsingapore.per.sg/fauna/facts/snake_paradisetree.md)
+  - [Paradise Tree Snake](http://www.wildsingapore.per.sg/fauna/facts/snake_paradisetree)
   on Chan Kwok Wai's Wildlife Singapore: fact sheet with photos.
   - [Flying snake home page](http://www.flyingsnake.org/)
   by Jake Socha with lots of photos, videos and information about this snake.

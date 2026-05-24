@@ -196,7 +196,7 @@ This bushy colony with thick, fleshy branches is sometimes seen on reefs on our 
 ## Features
 
 Colony bushy 20-30m wide, with stems that are long and not frequently branched. Each stem is cylindrical, thick (about 1cm in diameter) and fleshy with a texture that resembles
-[leathery soft coral](/wildfacts/cnidaria/coralsoft/alcyoniidae.md)
+[leathery soft coral](/wildfacts/cnidaria/coralsoft/alcyoniidae)
 (Family Alcyoniidae). Usually dusky pinkish beige. Each stem has a dark, stiffly flexible wire-like central support that is sometimes exposed at the tips. Fat polyps are about 1cm long with short branched tentacles. They can retract completely leaving a smooth common tissue.
 
 Unlike other more colourful sea fans which are found in dark places or murky water, the Leathery sea fan harbours symbiotic algae (zooxanthellae) which produces nutrients through photosynthesis and shares these with the sea fan host. They are thus found in the open in reefs with clearer water.
@@ -212,9 +212,9 @@ species.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 ---
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Leathery lunch:**
-[Spindle cowries](../../../mollusca/gastropoda/ovulidae/ovulidae.md)
+[Spindle cowries](../../../mollusca/gastropoda/ovulidae/ovulidae)
 eat sea fans and one was seen on a Leathery sea fan.
-[Sea fan winged oysters](../../../mollusca/bivalvia/pteriidae/seafan.md)
+[Sea fan winged oysters](../../../mollusca/bivalvia/pteriidae/seafan)
 also settle on the branches of sea fans..
 
 {% include img-wrap-group.html items=page.galleries.gallery4 %}

@@ -137,24 +137,24 @@ Button zoanthids don't incorporate sand in their bodies so the body column feels
 Tentacles short with rounded (not tapered) tips, usually in two rows. The oral disk is smooth, without furrows, although they may have radiating patterns of lines. There is a muscle surrounding the central mouth that makes the oral disk appear to be divided into two halves.
 Body generally pale blue but oral disk and tentacles in a wide range of colours, often the oral disk is a contrasting colour from the tentacles.
 Andy Dinesh took a
-[video clip of some zoanthids flourescing](zoanthus1v.md)
+[video clip of some zoanthids flourescing](zoanthus1v)
 under black light!
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 The most commonly encountered species of button zoanthids on Singapore shores are currently
 *Zoanthus sansibaricus*
 and
-*[Zoanthus vietnamensis](pink.md)*
+*[Zoanthus vietnamensis](pink)*
 .
 
 Sometimes, the individual polyps are so tightly packed that the polyp takes on a polygonal shape. Such mounds of zoanthids are sometimes mistaken for hard coral.
 
 **Sometimes confused**
 with
-[sponges](../../../porifera/porifera.md)
+[sponges](../../../porifera/porifera)
 ,
-[ascidians](../../../ascidiacea/ascidiacea.md)
+[ascidians](../../../ascidiacea/ascidiacea)
 and other blob-like animals. Here's more on
-[how to tell apart blob-like animals](../../../glossary/blobs.md)
+[how to tell apart blob-like animals](../../../glossary/blobs)
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**What do they eat?**
 Button zoanthids

@@ -89,7 +89,7 @@ galleries:
       facebook .
 links_references: |
   **Links**
-  - [Poisonous Xanthid Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/252.md)
+  - [Poisonous Xanthid Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/252)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -122,12 +122,12 @@ This brown crab with distinctive notches on the side of its body is sometimes se
 ## Features
 
 Body width 4-6cm. Body and claws chocolate brown and covered with large rounded bumps. Smooth sides on the body edges with regular notches highlighted in pale bars that make the creature resemble a curry puff or pie. Pincers large and thick with dark brown claws. Like other brightly coloured Xanthid crabs, it is probably
-[poisonous](xanthidae.md)
+[poisonous](xanthidae)
 .
 
 **Sometimes mistaken for**
 the more commonly seen
-[Floral egg crab](floridus.md)
+[Floral egg crab](floridus)
 (
 *Atergatis floridus*
 ).

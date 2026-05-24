@@ -89,7 +89,7 @@ Growing in clumps on coral rubble near reefs.
 
 ![](http://www.wildsingapore.com/vertebrates/fish/syngnathidae/kuda/060724chgg4880m3.jpg)*
 Tiny
-[seahorse](../../../vertebrates/fish/syngnathidae/hippocampus.md)
+[seahorse](../../../vertebrates/fish/syngnathidae/hippocampus)
 among the branches!
 **Changi, Jul 06**
 

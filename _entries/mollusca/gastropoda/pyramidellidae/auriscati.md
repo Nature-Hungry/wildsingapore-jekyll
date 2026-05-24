@@ -66,9 +66,9 @@ location:
 
 ## Where seen?
 This snail is sometimes seen in sandy sheltered man-made lagoons on our Southern shores. Often, a pair or a handful are seen among the more numerous
-[Bazillion snails](../potamididae/zonalis.md)
+[Bazillion snails](../potamididae/zonalis)
 . According to Abbott, it is uncommon. It is among the larger of the
-[pyramid snails](pyramidellidae.md)
+[pyramid snails](pyramidellidae)
 , which are mostly very tiny parasitic snails.
 
 ## Features
@@ -115,7 +115,7 @@ Odostomia antelia
 
 Odostomia cincta
 
-[Otopleura auriscati](auriscati.md)*
+[Otopleura auriscati](auriscati)*
 (Cat's ear pyramid snail)
 *Pyramidella dolabrata
 

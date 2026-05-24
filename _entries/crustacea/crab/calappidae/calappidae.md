@@ -92,10 +92,10 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 *Calappa lophos*
 (VU: Vulnerable)
 
-*[Calappa hepatica](hepatica.md)*
+*[Calappa hepatica](hepatica)*
 (Reef box crab) (VU: Vulnerable)
 
-*[Calappa philargius](philargius.md)*
+*[Calappa philargius](philargius)*
 (Spotted box crab) (VU: Vulnerable)
 
 ---

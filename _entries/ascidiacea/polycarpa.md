@@ -55,7 +55,7 @@ galleries:
 links_references: |
   **Links**
   - [Sea Squirt
-  *Polycarpa*](http://mangrove.nus.edu.sg/pub/seashore/text/226.md)
+  *Polycarpa*](http://mangrove.nus.edu.sg/pub/seashore/text/226)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.

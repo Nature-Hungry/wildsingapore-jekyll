@@ -54,13 +54,13 @@ links_references: |
   **Links**
   - [Blue-spotted mudskipper (
   *Boleophthalmus boddarti*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2106.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2106)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
   - [Blue-spotted mudskipper (
   *Boleophthalmus boddarti*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/369.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/369)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
@@ -76,7 +76,7 @@ links_references: |
   from
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet.
-  - [Blue-spotted mudskipper](http://www.ecologyasia.com/verts/brackish-fishes/blue-spotted-mudskipper.md)
+  - [Blue-spotted mudskipper](http://www.ecologyasia.com/verts/brackish-fishes/blue-spotted-mudskipper)
   on
   [EcologyAsia](http://www.ecologyasia.com/)
   : photos and fact sheet.

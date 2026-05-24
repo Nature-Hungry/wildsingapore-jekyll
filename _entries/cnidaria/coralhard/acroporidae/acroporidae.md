@@ -143,7 +143,7 @@ While a few species are listed as Endangered, Vulnerable or Near Threatened, for
 from Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
 
 **[***Acropora***
-**sp.**](acropora.md)
+**sp.**](acropora)
 **(Acropora corals)**
 with list of species recorded for Singapore**
 ****Alveopora****
@@ -162,7 +162,7 @@ Alveopora spongiosa
 
 Alveopora tizardi*
 [***Astreopora***
-**sp.**](astreopora.md)
+**sp.**](astreopora)
 **(Pebble corals)**
 with list of species recorded for Singapore
 
@@ -174,7 +174,7 @@ Isopora palifera*
 (Catch bowl coral)
 
 [***Montipora***
-**sp.**](montipora.md)
+**sp.**](montipora)
 **(Montipora corals)**
 with list of species recorded for Singapore
 

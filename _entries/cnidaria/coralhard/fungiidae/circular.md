@@ -168,12 +168,12 @@ Large ones lie unattached, sometimes in groups of several individuals of differe
 Some
 *Fungia*
 species may also be
-[elongated and oval](oval.md)
+[elongated and oval](oval)
 , rather than circular.
 
 **Sometimes confused with**
 the
-[Sunflower mushroom hard coral](heliofungia.md)
+[Sunflower mushroom hard coral](heliofungia)
 (
 *Heliofungia actiniformis*
 ) especially when the tentacles are retracted. The Sunflower mushroom hard coral also has a flat circular skeleton. However, it has long cylindrical white-tipped tentacles that when full extended, completely obscures the skeleton so that the coral resembles a sea anemone.

@@ -139,14 +139,14 @@ have a long 'horn' that sticks out and curves towards the head. This acts as a d
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Sometimes mistaken for**
 the
-['Jolly Green Giant' nudibranch](sinuatum.md)
+['Jolly Green Giant' nudibranch](sinuatum)
 (
 *Ceratosoma sinuatum*
 ) which has regular undulating lobes along the edge of the mantle from the head to the tail.
 
 **What does it eat?**
 It is eats
-[sponges](../../../porifera/porifera.md)
+[sponges](../../../porifera/porifera)
 .
 
 ---

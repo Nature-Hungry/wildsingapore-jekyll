@@ -42,7 +42,7 @@ links_references: |
   [The Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html)
   at Washington State University Tri-Cities Natural History Museum website.
   - Family Mactridae in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   **References**
@@ -67,7 +67,7 @@ location:
 
 ## Where seen?
 The
-[Big brown matra clam](bigbrown.md)
+[Big brown matra clam](bigbrown)
 that belongs to this family is often seen on our northern shores.
 
 **What are surf clams?**
@@ -110,7 +110,7 @@ Mactra hepatica=^Mactra cygnus
 Mactra inaequalis
 
 Mactra mera=^
-[Mactra grandis](bigbrown.md)*
+[Mactra grandis](bigbrown)*
 (Big Brown clam)
 *Mactra violacea
 

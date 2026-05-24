@@ -72,7 +72,7 @@ location:
 
 ## Where seen?
 These beautiful feathery seaweeds are sometimes seen in on our Southern shores, attached to coral rubble near reefs. In another part of its lifecycle, could it look like the
-[Cotton candy red seaweed](fluffy.md)
+[Cotton candy red seaweed](fluffy)
 ?
 
 ## Features

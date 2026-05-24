@@ -84,7 +84,7 @@ location:
 
 ## Where seen?
 This small flatworm is sometimes seen on
-[Beige sheet asicidians](../../ascidiacea/beige.md)
+[Beige sheet asicidians](../../ascidiacea/beige)
 that are growing under rocks. So far, only seen on our Northern shores.
 
 ## Features

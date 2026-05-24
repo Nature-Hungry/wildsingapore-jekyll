@@ -75,7 +75,7 @@ The tall Jejawi fig next to Jejawi Tower.
 
 ![](http://www.wildsingapore.com/wildfacts/plants/others/ficus/crassiramea/091213ubnd5794m6l.jpg)*
 The rare
-[Collared fig](crassiramea.md)
+[Collared fig](crassiramea)
 .
 **Pulau Ubin, Dec 09**
 

@@ -36,7 +36,7 @@ links_references: |
   **Links**
   - [Moon Snail (
   *Polinices*
-  sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/142.md)
+  sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/142)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -57,7 +57,7 @@ These frilly edged flat spirals
 are sometimes numerous on sandy shores, as well as seagrass areas.
 **What is a sand collar?**
 The sand collar is the egg mass of a
-[moon snail](naticidae.md)
+[moon snail](naticidae)
 . A moon snail lays her eggs at night. The eggs are laid singly in capsules which are embedded in a matrix of sand grains - a combination of mucus and sand which forms a gelatinous sheet that hardens. She lies at the center of the collar as she creates it, so the hole in centre of the collar may give an indication of the size of the mother snail.
 
 **It's alive!**

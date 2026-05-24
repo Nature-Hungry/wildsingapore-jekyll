@@ -95,7 +95,7 @@ links_references: |
   **Links**
   - [Painted scorpionfish (
   *Parascorpaena picta*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/254.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/254)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)
   .*
@@ -139,13 +139,13 @@ About 10cm long, to 17cm. A huge head, particularly obvious in a fish with a sle
 
 **Sometimes mistaken for**
 a
-[stonefish](../synanceiidae/horrida.md)
+[stonefish](../synanceiidae/horrida)
 (Family Synanceiidae) or the
-[False scorpionfish](../centrogenyidae/vaigiensis.md)
+[False scorpionfish](../centrogenyidae/vaigiensis)
 (
 *Centrogenys vaigiensis*
 ), a grouper, which looks very similar. Here's more on
-[how to tell apart fishes that look like stones](../cfstonefish.md)
+[how to tell apart fishes that look like stones](../cfstonefish)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

@@ -70,7 +70,7 @@ links_references: |
   - Javan false limpet (
   *Siphonaria javanica*
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   **References**
@@ -99,7 +99,7 @@ This limpet with prominent ribs is commonly seen in small groups mainly on our S
 1-2cm long, elsewhere 3-4cm.
 Shell thin conical with 10-12 thick broad white ribs. There is no hole at the top of the shell.
 Greenish foot . A false limpet, it breathes through lungs instead of gills. This limpet is often preyed upon by
-[drills](../muricidae/muricidae.md)
+[drills](../muricidae/muricidae)
 .
 
 **Human uses:**

@@ -202,7 +202,7 @@ Male flower crabs have long pincers, twice to three times longer than their bodi
 **Moult and mate:**
 Like many other crabs, Flower crabs can only mate just after the female moults. Often, a male is seen protectively holding on to a female. He does this because she is either just about to moult; or he has just mated with her and wants to make sure no other male gets to her before her shell hardens. The male transfers his sperm into a special receptacle in the female. When the female is ready to spawn, she will use his sperm to fertilise her eggs. The fertilised eggs are attached as a big mass (called a sponge) to her abdomen where she cares for them until they hatch. They hatch into free-swimming larvae that drift with the plankton, changing into yet another form before settling down and developing into miniature flower crabs.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
-[Smaller juvenile flower crabs](tiny.md)
+[Smaller juvenile flower crabs](tiny)
 (1-2cm) may have a wide variety of colours and patterns including bold bars and blotches.
 
 **What does it eat?**
@@ -210,9 +210,9 @@ The flower crab is a predator. In other parts of the world, it has been reported
 
 **Flowering crabs:**
 Some flower crabs may have a 'garden' of various living seaweed and
-[barnacles](../../othercrust/ciriipedia/balanus.md)
+[barnacles](../../othercrust/ciriipedia/balanus)
 growing on their bodies, pincers and legs. These crabs are usually those infected by a
-[parasitic barnacle](../../othercrust/ciriipedia/thompsonia.md)
+[parasitic barnacle](../../othercrust/ciriipedia/thompsonia)
 (
 *Thompsonia*
 sp.)

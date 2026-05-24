@@ -104,7 +104,7 @@ links_references: |
   **Links**
   - [Anchor Tuskfish (
   *Choerodon anchorago*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/347.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/347)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)
   .*

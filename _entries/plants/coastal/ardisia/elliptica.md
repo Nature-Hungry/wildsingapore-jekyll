@@ -36,9 +36,9 @@ links_references: |
   - [*Ardisia elliptica*](http://floraofsingapore.wordpress.com/2010/04/16/ardisia-elliptica/)
   on Total Vascular Flora of Singapore Online: photos and fact sheet.
   - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.md)
+  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
   (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
-  - [*Ardisia elliptica*](http://www.hear.org/pier/species/ardisia_elliptica.md)
+  - [*Ardisia elliptica*](http://www.hear.org/pier/species/ardisia_elliptica)
   on Pacific Island Ecosystems at Risk (PIER): details on about the plant and its spread as a noxious invasive weed in the Pacific Islands.
   
   **References**

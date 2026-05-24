@@ -98,7 +98,7 @@ links_references: |
   **Links**
   - [Melon or Baler Shell (
   *Cymbium melo*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/144.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/144)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -111,7 +111,7 @@ links_references: |
   - Indian volute (
   *Melo melo*
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   **References**
@@ -153,9 +153,9 @@ is rather thin and quite fragile for such a large snail
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **What does it eat?**
 This predator and hunts other snails, moving about on the surface. Like other volutes, it uses its large foot to enclose the prey. So far, we have seen them eating
-[Noble volutes](nobilis.md)
+[Noble volutes](nobilis)
 and also
-[Gong-gong snail](../strombidae/canarium.md)
+[Gong-gong snail](../strombidae/canarium)
 .
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Volute babies:**

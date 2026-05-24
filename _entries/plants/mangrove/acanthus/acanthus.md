@@ -36,20 +36,20 @@ links_references: |
   **Links**
   - [Jeruju (
   *Acanthus volubilis*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/1047.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/1047)
   ,
   [Jeruju hitam (
   *Acanthus ebracteatus*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/1045.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/1045)
   and
   [Jeruju putih (
   *Acanthus ilicifolius*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/1046.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/1046)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)
   I (Plant Diversity)*
   . Singapore Science Centre. 168 pp.
-  - [Sea Holly (Acanthaceae)](http://mangrove.nus.edu.sg/pub/seashore/text/110.md)
+  - [Sea Holly (Acanthaceae)](http://mangrove.nus.edu.sg/pub/seashore/text/110)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -62,7 +62,7 @@ links_references: |
   *[Acanthus volubilis](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=6527)*
   on the NParks Flora and Fauna website: photos and fact sheet.
   - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.md)
+  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
   (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
   
   **References**
@@ -88,7 +88,7 @@ links_references: |
 
 ## Where seen?
 These prickly plants with pretty flowers are often seen in thickets in the back mangroves, especially on
-[mud lobster mounds](../../../crustacea/othercrust/lobster/thalassina.md)
+[mud lobster mounds](../../../crustacea/othercrust/lobster/thalassina)
 . These plants have no relation whatsoever with the Christmas holly, although they appear similar. In fact, not all the leaves of a Sea holly plant may have spiny edges. Leaves growing the deep shade can be totally spineless.
 
 ## Features

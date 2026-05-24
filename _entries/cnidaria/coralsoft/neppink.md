@@ -72,9 +72,9 @@ This bright pink flowery soft coral is seen on our Northern shores. Attached to 
 Colony tree-like about 10-15cm. Colony is branched with sturdy 'stems' emerging from a stout central 'trunk'. The 'stem' white or transparent, with red or pink sclerites embedded in the tissues. Polyps tiny (about 0.5cm) with eight white branched tentacles. The polyps appear in clusters at the tips of the branches, no obvious large spikes next to the polyps. Tends to be pinkish at the polyp clusters. The animals do not have symbiotic algae (zooxanthellae) and thus can be found in murky water and dark places.
 **Flowery friends:**
 Tiny animals found on the soft coral include tiny
-[false cowrie snails](../../mollusca/gastropoda/ovulidae/softcoral.md)
+[false cowrie snails](../../mollusca/gastropoda/ovulidae/softcoral)
 , tiny porcelain crabs and
-[tiny colourful brittle stars](../../echinodermata/ophiuroidea/tinycolourful.md)
+[tiny colourful brittle stars](../../echinodermata/ophiuroidea/tinycolourful)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 ---

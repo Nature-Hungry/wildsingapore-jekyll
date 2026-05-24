@@ -82,7 +82,7 @@ location:
 
 ## Where seen?
 This seagrass is abundant on Pulau Semakau, growing among the more dominant
-[Tape seagrass](enhalus.md)
+[Tape seagrass](enhalus)
 (
 *Enhalus acoroides*
 ), and on Cyrene Reef.
@@ -95,7 +95,7 @@ Noodle seagrass is found throughout the tropical Indo-West Pacific region. Elsew
 Leaves of those seen were 5-10cm long, but elsewhere, they can grow to 50cm long. The seagrass has tubular leaves much like a thick noodle! Unlike other seagrasses that are flat, noodle seagrass is circular in cross-section. The leaves have a smooth pointed tip. The rhizomes (underground stems) are slender (1.5mm in diameter). Shoots emerge from these rhizomes, each shoot with 2-3 leaves, the lower portions encased in a sheath. Longer shoots tend to be branched and found in calmer waters. As the leaves contain air cavities, they float easily when detached. Older leaves tend to break off as they become brittle. Elsewhere, these may form dense rafts that float and wash ashore.
 
 **Sometimes confused with**
-[Needle seagrass](halodule.md)
+[Needle seagrass](halodule)
 (
 *Halodule*
 sp.). While both are long and narrow, noodle seagrass, however, is cylindrical like plastic tubing or noodles, while needle seagrass is flat like a ribbon.

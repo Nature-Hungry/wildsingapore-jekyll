@@ -168,7 +168,7 @@ Braided-line flatworm (
 *Pseudoceros*
 sp. 4): resembles Pseudoceros sp. 3 but the central line is golden-speckled yellow that looks intermittent by some dull orange and ends in front. Body colour bluish-white to bluish.
 
-[Racing-lined flatworm](bifurcus.md)
+[Racing-lined flatworm](bifurcus)
 (
 *Pseudoceros bifurcus*
 ): Body solid blue to bluish purple (not bluish-white) with central line that is white (not yellow or golden) becoming orange or red near the head, the line is edged with a thin dark purple border.

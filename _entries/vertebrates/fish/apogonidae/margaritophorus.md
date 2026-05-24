@@ -81,11 +81,11 @@ links_references: |
   **Links**
   - [Chequered cardinalfish (
   *Apogon margaritophorus*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/275.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/275)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
-  - [Chequered Cardinalfish](http://www.ecologyasia.com/verts/fishes/chequered-cardinalfish.md)
+  - [Chequered Cardinalfish](http://www.ecologyasia.com/verts/fishes/chequered-cardinalfish)
   on Ecology Asia: fact sheet with photos
   - [Cardinalfishes](http://ikanfish.wordpress.com/cardinalfishes/)
   on Reef Fishes of Singapore by Jeffrey Low.

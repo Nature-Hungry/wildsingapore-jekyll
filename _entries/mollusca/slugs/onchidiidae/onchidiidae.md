@@ -69,18 +69,18 @@ links_references: |
   (Systellommatophora: Onchidiidae) Onch slug by Chang Jia Jin Marc, 2015, on taxo4254
   - *[Peronina alta](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=207)*
   on the NParks Flora and Fauna website.
-  - [Mangrove slugs Family Onchidiidae](http://mangrove.nus.edu.sg/guidebooks/text/2089.md)
+  - [Mangrove slugs Family Onchidiidae](http://mangrove.nus.edu.sg/guidebooks/text/2089)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp
   - [Sea Slug
-  *Onchidium*](http://mangrove.nus.edu.sg/pub/seashore/text/149.md)
+  *Onchidium*](http://mangrove.nus.edu.sg/pub/seashore/text/149)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
   - [Onchidiidae Diversity and Evolution](http://campillos.ucmerced.edu/%7Ebdayrat/Onchidiidae.html)
   on the Benoit Dayrat Lab at University of California at Merced
-  - [Marine Pulmonate Slugs](http://www.seaslugforum.net/onchid.md)
+  - [Marine Pulmonate Slugs](http://www.seaslugforum.net/onchid)
   on
   [The Sea Slug Forum](http://www.seaslugforum.net/)
   by Dr Bill Rudman: a brief intro to Onchs with lots of emails queries and photos and Dr Rudman's responses to them.
@@ -118,14 +118,14 @@ Onch slugs are common on all our shores, on algae-covered rocks or other hard su
 
 **What are onch slugs?**
 Onch slugs belong to
-[Phylum Mollusca](../../mollusca.md)
+[Phylum Mollusca](../../mollusca)
 and are snails of the
-[Class Gastropoda](../../gastropoda.md)
+[Class Gastropoda](../../gastropoda)
 that lack shells.
 
 **Onch slugs are NOT nudibranchs!**
 Pulmonate sea slugs such as the Onch slugs of the Family Onchidiidae breathe air through simple lungs or modified gills. Other sea slugs breathe underwater with gills. Here's more on how to tell apart
-[onch slugs from other sea slugs](../../nudiharesac.md)
+[onch slugs from other sea slugs](../../nudiharesac)
 .
 
 ## Features
@@ -179,13 +179,13 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 **
 *Onchs are arranged on this website based on their external features for convenience of display.*
 
-[Big pimply onch slugs](bigpimply.md)
+[Big pimply onch slugs](bigpimply)
 
-[Smooth onch slugs](smooth.md)
+[Smooth onch slugs](smooth)
 
-[Long onch slugs](long.md)
+[Long onch slugs](long)
 
-[Ornate onch slugs](ornate.md)
+[Ornate onch slugs](ornate)
 
 **Family Onchidiidae**
 
@@ -195,7 +195,7 @@ Onchidium ambiguum
 
 Onchidium griseofuscum
 
-[Onchidium griseum](griseum.md)*
+[Onchidium griseum](griseum)*
 (Orange-footed mangrove onch slug)
 *Onchidium martensi
 
@@ -220,7 +220,7 @@ sp. 3
 (DD: Data deficient)
 **
 [*Platyvindex*
-sp.](platyvindex.md)
+sp.](platyvindex)
 (Grey-footed onch slug)
 *Platevindex coriaceus
 

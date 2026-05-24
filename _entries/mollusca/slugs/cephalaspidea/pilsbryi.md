@@ -117,7 +117,7 @@ This small batik-patterned slug is sometimes seen on some of our shores, burrowi
 
 **What does it eat?**
 Some species eat
-[bubble shell snails](hamineoidae.md)
+[bubble shell snails](hamineoidae)
 , hunting them by following their slime trail then swallowing them whole.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

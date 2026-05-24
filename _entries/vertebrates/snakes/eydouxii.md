@@ -58,9 +58,9 @@ galleries:
     caption: Changi, May 13 Photo shared by Loh Kok Sheng on his blog .
 links_references: |
   **Links**
-  - [Marbled Sea Snake](http://www.ecologyasia.com/verts/snakes/marbled-sea-snake.md)
+  - [Marbled Sea Snake](http://www.ecologyasia.com/verts/snakes/marbled-sea-snake)
   on Nick Baker's EcologyAsia website: fact sheet with photos.
-  - [Volume 6: Sea snakes](http://www.fao.org/docrep/009/x2401e/x2401e00.md)
+  - [Volume 6: Sea snakes](http://www.fao.org/docrep/009/x2401e/x2401e00)
   by A. R. Rasmussen, edited by Kent E. Carpenter and Volker H. Niem FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific on the Food and Agriculture Organization of the United Nations (FAO) website (pdf).
   - [*Aipysurus eydouxii*](http://www.iucnredlist.org/details/176757/0)
   on the IUCN Red List.

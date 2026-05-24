@@ -48,7 +48,7 @@ links_references: |
   from
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet.
-  - [Slender mudskipper](http://www.ecologyasia.com/verts/brackish-fishes/slender-mudskipper.md)
+  - [Slender mudskipper](http://www.ecologyasia.com/verts/brackish-fishes/slender-mudskipper)
   on
   [EcologyAsia](http://www.ecologyasia.com/)
   : photo and fact sheet
@@ -75,7 +75,7 @@ A small, well camouflaged mudskipper that is seen in mangroves and other silty s
 of the
 [Encyclopedia of Life](http://www.eol.org/data_objects/8861310)
 highlighted these features that identify the Slender mudskipper: The first dorsal fin has a dark spot at the base towards the tail, lacks a white margin, lacks a red tint and is relatively small in size, with a wide interdorsal gap (distance between the first dorsal fin, and the longer dorsal fin further back on the top of the body). More about
-[how to tell apart small mudskippers](cfmudsmall.md)
+[how to tell apart small mudskippers](cfmudsmall)
 commonly found on our shores.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

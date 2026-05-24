@@ -83,7 +83,7 @@ This small colourful nudibranch with a cow-like pattern is sometimes seen on our
 
 **Sometimes confused with**
 the
-[Black cow nudibranch](orientalis.md)
+[Black cow nudibranch](orientalis)
 also found in similar habitat. The Maroon cow nudibranch has white rhinophores and gills and maroon spots, while the Black cow nudibranch has orange rhinophores and gills and black spots.
 
 **What does it eat?**

@@ -197,20 +197,20 @@ The tentacles are close to one another at the circumference of the oral disk, an
 
 **Sometimes confused with**
 other large sea anemones and similar large cnidarians. Here's more on how to tell apart
-[large sea anemones with long tentacles](cfbiglong.md)
+[large sea anemones with long tentacles](cfbiglong)
 and
-[large 'hairy' cnidarians](../cflargecnidarians.md)
+[large 'hairy' cnidarians](../cflargecnidarians)
 .
 
 **Snaky friends:**
 The anemone harbours symbiotic single-celled algae (called zooxanthellae). The algae undergo photosynthesis to produce food from sunlight. The food produced is shared with the anemone, which in return provides the algae with shelter and minerals. The zooxanthellae are believed to give tentacles their brown or greenish tinge.
 
 Several kinds of animals have been associated with snaky anemones including
-[anemone shrimps](../../crustacea/othercrust/shrimp/palaemonidae.md)
+[anemone shrimps](../../crustacea/othercrust/shrimp/palaemonidae)
 (
 *Periclimenes*
 sp.) and
-[anemonefishes](../../vertebrates/fish/pomacentridae/amphiprion.md)
+[anemonefishes](../../vertebrates/fish/pomacentridae/amphiprion)
 (
 *Amphiprion*
 sp.) including

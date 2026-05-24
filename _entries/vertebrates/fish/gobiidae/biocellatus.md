@@ -99,9 +99,9 @@ Up to 12cm, those seen about 6-8cm long. The head is big but not as flat as in t
 
 **Sometimes mistaken**
 for true
-[flatheads](../platycephalidae/platycephalidae.md)
+[flatheads](../platycephalidae/platycephalidae)
 (Family Platycephalidae). Here's more on
-[how to tell apart fishes with flat heads](../cfflatheads.md)
+[how to tell apart fishes with flat heads](../cfflatheads)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

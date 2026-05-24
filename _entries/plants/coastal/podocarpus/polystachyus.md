@@ -48,10 +48,10 @@ links_references: |
   on the teamseagrass blog.
   - [Sea teak (
   *Podocarpus polystachyus*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/1040.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/1040)
   Ng, Peter K. L. & N. Sivasothi, 1999. A Guide to the Mangroves of Singapore I (Plant Diversity). Singapore Science Centre.
   - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.md)
+  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
   (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
   
   **References**
@@ -89,13 +89,13 @@ According to Burkill, the timber is small but still used for house building, car
 
 **Status and threats:**
 It is listed as 'Critically Endangered' in the Red List of threatened plants of Singapore. With the loss of our natural coastal habitats and mangroves, this once common plant is also becoming increasingly rare. Joseph Lai has recently recorded Sea teak at
-[Sisters Island](http://www.eart-h.com/text/sisflora.md)
+[Sisters Island](http://www.eart-h.com/text/sisflora)
 ,
-[Lazarus Island](http://www.eart-h.com/text/lazarus.md)
+[Lazarus Island](http://www.eart-h.com/text/lazarus)
 ,
-[Pulau Jong](http://www.eart-h.com/text/jong1.md)
+[Pulau Jong](http://www.eart-h.com/text/jong1)
 and
-[Pulau Sarimbun](http://www.eart-h.com/text/sarflora.md)
+[Pulau Sarimbun](http://www.eart-h.com/text/sarflora)
 . It is also found in abundance on
 [Sentosa's natural cliffs](http://wildfilms.blogspot.com/2008/05/sea-teak-of-sentosa.html)
 at the Tanjung Rimau natural shore. According to the Red Data Book, it is also found at St. John's Island. On the mainland, it is only found in the Sungei Mandai area. But the tree is now widely planted in many of our coastal parks.

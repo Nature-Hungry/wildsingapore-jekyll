@@ -76,7 +76,7 @@ Sometimes seen on some of our shores, among coral rubble near living reefs, usua
 **What does it eat?**
 *Maritigrella*
 flatworms eat
-[ascidians](../../ascidiacea/ascidiacea.md)
+[ascidians](../../ascidiacea/ascidiacea)
 by sucking out each individual ascidian with a tube-shaped pharynx (a part of the gut) that can be pushed out through the mouth to engulf the prey.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

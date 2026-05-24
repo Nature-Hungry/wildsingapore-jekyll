@@ -55,12 +55,12 @@ This large snail is rarely seen alive, so far only on our Northern shores. Altho
 **'Hairy' shell**
 **:**
 The shell of a living snail is covered with a layer of fine hairs (called the periostracum). These hairs trap surrounding sediment so that the snail blends perfectly into the mud. When the snail dies, the hairs drop off revealing a glossy, orange shell. The large empty shell is often taken over by a
-[hermit crab](../../../crustacea/othercrust/anomura/hermit/hermit.md)
+[hermit crab](../../../crustacea/othercrust/anomura/hermit/hermit)
 .
 
 **Sometimes confused with**
 the more commonly seen
-[Spiral melongena](cochlidium.md)
+[Spiral melongena](cochlidium)
 , which has a shorter siphonal canal and a black body. The Ternate false fusus is much more slender and has paler body.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

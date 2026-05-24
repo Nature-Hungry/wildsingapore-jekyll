@@ -47,7 +47,7 @@ links_references: |
   **Links**
   - [Hairy Crab (
   *Pilumnus vespertilio*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/211.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/211)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -107,7 +107,7 @@ location:
 
 ## Where seen?
 The most commonly seen member of this family on our shores are the
-[Common hairy crabs](pilumnus.md)
+[Common hairy crabs](pilumnus)
 (
 *Pilumnus*
 sp.) near rubble and reefs.
@@ -147,7 +147,7 @@ in red are those listed among the threatened animals of Singapore
 
 Actumnus elegans
 
-[Actumnus setifer](setifer.md)*
+[Actumnus setifer](setifer)*
 (Rubble-carrying hairy crab)
 *+Actumnus aff. squamosus
 
@@ -159,7 +159,7 @@ Bathypilumnus sinensis
 
 Ceratocarcinus longimanus*
 (
-[Feather star crab](featherstar.md)
+[Feather star crab](featherstar)
 )
 *Ceratoplax ciliata
 
@@ -174,11 +174,11 @@ Galene bispinosa*
 **
 *Harrovia albolineata*
 (
-[Feather star crab](featherstar.md)
+[Feather star crab](featherstar)
 ) (CR: Critically endangered)
 *Harrovia longipes*
 (
-[Feather star crab](featherstar.md)
+[Feather star crab](featherstar)
 ) (CR: Critically endangered)
 *Heteropanope changensis
 
@@ -240,11 +240,11 @@ Pilumnus scabriusculus
 +Pilumnus serenei
 
 +
-[Pilumnus sluiteri](sluiteri.md)*
+[Pilumnus sluiteri](sluiteri)*
 (Fuzzy reef crab)
 *Pilumnus spinifrons
 
-[Pilumnus vespertilio](pilumnus.md)*
+[Pilumnus vespertilio](pilumnus)*
 (Common hairy crab)
 *Pronotonyx laevis
 

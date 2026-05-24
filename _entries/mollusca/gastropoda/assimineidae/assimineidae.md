@@ -53,14 +53,14 @@ links_references: |
   **Links**
   - [Red berry snail (
   *Sphaerassiminea miniata*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2083.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2083)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)
   II (Animal Diversity)*
   . Singapore Science Centre. 168 pp.
   - [Red mangrove shell (
   *Assiminaea brevicula*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/152.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/152)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.

@@ -51,9 +51,9 @@ links_references: |
   **Links**
   - [*Planaxis sulcatus*](http://www.sealifebase.org/summary/speciessummary.php?id=4317)
   on SeaLife Base: Technical fact sheet.
-  - [Clusterwinks (Family Planaxidae)](http://seashellsofnsw.org.au/Planaxidae/Pages/Planaxidae_intro.md)
+  - [Clusterwinks (Family Planaxidae)](http://seashellsofnsw.org.au/Planaxidae/Pages/Planaxidae_intro)
   on
-  [The Seashells of New South Wales](http://seashellsofnsw.org.au/index.md)
+  [The Seashells of New South Wales](http://seashellsofnsw.org.au/index)
   by Des Beechey Research Associate, Australian Museum: family introductions with photos of shells and detailed fact sheets for many species.
 
   **References**
@@ -103,7 +103,7 @@ This large 'groovy' snail is commonly seen, usually in clustered together in lar
 means 'grooved'). Colour blackish to cream sometimes with white or yellowish spots. Shell opening wide, inner surface white sometimes with dark purple grooves. Operculum thin, horn-like material and dark coloured. Body pale, small foot with a pale underside dark mottled pattern above, long tentacles with dark bands.
 
 **Sometimes confused with**
-[Periwinkle snails](../littorinidae/littorinidae.md)
+[Periwinkle snails](../littorinidae/littorinidae)
 which are found in similar habitats. But Periwinkles are much smaller, have thinner shells and don't have strong spiralling cords like the Planaxis snail.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Baby planaxis:**

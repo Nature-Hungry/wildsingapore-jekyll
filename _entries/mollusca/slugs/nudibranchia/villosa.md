@@ -98,7 +98,7 @@ This rather boring but large nudibranch is sometimes seen on our Northern shores
 
 **What does it eat?**
 It eats
-[sponges](../../../porifera/porifera.md)
+[sponges](../../../porifera/porifera)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

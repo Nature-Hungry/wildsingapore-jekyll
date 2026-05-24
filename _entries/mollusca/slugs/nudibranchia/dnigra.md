@@ -94,7 +94,7 @@ This blackish nudibranch is sometimes seen on some of our seagrass meadows.
 5-8cm long. Broad fleshy body smooth, generally blackish with whitish speckles. According to Bill Rudman, the white spots are of two different kinds. Some spots are simply pigment spots on the skin while others are small white glands producing a milky acidic secretion.
 
 **Sometimes mistaken for**
-*[Dendrodoris fumata](fumata.md)*
+*[Dendrodoris fumata](fumata)*
 which looks similar in shape and are red when young and black as adults. Usually
 *Dendrodoris nigra*
 has 10 -15 smaller gills forming a tight cup-shaped circle, placed further to the back and lacks dark blotches on a lighter background.

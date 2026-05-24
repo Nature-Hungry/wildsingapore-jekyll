@@ -43,11 +43,11 @@ galleries:
     caption: Sembawang, Oct 20 Photo shared by Vincent Choo on facebook .
 links_references: |
   **Links**
-  - [Barnacles](http://mangrove.nus.edu.sg/pub/seashore/text/219.md)
+  - [Barnacles](http://mangrove.nus.edu.sg/pub/seashore/text/219)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
-  - [Barnacles](http://mangrove.nus.edu.sg/guidebooks/text/2123.md)
+  - [Barnacles](http://mangrove.nus.edu.sg/guidebooks/text/2123)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
@@ -72,7 +72,7 @@ location:
 
 ## Where seen?
 This little starry barnacle is sometimes seen on some of our shores. Usually found in small groups, in higher areas where it is too dry for
-[acorn barnacles](balanus.md)
+[acorn barnacles](balanus)
 (
 *Balanus*
 sp.). They were formerly known as

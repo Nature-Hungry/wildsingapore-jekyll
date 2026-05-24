@@ -49,13 +49,13 @@ links_references: |
   *Thais gradata*
   ) and Ketem (
   *Chicoreus capucinus*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2085.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2085)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
   - [Mangrove Murex (
   *Chicoreus capucinus*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/146.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/146)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -95,9 +95,9 @@ Operculum dark.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**
 It eats a wide variety of prey from
-[barnacles](../../../crustacea/othercrust/ciriipedia/cirripedia.md)
+[barnacles](../../../crustacea/othercrust/ciriipedia/cirripedia)
 ,
-[nest-building mussels](../../bivalvia/mytilidae/musculista.md)
+[nest-building mussels](../../bivalvia/mytilidae/musculista)
 to snails and clams hiding in the mud and worms in rotten wood.
 They are such voracious predators, that they exert a considerable influence over the kind of community of animals that are found where they are live.
 

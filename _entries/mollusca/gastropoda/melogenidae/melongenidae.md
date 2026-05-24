@@ -33,14 +33,14 @@ links_references: |
   **Links**
   - [Family Galeodidae (
   *Melongena pugilina*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/145.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/145)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
   - [Family Melongenidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Melongenidae.html)
   on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief fact sheet with photos.
   - Family Melongenidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   **References**
@@ -97,9 +97,9 @@ from Tan Siong Kiat and Henrietta P. M. Woo, 2010
 
 *Hemifusus elongatus
 
-[Hemifusus ternatanus](ternatanus.md)*
+[Hemifusus ternatanus](ternatanus)*
 (Ternate false fusus)
-*[Pugilina cochlidium](cochlidium.md)*
+*[Pugilina cochlidium](cochlidium)*
 (Spiral melongena)
 
 *Volema myristica*

@@ -109,7 +109,7 @@ links_references: |
   **Links**
   - [Banded urchin (
   *Salmacis*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/223.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/223)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *A Guide to Seashore Life*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -159,9 +159,9 @@ Examination of tests (skeleton of a dead sea urchin) suggest that large snails m
 
 **Home on an urchin:**
 Some animals live on this prickly animal. This includes
-[Parasitic snails](../../../mollusca/gastropoda/eulimidae/eulimidae.md)
+[Parasitic snails](../../../mollusca/gastropoda/eulimidae/eulimidae)
 , the Zebra crab and sometimes, the
-[Urchin-mouth worm](../../../worm/polychaeta/oxydromus.md)
+[Urchin-mouth worm](../../../worm/polychaeta/oxydromus)
 is found curled around the mouth.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}

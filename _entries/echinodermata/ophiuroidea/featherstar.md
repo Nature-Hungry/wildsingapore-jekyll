@@ -91,7 +91,7 @@ location:
 
 ## Where seen?
 This brittle star lives only in a
-[feather star](../crinoidea/crinoidea.md)
+[feather star](../crinoidea/crinoidea)
 (Class Crinoidea). It has been seen on many different kinds of feather stars on our shores.
 
 ## Features

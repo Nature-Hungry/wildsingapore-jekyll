@@ -86,7 +86,7 @@ location:
 
 ## Where seen?
 This extremely well camouflaged nudibranch was seen among
-[Sargassum seaweeds](../../../plants/seaweed/phaeophyta/sargassum.md)
+[Sargassum seaweeds](../../../plants/seaweed/phaeophyta/sargassum)
 (
 *Sargassum*
 sp.) at St. John's Island.
@@ -97,7 +97,7 @@ About 3cm long. It has a pair of 'flaps' (mantle lobes) in the middle of the bod
 
 **What does it eat?**
 This nudibranch grazes tiny
-[hydroids](../../../cnidaria/others/hydrozoa/hydrozoa.md)
+[hydroids](../../../cnidaria/others/hydrozoa/hydrozoa)
 that grow on seaweeds.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

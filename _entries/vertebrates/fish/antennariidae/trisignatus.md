@@ -171,7 +171,7 @@ links_references: |
   **Links**
   - [Spotted-tail Frogfish (
   *Lophiocharon trisignatus*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/231.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/231)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
@@ -217,7 +217,7 @@ Like others in the family, it has a lure at the top of the head to attract prey 
 
 **Sometimes mistaken for**
 stonefish and scorpionfishes. Here's more on
-[how to tell apart fishes that look like stones](../cfstonefish.md)
+[how to tell apart fishes that look like stones](../cfstonefish)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

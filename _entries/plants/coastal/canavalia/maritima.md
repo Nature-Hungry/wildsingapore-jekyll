@@ -37,7 +37,7 @@ links_references: |
   - [*Canavalia rosea*](http://floraofsingapore.wordpress.com/2010/08/22/canavalia-rosea/)
   on Total Vascular Flora of Singapore Online: photos and fact sheet.
   - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.md)
+  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
   (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
   
   **References**

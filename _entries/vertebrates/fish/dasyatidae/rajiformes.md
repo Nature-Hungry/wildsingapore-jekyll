@@ -96,7 +96,7 @@ Elegant discs with bulbous eyes and a narrow tail, these large fishes are often 
 
 **What are these fishes?**
 Called skates, rays and stingrays, these fishes belong to the Order Rajiformes which includes 10 families. Those commonly seen on our shores at low tide are stingrays that belong to
-[Family Dasyatidae](dasyatidae.md)
+[Family Dasyatidae](dasyatidae)
 . These fishes are related to sharks but most are adapted for hunting and living on the sea bottom. For simplicity, we'll refer to all these fishes as rays.
 ## Features
 
@@ -105,14 +105,14 @@ Rays have flattened bodies with greatly enlarged pectoral fins along their body 
 Most rays have a long tail, with a sting - usually near where the tail joins the body, and not at the tip of the tail. Rays are closely related to sharks. Like sharks, the skeleton of rays are made of flexible cartilage. If you want to know how cartilage feels like, your nose and ears are made of cartilage!
 
 **Sometimes confused with**
-[horseshoe crabs](../../../arthropoda/limulidae/limulidae.md)
+[horseshoe crabs](../../../arthropoda/limulidae/limulidae)
 . In murky waters, the two animals look very similar, both being round and flat with a long tail.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Stinging encounter!**
 Stingrays are not aggressive animals and prefer to flee from danger. Most stingray injuries are the result of carelessness, generally when someone accidentally steps on a stingray that is lying harmlessly on the bottom. Stingray spines can penetrate through booties!
 
 **Shocking!**
-[Electric rays](../narcinidae/narcine.md)
+[Electric rays](../narcinidae/narcine)
 have a pair of kidney-shaped electric organs at the base of the pectoral fins that can produce mild to strong electric shocks. Thus their common name. Their scientific name Family Narcidae comes from the Greek 'narke' which means 'paralysis'.
 
 **How to stay safe:**
@@ -123,12 +123,12 @@ Rays practice internal fertilisation. Most rays give birth to live fully develop
 
 **Human uses:**
 Stingrays are a popular seafood dish in Singapore. The large pectoral fins are barbequed and served with chilli, often on a banana leaf. You can see their cartilageous bones as you eat the flesh.
-[Blue-spotted fantail ray](lymma.md)
+[Blue-spotted fantail ray](lymma)
 is also popular in the live aquarium trade although it does not do well in captivity.
 
 **Status and threats:**
 Our Stingrays are not listed as endangered. However, throughout its range, the
-[Blue-spotted fantail ray](lymma.md)
+[Blue-spotted fantail ray](lymma)
 is under pressure from over collection for the aquarium trade and destruction of its reef habitat. Like other creatures of the intertidal zone, Stingrays are also affected by human activities such as reclamation and pollution. Poaching by hobbyists and overfishing can also have an impact on local populations.
 
 ---
@@ -154,16 +154,16 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
 
 +Other additions (Singapore Biodiversity Record, etc)
 
-**[Family Dasyatidae](dasyatidae.md)**
+**[Family Dasyatidae](dasyatidae)**
 (Stingrays) with list of species recorded for Singapore
 
 ***Family Gymnuridae**
 (Butterfly rays)
 
-**[Family Myliobatidae](../myliobatidae/narinari.md)**
+**[Family Myliobatidae](../myliobatidae/narinari)**
 (Eagle, cownose and manta rays) with list of species recorded for Singapore
 
-[**Family Narcinidae**](../narcinidae/narcine.md)
+[**Family Narcinidae**](../narcinidae/narcine)
 (Electric rays)
 
 *+Narcine maculata*

@@ -54,4 +54,4 @@ galleries:
 {% include img-wrap-group.html items=page.galleries.gallery5 %}
 
 back to
-[general info on portia trees](populnea.md)
+[general info on portia trees](populnea)

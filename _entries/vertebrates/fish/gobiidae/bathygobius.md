@@ -55,7 +55,7 @@ links_references: |
   **Links**
   - [Common frill-fin goby (
   *Bathygobius fuscus*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/360.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/360)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
@@ -72,7 +72,7 @@ links_references: |
   : Technical fact sheet.
   - [*Bathygobius fuscus*](http://www.iucnredlist.org/details/172443/0)
   on the IUCN Red List.
-  - [Common frill-fin goby](http://www.ecologyasia.com/verts/brackish-fishes/common-frill-fin-goby.md)
+  - [Common frill-fin goby](http://www.ecologyasia.com/verts/brackish-fishes/common-frill-fin-goby)
   on
   [EcologyAsia](http://www.ecologyasia.com/)
   : photos and fact sheet

@@ -58,7 +58,7 @@ links_references: |
   **Links**
   - [Mound crab (
   *Sarmatium germaini*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2048.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2048)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
@@ -78,7 +78,7 @@ location:
 
 ## Where seen?
 This spherical crab is seldom seen outside the
-[Mud lobster mounds](../../othercrust/lobster/thalassina.md)
+[Mud lobster mounds](../../othercrust/lobster/thalassina)
 where it lives.
 
 ## Features

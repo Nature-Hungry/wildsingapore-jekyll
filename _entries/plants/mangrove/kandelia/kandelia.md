@@ -39,13 +39,13 @@ links_references: |
   on the NParks Flora and Fauna website: photos and fact sheet.
   - [Pisang pisang (
   *Kandelia candel*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/1064.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/1064)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)
   I (Plant Diversity)*
   . Singapore Science Centre. 168 pp.
   - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.md)
+  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
   (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
   
   **References**

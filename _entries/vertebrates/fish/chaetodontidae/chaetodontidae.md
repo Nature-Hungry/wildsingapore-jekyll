@@ -109,7 +109,7 @@ links_references: |
   from
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet on the family.
-  - [Volume 5: Bony fishes part 3 (Menidae to Pomacentridae)](http://www.fao.org/docrep/009/y0770e/y0770e00.md)
+  - [Volume 5: Bony fishes part 3 (Menidae to Pomacentridae)](http://www.fao.org/docrep/009/y0770e/y0770e00)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
   - [Butterflyfishes and coral diseases](http://wildshores.blogspot.com/2009/09/butterflyfishes-and-coral-disease.html)
   on the wild shores of singapore blog, 30 Sep 2009.
@@ -227,7 +227,7 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
 (Klein's butterflyfish)
 *+Chaetodon lunula*
 (Racoon butterflyfish)
-*[Chaetodon octofasciatus](octofasciatus.md)*
+*[Chaetodon octofasciatus](octofasciatus)*
 (Eight-banded butterflyfish)
 *Chaetodon triangulum
 
@@ -236,10 +236,10 @@ Chaetodon trifasciatus
 Chaetodon unimaculatus
 
 Chaetodon vagabundus*
-*[Chelmon rostratus](rostrarus.md)*
+*[Chelmon rostratus](rostrarus)*
 (Copperband butterflyfish)
 
-*[Parachaetodon ocellatus](ocellatus.md)*
+*[Parachaetodon ocellatus](ocellatus)*
 (Kite butterflyfish)
 **
 *Coradion chrysozonus*
@@ -257,11 +257,11 @@ Chaetodon vagabundus*
 **Batfishes**
 **
 Now listed under
-[Family Ephippidae](../ephippidae/ephippidae.md)
+[Family Ephippidae](../ephippidae/ephippidae)
 
 **Angelfishes**
 
 Now listed under
-[Family Pomacanthidae](../pomacanthidae/pomacanthidae.md)
+[Family Pomacanthidae](../pomacanthidae/pomacanthidae)
 
 ---

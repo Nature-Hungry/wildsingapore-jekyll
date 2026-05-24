@@ -142,7 +142,7 @@ This large nudibranch is sometimes seen near living reefs on some of our Souther
 
 **What does it eat?**
 It probably eats
-[sponges](../../../porifera/porifera.md)
+[sponges](../../../porifera/porifera)
 .
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

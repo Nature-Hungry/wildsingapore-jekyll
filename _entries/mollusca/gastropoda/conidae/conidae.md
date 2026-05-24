@@ -139,11 +139,11 @@ galleries:
     caption: Sisters Island, May 2018
 links_references: |
   **Links**
-  - [Geography Cone Shell](http://mangrove.nus.edu.sg/pub/seashore/text/251.md)
+  - [Geography Cone Shell](http://mangrove.nus.edu.sg/pub/seashore/text/251)
   (
   *Conus geographus*
   ) and
-  [Cone Shell](http://mangrove.nus.edu.sg/pub/seashore/text/148.md)
+  [Cone Shell](http://mangrove.nus.edu.sg/pub/seashore/text/148)
   (
   *Conus consors*
   ) Tan, Leo W. H. & Ng, Peter K. L., 1988.
@@ -160,7 +160,7 @@ links_references: |
   - [Family Conidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Conidae.html)
   on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief fact sheet on moon snails with photos.
   - Family Conidaein the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
   - [Better pain relief with cone snails](http://wildshores.blogspot.sg/2008/10/better-pain-relief-with-cone-snails.html)
   on the wild shores of singapore blog.
@@ -214,7 +214,7 @@ This slow-moving snail relies on its fast acting venom to rapidly immobilise and
 on The Gladys Archerd Shell Collection website). The harpoon remains embedded in the prey. The harpoon is attached to the snail with a chord. Once the prey is paralysed (usually in seconds), the snail retracts the cord and engulfs the prey. It can take a cone snail several hours to digest its prey. The snail can 'reload' a new harpoon to replace a used one.
 
 **Sometimes mistaken for**
-[Olive snails](../olividae/olividae.md)
+[Olive snails](../olividae/olividae)
 (Family Olividae) which tend to be more tapered on both ends of the shell, resulting in a more olive-like shape.
 
 **What do they eat?**

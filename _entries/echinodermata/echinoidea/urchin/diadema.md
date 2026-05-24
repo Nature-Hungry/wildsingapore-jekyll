@@ -171,7 +171,7 @@ links_references: |
   **Links**
   - [Black sea urchin (
   *Diadema setosum*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/223.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/223)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *A Guide to Seashore Life*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -250,7 +250,7 @@ Wear covered shoes and long pants to cover all skin exposed to water. Don't touc
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **May be confused with**
 the
-[Black sea urchin](temnopleurus.md)
+[Black sea urchin](temnopleurus)
 (
 *Temnopleurus*
 sp.) with much shorter spines is more commonly seen on our Northern shores, sometimes in large numbers. Thanks to Dr Frederic Ducarme for more on how to tell apart
@@ -275,9 +275,9 @@ It feeds on algae, grazing these from dead corals or rubble areas. It may also t
 
 **Prickly home:**
 The sea urchin is sometimes home to other animals such as
-[cardinalfish](../../../vertebrates/fish/apogonidae/apogonidae.md)
+[cardinalfish](../../../vertebrates/fish/apogonidae/apogonidae)
 (Family Apogonidae),
-[razorfishes](../../../vertebrates/fish/centriscidae/centriscidae.md)
+[razorfishes](../../../vertebrates/fish/centriscidae/centriscidae)
 (Family Centriscidae) and shrimps (
 *Saron marmoratus*
 ) and anemones (

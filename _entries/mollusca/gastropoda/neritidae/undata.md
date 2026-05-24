@@ -73,7 +73,7 @@ links_references: |
   - Waved nerite (
   *Nerita undata*
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   **References**
@@ -111,7 +111,7 @@ This snail is commonly seen on many of our Southern rocky shores and artificial 
 
 **Sometimes confused with**
 other similar nerites. Here's a comparison of these
-[similar nerite snails](neritidaecf.md)
+[similar nerite snails](neritidaecf)
 and how to tell them apart.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Human uses:**

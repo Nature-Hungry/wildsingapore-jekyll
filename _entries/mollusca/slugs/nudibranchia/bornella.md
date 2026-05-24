@@ -127,7 +127,7 @@ links_references: |
   .
   - [The Slug Site:](http://slugsite.us/)
   photo and fact sheet on the Branch of the Week
-  *[Bornella stellifer](http://slugsite.us/bow/nudwk441.md)*
+  *[Bornella stellifer](http://slugsite.us/bow/nudwk441)*
   - [A Guide to Singapore Nudibranchs](http://rmbr.nus.edu.sg/nudibranch/main.html)
   by Uma Sachidhanandam: distribution but no photo.
 
@@ -177,7 +177,7 @@ This small nudibranch is sometimes seen on our some of our shores, among seagras
 
 **What does it eat?**
 It eats small
-[hydroids](../../../cnidaria/others/hydrozoa/hydrozoa.md)
+[hydroids](../../../cnidaria/others/hydrozoa/hydrozoa)
 growing on or under rocks and hard surfaces.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

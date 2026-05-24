@@ -88,7 +88,7 @@ Body width less than 1cm. Some have a hairy body and pincers. Others are smooth.
 Different species of porcelain crabs probably match this description. Species are difficult to positively identify without close examination. On this website, they are grouped by external features for convenience of display.
 
 The
-[Painted porcelain crab](picta.md)
+[Painted porcelain crab](picta)
 (
 *Porcellanella triloba*
 ) that lives in sea pens has a separate fact sheet.

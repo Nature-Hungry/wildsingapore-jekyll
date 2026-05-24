@@ -43,7 +43,7 @@ links_references: |
   **Links**
   - [Bluering angelfish (
   *Pomacanthus annularis*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/332.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/332)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
@@ -55,7 +55,7 @@ links_references: |
   : Technical fact sheet.
   - [Blue-ringed Angelfish (
   *Pomacanthus annularis*
-  )](http://www.amonline.net.au/fishes/fishfacts/fish/pannularis.md)
+  )](http://www.amonline.net.au/fishes/fishfacts/fish/pannularis)
   on the
   [Australian Museum Fish Site](http://www.amonline.net.au/fishes/fishfacts/)
   fact sheet with photos.

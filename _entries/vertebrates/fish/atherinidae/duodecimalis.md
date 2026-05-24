@@ -75,12 +75,12 @@ links_references: |
   **Links**
   - [Tropical Silverside (
   *Atherinomorus duodecimalis*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/234.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/234)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
-  *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/234.md)*
+  *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/234)*
   . Singapore Science Centre. 163 pp.
   - [Tropical Silverside (
-  *Atherinomorus duodecimalis)*](http://mangrove.nus.edu.sg/guidebooks/text/2103.md)
+  *Atherinomorus duodecimalis)*](http://mangrove.nus.edu.sg/guidebooks/text/2103)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
@@ -106,7 +106,7 @@ links_references: |
   : Technical fact sheet on the family.
   - [Family Atherinidae](ftp://ftp.fao.org/docrep/fao/009/x2400e/x2400e06.pdf)
   in
-  [Vol. 4. Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.md)
+  [Vol. 4. Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
 
   **References**
@@ -163,7 +163,7 @@ Silversides belong to Family Atherinidae. According to
 
 **Sometimes confused with**
 other small silvery fishes. More on
-[how to tell apart small silvery fishes](../cfsilvery.md)
+[how to tell apart small silvery fishes](../cfsilvery)
 .
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 {% include img-wrap-group.html items=page.galleries.gallery3 %}

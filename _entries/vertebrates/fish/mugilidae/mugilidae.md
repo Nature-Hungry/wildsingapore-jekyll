@@ -76,11 +76,11 @@ links_references: |
   **Links**
   - [Squaretail mullet (
   *Ellochelon vaigensis*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/233.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/233)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
-  - [Mullets](http://www.ecologyasia.com/verts/fishes/mullets.md)
+  - [Mullets](http://www.ecologyasia.com/verts/fishes/mullets)
   on Ecology Asia.
   - [Family Mugilidae](http://www.fishbase.org/summary/FamilySummary.php?ID=359)
   and

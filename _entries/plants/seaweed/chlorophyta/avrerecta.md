@@ -60,7 +60,7 @@ galleries:
     caption: Pulau Berkas, May 10
 links_references: |
   **Links**
-  - [*Avrainvillea*](http://mangrove.nus.edu.sg/pub/seashore/text/102.md)
+  - [*Avrainvillea*](http://mangrove.nus.edu.sg/pub/seashore/text/102)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -123,14 +123,14 @@ A paddle-shaped blade (4-5cm wide), usually growing alone, sometime a few near o
 The stalk can be quite long (up to 10cm long), with only a short portion sticking out above the surface. Sometimes, the single blade is divided into three or four 'wings'. Usually dark green sometimes with pale or yellowish edges.
 
 Sometimes, tiny
-[Strawberry slugs](../../../mollusca/slugs/sacoglossa/costasiella.md)
+[Strawberry slugs](../../../mollusca/slugs/sacoglossa/costasiella)
 (
 *Costasiella*
 sp.) are found on this seaweed.
 
 **Sometimes confused with**
 other fan-shaped green seaweeds. Here's more on
-[how to tell apart fan-shaped green seaweeds](cffan.md)
+[how to tell apart fan-shaped green seaweeds](cffan)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

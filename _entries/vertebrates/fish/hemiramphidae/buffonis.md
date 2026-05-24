@@ -38,16 +38,16 @@ links_references: |
   **Links**
   - [Striped-nose Halfbeak (
   *Zenarchopterus buffonis*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/237.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/237)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
-  - [Surface-dwelling fishes](http://mangrove.nus.edu.sg/guidebooks/text/2104.md)
+  - [Surface-dwelling fishes](http://mangrove.nus.edu.sg/guidebooks/text/2104)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)
   II (Animal Diversity)*
   . Singapore Science Centre. 168 pp.
-  - [Stripe-nosed halfbeak](http://www.ecologyasia.com/verts/fishes/stripe-nosed-halfbeak.md)
+  - [Stripe-nosed halfbeak](http://www.ecologyasia.com/verts/fishes/stripe-nosed-halfbeak)
   on the Ecology Asia website: fact sheet with photos.
   - [Buffon's river-garfish (
   *Zenarchopterus buffonis*

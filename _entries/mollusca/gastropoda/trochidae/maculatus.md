@@ -111,7 +111,7 @@ galleries:
     caption: Pulau Salu, Apr 21 Photo shared by Vincent Choo on facebook .
 links_references: |
   **Links**
-  - [Family Trochidae](http://mangrove.nus.edu.sg/pub/seashore/text/134.md)
+  - [Family Trochidae](http://mangrove.nus.edu.sg/pub/seashore/text/134)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -124,7 +124,7 @@ links_references: |
   - Maculated top (
   *Trochus maculatus*
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   **References**
@@ -166,9 +166,9 @@ Body mottled, large foot, edge of the mantle sparsely fringed with long tentacle
 
 **Sometimes confused with**
 the
-[Turban snail](../turbinidae/turbinidae.md)
+[Turban snail](../turbinidae/turbinidae)
 (Family Turbinidae) which has a shell with more distinct whorls and a thick, chalky operculum. While many Top snails have a more conical shell and a thin operculum made of a horn-like material. Here's more on
-[how to tell apart turban and top shell snails](../topturban.md)
+[how to tell apart turban and top shell snails](../topturban)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Human uses:**

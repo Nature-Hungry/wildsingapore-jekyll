@@ -56,7 +56,7 @@ links_references: |
   **Links**
   - [Ghost Crab (
   *Ocypoda*
-  sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/191.md)
+  sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/191)
   with brief details on
   *Ocypode ceratophthalmus*
   and
@@ -91,7 +91,7 @@ Body width about 5cm. Body squarish box-like. Pale greyish blue without dark mar
 
 **May be mistaken for**
 the
-[Horn-eyed ghost crab](ceratophthalmus.md)
+[Horn-eyed ghost crab](ceratophthalmus)
 (
 *Ocypode ceratophthalmus*
 ): the Smooth-eyed ghost crab lacks 'horns' on its eyes and seems a little slower and less skittish. It lacks ridges on the inner palm. But juvenile Long-eyed ghost crabs also lack 'horns' and tend to remain immobile when spotted.

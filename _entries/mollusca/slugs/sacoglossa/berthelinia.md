@@ -121,11 +121,11 @@ location:
 
 ## Where seen?
 This tiny slug is sometimes seen on
-[Caulerpa seaweeds](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/caulerpa.md)
+[Caulerpa seaweeds](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/caulerpa)
 such as
-[Bell sea grape seaweeds](../../../plants/seaweed/chlorophyta/bell.md)
+[Bell sea grape seaweeds](../../../plants/seaweed/chlorophyta/bell)
 and
-[Delicate feathery green seaweed](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/sertularioides.md)
+[Delicate feathery green seaweed](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/sertularioides)
 on some of our shores. Several slugs may be seen on one clump of seaweed. It was first described as a new species in July 2015 and named after Singapore.
 
 ## Features

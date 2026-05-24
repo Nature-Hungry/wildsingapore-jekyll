@@ -83,13 +83,13 @@ sp.) are small hard corals usually seen in dark places.
 Only
 *Turbinaria*
 is commonly considered reef-building.
-[Disk corals](turbinaria.md)
+[Disk corals](turbinaria)
 (
 *Turbinaria*
 spp.) are among the most commonly encountered of this family on Singapore's intertidal shores. They may be flat plates which may be folded into vase-shapes or lettuce-like forms. They may also be encrusting. Some can be large (20-50cm).
 
-*[Tubastrea](tubastrea.md)*
-[Cave corals](tubastrea.md)
+*[Tubastrea](tubastrea)*
+[Cave corals](tubastrea)
 form small colonies (2-4cm).
 
 **Status:**
@@ -117,12 +117,12 @@ in the above.
 (Looks like cave corals)
 **
 **[*Tubastraea*
-sp.](tubastrea.md)
+sp.](tubastrea)
 (Cave coral)**
 with list of species recorded for Singapore
 
 [***Turbinaria***
-**sp.**](turbinaria.md)
+**sp.**](turbinaria)
 **(Disk corals)**
 with list of species recorded for Singapore.
 

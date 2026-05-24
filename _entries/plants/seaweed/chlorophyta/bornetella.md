@@ -111,15 +111,15 @@ According to
 species.
 
 **Sometimes confused with**
-['Taugeh' seaweeds](neomeris.md)
+['Taugeh' seaweeds](neomeris)
 (
 *Neomeris*
 sp.) which have white bases to their 'stems' and is more cylindrical (rather than club-shaped). May also be confused with
-[Bubble green seaweed](boergesenia.md)
+[Bubble green seaweed](boergesenia)
 (
 *Borgensenia*
 sp.) which is bubble shaped and translucent. Here's more on
-[how to tell apart some green seaweeds](cfgrapes.md)
+[how to tell apart some green seaweeds](cfgrapes)
 .
 
 *Bornetella sphaerica*

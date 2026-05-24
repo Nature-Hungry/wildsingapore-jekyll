@@ -96,13 +96,13 @@ links_references: |
   **Links**
   - [Longtail Tripodfish (
   *Tripodichthys blochii*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/391.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/391)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
   - [Tripodfish (
   *Triacanthus*
-  sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/238.md)
+  sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/238)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -125,7 +125,7 @@ links_references: |
   from
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet on the family.
-  - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.md)
+  - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
 
   **References**

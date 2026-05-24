@@ -63,15 +63,15 @@ links_references: |
   on
   [AlgaeBase](http://www.algaebase.org/)
   : technical fact sheet.
-  - [*Caulerpa taxifolia*](http://mangrove.nus.edu.sg/pub/seashore/text/101.md)
+  - [*Caulerpa taxifolia*](http://mangrove.nus.edu.sg/pub/seashore/text/101)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
-  - [*Caulerpa taxifolia*](http://www.hawaii.edu/reefalgae/invasive_algae/chloro/caulerpa_taxifolia.md)
+  - [*Caulerpa taxifolia*](http://www.hawaii.edu/reefalgae/invasive_algae/chloro/caulerpa_taxifolia)
   from
-  [Marine Algae of Hawai`i](http://www.hawaii.edu/reefalgae/default.md)
+  [Marine Algae of Hawai`i](http://www.hawaii.edu/reefalgae/default)
   on the University of Hawai`i Botany Department website: factsheetwith photos and details on description, structural features, distribution in Hawai, ecology and impact, and links.
-  - [Alien Invaders: Algae Alert](http://www.pbs.org/saf/1204/features/caluerpa.md)
+  - [Alien Invaders: Algae Alert](http://www.pbs.org/saf/1204/features/caluerpa)
   on the PBS website: a simple introduction to the issues and problems of introduced
   *C. taxifolia*
   [history of
@@ -142,11 +142,11 @@ This beautiful feathery green seaweed is commonly seen on many of our shores, gr
 
 **Sometimes confused with**
 other feathery green seaweeds or with
-[seagrasses](../../seagrass/seagrass.md)
+[seagrasses](../../seagrass/seagrass)
 . Here's more on
-[how to tell apart different feathery green seaweeds](cffeathery.md)
+[how to tell apart different feathery green seaweeds](cffeathery)
 and how to tell apart
-[feathery green seaweeds and seagrasses](../../../glossary/seagrassweed.md)
+[feathery green seaweeds and seagrasses](../../../glossary/seagrassweed)
 .
 
 **Human uses:**

@@ -85,7 +85,7 @@ links_references: |
   **Links**
   - [Banded urchin (
   *Salmacis*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/223.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/223)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *A Guide to Seashore Life*
   . The Singapore Science Centre, Singapore. 160 pp.

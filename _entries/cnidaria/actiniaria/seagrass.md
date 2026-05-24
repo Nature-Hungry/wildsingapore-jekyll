@@ -70,7 +70,7 @@ Diameter 1cm with tentacles expanded. Many tentacles, tapering translucent with 
 
 **Sometimes confused with**
 juvenile
-[Swimming anemones](boloceroididae.md)
+[Swimming anemones](boloceroididae)
 which have opaque tentacles with bands.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

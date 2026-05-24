@@ -100,7 +100,7 @@ links_references: |
   **Links**
   - [Family Galeodidae (
   *Melongena pugilina*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/145.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/145)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -115,7 +115,7 @@ links_references: |
   - Spiral melongena (
   *Pugilina cochlidium*
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   **References**
@@ -169,12 +169,12 @@ This large snail is commonly seen on our muddy-sandy shores particularly on our 
 
 **'Hairy' shell:**
 The shell of a living spiral melongena is covered with a layer of fine hairs (called the periostracum). These hairs trap surrounding sediment so that the snail blends perfectly into the mud. The living snail is thus rarely spotted although relatively large and common. When the snail dies, the hairs drop off revealing a glossy, orange shell. The large empty shell is often taken over by a
-[hermit crab](../../../crustacea/othercrust/anomura/hermit/hermit.md)
+[hermit crab](../../../crustacea/othercrust/anomura/hermit/hermit)
 .
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **What does it eat?**
 The spiral melongena eats
-[barnacles](../../../crustacea/othercrust/ciriipedia/cirripedia.md)
+[barnacles](../../../crustacea/othercrust/ciriipedia/cirripedia)
 . It is believed to get to the barnacle by forcing its long proboscis between the plates that seal the barnacle's shell opening.
 
 **Spiral babies:**

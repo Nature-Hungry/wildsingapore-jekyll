@@ -59,13 +59,13 @@ links_references: |
   **Links**
   - [Banded Archerfish (
   *Toxotes jaculatrix*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/324.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/324)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
   - [Archerfish (
   *Toxotes jaculatrix*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2105.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2105)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)
   II (Animal Diversity)*
@@ -117,7 +117,7 @@ Archerfishes are famed for their ability to shoot down insects and small creatur
 means 'bowman' or 'archer'. Their flattened body presents a narrow profile from above, so they can sneak up on their prey. The bold black-and-white markings camouflage them in the sundappled water under mangrove vegetation.
 **How do they shoot?**
 Archerfishes are like submarine water pistols and can spit out a strong and accurate jet of water. To form this water jet, the tongue is placed against the groove on the roof of the mouth. Water is powerfully forced through this tube by snapping the gills shut. The tip of the tongue acts as a valve. The Australian Museum Fish Site has a
-[photo of the inside of an archerfish's mouth](http://www.amonline.net.au/fishes/fishfacts/fish/tchatar.md)
+[photo of the inside of an archerfish's mouth](http://www.amonline.net.au/fishes/fishfacts/fish/tchatar)
 to show the groove on the roof of the mouth and shape of the tongue.
 
 To get a good jet of water, the snout sticks out of the water, but the rest of the fish remains underwater. The jet of water is directed with the tip of the tongue.
@@ -161,9 +161,9 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
 
 **Family Toxotidae**
 
-*[Toxotes chatareus](chatareus.md)*
+*[Toxotes chatareus](chatareus)*
 (Spotted archerfish)
-*[Toxotes jaculatrix](jaculatrix.md)*
+*[Toxotes jaculatrix](jaculatrix)*
 (Banded archerfish)
 
 ---

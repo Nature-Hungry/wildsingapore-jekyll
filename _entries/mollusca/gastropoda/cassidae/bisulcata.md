@@ -69,9 +69,9 @@ links_references: |
   *Semicassis bisulcata*
   )](http://www.sealifebase.org/Summary/SpeciesSummary.php?ID=137542)
   on SeaLife Base: Technical fact sheet.
-  - [*Semicassis bisulcatum*](http://seashellsofnsw.org.au/Cassidae/Pages/semicassis_bisulcatum.md)
+  - [*Semicassis bisulcatum*](http://seashellsofnsw.org.au/Cassidae/Pages/semicassis_bisulcatum)
   on
-  [The Seashells of New South Wales](http://seashellsofnsw.org.au/index.md)
+  [The Seashells of New South Wales](http://seashellsofnsw.org.au/index)
   by Des Beechey Research Associate, Australian Museum:
 
   **References**
@@ -100,7 +100,7 @@ This beautiful snail is sometimes seen on Cyrene and Changi, on sandy areas.
 
 **What does it eat?**
 According to Gosliner, it presumably feeds on heart urchins including the
-[Tiny maretia heart urchin](../../../echinodermata/echinoidea/hearturchin/planulata.md)
+[Tiny maretia heart urchin](../../../echinodermata/echinoidea/hearturchin/planulata)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

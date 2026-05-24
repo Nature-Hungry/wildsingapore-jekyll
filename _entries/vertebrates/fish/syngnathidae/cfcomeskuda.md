@@ -31,11 +31,11 @@ links_references: |
 ---
 
 It is hard to tell apart these two kinds of seahorses. According to the Singapore Red Data Book, the
-[Tiger-tailed seahorse](comes.md)
+[Tiger-tailed seahorse](comes)
 (
 *Hippocampus comes*
 ) is usually found in coral reefs, while the
-[Estuarine seahorse](kuda.md)
+[Estuarine seahorse](kuda)
 (
 *Hippocampus kuda*
 ) is found mainly in seagrass areas near sources of freshwater. In Singapore, the Tiger-tailed seahorse is mainly found around the Southern Islands, while the Estuarine seahorse is found all around Singapore in shallow waters.

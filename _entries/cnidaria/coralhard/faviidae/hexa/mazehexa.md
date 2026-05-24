@@ -180,7 +180,7 @@ species.
 It's hard to distinguish them without close examination of small features and they are grouped here by large external features for convenience of display.
 
 Merulinid corals with maze-like walls that form long valleys or form jigsaw-like patterns are grouped as
-[Jigsaw maze corals](../maze/mazejigsaw.md)
+[Jigsaw maze corals](../maze/mazejigsaw)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

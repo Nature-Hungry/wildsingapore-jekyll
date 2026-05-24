@@ -87,7 +87,7 @@ links_references: |
   (Neritopsina: Neritidae) Dubious nerite snail by Stella Tan Li Ling, 2012 on taxo4254.
   - [*Nerita*
   sp and
-  *Clithon oualaniensis*](http://mangrove.nus.edu.sg/pub/seashore/text/135.md)
+  *Clithon oualaniensis*](http://mangrove.nus.edu.sg/pub/seashore/text/135)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.

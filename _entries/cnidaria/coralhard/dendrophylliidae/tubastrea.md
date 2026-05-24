@@ -216,7 +216,7 @@ from Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Thr
 in red are those listed as threatened
 in the above.
 
-**[Family Dendrophyllidae](dendrophyllidae.md)**
+**[Family Dendrophyllidae](dendrophyllidae)**
 
 *Tubastraea aurea
 

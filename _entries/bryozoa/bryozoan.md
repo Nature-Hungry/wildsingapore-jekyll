@@ -52,7 +52,7 @@ galleries:
       caption: "East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook ."
 links_references: |
   **Links**
-  - [Moss animals (Phylum Ectoprocta=Bryozoa)](http://mangrove.nus.edu.sg/pub/seashore/text/129.md)
+  - [Moss animals (Phylum Ectoprocta=Bryozoa)](http://mangrove.nus.edu.sg/pub/seashore/text/129)
   Tan, Leo W. H. & Ng, Peter K. L., 1988,
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.

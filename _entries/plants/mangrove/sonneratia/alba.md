@@ -45,13 +45,13 @@ links_references: |
   (Myrtales: Sonneratiaceae) Mangrove Apple from Teo Xian Hui Jessica, 2013 from taxo4254.
   - [Perepat (
   *Sonneratia alba*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/1073.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/1073)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)
   I (Plant Diversity)*
   . Singapore Science Centre. 168 pp.
   - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.md)
+  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
   (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
   ****
   
@@ -86,7 +86,7 @@ Flowers large (10cm diameter) with 6 petals narrow white often inconspicuous, an
 Fruit somewhat pear-shaped (5-7cm) leathery. The tips of the calyx lobes bend back towards the stalk. Seeds white, flattened, tiny, buoyant (due to air-filled tissues in the seed).
 
 See page on
-[*Sonneratia*](sonneratia.md)
+[*Sonneratia*](sonneratia)
 in general for more about bats, durians and these mangrove trees, as well as fireflies.
 
 **Human uses:**

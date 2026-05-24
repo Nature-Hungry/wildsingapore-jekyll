@@ -150,7 +150,7 @@ Polyps tiny (0.2-0.5cm), with long tapering tentacles. When fully extended, the 
 
 **Sometimes mistaken for**
 branching
-[pocilloporid corals](../pocilloporidae/pocilloporidae.md)
+[pocilloporid corals](../pocilloporidae/pocilloporidae)
 (Family Pocilloporidae).
 
 There are probably several different species on these pages. It's hard to distinguish them without close examination of small features. On this website, they are grouped by large external features for convenience of display.
@@ -206,20 +206,20 @@ in the above.
 *On this website, they are grouped by external features for convenience of display*
 *.*
 
-[Elegant acropora](acrelegant.md)
+[Elegant acropora](acrelegant)
 
-[Pinecone acropora](acrpinecone.md)
+[Pinecone acropora](acrpinecone)
 
-[Staghorn acropora](acrstaghorn.md)
+[Staghorn acropora](acrstaghorn)
 
-[Stumpy acropora](acrstumpy.md)
+[Stumpy acropora](acrstumpy)
 **
-[Tubular acropora](acrtubular.md)
+[Tubular acropora](acrtubular)
 
-**[Family Acroporidae](acroporidae.md)
+**[Family Acroporidae](acroporidae)
 **Genus**
 ****Acropora****
-[acroporidae.htm](acroporidae.md)**
+[acroporidae.htm](acroporidae)**
 
 *Acropora abrotanoides
 

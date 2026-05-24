@@ -104,7 +104,7 @@ This pale blue prickly sponge is commonly seen on our Southern shores, growing o
 ## Features
 
 Small, covering an area of 10-15cm. The sponge can take various forms; flat spatula-like fingers, lettuce-like 'leaves', spindly branches, short thicker lobes, all emerging from an encrusting base. Younger ones may look like cabbages with upright lobes arranged in a maze-like pattern. Surface texture prickly. A few small holes at the top edges. Colours from a pale greyish blue to greenish due to the
-[cyanobacteria](../plants/seaweed/cyanobacteria/cyanobacteria.md)
+[cyanobacteria](../plants/seaweed/cyanobacteria/cyanobacteria)
 that inhabit the sponge. Cyanobacteria contain a bluish pigment phycocyanin that is used to capture light for photosynthesis. They also contain chlorophyll.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

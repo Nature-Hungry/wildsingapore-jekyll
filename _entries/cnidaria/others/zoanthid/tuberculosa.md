@@ -131,16 +131,16 @@ Some sea mat species can grow rapidly, up to 0.4cm a day. They are quite aggress
 
 **Sometimes confused**
 with
-[sponges](../../../porifera/porifera.md)
+[sponges](../../../porifera/porifera)
 ,
-[ascidians](../../../ascidiacea/ascidiacea.md)
+[ascidians](../../../ascidiacea/ascidiacea)
 and other blob-like animals. Here's more on
-[how to tell apart blob-like animals](../../../glossary/blobs.md)
+[how to tell apart blob-like animals](../../../glossary/blobs)
 .
 
 **Toxic mat:**
 Sea mat zoanthids contain the highly toxic
-[palytoxin](zoanthid.md)
+[palytoxin](zoanthid)
 . It is reported that the Hawaiian natives produced poisoned arrows by rubbing the tips on the zoanthid
 *Palythoa toxica*
 . It is believed that the toxins are not produced by the animal but by bacteria that live in symbiosis with the polyps.

@@ -84,11 +84,11 @@ links_references: |
   **Links**
   - [Doublelined Tongue-Sole (
   *Paraplagusia bilineata*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/390.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/390)
   and
   [Speckled Tongue-Sole (
   *Cynoglossus puncticeps*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/389.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/389)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
@@ -124,7 +124,7 @@ links_references: |
   from
   [FishBase](http://www.fishbase.org/)
   .
-  - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.md)
+  - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
 
   **References**
@@ -145,7 +145,7 @@ location:
 These tiny flatfishes are sometimes seen on our Northern shores, among seagrasses, buried in sand or hovering over the surface.
 **What are tongue-soles?**
 Tongue-soles are
-[flatfishes](../pleuronectiformes/pleuronectiformes.md)
+[flatfishes](../pleuronectiformes/pleuronectiformes)
 belonging to the Family Cynoglossidae. According to
 [FishBase](http://fishbase.sinica.edu.tw/summary/FamilySummary.cfm?id=442)
 : the family has 3 genera and 110 species. They are found in all warm oceans, most species in shallow waters or near river mouths. One group (Symphurinae) are found in very deep waters 1,000m or more. In Greek, 'kyon' means 'dog' and 'glossa' means 'tongue'.
@@ -155,11 +155,11 @@ To about 18cm, those seen about 3-6cm. Both eyes on the left side, usually very 
 
 **Sometimes confused with**
 other
-[flatfishes](../pleuronectiformes/pleuronectiformes.md)
+[flatfishes](../pleuronectiformes/pleuronectiformes)
 . Here's more on
-[how to tell apart the flatfish families](../pleuronectiformes/pleuronectiformes1.md)
+[how to tell apart the flatfish families](../pleuronectiformes/pleuronectiformes1)
 commonly seen. Tiny, flat and fast, they are also sometimes mistaken for
-[flatworms](../../../worm/polycladida/polycladida.md)
+[flatworms](../../../worm/polycladida/polycladida)
 .
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 {% include img-wrap-group.html items=page.galleries.gallery3 %}

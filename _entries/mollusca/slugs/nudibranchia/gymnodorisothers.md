@@ -205,7 +205,7 @@ There are several species of gymnodoris nudibranchs with yellow spots and they a
 
 *Gymnodoris ceylonica*
 : According to Bill Rudman, it has a translucent white body with small bright orange-red spots; large gills with orange lines. It preys on the
-[Long-tailed hairy sea hare](../anaspidae/stylocheilus.md)
+[Long-tailed hairy sea hare](../anaspidae/stylocheilus)
 (
 *Stylocheilus longicauda*
 ). This nudibranch lays eggs in 'strings' that look more like sea hare egg masses. It is widespread in the Indo-West Pacific.
@@ -224,11 +224,11 @@ There are several species of gymnodoris nudibranchs with yellow spots and they a
 {% include img-wrap-group.html items=page.galleries.gallery4 %}
 **What do they eat?**
 Gymnodoris species are described to be 'voracious predators' of other sea slugs like
-[nudibranchs](../../nudibranchia.md)
+[nudibranchs](../../nudibranchia)
 ,
-[sacoglossans](../sacoglossa/sacoglossa.md)
+[sacoglossans](../sacoglossa/sacoglossa)
 and
-[sea hares](../anaspidae/anaspidea.md)
+[sea hares](../anaspidae/anaspidea)
 .
 
 Gymnodoris eating another nudibranch! Filmed diving at Pulau Hantu, Oct 2019

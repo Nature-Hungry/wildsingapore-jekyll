@@ -87,13 +87,13 @@ galleries:
     caption: Pulau Jong, Apr 11 Photo shared by Marcus Ng on facebook
 links_references: |
   **Links**
-  - [*Ozius guttatus*](http://mangrove.nus.edu.sg/pub/seashore/text/215.md)
+  - [*Ozius guttatus*](http://mangrove.nus.edu.sg/pub/seashore/text/215)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
   - [*Ozius guttatus*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1447)
   on Crabs of Japan on Marine Species Identification Portal: technical fact sheet.
-  - [*Ozius guttatus*](http://www.madeinnys.com/mangrove/o_guttatus.md)
+  - [*Ozius guttatus*](http://www.madeinnys.com/mangrove/o_guttatus)
   on A field guide to Kenyan mangroves: fact sheet with photos.
   - [Spottedbelly rock crab (
   *Ozius guttatus*
@@ -137,7 +137,7 @@ One of its pincers is much larger. In a young crab, this enlarged pincer is arme
 
 **Sometimes confused with**
 similar crabs in the same habitat. Here's more on how to tell apart
-[big crabs with big pincers](../../bigpincer.md)
+[big crabs with big pincers](../../bigpincer)
 seen on the rocky shores and coral rubble.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
@@ -192,7 +192,7 @@ Epixanthus frontalis
 
 *Eupilumnus (Globopilumnus) globosus*
 *=**Eupilumnus globosus*
-*[Ozius guttatus](../oziidae/guttatus.md)*
+*[Ozius guttatus](../oziidae/guttatus)*
 (Spotted-belly forceps crab)
 *Ozius rugulosus
 

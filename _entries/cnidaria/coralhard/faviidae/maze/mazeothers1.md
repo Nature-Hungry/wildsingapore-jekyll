@@ -33,4 +33,4 @@ galleries:
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 ---
 {% include img-wrap-group.html items=page.galleries.gallery3 %}back to
-[general info on other maze favid corals](mazeothers.md)
+[general info on other maze favid corals](mazeothers)

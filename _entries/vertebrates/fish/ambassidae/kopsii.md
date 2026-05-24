@@ -74,13 +74,13 @@ links_references: |
   **Links**
   - [Kops' Glass Perchlet (
   *Ambassis kopsii*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/263.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/263)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
   - [Asiatic glassfish (Ambassidae)](https://singapore.biodiversity.online/taxon/A-Vert-Fish-Perciformes-Ambassidae)
   on The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.
-  - [Glass Perchlets](https://www.ecologyasia.com/verts/fishes/glass-perchlet.md)
+  - [Glass Perchlets](https://www.ecologyasia.com/verts/fishes/glass-perchlet)
   on Ecology Asia.
   - [Singapore glassy perchlet (
   *Ambassis kopsii*
@@ -121,9 +121,9 @@ To about 10cm. Body nearly transparent covered with thin scales. Thus it is some
 ) are commonly seen often in a large group of many individuals. Those seen about 5-8cm, grows to about 10cm. Body silvery almost transparent. A distinctive blackish mark on the tip of the dorsal fin, which is deeply notched. Else seen in coastal and brackish waters, sometimes upstream in freshwater. It eats invertebrates. May be marketed fresh or dried and salted.
 
 **Sometimes confused with**
-[Mojarras](../gerreidae/gerreidae.md)
+[Mojarras](../gerreidae/gerreidae)
 (Family Gerreidae) which have a single dorsal fin that is not deeply notched. More on
-[how to tell apart small silvery fishes](../cfsilvery.md)
+[how to tell apart small silvery fishes](../cfsilvery)
 .
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 {% include img-wrap-group.html items=page.galleries.gallery3 %}

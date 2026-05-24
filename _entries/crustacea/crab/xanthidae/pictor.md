@@ -153,7 +153,7 @@ galleries:
     caption: Pulau Sudong, Dec 09 Photo shared by James Koh on his flickr .
 links_references: |
   **Links**
-  - [Poisonous Xanthid Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/252.md)
+  - [Poisonous Xanthid Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/252)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -214,7 +214,7 @@ Pincers short, both about equal in size, with black tips. Walking legs hairy wit
 
 **Crab of Death:**
 It is the
-[most poisonous crab](xanthidae.md)
+[most poisonous crab](xanthidae)
 of Singapore! There are several documented deaths caused by eating this crab. Cooking does not destroy the toxins. The crab is believed to obtain the toxins from the food it eats, including a poisonous sea cucumber.
 
 **How to stay safe:**

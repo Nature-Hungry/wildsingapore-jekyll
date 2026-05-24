@@ -121,13 +121,13 @@ links_references: |
   **Links**
   - [Stone Crab (
   *Myomenippe hardwicki*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/214.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/214)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
   - [Stone Crab (
   *Myomenippe hardwicki*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2041.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2041)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
@@ -192,16 +192,16 @@ The stone crab eats snails and clams, crushing their shells with its powerful pi
 
 **Sometimes mistaken for**
 the
-[Red egg crab](../xanthidae/integerrimus.md)
+[Red egg crab](../xanthidae/integerrimus)
 (
 *Atergatis integerrimus*
 ) and
-[Maroon stone crab](rumphii.md)
+[Maroon stone crab](rumphii)
 (
 *Menippe rumphii*
 ).
 Here's more on how to tell apart
-[big crabs with big pincers](../../bigpincer.md)
+[big crabs with big pincers](../../bigpincer)
 seen on the rocky shores and coral rubble.
 
 {% include img-wrap-group.html items=page.galleries.gallery4 %}

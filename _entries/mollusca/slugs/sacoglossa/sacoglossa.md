@@ -115,11 +115,11 @@ These slugs come in a wide range of shapes from minute to large, and some are co
 
 **What are leaf slugs?**
 Sap-sucking slugs belong to
-[Phylum Mollusca](../../mollusca.md)
+[Phylum Mollusca](../../mollusca)
 and
-[Class Gastropoda](../../gastropoda.md)
+[Class Gastropoda](../../gastropoda)
 like other snails. Like many other sea slugs (
-[Subclass Opistobranchia](../../slug.md)
+[Subclass Opistobranchia](../../slug)
 ), sap-sucking slugs lack external shells as adults. Sacoglossans are also called sap-sucking slugs because this is what they do (see below).
 
 ## Features
@@ -128,7 +128,7 @@ Sap-sucking slugs come in a wide variety of shapes and sizes. Many are tiny (1cm
 
 **Sometimes confused with**
 other sea slugs that appear similar but belong to different orders. Here's more on how to tell apart
-[sap-sucking slugs from other sea slugs](../../nudiharesac.md)
+[sap-sucking slugs from other sea slugs](../../nudiharesac)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What do they eat?**
@@ -178,10 +178,10 @@ from Tan Siong Kiat and Henrietta P. M. Woo, 2010
 sp.
 *=^Polybranchia*
 sp.
-*[Polybranchia orientalis](polybranchia.md)*
+*[Polybranchia orientalis](polybranchia)*
 (Bushy slug)
 
-**[Family Costasiellidae](costasiella.md)**
+**[Family Costasiellidae](costasiella)**
 (Strawberry slugs) with list of species recorded for Singapore.
 
 Previously Family Limapontiidae
@@ -189,16 +189,16 @@ Previously Family Limapontiidae
 **Family Juliidae**
 
 *
-[*Berthelinia singaporensis*](berthelinia.md)
+[*Berthelinia singaporensis*](berthelinia)
 (Bivalve slug)
 
 **Family Limapontiidae**
 
 **Kerryclarkella inconspicua
 
-[Placida](bryopsis.md)*
-[sp](bryopsis.md)
-*[.](bryopsis.md)*
+[Placida](bryopsis)*
+[sp](bryopsis)
+*[.](bryopsis)*
 (Bryopsis slug)
 *+Placida cremoniana
 
@@ -206,13 +206,13 @@ Placida daguilarensis
 
 Placida dendritica
 
-[Stiliger smaragdinus](stiliger.md)*
+[Stiliger smaragdinus](stiliger)*
 (Emerald slug)
 
 **Family Oxynoidae**
 
 ^
-*[Lobiger viridis](lobiger.md)*
+*[Lobiger viridis](lobiger)*
 (Tendril slug)
 
 **Family Plakobranchidae**
@@ -220,17 +220,17 @@ Placida dendritica
 Previously Family Elysiidae
 
 [*Elysia*
-sp.](elysiidae.md)
+sp.](elysiidae)
 (Elysia slugs) with list of species recorded for Singapore.
 
-*[Thuridilia](thuridilla.md)*
-[sp](thuridilla.md)
-*[.](thuridilla.md)*
+*[Thuridilia](thuridilla)*
+[sp](thuridilla)
+*[.](thuridilla)*
 (Thuridilla slug)
 **
 with list of species recorded for Singapore.
 
-**[Family Volvatellidae](volvatella.md)**
+**[Family Volvatellidae](volvatella)**
 (Volvatella slugs) with list of species recorded for Singapore.
 
 ---

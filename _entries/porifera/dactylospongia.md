@@ -58,7 +58,7 @@ This encrusting sponge is sometimes seen on coral rubble on our Southern shores.
 Thin encrustation with short (2-5cm) finger-like upright branches. Surface rubbery, spiky and prickly when the sponge is out of water. Large holes at the tips of the 'fingers' or widely separated. Colour uniform mustard (yellowish brown).
 
 **Sometimes confused with**
-[Yellow prickly branching sponges](encrustprickly.md)
+[Yellow prickly branching sponges](encrustprickly)
 (
 *Pseudoceratina purpurea*
 , Family Pseudoceratinidae) which looks very similar. The two kinds of sponges are difficult to tell apart in the field.

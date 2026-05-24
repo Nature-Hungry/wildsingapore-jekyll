@@ -103,7 +103,7 @@ Usually hidden by the fleshy tissue, the 'hollow' structure of the branches prov
 
 **Sometimes confused with**
 some species of
-[Lobed brain corals](../mussidae/lobophyllia.md)
+[Lobed brain corals](../mussidae/lobophyllia)
 (
 *Lobophyllia*
 sp.) that may also have branching corallites with circular openings. Other corals that may appear similar include:
@@ -111,7 +111,7 @@ sp.) that may also have branching corallites with circular openings. Other coral
 and some
 *Favia*
 species. More on how to tell apart
-[hard corals with big rings and fleshy tissue](../cfbigring.md)
+[hard corals with big rings and fleshy tissue](../cfbigring)
 .
 
 **Status and threats:**
@@ -157,7 +157,7 @@ on the
 [IUCN global list](../faviidae/www.iucnredlist.org)
 .
 
-**[Family Merulinidae](merulinidae.md)
+**[Family Merulinidae](merulinidae)
 
 Genus
 *Caulastrea***

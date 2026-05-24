@@ -46,7 +46,7 @@ This tiny jewel of a crab was seen once on Labrador.
 ## Features
 
 Body width 1-2cm. Body and claws bright red with bumps and ridges. Like other brightly coloured Xanthid crabs, it is probably
-[poisonous](xanthidae.md)
+[poisonous](xanthidae)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

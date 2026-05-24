@@ -160,7 +160,7 @@ Veron considers it to be a colonial animal with many mouths. Numerous mouths are
 
 **Sometimes confused with**
 other long mushroom corals. Here's more on how to
-[tell apart elongated mushroom hard corals](cflong.md)
+[tell apart elongated mushroom hard corals](cflong)
 .
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

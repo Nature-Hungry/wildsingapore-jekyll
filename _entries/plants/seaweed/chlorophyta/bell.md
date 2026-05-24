@@ -72,11 +72,11 @@ This juicy looking seaweed is made up of little bell-shaped 'grapes'. Small clum
 The seaweed resembles bunches of little bells, with a flattened top. Each bunch about 6-8cm long, with bell-shaped bead (the 'grapes') arranged on a vertical 'stem'. These bunches of 'grapes' emerge from a long horizontal 'stem' that creeps over hard surfaces or just under the sand. Colours range from green to bluish-green.
 
 **Sometimes confused with**
-[Round sea grape seaweeds](lentillifera.md)
+[Round sea grape seaweeds](lentillifera)
 (
 *Caulerpa lentillifera*
 ). Here's more on
-[how to tell apart the sea grapes seaweeds](cfgrapes.md)
+[how to tell apart the sea grapes seaweeds](cfgrapes)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

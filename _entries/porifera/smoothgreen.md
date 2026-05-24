@@ -63,13 +63,13 @@ This smooth sponge forms a layer over coral rubble and is often seen on our Sout
 A thin layer encrusting coral rubble 10-20cm. Generally a smooth layer but also often with irregular knobs, folds and lobes. Tiny circular holes at the top of folds and elsewhere. Texture glossy, rubbery with tiny bumps, visible both underwater and out of water. Usually light green, also greyish blue. Often lighter at the edges of the protruding portions.
 
 **May be confused with**
-[Blue icing sponge](smoothblue.md)
+[Blue icing sponge](smoothblue)
 (
 *Lendenfeldia*
 cf.
 *chondrodes*
 ) which may also be green, but is very smooth and doesn't have tiny bumps on the surface. Also similar to the
-[Smooth brown sponges](smoothbrown.md)
+[Smooth brown sponges](smoothbrown)
 (
 *Neopetrosia exigua*
 ) which are brown.

@@ -88,7 +88,7 @@ links_references: |
   - True heart cockle (
   *Corculum cardissa*
   ) in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
   - [Weird Clam Profile: The Heart Cockles](https://dantheclamman.blog/2018/06/13/weird-clam-profile-the-heart-cockles/)
   on Clamsplaining by Dan Killam, Jun 13, 2018.
@@ -128,7 +128,7 @@ This intriguing clam is sometimes seen on our Southern shores, near reefs. Somet
 **What does it eat?**
 Unlike most other bivalves, the heart cockle harbours symbiotic zooxanthellae (a kind of single-celled algae) in its body. The zooxanthellae produce food through photosynthesis which it shares with the clam. To maximise the productivity of its "farm", the upperside of its shell has translucent 'windows' to let sunlight through the shell.
 In this habit, it is similar to
-[Giant clams](../tridacnidae/tridacnidae.md)
+[Giant clams](../tridacnidae/tridacnidae)
 . It also filter feeds - when submerged, it opens the valves on the underside slightly and sucks in water to filter out edible bits.
 
 **Human uses:**

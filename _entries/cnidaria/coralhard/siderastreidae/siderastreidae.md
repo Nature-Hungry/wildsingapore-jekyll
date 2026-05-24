@@ -56,7 +56,7 @@ These hard corals with tiny to small corallites are often seen on many of our sh
 
 ****
 **Status and threats:**
-*[Pseudosiderastrea tayami](hexaneat.md)*
+*[Pseudosiderastrea tayami](hexaneat)*
 is listed as globally Near Threatened
 [by the IUCN](http://www.iucnredlist.org/apps/redlist/details/133453/0)
 . Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors, and over-collection also have an impact on local populations.
@@ -89,10 +89,10 @@ on the
 
 Coscinaraea exesa*
 **[*Psammocora*
-sp.](psammocora.md)**
+sp.](psammocora)**
 (Sandpaper corals) with list of species recorded for Singapore
 
-*[Pseudosiderastrea tayami](hexaneat.md)
+*[Pseudosiderastrea tayami](hexaneat)
 ***
 (Neat hexa corals) (Near Threatened)
 

@@ -43,7 +43,7 @@ links_references: |
   **Links**
   - [Bumblebee goby (
   *Brachygobius kabillensis*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2107.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2107)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.

@@ -69,7 +69,7 @@ galleries:
 
 ## Where seen?
 This pretty wooly plant with pink flowers are planted at Chek Jawa along the visitor trails. According to Corners, it was common in Malaya especially in open sandy ground on the seashore or sand banks by the rivers. As he puts it, "it delights in hot sandy places". In Singapore, it is commonly found in
-[adinandra belukar](../../others/adinandra/dumosa.md)
+[adinandra belukar](../../others/adinandra/dumosa)
 and beach forest areas.
 
 ## Features
@@ -78,7 +78,7 @@ Shrub about 3m tall. The young parts are whitish and woolly. The leaves have thr
 
 **Sometimes mistaken for**
 the more common
-[Sendudok](../../others/melastoma/malabathricum.md)
+[Sendudok](../../others/melastoma/malabathricum)
 (
 *Melastoma malabathricum*
 ).

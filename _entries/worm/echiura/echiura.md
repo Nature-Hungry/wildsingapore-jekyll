@@ -85,7 +85,7 @@ Spoon worms are sometimes seen above ground on our Northern shores, near seagras
 
 **What are spoon worms?**
 Spoon worms are
-[worms](../worm.md)
+[worms](../worm)
 belonging to Phylum Echiura. Some scientist place them in Phylum Annelidae like the more familiar earthworm. Spoon worms are not segmented like other annelids. There are only about 150 species of spoon worms, but they can be quite common in some marine ecosystems.
 
 ## Features
@@ -94,7 +94,7 @@ Those seen on our shores about 10cm long. Body unsegmented and sausage-like. In 
 
 **Sometimes mistaken for**
 'uprooted' sea anemones or sea cucumbers. More on
-[how to tell apart sausage-shaped animals](../../glossary/sausage.md)
+[how to tell apart sausage-shaped animals](../../glossary/sausage)
 .
 
 **What do they eat?**

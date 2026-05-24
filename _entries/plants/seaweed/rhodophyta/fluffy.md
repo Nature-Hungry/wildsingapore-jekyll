@@ -61,7 +61,7 @@ and
 .
 *Polysiphonia*
 (Family Rhodomelaceae) also has this form. One stage in the life cycle of the
-[Cat's tail red seaweed](catstail.md)
+[Cat's tail red seaweed](catstail)
 also has a similar form.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Seaweed species are difficult to positively identify without microscopic examination.

@@ -49,7 +49,7 @@ links_references: |
   [The Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html)
   at Washington State University Tri-Cities Natural History Museum website: brief description and photos.
   - Family Cardiidae in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   **References**
@@ -84,7 +84,7 @@ These animals usually burrow shallowly in sandy to muddy bottoms.
 
 **What are true cockles?**
 True cockles belong to Family Cardiidae. There about 200 species of true cockles. These include the magnificent
-[Giant clams](../tridacnidae/tridacnidae.md)
+[Giant clams](../tridacnidae/tridacnidae)
 in subfamily Tridacninae.
 
 ## Features
@@ -120,7 +120,7 @@ from Tan Siong Kiat and Henrietta P. M. Woo, 2010
 
 On this website, they are grouped by external features for convenience of display.*
 
-[Large cockles](large.md)
+[Large cockles](large)
 
 **Family Cardiidae**
 
@@ -144,13 +144,13 @@ Acrosterigma transcendens
 
 Acrosterigma vertebrata
 
-[Corculum cardissa](cardissa.md)*
+[Corculum cardissa](cardissa)*
 (Heart cockle)
 *Fragum hemicardium
 
 Fragum retusum
 
-[Fragum unedo](fragum.md)*
+[Fragum unedo](fragum)*
 (Strawberry cockle)
 *Fulvia aperta
 
@@ -169,7 +169,7 @@ Vepricardium multispinosum
 Vepricardium sinense*
 
 **^
-[Subfamily Tridacninae](../tridacnidae/tridacnidae.md)**
+[Subfamily Tridacninae](../tridacnidae/tridacnidae)**
 (Giant clams) including species recorded for Singapore.
 
 ---

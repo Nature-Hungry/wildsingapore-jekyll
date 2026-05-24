@@ -168,7 +168,7 @@ links_references: |
   ) and
   *Chicoreus brunneus*
   in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   **References**
@@ -221,10 +221,10 @@ The following are the two commonly seen murex snails found on and near our reefs
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**
 Like other drills in the Family Muricidae, this snail can also drill through shells. They are said to feed extensively on the
-[venus clam](../../bivalvia/veneridae/veneridae.md)
+[venus clam](../../bivalvia/veneridae/veneridae)
 *Gafrarium*
 (Family Veneridae) by drilling a neat hole through the shell. We have often seen them suspiciously clasping a
-[Bazillion snail](../batillariidae/zonalis.md)
+[Bazillion snail](../batillariidae/zonalis)
 (
 *Batillaria zonalis*
 ).

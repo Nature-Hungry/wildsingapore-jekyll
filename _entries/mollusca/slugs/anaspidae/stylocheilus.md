@@ -74,11 +74,11 @@ galleries:
     caption: ''
 links_references: |
   **Links**
-  - [Sea Slug Forum](http://www.seaslugforum.net/welcome.md)
+  - [Sea Slug Forum](http://www.seaslugforum.net/welcome)
   by Dr Bill Rudman: all about sea hares, nudibranchs and other sea slugs; including details on
   *[Stylocheilus striatus](http://www.seaslugforum.net/factsheet.cfm?base=stylstri)*
   and
-  *[Stylocheilus longicauda](http://www.seaslugforum.net/stylcaud.md)*
+  *[Stylocheilus longicauda](http://www.seaslugforum.net/stylcaud)*
 
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
@@ -121,16 +121,16 @@ Body long with a long 'tail'. It is covered in tiny spiky projections that give 
 
 **Sometimes mistaken for**
 the
-[Hairy sea hare](geographica.md)
+[Hairy sea hare](geographica)
 which have flat thicker 'hair' and lack fine parallel lines. More on
-[how to tell apart hairy slugs and snails](../../hairyslugsnail.md)
+[how to tell apart hairy slugs and snails](../../hairyslugsnail)
 .
 
 **What does it eat?**
 It feeds on
-[cyanobacteria](../../../plants/seaweed/cyanobacteria/cyanobacteria.md)
+[cyanobacteria](../../../plants/seaweed/cyanobacteria/cyanobacteria)
 formerly known as the filamentous blue-green algae. These sea hares are preyed upon by the
-*[Gymnodoris](../nudibranchia/gymnodoris.md)*
+*[Gymnodoris](../nudibranchia/gymnodoris)*
 nudibranch.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

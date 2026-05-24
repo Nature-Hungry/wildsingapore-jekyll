@@ -176,15 +176,15 @@ links_references: |
   **Links**
   - [Mangrove hermit crab (
   *Diogenes*
-  sp.) Family Diogenidae](http://mangrove.nus.edu.sg/guidebooks/text/2062.md)
+  sp.) Family Diogenidae](http://mangrove.nus.edu.sg/guidebooks/text/2062)
   and the
   [Land hermit crab (
   *Coenobita cavipes*
-  ) Family Coenobitidae](http://mangrove.nus.edu.sg/guidebooks/text/2063.md)
+  ) Family Coenobitidae](http://mangrove.nus.edu.sg/guidebooks/text/2063)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
-  - [Hermit Crabs, Order Decapoda](http://mangrove.nus.edu.sg/pub/seashore/text/186.md)
+  - [Hermit Crabs, Order Decapoda](http://mangrove.nus.edu.sg/pub/seashore/text/186)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -262,9 +262,9 @@ Hermit crabs are commonly seen on many of our shores. They come in all sizes fro
 
 **What are hermit crabs?**
 Hermit crabs belong a subgroup called Anomurans in the Order
-[Decapoda](../../../decapoda.md)
+[Decapoda](../../../decapoda)
 . Anomurans includes
-[porcelain crabs](../porcellanidae/porcellanidae.md)
+[porcelain crabs](../porcellanidae/porcellanidae)
 . These crab-like animals are not true crabs. True crabs belong to a subgroup called Brachyurans within the Order Decapoda.
 
 ## Features
@@ -290,11 +290,11 @@ on the wild shores of singapore blog.
 
 {% include img-wrap-group.html items=page.galleries.gallery4 %}**Living with a hermit:**
 The hermit crab makes such a comfy home in its borrowed shell that other animals take up residence with it. These include the
-[Slipper snail](../../../../mollusca/gastropoda/calyptraeidae/calyptraeidae.md)
+[Slipper snail](../../../../mollusca/gastropoda/calyptraeidae/calyptraeidae)
 (Family Crepidulidae),
-[tiny porcelain crabs](../porcellanidae/hermit.md)
+[tiny porcelain crabs](../porcellanidae/hermit)
 and
-[sea anemones](../../../../cnidaria/actiniaria/hermitsmall.md)
+[sea anemones](../../../../cnidaria/actiniaria/hermitsmall)
 . These animals enjoy the constant flow of oxygenated water that the hermit crab generates, snack on the hermit crab's leftovers, and the hermit crab will hide in the sand or crevices where its safe and wet so the hitch-hikers don't risk drying out.
 
 {% include img-wrap-group.html items=page.galleries.gallery5 %}
@@ -308,7 +308,7 @@ Hermit crabs have separate genders. To mate, hermits crabs partially emerge from
 
 {% include img-wrap-group.html items=page.galleries.gallery8 %}**Hermit crabs belong on the seashore!**
 Please don't take hermit crabs home. And please don't buy one from a pet store. Hermit crabs sold in a pet store are collected from the wild. Many have died during the collection process, before they are even sold. And many of those sold also eventually die from neglect or ignorance of proper care. For example, within the confinement of a small tank, most die during a moult. In the wild, they are able to find the correct place to moult, with the proper high humidity.
-[More about moulting](../../../moulting.md)
+[More about moulting](../../../moulting)
 .
 
 {% include img-wrap-group.html items=page.galleries.gallery9 %}Even if they are kept alive for a long time, hermit crabs removed from the habitat generally do not reproduce successfully. Thus, they do not contribute to the wild population. Other animals rely on hermit crabs as homes and as food. Removing wild hermit crabs hurts the ecosystem.
@@ -325,7 +325,7 @@ Hermit crabs are eaten by many animals higher up in the food chain. Bigger crabs
 
 **Status and threats:**
 The
-[Land hermit crabs](coenobita.md)
+[Land hermit crabs](coenobita)
 (
 *Coenobita*
 sp.) are listed as 'Vulnerable' on the Red List of threatened animals of Singapore due to loss of our natural beaches. As for our other hermit crabs, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution as well as over-collection for the pet trade and by hobbyists.
@@ -376,28 +376,28 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 
 On this website, they are grouped by external features for convenience of display.*
 
-[Huddling hermit crab](huddling.md)
+[Huddling hermit crab](huddling)
 
-[Lavender hermit crab](lavender.md)
+[Lavender hermit crab](lavender)
 
-**[Family Coenobitidae](coenobita.md)**
+**[Family Coenobitidae](coenobita)**
 (Land hermit crabs) with list of species recorded for Singapore
 
 **Family Diogenidae**
 
 [*Clibanarius*
-spp.](clibanarius.md)
+spp.](clibanarius)
 *Clibanarius clibanarius
 
-[Clibanarius cruentatus](goldspot.md)*
+[Clibanarius cruentatus](goldspot)*
 (Gold-spotted hermit crab)
 **
 *
-*[Clibanarius infraspinatus](stripeorange.md)*
+*[Clibanarius infraspinatus](stripeorange)*
 (Orange-striped hermit crab)
 
 *
-*[Clibanarius longitarsus](stripeblue.md)*
+*[Clibanarius longitarsus](stripeblue)*
 (Blue-striped hermit crab)
 
 *Clibanarius merguiensis*
@@ -410,12 +410,12 @@ spp.](clibanarius.md)
 
 +
 [*Clibanarius*
-sp.](black.md)
+sp.](black)
 (All-black hermit crab)
 
 +
 [*Clibanarius*
-sp.](tawny.md)
+sp.](tawny)
 (Tawny hermit crab)
 
 *Dardanus callichela
@@ -425,17 +425,17 @@ Dardanus gemmatus
 Dardanus hessii*
 
 +
-*[Dardanus lagopodes](veryhairy.md)*
+*[Dardanus lagopodes](veryhairy)*
 (Very hairy hermit crab)
 
-[*Dardanus megistos*](orangespot.md)
+[*Dardanus megistos*](orangespot)
 (Orange spotted hermit crab)
 
 *Dardanus setifer*
 
 *
 [*Diogenes*
-sp.](tidal.md)
+sp.](tidal)
 (Tidal hermit crab)
 **
 *
@@ -474,18 +474,18 @@ Diogenes platyops=**Diogenes jubatus
 Diogenes stenops=**Diogenes jousseaumei
 
 Diogenes tumidus*
-*[Paguristes longirostris](blueelbow.md)*
+*[Paguristes longirostris](blueelbow)*
 (Blue-elbowed hermit crab)
 **
 *+
-[Pseudopaguristes monoporus](banded.md)*
+[Pseudopaguristes monoporus](banded)*
 ('Blue-orange' banded hermit crab)
 
 ****Family Paguridae**
 (previously in Family Diogenidae)
 
 *+
-[Pagurus hedleyi](bandedpink.md)*
+[Pagurus hedleyi](bandedpink)*
 (Pink banded hermit crab)
 *Pagurus kulkarnii
 

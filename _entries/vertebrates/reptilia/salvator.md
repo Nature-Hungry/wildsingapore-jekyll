@@ -46,9 +46,9 @@ galleries:
       caption: The lizard can hold its breath for a long time!
 links_references: |
   **Links**
-  - [Malayan Water Monitor](http://www.ecologyasia.com/verts/lizards/malayan_water_monitor.md)
+  - [Malayan Water Monitor](http://www.ecologyasia.com/verts/lizards/malayan_water_monitor)
   on Nick Baker's EcologyAsia website: fact sheet with photos.
-  - [Malayan Water Monitor](http://www.wildsingapore.per.sg/discovery/factsheet/malymonitor.md)
+  - [Malayan Water Monitor](http://www.wildsingapore.per.sg/discovery/factsheet/malymonitor)
   on Chan Kwok Wai's Wildlife Singapore: fact sheet with photos.
   - [Busting Myths about Monitors](http://iyb2010singapore.blogspot.sg/2010/12/busting-myths-about-monitors.html)
   by Ivan Kwan on the Celebrating Singapore's Biodiversity blog.
@@ -97,7 +97,7 @@ Although mainly terrestrial, it can climb trees and also swims well (keeping its
 
 **Sometimes mistaken for**
 an
-[Estuarine crocodile](porosus.md)
+[Estuarine crocodile](porosus)
 . The lizard's snout is short and narrow, and tail is long and slender. A crocodile has a long snout and a much thicker fatter tail.
 
 The lizard often swims by placing its limbs against its body and undulating its long tail from side to side. The crocodile may swim in the same way as the lizard. It may also often sink into the murky water and emerge some distance away. Sometimes, all that sticks out above water are the crocodile's eyes and the tip of its long snout.

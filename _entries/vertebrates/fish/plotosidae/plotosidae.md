@@ -60,21 +60,21 @@ links_references: |
   **Links**
   - [Black eeltail catfish (
   *Plotosus canius*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/236.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/236)
   Tan, Leo W. H. & Ng, Peter K. L., 1988,
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
   - [White-lipped Eeltail Catfish (
   *Paraplotosus albilabris*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/224.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/224)
   ,
   [Black Eeltail Catfish (
   *Plotosus canius*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/225.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/225)
   ,
   [Striped Eeltail Catfish (
   *Plotosus lineatus*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/226.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/226)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
@@ -145,13 +145,13 @@ Eeltail catfishes belong to the Family Plotosidae. According to
 Juveniles from 5cm, adults to about 30cm. The body is long and cylindrical, flattening into an eel-like tail, i.e., the dorsal and anal fins are continuous with the tail fin. To swim, the fish undulates in an eel- or snake-like manner. Snout blunt with four pairs of 'whiskers' (called barbels) all around the mouth. One pair on the snout in front of the eyes, one pair on each side of the mouth and two pairs below the mouth. It lack scales and has a smooth slimy skin. It makes up for this 'nakedness' with venomous spines on the dorsal fin and on each of the pectoral fins. These tough spines can be locked upright, thus making an eeltail catfish unpleasant for bigger fish to swallow. They use their venomous spines to protect themselves against predators, and not to catch prey.
 
 **Sometimes mistaken for**
-[sea catfishes](../ariidae/ariidae.md)
+[sea catfishes](../ariidae/ariidae)
 . Sea catfishes are seldom encountered on the intertidal at low tide. Sea catfishes have barbels too but their tail fins are forked and not eel-like as in the eeltail catfishes. Eeltail catfishes are sometimes also mistaken for
-[sea snakes](../../snakes/snakeshore.md)
+[sea snakes](../../snakes/snakeshore)
 or
-[eels](../muraenidae/muraenidae.md)
+[eels](../muraenidae/muraenidae)
 (Family Muraenidae). Here's more on
-[how to tell apart sea snakes, eels and eel-like animals](../../../glossary/eelsnake.md)
+[how to tell apart sea snakes, eels and eel-like animals](../../../glossary/eelsnake)
 .
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 
@@ -188,9 +188,9 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
 
 *Plotosus anguillaris=**Plotosus lineatus
 
-[Plotosus canius](canius.md)*
+[Plotosus canius](canius)*
 (Black eeltail catfish)
-*[Plotosus lineatus](lineatus.md)*
+*[Plotosus lineatus](lineatus)*
 (Striped eeltail catfish)
 
 ---

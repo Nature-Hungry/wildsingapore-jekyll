@@ -80,15 +80,15 @@ galleries:
     caption: Dusky-gilled mudskipper
 links_references: |
   **Links**
-  - [Mudskippers](http://mangrove.nus.edu.sg/guidebooks/text/2106.md)
+  - [Mudskippers](http://mangrove.nus.edu.sg/guidebooks/text/2106)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
-  - [Gobies, mudskippers and their relatives](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/151.md)
+  - [Gobies, mudskippers and their relatives](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/151)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
-  - [Mudskippers](http://mangrove.nus.edu.sg/pub/seashore/text/246.md)
+  - [Mudskippers](http://mangrove.nus.edu.sg/pub/seashore/text/246)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -128,12 +128,12 @@ location:
 
 ## Where seen?
 Mudskippers are commonly seen on some of our shores. They are particularly abundant in mangroves and muddy shores, but some like the
-[Gold-spotted mudskippers](chrysospilos.md)
+[Gold-spotted mudskippers](chrysospilos)
 are also commonly seen on rocky shores and near reefs.
 
 **What are mudskippers?**
 Often mistaken for frogs or snakes, mudskippers are actually fish that breathe with gills. Mudskippers belong to the
-[Family Gobiidae](gobiidae.md)
+[Family Gobiidae](gobiidae)
 and include these four genera
 *Boleophthalmus, Periophthalmus, Periophthalmadon*
 and
@@ -144,7 +144,7 @@ and
 
 Those seen about 6-12cm, some species can be much larger or smaller. Mudskippers are well adapted to the intertidal area. Being able to stay of water for a while gives mudskippers an advantage over 'normal' fishes. During low tide, they are among the few marine creatures that can exploit the dry muddy or sandy flats.
 More about
-[how to tell apart small mudskippers](cfmudsmall.md)
+[how to tell apart small mudskippers](cfmudsmall)
 commonly found on our shores.
 
 **Fish out of water?**
@@ -155,12 +155,12 @@ The mudskipper has other interesting features that enables it to rule the mud! L
 
 **How do mudskippers skip?**
 They curl their muscular body sideways then push against the mud to spring forward. The
-[Bearded mudskipper](histophorus.md)
+[Bearded mudskipper](histophorus)
 can 'stand' on its tail, if only for a brief moment, in an attempt to impress the ladies.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Human uses:**
 The
-[Giant mudskipper](schlosseri.md)
+[Giant mudskipper](schlosseri)
 is eaten in some places such as Taiwan. They are caught with nets strung at ground level, or with cast-nets.
 
 **Status and threats:**
@@ -196,32 +196,32 @@ from Helen K. Larson, Zeehan Jaafar and Kelvin K. P. Lim. 29 June 2016. An updat
 **
 **
 
-**[Family Gobiidae](gobiidae.md)**
+**[Family Gobiidae](gobiidae)**
 (NOT all members of Family Gobiidae are mudskippers)
 
 *Apocryptodon madurensis*
 (Spotted mudskipper)
 **
 **
-*[Boleophthalmus boddarti](boddarti.md)*
+*[Boleophthalmus boddarti](boddarti)*
 (Blue-spotted mudskipper)
 *Oxuderces dentatus
 
 Parapocryptes serperaster*
 (Serpent mudskipper)
-*[Periophthalmodon schlosseri](schlosseri.md)*
+*[Periophthalmodon schlosseri](schlosseri)*
 (Giant mudskipper)
-*[Periophthalmus argentilineatus](argentilineatus.md)*
+*[Periophthalmus argentilineatus](argentilineatus)*
 (Silver-lined mudskipper)
-*[Periophthalmus chrysospilos](chrysospilos.md)*
+*[Periophthalmus chrysospilos](chrysospilos)*
 (Gold-spotted mudskipper)
-*[Periophthalmus gracilis](gracilis.md)*
+*[Periophthalmus gracilis](gracilis)*
 (Slender mudskipper)
 
 *Periophthalmus malaccensis*
-*[Periophthalmus variabilis](variabilis.md)*
+*[Periophthalmus variabilis](variabilis)*
 (Dusky-gilled mudskipper)
-*[Periophthalmus walailakae](walailakae.md)*
+*[Periophthalmus walailakae](walailakae)*
 (Yellow-spotted mudskipper)
 *Pseudapocryptes borneensis*
 (Borneo lanceolate mudskipper)
@@ -229,7 +229,7 @@ Parapocryptes serperaster*
 (Elongate mudskipper)
 *Pseudapocryptes lanceolatus
 
-[Scartelaos histophorus](histophorus.md)*
+[Scartelaos histophorus](histophorus)*
 (Bearded mudskipper)
 
 ---

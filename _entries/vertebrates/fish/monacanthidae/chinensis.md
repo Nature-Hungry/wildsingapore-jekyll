@@ -104,12 +104,12 @@ links_references: |
   **Links**
   - [Fan-bellied Filefish (
   *Monacanthus chinensis*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/394.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/394)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
   - [*Monocanthus*
-  sp.](http://mangrove.nus.edu.sg/pub/seashore/text/237.md)
+  sp.](http://mangrove.nus.edu.sg/pub/seashore/text/237)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -119,7 +119,7 @@ links_references: |
   from
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet.
-  - [Volume 6: Bony fishes part 4 (Labridae to Latimeriidae), estuarine crocodiles, sea turtles, sea snakes and marine mammals](http://www.fao.org/docrep/009/y0870e/y0870e00.md)
+  - [Volume 6: Bony fishes part 4 (Labridae to Latimeriidae), estuarine crocodiles, sea turtles, sea snakes and marine mammals](http://www.fao.org/docrep/009/y0870e/y0870e00)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
 
   **References**
@@ -159,17 +159,17 @@ This well camouflaged filefish is commonly seen on many of our shores, in shelte
 ## Features
 
 To about 38cm, but those seen were 5-8cm long. Large triangular skin flap on the belly that can be greatly expanded, but often tucked close to the body. Body with lots of small circular dots and broad diagonal bars on the sides, in some these bars may be indistinct. It comes in all shades from brown to green. Tail fin large broad with thin brown bands. On a large adult, the upper fin rays on the tail is produced into a filament. More on
-[how to tell apart filefishes](monacanthidae.md)
+[how to tell apart filefishes](monacanthidae)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **What does it eat?**
 It eats seagrass, seaweed and small crustaceans as well as immobile animals such as
-[bryozoans](../../../bryozoa/bryozoan.md)
+[bryozoans](../../../bryozoa/bryozoan)
 ,
-[ascidians](../../../ascidiacea/ascidiacea.md)
+[ascidians](../../../ascidiacea/ascidiacea)
 and
-[hydroids](../../../cnidaria/others/hydrozoa/hydrozoa.md)
+[hydroids](../../../cnidaria/others/hydrozoa/hydrozoa)
 .
 
 **Human uses:**

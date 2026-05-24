@@ -80,13 +80,13 @@ links_references: |
   **Links**
   - [Porcelain Crab (
   *Petrolisthes*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/184.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/184)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
   - [Mangrove porcelain crab (
   *Petrolisthes kranjiensis*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2066.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2066)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
@@ -128,9 +128,9 @@ Porcelain crabs are plentiful under the stones of our rocky shores, scattering i
 
 **What are porcelain crabs?**
 Porcelain crabs belong to the subgroup Anomura of the Order
-[Decapoda](../../../decapoda.md)
+[Decapoda](../../../decapoda)
 . Anomurans includes
-[hermit crabs](../hermit/hermit.md)
+[hermit crabs](../hermit/hermit)
 . Porcelain crabs belong to Family Porcellanidae.
 ## Features
 
@@ -141,7 +141,7 @@ The porcelain crab's huge pincers are not used to catch prey. Porcelain crabs mo
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Falling apart at the seams:**
 The porcelain crab tends to shed limbs if stressed, hence its common name. This is a useful trait, in case a limb is trapped between rocks shifting in the currents, or grabbed by a predator. A dropped pincer may continue to move, to distract the predator while the owner makes its getaway. The lost limb eventually re-grows with subsequent
-[moults](../../../moulting.md)
+[moults](../../../moulting)
 , but this takes time.
 
 **Not a true crab!**
@@ -155,9 +155,9 @@ Porcelain crab eggs hatch into free-swimming larvae that only later settle down 
 
 **Role in the habitat:**
 Some porcelain crabs live with other animals. One kind of porcelain crab lives on a
-[sea pen](../../../../cnidaria/others/pennatulacea/pennatulacea.md)
+[sea pen](../../../../cnidaria/others/pennatulacea/pennatulacea)
 . Elsewhere, there are porcelain crabs that live in
-[a shell occupied by a hermit crab](../hermit/clibanarius.md)
+[a shell occupied by a hermit crab](../hermit/clibanarius)
 , with tubeworms, in the siphons of bivalves, among the tentacles of sea anemones, on or inside sponges, or up the backside of a sea cucumber!
 
 **Status and threats:**
@@ -201,10 +201,10 @@ from Ng, P. K. L. & Y. C. Wee, 1994.
 
 On this website, they are grouped by external features for convenience of display.*
 
-[Hermit porcelain crab](hermit.md)
+[Hermit porcelain crab](hermit)
 
-[Tiny brown porcelain crab](tinystone.md)
-[Commensal porcelain crabs](commensal.md)
+[Tiny brown porcelain crab](tinystone)
+[Commensal porcelain crabs](commensal)
 
 **Family Porcellanidae**
 
@@ -218,7 +218,7 @@ sp.
 
 *****
 **[*Petrolisthes*
-sp.](petrolisthes.md)
+sp.](petrolisthes)
 (Big porcelain crab) with species recorded in Singapore**
 
 *Polyonyx biunguiculatus
@@ -243,7 +243,7 @@ Porcellana streptochiroides
 
 Porcellana corallicola=^Enosteoides ornatus
 
-[Porcellanella picta=^Porcellanella triloba](picta.md)*
+[Porcellanella picta=^Porcellanella triloba](picta)*
 (Painted porcelain crab) (VU: Vulnerable)
 *Pseudoporcellanella manoliensis*
 (False porcelain crab) (VU: Vulnerable)

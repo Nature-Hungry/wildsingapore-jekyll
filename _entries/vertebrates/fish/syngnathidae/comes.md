@@ -202,11 +202,11 @@ This large seahorse with a black-and-yellow banded tail is often seen on our Sou
 6-10cm long. Body without large, obvious spines. Colours seen include black, brown or yellowish with speckles. The tail is banded black and yellow. There are little white dots around the eye and on the cheeks.
 
 It's difficult to tell this seahorse apart from the
-[Estuarine seahorse](kuda.md)
+[Estuarine seahorse](kuda)
 (
 *Hippocampus kuda*
 ). More on
-[how to tell apart the Tiger-tail and Estuarine seahorses](cfcomeskuda.md)
+[how to tell apart the Tiger-tail and Estuarine seahorses](cfcomeskuda)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

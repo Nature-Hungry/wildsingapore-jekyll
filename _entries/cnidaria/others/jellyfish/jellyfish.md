@@ -54,11 +54,11 @@ galleries:
       caption: Thread-tentacled jellyfish
 links_references: |
   **Links**
-  - [Rhizostome jellyfish](http://mangrove.nus.edu.sg/pub/seashore/text/115.md)
+  - [Rhizostome jellyfish](http://mangrove.nus.edu.sg/pub/seashore/text/115)
   and
   [Sea Nettle (
   *Chrysaora melanaster*
-  ) Order Semaeostomeae](http://mangrove.nus.edu.sg/pub/seashore/text/249.md)
+  ) Order Semaeostomeae](http://mangrove.nus.edu.sg/pub/seashore/text/249)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -108,13 +108,13 @@ Almost everyone knows what a jellyfish looks like! These blobs of jelly are crea
 
 **What are jellyfish?**
 Despite their name, they are not fish and are more closely related to sea anemones and corals. They are
-[Cnidarians](../../cnidaria.md)
+[Cnidarians](../../cnidaria)
 (Phylum Cnidaria).
 
 Jellyfish may belong to various groups within the Phylum Cnidaria. Many cnidarians undergo a life cycle in which they take a jellyfish-like form (the medusa) in one stage, and a stationary sea anemone-like form (the polyp) in another stage.
 
 Other cnidarians only take the form of a jellyfish in their life cycle and don't take on the stationary form. These include members of the Class Scyphozoa; Class Cubozoa (which includes the highly venomous box jellies);
-[Class Hydrozoa](../hydrozoa/hydrozoa.md)
+[Class Hydrozoa](../hydrozoa/hydrozoa)
 (which includes the highly venomous Portuguese-Man-of-War in the Order Siphonophora which is a colony and not a solitary animal like other jellyfish). In Class Scyphozoa and Class Cubozoa, the jellyfish form is the dominant and most conspicuous form in the life cycle.
 
 ## Features
@@ -133,7 +133,7 @@ Do not touch jellyfishes. Cover all skin if you have to work in water: long slee
 
 **What do they eat?**
 Some jellyfish sting fishes and crustaceans. Others are suspension feeders, trapping plankton in mucus on the underside of their bell-shaped bodies. The
-[Upsidedown jellyfish](upsidedown.md)
+[Upsidedown jellyfish](upsidedown)
 has a farm in its arms - it harbours microscopic, single-celled algae (called zooxanthellae) inside its body. The algae undergo photosynthesis to produce food from sunlight. The food produced is shared with the jellyfish, which in return provides the algae with shelter and minerals.
 
 **Jellyfish babies:**
@@ -146,9 +146,9 @@ Among the creatures that eat jellyfish are sea turtles. Because plastic bags and
 
 **Jellyfish friends:**
 Sometimes, small fishes can be seen near
-[huge jellyfishes](huge.md)
+[huge jellyfishes](huge)
 and even
-[Ribbon jellyfishes](ribbon.md)
+[Ribbon jellyfishes](ribbon)
 including near their stinging tentacles.
 
 {% include img-wrap-group.html items=page.galleries.gallery4 %}**Human uses:**
@@ -156,7 +156,7 @@ Jellyfish are a delicacy in Chinese cuisine. But so far, there has not been an o
 
 **Status:**
 Except for the
-[Mangrove jellyfish](mangrove.md)
+[Mangrove jellyfish](mangrove)
 which is listed as Vulnerable, there is inadequate information as at 2024 to make an informed assesment of the conservation status of the recorded jellyfishes in Singapore.
 
 ---
@@ -182,9 +182,9 @@ for free download
 **Class Scyphozoa on Singapore Shores**
 from Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
 
-[Huge jellyfishes](huge.md)
+[Huge jellyfishes](huge)
 
-**[Family Cassiopeidae](upsidedown.md)**
+**[Family Cassiopeidae](upsidedown)**
 (Upsidedown jellyfish)
 
 *Cassiopea andromeda*
@@ -194,15 +194,15 @@ from Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Thr
 
 **Family Catostylidae**
 
-*[Acromitus](mangrove.md)*
-[sp.](mangrove.md)
+*[Acromitus](mangrove)*
+[sp.](mangrove)
 (Mangrove jellyfish)
 
 *Acromitus hardenbergi*
 (River jellyfish)
 
-*[Catostylus](catostylus.md)*
-[sp.](catostylus.md)
+*[Catostylus](catostylus)*
+[sp.](catostylus)
 (Fat-armed jellyfish)
 
 **Family Linuchidae**
@@ -218,7 +218,7 @@ from Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Thr
 **Family Pelagiidae**
 
 [*Chrysaora*
-sp.](ribbon.md)
+sp.](ribbon)
 (Ribbon jellyfish)
 *Chrysaora chinensis*
 *Chrysaora melanaster*

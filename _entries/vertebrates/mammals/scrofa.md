@@ -31,7 +31,7 @@ galleries:
       caption: "Safe closer encounters are possible! Chek Jawa, Dec 11"
 links_references: |
   **Links**
-  - [Wild Pig](http://www.ecologyasia.com/verts/mammals/wild_pig.md)
+  - [Wild Pig](http://www.ecologyasia.com/verts/mammals/wild_pig)
   on Nick Baker's EcologyAsia website: fact sheet with photos.
   - [*Sus scrofa*](https://singapore.biodiversity.online/taxo4254/mainSpace/Sus%20Scrofa%20-%20Wild%20Boar.html)
   (Artiodactyla: Suidae) Wild Boar by Teo Li Young, 2013 on taxo4254.

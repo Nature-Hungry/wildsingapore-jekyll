@@ -90,7 +90,7 @@ links_references: |
   **Links**
   - [Pasir or Silver Sand Whiting (
   *Sillago sihama*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/281.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/281)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
@@ -175,7 +175,7 @@ s) is found in silty and muddy areas. It can grow to about 36cm. Body silvery wi
 
 **Sometimes confused with**
 other small silvery fishes. More on
-[how to tell apart small silvery fishes](../cfsilvery.md)
+[how to tell apart small silvery fishes](../cfsilvery)
 .
 ****
 

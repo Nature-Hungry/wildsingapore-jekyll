@@ -56,23 +56,23 @@ links_references: |
   on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief description and photos.
   - [Mangrove dove shell (
   *Columbella duclosiana*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2086.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2086)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)
   II (Animal Diversity)*
   . Singapore Science Centre. 168 pp.
   - [Pigeon or Dove Shell (
   *Pyrene*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/147.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/147)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
-  - [Family Columbellidae](http://seashellsofnsw.org.au/Columbellidae/Pages/Columbellidae_intro.md)
+  - [Family Columbellidae](http://seashellsofnsw.org.au/Columbellidae/Pages/Columbellidae_intro)
   on
-  [The Seashells of New South Wales](http://seashellsofnsw.org.au/index.md)
+  [The Seashells of New South Wales](http://seashellsofnsw.org.au/index)
   by Des Beechey Research Associate, Australian Museum: family introductions with photos of shells and detailed fact sheets for many species.
   - Family Columbellidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   **References**
@@ -166,7 +166,7 @@ from Tan Siong Kiat and Henrietta P. M. Woo, 2010
 
 *Anachis melitoma
 
-[Euplica scripta](dotted.md)*
+[Euplica scripta](dotted)*
 (Dotted dove snail)
 *Mitrella brookei
 
@@ -182,10 +182,10 @@ from Tan Siong Kiat and Henrietta P. M. Woo, 2010
 Parametaria philippinarum
 
 ^
-[Pardalinops testudinaria](netted.md)
+[Pardalinops testudinaria](netted)
 =Pardalina testudinaria*
 (Turtle dove snail)
-*[Pictocolumbella ocellata](ocellata.md)*
+*[Pictocolumbella ocellata](ocellata)*
 (Lightning dove snail)
 *Pseudanachis basedowi
 

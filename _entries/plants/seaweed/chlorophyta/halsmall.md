@@ -57,7 +57,7 @@ links_references: |
   **Links**
   - [Calcified seaweed (
   *Halimeda*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/102.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/102)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -110,7 +110,7 @@ In
 *Halimeda opuntia*
 , the joined-up segments are not held up on stalks. The segments tend to develop holdfasts where they contact with a hard surface so that the growth habit tends to be more horizontal than vertical.
 
-[Big coin green seaweeds](halbig.md)
+[Big coin green seaweeds](halbig)
 have larger 'coins' that tend to be thinner and unwrinkled.
 
 **Human uses:**

@@ -73,23 +73,23 @@ links_references: |
   **Links**
   - [Yelloweye Puffer (
   *Arothron immaculatus*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/395.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/395)
   ,
   [Rough Golden Toadfish (
   *Lagocephalus lunaris*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/396.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/396)
   ,
   [Milk-spotted Puffer (
   *Chelonodon patoca*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/397.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/397)
   and
   [Spotted Green Puffer (
   *Tetraodon nigroviridis*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/398.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/398)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
-  - [Puffer or Globe fish](http://mangrove.nus.edu.sg/pub/seashore/text/253.md)
+  - [Puffer or Globe fish](http://mangrove.nus.edu.sg/pub/seashore/text/253)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -130,9 +130,9 @@ These rotund fishes are sometimes seen on some of our shores. They are found amo
 Pufferfishes belong to the Family Tetraodontidae. According to
 [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=448)
 : the family has 19 genera and 121 species. They are found in tropical and subtropical ares of the Atlantic, Indian and Pacific oceans. Other similar fishes belong to different families: boxfishes and cowfishes to
-[Family Ostraciidae](../ostraciidae/ostraciidae.md)
+[Family Ostraciidae](../ostraciidae/ostraciidae)
 , and porcupinefishes to
-[Family Diodontidae](../diodontidae/diodontidae.md)
+[Family Diodontidae](../diodontidae/diodontidae)
 .
 
 ## Features
@@ -185,19 +185,19 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
 
 **Family Tetraodontidae**
 
-[*Arothron caeruleopunctatus*](caeruleopunctatus.md)
+[*Arothron caeruleopunctatus*](caeruleopunctatus)
 (Blue-spotted pufferfish)
 *Arothron hispidus*
 (Stars-and-stripes pufferfish)
-*[Arothon immaculatus](immaculatus.md)*
+*[Arothon immaculatus](immaculatus)*
 (Yelloweye pufferfish)
-*[Arothon mappa](mappa.md)*
+*[Arothon mappa](mappa)*
 (Map pufferfish)
-*[Arothon reticularis](reticularis.md)*
+*[Arothon reticularis](reticularis)*
 (Reticulated pufferfish)
-*[Arothon stellatus](stellatus.md)*
+*[Arothon stellatus](stellatus)*
 (Starry pufferfish)
-*[Chelnodon patoca](patoca.md)*
+*[Chelnodon patoca](patoca)*
 (Milk-spotted pufferfish)
 *Spheoroides lunaris=**Lagocephalus lunaris*
 (Rough golden toadfish)
@@ -205,7 +205,7 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
 
 Tetraodon leiurus
 
-[Tetraodon nigroviridis](nigroviridis.md)*
+[Tetraodon nigroviridis](nigroviridis)*
 (Spotted green pufferfish)
 *Tetraodon palembangensis*
 

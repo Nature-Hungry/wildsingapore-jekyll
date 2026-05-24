@@ -62,7 +62,7 @@ galleries:
     caption: Terumbu Raya, Jul 11 Photo shared by Lok Kok Sheng on his blog .
 links_references: |
   **Links**
-  - [Pickhandle Barracuda](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/352.md)
+  - [Pickhandle Barracuda](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/352)
   (
   *Sphyraena jello*
   ) Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
@@ -81,7 +81,7 @@ links_references: |
   from
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet.
-  - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.md)
+  - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
 
   **References**
@@ -126,9 +126,9 @@ Barracudas belong to the Family Sphyraenidae. According to
 Enormous adults are found in deeper water. Those seen on the intertidal are juveniles usually 5-8cm long. Body short and cylindrical with regular pale bars on a greenish or olive background. Large eyes. Both jaws seem to be about the same length, the upper jaw only a little shorter than the lower jaw. It has a forked tail and the dorsal fins are far apart and well separated.
 
 **Sometimes mistaken for**
-[halfbeaks](../hemiramphidae/hemiramphidae.md)
+[halfbeaks](../hemiramphidae/hemiramphidae)
 . Halfbeaks have an upper jaw that is much shorter than the lower jaw. Here's more on
-[how to tell apart stick-like fishes](../cfstick.md)
+[how to tell apart stick-like fishes](../cfstick)
 commonly seen on our shores.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

@@ -74,13 +74,13 @@ links_references: |
   **Links**
   - [Glass Shrimp (
   *Palaemon*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/180.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/180)
   Tan, Leo W. H. & Ng, Peter K. L., 1988,
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
   - [Estuarine prawn (
   *Macrobrachium equidens*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2037.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2037)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.

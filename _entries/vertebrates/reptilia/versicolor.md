@@ -35,7 +35,7 @@ galleries:
       caption: "Sungei Buloh Wetland Reserve, Jan 02"
 links_references: |
   **Links**
-  - [Changeable lizard](http://www.ecologyasia.com/verts/lizards/changeable_lizard.md)
+  - [Changeable lizard](http://www.ecologyasia.com/verts/lizards/changeable_lizard)
   on Nick Baker's EcologyAsia website: fact sheet with photos.
   
   **References**
@@ -52,7 +52,7 @@ links_references: |
 
 ## Where seen?
 This large sometimes brightly coloured lizard is commonly seen in our wild places including near mangroves and coastal vegetation. It is active during the day and is arboreal, found in bushes and trees. It is believed to have been introduced to Singapore possibly in the 1980's and has since spread almost everywhere, including in parks and urban areas. It is native to continental Asia up to the northern Peninsular Malaysia. In Singapore, it has displaced the
-[Green crested lizard](cristatella.md)
+[Green crested lizard](cristatella)
 (
 *Bronchodela cristatella*
 ) a native lizard which used to be commonly seen.

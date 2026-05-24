@@ -108,7 +108,7 @@ galleries:
     caption: Pulau Tekukor, Nov 20 Photo shares by Loh Kok Sheng on facebook .
 links_references: |
   **Links**
-  - [Octopus](http://mangrove.nus.edu.sg/pub/seashore/text/168.md)
+  - [Octopus](http://mangrove.nus.edu.sg/pub/seashore/text/168)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -185,11 +185,11 @@ Most people are surprised to hear that octopuses are quite commonly encountered 
 
 **What are octopuses?**
 Octopuses are
-[molluscs](../mollusca.md)
+[molluscs](../mollusca)
 (Phylum Mollusca) like snails, slugs and clams; and
-[cephalopods](../cephalopoda.md)
+[cephalopods](../cephalopoda)
 (Class Cephalopoda) which include
-[squids and cuttlefish](squid.md)
+[squids and cuttlefish](squid)
 . The correct plural term for octopus is octopuses and not octopi (
 [more here](http://grammarist.com/usage/octopi-octopuses/)
 ).
@@ -225,7 +225,7 @@ When spotted, some octopuses make sudden drastic colour changes to confuse the p
 
 {% include img-wrap-group.html items=page.galleries.gallery5 %}**Octopus babies:**
 Octopuses have separate genders. To mate, the male uses a special arm called a hectocotylus to insert a sperm packet into the female's body. While doing so, he usually keeps as far away from the female as possible, and he is usually pale, a sign of stress. The female uses the sperm to fertilise her eggs as she lays them. In most octopus species, the eggs are laid in capsules attached to hard surfaces. Here are some photos of
-[cephalopod egg capsules](cepeggs.md)
+[cephalopod egg capsules](cepeggs)
 .
 
 {% include img-wrap-group.html items=page.galleries.gallery6 %}
@@ -275,10 +275,10 @@ Common names from
 **Octopuses seen awaiting identification**
 *Octopuses are almost impossible to positively identify without dissection and examination of internal parts. On this website, they are grouped by external features for convenience of display.*
 
-[Big-head seagrass octopus](bigseagrass.md)
+[Big-head seagrass octopus](bigseagrass)
 
-[Reef octopus](reefoctopus.md)
-[Slender seagrass octopus](slenderseagrass.md)
+[Reef octopus](reefoctopus)
+[Slender seagrass octopus](slenderseagrass)
 
 **Family Octopodidae**
 

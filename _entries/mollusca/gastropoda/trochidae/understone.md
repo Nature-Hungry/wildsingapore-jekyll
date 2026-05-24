@@ -104,7 +104,7 @@ location:
 ## Where seen?
 This tiny snail is often seen in small groups under stones on some of our shores.
 They were previously placed in
-[Family Trochidae](trochidae.md)
+[Family Trochidae](trochidae)
 .
 
 ## Features
@@ -167,8 +167,8 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red D
 
 **^Family Chilodontidae**
 
-*[Euchelus](understone.md)*
-[sp.](understone.md)
+*[Euchelus](understone)*
+[sp.](understone)
 **
 (Tiny under-a-stone top shell snail)
 *Euchelus asper

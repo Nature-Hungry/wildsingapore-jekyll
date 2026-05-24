@@ -220,32 +220,32 @@ on the
 
 Hexagonal corals
 
-[Columnar hexa coral](hexa/hexacolumn.md)
+[Columnar hexa coral](hexa/hexacolumn)
 
-[Honeycomb hexa coral](hexa/hexahoneycomb.md)
+[Honeycomb hexa coral](hexa/hexahoneycomb)
 
-[Maze hexa corals](hexa/mazehexa.md)
+[Maze hexa corals](hexa/mazehexa)
 
-[Small hexa coral](hexa/hexasmall.md)
+[Small hexa coral](hexa/hexasmall)
 
-[Smooth hexa coral](hexa/hexasmooth.md)
+[Smooth hexa coral](hexa/hexasmooth)
 
-[Tiny hexa coral](hexa/hexatiny.md)
+[Tiny hexa coral](hexa/hexatiny)
 
-[Toothed hexa coral](hexa/hexatoothed.md)
+[Toothed hexa coral](hexa/hexatoothed)
 
 Maze corals
 
-[Jigsaw maze coral](maze/mazejigsaw.md)
+[Jigsaw maze coral](maze/mazejigsaw)
 
-[Other maze corals](maze/mazeothers.md)
+[Other maze corals](maze/mazeothers)
 
 Ring corals
-[Big ring coral](ring/ringbig.md)
+[Big ring coral](ring/ringbig)
 
-[Purple-and-white ring coral](ring/ringpurplewhite.md)
+[Purple-and-white ring coral](ring/ringpurplewhite)
 
-[Small ring coral](ring/ringsmall.md)
+[Small ring coral](ring/ringsmall)
 
 **
 
@@ -254,22 +254,22 @@ Ring corals
 *Barabattoia amicorum**=Dipsastraea*
 *amicorum**
 
-*[**Caulastrea**](caulastraea.md)*
-**[sp.](../merulinidae/caulastraea.md)
+*[**Caulastrea**](caulastraea)*
+**[sp.](../merulinidae/caulastraea)
 (Trumpet corals)**
 with list of species recorded for Singapore.
-*[****](hydnophora.md)
+*[****](hydnophora)
 
-[**Cyphastrea**](cyphastrea.md)*
-**[sp.](cyphastrea.md)
+[**Cyphastrea**](cyphastrea)*
+**[sp.](cyphastrea)
 (Tiny ring favid corals)**
 with list of species recorded for Singapore.
-*[****](hydnophora.md)*
-[***Echinopora***](echinopora.md)
-**[sp.](../merulinidae/echinopora.md)
+*[****](hydnophora)*
+[***Echinopora***](echinopora)
+**[sp.](../merulinidae/echinopora)
 (Hedgehog corals)**
 with list of species recorded for Singapore.
-*[****](hydnophora.md)
+*[****](hydnophora)
 **Favia***
 **sp.
 *=Dipsastraea*
@@ -320,7 +320,7 @@ Favia rotundata*
 Favia veroni*
 (Near Threatened)
 *=Dipsastraea veroni*
-[****](hydnophora.md)
+[****](hydnophora)
 **Favites***
 **sp.**
 
@@ -365,14 +365,14 @@ Group 3: Predominantly brain-like pattern of corallites (meandroid)
 Goniastrea favulus***
 (Near Threatened)
 *Goniastrea pectinata***
-*[**Hydnophora**](hydnophora.md)*
-**[sp.](hydnophora.md)
+*[**Hydnophora**](hydnophora)*
+**[sp.](hydnophora)
 **
 (Horn corals)**
 with list of species recorded for Singapore
 
-*[Merulina](merulina.md)*
-[sp.](merulina.md)
+*[Merulina](merulina)*
+[sp.](merulina)
 (Ridged plate corals)
 *Merulina ampliata**
 
@@ -413,8 +413,8 @@ Scapophyllia cylindrica
 (Near Threatened)
 *Oulaphyllia crispa***
 (Near Threatened)
-*[**Pectinia**](pectinia.md)*
-**[sp.](pectinia.md)**
+*[**Pectinia**](pectinia)*
+**[sp.](pectinia)**
 **
 (Carnation coral) with list of species recorded for Singapore
 ***Platygyra***
@@ -437,6 +437,6 @@ Platygyra sinensis**
 Platygyra lamellina*
 (Near Threatened)
 
-*[Trachyphyllia geoffroyi](geoffroyi.md)*
+*[Trachyphyllia geoffroyi](geoffroyi)*
 
 ---

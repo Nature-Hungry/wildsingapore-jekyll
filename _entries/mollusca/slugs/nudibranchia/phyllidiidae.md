@@ -80,7 +80,7 @@ species), and shape of the oral tentacles.
 
 **What do they eat?**
 Phyllids eat
-[sponges](../../../porifera/porifera.md)
+[sponges](../../../porifera/porifera)
 . They lack a radula and don't rasp the sponge. Instead, digestive juices are secreted into the sponge and the partially digested sponge is sucked up. Sort of like a sponge slurpee. Some species may insert a large feeding organ called the pharyngeal bulb deep into the sponge to eat it.
 
 Members of the Family Phyllidiidae absorb the toxic chemicals in their sponge food and incorporate these chemicals in their own defence. They produce a milky white substance. This is lethal to other nudibranchs especially if they are kept in the same tank.

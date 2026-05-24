@@ -167,7 +167,7 @@ links_references: |
   **Links**
   - [Hairy Crab (
   *Pilumnus vespertilio*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/211.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/211)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -236,7 +236,7 @@ The Common hairy crab (
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **What does it eat?**
 The Common hairy crab eats mainly seaweed. It may also eat toxic
-[zoanthids](../../../cnidaria/others/zoanthid/zoanthid.md)
+[zoanthids](../../../cnidaria/others/zoanthid/zoanthid)
 (colonial anemones) and this makes the crab mildly poisonous. Various hairy crabs on our shores have been observed nibbling on hard seaweeds, sponges and even appearing to snack on bristleworms, carrying a clam into a burrow. Also possibly having a taste of a nudibranch and dragging a seahare into its burrow leaving a trail of purple dye from the panicking seahare.
 
 **Status and threats:**

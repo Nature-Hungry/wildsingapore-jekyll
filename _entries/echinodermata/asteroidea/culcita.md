@@ -255,7 +255,7 @@ It appears that if they are overturned, they can right themselves by inflating t
 Young cushion stars are
 **sometimes mistaken for**
 other large sea stars. Here's more on
-[how to tell apart large sea stars](cfbigstars.md)
+[how to tell apart large sea stars](cfbigstars)
 seen on our shores.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

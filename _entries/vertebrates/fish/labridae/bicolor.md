@@ -117,7 +117,7 @@ links_references: |
   **Links**
   - [Brown-stripe Wrasse (
   *Halichoeres bicolor*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/350.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/350)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)
   .*

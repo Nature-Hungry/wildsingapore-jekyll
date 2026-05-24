@@ -43,19 +43,19 @@ galleries:
       caption: ""
 links_references: |
   **Links**
-  - [Algae](http://mangrove.nus.edu.sg/pub/seashore/flora.md)
+  - [Algae](http://mangrove.nus.edu.sg/pub/seashore/flora)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
-  - [Algae](http://mangrove.nus.edu.sg/guidebooks/text/1032.md)
+  - [Algae](http://mangrove.nus.edu.sg/guidebooks/text/1032)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore I (Plant Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
-  [http://mangrove.nus.edu.sg/guidebooks/text/1032.htm](http://mangrove.nus.edu.sg/guidebooks/text/1032.md)
+  [http://mangrove.nus.edu.sg/guidebooks/text/1032.htm](http://mangrove.nus.edu.sg/guidebooks/text/1032)
   - [AlgaeBase](http://www.algaebase.org/)
   : LOTS of very technical information.
   - [*Porhyra*
-  mariculture](http://www.mbari.org/staff/conn/botany/reds/lisa/mcult.md)
+  mariculture](http://www.mbari.org/staff/conn/botany/reds/lisa/mcult)
   : The mariculture, or farming, of
   *Porphyra*
   has become a major industry in the Asian countries, especially China and Japan. Have you ever wondered how they do it?
@@ -106,22 +106,22 @@ Red seaweeds may not always be red. If the pigment phycoerythrin is destroyed, t
 Red seaweed are among our favourite seafood. The familiar dried seaweed used in Japanese sushi is a red seaweed
 *Porphyra*
 sp. which has been cultivated in Japan for more than 300 years. It is also eaten fresh. Other red seaweeds are also eaten. In the Philippines, some species of red seaweeds are eaten as salads. These include
-*[Gracilaria](gracilaria.md)
+*[Gracilaria](gracilaria)
 , Hypnea,
-[Acanthophora](acanthophora.md)*
+[Acanthophora](acanthophora)*
 and
-*[Halymenia](halymenia.md)*
+*[Halymenia](halymenia)*
 .
 
 Agar is an important extract of red seaweed, mainly from
 *Gelidium,
-[Gracilaria](gracilaria.md)*
+[Gracilaria](gracilaria)*
 and
 *Pterocladia*
 . It is used in laboratories and pharmaceutical industries to study bacteria and to separate and purify various products.
 
 Carrageenans are also extract from red seaweeds, especially
-*[Eucheuma](prickly.md)*
+*[Eucheuma](prickly)*
 which is cultivated in the Philippines and tropical Pacific areas. The Philippines is the leading producer of carrageenans which are used throughout the world as an emulsifier and stabiliser in food and pharmaceutical products. Agar, on the other hand is used as a solidifying agent.
 
 ![](http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/050210kusd0090m3.jpg)
@@ -133,9 +133,9 @@ which is cultivated in the Philippines and tropical Pacific areas. The Philippin
 
 **Division Rhodophyta on Singapore shores**
 
-[text index](../seaweedindex.md)
+[text index](../seaweedindex)
 and
-[photo index](../seaweedfi.md)
+[photo index](../seaweedfi)
 of red seaweeds on this site
 
 ---

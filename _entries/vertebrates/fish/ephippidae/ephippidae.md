@@ -86,7 +86,7 @@ links_references: |
   **Links**
   - [Round-faced Batfish (
   *Platax teira*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/328.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/328)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
@@ -103,7 +103,7 @@ links_references: |
   from
   [FishBase](http://www.fishbase.org/)
   .
-  - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.md)
+  - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
 
   **References**
@@ -145,12 +145,12 @@ The body is flattened sideways. The mouth is small. Adults are silvery and rathe
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Make like a leaf:**
 Sometimes, may lie on the side, floating in the water to mimic leaves or flat against the surface mimicking toxic flatworms. In some species, the juveniles are found with
-[feather stars](../../../echinodermata/crinoidea/crinoidea.md)
+[feather stars](../../../echinodermata/crinoidea/crinoidea)
 .
 
 **May be confused with**
 the
-[Silver moony](../monodactylidae/argenteus.md)
+[Silver moony](../monodactylidae/argenteus)
 (Family Monodactylidae).
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**What do they eat?**
@@ -196,7 +196,7 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
 
 **Family Ephippidae**
 (previously listed under
-[Family Chaetodontidae](../chaetodontidae/chaetodontidae.md)
+[Family Chaetodontidae](../chaetodontidae/chaetodontidae)
 )
 
 *Platax batavianus*

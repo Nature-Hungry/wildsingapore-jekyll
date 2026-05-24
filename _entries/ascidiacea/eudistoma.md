@@ -77,7 +77,7 @@ These clusters of yellow blobs are commonly seen on many of our Northern shores,
 
 Each blob about 1cm across, somewhat columnar with a rounded top. Clusters of blobs form on boulders and larger rocks, usually near the base and under overhangs. Also on jetty pilings.
 
-[Blue-dot margined flatworms](../worm/polycladida/indicus.md)
+[Blue-dot margined flatworms](../worm/polycladida/indicus)
 have been seen near them, appearing to envelope a similarly shaped object. Do these worms eat the ascidian?
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

@@ -44,11 +44,11 @@ links_references: |
   **Links**
   - [Mangrove periwinkle (
   *Littoraria*
-  sp.)](http://mangrove.nus.edu.sg/guidebooks/text/2080.md)
+  sp.)](http://mangrove.nus.edu.sg/guidebooks/text/2080)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
-  - [Periwinkle Shells (Family Littorinidae)](http://mangrove.nus.edu.sg/pub/seashore/text/137.md)
+  - [Periwinkle Shells (Family Littorinidae)](http://mangrove.nus.edu.sg/pub/seashore/text/137)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *A Guide to Seashore Life*
   . The Singapore Science Centre, Singapore. 160 pp.

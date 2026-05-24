@@ -133,17 +133,17 @@ The tentacles are long, thick and cylindrical (they look like thick 'udon' noodl
 
 **Sometimes mistaken for**
 a sea anemone when its long tentacles obscure the hard skeleton. The hard skeleton immediately identifies it as a hard coral. Here's more on how to tell apart
-[large 'hairy' cnidarians](../../cflargecnidarians.md)
+[large 'hairy' cnidarians](../../cflargecnidarians)
 .
 
 The
-[Torch coral](../euphylliidae/glabrescens.md)
+[Torch coral](../euphylliidae/glabrescens)
 (
 *Euphyllia glabrescens*
 ) has tentacles that look similar to the sunflower mushroom coral. But the torch coral and its tentacles are smaller.
 
 When the tentacles are retracted, it resembles
-[Fungia mushroom corals](fungia.md)
+[Fungia mushroom corals](fungia)
 but Sunflower mushroom coral can be distinguished by the large, rounded teeth on the skeleton walls.
 
 **Status and threats:**

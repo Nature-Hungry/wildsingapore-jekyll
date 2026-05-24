@@ -129,9 +129,9 @@ This long fat synaptid sea cucumber with bobbles is sometimes seen on many of ou
 20-30cm to 50 cm long. Body cylindrical, thin skinned. Four rows of large almost spherical bumps ('bobbles') along the body. Bobbles usually mottled, often separated by four distinct plain lines. Feeding tentacles large flat and feathery. Each sea cucumber usually seen alone and not in groups. In various colours and patterns: dark maroon, pink, mottled brown, white. They may be different species.
 
 **Sometimes mistaken for**
-[worms](../../worm/worm.md)
+[worms](../../worm/worm)
 . Here's more on
-[how to tell apart worm-like animals](../../glossary/wormy.md)
+[how to tell apart worm-like animals](../../glossary/wormy)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

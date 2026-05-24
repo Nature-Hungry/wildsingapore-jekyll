@@ -112,7 +112,7 @@ location:
 
 ## Where seen?
 This large sand dollars with slots is sometimes seen sandy areas near seagrasses on Chek Jawa and Changi. It is not found in large groups like the
-[Cake sand dollar](arachnoides.md)
+[Cake sand dollar](arachnoides)
 , usually alone. It was previously known as
 *Echinodiscus bisperforatus*
 .

@@ -107,7 +107,7 @@ means 'rough' in Latin.
 Diameter with tentacles extended 20cm or more. The oral disk 5-8cm in diameter. Tentacles not many. About 48 long tentacles (10cm) translucent, on the upper side covered in scattered small brown spots. Oral disk with thick brown splotches radiating outwards, mouth edge white. The upper body column has rows of bumps (verrucae) that are sticky - bits of sand and stuff often stuck on them.
 
 Sometimes confused with the
-[Glass anemone](dofleinia.md)
+[Glass anemone](dofleinia)
 which has more transparent tentacles that lack the small brown spots and has black rings where the tentacles attach to the oral disk, the oral disk does not have dark brown blotches, and does not have many rows of sticky bumps on the body column.
 
 **Status and threats:**

@@ -115,7 +115,7 @@ This bold black-and-white flatworm is sometimes seen encountered on coral rubble
 
 **Sometimes mistaken for**
 the
-[Brown-stripe flatworm](brownstripe.md)
+[Brown-stripe flatworm](brownstripe)
 which has a paler brown body and does not have inner bright white margins.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

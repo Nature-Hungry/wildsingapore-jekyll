@@ -76,7 +76,7 @@ species often produce a strong medicinal smell.
 species don't produce their own spicules. Instead, foreign spicules and sand grains are incoporated into the skeleton thus making species identification difficult.
 
 Sometimes, these sponges are draped with
-[synaptid sea cucumbers](../echinodermata/holothuroidea/synsponge.md)
+[synaptid sea cucumbers](../echinodermata/holothuroidea/synsponge)
 and brittle stars are sometimes glimpsed deep in the crevices of the sponge.
 
 ![](http://www.wildsingapore.com/wildfacts/porifera/ballspiky/120508skdd1884m3.jpg)

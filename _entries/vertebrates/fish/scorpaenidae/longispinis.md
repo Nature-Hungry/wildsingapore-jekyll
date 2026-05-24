@@ -100,7 +100,7 @@ links_references: |
   **Links**
   - [Long-spine scorpionfish (
   *Paracentropogon longispinis*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/255.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/255)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)
   .*
@@ -146,7 +146,7 @@ location:
 
 ## Where seen?
 This little waspfish is commonly seen on many of our shores, among coral rubble or seagrasses. But it is small and well camouflaged and thus often overlooked. Now in Family Tetrarogidae (waspfishes), it used to be placed in
-[Family Scorpaenidae](scorpaenidae.md)
+[Family Scorpaenidae](scorpaenidae)
 (scorpionfishes).
 
 ## Features
@@ -155,13 +155,13 @@ This little waspfish is commonly seen on many of our shores, among coral rubble 
 
 **Sometimes mistaken for**
 a
-[stonefish](../synanceiidae/horrida.md)
+[stonefish](../synanceiidae/horrida)
 (Family Synanceiidae) or the
-[False scorpionfish](../centrogenyidae/vaigiensis.md)
+[False scorpionfish](../centrogenyidae/vaigiensis)
 (
 *Centrogenys vaigiensis*
 ), a grouper, which looks very similar. Here's more on
-[how to tell apart fishes that look like stones](../cfstonefish.md)
+[how to tell apart fishes that look like stones](../cfstonefish)
 .
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 {% include img-wrap-group.html items=page.galleries.gallery3 %}

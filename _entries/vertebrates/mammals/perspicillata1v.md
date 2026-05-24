@@ -53,4 +53,4 @@ on
 .
 
 back to
-[general info on smooth-coated otters](perspicillata.md)
+[general info on smooth-coated otters](perspicillata)

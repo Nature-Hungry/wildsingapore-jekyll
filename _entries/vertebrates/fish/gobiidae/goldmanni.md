@@ -105,7 +105,7 @@ To about 5cm. Body long slender, pale sandy-white with many small black spots on
 
 **Sometimes mistaken for**
 the
-[Ornate lagoon-goby](ornatus.md)
+[Ornate lagoon-goby](ornatus)
 which has 'dashed' lines on the sides of the body instead of pairs of spots.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Species are difficult to positively identify without close examination.

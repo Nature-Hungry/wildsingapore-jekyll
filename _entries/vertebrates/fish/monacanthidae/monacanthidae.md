@@ -91,11 +91,11 @@ links_references: |
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
   - [*Monocanthus*
-  sp.](http://mangrove.nus.edu.sg/pub/seashore/text/237.md)
+  sp.](http://mangrove.nus.edu.sg/pub/seashore/text/237)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
-  - [Monacanthidae](http://www.ecologyasia.com/verts/fishes/filefishes.md)
+  - [Monacanthidae](http://www.ecologyasia.com/verts/fishes/filefishes)
   from Ecology Asia.
   - [Family Monacanthidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=517)
   (Filefishes) and
@@ -121,7 +121,7 @@ links_references: |
   from
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet on the family, including fact sheets on individual species.
-  - [Volume 6: Bony fishes part 4 (Labridae to Latimeriidae), estuarine crocodiles, sea turtles, sea snakes and marine mammals](http://www.fao.org/docrep/009/y0870e/y0870e00.md)
+  - [Volume 6: Bony fishes part 4 (Labridae to Latimeriidae), estuarine crocodiles, sea turtles, sea snakes and marine mammals](http://www.fao.org/docrep/009/y0870e/y0870e00)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
 
   **References**
@@ -240,12 +240,12 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
 (Scrawled filefish)
 
 +
-*[Anacanthus barbatus](anacanthus.md)*
+*[Anacanthus barbatus](anacanthus)*
 (Bearded filefish)
 *Chaetodoerma penicilligera=**
-[Chaetodermis penicilligerus](penicilligerus.md)*
+[Chaetodermis penicilligerus](penicilligerus)*
 (Feathery filefish)
-*[Monacanthus chinensis](chinensis.md)*
+*[Monacanthus chinensis](chinensis)*
 (Fan-bellied filefish)
 *Monacanthus choirocephalus=**Paramonacanthus*
 *choirocephalus*
@@ -253,13 +253,13 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
 *Monacanthus cryptodon=**Paramonacanthus cryptodon
 
 Monacanthus macrurus=**
-[Pseudomonacanthus macrurus](macrurus.md)*
+[Pseudomonacanthus macrurus](macrurus)*
 (Strapweed filefish)
 *Monacanthus nemurus=**Paramonacanthus choirocephalus*
 (Pig-faced leather jacket)
 *Monacanthus sulcatus=**Paramonacanthus sulcatus*
 *Monacanthus tomentosus=*
-[Acreichthys tomentosus](tomentosus.md)*
+[Acreichthys tomentosus](tomentosus)*
 (Seagrass filefish)
 
 ---

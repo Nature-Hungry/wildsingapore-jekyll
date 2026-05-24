@@ -53,13 +53,13 @@ links_references: |
   **Links**
   - [Marbled Grouper (
   *Epinephalus tauvina*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/243.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/243)
   Tan, Leo W. H. & Ng, Peter K. L., 1988,
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
   - [Orange-spotted Grouper (
   *Epinephelus coioides*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2103.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2103)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
@@ -142,7 +142,7 @@ Members of the Family Serranidae can change their gender! Most are female when t
 Groupers are edible and a highly valued seafood dish for many Singaporeans. However, we may be eating the groupers to extinction.
 
 Groupers are vulnerable to overfishing because they are not numerous to begin with. At the same time, they have high commercial value and are relatively easy to catch. Many are territorial and stay within a particular home range, and most are not shy of divers. In the Hong Kong area, populations of the larger groupers are dwindling and smaller groupers such as the
-[Chocolate hind](boenak.md)
+[Chocolate hind](boenak)
 (
 *Cephalopholis boenak*
 ) are now being targetted.
@@ -150,7 +150,7 @@ Groupers are vulnerable to overfishing because they are not numerous to begin wi
 Being top predators, they are naturally uncommon. They reach maturity and maximum size relatively slowly. Thus overfishing of young fish before they are able to reproduce can have a serious effect. Males are larger and rarer, thus more vulnerable to overfishing. This can result in an imbalance in the gender ratio which can affect reproduction. Overfishing at the spawning sites where large numbers of the usually solitary groupers gather can also devastate the local population of these fishes.
 
 In Southeast Asia, groupers are widely farmed in floating cages or in ponds and tanks. In Singapore, some like the
-[Orange-spotted grouper](coioides.md)
+[Orange-spotted grouper](coioides)
 (
 *Epinephalus coioides*
 ) and Malabar grouper (
@@ -197,9 +197,9 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
 *Anyperodon leucogrammicus*
 *Cephalopholis argus
 
-[Cephalopholis boenak](boenak.md)*
+[Cephalopholis boenak](boenak)*
 (Chocolate hind)
-*[Cephalopholis formosa](formosa.md)*
+*[Cephalopholis formosa](formosa)*
 (Blue-lined hind)
 *Cromileptes altivelis*
 (Humpback grouper)
@@ -221,7 +221,7 @@ Epinephelus boenack=**Cephalopholis boenak
 
 Epinephelus caeruleo-punctatus
 
-[Epinephelus coioides](coioides.md)*
+[Epinephelus coioides](coioides)*
 (Orange-spotted grouper)
 *Epinephelus corallicola
 
@@ -243,7 +243,7 @@ Epinephelus nebulosus=**Epinephelus coioides
 
 Epinephelus pachycentrum=**Cephalopholis boenak
 
-[Epinephelus quoyanus](quoyanus.md)*
+[Epinephelus quoyanus](quoyanus)*
 (Honeycomb/Longfin grouper)
 *Epinephelus sexfasciatus
 
@@ -253,7 +253,7 @@ Epinephelus urodelus=**Cephalopholis urodeta*
 
 ****now in Family Centrogenyidae (False scorpionfishes)**
 
-*[Centrogenys vaigiensis](../centrogenyidae/vaigiensis.md)*
+*[Centrogenys vaigiensis](../centrogenyidae/vaigiensis)*
 (False scorpionfish)
 
 ---

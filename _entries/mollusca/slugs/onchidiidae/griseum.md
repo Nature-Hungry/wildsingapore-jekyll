@@ -40,7 +40,7 @@ galleries:
     caption: ''
 links_references: |
   **Links**
-  - [Mangrove slugs Family Onchidiidae](http://mangrove.nus.edu.sg/guidebooks/text/2089.md)
+  - [Mangrove slugs Family Onchidiidae](http://mangrove.nus.edu.sg/guidebooks/text/2089)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.

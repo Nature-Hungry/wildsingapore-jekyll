@@ -111,16 +111,16 @@ This hard coral with long-bodied polyps is commonly seen on many of our reefs, i
 Colonies clusters of short, fat columns with rounded tops, each about 10-15cm in diameter. The polyps may be large (0.5-1cm in diameter). The polyps have 24 tentacles and are usually extended when submerged, even in daylight. Some may have long skinny tentacles, others have short and fat ones. The body column can be very long (2-5cm). The polyps can retract completely into the skeleton, revealing the small corallites (0.5cm) circular or polygonal holes packed close to one another. Colours seen include shades of purple, pink, brown and blue.
 
 **May be mistaken for**
-[sea anemones](../../actiniaria/actiniaria.md)
+[sea anemones](../../actiniaria/actiniaria)
 when the long polyps are extended and hide the hard skeleton, thus its common name. Another common name is Flower pot coral as the colony looks like a bunch of long-stemmed flowers emerging from a pot.
 Here's more on how to tell apart
-[large sea anemones with long tentacles](../../actiniaria/cfbiglong.md)
+[large sea anemones with long tentacles](../../actiniaria/cfbiglong)
 and
-[large 'hairy' cnidarians](../../cflargecnidarians.md)
+[large 'hairy' cnidarians](../../cflargecnidarians)
 .
 
 Sometimes, tiny brown
-[acoel flatworms](../../../worm/acoela/acoela.md)
+[acoel flatworms](../../../worm/acoela/acoela)
 are seen on the oral disk or body columns of the polyps.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

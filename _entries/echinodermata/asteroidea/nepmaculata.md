@@ -63,7 +63,7 @@ Its underside is plain. On the underside, in grooves along the arms, are long tu
 
 **May be mistaken for**
 the
-[Red scaly sea star](nepred.md)
+[Red scaly sea star](nepred)
 . The Red scaly sea star is smaller with reddish markings on the underside, and is more commonly encountered.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

@@ -167,7 +167,7 @@ on the
 [IUCN global list](../faviidae/ring/www.iucnredlist.org)
 .
 
-**[Family Merulinidae](merulinidae.md)
+**[Family Merulinidae](merulinidae)
 
 Genus
 *Cyphastrea***

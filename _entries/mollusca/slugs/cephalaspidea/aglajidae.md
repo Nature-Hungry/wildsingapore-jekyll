@@ -65,11 +65,11 @@ Long, cylindrical body with a pair of 'wings' (called parapodia) which fold over
 
 **What do they eat?**
 Some tailed slugs are carnivores and eat their prey whole, crushing them with hard calcareous plates in the gizzard. Their prey include other slugs,
-[flatworms](../../../worm/polycladida/polycladida.md)
+[flatworms](../../../worm/polycladida/polycladida)
 ,
-[acoel flatworms](../../../worm/acoela/acoela.md)
+[acoel flatworms](../../../worm/acoela/acoela)
 and
-[polychaete worms](../../../worm/polychaeta/polychaeta.md)
+[polychaete worms](../../../worm/polychaeta/polychaeta)
 . Some have well developed structures to track down their prey by following the prey's mucous trail. Others are herbivores.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
@@ -107,7 +107,7 @@ Chelidonura pallida*
 (Pale tailed-slug)
 
 [*Chelidonura*
-sp.](black.md)
+sp.](black)
 (Black tailed-slug)
 
 +
@@ -118,18 +118,18 @@ sp.
 
 +Odontoglaja guamensis*
 
-*[Philinopsis](pilsbryi.md)*
+*[Philinopsis](pilsbryi)*
 [cf.
-*pilsbryi*](pilsbryi.md)
+*pilsbryi*](pilsbryi)
 (Batik tailed-slug)
-*[Philinopsis reticulata](reticulata.md)*
+*[Philinopsis reticulata](reticulata)*
 (Reticulated tailed-slug)
 
 +
 *Philinopsis speciosa
 
 +
-[Tubulophilinopsis lineolata](lineolata.md)
+[Tubulophilinopsis lineolata](lineolata)
 =Philinopsis lineolata*
 (Lined tailed-slug)
 

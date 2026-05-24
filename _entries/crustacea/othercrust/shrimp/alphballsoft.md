@@ -63,7 +63,7 @@ location:
 
 ## Where seen?
 This small white snapping shrimp is often found in
-[Ball flowery soft corals](../../../cnidaria/coralsoft/nepball.md)
+[Ball flowery soft corals](../../../cnidaria/coralsoft/nepball)
 (Family Nephtheidae). Often found in pairs.
 
 ## Features
@@ -71,7 +71,7 @@ This small white snapping shrimp is often found in
 Body 1-2cm long. Usually translucent white.
 
 Other tiny snapping shrimps are sometimes found
-[under stones and living inside sponges](alphcommensal.md)
+[under stones and living inside sponges](alphcommensal)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

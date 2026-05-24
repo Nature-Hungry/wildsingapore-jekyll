@@ -103,17 +103,17 @@ Soft corals are commonly seen on many of our shores. Some resemble flowery bushe
 
 **What are soft corals?**
 Soft corals belong to
-[Phylum Cnidaria](../cnidaria.md)
+[Phylum Cnidaria](../cnidaria)
 which includes the more familiar sea anemones, hard corals and jellyfishes. Soft corals are members of the Subclass Alcyonaria/ Octocorallia that includes
-[gorgonians](../others/gorgonacea/gorgonacea.md)
+[gorgonians](../others/gorgonacea/gorgonacea)
 and
-[sea pens](../others/pennatulacea/pennatulacea.md)
+[sea pens](../others/pennatulacea/pennatulacea)
 .
 
 Within this Subclass, the Order Alcyonacea includes
-[flowery soft corals](nephtheidae.md)
+[flowery soft corals](nephtheidae)
 (Family Nephtheidae) as well as
-[leathery soft corals](alcyoniidae.md)
+[leathery soft corals](alcyoniidae)
 (Family Alcyoniidae).
 
 ## Features
@@ -121,13 +121,13 @@ Within this Subclass, the Order Alcyonacea includes
 Soft corals are colonies of tiny, individual polyps linked to one another. Soft corals can look like branching bushes or trees. They may also be flatter and look like mushrooms. When exposed at low tide, they often flop over and look like a pile of jelly or fried eggs! When submerged, however, they expand into beautiful plant-like forms and some appear 'furry' as the tiny polyps expand.
 
 Soft coral polyps have 8 (or multiple of 8) tentacles that are pinnate (branched or feathery). Some soft corals like
-[leathery soft corals](alcyoniidae.md)
+[leathery soft corals](alcyoniidae)
 have two kinds of polyps: Autozooids have long stalks with eight branched tentacles and emerge from the shared leathery tissue. Siphonozooids may be much shorter polyps or don't even emerge from the shared tissue and function as water pumps for the colony.
 
 **Sometimes mistaken for**
-[sea anemones](../actiniaria/actiniaria.md)
+[sea anemones](../actiniaria/actiniaria)
 . Some large sea anemones and large leathery and flowery soft corals may be mistaken for one another. Here's more on
-[how to tell apart large 'hairy' disk-like animals](../cflargecnidarians.md)
+[how to tell apart large 'hairy' disk-like animals](../cflargecnidarians)
 on the shore.
 
 **Soft support:**
@@ -175,18 +175,18 @@ from Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Thr
 
 **+Family Clavulariidae**
 
-*[Carijoa](knobbly.md)*
-[sp.](knobbly.md)
+*[Carijoa](knobbly)*
+[sp.](knobbly)
 (Knobbly soft coral)
 
 **ALCYONIINA GROUP**
 
-**[Family Alcyoniidae](alcyoniidae.md)
+**[Family Alcyoniidae](alcyoniidae)
 (leathery soft corals)**
 with list of species recorded for Singapore
 
 ***
-[Family Nephtheidae](nephtheidae.md)
+[Family Nephtheidae](nephtheidae)
 (flowery soft corals)**
 
 **Dendronephthya*
@@ -198,28 +198,28 @@ sp.
 
 **Family Xeniidae**
 
-*[Sansibia flava](feabroad.md)*
+*[Sansibia flava](feabroad)*
 (Broad feathery soft corals)
 
 +
-*[Heteroxenia](xenia.md)*
-[sp.](xenia.md)
+*[Heteroxenia](xenia)*
+[sp.](xenia)
 (Xenia soft coral)
 
 +
-[Brown feathery soft corals](feabrown.md)
+[Brown feathery soft corals](feabrown)
 
 **SCLERAXONIA GROUP**
 
 **Family Briareidae**
 
-[*Briareum excavatum*](feafine.md)
+[*Briareum excavatum*](feafine)
 =
 *Briareum stechei*
 ? (Fine feathery soft corals)
 
 Some
-[Gorgonians](../others/gorgonacea/gorgonacea.md)
+[Gorgonians](../others/gorgonacea/gorgonacea)
 are included in this group
 
 ---
@@ -227,7 +227,7 @@ are included in this group
 **Threatened soft corals of Singapore**
 
 see list of
-[threatened cnidarians](../cnidaria.md)
+[threatened cnidarians](../cnidaria)
 
 ---
 {% include img-wrap-group.html items=page.galleries.gallery8 %}

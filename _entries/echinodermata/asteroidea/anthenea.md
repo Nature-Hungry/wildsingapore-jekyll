@@ -157,15 +157,15 @@ Diameter with arms 10-20cm. Stiff body, the upperside usually slightly convex. A
 Cake sea stars come in a wide variety of patterns and colours, from black, brown, red, orange, yellow to even green.
 **Sometimes confused with**
 the
-[Biscuit sea star](goniodiscaster.md)
+[Biscuit sea star](goniodiscaster)
 (
 *Goniodiscaster scaber*
 ). and the
-[Spiny sea star](gymnanthenea.md)
+[Spiny sea star](gymnanthenea)
 (
 *Gymnanthenea laevis*
 ). Here's more on
-[how to tell apart large sea stars](cfbigstars.md)
+[how to tell apart large sea stars](cfbigstars)
 seen on our shores.
 
 **Status and threats:**

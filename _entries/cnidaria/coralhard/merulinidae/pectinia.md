@@ -199,7 +199,7 @@ on the
 .
 **
 
-**[Family Merulinidate](merulinidae.md)
+**[Family Merulinidate](merulinidae)
 
 Genus
 *Pectinia***

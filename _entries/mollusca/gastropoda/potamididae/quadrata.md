@@ -70,11 +70,11 @@ A more slender Chut-chut, it is often seen in our mangroves, on tree trunks and 
 **Sometimes confused with**
 the
 [Red chut-chut
-**](obtusa.md)
+**](obtusa)
 and
-[Belitong](sulcata.md)
+[Belitong](sulcata)
 . More on
-[how to tell these snails apart](cfpotamids.md)
+[how to tell these snails apart](cfpotamids)
 .
 
 **Human use:**

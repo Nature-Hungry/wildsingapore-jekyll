@@ -99,7 +99,7 @@ Colours seen include beige, green, blue, purple, pink. Sometimes several differe
 A study found that
 *Discosoma nummiforme*
 can also look like
-[Stubby corallimorphs](stubby.md)
+[Stubby corallimorphs](stubby)
 .
 
 **Status and threats:**

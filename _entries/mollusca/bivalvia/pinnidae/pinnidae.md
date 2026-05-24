@@ -128,7 +128,7 @@ links_references: |
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=16)
   on the NParks Flora and Fauna website.
   - The
-  [pea crab](http://mangrove.nus.edu.sg/pub/seashore/text/270.md)
+  [pea crab](http://mangrove.nus.edu.sg/pub/seashore/text/270)
   that lives in Fan shells. Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -136,7 +136,7 @@ links_references: |
   on
   [The Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html)
   at Washington State University Tri-Cities Natural History Museum website: brief description and photos.
-  - [Fan Mussel](http://www.marlin.ac.uk/species/Atrinafragilis.md)
+  - [Fan Mussel](http://www.marlin.ac.uk/species/Atrinafragilis)
   (
   *Atrina fragilis*
   ) on the Marine Life Information Network for Britain and Ireland website: fact sheet on this Pinnid and about other Pinnids of the area and their uses.
@@ -210,7 +210,7 @@ sp.) and small snapping shrimps are sometimes found living inside these clams. T
 {% include img-wrap-group.html items=page.galleries.gallery5 %}
 **Human uses:**
 Fan clams are edible and were once plentiful in Singapore and collected as food. Like other filter-feeding clams, however, fan clams may be affected by
-[red tide and other harmful algal blooms](../../../plants/seaweed/redtide.md)
+[red tide and other harmful algal blooms](../../../plants/seaweed/redtide)
 . Such clams can then be harmful to eat.
 
 It is said that in the past, people collected the long, golden byssus threads of the Noble pen shell (

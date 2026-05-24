@@ -59,7 +59,7 @@ links_references: |
   **Links**
   - [Bartail Flathead (
   *Platycephalus indicus*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/259.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/259)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
@@ -69,7 +69,7 @@ links_references: |
   from
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet.
-  - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.md)
+  - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific
 
   **References**
@@ -98,7 +98,7 @@ These rather large flatheads are sometimes seen on some of our shores on muddy a
 
 **Sometimes mistaken**
 for other flattened fishes that live on the sea bottom. Here's more on
-[how to tell apart fishes with flat heads](../cfflatheads.md)
+[how to tell apart fishes with flat heads](../cfflatheads)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

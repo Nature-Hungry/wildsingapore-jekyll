@@ -151,11 +151,11 @@ This cowrie with a pretty beige spotted shell is commonly seen on our Northern s
 
 **Sometimes mistaken for**
 a
-[sea slug](../../slug.md)
+[sea slug](../../slug)
 . When the shell is completely covered in its mantle, it is sometimes mistaken for a hairy sea slug. Here's
-[how to tell apart hairy slugs and snails](../../hairyslugsnail.md)
+[how to tell apart hairy slugs and snails](../../hairyslugsnail)
 more on
-[how to tell apart slugs and animals that look like slugs](../../../glossary/flatwormslug.md)
+[how to tell apart slugs and animals that look like slugs](../../../glossary/flatwormslug)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **In a pair:**

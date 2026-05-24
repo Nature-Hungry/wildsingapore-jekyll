@@ -160,14 +160,14 @@ species. It is hard to see the skeleton structure in a living cauliflower coral 
 The polyps are small (0.2-0.5cm) with a short body column and short blunt tentacles with white or blue tips. Tentacles are only extended at night. Cauliflower corals may produce short sweeper tentacles (2.5cm or less) that clear the surroundings of competiting corals and animals.
 
 Another unusual property of cauliflower corals is the inclusion of large amounts of chitin in the skeleton. Chitin is the substance that insect exoskeletons are made of. The only other group of hard corals with this property are the mushroom corals of the genus
-*[Fungia](../fungiidae/circular.md)*
+*[Fungia](../fungiidae/circular)*
 .
 
 Colony colours seen include yellow or brown with a bluish or greenish tinge. It is said that pink specimens produce hard skeleton more slowly, but these tend to outcompete and dominate brown ones. The pink colour comes from a pigment called pocilloporin whose function is still unknown. The pigment may have anti-predatory or immune system properties.
 
 **Cauliflower friends:**
 The branches of the colony provide shelter for small animals such as shrimps and crabs. While most just shelter among the corals, some of these eat the polyps. The
-[Red coral crab](../../../crustacea/crab/trapezioidea/redcoral.md)
+[Red coral crab](../../../crustacea/crab/trapezioidea/redcoral)
 (
 *Trapezia cymodoce*
 ) is found only in Cauliflower corals. It feeds on the mucus produced by the coral, and in return, protects the corals from predators.
@@ -224,7 +224,7 @@ on the
 [IUCN global list](www.iucnredlist.org/)
 .
 
-**[Family Pocilloporidae](pocilloporidae.md)
+**[Family Pocilloporidae](pocilloporidae)
 
 Genus
 *Pocillopora***

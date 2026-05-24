@@ -60,17 +60,17 @@ links_references: |
   **Links**
   - [Green Mussel (
   *Perna viridis*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/158.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/158)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
   - [Nest mussel (
   *Musculista senhausii*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2091.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2091)
   and
   [Black mussel (
   *Xenostrobus*
-  sp.)](http://mangrove.nus.edu.sg/guidebooks/text/2092.md)
+  sp.)](http://mangrove.nus.edu.sg/guidebooks/text/2092)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
@@ -79,7 +79,7 @@ links_references: |
   [The Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html)
   at Washington State University Tri-Cities Natural History Museum website: brief description and photos.
   - Family Mytilidae in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   **References**
@@ -112,11 +112,11 @@ Sea mussels belong to the Family Mytilidae.
 ## Features
 
 The two-part shell is generally tear-drop shaped (rounded at one end and pointed at the other). Although thin, the shell is quite strong. Instead of gluing down one valve to a rock like
-[oysters](../ostreidae/osteridae.md)
+[oysters](../ostreidae/osteridae)
 do, mussels attach themselves with byssus threads.
 
 Sea mussels are often found in colonies of a large number of individuals.
-[Nest mussels](musculista.md)
+[Nest mussels](musculista)
 are tiny mussels about 1cm long that live in colonies of thousands. They weave a nest out of byssus threads and mud. Date mussels (
 *Lithophaga*
 sp.) create a safe hiding place for themselves by drilling into dead coral and even concrete by rotating their shells and secreting an acid.
@@ -126,11 +126,11 @@ Like most other bivalves, sea mussels are filter feeders. At high tide, they ope
 
 **Human uses:**
 Sea mussels are among the favourite seafood of people everywhere. The
-[Green mussel](viridis.md)
+[Green mussel](viridis)
 (
 *Perna viridis*
 ) is farmed in many parts of Southeast Asia. In colder seas, they are among key food sources. Like other filter-feeding clams, however, sea mussels may be affected by
-[red tide and other harmful algal blooms](../../../plants/seaweed/redtide.md)
+[red tide and other harmful algal blooms](../../../plants/seaweed/redtide)
 when they are then harmful to eat.
 
 **Status and threats:**
@@ -174,8 +174,8 @@ Lithophaga obesa
 
 Lithophaga teres
 
-[Modiolus](modiolus.md)*
-[sp.](modiolus.md)
+[Modiolus](modiolus)*
+[sp.](modiolus)
 **
 (Horse mussels)
 *Modiolus albicostus
@@ -201,14 +201,14 @@ Modiolus proclivis=^Modiolus rumphii
 Modiolus trailii
 
 ^
-[Arcuatula senhousia](musculista.md)
+[Arcuatula senhousia](musculista)
 =Musculista senhousia*
 (Nest mussel)
 *Musculus cumingianus
 
 Musculus panhai
 
-[Perna viridis](viridis.md)*
+[Perna viridis](viridis)*
 (Green mussel)
 *Septifer bilocularis
 
@@ -216,8 +216,8 @@ Septifer excisus
 
 Trichomya hirsuta
 
-[Xenostrobus](xenostrobus.md)*
-[sp.](xenostrobus.md)
+[Xenostrobus](xenostrobus)*
+[sp.](xenostrobus)
 (Little black mussel)
 *Xenostrobus*
 cf.

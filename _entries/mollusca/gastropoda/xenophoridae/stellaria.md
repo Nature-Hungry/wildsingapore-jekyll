@@ -55,7 +55,7 @@ links_references: |
   - Sunburst carrier shell (
   *Xenophora solaris*
   ) Family Xenophoridae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   **References**
@@ -83,7 +83,7 @@ The Family Xenophoridae are called carrier shell snails because they cement bits
 .
 
 **Sometimes confused with**
-[turban snails](../turbinidae/turbinidae.md)
+[turban snails](../turbinidae/turbinidae)
 (Family Turbinidae). Unlike turban snails, carrier shell snails do not have shiny mother-of pearl on the inside of the shell.
 
 **Human uses:**

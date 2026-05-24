@@ -108,7 +108,7 @@ links_references: |
   **Links**
   - [Wandering Cowrie (
   *Cypraea errones*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/141.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/141)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -116,12 +116,12 @@ links_references: |
   on
   [The Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html)
   at Washington State University Tri-Cities Natural History Museum website: brief description and photos.
-  - [Family Cypraeidae (Cowry Shells)](http://seashellsofnsw.org.au/Cypraeidae/Pages/cypraeidae_intro.md)
+  - [Family Cypraeidae (Cowry Shells)](http://seashellsofnsw.org.au/Cypraeidae/Pages/cypraeidae_intro)
   on the
-  [The Seashells of New South Wales](http://seashellsofnsw.org.au/index.md)
+  [The Seashells of New South Wales](http://seashellsofnsw.org.au/index)
   website by Des Beechey Research Associate, Australian Museum: family introductions with photos of shells and detailed fact sheets for many species.
   - Family Cypraeidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   **References**
@@ -157,7 +157,7 @@ Some species of cowries are still common on all our shores. Even these, however,
 
 **Precious shell:**
 Cowries produce among the most beautiful and highly prized shells. One cowrie was even used as currency by Polynesians in the past; it is called the
-[Money cowrie](moneta.md)
+[Money cowrie](moneta)
 ! However, a living cowrie is even more fascinating than an empty shell of a dead cowrie.
 
 **Two-in-one shell:**
@@ -165,7 +165,7 @@ A young cowrie's first shell is a narrow spiral. As it matures, it encloses this
 
 **Marvellous mantle:**
 When alive and moving around, the cowrie usually encloses its shell with its mantle (a part of its body). The mantle may have a different colour and pattern from the shell and is often also 'textured' with tiny projections. When the shell is covered by the mantle, a cowrie is sometimes mistaken for a slug. Here's more on
-[how to tell apart slugs and animals that look like slugs](../../../glossary/flatwormslug.md)
+[how to tell apart slugs and animals that look like slugs](../../../glossary/flatwormslug)
 .
 
 The fleshy mantle is a highly specialised organ. It is the main architect of the glossy shell, as it lays down a layer of pearl-like substances as well as the colour and patterns. It also repairs and enlarges the shell and protects it from algae and encrusting animals. This is why a cowrie shell is so shiny and smooth. When disturbed, the entire mantle retracts into the shell.
@@ -173,7 +173,7 @@ The fleshy mantle is a highly specialised organ. It is the main architect of the
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
 **What do they eat?**
 As a group, cowries eat a wide variety of things from algae,
-[sponges](../../../porifera/porifera.md)
+[sponges](../../../porifera/porifera)
 to scavenging and carnivorous cowries that eat other snails. Each has a radula adapted to its particular prey. Most cowries live in the intertidal zone, hiding during the day and emerging to feed at night. A cowrie has a pair of tentacles and a siphon, which is part of the mantle modified for breathing and sampling the water to look for food and mates.
 
 **Cowrie babies:**
@@ -186,11 +186,11 @@ Some cowries are popular in the live aquarium trade. Cowries are among the most 
 Recent estimates suggest that half the cowrie species in Singapore have been lost. The Gold-ringed cowrie (
 *Cypraea annulus*
 ) has almost if not completely been wiped out on our shores. This small cowrie was previously found in large groups on our rocky shores and reef flats. It has a narrow yellow band around its greyish-white back. Although considered one of the most common cowries in our region, the
-[Tiger Cowrie](tigris.md)
+[Tiger Cowrie](tigris)
 (
 *Cypraea tigris*
 ) is now rarely seen. Both are listed as 'Endangered' while the
-[Arabian cowrie](arabica.md)
+[Arabian cowrie](arabica)
 (
 *Cypraea arabica*
 ) is listed as 'Vulnerable' on the Red List of threatened animals of Singapore.
@@ -243,16 +243,16 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red D
 ^Blasicrura interrupta=Cypraea interrupta
 
 ^
-[Contradusta walkeri](walkeri.md)
+[Contradusta walkeri](walkeri)
 =Cypraea walkeri*
 (Walker's cowrie)
 *^Cribrarula cribraria=Cypraea cribraria
 
-[Cypraea tigris](tigris.md)*
+[Cypraea tigris](tigris)*
 (Tiger cowrie) (EN: Endangered)
 **
 *^
-[Eclogavena quadrimaculata](quadrimaculata.md)
+[Eclogavena quadrimaculata](quadrimaculata)
 =Cypraea quadrimaculata*
 (Four-spot cowrie)
 **
@@ -261,24 +261,24 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red D
 ^Erronea cylindrica=Cypraea cylindrica
 
 ^
-[Erronea errones](errones.md)
+[Erronea errones](errones)
 =Cypraea errones*
 (Wandering cowrie)
 **
 **
 *^
-[Erronea onyx](onyx.md)
+[Erronea onyx](onyx)
 =Cypraea onyx*
 (Onyx cowrie)
 *^
-[Erronea ovum](ovum.md)
+[Erronea ovum](ovum)
 =Cypraea ovum*
 (Ovum cowrie)
 **
 *^Erronea pallida=Cypraea pallida
 
 ^
-[Erronea pyriformis](pyriformis.md)
+[Erronea pyriformis](pyriformis)
 =Cypraea pyriformis*
 (Pear-shaped cowrie)
 **
@@ -290,7 +290,7 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red D
 ^Erosaria lamarckii=Cypraea lamarckii
 
 ^
-[Erosaria miliaris](milliaris.md)
+[Erosaria miliaris](milliaris)
 =Cypraea miliaris*
 (Miliaris cowrie)
 *^Erosaria nebrites=Cypraea nebrites*
@@ -307,13 +307,13 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red D
 ^Lyncina ventriculus=Cypraea ventriculus
 
 ^
-[Lyncina vitellus](vitellus.md)
+[Lyncina vitellus](vitellus)
 =Cypraea vitellus*
 (Milk-spotted cowrie)
 **
 **
 *^
-[Mauritia arabica](arabica.md)
+[Mauritia arabica](arabica)
 =Cypraea arabica*
 (Arabian cowrie) (VU: Vulnerable)
 *^Mauritia eglantina=Cypraea eglantina
@@ -327,7 +327,7 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red D
 *^Monetaria caputserpentis=Cypraea caputserpentis
 
 ^
-[Monetaria moneta](moneta.md)
+[Monetaria moneta](moneta)
 =Cypraea moneta*
 (Money cowrie)
 
@@ -343,7 +343,7 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red D
 ^Palmadusta lutea=Cypraea lutea
 
 +^
-[Palmadusta saulae](saulae.md)
+[Palmadusta saulae](saulae)
 =Cypraea saulae*
 (Saul's cowrie)
 **
@@ -352,7 +352,7 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red D
 ^Purpuradusta fimbriata=Cypraea fimbriata
 
 ^
-[Purpuradusta gracilis](gracilis.md)
+[Purpuradusta gracilis](gracilis)
 =Cypraea gracilis*
 (Graceful cowrie)
 **

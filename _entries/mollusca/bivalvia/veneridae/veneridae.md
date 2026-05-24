@@ -168,9 +168,9 @@ Venus clams belong to the Family Veneridae. There are more than 400 known specie
 
 **What eats them?**
 Despite their thick hard shells they are still preyed upon by predators such as
-[moon snails](../../gastropoda/naticidae/naticidae.md)
+[moon snails](../../gastropoda/naticidae/naticidae)
 ,
-[drills](../../gastropoda/muricidae/muricidae.md)
+[drills](../../gastropoda/muricidae/muricidae)
 , crabs and shorebirds. Of course humans love to eat them too.
 
 **What do they eat?**
@@ -180,7 +180,7 @@ Like many other bivalves, venus clams are filter feeders. They lie buried in the
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**Human uses:**
 Many of the commercially important clams are venus clams. Some are also used as fish bait. Venus clams are among the favourite seafood of people everywhere. Like other filter-feeding clams, however, venus clams may be affected by
-[red tide and other harmful algal blooms](../../../plants/seaweed/redtide.md)
+[red tide and other harmful algal blooms](../../../plants/seaweed/redtide)
 . Such clams can then be harmful to eat.
 
 **Status and threats:**
@@ -224,11 +224,11 @@ from Tan Siong Kiat and Henrietta P. M. Woo, 2010
 *On this website, they are grouped by external features for convenience of display*
 *.*
 
-[Bean-shaped venus clam](bean.md)
+[Bean-shaped venus clam](bean)
 
-[Ribbed venus clam](ribbed.md)
+[Ribbed venus clam](ribbed)
 
-[White venus clams](white.md)
+[White venus clams](white)
 
 **Family Veneridae**
 
@@ -244,7 +244,7 @@ Bassina foliacea
 
 Callista chinensis
 
-[Circe scripta](scripta.md)*
+[Circe scripta](scripta)*
 (Script venus clam)
 *Circe tumefacta
 
@@ -264,7 +264,7 @@ Dosinia trigona=^Costellipitar madecassinus
 
 Gafrarium dispar*
 (Discrepant venus clam)
-*[Gafrarium divaricatum](forked.md)*
+*[Gafrarium divaricatum](forked)*
 (Forked venus clam)
 *Gafrarium pectinatum
 

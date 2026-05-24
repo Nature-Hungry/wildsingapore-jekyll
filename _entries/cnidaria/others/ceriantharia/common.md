@@ -116,7 +116,7 @@ This cerianthid is commonly seen on our Northern shores, sometimes in large numb
 10-15cm in diameter. The long tentacles are rather fat and taper to a slender tip. The ring of shorter inner tentacles are sometimes different in colour from the long tentacles. Some are plain, others have variegated long tentacles. Body column usually pale.
 
 Little black
-[Phoronid worms](../../../worm/phoronida/phoronida.md)
+[Phoronid worms](../../../worm/phoronida/phoronida)
 are often seen emerging from the sides of their tubes.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

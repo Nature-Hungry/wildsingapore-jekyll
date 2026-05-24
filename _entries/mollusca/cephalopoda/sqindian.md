@@ -49,7 +49,7 @@ links_references: |
   on SeaLife Base: Technical fact sheet.
   - *[Uroteuthis duvaucelii](http://www.fao.org/docrep/014/i1920e/i1920e03.pdf)*
   on
-  [Cephalopods of the World](http://www.fao.org/docrep/014/i1920e/i1920e00.md)
+  [Cephalopods of the World](http://www.fao.org/docrep/014/i1920e/i1920e00)
   on the FAO Species Catalogue for Fishery Purposes No. 4, Vol. 2.
 
   **References**

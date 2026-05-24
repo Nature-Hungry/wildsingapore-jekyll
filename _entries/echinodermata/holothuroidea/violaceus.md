@@ -72,7 +72,7 @@ galleries:
     caption: East Coast PCN, Aug 23 Photo shared by Kelvin Yong on facebook .
 links_references: |
   **Links**
-  - [Sea apples](http://www.advancedaquarist.com/issues/mar2003/invert.md)
+  - [Sea apples](http://www.advancedaquarist.com/issues/mar2003/invert)
   on Aquarium Invertebrates by Dr Rob Toonen on the Advanced Aquarist's Online Magazine: details the toxic nature and low success rate of keeping these animals in captivity.
   - *[Pseudocolochirus violaceus](https://singapore.biodiversity.online/taxo4254/mainSpace/Pseudocolochirus%20violaceus%20%28Th%C3%A9el%2C%201886%29.html)*
   (Dendrochirotida: Cucumariidae) Sea Apple Cucumber by Lee Sui Kei Rachel, 2016, on taxo4254.

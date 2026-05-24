@@ -106,7 +106,7 @@ location:
 ## Where seen?
 **
 This slug in pajamas is sometimes seen on our Northern shores, burrowing in sandy areas near seagrasses where there are
-[sea pens](../../../cnidaria/others/pennatulacea/pennatulacea.md)
+[sea pens](../../../cnidaria/others/pennatulacea/pennatulacea)
 . It is more active at night.
 
 ## Features
@@ -118,18 +118,18 @@ This slug in pajamas is sometimes seen on our Northern shores, burrowing in sand
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Sometimes mistaken for**
 the
-[bumpy-faced armina nudibranch](bumpyface.md)
+[bumpy-faced armina nudibranch](bumpyface)
 , that has a plain oral veil and foot and has bumps on its 'face'. The
-[Tiny striped nudibranch](dermatobranchus.md)
+[Tiny striped nudibranch](dermatobranchus)
 (
 *Dermatobranchus*
 sp.) is also striped but is much smaller.
 
 **What does it eat?**
 As a group, the armina nudibranchs eat
-[soft corals](../../../cnidaria/coralsoft/coralsoft.md)
+[soft corals](../../../cnidaria/coralsoft/coralsoft)
 and
-[sea pens](../../../cnidaria/others/pennatulacea/pennatulacea.md)
+[sea pens](../../../cnidaria/others/pennatulacea/pennatulacea)
 .
 [Bill Rudman](http://www.seaslugforum.net/showall/armisemp)
 has a post sharing how an armina nudibranch feeds on a sea pen and is dragged down into the sand when the sea pen retracts.

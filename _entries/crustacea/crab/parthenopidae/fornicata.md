@@ -126,5 +126,5 @@ for free download
 
 **Acknowledgement**
 With grateful thanks to
-[Prof Peter K. L. Ng](http://www.dbs.nus.edu.sg/staff/peter.md)
+[Prof Peter K. L. Ng](http://www.dbs.nus.edu.sg/staff/peter)
 of the Lee Kong Chian Natural History Museum for identifying this crab.

@@ -43,13 +43,13 @@ links_references: |
   **Links**
   - [Silver Moony (
   *Monodactylus argenteus*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/325.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/325)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
   - [Silver Moony (
   *Monodactylus argenteus*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2110.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2110)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
@@ -93,7 +93,7 @@ Silver moonies belong to Family Monodactylidae. According to
 
 **Sometimes confused with**
 the
-[Batfish](../ephippidae/ephippidae.md)
+[Batfish](../ephippidae/ephippidae)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**

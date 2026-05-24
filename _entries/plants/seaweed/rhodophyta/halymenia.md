@@ -83,7 +83,7 @@ galleries:
     caption: Terumbu Salu, Jan 10
 links_references: |
   **Links**
-  - [Halymenia](http://mangrove.nus.edu.sg/pub/seashore/text/107.md)
+  - [Halymenia](http://mangrove.nus.edu.sg/pub/seashore/text/107)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -143,11 +143,11 @@ Sometimes mistaken for red plastic bags, these traslucent slippery red seaweeds 
 ## Features
 
 Texture slippery. Some are flat with feathered edges. Others have branching forms with a broad flat central 'stem' from which arise finer branches. Spots and bumps on the seaweed may be reproductive structures.
-[Ruffled halymenia red seaweed](dilatata.md)
+[Ruffled halymenia red seaweed](dilatata)
 (
 *Halymenia dilatata*
 ) is translucent, slippery flat with ruffled edges.
-[Frilly sheet red seaweed](maculata.md)
+[Frilly sheet red seaweed](maculata)
 (
 *Halymenia maculata*
 ) is more leathery.
@@ -216,7 +216,7 @@ Pham, M. N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011.
 *A Checklist of the Algae of Singapore*
 .
 
-*[Halymenia dilatata](dilatata.md)*
+*[Halymenia dilatata](dilatata)*
 (Flat halymenia red seaweed)
 *Halymenia durvillei
 
@@ -224,7 +224,7 @@ Halymenia floresii
 
 Halymenia formosa
 
-[Halymenia maculata](maculata.md)*
+[Halymenia maculata](maculata)*
 (Frilly sheet red seaweed)
 *Halymenia microcarpa*
 

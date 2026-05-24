@@ -33,11 +33,11 @@ links_references: |
   **Links**
   - *[Adinandra dumosa](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2698)*
   on the NParks Flora and Fauna website: photos and fact sheet.
-  - [Adinandra belukar](http://habitatnews.nus.edu.sg/heritage/pasirpanjang/ridgeplants/intro1.md)
+  - [Adinandra belukar](http://habitatnews.nus.edu.sg/heritage/pasirpanjang/ridgeplants/intro1)
   and
-  *[Adinandra dumosa](http://habitatnews.nus.edu.sg/heritage/pasirpanjang/ridgeplants/adinandra.md)*
+  *[Adinandra dumosa](http://habitatnews.nus.edu.sg/heritage/pasirpanjang/ridgeplants/adinandra)*
   on
-  [A guide to the plants of Kent Ridge](http://habitatnews.nus.edu.sg/heritage/pasirpanjang/ridgeplants/index.md)
+  [A guide to the plants of Kent Ridge](http://habitatnews.nus.edu.sg/heritage/pasirpanjang/ridgeplants/index)
   by Brandon Seah, Dec 2001. An online resource about the plants of Kent Ridge, with descriptions, ecology and references.
   
   **References**

@@ -42,13 +42,13 @@ links_references: |
   on the NParks Flora and Fauna website: photos and fact sheet.
   - [Buta-buta
   *(Excoecaria agallocha*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/1060.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/1060)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)
   I (Plant Diversity)*
   . Singapore Science Centre. 168 pp.
   - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.md)
+  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
   (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
   - [Autumn colours on our shores](http://wildshores.blogspot.com/2009/03/autumn-colours-on-our-shores.html)
   on the wild shores of singapore blog.
@@ -87,7 +87,7 @@ Flowers are tiny (less than 1mm). Trees bear either male or female flowers, neve
 The fruits are small (less than 1cm) three-lobed, green turning black as they ripen into dry capsules. Each capsule is made up of three portions, containing tiny dark to black seeds.
 
 The colourful
-[Mangrove shield bug](../../../insecta/calliphara.md)
+[Mangrove shield bug](../../../insecta/calliphara)
 (
 *Calliphara nobilis*
 ) feeds on the seeds of this tree and is often seen in large numbers when the tree is fruiting. It is the preferred local food plant for the caterpillars of the moths,

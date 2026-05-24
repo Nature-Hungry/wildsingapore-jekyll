@@ -73,13 +73,13 @@ links_references: |
   **Links**
   - [Giant mudskipper (
   *Periophthalmodon schlosseri*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2106.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2106)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
   - [Giant mudskipper (
   *Periophthalmodon schlosseri*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/370.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/370)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
@@ -95,7 +95,7 @@ links_references: |
   from
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet.
-  - [Giant mudskipper](http://www.ecologyasia.com/verts/brackish-fishes/giant-mudskipper.md)
+  - [Giant mudskipper](http://www.ecologyasia.com/verts/brackish-fishes/giant-mudskipper)
   on
   [EcologyAsia](http://www.ecologyasia.com/)
   : photos and fact sheet.
@@ -128,7 +128,7 @@ At high tide, they may be seen clinging to mangrove tree roots.
 
 **Sometimes confused with**
 the
-[Yellow-spotted mudskipper](walailakae.md)
+[Yellow-spotted mudskipper](walailakae)
 which were long mistaken for juvenile Giant mudskippers. Unlike the Giant mudskipper, the Yellow-spotted mudskipper does not have a broad black band along the body length and lacks the white-bluish, iridescent speckles often seen on the Giant mudskipper's cheeks.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Baby giants:**
@@ -140,13 +140,13 @@ Possible courtship behaviour was reported, with two fishes stayed close together
 An aggressive hunter, it eats crabs (one study found it prefers crabs) as well as prawns, worms and insects. It may even snack on smaller mudskippers, and one was observed eating a snake.
 [One study found](http://www.kmae-journal.org/articles/kmae/pdf/2012/02/kmae110093.pdf)
 that it eats mostly
-[fiddler crabs](../../../crustacea/crab/ocypodoidea/uca.md)
+[fiddler crabs](../../../crustacea/crab/ocypodoidea/uca)
 , Medaka fish (
 *Oryzias*
 sp.) and juvenile fishes.
 
 In turn, the fish is preyed upon by the
-[Dog-faced water snake](../../snakes/cerberus.md)
+[Dog-faced water snake](../../snakes/cerberus)
 , and birds such as herons, kingfishers. The fish is often seen with mosquitoes biting parts of its body above water.
 
 **Status and threats:**

@@ -133,7 +133,7 @@ links_references: |
   **Links**
   - [Giant Clam (
   *Tridacna squamosa*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/267.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/267)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -150,7 +150,7 @@ links_references: |
   - Fluted giant clam (
   *Tridacna squamosa*
   ) in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
   - [*Tridacna squamosa*](https://singapore.biodiversity.online/taxo4254/mainSpace/Tridacna%20squamosa.html)
   (Veneroida: Cardiidae) Fluted giant clam on Taxo4254.

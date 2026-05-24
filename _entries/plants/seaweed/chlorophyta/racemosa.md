@@ -64,7 +64,7 @@ links_references: |
   : technical fact sheet.
   - [*Caulerpa racemosa*](http://species-identification.org/species.php?species_group=caribbean_diving_guide&id=489&menuentry=soorten)
   on Interactive Guide to Caribbean Diving, the Marine Species Identification Portal: Technical fact sheet.
-  - [Seaweed Mariculture](http://www.botany.uwc.ac.za/algae/StudentAssignments/natalieprins97/caulerpa.md)
+  - [Seaweed Mariculture](http://www.botany.uwc.ac.za/algae/StudentAssignments/natalieprins97/caulerpa)
   by Natalie Prins from the World of Algae page on the the University of the Western Cape, South Africa website: includes the culture and uses of
   *Caulerpa racemosa*
   .
@@ -126,13 +126,13 @@ Some other Caulerpa species may take forms that resemble Oval sea grapes. These 
 . There are varieties of
 *Caulerpa racemosa*
 with
-[bell-shaped tips](bell.md)
+[bell-shaped tips](bell)
 (
 *Caulerpa racemosa*
 var
 *turbinata*
 ) or flat like
-[little umbrellas](peltatasmall.md)
+[little umbrellas](peltatasmall)
 (
 *Caulerpa racemosa*
 var
@@ -140,11 +140,11 @@ var
 ).
 
 **Sometimes confused with**
-[Round sea grape seaweeds](lentillifera.md)
+[Round sea grape seaweeds](lentillifera)
 (
 *Caulerpa lentillifera*
 ). Here's more on
-[how to tell apart the sea grapes seaweeds](cfgrapes.md)
+[how to tell apart the sea grapes seaweeds](cfgrapes)
 .
 
 **Human uses:**

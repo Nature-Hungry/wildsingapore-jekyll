@@ -229,12 +229,12 @@ This pretty nudibranch in a pin-striped suit is commonly encountered on our Sout
 has a white body with fine black lines and a white line along the inner edge of the orange border.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Sometimes mistaken for**
-[Armina nudibranchs](semperi.md)
+[Armina nudibranchs](semperi)
 . The Lined chromodoris nudibranch has a feathery gill on its back while armina nudibranchs don't.
 
 **What does it eat?**
 It eats sponges, including the
-[Silvery blue sponge](../../../porifera/spatula.md)
+[Silvery blue sponge](../../../porifera/spatula)
 .
 
 Members of the Family Chromodorididae absorb the toxic chemicals in their sponge food and incorporate these chemicals into the mantle glands on their backs where they repel predators.

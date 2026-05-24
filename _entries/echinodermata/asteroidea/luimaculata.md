@@ -162,7 +162,7 @@ Diameter with arms to 12-20cm. 5 to 9, usually 8 arms. Arms are long, somewhat r
 
 **Sometimes mistaken for**
 the
-[Common sea star](archaster.md)
+[Common sea star](archaster)
 . The Common sea star has large tube feet with sucker-shaped tips, while the Eight-armed sand star has large tube feet with pointed tips.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Spawning position?**

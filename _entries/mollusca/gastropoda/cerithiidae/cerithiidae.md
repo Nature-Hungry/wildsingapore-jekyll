@@ -63,7 +63,7 @@ links_references: |
   - [Family Cerithiidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Cerithiidae.html)
   on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief description and photos.
   - Family Cerithiidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
   - *Records of two cerithiopsid snails in Singapore*
   , 22 January 2020, Chan Sow-Yan & Lau Wing Lup, Singapore Biodiversity Records, 2020: 9-10 ISSN 2345-7597, National University of Singapore.
@@ -107,9 +107,9 @@ Tiny creeper snails are common on our shores but often overlooked. They may be f
 2 2.5cm. Shell long and narrow, distinguished by an upturned siphonal canal at the opening that looks like a little spout. This protects the siphon as the snail hides just beneath the sand. The shell opening is oval, and the operculum is made of a horny material usually brown usually with only a few whorls.
 
 **Sometimes confused with**
-[Horn snails](../potamididae/potamididae.md)
+[Horn snails](../potamididae/potamididae)
 (Family Potamididae) which also have an operculum made of a horny material but with a tight spiral pattern. Horn snails have siphonal canals that are less pronounced and they are generally larger than Creeper snails. More on
-[how to tell these snails apart](../certihpotamid.md)
+[how to tell these snails apart](../certihpotamid)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What do they eat?**
@@ -117,7 +117,7 @@ Creeper snails are often found in groups of many individuals packed close to one
 
 **Role in the habitat:**
 Should the tiny snail die, the empty shell is often taken over by
-[tiny hermit crabs](../../../crustacea/othercrust/anomura/hermit/hermit.md)
+[tiny hermit crabs](../../../crustacea/othercrust/anomura/hermit/hermit)
 .
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**Human uses:**
@@ -154,9 +154,9 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 
 On this website, they are grouped by external features for convenience of display.*
 
-[Plain creeper snail](plain.md)
+[Plain creeper snail](plain)
 
-[Variegated creeper snail](variegated.md)
+[Variegated creeper snail](variegated)
 
 **Family Cerithiidae**
 
@@ -186,7 +186,7 @@ Clypeomorus brevis
 
 Clypeomorus irrorata
 
-[Clypeomorus pellucida](pellucida.md)*
+[Clypeomorus pellucida](pellucida)*
 (Mangrove creeper snail)=
 *Clypeomorus pellucidus
 
@@ -200,7 +200,7 @@ Rhinoclavis aspera
 
 Rhinoclavis obeliscus
 
-[Rhinoclavis sinensis](obelisk.md)*
+[Rhinoclavis sinensis](obelisk)*
 (Obelisk creeper snail)
 *Rhinoclavis vertagus
 

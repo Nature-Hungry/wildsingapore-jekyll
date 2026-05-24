@@ -102,7 +102,7 @@ Colony 20-50cm or larger. Sinularia species have among the greatest variation in
 The surface of the common leathery tissue is usually smooth as there are only autozooid polyps and no siphonozooids. In some the surface may appear rough due to embedded spicules (calcium carbonate spikes). The autozooid polyps are tiny (0.5cm or smaller) with a short body column and 8 long tentacles with feathery branches. The autozooids can retract completely into the common tissue. Out of water, the surface of the common tissue has only one kind of hole, where the retracted autozooids are. The autozooid polyps may be the same colour as the common tissue or slightly darker. The animals harbour symbiotic algae (zooxanthellae).
 
 **Sometimes confused with**
-[Pimply leathery soft coral](letpimply.md)
+[Pimply leathery soft coral](letpimply)
 (
 *Lobophytum*
 sp.) which have siphonozooids and thus has a pimply common tissue.
@@ -143,14 +143,14 @@ species recorded for Singapore**
 **
 from Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
 
-**[Family Alcyoniidae](alcyoniidae.md)
+**[Family Alcyoniidae](alcyoniidae)
 
 Genus
 *Sinularia***
 
 *Sinularia abrupta
 
-[Sinularia brassica](letstar.md)*
+[Sinularia brassica](letstar)*
 (Starry leathery soft coral)
 *Sinularia capillosa
 

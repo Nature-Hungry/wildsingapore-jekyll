@@ -38,10 +38,10 @@ links_references: |
   on the NParks Flora and Fauna website: photos and fact sheet.
   - [The
   *Calophyllum*
-  story](http://www.forestry.sarawak.gov.my/forweb/research/fr/ip/eco/calophys.md)
+  story](http://www.forestry.sarawak.gov.my/forweb/research/fr/ip/eco/calophys)
   on the Forest Department Sarawak website about Calophyllum lanigerum var. austrocoriaceum the source of Calanolide A.
   - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.md)
+  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
   (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
   ****
   

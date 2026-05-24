@@ -65,7 +65,7 @@ location:
 
 ## Where seen?
 This small clam is often seen on our Northern shores among seagrasses, sometimes attached to other animals like
-[Window-pane shells](../placunidae/placuna.md)
+[Window-pane shells](../placunidae/placuna)
 .
 
 ## Features

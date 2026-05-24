@@ -64,7 +64,7 @@ galleries:
       caption: Giant hydroids
 links_references: |
   **Links**
-  - [Stinging hydroids](http://mangrove.nus.edu.sg/pub/seashore/text/116.md)
+  - [Stinging hydroids](http://mangrove.nus.edu.sg/pub/seashore/text/116)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -72,11 +72,11 @@ links_references: |
   on the
   [Encyclopedia of Marine Life of Britain and Ireland](http://www.habitas.org.uk/marinelife/)
   Edited by Bernard E. Picton and Christine C. Morrow: photo and fact sheet
-  - [The Hydrozoa Directory](http://www.ville-ge.ch/mhng/hydrozoa/hydrozoa-directory.md)
+  - [The Hydrozoa Directory](http://www.ville-ge.ch/mhng/hydrozoa/hydrozoa-directory)
   on the Natural History Museum of Geneva website: photos and fact sheets with glossary of terms, covering everything you might want to know about hydroids from nematocysts to life cycle and more.
   - [Shallow-water hydroids](http://www.vattenkikaren.gu.se/fakta/arter/cnidaria/hydrozoa/olikahe.html)
   on Aquascope of the Tjarno Marine Biological Laboratory: some photos and titbits on the animals.
-  - [Hydroids](http://www.seaslugforum.net/hydroids.md)
+  - [Hydroids](http://www.seaslugforum.net/hydroids)
   on the Sea Slug Forum by Dr Bill Rudman: as hydroids are among the stuff that nudibranchs eat, there is some interesting information on them on this site.
   
   **References**
@@ -105,9 +105,9 @@ A wider variety of those that are large and attached to hard surfaces are common
 
 **What are hydroids?**
 They belong to
-[Phylum Cnidaria](../../cnidaria.md)
+[Phylum Cnidaria](../../cnidaria)
 . 'Hydrozoa' means 'water animals' in Greek. Hydrozoans may look like
-[jellyfish](thread.md)
+[jellyfish](thread)
 or appear to be branching plants. There are about 3,000 known species of the Class Hydrozoa.
 
 ## Features
@@ -115,7 +115,7 @@ or appear to be branching plants. There are about 3,000 known species of the Cla
 Hydroids are colonial animals. The polyps are tiny (1mm tall with a smaller diameter). In branching forms, the polyps are encased in a 'skin' made of chitin (the same substance that insect exoskeleton is made of). In some, each polyp lives in a bell-shaped 'container' with a lid. The colony often takes on feathery, branching plant-like forms. The branches arise from a central stalk that is attached to a hard surface.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 The colony may be made up of two different kinds of polyps. Feeding polyps look like sea anemones with tentacles armed with
-[stingers like other Cnidrians](../../cnidaria.md)
+[stingers like other Cnidrians](../../cnidaria)
 . These stingers are used to gather food particles from the water.
 
 Other polyps function as reproductive organs and often don't have tentacles. Some hydroids have defensive polyps, usually club-shaped and well armed with stingers that can inject toxins or are sticky. These not only protect the colony but may also help to capture tiny prey.
@@ -124,7 +124,7 @@ Fire corals (
 *Millepora*
 sp.) are hydroids that produce a massive skeleton so they appear to be hard corals. As their name suggests, these animals have powerful stingers.
 
-[Stinging hydroids](stinging.md)
+[Stinging hydroids](stinging)
 inflict powerful stings that can leave painful and hideous scars on the bare skin of careless visitors or divers.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**What do they eat?**
@@ -157,11 +157,11 @@ There is inadequate information as at 2024 to make an informed assesment of the 
 
 **Class Hydrozoa recorded for Singapore
 
-[text index](../../cnidariaindex.md)
+[text index](../../cnidariaindex)
 and photo index of
-[hydroids](../../hydrozoafi.md)
+[hydroids](../../hydrozoafi)
 and
-[jellyfish](../../jellyfishfi.md)
+[jellyfish](../../jellyfishfi)
 seen on Singapore shores**
 Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
 
@@ -179,7 +179,7 @@ Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat S
 *Zanclea*
 sp.
 
-[**Family Aequoreidae**](thread.md)
+[**Family Aequoreidae**](thread)
 (Thread-tentacled jellyfish)
 
 *Aequorea conica
@@ -239,7 +239,7 @@ sp.
 *Cunina duplicata*
 
 Some
-[Jellyfishes](../jellyfish/jellyfish.md)
+[Jellyfishes](../jellyfish/jellyfish)
 are classified as hydroids.
 
 ---

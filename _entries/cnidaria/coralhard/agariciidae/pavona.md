@@ -170,9 +170,9 @@ The corallites are found in shallow depressions. Sometimes separated by ridges t
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Living among lettuce:**
 The leafy structures are perfect hiding places for fishes.
-[Fan worms](../../../worm/polychaeta/sabellidae.md)
+[Fan worms](../../../worm/polychaeta/sabellidae)
 and
-[tiny clams](../../../mollusca/bivalvia/pectinidae/coral.md)
+[tiny clams](../../../mollusca/bivalvia/pectinidae/coral)
 are sometimes also seen living among the 'leaves'.
 
 **Status and threats:**
@@ -246,7 +246,7 @@ on the
 [IUCN global list](http://www.iucnredlist.org/)
 .
 
-**[Family Agariciidae](agariciidae.md)
+**[Family Agariciidae](agariciidae)
 *
 
 Genus

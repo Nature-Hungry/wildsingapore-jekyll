@@ -52,9 +52,9 @@ galleries:
     caption: Pulau Pawai, Dec 09
 links_references: |
   **Links**
-  - *[Gracilaria salicornia](http://www.hawaii.edu/reefalgae/invasive_algae/rhodo/gracilaria_salicornia.md)*
+  - *[Gracilaria salicornia](http://www.hawaii.edu/reefalgae/invasive_algae/rhodo/gracilaria_salicornia)*
   from
-  [Marine Algae of Hawai`i](http://www.hawaii.edu/reefalgae/default.md)
+  [Marine Algae of Hawai`i](http://www.hawaii.edu/reefalgae/default)
   on the University of Hawai`i Botany Department website: fact sheet with photos.
   - [*Gracilaria salicornia*](http://www.algaebase.org/search/species/detail/?species_id=1928)
   on
@@ -117,7 +117,7 @@ Small clumps of this distinctive knobbly seaweed is sometimes seen on many of ou
 It is used as animal feed, and fertiliser for coconut trees and coffee bushes in China, India and Sri Lanka. Like other
 *Gracilaria*
 species, it is also a
-[source of agar-agar](gracilaria.md)
+[source of agar-agar](gracilaria)
 and is eaten as a jelly and as a 'crunchy' snack. Other uses include as an insect repellant and to treat knee joints, sores, heart complaints, stomach and intestinal disorders. It is reported to have anti-bacterial and anti-tumor properties.
 
 ![](http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/salicornia/050526cjg6877m3.jpg)

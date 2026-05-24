@@ -84,7 +84,7 @@ In Serina Lee's article, the photo of
 closely resembles these animals.
 
 The
-[Racing-stripe flatworm](../worm/polycladida/bifurcus.md)
+[Racing-stripe flatworm](../worm/polycladida/bifurcus)
 (
 *Pseudoceros bifurcus*
 ) and other flatworms have been seen on top of it. Possibly eating the ascidians.

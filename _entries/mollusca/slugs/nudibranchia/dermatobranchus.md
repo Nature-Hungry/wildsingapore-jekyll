@@ -166,15 +166,15 @@ This tiny nudibranch is sometimes seen on coral rubble and seaweeds near reefs o
 About 1cm long. Body very long and slender, dark with fine white ridges with an even finer yellow line down the centre of the ridges. Yellow body margins, dark rhinophores, a white wedge-shaped flap over its mouth (oral veil) also with yellow margins. The underside is white. It lacks a feathery gill on its back.
 
 **Sometimes confused with**
-[Armina nudibranchs](semperi.md)
+[Armina nudibranchs](semperi)
 *(Armina*
 sp.) which are much larger.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**
 According to Bill Rudman some species eat
-[soft corals](../../../cnidaria/coralsoft/coralsoft.md)
+[soft corals](../../../cnidaria/coralsoft/coralsoft)
 and
-[sea fans](../../../cnidaria/others/gorgonacea/gorgonacea.md)
+[sea fans](../../../cnidaria/others/gorgonacea/gorgonacea)
 .
 
 ---

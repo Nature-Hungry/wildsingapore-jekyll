@@ -167,7 +167,7 @@ The mouth is often seen upturned.The tentacles come in various shades including 
 
 **Sometimes mistaken for**
 the
-[Wiggly sand star anemone](starbanded.md)
+[Wiggly sand star anemone](starbanded)
 looks similar but is brownish with many regular bands and found on the higher shore in silty lagoons.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

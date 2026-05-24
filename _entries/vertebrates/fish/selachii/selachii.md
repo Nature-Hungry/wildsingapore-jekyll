@@ -199,7 +199,7 @@ Sharks are sometimes seen by divers in our waters, and during intertidal trips t
 
 **What are sharks?**
 Sharks belong to Infraclass Selachii. And to the Subclass Elasmobranchii which includes the
-[stingrays](../dasyatidae/rajiformes.md)
+[stingrays](../dasyatidae/rajiformes)
 .
 
 ## Features

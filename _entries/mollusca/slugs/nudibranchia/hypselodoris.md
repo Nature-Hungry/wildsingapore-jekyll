@@ -45,9 +45,9 @@ These small colourful nudibranchs are sometimes seen on our Northern shores. On 
 
 2-3cm. Body long, narrow with a long tail. Usually colourful with bright spots. Large flower-like gills on the back and large rhinophores (relative to the body size).
 
-*[Hypselodoris kanga](hykanga.md)*
+*[Hypselodoris kanga](hykanga)*
 is one of a number of species with a bluish background colour, short dark blue lines and yellow or orange spots. It is very similar to the
-[Pink-gilled hypselodoris](hypink.md)
+[Pink-gilled hypselodoris](hypink)
 which is similar to
 *Hypselodoris infucata. Hypselodoris kanga*
 has gills with a triangular cross-section edged in blue with a series of yellow spots up the outer face.
@@ -57,7 +57,7 @@ has thin branching gills.
 *Hypselodoris bullockii*
 is often encountered by divers in our reefs. It comes in a wide variety of colours and patterns which causes some ID confusion.
 
-*[Hypselodoris maritima](hymaritima.md)*
+*[Hypselodoris maritima](hymaritima)*
 is pale with black blotches and a yellow margin.
 
 *Hypselodoris placida*
@@ -65,7 +65,7 @@ is listed among our nudibranchs but Dr Bill Rudman's website says they are only 
 
 **What do they eat?**
 They eat
-[sponges](../../../porifera/porifera.md)
+[sponges](../../../porifera/porifera)
 , each Hypselodoris species usually specialising in a particular species of sponge. Although tiny, apparently they can feed voraciously. They eat the sponge tissues and leave the hard bits (spicules) of the sponge behind as a skeleton.
 *Dysidea*
 sp. is a sponge they have been recorded feeding on.

@@ -68,7 +68,7 @@ galleries:
     caption: Pulau Semakau, Oct 09 Video shared by Marcus Ng on flickr .
 links_references: |
   **Links**
-  - [Sea Slug Forum](http://www.seaslugforum.net/welcome.md)
+  - [Sea Slug Forum](http://www.seaslugforum.net/welcome)
   by Dr Bill Rudman: photos and fact sheet on
   *[Dolabella auricularia](http://www.seaslugforum.net/find/dolaauri)*
   and

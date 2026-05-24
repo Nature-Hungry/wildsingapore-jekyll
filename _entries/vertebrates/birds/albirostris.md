@@ -36,7 +36,7 @@ galleries:
       caption: "Pulau Ubin, Dec 09"
 links_references: |
   **Links**
-  - [The only truly 'wild' hornbills](http://habitatnews.nus.edu.sg/pub/naturewatch/text/a061f.md)
+  - [The only truly 'wild' hornbills](http://habitatnews.nus.edu.sg/pub/naturewatch/text/a061f)
   by Lim Kim Seng on the Nature Watch website: brief explanation of the hornbills sighted in Singapore.
   - [Nesting Observations of the Oriental Pied Hornbill](http://members.fortunecity.com/mnsperak/oph/nesting.html)
   by Dr Chan Kai Soon of the Malayan Nature Society: a fascinating record of observations

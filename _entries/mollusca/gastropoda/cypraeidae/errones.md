@@ -88,7 +88,7 @@ links_references: |
   **Links**
   - [Wandering Cowrie (
   *Cypraea errones*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/141.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/141)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -142,17 +142,17 @@ There may be one or two brown spots at the front tip of the shell, sometimes no 
 
 **Sometimes confused with**
 the
-[Ovum cowrie](ovum.md)
+[Ovum cowrie](ovum)
 (
 *Cypraea ovum*
 ) which is similar but is pear-shaped, does not have spots at the front end of the shell and has 'teeth' that are tinged yellow or orange. Here's more on
-[how to tell apart Wandering and Ovum cowries](cfcypraeidae.md)
+[how to tell apart Wandering and Ovum cowries](cfcypraeidae)
 .
 
 When the shell is completely covered in its mantle, it is sometimes mistaken for a
-[sea slug](../../slug.md)
+[sea slug](../../slug)
 . Here's more on
-[how to tell apart slugs and animals that look like slugs](../../../glossary/flatwormslug.md)
+[how to tell apart slugs and animals that look like slugs](../../../glossary/flatwormslug)
 .
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Leave cowries alone:**

@@ -144,7 +144,7 @@ galleries:
     caption: Pulau Salu, Aug 10
 links_references: |
   **Links**
-  - [Poisonous Xanthid Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/252.md)
+  - [Poisonous Xanthid Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/252)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -203,7 +203,7 @@ location:
 
 ## Where seen?
 This round well-camouflaged crab is commonly seen on our Southern shores, among coral rubble or reefs. But sightings usually not as numerous as the
-[Red egg crab](integerrimus.md)
+[Red egg crab](integerrimus)
 - perhaps because it is more well camouflaged? It is more active at night.
 
 ## Features
@@ -212,7 +212,7 @@ Body width 8-10cm. Body oval, smooth surface and smooth body edge decorated spac
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **What does it eat?**
 Although it is described as a vegetarian, one was seen happily eating a fish. Like most other Xanthid crabs, it is
-[highly poisonous](xanthidae.md)
+[highly poisonous](xanthidae)
 and should not be eaten.
 
 **Status and threats:**

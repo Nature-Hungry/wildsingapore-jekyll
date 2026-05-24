@@ -43,7 +43,7 @@ Branching stems about 10-20cm long. The thick short 'stems' branch extensively o
 
 **Sometimes mistaken for**
 a
-[hydroid](../cnidaria/others/hydrozoa/hydrozoa.md)
+[hydroid](../cnidaria/others/hydrozoa/hydrozoa)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

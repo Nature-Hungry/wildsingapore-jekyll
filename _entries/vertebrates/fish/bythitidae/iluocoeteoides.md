@@ -78,7 +78,7 @@ links_references: |
   **Links**
   - [Yellow cuskeel (
   *Dinematichthys iluocoeteoides*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/229.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/229)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
@@ -130,7 +130,7 @@ Eggs develop inside the mother and she gives birth to live young (ovoviviparous)
 
 **Sometimes mistaken for**
 other eel-like fishes. Here's more on
-[how to tell apart sea snakes, eels and eel-like animals](../../../glossary/eelsnake.md)
+[how to tell apart sea snakes, eels and eel-like animals](../../../glossary/eelsnake)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

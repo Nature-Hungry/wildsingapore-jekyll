@@ -66,7 +66,7 @@ Body about 1-1.5cm long, plain dark blue. Both pincers are more or less equal in
 
 More on how to tell apart
 [*Clibanarius*
-hermit crabs](clibanarius.md)
+hermit crabs](clibanarius)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

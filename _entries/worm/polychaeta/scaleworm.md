@@ -93,7 +93,7 @@ links_references: |
   **Links**
   - [Segmented worms including
   *Chloeia*
-  sp.](http://mangrove.nus.edu.sg/pub/seashore/text/126.md)
+  sp.](http://mangrove.nus.edu.sg/pub/seashore/text/126)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -125,7 +125,7 @@ These tiny short bristley worms with scales are sometimes seen under stones or o
 
 **What is a scale worm?**
 It is a segmented bristleworm belonging to the Family Polynoidae, Class
-[Polychaeta](polychaeta.md)
+[Polychaeta](polychaeta)
 , Phylum Annelida. The polychaetes include bristleworms, and Phylum Annelida includes the more familiar earthworm.
 
 ## Features
@@ -134,7 +134,7 @@ About 1cm long. The worm is flat and broad with lots of short hairy bristles alo
 
 **Sometimes mistaken for**
 a
-[chiton](../../mollusca/polyplacophora/chiton.md)
+[chiton](../../mollusca/polyplacophora/chiton)
 , which is a mollusc with overlapping scales but lack the tentacles at the head and bristles along the side of the body.
 
 **What does it eat?**

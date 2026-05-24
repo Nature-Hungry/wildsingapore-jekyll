@@ -52,12 +52,12 @@ location:
 
 ## Where seen?
 These tiny worms are found only on
-[feather stars](../../echinodermata/crinoidea/crinoidea.md)
+[feather stars](../../echinodermata/crinoidea/crinoidea)
 . Their colours and patterns usually perfectly match their host.
 
 **What is a scale worm?**
 They are segmented bristleworm belonging to the Family Myzostomidae, Class
-[Polychaeta](polychaeta.md)
+[Polychaeta](polychaeta)
 , Phylum Annelida. The polychaetes include bristleworms, and Phylum Annelida includes the more familiar earthworm.
 
 ## Features

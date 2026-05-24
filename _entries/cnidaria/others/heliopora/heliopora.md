@@ -108,11 +108,11 @@ These living fossils are commonly seen on our Southern shores, sometimes forming
 
 **What are blue corals?**
 Blue corals belong to
-[Phylum Cnidaria](../../cnidaria.md)
+[Phylum Cnidaria](../../cnidaria)
 . Although they produce a hard skeleton, they are NOT
-[hard corals](../../coralhard/coralhard.md)
+[hard corals](../../coralhard/coralhard)
 and are more closely related to soft corals. Blue corals are the only members of the Order Helioporacea, Family Helioporidae. They are also the only members of the soft corals (
-[Subclass Alcyonaria](../../coralsoft/coralsoft.md)
+[Subclass Alcyonaria](../../coralsoft/coralsoft)
 ) that contributes to reef-building, like hard corals do.
 
 **Living fossil:**
@@ -123,7 +123,7 @@ Blue corals are considered living relicts of fossil species known from more than
 Blue corals are confusing. Firstly, they are often brown and don't appear blue at all. Secondly, although they have a hard skeleton, they are not grouped with other hard corals.
 
 Colonies 15-30cm, polyps about 0.5cm. Their internal skeletons are blue, hence their common name. The blue colour is due to the iron salts that are incorporated into their skeletons. On the outside, they are usually brown because the thin layer of brownish living tissue that covers the outer surface of the skeleton. The skeletons are made of a different kind of calcium carbonate (fibro-crystalline argonite) that is more brittle than that of true hard corals that belong to Subclass
-[Sclerectinia](../../coralhard/coralhard.md)
+[Sclerectinia](../../coralhard/coralhard)
 . Inside the skeleton are tubes, where the long, thin polyps are found, and a system of canals. Blue coral colonies are usually boulder shaped with knobs. They may also have thick leaf-like forms or columns, and may even be encrusting or plate-like.
 
 Tiny polyps (about 0.5cm) have 8 tentacles with fine branches like other soft corals (True hard coral polyps have smooth tentacles in multiples of six). The polyps stick out of tiny holes (0.2cm) in the skeleton. They may be white or beige.

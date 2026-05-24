@@ -62,9 +62,9 @@ location:
 
 ## Where seen?
 This snail is commonly encountered inside a shell occupied by a
-[hermit crab](../../../crustacea/othercrust/anomura/hermit/hermit.md)
+[hermit crab](../../../crustacea/othercrust/anomura/hermit/hermit)
 . It is also sometimes found on the underside of
-[horseshoe crabs](../../../arthropoda/limulidae/limulidae.md)
+[horseshoe crabs](../../../arthropoda/limulidae/limulidae)
 . It was previously known as
 *Crepidula walshi*
 .
@@ -78,7 +78,7 @@ It is usually found in pairs. The larger one is usually the female and the small
 
 **Sometimes confused with limpets**
 which are also gastropods but which can move about. Here's more on
-[how to tell apart limpets, slipper snails and similar animals](../../../glossary/limpetbarnacle.md)
+[how to tell apart limpets, slipper snails and similar animals](../../../glossary/limpetbarnacle)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

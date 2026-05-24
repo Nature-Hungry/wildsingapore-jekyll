@@ -59,7 +59,7 @@ links_references: |
   [The Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html)
   at Washington State University Tri-Cities Natural History Museum website: brief description and photos.
   - Family Solenidae in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   **References**
@@ -87,7 +87,7 @@ These almost cylindrical clams can move surprisingly quickly and are rarely seen
 Like other bivalves, razor clams are filter feeders. The buried clam sticks its long siphon out to the surface. When submerged, it sucks in a current of water through the siphon. It uses its enlarged gills to sieve food particles out of this current.
 **Human uses:**
 Larger razor shells are edible and are collected as food. Like other filter-feeding clams, however, razor clams may be affected by
-[red tide and other harmful algal blooms](../../../plants/seaweed/redtide.md)
+[red tide and other harmful algal blooms](../../../plants/seaweed/redtide)
 . Such clams can then be harmful to eat.
 
 **Species are difficult to positively identify without close examination.

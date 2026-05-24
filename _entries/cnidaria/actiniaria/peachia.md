@@ -159,11 +159,11 @@ This small burrowing anemone has a few fat tentacles that spread out flat on the
 Diameter with tentacles expanded 4-5cm. One ring of 16 tentacles that are thick at the base and tapering at the tips. It has a cream-coloured body column. It is usually seen with its tentacles flat on the surface, spaced out equally so that the anemone resembles a star. The oral disk and tentacles often have V-shaped chevron patterns in shades of white, pink, beige and brown. A structure of 3-5 bumps in the middle of the mouth that sometimes protrudes out of the mouth called a conchula. At low tide it tucks its tentacles into its body column so the animal resembles a white striped blob.
 
 **Sometimes mistaken for**
-[Brown peachia anemone](synpeachia.md)
+[Brown peachia anemone](synpeachia)
 (
 *Synpeachia temasek*
 ) which has a reddish-brown column, 20 tentacles, and a conchula. An 'uprooted' Peachia anemone is often mistaken for a sea cucumber or a worm. Here's more on
-[how to tell apart sausage-like creatures](../../glossary/sausage.md)
+[how to tell apart sausage-like creatures](../../glossary/sausage)
 .
 
 **Status and threats:**

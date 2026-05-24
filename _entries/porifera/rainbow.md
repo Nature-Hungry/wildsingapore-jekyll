@@ -74,7 +74,7 @@ A thin layer encrusting hard surface covering 10-20cm. Sometimes with with irreg
 
 **Spongey home:**
 A commensal
-[barnacle](../crustacea/othercrust/ciriipedia/cirripedia.md)
+[barnacle](../crustacea/othercrust/ciriipedia/cirripedia)
 (
 *Acasta dofleini*
 ) is reportedly sometimes seen living in this sponge.

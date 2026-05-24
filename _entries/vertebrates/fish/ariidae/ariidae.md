@@ -44,7 +44,7 @@ links_references: |
   **Links**
   - [Yellow Sea Catfish (
   *Arius venosus*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/223.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/223)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
@@ -110,7 +110,7 @@ previously known as
 The males usually carry the relatively large eggs in his mouth until the eggs hatch.
 
 **Sometimes mistaken for**
-[eel-tail catfishes](../plotosidae/plotosidae.md)
+[eel-tail catfishes](../plotosidae/plotosidae)
 . Eel-tail catfishes also have barbels but their tail fins are eel-like and not forked as in the sea catfishes.
 
 **What do they eat?**

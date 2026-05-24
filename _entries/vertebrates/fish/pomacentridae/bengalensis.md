@@ -85,7 +85,7 @@ links_references: |
   **Links**
   - [Bengal sergeant (
   *Abudefduf bengalensis*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/339.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/339)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
@@ -126,7 +126,7 @@ This fish in pajamas is sometimes seen in small groups in pools at low tide on s
 ## Features
 
 To about 14cm, those seen on the intertidal are much smaller, about 4-6cm long. Head and body white, with 6-7 black narrow bars across a yellowish body. Sometimes grey bars. The tail has rounded lobes (not pointed) and is plain (there are no horizontal black stripes). There is no spot near the base of the tail. More on
-[how to tell apart sergeants](pomacentridae.md)
+[how to tell apart sergeants](pomacentridae)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

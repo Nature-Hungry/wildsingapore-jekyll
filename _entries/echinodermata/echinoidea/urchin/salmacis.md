@@ -64,7 +64,7 @@ links_references: |
   **Links**
   - [Banded urchin (
   *Salmacis*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/223.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/223)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *A Guide to Seashore Life*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -110,9 +110,9 @@ It eats seaweeds.
 Despite being prickly, come animals can eat them. Examination of tests (skeleton of a dead sea urchin) suggest that large snails might prey on them.
 Other animals
 live on the urchin, including
-[Parasitic snails](../../../mollusca/gastropoda/eulimidae/eulimidae.md)
+[Parasitic snails](../../../mollusca/gastropoda/eulimidae/eulimidae)
 , the Zebra crab and sometimes, the
-[Urchin-mouth worm](../../../worm/polychaeta/oxydromus.md)
+[Urchin-mouth worm](../../../worm/polychaeta/oxydromus)
 is found curled around the mouth.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
@@ -144,13 +144,13 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
 
 **Family Temnopleuridae**
 
-*[Salmacis bicolor](bicolor.md)
+*[Salmacis bicolor](bicolor)
 
 Salmacis dussumieri=**Salmaciella dussumieri
 
-[Salmacis sphaeroides](sphaeroides.md)
+[Salmacis sphaeroides](sphaeroides)
 
-[Salmacis virgulata](virgulata.md)*
+[Salmacis virgulata](virgulata)*
 
 ---
 

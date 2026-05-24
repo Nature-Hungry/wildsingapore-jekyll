@@ -72,7 +72,7 @@ This pale blue prickly encrusting sponge is sometimes seen on our Southern shore
 Small, covering an area of 10-15cm. Surface texture prickly, the prickles forming clusters or ridges. Some tiny holes sprinkled on the surface. Colours greyish blue to bright blue.
 
 Are these young
-[Silvery blue sponges](spatula.md)
+[Silvery blue sponges](spatula)
 (
 *Lamellodysidea herbacea*
 ) that have yet to develop protruding portions?

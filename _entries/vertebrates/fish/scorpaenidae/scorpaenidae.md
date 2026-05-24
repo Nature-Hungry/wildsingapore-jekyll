@@ -133,11 +133,11 @@ A scorpionfish uses its venom only for protection and not to catch or kill prey.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Scorpionfish mimic:**
 The
-[False scorpionfish](../centrogenyidae/vaigiensis.md)
+[False scorpionfish](../centrogenyidae/vaigiensis)
 (
 *Centrogenys vaigiensis*
 ) looks and behaves like a scorpionfish but belong to the Family Serranidae which includes groupers. By mimicking the more venomous scorpionfishes, the false scorpionfish probably manages to discourage most predators. Here's more on
-[how to tell apart fishes that look like stones](../cfstonefish.md)
+[how to tell apart fishes that look like stones](../cfstonefish)
 .
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**What do they eat?**
@@ -184,17 +184,17 @@ from Ng, P. K. L. & Y. C. Wee, 1994.
 
 Dendrochirus zebra*
 
-*[Parascorpaena picta](picta.md)*
+*[Parascorpaena picta](picta)*
 (Painted scorpionfish)
-*[Pterois](pterois.md)*
-[sp.](pterois.md)
+*[Pterois](pterois)*
+[sp.](pterois)
 (Lionfish) with species recorded for Singapore.
 *Scorpaenodes guamensis
 
 Scorpaenopsis cirrosa
 
 +
-[Scorpaenopsis diabolus](diabolus.md)*
+[Scorpaenopsis diabolus](diabolus)*
 (False scorpionfish)
 *Scorpaenopsis gibbosa
 
@@ -211,7 +211,7 @@ Sebastapistes tristis=**Sebastapistes strongia*
 
 Paracentropogon leucoprosopon
 
-[Paracentropogon longispinis](longispinis.md)*
+[Paracentropogon longispinis](longispinis)*
 (Longspined waspfish)
 *Paracentropogon bandanensis*
 **
@@ -219,7 +219,7 @@ Paracentropogon leucoprosopon
 (Mangrove waspfish)
 
 ****now
-[Family Synanceiidae](../synanceiidae/horrida.md)
+[Family Synanceiidae](../synanceiidae/horrida)
 (stonefishes)**
 
 *Chloridactylus multibarbis=**Choridactylus multibarbus*

@@ -36,7 +36,7 @@ links_references: |
   **Links**
   - [Lenggadai (
   *Bruguiera parviflora*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/1055.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/1055)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)
   I (Plant Diversity)*
@@ -44,7 +44,7 @@ links_references: |
   - [*Bruguiera parviflora*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=6265)
   on the NParks Flora and Fauna website: photos and fact sheet.
   - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.md)
+  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
   (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
   - [*Bruguiera parviflora*](http://www.iucnredlist.org/apps/redlist/details/178821/0)
   on the IUCN Red list website: detailed fact sheet.

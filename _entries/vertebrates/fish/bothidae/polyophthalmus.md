@@ -72,11 +72,11 @@ To about 17cm. Eyes on the left side. Body oval almost circular, it has a tiny p
 
 **Sometimes confused with**
 other
-[flatfishes](../pleuronectiformes/pleuronectiformes.md)
+[flatfishes](../pleuronectiformes/pleuronectiformes)
 . The
-[Large-toothed flounder](../paralichthyidae/paralichthyidae.md)
+[Large-toothed flounder](../paralichthyidae/paralichthyidae)
 (Family Paralichthyidae) looks very similar but is more oval and has more smaller spots. Here's more on
-[how to tell apart the flatfish families](../pleuronectiformes/pleuronectiformes1.md)
+[how to tell apart the flatfish families](../pleuronectiformes/pleuronectiformes1)
 commonly seen.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

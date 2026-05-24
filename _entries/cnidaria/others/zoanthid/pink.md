@@ -71,7 +71,7 @@ Forming cushions or carpets on coral rubble.
 Colonies 10-15cm, each polyp about 1cm in diameter. Body column greyish blue. Bright pink ring around the top of the body column, most obvious when the tentacles are tucked into the body.
 
 More about
-[button zoanthids in general](zoanthus.md)
+[button zoanthids in general](zoanthus)
 .
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}**Species are difficult to positively identify without close examination.*

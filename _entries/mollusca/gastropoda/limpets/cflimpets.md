@@ -43,7 +43,7 @@ galleries:
 
 **Limpets Look-alike**
 Different kinds of
-[limpets](limpet.md)
+[limpets](limpet)
 may look very similar from above, especially when the shell is covered with encrusting algae or organisms. But they look very different underneath. Please don't pry limpets off the rocks. They cling so tightly that you will hurt them if you do so. These photos were taken by gently encouraging the limpets to move onto the glass.
 
 ---
@@ -57,4 +57,4 @@ may look very similar from above, especially when the shell is covered with encr
 ---
 
 how to tell apart
-[animals with conical shells found on rocks](../../../glossary/limpetbarnacle.md)
+[animals with conical shells found on rocks](../../../glossary/limpetbarnacle)

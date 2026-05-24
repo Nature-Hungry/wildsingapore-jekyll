@@ -108,7 +108,7 @@ links_references: |
   **Links**
   - [Ghost Crab (
   *Ocypoda*
-  sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/191.md)
+  sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/191)
   with brief details on
   *Ocypode ceratophthalmus*
   and
@@ -181,7 +181,7 @@ Ghost crabs are well adapted for life out of water and are among the few marine 
 
 **Similar to**
 the
-[Smooth-eyed ghost crab](cordimanus.md)
+[Smooth-eyed ghost crab](cordimanus)
 (
 *Ocypode cordimanus*
 ) which is rarely encountered.

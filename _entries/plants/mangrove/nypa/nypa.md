@@ -54,19 +54,19 @@ links_references: |
   (Arecales: Arecaceae) Nipah Palm by Erika I. Halim, 2013 on taxo4254.
   - [Nipah (
   *Nypa fruticans*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/1068.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/1068)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)
   I (Plant Diversity)*
   . Singapore Science Centre. 168 pp.
   - [Nipah or Attap Palm (
   *Nypa fruticans*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/109.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/109)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
   - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.md)
+  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
   (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
   
   **References**
@@ -104,7 +104,7 @@ Fruits are chestnut brown, in cluster forming a globular shape (20-25cm). Each f
 
 **Human uses:**
 The Nipah palm is among the more commercially valuable plants of the mangroves. The leaves are used as thatch for 'attap' huts, the immature seed (endosperm) is harvested as a jellylike sweetmeat called 'attap-chee' and is a favourite in local desserts. The sap is extracted from the inflorescence and when fermented, is called 'toddy', a local alcoholic drink. The
-[Common palm civet](../../../vertebrates/mammals/hermaphroditus.md)
+[Common palm civet](../../../vertebrates/mammals/hermaphroditus)
 (
 *Paradoxurus hermaphroditus*
 ) is known to 'steal' a drink of the sap. This civet is thus also known as the Toddycat.

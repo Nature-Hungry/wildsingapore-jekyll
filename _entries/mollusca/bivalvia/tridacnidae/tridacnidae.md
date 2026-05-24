@@ -79,7 +79,7 @@ links_references: |
   **Links**
   - [Giant Clam (
   *Tridacna squamosa*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/267.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/267)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -93,7 +93,7 @@ links_references: |
   [The Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html)
   at Washington State University Tri-Cities Natural History Museum website: brief description and photos.
   - Family Tridacnidae in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
   - [Do Giant clams trap divers in their shells?](http://psychedelic-nature.blogspot.com/2008/11/is-this-true.html)
   this myth dispelled on the Psychedelic Nature blog..
@@ -144,7 +144,7 @@ These enormous clams are sometimes seen on our undisturbed Southern shores. Some
 
 **What are giant clams?**
 Giant clams belong to
-[Family Cardiidae](../cardiidae/cardiidae.md)
+[Family Cardiidae](../cardiidae/cardiidae)
 (True cockles), subfamily Tridacninae. Previously, it was placed in Family Tridacnidae.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 ## Features
@@ -171,7 +171,7 @@ Giant clams are considered a delicacy and in some places, an aphrodisiac. The la
 
 **Status and threats:**
 Giant clams have been listed in CITES Appendix II since 1985. The
-[Fluted giant clam](squamosa.md)
+[Fluted giant clam](squamosa)
 (
 *Tridacna squamosa*
 ) is listed as 'Endangered' on the Red List of threatened animals of Singapore. According to the Singapore Red Data Book: "Large specimens have virtually disappeared from our shores. Young specimens are occasionally but infrequently seen". Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection can also affect local populations of young clams.
@@ -231,11 +231,11 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 
 *Hippopus hippopus (EN: Endangered)
 
-[Tridacna crocea](crocea.md)*
+[Tridacna crocea](crocea)*
 (Burrowing giant clam) (EN: Endangered)
 *Tridacna maxima*
 (EN: Endangered)
-*[Tridacna squamosa](squamosa.md)*
+*[Tridacna squamosa](squamosa)*
 (Fluted giant clam) (EN: Endangered)
 
 ---

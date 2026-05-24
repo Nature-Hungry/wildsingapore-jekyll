@@ -216,9 +216,9 @@ Long tentacles (5-8cm) densely cover the oral disk. The tentacles are finger-lik
 
 **Sometimes confused with**
 other large sea anemones and similar large cnidarians. Here's more on how to tell apart
-[large sea anemones with long tentacles](cfbiglong.md)
+[large sea anemones with long tentacles](cfbiglong)
 and
-[large 'hairy' cnidarians](../cflargecnidarians.md)
+[large 'hairy' cnidarians](../cflargecnidarians)
 .
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
@@ -227,17 +227,17 @@ The Magnificent anemone harbours symbiotic algae (called zooxanthellae) that pho
 
 Several kinds of animals may live happily among and unharmed by the tentacles of the Magnificent anemone. These include A
 nemone shrimps like the
-[Peacock-anemone anemone shrimp](../../crustacea/othercrust/shrimp/brevicarpalis.md)
+[Peacock-anemone anemone shrimp](../../crustacea/othercrust/shrimp/brevicarpalis)
 (
 *Periclimenes brevicarpalis*
 ) and
 fishes such as
 *Dascyllus trimaculatus*
 and
-[anemonefishes](../../vertebrates/fish/pomacentridae/amphiprion.md)
+[anemonefishes](../../vertebrates/fish/pomacentridae/amphiprion)
 including
 *A. akallopisos, A. bicinctus, A. clarkii, A. nigripes,
-[A. ocellaris](../../vertebrates/fish/pomacentridae/ocellaris.md)*
+[A. ocellaris](../../vertebrates/fish/pomacentridae/ocellaris)*
 (Clown anemonefish)
 *, A. percula, A. perideraion, A. xanthurus.*
 

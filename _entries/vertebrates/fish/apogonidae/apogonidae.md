@@ -175,7 +175,7 @@ As a group they eat a wide variety from small fishes, crabs, prawns and other ti
 Some species of cardinalfish like the Five-lined Cardinalfish (
 *Cheilodipterus quinquelineatus*
 ) and
-[Orbicular cardinalfish](orbicularis.md)
+[Orbicular cardinalfish](orbicularis)
 (
 *Sphaemaria orbicularis*
 ) are popular in the live aquarium trade. Some are being successfuly bred in captivity.
@@ -199,7 +199,7 @@ from Heok Hee Ng and Kelvin K. P. Lim. 2014. A preliminary checklist of the card
 
 *Apogon crassiceps
 
-[Apogonichthyoides melas](melas.md)*
+[Apogonichthyoides melas](melas)*
 (Black cardinalfish)
 *Apogonichthyoides niger
 
@@ -241,13 +241,13 @@ Ostorhinchus compressus
 
 +Ostorhinchus cookii*
 (Cook's cardinalfish)
-*[Ostorhinchus endekataenia](candystripe.md)*
+*[Ostorhinchus endekataenia](candystripe)*
 (Candystripe cardinalfish)
 *Ostorhinchus fasciatus
 
 +Ostorhinchus fleurieu
 
-[Ostorhinchus margaritophorus](margaritophorus.md)*
+[Ostorhinchus margaritophorus](margaritophorus)*
 (Chequered cardinalfish)
 *+Ostorhinchus nanus
 
@@ -269,7 +269,7 @@ Siphamia tubifer
 
 Sphaeramia nematoptera*
 (Pajama cardinalfish)
-*[Sphaeramia orbicularis](orbicularis.md)*
+*[Sphaeramia orbicularis](orbicularis)*
 (Orbicular cardinalfish)
 
 *Taeniamia fucata*

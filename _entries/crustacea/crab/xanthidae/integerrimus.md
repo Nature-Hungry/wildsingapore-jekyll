@@ -208,9 +208,9 @@ links_references: |
   **Links**
   - [Red Egg Crab (
   *Atergatis integerrimus*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/209.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/209)
   ,
-  [Poisonous Xanthid Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/252.md)
+  [Poisonous Xanthid Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/252)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -272,19 +272,19 @@ This colourful round crab can be very commonly seen on many of our shores in cor
 ## Features
 
 Body width 8-10cm. Body oval somewhat egg-shaped body with a smooth edge (not 'toothed'). Reddish brown, orangey to bright red, usually with scattered white spots. Juveniles have a white margin around the body. Large pincers both about equal in size, smooth (no pimples) with black tips that are spoon-shaped. Males may have larger pincers. Walking legs not hairy. Juveniles are light brown with a white band around the edge of the body. Like most other Xanthid crabs, it is
-[highly poisonous](xanthidae.md)
+[highly poisonous](xanthidae)
 and should not be eaten.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Sometimes mistaken for**
-[Stone crabs](../menippidae/hardwicki.md)
+[Stone crabs](../menippidae/hardwicki)
 (
 *Myomenippe hardwicki*
 ) and
-[Maroon stone crab](rumphii.md)
+[Maroon stone crab](rumphii)
 (
 *Menippe rumphii*
 ). Here's more on how to tell apart
-[big crabs with big pincers](../../bigpincer.md)
+[big crabs with big pincers](../../bigpincer)
 seen on the rocky shores and coral rubble.
 
 **Status and threats:**

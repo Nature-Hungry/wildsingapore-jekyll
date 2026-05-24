@@ -64,11 +64,11 @@ links_references: |
   **Links**
   - [Mangrove tree-dwelling crab (
   *Selatium brockii*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2050.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2050)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
-  - [*Selatium brockii*](http://mangrove.nus.edu.sg/pub/seashore/text/199.md)
+  - [*Selatium brockii*](http://mangrove.nus.edu.sg/pub/seashore/text/199)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.

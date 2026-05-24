@@ -58,7 +58,7 @@ galleries:
       Photo shared by Rachael Goh on facebook .
 links_references: |
   **Links**
-  - [Swimming crabs (Family Portunidae)](http://mangrove.nus.edu.sg/pub/seashore/text/201.md)
+  - [Swimming crabs (Family Portunidae)](http://mangrove.nus.edu.sg/pub/seashore/text/201)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -71,7 +71,7 @@ links_references: |
   - [*Charybdis feriatus*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1120)
   on Crabs of Japan in Marine Species Identification Portal: Technical fact sheet.
   - Family Portunidae in the Crabs section by Peter K. L. Ng in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 2: Cephalopods, crustaceans, holothurians and sharks](http://www.fao.org/docrep/009/w7192e/w7192e00.md)
+  [Volume 2: Cephalopods, crustaceans, holothurians and sharks](http://www.fao.org/docrep/009/w7192e/w7192e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
   - [Crucifix Crab,
   *Charybdis feriatus*

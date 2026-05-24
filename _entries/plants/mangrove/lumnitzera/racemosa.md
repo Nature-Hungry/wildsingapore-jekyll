@@ -38,13 +38,13 @@ links_references: |
   on the NParks Flora and Fauna website: photos and fact sheet.
   - [Teruntum bunga puteh (
   *Lumnitzera racemosa*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/1066.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/1066)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)
   I (Plant Diversity)*
   . Singapore Science Centre. 168 pp.
   - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.md)
+  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
   (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
   
   **References**
@@ -70,7 +70,7 @@ links_references: |
 
 ## Where seen?
 This pretty plant with plasticky leaves and tiny white flowers is sometimes seen in our mangroves. It is found in the back mangroves, preferring sandy or hard mud areas. Also on shores and waterways with freshwater influence. It can tolerate more saline conditions than
-[Teruntum merah](littorea.md)
+[Teruntum merah](littorea)
 (
 *Lumnitzera littorea*
 ). There are some large old trees at Kranji Nature Trail.
@@ -84,7 +84,7 @@ Leaves spoon-shaped (2-10cm), scalloped edge and a small notch at the tip, thick
 The small fruits are ribbed, fibrous and float, and dispersed by water. Each fruit contains one seed.
 
 **Sometimes mistaken for**
-[Chengam](../scyphiphora/hydrophyllacea.md)
+[Chengam](../scyphiphora/hydrophyllacea)
 (
 *Scyphiphora hydrophyllacea*
 ).
@@ -97,7 +97,7 @@ practically exclude each other in habitat and have never been collected in exact
 
 **Human uses:**
 According to Burkill, the timber has similar properties as that of
-[Teruntum merah](littorea.md)
+[Teruntum merah](littorea)
 (
 *Lumnitzera littorea*
 ) but because it is a smaller plant it is less useful.

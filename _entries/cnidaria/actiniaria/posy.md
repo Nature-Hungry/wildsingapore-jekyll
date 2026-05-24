@@ -99,9 +99,9 @@ and
 .
 *Isactinia citrina*
 can also look like
-[Neon anemones](neon.md)
+[Neon anemones](neon)
 . While
-[White tipped corallimorphs](../others/corallimorphs/whitetip.md)
+[White tipped corallimorphs](../others/corallimorphs/whitetip)
 can also look similar.
 
 **Status and threats:**

@@ -44,9 +44,9 @@ galleries:
     caption: Eating the algae growing on seaweed. St. John's Island, Sep 07
 links_references: |
   **Links**
-  - [*Euplica scripta*](http://seashellsofnsw.org.au/Columbellidae/Pages/Euplica_scripta.md)
+  - [*Euplica scripta*](http://seashellsofnsw.org.au/Columbellidae/Pages/Euplica_scripta)
   on
-  [The Seashells of New South Wales](http://seashellsofnsw.org.au/index.md)
+  [The Seashells of New South Wales](http://seashellsofnsw.org.au/index)
   by Des Beechey Research Associate, Australian Museum: family introductions with photos of shells and detailed fact sheets for many species.
   - [*Euplica scripta*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=102089)
   on SeaLife Base: Technical fact sheet.
@@ -77,9 +77,9 @@ location:
 
 ## Where seen?
 This little snail is sometimes seen in numbers on some of our shores. Usually on large seagrasses (such as
-[Tape seagrass](../../../plants/seagrass/enhalus.md)
+[Tape seagrass](../../../plants/seagrass/enhalus)
 ) and large seaweeds (such as
-[Sargassum](../../../plants/seaweed/phaeophyta/sargassum.md)
+[Sargassum](../../../plants/seaweed/phaeophyta/sargassum)
 ). Sometimes many can be seen well dispersed among these leafy lifeforms. It was also known as
 *Columbella versicolor, Pyrene versicolor*
 and

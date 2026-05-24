@@ -76,9 +76,9 @@ links_references: |
   (Asphidochirotida: Stichopodidae) Hermann's Sea Cucumber by Carmon Kee, 2012 on taxo4254.
   - *Stichopus herrmanni*
   on
-  [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00.md)
+  [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00)
   , by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
-  - [Fisheries, trade and utilization of sea cucumbers in Malaysia](http://www.fao.org/docrep/007/y5501e/y5501e0b.md)
+  - [Fisheries, trade and utilization of sea cucumbers in Malaysia](http://www.fao.org/docrep/007/y5501e/y5501e0b)
   by Choo Poh-Sze WorldFish Center, Penang, Malaysia on the FAO website.
   - [Malaysia lists 'gamat' sea cucumbers as endangered](http://wildshores.blogspot.com/2009/03/malaysia-lists-gamat-sea-cucumbers-as.html)
   on the wild shores of singapore blog with an article about the trade in gamat on Pulau Langkawi.

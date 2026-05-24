@@ -47,13 +47,13 @@ links_references: |
   **Links**
   - [Spotted Green Puffer (
   *Tetraodon nigroviridis*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/398.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/398)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
   - [Spotted green puffer (
   *Tetraodon nigroviridis*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2108.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2108)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp

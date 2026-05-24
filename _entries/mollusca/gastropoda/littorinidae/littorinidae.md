@@ -71,11 +71,11 @@ links_references: |
   **Links**
   - [Mangrove periwinkle (
   *Littoraria*
-  sp.)](http://mangrove.nus.edu.sg/guidebooks/text/2080.md)
+  sp.)](http://mangrove.nus.edu.sg/guidebooks/text/2080)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
-  - [Periwinkle Shells (Family Littorinidae)](http://mangrove.nus.edu.sg/pub/seashore/text/137.md)
+  - [Periwinkle Shells (Family Littorinidae)](http://mangrove.nus.edu.sg/pub/seashore/text/137)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *A Guide to Seashore Life*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -86,7 +86,7 @@ links_references: |
   [Life on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1.html)
   by Keith Davey on the Marine Education Society of Australia website: Fact sheet on these shells and details on various species found in Australia.
   - Family Littorinidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
   - [How does a periwinkle survive out of water if it has gills?](http://www.madsci.org/posts/archives/aug97/872032656.Zo.r.html)
   on the Mad Scientist Network website: a lovely answer that explains how gills and lungs work.
@@ -139,7 +139,7 @@ Periwinkles sprinkle the rocks on many of our shores. They appear dead but are v
 
 Small but resilient snails, periwinkles can breathe air so they are among the most common snails seen on the rocks above the high tide line. Large groups of periwinkles often form a horizontal band on the rocks as they move with the tides. Some larger periwinkles are found on mangrove trees, clinging on to roots, trunk and even leaves.
 Among the hardiest of these must be the tiny
-[Knobbly periwinkles](nodilittorina.md)
+[Knobbly periwinkles](nodilittorina)
 .
 
 ## Features
@@ -183,15 +183,15 @@ from Tan Siong Kiat and Henrietta P. M. Woo, 2010
 
 On this website, they are grouped by external features for convenience of display*
 
-[Mangrove periwinkles](mangrove.md)
+[Mangrove periwinkles](mangrove)
 
-[Rock periwinkles](rock.md)
+[Rock periwinkles](rock)
 
-[Round periwinkles](round.md)
+[Round periwinkles](round)
 
 **Family Littorinidae**
 
-*[Echinolittorina malaccana](nodilittorina.md)*
+*[Echinolittorina malaccana](nodilittorina)*
 (Knobbly periwinkle snail)
 *=Nodilittorina trochoides*
 *Echinolittorina melanacme
@@ -207,7 +207,7 @@ Littoraria carinifera*
 
 Littoraria lutea
 
-[Littoraria melanostoma](melanostoma.md)*
+[Littoraria melanostoma](melanostoma)*
 (Black-mouth mangrove periwinkle snail)
 *Littoraria pallescens
 

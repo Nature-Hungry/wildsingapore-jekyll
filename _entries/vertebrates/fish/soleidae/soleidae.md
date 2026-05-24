@@ -124,7 +124,7 @@ links_references: |
   from
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet.
-  - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.md)
+  - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
   - [How to avoid being eaten by a shark](http://wildshores.blogspot.com/2008/09/how-to-avoid-being-eaten-by-shark.html)
   on the wild shores of singapore blog: about the toxin produced by the Moses sole.
@@ -156,14 +156,14 @@ location:
 Some of these flatfishes really do look like the sole of a shoe! Others have pretty patterns. They are often seen on our Northern shores, sometimes also on our Southern shores. Usually in sandy areas near seagrass meadows.
 **What are soles?**
 Soles are
-[flatfishes](../pleuronectiformes/pleuronectiformes.md)
+[flatfishes](../pleuronectiformes/pleuronectiformes)
 that belong to the Family Soleidae. According to
 [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=441)
 : the family has 22 genera and 89 species. They are found mainly from Europe to Australia and Japan. The Latin 'solea' means 'sandal'.
 ## Features
 
 10-30cm. Eyes small and on the right side. The head is small. In some species, the tail fin separate from the dorsal and anal fins. In others, such as
-[Commerson's sole](commersoniana.md)
+[Commerson's sole](commersoniana)
 (
 *Synaptura commersoniana*
 ), the tail fins are joined to the dorsal and anal fins. The fins lack spines. These bottom-dwelling fishes over 'walk' over the sand by undulating their fins (
@@ -173,7 +173,7 @@ that belong to the Family Soleidae. According to
 Snout sometimes hook-shaped. Scales relatively large and sometimes modified into skin flaps fringed with sensory filaments. Colours on the eyed side highly variable depending on the surroundings. May be uniformly brown to patterned with scattered dark spots or blotches.
 
 Some soles such as the
-[Peacock sole](pavoninus.md)
+[Peacock sole](pavoninus)
 (
 *Pardachirus pavoninus*
 ) have toxin glands that produce a distasteful substance. The Moses sole (
@@ -182,9 +182,9 @@ Some soles such as the
 
 **Sometimes confused with**
 other
-[flatfishes](../pleuronectiformes/pleuronectiformes.md)
+[flatfishes](../pleuronectiformes/pleuronectiformes)
 . Here's more on
-[how to tell apart the flatfish families](../pleuronectiformes/pleuronectiformes1.md)
+[how to tell apart the flatfish families](../pleuronectiformes/pleuronectiformes1)
 commonly seen.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **What do they eat?**
@@ -226,14 +226,14 @@ Aseraggodes melanospilus=**Liachirus melanospilos
 
 Brachirus albomaculata=**Synaptura albomaculata
 
-[Brachirus orientalis](orientalis.md)*
+[Brachirus orientalis](orientalis)*
 (Oriental sole)
-*[Pardachirus pavoninus](pavoninus.md)*
+*[Pardachirus pavoninus](pavoninus)*
 (Peacock sole)
 **
-[Solea ovata](ovata.md)*
+[Solea ovata](ovata)*
 (Ovate sole)
-*[Synaptura commersonnii](commersonnii.md)*
+*[Synaptura commersonnii](commersonnii)*
 (Commerson's sole)
 *Synaptura pan=**Brachirus pan
 
@@ -243,7 +243,7 @@ Synaptura quagga=**Zebrias quagga
 
 Synaptura zebra=**Zebrias zebra
 
-[Zebrias zebra](zebra.md)*
+[Zebrias zebra](zebra)*
 (Zebra sole)
 
 ---

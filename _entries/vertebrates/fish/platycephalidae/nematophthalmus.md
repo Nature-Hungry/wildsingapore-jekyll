@@ -122,7 +122,7 @@ links_references: |
   **Links**
   - [Fringe-eyed Flathead (
   *Cymbacephalus nematophthalmus*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/260.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/260)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
@@ -169,7 +169,7 @@ Those seen 6-20cm, but said to reach up to 58cm. Tiny ones about 2cm long have a
 for other flatheads in the Family such as
 *Thysanophrys*
 sp. As well as other flattened fishes that live on the sea bottom. Here's more on
-[how to tell apart fishes with flat heads](../cfflatheads.md)
+[how to tell apart fishes with flat heads](../cfflatheads)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

@@ -48,7 +48,7 @@ links_references: |
   - [Family Architectonicidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Architectonicidae.html)
   on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief fact sheet with photos.
   - Family Architectonicidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   **References**
@@ -93,7 +93,7 @@ They are occasionally collected by shrimp trawlers, consumed by fishermen and us
 
 **Status and threats:**
 The
-[Clear sundial snail](perspectiva.md)
+[Clear sundial snail](perspectiva)
 is listed as 'Endangered' in the Red List of threatened animals of Singapore. The original shores where they were found have been lost to reclamation.
 
 ---
@@ -119,9 +119,9 @@ Nature Society (Singapore). 285 pp.
 
 **Family Architectonicidae**
 
-*[Architectonica perdix](perdix.md)*
+*[Architectonica perdix](perdix)*
 (Partridge sundial snail)
-*[Architectonica perspectiva](perspectiva.md)*
+*[Architectonica perspectiva](perspectiva)*
 (Clear sundial snail) (EN: Endangered)
 *Heliacus caelatus
 
@@ -130,7 +130,7 @@ Heliacus costatus
 Heliacus stramineus*
 
 +
-*[Heliacus variegatus](variegatus.md)*
+*[Heliacus variegatus](variegatus)*
 (Variegated sundial snail)
 
 ---

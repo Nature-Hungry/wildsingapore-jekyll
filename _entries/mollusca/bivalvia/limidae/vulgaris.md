@@ -82,14 +82,14 @@ links_references: |
   on SeaLife Base: Technical fact sheet.
   - [File shells (
   *Lima lima*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/162.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/162)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
   - Common file clam (
   *Lima vulgaris*
   ) in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   **References**
@@ -122,7 +122,7 @@ This clam is sometimes seen are attached to rocks and underside of stones and co
 
 4- 6cm. The two-part shell is thick with clear ridges, usually white or yellowish. The valves can close completely, with the tentacles retracted. Tentacles long, usually pale without markings.
 These tentacles are sticky and can break off if the animal is distressed. The animal can swim by 'clapping' its valves, but it is not as active as the
-[Swimming file clam](limaria.md)
+[Swimming file clam](limaria)
 (
 *Limaria*
 sp.).

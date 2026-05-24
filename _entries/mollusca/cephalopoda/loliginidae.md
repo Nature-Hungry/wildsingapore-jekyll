@@ -120,11 +120,11 @@ from Tan Siong Kiat and Henrietta P. M. Woo, 2010
 
 *+Loliolus*
 sp.
-*[Sepioteuthis lessoniana](sqbigfin.md)*
+*[Sepioteuthis lessoniana](sqbigfin)*
 (Bigfin reef squid)
 *Uroteuthis chinensis
 
-[Uroteuthis duvaucelii](sqindian.md)*
+[Uroteuthis duvaucelii](sqindian)*
 (Indian squid)
 *Uroteuthis sibogae*
 

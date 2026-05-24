@@ -90,7 +90,7 @@ location:
 
 ## Where seen?
 This tiny anemone is sometimes seen stuck onto shells occupied by living snails such as
-[whelks](../../mollusca/gastropoda/nassariidae/nassariidae.md)
+[whelks](../../mollusca/gastropoda/nassariidae/nassariidae)
 (Family Nassaridae). Sometimes also seen attached to tiny stones in silty sandy shores. They are more frequently encountered on our Northern shores, but also sometimes seen on other shores.
 
 ## Features
@@ -100,7 +100,7 @@ Sometimes, a pair of tentacles are of a contrasting colour so that the anemone a
 Body column brown with pale stripes. Sometimes, a single single shell may bear two or three of these anemones. When full expanded, these anemone hitch-hikers may be bigger than the snail they are riding on!
 
 There are also small anemones that hitch a ride on
-[a shell occupied by a hermit crab](hermitsmall.md)
+[a shell occupied by a hermit crab](hermitsmall)
 .
 
 **Status and threats:**

@@ -114,7 +114,7 @@ location:
 
 ## Where seen?
 This seagrass only abundant on Labrador, which has quite a large patch. On Chek Jawa, it is found in small patches. The
-[preliminary results of a transact survey of Chek Jawa](http://www.naturia.per.sg/cjsurvey/vegetative/text/thalassia%20hemprichii.md)
+[preliminary results of a transact survey of Chek Jawa](http://www.naturia.per.sg/cjsurvey/vegetative/text/thalassia%20hemprichii)
 suggest it is found mainly in the centre of the seagrass lagoon there. On some of our Southern Islands, there are also scattered patches of this seagrass.
 
 Sickle seagrass is found throughout the tropical Indo-West Pacific region. A firmly-anchored seagrass, it can form large beds. It is found from shallow subtidal areas to 10m and deeper. It does not tolerate long periods of exposure and does not appear to do well in areas with freshwater runoff.
@@ -128,7 +128,7 @@ This seagrass has separate male and female plants. The flowers form at the base 
 
 **Sometimes confused with**
 other ribbon-like seagrasses. Here's more on
-[how to tell apart ribbon-like seagrasses](cfribbon.md)
+[how to tell apart ribbon-like seagrasses](cfribbon)
 .
 
 **Role in the habitat:**

@@ -83,7 +83,7 @@ species. Colours include orange, yellow, red, beige and white.
 
 **Looks similar to**
 the
-[Golf ball sponge](golfball.md)
+[Golf ball sponge](golfball)
 which has a denser coat of finer spines without bulbous tips and which never have stringy tissues to anchor the sponge to the surface.
 
 ![](http://www.wildsingapore.com/wildfacts/porifera/ballprickly/040409tusbd0078m3.jpg)

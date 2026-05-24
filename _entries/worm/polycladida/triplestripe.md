@@ -120,7 +120,7 @@ Worms with only the centre line clear while the outer two lines are faded may be
 
 **Sometimes mistaken for**
 the
-[Ocher-striped flatworm](rubrotentaculatus.md)
+[Ocher-striped flatworm](rubrotentaculatus)
 which also has three lines in the centre of the body, but the lines are bordered dark brown or purplish brown.
 
 According to Rene Ong, this flatworm resembles
@@ -133,7 +133,7 @@ in Singapore.
 
 **Sometimes mistaken for**
 similar flatworms. Here's more on how to tell apart small flatworms with
-[one central line and three central lines](cfstriped.md)
+[one central line and three central lines](cfstriped)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

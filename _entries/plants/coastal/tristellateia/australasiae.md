@@ -63,7 +63,7 @@ Growing wild in a mangrove
 *Kranji Nature Trail, Dec 09*
 
 **Sometimes confused with**
-[Kuku tupai](../caesalpinia/crista.md)
+[Kuku tupai](../caesalpinia/crista)
 (
 *Caesalpinia crista*
 ) when in bloom.

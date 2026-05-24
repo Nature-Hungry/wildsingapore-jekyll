@@ -106,9 +106,9 @@ are called sweetlips because of their thick lips.
 ## Features
 
 Most sweetlips go through elaborate colour changes as they mature. The juveniles are often boldly spotted or striped, growing up to become adults that are totally different; usually plain with small spots or many thin lines. Some young sweetlips like the
-[Harlequin sweetlips](chaetodonoides.md)
+[Harlequin sweetlips](chaetodonoides)
 and
-[Painted sweetlips](pictum.md)
+[Painted sweetlips](pictum)
 typically swim by 'wagging' their large tails resulting in a twisting motion.
 
 **What do they eat?**
@@ -143,17 +143,17 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
 **Family Haemulidae**
 
 **
-[Diagramma pictum](pictum.md)*
+[Diagramma pictum](pictum)*
 (Painted sweetlips or Kachi)
 **
 *Hapalogenys analis*
-*[Plectorhinchus chaetodonoides](chaetodonoides.md)*
+*[Plectorhinchus chaetodonoides](chaetodonoides)*
 (Harlequin sweetlips)
 *+Plectorhincus chrysotaeni*
 (Gold-lined sweetlips)
 *Plectorhinchus cinctus
 
-[Plectorhinchus gibbosus](gibbosus.md)*
+[Plectorhinchus gibbosus](gibbosus)*
 (Brown sweetlips)
 *Plectorhinchus pictus
 

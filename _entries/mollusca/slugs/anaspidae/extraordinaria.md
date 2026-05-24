@@ -108,7 +108,7 @@ galleries:
       .
 links_references: |
   **Links**
-  - [Sea Slug Forum](http://www.seaslugforum.net/welcome.md)
+  - [Sea Slug Forum](http://www.seaslugforum.net/welcome)
   by Dr Bill Rudman: photos and fact sheet on
   *[Aplysia extraordinaria](http://www.seaslugforum.net/find/aplyextr)*
 

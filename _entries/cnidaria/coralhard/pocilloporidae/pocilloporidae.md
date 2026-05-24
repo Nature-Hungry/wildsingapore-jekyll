@@ -85,7 +85,7 @@ location:
 
 ## Where seen?
 The
-[Cauliflower coral](pocillopora.md)
+[Cauliflower coral](pocillopora)
 (
 *Pocillopora*
 sp.) is commonly seen on many of our Southern reefs.
@@ -136,8 +136,8 @@ on the
 
 **Family Pocilloporidae**
 
-*[Pocillopora](pocillopora.md)*
-[sp.](pocillopora.md)
+*[Pocillopora](pocillopora)*
+[sp.](pocillopora)
 (Cauliflower coral) with list of species recorded for Singapore
 *Seriatopora hystrix*
 (Thin birdnest coral)

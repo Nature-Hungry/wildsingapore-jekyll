@@ -200,11 +200,11 @@ Damselfishes vary widely in size, colour and shape. Some species can grow to 35c
 As a family, they eat a wide variety of things. Plankton-feeding damselfishes are believed to play an important role in reefs as they occur in such huge numbers that they effectively filter the currents. Damselfishes that feed on algae are often aggressively territorial, defending their feeding area from all intruders. These tiny damselfishes will vigorously harass larger fishes and even divers.
 
 According to Jeffrey Low on the Singapore Biodiversity Records: The sergeant damselfishes commonly seen on our shores have overlapping habitat and feeding requirements. The
-[Bengal sergeant](bengalensis.md)
+[Bengal sergeant](bengalensis)
 occurs singly or in small groups in inshore and lagoon coral reefs at depths of 1-6 m. It feeds on seaweed, snails and small crabs, and is highly territorial. The
-[Scissortail sergeant](sexfasciatus.md)
+[Scissortail sergeant](sexfasciatus)
 lives on coral or rocky reefs, and also in shallow reef flats or crests, at depths of 1-20 m, usually where tall soft coral or hydroid colonies are present. It often forms groups at midwater, high in the water column to feed on zooplankton and algae. The
-[Indo-pacific sergeant](vaigiensis.md)
+[Indo-pacific sergeant](vaigiensis)
 lives in the upper edge of outer reef slopes and inshore rocky reefs at depths of 1-15 m. Although tending feed on the bottom, eating algae and small invertebrates, it often forms groups in midwater to feed on zooplankton.
 
 **Damsel babies:**
@@ -213,7 +213,7 @@ In many species, a nest site is prepared by one or both partners. The eggs are a
 Many members of this family are harvested from the wild for the live aquarium trade. Harvesting tropical scorpionfishes for the live aquarium trade may involve the use of cyanide or blasting, which damage the habitat and kill many other creatures. Like other fish and creatures harvested for the live aquarium trade, most die before they can reach the retailers. Without professional care, most die soon after they are sold. Those that do survive are unlikely to breed successfully.
 
 **Status and threats:**
-[Anemonefishes](amphiprion.md)
+[Anemonefishes](amphiprion)
 of the Family Pomacentridae are listed among the threatened animals of Singapore. Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Overcollection by hobbyists and overfishing can also have an impact on local populations.
 
 ---
@@ -253,7 +253,7 @@ from
 
 Sergeant majors**
 
-*[Abudefduf bengalensis](bengalensis.md)*
+*[Abudefduf bengalensis](bengalensis)*
 (Bengal sergeant)
 *Abudefduf melas=**Neoglyphidodon melas
 
@@ -264,16 +264,16 @@ Sergeant majors**
 Abudefduf saxatillis*
 
 *
-*[Abudefduf sordidus](sordidus.md)*
+*[Abudefduf sordidus](sordidus)*
 (Black-spot sergeant)
-*[Abudefduf sexfasciatus](sexfasciatus.md)*
+*[Abudefduf sexfasciatus](sexfasciatus)*
 (Scissortail sergeant)
 
 *Abudefduf vaigiensis*
 (Indo-Pacific sergeant)
 
-*[Amphiprion](amphiprion.md)*
-[spp.](amphiprion.md)
+*[Amphiprion](amphiprion)*
+[spp.](amphiprion)
 (Clown anemonefishes) with list of species recorded for Singapore
 
 **Damselfishes**
@@ -294,17 +294,17 @@ Chromis cinerascens
 (Goldtail damselfish)
 *+Dascyllus reticulatus
 
-[Dascyllus trimaculatus](trimaculatus.md)*
+[Dascyllus trimaculatus](trimaculatus)*
 (Threespot dascyllus)
 *Dischistodus chrysopoecilus*
 (Pale-spot damsel)
-*[Dischistodus fasciatus](fasciatus.md)*
+*[Dischistodus fasciatus](fasciatus)*
 (Yellow-banded damsel)
 **Dischistodus melanotus
 
 *Dischistodus perpicillatus*
 (White damsel)
-*[Dischistodus prosopotaenia](prosopotaenia.md)*
+*[Dischistodus prosopotaenia](prosopotaenia)*
 (Honey-head damsel)
 *Eupomacentrus apicalis=**Stegastes apicalis
 
@@ -337,7 +337,7 @@ Pomacentrus amboinensis
 
 *Pomacentrus brachialis
 
-[Pomacentrus cuneatus](tripunctatus.md)*
+[Pomacentrus cuneatus](tripunctatus)*
 (Wedgespot damsel)
 *+Pomacentrus cheraphilus*
 (Silty damsel)
@@ -367,7 +367,7 @@ Pomacentrus rhodonotus=**Pomacentrus chrysurus
 *+Pomacentrus simsiang*
 *Pomacentrus taeniurus=**Neopomacentrus taeniurus
 
-[Pomacentrus tripunctatus](tripunctatus.md)*
+[Pomacentrus tripunctatus](tripunctatus)*
 (Threespot damsel)
 *Pomacentrus violascens=**Neopomacentrus violascens
 

@@ -155,13 +155,13 @@ links_references: |
   **Links**
   - [Copperband butterflyfish (
   *Chelmon rostratus*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/331.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/331)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
   - [Copper Banded Butterflyfish (
   *Chelmon rostratus*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/235.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/235)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -173,7 +173,7 @@ links_references: |
   : Technical fact sheet.
   - [*Chelmon rostratus*](http://www.iucnredlist.org/details/165659/0)
   on the IUCN Red List.
-  - [Volume 5: Bony fishes part 3 (Menidae to Pomacentridae)](http://www.fao.org/docrep/009/y0770e/y0770e00.md)
+  - [Volume 5: Bony fishes part 3 (Menidae to Pomacentridae)](http://www.fao.org/docrep/009/y0770e/y0770e00)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
 
   **References**

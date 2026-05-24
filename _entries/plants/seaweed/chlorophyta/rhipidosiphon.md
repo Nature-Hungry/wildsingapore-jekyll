@@ -78,7 +78,7 @@ A long fan- or spatula-shaped blade (2-3cm long) that are thin and floppy withou
 Usually bright green.
 **Sometimes confused with**
 other fan-shaped green seaweeds. Here's more on
-[how to tell apart fan-shaped green seaweeds](cffan.md)
+[how to tell apart fan-shaped green seaweeds](cffan)
 .
 
 **Human uses:**

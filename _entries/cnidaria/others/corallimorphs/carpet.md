@@ -109,7 +109,7 @@ The underside is smooth and brown. The animal can tuck its oral disk into the bo
 A study found that
 *Rhodactis indosinensis*
 can also look like
-[White-tip corallimorphs](whitetip.md)
+[White-tip corallimorphs](whitetip)
 .
 
 **Status and threats:**

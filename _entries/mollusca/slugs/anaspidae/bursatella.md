@@ -100,7 +100,7 @@ galleries:
     caption: Pulau Tekukor, May 10 Photo shared by James Koh on his blog .
 links_references: |
   **Links**
-  - [Sea Slug Forum](http://www.seaslugforum.net/welcome.md)
+  - [Sea Slug Forum](http://www.seaslugforum.net/welcome)
   by Dr Bill Rudman: photos and fact sheet on
   *[Bursatella leachii](http://www.seaslugforum.net/factsheet.cfm?base=bursleac)*
   and
@@ -156,14 +156,14 @@ This hirsute sea hare is sometimes seen on our Northern shores among seagrasses 
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Sometimes mistaken for**
 the
-[Furry sea hare](stylocheilus.md)
+[Furry sea hare](stylocheilus)
 which has finer 'hair' and fine parallel lines. More on
-[how to tell apart hairy slugs and snails](../../hairyslugsnail.md)
+[how to tell apart hairy slugs and snails](../../hairyslugsnail)
 .
 
 **What does it eat?**
 It eats
-[cyanobacteria](../../../plants/seaweed/cyanobacteria/cyanobacteria.md)
+[cyanobacteria](../../../plants/seaweed/cyanobacteria/cyanobacteria)
 , in particular, the mat-forming
 *Lyngbya majuscula*
 , which was formerly known as the filamentous blue-green alga

@@ -119,7 +119,7 @@ links_references: |
   on
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet on the order, including fact sheets on individual species.
-  - [Volume 3: Batoid fishes, chimaeras and bony fishes part 1 (Elopidae to Linophrynidae)](http://www.fao.org/docrep/009/x2401e/x2401e00.md)
+  - [Volume 3: Batoid fishes, chimaeras and bony fishes part 1 (Elopidae to Linophrynidae)](http://www.fao.org/docrep/009/x2401e/x2401e00)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
   - [13 questions answered after I got stung by a stingray](https://theceruleansea.wordpress.com/2022/01/06/13-questions-answered-after-i-got-stung-by-a-stingray/)
   by Crystle Wee
@@ -175,9 +175,9 @@ Living close to the silty or sandy bottom, stingrays have a different way of tak
 
 **Sometimes mistaken for**
 a
-[horseshoe crab](../../../arthropoda/limulidae/limulidae.md)
+[horseshoe crab](../../../arthropoda/limulidae/limulidae)
 and visa versa. In murky waters, these two different animals do have a similar profile, both being round and flat with a long tail. Other similarly shaped fish include the
-[Electric ray](../Narcinidae/narcine.md)
+[Electric ray](../Narcinidae/narcine)
 .
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}Most stingrays have one spine (some may have up to four spines), often near the base of the tail (where the tail joins the body). Stingrays don't sting with the tip of the tail. These spines are serrated and can cut deeply and introduce venom into the wound that can cause excruciating pain. These spines are used to protect themselves and not to hunt prey. They can replace lost spines.
@@ -203,7 +203,7 @@ Stingrays practice internal fertilisation. Males have a pair of claspers near th
 **Human uses:**
 ****
 Stingrays are a popular seafood dish in Singapore. The large pectoral fins are barbequed and served with chilli, often on a banana leaf. You can see their cartilageous bones as you eat the flesh. The
-[Blue-spotted fantail ray](lymma.md)
+[Blue-spotted fantail ray](lymma)
 (
 *Taeniura lymma*
 ) is also popular in the live aquarium trade although it does not do well in captivity. Stingrays are often seen among the fishes trapped in abandoned fishing nets and traps on our shores.
@@ -251,20 +251,20 @@ Dasyatis zugei
 *+Himantura granulata
 
 +
-[Himantura uarnak](uarnak.md)*
+[Himantura uarnak](uarnak)*
 (Honeycomb whipray)
 *+Himantura undulata*
 (Leopard whipray)
 **
-[Himantura walga](walga.md)*
+[Himantura walga](walga)*
 (Mangrove whipray)
 
 *^
-[Neotrygon kuhlii](kuhlii.md)
+[Neotrygon kuhlii](kuhlii)
 =Dasyatis kuhli*
 (Blue-spotted stingray)
 
-*[Taeniura lymma](lymma.md)*
+*[Taeniura lymma](lymma)*
 (Blue-spotted fantail ray)
 
 **^now in Family Gymnuridae**

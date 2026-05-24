@@ -41,7 +41,7 @@ links_references: |
   **Links**
   - [Glass Shrimp (
   *Periclimenes*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/180.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/180)
   Tan, Leo W. H. & Ng, Peter K. L., 1988,
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -80,15 +80,15 @@ Unfortunately, these amazing shrimps are popular in the live aquarium trade and 
 Some of our commensal shrimps are listed as 'Vulnerable' on the Red List of threatened animals of Singapore. Llike other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection by hobbyists also have an impact on local populations.
 
 *![](http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg)*
-[Five-spot anemone shrimp](brevicarpalis.md)
+[Five-spot anemone shrimp](brevicarpalis)
 
 seen on carpet anemones in pairs.
-[../../../cnidaria/actiniaria/haddoni.htm](../../../cnidaria/actiniaria/haddoni.md)
+[../../../cnidaria/actiniaria/haddoni.htm](../../../cnidaria/actiniaria/haddoni)
 *Kusu Island, Jul 04*
 
 ![](http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/050621skdg8007m3.jpg)
 
-[Tiny carpet anemone shrimp](carpet.md)
+[Tiny carpet anemone shrimp](carpet)
 
 seen on carpet anemones in groups of 5-10.
 
@@ -127,8 +127,8 @@ Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 
 On this website, they are grouped by external features for convenience of display.*
 
-[Carpet anemone shrimp](carpet.md)
-[Red nose shrimps](rednose.md)
+[Carpet anemone shrimp](carpet)
+[Red nose shrimps](rednose)
 
 **Family Palaemonidae**
 
@@ -136,7 +136,7 @@ On this website, they are grouped by external features for convenience of displa
 
 Periclimenes amymone=^Cuapetes amymone
 
-[Periclimenes brevicarpalis](brevicarpalis.md)*
+[Periclimenes brevicarpalis](brevicarpalis)*
 (Five-spot anemone shrimp)
 *Periclimenes brooki
 

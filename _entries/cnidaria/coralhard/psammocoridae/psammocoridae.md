@@ -113,9 +113,9 @@ Colonies 15-30cm. The colony may be shaped like boulders, pillars, flattened bra
 It's hard to distinguish the different species of
 *Psammocora*
 without close examination of small features. On this website, they are grouped into
-[boulder sandpaper coral](psaboulder.md)
+[boulder sandpaper coral](psaboulder)
 (colony is boulder-shaped) and
-[crinkled sand paper coral](psacrinkled.md)
+[crinkled sand paper coral](psacrinkled)
 (colony has short crinkled branches).
 
 **Sandpapery home:**
@@ -156,10 +156,10 @@ on the
 *On this website, they are grouped by external features for convenience of display*
 *.*
 
-[Boulder sandpaper coral](psaboulder.md)
-[Crinkled sand paper coral](psacrinkled.md)
+[Boulder sandpaper coral](psaboulder)
+[Crinkled sand paper coral](psacrinkled)
 
-**[Family Psammocoridae](psammocoridae.md)**
+**[Family Psammocoridae](psammocoridae)**
 
 *Psammocora contigua*
 (Near Threatened)

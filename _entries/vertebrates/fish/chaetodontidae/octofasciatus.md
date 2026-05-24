@@ -88,7 +88,7 @@ links_references: |
   **Links**
   - [Eight-banded butterflyfish (
   *Chaetodon octofasciatus*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/330.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/330)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
@@ -100,7 +100,7 @@ links_references: |
   : Technical fact sheet.
   - *[Chaetodon octofasciatus](http://www.iucnredlist.org/details/165623/0)*
   on the IUCN Red List.
-  - [Volume 5: Bony fishes part 3 (Menidae to Pomacentridae)](http://www.fao.org/docrep/009/y0770e/y0770e00.md)
+  - [Volume 5: Bony fishes part 3 (Menidae to Pomacentridae)](http://www.fao.org/docrep/009/y0770e/y0770e00)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
 
   **References**
@@ -129,7 +129,7 @@ This disc-shaped fish with eight bars is sometimes seen on some of our Southern 
 ## Features
 
 To about 12cm. Body flat, circular disk-shaped, snout slightly pointed. 8 black bands, sometimes a broad black horizontal bar between the middle narrow bars, sometimes yellowish or brownish between 2 pair of bands nearer the tail. Yellow pectoral fins, yellowish base of fins, belly and mouth. White-ringed black spot at the base of the tail. Juveniles often seen in groups among branching corals such as
-[Acropora corals](../../../cnidaria/coralhard/acroporidae/acropora.md)
+[Acropora corals](../../../cnidaria/coralhard/acroporidae/acropora)
 . Adults seen in pairs.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**

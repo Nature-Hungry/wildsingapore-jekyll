@@ -55,13 +55,13 @@ is a new genus and new species described from Singapore!
 Diameter with tentacles expanded 4-5cm. One ring of 20 tentacles that are thick at the base and tapering at the tips. It has a reddish-brown body column. It is usually seen with its tentacles flat on the surface, spaced out equally so that the anemone resembles a star. The oral disk and tentacles often have V-shaped chevron patterns in shades of white, pink, beige and brown. A structure of 3-5 bumps in the middle of the mouth that sometimes protrudes out of the mouth called a conchula.
 
 **Sometimes mistaken for**
-[White peachia anemone](peachia.md)
+[White peachia anemone](peachia)
 (
 *Metapeachia tropica*
 ) which far more common. It looks similar but has a cream-colored body column and 16 tentacles.
 
 An 'uprooted' Peachia anemone is often mistaken for a sea cucumber or a worm. Here's more on
-[how to tell apart sausage-like creatures](../../glossary/sausage.md)
+[how to tell apart sausage-like creatures](../../glossary/sausage)
 .
 
 **Status and threats:**

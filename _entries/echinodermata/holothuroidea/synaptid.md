@@ -120,9 +120,9 @@ Among the longest sea cucumbers is a synaptid,
 which can reach up to 3m long!
 
 **Sometimes mistaken for**
-[worms](../../worm/worm.md)
+[worms](../../worm/worm)
 . Here's more on
-[how to tell apart worm-like animals](../../glossary/wormy.md)
+[how to tell apart worm-like animals](../../glossary/wormy)
 .
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
@@ -135,8 +135,8 @@ which can reach up to 3m long!
 ---
 {% include img-wrap-group.html items=page.galleries.gallery4 %}
 ---
-{% include img-wrap-group.html items=page.galleries.gallery5 %}[**Mangrove synaptid sea cucumber**](synmangrove.md)
-**[synbig.htm](synbig.md)**
+{% include img-wrap-group.html items=page.galleries.gallery5 %}[**Mangrove synaptid sea cucumber**](synmangrove)
+**[synbig.htm](synbig)**
 
 ---
 
@@ -159,11 +159,11 @@ from
 
 On this website, they are grouped by external features for convenience of display.*
 
-[Big synaptid sea cucumber](synbig.md)
+[Big synaptid sea cucumber](synbig)
 
-[Mangrove synaptid sea cucumber](synmangrove.md)
+[Mangrove synaptid sea cucumber](synmangrove)
 
-[Sponge synaptid sea cucumber](synsponge.md)
+[Sponge synaptid sea cucumber](synsponge)
 
 **Family Synaptidae**
 

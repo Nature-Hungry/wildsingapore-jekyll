@@ -177,7 +177,7 @@ links_references: |
   **Links**
   - [Carpet eel-blenny (
   *Congrogadus subducens*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/306.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/306)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)
   .*
@@ -257,11 +257,11 @@ Often mistaken for a snake, this fish is not even an eel! It belongs to the Fami
 Up to 30cm long, those seen are about 10-15cm long, but tiny ones 5cm or less can also be seen. Body cylindrical, somewhat flattened sideways, tapering to an eel-like tail, with the dorsal, anal and tail fins continous. Unlike true eels, it has pectoral fins and scales, and large gill covers. Large mouth with thick lips, and large eyes near the top of the head. Being long and narrow, the fish can easily squirm through tight openings and hide in crevices. Its floral markings add to its camouflage. It can also change its colours. Besides the more commonly seen greenish ones, colours seen include brown, dull to bright green, black and even bluish ones.
 
 **Sometimes mistaken for**
-[sea snakes](../../snakes/hydrophiidae/laticauda.md)
+[sea snakes](../../snakes/hydrophiidae/laticauda)
 or
-[eels](../muraenidae/muraenidae.md)
+[eels](../muraenidae/muraenidae)
 (Family Muraenidae). Here's more on
-[how to tell apart sea snakes, eels and eel-like animals](../../../glossary/eelsnake.md)
+[how to tell apart sea snakes, eels and eel-like animals](../../../glossary/eelsnake)
 .
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 {% include img-wrap-group.html items=page.galleries.gallery3 %}

@@ -73,7 +73,7 @@ links_references: |
   **Links**
   - [Calcified seaweed (
   *Halimeda*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/102.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/102)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -122,12 +122,12 @@ This seaweed with large flat coin-like shapes are seen on many of our shores, es
 ## Features
 
 An upright chain (5-10cm long) of joined up coin-like flattened segments. Each coin-like segment is hard as it is impregnated with calcium carbonate. Big coin green seaweeds have larger segments about 2cm in diameter. The segments are thin and relatively smooth and unwrinkled. The segments may sometimes be curved into a spoon-shape. In some, clusters of these chains are held up on a stalk that is buried. Colours range from light green to bluish green. The segments of big coin green seaweeds are lightly calcified and thus are not as stiff as segments of some
-[smaller coin green seaweed species](halsmall.md)
+[smaller coin green seaweed species](halsmall)
 .
 
 **Living on halimeda:**
 The keen-eyed observer may spot the tiny
-[Halimeda slugs](../../../mollusca/slugs/sacoglossa/pusilla.md)
+[Halimeda slugs](../../../mollusca/slugs/sacoglossa/pusilla)
 (
 *Elysiella pusilla*
 ) found on this seaweed. The slugs are difficult to spot as they usually the same colour as the seaweed or somewhat translucent.

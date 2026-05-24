@@ -71,11 +71,11 @@ location: []
 This family includes some of the most commonly seen hard corals on our Southern and Northern shores.
 
 The Family Poritidae include members with widely varying characteristics.
-[Pore corals](porites.md)
+[Pore corals](porites)
 (
 *Porites*
 sp.) have among the smallest polyps, while some
-[Goniopora corals](goniopora.md)
+[Goniopora corals](goniopora)
 (
 *Goniopora*
 sp.) have polyps that are so large and long that they may be mistaken for sea anemones. The family is considered the third largest contributor to reef formation, especially Pore corals. Pore corals form large, long-lived colonies, while Goniopora corals are opportunistic and are among those that settle early in new areas.
@@ -111,10 +111,10 @@ in the above.
 **Family Poritidae**
 
 **[*Goniopora*
-sp.](goniopora.md)**
+sp.](goniopora)**
 with list of species recorded for Singapore
 **[*Porites*
-sp.](porites.md)
+sp.](porites)
 (Pore corals)**
 with list of species recorded for singapore
 ******

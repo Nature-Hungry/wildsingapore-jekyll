@@ -149,7 +149,7 @@ links_references: |
   on SeaLife Base: Technical fact sheet.
   - *[Sepioteuthis lessoniana](http://www.fao.org/docrep/014/i1920e/i1920e03.pdf)*
   on
-  [Cephalopods of the World](http://www.fao.org/docrep/014/i1920e/i1920e00.md)
+  [Cephalopods of the World](http://www.fao.org/docrep/014/i1920e/i1920e00)
   on the FAO Species Catalogue for Fishery Purposes No. 4, Vol. 2.
 
   **References**
@@ -184,7 +184,7 @@ These squids are sometimes seen in numbers on our Southern shores. Among seagras
 ## Features
 
 Mostly 8-12cm long, but may grow to 40cm and weigh 2kgs. Body rather squat with wide fins that extend along the entire body length, thus it is sometimes mistaken for a
-[cuttlefish](sepiidae.md)
+[cuttlefish](sepiidae)
 . The fins oval or somewhat pear-shaped with the widest part near the rear end of the body. Arms about half the length of the body, rather broad. It can change its colours and patterns rapidly.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

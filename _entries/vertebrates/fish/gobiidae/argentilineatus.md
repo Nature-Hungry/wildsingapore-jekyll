@@ -72,7 +72,7 @@ links_references: |
   from
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet.
-  - [Silver-lined mudskipper](http://www.ecologyasia.com/verts/brackish-fishes/silver-lined-mudskipper.md)
+  - [Silver-lined mudskipper](http://www.ecologyasia.com/verts/brackish-fishes/silver-lined-mudskipper)
   on
   [EcologyAsia](http://www.ecologyasia.com/)
   : photos and fact sheet.
@@ -97,7 +97,7 @@ This medium-sized mudskipper is sometimes seen in some of our mangroves. It is a
 ## Features
 
 4-6cm, to about 9cm long, it has bright silvery fine vertical bars along the sides of the body. More about
-[how to tell apart small mudskippers](cfmudsmall.md)
+[how to tell apart small mudskippers](cfmudsmall)
 commonly found on our shores.
 
 The mudskipper is said to have a homing behavior and found in brackish mud flats in mangrove and nipa palm areas. Occasionally in the lower parts of freshwater streams. It actively moves back and forth between rock pools and air and is said to be able to stay out of water for more than a day if it is kept moist.

@@ -103,7 +103,7 @@ This large nudibranch is sometimes on among seagrasses. It may be seasonal: when
 , this nudibranch has lost its radula and instead has an oral veil that can expand into a "fish net". The veil is used to constantly scan the substrate or to sweep seagrass blades. When the sensitive hairs on the inner edge of the oral veil touch a small crustacean (amphipods, crabs, shrimps), the edge of the veil rapidly contracts, trapping the prey, which is then eaten.
 
 It can 'swim', doing so upside down by vigorously bending side-to-side, touching its head to its tail. See Chay Hoon's
-[video clips](melibev1.md)
+[video clips](melibev1)
 of the hood in action, and the animal swimming.
 
 Its foot is said to be better suited to clinging to seaweeds and seagrasses than for creeping along the ground.

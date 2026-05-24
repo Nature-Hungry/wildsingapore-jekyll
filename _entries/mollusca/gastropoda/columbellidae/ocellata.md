@@ -52,7 +52,7 @@ links_references: |
   **Links**
   - [Pigeon or Dove Shell (
   *Pyrene*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/147.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/147)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.

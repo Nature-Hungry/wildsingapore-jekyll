@@ -58,7 +58,7 @@ galleries:
 
 ## Where seen?
 In Singapore, it is usually found in
-[adinandra belukar](../adinandra/dumosa.md)
+[adinandra belukar](../adinandra/dumosa)
 , forest edges or on seaward sides of our natural cliffs on many of our offshore islands. This plant has the largest pitchers in Singapore and was first discovered in Singapore in 1819 by Dr William Jack, the Scottish botanist and surgeon who accompanied Raffles to Singapore.
 
 ## Features

@@ -45,7 +45,7 @@ links_references: |
   **Links**
   - [Shortnose boxfish (
   *Rhynchostracion nasus*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/399.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/399)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
@@ -55,7 +55,7 @@ links_references: |
   : Technical fact sheet on the family
   - [Yellow Boxfish (
   *Ostracion cubicus*
-  )](http://www.amonline.net.au/fishes/fishfacts/fish/ocubicus.md)
+  )](http://www.amonline.net.au/fishes/fishfacts/fish/ocubicus)
   on the Australian Museum Fish website: fact sheet and photos.
 
   **References**
@@ -87,9 +87,9 @@ These strange cube-like fishes are sometimes seen on some of our shores.
 Boxfishes belong to the Family Ostraciidae. According to
 [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=446)
 : the family has 14 genera and 33 species found in the Atlantic, Indian and Pacific Oceans. Other similar fishes belong to different families include: pufferfishes which belong to
-[Family Tetraodontidae](../tetraodontidae/tetraodontidae.md)
+[Family Tetraodontidae](../tetraodontidae/tetraodontidae)
 , and porcupinefishes which belong to
-[Family Diodontidae](../diodontidae/diodontidae.md)
+[Family Diodontidae](../diodontidae/diodontidae)
 .
 
 ## Features
@@ -129,16 +129,16 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
 
 **Family Ostraciidae**
 
-*[Lactoria cornuta](cornuta.md)*
+*[Lactoria cornuta](cornuta)*
 (Longhorn cowfish)
-*[Ostracion cubicus](cubicus.md)*
+*[Ostracion cubicus](cubicus)*
 (Yellow boxfish)
 **
 *+Ostracion rhinorhynchos*
 (Shortsnout boxfish)
 *Ostracion tuberculatus=**Ostracion cubicus*
 *Ostracion nasus=**
-[Rhynchostracion nasus](nasus.md)*
+[Rhynchostracion nasus](nasus)*
 (Shortnose boxfish)
 
 ---

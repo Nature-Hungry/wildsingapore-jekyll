@@ -55,7 +55,7 @@ galleries:
     caption: Chek Jawa, Dec 09
 links_references: |
   **Links**
-  - [Sesarmine crabs](http://mangrove.nus.edu.sg/guidebooks/text/2048.md)
+  - [Sesarmine crabs](http://mangrove.nus.edu.sg/guidebooks/text/2048)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
@@ -63,7 +63,7 @@ links_references: |
   *Episesarma*
   and
   *Chiromantes*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/198.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/198)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.

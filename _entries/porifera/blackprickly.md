@@ -87,7 +87,7 @@ Another black encrusting sponge is
 and Iotrochota purpurea.
 
 **Sometimes confused with**
-[Black bath sponges](blackbath.md)
+[Black bath sponges](blackbath)
 (Family Spongiidae) which are usually globular dome-shaped or loaf-shaped.
 
 ![](http://www.wildsingapore.com/wildfacts/porifera/blackprickly/091203ubnd5025m3.jpg)

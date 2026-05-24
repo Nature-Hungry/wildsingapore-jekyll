@@ -109,9 +109,9 @@ Evidence of this curious animal is commonly seen on many of our shores. On sand 
 
 **What are acorn worms?**
 Acorn worms are unsegmented
-[worms](../worm.md)
+[worms](../worm)
 belonging to Phylum Hemichordata. There are about 70 species of acorn worms. They are quite different from the segmented worms that we are more familiar with such as earthworms and
-[bristleworms](../polychaeta/polychaeta.md)
+[bristleworms](../polychaeta/polychaeta)
 . These belong to Phylum Annelida.
 
 ## Features

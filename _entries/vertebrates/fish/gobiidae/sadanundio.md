@@ -39,7 +39,7 @@ links_references: |
   **Links**
   - [Grey knight-goby (
   *Stigmatogobius sadanundio*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2107.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2107)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
@@ -49,7 +49,7 @@ links_references: |
   from
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet.
-  - *[Stigmatogobius sadanundio](http://www.ecologyasia.com/verts/fishes/grey-knight-goby.md)*
+  - *[Stigmatogobius sadanundio](http://www.ecologyasia.com/verts/fishes/grey-knight-goby)*
   from EcologyAsia.
 
   **References**

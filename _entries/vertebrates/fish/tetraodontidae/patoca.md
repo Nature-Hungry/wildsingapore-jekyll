@@ -71,7 +71,7 @@ links_references: |
   **Links**
   - [Milk-spotted Puffer (
   *Chelonodon patoca*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/397.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/397)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/)*
   . Singapore Science Centre. 163 pp.

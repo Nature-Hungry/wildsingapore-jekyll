@@ -42,13 +42,13 @@ galleries:
       caption: Alligator pipefish
 links_references: |
   **Links**
-  - [Pipefish (Family Syngnathidae)](http://mangrove.nus.edu.sg/pub/seashore/text/230.md)
+  - [Pipefish (Family Syngnathidae)](http://mangrove.nus.edu.sg/pub/seashore/text/230)
   Tan, Leo W. H. & Ng, Peter K. L., 1988,
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
   - [Blue-speckled Pipefish (
   *Hippichthys cyanospilus*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/250.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/250)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
@@ -135,7 +135,7 @@ A cousin of the more famous seahorse, these extremely well camouflaged fishes ar
 
 **What are pipefishes?**
 Pipefishes are true fish, although they don't appear very fish-like! Pipefishes belong to
-[Family Syngnathidae](syngnathidae.md)
+[Family Syngnathidae](syngnathidae)
 which includes seahorses.
 
 ## Features
@@ -157,7 +157,7 @@ Pipefishes are used in traditional Chinese medicine, often as a substitute for s
 
 **Status and threats:**
 See
-[Family Syngnathidae](syngnathidae.md)
+[Family Syngnathidae](syngnathidae)
 for threats to pipefishes and seahorses.
 
 ---
@@ -195,9 +195,9 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
 
 **Pipefishes seen awaiting identification**
 
-[Seagrass pipefishes](seagrass.md)
+[Seagrass pipefishes](seagrass)
 
-**[Family Syngnathidae](syngnathidae.md)**
+**[Family Syngnathidae](syngnathidae)**
 
 *Choeroichthys brachysoma
 
@@ -225,7 +225,7 @@ Corythoichthys haematopterus*
 (Mangrove pipefish)
 *Micrognathus brevirostris=^Micrognathus brevirostris brevirostris
 
-[Syngnathoides biaculeatus](biaculeatus.md)*
+[Syngnathoides biaculeatus](biaculeatus)*
 (Alligator pipefish)
 *Syngnathoides spicifer
 

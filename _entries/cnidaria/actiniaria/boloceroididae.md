@@ -203,7 +203,7 @@ Diameter with tentacles extended 5-8cm. The tentacles (3-4cm long) are thick at 
 
 **Sometimes mistaken for:**
 Tiny swimming anemones may sometimes be confused with
-[Seagrass anemones](seagrass.md)
+[Seagrass anemones](seagrass)
 which have translucent tentacles with tiny spots.
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**Does it really swim?**

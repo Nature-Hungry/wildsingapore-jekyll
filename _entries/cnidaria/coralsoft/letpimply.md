@@ -123,7 +123,7 @@ Colony 20-40cm or larger. The colony usually looks like a mushroom; with a flat,
 The colony has both feeding polyps (autozooids) and water pumping polyps (siphonozooids). Autozooid polyps have short fat body columns (about 1cm) with 8 branched tentacles that are usually white. The siphonozooids do not emerge from the body membrane, but form low 'pimples' on the surface. Siphonozooids function to pump water through the colony. The autozooids can retract completely into the common tissue. Out of water, the surface of the common tissue has two different kinds of holes; bigger ones where the retracted autozooids are, and smaller holes or bumps where the siphonozooids are.
 
 **Sometimes confused with**
-[Smooth leathery soft coral](letsmooth.md)
+[Smooth leathery soft coral](letsmooth)
 (
 *Sinularia*
 sp.) which does not have siphonozooids and thus has a smooth common tissue.
@@ -173,7 +173,7 @@ species recorded for Singapore**
 **
 from Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
 
-**[Family Alcyoniidae](alcyoniidae.md)
+**[Family Alcyoniidae](alcyoniidae)
 
 Genus
 *Lobophytum***

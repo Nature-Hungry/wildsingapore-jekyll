@@ -44,7 +44,7 @@ links_references: |
   **Links**
   - [Indian Halibut (
   *Psettodes erumei*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/383.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/383)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
@@ -56,7 +56,7 @@ links_references: |
   from
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet on the family and fact sheets on individual species.
-  - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.md)
+  - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
 
   **References**
@@ -78,7 +78,7 @@ The Indian halibut (
 ) is sometimes seen on some of our shores, often near seagrasses.
 **What are halibuts?**
 They are
-[flatfishes](../pleuronectiformes/pleuronectiformes.md)
+[flatfishes](../pleuronectiformes/pleuronectiformes)
 that belong to the Family Psettodidae. According to
 [FishBase](http://www.fishbase.org/Summary/FamilySummary.php?ID=437)
 : the family has 1 genera and 3 species found in West Africa and the Indo-West Pacific. They are considered the most primitive of the flatfishes for some of their body characteristics and their habit of often swimming in an upright position. The only species that occurs in our region is the Indian halibut (
@@ -91,9 +91,9 @@ The Indian halibut grows to about 60cm, the one seen was about 20cm long. Eyes s
 
 **Sometimes confused with**
 other
-[flatfishes](../pleuronectiformes/pleuronectiformes.md)
+[flatfishes](../pleuronectiformes/pleuronectiformes)
 . Here's more on
-[how to tell apart the flatfish families](../pleuronectiformes/pleuronectiformes1.md)
+[how to tell apart the flatfish families](../pleuronectiformes/pleuronectiformes1)
 commonly seen.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**

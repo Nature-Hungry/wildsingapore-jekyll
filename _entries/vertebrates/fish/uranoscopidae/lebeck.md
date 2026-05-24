@@ -77,7 +77,7 @@ links_references: |
   : Technical fact sheet on the family.
   - [Uranoscopidae Stargazers](ftp://ftp.fao.org/docrep/fao/009/y0870e/y0870e19.pdf)
   by H. Kishimoto in
-  [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.md)
+  [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
   - [Large sea star and stargazer at Changi](http://wildshores.blogspot.sg/2011/07/large-star-and-stargazer-at-changi.html)
   on wild shores of singapore: field notes of behaviour of a stargazer rescued from a fish net.
@@ -168,7 +168,7 @@ from Ng, P. K. L. & Y. C. Wee, 1994.
 **Family Uranoscopidae**
 
 *+
-[Ichthyscopus lebeck](lebeck.md)*
+[Ichthyscopus lebeck](lebeck)*
 (Longnosed stargazer)
 *Uranoscopus cognatus*
 (Two-spined yellow-tail stargazer)

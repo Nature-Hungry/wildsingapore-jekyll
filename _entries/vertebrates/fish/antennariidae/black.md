@@ -89,13 +89,13 @@ location:
 
 ## Where seen?
 This all black and almost velvety frogfish is sometimes seen on our Southern shores. Among coral rubble. There are suggestions that this is a black version of juvenile
-[Spotted-tail frogfishes](trisignatus.md)
+[Spotted-tail frogfishes](trisignatus)
 .
 
 ## Features
 
 Those seen 6-10cm. Body globular, all black, some have sand-coloured markings on the body and edges of the fins and tail. Lacks scales and has a loose prickly skin instead. Lying motionless on the reef flat, it is easily mistaken for a
-[black sponge](../../../porifera/blackbath.md)
+[black sponge](../../../porifera/blackbath)
 !
 
 **Fishing with a lure:**
@@ -104,7 +104,7 @@ The lure is pale beige and fluffy. It has bright white markings on the inside of
 
 **Sometimes mistaken for**
 stonefish and scorpionfishes. Here's more on
-[how to tell apart fishes that look like stones](../cfstonefish.md)
+[how to tell apart fishes that look like stones](../cfstonefish)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Species are difficult to positively identify without close examination.

@@ -70,19 +70,19 @@ links_references: |
   *Caulerpa lentillifera*
   )](http://www.fao.org/docrep/006/y4765e/y4765e0b.htm#bm11.8)
   from
-  [A guide to the seaweed industry](http://www.fao.org/docrep/006/y4765e/y4765e00.md)
+  [A guide to the seaweed industry](http://www.fao.org/docrep/006/y4765e/y4765e00)
   by Dennis J. McHugh on the FAO website with lots of details on commercial cultivation of
   *Caulerpa lentillifera*
   .
-  - [Seaweed Mariculture](http://www.botany.uwc.ac.za/algae/StudentAssignments/natalieprins97/caulerpa.md)
+  - [Seaweed Mariculture](http://www.botany.uwc.ac.za/algae/StudentAssignments/natalieprins97/caulerpa)
   by Natalie Prins from the World of Algae page on the the University of the Western Cape, South Africa website: includes the culture and uses of
   *Caulerpa lentillifera*
   .
-  - [*Caulerpa lentillifera*](http://www.naturia.per.sg/cjsurvey/vegetative/text/caulerpa%20lentillifera.md)
+  - [*Caulerpa lentillifera*](http://www.naturia.per.sg/cjsurvey/vegetative/text/caulerpa%20lentillifera)
   coverage on Chek Jawa during the 2001 Chek Jawa survey.
   - [Sea grapes (
   *Caulerpa lentillifera*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/101.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/101)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -141,13 +141,13 @@ This pretty seaweed is made up of tiny balls. It grows on rocks and coral rubble
 The seaweed resembles bunches of little grapes. Each 'grape' is tiny (0.1-0.2cm) spherical, translucent. The 'grapes' are usually tightly packed on a vertical 'stem', the whole often forming a sausage-like shape (2-10cm long). This species is distinguished by the distinct constriction where the 'grape' attaches to the stalk. The 'stems' emerge from a long horizontal 'root' that creeps over the surface. Colours range from bright green to bluish and olive green.
 
 **Sometimes confused with**
-[Oval sea grapes](racemosa.md)
+[Oval sea grapes](racemosa)
 (
 *Caulerpa racemosa*
 ).
 *Caulerpa microphysa*
 can look very similar but lack the distinct constriction where the 'grape' attached to the stalk. Here's more on
-[how to tell apart the sea grapes seaweeds](cfgrapes.md)
+[how to tell apart the sea grapes seaweeds](cfgrapes)
 .
 
 **Human uses:**

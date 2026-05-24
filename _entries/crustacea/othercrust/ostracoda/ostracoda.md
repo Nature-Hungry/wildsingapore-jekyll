@@ -25,7 +25,7 @@ galleries:
     caption: Again seen with a worm. Chek Jawa, Jul 05
 links_references: |
   **Links**
-  - [Mussel shrimps (Ostracoda)](http://mangrove.nus.edu.sg/pub/seashore/text/176.md)
+  - [Mussel shrimps (Ostracoda)](http://mangrove.nus.edu.sg/pub/seashore/text/176)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -53,9 +53,9 @@ Often seen on our Northern shores, usually only by the bioluminescence they prod
 
 **What are mussel shrimps?**
 They are
-[crustaceans](../../crustacea.md)
+[crustaceans](../../crustacea)
 like crabs and prawns. But while crabs and prawns belong to Class Malacostraca, Order
-[Decapoda](../../decapoda.md)
+[Decapoda](../../decapoda)
 , mussel shrimps belong to Class Ostracoda. These tiny animals are poorly known. They are also sometimes called seed shrimps.
 
 ## Features

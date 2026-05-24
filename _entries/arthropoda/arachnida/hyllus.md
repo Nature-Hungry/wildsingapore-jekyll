@@ -44,11 +44,11 @@ links_references: |
   **Links**
   - [Heavy jumper (
   *Hyllus diardi*
-  )](http://habitatnews.nus.edu.sg/guidebooks/spiders/text/Hyllus_diardi.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/spiders/text/Hyllus_diardi)
   Koh, Joseph K. H., 1989. A Guide to Common Singapore Spiders. Singapore Science Centre, 160pp. online version
   - [Heavy jumper (
   *Hyllus diardii*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2071.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2071)
   Ng, Peter K. L. & N. Sivasothi, 1999. A Guide to the Mangroves of Singapore II (Animal Diversity). Singapore Science Centre. 168 pp.
 
   **References**

@@ -111,7 +111,7 @@ Most feather stars only come out to feed at night. During the day, they hide in 
 
 **What are feather stars?**
 Feather stars belong to Phylum
-[Echinodermata](../echinodermata.md)
+[Echinodermata](../echinodermata)
 . Although they may look similar to brittle stars, feather stars belong to a different Class Crinoidea. 'Crinoidea' means 'lily-like' in Greek. There are about 600 known living species of feather stars. Shallow-water crinoids are also called comatulids.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 ## Features
@@ -123,11 +123,11 @@ The arms arise from a cup-shaped structure at the centre called the calyx. The c
 The side of the feather star that faces downwards has a claw-like appendage called the cirri that is used to grip the surface.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Sometimes confused with**
-[brittle stars](../ophiuroidea/ophiuroidea.md)
+[brittle stars](../ophiuroidea/ophiuroidea)
 which also have bristley arms. But brittle stars usually only have 5 or 6 arms. More on how to tell apart
-[bristley animals](../../glossary/wormstar.md)
+[bristley animals](../../glossary/wormstar)
 and
-[feathery animals](../../glossary/feathery.md)
+[feathery animals](../../glossary/feathery)
 .
 
 **An armful:**
@@ -149,13 +149,13 @@ Feather stars have separate genders and are usually either male or female. The e
 
 {% include img-wrap-group.html items=page.galleries.gallery5 %}**Living off a star:**
 Various small
-[crabs](../../crustacea/crab/pilumnidae/featherstar.md)
+[crabs](../../crustacea/crab/pilumnidae/featherstar)
 ,
-[shrimps](../../crustacea/othercrust/shrimp/crinoid.md)
+[shrimps](../../crustacea/othercrust/shrimp/crinoid)
 ,
-[worms](../../worm/polychaeta/myzostomidae.md)
+[worms](../../worm/polychaeta/myzostomidae)
 ,
-[brittle stars](../ophiuroidea/featherstar.md)
+[brittle stars](../ophiuroidea/featherstar)
 and other tiny animals may live on a feather star. Some are found no where else.
 
 {% include img-wrap-group.html items=page.galleries.gallery6 %}**Old stars:**
@@ -208,15 +208,15 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 *Feather star species are difficult to positively identify without dissection and examination of internal parts.*
 *On this website, they are grouped by external features for convenience of display.*
 
-[Black-and-white feather star](black.md)
+[Black-and-white feather star](black)
 
-[Blue feather star](blue.md)
+[Blue feather star](blue)
 
-[Brown feather star](brown.md)
+[Brown feather star](brown)
 
-[Pale feather star](pale.md)
+[Pale feather star](pale)
 
-[Purple feather star](purpurea.md)
+[Purple feather star](purpurea)
 
 **Family “Antedonidae”**
 
@@ -291,7 +291,7 @@ Heterometra schlegelii
 
 Heterometra singularis
 
-[Himerometra robustipinna](red.md)*
+[Himerometra robustipinna](red)*
 (Red feather star) (DD: Data deficient)
 *Himerometra bartschi*
 

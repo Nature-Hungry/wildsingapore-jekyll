@@ -98,7 +98,7 @@ Forming clumps of tangled, fine branches, this seaweed is sometimes seen on cora
 Clumps of fleshy 'stems' finely branched in tangles. Some have short 'stems' (3-6cm) covered with lots of tiny pointed projections that give a prickly look. These may carpet small areas of coral rubble. Others have longer stems (10-15cm) and form tangled bunches. Colours range from beige, pink, reddish or brownish.
 
 Bluish ones with thicker stems that form
-[bushy balls](pannosa.md)
+[bushy balls](pannosa)
 is probably
 *Hypnea pannosa*
 .
@@ -157,7 +157,7 @@ Hypnea esperi
 
 Hypnea musciformis
 
-[Hypnea pannosa](pannosa.md)*
+[Hypnea pannosa](pannosa)*
 (Spiky ball red seaweed)
 *Hypnea spinella*
 

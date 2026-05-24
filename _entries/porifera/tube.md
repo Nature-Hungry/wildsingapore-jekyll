@@ -77,7 +77,7 @@ This tubular sponge is commonly seen on our undisturbed Northern shores, growing
 The entire sponge 10-15cm wide with closely packed narrow hollow tubes (4-6cm tall about 1-2cm wide). In some, the tubes may have short spikes on the sides. A wide range of colours from beige, lemon yellow, pale to bright blue, pale green and purple.
 
 **Sometimes confused with**
-[Spiky tubular sponges](tubespiky.md)
+[Spiky tubular sponges](tubespiky)
 (
 *Gelliodes*
 sp.) which have neat spikes regularly arranged around their hollow tubes forming a star-like shape around the large hole at the tibe of the tube.

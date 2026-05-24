@@ -81,7 +81,7 @@ links_references: |
   **Links**
   - [Sand star (
   *Astropecten*
-  sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/221.md)
+  sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/221)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -128,7 +128,7 @@ According to Marsh and Fromont, it eats clams.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Feeding on a star:**
 Sometimes, tiny white snails are found on the upperside. These are
-[parasitic snails](../../mollusca/gastropoda/eulimidae/eulimidae.md)
+[parasitic snails](../../mollusca/gastropoda/eulimidae/eulimidae)
 (Family Eulimidae).
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**Species are difficult to positively identify without close examination.

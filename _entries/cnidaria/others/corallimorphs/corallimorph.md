@@ -90,9 +90,9 @@ These little disk-shaped animals are commonly encountered on our Southern shores
 
 **What are corallimorphs?**
 Corallimorphs are
-[Cnidarians](../../cnidaria.md)
+[Cnidarians](../../cnidaria)
 that belong to the same
-[Class Anthozoa](../../anthozoa.md)
+[Class Anthozoa](../../anthozoa)
 as sea anemones. There are about 50 species of known corallimorphs. They are found in all parts of the ocean, from shallow to deep waters, from the tropics to even the poles. Some deeper water species can reach 1m in diameter!
 
 ## Features
@@ -113,14 +113,14 @@ Corallimorphs come in a wide range of colours and textures on the oral disk.
 Most corallimorphs harbour zooxanthellae (symbiotic algae) inside their bodies. The symbiotic algae carry out photosynthesis and may contribute nutrients to the host. Corallimorphs also filter feed, trapping edible bits in mucus that coats their bodies.
 
 Corallimorphs also have
-[stingers like other Cnidarians](../../cnidaria.md)
+[stingers like other Cnidarians](../../cnidaria)
 . Some large corallimorphs can reach 30cm across or more and can eat fishes! These fishes are trapped in the muscular oral disc, similar to the way a Venus Flytrap plant catches its prey.
 
 Corallimorphs also produce toxins that seem to injure or kill hard corals or other encrusting organisms that settle near them.
 
 **Corallimorph friends:**
 Animals such as
-[acoel flatworms](../../../worm/acoela/acoela.md)
+[acoel flatworms](../../../worm/acoela/acoela)
 and tiny shrimps are sometimes seen on corallimorphs.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Corallimorph babies:**
@@ -154,43 +154,43 @@ from Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Thr
 
 *Corynactis*
 spp. (
-[Ball-tip corallimorphs](balltip.md)
+[Ball-tip corallimorphs](balltip)
 )
 
 **Family Discosomidae**
 
 *Discosoma nummiforme*
 (
-[Beaded corallimorphs](beaded.md)
+[Beaded corallimorphs](beaded)
 )
 
 *Discosoma*
 spp. (
-[Striped corallimorphs](striped.md)
+[Striped corallimorphs](striped)
 )
 
 *Rhodactis inchoata*
 (
-[Frilled corallimorphs](frilled.md)
+[Frilled corallimorphs](frilled)
 )
 
 *Rhodactis indosinensis*
 (
-[Carpet corallimorphs](carpet.md)
+[Carpet corallimorphs](carpet)
 and
-[White-tip corallimorphs](whitetip.md)
+[White-tip corallimorphs](whitetip)
 )
 
 *Platyzoanthus mussoides*
 (
-[Ridged corallimorphs](ridged.md)
+[Ridged corallimorphs](ridged)
 )
 
 **Family Ricordeidae**
 
 *Ricordea yuma*
 (
-[Stubby corallimorphs](stubby.md)
+[Stubby corallimorphs](stubby)
 )
 
 ---

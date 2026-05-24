@@ -28,9 +28,9 @@ links_references: |
   on the
   [Singapore Snakes](http://singaporesnakes.blogspot.com/)
   blog: fact sheet with photos and links to local sightings and other posts.
-  - [Shore Pit Viper](http://www.ecologyasia.com/verts/snakes/shore_pit_viper.md)
+  - [Shore Pit Viper](http://www.ecologyasia.com/verts/snakes/shore_pit_viper)
   on Nick Baker's EcologyAsia website: fact sheet with photos.
-  - [Mangrove snakes: Shore Pit Viper](http://mangrove.nus.edu.sg/guidebooks/text/2112.md)
+  - [Mangrove snakes: Shore Pit Viper](http://mangrove.nus.edu.sg/guidebooks/text/2112)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore Ii (Animal Diversity](http://mangrove.nus.edu.sg/guidebooks/)*
   [)](http://mangrove.nus.edu.sg/guidebooks/)

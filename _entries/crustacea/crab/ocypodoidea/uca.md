@@ -188,7 +188,7 @@ Eyes mounted on long stalks give the crab a good all-round view on the flat terr
 
 **Colourful costumes:**
 Fiddler crabs can change colours. Sometimes, they appear different at night and during the day. In some species, the males brighten up during mating season. This makes it challenging to identify the different species of fiddler crabs by their colours alone. The species are generally distinguished by the structure of their pincers rather than by colours alone. Here's more on
-[how to tell apart the fiddler crabs commonly seen](cflongeyedcrabs.md)
+[how to tell apart the fiddler crabs commonly seen](cflongeyedcrabs)
 on our shores.
 
 **Breathing air:**
@@ -252,15 +252,15 @@ Latest genus from
 
 On this website, they are grouped by external features for convenience of display.*
 
-[Stout pincered fiddler crabs](stoutpincer.md)
+[Stout pincered fiddler crabs](stoutpincer)
 
-[Tiny colourful fiddler crabs](tinycolourful.md)
+[Tiny colourful fiddler crabs](tinycolourful)
 
 **
-[*Austruca annulipes*](annulipes.md)
+[*Austruca annulipes*](annulipes)
 **
 (Porcelain fiddler crab)
-*[Gelasimus vocans](vocans.md)
+*[Gelasimus vocans](vocans)
 =^Uca (Gelasimus) vocans*
 (Orange fiddler crab)
 
@@ -268,7 +268,7 @@ On this website, they are grouped by external features for convenience of displa
 
 Tubuca forcipata
 
-[Tubuca rosea](rosea.md)*
+[Tubuca rosea](rosea)*
 (Rosy fiddler crab) (EN: Endangered)
 
 **

@@ -127,22 +127,22 @@ galleries:
     caption: Crucifix swimming crab
 links_references: |
   **Links**
-  - [Swimming crabs (Family Portunidae)](http://mangrove.nus.edu.sg/pub/seashore/text/201.md)
+  - [Swimming crabs (Family Portunidae)](http://mangrove.nus.edu.sg/pub/seashore/text/201)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
   - [Mud Crabs (
   *Scylla*
-  sp)](http://mangrove.nus.edu.sg/guidebooks/text/2045.md)
+  sp)](http://mangrove.nus.edu.sg/guidebooks/text/2045)
   and
   [Flower Crab (
   *Portunus pelagicus*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2045.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2045)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
   - Family Portunidae in the Crabs section by Peter K. L. Ng in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 2: Cephalopods, crustaceans, holothurians and sharks](http://www.fao.org/docrep/009/w7192e/w7192e00.md)
+  [Volume 2: Cephalopods, crustaceans, holothurians and sharks](http://www.fao.org/docrep/009/w7192e/w7192e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
   - [Homing in the swimming crab Thalamita crenata: a mechanism based on underwater landmark memory](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=10973722&dopt=Abstract)
   . Cannicci S, Barelli C, Vannini M. on the US National Center for Biotechnology Information website: their study shows these crabs can learn and remember landmarks to safely move about and that their ability is more flexible and complex than other crabs, and comparable to that of honeybees.
@@ -191,7 +191,7 @@ Body width 5-15cm. Swimming crabs are among the few crabs that are swift and agi
 Swimming crabs have a streamlined shape for racing through the water. They have long pincers armed with sharp spines to snag fish and other fast moving prey. Often, one pincer is slightly larger than the other.
 
 Here's more on
-[how to tell apart the swimming crabs](cfportunidae.md)
+[how to tell apart the swimming crabs](cfportunidae)
 commonly encountered on our shores.
 
 **Fierce Crabs:**
@@ -204,7 +204,7 @@ They eat fish, worms, other crustaceans (including other crabs), clams and snail
 
 **Swimming Babies:**
 Like other crabs, swimming crabs often mate when the female is
-[moulting](../../moulting.md)
+[moulting](../../moulting)
 .
 
 **Monstrous crabs:**
@@ -212,7 +212,7 @@ In Greek Mythology, Scylla is a female sea monster, who lives along a narrow cha
 
 **Human uses:**
 Swimming crabs are edible and enjoyed by people everywhere. In our part of the world, from Asia to Australia., the
-[Flower crab](pelagicus.md)
+[Flower crab](pelagicus)
 (
 *Portunus pelagicus*
 ) is one of the commonly eaten members of this family.
@@ -225,7 +225,7 @@ Swimming crabs are edible and enjoyed by people everywhere. In our part of the w
 **Some Swimming crabs on Singapore shores**
 
 more on
-[how to tell apart the swimming crabs](cfportunidae.md)
+[how to tell apart the swimming crabs](cfportunidae)
 on Singapore shores
 
 ---
@@ -264,23 +264,23 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 
 Charybdis anisodon
 
-[Charybdis annulata](annulata.md)*
+[Charybdis annulata](annulata)*
 (Banded-leg swimming crab)
-*[Charybdis anisodon](anisodon.md)*
+*[Charybdis anisodon](anisodon)*
 (Orange-clawed swimming crab)
 *Charybdis brevispinosa
 
 Charybdis callianassa
 
 **
-[Charybdis feriata](feriatus.md)
+[Charybdis feriata](feriatus)
 =Charybdis feriatus*
 (Crucifix swimming crab)
 *Charybdis granulata
 
-[Charybdis hellerii](purpleleg.md)*
+[Charybdis hellerii](purpleleg)*
 (Purple-legged swimming crab)
-*[Charybdis natator](natator.md)*
+*[Charybdis natator](natator)*
 (Ridged swimming crab)
 *Charybdis orientalis
 
@@ -313,18 +313,18 @@ cf.
 *hastatoides
 
 Portunus innominatus=**Portunus (Lupocycloporus) innominatus*
-[*Portunus pelagicus*](pelagicus.md)
+[*Portunus pelagicus*](pelagicus)
 (Flower crab) including
-[tiny ones](tiny.md)
+[tiny ones](tiny)
 *Portunus rubromarginatus=**Portunus (Monomia) rubromarginatus
 
-[Portunus sanguinolentus](sanguinolentus.md)*
+[Portunus sanguinolentus](sanguinolentus)*
 (Blood-spotted swimming crab)
 *Portunus tenuipes=**Portunus (Xiphonectes) tenuipes
 
 Portunus tweediei=**Portunus (Xiphonectes) tweediei*
 [***Scylla***
-**sp.**](scylla.md)
+**sp.**](scylla)
 **(mud crabs)**
 **Scylla olivacea*
 (Orange mud crab)
@@ -340,25 +340,25 @@ sp. (eyes-wide-apart swimming crabs)**
 *Thalamita admete*
 *+Thalamita chaptalii
 
-[Thalamita crenata](powderblue.md)*
+[Thalamita crenata](powderblue)*
 (Powder blue-clawed swimming crab)
-*[Thalamita danae](blue.md)*
+*[Thalamita danae](blue)*
 (Blue swimming crab)
 *+Thalamita*
 cf.
 *pelsarti
 
-[Thalamita prymna](bluespined.md)*
+[Thalamita prymna](bluespined)*
 (Blue-spined swimming crab)
 *Thalamita sima
 
-[Thalamita spinimana](spinimana.md)*
+[Thalamita spinimana](spinimana)*
 (Red swimming crab)
 
 *Thalamita stimpsoni=**Thalamita danae*
 
 [*Thalamita*
-sp.](mottled.md)
+sp.](mottled)
 (Mottled swimming crab)
 
 ---

@@ -106,7 +106,7 @@ A usually rather flattened cluster (5-8cm) of many stiff, thick, cylindrical but
 
 **May be confused with**
 other
-[pinkish seaweeds with a pom pom shape.](pompom.md)
+[pinkish seaweeds with a pom pom shape.](pompom)
 
 *![](http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/070602sjig9819m3.jpg)
 

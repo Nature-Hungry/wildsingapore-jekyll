@@ -32,7 +32,7 @@ links_references: |
   **Links**
   - [Calcified seaweed (
   *Halimeda*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/102.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/102)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -102,7 +102,7 @@ A new segment develops from the top and can appear rapidly, within 1-2 days! In 
 These seaweeds can relocate their chlorophyll (the green pigment used in photosynthesis). At night, chlorophyll might be concentrated in the centre of the segment. As a result, the seaweed may appear white.
 
 In addition to calcium carbonate, they also have chemicals that protect them from herbivores. Despite this, some slugs like the
-[Halimeda slug](../../../mollusca/slugs/sacoglossa/pusilla.md)
+[Halimeda slug](../../../mollusca/slugs/sacoglossa/pusilla)
 (
 *Elysiella pusilla*
 ) actually eat the seaweed and incorporates these chemicals into their tissues to protect themselves!
@@ -128,7 +128,7 @@ next to one another
 ![](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/050330labg3921m3a.jpg)
 
 A pair of
-[Halimeda slugs](../../../mollusca/slugs/sacoglossa/pusilla.md)
+[Halimeda slugs](../../../mollusca/slugs/sacoglossa/pusilla)
 on the seaweed.
 *Labrador, Mar 05*
 

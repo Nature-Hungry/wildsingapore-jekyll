@@ -73,7 +73,7 @@ links_references: |
   **Links**
   - [Porcelain Crab (
   *Petrolisthes*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/184.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/184)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.

@@ -167,11 +167,11 @@ This little flatworm with blue dots on its body margin is often seen on many of 
 Sometimes a faint central stripe is seen. This is the intestine that shows through the body and is not an identifying mark for the worm species.
 
 The worms have been observed enveloping spherical objects. Could they be eating the
-[Yellow clustered bead ascidians](../../ascidiacea/eudistoma.md)
+[Yellow clustered bead ascidians](../../ascidiacea/eudistoma)
 (
 *Eudistoma*
 sp.) that grow on the rocks? They have also been seen on
-[Beige sheet ascidians](../../ascidiacea/beige.md)
+[Beige sheet ascidians](../../ascidiacea/beige)
 .
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

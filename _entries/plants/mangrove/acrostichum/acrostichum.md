@@ -38,17 +38,17 @@ links_references: |
   **Links**
   - [Piai Raya (
   *Acrostichum aureum*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/1038.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/1038)
   and
   [Piai Lasu (
   *Acrostichum speciosum*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/1039.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/1039)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)
   I (Plant Diversity)*
   . Singapore Science Centre. 168 pp.
   - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.md)
+  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
   (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
   - [*Acrostichum aureum*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=1535)
   and
@@ -69,7 +69,7 @@ links_references: |
 
 ## Where seen?
 These ferns are often seen in back mangroves, flourishing on
-[mud lobster mounds](../../../crustacea/othercrust/lobster/thalassina.md)
+[mud lobster mounds](../../../crustacea/othercrust/lobster/thalassina)
 and other higher ground. Elsewhere, they naturally occur in tidal swamps, muddy coasts, river banks and tidal estuaries. They can be common and even dominant in the understorey of back mangroves. '
 *Piai*
 ' means 'shrimp' in Malay, and this may be because these ferns grow well on raised bunds created for shrimp farming. Another malay name for them is

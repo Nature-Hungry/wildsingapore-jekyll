@@ -51,7 +51,7 @@ galleries:
       caption: "Pink button zoanthids ( Zoanthus vietnamensis ) Polyps with pink edges at the top of the body column, more obvious in retracted polyp."
 links_references: |
   **Links**
-  - [Colonial anemones (Order Zoanthidae)](http://mangrove.nus.edu.sg/pub/seashore/text/121.md)
+  - [Colonial anemones (Order Zoanthidae)](http://mangrove.nus.edu.sg/pub/seashore/text/121)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -77,9 +77,9 @@ These tiny but tough flower-like animals often carpet rocky and rubbly areas. So
 
 **What are zoanthids?**
 Zoanthids belong to the same
-[Class Anthozoa](../../anthozoa.md)
+[Class Anthozoa](../../anthozoa)
 as sea anemones. But while true sea anemones belong to
-[Order Actiniaria](../../actiniaria/actiniaria.md)
+[Order Actiniaria](../../actiniaria/actiniaria)
 , zoanthids belong to a different Order Zoanthidea. Zoanthid taxonomy is undergoing some review so the number of known zoanthids species range from 200 to 60 depending on how the species are defined.
 
 ## Features
@@ -94,15 +94,15 @@ The shape of the same zoanthid species may vary depending on where they are foun
 
 **Sometimes confused**
 with
-[sponges](../../../porifera/porifera.md)
+[sponges](../../../porifera/porifera)
 ,
-[ascidians](../../../ascidiacea/ascidiacea.md)
+[ascidians](../../../ascidiacea/ascidiacea)
 and other blob-like animals. Here's more on
-[how to tell apart blob-like animals](../../../glossary/blobs.md)
+[how to tell apart blob-like animals](../../../glossary/blobs)
 . They are also sometimes confused with
-[sea anemones](../../actiniaria/actiniaria.md)
+[sea anemones](../../actiniaria/actiniaria)
 . Here's more on
-[how to tell apart animals with a ring of smooth tentacles.](../../cfringtentacles.md)
+[how to tell apart animals with a ring of smooth tentacles.](../../cfringtentacles)
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Pretty Toxic :**
 Although they look harmlessly pretty, some zoanthids contain powerful toxins to protect themselves against predators. The most toxic marine poison, palytoxin, was discovered in a zoanthid. Minute quantities of palytoxin can paralyse and even kill. So don't handle zoanthids with open wounds on your hand or touch your mouth or eyes after handling them. It is believed that the toxins are not produced by the animal but by bacteria that live in symbiosis with the polyps.
@@ -112,11 +112,11 @@ Although they look harmlessly pretty, some zoanthids contain powerful toxins to 
 Wear covered shoes and long pants to cover all skin exposed to water. Do not touch zoanthids.
 
 Despite their toxins, some animals have adapted to eat zoanthids. These include the
-[Common hairy crab](../../../crustacea/crab/pilumnidae/pilumnidae.md)
+[Common hairy crab](../../../crustacea/crab/pilumnidae/pilumnidae)
 ,
-[filefishes](../../../vertebrates/fish/monacanthidae/monacanthidae.md)
+[filefishes](../../../vertebrates/fish/monacanthidae/monacanthidae)
 and
-[nudibranchs](../../../mollusca/nudibranchia.md)
+[nudibranchs](../../../mollusca/nudibranchia)
 .
 
 **What do they eat?**
@@ -151,20 +151,20 @@ Wee Y.C. and Peter K. L. Ng. 1994.
 *
 **Family Zoanthidae**
 
-[*Palythoa tuberculosa*](tuberculosa.md)
+[*Palythoa tuberculosa*](tuberculosa)
 (Sea mat zoanthids)
 
 +
-[*Palythoa mutuki*](mutuki.md)
+[*Palythoa mutuki*](mutuki)
 (Broad zoanthids)
 
 +
 [*Zoanthus*
-sp.](zoanthus.md)
+sp.](zoanthus)
 (Button zoanthids)
 
 +
-*[Zoanthus vietnamensis](pink.md)*
+*[Zoanthus vietnamensis](pink)*
 (Pink button zoanthids)
 
 ---

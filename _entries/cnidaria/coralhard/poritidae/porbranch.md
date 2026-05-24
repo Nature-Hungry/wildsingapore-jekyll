@@ -104,14 +104,14 @@ This lumpy hard coral with tiny corallites and polyps is commonly seen on many o
 Colonies 10-20cm, sometimes much larger. A boulder-shaped base with irregular lumps sometimes flattened sideways, with rounded, flat tops. Corallites tiny (0.1-0.2cm) hexagonal, packed close to one another. The tiny corallites are shallow and don't stick out of the surface. The surface thus often appears smooth with many tiny pores. Polyps are very tiny (0.1-0.2cm) with short body columns and short tentacles that are usually only extended at night. Colours seen include brown, green, bluish and purplish. Usually the colony is of one uniform colour.
 
 Branching pore coral often provides shelter for small animals such as
-[tiny clams](../../../mollusca/bivalvia/pectinidae/coral.md)
+[tiny clams](../../../mollusca/bivalvia/pectinidae/coral)
 .
 
 **May be mistaken for**
 some
-[branching Montipora coral species with ridges](../acroporidae/monridged.md)
+[branching Montipora coral species with ridges](../acroporidae/monridged)
 which look very similar. For convenience of display, all branching species that resemble Montipora are featured on the
-[Montipora page](../acroporidae/monridged.md)
+[Montipora page](../acroporidae/monridged)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

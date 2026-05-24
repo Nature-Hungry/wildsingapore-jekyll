@@ -115,9 +115,9 @@ galleries:
     caption: ''
 links_references: |
   **Links**
-  - [*Natica gualtieriana*](http://seashellsofnsw.org.au/Naticidae/Pages/Natica_gualtieriana.md)
+  - [*Natica gualtieriana*](http://seashellsofnsw.org.au/Naticidae/Pages/Natica_gualtieriana)
   on
-  [The Seashells of New South Wales](http://seashellsofnsw.org.au/index.md)
+  [The Seashells of New South Wales](http://seashellsofnsw.org.au/index)
   by Des Beechey Research Associate, Australian Museum:
   - [Gualteri's moon snail (
   *Natica gualtieriana*
@@ -126,7 +126,7 @@ links_references: |
   - Gualteri's moon snail (
   *Natica gualteriana*
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   **References**

@@ -89,7 +89,7 @@ links_references: |
   from
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet on the family, and fact sheets on individual species.
-  - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.md)
+  - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
   - [Cock-eyed fish: how did it get to be that way?](http://wildshores.blogspot.com/2008/09/cock-eyed-fish-how-did-it-get-that-way.html)
   some fossil findings on the wild shores of singapore blog.
@@ -125,7 +125,7 @@ location: []
 Like animated leaves, these fishes are encountered on many of our shores.
 ****
 Tiny juvenile soles are sometimes seen by the eagle-eyed visitor on the sand, especially in seagrass areas. These may be as tiny as 2cm long. Some small ones may be mistaken for
-[flatworms](../../../worm/polycladida/polycladida.md)
+[flatworms](../../../worm/polycladida/polycladida)
 ! Larger adults (20-40cm) are sometimes encountered too, usually when they are accidentally stepped upon.
 **What are flatfishes?**
 Flatfishes belong to the Order Pleuronectiformes. These fishes are flat, with eyes on one side of their body. The underside or blind side tends to be flat and pale. The eyed side has camouflaging colours and patterns. Many flatfishes can change the colours and patterns of the eyed side to blend in with their surroundings. Some species are banded like a zebra on the eyed side!
@@ -141,7 +141,7 @@ Flatfishes undergo an amazing change as they grow up. When it first hatches, a f
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Roving eye:**
 If the right eye migrates to the left side, the flatfish is left-eyed (sinistral). If the left eye migrates to the right side, the fish is right-eyed (dextral). Left-eyed flatfish include the Family Paralichthyidae (lefteye flounders). Right-eyed flatfish include the Family Pleuronectidae (righteye flounders); Family Soleidae (true soles) and Family Cynoglossidae (tongue-soles). Here's more on
-[how to tell apart flatfish families](pleuronectiformes1.md)
+[how to tell apart flatfish families](pleuronectiformes1)
 commonly seen on our shores.
 
 **Human uses:**
@@ -170,11 +170,11 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
 
 +Other additiona (Singapore Biodiversity Records, etc).
 
-**[Family Bothidae](../bothidae/polyophthalmus.md)
+**[Family Bothidae](../bothidae/polyophthalmus)
 (lefteye flounders)**
 with list of species recorded for Singapore
 
-**[Family Paralichthyidae](../paralichthyidae/paralichthyidae.md)
+**[Family Paralichthyidae](../paralichthyidae/paralichthyidae)
 **
 (large-tooth flounders)**
 **
@@ -188,17 +188,17 @@ with list of species recorded for Singapore
 
 *Samaris cristatus*
 
-**[Family Psettodidae](../psettodidae/psettodidae.md)
+**[Family Psettodidae](../psettodidae/psettodidae)
 (halibuts)**
 with list of species recorded for Singapore
 
-**[Family Soleidae](../soleidae/soleidae.md)
+**[Family Soleidae](../soleidae/soleidae)
 **
 (soles)**
 with list of species recorded for Singapore
 
 **
-**[Family Cynoglossidae](../cynoglossidae/cynoglossidae.md)
+**[Family Cynoglossidae](../cynoglossidae/cynoglossidae)
 **
 (tongue-soles)**
 with list of species recorded for Singapore

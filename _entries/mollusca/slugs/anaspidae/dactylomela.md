@@ -92,12 +92,12 @@ galleries:
       Richard Kuah on facebook .
 links_references: |
   **Links**
-  - [Sea Slug Forum](http://www.seaslugforum.net/welcome.md)
+  - [Sea Slug Forum](http://www.seaslugforum.net/welcome)
   by Dr Bill Rudman: photos and fact sheet on
   *[Aplysia dactylomela](http://www.seaslugforum.net/factsheet.cfm?base=aplydact)*
   - [The Slug Site:](http://slugsite.us/)
   photo and fact sheet on the Branch of the Week
-  *[Aplysia dactylomela](http://slugsite.us/bow/nudwk174.md)*
+  *[Aplysia dactylomela](http://slugsite.us/bow/nudwk174)*
 
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
@@ -140,12 +140,12 @@ This large sea hare is sometimes seen near reefs on our Southern shores. Often, 
 
 **What do they eat?**
 Like other sea hares, they graze on seaweeds. Some accounts say they prefer red seaweeds but will feed on others if their preferred food is not available. Other accounts say they feed on green seaweed. Some of seaweeds identified as their food include
-*[Udotea](../../../plants/seaweed/chlorophyta/udotea.md)
+*[Udotea](../../../plants/seaweed/chlorophyta/udotea)
 , Rhinocephalus,
-[Caulerpa](../../../plants/seaweed/chlorophyta/caulerpa.md)
+[Caulerpa](../../../plants/seaweed/chlorophyta/caulerpa)
 , Penicillu*
 s and
-*[Halimeda](../../../plants/seaweed/chlorophyta/halimeda.md)
+*[Halimeda](../../../plants/seaweed/chlorophyta/halimeda)
 .*{% include img-wrap-group.html items=page.galleries.gallery1 %}
 ---
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

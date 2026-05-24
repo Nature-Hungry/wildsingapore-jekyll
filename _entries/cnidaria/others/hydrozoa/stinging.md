@@ -164,7 +164,7 @@ Wear covered shoes and long pants to cover all skin exposed to water. Do not tou
 Despite their stings, sometimes, tiny animals can be found living among hydroids. These include tiny shrimps and other crustacea and nudibranchs like
 *Lomanotus vermiformis*
 .
-[Squid egg capsules](../../../mollusca/cephalopoda/cepeggs.md)
+[Squid egg capsules](../../../mollusca/cephalopoda/cepeggs)
 have also been seen laid on these hydroids.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}

@@ -174,13 +174,13 @@ in the above.
 *On this website, they are grouped by external features for convenience of display*
 *.*
 
-[Encrusting disk coral](encrust.md)
+[Encrusting disk coral](encrust)
 
-[Ruffled disk coral](ruffled.md)
+[Ruffled disk coral](ruffled)
 
-[Thin disk coral](thin.md)
+[Thin disk coral](thin)
 
-**[Family Dendrophyllidae](dendrophyllidae.md)
+**[Family Dendrophyllidae](dendrophyllidae)
 
 Genus
 *Turbinaria***
@@ -191,7 +191,7 @@ Turbinaria irregularis
 
 Turbinaria mesenterina (Vase coral)
 
-[Turbinaria peltata](flowery.md)
+[Turbinaria peltata](flowery)
 (Flowery disk coral)
 
 Turbinaria radicalis

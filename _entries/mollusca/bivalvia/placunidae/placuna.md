@@ -107,7 +107,7 @@ links_references: |
   [The Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html)
   at Washington State University Tri-Cities Natural History Museum website.
   - Family Placunidae in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   **References**
@@ -146,7 +146,7 @@ location:
 This large animal with a thin translucent shell is still commonly encountered on our Northern shores, and some of our Southern shores. Among seagrass meadows, lying loose on the ground.
 Elsewhere, abundant in muddy habitats such as quiet lagoons, protected bays and mangrove lagoons.
 Previously grouped with the
-[Family Anomiidae](../anomiidae/anomiidae.md)
+[Family Anomiidae](../anomiidae/anomiidae)
 (Jingle shell clams), the Window-pane clam is now in Family Placunidae.
 
 ## Features
@@ -167,7 +167,7 @@ Like other bivalves, Window-pane clams are filter feeders. When submerged, the s
 
 **Living on a Window:**
 Hard surfaces are scarce in the habitat where the Window-pane clams live. So seaweeds and many animals have been seen growing on the shells of a living Window-pane clams: corals, ascidians, scallops. Pea crabs may also live inside the Window-pane clam. The living clam may be carried by a
-[sea urchin](../../../echinodermata/echinoidea/urchin/urchin.md)
+[sea urchin](../../../echinodermata/echinoidea/urchin/urchin)
 as an umbrella, or as a shelter for all kinds of animals from tiny hermit crabs, to larger octopuses.
 
 {% include img-wrap-group.html items=page.galleries.gallery4 %}**Human uses:**

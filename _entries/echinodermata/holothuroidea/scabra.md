@@ -115,7 +115,7 @@ galleries:
       facebook .
 links_references: |
   **Links**
-  - [Sea cucumbers](http://mangrove.nus.edu.sg/pub/seashore/text/222.md)
+  - [Sea cucumbers](http://mangrove.nus.edu.sg/pub/seashore/text/222)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -131,7 +131,7 @@ links_references: |
   on IUCN Red List: Technical fact sheet.
   - *Holothuria scabra*
   on
-  [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00.md)
+  [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00)
   , by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
   - [Sea cucumber ranching](http://wildshores.blogspot.com/2009/02/sea-cucumber-ranching.html)
   about cultivation of
@@ -204,7 +204,7 @@ has found that this sea cucumber plays an important role in the health of seagra
 . According to the
 [IUCN Red List](http://www.iucnredlist.org/details/full/180257/0)
 , juveniles settle in shallow seagrass beds and prefer seagrass such as
-[Sickle seagrass](../../plants/seagrass/thalassia.md)
+[Sickle seagrass](../../plants/seagrass/thalassia)
 (
 *Thallassia hemprichi*
 ) as well as mangrove areas.

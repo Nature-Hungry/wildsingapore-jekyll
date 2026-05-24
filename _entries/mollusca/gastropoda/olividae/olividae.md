@@ -85,7 +85,7 @@ links_references: |
   - [Family Olividae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Olividae.html)
   on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief fact sheet on moon snails with photos.
   - Family Olividae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   **References**
@@ -115,11 +115,11 @@ These bullet-shaped snails are sometimes seen on the silty sandy shores near sea
 ## Features
 
 2-5cm. Shell cylindrical and looks like an olive. The shell opening is narrow and many members of this family do not have an operculum. Like a
-[cowrie](../cypraeidae/cypraeidae.md)
+[cowrie](../cypraeidae/cypraeidae)
 , the living olive snail envelopes its shell in its mantle. This is why the shell is so glossy. Most are burrowers that live in the sand. Relying mostly on the sense of smell to find their prey, their eyes are greatly reduced or absent. Olive snails are notoriously variable in colour, even within the same species.
 
 **Sometimes confused with**
-[Cone snails](../conidae/conidae.md)
+[Cone snails](../conidae/conidae)
 (Family Conidae) which can be
 **DEADLY**
 and
@@ -133,7 +133,7 @@ Although sometimes collected for food, they are mainly collected for their attra
 
 **Status and threats:**
 The
-[Orange-mouth olive snail](miniacea.md)
+[Orange-mouth olive snail](miniacea)
 is listed as 'Vulnerable' on the Red List of threatened animals of Singapore.
 
 ---
@@ -178,19 +178,19 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 
 Oliva lignaria
 
-[Oliva miniacea](miniacea.md)*
+[Oliva miniacea](miniacea)*
 (Orange-mouth olive snail) (VU: Vulnerable)
 *=Oliva sericea
 
-[Oliva mustelina](mustelina.md)*
+[Oliva mustelina](mustelina)*
 (Weasel olive snail)
-*[Oliva oliva](oliva.md)*
+*[Oliva oliva](oliva)*
 (Common olive snail)
 *Oliva reticulata
 
 Oliva sidelia
 
-[Oliva tigridella](tigridella.md)*
+[Oliva tigridella](tigridella)*
 (Tigerish olive snail)
 *Olivella plana*
 (^now in Family Olivellidae)

@@ -75,7 +75,7 @@ location:
 
 ## Where seen?
 This tiny crab is found living in
-[feather stars](../../../echinodermata/crinoidea/crinoidea.md)
+[feather stars](../../../echinodermata/crinoidea/crinoidea)
 (Class Crinoidea) and nowhere else. It is thought that the crab does NOT eat the feather star host, and in fact, protects it from predators. Crabs that are known to live in our feather stars include
 *Harrovia*
 species and

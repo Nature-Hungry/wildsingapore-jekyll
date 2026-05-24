@@ -54,14 +54,14 @@ location:
 
 **What are Hippolytid shrimps?**
 Hippolytid shrimps are
-[crustaceans](../../crustacea.md)
+[crustaceans](../../crustacea)
 that belong to Family Hippolytidae.
 ****
 
 ## Features
 
 Tiny (under 1cm) to small (2-5cm long). This family is large and includes a wide range of shimps found in a wide range of habitats: such as cleaner shrimps, shrimps with bent backs, sometimes called 'broke-back' or humpbacked shrimps. As well as very long slender shrimps that live on
-[sea whips](../../../cnidaria/others/gorgonacea/whip.md)
+[sea whips](../../../cnidaria/others/gorgonacea/whip)
 .
 
 ---
@@ -99,7 +99,7 @@ Latreutes porcinus
 
 Latreutes pymaeus=^Latreutes pymoeus*
 [*Lysmata*
-sp.](lysmata.md)
+sp.](lysmata)
 (Cleaner shrimp)
 ***Lysmata vittata
 
@@ -109,7 +109,7 @@ Phycocaris*
 sp.
 **
 [*Saron*
-sp.](saron.md)
+sp.](saron)
 (Saron shrimp)
 *Saron marmoratus*
 (Marbled shrimp)

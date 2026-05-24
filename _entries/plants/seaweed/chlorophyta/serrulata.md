@@ -66,7 +66,7 @@ galleries:
     caption: Pulau Senang, Jun 10
 links_references: |
   **Links**
-  - [*Caulerpa serrulata*](http://mangrove.nus.edu.sg/pub/seashore/text/101.md)
+  - [*Caulerpa serrulata*](http://mangrove.nus.edu.sg/pub/seashore/text/101)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -130,7 +130,7 @@ This coiled, serrated seaweed is sometimes seen on some of our shores, growing i
 
 **Sometimes confused with**
 similar green seaweeds. Here's more on
-[how to tell apart some green seaweeds](cffeathery.md)
+[how to tell apart some green seaweeds](cffeathery)
 .
 
 **Human uses:**

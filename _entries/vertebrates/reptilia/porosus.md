@@ -31,9 +31,9 @@ links_references: |
   **Links**
   - [*Crocodylus porosus*](http://taxo4254.wikispaces.com/Crocodylus+porosus)
   (Crocodylia: Crocodylidae) Salt-water Crocodile by Mohamed Hussain, 2012, on taxo4254.
-  - [Is That a Crocodile or a Monitor Lizard?](http://www.sbwr.org.sg/Wetlands/text/06-133-1.md)
+  - [Is That a Crocodile or a Monitor Lizard?](http://www.sbwr.org.sg/Wetlands/text/06-133-1)
   by Ramakrishnan Kolandavelu in Wetlands, a publication of the Sungei Buloh Wetland Reserve, Vol 13 No 3, 2006.
-  - [Estuarine crocodile](http://www.ecologyasia.com/verts/lizards/estuarine_crocodile.md)
+  - [Estuarine crocodile](http://www.ecologyasia.com/verts/lizards/estuarine_crocodile)
   on Nick Baker's EcologyAsia website: fact sheet with photos.
   - [*Crocodylus porosus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Crocodylus%20porosus.html)
   (Crocodylia: Crocodylidae) Salt-water Crocodile by Mohamed Hussain, 2012 on taxo4254.
@@ -73,7 +73,7 @@ Up to 8m long. A large triangular head with broad and long snout and bulbous eye
 
 **Sometimes mistaken for**
 the
-[Malayan water monitor lizard](salvator.md)
+[Malayan water monitor lizard](salvator)
 . The lizard's snout is short and narrow, and tail is long and slender. A crocodile has a long snout and a much thicker fatter tail.
 
 The lizard often swims by placing its limbs against its body and undulating its long tail from side to side. The crocodile may swim in the same way as the lizard. It may also often sink into the murky water and emerge some distance away. Sometimes, all that sticks out above water are the crocodile's eyes and the tip of its long snout.

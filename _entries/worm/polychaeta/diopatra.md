@@ -66,7 +66,7 @@ galleries:
     caption: Berlayar Creek, Oct 25 Photo shared by Tammy Lim on facebook .
 links_references: |
   **Links**
-  - [Tube worms](http://mangrove.nus.edu.sg/guidebooks/text/2007.md)
+  - [Tube worms](http://mangrove.nus.edu.sg/guidebooks/text/2007)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
@@ -107,9 +107,9 @@ Like rubber hoses sticking out of the ground, the sturdy tubes of this worm are 
 
 **What are solitary tubeworms?**
 Solitary tubeworms are segmented bristleworms belonging to the Family Onuphidae, Class
-[Polychaeta](polychaeta.md)
+[Polychaeta](polychaeta)
 , Phylum Annelida. The polychaetes include bristleworms, and Phylum Annelida includes the more familiar earthworm. Most members of the Family Onuphidae build tubes. Some of them carry the tubes around, others are stationary but can leave their tubes. Not all tubeworms are polychaetes and not all polychaetes are tubeworms. More about
-[tubeworms in general](../tubeworm/tubeworms.md)
+[tubeworms in general](../tubeworm/tubeworms)
 .
 
 ## Features

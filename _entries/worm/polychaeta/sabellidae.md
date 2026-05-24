@@ -60,7 +60,7 @@ galleries:
       caption: White spiral fanworm
 links_references: |
   **Links**
-  - [Fanworm](http://mangrove.nus.edu.sg/pub/seashore/text/126.md)
+  - [Fanworm](http://mangrove.nus.edu.sg/pub/seashore/text/126)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -97,9 +97,9 @@ Even those who find worms icky will be delighted by these elegant feathery creat
 
 **What are fanworms?**
 Fanworms are segmented worms belonging to Family Sabllidae, Class
-[Polychaeta](polychaeta.md)
+[Polychaeta](polychaeta)
 , Phylum Annelida. The polychaetes include bristleworms, and Phylum Annelida includes the more familiar earthworm. The segmented portion of the fanworm is usually well hidden inside the tube like other
-[tubeworms](../tubeworm/tubeworms.md)
+[tubeworms](../tubeworm/tubeworms)
 .
 
 **fanworm features:**
@@ -119,9 +119,9 @@ It moulds the string with a special fleshy fold of tissue near the top of its bo
 
 **Similar worm:**
 Feather-duster or 'Christmas tree fanworms' more familiar to divers belong to
-[Family Serpulidae](serpulidae.md)
+[Family Serpulidae](serpulidae)
 . These worms build hard tubes out of calcium, while fanworms' don't. Feather duster worms usually have an operculum to cover the tube opening, while fanworms don't. More on how to tell apart
-[animals with a ring of feathery tentacles](../../glossary/feathery.md)
+[animals with a ring of feathery tentacles](../../glossary/feathery)
 .
 **Human uses:**
 Unfortunately, fanworms are popular in the live aquarium trade and collected for this purpose. A fanworm (
@@ -162,16 +162,16 @@ by Lim Yun Ping 1997-2000
 *Species are difficult to positively identify without close examination.*
 *On this website, they are grouped by external features for convenience of display.*
 
-[Banded fanworm](sabbanded.md)
+[Banded fanworm](sabbanded)
 
-[Blue fanworm](sabblue.md)
+[Blue fanworm](sabblue)
 
-[Orange fanworm](saborange.md)
-[Spotted fanworm](sabspotted.md)
+[Orange fanworm](saborange)
+[Spotted fanworm](sabspotted)
 
-[Tiny sand fanworm](sabtinysand.md)
+[Tiny sand fanworm](sabtinysand)
 
-[White spiral fanworm](sabwhite.md)
+[White spiral fanworm](sabwhite)
 
 **Family Sabellidae**
 

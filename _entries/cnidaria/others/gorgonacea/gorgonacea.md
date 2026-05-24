@@ -75,7 +75,7 @@ Most people are surprised to learn that sea fans are still quite commonly seen o
 
 **What are gorgonians?**
 These beautiful delicate creatures are often mistaken for plants. Gorgonians belong to
-[Phylum Cnidaria](../../cnidaria.md)
+[Phylum Cnidaria](../../cnidaria)
 which includes the more familiar sea anemones, hard corals and jellyfishes. Gorgonians are members of the soft coral group (Subclass Alcyonaria/Octocorallia). There are about 18 families of gorgonians.
 
 ## Features
@@ -95,7 +95,7 @@ Studies suggest gorgonian polyps have few or weak stinging cells and feed on par
 A sea fan usually grows so that the branches are at right angles to the flow of the current. This maximises the amount of water filtered and apparently breaks up the water current into curls that wash back over the polyps, for a second chance to filter out more edible bits. Sea fans are most abundant and grow largest where there is a strong one-way current.
 
 A few shallow-water sea fans like the
-[Leathery sea fan](leathery.md)
+[Leathery sea fan](leathery)
 harbour zooxanthellae (symbiotic single-celled algae) inside their polyps. These carry out photosynthesis and contribute nutrients to the host polyp. But most gorgonians do not have zooxanthellae and are thus able to grow in shadier places or murkier water.
 
 **Sea fan babies:**
@@ -105,13 +105,13 @@ Gorgonians sometimes also reproduce by budding off new polyps to enlarge the col
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Role in the habitat:**
 All kinds of small animals live on gorgonians including tunicates, barnacles,
-[clams](../../../mollusca/bivalvia/pteriidae/seafan.md)
+[clams](../../../mollusca/bivalvia/pteriidae/seafan)
 , snails (such as the
-[ovulids](../../../mollusca/gastropoda/ovulidae/ovulidae.md)
+[ovulids](../../../mollusca/gastropoda/ovulidae/ovulidae)
 ), tiny shrimps,
-[brittle stars](../../../echinodermata/ophiuroidea/tinycolourful.md)
+[brittle stars](../../../echinodermata/ophiuroidea/tinycolourful)
 and gobies.
-[Hermit crabs](../../../crustacea/othercrust/anomura/hermit/banded.md)
+[Hermit crabs](../../../crustacea/othercrust/anomura/hermit/banded)
 have also been seen clinging to sea fans. Some of these small animals prey on the sea fan. These animals usually take on the shape and colour of their host. Squids may also lay their eggs on sea fans.
 
 **Human uses:**
@@ -154,7 +154,7 @@ Groups from Fabricius, Katharina and Philip Alderslade, 2001.
 **Family Briareidae**
 
 [*Briareum*
-sp.](../../coralsoft/feafine.md)
+sp.](../../coralsoft/feafine)
 (Fine feathery soft corals)
 
 *Briareum excavatum*
@@ -174,8 +174,8 @@ sp. B
 
 **Family Subergorgiidae**
 
-*[Subergorgia](flatbranch.md)*
-[sp.](flatbranch.md)
+*[Subergorgia](flatbranch)*
+[sp.](flatbranch)
 **
 (Flat branch sea fan)
 *Subergorgia suberosa
@@ -184,7 +184,7 @@ Subergorgia mollis*
 
 ****
 
-**[Family Melithaeidae](tree.md)**
+**[Family Melithaeidae](tree)**
 (Tree sea fan)
 
 *Acabaria robusta
@@ -214,8 +214,8 @@ sp. C
 **
 **Family Plexauridae**
 
-*[Astrogorgia](skinny.md)*
-[sp.](skinny.md)
+*[Astrogorgia](skinny)*
+[sp.](skinny)
 **
 (Skinny sea fan)
 *Astrogorgia*
@@ -229,10 +229,10 @@ cf.
 sp. A
 *Astrogorgia*
 sp. B
-*[Echinomuricea pulchra](gnarled.md)*
+*[Echinomuricea pulchra](gnarled)*
 (Gnarled sea fan)
-*[Echinogorgia](maze.md)*
-[sp.](maze.md)
+*[Echinogorgia](maze)*
+[sp.](maze)
 **
 (Maze sea fan)
 *Echinogorgia*
@@ -254,7 +254,7 @@ sp. E
 sp. F
 
 [*Euplexaura*
-sp.](candelabra.md)
+sp.](candelabra)
 (Candelabra sea fan)
 
 *Euplexaura*
@@ -265,7 +265,7 @@ Euplexaura*
 sp. A
 
 +
-**[Family Gorgoniidae](leathery.md)**
+**[Family Gorgoniidae](leathery)**
 (Leathery sea fan)
 
 **SUBORDER CALCAXONIA**
@@ -273,7 +273,7 @@ sp. A
 **
 **Family Ellisellidae**
 
-*[Ctenocella (Ctenocella) pectinata](lyre.md)*
+*[Ctenocella (Ctenocella) pectinata](lyre)*
 (Lyre sea fan)
 
 *Ctenocella (Ellisella) laevis
@@ -286,12 +286,12 @@ Ctenocella (Umbracella)*
 sp. A
 **
 [*Junceella (Junceella)*
-sp. A](whip.md)
+sp. A](whip)
 (Sea whip)
 
-*[Junceella (Dichotella)](asparagus.md)*
-[cf.](asparagus.md)
-*[gemmacea](asparagus.md)*
+*[Junceella (Dichotella)](asparagus)*
+[cf.](asparagus)
+*[gemmacea](asparagus)*
 (Asparagus sea fan)
 
 **Viminella*

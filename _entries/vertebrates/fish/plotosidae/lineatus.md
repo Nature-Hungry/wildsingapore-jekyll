@@ -111,7 +111,7 @@ links_references: |
   **Links**
   - [Striped eeltail catfish (
   *Plotosus lineatus*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/226.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/226)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
@@ -173,17 +173,17 @@ This eel-like fish in pajamas is often seen on many of our shores, among seagras
 Adults can reach about 30cm long, those seen on the intertidal range from tiny ones about 1cm, to juveniles about 15cm long. Body long and cylindrical, flattening into an eel-like tail. Colour black, brown or even maroon. Two or three stripes along the body. The white or pale yellow stripes are bright in young fishes and may be faded in old adults.
 
 **Sometimes confused with**
-[Black eeltail catfishes](canius.md)
+[Black eeltail catfishes](canius)
 (
 *Plotosus canius*
 ). The adults of these two eeltail catfishes may appear similar as the stripes on the Striped eeltail catfish fades with age. In Black eeltail catfish adults, the long barbels at the top of the snout can extend past the eyes. In adult Striped eeltail catfishes, these barbels don't extend past the eyes.
 
 **Sometimes mistaken for**
-[sea snakes](../../snakes/hydrophiidae/laticauda.md)
+[sea snakes](../../snakes/hydrophiidae/laticauda)
 or
-[eels](../muraenidae/muraenidae.md)
+[eels](../muraenidae/muraenidae)
 (Family Muraenidae). Here's more on
-[how to tell apart sea snakes, eels and eel-like animals](../../../glossary/eelsnake.md)
+[how to tell apart sea snakes, eels and eel-like animals](../../../glossary/eelsnake)
 .
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 

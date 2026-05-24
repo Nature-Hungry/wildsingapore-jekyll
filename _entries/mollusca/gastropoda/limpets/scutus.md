@@ -105,7 +105,7 @@ galleries:
 links_references: |
   **Links**
   - [*Scutus*
-  sp.](http://www.seaslugforum.net/scutus.md)
+  sp.](http://www.seaslugforum.net/scutus)
   on the Slug Site by Dr Rudman: fact sheet and photos.
   - [*Scutus unguis*](http://www.sealifebase.org/summary/SpeciesSummary.php?id=9007)
   on SeaLife Base: Technical fact sheet.
@@ -157,9 +157,9 @@ is the only other species so far listed for Singapore.
 The hoof-shield limpet is a true limpet and breathes with gills. Unlike other members of the Family Fissurellidae, a hoof-shield limpet doesn't have a hole at the top of its shell.
 
 **Sometimes confused with**
-[slugs](../../slug.md)
+[slugs](../../slug)
 which are snails without shells. Here's more on how to tell apart
-[slugs and other slug-like animals](../../../glossary/flatwormslug.md)
+[slugs and other slug-like animals](../../../glossary/flatwormslug)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What do they eat?**

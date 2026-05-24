@@ -64,7 +64,7 @@ galleries:
     caption: Arrow-headed spider crab
 links_references: |
   **Links**
-  - [Velcro and Decorator crab of the Family Majidae](http://mangrove.nus.edu.sg/pub/seashore/text/188.md)
+  - [Velcro and Decorator crab of the Family Majidae](http://mangrove.nus.edu.sg/pub/seashore/text/188)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -115,7 +115,7 @@ Our tiny spider crabs are cousins of the biggest crab in the world! The Japanese
 
 **Human uses:**
 Unfortunately, the
-[Velcro crab](retusa.md)
+[Velcro crab](retusa)
 (
 *Camposcia retusa*
 ) is among those sold in the live aquarium trade.
@@ -162,7 +162,7 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 
 On this website, they are grouped by external features for convenience of display.*
 
-[Tiny spider crabs](tiny.md)
+[Tiny spider crabs](tiny)
 
 **Family Majidae**
 
@@ -174,7 +174,7 @@ On this website, they are grouped by external features for convenience of displa
 (EN: Endangered)
 **
 [*Schizophrys*
-sp.](schizophrys.md)
+sp.](schizophrys)
 (Sea toad spider crab)
 *Schizophrys aspera
 
@@ -198,7 +198,7 @@ Hyastenus diacanthus*
 (EN: Endangered)
 
 [*Menatheius*
-sp.](menatheius.md)
+sp.](menatheius)
 (Arrow-head spider crab)
 ****
 *Menaethius monoceros*
@@ -212,7 +212,7 @@ Xenocarcinus tuberculatus*
 *****Family Inachidae**
 (previously Majidae)
 
-*[Camposcia retusa](retusa.md)*
+*[Camposcia retusa](retusa)*
 (Velcro crab)
 **
 (VU: Vulnerable)

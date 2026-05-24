@@ -90,7 +90,7 @@ The study suggests it "may have been transported in ballast water and/or with fo
 
 **Invader impacts:**
 A study found that this invasive mussel is displacing the
-[Green mussel](viridis.md)
+[Green mussel](viridis)
 . The dense mats also prevented horseshoe crabs from burrowing into the ground. The invasive mussels were even seen growing on living horseshoe crabs, weighing them down and making it more difficult for them to move around freely.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}

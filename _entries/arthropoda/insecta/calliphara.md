@@ -49,7 +49,7 @@ links_references: |
   **Links**
   - [Shield/Stink bug (
   *Calliphara nobilis*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2012.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2012)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)
   II (Animal Diversity)*
@@ -67,7 +67,7 @@ This colourful insect is sometimes seen in numbers in our mangroves.
 ## Features
 
 Adults about 1-1.5cm long. The larvae are only found on
-[Buta buta trees](../plants/mangrove/excoecaria/excoecaria.md)
+[Buta buta trees](../plants/mangrove/excoecaria/excoecaria)
 (
 *Excoecaria algallocha*
 ), where they feed on the developing seeds. But the adults may be found in groups under large leaves of any mangrove plant.

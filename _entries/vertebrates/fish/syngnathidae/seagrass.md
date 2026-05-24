@@ -220,7 +220,7 @@ This skinny long fish can be seasonally abundant in seagrass areas on our Northe
 
 **Sometimes mistaken for**
 other fishes that resemble twigs and roots. Here's more on
-[how to tell apart stick-like fishes](../cfstick.md)
+[how to tell apart stick-like fishes](../cfstick)
 commonly seen on our shores.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
@@ -232,7 +232,7 @@ Some pipefishes may perform courtship dances before mating. Unlike seahorses, a 
 
 {% include img-wrap-group.html items=page.galleries.gallery5 %}**Status and threats:**
 See
-[Family Sygnathidae](syngnathidae.md)
+[Family Sygnathidae](syngnathidae)
 for threats to pipefishes and seahorses.
 
 **Species are difficult to positively identify without close examination of small features.

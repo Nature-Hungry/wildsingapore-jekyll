@@ -111,7 +111,7 @@ species.
 
 **Human uses:**
 Strap brown seaweed is eaten by people and used as animal feed, medicine for its antibacterial properties.
-[*Dictyota dichotoma*](ybranch.md)
+[*Dictyota dichotoma*](ybranch)
 is also used to make beer, frozen food, fruit juices, ice cream, jellies, in meat and flavour sauces, milk shakes, pastries and salad dressings. Extracts from it are also used in industry as emulsifiers, gelling agents, stabilisers.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
@@ -158,7 +158,7 @@ Dictyota ciliolata
 
 Dictyota crispata
 
-[Dictyota dichotoma](ybranch.md)*
+[Dictyota dichotoma](ybranch)*
 (Bluish y-branch brown seaweed)
 *Dictyota dichotoma var. intricata
 

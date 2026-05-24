@@ -136,22 +136,22 @@ Colonies generally 5-10cm, each polyp about 1-2cm in diameter with a wide oral d
 The polyps are not embedded in a thick common tissue but are joined to one another at the base by underground stems (called stolons).The long body column raises the oral disk above the common tissue. Broad zoanthids can multiply by budding. They are found in small clumps of a few to many individuals. Body column usually beige or brown, oral disk usually brown, sometimes shades of green or bright blue.
 
 Some species of broad zoanthids have been recorded to contain the highly toxic
-[palytoxin](zoanthid.md)
+[palytoxin](zoanthid)
 .
 
 Compared to
-[button zoanthids](zoanthus.md)
+[button zoanthids](zoanthus)
 (
 *Zoanthus*
 sp.), broad zoanthids are generally found in smaller clusters with fewer individuals, although large mounds of them are sometimes seen.
 
 **Sometimes confused**
 with
-[sponges](../../../porifera/porifera.md)
+[sponges](../../../porifera/porifera)
 ,
-[ascidians](../../../ascidiacea/ascidiacea.md)
+[ascidians](../../../ascidiacea/ascidiacea)
 and other blob-like animals. Here's more on
-[how to tell apart blob-like animals](../../../glossary/blobs.md)
+[how to tell apart blob-like animals](../../../glossary/blobs)
 .
 
 **What does it eat?**

@@ -110,7 +110,7 @@ links_references: |
   **Links**
   - [Sponge Crab (
   *Cryptodromia*
-  sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/187.md)
+  sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/187)
   Tan, Leo W. H. & Ng, Peter K. L., 1988,
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -156,9 +156,9 @@ This intriguing crab is seen on our Northern shores, in coral rubble and seagras
 Body nearly spherical width 0.5-5cm, although sometimes larger ones are encountered. Some have a smooth body and pincers covered with fine hairs and pink tips on the pincers. Other have a very hairy body and pincers, with white tips on the pincers.
 
 The sponge crab uses its pincers to snip out a cap out of a living
-[ascidian](../../../ascidiacea/ascidiacea.md)
+[ascidian](../../../ascidiacea/ascidiacea)
 or
-[sponge](../../../porifera/porifera.md)
+[sponge](../../../porifera/porifera)
 to fit over its body. To grip this cap as it walks around, the crab's last pair of legs are slender, bent over its back and tipped with sharp little claws. The ascidian or sponge continues to live and grow and the crab constantly trims it to the right size. The crab's camouflage is do good that it is almost impossible to spot unless it moves. The disguise usually tastes bad and provides additional protection by discouraging predators from taking a bite out of the crab even if it is discovered. Like other crabs that rely on a disguise, it tends to move slowly.
 
 **What does it eat?**

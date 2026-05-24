@@ -40,7 +40,7 @@ links_references: |
   - [*Brownlowia tersa*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=5441)
   on NParks Flora and Fauna website: photos and fact sheet.
   - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.md)
+  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
   (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
   ****
   
@@ -64,7 +64,7 @@ links_references: |
 
 ## Where seen?
 A rather drab shrub that is often overlooked. Some can be seen at Sungei Buloh Wetland Reserve, Kranji Nature Trail, Mandai mangroves and at Woodlands Park. Elsewhere, it is also considered rare, although it can be abundant where it is found. It is said to grow in relatively sunny locations in mangrove swamps, and along creeks where mud is accreting. Also found on sandy shores or firm mud, along with
-[Nipah palm](../nypa/nypa.md)
+[Nipah palm](../nypa/nypa)
 (
 *Nypa fruticans*
 ).

@@ -77,7 +77,7 @@ This small flatworm is sometimes seen on some of our shores, on coral rubble nea
 
 **Sometimes mistaken for**
 similar flatworms. Here's more on how to tell apart small flatworms with
-[one central line and three central lines](cfstriped.md)
+[one central line and three central lines](cfstriped)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 ***

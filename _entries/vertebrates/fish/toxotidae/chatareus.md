@@ -47,7 +47,7 @@ links_references: |
   : Technical fact sheet
   - [Seven-spot archerfish (
   *Toxotes chatareus*
-  )](http://www.amonline.net.au/fishes/fishfacts/fish/tchatar.md)
+  )](http://www.amonline.net.au/fishes/fishfacts/fish/tchatar)
   from the
   [Australian Museum Fish Site](http://www.amonline.net.au/fishes/fishfacts/)
   : fact sheet with photo of fish and closeup of the structure of the fish's mouth with groove on the roof and shape of tongue.
@@ -63,7 +63,7 @@ location:
 
 ## Where seen?
 It is not seen as often as
-[Banded archerfishes](jaculatrix.md)
+[Banded archerfishes](jaculatrix)
 , but sometimes seen together with these. Under jetties, bridges in streams near mangroves.
 
 ## Features
@@ -72,7 +72,7 @@ About 20cm, to about 40cm long. Smaller black spots between the broad black band
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**
 The Spotted archerfish feeds on floating titbits including insects and vegetation, as well as crustaceans and small fishes.
-[More](toxotidae.md)
+[More](toxotidae)
 about the archerfishes' infamous ability to shoot down insects.
 
 **Spotted babies:**

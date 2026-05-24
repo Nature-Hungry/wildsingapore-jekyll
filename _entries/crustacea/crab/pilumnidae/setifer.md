@@ -89,7 +89,7 @@ Only the odd movement of coral rubble gives away the presence of this little cra
 ## Features
 
 Body width 2-3cm. Body oval, body and legs covered with velvety hairs, but is not as hairy as the
-[Common hairy crab](pilumnus.md)
+[Common hairy crab](pilumnus)
 . It has stout pincers, one larger than the other, both covered in bead-like bumps.
 
 If the piece of coral is overturned, the crab will turn it back the right way and scuttle back into its hiding place. The crab moves around by holding the rubble with its back legs and pushing agains the ground with its pincers.

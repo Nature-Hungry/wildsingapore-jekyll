@@ -51,7 +51,7 @@ A shrub to tree 12m tall. Bark brownish with some lenticels, flaky at the base.
 Leaves oval (tips not pointed) (7-11cm), glossy green. Leaf stalk usually not pinkish. Stipule flattened knife-like.
 
 Flowers small (0.5cm) with tiny white frilly petals. Several flowers on a short stalk, but not as many flowers as in
-[Tengar](tagal.md)
+[Tengar](tagal)
 (
 *Ceriops tagal*
 ).

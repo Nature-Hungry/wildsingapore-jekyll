@@ -41,13 +41,13 @@ galleries:
       caption: "Cyrene Reef, Aug 10 Photo shared by Marcus Ng on flickr ."
 links_references: |
   **Links**
-  - [Order Isopoda](http://mangrove.nus.edu.sg/pub/seashore/text/177.md)
+  - [Order Isopoda](http://mangrove.nus.edu.sg/pub/seashore/text/177)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
   - [Warty pill-bug (
   *Sphaeroma terebrans*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2035.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2035)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
@@ -71,14 +71,14 @@ links_references: |
 
 ## Where seen?
 These tiny segmented animals are sometimes seen our shores, often swarming in numbers at low tide over rotting fruit or dead matter. The most commonly seen isopod on the beach are
-[sea slaters](ligia.md)
+[sea slaters](ligia)
 (
 *Ligia*
 sp.) or sometimes called sea cockroaches although they are not insects and look nothing like cockroaches (if you ask me).
 
 **What are isopods?**
 They are
-[crustaceans](../../crustacea.md)
+[crustaceans](../../crustacea)
 like crabs and prawns. There are about 4,000 described species of isopods that live in the sea. Some are found in freshwater, and some are terrestrial (these are usually called wood lice or pill bugs). Most marine isopods are tiny (5-15mm long). But one deep sea isopod
 *Bathynomus giganteus*
 can grow to 40cm long! Many may be parasites on other marine creatures.
@@ -86,7 +86,7 @@ can grow to 40cm long! Many may be parasites on other marine creatures.
 ## Features
 
 1cm or less. Their segmented body is flattened downwards (instead of sideways for amphipods such as
-[amphipods](../amphipoda/amphipoda.md)
+[amphipods](../amphipoda/amphipoda)
 ) with legs that are more or less similar. Isopoda meaning 'same feet' while Amphipoda means 'different feet'. Their eyes are NOT on stalks. Some can give a nasty bite.
 
 **What do they eat?**

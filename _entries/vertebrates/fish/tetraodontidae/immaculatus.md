@@ -58,13 +58,13 @@ links_references: |
   **Links**
   - [Yelloweye Puffer (
   *Arothron immaculatus*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/395.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/395)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/)*
   . Singapore Science Centre. 163 pp.
   - [Puffer or Globe fish (
   *Arothron*
-  sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/253.md)
+  sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/253)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.

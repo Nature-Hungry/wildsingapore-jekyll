@@ -99,7 +99,7 @@ Grouped on this page are small (10-15cm) sponges with rough thick walls and colo
 
 **Looks similar to**
 the
-[Lumpy pink sponge](lumppink.md)
+[Lumpy pink sponge](lumppink)
 which has deeper holes, a more encrusting form and smoother texture and is usually bright pink or bright purple.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

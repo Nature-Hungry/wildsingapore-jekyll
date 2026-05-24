@@ -37,4 +37,4 @@ galleries:
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
 
 back to
-[general info on floral egg crabs](floridus.md)
+[general info on floral egg crabs](floridus)

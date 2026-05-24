@@ -44,7 +44,7 @@ links_references: |
   **Links**
   - [Violet nerite (
   *Dostia violacea*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2079.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2079)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
@@ -67,7 +67,7 @@ location:
 
 ## Where seen?
 This sturdy nerite is sometimes seen in our mangroves, near
-[mud lobster mounds](../../../crustacea/othercrust/lobster/thalassina.md)
+[mud lobster mounds](../../../crustacea/othercrust/lobster/thalassina)
 . The study by Tan & Clements (2008) found this snail usually submerged; on mud, plant matter (e.g., fallen leaves and braches in stagnant pools), on and under stones in streams, and on concrete banks of drains. They found the snails on our Northern shores as well as at Berlayar Creek. It was previously known as
 *Dostia cornucopia*
 .
@@ -78,7 +78,7 @@ About 2cm. Shell thick heavy, oval with a sunken spire. When alive, the shell is
 
 **Sometimes mistaken for**
 the
-[Red-mouth nerite](violacea.md)
+[Red-mouth nerite](violacea)
 which has the same shell shape but has a red mouth.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

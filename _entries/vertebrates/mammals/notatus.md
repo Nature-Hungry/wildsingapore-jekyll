@@ -35,9 +35,9 @@ galleries:
       caption: "Sentosa, Sep 18 Photo shared by Malcolm Lord"
 links_references: |
   **Links**
-  - [Plantain Squirrel](http://www.ecologyasia.com/verts/mammals/plantain_squirrel.md)
+  - [Plantain Squirrel](http://www.ecologyasia.com/verts/mammals/plantain_squirrel)
   on Nick Baker's EcologyAsia website: fact sheet with photos.
-  - [Plantain Squirrel](http://www.wildsingapore.per.sg/discovery/factsheet/squirrelplantain.md)
+  - [Plantain Squirrel](http://www.wildsingapore.per.sg/discovery/factsheet/squirrelplantain)
   on Chan Kwok Wai's Wildlife Singapore website: fact sheet with photos.
   - [*Callosciurus notatus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Callosciurus%20notatus.html)
   (Rodentia: Sciuridae) Plantain Squirrel by Ee Yong Liang, 2012, on taxo4254.

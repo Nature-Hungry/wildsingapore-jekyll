@@ -111,11 +111,11 @@ links_references: |
   **Links**
   - [Land hermit crab (
   *Coenobita cavipes*
-  ) Family Coenobitidae](http://mangrove.nus.edu.sg/guidebooks/text/2063.md)
+  ) Family Coenobitidae](http://mangrove.nus.edu.sg/guidebooks/text/2063)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
-  - [Hermit Crabs, Order Decapoda](http://mangrove.nus.edu.sg/pub/seashore/text/186.md)
+  - [Hermit Crabs, Order Decapoda](http://mangrove.nus.edu.sg/pub/seashore/text/186)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.

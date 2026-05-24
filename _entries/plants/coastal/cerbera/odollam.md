@@ -77,8 +77,8 @@ It is the caterpillar host-plant of the King Crow butterfly (
 
 **Human uses:**
 See the fact sheets on
-*[Cerbera](cerbera.md)*
-[species in general](cerbera.md)
+*[Cerbera](cerbera)*
+[species in general](cerbera)
 for more about their uses.
 
 **Status and threats:**

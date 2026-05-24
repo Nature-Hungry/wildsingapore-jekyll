@@ -76,7 +76,7 @@ location:
 
 ## Where seen?
 This tiny elongated snail is often seen on
-[sea fans](../../../cnidaria/others/gorgonacea/gorgonacea.md)
+[sea fans](../../../cnidaria/others/gorgonacea/gorgonacea)
 on our Northern shores.
 
 ## Features

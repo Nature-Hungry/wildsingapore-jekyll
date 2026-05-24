@@ -114,7 +114,7 @@ Do not touch the sea anemone. Be careful when putting bare hands into water.
 
 **Sometimes mistaken for**
 the
-[Rough anemone](aspera.md)
+[Rough anemone](aspera)
 which has translucent tentacles with small brown spots, dark blotches on the oral disk and rows of white bumps on the body column.
 
 **Status and threats:**

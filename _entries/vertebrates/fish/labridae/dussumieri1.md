@@ -20,4 +20,4 @@ galleries:
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}back to
-[general info on diamond tuskfishes](dussumieri.md)
+[general info on diamond tuskfishes](dussumieri)

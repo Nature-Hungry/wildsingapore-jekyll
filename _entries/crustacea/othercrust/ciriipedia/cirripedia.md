@@ -63,19 +63,19 @@ galleries:
       caption: Barnacles in a sponge
 links_references: |
   **Links**
-  - [Barnacles](http://mangrove.nus.edu.sg/pub/seashore/text/219.md)
+  - [Barnacles](http://mangrove.nus.edu.sg/pub/seashore/text/219)
   ,
   [barnacles on crabs (
   *Balanus, Octolasmis*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/269.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/269)
   ,
   [Parasitic barnacles (
   *Thompsonia, Sacculina*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/270.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/270)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
-  - [Barnacles](http://mangrove.nus.edu.sg/guidebooks/text/2123.md)
+  - [Barnacles](http://mangrove.nus.edu.sg/guidebooks/text/2123)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
@@ -104,12 +104,12 @@ links_references: |
 
 ## Where seen?
 Barnacles are often ignored as our attention is drawn to more colourful and attractive shore animals. But barnacles are fascinating in their own right! Barnacles will grow on any hard surface immersed in seawater, so they are found literally everywhere in the intertidal zone. Barnacles are found on rocks, mangrove trees, pillars, boats. Barnacles are even found on other animals such as
-[whales](http://www.biosbcc.net/ocean/marinesci/05nekton/GWsouth.md)
+[whales](http://www.biosbcc.net/ocean/marinesci/05nekton/GWsouth)
 and sea snakes. There are often even barnacles on top of other barnacles!
 
 **What are barnacles?**
 Barnacles are
-[crustaceans](../../crustacea.md)
+[crustaceans](../../crustacea)
 like crabs and shrimps. But they belong to a different group, their own Class Cirripedia. There are about 900 species of barnacles.
 
 ## Features
@@ -117,9 +117,9 @@ like crabs and shrimps. But they belong to a different group, their own Class Ci
 Barnacles are often mistaken for snails because of their hard 'shells'. However, barnacles as actually crustaceans. The larvae of barnacles are shrimp-like and swim freely. As it develops, the larvae eventually glues itself head down onto a hard surface and develops a conical outer shell-like structure made up of several plates (wall plates). There is an opening at the centre of this 'shell'. At low tide, the opening is sealed by a door (operculum) made up of a pair of plates. A barnacle without these plates is a dead barnacle! Some barnacles species can be identified by the shape of the operculum plates and number of wall plates.
 
 **Sometimes confused with**
-[limpets](../../../mollusca/gastropoda/limpets/limpet.md)
+[limpets](../../../mollusca/gastropoda/limpets/limpet)
 which are snails. Here's more on how to tell apart
-[shelled animals found on rocks.](../../../glossary/limpetbarnacle.md){% include img-wrap-group.html items=page.galleries.gallery2 %}**What do they eat?**
+[shelled animals found on rocks.](../../../glossary/limpetbarnacle){% include img-wrap-group.html items=page.galleries.gallery2 %}**What do they eat?**
 When the tide comes in, barnacles open up their plates and extend their feathery, segmented legs to gather plankton from the water. The legs form a basket that scoops inwards where mouthparts scrape the edible particles off the legs and transfer these particles to the mouth. 'Cirripedia' means 'hairy foot'
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Barnacle babies:**
@@ -134,35 +134,35 @@ Many barnacles brood their eggs, releasing the free-swimming larvae that look no
 Eventually, it changes form into a cyprid larva which has a hinged hardened body with large antennae and more appendages. At this stage, it does not feed and uses its chemical and touch detectors to detect adults of its own species and suitable areas for it to settle down. When it finds the right place, it secretes a glue from special glands in its antennae to attach itself permanently. Barnacles tend to settle where others of their own species have already settled. For animated diagrams of the larval stages of a barnacle, see
 [Keith Davey's site](http://www.mesa.edu.au/friends/seashores/barnacles.html)
 . Here are fascinating
-[photos of a barnacle larva](http://www.imagequest3d.com/catalogue/larvalforms/pages/a042_jpg.md)
+[photos of a barnacle larva](http://www.imagequest3d.com/catalogue/larvalforms/pages/a042_jpg)
 on
 [Image Quest 3-D Marine Library](http://www.imagequest3d.com/catalogue/larvalforms/)
 
 **Barnacle zonation:**
 An ideal spot for a barnacle is lower down the rock where it gets wet more often. The further up a rock a barnacle settles, the hardier the barnacle must be to withstand longer periods out of water and the heat of the sun. There is competition among barnacle larvae for the best spots on a rock to settle down on. Each species of barnacle survives best in a spot where it does better than its competitors. As a result, different species of barnacles are found in
-[distinct zones](../../../concepts/zonation.md)
+[distinct zones](../../../concepts/zonation)
 on a rock.
 
 {% include img-wrap-group.html items=page.galleries.gallery4 %}**Strange barnacles:**
 Stalked or Goose barnacles are sometimes seen on our shores. These barnacles have a distinct stalk that connects the body to the hard surface.
 [*Lepas*
-sp.](lepas.md)
+sp.](lepas)
 has white plates and clumps of this species often attached to floating objections like boats or snail shells. Some barnacles
-[burrow into living corals](coral.md)
+[burrow into living corals](coral)
 , others may be found
-[in sponges](../../../porifera/chocolate.md)
+[in sponges](../../../porifera/chocolate)
 .
 
 Some barnacles have become parasites that live inside other animals. Parasitic barnacles such as
 [*Thompsonia*
-sp.](thompsonia.md)
+sp.](thompsonia)
 grow through the body of the host crab like a root system. The parasite does not kill the crab but it does affect the crab's reproductive system such that the crab becomes infertile. The parasitic barnacle eventually produces egg sacs that emerge through the crab's joints.
 
 **Role in the habitat:**
 Despite their protective plates that are strongly glued down, barnacles are eaten by crabs, snails such as
-[drills](../../../mollusca/gastropoda/muricidae/muricidae.md)
+[drills](../../../mollusca/gastropoda/muricidae/muricidae)
 and the
-[Spiral melongena snail](../../../mollusca/gastropoda/melogenidae/cochlidium.md)
+[Spiral melongena snail](../../../mollusca/gastropoda/melogenidae/cochlidium)
 and other predators. Dead barnacle shells provide hiding places for many small creatures. Sometimes you might see tiny mussels, small periwinkles and other animals hiding in the hollow shell of a dead barnacle.
 
 {% include img-wrap-group.html items=page.galleries.gallery5 %}**Human uses:**
@@ -219,7 +219,7 @@ Euacasta dofleini
 
 Eoatria quinquevittatus
 
-[Membranobalanus longirostrum](sponge.md)*
+[Membranobalanus longirostrum](sponge)*
 (Sponge barnacle)
 *Striatobalanus amaryllis
 
@@ -227,7 +227,7 @@ Striatobalanus tenuis*
 
 **
 
-**[Family Balanidae](balanus.md)**
+**[Family Balanidae](balanus)**
 (Acorn barnacle)
 
 *Amphibalanus amphitrite
@@ -258,7 +258,7 @@ Megabalanus tintinnabulum*
 
 **
 
-**[Family Chthamalidae](euraphia.md)**
+**[Family Chthamalidae](euraphia)**
 (Star barnacle)
 
 *Caudoeuraphia caudata
@@ -273,13 +273,13 @@ Chthamalus malayensis*
 
 *Heteralepas japonica*
 
-**[Family Lepadidae](lepas.md)**
+**[Family Lepadidae](lepas)**
 (Goose barnacle)
 
 *Lepas*
 sp.
 
-**[Family Pyrgomatidae](coral.md)**
+**[Family Pyrgomatidae](coral)**
 (Coral barnacle)
 
 *Cantellius euspinulosum
@@ -333,7 +333,7 @@ sp. b
 *Octolasmis*
 sp. c
 
-**[Family Tetraclitidae](tetraclita.md)**
+**[Family Tetraclitidae](tetraclita)**
 (Volcano barnacle)
 
 *Tetraclitella (Eotetraclitella) costata
@@ -346,8 +346,8 @@ Tetraclita squamosa*
 
 **Family Thompsoniidae**
 
-*[Thompsonia](thompsonia.md)*
-[sp.](thompsonia.md)
+*[Thompsonia](thompsonia)*
+[sp.](thompsonia)
 (Parasitic barnacle)
 
 *

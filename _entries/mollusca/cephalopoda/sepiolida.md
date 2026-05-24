@@ -105,7 +105,7 @@ links_references: |
   and
   *[Sepiola trirostrata](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=57910)*
   - Family Sepiolidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   **References**
@@ -136,11 +136,11 @@ These rotund little squids are sometimes seen on our Northern shores on sandy ar
 
 **What are bobtail and bottletail squids?**
 They are
-[molluscs](../mollusca.md)
+[molluscs](../mollusca)
 (Phylum Mollusca) like snails, slugs and clams; and
-[cephalopods](../cephalopoda.md)
+[cephalopods](../cephalopoda)
 (Class Cephalopoda) which include
-[octopuses](octopus.md)
+[octopuses](octopus)
 . They belong to the Suborder Sepiolida. Bobtail squids belong to the Family Sepiolidae while Bottletail squids belong to the Family Sepiadariidae.
 
 ## Features

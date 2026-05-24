@@ -112,9 +112,9 @@ links_references: |
   **Links**
   - [Byno Goby (
   *Amblygobius bynoensis*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/359.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/359)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
-  *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/359.md)*
+  *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/359)*
   . Singapore Science Centre. 163 pp.
   - [*Amblygobius stethophthalmus*
   (Freckled goby)](http://www.fishbase.org/Summary/speciesSummary.php?ID=62722)

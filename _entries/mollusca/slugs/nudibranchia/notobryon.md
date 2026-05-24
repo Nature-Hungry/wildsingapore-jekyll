@@ -75,7 +75,7 @@ About 3cm long. It has a pair of 'flaps' (mantle lobes) in the middle of the bod
 
 **What does it eat?**
 This nudibranch eats
-[hydroids](../../../cnidaria/others/hydrozoa/hydrozoa.md)
+[hydroids](../../../cnidaria/others/hydrozoa/hydrozoa)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

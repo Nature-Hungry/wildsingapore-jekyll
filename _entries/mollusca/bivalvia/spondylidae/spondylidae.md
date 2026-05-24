@@ -46,7 +46,7 @@ galleries:
 links_references: |
   **Links**
   - Family Spondylidae in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   **References**
@@ -69,7 +69,7 @@ location:
 
 ## Where seen?
 This rather large clam with spikes is sometimes seen near reefs, stuck to rocks or dead corals. It is not a true oyster, which belong to
-[Family Ostreidae](../ostreidae/osteridae.md)
+[Family Ostreidae](../ostreidae/osteridae)
 .
 
 ## Features

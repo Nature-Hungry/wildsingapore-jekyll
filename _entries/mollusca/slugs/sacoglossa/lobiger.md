@@ -115,7 +115,7 @@ To about 3cm. It has a green shell and four long 'fingers' sticking out of the s
 
 **What does it eat?**
 Reports find this slug often among
-[Oval sea grape seaweeds](../../../plants/seaweed/chlorophyta/racemosa.md)
+[Oval sea grape seaweeds](../../../plants/seaweed/chlorophyta/racemosa)
 (
 *Caulerpa racemosa*
 ). The tendrils may also help the slug obtain food from photosynthesis. Like other sacoglossans, this slug retains in its body, the chloroplasts obtained from its seaweed food.

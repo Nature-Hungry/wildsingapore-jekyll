@@ -143,7 +143,7 @@ links_references: |
   *[Dendrodoris fumata](http://www.seaslugforum.net/find/dendfuma)*
   - [The Slug Site:](http://slugsite.us/)
   photo and fact sheet on the Branch of the Week
-  *[Dendrodoris fumata](http://slugsite.us/bow/nudwk256.md)*
+  *[Dendrodoris fumata](http://slugsite.us/bow/nudwk256)*
 
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
@@ -181,7 +181,7 @@ This brightly coloured rotund nudibranch is sometimes seen on our Northern shore
 5-8cm long. Broad fleshy body smooth, generally all red or rose with irregular dark mottling, sometimes greyish-pink. Underside paler. It is said that it turns black as it matures, but some apparently remain red.
 
 **Sometimes mistaken for**
-*[Dendrodoris nigra](dnigra.md)*
+*[Dendrodoris nigra](dnigra)*
 which looks similar in shape and are also red when young and black as adults. Usually
 *Dendrodoris nigra*
 has 10 -15 smaller gills forming a tight cup-shaped circle, placed further to the back and lacks dark blotches on a lighter background.
@@ -190,7 +190,7 @@ has 5-6 large bushy feathery branching gills that when expanded, may cover the w
 
 **What does it eat?**
 It eat
-[sponges](../../../porifera/porifera.md)
+[sponges](../../../porifera/porifera)
 . It lacks a radula and jaws so it can't rasp or chew its food sponge. Instead, it secretes digestive juices onto the sponge and then sucks up the softened sponge with a long tube. Sort of like a sponge slurpee!
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

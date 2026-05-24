@@ -88,7 +88,7 @@ These structures emerge along the length of a 'stem' that creeps over hard surfa
 
 **Sometimes confused with**
 similar green seaweeds. Here's more on
-[how to tell apart some green seaweeds](cffeathery.md)
+[how to tell apart some green seaweeds](cffeathery)
 .
 
 **Human uses:**

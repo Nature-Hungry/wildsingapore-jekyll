@@ -43,15 +43,15 @@ galleries:
       caption: ""
 links_references: |
   **Links**
-  - [Algae](http://mangrove.nus.edu.sg/pub/seashore/flora.md)
+  - [Algae](http://mangrove.nus.edu.sg/pub/seashore/flora)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
-  - [Algae](http://mangrove.nus.edu.sg/guidebooks/text/1032.md)
+  - [Algae](http://mangrove.nus.edu.sg/guidebooks/text/1032)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore I (Plant Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
-  [http://mangrove.nus.edu.sg/guidebooks/text/1032.htm](http://mangrove.nus.edu.sg/guidebooks/text/1032.md)
+  [http://mangrove.nus.edu.sg/guidebooks/text/1032.htm](http://mangrove.nus.edu.sg/guidebooks/text/1032)
   - [AlgaeBase](http://www.algaebase.org/)
   : Technical fact sheet.
   
@@ -88,11 +88,11 @@ links_references: |
 Green seaweeds are commonly seen on many of our shores. Some grow on boulders, coral rubble and other hard surfaces. Others are found entwined around seagrasses.
 
 Like other seaweeds, some green seaweeds are seasonal (such as
-[sea lettuce](ulva.md)
+[sea lettuce](ulva)
 ,
 *Ulva*
 sp. or the
-[hairy green seaweed](bryopsis.md)
+[hairy green seaweed](bryopsis)
 ,
 *Bryopsis*
 sp.). Sometimes one kind of seaweed can be so abundant that it blankets vast areas of a shore in a green carpet. A few weeks later, the shore may be bare of this seaweed.
@@ -106,47 +106,47 @@ Green algae are found in most habitats, not just in the sea. There are about 8,0
 Green seaweeds come in a wide range of shapes: translucent bubbles, flat sheets, hard flattened coins, bunches of long thin filaments, bunches of grapes, branched furry stems, coiled strips and more!
 
 **Sometimes confused with**
-[seagrasses](../../seagrass/seagrass.md)
+[seagrasses](../../seagrass/seagrass)
 . Some feathery green seaweeds are also confused for one another. Here's more on how to tell apart
-[green seaweeds that look like grapes](cfgrapes.md)
+[green seaweeds that look like grapes](cfgrapes)
 , and
-[different feathery green seaweeds](cffeathery.md)
+[different feathery green seaweeds](cffeathery)
 and
-[feathery green seaweeds and seagrasses](../../../glossary/seagrassweed.md)
+[feathery green seaweeds and seagrasses](../../../glossary/seagrassweed)
 .
 
 **Human uses:**
 Many green seaweeds are eaten directly by people. In the Philippines,
-[sea grapes](lentillifera.md)
+[sea grapes](lentillifera)
 (
 *Caulerpa lentillifera*
 ) is cultivated as food and sold fresh or salted. Some species are used as feritilisers and additives in animal feed (poultry, cattle, fish).
 
 Unlike
-[brown seaweeds](../phaeophyta/phaeophyta.md)
+[brown seaweeds](../phaeophyta/phaeophyta)
 and
-[red seaweeds](../rhodophyta/rhodophyta.md)
+[red seaweeds](../rhodophyta/rhodophyta)
 , green seaweeds are not a major source of extracts used commercially.
 
 **Role in the habitat:**
 Like other seaweeds, green seaweeds provide food and shelter for a wide range of marine animals.
 
 Some of the animals that eat green seaweeds look like the seaweeds! Those commonly seen include the
-[Ornate leaf slug](../../../mollusca/slugs/sacoglossa/ornata.md)
+[Ornate leaf slug](../../../mollusca/slugs/sacoglossa/ornata)
 (
 *Elysia ornata*
 ) and a tiny hairy
-[Bryopsis slug](../../../mollusca/slugs/sacoglossa/bryopsis.md)
+[Bryopsis slug](../../../mollusca/slugs/sacoglossa/bryopsis)
 that is still awaiting identification and is often seen on the
-[Hairy green seaweed](bryopsis.md)
+[Hairy green seaweed](bryopsis)
 (
 *Bryopsis*
 sp.) and the tiny
-[Halimeda slug](../../../mollusca/slugs/sacoglossa/pusilla.md)
+[Halimeda slug](../../../mollusca/slugs/sacoglossa/pusilla)
 (
 *Pusilla*
 sp.) often seen on
-[Big coin green seaweed](halbig.md)
+[Big coin green seaweed](halbig)
 (
 *Halimeda*
 sp.)
@@ -170,9 +170,9 @@ green seaweed that it probably feeds on
 
 **Division Chlorophyta on Singapore shores**
 
-[text index](../seaweedindex.md)
+[text index](../seaweedindex)
 and
-[photo index](../seaweedfi.md)
+[photo index](../seaweedfi)
 of green seaweeds on this site
 
 ---

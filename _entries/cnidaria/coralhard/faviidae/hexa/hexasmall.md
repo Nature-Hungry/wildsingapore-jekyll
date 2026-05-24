@@ -139,7 +139,7 @@ species.
 It's hard to distinguish them without close examination of small features and they are grouped here by large external features for convenience of display.
 
 Hard corals with small hexagonal corallites which form colonies that are more encrusting and have jutting bumps, lumps or columns of angular corallites are grouped under
-[Columnar hexagonal corals](hexacolumn.md)
+[Columnar hexagonal corals](hexacolumn)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

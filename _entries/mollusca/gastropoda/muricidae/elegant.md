@@ -83,7 +83,7 @@ This drill is often seen in groups on large boulders on our Nothern shores. Some
 ## Features
 
 2-3cm. Shell thick but not as thick as those of
-[Chunky drills](chunky.md)
+[Chunky drills](chunky)
 . With variable patterns, some with spiralling grooves, others with
 a spiral pattern of bumps
 or spiral of small blunt spines.

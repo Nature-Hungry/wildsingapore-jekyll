@@ -97,7 +97,7 @@ links_references: |
   [The Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html)
   at Washington State University Tri-Cities Natural History Museum website.
   - Family Malleidae in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   **References**
@@ -128,7 +128,7 @@ location:
 This T-shaped clam is sometimes seen lying freely among the seagrasses. Some are shaped like tongue depressors or spatulas and seen wedged upright crevices among rocks and rubble, or under stones. Seen on Changi and some of our Southern shores. The clams are said to be found in colonies. According to The Gladys Archerd website, most live in the crevices of coral rocks or on reef flats in tropical regions.
 *Malleus*
 are NOT true oysters which belong to
-[Family Ostreidae](../ostreidae/osteridae.md)
+[Family Ostreidae](../ostreidae/osteridae)
 .
 
 ## Features
@@ -139,7 +139,7 @@ The clams grouped here are probably from different species.
 
 Those shaped like tongue depressors stuck in crevices are
 **sometimes confused with**
-[Elongated toothed oysters](../pteriidae/isognomum.md)
+[Elongated toothed oysters](../pteriidae/isognomum)
 that have a similar shape and also stuck upright in crevices. It is difficult to tell them apart without ripping them out of their hiding place and looking at the inside of the shell. On the inside, Hammer oysters have a small depression at the hinge and a small area of mother-of-pearl, relative to the shell length.
 
 **Human uses:**
@@ -187,8 +187,8 @@ from Tan Siong Kiat and Henrietta P. M. Woo, 2010
 
 **Family Malleidae**
 
-*[**Malleus**](malleus.md)*
-**[sp.](malleus.md)
+*[**Malleus**](malleus)*
+**[sp.](malleus)
 (Hammer oysters)
 ****
 *Malleus albus

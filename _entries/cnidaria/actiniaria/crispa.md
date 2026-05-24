@@ -199,20 +199,20 @@ Diameter expanded 20-30cm, up to 50cm when fully expanded. Many long tentacles (
 
 **Sometimes confused with**
 other large sea anemones and similar large cnidarians. Here's more on how to tell apart
-[large sea anemones with long tentacles](cfbiglong.md)
+[large sea anemones with long tentacles](cfbiglong)
 and
-[large 'hairy' cnidarians](../cflargecnidarians.md)
+[large 'hairy' cnidarians](../cflargecnidarians)
 .
 
 **Leathery friends:**
 The Leathery anemone harbours symbiotic algae (called zooxanthellae) that photosynthesize. The algae share the food produced with the anemone, which in turn provides the algae with shelter and minerals. Several kinds of animals may live happily among and unharmed by the tentacles of the anemone. These include the
-[Peacock-tail anemone shrimp](../../crustacea/othercrust/shrimp/brevicarpalis.md)
+[Peacock-tail anemone shrimp](../../crustacea/othercrust/shrimp/brevicarpalis)
 (
 *Periclimenes brevicarpalis*
 ) and fishes such as
 *Dascyllus trimaculatus*
 and many species of
-[anemonefishes](../../vertebrates/fish/pomacentridae/amphiprion.md)
+[anemonefishes](../../vertebrates/fish/pomacentridae/amphiprion)
 .
 
 **Status and threats:**

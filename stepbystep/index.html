@@ -1,0 +1,117 @@
+---
+title: "Step-by-step guide to identifying living things in singapore"
+
+---
+{% include global/header.html %}
+
+<style>
+.lifeforms{
+    display:flex;
+    gap:2rem;
+    flex-wrap: wrap;
+}
+.lifeform-group{
+    text-align: center;
+    width: fit-content;
+    display:flex;
+    flex-direction: column;
+    gap:1rem;
+    width: 200px;
+}
+.lifeform-image-group{
+    display:grid;
+    grid-template-columns: repeat(2, minmax(40px, 1fr));
+    max-width: 200px;
+    
+}
+.lifeform-image-group img{
+    width:100%;
+    aspect-ratio: 1;
+    object-fit: cover;
+    object-position: center;
+}
+
+
+.zones{
+    display:flex;
+    gap:1rem;
+    align-items: center;
+    justify-content: center;
+    height: 300px;
+    margin:2rem 0;
+}
+.zone{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 220px;
+    border:2px solid lightcoral;
+    border-radius: 10px;
+    padding-top:5%;
+    padding-left:1rem;
+    padding-right:1rem;
+    padding-bottom:1rem;
+    height: 100%;
+}
+
+.zone .icon{
+    width:50px;
+    aspect-ratio: 1;
+    border:2px solid lightgrey;
+    margin-bottom: 1rem;
+}
+</style>
+<main class="page-content" id="main-content">
+    <section>
+        <h2 style="text-align: center;">Where did you see it?</h2>
+        <div class="zones">
+            <div class="zone">
+                <div class="icon"></div>
+                <h3>On dry land</h3>
+                <p>In the sky, on the ground or in the trees</p>
+            </div>
+            
+            <div class="zone">
+                <div class="icon"></div>
+
+                <h3>By the sea</h3>
+                <p>Where it is frequently or perpetually inundated by seawater</p>
+            </div>
+            <div class="zone">
+                <div class="icon"></div>
+
+                <h3>In freshwater</h3>
+                <p>Found in and along canals, reservoirs and streams</p>
+            </div>
+
+        </div>
+    </section>
+    <!-- <section>
+        <h2>Familiar lifeforms</h2>
+        <div class="lifeforms">
+            <div class="lifeform-group">
+                <div class="lifeform-image-group">
+                    <img src="https://live.staticflickr.com/1925/45539839332_35ed0fcb7f_w.jpg" alt="">
+                    <img src="https://live.staticflickr.com/5026/5749599865_82bdfd51f1_w.jpg" alt="">
+                    <img src="https://live.staticflickr.com/1236/605886912_becabd5880_c.jpg" alt="">
+                    <img src="https://live.staticflickr.com/2131/32857583232_294466bb57_w.jpg" alt="">
+                </div>
+                <h3>Plants</h3>
+            </div>
+            <div class="lifeform-group">
+                <div class="lifeform-image-group">
+                    <img src="https://live.staticflickr.com/65535/11513180943_2152f900b6_c.jpg" alt="">
+                    <img src="https://live.staticflickr.com/3243/2923767005_07d61c62a7_w.jpg" alt="">
+                    <img src="https://live.staticflickr.com/65535/5767817345_eedafd24c3_w.jpg" alt="">
+                    <img src="https://live.staticflickr.com/65535/5482298010_b4b91f460c_w.jpg" alt="">
+                </div>
+                <h3>Fish</h3>
+            </div>
+           
+
+        </div>
+    </section> -->
+</main>
+
+{% include global/footer.html %}

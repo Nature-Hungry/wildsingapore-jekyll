@@ -49,14 +49,14 @@ galleries:
     caption: Chek Jawa, May 05
 links_references: |
   **Links**
-  - [Periwinkle Shells (Family Littorinidae)](http://mangrove.nus.edu.sg/pub/seashore/text/137.md)
+  - [Periwinkle Shells (Family Littorinidae)](http://mangrove.nus.edu.sg/pub/seashore/text/137)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *A Guide to Seashore Life*
   . The Singapore Science Centre, Singapore. 160 pp.
   - [*Nodilittorina trochoides*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=90176)
   on SeaLife Base: Technical fact sheet.
   - Family Littorinidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   **References**

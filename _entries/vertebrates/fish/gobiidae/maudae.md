@@ -150,9 +150,9 @@ To about 7cm, tiny ones about 1.5cm also seen. Tiny young ones are strikingly bl
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Living with a shrimp:**
 This fish is often seen sharing a burrow with a
-[Many-band snapping shrimp](../../../crustacea/othercrust/shrimp/alphmanyband.md)
+[Many-band snapping shrimp](../../../crustacea/othercrust/shrimp/alphmanyband)
 . Both tiny young fish and large adults have been seen with snapping shrimps. The burrow is near the mid-water mark. More about the
-[goby and shrimp partnership](shrimpgoby.md)
+[goby and shrimp partnership](shrimpgoby)
 .
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**Species are difficult to positively identify without close examination.

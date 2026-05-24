@@ -57,9 +57,9 @@ galleries:
 links_references: |
   **Links**
   - [*Phyllaplysia*
-  spp.](http://www.seaslugforum.net/phyllaply.md)
+  spp.](http://www.seaslugforum.net/phyllaply)
   on the
-  [Sea Slug Forum](http://www.seaslugforum.net/welcome.md)
+  [Sea Slug Forum](http://www.seaslugforum.net/welcome)
   by Dr Bill Rudman: photos and fact sheet.
 
   **References**
@@ -77,7 +77,7 @@ location:
 
 ## Where seen?
 This tiny slug is sometimes seen in numbers on
-[Tape seagrass](../../../plants/seagrass/enhalus.md)
+[Tape seagrass](../../../plants/seagrass/enhalus)
 on our Southern shores.
 
 ## Features

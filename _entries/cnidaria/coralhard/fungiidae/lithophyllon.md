@@ -115,7 +115,7 @@ This plate-like coral that is stuck to a hard surface is sometimes seen on our S
 Flat plate-like about 20cm in diameter, attached at the base with a stalk but wavy with lobes at the edges. May also be encrusting. The corallites form a distinctive pattern of thick parallel lines perpendicular to the edge. There is a 'waist' in the parallel lines at the mouth of the corallite, i.e., the parallel lines merge at regular intervals. The walls are thick with fine 'teeth'.
 
 May be confused with
-[Bracket mushroom coral](bracket.md)
+[Bracket mushroom coral](bracket)
 (
 *Podabacia*
 sp.) which has finer lines with thinner walls.

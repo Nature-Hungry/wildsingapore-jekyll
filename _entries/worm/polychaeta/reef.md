@@ -138,7 +138,7 @@ This large active bristleworm is often encountered on many of our shores. On cor
 
 **What is a bristleworm?**
 It is a segmented worm belonging to the Class
-[Polychaeta](polychaeta.md)
+[Polychaeta](polychaeta)
 , Phylum Annelida. The polychaetes include bristleworms, and Phylum Annelida includes the more familiar earthworm. Many members of the Family Amphinomidae are known as fireworms because of the burning pain they produce when handled.
 
 ## Features

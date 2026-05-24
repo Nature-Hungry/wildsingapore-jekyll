@@ -50,7 +50,7 @@ galleries:
     caption: Cyrene Reef, Dec 10 Photo shared by Loh Kok Sheng on his blog .
 links_references: |
   **Links**
-  - [Family Trochidae](http://mangrove.nus.edu.sg/pub/seashore/text/134.md)
+  - [Family Trochidae](http://mangrove.nus.edu.sg/pub/seashore/text/134)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -67,7 +67,7 @@ links_references: |
   - Common button top (
   *Umbonium vestiarium*
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
   - [*Umbonium vestiarium*
   , a filter-feeding trochid](http://onlinelibrary.wiley.com/doi/10.1111/j.1469-7998.1975.tb02258.x/abstract)
@@ -116,11 +116,11 @@ More like bivalves rather than snails, button snails lie just beneath the sand a
 
 **Role in the ecosystem:**
 Button snails appear to be among the favourite prey of
-[Moon snails](../naticidae/naticidae.md)
+[Moon snails](../naticidae/naticidae)
 .
-[Olive snails](../olividae/olividaenoid.md)
+[Olive snails](../olividae/olividaenoid)
 have also been seen hunting them. Other large animals probably also snack on them. Empty buttons shells are favourite homes of tiny
-[hermit crabs](../../../crustacea/othercrust/anomura/hermit/hermit.md)
+[hermit crabs](../../../crustacea/othercrust/anomura/hermit/hermit)
 . So please resist the temptation of taking home even an empty button snail. A homeless hermit crab might need it!
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Human uses:**

@@ -30,9 +30,9 @@ links_references: |
   **Links**
   - [Paradoxurus hermaphroditus](http://www.iucnredlist.org/details/41693/0)
   on the IUCN Red List website..
-  - [Common Palm Civet](http://www.ecologyasia.com/verts/mammals/common_palm_civet.md)
+  - [Common Palm Civet](http://www.ecologyasia.com/verts/mammals/common_palm_civet)
   on Nick Baker's EcologyAsia website: fact sheet with photos.
-  - [Common Palm Civet](http://www.wildsingapore.per.sg/discovery/factsheet/civetpalm.md)
+  - [Common Palm Civet](http://www.wildsingapore.per.sg/discovery/factsheet/civetpalm)
   on Chan Kwok Wai's Wildlife Singapore website: fact sheet with photos.
   - [*Paradoxurus hermaphroditus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Paradoxurus%20hermaphroditus.html)
   (Carnivora: Viverridae) Common Palm Civet by Alicia Ng Chiew Rong, 2015, on taxo4254
@@ -93,7 +93,7 @@ It is also called the Toddycat for its apparent fondness for stealiing the sap c
 
 **Civet-processed coffee:**
 'Kopi Luwak' is a type of expensive gourmet coffee made from coffee beans that have been 'processed' by a civet cat. In nature, the civet cat eats
-[coffee beans](../../plants/fruittrees/coffea/coffea.md)
+[coffee beans](../../plants/fruittrees/coffea/coffea)
 , among many other natural food. The coffee beans which are excreted by the civet cat are collected to be made into coffee for humans to drink. Unfortunately, growing demand has resulted in cruel abuse of civet cats to produce this coffee. The civet cats are caged, fed nothing but coffee beans and poorly looked after.
 **Please do NOT support Kopi Luwak!**
 More details on the

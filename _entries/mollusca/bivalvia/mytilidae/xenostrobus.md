@@ -50,7 +50,7 @@ links_references: |
   **Links**
   - [Black mussel (
   *Xenostrobus*
-  sp.)](http://mangrove.nus.edu.sg/guidebooks/text/2092.md)
+  sp.)](http://mangrove.nus.edu.sg/guidebooks/text/2092)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
@@ -83,7 +83,7 @@ cf.
 ## Features
 
 1-2cm long. The two-part shell is shiny black, thin, fragile and smooth. Those growing on rocks produce byssus threads, sometimes these form a kind of nest in which the tiny mussels are embedded. But the 'nest' is not as thick and spongy as the mats created by
-[Nest mussels](musculista.md)
+[Nest mussels](musculista)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

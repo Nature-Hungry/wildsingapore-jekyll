@@ -87,11 +87,11 @@ Thin layer encrusting small areas 15cm sometimes large areas 1m or more. Texture
 
 **Often mistaken for**
 an
-[ascidian](../ascidiacea/ascidiacea.md)
+[ascidian](../ascidiacea/ascidiacea)
 .
 
 Many creatures are often found living on them, including
-[synaptid sea cucumbers](../echinodermata/holothuroidea/synaptid.md)
+[synaptid sea cucumbers](../echinodermata/holothuroidea/synaptid)
 and tiny shrimps. Sometimes tiny sea anemones are found in the middle of the ascidian. But it's not certain whether the anemone settled into the ascidian, or the anemone was there first and the ascidian grew around it.
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

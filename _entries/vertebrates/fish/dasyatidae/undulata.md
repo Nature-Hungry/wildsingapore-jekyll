@@ -46,7 +46,7 @@ links_references: |
   *Himantura undulata*
   )](http://www.iucnredlist.org/apps/redlist/details/161621/0)
   on the IUCN Red List: fact sheet.
-  - [Volume 3: Batoid fishes, chimaeras and bony fishes part 1 (Elopidae to Linophrynidae)](http://www.fao.org/docrep/009/x2401e/x2401e00.md)
+  - [Volume 3: Batoid fishes, chimaeras and bony fishes part 1 (Elopidae to Linophrynidae)](http://www.fao.org/docrep/009/x2401e/x2401e00)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
 ---
 

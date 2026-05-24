@@ -81,7 +81,7 @@ This hard coral with relatively neat hexagonal corallites is among the few hard 
 Colonies seen 5-10cm. The colony is generally encrusting or a smooth dome-shape, but somewhat irregular and not perfectly spherical. The corallites (1-1.5cm) have shared walls and form irregular, wide, shallow cells with sharp angular edges of various sizes and shapes. The corallites are conical with a small 'base' and regular 'grooves' radiating from the centre. The result is a rather neat pattern of polygons. The walls are distinctively white. The polyp has short tentacles. Colours seen include dark green and brown.
 
 **Sometimes confused with**
-[Honeycomb favid corals](../faviidae/hexa/hexahoneycomb.md)
+[Honeycomb favid corals](../faviidae/hexa/hexahoneycomb)
 (Family Merulinidae) which have more tubular corallites that have a broader 'base'.
 *Leptastrea purpurea*
 and
@@ -130,7 +130,7 @@ on the
 
 **Family Siderastreidae**
 
-*[Pseudosiderastrea tayami](hexaneat.md)*
+*[Pseudosiderastrea tayami](hexaneat)*
 (Neat hexa corals) (Near Threatened)
 
 ---

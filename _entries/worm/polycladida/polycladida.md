@@ -135,17 +135,17 @@ Marine flatworms are ferocious predators that glide around the shores like liqui
 
 **What are flatworms?**
 Unlike
-[bristleworms](../polychaeta/polychaeta.md)
+[bristleworms](../polychaeta/polychaeta)
 and earthworms which are segmented and belong to Phylum Annelida, flatworms are unsegmented worms belonging to the Phylum Platyhelminthes. 'Platyhelminthes' means 'flat worm'. There are about 18,500 species of flatworms, but only about 16% of these are free-living flatworms. Most members of this Phylum are internal parasites. These infest fish and other animals including humans; such as tapeworms and liver flukes.
 
 Marine flatworms belonging to the Order Polycladida, however, are not parasites. They are free-living flatworms that earn an honest living by hunting down and eating other animals.
 
 **Sometimes confused with:**
-[nudibranchs](../../mollusca/nudibranchia.md)
+[nudibranchs](../../mollusca/nudibranchia)
 and
-[slugs](../../mollusca/slug.md)
+[slugs](../../mollusca/slug)
 . More on
-[how to tell them apart](../../glossary/flatwormslug.md)
+[how to tell them apart](../../glossary/flatwormslug)
 .
 
 ## Features
@@ -168,18 +168,18 @@ Flatworms have a central nervous system and a simple brain to co-ordinate their 
 
 **Rainbow Worms:**
 Flatworms come in a bewildering variety of colours and patterns. Some of these colours are due to the colour of the prey they have eaten, showing through their gut. Those with bright colours that contrast with their surroundings probably serve as a warning of their distasteful nature. Flatworms can contain powerful toxins. Others have colours and patterns that blend with the background. These and smaller ones are simply overlooked. Some flatworms mimic other animals such as
-[nudibranchs](../../mollusca/nudibranchia.md)
+[nudibranchs](../../mollusca/nudibranchia)
 (or perhaps visa versa).
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **What do they eat?**
 Many flatworms are carnivores that prey on tiny animals (protozoa, copepods,
-[worms](../worm.md)
+[worms](../worm)
 ) or feed on immobile animals such as
-[bryozoans](../../bryozoa/bryozoan.md)
+[bryozoans](../../bryozoa/bryozoan)
 ,
-[ascidians](../../ascidiacea/ascidiacea.md)
+[ascidians](../../ascidiacea/ascidiacea)
 and molluscs. Being flat, they slip easily between the shells of
-[bivalves](../../mollusca/bivalvia.md)
+[bivalves](../../mollusca/bivalvia)
 and some flatworms are considered pests of oyster farms. Some are scavengers, feeding on dead animals.
 
 **Flatworms on the hunt:**
@@ -194,13 +194,13 @@ Marine flatworms are hermaphrodites, that is, each flatworm has both male and fe
 In yet other species, as two flatworms attempt to use each one's penis to stab the other, they appear to be 'penis-fencing'. It is believed that each flatworm tries to impregnate the other without itself being impregnated. In one study, penis fencing was observed to be just a mating ritual and not necessary for insemination, not always aggressive, and could also result in eventual reciprocal insemination.
 
 Eggs are laid in a mass attached to a hard surface, in batches of hundreds of eggs. The eggs hatch into free-swimming larvae which disperse and undergo metamorphosis into the adult form. Some like the
-[Blue-lined flatworm](lineblue.md)
+[Blue-lined flatworm](lineblue)
 and
-[Purple-spotted flatworm](laingensis.md)
+[Purple-spotted flatworm](laingensis)
 displayed long-term parental care.
 
 {% include img-wrap-group.html items=page.galleries.gallery5 %}Here's
-[a video clip of 'penis-fencing'](acanthozoon.md)
+[a video clip of 'penis-fencing'](acanthozoon)
 shared by Loh Kok Sheng.
 
 [Penis fencing in flatworms](https://vimeo.com/9420169)
@@ -263,7 +263,7 @@ from Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018.
 
 On this website, they are grouped by external features for convenience of display.*
 
-[Phlegm flatworm](phlegm.md)
+[Phlegm flatworm](phlegm)
 
 **Family Callioplanidae**
 
@@ -306,10 +306,10 @@ sp. 7
 
 *+Eurylepta*
 sp. 8
-[*Maritigrella fuscopunctata*](fuscopunctata.md)
+[*Maritigrella fuscopunctata*](fuscopunctata)
 (Punctuated flatworm)
 
-*[Maritigrella virgulata](virgulata.md)*
+*[Maritigrella virgulata](virgulata)*
 (Red-lined flatworm)
 
 **Family Gnesiocerotidae**
@@ -320,8 +320,8 @@ cf.
 
 **Family Limnostylochidae**
 
-*[Limnostylochus](limnostylochus.md)*
-[sp.](limnostylochus.md)
+*[Limnostylochus](limnostylochus)*
+[sp.](limnostylochus)
 (Red mangrove flatworm)
 
 Limnostylochid 1
@@ -365,7 +365,7 @@ Prosthiostomid 4
 **Family Pseudocerotidae**
 
 [*Acanthozoon*
-sp. 1](acanthozoon.md)
+sp. 1](acanthozoon)
 (Spangled flatworm)
 
 Acanthozoon sp. 2
@@ -374,13 +374,13 @@ Acanthozoon/Thysanozoon sp. 1
 
 Acanthozoon/Thysanozoon sp. 2
 
-[*Nymphozoon bayeri*](bayeri.md)
+[*Nymphozoon bayeri*](bayeri)
 (Bayer's flatworm)
 
-[*Nymphozoon orsaki*](orsaki.md)
+[*Nymphozoon orsaki*](orsaki)
 (Orsak's flatworm)
 
-[*Phrikoceros baibaiye*](baibaiye.md)
+[*Phrikoceros baibaiye*](baibaiye)
 (Vermillion flatworm)
 
 Phrikoceros sp. 1
@@ -389,30 +389,30 @@ Phrikoceros sp. 2
 
 Pseudobiceros bajae
 
-[*Pseudobiceros bedfordi*](bedfordi.md)
+[*Pseudobiceros bedfordi*](bedfordi)
 (Persian carpet flatworm)
 
-*[Pseudobiceros damawan](damawan.md)*
+*[Pseudobiceros damawan](damawan)*
 (Damawan flatworm)
 
 *Pseudobiceros flowersi*
 
-[*Pseudobiceros fulgor*](fineline.md)
+[*Pseudobiceros fulgor*](fineline)
 (Lightning flatworm)
 
-[*Pseudobiceros hancockanus*](dawn.md)
+[*Pseudobiceros hancockanus*](dawn)
 (Dawn flatworm)=
 *Pseudobiceros uniarborensis*
 
 *Pseudobiceros hymanae*
 
-*[Pseudobiceros stellae](stellae.md)*
+*[Pseudobiceros stellae](stellae)*
 (Starry flatworm)
 
 Pseudobiceros sp. 1
 
 [*Pseudobiceros*
-sp. 2](brownstripe.md)
+sp. 2](brownstripe)
 (Brown-stripe flatworm)
 
 Pseudobiceros sp. 3
@@ -420,19 +420,19 @@ Pseudobiceros sp. 3
 Pseudobiceros sp. 4
 
 [*Pseudobiceros*
-sp. 5](orangewhite.md)
+sp. 5](orangewhite)
 (Halloween flatworm)
 
 +Pseudobiceros sp. 6
 
-*[Pseudoceros bifurcus](bifurcus.md)*
+*[Pseudoceros bifurcus](bifurcus)*
 (Racing-line flatworm)
 
-[*Pseudoceros caeruleocinctus*](sapphirinus.md)
+[*Pseudoceros caeruleocinctus*](sapphirinus)
 (Sapphire flatworm)=
 *Pseudoceros sapphirinus*
 
-[*Pseudoceros concinnus*](lineblue.md)
+[*Pseudoceros concinnus*](lineblue)
 (Blue-lined flatworm)
 
 *Pseudoceros*
@@ -441,29 +441,29 @@ cf.
 
 *Pseudoceros duplicinctus*
 
-*[Pseudoceros indicus](indicus.md)*
+*[Pseudoceros indicus](indicus)*
 (Blue-dot margined flatworm)
 
-[*Pseudoceros laingensis*](laingensis.md)
+[*Pseudoceros laingensis*](laingensis)
 (Purple-spotted flatworm)
 
-[*Pseudoceros meenae*](white.md)
+[*Pseudoceros meenae*](white)
 (White flatworm)
 *Pseudoceros microcelis
 
 Pseudoceros paralaticlavus*
 [*Pseudoceros*
 cf.
-*prudhoei*](silverlining.md)
+*prudhoei*](silverlining)
 (Silver-lining flatworm)
 *Pseudoceros*
 cf.
 *rubronanus*
 
-*[Pseudoceros rubrotentaculatus](rubrotentaculatus.md)*
+*[Pseudoceros rubrotentaculatus](rubrotentaculatus)*
 (Ocher-striped flatworm)
 
-[*Pseudoceros scintillatus*](scintillatus.md)
+[*Pseudoceros scintillatus*](scintillatus)
 (Scintillating flatworm)
 
 *Pseudoceros*
@@ -474,18 +474,18 @@ cf.
 *Pseudoceros susanae*
 
 [*Pseudoceros*
-sp. 1](ascidianbeige.md)
+sp. 1](ascidianbeige)
 (Marbled flatworm)
 
 *Pseudoceros*
 sp. 2
 
 [*Pseudoceros*
-sp. 3](lineyellow.md)
+sp. 3](lineyellow)
 (Yellow-line flatworm)
 
 [*Pseudoceros*
-sp. 4](linebraid.md)
+sp. 4](linebraid)
 (Braided-line flatworm)
 
 *Pseudoceros*
@@ -529,7 +529,7 @@ Thysanozoon nigrum
 Thysanozoon*
 sp. 1
 
-*[Tytthosoceros lizardensis](olive.md)*
+*[Tytthosoceros lizardensis](olive)*
 (Olive flatworm)
 
 *Tytthosoceros*
@@ -553,11 +553,11 @@ Pseudocerotid 6
 +Pseudocerotid 7
 
 +
-[Pseudocerotid 8](felis.md)
+[Pseudocerotid 8](felis)
 (Feline flatworm)
 
 **Family Stylochidae
-[Silt flatworm](silt.md)**
+[Silt flatworm](silt)**
 
 Stylochid 1
 

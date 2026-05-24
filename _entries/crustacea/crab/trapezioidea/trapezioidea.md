@@ -52,11 +52,11 @@ location:
 
 ## Where seen?
 These tiny crabs are only found in living branching hard corals such as
-[Acropora corals](../../../cnidaria/coralhard/acroporidae/acropora.md)
+[Acropora corals](../../../cnidaria/coralhard/acroporidae/acropora)
 (
 *Acropora*
 sp.) and
-[Cauliflower corals](../../../cnidaria/coralhard/pocilloporidae/pocillopora.md)
+[Cauliflower corals](../../../cnidaria/coralhard/pocilloporidae/pocillopora)
 (
 *Pocillopora*
 sp.). They are well hidden and quick, and thus hard to spot and photograph.
@@ -68,28 +68,28 @@ Body width about 1cm. The body is flat and usually pentagonal (hard to see this 
 Usually a pair of male and female are found in one coral colony. The females are generally larger than the males and the males have claws that are proportionally larger. These coral crabs feed on the mucus produced by the hard coral, gathering these with the minute comb-like structures at the tips of their feet.
 
 The
-[Red coral crab](redcoral.md)
+[Red coral crab](redcoral)
 (
 *Trapezia cymodoce*
 ) lives only in
-[Cauliflower corals](../../../cnidaria/coralhard/pocilloporidae/pocillopora.md)
+[Cauliflower corals](../../../cnidaria/coralhard/pocilloporidae/pocillopora)
 (
 *Pocillopora*
 sp.).
 
 The
-[Bandit coral crab](bandit.md)
+[Bandit coral crab](bandit)
 (
 *Tetralia nigrolineata*
 ) lives only in
-[Acropora corals](../../../cnidaria/coralhard/acroporidae/acropora.md)
+[Acropora corals](../../../cnidaria/coralhard/acroporidae/acropora)
 (
 *Acropora*
 sp.).
 
 **Other tiny crabs that live in corals**
 include the
-[Hairy coral crab](../xanthidae/cymo.md)
+[Hairy coral crab](../xanthidae/cymo)
 (
 *Cymo andreossyi*
 )
@@ -132,11 +132,11 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 *Tetralia cavimana*
 
 **
-[*Tetralia nigrolineata*](bandit.md)
+[*Tetralia nigrolineata*](bandit)
 (Bandit coral crab) in Family Tetraliidae
 
 **
-[*Trapezia cymodoce*](redcoral.md)
+[*Trapezia cymodoce*](redcoral)
 (Red coral crab) (VU: Vulnerable) in Family Trapeziidae
 
 ---

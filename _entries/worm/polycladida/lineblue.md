@@ -232,7 +232,7 @@ This small pale flatworm elegantly edged in blue with a central blue stripe is r
 
 **Sometimes mistaken for**
 similar flatworms. Here's more on how to tell apart small flatworms with
-[one central line and three central lines](cfstriped.md)
+[one central line and three central lines](cfstriped)
 .
 
 **Good mother:**

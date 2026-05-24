@@ -60,7 +60,7 @@ links_references: |
   **Links**
   - [Glass Shrimp (
   *Periclimenes*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/180.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/180)
   Tan, Leo W. H. & Ng, Peter K. L., 1988,
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -114,7 +114,7 @@ location:
 **What are Palaemonid shrimps?**
 Palaemonid
 shrimps are
-[crustaceans](../../crustacea.md)
+[crustaceans](../../crustacea)
 that belong to Family Palaemonidae.
 ****
 
@@ -158,8 +158,8 @@ Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 
 On this website, they are grouped by external features for convenience of display.*
 
-[Carpet anemone shrimp](carpet.md)
-[Red nose shrimps](rednose.md)
+[Carpet anemone shrimp](carpet)
+[Red nose shrimps](rednose)
 
 **Family Palaemonidae**
 (includes some freshwater species)
@@ -173,11 +173,11 @@ Anchistus miersi
 ^Ancylomenes aesopius=Periclimenes aesopius
 
 ++
-[Ancylocaris brevicarpalis](brevicarpalis.md)
+[Ancylocaris brevicarpalis](brevicarpalis)
 = Periclimenes brevicarpalis*
 (Peacock-tail anemone shrimp)
 *+
-[Ancylomenes holthuisi](holthuisi.md)*
+[Ancylomenes holthuisi](holthuisi)*
 ('Gelek' anemone shrimp)=
 *Periclimenes holthuisi
 
@@ -187,7 +187,7 @@ Anchistus miersi
 
 ++Conchodytes placunae
 
-[Coralliocaris graminea](coralliocaris.md)*
+[Coralliocaris graminea](coralliocaris)*
 (Machine gun shrimp)
 *++Cristimenes commensalis*
 (commensal with feather stars)
@@ -253,7 +253,7 @@ Macrobrachium trompii
 
 **
 [*Palaemon*
-sp.](palaemon.md)
+sp.](palaemon)
 (Glass shrimp)
 *++Palaemon semmelinkii
 

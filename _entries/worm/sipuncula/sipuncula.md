@@ -111,11 +111,11 @@ galleries:
     caption: Tanah Merah, Jul 10
 links_references: |
   **Links**
-  - [Peanut worm (Phylum Sipunculida)](http://mangrove.nus.edu.sg/pub/seashore/text/127.md)
+  - [Peanut worm (Phylum Sipunculida)](http://mangrove.nus.edu.sg/pub/seashore/text/127)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *A Guide to Seashore Life*
   . The Singapore Science Centre, Singapore. 160 pp.
-  - [Peanut Worm (Sipunculids)](http://mangrove.nus.edu.sg/guidebooks/text/2004.md)
+  - [Peanut Worm (Sipunculids)](http://mangrove.nus.edu.sg/guidebooks/text/2004)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *A Guide to the Mangroves of Singapore II (Animal Diversity)*
   . Singapore Science Centre. 168 pp.

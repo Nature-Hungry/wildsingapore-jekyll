@@ -71,7 +71,7 @@ The tentacles come in shades of brown with many regular dark bands along the len
 
 **Sometimes mistaken for**
 the
-[Wiggly reef star anemone](star.md)
+[Wiggly reef star anemone](star)
 which tends to be more colourful, lacks the regular bands and tends to be found near coral reefs and among coral rubble.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Species are difficult to positively identify without close examination.

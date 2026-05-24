@@ -98,7 +98,7 @@ links_references: |
   **Links**
   - [Variable Fang-blenny (
   *Petroscirtes variabilis*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/357.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/357)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
@@ -150,7 +150,7 @@ This little fish has sharp teeth and can nip a naked hand or finger. In some pla
 
 **Blenny babies:**
 It lays adhesive eggs. It has been seen to guard eggs laid inside empty
-[Fan shell clams](../../../mollusca/bivalvia/pinnidae/pinnidae.md)
+[Fan shell clams](../../../mollusca/bivalvia/pinnidae/pinnidae)
 and other large empty snail shells. Once, a pair were seen with the eggs.
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

@@ -88,7 +88,7 @@ This dolphin is listed as 'Endangered' in the Red List of threatened animals of 
 
 ---
 
-[videoclips](sousa1.md)
+[videoclips](sousa1)
 of dolphins on Singapore shores
 
 ---

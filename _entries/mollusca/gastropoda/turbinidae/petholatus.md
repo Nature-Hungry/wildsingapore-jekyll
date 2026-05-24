@@ -45,9 +45,9 @@ About 6cm. Shell thick smooth glossy, without any cords. Colours brown, with a s
 
 **Sometimes confused with**
 the
-[Top shell snail](../trochidae/trochidae.md)
+[Top shell snail](../trochidae/trochidae)
 (Family Trochidae) has a more pyramidal shell and a thin operculum made of a horn-like material. While the turban shell snail has a shell with more distinct whorls and a thick, chalky operculum. Here's more on
-[how to tell apart turban and top shell snails](../topturban.md)
+[how to tell apart turban and top shell snails](../topturban)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Human uses:**

@@ -153,9 +153,9 @@ feeds on the coral.
 Sometimes, the coral may be seen with a layer of slime, peeling off. This might be a sign of distress, e.g., an effort by polyps to rid themselves of pollutants. During mass coral bleaching, recently dead portions of the colony turn grey and smell bad (like rotting fish).
 
 {% include img-wrap-group.html items=page.galleries.gallery5 %}It's hard to distinguish the different species of pore corals without close examination. On this website, they are grouped into
-[branching pore corals](porbranch.md)
+[branching pore corals](porbranch)
 and
-[boulder-shaped pore corals](porboulder.md)
+[boulder-shaped pore corals](porboulder)
 for convenience of display.
 ****
 **Status:**
@@ -176,11 +176,11 @@ in the above.
 *On this website, they are grouped by external features for convenience of display*
 *.*
 
-[Boulder pore coral](porboulder.md)
+[Boulder pore coral](porboulder)
 
-[Branching pore coral](porbranch.md)
+[Branching pore coral](porbranch)
 
-**[Family Poritidae](poritidae.md)
+**[Family Poritidae](poritidae)
 
 Genus
 *Porites***

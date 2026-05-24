@@ -79,7 +79,7 @@ This brightly coloured sponge is commonly on many of our shores, growing on rock
 
 **Looks similar to**
 the
-[Champagne sponge](thickpink.md)
+[Champagne sponge](thickpink)
 which has shallow holes, a rougher texture, may form upright shapes and is usually a dusky rose or greyish pink.
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

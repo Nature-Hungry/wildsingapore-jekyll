@@ -87,7 +87,7 @@ galleries:
     caption: Cyrene Reef, Nov 17 Photo shared by Loh Kok Sheng on facebook .
 links_references: |
   **Links**
-  - [Sea cucumbers](http://mangrove.nus.edu.sg/pub/seashore/text/222.md)
+  - [Sea cucumbers](http://mangrove.nus.edu.sg/pub/seashore/text/222)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -130,7 +130,7 @@ conical projections
 
 **Sometimes mistaken for**
 the
-[Pink warty sea cucumber](cercodemas.md)
+[Pink warty sea cucumber](cercodemas)
 which looks similar and is found in the same habitat often next to the Thorny sea cucumber. The Pink warty sea cucumber has pink warty bumps instead of soft thorns and has yellow on its body, which the Thorny sea cucumber usually lacks.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**
@@ -141,7 +141,7 @@ Sometimes small creatures are seen on the sea cucumber. Such as parasitic snails
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Human uses:**
 Thorny sea cucumbers are among the sea cucumbers harvested for the live aquarium trade, although not as popular as the more colourful
-[Sea apple sea cucumber](violaceaus.md)
+[Sea apple sea cucumber](violaceaus)
 (
 *Pseudocolochirus violaceus*
 ). Like other fish and creatures harvested from the wild, most die before they can reach the retailers. Without pro

@@ -95,7 +95,7 @@ This snail with a 'scaly' shell is sometimes seen on some of our rocky shores. T
 
 **Sometimes confused with**
 other similar nerites. Here's a comparison of these
-[similar nerite snails](neritidaecf.md)
+[similar nerite snails](neritidaecf)
 and how to tell them apart.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

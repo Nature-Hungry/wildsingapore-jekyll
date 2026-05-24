@@ -107,14 +107,14 @@ on the
 **
 **
 
-**[Family Merulinidae](merulinidae.md)
+**[Family Merulinidae](merulinidae)
 
 Genus
 *Hydnophora***
 
-[*Hydnophora exesa*](hydboulder.md)
+[*Hydnophora exesa*](hydboulder)
 (Boulder horn coral)
-*[Hydnophora rigida](hydbranch.md)*
+*[Hydnophora rigida](hydbranch)*
 (Branching horn coral)
 **
 

@@ -60,7 +60,7 @@ and
 
 More on how to tell apart
 [*Clibanarius*
-hermit crabs](clibanarius.md)
+hermit crabs](clibanarius)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

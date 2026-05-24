@@ -56,7 +56,7 @@ galleries:
 ---
 
 Here's how to tell apart the
-[flatfishes](pleuronectiformes.md)
+[flatfishes](pleuronectiformes)
 commonly seen on our shores
 
 ---
@@ -72,5 +72,5 @@ commonly seen on our shores
 ---
 
 how to tell apart
-- [flatworms and slugs](../../../glossary/flatwormslug.md)
-- [fishes with flat heads](../cfflatheads.md)
+- [flatworms and slugs](../../../glossary/flatwormslug)
+- [fishes with flat heads](../cfflatheads)

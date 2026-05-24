@@ -212,27 +212,27 @@ At low tide, they are more easily spotted at night when they are still somewhat 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Home Sweet Home:**
 We have seen these shrimps with these large sea anemones:
-[Giant carpet anemones](../../../cnidaria/actiniaria/gigantea.md)
+[Giant carpet anemones](../../../cnidaria/actiniaria/gigantea)
 ,
-[Haddon's carpet anemones](../../../cnidaria/actiniaria/haddoni.md)
+[Haddon's carpet anemones](../../../cnidaria/actiniaria/haddoni)
 ,
-[Magnificent anemones](../../../cnidaria/actiniaria/magnifica.md)
+[Magnificent anemones](../../../cnidaria/actiniaria/magnifica)
 ,
-[Leathery anemone](../../../cnidaria/actiniaria/crispa.md)
+[Leathery anemone](../../../cnidaria/actiniaria/crispa)
 ,
-[Pizza anemone](../../../cnidaria/actiniaria/cryptodendrum.md)
+[Pizza anemone](../../../cnidaria/actiniaria/cryptodendrum)
 ,
-[Bubble-tip anemone](../../../cnidaria/actiniaria/entacmaea.md)
+[Bubble-tip anemone](../../../cnidaria/actiniaria/entacmaea)
 ,
-[Frilly sea anemone](../../../cnidaria/actiniaria/phymanthus.md)
+[Frilly sea anemone](../../../cnidaria/actiniaria/phymanthus)
 ,
-[Snaky anemone](../../../cnidaria/actiniaria/doreensis.md)
+[Snaky anemone](../../../cnidaria/actiniaria/doreensis)
 ,
-[Fire anemone](../../../cnidaria/actiniaria/actinodendron.md)
+[Fire anemone](../../../cnidaria/actiniaria/actinodendron)
 .
 
 Rarely,
-[False clown anemonefishes](../../../vertebrates/fish/pomacentridae/ocellaris.md)
+[False clown anemonefishes](../../../vertebrates/fish/pomacentridae/ocellaris)
 are also found together with the anemone shrimps on the same anemone. They don't seem to bother one another.
 
 **Does it 'clean' fish?**

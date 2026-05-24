@@ -98,7 +98,7 @@ location:
 
 ## Where seen?
 This comical cartoon-like slug is only sometimes seen. When seen, often several are seen at the same time. And then none for some time. Elsewhere, they are found in sandy and silty shores. It was previously placed in
-[Order Notaspidae](notaspidea.md)
+[Order Notaspidae](notaspidea)
 , but is now placed in Order Pleurobranchomorpha.
 
 ## Features
@@ -109,7 +109,7 @@ The slug is adapted for living in a sandy habitat. A broad foot and flattened bo
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**Sometimes mistaken for**
 a
-[squid or cuttlefish](../../cephalopoda/squid.md)
+[squid or cuttlefish](../../cephalopoda/squid)
 .
 
 **What does it eat?**

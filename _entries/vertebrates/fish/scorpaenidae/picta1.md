@@ -27,4 +27,4 @@ galleries:
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 ---
 {% include img-wrap-group.html items=page.galleries.gallery2 %}back to
-[general info on painted scorpionfishes](picta.md)
+[general info on painted scorpionfishes](picta)

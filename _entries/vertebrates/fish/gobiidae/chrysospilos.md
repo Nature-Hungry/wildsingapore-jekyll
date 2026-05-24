@@ -92,7 +92,7 @@ links_references: |
   **Links**
   - [Gold-spotted mudskipper (
   *Periophthalmus chrysospilos*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/371.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/371)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
@@ -104,7 +104,7 @@ links_references: |
   from
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet.
-  - [Gold-spotted mudskipper](http://www.ecologyasia.com/verts/brackish-fishes/gold-spotted-mudskipper.md)
+  - [Gold-spotted mudskipper](http://www.ecologyasia.com/verts/brackish-fishes/gold-spotted-mudskipper)
   on
   [EcologyAsia](http://www.ecologyasia.com/)
   : photos and fact sheet.

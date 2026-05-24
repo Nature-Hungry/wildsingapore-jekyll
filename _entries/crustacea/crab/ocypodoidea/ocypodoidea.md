@@ -95,33 +95,33 @@ links_references: |
   **Links**
   - [Soldier crab (
   *Dotilla myctiroides*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2052.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2052)
   ,
   [Fiddler crabs (
   *Uca*
-  spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2053.md)
+  spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2053)
   ,
   [Semaphore crabs (
   *Ilyoplax*
-  spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2054.md)
+  spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2054)
   ,
   [Sentinel crabs (
   *Macrophthalmus*
-  spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2055.md)
+  spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2055)
   ,
   [Shen crab (
   *Shenius anomalum*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2056.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2056)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
   - [Ghost Crab (
   *Ocypoda*
-  sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/191.md)
+  sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/191)
   and
   [Fiddler crabs (
   *Uca*
-  spp.)](http://mangrove.nus.edu.sg/pub/seashore/text/190.md)
+  spp.)](http://mangrove.nus.edu.sg/pub/seashore/text/190)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -155,21 +155,21 @@ location:
 
 ## Where seen?
 Crabs belonging to this family include some of the most commonly encountered on our shores during the day:
-[fiddler crabs](uca.md)
+[fiddler crabs](uca)
 (
 *Uca*
 sp.),
-[sand bubbler crabs](scopimera.md)
+[sand bubbler crabs](scopimera)
 (
 *Scopimera*
 and
 *Dotilla*
 spp.) and
-[soldier crabs](dotilla.md)
+[soldier crabs](dotilla)
 (
 *Dotilla myctiroides*
 ). Others like the
-[ghost crabs](ceratophthalmus.md)
+[ghost crabs](ceratophthalmus)
 (
 *Ocypode*
 sp.) are only active at night.
@@ -233,13 +233,13 @@ sp.**
 
 *Dotilla myctiroides*
 (VU: Vulnerable) (
-[Soldier crab](dotilla.md)
+[Soldier crab](dotilla)
 )
 
 *Dotilla wichmanni*
 
 [***Ilyoplax*
-sp.**](ilyoplax.md)
+sp.**](ilyoplax)
 **semaphore crabs**
 
 **Ilyoplax delsmani*
@@ -257,7 +257,7 @@ Ilyoplax obliqua*
 Ilyoplax punctata*
 
 [***Scopimera*
-sp.**](scopimera.md)
+sp.**](scopimera)
 **(Sand bubbler crabs)**
 
 *Scopimera globossa
@@ -267,19 +267,19 @@ Scopimera intermedia
 *Shenius anomalum*
 (Shen crab)
 
-**[Family Macrophthalmidae](macrophthalmus.md)**
+**[Family Macrophthalmidae](macrophthalmus)**
 (previously Ocypodidae) with list of species recorded for Singapore
 
 **Family Ocypodidae**
 
-[*Ocypode ceratophthalmus*](ceratophthalmus.md)
+[*Ocypode ceratophthalmus*](ceratophthalmus)
 (Horn-eyed ghost crab)
 **
-[Ocypode cordimanus](cordimanus.md)*
+[Ocypode cordimanus](cordimanus)*
 (Smooth-eye ghost crab) (VU: Vulnerable)
 **
 [***Uca***
-**sp.**](uca.md)
+**sp.**](uca)
 **fiddler crabs**
 **
 see species page for list of species

@@ -66,15 +66,15 @@ links_references: |
   **Links**
   - [Estuarine Moray (
   *Gymnothorax tile*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/210.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/210)
   and
   [Brown-spotted Moray (
   *Gymnothorax reevesii*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/211.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/211)
   Lim, Kelvin and Jeffrey K Y Low,
-  *[Guide to Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/index.md)*
+  *[Guide to Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/index)*
   . Singapore Science Centre.
-  - [Moray eel](http://mangrove.nus.edu.sg/pub/seashore/text/248.md)
+  - [Moray eel](http://mangrove.nus.edu.sg/pub/seashore/text/248)
   Tan, Leo W. H. and Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -156,14 +156,14 @@ Moray eels belong to the Family Muraenidae, which belongs to the Order Anguillif
 Moray eels are extremely long fishes with muscular bodies. Their bodies are compressed sideways (they are not tubular). They have no pelvic or pectoral fins. The dorsal and anal fins extend over the entire length of the long body and are continuous with the tail fin, resulting in the typical eel-like profile. Instead of scales, they have thick, smooth skin. The large, strong jaws are filled with lots of teeth. The eyes are small. They have a pair of tubular nostrils at the tip of the snout, and small circular gill openings. Eels swim by moving their muscular bodies in S-shapes, rather like a snake.
 
 **Sometimes mistaken for**
-[sea snakes](../../snakes/hydrophiidae/laticauda.md)
+[sea snakes](../../snakes/hydrophiidae/laticauda)
 . Here's more on
-[how to tell apart sea snakes, eels and eel-like animals](../../../glossary/eelsnake.md)
+[how to tell apart sea snakes, eels and eel-like animals](../../../glossary/eelsnake)
 .
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **What do they eat?**
 Moray eels' prey include fishes, crustaceans, snails and
-[octopus, squid and cuttlefish](../../../mollusca/cephalopoda.md)
+[octopus, squid and cuttlefish](../../../mollusca/cephalopoda)
 . Those that eat fish have sharp, long, fang-like teeth to grab and hold on to their slippery prey. Those that eat hard-shelled crabs and snails have pebble-like teeth to crush prey.
 
 **Two sets of jaws!**
@@ -227,13 +227,13 @@ Gymnothorax micropoecilus
 Gymnothorax nudivomer
 
 *
-[Gymnothorax reevesii](reevesii.md)*
+[Gymnothorax reevesii](reevesii)*
 (Brown-spotted moray eel)
-*[Gymnothorax tile](tile.md)*
+*[Gymnothorax tile](tile)*
 (Estuarine moray eel)
 *Gymnothorax undulatus
 
-[Uropterygius concolor](concolor.md)*
+[Uropterygius concolor](concolor)*
 (Brown moray eel)
 
 ---

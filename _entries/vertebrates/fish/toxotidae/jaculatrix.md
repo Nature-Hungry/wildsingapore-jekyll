@@ -50,18 +50,18 @@ links_references: |
   **Links**
   - [Banded Archerfish (
   *Toxotes jaculatrix*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/324.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/324)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
   - [Archerfish (
   *Toxotes jaculatrix*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2105.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2105)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)
   II (Animal Diversity)*
   . Singapore Science Centre. 168 pp.
-  - [Banded Archerfish](http://www.ecologyasia.com/verts/fishes/banded-archerfish.md)
+  - [Banded Archerfish](http://www.ecologyasia.com/verts/fishes/banded-archerfish)
   from EcologyAsia .
   - [Banded Archerfish (
   *Toxotes jaculatrix*
@@ -71,7 +71,7 @@ links_references: |
   : Technical fact sheet.
   - [Banded Archerfish (
   *Toxotes jaculatrix*
-  )](http://www.amonline.net.au/fishes/fishfacts/fish/tjaculat.md)
+  )](http://www.amonline.net.au/fishes/fishfacts/fish/tjaculat)
   from the
   [Australian Museum Fish Site](http://www.amonline.net.au/fishes/fishfacts/)
   : fact sheet with photo
@@ -101,7 +101,7 @@ This active fish is often seen in groups under jetties, bridges in streams near 
 ## Features
 
 To about 20cm long, those seen about 7-10cm. 4-5 broad black vertical bands that taper towards the bottom of the body.
-[More](toxotidae.md)
+[More](toxotidae)
 about the archerfishes' infamous ability to shoot down insects.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Human uses:**

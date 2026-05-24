@@ -156,13 +156,13 @@ links_references: |
   **Links**
   - [Hollow-cheek Stonefish (
   *Synanceia horrida*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/256.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/256)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
   - [Stonefish (
   *Synanceia horrida*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/231.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/231)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -222,7 +222,7 @@ The fish really looks like a stone. It grows to nearly 50cm, those seen about 15
 
 **Sometimes mistaken for**
 scorpionfishes. Here's more on
-[how to tell apart fishes that look like stones](../cfstonefish.md)
+[how to tell apart fishes that look like stones](../cfstonefish)
 .
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Deadly stone!**
@@ -244,7 +244,7 @@ Stonefishes are carnivores but don't actively hunt their prey. Instead, they lie
 
 **What will eat a stonefish?**
 Incredible as it may sound, some animals do eat them. According to the
-[Australian Museum](http://www.amonline.net.au/fishes/students/focus/sverruc.md)
+[Australian Museum](http://www.amonline.net.au/fishes/students/focus/sverruc)
 , sharks and rays and a sea snake (
 *Astrotia stokesii*
 ) eats them! And of course, some people eat them as a delicacy.

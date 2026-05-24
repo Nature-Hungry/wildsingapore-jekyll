@@ -89,13 +89,13 @@ location:
 
 ## Where seen?
 This orange fanworm is commonly encountered on our Northern shores, and sometimes also on our Southern shores. Usually in dead coral or coral rubble and seldom in living corals. It is not as commonly encountered as the
-[banded fanworms](sabbanded.md)
+[banded fanworms](sabbanded)
 which are usually found in living corals.
 
 ## Features
 
 Fan 4-6cm in diameter. The fan is orange or yellowish, sometimes with portions that are paler or white. Some have white bands and might be a paler version of the
-[banded fanworms](sabbanded.md)
+[banded fanworms](sabbanded)
 . Usually found alone, rarely a few next to one another.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

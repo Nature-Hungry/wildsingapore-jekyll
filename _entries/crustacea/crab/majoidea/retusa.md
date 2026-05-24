@@ -145,7 +145,7 @@ galleries:
     caption: Terumbu Raya, Jul 14 Photo shared by Heng Pei Yan on flickr .
 links_references: |
   **Links**
-  - [Velcro and Decorator crab of the Family Majidae](http://mangrove.nus.edu.sg/pub/seashore/text/188.md)
+  - [Velcro and Decorator crab of the Family Majidae](http://mangrove.nus.edu.sg/pub/seashore/text/188)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.

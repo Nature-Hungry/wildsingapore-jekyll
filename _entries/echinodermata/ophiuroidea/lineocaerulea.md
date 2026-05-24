@@ -97,7 +97,7 @@ Disk diameter about 1cm, arms 10-20cm long. Central disk thick and somewhat pent
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Sometimes confused with**
 the
-[Very long armed brittle star](longipeda.md)
+[Very long armed brittle star](longipeda)
 (
 *Macrophiothrix longipeda*
 ) which also has very long arms but lacks the blue lines and has flatter spines.

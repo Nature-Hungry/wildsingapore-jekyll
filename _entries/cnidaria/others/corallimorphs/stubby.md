@@ -82,7 +82,7 @@ Each polyp about 3-4cm in diameter, sometimes seen in groups of 5-10. Tentacles 
 A study found that Stubby corallimorphs
 **
 can also look like
-[Beaded corallimorphs](beaded.md)
+[Beaded corallimorphs](beaded)
 (
 *Discosoma nummiforme*
 ).

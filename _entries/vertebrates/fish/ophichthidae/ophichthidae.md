@@ -45,11 +45,11 @@ links_references: |
   **Links**
   - [Green worm-eel (
   *Muraenichthys*
-  sp.)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/213.md)
+  sp.)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/213)
   and
   [Burrowing Snake-eel (
   *Pisodonophis crancrivorus*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/214.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/214)
   Lim, Kelvin and Jeffrey K Y Low,
   *[Guide to Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre.
@@ -115,16 +115,16 @@ Worm-eels and snake-eels belong to the Family Ophichthidae, which belongs to the
 20cm-2.5m long, these fishes have a tubular body. They lack scales. Some species have pectoral fins, others don't. The head and tail are pointed and they are adapted for burrowing. They swim by moving the body in S-shapes, rather like a sea snake. In fact, some day-hunting snake eels mimic sea snakes.
 
 **Sometimes mistaken for**
-[worms](../../../worm/worm.md)
+[worms](../../../worm/worm)
 or
-[sea snakes](../../snakes/hydrophiidae/laticauda.md)
+[sea snakes](../../snakes/hydrophiidae/laticauda)
 . Here's more on
-[how to tell apart sea snakes, eels and eel-like animals](../../../glossary/eelsnake.md)
+[how to tell apart sea snakes, eels and eel-like animals](../../../glossary/eelsnake)
 .
 
 **What do they eat?**
 Most species are burrowing. They hunt fishes,
-[octopus, squids and cuttlefishes](../../../mollusca/cephalopoda.md)
+[octopus, squids and cuttlefishes](../../../mollusca/cephalopoda)
 and crustaceans.
 
 ---
@@ -146,13 +146,13 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
 
 **Family Ophichthidae awaiting identification**
 
-[Mangrove snake-eel](mangrove.md)
+[Mangrove snake-eel](mangrove)
 
 **Family Ophichthidae**
 
 *Caecula lumbricoides
 
-[Scolecenchelys macroptera=](wormeel.md)
+[Scolecenchelys macroptera=](wormeel)
 Muraenichthys macropterus*
 **
 (Worm-eel)
@@ -163,7 +163,7 @@ Muraenichthys macropterus*
 Ophichthus celebicus
 
 Ophichthus evermanni=**
-[Ophichthus lithinus](evermann.md)*
+[Ophichthus lithinus](evermann)*
 (Evermann's snake eel)
 *Ophichthus singapurensis
 

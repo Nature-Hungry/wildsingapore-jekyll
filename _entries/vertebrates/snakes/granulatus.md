@@ -106,12 +106,12 @@ links_references: |
   on the
   [Singapore Snakes](http://singaporesnakes.blogspot.com/)
   blog: fact sheet with photos and links to local sightings and other posts.
-  - [Mangrove snakes: File snake](http://mangrove.nus.edu.sg/guidebooks/text/2112.md)
+  - [Mangrove snakes: File snake](http://mangrove.nus.edu.sg/guidebooks/text/2112)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore Ii (Animal Diversity](http://mangrove.nus.edu.sg/guidebooks/)*
   [)](http://mangrove.nus.edu.sg/guidebooks/)
   . Singapore Science Centre. 168 pp.
-  - [Banded File Snake](http://www.wildsingapore.per.sg/discovery/factsheet/snakefile.md)
+  - [Banded File Snake](http://www.wildsingapore.per.sg/discovery/factsheet/snakefile)
   on Chan Kwok Wai's Wildlife Singapore: fact sheet with photos.
   - [*Acrochordus granulatus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Acrochordus%20granulatus.html)
   (Squamata: Acrochordidae) Banded File Snake by Lee Gang, 2011 from taxo2454.
@@ -158,7 +158,7 @@ location:
 
 ## Where seen?
 This snake with bands is sometimes seen on some of our shores, near seagrass meadows and mangroves. According to Baker, it is mainly found in the Johor Straits including Sungei Buloh Wetland Reserve and was also found out of water, hidden in
-[mudlobster mounds](../../crustacea/othercrust/lobster/thalassina.md)
+[mudlobster mounds](../../crustacea/othercrust/lobster/thalassina)
 . A nocturnal snake, it is usually seen in the late evening or early morning. It is widely distributed from India to Southeast Asia to southern China and northern Australia. It was previously known as
 *Chersydrus granulatus*
 .
@@ -168,13 +168,13 @@ To about 1m, but usually shorter. Body cylindrical, banded with black or brown b
 
 **Sometimes confused with**
 the highly venomous
-[Yellow-lipped sea snake](laticauda.md)
+[Yellow-lipped sea snake](laticauda)
 (
 *Laticauda colubrina*
 ). Here's
-[how to tell apart banded snakes](cfseafile.md)
+[how to tell apart banded snakes](cfseafile)
 seen near the coast. It may also be confused with eels. Here's more on
-[how to tell apart sea snakes, eels and eel-like animals](../../glossary/eelsnake.md)
+[how to tell apart sea snakes, eels and eel-like animals](../../glossary/eelsnake)
 .
 
 Another file snake recorded for Singapore is the Elephant trunk water snake (
@@ -182,7 +182,7 @@ Another file snake recorded for Singapore is the Elephant trunk water snake (
 . It is longer, grows to about 2.9m. It is not banded and is olive brown to grey brown with faintly marbled black pattern on the sides. The underside is lighter than the upperside. There is no prominent central fold on the underside. In slow-moving waters of estuaries and freshwater streams and canals.
 **What does it eat?**
 Mainly small fishes such as bottom dwelling
-[gobies](../fish/gobiidae/gobiidae.md)
+[gobies](../fish/gobiidae/gobiidae)
 . The snake has a loose skin covered with small rough scales. The file-like skin helps it to grip its slippery prey. The snake has tiny eyes and a small mouth.
 
 **File Babies:**

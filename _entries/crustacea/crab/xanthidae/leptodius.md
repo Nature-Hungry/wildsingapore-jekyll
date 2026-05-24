@@ -64,7 +64,7 @@ links_references: |
   **Links**
   - [Common Rock Crab (
   *Leptodius*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/208.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/208)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -103,7 +103,7 @@ This large crab with typical spoon-tipped pincers is sometimes seen in rocky or 
 Body width 8-10cm. Body oval, rather flat, with 4-5 blunt teeth on the edges of the shell. Colours and patterns in a wide variety; basically brown or grey, sometimes with dark patches or mottled. Pincers not very long, somewhat squat with bumps on the 'elbows' and black spoon-shaped tips. These are probably used to scrape off algae. The walking legs are fringed with long hairs and end in pointed tips.
 
 **Sometimes confused with**
-[Smooth spooner crab](laevimanus.md)
+[Smooth spooner crab](laevimanus)
 (
 *Etisus laevimanus*
 ) which have pincers that are longer, more slender and smooth (without bumps).

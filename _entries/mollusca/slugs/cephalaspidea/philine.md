@@ -63,13 +63,13 @@ location:
 
 ## Where seen?
 This strange slug is sometimes seen in clean sandy shores and sand bars. It reminds of 'attap chee', the fruit of the
-[Nipah palm](../../../plants/mangrove/nypa/nypa.md)
+[Nipah palm](../../../plants/mangrove/nypa/nypa)
 that is eaten in local desserts such as 'ice-kacang'.
 
 ## Features
 
 4-6cm long. Body oval wedge-shaped smooth white, made up of lobes. Like other
-[headshield snails](cephalaspidea.md)
+[headshield snails](cephalaspidea)
 it has a shield over the front of the body which is used to plough through the sediments. This muscular slug can burrow rapidly into wet sand and can produce a large amount of slime. It has a thin internal shell.
 
 **What does it eat?**

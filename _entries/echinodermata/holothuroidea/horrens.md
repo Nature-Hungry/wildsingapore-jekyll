@@ -76,7 +76,7 @@ links_references: |
   in North Australian Sea Cucumber on Marine Species Identification Portal: Technical fact sheet.
   - *Stichopus horrens*
   on
-  [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00.md)
+  [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00)
   , by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
   - [Malaysia lists 'gamat' sea cucumbers as endangered](http://wildshores.blogspot.com/2009/03/malaysia-lists-gamat-sea-cucumbers-as.html)
   on the wild shores of singapore blog with an article about the trade in gamat on Pulau Langkawi.

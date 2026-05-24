@@ -139,9 +139,9 @@ Colonies large (about 20cm or more). Colonies are solid (massive) and may be dom
 
 **Sometimes mistaken**
 for
-*[Turbinaria](../dendrophylliidae/dendrophyllidae.md)
+*[Turbinaria](../dendrophylliidae/dendrophyllidae)
 or
-[Echinopora](../merulinidae/echinopora.md)*
+[Echinopora](../merulinidae/echinopora)*
 species.
 ****
 **Status:**
@@ -192,7 +192,7 @@ from Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Thr
 in red are those listed as threatened
 in the above.
 
-**[Family Acroporidae](acroporidae.md)
+**[Family Acroporidae](acroporidae)
 
 Genus
 *Astreopora***

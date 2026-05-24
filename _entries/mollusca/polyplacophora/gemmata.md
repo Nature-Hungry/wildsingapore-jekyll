@@ -121,7 +121,7 @@ Up to 12cm long, the oval flattened body is covered with 8 overlapping plates al
 
 **Sometimes mistaken for**
 a
-[scale worm](../../worm/polychaeta/scaleworm.md)
+[scale worm](../../worm/polychaeta/scaleworm)
 which is a polychaete worm that also has overlapping scales but has well developed tentacles and rows of bristles along the sides of the body.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What do they eat?**

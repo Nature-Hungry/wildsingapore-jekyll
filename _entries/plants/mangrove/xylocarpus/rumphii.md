@@ -45,13 +45,13 @@ links_references: |
   **Links**
   - *[Xylocarpus rumphii](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3210)*
   on the NParks Flora and Fauna website: photos and fact sheet.
-  - [The Struggle for Survival: Five threatened coastal plants once common on our shores](http://habitatnews.nus.edu.sg/pub/naturewatch/text/a061d.md)
+  - [The Struggle for Survival: Five threatened coastal plants once common on our shores](http://habitatnews.nus.edu.sg/pub/naturewatch/text/a061d)
   by Jean W H Yong, Nature Watch Vol 6 No 1 Jan-Mar 98
-  - [Siloso plant checklist](http://www.eart-h.com/text/siloso.md)
+  - [Siloso plant checklist](http://www.eart-h.com/text/siloso)
   by Joseph Lai on his eart-h.com website done during the
   [Sentosa Survey of 2006](http://www.wildsingapore.com/projects/survey/sentosa/index.html)
   - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.md)
+  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
   (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
   
   **References**

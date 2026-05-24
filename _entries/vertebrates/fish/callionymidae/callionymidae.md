@@ -50,7 +50,7 @@ links_references: |
   . Singapore Science Centre. 163 pp.
   - [Callionymidae (Dragonets)](https://singapore.biodiversity.online/taxon/A-Vert-Fish-Perciformes-Callionymidae)
   on The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.
-  - [Dragonets](https://www.ecologyasia.com/verts/fishes/dragonets.md)
+  - [Dragonets](https://www.ecologyasia.com/verts/fishes/dragonets)
   on Ecology Asia.
   - [Family Callionymidae (Dragonets)](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=435)
   and
@@ -127,9 +127,9 @@ Those seen about 3-5cm, grows to about 10cm. These fishes are bottom-dwellers. I
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Sometimes mistaken**
 for
-[flatheads](../platycephalidae/platycephalidae.md)
+[flatheads](../platycephalidae/platycephalidae)
 (Family Platycephalidae). Here's more on
-[how to tell apart fish with flat heads](../cfflatheads.md)
+[how to tell apart fish with flat heads](../cfflatheads)
 .
 
 **What do they eat?**
@@ -157,10 +157,10 @@ from Ng, H. H., 2012.
 
 **Family Callionymidae**
 
-*[Callionymus enneactis](mosaic.md)*
+*[Callionymus enneactis](mosaic)*
 (Mosaic dragonet)
 
-*[Callionymus erythraeus](erythraeus.md)*
+*[Callionymus erythraeus](erythraeus)*
 (Smallhead dragonet)
 *Callionymus hindsii
 
@@ -172,7 +172,7 @@ Callionymus sagitta*
 (Fingered dragonet)
 
 +
-*[Dactylopus kuiteri](dactylopus.md)*
+*[Dactylopus kuiteri](dactylopus)*
 (Kuiter's dragonet)
 
 *Synchiropus lineolatus*

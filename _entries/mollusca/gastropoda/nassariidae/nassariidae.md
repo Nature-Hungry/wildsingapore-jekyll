@@ -82,18 +82,18 @@ links_references: |
   **Links**
   - [Mud whelk (
   *Nassarius jacksonianus*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2087.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2087)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
   - [Family Nassariidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Nassariidae.html)
   on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief fact sheet with photos.
-  - [Family Nassariidae (Dog whelks)](http://seashellsofnsw.org.au/Nassariidae/Pages/nassariidae_intro.md)
+  - [Family Nassariidae (Dog whelks)](http://seashellsofnsw.org.au/Nassariidae/Pages/nassariidae_intro)
   on the
-  [The Seashells of New South Wales](http://seashellsofnsw.org.au/index.md)
+  [The Seashells of New South Wales](http://seashellsofnsw.org.au/index)
   website by Des Beechey Research Associate, Australian Museum: family introductions with photos of shells and detailed fact sheets for many species.
   - Family Nassariidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   **References**
@@ -142,9 +142,9 @@ Whelks are active scavengers and often seen busily foraging in pools at the chan
 
 **Whelk friends:**
 Often, a
-[tiny sea anemone](../../../cnidaria/actiniaria/snail.md)
+[tiny sea anemone](../../../cnidaria/actiniaria/snail)
 hitches a ride on the shell of a whelk! The anemone probably benefits from the whelk's left overs, and avoids being permanently buried in the sediments. It is not certain if the whelk gets anything in return.
-[Barnacles](../../../crustacea/othercrust/ciriipedia/cirripedia.md)
+[Barnacles](../../../crustacea/othercrust/ciriipedia/cirripedia)
 may sometimes also be found on the shells of large living whelks.
 
 **Human uses:**
@@ -209,7 +209,7 @@ Nassarius concinnus
 Nassarius crematus
 
 Nassarius crenoliratus*
-*[Nassarius echinatus](prickly.md)*
+*[Nassarius echinatus](prickly)*
 (Prickly whelk)
 *Nassarius exulatus
 
@@ -227,15 +227,15 @@ Nassarius hepaticus
 
 Nassarius himeroessa
 
-[Nassarius jacksonianus](jacksonianus.md)*
+[Nassarius jacksonianus](jacksonianus)*
 (Mud whelk)
 *Nassarius javanus
 
 Nassarius leptospirus
 
-[Nassarius limnaeiformis](limnaeiformis.md)*
+[Nassarius limnaeiformis](limnaeiformis)*
 (Speckled whelk)
-*[Nassarius livescens](livescens.md)*
+*[Nassarius livescens](livescens)*
 (Common whelk)
 *Nassarius luridus=^Nassarius graphiterus
 
@@ -245,13 +245,13 @@ Nassarius mitralis
 
 Nassarius nodifer
 
-[Nassarius olivaceus](olivaceus.md)*
+[Nassarius olivaceus](olivaceus)*
 (Olive whelk)
 *Nassarius pauperus=^Nassarius pauper
 
 Nassarius praematuratus
 
-[Nassarius pullus](pullus.md)*
+[Nassarius pullus](pullus)*
 (Black whelk)
 *Nassarius quadrasi
 
@@ -263,7 +263,7 @@ Nassarius stolatus
 
 Nassarius succinctus
 
-[Nassarius teretiusculus](lined.md)*
+[Nassarius teretiusculus](lined)*
 (Lined whelk)
 
 ---

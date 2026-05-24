@@ -59,13 +59,13 @@ galleries:
     caption: ''
 links_references: |
   **Links**
-  - *[Caulerpa sertularioides](http://www.hawaii.edu/reefalgae/invasive_algae/chloro/caulerpa_sertularioides.md)*
+  - *[Caulerpa sertularioides](http://www.hawaii.edu/reefalgae/invasive_algae/chloro/caulerpa_sertularioides)*
   from
-  [Marine Algae of Hawai`i](http://www.hawaii.edu/reefalgae/default.md)
+  [Marine Algae of Hawai`i](http://www.hawaii.edu/reefalgae/default)
   on the University of Hawai`i Botany Department website: fact sheet with photos.
-  - [*Caulerpa sertularioides*](http://www.sms.si.edu/IRLSpec/Cauler_sertul.md)
+  - [*Caulerpa sertularioides*](http://www.sms.si.edu/IRLSpec/Cauler_sertul)
   by the Smithsonian Marine Station at Fort Pierce: fact sheet with photos.
-  - [*Caulerpa settularioides*](http://www.naturia.per.sg/cjsurvey/vegetative/text/caulerpa%20sertularioides.md)
+  - [*Caulerpa settularioides*](http://www.naturia.per.sg/cjsurvey/vegetative/text/caulerpa%20sertularioides)
   coverage on Chek Jawa during the 2001 Chek Jawa survey.
   - [*Caulerpa sertularioides*](http://www.algaebase.org/search/species/detail/?species_id=1412)
   on
@@ -130,16 +130,16 @@ A feathery structure 5-7cm long. The central 'stem' of the feathery structure is
 
 **Sometimes confused with**
 other feathery green seaweeds or with
-[seagrasses](../../seagrass/seagrass.md)
+[seagrasses](../../seagrass/seagrass)
 . Here's more on
-[how to tell apart different feathery green seaweeds](cffeathery.md)
+[how to tell apart different feathery green seaweeds](cffeathery)
 and how to tell apart
-[feathery green seaweeds and seagrasses](../../../glossary/seagrassweed.md)
+[feathery green seaweeds and seagrasses](../../../glossary/seagrassweed)
 .
 
 **Role in the habitat:**
 The seaweed is said to be eaten by some species of
-[sea hares](../../../mollusca/slugs/anaspidae/anaspidea.md)
+[sea hares](../../../mollusca/slugs/anaspidae/anaspidea)
 .
 
 **Human uses:**

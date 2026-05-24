@@ -92,7 +92,7 @@ location:
 
 ## Where seen?
 These seagrasses are common on Pulau Semakau, growing among the more dominant
-[Tape seagrass](enhalus.md)
+[Tape seagrass](enhalus)
 (
 *Enhalus acoroides*
 ). They are also commonly seen on Cyrene Reef.
@@ -108,7 +108,7 @@ Long ribbon-like leaves with blunt, rounded tips that have serrations (these are
 
 **Sometimes confused with**
 other ribbon-like seagrasses. Here's more on
-[how to tell apart ribbon-like seagrasses](cfribbon.md)
+[how to tell apart ribbon-like seagrasses](cfribbon)
 .
 
 **Flowers and fruits:**

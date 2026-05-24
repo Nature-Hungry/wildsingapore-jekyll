@@ -72,7 +72,7 @@ links_references: |
   **Links**
   - [Moon Crab (
   *Matuta lunaris*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/205.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/205)
   Tan, Leo W. H. & Ng, Peter K. L., 1988,
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -156,11 +156,11 @@ Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
 **Family Matutidae**
 
 *
-*[Ashtoret lunaris](lunaris.md)*
+*[Ashtoret lunaris](lunaris)*
 (Spotted moon crab)
 
 +
-*[Matuta planipes](planipes.md)*
+*[Matuta planipes](planipes)*
 (Reticulated moon crab)
 
 ---

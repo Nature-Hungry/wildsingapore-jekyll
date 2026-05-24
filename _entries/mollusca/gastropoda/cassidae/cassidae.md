@@ -57,12 +57,12 @@ links_references: |
   **Links**
   - [Family Cassidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Cassidae.html)
   on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief fact sheet with photos.
-  - [Family Cassidae](http://seashellsofnsw.org.au/Cassidae/Pages/cassidae_intro.md)
+  - [Family Cassidae](http://seashellsofnsw.org.au/Cassidae/Pages/cassidae_intro)
   on
-  [The Seashells of New South Wales](http://seashellsofnsw.org.au/index.md)
+  [The Seashells of New South Wales](http://seashellsofnsw.org.au/index)
   by Des Beechey Research Associate, Australian Museum.
   - Family Cassidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   **References**
@@ -112,13 +112,13 @@ The Gladys Archerd Shell Collection describes their feeding technique: To feed o
 According to Poutiers, the snail first squirts neurotoxic saliva over its prey to paralyse the spines. The snail is initially protected from these spines by the thick skin of the foot. Then, the snail pushes its snout through the unprotected anus, or through a hole rasped by radula in the test of the victim which may also be crushed under the weight of the snail.
 
 While the
-[Seashells of New South Wales](http://seashellsofnsw.org.au/Cassidae/Pages/cassidae_intro.md)
+[Seashells of New South Wales](http://seashellsofnsw.org.au/Cassidae/Pages/cassidae_intro)
 website says that most helmet shells live buried in the sand by day, coming out at night to feed on echinoderms, especially sea urchins, which they can locate by smell from at least 30cm away. They immobilise the urchin, crawl onto it with the thick skin of the foot providing protection from the spines, and make a hole in the urchin shell by an acidic secretion and by rasping with the radula, and suck out the soft parts.
 
 On our shores, the
-[Grey bonnet snail](glaucum.md)
+[Grey bonnet snail](glaucum)
 has been seen on top of a
-[Cake sand dollar](../../../echinodermata/echinoidea/sandollar/arachnoides.md)
+[Cake sand dollar](../../../echinodermata/echinoidea/sandollar/arachnoides)
 , and when the sand dollar is examined, a hole is seen in the sand dollar skeleton. This suggests the snail bored the hole.
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**Baby helmets:**
@@ -128,7 +128,7 @@ These snails are commonly collected for food and their large decorative shells a
 
 **Status and threats:**
 The
-[Grey bonnet snail](glaucum.md)
+[Grey bonnet snail](glaucum)
 is listed as Endangered in the Red List of threatened animals of Singapore.
 
 ---
@@ -154,10 +154,10 @@ Nature Society (Singapore). 285 pp.
 
 *Phalium decussatum
 
-[Phalium glaucum](glaucum.md)*
+[Phalium glaucum](glaucum)*
 (Grey bonnet snail) (EN: Endangered)
 
-*[Semicassis bisulcata](bisulcata.md)*
+*[Semicassis bisulcata](bisulcata)*
 (Japanese bonnet snail)
 
 ---

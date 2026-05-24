@@ -129,7 +129,7 @@ Usually olive or yellowish greenish with tiny white spots forming patterns with 
 
 **Sometimes confused with**
 the
-[Spotted sea hare](spotted.md)
+[Spotted sea hare](spotted)
 which has a pattern of tiny white spots that form patches and doesn't have fine horizontal lines.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Baby sea hares:**
@@ -137,7 +137,7 @@ It lays long tangles of pink egg strings among seaweeds and seagrasses.
 
 **What does it eat?**
 It is believed to feed on brown seaweeds, but in our observations, these animals seem more abundant during blooms of the green
-[sea lettuce seaweed](../../../plants/seaweed/chlorophyta/ulva.md)
+[sea lettuce seaweed](../../../plants/seaweed/chlorophyta/ulva)
 (
 *Ulva*
 sp.).

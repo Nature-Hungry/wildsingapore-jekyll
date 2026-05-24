@@ -67,9 +67,9 @@ This smooth sponge forms a layer over coral rubble and is often seen on our Sout
 The layer encrusts coral rubble and may cover an area of 20cm wide or more. Sometimes, also encrusts living coral. Generally a smooth layer but also often with irregular knobs, folds and lobes. Tiny circular holes at the top of folds and elsewhere. Texture glossy, smooth and rubbery. Colours pale to bright blue. Sometimes green.
 
 **May be confused with**
-[Smooth green sponge](smoothgreen.md)
+[Smooth green sponge](smoothgreen)
 which is not as smooth has has a texture of tiny bumps. Also similar to the
-[Smooth brown sponges](smoothbrown.md)
+[Smooth brown sponges](smoothbrown)
 (
 *Neopetrosia exigua*
 ) which are brown.

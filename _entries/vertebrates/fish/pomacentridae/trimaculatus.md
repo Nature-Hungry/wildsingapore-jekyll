@@ -79,9 +79,9 @@ location:
 
 ## Where seen?
 This black anemonefish with white spots is sometimes seen on our submerged reefs, living in a
-[Giant carpet anemone](../../../cnidaria/actiniaria/gigantea.md)
+[Giant carpet anemone](../../../cnidaria/actiniaria/gigantea)
 , often sharing the anemone with
-[Peacock anemoneshrimps](../../../crustacea/othercrust/shrimp/brevicarpalis.md)
+[Peacock anemoneshrimps](../../../crustacea/othercrust/shrimp/brevicarpalis)
 . Elsewhere, juveniles are often seen living in large sea anemones, sea urchins, or branching corals. Adults found in pairs or small groups around coral mounds or rocks.
 
 ## Features

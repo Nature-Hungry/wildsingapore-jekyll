@@ -59,15 +59,15 @@ links_references: |
   **Links**
   - [Striped Fang-blenny (
   *Meiacanthus grammistes*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/356.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/356)
   ,
   [Whitebar Oyster-blenny (
   *Omobranchus ferox*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/355.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/355)
   ,
   [Variable Fang-blenny (
   *Petroscirtes variabilis*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/357.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/357)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
@@ -199,14 +199,14 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
 
 **Blennies seen awaiting identification**
 
-[Oyster blenny](oyster.md)
+[Oyster blenny](oyster)
 
 **Family Blenniidae**
 
 *+Enchelyurus flavipes*
 (Yellowfin blenny)
 **
-[Rockskipper blenny](rockskipper.md)
+[Rockskipper blenny](rockskipper)
 **Entomacrodus lighti=Entomacrodus stellifer lighti*
 (Stellar rockskipper blenny)
 *+Entomacrodus striatus*
@@ -214,7 +214,7 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
 **Meiacanthus grammistes*
 (Striped fang-blenny)
 **
-[Oyster-blenny](oyster.md)
+[Oyster-blenny](oyster)
 *+Omobranchus elongatus*
 (Elongate oyster-blenny)
 *Omobranchus ferox*
@@ -236,7 +236,7 @@ Petroscirtes flavipes
 
 Petroscirtes kranjinensis
 
-[Petroscirtes variabilis](variabilis.md)*
+[Petroscirtes variabilis](variabilis)*
 (Variable fang-blenny)
 *Petroscirtes zebra=**Omobranchus zebra
 

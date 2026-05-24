@@ -30,7 +30,7 @@ galleries:
       caption: "Lower Peirce Trail, Oct 03"
 links_references: |
   **Links**
-  - [Green Crested Lizard](http://www.ecologyasia.com/verts/lizards/green-crested_lizard.md)
+  - [Green Crested Lizard](http://www.ecologyasia.com/verts/lizards/green-crested_lizard)
   on Nick Baker's EcologyAsia website: fact sheet with photos.
   - [*Bronchocela cristatella*](https://singapore.biodiversity.online/taxo4254/mainSpace/Bronchocela%20cristatella.html)
   (Squamata: Agamidae) Green Crested Lizard By Leem Jia Min, Cheryl, 2016, on taxo4254.
@@ -67,7 +67,7 @@ Mama lizard lays 1-4 large, spindle-shaped eggs which are buried in the soil.
 
 **Status and threats:**
 It is not listed among our threatened animals. But it is no longer as commonly seen as in the past. It has been displaced by the more aggressive
-[Changeable lizard](versicolor.md)
+[Changeable lizard](versicolor)
 (
 *Calotes versicolor*
 ).

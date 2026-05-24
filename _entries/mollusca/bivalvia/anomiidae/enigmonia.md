@@ -41,13 +41,13 @@ links_references: |
   **Links**
   - [Enigma oyster (
   *Enigmoia aenigmatica*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2094.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2094)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
   - [Crust Shell (
   *Enignomia rosea*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/161.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/161)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.

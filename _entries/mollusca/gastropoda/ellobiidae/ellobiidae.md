@@ -49,11 +49,11 @@ galleries:
     caption: Pythia snail
 links_references: |
   **Links**
-  - [Belongkeng (Family Ellobidae)](http://mangrove.nus.edu.sg/guidebooks/text/2090.md)
+  - [Belongkeng (Family Ellobidae)](http://mangrove.nus.edu.sg/guidebooks/text/2090)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
-  - [Mangrove helmet shell (Family Ellobidae)](http://mangrove.nus.edu.sg/pub/seashore/text/153.md)
+  - [Mangrove helmet shell (Family Ellobidae)](http://mangrove.nus.edu.sg/pub/seashore/text/153)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -62,7 +62,7 @@ links_references: |
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=208)
   on the NParks Flora and Fauna website.
   - Family Ellobiidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   **References**
@@ -148,13 +148,13 @@ Auriculastra subula
 
 Blauneria quadrasi*
 [*Cassidula*
-sp](cassidula.md)
+sp](cassidula)
 . (Mangrove ear snail)
 *Cassidula aurisfelis*
 (Cat's ear mangrove ear snail)
 *Cassidula doliolum
 
-[Cassidula nucleus](banded.md)*
+[Cassidula nucleus](banded)*
 (Banded mangrove ear snail)
 **
 *=Cassidula mustelina*
@@ -163,7 +163,7 @@ sp](cassidula.md)
 
 Cassidula vespertilionis*
 [*Ellobium*
-sp.](ellobium.md)
+sp.](ellobium)
 (Belongkeng snail)
 **
 *Ellobium aurisjudae
@@ -202,7 +202,7 @@ Microtralia*
 sp.
 **
 [*Pythia*
-sp.](pythia.md)
+sp.](pythia)
 (Pythia snail)
 **
 *Pythia plicata

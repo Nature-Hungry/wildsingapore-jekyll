@@ -45,7 +45,7 @@ galleries:
     caption: Domed elbow crab
 links_references: |
   **Links**
-  - [Parthenope](http://mangrove.nus.edu.sg/pub/seashore/text/200.md)
+  - [Parthenope](http://mangrove.nus.edu.sg/pub/seashore/text/200)
   Tan, Leo W. H. & Ng, Peter K. L., 1988,
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -114,7 +114,7 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 
 Aulocalambrus planifrons
 
-[Cryptopodia fornicata](fornicata.md)*
+[Cryptopodia fornicata](fornicata)*
 (Domed elbow crab) (EN: Endangered)
 
 *Cryptopodia laevimana*

@@ -98,11 +98,11 @@ links_references: |
   - Pear-shaped moon snail (
   *Polinices mammilla*
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
   - [Moon Snail (
   *Polinices*
-  sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/142.md)
+  sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/142)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -149,7 +149,7 @@ means 'breast' in Latin). Shell pattern plain white, sometimes with large irregu
 
 **Sometimes mistaken for**
 the
-[Ball moon snail](didyma.md)
+[Ball moon snail](didyma)
 that is easily distinguished by its spherical shell which has a brown-coloured blotch on the underside.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

@@ -73,7 +73,7 @@ links_references: |
   .
   - [The Slug Site](http://slugsite.us/)
   Branch of the Week: photo and fact sheet on
-  *[Polybranchia orientalis](http://slugsite.us/bow/nudwk353.md)*
+  *[Polybranchia orientalis](http://slugsite.us/bow/nudwk353)*
 
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
@@ -117,7 +117,7 @@ or
 
 **What does it eat?**
 Like other sap-sucking slugs, it eats seaweeds. It is believed that the colour of the animal varies with the colour of the seaweed that it last ate. Thus, they may be green, brown or red. They may be transparent if they haven't eaten much. On Cyrene Reef, several individuals were seen nestled in a large clump of
-*[Caulerpa racemosa](../../../plants/seaweed/chlorophyta/racemosa.md)*
+*[Caulerpa racemosa](../../../plants/seaweed/chlorophyta/racemosa)*
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

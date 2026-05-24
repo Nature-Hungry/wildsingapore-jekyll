@@ -133,7 +133,7 @@ in
 
 **Sometimes confused with**
 the
-[Smooth sponge green seaweed](../chlorophyta/spongesmooth.md)
+[Smooth sponge green seaweed](../chlorophyta/spongesmooth)
 (
 *Cladophoropsis vaucheriaeformis*
 ) which looks very similar, its holes along the 'stems' are not obvious when out of water. This is a green seaweed which also has a symbiotic relationship with another kind of sponge. The two organisms are sometimes difficult to tell apart in the field.

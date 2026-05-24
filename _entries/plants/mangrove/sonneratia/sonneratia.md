@@ -65,11 +65,11 @@ links_references: |
   on the NParks Flora and Fauna website: photos and fact sheet.
   - [Our fireflies: in the latest issue of Wetlands](http://iyb2010singapore.blogspot.sg/2010/09/our-fireflies-in-latest-issue-of.html)
   on the Celebrating Singapore's Biodiversity blog.
-  - [Life in the mangroves](http://wetlands.sbwr.org.sg/text/00-7-1-5.md)
+  - [Life in the mangroves](http://wetlands.sbwr.org.sg/text/00-7-1-5)
   by Halilah Ahmad in Wetland: about the the Common long-tongued fruit bat (
   *Macroglossus minimus*
   ).
-  - [No bats, no durians](http://habitatnews.nus.edu.sg/pub/naturewatch/text/a062a.md)
+  - [No bats, no durians](http://habitatnews.nus.edu.sg/pub/naturewatch/text/a062a)
   by Lim Gaik Kee from Sahabat Alam Malaysia in NatureWatch
   
   **References**
@@ -104,7 +104,7 @@ The flowers open at dusk emitting a smell of sour milk or butter and last only o
 
 **No durians without mangroves!**
 According to Tomlinson, a study in west Malaysia found that
-[Durian flowers](../../fruittrees/durio/zibethinus.md)
+[Durian flowers](../../fruittrees/durio/zibethinus)
 are pollinated almost entirely by a single species of bat
 *Eonycterus spelaea*
 . This bat roosts primarily in limestone caves and are fast flyers that range up to 50km each night in search of pollen and nectar from a wide variety of plants. Their range include mangroves and

@@ -86,13 +86,13 @@ galleries:
     caption: Pulau Salu, Apr 21 Photo shared by Toh Chay Hoon on facebook .
 links_references: |
   **Links**
-  - [Deepbody Mojarra/Silver-biddy](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/304.md)
+  - [Deepbody Mojarra/Silver-biddy](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/304)
   (
   *Gerres abbreviatus*
   ) and
   [Slender Mojarra/Silver-biddy (
   *Gerres oyena*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/305.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/305)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
@@ -112,7 +112,7 @@ links_references: |
   and from
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet on the family
-  - [Volume 5: Bony fishes part 3 (Menidae to Pomacentridae)](http://www.fao.org/docrep/009/y0770e/y0770e00.md)
+  - [Volume 5: Bony fishes part 3 (Menidae to Pomacentridae)](http://www.fao.org/docrep/009/y0770e/y0770e00)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
 
   **References**
@@ -155,10 +155,10 @@ The Common mojarra is the most commonly seen of the family on the intertidal.
 Those seen about 5-10cm, can grow to 25cm. Body slender, long and silvery. Head with scales but with a smooth upper surface. The tail fin is deeply forked. Dorsal fin single with long and blackish tip and not deeply notched. Juveniles have 7-8 dusky diagonal bars which disappear as they grow older.
 
 **Sometimes confused with**
-[Perchlets](../ambassidae/kopsii.md)
+[Perchlets](../ambassidae/kopsii)
 that have a deeply notched dorsal fin, that Mojarras lack.
 More on
-[how to tell apart small silvery fishes](../cfsilvery.md)
+[how to tell apart small silvery fishes](../cfsilvery)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

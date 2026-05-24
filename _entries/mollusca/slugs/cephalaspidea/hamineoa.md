@@ -78,7 +78,7 @@ links_references: |
   **Links**
   - [Bubble shell (
   *Haminoea*
-  sp.)](http://mangrove.nus.edu.sg/guidebooks/text/2088.md)
+  sp.)](http://mangrove.nus.edu.sg/guidebooks/text/2088)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
@@ -129,7 +129,7 @@ These tiny nondescript snails are sometimes seen near mangroves or in silty part
 ## Features
 
 About 1cm. Shell thin and oval, usually a dull colour. The body of the snail can expand to be much larger than the shell. Some release a sticky purple secretion when disturbed. Like other
-[headshield snails](cephalaspidea.md)
+[headshield snails](cephalaspidea)
 it has a shield over the front of the body which is used to plough through the sediments. It has a pair of wing-like extensions of the body (called parapodia) which envelope the shell. It lacks tentacles and an operculum.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**
@@ -183,7 +183,7 @@ Atys naucum*
 *Atys tortuosa*
 
 [*Haminoea*
-sp.](hamineoa.md)
+sp.](hamineoa)
 (Mangrove bubble-shell snail)
 
 *Haminoea glaba

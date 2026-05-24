@@ -59,11 +59,11 @@ links_references: |
   **Links**
   - [White-spotted Rabbitfish (
   *Siganus canaliculatus*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/379.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/379)
   and
   [Double-barred Rabbitfish (
   *Siganus virgatus*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/380.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/380)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
@@ -104,7 +104,7 @@ links_references: |
   from
   [FishBase](http://www.fishbase.org/)
   : Technical fact.
-  - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.md)
+  - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
 
   **References**
@@ -171,7 +171,7 @@ Most rabbitfishes are herbivores, grazing on algae that grows on the sea bottom,
 
 **Human uses:**
 The
-[White-spotted rabbitfish](canaliculatus.md)
+[White-spotted rabbitfish](canaliculatus)
 (
 *Siganus canaliculatus*
 ) is highly sought after for eating during the Chinese Lunar New Year. At this time, the fishes breed and their roe are particularly relished. Called
@@ -196,17 +196,17 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
 
 **Family Siganidae**
 
-*[Siganus canaliculatus](canaliculatus.md)*
+*[Siganus canaliculatus](canaliculatus)*
 (White-spotted rabbitfish)
 *Siganus chrysospilus=**Siganus punctatus
 
 Siganus fuscescens
 
-[Siganus guttatus](guttatus.md)*
+[Siganus guttatus](guttatus)*
 (Orange-spotted rabbitfish)
 *Siganus javanicus
 
-[Siganus javus](javus.md)*
+[Siganus javus](javus)*
 (Streaked rabbitfish)
 *Siganus oramin=**Siganus canaliculatus
 

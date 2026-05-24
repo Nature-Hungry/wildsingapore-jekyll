@@ -79,9 +79,9 @@ This rather long sea cucumber is sometimes seen burrowing in or on mudflats or m
 About 20-30cm long, long thin body without bumps along the body. Feeding tentacles short and feathery. Colours uniform white, pink, purplish with stripes.
 
 **Sometimes mistaken for**
-[worms](../../worm/worm.md)
+[worms](../../worm/worm)
 . Here's more on
-[how to tell apart worm-like animals](../../glossary/wormy.md)
+[how to tell apart worm-like animals](../../glossary/wormy)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

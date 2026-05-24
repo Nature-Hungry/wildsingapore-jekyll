@@ -62,15 +62,15 @@ links_references: |
   **Links**
   - [Mud creepers (
   *Cerithidea obtusa*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2081.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2081)
   ,
   [Belitong (
   *Terebralia sulcata*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2082.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2082)
   ,
   [Rodong/Berongan (
   *Telescopium telescopium*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2084.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2084)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
@@ -80,17 +80,17 @@ links_references: |
   *Cerithidae obtusa*
   ), Sulcate creeper (
   *Terebralia sulcata*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/139.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/139)
   [Creeper Shell (
   *Batillaria zonalis*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/138.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/138)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
   - [Family Potamididae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Potamididae.html)
   on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief fact sheet on Nerites with photos.
   - Family Potamididae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   **References**
@@ -124,13 +124,13 @@ Horn snails are common in our mangroves but often overlooked. Small ones creep o
 
 Shell long and conical. Operculum is made of a horn-like material usually with a tight spiral pattern. Some have a third eye on their mantle margin, in addition to a pair of eyes on tentacles.
 Here's more on
-[how to tell these snails apart](cfpotamids.md)
+[how to tell these snails apart](cfpotamids)
 .
 
 **Sometimes confused with**
-[Creeper snails](../cerithiidae/cerithiidae.md)
+[Creeper snails](../cerithiidae/cerithiidae)
 (Family Cerithiidae) which also have an operculum made of a horny material but with only a few whorls. Horn snails have siphonal canals that are less pronounced and they are generally larger than Creeper snails. More on
-[how to tell these snails apart](../certihpotamid.md)
+[how to tell these snails apart](../certihpotamid)
 .
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **What do they eat?**
@@ -141,11 +141,11 @@ Members of this family have separate genders. The male transfers a sperm packet 
 
 **Human uses:**
 Many Horn snails are eaten by people.
-[Rodong](telescopium.md)
+[Rodong](telescopium)
 is said to be delicious when steamed and eaten with chilli.
-[Chut-chut](obtusa.md)
+[Chut-chut](obtusa)
 is boiled and eaten by biting off the tip and sucking out the animal. Even the small
-[Belitong](sulcata.md)
+[Belitong](sulcata)
 is also said to taste good.
 
 ---
@@ -167,21 +167,21 @@ from Tan Siong Kiat and Henrietta P. M. Woo, 2010
 
 *Cerithidea alata
 
-[Cerithidea cingulata](cingulata.md)*
+[Cerithidea cingulata](cingulata)*
 (Girdled horn snail)
 *Cerithidea djadjariensis
 
 Cerithidea microptera
 
-[Cerithidea obtusa](obtusa.md)*
+[Cerithidea obtusa](obtusa)*
 (Red Chut-chut snail)
-*[Cerithidea quadrata](quadrata.md)*
+*[Cerithidea quadrata](quadrata)*
 (Black Chut-chut snail)
-*[Telescopium telescopium](telescopium.md)*
+*[Telescopium telescopium](telescopium)*
 (Rodong)
 *Terebralia palustris
 
-[Terebralia sulcata](sulcata.md)*
+[Terebralia sulcata](sulcata)*
 (Belitong)
 
 ---

@@ -120,14 +120,14 @@ Like a blue race-car with a colourful line along the side, this stunning flatwor
 
 **What does it eat?**
 It eats colonial
-[ascidians](../../ascidiacea/ascidiacea.md)
+[ascidians](../../ascidiacea/ascidiacea)
 , possibly the
-[pink ascidian](../../ascidiacea/pink.md)
+[pink ascidian](../../ascidiacea/pink)
 . It may have a more generalised diet, preying on a variety of ascidians.
 
 **Sometimes mistaken for**
 similar flatworms. Here's more on how to tell apart small flatworms with
-[one central line and three central lines](cfstriped.md)
+[one central line and three central lines](cfstriped)
 .
 
 ---

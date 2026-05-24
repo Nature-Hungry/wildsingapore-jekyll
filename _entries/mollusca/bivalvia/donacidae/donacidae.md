@@ -41,7 +41,7 @@ links_references: |
   *[Donax faba](http://www.sealifebase.org/Summary/speciesSummary.php?ID=8660)*
   on SeaLife Base: Technical fact sheet.
   - Family Donacidae in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   **References**
@@ -67,7 +67,7 @@ The clam or its empty shells are sometimes seen on some of our shores. The dead 
 
 **Surfer dudes!**
 Surf clams actually do surf the waves! They migrate up and down the shore by floating with the waves and then rapidly burying themselves with their strong foot. By doing so, they are able to move up and down the shore with the tides thus exploiting food found in the different shore zones. This also helps them avoid predators such as
-[Moon snails](../../gastropoda/naticidae/naticidae.md)
+[Moon snails](../../gastropoda/naticidae/naticidae)
 (Family Naticidae).
 
 **What do they eat?**

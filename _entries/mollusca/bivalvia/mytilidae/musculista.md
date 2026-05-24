@@ -61,7 +61,7 @@ links_references: |
   **Links**
   - [Nest mussel (
   *Musculista senhausii*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2091.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2091)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
@@ -72,7 +72,7 @@ links_references: |
   - Senhouse horse mussel (
   *Musculista senhousia*
   ) in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   **References**
@@ -100,22 +100,22 @@ It is described as an opportunistic species characterised by fast growth and uni
 1-2cm long. The two-part shell is thin, fragile and smooth. These tiny mussels build communal 'nests' out of byssal threads incorporating sediments, bits of broken shells and other debris. Large areas can be covered in such 'nests', pockmarked with little slits, each housing one mussel. These can carpet rocks or soft bottoms.
 
 **Sometimes confused with**
-[Little black mussels](xenostrobus.md)
+[Little black mussels](xenostrobus)
 which are also small, but black and while they may also produce a kind of 'nest', this is not as thick and spongy as the mats created by the Nest mussels.
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**Friends and enemies:**
 Sometimes, small
-[Green mussels](viridis.md)
+[Green mussels](viridis)
 (
 *Perna viridis*
 ) are seen growing among the tinier nest mussels. Animals seen on the mussels include
-[Drills](../../gastropoda/muricidae/muricidae.md)
+[Drills](../../gastropoda/muricidae/muricidae)
 ,
-[Sand stars](../../../echinodermata/asteroidea/astropecten.md)
+[Sand stars](../../../echinodermata/asteroidea/astropecten)
 ,
-[flatworms](../../../worm/polycladida/polycladida.md)
+[flatworms](../../../worm/polycladida/polycladida)
 : possibly eating them? Several times,
-[Hairy spoon seagrass](../../../plants/seagrass/decipiens.md)
+[Hairy spoon seagrass](../../../plants/seagrass/decipiens)
 were seen growing on nest mussel beds.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Human uses:**

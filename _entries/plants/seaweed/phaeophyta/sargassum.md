@@ -117,7 +117,7 @@ galleries:
     caption: Pulau Pawai, Dec 09
 links_references: |
   **Links**
-  - [Sargassum](http://mangrove.nus.edu.sg/pub/seashore/text/105.md)
+  - [Sargassum](http://mangrove.nus.edu.sg/pub/seashore/text/105)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.

@@ -137,7 +137,7 @@ species.
 It's hard to distinguish them without close examination of small features and they are grouped here by large external features for convenience of display.
 
 Merulinid corals with small hexagonal corallites that form smoother boulder shaped colonies without protruding lumps and bumps are grouped under
-[Small hexagonal corals](hexasmall.md)
+[Small hexagonal corals](hexasmall)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

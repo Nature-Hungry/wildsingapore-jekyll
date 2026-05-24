@@ -69,7 +69,7 @@ This beautiful tree with large leaves and small white flowers is sometimes seen 
 A spreading shrub or tall tree (4-22m). Bark is smooth and grey-brown.
 
 Leaves resemble those of the
-[Sea almond](../terminalia/catappa.md)
+[Sea almond](../terminalia/catappa)
 (
 *Terminalia catappa*
 ). The leaves are large (10-25cm long) oval with hairs on both sides or only below. The leaves are arranged opposite one another.
@@ -80,11 +80,11 @@ Fruits small and round (2-3cm), green and smooth at first, turning whitish or pi
 
 **Sometimes mistaken for**
 the
-[Sea almond](../terminalia/catappa.md)
+[Sea almond](../terminalia/catappa)
 or Ketapang (
 *Terminalia catappa*
 ). Thus one of its Malay names is 'Ketapang pasir' which means 'Sea almond of the shore'. Here's more on
-[how to tell apart Sea almond and other similar trees on the shores](../cfketapang.md)
+[how to tell apart Sea almond and other similar trees on the shores](../cfketapang)
 .
 
 **Human uses:**

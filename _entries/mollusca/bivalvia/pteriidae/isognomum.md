@@ -57,7 +57,7 @@ links_references: |
   - Wader tree oyster (
   *Isognomon isgonomum*
   ) in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   **References**
@@ -77,7 +77,7 @@ Like tongue depressors, these narrow long clams are sometimes seen stuck upright
 10-15cm. The two-part shell is thick, flat and usually long and narrow, sometimes with a T-shape near the bottom where it is stuck to a hard surface with byssus threads. Usually dark, the shell is often coated with encrusting organisms. Often found in groups of a few individuals stuck in crevices.
 
 **Sometimes confused with**
-[Hammer oysters](../malleidae/malleus.md)
+[Hammer oysters](../malleidae/malleus)
 that have a similar shape and also stuck upright in crevices. It is difficult to tell them apart without ripping them out of their hiding place and looking at the inside of the shell. On the inside, Elonged toothed oysters have a long row of notches at the hinge, and a large area of mother-of-pearl relative to the shell length.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

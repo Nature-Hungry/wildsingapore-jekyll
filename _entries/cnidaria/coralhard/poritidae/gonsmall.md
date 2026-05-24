@@ -112,13 +112,13 @@ This small hard coral with tiny polyps are often seen on many of of our shores, 
 Colonies 10-15cm, small low dome-shaped or encrusting. The corallites are tiny (0.2cm) circular or polygonal, packed close to one another. Polyps tiny (0.5-1cm) with relatively medium length body column. Polyps can retract completely into the skeleton. Colony colours seen include pink, purple, greenish, yellow and brown.
 
 Sometimes, tiny brown
-[acoel flatworms](../../../worm/acoela/acoela.md)
+[acoel flatworms](../../../worm/acoela/acoela)
 are seen on the oral disk or body columns of anemone coral polyps.
 
 **May be confused with**
-[Favid corals](../faviidae/faviidae.md)
+[Favid corals](../faviidae/faviidae)
 (Family Faviidae) or
-[Pore corals](porites.md)
+[Pore corals](porites)
 (
 *Porites*
 sp.), but polyp body column of these other corals are not as long as those of Goniopora corals.

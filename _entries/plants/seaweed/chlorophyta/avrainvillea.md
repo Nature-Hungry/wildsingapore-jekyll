@@ -20,7 +20,7 @@ updated: Jan 12
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrerecta/050624tusg8537m3.jpg
 links_references: |
   **Links**
-  - [*Avrainvillea*](http://mangrove.nus.edu.sg/pub/seashore/text/102.md)
+  - [*Avrainvillea*](http://mangrove.nus.edu.sg/pub/seashore/text/102)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -71,16 +71,16 @@ species.
 
 **Sometimes confused with**
 other fan-shaped green seaweeds. Here's more on
-[how to tell apart fan-shaped green seaweeds](cffan.md)
+[how to tell apart fan-shaped green seaweeds](cffan)
 .
 
 ***![](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrerecta/050624tusg8537m3.jpg)*
 
-[Solitary fan green seaweed](avrerecta.md)
+[Solitary fan green seaweed](avrerecta)
 
 ![](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrcluster/050610sntd3928m3.jpg)
 
-[Clustered fan green seaweed](avrcluster.md)**
+[Clustered fan green seaweed](avrcluster)**
 
 **Species are difficult to positively identify without close examination.
 
@@ -97,9 +97,9 @@ Pham, M. N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011.
 
 *Avrainvillea amadelpha
 
-[Avrainvillea erecta](avrerecta.md)*
+[Avrainvillea erecta](avrerecta)*
 (Solitary fan green seaweed)
-*[Avrainvillea lacerata](avrcluster.md)*
+*[Avrainvillea lacerata](avrcluster)*
 (Clustered fan green seaweed)
 *Avrainvillea obscura*
 

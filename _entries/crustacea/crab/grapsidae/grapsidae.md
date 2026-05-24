@@ -50,11 +50,11 @@ links_references: |
   **Links**
   - [Purple climber crabs (
   *Metopograpsus*
-  spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2047.md)
+  spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2047)
   , Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
-  - [Metopograpsus](http://mangrove.nus.edu.sg/pub/seashore/text/196.md)
+  - [Metopograpsus](http://mangrove.nus.edu.sg/pub/seashore/text/196)
   **
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/t)*
@@ -97,7 +97,7 @@ Small grapsid crabs are commonly seen on many of our rocky shores and mangroves,
 Body width 4-6cm. Grapsid crabs are adapted for scrambling over rocks and other slippery surfaces. Many can stay out of the water for some time. Grapsid crabs are also sometimes called Shore crabs. They have well-developed hooks on the tips of their long legs that grip these surfaces. Their bodies and legs are flattened, allowing them to squeeze deep into narrow cracks and crevices. In some species, males have larger pincers than females.
 
 The
-[Rafting crab](../plagusiidae/plagusia.md)
+[Rafting crab](../plagusiidae/plagusia)
 (
 *Plagusia squamosa*
 ) is sometimes mistaken for a grapsid crab. But it belongs to another family.
@@ -132,13 +132,13 @@ from Ng, P. K. L. & Y. C. Wee, 1994.
 **Family Grapsidae**
 
 ***
-[Grapsus albolineatus](albolineatus.md)*
+[Grapsus albolineatus](albolineatus)*
 /
 *strigosus*
 (Sally-light-foot crabs)
 **
 [*Metopograpsus*
-sp.](metopograpsus.md)
+sp.](metopograpsus)
 (Purple climber crabs) with list of species recorded for Singapore
 
 ---

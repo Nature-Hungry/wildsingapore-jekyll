@@ -100,7 +100,7 @@ and
 look very similar and requires close examination to differentiate. On this website they are grouped by external features for convenience of display.
 
 **Sometimes mistaken for**
-[Corals with maze-like patterns](../faviidae/maze/mazeothers.md)
+[Corals with maze-like patterns](../faviidae/maze/mazeothers)
 (Family Faviidae), which have thinner corallite walls without large 'teeth'.
 
 **Status:**
@@ -131,9 +131,9 @@ in the above.
 *On this website, they are grouped by external features for convenience of display*
 *.*
 
-[Lobed brain coral](lobophyllia.md)
+[Lobed brain coral](lobophyllia)
 
-[Grooved brain coral](symphyllia.md)
+[Grooved brain coral](symphyllia)
 
 **Family Lobophylliidae**
 (previously Mussidae)

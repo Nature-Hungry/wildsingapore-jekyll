@@ -149,7 +149,7 @@ species.
 
 **Sometimes confused with**
 similar green seaweeds such as
-[Turf green seaweeds](enteromorpha.md)
+[Turf green seaweeds](enteromorpha)
 (
 *Enteromorpha*
 sp.) and small turfing species of
@@ -157,17 +157,17 @@ sp.) and small turfing species of
 .
 **Role in the habitat:**
 Although some Bryopsis species produces chemicals to defend against herbivores, when hairy green seaweeds are abundant on the shores, there is also an abundance of some sea slugs such as the
-[Leaf slug](../../../mollusca/slugs/sacoglossa/ornata.md)
+[Leaf slug](../../../mollusca/slugs/sacoglossa/ornata)
 (
 *Elysia ornata*
 ) and tiny
-[Bryopsis slugs](../../../mollusca/slugs/sacoglossa/bryopsis.md)
+[Bryopsis slugs](../../../mollusca/slugs/sacoglossa/bryopsis)
 (
 *Placida dendritica*
 ).These sap-sucking slugs probably eat the seaweed. Sometimes, the seaweed is thick with tiny little
-[beachfleas](../../../crustacea/othercrust/amphipoda/amphipoda.md)
+[beachfleas](../../../crustacea/othercrust/amphipoda/amphipoda)
 (Order Amphipoda). We have also seen the
-[Giant reef worm](../../../worm/polychaeta/giant.md)
+[Giant reef worm](../../../worm/polychaeta/giant)
 (
 *Eunice aphroditois*
 ) snatching this seaweed back to its lair.

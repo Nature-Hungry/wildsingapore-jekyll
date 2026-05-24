@@ -138,7 +138,7 @@ links_references: |
   **Links**
   - [Tomato Anemonefish (
   *Amphiprion frenatus*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/338.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/338)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
@@ -192,9 +192,9 @@ location:
 
 ## Where seen?
 This beautiful anemonefish with a white 'head band' lives mainly in the
-[Bubble tip sea anemone](../../../cnidaria/actiniaria/entacmaea.md)
+[Bubble tip sea anemone](../../../cnidaria/actiniaria/entacmaea)
 which is not very commonly encountered, usually on good reefs on our Southern shores. There is a report of it being found in a
-[Magnificent anemone](../../../cnidaria/actiniaria/magnifica.md)
+[Magnificent anemone](../../../cnidaria/actiniaria/magnifica)
 too.
 
 ## Features

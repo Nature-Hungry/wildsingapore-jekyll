@@ -43,13 +43,13 @@ links_references: |
   - [*Rhizophora apiculata*](https://singapore.biodiversity.online/taxo4254/mainSpace/Clione%20limacina.html)
   (Malpighiales: Rhizophoraceae) Bakau minyak by Song Yiluan, 2014, on taxo4254.
   - [Bakau minyak (
-  *Rhizophora apiculata*](http://mangrove.nus.edu.sg/guidebooks/text/1069.md)
+  *Rhizophora apiculata*](http://mangrove.nus.edu.sg/guidebooks/text/1069)
   ) Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)
   I (Plant Diversity)*
   . Singapore Science Centre. 168 pp.
   - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.md)
+  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
   (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
 ---
 

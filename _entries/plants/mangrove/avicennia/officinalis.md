@@ -44,7 +44,7 @@ links_references: |
   **Links**
   - [Api-api ludat (
   *Avicennia officinalis*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/1051.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/1051)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)
   I (Plant Diversity)*
@@ -52,7 +52,7 @@ links_references: |
   - [*Avicennia officinalis*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3267)
   on NParks Flora and Fauna website: photos and fact sheet.
   - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.md)
+  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
   (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
   - [Blooming Ubin](http://wildshores.blogspot.com/2009/04/blooming-ubin.html)
   about a mass bloom of
@@ -70,7 +70,7 @@ links_references: |
 
 ## Where seen?
 This tree with pencil roots and glossy spoon-shaped leaves sometimes seen in our mangroves, but is not as commonly encountered as
-*[Avicennia alba](alba.md)*
+*[Avicennia alba](alba)*
 . It is found on soft recently consolidated mudbanks, banks of river meanders and at river mouths. Hsuan Keng reported it being found in Changi, River Valley Road and Pulau Ubin.
 
 ## Features

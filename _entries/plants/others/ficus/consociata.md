@@ -40,7 +40,7 @@ A large specimen was seen sprawled over the natural cliffs at Lazarus Island. Ac
 A strangling fig that grows as a shrub. According to Corners, it is rarely large and "seldom standing without its host". Leaves stiff and leathery (7-27cm long), broad, oval with rounded or slightly pointed tip, base tapered or slightly heart-shaped, and 5-10 pairs of conspicuous veins. Young leaves and twigs have dense brown hair which makes them feel woolly. Mature leaves have fine brown scrufy hair on the underside. The figs are small (1-1.5cm) covered with brown hairs and have a characteristic circle of pink around the opening (ostiole). They ripen orange-red, and appear in pairs in the leaf axils. According to Corners, the plant only produces its first crop of figs when it is 8-9 years old.
 
 Human uses: According to Burkill, like the
-[India-rubber tree](elastica.md)
+[India-rubber tree](elastica)
 (
 *Ficus elastica*
 ), it also produces a latex that was used as rubber. Unfortunately, the latex of this fig also contains a resin that hardens with time thus making the latex less elastic.

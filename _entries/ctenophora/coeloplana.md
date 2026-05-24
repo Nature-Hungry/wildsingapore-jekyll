@@ -62,7 +62,7 @@ These tiny creatures are well camouflaged and often only spotted by the fine ten
 ## Features
 
 1cm or smaller, body very flat with colour and patterns to match their host. Those seen so far were on large
-[Leathery soft corals](../cnidaria/coralsoft/alcyoniidae.md)
+[Leathery soft corals](../cnidaria/coralsoft/alcyoniidae)
 , often with many individuals on one soft coral.
 
 The tiny animal produces two fringe tentacles than can be many times longer than the animal. It is used to gather food. The tentacles are stored in two large swellings on the animal.

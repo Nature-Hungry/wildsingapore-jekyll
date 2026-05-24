@@ -60,14 +60,14 @@ galleries:
     caption: Pulau Semakau, Feb 16 Photo shared by Russel Low on facebook .
 links_references: |
   **Links**
-  - [Mangrove snakes: Dog-faced water snake](http://mangrove.nus.edu.sg/guidebooks/text/2112.md)
+  - [Mangrove snakes: Dog-faced water snake](http://mangrove.nus.edu.sg/guidebooks/text/2112)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore Ii (Animal Diversity](http://mangrove.nus.edu.sg/guidebooks/)*
   [)](http://mangrove.nus.edu.sg/guidebooks/)
   . Singapore Science Centre. 168 pp.
-  - [Dog-faced Water Snake](http://www.ecologyasia.com/verts/snakes/dog-faced_water-snake.md)
+  - [Dog-faced Water Snake](http://www.ecologyasia.com/verts/snakes/dog-faced_water-snake)
   on Nick Baker's EcologyAsia website: fact sheet with photos.
-  - [Dog-faced Water Snake](http://www.wildsingapore.per.sg/discovery/factsheet/snakedogfaced.md)
+  - [Dog-faced Water Snake](http://www.wildsingapore.per.sg/discovery/factsheet/snakedogfaced)
   on Chan Kwok Wai's Wildlife Singapore: fact sheet with photos.
   - [*Cerberus rynchops*](https://singapore.biodiversity.online/taxo4254/mainSpace/Cerberus%20rynchops.html)
   (Squamata: Homalopsidae) Dog-faced Water Snake by Lee Bee Yan, 2011 on taxo4254.
@@ -105,7 +105,7 @@ location:
 Although quite commonly seen in our mangroves, this well camouflaged snake is shy and blends in with the mud and the leaf litter. It is more active at night and are usually stays well hidden during the day. It is mainly estuarine and not found in freshwater. According to Baker, in Singapore it is common along our coasts, in mangroves as well as seaward side of canals. It is widely distributed in the Indo-Pacific. It was previously known as
 *Cerberus rynchops*
 . Nick Baker explains the name change
-[on his factsheet about this snake](http://www.ecologyasia.com/verts/snakes/dog-faced_water-snake.md)
+[on his factsheet about this snake](http://www.ecologyasia.com/verts/snakes/dog-faced_water-snake)
 .
 
 ## Features

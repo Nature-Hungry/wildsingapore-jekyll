@@ -59,7 +59,7 @@ location:
 
 ## Where seen?
 This colourful sponge with a crumbly-looking texture is sometimes seen on our Northern shores. Often seen near
-[Rainbow sponges](rainbow.md)
+[Rainbow sponges](rainbow)
 (
 *Suberites*
 sp.)

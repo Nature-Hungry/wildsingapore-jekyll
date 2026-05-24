@@ -45,7 +45,7 @@ links_references: |
   **Links**
   - [Spotted Sicklefish (
   *Drepane punctata*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/327.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/327)
   from Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
@@ -70,7 +70,7 @@ Adults usually 25cm, to 45cm long. Flat rhomboid body silvery. Juvenile brown wi
 
 **Sometimes confused:**
 Juveniles may be mistaken for
-[Brown sweetlips](../haemulidae/gibbosus.md)
+[Brown sweetlips](../haemulidae/gibbosus)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**

@@ -18,4 +18,4 @@ galleries:
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}back to
-[general info on bearded mudskippers](histophorus.md)
+[general info on bearded mudskippers](histophorus)

@@ -90,11 +90,11 @@ Its scientific name is mexicana because the seaweed was originally described fro
 
 **Sometimes confused with**
 other feathery green seaweeds or with
-[seagrasses](../../seagrass/seagrass.md)
+[seagrasses](../../seagrass/seagrass)
 . Here's more on
-[how to tell apart different feathery green seaweeds](cffeathery.md)
+[how to tell apart different feathery green seaweeds](cffeathery)
 and how to tell apart
-[feathery green seaweeds and seagrasses](../../../glossary/seagrassweed.md)
+[feathery green seaweeds and seagrasses](../../../glossary/seagrassweed)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

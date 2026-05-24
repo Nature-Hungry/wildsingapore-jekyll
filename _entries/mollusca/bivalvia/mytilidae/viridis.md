@@ -74,7 +74,7 @@ links_references: |
   **Links**
   - [Green Mussel (
   *Perna viridis*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/158.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/158)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -85,7 +85,7 @@ links_references: |
   - Asian brown mussel (
   *Perna viridis*
   ) in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   **References**
@@ -131,7 +131,7 @@ Besides humans, other animals that relish them include fishes, crabs and octopus
 
 **Human uses:**
 Green mussels are considered the economically most important mussel in our region. They are farmed in many parts of Southeast Asia as seafood. They grow fast and in dense numbers. Like other filter-feeding clams, however, mussels may be affected by
-[red tide and other harmful algal blooms](../../../plants/seaweed/redtide.md)
+[red tide and other harmful algal blooms](../../../plants/seaweed/redtide)
 . During such times, the mussels concentrate toxins and people who eat them may get seriously ill.
 
 Outside its natural range of the Asia-Pacific region, the Green mussel is considered an introduced pest and an unwelcome invasive species. There, unchecked by natural predators, the mussels multiply rapidly and clog industrial pipes, foul aquaculture and disturb local ecosystems.

@@ -165,20 +165,20 @@ links_references: |
   **Links**
   - [Moon Snail (
   *Polinices*
-  sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/142.md)
+  sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/142)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
-  - [Moon snails](http://www.seaslugforum.net/naticid.md)
+  - [Moon snails](http://www.seaslugforum.net/naticid)
   on the Sea Slug Forum by Dr Bill Rudman: brief fact sheet with lovely photo of a colourful moon snail.
   - [Family Naticidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Naticidae.html)
   on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief fact sheet on moon snails with photos.
-  - [Family Naticidae (Sand or Moon Snails)](http://seashellsofnsw.org.au/Naticidae/Pages/Naticidae_Intro.md)
+  - [Family Naticidae (Sand or Moon Snails)](http://seashellsofnsw.org.au/Naticidae/Pages/Naticidae_Intro)
   on the
-  [The Seashells of New South Wales](http://seashellsofnsw.org.au/index.md)
+  [The Seashells of New South Wales](http://seashellsofnsw.org.au/index)
   website by Des Beechey Research Associate, Australian Museum: family introductions with photos of shells and detailed fact sheets for many species.
   - Family Naticidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   **References**
@@ -244,11 +244,11 @@ The body forms a wedge shape that helps the snail move under the sand. The front
 
 **Sometimes mistaken for**
 a sea slug when the mantle covers the shell. Some moon snails can't retract completely into their shells: like the
-[Naked moon snail](sinum.md)
+[Naked moon snail](sinum)
 and
-[Bosom moon snail](mammatus.md)
+[Bosom moon snail](mammatus)
 . Here's more on how to tell apart
-[animals that resemble sea slugs](../../../glossary/flatwormslug.md)
+[animals that resemble sea slugs](../../../glossary/flatwormslug)
 .
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**What do they eat?**
@@ -267,7 +267,7 @@ Some moon snails have been seen 'dragging' a small snail shell behind them attac
 
 {% include img-wrap-group.html items=page.galleries.gallery5 %}**Moon babies:**
 The sand collar is the moon snail's egg mass. When the eggs hatch, the collar disintegrates. Thus, an intact collar has living snails in it! Please don't damage the sand collars. More
-[about sand collars](sandcollar.md)
+[about sand collars](sandcollar)
 .
 
 {% include img-wrap-group.html items=page.galleries.gallery6 %}**Role in the habitat:**
@@ -317,38 +317,38 @@ Eunaticina papilla
 Natica alapapilionis=^Naticarius alapapilionis
 
 Natica arachnoidea*
-*[Natica gualteriana](spotted.md)*
+*[Natica gualteriana](spotted)*
 (Spotted moon snail)
 **
 *Natica marochiensis*
-*[Natica vitellus](vitellus.md)*
+*[Natica vitellus](vitellus)*
 (Calf moon snail)
 *^
-[Naticarius onca](onca.md)
+[Naticarius onca](onca)
 =Natica onca*
 (China moon snail)
 **
 *^
-[Naticarius zonalis](pink.md)
+[Naticarius zonalis](pink)
 =Natica zonalis*
 (Pink moon snail)
 
 *^
-[Notocochlis tigrina](tigrina.md)
+[Notocochlis tigrina](tigrina)
 =Natica tigrina*
 (Tiger moon snail)=
 *Natica maculosa*
 **
 
 *^
-[Neverita didyma](didyma.md)
+[Neverita didyma](didyma)
 =Polinices didyma*
 (Ball moon snail)
 
-*[Polinices albumen](neverita.md)*
+*[Polinices albumen](neverita)*
 (Egg-white moon snail)
 
-[*Polinices mammilla*](mammilla.md)
+[*Polinices mammilla*](mammilla)
 (Oval moon snail)
 
 *Polinices mammatus
@@ -364,7 +364,7 @@ Polinices peselephanti*
 Sigatica pomatiella*
 
 [*Sinum*
-sp.](sinum.md)
+sp.](sinum)
 (Naked moon snail)
 *Sinum delessertii
 
@@ -377,12 +377,12 @@ Sinum incisum
 Sinum neritoideum
 
 +^
-[Tanea areolata](zebra.md)
+[Tanea areolata](zebra)
 =Natica areolata*
 (Zebra moon snail)
 *^Tanea euzona=Natica euzona*
 *^
-[Tanea lineata](lineata.md)
+[Tanea lineata](lineata)
 =Natica lineata*
 (Lined moon snail)
 *^Tanea undulata=Natica undulata*

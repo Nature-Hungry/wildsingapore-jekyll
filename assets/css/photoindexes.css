@@ -86,3 +86,11 @@
         margin:0;
     }
 }
+
+@media (max-width:500px){
+    .entry-summary-row{
+        flex-direction: column;
+        height:fit-content
+    }
+    
+}

@@ -46,7 +46,7 @@ links_references: |
   - Bladder moon snail (
   *Polinices didyma*
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   **References**
@@ -79,13 +79,13 @@ means 'testicles'). Shell pattern usually plain white sometimes with pearly past
 
 **Sometimes mistaken for**
 the
-[Oval moon snail](mammatus.md)
+[Oval moon snail](mammatus)
 that is easily distinguished by its more tear-drop shaped shell which on the underside is completely white (no brown patch) and has a bump instead of a depression. The Ball moon snail is less shy and doesn't immediately retract completely into its shell the way the Oval moon snail does.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **What does it eat?**
 This snail is often seen actively hunting
-[Button snails](../trochidae/umbonium.md)
+[Button snails](../trochidae/umbonium)
 .
 
 **Human uses:**

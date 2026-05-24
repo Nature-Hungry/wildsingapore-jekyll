@@ -175,12 +175,12 @@ location:
 
 ## Where seen?
 These odd creatures with segmented armour is sometimes seen on many of our shores. On hard surfaces such as rocks as well as large flat clams such as Window pane shell clams (Placuna sp.) and Fan shell clams (Family Pinnidae). Most are tiny and overlooked. But once,
-[Jewelled chitons](gemmata.md)
+[Jewelled chitons](gemmata)
 can be enormous!
 
 **What are chitons?**
 Chitons are
-[molluscs](../mollusca.md)
+[molluscs](../mollusca)
 (Phylum Mollusca) like snails, slugs and clams. They belong to a separate Class Polyplacophora. About half the chiton species are found in shallow waters, while the rest are found in deep water.
 
 ## Features
@@ -194,7 +194,7 @@ A chiton has no eyes, tentacles and in fact, the head is described as "poorly de
 
 **Sometimes mistaken for**
 a
-[scale worm](../../worm/polychaeta/scaleworm.md)
+[scale worm](../../worm/polychaeta/scaleworm)
 which is a polychaete worm that also has overlapping scales but has well developed tentacles and rows of bristles along the sides of the body.
 
 {% include img-wrap-group.html items=page.galleries.gallery4 %}**What do they eat?**
@@ -202,7 +202,7 @@ Like snails, chitons have a rough 'tongue' called a radula that is used to rasp 
 
 **Status and threats:**
 A large chiton found on our shores, the
-[Jewelled chiton](gemmata.md)
+[Jewelled chiton](gemmata)
 (
 *Acanthopleura gemmata*
 ) is listed as 'Endangered' on the Red List of threatened animals of Singapore.
@@ -259,7 +259,7 @@ from Tan Siong Kiat and Henrietta P. M. Woo, 2010
 
 **Family Chitonidae**
 
-*[Acanthopleura gemmata](gemmata.md)*
+*[Acanthopleura gemmata](gemmata)*
 (EN: Endangered)
 
 ---

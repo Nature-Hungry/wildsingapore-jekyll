@@ -138,7 +138,7 @@ location:
 
 ## Where seen?
 This superbly camouflaged slug is actually quite common on many of our shores, particularly when there is a bloom of
-[Bryopsis seaweeds](../../../plants/seaweed/chlorophyta/bryopsis.md)
+[Bryopsis seaweeds](../../../plants/seaweed/chlorophyta/bryopsis)
 . At this time, lots of them can be seen even in a small clump of seaweed. But they are really hard to spot.
 
 ## Features

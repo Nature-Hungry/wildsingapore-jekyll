@@ -71,7 +71,7 @@ links_references: |
   **Links**
   - [Shadow goby (
   *Yongeichthys nebulosus*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/365.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/365)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
@@ -129,7 +129,7 @@ Up to about 18cm, those seen from 4-6cm. It has large eyes and three large dark 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Tough little goby:**
 It seems to be able to withstand heat and several are commonly seen in shallow pools left behind at low tide. It is poisonous to eat as it contains tetrodotoxin (the same toxin found in
-[pufferfishes](../tetraodontidae/tetraodontidae.md)
+[pufferfishes](../tetraodontidae/tetraodontidae)
 ) in its flesh and internal organs. In some places, it is called the Poisonous goby.
 
 ---

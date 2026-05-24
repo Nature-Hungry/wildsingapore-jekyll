@@ -107,7 +107,7 @@ has rings around the 'stems'.
 
 **May be confused with**
 other
-[pinkish seaweeds with a pom pom shape.](pompom.md)
+[pinkish seaweeds with a pom pom shape.](pompom)
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}**Seaweed species are difficult to positively identify without microscopic examination.
 

@@ -128,11 +128,11 @@ links_references: |
   **Links**
   - [Kite butterflyfish (
   *Parachaetodon ocellatus*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/329.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/329)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
-  - [Kite butterflyfish](http://www.ecologyasia.com/verts/fishes/kite-butterflyfish.md)
+  - [Kite butterflyfish](http://www.ecologyasia.com/verts/fishes/kite-butterflyfish)
   on Ecology Asia: Fact sheet with photos.
   - [Sixspine butterflyfish (
   *Parachaetodon ocellatus*
@@ -142,7 +142,7 @@ links_references: |
   : Technical fact sheet.
   - [*Parachaetodon ocellatus*](http://www.iucnredlist.org/details/165661/0)
   on the IUCN Red List.
-  - [Volume 5: Bony fishes part 3 (Menidae to Pomacentridae)](http://www.fao.org/docrep/009/y0770e/y0770e00.md)
+  - [Volume 5: Bony fishes part 3 (Menidae to Pomacentridae)](http://www.fao.org/docrep/009/y0770e/y0770e00)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
 
   **References**
@@ -187,9 +187,9 @@ To about 18cm, those seen at low tide usually about 4-8cm. Body flat, circular d
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Skirting with death?**
 Sometimes, small groups of small Kite butterflyfishes (about 3-4cm) are seen very near, but not touching,
-[Haddon's carpet anemones](../../../cnidaria/actiniaria/haddoni.md)
+[Haddon's carpet anemones](../../../cnidaria/actiniaria/haddoni)
 . Sometimes also hiding under the sea anemone. One was also seen near a
-[cerianthid](../../../cnidaria/others/ceriantharia/ceriantharia.md)
+[cerianthid](../../../cnidaria/others/ceriantharia/ceriantharia)
 .
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**Baby kites:**

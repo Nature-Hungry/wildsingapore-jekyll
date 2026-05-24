@@ -46,13 +46,13 @@ links_references: |
   **Links**
   - [Mud creepers (
   *Cerithidea obtusa*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2081.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2081)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
   - [Obtuse creeper (
   *Cerithidae obtusa*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/139.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/139)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -63,7 +63,7 @@ links_references: |
   - Obtuse horn snail (
   *Cerithidea obtusa*
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   **References**
@@ -94,11 +94,11 @@ which means 'red eyes'. The living snail does indeed have red eyes! As well as a
 
 **Sometimes confused with**
 the
-[Black chut-chut](quadrata.md)
+[Black chut-chut](quadrata)
 and
-[Belitong](sulcata.md)
+[Belitong](sulcata)
 . More on
-[how to tell these snails apart](cfpotamids.md)
+[how to tell these snails apart](cfpotamids)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Human uses:**

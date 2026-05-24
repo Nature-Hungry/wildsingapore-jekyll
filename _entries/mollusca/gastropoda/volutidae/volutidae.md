@@ -76,18 +76,18 @@ links_references: |
   **Links**
   - [Melon or Baler Shell (
   *Cymbium melo*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/144.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/144)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
   - [Volutidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Volutidae.html)
   on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief fact sheet on volutes with photos.
-  - [Family Volutidae (Volutes)](http://seashellsofnsw.org.au/Volutidae/Pages/volutidae_intro.md)
+  - [Family Volutidae (Volutes)](http://seashellsofnsw.org.au/Volutidae/Pages/volutidae_intro)
   on the
-  [The Seashells of New South Wales](http://seashellsofnsw.org.au/index.md)
+  [The Seashells of New South Wales](http://seashellsofnsw.org.au/index)
   website by Des Beechey Research Associate, Australian Museum: family introductions with photos of shells and detailed fact sheets for many species.
   - Family Volutidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   **References**
@@ -127,9 +127,9 @@ Although some are highly prized for their large, glossy, patterned shells, livin
 
 ## Where seen?
 The
-[Noble volute](nobilis.md)
+[Noble volute](nobilis)
 is regularly sighted on some of our Northern and Southern shores, especially at night when they are more active. The
-[Baler shell](melo.md)
+[Baler shell](melo)
 is also sometimes seen on our Northern shores.
 
 ## Features
@@ -144,9 +144,9 @@ In members of the Famliy Volutidae, the male fertilises the female internally. T
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Role in the habitat:**
 Even after it dies, the snails shell continues to provide shelter! Many of the Noble volute shells contain a
-[hermit crab](../../../crustacea/othercrust/anomura/hermit/hermit.md)
+[hermit crab](../../../crustacea/othercrust/anomura/hermit/hermit)
 instead of the living snail. The hermit crabs need the shell more than we do so we should not collect these shells even if they are empty. Sometimes,
-[octopuses](../../cephalopoda/bigseagrass.md)
+[octopuses](../../cephalopoda/bigseagrass)
 are seen sheltering in the empty shells too.
 
 {% include img-wrap-group.html items=page.galleries.gallery4 %}**Human uses:**
@@ -154,9 +154,9 @@ Called 'kilah' in Malay, the Noble volute is edible. It is also 'often collected
 
 **Status and threats:**
 The
-[Noble volute](nobilis.md)
+[Noble volute](nobilis)
 is listed as 'Vulnerable' and
-[Baler shell](melo.md)
+[Baler shell](melo)
 as 'Endangered' on the Red List of threatened animals of Singapore due to habitat loss. The Noble volute was previously abundant in Singapore but is now considered vulnerable due to habitat degradation and overcollection for food and for its attractive shell.
 
 ---
@@ -181,11 +181,11 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 
 **Family Volutidae**
 
-*[Cymbiola nobilis](nobilis.md)*
+*[Cymbiola nobilis](nobilis)*
 (Noble volute) (VU: Vulnerable)
 *Melo broderipii
 
-[Melo melo](melo.md)*
+[Melo melo](melo)*
 (Baler volute) (EN: Endangered)
 
 ---

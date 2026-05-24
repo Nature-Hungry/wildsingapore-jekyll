@@ -50,4 +50,4 @@ About 0.5-1cm long. Olive green body tapering 'wings' and very long rhinophores.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
 back to
-[general info on elysia slugs](elysiidae.md)
+[general info on elysia slugs](elysiidae)

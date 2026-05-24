@@ -72,11 +72,11 @@ This cushion of little green beads is sometimes seen on our Southern shores grow
 The entire cushion about 2-5cm wide made up of tiny, tightly packed beads. Each translucent bead is a sphere or tear-drop shaped. The beads are actually interconnected. The entire cushion encrusts hard surfaces. Dark to light green or olive green.
 
 **Sometimes mistaken for**
-[Bubble green seaweed](boergesenia.md)
+[Bubble green seaweed](boergesenia)
 (
 *Boergesenia forbesii*
 ) which has much larger and more loosely arranged translucent bubble-like shapes. Here's more on
-[how to tell apart some green seaweeds](cfgrapes.md)
+[how to tell apart some green seaweeds](cfgrapes)
 .
 
 According to

@@ -86,11 +86,11 @@ links_references: |
   **Links**
   - [Mangrove hermit crab (
   *Clibanarius*
-  sp.) Family Diogenidae](http://mangrove.nus.edu.sg/guidebooks/text/2062.md)
+  sp.) Family Diogenidae](http://mangrove.nus.edu.sg/guidebooks/text/2062)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
-  - [Hermit Crabs, Order Decapoda](http://mangrove.nus.edu.sg/pub/seashore/text/186.md)
+  - [Hermit Crabs, Order Decapoda](http://mangrove.nus.edu.sg/pub/seashore/text/186)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -149,7 +149,7 @@ Juveniles without light colored stripes on eye stalks and walking legs.
 
 More on how to tell apart
 [*Clibanarius*
-hermit crabs](clibanarius.md)
+hermit crabs](clibanarius)
 .
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 

@@ -51,7 +51,7 @@ galleries:
 links_references: |
   **Links**
   - Family Pteriidae in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   **References**
@@ -83,7 +83,7 @@ location:
 
 ## Where seen?
 These strangely shaped clams grow attached to other animals like
-[sea fans](../../../cnidaria/others/gorgonacea/gorgonacea.md)
+[sea fans](../../../cnidaria/others/gorgonacea/gorgonacea)
 and sponges, as well as mangrove trees.
 
 **What are winged oysters?**
@@ -125,7 +125,7 @@ from Tan Siong Kiat and Henrietta P. M. Woo, 2010
 **Family Pteriidae**
 awaiting identification
 
-[Sea fan winged oysters](seafan.md)
+[Sea fan winged oysters](seafan)
 
 **Family Pteriidae**
 
@@ -136,16 +136,16 @@ Electroma physoides*
 ^
 *Isognomon*
 previously in Family Isognomonidae
-*[Isognomon ephippium](ephippium.md)*
+*[Isognomon ephippium](ephippium)*
 (Leaf oyster)
-*[Isognomon isognomum](isognomum.md)*
+*[Isognomon isognomum](isognomum)*
 (Elongated toothed oyster)
 *Isognomon legumen
 
 Isognomon perna
 
 +
-[Isognomon spathulatus](ephippium.md)*
+[Isognomon spathulatus](ephippium)*
 (Mangrove leaf-oyster)
 *Pinctada albina sugillata
 
@@ -163,7 +163,7 @@ Pteria macroptera
 
 Pteria penguin
 
-[Vulsella vulsella](vulsella.md)*
+[Vulsella vulsella](vulsella)*
 (Sponge finger oysters) ^Previously in Family Malleidae
 
 ---

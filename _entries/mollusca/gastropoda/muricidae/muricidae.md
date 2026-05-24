@@ -118,7 +118,7 @@ links_references: |
   *Thais gradata*
   ) and Ketem (
   *Chicoreus capucinus*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2085.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2085)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
@@ -126,7 +126,7 @@ links_references: |
   *Murex martineaus*
   ), Mangrove Murex (
   *Chicoreus capucinus*
-  ), Thais and Morula](http://mangrove.nus.edu.sg/pub/seashore/text/146.md)
+  ), Thais and Morula](http://mangrove.nus.edu.sg/pub/seashore/text/146)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp
@@ -142,16 +142,16 @@ links_references: |
   on the NParks Flora and Fauna website.
   - [Family Muricidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Muricidae.html)
   on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief fact sheet on drills with photos
-  - [Family Muricidae (Murex, Rock or Coral shells)](http://seashellsofnsw.org.au/Muricidae/Pages/muricidae_intro.md)
+  - [Family Muricidae (Murex, Rock or Coral shells)](http://seashellsofnsw.org.au/Muricidae/Pages/muricidae_intro)
   on the
-  [The Seashells of New South Wales](http://seashellsofnsw.org.au/index.md)
+  [The Seashells of New South Wales](http://seashellsofnsw.org.au/index)
   website by Des Beechey Research Associate, Australian Museum: family introductions with photos of shells and detailed fact sheets for many species.
   - [Murex shells (Family Muricidae)](http://www.mesa.edu.au/friends/seashores/murex_shells.html)
   on
   [Life on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1.html)
   by Keith Davey on the Marine Education Society of Australia website: Fact sheet on drills and details on various species found in Australia.
   - Family Muricidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
   - [Use of molluscs for personal adornment](http://www.manandmollusc.net/beginners_uses/8.html)
   on the Man and Molluscs website: an introduction to the wide range of dyes produced by members of the Family Muricidae with links to photos of the shells.
@@ -225,16 +225,16 @@ sp.). Drills usually have thick shells and a thick operculum made of a horn-like
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Bored to Death:**
 Drills that live on the rocks are predatory molluscs that bore into other shelled creatures, especially
-[barnacles](../../../crustacea/othercrust/ciriipedia/cirripedia.md)
+[barnacles](../../../crustacea/othercrust/ciriipedia/cirripedia)
 .
 
 To bore a hole through the victim's shell, a drilling snail softens the shell with a weak acid secreted by a special gland on the underside of its foot. The softened shell is then slowly scraped off by the snail's radula. The radula is the main physical tool in creating the hole. It can take eight hours for a drill to get through a shell 2mm thick. Yawn!
 
 **Other drill food and feeding methods:**
 Some drills may also pry open the shells of
-[bivalves](../../bivalvia.md)
+[bivalves](../../bivalvia)
 with a tooth on the lip of their shell. Others may also get to
-[limpets](../limpets/limpet.md)
+[limpets](../limpets/limpet)
 by inserting their proboscis under the limpet's shell. Some may also hunt buried clams. Some prey on worms, the eggs of other snails and even corals. Some deeper-water members of the Family Muricidae eat worms and sea urchins.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**To dye for:**
@@ -258,7 +258,7 @@ The toxins kill drill larvae, or result in deformities in adults.
 **Status and threats:**
 *Chicoreus ramosus*
 is listed as 'Endangered' and the
-[Murex snail](trapa.md)
+[Murex snail](trapa)
 (
 *Murex trapa*
 ) as 'Vulnerable' in the Red List of threatened animals of Singapore. Our other drills are not on this list. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection can also have an impact on local populations.
@@ -296,13 +296,13 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red D
 
 On this website, they are grouped by external features for convenience of display.*
 
-[Chunky drills](chunky.md)
+[Chunky drills](chunky)
 
-[Elegant drills](elegant.md)
+[Elegant drills](elegant)
 
-[Knobbly drills](knobbly.md)
+[Knobbly drills](knobbly)
 
-[Reef murex snails](chicoreus.md)
+[Reef murex snails](chicoreus)
 
 **Family Muricidae**
 
@@ -313,9 +313,9 @@ Chicoreus banksii
 
 Chicoreus brunneus*
 (Burnt murex)
-*[Chicoreus capucinus](capucinus.md)*
+*[Chicoreus capucinus](capucinus)*
 (Mangrove murex)
-*[Chicoreus ramosus](ramosus.md)*
+*[Chicoreus ramosus](ramosus)*
 (Ramose murex) (EN: Endangered)
 *Chicoreus torrefactus*
 (Firebrand murex)
@@ -359,7 +359,7 @@ Muricodrupa stellaris
 
 Murex ternispina
 
-[Murex trapa](trapa.md)*
+[Murex trapa](trapa)*
 (Rare-spined murex snail) (VU: Vulnerable)
 *Murex troscheli
 
@@ -375,7 +375,7 @@ Purpura bufo
 
 Rapana rapiformis
 
-[Semiricinula fusca](fusca.md)*
+[Semiricinula fusca](fusca)*
 (Dark drill)
 **
 *Semiricinula muricoides

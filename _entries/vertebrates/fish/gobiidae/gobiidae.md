@@ -127,17 +127,17 @@ galleries:
     caption: Grey knight goby
 links_references: |
   **Links**
-  - [Mudskippers](http://mangrove.nus.edu.sg/guidebooks/text/2106.md)
+  - [Mudskippers](http://mangrove.nus.edu.sg/guidebooks/text/2106)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
-  - [Gobies, mudskippers and their relatives](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/151.md)
+  - [Gobies, mudskippers and their relatives](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/151)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
-  - [Family Gobiidae](http://mangrove.nus.edu.sg/pub/seashore/text/245.md)
+  - [Family Gobiidae](http://mangrove.nus.edu.sg/pub/seashore/text/245)
   and
-  [Mudskippers](http://mangrove.nus.edu.sg/pub/seashore/text/246.md)
+  [Mudskippers](http://mangrove.nus.edu.sg/pub/seashore/text/246)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -231,7 +231,7 @@ location:
 
 ## Where seen?
 Gobies are abundant on many of our shores. But they are hard to spot. At the slightest sign of danger, they bolt into burrows or dart under rocks. Even in plain sight, they blend in with the sand and mud. So watch your step or you might squash a tiny fish! Besides those that are found in pools, another kind of familiar goby found on our shores are the
-[mudskippers](mudskipper.md)
+[mudskippers](mudskipper)
 that hop around on mud and rocks.
 
 **What are gobies?**
@@ -255,11 +255,11 @@ In some goby species, the male guards the eggs and the young stay close to dad f
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Fishy friend:**
 The shrimp goby lives in the same burrow with a snapping shrimp. With keener eyesight, the goby keeps a look-out while the shrimp busily digs out and maintains their shared home. The shrimp is literally constantly in touch with the goby with at least one of its antennae always on the goby. When the goby darts into the burrow, the shrimp is right behind it! More about this
-[shrimp-fish partnership](shrimpgoby.md)
+[shrimp-fish partnership](shrimpgoby)
 .
 
 Other tiny gobies found in coral reefs live in close association with other animals, taking on the colours and patterns of their 'partners' for perfect camouflage. Such tiny gobies may be found among the branches of sea fans, or on sponges and corals. The
-[Broad barred acropora goby](histrio.md)
+[Broad barred acropora goby](histrio)
 lives only in Acropora corals.
 
 Some gobies (
@@ -273,7 +273,7 @@ Being relatively abundant in the ecosystems they inhabit, these small fishes are
 
 {% include img-wrap-group.html items=page.galleries.gallery4 %}**Human uses:**
 Gobies are generally not eaten, although it is said that large
-[mudskippers](mudskipper.md)
+[mudskippers](mudskipper)
 are eaten in places like Taiwan. Some of the more colourful gobies are collected for the live aquarium trade.
 
 **Status and threats:**
@@ -294,7 +294,7 @@ for free download
 ---
 
 **Some Gobies on Singapore shores (except
-[mudskippers](mudskipper.md)
+[mudskippers](mudskipper)
 )**
 
 ---
@@ -332,7 +332,7 @@ from Helen K. Larson, Zeehan Jaafar and Kelvin K. P. Lim. 29 June 2016. An updat
 
 **Family Gobiidae**
 
-*[Acentrogobius caninus](caninus.md)*
+*[Acentrogobius caninus](caninus)*
 (Green-shouldered goby)
 **
 *Acentrogobius cyanomos
@@ -354,7 +354,7 @@ Acentrogobius janthinopterus*
 Amblygobius phaleana
 
 Amblygobius sphynx*
-*[Amblygobius stethophthalmus](stethophthalmus.md)*
+*[Amblygobius stethophthalmus](stethophthalmus)*
 (previously
 *A. bynoensis*
 ) (Head-stripe goby)
@@ -364,7 +364,7 @@ Amblygobius sphynx*
 (Bar-cheek goby)
 *Apocyptodon*
 (see
-[mudskippers](mudskipper.md)
+[mudskippers](mudskipper)
 )
 *Arcygobius baliurus*
 (Isthmus goby)
@@ -372,7 +372,7 @@ Amblygobius sphynx*
 (Starry goby)
 *Aulopareia unicolor*
 [*Bathygobius*
-sp.](bathygobius.md)
+sp.](bathygobius)
 (Frill-fin gobies)
 *Bathygobius fuscus*
 (Common frill-fin goby)
@@ -380,12 +380,12 @@ sp.](bathygobius.md)
 (Meggitt's frill-fin goby)
 *Boleophthalmus*
 (see
-[mudskippers](mudskipper.md)
+[mudskippers](mudskipper)
 )
 *Brachyamblyopus brachysoma*
 (Short Eel-goby)
 
-*[Brachygobius kabiliensis](kabiliensis.md)*
+*[Brachygobius kabiliensis](kabiliensis)*
 (Mangrove bumblebee goby)
 *Brachygobius sabanus*
 (Lesser bumblebee goby)
@@ -412,11 +412,11 @@ Cryptocentrus caeruleomaculatus*
 (Bluespot shrimp-goby)
 *Cryptocentrus cyanotaenia*
 (Lagoon shrimp-goby)
-*[Cryptocentrus leptocephalus](leptocephalus.md)*
+*[Cryptocentrus leptocephalus](leptocephalus)*
 (Slender-lined shrimp-goby)
 *Cryptocentrus leucostictus*
 (Saddled prawn-goby)
-*[Cryptocentrus maudae](maudae.md)*
+*[Cryptocentrus maudae](maudae)*
 (Saddled shrimp-goby)
 *Cryptocentrus melanopus
 
@@ -434,7 +434,7 @@ Drombus globiceps*
 
 *Drombus ocyurus*
 (Blue-marked drombus)
-*[Drombus triangularis](triangularis.md)*
+*[Drombus triangularis](triangularis)*
 (Brown drombus or Brown shore goby)
 
 *Eugnathogobius illotus=^Calamiana illota*
@@ -481,7 +481,7 @@ Gnatholepis cauerensis*
 Gobiodon heterospilos=*
 *Gobiodon albofasciatus*
 (White-striped acropora goby)
-*[Gobiodon histrio](histrio.md)*
+*[Gobiodon histrio](histrio)*
 (Broad-barred acropora goby)
 *Gobiodon micropus
 
@@ -505,9 +505,9 @@ Gobiopterus birthwistlei*
 (Decorated lagoon-goby)
 *Istigobius diadema*
 (Black-lined lagoon-goby)
-*[Istigobius goldmanni](goldmanni.md)*
+*[Istigobius goldmanni](goldmanni)*
 (Black-spotted lagoon-goby)
-*[Istigobius ornatus](ornatus.md)*
+*[Istigobius ornatus](ornatus)*
 (Ornate lagoon-goby)
 **
 *Lubricogobius ornatus*
@@ -551,7 +551,7 @@ Oxymetopon compressus
 
 Oxuderces*
 (see
-[mudskippers](mudskipper.md)
+[mudskippers](mudskipper)
 )
 *Oxyurichthys longicauda=Oxyurichthys uronema*
 (Fine-blotched tentacle-goby)
@@ -569,7 +569,7 @@ Paragobiodon echinocephalus*
 (Spiny-headed goby)
 *Parapocryptes*
 (see
-[mudskippers](mudskipper.md)
+[mudskippers](mudskipper)
 )
 *Paratrypauchen microcephalus*
 (Small-eyed worm-goby)
@@ -578,11 +578,11 @@ Paragobiodon echinocephalus*
 
 *Periophthalmodon*
 (see
-[mudskippers](mudskipper.md)
+[mudskippers](mudskipper)
 )
 *Periophthalmus*
 (see
-[mudskippers](mudskipper.md)
+[mudskippers](mudskipper)
 )
 **
 
@@ -590,12 +590,12 @@ Paragobiodon echinocephalus*
 (Nape-banded coral-goby)
 *Priolepis semidoliatus*
 (Half-banded coral-goby)
-*[Psammogobius biocellatus](biocellatus.md)*
+*[Psammogobius biocellatus](biocellatus)*
 (Crocodile flat-head goby)
 
 *Pseudapocryptes*
 (see
-[mudskippers](mudskipper.md)
+[mudskippers](mudskipper)
 )
 
 *Pseudogobiopsis oligactis*
@@ -605,7 +605,7 @@ Paragobiodon echinocephalus*
 
 *Pseudogobius avicennia*
 (Avicennia fatnose goby)
-*[Pseudogobius javanicus](javanicus.md)*
+*[Pseudogobius javanicus](javanicus)*
 (Java or Javanese fatnose goby)
 *Pseudogobius melanostictus*
 (Black-spotted fatnose goby)
@@ -621,7 +621,7 @@ Paragobiodon echinocephalus*
 
 *Scartelaos*
 (see
-[mudskippers](mudskipper.md)
+[mudskippers](mudskipper)
 )
 
 *Sicyopterus macrostetholepis*
@@ -633,7 +633,7 @@ Paragobiodon echinocephalus*
 (Borneo knight-goby)
 *Stigmatogobius pleurostigma*
 (Peach knight-goby)
-*[Stigmatogobius sadanundio](sadanundio.md)*
+*[Stigmatogobius sadanundio](sadanundio)*
 (Grey knight-goby)
 *Stigmatogobius sella*
 (Sharp-nosed knight-goby)
@@ -650,7 +650,7 @@ Paragobiodon echinocephalus*
 *Trypauchenichthys sumatrensis*
 
 *Trypauchenichthys typus*
-*[Valenciennea muralis](muralis.md)*
+*[Valenciennea muralis](muralis)*
 (Mural glider-goby)
 *Valenciennea puellaris
 
@@ -658,7 +658,7 @@ Valenciennea strigata
 
 Yongeichthys madraspatensis
 
-[Yongeichthys nebulosus=^Acentrogobius nebulosus](nebulosus.md)*
+[Yongeichthys nebulosus=^Acentrogobius nebulosus](nebulosus)*
 (Shadow goby)
 
 *Yongeichthys virgatulus*

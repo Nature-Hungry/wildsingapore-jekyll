@@ -32,9 +32,9 @@ links_references: |
   on the
   [Singapore Snakes](http://singaporesnakes.blogspot.com/)
   blog: fact sheet with photos and links to local sightings and other posts.
-  - [Puff-faced Water Snake](http://www.ecologyasia.com/verts/snakes/puff-faced_water-snake.md)
+  - [Puff-faced Water Snake](http://www.ecologyasia.com/verts/snakes/puff-faced_water-snake)
   on Nick Baker's EcologyAsia website: fact sheet with photos.
-  - [Puff-faced Water Snake](http://www.wildsingapore.per.sg/discovery/factsheet/snakepufffaced.md)
+  - [Puff-faced Water Snake](http://www.wildsingapore.per.sg/discovery/factsheet/snakepufffaced)
   on Chan Kwok Wai's Wildlife Singapore: fact sheet with photos.
   - [*Homalopsis buccata*](http://www.iucnredlist.org/details/176682/0)
   on the IUCN Red List.

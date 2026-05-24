@@ -55,7 +55,7 @@ links_references: |
   from
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet
-  - [Volume 5: Bony fishes part 3 (Menidae to Pomacentridae)](http://www.fao.org/docrep/009/y0770e/y0770e00.md)
+  - [Volume 5: Bony fishes part 3 (Menidae to Pomacentridae)](http://www.fao.org/docrep/009/y0770e/y0770e00)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
 
   **References**
@@ -137,9 +137,9 @@ Lethrinus erythropterus
 Lethrinus harak
 
 *
-[Lethrinus lentjan](lentjan.md)*
+[Lethrinus lentjan](lentjan)*
 (Pink ear emperor)
-*[Lethrinus nebulosus](nebulosus.md)*
+*[Lethrinus nebulosus](nebulosus)*
 (Spangled emperor)
 *Lethrinus rhodopterus=**Lethrinus harak*
 

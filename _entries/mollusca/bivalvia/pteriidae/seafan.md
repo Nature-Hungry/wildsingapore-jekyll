@@ -71,7 +71,7 @@ location:
 
 ## Where seen?
 These strangely shaped clams grow attached to
-[sea fans](../../../cnidaria/others/gorgonacea/gorgonacea.md)
+[sea fans](../../../cnidaria/others/gorgonacea/gorgonacea)
 . They are sometimes seen on our Northern shores.
 
 **What are winged oysters?**

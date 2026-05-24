@@ -71,7 +71,7 @@ links_references: |
   **Links**
   - [Segmented worms including
   *Chloeia*
-  sp.](http://mangrove.nus.edu.sg/pub/seashore/text/126.md)
+  sp.](http://mangrove.nus.edu.sg/pub/seashore/text/126)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -109,7 +109,7 @@ This beautiful worm is sometimes seen on some of our shores. Once seen swimming 
 
 **What is a fire worm?**
 It is a segmented bristleworm belonging to the Family Amphinomidae, Class
-[Polychaeta](polychaeta.md)
+[Polychaeta](polychaeta)
 , Phylum Annelida. The polychaetes include bristleworms, and Phylum Annelida includes the more familiar earthworm. Many members of the Family Amphinomidae are known as fireworms because of the burning pain they produce when handled.
 
 ## Features

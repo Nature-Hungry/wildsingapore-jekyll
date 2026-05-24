@@ -60,7 +60,7 @@ links_references: |
   [The Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html)
   at Washington State University Tri-Cities Natural History Museum website: brief description and photos.
   - Family Pectinidae in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   **References**
@@ -114,7 +114,7 @@ Some scallops are free living. A scallop can swim by flapping its valves and usi
 Some scallops such as the
 *Chlamys*
 species, attach themselves to stones, rocks and other hard surfaces with byssus threads.
-[Tiny coral scallops](coral.md)
+[Tiny coral scallops](coral)
 are often embedded in living hard corals.
 
 **What do they eat?**
@@ -122,7 +122,7 @@ Like most other bivalves, scallops are filter feeders. When submerged, a scallop
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**Human uses:**
 Larger scallop species are harvested for seafood. Usually what is eaten is only the adductor muscle that holds the two valves together. Our wild scallops are much too small to yield the kind of scallops you can buy at the supermarket. The flesh of the adductor muscle is sweet because it contains a high amount of gylcogen. Like other filter-feeding clams, however, scallops may be affected by
-[red tide and other harmful algal blooms](../../../plants/seaweed/redtide.md)
+[red tide and other harmful algal blooms](../../../plants/seaweed/redtide)
 when they are then harmful to eat.
 
 **Status and threats:**
@@ -156,7 +156,7 @@ from Tan Siong Kiat and Henrietta P. M. Woo, 2010
 
 On this website, they are grouped by external features for convenience of display.*
 
-[Large scallop](large.md)
+[Large scallop](large)
 
 **Family Pectinidae**
 
@@ -172,11 +172,11 @@ Laevichlamys squamosa
 
 Minnivola pyxidata
 
-[Pedum spondyloideum](coral.md)*
+[Pedum spondyloideum](coral)*
 (Coral scallop)
 *+Semipallium flavicans*
 (Tiger scallop)
-*[Volachlamys singaporina](singapore.md)*
+*[Volachlamys singaporina](singapore)*
 (Singapore scallop)
 
 ---

@@ -103,7 +103,7 @@ links_references: |
   **Links**
   - [Brown Sweetlips or Harry Hotlips (
   *Plectorhinchus gibbosus*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/285.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/285)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
@@ -155,9 +155,9 @@ To about 70cm, those seen on the intertidal at low tide range from tiny ones aro
 
 **May be mistaken for**
 the
-[Tripletail](../lobotidae/surinamensis.md)
+[Tripletail](../lobotidae/surinamensis)
 and
-[juvenile Sickletfish](../drepaneidae/drepane.md)
+[juvenile Sickletfish](../drepaneidae/drepane)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

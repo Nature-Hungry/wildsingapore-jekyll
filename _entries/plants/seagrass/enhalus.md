@@ -114,7 +114,7 @@ links_references: |
   **Links**
   - [Tape seagrass (
   *Enhalus acoroides*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/108.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/108)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -186,7 +186,7 @@ This seagrass has thick rhizomes (underground stems) that are densely covered wi
 
 **Sometimes confused with**
 other ribbon-like seagrasses. Here's more on
-[how to tell apart ribbon-like seagrasses](cfribbon.md)
+[how to tell apart ribbon-like seagrasses](cfribbon)
 .
 
 **Flowers and fruits:**
@@ -202,12 +202,12 @@ The fruit is round to tear-drop shaped and large (4-6cm in diameter) with dark, 
 Tape seagrass is believed to be among the main food of the Dugong (
 *Dugong dugon*
 ). On the seagrass blade grows a wide variety of tiny encrusting animals like
-[green gum drop ascidians](../../ascidiacea/greengumdrop.md)
+[green gum drop ascidians](../../ascidiacea/greengumdrop)
 and
-[seagrass hydroids](../../cnidaria/others/hydrozoa/seagrass.md)
+[seagrass hydroids](../../cnidaria/others/hydrozoa/seagrass)
 and egg capsules.
 Tiny algae often grows on the leaves of this seagrass, providing food for grazing creatures such as the
-[Seagrass sea hare](../../mollusca/slugs/anaspidae/seagrass.md)
+[Seagrass sea hare](../../mollusca/slugs/anaspidae/seagrass)
 and snails. The mat of rhizomes also provides shelter for many small animals.
 
 **Human uses:**

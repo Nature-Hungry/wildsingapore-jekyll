@@ -54,7 +54,7 @@ This flatworm is sometimes seen on coral rubble near living reefs.
 
 **Sometimes mistaken for**
 the
-[Brown-striped flatworm](brownstripe.md)
+[Brown-striped flatworm](brownstripe)
 which is more brown and has a broad dark stripe in the middle of the body.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

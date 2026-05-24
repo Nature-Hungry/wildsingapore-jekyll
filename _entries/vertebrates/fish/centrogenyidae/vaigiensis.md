@@ -114,7 +114,7 @@ galleries:
 links_references: |
   **Links**
   - [False scorpionfish (
-  *Centrogenys vaigiensis)*](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/265.md)
+  *Centrogenys vaigiensis)*](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/265)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
@@ -122,7 +122,7 @@ links_references: |
   on The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.
   - [Tigerfish (
   *Centrogenys vaigiensis*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/242.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/242)
   Tan, Leo W. H. & Ng, Peter K. L., 1988,
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -169,20 +169,20 @@ This small scorpionfish wannabe is commonly encountered on many of our shores in
 
 **What are false scorpionfishes?**
 This species was previously placed in
-[Family Serranidae](../serranidae/serranidae.md)
+[Family Serranidae](../serranidae/serranidae)
 (groupers) and now is the only member of the Family Centrogenyidae (false scorpionfishes). True scorpionfishes belong to the
-[Family Scorpaenidae](../scorpaenidae/scorpaenidae.md)
+[Family Scorpaenidae](../scorpaenidae/scorpaenidae)
 .
 ## Features
 
 Those seen usually about 4-10cm, grows to about 15cm. A large head with large eyes. In various camouflaging colours and patterns. Like true scorpionfishes, the false scorpionfish has sharp dorsal spines that can poke inquisitive fingers. The false scorpionfish lacks true venom glands, though the spines can still cause wounds.
 
 **Sometimes mistaken for**
-[stonefishes](../synanceiidae/horrida.md)
+[stonefishes](../synanceiidae/horrida)
 and
-[scorpionfishes](../scorpaenidae/scorpaenidae.md)
+[scorpionfishes](../scorpaenidae/scorpaenidae)
 . To distinguish it from true scorpionfishes, the false scorpionfish does not have spines around its mouth, the nostrils have large fringed flaps, and the dorsal fin starts well behind the eyes. Here's more on
-[how to tell apart fishes that look like stones](../cfstonefish.md)
+[how to tell apart fishes that look like stones](../cfstonefish)
 .
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 {% include img-wrap-group.html items=page.galleries.gallery3 %}

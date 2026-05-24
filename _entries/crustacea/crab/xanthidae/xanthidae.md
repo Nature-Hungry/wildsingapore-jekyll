@@ -89,25 +89,25 @@ galleries:
     caption: Hairy coral crab
 links_references: |
   **Links**
-  - [Poisonous Xanthid Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/252.md)
+  - [Poisonous Xanthid Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/252)
   ,
-  *[Liomera](http://mangrove.nus.edu.sg/pub/seashore/text/206.md)*
+  *[Liomera](http://mangrove.nus.edu.sg/pub/seashore/text/206)*
   ,
-  *[Pilodius](http://mangrove.nus.edu.sg/pub/seashore/text/207.md)*
+  *[Pilodius](http://mangrove.nus.edu.sg/pub/seashore/text/207)*
   ,
   [Common Rock Crab (
   *Leptodius*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/208.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/208)
   ,
-  *[Actaeodes mutatus](http://mangrove.nus.edu.sg/pub/seashore/text/210.md)*
+  *[Actaeodes mutatus](http://mangrove.nus.edu.sg/pub/seashore/text/210)*
   ,
   [Red Egg Crab (
   *Atergatis integerrimus*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/209.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/209)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
-  - [Tetrodotoxin ...an ancient alkaloid from the sea](http://www.chm.bris.ac.uk/motm/ttx/ttxv.md)
+  - [Tetrodotoxin ...an ancient alkaloid from the sea](http://www.chm.bris.ac.uk/motm/ttx/ttxv)
   by Jim Johnson on Molecule of the Month of the School of Chemistry, University of Bristol website: lots of details about the toxin's effects, creatures that carry it and how it came about, with LOTS of links to more about tetrodotoxin.
 
   **References**
@@ -229,10 +229,10 @@ Actites erythra=**Actiomera erythra?
 **sp. (Egg crabs)**
 *Atergatis dilatatus
 
-[Atergatis floridus](floridus.md)*
+[Atergatis floridus](floridus)*
 (Floral egg crab) (VU: Vulnerable)
 
-[*Atergatis integerrimus*](integerrimus.md)
+[*Atergatis integerrimus*](integerrimus)
 (Red egg crab) (VU: Vulnerable)
 
 *Atergatis roseus
@@ -251,8 +251,8 @@ Banareia subglobosa*
 
 Chlorodiella nigra*
 
-***[Cymo](cymo.md)*
-[sp.](cymo.md)
+***[Cymo](cymo)*
+[sp.](cymo)
 (Hairy coral crabs)**
 
 *Cymo andreossyi*
@@ -273,11 +273,11 @@ Epiactaea nodulosa
 
 Etisus anaglyptus
 
-[Etisus laevimanus](laevimanus.md)*
+[Etisus laevimanus](laevimanus)*
 (Smooth spooner crab)
-*[Etisus utilis](utilis.md)*
+*[Etisus utilis](utilis)*
 (Saw-edged spooner crab)
-*[Euxanthus exsculptus](euxanthus.md)*
+*[Euxanthus exsculptus](euxanthus)*
 (Lumpy rock crab)
 *Galliardellus orientalis=**Gaillardiellus orientalis
 
@@ -295,7 +295,7 @@ Hypocolpus rugosus*
 (CR: Critically endangered)
 **
 [***Leptodius***
-**sp.**](/wildsingapore/wildfacts/crustacea/crab/xanthidae/leptodius.md)
+**sp.**](/wildsingapore/wildfacts/crustacea/crab/xanthidae/leptodius)
 **(Rock crabs)**
 *+Leptodius davaoensis
 
@@ -315,11 +315,11 @@ Liomera margaritata
 
 Liomera pallida
 
-[Liomera venosa](venosa.md)*
+[Liomera venosa](venosa)*
 (Ruby reef crab)
 *Lophozozymus leucomanus
 
-[Lophozozymus pictor](pictor.md)*
+[Lophozozymus pictor](pictor)*
 (Mosaic reef crab) (EN: Endangered)
 *Macromedaeus distinguendus
 
@@ -333,8 +333,8 @@ Neoxanthops lineatus*
 (VU: Vulnerable)
 *Paractaea rufopunctata
 
-[**Pilodius**](pilodius.md)*
-**[sp.](pilodius.md)
+[**Pilodius**](pilodius)*
+**[sp.](pilodius)
 **
 (Pilodius rock crabs)**
 *Pilodius harmsi
@@ -347,7 +347,7 @@ Pilodius pilumnoides
 
 Platypodia cristata
 
-[Platypodia granulosa](platypodia.md)*
+[Platypodia granulosa](platypodia)*
 (Curry puff crab)
 **
 (EN: Endangered)

@@ -59,7 +59,7 @@ links_references: |
   from
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet.
-  - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.md)
+  - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
 
   **References**
@@ -79,7 +79,7 @@ Those seen about 20cm, grows to about 30cm long. Eyes on right side. Body elonga
 
 **What does it eat?**
 In Singapore, those seen appear to eat long
-[bristleworms](../../../worm/polychaeta/polychaeta.md)
+[bristleworms](../../../worm/polychaeta/polychaeta)
 . Elsewhere, it is said to hunt small animals living on the bottom of the sea, especially small crustaceans.
 
 **Human uses:**

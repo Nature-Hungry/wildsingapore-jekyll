@@ -167,22 +167,22 @@ This enormous colourful anemone with short skinny tentacles is commonly seen on 
 ## Features
 
 Those seen about 40-50cm in diameter when exposed out of water. The oral disk expands when submerged. The large oral disk covered with short tentacles so that it resembles a shaggy carpet. The oral disk is often folded and rarely held flat against the surface, unlike
-[Merten's carpet anemone](mertensii.md)
+[Merten's carpet anemone](mertensii)
 . The long body column is usually buried or inserted into a crevice and ends in a pedal disk that anchors the animal.
 
 Body column is sometimes colourful (bright pink, orange, yellow). Bumps (verrucae) appear as rows of spots, generally in bright colours (pink, purple). They are non-adhesive and found on the upper part of the body column.
 
 Tentacles short (about 1cm), narrow and uniform in length. Usually brown or purplish with lighter coloured tips. The tentacles are not very tightly packed and when submerged, are usually in constant motion. The tentacles are very sticky and may stick to a finger and break off. It does not have a fringe of long-short tentacles at the edge of the oral disk like
-[Haddon's carpet anemone](/wildfacts/cnidaria/actiniaria/haddoni.md)
+[Haddon's carpet anemone](/wildfacts/cnidaria/actiniaria/haddoni)
 .
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Sometimes confused with**
 other large anemones and similar large cnidarians. Here's more on how to tell apart
-[the different kinds of carpet anemones](stichodactyla.md)
+[the different kinds of carpet anemones](stichodactyla)
 and
-[large sea anemones with long tentacles](cfbiglong.md)
+[large sea anemones with long tentacles](cfbiglong)
 and
-[large 'hairy' cnidarians](../cflargecnidarians.md)
+[large 'hairy' cnidarians](../cflargecnidarians)
 .
 
 **Carpet food:**
@@ -192,9 +192,9 @@ Carpet anemones harbour symbiotic single-celled algae (called zooxanthellae). Th
 Besides the symbiotic algae that lives inside the their tentacles several kinds of animals have been associated with giant carpet anemones. These include anemone shrimps (
 *Periclimenes*
 sp.), and fishes such as
-[Three-spot dascyllus](../../vertebrates/fish/pomacentridae/trimaculatus.md)
+[Three-spot dascyllus](../../vertebrates/fish/pomacentridae/trimaculatus)
 and
-[anemonefishes](../../vertebrates/fish/pomacentridae/amphiprion.md)
+[anemonefishes](../../vertebrates/fish/pomacentridae/amphiprion)
 (
 *Amphiprion*
 sp.) including
@@ -202,9 +202,9 @@ sp.) including
 ,
 *A. percula, A. perideraion, A. polymnus*
 . But so far, the only animals observed on giant carpet anemones were: the
-[Peacock-tail anemone shrimps](../../crustacea/othercrust/shrimp/brevicarpalis.md)
+[Peacock-tail anemone shrimps](../../crustacea/othercrust/shrimp/brevicarpalis)
 and the
-[Clown anemonefish](../../vertebrates/fish/pomacentridae/ocellaris.md)
+[Clown anemonefish](../../vertebrates/fish/pomacentridae/ocellaris)
 .
 
 **Stinging carpet!**

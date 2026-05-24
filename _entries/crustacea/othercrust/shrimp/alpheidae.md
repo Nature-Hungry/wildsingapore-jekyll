@@ -90,11 +90,11 @@ links_references: |
   **Links**
   - [Mangrove snapping prawns (
   *Alpheus*
-  spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2040.md)
+  spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2040)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
-  - [Snapping or Pistol Shrimp (Family Alpheidae)](http://mangrove.nus.edu.sg/pub/seashore/text/181.md)
+  - [Snapping or Pistol Shrimp (Family Alpheidae)](http://mangrove.nus.edu.sg/pub/seashore/text/181)
   Tan, Leo W. H. & Ng, Peter K. L., 1988,
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -135,7 +135,7 @@ You will most likely hear a snapping shrimp before you see one. These little cre
 
 **What are snapping shrimps?**
 Snapping shrimps are
-[crustaceans](../../crustacea.md)
+[crustaceans](../../crustacea)
 that belong to Family Alpheidae.
 ****
 
@@ -151,7 +151,7 @@ The snapping sound is not the result of the finger hitting the socket, i.e., not
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Shrimpy friends:**
 Some species live in symbiosis with corals, sponges, sea fans and other animals. The most amazing must be
-[the relationship between the snapping shrimp and goby](../../../vertebrates/fish/gobiidae/shrimpgoby.md)
+[the relationship between the snapping shrimp and goby](../../../vertebrates/fish/gobiidae/shrimpgoby)
 . The shrimp goby lives in the same burrow with a snapping shrimp. With keener eyesight, the goby keeps a look-out while the shrimp busily digs out and maintains their shared home. The shrimp is literally constantly in touch with the goby with at least one of its antennae always on the goby. When the goby darts into the burrow, the shrimp is right behind it!
 
 **Colonial shrimps?**
@@ -164,7 +164,7 @@ Most of our snapping shrimps are not listed among the endangered animals of Sing
 *Synalpheus stimpsoni*
 ).
 This tiny shrimp (about 1cm) lives in pairs on
-[feather stars](../../../echinodermata/crinoidea/crinoidea.md)
+[feather stars](../../../echinodermata/crinoidea/crinoidea)
 (crinoids), feeding off the mucus of its host. It is threatened by reef destruction and siltation.
 
 ---
@@ -197,15 +197,15 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 **Snapping shrimps seen awaiting identification**
 *Species are difficult to positively identify without close examination of small features. On this website, they are grouped by external features for convenience of display.*
 
-[Commensal snapping shrimps](alphcommensal.md)
+[Commensal snapping shrimps](alphcommensal)
 
-[White soft coral snapping shrimps](alphballsoft.md)
+[White soft coral snapping shrimps](alphballsoft)
 
-[Many-band snapping shrimps](alphmanyband.md)
+[Many-band snapping shrimps](alphmanyband)
 
-[Ornamented snapping shrimps](alphornament.md)
+[Ornamented snapping shrimps](alphornament)
 
-[Smooth snapping shrimps](alphsmooth.md)
+[Smooth snapping shrimps](alphsmooth)
 
 **Family Alpheidae**
 

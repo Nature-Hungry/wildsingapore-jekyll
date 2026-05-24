@@ -40,10 +40,10 @@ links_references: |
   and
   [*Hoya verticillata*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=1418)
   on the NParks Flora and Fauna website: photos and fact sheet.
-  - [Heavenly Hoyas An introduction to the species of Singapore and Malaysia](http://habitatnews.nus.edu.sg/pub/naturewatch/text/a094a.md)
+  - [Heavenly Hoyas An introduction to the species of Singapore and Malaysia](http://habitatnews.nus.edu.sg/pub/naturewatch/text/a094a)
   by Leong Lup San, photos by K. F. Yap, on Nature Watch Vol 9 No 4 Oct-Dec 01
   - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.md)
+  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
   (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
   
   **References**

@@ -124,11 +124,11 @@ location:
 
 ## Where seen?
 This fat little green shrimp is sometimes living among branching corals such as
-[Acropora corals](../../../cnidaria/coralhard/acroporidae/acropora.md)
+[Acropora corals](../../../cnidaria/coralhard/acroporidae/acropora)
 (
 *Acropora*
 sp.) and
-[Montipora corals](../../../cnidaria/coralhard/acroporidae/montipora.md)
+[Montipora corals](../../../cnidaria/coralhard/acroporidae/montipora)
 (
 *Montipora*
 sp.). It is usually well hidden and hard to spot and photograph.
@@ -139,7 +139,7 @@ About 1cm long. Body is short and fat, with a bent back. Large eyes wide apart. 
 
 **Double snap:**
 It has a pair of huge flattened pincers that can be larger than its body. Like the
-[snapping shrimps](alpheidae.md)
+[snapping shrimps](alpheidae)
 (Family Alpheidae), the pincer has an enlarged tooth and a special catch. When the catch is released, the tooth makes a loud snapping sound. Unlike the snapping shrimp which only has one such 'snapping' pincer, the Machine gun shrimp has two such pincers, hence its common name. But the 'snaps' of the Machine gun shrimp is not as powerful as those of the snapping shrimps.
 
 The shrimps probably use their snapping pincers to protect their home from animals that might damage the coral. They are not believed to eat their host and simply use the coral as shelter.

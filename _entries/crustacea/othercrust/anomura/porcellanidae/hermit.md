@@ -47,7 +47,7 @@ location:
 
 ## Where seen?
 This tiny porcelain crab is sometimes seen inside large shells occupied by
-[hermit crabs](../hermit/hermit.md)
+[hermit crabs](../hermit/hermit)
 on our Northern shores.
 
 ## Features

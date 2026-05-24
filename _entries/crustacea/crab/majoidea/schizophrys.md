@@ -91,7 +91,7 @@ galleries:
     caption: ''
 links_references: |
   **Links**
-  - [Velcro and Decorator crab of the Family Majidae](http://mangrove.nus.edu.sg/pub/seashore/text/188.md)
+  - [Velcro and Decorator crab of the Family Majidae](http://mangrove.nus.edu.sg/pub/seashore/text/188)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -143,7 +143,7 @@ This large squat crab is sometimes seen on some of our shores, clinging to coral
 ## Features
 
 Body width 4-5cm. Body teardrop-shaped with large spines on the sides. Large eyes on short stalks with a pair of spines between them. Pincers long cylindrical, tucked downwards under the body, claws with spoon-shaped tips. Body and walking legs usually covered with encrustations, except for the ends of the pincers. Some may have small bits and pieces stuck on their bodies, but they are not as well 'decorated' as the
-[Velcro crabs](retusa.md)
+[Velcro crabs](retusa)
 (
 *Camposcia retusa*
 ).

@@ -63,7 +63,7 @@ links_references: |
   **Links**
   - [Creeper Shell (
   *Batillaria zonalis*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/138.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/138)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -115,10 +115,10 @@ large, flared with upturned spout at the tip
 Sometimes, they are seen in 'bands' of many individuals. Small ones have been seen floating on the water surface with the broad foot.
 
 **Sometimes mistaken for**
-[Creeper snails](../cerithiidae/cerithiidae.md)
+[Creeper snails](../cerithiidae/cerithiidae)
 (Family Cerithiidae).
 More on
-[how to tell these snails apart](../certihpotamid.md)
+[how to tell these snails apart](../certihpotamid)
 .
 
 **What does it eat?**

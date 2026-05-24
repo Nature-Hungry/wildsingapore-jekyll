@@ -61,7 +61,7 @@ links_references: |
   : Technical fact sheet and photos.
   - [Introduction to Pennatulacea](http://www.ucmp.berkeley.edu/cnidaria/pennatulacea.html)
   on the Museum of Paleontology, University of California, Berkeley website: a brief introduction with some photos.
-  - [Sea Pens](http://www.lanecc.edu/science/zonation/seapen.md)
+  - [Sea Pens](http://www.lanecc.edu/science/zonation/seapen)
   on the Lane Community College website: short fact sheet on sea pens with lots of photos.
   
   **References**
@@ -85,11 +85,11 @@ Please do not step on or pull sea pens out of the sand. You will hurt a whole co
 
 **What are sea pens?**
 Sea pens belong to
-[Phylum Cnidaria](../../cnidaria.md)
+[Phylum Cnidaria](../../cnidaria)
 which includes the more familiar sea anemones, hard corals and jellyfishes. Sea pens are members of the same
-[Class Anthozoa](../../anthozoa.md)
+[Class Anthozoa](../../anthozoa)
 as sea anemones. Unlike sea anemones which are large solitary polyps, each sea pen is a colony of polyps. Sea pens belong to the Subclass Alcyonaria (Octocorallia) that includes the
-[soft corals](../../coralsoft/coralsoft.md)
+[soft corals](../../coralsoft/coralsoft)
 . Members of this subclass have tentacles which are branched and in multiples of eight. There are about 300 species of known sea pens.
 
 ## Features
@@ -116,24 +116,24 @@ Sea pens are adapted for life on soft sea bottoms. Here, they can dig into the g
 A few sea pens may harbour zooxanthellae (symbiotic algae) inside their bodies. These carry out photosynthesis and may contribute nutrients to the host polyp. But most gather edible bits from the water.
 **Snacking on sea pens:**
 Sea pens are preyed upon by some snails and nudibranchs. The striped
-[Armina nudibranch](../../../mollusca/slugs/nudibranchia/arminina/arminidaenoida.md)
+[Armina nudibranch](../../../mollusca/slugs/nudibranchia/arminina/arminidaenoida)
 (
 *Armina*
 sp.) is among those seen near
-[sea pencils](pencil.md)
+[sea pencils](pencil)
 , and appear to feed on these sea pencils.
 
 **Pen pals:**
 Sea pens are often homes to other small creatures. The tiny
-[Painted porcelain crab](../../../crustacea/othercrust/anomura/porcellanidae/picta.md)
+[Painted porcelain crab](../../../crustacea/othercrust/anomura/porcellanidae/picta)
 (
 *Porcellanella picta*
 ) is often found in the
-[Common sea pen](pteroides.md)
+[Common sea pen](pteroides)
 (
 *Pteroides*
 sp.). Sometimes, tiny transparent shrimps are seen on
-[Flowery sea pens](veretillidae.md)
+[Flowery sea pens](veretillidae)
 (Family Vertillidae)
 
 **Human uses:**
@@ -171,20 +171,20 @@ Names from Erhardt, Harry and Daniel Knop. 2005.
 **Family Veretillidae**
 (Flowery sea pens)
 
-[Flowery sea pen](veretillidae.md)
+[Flowery sea pen](veretillidae)
 
 [*Lituaria*
-sp.](pencil.md)
+sp.](pencil)
 (Sea pencil)
 
 **Family Pennatulidae**
 
-*[Pteroides](spiky.md)*
-[sp.](spiky.md)
+*[Pteroides](spiky)*
+[sp.](spiky)
 (Spiky sea pens)
 
 +
-**[Family Virgulariidae](virgularia.md)**
+**[Family Virgulariidae](virgularia)**
 (Slender sea pens)
 
 ---

@@ -84,16 +84,16 @@ links_references: |
   **Links**
   - [Mud Crab (
   *Scylla serrata*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/203.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/203)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
   - Family Portunidae in the Crabs section by Peter K. L. Ng in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 2: Cephalopods, crustaceans, holothurians and sharks](http://www.fao.org/docrep/009/w7192e/w7192e00.md)
+  [Volume 2: Cephalopods, crustaceans, holothurians and sharks](http://www.fao.org/docrep/009/w7192e/w7192e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
   - [Mud Crabs (
   *Scylla*
-  sp)](http://mangrove.nus.edu.sg/guidebooks/text/2044.md)
+  sp)](http://mangrove.nus.edu.sg/guidebooks/text/2044)
   descriptions of various species of Mud crabs. Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
@@ -146,7 +146,7 @@ This enormous crabs is among our favourite seafood. It is seldom seen and is usu
 ## Features
 
 Body width to about 20cm. Body somewhat fan-shaped with 9 spines on the sides but the last tooth is not enlarged as it is in
-[flower crabs](pelagicus.md)
+[flower crabs](pelagicus)
 . Mud crabs belong to the same family as swimming crabs and their last pair of legs are paddle-shaped. But because they are such large, heavy crabs, they don't use these legs to swim. Instead, the legs are used like spades to burrow with. Unlike flower crabs, mud crabs are able to stay out of water for some time. They come in various colours ranging from dark green (mostly those from mangroves) to bluish green (those found in open waters).
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 There are three species of mud crabs found in Singapore.

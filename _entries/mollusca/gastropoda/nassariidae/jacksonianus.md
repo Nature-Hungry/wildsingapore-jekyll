@@ -49,7 +49,7 @@ links_references: |
   on SeaLife Base: Technical fact sheet.
   - [Mud whelk (
   *Nassarius jacksonianus*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2087.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2087)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.

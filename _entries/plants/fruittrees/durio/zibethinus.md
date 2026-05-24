@@ -64,7 +64,7 @@ links_references: |
 
 ## Where seen?
 The target of many obssessed Singaporeans, Durian trees can still be found growing wild in many parts of Singapore. They often mark the locations of 'kampongs' or villages that have long since been cleared. Pulau Ubin has lots of durian trees. The durian is native of Southeast Asia, with 28 species, mostly in Borneo. There are 13 species in Malaya found in lowland forest. The scientific name comes from the Italian 'zibetto' or
-[civet cat](../../../vertebrates/mammals/hermaphroditus.md)
+[civet cat](../../../vertebrates/mammals/hermaphroditus)
 which also has a noxious smell.
 
 ## Features
@@ -77,10 +77,10 @@ According to Corners, fallen fruits in the wild first attract elephants followed
 According to Tomlinson, a study in west Malaysia found that Durian flowers are pollinated almost entirely by a single species of bat
 *Eonycterus spelaea*
 . This bat roosts primarily in limestone caves and are fast flyers that range up to 50km each night in search of pollen and nectar from a wide variety of plants. Their range include mangroves and the mangrove
-*[Sonneratia](../../mangrove/sonneratia/sonneratia.md)*
-[species](../../mangrove/sonneratia/sonneratia.md)
+*[Sonneratia](../../mangrove/sonneratia/sonneratia)*
+[species](../../mangrove/sonneratia/sonneratia)
 especially
-*[S. alba](../../mangrove/sonneratia/alba.md)*
+*[S. alba](../../mangrove/sonneratia/alba)*
 are important sources of food for these bats.
 
 **Human uses:**

@@ -76,7 +76,7 @@ According to
 species.
 **Sometimes confused with**
 other fan-shaped green seaweeds. Here's more on
-[how to tell apart fan-shaped green seaweeds](cffan.md)
+[how to tell apart fan-shaped green seaweeds](cffan)
 .
 
 **Human uses:**

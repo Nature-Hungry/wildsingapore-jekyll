@@ -39,15 +39,15 @@ galleries:
       caption: ""
 links_references: |
   **Links**
-  - [Algae](http://mangrove.nus.edu.sg/pub/seashore/flora.md)
+  - [Algae](http://mangrove.nus.edu.sg/pub/seashore/flora)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
-  - [Algae](http://mangrove.nus.edu.sg/guidebooks/text/1032.md)
+  - [Algae](http://mangrove.nus.edu.sg/guidebooks/text/1032)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore I (Plant Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
-  [http://mangrove.nus.edu.sg/guidebooks/text/1032.htm](http://mangrove.nus.edu.sg/guidebooks/text/1032.md)
+  [http://mangrove.nus.edu.sg/guidebooks/text/1032.htm](http://mangrove.nus.edu.sg/guidebooks/text/1032)
   - [AlgaeBase](http://www.algaebase.org/)
   : LOTS of very technical information.
   
@@ -89,21 +89,21 @@ Brown seaweeds are only found in the sea and are not found in freshwater.
 
 **Role in the habitat:**
 Brown seaweeds provide shelter and food for small animals. The large sargassum seaweeds in particular may shelter tiny octopuses, shrimps and fishes. The
-[Crosslandia slug](../../../mollusca/slugs/nudibranchia/crosslandia.md)
+[Crosslandia slug](../../../mollusca/slugs/nudibranchia/crosslandia)
 (
 *Crosslandia*
 sp.) looks exactly like a sargassum blade!
 **Human uses:**
 Unlike
-[red seaweeds](../rhodophyta/rhodophyta.md)
+[red seaweeds](../rhodophyta/rhodophyta)
 and
-[green seaweeds](../chlorophyta/chlorophyta.md)
+[green seaweeds](../chlorophyta/chlorophyta)
 , few brown seaweeds are eaten directly by people. There are records that in the Philippines,
-*[Sargassum](sargassum.md)*
+*[Sargassum](sargassum)*
 is widely used in the Ilocos region to enhance the taste of boiled rice or stewed fish. Some species of
 *Sargassum*
 and probably
-*[Turbinaria](turbinaria.md)*
+*[Turbinaria](turbinaria)*
 and
 *Hormophysa*
 are used as feritilisers and additives in poultry and cattle feed.
@@ -124,7 +124,7 @@ Various brown seaweeds
 {% include img-wrap-group.html items=page.galleries.gallery2 %}![](http://www.wildsingapore.com/mollusca/slugs/nudibranchia/crosslandia/060131sjig4508m3.jpg)
 **
 The
-[Crosslandia nudibranch](../../../mollusca/slugs/nudibranchia/crosslandia.md)
+[Crosslandia nudibranch](../../../mollusca/slugs/nudibranchia/crosslandia)
 looks
 
 just like sargassum!
@@ -134,9 +134,9 @@ just like sargassum!
 
 **Division Phaeophyta on Singapore shores**
 
-[text index](../seaweedindex.md)
+[text index](../seaweedindex)
 and
-[photo index](../seaweedfi.md)
+[photo index](../seaweedfi)
 of brown seaweeds on this site
 
 ---

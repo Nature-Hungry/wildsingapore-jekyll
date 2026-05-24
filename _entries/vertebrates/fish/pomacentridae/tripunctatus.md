@@ -123,7 +123,7 @@ links_references: |
   **Links**
   - [Threespot damsel (
   *Pomacentrus tripunctatus*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/344.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/344)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.

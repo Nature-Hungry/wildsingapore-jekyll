@@ -63,21 +63,21 @@ galleries:
     caption: Mound crab
 links_references: |
   **Links**
-  - [Sesarmine crabs](http://mangrove.nus.edu.sg/guidebooks/text/2048.md)
+  - [Sesarmine crabs](http://mangrove.nus.edu.sg/guidebooks/text/2048)
   ,
   [Tree-climbing/Vinegar crabs (
   *Episesarma*
-  spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2049.md)
+  spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2049)
   ,
   [Mangrove tree-dwelling crab (
   *Selatium brockii*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2050.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2050)
   , Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
-  - [Sesarmine Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/198.md)
+  - [Sesarmine Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/198)
   ;
-  *[Selatium brockii](http://mangrove.nus.edu.sg/pub/seashore/text/199.md)*
+  *[Selatium brockii](http://mangrove.nus.edu.sg/pub/seashore/text/199)*
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/t)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -166,7 +166,7 @@ Clistocoeloma merguiense*
 
 ****
 [*Episesarma*
-sp.](episesarma.md)
+sp.](episesarma)
 **tree climbing crabs**
 *with list of species recorded for Singapore
 
@@ -210,13 +210,13 @@ Perisesarma dussumieri
 
 Perisesarma/Chiromantes eumolpe=^Perisesarma eumolpe*
 (
-[Face-banded sesarmine crabs](perisesarma.md)
+[Face-banded sesarmine crabs](perisesarma)
 )
 *+Perisesarma fasciatum
 
 Perisesarma indiarum*
 (
-[Face-banded sesarmine crabs](perisesarma.md)
+[Face-banded sesarmine crabs](perisesarma)
 )
 *+Perisesarma cf. lenzii
 
@@ -228,11 +228,11 @@ Perisesarma semperi
 
 +Pseudosesarma edwardsi*
 **
-[Sarmatium germaini](sarmatium.md)*
+[Sarmatium germaini](sarmatium)*
 (Mound crab) (EN: Endangered)
 *Sarmatium striaticarpus
 
-[Selatium brockii](brockii.md)*
+[Selatium brockii](brockii)*
 (Mangrove tree-dwelling crabs)
 
 *Sesarmoides borneensis*

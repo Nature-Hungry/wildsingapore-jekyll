@@ -37,7 +37,7 @@ links_references: |
   - [*Bruguiera sexangula*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3641)
   on the NParks Flora and Fauna website: photos and fact sheet.
   - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.md)
+  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
   (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
   - [*Bruguiera sexangula*](http://www.iucnredlist.org/apps/redlist/details/178843/0)
   on the IUCN Red List website: detailed fact sheet.
@@ -77,7 +77,7 @@ According to the NParks Flora and Fauna website, the tree is the preferred local
 .
 
 **Sometimes mistaken for**
-[Tumu](gymnorrhiza.md)
+[Tumu](gymnorrhiza)
 (
 *Bruguiera gymnorrhiza*
 ) but differs in smaller, thinner leaves and the flower petal tips are blunt without hairy tassels.

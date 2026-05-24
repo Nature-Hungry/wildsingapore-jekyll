@@ -73,14 +73,14 @@ links_references: |
   **Links**
   - [Family Ovulidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Ovulidae.html)
   on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief fact sheet with photos.
-  - [Family Ovulidae (Egg Cowries)](http://seashellsofnsw.org.au/Ovulidae/Pages/ovulidae.md)
+  - [Family Ovulidae (Egg Cowries)](http://seashellsofnsw.org.au/Ovulidae/Pages/ovulidae)
   on the
-  [The Seashells of New South Wales](http://seashellsofnsw.org.au/index.md)
+  [The Seashells of New South Wales](http://seashellsofnsw.org.au/index)
   website by Des Beechey Research Associate, Australian Museum: family introductions with photos of shells and detailed fact sheets for many species.
   - [Ovulids (False cowries)](http://www.seaslugforum.net/factsheet.cfm?base=ovulids)
   on Dr Bill Rudman's Sea Slug Forum website: a brief intro to Onchidium with lots of emails queries and photos and Dr Rudman's responses to them.
   - Family Ovulidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   **References**
@@ -127,15 +127,15 @@ location:
 
 ## Where seen?
 These amazing snails are seen on our
-[sea fans](../../../cnidaria/others/gorgonacea/gorgonacea.md)
+[sea fans](../../../cnidaria/others/gorgonacea/gorgonacea)
 and
-[flowery soft corals](../../../cnidaria/coralsoft/nephtheidae.md)
+[flowery soft corals](../../../cnidaria/coralsoft/nephtheidae)
 , particularly on our Northern shores.
 
 ## Features
 
 1-3cm. These snails have shells that resemble those of the
-[cowries](../cypraeidae/cypraeidae.md)
+[cowries](../cypraeidae/cypraeidae)
 (Family Cypraeidae) and are thus sometimes called False cowries. Some also have long narrow shells with pointy tips at both ends that resemble a spinning spindle and are thus also called Spindle cowries. The ovulid shell is usually plain, unmarked and white.
 
 Compared to true cowries, ovulid shells lack strong teeth and are usually elongated. Like the true cowries, the adult ovulid doesn't have an operculum. Ovulids also cover the shell with their mantle. The mantle usually has the same colour and texture as the animal that they live on. Some also accumulate in their mantle, the toxic chemicals from their prey.
@@ -176,9 +176,9 @@ from Wong, H. W., 2011.
 
 On this website, they are grouped by external features for convenience of display.*
 
-[Red spindle cowries](red.md)
+[Red spindle cowries](red)
 
-[Soft coral false cowries](softcoral.md)
+[Soft coral false cowries](softcoral)
 
 **Family Ovulidae**
 
@@ -230,15 +230,15 @@ Margovula pyriformis
 
 Naviculavolva deflexa
 
-[Pellasimnia](pellasimnia.md)*
-[sp.](pellasimnia.md)
+[Pellasimnia](pellasimnia)*
+[sp.](pellasimnia)
 *(Rose spindle cowrie)
 
 Pellasimnia angasi
 
 Pellasimnia improcera
 
-[Phenacovolva barbieri](barbieri.md)*
+[Phenacovolva barbieri](barbieri)*
 (Dalmation spindle cowrie)
 *Phenacovolva birostris
 
@@ -246,7 +246,7 @@ Phenacovolva brevirostris
 
 Phenacovolva dancei
 
-[Phenacovolva nectarea](nectarea.md)*
+[Phenacovolva nectarea](nectarea)*
 (Nectar spindle cowrie)
 *Phenacovolva philippinarum
 

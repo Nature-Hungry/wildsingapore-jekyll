@@ -54,7 +54,7 @@ links_references: |
   **Links**
   - [Brown shore goby (
   *Drombus triangularis*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/364.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/364)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
@@ -102,9 +102,9 @@ Up to about 5cm, those seen about 3-5cm. It has a chubby face with small eyes an
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Living with a shrimp:**
 This fish is sometimes seen sharing a burrow with a
-[Smooth snapping shrimp](../../../crustacea/othercrust/shrimp/alphsmooth.md)
+[Smooth snapping shrimp](../../../crustacea/othercrust/shrimp/alphsmooth)
 . More about the
-[goby and shrimp partnership](shrimpgoby.md)
+[goby and shrimp partnership](shrimpgoby)
 .
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**Species are difficult to positively identify without close examination.

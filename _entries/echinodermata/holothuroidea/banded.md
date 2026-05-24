@@ -84,7 +84,7 @@ links_references: |
   ****
   - *Holothuria impatiens*
   on
-  [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00.md)
+  [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00)
   , by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
 location:
 - skd

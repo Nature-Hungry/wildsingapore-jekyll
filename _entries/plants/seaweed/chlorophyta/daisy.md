@@ -79,7 +79,7 @@ location:
 
 ## Where seen?
 This tiny seaweed is often overlooked. It grows on stones and coral rubble, often near the
-['Taugeh' seaweed](neomeris.md)
+['Taugeh' seaweed](neomeris)
 (
 *Neomeris*
 sp.)

@@ -41,13 +41,13 @@ galleries:
       caption: Very long ribbon worm
 links_references: |
   **Links**
-  - [Ribbon worm](http://mangrove.nus.edu.sg/pub/seashore/text/125.md)
+  - [Ribbon worm](http://mangrove.nus.edu.sg/pub/seashore/text/125)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/t)*
   . The Singapore Science Centre, Singapore. 160 pp.
   - [Mangrove ribbon worm (
   *Pantinonemertes*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2003.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2003)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
@@ -82,9 +82,9 @@ Ribbon worms regularly seen in coral rubble areas on many of our shores. They ar
 
 **What are ribbon worms?**
 Ribbon worms are unsegmented
-[worms](../worm.md)
+[worms](../worm)
 belonging to Phylum Nemertea. They are quite different from the segmented worms that we are more familiar with such as earthworms and
-[bristleworms](../polychaeta/polychaeta.md)
+[bristleworms](../polychaeta/polychaeta)
 . These belong to Phylum Annelida. According to
 [the Nemertes website](http://nemertes.si.edu/)
 , there are approximately 1,000 valid, described species of ribbon worms, with possibly several times this number that remain to be named or discovered! Ribbon worms are found in oceans, freshwaters, and also on land.
@@ -134,13 +134,13 @@ Ribbon worms commonly seen awaiting identification
 
 On this website, they are grouped by external features for convenience of display.*
 
-[Pink ribbon worm](pink.md)
+[Pink ribbon worm](pink)
 
-[Red reef ribbon worm](redreef.md)
+[Red reef ribbon worm](redreef)
 
-[Short ribbon worm](short.md)
+[Short ribbon worm](short)
 
-[Two-toned ribbon worm](twotone.md)
+[Two-toned ribbon worm](twotone)
 
 **Family Geonemertidae**
 
@@ -150,7 +150,7 @@ On this website, they are grouped by external features for convenience of displa
 **Family Valenciniidae**
 
 +
-[*Baseodiscus quinquelineatus*](verylong.md)
+[*Baseodiscus quinquelineatus*](verylong)
 (Very long ribbon worm)
 
 ---

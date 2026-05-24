@@ -137,9 +137,9 @@ These nervous little animals are commonly seen on almost all our shores, often s
 
 **What are sea slaters?**
 Sea slaters are sometimes called sea cockroaches. Although sea slaters are also
-[arthropods](../../../arthropoda/arthropoda.md)
+[arthropods](../../../arthropoda/arthropoda)
 , they are not insects! They are
-[crustaceans](../../crustacea.md)
+[crustaceans](../../crustacea)
 like crabs and prawns; but are very happy out of water.
 ## Features
 

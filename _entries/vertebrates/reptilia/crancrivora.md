@@ -21,7 +21,7 @@ galleries:
       caption: "Pasir Ris Park, Dec 25 Photo shared by Rui Quan Oh on facebook ."
 links_references: |
   **Links**
-  - [Crab-eating frog](http://www.ecologyasia.com/verts/lizards/green-crested_lizard.md)
+  - [Crab-eating frog](http://www.ecologyasia.com/verts/lizards/green-crested_lizard)
   on Nick Baker's EcologyAsia website: fact sheet with photos.
   - [*Fejervarya cancrivora*](https://singapore.biodiversity.online/taxo4254/mainSpace/Fejervarya%20cancrivora.html)
   (Anura: Dicroglossidae) Crab-eating Frog on Taxo4254.

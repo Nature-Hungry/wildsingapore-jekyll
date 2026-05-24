@@ -33,4 +33,4 @@ galleries:
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **
 back to
-[general info on daisy green seaweed](daisy.md)
+[general info on daisy green seaweed](daisy)

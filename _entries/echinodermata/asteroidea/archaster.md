@@ -265,7 +265,7 @@ Adults diameter with arms to about 12-15cm. Smaller juveniles are rarely seen. B
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
 **Sometimes confused with**
 the
-[Eight-armed sand star](luimaculata.md)
+[Eight-armed sand star](luimaculata)
 . The Eight-armed sand star has, well, eight arms and large tube feet with pointed tips. While most Common sea stars have five arms (although some may have six), and all have large tube feet with sucker-shaped tips.
 
 **What does it eat?**
@@ -286,7 +286,7 @@ Juveniles are found in prop roots of mangroves and gradually inhabits sandy shor
 A tiny parastic snail (
 *Parvioris fulvescens*
 ) is said to be sometimes found on the underside of the common sea star. Here's some of the parasitic
-[Ulimid snails](../../mollusca/gastropoda/eulimidae/eulimidae.md)
+[Ulimid snails](../../mollusca/gastropoda/eulimidae/eulimidae)
 (Family Eulimidae) seen on our Common sea stars.
 
 **Is our sea star special?**

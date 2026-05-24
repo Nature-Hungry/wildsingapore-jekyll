@@ -130,13 +130,13 @@ links_references: |
   - ****
   [Seahorse (
   *Hippocampus*
-  sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/229.md)
+  sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/229)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
   - [Spotted Seahorse (
   *Hippocampus kuda*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/248.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/248)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)
   .*
@@ -194,11 +194,11 @@ This seahorse is sometimes seen on many of our Northern shores, among seagrasses
 6-10cm long. Body without large, obvious spines. Colours seen include yellow, brown, sometimes pinkish or even orangey. Some have spots on the body. Often seen in a pair near one another, not necessarily in the same colour: e.g,. one is bright yellow, the other is dark; brown or even black. Sometimes, very tiny ones only about 2cm long are seen among seaweeds. These tend to be 'hairy'.
 
 It's difficult to tell this seahorse apart from the
-[Tiger-tailed seahorse](comes.md)
+[Tiger-tailed seahorse](comes)
 (
 *Hippocampus comes*
 ). More on
-[how to tell apart the Tiger-tail and Estuarine seahorses](cfcomeskuda.md)
+[how to tell apart the Tiger-tail and Estuarine seahorses](cfcomeskuda)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

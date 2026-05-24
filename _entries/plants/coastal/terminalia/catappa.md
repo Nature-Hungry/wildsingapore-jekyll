@@ -47,7 +47,7 @@ links_references: |
   - [Know 10 trees in Singapore](http://www.nparks.gov.sg/cms/index.php?option=com_content&view=article&id=183&Itemid=161)
   on the NParks website: fact sheet with lots of photos of various parts of the tree.
   - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.md)
+  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
   (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
   - [Autumn colours on our shores](http://wildshores.blogspot.com/2009/03/autumn-colours-on-our-shores.html)
   on the wild shores of singapore blob.
@@ -95,12 +95,12 @@ According to Corners, fruit bats eat the husk of the fruit. According to Giersen
 
 **Sometimes other similar trees are mistaken**
 for Sea almond. Here's more on
-[how to tell apart Sea almond and other similar trees on the shores](../cfketapang.md)
+[how to tell apart Sea almond and other similar trees on the shores](../cfketapang)
 .
 
 **Human uses:**
 In Singapore, aquarists often put the leaves in their aquariums as they have an antibacterial effect due to the release of tannic and humic acid, which is believed to promote the fish health and provide a calming effect. According to Burkill, the timber is considered good as it is elastic, easy to work and seasons well. It is used interchangeably in some places as
-[Penaga Laut](../calophyllum/inophyllum.md)
+[Penaga Laut](../calophyllum/inophyllum)
 (
 *Callophyllum innophylum*
 ) for building things that need to be tough and durable such as houses, boats and carts. Although the embryo is edible, tasting like almonds, it is not worth the effort to extract. Medicinal uses include the bark to treat dysentery, leaves applied to rheumatic joints, juice of young leaves for headache and colic. According to Wee, the leaves are used in the Philippines to expel intestinal worms.

@@ -31,13 +31,13 @@ links_references: |
   **Links**
   - [Dusky-gilled mudskipper (
   *Periophthalmus novemradiatus*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2106.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2106)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
   - [Dusky-gilled mudskipper (
   *Periophthalmus novemradiatus*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/372.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/372)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
@@ -68,7 +68,7 @@ A small, well camouflaged mudskipper that is commonly seen near mangroves and ot
 ## Features
 
 4-6cm. A small mudskipper with iridiscent bluish speckles on its head and body. Its pectoral and tail fins are reddish near the body with transparent edges. The fish is only positively identified by looking at their underside, to see the blackish area near the gills. More about
-[how to tell apart small mudskippers](cfmudsmall.md)
+[how to tell apart small mudskippers](cfmudsmall)
 commonly found on our shores.
 
 ![](http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/novemradiatus/071129blyd7686m3.jpg)

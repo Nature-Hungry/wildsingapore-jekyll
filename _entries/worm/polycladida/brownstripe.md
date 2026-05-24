@@ -227,7 +227,7 @@ This brownish flatworm with a bold stripe down the centre is often encountered o
 5-8cm long. Usually with deep ruffles. Body light to dark brown with darker brown to black narrow margins (no inner white margin). Center of the body raised with one dark brown line with diffuse white edges. Underside uniformly paler colouration with same margin as the upperside of the body. It has a pair of pseudotentacles at the front that are square, ear-like, with white tips.
 
 **Sometimes mistaken for**
-[Bayer's flatworm](bayeri.md)
+[Bayer's flatworm](bayeri)
 which has a dark body and distinctive bright white margins inside the dark outer margin.
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

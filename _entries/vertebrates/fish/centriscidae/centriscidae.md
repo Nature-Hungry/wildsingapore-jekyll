@@ -115,7 +115,7 @@ links_references: |
   **Links**
   - [Longspine Razorfish (
   *Aeoliscus strigatus*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/246.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/246)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
@@ -131,7 +131,7 @@ links_references: |
   from
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet on the family.
-  - [Vol. 4. Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.md)
+  - [Vol. 4. Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
 
   **References**
@@ -182,7 +182,7 @@ the dorsal spine is hinged, and thus moveable. When the spine is bent, it looks 
 
 **Sometimes mistaken for**
 other fishes that resemble sticks and twigs. Here's more on
-[how to tell apart stick-like fishes](../cfstick.md)
+[how to tell apart stick-like fishes](../cfstick)
 commonly seen on our shores.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Camou Colours:**
@@ -190,13 +190,13 @@ Their colours may change depending on their surroundings. Some are greenish-yell
 
 **Not fishy!**
 They don't look or behave like a typical fish, and thus often overlooked. They usually swim head down in small synchronised groups, often among the spines of large sea urchins such as the
-[Long-spined sea urchin](../../../echinodermata/echinoidea/urchin/diadema.md)
+[Long-spined sea urchin](../../../echinodermata/echinoidea/urchin/diadema)
 or over
-[sea fans](../../../cnidaria/others/gorgonacea/gorgonacea.md)
+[sea fans](../../../cnidaria/others/gorgonacea/gorgonacea)
 , branching
-[hard corals](../../../cnidaria/coralhard/coralhard.md)
+[hard corals](../../../cnidaria/coralhard/coralhard)
 and
-[sea whips](../../../cnidaria/others/gorgonacea/gorgonacea.md)
+[sea whips](../../../cnidaria/others/gorgonacea/gorgonacea)
 . But they do swim horizontally and can make a swift getaway.
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**What do they eat?**

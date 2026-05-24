@@ -58,22 +58,22 @@ galleries:
     caption: Very pregnant piepfish papa. Changi, Jun 13
 links_references: |
   **Links**
-  - [Pipefish (Family Syngnathidae)](http://mangrove.nus.edu.sg/pub/seashore/text/230.md)
+  - [Pipefish (Family Syngnathidae)](http://mangrove.nus.edu.sg/pub/seashore/text/230)
   ,
   [Seahorse (
   *Hippocampus*
-  sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/229.md)
+  sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/229)
   Tan, Leo W. H. & Ng, Peter K. L., 1988,
   *A
   [Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
   - [Blue-speckled Pipefish (
   *Hippichthys cyanospilus*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/250.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/250)
   ,
   [Spotted Seahorse (
   *Hippocampus kuda*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/248.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/248)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
@@ -149,10 +149,10 @@ ike other creatures of the intertidal zone, they are affected by human activitie
 
 **Family Syngnathidae**
 
-**[Pipefishes](pipefish.md)**
+**[Pipefishes](pipefish)**
 with list of species recorded for Singapore
 
-**[Seahorses](hippocampus.md)**
+**[Seahorses](hippocampus)**
 with list of species recorded for Singapore
 
 ---

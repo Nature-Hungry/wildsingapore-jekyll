@@ -56,7 +56,7 @@ galleries:
       facebook .
 links_references: |
   **Links**
-  - [Cotton stainer bugs](http://mangrove.nus.edu.sg/guidebooks/text/2013.md)
+  - [Cotton stainer bugs](http://mangrove.nus.edu.sg/guidebooks/text/2013)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)
   II (Animal Diversity)*
@@ -76,13 +76,13 @@ location:
 
 ## Where seen?
 This colourful insect is sometimes seen in numbers when the Sea hibiscus is fruiting. These colourful bugs feed on the seeds of the
-[Sea Hibiscus](../plants/coastal/hibiscus/tiliaceus.md)
+[Sea Hibiscus](../plants/coastal/hibiscus/tiliaceus)
 (
 *Hibiscus tiliaceus*
 ). Both adults and nymphs are often found in groups under the leaves or among the flowers of this plant. Another related
 *Dysdercus*
 feeds on the
-[Portia tree](../plants/coastal/thespesia/populnea.md)
+[Portia tree](../plants/coastal/thespesia/populnea)
 (
 *Thespesia populnea*
 ); it looks similar but has a black head.

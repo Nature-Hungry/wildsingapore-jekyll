@@ -79,7 +79,7 @@ links_references: |
   **Links**
   - [Ornate goby (
   *Istigobius ornatus*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/361.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/361)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
@@ -134,7 +134,7 @@ Large for a goby, it grows to about 10cm. Those seen usually about 8cm. Bulbous 
 
 **Sometimes confused with**
 the
-[Black-spotted lagoon-goby](goldmanni.md)
+[Black-spotted lagoon-goby](goldmanni)
 (
 *Istigobius goldmanni*
 ) which has pairs of close-set round black spots along the side of the body.

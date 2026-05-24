@@ -52,14 +52,14 @@ galleries:
       caption: "Developing babies Changi, Jul 03"
 links_references: |
   **Links**
-  - [Squid](http://mangrove.nus.edu.sg/pub/seashore/text/167.md)
+  - [Squid](http://mangrove.nus.edu.sg/pub/seashore/text/167)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
   - [The Cephalopod Page](http://www.thecephalopodpage.org/)
   by Dr James B Wood on the Dalhousie University and the University of Texas Medical Branch website: everything you could possibly want to know about cephalopods. Lots of info, photos, articles and links to cephalopods. Lots of fabulous photos, a delightful and exhaustive FAQ, and lots of cool articles for the laymen. With a very cute ink-squiring squid cursor!
   - Cephalopods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
   
   **References**
@@ -90,17 +90,17 @@ These amazing animals are seasonally common on many of our shores. Tiny squids a
 
 **What are squids and cuttlefish?**
 They are not fish! These animals are
-[molluscs](../mollusca.md)
+[molluscs](../mollusca)
 (Phylum Molusca) like snails, slugs and clams; and
-[cephalopods](../cephalopoda.md)
+[cephalopods](../cephalopoda)
 (Class Cephalopoda) which include
-[octopuses](octopus.md)
+[octopuses](octopus)
 . Most of the commonly encountered cuttlefishes belong to
-[Order Sepiida](sepiidae.md)
+[Order Sepiida](sepiidae)
 , while our commonly encountered squids belong to Order Teuthida,
-[Family Loliginidae](loliginidae.md)
+[Family Loliginidae](loliginidae)
 . The strange ball-shaped cuttlefish-like animals we see belong to
-[Order Sepiolida](sepiolida.md)
+[Order Sepiolida](sepiolida)
 . Some small squids and cuttlefish live in the shallow areas among the seagrasses. Others live in deeper waters and may get trapped in a pool at low tide.
 
 ## Features
@@ -136,7 +136,7 @@ Eggs are laid in capsules, attached to hard objects and surfaces; or inserted in
 Squids usually mate only once in their life and die soon after mating and laying eggs. Cuttlefish don't produce as many eggs as squids.
 
 Here's more photos of
-[squid and cuttlefish eggs](cepeggs.md)
+[squid and cuttlefish eggs](cepeggs)
 sometimes seen.
 
 ---
@@ -173,7 +173,7 @@ from Tan Siong Kiat and Henrietta P. M. Woo, 2010
 
 **Order Sepiida**
 
-[**Family Sepiidae**](sepiidae.md)
+[**Family Sepiidae**](sepiidae)
 **
 (Cuttlefishes) with list of species recorded for Singapore
 
@@ -184,20 +184,20 @@ from Tan Siong Kiat and Henrietta P. M. Woo, 2010
 
 **Order Teuthida**
 
-[**Family Loliginidae**](loliginidae.md)
+[**Family Loliginidae**](loliginidae)
 **
 (Pencil squids) with list of species recorded for Singapore
 
 **Order Sepiolida**
 
-**[Family Sepiolidae](sepiolida.md)**
+**[Family Sepiolidae](sepiolida)**
 (Bobtail squids) with list of species recorded for Singapore
 
 **Family Idiosepiidae**
 (Pygmy squids)
 
 [*Idiosepius*
-sp.](pygmy.md)
+sp.](pygmy)
 (Pygmy squids)
 
 ---

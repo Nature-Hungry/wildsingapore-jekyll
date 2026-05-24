@@ -47,7 +47,7 @@ location:
 
 ## Where seen?
 This small anemone with branching tentacles is sometimes seen in soft mudflats near mangroves and freshwater flows at the Kranji Dam sluice gate. It is often found among
-[Petal-mouthed mangrove anemones](mangrove.md)
+[Petal-mouthed mangrove anemones](mangrove)
 , in much smaller numbers.
 
 ## Features

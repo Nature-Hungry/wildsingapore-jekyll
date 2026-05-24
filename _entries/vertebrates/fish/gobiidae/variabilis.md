@@ -41,7 +41,7 @@ links_references: |
   from
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet.
-  - [Dusky-gilled mudskipper](http://www.ecologyasia.com/verts/fishes/dusky-gilled-mudskipper.md)
+  - [Dusky-gilled mudskipper](http://www.ecologyasia.com/verts/fishes/dusky-gilled-mudskipper)
   on
   [EcologyAsia](http://www.ecologyasia.com/)
   : photo and fact sheet
@@ -67,7 +67,7 @@ A small, well camouflaged mudskipper that is commonly seen near mangroves and ot
 ## Features
 
 4-6cm. A small mudskipper with iridiscent bluish speckles on their head and body. Its pectoral and tail fins are reddish at the edges. The fish is only positively identified by looking at their underside, to see the blackish area near the gills. More about
-[how to tell apart small mudskippers](cfmudsmall.md)
+[how to tell apart small mudskippers](cfmudsmall)
 commonly found on our shores.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Species are difficult to positively identify without close examination.

@@ -91,7 +91,7 @@ links_references: |
   **Links**
   - [Broad-barred Acropora Goby (
   *Gobiodon histrio*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/358.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/358)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
@@ -129,7 +129,7 @@ location:
 
 ## Where seen?
 Found only in
-[Acropora hard corals](../../../cnidaria/coralhard/acroporidae/acropora.md)
+[Acropora hard corals](../../../cnidaria/coralhard/acroporidae/acropora)
 , it is often seen on many of our Southern islands.
 
 ## Features
@@ -140,12 +140,12 @@ produce a bitter mucus.
 
 **Sometimes mistaken for**
 the
-[Machine gun coral shrimp](../../../crustacea/othercrust/shrimp/coralliocaris.md)
+[Machine gun coral shrimp](../../../crustacea/othercrust/shrimp/coralliocaris)
 which also lives in Acropora hard corals and is sometimes also green with orange stripes.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Coral friend:**
 This fish lives among the branches of
-[Acropora hard corals](../../../cnidaria/coralhard/acroporidae/acropora.md)
+[Acropora hard corals](../../../cnidaria/coralhard/acroporidae/acropora)
 . A study showed that this fish almost never leaves its coral home and stays despite low oxygen levels in the water and even when the coral is exposed at low tide. To do so, the fish is able to breathe air! There is rarely more than two of these fishes in one colony of Acropora coral. They can change gender from male to female or female to male.
 
 **Human uses:**

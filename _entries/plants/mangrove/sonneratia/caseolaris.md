@@ -54,13 +54,13 @@ links_references: |
   on the NParks Flora and Fauna website: photos and fact sheet.
   - [Berembang (
   *Sonneratia caseolaris*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/1074.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/1074)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)
   I (Plant Diversity)*
   . Singapore Science Centre. 168 pp.
   - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.md)
+  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
   (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
   
   **References**
@@ -102,7 +102,7 @@ Tall tree 5-15m tall. The young branches hang down like those of the weeping wil
 ). Bark slightly fissued, young stems and branches smooth waxy brown. Conical pneumatophores at first greenish grey with flaky bark that may grow to 1.5-2m tall at maturity. Many narrow roots may grow horizontally into the substrate at the base of the pneumatophore.
 
 Leaves nearly circular, oval or eye-shaped (5-13cm) narrow at the base, leathery, arranged opposite one another. The leaves have a 'tidy' appearance compared to those of
-[Perepat](alba.md)
+[Perepat](alba)
 (
 *Sonneratia alba*
 ).
@@ -116,10 +116,10 @@ According to the NParks Flora and Fauna website, Berembang is the preferred loca
 , and
 *Trabala vishnou*
 . Fireflies are also associated with this tree (see page on
-[*Sonneratia*](sonneratia.md)
+[*Sonneratia*](sonneratia)
 in general).
 The
-[Atlas moth](../../../insecta/atlas.md)
+[Atlas moth](../../../insecta/atlas)
 (
 *Attacus atlas*
 ) has been seen feeding on the tree.

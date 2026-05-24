@@ -148,7 +148,7 @@ links_references: |
   .
   - [The Slug Site:](http://slugsite.us/)
   photo and fact sheet on the Branch of the Week
-  *[Discodoris boholiensis](http://slugsite.us/bow/nudwk239.md)*
+  *[Discodoris boholiensis](http://slugsite.us/bow/nudwk239)*
 
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
@@ -201,7 +201,7 @@ Avoid handling the animal as it easily breaks off (autotomises) portions of its 
 
 **What does it eat?**
 It eats
-[sponges](../../../porifera/porifera.md)
+[sponges](../../../porifera/porifera)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

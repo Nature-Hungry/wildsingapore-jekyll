@@ -88,13 +88,13 @@ This smooth brown sponge forms a ridged layer over coral rubble and is sometimes
 Thin layer encrusting small areas 10-20cm sometimes larger. Often with irregular low 'walls', folds, knobs and lobes. In deeper water, it may have taller lobes or turrets (to 30cm). Texture smooth and velvety (not rubbery or glossy) because the surface has a layer of tiny needle-shaped spicules. Tiny holes at the top of folds and scattered elsewhere. Colours ochre to golden and orangey brown.
 
 **May be confused with**
-[Blue icing sponges](smoothblue.md)
+[Blue icing sponges](smoothblue)
 (
 *Lendenfeldia*
 cf.
 *chondrodes*
 ) which look similar but are blue, green or lilac. Also similar to
-[Smooth green sponge](smoothgreen.md)
+[Smooth green sponge](smoothgreen)
 which is not as smooth has has a texture of tiny bumps.
 **Human uses:**
 The sponge is sticky when crushed and fishermen in Micronesia use this sponge to caulk (waterproof) their canoes.

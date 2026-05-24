@@ -107,7 +107,7 @@ links_references: |
   **Links**
   - [Blue-spotted Fantail Ray (
   *Taeniura lymma*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/204.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/204)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
@@ -119,7 +119,7 @@ links_references: |
   on
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet.
-  - [Volume 3: Batoid fishes, chimaeras and bony fishes part 1 (Elopidae to Linophrynidae)](http://www.fao.org/docrep/009/x2401e/x2401e00.md)
+  - [Volume 3: Batoid fishes, chimaeras and bony fishes part 1 (Elopidae to Linophrynidae)](http://www.fao.org/docrep/009/x2401e/x2401e00)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
   - *[Taeniura lymma](http://www.iucnredlist.org/details/39412/0)*
   from IUCN Red List.

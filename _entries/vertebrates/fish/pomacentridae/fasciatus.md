@@ -121,7 +121,7 @@ links_references: |
   **Links**
   - [Yellow-banded damsel (
   *Dischistodus fasciatus*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/341.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/341)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.

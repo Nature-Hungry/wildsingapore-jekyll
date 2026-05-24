@@ -69,9 +69,9 @@ galleries:
     caption: Pulau Biola, Jan 22 Photo shared by Vincent Choo on facebook .
 links_references: |
   **Links**
-  - [*Pardalina testudinaria*](http://seashellsofnsw.org.au/Columbellidae/Pages/Pardalina_testudinaria.md)
+  - [*Pardalina testudinaria*](http://seashellsofnsw.org.au/Columbellidae/Pages/Pardalina_testudinaria)
   on
-  [The Seashells of New South Wales](http://seashellsofnsw.org.au/index.md)
+  [The Seashells of New South Wales](http://seashellsofnsw.org.au/index)
   by Des Beechey Research Associate, Australian Museum: family introductions with photos of shells and detailed fact sheets for many species.
   - [*Pardalina testudinaria*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=102108)
   on SeaLife Base: Technical fact sheet.

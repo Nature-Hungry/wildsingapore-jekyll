@@ -113,7 +113,7 @@ The colony may be thick, disk-like with a highly ruffled edge, or encrusting wit
 It has only one kind of polyp (autozooid) although there are very tiny spots among the autozooids giving the leathery common tissue has a rather 'crystalline' appearance. The transparent polyps are tiny (0.2cm), 8 short conical tentacles with tiny branches, the body column hardly seen. The autozooids can retract completely into the common tissue. In some, the autozooids emerge from small lumps or even long tubular segments of the common tissue. The animals harbour symbiotic algae (zooxanthellae).
 
 During one night trip, a large colony was seen with many
-[tiny brittle stars](../../echinodermata/ophiuroidea/tinycolourful.md)
+[tiny brittle stars](../../echinodermata/ophiuroidea/tinycolourful)
 all over the surface. This has not been observed during daylight visits.
 
 **Status and threats:**

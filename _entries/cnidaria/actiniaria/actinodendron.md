@@ -189,7 +189,7 @@ Diameter with tentacles expanded 15-20cm. About 40 fat, fleshy cylindrical tenta
 
 **Sometimes mistaken for**
 a
-[flowery soft coral](../coralsoft/nephtheidae.md)
+[flowery soft coral](../coralsoft/nephtheidae)
 (Family Nephtheidae). While the soft corals don't sting, fire anemones do!
 
 **Fiery Stinger:**
@@ -200,7 +200,7 @@ Do not touch the sea anemone.
 
 **Fiery friends:**
 Usually, we don't see symbiotic animals living in a Fire anemone. But once, a
-[Peacock-tail anemone shrimp](../../crustacea/othercrust/shrimp/brevicarpalis.md)
+[Peacock-tail anemone shrimp](../../crustacea/othercrust/shrimp/brevicarpalis)
 (
 *Periclimenes brevicarpalis*
 ) was seen in a Fire anemone.

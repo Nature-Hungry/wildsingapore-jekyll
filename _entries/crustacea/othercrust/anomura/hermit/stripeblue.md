@@ -144,7 +144,7 @@ location:
 
 ## Where seen?
 This small hermit crab is seen near mangroves, on sandy shores and among seagrasses. Elsewhere, it is found around rivers and mangroves on mud or sand. Usually, only one is seen. It is not seen in such abundance as the
-[Orange-striped hermit crab](stripeorange.md)
+[Orange-striped hermit crab](stripeorange)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 ## Features
@@ -153,7 +153,7 @@ Body 1-2cm long, mostly plain pale. Both pincers are more or less equal in size 
 
 More on how to tell apart
 [*Clibanarius*
-hermit crabs](clibanarius.md)
+hermit crabs](clibanarius)
 .
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

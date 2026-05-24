@@ -69,7 +69,7 @@ location:
 
 ## Where seen?
 This large brittle star is well hidden inside
-[Ball flowery soft corals](../../cnidaria/coralsoft/nepball.md)
+[Ball flowery soft corals](../../cnidaria/coralsoft/nepball)
 and often overlooked. Its white arms with markings often closely match the colours of its host.
 
 ## Features

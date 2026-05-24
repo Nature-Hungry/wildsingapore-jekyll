@@ -172,9 +172,9 @@ Body to about 1cm long. Its head and huge jaws are smooth maroon, body and legs 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**
 These spiders have been seen clutching in their jaws all kinds of animals including
-[shore crickets](../insecta/cricketshore.md)
+[shore crickets](../insecta/cricketshore)
 ,
-[sea slaters](../crustacea/othercrust/isopoda/ligia.md)
+[sea slaters](../crustacea/othercrust/isopoda/ligia)
 and little shrimps.
 
 **Baby spiders:**

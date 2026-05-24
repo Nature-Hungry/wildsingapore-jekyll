@@ -44,13 +44,13 @@ links_references: |
   **Links**
   - [Javanese fatnose goby (
   *Pseudogobius javanicus*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2107.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2107)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
   - [Javanese fatnose goby (
   *Pseudogobius javanicus*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/376.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/376)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.

@@ -18,5 +18,5 @@ on
 .
 
 back to
-[general info on plantain squirrels](notatus.md)
+[general info on plantain squirrels](notatus)
 ****

@@ -81,14 +81,14 @@ This armina nudibranch is sometimes seen on Changi and some of our Northern shor
 , the coloured wiggly lines seen on the underside of the body are not gills although gas exchange may take place. These act like the cerata of aeolids, a place where the digestive gland can expand. These lines often are the same colour of their sea pen food.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Sometimes mistaken for**
-[Semper's armina nudibranch](semperi.md)
+[Semper's armina nudibranch](semperi)
 (
 *Armina semperi*
 ) that has a more colourful oral veil and foot and lacks 'bumps' on its face.
 
 **What does it eat?**
 As a group, the armina nudibranchs eat soft corals and sea pens. The bumpy-faced armina nudibranch is often seen near
-[sea pencils](../../../cnidaria/others/pennatulacea/pencil.md)
+[sea pencils](../../../cnidaria/others/pennatulacea/pencil)
 . It is possible that they eat the sea pencils.
 [Bill Rudman](http://www.seaslugforum.net/showall/armisemp)
 has a post sharing how an armina nudibranch feeds on a sea pen and is dragged down into the sand when the sea pen retracts.

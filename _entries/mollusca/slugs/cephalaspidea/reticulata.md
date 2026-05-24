@@ -37,7 +37,7 @@ galleries:
     caption: Cyrene Reef, Feb 16 Photo shared by Loh Kok Sheng on flickr .
 links_references: |
   **Links**
-  - *[Philinopsis reticulata](http://www.seaslugforum.net/philreti.md)*
+  - *[Philinopsis reticulata](http://www.seaslugforum.net/philreti)*
   on
   [The Sea Slug Forum](http://www.seaslugforum.net/)
   by Dr Bill Rudman: photos and fact sheets.
@@ -67,7 +67,7 @@ This small slug was seen at Cyrene in a sandy area near seagrasses and reefs.
 
 **What does it eat?**
 Some species eat
-[bubble shell snails](hamineoidae.md)
+[bubble shell snails](hamineoidae)
 , hunting them by following their slime trail then swallowing them whole.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

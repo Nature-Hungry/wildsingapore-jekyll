@@ -112,14 +112,14 @@ Body diameter 4-5cm, sometimes tiny ones about 1cm in diameter are seen among se
 
 **May be confused with**
 the
-[Long-spined black sea urchin](diadema.md)
+[Long-spined black sea urchin](diadema)
 (
 *Diadema*
 sp.) which has much longer spines and is not often seen on the Northern shores.
 
 **Prickly Home:**
 Sometimes, an
-[Urchin-mouth worm](../../../worm/polychaeta/oxydromus.md)
+[Urchin-mouth worm](../../../worm/polychaeta/oxydromus)
 is seen curled around the mouth of the sea urchin.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

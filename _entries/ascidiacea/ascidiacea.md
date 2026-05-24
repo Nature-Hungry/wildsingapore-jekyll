@@ -39,7 +39,7 @@ galleries:
 links_references: |
   **Links**
   - [Sea Squirt
-  *Polycarpa*](http://mangrove.nus.edu.sg/pub/seashore/text/226.md)
+  *Polycarpa*](http://mangrove.nus.edu.sg/pub/seashore/text/226)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -47,7 +47,7 @@ links_references: |
   : technical fact sheets
   - [The Dutch Ascidians Homepage](http://www.ascidians.com/)
   by Arjan Gittenberger: general introduction and photos of a wide range of ascidians.
-  - [Ascidians: Sea Squirts, Tunicates](http://www.seaslugforum.net/ascidian.md)
+  - [Ascidians: Sea Squirts, Tunicates](http://www.seaslugforum.net/ascidian)
   on the Sea Slug Forum by Dr Bill Rudman: an introduction with close-up photos.
   - [Ascidians](http://www.mesa.edu.au/friends/seashores/ascidians.html)
   on
@@ -116,9 +116,9 @@ Our ascidians are not listed among the threatened animals of Singapore. However,
 
 **Class Ascidiacea on Singapore shores**
 
-[text index](ascidiaceaindex.md)
+[text index](ascidiaceaindex)
 and
-[photo index](ascidiaceafi.md)
+[photo index](ascidiaceafi)
 of ascidians seen on Singapore shores
 
 ---

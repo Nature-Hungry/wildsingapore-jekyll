@@ -48,7 +48,7 @@ links_references: |
   **Links**
   - [Sea Lettuce (
   *Ulva*
-  sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/103.md)
+  sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/103)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -149,7 +149,7 @@ and
 
 It is also reported to have antibacterial properties, and to be used to treat goiter, gout, scrofula, burns and other irritants. Sea lettuce also makes good packing material to cover more valuable
 [*Caulerpa*
-seaweeds](caulerpa.md)
+seaweeds](caulerpa)
 during shipping and transport, or to cover fish for sale. As sea lettuce tends to grow well in polluted waters, it is also used as an indicator of water quality.
 
 ![](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/ulva/090110cjd4696m3.jpg)
@@ -171,12 +171,12 @@ Transparent blade: reproducing?
 
 *![](http://www.wildsingapore.com/echinodermata/echinoidea/urchin/temnopleurus/080703chgd6690m3.jpg)*
 Tiny
-[black sea urchin](../../../echinodermata/echinoidea/urchin/temnopleurus.md)
+[black sea urchin](../../../echinodermata/echinoidea/urchin/temnopleurus)
 in sea lettuce.
 *Changi, Jul 08
 
 ![](http://www.wildsingapore.com/vertebrates/fish/syngnathidae/seagrass/050426cftg5087m3d.jpg)*
-[Pipefish](../../../vertebrates/fish/syngnathidae/seagrass.md)
+[Pipefish](../../../vertebrates/fish/syngnathidae/seagrass)
 camouflaged on sea lettuce.
 *Changi, Apr 05*
 

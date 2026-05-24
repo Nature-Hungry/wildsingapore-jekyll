@@ -67,7 +67,7 @@ Diameter 5-10cm with tentacles expanded. Many tentacles mostly on the edge of th
 
 *Isactinia citrina*
 can also look like
-[Posy anemones](posy.md)
+[Posy anemones](posy)
 .
 
 **Status and threats:**

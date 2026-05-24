@@ -88,7 +88,7 @@ links_references: |
   **Links**
   - [What are Sea Hares?](http://www.seaslugforum.net/factsheet.cfm?base=seahares)
   on the
-  [Sea Slug Forum](http://www.seaslugforum.net/welcome.md)
+  [Sea Slug Forum](http://www.seaslugforum.net/welcome)
   by Dr Bill Rudman: all about sea hares.
   - [A test of novel function(s) for the ink of sea hares](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6T8F-3VTHRN1-C&_user=10&_rdoc=1&_fmt=&_orig=search&_sort=d&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=526635ec034c51da46823167b883fa0a)
   Thomas H. Carefoota, Steven C. Pennings and Jean Paul Danko, Aug 98, abstract on Science Direct.
@@ -127,18 +127,18 @@ links_references: |
 
 ## Where seen?
 Among the largest
-[sea slugs](../../slug.md)
+[sea slugs](../../slug)
 to be seen, sea hares may be commonly seen on our Northern and Southern shores in silty and sandy areas near seagrasses and with seaweeds. However, they appear to be seasonal. Sometimes they are everywhere, at other times, none are to be seen.
 
 **What are sea hares?**
 Sea hares are molluscs. They belong to
-[Phylum Mollusca](../../mollusca.md)
+[Phylum Mollusca](../../mollusca)
 and
-[Class Gastropoda](../../gastropoda.md)
+[Class Gastropoda](../../gastropoda)
 like snails. Like many other sea slugs (
-[Subclass Opistobranchia](../../slug.md)
+[Subclass Opistobranchia](../../slug)
 ), sea hares lack external shells as adults. Sea hares belong to Order Anaspidea and are NOT
-[nudibranchs](../../nudibranchia.md)
+[nudibranchs](../../nudibranchia)
 , which belong to a different Order Nudibranchia.
 
 ## Features
@@ -151,7 +151,7 @@ Like other gastropods, most sea hares have a shell, but this is reduced, thin an
 
 **Sometimes confused with**
 other sea slugs that appear similar but belong to different orders. Here's more on how to tell apart
-[sea hares from other sea slugs](../../nudiharesac.md)
+[sea hares from other sea slugs](../../nudiharesac)
 .
 
 **You are what you eat:**
@@ -210,38 +210,38 @@ from Tan Siong Kiat and Henrietta P. M. Woo, 2010
 **Family Aplysiidae**
 
 *Aplysia cornigera*
-*[Aplysia dactylomela](dactylomela.md)*
+*[Aplysia dactylomela](dactylomela)*
 (Black-tailed sea hare)
-*[Aplysia extraordinaria](extraordinaria.md)*
+*[Aplysia extraordinaria](extraordinaria)*
 (Extraordinary sea hare)
 **
 *Aplysia kurodai*
 *+
-[Aplysia oculifera](spotted.md)*
+[Aplysia oculifera](spotted)*
 (Spotted sea hare)
 *+
-[Aplysia parvula](parvula.md)*
+[Aplysia parvula](parvula)*
 (Mini sea hare)
 *+Aplysiomorpha*
 sp.
-*[Bursatella leachii](bursatella.md)*
+*[Bursatella leachii](bursatella)*
 (Hairy sea hare)
-*[Dolabella auricularia](dolabella.md)*
+*[Dolabella auricularia](dolabella)*
 (Wedge sea hare)
 **
 +
 [*Phyllaplysia*
-sp.](seagrass.md)
+sp.](seagrass)
 (Seagrass sea hare)
 **Placobranchus virgatus=Thuridilla virgata*
 (now in
-[Family Plakobranchidae](../sacoglossa/elysiidae.md)
+[Family Plakobranchidae](../sacoglossa/elysiidae)
 )
-*[Stylocheilus](stylocheilus.md)*
-[sp.](stylocheilus.md)
+*[Stylocheilus](stylocheilus)*
+[sp.](stylocheilus)
 (Furry sea hare)
 **
-*[Syphonata geographica](geographica.md)*
+*[Syphonata geographica](geographica)*
 (Geographic sea hare)
 
 ---

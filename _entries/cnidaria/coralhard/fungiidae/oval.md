@@ -86,7 +86,7 @@ Oval to elongated convex disks with rounded ends, to about 15-25cm long. Promine
 
 **Sometimes confused with**
 other long mushroom corals. Here's more on how to
-[tell apart elongated mushroom hard corals](cflong.md)
+[tell apart elongated mushroom hard corals](cflong)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

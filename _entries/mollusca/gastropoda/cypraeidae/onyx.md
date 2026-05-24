@@ -68,7 +68,7 @@ links_references: |
   - Onyx cowrie (
   *Cypraea onyx*
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   **References**
@@ -109,9 +109,9 @@ This stunning snail with a golden-brown shell is sometimes seen on our undisturb
 
 **Sometimes mistaken for**
 a
-[sea slug](../../slug.md)
+[sea slug](../../slug)
 . When the shell is completely covered in its mantle, it is sometimes mistaken for a sea slug. Here's more on
-[how to tell apart slugs and animals that look like slugs](../../../glossary/flatwormslug.md)
+[how to tell apart slugs and animals that look like slugs](../../../glossary/flatwormslug)
 .
 
 **Human uses:**

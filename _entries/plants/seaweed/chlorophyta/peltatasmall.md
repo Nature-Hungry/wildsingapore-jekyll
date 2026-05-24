@@ -87,14 +87,14 @@ This green seaweed with tiny fleshy 'umbrellas' is sometimes seen on our Souther
 ## Features
 
 Forms structures that look like tiny fleshy umbrellas; with a thick circular portion (about 0.5-1cm across) on a little stalk. These little umbrellas emerge along the length of a 'horizontal root' that creeps over the surface. Various shades of green to bluish-green. This is probably a variety of
-[Oval sea grapes](racemosa.md)
+[Oval sea grapes](racemosa)
 (
 *Caulerpa racemosa*
 ).
 
 **Sometimes confused with**
 similar green seaweeds. Here's more on
-[how to tell apart some green seaweeds](cfgrapes.md)
+[how to tell apart some green seaweeds](cfgrapes)
 .
 
 ![](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltatasmall/070728sisd4512m3.jpg)

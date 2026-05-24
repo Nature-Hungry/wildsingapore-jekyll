@@ -64,7 +64,7 @@ Many coralline algae produce chemicals that promote the settlement of larvae of 
 
 ![](http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/050610sntg7603m3.jpg)
 
-[Encrusting coralline algae](encrust.md)
+[Encrusting coralline algae](encrust)
 *Sentosa, Jun 05
 *![](http://www.wildsingapore.com/mollusca/gastropoda/trochidae/maculatus/040817sntd4622m3.jpg)**
 Growing on a shell of a living snail
@@ -82,7 +82,7 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
 
 **Seaweed species are difficult to positively identify without microscopic examination. On this website, they are grouped by external features for convenience of display.*
 
-[Encrusting red algae](encrust.md)
+[Encrusting red algae](encrust)
 ****
 
 **Family Corallinaceae**

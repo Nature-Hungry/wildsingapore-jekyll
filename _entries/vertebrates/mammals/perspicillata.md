@@ -49,9 +49,9 @@ links_references: |
   . 7 Mar 2014. Singapore Biodiversity Records 2014: 64 on the
   [Lee Kong Chian Natural History Museum website](http://lkcnhm.nus.edu.sg/)
   .
-  - [Smooth Otter](http://www.ecologyasia.com/verts/mammals/smooth_otter.md)
+  - [Smooth Otter](http://www.ecologyasia.com/verts/mammals/smooth_otter)
   on Nick Baker's EcologyAsia website: fact sheet with photos.
-  - [Ring Of Bright Water, a close encounter with the otters of Sungei Buloh](http://www.ecologyasia.com/html-loc/ring-of-bright-water.md)
+  - [Ring Of Bright Water, a close encounter with the otters of Sungei Buloh](http://www.ecologyasia.com/html-loc/ring-of-bright-water)
   on Nick Baker's EcologyAsia website
   - From
   [Wetlands](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/sungei-buloh-wetland-reserve/wetlands-newsletter)

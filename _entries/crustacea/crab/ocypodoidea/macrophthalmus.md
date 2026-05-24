@@ -80,7 +80,7 @@ links_references: |
   **Links**
   - [Sentinel crabs (
   *Macrophthalmus*
-  spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2055.md)
+  spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2055)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
@@ -134,11 +134,11 @@ This inconspicous little crab with eyes on super long stalks are sometimes seen 
 
 Body width 0.5-1cm. Body is flattened, squarish or somewhat rectangular. The eye stalks are long and in some species can even extend outside the sides of the body. This feature probably gave them their common name. Both pincers of equal size.
 **Sometimes confused with**
-[fiddler crabs](uca.md)
+[fiddler crabs](uca)
 (
 *Uca*
 spp.). Sentinel crabs do not have one enlarged pincer like the fiddler crabs. Sentinel crabs are also not colourful, usually drab brown with darker mottling. Here's more on
-[how to tell apart small crabs with long eye stalks](cflongeyedcrabs.md)
+[how to tell apart small crabs with long eye stalks](cflongeyedcrabs)
 .
 
 **What does it eat?**
@@ -195,7 +195,7 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 +Ilyograpsus sp.
 
 Ilyograpsus paludicola
-[macrophthalmus.htm](macrophthalmus.md)
+[macrophthalmus.htm](macrophthalmus)
 
 Macrophthalmus boscii
 

@@ -53,7 +53,7 @@ links_references: |
   on
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet on the order, including fact sheets on individual species
-  - [Volume 3: Batoid Fishes](http://www.fao.org/docrep/009/x2401e/x2401e00.md)
+  - [Volume 3: Batoid Fishes](http://www.fao.org/docrep/009/x2401e/x2401e00)
   edited by Kent E. Carpenter and Volker H. Niem FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific on the Food and Agriculture Organization of the United Nations (FAO) website (pdf).
 
   **References**
@@ -79,11 +79,11 @@ This rather chubby ray with a stumpy tail was seen on Changi several times, amon
 
 **What are electric rays?**
 Electric rays are
-[rays](../dasyatidae/rajiformes.md)
+[rays](../dasyatidae/rajiformes)
 belonging to Order Torpediniformes. Some scientists group these fishes in the Family Narcinidae which according to
 [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=503)
 has 9 genera and 24 species. They are found in the Atlantic, Indian and Pacific Oceans. Numbfishes are different from
-[stingrays](../dasyatidae/dasyatidae.md)
+[stingrays](../dasyatidae/dasyatidae)
 that belong to the Family Dasyatidae.
 
 ## Features

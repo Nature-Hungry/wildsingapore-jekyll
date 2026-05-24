@@ -54,7 +54,7 @@ links_references: |
   **Links**
   - [Blue-spotted Stingray (
   *Dasyatis kuhlii*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/203.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/203)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
@@ -64,7 +64,7 @@ links_references: |
   on
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet.
-  - [Volume 3: Batoid fishes, chimaeras and bony fishes part 1 (Elopidae to Linophrynidae)](http://www.fao.org/docrep/009/x2401e/x2401e00.md)
+  - [Volume 3: Batoid fishes, chimaeras and bony fishes part 1 (Elopidae to Linophrynidae)](http://www.fao.org/docrep/009/x2401e/x2401e00)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
   - [*Neotrygon kuhlii*](http://www.iucnredlist.org/details/161590/0)
   from IUCN Red List.
@@ -96,9 +96,9 @@ To about 40cm in diameter, those seen about 15-20cm. Body kite-shaped with round
 
 **Sometimes mistaken for**
 a
-[horseshoe crab](../../../arthropoda/limulidae/limulidae.md)
+[horseshoe crab](../../../arthropoda/limulidae/limulidae)
 and visa versa. In murky waters, these two different animals do have a similar profile, both being round and flat with a long tail. The
-[Blue-spotted fantail ray](lymma.md)
+[Blue-spotted fantail ray](lymma)
 (
 *Taeniura lymma*
 ) has bright and prominent spots and is more commonly seen near reefs.

@@ -112,7 +112,7 @@ links_references: |
   **Links**
   - [*Aplysia oculifera*](http://www.seaslugforum.net/find/aplyocul)
   on the
-  [Sea Slug Forum](http://www.seaslugforum.net/welcome.md)
+  [Sea Slug Forum](http://www.seaslugforum.net/welcome)
   by Dr Bill Rudman: all about sea hares.
 
   **References**
@@ -154,7 +154,7 @@ This large spotted sea hare is sometimes seen on many of our shores, on sandy sh
 
 **Sometimes confused with**
 the
-[Geographic sea hare](geographica.md)
+[Geographic sea hare](geographica)
 which has a pattern of tiny white spots that form patterns with fine horizontal lines along the body. The Spotted sea hare doesn't have fine horizontal lines along the body.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

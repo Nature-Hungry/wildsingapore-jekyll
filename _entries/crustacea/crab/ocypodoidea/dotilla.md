@@ -96,13 +96,13 @@ links_references: |
   **Links**
   - [Soldier crab (
   *Dotilla*
-  sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/192.md)
+  sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/192)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
   - [Soldier crab (
   *Dotilla myctiroides*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2052.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2052)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
@@ -156,7 +156,7 @@ Body width to about 1.5cm. Body spherical, greenish eyes on short thick reddish 
 
 *Dotilla wichmani*
 looks like other
-[sand bubbler crabs](scopimera.md)
+[sand bubbler crabs](scopimera)
 . It is smaller (body width up to 1cm) and prefers sandier areas not wandering far from its hole.
 *Dotilla myctiroides*
 is larger (body width up to 1.5cm) and is found in muddier areas often moving around in large groups at low tide. This habit of 'trooping' in numbers gave these crabs their common name.

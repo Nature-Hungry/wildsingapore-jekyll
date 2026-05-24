@@ -115,7 +115,7 @@ species may be related to specialised feeding habits. Unlike many other corals,
 tentacles do not possess clusters of stinging cells, and so may be adapted to capture food particles using water and cilia (microscopic hair-like projections).
 
 **Sometimes confused with**
-[Pearl bubble coral](plerogyra.md)
+[Pearl bubble coral](plerogyra)
 which has round grape-like bubbles when fully inflated.
 
 **Euphyllia babies:**
@@ -165,27 +165,27 @@ on the
 
 +from our observation
 
-**[Family Euphyllidae](euphylliidae.md)
+**[Family Euphyllidae](euphylliidae)
 
 Genus
 *Euphyllia***
 
 Group 1: Species forming trumpet-like corallites (phaceloid)
 
-*[Euphyllia glabrescens](glabrescens.md)*
+*[Euphyllia glabrescens](glabrescens)*
 (Torch Anchor coral) (Near Threatened)
 
 *+
-[Euphyllia paraancora](paraancora.md)*
+[Euphyllia paraancora](paraancora)*
 (Branching anchor coral) (Vulnerable)
 
 +
-[*Euphyllia paradivisa*](paradivisa.md)
+[*Euphyllia paradivisa*](paradivisa)
 (Frog spawn coral) (Vulnerable)
 
 Group 2: Species forming brain-like colonies (flabello-meandroid)
 
-*[Euphyllia ancora](ancora.md)*
+*[Euphyllia ancora](ancora)*
 ** (Brain anchor coral) (Vulnerable)
 
 *Euphyllia divisa*

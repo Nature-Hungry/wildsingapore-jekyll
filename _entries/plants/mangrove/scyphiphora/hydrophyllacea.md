@@ -40,13 +40,13 @@ links_references: |
   on the NParks Flora and Fauna website: photos and fact sheet.
   - [Chengam (
   *Scyphiphora hydrophyllacea*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/1072.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/1072)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)
   I (Plant Diversity)*
   . Singapore Science Centre. 168 pp.
   - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.md)
+  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
   (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
   ****
   
@@ -76,7 +76,7 @@ Flowers tiny (0.5cm) in dense clusters about 3-4cm across. Corolla with four whi
 Fruit tiny (0.5cm) oblong with 6-8 ridges, first green then white. The outer layer of the fruit is fleshy with a corky inner layer. The fruit separates into two halves when ripe. Each fruit contains 4 or fewer seeds. The fruits float because of the spongy inner layer.
 
 **Sometimes mistaken for**
-[Teruntum](../lumnitzera/lumnitzera.md)
+[Teruntum](../lumnitzera/lumnitzera)
 (
 *Lumnitzera*
 sp.), which has its leaves arranged in a spiral.

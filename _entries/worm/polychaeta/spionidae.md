@@ -49,7 +49,7 @@ galleries:
     caption: Pulau Sekudu, Jul 19 Photo shared by Rene Ong on facebook ..
 links_references: |
   **Links**
-  - [Family Spionidae polychaetes in New Zealand](http://www.annelida.net/nz/Polychaeta/Family/F-Spionidae.md)
+  - [Family Spionidae polychaetes in New Zealand](http://www.annelida.net/nz/Polychaeta/Family/F-Spionidae)
   on the NZWA guide to polychaetes: technical fact sheet.
   ****
 

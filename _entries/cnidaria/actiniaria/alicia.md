@@ -122,9 +122,9 @@ Some Alicia anemones have a powerful and nasty sting.
 Do not touch the sea anemone.
 
 **Sometimes mistaken for**
-[cerianthids](../others/ceriantharia/ceriantharia.md)
+[cerianthids](../others/ceriantharia/ceriantharia)
 when their tentacles are expanded. Unlike Alicia anemones, cerianthids live in a tube and don't have bumps on their body column. When retracted, may also resemble some kinds of
-[corallimorphs](../others/corallimorphs/corallimorph.md)
+[corallimorphs](../others/corallimorphs/corallimorph)
 , which tend to occur in clusters of many individuals while Alicia anemones are usually found alone.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Status and threats:**

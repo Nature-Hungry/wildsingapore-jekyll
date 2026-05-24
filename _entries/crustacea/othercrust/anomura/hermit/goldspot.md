@@ -72,7 +72,7 @@ Body about 1-1.5cm long. Body and legs black with large orange, yellow, white sp
 
 More on how to tell apart
 [*Clibanarius*
-hermit crabs](clibanarius.md)
+hermit crabs](clibanarius)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

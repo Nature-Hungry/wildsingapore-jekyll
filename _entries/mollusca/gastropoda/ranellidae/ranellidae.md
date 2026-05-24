@@ -126,7 +126,7 @@ from Tan Siong Kiat and Henrietta P. M. Woo, 2010
 
 *Biplex perca*
 [*Cymatium*
-sp.](cymatium.md)
+sp.](cymatium)
 (Leopard triton snail)
 *Cymatium caudatum=^Ranularia caudata
 
@@ -144,7 +144,7 @@ Gyrineum gyrinum
 
 Gyrineum lacunatum
 
-[Gyrineum natator](gyrineum.md)*
+[Gyrineum natator](gyrineum)*
 (Common triton snails)
 
 +

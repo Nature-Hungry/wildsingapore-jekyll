@@ -47,9 +47,9 @@ links_references: |
   - [*Chaetomorpha*
   spp.](http://www.seaslugforum.net/factsheet.cfm?base=chaetomorpha)
   on the Sea Slug Forum: close up photo and description of the seaweed.
-  - [*Chaetomorpha crassa*](http://www.naturia.per.sg/cjsurvey/vegetative/text/chaetomorpha%20crassa.md)
+  - [*Chaetomorpha crassa*](http://www.naturia.per.sg/cjsurvey/vegetative/text/chaetomorpha%20crassa)
   and
-  *[Chaetomorpha linum](http://www.naturia.per.sg/cjsurvey/vegetative/text/chaetomorpha%20linum.md)*
+  *[Chaetomorpha linum](http://www.naturia.per.sg/cjsurvey/vegetative/text/chaetomorpha%20linum)*
   coverage on Chek Jawa during the 2001 Chek Jawa survey.
   - [*Chaetomorpha*](http://www.algaebase.org/search/genus/detail/?genus_id=35)
   on
@@ -106,11 +106,11 @@ According to
 species.
 
 **Sometimes confused with**
-[Hairy green seaweed](bryopsis.md)
+[Hairy green seaweed](bryopsis)
 (
 *Bryopsis*
 sp.) which has much shorter filaments and appears feathery. Here's more on
-[how to tell apart some green seaweeds](cffeathery.md)
+[how to tell apart some green seaweeds](cffeathery)
 .
 
 **Human uses:**

@@ -56,9 +56,9 @@ links_references: |
   .*
   - [The Slug Site:](http://slugsite.us/)
   photo and fact sheet on the Branch of the Week
-  *[Ceratosoma sinuata](http://slugsite.us/bow/nudwk242.md)*
+  *[Ceratosoma sinuata](http://slugsite.us/bow/nudwk242)*
   and discussion of difficulties in differentiating the species,
-  *[Ceratosoma tenue](http://slugsite.us/bow2007/nudwk555.md)*
+  *[Ceratosoma tenue](http://slugsite.us/bow2007/nudwk555)*
 
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010 Preliminary Checklist of The Molluscs of Singapore (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
@@ -106,7 +106,7 @@ have a long 'horn' that stick out and curves towards the head. This acts as a de
 
 **What does it eat?**
 It is eats
-[sponges](../../../porifera/porifera.md)
+[sponges](../../../porifera/porifera)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

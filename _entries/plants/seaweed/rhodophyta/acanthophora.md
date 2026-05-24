@@ -73,11 +73,11 @@ galleries:
     caption: Terumbu Semakau, May 10
 links_references: |
   **Links**
-  - *[Acanthophora spicifera](http://www.hawaii.edu/reefalgae/invasive_algae/rhodo/acanthophora_spicifera.md)*
+  - *[Acanthophora spicifera](http://www.hawaii.edu/reefalgae/invasive_algae/rhodo/acanthophora_spicifera)*
   from
-  [Marine Algae of Hawai`i](http://www.hawaii.edu/reefalgae/default.md)
+  [Marine Algae of Hawai`i](http://www.hawaii.edu/reefalgae/default)
   on the University of Hawai`i Botany Department website: fact sheet with photos.
-  - *[Acanthophora spicifera](http://www.sms.si.edu/IRLSpec/Acanth_spicif.md)*
+  - *[Acanthophora spicifera](http://www.sms.si.edu/IRLSpec/Acanth_spicif)*
   by the Smithsonian Marine Station at Fort Pierce: fact sheet with photos.
   - [*Acanthophora*](http://www.algaebase.org/search/genus/detail/?genus_id=33926)
   on

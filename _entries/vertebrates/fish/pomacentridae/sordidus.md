@@ -65,7 +65,7 @@ This fish was seen once at Sisters Islands near living reefs.
 ## Features
 
 To about 23cm, the one seen about 8cm long. Head and body white. It is identified by the prominent black spot at the top of the tail just before the tail fin. Like other sergeants, it has about 6 dark or grey bars. More on
-[how to tell apart sergeants](pomacentridae.md)
+[how to tell apart sergeants](pomacentridae)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**

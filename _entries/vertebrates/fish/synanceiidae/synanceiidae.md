@@ -37,13 +37,13 @@ links_references: |
   **Links**
   - [Hollow-cheek Stonefish (
   *Synanceia horrida*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/256.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/256)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
   - [Stonefish (
   *Synanceia horrida*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/231.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/231)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -77,7 +77,7 @@ links_references: |
   : Technical fact sheet.
   - [Reef Stonefish (
   *Synanceia verrucosa*
-  )](http://www.amonline.net.au/fishes/students/focus/sverruc.md)
+  )](http://www.amonline.net.au/fishes/students/focus/sverruc)
   on the
   [Australian Museum Fish Site](http://www.amonline.net.au/fishes/fishfacts/)
   on the Australian Museum Online website: fact sheet with photos and video clips of these fishes on the move.
@@ -119,7 +119,7 @@ These gruesome looking fishes can sting painfully.
 Stonefishes belong to Family Synanceiidae. According to
 [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=578)
 : the family has 9 genera and 31 species. They are found in the Indo-Pacific oceans. They are sometimes classified as members of the
-[Family Scorpaenidae](../scorpaenidae/scorpaenidae.md)
+[Family Scorpaenidae](../scorpaenidae/scorpaenidae)
 .
 ****
 
@@ -128,7 +128,7 @@ Stonefishes belong to Family Synanceiidae. According to
 Stonefishes do look like stones!
 
 The
-**[Hollow-cheek stonefish](horrida.md)**
+**[Hollow-cheek stonefish](horrida)**
 (
 *Synanceia horrida*
 ) is commonly encountered on the the intertidal.
@@ -141,7 +141,7 @@ The
 
 **Sometimes mistaken for**
 scorpionfishes. Here's more on
-[how to tell apart fishes that look like stones](../cfstonefish.md)
+[how to tell apart fishes that look like stones](../cfstonefish)
 .
 
 ---
@@ -171,7 +171,7 @@ Inimicus didactylus
 
 Minous monodactylus
 
-[Synanceia horrida](horrida.md)*
+[Synanceia horrida](horrida)*
 (Hollow-cheeked stonefish)
 *Synanceia verrucosa*
 (Reef stonefish)

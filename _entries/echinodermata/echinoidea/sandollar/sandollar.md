@@ -217,9 +217,9 @@ location:
 Sand dollars are seen on many of our sandy shores and can be particularly common on Chek Jawa, Tanah Merah and some Southern shores. Usually half buried in the sand. Some kinds of sand dollars are more commonly seen near seagrasses.
 **What are sand dollars?**
 Sand dollars are animals! Seeing one for the first time, it may be hard to believe that these are living creatures. They are so flat and appear lifeless. Sand dollars belong to Phylum
-[Echinodermata](../../echinodermata.md)
+[Echinodermata](../../echinodermata)
 and Class
-[Echinoidea](../echinoidea.md)
+[Echinoidea](../echinoidea)
 which includes sea urchins and heart urchins.
 
 ## Features
@@ -245,15 +245,15 @@ Sand dollars may appear dead, but they are very much alive. A living sand dollar
 
 {% include img-wrap-group.html items=page.galleries.gallery4 %}**Why do some sand dollars have holes in them?**
 The
-[Keyhole sand dollar](echinodiscus.md)
+[Keyhole sand dollar](echinodiscus)
 got its common name from the intriguing slot-shaped holes in the body (called lunules). Suggestions for the function of these slots range from helping the animal to burrow, right itself, find food or to prevent the waves from lifting it out of the sand. The last is the most widely accepted explanation.
 **What eats sand dollars?**
 Some snails such as the
-[Grey bonnet](../../../mollusca/gastropoda/cassidae/glaucum.md)
+[Grey bonnet](../../../mollusca/gastropoda/cassidae/glaucum)
 are believed to feed on sand dollars. They are sometimes seen on top of a sand dollar. A
-[Knobbly sea star](../../asteroidea/protoreaster.md)
+[Knobbly sea star](../../asteroidea/protoreaster)
 was seen with its stomach stuck to a sand dollar. A
-[Haddon's carpet anemone](../../../cnidaria/actiniaria/haddoni.md)
+[Haddon's carpet anemone](../../../cnidaria/actiniaria/haddoni)
 was also seen in the process of engulfing one.
 
 {% include img-wrap-group.html items=page.galleries.gallery5 %}
@@ -292,18 +292,18 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 
 ****
 **
-[Arachnoides placenta](arachnoides.md)*
+[Arachnoides placenta](arachnoides)*
 ****
 (Cake sand dollar)
 
 **Family Laganidae**
 
-*[**Jacksonaster depressum](depressum.md)
+*[**Jacksonaster depressum](depressum)
 =Laganum depressum*
 (Thick-edged sand dollar) (VU: Vulnerable)
 *Laganum decagonale
 
-[Peronella lesueuri](peronella.md)*
+[Peronella lesueuri](peronella)*
 (Pink sand dollar)
 *Peronella orbicularis
 
@@ -313,7 +313,7 @@ sp.
 **Family Scutellidae=**Astriclypeidae**
 
 [*Echinodiscus*
-sp.](echinodiscus.md)
+sp.](echinodiscus)
 (Keyhole sand dollar)
 ***Echinodiscus bisperforatus truncatus=Echinodiscus bisperforatus=*Echinodiscus truncatus*
 (VU: Vulnerable)

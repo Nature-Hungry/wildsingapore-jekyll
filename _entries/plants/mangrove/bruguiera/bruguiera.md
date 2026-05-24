@@ -64,15 +64,15 @@ links_references: |
   **Links**
   - [Bakau putih (
   *Bruguiera cylindrica*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/1053.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/1053)
   ,
   [Tumu (
   *Bruguiera gymnorrhiza*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/1054.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/1054)
   ,
   [Lenggadai (
   *Bruguiera parviflora*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/1055.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/1055)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)
   I (Plant Diversity)*
@@ -105,7 +105,7 @@ links_references: |
 
 ## Where seen?
 While
-[Bakau putih](cylindrica.md)
+[Bakau putih](cylindrica)
 (
 *Bruguiera cylindrica*
 ) is one of the most commonly seen trees in our mangroves, others are less common, and some are quite rare.
@@ -113,22 +113,22 @@ While
 ## Features
 
 A tree generally with knee roots, sometimes without. Leaves eye-shaped, shiny green and stiff, lacking the tiny black spots on the underside that is typical of
-*[Rhizophora](../rhizophora/rhizophora.md)*
+*[Rhizophora](../rhizophora/rhizophora)*
 . Flowers small, usually with cup-shaped calyx. Petals thin and fringed with hairs. The stamens are enclosed in pairs in a 'pouched petal'. When triggered, the pouch explodes, dousing the pollinator with pollen. Propagule develops on the parent plant and may be long and thin or thick and short depending on the species.
 
 **Human uses:**
 The timber and other parts of these trees have many traditional applications. See the fact sheets for the individual species for more details.
 
 **Status and threats:**
-[Lenggadai](parviflora.md)
+[Lenggadai](parviflora)
 (
 *Bruguiera parviflora*
 ) is listed as 'Endangered' and
-[Bakau mata buaya](hainesii.md)
+[Bakau mata buaya](hainesii)
 (
 *Bruguiera hainesii*
 ) and
-[Tumu berau](sexangula.md)
+[Tumu berau](sexangula)
 (
 *Bruguiera sexangula*
 ) are both listed as 'Critically Endangered' in the Red List of threatened plants of Singapore.

@@ -71,9 +71,9 @@ Among the large nudibranchs on our shores, it is reported to grow to 50cm long! 
 
 **What does it eat?**
 As a group, the armina nudibranchs eat
-[soft corals](../../../cnidaria/coralsoft/coralsoft.md)
+[soft corals](../../../cnidaria/coralsoft/coralsoft)
 and
-[sea pens](../../../cnidaria/others/pennatulacea/pennatulacea.md)
+[sea pens](../../../cnidaria/others/pennatulacea/pennatulacea)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

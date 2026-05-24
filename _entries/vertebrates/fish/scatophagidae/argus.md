@@ -68,19 +68,19 @@ links_references: |
   **Links**
   - [Spotted Scat (
   *Scatophagus argus*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/326.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/326)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
   - [Scat or Butterfish (
   *Scatophagus argus*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/244.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/244)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
   - [Spotted scat (
   *Scatophagus argus*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2110.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2110)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp

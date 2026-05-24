@@ -68,9 +68,9 @@ These round spiky fishes are seldom seen. So far, in seagrass meadows.
 Porcupinefishes belong to the Family Diodontidae. According to
 [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=448)
 : the family has 19 genera and 121 species. They are found in tropical and subtropical ares of the Atlantic, Indian and Pacific oceans. Other similar fishes belong to different families: boxfishes and cowfishes to
-[Family Ostraciidae](../ostraciidae/ostraciidae.md)
+[Family Ostraciidae](../ostraciidae/ostraciidae)
 , and pufferfished to
-[Family Tetraodontidae](../tetraodontidae/tetraodontidae.md)
+[Family Tetraodontidae](../tetraodontidae/tetraodontidae)
 .
 
 ## Features

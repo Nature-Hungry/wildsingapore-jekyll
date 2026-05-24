@@ -80,11 +80,11 @@ These rotund and chubby animals are seasonally common on many of our shores, usu
 
 **What are cuttlefish?**
 Cuttlefish are not fish! They are
-[molluscs](../mollusca.md)
+[molluscs](../mollusca)
 (Phylum Mollusca) like snails, slugs and clams; and
-[cephalopods](../cephalopoda.md)
+[cephalopods](../cephalopoda)
 (Class Cephalopoda) which include
-[octopuses](octopus.md)
+[octopuses](octopus)
 . They belong to the Order Sepiida. The family has more than 100 species many of which are only identified from the internal cuttlebones.
 
 ## Features
@@ -93,7 +93,7 @@ Cuttlefish are not fish! They are
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Disappearing Ink:**
 Like other cephalopods, the cuttlefish can squirt ink that distracts predators and clouds up the water. More about this in the fact sheet on
-[cephalopods](../cephalopoda.md)
+[cephalopods](../cephalopoda)
 .
 
 **Human uses:**
@@ -121,7 +121,7 @@ from Tan Siong Kiat and Henrietta P. M. Woo, 2010
 
 On this website, they are grouped by external features for convenience of display.*
 
-[Smooth cuttlefish](cutsmooth.md)
+[Smooth cuttlefish](cutsmooth)
 
 **Family Sepiidae**
 
@@ -131,15 +131,15 @@ Sepia brevimana
 
 Sepia esculenta
 
-[Sepia latimanus](cutbroadclub.md)*
+[Sepia latimanus](cutbroadclub)*
 (Broadclub cuttlefish)
 *Sepia lycidas
 
 Sepia pharaonis
 
-[Sepia recurvirostra](cutcurvespine.md)*
+[Sepia recurvirostra](cutcurvespine)*
 (Curvespine cuttlefish)
-*[Sepiella inermis](cutsmooth.md)*
+*[Sepiella inermis](cutsmooth)*
 (Glittering cuttlefish)
 
 ---

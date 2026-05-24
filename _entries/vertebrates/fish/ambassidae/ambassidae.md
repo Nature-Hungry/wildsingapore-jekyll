@@ -42,7 +42,7 @@ links_references: |
   **Links**
   - [Kops' Glass Perchlet (
   *Ambassis kopsii*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/263.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/263)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
@@ -77,7 +77,7 @@ To about 10cm. Body nearly transparent covered with thin scales. Thus it is some
 ) are commonly seen often in a large group of many individuals. To about 10cm, those seen about 5-8cm. A silvery almost transparent body. There is a distinctive black mark on the tip of the dorsal fin.
 
 **Sometimes confused with**
-[Mojarras](../gerreidae/gerreidae.md)
+[Mojarras](../gerreidae/gerreidae)
 (Family Gerreidae) which have a single dorsal fin that is not deeply notched.
 ****
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

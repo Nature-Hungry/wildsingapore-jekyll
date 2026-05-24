@@ -155,12 +155,12 @@ links_references: |
   **Links**
   - [Seagrass Filefish (
   *Acreichthys tomentosus*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/393.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/393)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
   - [*Monocanthus*
-  sp.](http://mangrove.nus.edu.sg/pub/seashore/text/237.md)
+  sp.](http://mangrove.nus.edu.sg/pub/seashore/text/237)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -173,7 +173,7 @@ links_references: |
   from
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet on the family, including fact sheet
-  - [Volume 6: Bony fishes part 4 (Labridae to Latimeriidae), estuarine crocodiles, sea turtles, sea snakes and marine mammals](http://www.fao.org/docrep/009/y0870e/y0870e00.md)
+  - [Volume 6: Bony fishes part 4 (Labridae to Latimeriidae), estuarine crocodiles, sea turtles, sea snakes and marine mammals](http://www.fao.org/docrep/009/y0870e/y0870e00)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
 
   **References**
@@ -208,14 +208,14 @@ This filefish with with a 'smiley' on the side of the body is commonly seen on m
 ## Features
 
 To 12cm, those seen about 7cm. An irregular curved yellow or white line along the front of the body from the gill opening to the middle of the upper body, that resembles a 'smile'. Body in a wide variety of colours and patterns, usually irregular blotches. Adult males have bristles near the tail fin arranged a well-defined central oblong patch. More on
-[how to tell apart filefishes](monacanthidae.md)
+[how to tell apart filefishes](monacanthidae)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
 **What does it eat?**
 It feeds on small creatures that live on the bottom such as
-[amphipods](../../../crustacea/othercrust/amphipoda/amphipoda.md)
+[amphipods](../../../crustacea/othercrust/amphipoda/amphipoda)
 , worms and snails.
 
 **Species are difficult to positively identify without close examination.

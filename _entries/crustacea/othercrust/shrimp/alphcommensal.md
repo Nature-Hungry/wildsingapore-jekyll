@@ -53,7 +53,7 @@ This tiny snapping shrimp is often found under stones and inside sponges. Often 
 
 Body 1-2cm long. Usually translucent pale with tiny dark spots.
 
-[White snapping shrimps](alphballsoft.md)
+[White snapping shrimps](alphballsoft)
 are also often seen in ball soft corals.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

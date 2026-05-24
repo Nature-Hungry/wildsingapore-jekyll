@@ -66,7 +66,7 @@ links_references: |
   from
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet.
-  - [Yellow-spotted mudskipper](http://www.ecologyasia.com/verts/brackish-fishes/yellow-spotted-mudskipper.md)
+  - [Yellow-spotted mudskipper](http://www.ecologyasia.com/verts/brackish-fishes/yellow-spotted-mudskipper)
   on
   [EcologyAsia](http://www.ecologyasia.com/)
   : photos and fact sheet.
@@ -107,10 +107,10 @@ The first dorsal fin has a rounded margin, is brownish red with a broad black ba
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Sometimes mistaken for**
 as juveniles of the
-[Giant mudskipper](schlosseri.md)
+[Giant mudskipper](schlosseri)
 . Unlike the Giant mudskipper, the Yellow-spotted mudskipper does not have a broad black band along the body length and lacks the white-bluish, iridescent speckles often seen on the Giant mudskipper's cheeks. Juvenile Yellow-spotted mudskippers can also be mistaken for other small mudskippers.
 More about
-[how to tell apart small mudskippers](cfmudsmall.md)
+[how to tell apart small mudskippers](cfmudsmall)
 commonly found on our shores.
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**Burrow behaviour:**

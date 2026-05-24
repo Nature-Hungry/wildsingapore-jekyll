@@ -46,7 +46,7 @@ links_references: |
   **Links**
   - [Pilodius Crab (
   *Pilodius*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/207.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/207)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -68,7 +68,7 @@ Body width about 1cm. The pincers with spoon-shaped tips. Legs with pointed tips
 
 **Sometimes confused with**
 juveniles of other crabs of the
-[Family Xanthidae](xanthidae.md)
+[Family Xanthidae](xanthidae)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

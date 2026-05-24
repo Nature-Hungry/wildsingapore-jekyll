@@ -81,7 +81,7 @@ galleries:
     caption: Spider conch
 links_references: |
   **Links**
-  - [Family Strombidae](http://mangrove.nus.edu.sg/pub/seashore/text/140.md)
+  - [Family Strombidae](http://mangrove.nus.edu.sg/pub/seashore/text/140)
   including the Spider conch (
   *Lambis lambis*
   ) and the Black-lipped Conch (
@@ -92,7 +92,7 @@ links_references: |
   - [Family Strombidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Strombidae.html)
   on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief fact sheet with photos.
   - Family Strombidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
   - [Pearls of snail: breakthrough in snail pearl culturing](http://wildshores.blogspot.com/2009/11/pearls-of-snail-breakthrough-in-snail.html)
   on the wild shores of singapore blog.
@@ -160,20 +160,20 @@ Mama snails lay egg strings. Young conch snails may look different from adults, 
 
 {% include img-wrap-group.html items=page.galleries.gallery4 %}**Human uses:**
 Conch snails are edible and eaten everywhere they are found. In Singapore,
-[Gong-gong](canarium.md)
+[Gong-gong](canarium)
 were once plentiful, they are still harvested from our shores in small numbers. The Gong-gong is the most popularly eaten conch, fried with chilli or as fritters. You can sometimes still see them served at hawker centres. The
-[Black-lipped conch](urceus.md)
+[Black-lipped conch](urceus)
 and
-[Spider conch](lambis.md)
+[Spider conch](lambis)
 were also eaten. The larger Spider conch is also collected and killed for its beautifully shaped and coloured shell.
 
 **Status and threats:**
 The
-[Black-lipped conch](urceus.md)
+[Black-lipped conch](urceus)
 and
-[Spider conch](lambis.md)
+[Spider conch](lambis)
 are listed as 'Vulnerable' on the Red List of threatened animals of Singapore, while the
-[Dark Diana conch](aratrum.md)
+[Dark Diana conch](aratrum)
 is listed as 'Critically endangered'. The Spider conch and Black-lipped conch are no longer as common as in the past. They are threatened by habitat degradation, over-collection for food and as souvenirs. Hopefully, our Conch snails don't suffer the same fate as the Queen Conch (
 *Strombus gigas*
 ) of the Americas which is now listed on CITES II due to over-harvesting.
@@ -206,7 +206,7 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 
 **Family Strombidae**
 
-*[^Canarium urceus](urceus.md)
+*[^Canarium urceus](urceus)
 =Strombus urceus*
 (Black-lipped conch)
 **
@@ -216,7 +216,7 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 *=*
 *Strombus dilatatus*
 *^Dolomena variabilis=Strombus variabilis*
-*[^Euprotomus aratrum](aratrum.md)
+*[^Euprotomus aratrum](aratrum)
 =Strombus aratrum*
 (Dark Diana conch)
 **
@@ -225,16 +225,16 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 
 Lambis chiragra=^Harpago chiragra
 
-[Lambis lambis](lambis.md)*
+[Lambis lambis](lambis)*
 (Spider conch) (VU: Vulnerable)
-*[Strombus marginatus robustus](marginatus.md)*
+*[Strombus marginatus robustus](marginatus)*
 (Margined conch)
-*[Strombus turturella](canarium.md)*
+*[Strombus turturella](canarium)*
 (Gong gong)=
 *Strombus canarium
 
 Strombus vittatus apicatus=
-[Doxander vittatus apicatus](vittatus.md)*
+[Doxander vittatus apicatus](vittatus)*
 (Vitate conch)
 *Tibia fusus*
 (^now in Family Rostellariidae)

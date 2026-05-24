@@ -80,7 +80,7 @@ links_references: |
   **Links**
   - [Banded bead anemone (
   *Epiactis*
-  sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/119.md)
+  sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/119)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -149,7 +149,7 @@ As at 2024,
 are assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.
 
 Another bead anemone sometimes seen on our shores is the Pink-spotted bead anemone (
-[*Anthopleura buddemeieri*](buddemeieri.md)
+[*Anthopleura buddemeieri*](buddemeieri)
 ). It looks very different. Pale body column with red spots along the entire length, tentacles grey with a reddish cast.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 

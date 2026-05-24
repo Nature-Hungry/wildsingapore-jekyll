@@ -80,13 +80,13 @@ links_references: |
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
   - Ng, Peter K. L. & N. Sivasothi, 1999.
-  *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/contents.md)*
+  *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/contents)*
   . Singapore Science Centre. 168 pp.
   - [Family Hemiramphidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=475)
   (Halfbeaks) from
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet on the family, including fact sheet on individual species.
-  - [Vol. 4. Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.md)
+  - [Vol. 4. Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific
   - [*Dermogenys collettei*](https://singapore.biodiversity.online/taxo4254/mainSpace/Dermogenys%20collettei.html)
   (Beloniformes: Hemiramphidae) Pygmy Halfbeak on Taxo4254.
@@ -122,11 +122,11 @@ Halfbeaks belong to the Family Hemiramphidae. According to
 To about 10cm long. Body long and stick-like; generally cylindrical. The halfbeak is so named because its lower jaw is much longer, while its upper jaw is short and triangular. 'Hemi' means half; while 'rhamphos' means beak or bill in Greek. The jaws have several rows of small teeth and the tip of the long, spike-like lower jaw is often brightly coloured. The eyes are relatively large and scales are large too.
 
 **Sometimes mistaken for**
-[needlefishes](../belonidae/belonidae.md)
+[needlefishes](../belonidae/belonidae)
 . Needlefishes (Family Belonidae) are usually much longer. The jaws of needlefishes are also elongated and both the upper and lower jaws are of equal length and usually filled with sharp teeth.
-[Young barracuda](../sphyraenidae/sphyraenidae.md)
+[Young barracuda](../sphyraenidae/sphyraenidae)
 (Family Sphyraenidae) also appear similar at first glance. Here's more on
-[how to tell apart stick-like fishes](../cfstick.md)
+[how to tell apart stick-like fishes](../cfstick)
 commonly seen on our shores.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Surface dwellers:**
@@ -139,7 +139,7 @@ Most halfbeak lay eggs attached to seaweed in shallow waters. Some, however, may
 
 **Human uses:**
 Halfbeaks apparently taste good and large species (like the
-[Black-barred halfbeak](far.md)
+[Black-barred halfbeak](far)
 ) are eaten in some places, sold fresh and dried salted. Or they are used as bait fish. They are caught with nets under lights at night. Some freshwater species are popular in the live aquarium trade.
 
 **Status and threats:**
@@ -182,11 +182,11 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
 
 **Halfbeaks commonly seen awaiting identification**
 
-[Broad-nosed halfbeak](broadnose.md)
+[Broad-nosed halfbeak](broadnose)
 
-[Plain halfbeak](plain.md)
+[Plain halfbeak](plain)
 
-[Twig-like halfbeak](twig.md)
+[Twig-like halfbeak](twig)
 
 **Family Hemiramphidae**
 
@@ -200,7 +200,7 @@ Hemiramphus russelli=^Rhynchorhamphus georgii
 
 Hemiramphus erythrorinchus=^Hyporhamphus erythrorinchus
 
-[Hemiramphus far](far.md)*
+[Hemiramphus far](far)*
 (Black-barred halfbeak)
 *Hemiramphus fasciatus=^Hemiramphus lutkei
 
@@ -214,7 +214,7 @@ Hemiramphodon pogonognathus=^Hemiramphus pogonognathus*
 
 Hyporhamphus melanurus
 
-[Hyporhamphus quoyi](shortnose.md)*
+[Hyporhamphus quoyi](shortnose)*
 (Quoy's halfbeak)
 
 *
@@ -226,7 +226,7 @@ Hyporhamphus melanurus
 *Dermogenys pusilla*
 (Pygmy halfbeak)
 *Dermogenys sumatrana*
-*[Zenarchopterus buffonis](buffonis.md)*
+*[Zenarchopterus buffonis](buffonis)*
 (Striped-nosed halfbeak)
 *Zenarchopterus dispar
 

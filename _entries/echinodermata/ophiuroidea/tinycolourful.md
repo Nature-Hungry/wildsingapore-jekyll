@@ -115,26 +115,26 @@ location:
 
 ## Where seen?
 These tiny brittle stars are sometimes seen on
-[sea fans](../../cnidaria/others/gorgonacea/gorgonacea.md)
+[sea fans](../../cnidaria/others/gorgonacea/gorgonacea)
 ,
-[flowery soft corals](../../cnidaria/coralsoft/nephtheidae.md)
+[flowery soft corals](../../cnidaria/coralsoft/nephtheidae)
 and other cnidarians and even on
-[Thorny sea urchins](../echinoidea/urchin/prionocidaris.md)
+[Thorny sea urchins](../echinoidea/urchin/prionocidaris)
 . A single host can be home to many of these tiny brittle stars. But it requires a keen eye to spot them.
 
 ## Features
 
 Whole animal about 1cm wide. 5-6 arms with very small spines, held flat, along the sides of the arm. Arms with colourful bands usually to match the host animal. Central disk also with colourful markings. Sometimes confused with the
-[Tiny orange brittle star](tinyorange.md)
+[Tiny orange brittle star](tinyorange)
 which are found on
-[Asparagus soft corals](../../cnidaria/coralsoft/nephtheidae.md)
+[Asparagus soft corals](../../cnidaria/coralsoft/nephtheidae)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ---
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**Sometimes confused with**
 the
-[Tiny orange brittle star](tinyorange.md)
+[Tiny orange brittle star](tinyorange)
 which are uniformly orange. The two kinds of tiny brittle stars are sometimes seen together.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Species are difficult to positively identify without close examination.

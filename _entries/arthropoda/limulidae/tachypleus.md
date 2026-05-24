@@ -108,7 +108,7 @@ galleries:
     caption: Pulau Semakau, Oct 18 Photo shared by Marcus Ng and flickr .
 links_references: |
   **Links**
-  - [Horseshoe Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/175.md)
+  - [Horseshoe Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/175)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -149,11 +149,11 @@ Diameter to about 25cm. The circular shell is greyish sometimes brown. Identifie
 
 **Sometimes confused with**
 the
-[Mangrove horseshoe crab](carcinoscorpius.md)
+[Mangrove horseshoe crab](carcinoscorpius)
 (
 *Carcinoscorpius rotundicauda*
 ). More on
-[how to tell them apart](limulidae.md)
+[how to tell them apart](limulidae)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

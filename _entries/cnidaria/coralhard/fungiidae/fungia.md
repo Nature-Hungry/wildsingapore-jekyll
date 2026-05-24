@@ -91,22 +91,22 @@ These mushroom shaped corals are sometimes seen on some of our Southern shores, 
 
 ## Features
 
-[Circular](circular.md)
+[Circular](circular)
 *Fungia*
 species are more commonly seen, while some may be
-[elongtated or oval](oval.md)
+[elongtated or oval](oval)
 . Species are only positively identified by the lines and teeth structures on the upper side, as well as the kind of surface on the underside. These features are often hidden by tissues in living specimens and are difficult to determine in the field. On this website, they are grouped by large external features for convenience of display.
 
 **More about Fungia species:**
 A fungia mushroom coral is free-living as an adult (it is not attached to the surface). It can move, even climb up slopes! It does this by inflating and deflating its tissues. It can also right itself if accidentally overturned, e.g., by fish looking for things hiding under it. And rid itself of sediments as well as "unbury" itself from sand.
 
 An unusual property of fungia mushroom corals is the inclusion of large amounts of chitin in the skeleton. Chitin is the substance that insect exoskeletons are made of. The only other group of hard corals with this property are
-[Pocillopora corals](../pocilloporidae/pocilloporidae.md)
+[Pocillopora corals](../pocilloporidae/pocilloporidae)
 .
 
 **Sometimes mistaken for**
 the
-[Sunflower mushroom hard coral](heliofungia.md)
+[Sunflower mushroom hard coral](heliofungia)
 (
 *Heliofungia actiniformis*
 ) especially when
@@ -128,7 +128,7 @@ species recorded for Singapore are listed as threatened on the
 **Some Fungia mushroom corals on Singapore shores**
 
 ---
-{% include img-wrap-group.html items=page.galleries.gallery2 %}[circular5.htm](circular5.md)
+{% include img-wrap-group.html items=page.galleries.gallery2 %}[circular5.htm](circular5)
 **Species are difficult to positively identify without close examination.
 
 On this website, they are grouped by external features for convenience of display.*
@@ -152,12 +152,12 @@ on the
 .
 **
 
-**[Family Fungiidae](fungiidae.md)
+**[Family Fungiidae](fungiidae)
 
 Genus
 *Fungia****
 
-[Circular mushroom corals](circular.md)
+[Circular mushroom corals](circular)
 
 Group 1: With large septal teeth
 
@@ -179,7 +179,7 @@ Fungia granulosa
 Fungia repanda**
 
 Fungia scabra***
-[Oval mushroom corals](oval.md)
+[Oval mushroom corals](oval)
 **
 Group 4: With distinctly non-circular polyps
 *Fungia moluccensis

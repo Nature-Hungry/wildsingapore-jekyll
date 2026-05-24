@@ -66,7 +66,7 @@ location:
 
 ## Where seen?
 This elegant and often dark coloured cerianthid is sometimes seen on our Northern shores. In soft silty areas and among seagrasses. It is found in similar habitats as the
-[Common cerianthid](common.md)
+[Common cerianthid](common)
 , but the dusky is much smaller and has more elegantly tapering tentacles.
 ****
 

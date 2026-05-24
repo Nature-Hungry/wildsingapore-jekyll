@@ -78,7 +78,7 @@ To about 50cm. Body long and rather flattened sideways. No pelvic or pectoral fi
 
 **Sometimes mistaken for**
 sea snakes or eels. Here's more on
-[how to tell apart sea snakes, eels and eel-like animals](../../../glossary/eelsnake.md)
+[how to tell apart sea snakes, eels and eel-like animals](../../../glossary/eelsnake)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

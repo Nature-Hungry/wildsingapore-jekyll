@@ -37,7 +37,7 @@ galleries:
 links_references: |
   **Links**
   - [Leaf Slug
-  *Elysia*](http://mangrove.nus.edu.sg/pub/seashore/text/151.md)
+  *Elysia*](http://mangrove.nus.edu.sg/pub/seashore/text/151)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -94,7 +94,7 @@ One pair of 'rolled up' tentacles, not solid tentacles like other slugs. A pair 
 
 **What do they eat?**
 They eat seaweeds.
-[More details on how they feed](sacoglossa.md)
+[More details on how they feed](sacoglossa)
 in the fact sheet on the Sacoglossans in general.
 
 **Stolen food factories:**
@@ -147,23 +147,23 @@ from
 
 On this website, they are grouped by external features for convenience of display.*
 
-[Woolly leaf slug](woolly.md)
+[Woolly leaf slug](woolly)
 
-[Other](elysianoid.md)
+[Other](elysianoid)
 unidentified elysia slugs
 
 **Family Plakobranchidae**
 
 ^
-*[Elysia bangtawaensis](bangtawaensis.md)*
+*[Elysia bangtawaensis](bangtawaensis)*
 (Mangrove leaf slug)
 **Elysia bengalensis
 
 Elysia grandifolia=**Elysia ornata
 
-[Elysia ornata](ornata.md)*
+[Elysia ornata](ornata)*
 (Ornate leaf slug)
-*[Elysia pusilla](pusilla.md)*
+*[Elysia pusilla](pusilla)*
 (Halimeda slug)
 *^Elysia singaporensis
 

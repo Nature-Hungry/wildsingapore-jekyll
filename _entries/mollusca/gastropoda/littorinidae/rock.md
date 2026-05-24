@@ -44,7 +44,7 @@ galleries:
     caption: Pulau Ubin OBS, Jan 16 Photo shared by Marcus Ng on facebook .
 links_references: |
   **Links**
-  - [Periwinkle Shells (Family Littorinidae)](http://mangrove.nus.edu.sg/pub/seashore/text/137.md)
+  - [Periwinkle Shells (Family Littorinidae)](http://mangrove.nus.edu.sg/pub/seashore/text/137)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *A Guide to Seashore Life*
   . The Singapore Science Centre, Singapore. 160 pp.

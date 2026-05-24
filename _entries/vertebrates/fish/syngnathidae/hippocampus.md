@@ -112,9 +112,9 @@ Almost everyone knows what a seahorse looks like. An endearing, unfish-like fish
 Seahorses are more common on our shores that most people might think. They are superbly camouflaged and thus often overlooked. Some may be as large as 11cm, but there are tiny ones too.
 **What are seahorses?**
 Seahorses are actually fishes! They belong to
-[Family Syngnathidae](syngnathidae.md)
+[Family Syngnathidae](syngnathidae)
 which includes
-[pipefishes](pipefish.md)
+[pipefishes](pipefish)
 .
 ## Features
 
@@ -169,15 +169,15 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 +Other additions (e.g., Singapore Biodiversity Records).
 **
 
-**[Family Syngnathidae](syngnathidae.md)**
+**[Family Syngnathidae](syngnathidae)**
 which includes
-[pipefishes](pipefish.md)
+[pipefishes](pipefish)
 
-*[Hippocampus comes](comes.md)*
+*[Hippocampus comes](comes)*
 (Tiger-tailed seahorse) (VU: Vulnerable)
 *Hippocampus histrix
 
-[Hippocampus kuda](kuda.md)*
+[Hippocampus kuda](kuda)*
 (Estuarine seahorse)
 **
 (VU: Vulnerable)

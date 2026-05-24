@@ -103,7 +103,7 @@ species, seaweed recorded for Singapore that look like Slender crunchy pom-pom r
 
 **May be confused with**
 other
-[pinkish seaweeds with a pom pom shape.](pompom.md)
+[pinkish seaweeds with a pom pom shape.](pompom)
 
 *![](http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/070902skdg2154m3.jpg)
 

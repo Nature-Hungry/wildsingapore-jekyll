@@ -26,7 +26,7 @@ updated: Oct 2016
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/saccolaimus/030717skdd0217m6la.jpg
 links_references: |
   **Links**
-  - [Pouched Tomb Bat](http://www.ecologyasia.com/verts/bats/pouched-tomb-bat.md)
+  - [Pouched Tomb Bat](http://www.ecologyasia.com/verts/bats/pouched-tomb-bat)
   on Nick Baker's EcologyAsia website: fact sheet with photos.
   
   **References**

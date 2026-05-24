@@ -35,7 +35,7 @@ galleries:
     caption: Pasir Ris Park, Jun 08 Photo shared by Ivan Kwan on flickr .
 links_references: |
   **Links**
-  - [Crab-eating Water Snake](http://www.ecologyasia.com/verts/snakes/crab-eating_water-snake.md)
+  - [Crab-eating Water Snake](http://www.ecologyasia.com/verts/snakes/crab-eating_water-snake)
   on Nick Baker's EcologyAsia website: fact sheet with photos.
   - [*Fordonia leucobalia*](http://www.iucnredlist.org/details/176694/0)
   on the IUCN Red List.
@@ -62,7 +62,7 @@ location:
 
 ## Where seen?
 Rarely seen, usually in mangroves such as Pasir Ris and Sungei Buloh, often near
-[mud lobster mounds](../../crustacea/othercrust/lobster/thalassina.md)
+[mud lobster mounds](../../crustacea/othercrust/lobster/thalassina)
 . This snake is nocturnal and is seldom seen during the day.
 
 ## Features

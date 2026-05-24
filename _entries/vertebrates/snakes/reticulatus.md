@@ -35,9 +35,9 @@ links_references: |
   on the
   [Singapore Snakes](http://singaporesnakes.blogspot.com/)
   blog: fact sheet with photos and links to local sightings and other posts.
-  - [Reticulated python](http://www.ecologyasia.com/verts/snakes/reticulated_python.md)
+  - [Reticulated python](http://www.ecologyasia.com/verts/snakes/reticulated_python)
   on Nick Baker's EcologyAsia website: fact sheet with photos.
-  - [Reticulated python](http://www.wildsingapore.per.sg/discovery/factsheet/snakepython.md)
+  - [Reticulated python](http://www.wildsingapore.per.sg/discovery/factsheet/snakepython)
   on Chan Kwok Wai's Wildlife Singapore: fact sheet with photos.
   - [*Python reticulatus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Python%20reticulatus.html)
   (Squamata: Pythonidae) Reticulated Python by Johanna Johan Adam Chin, 2011 on taxo4254.

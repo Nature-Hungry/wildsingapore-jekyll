@@ -132,7 +132,7 @@ Made famous by the cartoon "Finding Nemo", these fishes are a delight and the hi
 
 **What are anemonefishes?**
 Anemonefishes belong to the
-[Family Pomacentridae](pomacentridae.md)
+[Family Pomacentridae](pomacentridae)
 . Anemonefishes are in the subgroup Amphiprioninae in this family.
 ## Features
 
@@ -141,17 +141,17 @@ makes this fish quite unmistakable. Indeed, the most amazing feature of anemonef
 
 **Home Sweet Anemone Home:**
 On our intertidal, the
-[Clown anemonefish](ocellaris.md)
+[Clown anemonefish](ocellaris)
 is often seen in
-[Giant carpet anemones](../../../cnidaria/actiniaria/gigantea.md)
+[Giant carpet anemones](../../../cnidaria/actiniaria/gigantea)
 . It is also sometimes in
-[Magnificent anemones](../../../cnidaria/actiniaria/magnifica.md)
+[Magnificent anemones](../../../cnidaria/actiniaria/magnifica)
 and
-[Merten's carpet anemones](../../../cnidaria/actiniaria/mertensii.md)
+[Merten's carpet anemones](../../../cnidaria/actiniaria/mertensii)
 . While the
-[Tomato anemonefish](frenatus.md)
+[Tomato anemonefish](frenatus)
 is mainly found in
-[Bubble-tip anemones](../../../cnidaria/actiniaria/entacmaea.md)
+[Bubble-tip anemones](../../../cnidaria/actiniaria/entacmaea)
 .
 
 Experiments suggest anemonefishes may protect their host anemones from predatory fishes such as butterflyfish. They may also clean the anemone of parasites and remove dead tissues of the sea anemone. Their swimming action may also increase water circulation around the sea anemone and remove sediments that would foul the sea anemone. Some studies suggest anemonefishes attract other fishes that are captured and eaten by the sea anemone.
@@ -217,11 +217,11 @@ from
 *Amphiprion clarkii*
 (Clark's anemonefish) (VU: Vulnerable)
 **
-*[Amphiprion frenatus](frenatus.md)*
+*[Amphiprion frenatus](frenatus)*
 (Tomato anemonefish)
 **
 (VU: Vulnerable)
-*[Amphiprion ocellaris](ocellaris.md)*
+*[Amphiprion ocellaris](ocellaris)*
 (False clown anemonefish)
 **
 (VU: Vulnerable)

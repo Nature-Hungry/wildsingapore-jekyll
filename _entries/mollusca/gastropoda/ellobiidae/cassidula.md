@@ -35,11 +35,11 @@ galleries:
     caption: Berlayar Creek, Mar 09
 links_references: |
   **Links**
-  - [Belongkeng (Family Ellobiidae)](http://mangrove.nus.edu.sg/guidebooks/text/2090.md)
+  - [Belongkeng (Family Ellobiidae)](http://mangrove.nus.edu.sg/guidebooks/text/2090)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
-  - [Mangrove helmet shell (Family Ellobiidae)](http://mangrove.nus.edu.sg/pub/seashore/text/153.md)
+  - [Mangrove helmet shell (Family Ellobiidae)](http://mangrove.nus.edu.sg/pub/seashore/text/153)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -68,7 +68,7 @@ This snail is sometimes seen in our back mangroves, creeping around and on the b
 
 **Sometimes confused with**
 the
-[Banded mangrove ear snail](banded.md)
+[Banded mangrove ear snail](banded)
 which has bands on its shell and is pink around the shell opening.
 
 **What does it eat?**

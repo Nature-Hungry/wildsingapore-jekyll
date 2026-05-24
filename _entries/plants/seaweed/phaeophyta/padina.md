@@ -84,7 +84,7 @@ links_references: |
   by Keith Davey on the Marine Education Society of Australia website: Fact sheet with photos of species found in Australia.
   - [Mermaid's fan (
   *Padina*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/104.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/104)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.

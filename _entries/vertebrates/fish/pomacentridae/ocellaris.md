@@ -190,7 +190,7 @@ links_references: |
   **Links**
   - [Clown Anemonefish (
   *Amphiprion ocellaris*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/337.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/337)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
@@ -204,7 +204,7 @@ links_references: |
   : Technical fact sheet on the family, including fact sheet on
   - [False-Clown Anemonefish (
   *Amphiprion ocellaris*
-  )](http://www.amonline.net.au/fishes/fishfacts/fish/aocellaris.md)
+  )](http://www.amonline.net.au/fishes/fishfacts/fish/aocellaris)
   on the
   [Australian Museum Fish Site](http://www.amonline.net.au/fishes/fishfacts/)
   on the Australian Museum Online website: fact sheet with photos
@@ -264,11 +264,11 @@ Our clown anemonefish (
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Home Sweet Anemone Home:**
 On our intertidal, the fish is often seen in
-[Giant carpet anemones](../../../cnidaria/actiniaria/gigantea.md)
+[Giant carpet anemones](../../../cnidaria/actiniaria/gigantea)
 . It is also sometimes in
-[Magnificent anemones](../../../cnidaria/actiniaria/magnifica.md)
+[Magnificent anemones](../../../cnidaria/actiniaria/magnifica)
 and
-[Merten's carpet anemones](../../../cnidaria/actiniaria/mertensii.md)
+[Merten's carpet anemones](../../../cnidaria/actiniaria/mertensii)
 .
 
 The anemonefish may sometimes be seen stranded at low tide near its anemone home. It is probably best to leave it alone and NOT try to 'rescue' it by putting it in a pool of water far away from its anemone home. These fishes are adapted to surviving at low tide and it is best that they are are close as possible to their anemone home when the tide turns. As the water rushes in, so do predators which will quickly eat up a defenceless anemonefish far from its protective anemone.

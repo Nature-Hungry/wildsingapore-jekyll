@@ -152,15 +152,15 @@ This fat long snake-like fish is sometimes seen in reefs on our Southern shores.
 30-40cm long. Body long thick cylindrical and is only flattened towards the very tip of the tail. Distinguished by a yellowish chin and two yellowish rings around the body, one behind the eyes and another at the pectoral fins. Body pattern of irregular large dark brown or purple blotches over a pale yellowish background. It lacks scales. The snout is blunt and it has tubular nostrils. The tail tip is bony and sharp so it can burrow quickly, both forwards and backwards! It has two comically tiny rounded pectoral fins, the dorsal fin very narrow, starts above the pectoral fins. It swims by moving the body in S-shapes, rather like a sea snake.
 
 **Sometimes mistaken for**
-[sea snakes](../../snakes/hydrophiidae/laticauda.md)
+[sea snakes](../../snakes/hydrophiidae/laticauda)
 . Here's more on
-[how to tell apart sea snakes, eels and eel-like animals](../../../glossary/eelsnake.md)
+[how to tell apart sea snakes, eels and eel-like animals](../../../glossary/eelsnake)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **What does it eat?**
 It hunts fishes,
-[octopuses, squids and cuttlefishes](../../../mollusca/cephalopoda.md)
+[octopuses, squids and cuttlefishes](../../../mollusca/cephalopoda)
 and crustaceans. It has granular teeth.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}

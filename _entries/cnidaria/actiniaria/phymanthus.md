@@ -131,7 +131,7 @@ The body column is pale becoming darker near the top and has longitudinal rows o
 
 **Sometimes mistaken for**
 other feathery animals. Here's more on
-[how to tell apart feathery animals](../../glossary/feathery.md)
+[how to tell apart feathery animals](../../glossary/feathery)
 on our shores.
 
 **Status and threats:**
@@ -140,7 +140,7 @@ As at 2024, it is assessed not to be approaching the criteria for being listed a
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Frilly friends:**
 The Frilly anemone harbours symbiotic algae (called zooxanthellae) that undergo photosynthesis to produce food. The algae share this food with the anemone, which in turn provides the algae with shelter and minerals. A pair of
-[Peacock-tail anemone shrimps](../../crustacea/othercrust/shrimp/brevicarpalis.md)
+[Peacock-tail anemone shrimps](../../crustacea/othercrust/shrimp/brevicarpalis)
 were seen once in a Frilly anemone.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}

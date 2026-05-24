@@ -52,9 +52,9 @@ location:
 
 ## Where seen?
 This snail is often seen on the a shell occupied by a
-[hermit crab](../../../crustacea/othercrust/anomura/hermit/hermit.md)
+[hermit crab](../../../crustacea/othercrust/anomura/hermit/hermit)
 , usually on the outside of the shell. It is not seen as often as the
-[Flat slipper snail](crepidula.md)
+[Flat slipper snail](crepidula)
 , which is white and usually found on the inside of the shell. It was previously known as
 *Calyptraea extinctorium*
 .
@@ -65,7 +65,7 @@ This snail is often seen on the a shell occupied by a
 
 **Sometimes confused with limpets**
 which are also gastropods but which can move about. Here's more on
-[how to tell apart limpets, slipper snails and similar animals](../../../glossary/limpetbarnacle.md)
+[how to tell apart limpets, slipper snails and similar animals](../../../glossary/limpetbarnacle)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

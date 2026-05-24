@@ -84,7 +84,7 @@ links_references: |
   [*Hypselodoris maritima.*](http://www.seaslugforum.net/find/hypsmari)
   - [The Slug Site:](http://slugsite.us/)
   photo and fact sheet on the Branch of the Week
-  [*Hypselodoris maritima*](http://slugsite.us/bow/nudwk284.md)
+  [*Hypselodoris maritima*](http://slugsite.us/bow/nudwk284)
   with a discussion on the wide range of morps of this nudibranch
 
   **References**

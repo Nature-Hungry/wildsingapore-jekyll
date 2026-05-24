@@ -88,22 +88,22 @@ These strange snails are almost always found on large shells inhabitated by herm
 
 **What are slippers snails?**
 Slipper snails are NOT
-[bivalves](../../bivalvia.md)
+[bivalves](../../bivalvia)
 (like oysters). They are
-[gastropods](../../gastropoda.md)
+[gastropods](../../gastropoda)
 that belong to the Family Crepidulidae.
 
 ## Features
 
 2-3cm. Shell conical or flat domed. Several may be found stuck firmly onto inside of a shell occupied by a
-[hermit crab](../../../crustacea/othercrust/anomura/hermit/hermit.md)
+[hermit crab](../../../crustacea/othercrust/anomura/hermit/hermit)
 . They take advantage of the constant current of freshly oxygenated water that the hermit crab creates for itself. They are also found on the underside of living
-[horseshoe crabs](../../../arthropoda/limulidae/limulidae.md)
+[horseshoe crabs](../../../arthropoda/limulidae/limulidae)
 .
 
 **Sometimes confused with limpets**
 which are also gastropods but which can move about. Here's more on
-[how to tell apart limpets, slipper snails and similar animals](../../../glossary/limpetbarnacle.md)
+[how to tell apart limpets, slipper snails and similar animals](../../../glossary/limpetbarnacle)
 .
 
 **What do they eat?**
@@ -135,11 +135,11 @@ from Tan Siong Kiat and Henrietta P. M. Woo, 2010
 **Family Calyptraeidae**
 
 *^
-[Desmaulus extinctorium](calyptraea.md)
+[Desmaulus extinctorium](calyptraea)
 =Calyptraea extinctorium*
 (Conical slipper snail)
 *^
-[Siphopatella walshi](crepidula.md)
+[Siphopatella walshi](crepidula)
 =Crepidula walshi*
 (Flat slipper snail)
 

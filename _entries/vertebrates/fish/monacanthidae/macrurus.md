@@ -67,7 +67,7 @@ links_references: |
   from
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet.
-  - [Volume 6: Bony fishes part 4 (Labridae to Latimeriidae), estuarine crocodiles, sea turtles, sea snakes and marine mammals](http://www.fao.org/docrep/009/y0870e/y0870e00.md)
+  - [Volume 6: Bony fishes part 4 (Labridae to Latimeriidae), estuarine crocodiles, sea turtles, sea snakes and marine mammals](http://www.fao.org/docrep/009/y0870e/y0870e00)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
 
   **References**
@@ -91,7 +91,7 @@ This filefish is sometimes seen on some of Southern shores among seagrasses and 
 ## Features
 
 To 24cm, those seen about 10cm. Body with lots of small circular dots and often a broad white stripe or blotch along the centre of the body from the gill opening. May have dark blotches. More on
-[how to tell apart filefishes](monacanthidae.md)
+[how to tell apart filefishes](monacanthidae)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Identification needs confirmation. Species are difficult to positively identify without close examination.

@@ -86,13 +86,13 @@ galleries:
       on facebook .
 links_references: |
   **Links**
-  - [*Uca vocans*](http://mangrove.nus.edu.sg/pub/seashore/text/190.md)
+  - [*Uca vocans*](http://mangrove.nus.edu.sg/pub/seashore/text/190)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
   - [Porcelain fiddler crabs (
   *Uca vocans*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2053.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2053)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
@@ -146,11 +146,11 @@ Their burrows can be half a metre deep!
 
 **Sometimes mistaken for**
 the
-[Porcelain fiddler crab](annulipes.md)
+[Porcelain fiddler crab](annulipes)
 (
 *Uca annulipes*
 ). More on
-[how to tell apart the fiddler crabs commonly seen](cflongeyedcrabs.md)
+[how to tell apart the fiddler crabs commonly seen](cflongeyedcrabs)
 on our shores.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

@@ -150,7 +150,7 @@ links_references: |
   **Links**
   - [Sea anemones (
   *Stoichactis*
-  sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/120.md)
+  sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/120)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -218,16 +218,16 @@ Diameter 40-50cm when fully expanded, but is said to reach up to 75-80cm. The la
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Colourful Carpets:**
 Carpet anemones of the same species may have very different colours, some may even appear striped. Colours seen include deep purple, a fresh green to muted pastel blue, green and grey. Andy Dinesh took a
-[video clip of these anemones flourescing](haddoni1v.md)
+[video clip of these anemones flourescing](haddoni1v)
 under UV (ultaviolet) light!
 
 **Sometimes mistaken for**
 other carpet anemones and other large anemones. Here's more on how to tell apart
-[the different kinds of carpet anemones](stichodactyla.md)
+[the different kinds of carpet anemones](stichodactyla)
 and
-[large sea anemones with long tentacles](cfbiglong.md)
+[large sea anemones with long tentacles](cfbiglong)
 and
-[large 'hairy' cnidarians](../cflargecnidarians.md)
+[large 'hairy' cnidarians](../cflargecnidarians)
 .
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Stinging carpet!**
@@ -238,7 +238,7 @@ Like other anemones, the carpet anemone has stingers in its tentacles. Generally
 Carpet anemones harbour symbiotic single-celled algae (called zooxanthellae). The algae undergo photosynthesis to produce food from sunlight. The food produced is shared with the anemone, which in return provides the algae with shelter and minerals. The zooxanthellae are believed to give the tentacles their brown or greenish tinge. Carpet anemones may also feed on fine particles that are trapped on their bodies.
 
 The anemones have also been seen swallowing various animals. The sticky tentacles grab any that blunder or are washed into them. The oral disk can contract quickly to hold on to the luckless prey, which is eventually transferred into the central mouth. Some large creatures that are swallowed up by carpet anemones include fishes and crabs. More photos of
-[what our carpet anemones have been seen swallowing](haddonieat.md)
+[what our carpet anemones have been seen swallowing](haddonieat)
 .
 
 **Haddoni friends:**
@@ -247,29 +247,29 @@ Besides the symbiotic algae that lives inside the their tentacles several kinds 
 sp.), and fishes such as
 *Dascyllus trimaculatus*
 and
-[anemonefishes](../../vertebrates/fish/pomacentridae/amphiprion.md)
+[anemonefishes](../../vertebrates/fish/pomacentridae/amphiprion)
 (
 *Amphiprion*
 sp.) including
 *A. akindynos, A. clarkii, A. fuscocaudatus, A. polymnus, A. sebae, A. xanthurus.*
 But so far, the only animals seen living on our Haddon's carpet anemones are the
-[tiny carpet anemoneshrimp](../../crustacea/othercrust/shrimp/carpet.md)
+[tiny carpet anemoneshrimp](../../crustacea/othercrust/shrimp/carpet)
 (
 *Periclimenes*
 sp.),
-[Peacock-tail anemone shrimp](../../crustacea/othercrust/shrimp/brevicarpalis.md)
+[Peacock-tail anemone shrimp](../../crustacea/othercrust/shrimp/brevicarpalis)
 (
 *Periclimenes brevicarpalis*
 ).
 
 Other animals have been observed taking shelter under these anemones, such as crabs and snapping shrimps.
-[Ball sea cucumbers](../../echinodermata/holothuroidea/phyllophorus.md)
+[Ball sea cucumbers](../../echinodermata/holothuroidea/phyllophorus)
 are often found buried near carpet anemones. Also seen were
-[Kite butterflyfish](../../vertebrates/fish/chaetodontidae/ocellatus.md)
+[Kite butterflyfish](../../vertebrates/fish/chaetodontidae/ocellatus)
 (
 *Parachaetodon ocellatus*
 ) and
-[Chequered cardinalfish](../../vertebrates/fish/apogonidae/margaritophorus.md)
+[Chequered cardinalfish](../../vertebrates/fish/apogonidae/margaritophorus)
 (
 *Apogon margaritophorus*
 ) swimming near, but not touching, carpet anemones. Sometimes small groups of small Kite butterflyfishes are seen near carpet anemones.
@@ -291,14 +291,14 @@ Carpet anemones probably usually stay in one spot. However, they can uproot them
 
 **Bleaching carpet anemones:**
 Carpet anemones do suffer from bleaching, turning pale or flourescent colours when the symbiotic algae leave them. This happens when they are stressed. Stresses include elevated seawater temperatures for an extended time (which causes
-[mass coral bleaching](../coralhard/coralhard.md)
+[mass coral bleaching](../coralhard/coralhard)
 ). As well as other extreme changes in water conditions due to pollution or other causes.
 [In 2007](https://iyor08singapore.blogspot.com/2008/01/chek-jawa-death-and-life-in-2007.html)
 , there was mass bleaching of carpet anemones on Chek Jawa, believed to be due to prolonged and high rain fall upstream in the Johor River. The exreme and prolonged fall in salinity caused the carpet anemones to not only bleach but also balloon up and explode.
 
 **Carpet babies:**
 There is not much information on how Carpet anemones reproduce. Small carpet anemones seen on our shores may actually be another species, the
-[Mini carpet anemone](tapetum.md)
+[Mini carpet anemone](tapetum)
 (
 *Stichodactyla tapetum*
 ) and not a young version of the Haddon's carpet anemone.

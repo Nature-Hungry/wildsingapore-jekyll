@@ -94,7 +94,7 @@ links_references: |
   on SeaLife Base: technical fact sheet.
   - [*Xestospongia testudinaria*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=166902)
   on the World Porifera Database.
-  - [Sponges](http://mangrove.nus.edu.sg/pub/seashore/text/113.md)
+  - [Sponges](http://mangrove.nus.edu.sg/pub/seashore/text/113)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -148,13 +148,13 @@ Large ones have a deep cavity in the centre so they are generally vase- or barre
 barrel may be paler to white.
 
 The outside of the sponge is often covered with tiny beige
-[Spionid sponge worms](../worm/polychaeta/spionidae.md)
+[Spionid sponge worms](../worm/polychaeta/spionidae)
 (Family Spionidae). Sometimes
-[synaptid sea cucumbers](../echinodermata/holothuroidea/synsponge.md)
+[synaptid sea cucumbers](../echinodermata/holothuroidea/synsponge)
 are also seen draped on the outside.
 
 It it not correct to refer to this sponge as the
-[Neptune's cup sponge](patera.md)
+[Neptune's cup sponge](patera)
 (
 *Cliona patera*
 ), which is usually found in deep water and often much larger.

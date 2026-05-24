@@ -135,7 +135,7 @@ Sometimes, similar sponges are found washed ashore. These are usually smooth wit
 
 **Looks similar to**
 the
-[Rambutan sponge](ballprickly.md)
+[Rambutan sponge](ballprickly)
 which has fewer fine spines sometimes with bulbous tips and anchored to the surface with stringy tissues. Golf ball sponges lack these bulbous tips and stringy anchors.
 
 ![](http://www.wildsingapore.com/wildfacts/porifera/golfball/120123hntd5473m3.jpg)

@@ -57,7 +57,7 @@ links_references: |
   **Links**
   - [Shortnose boxfish (
   *Rhynchostracion nasus*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/399.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/399)
   Lim, Kelvin and Jeffrey K Y Low,
   *[Guide to Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre.

@@ -124,11 +124,11 @@ location:
 
 ## Where seen?
 This bumpy crab that resembles the
-[Sally-light-foot crab](../grapsidae/albolineatus.md)
+[Sally-light-foot crab](../grapsidae/albolineatus)
 (
 *Grapsus albolineatus*
 ) is sometimes seen on rocky shores in the North and South. Previously placed in
-[Family Grapsidae](../grapsidae/grapsidae.md)
+[Family Grapsidae](../grapsidae/grapsidae)
 .
 
 ## Features
@@ -137,7 +137,7 @@ Body width 5-6cm. Body oval (not so circular), convex (not flat), covered with s
 
 **Sometimes mistaken for**
 the
-[Sally-light-foot crab](../grapsidae/albolineatus.md)
+[Sally-light-foot crab](../grapsidae/albolineatus)
 (
 *Grapsus albolineatus*
 ) which has a more circular flatter smoother body.

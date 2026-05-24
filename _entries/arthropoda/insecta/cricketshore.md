@@ -37,7 +37,7 @@ galleries:
     caption: Caught by a Marine spider . Kusu Island, Apr 08
 links_references: |
   **Links**
-  - [Mangrove cricket](http://mangrove.nus.edu.sg/guidebooks/text/2010.md)
+  - [Mangrove cricket](http://mangrove.nus.edu.sg/guidebooks/text/2010)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)
   II (Animal Diversity)*
@@ -60,7 +60,7 @@ This tiny cricket is sometimes seen on some of our shores. On rocky shores near 
 ## Features
 
 Body about 1cm long. A fat bodied insect with long back legs and very long antennae. Usually crawls slowly and only hops to escape predators. The
-[Marine spider](../arachnida/desis.md)
+[Marine spider](../arachnida/desis)
 (
 *Desis martensi*
 ) has been seen preying on these crickets.

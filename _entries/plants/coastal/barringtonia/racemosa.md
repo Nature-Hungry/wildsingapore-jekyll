@@ -40,7 +40,7 @@ links_references: |
   - *[Barringtonia racemosa](http://floraofsingapore.wordpress.com/2010/08/04/barringtonia-racemosa/)*
   on the NParks Flora and Fauna website: photos and fact sheet.
   - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.md)
+  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
   (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
   
   **References**
@@ -75,7 +75,7 @@ Flowers small (3-5cm) a pom-pom of many short pink stamens with small pink petal
 Fruit (3-8cm long) egg- or pear-shaped, sometimes weakly angled or with four faint grooves, green ripening to flushed reddish. The fruit floats and may travel in seawater for many months. Each fruit usually contains only one seed (2-4cm long).
 
 It is the food plant for caterpillars of the moths
-[Attacus atlas](../../../insecta/atlas.md)
+[Attacus atlas](../../../insecta/atlas)
 (
 *Atlas Moth*
 ),

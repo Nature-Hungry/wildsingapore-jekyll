@@ -88,7 +88,7 @@ links_references: |
   on the
   [Singapore Snakes](http://singaporesnakes.blogspot.com/)
   blog: fact sheet with photos and links to local sightings and other posts.
-  - [Amphibious Sea Snake](http://www.ecologyasia.com/verts/snakes/amphibious_sea_snake.md)
+  - [Amphibious Sea Snake](http://www.ecologyasia.com/verts/snakes/amphibious_sea_snake)
   on Nick Baker's EcologyAsia website: fact sheet with photos.
   - [*Laticauda colubrina*](https://singapore.biodiversity.online/taxo4254/mainSpace/Laticauda%20colubrina.html#Laticauda%20colubrina)
   (Squamata: Hydrophiidae) Yellow-lipped Sea Krait by Lui Chun Yih Gerald, 2011 on taxo4254.
@@ -147,13 +147,13 @@ Wear covered shoes and long pants to cover all skin exposed to water. Don't hara
 
 **Sometimes confused**
 with the harmless
-[Banded file snake](granulatus.md)
+[Banded file snake](granulatus)
 (
 *Acrochordus granulatus*
 ). Here's
-[how to tell apart banded snakes](cfseafile.md)
+[how to tell apart banded snakes](cfseafile)
 seen near the coast. It may also be confused with eels. Here's more on
-[how to tell apart sea snakes, eels and eel-like animals](../../glossary/eelsnake.md)
+[how to tell apart sea snakes, eels and eel-like animals](../../glossary/eelsnake)
 .
 
 **What does it eat?**

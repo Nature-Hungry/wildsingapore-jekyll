@@ -52,12 +52,12 @@ links_references: |
   on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief description and photos.
   - [File shells (
   *Lima lima*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/162.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/162)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
   - Family Limidae in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   **References**
@@ -92,7 +92,7 @@ These clams are sometimes seen our Southern shores, near reefs.
 
 **What are file clams?**
 File clams are
-[bivalves](../../bivalvia.md)
+[bivalves](../../bivalvia)
 that belong to Family Limidae.
 
 ## Features
@@ -100,7 +100,7 @@ that belong to Family Limidae.
 4- 6cm. Long, fleshy tentacles fringe the mantle which are sticky and detach easily when touched. Some species are attached to a hard surface by byssus threads, or building a nest lined with mingled byssal threads.
 
 Like
-[scallops](../pectinidae/pectinidae.md)
+[scallops](../pectinidae/pectinidae)
 (Family Pectinidae), some file clam species can also 'swim'. They clap their shells together using a strong adductor muscle, creating directed jets of water that emerge from either side of the hinge and propels them in the opposite direction. To distract the disturber, the clam may shed wriggling tentacles. Unlike scallops, file clams can move using their tentacles to 'row' with the shell in a vertical position.
 
 **What do they eat?**
@@ -136,13 +136,13 @@ Ng, P. K. L. & Y. C. Wee, 1994.
 
 **Family Limidae**
 
-*[Lima vulgaris](vulgaris.md)*
+*[Lima vulgaris](vulgaris)*
 =
 *Lima lima*
 (Common file clam)
 *Lima sowerbyi=^Lima vulgaris*
 [*Limaria*
-sp.](limaria.md)
+sp.](limaria)
 (Swimming file clam)
 *Limaria fragilis
 

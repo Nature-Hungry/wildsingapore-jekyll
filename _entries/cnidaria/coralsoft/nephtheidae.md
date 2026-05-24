@@ -84,7 +84,7 @@ galleries:
     caption: Ball flowery soft corals Spherical, with spikes.
 links_references: |
   **Links**
-  - [Soft corals (Order Alcyonacea)](http://mangrove.nus.edu.sg/pub/seashore/text/118.md)
+  - [Soft corals (Order Alcyonacea)](http://mangrove.nus.edu.sg/pub/seashore/text/118)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -137,7 +137,7 @@ Flowery soft corals come in a variety of colours from pink, red, orange to purpl
 Some species can be abundant in areas with fast but one-way flow of water. But they are not often found in areas exposed to strong waves. They can also grow in murky areas.
 
 The
-[fire anemone](../actiniaria/actinodendron.md)
+[fire anemone](../actiniaria/actinodendron)
 (
 *Actinodendron*
 sp.) looks similar to a flower soft coral. Unlike the soft coral, however, the anemone has a powerful sting. So be careful!
@@ -152,11 +152,11 @@ Other flowery soft corals don't have zooxanthellae and gather edible bits from t
 
 **Flowery friends and frenemies:**
 Many kinds of small animals may be found on flowery soft corals. Some like tiny transparent shrimps,
-[snapping shrimps](../../crustacea/othercrust/shrimp/alphballsoft.md)
+[snapping shrimps](../../crustacea/othercrust/shrimp/alphballsoft)
 , porcelain crabs,
-[brittle stars](../../echinodermata/ophiuroidea/tinycolourful.md)
+[brittle stars](../../echinodermata/ophiuroidea/tinycolourful)
 probably just find shelter within the branching arms of the soft coral. Others, like
-[false cowries](../../mollusca/gastropoda/ovulidae/ovulidae.md)
+[false cowries](../../mollusca/gastropoda/ovulidae/ovulidae)
 , eat the soft corals!
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
@@ -193,24 +193,24 @@ Wee Y.C. and Peter K. L. Ng. 1994.
 
 *Dendronephthya*
 sp. (
-[Pink flowery soft coral](neppink.md)
+[Pink flowery soft coral](neppink)
 and
-[Ball flowery soft coral](nepball.md)
+[Ball flowery soft coral](nepball)
 )
 
 +
 [*Nepththea*
-sp.](nepasparagus.md)
+sp.](nepasparagus)
 (Asparagus flowery soft coral)
 
 +
 [*Stereonephthya*
-sp.](nepspiky.md)
+sp.](nepspiky)
 (Spiky flowery soft coral)
 
 +
 [*Litophyton*
-sp.](nepsmooth.md)
+sp.](nepsmooth)
 (Smooth flowery soft coral)
 
 ---

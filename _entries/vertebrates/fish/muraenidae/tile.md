@@ -100,9 +100,9 @@ links_references: |
   **Links**
   - [Estuarine Moray (
   *Gymnothorax tile*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/210.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/210)
   Lim, Kelvin and Jeffrey K Y Low,
-  *[Guide to Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/index.md)*
+  *[Guide to Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/index)*
   . Singapore Science Centre.
   - *[Gymnothorax tile](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=17266)*
   from
@@ -133,7 +133,7 @@ To about 60cm, those seen were about 15-30cm. Body long and cylindrical, only so
 
 **Sometimes mistaken for**
 sea snakes or eels. Here's more on
-[how to tell apart sea snakes, eels and eel-like animals](../../../glossary/eelsnake.md)
+[how to tell apart sea snakes, eels and eel-like animals](../../../glossary/eelsnake)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Human uses:**

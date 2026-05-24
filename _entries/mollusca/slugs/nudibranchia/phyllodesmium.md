@@ -93,7 +93,7 @@ many long finger-like structures (called cerata) arranged in rows across the bod
 According to Bill Rudman,
 *Phyllodesmium briareum*
 feeds on
-[Fine feathery soft corals](../../../cnidaria/coralsoft/feafine.md)
+[Fine feathery soft corals](../../../cnidaria/coralsoft/feafine)
 (
 *Briareum*
 sp.).

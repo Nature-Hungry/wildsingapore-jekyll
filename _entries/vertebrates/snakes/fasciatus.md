@@ -43,7 +43,7 @@ links_references: |
   on the
   [Singapore Snakes](http://singaporesnakes.blogspot.com/)
   blog: fact sheet with photos and links to local sightings and other posts.
-  - [Banded Krait](http://www.ecologyasia.com/verts/snakes/banded_krait.md)
+  - [Banded Krait](http://www.ecologyasia.com/verts/snakes/banded_krait)
   on Nick Baker's EcologyAsia website: fact sheet with photos.
   - [The Banded Krait that graced the launch of the Chek Jawa boardwalk](http://habitatnews.nus.edu.sg/index.php?entry=/marine/20070708-bungarus_fasciatus.txt)
   on the habitatnews blog.
@@ -91,13 +91,13 @@ swimming near mangroves on an offshore island. According to Baker, in Singapore 
 
 **Sometimes confused with**
 the highly venomous
-[Yellow-lipped sea snake](laticauda.md)
+[Yellow-lipped sea snake](laticauda)
 (
 *Laticauda colubrina*
 ). Here's
-[how to tell apart banded snakes](cfseafile.md)
+[how to tell apart banded snakes](cfseafile)
 seen near the coast. It may also be confused with eels. Here's more on
-[how to tell apart sea snakes, eels and eel-like animals](../../glossary/eelsnake.md)
+[how to tell apart sea snakes, eels and eel-like animals](../../glossary/eelsnake)
 .
 
 **What does it eat?**

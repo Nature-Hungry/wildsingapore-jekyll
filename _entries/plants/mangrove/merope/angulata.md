@@ -39,7 +39,7 @@ links_references: |
   on the NParks Flora and Fauna website: photos and fact sheet.
   - [Limau lelang (
   *Merope angulata*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/1067.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/1067)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)
   I (Plant Diversity)*

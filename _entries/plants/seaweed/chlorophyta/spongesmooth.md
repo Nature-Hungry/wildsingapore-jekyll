@@ -115,7 +115,7 @@ Family Halichondriidae)! The sponge cells and spicules are intertwined with the 
 
 **Sometimes confused with**
 the
-[Holey sponge seaweed](../rhodophyta/spongeholey.md)
+[Holey sponge seaweed](../rhodophyta/spongeholey)
 (
 *Ceratodictyon*
 sp.) which has more obvious 'holes' along the 'stems'. It is a red seaweed which also has a symbiotic relationship with another kind of sponge. The two organisms are sometimes difficult to tell apart in the field.

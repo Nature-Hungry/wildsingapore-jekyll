@@ -61,12 +61,12 @@ Stone crabs are commonly seen on our Northern shores, sheltering among stones, c
 Body width 10-12cm, smaller ones also often seen. Large rounded body with large pincers.
 
 The common
-[Stone crab](hardwickii.md)
+[Stone crab](hardwickii)
 (
 *Myomenippe hardwicki*
 i) is identified by
 bright green eyes circled with red. The
-[Maroon stone crab](rumphii.md)
+[Maroon stone crab](rumphii)
 (
 *Menippe rumphii*
 ) lacks such eyes and is usually plain maroon or red.
@@ -75,12 +75,12 @@ bright green eyes circled with red. The
 When a stone is overturned, other crabs usually madly dash out helter skelter. The stone crab merely tucks its limbs under its body and remains motionless. In this way, predators overlook it as they focus instead on the more nervous crabs.
 
 **Sometimes mistaken for**
-[Red egg crabs](../xanthidae/integerrimus.md)
+[Red egg crabs](../xanthidae/integerrimus)
 (
 *Atergatis integerrimus*
 ), especially Stone crabs that are rather reddish.
 Here's more on how to tell apart
-[big crabs with big pincers](../../bigpincer.md)
+[big crabs with big pincers](../../bigpincer)
 seen on the rocky shores and coral rubble.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
@@ -99,9 +99,9 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
 
 **Family Menippidae**
 
-*[Menippe rumphii](rumphii.md)*
+*[Menippe rumphii](rumphii)*
 (Maroon stone crab)
-*[Myomenippe hardwickii](hardwickii.md)*
+*[Myomenippe hardwickii](hardwickii)*
 (Stone or Thunder crab)
 
 *Sphaerozius nitidus*

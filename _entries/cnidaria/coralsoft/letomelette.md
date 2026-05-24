@@ -124,7 +124,7 @@ The colony has both autozooids and siphonozooids. Autozooid polyps have long sle
 During mass coral bleaching, this leathery soft coral not only bleaches but is sometimes also seen to 'melt'. Large holes form in the common tissue so the colony resembles melting cheese. Eventually, the result is that the colony divides into several smaller blobs. Perhaps one way of ensuring at least one of the blobs survives the bleaching event?
 
 Sometimes, tiny
-[ctenophores](../../ctenophora/coeloplana.md)
+[ctenophores](../../ctenophora/coeloplana)
 may be seen on large colonies, so well camouflaged that they are often found by the long fine strings that they produce.
 
 **Status and threats:**
@@ -170,7 +170,7 @@ species recorded for Singapore**
 **
 from Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
 
-**[Family Alcyoniidae](alcyoniidae.md)
+**[Family Alcyoniidae](alcyoniidae)
 
 Genus
 *Sarcophyton***

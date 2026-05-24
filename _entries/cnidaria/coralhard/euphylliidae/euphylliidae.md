@@ -97,7 +97,7 @@ species now no longer in this family.
 Here's more on
 [how to tell apart the
 *Euphyllia*
-species](euphyllia.md)
+species](euphyllia)
 .
 
 **What do they eat?**
@@ -136,13 +136,13 @@ on the
 
 **Family Euphylliidae**
 
-*[**Euphyllia**](euphyllia.md)*
-**[sp.](euphyllia.md)
+*[**Euphyllia**](euphyllia)*
+**[sp.](euphyllia)
 (Anchor corals)**
 with list of species recorded for Singapore.
-*[**Galaxea**](galaxea.md)*
+*[**Galaxea**](galaxea)*
 **[sp
-*.*](galaxea.md)
+*.*](galaxea)
 (Galaxy corals)**
 with list of species recorded for Singapore.
 **
@@ -151,7 +151,7 @@ with list of species recorded for Singapore.
 * (now placed in "Scleractinia incertae sedis (Family)" which means a taxonomic group where its broader relationships are unknown or undefined.)
 
 **
-*[Plerogyra sinuosa](plerogyra.md)*
+*[Plerogyra sinuosa](plerogyra)*
 * (now placed in "Scleractinia incertae sedis (Family)" which means a taxonomic group where its broader relationships are unknown or undefined.)
 
 ---

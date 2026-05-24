@@ -47,7 +47,7 @@ links_references: |
   - Girdled horn snail (
   *Cerithidea cingulata*
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   **References**
@@ -74,7 +74,7 @@ This small snail is sometimes seen in large numbers in shallow sheltered places 
 2-3cm. Shell conical with spirals of large beads. Shell opening large and flared with a spout-like tip. Operculum thin, dark with tight spirals.
 
 **Sometimes confused with**
-[Bazillion snails](../batillariidae/zonalis.md)
+[Bazillion snails](../batillariidae/zonalis)
 which does not have flared shell opening and spout-like tip.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**

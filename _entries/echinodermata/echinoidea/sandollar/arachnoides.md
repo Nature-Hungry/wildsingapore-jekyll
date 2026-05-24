@@ -168,15 +168,15 @@ Sand dollars may appear dead, but they are very much alive. A living sand dollar
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**What eats sand dollars?**
 Some snails such as the
-[Grey bonnet](../../../mollusca/gastropoda/cassidae/glaucum.md)
+[Grey bonnet](../../../mollusca/gastropoda/cassidae/glaucum)
 are believed to feed on sand dollars. A
-[Knobbly sea star](../../asteroidea/protoreaster.md)
+[Knobbly sea star](../../asteroidea/protoreaster)
 was seen with its stomach stuck to a sand dollar. A
-[Haddon's carpet anemone](../../../cnidaria/actiniaria/haddoni.md)
+[Haddon's carpet anemone](../../../cnidaria/actiniaria/haddoni)
 was also seen in the process of engulfing one. Kok Sheng also shared a video clip (below) of
-[hermit crabs](../../../crustacea/othercrust/anomura/hermit/hermit.md)
+[hermit crabs](../../../crustacea/othercrust/anomura/hermit/hermit)
 arguing over a sand dollar. Tiny
-[parasitic snails](../../../mollusca/gastropoda/eulimidae/eulimidae.md)
+[parasitic snails](../../../mollusca/gastropoda/eulimidae/eulimidae)
 are sometimes seen on them too.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}

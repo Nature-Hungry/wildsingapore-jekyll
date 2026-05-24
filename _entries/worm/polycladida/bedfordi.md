@@ -187,7 +187,7 @@ This richly patterned flatworm is more often encountered by divers. It is someti
 8-10cm long. Usually with deep ruffles. Body with a distinctive rich pattern of stripes in black, brown and rose pink with tiny white dots. The stripes curve from the centre of the body to the sides. Black wide margin with white dots. The underside is uniformly pale pink with a wide black margin. It has a pair of pseudotentacles made up of simple folded edges of the body.
 **What does it eat?**
 It eats
-[ascidians](../../ascidiacea/ascidiacea.md)
+[ascidians](../../ascidiacea/ascidiacea)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

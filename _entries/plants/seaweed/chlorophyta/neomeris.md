@@ -126,7 +126,7 @@ According to
 species. The species are hard to tell apart in the field.
 
 **Sometimes confused with**
-[green sea sausage seaweeds](bornetella.md)
+[green sea sausage seaweeds](bornetella)
 (
 *Bornetella*
 sp.) but these are completely green and don't have white stems.

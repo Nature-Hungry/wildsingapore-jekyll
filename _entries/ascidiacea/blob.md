@@ -46,7 +46,7 @@ near the mid-water mark
 . In various shades of black, red, yellow, brown and beige.
 
 These blob ascidians look like the ones that are sometimes used by some
-[sponge crabs](../crustacea/crab/dromiidae/dromiidae.md)
+[sponge crabs](../crustacea/crab/dromiidae/dromiidae)
 for camouflage and protection.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

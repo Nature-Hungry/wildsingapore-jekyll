@@ -73,9 +73,9 @@ This small drill is sometimes seen on large boulders on some of our shores. 'Fus
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**
 According to Brian Ong's study, those on St. John's Island were found to eat false limpets:
-*[Siphonaria javanica](../limpets/javanica.md)*
+*[Siphonaria javanica](../limpets/javanica)*
 and
-*[Siphonaria guamensis](../limpets/guamensis.md)*
+*[Siphonaria guamensis](../limpets/guamensis)*
 . They also rarely ate small bivalves and barnacles. In Brian's study, found that the snail drills a hole through the shell of the false limpet, or by slipping its proboscis under the shell of the false limpet. Brian found that they were not selective about the size of their prey.
 
 **Baby drills:**

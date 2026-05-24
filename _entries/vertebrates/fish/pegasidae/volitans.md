@@ -122,7 +122,7 @@ links_references: |
   **Links**
   - [Slender Seamoth (
   *Pegasus volitans*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/247.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/247)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
@@ -133,7 +133,7 @@ links_references: |
   from
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet.
-  - [Vol. 4. Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.md)
+  - [Vol. 4. Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
 
   **References**
@@ -175,7 +175,7 @@ This odd long-nosed fish with wings is sometimes seen on some of our shores. At 
 Seamoths belong to Family Pegasiidae. According to
 [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=286)
 : the family has 2 genera and 5 species. They are found in the Indo-West Pacific. They are sometimes also called sea robins or dragonfishes. Some scientists place them with the seahorse in the
-[Family Syngnathidae](../syngnathidae/syngnathidae.md)
+[Family Syngnathidae](../syngnathidae/syngnathidae)
 .
 ****
 Pegasus is the winged horse of Greek mythology. In one version of the myth, Pegasus was the son of Poseidon, God of the Sea and Medusa.

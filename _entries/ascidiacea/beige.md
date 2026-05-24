@@ -81,7 +81,7 @@ comes from the dense packing of fecal pellets throughout the colony.
 
 **What eats them?**
 Various kinds of
-[flatworms](../worm/polycladida/polycladida.md)
+[flatworms](../worm/polycladida/polycladida)
 (Order Polycladida) are sometimes seen on the sheets, possibly eating them.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

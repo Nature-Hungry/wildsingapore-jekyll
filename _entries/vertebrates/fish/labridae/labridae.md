@@ -79,7 +79,7 @@ links_references: |
   . The Singapore Science Centre, Singapore. 160 pp.
   - [IUCN Grouper and Wrasse Specialist Group](http://www.hku.hk/ecology/GroupersWrasses/iucnsg/index.html)
   on the endangered members of the Family Labridae with latest Red List for this group.
-  - [Volume 6: Bony fishes part 4 (Labridae to Latimeriidae)](http://www.fao.org/docrep/009/y0870e/y0870e00.md)
+  - [Volume 6: Bony fishes part 4 (Labridae to Latimeriidae)](http://www.fao.org/docrep/009/y0870e/y0870e00)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
 
   **References**
@@ -218,13 +218,13 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
 (Floral wrasse)
 *Cheilinus fasciatus*
 (Red-banded maori wrasse)
-*[Cheilinus oligacanthus](oligacanthus.md)*
+*[Cheilinus oligacanthus](oligacanthus)*
 (Singapore tuskfish)
 *Cheilinus trilobatus=^Cheilinus trilobatus
 
-[Choerodon anchorago](anchorago.md)*
+[Choerodon anchorago](anchorago)*
 (Anchor tuskfish)
-*[Choerodon schoenleinii](schoenleinii.md)*
+*[Choerodon schoenleinii](schoenleinii)*
 (Black-spot tuskfish)
 *Coris gaimard
 
@@ -238,7 +238,7 @@ Epibulus insidiator
 
 +Halichoeres argus*
 (Argus wrasse)
-*[Halichoeres bicolor](bicolor.md)*
+*[Halichoeres bicolor](bicolor)*
 (Brown-stripe wrasse)
 **
 *Halichoeres binotopsis*
@@ -247,7 +247,7 @@ Epibulus insidiator
 *Halichoeres dayi
 
 *Halichoeres dussumieri=^
-[Halichoeres nigrescens](dussumieri.md)*
+[Halichoeres nigrescens](dussumieri)*
 (Diamond tuskfish)
 *+Halichoeres erdmanni*
 (Erdmann’s wrasse)
@@ -292,7 +292,7 @@ Hemiptronotus pendactylus
 (Cheek-lined Maori-wrasse)
 
 [*Pteragogus*
-sp.](pteragogus.md)
+sp.](pteragogus)
 (Weedy wrasse) and list of species recorded for Singapore.
 
 *Stethojulis axillaris=^Stethojulis balteata

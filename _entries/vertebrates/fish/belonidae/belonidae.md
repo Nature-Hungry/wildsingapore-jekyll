@@ -69,23 +69,23 @@ links_references: |
   **Links**
   - [Spot-tail Needlefish (
   *Strongylura strongylura*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/242.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/242)
   and
   [Banded/Slender Needlefish (
   *Strongylura leiura*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/243.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/243)
   Lim, Kelvin and Jeffrey K Y Low,
   *[Guide to Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre.
   - [Spot-tail needlefish (
   *Strongylura strongylura*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2104.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2104)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
   - [Belonidae (Needlefishes)](https://singapore.biodiversity.online/taxon/A-Vert-Fish-Beloniformes-Belonidae)
   on The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.
-  - [Spot-tail needlefish](https://www.ecologyasia.com/verts/fishes/spot-tail-needlefish.md)
+  - [Spot-tail needlefish](https://www.ecologyasia.com/verts/fishes/spot-tail-needlefish)
   on Ecology Asia.
   - [Family Belonidae (Needlefishes)](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=207)
   and
@@ -106,7 +106,7 @@ links_references: |
   from
   [FishBase](http://www.fishbase.org/)
   : Technical fact sheet on the family.
-  - [Vol. 4. Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.md)
+  - [Vol. 4. Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
 
   **References**
@@ -151,9 +151,9 @@ Needlefishes belong to the Family Belonidae. According to
 50cm-1m long or more, these fishes have a long silvery body. In some, the cross-section of the body is circular, in others rectangular. They usually have a dark blue stripe along the body length, and the tip of the lower jaw may be red or orange. They have long, narrow pointed jaws that are beak- or needle-like, thus their common name. 'Belone' means 'needle' in Greek. These slender jaws are usually filled with sharp needle-like teeth. The jaws are shorter in juveniles, elongating as they age. Has one single dorsal fin.
 
 **Sometimes mistaken for**
-[halfbeaks](../hemiramphidae/hemiramphidae.md)
+[halfbeaks](../hemiramphidae/hemiramphidae)
 . Halfbeaks are generally shorter and only their lower jaw is elongated while the upper jaw is very short. In needlefishes, both the upper and lower jaws are of equal length and usually filled with sharp teeth. Here's more on
-[how to tell apart stick-like fishes](../cfstick.md)
+[how to tell apart stick-like fishes](../cfstick)
 commonly seen on our shores.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Camouflage in the open:**

@@ -78,17 +78,17 @@ links_references: |
   *Caulerpa lentillifera*
   )](http://www.fao.org/docrep/006/y4765e/y4765e0b.htm#bm11.8)
   from
-  [A guide to the seaweed industry](http://www.fao.org/docrep/006/y4765e/y4765e00.md)
+  [A guide to the seaweed industry](http://www.fao.org/docrep/006/y4765e/y4765e00)
   by Dennis J. McHugh on the FAO website with lots of details on commercial cultivation of
   *Caulerpa lentillifera*
   .
-  - [Seaweed Mariculture](http://www.botany.uwc.ac.za/algae/StudentAssignments/natalieprins97/caulerpa.md)
+  - [Seaweed Mariculture](http://www.botany.uwc.ac.za/algae/StudentAssignments/natalieprins97/caulerpa)
   by Natalie Prins from the World of Algae page on the the University of the Western Cape, South Africa website: includes the culture and uses of
   *Caulerpa lentillifera*
   .
   - [Sea grapes (
   *Caulerpa lentillifera*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/101.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/101)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -148,7 +148,7 @@ Many of the green seaweeds seen on our shores belong to this genus.
 ## Features
 
 These small, bright green seaweeds come in a variety of shapes. Some look like sausages made up of tiny little green balls, others look feathery and resemble seagrasses, yet others are like tiny umbrellas. Here's more on
-[how to tell apart the sea grapes seaweeds](cfgrapes.md)
+[how to tell apart the sea grapes seaweeds](cfgrapes)
 .
 
 According to
@@ -159,17 +159,17 @@ species.
 
 **Human uses:**
 Caulerpa species are among those grown for human consumption. These include
-*[Caulerpa lentillifera](lentillifera.md)*
+*[Caulerpa lentillifera](lentillifera)*
 . However, some
 *Caulerpa*
 species produce toxins to protect themselves from browsing fish. This also makes them toxic to humans.
 
-[*Caulerpa taxifolia*](taxifolia.md)
+[*Caulerpa taxifolia*](taxifolia)
 was accidentally introduced outside its natural range and has now become a serious pest in the Mediterranean, Australia and California.
 
 **Slug heaven:**
 Many kinds of
-[sap-sucking slugs](../../../mollusca/slugs/sacoglossa/sacoglossa.md)
+[sap-sucking slugs](../../../mollusca/slugs/sacoglossa/sacoglossa)
 (Order Sacoglossa) are often seen in Caulerpa green seaweeds.
 
 *![](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/scalpelliformis/070803cjd4992m6.jpg)*
@@ -204,25 +204,25 @@ Pham, M. N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011.
 
 +From our observation
 
-*[Caulerpa cupressoides](cupressoides.md)*
+*[Caulerpa cupressoides](cupressoides)*
 (Zipper green seaweed)
 *Caulerpa cupressoides*
 var.
 *lycopodium
 
-[Caulerpa lentillifera](lentillifera.md)*
+[Caulerpa lentillifera](lentillifera)*
 (Round sea grapes seaweed)
 *Caulerpa macrophysa*
 (see
 *Caulerpa racemosa*
 )
-*[Caulerpa mexicana](mexicana.md)*
+*[Caulerpa mexicana](mexicana)*
 (Mexican green seaweed)
-*[Caulerpa peltata](peltata.md)*
+*[Caulerpa peltata](peltata)*
 (Big parasol green seaweed)
 *Caulerpa peltata var. macrodisca
 
-[Caulerpa racemosa](racemosa.md)*
+[Caulerpa racemosa](racemosa)*
 (Oval sea grapes seaweed)
 *Caulerpa racemosa*
 var.
@@ -235,28 +235,28 @@ var.
 +
 [*Caulerpa racemosa*
 var.
-*peltata*](peltatasmall.md)
+*peltata*](peltatasmall)
 (Small parasol green seaweed)
 
-*[Caulerpa racemosa](bell.md)*
-[var.](bell.md)
-*[turbinata](bell.md)*
+*[Caulerpa racemosa](bell)*
+[var.](bell)
+*[turbinata](bell)*
 (Bell sea grapes seaweed)
 *Caulerpa scalpelliformis
 
-[Caulerpa serrulata](serrulata.md)*
+[Caulerpa serrulata](serrulata)*
 (Serrated green seaweed)
-*[Caulerpa sertularioides](sertularioides.md)*
+*[Caulerpa sertularioides](sertularioides)*
 (Delicate feathery green seaweed)
 *Caulerpa sertularioides var. longiseta
 
-[Caulerpa taxifolia](taxifolia.md)*
+[Caulerpa taxifolia](taxifolia)*
 (Taxifolia feathery green seaweed)
-*[Caulerpa verticillata](fluffy.md)*
+*[Caulerpa verticillata](fluffy)*
 (Fluffy green seaweed)
 
 +
-*[Caulerpa webbiana](bottlebrush.md)*
+*[Caulerpa webbiana](bottlebrush)*
 (Bottlebrush green seaweed)
 
 ---

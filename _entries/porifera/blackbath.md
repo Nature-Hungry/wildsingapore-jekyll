@@ -82,12 +82,12 @@ sp. 'Vulsella' and
 'black massive'. They are difficult to tell apart in the field.
 
 The
-[Black frogfish](../vertebrates/fish/antennariidae/black.md)
+[Black frogfish](../vertebrates/fish/antennariidae/black)
 (Family Antennariidae) resembles this sponge!
 
 **Sponging clams:**
 Some Spongia species are inhabited by
-[Sponge finger oysters](../mollusca/bivalvia/pteriidae/vulsella.md)
+[Sponge finger oysters](../mollusca/bivalvia/pteriidae/vulsella)
 (
 *Vulsella*
 sp.), a kind of clam that lives only in sponges. These are completely and deeply embedded in the sponge, with only a slit on the surface of the sponge where the bivalve's shell opening is.
@@ -96,7 +96,7 @@ Members of the Family Spongiidaes have a skeleton made up of tough, elastic fibr
 
 **Sometimes confused with**
 the
-[Black prickly sponge](blackprickly.md)
+[Black prickly sponge](blackprickly)
 (
 *Echinodictyum conulosum*
 ) which has a very prickly surface.

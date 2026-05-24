@@ -48,7 +48,7 @@ links_references: |
   - *[Barringtonia asiatica](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2744)*
   on the NParks Flora and Fauna website: photos and fact sheet.
   - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.md)
+  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
   (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
   
   **References**
@@ -79,7 +79,7 @@ This rare prickly plant is only seen in Pulau Semakau, Lazarus Island and Pulau 
 A coarse climbing vine (5-15m long) to a prickly shrub. The compound leaf is bipinnate, i.e., resembles a feather, with 12-24 leaflets (2-4cm long) arranged on side branches on a main leaf branch. The entire compound leaf is up to 1m long. The plant is armed with hooked prickles. Flowers in a cluster (up to 50cmm long) yellow with reddish streaks. Flowers are of one sex only. The fruit pods (6-9cm long) armed with numerous rigid spines. The fruit splits open when ripe to reveal 1-2 seeds which are oval, smooth and grey.
 
 **Sometimes mistaken for**
-[Maiden's jealousy](../tristellateia/australasiae.md)
+[Maiden's jealousy](../tristellateia/australasiae)
 (
 *Tristellateia australasiae*
 ) especially when in bloom.

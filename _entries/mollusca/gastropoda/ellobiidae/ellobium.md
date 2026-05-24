@@ -72,11 +72,11 @@ galleries:
     caption: Chek Jawa, Dec 12 Photo shared by Loh Kok Sheng on flickr .
 links_references: |
   **Links**
-  - [Belongkeng (Family Ellobiidae)](http://mangrove.nus.edu.sg/guidebooks/text/2090.md)
+  - [Belongkeng (Family Ellobiidae)](http://mangrove.nus.edu.sg/guidebooks/text/2090)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
-  - [Mangrove helmet shell (Family Ellobiidae)](http://mangrove.nus.edu.sg/pub/seashore/text/153.md)
+  - [Mangrove helmet shell (Family Ellobiidae)](http://mangrove.nus.edu.sg/pub/seashore/text/153)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -97,7 +97,7 @@ links_references: |
   ) and Midas ear cassidula (
   *Ellobium aurismidae*
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   **References**
@@ -122,7 +122,7 @@ location:
 
 ## Where seen?
 This large snail is sometimes seen in our back mangroves. Sometimes, their empty shells are washed ashore on beaches near mangroves. It breathes air (instead of through gills like most other marine snails). Elsewhere, they are also found in
-[Nipah palm](../../../plants/mangrove/nypa/nypa.md)
+[Nipah palm](../../../plants/mangrove/nypa/nypa)
 groves.
 
 ## Features

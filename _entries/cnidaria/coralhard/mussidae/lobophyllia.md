@@ -126,11 +126,11 @@ has such long tentacles (5cm) that when extended, the coral may be mistaken for 
 
 **Mistaken identity**
 Some ring-shaped Brain corals may resemble some species of
-[Trumpet corals](../merulinidae/caulastraea.md)
+[Trumpet corals](../merulinidae/caulastraea)
 (
 *Caulastraea*
 sp.) as both have branching corallites with circular openings. More on how to tell apart
-[hard corals with big rings and fleshy tissue](../cfbigring.md)
+[hard corals with big rings and fleshy tissue](../cfbigring)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

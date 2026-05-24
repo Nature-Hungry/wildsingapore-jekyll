@@ -63,24 +63,24 @@ galleries:
       caption: Humpbacked shrimp
 links_references: |
   **Links**
-  - [Belachan Shrimp (Family Sergestidae)](http://mangrove.nus.edu.sg/pub/seashore/text/179.md)
+  - [Belachan Shrimp (Family Sergestidae)](http://mangrove.nus.edu.sg/pub/seashore/text/179)
   ,
-  [Glass Shrimp (Family Palaemonidae)](http://mangrove.nus.edu.sg/pub/seashore/text/180.md)
+  [Glass Shrimp (Family Palaemonidae)](http://mangrove.nus.edu.sg/pub/seashore/text/180)
   ,
-  [prawns](http://mangrove.nus.edu.sg/pub/seashore/text/182.md)
+  [prawns](http://mangrove.nus.edu.sg/pub/seashore/text/182)
   Tan, Leo W. H. & Ng, Peter K. L., 1988,
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
   - [Marine prawns (
   *Penaeus and Metapenaeus*
-  spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2038.md)
+  spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2038)
   ,
   [Estuarine prawn (
-  *Macrobrachium equidens)*](http://mangrove.nus.edu.sg/guidebooks/text/2037.md)
+  *Macrobrachium equidens)*](http://mangrove.nus.edu.sg/guidebooks/text/2037)
   ,
   [Mangrove hairy-handed prawn (
   *Caridina propinqua*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2039.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2039)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.
@@ -102,9 +102,9 @@ Among our favourite seafood, prawns and shrimps come in various sizes and colour
 
 **What are prawns and shrimps?**
 Prawns and shrimps are
-[crustaceans](../../crustacea.md)
+[crustaceans](../../crustacea)
 that belong to various groups in the larger Order
-[Decapoda](../../decapoda.md)
+[Decapoda](../../decapoda)
 . There are no clear scientific differences between prawns and shrimps. Generally, smaller ones are called shrimps while larger ones prawns.
 
 ## Features
@@ -120,12 +120,12 @@ Larger shrimps are mostly scavengers or eat small plants and animals. Smaller on
 {% include img-wrap-group.html items=page.galleries.gallery4 %}
 **Role in the habitat:**
 Shrimps are numerous and eaten by a wide variety of larger creatures. In coral reefs, some species of shrimps act as cleaners, picking parasites and dead skin off fishes. The fish 'clients' allow the cleaner shrimps to do their job without eating them. These cleaners are often brightly marked. Some shrimps also live with other sea creatures.
-[Anemone shrimps](palaemonidae.md)
+[Anemone shrimps](palaemonidae)
 , for example, frolick happily among the tentacles of a sea anemone that would kill and eat other creatures.
 
 **Human uses:**
 Shrimps and prawns are relished food by people everywhere. In Asia, shrimps are eaten in many ways. Besides the usual dishes made from whole shrimps, they may also be dried, or made into paste ('belachan') or mixtures ('cincaluk'). Tiny shrimps are used as condiments, and shrimps flavour crackers, balls and other delicacies. While traditional farming and harvesting methods are sustainable, large-scale commercial prawn farms and prawn trawling are more destructive and unsustainable.
-[More about prawn farming](../../../concepts/prawnfarms.md)
+[More about prawn farming](../../../concepts/prawnfarms)
 and trawling.
 ****
 **Status and threats:**
@@ -167,17 +167,17 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 **Prawns and shrimps seen awaiting identification**
 *Species are difficult to positively identify without close examination of small features. On this website, they are grouped by external features for convenience of display.*
 
-[Red-banded shrimps](redband.md)
+[Red-banded shrimps](redband)
 
-[Humpbacked shrimps](humped.md)
+[Humpbacked shrimps](humped)
 
-**[Family Penaeidae](penaeidae.md)
+**[Family Penaeidae](penaeidae)
 (penaeid prawns)**
 with list of species recorded for Singapore
 
 **Infraorder Caridea**
 
-**[Family Alpheidae](alpheidae.md)
+**[Family Alpheidae](alpheidae)
 (snapping shrimps)**
 with list of species recorded for Singapore
 
@@ -201,13 +201,13 @@ Caridina temasek*
 
 ****
 
-**[Family Hippolytidae](hippolytidae.md)
+**[Family Hippolytidae](hippolytidae)
 (humpbacked shrimps, cleaner shrimps, saron shrimps)**
 with list of species recorded for Singapore
 
 ****
 
-**[Family Palaemonidae](palaemonidae.md)
+**[Family Palaemonidae](palaemonidae)
 (glass shrimps and commensal shrimps)**
 with list of species recorded for Singapore
 

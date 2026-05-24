@@ -40,15 +40,15 @@ Among our favourite seafood, lobsters do exist on our shores but they are usuall
 
 **What are lobsters?**
 Lobsters and their relatives are
-[crustaceans](../../crustacea.md)
+[crustaceans](../../crustacea)
 that belong to various Infraorders in the larger Order
-[Decapoda](../../decapoda.md)
+[Decapoda](../../decapoda)
 . The Family Palinuridae include some of the lobsters that we eat. There are other lobster-like animals that are not really shrimps. Those more commonly found on our shores include the
-[mud lobsters](thalassina.md)
+[mud lobsters](thalassina)
 and
-[ghost shrimps](glypturus.md)
+[ghost shrimps](glypturus)
 and
-[mud shrimps](upogebiidae.md)
+[mud shrimps](upogebiidae)
 .
 
 ## Features
@@ -94,7 +94,7 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 **+Family Palinuridae**
 
 +
-*[Panulirus ornatus](palinuridae.md)*
+*[Panulirus ornatus](palinuridae)*
 (Ornate rock lobster)
 
 **Infraorder Thalassinidae**
@@ -106,13 +106,13 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 sp.
 
 [*Corallianassa*
-sp.](glypturus.md)
+sp.](glypturus)
 (Coral ghost shrimp)
 
 **Family Thalassinidae (mud lobsters)**
 
 [*Thalassina*
-sp.](thalassina.md)
+sp.](thalassina)
 (Mud lobsters)
 *Thalassina anomala*
 (EN: Endangered)
@@ -121,7 +121,7 @@ sp.](thalassina.md)
 (EN: Endangered)
 
 ***
-[Family Upogebiidae](upogebiidae.md)
+[Family Upogebiidae](upogebiidae)
 (mud shrimp)**
 
 **Wolffogebia phuketensis*

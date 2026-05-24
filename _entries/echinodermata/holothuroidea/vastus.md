@@ -59,9 +59,9 @@ links_references: |
   on the IUCN Red List: Techinal fact sheet
   - *Stichopus vastus*
   on
-  [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00.md)
+  [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00)
   , by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
-  - [Fisheries, trade and utilization of sea cucumbers in Malaysia](http://www.fao.org/docrep/007/y5501e/y5501e0b.md)
+  - [Fisheries, trade and utilization of sea cucumbers in Malaysia](http://www.fao.org/docrep/007/y5501e/y5501e0b)
   by Choo Poh-Sze WorldFish Center, Penang, Malaysia on the FAO website.
 
   **References**
@@ -74,11 +74,11 @@ location:
 
 ## Where seen?
 This large sea cucumber is sometimes seen on Pulau Semakau, in deeper water coral rubble. It is also called the Curryfish as it is among the sea cucumbers that are edible and harvested for the restaurant trade. Elsewhere, it is found in seagrass meadows, particularly
-[Tape seagrass](../../plants/seagrass/enhalus.md)
+[Tape seagrass](../../plants/seagrass/enhalus)
 and
-[Sickle seagrass](../../plants/seagrass/thalassia.md)
+[Sickle seagrass](../../plants/seagrass/thalassia)
 . It is also found under
-[coralline algae](../../plants/seaweed/rhodophyta/corallinaceae.md)
+[coralline algae](../../plants/seaweed/rhodophyta/corallinaceae)
 . Larger individuals live in deeper soft coral rubble areas outside of seagrass habitats. Also said to live on hard bottom and rubble.
 
 ## Features

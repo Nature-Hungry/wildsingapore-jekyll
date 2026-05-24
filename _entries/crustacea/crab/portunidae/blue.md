@@ -147,7 +147,7 @@ galleries:
     caption: Pulau Salu, Aug 10
 links_references: |
   **Links**
-  - [Swimming crabs (Family Portunidae)](http://mangrove.nus.edu.sg/pub/seashore/text/201.md)
+  - [Swimming crabs (Family Portunidae)](http://mangrove.nus.edu.sg/pub/seashore/text/201)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.

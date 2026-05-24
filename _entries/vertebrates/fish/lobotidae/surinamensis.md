@@ -40,7 +40,7 @@ galleries:
     caption: Tanah Merah, Feb 11 Photo shared by Marcus Ng on flickr .
 links_references: |
   **Links**
-  - [Tripletail](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/303.md)
+  - [Tripletail](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/303)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
@@ -52,7 +52,7 @@ links_references: |
   : Technical fact sheet.
   - [*Lobotes surinamensis*](http://www.iucnredlist.org/details/198670/0)
   from IUCN Red List.
-  - [Volume 5: Bony fishes part 3 (Menidae to Pomacentridae)](http://www.fao.org/docrep/009/y0770e/y0770e00.md)
+  - [Volume 5: Bony fishes part 3 (Menidae to Pomacentridae)](http://www.fao.org/docrep/009/y0770e/y0770e00)
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
 
   **References**
@@ -78,7 +78,7 @@ This fish floats on its side with its head down, so it resembles a drifting leaf
 
 **May be mistaken for**
 the
-[Brown sweetlips](../haemulidae/gibbosus.md)
+[Brown sweetlips](../haemulidae/gibbosus)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**

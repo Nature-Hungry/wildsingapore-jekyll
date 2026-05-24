@@ -65,4 +65,4 @@ The Banded file snake is harmless to humans, while the Yellow-lipped sea snake h
 ---
 
 how to tell apart
-[snakes and eels](../../glossary/eelsnake.md)
+[snakes and eels](../../glossary/eelsnake)

@@ -38,12 +38,12 @@ galleries:
     caption: Large foramen ringed in black.
 links_references: |
   **Links**
-  - [Sea Slug Forum](http://www.seaslugforum.net/welcome.md)
+  - [Sea Slug Forum](http://www.seaslugforum.net/welcome)
   by Dr Bill Rudman: photos and fact sheet on
   *[Aplysia parvula](http://www.seaslugforum.net/factsheet/aplyparv)*
   - [The Slug Site:](http://slugsite.us/)
   photo and fact sheet on the Branch of the Week
-  *[Aplysia parvula](http://slugsite.us/bow/nudwk323.md)*
+  *[Aplysia parvula](http://slugsite.us/bow/nudwk323)*
 
   **References**
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
@@ -74,14 +74,14 @@ It is among the smallest of the
 sea hares, and '
 *parvus*
 ' means 'little'. (It isn't the smallest sea hare: the
-[seagrass seahare](seagrass.md)
+[seagrass seahare](seagrass)
 (
 *Phyllaplysia*
 sp.) is much smaller).
 
 **Sometimes mistaken for**
 the
-[Leaf slug](../sacoglossa/ornata.md)
+[Leaf slug](../sacoglossa/ornata)
 (
 *Elysia ornata*
 ) which is not a sea hare but a sap sucking slug. The Leaf slug only has one pair of tentacles and its 'wings' are much longer, extending along most of the body length.

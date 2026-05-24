@@ -40,7 +40,7 @@ links_references: |
   **Links**
   - [Scissortail sergeant (
   *Abudefduf sexfasciatus*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/340.md)
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/340)
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
   . Singapore Science Centre. 163 pp.
@@ -70,7 +70,7 @@ This distinctive fish is sometimes seen on our coral reefs. Elsewhere, it is fou
 ## Features
 
 To 17-22cm, those seen about 15cm. It is identified by the black horizontal stripes on the pointed tail fins so the tail resembles scissors. Like other sergeants, it has 4-5 broad black bars across a yellowish body. More on
-[how to tell apart sergeants](pomacentridae.md)
+[how to tell apart sergeants](pomacentridae)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**

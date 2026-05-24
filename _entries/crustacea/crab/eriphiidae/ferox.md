@@ -167,7 +167,7 @@ links_references: |
   **Links**
   - [Red Eyed Reef Crab (
   *Eriphia smithi*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/216.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/216)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -235,7 +235,7 @@ is restricted to the Indian Ocean. Most specimens in Southeast and East Asia as 
 
 **Sometimes confused with**
 similar crabs in the same habitat. Here's more on how to tell apart
-[big crabs with big pincers](../../bigpincer.md)
+[big crabs with big pincers](../../bigpincer)
 seen on the rocky shores and coral rubble.
 
 **Status and threats:**

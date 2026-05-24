@@ -70,16 +70,16 @@ location:
 
 ## Where seen?
 These tiny flattened worms are often seen on other animals, usually
-[cnidarians](../../cnidaria/cnidaria.md)
+[cnidarians](../../cnidaria/cnidaria)
 such as
-[hard corals](../../cnidaria/coralhard/coralhard.md)
+[hard corals](../../cnidaria/coralhard/coralhard)
 of various species and
-[corallimorphs](../../cnidaria/others/corallimorphs/corallimorph.md)
+[corallimorphs](../../cnidaria/others/corallimorphs/corallimorph)
 .
 
 **What are aceol flatworms?**
 They are unsegmented worms that belong to Class Acoela. Some put them in Phylum Platyhelminthes like the other larger
-[flatworms](../polycladida/polycladida.md)
+[flatworms](../polycladida/polycladida)
 .
 
 ## Features
@@ -91,7 +91,7 @@ It is believed that they graze on the edible bits that get trapped in the mucus 
 
 **What eats them?**
 Among their predators are
-[tailed slugs](../../mollusca/slugs/cephalaspidea/cephalaspidea.md)
+[tailed slugs](../../mollusca/slugs/cephalaspidea/cephalaspidea)
 (Family Aglajidae).
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

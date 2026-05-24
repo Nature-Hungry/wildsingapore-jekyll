@@ -97,7 +97,7 @@ This long unbranched colony is sometimes seen on our Northern shores, on coral r
 According to Fabricius, in some species, the tip of the colony can detach to fall to the sea floor and grow up as a new sea whip.
 
 A long unbranched colony of
-[Asparagus sea fan](asparagus.md)
+[Asparagus sea fan](asparagus)
 may resemble a sea whip. Another species that has a long unbranched whip-like form is
 *Viminella*
 sp.

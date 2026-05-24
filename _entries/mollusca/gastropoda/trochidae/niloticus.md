@@ -131,7 +131,7 @@ galleries:
     caption: Terumbu Berkas, Jan 10
 links_references: |
   **Links**
-  - [Family Trochidae](http://mangrove.nus.edu.sg/pub/seashore/text/134.md)
+  - [Family Trochidae](http://mangrove.nus.edu.sg/pub/seashore/text/134)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -146,7 +146,7 @@ links_references: |
   - Commercial top (
   *Trochus niloticus*
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   **References**
@@ -182,7 +182,7 @@ location:
 This enormous conical snail is sometimes seen among large boulders and artificial seawalls on Southern shores. Elsewhere, it is found in coral reefs, typically in shallow, high-energy barrier and fringing reefs. It was previously known as
 *Trochus niloticus*
 in
-[Family Trochidae](trochidae.md)
+[Family Trochidae](trochidae)
 .
 
 ## Features

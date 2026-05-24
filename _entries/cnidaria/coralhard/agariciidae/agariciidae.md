@@ -115,16 +115,16 @@ on the
 
 *Gardineroseris planulata*
 (Honeycomb corals)
-*[Pachyseris rugosa](castle.md)*
+*[Pachyseris rugosa](castle)*
 (Castle coral)
 **
 (Vulnerable)
-*[Pachyseris speciosa](pachyseris.md)
+*[Pachyseris speciosa](pachyseris)
 ***
 (Ringed plate coral)
 **
 [***Pavona***
-**sp.**](pavona.md)
+**sp.**](pavona)
 **(Lettuce corals)**
 with list of species recorded for Singapore
 

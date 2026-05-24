@@ -83,13 +83,13 @@ links_references: |
   **Links**
   - [Mud lobster (
   *Thalassina anomala*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/183.md)
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/183)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
   - [Mud lobster (
   *Thalassina anomala*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2064.md)
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2064)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore I (Plant Diversity](http://mangrove.nus.edu.sg/guidebooks/)*
   [)](http://mangrove.nus.edu.sg/guidebooks/)
@@ -134,7 +134,7 @@ The mud lobster is almost never seen out of its burrow in the mangrove mud. But 
 ## Features
 
 Up to 30cm long. The mud lobster is actually not a lobster but more of a giant shrimp. It is more closely related to
-[ghost shrimps](glypturus.md)
+[ghost shrimps](glypturus)
 of the genus
 *Callianasa*
 . The mud lobster lives deep under the mound in a U-shaped tunnel and rarely emerges above ground. According to the Singapore Red Data Book, there are two species of mudlobsters found in Singapore.
@@ -150,13 +150,13 @@ The mud lobster plays a key role in sustaining life in a mangrove. It is believe
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Mud lobster 'Condo':**
 A mud lobster mound can be as tall as 2m above the ground! The mud lobster mound is drier than its surroundings so it makes a perfect home for other animals. Many animals can be found in living in these 'high-rise' mounds, creating their own burrows in the mound, sometimes complete with chimneys. 'Condo' dwellers include
-[snakes](../../../vertebrates/snakes/granulatus.md)
+[snakes](../../../vertebrates/snakes/granulatus)
 ,
-[crabs](../../crab/sesarmidae/sesarmidae.md)
+[crabs](../../crab/sesarmidae/sesarmidae)
 , ants, spiders, worms, clams and shrimps. Some
-[plants](../../../plants/mangrove/mangroves.md)
+[plants](../../../plants/mangrove/mangroves)
 also appear to grow better on these mounds. The condominium comes complete with swimming pool! Water is trapped in the mound system forming pools. At low tide, these shelter aquatic animals such as
-[mudskippers](../../../vertebrates/fish/gobiidae/mudskipper.md)
+[mudskippers](../../../vertebrates/fish/gobiidae/mudskipper)
 .
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Human uses:**

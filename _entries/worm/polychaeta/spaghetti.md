@@ -85,7 +85,7 @@ sea anemones or cerianthids.
 
 **What eats them?**
 The
-[Paper bubble snail](../../mollusca/slugs/cephalaspidea/hydatinidae.md)
+[Paper bubble snail](../../mollusca/slugs/cephalaspidea/hydatinidae)
 feeds exclusively on worms from the Family Cirratulidae.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

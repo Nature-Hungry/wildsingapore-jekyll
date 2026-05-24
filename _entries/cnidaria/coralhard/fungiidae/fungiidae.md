@@ -137,11 +137,11 @@ Most members of the Family Fungiidae are solitary corals that are free-living (i
 ## Features
 
 Unlike most other hard corals which are colonies of small polyps, most mushroom corals are a single giant polyp. Some species have a circular disk-like skeleton, others are long and tongue-like. Most have short tentacles, except for the
-[Sunflower mushroom coral](heliofungia.md)
+[Sunflower mushroom coral](heliofungia)
 (
 *Heliofungia actiniformis*
 ) that has such long tentacles that it is often
-[mistaken for a sea anemone](../../cflargecnidarians.md)
+[mistaken for a sea anemone](../../cflargecnidarians)
 .
 
 Mushroom corals have variable colours, often the mouth is the most strikingly coloured. In some, the tissue around the mouth is banded. Their tentacles are often extended in daytime. According to Veron, the violet or bright pink patches seen on some mushroom hard corals are due to damage and injury.
@@ -194,31 +194,31 @@ on the
 **Family Fungiidae**
 
 [***Ctenactis***
-**sp.**](ctenactis.md)
+**sp.**](ctenactis)
 **(Feather mushroom corals)**
 with list of species recorded for Singapore
 
-*[**Fungia**](fungia.md)*
-**[sp.](fungia.md)
+*[**Fungia**](fungia)*
+**[sp.](fungia)
 (Fungia mushroom corals)**
 with list of species recorded for Singapore
 
-*[Heliofungia actiniformis](heliofungia.md)*
+*[Heliofungia actiniformis](heliofungia)*
 (Sunflower mushroom coral)
 **
 (Vulnerable)
-*[Herpolitha limax](herpolitha.md)*
+*[Herpolitha limax](herpolitha)*
 (Tongue mushroom coral)
-*[Lithophyllon undulatum](lithophyllon.md)
+*[Lithophyllon undulatum](lithophyllon)
 =Lithophyllon edwardsi*
 (Lithophyllon mushroom coral) (Near Threatened)
 **
 [***Podabacia***
-**sp.**](bracket.md)
+**sp.**](bracket)
 **(Bracket mushroom coral)**
 with list of species recorded for Singapore
 
-[*Polyphyllia talpina*](polyphyllia.md)
+[*Polyphyllia talpina*](polyphyllia)
 (Mole mushroom coral)
 
 ---

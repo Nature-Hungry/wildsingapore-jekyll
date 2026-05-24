@@ -84,7 +84,7 @@ galleries:
       Sheng on his blog
 links_references: |
   **Links**
-  - [Pebble crabs (Family Leucosiidae)](http://mangrove.nus.edu.sg/guidebooks/text/2061.md)
+  - [Pebble crabs (Family Leucosiidae)](http://mangrove.nus.edu.sg/guidebooks/text/2061)
   Ng, Peter K. L. & N. Sivasothi, 1999.
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
   . Singapore Science Centre. 168 pp.

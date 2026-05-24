@@ -97,7 +97,7 @@ Resembling a white nose inhaler, this colony of animals on a stick is often seen
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Pencil snacks?**
 The
-[Armina nudibranch](../../../mollusca/slugs/nudibranchia/bumpyface.md)
+[Armina nudibranch](../../../mollusca/slugs/nudibranchia/bumpyface)
 eats sea pens, and sometimes, they can be seen near sea pencils.
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

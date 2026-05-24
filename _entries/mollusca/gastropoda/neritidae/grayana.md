@@ -51,7 +51,7 @@ This snail is sometimes seen in large numbers in mangroves. The study by Tan & C
 The flat underside may be smooth or wrinkled, white to yellowish or with orange tinge. Square notched 'teeth' (3-4) on the straight edge at the shell opening, the uppermost one is squarish. Tiny or no 'tooth' on one side of the shell opening. Operculum thick, evenly covered in tiny bumps, grayish with beige patches. Body creamy white with dark tentacles.
 
 **Sometimes confused with**
-[Waved nerites](undata.md)
+[Waved nerites](undata)
 which are not found in mangroves and have one distinctly large 'tooth' on one side of the shell opening which the Grey mangrove nerite does not.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

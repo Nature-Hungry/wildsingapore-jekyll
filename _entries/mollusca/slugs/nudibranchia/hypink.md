@@ -98,7 +98,7 @@ links_references: |
   sp. 8.](http://www.seaslugforum.net/find/hypssp8)
   - [The Slug Site:](http://slugsite.us/)
   photo and fact sheet on the Branch of the Week
-  [*Hypselodoris bullockii*](http://slugsite.us/bow/nudwk424.md)
+  [*Hypselodoris bullockii*](http://slugsite.us/bow/nudwk424)
   with a discussion on the wide range of morps of this nudibranch
   - [A Guide to Singapore Nudibranchs](http://rmbr.nus.edu.sg/nudibranch/main.html)
   by Uma Sachidhanandam: photo and distribution of

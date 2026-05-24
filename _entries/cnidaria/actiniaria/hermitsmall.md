@@ -69,9 +69,9 @@ This small anemone is sometimes seen on shells occupied by hermit crabs on our N
 
 Diameter with tentacles extended 1-2cm. Many short tapering tentacles, semi-transparent some with pale brown bands. Body column short, smooth and not covered in sediments, pale some with faint stripes. Oral disk white or with white radiating stripes. Sometimes, a single single shell may bear two or three of these anemones.
 
-[Big anemones](hermitbig.md)
+[Big anemones](hermitbig)
 are also seen on shells occupied by hermit crabs. While other anemones
-[hitch a ride on the shell of living snails](snail.md)
+[hitch a ride on the shell of living snails](snail)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Species are difficult to positively identify without close examination.

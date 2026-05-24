@@ -98,7 +98,7 @@ These fishes are rarely seen naturally on the shore at low tide. They are more o
 
 **What are angelfishes?**
 They belong to Family Pomacanthidae which has 9 genera and 74 species. They are found in the Atlantic, Indian and Pacific oceans. They are closely related to the butterflyfishes (
-[Family Chaetodontidae](../chaetodontidae/chaetodontidae.md)
+[Family Chaetodontidae](../chaetodontidae/chaetodontidae)
 ) and were previously placed in the butterflyfish family.
 
 ## Features
@@ -144,12 +144,12 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
 
 **Family Pomacanthidae**
 
-*[Chaetodontoplus mesoleucus](mesoleucus.md)*
+*[Chaetodontoplus mesoleucus](mesoleucus)*
 (Yellowtail or Vermiculated angelfish)
 **
 *Chaetodontoplus septentrionalis*
 (Blue-striped angelfish)
-*[Pomacanthus annularis](annularis.md)*
+*[Pomacanthus annularis](annularis)*
 (Bluering angelfish)
 *Pomacanthus imperator
 

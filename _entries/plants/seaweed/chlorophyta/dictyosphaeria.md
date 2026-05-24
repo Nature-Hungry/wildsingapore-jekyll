@@ -47,9 +47,9 @@ links_references: |
   on the
   [Sea Slug Forum](http://www.seaslugforum.net/)
   : photo and description of the seaweed and the slugs that eat it.
-  - [*Dictyosphaeria cavernosa*](http://www.hawaii.edu/reefalgae/invasive_algae/chloro/dictyosphaeria_cavernosa.md)
+  - [*Dictyosphaeria cavernosa*](http://www.hawaii.edu/reefalgae/invasive_algae/chloro/dictyosphaeria_cavernosa)
   from
-  [Marine Algae of Hawai`i](http://www.hawaii.edu/reefalgae/default.md)
+  [Marine Algae of Hawai`i](http://www.hawaii.edu/reefalgae/default)
   on the University of Hawai`i Botany Department website: fact sheet with photos.
   - [*Dictyosphaeria*](http://www.algaebase.org/search/genus/detail/?genus_id=35942)
   on
@@ -93,7 +93,7 @@ This seaweeed with a pimply or bubbly texture is sometimes seen on some of our S
 Small clusters (5-7cm) of hollow irregular globular lumps (1-2cm). Made up of a layer of tiny spheres joined together. This is the seaweed's mature form, resulting from an unusual form of division, when it produces a mass of tiny spheres. Immature forms may be firm, irregularly shaped and generally globular. Bright green to bluish green.
 
 According to
-[Marine Algae of Hawai`i](http://www.hawaii.edu/reefalgae/default.md)
+[Marine Algae of Hawai`i](http://www.hawaii.edu/reefalgae/default)
 the bubble-like structure of this seaweed allows it to efficiently trap nutrient-laden sediments in the chambers. The seaweed then slowly taps on this nutrient store.
 
 According to

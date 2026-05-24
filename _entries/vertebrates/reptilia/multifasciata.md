@@ -34,9 +34,9 @@ galleries:
       caption: With black stripes on the back and white dots on the sides.
 links_references: |
   **Links**
-  - [Many-lined Sun Skink](http://www.ecologyasia.com/verts/lizards/many-lined_sun_skink.md)
+  - [Many-lined Sun Skink](http://www.ecologyasia.com/verts/lizards/many-lined_sun_skink)
   on Nick Baker's EcologyAsia website: fact sheet with photos.
-  - [Many-lined Sun Skink](http://www.wildsingapore.per.sg/discovery/factsheet/skinkmanylined.md)
+  - [Many-lined Sun Skink](http://www.wildsingapore.per.sg/discovery/factsheet/skinkmanylined)
   on Chan Kwok Wai's Wildlife Singapore: fact sheet with photos.
   
   **References**

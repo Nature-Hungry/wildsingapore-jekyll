@@ -46,7 +46,7 @@ galleries:
       Jawa, May 05
 links_references: |
   **Links**
-  - [Training Manual on Gracilaria Culture and Seaweed Processing in China](http://www.fao.org/docrep/field/003/AB730E/AB730E00.md)
+  - [Training Manual on Gracilaria Culture and Seaweed Processing in China](http://www.fao.org/docrep/field/003/AB730E/AB730E00)
   : biology of
   *Gracilaria*
   , farming, harvesting and processing of
@@ -110,7 +110,7 @@ According to
 : There are more than 180 current
 *Gracilaria*
 species. The species are difficult to differentiate based on external features alone. Except for
-[Knobbly agar-agar red seaweed](salicornia.md)
+[Knobbly agar-agar red seaweed](salicornia)
 (
 *Gracilaria salicornia*
 ) with distinctive club-shaped segments.
@@ -217,7 +217,7 @@ Gracilaria minuta
 
 Gracilaria rhodymenioides
 
-[Gracilaria salicornia](salicornia.md)*
+[Gracilaria salicornia](salicornia)*
 (Knobbly agar-agar seaweed)
 *Gracilaria srilankia
 

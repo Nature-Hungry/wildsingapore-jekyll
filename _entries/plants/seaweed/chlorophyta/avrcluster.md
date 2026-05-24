@@ -35,7 +35,7 @@ galleries:
     caption: Pulau Pawai, Dec 09
 links_references: |
   **Links**
-  - [*Avrainvillea*](http://mangrove.nus.edu.sg/pub/seashore/text/102.md)
+  - [*Avrainvillea*](http://mangrove.nus.edu.sg/pub/seashore/text/102)
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
   . The Singapore Science Centre, Singapore. 160 pp.
@@ -82,7 +82,7 @@ species.
 
 **Sometimes confused with**
 other fan-shaped green seaweeds. Here's more on
-[how to tell apart fan-shaped green seaweeds](cffan.md)
+[how to tell apart fan-shaped green seaweeds](cffan)
 .
 
 *![](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrcluster/050610sntd3928m3.jpg)
