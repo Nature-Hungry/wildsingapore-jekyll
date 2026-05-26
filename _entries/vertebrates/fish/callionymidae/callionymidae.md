@@ -1,9 +1,8 @@
 ---
 title: Dragonets
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: dragonet, fish, callionymidae, field, guide, seashore, sea, shore, 
-  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: dragonet, fish, callionymidae, field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Callionymidae
 genus: ''
@@ -19,85 +18,132 @@ superorder: Acanthomorpha
 order: Syngnathiformes
 suborder: Callionymoidei
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/120801chgmn.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/120801chgmn.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/120801chgmn.jpg
-    caption: A tiny one about 1cm long. Changi, Aug 12 Photo shared by Marcus Ng
-      on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/mosaic/091008tmd2380m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/120801chgmn.jpg
+    caption: A tiny one about 1cm long. Changi, Aug 12 Photo shared by Marcus Ng on
+      flickr .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/mosaic/091008tmd2380m3a.jpg
     caption: Downward pointing mouth. Tanah Merah, Oct 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/091020chgd2942m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/091020chgd2942m3.jpg
     caption: Underside of a dead one. Changi, Oct 09
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/mosaic/091008tmd2380m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/mosaic/091008tmd2380m3.jpg
     caption: Mosaic dragonet
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/090709chgd6825m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/090709chgd6825m3.jpg
     caption: Smallhead dragonet
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/dactylopus/140501kusd5015m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/dactylopus/140501kusd5015m3.jpg
     caption: Kuiter's dragonet
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
+
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
+
   . Singapore Science Centre. 163 pp.
+
   - [Callionymidae (Dragonets)](https://singapore.biodiversity.online/taxon/A-Vert-Fish-Perciformes-Callionymidae)
+
   on The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.
+
   - [Dragonets](https://www.ecologyasia.com/verts/fishes/dragonets)
+
   on Ecology Asia.
+
   - [Family Callionymidae (Dragonets)](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=435)
+
   and
+
   [*Callionymus enneactis*
+
   (Mangrove dragonet)](http://www.fishbase.org/summary/17468)
+
   and
+
   [*Callionymus erythraeus*
+
   (Smallhead dragonet)](http://www.fishbase.org/summary/46382)
+
   and
+
   [*Callionymus hindsii*
-  (Hind's dragonet)](http://www.fishbase.org/summary/46386)
+
+  (Hind''s dragonet)](http://www.fishbase.org/summary/46386)
+
   and
+
   *[Callionymus melanotopterus](http://www.fishbase.org/summary/59304)*
+
   and
+
   [*Callionymus sagitta*
+
   (Arrow dragonet)](http://www.fishbase.org/summary/26827)
+
   and
+
   [*Dactylopus dactylopus*
+
   (Fingered dragonet)](http://www.fishbase.org/summary/8240)
+
   and
+
   *[Synchiropus lineolatus](http://www.fishbase.org/summary/58300)*
+
   from
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheet on the family.
 
+
   **References**
+
   - Toh Chay Hoon & Kelvin K. P. Lim.
+
   *Rediscovery of the lined dragonet in Singapore*
-  . 30 May 2018. Singapore Biodiversity Records 2018: 54 ISSN 2345-7597. National University of Singapore.
+
+  . 30 May 2018. Singapore Biodiversity Records 2018: 54 ISSN 2345-7597. National
+  University of Singapore.
+
   - Kelvin K. P. Lim, Neo Mei Lin, Debby Ng & Toh Chay Hoon. 17 April 2014.
-  *New record of Kuiter's dragonet from Singapore*
+
+  *New record of Kuiter''s dragonet from Singapore*
+
   . Singapore Biodiversity Records 2014: 103-104
+
   - Ng, H. H., 2012.
+
   *The dragonets of Singapore (Actinopterygii: Perciformes: Callionymidae)*
+
   . Nature in Singapore, 5: 27-38. [PDF, 1.55 MB]
+
   - Wee Y.C. and Peter K. L. Ng. 1994.
+
   *A First Look at Biodiversity in Singapore*
+
   . National Council on the Environment. 163pp.
+
   - Allen, Gerry, 2000.
+
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
+
   . Periplus Editions. 292 pp.
+
   - Kuiter, Rudie H. 2002.
+
   *Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers & Fishermen*
+
   New Holland Publishers. 434pp.
+
   - Lieske, Ewald and Robert Myers. 2001.
+
   *Coral Reef Fishes of the World*
+
   Periplus Editions. 400pp.
+
+  '
 location:
 - skd
 - tus
@@ -111,6 +157,10 @@ location:
 - tpg
 - smk
 - tsm
+size:
+- 3.0
+- 5.0
+- 10.0
 ---
 
 ## Where seen?

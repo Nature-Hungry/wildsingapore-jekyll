@@ -1,10 +1,9 @@
 ---
 title: Vermilion flatworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: little, ruby, red, flat, worm, flatworm, phrikoceros baibaiye,  
-  polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, 
-  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: little, ruby, red, flat, worm, flatworm, phrikoceros baibaiye, polyclad,
+  turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Pseudocerotidae
 genus: Phrikoceros
@@ -18,80 +17,58 @@ subphylum: Rhabditophora
 order: Polycladida
 suborder: Cotylea
 updated: Feb 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/100626cyrd7024m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/100626cyrd7024m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/100626cyrd7024m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/100626cyrd7024m3.jpg
     caption: Cyrene Reef, Jun 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/050709skdg9312m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/050709skdg9312m3.jpg
     caption: Pulau Sekudu, Jul 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/050709skdg9312m3a.jpg
-    caption: Pseudotentacles are squarish, ruffled on the sides, with white 
-      tips.
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/050709skdg9312m3a.jpg
+    caption: Pseudotentacles are squarish, ruffled on the sides, with white tips.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/251107chgmn2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/251107chgmn2.jpg
     caption: Changi Point, Nov 25 Shared by Marcus Ng on facebook.
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/101009cjnml1m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/101009cjnml1m3b.jpg
     caption: Chek Jawa, Oct 10 Photo shared by Neo Mei Lin on her blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/140104cjlks1m3.JPG
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/140104cjlks1m3.JPG
     caption: Chek Jawa, Jan 14 Photo shared by Loh Kok Sheng on his blog .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/160209cyrlks3.JPG
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/160209cyrlks3.JPG
     caption: Cyrene Reef, Feb 16 Photo shared by Lok Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/120819cyrlks1m3.JPG
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/120819cyrlks1m3.JPG
     caption: Cyrene Reef, Aug 12 Photo shared by Lok Kok Sheng on his blog .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/180812cyrjt2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/180812cyrjt2.jpg
     caption: Cyrene Reef, Aug 18* Photo shared by Jonathan Tan on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/180812cyrmn3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/180812cyrmn3.jpg
     caption: Cyrene Reef, Aug 18 Photo shared by Marcus Ng on facebook .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/180812cyray1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/180812cyray1.jpg
     caption: Cyrene Reef, Aug 18 Photo shared by Abel Yeo on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/200627cyrlks8.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/200627cyrlks8.jpg
     caption: Cyrene Reef, Jun 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/200918cyrjll3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/200918cyrjll3.jpg
     caption: Cyrene Reef, Sep 20 Photo shared by Jianlin Liu on facebook .
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/110814smklks8m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/110814smklks8m3.jpg
     caption: Pulau Semakau, Aug 11 Photo shared by Lok Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/100813smknml1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/100813smknml1m3.jpg
     caption: Pulau Semakau, Aug 10 Photo shared by Neo Mei Lin on her blog .
   gallery8:
   - url: https://farm5.staticflickr.com/4117/4889540764_a091ca0882.jpg
     caption: Pulau Semakau, Aug 10, shared by Marcus Ng
-links_references: |
-  **Links**
-  - [*Phrikoceros baibaiye*](http://polycladida.lifedesks.org/pages/3220)
-  on Encyclopedia of Life, LifeDesks, Marine Flatworms - Polycladida: Technical fact sheet.
-
-  **References**
-  - Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018.
-  *A preliminary checklist and photographic catalogue of polyclad flatworms recorded from Singapore.*
-  Nature in Singapore 2018 11: 77–125
-  - D. M. Bolaños, B. Q. Gan & R. S. L. Ong. 29 Jun 2016.
-  *First records of pseudocerotid flatworms (Platyhelminthes: Polycladida: Cotylea) from Singapore: A taxonomic report with remarks on colour variation*
-  .(pdf) The Raffles Bulletin of Zoology Supplement No. 34: 130-169 Pp. 130-169.
-  - Newman, Leslie and Lester Cannon. 2003.
-  *Marine Flatworms: The World of Polyclads*
-  . CSIRO Publishing. 97pp.
+links_references: "**Links**\n- [*Phrikoceros baibaiye*](http://polycladida.lifedesks.org/pages/3220)\n\
+  on Encyclopedia of Life, LifeDesks, Marine Flatworms - Polycladida: Technical fact\
+  \ sheet.\n\n**References**\n- Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018.\n\
+  *A preliminary checklist and photographic catalogue of polyclad flatworms recorded\
+  \ from Singapore.*\nNature in Singapore 2018 11: 77\u2013125\n- D. M. Bola\xF1os,\
+  \ B. Q. Gan & R. S. L. Ong. 29 Jun 2016.\n*First records of pseudocerotid flatworms\
+  \ (Platyhelminthes: Polycladida: Cotylea) from Singapore: A taxonomic report with\
+  \ remarks on colour variation*\n.(pdf) The Raffles Bulletin of Zoology Supplement\
+  \ No. 34: 130-169 Pp. 130-169.\n- Newman, Leslie and Lester Cannon. 2003.\n*Marine\
+  \ Flatworms: The World of Polyclads*\n. CSIRO Publishing. 97pp.\n"
 location:
 - chg
 - cj
@@ -99,6 +76,9 @@ location:
 - ''
 - cyr
 - smk
+size:
+- 3.0
+- 4.0
 ---
 
 ## Where seen?

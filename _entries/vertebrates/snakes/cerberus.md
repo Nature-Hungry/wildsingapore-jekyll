@@ -1,10 +1,9 @@
 ---
 title: Dog-faced water snake
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: schneider, bockadam, dog, faced, water, snake, watersnake, cerberus, 
-  schneiderii, rynchops, homalopsidae, colubridae, field, guide, seashore, sea, 
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: schneider, bockadam, dog, faced, water, snake, watersnake, cerberus, schneiderii,
+  rynchops, homalopsidae, colubridae, field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Homalopsidae
 genus: Cerberus
@@ -19,86 +18,113 @@ class: Reptilia
 order: Squamata
 suborder: Serpentes
 updated: Oct 2016
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/031128sbwrad0089m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/031128sbwrad0089m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/070222prpd8325m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/070222prpd8325m3.jpg
     caption: The fish is lifted out of water. Pasir Ris Park, Feb 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/070306prpd8802m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/070306prpd8802m3.jpg
     caption: Attempted theft of prey. Pasir Ris Park, Mar 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/070306prpd8785m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/070306prpd8785m3.jpg
     caption: Attempting to eat a dead rotten fish head. Pasir Ris Park, Mar 07
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/110129mndik.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/110129mndik.jpg
     caption: Mandai Mangroves, Jan 11 Photo shared by Ivan Kwan on flickr .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/070306prpd8792m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/070306prpd8792m3.jpg
     caption: Swallowing a fish bigger than its head! Pasir Ris Park, Mar 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/070306prpd8806m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/070306prpd8806m3.jpg
     caption: Swallowed head first...slowly...slowly.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/070306prpd8816m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/070306prpd8816m3.jpg
     caption: Gulp!
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/131007smkjk.JPG
-    caption: Eating a Pink-speckled shrimp-goby . Pulau Semakau, Oct 13 Photo 
-      shared by James Koh on flickr .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/131007smkjk.JPG
+    caption: Eating a Pink-speckled shrimp-goby . Pulau Semakau, Oct 13 Photo shared
+      by James Koh on flickr .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/160208smksjll4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/160208smksjll4.jpg
     caption: Pulau Semakau, Feb 16 Photo shared by Jianling Liu on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/160208smksrl1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/cerberus/160208smksrl1.jpg
     caption: Pulau Semakau, Feb 16 Photo shared by Russel Low on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Mangrove snakes: Dog-faced water snake](http://mangrove.nus.edu.sg/guidebooks/text/2112)
+
   Ng, Peter K. L. & N. Sivasothi, 1999.
+
   *[A Guide to the Mangroves of Singapore Ii (Animal Diversity](http://mangrove.nus.edu.sg/guidebooks/)*
+
   [)](http://mangrove.nus.edu.sg/guidebooks/)
+
   . Singapore Science Centre. 168 pp.
+
   - [Dog-faced Water Snake](http://www.ecologyasia.com/verts/snakes/dog-faced_water-snake)
-  on Nick Baker's EcologyAsia website: fact sheet with photos.
+
+  on Nick Baker''s EcologyAsia website: fact sheet with photos.
+
   - [Dog-faced Water Snake](http://www.wildsingapore.per.sg/discovery/factsheet/snakedogfaced)
-  on Chan Kwok Wai's Wildlife Singapore: fact sheet with photos.
+
+  on Chan Kwok Wai''s Wildlife Singapore: fact sheet with photos.
+
   - [*Cerberus rynchops*](https://singapore.biodiversity.online/taxo4254/mainSpace/Cerberus%20rynchops.html)
+
   (Squamata: Homalopsidae) Dog-faced Water Snake by Lee Bee Yan, 2011 on taxo4254.
+
   - [*Cerberus rynchops*](http://www.iucnredlist.org/details/176680/0)
+
   on the IUCN Red List.
 
+
   **References**
+
   - Craig Justin Tan. 29 May 2020.
+
   *Malayan water monitor preying on dog-faced water snake.*
+
   Singapore Biodiversity Records 2020: 58 ISSN 2345-7597
+
   - Andrew Tay & Caitlin Wind. 6 December 2013.
+
   *Dog-faced water snake attacking pufferfish*
+
   . Singapore Biodiversity Records 2013: 100.
+
   - Lim, Kelvin K. P. & Francis L K Lim, 1992.
+
   *A Guide to the Amphibians and Reptiles of Singapore*
+
   Singapore Science Centre. 160 pp.
+
   - Baker, Nick and Kelvin Lim. 2008.
-  *Wild Animals of Singapore: A Photographic Guide to Mammals, Reptiles, Amphibians and Freshwater Fishes*
+
+  *Wild Animals of Singapore: A Photographic Guide to Mammals, Reptiles, Amphibians
+  and Freshwater Fishes*
+
   Vertebrate Study Group, Nature Society (Singapore). 180 pp.
+
   - Stuebing, Robert B and Robert F. Inger. 1999.
+
   *A Field Guide to the Snakes of Borneo*
+
   Natural History Publications (Borneo). 254 pp.
-  - Cox, Merel J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt. 1998.
-  *A Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular Malaysia and Singapore*
+
+  - Cox, Merel J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt.
+  1998.
+
+  *A Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular Malaysia
+  and Singapore*
+
   New Holland. pp 144.
+
+  '
 location:
 - sbw
 - prp
 - cj
 - lab
 - smk
+size:
+- 100.0
 ---
 
 ## Where seen?

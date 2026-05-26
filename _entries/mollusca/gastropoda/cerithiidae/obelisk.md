@@ -1,11 +1,9 @@
 ---
 title: Obelisk creeper snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: obelisk, vertagus, creeper, cerith, snail, shell, rhinoclavis, 
-  sinensis,  cerithiidae, gastropod, mollusc, mangrove, field, guide, seashore, 
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, 
-  photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: obelisk, vertagus, creeper, cerith, snail, shell, rhinoclavis, sinensis,  cerithiidae,
+  gastropod, mollusc, mangrove, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Cerithiidae
 genus: Rhinoclavis
@@ -20,79 +18,79 @@ subclass: Caenogastropoda
 superfamily: Cerithioidea
 subfamily: Cerithiinae
 updated: Jul 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1464m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1464m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1464m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1464m3.jpg
     caption: Sentosa, Oct 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1463m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1463m3.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1463m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1463m3b.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/070901sjid6524m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/070901sjid6524m3b.jpg
     caption: St. John's Island, Sep 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/070531sisg9643m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/070531sisg9643m3.jpg
     caption: Mating? Sisters Island, May 07
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/141010lablks1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/141010lablks1m3.jpg
     caption: Labrador, Oct 14 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/251009sjijll3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/251009sjijll3.jpg
     caption: St John's Island, Oct 25 Photo shared by Jianlin Liu on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/251009sjijll3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/251009sjijll3.jpg
     caption: ''
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/251011ssisky3.jpg
-    caption: Small Sisters Island, Oct 25 Photo shared by Kelvin Yong on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/260103bsisrqo4.jpg
-    caption: Big Sisters Island, Dec 25 Photo shared by Rui Quan Oh on facebook 
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/251011ssisky3.jpg
+    caption: Small Sisters Island, Oct 25 Photo shared by Kelvin Yong on facebook
       .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/260103bsisrqo4.jpg
+    caption: Big Sisters Island, Dec 25 Photo shared by Rui Quan Oh on facebook .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/170129slglks.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/170129slglks.jpg
     caption: Terumbu Selegie, Jan 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/2007024thntjt2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/2007024thntjt2.jpg
     caption: Terumbu Hantu, Jul 20 Photo shared by Jonathan Tan on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/260201cyrccn2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/260201cyrccn2.jpg
     caption: Cyrene, Feb 26 Photo shared by Che Cheng Neo on facebook .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/210428slutch4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/210428slutch4.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Toh Chay Hoon on facebook ..
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/091231biolks7m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/091231biolks7m3.jpg
     caption: Pulau Biola, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Obelisk vertagus (
+
   *Rhinoclavis sinensis*
+
   )](http://www.sealifebase.fisheries.ubc.ca/Summary/speciesSummary.php?GenusName=Rhinoclavis&SpeciesName=sinensis)
+
   in SeaLife Base: Technical fact sheet.
-  - Family Cerithiidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+
+  - Family Cerithiidae in the Gastropods section by J.M. Poutiers in the FAO Species
+  Identification Guide for Fishery Purposes: The Living Marine Resources of the Western
+  Central Pacific
+
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
+
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
+
   **References**
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Abbott, R. Tucker, 1991.
+
   *Seashells of South East Asia*
+
   . Graham Brash, Singapore. 145 pp.
+
+  '
 location:
 - tm
 - lab
@@ -105,6 +103,9 @@ location:
 - cyr
 - hnt
 - lfa
+size:
+- 3.0
+- 7.0
 ---
 
 ## Where seen?

@@ -1,10 +1,9 @@
 ---
 title: Bordered sea star
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: sea star, seastar, starfish, star, fish, craspidaster, hesperus, 
-  astropectinidae, asteroidea, echinoderm, field, guide, seashore, sea, shore, 
-  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: sea star, seastar, starfish, star, fish, craspidaster, hesperus, astropectinidae,
+  asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 0
@@ -24,75 +23,76 @@ class: Asteroidea
 superorder: Valvatacea
 order: Paxillosida
 updated: Jul 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/080705bbd7206m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/080705bbd7206m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/080705bbd7206m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/080705bbd7206m3.jpg
     caption: Beting Bronok, Jul 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/080705bbd7204m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/080705bbd7204m3a.jpg
     caption: Paxillae cover the upper body.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/080705bbd7199m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/080705bbd7199m3.jpg
     caption: Underside.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/080705bbd7198m3c.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/080705bbd7198m3c.jpg
     caption: Pointed tube feet.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/250627bbrk4b.jpg
-    caption: Pointed tube feet. Beting Bronok, Jun 25 Photo shared by Richard 
-      Kuah on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/250627bbrk4b.jpg
+    caption: Pointed tube feet. Beting Bronok, Jun 25 Photo shared by Richard Kuah
+      on facebook .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/250627bbrk4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/250627bbrk4.jpg
     caption: Beting Bronok, Jun 25 Photo shared by Richard Kuah on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/250627bbrk4a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/250627bbrk4a.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/250627bbrk4b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/250627bbrk4b.jpg
     caption: ''
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/160607bbjll1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/160607bbjll1.jpg
     caption: Beting Bronok, Jun 16 Shared by Jianlin Liu on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/170625bbmn3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/170625bbmn3.jpg
     caption: Beting Bronok, Jun 17 Shared by Marcus Ng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/180616bblks16.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/180616bblks16.jpg
     caption: Beting Bronok, Jun 18 Shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/090207tmlks03m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/090207tmlks03m3.jpg
     caption: East Coast Park, Feb 09 Shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/140713bblks4m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/140713bblks4m3.jpg
     caption: Beting Bronok, Jul 14 Shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/160607bbjll1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/160607bbjll1.jpg
     caption: Beting Bronok, Jun 16 Shared by Jianlin Liu on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Craspidaster hesperus*](http://www.sealifebase.org/summary/Craspidaster-hesperus.html)
+
   on SeaLife Base: Technical fact sheet.
 
+
   **References**
+
   - Loisette M. Marsh and Jane Fromont.
+
   *Field Guide to Shallow Water Seastars of Australia*
+
   . 2020. Western Australian Museum. 543pp
+
   - Lane, David J.W. and Didier Vandenspiegel. 2003
+
   *. A Guide to Sea Stars and Other Echinoderms of Singapore*
+
   . Singapore Science Centre. 187pp.
+
   - Didier VandenSpiegel et al. 1998.
-  *The Asteroid fauna (Echinodermata) of Singapore with a distribution table and illustrated identification to the species*
+
+  *The Asteroid fauna (Echinodermata) of Singapore with a distribution table and illustrated
+  identification to the species*
+
   . The Raffles Bulletin of Zoology 1998 46(2): 431-470.
+
+  '
 location:
 - bb
 - ecp
+size:
+- 10.0
 ---
 
 ## Where seen?

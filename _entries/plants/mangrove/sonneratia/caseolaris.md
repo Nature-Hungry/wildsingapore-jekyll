@@ -26,66 +26,109 @@ updated: Oct 2016
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/100411prpd0907m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/091230prpd6480m3.jpg"
-      caption: "Calyx lobes flat, spreading out horizontally. Pasir Ris Park, Jan 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/110311prpd7026m3.jpg"
-      caption: "Calyx sepals greenish on the inside. Pasir Ris Park, Mar 11"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/121227prpd2739m3.jpg"
-      caption: "Petals red, stamens pinkish at the base. Woodland Park, Dec 09"
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/091230prpd6480m3.jpg
+    caption: Calyx lobes flat, spreading out horizontally. Pasir Ris Park, Jan 10
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/110311prpd7026m3.jpg
+    caption: Calyx sepals greenish on the inside. Pasir Ris Park, Mar 11
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/121227prpd2739m3.jpg
+    caption: Petals red, stamens pinkish at the base. Woodland Park, Dec 09
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/091220wdld6131m6l.jpg"
-      caption: "Wild tree. Woodland Park, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/091220wdld6135m3.jpg"
-      caption: "Woodland Park, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/121227prpd2726m6l.jpg"
-      caption: "Young branches hang down like those of the weeping willow. Pasir Ris Park, Dec 12"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/091220wdld6136m3.jpg"
-      caption: ""
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/091220wdld6131m6l.jpg
+    caption: Wild tree. Woodland Park, Dec 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/091220wdld6135m3.jpg
+    caption: Woodland Park, Dec 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/121227prpd2726m6l.jpg
+    caption: Young branches hang down like those of the weeping willow. Pasir Ris
+      Park, Dec 12
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/091220wdld6136m3.jpg
+    caption: ''
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/091230prpd6475m3.jpg"
-      caption: Mating Atlas moths on the tree.
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/091230prpd6472m3.jpg"
-      caption: "Atlas moth cocoon on the tree. Pasir Ris Park, Jan 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/091230prpd6477m3.jpg"
-      caption: "Sunbird nesting in Berembang. Pasir Ris Park, Jan 10"
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/091230prpd6475m3.jpg
+    caption: Mating Atlas moths on the tree.
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/091230prpd6472m3.jpg
+    caption: Atlas moth cocoon on the tree. Pasir Ris Park, Jan 10
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/091230prpd6477m3.jpg
+    caption: Sunbird nesting in Berembang. Pasir Ris Park, Jan 10
+links_references: '**Links**
+
   - *[Sonneratia caseolaris](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3343)*
+
   on the NParks Flora and Fauna website: photos and fact sheet.
+
   - [Berembang (
+
   *Sonneratia caseolaris*
+
   )](http://mangrove.nus.edu.sg/guidebooks/text/1074)
+
   Ng, Peter K. L. & N. Sivasothi, 1999.
+
   *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)
+
   I (Plant Diversity)*
+
   . Singapore Science Centre. 168 pp.
+
   - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+
   [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
-  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
-  
+
+  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization
+  of the United Nations Regional Office for Asia and the Pacific Bangkok.
+
+
   **References**
+
   - Mishak Shunari & Benjamin C. Lee. 31 May 2017.
+
   [Long-tailed macaque feeding on flowers of the mangrove apple tree,
+
   *Sonneratia caseolaris*](https://lkcnhm.nus.edu.sg/app/uploads/2017/09/sbr2017-066-067.pdf)
+
   . Singapore Biodiversity Records 2017: 66-67.
+
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
+
   *The Concise Flora of Singapore: Gymnosperms and Dicotyledons*
+
   . Singapore University Press. 222 pp.
+
   - Tan, Hugh T.W. and T. Morgany. 2001.
+
   *Growing the Native Plants of Singapore*
+
   . BP Science Centre Guidebook. 168pp.
+
   - Corners, E. J. H., 1997.
+
   *Wayside Trees of Malaya: in two volumes*
-  . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
+
+  . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates
+  1-38; volume 2: 477-861 pp., plates 139-236.
+
   - Tomlinson, P. B., 1986.
+
   *The Botany of Mangroves*
+
   Cambridge University Press. USA. 419 pp.
+
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+
   . Nature Society (Singapore). 285 pp.
+
   - Burkill, I. H., 1993.
+
   *A Dictionary of the Economic Products of the Malay Peninsula*
-  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
+
+  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
+  Volume 1: 1-1240; volume 2: 1241-2444.
+
+  '
+size:
+- 500.0
+- 1500.0
 ---
 
 ## Where seen?

@@ -25,22 +25,29 @@ updated: Dec 09
 coverimg: http://www.wildsingapore.com/wildfacts/plants/others/ficus/crassiramea/091213ubnd5794m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/crassiramea/091213ubnd5795m3.jpg"
-      caption: "Pulau Ubin, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/crassiramea/091213ubnd5785m3.jpg"
-      caption: "Pulau Ubin, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/crassiramea/091213ubnd5788m3.jpg"
-      caption: "Pulau Ubin, Dec 09"
+  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/crassiramea/091213ubnd5795m3.jpg
+    caption: Pulau Ubin, Dec 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/crassiramea/091213ubnd5785m3.jpg
+    caption: Pulau Ubin, Dec 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/crassiramea/091213ubnd5788m3.jpg
+    caption: Pulau Ubin, Dec 09
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/crassiramea/100410ubnd0897m3.jpg"
-      caption: "Pulau Ubin, Apr 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/crassiramea/100410ubnd0897m3b.jpg"
-      caption: "Pulau Ubin, Apr 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/crassiramea/100410ubnd0897m3d.jpg"
-      caption: "Pulau Ubin, Apr 10"
+  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/crassiramea/100410ubnd0897m3.jpg
+    caption: Pulau Ubin, Apr 10
+  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/crassiramea/100410ubnd0897m3b.jpg
+    caption: Pulau Ubin, Apr 10
+  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/crassiramea/100410ubnd0897m3d.jpg
+    caption: Pulau Ubin, Apr 10
   gallery3:
-    - url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
-      caption: "References Ng, Angie et. al. 2005. A guide to the fabulous figs of Singapore . Singapore Science Centre.152 pp. Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red Data Book: Threatened plants and animals of Singapore . Nature Society (Singapore). 285 pp. Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University Press. 222 pp. Corners, E. J. H., 1997. Wayside Trees of Malaya: in two volumes . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236."
+  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
+    caption: 'References Ng, Angie et. al. 2005. A guide to the fabulous figs of Singapore
+      . Singapore Science Centre.152 pp. Davison, G.W. H. and P. K. L. Ng and Ho Hua
+      Chew, 2008. The Singapore Red Data Book: Threatened plants and animals of Singapore
+      . Nature Society (Singapore). 285 pp. Hsuan Keng, S.C. Chin and H. T. W. Tan.
+      1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore
+      University Press. 222 pp. Corners, E. J. H., 1997. Wayside Trees of Malaya:
+      in two volumes . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume
+      1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.'
 ---
 
 ## Where seen?

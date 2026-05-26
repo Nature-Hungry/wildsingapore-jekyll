@@ -1,10 +1,9 @@
 ---
 title: Pink-spotted bead anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: banded, bead, anemone, anthopleura, actiniidae, actiniaria, anthozoa, 
-  cnidarian, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: banded, bead, anemone, anthopleura, actiniidae, actiniaria, anthozoa, cnidarian,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Actiniidae
 genus: Anthopleura
@@ -23,26 +22,24 @@ updated: Jul 2024
 coverimg: https://live.staticflickr.com/6116/6236544510_4d481dbcf9_c.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/buddemeieri/111001sjid1809m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/buddemeieri/111001sjid1809m3.jpg
     caption: St. John's Island, Oct 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/buddemeieri/111001sjid1798m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/buddemeieri/111001sjid1798m3.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/buddemeieri/120407lazlksm3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/buddemeieri/120407lazlksm3.jpg
     caption: Lazarus Island, Apr 12 Photo shared by Loh Kok Sheng on his blog .
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/buddemeieri/240212sjilks1.jpg
-    caption: St John's Island, Feb 24 Photo shared by Loh Kok Sheng on facebook 
-      .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/buddemeieri/240212sjilks1.jpg
+    caption: St John's Island, Feb 24 Photo shared by Loh Kok Sheng on facebook .
 location:
 - lab
 - snt
 - tkr
 - laz
 - sji
+size:
+- 1.0
+- 2.0
 ---
 
 ## Where seen?

@@ -16,49 +16,50 @@ updated: Apr 2020
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080620chgd5879m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080620chgd5879m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/gymnanthenea/081018cjd1194m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/080620chgd5874m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080620chgd5879m3b.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/gymnanthenea/081018cjd1194m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/080620chgd5874m3b.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080620chgd5879m3d.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/gymnanthenea/081018cjd1194m3b.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/080620chgd5874m3c.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080620chgd5881m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/gymnanthenea/080705bbd7189m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/080620chgd5876m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080620chgd5881m3c.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/gymnanthenea/080705bbd7189m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/080620chgd5876m3c.jpg"
-      caption: ""
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080620chgd5879m3.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/gymnanthenea/081018cjd1194m3.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/080620chgd5874m3.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080620chgd5879m3b.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/gymnanthenea/081018cjd1194m3a.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/080620chgd5874m3b.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080620chgd5879m3d.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/gymnanthenea/081018cjd1194m3b.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/080620chgd5874m3c.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080620chgd5881m3.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/gymnanthenea/080705bbd7189m3.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/080620chgd5876m3.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080620chgd5881m3c.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/gymnanthenea/080705bbd7189m3a.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/080620chgd5876m3c.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/050819cjg1594m3.jpg"
-      caption: "Adult Cake sea star, these tend to have shorter arms."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/gymnanthenea/080705bbd7157m3.jpg"
-      caption: "Spiny sea star, with less obvious large bumps on the upperside."
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/080507skdd2396m3.jpg"
-      caption: Adult Biscuit sea star.
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/021206cjcpd6523m3.jpg"
-      caption: Adult Cake sea star. They come in various patterns.
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/culcita/080608cyrd5395m3.jpg"
-      caption: Juvenile Cushion stars may look like these stars. The Cushion star's distinctive underside helps to identify it.
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/080425cyrd1775m3.jpg"
-      caption: Young Knobbly sea stars can be as large as adults of the other stars.
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/050819cjg1594m3.jpg
+    caption: Adult Cake sea star, these tend to have shorter arms.
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/gymnanthenea/080705bbd7157m3.jpg
+    caption: Spiny sea star, with less obvious large bumps on the upperside.
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/080507skdd2396m3.jpg
+    caption: Adult Biscuit sea star.
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/021206cjcpd6523m3.jpg
+    caption: Adult Cake sea star. They come in various patterns.
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/culcita/080608cyrd5395m3.jpg
+    caption: Juvenile Cushion stars may look like these stars. The Cushion star's
+      distinctive underside helps to identify it.
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/080425cyrd1775m3.jpg
+    caption: Young Knobbly sea stars can be as large as adults of the other stars.
 ---
 
 ******

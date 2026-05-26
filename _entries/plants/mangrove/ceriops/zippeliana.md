@@ -26,17 +26,21 @@ updated: Jan 2013
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/110226ubnd6418M6L.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/090124ubnd6042m3.jpg"
-      caption: "Pulau Ubin, Jan 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/090704ubnd6338m3.jpg"
-      caption: "Leaves oval. Pulau Ubin, Jul 09"
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/090124ubnd6042m3.jpg
+    caption: Pulau Ubin, Jan 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/090704ubnd6338m3.jpg
+    caption: Leaves oval. Pulau Ubin, Jul 09
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/090124ubnd6058m3.jpg"
-      caption: "Flowers small, a few on a short stalk. Pulau Ubin, Jan 09 White petals with frilly edges. Pulau Ubin, Jan 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/090704ubnd6338m3a.jpg"
-      caption: "Brown 'fruit' with textured surface. Changi Creek, Apr 09 Propagules point upwards and other directions. Pasir Ris Park, Mar 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/090802ubnd8163m6l.jpg"
-      caption: "Red collar on ripe propagule. Ridged propagules. Pulau Ubin, Aug 09"
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/090124ubnd6058m3.jpg
+    caption: Flowers small, a few on a short stalk. Pulau Ubin, Jan 09 White petals
+      with frilly edges. Pulau Ubin, Jan 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/090704ubnd6338m3a.jpg
+    caption: Brown 'fruit' with textured surface. Changi Creek, Apr 09 Propagules
+      point upwards and other directions. Pasir Ris Park, Mar 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/090802ubnd8163m6l.jpg
+    caption: Red collar on ripe propagule. Ridged propagules. Pulau Ubin, Aug 09
+size:
+- 1200.0
 ---
 
 ## Where seen?

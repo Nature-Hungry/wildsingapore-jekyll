@@ -1,10 +1,9 @@
 ---
 title: Six-armed Luidia sea star
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: sand, sea star, seastar, starfish, star, fish, luidia, penangensis, 
-  luidiidae, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine,
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: sand, sea star, seastar, starfish, star, fish, luidia, penangensis, luidiidae,
+  asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Luidiidae
 genus: Luidia
@@ -19,48 +18,54 @@ class: Asteroidea
 superorder: Valvatacea
 order: Paxillosida
 updated: Mar 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lpenangensis/090110cjd4791m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lpenangensis/090110cjd4791m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lpenangensis/090110cjd4791m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lpenangensis/090110cjd4791m3.jpg
     caption: Chek Jawa, Jan 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lpenangensis/090110cjd4808m3d.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lpenangensis/090110cjd4808m3d.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lpenangensis/090110cjd4809m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lpenangensis/090110cjd4809m3a.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lpenangensis/090110cjd4787m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lpenangensis/090110cjd4787m3.jpg
     caption: Underside.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lpenangensis/090110cjd4796m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lpenangensis/090110cjd4796m3.jpg
     caption: Pointed tube feet.
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lpenangensis/210100chgsafmn1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lpenangensis/210100chgsafmn1.jpg
     caption: Changi Creek, Jan 21
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lpenangensis/210100chgsafmn1a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lpenangensis/210100chgsafmn1a.jpg
     caption: Photo shared by Marcus Ng on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Luidia penangensis*](http://www.sealifebase.org/summary/Luidia-penangensis.html)
+
   on SeaLife Base: Technical fact sheet.
 
+
   **References**
+
   - Lane, David J.W. and Didier Vandenspiegel. 2003
+
   *. A Guide to Sea Stars and Other Echinoderms of Singapore*
+
   . Singapore Science Centre. 187pp.
+
   - Didier VandenSpiegel et al. 1998.
-  *The Asteroid fauna (Echinodermata) of Singapore with a distribution table and illustrated identification to the species*
+
+  *The Asteroid fauna (Echinodermata) of Singapore with a distribution table and illustrated
+  identification to the species*
+
   . The Raffles Bulletin of Zoology 1998 46(2): 431-470.
+
+  '
 location:
 - chg
 - cj
+size:
+- 8.0
+- 10.0
 ---
 
 ## Where seen?

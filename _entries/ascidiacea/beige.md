@@ -1,10 +1,9 @@
 ---
 title: 'Beige sheet ascidians (Ascidiacea) '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: blob, ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, 
-  chordate, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: blob, ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 updated: Nov 2019
 phylum: Chordata
@@ -13,39 +12,29 @@ class: Ascidiacea
 family: Didemnidae
 genus: Didemnum
 species: psammatodes
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/ascidiacea/beige/090623ecpd4904m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/beige/090623ecpd4904m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/ascidiacea/beige/090623ecpd4904m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/beige/090623ecpd4904m3.jpg
     caption: East Coast, Jun 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/ascidiacea/beige/090623ecpd4897m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/beige/090623ecpd4897m3a.jpg
     caption: East Coast, Jun 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/ascidiacea/beige/120803chgd9293m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/beige/120803chgd9293m3.jpg
     caption: Changi, Aug 12
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/ascidiacea/beige/070714bbd3972m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/beige/070714bbd3972m3.jpg
     caption: Beting Bronok, Jun 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/ascidiacea/beige/050822cjg2070m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/beige/050822cjg2070m3.jpg
     caption: Flatworm on the ascidian. Chek Jawa, Aug 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/ascidiacea/beige/101221tmfts02262m6l.jpg
-    caption: These flatworms were seen on Beige sheet ascidians growing beneath 
-      a stone. Tanah Merah, Dec 10
-links_references: |
-  **Links**
-  - [*Didemnum psammatodes*](https://invasions.si.edu/nemesis/browseDB/SpeciesSummary.jsp?TSN=-333)
-  on the National Exotic Marine and Estuarine Species Information System, Smithsonian Environmental Research Centre.
-
-  **References**
-  - Serina S-C Lee, Janlin Y-H Chan, Serena L-M Teo & Gretchen Lambert.
-  *State of knowledge of ascidian diversity in South China Sea and new records for Singapore*
-  . 29 June 2016. Raffles Bulletin of Zoology Supplement No. 34: 718–743.
+  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/beige/101221tmfts02262m6l.jpg
+    caption: These flatworms were seen on Beige sheet ascidians growing beneath a
+      stone. Tanah Merah, Dec 10
+links_references: "**Links**\n- [*Didemnum psammatodes*](https://invasions.si.edu/nemesis/browseDB/SpeciesSummary.jsp?TSN=-333)\n\
+  on the National Exotic Marine and Estuarine Species Information System, Smithsonian\
+  \ Environmental Research Centre.\n\n**References**\n- Serina S-C Lee, Janlin Y-H\
+  \ Chan, Serena L-M Teo & Gretchen Lambert.\n*State of knowledge of ascidian diversity\
+  \ in South China Sea and new records for Singapore*\n. 29 June 2016. Raffles Bulletin\
+  \ of Zoology Supplement No. 34: 718\u2013743.\n"
 location:
 - pgl
 - prp
@@ -62,6 +51,9 @@ location:
 - cyr
 - jng
 - smk
+size:
+- 5.0
+- 10.0
 ---
 
 ## Where seen?

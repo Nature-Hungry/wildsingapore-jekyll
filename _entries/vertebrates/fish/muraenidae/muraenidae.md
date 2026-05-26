@@ -1,9 +1,8 @@
 ---
 title: 'Moray eels '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: moray, eel, fish, muraenidae, field, guide, seashore, sea, shore, 
-  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: moray, eel, fish, muraenidae, field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Muraenidae
 genus: ''
@@ -19,122 +18,185 @@ superorder: Elopomorpha
 order: Anguilliformes
 suborder: Muraenoidei
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/101224sisd4114m6l.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/101224sisd4114m6l.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Often mistaken for 
-      snakes, they are fish! They breathe through gills. They have smooth skin 
-      instead of scales. Some have strong jaws with sharp teeth. Don't touch 
-      them!
+    caption: if you learn only 3 things about them ... Often mistaken for snakes,
+      they are fish! They breathe through gills. They have smooth skin instead of
+      scales. Some have strong jaws with sharp teeth. Don't touch them!
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Often mistaken for snakes, they are fish! They breathe through 
-      gills. They have smooth skin instead of scales. Some have strong jaws with
-      sharp teeth. Don't touch them!
+    caption: Often mistaken for snakes, they are fish! They breathe through gills.
+      They have smooth skin instead of scales. Some have strong jaws with sharp teeth.
+      Don't touch them!
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/101224sisd4114m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/101224sisd4114m6l.jpg
     caption: Dorsal, anal and tail fins are continuous. Sisters Island, Jan 1
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/080621labd6014m3c.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/080621labd6014m3c.jpg
     caption: No pelvic fins, small eyes, tubular nostrils. Labrador Jun 08
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/reevesii/110602tmftd3429m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/reevesii/110602tmftd3429m6l.jpg
     caption: Sharp teeth! Tanah Merah, Jun 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/reevesii/091008tmd2463m3.jpg
-    caption: Lunging after prey in a hole with flaring of long dorsal fins. 
-      Tanah Merah, Oct 09
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/reevesii/091008tmd2463m3.jpg
+    caption: Lunging after prey in a hole with flaring of long dorsal fins. Tanah
+      Merah, Oct 09
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/101224sisd4114m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/101224sisd4114m3.jpg
     caption: Estuarine moray eel
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/reevesii/100527tmd3450m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/reevesii/100527tmd3450m3.jpg
     caption: Brown-spotted moray eel
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/concolor/040409tusad0048m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/concolor/040409tusad0048m3.jpg
     caption: Brown moray eel
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/251011labyls1.jpg
-    caption: White-eyed moray (Gymnothorax thyrsoideus) Labrador, Oct 25 Photo 
-      and ID shared by Yan Le Su on facebook .
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/251011labyls1.jpg
+    caption: White-eyed moray (Gymnothorax thyrsoideus) Labrador, Oct 25 Photo and
+      ID shared by Yan Le Su on facebook .
+links_references: '**Links**
+
   - [Estuarine Moray (
+
   *Gymnothorax tile*
+
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/210)
+
   and
+
   [Brown-spotted Moray (
+
   *Gymnothorax reevesii*
+
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/211)
+
   Lim, Kelvin and Jeffrey K Y Low,
+
   *[Guide to Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/index)*
+
   . Singapore Science Centre.
+
   - [Moray eel](http://mangrove.nus.edu.sg/pub/seashore/text/248)
+
   Tan, Leo W. H. and Ng, Peter K. L., 1988.
+
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+
   . The Singapore Science Centre, Singapore. 160 pp.
+
   - [Family Muraenidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=56)
+
   and
+
   [*Gymnothorax afer*
+
   (Dark moray)](http://www.fishbase.org/summary/9032)
+
   and
+
   [*Echidna nebulosa*
+
   (Snowflake moray)](http://www.fishbase.org/summary/5388)
+
   and
+
   [*Gymnothorax favagineus*
+
   (Laced moray)](http://www.fishbase.org/summary/5391)
+
   and
+
   [*Gymnothorax flavimarginatus*
+
   (Yellow-edged moray)](http://www.fishbase.org/summary/5392)
+
   and
+
   *[Gymnothorax javanicus](http://www.fishbase.org/summary/6380)*
+
   [(Giant moray)](http://www.fishbase.org/summary/6380)
+
   and
+
   [*Gymnothorax meleagris*
+
   (Turkey moray)](http://www.fishbase.org/summary/5394)
+
   and
+
   [*Gymnothorax nudivomer*
+
   (Starry moray)](http://www.fishbase.org/summary/7465)
+
   and
+
   [*Gymnothorax reevesii*
-  (Reeve's moray)](http://www.fishbase.org/summary/10159)
+
+  (Reeve''s moray)](http://www.fishbase.org/summary/10159)
+
   and
+
   *[Gymnothorax tile](http://www.fishbase.org/summary/17266)*
+
   [(Indian mud moray)](http://www.fishbase.org/summary/17266)
+
   and
+
   *[Gymnothorax undulatus](http://www.fishbase.org/summary/4905)*
+
   [(Undulated moray)](http://www.fishbase.org/summary/4905)
+
   and
+
   [*Uropterygius concolor*
+
   (Unicolor snake moray)](http://www.fishbase.org/summary/7283)
+
   from
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheets.
+
   - From the wild shores of singapore blog
+
   - [Moray mysteries: champion colonisers](http://feedproxy.google.com/%7Er/WildShoresOfSingapore/%7E3/O3I4v5tLMP4/moray-mysteries-champion-colonisers.html)
-  - [How to eat octopus if you don't have hands](http://wildshores.blogspot.com/2008/09/how-to-eat-slippery-octopus-if-you-dont.html)
+
+  - [How to eat octopus if you don''t have hands](http://wildshores.blogspot.com/2008/09/how-to-eat-slippery-octopus-if-you-dont.html)
+
   links to scientific findings of how the moray eel uses its second set of jaws.
 
+
   **References**
+
   - *New record of the ringed moray, Gymnothorax annulatus*
-  , in Singapore. 28 June 2019. Tan Heok Hui, Dedrick T. W. Yoon, Lee Co Sin & Kelvin K. P. Lim, Singapore Biodiversity Records 2019: 83-84 ISSN 2345-7597, National University of Singapore.
+
+  , in Singapore. 28 June 2019. Tan Heok Hui, Dedrick T. W. Yoon, Lee Co Sin & Kelvin
+  K. P. Lim, Singapore Biodiversity Records 2019: 83-84 ISSN 2345-7597, National University
+  of Singapore.
+
   - Wee Y.C. and Peter K. L. Ng. 1994.
+
   *A First Look at Biodiversity in Singapore*
+
   . National Council on the Environment. 163pp.
+
   - Allen, Gerry, 2000.
+
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
+
   . Periplus Editions. 292 pp.
+
   - Kuiter, Rudie H. 2002.
+
   *Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers & Fishermen*
+
   New Holland Publishers. 434pp.
+
   - Lieske, Ewald and Robert Myers. 2001.
+
   *Coral Reef Fishes of the World*
+
   Periplus Editions. 400pp.
+
+  '
 location:
 - cj
 - bb

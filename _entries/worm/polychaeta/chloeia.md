@@ -1,10 +1,9 @@
 ---
 title: Beautiful fireworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: chloeia, flava, fire, worm, fireworm, bristleworm, polychaete, 
-  annelid, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: chloeia, flava, fire, worm, fireworm, bristleworm, polychaete, annelid,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Amphinomidae
 genus: Chloeia
@@ -19,79 +18,89 @@ subclass: Errantia
 order: Amphinomida
 subfamily: Archinominae
 updated: Jun 2022
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/050412tusd2407m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/050412tusd2407m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/050412tusd2407m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/050412tusd2407m3.jpg
     caption: Chloeia flava swimming Raffles Marina, Apr 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/050412tusd2407m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/050412tusd2407m3b.jpg
     caption: Tail.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/050412tusd2407m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/050412tusd2407m3a.jpg
     caption: Head.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/080521chgd3725m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/080521chgd3725m3.jpg
     caption: Changi, May 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/080521chgd3725m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/080521chgd3725m3a.jpg
     caption: Washed ashore and attacked by springtails.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/090428chgd0692.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/090428chgd0692.jpg
     caption: Dead one being eaten by a Ghost crab. Changi, Apr 09
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/170723ubnay2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/170723ubnay2.jpg
     caption: Pulau Ubin, Jul 17 Photo shared by Abel Yeo on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/220617skdlks2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/220617skdlks2.jpg
     caption: Pulau Sekudu, Jun 22 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/251206chgerqo2.jpg
-    caption: Changi East (Lost Coast), Dec 25 Photo shared by Rui Quan Oh on 
-      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/251206chgerqo2.jpg
+    caption: Changi East (Lost Coast), Dec 25 Photo shared by Rui Quan Oh on facebook
+      .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/151001blyjt1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/151001blyjt1m3.jpg
     caption: Berlayar Creek, Oct 15 Photo shared by Johnathan Tan on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/120507srplks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/120507srplks.JPG
     caption: Sentosa Serapong, May 12 Photo shared by Loh Kok Sheng on flickr .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/240528tslvc3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/240528tslvc3.jpg
     caption: Terumbu Selegie, May 24 Photo shared by Vincent Choo on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/160508kusdc1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/160508kusdc1.jpg
     caption: Kusu Island, May 16 Photo shared by Dayna Cheah on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Segmented worms including
+
   *Chloeia*
+
   sp.](http://mangrove.nus.edu.sg/pub/seashore/text/126)
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
+
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+
   . The Singapore Science Centre, Singapore. 160 pp.
+
   - [Family Amphinomidae](http://lkcnhm.nus.edu.sg/polychaete/Amphinomidae.html)
+
   by Lim Yun Ping 1997-2000
+
   [A Guide to Singapore Polychaetes](http://rmbr.nus.edu.sg/polychaete/)
+
   .
+
   - [*Chloeia flava*](http://www.sealifebase.org/summary/Chloeia-flava.html)
+
   on SeaLife Base: Technical fact sheet.
 
+
   **References**
+
   - Jones, R.E. (Ed.) et al. 2000.
+
   *Polychaetes and Allies: The Southern Synthesis*
+
   Australian Biological Resources Study, Canberra. 465pp.
+
   - Humann, Paul and Ned Deloach. 2010.
+
   *Reef Creature Identification: Tropical Pacific*
+
   New World Publications. 497pp.
+
   - Gopalakrishnakone P., 1990.
+
   *A Colour Guide to Dangerous Animals*
-  . Venom & Toxin Research Group, Faculty of Medicine, National University of Singapore. 156 pp.
+
+  . Venom & Toxin Research Group, Faculty of Medicine, National University of Singapore.
+  156 pp.
+
+  '
 location:
 - prp
 - chg
@@ -102,6 +111,8 @@ location:
 - lab
 - snt
 - kus
+size:
+- 10.0
 ---
 
 ## Where seen?

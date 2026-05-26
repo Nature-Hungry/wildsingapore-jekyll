@@ -23,55 +23,88 @@ updated: Mar 2020
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/050707cftg9086m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "if you learn only 3 things about them ... They resemble familiar prawns and shrimps, but belong to a totally different group. Mantis shrimp can hurt you. Don't touch them! They have pincers modified into fearsome weapons."
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "They resemble familiar prawns and shrimps, but belong to a totally different group. Mantis shrimp can hurt you. Don't touch them! They have pincers modified into fearsome weapons."
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... They resemble familiar prawns
+      and shrimps, but belong to a totally different group. Mantis shrimp can hurt
+      you. Don't touch them! They have pincers modified into fearsome weapons.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: They resemble familiar prawns and shrimps, but belong to a totally different
+      group. Mantis shrimp can hurt you. Don't touch them! They have pincers modified
+      into fearsome weapons.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/050707cftg9086m3.jpg"
-      caption: "Changi, Jul 05"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/050707cftg9092m3a.jpg"
-      caption: Amazing eyes!
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/050707cftg9086m3b.jpg"
-      caption: Powerful tail
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/050707cftg9086m3.jpg
+    caption: Changi, Jul 05
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/050707cftg9092m3a.jpg
+    caption: Amazing eyes!
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/050707cftg9086m3b.jpg
+    caption: Powerful tail
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/050707cftg9111m3.jpg"
-      caption: Deadly pincers of a spearer mantis shrimp .
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/050707cftg9111m3b.jpg"
-      caption: "Changi, Jul 05"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/040701chgd1290m3a.jpg"
-      caption: "This is all that is usually seen of a mantis shrimp in hiding. Changi, Jul 04"
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/050707cftg9111m3.jpg
+    caption: Deadly pincers of a spearer mantis shrimp .
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/050707cftg9111m3b.jpg
+    caption: Changi, Jul 05
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/040701chgd1290m3a.jpg
+    caption: This is all that is usually seen of a mantis shrimp in hiding. Changi,
+      Jul 04
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/090529prpd2898m3.jpg"
-      caption: Spearer mantis shrimp
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/smasher/070630sisd2890m3.jpg"
-      caption: Smasher mantis shrimp
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/banded/100527tmd3635m3e.jpg"
-      caption: Banded mantis shrimp
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/090529prpd2898m3.jpg
+    caption: Spearer mantis shrimp
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/smasher/070630sisd2890m3.jpg
+    caption: Smasher mantis shrimp
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/banded/100527tmd3635m3e.jpg
+    caption: Banded mantis shrimp
+links_references: '**Links**
+
   - [Order Stomatopoda](http://mangrove.nus.edu.sg/pub/seashore/text/217)
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988,
+
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+
   . The Singapore Science Centre, Singapore. 160 pp.
+
   - [Why the mantis shrimp is my new favourite animal](http://theoatmeal.com/comics/mantis_shrimp)
-  on the Oatmeal: a wondrously inspiring look at the marvelous features and lifestyle of the mantis shrimp.
+
+  on the Oatmeal: a wondrously inspiring look at the marvelous features and lifestyle
+  of the mantis shrimp.
+
   - [Mantis shrimp eyes may inspire better DVD and CD players](http://wildshores.blogspot.com/2009/10/mantis-shrimp-eyes-may-inspire-better.html)
+
   on the wild shores of singapore blog.
-  
+
+
   **References**
+
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
+
   *Rhythm of the Sea: The Life and Times of Labrador Beach*
-  . Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+
+  . Division of Biology, School of Science, Nanyang Technological University & Department
+  of Zoology, the National University of Singapore. 160 pp.
+
   - Jones Diana S. and Gary J. Morgan, 2002.
+
   *A Field Guide to Crustaceans of Australian Waters*
+
   . Reed New Holland. 224 pp.
+
   - Debelius, Helmut, 2001.
+
   *Crustacea Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean*
+
   IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+
   - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.
-  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
+
+  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive
+  of the vertebrates*
+
   Sea Challengers. 314pp.
+
+  '
+size:
+- 10.0
+- 30.0
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

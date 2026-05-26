@@ -1,67 +1,51 @@
 ---
 title: 'Ulimid snails '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: ulimid, shell, snail, eulimidae, gastropod, mollusc, mangrove, field, 
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: ulimid, shell, snail, eulimidae, gastropod, mollusc, mangrove, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Eulimidae
 genus: Family
 species: Eulimidae
 attributes: []
 updated: Aug 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/eulimidae/eulimidae/120722cyrd8475m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/eulimidae/eulimidae/120722cyrd8475m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/eulimidae/eulimidae/120722cyrd8475m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/eulimidae/eulimidae/120722cyrd8475m3.jpg
     caption: Cyrene Reef, Jul 12 On Common sea star .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/eulimidae/eulimidae/120722cyrd8482m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/eulimidae/eulimidae/120722cyrd8482m3.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/eulimidae/eulimidae/120722cyrd8481m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/eulimidae/eulimidae/120722cyrd8481m3.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/eulimidae/eulimidae/050608chgg7360m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/eulimidae/eulimidae/050608chgg7360m3.jpg
     caption: On a plain sand star . Changi, Jun 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/eulimidae/eulimidae/050608chgg7360m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/eulimidae/eulimidae/050608chgg7360m3a.jpg
     caption: Laying eggs too?
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/eulimidae/eulimidae/110830cyrd0357m3a.jpg
-    caption: Possibly Eulima adamsii. Cyrene Reef, Aug 11 On a Cake sand dollar 
-      .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/eulimidae/eulimidae/110830cyrd0357m3a.jpg
+    caption: Possibly Eulima adamsii. Cyrene Reef, Aug 11 On a Cake sand dollar .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/eulimidae/eulimidae/120722cyrs00771m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/eulimidae/eulimidae/120722cyrs00771m3a.jpg
     caption: Cyrene Reef, Jul 12 On Common sea star .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/eulimidae/eulimidae/120722cyrs00773m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/eulimidae/eulimidae/120722cyrs00773m3.jpg
     caption: Cyrene Reef, Jul 12 On Common sea star .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/eulimidae/eulimidae/110830cyrd0423m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/eulimidae/eulimidae/110830cyrd0423m3b.jpg
     caption: Cyrene Reef, Aug 11 On Common sea star .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/eulimidae/eulimidae/150123chg7mn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/eulimidae/eulimidae/150123chg7mn.jpg
     caption: Changi, Jan 15 Photo shared by Marcus Ng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/eulimidae/eulimidae/160210ecplks.JPG
-    caption: East Coast Park, Feb 16 On a Painted sand star . Photo shared by 
-      Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/echinodermata/holothuroidea/colochirus/090623ecpjk3m3.jpg
-    caption: East Coast, Jun 09 On a sea cucumber . Photo shared by James Koh on
-      flickr .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/eulimidae/eulimidae/160210ecplks.JPG
+    caption: East Coast Park, Feb 16 On a Painted sand star . Photo shared by Loh
+      Kok Sheng on flickr .
+  - url: http://www.wildsingapore.com/echinodermata/holothuroidea/colochirus/090623ecpjk3m3.jpg
+    caption: East Coast, Jun 09 On a sea cucumber . Photo shared by James Koh on flickr
+      .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/echinodermata/echinoidea/urchin/salmacis/170527cyrsbr.jpg
-    caption: Cyrene, May 17 On White Salmacis urchin . Photo shared on Singapore
-      Biodiversity Records.
+  - url: http://www.wildsingapore.com/echinodermata/echinoidea/urchin/salmacis/170527cyrsbr.jpg
+    caption: Cyrene, May 17 On White Salmacis urchin . Photo shared on Singapore Biodiversity
+      Records.
 location:
 - prp
 - chg
@@ -69,6 +53,9 @@ location:
 - ecp
 - cyr
 - hnt
+size:
+- 1.0
+- 0.5
 ---
 
 ## Where seen?

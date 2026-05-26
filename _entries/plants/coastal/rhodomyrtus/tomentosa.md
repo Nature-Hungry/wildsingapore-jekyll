@@ -25,46 +25,48 @@ tribe: Myrteae
 subtribe: Decasperminae
 updated: Nov 10
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090912chgbwd0518m6la.jpg
-links_references: |
-  **Links**
-  - [*Rhodomyrtus
-    tomentosa*](http://floraofsingapore.wordpress.com/2010/08/10/rhodomyrtus-tomentosa/) on Total Vascular Flora of Singapore Online:
-    photos and fact sheet.
-  
-  **References**
-  - Tan, Hugh
-    T.W. and T. Morgany. 2001. *[Growing
-    the Native Plants of Singapore](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*. BP Science Centre Guidebook.
-    168pp.
-  - Wee Yeow
-    Chin. 1992. *[A
-    Guide to Medicinal Plants](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*. The Singapore Science Centre.
-    160pp.
-  - Hsuan Keng,
-    S.C. Chin and H. T. W. Tan. 1990, *[The
+links_references: "**Links**\n- [*Rhodomyrtus\n  tomentosa*](http://floraofsingapore.wordpress.com/2010/08/10/rhodomyrtus-tomentosa/)\
+  \ on Total Vascular Flora of Singapore Online:\n  photos and fact sheet.\n\n**References**\n\
+  - Tan, Hugh\n  T.W. and T. Morgany. 2001. *[Growing\n  the Native Plants of Singapore](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*.\
+  \ BP Science Centre Guidebook.\n  168pp.\n- Wee Yeow\n  Chin. 1992. *[A\n  Guide\
+  \ to Medicinal Plants](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*.\
+  \ The Singapore Science Centre.\n  160pp.\n- Hsuan Keng,\n  S.C. Chin and H. T.\
+  \ W. Tan. 1990, *[The\n"
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090912chgbwd0510m3.jpg"
-      caption: "Changi, Sep 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090912chgbwd0507m3a.jpg"
-      caption: "Changi, Sep 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090912chgbwd0518m6la.jpg"
-      caption: "Changi, Sep 09"
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090912chgbwd0510m3.jpg
+    caption: Changi, Sep 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090912chgbwd0507m3a.jpg
+    caption: Changi, Sep 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090912chgbwd0518m6la.jpg
+    caption: Changi, Sep 09
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090531cjd3074m3a.jpg"
-      caption: "Chek Jawa, May 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090531cjd3074m3b.jpg"
-      caption: "Chek Jawa, May 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090531cjd3075m6la.jpg"
-      caption: "Chek Jawa, May 09"
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090531cjd3074m3a.jpg
+    caption: Chek Jawa, May 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090531cjd3074m3b.jpg
+    caption: Chek Jawa, May 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090531cjd3075m6la.jpg
+    caption: Chek Jawa, May 09
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090922sjid1554m3.jpg"
-      caption: "Growing wild on the natural cliff. St. John's Island, Sep 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090922sjid1554m3a.jpg"
-      caption: "St. John's Island, Sep 09"
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090922sjid1554m3.jpg
+    caption: Growing wild on the natural cliff. St. John's Island, Sep 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090922sjid1554m3a.jpg
+    caption: St. John's Island, Sep 09
   gallery4:
-    - url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
-      caption: "Links Rhodomyrtus tomentosa on Total Vascular Flora of Singapore Online: photos and fact sheet. References Tan, Hugh T.W. and T. Morgany. 2001. Growing the Native Plants of Singapore . BP Science Centre Guidebook. 168pp. Wee Yeow Chin. 1992. A Guide to Medicinal Plants . The Singapore Science Centre. 160pp. Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University Press. 222 pp. Corners, E. J. H., 1997. Wayside Trees of Malaya: in two volumes . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444."
+  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
+    caption: 'Links Rhodomyrtus tomentosa on Total Vascular Flora of Singapore Online:
+      photos and fact sheet. References Tan, Hugh T.W. and T. Morgany. 2001. Growing
+      the Native Plants of Singapore . BP Science Centre Guidebook. 168pp. Wee Yeow
+      Chin. 1992. A Guide to Medicinal Plants . The Singapore Science Centre. 160pp.
+      Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore:
+      Gymnosperms and Dicotyledons . Singapore University Press. 222 pp. Corners,
+      E. J. H., 1997. Wayside Trees of Malaya: in two volumes . Fourth edition, Malayan
+      Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861
+      pp., plates 139-236. Burkill, I. H., 1993. A Dictionary of the Economic Products
+      of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture,
+      Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.'
+size:
+- 300.0
 ---
 
 ## Where seen?

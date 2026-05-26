@@ -1,10 +1,8 @@
 ---
 title: 'Whitings '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: sand, whiting, sillago, sillaginidae, fish, field, guide, seashore, 
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, 
-  photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: sand, whiting, sillago, sillaginidae, fish, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 25
@@ -25,100 +23,117 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Oct 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/081117ecpmd2360m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/081117ecpmd2360m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They are important food 
-      fish in some places. They may hide in the sand if disturbed. There are 
-      several species although they look similar at first glace.
+    caption: if you learn only 3 things about them ... They are important food fish
+      in some places. They may hide in the sand if disturbed. There are several species
+      although they look similar at first glace.
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They are important food fish in some places. They may hide in the 
-      sand if disturbed. There are several species although they look similar at
-      first glace.
+    caption: They are important food fish in some places. They may hide in the sand
+      if disturbed. There are several species although they look similar at first
+      glace.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/081117ecpmd2360m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/081117ecpmd2360m3.jpg
     caption: East Coast, Nov 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/040425cjd0109m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/040425cjd0109m6l.jpg
     caption: Chek Jawa, Apr 04
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/121117hntd1524m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/121117hntd1524m6l.jpg
     caption: Pulau Hantu, Nov 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/100912kusd1441m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/100912kusd1441m3.jpg
     caption: Kusu Island, Sep 10
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/220616chgedc5.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/220616chgedc5.jpg
     caption: Changi Lost Coast, Jun 22 Photo shared by Dayna Cheah on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/090512tmjk5m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/090512tmjk5m3.jpg
     caption: Tanah Merah, May 09 Photo shared by James Koh on his flickr .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/170822labjll5.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/170822labjll5.jpg
     caption: Labrador, Aug 17 Photo shared by Jianlin Liu on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/151001blymn2m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/151001blymn2m3.jpg
     caption: Berlayar Creek, Oct 15 Photo shared by Marcus Ng on facebook .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/201019sjijll11.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/201019sjijll11.jpg
     caption: St John's Island, Oct 20 Photo shared by Jianlin Liu on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/251011ssistl3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/251011ssistl3.jpg
     caption: St John's Island, Oct 25 Photo shared by Tammy Lim on facebook .
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/090628lazlt3m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/090628lazlt3m3.jpg
     caption: Seringat-Kias, Jun 09 Photo shared by Liana Tan on her blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/250810bsisrk1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/250810bsisrk1.jpg
     caption: Big Sisters, Aug 25 Photo shared by Richard Kuah on facebook .
   gallery8:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/140810smkmn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/140810smkmn.jpg
     caption: Pulau Semakau, Aug 14 Photo shared by Marcus Ng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/110830cyrlks3m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/110830cyrlks3m3.jpg
     caption: Cyrene Reef, Aug 11 Photo shared by Lok Kok Sheng on his blog .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Pasir or Silver Sand Whiting (
+
   *Sillago sihama*
+
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/281)
+
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
+
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
+
   . Singapore Science Centre. 163 pp.
+
   - [Family Sillago (Smelt-whitings)](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=307)
+
   and
+
   [*Sillago burrus*
+
   (Western trumpeter sillago)](http://www.fishbase.org/summary/8505)
+
   and
+
   [*Sillago maculata*
+
   (Trumpeter sillago)](http://www.fishbase.org/summary/7925)
+
   and
+
   [*Sillago sihama*
+
   (Silver sillago)](http://www.fishbase.org/summary/4544)
+
   from
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheet on the order, including fact sheets on individual species.
+
   - [Family Sillaginidae](http://research.kahaku.go.jp/zoology/FishGuide/summary/s187.html)
+
   from
+
   [Coastal Fishes of Indonesia: Field Guide to Lombok Island](http://research.kahaku.go.jp/zoology/FishGuide/index.html)
-  by Keiichi Matsuura, Seishi Kimura and Teguh Peristiwady on the National Science Museum, Tokyo website: factsheets with photos and descriptions.
+
+  by Keiichi Matsuura, Seishi Kimura and Teguh Peristiwady on the National Science
+  Museum, Tokyo website: factsheets with photos and descriptions.
+
 
   **References**
+
   - Wee Y.C. and Peter K. L. Ng. 1994.
+
   *A First Look at Biodiversity in Singapore*
+
   . National Council on the Environment. 163pp.
+
   - Allen, Gerry, 2000.
+
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
+
   . Periplus Editions. 292 pp.
+
+  '
 location:
 - prp
 - chg
@@ -135,6 +150,10 @@ location:
 - cyr
 - hnt
 - smk
+size:
+- 30.0
+- 6.0
+- 8.0
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?

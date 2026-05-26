@@ -1,10 +1,9 @@
 ---
 title: Kuiter's dragonet
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: kuiter, dragonet, fish, callionymidae, dactylopus, kuiteri, field, 
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: kuiter, dragonet, fish, callionymidae, dactylopus, kuiteri, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 attributes:
 - 9
@@ -25,74 +24,53 @@ superorder: Acanthomorpha
 order: Syngnathiformes
 suborder: Callionymoidei
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/dactylopus/170513tpltch1.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/dactylopus/170513tpltch1.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/dactylopus/170513tpltch1.jpg
-    caption: Terumbu Pempang Laut, May 17 Photo shared by Toh Chay Hoon on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/dactylopus/140501kusd5015m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/dactylopus/170513tpltch1.jpg
+    caption: Terumbu Pempang Laut, May 17 Photo shared by Toh Chay Hoon on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/dactylopus/140501kusd5015m6l.jpg
     caption: Kusu Island, May 14
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/dactylopus/171104cyrtch1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/dactylopus/171104cyrtch1.jpg
     caption: Cyrene Reef, Nov 17 Photo shared by Toh Chay Hoon on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/dactylopus/110508crylks1m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/dactylopus/110508crylks1m6l.jpg
     caption: Cyrene Reef, May 11 Photo shared by Loh Kok Sheng on his blog .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/dactylopus/140501kuslks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/dactylopus/140501kuslks.JPG
     caption: Kusu Island, May 14 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/dactylopus/110508cyrro1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/dactylopus/110508cyrro1m3.jpg
     caption: Cyrene Reef, May 11 Photo shared by Rene Ong on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/dactylopus/080425cyrmn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/dactylopus/080425cyrmn.jpg
     caption: Cyrene Reef, Apr 08 Photo shared by Marcus Ng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/dactylopus/170514bbbdc1.jpg
-    caption: Beting Bemban Besar, May 17 Photo shared by Dayna Cheah on facebook
-      .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/dactylopus/170514bbbdc1.jpg
+    caption: Beting Bemban Besar, May 17 Photo shared by Dayna Cheah on facebook .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/dactylopus/170513tpltch2.jpg
-    caption: Terumbu Pempang Laut, May 17 Photo shared by Toh Chay Hoon on 
-      facebook .
-links_references: |
-  **Links**
-  - [Orange-black dragonet](http://www.fishbase.org/summary/60086)
-  (
-  *Dactylopus kuiteri*
-  ) from
-  [FishBase](http://www.fishbase.org/)
-  : Technical fact sheet.
-
-  **References**
-  - Kelvin K. P. Lim, Neo Mei Lin, Debby Ng & Toh Chay Hoon. 17 April 2014.
-  *New record of Kuiter’s dragonet from Singapore*
-  . Singapore Biodiversity Records 2014: 103-104
-  - Ng, H. H., 2012.
-  *The dragonets of Singapore (Actinopterygii: Perciformes: Callionymidae)*
-  . Nature in Singapore, 5: 27-38. [PDF, 1.55 MB]
-  - Allen, Gerry, 2000.
-  *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
-  . Periplus Editions. 292 pp.
-  - Kuiter, Rudie H. 2002.
-  *Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers & Fishermen*
-  New Holland Publishers. 434pp.
-  - Lieske, Ewald and Robert Myers. 2001.
-  *Coral Reef Fishes of the World*
-  Periplus Editions. 400pp.
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/dactylopus/170513tpltch2.jpg
+    caption: Terumbu Pempang Laut, May 17 Photo shared by Toh Chay Hoon on facebook
+      .
+links_references: "**Links**\n- [Orange-black dragonet](http://www.fishbase.org/summary/60086)\n\
+  (\n*Dactylopus kuiteri*\n) from\n[FishBase](http://www.fishbase.org/)\n: Technical\
+  \ fact sheet.\n\n**References**\n- Kelvin K. P. Lim, Neo Mei Lin, Debby Ng & Toh\
+  \ Chay Hoon. 17 April 2014.\n*New record of Kuiter\u2019s dragonet from Singapore*\n\
+  . Singapore Biodiversity Records 2014: 103-104\n- Ng, H. H., 2012.\n*The dragonets\
+  \ of Singapore (Actinopterygii: Perciformes: Callionymidae)*\n. Nature in Singapore,\
+  \ 5: 27-38. [PDF, 1.55 MB]\n- Allen, Gerry, 2000.\n*Marine Fishes of South-East\
+  \ Asia: A Field Guide for Anglers and Divers*\n. Periplus Editions. 292 pp.\n- Kuiter,\
+  \ Rudie H. 2002.\n*Guide to Sea Fishes of Australia: A Comprehensive Reference for\
+  \ Divers & Fishermen*\nNew Holland Publishers. 434pp.\n- Lieske, Ewald and Robert\
+  \ Myers. 2001.\n*Coral Reef Fishes of the World*\nPeriplus Editions. 400pp.\n"
 location:
 - kus
 - cyr
 - tpg
 - tsm
+size:
+- 2.0
+- 3.0
+- 15.0
 ---
 
 ## Where seen?

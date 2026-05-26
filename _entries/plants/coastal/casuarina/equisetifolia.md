@@ -24,45 +24,77 @@ updated: Oct 2016
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/casuarina/equisetifolia/090314smkd8054m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/casuarina/equisetifolia/090314smkd8048m3.jpg"
-      caption: "Young fruit. Pulau Semakau, Mar 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/casuarina/equisetifolia/090314smkd8048m3a.jpg"
-      caption: "Female flowers. Pulau Semakau, Mar 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/casuarina/equisetifolia/090314smkd8060m3.jpg"
-      caption: "Male flowers. Pulau Semakau, Mar 09"
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/casuarina/equisetifolia/090314smkd8048m3.jpg
+    caption: Young fruit. Pulau Semakau, Mar 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/casuarina/equisetifolia/090314smkd8048m3a.jpg
+    caption: Female flowers. Pulau Semakau, Mar 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/casuarina/equisetifolia/090314smkd8060m3.jpg
+    caption: Male flowers. Pulau Semakau, Mar 09
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/casuarina/equisetifolia/090314smkd8040m3.jpg"
-      caption: "Pulau Semakau, Mar 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/casuarina/equisetifolia/090314smkd8056m3.jpg"
-      caption: "Fallen fruit, split open to release seeds. Pulau Semakau, Mar 09"
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/casuarina/equisetifolia/090314smkd8040m3.jpg
+    caption: Pulau Semakau, Mar 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/casuarina/equisetifolia/090314smkd8056m3.jpg
+    caption: Fallen fruit, split open to release seeds. Pulau Semakau, Mar 09
+links_references: '**Links**
+
   - [*Casuarina equisetifolia*](http://floraofsingapore.wordpress.com/2010/10/03/casuarina-equisetifolia/)
+
   on Total Vascular Flora of Singapore Online: photos and fact sheet.
+
   - [*Casuarina equisetifolia*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2793)
+
   on the NParks Flora and Fauna website: photos and fact sheet.
+
   - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+
   [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
-  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
+
+  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization
+  of the United Nations Regional Office for Asia and the Pacific Bangkok.
+
   - [Tanjung Rhu Road](http://infopedia.nl.sg/articles/SIP_625_2004-12-31.html)
+
   on infopedia on the National Library website.
-  
+
+
   **References**
+
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
+
   *The Concise Flora of Singapore: Gymnosperms and Dicotyledons*
+
   . Singapore University Press. 222 pp.
+
   - Tee Swee Ping and Wee Mei Lynn (eds). 2001.
+
   *Trees of our Garden City*
+
   . National Parks Board. 202 pp.
+
   - Wee Yeow Chin. 1992.
+
   *A Guide to Medicinal Plants*
+
   . The Singapore Science Centre. 160pp
+
   - Corners, E. J. H., 1997.
+
   *Wayside Trees of Malaya: in two volumes*
-  . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
+
+  . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates
+  1-38; volume 2: 477-861 pp., plates 139-236.
+
   - Burkill, I. H., 1993.
+
   *A Dictionary of the Economic Products of the Malay Peninsula*
-  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
+
+  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
+  Volume 1: 1-1240; volume 2: 1241-2444.
+
+  '
+size:
+- 5000.0
+- 300.0
 ---
 
 ## Where seen?

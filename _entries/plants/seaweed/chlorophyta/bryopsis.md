@@ -1,10 +1,9 @@
 ---
 title: Hairy green seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: hairy, seaweed, weed, green, bryopsis, bryopsidaceae, chlorophyta, 
-  algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: hairy, seaweed, weed, green, bryopsis, bryopsidaceae, chlorophyta, algae,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 division: Chlorophyta
 family: Bryopsidaceae
@@ -30,83 +29,103 @@ coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... There may be different 
-      forms of this seaweed from hairy to feathery. Take a closer look. Avoid 
-      stepping on the green carpet of hairy seaweeds. It's slippery and animals 
-      live among the seaweeds. Tiny animals are often found in this seaweed. 
-      Look for them.
+    caption: if you learn only 3 things about them ... There may be different forms
+      of this seaweed from hairy to feathery. Take a closer look. Avoid stepping on
+      the green carpet of hairy seaweeds. It's slippery and animals live among the
+      seaweeds. Tiny animals are often found in this seaweed. Look for them.
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: There may be different forms of this seaweed from hairy to 
-      feathery. Take a closer look. Avoid stepping on the green carpet of hairy 
-      seaweeds. It's slippery and animals live among the seaweeds. Tiny animals 
-      are often found in this seaweed. Look for them.
+    caption: There may be different forms of this seaweed from hairy to feathery.
+      Take a closer look. Avoid stepping on the green carpet of hairy seaweeds. It's
+      slippery and animals live among the seaweeds. Tiny animals are often found in
+      this seaweed. Look for them.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/worm/polychaeta/giant/040410sisbd0011m3.jpg
-    caption: A Giant reef worm snatching a mouthful of seaweed back into its 
-      lair. Sisters Island, Apr 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bryopsis/091104sntd3635m3.jpg
+  - url: http://www.wildsingapore.com/worm/polychaeta/giant/040410sisbd0011m3.jpg
+    caption: A Giant reef worm snatching a mouthful of seaweed back into its lair.
+      Sisters Island, Apr 04
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bryopsis/091104sntd3635m3.jpg
     caption: '` Lots of tiny creatures are often seen on this seaweed. Sentosa, Nov
       09'
-  - url: 
-      http://www.wildsingapore.com/mollusca/slugs/sacoglossa/bryopsis/080919sntd0665m3.jpg
-    caption: Tiny Bryopsis slugs are often abundant on this seaweed. Sentosa, 
-      Sep 08
+  - url: http://www.wildsingapore.com/mollusca/slugs/sacoglossa/bryopsis/080919sntd0665m3.jpg
+    caption: Tiny Bryopsis slugs are often abundant on this seaweed. Sentosa, Sep
+      08
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bryopsis/080720cjd7926m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bryopsis/080720cjd7926m3.jpg
     caption: Sometimes parts may be orange. Chek Jawa, Jul 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bryopsis/060115sntg3898m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bryopsis/060115sntg3898m3.jpg
     caption: Sentosa, Jan 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bryopsis/050608cftg7418m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bryopsis/050608cftg7418m3.jpg
     caption: Changi, Jun 05
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bryopsis/100131slud8789m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bryopsis/100131slud8789m3a.jpg
     caption: Terumbu Salu, Jan 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bryopsis/100811slud0104m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bryopsis/100811slud0104m3.jpg
     caption: Pulau Salu, Aug 10
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bryopsis/091204pawd5236m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bryopsis/091204pawd5236m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bryopsis/100810sngd9940m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bryopsis/100810sngd9940m3.jpg
     caption: Pulau Senang, Aug 10
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Bryopsis*
+
   : who eats this algae?](http://www.seaslugforum.net/factsheet.cfm?base=bryopsis)
+
   on the
+
   [Sea Slug Forum](http://www.seaslugforum.net/)
+
   : a compilation of messages about slugs that eat
+
   *Bryopsis*
+
   .
+
   - [*Bryopsis*](http://www.algaebase.org/search/genus/detail/?genus_id=8&sk=0)
+
   on
+
   [AlgaeBase](http://www.algaebase.org/)
+
   : Technical fact sheet.
 
+
   **References**
-  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
+
+  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
+  Tsai Min and Wang Luan Keng,
+
   *A photographic guide to the marine algae of Singapore*
+
   , 2015. Tropical Marine Science Institute, 201 pp.
+
   - Pham, M. N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011.
-  [A Checklist of the Algae of Singapore](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf)
-  , 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore, Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+
+  [A Checklist of the Algae of Singapore](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH
+  Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf)
+
+  , 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
+  Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+
   - Huisman, John M. 2000.
+
   *Marine Plants of Australia*
+
   University of Western Australia Press. 300pp.
+
   - Calumpong, H. P. & Menez, E. G., 1997.
+
   *Field Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*
+
   . Bookmark, Inc., the Philippines. 197 pp.
+
   - Trono, Gavino. C. Jr., 1997.
+
   *Field Guide and Atlas of the Seaweed Resources of the Philippines.*
+
   . Bookmark, Inc., the Philippines. 306 pp.
+
+  '
 location:
 - prp
 - chg
@@ -130,6 +149,9 @@ location:
 - tsm
 - rfl
 - lfa
+size:
+- 6.0
+- 8.0
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

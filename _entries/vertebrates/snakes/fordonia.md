@@ -1,10 +1,9 @@
 ---
 title: Crab-eating water snake
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: crab, eating, water, snake, fordonia, leucobalia, homalopsidae, 
-  colubridae, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: crab, eating, water, snake, fordonia, leucobalia, homalopsidae, colubridae,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Homalopsidae
 genus: Fordonia
@@ -19,45 +18,67 @@ class: Reptilia
 order: Squamata
 suborder: Serpentes
 updated: Oct 2016
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fordonia/120318prpd7782m6l.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fordonia/120318prpd7782m6l.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fordonia/120318prpd7786m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fordonia/120318prpd7786m3.jpg
     caption: Pasir Ris Park, Mar 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fordonia/120318prpd7784m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fordonia/120318prpd7784m6l.jpg
     caption: Pasir Ris Park, Mar 12
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fordonia/080607prpik.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fordonia/080607prpik.jpg
     caption: Pasir Ris Park, Jun 08 Photo shared by Ivan Kwan on flickr .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Crab-eating Water Snake](http://www.ecologyasia.com/verts/snakes/crab-eating_water-snake)
-  on Nick Baker's EcologyAsia website: fact sheet with photos.
+
+  on Nick Baker''s EcologyAsia website: fact sheet with photos.
+
   - [*Fordonia leucobalia*](http://www.iucnredlist.org/details/176694/0)
+
   on the IUCN Red List.
 
+
   **References**
+
   - Serin Subara. 23 October 2015.
+
   [Giant mudskipper preying on crab-eating water snake](http://lkcnhm.nus.edu.sg/nus/images/pdfs/sbr/2015/sbr2015-163.pdf)
+
   . Singapore Biodiversity Records 2015: 163
+
   - Baker, Nick and Kelvin Lim. 2008.
-  *Wild Animals of Singapore: A Photographic Guide to Mammals, Reptiles, Amphibians and Freshwater Fishes*
+
+  *Wild Animals of Singapore: A Photographic Guide to Mammals, Reptiles, Amphibians
+  and Freshwater Fishes*
+
   Vertebrate Study Group, Nature Society (Singapore). 180 pp.
+
   - Stuebing, Robert B and Robert F. Inger. 1999.
+
   *A Field Guide to the Snakes of Borneo*
+
   Natural History Publications (Borneo). 254 pp.
-  - Cox, Merel J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt. 1998.
-  *A Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular Malaysia and Singapore*
+
+  - Cox, Merel J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt.
+  1998.
+
+  *A Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular Malaysia
+  and Singapore*
+
   New Holland. pp 144.
+
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+
   . Nature Society (Singapore). 285 pp.
+
+  '
 location:
 - prp
+size:
+- 90.0
 ---
 
 ## Where seen?

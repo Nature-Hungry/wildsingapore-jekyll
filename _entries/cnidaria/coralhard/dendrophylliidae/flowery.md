@@ -1,10 +1,9 @@
 ---
 title: Flowery disk coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: disk, turbinaria, peltata, dendrophylliidae, coral, hard, 
-  scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: disk, turbinaria, peltata, dendrophylliidae, coral, hard, scleractinia,
+  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Dendrophyllidae
 genus: Turbinaria
@@ -18,88 +17,64 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Sep 2025
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3.jpg
-links_references: |
-  **Links**
-  - [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
-
-  **References**
-  - *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore* by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
-  - Danwei Huang,
-    Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. *An
-    inventory of zooxanthellate sclerectinian corals in Singapore
-    including 33 new records* (pdf). Raffles Bulletin of Zoology
-    Supplement No. 22: 69-80.
-  - Veron, Jen.
-    2000. *Corals
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3.jpg
+links_references: "**Links**\n- [Corals of the World](http://www.coralsoftheworld.org/page/home/)\
+  \ with species factsheets.\n\n**References**\n- *Checklist of Cnidaria (non-Sclerectinia)\
+  \ Species with their Category of Threat Status for Singapore* by Yap Wei Liang Nicholas,\
+  \ Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y.\
+  \ Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and\
+  \ animals of Singapore. 3rd edition. National Parks Board. 663 pp.\n- Danwei Huang,\n\
+  \  Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. *An\n  inventory\
+  \ of zooxanthellate sclerectinian corals in Singapore\n  including 33 new records*\
+  \ (pdf). Raffles Bulletin of Zoology\n  Supplement No. 22: 69-80.\n- Veron, Jen.\n\
+  \  2000. *Corals\n"
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3.jpg
     caption: Sentosa, Jun 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3a.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3b.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/070517sntrd0910m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/070517sntrd0910m3.jpg
     caption: Small colony. Sentosa, May 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/080608cyrd5460m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/080608cyrd5460m3.jpg
     caption: Small colony. Cyrene Reef, Jun 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/060131sjid6679m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/060131sjid6679m3a.jpg
     caption: Columns in the centre of the disk. St John's Island, Jan 06
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/190802chgjll3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/190802chgjll3.jpg
     caption: Changi, Aug 19 Photo shared by Jianlin Liu on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/200622chglks1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/200622chglks1.jpg
     caption: Changi, Jun 20 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/240706ubnlks8.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/240706ubnlks8.jpg
     caption: Pulau Ubin, Jul 24 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/170626skdlks2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/170626skdlks2.jpg
     caption: Pulau Sekudu, Jun 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/250501skdlks8.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/250501skdlks8.jpg
     caption: Pulau Sekudu, May 25 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/171009blyay6.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/171009blyay6.jpg
     caption: Berlayar Creek, Oct 17 Photo shared by Abel Yeo on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/110619tslgrl5m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/110619tslgrl5m3.jpg
     caption: Terumbu Selegie, Jun 11 Photo shared by Russel Low on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/091204pawjk5m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/091204pawjk5m3.jpg
     caption: Pulau Pawai, Dec 09 Photo shared by James Koh on his flickr .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/100810sngd9909m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/100810sngd9909m3.jpg
     caption: Pulau Senang, Aug 10 Bleaching.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/100530tbkd4211m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/100530tbkd4211m3.jpg
     caption: Pulau Berkas, May 10 Bleaching.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/101106burs00447m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/101106burs00447m3.jpg
     caption: Terumbu Buran, Nov 10
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/091231biod7085m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/091231biod7085m3.jpg
     caption: Pulau Biola, Dec 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/091231biod7085m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/091231biod7085m3a.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/100131slud8821m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/100131slud8821m3a.jpg
     caption: Terumbu Salu, Jan 10
   gallery8:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1

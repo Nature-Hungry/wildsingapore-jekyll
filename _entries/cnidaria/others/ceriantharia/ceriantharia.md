@@ -20,54 +20,79 @@ updated: Dec 2019
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/080422smkd1484m3a.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "if you learn only 3 things about them ... They are animals and not plants! Unlike true anemones, they have two types of tentacles: long outer tentacles and short inner tentacles. They retract into their tubes at low tide. Don't step on the tubes!"
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "They are animals and not plants! Unlike true anemones, they have two types of tentacles: long outer tentacles and short inner tentacles. They retract into their tubes at low tide. Don't step on the tubes!"
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: 'if you learn only 3 things about them ... They are animals and not plants!
+      Unlike true anemones, they have two types of tentacles: long outer tentacles
+      and short inner tentacles. They retract into their tubes at low tide. Don''t
+      step on the tubes!'
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: 'They are animals and not plants! Unlike true anemones, they have two
+      types of tentacles: long outer tentacles and short inner tentacles. They retract
+      into their tubes at low tide. Don''t step on the tubes!'
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/080422smkd1484m3a.jpg"
-      caption: "An inner ring of shorter tentacles identifies this as a cerianthid. Pulau Semakau, Apr 08"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/common/030630chgd0121m3.jpg"
-      caption: "Long body column that slips into an even longer tube. Changi, Jun 03"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/common/120413cjs06290m3.jpg"
-      caption: "Chek Jawa, Apr 12"
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/080422smkd1484m3a.jpg
+    caption: An inner ring of shorter tentacles identifies this as a cerianthid. Pulau
+      Semakau, Apr 08
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/common/030630chgd0121m3.jpg
+    caption: Long body column that slips into an even longer tube. Changi, Jun 03
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/common/120413cjs06290m3.jpg
+    caption: Chek Jawa, Apr 12
   gallery3:
-    - url: "http://www.wildsingapore.com/worm/phoronida/phoronida/030630chgd0017m3.jpg"
-      caption: "Tiny black Phoronid worms are often seen with cerianthids. Changi, Jun 03"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/common/110519chgd2139m3.jpg"
-      caption: "Scorpionfish hiding next to cerianthid. Changi, May 11"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/common/110519chgd2134m3a.jpg"
-      caption: "Laid on a cerianthid tube: eggs? Changi, May 11"
+  - url: http://www.wildsingapore.com/worm/phoronida/phoronida/030630chgd0017m3.jpg
+    caption: Tiny black Phoronid worms are often seen with cerianthids. Changi, Jun
+      03
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/common/110519chgd2139m3.jpg
+    caption: Scorpionfish hiding next to cerianthid. Changi, May 11
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/common/110519chgd2134m3a.jpg
+    caption: 'Laid on a cerianthid tube: eggs? Changi, May 11'
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/banded/050818chgg1386m3.jpg"
-      caption: Banded cerianthid
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/080422smkd1484m3.jpg"
-      caption: Black-mouth cerianthid
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/common/040720chgd2874m3.jpg"
-      caption: Common cerianthid
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/banded/050818chgg1386m3.jpg
+    caption: Banded cerianthid
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/080422smkd1484m3.jpg
+    caption: Black-mouth cerianthid
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/common/040720chgd2874m3.jpg
+    caption: Common cerianthid
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/elegant/070731chgd4705m3.jpg"
-      caption: Elegant cerianthid
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/shy/060809skdd5496m3.jpg"
-      caption: Shy glass cerianthid
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/smallmouth/080705bbd6967m3.jpg"
-      caption: Small-mouth cerianthid
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/elegant/070731chgd4705m3.jpg
+    caption: Elegant cerianthid
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/shy/060809skdd5496m3.jpg
+    caption: Shy glass cerianthid
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/smallmouth/080705bbd6967m3.jpg
+    caption: Small-mouth cerianthid
+links_references: '**Links**
+
   - [Snakelock or cerianthid (
+
   *Cerianthus*
+
   )](http://mangrove.nus.edu.sg/pub/seashore/text/122)
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
+
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+
   . The Singapore Science Centre, Singapore. 160 pp.
-  
+
+
   **References**
+
   - Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.
+
   *Invertebrate Zoology*
+
   Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
+
   - Pechenik, Jan A., 2005.
+
   *Biology of the Invertebrates*
+
   . 5
+
+  '
+size:
+- 30.0
+- 5.0
+- 15.0
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

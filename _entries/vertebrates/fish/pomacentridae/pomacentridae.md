@@ -1,10 +1,8 @@
 ---
 title: 'Damselfishes '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: damsel, fish, damselfish, anemonefish, pomacentridae, field, guide, 
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: damsel, fish, damselfish, anemonefish, pomacentridae, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Pomacentridae
 genus: ''
@@ -19,154 +17,105 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Blenniiformes
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/140713tsmkd7177m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/140713tsmkd7177m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/140713tsmkd7177m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/140713tsmkd7177m3.jpg
     caption: Clown anemonfish in a Magnificent anemone . Terumbu Semakau, Jul 14
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/070531sisg9763m3.jpg
-    caption: Juvenile damselfishes can look very different from the adults. 
-      Tanah Merah, Nov 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/fasciatus/060714rlhg6577m3.jpg
-    caption: Damselfishes can be abundant on some of our shores! Raffles 
-      Lighthouse, Jul 06
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/070531sisg9763m3.jpg
+    caption: Juvenile damselfishes can look very different from the adults. Tanah
+      Merah, Nov 10
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/fasciatus/060714rlhg6577m3.jpg
+    caption: Damselfishes can be abundant on some of our shores! Raffles Lighthouse,
+      Jul 06
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/040605kusbd0077m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/040605kusbd0077m3.jpg
     caption: False clown anemonefish
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/frenatus/040829kusg1741m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/frenatus/040829kusg1741m3.jpg
     caption: Tomato anemonefish
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/trimaculatus/110619tslgd4444m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/trimaculatus/110619tslgd4444m3.jpg
     caption: Three-spot dascyllus
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/110601tmnbd3146m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/110601tmnbd3146m3.jpg
     caption: Bengal sergeant
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/sexfasciatus/110602tmftd3507m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/sexfasciatus/110602tmftd3507m3.jpg
     caption: Scissortail sergeant
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/sordidus/080816sisd9504m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/sordidus/080816sisd9504m3.jpg
     caption: Black-spot sergeant
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/fasciatus/060714rlhg6577m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/fasciatus/060714rlhg6577m3a.jpg
     caption: Juvenile
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/fasciatus/120818lazd0172m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/fasciatus/120818lazd0172m3.jpg
     caption: Juvenile.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/fasciatus/070728sisd4510m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/fasciatus/070728sisd4510m3.jpg
     caption: Juvenile.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/fasciatus/110601tmnbd3185m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/fasciatus/110601tmnbd3185m3a.jpg
     caption: Adult
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/fasciatus/120804bbbd9432m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/fasciatus/120804bbbd9432m3.jpg
     caption: Adult
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/prosopotaenia/100715tptd8836m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/prosopotaenia/100715tptd8836m3.jpg
     caption: Juvenile
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/080410cyrd0050m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/080410cyrd0050m3.jpg
     caption: Juvenile
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/110602tmftd3572m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/110602tmftd3572m3.jpg
     caption: Juvenile
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/050411tusg4489m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/050411tusg4489m3.jpg
     caption: Adult
-links_references: |
-  **Links**
-  - Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
-  *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
-  . Singapore Science Centre. 163 pp.
-  - [Damselfishes](http://ikanfish.wordpress.com/damselfishes/)
-  on Reef Fishes of Singapore by Jeffrey Low.
-  - [Family Pomacentridae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=350)
-  from
-  [FishBase](http://www.fishbase.org/)
-  : Technical fact sheet on the family with fact sheets on many members of the family.
-
-  **References**
-  - Daisuke Taira. 30 October 2020.
-  *A goldtail damselfish, Chrysiptera parasema, at Pulau Hantu*
-  . Singapore Biodiversity Records 2020: 170. The National University of Singapore.
-  - Daisuke Taira & Amanda Rouwen Hsiung. 31 August 2020.
-  *The silty damselfish, Pomacentrus cheraphilus, in Singapore*
-  . Singapore Biodiversity Records 2020: 119-120 ISSN 2345-7597
-  - Daisuke Taira. 22 January 2020.
-  *The blueback damselfish, Pomacentrus simsiang, in Singapore*
-  . Jovena Chun Ling Seah & Aaron Teo, Singapore Biodiversity Records 2020: 1 ISSN 2345-7597, National University of Singapore
-  - Jeffrey K. Y. Low.
-  *Staghorn damselfish in the Singapore Strait*
-  . 21 December 2018. Singapore Biodiversity Records 2018: 134 ISSN 2345-7597. National University of Singapore.
-  - Daisuke Taira.
-  *White damselfish in the Singapore Strait*
-  . 31 October 2018. Singapore Biodiversity Records 2018: 118 ISSN 2345-7597. National University of Singapore.
-  - Daisuke Taira.
-  *A Singapore record of the yellowtail sergeant, Abudefduf notatus*
-  . 31 October 2018. Singapore Biodiversity Records 2018: 115 ISSN 2345-7597. National University of Singapore.
-  - Jeffrey K. Y. Low.
-  *Three species of sergeant damselfishes off Pulau Satumu*
-  . 30 November 2017. Singapore Biodiversity Records 2017: 167-168 ISSN 2345-7597. National University of Singapore.
-  - Daisuke Taira. 30 Jun 2017.
-  *Western gregory, Stegastes obreptus, at Sultan Shoal*
-  . Singapore Biodiversity Records 2017: 75.
-  - Tan Heok Hui & Kelvin K. P. Lim. 30 Jun 2017.
-  *Regal demoiselles, Neopomacentrus cyanomos, in Sisters Islands Marine Park*
-  . Singapore Biodiversity Records 2017: 76.
-  - Jeffrey K. Y. Low . 30 Sep 2016.
-  *Behn’s damselfish in the Singapore Strait. Neoglyphidodon nigroris*
-  . Singapore Biodiversity Records 2016: 119.
-  - Jeffrey K. Y. Low. 30 June 2016.
-  *New record of reticulated dascyllus in Singapore*
-  *Dascyllus reticulatus*
-  (Teleostei: Pomacentridae). Singapore Biodiversity Records 2016: 77.
-  - Jeffrey K. Y. Low. 21 August 2015.
-  *Smoky damselfish off Pulau Satumu*
-  . Singapore Biodiversity Records 2015: 115
-  - Kelvin K. P. Lim. 8 August 014.
-  *Silver demoiselle in the Singapore Straits, Neopomacentrus anabatoides.*
-  Singapore Biodiversity Records 2014: 216.
-  - Toh Chay Hoon. 11 April 2014.
-  *Spawn of the saddleback anemonefish*
-  . Singapore Biodiversity Records 2014: 96
-  - Toh Chay Hoon & Kelvin K. P. Lim . 14 March 2014.
-  *Aggregation of two species of demoiselle fishes at Pulau Hantu*
-  . Singapore Biodiversity Records 2014: 7
-  - Jeffrey K. Y. Low. 2013.
-  *More noteworthy fishes observed in the Singapore Straits*
-  . Nature in Singapore, 6: 31–37.
-  - Jeffrey Low J.K.Y., Randall, J.E. and Chou, L.M.
-  *New localities for the wedge-spot damselfish, Pomacentrus cuneatus Allen, 1991 (Teleostei: Pomacentridae) in Southeast Asia*
-  . Raffles Bulletin of Zoology 43(1):45-50.
-  - Wee Y.C. and Peter K. L. Ng. 1994.
-  *A First Look at Biodiversity in Singapore*
-  . National Council on the Environment. 163pp.
-  - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
-  *The Singapore Red Data Book: Threatened plants and animals of Singapore*
-  . Nature Society (Singapore). 285 pp.
-  - Allen, Gerry, 2000.
-  *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
-  . Periplus Editions. 292 pp.
-  - Kuiter, Rudie H. 2002.
-  *Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers & Fishermen*
-  New Holland Publishers. 434pp.
-  - Lieske, Ewald and Robert Myers. 2001.
-  *Coral Reef Fishes of the World*
-  Periplus Editions. 400pp.
-  - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
-  *Rhythm of the Sea: The Life and Times of Labrador Beach*
-  . Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+links_references: "**Links**\n- Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.\n*[A\
+  \ Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*\n\
+  . Singapore Science Centre. 163 pp.\n- [Damselfishes](http://ikanfish.wordpress.com/damselfishes/)\n\
+  on Reef Fishes of Singapore by Jeffrey Low.\n- [Family Pomacentridae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=350)\n\
+  from\n[FishBase](http://www.fishbase.org/)\n: Technical fact sheet on the family\
+  \ with fact sheets on many members of the family.\n\n**References**\n- Daisuke Taira.\
+  \ 30 October 2020.\n*A goldtail damselfish, Chrysiptera parasema, at Pulau Hantu*\n\
+  . Singapore Biodiversity Records 2020: 170. The National University of Singapore.\n\
+  - Daisuke Taira & Amanda Rouwen Hsiung. 31 August 2020.\n*The silty damselfish,\
+  \ Pomacentrus cheraphilus, in Singapore*\n. Singapore Biodiversity Records 2020:\
+  \ 119-120 ISSN 2345-7597\n- Daisuke Taira. 22 January 2020.\n*The blueback damselfish,\
+  \ Pomacentrus simsiang, in Singapore*\n. Jovena Chun Ling Seah & Aaron Teo, Singapore\
+  \ Biodiversity Records 2020: 1 ISSN 2345-7597, National University of Singapore\n\
+  - Jeffrey K. Y. Low.\n*Staghorn damselfish in the Singapore Strait*\n. 21 December\
+  \ 2018. Singapore Biodiversity Records 2018: 134 ISSN 2345-7597. National University\
+  \ of Singapore.\n- Daisuke Taira.\n*White damselfish in the Singapore Strait*\n\
+  . 31 October 2018. Singapore Biodiversity Records 2018: 118 ISSN 2345-7597. National\
+  \ University of Singapore.\n- Daisuke Taira.\n*A Singapore record of the yellowtail\
+  \ sergeant, Abudefduf notatus*\n. 31 October 2018. Singapore Biodiversity Records\
+  \ 2018: 115 ISSN 2345-7597. National University of Singapore.\n- Jeffrey K. Y. Low.\n\
+  *Three species of sergeant damselfishes off Pulau Satumu*\n. 30 November 2017. Singapore\
+  \ Biodiversity Records 2017: 167-168 ISSN 2345-7597. National University of Singapore.\n\
+  - Daisuke Taira. 30 Jun 2017.\n*Western gregory, Stegastes obreptus, at Sultan Shoal*\n\
+  . Singapore Biodiversity Records 2017: 75.\n- Tan Heok Hui & Kelvin K. P. Lim. 30\
+  \ Jun 2017.\n*Regal demoiselles, Neopomacentrus cyanomos, in Sisters Islands Marine\
+  \ Park*\n. Singapore Biodiversity Records 2017: 76.\n- Jeffrey K. Y. Low . 30 Sep\
+  \ 2016.\n*Behn\u2019s damselfish in the Singapore Strait. Neoglyphidodon nigroris*\n\
+  . Singapore Biodiversity Records 2016: 119.\n- Jeffrey K. Y. Low. 30 June 2016.\n\
+  *New record of reticulated dascyllus in Singapore*\n*Dascyllus reticulatus*\n(Teleostei:\
+  \ Pomacentridae). Singapore Biodiversity Records 2016: 77.\n- Jeffrey K. Y. Low.\
+  \ 21 August 2015.\n*Smoky damselfish off Pulau Satumu*\n. Singapore Biodiversity\
+  \ Records 2015: 115\n- Kelvin K. P. Lim. 8 August 014.\n*Silver demoiselle in the\
+  \ Singapore Straits, Neopomacentrus anabatoides.*\nSingapore Biodiversity Records\
+  \ 2014: 216.\n- Toh Chay Hoon. 11 April 2014.\n*Spawn of the saddleback anemonefish*\n\
+  . Singapore Biodiversity Records 2014: 96\n- Toh Chay Hoon & Kelvin K. P. Lim .\
+  \ 14 March 2014.\n*Aggregation of two species of demoiselle fishes at Pulau Hantu*\n\
+  . Singapore Biodiversity Records 2014: 7\n- Jeffrey K. Y. Low. 2013.\n*More noteworthy\
+  \ fishes observed in the Singapore Straits*\n. Nature in Singapore, 6: 31\u2013\
+  37.\n- Jeffrey Low J.K.Y., Randall, J.E. and Chou, L.M.\n*New localities for the\
+  \ wedge-spot damselfish, Pomacentrus cuneatus Allen, 1991 (Teleostei: Pomacentridae)\
+  \ in Southeast Asia*\n. Raffles Bulletin of Zoology 43(1):45-50.\n- Wee Y.C. and\
+  \ Peter K. L. Ng. 1994.\n*A First Look at Biodiversity in Singapore*\n. National\
+  \ Council on the Environment. 163pp.\n- Davison, G.W. H. and P. K. L. Ng and Ho\
+  \ Hua Chew, 2008.\n*The Singapore Red Data Book: Threatened plants and animals of\
+  \ Singapore*\n. Nature Society (Singapore). 285 pp.\n- Allen, Gerry, 2000.\n*Marine\
+  \ Fishes of South-East Asia: A Field Guide for Anglers and Divers*\n. Periplus Editions.\
+  \ 292 pp.\n- Kuiter, Rudie H. 2002.\n*Guide to Sea Fishes of Australia: A Comprehensive\
+  \ Reference for Divers & Fishermen*\nNew Holland Publishers. 434pp.\n- Lieske, Ewald\
+  \ and Robert Myers. 2001.\n*Coral Reef Fishes of the World*\nPeriplus Editions.\
+  \ 400pp.\n- Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.\n*Rhythm of the Sea: The\
+  \ Life and Times of Labrador Beach*\n. Division of Biology, School of Science, Nanyang\
+  \ Technological University & Department of Zoology, the National University of Singapore.\
+  \ 160 pp.\n"
 location:
 - pgl
 - skd

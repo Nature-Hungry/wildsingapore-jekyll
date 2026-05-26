@@ -1,10 +1,9 @@
 ---
 title: Daisy green seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: seaweed, weed, green, parvocaulis, parvulus, acetabularia, 
-  polyphysaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine,
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: seaweed, weed, green, parvocaulis, parvulus, acetabularia, polyphysaceae,
+  chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 division: Chlorophyta
 family: Polyphysaceae
@@ -20,52 +19,70 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Dasycladales
 updated: Oct 2016
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/101223sntd3940m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/101223sntd3940m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/090922sjid1590m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/090922sjid1590m3.jpg
     caption: Growing among 'Taugeh' seaweed St. John's Island, Sep 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/101223sntd3940m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/101223sntd3940m3b.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/101223sntd3940m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/101223sntd3940m3a.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/160209cyrlks6.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/160209cyrlks6.jpg
     caption: Cyrene Reef, Feb 16 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/100810sngd9935m3c.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/100810sngd9935m3c.jpg
     caption: Pulau Senang, Aug 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/100130brkd8494m3c.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/100130brkd8494m3c.jpg
     caption: Terumbu Berkas, Jan 10
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Parvocaulis parvulus*](http://www.algaebase.org/search/species/detail/?species_id=61830)
+
   on
+
   [AlgaeBase](http://www.algaebase.org/)
+
   : Technical fact sheet.
 
+
   **References**
-  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
+
+  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
+  Tsai Min and Wang Luan Keng,
+
   *A photographic guide to the marine algae of Singapore*
+
   , 2015. Tropical Marine Science Institute, 201 pp.
+
   - Pham, M. N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011.
-  [A Checklist of the Algae of Singapore](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf)
-  , 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore, Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+
+  [A Checklist of the Algae of Singapore](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH
+  Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf)
+
+  , 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
+  Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+
   - A. C. Lee, Lawrence M. Liao and K. S. Tan.
-  [New records of marine algae on artificial structures and intertidal flats in coastal waters of Singapore](http://lkcnhm.nus.edu.sg/dna/docs/0972546415c20883086e4732722b1bd3.pdf)
+
+  [New records of marine algae on artificial structures and intertidal flats in coastal
+  waters of Singapore](http://lkcnhm.nus.edu.sg/dna/docs/0972546415c20883086e4732722b1bd3.pdf)
+
   . Pp. 5-40. in the Raffles Bulletin of Zoology
+
   - Calumpong, H. P. & Menez, E. G., 1997.
+
   *Field Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*
+
   . Bookmark, Inc., the Philippines. 197 pp.
+
   - Trono, Gavino. C. Jr., 1997.
+
   *Field Guide and Atlas of the Seaweed Resources of the Philippines.*
+
   . Bookmark, Inc., the Philippines. 306 pp.
+
+  '
 location:
 - snt
 - tkr
@@ -75,6 +92,8 @@ location:
 - cyr
 - jng
 - lfa
+size:
+- 0.5
 ---
 
 ## Where seen?

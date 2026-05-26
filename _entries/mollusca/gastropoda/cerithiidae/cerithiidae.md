@@ -1,10 +1,9 @@
 ---
 title: 'Creeper snails '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: creeper, cerith, snail, shell, cerithiidae, gastropod, mollusc, 
-  mangrove, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: creeper, cerith, snail, shell, cerithiidae, gastropod, mollusc, mangrove,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Cerithiidae
 genus: ''
@@ -18,72 +17,94 @@ class: Gastropoda
 subclass: Caenogastropoda
 superfamily: Cerithioidea
 updated: Jul 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1464m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1464m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1464m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1464m3.jpg
     caption: Sentosa, Oct 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1463m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1463m3.jpg
     caption: Shell opening.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1463m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1463m3b.jpg
     caption: Operculum with only a few whorls.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/130823prp.jpg
-    caption: Plain creeper snails sometimes seen in large numbers. Pasir Ris 
-      Park, Aug 13
-  - url: 
-      http://www.wildsingapore.com/crustacea/othercrust/anomura/hermit/huddling/060131sjig4376m3b.jpg
-    caption: Empty shells may be taken over by tiny huddling hermit crabs . St 
-      John's Island, Jan 06
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/130823prp.jpg
+    caption: Plain creeper snails sometimes seen in large numbers. Pasir Ris Park,
+      Aug 13
+  - url: http://www.wildsingapore.com/crustacea/othercrust/anomura/hermit/huddling/060131sjig4376m3b.jpg
+    caption: Empty shells may be taken over by tiny huddling hermit crabs . St John's
+      Island, Jan 06
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/050723labg0078m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/050723labg0078m3.jpg
     caption: Plain creeper snails
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/080509cyrd2908m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/080509cyrd2908m3.jpg
     caption: Obelisk creeper snail
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/variegated/060212sisg4837m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/variegated/060212sisg4837m3.jpg
     caption: Variegated creeper snail
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/pellucida/050917smkg2563m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/pellucida/050917smkg2563m3.jpg
     caption: Mangrove creeper snail
-links_references: |
-  **Links**
-  - [Traill's cerith (
+links_references: '**Links**
+
+  - [Traill''s cerith (
+
   *Cerithium trailli*
+
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=189)
+
   on the NParks Flora and Fauna website.
+
   - [Family Cerithiidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Cerithiidae.html)
-  on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief description and photos.
-  - Family Cerithiidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+
+  on The Gladys Archerd Shell Collection at Washington State University Tri-Cities
+  Natural History Museum website: brief description and photos.
+
+  - Family Cerithiidae in the Gastropods section by J.M. Poutiers in the FAO Species
+  Identification Guide for Fishery Purposes: The Living Marine Resources of the Western
+  Central Pacific
+
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
+
   on the Food and Agriculture Organization of the United Nations (FAO) website.
+
   - *Records of two cerithiopsid snails in Singapore*
-  , 22 January 2020, Chan Sow-Yan & Lau Wing Lup, Singapore Biodiversity Records, 2020: 9-10 ISSN 2345-7597, National University of Singapore.
+
+  , 22 January 2020, Chan Sow-Yan & Lau Wing Lup, Singapore Biodiversity Records,
+  2020: 9-10 ISSN 2345-7597, National University of Singapore.
+
 
   **References**
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Tan, K. S. & L. M. Chou, 2000.
+
   *A Guide to the Common Seashells of Singapore*
+
   . Singapore Science Centre. 160 pp.
+
   - Wee Y.C. and Peter K. L. Ng. 1994.
+
   *A First Look at Biodiversity in Singapore*
+
   . National Council on the Environment. 163pp.
+
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+
   . Nature Society (Singapore). 285 pp.
+
   - Abbott, R. Tucker, 1991.
+
   *Seashells of South East Asia*
+
   . Graham Brash, Singapore. 145 pp.
+
+  '
 location:
 - tm
 - lab
@@ -96,6 +117,8 @@ location:
 - cyr
 - hnt
 - lfa
+size:
+- 2.5
 ---
 
 ## Where seen?

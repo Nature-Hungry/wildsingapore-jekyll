@@ -1,8 +1,6 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: barrel, neptune, cup, sponge, xestospongia,  testudinaria, 
-  petrosiidae,
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: barrel, neptune, cup, sponge, xestospongia,  testudinaria, petrosiidae,
 layout: entry
 shape: sausage
 title: Barrel  sponge
@@ -18,105 +16,114 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Sep 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/porifera/xestospongia/020101cjbd4392m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/porifera/xestospongia/020101cjbd4392m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/xestospongia/020101cjbd4392m3.jpg
-    caption: Shapes range from fingers, tubes, branching roots to large vase 
-      shapes. Chek Jawa, Jan 02
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/xestospongia/120408sjid8353m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/xestospongia/020101cjbd4392m3.jpg
+    caption: Shapes range from fingers, tubes, branching roots to large vase shapes.
+      Chek Jawa, Jan 02
+  - url: http://www.wildsingapore.com/wildfacts/porifera/xestospongia/120408sjid8353m3.jpg
     caption: St. John's Island, Apr 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/xestospongia/120408sjid8358m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/xestospongia/120408sjid8358m3a.jpg
     caption: Inside the cavity, texture is uneven and rough.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/xestospongia/030618bbd0195m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/xestospongia/030618bbd0195m3.jpg
     caption: Large animals find shelter inside the 'vase' Beting Bronok, Jun 03
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/xestospongia/040803tusd3990m3a.jpg
-    caption: Sponge synaptid sea cucumbers on the outside of the sponge. Tuas, 
-      Aug 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/xestospongia/060611cjd2786m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/xestospongia/040803tusd3990m3a.jpg
+    caption: Sponge synaptid sea cucumbers on the outside of the sponge. Tuas, Aug
+      04
+  - url: http://www.wildsingapore.com/wildfacts/porifera/xestospongia/060611cjd2786m3a.jpg
     caption: Coated with Spionid sponge worms on the outside . Chek Jawa, Jun 06
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/xestospongia/220618tmftlks4.jpg
-    caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/xestospongia/251108ecpblks6a.jpg
-    caption: East Coast Park (B), Nov 25 Photo shared by Loh Kok Sheng on 
-      facebook .
-  gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/xestospongia/100515sjilks6m3.jpg
-    caption: St. John's Island, May 10 Photo shared by Loh Kok Sheng on his blog
+  - url: http://www.wildsingapore.com/wildfacts/porifera/xestospongia/220618tmftlks4.jpg
+    caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/xestospongia/241019lazlks4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/xestospongia/251108ecpblks6a.jpg
+    caption: East Coast Park (B), Nov 25 Photo shared by Loh Kok Sheng on facebook
+      .
+  gallery4:
+  - url: http://www.wildsingapore.com/wildfacts/porifera/xestospongia/100515sjilks6m3.jpg
+    caption: St. John's Island, May 10 Photo shared by Loh Kok Sheng on his blog .
+  - url: http://www.wildsingapore.com/wildfacts/porifera/xestospongia/241019lazlks4.jpg
     caption: Lazarus Island, Oct 24 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/xestospongia/110421jngsy1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/xestospongia/110421jngsy1m3.jpg
     caption: Pulau Jong, Apr 11 Photo shared by Sam Yeo on facebook .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/xestospongia/251207hntjll3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/xestospongia/251207hntjll3.jpg
     caption: Pulau Hantu, Dec 25 Photo shared by Jianlin Liu on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/xestospongia/080505hntlks01m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/xestospongia/080505hntlks01m3.jpg
     caption: Pulau Hantu, May 08 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/xestospongia/250531thnttl1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/xestospongia/250531thnttl1.jpg
     caption: Terumbu Hantu, May 25 Photo shared by Tammy Lim on facebook .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/xestospongia/250629smkelk10.jpg
-    caption: Pulau Semakau East, Jun 25 Photo shared by Loh Kok Sheng on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/xestospongia/100617tblks2m3.JPG
+  - url: http://www.wildsingapore.com/wildfacts/porifera/xestospongia/250629smkelk10.jpg
+    caption: Pulau Semakau East, Jun 25 Photo shared by Loh Kok Sheng on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/porifera/xestospongia/100617tblks2m3.JPG
     caption: Terumbu Bemban, Jun 10 Photo shared by Loh Kok Sheng on his blog .
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/xestospongia/100613snglks1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/xestospongia/100613snglks1m3.jpg
     caption: Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/xestospongia/210428slulks6.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/xestospongia/210428slulks6.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Xestospongia testudinaria*](http://www.sealifebase.fisheries.ubc.ca/summary/Xestospongia-testudinaria.html)
+
   on SeaLife Base: technical fact sheet.
+
   - [*Xestospongia testudinaria*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=166902)
+
   on the World Porifera Database.
+
   - [Sponges](http://mangrove.nus.edu.sg/pub/seashore/text/113)
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
+
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+
   . The Singapore Science Centre, Singapore. 160 pp.
+
   - [Singapore sponges and Henry Carter](http://wildshores.blogspot.sg/2013/01/singapore-sponges-and-henry-carter.html)
+
   on the wild shores of singapore blog.
 
+
   **References**
+
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
+
   *A Guide to Sponges of Singapore*
+
   . Singapore Science Centre. 173pp.
+
   - Chou, L. M., 1998.
+
   *A Guide to the Coral Reef Life of Singapore*
+
   . Singapore Science Centre. 128 pages.
+
   - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.
-  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
+
+  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive
+  of the vertebrates*
+
   Sea Challengers. 314pp.
+
   - Allen, Gerald R and Roger Steene. 2002.
+
   *Indo-Pacific Coral Reef Field Guide*
+
   . Tropical Reef Research. 378pp.
+
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
+
   *Rhythm of the Sea: The Life and Times of Labrador Beach*
-  . Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+
+  . Division of Biology, School of Science, Nanyang Technological University & Department
+  of Zoology, the National University of Singapore. 160 pp.
+
+  '
 location:
 - cj
 - skd

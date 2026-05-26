@@ -24,50 +24,47 @@ infraorder: Doridoidei
 superfamily: Phyllidioidea
 updated: Apr 2021
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/070531sisd1471m3.jpg
-links_references: |
-  **Links**  
-  - [The
-    Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman
-  - [A
-    Guide to Singapore Nudibranchs](http://rmbr.nus.edu.sg/nudibranch/main.html) by Uma Sachidhanandam: though
-    without any description of the nudibranchs, there are lots of
-    photos and locations where the species are found and a list of
-    Singapore nudibranchs.
-  
-  **References**
-  - J. van Alphen,
-    N. J. de Voogd and B. W. Hoeksema *[Differential
-    feeding strategies in phyllidiid nudibranchs on coral reefs at
-    Halmahera, northern Moluccas](http://www.springerlink.com/content/2354121t23720028/)* Coral Reefs Volume 30, Number
-    1 (2011), 59.
-  - Debelius, Helmut, 2001. Nudibranchs and Sea Snails: Indo-Pacific Field Guide IKAN-Unterwasserachiv, Frankfurt. 321 pp.
-  - Wells, Fred E. and Clayton W. Bryce. 2000. Slugs of Western Australia: A guide to the species from the Indian to West Pacific Oceans. Western Australian Museum. 184 pp.
-  - Coleman, Neville. 2001. 1001 Nudibranchs: Catalogue of Indo-Pacific Sea Slugs . Neville Coleman’s Underwater Geographic Pty Ltd, Australia.144pp. 
-  - Coleman, Neville, 1989. Nudibranchs of the South Pacific Vol 1 . 64 pp.
+links_references: "**Links**  \n- [The\n  Sea Slug Forum](http://www.seaslugforum.net/)\
+  \ by Dr Bill Rudman\n- [A\n  Guide to Singapore Nudibranchs](http://rmbr.nus.edu.sg/nudibranch/main.html)\
+  \ by Uma Sachidhanandam: though\n  without any description of the nudibranchs, there\
+  \ are lots of\n  photos and locations where the species are found and a list of\n\
+  \  Singapore nudibranchs.\n\n**References**\n- J. van Alphen,\n  N. J. de Voogd\
+  \ and B. W. Hoeksema *[Differential\n  feeding strategies in phyllidiid nudibranchs\
+  \ on coral reefs at\n  Halmahera, northern Moluccas](http://www.springerlink.com/content/2354121t23720028/)*\
+  \ Coral Reefs Volume 30, Number\n  1 (2011), 59.\n- Debelius, Helmut, 2001. Nudibranchs\
+  \ and Sea Snails: Indo-Pacific Field Guide IKAN-Unterwasserachiv, Frankfurt. 321\
+  \ pp.\n- Wells, Fred E. and Clayton W. Bryce. 2000. Slugs of Western Australia:\
+  \ A guide to the species from the Indian to West Pacific Oceans. Western Australian\
+  \ Museum. 184 pp.\n- Coleman, Neville. 2001. 1001 Nudibranchs: Catalogue of Indo-Pacific\
+  \ Sea Slugs . Neville Coleman\u2019s Underwater Geographic Pty Ltd, Australia.144pp.\
+  \ \n- Coleman, Neville, 1989. Nudibranchs of the South Pacific Vol 1 . 64 pp.\n"
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/070531sisd1471m3.jpg"
-      caption: "Black phyllid : milky substance secreted when disturbed. Sisters Island, May 07"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/120509tsmkd2701m3a.jpg"
-      caption: "Short rhinophores of the Varicose phyllid look like the orange blobs on its body. St. John's Island, May 05"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/pustulosa/060323ulrd0430m3.jpg"
-      caption: "Gills on the underside along the length of the body St. John's Island, Jan 06"
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/070531sisd1471m3.jpg
+    caption: 'Black phyllid : milky substance secreted when disturbed. Sisters Island,
+      May 07'
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/120509tsmkd2701m3a.jpg
+    caption: Short rhinophores of the Varicose phyllid look like the orange blobs
+      on its body. St. John's Island, May 05
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/pustulosa/060323ulrd0430m3.jpg
+    caption: Gills on the underside along the length of the body St. John's Island,
+      Jan 06
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/050210kusd0112m3.jpg"
-      caption: Black phyllid
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/pustulosa/050528kusg7068m3.jpg"
-      caption: Pimply phyllid
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ocellata/060813jngd6242m3.jpg"
-      caption: Eyed phyllid
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/050210kusd0112m3.jpg
+    caption: Black phyllid
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/pustulosa/050528kusg7068m3.jpg
+    caption: Pimply phyllid
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ocellata/060813jngd6242m3.jpg
+    caption: Eyed phyllid
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/120509tsmkd2701m3.jpg"
-      caption: Varicose phyllid
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/120509tsmkd2701m3.jpg
+    caption: Varicose phyllid
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/others/2104hntjll1.jpg"
-      caption: "Phyllidia elegans Pulau Hantu, Apr 21 Photo shared by Jianlin Liu on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/others/2104hntjll1a.jpg"
-      caption: Phyllidia elegans (underside)
- 
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/others/2104hntjll1.jpg
+    caption: Phyllidia elegans Pulau Hantu, Apr 21 Photo shared by Jianlin Liu on
+      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/others/2104hntjll1a.jpg
+    caption: Phyllidia elegans (underside)
 ---
 
 ## Where seen?

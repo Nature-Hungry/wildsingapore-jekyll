@@ -20,69 +20,113 @@ updated: Oct 2016
 coverimg: http://www.wildsingapore.com/wildfacts/worm/tubeworm/tubeworm/020225cjd7437m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "if you learn only 3 things about them ... Tubes of tiny worms may look like roots, don't step on them. Some can bite or sting. Don't touch! They live deep in the sand, don't dig them out."
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "Tubes of tiny worms may look like roots, don't step on them. Some can bite or sting. Don't touch! They live deep in the sand, don't dig them out."
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... Tubes of tiny worms may look
+      like roots, don't step on them. Some can bite or sting. Don't touch! They live
+      deep in the sand, don't dig them out.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: Tubes of tiny worms may look like roots, don't step on them. Some can
+      bite or sting. Don't touch! They live deep in the sand, don't dig them out.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/worm/tubeworm/tubeworm/020225cjd7437m3.jpg"
-      caption: "Various kinds of tubes made by worms. Chek Jawa, Feb 02"
-    - url: "http://www.wildsingapore.com/wildfacts/polychaeta/diopatra/050823chgg2333m3.jpg"
-      caption: "Tube washed ashore Changi, Aug 05"
-    - url: "http://www.wildsingapore.com/wildfacts/polychaeta/strawtube/120410chgd9214m3.jpg"
-      caption: "Some tubeworms are more complex looking! Changi, Apr 12"
+  - url: http://www.wildsingapore.com/wildfacts/worm/tubeworm/tubeworm/020225cjd7437m3.jpg
+    caption: Various kinds of tubes made by worms. Chek Jawa, Feb 02
+  - url: http://www.wildsingapore.com/wildfacts/polychaeta/diopatra/050823chgg2333m3.jpg
+    caption: Tube washed ashore Changi, Aug 05
+  - url: http://www.wildsingapore.com/wildfacts/polychaeta/strawtube/120410chgd9214m3.jpg
+    caption: Some tubeworms are more complex looking! Changi, Apr 12
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/polychaeta/diopatra/110611cjlks.JPG"
-      caption: "Being eaten by a mudskipper Chek Jawa, Jun 11 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/polychaeta/diopatra/100429prpd1812m3.jpg"
-      caption: "Reaching out to grab a mangrove propagule. Pasir Ris Park, Apr 10"
-    - url: "http://www.wildsingapore.com/wildfacts/polychaeta/gregarious/060114cjg3823m3a.jpg"
-      caption: "Forming shaggy mats may help anchor sediments Chek Jawa, Jan 06"
+  - url: http://www.wildsingapore.com/wildfacts/polychaeta/diopatra/110611cjlks.JPG
+    caption: Being eaten by a mudskipper Chek Jawa, Jun 11 Photo shared by Loh Kok
+      Sheng on his blog .
+  - url: http://www.wildsingapore.com/wildfacts/polychaeta/diopatra/100429prpd1812m3.jpg
+    caption: Reaching out to grab a mangrove propagule. Pasir Ris Park, Apr 10
+  - url: http://www.wildsingapore.com/wildfacts/polychaeta/gregarious/060114cjg3823m3a.jpg
+    caption: Forming shaggy mats may help anchor sediments Chek Jawa, Jan 06
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/polychaeta/gregarious/120111chgs01934m3.jpg"
-      caption: Gregarious tubeworms
-    - url: "http://www.wildsingapore.com/wildfacts/polychaeta/strawtube/020627chgd0515m3.jpg"
-      caption: Straw tubeworms
-    - url: "http://www.wildsingapore.com/wildfacts/polychaeta/diopatra/040702chgg0938m3.jpg"
-      caption: Solitary tubeworm
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/polychaeta/gregarious/120111chgs01934m3.jpg
+    caption: Gregarious tubeworms
+  - url: http://www.wildsingapore.com/wildfacts/polychaeta/strawtube/020627chgd0515m3.jpg
+    caption: Straw tubeworms
+  - url: http://www.wildsingapore.com/wildfacts/polychaeta/diopatra/040702chgg0938m3.jpg
+    caption: Solitary tubeworm
+links_references: '**Links**
+
   - [Segmented worms including tube worms](http://mangrove.nus.edu.sg/pub/seashore/text/126)
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
+
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+
   . The Singapore Science Centre, Singapore. 160 pp.
+
   - [Tube worms](http://mangrove.nus.edu.sg/guidebooks/text/2007)
+
   Ng, Peter K. L. & N. Sivasothi, 1999.
+
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
+
   . Singapore Science Centre. 168 pp.
+
   - [Tube-dwellers](http://rmbr.nus.edu.sg/polychaete/tube.html)
+
   on the
+
   [A Guide To Singapore Polychaetes](http://rmbr.nus.edu.sg/polychaete/)
-  by Lim Yun Ping, the National University of Singapore on the Acoustic Research Laboratory website: fact sheets and photos of tubeworms found in Singapore.
+
+  by Lim Yun Ping, the National University of Singapore on the Acoustic Research Laboratory
+  website: fact sheets and photos of tubeworms found in Singapore.
+
   - [Worms](http://www.mesa.edu.au/friends/seashores/worms.html)
+
   on
+
   [Life on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1.html)
-  by Keith Davey on the Marine Education Society of Australia website: an introduction to worms (annelids, sipunculids) with explanations of the major parts of their bodies and their lifestyles. Check out the animation of a
+
+  by Keith Davey on the Marine Education Society of Australia website: an introduction
+  to worms (annelids, sipunculids) with explanations of the major parts of their bodies
+  and their lifestyles. Check out the animation of a
+
   [predatory annelid worm catching its prey](http://www.mesa.edu.au/friends/seashores/worm_feeds.html)
+
   .
+
   - [Marine Sedentary Polychaetes in Hong Kong](http://personal.cityu.edu.hk/%7Ebhworm/sedentary/)
-  on the City University of Hong Kong website: about polychaetes and tubeworms, with fact sheets and photos on lots of species.
+
+  on the City University of Hong Kong website: about polychaetes and tubeworms, with
+  fact sheets and photos on lots of species.
+
   - [Tubeworm superglue developed for human uses](http://wildshores.blogspot.com/2008/11/tubeworm-superglue-developed-for-human.html)
+
   on the wild shores of singapore blog.
-  
+
+
   **References**
+
   - Ng, P. K. L. & Y. C. Wee, 1994.
+
   *The Singapore Red Data Book: Threatened Plants and Animals of Singapore*
+
   . The Nature Society (Singapore), Singapore. 343 pp.
+
   - Wee Y.C. and Peter K. L. Ng. 1994.
+
   *A First Look at Biodiversity in Singapore*
+
   . National Council on the Environment. 163pp.
+
   - Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.
+
   *Invertebrate Zoology*
+
   Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
+
   - Pechenik, Jan A., 2005.
+
   *Biology of the Invertebrates*
+
   . 5
+
+  '
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

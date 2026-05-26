@@ -1,10 +1,9 @@
 ---
 title: Bartail flathead
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: flathead, flat, head, fish, platycephalus, indicus, platycephalidae, 
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: flathead, flat, head, fish, platycephalus, indicus, platycephalidae, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 attributes:
 - 9
@@ -25,57 +24,69 @@ superorder: Acanthomorpha
 order: Perciformes
 suborder: Scorpaenoidei
 updated: Oct 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/081117ecpmd2274m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/081117ecpmd2274m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/081117ecpmd2274m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/081117ecpmd2274m3.jpg
     caption: East Coast Park, Nov 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/100202chgsafd9255m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/100202chgsafd9255m6l.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/251107tmftlks8a.jpg
-    caption: Tanah Merah Ferry Terminal, Nov 25 Photo shared by Loh Kok Sheng on
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/251107tmftlks8b.jpg
-    caption: Tanah Merah Ferry Terminal, Nov 25 Photo shared by Loh Kok Sheng on
-      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/251107tmftlks8a.jpg
+    caption: Tanah Merah Ferry Terminal, Nov 25 Photo shared by Loh Kok Sheng on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/251107tmftlks8b.jpg
+    caption: Tanah Merah Ferry Terminal, Nov 25 Photo shared by Loh Kok Sheng on facebook
+      .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/030927cjd0083m3c.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/030927cjd0083m3c.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/030927cjd0083m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/030927cjd0083m6l.jpg
     caption: Chek Jawa, Sep 03
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/240820kusky3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/240820kusky3.jpg
     caption: Kusu Island, Aug 24 Photo shared by Kelvin Yong on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Bartail Flathead (
+
   *Platycephalus indicus*
+
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/259)
+
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
+
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
+
   . Singapore Science Centre. 163 pp.
+
   - [Bartail Flathead (
+
   *Platycephalus indicus*
+
   )](http://www.fishbase.org/summary/speciessummary.php?id=950)
+
   from
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheet.
+
   - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00)
-  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific
+
+  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources
+  of the Western Central Pacific
+
 
   **References**
+
   - Allen, Gerry, 2000.
+
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
+
   . Periplus Editions. 292 pp.
+
+  '
 location:
 - prp
 - chg
@@ -87,6 +98,9 @@ location:
 - cyr
 - hnt
 - smk
+size:
+- 8.0
+- 12.0
 ---
 
 ## Where seen?

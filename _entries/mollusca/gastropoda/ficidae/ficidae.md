@@ -1,10 +1,9 @@
 ---
 title: Fig snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: fig, snail, ficus, variegata, ficidae, gastropod, mollusc, field, 
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: fig, snail, ficus, variegata, ficidae, gastropod, mollusc, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Ficidae
 genus: Ficus
@@ -17,69 +16,88 @@ phylum: Mollusca
 class: Gastropoda
 order: Littorinimorpha
 updated: Jul 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ficidae/ficidae/111028chged2740m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ficidae/ficidae/111028chged2740m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ficidae/ficidae/111028chged2740m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ficidae/ficidae/111028chged2740m3.jpg
     caption: Changi, Oct 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ficidae/ficidae/081214ecmd3146m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ficidae/ficidae/081214ecmd3146m3.jpg
     caption: East Coast, Dec 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ficidae/ficidae/081214ecmd3137m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ficidae/ficidae/081214ecmd3137m3.jpg
     caption: East Coast, Dec 08
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ficidae/ficidae/121214chged2211.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ficidae/ficidae/121214chged2211.jpg
     caption: Buried with only its siphon sticking out. Changi East, Dec 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ficidae/ficidae/121214chged2162.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ficidae/ficidae/121214chged2162.jpg
     caption: Changi East, Dec 12
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ficidae/ficidae/200705ecpbsjt1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ficidae/ficidae/200705ecpbsjt1.jpg
     caption: East Coast Park, Jun 20 Photo shared by Jonathan Tan on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ficidae/ficidae/100103ecplt1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ficidae/ficidae/100103ecplt1m3.jpg
     caption: East Coast Park , Jan 10 Photo shared by Liana Tang on her blog .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ficidae/ficidae/200723nrsccrk1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ficidae/ficidae/200723nrsccrk1.jpg
     caption: East Coast Park, Jul 20 Photo shared by Richard Kuah on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ficidae/ficidae/210529ecpgtch2.jpg
-    caption: East Coast Park (G), May 21 Photo shared by Toh Chay Hoon on 
-      facebook .
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ficidae/ficidae/210529ecpgtch2.jpg
+    caption: East Coast Park (G), May 21 Photo shared by Toh Chay Hoon on facebook
+      .
+links_references: '**Links**
+
   - [Family Ficidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Ficidae.html)
+
   on
+
   [The Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html)
-  at Washington State University Tri-Cities Natural History Museum website: brief fact sheet on drills with photos
+
+  at Washington State University Tri-Cities Natural History Museum website: brief
+  fact sheet on drills with photos
+
   - [Family Ficidae](http://seashellsofnsw.org.au/Ficidae/Pages/Ficidae_intro)
+
   on the
+
   [The Seashells of New South Wales](http://seashellsofnsw.org.au/index)
-  website by Des Beechey Research Associate, Australian Museum: family introductions with photos of shells and detailed fact sheets for many species.
-  - Family Ficidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+
+  website by Des Beechey Research Associate, Australian Museum: family introductions
+  with photos of shells and detailed fact sheets for many species.
+
+  - Family Ficidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification
+  Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
+
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
+
   **References**
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Neo, M. L., 2010.
-  *The taxonomic status of fig shells, with notes on Ficus variegata (Roding, 1798) (Mollusca: Gastropoda: Ficoidea: Ficidae)*
+
+  *The taxonomic status of fig shells, with notes on Ficus variegata (Roding, 1798)
+  (Mollusca: Gastropoda: Ficoidea: Ficidae)*
+
   . Nature in Singapore, 3: 117-123.
+
   - Abbott, R. Tucker, 1991.
+
   *Seashells of South East Asia*
+
   . Graham Brash, Singapore. 145 pp.
+
+  '
 location:
 - chg
 - ecp
 - cyr
+size:
+- 8.0
+- 10.0
 ---
 
 ## Where seen?

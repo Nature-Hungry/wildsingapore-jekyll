@@ -1,10 +1,9 @@
 ---
 title: 'Flowery soft corals '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: omelette, dendronephthya, nephtheidae,  alcyonacea, soft, coral, 
-  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: omelette, dendronephthya, nephtheidae,  alcyonacea, soft, coral, cnidaria,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Nephtheidae
 genus: ''
@@ -22,92 +21,102 @@ coverimg: ../../../Templates/fornatureguides.gif
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They are animals! 
-      Although they look like plants. Don't step on them! Each soft coral is a 
-      colony of countless tiny polyps. Tiny animals may live in the colony. Look
-      for them.
+    caption: if you learn only 3 things about them ... They are animals! Although
+      they look like plants. Don't step on them! Each soft coral is a colony of countless
+      tiny polyps. Tiny animals may live in the colony. Look for them.
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They are animals! Although they look like plants. Don't step on 
-      them! Each soft coral is a colony of countless tiny polyps. Tiny animals 
-      may live in the colony. Look for them.
+    caption: They are animals! Although they look like plants. Don't step on them!
+      Each soft coral is a colony of countless tiny polyps. Tiny animals may live
+      in the colony. Look for them.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/040411hntd0107m3.jpg
-    caption: When the brown polyps are retracted, the colony can appear 
-      different. Pulau Hantu, Apr 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/120123hntd5532m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/040411hntd0107m3.jpg
+    caption: When the brown polyps are retracted, the colony can appear different.
+      Pulau Hantu, Apr 04
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/120123hntd5532m3b.jpg
     caption: Polyps tiny with eight branched tentacles. Pulau Hantu, Jan 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/111222tusd4717m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/111222tusd4717m3a.jpg
     caption: Polyps reinforced with large sclerites. Tuas, Dec 11
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/031126tusad0068m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/031126tusad0068m3.jpg
     caption: Tiny red nose shrimp in Spiky flowery soft coral. Tuas, Nov 03
-  - url: 
-      http://www.wildsingapore.com/crustacea/othercrust/shrimp/alphballsoft/110518bbd1955m3.jpg
-    caption: A pair of white snapping shrimps in a ball flowery soft coral. 
-      Beting Bronok, May 11
-  - url: 
-      http://www.wildsingapore.com/mollusca/gastropoda/ovulidae/softcoral/110518bbd1755m3.jpg
-    caption: False cowrie snail in a pink flowery soft coral. Beting Bronok, May
-      11
+  - url: http://www.wildsingapore.com/crustacea/othercrust/shrimp/alphballsoft/110518bbd1955m3.jpg
+    caption: A pair of white snapping shrimps in a ball flowery soft coral. Beting
+      Bronok, May 11
+  - url: http://www.wildsingapore.com/mollusca/gastropoda/ovulidae/softcoral/110518bbd1755m3.jpg
+    caption: False cowrie snail in a pink flowery soft coral. Beting Bronok, May 11
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/echinodermata/ophiuroidea/white/160606chg1d3845m3.jpg
+  - url: http://www.wildsingapore.com/echinodermata/ophiuroidea/white/160606chg1d3845m3.jpg
     caption: Large ghost brittle star in Ball flowery soft coral. Changi, Jun 16
-  - url: 
-      http://www.wildsingapore.com/echinodermata/ophiuroidea/tinyorange/161012cj.jpg
-    caption: Tiny colourful brittle star and tiny orange brittle star Chek Jawa,
-      Oct 16 In Spiky flowery soft coral
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/031124tuscd0030m3b.jpg
-    caption: Tiny colourful brittle star in Spiky flowery soft coral. Tuas, Nov 
-      03
+  - url: http://www.wildsingapore.com/echinodermata/ophiuroidea/tinyorange/161012cj.jpg
+    caption: Tiny colourful brittle star and tiny orange brittle star Chek Jawa, Oct
+      16 In Spiky flowery soft coral
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/031124tuscd0030m3b.jpg
+    caption: Tiny colourful brittle star in Spiky flowery soft coral. Tuas, Nov 03
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/040605kusg0314m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/040605kusg0314m3.jpg
     caption: Asparagus flowery soft corals Bushy, don't have spikes.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/neppink/060625bbd3316m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/neppink/060625bbd3316m3.jpg
     caption: Pink flowery soft corals Pink bushy, don't have spikes .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepsmooth/050510tusg6107m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepsmooth/050510tusg6107m3.jpg
     caption: Smooth flowery soft corals Long branches, without spikes.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/031124tusbd0074m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/031124tusbd0074m3.jpg
     caption: Spiky flowery soft corals Long branches, with spikes.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepball/060625bbd3408m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepball/060625bbd3408m3.jpg
     caption: Ball flowery soft corals Spherical, with spikes.
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Soft corals (Order Alcyonacea)](http://mangrove.nus.edu.sg/pub/seashore/text/118)
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
+
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+
   . The Singapore Science Centre, Singapore. 160 pp.
 
+
   **References**
+
   - Tan Heok Hui & Tan Siong Kiat. 12 December 2014.
-  *Commensal animals of a soft coral tree in the Singapore Strait: Ball flowery coral tree, Dendronephthya sp.; False cowrie, Margovula marginata; Coral shell, Coralliophila rubrococcinea; Brittlestar, unidentified*
+
+  *Commensal animals of a soft coral tree in the Singapore Strait: Ball flowery coral
+  tree, Dendronephthya sp.; False cowrie, Margovula marginata; Coral shell, Coralliophila
+  rubrococcinea; Brittlestar, unidentified*
+
   . Singapore Biodiversity Records 2014: 321-323.
+
   - Erhardt, Harry and Daniel Knop. 2005.
+
   *Corals: Indo-Pacific Field Guide*
+
   IKAN-Unterwasserachiv, Frankfurt. 305 pp.
+
   - Borneman, Eric H. 2001.
+
   *Aquarium Corals: Selection, Husbandry and Natural History*
+
   T.F. H Publications. 464 pp
+
   - Fabricius, Katharina and Philip Alderslade, 2001.
+
   *Soft Corals and Sea Fans*
-  . Australian Institute of Marine Science and the Museum and Art Gallery of the Northern Territoriy. 264 pp
+
+  . Australian Institute of Marine Science and the Museum and Art Gallery of the Northern
+  Territoriy. 264 pp
+
   - Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.
+
   *Invertebrate Zoology*
+
   Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
+
   - Pechenik, Jan A., 2005.
+
   *Biology of the Invertebrates*
+
   . 5
+
+  '
 location:
 - chg
 - ubn
@@ -116,6 +125,8 @@ location:
 - bb
 - tus
 - ecp
+size:
+- 20.0
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

@@ -1,10 +1,9 @@
 ---
 title: Star barnacle
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: star, barnacle, chthamalus, euraphia, cirripedia, crustacea, field, 
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: star, barnacle, chthamalus, euraphia, cirripedia, crustacea, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Chthalamidae
 genus: Chthamalus
@@ -24,38 +23,47 @@ superorder: Thoracicalcarea
 order: Balanomorpha
 superfamily: Chthamaloidea
 updated: Mar 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/euraphia/050512tmg6400m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/euraphia/050512tmg6400m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/euraphia/050512tmg6400m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/euraphia/050512tmg6400m3.jpg
     caption: Tanah Merah, May 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/euraphia/060716sisg6735m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/euraphia/060716sisg6735m3.jpg
     caption: Sisters Island, Jul 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/euraphia/060613ecpd3118m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/euraphia/060613ecpd3118m3.jpg
     caption: East Coast, Jun 06
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/euraphia/201020swgvc5.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/euraphia/201020swgvc5.jpg
     caption: Sembawang, Oct 20 Photo shared by Vincent Choo on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Barnacles](http://mangrove.nus.edu.sg/pub/seashore/text/219)
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
+
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+
   . The Singapore Science Centre, Singapore. 160 pp.
+
   - [Barnacles](http://mangrove.nus.edu.sg/guidebooks/text/2123)
+
   Ng, Peter K. L. & N. Sivasothi, 1999.
+
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
+
   . Singapore Science Centre. 168 pp.
 
+
   **References**
+
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
+
   *Rhythm of the Sea: The Life and Times of Labrador Beach.*
-  Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+
+  Division of Biology, School of Science, Nanyang Technological University & Department
+  of Zoology, the National University of Singapore. 160 pp.
+
+  '
 location:
 - cj
 - skd
@@ -68,6 +76,9 @@ location:
 - sji
 - sis
 - rfl
+size:
+- 5.0
+- 1.0
 ---
 
 ## Where seen?

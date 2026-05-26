@@ -1,85 +1,107 @@
 ---
-title: "'Jolly Green Giant' nudibranch "
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: miamira, ceratosoma, sinuatum, sinuata, nudibranch, slug, seaslug, 
-  opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine,
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+title: '''Jolly Green Giant'' nudibranch '
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: miamira, ceratosoma, sinuatum, sinuata, nudibranch, slug, seaslug, opisthobranch,
+  gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Chromodorididae
 genus: Miamira
 species: sinuatum
 attributes: []
 updated: May 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/050917smkg2515m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/050917smkg2515m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/050917smkg2515m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/050917smkg2515m3.jpg
     caption: Large lobe in front of gills. Pulau Semakau, Sep 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/060729sisg6964m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/060729sisg6964m3.jpg
     caption: Sisters Island, Jul 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/060729sisg6964m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/060729sisg6964m3a.jpg
     caption: Small rhinophores.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/090207smkd6350m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/090207smkd6350m3.jpg
     caption: Pulau Semakau, Feb 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/070318labg8192m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/070318labg8192m3b.jpg
     caption: Feathery gills with yellow spots. Labrador, Mar 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/100519tsmc4196m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/100519tsmc4196m3.jpg
     caption: Terumbu Semakau, May 10
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/090412hntmn6l.jpg
-    caption: Releasing white fluid when alarmed. Pulau Hantu, Aug 15 Photo 
-      shared by Marcus Ng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/090806tmjk7m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/090412hntmn6l.jpg
+    caption: Releasing white fluid when alarmed. Pulau Hantu, Aug 15 Photo shared
+      by Marcus Ng on flickr .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/090806tmjk7m3.jpg
     caption: Tanah Merah, Jul 09 Photo shared by James Koh on flickr .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/250131tkkll1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/250131tkkll1.jpg
     caption: Pulau Tekukor, Jan 25 Photo shared by Liz Lim on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/150830hntmn2m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/150830hntmn2m3.jpg
     caption: Pulau Hantu, Aug 15 Photo shared by Marcus Ng on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
+
   by Dr Bill Rudman: photos and fact sheets of
+
   *[Ceratosoma sinuatum](http://www.seaslugforum.net/find/cerasinu)
+
   .*
+
   - [The Slug Site:](http://slugsite.us/)
+
   photo and fact sheet on the Branch of the Week
+
   *[Ceratosoma sinuata](http://slugsite.us/bow/nudwk242)*
+
   and discussion of difficulties in differentiating the species,
+
   *[Ceratosoma tenue](http://slugsite.us/bow2007/nudwk555)*
 
+
   **References**
-  - Tan Siong Kiat and Henrietta P. M. Woo, 2010 Preliminary Checklist of The Molluscs of Singapore (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
+  - Tan Siong Kiat and Henrietta P. M. Woo, 2010 Preliminary Checklist of The Molluscs
+  of Singapore (pdf), Raffles Museum of Biodiversity Research, National University
+  of Singapore.
+
   - Debelius, Helmut, 2001.
+
   *Nudibranchs and Sea Snails: Indo-Pacific Field Guide*
+
   IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+
   - Wells, Fred E. and Clayton W. Bryce. 2000.
-  *Slugs of Western Australia: A guide to the species from the Indian to West Pacific Oceans*
+
+  *Slugs of Western Australia: A guide to the species from the Indian to West Pacific
+  Oceans*
+
   . Western Australian Museum. 184 pp.
+
   - Coleman, Neville. 2001.
+
   *1001 Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*
-  . Neville Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
+
+  . Neville Coleman''s Underwater Geographic Pty Ltd, Australia.144pp.
+
   - Coleman, Neville, 1989.
+
   *Nudibranchs of the South Pacific Vol 1*
+
   . 64 pp.
+
   - Humann, Paul and Ned Deloach. 2010.
+
   *Reef Creature Identification:Tropical Pacific*
+
   New World Publications. 497pp.
+
   - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.
-  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
+
+  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive
+  of the vertebrates*
+
   Sea Challengers. 314pp.
+
+  '
 location:
 - tm
 - lab
@@ -89,6 +111,9 @@ location:
 - hnt
 - smk
 - tsm
+size:
+- 6.0
+- 8.0
 ---
 
 ## Where seen?

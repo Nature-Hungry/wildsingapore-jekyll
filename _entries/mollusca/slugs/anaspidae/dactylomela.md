@@ -1,11 +1,9 @@
 ---
 title: Black-tailed sea hare
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: black, tailed, seahare, hare, aplysia, dactylomela, anaspidea, 
-  aplysiidae, bursatella, leachii, opisthobranch, gastropod, mollusc, field, 
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: black, tailed, seahare, hare, aplysia, dactylomela, anaspidea, aplysiidae,
+  bursatella, leachii, opisthobranch, gastropod, mollusc, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Aplysiidae
 genus: Aplysia
@@ -22,26 +20,20 @@ subterclass: Tectipleura
 order: Aplysiida
 superfamily: Aplysioidea
 updated: May 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/090628lazd6182m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/090628lazd6182m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/090628lazd6182m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/090628lazd6182m3.jpg
     caption: Lazarus Island, Jun 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/050610sntd3938m3c.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/050610sntd3938m3c.jpg
     caption: A black 'tail'.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/050610sntd3938m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/050610sntd3938m3a.jpg
     caption: Large oral tentacles and rhinophores
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/160208smkslks2.JPG
-    caption: Pulau Semakau South, Feb 16 Photo shared by Loh Kok Sheng on his 
-      blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/190123laz.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/160208smkslks2.JPG
+    caption: Pulau Semakau South, Feb 16 Photo shared by Loh Kok Sheng on his blog
+      .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/190123laz.jpg
     caption: Egg strings laid by the sea hare. Lazarus Island, Jan 19
   gallery3:
   - url: https://live.staticflickr.com/31337/50039729157_63f9be9b20_z.jpg
@@ -50,77 +42,96 @@ galleries:
   - url: https://live.staticflickr.com/1591/24908894245_ae06fc8228_z.jpg
     caption: ''
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/181224sntlks3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/181224sntlks3.jpg
     caption: Sentosa, Dec 18 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/240527snttl4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/240527snttl4.jpg
     caption: Sentosa Tg Rimau, May 24 Photo shared by Tammy Lim on facebook
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/140716cyrrl2m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/140716cyrrl2m3.jpg
     caption: Cyrene Reef, Jul 14 Photo shared by Russel Low on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/160608cyrjt2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/160608cyrjt2.jpg
     caption: Cyrene Reef, Jun 16 Photo shared by Jonathan Tan on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/200627cyrjll2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/200627cyrjll2.jpg
     caption: Cyrene Reef, Jun 20 Photo shared by Jianlin Liu on facebook .
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/111001smknw1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/111001smknw1m3.jpg
     caption: Pulau Semakau, Oct 11 Photo shared by Nicole Wong on flickr .
   gallery8:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/100517jngjk1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/100517jngjk1m3.jpg
     caption: Pulau Jong, May 10 Photo shared by James Koh on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/250811jngjll1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/250811jngjll1.jpg
     caption: Pulau Jong, Aug 25 Photo shared by Jianlin Liu on facebook .
   gallery9:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/150720smknjt1m3.jpg
-    caption: Pulau Semakau North, Jul 15 Photo shared by Jonathan Tan on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/210113smkwjll5.jpg
-    caption: Pulau Semakau West, Jan 21 Photo shared by Jianlin Liu on facebook 
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/150720smknjt1m3.jpg
+    caption: Pulau Semakau North, Jul 15 Photo shared by Jonathan Tan on facebook
       .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/250403smksrk4.jpg
-    caption: Two side-by-side Pulau Semakau South, Apr 25 Photo shared by 
-      Richard Kuah on facebook .
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/210113smkwjll5.jpg
+    caption: Pulau Semakau West, Jan 21 Photo shared by Jianlin Liu on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/250403smksrk4.jpg
+    caption: Two side-by-side Pulau Semakau South, Apr 25 Photo shared by Richard
+      Kuah on facebook .
+links_references: '**Links**
+
   - [Sea Slug Forum](http://www.seaslugforum.net/welcome)
+
   by Dr Bill Rudman: photos and fact sheet on
+
   *[Aplysia dactylomela](http://www.seaslugforum.net/factsheet.cfm?base=aplydact)*
+
   - [The Slug Site:](http://slugsite.us/)
+
   photo and fact sheet on the Branch of the Week
+
   *[Aplysia dactylomela](http://slugsite.us/bow/nudwk174)*
 
+
   **References**
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Debelius, Helmut, 2001.
+
   *Nudibranchs and Sea Snails: Indo-Pacific Field Guide*
+
   IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+
   - Wells, Fred E. and Clayton W. Bryce. 2000.
-  *Slugs of Western Australia: A guide to the species from the Indian to West Pacific Oceans*
+
+  *Slugs of Western Australia: A guide to the species from the Indian to West Pacific
+  Oceans*
+
   . Western Australian Museum. 184 pp.
+
   - Coleman, Neville. 2001.
+
   *1001 Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*
-  . Neville Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
+
+  . Neville Coleman''s Underwater Geographic Pty Ltd, Australia.144pp.
+
   - Humann, Paul and Ned Deloach. 2010.
+
   *Reef Creature Identification: Tropical Pacific*
+
   New World Publications. 497pp.
+
   - Kuiter, Rudie H and Helmut Debelius. 2009.
+
   *World Atlas of Marine Fauna*
+
   . IKAN-Unterwasserachiv. 723pp.
+
   - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.
-  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
+
+  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive
+  of the vertebrates*
+
   Sea Challengers. 314pp.
+
+  '
 location:
 - cj
 - snt
@@ -129,6 +140,9 @@ location:
 - cyr
 - smk
 - tsm
+size:
+- 8.0
+- 12.0
 ---
 
 ## Where seen?

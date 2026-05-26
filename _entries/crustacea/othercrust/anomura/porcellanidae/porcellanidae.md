@@ -1,10 +1,8 @@
 ---
 title: 'Porcelain crabs '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: porcelain, crab, porcellanidae, decapod, crustacea, field, guide, 
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: porcelain, crab, porcellanidae, decapod, crustacea, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Porcellanidae
 genus: ''
@@ -24,92 +22,114 @@ suborder: Pleocyemata
 infraorder: Anomura
 superfamily: Galatheoidea
 updated: Dec 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/080619chgd5779m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/080619chgd5779m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: "if you learn only 3 things about them ... They are NOT true crabs. Some
+    caption: 'if you learn only 3 things about them ... They are NOT true crabs. Some
       differences from true crabs: only 3 pairs of walking legs, long antennae. They
-      drop their pincers when stressed, so don't harass them Some live with other
-      animals: sea pens, hermit crabs."
+      drop their pincers when stressed, so don''t harass them Some live with other
+      animals: sea pens, hermit crabs.'
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: "They are NOT true crabs. Some differences from true crabs: only 3 pairs
-      of walking legs, long antennae. They drop their pincers when stressed, so don't
-      harass them Some live with other animals: sea pens, hermit crabs."
+    caption: 'They are NOT true crabs. Some differences from true crabs: only 3 pairs
+      of walking legs, long antennae. They drop their pincers when stressed, so don''t
+      harass them Some live with other animals: sea pens, hermit crabs.'
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/080619chgd5779m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/080619chgd5779m3.jpg
     caption: Huge flat pincers.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/080619chgd5779m3a.jpg
-    caption: Long antennae emerging from outside instead of between the eyes. 
-      Changi, Jun 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/050607chgg7319m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/080619chgd5779m3a.jpg
+    caption: Long antennae emerging from outside instead of between the eyes. Changi,
+      Jun 08
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/050607chgg7319m3a.jpg
     caption: Last pair of legs folded on the sides of the body. Changi, Jun 05
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/120818lazd0353m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/120818lazd0353m3a.jpg
     caption: Feathery mouthparts.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/120818lazd0359m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/120818lazd0359m3a.jpg
     caption: Lazarus, Aug 12
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/120818lazd0353m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/120818lazd0353m3.jpg
     caption: Big porcelain crab
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/tinystone/080521chgd3524m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/tinystone/080521chgd3524m3.jpg
     caption: Tiny brown porcelain crab
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/hermit/050315cjd1820m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/hermit/050315cjd1820m3.jpg
     caption: Hermit porcelain crab
-  - url: 
-      http://www.wildsingapore.com/cnidaria/others/pennatulacea/spiky/040716chgd2523m3.jpg
+  - url: http://www.wildsingapore.com/cnidaria/others/pennatulacea/spiky/040716chgd2523m3.jpg
     caption: Painted porcelain crab
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/commensal/110715cyrd6659m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/commensal/110715cyrd6659m3.jpg
     caption: Commensal porcelain crabs
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/others/200705kusjll5.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/others/200705kusjll5.jpg
     caption: Kusu Island, Jul 20 Photo shared by Jianlin Liu on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Porcelain Crab (
+
   *Petrolisthes*
+
   )](http://mangrove.nus.edu.sg/pub/seashore/text/184)
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
+
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+
   . The Singapore Science Centre, Singapore. 160 pp.
+
   - [Mangrove porcelain crab (
+
   *Petrolisthes kranjiensis*
+
   )](http://mangrove.nus.edu.sg/guidebooks/text/2066)
+
   Ng, Peter K. L. & N. Sivasothi, 1999.
+
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
+
   . Singapore Science Centre. 168 pp.
+
   - Krystal L. Rypien and A. Richard Palmer,
-  [The effects of sex, size and habitat on the incidence of puncture wounds in the claws of the porcelain crab Petrolisthes cinctipes (Anomura: Porcellanidae)](http://www.bioone.org/doi/abs/10.1651/S-2728.1)
+
+  [The effects of sex, size and habitat on the incidence of puncture wounds in the
+  claws of the porcelain crab Petrolisthes cinctipes (Anomura: Porcellanidae)](http://www.bioone.org/doi/abs/10.1651/S-2728.1)
+
   . Journal of Crustacean Biology 27(1):59-64. 2007 doi: http://dx.doi.org/10.1651/S-2728.1
+
   - Roy K. Kropp.
+
   [Additional Porcelain Crab Feeding Methods (Decapoda, Porcellanidae)](http://www.jstor.org/discover/10.2307/20103620?uid=3738992&uid=2&uid=4&sid=21102952517301)
+
   Crustaceana Vol. 40, No. 3 (May, 1981), pp. 307-310.
 
+
   **References**
+
   - M. Osawa & P. K. L. Ng. 29 June 2016.
-  *Revision of Polyonyx pedalis Nobili, 1906 (Crustacea: Decapoda: Anomura: Porcellanidae), with descriptions of three new species*
+
+  *Revision of Polyonyx pedalis Nobili, 1906 (Crustacea: Decapoda: Anomura: Porcellanidae),
+  with descriptions of three new species*
+
   . The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part I of II) Pp. 499-518.
+
   - Wee Y.C. and Peter K. L. Ng. 1994.
+
   *A First Look at Biodiversity in Singapore*
+
   . National Council on the Environment. 163pp.
+
   - Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.
+
   *Invertebrate Zoology*
+
   Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963.
+
   - Pechenik, Jan A., 2005.
+
   *Biology of the Invertebrates*
+
   . 5
+
+  '
 location:
 - pgl
 - chg
@@ -119,6 +139,8 @@ location:
 - bb
 - sis
 - cyr
+size:
+- 1.0
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

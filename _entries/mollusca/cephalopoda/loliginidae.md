@@ -1,10 +1,8 @@
 ---
 title: 'Pencil squids '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: pencil, squid, loliginidae, cephalopod, mollusc, field, guide, 
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: pencil, squid, loliginidae, cephalopod, mollusc, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Loliginidae
 genus: ''
@@ -19,38 +17,26 @@ subclass: Coleoidea
 superorder: Decapodiformes
 order: Myopsida
 updated: May 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/120505sisd0910m6l.jpg
-links_references: |
-  **Links**
-  - Family Loliginidae
-    in the Cephalopod section by J.M. Poutiers in the FAO Species
-    Identification Guide for Fishery Purposes: The Living Marine Resources
-    of the Western Central Pacific [Volume
-    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-    Agriculture Organization of the United Nations (FAO) website.
-
-  **References**
-  - Tan Siong
-    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-    Checklist of The Molluscs of Singapore* (pdf), Raffles
-    Museum of Biodiversity Research, National University of Singapore.
-  - Norman, Mark
-    and Helmut Debelius, 2000. *Cephalopods:
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/120505sisd0910m6l.jpg
+links_references: "**Links**\n- Family Loliginidae\n  in the Cephalopod section by\
+  \ J.M. Poutiers in the FAO Species\n  Identification Guide for Fishery Purposes:\
+  \ The Living Marine Resources\n  of the Western Central Pacific [Volume\n  1: Seaweeds,\
+  \ corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm)\
+  \ on the Food and\n  Agriculture Organization of the United Nations (FAO) website.\n\
+  \n**References**\n- Tan Siong\n  Kiat and Henrietta P. M. Woo, 2010 *Preliminary\n\
+  \  Checklist of The Molluscs of Singapore* (pdf), Raffles\n  Museum of Biodiversity\
+  \ Research, National University of Singapore.\n- Norman, Mark\n  and Helmut Debelius,\
+  \ 2000. *Cephalopods:\n"
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/120505sisd0910m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/120505sisd0910m6l.jpg
     caption: Ink squirted out retains its shape. Sister Island, May 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/110602tmftd3396m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/110602tmftd3396m3.jpg
     caption: Which is ink and which is squid? Tanah Merah, Jun 11
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/120618tmnbd5467m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/120618tmnbd5467m3.jpg
     caption: Bigfin reef squid
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqindian/091008tmd2514m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqindian/091008tmd2514m3.jpg
     caption: Indian squid
   gallery3:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -81,6 +67,10 @@ location:
 - smk
 - tsm
 - lfa
+size:
+- 8.0
+- 12.0
+- 40.0
 ---
 
 ## Where seen?

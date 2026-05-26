@@ -1,10 +1,9 @@
 ---
 title: Striped eeltail catfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: striped, catfish, cat, fish, siluriformes, plotosidae, plotosus, 
-  lineatus, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: striped, catfish, cat, fish, siluriformes, plotosidae, plotosus, lineatus,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 attributes:
 - 9
@@ -25,123 +24,136 @@ superorder: Ostariophysi
 order: Siluriformes
 suborder: Siluroidei
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/040919sntd7020m3a.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/040919sntd7020m3a.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about it ... Often seen in a group of 
-      many fishes, for safety. Don't break up the group! The 'whiskers' don't 
-      sting. They are used to find food in murky waters. It has venomous spines.
-      Don't touch it!
+    caption: if you learn only 3 things about it ... Often seen in a group of many
+      fishes, for safety. Don't break up the group! The 'whiskers' don't sting. They
+      are used to find food in murky waters. It has venomous spines. Don't touch it!
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Often seen in a group of many fishes, for safety. Don't break up 
-      the group! The 'whiskers' don't sting. They are used to find food in murky
-      waters. It has venomous spines. Don't touch it!
+    caption: Often seen in a group of many fishes, for safety. Don't break up the
+      group! The 'whiskers' don't sting. They are used to find food in murky waters.
+      It has venomous spines. Don't touch it!
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/040919sntd7020m3a.jpg
-    caption: "'Whiskers' (barbels) at the top of the snout do not extend past the
-      eyes."
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/040919sntd7020m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/040919sntd7020m3a.jpg
+    caption: '''Whiskers'' (barbels) at the top of the snout do not extend past the
+      eyes.'
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/040919sntd7020m6l.jpg
     caption: Sentosa, Sep 04
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/060628sntd3748m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/060628sntd3748m3.jpg
     caption: Each about 6cm long. Sentosa, Jun 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/040605kuscd0186m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/040605kuscd0186m3.jpg
     caption: Each about 4cm long. Kusu Island, Jun 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/110409smks09415m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/110409smks09415m3.jpg
     caption: Pulau Semakau, Apr 11
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/190704bbvc3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/190704bbvc3.jpg
     caption: Beting Bronok, Jul 19 Photo shared by Vincent Choo on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/171009blyay13.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/171009blyay13.jpg
     caption: Berlayar Creek, Oct 17 Photo shared by Abel Yeo on facebook .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/160410blylks2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/160410blylks2.jpg
     caption: Berlayar Creek, Apr 16 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/251011lablvo5.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/251011lablvo5.jpg
     caption: Labrador, Oct 25 Photo shared by Lon Voon Ong on facebook .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/201116lazlks10.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/201116lazlks10.jpg
     caption: Lazarus Island, Nov 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/110220lazlks7m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/110220lazlks7m3.jpg
     caption: Seringat-Kias, Feb 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/110220lazlks7m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/110220lazlks7m3a.jpg
     caption: Photo shared by Loh Kok Sheng on his flickr .
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/100528tkklks1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/100528tkklks1m3.jpg
     caption: Pulau Tekukor, May 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/090509sislks2m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/090509sislks2m3.jpg
     caption: Sisters Island, May 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/210429hntns1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/210429hntns1.jpg
     caption: Pulau Hantu, Apr 21 Photo shared by Nathaniel Soon on facebook .
   gallery8:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/130427tptlks.JPG
-    caption: Terumbu Pempang Tengah, Apr 13 Photo shared by Loh Kok Sheng on 
-      flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/230522tptrk2.jpg
-    caption: Terumbu Pempang Tengah, May 23 Photo shared by Richard Kuah on 
-      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/130427tptlks.JPG
+    caption: Terumbu Pempang Tengah, Apr 13 Photo shared by Loh Kok Sheng on flickr
+      .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/230522tptrk2.jpg
+    caption: Terumbu Pempang Tengah, May 23 Photo shared by Richard Kuah on facebook
+      .
   gallery9:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/190622jnglks2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/190622jnglks2.jpg
     caption: Pulau Jong, 19 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/100130brkblks3m3.jpg
-    caption: Terumbu Berkas Besar, Jan 10 Photo shared by Loh Kok Sheng on his 
-      flickr .
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/100130brkblks3m3.jpg
+    caption: Terumbu Berkas Besar, Jan 10 Photo shared by Loh Kok Sheng on his flickr
+      .
+links_references: '**Links**
+
   - [Striped eeltail catfish (
+
   *Plotosus lineatus*
+
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/226)
+
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
+
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
+
   . Singapore Science Centre. 163 pp.
+
   [http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=4706](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=4706)
+
   - [Striped eel-catfish (
+
   *Plotosus lineatus*
+
   )](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=4706)
+
   from
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheet.
 
+
   **References**
+
   - Tan Heok Hui, Zeehan Jaafar & Hennig Seerdof.
+
   *A large school of striped eel-tail catfish at Changi*
-  . 28 February 2019. Singapore Biodiversity Records 2019: 26-27 ISSN 2345-7597. National University of Singapore.
+
+  . 28 February 2019. Singapore Biodiversity Records 2019: 26-27 ISSN 2345-7597. National
+  University of Singapore.
+
   - Wee Y.C. and Peter K. L. Ng. 1994.
+
   *A First Look at Biodiversity in Singapore*
+
   . National Council on the Environment. 163pp.
+
   - Ng, P. K. L. & Y. C. Wee, 1994.
+
   *The Singapore Red Data Book: Threatened Plants and Animals of Singapore*
+
   . The Nature Society (Singapore), Singapore. 343 pp.
+
   - Allen, Gerry, 2000.
+
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
+
   . Periplus Editions. 292 pp.
+
   - Kuiter, Rudie H. 2002.
+
   *Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers & Fishermen*
+
   New Holland Publishers. 434pp.
+
   - Lieske, Ewald and Robert Myers. 2001.
+
   *Coral Reef Fishes of the World*
+
   Periplus Editions. 400pp.
+
+  '
 location:
 - prp
 - chg
@@ -162,6 +174,10 @@ location:
 - smk
 - tsm
 - lfa
+size:
+- 30.0
+- 1.0
+- 15.0
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

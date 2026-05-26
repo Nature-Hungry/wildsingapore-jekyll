@@ -1,10 +1,9 @@
 ---
 title: Sally-light-foot crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: sally, light, foot, crab, grapsus, albolineatus, grapsidae, decapod, 
-  crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: sally, light, foot, crab, grapsus, albolineatus, grapsidae, decapod, crustacea,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 attributes:
 - 38
@@ -30,98 +29,102 @@ zoosection: Eubrachyura
 zoosubsection: Thoracotremata
 superfamily: Grapsoidea
 updated: Dec 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/110504nsrccd0560m6l.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/110504nsrccd0560m6l.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/110504nsrccd0560m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/110504nsrccd0560m6l.jpg
     caption: East Coast, May 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/110504nsrccd0560m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/110504nsrccd0560m3a.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/060102sisg3704m3.jpg
-    caption: Moult at top left corner, crab in bottom right. Sisters Islands, 
-      Jan 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/040703sisd1760m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/060102sisg3704m3.jpg
+    caption: Moult at top left corner, crab in bottom right. Sisters Islands, Jan
+      06
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/040703sisd1760m3.jpg
     caption: A moulted crab (blue) with moult (orange). Sisters Islands, Jul 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/100912kusd1381m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/100912kusd1381m3.jpg
     caption: Flattened against an encrusted surface. Kusu Island, Sep 10
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/090609tmjk2m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/090609tmjk2m3.jpg
     caption: Tanah Merah, Jun 09 Photo shared by James Koh on his flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/210529ecpblks8.jpg
-    caption: Just moulted. East Coast, May 21 Photo shared by Loh Kok Sheng on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/240707pcnrg1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/210529ecpblks8.jpg
+    caption: Just moulted. East Coast, May 21 Photo shared by Loh Kok Sheng on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/240707pcnrg1.jpg
     caption: East Coast (PCN), Jul 24 Photo shared by Rachael Goh on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/070604ecplks01m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/070604ecplks01m3.jpg
     caption: East Coast, Jun 07 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/170428ecpcnlks1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/170428ecpcnlks1.jpg
     caption: East Coast PCN, Apr 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/151031ecpmblks.JPG
-    caption: East Coast, Marina Bay, Oct 15 Photo shared by Loh Kok Sheng on 
-      flickr
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/151031ecpmblks.JPG
+    caption: East Coast, Marina Bay, Oct 15 Photo shared by Loh Kok Sheng on flickr
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/101106burlks6m3.JPG
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/101106burlks6m3.JPG
     caption: Terumbu Buran, Nov 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/170809tkkrk1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/170809tkkrk1.jpg
     caption: Pulau Tekukor, Aug 17 Photo shared by Richard Kuah on facebook .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/251009sjiky2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/251009sjiky2.jpg
     caption: St. John's Island, Oct 25 Photo shared by Kelvin Yong on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/090921sjinml2m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/090921sjinml2m3.jpg
     caption: St. John's Island, Sep 09 Photo shared by Neo Mei Lin on her blog .
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/251011ssislvo1.jpg
-    caption: Small Sisters Island, Oct 25 Photo shared by Lon Voon Ong on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/250810bsisky5.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/251011ssislvo1.jpg
+    caption: Small Sisters Island, Oct 25 Photo shared by Lon Voon Ong on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/250810bsisky5.jpg
     caption: Big Sisters, Aug 25 Photo shared by Kelvin Yong on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/251207hntjll4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/251207hntjll4.jpg
     caption: Pulau Hantu, Dec 25 Photo shared by Jianlin Liu on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Mottled Sally-light-foot (
+
   *Grapsus albolineatus*
+
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=21498)
+
   on
+
   [SeaLifeBase](http://www.sealifebase.org/search.php)
+
   : Technical fact sheet.
+
   - [*Grapsus albolineatus*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1653)
+
   in Crabs of Japan on Marine Species Identification Portal: Technical fact sheet.
+
   - [*Grapsus albolineatus*
+
   - Sally Lightfoot Crab](https://singapore.biodiversity.online/taxo4254/mainSpace/Grapsus%20albolineatus.html)
+
   . Gan Su Xuan. 2017. Taxo4254, Wiki.nus.
 
+
   **References**
+
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
-  *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs of the world*
+
+  *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs
+  of the world*
+
   . The Raffles Bulletin of Zoology. Supplement No. 17, 31 Jan 2008. 286 pp.
+
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
+
   *Rhythm of the Sea: The Life and Times of Labrador Beach.*
-  Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+
+  Division of Biology, School of Science, Nanyang Technological University & Department
+  of Zoology, the National University of Singapore. 160 pp.
+
   - Jones Diana S. and Gary J. Morgan, 2002.
+
   *A Field Guide to Crustaceans of Australian Waters*
+
   . Reed New Holland. 224 pp.
+
+  '
 location:
 - skd
 - tm
@@ -131,6 +134,9 @@ location:
 - kus
 - sji
 - sis
+size:
+- 5.0
+- 6.0
 ---
 
 ## Where seen?

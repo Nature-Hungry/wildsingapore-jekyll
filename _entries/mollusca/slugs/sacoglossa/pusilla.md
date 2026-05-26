@@ -1,10 +1,9 @@
 ---
 title: Halimeda slug
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: halimeda, slug, elysia, elysiella, pusilla, plakobranchidae, 
-  sacoglossa, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, 
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: halimeda, slug, elysia, elysiella, pusilla, plakobranchidae, sacoglossa,
+  opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 14
@@ -28,81 +27,57 @@ subterclass: Tectipleura
 superorder: Sacoglossa
 superfamily: Plakobranchoidea
 updated: Jun 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/050330labg3921m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/050330labg3921m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/050330labg3921m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/050330labg3921m3.jpg
     caption: Labrador, Mar 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/050330labg3921m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/050330labg3921m3a.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/050625labg8575m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/050625labg8575m3.jpg
     caption: Labrador, Jun 05
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/101106brnjk.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/101106brnjk.jpg
     caption: Terumbu Buran, Nov 11 Photo shared by James Koh on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/101106brnjk2.jpg
-    caption: Seen on Bryopsis seaweed . Terumbu Buran, Nov 11 Photo shared by 
-      James Koh on flickr .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/101106brnjk2.jpg
+    caption: Seen on Bryopsis seaweed . Terumbu Buran, Nov 11 Photo shared by James
+      Koh on flickr .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/251011tgrlks3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/251011tgrlks3.jpg
     caption: Sentosa Tg Rimau, Oct 25 Shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/210712srpvc1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/210712srpvc1.jpg
     caption: Sentosa Serapong, Jul 21 Photo shared by Vincent Choo on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/211204cyrtch1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/211204cyrtch1.jpg
     caption: Cyrene, Dec 21 Photo shared by Toh Chay Hoon on facebook .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/170501tsmktch5.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/170501tsmktch5.jpg
     caption: Terumbu Semakau, May 17 Photo shared by Toh Chay Hoon on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/170501tsmktch5a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/170501tsmktch5a.jpg
     caption: Terumbu Semakau, May 17 Photo shared by Toh Chay Hoon on facebook .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/180615trytch1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/180615trytch1.jpg
     caption: Terumbu Raya, Jun 18 Photo shared by Toh Chay Hoon on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/210823smkevc2.jpg
-    caption: Pulau Semakau (East), Aug 21 Photo shared by Vincent Choo on 
-      facebook .
-links_references: |
-  **Links**
-  - [The Sea Slug Forum](http://www.seaslugforum.net/)
-  by Dr Bill Rudman: including descriptions and photos of
-  [*Elysiella pusilla*](http://www.seaslugforum.net/showall.cfm?base=elyspus1)
-
-  **References**
-  - K. R. Jensen.
-  *Sacoglossa (Mollusca: Gastropoda: Heterobranchia) from northern coasts of Singapore*
-  . 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 226-249.
-  - Kathe R. Jensen. 30 Dec 2009.
-  *Sacoglossa (Mollusca: Gastropoda: Opisthobranchia) from Singapore*
-  . The Raffles Bulletin of Zoology, Supplement 22: 207-223.
-  - Tan Siong Kiat and Henrietta P. M. Woo, 2010
-  *Preliminary Checklist of The Molluscs of Singapore*
-  (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
-  - Debelius, Helmut, 2001.
-  *Nudibranchs and Sea Snails: Indo-Pacific Field Guide*
-  IKAN-Unterwasserachiv, Frankfurt. 321 pp.
-  - Wells, Fred E. and Clayton W. Bryce. 2000.
-  *Slugs of Western Australia: A guide to the species from the Indian to West Pacific Oceans*
-  . Western Australian Museum. 184 pp.
-  - Coleman, Neville. 2001.
-  *1001 Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*
-  . Neville Coleman’s Underwater Geographic Pty Ltd, Australia.144pp.
-  - Humann, Paul and Ned Deloach. 2010.
-  *Reef Creature Identification: Tropical Pacific*
-  New World Publications. 497pp.
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/210823smkevc2.jpg
+    caption: Pulau Semakau (East), Aug 21 Photo shared by Vincent Choo on facebook
+      .
+links_references: "**Links**\n- [The Sea Slug Forum](http://www.seaslugforum.net/)\n\
+  by Dr Bill Rudman: including descriptions and photos of\n[*Elysiella pusilla*](http://www.seaslugforum.net/showall.cfm?base=elyspus1)\n\
+  \n**References**\n- K. R. Jensen.\n*Sacoglossa (Mollusca: Gastropoda: Heterobranchia)\
+  \ from northern coasts of Singapore*\n. 10 July 2015. The Comprehensive Marine Biodiversity\
+  \ Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology\
+  \ 2015 Supplement No. 31, Pp. 226-249.\n- Kathe R. Jensen. 30 Dec 2009.\n*Sacoglossa\
+  \ (Mollusca: Gastropoda: Opisthobranchia) from Singapore*\n. The Raffles Bulletin\
+  \ of Zoology, Supplement 22: 207-223.\n- Tan Siong Kiat and Henrietta P. M. Woo,\
+  \ 2010\n*Preliminary Checklist of The Molluscs of Singapore*\n(pdf), Raffles Museum\
+  \ of Biodiversity Research, National University of Singapore.\n- Debelius, Helmut,\
+  \ 2001.\n*Nudibranchs and Sea Snails: Indo-Pacific Field Guide*\nIKAN-Unterwasserachiv,\
+  \ Frankfurt. 321 pp.\n- Wells, Fred E. and Clayton W. Bryce. 2000.\n*Slugs of Western\
+  \ Australia: A guide to the species from the Indian to West Pacific Oceans*\n. Western\
+  \ Australian Museum. 184 pp.\n- Coleman, Neville. 2001.\n*1001 Nudibranchs: Catalogue\
+  \ of Indo-Pacific Sea Slugs*\n. Neville Coleman\u2019s Underwater Geographic Pty\
+  \ Ltd, Australia.144pp.\n- Humann, Paul and Ned Deloach. 2010.\n*Reef Creature Identification:\
+  \ Tropical Pacific*\nNew World Publications. 497pp.\n"
 location:
 - cj
 - lab
@@ -110,6 +85,9 @@ location:
 - cyr
 - smk
 - tsm
+size:
+- 0.5
+- 1.5
 ---
 
 ## Where seen?

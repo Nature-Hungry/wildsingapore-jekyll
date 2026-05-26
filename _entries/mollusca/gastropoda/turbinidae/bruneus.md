@@ -1,10 +1,9 @@
 ---
 title: Dwarf turban snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: dwarf, turban, turbo, bruneus, turbinidae, gastropod, mollusc, snail, 
-  shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: dwarf, turban, turbo, bruneus, turbinidae, gastropod, mollusc, snail, shell,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Turbinidae
 genus: Turbo
@@ -20,72 +19,48 @@ order: Trochida
 superfamily: Trochoidea
 subfamily: Turbininae
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/080208hntd9446m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/080208hntd9446m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/080208hntd9446m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/080208hntd9446m3.jpg
     caption: Pulau Hantu, Feb 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/080208hntd9445m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/080208hntd9445m3.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/080208hntd9445m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/080208hntd9445m3b.jpg
     caption: Many tiny bumps on the operculum.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/210115mevc9.jpg
-    caption: East Coast-Marina Bay, Jan 21 Photo shared by Vincent Choo on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/210628ecpBvc3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/210115mevc9.jpg
+    caption: East Coast-Marina Bay, Jan 21 Photo shared by Vincent Choo on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/210628ecpBvc3.jpg
     caption: East Coast (B), Jun21 Photo shared by Vincent Choo on facebook .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/240113laztl1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/240113laztl1.jpg
     caption: Lazarus Island, Jan 24 Photo shared by Tammy Lim on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/251009sjirk1a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/251009sjirk1a.jpg
     caption: St John's Island, Oct 25 Photo shared by Richard Kuah on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/240412tbccn3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/240412tbccn3.jpg
     caption: Terumbu Bemban, Apr 24 Photo shared by Che Cheng Neo on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/091204pawikw2m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/091204pawikw2m3.jpg
     caption: Pulau Pawai, Dec 09 Photo shared by Ivan Kwan on his flickr .
-links_references: |
-  **Links**
-  - [Dwarf Turban Shell (
-  *Turbo brunneus*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/133)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988.
-  *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
-  . The Singapore Science Centre, Singapore. 160 pp.
-  - [Brown Pacific turban (
-  *Turbo bruneus*
-  )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86825)
-  in SeaLife Base: Technical fact sheet.
-  - Brown Pacific turban (
-  *Turbo bruneus*
-  ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
-  on the Food and Agriculture Organization of the United Nations (FAO) website.
-
-  **References**
-  - Tan Siong Kiat and Henrietta P. M. Woo, 2010
-  *Preliminary Checklist of The Molluscs of Singapore*
-  (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
-  - Cedric Kai Wei Tan. 19 November 2009.
-  *Effects of Trenching on shell size and density of Turbo Brunneus (Gastropoda: Turbinidae) and Monodontia labio (Gastropoda: Trochidae)*
-  . Nature in Singapore 2009 2: 421–429.
-  - Tan, K. S. & L. M. Chou, 2000.
-  *A Guide to the Common Seashells of Singapore*
-  . Singapore Science Centre. 160 pp.
-  - Abbott, R. Tucker, 1991.
-  *Seashells of South East Asia*
-  . Graham Brash, Singapore. 145 pp.
+links_references: "**Links**\n- [Dwarf Turban Shell (\n*Turbo brunneus*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/133)\n\
+  Tan, Leo W. H. & Ng, Peter K. L., 1988.\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n\
+  . The Singapore Science Centre, Singapore. 160 pp.\n- [Brown Pacific turban (\n\
+  *Turbo bruneus*\n)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86825)\n\
+  in SeaLife Base: Technical fact sheet.\n- Brown Pacific turban (\n*Turbo bruneus*\n\
+  ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide\
+  \ for Fishery Purposes: The Living Marine Resources of the Western Central Pacific\n\
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)\n\
+  on the Food and Agriculture Organization of the United Nations (FAO) website.\n\n\
+  **References**\n- Tan Siong Kiat and Henrietta P. M. Woo, 2010\n*Preliminary Checklist\
+  \ of The Molluscs of Singapore*\n(pdf), Raffles Museum of Biodiversity Research,\
+  \ National University of Singapore.\n- Cedric Kai Wei Tan. 19 November 2009.\n*Effects\
+  \ of Trenching on shell size and density of Turbo Brunneus (Gastropoda: Turbinidae)\
+  \ and Monodontia labio (Gastropoda: Trochidae)*\n. Nature in Singapore 2009 2: 421\u2013\
+  429.\n- Tan, K. S. & L. M. Chou, 2000.\n*A Guide to the Common Seashells of Singapore*\n\
+  . Singapore Science Centre. 160 pp.\n- Abbott, R. Tucker, 1991.\n*Seashells of South\
+  \ East Asia*\n. Graham Brash, Singapore. 145 pp.\n"
 location:
 - ecp
 - lab
@@ -101,6 +76,9 @@ location:
 - tsm
 - rfl
 - lfa
+size:
+- 3.0
+- 5.0
 ---
 
 ## Where seen?

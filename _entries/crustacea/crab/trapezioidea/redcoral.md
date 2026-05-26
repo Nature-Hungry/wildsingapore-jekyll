@@ -1,10 +1,9 @@
 ---
 title: Red coral crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: tiny, red, coral, crab, trapezia. cymodoce, trapeziidae, decapod, 
-  crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info,  photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: tiny, red, coral, crab, trapezia. cymodoce, trapeziidae, decapod, crustacea,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info,  photo
 layout: entry
 attributes:
 - 38
@@ -29,88 +28,106 @@ zoosubsection: Heterotremata
 superfamily: Trapezioidea
 subfamily: Trapeziinae
 updated: Dec 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/100711cyrd8231m6l.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/100711cyrd8231m6l.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/100711cyrd8231m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/100711cyrd8231m6l.jpg
     caption: Cyrene Reef, Jul 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/201215bsrpvc6.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/201215bsrpvc6.jpg
     caption: Sentosa Serapong, Dec 20 Photo shared by Vincent Choo on facebook .
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/120507sntspgd1509m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/120507sntspgd1509m3a.jpg
     caption: Sentosa Serapong, May 12 A pair in the Cauliflower coral.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/100711cyrd8229m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/100711cyrd8229m3a.jpg
     caption: Cyrene Reef, Jul 10 A pair in a bleaching Cauliflower coral.
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/100527tmd3504m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/100527tmd3504m3.jpg
     caption: Tanah Merah, May 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/220618tmftky2.jpg
-    caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Kelvin Yong on 
-      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/220618tmftky2.jpg
+    caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Kelvin Yong on facebook
+      .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/200124sntky1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/200124sntky1.jpg
     caption: Sentosa Tg. Rimau, Jan 20 Photo shared by Kelvin Yong on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/240114lazvc2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/240114lazvc2.jpg
     caption: Lazarus Island, Jan 24 Photo shared by Vincent Choo on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/250810bsistl1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/250810bsistl1.jpg
     caption: Big Sisters, Aug 25 Photo shared by Tammy Lim on facebook .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/160209cyrmn3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/160209cyrmn3.jpg
     caption: Cyrene Reef, Feb 16 Photo shared by Marcus Ng on facebook .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/100627hntlks1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/100627hntlks1m3.jpg
     caption: Pulau Hantu, Jun 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/150717smksnml2m3.jpg
-    caption: Pulau Semakau South, Jul 15 Photo shared by Neo Mei Lin on her blog
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/150717smksnml2m3.jpg
+    caption: Pulau Semakau South, Jul 15 Photo shared by Neo Mei Lin on her blog .
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/110423tpllks11m3.jpg
+    caption: Terumbu Pempang Laut, Apr 11 Photo shared by Loh Kok Sheng on his blog
       .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/110423tpllks11m3.jpg
-    caption: Terumbu Pempang Laut, Apr 11 Photo shared by Loh Kok Sheng on his 
-      blog .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Lilac coral crab (
+
   *Trapezia cymodoce*
+
   )](http://www.sealifebase.fisheries.ubc.ca/summary/speciessummary.php?id=103072)
+
   on
+
   [SeaLife Base](http://www.sealifebase.fisheries.ubc.ca/search.php)
+
   : Technical fact sheet
 
+
   **References**
-  - Astri Noorbaini Samsuri, Yuichi Preslie Kikuzawa, Daisuke Taira, Shu Qin Sam, Wan Ting Sim, Chin Soon Lionel Ng, Lutfi Afiq-Rosli, Teck Wei Delon Wee, Ngan Kee Ng, Tai Chong Toh, Loke Ming Chou. 27 March 2018.
+
+  - Astri Noorbaini Samsuri, Yuichi Preslie Kikuzawa, Daisuke Taira, Shu Qin Sam,
+  Wan Ting Sim, Chin Soon Lionel Ng, Lutfi Afiq-Rosli, Teck Wei Delon Wee, Ngan Kee
+  Ng, Tai Chong Toh, Loke Ming Chou. 27 March 2018.
+
   [The effectiveness of
+
   *Trapezia cymodoce*
+
   in defending its host coral
+
   *Pocillopora acuta*
+
   against corallivorous
+
   *Drupella*](https://link.springer.com/article/10.1007/s00227-018-3330-2)
+
   . Marine Biology April 2018, 165:70
+
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
-  *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs of the world*
+
+  *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs
+  of the world*
+
   [.](http://lkcnhm.nus.edu.sg/rbz/biblio/s17/s17rbz.pdf)
+
   The Raffles Bulletin of Zoology. Supplement No. 17, 31 Jan 2008. 286 pp.
+
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
+
   *Rhythm of the Sea: The Life and Times of Labrador Beach.*
-  Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+
+  Division of Biology, School of Science, Nanyang Technological University & Department
+  of Zoology, the National University of Singapore. 160 pp.
+
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+
   . Nature Society (Singapore). 285 pp.
+
   - Jones Diana S. and Gary J. Morgan, 2002.
+
   *A Field Guide to Crustaceans of Australian Waters*
+
   . Reed New Holland. 224 pp.
+
+  '
 location:
 - tm
 - snt
@@ -123,6 +140,8 @@ location:
 - tpg
 - smk
 - tsm
+size:
+- 1.0
 ---
 
 ## Where seen?

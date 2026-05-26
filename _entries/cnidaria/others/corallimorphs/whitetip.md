@@ -1,10 +1,9 @@
 ---
 title: White-tip corallimorphs
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: corallimorph, rhodactis, indosinensis, discosomidae, corallimorpharia,
-  anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: corallimorph, rhodactis, indosinensis, discosomidae, corallimorpharia, anthozoa,
+  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 6
@@ -21,60 +20,44 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Corallimorpharia
 updated: Jul 2024
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/120721tptd7883m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/120721tptd7883m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/120721tptd7883m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/120721tptd7883m3.jpg
     caption: Terumbu Pempang Tengah, Jul 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/120721tptd8047m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/120721tptd8047m3.jpg
     caption: Terumbu Pempang Tengah, Jul 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/120721tptd8039m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/120721tptd8039m3.jpg
     caption: Terumbu Pempang Tengah, Jul 12
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/120607kusd4965m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/120607kusd4965m3.jpg
     caption: Kusu Island, Jun 12
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/160625tkkgl2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/160625tkkgl2.jpg
     caption: Pulau Tekukor, Jun 16 Photo shared by Geraldine Lee on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/240309tkrrk2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/240309tkrrk2.jpg
     caption: Pulau Tekukor, Mar 24 Photo shared by Richard Kuah on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/210228lazrk2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/210228lazrk2.jpg
     caption: Lazarus Island, Feb 21 Photo shared by Richard Kuah on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/101106tbrnlks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/101106tbrnlks.JPG
     caption: Terumbu Buran, Jan 10 Photo shared by Loh Kok Sheng on flickr .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/101106tburjk.JPG
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/101106tburjk.JPG
     caption: Terumbu Buran, Nov 10 Photo shared by James Koh on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/110220lazrl7m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/110220lazrl7m3.jpg
     caption: Lazarus Island, Feb 11 Photo shared by Russel Low on facebook .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/100519tsmjk2m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/100519tsmjk2m3.jpg
     caption: Terumbu Semakau, May 10 Photo shared by James Koh on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/150717smksmn1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/150717smksmn1m3.jpg
     caption: Pulau Semakau South, Jul 15 Photo shared by Marcus Ng on facebook .
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/160124smkelks4.jpg
-    caption: Pulau Semakau East, Jan 16 Photo shared by Loh Kok Sheng on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/260202smkeml1.jpg
-    caption: Pulau Semakau East, Feb 26 Photo shared by Mathias Luk on facebook 
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/160124smkelks4.jpg
+    caption: Pulau Semakau East, Jan 16 Photo shared by Loh Kok Sheng on facebook
       .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/260202smkeml1.jpg
+    caption: Pulau Semakau East, Feb 26 Photo shared by Mathias Luk on facebook .
 location:
 - tkr
 - kus
@@ -84,6 +67,9 @@ location:
 - tpg
 - smk
 - tsm
+size:
+- 2.0
+- 4.0
 ---
 
 ## Where seen?

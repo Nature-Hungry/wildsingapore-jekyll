@@ -1,10 +1,9 @@
 ---
 title: White peachia anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: metapeachia, tropica, peachia, anemone, anthozoa, cnidaria, field, 
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: metapeachia, tropica, peachia, anemone, anthozoa, cnidaria, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 attributes:
 - 6
@@ -23,113 +22,107 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
 updated: Dec 2024
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/080519sisd3464m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/080519sisd3464m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/080519sisd3464m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/080519sisd3464m3.jpg
     caption: Sisters Island, May 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/080519sisd3464m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/080519sisd3464m3a.jpg
     caption: Bumps in the middle of the mouth
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/081231sisd4474m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/081231sisd4474m3.jpg
     caption: With tentacles tucked in. Sisters Island, Dec 08
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/071126chgd7677m3.jpg
-    caption: "'Uprooted' anemone. Changi, Nov 07"
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/110604chgd3865m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/071126chgd7677m3.jpg
+    caption: '''Uprooted'' anemone. Changi, Nov 07'
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/110604chgd3865m3.jpg
     caption: Bumps on a 'column' in the middle of the mouth. Changi, Jun 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/080408chgd0595m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/080408chgd0595m3.jpg
     caption: Eating a crab? Changi, Apr 08
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/070728sisd4544m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/070728sisd4544m3.jpg
     caption: Sisters Island, Jul 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/090707prpd6637m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/090707prpd6637m3.jpg
     caption: Pasir Ris, Jul 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/100501cyrd2148m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/100501cyrd2148m3.jpg
     caption: Cyrene Reef, May 10
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/160607bbik1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/160607bbik1.jpg
     caption: Beting Bronok, Jun 16 Photo shared by Ivan Kwan on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/160210ecplks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/160210ecplks.JPG
     caption: East Coast Park, Feb 16 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/151001blymn6m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/151001blymn6m3.jpg
     caption: Berlayar Creek, Oct 15 Photo shared by Marcus Ng on facebook .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/251011tgrlks8.jpg
-    caption: Sentosa Tg Rimau, Oct 25 Photo shared by Loh Kok Sheng on facebook 
-      .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/240527srplks14.jpg
-    caption: Sentosa Serapong, May 24 Photo shared by Loh Kok Sheng on facebook 
-      .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/251011tgrlks8.jpg
+    caption: Sentosa Tg Rimau, Oct 25 Photo shared by Loh Kok Sheng on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/240527srplks14.jpg
+    caption: Sentosa Serapong, May 24 Photo shared by Loh Kok Sheng on facebook .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/170429kuscyf.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/170429kuscyf.jpg
     caption: Kusu Island, Apr 17 Photo shared by Choo Yi Feng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/260217bsisml4.jpg
-    caption: Big Sister's Island, Feb 26 Photo shared by Mathias Luk on facebook
-      .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/260217bsisml4.jpg
+    caption: Big Sister's Island, Feb 26 Photo shared by Mathias Luk on facebook .
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/071103smkljh1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/071103smkljh1m3.jpg
     caption: Pulau Semakau, Nov 07 Photo shared by Lin Juanhui on her flickr
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/181027smkscsm2.jpg
-    caption: Pulau Semakau South, Oct 18 Photo shared by Chong SiewMin on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/201018smkslks2.jpg
-    caption: Pulau Semakau South, Oct 20 Photo shared by Loh Kok Sheng on 
-      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/181027smkscsm2.jpg
+    caption: Pulau Semakau South, Oct 18 Photo shared by Chong SiewMin on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/201018smkslks2.jpg
+    caption: Pulau Semakau South, Oct 20 Photo shared by Loh Kok Sheng on facebook
+      .
   gallery8:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/230806tbccn2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/230806tbccn2.jpg
     caption: Terumbu Bemban, Aug 23 Photo shared by Che Cheng Neo on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/160312tptmn5.jpg
-    caption: Terumbu Pempang Tengah, Mar 16 Photo shared by Marcus Ng on 
-      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/160312tptmn5.jpg
+    caption: Terumbu Pempang Tengah, Mar 16 Photo shared by Marcus Ng on facebook
+      .
   gallery9:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/091205sudtch1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/091205sudtch1m3.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by Toh Chay Hoon on her flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/091205sudtch6m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/091205sudtch6m3.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by Toh Chay Hoon on her flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/091204pawjk11m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/peachia/091204pawjk11m3.jpg
     caption: Pulau Pawai, Dec 09 Photo shared by James Koh on his flickr .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Peachia*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/classification_path_2.cfm?taxonname=Peachia%20Gosse%2C%201855)
+
   on the
+
   [Hexacorallians of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/)
-  website by Dr Daphne Fautin with classification, distribution, biological associations and more.
+
+  website by Dr Daphne Fautin with classification, distribution, biological associations
+  and more.
+
 
   **References**
-  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
+
+  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
+  Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H.
+  Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The
+  Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition.
+  National Parks Board. 663 pp.
+
   - Nicholas Wei Liang Yap, Daphne Gail Fautin, Dino Angelo Ramos, and Ria Tan (
+
   *2014*
+
   )
-  *Sea anemones of Singapore: Synpeachia temasek new genus, new species, and redescription of Metapeachia tropica (Cnidaria: Actiniaria: Haloclavidae)*
-  . Proceedings of the Biological Society of Washington: October 2014, Vol. 127, No. 3, pp. 439-454.
+
+  *Sea anemones of Singapore: Synpeachia temasek new genus, new species, and redescription
+  of Metapeachia tropica (Cnidaria: Actiniaria: Haloclavidae)*
+
+  . Proceedings of the Biological Society of Washington: October 2014, Vol. 127, No.
+  3, pp. 439-454.
+
   - Erhardt, Harry and Daniel Knop. 2005.
+
   *Corals: Indo-Pacific Field Guide*
+
   IKAN-Unterwasserachiv, Frankfurt. 305 pp.
+
+  '
 location:
 - prp
 - chg
@@ -149,6 +142,9 @@ location:
 - smk
 - tsm
 - lfa
+size:
+- 4.0
+- 5.0
 ---
 
 ## Where seen?

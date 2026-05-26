@@ -1,10 +1,9 @@
 ---
 title: Herrmann's sea cucumber
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: curryfish, cucumber, seacucumber, stichopus, herrmanni, holothuroidea,
-  echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: curryfish, cucumber, seacucumber, stichopus, herrmanni, holothuroidea, echinoderm,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 attributes:
 - 0
@@ -27,69 +26,88 @@ class: Holothuroidea
 subclass: Actinopoda
 order: Synallactida
 updated: Apr 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/130824smkd2647m6l.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/130824smkd2647m6l.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/130824smkd2647m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/130824smkd2647m6l.jpg
     caption: Pulau Semakau, Aug 13
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/130824smkd2647m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/130824smkd2647m3.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/130824smkd2651m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/130824smkd2651m3.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/130824smkd2651m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/130824smkd2651m6l.jpg
     caption: Flat underside with three rows of tube feet.
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/080803smkd9014m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/080803smkd9014m6l.jpg
     caption: Pulau Semakau, Aug 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/080803smkd9015m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/080803smkd9015m3.jpg
     caption: Tube feet on the underside.
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/081214smkelm3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/081214smkelm3.jpg
     caption: Pulau Semakau, Dec 08 Photo by Yvonne Yeoh courtesy of Eric Leong.
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/170501tsmktch2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/170501tsmktch2.jpg
     caption: Terumbu Semakau, May 17 Photo shared by Toh Chay Hoon on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/170501tsmktch3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/170501tsmktch3.jpg
     caption: ''
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Stichopus herrmanni*
+
   (Curryfish)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86834)
+
   on
+
   [SeaLifeBase](http://www.sealifebase.org/search.php)
+
   : Technical fact sheet.
+
   - [*Stichopus herrmanni*
+
   (Curryfish)](http://www.iucnredlist.org/details/180238/0)
+
   on the IUCN Red List: Techinal fact sheet.
+
   - [*Stichopus herrmanni*](https://singapore.biodiversity.online/taxo4254/mainSpace/Stichopus%20hermanni.html)
-  (Asphidochirotida: Stichopodidae) Hermann's Sea Cucumber by Carmon Kee, 2012 on taxo4254.
+
+  (Asphidochirotida: Stichopodidae) Hermann''s Sea Cucumber by Carmon Kee, 2012 on
+  taxo4254.
+
   - *Stichopus herrmanni*
+
   on
+
   [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00)
+
   , by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
+
   - [Fisheries, trade and utilization of sea cucumbers in Malaysia](http://www.fao.org/docrep/007/y5501e/y5501e0b)
+
   by Choo Poh-Sze WorldFish Center, Penang, Malaysia on the FAO website.
-  - [Malaysia lists 'gamat' sea cucumbers as endangered](http://wildshores.blogspot.com/2009/03/malaysia-lists-gamat-sea-cucumbers-as.html)
-  on the wild shores of singapore blog with an article about the trade in gamat on Pulau Langkawi.
+
+  - [Malaysia lists ''gamat'' sea cucumbers as endangered](http://wildshores.blogspot.com/2009/03/malaysia-lists-gamat-sea-cucumbers-as.html)
+
+  on the wild shores of singapore blog with an article about the trade in gamat on
+  Pulau Langkawi.
+
 
   **References**
+
   - Lane, David J.W. and Didier Vandenspiegel. 2003
+
   *. A Guide to Sea Stars and Other Echinoderms of Singapore*
+
   . Singapore Science Centre. 187pp.
+
+  '
 location:
 - smk
 - tsm
+size:
+- 20.0
+- 30.0
+- 50.0
 ---
 
 ## Where seen?

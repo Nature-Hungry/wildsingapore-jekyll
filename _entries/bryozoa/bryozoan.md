@@ -14,66 +14,90 @@ kingdom: Animalia
 phylum: Bryozoa
 updated: Nov 2019
 coverimg: http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/040604bbg0196m3.jpg
-trivia_title: "if you learn only 3 things about them ... "
-trivia_items: [
-  "They are animals and NOT plants. Each is a colony of many tiny animals.",
-  "Unlike sponges, bryozoans are complex animals with internal organs."
-]
+trivia_title: 'if you learn only 3 things about them ... '
+trivia_items:
+- They are animals and NOT plants. Each is a colony of many tiny animals.
+- Unlike sponges, bryozoans are complex animals with internal organs.
 galleries:
-  
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/ig901l.gif"
-      caption: Bryozoans are complex animals with tiny tentacles and live inside a hard case that they can retract into.
-    - url: "http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/080817chgd9745m3a.jpg"
-      caption: "Encrusting a living seagrasses Changi, Aug 08"
-    - url: "http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/050823chgg2279m3.jpg"
-      caption: "Encrusting a living seaweed! Changi, Aug 05"
+  - url: http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/ig901l.gif
+    caption: Bryozoans are complex animals with tiny tentacles and live inside a hard
+      case that they can retract into.
+  - url: http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/080817chgd9745m3a.jpg
+    caption: Encrusting a living seagrasses Changi, Aug 08
+  - url: http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/050823chgg2279m3.jpg
+    caption: Encrusting a living seaweed! Changi, Aug 05
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/bryozoa/glass/111030skdd3345m3.jpg"
-      caption: "Glassy branching bryozoans Pulau Sekudu, Oct 11"
-    - url: "http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/130822cjd1835m3.jpg"
-      caption: "Chek Jawa, Aug 13"
-    - url: "http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/130822cjd1835m3a.jpg"
-      caption: Growing on a living horseshoe crab.
+  - url: http://www.wildsingapore.com/wildfacts/bryozoa/glass/111030skdd3345m3.jpg
+    caption: Glassy branching bryozoans Pulau Sekudu, Oct 11
+  - url: http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/130822cjd1835m3.jpg
+    caption: Chek Jawa, Aug 13
+  - url: http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/130822cjd1835m3a.jpg
+    caption: Growing on a living horseshoe crab.
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/101223pgllsk1.JPG"
-      caption: "Punggol, Dec 10 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/091203ubnd4954m3b.jpg"
-      caption: "Pulau Ubin, Dec 09"
+  - url: http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/101223pgllsk1.JPG
+    caption: Punggol, Dec 10 Photo shared by Loh Kok Sheng on flickr .
+  - url: http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/091203ubnd4954m3b.jpg
+    caption: Pulau Ubin, Dec 09
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/091203ubnd4946m3.jpg"
-      caption: "Pulau Ubin, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/031012cjad0005m3.jpg"
-      caption: "Chek Jawa, Oct 03"
-    - url: "http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/040604bbg0196m3.jpg"
-      caption: "Beting Bronok, Jun 04"
+  - url: http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/091203ubnd4946m3.jpg
+    caption: Pulau Ubin, Dec 09
+  - url: http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/031012cjad0005m3.jpg
+    caption: Chek Jawa, Oct 03
+  - url: http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/040604bbg0196m3.jpg
+    caption: Beting Bronok, Jun 04
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/210529ecpblks15.jpg"
-      caption: "East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook ."
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/210529ecpblks15.jpg
+    caption: East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook .
+links_references: '**Links**
+
   - [Moss animals (Phylum Ectoprocta=Bryozoa)](http://mangrove.nus.edu.sg/pub/seashore/text/129)
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988,
+
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+
   . The Singapore Science Centre, Singapore. 160 pp.
+
   - [Flowers of the Sea: Bryozoans](http://www.microscopy-uk.org.uk/mag/artmay01/bryozoan.html)
-  by Jean-Marie Cavanihac on the Microscopy UK website: fact sheet on bryozoans with lots of lovely super close look at tiny bryozoans.
+
+  by Jean-Marie Cavanihac on the Microscopy UK website: fact sheet on bryozoans with
+  lots of lovely super close look at tiny bryozoans.
+
   - [Bryozoa](http://www.ucmp.berkeley.edu/bryozoa/bryozoa.html)
-  on the Museum of Paleontology, University of California, Berkeley website: details with photos.
-  
+
+  on the Museum of Paleontology, University of California, Berkeley website: details
+  with photos.
+
+
   **References**
+
   - K. J. Tilbrook & D. P. Gordon. 29 June 2016.
+
   *Checklist of Singapore Bryozoa and Entoprocta*
+
   . The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part I of II) Pp. 593-603.
+
   - K. J. Tilbrook & D. P. Gordon.
+
   *Bryozoa from the Straits of Johor, Singapore, with the description of new species*
-  . 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 255-263.
+
+  . 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International
+  Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 255-263.
+
   - Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.
+
   *Invertebrate Zoology : A Functional Evolutionary Approach*
+
   Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
+
   - Pechenik, Jan A., 2005.
+
   *Biology of the Invertebrates*
+
   . 5
+
+  '
 ---
 
 

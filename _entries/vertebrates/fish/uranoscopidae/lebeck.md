@@ -1,10 +1,9 @@
 ---
 title: Longnosed stargazer
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: long, nose, star, gazer, stargazer, ichthyscopus, lebeck, 
-  uranoscopidae, fish, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: long, nose, star, gazer, stargazer, ichthyscopus, lebeck, uranoscopidae,
+  fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 11
@@ -24,83 +23,116 @@ superorder: Acanthomorpha
 order: Labriformes
 suborder: Uranoscopoidei
 updated: Nov 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/uranoscopidae/lebeck/011021cjcpd0929m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/uranoscopidae/lebeck/011021cjcpd0929m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... It has venomous spines! 
-      Don't touch or kick them! Most of the fish is usually well hidden under 
-      the sand. They lure prey towards them with a filament in their mouths.
+    caption: if you learn only 3 things about them ... It has venomous spines! Don't
+      touch or kick them! Most of the fish is usually well hidden under the sand.
+      They lure prey towards them with a filament in their mouths.
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: It has venomous spines! Don't touch or kick them! Most of the fish 
-      is usually well hidden under the sand. They lure prey towards them with a 
-      filament in their mouths.
+    caption: It has venomous spines! Don't touch or kick them! Most of the fish is
+      usually well hidden under the sand. They lure prey towards them with a filament
+      in their mouths.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/uranoscopidae/lebeck/011021cjcpd0929m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/uranoscopidae/lebeck/011021cjcpd0929m3.jpg
     caption: Usually half buried in the sand. Chek Jawa, Oct 01
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/uranoscopidae/lebeck/110705chgd5828m6la.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/uranoscopidae/lebeck/110705chgd5828m6la.jpg
     caption: Changi, Jul 11
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/uranoscopidae/lebeck/110705chgd5830m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/uranoscopidae/lebeck/110705chgd5830m3.jpg
     caption: Changi, Jul 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/uranoscopidae/lebeck/110705chgd5831m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/uranoscopidae/lebeck/110705chgd5831m3.jpg
     caption: Protrusible mouth!
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/uranoscopidae/lebeck/110705chgd5831m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/uranoscopidae/lebeck/110705chgd5831m3a.jpg
     caption: Elongated nostrils - wormy-looking things next to the eyes.
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/uranoscopidae/lebeck/110705chgL1060431m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/uranoscopidae/lebeck/110705chgL1060431m6l.jpg
     caption: Was trapped in a driftnet and released alive. Changi, Jul 11
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/uranoscopidae/lebeck/210530ecpglks2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/uranoscopidae/lebeck/210530ecpglks2.jpg
     caption: East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Family Uranoscopidae (Stargazers)](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=378)
+
   and
+
   [*Ichthyscopus lebeck*
+
   (Longnosed stargazer)](http://www.fishbase.org/summary/58184)
+
   and
+
   [*Uranoscopus cognatus*
+
   (Two-spined yellow-tail stargazer)](http://www.fishbase.org/summary/10549)
+
   and
+
   [Uranoscopus japonicus](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=6393)
+
   from
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheet on the family.
+
   - [Uranoscopidae Stargazers](ftp://ftp.fao.org/docrep/fao/009/y0870e/y0870e19.pdf)
+
   by H. Kishimoto in
+
   [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00)
-  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
+
+  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources
+  of the Western Central Pacific.
+
   - [Large sea star and stargazer at Changi](http://wildshores.blogspot.sg/2011/07/large-star-and-stargazer-at-changi.html)
-  on wild shores of singapore: field notes of behaviour of a stargazer rescued from a fish net.
+
+  on wild shores of singapore: field notes of behaviour of a stargazer rescued from
+  a fish net.
+
 
   **References**
+
   - Tan Heok Hui and Chan Sow Yan.
+
   *A longnose stargazer at Changi Beach*
-  . 31 January 2019. Singapore Biodiversity Records 2019: 8-9 ISSN 2345-7597. National University of Singapore.
+
+  . 31 January 2019. Singapore Biodiversity Records 2019: 8-9 ISSN 2345-7597. National
+  University of Singapore.
+
   - Ria Tan & Kelvin K. P. Lim. 6 Dec 2013.
+
   *Longnosed stargazers (Ichthyscopus lebeck) at Changi*
+
   . Singapore Biodiversity Records 2013: 90-91.
+
   - Wee Y.C. and Peter K. L. Ng. 1994.
+
   *A First Look at Biodiversity in Singapore*
+
   . National Council on the Environment. 163pp.
+
   - Allen, Gerry, 2000.
+
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
+
   . Periplus Editions. 292 pp.
+
   - Kuiter, Rudie H. 2002.
+
   *Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers & Fishermen*
+
   New Holland Publishers. 434pp.
+
   - Lieske, Ewald and Robert Myers. 2001.
+
   *Coral Reef Fishes of the World*
+
   Periplus Editions. 400pp.
+
+  '
 location:
 - chg
 - cj

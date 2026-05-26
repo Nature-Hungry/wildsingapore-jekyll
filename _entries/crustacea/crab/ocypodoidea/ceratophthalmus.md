@@ -1,10 +1,9 @@
 ---
 title: Horn-eyed ghost crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: horn, eyed, ghost, crab, ocypode, ceratophthalmus, ocypodidae, 
-  decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: horn, eyed, ghost, crab, ocypode, ceratophthalmus, ocypodidae, decapod,
+  crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 38
@@ -33,119 +32,86 @@ superfamily: Ocypodoidea
 subfamily: Ocypodinae
 complex: Ocypode ceratophthalmus
 updated: Mar 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/060713rlhd4149m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/060713rlhd4149m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They only seen at night. 
-      But the large holes to their burrows are commonly seen on sandy shores 
-      near the high water mark. Their burrows are deep. Don't try to dig them 
-      up. They can move very fast.
+    caption: if you learn only 3 things about them ... They only seen at night. But
+      the large holes to their burrows are commonly seen on sandy shores near the
+      high water mark. Their burrows are deep. Don't try to dig them up. They can
+      move very fast.
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They only seen at night. But the large holes to their burrows are 
-      commonly seen on sandy shores near the high water mark. Their burrows are 
-      deep. Don't try to dig them up. They can move very fast.
+    caption: They only seen at night. But the large holes to their burrows are commonly
+      seen on sandy shores near the high water mark. Their burrows are deep. Don't
+      try to dig them up. They can move very fast.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/060713rlhd4149m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/060713rlhd4149m3.jpg
     caption: Raffles Lighthouse, Jul 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/090818tmd9312m3a.jpg
-    caption: A slot on the body for the eye stalk to 'fold' away. Tanah Merah, 
-      Aug 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/110506tmftd0803m3.jpg
-    caption: Vertical ridge and tiny bumps on the inside of the 'palm'. Tanah 
-      Merah, May 11
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/090818tmd9312m3a.jpg
+    caption: A slot on the body for the eye stalk to 'fold' away. Tanah Merah, Aug
+      09
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/110506tmftd0803m3.jpg
+    caption: Vertical ridge and tiny bumps on the inside of the 'palm'. Tanah Merah,
+      May 11
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/060102sisg3708m3.jpg
-    caption: Some have white pincers, one much bigger than the other. Sisters 
-      Islands, Jan 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/060613ecpd2934m3.jpg
-    caption: "No 'horns' on the eyes: young one? East Coast, Jun 06"
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/050426cftd2816m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/060102sisg3708m3.jpg
+    caption: Some have white pincers, one much bigger than the other. Sisters Islands,
+      Jan 06
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/060613ecpd2934m3.jpg
+    caption: 'No ''horns'' on the eyes: young one? East Coast, Jun 06'
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/050426cftd2816m3.jpg
     caption: Typical burrow near the high water mark. Changi, Apr 05
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/090807tmd8440m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/090807tmd8440m3.jpg
     caption: Eating a shrimp. Tanah Merah, Aug 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/130426tkks02845.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/130426tkks02845.jpg
     caption: Eating a Moon crab. Pulau Tekukor, Apr 13
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/031125hntbd0041m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/031125hntbd0041m3.jpg
     caption: Eating crab. Pulau Hantu, Nov 03
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/090428chgd0692m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/090428chgd0692m3.jpg
     caption: Eating a fireworm . Changi, Apr 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/100909tmd0817m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/100909tmd0817m3a.jpg
     caption: Eating a fish, probably a goby. Tanah Merah, Sep 10
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/090527skdlks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/090527skdlks.JPG
     caption: Pulau Sekudu, May 09 Photo shared by Loh Kok Sheng on his blog.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/090628lazlt5m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/090628lazlt5m3.jpg
     caption: Seringat-Kias, Jun 09 Photo shared by Liana Tang on her blog
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/091205sudjk5m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/091205sudjk5m3.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by James Koh on his flickr .
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/200311blylks9.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/200311blylks9.jpg
     caption: Berlayar Creek, Mar 20 Photo shared by Loh Kok Sheng on facebook .
   gallery8:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/210822ssisjll2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/210822ssisjll2.jpg
     caption: Small SIsters, Aug 21 Photo shared by Jianlin Liu on facebook .
-links_references: |
-  **Links**
-  - [Ghost Crab (
-  *Ocypoda*
-  sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/191)
-  with brief details on
-  *Ocypode ceratophthalmus*
-  and
-  *Ocypode cordimana*
-  Tan, Leo W. H. & Ng, Peter K. L., 1988.
-  *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
-  . The Singapore Science Centre, Singapore. 160 pp.
-  - [Horned ghost crab (
-  *Ocypode ceratophthalma*
-  )](http://www.sealifebase.fisheries.ubc.ca/Summary/speciesSummary.php?ID=21486&genusname=Ocypode&speciesname=ceratophthalma)
-  on SeaLife Base: Technical fact sheet.
-  - [*Ocypode ceratophthalmus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Ocypode%20ceratophthalmus.html)
-  (Decapoda: Ocypodidae) Horn-eyed ghost crab by Wong Ze Lin, 2011 on taxo4254.
-  - [Sand crab (
-  *Ocypode ceratophthalmus*
-  )](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1756)
-  in Crabs of Japan on Marine Species Identification Portal: Technical fact sheet.
-  - [Horned ghost crabs change camouflage from day to night](http://www.bbc.co.uk/nature/22025789)
-  Ella Davies, BBC Nature 5 Apr 13.
-  - [Animal Olympians](http://www.pbrc.hawaii.edu/%7Epetra/animal_olympians.html)
-  by Petra H. Lenz on the University of Hawaii website: listing of records of animal performance, and the Ghost crab ranks among the top fastest terrestrial animals.
-  - From the wild shores of singapore blog
-  - [Ghosts as an indicator of life on our shores](http://wildshores.blogspot.com/2010/01/ghosts-as-indicator-of-life-on-our.html)
-
-  **References**
-  - Shirley S. L. Lim* & Adeline Y. P. Yong.
-  *Rapid population recovery of Ocypode ceratophthalmus (Pallas, 1772) (Crustacea: Brachyura: Ocypodidae) after an oil spill in Singapore*
-  . 26 June 2015. Raffles Bulletin of Zoology 63: 270–278.
-  - Martin Stevens Cheo Pei Rong Peter A. Todd,
-  *Colour change and camouflage in the horned ghost crab Ocypode ceratophthalmus*
-  . 02 April 2013. Biological Journal of the Linnean Society, 109: 257-270.
-  - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
-  *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs of the world*
-  . The Raffles Bulletin of Zoology. Supplement No. 17, 31 Jan 2008. 286 pp.
-  - Jones Diana S. and Gary J. Morgan, 2002.
-  *A Field Guide to Crustaceans of Australian Waters*
-  . Reed New Holland. 224 pp.
+links_references: "**Links**\n- [Ghost Crab (\n*Ocypoda*\nsp.)](http://mangrove.nus.edu.sg/pub/seashore/text/191)\n\
+  with brief details on\n*Ocypode ceratophthalmus*\nand\n*Ocypode cordimana*\nTan,\
+  \ Leo W. H. & Ng, Peter K. L., 1988.\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n\
+  . The Singapore Science Centre, Singapore. 160 pp.\n- [Horned ghost crab (\n*Ocypode\
+  \ ceratophthalma*\n)](http://www.sealifebase.fisheries.ubc.ca/Summary/speciesSummary.php?ID=21486&genusname=Ocypode&speciesname=ceratophthalma)\n\
+  on SeaLife Base: Technical fact sheet.\n- [*Ocypode ceratophthalmus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Ocypode%20ceratophthalmus.html)\n\
+  (Decapoda: Ocypodidae) Horn-eyed ghost crab by Wong Ze Lin, 2011 on taxo4254.\n\
+  - [Sand crab (\n*Ocypode ceratophthalmus*\n)](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1756)\n\
+  in Crabs of Japan on Marine Species Identification Portal: Technical fact sheet.\n\
+  - [Horned ghost crabs change camouflage from day to night](http://www.bbc.co.uk/nature/22025789)\n\
+  Ella Davies, BBC Nature 5 Apr 13.\n- [Animal Olympians](http://www.pbrc.hawaii.edu/%7Epetra/animal_olympians.html)\n\
+  by Petra H. Lenz on the University of Hawaii website: listing of records of animal\
+  \ performance, and the Ghost crab ranks among the top fastest terrestrial animals.\n\
+  - From the wild shores of singapore blog\n- [Ghosts as an indicator of life on our\
+  \ shores](http://wildshores.blogspot.com/2010/01/ghosts-as-indicator-of-life-on-our.html)\n\
+  \n**References**\n- Shirley S. L. Lim* & Adeline Y. P. Yong.\n*Rapid population\
+  \ recovery of Ocypode ceratophthalmus (Pallas, 1772) (Crustacea: Brachyura: Ocypodidae)\
+  \ after an oil spill in Singapore*\n. 26 June 2015. Raffles Bulletin of Zoology\
+  \ 63: 270\u2013278.\n- Martin Stevens Cheo Pei Rong Peter A. Todd,\n*Colour change\
+  \ and camouflage in the horned ghost crab Ocypode ceratophthalmus*\n. 02 April 2013.\
+  \ Biological Journal of the Linnean Society, 109: 257-270.\n- Ng, Peter K. L. and\
+  \ Daniele Guinot and Peter J. F. Davie, 2008.\n*Systema Brachyurorum: Part 1. An\
+  \ annotated checklist of extant Brachyuran crabs of the world*\n. The Raffles Bulletin\
+  \ of Zoology. Supplement No. 17, 31 Jan 2008. 286 pp.\n- Jones Diana S. and Gary\
+  \ J. Morgan, 2002.\n*A Field Guide to Crustaceans of Australian Waters*\n. Reed\
+  \ New Holland. 224 pp.\n"
 location:
 - pgl
 - prp
@@ -166,6 +132,9 @@ location:
 - smk
 - rfl
 - lfa
+size:
+- 6.0
+- 8.0
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?

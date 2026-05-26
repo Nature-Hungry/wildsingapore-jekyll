@@ -21,111 +21,74 @@ updated: Oct 2020
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/seagrass/071001chgd6784m6la.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: if you learn only 3 things about them ... They have bones inside as well as outside. The male carries the eggs. They are hard to spot and can't move fast. Watch your step or you might step on one!
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: They have bones inside as well as outside. The male carries the eggs. They are hard to spot and can't move fast. Watch your step or you might step on one!
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... They have bones inside as well
+      as outside. The male carries the eggs. They are hard to spot and can't move
+      fast. Watch your step or you might step on one!
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: They have bones inside as well as outside. The male carries the eggs.
+      They are hard to spot and can't move fast. Watch your step or you might step
+      on one!
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/seagrass/071001chgd6784m6la.jpg"
-      caption: "Changi, Oct 07"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/seagrass/140812chg4d8517m3.jpg"
-      caption: "Long tube-like toothless snout. Tiny tubular nostrils. Tiny pelvic fins. Changi, Aug 14"
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/seagrass/071001chgd6784m6la.jpg
+    caption: Changi, Oct 07
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/seagrass/140812chg4d8517m3.jpg
+    caption: Long tube-like toothless snout. Tiny tubular nostrils. Tiny pelvic fins.
+      Changi, Aug 14
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/050627smkg8911m3.jpg"
-      caption: "Carrying eggs on the underside Pulau Semakau, Jun 05"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/seagrass/090427chgd0639m6l.jpg"
-      caption: "Very pregnant papa with a bulging pouch on the underside. Changi, Apr 09"
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/050627smkg8911m3.jpg
+    caption: Carrying eggs on the underside Pulau Semakau, Jun 05
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/seagrass/090427chgd0639m6l.jpg
+    caption: Very pregnant papa with a bulging pouch on the underside. Changi, Apr
+      09
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/seagrass/120510chgd2756m3.jpg"
-      caption: Seagrass pipefish
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/080523cyrd3932m3.jpg"
-      caption: Alligator pipefish
-links_references: |
-  **Links**
-  - [Pipefish (Family Syngnathidae)](http://mangrove.nus.edu.sg/pub/seashore/text/230)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988,
-  *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
-  . The Singapore Science Centre, Singapore. 160 pp.
-  - [Blue-speckled Pipefish (
-  *Hippichthys cyanospilus*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/250)
-  Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
-  *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
-  . Singapore Science Centre. 163 pp.
-  - [Project Seahorse](http://seahorse.fisheries.ubc.ca/)
-  : THE website for everything about seahorses, it also has lots of info about pipefish with details on the trade in pipefish.
-  - [Family Syngnathidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=258)
-  and
-  [*Choeroichthys brachysoma*
-  (Short-bodied pipefish)](http://www.fishbase.org/summary/5958)
-  and
-  [*Corythoichthys flavofasciatus*
-  (Network pipefish)](http://www.fishbase.org/summary/5959)
-  and
-  [*Halicampus nitidus*
-  (Glittering pipefish)](http://www.fishbase.org/summary/5976)
-  and
-  [*Hippichthys cyanospilos*
-  (Blue-spotted pipefish)](http://www.fishbase.org/summary/7728)
-  and
-  *[Ichthyocampus carce](http://www.fishbase.org/summary/11808)*
-  and
-  [*Micrognathus brevirostris brevirostris*
-  (Thorntail pipefish)](http://www.fishbase.org/summary/7996)
-  and
-  [*Syngnathoides biaculeatus*
-  (Alligator pipefish)](http://www.fishbase.org/summary/5980)
-  and
-  [*Hippichthys spicifer*
-  (Bellybarred pipefish)](http://www.fishbase.org/summary/7495)
-  and
-  [*Bhanotia fasciolata*
-  (Corrugated pipefish)](http://www.fishbase.org/summary/7721)
-  and
-  [*Trachyrhamphus bicoarctatus*
-  (Double-ended pipefish)](http://www.fishbase.org/summary/5981)
-  and
-  *[Trachyrhamphus serratus](http://www.fishbase.org/summary/23123)*
-  from
-  [FishBase](http://www.fishbase.org/)
-  : Technical fact sheet on the family, including fact sheets on individual species
-  - [Papa pipefish not so motherly after all](http://wildshores.blogspot.com/2009/12/papa-pipefish-not-so-motherly-after-all.html)
-  on the wild shores of singapore
-  
-  **References**
-  - Daisuke Taira.
-  *Ringed pipefish in the Singapore Strait*
-  . 31 July 2018. Singapore Biodiversity Records 2018: 89 ISSN 2345-7597. National University of Singapore.
-  - Toh Yuet Hsin & Koh Kwan Siong. 18 December 2015.
-  *New record of ringed pipefish in Singapore*
-  . Singapore Biodiversity Records 2015: 211
-  - Tan Heok Hui. 26 December 2014.
-  *Janss’ pipefish at Pulau Pawai, Doryramphus janssi*
-  . Singapore Biodiversity Records 2014: 336.
-  - Toh Chay Hoon & Kelvin K. P. Lim. 7 February 2014.
-  *Schultz's pipefish off Pulau Hantu*
-  . Singapore Biodiversity Records 2014: 37.
-  - Ng Boon Leong & Khoo Min Hui. 9 May 2014.
-  *New record of white-faced pipefish in Singapore, Corythoichthys cf. amplexus*
-  . Singapore Biodiversity Records 2014: 120-121
-  - Jeffrey Low K. Y., Jani Isa Thuaibah Tanzil & Zeehan Jaafar, 2009.
-  *Some note-worthy fishes observed in the Singapore Straits*
-  . Nature in Singapore, 2: 77–82.
-  - Toh Chay Hoon. 31 October 2013.
-  *Brock’s pipefish at Little Sister Island, Halicampus brocki*
-  . Singapore Biodiversity Records 2013: 43.
-  - Allen, Gerry, 2000.
-  *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
-  . Periplus Editions. 292 pp.
-  - Kuiter, Rudie H. 2002.
-  *Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers & Fishermen*
-  New Holland Publishers. 434pp.
-  - Lieske, Ewald and Robert Myers. 2001.
-  *Coral Reef Fishes of the World*
-  Periplus Editions. 400pp.
-  - Kuiter, Rudie H., 2000 (English edition).
-  *Seahorses, Pipefishes and their Relatives: A Comprehensive Guide to Syngnathiformes*
-  TMC Publishing, UK. 240 pp.
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/seagrass/120510chgd2756m3.jpg
+    caption: Seagrass pipefish
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/080523cyrd3932m3.jpg
+    caption: Alligator pipefish
+links_references: "**Links**\n- [Pipefish (Family Syngnathidae)](http://mangrove.nus.edu.sg/pub/seashore/text/230)\n\
+  Tan, Leo W. H. & Ng, Peter K. L., 1988,\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n\
+  . The Singapore Science Centre, Singapore. 160 pp.\n- [Blue-speckled Pipefish (\n\
+  *Hippichthys cyanospilus*\n)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/250)\n\
+  Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.\n*[A Guide to the Common Marine Fishes\
+  \ of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*\n. Singapore\
+  \ Science Centre. 163 pp.\n- [Project Seahorse](http://seahorse.fisheries.ubc.ca/)\n\
+  : THE website for everything about seahorses, it also has lots of info about pipefish\
+  \ with details on the trade in pipefish.\n- [Family Syngnathidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=258)\n\
+  and\n[*Choeroichthys brachysoma*\n(Short-bodied pipefish)](http://www.fishbase.org/summary/5958)\n\
+  and\n[*Corythoichthys flavofasciatus*\n(Network pipefish)](http://www.fishbase.org/summary/5959)\n\
+  and\n[*Halicampus nitidus*\n(Glittering pipefish)](http://www.fishbase.org/summary/5976)\n\
+  and\n[*Hippichthys cyanospilos*\n(Blue-spotted pipefish)](http://www.fishbase.org/summary/7728)\n\
+  and\n*[Ichthyocampus carce](http://www.fishbase.org/summary/11808)*\nand\n[*Micrognathus\
+  \ brevirostris brevirostris*\n(Thorntail pipefish)](http://www.fishbase.org/summary/7996)\n\
+  and\n[*Syngnathoides biaculeatus*\n(Alligator pipefish)](http://www.fishbase.org/summary/5980)\n\
+  and\n[*Hippichthys spicifer*\n(Bellybarred pipefish)](http://www.fishbase.org/summary/7495)\n\
+  and\n[*Bhanotia fasciolata*\n(Corrugated pipefish)](http://www.fishbase.org/summary/7721)\n\
+  and\n[*Trachyrhamphus bicoarctatus*\n(Double-ended pipefish)](http://www.fishbase.org/summary/5981)\n\
+  and\n*[Trachyrhamphus serratus](http://www.fishbase.org/summary/23123)*\nfrom\n\
+  [FishBase](http://www.fishbase.org/)\n: Technical fact sheet on the family, including\
+  \ fact sheets on individual species\n- [Papa pipefish not so motherly after all](http://wildshores.blogspot.com/2009/12/papa-pipefish-not-so-motherly-after-all.html)\n\
+  on the wild shores of singapore\n\n**References**\n- Daisuke Taira.\n*Ringed pipefish\
+  \ in the Singapore Strait*\n. 31 July 2018. Singapore Biodiversity Records 2018:\
+  \ 89 ISSN 2345-7597. National University of Singapore.\n- Toh Yuet Hsin & Koh Kwan\
+  \ Siong. 18 December 2015.\n*New record of ringed pipefish in Singapore*\n. Singapore\
+  \ Biodiversity Records 2015: 211\n- Tan Heok Hui. 26 December 2014.\n*Janss\u2019\
+  \ pipefish at Pulau Pawai, Doryramphus janssi*\n. Singapore Biodiversity Records\
+  \ 2014: 336.\n- Toh Chay Hoon & Kelvin K. P. Lim. 7 February 2014.\n*Schultz's pipefish\
+  \ off Pulau Hantu*\n. Singapore Biodiversity Records 2014: 37.\n- Ng Boon Leong\
+  \ & Khoo Min Hui. 9 May 2014.\n*New record of white-faced pipefish in Singapore,\
+  \ Corythoichthys cf. amplexus*\n. Singapore Biodiversity Records 2014: 120-121\n\
+  - Jeffrey Low K. Y., Jani Isa Thuaibah Tanzil & Zeehan Jaafar, 2009.\n*Some note-worthy\
+  \ fishes observed in the Singapore Straits*\n. Nature in Singapore, 2: 77\u2013\
+  82.\n- Toh Chay Hoon. 31 October 2013.\n*Brock\u2019s pipefish at Little Sister\
+  \ Island, Halicampus brocki*\n. Singapore Biodiversity Records 2013: 43.\n- Allen,\
+  \ Gerry, 2000.\n*Marine Fishes of South-East Asia: A Field Guide for Anglers and\
+  \ Divers*\n. Periplus Editions. 292 pp.\n- Kuiter, Rudie H. 2002.\n*Guide to Sea\
+  \ Fishes of Australia: A Comprehensive Reference for Divers & Fishermen*\nNew Holland\
+  \ Publishers. 434pp.\n- Lieske, Ewald and Robert Myers. 2001.\n*Coral Reef Fishes\
+  \ of the World*\nPeriplus Editions. 400pp.\n- Kuiter, Rudie H., 2000 (English edition).\n\
+  *Seahorses, Pipefishes and their Relatives: A Comprehensive Guide to Syngnathiformes*\n\
+  TMC Publishing, UK. 240 pp.\n"
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

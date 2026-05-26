@@ -1,10 +1,9 @@
 ---
 title: 'Noodle seagrass '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: noodle, grass, syringodium, isoetifolium, potamogetonaceae, 
-  cymodoceaceae, seagrass, grass, field, guide, seashore, sea, shore, marine, 
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: noodle, grass, syringodium, isoetifolium, potamogetonaceae, cymodoceaceae,
+  seagrass, grass, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 95
@@ -26,48 +25,64 @@ rdb: EN
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... This seagrass is rarely 
-      seen on our shores. It doesn't flower frequently, and the flowers are 
-      complex. It is eaten by dugongs.
+    caption: if you learn only 3 things about them ... This seagrass is rarely seen
+      on our shores. It doesn't flower frequently, and the flowers are complex. It
+      is eaten by dugongs.
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: This seagrass is rarely seen on our shores. It doesn't flower 
-      frequently, and the flowers are complex. It is eaten by dugongs.
+    caption: This seagrass is rarely seen on our shores. It doesn't flower frequently,
+      and the flowers are complex. It is eaten by dugongs.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seagrass/syringodium/100519tsmc4069m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/syringodium/100519tsmc4069m3.jpg
     caption: Terumbu Semakau, May 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seagrass/syringodium/081016cyrd0933m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/syringodium/081016cyrd0933m3.jpg
     caption: Cyrene Reef, Oct 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seagrass/syringodium/110830cyrd0547m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/syringodium/110830cyrd0547m3.jpg
     caption: Cyrene Reef, Aug 11
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seagrass/syringodium/220618tmftvc4.jpg
-    caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Vincent Choo on 
-      facebook .
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/syringodium/220618tmftvc4.jpg
+    caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Vincent Choo on facebook
+      .
+links_references: '**Links**
+
   - McKenzie, L.J., Yaakub, S.M., and Yoshida, R.L. (2007).
+
   *[Seagrass-Watch: Guidelines for TeamSeagrass Singapore Participants](http://www.seagrasswatch.org/Training/proceedings/TeamSeagrass_Singapore_workshop_Mar07.pdf)*
-  (PDF). Proceedings of a training workshop, National Parks Board, Biodiversity Centre, Singapore, 24th-25th March 2007 (DPI&F, Cairns). 32pp.
+
+  (PDF). Proceedings of a training workshop, National Parks Board, Biodiversity Centre,
+  Singapore, 24th-25th March 2007 (DPI&F, Cairns). 32pp.
+
   - [Identifying seagrasses](http://www.seagrasswatch.org/id_seagrass.html)
+
   on the Seagrass-Watch website.
 
+
   **References**
+
   - Waycott, Michelle (et. al). 2004.
+
   *A Guide to Tropical Seagrasses of the Indo-West Pacific.*
+
   2004. James Cook University. 72 pp.
+
   - Calumpong, H. P. & Menez, E. G., 1997.
+
   *Field Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*
+
   . Bookmark, Inc., the Philippines. 197 pp.
+
   - Hsuan Keng, S.C. Chin and H. T. W. Tan.1998,
+
   *The Concise Flora of Singapore II: Monoctyledons*
+
   Singapore University Press. 215 pp.
+
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+
   . Nature Society (Singapore). 285 pp.
+
+  '
 location:
 - chg
 - tm
@@ -76,6 +91,10 @@ location:
 - cyr
 - smk
 - tsm
+size:
+- 5.0
+- 10.0
+- 50.0
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

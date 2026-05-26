@@ -24,83 +24,107 @@ order: Comatulida
 superfamily: Himerometroidea
 updated: Apr 2020
 coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/red/150706srpd7354.jpg
-links_references: |
-  **Links**
-  - [Class
-    Echinoidea](http://mangrove.nus.edu.sg/pub/seashore/text/223)
-    Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-    Singapore. 160 pp.
-  
-  **References**
-  - C. G. Messing & T. S. Tay. 29 June 2016. *Extant Crinoidea (Echinodermata) of Singapore*. The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part I of II) Pp. 627-658.
-  - T. S. Tay & J. K. Y. Low. 29 June 2016. *Crinoid diversity in the subtidal non-coral reef habitats of Singapore*. The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part I of II) Pp. 659-665.
-  - Charles Messing. 16 October 2015. *New record of the featherstar Cenometra bella in Singapore*. Singapore Biodiversity Records 2015: 160
-  - C. G. Messing & T. S. Tay. 29 June 2016. *Extant Crinoidea (Echinodermata) of Singapore*. [pdf] The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part II of II) Pp. 627-658.
-  - Lane, David
-    J.W. and Didier Vandenspiegel. 2003*. A
-    Guide to Sea Stars and Other Echinoderms of Singapore*.
-    Singapore Science Centre. 187pp.
-  - Ng, P. K.
-    L. & Y. C. Wee, 1994. *The
+links_references: "**Links**\n- [Class\n  Echinoidea](http://mangrove.nus.edu.sg/pub/seashore/text/223)\n\
+  \  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A\n  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
+  \ The Singapore Science Centre,\n  Singapore. 160 pp.\n\n**References**\n- C. G.\
+  \ Messing & T. S. Tay. 29 June 2016. *Extant Crinoidea (Echinodermata) of Singapore*.\
+  \ The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part I of II) Pp. 627-658.\n\
+  - T. S. Tay & J. K. Y. Low. 29 June 2016. *Crinoid diversity in the subtidal non-coral\
+  \ reef habitats of Singapore*. The Raffles Bulletin of Zoology 2016 Supplement No.\
+  \ 34 (Part I of II) Pp. 659-665.\n- Charles Messing. 16 October 2015. *New record\
+  \ of the featherstar Cenometra bella in Singapore*. Singapore Biodiversity Records\
+  \ 2015: 160\n- C. G. Messing & T. S. Tay. 29 June 2016. *Extant Crinoidea (Echinodermata)\
+  \ of Singapore*. [pdf] The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part\
+  \ II of II) Pp. 627-658.\n- Lane, David\n  J.W. and Didier Vandenspiegel. 2003*.\
+  \ A\n  Guide to Sea Stars and Other Echinoderms of Singapore*.\n  Singapore Science\
+  \ Centre. 187pp.\n- Ng, P. K.\n  L. & Y. C. Wee, 1994. *The\n"
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: if you learn only 3 things about them ... Feather stars are rarely found near the shore. Most species can move about from place to place. Their long spiny arms are fragile and break easily. Don't disturb them.
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: Feather stars are rarely found near the shore. Most species can move about from place to place. Their long spiny arms are fragile and break easily. Don't disturb them.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... Feather stars are rarely found
+      near the shore. Most species can move about from place to place. Their long
+      spiny arms are fragile and break easily. Don't disturb them.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: Feather stars are rarely found near the shore. Most species can move
+      about from place to place. Their long spiny arms are fragile and break easily.
+      Don't disturb them.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/red/150706srpd7354.jpg"
-      caption: "Many gathered on a hard coral. Sentosa Serapong, Jul 15"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/blue/080607chgd5324m3.jpg"
-      caption: "Beautiful shades and colours. Changi, Jun 08"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/pale/091008tmd2430m3.jpg"
-      caption: "Some can be tiny. Tanah Merah, Oct 09"
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/red/150706srpd7354.jpg
+    caption: Many gathered on a hard coral. Sentosa Serapong, Jul 15
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/blue/080607chgd5324m3.jpg
+    caption: Beautiful shades and colours. Changi, Jun 08
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/pale/091008tmd2430m3.jpg
+    caption: Some can be tiny. Tanah Merah, Oct 09
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/blue/060528bbd2369m3.jpg"
-      caption: "Clinging on with the cirri. Beting Bronok, May 06"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/red/120123hntd5777m3a.jpg"
-      caption: "Tiny tube feet on the pinnules. Pulau Hantu, Jan 12"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/crinoid/120820sisd0810m3a.jpg"
-      caption: "Channels along the pinnules and arm. Sisters Island, Aug 12"
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/blue/060528bbd2369m3.jpg
+    caption: Clinging on with the cirri. Beting Bronok, May 06
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/red/120123hntd5777m3a.jpg
+    caption: Tiny tube feet on the pinnules. Pulau Hantu, Jan 12
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/crinoid/120820sisd0810m3a.jpg
+    caption: Channels along the pinnules and arm. Sisters Island, Aug 12
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/pale/060713rlhd4327m3a.jpg"
-      caption: "Regenerating arm tips. Chek Jawa, May 05"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/crinoid/120820sisd0875m3.jpg"
-      caption: "Pink eggs in the pinnules? Sisters Island, Aug 12"
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/pale/091008tmd2430m3.jpg"
-      caption: "Some can be tiny. Tanah Merah, Oct 09"
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/pale/060713rlhd4327m3a.jpg
+    caption: Regenerating arm tips. Chek Jawa, May 05
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/crinoid/120820sisd0875m3.jpg
+    caption: Pink eggs in the pinnules? Sisters Island, Aug 12
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/pale/091008tmd2430m3.jpg
+    caption: Some can be tiny. Tanah Merah, Oct 09
   gallery5:
-    - url: "http://www.wildsingapore.com/crustacea/crab/pilumnidae/featherstar/150220lsislks2.JPG"
-      caption: "Crab Sisters Island, Feb 15 Photo shared by James Koh on flickr"
-    - url: "http://www.wildsingapore.com/crustacea/othercrust/shrimp/crinoid/120408hntmn3.jpg"
-      caption: "Shrimp St John's Island, Apr 12 Photo shared by Marcus Ng on flickr ."
-    - url: "http://www.wildsingapore.com/worm/polychaeta/myzostomidae/120820sisd0906m3.jpg"
-      caption: "Worm Sisters Island, Aug 12"
+  - url: http://www.wildsingapore.com/crustacea/crab/pilumnidae/featherstar/150220lsislks2.JPG
+    caption: Crab Sisters Island, Feb 15 Photo shared by James Koh on flickr
+  - url: http://www.wildsingapore.com/crustacea/othercrust/shrimp/crinoid/120408hntmn3.jpg
+    caption: Shrimp St John's Island, Apr 12 Photo shared by Marcus Ng on flickr .
+  - url: http://www.wildsingapore.com/worm/polychaeta/myzostomidae/120820sisd0906m3.jpg
+    caption: Worm Sisters Island, Aug 12
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/pale/060713rlhd4317m3d.jpg"
-      caption: "Brittle star Raffles Lighthouse, Jul 06"
-    - url: "http://www.wildsingapore.com/wildfacts/ophiuroidea/featherstar/130626ecplks.JPG"
-      caption: "Brittle star East Coast Park, Jun 13"
-    - url: "http://www.wildsingapore.com/wildfacts/ophiuroidea/featherstar/130625ecpd8222.jpg"
-      caption: "Brittle star East Coast Park, Jun 13"
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/pale/060713rlhd4317m3d.jpg
+    caption: Brittle star Raffles Lighthouse, Jul 06
+  - url: http://www.wildsingapore.com/wildfacts/ophiuroidea/featherstar/130626ecplks.JPG
+    caption: Brittle star East Coast Park, Jun 13
+  - url: http://www.wildsingapore.com/wildfacts/ophiuroidea/featherstar/130625ecpd8222.jpg
+    caption: Brittle star East Coast Park, Jun 13
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/blue/091203ubnd5078m3.jpg"
-      caption: Blue feather star
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/red/090822sisd9753m3.jpg"
-      caption: Red feather star
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/brown/080209htnlks01m3.jpg"
-      caption: Brown feather star
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/blue/091203ubnd5078m3.jpg
+    caption: Blue feather star
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/red/090822sisd9753m3.jpg
+    caption: Red feather star
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/brown/080209htnlks01m3.jpg
+    caption: Brown feather star
   gallery8:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/black/040604bbg0240m3.jpg"
-      caption: Black-and-white feather star
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/pale/080605hntlks02m3.jpg"
-      caption: Pale feather star
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/purpurea/050623cjg8337m3.jpg"
-      caption: Purple feather star
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/black/040604bbg0240m3.jpg
+    caption: Black-and-white feather star
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/pale/080605hntlks02m3.jpg
+    caption: Pale feather star
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/purpurea/050623cjg8337m3.jpg
+    caption: Purple feather star
   gallery9:
-    - url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
-      caption: "Links Class Echinoidea Tan, Leo W. H. & Ng, Peter K. L., 1988. A Guide to Seashore Life . The Singapore Science Centre, Singapore. 160 pp. References C. G. Messing & T. S. Tay. 29 June 2016. Extant Crinoidea (Echinodermata) of Singapore . The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part I of II) Pp. 627-658. T. S. Tay & J. K. Y. Low. 29 June 2016. Crinoid diversity in the subtidal non-coral reef habitats of Singapore . The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part I of II) Pp. 659-665. Charles Messing. 16 October 2015. New record of the featherstar Cenometra bella in Singapore . Singapore Biodiversity Records 2015: 160 C. G. Messing & T. S. Tay. 29 June 2016. Extant Crinoidea (Echinodermata) of Singapore . [pdf] The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part II of II) Pp. 627-658. Lane, David J.W. and Didier Vandenspiegel. 2003 . A Guide to Sea Stars and Other Echinoderms of Singapore . Singapore Science Centre. 187pp. Ng, P. K. L. & Y. C. Wee, 1994. The Singapore Red Data Book: Threatened Plants and Animals of Singapore . The Nature Society (Singapore), Singapore. 343 pp. Wee Y.C. and Peter K. L. Ng. 1994. A First Look at Biodiversity in Singapore . National Council on the Environment. 163pp. Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004. Invertebrate Zoology Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963 Pechenik, Jan A., 2005. Biology of the Invertebrates . 5 th edition. McGraw-Hill Book Co., Singapore. 578 pp. Hendler, Gordon, John E. Miller, David L. Pawson and Porter M. Kier, 1995. Sea Stars, Sea Urchins, and Allies: Echinoderms of Florida and the Caribbean . Smithsonian Institution Press. 390 pp. Schoppe, Sabine, 2000. Echinoderms of the Philippines: A guide to common shallow water sea stars, brittle stars, sea urchins, sea cucumbers and feather stars . Times Edition, Singapore. 144 pp. Coleman, Neville. undated. Sea Stars of Australasia and their relatives . Neville Coleman's World of Water, Australia. 64pp."
+  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
+    caption: 'Links Class Echinoidea Tan, Leo W. H. & Ng, Peter K. L., 1988. A Guide
+      to Seashore Life . The Singapore Science Centre, Singapore. 160 pp. References
+      C. G. Messing & T. S. Tay. 29 June 2016. Extant Crinoidea (Echinodermata) of
+      Singapore . The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part I of
+      II) Pp. 627-658. T. S. Tay & J. K. Y. Low. 29 June 2016. Crinoid diversity in
+      the subtidal non-coral reef habitats of Singapore . The Raffles Bulletin of
+      Zoology 2016 Supplement No. 34 (Part I of II) Pp. 659-665. Charles Messing.
+      16 October 2015. New record of the featherstar Cenometra bella in Singapore
+      . Singapore Biodiversity Records 2015: 160 C. G. Messing & T. S. Tay. 29 June
+      2016. Extant Crinoidea (Echinodermata) of Singapore . [pdf] The Raffles Bulletin
+      of Zoology 2016 Supplement No. 34 (Part II of II) Pp. 627-658. Lane, David J.W.
+      and Didier Vandenspiegel. 2003 . A Guide to Sea Stars and Other Echinoderms
+      of Singapore . Singapore Science Centre. 187pp. Ng, P. K. L. & Y. C. Wee, 1994.
+      The Singapore Red Data Book: Threatened Plants and Animals of Singapore . The
+      Nature Society (Singapore), Singapore. 343 pp. Wee Y.C. and Peter K. L. Ng.
+      1994. A First Look at Biodiversity in Singapore . National Council on the Environment.
+      163pp. Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004. Invertebrate
+      Zoology Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963 Pechenik,
+      Jan A., 2005. Biology of the Invertebrates . 5 th edition. McGraw-Hill Book
+      Co., Singapore. 578 pp. Hendler, Gordon, John E. Miller, David L. Pawson and
+      Porter M. Kier, 1995. Sea Stars, Sea Urchins, and Allies: Echinoderms of Florida
+      and the Caribbean . Smithsonian Institution Press. 390 pp. Schoppe, Sabine,
+      2000. Echinoderms of the Philippines: A guide to common shallow water sea stars,
+      brittle stars, sea urchins, sea cucumbers and feather stars . Times Edition,
+      Singapore. 144 pp. Coleman, Neville. undated. Sea Stars of Australasia and their
+      relatives . Neville Coleman''s World of Water, Australia. 64pp.'
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

@@ -1,10 +1,9 @@
 ---
 title: Neon anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: neon, actiniaria, actiniidae, isactinia, citrina, anthozoa, cnidarian,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: neon, actiniaria, actiniidae, isactinia, citrina, anthozoa, cnidarian, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 attributes:
 - 5
@@ -23,32 +22,24 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
 updated: Jul 2024
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/neon/120411thnts06102m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/neon/120411thnts06102m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/neon/120411thnts06102m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/neon/120411thnts06102m3.jpg
     caption: Terumbu Hantu, Apr 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/neon/120411thntd9451m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/neon/120411thntd9451m3.jpg
     caption: Terumbu Hantu, Apr 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/neon/040507rflbd0156m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/neon/040507rflbd0156m3.jpg
     caption: Raffles LIghthouse, May 04
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/neon/240411tsmkky1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/neon/240411tsmkky1.jpg
     caption: Terumbu Semakau, Apr 24 Photo shared by Kelvin Yong on facebook .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/neon/252531thnttl2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/neon/252531thnttl2.jpg
     caption: Terumbu Hantu, May 25 Photo shared by Tamny Lim on facebook.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/neon/120609tmskjk2m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/neon/120609tmskjk2m3.jpg
     caption: Terumbu Semakau, Jun 12 Photo shared by James Koh on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/neon/120505sisjk2m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/neon/120505sisjk2m3.jpg
     caption: Sisters Island, May 12 Photos shared by James Koh on his blog .
 location:
 - sis
@@ -56,6 +47,9 @@ location:
 - smk
 - tsm
 - rfl
+size:
+- 5.0
+- 10.0
 ---
 
 ## Where seen?

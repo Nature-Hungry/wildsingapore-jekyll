@@ -1,10 +1,8 @@
 ---
 title: 'Xanthid crabs '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: round, xanthid, crab, xanthidae, decapod, crustacea, field, guide, 
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: round, xanthid, crab, xanthidae, decapod, crustacea, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Xanthidae
 genus: ''
@@ -26,118 +24,85 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Xanthoidea
 updated: Dec 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/070615sntrg0276m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/070615sntrg0276m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... These colourful crabs are
-      poisonous to eat! Their toxins are NOT destroyed by cooking. They are 
-      generally secretive and slow-moving. They are not venomous but it's best 
-      not to touch them.
+    caption: if you learn only 3 things about them ... These colourful crabs are poisonous
+      to eat! Their toxins are NOT destroyed by cooking. They are generally secretive
+      and slow-moving. They are not venomous but it's best not to touch them.
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: These colourful crabs are poisonous to eat! Their toxins are NOT 
-      destroyed by cooking. They are generally secretive and slow-moving. They 
-      are not venomous but it's best not to touch them.
+    caption: These colourful crabs are poisonous to eat! Their toxins are NOT destroyed
+      by cooking. They are generally secretive and slow-moving. They are not venomous
+      but it's best not to touch them.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/070615sntrg0276m3.jpg
-    caption: The Mosaic reef crab is the most poisonous crab on our shores. 
-      Sentosa, Jun 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/040919sntd7092m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/070615sntrg0276m3.jpg
+    caption: The Mosaic reef crab is the most poisonous crab on our shores. Sentosa,
+      Jun 07
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/040919sntd7092m3.jpg
     caption: Floral egg crab eating a fish. Sentosa, Sep 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/integerrimus/090606tmftd3138m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/integerrimus/090606tmftd3138m3.jpg
     caption: A Red egg crab eating a sea urchin. Tanah Merah, Jun 09
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/integerrimus/060811rlhd5792m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/integerrimus/060811rlhd5792m3.jpg
     caption: Red egg crab
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/091106smkd3813m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/091106smkd3813m3.jpg
     caption: Mosaic reef crab
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/050917smkg2456m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/050917smkg2456m3.jpg
     caption: Saw-edged spooner crab
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/040521sntad0102m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/040521sntad0102m3.jpg
     caption: Floral egg crab
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/110731tryd8022m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/110731tryd8022m3.jpg
     caption: Curry puff crab
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/031125hntbd0024m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/031125hntbd0024m3.jpg
     caption: Smooth spooner crab
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/leptodius/100528tkkjk2m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/leptodius/100528tkkjk2m3.jpg
     caption: Rock crab
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxanthus/060527sjid2222m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxanthus/060527sjid2222m3.jpg
     caption: Lumpy rock crab
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pilodius/111001sjid1824m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pilodius/111001sjid1824m3.jpg
     caption: Pilodius rock crab
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/venosa/050723labg0037m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/venosa/050723labg0037m3.jpg
     caption: Ruby reef crab
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/cymo/081231sisd4418m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/cymo/081231sisd4418m3a.jpg
     caption: Hairy coral crab
-links_references: |
-  **Links**
-  - [Poisonous Xanthid Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/252)
-  ,
-  *[Liomera](http://mangrove.nus.edu.sg/pub/seashore/text/206)*
-  ,
-  *[Pilodius](http://mangrove.nus.edu.sg/pub/seashore/text/207)*
-  ,
-  [Common Rock Crab (
-  *Leptodius*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/208)
-  ,
-  *[Actaeodes mutatus](http://mangrove.nus.edu.sg/pub/seashore/text/210)*
-  ,
-  [Red Egg Crab (
-  *Atergatis integerrimus*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/209)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988.
-  *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
-  . The Singapore Science Centre, Singapore. 160 pp.
-  - [Tetrodotoxin ...an ancient alkaloid from the sea](http://www.chm.bris.ac.uk/motm/ttx/ttxv)
-  by Jim Johnson on Molecule of the Month of the School of Chemistry, University of Bristol website: lots of details about the toxin's effects, creatures that carry it and how it came about, with LOTS of links to more about tetrodotoxin.
-
-  **References**
-  - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
-  *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs of the world*
-  [.](http://lkcnhm.nus.edu.sg/rbz/biblio/s17/s17rbz.pdf)
-  The Raffles Bulletin of Zoology. Supplement No. 17, 31 Jan 2008. 286 pp.
-  - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
-  *Rhythm of the Sea: The Life and Times of Labrador Beach.*
-  Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
-  - Gopalakrishnakone P., 1990.
-  *A Colour Guide to Dangerous Animals*
-  . Venom & Toxin Research Group, Faculty of Medicine, National University of Singapore. 156 pp.
-  - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
-  *The Singapore Red Data Book: Threatened plants and animals of Singapore*
-  . Nature Society (Singapore). 285 pp.
-  - Wee Y.C. and Peter K. L. Ng. 1994.
-  *A First Look at Biodiversity in Singapore*
-  . National Council on the Environment. 163pp.
-  - Jones Diana S. and Gary J. Morgan, 2002.
-  *A Field Guide to Crustaceans of Australian Waters*
-  . Reed New Holland. 224 pp.
-  - Debelius, Helmut, 2001.
-  *Crustacea Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean*
-  IKAN-Unterwasserachiv, Frankfurt. 321 pp.
-  - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.
-  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawai’'i exclusive of the vertebrates*
-  Sea Challengers. 314pp.
+links_references: "**Links**\n- [Poisonous Xanthid Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/252)\n\
+  ,\n*[Liomera](http://mangrove.nus.edu.sg/pub/seashore/text/206)*\n,\n*[Pilodius](http://mangrove.nus.edu.sg/pub/seashore/text/207)*\n\
+  ,\n[Common Rock Crab (\n*Leptodius*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/208)\n\
+  ,\n*[Actaeodes mutatus](http://mangrove.nus.edu.sg/pub/seashore/text/210)*\n,\n\
+  [Red Egg Crab (\n*Atergatis integerrimus*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/209)\n\
+  Tan, Leo W. H. & Ng, Peter K. L., 1988.\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n\
+  . The Singapore Science Centre, Singapore. 160 pp.\n- [Tetrodotoxin ...an ancient\
+  \ alkaloid from the sea](http://www.chm.bris.ac.uk/motm/ttx/ttxv)\nby Jim Johnson\
+  \ on Molecule of the Month of the School of Chemistry, University of Bristol website:\
+  \ lots of details about the toxin's effects, creatures that carry it and how it\
+  \ came about, with LOTS of links to more about tetrodotoxin.\n\n**References**\n\
+  - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.\n*Systema Brachyurorum:\
+  \ Part 1. An annotated checklist of extant Brachyuran crabs of the world*\n[.](http://lkcnhm.nus.edu.sg/rbz/biblio/s17/s17rbz.pdf)\n\
+  The Raffles Bulletin of Zoology. Supplement No. 17, 31 Jan 2008. 286 pp.\n- Lim,\
+  \ S., P. Ng, L. Tan, & W. Y. Chin, 1994.\n*Rhythm of the Sea: The Life and Times\
+  \ of Labrador Beach.*\nDivision of Biology, School of Science, Nanyang Technological\
+  \ University & Department of Zoology, the National University of Singapore. 160\
+  \ pp.\n- Gopalakrishnakone P., 1990.\n*A Colour Guide to Dangerous Animals*\n. Venom\
+  \ & Toxin Research Group, Faculty of Medicine, National University of Singapore.\
+  \ 156 pp.\n- Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.\n*The Singapore\
+  \ Red Data Book: Threatened plants and animals of Singapore*\n. Nature Society (Singapore).\
+  \ 285 pp.\n- Wee Y.C. and Peter K. L. Ng. 1994.\n*A First Look at Biodiversity in\
+  \ Singapore*\n. National Council on the Environment. 163pp.\n- Jones Diana S. and\
+  \ Gary J. Morgan, 2002.\n*A Field Guide to Crustaceans of Australian Waters*\n.\
+  \ Reed New Holland. 224 pp.\n- Debelius, Helmut, 2001.\n*Crustacea Guide of the\
+  \ World: Atlantic Ocean, Indian Ocean, Pacific Ocean*\nIKAN-Unterwasserachiv, Frankfurt.\
+  \ 321 pp.\n- Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.\n\
+  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawai\u2019\
+  'i exclusive of the vertebrates*\nSea Challengers. 314pp.\n"
 location:
 - lab
+size:
+- 5.0
+- 10.0
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?

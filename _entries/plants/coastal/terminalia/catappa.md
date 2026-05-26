@@ -23,56 +23,97 @@ updated: Oct 2016
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/terminalia/catappa/011019cjcpd21m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/terminalia/catappa/090329cjd8715m3a.jpg"
-      caption: "Fallen flowers on the ground. Chek Jawa, Mar 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/terminalia/catappa/120407lazd8079m3b.jpg"
-      caption: "Lazarus, Apr 12"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/terminalia/catappa/120407lazd8079m3a.jpg"
-      caption: "Lazarus, Apr 12"
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/terminalia/catappa/090329cjd8715m3a.jpg
+    caption: Fallen flowers on the ground. Chek Jawa, Mar 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/terminalia/catappa/120407lazd8079m3b.jpg
+    caption: Lazarus, Apr 12
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/terminalia/catappa/120407lazd8079m3a.jpg
+    caption: Lazarus, Apr 12
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/terminalia/catappa/090125kntd6090m3a.jpg"
-      caption: The embryo is edible but not worth the effort to extract.
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/terminalia/catappa/090125kntd6090m3.jpg"
-      caption: "Sungei Buloh Wetland Reserve, Jan 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/terminalia/catappa/040831sjid6040m3.jpg"
-      caption: "St. John's Island, Aug 04"
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/terminalia/catappa/090125kntd6090m3a.jpg
+    caption: The embryo is edible but not worth the effort to extract.
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/terminalia/catappa/090125kntd6090m3.jpg
+    caption: Sungei Buloh Wetland Reserve, Jan 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/terminalia/catappa/040831sjid6040m3.jpg
+    caption: St. John's Island, Aug 04
+links_references: '**Links**
+
   - *[Terminalia catappa](http://floraofsingapore.wordpress.com/2010/10/17/terminalia-catappa/)*
+
   on Total Vascular Flora of Singapore Online: photos and fact sheet.
+
   - *[Terminalia catappa](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3181)*
+
   on the NParks Flora and Fauna website: photos and fact sheet.
+
   - *[Terminalia catappa](https://singapore.biodiversity.online/taxo4254/mainSpace/Terminalia%20catappa.html)*
+
   (Myrtales: Combretaceae) Sea Almond by Chua Ziying Emily, 2014, on taxo4254.
+
   - [Know 10 trees in Singapore](http://www.nparks.gov.sg/cms/index.php?option=com_content&view=article&id=183&Itemid=161)
+
   on the NParks website: fact sheet with lots of photos of various parts of the tree.
+
   - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+
   [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
-  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
+
+  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization
+  of the United Nations Regional Office for Asia and the Pacific Bangkok.
+
   - [Autumn colours on our shores](http://wildshores.blogspot.com/2009/03/autumn-colours-on-our-shores.html)
+
   on the wild shores of singapore blob.
+
   - [Larval host plant for butterflies: Sea Almond](http://butterflycircle.blogspot.com/2017/05/larval-host-plant-for-butterflies-sea.html)
+
   on the Butterflies of Singapore blog.
-  
+
+
   **References**
+
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
+
   *The Concise Flora of Singapore: Gymnosperms and Dicotyledons*
+
   . Singapore University Press. 222 pp.
+
   - Tee Swee Ping and Wee Mei Lynn (eds). 2001.
+
   *Trees of our Garden City*
+
   . National Parks Board. 202 pp.
+
   - Corners, E. J. H., 1997.
+
   *Wayside Trees of Malaya: in two volumes*
-  . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
+
+  . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates
+  1-38; volume 2: 477-861 pp., plates 139-236.
+
   - Tomlinson, P. B., 1986.
+
   *The Botany of Mangroves*
+
   Cambridge University Press. USA. 419 pp.
+
   - Burkill, I. H., 1993.
+
   *A Dictionary of the Economic Products of the Malay Peninsula*
-  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
+
+  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
+  Volume 1: 1-1240; volume 2: 1241-2444.
+
   - Wee Yeow Chin. 1992.
+
   *A Guide to Medicinal Plants*
+
   . The Singapore Science Centre. 160pp.
+
+  '
+size:
+- 2000.0
+- 3500.0
 ---
 
 ## Where seen?

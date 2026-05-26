@@ -1,10 +1,9 @@
 ---
 title: Variegated sundial snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: sundial, heliacus, variegatus, architectonicidae, gastropod, mollusc, 
-  snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal,
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: sundial, heliacus, variegatus, architectonicidae, gastropod, mollusc, snail,
+  shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Architectonicidae
 genus: Heliacus
@@ -18,45 +17,50 @@ class: Gastropoda
 subclass: Heterobranchia
 superfamily: Architectonicoidea
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/variegatus/130211sjid4149.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/variegatus/130211sjid4149.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/variegatus/130211sjid4149.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/variegatus/130211sjid4149.jpg
     caption: St John's Island, Feb 13
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/variegatus/130211sjid4147.jpg
-    caption: Operculum is conical and resembles a drill. St John's Island, Feb 
-      13
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/variegatus/130211sjid4300.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/variegatus/130211sjid4147.jpg
+    caption: Operculum is conical and resembles a drill. St John's Island, Feb 13
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/variegatus/130211sjid4300.jpg
     caption: St John's Island, Feb 13
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/variegatus/080606cyrcck1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/variegatus/080606cyrcck1m3.jpg
     caption: Cyrene Reef, Jun 08 Photo shared by Chim Chee Kong on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/variegatus/080606cyrcck2m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/variegatus/080606cyrcck2m3.jpg
     caption: Cyrene Reef, Jun 08 Photo shared by Chim Chee Kong on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/variegatus/080606cyrcck2m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/variegatus/080606cyrcck2m3b.jpg
     caption: ''
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Heliacus variegatus*](http://www.sealifebase.fisheries.ubc.ca/summary/Heliacus-variegatus.html)
+
   on SeaLife Base: technical fact sheet.
 
+
   **References**
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.
-  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
+
+  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive
+  of the vertebrates*
+
   Sea Challengers. 314pp.
+
+  '
 location:
 - sji
 - cyr
+size:
+- 2.0
 ---
 
 ## Where seen?

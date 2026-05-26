@@ -28,53 +28,92 @@ updated: Jan 2013
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090112smkd5008m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/110109ubnd4812m3a.jpg"
-      caption: "Seeds fit like a puzzle within the fruit. Pulau Ubin, Jan 11"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090208smkd6461m3.jpg"
-      caption: "Large globular fruit. Pulau Semakau, Feb 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090124ubnd6015m3.jpg"
-      caption: "Well-developed ribbon-like buttresses. Pulau Ubin, Jan 09"
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/110109ubnd4812m3a.jpg
+    caption: Seeds fit like a puzzle within the fruit. Pulau Ubin, Jan 11
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090208smkd6461m3.jpg
+    caption: Large globular fruit. Pulau Semakau, Feb 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090124ubnd6015m3.jpg
+    caption: Well-developed ribbon-like buttresses. Pulau Ubin, Jan 09
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090411lckd9438m3b.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090411lckd9438m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090411lckd9438m3.jpg"
-      caption: "Lim Chu Kang, Apr 09"
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090411lckd9438m3b.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090411lckd9438m3a.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090411lckd9438m3.jpg
+    caption: Lim Chu Kang, Apr 09
+links_references: '**Links**
+
   - [*Xylocarpus granatum*](http://floraofsingapore.wordpress.com/2010/12/26/xylocarpus-granatum/)
+
   on Total Vascular Flora of Singapore Online: photos and fact sheet.
+
   - *[Xylocarpus granatum](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=4836)*
+
   on the NParks Flora and Fauna website: photos and fact sheet.
+
   - [Nyireh bunga (
+
   *Xylocarpus granatum*
+
   )](http://mangrove.nus.edu.sg/guidebooks/text/1077)
+
   Ng, Peter K. L. & N. Sivasothi, 1999.
+
   *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)
+
   I (Plant Diversity)*
+
   . Singapore Science Centre. 168 pp.
+
   - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+
   [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
-  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
+
+  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization
+  of the United Nations Regional Office for Asia and the Pacific Bangkok.
+
   - [Blooming Ubin](http://wildshores.blogspot.com/2009/04/blooming-ubin.html)
+
   about a mass bloom of
+
   *X. granatum*
+
   on the wild shores of singapore blog.
-  
+
+
   **References**
+
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
+
   *The Concise Flora of Singapore: Gymnosperms and Dicotyledons*
+
   . Singapore University Press. 222 pp.
+
   - Corners, E. J. H., 1997.
+
   *Wayside Trees of Malaya: in two volumes*
-  . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
+
+  . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates
+  1-38; volume 2: 477-861 pp., plates 139-236.
+
   - Tomlinson, P. B., 1986.
+
   *The Botany of Mangroves*
+
   Cambridge University Press. USA. 419 pp.
+
   - Burkill, I. H., 1993.
+
   *A Dictionary of the Economic Products of the Malay Peninsula*
-  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
+
+  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
+  Volume 1: 1-1240; volume 2: 1241-2444.
+
+  '
+size:
+- 300.0
+- 800.0
+- 2000.0
 ---
 
 ## Where seen?

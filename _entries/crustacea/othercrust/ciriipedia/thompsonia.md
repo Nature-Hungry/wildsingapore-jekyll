@@ -1,10 +1,9 @@
 ---
 title: Parasitic barnacle
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: parasite, barnacle, thompsonia, thompsoniidae, cirripedia, crustacea, 
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: parasite, barnacle, thompsonia, thompsoniidae, cirripedia, crustacea, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 family: Thompsoniidae
 genus: Thompsonia
@@ -24,32 +23,45 @@ superfamily: Cerambycoidea
 subfamily: Cerambycinae
 tribe: Callichromatini
 updated: Mar 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/parasitic/081018cjd1123m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/parasitic/081018cjd1123m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/parasitic/081018cjd1123m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/parasitic/081018cjd1123m3.jpg
     caption: Chek Jawa, Oct 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/parasitic/050428cftg5303m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/parasitic/050428cftg5303m3.jpg
     caption: Changi, Apr 05 Tiny egg sacs emerging through the joints.
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Parasitic barnacles (
+
   *Thompsonia, Sacculina*
+
   )](http://mangrove.nus.edu.sg/pub/seashore/text/270)
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
+
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+
   . The Singapore Science Centre, Singapore. 160 pp.
+
   - [Crab Parasitism](http://www.mesa.edu.au/friends/seashores/crab_parasitism.html)
-  on the Life on Australian Seashores website by Keith Davey: explanation with diagrams of parasitism of a crab by the Sacculina barnacle.
+
+  on the Life on Australian Seashores website by Keith Davey: explanation with diagrams
+  of parasitism of a crab by the Sacculina barnacle.
+
   ****
 
+
   **References**
+
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
+
   *Rhythm of the Sea: The Life and Times of Labrador Beach.*
-  Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+
+  Division of Biology, School of Science, Nanyang Technological University & Department
+  of Zoology, the National University of Singapore. 160 pp.
+
+  '
 location:
 - chg
 - cj

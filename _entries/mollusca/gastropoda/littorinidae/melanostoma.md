@@ -1,10 +1,9 @@
 ---
 title: Black-mouth mangrove periwinkle snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: mangrove, periwinkle, littoraria, melanostoma,  littorinidae, 
-  gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, 
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: mangrove, periwinkle, littoraria, melanostoma,  littorinidae, gastropod,
+  mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Littorinidae
 genus: Littoraria
@@ -20,46 +19,58 @@ order: Littorinimorpha
 superfamily: Littorinoidea
 subfamily: Littorininae
 updated: Aug 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/melanostoma/090114labd5301m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/melanostoma/090114labd5301m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/melanostoma/090114labd5301m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/melanostoma/090114labd5301m3.jpg
     caption: Berlayar Creek, Jan 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/melanostoma/090114labd5302m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/melanostoma/090114labd5302m3.jpg
     caption: Black edge on the shell opening. Berlayar Creek, Jan 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/melanostoma/031128sbwrad0068m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/melanostoma/031128sbwrad0068m3.jpg
     caption: Sungei Buloh Wetland Reserve, Mar 05
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/melanostoma/251229prprqo2a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/melanostoma/251229prprqo2a.jpg
     caption: Pasir Ris Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/melanostoma/251229prprqo2b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/melanostoma/251229prprqo2b.jpg
     caption: ''
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Mangrove periwinkle (
+
   *Littoraria*
+
   sp.)](http://mangrove.nus.edu.sg/guidebooks/text/2080)
+
   Ng, Peter K. L. & N. Sivasothi, 1999.
+
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
+
   . Singapore Science Centre. 168 pp.
+
   - [Periwinkle Shells (Family Littorinidae)](http://mangrove.nus.edu.sg/pub/seashore/text/137)
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
+
   *A Guide to Seashore Life*
+
   . The Singapore Science Centre, Singapore. 160 pp.
 
+
   **References**
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Tan, K. S. & L. M. Chou, 2000.
+
   *A Guide to the Common Seashells of Singapore*
+
   . Singapore Science Centre. 160 pp.
+
+  '
 location:
 - sbw
 - lck
@@ -68,6 +79,9 @@ location:
 - lab
 - laz
 - smk
+size:
+- 2.0
+- 3.0
 ---
 
 ## Where seen?

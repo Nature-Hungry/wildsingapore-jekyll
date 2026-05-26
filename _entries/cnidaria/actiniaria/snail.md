@@ -1,10 +1,9 @@
 ---
 title: Snail-hitching  anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: snail, mollusca, gastropod, anemone, paraiptasia, radiata, 
-  aiptasiidae, actiniaria, anthozoa, cnidaria, field, guide, seashore, sea, 
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: snail, mollusca, gastropod, anemone, paraiptasia, radiata, aiptasiidae,
+  actiniaria, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 6
@@ -22,57 +21,60 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Metridioidea
 updated: Dec 2024
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/080507skdd2382m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/080507skdd2382m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/080507skdd2382m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/080507skdd2382m3.jpg
     caption: Pulau Sekudu, May 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/110703cjd5386m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/110703cjd5386m3.jpg
     caption: Chek Jawa, Jul 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/110703cjd5384m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/110703cjd5384m3.jpg
     caption: Anemones stick out when snail is buried. Chek Jawa, Jul 11
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/080718wdld7630m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/080718wdld7630m3.jpg
     caption: Woodlands, Jul 08 Woodlands, Jul 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/090705krjd6458m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/090705krjd6458m3.jpg
     caption: Kranji, Jul 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/090705krjd6492m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/090705krjd6492m6l.jpg
     caption: Not attached to snails. Kranji, Jul 09
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/mollusca/gastropoda/nassariidae/olivaceaus/180911pgldc5.jpg
+  - url: http://www.wildsingapore.com/mollusca/gastropoda/nassariidae/olivaceaus/180911pgldc5.jpg
     caption: Punggol, Sep 18 Photo shared by Dayna Cheah on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/251208chgrk6.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/251208chgrk6.jpg
     caption: Changi, Dec 25 Photo shared by Richard Kuah on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/260216cnyrqo1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/260216cnyrqo1.jpg
     caption: Coney Island, Oct 26 Photo shared by Rui Quan Oh on facebook .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/090822sislks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/090822sislks.JPG
     caption: Sisters Island, Aug 09 Photo shared by Loh Kok Sheng on flickr
   gallery6:
   - url: https://live.staticflickr.com/2921/32974945200_26a7c5d455_z.jpg
     caption: Kranji, Mar 17
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Paraiptasia radiata*](https://www.sealifebase.se/summary/Paraiptasia-radiata.html)
+
   on SeaLife Base: technical fact sheet.
 
+
   **References**
-  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
+
+  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
+  Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H.
+  Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The
+  Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition.
+  National Parks Board. 663 pp.
+
   - Daphne Fautin and Roger H. Goodwill. January 2009.
-  *Neoaiptasia morbilla new species (Cnidaria: Actiniaria), a sea anemone symbiont of sand-dwelling gastropods on Saipan, Mariana Islands, with comments on some other such associations*
+
+  *Neoaiptasia morbilla new species (Cnidaria: Actiniaria), a sea anemone symbiont
+  of sand-dwelling gastropods on Saipan, Mariana Islands, with comments on some other
+  such associations*
+
   . Micronesica.
+
+  '
 location:
 - sbw
 - pgl
@@ -86,6 +88,9 @@ location:
 - sis
 - hnt
 - lfa
+size:
+- 1.0
+- 1.5
 ---
 
 ## Where seen?

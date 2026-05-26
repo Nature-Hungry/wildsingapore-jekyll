@@ -1,10 +1,9 @@
 ---
 title: Synaptid sea cucumbers
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: synaptid, seacucumber, cucumber, synaptidae, apodida, holothuroidea, 
-  echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: synaptid, seacucumber, cucumber, synaptidae, apodida, holothuroidea, echinoderm,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 attributes: []
 family: Synaptidae
@@ -19,76 +18,56 @@ class: Holothuroidea
 subclass: Paractinopoda
 order: Apodida
 updated: Apr 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/030717skdd0090m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/030717skdd0090m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/030717skdd0090m3.jpg
-    caption: Synaptids on a sponge usual many seen together. Pulau Sekudu, Jul 
-      03
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/080422smkd1534m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/030717skdd0090m3.jpg
+    caption: Synaptids on a sponge usual many seen together. Pulau Sekudu, Jul 03
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/080422smkd1534m3.jpg
     caption: Big synaptid is usually seen alone. Pulau Semakau, Apr 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/130331tbd5041m3.jpg
-    caption: Big synaptid when 'bobbles' are not expanded. Terumbu Bemban, Mar 
-      13
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/130331tbd5041m3.jpg
+    caption: Big synaptid when 'bobbles' are not expanded. Terumbu Bemban, Mar 13
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/120819cyrd0606m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/120819cyrd0606m3.jpg
     caption: Feeding tentacles. Cyrene Reef, Aug 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/120819cyrd0606m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/120819cyrd0606m3a.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/120819cyrd0607m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/120819cyrd0607m3.jpg
     caption: Body covered with tiny hooked sclerites.
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/050722cjg9849m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/050722cjg9849m3.jpg
     caption: Sponge synaptid sea cucumber
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/050822cjg2143m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/050822cjg2143m3.jpg
     caption: Usually many seen on a sponge.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/050722cjg9849m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/050722cjg9849m3b.jpg
     caption: Feeding tentacles
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/071026cyrd7139m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/071026cyrd7139m3.jpg
     caption: Big synaptid sea cucumber
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/071026cyrd7141m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/071026cyrd7141m3b.jpg
     caption: Usually seen alone. With distinct stripes between 'bobbles'.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/071026cyrd7141m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/071026cyrd7141m3a.jpg
     caption: Feeding tentacles
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synmangrove/200125prpAm6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synmangrove/200125prpAm6l.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synmangrove/200125prpAm3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synmangrove/200125prpAm3.jpg
     caption: ''
-links_references: |
-  **Links**
-  - [Family Synaptidae](http://species-identification.org/species.php?species_group=nasc&id=6&menuentry=groepen)
-  in North Australian Sea Cucumbers on Marine Species Identification Portal: Technical fact sheet.
-
-  **References**
-  - J. Y. Ong, I. Wirawati & H. P. S. Wong. 29 June 2016.
-  *Sea cucumbers (Echinodermata: Holothuroidea) collected from the Singapore Strait*
-  . The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part I of II) Pp. 666-717.
-  - P. M. O’Loughlin and Ong J. Y.
-  *New tropical caudinid and synaptid sea cucumbers from the Johor Straits (Echinodermata: Holothuroidea)*
-  . 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31,Pp. 292-302.
-  - Ong J. Y. and H. P. S. Wong.
-  *Sea cucumbers (Echinodermata: Holothuroidea) from the Johor Straits, Singapore*
-  . 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 273-291.
-  - Lane, David J.W. and Didier Vandenspiegel. 2003
-  *. A Guide to Sea Stars and Other Echinoderms of Singapore*
-  . Singapore Science Centre. 187pp.
+links_references: "**Links**\n- [Family Synaptidae](http://species-identification.org/species.php?species_group=nasc&id=6&menuentry=groepen)\n\
+  in North Australian Sea Cucumbers on Marine Species Identification Portal: Technical\
+  \ fact sheet.\n\n**References**\n- J. Y. Ong, I. Wirawati & H. P. S. Wong. 29 June\
+  \ 2016.\n*Sea cucumbers (Echinodermata: Holothuroidea) collected from the Singapore\
+  \ Strait*\n. The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part I of II)\
+  \ Pp. 666-717.\n- P. M. O\u2019Loughlin and Ong J. Y.\n*New tropical caudinid and\
+  \ synaptid sea cucumbers from the Johor Straits (Echinodermata: Holothuroidea)*\n\
+  . 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International\
+  \ Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31,Pp. 292-302.\n\
+  - Ong J. Y. and H. P. S. Wong.\n*Sea cucumbers (Echinodermata: Holothuroidea) from\
+  \ the Johor Straits, Singapore*\n. 10 July 2015. The Comprehensive Marine Biodiversity\
+  \ Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology\
+  \ 2015 Supplement No. 31, Pp. 273-291.\n- Lane, David J.W. and Didier Vandenspiegel.\
+  \ 2003\n*. A Guide to Sea Stars and Other Echinoderms of Singapore*\n. Singapore\
+  \ Science Centre. 187pp.\n"
 location:
 - pgl
 - chg

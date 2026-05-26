@@ -23,66 +23,111 @@ updated: Apr 2018
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/090905sbwrd0298m3c.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/090905sbwrd0298m3c.jpg"
-      caption: Nostrils at the tip of a slender snout.
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/090905sbwrd0298m3a.jpg"
-      caption: "Small non-overlapping scales. Bands of yellow spots on juveniles that fade in adults. Sungei Buloh Wetland Reserve, Sep 09"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/120215prpd6908m3.jpg"
-      caption: "Long blue forked tongue! Pasir Ris Park, Feb 12"
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/090905sbwrd0298m3c.jpg
+    caption: Nostrils at the tip of a slender snout.
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/090905sbwrd0298m3a.jpg
+    caption: Small non-overlapping scales. Bands of yellow spots on juveniles that
+      fade in adults. Sungei Buloh Wetland Reserve, Sep 09
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/120215prpd6908m3.jpg
+    caption: Long blue forked tongue! Pasir Ris Park, Feb 12
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/120503admd0764m6l.jpg"
-      caption: "To swim, it holds its limbs against its body and propels itself with its tail. Admiralty Park, May 12"
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/120503admd0764m6l.jpg
+    caption: To swim, it holds its limbs against its body and propels itself with
+      its tail. Admiralty Park, May 12
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/120330prpd7937m6l.jpg"
-      caption: "Rival males wrestling. Pasir Ris Park, Mar 13"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/120330prpd7933m3.jpg"
-      caption: The aim is to topple your rival onto the ground.
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/120330prpd7937m6l.jpg
+    caption: Rival males wrestling. Pasir Ris Park, Mar 13
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/120330prpd7933m3.jpg
+    caption: The aim is to topple your rival onto the ground.
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/120215prpd6936m3.jpg"
-      caption: "Pasir Ris Park, Feb 12"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/120215prpd6941m3.jpg"
-      caption: Digging deep in a muddy hole.
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/120215prpd6947m3.jpg"
-      caption: The lizard can hold its breath for a long time!
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/120215prpd6936m3.jpg
+    caption: Pasir Ris Park, Feb 12
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/120215prpd6941m3.jpg
+    caption: Digging deep in a muddy hole.
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/120215prpd6947m3.jpg
+    caption: The lizard can hold its breath for a long time!
+links_references: '**Links**
+
   - [Malayan Water Monitor](http://www.ecologyasia.com/verts/lizards/malayan_water_monitor)
-  on Nick Baker's EcologyAsia website: fact sheet with photos.
+
+  on Nick Baker''s EcologyAsia website: fact sheet with photos.
+
   - [Malayan Water Monitor](http://www.wildsingapore.per.sg/discovery/factsheet/malymonitor)
-  on Chan Kwok Wai's Wildlife Singapore: fact sheet with photos.
+
+  on Chan Kwok Wai''s Wildlife Singapore: fact sheet with photos.
+
   - [Busting Myths about Monitors](http://iyb2010singapore.blogspot.sg/2010/12/busting-myths-about-monitors.html)
-  by Ivan Kwan on the Celebrating Singapore's Biodiversity blog.
+
+  by Ivan Kwan on the Celebrating Singapore''s Biodiversity blog.
+
   - [*Varanus salvator*](https://singapore.biodiversity.online/taxo4254/mainSpace/Varanus_salvator.html)
+
   (Squamata: Varanidae) Water Monitor by Wong Li Jing, 2011 on taxo4254
-  - [Monitor lizard: Do's and don'ts](https://www.nparks.gov.sg/gardens-parks-and-nature/dos-and-donts/animal-advisories/monitor-lizards)
+
+  - [Monitor lizard: Do''s and don''ts](https://www.nparks.gov.sg/gardens-parks-and-nature/dos-and-donts/animal-advisories/monitor-lizards)
+
   on the NParks website
+
   - [*Varanus salvator*](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=842)
+
   on the NParks Flora and Faunat website.
+
   - from the wild shores of singapore blog
+
   - [How many monitor lizards are at Sungei Buloh Wetland Reserve?](http://wildshores.blogspot.com/2011/01/how-many-monitor-lizards-are-at-sungei.html)
+
   - [When lizards hug what does it mean?](http://wildshores.blogspot.sg/2012/03/when-lizard-hugs-you-what-does-it-mean.html)
+
   - [Why Pasir Ris mangroves are special](http://wildshores.blogspot.sg/2012/02/why-pasir-ris-mangroves-are-special.html)
-  
+
+
   **References**
+
   - Craig Justin Tan. 29 May 2020.
+
   *Malayan water monitor preying on dog-faced water snake.*
+
   Singapore Biodiversity Records 2020: 58 ISSN 2345-7597
+
   - Marcus Ng and Robert W. Mendyk. 2012.
+
   [Predation of an Adult Malaysian Water monitor (
+
   *Varanus salvator macromaculatus*
+
   ) by an Estuarine Crocodile (
+
   *Crocodylus porosus*
+
   )](https://www.researchgate.net/profile/Robert_Mendyk/publication/307973031_Predation_of_an_Adult_Malaysian_Water_monitor_Varanus_salvator_macromaculatus_by_an_Estuarine_Crocodile_Crocodylus_porosus/links/57d4d86508ae5f03b4916283.pdf?origin=publication_list)
+
   . Biawak, 6(1), pp. 34-38, by International Varanid Interest Group.
+
   - im, Kelvin K. P. & Francis L K Lim, 1992.
+
   *A Guide to the Amphibians and Reptiles of Singapore*
+
   Singapore Science Centre. 160 pp.
+
   - Baker, Nick and Kelvin Lim. 2008.
-  *Wild Animals of Singapore: A Photographic Guide to Mammals, Reptiles, Amphibians and Freshwater Fishes*
+
+  *Wild Animals of Singapore: A Photographic Guide to Mammals, Reptiles, Amphibians
+  and Freshwater Fishes*
+
   Vertebrate Study Group, Nature Society (Singapore). 180 pp.
-  - Cox, Merel J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt. 1998.
-  *A Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular Malaysia and Singapore*
+
+  - Cox, Merel J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt.
+  1998.
+
+  *A Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular Malaysia
+  and Singapore*
+
   New Holland.
+
+  '
+size:
+- 250.0
+- 300.0
 ---
 
 ## Where seen?

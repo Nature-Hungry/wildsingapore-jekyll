@@ -26,17 +26,20 @@ updated: Sep 09
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/racemosa/070714cjd4118m6.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/racemosa/020327ubncp7757m3.jpg"
-      caption: "Chek Jawa, Mar 02 Chek Jawa, Oct 01"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/racemosa/090531cjd3101m3.jpg"
-      caption: "Chek Jawa, May 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/racemosa/090531cjd3094m6l.jpg"
-      caption: "Chek Jawa, May 09"
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/racemosa/020327ubncp7757m3.jpg
+    caption: Chek Jawa, Mar 02 Chek Jawa, Oct 01
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/racemosa/090531cjd3101m3.jpg
+    caption: Chek Jawa, May 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/racemosa/090531cjd3094m6l.jpg
+    caption: Chek Jawa, May 09
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/racemosa/091226cjd6227m6l.jpg"
-      caption: "Chek Jawa, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/racemosa/091226cjd6224m3.jpg"
-      caption: "Chek Jawa, Dec 09"
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/racemosa/091226cjd6227m6l.jpg
+    caption: Chek Jawa, Dec 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/racemosa/091226cjd6224m3.jpg
+    caption: Chek Jawa, Dec 09
+size:
+- 200.0
+- 300.0
 ---
 
 ## Where seen?

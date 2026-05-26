@@ -1,10 +1,9 @@
 ---
 title: Conical slipper snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: conical, slipper, desmaulus, calyptraea, extinctorium, crepidulidae, 
-  calyptraeidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, 
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: conical, slipper, desmaulus, calyptraea, extinctorium, crepidulidae, calyptraeidae,
+  gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Calyptraeidae
 genus: Desmaulus
@@ -19,35 +18,31 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Calyptraeoidea
 updated: Jul 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/calyptraea/050429chgg5381m6l.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/calyptraea/050429chgg5381m6l.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/calyptraea/050429chgg5381m6l.jpg
-    caption: Conical slipper snails on the outside of the shell. Flat slipper 
-      snails on the inside. Changi, Apr 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/calyptraea/100712chgd8426.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/calyptraea/050429chgg5381m6l.jpg
+    caption: Conical slipper snails on the outside of the shell. Flat slipper snails
+      on the inside. Changi, Apr 05
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/calyptraea/100712chgd8426.jpg
     caption: Conical slipper snail on the outside. Changi, Jul 10
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/calyptraea/100926cjd1681m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/calyptraea/100926cjd1681m3.jpg
     caption: Chek Jawa, Sep 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/calyptraea/100926cjd1682m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/calyptraea/100926cjd1682m3.jpg
     caption: On a shell occupied by a hermit crab
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/calyptraea/180811chg.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/calyptraea/180811chg.jpg
     caption: On a living scallop . Changi, Aug 18
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/calyptraea/121214chgemn.jpg
-    caption: Growing on a living Window pane shell clam . Changi East, Dec 12 
-      Photo shared by Marcus Ng on flickr .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/calyptraea/121214chgemn.jpg
+    caption: Growing on a living Window pane shell clam . Changi East, Dec 12 Photo
+      shared by Marcus Ng on flickr .
 location:
 - chg
 - cj
+size:
+- 1.0
+- 2.0
 ---
 
 ## Where seen?

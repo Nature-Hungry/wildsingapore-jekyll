@@ -1,9 +1,8 @@
 ---
 title: Boxfishes
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: boxfish, box, fish, ostraciidae, field, guide, seashore, sea, shore, 
-  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: boxfish, box, fish, ostraciidae, field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Ostraciidae
 genus: ''
@@ -19,63 +18,93 @@ superorder: Acanthomorpha
 order: Tetraodontiformes
 suborder: Balistoidei
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/080606cyrd5195m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/080606cyrd5195m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Boxfishes are poisonous 
-      to eat! They have a hard shell around their body. They can swim quickly if
-      they have to, even though they have tiny fins!
+    caption: if you learn only 3 things about them ... Boxfishes are poisonous to
+      eat! They have a hard shell around their body. They can swim quickly if they
+      have to, even though they have tiny fins!
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Boxfishes are poisonous to eat! They have a hard shell around their
-      body. They can swim quickly if they have to, even though they have tiny 
-      fins!
+    caption: Boxfishes are poisonous to eat! They have a hard shell around their body.
+      They can swim quickly if they have to, even though they have tiny fins!
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/080606cyrd5195m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/080606cyrd5195m3.jpg
     caption: Longhorned cowfish
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/nasus/090625cyrd5620m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/nasus/090625cyrd5620m3.jpg
     caption: Shortnosed boxfish
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cubicus/070217skdg7635m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cubicus/070217skdg7635m3.jpg
     caption: Yellow boxfish
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Shortnose boxfish (
+
   *Rhynchostracion nasus*
+
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/399)
+
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
+
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
+
   . Singapore Science Centre. 163 pp.
+
   - [Family Ostraciidae (Boxfishes)](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=446)
+
   from
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheet on the family
+
   - [Yellow Boxfish (
+
   *Ostracion cubicus*
+
   )](http://www.amonline.net.au/fishes/fishfacts/fish/ocubicus)
+
   on the Australian Museum Fish website: fact sheet and photos.
 
+
   **References**
+
   - Sam Shu Qin.
+
   *A shortsnout boxfish, Ostracion rhinorhynchos in the Singapore Strait*
-  . 31 July 2018. Singapore Biodiversity Records 2018: 76 ISSN 2345-7597. National University of Singapore.
+
+  . 31 July 2018. Singapore Biodiversity Records 2018: 76 ISSN 2345-7597. National
+  University of Singapore.
+
   - Wee Y.C. and Peter K. L. Ng. 1994.
+
   *A First Look at Biodiversity in Singapore*
+
   . National Council on the Environment. 163pp.
+
   - Allen, Gerry, 2000.
+
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
+
   . Periplus Editions. 292 pp.
+
   - Kuiter, Rudie H. 2002.
+
   *Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers & Fishermen*
+
   New Holland Publishers. 434pp.
+
   - Lieske, Ewald and Robert Myers. 2001.
+
   *Coral Reef Fishes of the World*
+
   Periplus Editions. 400pp.
+
+  '
 location:
 - skd
+size:
+- 40.0
+- 50.0
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

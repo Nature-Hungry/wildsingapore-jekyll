@@ -1,9 +1,8 @@
 ---
 title: 'Shore cricket '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: cricket, insect, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: cricket, insect, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info
 layout: entry
 family: Gryllidae
 genus: ''
@@ -21,27 +20,29 @@ suborder: Ensifera
 infraorder: Gryllidea
 superfamily: Grylloidea
 updated: Nov 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/insecta/cricket/090820ecpd9469m3a.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/insecta/cricket/090820ecpd9469m3a.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/insecta/cricket/090820ecpd9469m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/insecta/cricket/090820ecpd9469m3a.jpg
     caption: East Coast, Aug 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/insecta/cricket/111001sjid1841.jpg
+  - url: http://www.wildsingapore.com/wildfacts/insecta/cricket/111001sjid1841.jpg
     caption: St John's Island, Oct 11
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/arachnida/desis/040829kusd5626m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/arachnida/desis/040829kusd5626m3.jpg
     caption: Caught by a Marine spider . Kusu Island, Apr 08
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Mangrove cricket](http://mangrove.nus.edu.sg/guidebooks/text/2010)
+
   Ng, Peter K. L. & N. Sivasothi, 1999.
+
   *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)
+
   II (Animal Diversity)*
+
   . Singapore Science Centre. 168 pp.
+
+  '
 location:
 - prp
 - chg
@@ -52,6 +53,8 @@ location:
 - sji
 - sis
 - smk
+size:
+- 1.0
 ---
 
 ## Where seen?

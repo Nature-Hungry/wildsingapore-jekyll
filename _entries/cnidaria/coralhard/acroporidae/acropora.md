@@ -1,10 +1,9 @@
 ---
 title: Acropora corals
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: staghorn, table, top, acropora, acroporidae, coral, hard, 
-  scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: staghorn, table, top, acropora, acroporidae, coral, hard, scleractinia,
+  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 9
@@ -29,94 +28,110 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrowide/070618rlhg0608m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrowide/070618rlhg0608m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrowide/070618rlhg0608m3.jpg
-    caption: Some acropora coral form table-like colonies. Raffles Lighthouse, 
-      Jun 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/051204sisg3229m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrowide/070618rlhg0608m3.jpg
+    caption: Some acropora coral form table-like colonies. Raffles Lighthouse, Jun
+      07
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/051204sisg3229m3.jpg
     caption: Corallites with tentacles contracted. Sisters Island, Dec 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrelegant/080422smkd1440m3c.jpg
-    caption: With the tentacles extended, the colony can appear 'furry'. Pulau 
-      Semakau, Apr 08
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrelegant/080422smkd1440m3c.jpg
+    caption: With the tentacles extended, the colony can appear 'furry'. Pulau Semakau,
+      Apr 08
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acropora/050309smkd1518m3c.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acropora/050309smkd1518m3c.jpg
     caption: Producing mucus to protect themselves. Pulau Semakau, Mar 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acropora/190220smkm3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acropora/190220smkm3.jpg
     caption: The coral turns pink when stressed. Pulau Semakau, Feb 19
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/080519sisd3399m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/080519sisd3399m3a.jpg
     caption: Coral scallop Sisters Island, May 08
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/crustacea/othercrust/shrimp/coralliocaris/100529kuslks1m3.jpg
-    caption: Machine gun shrimp Kusu Island, Jun 10 Photo shared by Loh Kok 
-      Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acropora/060305sisd0062m3.jpg
+  - url: http://www.wildsingapore.com/crustacea/othercrust/shrimp/coralliocaris/100529kuslks1m3.jpg
+    caption: Machine gun shrimp Kusu Island, Jun 10 Photo shared by Loh Kok Sheng
+      on his blog .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acropora/060305sisd0062m3.jpg
     caption: Bandit coral crab Sisters Islands, Mar 06
-  - url: 
-      http://www.wildsingapore.com/vertebrates/fish/gobiidae/histrio/051204sisg3318m3a.jpg
+  - url: http://www.wildsingapore.com/vertebrates/fish/gobiidae/histrio/051204sisg3318m3a.jpg
     caption: Acropora goby Sisters Islands, Dec 05
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrelegant/070704jngg1275m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrelegant/070704jngg1275m3.jpg
     caption: Elegant acropora coral
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrtubular/110323tsmkd7657m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrtubular/110323tsmkd7657m3.jpg
     caption: Tubular acropora coral
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstaghorn/070618rlhg0582m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstaghorn/070618rlhg0582m3.jpg
     caption: Staghorn acropora coral
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrpinecone/060713rlhd4272m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrpinecone/060713rlhd4272m3.jpg
     caption: Pinecone acropora coral
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/070406hntg8468m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/070406hntg8468m3.jpg
     caption: Stumpy acropora coral
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/051204sisg3320m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/051204sisg3320m3.jpg
     caption: Stumpy acropora coral
   gallery6:
   - url: https://farm1.staticflickr.com/507/19455986182_c73bb99065_z.jpg
     caption: ''
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
+
   with species factsheets.
 
+
   **References**
-  - *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore*
-  by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
+
+  - *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
+  Status for Singapore*
+
+  by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan,
+  D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book:
+  Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663
+  pp.
+
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
-  *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new records*
+
+  *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new
+  records*
+
   (pdf). Raffles Bulletin of Zoology Supplement No. 22: 69-80.
+
   - Veron, Jen. 2000.
+
   *Corals of the World*
+
   Australian Institute of Marine Science, Australia. 3 volumes.
+
   - Chou, L. M., 1998.
+
   *A Guide to the Coral Reef Life of Singapore*
+
   . Singapore Science Centre. 128 pages.
+
   - Erhardt, Harry and Daniel Knop. 2005.
+
   *Corals: Indo-Pacific Field Guide*
+
   IKAN-Unterwasserachiv, Frankfurt. 305 pp.
+
   - Borneman, Eric H. 2001.
+
   *Aquarium Corals: Selection, Husbandry and Natural History*
+
   T.F. H Publications. 464 pp
+
   - Wee Y.C. and Peter K. L. Ng. 1994.
+
   *A First Look at Biodiversity in Singapore*
+
   . National Council on the Environment. 163pp.
+
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+
   . Nature Society (Singapore). 285 pp.
+
+  '
 location:
 - lab
 - snt
@@ -132,6 +147,10 @@ location:
 - tsm
 - rfl
 - lfa
+size:
+- 15.0
+- 20.0
+- 50.0
 ---
 
 ## Where seen?

@@ -26,45 +26,84 @@ updated: Jan 2013
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/parviflora/110311prpd7074m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/parviflora/100411prpd1035m3a.jpg"
-      caption: "Visited by ants. Pasir Ris, Apr 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/parviflora/110502prpd0442m3a.jpg"
-      caption: "Tassels on petal tips. Pasir Ris, May 11"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/parviflora/090801prpd8079m3b.jpg"
-      caption: "Sepals clasp the propagule. Pasir Ris Park, Aug 09"
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/parviflora/100411prpd1035m3a.jpg
+    caption: Visited by ants. Pasir Ris, Apr 10
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/parviflora/110502prpd0442m3a.jpg
+    caption: Tassels on petal tips. Pasir Ris, May 11
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/parviflora/090801prpd8079m3b.jpg
+    caption: Sepals clasp the propagule. Pasir Ris Park, Aug 09
+links_references: '**Links**
+
   - [Lenggadai (
+
   *Bruguiera parviflora*
+
   )](http://mangrove.nus.edu.sg/guidebooks/text/1055)
+
   Ng, Peter K. L. & N. Sivasothi, 1999.
+
   *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)
+
   I (Plant Diversity)*
+
   . Singapore Science Centre. 168 pp.
+
   - [*Bruguiera parviflora*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=6265)
+
   on the NParks Flora and Fauna website: photos and fact sheet.
+
   - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+
   [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
-  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
+
+  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization
+  of the United Nations Regional Office for Asia and the Pacific Bangkok.
+
   - [*Bruguiera parviflora*](http://www.iucnredlist.org/apps/redlist/details/178821/0)
+
   on the IUCN Red list website: detailed fact sheet.
-  
+
+
   **References**
+
   - Chiou-Rong Sheue, Jean W. H. Yong and Yuen- Po Yang. 2005.
-  *[The Bruguiera (Rhizophoraceae) Species in the Mangroves of Singapore, Especially on the New Record and the Rediscovery](http://lkcnhm.nus.edu.sg/dna/docs/ecb82a5bf09257209a08147c2d86900c.pdf)*
-  . Taiwania, 50(4): 251-260, 2005 (pdf on the Raffles Museum of Biodiversity Research website).
+
+  *[The Bruguiera (Rhizophoraceae) Species in the Mangroves of Singapore, Especially
+  on the New Record and the Rediscovery](http://lkcnhm.nus.edu.sg/dna/docs/ecb82a5bf09257209a08147c2d86900c.pdf)*
+
+  . Taiwania, 50(4): 251-260, 2005 (pdf on the Raffles Museum of Biodiversity Research
+  website).
+
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
+
   *The Concise Flora of Singapore: Gymnosperms and Dicotyledons*
+
   . Singapore University Press. 222 pp.
+
   - Tomlinson, P. B., 1986.
+
   *The Botany of Mangroves*
+
   Cambridge University Press. USA. 419 pp.
+
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+
   . Nature Society (Singapore). 285 pp.
+
   - Burkill, I. H., 1993.
+
   *A Dictionary of the Economic Products of the Malay Peninsula*
-  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
+
+  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
+  Volume 1: 1-1240; volume 2: 1241-2444.
+
+  '
+size:
+- 500.0
+- 2400.0
+- 1500.0
 ---
 
 ## Where seen?

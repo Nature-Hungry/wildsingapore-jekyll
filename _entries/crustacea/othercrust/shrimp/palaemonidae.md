@@ -1,10 +1,9 @@
 ---
 title: Palaemonid shrimps
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: commensal, anemone, shrimp, periclimenes, palaemonid, palaemonidae, 
-  decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: commensal, anemone, shrimp, periclimenes, palaemonid, palaemonidae, decapod,
+  crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 103
@@ -29,64 +28,44 @@ updated: Jan 2020
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/echinodermata/holothuroidea/colochirus/050821bbg1857m3b.jpg
-    caption: About 1cm, several seen on a Thorny sea cucumber . Beting Bronok, 
-      Aug 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/other/050524cftg6598m3b.jpg
+  - url: http://www.wildsingapore.com/echinodermata/holothuroidea/colochirus/050821bbg1857m3b.jpg
+    caption: About 1cm, several seen on a Thorny sea cucumber . Beting Bronok, Aug
+      05
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/other/050524cftg6598m3b.jpg
     caption: About 1cm, a pair seen on a Flowery sea pen . Changi, May 05
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg
     caption: Peacock-tail anemone shrimp
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/050621skdg8007m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/050621skdg8007m3.jpg
     caption: Tiny carpet anemone shrimp
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/holthuisi/130626chgd8741m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/holthuisi/130626chgd8741m3.jpg
     caption: Gelek anemone shrimp
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/060527sjig6054m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/060527sjig6054m3.jpg
     caption: Little red nose shrimp
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/coralliocaris/110126hntd5201m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/coralliocaris/110126hntd5201m3.jpg
     caption: Machine gun coral shrimp
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/palaemon/060527sjig6099m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/palaemon/060527sjig6099m3.jpg
     caption: Glass shrimp
-links_references: |
-  **Links**
-  - [Glass Shrimp (
-  *Periclimenes*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/180)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988,
-  *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
-  . The Singapore Science Centre, Singapore. 160 pp.
-
-  **References**
-  - Toh Chay Hoon. 20 December 2013.
-  *Shrimps and saddleback anemonefish on carpet anemone off Pulau Hantu: Holthuis’s anemone shrimp, Periclimenes holthuisi and Saddleback anemonefish, Amphiprion polymnus*
-  . Singapore Biodiversity Records 2013: 126-127.
-  - Chou, L. M., 1998.
-  *A Guide to the Coral Reef Life of Singapore*
-  . Singapore Science Centre. 128 pages.
-  - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
-  *Rhythm of the Sea: The Life and Times of Labrador Beach*
-  . Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
-  - Wee Y.C. and Peter K. L. Ng. 1994.
-  *A First Look at Biodiversity in Singapore*
-  . National Council on the Environment. 163pp.
-  - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
-  *The Singapore Red Data Book: Threatened plants and animals of Singapore*
-  . Nature Society (Singapore). 285 pp.
-  - Debelius, Helmut, 2001.
-  *Crustacea Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean*
-  IKAN-Unterwasserachiv, Frankfurt. 321 pp.
-  - Miyake, Sadayoshi, and Takahiro Fujino. "
-  [Pontoniid shrimps from the Palau Islands (Crustacea, Decapoda, Palaemonidae).](http://decapoda.nhm.org/pdfs/26215/26215.pdf)
-  " Journal of the Faculty of Agriculture, Kyushu University 14.3 (1968): 399-431.
+links_references: "**Links**\n- [Glass Shrimp (\n*Periclimenes*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/180)\n\
+  Tan, Leo W. H. & Ng, Peter K. L., 1988,\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n\
+  . The Singapore Science Centre, Singapore. 160 pp.\n\n**References**\n- Toh Chay\
+  \ Hoon. 20 December 2013.\n*Shrimps and saddleback anemonefish on carpet anemone\
+  \ off Pulau Hantu: Holthuis\u2019s anemone shrimp, Periclimenes holthuisi and Saddleback\
+  \ anemonefish, Amphiprion polymnus*\n. Singapore Biodiversity Records 2013: 126-127.\n\
+  - Chou, L. M., 1998.\n*A Guide to the Coral Reef Life of Singapore*\n. Singapore\
+  \ Science Centre. 128 pages.\n- Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.\n*Rhythm\
+  \ of the Sea: The Life and Times of Labrador Beach*\n. Division of Biology, School\
+  \ of Science, Nanyang Technological University & Department of Zoology, the National\
+  \ University of Singapore. 160 pp.\n- Wee Y.C. and Peter K. L. Ng. 1994.\n*A First\
+  \ Look at Biodiversity in Singapore*\n. National Council on the Environment. 163pp.\n\
+  - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.\n*The Singapore Red Data\
+  \ Book: Threatened plants and animals of Singapore*\n. Nature Society (Singapore).\
+  \ 285 pp.\n- Debelius, Helmut, 2001.\n*Crustacea Guide of the World: Atlantic Ocean,\
+  \ Indian Ocean, Pacific Ocean*\nIKAN-Unterwasserachiv, Frankfurt. 321 pp.\n- Miyake,\
+  \ Sadayoshi, and Takahiro Fujino. \"\n[Pontoniid shrimps from the Palau Islands\
+  \ (Crustacea, Decapoda, Palaemonidae).](http://decapoda.nhm.org/pdfs/26215/26215.pdf)\n\
+  \" Journal of the Faculty of Agriculture, Kyushu University 14.3 (1968): 399-431.\n"
 location:
 - chg
 - cj

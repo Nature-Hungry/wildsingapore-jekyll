@@ -1,10 +1,9 @@
 ---
 title: Xenia soft coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: xenia, soft, coral, heteroxenia, xeniidae, aclyonacea, cnidaria, 
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: xenia, soft, coral, heteroxenia, xeniidae, aclyonacea, cnidaria, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 family: Xeniidae
 genus: Heteroxenia
@@ -18,67 +17,72 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Nov 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/110802smkd8256m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/110802smkd8256m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/110802smkd8256m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/110802smkd8256m3.jpg
     caption: Pulau Semakau, Aug 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/110802smkd8258m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/110802smkd8258m3a.jpg
     caption: Pulau Semakau, Aug 11
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/120412tbd9762m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/120412tbd9762m3.jpg
     caption: Contracted polyps look like lumps. Terumbu Bemban, Apr 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/120412tbd9780m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/120412tbd9780m3a.jpg
     caption: Star-shaped siphonozooids. Terumbu Bemban, Apr 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/120412tbd9780m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/120412tbd9780m3.jpg
     caption: Terumbu Bemban, Apr 12
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/111029smkd2974m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/111029smkd2974m6l.jpg
     caption: Pulau Semakau, Oct 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/111029smkd2971m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/111029smkd2971m3.jpg
     caption: Small star-shaped siphonozooids. Pulau Semakau, Oct 11
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/120414thntrl.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/120414thntrl.jpg
     caption: Terumbu Hantu, Apr 12 Photo shared by Russel Low on facebook .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/160424smknmn2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/160424smknmn2.jpg
     caption: Pulau Semakau (North), Apr 16
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/160424smknmn2a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/160424smknmn2a.jpg
     caption: Photo shared by Marcus Ng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/140718tsmkrl.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/140718tsmkrl.jpg
     caption: Terumbu Semakau, Jul 14 Photo shared by Russel Low on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Heteroxenia*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Heteroxenia)
+
   on
+
   [Reef Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding)
+
   on the
+
   [Marine Species Identification Portal](http://species-identification.org/index.php)
+
   : Technical fact sheet and photos.
+
   - [Why do some soft corals pulsate? We know now!](http://wildshores.blogspot.sg/2013/04/why-do-some-soft-corals-pulsate-we-know.html)
+
   on the wild shores of singapore blog.
 
+
   **References**
+
   - Fabricius, Katharina and Philip Alderslade, 2001.
+
   *Soft Corals and Sea Fans*
-  . Australian Institute of Marine Science and the Museum and Art Gallery of the Northern Territoriy. 264 pp.
+
+  . Australian Institute of Marine Science and the Museum and Art Gallery of the Northern
+  Territoriy. 264 pp.
+
+  '
 location:
 - hnt
 - tpg
 - smk
 - tsm
+size:
+- 4.0
+- 8.0
 ---
 
 ## Where seen?

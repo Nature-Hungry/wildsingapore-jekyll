@@ -1,10 +1,9 @@
 ---
 title: Leaf oyster
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: leaf, tree, oyster, isognomon, epipphium, pteriidae, isognominidae, 
-  bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: leaf, tree, oyster, isognomon, epipphium, pteriidae, isognominidae, bivalve,
+  mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 2
@@ -23,58 +22,82 @@ infraclass: Pteriomorphia
 order: Ostreida
 superfamily: Pterioidea
 updated: May 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/ephippium/050809lckg1060m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/ephippium/050809lckg1060m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/ephippium/050809lckg1060m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/ephippium/050809lckg1060m3.jpg
     caption: Lim Chu Kang, Aug 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/ephippium/031128sbwrbd0035m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/ephippium/031128sbwrbd0035m3.jpg
     caption: Growing on a mangrove tree. Sungei Buloh Wetland Reserve, Nov 03
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/ephippium/170515chgsafd2376m3.jpg
-    caption: Growing along a muddy mangrove creek. Changi Creek mangroves, May 
-      17
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/ephippium/170515chgsafd2376m3.jpg
+    caption: Growing along a muddy mangrove creek. Changi Creek mangroves, May 17
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/ephippium/200125prpAhd1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/ephippium/200125prpAhd1.jpg
     caption: Pasir Ris Park, Jan 20 Photo shared by Nurulhuda on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Leaf oyster (
+
   *Isognomon ephippium*
+
   )](http://mangrove.nus.edu.sg/guidebooks/text/2093)
+
   Ng, Peter K. L. & N. Sivasothi, 1999.
+
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
+
   . Singapore Science Centre. 168 pp.
+
   - [Saddle tree oyster (
+
   *Isognomon ephippium*
+
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=84369)
+
   on SeaLife Base: Technical fact sheet.
+
   - Saddle tree oyster (
+
   *Isognomon ephippium*
-  ) in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+
+  ) in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide
+  for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
+
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
+
   **References**
+
   - Chan Sow-Yan & Lau Wing Lup. 30 October 2020.
+
   *New record of the mangrove leaf-oyster, Isognomon spathulatus, in Singapore*
+
   . Singapore Biodiversity Records 2020: 183-186. The National University of Singapore.
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Tan, K. S. & L. M. Chou, 2000.
+
   *A Guide to the Common Seashells of Singapore*
+
   . Singapore Science Centre. 160 pp.
+
+  '
 location:
 - lck
 - prp
 - chg
 - tm
 - ecp
+size:
+- 6.0
+- 10.0
 ---
 
 ## Where seen?

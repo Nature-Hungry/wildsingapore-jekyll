@@ -1,10 +1,8 @@
 ---
 title: 'Sand dollars '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: sand, dollar, clypeasteroida, echinoidea, echinoderm, field, guide, 
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: sand, dollar, clypeasteroida, echinoidea, echinoderm, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes: []
 family: Clypeasteridae
@@ -24,113 +22,80 @@ order: Clypeasteroida
 suborder: Clypeasterina
 updated: Apr 2020
 coverimg: ../../../../Templates/fornatureguides.gif
-links_references: |
-  **Links**
-  - [Class
-    Echinoidea](http://mangrove.nus.edu.sg/pub/seashore/text/223)
-    Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-    Singapore. 160 pp.
-  - [The
-    Echinoid Directory](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/) by Dr. Andrew B. Smith on the London Natural
-    History Museum website: everything you could possibly want to
-    know about sand dollars and sea urchins with lots of large close-up
-    images and explanatory diagrams.
-  - [What
-    are those Holes in Sand Dollars for?](http://echinoblog.blogspot.com/2009/01/what-are-those-holes-in-sand-dollarsl) The Airplane-Sand Dollar
-    Connection! on the Echinoblog: a great explanation of the function
-    of lunules.
-
-  **References**
-  - Lane, David
-    J.W. and Didier Vandenspiegel. 2003*. A
-    Guide to Sea Stars and Other Echinoderms of Singapore*.
-    Singapore Science Centre. 187pp.
-  - Davison,
-    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-    Red Data Book: Threatened plants and animals of Singapore*.
-    Nature Society (Singapore). 285 pp.
-  - Wee Y.C.
-    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-    National Council on the Environment. 163pp.
-  - Miskelly,
-    Ashely. 2002. *Sea Urchins of Australia and the Indo-Pacific*.
-    Capricornia Publications. 180pp.
-  - Edward E.
-    Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
+links_references: "**Links**\n- [Class\n  Echinoidea](http://mangrove.nus.edu.sg/pub/seashore/text/223)\n\
+  \  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A\n  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
+  \ The Singapore Science Centre,\n  Singapore. 160 pp.\n- [The\n  Echinoid Directory](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/)\
+  \ by Dr. Andrew B. Smith on the London Natural\n  History Museum website: everything\
+  \ you could possibly want to\n  know about sand dollars and sea urchins with lots\
+  \ of large close-up\n  images and explanatory diagrams.\n- [What\n  are those Holes\
+  \ in Sand Dollars for?](http://echinoblog.blogspot.com/2009/01/what-are-those-holes-in-sand-dollarsl)\
+  \ The Airplane-Sand Dollar\n  Connection! on the Echinoblog: a great explanation\
+  \ of the function\n  of lunules.\n\n**References**\n- Lane, David\n  J.W. and Didier\
+  \ Vandenspiegel. 2003*. A\n  Guide to Sea Stars and Other Echinoderms of Singapore*.\n\
+  \  Singapore Science Centre. 187pp.\n- Davison,\n  G.W. H. and P. K. L. Ng and Ho\
+  \ Hua Chew, 2008. *The Singapore\n  Red Data Book: Threatened plants and animals\
+  \ of Singapore*.\n  Nature Society (Singapore). 285 pp.\n- Wee Y.C.\n  and Peter\
+  \ K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.\n  National Council\
+  \ on the Environment. 163pp.\n- Miskelly,\n  Ashely. 2002. *Sea Urchins of Australia\
+  \ and the Indo-Pacific*.\n  Capricornia Publications. 180pp.\n- Edward E.\n  Ruppert,\
+  \ Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate\n"
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Sand dollars are alive! 
-      They are animals. Don't step on them! They are related to sea stars and 
-      have five-part symmetry. Living sand dollars have tiny moving spines that 
-      tickle when you hold them.
+    caption: if you learn only 3 things about them ... Sand dollars are alive! They
+      are animals. Don't step on them! They are related to sea stars and have five-part
+      symmetry. Living sand dollars have tiny moving spines that tickle when you hold
+      them.
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Sand dollars are alive! They are animals. Don't step on them! They 
-      are related to sea stars and have five-part symmetry. Living sand dollars 
-      have tiny moving spines that tickle when you hold them.
+    caption: Sand dollars are alive! They are animals. Don't step on them! They are
+      related to sea stars and have five-part symmetry. Living sand dollars have tiny
+      moving spines that tickle when you hold them.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/090628lazd6113m3.jpg
-    caption: A sand dollar can move quite far under wet sand. Lazarus Island, 
-      Jun 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/090628lazd6115m3.jpg
-    caption: Living sand dollars, not moving under sand. Lazarus Island, Jun 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/080720cjd8021m3.jpg
-    caption: Cake sand dollars are often found in huge numbers. Chek Jawa, Jan 
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/090628lazd6113m3.jpg
+    caption: A sand dollar can move quite far under wet sand. Lazarus Island, Jun
       09
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/090628lazd6115m3.jpg
+    caption: Living sand dollars, not moving under sand. Lazarus Island, Jun 09
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/080720cjd8021m3.jpg
+    caption: Cake sand dollars are often found in huge numbers. Chek Jawa, Jan 09
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/depressum/081117ecpmd2310m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/depressum/081117ecpmd2310m3.jpg
     caption: A living sand dollar is covered with spines! East Coast, Nov 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2851m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2851m3.jpg
     caption: Upperside of test of Ceke sand dollar
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2852m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2852m3.jpg
     caption: Underside of test
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/depressum/090628lazd5991m3.jpg
-    caption: Shape and features of a sand dollar is often more obvious in a dead
-      one. Seringat-Kias, Jun 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2851m3a.jpg
-    caption: The petalloid is made up of holes where tube feet emerge. This is 
-      more obvious in the skeleton of a dead sand dollar. Changi, Jun 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2852m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/depressum/090628lazd5991m3.jpg
+    caption: Shape and features of a sand dollar is often more obvious in a dead one.
+      Seringat-Kias, Jun 09
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2851m3a.jpg
+    caption: The petalloid is made up of holes where tube feet emerge. This is more
+      obvious in the skeleton of a dead sand dollar. Changi, Jun 06
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2852m3b.jpg
     caption: The central mouth is on the underside. Changi, Jun 06
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3.jpg
     caption: Upperside of living sand dollar Chek Jawa, Jul 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3c.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3c.jpg
     caption: Slot in a Keyhole sand dollar.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/031122cjd0023m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/031122cjd0023m3.jpg
     caption: A dead sand dollar has no spines. Chek Jawa, Nov 02
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/asteroidea/protoreaster/110508cyrmng5m3.jpg
-    caption: Being eaten by a Knobbly sea star ? Cyrene Reef, May 11 Photo 
-      shared by Marcus Ng on flickr .
-  - url: 
-      http://www.wildsingapore.com/cnidaria/actiniaria/haddonieat/040218cjd0004m3.jpg
-    caption: Cake sand dollar being swallowed by a Haddon's carpet anemone . 
-      Chek Jawa Feb 04
-  - url: 
-      http://www.wildsingapore.com/mollusca/gastropoda/cassidae/glaucum/110830cyrd0374m3.jpg
+  - url: http://www.wildsingapore.com/asteroidea/protoreaster/110508cyrmng5m3.jpg
+    caption: Being eaten by a Knobbly sea star ? Cyrene Reef, May 11 Photo shared
+      by Marcus Ng on flickr .
+  - url: http://www.wildsingapore.com/cnidaria/actiniaria/haddonieat/040218cjd0004m3.jpg
+    caption: Cake sand dollar being swallowed by a Haddon's carpet anemone . Chek
+      Jawa Feb 04
+  - url: http://www.wildsingapore.com/mollusca/gastropoda/cassidae/glaucum/110830cyrd0374m3.jpg
     caption: Grey bonnet snail eating a Cake sand dollar. Cyrene, Aug 11
   gallery6:
   - url: http://www.wildsingapore.com/concepts/pix/i020e4.gif
-    caption: "Damaged dollars: Like other echinoderms, sand dollars can repair minor
-      damage. If you come across an 'uneven' sand dollar with a part of its body obviously
-      chewed off, look closely and you might see spines growing on the chewed edge.
-      But if a large part of the sand dollar is broken, it will probably die. How
-      do upside down sand dollars right themselves? They dig one side into ground
+    caption: 'Damaged dollars: Like other echinoderms, sand dollars can repair minor
+      damage. If you come across an ''uneven'' sand dollar with a part of its body
+      obviously chewed off, look closely and you might see spines growing on the chewed
+      edge. But if a large part of the sand dollar is broken, it will probably die.
+      How do upside down sand dollars right themselves? They dig one side into ground
       and stick the other end out. Eventually, the waves and currents flip them over.
       This is laborious and they usually need to be in water to achieve this. So please
       put sand dollars back the right way around. Dollar babies: Sand dollars have
@@ -138,7 +103,7 @@ galleries:
       fertilisation, releasing eggs and sperm simultaneously into the water. Sand
       dollars undergo metamorphosis and their larvae look nothing like their adults.
       The form that first hatches from the eggs are bilaterally symmetrical and free-swimming,
-      drifting with the plankton. At this stage, they have several long 'arms' which
+      drifting with the plankton. At this stage, they have several long ''arms'' which
       are believed to funnel food particles into the central mouth. They eventually
       settle down and develop into a more sand dollar-like shape. One species of sand
       dollars ( Dendraster excentricus of the US) is known to settle in response to
@@ -151,24 +116,20 @@ galleries:
       human activities along the coast that pollute the water. Like other creatures
       of the intertidal zone, they are affected by human activities such as reclamation
       and pollution. Trampling by careless visitors and over-collection can also have
-      an impact on local populations."
+      an impact on local populations.'
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/030927cjd0033m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/030927cjd0033m3.jpg
     caption: Cake sand dollar
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3.jpg
     caption: Keyhole sand dollar
   gallery8:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/peronella/080704sekd6788m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/peronella/080704sekd6788m3.jpg
     caption: Pink sand dollar
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/depressum/070420sntrd0301m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/depressum/070420sntrd0301m3.jpg
     caption: Thick-edged sand dollar
   gallery9:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: "Links Class Echinoidea Tan, Leo W. H. & Ng, Peter K. L., 1988. A Guide
+    caption: 'Links Class Echinoidea Tan, Leo W. H. & Ng, Peter K. L., 1988. A Guide
       to Seashore Life . The Singapore Science Centre, Singapore. 160 pp. The Echinoid
       Directory by Dr. Andrew B. Smith on the London Natural History Museum website:
       everything you could possibly want to know about sand dollars and sea urchins
@@ -190,8 +151,8 @@ galleries:
       Press. 390 pp. Schoppe, Sabine, 2000. Echinoderms of the Philippines: A guide
       to common shallow water sea stars, brittle stars, sea urchins, sea cucumbers
       and feather stars . Times Edition, Singapore. 144 pp. Coleman, Neville. undated.
-      Sea Stars of Australasia and their relatives . Neville Coleman's World of Water,
-      Australia. 64pp."
+      Sea Stars of Australasia and their relatives . Neville Coleman''s World of Water,
+      Australia. 64pp.'
 location:
 - chg
 - cj

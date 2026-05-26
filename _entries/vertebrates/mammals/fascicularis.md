@@ -1,7 +1,9 @@
 ---
 title: Long-tailed macaque
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "long, tailed, crab, eating, macaque, monkey, macaca, fascicularis, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: long, tailed, crab, eating, macaque, monkey, macaca, fascicularis, vertebrate,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Cercopithecidae
 genus: Long-tailed
@@ -23,36 +25,59 @@ parvorder: Catarrhini
 subfamily: Cercopithecinae
 tribe: Papionini
 updated: Oct 2016
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/fascicularis/070331sisg8439m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/fascicularis/070331sisg8439m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/fascicularis/110928sisd1427m3.jpg"
-      caption: "Foraging on the sea shore, turning over rocks. Sisters Island, Sep 11"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/fascicularis/090613admd4211m3.jpg"
-      caption: "Admiralty Park, Jun 09"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/fascicularis/090613admd4205m6l.jpg"
-      caption: "Admiralty Park, Jun 09"
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/fascicularis/110928sisd1427m3.jpg
+    caption: Foraging on the sea shore, turning over rocks. Sisters Island, Sep 11
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/fascicularis/090613admd4211m3.jpg
+    caption: Admiralty Park, Jun 09
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/fascicularis/090613admd4205m6l.jpg
+    caption: Admiralty Park, Jun 09
+links_references: '**Links**
+
   - [Long-tailed Macaque](http://www.ecologyasia.com/verts/mammals/long-tailed_macaque)
-  on Nick Baker's EcologyAsia website: fact sheet with photos.
+
+  on Nick Baker''s EcologyAsia website: fact sheet with photos.
+
   - [Long-tailed Macaque](http://www.wildsingapore.per.sg/discovery/factsheet/macaque)
-  on Chan Kwok Wai's Wildlife Singapore website: fact sheet with photos
+
+  on Chan Kwok Wai''s Wildlife Singapore website: fact sheet with photos
+
   - [*Macaca fascicularis*](https://singapore.biodiversity.online/taxo4254/mainSpace/Macaca%20fascicularis.html)
+
   (Primates: Cercopithecidae) Long-tailed Macaque by Tan Qiao Hao Joys, 2014, on taxo4254.
+
   - [Why we should not feed the monkeys](http://www.wildsingapore.com/places/monkey)
-  
+
+
   **References**
+
   - Mishak Shunari & Benjamin C. Lee. 31 May 2017.
+
   [Long-tailed macaque feeding on flowers of the mangrove apple tree,
+
   *Sonneratia caseolaris*](https://lkcnhm.nus.edu.sg/app/uploads/2017/09/sbr2017-066-067.pdf)
+
   . Singapore Biodiversity Records 2017: 66-67.
+
   - Baker, Nick and Kelvin Lim. 2008.
-  *Wild Animals of Singapore: A Photographic Guide to Mammals, Reptiles, Amphibians and Freshwater Fishes*
+
+  *Wild Animals of Singapore: A Photographic Guide to Mammals, Reptiles, Amphibians
+  and Freshwater Fishes*
+
   *Vertebrate Study Group, Nature Society (Singapore). 180 pp.*
+
   - Francis, Charles M. 2001.
+
   *Mammals of South-East Asia*
+
   New Holland Publishers. 128 pp.
+
+  '
+size:
+- 45.0
+- 56.0
 ---
 
 ## Where seen?

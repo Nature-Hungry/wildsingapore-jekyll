@@ -1,11 +1,9 @@
 ---
 title: Mangrove leaf slug
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: mangrove, leaf, slug, seaslug, sap, sucking, sacoglossan, elysia, 
-  bangtawaensis, plakobranchidae, elysiidae, opisthobranch, gastropod, mollusc, 
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: mangrove, leaf, slug, seaslug, sap, sucking, sacoglossan, elysia, bangtawaensis,
+  plakobranchidae, elysiidae, opisthobranch, gastropod, mollusc, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Plakobranchidae
 genus: Elysia
@@ -22,43 +20,35 @@ subterclass: Tectipleura
 superorder: Sacoglossa
 superfamily: Plakobranchoidea
 updated: Jun 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/bangtawaensis/110101krjd4559m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/bangtawaensis/110101krjd4559m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/bangtawaensis/110101krjd4559m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/bangtawaensis/110101krjd4559m3.jpg
     caption: Kranji Nature Trail, Jan 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/bangtawaensis/110101krjd4571m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/bangtawaensis/110101krjd4571m3a.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/bangtawaensis/110101krjd4571m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/bangtawaensis/110101krjd4571m3b.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/bangtawaensis/120320mndmn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/bangtawaensis/120320mndmn.jpg
     caption: Mandai, Mar 12 Photo shared by Marcus Ng on flickr .
-links_references: |
-  **Links**
-  - [The Sea Slug Forum](http://www.seaslugforum.net/)
-  by Dr Bill Rudman: photos and fact sheet on
-  *[Elysia bangtawaensis](http://www.seaslugforum.net/find/elysbang)*
-  .
-  - [New mangrove slug named after Singapore](http://wildshores.blogspot.com/2011/03/new-mangrove-slug-named-after-singapore.html)
-  on the wild shores of singapore blog
-  - *[Elysia bangtawaensis](https://singapore.biodiversity.online/taxo4254/mainSpace/Elysia%20bangtawaensis.html)*
-  (Sacoglossa: Plakobranchidae) Mangrove leaf slug on Taxo4254.
-
-  **References**
-  - K. R. Jensen.
-  *Sacoglossa (Mollusca: Gastropoda: Heterobranchia) from northern coasts of Singapore*
-  . 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 226-249.
-  - Cornelis (Kees) Swennen.
-  *Large Mangrove-dwelling Elysia species in Asia, with descriptions of two new species (Gastropoda: Opistobranchia: Sacoglossa)*
-  . 28 Feb 2011. The Raffles Bulletin of Zoology 2011 59(1): 29–37
+links_references: "**Links**\n- [The Sea Slug Forum](http://www.seaslugforum.net/)\n\
+  by Dr Bill Rudman: photos and fact sheet on\n*[Elysia bangtawaensis](http://www.seaslugforum.net/find/elysbang)*\n\
+  .\n- [New mangrove slug named after Singapore](http://wildshores.blogspot.com/2011/03/new-mangrove-slug-named-after-singapore.html)\n\
+  on the wild shores of singapore blog\n- *[Elysia bangtawaensis](https://singapore.biodiversity.online/taxo4254/mainSpace/Elysia%20bangtawaensis.html)*\n\
+  (Sacoglossa: Plakobranchidae) Mangrove leaf slug on Taxo4254.\n\n**References**\n\
+  - K. R. Jensen.\n*Sacoglossa (Mollusca: Gastropoda: Heterobranchia) from northern\
+  \ coasts of Singapore*\n. 10 July 2015. The Comprehensive Marine Biodiversity Survey:\
+  \ Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015\
+  \ Supplement No. 31, Pp. 226-249.\n- Cornelis (Kees) Swennen.\n*Large Mangrove-dwelling\
+  \ Elysia species in Asia, with descriptions of two new species (Gastropoda: Opistobranchia:\
+  \ Sacoglossa)*\n. 28 Feb 2011. The Raffles Bulletin of Zoology 2011 59(1): 29\u2013\
+  37\n"
 location:
 - sbw
+size:
+- 4.0
+- 5.0
 ---
 
 ## Where seen?

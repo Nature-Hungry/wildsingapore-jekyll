@@ -1,10 +1,9 @@
 ---
 title: Banded archerfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: banded, acherfish, archer, fish, toxotidae, toxotes, jaculatrix, 
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: banded, acherfish, archer, fish, toxotidae, toxotes, jaculatrix, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 attributes:
 - 7
@@ -25,73 +24,109 @@ superorder: Acanthomorpha
 order: Carangiformes
 suborder: Toxotoidei
 updated: Oct 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/110205krjd5871m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/110205krjd5871m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/110205krjd5871m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/110205krjd5871m3.jpg
     caption: Sungei Buloh Wetland Reserve, Feb 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/051208sbwrd0532m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/051208sbwrd0532m6l.jpg
     caption: Sungei Buloh Wetland Reserve, Feb 05
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/090510sntik4m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/090510sntik4m3.jpg
     caption: Sentosa Siloso, May 09 Photo shared by Ivan Kwan on his blog
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/170820kusmn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/170820kusmn.jpg
     caption: Juvenile. Kusu Island, Aug 17 Photo shared by Marcus Ng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/251207hntlks7.jpg
-    caption: Juvenile. Pulau Hantu, Dec 25 Photo shared by Loh Kok Sheng on 
-      facebook .
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/251207hntlks7.jpg
+    caption: Juvenile. Pulau Hantu, Dec 25 Photo shared by Loh Kok Sheng on facebook
+      .
+links_references: '**Links**
+
   - [Banded Archerfish (
+
   *Toxotes jaculatrix*
+
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/324)
+
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
+
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
+
   . Singapore Science Centre. 163 pp.
+
   - [Archerfish (
+
   *Toxotes jaculatrix*
+
   )](http://mangrove.nus.edu.sg/guidebooks/text/2105)
+
   Ng, Peter K. L. & N. Sivasothi, 1999.
+
   *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)
+
   II (Animal Diversity)*
+
   . Singapore Science Centre. 168 pp.
+
   - [Banded Archerfish](http://www.ecologyasia.com/verts/fishes/banded-archerfish)
+
   from EcologyAsia .
+
   - [Banded Archerfish (
+
   *Toxotes jaculatrix*
+
   )](http://fishbase.org/summary/8229)
+
   from
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheet.
+
   - [Banded Archerfish (
+
   *Toxotes jaculatrix*
+
   )](http://www.amonline.net.au/fishes/fishfacts/fish/tjaculat)
+
   from the
+
   [Australian Museum Fish Site](http://www.amonline.net.au/fishes/fishfacts/)
+
   : fact sheet with photo
+
   - [*Toxotes jaculatrix*
+
   (Banded Archerfish)](http://www.iucnredlist.org/details/196451/0)
+
   from IUCN.
 
+
   **References**
+
   - Allen, Gerry, 2000.
+
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
+
   . Periplus Editions. 292 pp.
+
   - Lieske, Ewald and Robert Myers. 2001.
+
   *Coral Reef Fishes of the World*
+
   Periplus Editions. 400pp.
+
+  '
 location:
 - sbw
 - prp
 - chg
 - snt
 - hnt
+size:
+- 20.0
+- 7.0
+- 10.0
 ---
 
 ## Where seen?

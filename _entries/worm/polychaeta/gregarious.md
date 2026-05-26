@@ -1,10 +1,8 @@
 ---
 title: Gregarious tubeworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: gregarious, tube, worm, tubeworm, polychaete, field, guide, seashore, 
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, 
-  photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: gregarious, tube, worm, tubeworm, polychaete, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: ''
 genus: ''
@@ -14,18 +12,14 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Oct 2016
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/worm/polychaeta/gregarious/120111chgs01917m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/gregarious/120111chgs01917m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polychaeta/gregarious/120111chgs01917m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/gregarious/120111chgs01917m3.jpg
     caption: Cyrene Reef, Mar 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polychaeta/gregarious/080608cyrd5403m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/gregarious/080608cyrd5403m3a.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polychaeta/gregarious/060114cjg3823m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/gregarious/060114cjg3823m3a.jpg
     caption: Chek Jawa, Jan 06
 location:
 - chg
@@ -38,6 +32,9 @@ location:
 - laz
 - cyr
 - smk
+size:
+- 100.0
+- 200.0
 ---
 
 ## Where seen?

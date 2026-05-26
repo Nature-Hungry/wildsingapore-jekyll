@@ -24,15 +24,17 @@ updated: May 2020
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/090606tmftd3261m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/090606tmftd3261m3.jpg"
-      caption: Forskal's sidegill slug
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/euselenops/121214chged2264m3.jpg"
-      caption: Moon-headed sidegill slug
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/090606tmftd3261m3.jpg
+    caption: Forskal's sidegill slug
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/euselenops/121214chged2264m3.jpg
+    caption: Moon-headed sidegill slug
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/others/170528chglks3.jpg"
-      caption: "Pleurobranchea brockii Changi, May 17 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/others/170528chgjll1.jpg"
-      caption: "Pleurobranchea brockii Changi, May 17 Photo shared by Jianlin Liu on facebook ."
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/others/170528chglks3.jpg
+    caption: Pleurobranchea brockii Changi, May 17 Photo shared by Loh Kok Sheng on
+      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/others/170528chgjll1.jpg
+    caption: Pleurobranchea brockii Changi, May 17 Photo shared by Jianlin Liu on
+      facebook .
 ---
 
 ## Where seen?

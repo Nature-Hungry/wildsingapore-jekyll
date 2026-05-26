@@ -1,10 +1,9 @@
 ---
 title: Mexican  green seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: mexican, feathery, seaweed, weed, green, caulerpa, mexicana, 
-  caulerpaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, 
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: mexican, feathery, seaweed, weed, green, caulerpa, mexicana, caulerpaceae,
+  chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 division: Chlorophyta
 family: Caulerpaceae
@@ -20,60 +19,80 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Oct 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/mexicana/040901sjid6072m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/mexicana/040901sjid6072m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/mexicana/040901sjid6072m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/mexicana/040901sjid6072m3.jpg
     caption: In small clumps on rocky areas. St John's Island, Sep 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/mexicana/040901sjid6072m3b.jpg
-    caption: Mid-rib width wider or the same as the length of side 'branches'. 
-      Chek Jawa, Aug 07
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/mexicana/040901sjid6072m3b.jpg
+    caption: Mid-rib width wider or the same as the length of side 'branches'. Chek
+      Jawa, Aug 07
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/mexicana/100130brkd8613m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/mexicana/100130brkd8613m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/mexicana/100812tpld0348m3c.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/mexicana/100812tpld0348m3c.jpg
     caption: Side branches with rounded or bluntly pointed tips.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/mexicana/100812tpld0348m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/mexicana/100812tpld0348m3b.jpg
     caption: Terumbu Pempang Laut, Aug 10
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/mexicana/100810sngd9926m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/mexicana/100810sngd9926m3.jpg
     caption: Pulau Senang, Aug 10
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Caulerpa mexicana*](http://www.algaebase.org/search/species/detail/?species_id=1409)
+
   on
+
   [AlgaeBase](http://www.algaebase.org/)
+
   : Technical fact sheet.
 
+
   **References**
-  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
+
+  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
+  Tsai Min and Wang Luan Keng,
+
   *A photographic guide to the marine algae of Singapore*
+
   , Tropical Marine Science Institute, 201 pp.
+
   - Pham, M. N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011.
+
   *A Checklist of the Algae of Singapore*
-  , 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore, Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+
+  , 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
+  Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+
   - Eric Coppejans and Tom Beeckman. 1990.
+
   *[Caulerpa (Chlorophyta, Caulerpales) from the Kenyan coast](http://www.phycology.ugent.be/reprints/p61.pdf)*
-  (pdf). Laboratorium voor Morfologie, Systematiek en Ecologie van de Planten R.U.G. Ledeganckstraat 35, 9000 Gent, Belgium on the
+
+  (pdf). Laboratorium voor Morfologie, Systematiek en Ecologie van de Planten R.U.G.
+  Ledeganckstraat 35, 9000 Gent, Belgium on the
+
   [Phycology Research website](http://www.phycology.ugent.be/)
+
   : identification key and useful diagrams on how to tell apart similar
+
   *Caulerpa*
+
   species.
+
   - Huisman, John M. 2000.
+
   *Marine Plants of Australia*
+
   University of Western Australia Press. 300pp.
+
+  '
 location:
 - chg
 - skd
 - tm
 - snt
+size:
+- 2.0
 ---
 
 ## Where seen?

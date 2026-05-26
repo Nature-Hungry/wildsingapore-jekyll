@@ -23,31 +23,39 @@ subfamily: Rubioideae
 tribe: Morindeae
 updated: Jan 13
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/citrifolia/090124ubnd5992m3.jpg
-links_references: |
-  **Links**
-  - *[Morinda
-    citrifolia](http://floraofsingapore.wordpress.com/2010/08/01/morinda-citrifolia/)* on Total Vascular Flora of Singapore Online:
-    photos and fact sheet.
-  - *[Morinda
-    citrifolia](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3033)* on the NParks Flora and Fauna website: photos
-    and fact sheet.
-  - *[Morinda
-    citrifolia](http://taxo4254.wikispaces.com/Morinda+citrifolia)* (Gentianales: Rubiaceae) Noni by Chen Junhao,
-    2012 on taxo4254.
-  - Giesen,
-    Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-    [*Mangrove
-    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.htm) (PDF online downloadable).
-    RAP publication 2006/07 Food and Agriculture Organization of the
-    United Nations Regional Office for Asia and the Pacific Bangkok.
-  
-  **References**
-  - Hsuan Keng,
-    S.C. Chin and H. T. W. Tan. 1990, *[The
+links_references: "**Links**\n- *[Morinda\n  citrifolia](http://floraofsingapore.wordpress.com/2010/08/01/morinda-citrifolia/)*\
+  \ on Total Vascular Flora of Singapore Online:\n  photos and fact sheet.\n- *[Morinda\n\
+  \  citrifolia](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3033)*\
+  \ on the NParks Flora and Fauna website: photos\n  and fact sheet.\n- *[Morinda\n\
+  \  citrifolia](http://taxo4254.wikispaces.com/Morinda+citrifolia)* (Gentianales:\
+  \ Rubiaceae) Noni by Chen Junhao,\n  2012 on taxo4254.\n- Giesen,\n  Wim and Stephan\
+  \ Wulffraat, Max Zieren and Liesbeth Scholten. 2006.\n  [*Mangrove\n  Guidebook\
+  \ for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.htm) (PDF online\
+  \ downloadable).\n  RAP publication 2006/07 Food and Agriculture Organization of\
+  \ the\n  United Nations Regional Office for Asia and the Pacific Bangkok.\n\n**References**\n\
+  - Hsuan Keng,\n  S.C. Chin and H. T. W. Tan. 1990, *[The\n"
 galleries:
   gallery1:
-    - url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
-      caption: "Links Morinda citrifolia on Total Vascular Flora of Singapore Online: photos and fact sheet. Morinda citrifolia on the NParks Flora and Fauna website: photos and fact sheet. Morinda citrifolia (Gentianales: Rubiaceae) Noni by Chen Junhao, 2012 on taxo4254. Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006. Mangrove Guidebook for Southeast Asia (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok. References Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University Press. 222 pp. Wee Yeow Chin. 1992. A Guide to Medicinal Plants . The Singapore Science Centre. 160pp Corners, E. J. H., 1997. Wayside Trees of Malaya: in two volumes . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444. Wee Yeow Chin. 1992. A Guide to Medicinal Plants . The Singapore Science Centre. 160pp."
+  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
+    caption: 'Links Morinda citrifolia on Total Vascular Flora of Singapore Online:
+      photos and fact sheet. Morinda citrifolia on the NParks Flora and Fauna website:
+      photos and fact sheet. Morinda citrifolia (Gentianales: Rubiaceae) Noni by Chen
+      Junhao, 2012 on taxo4254. Giesen, Wim and Stephan Wulffraat, Max Zieren and
+      Liesbeth Scholten. 2006. Mangrove Guidebook for Southeast Asia (PDF online downloadable).
+      RAP publication 2006/07 Food and Agriculture Organization of the United Nations
+      Regional Office for Asia and the Pacific Bangkok. References Hsuan Keng, S.C.
+      Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and
+      Dicotyledons . Singapore University Press. 222 pp. Wee Yeow Chin. 1992. A Guide
+      to Medicinal Plants . The Singapore Science Centre. 160pp Corners, E. J. H.,
+      1997. Wayside Trees of Malaya: in two volumes . Fourth edition, Malayan Nature
+      Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp.,
+      plates 139-236. Burkill, I. H., 1993. A Dictionary of the Economic Products
+      of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture,
+      Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444. Wee Yeow Chin.
+      1992. A Guide to Medicinal Plants . The Singapore Science Centre. 160pp.'
+size:
+- 300.0
+- 1000.0
 ---
 
 ## Where seen?

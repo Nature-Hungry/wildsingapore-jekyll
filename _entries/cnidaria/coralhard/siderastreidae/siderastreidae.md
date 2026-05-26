@@ -20,35 +20,60 @@ updated: Jun 13
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/boulder/120508skdd1952m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/crinkled/120408sjid8447m3.jpg"
-      caption: Crinkled sandpaper coral
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/boulder/050411tusd2323m3.jpg"
-      caption: Boulder sandpaper coral
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/hexaneat/050821bbg2002m3.jpg"
-      caption: Neat hexa coral
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/crinkled/120408sjid8447m3.jpg
+    caption: Crinkled sandpaper coral
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/boulder/050411tusd2323m3.jpg
+    caption: Boulder sandpaper coral
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/hexaneat/050821bbg2002m3.jpg
+    caption: Neat hexa coral
+links_references: '**Links**
+
   - [Family Siderastreidae](http://coral.aims.gov.au/speciesPages/)
-  (select species from list) on Corals of the World online on the Australian Institute of Marine Science website: Technical fact sheet.
+
+  (select species from list) on Corals of the World online on the Australian Institute
+  of Marine Science website: Technical fact sheet.
+
   - [http://species-identification.org/species.php?species_group=corals&id=130&menuentry=groepen](http://species-identification.org/species.php?species_group=corals&id=130&menuentry=groepen)
+
   [Family Siderastreidae](http://species-identification.org/species.php?species_group=corals&id=124&menuentry=groepen)
-  on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal: Technical fact sheet.
+
+  on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal:
+  Technical fact sheet.
+
   - [Family Siderastreidae](http://www.iucnredlist.org/apps/redlist/search)
-  (enter Siderastreidae in search bar) on the IUCN Red List of Threatened Species website: Technical fact sheet.
-  
+
+  (enter Siderastreidae in search bar) on the IUCN Red List of Threatened Species
+  website: Technical fact sheet.
+
+
   **References**
+
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
-  [*An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new records*](http://lkcnhm.nus.edu.sg/rbz/biblio/s22/s22rbz069-080.pdf)
+
+  [*An inventory of zooxanthellate sclerectinian corals in Singapore including 33
+  new records*](http://lkcnhm.nus.edu.sg/rbz/biblio/s22/s22rbz069-080.pdf)
+
   (pdf). Raffles Bulletin of Zoology Supplement No. 22: 69-80.
+
   - Veron, Jen. 2000.
+
   *Corals of the World*
+
   Australian Institute of Marine Science, Australia. 3 volumes.
+
   - Erhardt, Harry and Daniel Knop. 2005.
+
   *Corals: Indo-Pacific Field Guide*
+
   IKAN-Unterwasserachiv, Frankfurt. 305 pp.
+
   - Borneman, Eric H. 2001.
+
   *Aquarium Corals: Selection, Husbandry and Natural History*
+
   T.F. H Publications. 464 pp.
+
+  '
 ---
 
 ## Where seen?

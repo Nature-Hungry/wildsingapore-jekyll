@@ -1,10 +1,9 @@
 ---
 title: Bumpy finger seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: bumpy, finger, seaweed, weed, algae, eucheuma, kappaphycus, 
-  solieriaceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal,
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: bumpy, finger, seaweed, weed, algae, eucheuma, kappaphycus, solieriaceae,
+  rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 division: Rhodophyta
 family: Solieriaceae
@@ -23,70 +22,79 @@ class: Florideophyceae
 subclass: Rhodymeniophycidae
 order: Gigartinales
 updated: Jan 13
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/100531biod4608m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/100531biod4608m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/100531biod4608m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/100531biod4608m3.jpg
     caption: Pulau Biola, May 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/060212sisd6806m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/060212sisd6806m3.jpg
     caption: Sisters Island, Feb 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/050309smkg3103m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/050309smkg3103m3.jpg
     caption: Pulau Semakau, Mar 05
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/080510smkd3062m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/080510smkd3062m3.jpg
     caption: Pulau Semakau, May 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/080220smkd9752m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/080220smkd9752m3.jpg
     caption: Pulau Semakau, Feb 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/100519tsmc4179m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/100519tsmc4179m3.jpg
     caption: Terumbu Semakau, May10
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/200626tptvc6.jpg
-    caption: Terumbu Pempang Tengah, Jun 20 Photo shared by Vincent Choo on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/250712tplrk4.jpg
-    caption: Terumbu Pempang Laut, Jul 25 Photo shared by Richard Kuah on 
-      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/200626tptvc6.jpg
+    caption: Terumbu Pempang Tengah, Jun 20 Photo shared by Vincent Choo on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/250712tplrk4.jpg
+    caption: Terumbu Pempang Laut, Jul 25 Photo shared by Richard Kuah on facebook
+      .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/100601slud4971m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/100601slud4971m3.jpg
     caption: Pulau Salu, Jun 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/100130brkd8574m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/100130brkd8574m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/100530tbkd4374m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/100530tbkd4374m3.jpg
     caption: Pulau Berkas, May 10
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Eucheuma*](http://www.algaebase.org/search/genus/detail/?genus_id=D457ac0c2f3a3f13b)
+
   and
+
   *[Kappaphycus](http://www.algaebase.org/search/genus/detail/?genus_id=35125)*
+
   on
+
   [AlgaeBase](http://www.algaebase.org/)
+
   : Technical fact sheet.
 
+
   **References**
+
   - Pham, M. N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011.
+
   *A Checklist of the Algae of Singapore, 2nd Edition*
-  . Raffles Museum of Biodiversity Research, National University of Singapore, Singapore. 99 pp. Uploaded 1 Oct.2011.
+
+  . Raffles Museum of Biodiversity Research, National University of Singapore, Singapore.
+  99 pp. Uploaded 1 Oct.2011.
+
   - Calumpong, H. P. & Menez, E. G., 1997.
+
   *Field Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*
+
   . Bookmark, Inc., the Philippines. 197 pp.
+
   - Huisman, John M. 2000.
+
   *Marine Plants of Australia*
+
   University of Western Australia Press. 300pp.
+
   - Trono, Gavino. C. Jr., 1997.
+
   *Field Guide and Atlas of the Seaweed Resources of the Philippines.*
+
   . Bookmark, Inc., the Philippines. 306 pp.
+
+  '
 location:
 - laz
 - sis
@@ -97,6 +105,9 @@ location:
 - smk
 - tsm
 - lfa
+size:
+- 8.0
+- 20.0
 ---
 
 ## Where seen?

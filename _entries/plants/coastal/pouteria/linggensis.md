@@ -16,24 +16,26 @@ updated: Aug 09
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/linggensis/030614cjd0270m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/linggensis/070422cjg8978m3.jpg"
-      caption: "Chek Jawa, Apr 07 Tiny flowers."
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/linggensis/070422cjg8979m3.jpg"
-      caption: "Chek Jawa, Apr 07 Fruits."
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/linggensis/011106cjd395m3.jpg"
-      caption: "Chek Jawa, Nov 01"
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/linggensis/070422cjg8978m3.jpg
+    caption: Chek Jawa, Apr 07 Tiny flowers.
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/linggensis/070422cjg8979m3.jpg
+    caption: Chek Jawa, Apr 07 Fruits.
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/linggensis/011106cjd395m3.jpg
+    caption: Chek Jawa, Nov 01
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/linggensis/091005cjd2284m3.jpg"
-      caption: "Chek Jawa, Oct 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/linggensis/091005cjd2284m3b.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/linggensis/091005cjd2284m3a.jpg"
-      caption: ""
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/linggensis/091005cjd2284m3.jpg
+    caption: Chek Jawa, Oct 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/linggensis/091005cjd2284m3b.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/linggensis/091005cjd2284m3a.jpg
+    caption: ''
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/linggensis/101009cjd1972m3.jpg"
-      caption: "Chek Jawa, Oct 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/linggensis/101009cjd1972m3a.jpg"
-      caption: ""
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/linggensis/101009cjd1972m3.jpg
+    caption: Chek Jawa, Oct 10
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/linggensis/101009cjd1972m3a.jpg
+    caption: ''
+size:
+- 500.0
 ---
 
 ## Where seen?

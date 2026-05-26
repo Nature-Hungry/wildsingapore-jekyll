@@ -1,10 +1,9 @@
 ---
 title: Stone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: stone, thunder, crab, myomenippe, hardwickii, eriphiidae, decapod, 
-  crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: stone, thunder, crab, myomenippe, hardwickii, eriphiidae, decapod, crustacea,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Menippidae
 genus: ''
@@ -26,31 +25,27 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Eriphioidea
 updated: Dec 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/hardwickii/050806skdg0458m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/hardwickii/050806skdg0458m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/hardwickii/050806skdg0458m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/hardwickii/050806skdg0458m3.jpg
     caption: With eggs Pulau Sekudu, Aug 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/hardwickii/060528bbd2348m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/hardwickii/060528bbd2348m3.jpg
     caption: Eating a jellyfish Beting Bronok, May 06
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/hardwickii/050110skdd9348m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/hardwickii/050110skdd9348m3.jpg
     caption: Stone crab
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/rumphii/120618tmnbd5423m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/rumphii/120618tmnbd5423m3.jpg
     caption: Maroon stone crab
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/hardwickii/050110skdd9348m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/hardwickii/050110skdd9348m3b.jpg
     caption: Green eyes ringed with red.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/rumphii/120618tmnbd5423m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/rumphii/120618tmnbd5423m3a.jpg
     caption: Eyes not green.
 location:
 - ''
+size:
+- 10.0
+- 12.0
 ---
 
 ## Where seen?

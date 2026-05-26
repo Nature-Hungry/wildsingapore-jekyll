@@ -1,27 +1,22 @@
 ---
 title: 'Blob ascidians (Ascidiacea) '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: blob, ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, 
-  chordate, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: blob, ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 updated: Nov 2019
 phylum: Chordata
 subphylum: Tunicata
 class: Ascidiacea
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/ascidiacea/blob/091203ubnd4985m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/blob/091203ubnd4985m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/ascidiacea/blob/091203ubnd4985m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/blob/091203ubnd4985m3.jpg
     caption: Pulau Ubin, Dec 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/ascidiacea/blob/060516chgd2023m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/blob/060516chgd2023m3.jpg
     caption: Changi, May 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/ascidiacea/blob/120604pgld3538m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/blob/120604pgld3538m6l.jpg
     caption: Punggol, Jun 12
 location:
 - pgl
@@ -33,6 +28,9 @@ location:
 - snt
 - cyr
 - hnt
+size:
+- 5.0
+- 10.0
 ---
 
 ## Where seen?

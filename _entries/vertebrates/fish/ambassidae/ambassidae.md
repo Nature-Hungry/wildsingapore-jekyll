@@ -21,42 +21,66 @@ updated: Sep 2020
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/050410kusg4216m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "if you learn only 3 things about them ... The fish is almost transparent, like glass. Look carefully. Large eyes and upturned mouths. Sometimes stranded in pools at low tide. Watch your step!"
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "The fish is almost transparent, like glass. Look carefully. Large eyes and upturned mouths. Sometimes stranded in pools at low tide. Watch your step!"
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... The fish is almost transparent,
+      like glass. Look carefully. Large eyes and upturned mouths. Sometimes stranded
+      in pools at low tide. Watch your step!
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: The fish is almost transparent, like glass. Look carefully. Large eyes
+      and upturned mouths. Sometimes stranded in pools at low tide. Watch your step!
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/050410kusg4216m6l.jpg"
-      caption: "Kops' glass perchelet (Ambassis kopsii ) Dorsal fin deeply notched, with blackish tip. Kusu Island, Apr 05"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/040828skdd5497m3.jpg"
-      caption: "Pulau Sekudu, Aug 04"
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/050410kusg4216m6l.jpg
+    caption: Kops' glass perchelet (Ambassis kopsii ) Dorsal fin deeply notched, with
+      blackish tip. Kusu Island, Apr 05
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/040828skdd5497m3.jpg
+    caption: Pulau Sekudu, Aug 04
   gallery3:
-    - url: "https://live.staticflickr.com/4567/37781483284_ce1cea629d_z.jpg"
-      caption: "Often seen in large schools. Sungei Buloh Wetland Reserve, Nov 17"
+  - url: https://live.staticflickr.com/4567/37781483284_ce1cea629d_z.jpg
+    caption: Often seen in large schools. Sungei Buloh Wetland Reserve, Nov 17
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/160208smkshpy5.jpg"
-      caption: "Pulau Semakau South, Feb 16 Photo shared by Heng Pei Yan on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/171010blymn2.jpg"
-      caption: "Berlayar Creek, Oct 17 Photo shared by Marcus Ng on facebook ."
-links_references: |
-  **Links**
-  - [Kops' Glass Perchlet (
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/160208smkshpy5.jpg
+    caption: Pulau Semakau South, Feb 16 Photo shared by Heng Pei Yan on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/171010blymn2.jpg
+    caption: Berlayar Creek, Oct 17 Photo shared by Marcus Ng on facebook .
+links_references: '**Links**
+
+  - [Kops'' Glass Perchlet (
+
   *Ambassis kopsii*
+
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/263)
+
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
+
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
+
   . Singapore Science Centre. 163 pp.
+
   - [Freckled hawkfish (
+
   *Ambassis kopsii*
+
   )](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=5982)
+
   from
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheet.
-  
+
+
   **References**
+
   - Wee Y.C. and Peter K. L. Ng. 1994.
+
   *A First Look at Biodiversity in Singapore*
+
   . National Council on the Environment. 163pp.
+
+  '
+size:
+- 10.0
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

@@ -21,72 +21,110 @@ updated: Sep 2020
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/030717skdd0039m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: if you learn only 3 things about them ... They are related to sharks and have cartilage instead of bones. They give birth to live young. They will not sting unless you step on them. Watch your step!
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: They are related to sharks and have cartilage instead of bones. They give birth to live young. They will not sting unless you step on them. Watch your step!
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... They are related to sharks
+      and have cartilage instead of bones. They give birth to live young. They will
+      not sting unless you step on them. Watch your step!
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: They are related to sharks and have cartilage instead of bones. They
+      give birth to live young. They will not sting unless you step on them. Watch
+      your step!
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/030717skdd0039m6l.jpg"
-      caption: "Swimming with undulations of the enlarged pectoral fins. Pulau Sekudu, May 04"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/040509skddd0030m3.jpg"
-      caption: "Underside. Pulau Sekudu, May 04"
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/030717skdd0039m6l.jpg
+    caption: Swimming with undulations of the enlarged pectoral fins. Pulau Sekudu,
+      May 04
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/040509skddd0030m3.jpg
+    caption: Underside. Pulau Sekudu, May 04
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/narcinidae/narcine/090622cftd4655m6l.jpg"
-      caption: "Cute but shocking: the Electric ray. Changi, Jun 05"
-    - url: "http://www.wildsingapore.com/wildfacts/narcinidae/narcine/090622cftd4655m3a.jpg"
-      caption: Gill openings behind the eyes.
+  - url: http://www.wildsingapore.com/wildfacts/narcinidae/narcine/090622cftd4655m6l.jpg
+    caption: 'Cute but shocking: the Electric ray. Changi, Jun 05'
+  - url: http://www.wildsingapore.com/wildfacts/narcinidae/narcine/090622cftd4655m3a.jpg
+    caption: Gill openings behind the eyes.
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080802sjid8875.jpg"
-      caption: "A commonly encountered stingray. St. John's Island, Aug 08"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080802sjid8875m3.jpg"
-      caption: Spine near the end of the tail.
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080802sjid8875.jpg
+    caption: A commonly encountered stingray. St. John's Island, Aug 08
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080802sjid8875m3.jpg
+    caption: Spine near the end of the tail.
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080802sjid8804m3.jpg"
-      caption: Blue-spotted fantail ray
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/110520chgd2528.jpg"
-      caption: Mangrove whipray
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/kuhlii/071226chgd8385m3.jpg"
-      caption: Blue-spotted stingray
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080802sjid8804m3.jpg
+    caption: Blue-spotted fantail ray
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/110520chgd2528.jpg
+    caption: Mangrove whipray
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/kuhlii/071226chgd8385m3.jpg
+    caption: Blue-spotted stingray
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m3.jpg"
-      caption: Honeycomb whipray
-    - url: "http://www.wildsingapore.com/wildfacts/narcinidae/narcine/090622cftd4655m3.jpg"
-      caption: Numbfish
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m3.jpg
+    caption: Honeycomb whipray
+  - url: http://www.wildsingapore.com/wildfacts/narcinidae/narcine/090622cftd4655m3.jpg
+    caption: Numbfish
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/myliobatidae/narinari/110506tmftd0849m6l.jpg"
-      caption: Spotted eagle ray
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/myliobatidae/narinari/110506tmftd0849m6l.jpg
+    caption: Spotted eagle ray
+links_references: '**Links**
+
   - Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
+
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
+
   . Singapore Science Centre. 163 pp.
+
   - [Order Rajiformes](http://www.fishbase.org/Summary/OrdersSummary.cfm?order=Rajiformes)
+
   on
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheet on the order, including fact sheets on individual species.
-  
+
+
   **References**
+
   - Tan Heok Hui & Kelvin K. P. Lim.
-  *Spot-tail sleeper-ray, Narke dipterygia (Chondrichthyes: Narkidae) in the Singapore Straits*
-  . 25 July 2014. Singapore Biodiversity Records 2014: 199-200 ISSN 2345-7597. National University of Singapore.
+
+  *Spot-tail sleeper-ray, Narke dipterygia (Chondrichthyes: Narkidae) in the Singapore
+  Straits*
+
+  . 25 July 2014. Singapore Biodiversity Records 2014: 199-200 ISSN 2345-7597. National
+  University of Singapore.
+
   - Wee Y.C. and Peter K. L. Ng. 1994.
+
   *A First Look at Biodiversity in Singapore*
+
   . National Council on the Environment. 163pp.
+
   - Ng, P. K. L. & Y. C. Wee, 1994.
+
   *The Singapore Red Data Book: Threatened Plants and Animals of Singapore*
+
   . The Nature Society (Singapore), Singapore. 343 pp.
+
   - Allen, Gerry, 2000.
+
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
+
   . Periplus Editions. 292 pp.
+
   - Kuiter, Rudie H. 2002.
+
   *Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers & Fishermen*
+
   New Holland Publishers. 434pp.
+
   - Lieske, Ewald and Robert Myers. 2001.
+
   *Coral Reef Fishes of the World*
+
   Periplus Editions. 400pp.
+
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
+
   *Rhythm of the Sea: The Life and Times of Labrador Beach*
-  . Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+
+  . Division of Biology, School of Science, Nanyang Technological University & Department
+  of Zoology, the National University of Singapore. 160 pp.
+
+  '
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

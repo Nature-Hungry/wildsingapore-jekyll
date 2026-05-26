@@ -1,10 +1,9 @@
 ---
 title: Mangrove shield bugs
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: mangrove, shield, bug, calliphara, nobilis, pentatomidae, insect, 
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
-  facts, fact sheet, info
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: mangrove, shield, bug, calliphara, nobilis, pentatomidae, insect, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info
 layout: entry
 family: Pentatomidae
 genus: Calliphara
@@ -24,41 +23,46 @@ superfamily: Pentatomoidea
 subfamily: Scutellerinae
 tribe: Scutellerini
 updated: Nov 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/insecta/calliphara/030823sbwrcd0018m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/insecta/calliphara/030823sbwrcd0018m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/insecta/calliphara/030823sbwrcd0018m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/insecta/calliphara/030823sbwrcd0018m3.jpg
     caption: Adult. Sungei Buloh Wetland Reserve, Aug 03
-  - url: 
-      http://www.wildsingapore.com/wildfacts/insecta/calliphara/040110sbwrd0045m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/insecta/calliphara/040110sbwrd0045m3.jpg
     caption: Juvenile. Sungei Buloh Wetland Reserve, Jan 04
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/insecta/calliphara/030531sbwrd0020m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/insecta/calliphara/030531sbwrd0020m3.jpg
     caption: A group of adults. Sungei Buloh Wetland Reserve, May 03
-  - url: 
-      http://www.wildsingapore.com/wildfacts/insecta/calliphara/040108ubnd0013m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/insecta/calliphara/040108ubnd0013m3a.jpg
     caption: Juveniles on Buta buta fruits. Pulau Ubin, Jan 04
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/insecta/calliphara/251231prprqo5.jpg
+  - url: http://www.wildsingapore.com/wildfacts/insecta/calliphara/251231prprqo5.jpg
     caption: Pasir Ris Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Shield/Stink bug (
+
   *Calliphara nobilis*
+
   )](http://mangrove.nus.edu.sg/guidebooks/text/2012)
+
   Ng, Peter K. L. & N. Sivasothi, 1999.
+
   *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)
+
   II (Animal Diversity)*
+
   . Singapore Science Centre. 168 pp.
+
+  '
 location:
 - lck
 - sbw
 - prp
 - ubn
+size:
+- 1.0
+- 1.5
 ---
 
 ## Where seen?

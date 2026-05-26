@@ -1,10 +1,8 @@
 ---
 title: 'Razor clams '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: razor, clam, shell, solenidae, bivalve, mollusc, field, guide, 
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: razor, clam, shell, solenidae, bivalve, mollusc, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Solenidae
 genus: ''
@@ -22,50 +20,58 @@ superorder: Imparidentia
 order: Adapedonta
 superfamily: Solenoidea
 updated: May 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/solenidae/solenidae/040120cjd0014m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/solenidae/solenidae/040120cjd0014m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... On one end is the long 
-      siphon, and the other a strong muscular foot. The thin flexible shell 
-      allows it to slip easily into the sand. They are rapid burrowers. Let's 
-      put this one down and see how fast it can burrow.
+    caption: if you learn only 3 things about them ... On one end is the long siphon,
+      and the other a strong muscular foot. The thin flexible shell allows it to slip
+      easily into the sand. They are rapid burrowers. Let's put this one down and
+      see how fast it can burrow.
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: On one end is the long siphon, and the other a strong muscular 
-      foot. The thin flexible shell allows it to slip easily into the sand. They
-      are rapid burrowers. Let's put this one down and see how fast it can 
-      burrow.
+    caption: On one end is the long siphon, and the other a strong muscular foot.
+      The thin flexible shell allows it to slip easily into the sand. They are rapid
+      burrowers. Let's put this one down and see how fast it can burrow.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/solenidae/solenidae/040120cjd0014m3.jpg
-    caption: Razor clam ( Solen brevisiima ) Foot burrowing in (left) and siphon
-      extended (right). Chek Jawa, Jan 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/solenidae/solenidae/120703chgd6621m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/solenidae/solenidae/040120cjd0014m3.jpg
+    caption: Razor clam ( Solen brevisiima ) Foot burrowing in (left) and siphon extended
+      (right). Chek Jawa, Jan 04
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/solenidae/solenidae/120703chgd6621m3.jpg
     caption: Siphon of a large buried razor clam Changi, Jul 11
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/solenidae/solenidae/111227prpd5118m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/solenidae/solenidae/111227prpd5118m6l.jpg
     caption: Bulbous tip of the muscular foot. Pasir Ris, Dec 11
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/solenidae/solenidae/091230prpjk1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/solenidae/solenidae/091230prpjk1m3.jpg
     caption: Pasir Ris Park, Dec 09 Photo shared by James Koh on his blog .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Family Solenidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Bivalvia/Solenacea.html)
+
   on
+
   [The Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html)
-  at Washington State University Tri-Cities Natural History Museum website: brief description and photos.
-  - Family Solenidae in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+
+  at Washington State University Tri-Cities Natural History Museum website: brief
+  description and photos.
+
+  - Family Solenidae in the Bivalves section by J.M. Poutiers in the FAO Species Identification
+  Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
+
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
+
   **References**
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
+  '
 location:
 - prp
 - chg

@@ -1,10 +1,8 @@
 ---
 title: Stingrays
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: sting, ray, stingray, fish, dasyatidae, rajiformes, field, guide, 
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: sting, ray, stingray, fish, dasyatidae, rajiformes, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Dasyatidae
 genus: ''
@@ -20,137 +18,188 @@ subclass: Elasmobranchii
 infraclass: Batoidea
 order: Myliobatiformes
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/030717skdd0039m6l.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/030717skdd0039m6l.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They are related to 
-      sharks and have cartilage instead of bones. They swim by undulating 
-      greatly enlarged pectoral fins. They will not sting unless you handle them
-      or step on them. Watch your step!
+    caption: if you learn only 3 things about them ... They are related to sharks
+      and have cartilage instead of bones. They swim by undulating greatly enlarged
+      pectoral fins. They will not sting unless you handle them or step on them. Watch
+      your step!
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They are related to sharks and have cartilage instead of bones. 
-      They swim by undulating greatly enlarged pectoral fins. They will not 
-      sting unless you handle them or step on them. Watch your step!
+    caption: They are related to sharks and have cartilage instead of bones. They
+      swim by undulating greatly enlarged pectoral fins. They will not sting unless
+      you handle them or step on them. Watch your step!
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/030717skdd0039m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/030717skdd0039m6l.jpg
     caption: Swimming. Pulau Sekudu, May 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/040509skddd0030m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/040509skddd0030m3.jpg
     caption: Underside. Pulau Sekudu, May 04
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080802sjid8875.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080802sjid8875.jpg
     caption: St. John's Island, Aug 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080802sjid8875m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080802sjid8875m3.jpg
     caption: Spine near the end of the tail.
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/100502tryd2314m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/100502tryd2314m6l.jpg
     caption: Hard to spot under rippling water. Terumbu Raya, May 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/070728sisd4474m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/070728sisd4474m3a.jpg
     caption: May be half buried in sand. Sisters Island, Jul 07
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/020501cjd8899m3.jpg
-    caption: "'Craters' left behind by feeding stingrays? Chek Jawa, May 02"
-  - url: 
-      http://www.wildsingapore.com/wildfacts/selachii/selachii/080524sntd4108m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/020501cjd8899m3.jpg
+    caption: '''Craters'' left behind by feeding stingrays? Chek Jawa, May 02'
+  - url: http://www.wildsingapore.com/wildfacts/selachii/selachii/080524sntd4108m3.jpg
     caption: An egg case laid by a shark or a ray. Sentosa, Jun 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/110705chgL1060451.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/110705chgL1060451.jpg
     caption: Often seen trapped in fishing nets. Changi, Jul 11
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080802sjid8804m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080802sjid8804m3.jpg
     caption: Blue-spotted fantail ray
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/110520chgd2528.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/110520chgd2528.jpg
     caption: Mangrove whipray
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/kuhlii/071226chgd8385m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/kuhlii/071226chgd8385m3.jpg
     caption: Blue-spotted stingray
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m3.jpg
     caption: Honeycomb whipray
   gallery8:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/220618tmftlks2.jpg
-    caption: Whitespotted whipray ( Himantura gerrardi ) Tanah Merah Ferry 
-      Terminal, Jun 22 Photo shared by Loh Kok Sheng on facebook .
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/220618tmftlks2.jpg
+    caption: Whitespotted whipray ( Himantura gerrardi ) Tanah Merah Ferry Terminal,
+      Jun 22 Photo shared by Loh Kok Sheng on facebook .
+links_references: '**Links**
+
   - Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
+
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
+
   . Singapore Science Centre. 163 pp.
+
   - [Family Dasyatidae (Stingrays)](http://www.fishbase.org/Summary/FamilySummary.cfm?id=20)
+
   and
+
   [*Himantura bleekeri*
-  (Bleeker's whipray)](http://www.fishbase.org/summary/13148)
+
+  (Bleeker''s whipray)](http://www.fishbase.org/summary/13148)
+
   and
+
   [*Himantura gerrardi*
+
   (Sharpnose stingray)](http://www.fishbase.org/summary/15483)
+
   and
+
   [*Neotrygon kuhlii*
+
   (Blue-spotted stingray)](http://www.fishbase.org/summary/4508)
+
   and
+
   [*Dasyatis pastinaca*
+
   (Common stingray)](http://www.fishbase.org/summary/2060)
+
   and
+
   [*Dasyatis zugei*
+
   (Pale-edged stingray)](http://www.fishbase.org/summary/8205)
+
   and
+
   [*Pastinachus sephen*
+
   (Cowtail stingray)](http://www.fishbase.org/summary/8203)
+
   and
+
   [*Himantura undulata*
+
   (Leopard whipray)](http://www.fishbase.org/summary/12584)
+
   and
+
   [*Himantura walga*
+
   (Dwarf whipray)](http://www.fishbase.org/summary/15484)
+
   and
+
   [*Taeniura lymma*
+
   (Ribbontail stingray)](http://www.fishbase.org/summary/5399)
+
   on
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheet on the order, including fact sheets on individual species.
+
   - [Volume 3: Batoid fishes, chimaeras and bony fishes part 1 (Elopidae to Linophrynidae)](http://www.fao.org/docrep/009/x2401e/x2401e00)
-  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
+
+  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources
+  of the Western Central Pacific.
+
   - [13 questions answered after I got stung by a stingray](https://theceruleansea.wordpress.com/2022/01/06/13-questions-answered-after-i-got-stung-by-a-stingray/)
+
   by Crystle Wee
+
   - From the wild shores of singapore blog
+
   - [Savvy stingrays use tools](http://wildshores.blogspot.com/2010/01/savvy-stingrays-use-tools.html)
 
+
   **References**
+
   - Philip Lim & Koh Kwan Siong. 18 December 2015.
+
   *Eastern cowtail stingray in eastern Johor Strait*
+
   . Singapore Biodiversity Records 2015: 208
+
   - Marcus F. C. Ng. 18 September 2015.
+
   *Juvenile mangrove whip-ray at Pulau Hantu*
+
   . Singapore Biodiversity Records 2015: 128.
+
   - Toh Chay Hoon and Kelvin K. P. Lim. 31 Oct 2013.
+
   *Mangrove whip-ray (Himantura granulata) at Semakau reef : a new record for Singapore*
+
   . Singapore Biodiversity Records 2013: 46.
+
   - Allen, Gerry, 2000.
+
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
+
   . Periplus Editions. 292 pp.
+
   - Kuiter, Rudie H. 2002.
+
   *Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers & Fishermen*
+
   New Holland Publishers. 434pp.
+
   - Lieske, Ewald and Robert Myers. 2001.
+
   *Coral Reef Fishes of the World*
+
   Periplus Editions. 400pp.
+
   - Wee Y.C. and Peter K. L. Ng. 1994.
+
   *A First Look at Biodiversity in Singapore*
+
   . National Council on the Environment. 163pp.
+
+  '
 location:
 - cj
 - skd
+size:
+- 400.0
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

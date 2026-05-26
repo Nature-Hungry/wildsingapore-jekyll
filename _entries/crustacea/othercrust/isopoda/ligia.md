@@ -1,10 +1,8 @@
 ---
 title: 'Sea slaters '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: seaslater, slater, ligia, ligiidae, isopod, crustacea,  field, guide, 
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
-  sheet, info
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: seaslater, slater, ligia, ligiidae, isopod, crustacea,  field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry
 family: Ligiidae
 genus: Ligia
@@ -23,76 +21,56 @@ order: Isopoda
 suborder: Oniscidea
 infraorder: Diplocheta
 updated: Mar 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/060627krjd3707m3a.jpg
-links_references: |
-  **Links**
-  - [Order
-    Isopoda](http://mangrove.nus.edu.sg/pub/seashore/text/177) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-    Singapore. 160 pp.
-  - [Mangrove
-    sea slater (*Ligia hawaiiensis*)](http://mangrove.nus.edu.sg/guidebooks/text/2034) Ng, Peter K. L. & N.
-    Sivasothi, 1999. *[A
-    Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.
-    Singapore Science Centre. 168 pp.
-  - [*Ligia exotica*](https://singapore.biodiversity.online/taxo4254/mainSpace/Ligia%20exotical) (Isopoda: Ligiidae) Sea slater by Tan Yen Yi, 2016, on taxo4254.
-  - [Isopods
-    and amphipods](http://www.mesa.edu.au/friends/seashores/isopods_amphipodsl) and [Marine
-    slater](http://www.mesa.edu.au/friends/seashores/l_australiensisl) on the [Life
-    on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1l) by Keith Davey on the Marine Education
-    Society of Australia website: Fact sheet, diagrams.
-  - *[Ligia
-    exotica](http://www.sms.si.edu/irlspec/Ligia_exotica)* by
-    J. Masterson on Smithsonian Marine Station at Fort Pierce.
-
-  **References**
-  - Edward E.
-    Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/060627krjd3707m3a.jpg
+links_references: "**Links**\n- [Order\n  Isopoda](http://mangrove.nus.edu.sg/pub/seashore/text/177)\
+  \ Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A\n  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
+  \ The Singapore Science Centre,\n  Singapore. 160 pp.\n- [Mangrove\n  sea slater\
+  \ (*Ligia hawaiiensis*)](http://mangrove.nus.edu.sg/guidebooks/text/2034) Ng, Peter\
+  \ K. L. & N.\n  Sivasothi, 1999. *[A\n  Guide to the Mangroves of Singapore II (Animal\
+  \ Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.\n  Singapore Science Centre.\
+  \ 168 pp.\n- [*Ligia exotica*](https://singapore.biodiversity.online/taxo4254/mainSpace/Ligia%20exotical)\
+  \ (Isopoda: Ligiidae) Sea slater by Tan Yen Yi, 2016, on taxo4254.\n- [Isopods\n\
+  \  and amphipods](http://www.mesa.edu.au/friends/seashores/isopods_amphipodsl) and\
+  \ [Marine\n  slater](http://www.mesa.edu.au/friends/seashores/l_australiensisl)\
+  \ on the [Life\n  on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1l)\
+  \ by Keith Davey on the Marine Education\n  Society of Australia website: Fact sheet,\
+  \ diagrams.\n- *[Ligia\n  exotica](http://www.sms.si.edu/irlspec/Ligia_exotica)*\
+  \ by\n  J. Masterson on Smithsonian Marine Station at Fort Pierce.\n\n**References**\n\
+  - Edward E.\n  Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate\n"
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They are NOT insects! 
-      They are more like crabs. They have seven pairs of legs and move very 
-      quickly. They are scavengers.
+    caption: if you learn only 3 things about them ... They are NOT insects! They
+      are more like crabs. They have seven pairs of legs and move very quickly. They
+      are scavengers.
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They are NOT insects! They are more like crabs. They have seven 
-      pairs of legs and move very quickly. They are scavengers.
+    caption: They are NOT insects! They are more like crabs. They have seven pairs
+      of legs and move very quickly. They are scavengers.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/060627krjd3707m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/060627krjd3707m3a.jpg
     caption: Mating? Kranji, Jun 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/200706skd.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/200706skd.jpg
     caption: Just moulted. Empty skin on the left. Pulau Sekudu, Jul 20
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/090513labd1684m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/090513labd1684m3a.jpg
     caption: Body very flat. Labrador, May 09
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/041018sntd7584m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/041018sntd7584m3.jpg
     caption: Sentosa, Oct 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/050126cjd9795m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/050126cjd9795m3.jpg
     caption: Chek Jawa, Jan 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/090820ecpd9480m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/090820ecpd9480m3.jpg
     caption: Feeding on recently destroyed barnacles?
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/160125obsmn12.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/160125obsmn12.jpg
     caption: Pulau Ubin OBS, Jan 16 Photo shared by Marcus Ng on facebook .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/210822ssisvc3.jpg
-    caption: Small Sisters Island, Aug 21 Photo shared by Vincent Choo on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/090510hntmn.jpg
-    caption: Captured by a Purple climbing crab . Pulau Hantu May 09 Photo 
-      shared by Marcus Ng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/200822jngjc4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/210822ssisvc3.jpg
+    caption: Small Sisters Island, Aug 21 Photo shared by Vincent Choo on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/090510hntmn.jpg
+    caption: Captured by a Purple climbing crab . Pulau Hantu May 09 Photo shared
+      by Marcus Ng on flickr .
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/200822jngjc4.jpg
     caption: Pulau Jong, Aug 20 Photo shared by Joleen Chan on facebook .
   gallery6:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -128,6 +106,9 @@ location:
 - jng
 - hnt
 - smk
+size:
+- 2.0
+- 3.0
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

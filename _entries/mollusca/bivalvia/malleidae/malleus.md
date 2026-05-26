@@ -1,10 +1,8 @@
 ---
 title: 'Hammer oyster '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: hammer, oyster, malleus, malleidae, bivalve, mollusc, field, guide, 
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
-  sheet, info
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: hammer, oyster, malleus, malleidae, bivalve, mollusc, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry
 attributes:
 - 2
@@ -23,90 +21,94 @@ infraclass: Pteriomorphia
 order: Ostreida
 superfamily: Pterioidea
 updated: May 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/090625cyrd5536m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/090625cyrd5536m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/090625cyrd5536m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/090625cyrd5536m3.jpg
     caption: Sometimes seen lying on the ground. Cyrene Reef, Jul 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/120510chgd2926m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/120510chgd2926m3.jpg
     caption: Sometimes partially buried. Changi, May 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/090208smkd6647m3.jpg
-    caption: Spatula-shaped clams seen sticking out from among rubble and rocks.
-      Pulau Semakau, Feb 09
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/090208smkd6647m3.jpg
+    caption: Spatula-shaped clams seen sticking out from among rubble and rocks. Pulau
+      Semakau, Feb 09
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/111225tmskd4833m6l.jpg
-    caption: On the inside, a small depression at the hinge and area of 
-      mother-of-pearl is small relative to the shell length. Terumbu Semakau, 
-      Dec 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/160208smkso2080010m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/111225tmskd4833m6l.jpg
+    caption: On the inside, a small depression at the hinge and area of mother-of-pearl
+      is small relative to the shell length. Terumbu Semakau, Dec 11
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/160208smkso2080010m3.jpg
     caption: Stuck under a stone. Pulau Semakau, Feb 16
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/100612chglks5m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/100612chglks5m3.jpg
     caption: Changi, Jun 10 Photo shared by Loh Kok Sheng on his blog .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/241021ecppcnlll1.jpg
-    caption: East Coast (Sailing Centre), Oct 24 Photo shared by Low Liong Leong
-      on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/201215bsrpvc2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/241021ecppcnlll1.jpg
+    caption: East Coast (Sailing Centre), Oct 24 Photo shared by Low Liong Leong on
+      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/201215bsrpvc2.jpg
     caption: Sentosa Serapong, Dec 20 Photo shared by Vincent on facebook
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/201116lazlks4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/201116lazlks4.jpg
     caption: Lazarus Island, Nov 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/110203sjilks2m3.JPG
-    caption: St. John's Island, Feb 11 Photo shared by Loh Kok Sheng on his blog
-      .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/201115tkklks1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/110203sjilks2m3.JPG
+    caption: St. John's Island, Feb 11 Photo shared by Loh Kok Sheng on his blog .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/201115tkklks1.jpg
     caption: Pulau Tekukor, Nov 20 Photo shared by Loh Kok Sheng on facebook .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/200626tptky4.jpg
-    caption: Terumbu Pempang Tengah, Jun 20 Photo shared by Kelvin Yong on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/121115tsmklks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/200626tptky4.jpg
+    caption: Terumbu Pempang Tengah, Jun 20 Photo shared by Kelvin Yong on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/121115tsmklks.JPG
     caption: Terumbu Semakau, Nov 12 Photo shared by Loh Kok Sheng on flickr .
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/100131slud8785m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/100131slud8785m3.jpg
     caption: Terumbu Salu, Jan 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/210428sluvc1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/210428sluvc1.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Vincent Choo on facebok .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Malleus albus*](https://www.sealifebase.se/summary/Malleus-albus.html)
+
   (White hammer oyster),
+
   [*Malleus malleus*](https://www.sealifebase.se/summary/Malleus-malleus.html)
+
   (Black hammer oyster),
+
   [*Malleus regula*](https://www.sealifebase.se/summary/Malleus-regula.html)
+
   (Straight hammer oyster) on SeaLife Base.
+
   - [Hammer Oysters (Family Malleidae)](http://shells.tricity.wsu.edu/ArcherdShellCollection/Bivalvia/Malleidae.html)
+
   on the
+
   [The Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html)
+
   at Washington State University Tri-Cities Natural History Museum website.
-  - Family Malleidae in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+
+  - Family Malleidae in the Bivalves section by J.M. Poutiers in the FAO Species Identification
+  Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
+
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
+
   **References**
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Abbott, R. Tucker, 1991.
+
   *Seashells of South East Asia*
+
   . Graham Brash, Singapore. 145 pp.
+
+  '
 location:
 - chg
 - ecp
@@ -122,6 +124,9 @@ location:
 - smk
 - tsm
 - lfa
+size:
+- 8.0
+- 12.0
 ---
 
 ## Where seen?

@@ -1,10 +1,9 @@
 ---
 title: Orbicular cardinalfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: orbicular, cardinalfish, cardinal, fish,sphaeramia, apogon, 
-  orbicularis, apogonidae, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: orbicular, cardinalfish, cardinal, fish,sphaeramia, apogon, orbicularis,
+  apogonidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 25
@@ -25,39 +24,25 @@ order: Gobiiformes
 suborder: Apogonoidei
 subfamily: Apogoninae
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/orbicularis/040830hntd5831m3.jpg
-links_references: |
-  **Links**  
-  - [Orbicular
-    cardinalfish (*Sphaeramia orbicularis*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/279) Lim, Kelvin K.
-    P. & Jeffrey K. Y. Low, 1998. *[A
-    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-    Science Centre. 163 pp.
-  - [Orbiculate
-    cardinalfish (*Sphaeramia orbicularis*)](http://www.fishbase.org/Summary/SpeciesSummary.php?id=4926) from [FishBase](http://www.fishbase.org/):
-    Technical fact sheet.
-
-  **References**
-  - Allen, Gerry,
-    2000. *Marine
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/orbicularis/040830hntd5831m3.jpg
+links_references: "**Links**  \n- [Orbicular\n  cardinalfish (*Sphaeramia orbicularis*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/279)\
+  \ Lim, Kelvin K.\n  P. & Jeffrey K. Y. Low, 1998. *[A\n  Guide to the Common Marine\
+  \ Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore\n\
+  \  Science Centre. 163 pp.\n- [Orbiculate\n  cardinalfish (*Sphaeramia orbicularis*)](http://www.fishbase.org/Summary/SpeciesSummary.php?id=4926)\
+  \ from [FishBase](http://www.fishbase.org/):\n  Technical fact sheet.\n\n**References**\n\
+  - Allen, Gerry,\n  2000. *Marine\n"
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/orbicularis/040830hntd5831m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/orbicularis/040830hntd5831m3.jpg
     caption: Pulau Hantu, Aug 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/orbicularis/190520hntlks1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/orbicularis/190520hntlks1.jpg
     caption: Pulau Hantu, May 19 Photo shared by Loh Kok Sheng on facebook .
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/orbicularis/090510sntik3m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/orbicularis/090510sntik3m3.jpg
     caption: Siloso, May 09 Photo shared by Ivan Kwan on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/orbicularis/250714srptl1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/orbicularis/250714srptl1.jpg
     caption: Sentosa Serapong, Jul 25 Photo shared by Tammy Lim on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/orbicularis/240623hntlks7.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/orbicularis/240623hntlks7.jpg
     caption: Pulau Hantu, Jun 24 Shared by Loh Kok Sheng on facebook .
   gallery3:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -72,6 +57,9 @@ location:
 - tus
 - snt
 - hnt
+size:
+- 11.0
+- 6.0
 ---
 
 ## Where seen?

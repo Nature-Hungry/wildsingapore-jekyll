@@ -23,59 +23,60 @@ order: Rosales
 tribe: Ficeae
 updated: Feb 11
 coverimg: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091005cjd2233m6l.jpg
-links_references: |
-  **Links**
-  - [*Ficus
-    microcarpa*](http://floraofsingapore.wordpress.com/2010/07/29/memecylon-minutiflorum/) on Total Vascular Flora of Singapore Online:
-    photos and fact sheet.
-  
-  **References**
-  - Ng, Angie
-    et. al. 2005. *A guide to the fabulous figs of Singapore*.
-    Singapore Science Centre.152 pp.
-  - Hsuan Keng,
-    S.C. Chin and H. T. W. Tan. 1990, *[The
+links_references: "**Links**\n- [*Ficus\n  microcarpa*](http://floraofsingapore.wordpress.com/2010/07/29/memecylon-minutiflorum/)\
+  \ on Total Vascular Flora of Singapore Online:\n  photos and fact sheet.\n\n**References**\n\
+  - Ng, Angie\n  et. al. 2005. *A guide to the fabulous figs of Singapore*.\n  Singapore\
+  \ Science Centre.152 pp.\n- Hsuan Keng,\n  S.C. Chin and H. T. W. Tan. 1990, *[The\n"
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091031cjd3440m3.jpg"
-      caption: "Chek Jawa, Oct 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091005cjd2238m6l.jpg"
-      caption: "Chek Jawa, Oct 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091005cjd2236m6l.jpg"
-      caption: "Chek Jawa, Oct 09"
+  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091031cjd3440m3.jpg
+    caption: Chek Jawa, Oct 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091005cjd2238m6l.jpg
+    caption: Chek Jawa, Oct 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091005cjd2236m6l.jpg
+    caption: Chek Jawa, Oct 09
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091227kntd6471m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091227kntd6471m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091227kntd6471m3c.jpg"
-      caption: ""
+  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091227kntd6471m3.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091227kntd6471m3a.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091227kntd6471m3c.jpg
+    caption: ''
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/110220lazd6228m6l.jpg"
-      caption: "On a natural cliff Lazarus Island, Feb 11"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/110220lazd6233m3.jpg"
-      caption: "Lazarus Island, Feb 11"
+  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/110220lazd6228m6l.jpg
+    caption: On a natural cliff Lazarus Island, Feb 11
+  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/110220lazd6233m3.jpg
+    caption: Lazarus Island, Feb 11
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/110509snts01724m6.jpg"
-      caption: "On a natural cliff Sentosa, Apr 11"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/110509sntd1307m3.jpg"
-      caption: "Sentosa, Apr 11"
+  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/110509snts01724m6.jpg
+    caption: On a natural cliff Sentosa, Apr 11
+  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/110509sntd1307m3.jpg
+    caption: Sentosa, Apr 11
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/100314cjd9901m3.jpg"
-      caption: "Chek Jawa, Mar 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/100314cjd9936m3.jpg"
-      caption: "Chek Jawa, Mar 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/100314cjd9940m3.jpg"
-      caption: "Chek Jawa, Mar 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/100314cjd9907m3.jpg"
-      caption: "Chek Jawa, Mar 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/100314cjd9925m3.jpg"
-      caption: "Chek Jawa, Mar 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/100314cjd9947m3.jpg"
-      caption: "Chek Jawa, Mar 10"
+  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/100314cjd9901m3.jpg
+    caption: Chek Jawa, Mar 10
+  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/100314cjd9936m3.jpg
+    caption: Chek Jawa, Mar 10
+  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/100314cjd9940m3.jpg
+    caption: Chek Jawa, Mar 10
+  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/100314cjd9907m3.jpg
+    caption: Chek Jawa, Mar 10
+  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/100314cjd9925m3.jpg
+    caption: Chek Jawa, Mar 10
+  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/100314cjd9947m3.jpg
+    caption: Chek Jawa, Mar 10
   gallery6:
-    - url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
-      caption: "Links Ficus microcarpa on Total Vascular Flora of Singapore Online: photos and fact sheet. References Ng, Angie et. al. 2005. A guide to the fabulous figs of Singapore . Singapore Science Centre.152 pp. Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University Press. 222 pp. Corners, E. J. H., 1997. Wayside Trees of Malaya: in two volumes . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444."
+  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
+    caption: 'Links Ficus microcarpa on Total Vascular Flora of Singapore Online:
+      photos and fact sheet. References Ng, Angie et. al. 2005. A guide to the fabulous
+      figs of Singapore . Singapore Science Centre.152 pp. Hsuan Keng, S.C. Chin and
+      H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons
+      . Singapore University Press. 222 pp. Corners, E. J. H., 1997. Wayside Trees
+      of Malaya: in two volumes . Fourth edition, Malayan Nature Society, Kuala Lumpur.
+      Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236. Burkill,
+      I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula .
+      3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
+      Volume 1: 1-1240; volume 2: 1241-2444.'
 ---
 
 ## Where seen?

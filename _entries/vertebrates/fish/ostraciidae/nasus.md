@@ -1,10 +1,9 @@
 ---
 title: 'Shortnose boxfish '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: short, nose, shortnose, boxfish, box, fish, rhynchostracion, 
-  ostracion, rhynchostracion, nasus, ostraciidae, field, guide, seashore, sea, 
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: short, nose, shortnose, boxfish, box, fish, rhynchostracion, ostracion,
+  rhynchostracion, nasus, ostraciidae, field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 11
@@ -24,62 +23,76 @@ superorder: Acanthomorpha
 order: Tetraodontiformes
 suborder: Balistoidei
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/nasus/090625cyrd5612m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/nasus/090625cyrd5612m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/nasus/090625cyrd5612m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/nasus/090625cyrd5612m3.jpg
     caption: Cyrene Reef, Jun 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/nasus/090625cyrd5620m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/nasus/090625cyrd5620m6l.jpg
     caption: Cyrene Reef, Jun 09
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/nasus/160607bbjll2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/nasus/160607bbjll2.jpg
     caption: Beting Bronok, Jun 16 Photo shared by Jianlin Liu on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/nasus/190704bbjll1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/nasus/190704bbjll1.jpg
     caption: Beting Bronok, Jul 19 Photo shared by Jianlin Liu on facebook .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/nasus/140615skdmn2m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/nasus/140615skdmn2m3.jpg
     caption: Pulau Sekudu, Jun 14
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/nasus/140615skdmn2m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/nasus/140615skdmn2m6l.jpg
     caption: Pulau Sekudu, Jun 14 Photo shared by Marcus Ng on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/nasus/220714chgky1.jpg
-    caption: Changi Fairy Point, Jul 22 Photo shared by Kelvin Yong on facebook 
-      .
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/nasus/220714chgky1.jpg
+    caption: Changi Fairy Point, Jul 22 Photo shared by Kelvin Yong on facebook .
+links_references: '**Links**
+
   - [Shortnose boxfish (
+
   *Rhynchostracion nasus*
+
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/399)
+
   Lim, Kelvin and Jeffrey K Y Low,
+
   *[Guide to Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
+
   . Singapore Science Centre.
+
   - [Shortnose boxfish (
+
   *Ostracion nasus*
+
   )](http://www.fishbase.org/Summary/SpeciesSummary.php?id=8192)
+
   from
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheet.
 
+
   **References**
+
   - Tan Heok Hui . 30 November 2016.
+
   *Sexual dimorphism in shortnose boxfish sold for food*
+
   . Singapore Biodiversity Records 2016: 169-170.
+
   - Allen, Gerry, 2000.
+
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
+
   . Periplus Editions. 292 pp.
+
+  '
 location:
 - chg
 - skd
 - bb
 - cyr
+size:
+- 30.0
+- 10.0
 ---
 
 ## Where seen?

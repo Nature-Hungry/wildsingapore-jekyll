@@ -1,10 +1,8 @@
 ---
 title: Smallhead dragonet
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: dragonet, fish, callionymidae, callionymus, erythraeus, field, guide, 
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: dragonet, fish, callionymidae, callionymus, erythraeus, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 9
@@ -25,57 +23,64 @@ superorder: Acanthomorpha
 order: Syngnathiformes
 suborder: Callionymoidei
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/090709chgd6825m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/090709chgd6825m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/090709chgd6825m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/090709chgd6825m3.jpg
     caption: Changi, Jul 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/090709chgd6828m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/090709chgd6828m6l.jpg
     caption: Male. Changi, Jun 13
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/110519chgd2047m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/110519chgd2047m6l.jpg
     caption: Male. Changi, Jun 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/091020chgd2942m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/091020chgd2942m3a.jpg
     caption: Underside of a dead specimen. Tanah Merah, Oct 09
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/200622chgdc1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/200622chgdc1.jpg
     caption: Changi, Jun 20 Photo shared by Dayna Cheah on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/120801chgmn.jpg
-    caption: Tiny, about 1cm. Changi, Aug 12 Photo shared by Marcus Ng on flickr
-      .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/120801chgmn.jpg
+    caption: Tiny, about 1cm. Changi, Aug 12 Photo shared by Marcus Ng on flickr .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/230607chgemn1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/230607chgemn1.jpg
     caption: Changi East, Jun 23 Photo shared by Marcus Ng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/180812nsrtlks7.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/180812nsrtlks7.jpg
     caption: East Coast Park, Aug 18 Photo shared by Loh Kok Sheng on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Smallhead dragonet (
+
   *Callionymus erythraeus*
+
   )](http://www.fishbase.us/summary/Callionymus-erythraeus.html)
+
   **
+
   from
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheet.
+
   - [Dragonets](http://www.ecologyasia.com/verts/fishes/dragonets)
+
   on Ecology Asia: Fact sheet with photos.
 
+
   **References**
+
   - Ng, H. H., 2012.
+
   *The dragonets of Singapore (Actinopterygii: Perciformes: Callionymidae)*
+
   . Nature in Singapore, 5: 27-38. [PDF, 1.55 MB]
+
+  '
 location:
 - chg
 - ecp
+size:
+- 5.0
+- 10.0
 ---
 
 ## Where seen?

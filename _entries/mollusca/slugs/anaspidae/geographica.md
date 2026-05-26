@@ -1,11 +1,9 @@
 ---
 title: Geographic sea hare
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: geographic, seahare, hare, syphonota, paraplysia, geographica, 
-  aplysiidae, anaspidea, opisthobranch, gastropod, mollusc, field, guide, 
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: geographic, seahare, hare, syphonota, paraplysia, geographica, aplysiidae,
+  anaspidea, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Aplysiidae
 genus: Syphonota
@@ -22,85 +20,61 @@ subterclass: Tectipleura
 order: Aplysiida
 superfamily: Aplysioidea
 updated: May 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/050608cftg7393m3.jpg
-links_references: |
-  **Links**
-  - [Sea
-    Slug Forum](http://www.seaslugforum.net/welcome.htm) by Dr Bill Rudman: all about sea hares, nudibranchs
-    and other sea slugs; including details [*Syphonota
-    geographica*](http://www.seaslugforum.net/factsheet.cfm?base=syphgeog) including [one
-    from Changi](http://www.seaslugforum.net/find.cfm?id=9109) and [purple
-    ink](http://www.seaslugforum.net/factsheet.cfm?base=seahatac) produced by sea hares
-  - [The
-    Slug Site:](http://slugsite.us/) photo and fact sheet on the Branch of the Week
-     *[Syphonota geographica](http://slugsite.us/bow/nudwk425.htm)*
-
-  **References**
-  - Tan Siong
-    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-    Checklist of The Molluscs of Singapore* (pdf), Raffles
-    Museum of Biodiversity Research, National University of Singapore.
-  - Coleman,
-    Neville. 2001. *1001
-    Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
-    Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
-  - Humann, Paul
-    and Ned Deloach. 2010. *Reef
-    Creature Identification: Tropical Pacific* New World Publications.
-    497pp.
-  - Gosliner,
-    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/050608cftg7393m3.jpg
+links_references: "**Links**\n- [Sea\n  Slug Forum](http://www.seaslugforum.net/welcome.htm)\
+  \ by Dr Bill Rudman: all about sea hares, nudibranchs\n  and other sea slugs; including\
+  \ details [*Syphonota\n  geographica*](http://www.seaslugforum.net/factsheet.cfm?base=syphgeog)\
+  \ including [one\n  from Changi](http://www.seaslugforum.net/find.cfm?id=9109) and\
+  \ [purple\n  ink](http://www.seaslugforum.net/factsheet.cfm?base=seahatac) produced\
+  \ by sea hares\n- [The\n  Slug Site:](http://slugsite.us/) photo and fact sheet\
+  \ on the Branch of the Week\n   *[Syphonota geographica](http://slugsite.us/bow/nudwk425.htm)*\n\
+  \n**References**\n- Tan Siong\n  Kiat and Henrietta P. M. Woo, 2010 *Preliminary\n\
+  \  Checklist of The Molluscs of Singapore* (pdf), Raffles\n  Museum of Biodiversity\
+  \ Research, National University of Singapore.\n- Coleman,\n  Neville. 2001. *1001\n\
+  \  Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville\n  Coleman's Underwater\
+  \ Geographic Pty Ltd, Australia.144pp.\n- Humann, Paul\n  and Ned Deloach. 2010.\
+  \ *Reef\n  Creature Identification: Tropical Pacific* New World Publications.\n\
+  \  497pp.\n- Gosliner,\n  Terrence M., David W. Behrens and Gary C. Williams. 1996.\
+  \ *Coral\n  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii\n"
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/050608cftg7393m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/050608cftg7393m3.jpg
     caption: Changi, Jun 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/050608cftg7393m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/050608cftg7393m3a.jpg
     caption: Tiny rhinophores near one another, held between parapodia.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/070614chgd2152m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/070614chgd2152m3.jpg
     caption: Thin internal shell. Changi, Jun 07
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/050622cftd4094m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/050622cftd4094m3.jpg
     caption: Laying egg string Changi, Jun 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/120410chgd9081m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/120410chgd9081m3.jpg
     caption: Half buried in soft sediment. Changi, Apr 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/111124cyrs00191m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/111124cyrs00191m3.jpg
     caption: Swimming sea hare! Cyrene Reef, Nov 11
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/160510ecpbsyj2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/160510ecpbsyj2.jpg
     caption: East Coast Park, May 16 Photo shared by Ywee Chieh on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/150320tuslks2m3.JPG
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/150320tuslks2m3.JPG
     caption: Tuas, Mar 15 Photo shared by Loh Kok Sheng on his blog .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/110830cyrnml1m3.JPG
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/110830cyrnml1m3.JPG
     caption: Cyrene Reef, Aug 11 Photo shared by Neo Mei Lin on her blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/200627cyrlks2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/200627cyrlks2.jpg
     caption: Cyrene, Jun 20 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: "Links Sea Slug Forum by Dr Bill Rudman: all about sea hares, nudibranchs
+    caption: 'Links Sea Slug Forum by Dr Bill Rudman: all about sea hares, nudibranchs
       and other sea slugs; including details Syphonota geographica including one from
       Changi and purple ink produced by sea hares The Slug Site: photo and fact sheet
       on the Branch of the Week Syphonota geographica References Tan Siong Kiat and
       Henrietta P. M. Woo, 2010 Preliminary Checklist of The Molluscs of Singapore
       (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
       Coleman, Neville. 2001. 1001 Nudibranchs: Catalogue of Indo-Pacific Sea Slugs
-      . Neville Coleman's Underwater Geographic Pty Ltd, Australia.144pp. Humann,
+      . Neville Coleman''s Underwater Geographic Pty Ltd, Australia.144pp. Humann,
       Paul and Ned Deloach. 2010. Reef Creature Identification: Tropical Pacific New
       World Publications. 497pp. Gosliner, Terrence M., David W. Behrens and Gary
       C. Williams. 1996. Coral Reef Animals of the Indo-Pacific: Animal life from
-      Africa to Hawaii exclusive of the vertebrates Sea Challengers. 314pp."
+      Africa to Hawaii exclusive of the vertebrates Sea Challengers. 314pp.'
 location:
 - prp
 - chg
@@ -111,6 +85,9 @@ location:
 - ecp
 - snt
 - cyr
+size:
+- 8.0
+- 12.0
 ---
 
 ## Where seen?

@@ -1,10 +1,9 @@
 ---
 title: Heavy jumper spider
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: heavy, jumper, spider, hyllus, diardi, salticidae, arachnid, 
-  arthropod, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: heavy, jumper, spider, hyllus, diardi, salticidae, arachnid, arthropod,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info
 layout: entry
 family: Salticidae
 genus: Hyllus
@@ -24,48 +23,67 @@ subfamily: Salticinae
 tribe: Plexippini
 subtribe: Plexippina
 updated: Nov 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/arachnida/hyllus/090704ubnd6404m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/arachnida/hyllus/090704ubnd6404m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/arachnida/hyllus/090704ubnd6404m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/arachnida/hyllus/090704ubnd6404m3.jpg
     caption: Pulau Ubin, Jul 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/arachnida/hyllus/090704ubnd6405m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/arachnida/hyllus/090704ubnd6405m3.jpg
     caption: Pulau Ubin, Jul 09
   gallery2:
   - url: http://www.wildsingapore.com/wildfacts/arachnida/hyllus/110809smkmn.jpg
     caption: Pulau Semakau, Aug 11 Photo shared by Marcus Ng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/arachnida/hyllus/251213prprqo4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/arachnida/hyllus/251213prprqo4.jpg
     caption: Pasir Ris Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Heavy jumper (
+
   *Hyllus diardi*
+
   )](http://habitatnews.nus.edu.sg/guidebooks/spiders/text/Hyllus_diardi)
-  Koh, Joseph K. H., 1989. A Guide to Common Singapore Spiders. Singapore Science Centre, 160pp. online version
+
+  Koh, Joseph K. H., 1989. A Guide to Common Singapore Spiders. Singapore Science
+  Centre, 160pp. online version
+
   - [Heavy jumper (
+
   *Hyllus diardii*
+
   )](http://mangrove.nus.edu.sg/guidebooks/text/2071)
-  Ng, Peter K. L. & N. Sivasothi, 1999. A Guide to the Mangroves of Singapore II (Animal Diversity). Singapore Science Centre. 168 pp.
+
+  Ng, Peter K. L. & N. Sivasothi, 1999. A Guide to the Mangroves of Singapore II (Animal
+  Diversity). Singapore Science Centre. 168 pp.
+
 
   **References**
+
   - Wee Y.C. and Peter K. L. Ng. 1994.
+
   *A First Look at Biodiversity in Singapore*
+
   . National Council on the Environment. 163pp.
+
   - Ng, P. K. L. & Y. C. Wee, 1994.
+
   *The Singapore Red Data Book: Threatened Plants and Animals of Singapore*
+
   . The Nature Society (Singapore), Singapore. 343 pp.
+
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+
   . Nature Society (Singapore). 285 pp.
+
+  '
 location:
 - prp
 - ubn
 - cj
 - smk
+size:
+- 1.0
 ---
 
 ## Where seen?

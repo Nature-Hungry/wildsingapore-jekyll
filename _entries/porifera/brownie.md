@@ -1,8 +1,6 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: sponge, pseudoceratina, purpurea, pseudoceratinidae, porifera, field, 
-  guide,
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: sponge, pseudoceratina, purpurea, pseudoceratinidae, porifera, field, guide,
 layout: entry
 shape: blobs
 title: Brownie sponge
@@ -11,32 +9,34 @@ genus: Hyattella
 species: tubaria*
 attributes: []
 updated: Oct 2016
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/porifera/brownie/120708tryd7520m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/porifera/brownie/120708tryd7520m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/brownie/130822cjd1818m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/brownie/130822cjd1818m3.jpg
     caption: Chek Jawa, Aug 13
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/brownie/130822cjd1819m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/brownie/130822cjd1819m3a.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/brownie/120708tryd7520m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/brownie/120708tryd7520m3a.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/brownie/240708smkeky2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/brownie/240708smkeky2.jpg
     caption: Pulau Semakau, Jul 24 Photo shared by Kelvin Yong on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - *[Hyattella tubaria](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=165132)*
+
   on the World Porifera Database.
 
+
   **References**
+
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
+
   *A Guide to Sponges of Singapore*
+
   . Singapore Science Centre. 173pp.
+
+  '
 location:
 - chg
 - cj
@@ -44,6 +44,9 @@ location:
 - bb
 - tpg
 - tsm
+size:
+- 10.0
+- 15.0
 ---
 
 ## Where seen?

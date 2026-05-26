@@ -1,10 +1,9 @@
 ---
 title: Prickly whelk
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: whelk, nassarius, echinatus, nassariidae, gastropod, mollusc, shell, 
-  snail, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: whelk, nassarius, echinatus, nassariidae, gastropod, mollusc, shell, snail,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info
 layout: entry
 family: Nassariidae
 genus: Nassarius
@@ -20,22 +19,17 @@ order: Neogastropoda
 superfamily: Buccinoidea
 subfamily: Nassariinae
 updated: Aug 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/prickly/080919sntd0554m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/prickly/080919sntd0554m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/prickly/080919sntd0554m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/prickly/080919sntd0554m3.jpg
     caption: Sentosa, Sep 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/prickly/080919sntd0555m3d.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/prickly/080919sntd0555m3d.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/prickly/080919sntd0555m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/prickly/080919sntd0555m3a.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/prickly/120112smbmn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/prickly/120112smbmn.jpg
     caption: Sembawang Park, Jan 12 Photo shared by Marcus Ng on flickr .
 location:
 - tm
@@ -44,6 +38,8 @@ location:
 - kus
 - sji
 - sis
+size:
+- 1.0
 ---
 
 ## Where seen?

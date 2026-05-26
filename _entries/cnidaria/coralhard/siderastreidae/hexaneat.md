@@ -1,10 +1,9 @@
 ---
 title: Neat hexagonal  coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: coral, hard, scleractinia, pseudosiderastrea, tayamai, siderastreidae,
-  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: coral, hard, scleractinia, pseudosiderastrea, tayamai, siderastreidae, cnidaria,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Siderastreidae
 genus: Pseudosiderastrea
@@ -18,48 +17,55 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/hexaneat/050821bbg2002m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/hexaneat/050821bbg2002m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/hexaneat/050821bbg2002m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/hexaneat/050821bbg2002m3.jpg
     caption: Beting Bronok, Aug 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/hexaneat/120704chgd6845m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/hexaneat/120704chgd6845m3.jpg
     caption: Changi, Jul 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/hexaneat/250712tplmn5.jpg
-    caption: Terumbu Pempang Laut, Jul 25 Photo shared by Marcus Ng on facebook 
-      .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/hexaneat/250712tplmn5.jpg
+    caption: Terumbu Pempang Laut, Jul 25 Photo shared by Marcus Ng on facebook .
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/hexaneat/170723ubnay6.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/hexaneat/170723ubnay6.jpg
     caption: Pulau Ubin, Jul 17 Photo shared by Abel Yeo on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/hexaneat/210529ecpblks17.jpg
-    caption: East Coast Park (B), May 21 Photo shared by Loh Kok Sheng on 
-      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/hexaneat/210529ecpblks17.jpg
+    caption: East Coast Park (B), May 21 Photo shared by Loh Kok Sheng on facebook
+      .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/hexaneat/220419sjimn1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/hexaneat/220419sjimn1.jpg
     caption: St John's Island, Apr 22 Photo shared by Marcus Ng on facebook
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
+
   with species factsheets.
+
   - [IUCN Red List of Threatened Species](https://www.iucnredlist.org/)
+
   with species factsheets.
+
   - *[Pseudosiderastrea tayamai](http://www.sealifebase.org/Summary/speciesSummary.php?ID=45498)*
+
   on SeaLife Base: Technical fact sheets.
 
+
   **References**
+
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
-  *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new records*
+
+  *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new
+  records*
+
   (pdf). Raffles Bulletin of Zoology Supplement No. 22: 69-80.
+
   - Veron, Jen. 2000.
+
   *Corals of the World*
+
   Australian Institute of Marine Science, Australia. 3 volumes.
+
+  '
 location:
 - chg
 - ubn
@@ -71,6 +77,9 @@ location:
 - jng
 - hnt
 - tpg
+size:
+- 5.0
+- 10.0
 ---
 
 ## Where seen?

@@ -23,31 +23,36 @@ subfamily: Mimosoideae
 tribe: Mimoseae
 updated: Nov 10
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/leucaena/leucocephala/090405smkd9068m6l.jpg
-links_references: |
-  **Links**
-  - [*Leucaena
-    leucocephala*](http://floraofsingapore.wordpress.com/2010/04/14/leucaena-leucocephala/) on Total Vascular Flora of Singapore Online:
-    photos and fact sheet.
-  
-  **References**
-  - Hsuan Keng,
-    S.C. Chin and H. T. W. Tan. 1990, *[The
+links_references: "**Links**\n- [*Leucaena\n  leucocephala*](http://floraofsingapore.wordpress.com/2010/04/14/leucaena-leucocephala/)\
+  \ on Total Vascular Flora of Singapore Online:\n  photos and fact sheet.\n\n**References**\n\
+  - Hsuan Keng,\n  S.C. Chin and H. T. W. Tan. 1990, *[The\n"
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/leucaena/leucocephala/090405smkd9059m3a.jpg"
-      caption: "Pulau Semakau, Apr 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/leucaena/leucocephala/090405smkd9063m3.jpg"
-      caption: "Pulau Semakau, Apr 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/leucaena/leucocephala/090405smkd9067m3.jpg"
-      caption: "Pulau Semakau, Apr 09"
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/leucaena/leucocephala/090405smkd9059m3a.jpg
+    caption: Pulau Semakau, Apr 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/leucaena/leucocephala/090405smkd9063m3.jpg
+    caption: Pulau Semakau, Apr 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/leucaena/leucocephala/090405smkd9067m3.jpg
+    caption: Pulau Semakau, Apr 09
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/leucaena/leucocephala/090809sjid8862m3.jpg"
-      caption: "St. John's Island, Aug 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/leucaena/leucocephala/090809sjid8862m3b.jpg"
-      caption: ""
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/leucaena/leucocephala/090809sjid8862m3.jpg
+    caption: St. John's Island, Aug 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/leucaena/leucocephala/090809sjid8862m3b.jpg
+    caption: ''
   gallery3:
-    - url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
-      caption: "Links Leucaena leucocephala on Total Vascular Flora of Singapore Online: photos and fact sheet. References Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University Press. 222 pp. Wee Yeow Chin. 1992. A Guide to Medicinal Plants . The Singapore Science Centre. 160pp Corners, E. J. H., 1997. Wayside Trees of Malaya: in two volumes . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444."
+  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
+    caption: 'Links Leucaena leucocephala on Total Vascular Flora of Singapore Online:
+      photos and fact sheet. References Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
+      The Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University
+      Press. 222 pp. Wee Yeow Chin. 1992. A Guide to Medicinal Plants . The Singapore
+      Science Centre. 160pp Corners, E. J. H., 1997. Wayside Trees of Malaya: in two
+      volumes . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476
+      pp, plates 1-38; volume 2: 477-861 pp., plates 139-236. Burkill, I. H., 1993.
+      A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing.
+      Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1:
+      1-1240; volume 2: 1241-2444.'
+size:
+- 1000.0
 ---
 
 ## Where seen?

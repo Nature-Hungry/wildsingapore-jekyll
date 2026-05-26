@@ -1,10 +1,9 @@
 ---
 title: White-rumped sea cucumber
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: blotchy, cucumber, seacucumber, actinopyga, lecanora, holothuriidae, 
-  holothuroidae, echinoderm, field, guide, seashore, sea, shore, marine, 
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: blotchy, cucumber, seacucumber, actinopyga, lecanora, holothuriidae, holothuroidae,
+  echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 0
@@ -27,108 +26,72 @@ class: Holothuroidea
 subclass: Actinopoda
 order: Holothuriida
 updated: Apr 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/091204pawd5302m3.jpg
-links_references: |
-  **Links**
-  - [Sea
-    cucumbers](http://mangrove.nus.edu.sg/pub/seashore/text/222)
-    Tan, Leo W. H. & Ng, Peter K. L., 1988. *A Guide to Seashore
-    Life*. The Singapore Science Centre, Singapore. 160 pp.
-  - [*Actinopyga
-    lecanora* (White-bottomed sea cucumber)](http://www.sealifebase.org/summary/Actinopyga-lecanoral) on SeaLife Base:
-    Technical fact sheet.
-  - [*Actinopyga
-    lecanora*](http://species-identification.org/species.php?species_group=nasc&id=47) in North Australian Sea Cucumbers in Marine Species
-    Identification Portal: Technical fact sheet.
-  - [*Actinopyga
-    lecanora*](http://www.iucnredlist.org/details/180266/0) on the IUCN Red List: Technical fact sheet.
-  - *Actinopyga lecanora* on [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00), by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
-
-  **References**
-  - Lane, David
-    J.W. and Didier Vandenspiegel. 2003*. A
-    Guide to Sea Stars and Other Echinoderms of Singapore*.
-    Singapore Science Centre. 187pp.
-  - Gosliner,
-    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
+coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/091204pawd5302m3.jpg
+links_references: "**Links**\n- [Sea\n  cucumbers](http://mangrove.nus.edu.sg/pub/seashore/text/222)\n\
+  \  Tan, Leo W. H. & Ng, Peter K. L., 1988. *A Guide to Seashore\n  Life*. The Singapore\
+  \ Science Centre, Singapore. 160 pp.\n- [*Actinopyga\n  lecanora* (White-bottomed\
+  \ sea cucumber)](http://www.sealifebase.org/summary/Actinopyga-lecanoral) on SeaLife\
+  \ Base:\n  Technical fact sheet.\n- [*Actinopyga\n  lecanora*](http://species-identification.org/species.php?species_group=nasc&id=47)\
+  \ in North Australian Sea Cucumbers in Marine Species\n  Identification Portal:\
+  \ Technical fact sheet.\n- [*Actinopyga\n  lecanora*](http://www.iucnredlist.org/details/180266/0)\
+  \ on the IUCN Red List: Technical fact sheet.\n- *Actinopyga lecanora* on [Commercially\
+  \ important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00),\
+  \ by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.\n\n\
+  **References**\n- Lane, David\n  J.W. and Didier Vandenspiegel. 2003*. A\n  Guide\
+  \ to Sea Stars and Other Echinoderms of Singapore*.\n  Singapore Science Centre.\
+  \ 187pp.\n- Gosliner,\n  Terrence M., David W. Behrens and Gary C. Williams. 1996.\
+  \ *Coral\n  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii\n"
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/091204pawd5302m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/091204pawd5302m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/070701hntg0858m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/070701hntg0858m3.jpg
     caption: Pulau Hantu, Jul 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/070701hntg0857m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/070701hntg0857m3a.jpg
     caption: White ringed backside guarded by five 'teeth'. Pulau Hantu, Jul 07
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/240527srplks8.jpg
-    caption: Sentosa Serapong, May 24 Photo shared by Loh Kok Sheng on facebook 
-      .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/110220lazjk3m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/240527srplks8.jpg
+    caption: Sentosa Serapong, May 24 Photo shared by Loh Kok Sheng on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/110220lazjk3m3.jpg
     caption: Lazarus Island, Feb 11 Photo shared by James Koh on his blog
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/251009sjitl3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/251009sjitl3.jpg
     caption: St John's Island, Oct 25 Photo shared by Tammy Lim on facebook .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/130628thntlks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/130628thntlks.JPG
     caption: Terumbu Hantu, Jun 13 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/201018smkslks5.jpg
-    caption: Pulau Semakau South, Oct 20 Photo shared by Loh Kok Sheng on flickr
-      .
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/201018smkslks5.jpg
+    caption: Pulau Semakau South, Oct 20 Photo shared by Loh Kok Sheng on flickr .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/160609tpkmn1.jpg
-    caption: Terumbu Pempang Kecil, Jun 16 Photo shared by Marcus Ng on facebook
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/160609tpkmn1.jpg
+    caption: Terumbu Pempang Kecil, Jun 16 Photo shared by Marcus Ng on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/100629tpdjk15m3.jpg
+    caption: Terumbu Pempang Darat, Jun 10 Photo shared by James Koh on his blog .
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/150524tplhpy3m3.jpg
+    caption: Terumbu Pempang Laut, May 15 Photo shared by Heng Pei Yan on facebook
       .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/100629tpdjk15m3.jpg
-    caption: Terumbu Pempang Darat, Jun 10 Photo shared by James Koh on his blog
-      .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/150524tplhpy3m3.jpg
-    caption: Terumbu Pempang Laut, May 15 Photo shared by Heng Pei Yan on 
-      facebook .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/100617tbtch3m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/100617tbtch3m3.jpg
     caption: Terumbu Bemban, Jun 10 Photo shared by Toh CHay Hoon on her blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/110422tbmjk2m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/110422tbmjk2m3.jpg
     caption: Terumbu Bemban, Apr 11 Photo shared by James Koh on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/151225tsmklks8m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/151225tsmklks8m3.jpg
     caption: Terumbu Semakau, Dec 15 Photo shared by Loh Kok Sheng on his blog .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/210428slulks9.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/210428slulks9.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/100131slulks2m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/100131slulks2m3.jpg
     caption: Terumbu Salu, Jan 10 Photo shared by Loh Kok Sheng on his flickr .
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/100130brkd8661m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/100130brkd8661m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/100613snglks1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/100613snglks1m3.jpg
     caption: Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
   gallery8:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/100531bioc4530m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/100531bioc4530m3.jpg
     caption: Pulau Biola, May 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/091231biolks1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/091231biolks1m3.jpg
     caption: Pulau Biola, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/220201brklks3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/220201brklks3.jpg
     caption: Pulau Berkas, Feb 22 Photo shared by Loh Kok Sheng on facebook .
   gallery9:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -159,6 +122,9 @@ location:
 - tsm
 - rfl
 - lfa
+size:
+- 15.0
+- 20.0
 ---
 
 ## Where seen?

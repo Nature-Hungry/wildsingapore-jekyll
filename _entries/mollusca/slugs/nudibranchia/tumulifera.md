@@ -1,68 +1,64 @@
 ---
 title: Maroon c
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: chromodoris, tumulifera, chromodoriidae, doridina, nudibranchia, slug,
-  seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, 
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: chromodoris, tumulifera, chromodoriidae, doridina, nudibranchia, slug, seaslug,
+  opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Chromodorididae
 genus: Goniobranchus
 species: tumulifera
 attributes: []
 updated: May 2025
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tumulifera/100429prptch2m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tumulifera/100429prptch2m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tumulifera/100429prptch2m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tumulifera/100429prptch2m3.jpg
     caption: Pasir Ris Park, Apr 10 Photo shared by Toh Chay Hoon on her blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tumulifera/100429prptch3m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tumulifera/100429prptch3m3a.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tumulifera/100429prptch3m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tumulifera/100429prptch3m3b.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tumulifera/080521chgtch01m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tumulifera/080521chgtch01m3.jpg
     caption: Changi, May 08 Photo shared by Toh Chay Hoon on her flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tumulifera/200113chgjll1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tumulifera/200113chgjll1.jpg
     caption: Changi, Jan 20 Photo shared by Jianlin Liu on facebook .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tumulifera/150706skdlksm3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tumulifera/150706skdlksm3.jpg
     caption: Pulau Sekudu, Jul 15 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tumulifera/180617skdjll1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tumulifera/180617skdjll1.jpg
     caption: Pulau Sekudu, Jun 18 Photo shared by Jianlin Liu on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tumulifera/211205cjlks1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tumulifera/211205cjlks1.jpg
     caption: Chek Jawa, Dec 21 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tumulifera/140615skdmn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tumulifera/140615skdmn.jpg
     caption: Pulau Sekudu, Jun 14 Photo shared by Marcus Ng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tumulifera/140615skdd6645.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tumulifera/140615skdd6645.jpg
     caption: Pulau Sekudu, Jun 14
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tumulifera/070604ecplks02m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tumulifera/070604ecplks02m3.jpg
     caption: East Coast, Jun 07 Photo shared by Loh Kok Sheng on his blog .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
+
   by Dr Bill Rudman: including descriptions and photos of
+
   [*Chromodoris tumulifera*](http://www.seaslugforum.net/find/chrotumu)
+
   .
 
+
   **References**
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
+  '
 location:
 - prp
 - chg
@@ -70,6 +66,9 @@ location:
 - skd
 - bb
 - ecp
+size:
+- 2.0
+- 3.0
 ---
 
 ## Where seen?

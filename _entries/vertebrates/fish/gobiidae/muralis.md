@@ -1,10 +1,9 @@
 ---
 title: Mural glider-goby
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: mural, glider, goby, cryptocentrus, leptocephalus, fish, gobiidae, 
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: mural, glider, goby, cryptocentrus, leptocephalus, fish, gobiidae, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 attributes:
 - 9
@@ -26,67 +25,77 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Gobiinae
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/muralis/110601tmnbd3312m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/muralis/110601tmnbd3312m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/muralis/110601tmnbd3312m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/muralis/110601tmnbd3312m3.jpg
     caption: Tanah Merah, Jun 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/muralis/110601tmnbd3299m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/muralis/110601tmnbd3299m6l.jpg
     caption: Tanah Merah, Jun 11
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/muralis/220104lazky3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/muralis/220104lazky3.jpg
     caption: Lazarus, Jan 22 Photo shared by Kelvin Yong on facebook .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/muralis/190704bbtch2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/muralis/190704bbtch2.jpg
     caption: Beting Bronok, Jul 19 Photo shared by Toh Chay Hoon on facebook ..
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/muralis/130512sismn2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/muralis/130512sismn2.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/muralis/130512sismn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/muralis/130512sismn.jpg
     caption: Big Sisters Islands, May 13 Photo shared by Marcus Ng on flickr .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/muralis/150606trymn1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/muralis/150606trymn1m3.jpg
     caption: Terumbu Raya, Jun 15 Photo shared by Marcus Ng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/muralis/150606trymn1m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/muralis/150606trymn1m3a.jpg
     caption: ''
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/muralis/200624tryrk1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/muralis/200624tryrk1.jpg
     caption: Terumbu Raya, Jun 20 Photo shared by Richard Kuah on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Mural goby (
+
   *Valenciennea muralis*
+
   )](http://www.fishbase.org/summary/7226)
+
   from
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheet including fact sheet.
 
+
   **References**
+
   - Larson, Helen K and Kelvin K. P. Lim. 2005.
+
   *A Guide to Gobies of Singapore*
+
   . Singapore Science Centre. 164pp.
+
   - Allen, Gerry, 2000.
+
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
+
   . Periplus Editions. 292 pp.
+
   - Lieske, Ewald and Robert Myers. 2001.
+
   *Coral Reef Fishes of the World*
+
   Periplus Editions. 400pp.
+
+  '
 location:
 - bb
 - tm
 - laz
 - sis
 - tsm
+size:
+- 10.0
+- 13.0
 ---
 
 ## Where seen?

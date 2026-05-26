@@ -1,10 +1,9 @@
 ---
 title: Mangrove jingle clam
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: mangrove, jingle, shell, enigmonia, aenigmatica, anomiidae,  bivalve, 
-  mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: mangrove, jingle, shell, enigmonia, aenigmatica, anomiidae,  bivalve, mollusc,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 attributes:
 - 2
@@ -24,49 +23,73 @@ infraclass: Pteriomorphia
 order: Pectinida
 superfamily: Anomioidea
 updated: May 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/enigmonia/040101lckd0024m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/enigmonia/040101lckd0024m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/enigmonia/040101lckd0024m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/enigmonia/040101lckd0024m3.jpg
     caption: Lim Chu Kang, Jan 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/enigmonia/040101lckd0024m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/enigmonia/040101lckd0024m3a.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/enigmonia/020615sltard0555m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/enigmonia/020615sltard0555m3.jpg
     caption: Seletar, Jun 02
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Enigma oyster (
+
   *Enigmoia aenigmatica*
+
   )](http://mangrove.nus.edu.sg/guidebooks/text/2094)
+
   Ng, Peter K. L. & N. Sivasothi, 1999.
+
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
+
   . Singapore Science Centre. 168 pp.
+
   - [Crust Shell (
+
   *Enignomia rosea*
+
   )](http://mangrove.nus.edu.sg/pub/seashore/text/161)
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
+
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+
   . The Singapore Science Centre, Singapore. 160 pp.
+
   - [*Enigmonia aenigmatica*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=80404)
+
   on SeaLife Base: technical fact sheet.
 
+
   **References**
+
   - Sigurdsson, J.B. & Sundari, G.
-  *Colour changes in the shell of the tree-climbing bivalve Enigmonia aenigatica (Holten, 1802) (Anomiidae)*
+
+  *Colour changes in the shell of the tree-climbing bivalve Enigmonia aenigatica (Holten,
+  1802) (Anomiidae)*
+
   . Raffles Bulletin of Zoology 38 (2): Pp. 213-218.
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Tan, K. S. & L. M. Chou, 2000.
+
   *A Guide to the Common Seashells of Singapore*
+
   . Singapore Science Centre. 160 pp.
+
+  '
 location:
 - sbw
 - lck
+size:
+- 3.0
 ---
 
 ## Where seen?

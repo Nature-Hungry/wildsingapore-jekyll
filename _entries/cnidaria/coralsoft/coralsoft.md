@@ -17,83 +17,102 @@ subclass: Octocorallia
 order: Malacalcyonacea
 updated: Aug 2025
 coverimg: ../../../Templates/fornatureguides.gif
-links_references: |
-  **Links**
-  - [Soft
-    corals (Order Alcyonacea)](http://mangrove.nus.edu.sg/pub/seashore/text/118.htm) Tan, Leo W. H. & Ng, Peter K. L.,
-    1988. *[A
-    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-    Singapore. 160 pp.
-  - [Soft
-    corals shrug off poor image](http://www.reef.crc.org.au/publications/explore/feat18.html) on the CRC Reef Centre website:
-    preliminary findings of a study on the role of soft corals in
-    offshore and inshore reefs, and some info on their applications
-    in human medicine.
-  - [Painkillers
-    from a soft coral](http://wildshores.blogspot.com/2009/08/pain-killers-from-soft-coral.html) on the wild shores of singapore blog.
-  
-  **References**
-  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, 2024. *The Singapore
-    Red Data Book: Threatened plants and animals of Singapore*.
-    3rd edition. National Parks Board. 258 pp.
-  - Y. Benayahu
-    and L. M. Chou, 28 Feb 2010. *On
-    some Octocorallia (Cnidaria: Anthozoa: Alcyonacea) from Singapore,
-    with a description of a new Cladiella species*. The Raffles
-    Bulletin of Zoology 58(1) Pp. 1-13.
-  - Borneman,
-    Eric H. 2001. *Aquarium
+links_references: "**Links**\n- [Soft\n  corals (Order Alcyonacea)](http://mangrove.nus.edu.sg/pub/seashore/text/118.htm)\
+  \ Tan, Leo W. H. & Ng, Peter K. L.,\n  1988. *[A\n  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
+  \ The Singapore Science Centre,\n  Singapore. 160 pp.\n- [Soft\n  corals shrug off\
+  \ poor image](http://www.reef.crc.org.au/publications/explore/feat18.html) on the\
+  \ CRC Reef Centre website:\n  preliminary findings of a study on the role of soft\
+  \ corals in\n  offshore and inshore reefs, and some info on their applications\n\
+  \  in human medicine.\n- [Painkillers\n  from a soft coral](http://wildshores.blogspot.com/2009/08/pain-killers-from-soft-coral.html)\
+  \ on the wild shores of singapore blog.\n\n**References**\n- Checklist of Cnidaria\
+  \ (non-Sclerectinia) Species with their Category of Threat Status for Singapore\
+  \ by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan,\
+  \ D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, 2024. *The Singapore\n  Red Data\
+  \ Book: Threatened plants and animals of Singapore*.\n  3rd edition. National Parks\
+  \ Board. 258 pp.\n- Y. Benayahu\n  and L. M. Chou, 28 Feb 2010. *On\n  some Octocorallia\
+  \ (Cnidaria: Anthozoa: Alcyonacea) from Singapore,\n  with a description of a new\
+  \ Cladiella species*. The Raffles\n  Bulletin of Zoology 58(1) Pp. 1-13.\n- Borneman,\n\
+  \  Eric H. 2001. *Aquarium\n"
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: if you learn only 3 things about them ... They are animals! Although they look like plants. Don't step on them. They don't produce a hard skeleton. Each soft coral is a colony of countless tiny polyps.
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: They are animals! Although they look like plants. Don't step on them. They don't produce a hard skeleton. Each soft coral is a colony of countless tiny polyps.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... They are animals! Although
+      they look like plants. Don't step on them. They don't produce a hard skeleton.
+      Each soft coral is a colony of countless tiny polyps.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: They are animals! Although they look like plants. Don't step on them.
+      They don't produce a hard skeleton. Each soft coral is a colony of countless
+      tiny polyps.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/neppink/080705bbd6921m3.jpg"
-      caption: "Beting Bronok, Jul 08 Polyps of a flowery soft coral"
-    - url: "http://www.wildsingapore.com/wildfacts/others/gorgonacea/candelabra/060528bbd2416m3.jpg"
-      caption: "Beting Bronok, May 06 Polyps of a sea fan ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/050807sjig0617m3.jpg"
-      caption: "St. John's Island, Aug 05 Polyps of a leathery coral"
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/neppink/080705bbd6921m3.jpg
+    caption: Beting Bronok, Jul 08 Polyps of a flowery soft coral
+  - url: http://www.wildsingapore.com/wildfacts/others/gorgonacea/candelabra/060528bbd2416m3.jpg
+    caption: Beting Bronok, May 06 Polyps of a sea fan .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/050807sjig0617m3.jpg
+    caption: St. John's Island, Aug 05 Polyps of a leathery coral
   gallery3:
-    - url: "http://www.wildsingapore.com/echinodermata/ophiuroidea/tinycolourful/080507skdd2477m3.jpg"
-      caption: "Tiny colourful brittle stars are sometimes seen in soft corals. Tuas, Nov 03"
-    - url: "http://www.wildsingapore.com/mollusca/gastropoda/ovulidae/softcoral/120508skdd2250m3.jpg"
-      caption: "Often seen in a pair. Pulau Sekudu, May 12"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/031126tusad0068m3.jpg"
-      caption: "Tiny red nose shrimp are sometimes seen in numbers in flowery soft coral. Tuas, Nov 03"
+  - url: http://www.wildsingapore.com/echinodermata/ophiuroidea/tinycolourful/080507skdd2477m3.jpg
+    caption: Tiny colourful brittle stars are sometimes seen in soft corals. Tuas,
+      Nov 03
+  - url: http://www.wildsingapore.com/mollusca/gastropoda/ovulidae/softcoral/120508skdd2250m3.jpg
+    caption: Often seen in a pair. Pulau Sekudu, May 12
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/031126tusad0068m3.jpg
+    caption: Tiny red nose shrimp are sometimes seen in numbers in flowery soft coral.
+      Tuas, Nov 03
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/050807sjig0617m3.jpg"
-      caption: Leathery soft corals
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/040411hntd0107m3.jpg"
-      caption: Flowery soft corals
-    - url: "http://www.wildsingapore.com/wildfacts/others/gorgonacea/others/040604bbad0081m3.jpg"
-      caption: Sea fans
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/050807sjig0617m3.jpg
+    caption: Leathery soft corals
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/040411hntd0107m3.jpg
+    caption: Flowery soft corals
+  - url: http://www.wildsingapore.com/wildfacts/others/gorgonacea/others/040604bbad0081m3.jpg
+    caption: Sea fans
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/060430skdg5827m3.jpg"
-      caption: Knobbly soft corals
-    - url: "http://www.wildsingapore.com/wildfacts/others/heliopora/heliopora/060402ulrd1105m3.jpg"
-      caption: Blue corals
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/110802smkd8256m3.jpg"
-      caption: Xenia soft coral
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/060430skdg5827m3.jpg
+    caption: Knobbly soft corals
+  - url: http://www.wildsingapore.com/wildfacts/others/heliopora/heliopora/060402ulrd1105m3.jpg
+    caption: Blue corals
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/110802smkd8256m3.jpg
+    caption: Xenia soft coral
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feafine/120124sisd5837m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/050807sjig0759m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabrown/050329sntg3905m3.jpg"
-      caption: ""
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feafine/120124sisd5837m3.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/050807sjig0759m3.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabrown/050329sntg3905m3.jpg
+    caption: ''
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feafine/120124sisd5837m3b.jpg"
-      caption: Fine feathery soft coral
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/050807sjig0760m3.jpg"
-      caption: Broad feathery soft coral
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabrown/050329sntg3905m3b.jpg"
-      caption: Brown feathery soft coral
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feafine/120124sisd5837m3b.jpg
+    caption: Fine feathery soft coral
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/050807sjig0760m3.jpg
+    caption: Broad feathery soft coral
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabrown/050329sntg3905m3b.jpg
+    caption: Brown feathery soft coral
   gallery8:
-    - url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
-      caption: "Links Soft corals (Order Alcyonacea) Tan, Leo W. H. & Ng, Peter K. L., 1988. A Guide to Seashore Life . The Singapore Science Centre, Singapore. 160 pp. Soft corals shrug off poor image on the CRC Reef Centre website: preliminary findings of a study on the role of soft corals in offshore and inshore reefs, and some info on their applications in human medicine. Painkillers from a soft coral on the wild shores of singapore blog. References Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore . 3rd edition. National Parks Board. 258 pp. Y. Benayahu and L. M. Chou, 28 Feb 2010. On some Octocorallia (Cnidaria: Anthozoa: Alcyonacea) from Singapore, with a description of a new Cladiella species . The Raffles Bulletin of Zoology 58(1) Pp. 1-13. Borneman, Eric H. 2001. Aquarium Corals: Selection, Husbandry and Natural History T.F. H Publications. 464 pp Fabricius, Katharina and Philip Alderslade, 2001. Soft Corals and Sea Fans . Australian Institute of Marine Science and the Museum and Art Gallery of the Northern Territoriy. 264 pp Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004. Invertebrate Zoology Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963 Pechenik, Jan A., 2005. Biology of the Invertebrates . 5 th edition. McGraw-Hill Book Co., Singapore. 578 pp. Wee Y.C. and Peter K. L. Ng. 1994. A First Look at Biodiversity in Singapore . National Council on the Environment. 163pp. Ng, P. K. L. & Y. C. Wee, 1994. The Singapore Red Data Book: Threatened Plants and Animals of Singapore . The Nature Society (Singapore), Singapore. 343 pp."
+  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
+    caption: 'Links Soft corals (Order Alcyonacea) Tan, Leo W. H. & Ng, Peter K. L.,
+      1988. A Guide to Seashore Life . The Singapore Science Centre, Singapore. 160
+      pp. Soft corals shrug off poor image on the CRC Reef Centre website: preliminary
+      findings of a study on the role of soft corals in offshore and inshore reefs,
+      and some info on their applications in human medicine. Painkillers from a soft
+      coral on the wild shores of singapore blog. References Checklist of Cnidaria
+      (non-Sclerectinia) Species with their Category of Threat Status for Singapore
+      by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M.
+      Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, 2024. The Singapore Red Data
+      Book: Threatened plants and animals of Singapore . 3rd edition. National Parks
+      Board. 258 pp. Y. Benayahu and L. M. Chou, 28 Feb 2010. On some Octocorallia
+      (Cnidaria: Anthozoa: Alcyonacea) from Singapore, with a description of a new
+      Cladiella species . The Raffles Bulletin of Zoology 58(1) Pp. 1-13. Borneman,
+      Eric H. 2001. Aquarium Corals: Selection, Husbandry and Natural History T.F.
+      H Publications. 464 pp Fabricius, Katharina and Philip Alderslade, 2001. Soft
+      Corals and Sea Fans . Australian Institute of Marine Science and the Museum
+      and Art Gallery of the Northern Territoriy. 264 pp Edward E. Ruppert, Richard
+      S. Fox, Robert D. Barnes. 2004. Invertebrate Zoology Brooks/Cole of Thomson
+      Learning Inc., 7th Edition. pp. 963 Pechenik, Jan A., 2005. Biology of the Invertebrates
+      . 5 th edition. McGraw-Hill Book Co., Singapore. 578 pp. Wee Y.C. and Peter
+      K. L. Ng. 1994. A First Look at Biodiversity in Singapore . National Council
+      on the Environment. 163pp. Ng, P. K. L. & Y. C. Wee, 1994. The Singapore Red
+      Data Book: Threatened Plants and Animals of Singapore . The Nature Society (Singapore),
+      Singapore. 343 pp.'
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

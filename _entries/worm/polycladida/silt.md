@@ -1,68 +1,51 @@
 ---
 title: Silt flatworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: flat, worm, flatworm, acotylea, polyclad, turbellaria, 
-  platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: flat, worm, flatworm, acotylea, polyclad, turbellaria, platyhelminthes,  field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 family: Suborder Acotylea
 genus: ''
 species: identification*
 attributes: []
 updated: Mar 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/worm/polycladida/silt/090113prpd5200m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/silt/090113prpd5200m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/silt/090113prpd5200m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/silt/090113prpd5200m3.jpg
     caption: Stylochid. Pasir Ris Park, Jan 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/silt/100215sisd9466m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/silt/100215sisd9466m3.jpg
     caption: Sisters Island, Feb 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/silt/080718wdld7680m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/silt/080718wdld7680m3.jpg
     caption: Woodlands, Jul 08
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/silt/230617lyglks1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/silt/230617lyglks1.jpg
     caption: Changi Loyang, Jun 23 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/silt/251107chgmn5.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/silt/251107chgmn5.jpg
     caption: Changi Point, Nov 25 Shared by Marcus Ng on facebook.
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/silt/200917prpvc1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/silt/200917prpvc1.jpg
     caption: Pasir Ris Park, Sep 20 Photo shared by Vincent Choo on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/silt/230608tmftvc2.jpg
-    caption: Tanah Merah Ferry Terminal, Jun 23 Photo shared by Vincent Choo on 
-      facebook .
-  gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/silt/170624cjlks2.jpg
-    caption: Stylochid. Chek Jawa, Jun 17 Photo shared by Loh Kok Sheng on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/silt/170626cjmn1.jpg
-    caption: Stylochid. Chek Jawa, Jun 17 Photo shared by Marcus Ng on facebook 
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/silt/230608tmftvc2.jpg
+    caption: Tanah Merah Ferry Terminal, Jun 23 Photo shared by Vincent Choo on facebook
       .
+  gallery4:
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/silt/170624cjlks2.jpg
+    caption: Stylochid. Chek Jawa, Jun 17 Photo shared by Loh Kok Sheng on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/silt/170626cjmn1.jpg
+    caption: Stylochid. Chek Jawa, Jun 17 Photo shared by Marcus Ng on facebook .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/silt/200706skdtch2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/silt/200706skdtch2.jpg
     caption: Pulau Sekudu, Jul 20 Photo shared by Toh Chay Hoon on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/silt/200311blylks4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/silt/200311blylks4.jpg
     caption: Berlayar Creek, Mar 20 Photo shared by Loh Kok Sheng on facebook .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/silt/190831kuslks1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/silt/190831kuslks1.jpg
     caption: Kusu Island, Sep 19 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/silt/140810smklks1m3.JPG
-    caption: South Pulau Semakau, Aug 14 Photo shared by Loh Kok Sheng on his 
-      blog.
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/silt/140810smklks1m3.JPG
+    caption: South Pulau Semakau, Aug 14 Photo shared by Loh Kok Sheng on his blog.
 location:
 - prp
 - chg
@@ -75,6 +58,9 @@ location:
 - sis
 - cyr
 - smk
+size:
+- 1.5
+- 4.0
 ---
 
 ## Where seen?

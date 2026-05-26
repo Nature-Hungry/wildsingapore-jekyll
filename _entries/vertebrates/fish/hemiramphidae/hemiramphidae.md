@@ -1,10 +1,8 @@
 ---
 title: Halfbeaks
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: halfbeak, half, beak, hemiramphidae, fish, field, guide, seashore, 
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, 
-  photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: halfbeak, half, beak, hemiramphidae, fish, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Hemiramphidae
 genus: ''
@@ -19,94 +17,112 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Beloniformes
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/buffonis/031212sbwrd0069m6l.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/buffonis/031212sbwrd0069m6l.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They specialise in 
-      foraging at the water surface. Their lower jaw is many times longer than 
-      their upper jaw. Some are well camouflaged as floating twigs or rubbish.
+    caption: if you learn only 3 things about them ... They specialise in foraging
+      at the water surface. Their lower jaw is many times longer than their upper
+      jaw. Some are well camouflaged as floating twigs or rubbish.
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They specialise in foraging at the water surface. Their lower jaw 
-      is many times longer than their upper jaw. Some are well camouflaged as 
-      floating twigs or rubbish.
+    caption: They specialise in foraging at the water surface. Their lower jaw is
+      many times longer than their upper jaw. Some are well camouflaged as floating
+      twigs or rubbish.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/buffonis/031212sbwrd0069m6l.jpg
-    caption: The lower jaw is many times longer than the upper jaw. Sungei 
-      Buloh, Dec 03
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/060130hntg4333m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/buffonis/031212sbwrd0069m6l.jpg
+    caption: The lower jaw is many times longer than the upper jaw. Sungei Buloh,
+      Dec 03
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/060130hntg4333m3.jpg
     caption: A young halfbeak? Pulau Hantu, Jan 06
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/buffonis/110205krjd5876m6l.jpg
-    caption: At high tide, often seen under mangrove vegetation. Sungei Buloh, 
-      Feb 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/twig/100429prpd1877.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/buffonis/110205krjd5876m6l.jpg
+    caption: At high tide, often seen under mangrove vegetation. Sungei Buloh, Feb
+      11
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/twig/100429prpd1877.jpg
     caption: Shadow cast resembles a twig. Pasir Ris, Apr 10
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/twig/110630tmftd4796m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/twig/110630tmftd4796m3.jpg
     caption: Twig-like halfbeak
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/070812sisg1982m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/070812sisg1982m3.jpg
     caption: Broad-nosed halfbeak
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/090606tmftd3297m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/090606tmftd3297m3.jpg
     caption: Broad-nosed halfbeak
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/buffonis/120215prpd6977m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/buffonis/120215prpd6977m3.jpg
     caption: Striped-nosed halfbeak
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/plain/031030sntd0034m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/plain/031030sntd0034m3.jpg
     caption: Plain halfbeak
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/plain/110716kusd6882m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/plain/110716kusd6882m3.jpg
     caption: Plain halfbeak
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/shortnose/110602tmftd3544m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/shortnose/110602tmftd3544m3a.jpg
     caption: Quoy's halfbeak
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/far/091206tmd5674m3d.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/far/091206tmd5674m3d.jpg
     caption: Black-barred halfbeak
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
+
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
+
   . Singapore Science Centre. 163 pp.
+
   - Ng, Peter K. L. & N. Sivasothi, 1999.
+
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/contents)*
+
   . Singapore Science Centre. 168 pp.
+
   - [Family Hemiramphidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=475)
+
   (Halfbeaks) from
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheet on the family, including fact sheet on individual species.
+
   - [Vol. 4. Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00)
-  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific
+
+  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources
+  of the Western Central Pacific
+
   - [*Dermogenys collettei*](https://singapore.biodiversity.online/taxo4254/mainSpace/Dermogenys%20collettei.html)
+
   (Beloniformes: Hemiramphidae) Pygmy Halfbeak on Taxo4254.
 
+
   **References**
+
   - Wee Y.C. and Peter K. L. Ng. 1994.
+
   *A First Look at Biodiversity in Singapore*
+
   . National Council on the Environment. 163pp.
+
   - Allen, Gerry, 2000.
+
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
+
   . Periplus Editions. 292 pp.
+
   - Kuiter, Rudie H. 2002.
+
   *Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers & Fishermen*
+
   New Holland Publishers. 434pp.
+
   - Lieske, Ewald and Robert Myers. 2001.
+
   *Coral Reef Fishes of the World*
+
   Periplus Editions. 400pp.
+
+  '
 location:
 - tm
 - hnt
+size:
+- 10.0
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?

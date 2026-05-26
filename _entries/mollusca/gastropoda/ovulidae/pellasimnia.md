@@ -1,10 +1,9 @@
 ---
 title: Rose spindle cowrie
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: rose, spindle, ovulid, cowrie, ovulidae, pellasimnia, gastropod, 
-  mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: rose, spindle, ovulid, cowrie, ovulidae, pellasimnia, gastropod, mollusc,
+  snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Ovulidae
 genus: Pellasimnia
@@ -20,29 +19,26 @@ order: Littorinimorpha
 superfamily: Cypraeoidea
 subfamily: Ovulinae
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/pellasimnia/060323ulrd0409m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/pellasimnia/060323ulrd0409m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/pellasimnia/060323ulrd0409m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/pellasimnia/060323ulrd0409m3.jpg
     caption: Pulau Hantu, Mar 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/pellasimnia/060323ulrd0421m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/pellasimnia/060323ulrd0421m3.jpg
     caption: Underside.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/pellasimnia/060323ulrd0421m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/pellasimnia/060323ulrd0421m3a.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/pellasimnia/120508ecplks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/pellasimnia/120508ecplks.JPG
     caption: East Coast Park, May 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/pellasimnia/120508ecplks2.JPG
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/pellasimnia/120508ecplks2.JPG
     caption: Photo shared by Loh Kok Sheng on flickr .
 location:
 - ecp
 - hnt
+size:
+- 1.0
+- 2.0
 ---
 
 ## Where seen?

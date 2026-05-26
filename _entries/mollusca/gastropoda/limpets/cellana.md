@@ -1,10 +1,9 @@
 ---
 title: Smooth limpet
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: smooth, limpet, cellana, nacellidae, gastropod, mollusc, snail, shell,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: smooth, limpet, cellana, nacellidae, gastropod, mollusc, snail, shell, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 attributes:
 - 14
@@ -29,49 +28,51 @@ subclass: Patellogastropoda
 order: Nacellida
 superfamily: Nacelloidea
 updated: Aug 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/050502cjg5601m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/050502cjg5601m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/050502cjg5601m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/050502cjg5601m3.jpg
     caption: Chek Jawa, May 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/050502cjg5589m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/050502cjg5589m3.jpg
     caption: Underside. Chek Jawa, May 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/050108cjd9188m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/050108cjd9188m3.jpg
     caption: Gills form a frilly edge around the body. Chek Jawa, Jan 05
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/170626skdmn1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/170626skdmn1.jpg
     caption: Pulau Sekudu, Jun 17 Photo shared by Marcus Ng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/240309tkrvc2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/240309tkrvc2.jpg
     caption: Pulau Tekukor, Mar 24 Photo shared by Vincent Choo on facebook .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/260217bsisky2.jpg
-    caption: Big Sisters Island, Feb 26 Photo shared by Kelvin Yong on facebook 
-      .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/260217bsisky2b.jpg
-    caption: Big Sisters Island, Feb 26 Photo shared by Kelvin Yong on facebook 
-      .
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/260217bsisky2.jpg
+    caption: Big Sisters Island, Feb 26 Photo shared by Kelvin Yong on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/260217bsisky2b.jpg
+    caption: Big Sisters Island, Feb 26 Photo shared by Kelvin Yong on facebook .
+links_references: '**Links**
+
   - [*Cellana radiata*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=130651)
+
   and
+
   *[Cellana testudinaria](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86794)*
+
   on SeaLife Base: Technical fact sheets.
 
+
   **References**
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Tan, K. S. & L. M. Chou, 2000.
+
   *A Guide to the Common Seashells of Singapore*
+
   . Singapore Science Centre. 160 pp.
+
+  '
 location:
 - chg
 - cj
@@ -79,6 +80,9 @@ location:
 - lab
 - tkr
 - sis
+size:
+- 2.0
+- 3.0
 ---
 
 ## Where seen?

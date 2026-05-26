@@ -1,10 +1,9 @@
 ---
 title: Slipper snails
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: slipper, crepidula, calyptraea, calyptraeidae, crepidulidae, 
-  calyptraeidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, 
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: slipper, crepidula, calyptraea, calyptraeidae, crepidulidae, calyptraeidae,
+  gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes: []
 family: Calyptraeidae
@@ -19,53 +18,34 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Calyptraeoidea
 updated: Jul 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/calyptraea/050429chgg5381m6l.jpg
-links_references: |
-  **Links**
-  - [Family
-    Crepidulidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Crepidulidae.html) on the Archerd Shell Collection website: brief
-    description and photos.
-
-  **References**
-  - Tan Siong
-    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-    Checklist of The Molluscs of Singapore* (pdf), Raffles
-    Museum of Biodiversity Research, National University of Singapore.
-  - Tan, K. S.
-    & L. M. Chou, 2000. *A
-    Guide to the Common Seashells of Singapore*. Singapore
-    Science Centre. 160 pp.
-  - Wee Y.C.
-    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-    National Council on the Environment. 163pp.
-  - Ng, P. K.
-    L. & Y. C. Wee, 1994. *The
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/calyptraea/050429chgg5381m6l.jpg
+links_references: "**Links**\n- [Family\n  Crepidulidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Crepidulidae.html)\
+  \ on the Archerd Shell Collection website: brief\n  description and photos.\n\n\
+  **References**\n- Tan Siong\n  Kiat and Henrietta P. M. Woo, 2010 *Preliminary\n\
+  \  Checklist of The Molluscs of Singapore* (pdf), Raffles\n  Museum of Biodiversity\
+  \ Research, National University of Singapore.\n- Tan, K. S.\n  & L. M. Chou, 2000.\
+  \ *A\n  Guide to the Common Seashells of Singapore*. Singapore\n  Science Centre.\
+  \ 160 pp.\n- Wee Y.C.\n  and Peter K. L. Ng. 1994. *A First Look at Biodiversity\
+  \ in Singapore*.\n  National Council on the Environment. 163pp.\n- Ng, P. K.\n \
+  \ L. & Y. C. Wee, 1994. *The\n"
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/calyptraea/050429chgg5381m6l.jpg
-    caption: Two different kinds of slipper snails on this shell occupied by a 
-      hermit crab. Changi, Apr 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/crepidula/050315cjd1823m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/calyptraea/050429chgg5381m6l.jpg
+    caption: Two different kinds of slipper snails on this shell occupied by a hermit
+      crab. Changi, Apr 05
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/crepidula/050315cjd1823m3a.jpg
     caption: The smaller shell is usually the male. Chek Jawa, Mar 05
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/crepidula/130923tmftd3409.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/crepidula/130923tmftd3409.jpg
     caption: Tanah Merah, Sep 13
-  - url: 
-      http://www.wildsingapore.com/arthropoda/limulidae/tachypleus/090428chgd0767m3e.jpg
+  - url: http://www.wildsingapore.com/arthropoda/limulidae/tachypleus/090428chgd0767m3e.jpg
     caption: On a horseshoe crab . Changi, Jul 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/calyptraea/180811chg.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/calyptraea/180811chg.jpg
     caption: On a living scallop . Changi, Aug 18
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/calyptraea/100926cjd1682m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/calyptraea/100926cjd1682m3.jpg
     caption: Conical slipper snail
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/crepidula/050315cjd1823m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/crepidula/050315cjd1823m3.jpg
     caption: Flat slipper snail
   gallery4:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -81,6 +61,9 @@ galleries:
 location:
 - chg
 - cj
+size:
+- 2.0
+- 3.0
 ---
 
 ## Where seen?

@@ -1,10 +1,9 @@
 ---
 title: 'Javan false limpet '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: javan, false, limpet, siphonaria, javanica, siphonariidae, gastropod, 
-  mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: javan, false, limpet, siphonaria, javanica, siphonariidae, gastropod, mollusc,
+  snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 14
@@ -33,53 +32,63 @@ order: Siphonariida
 superfamily: Siphonarioidea
 complex: Siphonaria laciniosa
 updated: Aug 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/070217skdg7695m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/070217skdg7695m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/070217skdg7695m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/070217skdg7695m3.jpg
     caption: Pulau Sekudu, Feb 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/040901sjid6160m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/040901sjid6160m3.jpg
     caption: St. John's Island, Sep 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/070901sjimn.jpg
-    caption: Drill snail drilled a hole in the limpet shell. St. John's Island, 
-      Sep 07 Photo shared by Marcus Ng on flickr .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/070901sjimn.jpg
+    caption: Drill snail drilled a hole in the limpet shell. St. John's Island, Sep
+      07 Photo shared by Marcus Ng on flickr .
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/110829ecpd0205m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/110829ecpd0205m6l.jpg
     caption: Coiled egg mass laid on a rock. East Coast Park, Aug 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/110829ecpd0209m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/110829ecpd0209m3a.jpg
     caption: Tiny eggs embedded in the coiled egg mass. East Coast Park, Aug 11
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/170626skdmn1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/170626skdmn1.jpg
     caption: Pulau Sekudu, Jun 17 Photo shared by Marcus Ng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/201117labvc4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/201117labvc4.jpg
     caption: Labrador, Nov 20 Photo shared by Vincent Choo on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Javanese false limpet (
+
   *Siphonaria javanica*
+
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=87081)
+
   on SeaLife Base: Technical fact sheet.
+
   - Javan false limpet (
+
   *Siphonaria javanica*
-  ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+
+  ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide
+  for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
+
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
+
   **References**
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Tan, K. S. & L. M. Chou, 2000.
+
   *A Guide to the Common Seashells of Singapore*
+
   . Singapore Science Centre. 160 pp.
+
+  '
 location:
 - skd
 - ecp
@@ -89,6 +98,11 @@ location:
 - sis
 - jng
 - rfl
+size:
+- 1.0
+- 2.0
+- 3.0
+- 4.0
 ---
 
 ## Where seen?

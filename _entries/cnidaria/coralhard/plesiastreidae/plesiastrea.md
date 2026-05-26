@@ -1,10 +1,9 @@
 ---
 title: Pock-marked  coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: coral, hard, plesiastrea, versipora, plesiastreidae, scleractinia, 
-  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: coral, hard, plesiastrea, versipora, plesiastreidae, scleractinia, cnidaria,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Plesiastreidae
 genus: Plesiastrea
@@ -18,65 +17,44 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/031124tuscd0032m3.jpg
-links_references: |
-  **Links**
-  - [*Plesiastrea versipora*](http://coral.aims.gov.au/factsheet.jsp?speciesCode=0306) on Corals of the World online on the
-    Australian Institute of Marine Science website: Technical fact
-    sheet.
-  - [*Plesiastrea versipora*](http://www.iucnredlist.org/details/133284/0) on the IUCN Red List of Threatened Species
-    website: Technical fact sheet.
-  - [*Plesiastrea versipora*](http://species-identification.org/species.php?species_group=corals&id=65&menuentry=groepen) on
-    Reef Corals of the Indo-Malayan Seas, the Marine Species Identification
-    Portal: Technical fact sheet.
-  - [*Plesiastrea versipora*](http://www.sealifebase.org/summary/Plesiastrea-versiporal) on
-    SeaLife Base: Technical fact sheet.
-
-  **References**
-  - Danwei
-    Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec
-    2009. *An
-    inventory of zooxanthellate sclerectinian corals in Singapore
-    including 33 new records* (pdf). Raffles Bulletin of
-    Zoology Supplement No. 22: 69-80.
-  - Veron,
-    Jen. 2000. *Corals
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/031124tuscd0032m3.jpg
+links_references: "**Links**\n- [*Plesiastrea versipora*](http://coral.aims.gov.au/factsheet.jsp?speciesCode=0306)\
+  \ on Corals of the World online on the\n  Australian Institute of Marine Science\
+  \ website: Technical fact\n  sheet.\n- [*Plesiastrea versipora*](http://www.iucnredlist.org/details/133284/0)\
+  \ on the IUCN Red List of Threatened Species\n  website: Technical fact sheet.\n\
+  - [*Plesiastrea versipora*](http://species-identification.org/species.php?species_group=corals&id=65&menuentry=groepen)\
+  \ on\n  Reef Corals of the Indo-Malayan Seas, the Marine Species Identification\n\
+  \  Portal: Technical fact sheet.\n- [*Plesiastrea versipora*](http://www.sealifebase.org/summary/Plesiastrea-versiporal)\
+  \ on\n  SeaLife Base: Technical fact sheet.\n\n**References**\n- Danwei\n  Huang,\
+  \ Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec\n  2009. *An\n  inventory\
+  \ of zooxanthellate sclerectinian corals in Singapore\n  including 33 new records*\
+  \ (pdf). Raffles Bulletin of\n  Zoology Supplement No. 22: 69-80.\n- Veron,\n  Jen.\
+  \ 2000. *Corals\n"
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/031124tuscd0032m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/031124tuscd0032m3.jpg
     caption: Tuas, Nov 03
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/031126tusbd0016m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/031126tusbd0016m3.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/031126tusbd0016m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/031126tusbd0016m3a.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/050722cjg9857m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/050722cjg9857m3.jpg
     caption: Chek Jawa, Jul 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/210529ecpblks18a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/210529ecpblks18a.jpg
     caption: East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/101108bkoms00669m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/101108bkoms00669m3.jpg
     caption: Terumbu Bukom, Nov 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/080621labd6027m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/080621labd6027m3.jpg
     caption: Labrador, Jun 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/211009blylks5.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/211009blylks5.jpg
     caption: Berlayar Creek, Oct 21 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/250430sjilll3.jpg
-    caption: St John's Island, Apr 25 Photo shared by Low Liong Leong on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/250812tblvo2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/250430sjilll3.jpg
+    caption: St John's Island, Apr 25 Photo shared by Low Liong Leong on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/250812tblvo2.jpg
     caption: Terumbu Bemban, Aug 25 Photo shared by Lon Voon Ong on facebook .
   gallery5:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -106,6 +84,9 @@ location:
 - sis
 - cyr
 - tsm
+size:
+- 15.0
+- 20.0
 ---
 
 ## Where seen?

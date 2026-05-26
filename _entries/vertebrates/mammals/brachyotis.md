@@ -25,23 +25,42 @@ subfamily: Cynopterinae
 tribe: Cynopterini
 updated: Oct 2016
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/brachyotis/030917sbwrd0086m6l.jpg
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Lesser Dog-faced Fruit Bat](http://www.ecologyasia.com/verts/bats/lesser_dog-faced_fruit-bat)
-  on Nick Baker's EcologyAsia website: fact sheet with photos.
+
+  on Nick Baker''s EcologyAsia website: fact sheet with photos.
+
   - [*Cynopterus brachyotis*](https://singapore.biodiversity.online/taxo4254/mainSpace/Cynopterus%20brachyotis.html)
-  (Chiroptera: Pteropodidae) Lesser Dog-faced Fruit Bat by Tan Xiao Rui Joanna, 2013 on taxo4254.
-  
+
+  (Chiroptera: Pteropodidae) Lesser Dog-faced Fruit Bat by Tan Xiao Rui Joanna, 2013
+  on taxo4254.
+
+
   **References**
+
   - Baker, Nick and Kelvin Lim. 2008.
-  *Wild Animals of Singapore: A Photographic Guide to Mammals, Reptiles, Amphibians and Freshwater Fishes*
+
+  *Wild Animals of Singapore: A Photographic Guide to Mammals, Reptiles, Amphibians
+  and Freshwater Fishes*
+
   Vertebrate Study Group, Nature Society (Singapore). 180 pp.
+
   - Nowak, Ronald M. 1994.
-  *Walker's Bats of the World*
+
+  *Walker''s Bats of the World*
+
   The Johns Hopkins University Press. 287 pp.
+
   - Francis, Charles M. 2001.
+
   *Mammals of South-East Asia*
+
   New Holland Publishers. 128 pp.
+
+  '
+size:
+- 6.5
 ---
 
 ## Where seen?

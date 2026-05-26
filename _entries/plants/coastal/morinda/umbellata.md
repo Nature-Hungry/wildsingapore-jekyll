@@ -23,33 +23,35 @@ tribe: Morindeae
 inat_id: 1415440
 updated: Nov 10
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/umbellata/090513labd1669m6l.jpg
-links_references: |
-  **Links**
-  - [*Morinda
-    umbellata*](http://floraofsingapore.wordpress.com/2010/08/08/morinda-umbellata/) on Total Vascular Flora of Singapore Online:
-    photos and fact sheet.
-  
-  **References**
-  - Hsuan Keng,
-    S.C. Chin and H. T. W. Tan. 1990, *[The
+links_references: "**Links**\n- [*Morinda\n  umbellata*](http://floraofsingapore.wordpress.com/2010/08/08/morinda-umbellata/)\
+  \ on Total Vascular Flora of Singapore Online:\n  photos and fact sheet.\n\n**References**\n\
+  - Hsuan Keng,\n  S.C. Chin and H. T. W. Tan. 1990, *[The\n"
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/umbellata/090513labd1670m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/umbellata/090513labd1668m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/umbellata/090513labd1668m3c.jpg"
-      caption: ""
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/umbellata/090513labd1670m3.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/umbellata/090513labd1668m3a.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/umbellata/090513labd1668m3c.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/umbellata/090517ubnd2004m3.jpg"
-      caption: "Pulau Ubin, May 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/umbellata/090517ubnd2003m3b.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/umbellata/090513labd1668m3b.jpg"
-      caption: ""
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/umbellata/090517ubnd2004m3.jpg
+    caption: Pulau Ubin, May 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/umbellata/090517ubnd2003m3b.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/umbellata/090513labd1668m3b.jpg
+    caption: ''
   gallery3:
-    - url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
-      caption: "Links Morinda umbellata on Total Vascular Flora of Singapore Online: photos and fact sheet. References Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University Press. 222 pp. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444."
+  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
+    caption: 'Links Morinda umbellata on Total Vascular Flora of Singapore Online:
+      photos and fact sheet. References Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
+      The Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University
+      Press. 222 pp. Burkill, I. H., 1993. A Dictionary of the Economic Products of
+      the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture,
+      Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.'
+size:
+- 7.0
+- 12.0
 ---
 
 ## Where seen?

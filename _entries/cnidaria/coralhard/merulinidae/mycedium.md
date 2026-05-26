@@ -1,10 +1,9 @@
 ---
 title: Elephant-nose plate
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: elephant, nose, plate, mycedium, elephantotus, merulinidae, 
-  pectiniidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea,
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: elephant, nose, plate, mycedium, elephantotus, merulinidae, pectiniidae,
+  coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Merulinidae
 genus: Mycedium
@@ -18,69 +17,75 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/160410tbo14100193.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/160410tbo14100193.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/160410tbo14100193.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/160410tbo14100193.jpg
     caption: Terumbu Bemban, Apr 16
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/190607tb.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/190607tb.jpg
     caption: Terumbu Bemban, Jun 19
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/190607tbm3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/190607tbm3.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/140518tmlks2.JPG
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/140518tmlks2.JPG
     caption: Tanah Merah, May 14
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/140518tmlks1.JPG
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/140518tmlks1.JPG
     caption: Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/140518tmlks1a.JPG
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/140518tmlks1a.JPG
     caption: ''
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/220618tmftdc4.jpg
-    caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Dayna Cheah on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/2007024pcnlks8a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/220618tmftdc4.jpg
+    caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Dayna Cheah on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/2007024pcnlks8a.jpg
     caption: East Coast PCN, Jul 20 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/260629smkelk16.jpg
-    caption: Pulau Semakau East, Jun 25 Photo shared by Loh Kok Sheng on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/260629smkelk16b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/260629smkelk16.jpg
+    caption: Pulau Semakau East, Jun 25 Photo shared by Loh Kok Sheng on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/260629smkelk16b.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/260629smkelk16a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/260629smkelk16a.jpg
     caption: ''
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
+
   with species factsheets.
+
   - [IUCN Red List of Threatened Species](https://www.iucnredlist.org/)
+
   with species factsheets.
+
   - [*Mycedium elephantotus*](http://www.sealifebase.org/summary/Mycedium-elephantotus.html)
+
   on SeaLife Base: Technical fact sheet.
 
+
   **References**
+
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
-  *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new records*
+
+  *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new
+  records*
+
   (pdf). Raffles Bulletin of Zoology Supplement No. 22: 69-80.
+
   - Veron, Jen. 2000.
+
   *Corals of the World*
+
   Australian Institute of Marine Science, Australia. 3 volumes.
+
+  '
 location:
 - tm
 - ecp
 - hnt
 - tsm
+size:
+- 20.0
+- 30.0
 ---
 
 ## Where seen?

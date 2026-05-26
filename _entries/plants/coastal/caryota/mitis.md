@@ -28,31 +28,44 @@ updated: Oct 2016
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/caryota/mitis/100321sgcd0210m6la.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/caryota/mitis/091227kntd6421m3.jpg"
-      caption: Flowers
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/caryota/mitis/091227kntd6420m6l.jpg"
-      caption: "Kranji Nature Trail, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/caryota/mitis/091227kntd6467m6l.jpg"
-      caption: "Kranji Nature Trail, Dec 09"
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/caryota/mitis/091227kntd6421m3.jpg
+    caption: Flowers
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/caryota/mitis/091227kntd6420m6l.jpg
+    caption: Kranji Nature Trail, Dec 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/caryota/mitis/091227kntd6467m6l.jpg
+    caption: Kranji Nature Trail, Dec 09
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/caryota/mitis/091227kntd6439m3.jpg"
-      caption: Fruits
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/caryota/mitis/100116cjc0340m3.jpg"
-      caption: Fruits
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/caryota/mitis/091227kntd6434m6l.jpg"
-      caption: "Kranji Nature Trail, Dec 09"
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/caryota/mitis/091227kntd6439m3.jpg
+    caption: Fruits
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/caryota/mitis/100116cjc0340m3.jpg
+    caption: Fruits
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/caryota/mitis/091227kntd6434m6l.jpg
+    caption: Kranji Nature Trail, Dec 09
+links_references: '**Links**
+
   - [*Caryota mitis*](https://singapore.biodiversity.online/taxo4254/mainSpace/Caryota%20mitis.html)
+
   (Arecales: Arecaceae) Clustering Fishtail Palm by Randolph Quek, 2014, on taxo4254.
-  
+
+
   **References**
+
   - Burkill, I. H., 1993.
+
   *A Dictionary of the Economic Products of the Malay Peninsula*
-  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
+
+  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
+  Volume 1: 1-1240; volume 2: 1241-2444.
+
   - Whitmore, T. C. 1998 (2nd edition).
+
   *Palms of Malaya*
+
   . White Lotus. 136 pp.
+
+  '
+size:
+- 600.0
 ---
 
 ## Where seen?

@@ -1,8 +1,6 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: straw, sponge, porifera, field, guide, seashore, sea, shore, marine, 
-  coastal,
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: straw, sponge, porifera, field, guide, seashore, sea, shore, marine, coastal,
 layout: entry
 shape: sausage
 title: Straw sponge
@@ -14,28 +12,21 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Sep 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/porifera/straw/070604chgg0125m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/porifera/straw/070604chgg0125m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/straw/070604chgg0125m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/straw/070604chgg0125m3.jpg
     caption: Changi, Jun 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/straw/070801kusd4860m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/straw/070801kusd4860m3.jpg
     caption: Kusu Island, Aug 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/straw/050526cj6884m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/straw/050526cj6884m3.jpg
     caption: Chek Jawa, May 05
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/straw/020101cjcpd3763m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/straw/020101cjcpd3763m3.jpg
     caption: Chek Jawa, Jan 02
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/straw/071002chgd6865m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/straw/071002chgd6865m3.jpg
     caption: Changi, Oct 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/straw/120111chgs01918m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/straw/120111chgs01918m3.jpg
     caption: Changi, Jan 12
 location:
 - pgl
@@ -51,6 +42,9 @@ location:
 - tpg
 - smk
 - tsm
+size:
+- 1.0
+- 2.0
 ---
 
 ## Where seen?

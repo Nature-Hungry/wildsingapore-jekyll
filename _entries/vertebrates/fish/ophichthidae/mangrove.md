@@ -1,9 +1,8 @@
 ---
 title: Mangrove snake-eel
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: mangrove, snake, eel, fish, ophichthidae, field, guide, seashore, sea,
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: mangrove, snake, eel, fish, ophichthidae, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry
 attributes:
 - 9
@@ -24,41 +23,35 @@ superorder: Elopomorpha
 order: Anguilliformes
 suborder: Congroidei
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/mangrove/121227prpd2805m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/mangrove/121227prpd2805m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/mangrove/121227prpd2805m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/mangrove/121227prpd2805m3.jpg
     caption: Large head, small eyes, pectoral fins. Pasir Ris Park, Dec 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/mangrove/121227prpd2811m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/mangrove/121227prpd2811m6l.jpg
     caption: Pasir Ris Park, Dec 12
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/mangrove/191214cjal5.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/mangrove/191214cjal5.jpg
     caption: Chek Jawa, Dec 19 Photo shared by Adrianne Lee on facebook .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/mangrove/170528chglks2a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/mangrove/170528chglks2a.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/mangrove/170528chglks2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/mangrove/170528chglks2.jpg
     caption: Changi, May 17 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/mangrove/150618tmftlks1m3a.jpg
-    caption: Tanah Merah Ferry Terminal, Jun 15 Photo shared by Loh Kok Sheng on
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/evermann/150618tmftlks1m3b.jpg
-    caption: Tanah Merah Ferry Terminal, Jun 15 Photo shared by Loh Kok Sheng on
-      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/mangrove/150618tmftlks1m3a.jpg
+    caption: Tanah Merah Ferry Terminal, Jun 15 Photo shared by Loh Kok Sheng on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/evermann/150618tmftlks1m3b.jpg
+    caption: Tanah Merah Ferry Terminal, Jun 15 Photo shared by Loh Kok Sheng on facebook
+      .
 location:
 - prp
 - chg
 - cj
 - tm
+size:
+- 30.0
 ---
 
 ## Where seen?

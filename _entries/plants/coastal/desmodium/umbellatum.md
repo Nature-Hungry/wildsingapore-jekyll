@@ -24,50 +24,54 @@ tribe: Desmodieae
 subtribe: Desmodiinae
 updated: Nov 10
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/desmodium/umbellatum/090412hnto0283m3.jpg
-links_references: |
-  **Links**
-  - *[Desmodium
-    umbellatum](http://floraofsingapore.wordpress.com/2010/04/19/desmodium-triflorum/)* on Total Vascular Flora of Singapore Online:
-    photos and fact sheet.
-  - [Trees
-    and Shrubs of the Maldives](http://www.fao.org/docrep/010/ai387e/ai387e00).
-    V. Selvam. 2007. On the FAO website.
-  
-  **References**
-  - Hsuan Keng,
-    S.C. Chin and H. T. W. Tan. 1990, *[The
+links_references: "**Links**\n- *[Desmodium\n  umbellatum](http://floraofsingapore.wordpress.com/2010/04/19/desmodium-triflorum/)*\
+  \ on Total Vascular Flora of Singapore Online:\n  photos and fact sheet.\n- [Trees\n\
+  \  and Shrubs of the Maldives](http://www.fao.org/docrep/010/ai387e/ai387e00).\n\
+  \  V. Selvam. 2007. On the FAO website.\n\n**References**\n- Hsuan Keng,\n  S.C.\
+  \ Chin and H. T. W. Tan. 1990, *[The\n"
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/desmodium/umbellatum/090412hntd9883m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/desmodium/umbellatum/090412hntd9883m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/desmodium/umbellatum/090412hntd9891m3.jpg"
-      caption: ""
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/desmodium/umbellatum/090412hntd9883m3.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/desmodium/umbellatum/090412hntd9883m3a.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/desmodium/umbellatum/090412hntd9891m3.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/desmodium/umbellatum/090412hntd9884m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/desmodium/umbellatum/090412hntd9886m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/desmodium/umbellatum/090412hntd9887m3a.jpg"
-      caption: ""
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/desmodium/umbellatum/090412hntd9884m3.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/desmodium/umbellatum/090412hntd9886m3.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/desmodium/umbellatum/090412hntd9887m3a.jpg
+    caption: ''
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/desmodium/umbellatum/090412hntd9917m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/desmodium/umbellatum/090412hntd9884m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/desmodium/umbellatum/090412hntd9888m3.jpg"
-      caption: ""
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/desmodium/umbellatum/090412hntd9917m3a.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/desmodium/umbellatum/090412hntd9884m3a.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/desmodium/umbellatum/090412hntd9888m3.jpg
+    caption: ''
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/desmodium/umbellatum/090529prpd2914m3.jpg"
-      caption: "Pasir Ris, May 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/desmodium/umbellatum/090529prpd2914m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/desmodium/umbellatum/090529prpd2915m3.jpg"
-      caption: ""
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/desmodium/umbellatum/090529prpd2914m3.jpg
+    caption: Pasir Ris, May 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/desmodium/umbellatum/090529prpd2914m3a.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/desmodium/umbellatum/090529prpd2915m3.jpg
+    caption: ''
   gallery5:
-    - url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
-      caption: "Links Desmodium umbellatum on Total Vascular Flora of Singapore Online: photos and fact sheet. Trees and Shrubs of the Maldives . V. Selvam. 2007. On the FAO website. References Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University Press. 222 pp. Corners, E. J. H., 1997. Wayside Trees of Malaya: in two volumes . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444."
+  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
+    caption: 'Links Desmodium umbellatum on Total Vascular Flora of Singapore Online:
+      photos and fact sheet. Trees and Shrubs of the Maldives . V. Selvam. 2007. On
+      the FAO website. References Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The
+      Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University
+      Press. 222 pp. Corners, E. J. H., 1997. Wayside Trees of Malaya: in two volumes
+      . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp,
+      plates 1-38; volume 2: 477-861 pp., plates 139-236. Burkill, I. H., 1993. A
+      Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication
+      Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume
+      2: 1241-2444.'
+size:
+- 300.0
 ---
 
 ## Where seen?

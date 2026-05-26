@@ -1,10 +1,9 @@
 ---
 title: Velcro crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: velcro, crab, camposcia, retusa, majidae, decapod, crustacea, field, 
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
-  fact sheet, info,  photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: velcro, crab, camposcia, retusa, majidae, decapod, crustacea, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info,  photo
 layout: entry
 attributes:
 - 38
@@ -30,146 +29,143 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Majoidea
 updated: Dec 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/050822cjg2135m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/050822cjg2135m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They attach living 
-      sponges and seaweeds as a disguise. The disguise continues to grow and 
-      other animals live on it. They tend to move slowly.
+    caption: if you learn only 3 things about them ... They attach living sponges
+      and seaweeds as a disguise. The disguise continues to grow and other animals
+      live on it. They tend to move slowly.
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They attach living sponges and seaweeds as a disguise. The disguise
-      continues to grow and other animals live on it. They tend to move slowly.
+    caption: They attach living sponges and seaweeds as a disguise. The disguise continues
+      to grow and other animals live on it. They tend to move slowly.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/050822cjg2135m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/050822cjg2135m3.jpg
     caption: Upperside Chek Jawa, Aug 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/050822cjg2135m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/050822cjg2135m3.jpg
     caption: Upperside Chek Jawa, Aug 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/050822cjg2131m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/050822cjg2131m3.jpg
     caption: Underside.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/050822cjg2131m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/050822cjg2131m3a.jpg
     caption: Pincers are undecorated.
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/080704sekd6776m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/080704sekd6776m3.jpg
     caption: Pulau Sekudu, Jul 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/030716cjd0013m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/030716cjd0013m3.jpg
     caption: Chek Jawa, Jul 03
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/030615cjd0196m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/030615cjd0196m3.jpg
     caption: Chek Jawa, Jun 03
   gallery4:
   - url: https://live.staticflickr.com/4580/23979805717_50c817cf46_z.jpg
-    caption: Upside down crab (showing its small undecorated pincers) righting 
-      itself. Changi, Dec 17
+    caption: Upside down crab (showing its small undecorated pincers) righting itself.
+      Changi, Dec 17
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/240821skd2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/240821skd2.jpg
     caption: Crabs decorated with Stinging hydroids . Pulau Sekudu, Aug 24
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/240821skd1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/240821skd1.jpg
     caption: Pulau Sekudu, Aug 24
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/201020swgvc8.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/201020swgvc8.jpg
     caption: Sembawang, Oct 20 Photo shared by Vincent Choo on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/251012chgmn2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/251012chgmn2.jpg
     caption: Changi, Oct 25 Photo shared by Marcus Ng on facebook .
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/171205ubnay2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/171205ubnay2.jpg
     caption: Pulau Ubin, Dec 17 Photo shared by Abel Yeo on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/180616bblks2a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/180616bblks2a.jpg
     caption: Beting Bronok, Jun 18
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/180616bblks2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/180616bblks2.jpg
     caption: Photo shared by Loh Kok Sheng on facebook .
   gallery8:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/121017tuslks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/121017tuslks.JPG
     caption: Tuas, Oct 12 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/170429epcnlks1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/170429epcnlks1.jpg
     caption: East Coast Park, Apr 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/220519ecpbky2.jpg
-    caption: East Coast Park-Marina East, May 22 Photo shared by Kelvin Yong on 
-      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/220519ecpbky2.jpg
+    caption: East Coast Park-Marina East, May 22 Photo shared by Kelvin Yong on facebook
+      .
   gallery9:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/130427sntmn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/130427sntmn.jpg
     caption: Sentosa, Apr 13 Photo shared by Marcus Ng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/120818lazlks2.JPG
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/120818lazlks2.JPG
     caption: Seringat Kias, Aug 12 Photo shared by Loh Kok Sheng on his blog .
   gallery10:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/170726lsisjll1.jpg
-    caption: Little Sisters Island, Jul 17 Photo shared by Jianlin Liu on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/101224sislks2m3.JPG
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/170726lsisjll1.jpg
+    caption: Little Sisters Island, Jul 17 Photo shared by Jianlin Liu on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/101224sislks2m3.JPG
     caption: Sisters Island, Dec 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/110123sislks1m3.JPG
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/110123sislks1m3.JPG
     caption: Sisters Island, Jan 11 Photo shared by Loh Kok Sheng on his blog .
   gallery11:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/100710sistch3m3.jpg
-    caption: St. John's Island, Jul 10 Photo shared by Toh Chay Hoon on her blog
-      .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/070902sjilks01m3.jpg
-    caption: St. John's Island, Sep 07 Photo shared by Loh Kok Sheng on his blog
-      .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/070901sjimn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/100710sistch3m3.jpg
+    caption: St. John's Island, Jul 10 Photo shared by Toh Chay Hoon on her blog .
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/070902sjilks01m3.jpg
+    caption: St. John's Island, Sep 07 Photo shared by Loh Kok Sheng on his blog .
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/070901sjimn.jpg
     caption: St. John's Island, Sep 07 Photo shared by Marcus Ng on flickr.
   gallery12:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/100528tkkjk.JPG
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/100528tkkjk.JPG
     caption: Pulau Tekukor, May 10 Photo shared by James Koh on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/120411hntmn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/120411hntmn.jpg
     caption: Pulau Hantu, Apr 12 Photo shared by Marcus Ng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/140715tryhpy.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/140715tryhpy.jpg
     caption: Terumbu Raya, Jul 14 Photo shared by Heng Pei Yan on flickr .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Velcro and Decorator crab of the Family Majidae](http://mangrove.nus.edu.sg/pub/seashore/text/188)
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
+
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+
   . The Singapore Science Centre, Singapore. 160 pp.
+
   - [*Camposcia retusa*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=103017)
+
   on
+
   [SeaLifeBase](http://www.sealifebase.org/search.php)
-  by Palomares, M.L.D. and D. Pauly. Editors. 2009: fact sheets on a vast range of marinelife.
+
+  by Palomares, M.L.D. and D. Pauly. Editors. 2009: fact sheets on a vast range of
+  marinelife.
+
   - [Decorator crab (
+
   *Camposcia retusa*
+
   )](http://species-identification.org/species.php?species_group=crabs_of_japan&id=856)
+
   on Crabs of Japan in Marine Species Identification Portal: Technical fact sheet
+
   - [*Camposcia retusa*](https://singapore.biodiversity.online/taxo4254/mainSpace/Camposcia%20retusa.html)
+
   (Decapoda: Inachidae) Velcro crab by Loo Nicolette, 2016, on taxo4254
 
+
   **References**
+
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
-  *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs of the world*
+
+  *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs
+  of the world*
+
   . The Raffles Bulletin of Zoology. Supplement No. 17, 31 Jan 2008. 286 pp.
+
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
+
   *Rhythm of the Sea: The Life and Times of Labrador Beach.*
-  Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+
+  Division of Biology, School of Science, Nanyang Technological University & Department
+  of Zoology, the National University of Singapore. 160 pp.
+
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+
   . Nature Society (Singapore). 285 pp.
+
+  '
 location:
 - prp
 - chg
@@ -188,6 +184,9 @@ location:
 - sis
 - hnt
 - tsm
+size:
+- 3.0
+- 6.0
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

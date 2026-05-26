@@ -1,10 +1,9 @@
 ---
 title: American mussel
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: horse, mussel, clam, modiolus, mytilidae, bivalve, mollusc, field, 
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
-  fact sheet, info
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: horse, mussel, clam, modiolus, mytilidae, bivalve, mollusc, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info
 layout: entry
 attributes:
 - 2
@@ -24,53 +23,65 @@ order: Mytilida
 superfamily: Mytiloidea
 subfamily: Crenellinae
 updated: Oct 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/strigata/170310krjo3100080.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/strigata/170310krjo3100080.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/strigata/170310krjo3100080.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/strigata/170310krjo3100080.jpg
     caption: Kranji, Mar 17
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/strigata/180130krjo1300009,jpg.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/strigata/180130krjo1300009,jpg.jpg
     caption: Dead ones. Kranji, Jan 18
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/strigata/180130krjo1300077.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/strigata/180130krjo1300077.jpg
     caption: Dense carpet on the shore Kranji, Jan 18
   gallery3:
   - url: https://live.staticflickr.com/4769/39982930621_8152ba2c57_z.jpg
     caption: ''
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/strigata/200917swgmn1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/strigata/200917swgmn1.jpg
     caption: Sembawang, Sep 20 Photo shared by Marcus Ng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/strigata/200917swgmn1a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/strigata/200917swgmn1a.jpg
     caption: ''
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/strigata/201020swgvc4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/strigata/201020swgvc4.jpg
     caption: Sembawang, Oct 20 Photo shared by Vincent Choo on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Mytella charruana*](https://sealifebase.ca/summary/Mytella-charruana.html)
+
   from SeaLife Base: Technical fact sheet.
+
   - From the wild shores of singapore
-  - [In the news: Invasive mussels in Singapore's northern shores](https://wildshores.blogspot.com/2018/03/in-news-invasive-mussels-in-singapores.html)
+
+  - [In the news: Invasive mussels in Singapore''s northern shores](https://wildshores.blogspot.com/2018/03/in-news-invasive-mussels-in-singapores.html)
+
   , Mar 18
-  - [Invasive mussels on Singapore's northern shores](http://wildshores.blogspot.sg/2018/02/invasive-mussels-on-singapores-northern.html)
+
+  - [Invasive mussels on Singapore''s northern shores](http://wildshores.blogspot.sg/2018/02/invasive-mussels-on-singapores-northern.html)
+
   - [Kranji Clamity Continues, Jan 2018](http://wildshores.blogspot.sg/2018/01/kranji-clamity-continues.html)
+
   - [Clams and clear water at Kranji, Mar 2017](http://wildshores.blogspot.sg/2017/03/clams-and-clear-water-at-kranji.html)
 
+
   **References**
+
   - J. Y. Lim. 11 Feb 2018.
+
   *Mytella strigata*
-  (Bivalvia: Mytilidae): an alien mussel recently introduced to Singapore and spreading rapidly.
+
+  (Bivalvia: Mytilidae): an alien mussel recently introduced to Singapore and spreading
+  rapidly.
+
   [Molluscan Research Vol 38 Issue 3 2018](https://doi.org/10.1080/13235818.2018.1423858)
+
   .
+
+  '
 location:
 - sbw
+size:
+- 2.0
+- 5.0
 ---
 
 ## Where seen?

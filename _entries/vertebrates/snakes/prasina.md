@@ -1,10 +1,8 @@
 ---
 title: Oriental whip snake
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: oriental, whip, snake, ahaetulla, prasina, colubridae, field, guide, 
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: oriental, whip, snake, ahaetulla, prasina, colubridae, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Colubridae
 genus: Ahaetulla
@@ -20,60 +18,83 @@ order: Squamata
 suborder: Serpentes
 subfamily: Chrysopeleinae
 updated: Oct 2016
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/snakes/prasina/030817cjd0036m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/prasina/030817cjd0036m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/prasina/030817cjd0036m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/prasina/030817cjd0036m3.jpg
     caption: Chek Jawa, Aug 03 Tongue threat display?
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/prasina/030817cjd0039m6la.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/prasina/030817cjd0039m6la.jpg
     caption: A long thin tail. Chek Jawa, Aug 03
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/prasina/110402sbwrmn.jpg
-    caption: Sungei Buloh Wetland Reserve, Apr 11 Photo shared by Marcus Ng on 
-      flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/prasina/150722labmn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/prasina/110402sbwrmn.jpg
+    caption: Sungei Buloh Wetland Reserve, Apr 11 Photo shared by Marcus Ng on flickr
+      .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/prasina/150722labmn.jpg
     caption: Labrador, Jul 15 Photo shared by Marcus Ng on flickr .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/prasina/251231prprqo1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/prasina/251231prprqo1.jpg
     caption: Pasir Ris Park, Jan 26 Photo shared by Rui Quan Oh on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Oriental Whip Snakes](http://singaporesnakes.blogspot.com/search/label/Oriental%20Whip%20Snake)
+
   on the
+
   [Singapore Snakes](http://singaporesnakes.blogspot.com/)
+
   blog: fact sheet with photos and links to local sightings and other posts.
+
   - [Oriental Whip Snake](http://www.ecologyasia.com/verts/snakes/oriental_whip-snake)
-  on Nick Baker's EcologyAsia website: fact sheet with photos.
+
+  on Nick Baker''s EcologyAsia website: fact sheet with photos.
+
   - [Oriental Whip Snake](http://www.wildsingapore.per.sg/discovery/factsheet/snakewhiporiental)
-  on Chan Kwok Wai's Wildlife Singapore: fact sheet with photos.
+
+  on Chan Kwok Wai''s Wildlife Singapore: fact sheet with photos.
+
   - [*Ahaetulla prasina*](http://www.iucnredlist.org/details/176329/0)
+
   on the IUCN Red List.
 
+
   **References**
+
   - Lim, Kelvin K. P. & Francis L K Lim, 1992.
+
   *A Guide to the Amphibians and Reptiles of Singapore*
+
   Singapore Science Centre. 160 pp.
+
   - Baker, Nick and Kelvin Lim. 2008.
-  *Wild Animals of Singapore: A Photographic Guide to Mammals, Reptiles, Amphibians and Freshwater Fishes*
+
+  *Wild Animals of Singapore: A Photographic Guide to Mammals, Reptiles, Amphibians
+  and Freshwater Fishes*
+
   Vertebrate Study Group, Nature Society (Singapore). 180 pp.
+
   - Stuebing, Robert B and Robert F. Inger. 1999.
+
   *A Field Guide to the Snakes of Borneo*
+
   Natural History Publications (Borneo). 254 pp.
-  - Cox, Merel J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt. 1998.
-  *A Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular Malaysia and Singapore*
+
+  - Cox, Merel J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt.
+  1998.
+
+  *A Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular Malaysia
+  and Singapore*
+
   New Holland. pp 144.
+
+  '
 location:
 - sbw
 - prp
 - ubn
 - cj
 - lab
+size:
+- 200.0
 ---
 
 ## Where seen?

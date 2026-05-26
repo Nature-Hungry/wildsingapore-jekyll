@@ -1,10 +1,9 @@
 ---
 title: Flat false limpet
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: javan, false, limpet, siphonaria, atra, siphonariidae, gastropod, 
-  mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: javan, false, limpet, siphonaria, atra, siphonariidae, gastropod, mollusc,
+  snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 14
@@ -33,32 +32,38 @@ order: Siphonariida
 superfamily: Siphonarioidea
 complex: Siphonaria atra
 updated: Aug 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/atra/050509hntd3208m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/atra/050509hntd3208m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/atra/050509hntd3208m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/atra/050509hntd3208m3.jpg
     caption: Pulau Hantu, May 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/atra/051103sisg2849m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/atra/051103sisg2849m3.jpg
     caption: Underside. Sisters Islands, Sep 05
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/atra/160610jngmn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/atra/160610jngmn.jpg
     caption: Pulau Jong, Jun 16 Photo shared by Marcus Ng on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Siphonaria atra*](http://sealifebase.org/Summary/speciesSummary.php?id=1112)
+
   on SeaLife Base: Technical fact sheet.
 
+
   **References**
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Tan, K. S. & L. M. Chou, 2000.
+
   *A Guide to the Common Seashells of Singapore*
+
   . Singapore Science Centre. 160 pp.
+
+  '
 location:
 - tm
 - kus
@@ -70,6 +75,9 @@ location:
 - smk
 - rfl
 - lfa
+size:
+- 2.0
+- 3.0
 ---
 
 ## Where seen?

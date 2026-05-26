@@ -20,52 +20,56 @@ updated: Dec 2019
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/060613ecpd3100m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: if you learn only 3 things about them ... They are animals and not plants! Don't break or step on them. Each fan is a colony of tiny polyps that produce a hard skeleton. Many fascinating animals live on them. Look for them.
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: They are animals and not plants! Don't break or step on them. Each fan is a colony of tiny polyps that produce a hard skeleton. Many fascinating animals live on them. Look for them.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... They are animals and not plants!
+      Don't break or step on them. Each fan is a colony of tiny polyps that produce
+      a hard skeleton. Many fascinating animals live on them. Look for them.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: They are animals and not plants! Don't break or step on them. Each fan
+      is a colony of tiny polyps that produce a hard skeleton. Many fascinating animals
+      live on them. Look for them.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/060613ecpd3100m3.jpg"
-      caption: "Tiny sea fans dot the rocks. East Coast Park, Jun 06"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/others/040604bbad0081m3.jpg"
-      caption: "Larger sea fans seen on remote shores. Beting Bronok, Jun 04"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/candelabra/111222tusd4654m3.jpg"
-      caption: "Polyps of a sea fan. Tuas, Dec 11"
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/060613ecpd3100m3.jpg
+    caption: Tiny sea fans dot the rocks. East Coast Park, Jun 06
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/others/040604bbad0081m3.jpg
+    caption: Larger sea fans seen on remote shores. Beting Bronok, Jun 04
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/candelabra/111222tusd4654m3.jpg
+    caption: Polyps of a sea fan. Tuas, Dec 11
   gallery3:
-    - url: "http://www.wildsingapore.com/mollusca/bivalvia/pteriidae/pteriidae/130113chgd3570m3a.jpg"
-      caption: "Winged oyster on a sea fan Changi, Jan 13"
-    - url: "http://www.wildsingapore.com/mollusca/gastropoda/ovulidae/red/060626ecpd3582m3.jpg"
-      caption: "Ovulid snails on a sea fan East Coast, Jun 06"
-    - url: "http://www.wildsingapore.com/echinodermata/ophiuroidea/tinycolourful/100727chgd9292m3.jpg"
-      caption: "Tiny colourful brittle stars . Changi, Jul 09"
+  - url: http://www.wildsingapore.com/mollusca/bivalvia/pteriidae/pteriidae/130113chgd3570m3a.jpg
+    caption: Winged oyster on a sea fan Changi, Jan 13
+  - url: http://www.wildsingapore.com/mollusca/gastropoda/ovulidae/red/060626ecpd3582m3.jpg
+    caption: Ovulid snails on a sea fan East Coast, Jun 06
+  - url: http://www.wildsingapore.com/echinodermata/ophiuroidea/tinycolourful/100727chgd9292m3.jpg
+    caption: Tiny colourful brittle stars . Changi, Jul 09
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/060613ecpd3053m3b.jpg"
-      caption: Skinny sea fans
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/asparagus/030521bbd0232m3.jpg"
-      caption: Asparagus sea fan
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/candelabra/060528bbd2416m3.jpg"
-      caption: Candelabra sea fan
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/060613ecpd3053m3b.jpg
+    caption: Skinny sea fans
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/asparagus/030521bbd0232m3.jpg
+    caption: Asparagus sea fan
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/candelabra/060528bbd2416m3.jpg
+    caption: Candelabra sea fan
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/050411tusg4438m3.jpg"
-      caption: Flat branch sea fan
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/gnarled/080705bbd7072m3.jpg"
-      caption: Gnarled sea fan
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lyre/040604bbad0076m3.jpg"
-      caption: Lyre sea fan
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/050411tusg4438m3.jpg
+    caption: Flat branch sea fan
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/gnarled/080705bbd7072m3.jpg
+    caption: Gnarled sea fan
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lyre/040604bbad0076m3.jpg
+    caption: Lyre sea fan
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/050724bbg0161m3.jpg"
-      caption: Maze sea fan
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/tree/030520bbd0241m3.jpg"
-      caption: Tree sea fan
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lemon/160804lygd6866m3.jpg"
-      caption: Lemon sea fan
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/050724bbg0161m3.jpg
+    caption: Maze sea fan
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/tree/030520bbd0241m3.jpg
+    caption: Tree sea fan
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lemon/160804lygd6866m3.jpg
+    caption: Lemon sea fan
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/blue/060516chgd2041.jpg"
-      caption: Blue sea fan
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/leathery/100812tpld0362m3.jpg"
-      caption: Leathery sea fan
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/whip/030714bbd0067m3.jpg"
-      caption: Sea whip
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/blue/060516chgd2041.jpg
+    caption: Blue sea fan
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/leathery/100812tpld0362m3.jpg
+    caption: Leathery sea fan
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/whip/030714bbd0067m3.jpg
+    caption: Sea whip
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

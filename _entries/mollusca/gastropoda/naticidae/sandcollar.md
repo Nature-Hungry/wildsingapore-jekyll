@@ -21,33 +21,53 @@ updated: Aug 2020
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sandcollar/030703skdd0250m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "if you learn only 3 things about them ... Although it feels plasticky and dead, the sand collar is full of living baby snails! The size of the collar depends on the size of the mother moon snail. When the baby snails hatch, the sand collar disintegrates."
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "Although it feels plasticky and dead, the sand collar is full of living baby snails! The size of the collar depends on the size of the mother moon snail. When the baby snails hatch, the sand collar disintegrates."
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... Although it feels plasticky
+      and dead, the sand collar is full of living baby snails! The size of the collar
+      depends on the size of the mother moon snail. When the baby snails hatch, the
+      sand collar disintegrates.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: Although it feels plasticky and dead, the sand collar is full of living
+      baby snails! The size of the collar depends on the size of the mother moon snail.
+      When the baby snails hatch, the sand collar disintegrates.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sandcollar/030703skdd0250m3.jpg"
-      caption: "Pulau Sekudu, Jul 03"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sandcollar/041127cjd8603m3.jpg"
-      caption: "Chek Jawa, Nov 04"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/080704sekd6848m3.jpg"
-      caption: "Pulau Sekudu, Jul 08"
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sandcollar/030703skdd0250m3.jpg
+    caption: Pulau Sekudu, Jul 03
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sandcollar/041127cjd8603m3.jpg
+    caption: Chek Jawa, Nov 04
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/080704sekd6848m3.jpg
+    caption: Pulau Sekudu, Jul 08
+links_references: '**Links**
+
   - [Moon Snail (
+
   *Polinices*
+
   sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/142)
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
+
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+
   . The Singapore Science Centre, Singapore. 160 pp.
-  
+
+
   **References**
+
   - Dun-Ru Kang et al.
-  *Egg-collar morphology and identity of nine species of Naticidae (Gastropoda) in Taiwan, with an assessment of their phylogenetic relationships*
+
+  *Egg-collar morphology and identity of nine species of Naticidae (Gastropoda) in
+  Taiwan, with an assessment of their phylogenetic relationships*
+
   . November 2018. Journal of Molluscan Studies 84:354-378 DOI: 10.1093/mollus/eyy041
+
   - Tan, K. S. & L. M. Chou, 2000.
+
   *A Guide to the Common Seashells of Singapore*
+
   . Singapore Science Centre. 160 pp.
+
+  '
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

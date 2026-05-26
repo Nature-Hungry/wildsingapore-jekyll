@@ -1,10 +1,9 @@
 ---
 title: Orsak's flatworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: orsaks, nymphozoon, orsaki, flat, worm, flatworm,  polyclad, 
-  turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, 
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: orsaks, nymphozoon, orsaki, flat, worm, flatworm,  polyclad, turbellaria,
+  platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Pseudocerotidae
 genus: Nymphozoon
@@ -18,31 +17,28 @@ subphylum: Rhabditophora
 order: Polycladida
 suborder: Cotylea
 updated: Feb 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/worm/polycladida/orsaki/141109lazlks5m3a.JPG
+coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/orsaki/141109lazlks5m3a.JPG
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/orsaki/141109lazlks5m3a.JPG
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/orsaki/141109lazlks5m3a.JPG
     caption: Pseudotentacles squarish, ruffled on the sides, with white tips.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/orsaki/141109lazlks5m3l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/orsaki/141109lazlks5m3l.jpg
     caption: Lazarus Island, Nov 14 Photo shared by Loh Kok Sheng on flickr .
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/orsaki/180716tbay2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/orsaki/180716tbay2.jpg
     caption: Terumbu Bemban, Jul 18 Photo shared by Abel Yeo on facebook ..
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/orsaki/210812jngvc1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/orsaki/210812jngvc1.jpg
     caption: Pulau Jong, Aug 21 Photo shared by Vincent Choo on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/orsaki/230122jngccn1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/orsaki/230122jngccn1.jpg
     caption: Pulau Jong, Jan 23 Photo shared by Che Cheng New on facebook .
 location:
 - laz
 - jng
 - tsm
+size:
+- 5.0
+- 6.0
 ---
 
 ## Where seen?

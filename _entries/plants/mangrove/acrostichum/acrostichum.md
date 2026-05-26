@@ -21,50 +21,81 @@ updated: Jan 2013
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/aureum/040114sbwred0032m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/aureum/040114sbwred0032m3a.jpg"
-      caption: Larger plant with longer fronds.
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/aureum/090328sbwrd8453m3a.jpg"
-      caption: Young fronds are red.
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/aureum/130202mndd3842m3.jpg"
-      caption: "Sterile leaves have blunt tips, sometimes with a small sharp point."
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/aureum/040114sbwred0032m3a.jpg
+    caption: Larger plant with longer fronds.
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/aureum/090328sbwrd8453m3a.jpg
+    caption: Young fronds are red.
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/aureum/130202mndd3842m3.jpg
+    caption: Sterile leaves have blunt tips, sometimes with a small sharp point.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/speciosum/090111smkd4872m3.jpg"
-      caption: Smaller plant with shorter fronds.
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/speciosum/090328sbwrd0035m3a.jpg"
-      caption: Young fronds are green.
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/speciosum/130202mdd3863m3.jpg"
-      caption: Sterile fronds have tapering pointed tips.
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/speciosum/090111smkd4872m3.jpg
+    caption: Smaller plant with shorter fronds.
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/speciosum/090328sbwrd0035m3a.jpg
+    caption: Young fronds are green.
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/speciosum/130202mdd3863m3.jpg
+    caption: Sterile fronds have tapering pointed tips.
+links_references: '**Links**
+
   - [Piai Raya (
+
   *Acrostichum aureum*
+
   )](http://mangrove.nus.edu.sg/guidebooks/text/1038)
+
   and
+
   [Piai Lasu (
+
   *Acrostichum speciosum*
+
   )](http://mangrove.nus.edu.sg/guidebooks/text/1039)
+
   Ng, Peter K. L. & N. Sivasothi, 1999.
+
   *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)
+
   I (Plant Diversity)*
+
   . Singapore Science Centre. 168 pp.
+
   - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+
   [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
-  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
+
+  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization
+  of the United Nations Regional Office for Asia and the Pacific Bangkok.
+
   - [*Acrostichum aureum*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=1535)
+
   and
+
   *[Acrostichum speciosum](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=1536)*
+
   on the NParks Flora and Fauna website: photos and fact sheet.
-  
+
+
   **References**
+
   - Tomlinson, P. B., 1986.
+
   *The Botany of Mangroves*
+
   Cambridge University Press. USA. 419 pp.
+
   - Burkill, I. H., 1993.
+
   *A Dictionary of the Economic Products of the Malay Peninsula*
-  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
+
+  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
+  Volume 1: 1-1240; volume 2: 1241-2444.
+
   - Wee Yeow Chin. 1983.
+
   *Ferns of Singapore*
+
   . The Singapore Science Centre. 72pp.
+
+  '
 ---
 
 ## Where seen?

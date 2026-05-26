@@ -1,10 +1,9 @@
 ---
 title: Silver moony
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: silver, moony, monodactylus, argenteus, monodactylidae, fish, 
-  scatophagidae, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: silver, moony, monodactylus, argenteus, monodactylidae, fish, scatophagidae,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 attributes:
 - 7
@@ -24,60 +23,93 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/monodactylidae/argenteus/031008sbwrd0042m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monodactylidae/argenteus/031008sbwrd0042m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monodactylidae/argenteus/031008sbwrd0042m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monodactylidae/argenteus/031008sbwrd0042m3.jpg
     caption: Sungei Buloh Wetland Reserve, Oct 03
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monodactylidae/argenteus/031008sbwrad0039m3.jpg
-    caption: Seen from the front, it resembles a stick! Sungei Buloh Wetland 
-      Reserve, Oct 03
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monodactylidae/argenteus/031008sbwrad0039m3.jpg
+    caption: Seen from the front, it resembles a stick! Sungei Buloh Wetland Reserve,
+      Oct 03
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monodactylidae/argenteus/090510sntik5m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monodactylidae/argenteus/090510sntik5m3.jpg
     caption: Siloso, May 09 Photo shared by Ivan Kwan on his blog .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Silver Moony (
+
   *Monodactylus argenteus*
+
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/325)
+
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
+
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
+
   . Singapore Science Centre. 163 pp.
+
   - [Silver Moony (
+
   *Monodactylus argenteus*
+
   )](http://mangrove.nus.edu.sg/guidebooks/text/2110)
+
   Ng, Peter K. L. & N. Sivasothi, 1999.
+
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
+
   . Singapore Science Centre. 168 pp.
+
   - [Family Monodactylidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=333)
+
   and
+
   [Silver Moony (
+
   *Monodactylus argenteus*
+
   )](http://www.fishbase.org/Summary/SpeciesSummary.php?id=5807)
+
   from
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheet.
 
+
   **References**
+
   - Wee Y.C. and Peter K. L. Ng. 1994.
+
   *A First Look at Biodiversity in Singapore*
+
   . National Council on the Environment. 163pp.
+
   - Allen, Gerry, 2000.
+
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
+
   . Periplus Editions. 292 pp.
+
   - Kuiter, Rudie H. 2002.
+
   *Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers & Fishermen*
+
   New Holland Publishers. 434pp.
+
   - Lieske, Ewald and Robert Myers. 2001.
+
   *Coral Reef Fishes of the World*
+
   Periplus Editions. 400pp.
+
+  '
 location:
 - sbw
 - snt
+size:
+- 4.0
+- 25.0
 ---
 
 ## Where seen?

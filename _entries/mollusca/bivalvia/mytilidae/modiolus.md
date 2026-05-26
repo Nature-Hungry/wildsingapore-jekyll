@@ -1,10 +1,9 @@
 ---
 title: Horse mussel
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: horse, mussel, clam, modiolus, mytilidae, bivalve, mollusc, field, 
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
-  fact sheet, info
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: horse, mussel, clam, modiolus, mytilidae, bivalve, mollusc, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info
 layout: entry
 attributes:
 - 2
@@ -24,42 +23,53 @@ order: Mytilida
 superfamily: Mytiloidea
 subfamily: Modiolinae
 updated: May 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/modiolus/130820skdd1497m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/modiolus/130820skdd1497m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/modiolus/130820skdd1497m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/modiolus/130820skdd1497m3.jpg
     caption: Pulau Sekudu, Jul 13
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/modiolus/130722skdd9942m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/modiolus/130722skdd9942m3.jpg
     caption: Pulau Sekudu, Jul 13
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/modiolus/190219chg7m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/modiolus/190219chg7m6l.jpg
     caption: Dense carpet on the shore Changi, Feb 19
   gallery2:
   - url: https://live.staticflickr.com/31337/40863986093_1911f36ffc_z.jpg
     caption: ''
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Modiolus*](http://www.sealifebase.fisheries.ubc.ca/nomenclature/SpeciesList.php?genus=Modiolus)
+
   from SeaLife Base: Technical fact sheet.
+
   - [Clam takeover at Changi](https://wildshores.blogspot.com/2019/02/clam-takeover-at-changi.html)
+
   (Feb 2019) on the wild shores of singapore.
 
+
   **References**
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Tan, K. S. & L. M. Chou, 2000.
+
   *A Guide to the Common Seashells of Singapore*
+
   . Singapore Science Centre. 160 pp.
+
+  '
 location:
 - chg
 - skd
 - cyr
 - smk
 - tsm
+size:
+- 3.0
+- 4.0
 ---
 
 ## Where seen?

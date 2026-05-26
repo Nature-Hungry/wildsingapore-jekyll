@@ -1,11 +1,9 @@
 ---
 title: Mini sea hare
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: mini, seahare, hare, aplysia, parvula, anaspidea, aplysiidae, 
-  bursatella, leachii, opisthobranch, gastropod, mollusc, field, guide, 
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: mini, seahare, hare, aplysia, parvula, anaspidea, aplysiidae, bursatella,
+  leachii, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Aplysiidae
 genus: Aplysia
@@ -22,44 +20,62 @@ subterclass: Tectipleura
 order: Aplysiida
 superfamily: Aplysioidea
 updated: May 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/parvula/100215sisd9413m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/parvula/100215sisd9413m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/parvula/100215sisd9413m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/parvula/100215sisd9413m3.jpg
     caption: Sisters Island, Feb 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/parvula/100215sisd9414m3.jpg
-    caption: Rhinophore and oral tentacle tips dark. Tiny eyes under the 
-      rhinophores.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/parvula/100215sisd9414m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/parvula/100215sisd9414m3.jpg
+    caption: Rhinophore and oral tentacle tips dark. Tiny eyes under the rhinophores.
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/parvula/100215sisd9414m3a.jpg
     caption: Large foramen ringed in black.
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Sea Slug Forum](http://www.seaslugforum.net/welcome)
+
   by Dr Bill Rudman: photos and fact sheet on
+
   *[Aplysia parvula](http://www.seaslugforum.net/factsheet/aplyparv)*
+
   - [The Slug Site:](http://slugsite.us/)
+
   photo and fact sheet on the Branch of the Week
+
   *[Aplysia parvula](http://slugsite.us/bow/nudwk323)*
 
+
   **References**
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Debelius, Helmut, 2001.
+
   *Nudibranchs and Sea Snails: Indo-Pacific Field Guide*
+
   IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+
   - Wells, Fred E. and Clayton W. Bryce. 2000.
-  *Slugs of Western Australia: A guide to the species from the Indian to West Pacific Oceans*
+
+  *Slugs of Western Australia: A guide to the species from the Indian to West Pacific
+  Oceans*
+
   . Western Australian Museum. 184 pp.
+
   - Kuiter, Rudie H and Helmut Debelius. 2009.
+
   *World Atlas of Marine Fauna*
+
   . IKAN-Unterwasserachiv. 723pp.
+
+  '
 location:
 - sis
+size:
+- 5.0
 ---
 
 ## Where seen?

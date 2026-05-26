@@ -1,10 +1,9 @@
 ---
 title: Elegant cerianthid
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: peacock, tube, anemone, cerianthus, ceriantharia, anthozoa, cnidaria, 
-  phoronis, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: peacock, tube, anemone, cerianthus, ceriantharia, anthozoa, cnidaria, phoronis,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 attributes:
 - 4
@@ -17,40 +16,30 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Nov 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/elegant/070731chgd4704m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/elegant/070731chgd4704m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/elegant/070731chgd4704m3.jpg
-    caption: The elegant cerianthid (lower left) compared to a common peacock 
-      anemone (upper right) Changi, Jul 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/elegant/070731chgd4705m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/elegant/070731chgd4704m3.jpg
+    caption: The elegant cerianthid (lower left) compared to a common peacock anemone
+      (upper right) Changi, Jul 07
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/elegant/070731chgd4705m3a.jpg
     caption: Changi, Jul 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/elegant/080801chgd8645m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/elegant/080801chgd8645m3.jpg
     caption: Changi, Aug 08
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/elegant/251012chgal6.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/elegant/251012chgal6.jpg
     caption: Changi, Oct 25 Photo shared by Adriane Lee on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/elegant/160704cjmn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/elegant/160704cjmn.jpg
     caption: Chek Jawa, Jul 16 Photo shared by Marcus Ng on flickr .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/elegant/100614bblks1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/elegant/100614bblks1m3.jpg
     caption: Beting Bronok, Jun 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/elegant/100614bblks1m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/elegant/100614bblks1m3a.jpg
     caption: Photo shared by Loh Kok Sheng on his flickr .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/elegant/141224tusmn3m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/elegant/141224tusmn3m3.jpg
     caption: Tuas, Dec 14 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/elegant/250726cyrtl4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/elegant/250726cyrtl4.jpg
     caption: Cyrene, Jul 25 Photo shared by Tammy Lim on facebook .
 location:
 - prp
@@ -62,6 +51,9 @@ location:
 - ecp
 - cyr
 - lfa
+size:
+- 8.0
+- 10.0
 ---
 
 ## Where seen?

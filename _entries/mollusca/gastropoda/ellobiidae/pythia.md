@@ -1,10 +1,9 @@
 ---
 title: Pythia snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: pythia, belongkeng, snail, ellobiidae, gastropod, mollusc, field, 
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: pythia, belongkeng, snail, ellobiidae, gastropod, mollusc, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Ellobiidae
 genus: Pythia
@@ -23,45 +22,60 @@ order: Ellobiida
 superfamily: Ellobioidea
 subfamily: Pythiinae
 updated: Jul 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/pythia/110406sbbd8682m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/pythia/110406sbbd8682m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/pythia/110406sbbd8682m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/pythia/110406sbbd8682m3.jpg
     caption: Sungei Buloh Besar, Apr 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/pythia/090112smkd5042m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/pythia/090112smkd5042m3.jpg
     caption: Pulau Semakau, Jan 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/pythia/031204prpad0039m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/pythia/031204prpad0039m3.jpg
     caption: Pasir Ris Park, Dec 03
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/pythia/110406sbbd8644m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/pythia/110406sbbd8644m6l.jpg
     caption: Sungei Buloh Besar, Apr 11
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - *Pythia scarabaeus*
-  in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+
+  in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide
+  for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
+
   on the Food and Agriculture Organization of the United Nations (FAO) website.
+
   - [Common pythia (
+
   *Pythia scarabaeus*
+
   )](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=1203)
+
   from SeaLife base: Technical fact sheet.
 
+
   **References**
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Tan, K. S. & L. M. Chou, 2000.
+
   *A Guide to the Common Seashells of Singapore*
+
   . Singapore Science Centre. 160 pp.
+
+  '
 location:
 - sbw
 - prp
 - smk
+size:
+- 2.0
+- 3.0
 ---
 
 ## Where seen?

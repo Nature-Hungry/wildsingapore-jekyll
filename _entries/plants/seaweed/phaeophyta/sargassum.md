@@ -1,10 +1,9 @@
 ---
 title: Sargassum seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: sargassum, brown, seaweed, weed, sargassaceae, phaeophyta, algae, 
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: sargassum, brown, seaweed, weed, sargassaceae, phaeophyta, algae, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 division: Phaeophyta
 family: Sargassaceae
@@ -22,133 +21,144 @@ class: Phaeophyceae
 subclass: Fucophycidae
 order: Fucales
 updated: Oct 2015
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/100911sisd1140m6l.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/100911sisd1140m6l.jpg
 trivia_title: if you learn only 3 things about them ...
-trivia_items: [Sargassum seaweeds are more common on our Southern shores., Lots 
-    of little animals often hide in them. Look for them!, The little bladders 
-    are floats not fruits.]
+trivia_items:
+- Sargassum seaweeds are more common on our Southern shores.
+- Lots of little animals often hide in them. Look for them!
+- The little bladders are floats not fruits.
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/100103sisc0092m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/100103sisc0092m3.jpg
     caption: 'Large piles of sargassum washed ashore. Sisters Island, Jan 10  '
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/101106burs00361m3.jpg
-    caption: Air bladders keep the seaweed afloat near the water surface and 
-      sunlight. Terumbu Buran, Nov 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/111128sntd3968m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/101106burs00361m3.jpg
+    caption: Air bladders keep the seaweed afloat near the water surface and sunlight.
+      Terumbu Buran, Nov 10
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/111128sntd3968m3.jpg
     caption: Growing from a hard surface . Sentosa, Nov 11
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/050529sjid3610m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/050529sjid3610m3a.jpg
     caption: Big 'leaves'.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/051103sisg2808m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/051103sisg2808m3.jpg
     caption: Medium 'leaves'.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/050509hntg5971m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/050509hntg5971m3a.jpg
     caption: Small 'leaves'.
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/060212sisg4763m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/060212sisg4763m3.jpg
     caption: Fluffy bits reproductive structures? Sisters Island, Feb 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/060227labg5117m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/060227labg5117m3.jpg
     caption: Long bits reproductive structures? Labrador, Feb 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/060228labg5226m3d.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/060228labg5226m3d.jpg
     caption: Long bits reproductive structures? Labrador, Feb 06
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/040703sisd1674m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/040703sisd1674m3.jpg
     caption: Tiny octopus on sargassum . Sentosa, Jul 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/040919sntd7078m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/040919sntd7078m3.jpg
     caption: Tiny Red-nose shrimp sheltering in sargassum. Sentosa, Sep 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/040520sntad0020m3.jpg
-    caption: Tiny fish and entangled green seaweed on sargassum . Sentosa, May 
-      04
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/040520sntad0020m3.jpg
+    caption: Tiny fish and entangled green seaweed on sargassum . Sentosa, May 04
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/070901sjig2113m3.jpg
-    caption: Dove snail eats tiny algae growing on sargassum. St. John's Island,
-      Sep 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/crosslandia/060131sjig4508m3.jpg
-    caption: The Crosslandia nudibranch looks just like sargassum! St. John's 
-      Island, Jan 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/101010scyrd1984m3.jpg
-    caption: A Giant reef worm snatches a bunch of sargassum back into its lair.
-      South Cyrene, Oct 10
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/070901sjig2113m3.jpg
+    caption: Dove snail eats tiny algae growing on sargassum. St. John's Island, Sep
+      07
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/crosslandia/060131sjig4508m3.jpg
+    caption: The Crosslandia nudibranch looks just like sargassum! St. John's Island,
+      Jan 06
+  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/101010scyrd1984m3.jpg
+    caption: A Giant reef worm snatches a bunch of sargassum back into its lair. South
+      Cyrene, Oct 10
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/100810sngd9913m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/100810sngd9913m3.jpg
     caption: Pulau Senang, Aug 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/100810sngd9905m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/100810sngd9905m3.jpg
     caption: Pulau Senang, Aug 10
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/100131slud8804m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/100131slud8804m3.jpg
     caption: Terumbu Salu, Jan 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/100130brkd8503m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/100130brkd8503m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/100130brkd8506m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/100130brkd8506m3.jpg
     caption: Terumbu Berkas, Jan 10
   gallery8:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/100131slud8819m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/100131slud8819m3.jpg
     caption: Terumbu Salu, Jan 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/100811slud0077m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/100811slud0077m3.jpg
     caption: Pulau Salu, Aug 10
   gallery9:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/091231biod6972m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/091231biod6972m3.jpg
     caption: Pulau Biola, Dec 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/091204pawd0011m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/091204pawd0011m3.jpg
     caption: Pulau Pawai, Dec 09
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Sargassum](http://mangrove.nus.edu.sg/pub/seashore/text/105)
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
+
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+
   . The Singapore Science Centre, Singapore. 160 pp.
+
   - [Key to the Southern Australian species of Sargassum](http://www.flora.sa.gov.au/efsa/algae_revealed/pdf/Sargassum.pdf)
+
   (pdf) on eFloraSA by the Government of Southern Australia: photo key.
+
   - [*Sargassum*](http://www.algaebase.org/search/genus/detail/?genus_id=77)
+
   on
+
   [AlgaeBase](http://www.algaebase.org/)
+
   : Technical fact sheets.
+
   - [*Sargassum polycystum*](https://singapore.biodiversity.online/taxo4254/mainSpace/Sargassum%20polycystum.html)
+
   (Fucales: Sargassaceae) Sargassum weed on Taxo4254.
 
+
   **References**
-  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
+
+  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
+  Tsai Min and Wang Luan Keng,
+
   *A photographic guide to the marine algae of Singapore*
+
   , 2015. Tropical Marine Science Institute, 201 pp.
+
   - Pham, M. N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011.
-  [A Checklist of the Algae of Singapore](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf)
-  , 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore, Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+
+  [A Checklist of the Algae of Singapore](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH
+  Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf)
+
+  , 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
+  Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
+
   *Rhythm of the Sea: The Life and Times of Labrador Beach*
-  . Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+
+  . Division of Biology, School of Science, Nanyang Technological University & Department
+  of Zoology, the National University of Singapore. 160 pp.
+
   - Huisman, John M. 2000.
+
   *Marine Plants of Australia*
+
   University of Western Australia Press. 300pp.
+
   - Calumpong, H. P. & Menez, E. G., 1997.
+
   *Field Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*
+
   . Bookmark, Inc., the Philippines. 197 pp.
+
   - Trono, Gavino. C. Jr., 1997.
+
   *Field Guide and Atlas of the Seaweed Resources of the Philippines.*
+
   . Bookmark, Inc., the Philippines. 306 pp.
+
+  '
 location:
 - tus
 - tm

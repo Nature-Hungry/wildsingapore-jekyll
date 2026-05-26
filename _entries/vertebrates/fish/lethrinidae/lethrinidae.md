@@ -1,9 +1,8 @@
 ---
 title: 'Emperors '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: emperor, fish, lethrinidae, field, guide, seashore, sea, shore, 
-  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: emperor, fish, lethrinidae, field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Lethrinidae
 genus: ''
@@ -18,59 +17,94 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/lentjan/070614chgg0240m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/lentjan/070614chgg0240m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/lentjan/070614chgg0240m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/lentjan/070614chgg0240m3.jpg
     caption: Pink ear emperor
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/lentjan/070419chgg8754m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/lentjan/070419chgg8754m3.jpg
     caption: Pink ear emperor
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/nebulosus/120508skdd1871m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/nebulosus/120508skdd1871m3.jpg
     caption: Spangled emperor
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
+
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
+
   . Singapore Science Centre. 163 pp.
+
   - [Family Lethrinidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=328)
+
   (Emperors) and
+
   [*Lethrinus amboinensis*
+
   (Ambon emperor)](http://www.fishbase.org/summary/1853)
+
   and
+
   [*Lethrinus erythropterus*
+
   (Longfin emperor)](http://www.fishbase.org/summary/1842)
+
   and
+
   [*Lethrinus harak*
+
   (Thumbprint emperor)](http://www.fishbase.org/summary/1851)
+
   and
+
   [*Lethrinus lentjan*
+
   (Pink ear emperor)](http://www.fishbase.org/summary/1863)
+
   and
+
   [*Lethrinus nebulosus*
+
   (Spangled emperor)](http://www.fishbase.org/summary/1846)
+
   from
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheet
+
   - [Volume 5: Bony fishes part 3 (Menidae to Pomacentridae)](http://www.fao.org/docrep/009/y0770e/y0770e00)
-  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
+
+  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources
+  of the Western Central Pacific.
+
 
   **References**
+
   - Allen, Gerry, 2000.
+
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
+
   . Periplus Editions. 292 pp.
+
   - Kuiter, Rudie H. 2002.
+
   *Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers & Fishermen*
+
   New Holland Publishers. 434pp.
+
   - Lieske, Ewald and Robert Myers. 2001.
+
   *Coral Reef Fishes of the World*
+
   Periplus Editions. 400pp.
+
   - Wee Y.C. and Peter K. L. Ng. 1994.
+
   *A First Look at Biodiversity in Singapore*
+
   . National Council on the Environment. 163pp.
+
+  '
 location:
 - chg
 - cj

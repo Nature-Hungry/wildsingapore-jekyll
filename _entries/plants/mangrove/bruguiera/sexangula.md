@@ -26,35 +26,64 @@ updated: Jan 2013
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/sexangula/091230prpd6496m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/sexangula/091213ubnd5854m3.jpg"
-      caption: "Large flowers, each on one stalk. Calyx usually yellow. Pulau Ubin, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/sexangula/091230prpd6500m3.jpg"
-      caption: "No tassels on petal tips. Pasir Ris, Jan 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/sexangula/100411prpd0923m3a.jpg"
-      caption: "Sepals extend away from the propagule. Pasir Ris, Jan 10"
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/sexangula/091213ubnd5854m3.jpg
+    caption: Large flowers, each on one stalk. Calyx usually yellow. Pulau Ubin, Dec
+      09
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/sexangula/091230prpd6500m3.jpg
+    caption: No tassels on petal tips. Pasir Ris, Jan 10
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/sexangula/100411prpd0923m3a.jpg
+    caption: Sepals extend away from the propagule. Pasir Ris, Jan 10
+links_references: '**Links**
+
   - [*Bruguiera sexangula*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3641)
+
   on the NParks Flora and Fauna website: photos and fact sheet.
+
   - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+
   [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
-  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
+
+  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization
+  of the United Nations Regional Office for Asia and the Pacific Bangkok.
+
   - [*Bruguiera sexangula*](http://www.iucnredlist.org/apps/redlist/details/178843/0)
+
   on the IUCN Red List website: detailed fact sheet.
-  
+
+
   **References**
+
   - Chiou-Rong Sheue, Jean W. H. Yong and Yuen- Po Yang. 2005.
-  *[The Bruguiera (Rhizophoraceae) Species in the Mangroves of Singapore, Especially on the New Record and the Rediscovery](http://lkcnhm.nus.edu.sg/dna/docs/ecb82a5bf09257209a08147c2d86900c.pdf)*
-  . Taiwania, 50(4): 251-260, 2005 (pdf on the Raffles Museum of Biodiversity Research website).
+
+  *[The Bruguiera (Rhizophoraceae) Species in the Mangroves of Singapore, Especially
+  on the New Record and the Rediscovery](http://lkcnhm.nus.edu.sg/dna/docs/ecb82a5bf09257209a08147c2d86900c.pdf)*
+
+  . Taiwania, 50(4): 251-260, 2005 (pdf on the Raffles Museum of Biodiversity Research
+  website).
+
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
+
   *The Concise Flora of Singapore: Gymnosperms and Dicotyledons*
+
   . Singapore University Press. 222 pp.
+
   - Tomlinson, P. B., 1986.
+
   *The Botany of Mangroves*
+
   Cambridge University Press. USA. 419 pp.
+
   - Burkill, I. H., 1993.
+
   *A Dictionary of the Economic Products of the Malay Peninsula*
-  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
+
+  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
+  Volume 1: 1-1240; volume 2: 1241-2444.
+
+  '
+size:
+- 1200.0
+- 3000.0
 ---
 
 ## Where seen?

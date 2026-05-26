@@ -1,10 +1,8 @@
 ---
 title: 'Hermit crabs '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: hermit, crab, anomura, decapod, crustacea, field, guide, seashore, 
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, 
-  photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: hermit, crab, anomura, decapod, crustacea, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes: []
 family: Crepidulidae
@@ -15,226 +13,254 @@ coverimg: ../../../../../Templates/fornatureguides.gif
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They belong in their 
-      shells. Don't try to remove them! Every empty shell is a potential hermit 
-      crab home. Don't take any shells home! Many other animals may live 
-      together with a hermit crab. Don't take hermits home!
+    caption: if you learn only 3 things about them ... They belong in their shells.
+      Don't try to remove them! Every empty shell is a potential hermit crab home.
+      Don't take any shells home! Many other animals may live together with a hermit
+      crab. Don't take hermits home!
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They belong in their shells. Don't try to remove them! Every empty 
-      shell is a potential hermit crab home. Don't take any shells home! Many 
-      other animals may live together with a hermit crab. Don't take hermits 
-      home!
+    caption: They belong in their shells. Don't try to remove them! Every empty shell
+      is a potential hermit crab home. Don't take any shells home! Many other animals
+      may live together with a hermit crab. Don't take hermits home!
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110520chgd2437m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110520chgd2437m3.jpg
     caption: Changi, May 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110520chgd2437m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110520chgd2437m3a.jpg
     caption: This hermit crab is using a half broken shell.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110520chgd2437m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110520chgd2437m3b.jpg
     caption: Small 'legs' on the abdomen cling to the shell.
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/noid/hermit.gif
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/noid/hermit.gif
     caption: What it looks like inside the shell!
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/070224cjd8511m3.jpg
-    caption: The same kind of hermit crab can live in a wide variety of shells. 
-      Chek Jawa Feb 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/090606tmftd3303m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/070224cjd8511m3.jpg
+    caption: The same kind of hermit crab can live in a wide variety of shells. Chek
+      Jawa Feb 07
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/090606tmftd3303m3.jpg
     caption: Even a broken shell can be a hermit home. Tanah Merah, Jun 09
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/070602sjig9792m3.jpg
-    caption: Land hermit crabs may even live in land snail shells! St. John's 
-      Island, Jun 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/lavender/070218tmd8085m3a.jpg
-    caption: Hanging onto the shell of a snail so recently dead that whelks are 
-      still cleaning it out! Tanah Merah, Feb 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/huddling/050428cftg5223m3.jpg
-    caption: Even tiny Button shells are homes to tiny hermit crabs. Changi, Apr
-      05
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/070602sjig9792m3.jpg
+    caption: Land hermit crabs may even live in land snail shells! St. John's Island,
+      Jun 07
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/lavender/070218tmd8085m3a.jpg
+    caption: Hanging onto the shell of a snail so recently dead that whelks are still
+      cleaning it out! Tanah Merah, Feb 07
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/huddling/050428cftg5223m3.jpg
+    caption: Even tiny Button shells are homes to tiny hermit crabs. Changi, Apr 05
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/lavender/070419chgg8686m3.jpg
-    caption: Tiny sea anemones may be found on a shell occupied by a hermit 
-      crab. Changi, Apr 07
-  - url: 
-      http://www.wildsingapore.com/cnidaria/actiniaria/hermitbig/040701chgd1385m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/lavender/070419chgg8686m3.jpg
+    caption: Tiny sea anemones may be found on a shell occupied by a hermit crab.
+      Changi, Apr 07
+  - url: http://www.wildsingapore.com/cnidaria/actiniaria/hermitbig/040701chgd1385m3.jpg
     caption: Others may have big sea anemones ! Changi, Apr 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/050428cftg5276m3a.jpg
-    caption: Slipper snails are often found on the inside of the shell occupied 
-      by a hermit crab. Changi, Apr 05
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/050428cftg5276m3a.jpg
+    caption: Slipper snails are often found on the inside of the shell occupied by
+      a hermit crab. Changi, Apr 05
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/050428cftg5276m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/050428cftg5276m3b.jpg
     caption: Tiny porcelain crabs Changi, Apr 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/060529chgd2556m3d.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/060529chgd2556m3d.jpg
     caption: Keelworms may build their tubes on the shell. Changi, Jun 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/080801chgd8593m3b.jpg
-    caption: Little animals also bore into the shell, possibly boring sponges. 
-      Changi, Aug 08
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/080801chgd8593m3b.jpg
+    caption: Little animals also bore into the shell, possibly boring sponges. Changi,
+      Aug 08
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/080801chgd8593m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/080801chgd8593m3.jpg
     caption: Scale worms are sometimes seen on the shell. Changi, Aug 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/080801chgd8593m3c.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/080801chgd8593m3c.jpg
     caption: Unknown animal on the shell. Changi, Aug 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/060529chgd2556m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/060529chgd2556m3.jpg
     caption: Slipper snails and keelworms Changi, Jun 05
   gallery8:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/veryhairy/241116smksmn1.jpg
-    caption: With eggs inside the shell. Pulau Semakau (South), Nov 24 Photo 
-      shared by Marcus Ng on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/veryhairy/241116smksmn1.jpg
+    caption: With eggs inside the shell. Pulau Semakau (South), Nov 24 Photo shared
+      by Marcus Ng on facebook .
   gallery9:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/050726chgg0377m3.jpg
-    caption: Moult outside the shell, original hermit crab inside the shell? 
-      Changi, Jul 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/050726chgg0377m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/050726chgg0377m3.jpg
+    caption: Moult outside the shell, original hermit crab inside the shell? Changi,
+      Jul 05
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/050726chgg0377m3a.jpg
     caption: Transparent eyes indicates this is a moult.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/noid/040110cjd0043m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/noid/040110cjd0043m3.jpg
     caption: Hermit crab tracks on sand. Chek Jawa, Jan 04
   gallery10:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110927tusd1282m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110927tusd1282m3.jpg
     caption: Just moulted. Tuas, Sep 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110927tusd1279m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110927tusd1279m3.jpg
     caption: Moult with transparent eyes. Tuas, Sep 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110927tusd1279m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110927tusd1279m3a.jpg
     caption: ''
   gallery11:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/huddling/060131sjig4376m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/huddling/060131sjig4376m3.jpg
     caption: Huddling hermit crab
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tidal/050609cftg7489m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tidal/050609cftg7489m3a.jpg
     caption: Tidal hermit crab
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/lavender/070218tmd8013m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/lavender/070218tmd8013m3.jpg
     caption: Lavender hermit crab
   gallery12:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/banded/050113sntg2834m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/banded/050113sntg2834m3a.jpg
     caption: Banded hermit crab
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/bandedpink/130923tmftd3454m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/bandedpink/130923tmftd3454m3.jpg
     caption: Pink banded hermit crab
   gallery13:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/blueelbow/100712chgd8429m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/blueelbow/100712chgd8429m3.jpg
     caption: Blue-elbow hermit crab
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/black/080816sisd9480m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/black/080816sisd9480m3.jpg
     caption: All-black hermit crab
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/goldspot/050720sntg9519m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/goldspot/050720sntg9519m3.jpg
     caption: Gold-spotted hermit crab
   gallery14:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/050206cjdd9978m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/050206cjdd9978m3.jpg
     caption: Orange-striped hermit crab
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeblue/030712hntd0016m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeblue/030712hntd0016m3a.jpg
     caption: Blue-striped hermit crab
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tawny/120618tmnbd5283m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tawny/120618tmnbd5283m3.jpg
     caption: Tawny hermit crab
   gallery15:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/orangespot/090606tmftd3116m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/orangespot/090606tmftd3116m3.jpg
     caption: Spotted orange hermit crab
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/veryhairy/060228labg5303m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/veryhairy/060228labg5303m3.jpg
     caption: Very hairy hermit crab
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/091204pawd5419m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/091204pawd5419m3.jpg
     caption: Land hermit crab
   gallery16:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/noid/120806tmfts02122.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/noid/120806tmfts02122.jpg
     caption: Tanah Merah Ferry Terminal, Aug 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/noid/240211bigsisky2.jpg
-    caption: Big Sisters Island, Feb 24 Photo shared by Kelvin Yong on facebook 
-      .
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/noid/240211bigsisky2.jpg
+    caption: Big Sisters Island, Feb 24 Photo shared by Kelvin Yong on facebook .
+links_references: '**Links**
+
   - [Mangrove hermit crab (
+
   *Diogenes*
+
   sp.) Family Diogenidae](http://mangrove.nus.edu.sg/guidebooks/text/2062)
+
   and the
+
   [Land hermit crab (
+
   *Coenobita cavipes*
+
   ) Family Coenobitidae](http://mangrove.nus.edu.sg/guidebooks/text/2063)
+
   Ng, Peter K. L. & N. Sivasothi, 1999.
+
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
+
   . Singapore Science Centre. 168 pp.
+
   - [Hermit Crabs, Order Decapoda](http://mangrove.nus.edu.sg/pub/seashore/text/186)
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
+
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+
   . The Singapore Science Centre, Singapore. 160 pp.
+
   - [Hermit crabs and their allies](http://www.museum.vic.gov.au/crust/hermgall.html)
-  on the Marine Crustaceans of Southern Australia page on the Museum Victoria website: an introduction including a section on their biology which has lots of labelled diagrams, and photos and fact sheets on some hermits of Southern Australia.
+
+  on the Marine Crustaceans of Southern Australia page on the Museum Victoria website:
+  an introduction including a section on their biology which has lots of labelled
+  diagrams, and photos and fact sheets on some hermits of Southern Australia.
+
   - [A Catalog of The Hermit Crabs (Paguroidea) of Taiwan](http://biota.taibif.tw/node/9348)
-  on the BiotaTaiwanica website: detailed descriptions, drawings and photos of many species.
+
+  on the BiotaTaiwanica website: detailed descriptions, drawings and photos of many
+  species.
+
   - [Hermit crabs at the great shell exchange](http://wildshores.blogspot.com/2008/11/hermit-crabs-at-great-shell-exchange.html)
+
   on the wild shores of singapore blog.
 
+
   **References**
+
   - D. L. Rahayu, H.-T. Shih & P. K. L. Ng. 29 June 2016.
-  *A new species of land hermit crab in the genus Coenobita Latreille, 1829 from Singapore, Malaysia and Indonesia, previously confused with C. cavipes Stimpson, 1858 (Crustacea: Decapoda: Anomura: Coenobitidae)*
+
+  *A new species of land hermit crab in the genus Coenobita Latreille, 1829 from Singapore,
+  Malaysia and Indonesia, previously confused with C. cavipes Stimpson, 1858 (Crustacea:
+  Decapoda: Anomura: Coenobitidae)*
+
   . The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part I of II) Pp. 470-488.
+
   - Dwi Listyo Rahayu & Rene Ong. 2 October 2015.
+
   *Rediscovery of the hermit crab, Dardanus hessii, in Singapore*
+
   . Singapore Biodiversity Records 2015: 145-147
+
   - D. L. Rahayu.
-  *New record and new species of the hermit crab genus Diogenes Dana, 1851 (Decapoda: Anomura: Diogenidae) from Singapore*
-  . 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 182-192.
+
+  *New record and new species of the hermit crab genus Diogenes Dana, 1851 (Decapoda:
+  Anomura: Diogenidae) from Singapore*
+
+  . 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International
+  Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 182-192.
+
   - Dwi Listyo Rahayu, 2000.
-  *Hermit crabs from the South China Sea (Crustacea: Decapoda: Anomura: Diogenidae, Paguridae, Parapaguridae)*
-  (pdf). The Raffles Bulletin of Zoology 2000 Supplement No. 8: 377-404. The National University of Singapore.
+
+  *Hermit crabs from the South China Sea (Crustacea: Decapoda: Anomura: Diogenidae,
+  Paguridae, Parapaguridae)*
+
+  (pdf). The Raffles Bulletin of Zoology 2000 Supplement No. 8: 377-404. The National
+  University of Singapore.
+
   - Dwi Listyo Rahayu, 1996.
-  *Notes on littoral hermit crabs (Excluding Coenobitidae) (Crustacea: Decapoda: Anomura) mainly from Singapore and Peninsular Malaysia*
+
+  *Notes on littoral hermit crabs (Excluding Coenobitidae) (Crustacea: Decapoda: Anomura)
+  mainly from Singapore and Peninsular Malaysia*
+
   (pdf). The Raffles Bulletin of Zoology 1996 44(2): 335-355
+
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+
   . Nature Society (Singapore). 285 pp.
+
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
+
   *Rhythm of the Sea: The Life and Times of Labrador Beach.*
-  Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+
+  Division of Biology, School of Science, Nanyang Technological University & Department
+  of Zoology, the National University of Singapore. 160 pp.
+
   - Chuang, S. H., 1961.
+
   *On Malayan Shores*
+
   . Muwu Shosa, Singapore. 225 pp., plates 1-112.
+
   - Jones Diana S. and Gary J. Morgan, 2002.
+
   *A Field Guide to Crustaceans of Australian Waters*
+
   . Reed New Holland. 224 pp.
+
   - Debelius, Helmut, 2001.
+
   *Crustacea Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean*
+
   IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+
   - Davey, Keith, 1998.
+
   *A Photographic Guide to Seashore Life of Australia*
+
   . New Holland, Australia.144 pp.
+
   - Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.
+
   *Invertebrate Zoology*
+
   Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963.
+
   - Pechenik, Jan A., 2005.
+
   *Biology of the Invertebrates*
+
   . 5
+
+  '
 location:
 - prp
 - chg

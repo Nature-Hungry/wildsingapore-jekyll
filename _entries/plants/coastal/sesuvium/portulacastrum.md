@@ -26,29 +26,46 @@ updated: Jan 13
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/ipomoea/pescaprae/090118smkd5798m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/sesuvium/portulacastrum/090126ubnd6233m3a.jpg"
-      caption: "Pulau Ubin, Jan 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/sesuvium/portulacastrum/090126ubnd6233m3.jpg"
-      caption: "Pulau Ubin, Jan 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/sesuvium/portulacastrum/090405smkd9020m3.jpg"
-      caption: "Pulau Semakau, Apr 09"
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/sesuvium/portulacastrum/090126ubnd6233m3a.jpg
+    caption: Pulau Ubin, Jan 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/sesuvium/portulacastrum/090126ubnd6233m3.jpg
+    caption: Pulau Ubin, Jan 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/sesuvium/portulacastrum/090405smkd9020m3.jpg
+    caption: Pulau Semakau, Apr 09
+links_references: '**Links**
+
   - *[Sesuvium portulacastrum](http://floraofsingapore.wordpress.com/2010/10/03/sesuvium-portulacastrum/)*
+
   on Total Vascular Flora of Singapore Online: photos and fact sheet.
+
   - [*Sesuvium portulacastrum*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2456)
+
   on the NParks Flora and Fauna website: photos and fact sheet.
+
   - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+
   [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
-  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
-  
+
+  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization
+  of the United Nations Regional Office for Asia and the Pacific Bangkok.
+
+
   **References**
+
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
+
   *The Concise Flora of Singapore: Gymnosperms and Dicotyledons*
+
   . Singapore University Press. 222 pp.
+
   - Burkill, I. H., 1993.
+
   *A Dictionary of the Economic Products of the Malay Peninsula*
-  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
+
+  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
+  Volume 1: 1-1240; volume 2: 1241-2444.
+
+  '
 ---
 
 ## Where seen?

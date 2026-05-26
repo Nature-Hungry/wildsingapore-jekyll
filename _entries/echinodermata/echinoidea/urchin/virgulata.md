@@ -1,10 +1,9 @@
 ---
 title: Passion salmacis urchin
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: white, urchin, salmacis, virgulata, echinoid, echinoderm, field, 
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: white, urchin, salmacis, virgulata, echinoid, echinoderm, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 attributes:
 - 0
@@ -29,79 +28,60 @@ subterclass: Echinacea
 order: Camarodonta
 infraorder: Temnopleuridea
 updated: Apr 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/060529chgd2487m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/060529chgd2487m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/060529chgd2487m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/060529chgd2487m3.jpg
     caption: Changi, May 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/060529chgd2487m3d.jpg
-    caption: Tip sharp spines at the top, longer flattened spines on the sides. 
-      Changi, May 06
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/060529chgd2487m3d.jpg
+    caption: Tip sharp spines at the top, longer flattened spines on the sides. Changi,
+      May 06
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/060529chgd2490m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/060529chgd2490m3.jpg
     caption: Underside.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/060529chgd2490m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/060529chgd2490m3a.jpg
     caption: Spines around mouth banded.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/060529chgd2490m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/060529chgd2490m3b.jpg
     caption: ''
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/080605chglks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/080605chglks.JPG
     caption: Changi, Jun 08 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/120802chglks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/120802chglks.JPG
     caption: Changi, Aug 12 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/210527chg4lks2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/210527chg4lks2.jpg
     caption: Changi Carpark 4, May 21 Photo shared by Loh Kok Sheng on facbook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/071225cjlks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/071225cjlks.JPG
     caption: Chek Jawa, Jul 12 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/160607bbro6.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/160607bbro6.jpg
     caption: Beting Bronok, Jun 16 Photo shared by Rene Ong on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/210628ecpBlks4.jpg
-    caption: East Coast Park (B), Jun 21 Photo shared by Loh Kok Sheng on 
-      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/210628ecpBlks4.jpg
+    caption: East Coast Park (B), Jun 21 Photo shared by Loh Kok Sheng on facebook
+      .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/170528cyrtch2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/170528cyrtch2.jpg
     caption: Cyrene Reef, Jun 17 Photo shared by Toh Chay Hoon on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/110830cyrlks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/110830cyrlks.JPG
     caption: Cyrene Reef, Aug 11 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/110830cyrlks2.JPG
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/110830cyrlks2.JPG
     caption: Cyrene Reef, Aug 11 Photo shared by Loh Kok Sheng on flickr .
-links_references: |
-  **Links**
-  - [Banded urchin (
-  *Salmacis*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/223)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988.
-  *A Guide to Seashore Life*
-  . The Singapore Science Centre, Singapore. 160 pp.
-  - [*Salmacis virgulata*](http://www.sealifebase.org/summary/Salmacis-virgulata.html)
-  on SeaLife Base: Technical fact sheet.
-  - P. Satheeshkumar,
-  [First Record of Regular Sea Urchin
-  *Salmacis virgulata*
-  (L. Agassiz and Desor 1846) from the Pondicherry Coast, India](http://www.idosi.org/wjfms/wjfms3(2)11/7.pdf)
-  World Journal of Fish and Marine Sciences 3 (2): 126-128, 2011 ISSN 2078-4589 © IDOSI Publications, 2011
+links_references: "**Links**\n- [Banded urchin (\n*Salmacis*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/223)\n\
+  Tan, Leo W. H. & Ng, Peter K. L., 1988.\n*A Guide to Seashore Life*\n. The Singapore\
+  \ Science Centre, Singapore. 160 pp.\n- [*Salmacis virgulata*](http://www.sealifebase.org/summary/Salmacis-virgulata.html)\n\
+  on SeaLife Base: Technical fact sheet.\n- P. Satheeshkumar,\n[First Record of Regular\
+  \ Sea Urchin\n*Salmacis virgulata*\n(L. Agassiz and Desor 1846) from the Pondicherry\
+  \ Coast, India](http://www.idosi.org/wjfms/wjfms3(2)11/7.pdf)\nWorld Journal of\
+  \ Fish and Marine Sciences 3 (2): 126-128, 2011 ISSN 2078-4589 \xA9 IDOSI Publications,\
+  \ 2011\n"
 location:
 - chg
 - skd
 - bb
 - ecp
 - cyr
+size:
+- 5.0
+- 8.0
 ---
 
 ## Where seen?

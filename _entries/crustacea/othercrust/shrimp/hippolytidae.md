@@ -1,9 +1,8 @@
 ---
 title: Hippolytoid shrimps
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: shrimp, hippolytidae, decapod, crustacea, field, guide, seashore, sea,
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: shrimp, hippolytidae, decapod, crustacea, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Hippolytidae
 genus: ''
@@ -23,18 +22,14 @@ suborder: Pleocyemata
 infraorder: Caridea
 superfamily: Alpheoidea
 updated: Jan 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/saron/090918tmd0927m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/saron/090918tmd0927m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/saron/090918tmd0927m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/saron/090918tmd0927m3.jpg
     caption: Saron shrimp
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/lysmata/031225skdd0066m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/lysmata/031225skdd0066m3.jpg
     caption: Cleaner shrimp
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/humped/111002sisd2124m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/humped/111002sisd2124m3.jpg
     caption: Humpbacked shrimp
 location:
 - tm
@@ -50,6 +45,10 @@ location:
 - smk
 - tsm
 - lfa
+size:
+- 1.0
+- 2.0
+- 5.0
 ---
 
 **What are Hippolytid shrimps?**

@@ -1,10 +1,9 @@
 ---
 title: Posy anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: anemone, anthozoa, actiniidae, isactinia, citrina, mesactinia, 
-  ganensis, cnidaria, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: anemone, anthozoa, actiniidae, isactinia, citrina, mesactinia, ganensis,
+  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 6
@@ -24,49 +23,36 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
 updated: Dec 2024
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/posy/060429skdd1426m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/posy/060429skdd1426m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/posy/060429skdd1426m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/posy/060429skdd1426m3.jpg
     caption: Pulau Sekudu, Apr 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/posy/060429skdd1426m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/posy/060429skdd1426m3b.jpg
     caption: Pulau Sekudu, Apr 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/posy/040730skdd3320m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/posy/040730skdd3320m3.jpg
     caption: Pulau Sekudu, Jul 04
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/posy/150605kusmn3m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/posy/150605kusmn3m3.jpg
     caption: Kusu Island, Jun 15 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/posy/070901sjilks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/posy/070901sjilks.JPG
     caption: St John's Island, Jul 09 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/posy/240410cyrky4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/posy/240410cyrky4.jpg
     caption: Cyrene, Apr 24 Photo shared by Kelvin Yong on facebook .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/posy/240410cyrky4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/posy/240410cyrky4.jpg
     caption: Cyrene, Apr 24 Photo shared by Kelvin Yong on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/posy/250430sjiml5.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/posy/250430sjiml5.jpg
     caption: St John's Island, Apr 25 Photo shared by Mathias Luk on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/posy/251008bbbtl7.jpg
-    caption: Beting Bemban Be sar, Oct 25 Photo shared by Tammy Lim on facebook 
-      .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/posy/251008bbbtl7.jpg
+    caption: Beting Bemban Be sar, Oct 25 Photo shared by Tammy Lim on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/posy/110517tptlks27m3.jpg
-    caption: Terumbu Pempang Tengah, May 11 Photo shared by Loh Kok Sheng on his
-      blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/posy/110517tpttch2m3.jpg
-    caption: Terumbu Pempang Tengah, May 11 Photo shared by Toh Chay Hoon on her
-      blog .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/posy/110517tptlks27m3.jpg
+    caption: Terumbu Pempang Tengah, May 11 Photo shared by Loh Kok Sheng on his blog
+      .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/posy/110517tpttch2m3.jpg
+    caption: Terumbu Pempang Tengah, May 11 Photo shared by Toh Chay Hoon on her blog
+      .
 location:
 - cj
 - skd
@@ -82,6 +68,9 @@ location:
 - smk
 - tsm
 - rfl
+size:
+- 3.0
+- 4.0
 ---
 
 ## Where seen?

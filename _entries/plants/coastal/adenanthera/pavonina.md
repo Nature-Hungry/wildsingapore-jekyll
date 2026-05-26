@@ -26,12 +26,14 @@ updated: Sep 2016
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/adenanthera/pavonina/090413blyo0297m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/adenanthera/pavonina/090413blyd0033m3a.jpg"
-      caption: "Wild at Berlayar Creek, Apr 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/adenanthera/pavonina/090413blyd0040m3.jpg"
-      caption: "Wild at Berlayar Creek, Apr 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/adenanthera/pavonina/090511chgd1413m3.jpg"
-      caption: "Changi, May 09"
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/adenanthera/pavonina/090413blyd0033m3a.jpg
+    caption: Wild at Berlayar Creek, Apr 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/adenanthera/pavonina/090413blyd0040m3.jpg
+    caption: Wild at Berlayar Creek, Apr 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/adenanthera/pavonina/090511chgd1413m3.jpg
+    caption: Changi, May 09
+size:
+- 2000.0
 ---
 
 ## Where seen?

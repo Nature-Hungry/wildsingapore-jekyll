@@ -1,10 +1,9 @@
 ---
 title: Estuarine moray eel
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: estuarine, moray, eel, fish, gymnothorax, tile, muraenidae , field, 
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: estuarine, moray, eel, fish, gymnothorax, tile, muraenidae , field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 attributes:
 - 9
@@ -26,88 +25,78 @@ order: Anguilliformes
 suborder: Muraenoidei
 subfamily: Muraeninae
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/080621labd6014m3c.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/080621labd6014m3c.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/080621labd6014m3c.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/080621labd6014m3c.jpg
     caption: Tubular nostrils. No pelvic fins Chek Jawa, Jun 14
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/101224sisd4114m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/101224sisd4114m6l.jpg
     caption: Dorsal, anal and tail fins are continuous. Sisters Island, Jan 10
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/260105prpezxh4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/260105prpezxh4.jpg
     caption: Pasir Ris Park, Jan 26 Photo shared by Zen Xuan He on facebook
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/260103prplks1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/260103prplks1.jpg
     caption: Pasir Ris Park, Jan 26 Photo shared by Loh Kok Sheng on facebook .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/170625bbay.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/170625bbay.jpg
     caption: Beting Bronok, Jun 17 Photo shared by Abel Yeo on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/180616bblks6.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/180616bblks6.jpg
     caption: Beting Bronok, Jun 18 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/220716bbky1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/220716bbky1.jpg
     caption: Beting Bronok, Jul 22 Photo shared by Kelvin Yong on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/110518bbtch2m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/110518bbtch2m6l.jpg
     caption: Beting Bronok, May 11 Photo shared by Toh Chay Hoon on her blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/241210ecpcnky3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/241210ecpcnky3.jpg
     caption: East Coast (PCN), Feb 24 Video shared by Kelvin Yong on facebook .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/151001blylks.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/151001blylks.jpg
     caption: Berlayar Creek, Oct 15 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/181126lablks.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/181126lablks.jpg
     caption: Labrador, Nov 18 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/251011labyls4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/251011labyls4.jpg
     caption: Labrador, Oct 25 Photo shared by Yan Le Su on facebook .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/251011tgrlks7.jpg
-    caption: Sentosa Tg Rimau, Oct 25 Photo shared by Loh Kok Sheng on facebook 
-      .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/251011tgrlks7a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/251011tgrlks7.jpg
+    caption: Sentosa Tg Rimau, Oct 25 Photo shared by Loh Kok Sheng on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/251011tgrlks7a.jpg
     caption: ''
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/200124sntky2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/200124sntky2.jpg
     caption: Sentosa Tg. Rimau, Jan 20 Photo shared by Kelvin Yong on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/250714srpky2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/250714srpky2.jpg
     caption: Sentosa Serapong, Jul 25 Photo shared by Kelvin Yong on facebook .
   gallery8:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/250726cyrlks4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/250726cyrlks4.jpg
     caption: Cyrene, Jul 25 Photo shared by Loh Kok Sheng on facebook .
   gallery9:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/110517tptrl1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/110517tptrl1m3.jpg
     caption: Terumbu Pempang Tengah, May 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/110517tptrl1m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/110517tptrl1m3a.jpg
     caption: Photo shared by Russel Low on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Estuarine Moray (
+
   *Gymnothorax tile*
+
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/210)
+
   Lim, Kelvin and Jeffrey K Y Low,
+
   *[Guide to Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/index)*
+
   . Singapore Science Centre.
+
   - *[Gymnothorax tile](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=17266)*
+
   from
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheet on the family with fact sheets on species
+
+  '
 location:
 - sbw
 - prp
@@ -122,6 +111,10 @@ location:
 - sis
 - cyr
 - tpg
+size:
+- 60.0
+- 15.0
+- 30.0
 ---
 
 ## Where seen?

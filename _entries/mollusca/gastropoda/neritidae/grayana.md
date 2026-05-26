@@ -1,10 +1,9 @@
 ---
 title: 'Grey mangrove nerite snail '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: grey, nerita, nerite, grayana, undulata, neritidae, gastropod, 
-  mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: grey, nerita, nerite, grayana, undulata, neritidae, gastropod, mollusc,
+  snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Neritidae
 genus: Nerita
@@ -20,24 +19,23 @@ order: Cycloneritida
 superfamily: Neritoidea
 subfamily: Neritinae
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/grayana/130317krjd4641m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/grayana/130317krjd4641m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/grayana/130317krjd4641m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/grayana/130317krjd4641m3.jpg
     caption: Kranji, Mar 13
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/grayana/130317krjd4642m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/grayana/130317krjd4642m3.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/grayana/130317krjd4642m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/grayana/130317krjd4642m3a.jpg
     caption: ''
 location:
 - sbw
 - cj
 - tus
 - snt
+size:
+- 1.5
+- 2.0
 ---
 
 ## Where seen?

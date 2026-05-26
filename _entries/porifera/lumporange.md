@@ -1,7 +1,6 @@
 ---
 description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
-keywords: chimney, sponge, petrosia, porifera, field, guide, seashore, sea, 
-  shore,
+keywords: chimney, sponge, petrosia, porifera, field, guide, seashore, sea, shore,
 layout: entry
 shape: encrusting
 title: Lumpy orange sponge
@@ -13,22 +12,21 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Oct 2016
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/porifera/lumpyorange/150802bbd8779m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/porifera/lumpyorange/150802bbd8779m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/lumpyorange/150802bbd8779m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/lumpyorange/150802bbd8779m3.jpg
     caption: Beting Bronok, Aug 15
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/lumpyorange/150802bbd8779m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/lumpyorange/150802bbd8779m3b.jpg
     caption: Tiny hole, submerged.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/lumpyorange/150802bbd8779m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/lumpyorange/150802bbd8779m3a.jpg
     caption: Surface grainy but smooth, glossy.
 location:
 - pgl
 - bb
+size:
+- 10.0
+- 15.0
 ---
 
 ## Where seen?

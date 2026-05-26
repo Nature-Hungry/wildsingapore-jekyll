@@ -1,10 +1,9 @@
 ---
 title: 'Semaphore crab '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: semaphore, crab, ilyoplax, dotillidae, decapod, crustacea, field, 
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: semaphore, crab, ilyoplax, dotillidae, decapod, crustacea, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 attributes:
 - 38
@@ -30,43 +29,56 @@ zoosubsection: Thoracotremata
 superfamily: Ocypodoidea
 subfamily: Dotillinae
 updated: Dec 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ilyoplax/050809lckg1072m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ilyoplax/050809lckg1072m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ilyoplax/050809lckg1072m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ilyoplax/050809lckg1072m3.jpg
     caption: Lim Chu Kang, Aug 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ilyoplax/050809lckg1074m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ilyoplax/050809lckg1074m3.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ilyoplax/040101lckd0135m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ilyoplax/040101lckd0135m3.jpg
     caption: Lim Chu Kang, Jan 04
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ilyoplax/111107sbwrlks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ilyoplax/111107sbwrlks.JPG
     caption: Sungei Buloh, Nov 11 Photo shared by Loh Kok Sheng on flickr .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Semaphore crabs (
+
   *Ilyoplax*
+
   spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2054)
+
   Ng, Peter K. L. & N. Sivasothi, 1999.
+
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
+
   . Singapore Science Centre. 168 pp.
+
   - [*Ilyoplax delsmani*](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=2381113&genusname=Ilyoplax&speciesname=delsmani)
+
   and
+
   *[Ilyoplax obliqua](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=2381116&genusname=Ilyoplax&speciesname=obliqua)*
+
   on SeaLife Base: Technical fact sheet.
 
+
   **References**
+
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
-  *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs of the world*
+
+  *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs
+  of the world*
+
   . The Raffles Bulletin of Zoology. Supplement No. 17, 31 Jan 2008. 286 pp.
+
+  '
 location:
 - sbw
 - lck
+size:
+- 0.5
 ---
 
 ## Where seen?

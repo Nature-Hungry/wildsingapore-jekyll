@@ -25,41 +25,64 @@ updated: Oct 2016
 coverimg: http://www.wildsingapore.com/wildfacts/plants/fruittrees/durio/zibethinus/091005cjd2007m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/fruittrees/durio/zibethinus/080412cjd1335m3.jpg"
-      caption: "Fallen flowers. Chek Jawa, Apr 08"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/fruittrees/durio/zibethinus/100410ubnd0869m3.jpg"
-      caption: "Flowers on a thick branch. Pulau Ubin, Apr 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/fruittrees/durio/zibethinus/091005cjd2011m3a.jpg"
-      caption: ""
+  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/durio/zibethinus/080412cjd1335m3.jpg
+    caption: Fallen flowers. Chek Jawa, Apr 08
+  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/durio/zibethinus/100410ubnd0869m3.jpg
+    caption: Flowers on a thick branch. Pulau Ubin, Apr 10
+  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/durio/zibethinus/091005cjd2011m3a.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/fruittrees/durio/zibethinus/031011ubnd0016m3.jpg"
-      caption: "Pulau Ubin, Oct 03"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/fruittrees/durio/zibethinus/031011ubnd0016m3b.jpg"
-      caption: "Pulau Ubin, Oct 03"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/fruittrees/durio/zibethinus/031011ubnd0019m3.jpg"
-      caption: "Pulau Ubin, Oct 03"
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/durio/zibethinus/031011ubnd0016m3.jpg
+    caption: Pulau Ubin, Oct 03
+  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/durio/zibethinus/031011ubnd0016m3b.jpg
+    caption: Pulau Ubin, Oct 03
+  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/durio/zibethinus/031011ubnd0019m3.jpg
+    caption: Pulau Ubin, Oct 03
+links_references: '**Links**
+
   - [*Durio zibethinus*](http://floraofsingapore.wordpress.com/2010/03/29/durio-zibethinus/)
+
   on Total Vascular Flora of Singapore Online: photos and fact sheet.
+
   - *[Eonycteris spelaea](http://taxo4254.wikispaces.com/Eonycteris+spelaea+%28Cave+Nectar+Bat%29+%28Kelly+Tan%2C+2014%29)*
+
   (Chiroptera: Pteropodidae) Cave Nectar Bat by Kelly Tan Siang Ting, 2014, on taxo4254.
-  - [If you drink, don't durian](http://wildshores.blogspot.com/2009/09/if-you-drink-dont-durian.html)
-  on the wild shores of singapore blog: Your mom was right: eating durians and drinking booze at the same time can kill!
-  
+
+  - [If you drink, don''t durian](http://wildshores.blogspot.com/2009/09/if-you-drink-dont-durian.html)
+
+  on the wild shores of singapore blog: Your mom was right: eating durians and drinking
+  booze at the same time can kill!
+
+
   **References**
+
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
+
   *The Concise Flora of Singapore: Gymnosperms and Dicotyledons*
+
   . Singapore University Press. 222 pp.
+
   - Corners, E. J. H., 1997.
+
   *Wayside Trees of Malaya: in two volumes*
-  . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
+
+  . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates
+  1-38; volume 2: 477-861 pp., plates 139-236.
+
   - Burkill, I. H., 1993.
+
   *A Dictionary of the Economic Products of the Malay Peninsula*
-  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
+
+  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
+  Volume 1: 1-1240; volume 2: 1241-2444.
+
   - Tomlinson, P. B., 1986.
+
   *The Botany of Mangroves*
+
   Cambridge University Press. USA. 419 pp.
+
+  '
 ---
 
 ## Where seen?

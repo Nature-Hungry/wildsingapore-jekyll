@@ -1,10 +1,9 @@
 ---
 title: Soft coral false cowrie
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: soft, coral, ovulid, cowrie, ovulidae, gastropod, mollusc, snail, 
-  shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: soft, coral, ovulid, cowrie, ovulidae, gastropod, mollusc, snail, shell,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Ovulidae
 genus: ''
@@ -19,97 +18,70 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Cypraeoidea
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/110518bbd1755m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/110518bbd1755m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/110518bbd1755m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/110518bbd1755m3.jpg
     caption: Closely resembles the soft coral. Beting Bronok, May 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/120508skdd2250m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/120508skdd2250m3.jpg
     caption: Often seen in a pair. Pulau Sekudu, May 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/080705bbd7117m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/080705bbd7117m3.jpg
     caption: Chomped on parts of the soft coral. Beting Bronok, Jul 08
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/110518bbd1754.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/110518bbd1754.jpg
     caption: Chomped areas and eggs (?) nearby Beting Bronok, May 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/080412cjd1228m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/080412cjd1228m3.jpg
     caption: Eggs nearby? Chek Jawa, Apr 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/080412cjd1228m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/080412cjd1228m3a.jpg
     caption: Eggs nearby? Chek Jawa, Apr 08
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/090824tusd0011m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/090824tusd0011m3a.jpg
     caption: 'Prionovolva sp. # Tuas, Aug 09'
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/090824tusd0014m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/090824tusd0014m3.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/090824tusd0017m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/090824tusd0017m3.jpg
     caption: ''
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/121117hntd1747m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/121117hntd1747m3.jpg
     caption: 'Globovula sphaera # Pulau Hantu, Nov 12'
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/121117hntd1588m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/121117hntd1588m3.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/121117hntd1590m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/121117hntd1590m3.jpg
     caption: ''
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/160706skdlks1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/160706skdlks1.jpg
     caption: Pulau Sekudu, Jul 16 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/130820skdlks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/130820skdlks.JPG
     caption: Pulau Sekudu, Aug 13 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/101011chglks1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/101011chglks1m3.jpg
     caption: Changi, Oct 10 Photo shared by Loh Kok Sheng on his flickr .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/160705ecplks1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/160705ecplks1.jpg
     caption: Beting Bronok, Jul 2016 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/160705ecplks1a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/160705ecplks1a.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/160705ecplks1b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/160705ecplks1b.jpg
     caption: ''
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/190704bbtch1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/190704bbtch1.jpg
     caption: Beting Bronok, Jul 2019 Photo shared by Toh Chay Hoon on facebook .
   gallery8:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/100104tmlks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/100104tmlks.JPG
     caption: Tanah Merah, Jan 10 Photo shared by Loh Kok Sheng on flickr.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/100104tmlks2.JPG
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/100104tmlks2.JPG
     caption: Tanah Merah, Jan 10 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/090820ecplkh2m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/090820ecplkh2m3.jpg
     caption: East Coast, Aug 09 Photo shared by Loh Kok Sheng on his blog .
   gallery9:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/200311blylks6.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/200311blylks6.jpg
     caption: Berlayar Creek, Mar 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/240113lazjll1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/240113lazjll1.jpg
     caption: Lazarus Island, Jan 24 Photo shared by Jianlin Liu on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/210822ssisjll1.jpg
-    caption: Small Sisters Island, Aug 21 Photo shared by Jianlin Liu on 
-      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/210822ssisjll1.jpg
+    caption: Small Sisters Island, Aug 21 Photo shared by Jianlin Liu on facebook
+      .
   gallery10:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/240410cyrlks1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/240410cyrlks1.jpg
     caption: Cyrene, Apr 24 Photo shared by Loh Kok Sheng on facebook .
 location:
 - chg
@@ -124,6 +96,9 @@ location:
 - sis
 - cyr
 - hnt
+size:
+- 1.5
+- 2.0
 ---
 
 ## Where seen?

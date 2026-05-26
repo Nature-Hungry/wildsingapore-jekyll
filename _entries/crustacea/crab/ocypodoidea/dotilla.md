@@ -1,10 +1,9 @@
 ---
 title: 'Soldier crab '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: soldier, crab, dotilla, myctiroides, dotillidae, decapod, crustacea, 
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: soldier, crab, dotilla, myctiroides, dotillidae, decapod, crustacea, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 attributes:
 - 38
@@ -30,105 +29,128 @@ zoosubsection: Thoracotremata
 superfamily: Ocypodoidea
 subfamily: Dotillinae
 updated: Dec 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/041127cjd8656m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/041127cjd8656m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They are everywhere on 
-      the sandy shore at low tide. Don't step on them! They are very shy. To see
-      them, wait quietly without moving. Unlike most crabs, they can run 
-      forwards, backwards as well as sideways.
+    caption: if you learn only 3 things about them ... They are everywhere on the
+      sandy shore at low tide. Don't step on them! They are very shy. To see them,
+      wait quietly without moving. Unlike most crabs, they can run forwards, backwards
+      as well as sideways.
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They are everywhere on the sandy shore at low tide. Don't step on 
-      them! They are very shy. To see them, wait quietly without moving. Unlike 
-      most crabs, they can run forwards, backwards as well as sideways.
+    caption: They are everywhere on the sandy shore at low tide. Don't step on them!
+      They are very shy. To see them, wait quietly without moving. Unlike most crabs,
+      they can run forwards, backwards as well as sideways.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/041127cjd8656m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/041127cjd8656m3.jpg
     caption: Chek Jawa, Nov 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/060225cjg4975m3a.jpg
-    caption: Typical burrow with small and big sand balls around the opening. 
-      Chek Jawa, Feb 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/111129tmftd4218m3.jpg
-    caption: "'Igloo' built just before the incoming tide. Tanah Merah, Nov 11"
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/060225cjg4975m3a.jpg
+    caption: Typical burrow with small and big sand balls around the opening. Chek
+      Jawa, Feb 06
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/111129tmftd4218m3.jpg
+    caption: '''Igloo'' built just before the incoming tide. Tanah Merah, Nov 11'
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/070616cjg0403m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/070616cjg0403m3.jpg
     caption: Chek Jawa, Jun 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/070616cjg0404m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/070616cjg0404m3.jpg
     caption: Creating an 'igloo' in wet sand with the incoming tide.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/070616cjg0405m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/070616cjg0405m3.jpg
     caption: ''
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/171105cjay1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/171105cjay1.jpg
     caption: Chek Jawa, Nov 17 Shared by Abel Yeo on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/151001blylks2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/151001blylks2.jpg
     caption: Berlayar Creek, Oct 15 Shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/090109sjilks01m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/090109sjilks01m3.jpg
     caption: St. John's Island, Jan 09 Shared by Loh Kok Sheng on his blog .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/090224lazlks04m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/090224lazlks04m3.jpg
     caption: Lazarus Island, Feb 09 Shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/160208smkshpy4.jpg
-    caption: Pulau Semakau South, Feb 16 Photo shared by Heng Pei Yan on 
-      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/160208smkshpy4.jpg
+    caption: Pulau Semakau South, Feb 16 Photo shared by Heng Pei Yan on facebook
+      .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/091204pawd5191m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/091204pawd5191m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/091205sudd5475m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/091205sudd5475m3.jpg
     caption: Pulau Sudong, Dec 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/100810snglks1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/100810snglks1m3.jpg
     caption: Pulau Senang, Aug 10 Photo shared by Loh Kok Sheng on his flickr .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Soldier crab (
+
   *Dotilla*
+
   sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/192)
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
+
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+
   . The Singapore Science Centre, Singapore. 160 pp.
+
   - [Soldier crab (
+
   *Dotilla myctiroides*
+
   )](http://mangrove.nus.edu.sg/guidebooks/text/2052)
+
   Ng, Peter K. L. & N. Sivasothi, 1999.
+
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
+
   . Singapore Science Centre. 168 pp.
+
   - [*Dotilla myctiroides*](http://www.sealifebase.fisheries.ubc.ca/summary/speciessummary.php?id=2381111)
+
   and
+
   *[Dotilla wichmanni](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=2381110)*
+
   on SeaLife Base: Technical fact sheet.
 
+
   **References**
+
   - Satoshi Takeda, Masatoshi Matsumasa, Hoi-Sen Yong, Minoru Murai. 15 June 1996.
-  ['Igloo' construction by the ocypodid crab,
+
+  [''Igloo'' construction by the ocypodid crab,
+
   *Dotilla myctiroides*
-  (Milne-Edwards) (Crustacea; Brachyura): the role of an air chamber when burrowing in a saturated sandy substratum](http://www.sciencedirect.com/science/article/pii/002209819600007X)
+
+  (Milne-Edwards) (Crustacea; Brachyura): the role of an air chamber when burrowing
+  in a saturated sandy substratum](http://www.sciencedirect.com/science/article/pii/002209819600007X)
+
   Journal of Experimental Marine Biology and Ecology Volume 198, Issue 2, Pages 237-247.
+
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
-  *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs of the world*
+
+  *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs
+  of the world*
+
   . The Raffles Bulletin of Zoology. Supplement No. 17, 31 Jan 2008. 286 pp.
+
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
+
   *Rhythm of the Sea: The Life and Times of Labrador Beach.*
-  Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+
+  Division of Biology, School of Science, Nanyang Technological University & Department
+  of Zoology, the National University of Singapore. 160 pp.
+
   - Ng, P. K. L. & Y. C. Wee, 1994.
+
   *The Singapore Red Data Book: Threatened Plants and Animals of Singapore*
+
   . The Nature Society (Singapore), Singapore. 343 pp.
+
   - Jones Diana S. and Gary J. Morgan, 2002.
+
   *A Field Guide to Crustaceans of Australian Waters*
+
   . Reed New Holland. 224 pp.
+
+  '
 location:
 - chg
 - cj
@@ -143,6 +165,8 @@ location:
 - hnt
 - smk
 - lfa
+size:
+- 1.5
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

@@ -1,10 +1,9 @@
 ---
 title: Spotted green pufferfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: spotted, green, pufferfish, puffer, fish, tetraodon, nigroviridis, 
-  tetraodontidae, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: spotted, green, pufferfish, puffer, fish, tetraodon, nigroviridis, tetraodontidae,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 attributes:
 - 11
@@ -24,56 +23,81 @@ superorder: Acanthomorpha
 order: Tetraodontiformes
 suborder: Tetraodontoidei
 updated: Nov 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/nigroviridis/050218sbwrd0424m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/nigroviridis/050218sbwrd0424m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/nigroviridis/050218sbwrd0424m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/nigroviridis/050218sbwrd0424m3.jpg
     caption: Sungei Buloh Wetland Reserve, Feb 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/nigroviridis/151031ecpmblks2.jpg
-    caption: East Coast-Marina Bay, Oct 15 Photo shared by Loh Kok Sheng on 
-      flickr .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/nigroviridis/151031ecpmblks2.jpg
+    caption: East Coast-Marina Bay, Oct 15 Photo shared by Loh Kok Sheng on flickr
+      .
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/nigroviridis/151031ecpmblks3.jpg
-    caption: East Coast-Marina Bay, Oct 15 Photo shared by Loh Kok Sheng on 
-      flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/nigroviridis/200819ecptch5.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/nigroviridis/151031ecpmblks3.jpg
+    caption: East Coast-Marina Bay, Oct 15 Photo shared by Loh Kok Sheng on flickr
+      .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/nigroviridis/200819ecptch5.jpg
     caption: East Coast Park, Aug 20 Photo shared by Toh Chay Hoon on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Spotted Green Puffer (
+
   *Tetraodon nigroviridis*
+
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/398)
+
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
+
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
+
   . Singapore Science Centre. 163 pp.
+
   - [Spotted green puffer (
+
   *Tetraodon nigroviridis*
+
   )](http://mangrove.nus.edu.sg/guidebooks/text/2108)
+
   Ng, Peter K. L. & N. Sivasothi, 1999.
+
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
+
   . Singapore Science Centre. 168 pp
+
   - [*Tetraodon nigroviridis*](https://singapore.biodiversity.online/taxo4254/mainSpace/Tetraodon%20nigroviridis%20Marion%20de%20Proc%C3%A9%2C%201822.html)
-  (Tetraodontiformes: Tetraodontidae) Spotted Green Pufferfish by Cheong Ka Min Delicia, 2014, on taxo4254.
+
+  (Tetraodontiformes: Tetraodontidae) Spotted Green Pufferfish by Cheong Ka Min Delicia,
+  2014, on taxo4254.
+
   - [Spotted green pufferfish (
+
   *Tetraodon nigroviridis*
+
   )](http://www.fishbase.org/Summary/SpeciesSummary.php?id=7763)
+
   from
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheet.
 
+
   **References**
+
   - Andrew Tay & Caitlin Wind. 6 December 2013.
+
   *Dog-faced water snake attacking pufferfish*
+
   . Singapore Biodiversity Records 2013: 100.
+
+  '
 location:
 - sbw
 - cj
 - ecp
+size:
+- 3.0
+- 6.0
+- 14.0
 ---
 
 ## Where seen?

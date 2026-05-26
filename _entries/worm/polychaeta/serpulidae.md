@@ -1,9 +1,8 @@
 ---
 title: Keelworms
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: keelworm, keel, worm, polychaete, annelid, field, guide, seashore, 
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: keelworm, keel, worm, polychaete, annelid, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry
 family: Serpulidae
 genus: ''
@@ -18,45 +17,68 @@ subclass: Sedentaria
 infraclass: Canalipalpata
 order: Sabellida
 updated: Oct 2016
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/worm/polychaeta/serpulidae/080731chgd8454m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/serpulidae/080731chgd8454m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polychaeta/serpulidae/111031chgd3457m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/serpulidae/111031chgd3457m3.jpg
     caption: Growing on a living small crab. Changi, Oct 11
-  - url: 
-      http://www.wildsingapore.com/mollusca/bivalvia/pinnidae/pinnidae/060624skdd3239m3d.jpg
+  - url: http://www.wildsingapore.com/mollusca/bivalvia/pinnidae/pinnidae/060624skdd3239m3d.jpg
     caption: Growing on a fan shell . Pulau Sekudu, Jun 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polychaeta/serpulidae/080731chgd8492m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/serpulidae/080731chgd8492m3.jpg
     caption: Growing on a shell occupied by a hermit crab . Changi, Jul 08
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Keelworm (Family Serpulidae)](http://mangrove.nus.edu.sg/pub/seashore/text/126)
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
+
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+
   . The Singapore Science Centre, Singapore. 160 pp.
+
   - [Tubeworms and Keelworms (Phylum Annelida)](http://mangrove.nus.edu.sg/guidebooks/text/2007)
+
   Ng, Peter K. L. & N. Sivasothi, 1999.
+
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
+
   . Singapore Science Centre. 168 pp.
-  - [Family Serpulidae: 'Plume Worms'](http://rmbr.nus.edu.sg/polychaete/Serpulidae.html)
+
+  - [Family Serpulidae: ''Plume Worms''](http://rmbr.nus.edu.sg/polychaete/Serpulidae.html)
+
   from
+
   [A Guide to Singapore Polychaetes](http://rmbr.nus.edu.sg/polychaete/)
-  by Lim Yun Ping 1997-2000 on the Raffles Museum of Biodiversity Research website: fact sheets and photos of polychaetes found in Singapore.: brief introduction and photos, as well as distribution in Singapore.
+
+  by Lim Yun Ping 1997-2000 on the Raffles Museum of Biodiversity Research website:
+  fact sheets and photos of polychaetes found in Singapore.: brief introduction and
+  photos, as well as distribution in Singapore.
+
   - [Family Serpulidae](http://personal.cityu.edu.hk/%7Ebhworm/sedentary/serpulidae)
+
   from
+
   [Marine Sedentary Polychaetes in Hong Kong](http://personal.cityu.edu.hk/%7Ebhworm/sedentary/)
-  by Man Chun Ho on the City University of Hong Kong website: brief introduction with photos of the worm out of its tube.
+
+  by Man Chun Ho on the City University of Hong Kong website: brief introduction with
+  photos of the worm out of its tube.
+
 
   **References**
+
   - Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.
+
   *Invertebrate Zoology*
+
   Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
+
   - Pechenik, Jan A., 2005.
+
   *Biology of the Invertebrates*
+
   . 5
+
+  '
 location:
 - pgl
 - chg
@@ -70,6 +92,10 @@ location:
 - snt
 - sis
 - smk
+size:
+- 0.5
+- 5.0
+- 8.0
 ---
 
 ## Where seen?

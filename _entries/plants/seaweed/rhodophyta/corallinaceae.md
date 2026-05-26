@@ -21,35 +21,36 @@ order: Corallinales
 suborder: Corallinineae
 updated: Aug 08
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/050610sntg7603m3.jpg
-links_references: |
-  **Links**
-  - [Red
-    Encrusting Algae](http://mangrove.nus.edu.sg/pub/seashore/text/106) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-    Singapore. 160 pp.
-  - [Introduction
-    to Coralline Algae](http://www.botany.uwc.ac.za/clines/) on the University of Western Cape website:
-    A somewhat technical introduction to their shapes, importance
-    to the habitat, reproduction, taxonomy with links to other sites
-    on coralline algae.
-  - [Coralline
-    Algae of Pulley Ridge](http://coastal.er.usgs.gov/pulley-ridge/coralline-algael) on the US Geological Survey website:
-    photos of some coralline algae
-  
-  **References**
-  - Wee Y.C.
-    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-    National Council on the Environment. 163pp.
-  - Chou, L.
-    M., 1998. *[A
-    Guide to the Coral Reef Life of Singapore](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*. Singapore Science
-    Centre. 128 pages.
-  - Calumpong,
-    H. P. & Menez, E. G., 1997.*[Field
+links_references: "**Links**\n- [Red\n  Encrusting Algae](http://mangrove.nus.edu.sg/pub/seashore/text/106)\
+  \ Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A\n  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
+  \ The Singapore Science Centre,\n  Singapore. 160 pp.\n- [Introduction\n  to Coralline\
+  \ Algae](http://www.botany.uwc.ac.za/clines/) on the University of Western Cape\
+  \ website:\n  A somewhat technical introduction to their shapes, importance\n  to\
+  \ the habitat, reproduction, taxonomy with links to other sites\n  on coralline\
+  \ algae.\n- [Coralline\n  Algae of Pulley Ridge](http://coastal.er.usgs.gov/pulley-ridge/coralline-algael)\
+  \ on the US Geological Survey website:\n  photos of some coralline algae\n\n**References**\n\
+  - Wee Y.C.\n  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.\n\
+  \  National Council on the Environment. 163pp.\n- Chou, L.\n  M., 1998. *[A\n  Guide\
+  \ to the Coral Reef Life of Singapore](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*.\
+  \ Singapore Science\n  Centre. 128 pages.\n- Calumpong,\n  H. P. & Menez, E. G.,\
+  \ 1997.*[Field\n"
 galleries:
   gallery1:
-    - url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
-      caption: "Links Red Encrusting Algae Tan, Leo W. H. & Ng, Peter K. L., 1988. A Guide to Seashore Life . The Singapore Science Centre, Singapore. 160 pp. Introduction to Coralline Algae on the University of Western Cape website: A somewhat technical introduction to their shapes, importance to the habitat, reproduction, taxonomy with links to other sites on coralline algae. Coralline Algae of Pulley Ridge on the US Geological Survey website: photos of some coralline algae References Wee Y.C. and Peter K. L. Ng. 1994. A First Look at Biodiversity in Singapore . National Council on the Environment. 163pp. Chou, L. M., 1998. A Guide to the Coral Reef Life of Singapore . Singapore Science Centre. 128 pages. Calumpong, H. P. & Menez, E. G., 1997. Field Guide to the Common Mangroves, Seagrasses and Algae of the Philippines . Bookmark, Inc., the Philippines. 197 pp. Huisman, John M. 2000. Marine Plants of Australia University of Western Australia Press. 300pp. Trono, Gavino. C. Jr., 1997. Field Guide and Atlas of the Seaweed Resources of the Philippines. . Bookmark, Inc., the Philippines. 306 pp."
+  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
+    caption: 'Links Red Encrusting Algae Tan, Leo W. H. & Ng, Peter K. L., 1988. A
+      Guide to Seashore Life . The Singapore Science Centre, Singapore. 160 pp. Introduction
+      to Coralline Algae on the University of Western Cape website: A somewhat technical
+      introduction to their shapes, importance to the habitat, reproduction, taxonomy
+      with links to other sites on coralline algae. Coralline Algae of Pulley Ridge
+      on the US Geological Survey website: photos of some coralline algae References
+      Wee Y.C. and Peter K. L. Ng. 1994. A First Look at Biodiversity in Singapore
+      . National Council on the Environment. 163pp. Chou, L. M., 1998. A Guide to
+      the Coral Reef Life of Singapore . Singapore Science Centre. 128 pages. Calumpong,
+      H. P. & Menez, E. G., 1997. Field Guide to the Common Mangroves, Seagrasses
+      and Algae of the Philippines . Bookmark, Inc., the Philippines. 197 pp. Huisman,
+      John M. 2000. Marine Plants of Australia University of Western Australia Press.
+      300pp. Trono, Gavino. C. Jr., 1997. Field Guide and Atlas of the Seaweed Resources
+      of the Philippines. . Bookmark, Inc., the Philippines. 306 pp.'
 ---
 
 ## Where seen?

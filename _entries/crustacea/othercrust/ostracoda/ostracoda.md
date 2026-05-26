@@ -1,9 +1,8 @@
 ---
 title: 'Mussel shrimps '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: mussel, shrimp, ostracod, crustacea, field, guide, seashore, sea, 
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: mussel, shrimp, ostracod, crustacea, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry
 family: ''
 genus: ''
@@ -13,39 +12,57 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Mar 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ostracoda/ostracoda/050806skdg0510m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ostracoda/ostracoda/050806skdg0510m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ostracoda/ostracoda/050806skdg0510m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ostracoda/ostracoda/050806skdg0510m3.jpg
     caption: Eating or being eaten by a worm? Pulau Sekudu, Aug 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ostracoda/ostracoda/050722cjg9869m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ostracoda/ostracoda/050722cjg9869m3.jpg
     caption: Again seen with a worm. Chek Jawa, Jul 05
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Mussel shrimps (Ostracoda)](http://mangrove.nus.edu.sg/pub/seashore/text/176)
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
+
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+
   . The Singapore Science Centre, Singapore. 160 pp.
+
   - [Introduction to the Ostracoda](http://www.ucmp.berkeley.edu/arthropoda/crustacea/maxillopoda/ostracoda.html)
+
   on the
+
   [Phylogeny Wing](http://www.ucmp.berkeley.edu/exhibit/phylogeny.html)
+
   on the
+
   [Museum of Paleontology, University of California Berkeley](http://www.ucmp.berkeley.edu/)
+
   website: fossil record, life history and ecology, systematics and more on morphology.
 
+
   **References**
+
   - Jones Diana S. and Gary J. Morgan, 2002.
+
   *A Field Guide to Crustaceans of Australian Waters*
+
   . Reed New Holland. 224 pp.
+
   - Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.
+
   *Invertebrate Zoology*
+
   Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
+
+  '
 location:
 - cj
 - skd
+size:
+- 1.0
+- 0.5
 ---
 
 ## Where seen?

@@ -1,10 +1,9 @@
 ---
 title: 'Tiny colourful brittle stars '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: tiny, colourful, brittle, star, brittlestar, ophiothela, danae, 
-  ophiuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: tiny, colourful, brittle, star, brittlestar, ophiothela, danae, ophiuroidea,
+  echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 0
@@ -27,78 +26,68 @@ order: Amphilepidida
 suborder: Gnathophiurina
 superfamily: Ophiactoidea
 updated: Apr 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinycolourful/120605lygd4160m3a.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinycolourful/120605lygd4160m3a.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinycolourful/120605lygd4160m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinycolourful/120605lygd4160m3a.jpg
     caption: Changi, Jun 12 On a sea fan .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinycolourful/120704chgd7025m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinycolourful/120704chgd7025m3.jpg
     caption: Changi, Jul 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinycolourful/080507skdd2477m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinycolourful/080507skdd2477m3.jpg
     caption: On a flowery soft coral colony. Pulau Sekudu, Jul 05
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinycolourful/090922sjid1665m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinycolourful/090922sjid1665m3.jpg
     caption: St. John's Island, Sep 09 On hard coral .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinycolourful/080802sjid8782m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinycolourful/080802sjid8782m3a.jpg
     caption: St. John's Island, Aug 08 On a starry leathery soft coral.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinycolourful/040509skdbd0148m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinycolourful/040509skdbd0148m3b.jpg
     caption: Pulau Sekudu, May 04 On pencil sea urchin spine.
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinycolourful/160209cyrlks4.JPG
-    caption: On pencil sea urchin spine. Cyrene Reef, Feb 16 Photo shared by Loh
-      Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinyorange/161012cj.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinycolourful/160209cyrlks4.JPG
+    caption: On pencil sea urchin spine. Cyrene Reef, Feb 16 Photo shared by Loh Kok
+      Sheng on his blog .
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinyorange/161012cj.jpg
     caption: Chek Jawa, Oct 16 In Spiky flowery soft coral
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinyorange/200823cyr.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinyorange/200823cyr.jpg
     caption: Cyrene Reef, Aug 20 In Leathery sea fan
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinycolourful/210528chg7lks8.jpg
-    caption: On Knobbly sea star Changi Carpark 7, May 21 Photo shared by Loh 
-      Kok Sheng on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinycolourful/210528chg7lks8.jpg
+    caption: On Knobbly sea star Changi Carpark 7, May 21 Photo shared by Loh Kok
+      Sheng on facebook .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinycolourful/170723ubnlks4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinycolourful/170723ubnlks4.jpg
     caption: Pulau Ubin, Jul 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinycolourful/121216ubnlks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinycolourful/121216ubnlks.JPG
     caption: Pulau Ubin, Dec 12 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinycolourful/160704cjlks1.JPG
-    caption: On flowery soft coral. Chek Jawa, Jul 16 Photo shared by Loh Kok 
-      Sheng on his blog .
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinycolourful/160704cjlks1.JPG
+    caption: On flowery soft coral. Chek Jawa, Jul 16 Photo shared by Loh Kok Sheng
+      on his blog .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinycolourful/160209cyrlks4.JPG
-    caption: On pencil sea urchin spine. Cyrene Reef, Feb 16 Photo shared by Loh
-      Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinycolourful/110423tpld0059m3a.jpg
-    caption: on leathery sea fan . Kusu Island, Sep 19 Photo shared by Leon Tan 
-      on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinycolourful/200823cyrjk1.jpg
-    caption: Cyrene, Aug 20 In leathery sea fan Photo shared by James Koh on 
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinycolourful/160209cyrlks4.JPG
+    caption: On pencil sea urchin spine. Cyrene Reef, Feb 16 Photo shared by Loh Kok
+      Sheng on his blog .
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinycolourful/110423tpld0059m3a.jpg
+    caption: on leathery sea fan . Kusu Island, Sep 19 Photo shared by Leon Tan on
       facebook .
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinycolourful/200823cyrjk1.jpg
+    caption: Cyrene, Aug 20 In leathery sea fan Photo shared by James Koh on facebook
+      .
+links_references: '**Links**
+
   - [*Ophiothela danae*](http://www.sealifebase.org/summary/Ophiothela-danae.html)
+
   on SeaLife Base: Technical fact sheet.
 
+
   **References**
+
   - Lane, David J.W. and Didier Vandenspiegel. 2003
+
   *. A Guide to Sea Stars and Other Echinoderms of Singapore*
+
   . Singapore Science Centre. 187pp.
+
+  '
 location:
 - chg
 - ubn
@@ -111,6 +100,8 @@ location:
 - sji
 - sis
 - cyr
+size:
+- 1.0
 ---
 
 ## Where seen?

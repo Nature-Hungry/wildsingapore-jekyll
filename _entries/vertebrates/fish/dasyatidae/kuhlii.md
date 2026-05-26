@@ -1,10 +1,9 @@
 ---
 title: Blue-spotted stingray
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: blue, spotted, sting, ray, stingray, neotrygon, dasyatis, kuhlii, 
-  fish, rajiformes, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: blue, spotted, sting, ray, stingray, neotrygon, dasyatis, kuhlii, fish,
+  rajiformes, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 25
@@ -24,65 +23,91 @@ infraclass: Batoidea
 order: Myliobatiformes
 subfamily: Neotrygoninae
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/kuhlii/170428ecpcnlks8.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/kuhlii/170428ecpcnlks8.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/kuhlii/170428ecpcnlks8.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/kuhlii/170428ecpcnlks8.jpg
     caption: East Coast PCN, Apr 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/kuhlii/071226chgd8385m6l.jpg
-    caption: Body kite shaped with rounded snout. Black-and-white bands on the 
-      tail. Changi, Dec 07
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/kuhlii/071226chgd8385m6l.jpg
+    caption: Body kite shaped with rounded snout. Black-and-white bands on the tail.
+      Changi, Dec 07
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/kuhlii/071226chgd8385m3c.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/kuhlii/071226chgd8385m3c.jpg
     caption: Blue spots are tiny and sparse.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/kuhlii/071226chgd8385m3d.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/kuhlii/071226chgd8385m3d.jpg
     caption: Dark 'mask' across the eyes
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/kuhlii/060430skdd1550m3a.jpg
-    caption: A gathering of Blue-spotted stingrays and Mangrove whiprays in a 
-      sandy lagoon. Pulau Sekudu, Apr 06
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/kuhlii/060430skdd1550m3a.jpg
+    caption: A gathering of Blue-spotted stingrays and Mangrove whiprays in a sandy
+      lagoon. Pulau Sekudu, Apr 06
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/kuhlii/170429epcnay1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/kuhlii/170429epcnay1.jpg
     caption: East Coast PCN, Apr 17 Photo shared by Abel Yeo on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Blue-spotted Stingray (
+
   *Dasyatis kuhlii*
+
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/203)
+
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
+
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
+
   . Singapore Science Centre. 163 pp.
+
   - [Bluespotted stingray (
+
   *Neotrygon kuhlii*
+
   )](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=4508)
+
   on
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheet.
+
   - [Volume 3: Batoid fishes, chimaeras and bony fishes part 1 (Elopidae to Linophrynidae)](http://www.fao.org/docrep/009/x2401e/x2401e00)
-  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
+
+  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources
+  of the Western Central Pacific.
+
   - [*Neotrygon kuhlii*](http://www.iucnredlist.org/details/161590/0)
+
   from IUCN Red List.
 
+
   **References**
+
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
+
   *Rhythm of the Sea: The Life and Times of Labrador Beach*
-  . Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+
+  . Division of Biology, School of Science, Nanyang Technological University & Department
+  of Zoology, the National University of Singapore. 160 pp.
+
   - Kuiter, Rudie H. 2002.
+
   *Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers & Fishermen*
+
   New Holland Publishers. 434pp.
+
   - Lieske, Ewald and Robert Myers. 2001.
+
   *Coral Reef Fishes of the World*
+
   Periplus Editions. 400pp.
+
+  '
 location:
 - chg
 - skd
 - ecp
+size:
+- 40.0
+- 15.0
+- 20.0
 ---
 
 ## Where seen?

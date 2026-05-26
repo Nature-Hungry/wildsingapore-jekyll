@@ -23,31 +23,48 @@ updated: Nov 13
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/undulata/030525cjd0112m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/undulata/030525cjd0108m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/undulata/030525cjd0114m3a.jpg"
-      caption: Granular skin on adult.
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/undulata/030525cjd0112m3a.jpg"
-      caption: Broadly triangular snout.
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/undulata/030525cjd0108m3.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/undulata/030525cjd0114m3a.jpg
+    caption: Granular skin on adult.
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/undulata/030525cjd0112m3a.jpg
+    caption: Broadly triangular snout.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/undulata/101200cjro1m6l.jpg"
-      caption: "Chek Jawa, Dec 10 Photo shared by Rene Ong on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/undulata/101200cjro2m3a.jpg"
-      caption: ""
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/undulata/101200cjro1m6l.jpg
+    caption: Chek Jawa, Dec 10 Photo shared by Rene Ong on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/undulata/101200cjro2m3a.jpg
+    caption: ''
+links_references: '**Links**
+
   - [Leopard whipray (
+
   *Himantura undulata*
+
   )](http://www.fishbase.org/summary/SpeciesSummary.php?id=12584)
+
   on
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheet.
-  - [Bleeker's variegated whipray (
+
+  - [Bleeker''s variegated whipray (
+
   *Himantura undulata*
+
   )](http://www.iucnredlist.org/apps/redlist/details/161621/0)
+
   on the IUCN Red List: fact sheet.
+
   - [Volume 3: Batoid fishes, chimaeras and bony fishes part 1 (Elopidae to Linophrynidae)](http://www.fao.org/docrep/009/x2401e/x2401e00)
-  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
+
+  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources
+  of the Western Central Pacific.
+
+  '
+size:
+- 140.0
+- 400.0
 ---
 
 ## Where seen?

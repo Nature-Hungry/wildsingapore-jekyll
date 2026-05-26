@@ -1,10 +1,9 @@
 ---
 title: Domed elbow crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: domed, elbow, crab, cryptopodia, fornicata, parthenopidae, decapod, 
-  crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: domed, elbow, crab, cryptopodia, fornicata, parthenopidae, decapod, crustacea,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 attributes:
 - 38
@@ -31,63 +30,63 @@ zoosubsection: Heterotremata
 superfamily: Parthenopoidea
 subfamily: Parthenopinae
 updated: Dec 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/060711chgd4013m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/060711chgd4013m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/060711chgd4013m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/060711chgd4013m3.jpg
     caption: A domed body covers its limbs. Changi, Jul 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/060711chgd4013m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/060711chgd4013m3b.jpg
     caption: Large, angular pincers
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/060711chgd4013m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/060711chgd4013m3a.jpg
     caption: Tiny eyes.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/090526bbd2664m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/090526bbd2664m3.jpg
     caption: Beting Bronok, May 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/090526bbd2664m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/090526bbd2664m3b.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/090526bbd2661m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/090526bbd2661m3.jpg
     caption: Carrying eggs.
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/120605chgmn1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/120605chgmn1.jpg
     caption: Changi, Jun 12 Photo shared by Marcus Ng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/120605chgmn2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/120605chgmn2.jpg
     caption: ''
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/130325tsmklks1.JPG
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/130325tsmklks1.JPG
     caption: Terumbu Semakau, Mar 13 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/111126bblks1.JPG
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/111126bblks1.JPG
     caption: Beting Bronok , Nov 11 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/180714cjtch1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/180714cjtch1.jpg
     caption: Chek Jawa, Jul 18 Photo shared by Toh Chay Hoon on facebook ..
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Cryptopodia fornicata*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1032)
+
   on Crabs of Japan in Marine Species Identification Portal: Technical fact sheet.
 
+
   **References**
+
   - Debelius, Helmut, 2001.
+
   *Crustacea Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean*
+
   IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+
   . Nature Society (Singapore). 285 pp.
+
+  '
 location:
 - chg
 - cj
 - bb
 - tsm
+size:
+- 6.0
 ---
 
 ## Where seen?

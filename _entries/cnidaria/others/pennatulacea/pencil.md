@@ -1,10 +1,9 @@
 ---
 title: 'Sea pencil '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: pencil, pen, seapen, lituaria, veretillidae, pennatulacea, anthozoa, 
-  cnidaria, pteroides, cavernularia, field, guide, seashore, sea, shore, marine,
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: pencil, pen, seapen, lituaria, veretillidae, pennatulacea, anthozoa, cnidaria,
+  pteroides, cavernularia, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Veretillidae
 genus: Lituaria
@@ -19,63 +18,62 @@ subclass: Octocorallia
 order: Scleralcyonacea
 superfamily: Pennatuloidea
 updated: Dec 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/110520chgd2414m6l.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/110520chgd2414m6l.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/110520chgd2414m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/110520chgd2414m6l.jpg
     caption: Changi, May 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/110520chgd2484m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/110520chgd2484m3.jpg
     caption: Changi, May 11 . Chek Jawa, Jul 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/060502cftd1783m3.jpg
-    caption: Half dead specimen washed ashore . Skeleton of the central stalk 
-      Changi, May 06
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/060502cftd1783m3.jpg
+    caption: Half dead specimen washed ashore . Skeleton of the central stalk Changi,
+      May 06
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/crustacea/othercrust/anomura/porcellanidae/picta/071002chngtch.jpg
-    caption: Painted porcelain crab seen on a Sea pencil. Changi, Oct 07 Photo 
-      shared by Toh Chay Hoon on flickr .
-  - url: 
-      http://www.wildsingapore.com/mollusca/slugs/nudibranchia/bumpyface/050622chgg8137m3.jpg
+  - url: http://www.wildsingapore.com/crustacea/othercrust/anomura/porcellanidae/picta/071002chngtch.jpg
+    caption: Painted porcelain crab seen on a Sea pencil. Changi, Oct 07 Photo shared
+      by Toh Chay Hoon on flickr .
+  - url: http://www.wildsingapore.com/mollusca/slugs/nudibranchia/bumpyface/050622chgg8137m3.jpg
     caption: Armina nudibranch next to a sea pencil . Changi, Jun 05
-  - url: 
-      http://www.wildsingapore.com/mollusca/slugs/nudibranchia/semperi/200722chgtch1.jpg
-    caption: Armina nudibranchs next to a Sea pencil. Changi, Jul 20 Photo 
-      shared by Toh Chay Hoon on facebook .
+  - url: http://www.wildsingapore.com/mollusca/slugs/nudibranchia/semperi/200722chgtch1.jpg
+    caption: Armina nudibranchs next to a Sea pencil. Changi, Jul 20 Photo shared
+      by Toh Chay Hoon on facebook .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/180603cnyrk1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/180603cnyrk1.jpg
     caption: Coney Island, Jun 18 Photo shared by Richard Kuah on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/170723ubnlks1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/170723ubnlks1.jpg
     caption: Pulau Ubin, Jul 17 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/090821tmlks4m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/090821tmlks4m3.jpg
     caption: Tanah Merah, Aug 09 Photo shared by Loh Kok Sheng on his flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/150618tmftlks6m3.jpg
-    caption: Tanah Merah Ferry Terminal, Jun 15 Photo shared by Loh Kok Sheng on
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/141224tusmn4m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/150618tmftlks6m3.jpg
+    caption: Tanah Merah Ferry Terminal, Jun 15 Photo shared by Loh Kok Sheng on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/141224tusmn4m3.jpg
     caption: Tuas, Dec 14 Photo shared by Loh Kok Sheng on his blog .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Lituaria*](http://species-identification.org/species.php?species_group=corals&id=224&menuentry=groepen)
+
   on
+
   [Reef Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding)
+
   on the
+
   [Marine Species Identification Portal](http://species-identification.org/index.php)
+
   : Technical fact sheet and photos.
 
+
   **References**
+
   - Erhardt, Harry and Daniel Knop. 2005.
+
   *Corals: Indo-Pacific Field Guide*
+
   IKAN-Unterwasserachiv, Frankfurt. 305 pp.
+
+  '
 location:
 - pgl
 - prp
@@ -86,6 +84,9 @@ location:
 - bb
 - tus
 - tm
+size:
+- 4.0
+- 10.0
 ---
 
 ## Where seen?

@@ -1,10 +1,9 @@
 ---
 title: Purple-and-white ring  coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: coral, hard, faviidae, merulinidae, scleractinia, cnidaria, field, 
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: coral, hard, faviidae, merulinidae, scleractinia, cnidaria, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Faviidae
 genus: ''
@@ -18,47 +17,34 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/070420sntrd0236m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/070420sntrd0236m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/070420sntrd0236m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/070420sntrd0236m3.jpg
     caption: Sentosa, Apr 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/070420sntrd0236m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/070420sntrd0236m3a.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/070420sntrd0236m3c.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/070420sntrd0236m3c.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/050528kusg7048m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/050528kusg7048m3.jpg
     caption: Kusu Island, May 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/031224sised0098m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/031224sised0098m3.jpg
     caption: Sisters Island, Dec 03
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/040606kusd0204m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/040606kusd0204m3.jpg
     caption: Kusu Island, Jun 04
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/091205sudd5503m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/091205sudd5503m3.jpg
     caption: Pulau Sudong, Dec 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/091205sudd5504m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/091205sudd5504m3.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/091205sudd5504m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/091205sudd5504m3b.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/091205sudd5503m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/091205sudd5503m3a.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/091205sudd5505m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/091205sudd5505m3.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/091205sudd5505m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/091205sudd5505m3a.jpg
     caption: ''
 location:
 - snt
@@ -69,6 +55,9 @@ location:
 - jng
 - hnt
 - lfa
+size:
+- 10.0
+- 15.0
 ---
 
 ## Where seen?

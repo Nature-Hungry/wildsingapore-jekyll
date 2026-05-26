@@ -1,10 +1,9 @@
 ---
 title: Gold-spotted hermit crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: gold, spot, hermit, crab, clibanarius, cruentatus, anomura, decapod, 
-  crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: gold, spot, hermit, crab, clibanarius, cruentatus, anomura, decapod, crustacea,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 attributes:
 - 38
@@ -26,41 +25,47 @@ suborder: Pleocyemata
 infraorder: Anomura
 superfamily: Paguroidea
 updated: Dec 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/goldspot/040619sntd0568m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/goldspot/040619sntd0568m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/goldspot/040619sntd0568m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/goldspot/040619sntd0568m3.jpg
     caption: Sentosa, Jun 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/goldspot/101221tmfts02215m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/goldspot/101221tmfts02215m3.jpg
     caption: Tanah Merah, Dec 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/goldspot/101221tmfts02215m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/goldspot/101221tmfts02215m3b.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/goldspot/110903sntmn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/goldspot/110903sntmn.jpg
     caption: Sentosa, Sep 11 Photo shared by Marcus Ng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/goldspot/250909lazky1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/goldspot/250909lazky1.jpg
     caption: Seringat Kias, Sep 25 Photo shared by Kelvin Yong on facebook
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - *[Clibanarius cruentatus](http://www.sealifebase.org/Summary/speciesSummary.php?ID=130029)*
+
   on SeaLife Base: Technical fact sheet.
 
+
   **References**
+
   - Dwi Listyo Rahayu, 2000.
-  *Hermit crabs from the South China Sea (Crustacea: Decapoda: Anomura: Diogenidae, Paguridae, Parapaguridae)*
-  (pdf). The Raffles Bulletin of Zoology 2000 Supplement No. 8: 377-404. The National University of Singapore.
+
+  *Hermit crabs from the South China Sea (Crustacea: Decapoda: Anomura: Diogenidae,
+  Paguridae, Parapaguridae)*
+
+  (pdf). The Raffles Bulletin of Zoology 2000 Supplement No. 8: 377-404. The National
+  University of Singapore.
+
+  '
 location:
 - tm
 - lab
 - snt
 - laz
 - rfl
+size:
+- 1.0
+- 1.5
 ---
 
 ## Where seen?

@@ -1,9 +1,8 @@
 ---
 title: Pufferfishes
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: pufferfish, puffer, fish, tetraodontidae, field, guide, seashore, sea,
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: pufferfish, puffer, fish, tetraodontidae, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Tetraodontidae
 genus: ''
@@ -19,106 +18,147 @@ superorder: Acanthomorpha
 order: Tetraodontiformes
 suborder: Tetraodontoidei
 updated: Nov 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/stellatus/161214sjiro2.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/stellatus/161214sjiro2.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Pufferfishes are 
-      poisonous to eat! They can inflate themselves with water or air to deter 
-      predators. But don't force a pufferfish to do this. They have powerful 
-      teeth and can give a nasty bite.
+    caption: if you learn only 3 things about them ... Pufferfishes are poisonous
+      to eat! They can inflate themselves with water or air to deter predators. But
+      don't force a pufferfish to do this. They have powerful teeth and can give a
+      nasty bite.
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Pufferfishes are poisonous to eat! They can inflate themselves with
-      water or air to deter predators. But don't force a pufferfish to do this. 
-      They have powerful teeth and can give a nasty bite.
+    caption: Pufferfishes are poisonous to eat! They can inflate themselves with water
+      or air to deter predators. But don't force a pufferfish to do this. They have
+      powerful teeth and can give a nasty bite.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/stellatus/161214sjiro2.jpg
-    caption: And inflated fish that was dead/dying and washed ashore. St. John's
-      Island, Dec 16 Photo shared by Rene Ong on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/reticularis/081101chgik2.jpg
-    caption: Fused teeth, on a dead pufferfish. Changi, Nov 08 Photo shared by 
-      Ivan Kwan on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/reticularis/081101chgik2a.jpg
-    caption: Fine prickly skin, on a dead pufferfish. Changi, Nov 08 Photo 
-      shared by Ivan Kwan on flickr .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/stellatus/161214sjiro2.jpg
+    caption: And inflated fish that was dead/dying and washed ashore. St. John's Island,
+      Dec 16 Photo shared by Rene Ong on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/reticularis/081101chgik2.jpg
+    caption: Fused teeth, on a dead pufferfish. Changi, Nov 08 Photo shared by Ivan
+      Kwan on flickr .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/reticularis/081101chgik2a.jpg
+    caption: Fine prickly skin, on a dead pufferfish. Changi, Nov 08 Photo shared
+      by Ivan Kwan on flickr .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/patoca/050708labd4747m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/patoca/050708labd4747m3.jpg
     caption: Milk-spotted pufferfish
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/nigroviridis/050218sbwrd0424m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/nigroviridis/050218sbwrd0424m3.jpg
     caption: Spotted green pufferfish
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/070219sisd8189m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/070219sisd8189m3.jpg
     caption: Yelloweye pufferfish
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/caeruleopunctatus/sbr2019-054-055-caeruleopunctatus.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/caeruleopunctatus/sbr2019-054-055-caeruleopunctatus.jpg
     caption: Blue-spotted pufferfish
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/stellatus/sbr2019-054-055-stellatus.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/stellatus/sbr2019-054-055-stellatus.jpg
     caption: Starry pufferfish
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/reticularis/sbr2018-091.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/reticularis/sbr2018-091.jpg
     caption: Reticulated pufferfish
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/mappa/sbr2019-054-055-mappa.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/mappa/sbr2019-054-055-mappa.jpg
     caption: Map pufferfish
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Yelloweye Puffer (
+
   *Arothron immaculatus*
+
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/395)
+
   ,
+
   [Rough Golden Toadfish (
+
   *Lagocephalus lunaris*
+
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/396)
+
   ,
+
   [Milk-spotted Puffer (
+
   *Chelonodon patoca*
+
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/397)
+
   and
+
   [Spotted Green Puffer (
+
   *Tetraodon nigroviridis*
+
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/398)
+
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
+
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
+
   . Singapore Science Centre. 163 pp.
+
   - [Puffer or Globe fish](http://mangrove.nus.edu.sg/pub/seashore/text/253)
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
+
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+
   . The Singapore Science Centre, Singapore. 160 pp.
+
   - [Family Tetraodontidae (Puffers)](http://www.fishbase.org/summary/FamilySummary.php?ID=448)
+
   and
+
   [*Arothron immaculatus*
+
   (Immaculate puffer)](http://www.fishbase.org/summary/7188)
+
   and
+
   [*Arothron mappa*
+
   (Map puffer)](http://www.fishbase.org/summary/7857)
+
   and
+
   [*Arothron stellatus*
+
   (Stellate puffer)](http://www.fishbase.org/summary/6526)
+
   and from
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheet on the family.
-  - [Don't eat toxic fish balls!](http://wildshores.blogspot.com/2009/01/dont-eat-toxic-fish-balls.html)
-  on the wild shores of singapore blog: about a case of pufferfish poisoning and other uses of pufferfish toxins.
+
+  - [Don''t eat toxic fish balls!](http://wildshores.blogspot.com/2009/01/dont-eat-toxic-fish-balls.html)
+
+  on the wild shores of singapore blog: about a case of pufferfish poisoning and other
+  uses of pufferfish toxins.
+
   - [Why pufferfishes are deadly and not dead](http://wildshores.blogspot.com/2009/12/why-are-pufferfishes-deadly-and-not.html)
+
   on the wild shores of singapore
 
+
   **References**
+
   - Toh Chay Hoon & Kelvin K. P. Lim.
-  *Blue-spotted pufferfish (Arothron caeruleopunctatus) observed in the Singapore Strait*
-  . 30 April 2019. Singapore Biodiversity Records 2019: 54-55 ISSN 2345-7597. National University of Singapore.
+
+  *Blue-spotted pufferfish (Arothron caeruleopunctatus) observed in the Singapore
+  Strait*
+
+  . 30 April 2019. Singapore Biodiversity Records 2019: 54-55 ISSN 2345-7597. National
+  University of Singapore.
+
   - Tan Heok Hui. 1 October 2013.
+
   *Stars-and-stripes pufferfish in Singapore Straits
+
+  '
 location:
 - prp
+size:
+- 10.0
+- 30.0
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

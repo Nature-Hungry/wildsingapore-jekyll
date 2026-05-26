@@ -1,10 +1,9 @@
 ---
 title: 'Black cow nudibranch '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: chromodoris, orientalis, chromodoriidae, doridina, nudibranchia, slug,
-  seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, 
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: chromodoris, orientalis, chromodoriidae, doridina, nudibranchia, slug, seaslug,
+  opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Chromodorididae
 genus: Chromodoris
@@ -25,45 +24,48 @@ infraorder: Doridoidei
 superfamily: Chromodoridoidea
 subfamily: Chromodoridinae
 updated: May 2025
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/orientalis/240625bbtch3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/orientalis/240625bbtch3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/orientalis/240625bbtch3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/orientalis/240625bbtch3.jpg
     caption: Beting Bronok, Jun 24 Photo shared by Toh Chay Hoon on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/orientalis/240625bbtch3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/orientalis/240625bbtch3a.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/orientalis/240625bbtch3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/orientalis/240625bbtch3b.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/orientalis/210528lygjll10.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/orientalis/210528lygjll10.jpg
     caption: Changi Loyang, May 21 Photo shared by Jianlin LIu on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/orientalis/251012chgmn4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/orientalis/251012chgmn4.jpg
     caption: Changi, Oct 25 Photo shared by Marcus Ng on facebook .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/orientalis/250529cjmn3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/orientalis/250529cjmn3.jpg
     caption: Chek Jawa, May 25 Photo shared by Marcus Ng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/orientalis/050724bbg0228m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/orientalis/050724bbg0228m3.jpg
     caption: Beting Bronok, Jul 05
-links_references: |
-  **Links**
-  - Toh Chay Hoon and Jianlin Liu Biodiversity Record: The nudibranch, Chromodoris orientalis, at Changi Beach, NATURE IN SINGAPORE 14: e2021077 31 August 2021 DOI: 10.26107/NIS-2021-0077
+links_references: '**Links**
+
+  - Toh Chay Hoon and Jianlin Liu Biodiversity Record: The nudibranch, Chromodoris
+  orientalis, at Changi Beach, NATURE IN SINGAPORE 14: e2021077 31 August 2021 DOI:
+  10.26107/NIS-2021-0077
+
 
   **References**
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
+  '
 location:
 - chg
 - cj
 - bb
+size:
+- 2.0
+- 3.0
 ---
 
 ## Where seen?

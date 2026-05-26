@@ -1,10 +1,9 @@
 ---
 title: Two-toned ribbon worm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: ribbon, worm, ribbonworm, nemertine, nemertean, nemertines,  field, 
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: ribbon, worm, ribbonworm, nemertine, nemertean, nemertines,  field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: ''
 genus: ''
@@ -14,42 +13,36 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Jan 2022
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/worm/nemertea/twotone/080603prpd4699m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/worm/nemertea/twotone/080603prpd4699m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/nemertea/twotone/080603prpd4699m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/nemertea/twotone/080603prpd4699m3.jpg
     caption: Pasir Ris Park, Jun 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/nemertea/twotone/080619chgd5771m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/nemertea/twotone/080619chgd5771m3.jpg
     caption: Changi, Jun 08
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/nemertea/twotone/091230prpjk3m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/nemertea/twotone/091230prpjk3m3.jpg
     caption: Pasir Ris Park, Dec 09 Photo shared by James Koh on his blog ..
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/nemertea/twotone/251229prprqo4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/nemertea/twotone/251229prprqo4.jpg
     caption: Pasir Ris Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/nemertea/twotone/251208meky7.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/nemertea/twotone/251208meky7.jpg
     caption: Marina East, Dec 2025 Photo shared by Kelvin Yong on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/nemertea/twotone/120407lazlks1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/nemertea/twotone/120407lazlks1m3.jpg
     caption: Seringat Kias, Apr 12 Photo shared by Loh Kok Sheng on his blog .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/nemertea/twotone/220104laztyj1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/nemertea/twotone/220104laztyj1.jpg
     caption: Lazarus, Jan 22 Photo shared by Tang Yong Jen on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/nemertea/twotone/220104laztyj1a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/nemertea/twotone/220104laztyj1a.jpg
     caption: ''
 location:
 - sbw
 - prp
 - chg
 - ecp
+size:
+- 20.0
+- 30.0
 ---
 
 ## Where seen?

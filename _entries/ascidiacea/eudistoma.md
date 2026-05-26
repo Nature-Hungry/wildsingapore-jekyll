@@ -1,11 +1,9 @@
 ---
 title: 'Yellow clustered bead ascidians (Eudistoma) '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: yellow, clustered, bead, ascidian, eudistoma, polycitoridae, squirt, 
-  seasquirt, tunicate, ascidiacea, urochordate, chordate, field, guide, 
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: yellow, clustered, bead, ascidian, eudistoma, polycitoridae, squirt, seasquirt,
+  tunicate, ascidiacea, urochordate, chordate, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 updated: Mar 2020
 phylum: Chordata
@@ -14,47 +12,34 @@ class: Ascidiacea
 family: Polycitoridae
 genus: Eudistoma
 species: sp.
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/ascidiacea/eudistoma/050311labg3270m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/eudistoma/050311labg3270m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/ascidiacea/eudistoma/050311labg3270m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/eudistoma/050311labg3270m3.jpg
     caption: Labrador, Mar 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/ascidiacea/eudistoma/080619chgd5684m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/eudistoma/080619chgd5684m3.jpg
     caption: Are they eaten by the Blue-dot margined flatworm ? Changi, Jun 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/ascidiacea/eudistoma/050311labg3270m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/eudistoma/050311labg3270m3a.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/ascidiacea/eudistoma/031126tusad0064m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/eudistoma/031126tusad0064m3.jpg
     caption: Tuas, Nov 03
-  - url: 
-      http://www.wildsingapore.com/wildfacts/ascidiacea/eudistoma/020907cjcpd5469m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/eudistoma/020907cjcpd5469m3.jpg
     caption: Chek Jawa, Sep 02
-  - url: 
-      http://www.wildsingapore.com/wildfacts/ascidiacea/eudistoma/080607chgd5333m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/eudistoma/080607chgd5333m3.jpg
     caption: Changi, Jun 08
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/ascidiacea/eudistoma/101205blylks3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/eudistoma/101205blylks3.jpg
     caption: Berlayar Creek, Dec 10 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/ascidiacea/eudistoma/200627cyrky2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/eudistoma/200627cyrky2.jpg
     caption: Cyrene, Jun 20 Photo shared by Kelvin Yong on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/ascidiacea/eudistoma/200310bbbky1.jpg
-    caption: Beting Bemban Besar, Mar 20 Photo shared by Kelvin Yong on facebook
-      .
+  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/eudistoma/200310bbbky1.jpg
+    caption: Beting Bemban Besar, Mar 20 Photo shared by Kelvin Yong on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/ascidiacea/eudistoma/181128tptrk1.jpg
-    caption: Terumbu Pempang Tengah, Nov 18 Photo shared by Richard Kuah on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/ascidiacea/eudistoma/181223tplll1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/eudistoma/181128tptrk1.jpg
+    caption: Terumbu Pempang Tengah, Nov 18 Photo shared by Richard Kuah on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/eudistoma/181223tplll1.jpg
     caption: Terumbu Pempang Laut, Dec 18 Photo shared by Liz Lim on facebook .
 location:
 - chg
@@ -68,6 +53,8 @@ location:
 - cyr
 - tpg
 - tsm
+size:
+- 1.0
 ---
 
 ## Where seen?

@@ -1,10 +1,8 @@
 ---
 title: Speckled penaeid prawn
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: penaeid, penaeidae, prawn, shrimp, decapod, crustacea, field, guide, 
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: penaeid, penaeidae, prawn, shrimp, decapod, crustacea, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 84
@@ -26,38 +24,28 @@ order: Decapoda
 suborder: Dendrobranchiata
 superfamily: Penaeoidea
 updated: Feb 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/091106smkd3846m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/091106smkd3846m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/091106smkd3846m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/091106smkd3846m3.jpg
     caption: Pulau Semakau, Nov 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/091106smkd3846m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/091106smkd3846m3b.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/091106smkd3846m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/091106smkd3846m3a.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/080523cyrd3845m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/080523cyrd3845m3.jpg
     caption: Cyrene Reef, May 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/080523cyrd3845m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/080523cyrd3845m3a.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/080523cyrd3845m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/080523cyrd3845m3b.jpg
     caption: ''
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/111001sjid1892m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/111001sjid1892m3.jpg
     caption: St. John's Island, Oct 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/111001sjid1892m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/111001sjid1892m3a.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/111001sjid1892m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/111001sjid1892m3b.jpg
     caption: ''
 location:
 - chg
@@ -70,6 +58,9 @@ location:
 - cyr
 - smk
 - tsm
+size:
+- 5.0
+- 8.0
 ---
 
 ## Where seen?

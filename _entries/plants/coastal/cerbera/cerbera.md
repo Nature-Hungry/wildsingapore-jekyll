@@ -18,44 +18,56 @@ class: Magnoliopsida
 order: Gentianales
 updated: Jan 13
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/090111smkd4853m6.jpg
-links_references: |
-  **Links**
-  - Giesen, Wim
-    and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-    [*Mangrove
-    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
-    RAP publication 2006/07 Food and Agriculture Organization of the
-    United Nations Regional Office for Asia and the Pacific Bangkok.
-  - From the
-    wild shores of singapore: [Pong
-    pong tree yields oil that can replace kerosene](http://wildshores.blogspot.com/2011/01/pong-pong-tree-yields-oil-that-canl).
-  
-  **References**
-  - Hsuan Keng,
-    S.C. Chin and H. T. W. Tan. 1990, *[The
+links_references: "**Links**\n- Giesen, Wim\n  and Stephan Wulffraat, Max Zieren and\
+  \ Liesbeth Scholten. 2006.\n  [*Mangrove\n  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)\
+  \ (PDF online downloadable).\n  RAP publication 2006/07 Food and Agriculture Organization\
+  \ of the\n  United Nations Regional Office for Asia and the Pacific Bangkok.\n-\
+  \ From the\n  wild shores of singapore: [Pong\n  pong tree yields oil that can replace\
+  \ kerosene](http://wildshores.blogspot.com/2011/01/pong-pong-tree-yields-oil-that-canl).\n\
+  \n**References**\n- Hsuan Keng,\n  S.C. Chin and H. T. W. Tan. 1990, *[The\n"
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/odollam/090822sisd9810m3.jpg"
-      caption: "Sisters Island, Aug 09 Changi, Apr 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/odollam/091115ubnd4199m6l.jpg"
-      caption: "Fruit germinating on the high shore. Pulau Ubin, Nov 09"
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/odollam/090822sisd9810m3.jpg
+    caption: Sisters Island, Aug 09 Changi, Apr 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/odollam/091115ubnd4199m6l.jpg
+    caption: Fruit germinating on the high shore. Pulau Ubin, Nov 09
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/odollam/081206smkd2445m3.jpg"
-      caption: Yellow-eyed pong pong tree ( Cerbera odollam )
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/odollam/090410ubnd9387m3.jpg"
-      caption: Flower with yellow eye.
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/odollam/090208smkd6467m3a.jpg"
-      caption: "Fruits globular, round. Solitary."
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/odollam/081206smkd2445m3.jpg
+    caption: Yellow-eyed pong pong tree ( Cerbera odollam )
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/odollam/090410ubnd9387m3.jpg
+    caption: Flower with yellow eye.
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/odollam/090208smkd6467m3a.jpg
+    caption: Fruits globular, round. Solitary.
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/070623cjd2701m3b.jpg"
-      caption: Pink-eyed pong pong tree (Cerbera manghas)
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/080412cjd1325m3.jpg"
-      caption: Flower with pink eye.
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/090726smkf2939m3a.jpg"
-      caption: "Fruits oblong, mango-shaped. Often paired."
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/070623cjd2701m3b.jpg
+    caption: Pink-eyed pong pong tree (Cerbera manghas)
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/080412cjd1325m3.jpg
+    caption: Flower with pink eye.
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/090726smkf2939m3a.jpg
+    caption: Fruits oblong, mango-shaped. Often paired.
   gallery4:
-    - url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
-      caption: "Links Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006. Mangrove Guidebook for Southeast Asia (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok. From the wild shores of singapore: Pong pong tree yields oil that can replace kerosene . References Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University Press. 222 pp. Tan, Hugh T.W. and T. Morgany. 2001. Growing the Native Plants of Singapore . BP Science Centre Guidebook. 168pp. Tee Swee Ping and Wee Mei Lynn (eds). 2001. Trees of our Garden City . National Parks Board. 202 pp. Corners, E. J. H., 1997. Wayside Trees of Malaya: in two volumes . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236. Tomlinson, P. B., 1986. The Botany of Mangroves Cambridge University Press. USA. 419 pp. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444. Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red Data Book: Threatened plants and animals of Singapore . Nature Society (Singapore). 285 pp. Wee Yeow Chin. 1992. A Guide to Medicinal Plants . The Singapore Science Centre. 160pp."
+  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
+    caption: 'Links Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten.
+      2006. Mangrove Guidebook for Southeast Asia (PDF online downloadable). RAP publication
+      2006/07 Food and Agriculture Organization of the United Nations Regional Office
+      for Asia and the Pacific Bangkok. From the wild shores of singapore: Pong pong
+      tree yields oil that can replace kerosene . References Hsuan Keng, S.C. Chin
+      and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons
+      . Singapore University Press. 222 pp. Tan, Hugh T.W. and T. Morgany. 2001. Growing
+      the Native Plants of Singapore . BP Science Centre Guidebook. 168pp. Tee Swee
+      Ping and Wee Mei Lynn (eds). 2001. Trees of our Garden City . National Parks
+      Board. 202 pp. Corners, E. J. H., 1997. Wayside Trees of Malaya: in two volumes
+      . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp,
+      plates 1-38; volume 2: 477-861 pp., plates 139-236. Tomlinson, P. B., 1986.
+      The Botany of Mangroves Cambridge University Press. USA. 419 pp. Burkill, I.
+      H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd
+      printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
+      Volume 1: 1-1240; volume 2: 1241-2444. Davison, G.W. H. and P. K. L. Ng and
+      Ho Hua Chew, 2008. The Singapore Red Data Book: Threatened plants and animals
+      of Singapore . Nature Society (Singapore). 285 pp. Wee Yeow Chin. 1992. A Guide
+      to Medicinal Plants . The Singapore Science Centre. 160pp.'
+size:
+- 1500.0
 ---
 
 **

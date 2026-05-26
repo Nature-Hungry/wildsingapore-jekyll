@@ -1,10 +1,8 @@
 ---
 title: Two-toned salmacis urchin
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: white, urchin, salmacis, bicolor, echinoid, echinoderm, field, guide, 
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: white, urchin, salmacis, bicolor, echinoid, echinoderm, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 0
@@ -29,38 +27,44 @@ subterclass: Echinacea
 order: Camarodonta
 infraorder: Temnopleuridea
 updated: Apr 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/bicolor/090528mecpd2807m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/bicolor/090528mecpd2807m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/bicolor/090528mecpd2807m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/bicolor/090528mecpd2807m3.jpg
     caption: East Coast Park, May 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/bicolor/090528mecpd2807m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/bicolor/090528mecpd2807m3b.jpg
     caption: 'Long banded spines:'
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/bicolor/090528mecpd2814m3c.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/bicolor/090528mecpd2814m3c.jpg
     caption: Close up of spines and tube feet.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/bicolor/090528mecpd2814m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/bicolor/090528mecpd2814m3.jpg
     caption: Underside.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/bicolor/090528mecpd2814m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/bicolor/090528mecpd2814m3a.jpg
     caption: Mouth on underside.
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Banded urchin (
+
   *Salmacis*
+
   )](http://mangrove.nus.edu.sg/pub/seashore/text/223)
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
+
   *A Guide to Seashore Life*
+
   . The Singapore Science Centre, Singapore. 160 pp.
+
   - [*Salmacis bicolor*](http://www.sealifebase.org/Summary/SpeciesSummary.php?ID=139110)
+
   on SeaLife Base: Technical fact sheet.
+
+  '
 location:
 - ecp
+size:
+- 5.0
+- 8.0
 ---
 
 ## Where seen?

@@ -1,8 +1,6 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: spiky, ball, sponge, porifera, echinodictyum, conulosum, raspailiidae,
-  field,
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: spiky, ball, sponge, porifera, echinodictyum, conulosum, raspailiidae, field,
 layout: entry
 shape: blobs
 title: Black prickly sponge
@@ -19,40 +17,42 @@ subclass: Heteroscleromorpha
 order: Axinellida
 subfamily: Echinodictyinae
 updated: Oct 2016
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/porifera/blackprickly/091203ubnd5025m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/porifera/blackprickly/091203ubnd5025m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/blackprickly/090820ecpd9500m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/blackprickly/090820ecpd9500m3b.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/blackprickly/090820ecpd9500m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/blackprickly/090820ecpd9500m3.jpg
     caption: East Coast Park, Aug 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/blackprickly/091203ubnd5025m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/blackprickly/091203ubnd5025m3b.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/blackprickly/120508skdd1866m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/blackprickly/120508skdd1866m3.jpg
     caption: Pulau Sekudu, May 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/blackprickly/120704chgd6825m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/blackprickly/120704chgd6825m3.jpg
     caption: Changi, Jul 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/blackprickly/120410chgd9133m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/blackprickly/120410chgd9133m3.jpg
     caption: Changi, Apr 12
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Echinodictyum conulosum*](http://www.sealifebase.fisheries.ubc.ca/summary/Echinodictyum-conulosum.html)
+
   on SeaLife Base: technical fact sheet.
+
   - [*Echinodictyum conulosum*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=167971)
+
   on the World Porifera Database.
 
+
   **References**
+
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
+
   *A Guide to Sponges of Singapore*
+
   . Singapore Science Centre. 173pp.
+
+  '
 location:
 - pgl
 - chg

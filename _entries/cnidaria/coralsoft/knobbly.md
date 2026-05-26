@@ -1,9 +1,8 @@
 ---
 title: Knobbly soft coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: knobbly, carijoa, alcyonacea, cnidaria, field, guide, seashore, sea, 
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: knobbly, carijoa, alcyonacea, cnidaria, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Clavulariidae
 genus: Carijoa
@@ -17,51 +16,54 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Nov 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/091011mkbd2708m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/091011mkbd2708m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/091011mkbd2708m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/091011mkbd2708m3.jpg
     caption: Keppel Bay, Oct 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/091011mkbd2708m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/091011mkbd2708m3a.jpg
     caption: Secondary polyps emerge from a capsule.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/091011mkbd2708m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/091011mkbd2708m3b.jpg
     caption: Eight branched tentacles.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/060430skdg5827m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/060430skdg5827m3.jpg
     caption: Pulau Sekudu, Apr 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/070604chgg0134m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/070604chgg0134m3.jpg
     caption: Changi, Jul 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/120704chgd6877m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/120704chgd6877m3.jpg
     caption: Changi, Jul 12 Growing on a living sea fan.
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/170723ubnlks4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/170723ubnlks4.jpg
     caption: Pulau Ubin, Jul 17 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/160806tpllks7.jpg
-    caption: Terumbu Pempang Laut, Aug 16 Photo shared by Loh Kok Sheng on 
-      facebook .
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/160806tpllks7.jpg
+    caption: Terumbu Pempang Laut, Aug 16 Photo shared by Loh Kok Sheng on facebook
+      .
+links_references: '**Links**
+
   - [*Carijoa*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Carijoa)
+
   on
+
   [Reef Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding)
+
   on the
+
   [Marine Species Identification Portal](http://species-identification.org/index.php)
+
   : Technical fact sheet and photos.
 
+
   **References**
+
   - Fabricius, Katharina and Philip Alderslade, 2001.
+
   *Soft Corals and Sea Fans*
-  . Australian Institute of Marine Science and the Museum and Art Gallery of the Northern Territoriy. 264 pp.
+
+  . Australian Institute of Marine Science and the Museum and Art Gallery of the Northern
+  Territoriy. 264 pp.
+
+  '
 location:
 - pgl
 - chg
@@ -72,6 +74,9 @@ location:
 - ecp
 - sis
 - tpg
+size:
+- 5.0
+- 8.0
 ---
 
 ## Where seen?

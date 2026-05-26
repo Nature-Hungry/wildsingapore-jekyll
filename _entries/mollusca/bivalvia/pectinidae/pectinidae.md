@@ -1,10 +1,8 @@
 ---
 title: Scallops
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: scallop, clam, shell, pectinidae, bivalve, mollusc, field, guide, 
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: scallop, clam, shell, pectinidae, bivalve, mollusc, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Pectinidae
 genus: ''
@@ -20,71 +18,94 @@ infraclass: Pteriomorphia
 order: Pectinida
 superfamily: Pectinoidea
 updated: May 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/singapore/120704chgd7018m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/singapore/120704chgd7018m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/singapore/120704chgd7018m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/singapore/120704chgd7018m3.jpg
     caption: Changi, Jul 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/singapore/120704chgd7021m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/singapore/120704chgd7021m3b.jpg
     caption: When submerged, tentacles and tiny eyes can be seen.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/large/080621labd6136m3.jpg
-    caption: "'Swimming' backwards with clap of valves"
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/large/080621labd6136m3.jpg
+    caption: '''Swimming'' backwards with clap of valves'
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/110601tmnbd3211m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/110601tmnbd3211m3.jpg
     caption: Scallop in a living coral. Tanah Merah, Jun 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/100130brkd8540.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/100130brkd8540.jpg
     caption: Scallop in a living coral. Pulau Berkas, Jan 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/placunidae/placuna/080507chd2321.jpg
+  - url: http://www.wildsingapore.com/wildfacts/placunidae/placuna/080507chd2321.jpg
     caption: Scallop stuck on a living Window-pane clam . Changi, May 08
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/100215sisd9445m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/100215sisd9445m3.jpg
     caption: Coral clam
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/singapore/080506chgd2321m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/singapore/080506chgd2321m3.jpg
     caption: Singapore scallop
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/large/080621labd6133m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/large/080621labd6133m3.jpg
     caption: Large scallop
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Family Pectinidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Bivalvia/Pectinidae.html)
+
   on
+
   [The Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html)
-  at Washington State University Tri-Cities Natural History Museum website: brief description and photos.
-  - Family Pectinidae in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+
+  at Washington State University Tri-Cities Natural History Museum website: brief
+  description and photos.
+
+  - Family Pectinidae in the Bivalves section by J.M. Poutiers in the FAO Species
+  Identification Guide for Fishery Purposes: The Living Marine Resources of the Western
+  Central Pacific
+
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
+
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
+
   **References**
+
   - Tan Siong Kiat & Martyn E. Y. Low. 20 December 2013.
+
   *New Singapore record of the Tiger scallop, Semipallium flavicans*
+
   . Singapore Biodiversity Records 2013: 121.
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Tan, K. S. & L. M. Chou, 2000.
+
   *A Guide to the Common Seashells of Singapore*
+
   . Singapore Science Centre. 160 pp.
+
   - Chou, L. M., 1998.
+
   *A Guide to the Coral Reef Life of Singapore*
+
   . Singapore Science Centre. 128 pages.
+
   - Wee Y.C. and Peter K. L. Ng. 1994.
+
   *A First Look at Biodiversity in Singapore*
+
   . National Council on the Environment. 163pp.
+
   - Ng, P. K. L. & Y. C. Wee, 1994.
+
   *The Singapore Red Data Book: Threatened Plants and Animals of Singapore*
+
   . The Nature Society (Singapore), Singapore. 343 pp.
+
   - Abbott, R. Tucker, 1991.
+
   *Seashells of South East Asia*
+
   . Graham Brash, Singapore. 145 pp.
+
+  '
 location:
 - tm
 - lab
@@ -98,6 +119,9 @@ location:
 - tsm
 - rfl
 - lfa
+size:
+- 4.0
+- 7.0
 ---
 
 ## Where seen?

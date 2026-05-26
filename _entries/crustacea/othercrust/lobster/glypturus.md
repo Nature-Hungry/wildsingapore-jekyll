@@ -1,10 +1,9 @@
 ---
 title: Coral ghost shrimp
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: coral, ghost, shrimp, glypturus, corallianassa, callianassidae, 
-  decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: coral, ghost, shrimp, glypturus, corallianassa, callianassidae, decapod,
+  crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 84
@@ -26,75 +25,74 @@ order: Decapoda
 suborder: Pleocyemata
 infraorder: Axiidea
 updated: Oct 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/glypturus/040521sntbd0067m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/glypturus/040521sntbd0067m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/glypturus/040521sntbd0067m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/glypturus/040521sntbd0067m3.jpg
     caption: Sentosa, May 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/glypturus/040521sntbd0050m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/glypturus/040521sntbd0050m3.jpg
     caption: Digging out the burrow? Sentosa, May 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/glypturus/080605hntd4893m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/glypturus/080605hntd4893m3.jpg
     caption: Pulau Hantu, Jun 08
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/glypturus/030802hntd3916m3.jpg
-    caption: Burrow is smooth and looks like a PVC pipe by gluing sand grains. 
-      Pulau Hantu, Aug 03
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/glypturus/040703sisd1605m3.jpg
-    caption: This is Axiopsis serratifrons Builds burrows like a brick wall. 
-      Sister Island, Jul 04
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/glypturus/030802hntd3916m3.jpg
+    caption: Burrow is smooth and looks like a PVC pipe by gluing sand grains. Pulau
+      Hantu, Aug 03
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/glypturus/040703sisd1605m3.jpg
+    caption: This is Axiopsis serratifrons Builds burrows like a brick wall. Sister
+      Island, Jul 04
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/glypturus/201117labvc6.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/glypturus/201117labvc6.jpg
     caption: Labrador, Nov 20 Photo shared by Vincent Choo on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/glypturus/260104trmrqo1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/glypturus/260104trmrqo1.jpg
     caption: Sentosa Tg Rimau, Jan 26 Photo shared by Rui Quan Oh on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/glypturus/080831sismn01m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/glypturus/080831sismn01m3.jpg
     caption: Sisters Island, Aug 08 Photo shared by Marcus Ng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/glypturus/180519ssisdc3.jpg
-    caption: Small Sisters Island, May 18 Photo shared by Dayna Cheah on 
-      facebook ..
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/glypturus/180519ssisdc3.jpg
+    caption: Small Sisters Island, May 18 Photo shared by Dayna Cheah on facebook
+      ..
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/glypturus/140716cyrrl3m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/glypturus/140716cyrrl3m3.jpg
     caption: Cyrene Reef, Jul 14 Photo shared by Heng Pei Yan on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/glypturus/240410cyrta1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/glypturus/240410cyrta1.jpg
     caption: Cyrene Reef, Apr 24 Photo shared by Tommy Arden on facebook .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/glypturus/091205sudd5539m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/glypturus/091205sudd5539m3.jpg
     caption: Pulau Sudong, Dec 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/glypturus/091204pawd5387m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/glypturus/091204pawd5387m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/glypturus/100811slud0137m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/glypturus/100811slud0137m3.jpg
     caption: Pulau Salu, Aug 10
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Family Callianassidae](http://species-identification.org/species.php?species_group=lobsters&id=9&menuentry=groepen)
+
   on Marine Lobsters of the World on Marine Species Identification Portal.
 
+
   **References**
+
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
+
   *Rhythm of the Sea: The Life and Times of Labrador Beach*
-  . Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+
+  . Division of Biology, School of Science, Nanyang Technological University & Department
+  of Zoology, the National University of Singapore. 160 pp.
+
   - Jones Diana S. and Gary J. Morgan, 2002.
+
   *A Field Guide to Crustaceans of Australian Waters*
+
   . Reed New Holland. 224 pp.
+
   - Debelius, Helmut, 2001.
+
   *Crustacea Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean*
+
   IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+
+  '
 location:
 - cj
 - skd
@@ -107,6 +105,9 @@ location:
 - cyr
 - hnt
 - lfa
+size:
+- 4.0
+- 6.0
 ---
 
 ## Where seen?

@@ -1,10 +1,9 @@
 ---
 title: 'Flat   crunchy pom-pom red seaweed '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: pom, pom, red, seaweed, weed, algae, corallinaceae, galaxauraceae, 
-  rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: pom, pom, red, seaweed, weed, algae, corallinaceae, galaxauraceae, rhodophyta,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 division: Rhodophyta
 family: Corallinaceae
@@ -26,66 +25,79 @@ suborder: Corallinineae
 subfamily: Corallinoideae
 tribe: Janieae
 updated: Oct 15
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/070602sjig9819m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/070602sjig9819m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/110903sntd1024m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/110903sntd1024m3.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/110903sntd1022m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/110903sntd1022m3.jpg
     caption: Sentosa, Sep 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/070602sjig9819m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/070602sjig9819m3b.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/060716sisd4601m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/060716sisd4601m3.jpg
     caption: Sisters Island, Jul 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/091104sntd3603m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/091104sntd3603m3.jpg
     caption: Sentosa, Nov 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/100130brkd8628m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/100130brkd8628m3.jpg
     caption: Terumbu Berkas, Jan 10
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/100530tbkd4318m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/100530tbkd4318m3.jpg
     caption: Pulau Berkas, May 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/100810sngd9927m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/100810sngd9927m3.jpg
     caption: Pulau Senang, Aug 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/100531biod4521m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/100531biod4521m3.jpg
     caption: Pulau Biola, May 10
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/100131slud8870m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/100131slud8870m3.jpg
     caption: Terumbu Salu, Jan 10
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Amphiroa*](http://www.algaebase.org/search/genus/detail/?genus_id=H9facef3001b8d7e1&-session=abv4:3BBD37D318d53140DFOr35D3FFEA)
+
   on
+
   [AlgaeBase](http://www.algaebase.org/)
+
   : Technical fact sheet.
 
+
   **References**
-  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
+
+  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
+  Tsai Min and Wang Luan Keng,
+
   *A photographic guide to the marine algae of Singapore*
+
   , 2015. Tropical Marine Science Institute, 201 pp.
+
   - Pham, M. N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011.
-  [*A Checklist of the Algae of Singapore*](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf)
-  , 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore, Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+
+  [*A Checklist of the Algae of Singapore*](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH
+  Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf)
+
+  , 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
+  Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+
   - Huisman, John M. 2000.
+
   *Marine Plants of Australia*
+
   University of Western Australia Press. 300pp.
+
   - Calumpong, H. P. & Menez, E. G., 1997.
+
   *Field Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*
+
   . Bookmark, Inc., the Philippines. 197 pp.
+
   - Trono, Gavino. C. Jr., 1997.
+
   *Field Guide and Atlas of the Seaweed Resources of the Philippines.*
+
   . Bookmark, Inc., the Philippines. 306 pp.
+
+  '
 location:
 - snt
 - sji
@@ -95,6 +107,9 @@ location:
 - tsm
 - rfl
 - lfa
+size:
+- 5.0
+- 8.0
 ---
 
 ## Where seen?

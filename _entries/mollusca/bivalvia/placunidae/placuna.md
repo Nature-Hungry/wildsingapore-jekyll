@@ -1,10 +1,9 @@
 ---
 title: Window-pane clam
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: window, pane, shell, placuna, placunidae, anomiidae, bivalve, mollusc,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: window, pane, shell, placuna, placunidae, anomiidae, bivalve, mollusc, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 attributes:
 - 2
@@ -23,101 +22,76 @@ infraclass: Pteriomorphia
 order: Pectinida
 superfamily: Anomioidea
 updated: May 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/050511cftg6311m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/050511cftg6311m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Sometimes mistaken for 
-      fish scales or other parts of a larger animal. The living animal can be 
-      seen when the shell is held against the light. The clam is globally 
-      endangered due to overcollection.
+    caption: if you learn only 3 things about them ... Sometimes mistaken for fish
+      scales or other parts of a larger animal. The living animal can be seen when
+      the shell is held against the light. The clam is globally endangered due to
+      overcollection.
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Sometimes mistaken for fish scales or other parts of a larger 
-      animal. The living animal can be seen when the shell is held against the 
-      light. The clam is globally endangered due to overcollection.
+    caption: Sometimes mistaken for fish scales or other parts of a larger animal.
+      The living animal can be seen when the shell is held against the light. The
+      clam is globally endangered due to overcollection.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/050511cftg6311m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/050511cftg6311m3.jpg
     caption: View of both upper and underside . Changi, May 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/050511cftg6308m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/050511cftg6308m3.jpg
     caption: View of concave underside.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/050511cftg6310m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/050511cftg6310m3.jpg
     caption: View of convex upperside usually encrusted with other animals.
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/110519chgd2299m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/110519chgd2299m3a.jpg
     caption: Changi, May 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/020129cjcpd5761m3.jpg
-    caption: The living animal can be seen when the paper-thin shell is held up 
-      against the light. Chek Jawa, Jan 01
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/110520chgd2430m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/020129cjcpd5761m3.jpg
+    caption: The living animal can be seen when the paper-thin shell is held up against
+      the light. Chek Jawa, Jan 01
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/110520chgd2430m3.jpg
     caption: Tiny baby window-pane clams? Changi, May 11
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/150519chgcp1d4494.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/150519chgcp1d4494.jpg
     caption: Octopus hiding under a WIndow-pane clam/ Changi, May 15
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/120510chgd2870m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/120510chgd2870m3.jpg
     caption: Zebra coral growing on a window pane shell. Changi, May 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/080507chd2321.jpg
-    caption: Scallop stuck on a living Window-pane clam while some hermit crabs 
-      find shelter too . Changi, May 08
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/080507chd2321.jpg
+    caption: Scallop stuck on a living Window-pane clam while some hermit crabs find
+      shelter too . Changi, May 08
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/251206chgerqo6.jpg
-    caption: Changi East (Lost Coast), Dec 25 Photo shared by Rui Quan Oh on 
-      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/251206chgerqo6.jpg
+    caption: Changi East (Lost Coast), Dec 25 Photo shared by Rui Quan Oh on facebook
+      .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/171108ecpmblks7.jpg
-    caption: East Coast-Marina Bay, Nov 17 Photo shared by Loh Kok Sheng on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/200710mevc3.jpg
-    caption: East Coast-Marina Bay, Jul 20 Photo shared by Vincent Choo on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/251208meky2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/171108ecpmblks7.jpg
+    caption: East Coast-Marina Bay, Nov 17 Photo shared by Loh Kok Sheng on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/200710mevc3.jpg
+    caption: East Coast-Marina Bay, Jul 20 Photo shared by Vincent Choo on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/251208meky2.jpg
     caption: Marina East, Dec 2025 Photo shared by Kelvin Yong on facebook .
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/110522bbbro3m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/110522bbbro3m3.jpg
     caption: Beting Bemban Besar, May 11 Photo shared by Rene Ong on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/110522bbbro2m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/110522bbbro2m3.jpg
     caption: Beting Bemban Besar, May 11 Photo shared by Rene Ong on facebook .
-links_references: |
-  **Links**
-  - [Saddle oyster (
-  *Placuna ephippium*
-  )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=84399&genusname=Placuna&speciesname=ephippium)
-  and
-  [Windowpane oyster (
-  *Placuna placenta*
-  )](http://www.sealifebase.org/Summary/SpeciesSummary.php?ID=84398)
-  on SeaLife Base: Technical fact sheets
-  - [Window Pane shells (Family Anomiidae)](http://shells.tricity.wsu.edu/ArcherdShellCollection/Bivalvia/Anomiidae.html)
-  on the
-  [The Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html)
-  at Washington State University Tri-Cities Natural History Museum website.
-  - Family Placunidae in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
-  on the Food and Agriculture Organization of the United Nations (FAO) website.
-
-  **References**
-  - Peter K. L. Ng. Arcotheres placunicola, a new species of pea crab (Crustacea: Brachyura: Pinnotheridae) from the window-pane shell, Placuna ephippium Philipsson, 1788 (Placunidae) in Singapore. 23 August 2018. Raffles Bulletin of Zoology 66: 474–485
-  - Tan Siong Kiat and Henrietta P. M. Woo, 2010
-  *Preliminary Checklist of The Molluscs of Singapore*
-  (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
-  - Tan, K. S. & L. M. Chou, 2000.
-  *A Guide to the Common Seashells of Singapore*
-  . Singapore Science Centre. 160 pp.
+links_references: "**Links**\n- [Saddle oyster (\n*Placuna ephippium*\n)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=84399&genusname=Placuna&speciesname=ephippium)\n\
+  and\n[Windowpane oyster (\n*Placuna placenta*\n)](http://www.sealifebase.org/Summary/SpeciesSummary.php?ID=84398)\n\
+  on SeaLife Base: Technical fact sheets\n- [Window Pane shells (Family Anomiidae)](http://shells.tricity.wsu.edu/ArcherdShellCollection/Bivalvia/Anomiidae.html)\n\
+  on the\n[The Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html)\n\
+  at Washington State University Tri-Cities Natural History Museum website.\n- Family\
+  \ Placunidae in the Bivalves section by J.M. Poutiers in the FAO Species Identification\
+  \ Guide for Fishery Purposes: The Living Marine Resources of the Western Central\
+  \ Pacific\n[Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)\n\
+  on the Food and Agriculture Organization of the United Nations (FAO) website.\n\n\
+  **References**\n- Peter K. L. Ng. Arcotheres placunicola, a new species of pea crab\
+  \ (Crustacea: Brachyura: Pinnotheridae) from the window-pane shell, Placuna ephippium\
+  \ Philipsson, 1788 (Placunidae) in Singapore. 23 August 2018. Raffles Bulletin of\
+  \ Zoology 66: 474\u2013485\n- Tan Siong Kiat and Henrietta P. M. Woo, 2010\n*Preliminary\
+  \ Checklist of The Molluscs of Singapore*\n(pdf), Raffles Museum of Biodiversity\
+  \ Research, National University of Singapore.\n- Tan, K. S. & L. M. Chou, 2000.\n\
+  *A Guide to the Common Seashells of Singapore*\n. Singapore Science Centre. 160\
+  \ pp.\n"
 location:
 - prp
 - chg
@@ -138,6 +112,11 @@ location:
 - smk
 - tsm
 - lfa
+size:
+- 6.0
+- 12.0
+- 18.0
+- 20.0
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

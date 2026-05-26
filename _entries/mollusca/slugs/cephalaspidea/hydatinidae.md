@@ -1,10 +1,9 @@
 ---
 title: 'Paper bubble snail '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: bubble, shell, snail, hydatinidae, aplustridae, cephalaspidea, 
-  gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: bubble, shell, snail, hydatinidae, aplustridae, cephalaspidea, gastropod,
+  mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 14
@@ -35,48 +34,38 @@ infraclass: Euthyneura
 subterclass: Acteonimorpha
 superfamily: Acteonoidea
 updated: May 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/hydatinidae/080412cjtchm3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/hydatinidae/080412cjtchm3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/hydatinidae/080412cjtchm3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/hydatinidae/080412cjtchm3.jpg
     caption: Chek Jawa, Apr 08 Photo shared by Toh Chay Hoon on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/hydatinidae/181222prpcp.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/hydatinidae/181222prpcp.jpg
     caption: Pasir Ris Park, Dec 18 Photo shared by Carol Phillips on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/hydatinidae/140104cjlks2m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/hydatinidae/140104cjlks2m3.jpg
     caption: Chek Jawa, Jan 14 Photo shared by Loh Kok Sheng on facebook .
-links_references: |
-  **Links**
-  - [The Sea Slug Forum](http://www.seaslugforum.net/)
-  by Dr Bill Rudman: including descriptions and photos of various bubble snails.
-  - [*Hydatina albocincta*](http://www.sealifebase.org/summary/SpeciesSummary.php??genusname=Hydatina&speciesname=albocincta)
-  and
-  *[Hydatina zonata](http://www.sealifebase.org/summary/SpeciesSummary.php??genusname=Hydatina&speciesname=zonata)*
-  on SeaLife Base.
-  - [Family Hydatinidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Hydatinidae.html)
-  on
-  [The Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html)
-  at Washington State University Tri-Cities Natural History Museum website: brief description and photos.
-
-  **References**
-  - Tan Siong Kiat. 24 July 2015.
-  *A record of the white banded bubble Hydatina albocincta in Singapore*
-  . Singapore Biodiversity Records 2015: 104
-  - Tan SK, Low MEY, Nguang LHS & Toh CH (2014)
-  *Singapore Mollusca: 8. The family Aplustridae (Gastropoda: Heterobranchia: Acteonoidea)*
-  . Nature in Singapore, 7: 121–127.
-  - Tan Siong Kiat and Henrietta P. M. Woo, 2010
-  *Preliminary Checklist of The Molluscs of Singapore*
-  (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
-  - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.
-  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
-  Sea Challengers. 314pp.
+links_references: "**Links**\n- [The Sea Slug Forum](http://www.seaslugforum.net/)\n\
+  by Dr Bill Rudman: including descriptions and photos of various bubble snails.\n\
+  - [*Hydatina albocincta*](http://www.sealifebase.org/summary/SpeciesSummary.php??genusname=Hydatina&speciesname=albocincta)\n\
+  and\n*[Hydatina zonata](http://www.sealifebase.org/summary/SpeciesSummary.php??genusname=Hydatina&speciesname=zonata)*\n\
+  on SeaLife Base.\n- [Family Hydatinidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Hydatinidae.html)\n\
+  on\n[The Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html)\n\
+  at Washington State University Tri-Cities Natural History Museum website: brief\
+  \ description and photos.\n\n**References**\n- Tan Siong Kiat. 24 July 2015.\n*A\
+  \ record of the white banded bubble Hydatina albocincta in Singapore*\n. Singapore\
+  \ Biodiversity Records 2015: 104\n- Tan SK, Low MEY, Nguang LHS & Toh CH (2014)\n\
+  *Singapore Mollusca: 8. The family Aplustridae (Gastropoda: Heterobranchia: Acteonoidea)*\n\
+  . Nature in Singapore, 7: 121\u2013127.\n- Tan Siong Kiat and Henrietta P. M. Woo,\
+  \ 2010\n*Preliminary Checklist of The Molluscs of Singapore*\n(pdf), Raffles Museum\
+  \ of Biodiversity Research, National University of Singapore.\n- Gosliner, Terrence\
+  \ M., David W. Behrens and Gary C. Williams. 1996.\n*Coral Reef Animals of the Indo-Pacific:\
+  \ Animal life from Africa to Hawaii exclusive of the vertebrates*\nSea Challengers.\
+  \ 314pp.\n"
 location:
 - prp
 - cj
+size:
+- 1.0
+- 4.0
 ---
 
 ## Where seen?

@@ -26,42 +26,65 @@ updated: Oct 2016
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/dischidia/dischidia/040501cjd0003m6.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/dischidia/dischidia/030913cjd0026m3.jpg"
-      caption: "Roots grow nside the hollow leaf. Chek Jawa, Sep 03"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/dischidia/dischidia/040501cjd0003m3a.jpg"
-      caption: "Small circular fat leaves. Chek Jawa, May 04"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/dischidia/dischidia/040501cjd0003m3.jpg"
-      caption: "Large hollow leaves. Chek Jawa, May 04"
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/dischidia/dischidia/030913cjd0026m3.jpg
+    caption: Roots grow nside the hollow leaf. Chek Jawa, Sep 03
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/dischidia/dischidia/040501cjd0003m3a.jpg
+    caption: Small circular fat leaves. Chek Jawa, May 04
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/dischidia/dischidia/040501cjd0003m3.jpg
+    caption: Large hollow leaves. Chek Jawa, May 04
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/dischidia/dischidia/110317mndd7360m6l.jpg"
-      caption: "Mandai, Mar 11"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/dischidia/dischidia/110317mndd7360m6la.jpg"
-      caption: "Fruit pods. Mandai, Mar 11"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/dischidia/dischidia/110317mndd7360m3b.jpg"
-      caption: "Flower bud. Mandai, Mar 11 Chek Jawa, Sep 09"
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/dischidia/dischidia/110317mndd7360m6l.jpg
+    caption: Mandai, Mar 11
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/dischidia/dischidia/110317mndd7360m6la.jpg
+    caption: Fruit pods. Mandai, Mar 11
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/dischidia/dischidia/110317mndd7360m3b.jpg
+    caption: Flower bud. Mandai, Mar 11 Chek Jawa, Sep 09
+links_references: '**Links**
+
   - [*Dischidia major*](http://floraofsingapore.wordpress.com/2010/05/13/dischidia-major/)
+
   on Total Vascular Flora of Singapore Online: photos and fact sheet.
+
   - [*Dischidia major*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=5288)
+
   on the NParks Flora and Fauna website: photos and fact sheet.
+
   - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+
   [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
-  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
-  
+
+  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization
+  of the United Nations Regional Office for Asia and the Pacific Bangkok.
+
+
   **References**
+
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
+
   *The Concise Flora of Singapore: Gymnosperms and Dicotyledons*
+
   . Singapore University Press. 222 pp.
+
   - Corners, E. J. H., 1997.
+
   *Wayside Trees of Malaya: in two volumes*
-  . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
+
+  . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates
+  1-38; volume 2: 477-861 pp., plates 139-236.
+
   - Tomlinson, P. B., 1986.
+
   *The Botany of Mangroves*
+
   Cambridge University Press. USA. 419 pp.
+
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+
   . Nature Society (Singapore). 285 pp.
+
+  '
 ---
 
 ## Where seen?

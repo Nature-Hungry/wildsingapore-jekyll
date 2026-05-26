@@ -1,10 +1,9 @@
 ---
 title: Tiny under-a-stone top shell snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: euchelus, trochidae, chilodontidae, gastropod, mollusc, snail, shell, 
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: euchelus, trochidae, chilodontidae, gastropod, mollusc, snail, shell, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 family: Chilodontidae
 genus: Euchelus
@@ -19,69 +18,51 @@ subclass: Vetigastropoda
 order: Seguenziida
 superfamily: Seguenzioidea
 updated: Jul 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/understone/101222chgd3783m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/understone/101222chgd3783m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/understone/101222chgd3783m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/understone/101222chgd3783m3.jpg
     caption: Changi, Dec 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/understone/101222chgd3783m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/understone/101222chgd3783m3a.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/understone/120512cyrd3381m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/understone/120512cyrd3381m3.jpg
     caption: Cyrene Reef, May 12
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/understone/050330labg3930m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/understone/050330labg3930m3.jpg
     caption: Labrador, Mar 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/understone/120818lazd0132m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/understone/120818lazd0132m3.jpg
     caption: Lazarus, Aug 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/understone/050526cjg6733m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/understone/050526cjg6733m3.jpg
     caption: Chek Jawa, May 05
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/understone/150619tuslks4m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/understone/150619tuslks4m3a.jpg
     caption: Tuas, Jun 15 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/understone/130112pgllks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/understone/130112pgllks.JPG
     caption: Punggol, Jan 13 Photo shared by Loh Kok Sheng on flickr .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/understone/260103prpyls2a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/understone/260103prpyls2a.jpg
     caption: Pasir Ris Park, Dec 25 Photo shared by Yan Le Su on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/understone/260103prpyls2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/understone/260103prpyls2.jpg
     caption: ''
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/understone/250627bbvc5.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/understone/250627bbvc5.jpg
     caption: Beting Bronok, Jun 25 Photo shared by Vincent Choo on facebook .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/understone/210628ecpBvc4.jpg
-    caption: East Coast Park (B), Jun 21 Photo shared by Vincent Choo on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/understone/110616ecplksa.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/understone/210628ecpBvc4.jpg
+    caption: East Coast Park (B), Jun 21 Photo shared by Vincent Choo on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/understone/110616ecplksa.jpg
     caption: East Coast Park, Jun 11 Photo shared by Loh Kok Sheng on flickr .
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/understone/201115sntvc2.jpg
-    caption: Sentosa Tg. Rimau, Nov 20 Photo shared by Vincent Choo on facebook 
-      .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/understone/201115sntvc2.jpg
+    caption: Sentosa Tg. Rimau, Nov 20 Photo shared by Vincent Choo on facebook .
   gallery8:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/understone/160124smkelks7a.jpg
-    caption: Pulau Semakau East, Jan 16 Photo shared by Loh Kok Sheng on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/understone/210502tptvc6.jpg
-    caption: Terumbu Pempang Tengah, May 21 Photo shared by Vincent Choo on 
-      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/understone/160124smkelks7a.jpg
+    caption: Pulau Semakau East, Jan 16 Photo shared by Loh Kok Sheng on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/understone/210502tptvc6.jpg
+    caption: Terumbu Pempang Tengah, May 21 Photo shared by Vincent Choo on facebook
+      .
 location:
 - pgl
 - prp
@@ -99,6 +80,9 @@ location:
 - cyr
 - tpg
 - smk
+size:
+- 1.0
+- 1.5
 ---
 
 ## Where seen?

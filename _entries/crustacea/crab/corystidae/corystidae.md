@@ -1,10 +1,9 @@
 ---
 title: Masked burrowing crabs
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: masked, burrowing, crab, corystidae, gomeza, bicornis, jonas, formosa,
-  decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: masked, burrowing, crab, corystidae, gomeza, bicornis, jonas, formosa, decapod,
+  crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 38
@@ -28,44 +27,33 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Corystoidea
 updated: Oct 2016
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/041215labd9037m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/041215labd9037m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/041215labd9037m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/041215labd9037m3.jpg
     caption: Gomeza bicornis Labrador, Dec 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/041215labd9039m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/041215labd9039m3.jpg
     caption: Carrying eggs on the abdomen.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/041215labd9037m3b.jpg
-    caption: Interlocking hairs on the antennae may form a breathing tube when 
-      the crab is underground.
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/041215labd9037m3b.jpg
+    caption: Interlocking hairs on the antennae may form a breathing tube when the
+      crab is underground.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/121018chglks.JPG
-    caption: Female carrying eggs. Changi, Oct 12 Photo shared by Lok Kok Sheng 
-      on flickr .
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/121018chglks.JPG
+    caption: Female carrying eggs. Changi, Oct 12 Photo shared by Lok Kok Sheng on
+      flickr .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/090720skdmn4m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/090720skdmn4m3.jpg
     caption: Pulau Sekudu, Jul 09 Photo shared by Marcus Ng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/110830cyrlks7m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/110830cyrlks7m3.jpg
     caption: Cyrene Reef, Aug 11 Photo shared by Lok Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/130809smkhpy1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/130809smkhpy1m3.jpg
     caption: Pulau Semakau, Aug 13 Photo shared by Heng Pei Yan on her blog .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/160724sntmn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/160724sntmn.jpg
     caption: Sentosa, Jul 16 Photo shared by Marcus Ng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/240820kusky1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/240820kusky1.jpg
     caption: Kusu Island, Aug 24 Photo shared by Kelvin Yong on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/090809sjilt1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/090809sjilt1m3.jpg
     caption: St. John's Island, Aug 09 Photo shared by Liana Tang on her blog .
 location:
 - chg
@@ -76,6 +64,8 @@ location:
 - sji
 - cyr
 - smk
+size:
+- 3.0
 ---
 
 ## Where seen?

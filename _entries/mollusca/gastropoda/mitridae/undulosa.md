@@ -1,10 +1,9 @@
 ---
 title: Waved mitre snails
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: mitre, pterygia, undulosa, mitridae, gastropod, mollusc, snail, shell,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: mitre, pterygia, undulosa, mitridae, gastropod, mollusc, snail, shell, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 family: Mitridae
 genus: Pterygia
@@ -20,55 +19,65 @@ order: Neogastropoda
 superfamily: Mitroidea
 subfamily: Cylindromitrinae
 updated: Oct 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/mitridae/undulosa/120801chgd8977m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/mitridae/undulosa/120801chgd8977m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/mitridae/undulosa/120801chgd8977m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/mitridae/undulosa/120801chgd8977m3.jpg
     caption: Changi, Aug 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/mitridae/undulosa/120801chgd8977m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/mitridae/undulosa/120801chgd8977m3a.jpg
     caption: Changi, Aug 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/mitridae/undulosa/120801chgd8870m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/mitridae/undulosa/120801chgd8870m3.jpg
     caption: One big one with two smaller ones. Mating? Changi, Aug 12
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/mitridae/undulosa/150901chg7d0134m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/mitridae/undulosa/150901chg7d0134m3.jpg
     caption: Changi, Sep 15
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/mitridae/undulosa/150901chg7d0133m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/mitridae/undulosa/150901chg7d0133m3.jpg
     caption: Egg capsules laid on a Window-pane shell. Changi, Sep 15
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/mitridae/undulosa/150901chg7d0123m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/mitridae/undulosa/150901chg7d0123m3.jpg
     caption: Laying egg capsules on a dead bivalve shell. Changi, Sep 15
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/mitridae/undulosa/160507cjik1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/mitridae/undulosa/160507cjik1.jpg
     caption: Chek Jawa, May 16 Photo shared by Ivan Kwan on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/mitridae/undulosa/171204chglks6.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/mitridae/undulosa/171204chglks6.jpg
     caption: Changi, Dec 17 Photo shared by Loh Kok Sheng on facebook .
-links_references: |
-  **Links**
-  - Family Mitridae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+links_references: '**Links**
+
+  - Family Mitridae in the Gastropods section by J.M. Poutiers in the FAO Species
+  Identification Guide for Fishery Purposes: The Living Marine Resources of the Western
+  Central Pacific
+
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
+
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
+
   **References**
+
   - Ria Tan & Tan Siong Kiat. 25 Sep 2015
+
   *Spawning aggregations of waved mitre snails, Pterygia undulosa, at Changi*
+
   Singapore Biodiversity Records 2015: 142-144
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Abbott, R. Tucker, 1991.
+
   *Seashells of South East Asia*
+
   . Graham Brash, Singapore. 145 pp.
+
+  '
 location:
 - chg
 - cj
+size:
+- 2.0
+- 5.0
 ---
 
 ## Where seen?

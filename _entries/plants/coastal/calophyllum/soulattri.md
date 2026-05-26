@@ -20,25 +20,39 @@ updated: Nov 2010
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/calophyllum/soulattri/090823cjd9987m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/calophyllum/soulattri/091005cjd2190m3a.jpg"
-      caption: "Chek Jawa, Oct 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/calophyllum/soulattri/091005cjd2183m3.jpg"
-      caption: "Chek Jawa, Oct 09"
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/calophyllum/soulattri/091005cjd2190m3a.jpg
+    caption: Chek Jawa, Oct 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/calophyllum/soulattri/091005cjd2183m3.jpg
+    caption: Chek Jawa, Oct 09
+links_references: '**Links**
+
   - [*Calophyllum soulattri*](http://floraofsingapore.wordpress.com/2010/10/11/calophyllum-soulattri/)
+
   on Total Vascular Flora of Singapore Online: photos and fact sheet.
-  
+
+
   **References**
+
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
+
   *The Concise Flora of Singapore: Gymnosperms and Dicotyledons*
+
   . Singapore University Press. 222 pp.
+
   - Burkill, I. H., 1993.
+
   *A Dictionary of the Economic Products of the Malay Peninsula*
-  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
+
+  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
+  Volume 1: 1-1240; volume 2: 1241-2444.
+
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+
   . Nature Society (Singapore). 285 pp.
+
+  '
 ---
 
 ## Where seen?

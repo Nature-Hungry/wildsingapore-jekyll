@@ -23,33 +23,57 @@ updated: Nov 2010
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/adinandra/dumosa/090401sntd8846m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/adinandra/dumosa/090418admd0213m3.jpg"
-      caption: "Admiralty Park, Apr 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/adinandra/dumosa/090418admd0215m3.jpg"
-      caption: "Admiralty Park, Apr 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/adinandra/dumosa/091005cjd2144m3.jpg"
-      caption: "Chek Jawa, Oct 09"
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/adinandra/dumosa/090418admd0213m3.jpg
+    caption: Admiralty Park, Apr 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/adinandra/dumosa/090418admd0215m3.jpg
+    caption: Admiralty Park, Apr 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/adinandra/dumosa/091005cjd2144m3.jpg
+    caption: Chek Jawa, Oct 09
+links_references: '**Links**
+
   - *[Adinandra dumosa](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2698)*
+
   on the NParks Flora and Fauna website: photos and fact sheet.
+
   - [Adinandra belukar](http://habitatnews.nus.edu.sg/heritage/pasirpanjang/ridgeplants/intro1)
+
   and
+
   *[Adinandra dumosa](http://habitatnews.nus.edu.sg/heritage/pasirpanjang/ridgeplants/adinandra)*
+
   on
+
   [A guide to the plants of Kent Ridge](http://habitatnews.nus.edu.sg/heritage/pasirpanjang/ridgeplants/index)
-  by Brandon Seah, Dec 2001. An online resource about the plants of Kent Ridge, with descriptions, ecology and references.
-  
+
+  by Brandon Seah, Dec 2001. An online resource about the plants of Kent Ridge, with
+  descriptions, ecology and references.
+
+
   **References**
+
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
+
   *The Concise Flora of Singapore: Gymnosperms and Dicotyledons*
+
   . Singapore University Press. 222 pp.
+
   - Corners, E. J. H., 1997.
+
   *Wayside Trees of Malaya: in two volumes*
-  . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
+
+  . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates
+  1-38; volume 2: 477-861 pp., plates 139-236.
+
   - Burkill, I. H., 1993.
+
   *A Dictionary of the Economic Products of the Malay Peninsula*
+
   . 3rd printing.
+
+  '
+size:
+- 200.0
+- 1000.0
 ---
 
 ## Where seen?

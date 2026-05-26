@@ -1,10 +1,9 @@
 ---
 title: Soles
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: flat, fish, flatfish, sole, soleidae, pleuronectiformes,  field, 
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: flat, fish, flatfish, sole, soleidae, pleuronectiformes,  field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Soleidae
 genus: ''
@@ -20,125 +19,163 @@ superorder: Acanthomorpha
 order: Carangiformes
 suborder: Pleuronectoidei
 updated: Oct 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/040120cjd0035m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/040120cjd0035m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... May be quite large, 
-      although small ones are also seen. Eyes on the right side of the body. 
-      Found beneath the sand. Watch your step!
+    caption: if you learn only 3 things about them ... May be quite large, although
+      small ones are also seen. Eyes on the right side of the body. Found beneath
+      the sand. Watch your step!
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: May be quite large, although small ones are also seen. Eyes on the 
-      right side of the body. Found beneath the sand. Watch your step!
+    caption: May be quite large, although small ones are also seen. Eyes on the right
+      side of the body. Found beneath the sand. Watch your step!
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/040120cjd0035m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/040120cjd0035m3.jpg
     caption: Lurking under the sand. Chek Jawa, Jan 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/040724sbwrd3052m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/040724sbwrd3052m3.jpg
     caption: Underside of a sole in a tank. Sungei Buloh Wetland Reserve, Jul 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/070702chgd3131m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/070702chgd3131m3.jpg
     caption: Eating a worm!
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/130911sismn.jpg
-    caption: Pelagic juvenile sole. Sisters Island, Sep 13 Photo shared by 
-      Marcus Ng on flickr .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/130911sismn.jpg
+    caption: Pelagic juvenile sole. Sisters Island, Sep 13 Photo shared by Marcus
+      Ng on flickr .
   - url: http://www.wildsingapore.com/wildfacts/soleidae/110505tmnbd0602.jpg
     caption: Unidentified juvenile sole. Tanah Merah, May 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/140501kusmn.jpg
-    caption: Unidentified juvenile sole. Kusu Island, May 14 Photo shared by 
-      Marcus Ng on flickr .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/140501kusmn.jpg
+    caption: Unidentified juvenile sole. Kusu Island, May 14 Photo shared by Marcus
+      Ng on flickr .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/050511cftg6220m4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/050511cftg6220m4.jpg
     caption: Ovate sole
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/050818cftg1401m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/050818cftg1401m3.jpg
     caption: Commerson's sole
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/050722cjg9806m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/050722cjg9806m3.jpg
     caption: Peacock sole
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/050511cftg6220m4d.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/050511cftg6220m4d.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/050818cftg1401m3c.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/050818cftg1401m3c.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/050722cjg9806m3c.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/050722cjg9806m3c.jpg
     caption: ''
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/090623ecpd4978m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/090623ecpd4978m3.jpg
     caption: Oriental sole
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/zebra/100612chgd5283m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/zebra/100612chgd5283m3.jpg
     caption: Zebra sole
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/090623ecpd4978m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/090623ecpd4978m3a.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/zebra/100612chgd5283m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/zebra/100612chgd5283m3b.jpg
     caption: ''
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
+
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
+
   . Singapore Science Centre. 163 pp. Family Soleidae .
+
   - [Family Soleidae](http://www.fishbase.org/Summary/FamilySummary.php?ID=441)
+
   and
+
   *[Achiroides melanorhynchus](http://www.fishbase.org/summary/25164)*
+
   and
+
   [*Liachirus melanospilos*
+
   (Carpet sole)](http://www.fishbase.org/summary/8323)
+
   and
+
   [*Synaptura albomaculata*
-  (Kaup's sole)](http://www.fishbase.org/summary/25291)
+
+  (Kaup''s sole)](http://www.fishbase.org/summary/25291)
+
   and
+
   [*Brachirus orientalis*
+
   (Oriental sole)](http://www.fishbase.org/summary/8312)
+
   and
+
   [*Pardachirus pavoninus*
+
   (Peacock sole)](http://www.fishbase.org/summary/8271)
+
   and
+
   [*Solea ovata*
+
   (Ovate sole)](http://www.fishbase.org/summary/14391)
+
   and
+
   [*Synaptura commersonnii*
-  (Commerson's sole)](http://www.fishbase.org/summary/14395)
+
+  (Commerson''s sole)](http://www.fishbase.org/summary/14395)
+
   and
+
   [*Brachirus pan*
+
   (Pan sole)](http://www.fishbase.org/summary/25290)
+
   and
+
   *[Brachirus panoides](http://www.fishbase.org/summary/25167)*
+
   and
+
   [*Zebrias quagga*
+
   (Fringefin zebra sole)](http://www.fishbase.org/summary/8194)
+
   and
+
   [*Zebrias zebra*
+
   (Zebra sole)](http://www.fishbase.org/summary/8999)
+
   from
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheet.
+
   - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00)
-  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
+
+  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources
+  of the Western Central Pacific.
+
   - [How to avoid being eaten by a shark](http://wildshores.blogspot.com/2008/09/how-to-avoid-being-eaten-by-shark.html)
+
   on the wild shores of singapore blog: about the toxin produced by the Moses sole.
 
+
   **References**
+
   - Allen, Gerry, 2000.
+
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
+
   . Periplus Editions. 292 pp.
+
   - Kuiter, Rudie H. 2002.
+
   *Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers & Fishermen*
+
   New Holland Publishers. 434pp.
+
   - Lieske, Ewald and Robert Myers. 2001.
+
   *Coral Reef Fishes of the World*
+
   Periplus Editions. 400pp
+
+  '
 location:
 - chg
 - cj
@@ -148,6 +185,9 @@ location:
 - sji
 - hnt
 - tsm
+size:
+- 10.0
+- 30.0
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

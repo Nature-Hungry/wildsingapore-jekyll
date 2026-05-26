@@ -1,10 +1,9 @@
 ---
 title: Sickle seagrass
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: sickle, grass, thalassia, hemprichii, hydrocharitaceae, seagrass, 
-  grass, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: sickle, grass, thalassia, hemprichii, hydrocharitaceae, seagrass, grass,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 attributes:
 - 95
@@ -12,10 +11,9 @@ englishname: Sickle seagrass
 family: Hydrocharitaceae
 genus: Thalassia
 species: hemprichii
-summary: Shorter and broader ribbon-like leaves that are curved into strap 
-  sickle shapes (4-11mm wide and 10-40cm long). Rhizomes thick. Small patch on 
-  Chek Jawa, larger meadows on Labrador, scattered clumps on some of our other 
-  Southern shores.
+summary: Shorter and broader ribbon-like leaves that are curved into strap sickle
+  shapes (4-11mm wide and 10-40cm long). Rhizomes thick. Small patch on Chek Jawa,
+  larger meadows on Labrador, scattered clumps on some of our other Southern shores.
 coverimg: https://live.staticflickr.com/693/32176014711_b8fc32768c.jpg
 inat_id: 50382
 stateofmatter: Life
@@ -29,69 +27,85 @@ rdb: EN
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... This seagrass is rarely 
-      seen on our shores. It doesn't flower frequently. It is eaten by sea 
-      turtles and dugongs.
+    caption: if you learn only 3 things about them ... This seagrass is rarely seen
+      on our shores. It doesn't flower frequently. It is eaten by sea turtles and
+      dugongs.
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: This seagrass is rarely seen on our shores. It doesn't flower 
-      frequently. It is eaten by sea turtles and dugongs.
+    caption: This seagrass is rarely seen on our shores. It doesn't flower frequently.
+      It is eaten by sea turtles and dugongs.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/080422smkd1570m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/080422smkd1570m3.jpg
     caption: Flowering plant. Pulau Semakau, Apr 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/070322cyrd9192m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/070322cyrd9192m3.jpg
     caption: Flowering plant. Cyrene Reef, Mar 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/060227labg5172m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/060227labg5172m3.jpg
     caption: Flowering plant. Labrador, Mar 06
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/120122cyrd5343.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/120122cyrd5343.jpg
     caption: Fruit. Cyrene, Jan 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/120122cyrd5362.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/120122cyrd5362.jpg
     caption: Fruit. Cyrene, Jan 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/120122cyrd5357.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/120122cyrd5357.jpg
     caption: Fruit. Cyrene, Jan 12
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/030603labd0133m3.jpg
-    caption: Shorter Sickle seagrass next to longer Tape seagrass Labrador, Jun 
-      03
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/041019labd7736m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/030603labd0133m3.jpg
+    caption: Shorter Sickle seagrass next to longer Tape seagrass Labrador, Jun 03
+  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/041019labd7736m3b.jpg
     caption: Leaves covered with other plants and animals Labrador, Oct 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/050513labg6440m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/050513labg6440m3.jpg
     caption: Thick underground stem Labrador, May 05
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - McKenzie, L.J., Yaakub, S.M., and Yoshida, R.L. (2007).
+
   *[Seagrass-Watch: Guidelines for TeamSeagrass Singapore Participants](http://www.seagrasswatch.org/Training/proceedings/TeamSeagrass_Singapore_workshop_Mar07.pdf)*
-  (PDF). Proceedings of a training workshop, National Parks Board, Biodiversity Centre, Singapore, 24th-25th March 2007 (DPI&F, Cairns). 32pp.
+
+  (PDF). Proceedings of a training workshop, National Parks Board, Biodiversity Centre,
+  Singapore, 24th-25th March 2007 (DPI&F, Cairns). 32pp.
+
   - *[Thalassia hemprichii](https://singapore.biodiversity.online/taxo4254/mainSpace/Thalassia%20hemprichii.html)*
+
   (Hydrocharitales: Hydrocharitaceae) by Cheok Zi Yu, 2016, on taxo4254.
+
   - [Identifying seagrasses](http://www.seagrasswatch.org/id_seagrass.html)
+
   on the Seagrass-Watch website.
 
+
   **References**
+
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+
   . Nature Society (Singapore). 285 pp.
+
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
+
   *Rhythm of the Sea: The Life and Times of Labrador Beach*
-  . Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+
+  . Division of Biology, School of Science, Nanyang Technological University & Department
+  of Zoology, the National University of Singapore. 160 pp.
+
   - Waycott, Michelle (et. al). 2004.
+
   *A Guide to Tropical Seagrasses of the Indo-West Pacific.*
+
   2004. James Cook University. 72 pp.
+
   - Calumpong, H. P. & Menez, E. G., 1997.
+
   *Field Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*
+
   . Bookmark, Inc., the Philippines. 197 pp.
+
   - Hsuan Keng, S.C. Chin and H. T. W. Tan.1998,
+
   *The Concise Flora of Singapore II: Monoctyledons*
+
   Singapore University Press. 215 pp.
+
+  '
 location:
 - cj
 - tm
@@ -108,6 +122,12 @@ location:
 - smk
 - tsm
 - lfa
+size:
+- 0.5
+- 1.0
+- 7.0
+- 40.0
+- 25.0
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

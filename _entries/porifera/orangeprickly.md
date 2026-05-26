@@ -1,8 +1,6 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: orange, prickly, sponge, mycale,parishi, myclaidae, porifera, field, 
-  guide,
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: orange, prickly, sponge, mycale,parishi, myclaidae, porifera, field, guide,
 layout: entry
 shape: encrusting
 title: Orange prickly sponge
@@ -19,37 +17,44 @@ subclass: Heteroscleromorpha
 order: Poecilosclerida
 subgenus: Zygomycale
 updated: Oct 2016
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/porifera/orangeprickly/130623chgd7605m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/porifera/orangeprickly/130623chgd7605m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/orangeprickly/130623chgd7605m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/orangeprickly/130623chgd7605m3.jpg
     caption: Changi, Jul 13 Large hole where water is expelled.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/orangeprickly/130723bbd0085m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/orangeprickly/130723bbd0085m3.jpg
     caption: Beting Bronok, Jul 13 Prickly surface.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/orangeprickly/180617skdm3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/orangeprickly/180617skdm3.jpg
     caption: Pulau Sekudu, Jun 18
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/orangeprickly/160125obslks2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/orangeprickly/160125obslks2.jpg
     caption: Pulau Ubin OBS, Jan 16 Photo shared by Loh Kok Sheng on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Mycale*](http://www.sealifebase.fisheries.ubc.ca/nomenclature/SpeciesList.php?genus=Mycale)
+
   on SeaLife Base: technical fact sheets.
+
   - [*Mycale*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=131907)
+
   on the World Porifera Database.
 
+
   **References**
+
   - Swee-Cheng Lim, Nicole J. de Voogd and Koh-Siang Tan.
+
   [Fouling sponges (Porifera) on navigation buoys from Singapore waters](https://lkcnhm.nus.edu.sg/app/uploads/2017/06/s22rbz041-058.pdf)
+
   . The Raffles Bulletin of Zoology Supplement No. 22: 41-68, 30 Dec 2009 Pp. 41-58.
+
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
+
   *A Guide to Sponges of Singapore*
+
   . Singapore Science Centre. 173pp.
+
+  '
 location:
 - pgl
 - prp
@@ -58,6 +63,10 @@ location:
 - skd
 - bb
 - ecp
+size:
+- 8.0
+- 10.0
+- 30.0
 ---
 
 ## Where seen?

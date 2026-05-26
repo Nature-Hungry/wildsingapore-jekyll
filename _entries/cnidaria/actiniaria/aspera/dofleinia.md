@@ -22,72 +22,92 @@ updated: Nov 2019
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/100614bbd5984m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/dofleinia/100614bbd5984m3.jpg"
-      caption: "Beting Bronok, Jun 10 Rings of long tentacles and short tentacles."
-    - url: "http://www.wildsingapore.com/wildfacts/dofleinia/050821bbg1882m3.jpg"
-      caption: "Beting Bronok, Aug 05"
-    - url: "http://www.wildsingapore.com/wildfacts/dofleinia/060625bbd3345m3.jpg"
-      caption: "Beting Bronok, Jun 06"
+  - url: http://www.wildsingapore.com/wildfacts/dofleinia/100614bbd5984m3.jpg
+    caption: Beting Bronok, Jun 10 Rings of long tentacles and short tentacles.
+  - url: http://www.wildsingapore.com/wildfacts/dofleinia/050821bbg1882m3.jpg
+    caption: Beting Bronok, Aug 05
+  - url: http://www.wildsingapore.com/wildfacts/dofleinia/060625bbd3345m3.jpg
+    caption: Beting Bronok, Jun 06
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/dofleinia/180518chg1jll.jpg"
-      caption: "Changi, May 18 Photo shared by Jianlin Liu on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/dofleinia/171204chglks4.jpg"
-      caption: "Changi, Dec 17 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/dofleinia/190801chgjll1.jpg"
-      caption: "Caught a small fish! Changi, Aug 19 Photo shared by Jianlin Liu on facebook ."
+  - url: http://www.wildsingapore.com/wildfacts/dofleinia/180518chg1jll.jpg
+    caption: Changi, May 18 Photo shared by Jianlin Liu on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/dofleinia/171204chglks4.jpg
+    caption: Changi, Dec 17 Photo shared by Loh Kok Sheng on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/dofleinia/190801chgjll1.jpg
+    caption: Caught a small fish! Changi, Aug 19 Photo shared by Jianlin Liu on facebook
+      .
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/dofleinia/210531chg6jt2.jpg"
-      caption: "Changi Carpark 6, May 21 Photo shared by Jonathan Tan on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/dofleinia/230605chg7lks4.jpg"
-      caption: "Changi Carpark 7, Jun 23 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/dofleinia/121216ubnlks.JPG"
-      caption: "Pulau Ubin, Dec 12 Photo shared by Loh Kok Sheng on flickr ."
+  - url: http://www.wildsingapore.com/wildfacts/dofleinia/210531chg6jt2.jpg
+    caption: Changi Carpark 6, May 21 Photo shared by Jonathan Tan on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/dofleinia/230605chg7lks4.jpg
+    caption: Changi Carpark 7, Jun 23 Photo shared by Loh Kok Sheng on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/dofleinia/121216ubnlks.JPG
+    caption: Pulau Ubin, Dec 12 Photo shared by Loh Kok Sheng on flickr .
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/dofleinia/200706skdlks1.jpg"
-      caption: "Pulau Sekudu, Jul 20 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/dofleinia/170626skdtch1.jpg"
-      caption: "Pulau Sekudu, Jun 17 Photo shared by Toh Chay Hoon on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/dofleinia/160706skdrl1.jpg"
-      caption: "Pulau Sekudu, Jul 16 Photo shared by Russel Low on facebook ."
+  - url: http://www.wildsingapore.com/wildfacts/dofleinia/200706skdlks1.jpg
+    caption: Pulau Sekudu, Jul 20 Photo shared by Loh Kok Sheng on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/dofleinia/170626skdtch1.jpg
+    caption: Pulau Sekudu, Jun 17 Photo shared by Toh Chay Hoon on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/dofleinia/160706skdrl1.jpg
+    caption: Pulau Sekudu, Jul 16 Photo shared by Russel Low on facebook .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/dofleinia/140613skdlks.JPG"
-      caption: "Pulau Sekudu, Jun 14 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/dofleinia/180617skdlks1.jpg"
-      caption: "Pulau Sekudu, Jun 18 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/dofleinia/180616bbtch1.jpg"
-      caption: "Beting Bronok, Jun 18 Photo shared by Toh Chay Hoon on facebook ."
+  - url: http://www.wildsingapore.com/wildfacts/dofleinia/140613skdlks.JPG
+    caption: Pulau Sekudu, Jun 14 Photo shared by Loh Kok Sheng on flickr .
+  - url: http://www.wildsingapore.com/wildfacts/dofleinia/180617skdlks1.jpg
+    caption: Pulau Sekudu, Jun 18 Photo shared by Loh Kok Sheng on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/dofleinia/180616bbtch1.jpg
+    caption: Beting Bronok, Jun 18 Photo shared by Toh Chay Hoon on facebook .
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/dofleinia/210529ecpgtch4.jpg"
-      caption: "East Coast Park (G), May 21 Photo shared by Toh Chay Hoon on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/dofleinia/210628ecpBrk2.jpg"
-      caption: "East Coast Park (B), Jun 21 Photo shared by Richard Kuah on facebook ."
+  - url: http://www.wildsingapore.com/wildfacts/dofleinia/210529ecpgtch4.jpg
+    caption: East Coast Park (G), May 21 Photo shared by Toh Chay Hoon on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/dofleinia/210628ecpBrk2.jpg
+    caption: East Coast Park (B), Jun 21 Photo shared by Richard Kuah on facebook
+      .
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/dofleinia/110606cyrlks1.JPG"
-      caption: "Cyrene Reef, Jun 11"
-    - url: "http://www.wildsingapore.com/wildfacts/dofleinia/110606cyrlks1a.jpg"
-      caption: Photo shared by Loh Kok Sheng on flickr .
-    - url: "http://www.wildsingapore.com/wildfacts/dofleinia/110606cyrlks4.JPG"
-      caption: ""
+  - url: http://www.wildsingapore.com/wildfacts/dofleinia/110606cyrlks1.JPG
+    caption: Cyrene Reef, Jun 11
+  - url: http://www.wildsingapore.com/wildfacts/dofleinia/110606cyrlks1a.jpg
+    caption: Photo shared by Loh Kok Sheng on flickr .
+  - url: http://www.wildsingapore.com/wildfacts/dofleinia/110606cyrlks4.JPG
+    caption: ''
   gallery8:
-    - url: "http://www.wildsingapore.com/wildfacts/dofleinia/130810cyrlks.JPG"
-      caption: "Cyrene Reef, Aug 13"
-    - url: "http://www.wildsingapore.com/wildfacts/dofleinia/130810cyrlks2.JPG"
-      caption: Photo shared by Loh Kok Sheng on flickr .
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/dofleinia/130810cyrlks.JPG
+    caption: Cyrene Reef, Aug 13
+  - url: http://www.wildsingapore.com/wildfacts/dofleinia/130810cyrlks2.JPG
+    caption: Photo shared by Loh Kok Sheng on flickr .
+links_references: '**Links**
+
   - [*Dofleinia*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/supraspecific_detail.cfm?taxon=Dofleinia&namesearched=Dofleinia&genus=Dofleinia&subgenus=&correctgenus=Dofleinia&correctsubgenus=)
+
   on the
+
   [Hexacorallians of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/)
-  website by Dr Daphne Fautin with classification, distribution, biological associations and more.
+
+  website by Dr Daphne Fautin with classification, distribution, biological associations
+  and more.
+
   - [Striped Anemone (
+
   *Dofleinia armata*
+
   )](http://deh.gov.au/cgi-bin/species-bank/sbank-treatment.pl?id=81299)
-  on the Australian Biological Resources Study website: photo, distribution, features, ecology, interaction with humans, other comments.
-  
+
+  on the Australian Biological Resources Study website: photo, distribution, features,
+  ecology, interaction with humans, other comments.
+
+
   **References**
+
   - Erhardt, Harry and Daniel Knop. 2005.
+
   *Corals: Indo-Pacific Field Guide*
+
   IKAN-Unterwasserachiv, Frankfurt. 305 pp.
+
+  '
+size:
+- 20.0
 ---
 
 ## Where seen?

@@ -1,9 +1,8 @@
 ---
 title: Oyster blenny
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: blenniidae, blenny, fish, field, guide, seashore, sea, shore, marine, 
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: blenniidae, blenny, fish, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 9
@@ -15,26 +14,24 @@ family: Blennidae
 genus: ''
 species: ''
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/oyster/090819ecpd9415m3c.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/oyster/090819ecpd9415m3c.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/oyster/090819ecpd9415m3c.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/oyster/090819ecpd9415m3c.jpg
     caption: East Coast Park, Aug 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/oyster/170212bsismn.jpg
-    caption: Elongate oyster-blenny (Omobranchus elongatus) Big Sisters Island, 
-      Feb 17 Photo shared by Marcus Ng on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/oyster/170212bsismn.jpg
+    caption: Elongate oyster-blenny (Omobranchus elongatus) Big Sisters Island, Feb
+      17 Photo shared by Marcus Ng on facebook .
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/oyster/240212sjivc2.jpg
-    caption: With eggs! St John's Island, Feb 24 Photo shared by Vincent Choo on
-      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/oyster/240212sjivc2.jpg
+    caption: With eggs! St John's Island, Feb 24 Photo shared by Vincent Choo on facebook
+      .
 location:
 - ecp
 - sji
 - sis
+size:
+- 5.0
 ---
 
 ## Where seen?

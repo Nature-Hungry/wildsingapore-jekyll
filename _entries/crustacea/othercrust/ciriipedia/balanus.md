@@ -1,10 +1,8 @@
 ---
 title: Acorn barnacle
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: acorn, barnacle, balanus, cirripedia, crustacea, field, guide, 
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: acorn, barnacle, balanus, cirripedia, crustacea, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Balanidae
 genus: Balanus
@@ -24,60 +22,73 @@ superorder: Thoracicalcarea
 order: Balanomorpha
 superfamily: Balanoidea
 updated: Mar 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/050510tusg6179m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/050510tusg6179m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/050510tusg6179m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/050510tusg6179m3.jpg
     caption: Tuas, May 05 Acorn barnacles on a seawall.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/050108cjd9209m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/050108cjd9209m3.jpg
     caption: Chek Jawa, Jan 05 On a rock
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/160110cjo1100049m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/160110cjo1100049m3a.jpg
     caption: Chek Jawa, Jan 16 On mangrove roots.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/090622chgd4692m3c.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/090622chgd4692m3c.jpg
     caption: Changi, Jul 09 On a living flower crab .
-  - url: 
-      http://www.wildsingapore.com/crab/grapsidae/metopograpsus/090820ecpd9482m3.jpg
+  - url: http://www.wildsingapore.com/crab/grapsidae/metopograpsus/090820ecpd9482m3.jpg
     caption: East Coast, Aug 09 On a living Purple climber crab .
-  - url: 
-      http://www.wildsingapore.com/mollusca/gastropoda/nassariidae/olivaceaus/050823chgg2303m3.jpg
+  - url: http://www.wildsingapore.com/mollusca/gastropoda/nassariidae/olivaceaus/050823chgg2303m3.jpg
     caption: Changi, Aug 05 Acorn barnacles on a living snail.
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/150619sntmn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/150619sntmn.jpg
     caption: Sentosa, Jun 15 Photo shared by Marcus Ng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/160705ecplks4a.jpg
-    caption: East Coast Park, Jul 16 on a sea fan. Photo shared by Loh Kok Sheng
-      on his blog .
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/160705ecplks4a.jpg
+    caption: East Coast Park, Jul 16 on a sea fan. Photo shared by Loh Kok Sheng on
+      his blog .
+links_references: '**Links**
+
   - [*Balanus amphitrite*](https://wiki.nus.edu.sg/display/TAX/Balanus+amphitrite+-+Purple+Acorn+Barnacle)
+
   (Sessila: Balanidae) Purple Acorn Barnacle by Leong Chin Rick, 2011 on taxo4254.
+
   - [*Megabalanus coccopoma*](https://singapore.biodiversity.online/taxo4254/mainSpace/Megabalanus%20coccopoma.html)
+
   (Sessila: Balanidae) Titan Acorn Barnacle on Taxo4254.
+
   - [Barnacles](http://mangrove.nus.edu.sg/pub/seashore/text/219)
+
   ,
+
   [barnacles on crabs (
+
   *Balanus, Octolasmis*
+
   )](http://mangrove.nus.edu.sg/pub/seashore/text/269)
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
+
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+
   . The Singapore Science Centre, Singapore. 160 pp.
+
   - [Barnacles](http://mangrove.nus.edu.sg/guidebooks/text/2123)
+
   Ng, Peter K. L. & N. Sivasothi, 1999.
+
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
+
   . Singapore Science Centre. 168 pp.
 
+
   **References**
+
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
+
   *Rhythm of the Sea: The Life and Times of Labrador Beach.*
-  Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+
+  Division of Biology, School of Science, Nanyang Technological University & Department
+  of Zoology, the National University of Singapore. 160 pp.
+
+  '
 location:
 - pgl
 - chg

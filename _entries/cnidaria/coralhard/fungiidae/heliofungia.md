@@ -1,10 +1,9 @@
 ---
 title: Sunflower mushroom coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: white, tip, mushroom, heliofungia, actiniformis, fungiidae, coral, 
-  hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, 
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: white, tip, mushroom, heliofungia, actiniformis, fungiidae, coral, hard,
+  scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 attributes: []
 family: Fungiidae
@@ -18,106 +17,118 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Jan 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/080803smkd8964m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/080803smkd8964m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/080803smkd8964m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/080803smkd8964m3.jpg
     caption: Pulau Semakau, Aug 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/080803smkd8964m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/080803smkd8964m3a.jpg
     caption: Large, lobed teeth.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/030619bbd0065m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/030619bbd0065m3.jpg
     caption: The underside is flat (not concave) Beting Bronok, Jun 03
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/090112smkd5118m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/090112smkd5118m3.jpg
     caption: Pulau Semakau, Jan 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/080803smkd8966m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/080803smkd8966m3.jpg
     caption: Young ones attached to a hard surface. Pulau Semakau, Aug 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/030802hnted0011m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/030802hnted0011m3.jpg
     caption: Pulau Hantu, Aug 03
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/060402ulrd1147m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/060402ulrd1147m3.jpg
     caption: Pulau Hantu, Apr 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/050310smkd1590m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/050310smkd1590m3.jpg
     caption: Pulau Semakau, Mar 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/080422smkd1455m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/080422smkd1455m3.jpg
     caption: Pulau Semakau, Apr 08
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/170402smktch1.jpg
-    caption: Pulau Semakau (North), Apr 17 Photo shared by Toh Chay Hoon on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/2007025smknlks3.jpg
-    caption: Pulau Semakau (North), Jul 20 Photo shared by Loh Kok Sheng on 
-      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/170402smktch1.jpg
+    caption: Pulau Semakau (North), Apr 17 Photo shared by Toh Chay Hoon on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/2007025smknlks3.jpg
+    caption: Pulau Semakau (North), Jul 20 Photo shared by Loh Kok Sheng on facebook
+      .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/250727smkwlks9.jpg
-    caption: Pulau Semakau West, Jul 25 Photo shared by Loh Kok Sheng on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/200111smksll4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/250727smkwlks9.jpg
+    caption: Pulau Semakau West, Jul 25 Photo shared by Loh Kok Sheng on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/200111smksll4.jpg
     caption: Pulau Semakau (South), Jan 20 Photo shared by Liz Lim on facebook .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/220619tsmtl3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/220619tsmtl3.jpg
     caption: Terumbu Semakau, Jun 22 Photo shared by Tammy Lim on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/090330trylks2m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/090330trylks2m3.jpg
     caption: Terumbu Raya, Mar 09 Photo shared by Loh Kok Sheng on his flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/110522bbbjk2m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/110522bbbjk2m3.jpg
     caption: Beting Bemban Besar, May 11 Photo shared by James Koh on his blog .
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/100130brkd8644m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/100130brkd8644m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/220201brkjll2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/220201brkjll2.jpg
     caption: Pulau Berkas, Feb 22 Photo shared by Jianlin Liu on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
+
   with species factsheets.
+
   - [IUCN Red List of Threatened Species](https://www.iucnredlist.org/)
+
   with species factsheets.
+
   - [*Heliofungia actiniformis*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Heliofungia)
-  on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal: Technical factsheet.
+
+  on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal:
+  Technical factsheet.
+
   - *[Heliofungia actiniformis](http://www.sealifebase.org/Summary/speciesSummary.php?ID=45862)*
+
   on SeaLife Base: Technical fact sheets.
 
+
   **References**
+
   - Hoeksema, Bert W. and Esther G. L. Koh. 30 Dec 2009.
-  *Depauration of the mushroom coral fauna (Fungiidae) of Singapore (1860s-2006) in changing reef conditions*
+
+  *Depauration of the mushroom coral fauna (Fungiidae) of Singapore (1860s-2006) in
+  changing reef conditions*
+
   (pdf). Raffles Bulletin of Zoology Supplement No. 22: 91-101.
+
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
-  *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new records*
+
+  *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new
+  records*
+
   (pdf). Raffles Bulletin of Zoology Supplement No. 22: 69-80.
+
   - Veron, Jen. 2000.
+
   *Corals of the World*
+
   Australian Institute of Marine Science, Australia. 3 volumes.
+
   - Erhardt, Harry and Daniel Knop. 2005.
+
   *Corals: Indo-Pacific Field Guide*
+
   IKAN-Unterwasserachiv, Frankfurt. 305 pp.
+
   - Borneman, Eric H. 2001.
+
   *Aquarium Corals: Selection, Husbandry and Natural History*
+
   T.F. H Publications. 464 pp
+
+  '
 location:
 - bb
 - hnt
 - smk
 - tsm
 - lfa
+size:
+- 10.0
+- 20.0
 ---
 
 ## Where seen?

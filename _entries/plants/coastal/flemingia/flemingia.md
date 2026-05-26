@@ -25,34 +25,35 @@ tribe: Phaseoleae
 subtribe: Cajaninae
 updated: Aug 09
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/090531cjd3066m3.jpg
-links_references: |
-  **Links**
-  - [*Flemingia
-    strobilifera*](http://www.hear.org/pier/species/flemingia_strobilifera.htm)
-    on the Pacific Islands Ecosystems at Risk website: fact sheet
-    of this plant which is considered an invasic in the Pacific Islands.
-  
-  **References**
-  - Burkill,
-    I. H., 1993. *[A
+links_references: "**Links**\n- [*Flemingia\n  strobilifera*](http://www.hear.org/pier/species/flemingia_strobilifera.htm)\n\
+  \  on the Pacific Islands Ecosystems at Risk website: fact sheet\n  of this plant\
+  \ which is considered an invasic in the Pacific Islands.\n\n**References**\n- Burkill,\n\
+  \  I. H., 1993. *[A\n"
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/091128cjd4782m3.jpg"
-      caption: "Chek Jawa, Nov 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/090531cjd3064m3b.jpg"
-      caption: "Chek Jawa, May 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/090531cjd3066m3a.jpg"
-      caption: "Chek Jawa, May 09"
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/091128cjd4782m3.jpg
+    caption: Chek Jawa, Nov 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/090531cjd3064m3b.jpg
+    caption: Chek Jawa, May 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/090531cjd3066m3a.jpg
+    caption: Chek Jawa, May 09
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/100314cjd0003m3.jpg"
-      caption: "Chek Jawa, Mar 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/100314cjd0009m6l.jpg"
-      caption: "Chek Jawa, Mar 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/091128cjd4784m6l.jpg"
-      caption: "Chek Jawa, Nov 09"
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/100314cjd0003m3.jpg
+    caption: Chek Jawa, Mar 10
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/100314cjd0009m6l.jpg
+    caption: Chek Jawa, Mar 10
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/091128cjd4784m6l.jpg
+    caption: Chek Jawa, Nov 09
   gallery3:
-    - url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
-      caption: "Links Flemingia strobilifera on the Pacific Islands Ecosystems at Risk website: fact sheet of this plant which is considered an invasic in the Pacific Islands. References Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444."
+  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
+    caption: 'Links Flemingia strobilifera on the Pacific Islands Ecosystems at Risk
+      website: fact sheet of this plant which is considered an invasic in the Pacific
+      Islands. References Burkill, I. H., 1993. A Dictionary of the Economic Products
+      of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture,
+      Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.'
+size:
+- 100.0
+- 150.0
 ---
 
 ## Where seen?

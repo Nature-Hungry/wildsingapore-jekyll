@@ -16,66 +16,113 @@ updated: Aug 08
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: if you learn only three things about them ... Large brown seaweeds are more common on our Southern than Northern shores. Lots of little animals often hide in large brown seaweeds. Look for them! Extracts of brown seaweeds are used extensively in our processed food.
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: Large brown seaweeds are more common on our Southern than Northern shores. Lots of little animals often hide in large brown seaweeds. Look for them! Extracts of brown seaweeds are used extensively in our processed food.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only three things about them ... Large brown seaweeds are
+      more common on our Southern than Northern shores. Lots of little animals often
+      hide in large brown seaweeds. Look for them! Extracts of brown seaweeds are
+      used extensively in our processed food.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: Large brown seaweeds are more common on our Southern than Northern shores.
+      Lots of little animals often hide in large brown seaweeds. Look for them! Extracts
+      of brown seaweeds are used extensively in our processed food.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/040423sntd0023m.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/040423snted0054m.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/031226chgd0017m.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/051103sisg2851m.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/ybranched/040818sntd4759m.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/veinedbranch/040919sntd7025m.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/noveinbranch/060115sntg3912m.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/turbinaria/040507flhcd0150ma.jpg"
-      caption: ""
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/040423sntd0023m.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/040423snted0054m.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/031226chgd0017m.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/051103sisg2851m.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/ybranched/040818sntd4759m.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/veinedbranch/040919sntd7025m.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/noveinbranch/060115sntg3912m.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/turbinaria/040507flhcd0150ma.jpg
+    caption: ''
+links_references: '**Links**
+
   - [Algae](http://mangrove.nus.edu.sg/pub/seashore/flora)
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
+
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+
   . The Singapore Science Centre, Singapore. 160 pp.
+
   - [Algae](http://mangrove.nus.edu.sg/guidebooks/text/1032)
+
   Ng, Peter K. L. & N. Sivasothi, 1999.
+
   *[A Guide to the Mangroves of Singapore I (Plant Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
+
   . Singapore Science Centre. 168 pp.
+
   [http://mangrove.nus.edu.sg/guidebooks/text/1032.htm](http://mangrove.nus.edu.sg/guidebooks/text/1032)
+
   - [AlgaeBase](http://www.algaebase.org/)
+
   : LOTS of very technical information.
-  
+
+
   **References**
-  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
+
+  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
+  Tsai Min and Wang Luan Keng,
+
   *A photographic guide to the marine algae of Singapore*
+
   , 2015. Tropical Marine Science Institute, 201 pp.
+
   - Pham, M. N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011.
-  [*A Checklist of the Algae of Singapore*](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf)
-  , 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore, Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+
+  [*A Checklist of the Algae of Singapore*](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH
+  Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf)
+
+  , 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
+  Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+
   - A. C. Lee, Lawrence M. Liao and K. S. Tan.
-  [*New records of marine algae on artificial structures and intertidal flats in coastal waters of Singapore*](http://lkcnhm.nus.edu.sg/rbz/biblio/s22/s22rbz005-040.pdf)
+
+  [*New records of marine algae on artificial structures and intertidal flats in coastal
+  waters of Singapore*](http://lkcnhm.nus.edu.sg/rbz/biblio/s22/s22rbz005-040.pdf)
+
   . Pp. 5-40. in the Raffles Bulletin of Zoology.
+
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
+
   *Rhythm of the Sea: The Life and Times of Labrador Beach*
-  . Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+
+  . Division of Biology, School of Science, Nanyang Technological University & Department
+  of Zoology, the National University of Singapore. 160 pp.
+
   - Chou, L. M., 1998.
+
   *A Guide to the Coral Reef Life of Singapore*
+
   . Singapore Science Centre. 128 pages.
+
   - Huisman, John M. 2000.
+
   *Marine Plants of Australia*
+
   University of Western Australia Press. 300pp.
+
   - Calumpong, H. P. & Menez, E. G., 1997.
+
   *Field Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*
+
   . Bookmark, Inc., the Philippines. 197 pp.
+
   - Trono, Gavino. C. Jr., 1997.
+
   *Field Guide and Atlas of the Seaweed Resources of the Philippines.*
+
   . Bookmark, Inc., the Philippines. 306 pp.
+
+  '
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?

@@ -26,36 +26,54 @@ updated: Jan 2013
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090802ubind8186m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090809sjid8838m3a.jpg"
-      caption: "Fruit on stalks. Fruit large compared to sepals. St. John's Island, Aug 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090801prpd8011m3b.jpg"
-      caption: "Flower with short style, more visible without petals. Pasir Ris Park, Aug 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090517ubnd1957m3.jpg"
-      caption: "Flowers on long branching stalks. Pulau Ubin, May 09"
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090809sjid8838m3a.jpg
+    caption: Fruit on stalks. Fruit large compared to sepals. St. John's Island, Aug
+      09
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090801prpd8011m3b.jpg
+    caption: Flower with short style, more visible without petals. Pasir Ris Park,
+      Aug 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090517ubnd1957m3.jpg
+    caption: Flowers on long branching stalks. Pulau Ubin, May 09
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090214sbwrd7091m3a.jpg"
-      caption: "Sungei Buloh, Feb 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090801prpd8013m6l.jpg"
-      caption: "Very long hypocotyl. Pasir Ris Park, Aug 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090611prpd3892m3a.jpg"
-      caption: "Short style, more visible without petals."
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090214sbwrd7090m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090611prpd3892m3b.jpg"
-      caption: "Pasir Ris, Jun 09"
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090214sbwrd7091m3a.jpg
+    caption: Sungei Buloh, Feb 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090801prpd8013m6l.jpg
+    caption: Very long hypocotyl. Pasir Ris Park, Aug 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090611prpd3892m3a.jpg
+    caption: Short style, more visible without petals.
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090214sbwrd7090m3.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090611prpd3892m3b.jpg
+    caption: Pasir Ris, Jun 09
+links_references: '**Links**
+
   - [Bakau kurap (
+
   *Rhizophora mucronata*](http://mangrove.nus.edu.sg/guidebooks/text/1070)
+
   ) Ng, Peter K. L. & N. Sivasothi, 1999.
+
   *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)
+
   I (Plant Diversity)*
+
   . Singapore Science Centre. 168 pp.
+
   - [*Rhizophora mucronata*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=4639)
+
   on the NParks Flora and Fauna website: photos and fact sheet.
+
   - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+
   [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
-  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
+
+  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization
+  of the United Nations Regional Office for Asia and the Pacific Bangkok.
+
+  '
+size:
+- 1500.0
+- 300.0
 ---
 
 ## Where seen?

@@ -1,10 +1,8 @@
 ---
 title: Octopuses
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: octopus, octopodidae, mollusc, cephalopod, field, guide, seashore, 
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, 
-  photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: octopus, octopodidae, mollusc, cephalopod, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Octopodidae
 genus: ''
@@ -25,149 +23,194 @@ coverimg: ../../../Templates/fornatureguides.gif
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Octopuses are common on 
-      many of our shores. They are just hard to spot. They are among the most 
-      intelligent of invertebrates. They can bite. Don't touch them!
+    caption: if you learn only 3 things about them ... Octopuses are common on many
+      of our shores. They are just hard to spot. They are among the most intelligent
+      of invertebrates. They can bite. Don't touch them!
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Octopuses are common on many of our shores. They are just hard to 
-      spot. They are among the most intelligent of invertebrates. They can bite.
-      Don't touch them!
+    caption: Octopuses are common on many of our shores. They are just hard to spot.
+      They are among the most intelligent of invertebrates. They can bite. Don't touch
+      them!
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/060501labd1608m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/060501labd1608m3a.jpg
     caption: Web spreading out along the sides of the tentacle. Labrador, May 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/130624chg7d7811.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/130624chg7d7811.jpg
     caption: Hiding in a dead Noble volute shell. Changi, Jun 13
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/090525chgd2387m3.jpg
-    caption: "'Walking' with its head above the ground. Changi, May 09"
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/090525chgd2387m3.jpg
+    caption: '''Walking'' with its head above the ground. Changi, May 09'
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/040801hntd3776m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/040801hntd3776m3.jpg
     caption: Using web as a net to trap prey. Pulau Hantu, Aug 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/070531sisd1525m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/070531sisd1525m3a.jpg
     caption: Underside is full of suckers. Sisters Island, May 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/081016cyrd0036m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/081016cyrd0036m3.jpg
     caption: Using jet propulsion to move. Cyrene Reef, Oct 08
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/040718sntd2768m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/040718sntd2768m3.jpg
     caption: These three photos are of the same animal .. Sentosa, Jul 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/040718sntd2771m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/040718sntd2771m3.jpg
     caption: '... taken minutes apart.'
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/040718sntd2773m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/040718sntd2773m3.jpg
     caption: '...with rapid colour and texture changes!'
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/120330cyrd4840m3.jpg
-    caption: Inking - octopus is perfectly camouflaged with the sand. Cyrene, 
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/120330cyrd4840m3.jpg
+    caption: Inking - octopus is perfectly camouflaged with the sand. Cyrene, Mar
+      12
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/120330cyrd4840.jpg
+    caption: The ink coagulated a distance away, distracting from the octopus. Cyrene,
       Mar 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/120330cyrd4840.jpg
-    caption: The ink coagulated a distance away, distracting from the octopus. 
-      Cyrene, Mar 12
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/050720sntd5063m6la.jpg
-    caption: A pair of mating octopuses, one pale and the other dark. Sentosa, 
-      Jul 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/octopusnoid/120506sisd1212m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/050720sntd5063m6la.jpg
+    caption: A pair of mating octopuses, one pale and the other dark. Sentosa, Jul
+      05
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/octopusnoid/120506sisd1212m3.jpg
     caption: Tiny octopus among seaweeds. Sisters Island, May 12
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/080801chgd8632m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/080801chgd8632m3.jpg
     caption: Changi, Jul 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/080801chgd8632m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/080801chgd8632m3a.jpg
     caption: Carrying eggs?
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/080801chgd8632m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/080801chgd8632m3b.jpg
     caption: ''
   gallery8:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/040703sisd1656m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/040703sisd1656m3.jpg
     caption: Reef octopus
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/050428cftg5299m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/050428cftg5299m3.jpg
     caption: Big-head seagrass octopus
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/slenderseagrass/060726chgd4943m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/slenderseagrass/060726chgd4943m3.jpg
     caption: Slender seagrass octopus
   gallery9:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/octopusnoid/201115tkklks2b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/octopusnoid/201115tkklks2b.jpg
     caption: Pulau Tekukor, Nov 20 Photo shares by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/octopusnoid/201115tkklks2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/octopusnoid/201115tkklks2.jpg
     caption: Pulau Tekukor, Nov 20 Photo shares by Loh Kok Sheng on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Octopus](http://mangrove.nus.edu.sg/pub/seashore/text/168)
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
+
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+
   . The Singapore Science Centre, Singapore. 160 pp.
+
   - [The Cephalopod Page](http://www.thecephalopodpage.org/)
-  by Dr James B Wood on the Dalhousie University and the University of Texas Medical Branch website: everything you could possibly want to know about cephalopods. Lots of info, photos, articles and links to cephalopods. Lots of fabulous photos, a delightful and exhaustive FAQ, and lots of cool articles for the laymen, as well as lesson plans.
+
+  by Dr James B Wood on the Dalhousie University and the University of Texas Medical
+  Branch website: everything you could possibly want to know about cephalopods. Lots
+  of info, photos, articles and links to cephalopods. Lots of fabulous photos, a delightful
+  and exhaustive FAQ, and lots of cool articles for the laymen, as well as lesson
+  plans.
+
   - [What is the defense mechanism an octopus uses to spray its ink called?](http://www.madsci.org/posts/archives/dec2000/976583396.Zo.r.html)
+
   on the
+
   [Mad Scientist](http://www.madsci.org/)
+
   website: Allison J. Gong explains more about this behaviour
+
   - [How do octopuses know what colour to be?](http://www.madsci.org/posts/archives/jan2000/949243619.Zo.r.html)
+
   on the
+
   [Mad Scientist](http://www.madsci.org/)
+
   website: Rochelle Ferris explains
+
   - [Why do octopus die after mating?](http://www.madsci.org/posts/archives/sep99/936404744.Zo.r.html)
+
   on the
+
   [Mad Scientist](http://www.madsci.org/)
+
   website: Trevor Cotton explains why this makes sense
+
   - [How does an octopus change its skin colour?](http://www.madsci.org/posts/archives/nov99/942750683.Zo.r.html)
+
   on the
+
   [Mad Scientist](http://www.madsci.org/)
-  website: Kimberley Sander explains how this can be done quickly by an octopus, while other animals take longer to do so.
+
+  website: Kimberley Sander explains how this can be done quickly by an octopus, while
+  other animals take longer to do so.
+
   - From the wild shores of singapore blog
+
   - [Robo-octopus: under construction](http://wildshores.blogspot.com/2009/03/robo-octopus-under-construction.html)
+
   - [Octopuses "tens of millions of years" older](http://wildshores.blogspot.com/2009/03/octopuses-tens-of-millions-of-years.html)
+
   - [Octopus in a box](http://wildshores.blogspot.com/2009/03/octopus-in-box.html)
+
   - [Octopus floods aquarium in escape bid](http://wildshores.blogspot.com/2009/03/octopus-floods-aquarium-in-escape-bid.html)
+
   - [Wild release: octopus returned to the wild for love](http://wildshores.blogspot.com/2009/02/wild-release-octopus-returned-to-wild.html)
+
   - [Deep sea octopus secrets](http://wildshores.blogspot.com/2008/11/deep-sea-octopus-secrets-and-more-from.html)
+
   - [Hermit crab juggling and other things bored octopuses do](http://wildshores.blogspot.com/2008/11/hermit-crab-juggling-and-other-things.html)
+
   - [Cocopod: when octopus meets coconut](http://wildshores.blogspot.com/2009/12/cocopod-when-octopus-meets-coconut.html)
 
+
   **References**
+
   - Diah Anggraini Saraswati, Carsten V. Steffensen & Zeehan Jaafar. 5 December 2014.
+
   *New record of mimic octopus in Singapore, Thaumoctopus mimicus*
+
   . Singapore Biodiversity Records 2014: 318
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Norman, Mark and Helmut Debelius, 2000.
+
   *Cephalopods: A World Guide*
+
   . ConchBooks, Germany. 319 pp
+
   - Norman, Mark and Amanda Reid. 2000.
+
   *A Guide to Squid, Cuttlefish and Octopuses of Australasia*
+
   The Gould League of Australia. 96pp.
+
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
+
   *Rhythm of the Sea: The Life and Times of Labrador Beach.*
-  Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+
+  Division of Biology, School of Science, Nanyang Technological University & Department
+  of Zoology, the National University of Singapore. 160 pp.
+
   - Wee Y.C. and Peter K. L. Ng. 1994.
+
   *A First Look at Biodiversity in Singapore*
+
   . National Council on the Environment. 163pp.
+
   - Ng, P. K. L. & Y. C. Wee, 1994.
+
   *The Singapore Red Data Book: Threatened Plants and Animals of Singapore*
+
   . The Nature Society (Singapore), Singapore. 343 pp.
+
   - Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.
+
   *Invertebrate Zoology*
+
   Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
+
   - Pechenik, Jan A., 2005.
+
   *Biology of the Invertebrates*
+
   . 5
+
+  '
 location:
 - chg
 - ubn

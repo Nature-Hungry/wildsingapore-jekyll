@@ -1,10 +1,8 @@
 ---
 title: Frill-fin goby
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: frill, fin, goby, bathygobius, fuscus, fish, gobiidae, field, guide, 
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: frill, fin, goby, bathygobius, fuscus, fish, gobiidae, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 25
@@ -25,62 +23,83 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Gobiinae
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/bathygobius/090621hntd4458.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/bathygobius/090621hntd4458.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/bathygobius/090621hntd4458.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/bathygobius/090621hntd4458.jpg
     caption: Pulau Hantu, Jun 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/bathygobius/070901sjid6547m6l.jpg
-    caption: Tiny white dots regularly spaced on face and in rows on its body. 
-      St. John's Island, Sep 07
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/bathygobius/070901sjid6547m6l.jpg
+    caption: Tiny white dots regularly spaced on face and in rows on its body. St.
+      John's Island, Sep 07
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/bathygobius/201118nsrcssjk5.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/bathygobius/201118nsrcssjk5.jpg
     caption: East Coast NSRCC, Nov 20 Photo shared by James Koh on flickr.
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/bathygobius/151001blyjt10m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/bathygobius/151001blyjt10m3.jpg
     caption: Berlayar Creek, Oct 15 Photo shared by Jonathan Tan on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/bathygobius/160509srpmn4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/bathygobius/160509srpmn4.jpg
     caption: Sentosa Serapong, May 16 Photo shared by Marcus Ng on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/bathygobius/090624jnglt1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/bathygobius/090624jnglt1m3.jpg
     caption: Pulau Jong, Jun 09 Photo shared by Liana Tang on her blog .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Common frill-fin goby (
+
   *Bathygobius fuscus*
+
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/360)
+
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
+
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
+
   . Singapore Science Centre. 163 pp.
+
   - [Dusky frillgoby](http://www.fishbase.org/summary/SpeciesSummary.php?id=7201)
+
   [(
+
   *Bathygobius fuscus*
+
   )](http://www.fishbase.org/summary/SpeciesSummary.php?id=7201)
+
   and
-  [Meggitt's goby (
+
+  [Meggitt''s goby (
+
   *Bathygobius meggitti*
+
   )](http://www.fishbase.org/summary/SpeciesSummary.php?id=46431)
+
   from
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheet.
+
   - [*Bathygobius fuscus*](http://www.iucnredlist.org/details/172443/0)
+
   on the IUCN Red List.
+
   - [Common frill-fin goby](http://www.ecologyasia.com/verts/brackish-fishes/common-frill-fin-goby)
+
   on
+
   [EcologyAsia](http://www.ecologyasia.com/)
+
   : photos and fact sheet
 
+
   **References**
+
   - Larson, Helen K and Kelvin K. P. Lim. 2005.
+
   *A Guide to Gobies of Singapore*
+
   . Singapore Science Centre. 164pp.
+
+  '
 location:
 - chg
 - skd
@@ -96,6 +115,9 @@ location:
 - jng
 - hnt
 - smk
+size:
+- 4.0
+- 7.0
 ---
 
 ## Where seen?

@@ -1,10 +1,9 @@
 ---
 title: Dalmation spindle cowrie
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: nectar, spindle, ovulid, cowrie, ovulidae, phenacovolva, barbieri, 
-  gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, 
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: nectar, spindle, ovulid, cowrie, ovulidae, phenacovolva, barbieri, gastropod,
+  mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Ovulidae
 genus: Phenacovolva
@@ -20,23 +19,22 @@ order: Littorinimorpha
 superfamily: Cypraeoidea
 subfamily: Ovulinae
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/barbieri/130626chg1d8841ml.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/barbieri/130626chg1d8841ml.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/barbieri/130626chg1d8841ml.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/barbieri/130626chg1d8841ml.jpg
     caption: Changi, Jun 13
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/barbieri/030521bbd0202m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/barbieri/030521bbd0202m3.jpg
     caption: Beting Bronok, May 03
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/barbieri/130526chglks1.JPG
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/barbieri/130526chglks1.JPG
     caption: Changi, May 13 Photo shared by Loh Kok Sheng on flickr .
 location:
 - chg
 - bb
+size:
+- 2.0
+- 3.0
 ---
 
 ## Where seen?

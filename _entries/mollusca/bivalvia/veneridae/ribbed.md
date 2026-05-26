@@ -1,10 +1,9 @@
 ---
 title: Ribbed venus clam
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: venus, shell, gafrarium, veneridae, bivalve, mollusc, clam, field, 
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: venus, shell, gafrarium, veneridae, bivalve, mollusc, clam, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Veneridae
 genus: Gafrarium
@@ -23,78 +22,79 @@ order: Venerida
 superfamily: Veneroidea
 subfamily: Gouldiinae
 updated: May 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/070204hntg7547m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/070204hntg7547m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/070204hntg7547m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/070204hntg7547m3.jpg
     caption: Gafrarium pectinatum? Pulau Hantu, Feb 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/070204hntg7549m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/070204hntg7549m3.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/070204hntg7549m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/070204hntg7549m3a.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/070505kusg9114m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/070505kusg9114m3.jpg
     caption: Gafrarium tumidum? Kusu Island, May 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/100729tmd9682m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/100729tmd9682m3.jpg
     caption: Gafrarium pectinatum? Tanah Merah, Jul 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/110220lazlks4m3.jpg
-    caption: Lazarus Island, Feb 11 Photo shared by Loh Kok Sheng on his flickr 
-      .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/110220lazlks4m3.jpg
+    caption: Lazarus Island, Feb 11 Photo shared by Loh Kok Sheng on his flickr .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/210530epcnvc7.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/210530epcnvc7.jpg
     caption: East Coast (PCN), May 21 Photo shared by Vincent Choo on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/260218merqo2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/260218merqo2.jpg
     caption: Marina East, Feb 26 Photo shared by Rui Quan Oh on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/171009brlay.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/171009brlay.jpg
     caption: Berlayar Creek, Oct 17 Photo shared by Abel Yeo on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/0914104sntlks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/0914104sntlks.JPG
     caption: Sentosa, Dec 09 Photo shared by Loh Kok Sheng on flickr .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/251009sjitl5a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/251009sjitl5a.jpg
     caption: St John's Island, Oct 25 Photo shared by Tammy Lim on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/251009sjitl5b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/251009sjitl5b.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/110326sjilks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/110326sjilks.JPG
     caption: St John's Island, Mar 11 Photo shared by Loh Kok Sheng on flickr .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/181027smksjt1.jpg
-    caption: Pulau Semakau South, Oct 18 Photo shared by Juria Toramae on 
-      facebook .
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/181027smksjt1.jpg
+    caption: Pulau Semakau South, Oct 18 Photo shared by Juria Toramae on facebook
+      .
+links_references: '**Links**
+
   - [*Gafrarium tumidum*
+
   (Tumid venus)](http://www.sealifebase.org/summary/SpeciesSummary.php?id=86649)
+
   and
+
   [*Gafrarium pectinatum*
+
   (Comb venus)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86648&genusname=Gafrarium&speciesname=pectinatum)
+
   from SeaLife Base: Technical fact sheet.
 
+
   **References**
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Tan, K. S. & L. M. Chou, 2000.
+
   *A Guide to the Common Seashells of Singapore*
+
   . Singapore Science Centre. 160 pp.
+
   - Abbott, R. Tucker, 1991.
+
   *Seashells of South East Asia*
+
   . Graham Brash, Singapore. 145 pp.
+
+  '
 location:
 - tm
 - ecp
@@ -106,6 +106,9 @@ location:
 - sis
 - hnt
 - smk
+size:
+- 3.0
+- 4.0
 ---
 
 ## Where seen?

@@ -1,8 +1,6 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: smooth, blue, sponge, neopetrosia, exigua, petrosiidae, porifera, 
-  field,
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: smooth, blue, sponge, neopetrosia, exigua, petrosiidae, porifera, field,
 layout: entry
 shape: encrusting
 title: Smooth brown sponge
@@ -18,54 +16,52 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Oct 2016
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/060501labd1704m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/060501labd1704m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/060501labd1704m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/060501labd1704m3.jpg
     caption: Labrador, Jun 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/060501labd1704m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/060501labd1704m3b.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/060501labd1704m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/060501labd1704m3a.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/100502tryd2267m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/100502tryd2267m3.jpg
     caption: Terumbu Raya, May 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/100130brkd8584m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/100130brkd8584m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/070322cyrd9184m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/070322cyrd9184m3.jpg
     caption: Cyrene Reef, Mar 07
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/100531biod4508m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/100531biod4508m3.jpg
     caption: Pulau Biola, May 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/100131slud8867m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/100131slud8867m3.jpg
     caption: Terumbu Salu, Jan 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/100613sngd5627m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/100613sngd5627m3.jpg
     caption: Pulau Senang, Jun 10
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/100530tbkd4320m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/100530tbkd4320m3.jpg
     caption: Pulau Berkas, May 10
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Neopetrosia exigua*](http://www.sealifebase.fisheries.ubc.ca/summary/Neopetrosia-exigua.html)
+
   on SeaLife Base: technical fact sheet.
+
   - [*Neopetrosia exigua*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=166805)
+
   on the World Porifera Database.
 
+
   **References**
+
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
+
   *A Guide to Sponges of Singapore*
+
   . Singapore Science Centre. 173pp.
+
+  '
 location:
 - lab
 - snt
@@ -79,6 +75,9 @@ location:
 - tsm
 - rfl
 - lfa
+size:
+- 10.0
+- 20.0
 ---
 
 ## Where seen?

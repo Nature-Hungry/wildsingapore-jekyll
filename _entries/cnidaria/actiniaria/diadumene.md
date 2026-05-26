@@ -1,10 +1,8 @@
 ---
 title: Lined bead anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: banded, bead, anemone, anthozoa, cnidarian, field, guide, seashore, 
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, 
-  photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: banded, bead, anemone, anthozoa, cnidarian, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 6
@@ -22,49 +20,60 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Metridioidea
 updated: Jul 2024
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/diadumene/070718cjg1646m3a.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/diadumene/070718cjg1646m3a.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/diadumene/070718cjg1646m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/diadumene/070718cjg1646m3a.jpg
     caption: Chek Jawa, Jul 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/diadumene/110620pgld4560m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/diadumene/110620pgld4560m3.jpg
     caption: Punggol, Jun 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/diadumene/110620pgld4564m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/diadumene/110620pgld4564m3.jpg
     caption: Punggol, Jun 11
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/diadumene/201118pglvc1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/diadumene/201118pglvc1.jpg
     caption: Punggol, Nov 20 Photo shared by Vincent Choo on facebook .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/diadumene/160125obsmn11.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/diadumene/160125obsmn11.jpg
     caption: Pulau Ubin OBS, Jan 16 Photo shared by Marcus Ng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/diadumene/090721skdmn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/diadumene/090721skdmn.jpg
     caption: Pulau Sekudu, Jul 09 Photo shared by Marcus Ng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/diadumene/130312lsislks.JPG
-    caption: Little Sisters Island, Mar 13 Photo shared by Loh Kok Sheng on 
-      flickr .
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/diadumene/130312lsislks.JPG
+    caption: Little Sisters Island, Mar 13 Photo shared by Loh Kok Sheng on flickr
+      .
+links_references: '**Links**
+
   - [*Diadumene lineata*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail.cfm?genus=Diadumene&subgenus=&species=lineata&subspecies=&synseniorid=20813)
+
   on the
+
   [Hexacorallians of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/)
-  website by Dr Daphne Fautin with classification, distribution, biological associations and more.
+
+  website by Dr Daphne Fautin with classification, distribution, biological associations
+  and more.
+
   - [*Diadumene lineata*](http://www.sealifebase.org/summary/Diadumene-lineata.html)
+
   on SeaLife Base: technical fact sheet.
 
+
   **References**
-  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
+
+  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
+  Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H.
+  Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The
+  Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition.
+  National Parks Board. 663 pp.
+
   - Daphne Gail Fautin, S. H. Tan and Ria Tan. 30 Dec 2009.
-  *Sea anemones (Cnidaria: Actiniaria) of Singapore: abundant and well-known shallow-water species*
+
+  *Sea anemones (Cnidaria: Actiniaria) of Singapore: abundant and well-known shallow-water
+  species*
+
   [.](http://lkcnhm.nus.edu.sg/rbz/biblio/s22/s22rbz121-143.pdf)
+
   Raffles Bulletin of Zoology Supplement No. 22: 121-143.
+
+  '
 location:
 - sbw
 - pgl
@@ -76,6 +85,8 @@ location:
 - tus
 - ecp
 - sis
+size:
+- 0.5
 ---
 
 ## Where seen?

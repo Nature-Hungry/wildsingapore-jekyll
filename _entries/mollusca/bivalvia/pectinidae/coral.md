@@ -1,10 +1,9 @@
 ---
 title: Coral scallop
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: coral, scallop, clam, shell, pedum, spondyloideum, pectinidae, 
-  bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: coral, scallop, clam, shell, pedum, spondyloideum, pectinidae, bivalve,
+  mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Pectinidae
 genus: Pedum
@@ -22,73 +21,87 @@ superfamily: Pectinoidea
 subfamily: Pedinae
 tribe: Pedini
 updated: May 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/110601tmnbd3211m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/110601tmnbd3211m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/110601tmnbd3211m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/110601tmnbd3211m3.jpg
     caption: Tanah Merah, Jun 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/110601tmnbd3211m3a.jpg
-    caption: When submerged, tentacles and tiny eyes can be seen. Beting Bemban 
-      Besar, Apr 10
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/110601tmnbd3211m3a.jpg
+    caption: When submerged, tentacles and tiny eyes can be seen. Beting Bemban Besar,
+      Apr 10
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/070406hntg8468m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/070406hntg8468m3a.jpg
     caption: Pulau Hantu, Apr 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/100130brkd8540.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/100130brkd8540.jpg
     caption: Pulau Berkas, Jan 01
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/100403tbbd0666m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/100403tbbd0666m3.jpg
     caption: Beting Bemban Besar, Apr 10
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/170822lablks6.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/170822lablks6.jpg
     caption: Labrador, Aug 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/200822jnglks2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/200822jnglks2.jpg
     caption: Pulau Jong, Aug 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/200919bsislks6.jpg
-    caption: Big Sisters Island, Sep 20 Photo shared by Loh Kok Sheng on 
-      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/200919bsislks6.jpg
+    caption: Big Sisters Island, Sep 20 Photo shared by Loh Kok Sheng on facebook
+      .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/160609thntmn1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/160609thntmn1.jpg
     caption: Terumbu Hantu, Jun 16 Photo shared by Marcus Ng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/110717tblks2m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/110717tblks2m3.jpg
     caption: Terumbu Bemban, Jul 11 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/130427tptlks.JPG
-    caption: Terumbu Pempang Tengah, Apr 13 Photo shared by Loh Kok Sheng on 
-      flickr .
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/130427tptlks.JPG
+    caption: Terumbu Pempang Tengah, Apr 13 Photo shared by Loh Kok Sheng on flickr
+      .
+links_references: '**Links**
+
   - [*Pedum spondyloideum*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=103724)
+
   on SeaLife Base: Technical fact sheet.
 
+
   **References**
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Patrick Scaps.
-  *Associations between the Scallop Pedum spondyloideum (Bivalvia, Pteriomorphia, Pectinidae) and Hard Corals on the West Coast of Thailand.*
+
+  *Associations between the Scallop Pedum spondyloideum (Bivalvia, Pteriomorphia,
+  Pectinidae) and Hard Corals on the West Coast of Thailand.*
+
   March 21, 2011. Zoological Studies 50(4): 466-474 (2011).
+
   - Patrick Scaps and Vianney Denis. 31 Aug 2007.
-  *Association between the scallop, Pedum spondyloideum, (Bivalvia: Pteriomorphia: Pectinidae) and scleractinian corals from the Wakatobi Marine National Park (Southeastern Sulawesi, Indonesia)*
+
+  *Association between the scallop, Pedum spondyloideum, (Bivalvia: Pteriomorphia:
+  Pectinidae) and scleractinian corals from the Wakatobi Marine National Park (Southeastern
+  Sulawesi, Indonesia)*
+
   . Raffles Bulletin of Zoology 55(2):Pp 371-380 .
+
   - Coleman, Neville. 2003.
+
   *2002 Sea Shells: Catalogue of Indo-Pacific Mollusca*
-  Neville Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
+
+  Neville Coleman''s Underwater Geographic Pty Ltd, Australia.144pp.
+
   - Humann, Paul and Ned Deloach. 2010.
+
   *Reef Creature Identification: Tropical Pacific*
+
   New World Publications. 497pp.
+
   - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.
-  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
+
+  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive
+  of the vertebrates*
+
   Sea Challengers. 314pp.
+
+  '
 location:
 - tm
 - lab
@@ -104,6 +117,9 @@ location:
 - tsm
 - rfl
 - lfa
+size:
+- 1.0
+- 1.5
 ---
 
 ## Where seen?

@@ -1,10 +1,9 @@
 ---
 title: Bell sea grapes seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: oval, grapes, seaweed, weed, green, caulerpa, racemosa, turbinata, 
-  caulerpaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, 
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: oval, grapes, seaweed, weed, green, caulerpa, racemosa, turbinata, caulerpaceae,
+  chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 division: Chlorophyta
 family: Caulerpaceae
@@ -20,43 +19,57 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Jan 13
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bell/100519tsmc4159m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bell/100519tsmc4159m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bell/100519tsmc4159m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bell/100519tsmc4159m3.jpg
     caption: Terumbu Semakau, May 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bell/080510smkd3075m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bell/080510smkd3075m3.jpg
     caption: Pulau Semakau, May 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bell/060727jngd5132m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bell/060727jngd5132m3.jpg
     caption: Pulau Jong, Jul 06
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bell/200626tptvc5.jpg
-    caption: Terumbu Pempang Tengah, Jun 20 Photo shared by Vincent Choo on 
-      facebook .
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bell/200626tptvc5.jpg
+    caption: Terumbu Pempang Tengah, Jun 20 Photo shared by Vincent Choo on facebook
+      .
+links_references: '**Links**
+
   - [*Caulerpa racemosa*
+
   var.
+
   *turbinata*](http://www.algaebase.org/search/species/detail/?species_id=4458)
+
   on
+
   [AlgaeBase](http://www.algaebase.org/)
+
   : technical fact sheet.
 
+
   **References**
-  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
+
+  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
+  Tsai Min and Wang Luan Keng,
+
   *A photographic guide to the marine algae of Singapore*
+
   , 2015. Tropical Marine Science Institute, 201 pp.
+
   - Pham, M. N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011.
+
   *A Checklist of the Algae of Singapore*
-  , 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore, Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+
+  , 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
+  Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+
   - Huisman, John M. 2000.
+
   *Marine Plants of Australia*
+
   University of Western Australia Press. 300pp.
+
+  '
 location:
 - jng
 - hnt

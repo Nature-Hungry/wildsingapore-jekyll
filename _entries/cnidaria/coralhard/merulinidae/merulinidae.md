@@ -1,10 +1,9 @@
 ---
 title: 'Merulinid corals '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: crispy, crust, merulinidae, coral, hard, scleractinia, cnidaria, 
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: crispy, crust, merulinidae, coral, hard, scleractinia, cnidaria, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 family: Merulinidae
 genus: ''
@@ -18,156 +17,143 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydboulder/060402ulrd1100m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydboulder/060402ulrd1100m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydboulder/060402ulrd1100m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydboulder/060402ulrd1100m3.jpg
     caption: Boulder horn coral
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/060714rlhg6493m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/060714rlhg6493m3.jpg
     caption: Branching horn coral
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/060714rlhg6527m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/060714rlhg6527m3.jpg
     caption: Carnation coral
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/merulinidae/echinopora/060714rlhg6515m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/merulinidae/echinopora/060714rlhg6515m3.jpg
     caption: Hedgehog coral
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/merulina/110802smkd8153m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/merulina/110802smkd8153m3.jpg
     caption: Ridged plate coral
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/050724bbg0177m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/050724bbg0177m3.jpg
     caption: Cabbage coral
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/040522kusbd0064m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/040522kusbd0064m3.jpg
     caption: Trumpet coral Colony appears boulder-shaped, but is not solid.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5992m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5992m3.jpg
     caption: Meteor coral Colony boulder-shaped, sometimes in hillocks.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/040522kusad0062m3.jpg
-    caption: Corallites large trumpet-shaped, long narrow flaring to oval 
-      opening.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5996m3.jpg
-    caption: Corallites a tiny circular ring often not packed tightly, with tiny
-      bumps between the corallites.
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/040522kusad0062m3.jpg
+    caption: Corallites large trumpet-shaped, long narrow flaring to oval opening.
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5996m3.jpg
+    caption: Corallites a tiny circular ring often not packed tightly, with tiny bumps
+      between the corallites.
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/faviidae/ring/ringpurplewhite/070420sntrd0236m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/faviidae/ring/ringpurplewhite/070420sntrd0236m3.jpg
     caption: Purple-and-white ring coral Colony boulder-shaped.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/faviidae/ring/ringsmall/070102sisd7332m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/faviidae/ring/ringsmall/070102sisd7332m3.jpg
     caption: Small ring coral Colony boulder-shaped.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/faviidae/ring/ringbig/060402ulrd1209m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/faviidae/ring/ringbig/060402ulrd1209m3.jpg
     caption: Big ring coral Colony boulder-shaped.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/faviidae/ring/ringpurplewhite/070420sntrd0236m3a.jpg
-    caption: Corallites a tiny ring often packed tightly, walls purple, polyps 
-      fleshy white or greenish.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/faviidae/ring/ringsmall/070102sisg7132m3c.jpg
+  - url: http://www.wildsingapore.com/wildfacts/faviidae/ring/ringpurplewhite/070420sntrd0236m3a.jpg
+    caption: Corallites a tiny ring often packed tightly, walls purple, polyps fleshy
+      white or greenish.
+  - url: http://www.wildsingapore.com/wildfacts/faviidae/ring/ringsmall/070102sisg7132m3c.jpg
     caption: Corallites small circular ring often packed tightly.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/faviidae/ring/ringbig/060402ulrd1209m3c.jpg
-    caption: Corallites large ring-shaped often squashed tightly so they may be 
-      oval or bean-shaped.
+  - url: http://www.wildsingapore.com/wildfacts/faviidae/ring/ringbig/060402ulrd1209m3c.jpg
+    caption: Corallites large ring-shaped often squashed tightly so they may be oval
+      or bean-shaped.
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/faviidae/hexa/hexatiny/051103sisd6295m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/faviidae/hexa/hexatiny/051103sisd6295m3.jpg
     caption: Tiny hexa coral Colony boulder-shaped.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/faviidae/hexa/hexasmall/060527sjid2126m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/faviidae/hexa/hexasmall/060527sjid2126m3.jpg
     caption: Small hexa coral Colony boulder-shaped.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/faviidae/hexa/hexatoothed/070322cyrd9119m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/faviidae/hexa/hexatoothed/070322cyrd9119m3.jpg
     caption: Toothed hexagonal coral Colony boulder-shaped.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/faviidae/hexa/hexatiny/051103sisg2836m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/faviidae/hexa/hexatiny/051103sisg2836m3.jpg
     caption: Corallites with shared walls that form tiny hexagonal cells.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/faviidae/hexa/hexasmall/060527sjid2127m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/faviidae/hexa/hexasmall/060527sjid2127m3.jpg
     caption: Corallites with shared walls that form small hexagonal cells.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/faviidae/hexa/hexatoothed/070322cyrd9119m3b.jpg
-    caption: Corallites with shared walls that form hexagonal cells. The walls 
-      have relatively large 'teeth'.
+  - url: http://www.wildsingapore.com/wildfacts/faviidae/hexa/hexatoothed/070322cyrd9119m3b.jpg
+    caption: Corallites with shared walls that form hexagonal cells. The walls have
+      relatively large 'teeth'.
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/faviidae/hexa/hexasmooth/050706sntg8979m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/faviidae/hexa/hexasmooth/050706sntg8979m3.jpg
     caption: Smooth hexa coral Colony boulder-shaped.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/faviidae/hexa/hexacolumn/060102sisg3673m3.jpg
-    caption: Columnar hexa coral Colony encrusting or dome-shaped, with untidy 
-      lumps or columns.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/faviidae/hexa/hexahoneycomb/050509hntg5989m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/faviidae/hexa/hexacolumn/060102sisg3673m3.jpg
+    caption: Columnar hexa coral Colony encrusting or dome-shaped, with untidy lumps
+      or columns.
+  - url: http://www.wildsingapore.com/wildfacts/faviidae/hexa/hexahoneycomb/050509hntg5989m3.jpg
     caption: Honeycomb hexa coral Colony boulder-shaped.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/faviidae/hexa/hexasmooth/050706sntg8981m3.jpg
-    caption: Corallites hexagonal with shared walls, a smooth surface in between
-      the corallites.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/faviidae/hexa/hexacolumn/060102sisg3674m3b.jpg
-    caption: Corallites may jut out with thick, shared walls, forming irregular,
-      sharp angled, usually hexagonal cells.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/faviidae/hexa/hexahoneycomb/050509hntg5989m3c.jpg
-    caption: Corallites with thin, tall, shared walls that form large hexagonal 
-      cells.
+  - url: http://www.wildsingapore.com/wildfacts/faviidae/hexa/hexasmooth/050706sntg8981m3.jpg
+    caption: Corallites hexagonal with shared walls, a smooth surface in between the
+      corallites.
+  - url: http://www.wildsingapore.com/wildfacts/faviidae/hexa/hexacolumn/060102sisg3674m3b.jpg
+    caption: Corallites may jut out with thick, shared walls, forming irregular, sharp
+      angled, usually hexagonal cells.
+  - url: http://www.wildsingapore.com/wildfacts/faviidae/hexa/hexahoneycomb/050509hntg5989m3c.jpg
+    caption: Corallites with thin, tall, shared walls that form large hexagonal cells.
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/faviidae/hexa/mazehexa/050720sntg9544m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/faviidae/hexa/mazehexa/050720sntg9544m3.jpg
     caption: Maze hexa corals Colony boulder-shaped.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/faviidae/maze/jigsaw/040605kuscd0015m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/faviidae/maze/jigsaw/040605kuscd0015m3.jpg
     caption: Jigsaw maze coral Colony boulder-shaped often spherical.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/faviidae/maze/others/050611kusg7740m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/faviidae/maze/others/050611kusg7740m3.jpg
     caption: Other maze corals Colony encrusting or boulder-shaped.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/faviidae/hexa/mazehexa/050720sntg9545m3a.jpg
-    caption: Corallites with shared walls forming irregular hexagons or short 
-      maze-like valleys.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/faviidae/maze/jigsaw/040605kuscd0015m3b.jpg
-    caption: Corallites with shared parallel walls that form long meandering 
+  - url: http://www.wildsingapore.com/wildfacts/faviidae/hexa/mazehexa/050720sntg9545m3a.jpg
+    caption: Corallites with shared walls forming irregular hexagons or short maze-like
       valleys.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/faviidae/maze/others/050611kusg7740m3a.jpg
-    caption: Corallites with shared walls often thick forming long meandering 
-      valleys, maze-like or hexagonal patterns that are coarser than other kinds
-      of maze favid corals.
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/faviidae/maze/jigsaw/040605kuscd0015m3b.jpg
+    caption: Corallites with shared parallel walls that form long meandering valleys.
+  - url: http://www.wildsingapore.com/wildfacts/faviidae/maze/others/050611kusg7740m3a.jpg
+    caption: Corallites with shared walls often thick forming long meandering valleys,
+      maze-like or hexagonal patterns that are coarser than other kinds of maze favid
+      corals.
+links_references: '**Links**
+
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
+
   with species factsheets.
+
   - [IUCN Red List of Threatened Species](https://www.iucnredlist.org/)
+
   with species factsheets.
+
   - [Family Merulinidae](http://species-identification.org/species.php?species_group=corals&id=88&menuentry=groepen)
-  on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal: Technical fact sheet.
+
+  on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal:
+  Technical fact sheet.
+
 
   **References**
+
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
-  *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new records*
+
+  *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new
+  records*
+
   (pdf). Raffles Bulletin of Zoology Supplement No. 22: 69-80.
+
   - Veron, Jen. 2000.
+
   *Corals of the World*
+
   Australian Institute of Marine Science, Australia. 3 volumes.
+
   - Chou, L. M., 1998.
+
   *A Guide to the Coral Reef Life of Singapore*
+
   . Singapore Science Centre. 128 pages.
+
   - Erhardt, Harry and Daniel Knop. 2005.
+
   *Corals: Indo-Pacific Field Guide*
+
   IKAN-Unterwasserachiv, Frankfurt. 305 pp.
+
   - Borneman, Eric H. 2001.
+
   *Aquarium Corals: Selection, Husbandry and Natural History*
+
   T.F. H Publications. 464 pp
+
+  '
 location: []
 ---
 

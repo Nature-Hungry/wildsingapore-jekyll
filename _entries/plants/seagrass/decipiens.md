@@ -1,10 +1,9 @@
 ---
 title: Hairy spoon seagrass
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: hairy, spoon, halophila, decipiens, complex, minor, hydrocharitaceae, 
-  seagrass, grass, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: hairy, spoon, halophila, decipiens, complex, minor, hydrocharitaceae, seagrass,
+  grass, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 95
@@ -12,9 +11,9 @@ englishname: Hairy spoon seagrass
 family: Hydrocharitaceae
 genus: Halophila
 species: decipiens
-summary: Spoon shaped leaves, longer and the width, 0.5 wide, 1-2.5cm long, 
-  emerging in pairs. Minute serrations on edges and minute hairs on both sides 
-  of the leaves. Seen in deeper waters in our Southern islands.
+summary: Spoon shaped leaves, longer and the width, 0.5 wide, 1-2.5cm long, emerging
+  in pairs. Minute serrations on edges and minute hairs on both sides of the leaves.
+  Seen in deeper waters in our Southern islands.
 coverimg: https://live.staticflickr.com/3788/9247400430_866983b68c.jpg
 inat_id: 163512
 stateofmatter: Life
@@ -27,45 +26,48 @@ updated: Mar 14
 rdb: CR
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seagrass/decipiens/200728bb.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/decipiens/200728bb.jpg
     caption: Beting Bronok, Jul 20
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seagrass/decipiens/120605lygd4072m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/decipiens/120605lygd4072m3.jpg
     caption: Growing on carpet on Nest mussels . Changi, Jun 12
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seagrass/decipiens/070522skdg9587.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/decipiens/070522skdg9587.jpg
     caption: Pulau Sekusu, Jul 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seagrass/decipiens/090427chgd0665m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/decipiens/090427chgd0665m3a.jpg
     caption: Minute hairs on the leaf. Changi Apr 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seagrass/decipiens/090427chgd0666m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/decipiens/090427chgd0666m3.jpg
     caption: Leaf blade longer than wide. Changi Apr 09
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seagrass/decipiens/130823prpd2336m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/decipiens/130823prpd2336m3a.jpg
     caption: Flower. Pasir Ris Park, Aug 13
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seagrass/decipiens/130823prpd2337m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/decipiens/130823prpd2337m3.jpg
     caption: Fruit Pasir Ris Park, Aug 13
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seagrass/decipiens/130823prpd2354m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/decipiens/130823prpd2354m3.jpg
     caption: Seeds. Pasir Ris Park, Aug 13
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Identifying seagrasses](http://www.seagrasswatch.org/id_seagrass.html)
+
   on the Seagrass-Watch website.
+
   - [New record seagrass for Singapore](http://wildshores.blogspot.com/2008/10/new-record-seagrass-for-singapore.html)
+
   on the wild shores of singapore blog, and on the
+
   [Seagrass-Watch newsletter](http://www.seagrasswatch.org/newsletters.html)
+
   (PDF).
 
+
   **References**
+
   - Waycott, Michelle (et. al). 2004.
+
   *A Guide to Tropical Seagrasses of the Indo-West Pacific.*
+
   2004. James Cook University. 72 pp.
+
+  '
 location:
 - pgl
 - prp
@@ -76,6 +78,10 @@ location:
 - snt
 - laz
 - smk
+size:
+- 1.0
+- 2.5
+- 0.5
 ---
 
 ## Where seen?

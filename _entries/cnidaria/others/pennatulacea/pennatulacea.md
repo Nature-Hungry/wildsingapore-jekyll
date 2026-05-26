@@ -13,67 +13,102 @@ updated: Sep 2019
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/081216prpd3387m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "if you learn only 3 things about them ... Each sea pen is a colony of many animals living together. Small crabs and other creatures often live among the fronds. At low tide, they retract into the ground. Don't step on them!"
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "Each sea pen is a colony of many animals living together. Small crabs and other creatures often live among the fronds. At low tide, they retract into the ground. Don't step on them!"
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... Each sea pen is a colony of
+      many animals living together. Small crabs and other creatures often live among
+      the fronds. At low tide, they retract into the ground. Don't step on them!
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: Each sea pen is a colony of many animals living together. Small crabs
+      and other creatures often live among the fronds. At low tide, they retract into
+      the ground. Don't step on them!
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/081216prpd3387m3.jpg"
-      caption: "The orange foot is visible in this Spiky sea fan that washed ashore. Chek Jawa, Jul 05"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/060502cftd1783m3.jpg"
-      caption: "Half dead sea pencil washed ashore, showing the stick-like skeleton in the centre. Changi, May 06"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/050524chgg6589m3c.jpg"
-      caption: "Expanded and retracted polyps of a Flowery sea pen. Changi, May 05"
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/081216prpd3387m3.jpg
+    caption: The orange foot is visible in this Spiky sea fan that washed ashore.
+      Chek Jawa, Jul 05
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/060502cftd1783m3.jpg
+    caption: Half dead sea pencil washed ashore, showing the stick-like skeleton in
+      the centre. Changi, May 06
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/050524chgg6589m3c.jpg
+    caption: Expanded and retracted polyps of a Flowery sea pen. Changi, May 05
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/050726chgg0426m3.jpg"
-      caption: "Tiny porcelain crabs are often seen in pairs in a sea pen. Changi, Jul 05"
-    - url: "http://www.wildsingapore.com/mollusca/slugs/nudibranchia/semperi/190802chglks2.jpg"
-      caption: "A nudibranch that eats sea pens is lurking near this one. Changi, Aug 19 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/050524cftg6598m3b.jpg"
-      caption: "Commensal shrimp on a sea pen. All that can often be seen are a pair of eyes! Changi, May 05"
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/050726chgg0426m3.jpg
+    caption: Tiny porcelain crabs are often seen in pairs in a sea pen. Changi, Jul
+      05
+  - url: http://www.wildsingapore.com/mollusca/slugs/nudibranchia/semperi/190802chglks2.jpg
+    caption: A nudibranch that eats sea pens is lurking near this one. Changi, Aug
+      19 Photo shared by Loh Kok Sheng on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/050524cftg6598m3b.jpg
+    caption: Commensal shrimp on a sea pen. All that can often be seen are a pair
+      of eyes! Changi, May 05
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/050609chgg7516m3.jpg"
-      caption: Flowery sea pen Family Veretillidae
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/050609chgg7516m3a.jpg"
-      caption: ""
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/050609chgg7516m3.jpg
+    caption: Flowery sea pen Family Veretillidae
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/050609chgg7516m3a.jpg
+    caption: ''
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/050426cftg5070m3.jpg"
-      caption: Sea pencil ( Lituaria sp.)
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/050722cjg9824m3b.jpg"
-      caption: ""
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/050426cftg5070m3.jpg
+    caption: Sea pencil ( Lituaria sp.)
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/050722cjg9824m3b.jpg
+    caption: ''
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/120705chgd7083m3.jpg"
-      caption: Spiky sea pen ( Pteroeides sp.)
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/120705chgd7086m3b.jpg"
-      caption: ""
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/120705chgd7083m3.jpg
+    caption: Spiky sea pen ( Pteroeides sp.)
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/120705chgd7086m3b.jpg
+    caption: ''
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/090722chgd7702m3.jpg"
-      caption: Slender sea pen ( Virgularia sp.)
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/120703chgd6506m3a.jpg"
-      caption: ""
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/090722chgd7702m3.jpg
+    caption: Slender sea pen ( Virgularia sp.)
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/120703chgd6506m3a.jpg
+    caption: ''
+links_references: '**Links**
+
   - [Phylum Cnidaria, Order Pennatulacea](http://species-identification.org/species.php?species_group=corals&menuentry=groepen)
+
   on
+
   [Reef Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding)
+
   on the
+
   [Marine Species Identification Portal](http://species-identification.org/index.php)
+
   : Technical fact sheet and photos.
+
   - [Introduction to Pennatulacea](http://www.ucmp.berkeley.edu/cnidaria/pennatulacea.html)
-  on the Museum of Paleontology, University of California, Berkeley website: a brief introduction with some photos.
+
+  on the Museum of Paleontology, University of California, Berkeley website: a brief
+  introduction with some photos.
+
   - [Sea Pens](http://www.lanecc.edu/science/zonation/seapen)
-  on the Lane Community College website: short fact sheet on sea pens with lots of photos.
-  
+
+  on the Lane Community College website: short fact sheet on sea pens with lots of
+  photos.
+
+
   **References**
+
   - Erhardt, Harry and Daniel Knop. 2005.
+
   *Corals: Indo-Pacific Field Guide*
+
   IKAN-Unterwasserachiv, Frankfurt. 305 pp.
+
   - Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.
+
   *Invertebrate Zoology*
+
   Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
+
   - Pechenik, Jan A., 2005.
+
   *Biology of the Invertebrates*
+
   . 5
+
+  '
+size:
+- 15.0
+- 25.0
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

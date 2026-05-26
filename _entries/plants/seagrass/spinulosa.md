@@ -1,10 +1,9 @@
 ---
 title: 'Fern seagrass '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: fern, spinulosa, halophila, ovalis, minor, hydrocharitaceae, seagrass,
-  grass, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: fern, spinulosa, halophila, ovalis, minor, hydrocharitaceae, seagrass, grass,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 attributes:
 - 46
@@ -14,10 +13,9 @@ englishname: Fern seagrass
 family: Hydrocharitaceae
 genus: Halophila
 species: spinulosa
-summary: 2cm wide, 4cm long. Only seagrass with opposite leaves on a stem that 
-  makes it appear fern-like. 10-20 opposite pairs of leaves on one stem, the 
-  stem about 4cm long. Rhizomes thin, sometimes woody. Common on Chek Jawa and 
-  Changi.
+summary: 2cm wide, 4cm long. Only seagrass with opposite leaves on a stem that makes
+  it appear fern-like. 10-20 opposite pairs of leaves on one stem, the stem about
+  4cm long. Rhizomes thin, sometimes woody. Common on Chek Jawa and Changi.
 coverimg: https://live.staticflickr.com/65535/47830012321_5e4e046f08_n.jpg
 inat_id: 50374
 stateofmatter: Life
@@ -31,53 +29,68 @@ rdb: CR
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... It is made of up little 
-      leaflets. It is most commonly seen on Chek Jawa, but rarely seen 
-      elsewhere. It is eaten by dugongs.
+    caption: if you learn only 3 things about them ... It is made of up little leaflets.
+      It is most commonly seen on Chek Jawa, but rarely seen elsewhere. It is eaten
+      by dugongs.
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: It is made of up little leaflets. It is most commonly seen on Chek 
-      Jawa, but rarely seen elsewhere. It is eaten by dugongs.
+    caption: It is made of up little leaflets. It is most commonly seen on Chek Jawa,
+      but rarely seen elsewhere. It is eaten by dugongs.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/110916cjd1153m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/110916cjd1153m6l.jpg
     caption: Chek Jawa, Sep 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/110916cjd1153m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/110916cjd1153m3a.jpg
     caption: Chek Jawa, Sep 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/070716chgd4197m3.jpg
-    caption: Changi, Jul 07 Small one-sided fold at the base of each leaf. Chek 
-      Jawa, Sep 03
+  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/070716chgd4197m3.jpg
+    caption: Changi, Jul 07 Small one-sided fold at the base of each leaf. Chek Jawa,
+      Sep 03
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/050819cjg1506m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/050819cjg1506m3a.jpg
     caption: Tiny snails grazing on algae on the leaves. Chek Jawa, Aug 05
   - url: http://www.wildsingapore.com/bryozoa/bryozoannoid/080817chgd9745m3a.jpg
     caption: Bryozoans growing on the seagrass. Changi, Aug 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/071126chgd7629m3c.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/071126chgd7629m3c.jpg
     caption: Tiny organisms growing on leaflet. Changi, Nov 07
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - McKenzie, L.J., Yaakub, S.M., and Yoshida, R.L. (2007).
+
   *[Seagrass-Watch: Guidelines for TeamSeagrass Singapore Participants](http://www.seagrasswatch.org/Training/proceedings/TeamSeagrass_Singapore_workshop_Mar07.pdf)*
-  (PDF). Proceedings of a training workshop, National Parks Board, Biodiversity Centre, Singapore, 24th-25th March 2007 (DPI&F, Cairns). 32pp.
+
+  (PDF). Proceedings of a training workshop, National Parks Board, Biodiversity Centre,
+  Singapore, 24th-25th March 2007 (DPI&F, Cairns). 32pp.
+
   - [Identifying seagrasses](http://www.seagrasswatch.org/id_seagrass.html)
+
   on the Seagrass-Watch website.
 
+
   **References**
+
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+
   . Nature Society (Singapore). 285 pp.
+
   - Waycott, Michelle (et. al). 2004.
+
   *A Guide to Tropical Seagrasses of the Indo-West Pacific.*
+
   2004. James Cook University. 72 pp.
+
   - Calumpong, H. P. & Menez, E. G., 1997.
+
   *Field Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*
+
   . Bookmark, Inc., the Philippines. 197 pp.
+
   - Hsuan Keng, S.C. Chin and H. T. W. Tan.1998,
+
   *The Concise Flora of Singapore II: Monoctyledons*
+
   Singapore University Press. 215 pp.
+
+  '
 location:
 - chg
 - cj

@@ -1,11 +1,9 @@
 ---
 title: Feathery filefish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: feathery, filefish, file, fish, chaetodoerma, penicilligera, 
-  chaetodermis, penicilligerus, leather, jacket, monacanthidae, field, guide, 
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: feathery, filefish, file, fish, chaetodoerma, penicilligera, chaetodermis,
+  penicilligerus, leather, jacket, monacanthidae, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 7
@@ -26,73 +24,76 @@ superorder: Acanthomorpha
 order: Tetraodontiformes
 suborder: Balistoidei
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/penicilligerus/050511cftd3265m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/penicilligerus/050511cftd3265m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/penicilligerus/050511cftd3265m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/penicilligerus/050511cftd3265m3.jpg
     caption: Only a little bigger than a seagrass leaf. Changi, May 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/penicilligerus/060809skdd5511.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/penicilligerus/060809skdd5511.jpg
     caption: Looks just like seaweed. Pulau Sekudu, Aug 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/penicilligerus/110929tmftd1516m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/penicilligerus/110929tmftd1516m3.jpg
     caption: Three fishes together resembling flotsam. Tanah Merah, Sep 11
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/penicilligerus/090918tmd1029m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/penicilligerus/090918tmd1029m6l.jpg
     caption: Tanah Merah, Sep 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/penicilligerus/090918tmd1029m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/penicilligerus/090918tmd1029m3a.jpg
     caption: Tassels even on its dorsal spine.
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/penicilligerus/181125chgmn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/penicilligerus/181125chgmn.jpg
     caption: Changi, Nov 18 Photo shared by Marcus Ng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/penicilligerus/170625bblks5.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/penicilligerus/170625bblks5.jpg
     caption: Beting Bronok, Jun 17 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/penicilligerus/090510sntik2m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/penicilligerus/090510sntik2m3.jpg
     caption: Siloso, May 09 Photo shared by Ivan Kwan on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/penicilligerus/080816bsistch.jpg
-    caption: Big Sisters Island, Aug 08 Photo shared by Toh Chay Hoon on flickr 
-      .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/penicilligerus/080816bsistch.jpg
+    caption: Big Sisters Island, Aug 08 Photo shared by Toh Chay Hoon on flickr .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/penicilligerus/090607tmjk1m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/penicilligerus/090607tmjk1m6l.jpg
     caption: Tanah Merah, Jun 09 Photo shared by James Koh on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/penicilligerus/090627tmjk2m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/penicilligerus/090627tmjk2m3.jpg
     caption: Tanah Merah, Jun 09 Photo shared by James Koh on his blog .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/penicilligerus/110930smkmn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/penicilligerus/110930smkmn.jpg
     caption: Pulau Semakau, Sep 11 Photo shared by Marcus Ng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/penicilligerus/100627hntlks5m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/penicilligerus/100627hntlks5m6l.jpg
     caption: Pulau Hantu, Jun 10 Photo shared by Loh Kok Sheng on his blog .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Prickly leatherjacket (
+
   *Chaetodermis penicilligerus*
+
   )](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=7975)
+
   from
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheet.
-  - [Volume 6: Bony fishes part 4 (Labridae to Latimeriidae), estuarine crocodiles, sea turtles, sea snakes and marine mammals](http://www.fao.org/docrep/009/y0870e/y0870e00)
-  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
+
+  - [Volume 6: Bony fishes part 4 (Labridae to Latimeriidae), estuarine crocodiles,
+  sea turtles, sea snakes and marine mammals](http://www.fao.org/docrep/009/y0870e/y0870e00)
+
+  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources
+  of the Western Central Pacific.
+
 
   **References**
+
   - Allen, Gerry, 2000.
+
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
+
   . Periplus Editions. 292 pp.
+
   - Lieske, Ewald and Robert Myers. 2001.
+
   *Coral Reef Fishes of the World*
+
   Periplus Editions. 400pp.
+
+  '
 location:
 - chg
 - skd
@@ -107,6 +108,10 @@ location:
 - hnt
 - smk
 - tsm
+size:
+- 31.0
+- 8.0
+- 10.0
 ---
 
 ## Where seen?

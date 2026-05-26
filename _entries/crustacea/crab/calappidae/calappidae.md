@@ -1,10 +1,9 @@
 ---
 title: Box crabs
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: spotted, box, crab, calappa, philargius, calappidae, decapod, 
-  crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: spotted, box, crab, calappa, philargius, calappidae, decapod, crustacea,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Calappidae
 genus: ''
@@ -26,25 +25,19 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Calappoidea
 updated: Dec 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1243m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1243m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1243m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1243m3.jpg
     caption: Pulau Hantu, Apr 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1255m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1255m3.jpg
     caption: Underside
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1255m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1255m3b.jpg
     caption: Two different kinds of pincers.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1243m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1243m3.jpg
     caption: Reef box crab
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/060529cftd2530m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/060529cftd2530m3.jpg
     caption: Spotted box crab
 location:
 - tm
@@ -52,6 +45,9 @@ location:
 - sis
 - cyr
 - hnt
+size:
+- 8.0
+- 10.0
 ---
 
 ## Where seen?

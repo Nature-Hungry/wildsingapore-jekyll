@@ -1,10 +1,9 @@
 ---
 title: Smooth-eyed ghost crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: horn, eyed, ghost, crab, ocypode, cordimanus, ocypodidae, decapod, 
-  crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: horn, eyed, ghost, crab, ocypode, cordimanus, ocypodidae, decapod, crustacea,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 attributes:
 - 38
@@ -32,52 +31,71 @@ zoosubsection: Thoracotremata
 superfamily: Ocypodoidea
 subfamily: Ocypodinae
 updated: Dec 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/cordimanus/110903sntd1076m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/cordimanus/110903sntd1076m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/cordimanus/110903sntd1076m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/cordimanus/110903sntd1076m3.jpg
     caption: Sentosa, Sep 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/cordimanus/110903sntd1076m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/cordimanus/110903sntd1076m3b.jpg
     caption: Eyes without 'horns'.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/cordimanus/110903sntd1078m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/cordimanus/110903sntd1078m3.jpg
     caption: Back without dark marks.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/cordimanus/110903sntd1086m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/cordimanus/110903sntd1086m3.jpg
     caption: Lacks ridges on inner palm.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/cordimanus/110903sntd1076m3c.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/cordimanus/110903sntd1076m3c.jpg
     caption: ''
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Ghost Crab (
+
   *Ocypoda*
+
   sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/191)
+
   with brief details on
+
   *Ocypode ceratophthalmus*
+
   and
+
   *Ocypode cordimana*
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
+
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+
   . The Singapore Science Centre, Singapore. 160 pp.
+
   - [*Ocypode cordimanus*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1757)
+
   Crabs of Japan, on Marine Species Identification Portal: Technical fact sheet.
+
   - [*Ocypode cordimanus*](http://www.sealifebase.org/summary/speciessummary.php?id=92211)
+
   on SeaLife Base: Technical fact sheet.
 
+
   **References**
+
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
-  *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs of the world*
+
+  *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs
+  of the world*
+
   . The Raffles Bulletin of Zoology. Supplement No. 17, 31 Jan 2008. 286 pp.
+
   - Jones Diana S. and Gary J. Morgan, 2002.
+
   *A Field Guide to Crustaceans of Australian Waters*
+
   . Reed New Holland. 224 pp.
+
+  '
 location:
 - snt
+size:
+- 5.0
 ---
 
 ## Where seen?

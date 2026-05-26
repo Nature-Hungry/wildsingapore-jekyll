@@ -1,10 +1,9 @@
 ---
 title: 'Bobtail squids '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: bobtail, bob, tail, bottletail, bottle, squid, sepiolidae, 
-  sepiadariidae, cephalopod, mollusc, field, guide, seashore, sea, shore, 
-  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: bobtail, bob, tail, bottletail, bottle, squid, sepiolidae, sepiadariidae,
+  cephalopod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Sepiolidae
 genus: ''
@@ -20,107 +19,116 @@ superorder: Decapodiformes
 order: Sepiolida
 superfamily: Sepioloidea
 updated: May 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/050622cftd4092m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/050622cftd4092m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/050622cftd4092m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/050622cftd4092m3.jpg
     caption: Changi, Jun 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/050622cftd4092m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/050622cftd4092m3a.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/050622cftd4090m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/050622cftd4090m3a.jpg
     caption: Pair of rounded fins.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/071126chgd7631m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/071126chgd7631m3.jpg
     caption: Changi, Nov 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/071126chgd7634m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/071126chgd7634m3.jpg
     caption: Changi, Nov 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/071126chgd7635m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/071126chgd7635m3.jpg
     caption: Changi, Nov 07
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/081107prplck02m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/081107prplck02m3.jpg
     caption: Pasir Ris Park, Nov 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/081107prplck03m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/081107prplck03m3.jpg
     caption: Photo shared by Loh Kok Sheng on his blog .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/030608cjd0095m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/030608cjd0095m3.jpg
     caption: Chek Jawa, Jun 03
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/170530chg1mn1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/170530chg1mn1.jpg
     caption: Changi, May 17 Photo shared by Marcus Ng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/050622chgg8185m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/050622chgg8185m3.jpg
     caption: Changi, Jun 05
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/170625bbtch1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/170625bbtch1.jpg
     caption: Beting Bronok, Jun 17 Photo shared by Toh Chay Hoon on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/180616bblks7.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/180616bblks7.jpg
     caption: Beting Bronok, Jun 18 Photo shared by Loh Kok Sheng on facebook .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/170626skdtch2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/170626skdtch2.jpg
     caption: Pulau Sekudu, Jun 17 Photo shared by Toh Chay Hoon on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/200819ecptch6.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/200819ecptch6.jpg
     caption: East Coast Park, Aug 20 Photo shared by Toh Chay Hoon on facebook .
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/180812nsrtlks11.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/180812nsrtlks11.jpg
     caption: East Coast Park, Aug 18 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/180812nsrtlks11a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/180812nsrtlks11a.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/180812nsrtlks11b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/180812nsrtlks11b.jpg
     caption: ''
   gallery8:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/090818tmjk2m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/090818tmjk2m3.jpg
     caption: Tanah Merah, Aug 09 Photo shared by James Koh on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/090806tmjk11m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/090806tmjk11m3.jpg
     caption: Tanah Merah, Jul 09 Photo shared by James Koh on his blog .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Family Sepiolidae](http://www.sealifebase.fisheries.ubc.ca/Summary/FamilySummary.php?ID=1899)
+
   on SeaLife Base: Technical fact sheets for
+
   [Mimika bobtail squid (
+
   *Euprymna morsei*
+
   )](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=57886)
+
   ,
+
   [Butterfly bobtail (
+
   *Sepiola birostrata*
+
   )](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=57725)
+
   and
+
   *[Sepiola trirostrata](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=57910)*
-  - Family Sepiolidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+
+  - Family Sepiolidae in the Gastropods section by J.M. Poutiers in the FAO Species
+  Identification Guide for Fishery Purposes: The Living Marine Resources of the Western
+  Central Pacific
+
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
+
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
+
   **References**
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Wee Y.C. and Peter K. L. Ng. 1994.
+
   *A First Look at Biodiversity in Singapore*
+
   . National Council on the Environment. 163pp.
+
   - Norman, Mark and Helmut Debelius, 2000.
+
   *Cephalopods: A World Guide*
+
   . ConchBooks, Germany. 319 pp
+
   - Chou, L. M., 1998.
+
   *A Guide to the Coral Reef Life of Singapore*
+
   . Singapore Science Centre. 128 pages.
+
+  '
 location:
 - prp
 - chg
@@ -129,6 +137,9 @@ location:
 - bb
 - tm
 - ecp
+size:
+- 2.0
+- 4.0
 ---
 
 ## Where seen?

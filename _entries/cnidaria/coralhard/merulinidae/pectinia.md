@@ -1,10 +1,9 @@
 ---
 title: Carnation corals
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: carnation, pectinia, pectiniidae, merulinidae, coral, hard, 
-  scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: carnation, pectinia, pectiniidae, merulinidae, coral, hard, scleractinia,
+  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Merulinidae
 genus: ''
@@ -18,113 +17,117 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/111002sisd2144m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/111002sisd2144m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/111002sisd2144m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/111002sisd2144m3.jpg
     caption: Sisters Island, Oct 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/111002sisd2146m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/111002sisd2146m3.jpg
     caption: With long tentacles extended.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/111002sisd2148m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/111002sisd2148m3a.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/040830hntd5781m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/040830hntd5781m3.jpg
     caption: Pulau Hantu, Aug 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/040830hntd5889m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/040830hntd5889m3.jpg
     caption: Pulau Hantu, Aug 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/060714rlhg6527m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/060714rlhg6527m3.jpg
     caption: Raffles Lighthouse, Jul 06
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/120124sisd5983m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/120124sisd5983m3.jpg
     caption: Sister Island, Jan 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/060714rlhg6535m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/060714rlhg6535m3.jpg
     caption: Raffles Lighthouse, Jul 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/100710sisd8062m3c.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/100710sisd8062m3c.jpg
     caption: Sisters Island, Jul 10 With long tentacles extended.
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/150520ecpbslks2m3a.jpg
-    caption: East Coast Park Big Splash, May 15 Photo shared by Loh Kok Sheng on
-      his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/2007024pcnlks7.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/150520ecpbslks2m3a.jpg
+    caption: East Coast Park Big Splash, May 15 Photo shared by Loh Kok Sheng on his
+      blog .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/2007024pcnlks7.jpg
     caption: East Coast PCN, Jul 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/090512tmlks18m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/090512tmlks18m3.jpg
     caption: Tanah Merah, May 09 Photo shared by Loh Kok Sheng on his blog .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/250714srptccn6.jpg
-    caption: Sentosa Serapong, Jul 25 Photo shared by Che Cheng Neo on facebook 
-      .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/110220lazrl1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/250714srptccn6.jpg
+    caption: Sentosa Serapong, Jul 25 Photo shared by Che Cheng Neo on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/110220lazrl1m3.jpg
     caption: Lazarus Island, Feb 11 Photo shared by Russel Low on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/210430sjilks7.jpg
-    caption: St John's Island, Apr 21 Photo shared by Loh Kok Sheng on facbeook 
-      .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/210430sjilks7.jpg
+    caption: St John's Island, Apr 21 Photo shared by Loh Kok Sheng on facbeook .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/100519tsmlks2m3.jpg
-    caption: Terumbu Semakau, May 10 Photo shared by Loh Kok Sheng on his flickr
-      .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/100616tsmmn1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/100519tsmlks2m3.jpg
+    caption: Terumbu Semakau, May 10 Photo shared by Loh Kok Sheng on his flickr .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/100616tsmmn1m3.jpg
     caption: Terumbu Semakau, Jun 10 Photo shared by Marcus Ng on his flickr .
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/100530tbkd4373m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/100530tbkd4373m3.jpg
     caption: Pulau Berkas, May 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/100530tbkd4384m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/100530tbkd4384m3.jpg
     caption: Pulau Berkas, May 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/100530tbkd4383m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/100530tbkd4383m3.jpg
     caption: Bleaching. Pulau Berkas, May 10
   gallery8:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/210428slulks9.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/210428slulks9.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
+
   with species factsheets.
+
   - [IUCN Red List of Threatened Species](https://www.iucnredlist.org/)
+
   with species factsheets.
+
   - [*Pectinia*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Pectinia)
-  on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal: Technical fact sheet.
+
+  on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal:
+  Technical fact sheet.
+
   - *[Pectinia alcicornis](http://www.sealifebase.org/Summary/speciesSummary.php?ID=45576&genusname=Pectinia&speciesname=alcicornis)*
+
   and
+
   *[Pectinia paeonia](http://www.sealifebase.org/Summary/speciesSummary.php?ID=45580&genusname=Pectinia&speciesname=paeonia)*
+
   on SeaLife Base: Technical fact sheets.
 
+
   **References**
+
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
-  *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new records*
+
+  *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new
+  records*
+
   (pdf). Raffles Bulletin of Zoology Supplement No. 22: 69-80.
+
   - Veron, Jen. 2000.
+
   *Corals of the World*
+
   Australian Institute of Marine Science, Australia. 3 volumes.
+
   - Chou, L. M., 1998.
+
   *A Guide to the Coral Reef Life of Singapore*
+
   . Singapore Science Centre. 128 pages.
+
   - Erhardt, Harry and Daniel Knop. 2005.
+
   *Corals: Indo-Pacific Field Guide*
+
   IKAN-Unterwasserachiv, Frankfurt. 305 pp.
+
   - Borneman, Eric H. 2001.
+
   *Aquarium Corals: Selection, Husbandry and Natural History*
+
   T.F. H Publications. 464 pp.
+
+  '
 location:
 - tm
 - ecp
@@ -141,6 +144,9 @@ location:
 - tsm
 - rfl
 - lfa
+size:
+- 10.0
+- 20.0
 ---
 
 ## Where seen?

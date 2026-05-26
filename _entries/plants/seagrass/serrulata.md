@@ -1,10 +1,9 @@
 ---
 title: 'Serrated ribbon seagrass '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: serrated, ribbon, grass, cymodocea, serrulata, cymodoceaceae, 
-  potamogetonaceae, cymodoceaceae, seagrass, grass, field, guide, seashore, sea,
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: serrated, ribbon, grass, cymodocea, serrulata, cymodoceaceae, potamogetonaceae,
+  cymodoceaceae, seagrass, grass, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 95
@@ -12,9 +11,8 @@ englishname: Serrated ribbon seagrass
 family: Cymodoceaceae
 genus: Cymodocea
 species: serrulata
-summary: Narrow and shorter ribbon-like leaves with rounded tips with fine 
-  serrations. Rhizomes thick and smooth. Seen on some of our Southern reefs and 
-  shores.
+summary: Narrow and shorter ribbon-like leaves with rounded tips with fine serrations.
+  Rhizomes thick and smooth. Seen on some of our Southern reefs and shores.
 coverimg: https://live.staticflickr.com/65535/51332275630_0c22a3145b_c.jpg
 inat_id: 904027
 stateofmatter: Life
@@ -28,57 +26,70 @@ rdb: EN
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... This seagrass is rarely 
-      seen on our shores. It doesn't flower frequently, and the flowers are 
-      small. It is eaten by dugongs.
+    caption: if you learn only 3 things about them ... This seagrass is rarely seen
+      on our shores. It doesn't flower frequently, and the flowers are small. It is
+      eaten by dugongs.
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: This seagrass is rarely seen on our shores. It doesn't flower 
-      frequently, and the flowers are small. It is eaten by dugongs.
+    caption: This seagrass is rarely seen on our shores. It doesn't flower frequently,
+      and the flowers are small. It is eaten by dugongs.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seagrass/serrulata/110830cyrd0552m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/serrulata/110830cyrd0552m3a.jpg
     caption: Cyrene Reef, Aug 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seagrass/serrulata/110830cyrd0552m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/serrulata/110830cyrd0552m3b.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seagrass/serrulata/081212cyrd2974m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/serrulata/081212cyrd2974m3a.jpg
     caption: Flattened leaf sheath. Cyrene Reef, Mar 07
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seagrass/serrulata/120624cyrs09444m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/serrulata/120624cyrs09444m6l.jpg
     caption: Sometimes seen with reddish bands. Cyrene, Jun 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seagrass/serrulata/081212cyrd2969m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/serrulata/081212cyrd2969m3.jpg
     caption: Cyrene Reef, Dec 08
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seagrass/serrulata/170908lazjt1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/serrulata/170908lazjt1.jpg
     caption: Seringat Kias, Sep 17 Photo shared by Jonathan Tan.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seagrass/serrulata/170908lazjt2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/serrulata/170908lazjt2.jpg
     caption: ''
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - McKenzie, L.J., Yaakub, S.M., and Yoshida, R.L. (2007).
+
   *[Seagrass-Watch: Guidelines for TeamSeagrass Singapore Participants](http://www.seagrasswatch.org/Training/proceedings/TeamSeagrass_Singapore_workshop_Mar07.pdf)*
-  (PDF). Proceedings of a training workshop, National Parks Board, Biodiversity Centre, Singapore, 24th-25th March 2007 (DPI&F, Cairns). 32pp.
+
+  (PDF). Proceedings of a training workshop, National Parks Board, Biodiversity Centre,
+  Singapore, 24th-25th March 2007 (DPI&F, Cairns). 32pp.
+
   - [Identifying seagrasses](http://www.seagrasswatch.org/id_seagrass.html)
+
   on the Seagrass-Watch website.
 
+
   **References**
+
   - Waycott, Michelle (et. al). 2004.
+
   *A Guide to Tropical Seagrasses of the Indo-West Pacific.*
+
   2004. James Cook University. 72 pp.
+
   - Calumpong, H. P. & Menez, E. G., 1997.
+
   *Field Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*
+
   . Bookmark, Inc., the Philippines. 197 pp.
+
   - Hsuan Keng, S.C. Chin and H. T. W. Tan.1998,
+
   *The Concise Flora of Singapore II: Monoctyledons*
+
   Singapore University Press. 215 pp.
+
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+
   . Nature Society (Singapore). 285 pp.
+
+  '
 location:
 - skd
 - ecp

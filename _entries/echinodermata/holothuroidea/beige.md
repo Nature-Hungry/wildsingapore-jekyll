@@ -1,10 +1,9 @@
 ---
 title: Beige sea cucumber
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: beige, cucumber, seacucumber, holothuria, albiventer, holothuriidae, 
-  holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, 
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: beige, cucumber, seacucumber, holothuria, albiventer, holothuriidae, holothuroidea,
+  echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 0
@@ -27,74 +26,69 @@ subclass: Actinopoda
 order: Holothuriida
 subgenus: Metriatyla
 updated: Apr 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/beige/120705chgd7195m6l.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/beige/120705chgd7195m6l.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/beige/120705chgd7195m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/beige/120705chgd7195m6l.jpg
     caption: Indistinct dark blotches along the body length. Changi, Jul 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/beige/120705chgd7195m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/beige/120705chgd7195m3a.jpg
     caption: Many soft conical projections.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/beige/120705chgd7196m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/beige/120705chgd7196m6l.jpg
     caption: Flattened underside with rows of stubby tube feet.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/beige/120705chgd7196m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/beige/120705chgd7196m3a.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/beige/120705chgd7276m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/beige/120705chgd7276m3a.jpg
     caption: Feeding tentacles. Changi, Jul 12
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/beige/250528chgsafal2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/beige/250528chgsafal2.jpg
     caption: Changi SAF Chalet, May 25 Photo shared by Adriane Lee on facebook
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/beige/251012chgal2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/beige/251012chgal2.jpg
     caption: Changi, Oct 25 Photo shared by Adriane Lee on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/beige/250627bbio4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/beige/250627bbio4.jpg
     caption: Beting Bronok, Jun 25 Photo shared by Isaac Ong on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/beige/170428ecpcnlks7.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/beige/170428ecpcnlks7.jpg
     caption: East Coast PCN, Apr 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/beige/151031ecpmblks.JPG
-    caption: East Coast-Marina Bay, Oct 15 Photo shared by Loh Kok Sheng on 
-      flickr .
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/beige/151031ecpmblks.JPG
+    caption: East Coast-Marina Bay, Oct 15 Photo shared by Loh Kok Sheng on flickr
+      .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/beige/150829laznml1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/beige/150829laznml1m3.jpg
     caption: Seringat-Kias, Aug 15 Photo shared by Neo Mei Lin on her blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/beige/150618tmftlks4m3.jpg
-    caption: Tanah Merah Ferry Terminal, Jun 15 Photo shared by Loh Kok Sheng on
-      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/beige/150618tmftlks4m3.jpg
+    caption: Tanah Merah Ferry Terminal, Jun 15 Photo shared by Loh Kok Sheng on facebook
+      .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/beige/141109lazmn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/beige/141109lazmn.jpg
     caption: Seringat-Kias, Nov 14 Photo shared by Marcus Ng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/beige/171009blycw3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/beige/171009blycw3.jpg
     caption: Berlayar Creek, Nov 17 Photo shared by Chris Wong on facebook .
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/beige/110814smklks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/beige/110814smklks.JPG
     caption: Pulau Semakau, Aug 11 Photo shared by Loh Kok Sheng on flickr .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Holothuria albiventer*](http://www.sealifebase.org/summary/Holothuria-albiventer.html)
+
   on SeaLife Base: Technical fact sheet.
+
   - [*Holothuria albiventer*](http://species-identification.org/species.php?species_group=nasc&id=53)
-  in North Australian Sea Cucumbers on Marine Species Identification Portal: Technical fact sheet.
+
+  in North Australian Sea Cucumbers on Marine Species Identification Portal: Technical
+  fact sheet.
+
 
   **References**
+
   - Ong J. Y. & H. P. S. Wong.
+
   *Sea cucumbers (Echinodermata: Holothuroidea) from the Johor Straits, Singapore*
-  . 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 273-291.
+
+  . 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International
+  Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 273-291.
+
+  '
 location:
 - chg
 - ubn
@@ -108,6 +102,9 @@ location:
 - laz
 - cyr
 - smk
+size:
+- 6.0
+- 12.0
 ---
 
 ## Where seen?

@@ -1,10 +1,9 @@
 ---
 title: Knobbly drill
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: knobbly, drill, morula, muricidae, gastropod, mollusc, snail, shell, 
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: knobbly, drill, morula, muricidae, gastropod, mollusc, snail, shell, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 family: Muricidae
 genus: Morula
@@ -20,18 +19,14 @@ order: Neogastropoda
 superfamily: Muricoidea
 subfamily: Ergalataxinae
 updated: Aug 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/knobbly/081206smkd2440m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/knobbly/081206smkd2440m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/knobbly/081206smkd2440m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/knobbly/081206smkd2440m3.jpg
     caption: Pulau Semakau, Dec 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/knobbly/081206smkd2439m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/knobbly/081206smkd2439m3.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/knobbly/041212kusd8712m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/knobbly/041212kusd8712m3.jpg
     caption: Teeth at narrow shell opening Kusu Island, Dec 04
 location:
 - lab
@@ -41,6 +36,9 @@ location:
 - jng
 - smk
 - rfl
+size:
+- 2.0
+- 3.0
 ---
 
 ## Where seen?

@@ -24,31 +24,50 @@ updated: Oct 2016
 coverimg: http://www.wildsingapore.com/wildfacts/plants/others/dillenia/suffruticosa/101212admd3398m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/others/dillenia/suffruticosa/031115rmbrad0018m3.jpg"
-      caption: "Opened fruit with red seeds. Sungei Buloh Wetland Reserve, Nov 03"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/others/dillenia/suffruticosa/031115rmbrad0082m3a.jpg"
-      caption: "Yellow flower. Sungei Buloh Wetland Reserve, Nov 03"
+  - url: http://www.wildsingapore.com/wildfacts/plants/others/dillenia/suffruticosa/031115rmbrad0018m3.jpg
+    caption: Opened fruit with red seeds. Sungei Buloh Wetland Reserve, Nov 03
+  - url: http://www.wildsingapore.com/wildfacts/plants/others/dillenia/suffruticosa/031115rmbrad0082m3a.jpg
+    caption: Yellow flower. Sungei Buloh Wetland Reserve, Nov 03
   gallery2:
-    - url: "http://www.wildsingapore.com/insecta/pycanum/040207ubnd0027m3.jpg"
-      caption: "Nymph of Giant shield bug ( Pycanum sp) . Pulau Ubin, Feb 04"
-    - url: "http://www.wildsingapore.com/insecta/pycanum/040214ubnd0082m3.jpg"
-      caption: ". Adult Giant shield bug ( Pycanum sp.). Pulau Ubin, Feb 04"
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/insecta/pycanum/040207ubnd0027m3.jpg
+    caption: Nymph of Giant shield bug ( Pycanum sp) . Pulau Ubin, Feb 04
+  - url: http://www.wildsingapore.com/insecta/pycanum/040214ubnd0082m3.jpg
+    caption: . Adult Giant shield bug ( Pycanum sp.). Pulau Ubin, Feb 04
+links_references: '**Links**
+
   - [*Dillenia suffruticosa*](http://floraofsingapore.wordpress.com/2010/08/21/dillenia-suffruticosa/)
+
   on The Total Vascular Flora of Singapore Online: photos and fact sheet.
+
   - [*Dillenia suffruticosa*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2847)
+
   on the NParks Flora and Fauna website: photos and fact sheet.
-  - *[Dillenia suffruticosa](https://singapore.biodiversity.online/taxo4254/mainSpace/Dillenia suffruticosa.html)*
+
+  - *[Dillenia suffruticosa](https://singapore.biodiversity.online/taxo4254/mainSpace/Dillenia
+  suffruticosa.html)*
+
   (Dilleniales: Dilleniaceae) Simpoh Air by Lee Min Jue Vanessa, 2014, on taxo4254.
-  
+
+
   **References**
+
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
+
   *The Concise Flora of Singapore: Gymnosperms and Dicotyledons*
+
   . Singapore University Press. 222 pp.
+
   - Corners, E. J. H., 1997.
+
   *Wayside Trees of Malaya: in two volumes*
-  . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
+
+  . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates
+  1-38; volume 2: 477-861 pp., plates 139-236.
+
+  '
+size:
+- 600.0
+- 700.0
 ---
 
 ## Where seen?

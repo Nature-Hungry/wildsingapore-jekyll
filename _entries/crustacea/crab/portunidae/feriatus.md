@@ -1,10 +1,9 @@
 ---
 title: Crucifix swimming crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: crucifix, swimming, crab, charybdis, feriata, feriatus, portunidae, 
-  decapod, crustrace, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: crucifix, swimming, crab, charybdis, feriata, feriatus, portunidae, decapod,
+  crustrace, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 38
@@ -34,62 +33,89 @@ superfamily: Portunoidea
 subfamily: Thalamitinae
 subgenus: Charybdis
 updated: Dec 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/feriatus/050721cjd5144m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/feriatus/050721cjd5144m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/feriatus/050721cjd5144m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/feriatus/050721cjd5144m3.jpg
     caption: Chek Jawa, Jul 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/feriatus/050721cjd5144m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/feriatus/050721cjd5144m3b.jpg
     caption: 5 spines on the body side, white cross pattern on its back
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/feriatus/111029smkd3158.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/feriatus/111029smkd3158.jpg
     caption: Seen hiding under a Fire anemone . Pulau Semakau, Oct 11
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/feriatus/170402smknhpy.jpg
-    caption: Possibly a juvenile. Pulau Semakau North, Apr 17 Photo shared by 
-      Heng Pei Yan on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/feriatus/240723chgerg1.jpg
-    caption: Hiding under a Pearly anemone . Changi East (Lost Coast), Jul 24 
-      Photo shared by Rachael Goh on facebook .
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/feriatus/170402smknhpy.jpg
+    caption: Possibly a juvenile. Pulau Semakau North, Apr 17 Photo shared by Heng
+      Pei Yan on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/feriatus/240723chgerg1.jpg
+    caption: Hiding under a Pearly anemone . Changi East (Lost Coast), Jul 24 Photo
+      shared by Rachael Goh on facebook .
+links_references: '**Links**
+
   - [Swimming crabs (Family Portunidae)](http://mangrove.nus.edu.sg/pub/seashore/text/201)
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
+
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+
   . The Singapore Science Centre, Singapore. 160 pp.
+
   - [Crucifix crab (
+
   *Charybdis feriatus*
+
   )](http://www.sealifebase.org/summary/Charybdis-feriatus.html)
+
   on
+
   [SeaLifeBase](http://www.sealifebase.org/)
+
   : Technical fact sheet.
+
   - [*Charybdis feriatus*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1120)
+
   on Crabs of Japan in Marine Species Identification Portal: Technical fact sheet.
-  - Family Portunidae in the Crabs section by Peter K. L. Ng in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+
+  - Family Portunidae in the Crabs section by Peter K. L. Ng in the FAO Species Identification
+  Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+
   [Volume 2: Cephalopods, crustaceans, holothurians and sharks](http://www.fao.org/docrep/009/w7192e/w7192e00)
+
   on the Food and Agriculture Organization of the United Nations (FAO) website.
+
   - [Crucifix Crab,
+
   *Charybdis feriatus*
+
   , Spotted In The Straits Of Malacca](http://www.asianscientist.com/in-the-lab/crucifix-crab-charybdis-feriatus-straits-of-malacca-malaysia-092011/)
+
   by Samantha Chan Asian Scientist 27 Sep 2011
 
+
   **References**
+
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
+
   *Rhythm of the Sea: The Life and Times of Labrador Beach.*
-  Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+
+  Division of Biology, School of Science, Nanyang Technological University & Department
+  of Zoology, the National University of Singapore. 160 pp.
+
   - Jones Diana S. and Gary J. Morgan, 2002.
+
   *A Field Guide to Crustaceans of Australian Waters*
+
   . Reed New Holland. 224 pp.
+
+  '
 location:
 - cj
 - ecp
 - smk
 - tsm
+size:
+- 5.0
+- 7.0
+- 20.0
 ---
 
 ## Where seen?

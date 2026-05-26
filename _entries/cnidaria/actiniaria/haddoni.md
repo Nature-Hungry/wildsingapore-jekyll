@@ -1,10 +1,8 @@
 ---
 title: Haddon's carpet anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: haddon's, carpet, anemone, stichodactyla, haddoni, field, guide, 
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: haddon's, carpet, anemone, stichodactyla, haddoni, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 6
@@ -24,163 +22,168 @@ suborder: Enthemonae
 superfamily: Actinioidea
 updated: Dec 2024
 coverimg: https://live.staticflickr.com/65535/48210143757_fd8a06835b_c.jpg
-trivia_title: "if you learn only 3 things about them ..."
-trivia_items: [
-  "Small carpet anemones maybe hidden under seaweed. Don't step on them! ",
-  "You may touch them gently, but please don't poke them. ",
-  "Please don't feed the anemone or 'rescue' any of its prey"
-]
- 
+trivia_title: if you learn only 3 things about them ...
+trivia_items:
+- 'Small carpet anemones maybe hidden under seaweed. Don''t step on them! '
+- 'You may touch them gently, but please don''t poke them. '
+- Please don't feed the anemone or 'rescue' any of its prey
 galleries:
-  
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/050623cjg8256m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/050623cjg8256m3.jpg
     caption: Chek Jawa, Jun 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/050623cjg8256m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/050623cjg8256m3a.jpg
     caption: Verrucae invisible.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/050623cjg8256m3b.jpg
-    caption: Distinctive alternating 'long' and 'short' tentacles at the 
-      circumference.
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/050623cjg8256m3b.jpg
+    caption: Distinctive alternating 'long' and 'short' tentacles at the circumference.
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/070324cyrd9315m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/070324cyrd9315m3.jpg
     caption: Cyrene, Mar 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/070217skdg7655m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/070217skdg7655m3.jpg
     caption: Pulau Sekudu, Feb 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/050623cjd4123m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/050623cjd4123m3.jpg
     caption: Chek Jawa, Jun 05
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddonieat/020228cjd7682m3.jpg
-    caption: Capturing small fishes by folding the oral disk over the prey. Chek
-      Jawa, Feb 02
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/050621skdg8007m3.jpg
-    caption: Tiny anemone shrimps are often found in these anemones. Pulau 
-      Sekudu, Jun 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg
-    caption: Peacock-tail anemone shrimps are often found in these anemones. 
-      Kusu Island, Jul 04
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddonieat/020228cjd7682m3.jpg
+    caption: Capturing small fishes by folding the oral disk over the prey. Chek Jawa,
+      Feb 02
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/050621skdg8007m3.jpg
+    caption: Tiny anemone shrimps are often found in these anemones. Pulau Sekudu,
+      Jun 05
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg
+    caption: Peacock-tail anemone shrimps are often found in these anemones. Kusu
+      Island, Jul 04
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/020225cjd7259m3.jpg
-    caption: Some carpet anemones out on the hot dry sand bar at low tide. Chek 
-      Jawa, Feb 02
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/020225cjd7429m3.jpg
-    caption: They can survive out of water for a short time by shrinking their 
-      oral disk. Chek Jawa, Feb 02
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/030518cjd0312m3.jpg
-    caption: They can also tuck the oral disk into the body column. Chek Jawa, 
-      May 03
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/020225cjd7259m3.jpg
+    caption: Some carpet anemones out on the hot dry sand bar at low tide. Chek Jawa,
+      Feb 02
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/020225cjd7429m3.jpg
+    caption: They can survive out of water for a short time by shrinking their oral
+      disk. Chek Jawa, Feb 02
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/030518cjd0312m3.jpg
+    caption: They can also tuck the oral disk into the body column. Chek Jawa, May
+      03
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/061108cjd6616.jpg
-    caption: An uprooted and upside down anemone which is otherwise healthy. 
-      Chek Jawa, Nov 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/070120cjd7673.jpg
-    caption: Bleaching and ballooning due to prolonged extreme fall in salinity.
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/061108cjd6616.jpg
+    caption: An uprooted and upside down anemone which is otherwise healthy. Chek
+      Jawa, Nov 06
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/070120cjd7673.jpg
+    caption: Bleaching and ballooning due to prolonged extreme fall in salinity. Chek
+      Jawa, Jan 07
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/070120cjd7636.jpg
+    caption: Bleaching and exploded anemone due to prolonged extreme fall in salinity.
       Chek Jawa, Jan 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/070120cjd7636.jpg
-    caption: Bleaching and exploded anemone due to prolonged extreme fall in 
-      salinity. Chek Jawa, Jan 07
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/201020prpalks1.jpg
-    caption: Pasir Ris-Loyang, Oct 20 Photo shared by Loh Kok Sheng on facebook 
-      .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/080507ecplks06m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/201020prpalks1.jpg
+    caption: Pasir Ris-Loyang, Oct 20 Photo shared by Loh Kok Sheng on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/080507ecplks06m3.jpg
     caption: East Coast, May 08 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/210115mevc5.jpg
-    caption: East Coast-Marina Bay, Jan 21 Photo shared by Vincent Choo on 
-      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/210115mevc5.jpg
+    caption: East Coast-Marina Bay, Jan 21 Photo shared by Vincent Choo on facebook
+      .
   gallery8:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/170822lablks7.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/170822lablks7.jpg
     caption: Labrador, Aug 17 Photo shared by Loh Kok Sheng on facebook .
   gallery9:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/260104trmlvo7.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/260104trmlvo7.jpg
     caption: Sentosa Tg Rimau, Jan 26 Photo shared by Lon Voon Ong on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/150706srplks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/150706srplks.JPG
     caption: Sentosa Serapong, Jul 15 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/250714srptt1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/250714srptt1.jpg
     caption: Sentosa Serapong, Jul 25 Photo shared by Tommy Tan on facebook .
   gallery10:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/070902sjilks02m3.jpg
-    caption: St. John's Island, Sep 07 Photo shared by Loh Kok Sheng on his blog
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/070902sjilks02m3.jpg
+    caption: St. John's Island, Sep 07 Photo shared by Loh Kok Sheng on his blog .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/260217bsislks1.jpg
+    caption: Big Sister's Island, Feb 26 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/260217bsislks1.jpg
-    caption: Big Sister's Island, Feb 26 Photo shared by Loh Kok Sheng on 
-      facebook .
   gallery11:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/260201cyrtt2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/260201cyrtt2.jpg
     caption: Cyrene, Feb 26 Photo shared by Tommy Tan on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/110423tpllks4m3.jpg
-    caption: Terumbu Pempang Laut, Apr 11 Photo shared by Loh Kok Sheng on his 
-      blog .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/110423tpllks4m3.jpg
+    caption: Terumbu Pempang Laut, Apr 11 Photo shared by Loh Kok Sheng on his blog
+      .
   gallery12:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/100810snglks2m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/100810snglks2m3.jpg
     caption: Pulau Senang, Aug 10 Photo shared by Loh Kok Sheng on his flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/091204pawd0005m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/091204pawd0005m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/091204pawd5201m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/091204pawd5201m3.jpg
     caption: Pulau Pawai, Dec 09
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Sea anemones (
+
   *Stoichactis*
+
   sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/120)
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
+
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+
   . The Singapore Science Centre, Singapore. 160 pp.
+
   - [*Stichodactyla haddoni*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail.cfm?genus=Stichodactyla&subgenus=&species=haddoni&subspecies=&synseniorid=113)
+
   on the
+
   [Hexacorallians of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/)
-  website by Dr Daphne Fautin with classification, distribution, biological associations and more.
+
+  website by Dr Daphne Fautin with classification, distribution, biological associations
+  and more.
+
   - [*Stichodactyla haddoni*](http://www.nhm.ku.edu/inverts/ebooks/ch1.html#haddoni)
+
   on Fautin, Daphne G. and Gerald R. Allen, 1992.
+
   [Field guide to anemone fishes and their host sea anemones](http://www.nhm.ku.edu/inverts/ebooks/intro.html)
+
   . Western Australian Museum.
+
   - [*Stichodactyla haddoni*](http://www.sealifebase.org/summary/Stichodactyla-haddoni.html)
+
   on SeaLife Base: technical fact sheet
+
   - [*Stichodactyla haddoni*](https://singapore.biodiversity.online/taxo4254/mainSpace/Stichodactyla%20haddoni.html)
-  (Actiniaria: Actiniidae) Haddon's Carpet anemone on Taxo4254.
+
+  (Actiniaria: Actiniidae) Haddon''s Carpet anemone on Taxo4254.
+
 
   **References**
-  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
+
+  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
+  Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H.
+  Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The
+  Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition.
+  National Parks Board. 663 pp.
+
   - Daphne Gail Fautin, S. H. Tan and Ria Tan. 30 Dec 2009.
-  *Sea anemones (Cnidaria: Actiniaria) of Singapore: abundant and well-known shallow-water species*
+
+  *Sea anemones (Cnidaria: Actiniaria) of Singapore: abundant and well-known shallow-water
+  species*
+
   . Raffles Bulletin of Zoology Supplement No. 22: 121-143.
+
   - Chou, L. M., 1998.
+
   *A Guide to the Coral Reef life of Singapore*
+
   . Singapore Science Centre. 128 pages
+
   - Erhardt, Harry and Daniel Knop. 2005.
+
   *Corals: Indo-Pacific Field Guide*
+
   IKAN-Unterwasserachiv, Frankfurt. 305 pp.
+
   - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.
-  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
+
+  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive
+  of the vertebrates*
+
   Sea Challengers. 314pp.
+
+  '
 location:
 - pgl
 - prp
@@ -205,6 +208,11 @@ location:
 - smk
 - tsm
 - lfa
+size:
+- 40.0
+- 50.0
+- 75.0
+- 80.0
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

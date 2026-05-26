@@ -29,15 +29,18 @@ updated: Dec 2019
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/venosa/050723labg0037m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/venosa/050723labg0037m3.jpg"
-      caption: "Labrador, Jul 05"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/venosa/050723labg0037m3a.jpg"
-      caption: ""
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/venosa/050723labg0037m3.jpg
+    caption: Labrador, Jul 05
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/venosa/050723labg0037m3a.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/venosa/050723labg0032m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/venosa/050723labg0032m3a.jpg"
-      caption: ""
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/venosa/050723labg0032m3.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/venosa/050723labg0032m3a.jpg
+    caption: ''
+size:
+- 1.0
+- 2.0
 ---
 
 ## Where seen?

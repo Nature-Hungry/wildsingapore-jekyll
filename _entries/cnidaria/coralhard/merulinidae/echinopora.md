@@ -1,10 +1,9 @@
 ---
 title: 'Hedgehog corals '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: hedgehog, echinopora, faviidae, merulinidae, coral, hard, 
-  scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: hedgehog, echinopora, faviidae, merulinidae, coral, hard, scleractinia,
+  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Merulinidae
 genus: Echinopora
@@ -18,84 +17,102 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/060714rlhg6515m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/060714rlhg6515m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/060714rlhg6515m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/060714rlhg6515m3.jpg
     caption: Raffles Lighthouse, Jul 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/060714rlhg6522m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/060714rlhg6522m3.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/060714rlhg6522m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/060714rlhg6522m3a.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/060714rlhg6514m3d.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/060714rlhg6514m3d.jpg
     caption: Raffles Lighthouse, Jul 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/040507rflbd0129m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/040507rflbd0129m3.jpg
     caption: Raffles Lighthouse, May 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/080803smkd8999m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/080803smkd8999m3.jpg
     caption: Pulau Semakau, Aug 08
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/220618tmftlks14.jpg
-    caption: Tanah Merah Ferry Terminal, Jun 22 . Photo shared by Loh Kok Sheng 
-      on facebook
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/220618tmftlks14a.jpg
-    caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on
-      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/220618tmftlks14.jpg
+    caption: Tanah Merah Ferry Terminal, Jun 22 . Photo shared by Loh Kok Sheng on
+      facebook
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/220618tmftlks14a.jpg
+    caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on facebook
+      .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/140518tmlks6m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/140518tmlks6m3.jpg
     caption: Tanah Merah, May 14 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/220618tmftlks24.jpg
-    caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on
-      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/220618tmftlks24.jpg
+    caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on facebook
+      .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/090919sislks2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/090919sislks2.jpg
     caption: Sisters Island, Sep 09 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/230806tbrk1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/230806tbrk1.jpg
     caption: Terumbu Bemban, Aug 23 Photo shared by Richard Kuah on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
+
   with species factsheets.
+
   - [IUCN Red List of Threatened Species](https://www.iucnredlist.org/)
+
   with species factsheets.
+
   - *[Echinopora](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Echinopora)*
-  on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal: Technical fact sheet.
+
+  on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal:
+  Technical fact sheet.
+
   - *[Echinopora gemmacea](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46697)
+
   ,*
+
   *[Echinopora lamellosa](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46701)*
+
   and
+
   *[Echinopora pacificus](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46704)*
+
   on SeaLife Base: Technical fact sheet.
 
+
   **References**
+
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
-  *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new records*
+
+  *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new
+  records*
+
   (pdf). Raffles Bulletin of Zoology Supplement No. 22: 69-80.
+
   - Veron, Jen. 2000.
+
   *Corals of the World*
+
   Australian Institute of Marine Science, Australia. 3 volumes.
+
   - Chou, L. M., 1998.
+
   *A Guide to the Coral Reef Life of Singapore*
+
   . Singapore Science Centre. 128 pages.
+
   - Erhardt, Harry and Daniel Knop. 2005.
+
   *Corals: Indo-Pacific Field Guide*
+
   IKAN-Unterwasserachiv, Frankfurt. 305 pp.
+
   - Borneman, Eric H. 2001.
+
   *Aquarium Corals: Selection, Husbandry and Natural History*
+
   T.F. H Publications. 464 pp
+
+  '
 location:
 - tm
 - kus
@@ -104,6 +121,9 @@ location:
 - smk
 - tsm
 - rfl
+size:
+- 20.0
+- 30.0
 ---
 
 ## Where seen?

@@ -1,10 +1,9 @@
 ---
 title: Watering pot shell
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: waterspout, watering, pot, shell,  clam, verpa, brechites, penis, 
-  clavagellidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, 
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: waterspout, watering, pot, shell,  clam, verpa, brechites, penis, clavagellidae,
+  bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Clavagellidae
 genus: Verpa
@@ -21,95 +20,104 @@ subterclass: Euheterodonta
 superorder: Anomalodesmata
 superfamily: Clavagelloidea
 updated: Jan 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae/brechites/110520chgd2571m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae/brechites/110520chgd2571m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae/brechites/110520chgd2571m3.jpg
-    caption: Tiny oval shapes are the remains of the two-part shell of this 
-      bivalve.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae/brechites/110520chgd2571m3.jpg
-    caption: Tiny oval shapes are the remains of the two-part shell of this 
-      bivalve.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae/brechites/110520chgd2571m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae/brechites/110520chgd2571m3.jpg
+    caption: Tiny oval shapes are the remains of the two-part shell of this bivalve.
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae/brechites/110520chgd2571m3.jpg
+    caption: Tiny oval shapes are the remains of the two-part shell of this bivalve.
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae/brechites/110520chgd2571m6l.jpg
     caption: Changi, May 11
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae/brechites/110520chgjk3m3.jpg
-    caption: How it is normally buried. Changi, May 11 Photo shared by James Koh
-      on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae/brechites/110803chgd8474m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae/brechites/110520chgjk3m3.jpg
+    caption: How it is normally buried. Changi, May 11 Photo shared by James Koh on
+      his blog .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae/brechites/110803chgd8474m3.jpg
     caption: Changi, Aug 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae/brechites/100516skdlks1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae/brechites/100516skdlks1m3.jpg
     caption: Pulau Sekudu, May 10 Photo shared by Loh Kok Sheng on his blog .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae/brechites/230605chg7lks5.jpg
-    caption: Changi Carpark 7, Jun 23 Photo shared by Loh Kok Sheng on facebook 
-      .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae/brechites/230220cjrk1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae/brechites/230605chg7lks5.jpg
+    caption: Changi Carpark 7, Jun 23 Photo shared by Loh Kok Sheng on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae/brechites/230220cjrk1.jpg
     caption: Chek Jawa, Jan 23 Photo shared by Richard Kuah on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae/brechites/230605chg7lks5.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae/brechites/230605chg7lks5.jpg
     caption: Chek Jawa, Dec 25 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae/brechites/140616bbmn2m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae/brechites/140616bbmn2m3.jpg
     caption: Beting Bronok, Jun 14 Photo shared by Marcus Ng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae/brechites/191214cjll1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae/brechites/191214cjll1.jpg
     caption: Chek Jawa, Dec 19 Photo shared by Liz Lim on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae/brechites/160110cjlks.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae/brechites/160110cjlks.jpg
     caption: Chek Jawa, Jan 16 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae/brechites/180812nsrtlks4.jpg
-    caption: East Coast Park, Aug 18 Photo shared by Loh Kok Sheng g on facebook
-      .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae/brechites/230220cjrk1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae/brechites/180812nsrtlks4.jpg
+    caption: East Coast Park, Aug 18 Photo shared by Loh Kok Sheng g on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae/brechites/230220cjrk1.jpg
     caption: Chek Jawa, Jan 23 Photo shared by Richard Kuah on facebook .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae/brechites/220911cyrjk1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae/brechites/220911cyrjk1.jpg
     caption: Cyrene Reef, Sep 22 Photo shared by James Koh on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Waterspout or watering pot shell (
+
   *Brechites penis*
+
   )](http://mangrove.nus.edu.sg/pub/seashore/text/163)
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
+
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/t)*
+
   . The Singapore Science Centre, Singapore. 160 pp.
+
   - [Waterspout or Watering pot shell (
+
   *Brechites penis*
+
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=211)
+
   on the NParks Flora and Fauna website.
+
   - [Waterspout shell (
+
   *Brechites penis*
+
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=139335&genusname=Brechites&speciesname=penis)
+
   on SeaLife Base: Technical fact sheet.
 
+
   **References**
+
   - Tan, S. K., S. H. Tan & M. E. Y. Low, 2011.
-  *A reassessment of Verpa penis (Linnaeus, 1758) (Mollusca: Bivalvia: Clavagelloidea), a species presumed nationally extinct*
+
+  *A reassessment of Verpa penis (Linnaeus, 1758) (Mollusca: Bivalvia: Clavagelloidea),
+  a species presumed nationally extinct*
+
   . Nature in Singapore, 4: 5-8.
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Tan, K. S. & L. M. Chou, 2000.
+
   *A Guide to the Common Seashells of Singapore*
+
   . Singapore Science Centre. 160 pp.
+
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+
   . Nature Society (Singapore). 285 pp.
+
+  '
 location:
 - chg
 - cj
@@ -117,6 +125,8 @@ location:
 - bb
 - ecp
 - cyr
+size:
+- 12.0
 ---
 
 ## Where seen?

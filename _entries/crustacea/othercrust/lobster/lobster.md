@@ -24,15 +24,15 @@ updated: Mar 2020
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/palinuridae/090623d4995m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/palinuridae/090623d4995m6l.jpg"
-      caption: Lobster
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/011114cjd689m3.jpg"
-      caption: Mud lobster
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/palinuridae/090623d4995m6l.jpg
+    caption: Lobster
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/011114cjd689m3.jpg
+    caption: Mud lobster
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/glypturus/040521sntbd0050m3.jpg"
-      caption: Coral ghost shrimp
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/110401mndd8415m6lb.jpg"
-      caption: Mud shrimp
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/glypturus/040521sntbd0050m3.jpg
+    caption: Coral ghost shrimp
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/110401mndd8415m6lb.jpg
+    caption: Mud shrimp
 ---
 
 ## Where seen?

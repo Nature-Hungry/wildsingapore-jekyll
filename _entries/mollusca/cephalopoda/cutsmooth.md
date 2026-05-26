@@ -1,10 +1,8 @@
 ---
 title: Smooth cuttlefish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: spot, edged, cuttlefish, sepiidae, cephalopod, mollusc, field, guide, 
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: spot, edged, cuttlefish, sepiidae, cephalopod, mollusc, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Sepiidae
 genus: ''
@@ -21,25 +19,19 @@ order: Sepiida
 suborder: Sepiina
 superfamily: Sepioidea
 updated: May 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutsmooth/030518cjd0026m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutsmooth/030518cjd0026m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutsmooth/030518cjd0026m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutsmooth/030518cjd0026m3.jpg
     caption: Chek Jawa, May 03
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutsmooth/110418tmftd9109m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutsmooth/110418tmftd9109m3.jpg
     caption: Tanah Merah, Apr 11
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutsmooth/100302ecplks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutsmooth/100302ecplks.JPG
     caption: East Coast Park, Mar 10 Photo shared by Loh Kok Sheng on flickr .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutsmooth/120511tpljk2m3.jpg
-    caption: Terumbu Pempang Laut, May 12 Photo shared by James Koh on his blog 
-      .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutsmooth/120511tpljk2m3.jpg
+    caption: Terumbu Pempang Laut, May 12 Photo shared by James Koh on his blog .
 location:
 - sbw
 - chg
@@ -48,6 +40,9 @@ location:
 - ecp
 - hnt
 - tpg
+size:
+- 8.0
+- 13.0
 ---
 
 ## Where seen?

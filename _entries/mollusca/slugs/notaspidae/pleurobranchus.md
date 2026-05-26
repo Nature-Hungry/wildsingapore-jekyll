@@ -1,10 +1,9 @@
 ---
 title: Forskal's sidegill slug
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: side, gill, sidegill, notaspidea, pleurobranchus, forskalii, slug, 
-  seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, 
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: side, gill, sidegill, notaspidea, pleurobranchus, forskalii, slug, seaslug,
+  opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Pleurobranchidae
 genus: Pleurobranchus
@@ -22,32 +21,24 @@ superorder: Nudipleura
 order: Pleurobranchida
 superfamily: Pleurobranchoidea
 updated: May 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/090606tmftd3261m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/090606tmftd3261m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/090606tmftd3261m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/090606tmftd3261m3.jpg
     caption: Tanah Merah, Jun 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/090606tmftd3261m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/090606tmftd3261m3a.jpg
     caption: Pair of tubular rhinophores.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/110715cyrd6551m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/110715cyrd6551m3.jpg
     caption: GIlls on the side. Cyrene Reef, Jul 11
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/110715cyrd6685m6l.jpg
-    caption: Many were seen in areas thick with Green gum drop ascidians . 
-      Cyrene Reef, Jul 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/110715cyrd6515m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/110715cyrd6685m6l.jpg
+    caption: Many were seen in areas thick with Green gum drop ascidians . Cyrene
+      Reef, Jul 11
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/110715cyrd6515m3.jpg
     caption: Laying egg ribbons. Cyrene Reef, Jul 11
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/230423cyrlks4.jpg
-    caption: Mating?! Cyrene Reef, Apr 23 Photo shared by Loh Kok Sheng on 
-      facebook
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/230423cyrlks4.jpg
+    caption: Mating?! Cyrene Reef, Apr 23 Photo shared by Loh Kok Sheng on facebook
   gallery4:
   - url: https://live.staticflickr.com/5810/23358180213_0b69705a41_z.jpg
     caption: ''
@@ -55,72 +46,89 @@ galleries:
   - url: https://live.staticflickr.com/1574/23902526511_729a3745ff_z.jpg
     caption: ''
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/171204chglks1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/171204chglks1.jpg
     caption: Changi, Dec 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/230608tmftlks7.jpg
-    caption: Tanah Merah Ferry Terminal, Jun 23 Photo shared by Loh Kok Sheng on
-      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/230608tmftlks7.jpg
+    caption: Tanah Merah Ferry Terminal, Jun 23 Photo shared by Loh Kok Sheng on facebook
+      .
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/080410cyrtsj1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/080410cyrtsj1m3.jpg
     caption: Cyrene Reef, Oct 08 Photo shared by Tan Sijie on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/071101cyrlks1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/071101cyrlks1m3.jpg
     caption: Cyrene Reef, Nov 07 Photo shared by Loh Kok Sheng on his blog .
   gallery8:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/110814smklks6m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/110814smklks6m3.jpg
     caption: Pulau Semakau, Aug 11 Photo shared by Lok Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/160124smkelks.jpg
-    caption: Pulau Semakau East, Jan 16 Photo shared by Loh Kok Sheng on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/180421smkslks.jpg
-    caption: Pulau Semakau South, Apr 18 Photo shared by Loh Kok Sheng on 
-      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/160124smkelks.jpg
+    caption: Pulau Semakau East, Jan 16 Photo shared by Loh Kok Sheng on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/180421smkslks.jpg
+    caption: Pulau Semakau South, Apr 18 Photo shared by Loh Kok Sheng on facebook
+      .
   gallery9:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/2007025smknlks4.jpg
-    caption: Pulau Semakau North, Jul 20 Photo shared by Loh Kok Sheng on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/170311bbbrk.jpg
-    caption: Beting Bemban Besar, Mar 17 Photo shared by Richard Kuah on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/100130brklks18m3.jpg
-    caption: Terumbu Berkas Besar, Jan 10 Photo shared by Loh Kok Sheng on his 
-      flickr .
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/2007025smknlks4.jpg
+    caption: Pulau Semakau North, Jul 20 Photo shared by Loh Kok Sheng on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/170311bbbrk.jpg
+    caption: Beting Bemban Besar, Mar 17 Photo shared by Richard Kuah on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/100130brklks18m3.jpg
+    caption: Terumbu Berkas Besar, Jan 10 Photo shared by Loh Kok Sheng on his flickr
+      .
+links_references: '**Links**
+
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
+
   by Dr Bill Rudman: including descriptions and photos of
+
   [*Pleurobranchus forskalii*](http://www.seaslugforum.net/factsheet.cfm?base=pleufors)
+
   - [*Pleurobranchus forskalii*](https://singapore.biodiversity.online/taxo4254/mainSpace/Forskal%27s%20side-gilled%20slug%20%28Pleurobranchus%20forskalii%29.html)
-  (Pleurobranchomorpha: Pleurobranchidae) Forskal's side-gilled slug by Woo Pui Min Henrietta, 2012 on taxo4254.
+
+  (Pleurobranchomorpha: Pleurobranchidae) Forskal''s side-gilled slug by Woo Pui Min
+  Henrietta, 2012 on taxo4254.
+
 
   **References**
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Debelius, Helmut, 2001.
+
   *Nudibranchs and Sea Snails: Indo-Pacific Field Guide*
+
   IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+
   - Coleman, Neville. 2001.
+
   *1001 Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*
+
   . Neville Colemanis Underwater Geographic Pty Ltd, Australia.144pp.
+
   - Humann, Paul and Ned Deloach. 2010.
+
   *Reef Creature Identification: Tropical Pacific*
+
   New World Publications. 497pp.
+
   - Kuiter, Rudie H and Helmut Debelius. 2009.
+
   *World Atlas of Marine Fauna*
+
   . IKAN-Unterwasserachiv. 723pp.
+
   - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.
-  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
+
+  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive
+  of the vertebrates*
+
   Sea Challengers. 314pp.
+
+  '
 location:
 - chg
 - tm
@@ -130,6 +138,9 @@ location:
 - smk
 - tsm
 - lfa
+size:
+- 20.0
+- 30.0
 ---
 
 ## Where seen?

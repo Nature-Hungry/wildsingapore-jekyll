@@ -13,23 +13,33 @@ updated: Dec 2020
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/crancrivora/120318prpd7822m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/crancrivora/120318prpd7822m3.jpg"
-      caption: "Pasir Ris Park, Mar 12"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/crancrivora/251200admrqo4.jpg"
-      caption: "Admiralty Park, Dec 25 Photo shared by Rui Quan Oh on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/crancrivora/251231prprqo7.jpg"
-      caption: "Pasir Ris Park, Dec 25 Photo shared by Rui Quan Oh on facebook ."
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/crancrivora/120318prpd7822m3.jpg
+    caption: Pasir Ris Park, Mar 12
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/crancrivora/251200admrqo4.jpg
+    caption: Admiralty Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/crancrivora/251231prprqo7.jpg
+    caption: Pasir Ris Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
+links_references: '**Links**
+
   - [Crab-eating frog](http://www.ecologyasia.com/verts/lizards/green-crested_lizard)
-  on Nick Baker's EcologyAsia website: fact sheet with photos.
+
+  on Nick Baker''s EcologyAsia website: fact sheet with photos.
+
   - [*Fejervarya cancrivora*](https://singapore.biodiversity.online/taxo4254/mainSpace/Fejervarya%20cancrivora.html)
+
   (Anura: Dicroglossidae) Crab-eating Frog on Taxo4254.
-  
+
+
   **References**
+
   - Baker, Nick and Kelvin Lim. 2008.
-  *Wild Animals of Singapore: A Photographic Guide to Mammals, Reptiles, Amphibians and Freshwater Fishes*
+
+  *Wild Animals of Singapore: A Photographic Guide to Mammals, Reptiles, Amphibians
+  and Freshwater Fishes*
+
   Vertebrate Study Group, Nature Society (Singapore). 180 pp..
+
+  '
 ---
 
 ## Where seen?

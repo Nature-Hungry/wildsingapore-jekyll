@@ -1,10 +1,9 @@
 ---
 title: 'Euphyllid corals '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: euphyllia, euphyllidae, caryophyliidae, coral, hard, scleractinia, 
-  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: euphyllia, euphyllidae, caryophyliidae, coral, hard, scleractinia, cnidaria,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Euphylliidae
 genus: ''
@@ -18,54 +17,76 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/100201hntd8975m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/100201hntd8975m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/100201hntd8975m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/100201hntd8975m3.jpg
     caption: Galaxy coral
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/110422tbmd9794m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/110422tbmd9794m3.jpg
     caption: Branching anchor coral
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/060714rlhg0654m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/060714rlhg0654m3.jpg
     caption: Anchor coral
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/051203smkg3165m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/051203smkg3165m3.jpg
     caption: Torch coral
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/050310smkg3182m3c.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/050310smkg3182m3c.jpg
     caption: Frog spawn coral
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
+
   with species factsheets.
+
   - [IUCN Red List of Threatened Species](https://www.iucnredlist.org/)
+
   with species factsheets.
+
   - [Family Euphylliidae](http://species-identification.org/species.php?species_group=corals&id=43&menuentry=groepen)
-  on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal: Technical fact sheet.
+
+  on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal:
+  Technical fact sheet.
+
 
   **References**
+
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
-  *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new records*
+
+  *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new
+  records*
+
   (pdf). Raffles Bulletin of Zoology Supplement No. 22: 69-80.
+
   - Veron, Jen. 2000.
+
   *Corals of the World*
+
   Australian Institute of Marine Science, Australia. 3 volumes.
+
   - Chou, L. M., 1998.
+
   *A Guide to the Coral Reef Life of Singapore*
+
   . Singapore Science Centre. 128 pages.
+
   - Chou Loke Meng. 1989.
+
   *Hard corals of Singapore*
+
   . Reef Ecology Study Team, the National University of Singapore. A set of 4 posters.
+
   - Erhardt, Harry and Daniel Knop. 2005.
+
   *Corals: Indo-Pacific Field Guide*
+
   IKAN-Unterwasserachiv, Frankfurt. 305 pp.
+
   - Borneman, Eric H. 2001.
+
   *Aquarium Corals: Selection, Husbandry and Natural History*
+
   T.F. H Publications. 464 pp
+
+  '
 location:
 - snt
 - kus

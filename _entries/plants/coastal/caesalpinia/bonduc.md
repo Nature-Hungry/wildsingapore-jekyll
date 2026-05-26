@@ -25,50 +25,80 @@ updated: Oct 2016
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/081206smkd2637m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/120219smkd7194m3.jpg"
-      caption: "Pulau Semakau, Feb 12"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/111022smkd2571m6l.jpg"
-      caption: "Pulau Semakau, Oct 11"
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/120219smkd7194m3.jpg
+    caption: Pulau Semakau, Feb 12
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/111022smkd2571m6l.jpg
+    caption: Pulau Semakau, Oct 11
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/111022smkd2561m6l.jpg"
-      caption: "Pulau Semakau, Nov 11"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/111022smkd2570m3.jpg"
-      caption: "Pulau Semakau, Nov 11 Developing flowers. Pulau Semakau, Dec 08"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/111022smkd2576m3.jpg"
-      caption: "Pulau Semakau, Nov 11"
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/111022smkd2561m6l.jpg
+    caption: Pulau Semakau, Nov 11
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/111022smkd2570m3.jpg
+    caption: Pulau Semakau, Nov 11 Developing flowers. Pulau Semakau, Dec 08
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/111022smkd2576m3.jpg
+    caption: Pulau Semakau, Nov 11
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/111022smkd2556m3.jpg"
-      caption: "Pulau Semakau, Nov 11"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/081206smkd2638m3.jpg"
-      caption: "Pulau Semakau, Dec 08"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/111022smkd2553m3.jpg"
-      caption: "Pulau Semakau, Nov 11"
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/111022smkd2556m3.jpg
+    caption: Pulau Semakau, Nov 11
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/081206smkd2638m3.jpg
+    caption: Pulau Semakau, Dec 08
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/111022smkd2553m3.jpg
+    caption: Pulau Semakau, Nov 11
+links_references: '**Links**
+
   - *[Barringtonia asiatica](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2744)*
+
   on the NParks Flora and Fauna website: photos and fact sheet.
+
   - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+
   [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
-  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
-  
+
+  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization
+  of the United Nations Regional Office for Asia and the Pacific Bangkok.
+
+
   **References**
-  - Lok, A. F. S. L., W. F. Ang, K. Y. Chong, P. X. Ng, S. Teo, T. K. Yee, C. K. Yeo & H. T. W. Tan, 2011.
+
+  - Lok, A. F. S. L., W. F. Ang, K. Y. Chong, P. X. Ng, S. Teo, T. K. Yee, C. K. Yeo
+  & H. T. W. Tan, 2011.
+
   [The status of
+
   *Caesalpinia bonduc*
+
   (L.) Roxb. in Singapore](http://lkcnhm.nus.edu.sg/nis/bulletin2011/2011nis043-048.pdf)
+
   . Nature in Singapore, 4: 43-48.
+
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
+
   *The Concise Flora of Singapore: Gymnosperms and Dicotyledons*
+
   . Singapore University Press. 222 pp.
+
   - Tomlinson, P. B., 1986.
+
   *The Botany of Mangroves*
+
   Cambridge University Press. USA. 419 pp.
+
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+
   . Nature Society (Singapore). 285 pp.
+
   - Burkill, I. H., 1993.
+
   *A Dictionary of the Economic Products of the Malay Peninsula*
-  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
+
+  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
+  Volume 1: 1-1240; volume 2: 1241-2444.
+
+  '
+size:
+- 500.0
+- 1500.0
 ---
 
 ## Where seen?

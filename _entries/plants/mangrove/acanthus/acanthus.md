@@ -26,64 +26,121 @@ updated: Jan 2013
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/acanthus/acanthus/090125kntd6093m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/acanthus/acanthus/090322krjd8344m3.jpg"
-      caption: "Kranji Canal, Mar 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/acanthus/acanthus/090125kntd6093m3a.jpg"
-      caption: "Kranji Nature Trail, Jan 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/acanthus/acanthus/090816ubind9154m6la.jpg"
-      caption: "Sometimes scrambling up trees. Pulau Ubin, Aug 09"
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/acanthus/acanthus/090322krjd8344m3.jpg
+    caption: Kranji Canal, Mar 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/acanthus/acanthus/090125kntd6093m3a.jpg
+    caption: Kranji Nature Trail, Jan 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/acanthus/acanthus/090816ubind9154m6la.jpg
+    caption: Sometimes scrambling up trees. Pulau Ubin, Aug 09
+links_references: '**Links**
+
   - [Jeruju (
+
   *Acanthus volubilis*
+
   )](http://mangrove.nus.edu.sg/guidebooks/text/1047)
+
   ,
+
   [Jeruju hitam (
+
   *Acanthus ebracteatus*
+
   )](http://mangrove.nus.edu.sg/guidebooks/text/1045)
+
   and
+
   [Jeruju putih (
+
   *Acanthus ilicifolius*
+
   )](http://mangrove.nus.edu.sg/guidebooks/text/1046)
+
   Ng, Peter K. L. & N. Sivasothi, 1999.
+
   *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)
+
   I (Plant Diversity)*
+
   . Singapore Science Centre. 168 pp.
+
   - [Sea Holly (Acanthaceae)](http://mangrove.nus.edu.sg/pub/seashore/text/110)
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
+
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+
   . The Singapore Science Centre, Singapore. 160 pp.
+
   - [*Acanthus ilicifolius*](http://floraofsingapore.wordpress.com/2010/10/03/acanthus-ilicifolius/)
+
   on Total Vascular Flora of Singapore Online: photos and fact sheet.
+
   - [*Acanthus ilicifolius*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3487)
+
   and
+
   *[Acanthus ebracteatus](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=1594)*
+
   and
+
   *[Acanthus volubilis](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=6527)*
+
   on the NParks Flora and Fauna website: photos and fact sheet.
+
   - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+
   [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
-  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
-  
+
+  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization
+  of the United Nations Regional Office for Asia and the Pacific Bangkok.
+
+
   **References**
+
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
+
   *The Concise Flora of Singapore: Gymnosperms and Dicotyledons*
+
   . Singapore University Press. 222 pp.
+
   - Corners, E. J. H., 1997.
+
   *Wayside Trees of Malaya: in two volumes*
-  . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
+
+  . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates
+  1-38; volume 2: 477-861 pp., plates 139-236.
+
   - Tomlinson, P. B., 1986.
+
   *The Botany of Mangroves*
+
   Cambridge University Press. USA. 419 pp.
+
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+
   . Nature Society (Singapore). 285 pp.
+
   - Ng, Peter K. L. and Wang Luan Keng and Kelvin K. P. Lim, 2008.
-  *Private Lives: An Expose of Singapore's Mangroves*
+
+  *Private Lives: An Expose of Singapore''s Mangroves*
+
   . The Raffles Museum of Biodiversity Research . 249 pp.
+
   - Burkill, I. H., 1993.
+
   *A Dictionary of the Economic Products of the Malay Peninsula*
-  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
+
+  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
+  Volume 1: 1-1240; volume 2: 1241-2444.
+
+  '
+size:
+- 50.0
+- 80.0
+- 200.0
 ---
 
 ## Where seen?

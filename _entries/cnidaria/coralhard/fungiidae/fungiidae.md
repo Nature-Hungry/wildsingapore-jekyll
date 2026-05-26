@@ -1,10 +1,9 @@
 ---
 title: 'Mushroom  corals '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: mushroom, fungiidae, coral, hard, scleractinia, cnidaria, field, 
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: mushroom, fungiidae, coral, hard, scleractinia, cnidaria, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Fungiidae
 genus: ''
@@ -18,101 +17,135 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/110730tmftd7666m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/110730tmftd7666m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Most mushroom corals are 
-      not attached to the ground as adults. Most are giant solitary polyps 
-      (although some are colonial). The sandy areas in a reef may have many of 
-      these animals. Watch your step!
+    caption: if you learn only 3 things about them ... Most mushroom corals are not
+      attached to the ground as adults. Most are giant solitary polyps (although some
+      are colonial). The sandy areas in a reef may have many of these animals. Watch
+      your step!
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Most mushroom corals are not attached to the ground as adults. Most
-      are giant solitary polyps (although some are colonial). The sandy areas in
-      a reef may have many of these animals. Watch your step!
+    caption: Most mushroom corals are not attached to the ground as adults. Most are
+      giant solitary polyps (although some are colonial). The sandy areas in a reef
+      may have many of these animals. Watch your step!
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/110730tmftd7666m3.jpg
-    caption: Young mushroom corals start life attached to a hard surface on 
-      stalks. Tanah Merah, Jul 2011
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/110423tpld9895m3.jpg
-    caption: "'Stalk' on underside of dead mushroom coral. Sisters Island, Aug 08"
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/060131sjig4475m3e.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/110730tmftd7666m3.jpg
+    caption: Young mushroom corals start life attached to a hard surface on stalks.
+      Tanah Merah, Jul 2011
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/110423tpld9895m3.jpg
+    caption: '''Stalk'' on underside of dead mushroom coral. Sisters Island, Aug 08'
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/060131sjig4475m3e.jpg
     caption: Underside of a mushroom coral. St. John's Island, Jan 06
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3.jpg
     caption: Circular mushroom coral
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060402ulrd0962m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060402ulrd0962m3.jpg
     caption: Oval mushroom coral
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/040801hntd3805m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/040801hntd3805m3.jpg
     caption: Sunflower mushroom coral often mistaken for a sea anemone.
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/100502tryd2301m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/100502tryd2301m3.jpg
     caption: Mole mushroom coral
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/040606kusg0472m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/040606kusg0472m3.jpg
     caption: Tongue mushroom coral
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/110717tbd7197m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/110717tbd7197m3.jpg
     caption: Feather mushroom coral
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/bracket/110731tryd7884m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/bracket/110731tryd7884m3.jpg
     caption: Bracket mushroom coral
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/070324cyrd9365m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/070324cyrd9365m3.jpg
     caption: Lithophyllon mushroom coral
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
+
   with species factsheets.
+
   - [IUCN Red List of Threatened Species](https://www.iucnredlist.org/)
+
   with species factsheets.
+
   - [Family Fungiidae](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Fungiidae)
-  on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal: Technical factsheet.
+
+  on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal:
+  Technical factsheet.
+
   - [Family Fungiidae](https://www.sealifebase.ca/identification/SpeciesList.php?famcode=1451&areacode=57&c_code=&spines=&fins=&sortby=species)
+
   on SeaLife Base: Technical factsheet.
+
   - [Mushroom coral munches on jellyfish](http://wildshores.blogspot.com/2009/11/mushroom-coral-munches-on-jellyfish.html)
+
   on the wild shores of singapore blog.
 
+
   **References**
+
   - Koh, Esther G. L. and L. M. Chou. 1989.
+
   *The Mushroom Corals of Singapore*
+
   . National University of Singapore. 45pp.
+
   - Hoeksema, Bert W. and Esther G. L. Koh. 30 Dec 2009.
-  *Depauration of the mushroom coral fauna (Fungiidae) of Singapore (1860s-2006) in changing reef conditions*
+
+  *Depauration of the mushroom coral fauna (Fungiidae) of Singapore (1860s-2006) in
+  changing reef conditions*
+
   (pdf). Raffles Bulletin of Zoology Supplement No. 22: 91-101.
+
   - Hoeksama, Bert W. 30 Dec 2009.
-  *Attached mushroom corals (Scleractinia: Fungiidae) in sediment-stressed reef conditions at Singapore, including a new species and a new record.*
+
+  *Attached mushroom corals (Scleractinia: Fungiidae) in sediment-stressed reef conditions
+  at Singapore, including a new species and a new record.*
+
   Raffles Bulletin of Zoology Supplement No. 22: 97-107.
+
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
-  *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new records*
+
+  *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new
+  records*
+
   (pdf). Raffles Bulletin of Zoology Supplement No. 22: 69-80.
+
   - Veron, Jen. 2000.
+
   *Corals of the World*
+
   Australian Institute of Marine Science, Australia. 3 volumes.
+
   - Chou, L. M., 1998.
+
   *A Guide to the Coral Reef Life of Singapore*
+
   . Singapore Science Centre. 128 pages.
+
   - Chou Loke Meng. 1989.
+
   *Hard corals of Singapore*
+
   . Reef Ecology Study Team, the National University of Singapore. A set of 4 posters.
+
   - Erhardt, Harry and Daniel Knop. 2005.
+
   *Corals: Indo-Pacific Field Guide*
+
   IKAN-Unterwasserachiv, Frankfurt. 305 pp.
+
   - Borneman, Eric H. 2001.
+
   *Aquarium Corals: Selection, Husbandry and Natural History*
+
   T.F. H Publications. 464 pp
+
   - Ng, P. K. L. & Y. C. Wee, 1994.
+
   *The Singapore Red Data Book: Threatened Plants and Animals of Singapore*
+
   . The Nature Society (Singapore), Singapore. 343 pp.
+
+  '
 location:
 - tm
 - snt

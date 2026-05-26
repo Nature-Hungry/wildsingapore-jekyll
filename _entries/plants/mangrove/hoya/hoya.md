@@ -26,36 +26,60 @@ updated: Jan 2013
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/hoya/diversifolia/090411lckd9480m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/hoya/diversifolia/110822admd9843m3.jpg"
-      caption: "Admiralty Park, Aug 11 Hoya diversifolia"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/hoya/verticillata/011215cjcpd2329m3.jpg"
-      caption: "Chek Jawa, Dec 01 Hoya verticillata"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/hoya/verticillata/030517cjad0042m6.jpg"
-      caption: "Fruits. Chek Jawa, May 03"
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/hoya/diversifolia/110822admd9843m3.jpg
+    caption: Admiralty Park, Aug 11 Hoya diversifolia
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/hoya/verticillata/011215cjcpd2329m3.jpg
+    caption: Chek Jawa, Dec 01 Hoya verticillata
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/hoya/verticillata/030517cjad0042m6.jpg
+    caption: Fruits. Chek Jawa, May 03
+links_references: '**Links**
+
   - [*Hoya diversifolia*](http://floraofsingapore.wordpress.com/2010/07/25/hoya-diversifolia/)
+
   on Total Vascular Flora of Singapore Online: photos and fact sheet.
+
   - [*Hoya diversifolia*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=1413)
+
   and
+
   [*Hoya verticillata*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=1418)
+
   on the NParks Flora and Fauna website: photos and fact sheet.
+
   - [Heavenly Hoyas An introduction to the species of Singapore and Malaysia](http://habitatnews.nus.edu.sg/pub/naturewatch/text/a094a)
+
   by Leong Lup San, photos by K. F. Yap, on Nature Watch Vol 9 No 4 Oct-Dec 01
+
   - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+
   [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
-  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
-  
+
+  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization
+  of the United Nations Regional Office for Asia and the Pacific Bangkok.
+
+
   **References**
+
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
+
   *The Concise Flora of Singapore: Gymnosperms and Dicotyledons*
+
   . Singapore University Press. 222 pp.
+
   - Tan, Hugh T.W. and T. Morgany. 2001.
+
   *Growing the Native Plants of Singapore*
+
   . BP Science Centre Guidebook. 168pp.
+
   - Burkill, I. H., 1993.
+
   *A Dictionary of the Economic Products of the Malay Peninsula*
-  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
+
+  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
+  Volume 1: 1-1240; volume 2: 1241-2444.
+
+  '
 ---
 
 ## Where seen?

@@ -20,88 +20,111 @@ suborder: Syngnathoidei
 subfamily: Syngnathinae
 updated: Oct 2020
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg
-links_references: |
-  **Links**
-  - [Seahorse
-    (*Hippocampus* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/229) Tan, Leo W. H. & Ng, Peter K. L.,
-    1988. *[A
-    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-    Singapore. 160 pp.
-  - [Spotted
-    Seahorse (*Hippocampus kuda*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/248) Lim, Kelvin K. P. & Jeffrey
-    K. Y. Low, 1998. *[A
-    Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/).* Singapore
-    Science Centre. 163 pp.
-  - [Seahorses](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=305) on NParks Flora and Fauna website.
-  - [Project
-    Seahorse](http://seahorse.fisheries.ubc.ca/): THE website for everything about seahorses. Lots
-    of info on seahorses and details on the threats to them and conservation
-    efforts, including a downloadable ID guide to seahorses.
-  - [Kingdom
-    of the Seahorse](http://www.pbs.org/wgbh/nova/seahorse/) on the Nova Online page of the PBS website:
-    lots of info and photos on seahorses, what they are and threats
-    to their existence.
-  - [What
-    is the social life of a seahorse?](http://www.madsci.org/posts/archives/apr2001/987624645.Zo.rl) on the [Mad
-    Scientist](http://www.madsci.org/) website: Ingrid Dodge explains the fascinating interactions
-    among seahorses.
-  - [On
-    a seahorse, what purpose does the coronet have?](http://www.madsci.org/posts/archives/nov99/942719854.Gb.rl) on the [Mad
-    Scientist](http://www.madsci.org/) website: Ingrid Dodge suggests some reasons for
-    the little crown on the seahorse's head.
-  - [Family
-    Syngnathidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=258) and [Tiger
-    tail seahorse (*Hippocampus comes*)](http://www.fishbase.org/summary/53792) and [Hedgehog
-    seahorse (*Hippocampus spinosissimus*)](http://www.fishbase.org/summary/25974) and [Spotted seahorse (*Hippocampus kuda*)](http://www.fishbase.org/summary/5955) and [Long-nosed
-    seahorse (*Hippocampus trimaculatus*)](http://www.fishbase.org/summary/22816) from [FishBase](http://www.fishbase.org/):
-    Technical fact sheet.
-  - [Papa
-    seahorses prefer Big Mamas](http://wildshores.blogspot.com/2009/07/papa-seahorses-prefer-big-mamasl) on the wild shores of singapore
-    blog.
-  
-  **References**
-  - Kelvin K. P. Lim. 15 November 2013. *New Singapore record of the seahorse, Japanese seahorse, Hippocampus mohnikei*. Singapore Biodiversity Records 2013: 68-69.
-  - Lim, S.,
-    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-    and Times of Labrador Beach*. Division of Biology, School of
-    Science, Nanyang Technological University & Department of Zoology,
-    the National University of Singapore. 160 pp.
-  - Davison,
-    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-    Red Data Book: Threatened plants and animals of Singapore*.
-    Nature Society (Singapore). 285 pp.
-  - Allen, Gerry,
-    2000. *Marine
+links_references: "**Links**\n- [Seahorse\n  (*Hippocampus* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/229)\
+  \ Tan, Leo W. H. & Ng, Peter K. L.,\n  1988. *[A\n  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
+  \ The Singapore Science Centre,\n  Singapore. 160 pp.\n- [Spotted\n  Seahorse (*Hippocampus\
+  \ kuda*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/248) Lim, Kelvin\
+  \ K. P. & Jeffrey\n  K. Y. Low, 1998. *[A\n  Guide to the Common Marine Fishes of\
+  \ Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/).* Singapore\n\
+  \  Science Centre. 163 pp.\n- [Seahorses](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=305)\
+  \ on NParks Flora and Fauna website.\n- [Project\n  Seahorse](http://seahorse.fisheries.ubc.ca/):\
+  \ THE website for everything about seahorses. Lots\n  of info on seahorses and details\
+  \ on the threats to them and conservation\n  efforts, including a downloadable ID\
+  \ guide to seahorses.\n- [Kingdom\n  of the Seahorse](http://www.pbs.org/wgbh/nova/seahorse/)\
+  \ on the Nova Online page of the PBS website:\n  lots of info and photos on seahorses,\
+  \ what they are and threats\n  to their existence.\n- [What\n  is the social life\
+  \ of a seahorse?](http://www.madsci.org/posts/archives/apr2001/987624645.Zo.rl)\
+  \ on the [Mad\n  Scientist](http://www.madsci.org/) website: Ingrid Dodge explains\
+  \ the fascinating interactions\n  among seahorses.\n- [On\n  a seahorse, what purpose\
+  \ does the coronet have?](http://www.madsci.org/posts/archives/nov99/942719854.Gb.rl)\
+  \ on the [Mad\n  Scientist](http://www.madsci.org/) website: Ingrid Dodge suggests\
+  \ some reasons for\n  the little crown on the seahorse's head.\n- [Family\n  Syngnathidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=258)\
+  \ and [Tiger\n  tail seahorse (*Hippocampus comes*)](http://www.fishbase.org/summary/53792)\
+  \ and [Hedgehog\n  seahorse (*Hippocampus spinosissimus*)](http://www.fishbase.org/summary/25974)\
+  \ and [Spotted seahorse (*Hippocampus kuda*)](http://www.fishbase.org/summary/5955)\
+  \ and [Long-nosed\n  seahorse (*Hippocampus trimaculatus*)](http://www.fishbase.org/summary/22816)\
+  \ from [FishBase](http://www.fishbase.org/):\n  Technical fact sheet.\n- [Papa\n\
+  \  seahorses prefer Big Mamas](http://wildshores.blogspot.com/2009/07/papa-seahorses-prefer-big-mamasl)\
+  \ on the wild shores of singapore\n  blog.\n\n**References**\n- Kelvin K. P. Lim.\
+  \ 15 November 2013. *New Singapore record of the seahorse, Japanese seahorse, Hippocampus\
+  \ mohnikei*. Singapore Biodiversity Records 2013: 68-69.\n- Lim, S.,\n  P. Ng, L.\
+  \ Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life\n  and Times of Labrador\
+  \ Beach*. Division of Biology, School of\n  Science, Nanyang Technological University\
+  \ & Department of Zoology,\n  the National University of Singapore. 160 pp.\n- Davison,\n\
+  \  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore\n  Red Data Book:\
+  \ Threatened plants and animals of Singapore*.\n  Nature Society (Singapore). 285\
+  \ pp.\n- Allen, Gerry,\n  2000. *Marine\n"
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: if you learn only 3 things about them ... They are fishes and have bones inside as well as outside The father gets 'pregnant'. They reproduce slowly. They are globally endangered due to overharvesting for the traditional medicine trade.
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: They are fishes and have bones inside as well as outside The father gets 'pregnant'. They reproduce slowly. They are globally endangered due to overharvesting for the traditional medicine trade.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... They are fishes and have bones
+      inside as well as outside The father gets 'pregnant'. They reproduce slowly.
+      They are globally endangered due to overharvesting for the traditional medicine
+      trade.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: They are fishes and have bones inside as well as outside The father gets
+      'pregnant'. They reproduce slowly. They are globally endangered due to overharvesting
+      for the traditional medicine trade.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg"
-      caption: "Often seen in a pair. Tanah Merah, Aug 09"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/050511cftg6328m3d.jpg"
-      caption: "Flexible tail used to hang onto objects. Changi, May 05"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/070702chgd3169m3.jpg"
-      caption: "Mobile eyes can move while the body remains still. Toothless jaws used like a straw. Changi, Jul 07"
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg
+    caption: Often seen in a pair. Tanah Merah, Aug 09
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/050511cftg6328m3d.jpg
+    caption: Flexible tail used to hang onto objects. Changi, May 05
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/070702chgd3169m3.jpg
+    caption: Mobile eyes can move while the body remains still. Toothless jaws used
+      like a straw. Changi, Jul 07
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/080702prpd6420m3.jpg"
-      caption: "Pregnant papa Pasir Ris Park, Jul 08"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/110519chgd2195m3.jpg"
-      caption: "Very pregnant papa . Changi, May 11"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/120312siss04823m3.jpg"
-      caption: "Very pregnant papa. Sisters Island, Mar 12"
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/080702prpd6420m3.jpg
+    caption: Pregnant papa Pasir Ris Park, Jul 08
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/110519chgd2195m3.jpg
+    caption: Very pregnant papa . Changi, May 11
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/120312siss04823m3.jpg
+    caption: Very pregnant papa. Sisters Island, Mar 12
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/050511cftg6328m3.jpg"
-      caption: Estuarine seahorses body and tail the same colour
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/031226chgd0026m3.jpg"
-      caption: Estuarine seahorses 'hairy' and usually small
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/050625labg8740m3.jpg"
-      caption: Tiger-tailed seahorses tail is banded yellow and black
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/050511cftg6328m3.jpg
+    caption: Estuarine seahorses body and tail the same colour
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/031226chgd0026m3.jpg
+    caption: Estuarine seahorses 'hairy' and usually small
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/050625labg8740m3.jpg
+    caption: Tiger-tailed seahorses tail is banded yellow and black
   gallery5:
-    - url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
-      caption: "Links Seahorse ( Hippocampus sp.) Tan, Leo W. H. & Ng, Peter K. L., 1988. A Guide to Seashore Life . The Singapore Science Centre, Singapore. 160 pp. Spotted Seahorse ( Hippocampus kuda ) Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998. A Guide to the Common Marine Fishes of Singapore . Singapore Science Centre. 163 pp. Seahorses on NParks Flora and Fauna website. Project Seahorse : THE website for everything about seahorses. Lots of info on seahorses and details on the threats to them and conservation efforts, including a downloadable ID guide to seahorses. Kingdom of the Seahorse on the Nova Online page of the PBS website: lots of info and photos on seahorses, what they are and threats to their existence. What is the social life of a seahorse? on the Mad Scientist website: Ingrid Dodge explains the fascinating interactions among seahorses. On a seahorse, what purpose does the coronet have? on the Mad Scientist website: Ingrid Dodge suggests some reasons for the little crown on the seahorse's head. Family Syngnathidae and Tiger tail seahorse ( Hippocampus comes ) and Hedgehog seahorse ( Hippocampus spinosissimus ) and Spotted seahorse ( Hippocampus kuda ) and Long-nosed seahorse ( Hippocampus trimaculatus ) from FishBase : Technical fact sheet. Papa seahorses prefer Big Mamas on the wild shores of singapore blog. References Kelvin K. P. Lim. 15 November 2013. New Singapore record of the seahorse, Japanese seahorse, Hippocampus mohnikei . Singapore Biodiversity Records 2013: 68-69. Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994. Rhythm of the Sea: The Life and Times of Labrador Beach . Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp. Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red Data Book: Threatened plants and animals of Singapore . Nature Society (Singapore). 285 pp. Allen, Gerry, 2000. Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers . Periplus Editions. 292 pp. Kuiter, Rudie H. 2002. Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers & Fishermen New Holland Publishers. 434pp. Lieske, Ewald and Robert Myers. 2001. Coral Reef Fishes of the World Periplus Editions. 400pp. Kuiter, Rudie H., 2000 (English edition). Seahorses, Pipefishes and their Relatives: A Comprehensive Guide to Syngnathiformes TMC Publishing, UK. 240 pp. Sparks, John, 1999. Battle of the Sexes in the Animal World BBC Worldwide, London. 224 pp."
+  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
+    caption: 'Links Seahorse ( Hippocampus sp.) Tan, Leo W. H. & Ng, Peter K. L.,
+      1988. A Guide to Seashore Life . The Singapore Science Centre, Singapore. 160
+      pp. Spotted Seahorse ( Hippocampus kuda ) Lim, Kelvin K. P. & Jeffrey K. Y.
+      Low, 1998. A Guide to the Common Marine Fishes of Singapore . Singapore Science
+      Centre. 163 pp. Seahorses on NParks Flora and Fauna website. Project Seahorse
+      : THE website for everything about seahorses. Lots of info on seahorses and
+      details on the threats to them and conservation efforts, including a downloadable
+      ID guide to seahorses. Kingdom of the Seahorse on the Nova Online page of the
+      PBS website: lots of info and photos on seahorses, what they are and threats
+      to their existence. What is the social life of a seahorse? on the Mad Scientist
+      website: Ingrid Dodge explains the fascinating interactions among seahorses.
+      On a seahorse, what purpose does the coronet have? on the Mad Scientist website:
+      Ingrid Dodge suggests some reasons for the little crown on the seahorse''s head.
+      Family Syngnathidae and Tiger tail seahorse ( Hippocampus comes ) and Hedgehog
+      seahorse ( Hippocampus spinosissimus ) and Spotted seahorse ( Hippocampus kuda
+      ) and Long-nosed seahorse ( Hippocampus trimaculatus ) from FishBase : Technical
+      fact sheet. Papa seahorses prefer Big Mamas on the wild shores of singapore
+      blog. References Kelvin K. P. Lim. 15 November 2013. New Singapore record of
+      the seahorse, Japanese seahorse, Hippocampus mohnikei . Singapore Biodiversity
+      Records 2013: 68-69. Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994. Rhythm of the
+      Sea: The Life and Times of Labrador Beach . Division of Biology, School of Science,
+      Nanyang Technological University & Department of Zoology, the National University
+      of Singapore. 160 pp. Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+      The Singapore Red Data Book: Threatened plants and animals of Singapore . Nature
+      Society (Singapore). 285 pp. Allen, Gerry, 2000. Marine Fishes of South-East
+      Asia: A Field Guide for Anglers and Divers . Periplus Editions. 292 pp. Kuiter,
+      Rudie H. 2002. Guide to Sea Fishes of Australia: A Comprehensive Reference for
+      Divers & Fishermen New Holland Publishers. 434pp. Lieske, Ewald and Robert Myers.
+      2001. Coral Reef Fishes of the World Periplus Editions. 400pp. Kuiter, Rudie
+      H., 2000 (English edition). Seahorses, Pipefishes and their Relatives: A Comprehensive
+      Guide to Syngnathiformes TMC Publishing, UK. 240 pp. Sparks, John, 1999. Battle
+      of the Sexes in the Animal World BBC Worldwide, London. 224 pp.'
+size:
+- 30.0
+- 5.0
+- 12.0
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

@@ -1,10 +1,9 @@
 ---
 title: Ball-tip corallimorphs
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: corallimorph, corynactis, corallimorpharia, corallimorphidae, 
-  anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: corallimorph, corynactis, corallimorpharia, corallimorphidae, anthozoa,
+  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 6
@@ -21,92 +20,83 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Corallimorpharia
 updated: Jul 2024
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/110703cjd5306m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/110703cjd5306m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/110703cjd5306m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/110703cjd5306m3.jpg
     caption: Chek Jawa, Jul 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/110703cjd5306m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/110703cjd5306m3a.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/080703chgd6583m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/080703chgd6583m3.jpg
     caption: Conical mouth protruding.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/091203ubnd4951m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/091203ubnd4951m3.jpg
     caption: Pulau Ubin, Dec 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/091021chgd3060m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/091021chgd3060m3.jpg
     caption: Changi, Oct 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/101207ubnd3240m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/101207ubnd3240m3.jpg
     caption: Pulau Ubin, Dec 10
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/170723ubnlks2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/170723ubnlks2.jpg
     caption: Pulau Ubin, Jul 17 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/250627bbdc1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/250627bbdc1.jpg
     caption: Beting Bronok, Jun 25 Photo shared by Dayna Cheah on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/190704bbay4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/190704bbay4.jpg
     caption: Beting Bronok, Jul 19 Photo shared by Abel Yeo on facebook .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/210401sntrk3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/210401sntrk3.jpg
     caption: Sentosa Tg Rimau, Apr 21 Photo shared by Richard Kuah on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/230508srpky3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/230508srpky3.jpg
     caption: Sentosa Serapong, May 23 Photo shared by Kelvin Yong on facebook .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/100626cyrjk1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/100626cyrjk1m3.jpg
     caption: Cyrene Reef, Jun 10 Photo shared by James Koh on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/100809cynml1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/100809cynml1m3.jpg
     caption: Cyrene Reef, Aug 10 Shared by Neo Mei Lin on her blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/120407lazlks2m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/120407lazlks2m3.jpg
     caption: Seringat Kias, Apr 12 Photo shared by Loh Kok Sheng on his blog .
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/100911sistch1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/100911sistch1m3.jpg
     caption: Sisters Island, Sep 10 Photo shared by Toh Chay Hoon on her blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/141011hntlks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/141011hntlks.JPG
     caption: Pulau Hantu, Oct 14 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/110517tptsy3m3.jpg
-    caption: Terumbu Pempang Tengah, May 11 Photo shared by Sam Yeo on facebook 
-      .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/110517tptsy3m3.jpg
+    caption: Terumbu Pempang Tengah, May 11 Photo shared by Sam Yeo on facebook .
   gallery8:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/090818tmjk6m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/090818tmjk6m3.jpg
     caption: Tanah Merah, Aug 09 Photo shared by James Koh on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/100810snglks2m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/100810snglks2m3.jpg
     caption: Pulau Senang, Aug 10 Photo shared by Loh Kok Sheng on his flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/100613sngtch3m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/100613sngtch3m3.jpg
     caption: Pulau Senang, Jun 10 Photo shared by Toh Chay Hoon on her flickr .
   gallery9:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/220201brktch5.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/220201brktch5.jpg
     caption: Pulau Berkas, Feb 22 Photo shared by Toh Chay Hoon on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Corallimorpharia](https://singapore.biodiversity.online/taxon/A-Cnid-Anth-Corallimorpharia)
+
   on The Biodiversity of Singapore website, Lee Kong Chian Natural History Museum.
 
+
   **References**
-  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
-  - Ren Min Oh, Mei Lin Neo, Nicholas Wei Liang Yap, Sudhanshi Sanjeev Jain, Ria Tan, Chaolun Allen Chen and Danwei Huang, May 2019.
-  *Citizen science meets integrated taxonomy to uncover the diversity and distribution of Corallimorpharia in Singapore*
+
+  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
+  Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H.
+  Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The
+  Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition.
+  National Parks Board. 663 pp.
+
+  - Ren Min Oh, Mei Lin Neo, Nicholas Wei Liang Yap, Sudhanshi Sanjeev Jain, Ria Tan,
+  Chaolun Allen Chen and Danwei Huang, May 2019.
+
+  *Citizen science meets integrated taxonomy to uncover the diversity and distribution
+  of Corallimorpharia in Singapore*
+
   , The Raffles Bulletin of Zoology Volume 67, Pp. 306-321.
+
+  '
 location:
 - pgl
 - prp
@@ -124,6 +114,9 @@ location:
 - hnt
 - tpg
 - lfa
+size:
+- 1.5
+- 4.0
 ---
 
 ## Where seen?

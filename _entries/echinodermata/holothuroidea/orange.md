@@ -1,10 +1,9 @@
 ---
 title: Orange sea cucumber
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: cucumber, seacucumber, mensamaria, intercedens, cucumarid, 
-  holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, 
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: cucumber, seacucumber, mensamaria, intercedens, cucumarid, holothuroidea,
+  echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 0
@@ -26,92 +25,88 @@ class: Holothuroidea
 subclass: Actinopoda
 order: Dendrochirotida
 updated: Apr 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/080521chgd3646m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/080521chgd3646m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/080521chgd3646m3.jpg
-    caption: Body squarish in cross section. Tube feet long thin orange. Changi,
-      May 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/091011mkbd2773m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/080521chgd3646m3.jpg
+    caption: Body squarish in cross section. Tube feet long thin orange. Changi, May
+      08
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/091011mkbd2773m3a.jpg
     caption: Feeding tentacles extended. Marina Keppel Bay, Oct 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/100712chgd8467m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/100712chgd8467m3.jpg
     caption: Feeding tentacles not fully extended. Changi, Jul 10
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/081117ecpmd2346.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/081117ecpmd2346.jpg
     caption: Dark blue body with orange tube feet. Changi, Jul 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/100712chgd8465m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/100712chgd8465m3.jpg
     caption: Half buried. Changi, Jul 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/030521bb0099m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/030521bb0099m3.jpg
     caption: Bloated. Beting Bronok, May 03
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/210528lyg.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/210528lyg.jpg
     caption: Feeding tentacles extended. Changi Loyang, May 21
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/210531chg6jt3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/210531chg6jt3.jpg
     caption: Changi Carpark 6, May 21 Photo shared by Jonathan Tan on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/251012chgmn1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/251012chgmn1.jpg
     caption: Changi, Oct 25 Photo shared by Marcus Ng on facebook .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/210628ecpBrk1.jpg
-    caption: East Coast Park (B), Jun 21 Photo shared by Richard Kuah on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/171108ecpmblks8.jpg
-    caption: East Coast-Marina Bay, Nov 17 Photo shared by Loh Kok Sheng on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/081214ecmlks01m3.JPG
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/210628ecpBrk1.jpg
+    caption: East Coast Park (B), Jun 21 Photo shared by Richard Kuah on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/171108ecpmblks8.jpg
+    caption: East Coast-Marina Bay, Nov 17 Photo shared by Loh Kok Sheng on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/081214ecmlks01m3.JPG
     caption: East Coast, Dec 08 Photo shared by Loh Kok Sheng on his blog .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/170529srplks2.jpg
-    caption: Sentosa Serapong, May 17 Photo shared by Loh Kok Sheng on facebook 
-      .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/130501sntlks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/170529srplks2.jpg
+    caption: Sentosa Serapong, May 17 Photo shared by Loh Kok Sheng on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/130501sntlks.JPG
     caption: Sentosa, May 13 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/130111sjilks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/130111sjilks.JPG
     caption: St John's Island, Jan 13 Photo shared by Loh Kok Sheng on flickr .
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/200627cyrlks5.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/200627cyrlks5.jpg
     caption: Cyrene, Jun 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/160209cyrlks2.JPG
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/160209cyrlks2.JPG
     caption: Cyrene Reef, Feb 16 Photo shared by Loh Kok Sheng on his blog .
   gallery8:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/200626tptvc2.jpg
-    caption: Terumbu Pempang Tengah, Jun 20 Photo shared by Vincent Choo on 
-      facebook .
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/200626tptvc2.jpg
+    caption: Terumbu Pempang Tengah, Jun 20 Photo shared by Vincent Choo on facebook
+      .
+links_references: '**Links**
+
   - [*Mensamaria*
+
   *intercedens*](http://www.sealifebase.org/summary/Mensamaria-intercedens.html)
+
   on SeaLife Base: Technical fact sheet.
+
   - [*Mensamaria*
+
   *intercedens*](http://species-identification.org/species.php?species_group=nasc&id=108&menuentry=soorten)
-  in North Australian Sea Cucumbers on Marine Species Identification Portal: Technical fact sheet.
+
+  in North Australian Sea Cucumbers on Marine Species Identification Portal: Technical
+  fact sheet.
+
 
   **References**
+
   - Ong J. Y. & H. P. S. Wong.
+
   *Sea cucumbers (Echinodermata: Holothuroidea) from the Johor Straits, Singapore*
-  . 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 273-291.
+
+  . 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International
+  Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 273-291.
+
   - Lane, David J.W. and Didier Vandenspiegel. 2003
+
   *. A Guide to Sea Stars and Other Echinoderms of Singapore*
+
   . Singapore Science Centre. 187pp.
+
+  '
 location:
 - prp
 - chg
@@ -124,6 +119,9 @@ location:
 - snt
 - sji
 - cyr
+size:
+- 8.0
+- 12.0
 ---
 
 ## Where seen?
