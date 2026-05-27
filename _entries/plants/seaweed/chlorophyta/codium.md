@@ -1,10 +1,9 @@
 ---
 title: Codium green seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: knobbly, codium, codiaceae, seaweed, weed, green, chlorophyta, algae, 
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: knobbly, codium, codiaceae, seaweed, weed, green, chlorophyta, algae, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 division: Chlorophyta
 family: Codiaceae
@@ -21,88 +20,94 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Feb 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/120219smkd7180m6l.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/120219smkd7180m6l.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/120219smkd7180m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/120219smkd7180m6l.jpg
     caption: Pulau Semakau, Feb 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/050412tusd2442m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/050412tusd2442m3.jpg
     caption: Tuas, Apr 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/100401labd0296m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/100401labd0296m3.jpg
     caption: Labrador, Apr 10
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/100130brklks1m3.jpg
-    caption: Terumbu Berkas, Jan 10 Photo shared by Loh Kok Sheng on his flickr 
-      .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/091231biod7067m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/100130brklks1m3.jpg
+    caption: Terumbu Berkas, Jan 10 Photo shared by Loh Kok Sheng on his flickr .
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/091231biod7067m3b.jpg
     caption: Pulau Biola, Dec 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/091231biod7067m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/091231biod7067m3.jpg
     caption: Pulau Biola, Dec 09
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/200710mevc11.jpg
-    caption: East Coast-Marina East, Jul 20 Photo shared by Vincent Choo on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/210529epcnvc10.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/200710mevc11.jpg
+    caption: East Coast-Marina East, Jul 20 Photo shared by Vincent Choo on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/210529epcnvc10.jpg
     caption: East Coast (PCN), May 21 Photo shared by Vincent Choo on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/251208melks10.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/251208melks10.jpg
     caption: Marina East, Dec 25 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/200210blyhud2.jpg
-    caption: Berlayar Creek, Feb 20 Photo shared by Nurulhuda Abdul Rahim on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/201215bsrpvc10.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/200210blyhud2.jpg
+    caption: Berlayar Creek, Feb 20 Photo shared by Nurulhuda Abdul Rahim on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/201215bsrpvc10.jpg
     caption: Sentosa Serapong, Dec 20 Photo shared by Vincent Choo on facebook .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/201019sjivc6.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/201019sjivc6.jpg
     caption: St John's Island, Oct 20 Photo shared by Vincent Choo on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/220518kusrk1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/220518kusrk1.jpg
     caption: Kusu Island, May 22 Photo shared by Richard Kuah on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/210429hntvc5.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/210429hntvc5.jpg
     caption: Pulau Hantu, Apr 21 Photo shared by Vincent Choo on facebook .
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/230510tptrk2.jpg
-    caption: Terumbu Pempang Tengah, May 23 Photo shared by Richard Kuah on 
-      facebook .
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/230510tptrk2.jpg
+    caption: Terumbu Pempang Tengah, May 23 Photo shared by Richard Kuah on facebook
+      .
+links_references: '**Links**
+
   - [*Codium*](http://www.algaebase.org/search/genus/detail/?genus_id=39)
+
   on
+
   [AlgaeBase](http://www.algaebase.org/)
+
   : Technical fact sheet.
 
+
   **References**
-  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
+
+  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
+  Tsai Min and Wang Luan Keng,
+
   *A photographic guide to the marine algae of Singapore*
+
   , 2015. Tropical Marine Science Institute, 201 pp.
+
   - Pham, M. N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011.
+
   *A Checklist of the Algae of Singapore*
-  , 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore, Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+
+  , 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
+  Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+
   - Huisman, John M. 2000.
+
   *Marine Plants of Australia*
+
   University of Western Australia Press. 300pp.
+
   - Calumpong, H. P. & Menez, E. G., 1997.
+
   *Field Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*
+
   . Bookmark, Inc., the Philippines. 197 pp.
+
   - Trono, Gavino. C. Jr., 1997.
+
   *Field Guide and Atlas of the Seaweed Resources of the Philippines.*
+
   . Bookmark, Inc., the Philippines. 306 pp.
+
+  '
 location:
 - bb
 - tus
@@ -144,7 +149,7 @@ species.
 
 Lumpy blobby Codium green seaweed
 **may be confused with**
-[Puffy brown seaweed](../phaeophyta/colpomenia.md)
+[Puffy brown seaweed](../phaeophyta/colpomenia)
 (
 *Colpomenia sinuosa*
 ) which is golden brown.
@@ -153,7 +158,7 @@ Lumpy blobby Codium green seaweed
 Some
 *Codium*
 species are eaten by
-[sea turtles](../../../vertebrates/reptilia/seaturtle.md)
+[sea turtles](../../../vertebrates/reptilia/seaturtle)
 .
 
 **Invasive Codium:**

@@ -1,11 +1,9 @@
 ---
 title: Stubby corallimorph
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: corallimorph, discosoma, nummiforme, discosomidae, ricordea, yuma, 
-  ricordeidae, corallimorpharia, anthozoa, cnidaria, field, guide, seashore, 
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, 
-  photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: corallimorph, discosoma, nummiforme, discosomidae, ricordea, yuma, ricordeidae,
+  corallimorpharia, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 6
@@ -22,46 +20,51 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Corallimorpharia
 updated: Jul 2024
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/050611kusd3973m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/050611kusd3973m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/050611kusd3973m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/050611kusd3973m3.jpg
     caption: Kusu Island, Jun 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/050611kusg7747m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/050611kusg7747m3b.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/050611kusg7747m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/050611kusg7747m3.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/040801hntd3735m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/040801hntd3735m3a.jpg
     caption: Pulau Hantu, Aug 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/040705sisd2131m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/040705sisd2131m3.jpg
     caption: Sisters Island, Jul 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/070506sjig9212m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/070506sjig9212m3.jpg
     caption: St. John's Island, May 07
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/130528cyrmn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/130528cyrmn.jpg
     caption: Cyrene Reef, May 13 Photo shared by Marcus Ng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/160609thntmn3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/160609thntmn3.jpg
     caption: Terumbu Hantu, Jun 2016 Photo shared by Marcus Ng on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Corallimorpharia](https://singapore.biodiversity.online/taxon/A-Cnid-Anth-Corallimorpharia)
+
   on The Biodiversity of Singapore website, Lee Kong Chian Natural History Museum.
 
+
   **References**
-  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
-  - Ren Min Oh, Mei Lin Neo, Nicholas Wei Liang Yap, Sudhanshi Sanjeev Jain, Ria Tan, Chaolun Allen Chen and Danwei Huang, May 2019.
-  *Citizen science meets integrated taxonomy to uncover the diversity and distribution of Corallimorpharia in Singapore*
+
+  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
+  Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H.
+  Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The
+  Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition.
+  National Parks Board. 663 pp.
+
+  - Ren Min Oh, Mei Lin Neo, Nicholas Wei Liang Yap, Sudhanshi Sanjeev Jain, Ria Tan,
+  Chaolun Allen Chen and Danwei Huang, May 2019.
+
+  *Citizen science meets integrated taxonomy to uncover the diversity and distribution
+  of Corallimorpharia in Singapore*
+
   , The Raffles Bulletin of Zoology Volume 67, Pp. 306-321.
+
+  '
 location:
 - kus
 - laz
@@ -70,6 +73,9 @@ location:
 - cyr
 - hnt
 - rfl
+size:
+- 3.0
+- 4.0
 ---
 
 ## Where seen?
@@ -82,7 +88,7 @@ Each polyp about 3-4cm in diameter, sometimes seen in groups of 5-10. Tentacles 
 A study found that Stubby corallimorphs
 **
 can also look like
-[Beaded corallimorphs](beaded.md)
+[Beaded corallimorphs](beaded)
 (
 *Discosoma nummiforme*
 ).

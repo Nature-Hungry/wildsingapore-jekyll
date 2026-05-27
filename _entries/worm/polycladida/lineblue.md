@@ -1,11 +1,9 @@
 ---
 title: Blue-lined flatworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: elegant, striped, blue, lined, flat, worm, flatworm, pseudoceros, 
-  concinnus, polyclad, turbellaria, platyhelminthes,  field, guide, seashore, 
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, 
-  photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: elegant, striped, blue, lined, flat, worm, flatworm, pseudoceros, concinnus,
+  polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Pseudocerotidae
 genus: Pseudoceros
@@ -19,18 +17,14 @@ subphylum: Rhabditophora
 order: Polycladida
 suborder: Cotylea
 updated: Feb 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/080524sntd4190m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/080524sntd4190m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/080524sntd4190m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/080524sntd4190m3.jpg
     caption: Sentosa, May 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/080524sntd4190m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/080524sntd4190m3a.jpg
     caption: Pseudotentacles simple fold.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/050917smkg2553m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/050917smkg2553m3.jpg
     caption: Two fine blue lines in the centre. Pulau Semakau, Sep 05
   gallery2:
   - url: https://live.staticflickr.com/31337/50042478253_13084b03f0_z.jpg
@@ -39,165 +33,118 @@ galleries:
   - url: https://live.staticflickr.com/4205/35198679140_47c9f36eb8_z.jpg
     caption: ''
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/190801chglks4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/190801chglks4.jpg
     caption: Changi, Aug 19 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/190830chgjll1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/190830chgjll1.jpg
     caption: Changi, Aug 19 Shared by Jianlin Liu on facebook .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/160706skdlks3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/160706skdlks3.jpg
     caption: Pulau Sekudu, Jul 16 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/200723bbvc1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/200723bbvc1.jpg
     caption: Beting Bronok, Jul 20 Photo shared by Vincent Choo on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/190704bblks1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/190704bblks1.jpg
     caption: Beting Bronok, Jul 19 Photo shared by Loh Kok Sheng on facebook .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/101009cjnml1m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/101009cjnml1m3a.jpg
     caption: Chek Jawa, Oct 10 Photo shared by Neo Mei Lin on her blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/140114cjlks2m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/140114cjlks2m3a.jpg
     caption: Chek Jawa, Jan 14 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/130721cjlks1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/130721cjlks1m3.jpg
     caption: Chek Jawa, Jul 13 Photo shared by Loh Kok Sheng on his blog .
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/160705cjlks1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/160705cjlks1.jpg
     caption: Chek Jawa, Jul 16 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/180714cjjll6.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/180714cjjll6.jpg
     caption: Chek Jawa, Jul 18 Photo shared by Jianlin LIu on facebook .
   gallery8:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/190706skdlks3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/190706skdlks3.jpg
     caption: Pulau Sekudu, Jul 19 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/190706skdlks3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/190706skdlks3a.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/210529epcnvc1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/210529epcnvc1.jpg
     caption: East Coast (PCN), May 21 Photo shared by Vincent Choo on facebook .
   gallery9:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/190901labsg1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/190901labsg1.jpg
     caption: Labrador, Sep 19 Photo shared by Shawne Goh on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/200210blylks5.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/200210blylks5.jpg
     caption: Berlayar Creek, Feb 20 Shared by Loh Kok Sheng on facebook
   gallery10:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/210401sntvc2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/210401sntvc2.jpg
     caption: Sentosa Tg Rimau, Apr 21 Shared by Vincent Choo on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/210712srpjll2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/210712srpjll2.jpg
     caption: Sentosa Serapong, Jul 21 Shared by JIanlin Liu on facebook .
   gallery11:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/201116lazvc1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/201116lazvc1.jpg
     caption: Lazarus Island, Nov 20 Photo shared by Vincent Choo on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/150815sislks1m3.JPG
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/150815sislks1m3.JPG
     caption: Seringat-Kias, Aug 15 Shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/210430sjijll4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/210430sjijll4.jpg
     caption: St. John's Island, Apr 21 Shared by Jianlin Liu on facebook .
   gallery12:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/110903sntmn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/110903sntmn.jpg
     caption: Sentosa, Sep 11 Photo shared by Marcus Ng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/170529srpjll5.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/170529srpjll5.jpg
     caption: Sentosa Serapong, May 17 Shared by Jianlin Liu on facebook .
   gallery13:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/090224lazlks08m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/090224lazlks08m3.jpg
     caption: Lazarus, Feb 09 Shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/110702lzrlks1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/110702lzrlks1m3.jpg
     caption: Lazarus, Jul 11 Shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/200126bsisjll4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/200126bsisjll4.jpg
     caption: Big Sisters Island, Jan 20 Shared by Jianlin Liu on facebook .
   gallery14:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/160508kuslks2.JPG
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/160508kuslks2.JPG
     caption: Kusu Island, May 16 Photo shared by Loh Kok Sheng on facebook.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/210403cyrvc3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/210403cyrvc3.jpg
     caption: Cyrene, Apr 21 Photo shared by Vincent Choo on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/100517jngjk2m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/100517jngjk2m3.jpg
     caption: Pulau Jong, May 10 Photo shared by James Koh on his blog .
   gallery15:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/170628jngll1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/170628jngll1.jpg
     caption: Pulau Jong, Jun 17 Photo shared by Liz Lim on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/190620jnglks1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/190620jnglks1.jpg
     caption: Pulau Jong, Jun 19 Photo shared by Loh Kok Sheng on facebook .
   gallery16:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/100627hntlks2m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/100627hntlks2m3.jpg
     caption: Pulau Hantu, Jun 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/210429hntjll2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/210429hntjll2.jpg
     caption: Pulau Hantu, Apr 21 Photo shared by Jianlin Liu on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/160609thntro1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/160609thntro1.jpg
     caption: Terumbu Hantu, Jun 16 Photo shared by Rene Ong on facebook .
   gallery17:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/110422tbmlks6m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/110422tbmlks6m3.jpg
     caption: Terumbu Bemban, Apr 11 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/100519tsmjk1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/100519tsmjk1m3.jpg
     caption: Terumbu Semakau, May 10 Photo shared by James Koh on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/110522bbblks11m3.jpg
-    caption: Beting Bemban Besar, May 11 Photo shared by Loh Kok Sheng on his 
-      blog .
-  gallery18:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/110517tptlks28m3.jpg
-    caption: Terumbu Pempang Tengah, May 11 Photo shared by Loh Kok Sheng on his
-      blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/110423tpllks7m3.jpg
-    caption: Terumbu Pempang Laut, Apr 11 Photo shared by Loh Kok Sheng on his 
-      blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/240310tplvc2.jpg
-    caption: Terumbu Pempang Laut, Mar 24 Photo shared by Vincent Choo on 
-      facebook .
-  gallery19:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/161117rlhjll1.jpg
-    caption: Raffles Lighthouse, Nov 16 Photo shared by Jianlin Liu on facebook 
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/110522bbblks11m3.jpg
+    caption: Beting Bemban Besar, May 11 Photo shared by Loh Kok Sheng on his blog
       .
+  gallery18:
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/110517tptlks28m3.jpg
+    caption: Terumbu Pempang Tengah, May 11 Photo shared by Loh Kok Sheng on his blog
+      .
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/110423tpllks7m3.jpg
+    caption: Terumbu Pempang Laut, Apr 11 Photo shared by Loh Kok Sheng on his blog
+      .
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/240310tplvc2.jpg
+    caption: Terumbu Pempang Laut, Mar 24 Photo shared by Vincent Choo on facebook
+      .
+  gallery19:
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/161117rlhjll1.jpg
+    caption: Raffles Lighthouse, Nov 16 Photo shared by Jianlin Liu on facebook .
   gallery20:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/091231biod7077m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/091231biod7077m3.jpg
     caption: Pulau Biola, Dec 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/091231biolks14m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/091231biolks14m3.jpg
     caption: Pulau Biola, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/091231biolks13m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/091231biolks13m3.jpg
     caption: Pulau Biola, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
   gallery21:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/210428slulks3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/210428slulks3.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/100531biod4480m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/100531biod4480m3.jpg
     caption: Pulau Biola, May 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/100613snglks1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/100613snglks1m3.jpg
     caption: Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
 location:
 - chg
@@ -221,6 +168,9 @@ location:
 - tsm
 - rfl
 - lfa
+size:
+- 2.0
+- 4.0
 ---
 
 ## Where seen?
@@ -232,7 +182,7 @@ This small pale flatworm elegantly edged in blue with a central blue stripe is r
 
 **Sometimes mistaken for**
 similar flatworms. Here's more on how to tell apart small flatworms with
-[one central line and three central lines](cfstriped.md)
+[one central line and three central lines](cfstriped)
 .
 
 **Good mother:**

@@ -1,10 +1,9 @@
 ---
 title: Ball moon snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: ball, moon, snail, naticidae, natica, polinices, neverita, didyma, 
-  gastropod, mollusc, sand, collar, field, guide, seashore, sea, shore, marine, 
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: ball, moon, snail, naticidae, natica, polinices, neverita, didyma, gastropod,
+  mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Naticidae
 genus: Neverita
@@ -20,50 +19,69 @@ order: Littorinimorpha
 superfamily: Naticoidea
 subfamily: Polinicinae
 updated: Aug 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/070218tmd8018m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/070218tmd8018m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/070218tmd8018m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/070218tmd8018m3.jpg
     caption: Tanah Merah, Feb 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/070218tmd8019m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/070218tmd8019m3.jpg
     caption: Tanah Merah, Feb 07
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/110520chgd2415m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/110520chgd2415m6l.jpg
     caption: Changi, May 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/110520chgd2415m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/110520chgd2415m3a.jpg
     caption: Siphon (upper left) and tentcles
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Bladder moon snail (
+
   *Polinices didyma*
+
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86933)
+
   from SeaLife Base: Technical fact sheet.
+
   - Bladder moon snail (
+
   *Polinices didyma*
-  ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+
+  ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide
+  for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
+
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
+
   **References**
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Tan, K. S. & L. M. Chou, 2000.
+
   *A Guide to the Common Seashells of Singapore*
+
   . Singapore Science Centre. 160 pp.
+
   - Abbott, R. Tucker, 1991.
+
   *Seashells of South East Asia*
+
   . Graham Brash, Singapore. 145 pp.
+
+  '
 location:
 - chg
 - cj
 - tm
 - ecp
+size:
+- 3.0
+- 5.0
 ---
 
 ## Where seen?
@@ -79,13 +97,13 @@ means 'testicles'). Shell pattern usually plain white sometimes with pearly past
 
 **Sometimes mistaken for**
 the
-[Oval moon snail](mammatus.md)
+[Oval moon snail](mammatus)
 that is easily distinguished by its more tear-drop shaped shell which on the underside is completely white (no brown patch) and has a bump instead of a depression. The Ball moon snail is less shy and doesn't immediately retract completely into its shell the way the Oval moon snail does.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **What does it eat?**
 This snail is often seen actively hunting
-[Button snails](../trochidae/umbonium.md)
+[Button snails](../trochidae/umbonium)
 .
 
 **Human uses:**

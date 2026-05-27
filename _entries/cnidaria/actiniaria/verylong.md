@@ -1,10 +1,9 @@
 ---
 title: Very long anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: anemone, actinoporus, elongatus, actiniaria, anthozoa, cnidarian, 
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: anemone, actinoporus, elongatus, actiniaria, anthozoa, cnidarian, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 attributes:
 - 5
@@ -23,62 +22,54 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinostoloidea
 updated: Jul 2024
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/verylong/100711cyrd8275m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/verylong/100711cyrd8275m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/verylong/100711cyrd8275m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/verylong/100711cyrd8275m3.jpg
     caption: Cyrene Reef,Jul 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/verylong/100711cyrd8275m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/verylong/100711cyrd8275m3b.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/verylong/100711cyrd8272m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/verylong/100711cyrd8272m3.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/verylong/200210blylks2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/verylong/200210blylks2.jpg
     caption: Berlayar Creek, Feb 20 Photo shared by Lok Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/verylong/160314lazlks3.JPG
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/verylong/160314lazlks3.JPG
     caption: Lazarus Island, Mar 16 Photo shared by Lok Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/verylong/241019lazlks11.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/verylong/241019lazlks11.jpg
     caption: Lazarus Island, Oct 24 Photo shared by Loh Kok Sheng on facebook .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/verylong/251207hntrk1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/verylong/251207hntrk1.jpg
     caption: Pulau Hantu, Dec 25 Photos shared by Richard Kuah on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/verylong/180421smkslks1.jpg
-    caption: Pulau Semakau (South), Apr 18 Photo shared by Lok Kok Sheng on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/verylong/231030smklks1.jpg
-    caption: Pulau Semakau (South), Oct 23 Photo shared by Lok Kok Sheng on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/verylong/231030smklks1a.jpg
-    caption: Pulau Semakau (South), Oct 23 Photo shared by Lok Kok Sheng on 
-      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/verylong/180421smkslks1.jpg
+    caption: Pulau Semakau (South), Apr 18 Photo shared by Lok Kok Sheng on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/verylong/231030smklks1.jpg
+    caption: Pulau Semakau (South), Oct 23 Photo shared by Lok Kok Sheng on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/verylong/231030smklks1a.jpg
+    caption: Pulau Semakau (South), Oct 23 Photo shared by Lok Kok Sheng on facebook
+      .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/verylong/110814smklks4m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/verylong/110814smklks4m3.jpg
     caption: Pulau Semakau, Aug 11 Photo shared by Lok Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/verylong/110814smklks5m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/verylong/110814smklks5m3.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/verylong/110814smklks5m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/verylong/110814smklks5m3a.jpg
     caption: ''
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Actinoporus elongatus*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail.cfm?genus=Actinoporus&subgenus=&species=elongatus&subspecies=&synseniorid=7473)
+
   on the
+
   [Hexacorallians of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/)
-  website by Dr Daphne Fautin with classification, distribution, biological associations and more.
+
+  website by Dr Daphne Fautin with classification, distribution, biological associations
+  and more.
+
+  '
 location:
 - chg
 - tm
@@ -89,6 +80,9 @@ location:
 - cyr
 - hnt
 - smk
+size:
+- 6.0
+- 8.0
 ---
 
 ## Where seen?

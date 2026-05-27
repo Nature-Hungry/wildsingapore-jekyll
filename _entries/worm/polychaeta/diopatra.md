@@ -1,10 +1,9 @@
 ---
 title: Solitary tubeworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: solitary, tube, worm, tubeworm, diopatra, sbristle, polychaete, 
-  annelida, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: solitary, tube, worm, tubeworm, diopatra, sbristle, polychaete, annelida,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Onuphidae
 genus: Diopatra
@@ -19,73 +18,82 @@ subclass: Errantia
 order: Eunicida
 subfamily: Onuphinae
 updated: Oct 2025
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/060114cjg3809m3a.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/060114cjg3809m3a.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/060114cjg3809m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/060114cjg3809m3a.jpg
     caption: Thick leathery tube Chek Jawa, Jan 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/050823chgg2333m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/050823chgg2333m3.jpg
     caption: Tube washed ashore Changi, Aug 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/040702chgg0938m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/040702chgg0938m3.jpg
     caption: Changi, Jul 04
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/100429prpd1812m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/100429prpd1812m3.jpg
     caption: Reaching out to grab a mangrove propagule. Pasir Ris Park, Apr 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/100429prpd1822m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/100429prpd1822m3.jpg
     caption: Got it!
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/100429prpd1828m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/100429prpd1828m3.jpg
     caption: A closer look at the worm.
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/251107chgmn3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/251107chgmn3a.jpg
     caption: Changi Point, Nov 25 Shared by Marcus Ng on facebook.
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/081115chg7841m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/081115chg7841m3.jpg
     caption: Changi, Nov 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/081115chg7842m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/081115chg7842m3.jpg
     caption: Photos shared by Michell Ng.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/081115chg7842m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/081115chg7842m3a.jpg
     caption: More photos of these worms out of their tubes .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/110611cjlks.JPG
-    caption: Being eaten by a mudskipper Chek Jawa, Jun 11 Photo shared by Loh 
-      Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/251010blytl5.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/110611cjlks.JPG
+    caption: Being eaten by a mudskipper Chek Jawa, Jun 11 Photo shared by Loh Kok
+      Sheng on his blog .
+  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/251010blytl5.jpg
     caption: Berlayar Creek, Oct 25 Photo shared by Tammy Lim on facebook .
-links_references: |
-  **Links**
-  - [Tube worms](http://mangrove.nus.edu.sg/guidebooks/text/2007.md)
+links_references: '**Links**
+
+  - [Tube worms](http://mangrove.nus.edu.sg/guidebooks/text/2007)
+
   Ng, Peter K. L. & N. Sivasothi, 1999.
+
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
+
   . Singapore Science Centre. 168 pp.
+
   - [Family Onuphidae](http://rmbr.nus.edu.sg/polychaete/Onuphidae.html)
+
   from
+
   [A Guide to Singapore Polychaetes](http://rmbr.nus.edu.sg/polychaete/)
-  by Lim Yun Ping 1997-2000 on the Raffles Museum of Biodiversity Research website: fact sheets and photos of tubeworms found in Singapore.
+
+  by Lim Yun Ping 1997-2000 on the Raffles Museum of Biodiversity Research website:
+  fact sheets and photos of tubeworms found in Singapore.
+
 
   **References**
+
   - Tong, T.L. & Chou, L.M.
+
   [*Diopatra bulohensis*
+
   , a new species of Onuphidae (Polychaeta) from Sungei Buloh](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/Raffles%20Bulletin%20of%20Zoology/Past%20Volumes/RBZ%2044(2)/44rbz357-362.pdf)
-  , Singapore. Pp. 357-362 on the The Raffles Bulletin of Zoology, 1928 - 2004 (launches PDF)
+
+  , Singapore. Pp. 357-362 on the The Raffles Bulletin of Zoology, 1928 - 2004 (launches
+  PDF)
+
   - Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.
+
   *Invertebrate Zoology*
+
   Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
+
   - Pechenik, Jan A., 2005.
+
   *Biology of the Invertebrates*
+
   . 5
+
+  '
 location:
 - sbw
 - prp
@@ -100,6 +108,8 @@ location:
 - sji
 - smk
 - lfa
+size:
+- 1.0
 ---
 
 ## Where seen?
@@ -107,9 +117,9 @@ Like rubber hoses sticking out of the ground, the sturdy tubes of this worm are 
 
 **What are solitary tubeworms?**
 Solitary tubeworms are segmented bristleworms belonging to the Family Onuphidae, Class
-[Polychaeta](polychaeta.md)
+[Polychaeta](polychaeta)
 , Phylum Annelida. The polychaetes include bristleworms, and Phylum Annelida includes the more familiar earthworm. Most members of the Family Onuphidae build tubes. Some of them carry the tubes around, others are stationary but can leave their tubes. Not all tubeworms are polychaetes and not all polychaetes are tubeworms. More about
-[tubeworms in general](../tubeworm/tubeworms.md)
+[tubeworms in general](../tubeworm/tubeworms)
 .
 
 ## Features

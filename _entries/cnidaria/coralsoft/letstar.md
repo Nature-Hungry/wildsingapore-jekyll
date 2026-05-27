@@ -1,10 +1,9 @@
 ---
 title: Starry leathery soft coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: starry, leathery, sinularia, brassica, alcyonacea, soft, coral, 
-  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: starry, leathery, sinularia, brassica, alcyonacea, soft, coral, cnidaria,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Alcyoniidae
 genus: ''
@@ -18,72 +17,78 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Dec 2024
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/110717tbd7097m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/110717tbd7097m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/110717tbd7097m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/110717tbd7097m3.jpg
     caption: Terumbu Bemban, Jul 11 8 short fat branched tentacles.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/100130brkd8623m3.jpg
-    caption: Terumbu Berkas, Jan 10 Many fat, spindle shaped structures embedded
-      in the common tissue .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/120409tptd8741m3.jpg
-    caption: Terumbu Pempang Tengah, Apr 12 Spindles sticking out of torn common
-      tissue.
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/100130brkd8623m3.jpg
+    caption: Terumbu Berkas, Jan 10 Many fat, spindle shaped structures embedded in
+      the common tissue .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/120409tptd8741m3.jpg
+    caption: Terumbu Pempang Tengah, Apr 12 Spindles sticking out of torn common tissue.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/031223tused0034m3.jpg
-    caption: Tuas, Dec 03 Tiny spots give the common tissue a 'crystalline' 
-      appearance.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/050725labg0305m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/031223tused0034m3.jpg
+    caption: Tuas, Dec 03 Tiny spots give the common tissue a 'crystalline' appearance.
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/050725labg0305m3.jpg
     caption: Labrador, Jul 05 Tiny transparent star-like polyps.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/031223tused0033m3g.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/031223tused0033m3g.jpg
     caption: Tuas, Dec 03 Polyps appear on lumps or tubular extensions.
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/170113tkkmn1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/170113tkkmn1.jpg
     caption: Pulau Tekukor, Jan 17 Photo shared by Marcus Ng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/160806tpllks6.jpg
-    caption: Terumbu Pempang Laut, Aug 16 Photo shared by Loh Kok Sheng on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/091231biod6981m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/160806tpllks6.jpg
+    caption: Terumbu Pempang Laut, Aug 16 Photo shared by Loh Kok Sheng on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/091231biod6981m3.jpg
     caption: Pulau Biola, Dec 09
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/100131slud8806m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/100131slud8806m3.jpg
     caption: Terumbu Salu, Jan 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/100131slud8808m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/100131slud8808m3a.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/100131slud8808m3c.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/100131slud8808m3c.jpg
     caption: ''
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Sinularia*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Sinularia)
+
   on
+
   [Reef Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding)
+
   on the
+
   [Marine Species Identification Portal](http://species-identification.org/index.php)
+
   : Technical fact sheet and photos.
 
+
   **References**
-  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024.
+
+  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
+  Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H.
+  Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024.
+
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+
   . 3rd edition. National Parks Board. 663 pp.
+
   - Y. Benayahu and L. M. Chou, 28 Feb 2010.
-  *On some Octocorallia (Cnidaria: Anthozoa: Alcyonacea) from Singapore, with a description of a new Cladiella species*
+
+  *On some Octocorallia (Cnidaria: Anthozoa: Alcyonacea) from Singapore, with a description
+  of a new Cladiella species*
+
   . The Raffles Bulletin of Zoology 58(1) Pp. 1-13.
+
   - Fabricius, Katharina and Philip Alderslade, 2001.
+
   *Soft Corals and Sea Fans*
-  . Australian Institute of Marine Science and the Museum and Art Gallery of the Northern Territoriy. 264 pp
+
+  . Australian Institute of Marine Science and the Museum and Art Gallery of the Northern
+  Territoriy. 264 pp
+
+  '
 location:
 - tus
 - lab
@@ -100,6 +105,9 @@ location:
 - tsm
 - rfl
 - lfa
+size:
+- 10.0
+- 15.0
 ---
 
 ## Where seen?
@@ -113,7 +121,7 @@ The colony may be thick, disk-like with a highly ruffled edge, or encrusting wit
 It has only one kind of polyp (autozooid) although there are very tiny spots among the autozooids giving the leathery common tissue has a rather 'crystalline' appearance. The transparent polyps are tiny (0.2cm), 8 short conical tentacles with tiny branches, the body column hardly seen. The autozooids can retract completely into the common tissue. In some, the autozooids emerge from small lumps or even long tubular segments of the common tissue. The animals harbour symbiotic algae (zooxanthellae).
 
 During one night trip, a large colony was seen with many
-[tiny brittle stars](../../echinodermata/ophiuroidea/tinycolourful.md)
+[tiny brittle stars](../../echinodermata/ophiuroidea/tinycolourful)
 all over the surface. This has not been observed during daylight visits.
 
 **Status and threats:**

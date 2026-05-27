@@ -1,10 +1,9 @@
 ---
 title: 'Mound crab '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: mangrove, mound, crab, sarmatium, germaini, sesarmidae, decapod, 
-  crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: mangrove, mound, crab, sarmatium, germaini, sesarmidae, decapod, crustacea,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 attributes:
 - 38
@@ -30,55 +29,67 @@ zoosection: Eubrachyura
 zoosubsection: Thoracotremata
 superfamily: Grapsoidea
 updated: Dec 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/sarmatium/110205krjd5938m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/sarmatium/110205krjd5938m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/sarmatium/110205krjd5938m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/sarmatium/110205krjd5938m3.jpg
     caption: Kranji, Feb 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/sarmatium/110205krjd5938m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/sarmatium/110205krjd5938m3a.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/sarmatium/110205krjd5938m3c.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/sarmatium/110205krjd5938m3c.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/sarmatium/251200admrqo1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/sarmatium/251200admrqo1.jpg
     caption: Admiralty Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/sarmatium/251200admrqo1b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/sarmatium/251200admrqo1b.jpg
     caption: Admiralty Park, Dec 25 Photo shared by Rui Quan Oh on facebook
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/sarmatium/251231prprqo6.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/sarmatium/251231prprqo6.jpg
     caption: Pasir Ris Park, Dec 25 Photo shared by Rui Quan Oh on facebook
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Mound crab (
+
   *Sarmatium germaini*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2048.md)
+
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2048)
+
   Ng, Peter K. L. & N. Sivasothi, 1999.
+
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
+
   . Singapore Science Centre. 168 pp.
+
   - [*Sarmatium germaini*](http://sealifebase.org/Summary/speciesSummary.php?id=2381017)
+
   on
+
   [SeaLife Base](http://sealifebase.org/)
+
   : fact sheet and photos.
 
+
   **References**
+
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
-  *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs of the world.*
+
+  *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs
+  of the world.*
+
   The Raffles Bulletin of Zoology. Supplement No. 17, 31 Jan 2008. 286 pp.
+
+  '
 location:
 - sbw
 - prp
+size:
+- 3.0
+- 8.0
 ---
 
 ## Where seen?
 This spherical crab is seldom seen outside the
-[Mud lobster mounds](../../othercrust/lobster/thalassina.md)
+[Mud lobster mounds](../../othercrust/lobster/thalassina)
 where it lives.
 
 ## Features

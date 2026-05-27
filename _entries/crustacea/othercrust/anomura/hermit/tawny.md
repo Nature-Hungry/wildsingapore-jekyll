@@ -1,10 +1,9 @@
 ---
 title: Tawny hermit crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: tawny, hermit, crab, clibanarius, arethusa, rutilus, anomura, decapod,
-  crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: tawny, hermit, crab, clibanarius, arethusa, rutilus, anomura, decapod, crustacea,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 attributes:
 - 38
@@ -26,24 +25,23 @@ suborder: Pleocyemata
 infraorder: Anomura
 superfamily: Paguroidea
 updated: Dec 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tawny/140614cjd6449m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tawny/140614cjd6449m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tawny/140614cjd6449m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tawny/140614cjd6449m3.jpg
     caption: Chek Jawa, Jun 14
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tawny/120618tmnbd5283m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tawny/120618tmnbd5283m3.jpg
     caption: Tanah Merah, Jun 12
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tawny/140616cjlks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tawny/140616cjlks.JPG
     caption: Chek Jawa, Jun 14 Photo shared by Loh Kok Sheng on his blog .
 location:
 - cj
 - tm
 - ecp
+size:
+- 1.0
+- 2.0
 ---
 
 ## Where seen?
@@ -60,7 +58,7 @@ and
 
 More on how to tell apart
 [*Clibanarius*
-hermit crabs](clibanarius.md)
+hermit crabs](clibanarius)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

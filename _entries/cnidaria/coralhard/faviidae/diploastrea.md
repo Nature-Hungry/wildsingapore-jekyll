@@ -1,7 +1,6 @@
 ---
 title: Moon coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: moon, diploastrea, heliopora, faviidae,
 layout: entry
 family: Faviidae
@@ -16,103 +15,109 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/070704jngg1249m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/070704jngg1249m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/070704jngg1249m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/070704jngg1249m3.jpg
     caption: Pulau Jong, Jul 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/070704jngg1249m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/070704jngg1249m3a.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/070704jngg1251m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/070704jngg1251m3a.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/150605kusmn2m3a.jpg
-    caption: Tentacles about to emerge? Kusu Island, Jun 15 Photo shared by 
-      Marcus Ng on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/150605kusmn2m3a.jpg
+    caption: Tentacles about to emerge? Kusu Island, Jun 15 Photo shared by Marcus
+      Ng on facebook .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/150706srplks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/150706srplks.JPG
     caption: Sentosa Serapong, Jul 15 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/250714srptl3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/250714srptl3.jpg
     caption: Sentosa Serapong, Jul 25 Photo shared by Tammy Lim on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/250714srptl3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/250714srptl3a.jpg
     caption: ''
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/100515sjilks5m3.jpg
-    caption: St. John's Island, May 10 Photo shared by Loh Kok Sheng on his blog
-      .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/210430sjilks8.jpg
-    caption: St. John's Island, Apr 21 Photo shared by Loh Kok Sheng on facebook
-      .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/100515sjilks5m3.jpg
+    caption: St. John's Island, May 10 Photo shared by Loh Kok Sheng on his blog .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/210430sjilks8.jpg
+    caption: St. John's Island, Apr 21 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/250727smkwlks3.jpg
-    caption: Pulau Semakau West, Jul 25 Photo shared by Loh Kok Sheng on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/250727smkwlks3a.jpg
-    caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/250629smkelks7.jpg
-    caption: Pulau Semakau East, Jun 25 Photo shared by Loh Kok Sheng on 
-      facebook .
-  gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/220521bbblks2.jpg
-    caption: Beting Bemban Besar, May 22 Photo shared by Loh Kok Sheng on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/120721tptlks.JPG
-    caption: Terumbu Pempang Tengah, Jul 12 Photo shared by Loh Kok Sheng on 
-      flickr .
-  gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/2007025smknlks1.jpg
-    caption: Pulau Semakau (North), Jul 20 Photo shared by Loh Kok Sheng on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/100617tsmlks1m3.jpg
-    caption: Terumbu Semakau, Jun 10 Photo shared by Loh Kok Sheng on his flickr
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/250727smkwlks3.jpg
+    caption: Pulau Semakau West, Jul 25 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/100131slud8869m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/250727smkwlks3a.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/250629smkelks7.jpg
+    caption: Pulau Semakau East, Jun 25 Photo shared by Loh Kok Sheng on facebook
+      .
+  gallery6:
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/220521bbblks2.jpg
+    caption: Beting Bemban Besar, May 22 Photo shared by Loh Kok Sheng on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/120721tptlks.JPG
+    caption: Terumbu Pempang Tengah, Jul 12 Photo shared by Loh Kok Sheng on flickr
+      .
+  gallery7:
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/2007025smknlks1.jpg
+    caption: Pulau Semakau (North), Jul 20 Photo shared by Loh Kok Sheng on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/100617tsmlks1m3.jpg
+    caption: Terumbu Semakau, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/100131slud8869m3.jpg
     caption: Terumbu Salu, Jan 10
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
+
   with species factsheets.
+
   - [IUCN Red List of Threatened Species](https://www.iucnredlist.org/)
+
   with species factsheets.
+
   - *[Diploastrea heliopora](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Diploastrea)*
-  on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal: Technical factsheet.
+
+  on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal:
+  Technical factsheet.
+
   - [*Diploastrea heliopora*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46689)
+
   on SeaLife Base: Technical factsheet.
 
+
   **References**
+
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
-  *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new records*
+
+  *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new
+  records*
+
   (pdf). Raffles Bulletin of Zoology Supplement No. 22: 69-80.
+
   - Veron, Jen. 2000.
+
   *Corals of the World*
+
   Australian Institute of Marine Science, Australia. 3 volumes.
+
   - Chou, L. M., 1998.
+
   *A Guide to the Coral Reef Life of Singapore*
+
   . Singapore Science Centre. 128 pages.
+
   - Erhardt, Harry and Daniel Knop. 2005.
+
   *Corals: Indo-Pacific Field Guide*
+
   IKAN-Unterwasserachiv, Frankfurt. 305 pp.
+
   - Borneman, Eric H. 2001.
+
   *Aquarium Corals: Selection, Husbandry and Natural History*
+
   T.F. H Publications. 464 pp
+
+  '
 location:
 - snt
 - kus
@@ -124,6 +129,11 @@ location:
 - smk
 - tsm
 - lfa
+size:
+- 15.0
+- 30.0
+- 500.0
+- 200.0
 ---
 
 ## Where seen?

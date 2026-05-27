@@ -1,10 +1,9 @@
 ---
 title: Starry pufferfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: starry, pufferfish, puffer, fish, arothon, stellatus, tetraodontidae, 
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: starry, pufferfish, puffer, fish, arothon, stellatus, tetraodontidae, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 attributes:
 - 11
@@ -15,47 +14,63 @@ family: Tetraodontidae
 genus: Arothon
 species: stellatus
 updated: Nov 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/stellatus/sbr2019-054-055-stellatus.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/stellatus/sbr2019-054-055-stellatus.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/stellatus/sbr2019-054-055-stellatus.jpg
-    caption: Live one, seen diving. Photo by Toh Chay Hoon from Singapore 
-      Biodiversity Records 2019:54-55
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/stellatus/161214sjiro1a.jpg
-    caption: Dead one that washed ashore. St. John's Island, Dec 16 Photo shared
-      by Rene Ong on facebook .
-  gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/stellatus/230608tmftky2.jpg
-    caption: Tanah Merah Ferry Terminal, Jun 23 Photo shared by Kelvin Yong on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/stellatus/161214sjiro2.jpg
-    caption: Dead/dying washed ashore. St. John's Island, Dec 16 Photo shared by
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/stellatus/sbr2019-054-055-stellatus.jpg
+    caption: Live one, seen diving. Photo by Toh Chay Hoon from Singapore Biodiversity
+      Records 2019:54-55
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/stellatus/161214sjiro1a.jpg
+    caption: Dead one that washed ashore. St. John's Island, Dec 16 Photo shared by
       Rene Ong on facebook .
-links_references: |
-  **Links**
+  gallery2:
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/stellatus/230608tmftky2.jpg
+    caption: Tanah Merah Ferry Terminal, Jun 23 Photo shared by Kelvin Yong on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/stellatus/161214sjiro2.jpg
+    caption: Dead/dying washed ashore. St. John's Island, Dec 16 Photo shared by Rene
+      Ong on facebook .
+links_references: '**Links**
+
   - [Stellate puffer (
+
   *Arothron stellatus*
+
   )](http://www.fishbase.org/summary/6526)
+
   and from
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheet.
 
+
   **References**
+
   - Toh Chay Hoon & Kelvin K. P. Lim.
-  *Blue-spotted pufferfish (Arothron caeruleopunctatus) observed in the Singapore Strait*
-  . 30 April 2019. Singapore Biodiversity Records 2019: 54-55 ISSN 2345-7597. National University of Singapore.
+
+  *Blue-spotted pufferfish (Arothron caeruleopunctatus) observed in the Singapore
+  Strait*
+
+  . 30 April 2019. Singapore Biodiversity Records 2019: 54-55 ISSN 2345-7597. National
+  University of Singapore.
+
   - Tan Heok Hui. 29 July 2016. Starry pufferfish (
+
   *Arothon stellatus*
-  ) with barnacles in its gut sold for food in a market. Singapore Biodiversity Records 2016: 102-103
+
+  ) with barnacles in its gut sold for food in a market. Singapore Biodiversity Records
+  2016: 102-103
+
+  '
 location:
 - tm
 - ecp
 - sji
+size:
+- 30.0
+- 50.0
+- 120.0
 ---
 
 ## Where seen?

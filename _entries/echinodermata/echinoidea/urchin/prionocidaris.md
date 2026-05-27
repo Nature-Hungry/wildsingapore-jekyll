@@ -1,10 +1,9 @@
 ---
 title: Thorny sea urchin
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: thorny, pencil, urchin, prinocidaris, bispinosa, echinoid, echinoderm,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: thorny, pencil, urchin, prinocidaris, bispinosa, echinoid, echinoderm, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 attributes:
 - 0
@@ -31,60 +30,67 @@ updated: Apr 2020
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/prionocidaris/080507skdd2542m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/prionocidaris/080507skdd2542m3.jpg
     caption: Pulau Sekudu, May 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/prionocidaris/080507skdd2542m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/prionocidaris/080507skdd2542m3a.jpg
     caption: Upperside with five short sharp spines.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/prionocidaris/030619bbd0219m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/prionocidaris/030619bbd0219m3.jpg
     caption: Beting Bronok, Jun 03
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/prionocidaris/080507skdd2540m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/prionocidaris/080507skdd2540m3.jpg
     caption: Underside.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/prionocidaris/080507skdd2540m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/prionocidaris/080507skdd2540m3b.jpg
     caption: Mouth surrounded by flattened spines.
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/prionocidaris/231214cjvc1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/prionocidaris/231214cjvc1.jpg
     caption: Chek Jawa, Dec 23 Photo shared by Vincent Choo on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/prionocidaris/090309cyrlks03m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/prionocidaris/090309cyrlks03m3.jpg
     caption: Cyrene Reef, Mar 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/prionocidaris/090309cyrlks03m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/prionocidaris/090309cyrlks03m3a.jpg
     caption: Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/prionocidaris/100809cyrjk2m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/prionocidaris/100809cyrjk2m3.jpg
     caption: Cyrene Reef, Sep 10 Photo shared by James Koh on his blog .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/prionocidaris/171104cyrlks5.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/prionocidaris/171104cyrlks5.jpg
     caption: Cyrene Reef, Nov 17 Photo shared by Loh Kok Sheng on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [The Echinoid Directory](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/)
-  by Dr. Andrew B. Smith on the London Natural History Museum website: everything you could possibly want to know about sand dollars and sea urchins with lots of large close-up images and explanatory diagrams. Lots of technical descriptions of
+
+  by Dr. Andrew B. Smith on the London Natural History Museum website: everything
+  you could possibly want to know about sand dollars and sea urchins with lots of
+  large close-up images and explanatory diagrams. Lots of technical descriptions of
+
   [*Prionocidaris*](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/GENERA/CIDAROID/CIDIDAE/CIDARINAE/PRIONOCID.jsp)
+
   - [*Prionocidaris baculosa*](http://www.sealifebase.org/summary/Prionocidaris-baculosa.html)
+
   and
+
   *[Prionocidaris bispinosa](http://www.sealifebase.org/summary/Prionocidaris-bispinosa.html)*
+
   on SeaLife Base: Technical fact sheet.
 
+
   **References**
+
   - Lane, David J.W. and Didier Vandenspiegel. 2003.
+
   *A Guide to Sea Stars and Other Echinoderms of Singapore*
+
   . Singapore Science Centre. 187pp.
+
+  '
 location:
 - chg
 - cj
 - skd
 - bb
 - cyr
+size:
+- 4.0
+- 5.0
 ---
 
 ## Where seen?
@@ -95,7 +101,7 @@ This beautiful pink urchin with unique spiny spines is seasonally common on some
 Body diameter 4-5cm. It has spines on its spines! The thick spines are long (4-5cm to 10-12cm), armed with small spines and may be colourful and banded in pink and yellow or beige. Because of its thick spines, it is sometimes called the Pencil sea urchin. Several different kinds of spines may be seen even on the same sea urchin. On the upper side, some long spines have sharp tips and sharp small spines. Other long spines may be blunt or or even square-tipped and have blunt small spines. On the upperside, there are five short, sharp pointed spines usually held crossed over one another forming a tent over the centre of the body. Long tube feet may emerge from the sides of the spherical body when the sea urchin is submerged in water. On the underside, the mouth is surrounded by short flattened blunt spines. Other longer spines on the underside have blunt tips too, possibly used for burrowing?
 
 In some, the longer spines are covered sediments. Sometimes,
-[tiny brittle stars](../../ophiuroidea/tinycolourful.md)
+[tiny brittle stars](../../ophiuroidea/tinycolourful)
 are seen wrapped around its spines. Or encrusting ascidians may grow on the spines.
 
 **Status and threats:**

@@ -1,10 +1,9 @@
 ---
 title: Green-shouldered goby
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: green, shoulder, goby, acentrogobius, caninus, fish, gobiidae, field, 
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: green, shoulder, goby, acentrogobius, caninus, fish, gobiidae, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 attributes:
 - 25
@@ -25,38 +24,47 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Gobiinae
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/caninus/070616chgg0370m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/caninus/070616chgg0370m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/caninus/070616chgg0370m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/caninus/070616chgg0370m3.jpg
     caption: Changi, Jun 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/caninus/100913prpd1556m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/caninus/100913prpd1556m6l.jpg
     caption: Large dark spot on its 'shoulder'. Pasir Ris, Sep 10
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/caninus/251009sjiccn2.jpg
-    caption: St John's Island, Oct 25 Photo shared by Che Cheng Neo on facebook 
-      .
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/caninus/251009sjiccn2.jpg
+    caption: St John's Island, Oct 25 Photo shared by Che Cheng Neo on facebook .
+links_references: '**Links**
+
   - [*Acentrogobius caninus*
+
   (Tropical sand goby)](http://fishbase.org/summary/4894)
+
   from
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheet.
 
+
   **References**
+
   - Larson, Helen K and Kelvin K. P. Lim. 2005.
+
   *A Guide to Gobies of Singapore*
+
   . Singapore Science Centre. 164pp.
+
+  '
 location:
 - prp
 - chg
 - sji
 - hnt
+size:
+- 10.0
+- 3.0
+- 5.0
 ---
 
 ## Where seen?

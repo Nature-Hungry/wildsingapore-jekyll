@@ -1,10 +1,9 @@
 ---
 title: Flat-spire nerite snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: flatspire, flat, spire, nerita, nerite, ilynerita, planospira, 
-  neritidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, 
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: flatspire, flat, spire, nerita, nerite, ilynerita, planospira, neritidae,
+  gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Neritidae
 genus: Nerita
@@ -20,43 +19,66 @@ order: Cycloneritida
 superfamily: Neritoidea
 subfamily: Neritinae
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/planospira/050809lckg1009m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/planospira/050809lckg1009m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/planospira/050809lckg1009m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/planospira/050809lckg1009m3.jpg
     caption: Lim Chu Kang, Aug 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/planospira/050809lckg1011m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/planospira/050809lckg1011m3.jpg
     caption: Lim Chu Kang, Aug 05
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Flatspired nerite (
+
   *Nerita planospira*
+
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86838)
+
   on SeaBase Life: Technical fact sheet.
+
   - Flatspired nerite (
+
   *Nerita planospira*
-  ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+
+  ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide
+  for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
+
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
+
   **References**
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Tan, S.K. & Clements, R. (2008)
+
   [Taxonomy and distribution of the Neritidae (Mollusca: Gastropoda) on Singapore](http://zoolstud.sinica.edu.tw/Journals/47.4/481.pdf)
+
   . Zoological Studies 47(4): 481-494.
+
   - Abbott, R. Tucker, 1991.
+
   *Seashells of South East Asia*
+
   . Graham Brash, Singapore. 145 pp.
+
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+
   . Nature Society (Singapore). 285 pp.
+
+  '
 location:
 - lck
+size:
+- 2.0
 ---
 
 ## Where seen?

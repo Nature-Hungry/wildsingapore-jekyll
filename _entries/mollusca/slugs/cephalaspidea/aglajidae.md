@@ -1,10 +1,9 @@
 ---
 title: Tailed-slugs
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: tailed, slug, seaslug, bubble, shell, snail, aglajidae, cephalaspidea,
-  opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine,
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: tailed, slug, seaslug, bubble, shell, snail, aglajidae, cephalaspidea, opisthobranch,
+  gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Aglajidae
 genus: ''
@@ -24,30 +23,23 @@ updated: May 2020
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/black/150219cyrd1306m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/black/150219cyrd1306m6l.jpg
     caption: A pair of tails, one longer than the other. Cyrene Reef, Feb 12
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/reticulata/110319cyrs07381m6la.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/reticulata/110319cyrs07381m6la.jpg
     caption: Reticulated tailed-slug
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/lineolata/150219cyrlks2m3.JPG
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/lineolata/150219cyrlks2m3.JPG
     caption: Lined tailed-slug
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/black/150219cyrd1308m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/black/150219cyrd1308m3.jpg
     caption: Black tailed-slug
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pilsbryi/080819cyrd9842m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pilsbryi/080819cyrd9842m3.jpg
     caption: Batik tailed-slug
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/aglajidae/150219cyrlks1m3.JPG
-    caption: Philinopsis speciosa Cyrene Reef, Feb 1 6 Photo shared by Loh Kok 
-      Sheng on his blog Identified by Toh Chay Hoon on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/aglajidae/071124smkd7509m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/aglajidae/150219cyrlks1m3.JPG
+    caption: Philinopsis speciosa Cyrene Reef, Feb 1 6 Photo shared by Loh Kok Sheng
+      on his blog Identified by Toh Chay Hoon on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/aglajidae/071124smkd7509m3.jpg
     caption: Chelidonura pallida Pulau Semakau, Nov 07
 location:
 - chg
@@ -65,11 +57,11 @@ Long, cylindrical body with a pair of 'wings' (called parapodia) which fold over
 
 **What do they eat?**
 Some tailed slugs are carnivores and eat their prey whole, crushing them with hard calcareous plates in the gizzard. Their prey include other slugs,
-[flatworms](../../../worm/polycladida/polycladida.md)
+[flatworms](../../../worm/polycladida/polycladida)
 ,
-[acoel flatworms](../../../worm/acoela/acoela.md)
+[acoel flatworms](../../../worm/acoela/acoela)
 and
-[polychaete worms](../../../worm/polychaeta/polychaeta.md)
+[polychaete worms](../../../worm/polychaeta/polychaeta)
 . Some have well developed structures to track down their prey by following the prey's mucous trail. Others are herbivores.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
@@ -107,7 +99,7 @@ Chelidonura pallida*
 (Pale tailed-slug)
 
 [*Chelidonura*
-sp.](black.md)
+sp.](black)
 (Black tailed-slug)
 
 +
@@ -118,18 +110,18 @@ sp.
 
 +Odontoglaja guamensis*
 
-*[Philinopsis](pilsbryi.md)*
+*[Philinopsis](pilsbryi)*
 [cf.
-*pilsbryi*](pilsbryi.md)
+*pilsbryi*](pilsbryi)
 (Batik tailed-slug)
-*[Philinopsis reticulata](reticulata.md)*
+*[Philinopsis reticulata](reticulata)*
 (Reticulated tailed-slug)
 
 +
 *Philinopsis speciosa
 
 +
-[Tubulophilinopsis lineolata](lineolata.md)
+[Tubulophilinopsis lineolata](lineolata)
 =Philinopsis lineolata*
 (Lined tailed-slug)
 

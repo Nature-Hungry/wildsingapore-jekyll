@@ -36,4 +36,4 @@ galleries:
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
 
 back to
-[general info on plate montipora corals](monplbumpy.md)
+[general info on plate montipora corals](monplbumpy)

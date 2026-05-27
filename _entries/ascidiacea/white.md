@@ -1,42 +1,32 @@
 ---
 title: 'White ascidian (Ascidiacea) '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: white, blob, ascidian, squirt, seasquirt, tunicate, ascidiacea, 
-  urochordate, chordate, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: white, blob, ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate,
+  chordate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 updated: Feb 2020
 phylum: Chordata
 subphylum: Tunicata
 class: Ascidiacea
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/ascidiacea/white/050526cjg6883m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/white/050526cjg6883m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/ascidiacea/white/050526cjg6883m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/white/050526cjg6883m3.jpg
     caption: Chek Jawa, May 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/ascidiacea/white/050526cjg6883m3a.jpg
-    caption: Some slightly larger holes have transparent cones with white 
-      stripes.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/ascidiacea/white/050526cjg6883m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/white/050526cjg6883m3a.jpg
+    caption: Some slightly larger holes have transparent cones with white stripes.
+  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/white/050526cjg6883m3b.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/ascidiacea/white/050623cjg8306m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/white/050623cjg8306m3.jpg
     caption: Chek Jawa, Jun 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/ascidiacea/white/050822cjg2166m3c.jpg
+  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/white/050822cjg2166m3c.jpg
     caption: Chek Jawa, Aug 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/ascidiacea/white/110814smkd9123m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/white/110814smkd9123m3.jpg
     caption: Pulau Semakau, Aug 11
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/ascidiacea/white/200125prpAhd3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/white/200125prpAhd3.jpg
     caption: Pasir Ris Park, Jan 20 Photo shared by Nurulhuda on facebook .
 location:
 - prp
@@ -46,6 +36,9 @@ location:
 - cyr
 - smk
 - tsm
+size:
+- 2.0
+- 5.0
 ---
 
 ## Where seen?

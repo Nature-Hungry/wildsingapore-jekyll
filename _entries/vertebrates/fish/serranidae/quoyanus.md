@@ -1,10 +1,9 @@
 ---
 title: Honeycomb grouper
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: honey, comb, grouper, fish, epinephalus, quoyanus, serranidae, field, 
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: honey, comb, grouper, fish, epinephalus, quoyanus, serranidae, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 attributes:
 - 25
@@ -24,45 +23,64 @@ superorder: Acanthomorpha
 order: Perciformes
 suborder: Percoidei
 updated: Oct 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/quoyanus/110602tmftd3552m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/quoyanus/110602tmftd3552m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/quoyanus/110602tmftd3552m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/quoyanus/110602tmftd3552m3.jpg
     caption: Tanah Merah, Jun 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/quoyanus/110418tmftd9031m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/quoyanus/110418tmftd9031m6l.jpg
     caption: Tanah Merah, Apr 11
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/quoyanus/180106sntay1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/quoyanus/180106sntay1.jpg
     caption: Sentosa Tg Rimau, Jan 18 Photo shared by Abel Yeo on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Longfin grouper (
+
   *Epinephelus quoyanus*
+
   )](http://fishbase.sinica.edu.tw/Summary/speciesSummary.php?ID=6475)
+
   from
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheet.
 
+
   **References**
+
   - Kelvin K. P. Lim. 28 Jul 2017.
+
   *Longfin grouper, Epinephelus quoyanus, in Sisters Islands Marine Park*
+
   . Singapore Biodiversity Records 2017: 93.
+
   - Allen, Gerry, 2000.
+
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
+
   . Periplus Editions. 292 pp.
+
   - Kuiter, Rudie H. 2002.
+
   *Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers & Fishermen*
+
   New Holland Publishers. 434pp.
+
   - Lieske, Ewald and Robert Myers. 2001.
+
   *Coral Reef Fishes of the World*
+
   Periplus Editions. 400pp.
+
+  '
 location:
 - tm
 - snt
+size:
+- 35.0
+- 40.0
 ---
 
 ## Where seen?

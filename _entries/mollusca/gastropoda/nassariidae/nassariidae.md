@@ -1,10 +1,9 @@
 ---
 title: Whelks
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: whelk, nassarius, nassariidae, gastropod, mollusc, shell, snail, 
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: whelk, nassarius, nassariidae, gastropod, mollusc, shell, snail, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 family: Nassariidae
 genus: ''
@@ -19,108 +18,139 @@ subclass: Caenogastropoda
 order: Neogastropoda
 superfamily: Buccinoidea
 updated: Aug 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/050609cftg7531m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/050609cftg7531m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... These tiny snails are 
-      scavengers. When you see a dead thing, look for them! The siphon of a 
-      whelk can be as long as its body. Sometimes, a tiny sea anemone hitches a 
-      ride on the shell of a living whelk.
+    caption: if you learn only 3 things about them ... These tiny snails are scavengers.
+      When you see a dead thing, look for them! The siphon of a whelk can be as long
+      as its body. Sometimes, a tiny sea anemone hitches a ride on the shell of a
+      living whelk.
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: These tiny snails are scavengers. When you see a dead thing, look 
-      for them! The siphon of a whelk can be as long as its body. Sometimes, a 
-      tiny sea anemone hitches a ride on the shell of a living whelk.
+    caption: These tiny snails are scavengers. When you see a dead thing, look for
+      them! The siphon of a whelk can be as long as its body. Sometimes, a tiny sea
+      anemone hitches a ride on the shell of a living whelk.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/050609cftg7531m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/050609cftg7531m3.jpg
     caption: With a large barnacle on the shell. Changi, May 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/050818cftg1443m3.jpg
-    caption: Burrowing just beneath the sand with siphon sticking out. Changi, 
-      Aug 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/noid/040425cjd0095m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/050818cftg1443m3.jpg
+    caption: Burrowing just beneath the sand with siphon sticking out. Changi, Aug
+      05
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/noid/040425cjd0095m3.jpg
     caption: With a pair of tiny sea anemone hitch-hikers. Chek Jawa, Apr 04
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/crustacea/othercrust/anomura/hermit/lavender/070218tmd8085m3a.jpg
-    caption: Whelks cleaning out a recently dead snail while a hermit crab waits
-      patiently. Tanah Merah, Feb 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/noid/030913cjd0102m3.jpg
+  - url: http://www.wildsingapore.com/crustacea/othercrust/anomura/hermit/lavender/070218tmd8085m3a.jpg
+    caption: Whelks cleaning out a recently dead snail while a hermit crab waits patiently.
+      Tanah Merah, Feb 07
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/noid/030913cjd0102m3.jpg
     caption: Whelk Joy! Dead fish! Chek Jawa, Sep 03
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/noid/100103sisd7635m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/noid/100103sisd7635m3.jpg
     caption: A small fish all to itself. Sisters Island, Jan 10
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/jackonianus/050511cftg6345m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/jackonianus/050511cftg6345m3.jpg
     caption: Mud whelk
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/050524cftg6541m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/050524cftg6541m3.jpg
     caption: Common whelk
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/pullus/060212sisg4807m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/pullus/060212sisg4807m3.jpg
     caption: Black whelk
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/050818cftg1447m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/050818cftg1447m3.jpg
     caption: Olive whelk
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/lined/070104chgd7442m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/lined/070104chgd7442m3.jpg
     caption: Lined whelk
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/prickly/080919sntd0554m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/prickly/080919sntd0554m3.jpg
     caption: Prickly whelk
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/limnaeiformis/130330cyrd4898m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/limnaeiformis/130330cyrd4898m3.jpg
     caption: Speckled whelk
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Mud whelk (
+
   *Nassarius jacksonianus*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2087.md)
+
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2087)
+
   Ng, Peter K. L. & N. Sivasothi, 1999.
+
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
+
   . Singapore Science Centre. 168 pp.
+
   - [Family Nassariidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Nassariidae.html)
-  on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief fact sheet with photos.
-  - [Family Nassariidae (Dog whelks)](http://seashellsofnsw.org.au/Nassariidae/Pages/nassariidae_intro.md)
+
+  on The Gladys Archerd Shell Collection at Washington State University Tri-Cities
+  Natural History Museum website: brief fact sheet with photos.
+
+  - [Family Nassariidae (Dog whelks)](http://seashellsofnsw.org.au/Nassariidae/Pages/nassariidae_intro)
+
   on the
-  [The Seashells of New South Wales](http://seashellsofnsw.org.au/index.md)
-  website by Des Beechey Research Associate, Australian Museum: family introductions with photos of shells and detailed fact sheets for many species.
-  - Family Nassariidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+
+  [The Seashells of New South Wales](http://seashellsofnsw.org.au/index)
+
+  website by Des Beechey Research Associate, Australian Museum: family introductions
+  with photos of shells and detailed fact sheets for many species.
+
+  - Family Nassariidae in the Gastropods section by J.M. Poutiers in the FAO Species
+  Identification Guide for Fishery Purposes: The Living Marine Resources of the Western
+  Central Pacific
+
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
+
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
+
   **References**
+
   - Ng Hiong Eng & Chan Sow Yan. 28 Apr 2017.
+
   *Record of three marine snails from the Singapore Strait: Nassarius acuticostus*
+
   . Singapore Biodiversity Records 2017: 50.
+
   - Tan Siong Kiat. 9 May 2014.
+
   *First record of Nassarius biendongensis from Singapore*
+
   . Singapore Biodiversity Records 2014: 124-125
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Tan, K. S. & L. M. Chou, 2000.
+
   *A Guide to the Common Seashells of Singapore*
+
   . Singapore Science Centre. 160 pp.
+
   - Wee Y.C. and Peter K. L. Ng. 1994.
+
   *A First Look at Biodiversity in Singapore*
+
   . National Council on the Environment. 163pp.
+
   - Ng, P. K. L. & Y. C. Wee, 1994.
+
   *The Singapore Red Data Book: Threatened Plants and Animals of Singapore*
+
   . The Nature Society (Singapore), Singapore. 343 pp.
+
   - Bunjamin Dharma. 1988.
+
   *Indonesian shells (Siput dan Kerang Indonesia)*
+
   . PT Sarana Graha. Indonesia. 111 pp.
+
   - Abbott, R. Tucker, 1991.
+
   *Seashells of South East Asia*
+
   . Graham Brash, Singapore. 145 pp.
+
+  '
 location:
 - tm
 - lab
@@ -128,6 +158,8 @@ location:
 - kus
 - sji
 - sis
+size:
+- 2.0
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?
@@ -142,9 +174,9 @@ Whelks are active scavengers and often seen busily foraging in pools at the chan
 
 **Whelk friends:**
 Often, a
-[tiny sea anemone](../../../cnidaria/actiniaria/snail.md)
+[tiny sea anemone](../../../cnidaria/actiniaria/snail)
 hitches a ride on the shell of a whelk! The anemone probably benefits from the whelk's left overs, and avoids being permanently buried in the sediments. It is not certain if the whelk gets anything in return.
-[Barnacles](../../../crustacea/othercrust/ciriipedia/cirripedia.md)
+[Barnacles](../../../crustacea/othercrust/ciriipedia/cirripedia)
 may sometimes also be found on the shells of large living whelks.
 
 **Human uses:**
@@ -209,7 +241,7 @@ Nassarius concinnus
 Nassarius crematus
 
 Nassarius crenoliratus*
-*[Nassarius echinatus](prickly.md)*
+*[Nassarius echinatus](prickly)*
 (Prickly whelk)
 *Nassarius exulatus
 
@@ -227,15 +259,15 @@ Nassarius hepaticus
 
 Nassarius himeroessa
 
-[Nassarius jacksonianus](jacksonianus.md)*
+[Nassarius jacksonianus](jacksonianus)*
 (Mud whelk)
 *Nassarius javanus
 
 Nassarius leptospirus
 
-[Nassarius limnaeiformis](limnaeiformis.md)*
+[Nassarius limnaeiformis](limnaeiformis)*
 (Speckled whelk)
-*[Nassarius livescens](livescens.md)*
+*[Nassarius livescens](livescens)*
 (Common whelk)
 *Nassarius luridus=^Nassarius graphiterus
 
@@ -245,13 +277,13 @@ Nassarius mitralis
 
 Nassarius nodifer
 
-[Nassarius olivaceus](olivaceus.md)*
+[Nassarius olivaceus](olivaceus)*
 (Olive whelk)
 *Nassarius pauperus=^Nassarius pauper
 
 Nassarius praematuratus
 
-[Nassarius pullus](pullus.md)*
+[Nassarius pullus](pullus)*
 (Black whelk)
 *Nassarius quadrasi
 
@@ -263,7 +295,7 @@ Nassarius stolatus
 
 Nassarius succinctus
 
-[Nassarius teretiusculus](lined.md)*
+[Nassarius teretiusculus](lined)*
 (Lined whelk)
 
 ---

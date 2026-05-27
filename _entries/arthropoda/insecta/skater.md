@@ -1,10 +1,8 @@
 ---
 title: Sea skaters
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: skaters, water, strider, halovelia, gerridae, insect, field, guide, 
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
-  sheet, info
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: skaters, water, strider, halovelia, gerridae, insect, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry
 family: Veliidae
 genus: ''
@@ -22,31 +20,37 @@ suborder: Heteroptera
 infraorder: Gerromorpha
 superfamily: Gerroidea
 updated: Jan 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/insecta/skater/080831sisd0183m3a.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/insecta/skater/080831sisd0183m3a.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/insecta/skater/080831sisd0183m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/insecta/skater/080831sisd0183m3a.jpg
     caption: A mating pair of Halobates hayanus Sisters Island, Aug 08
   - url: http://www.wildsingapore.com/wildfacts/insecta/skater/070102sismn.jpg
     caption: A mating pair of Halobates hayanus Sisters Island, Jan 07
   - url: http://www.wildsingapore.com/wildfacts/insecta/skater/200111smksjc2.jpg
-    caption: Pulau Semakau (South), Jan 20 Photo shared by Joleen Chan on 
-      facebook .
-links_references: |
-  **Links**
+    caption: Pulau Semakau (South), Jan 20 Photo shared by Joleen Chan on facebook
+      .
+links_references: '**Links**
+
   - [Sea Skater
-  *Halovelia*](http://mangrove.nus.edu.sg/pub/seashore/text/172.md)
+
+  *Halovelia*](http://mangrove.nus.edu.sg/pub/seashore/text/172)
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
+
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+
   . The Singapore Science Centre, Singapore. 160 pp.
+
+  '
 location:
 - ecp
 - snt
 - kus
 - sis
 - smk
+size:
+- 1.0
 ---
 
 ## Where seen?

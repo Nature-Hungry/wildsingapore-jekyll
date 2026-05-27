@@ -1,10 +1,9 @@
 ---
 title: Omelette leathery soft coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: sarcophyton, alcyoniidae, alcyonacea, leathery, soft, coral, cnidaria,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: sarcophyton, alcyoniidae, alcyonacea, leathery, soft, coral, cnidaria, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 attributes: []
 family: Alcyoniidae
@@ -18,80 +17,86 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Dec 2024
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/050807sjig0617m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/050807sjig0617m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/050807sjig0617m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/050807sjig0617m3.jpg
     caption: St. John's Island, Aug 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/110802smkd8147m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/110802smkd8147m3.jpg
     caption: Pulau Semakau, Aug 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/120621cyrd5934m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/120621cyrd5934m3.jpg
     caption: Cyrene Reef, Jun 12
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/100812tpld0375m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/100812tpld0375m3.jpg
     caption: Colony usually mushroom shaped. Terumbu Pempang Laut, Aug 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/160724tpto7240179m3.jpg
-    caption: Bleaching and 'melting' colony during mass coral bleaching. Terumbu
-      Pempang Tengah, Jul 16
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/160724tpto7240179m3.jpg
+    caption: Bleaching and 'melting' colony during mass coral bleaching. Terumbu Pempang
+      Tengah, Jul 16
   - url: http://www.wildsingapore.com/ctenophora/coeloplana/120722cyrd8101m3.jpg
     caption: Tiny ctenophores sometimes seen. Cyrene Reef, Jul 12
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/140518tmlks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/140518tmlks.JPG
     caption: Tanah Merah, May 14 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/220618tmftlks20.jpg
-    caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on
-      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/220618tmftlks20.jpg
+    caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on facebook
+      .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/100130brkd8474m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/100130brkd8474m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/091204pawd5270m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/091204pawd5270m3.jpg
     caption: Pulau Pawai, Dec 09
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/100810sngd9982m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/100810sngd9982m3.jpg
     caption: Pulau Senang, Aug 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/100613sngd5501m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/100613sngd5501m3.jpg
     caption: Pulau Senang, Jun 10 Bleaching.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/100811slud0054m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/100811slud0054m3.jpg
     caption: Pulau Salu, Aug 10
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/091205sudd5501m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/091205sudd5501m3.jpg
     caption: Pulau Sudong, Dec 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/100131slud8803m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/100131slud8803m3.jpg
     caption: Terumbu Salu, Jan 10
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Sarcophyton*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Sarcophyton)
+
   on
+
   [Reef Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding)
+
   on the
+
   [Marine Species Identification Portal](http://species-identification.org/index.php)
+
   : Technical fact sheet and photos.
 
+
   **References**
-  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024.
+
+  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
+  Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H.
+  Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024.
+
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+
   . 3rd edition. National Parks Board. 663 pp.
+
   - Y. Benayahu and L. M. Chou, 28 Feb 2010.
-  *On some Octocorallia (Cnidaria: Anthozoa: Alcyonacea) from Singapore, with a description of a new Cladiella species*
+
+  *On some Octocorallia (Cnidaria: Anthozoa: Alcyonacea) from Singapore, with a description
+  of a new Cladiella species*
+
   . The Raffles Bulletin of Zoology 58(1) Pp. 1-13.
+
   - Fabricius, Katharina and Philip Alderslade, 2001.
+
   *Soft Corals and Sea Fans*
-  . Australian Institute of Marine Science and the Museum and Art Gallery of the Northern Territoriy. 264 pp
+
+  . Australian Institute of Marine Science and the Museum and Art Gallery of the Northern
+  Territoriy. 264 pp
+
+  '
 location:
 - tm
 - lab
@@ -109,6 +114,9 @@ location:
 - tsm
 - rfl
 - lfa
+size:
+- 30.0
+- 50.0
 ---
 
 ## Where seen?
@@ -124,7 +132,7 @@ The colony has both autozooids and siphonozooids. Autozooid polyps have long sle
 During mass coral bleaching, this leathery soft coral not only bleaches but is sometimes also seen to 'melt'. Large holes form in the common tissue so the colony resembles melting cheese. Eventually, the result is that the colony divides into several smaller blobs. Perhaps one way of ensuring at least one of the blobs survives the bleaching event?
 
 Sometimes, tiny
-[ctenophores](../../ctenophora/coeloplana.md)
+[ctenophores](../../ctenophora/coeloplana)
 may be seen on large colonies, so well camouflaged that they are often found by the long fine strings that they produce.
 
 **Status and threats:**
@@ -170,7 +178,7 @@ species recorded for Singapore**
 **
 from Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
 
-**[Family Alcyoniidae](alcyoniidae.md)
+**[Family Alcyoniidae](alcyoniidae)
 
 Genus
 *Sarcophyton***

@@ -1,10 +1,9 @@
 ---
 title: Bazillion snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: zoned, horn, snail, shell, batillaria, zonalis, batillariidae, 
-  potamididae, gastropod, mollusc, mangrove, field, guide, seashore, sea, shore,
-  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: zoned, horn, snail, shell, batillaria, zonalis, batillariidae, potamididae,
+  gastropod, mollusc, mangrove, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 23
@@ -25,59 +24,66 @@ class: Gastropoda
 subclass: Caenogastropoda
 superfamily: Cerithioidea
 updated: Jul 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/batillariidae/zonalis/060212sisg4815m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/batillariidae/zonalis/060212sisg4815m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/batillariidae/zonalis/060212sisg4815m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/batillariidae/zonalis/060212sisg4815m3.jpg
     caption: Sisters Islands, Feb 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/batillariidae/zonalis/060212sisg4815m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/batillariidae/zonalis/060212sisg4815m3b.jpg
     caption: Upturned siphonal canal near the opening
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/batillariidae/zonalis/060212sisg4815m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/batillariidae/zonalis/060212sisg4815m3a.jpg
     caption: Circular operculum made of horn-like material.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/batillariidae/zonalis/091218tmd5967m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/batillariidae/zonalis/091218tmd5967m6l.jpg
     caption: Sometimes forming bands of many individuals. Tanah Merah, Dec 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/batillariidae/zonalis/110506tmfts01598.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/batillariidae/zonalis/110506tmfts01598.jpg
     caption: Can cover large areas densely. Tanah Merah, May 11
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/batillariidae/zonalis/090606tmftd3319m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/batillariidae/zonalis/090606tmftd3319m3.jpg
     caption: Seen floating on the water surface. Tanah Merah, Jun 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/batillariidae/zonalis/111226tmftd4912m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/batillariidae/zonalis/111226tmftd4912m3.jpg
     caption: Tanah Merah, Dec 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/batillariidae/zonalis/111226tmftd4912m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/batillariidae/zonalis/111226tmftd4912m3a.jpg
     caption: A look at the living animal.
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/batillariidae/zonalis/201116lazmn2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/batillariidae/zonalis/201116lazmn2.jpg
     caption: Seringat-Kias, Nov 20 Photo shared by Marcus Ng on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Creeper Shell (
+
   *Batillaria zonalis*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/138.md)
+
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/138)
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
+
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+
   . The Singapore Science Centre, Singapore. 160 pp.
 
+
   **References**
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Tan, K. S. & L. M. Chou, 2000.
+
   *A Guide to the Common Seashells of Singapore*
+
   . Singapore Science Centre. 160 pp.
+
   - Abbott, R. Tucker, 1991.
+
   *Seashells of South East Asia*
+
   . Graham Brash, Singapore. 145 pp.
+
+  '
 location:
 - prp
 - chg
@@ -93,6 +99,9 @@ location:
 - hnt
 - smk
 - lfa
+size:
+- 2.0
+- 3.0
 ---
 
 ## Where seen?
@@ -115,10 +124,10 @@ large, flared with upturned spout at the tip
 Sometimes, they are seen in 'bands' of many individuals. Small ones have been seen floating on the water surface with the broad foot.
 
 **Sometimes mistaken for**
-[Creeper snails](../cerithiidae/cerithiidae.md)
+[Creeper snails](../cerithiidae/cerithiidae)
 (Family Cerithiidae).
 More on
-[how to tell these snails apart](../certihpotamid.md)
+[how to tell these snails apart](../certihpotamid)
 .
 
 **What does it eat?**

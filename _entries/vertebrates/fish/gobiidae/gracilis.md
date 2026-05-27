@@ -1,10 +1,9 @@
 ---
 title: Slender mudskipper
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: mudskipper, mud, skipper, fish, gobiidae, goby, periophthalmus, 
-  gracilis, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: mudskipper, mud, skipper, fish, gobiidae, goby, periophthalmus, gracilis,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 attributes:
 - 9
@@ -27,42 +26,59 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Oxudercinae
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gracilis/130614cjd7195m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gracilis/130614cjd7195m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gracilis/130614cjd7195m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gracilis/130614cjd7195m3.jpg
     caption: Chek Jawa, Jun 13
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gracilis/090114labd5309m6l.jpg
-    caption: Large gap between the first dorsal fin and second dorsal fin 
-      Labrador, Jan 09
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gracilis/090114labd5309m6l.jpg
+    caption: Large gap between the first dorsal fin and second dorsal fin Labrador,
+      Jan 09
+links_references: '**Links**
+
   - [*Periophthalmus gracilis*](http://www.mudskipper.it/SpeciesPages/grac.html)
+
   from
+
   [The Mudskipper website](http://www.mudskipper.it/Intro.html)
+
   by Gianluca Polgar: Technical fact sheets with lots of photos.
+
   - [*Periophthalmus gracilis*](http://www.fishbase.org/Summary/SpeciesSummary.php?id=7481)
+
   from
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheet.
-  - [Slender mudskipper](http://www.ecologyasia.com/verts/brackish-fishes/slender-mudskipper.md)
+
+  - [Slender mudskipper](http://www.ecologyasia.com/verts/brackish-fishes/slender-mudskipper)
+
   on
+
   [EcologyAsia](http://www.ecologyasia.com/)
+
   : photo and fact sheet
 
+
   **References**
+
   - Larson, Helen K and Kelvin K. P. Lim. 2005.
+
   *A Guide to Gobies of Singapore*
+
   . Singapore Science Centre. 164pp.
+
+  '
 location:
 - prp
 - chg
 - cj
 - lab
 - smk
+size:
+- 4.0
+- 5.0
 ---
 
 ## Where seen?
@@ -75,7 +91,7 @@ A small, well camouflaged mudskipper that is seen in mangroves and other silty s
 of the
 [Encyclopedia of Life](http://www.eol.org/data_objects/8861310)
 highlighted these features that identify the Slender mudskipper: The first dorsal fin has a dark spot at the base towards the tail, lacks a white margin, lacks a red tint and is relatively small in size, with a wide interdorsal gap (distance between the first dorsal fin, and the longer dorsal fin further back on the top of the body). More about
-[how to tell apart small mudskippers](cfmudsmall.md)
+[how to tell apart small mudskippers](cfmudsmall)
 commonly found on our shores.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

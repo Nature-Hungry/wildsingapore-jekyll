@@ -24,15 +24,17 @@ updated: May 2020
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/090606tmftd3261m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/090606tmftd3261m3.jpg"
-      caption: Forskal's sidegill slug
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/euselenops/121214chged2264m3.jpg"
-      caption: Moon-headed sidegill slug
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/090606tmftd3261m3.jpg
+    caption: Forskal's sidegill slug
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/euselenops/121214chged2264m3.jpg
+    caption: Moon-headed sidegill slug
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/others/170528chglks3.jpg"
-      caption: "Pleurobranchea brockii Changi, May 17 Photo shared by Loh Kok Sheng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/others/170528chgjll1.jpg"
-      caption: "Pleurobranchea brockii Changi, May 17 Photo shared by Jianlin Liu on facebook ."
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/others/170528chglks3.jpg
+    caption: Pleurobranchea brockii Changi, May 17 Photo shared by Loh Kok Sheng on
+      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/others/170528chgjll1.jpg
+    caption: Pleurobranchea brockii Changi, May 17 Photo shared by Jianlin Liu on
+      facebook .
 ---
 
 ## Where seen?
@@ -40,11 +42,11 @@ Some species are sometimes seen on some of our shores.
 
 **What are sidegill slugs?**
 Sidegill slugs belong to
-[Phylum Mollusca](../../mollusca.md)
+[Phylum Mollusca](../../mollusca)
 and
-[Class Gastropoda](../../gastropoda.md)
+[Class Gastropoda](../../gastropoda)
 like other snails. Sidegill slugs belong to Order Notaspidae are NOT
-[nudibranchs](../../nudibranchia.md)
+[nudibranchs](../../nudibranchia)
 , which belong to a different Order Nudibranchia.
 
 ## Features
@@ -52,9 +54,9 @@ like other snails. Sidegill slugs belong to Order Notaspidae are NOT
 These slugs have a large plume-like gill between the mantle and the foot, usually on the right side of the body. They have a pair of tentacles (called rhinophores) made up of rolled up skin, and a plough-shaped structure (called the oral veil) in front of the head. Some sidegill slugs have an internal shell, others an external shell while one family does not have a shell at all. Many secrete sulphuric acid to deter predators. Most are found in shallow waters.
 **What do they eat?**
 These slugs are carnivorous and have strong jaws with a broad radula. Most feed on
-[sponges](../../../porifera/porifera.md)
+[sponges](../../../porifera/porifera)
 , some also feed on hard corals and
-[ascidians](../../../ascidiacea/ascidiacea.md)
+[ascidians](../../../ascidiacea/ascidiacea)
 . Some even eat other slugs and fishes.
 
 ---
@@ -86,7 +88,7 @@ from Tan Siong Kiat and Henrietta P. M. Woo, 2010
 
 *+Pleurobranchea brockii
 
-[Pleurobranchus forskalii](pleurobranchus.md)*
+[Pleurobranchus forskalii](pleurobranchus)*
 (Forskal's sidegill slug)
 
 **^Order Pleurobranchomorpha**
@@ -97,7 +99,7 @@ from Tan Siong Kiat and Henrietta P. M. Woo, 2010
 *Berthellina delicata*
 
 +
-[*Euselenops luniceps*](euselenops.md)
+[*Euselenops luniceps*](euselenops)
 (Moon-headed sidegill slugs)
 
 ---

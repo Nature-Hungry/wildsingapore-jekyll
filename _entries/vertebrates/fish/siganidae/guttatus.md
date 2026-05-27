@@ -1,10 +1,9 @@
 ---
 title: Orange-spotted rabbitfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: orange, spotted, rabbitfish, rabbit, fish, siganus, guttatus, 
-  siganidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: orange, spotted, rabbitfish, rabbit, fish, siganus, guttatus, siganidae,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 attributes:
 - 25
@@ -23,52 +22,61 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Oct 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/100527tmd3446m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/100527tmd3446m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/100527tmd3446m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/100527tmd3446m3.jpg
     caption: Tanah Merah, May 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/020811cjd492m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/020811cjd492m6l.jpg
     caption: Large golden spot near the tail. Chek Jawa, Aug 02
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/220811pglky2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/220811pglky2.jpg
     caption: Punggol, Aug 22 Photo shared by Kelvin Yong on facebook .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/230608tmftky3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/230608tmftky3.jpg
     caption: Tanah Merah, Jun 23 Photo shared by Kelvin Yong on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/130527tmlks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/130527tmlks.JPG
     caption: Tanah Merah, May 13 Photo shared by Loh Kok Sheng on flickr .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/240624sjiky5.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/240624sjiky5.jpg
     caption: St John's Island, Jun 24 Photo shared by Kelvin Yong on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/170820kusmn2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/170820kusmn2.jpg
     caption: Kusu Island, Aug 17 Photo shared by Marcus Ng on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Orange-spotted rabbitfish (
+
   *Siganus guttatus*
+
   )](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=4588)
+
   from
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheet.
-  - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.md)
-  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
+
+  - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00)
+
+  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources
+  of the Western Central Pacific.
+
 
   **References**
+
   - Allen, Gerry, 2000.
+
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
+
   . Periplus Editions. 292 pp.
+
   - Lieske, Ewald and Robert Myers. 2001.
+
   *Coral Reef Fishes of the World*
+
   Periplus Editions. 400pp.
+
+  '
 location:
 - cj
 - skd
@@ -76,6 +84,10 @@ location:
 - kus
 - sji
 - tsm
+size:
+- 40.0
+- 15.0
+- 20.0
 ---
 
 ## Where seen?

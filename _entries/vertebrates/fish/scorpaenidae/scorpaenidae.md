@@ -1,10 +1,8 @@
 ---
 title: Scorpionfishes
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: scorpionfish, scorpion, fish, scorpaenidae, field, guide, seashore, 
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, 
-  photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: scorpionfish, scorpion, fish, scorpaenidae, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Scorpaenidae
 genus: ''
@@ -20,79 +18,92 @@ superorder: Acanthomorpha
 order: Perciformes
 suborder: Scorpaenoidei
 updated: Oct 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/picta/110730tmftd7492m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/picta/110730tmftd7492m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They are well 
-      camouflaged. Look carefully to find them. Some have venomous spines. Don't
-      handle them! Their venom is only used for protection from predators and 
-      not to catch prey.
+    caption: if you learn only 3 things about them ... They are well camouflaged.
+      Look carefully to find them. Some have venomous spines. Don't handle them! Their
+      venom is only used for protection from predators and not to catch prey.
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They are well camouflaged. Look carefully to find them. Some have 
-      venomous spines. Don't handle them! Their venom is only used for 
-      protection from predators and not to catch prey.
+    caption: They are well camouflaged. Look carefully to find them. Some have venomous
+      spines. Don't handle them! Their venom is only used for protection from predators
+      and not to catch prey.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/picta/110730tmftd7492m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/picta/110730tmftd7492m3.jpg
     caption: Perfectly camouflaged! Tanah Merah, Jul 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/pterois/140809hntlks3m6l.jpg
-    caption: The Lionfish doesn't bother to hide! Pulau Hantu, Aug 15 Photo 
-      shared by Loh Kok Sheng on his blog .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/pterois/140809hntlks3m6l.jpg
+    caption: The Lionfish doesn't bother to hide! Pulau Hantu, Aug 15 Photo shared
+      by Loh Kok Sheng on his blog .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/synanceiidae/horrida/060312hntd0311m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/synanceiidae/horrida/060312hntd0311m3.jpg
     caption: The Stonefish is from a different family.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/centrogenyidae/vaigiensis/031029sntcd0014m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/centrogenyidae/vaigiensis/031029sntcd0014m3.jpg
     caption: The False scorpionfish is from a dffierent family.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/longispinis/050623cjg8365m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/longispinis/050623cjg8365m3.jpg
     caption: The Long-spined waspfish is now in a different family
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/picta/090923labd1778m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/picta/090923labd1778m3a.jpg
     caption: Painted scorpionfish
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/diabolus/120818lazd0164m3c.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/diabolus/120818lazd0164m3c.jpg
     caption: False stonefish
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/pterois/140809hntlks3m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/pterois/140809hntlks3m3.jpg
     caption: Lionfish
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/picta/090923labd1778m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/picta/090923labd1778m3.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/diabolus/120818lazd0164m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/diabolus/120818lazd0164m3a.jpg
     caption: ''
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
+
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
+
   . Singapore Science Centre. 163 pp.
+
   - [Family Scorpaenidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=264)
+
   from
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheet on the order, including a fact sheets on individual species.
 
+
   **References**
+
   - Wee Y.C. and Peter K. L. Ng. 1994.
+
   *A First Look at Biodiversity in Singapore*
+
   . National Council on the Environment. 163pp.
+
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
+
   *Rhythm of the Sea: The Life and Times of Labrador Beach*
-  . Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+
+  . Division of Biology, School of Science, Nanyang Technological University & Department
+  of Zoology, the National University of Singapore. 160 pp.
+
   - Allen, Gerry, 2000.
+
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
+
   . Periplus Editions. 292 pp.
+
   - Kuiter, Rudie H. 2002.
+
   *Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers & Fishermen*
+
   New Holland Publishers. 434pp.
+
   - Lieske, Ewald and Robert Myers. 2001.
+
   *Coral Reef Fishes of the World*
+
   Periplus Editions. 400pp.
+
+  '
 location:
 - cj
 - skd
@@ -133,11 +144,11 @@ A scorpionfish uses its venom only for protection and not to catch or kill prey.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Scorpionfish mimic:**
 The
-[False scorpionfish](../centrogenyidae/vaigiensis.md)
+[False scorpionfish](../centrogenyidae/vaigiensis)
 (
 *Centrogenys vaigiensis*
 ) looks and behaves like a scorpionfish but belong to the Family Serranidae which includes groupers. By mimicking the more venomous scorpionfishes, the false scorpionfish probably manages to discourage most predators. Here's more on
-[how to tell apart fishes that look like stones](../cfstonefish.md)
+[how to tell apart fishes that look like stones](../cfstonefish)
 .
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**What do they eat?**
@@ -184,17 +195,17 @@ from Ng, P. K. L. & Y. C. Wee, 1994.
 
 Dendrochirus zebra*
 
-*[Parascorpaena picta](picta.md)*
+*[Parascorpaena picta](picta)*
 (Painted scorpionfish)
-*[Pterois](pterois.md)*
-[sp.](pterois.md)
+*[Pterois](pterois)*
+[sp.](pterois)
 (Lionfish) with species recorded for Singapore.
 *Scorpaenodes guamensis
 
 Scorpaenopsis cirrosa
 
 +
-[Scorpaenopsis diabolus](diabolus.md)*
+[Scorpaenopsis diabolus](diabolus)*
 (False scorpionfish)
 *Scorpaenopsis gibbosa
 
@@ -211,7 +222,7 @@ Sebastapistes tristis=**Sebastapistes strongia*
 
 Paracentropogon leucoprosopon
 
-[Paracentropogon longispinis](longispinis.md)*
+[Paracentropogon longispinis](longispinis)*
 (Longspined waspfish)
 *Paracentropogon bandanensis*
 **
@@ -219,7 +230,7 @@ Paracentropogon leucoprosopon
 (Mangrove waspfish)
 
 ****now
-[Family Synanceiidae](../synanceiidae/horrida.md)
+[Family Synanceiidae](../synanceiidae/horrida)
 (stonefishes)**
 
 *Chloridactylus multibarbis=**Choridactylus multibarbus*

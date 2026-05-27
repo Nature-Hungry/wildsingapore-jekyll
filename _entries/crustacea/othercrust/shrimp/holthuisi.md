@@ -1,12 +1,13 @@
 ---
-title: "'Gelek'' anemone shrimp"
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: five, spot, anemone, shrimp, ancylomenes, holthuisi, palaemonidae, 
-  decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+title: '''Gelek'''' anemone shrimp'
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: five, spot, anemone, shrimp, ancylomenes, holthuisi, palaemonidae, decapod,
+  crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [103, 104]
+attributes:
+- 103
+- 104
 family: Palaemonidae
 genus: Ancylomenes
 species: holthuisi
@@ -24,24 +25,22 @@ suborder: Pleocyemata
 infraorder: Caridea
 superfamily: Palaemonoidea
 updated: Jan 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/holthuisi/130626chgd8870m6la.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/holthuisi/130626chgd8870m6la.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/holthuisi/130626chgd8870m6la.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/holthuisi/130626chgd8870m6la.jpg
     caption: Seen in a Haddon's carpet anemone . Changi, Aug 13
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/holthuisi/130626chgd8741m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/holthuisi/130626chgd8741m3.jpg
     caption: Seen in a Haddon's carpet anemone. Changi, Aug 13
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/holthuisi/110802smkmn.jpg
-    caption: Seen in a Magnificent anemone . Pulau Semakau, Aug 11 Photo shared 
-      by Marcus Ng on flickr .
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/holthuisi/110802smkmn.jpg
+    caption: Seen in a Magnificent anemone . Pulau Semakau, Aug 11 Photo shared by
+      Marcus Ng on flickr .
 location:
 - chg
 - smk
+size:
+- 2.0
 ---
 
 ## Where seen?

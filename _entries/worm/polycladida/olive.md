@@ -1,10 +1,9 @@
 ---
 title: Olive flatworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: flat, worm, flatworm, tytthosoceros, lizardensis, polyclad, 
-  polycladida, turbellaria, platyhelminthes,  field, guide, seashore, sea, 
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: flat, worm, flatworm, tytthosoceros, lizardensis, polyclad, polycladida,
+  turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Pseudocerotidae
 genus: Tytthosoceros
@@ -18,89 +17,67 @@ subphylum: Rhabditophora
 order: Polycladida
 suborder: Cotylea
 updated: Feb 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/180616bblks1.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/180616bblks1.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/180616bblks1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/180616bblks1.jpg
     caption: Beting Bronok, Jun 18 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/180616bblks1a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/180616bblks1a.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/090706tmftd6588m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/090706tmftd6588m3.jpg
     caption: Tanah Merah, Jul 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/090706tmftd6586m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/090706tmftd6586m3.jpg
     caption: Underside.
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/170331chg7mn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/170331chg7mn.jpg
     caption: Changi, Mar 17 Photo shared by Marcus Ng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/200821cjjll2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/200821cjjll2.jpg
     caption: Chek Jawa, Aug 20 Photo shared by Jianlin Liu on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/090526bblks1m3.JPG
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/090526bblks1m3.JPG
     caption: Beting Bronok, May 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/110518bblks1m3.JPG
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/110518bblks1m3.JPG
     caption: Beting Bronok, May 11 Photo shared by Loh Kok Sheng on his blog .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/111126bblks1m3.JPG
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/111126bblks1m3.JPG
     caption: Beting Bronok, Nov 11 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/160607bbro1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/160607bbro1.jpg
     caption: Beting Bronok, Jun 16 Photo shared by Rene Ong on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/160607bbro2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/160607bbro2.jpg
     caption: Beting Bronok, Jun 16 Photo shared by Rene Ong on facebook .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/181225kuslks8.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/181225kuslks8.jpg
     caption: Kusu Island, Dec 18 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/240211bigsisrk1.jpg
-    caption: Big Sisters' Island, Feb 2024 Photo shared by Richard Kuah on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/241116smkslks4.jpg
-    caption: Pulau Semakau (South), Nov 24 Photo shared by Loh Kok Sheng on 
-      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/240211bigsisrk1.jpg
+    caption: Big Sisters' Island, Feb 2024 Photo shared by Richard Kuah on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/241116smkslks4.jpg
+    caption: Pulau Semakau (South), Nov 24 Photo shared by Loh Kok Sheng on facebook
+      .
   gallery7:
   - url: https://live.staticflickr.com/916/41532824292_c6d87fd7d7_z.jpg
     caption: ''
   gallery8:
   - url: https://live.staticflickr.com/4518/38813741652_69bffb77e9_z.jpg
     caption: ''
-links_references: |
-  **Links**
-  - [*Tytthosoceros lizardensis*](http://polycladida.lifedesks.org/pages/3230)
-  on Encyclopedia of Life, LifeDesks, Marine Flatworms - Polycladida: Technical fact sheet.
-
-  **References**
-  - Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018.
-  *A preliminary checklist and photographic catalogue of polyclad flatworms recorded from Singapore.*
-  Nature in Singapore 2018 11: 77–125.
-  - D. M. Bolaños, B. Q. Gan & R. S. L. Ong. 29 Jun 2016.
-  *First records of pseudocerotid flatworms (Platyhelminthes: Polycladida: Cotylea) from Singapore: A taxonomic report with remarks on colour variation*
-  .(pdf) The Raffles Bulletin of Zoology Supplement No. 34: 130-169 Pp. 130-169.
-  - Rene S. L. Ong. 31 August 2016.
-  *Aggregation of Tytthosoceros lizardensis flatworms at Beting Bronok*
-  . Singapore Biodiversity Records 2016: 108-109.
-  - Rene Ong, Samantha Tong & Teresa Stephanie Tay. 13 November 2015.
-  *Marine flatworms at Seringat Kias*
-  . Singapore Biodiversity Records 2015: 182-184.
-  - Humann, Paul and Ned Deloach. 2010.
-  *Reef Creature Identification: Tropical Pacific*
-  New World Publications. 497pp.
-  - Newman, L.J and Cannon, L.R.G. 1996.
-  *Bulaceros, new genus, and Tytthosoceros, new genus, (Platyhelminthes: Polycladida) from the Great Barrier Reef, Australia and Papua New Guinea*
-  . The Raffles Bulletin of Zoology 44(2): 479-492.
+links_references: "**Links**\n- [*Tytthosoceros lizardensis*](http://polycladida.lifedesks.org/pages/3230)\n\
+  on Encyclopedia of Life, LifeDesks, Marine Flatworms - Polycladida: Technical fact\
+  \ sheet.\n\n**References**\n- Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018.\n\
+  *A preliminary checklist and photographic catalogue of polyclad flatworms recorded\
+  \ from Singapore.*\nNature in Singapore 2018 11: 77\u2013125.\n- D. M. Bola\xF1\
+  os, B. Q. Gan & R. S. L. Ong. 29 Jun 2016.\n*First records of pseudocerotid flatworms\
+  \ (Platyhelminthes: Polycladida: Cotylea) from Singapore: A taxonomic report with\
+  \ remarks on colour variation*\n.(pdf) The Raffles Bulletin of Zoology Supplement\
+  \ No. 34: 130-169 Pp. 130-169.\n- Rene S. L. Ong. 31 August 2016.\n*Aggregation\
+  \ of Tytthosoceros lizardensis flatworms at Beting Bronok*\n. Singapore Biodiversity\
+  \ Records 2016: 108-109.\n- Rene Ong, Samantha Tong & Teresa Stephanie Tay. 13 November\
+  \ 2015.\n*Marine flatworms at Seringat Kias*\n. Singapore Biodiversity Records 2015:\
+  \ 182-184.\n- Humann, Paul and Ned Deloach. 2010.\n*Reef Creature Identification:\
+  \ Tropical Pacific*\nNew World Publications. 497pp.\n- Newman, L.J and Cannon, L.R.G.\
+  \ 1996.\n*Bulaceros, new genus, and Tytthosoceros, new genus, (Platyhelminthes:\
+  \ Polycladida) from the Great Barrier Reef, Australia and Papua New Guinea*\n. The\
+  \ Raffles Bulletin of Zoology 44(2): 479-492.\n"
 location:
 - chg
 - cj
@@ -112,6 +89,9 @@ location:
 - sis
 - cyr
 - smk
+size:
+- 8.0
+- 10.0
 ---
 
 ## Where seen?

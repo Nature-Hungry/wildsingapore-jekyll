@@ -1,10 +1,9 @@
 ---
 title: Small coin green seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: small, coin, seaweed, weed, green, halimeda, halimedaceae, 
-  chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: small, coin, seaweed, weed, green, halimeda, halimedaceae, chlorophyta,
+  algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 division: Chlorophyta
 family: Halimedaceae
@@ -20,64 +19,80 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Jan 13
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/060527sjid2273m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/060527sjid2273m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/040718sntd2795m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/040718sntd2795m3.jpg
     caption: Sentosa, Jul 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/050706sntg9030m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/050706sntg9030m3.jpg
     caption: Sentosa, Jul 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/050918smkg2632m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/050918smkg2632m3.jpg
     caption: Pulau Semakau, Sep 05
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/100601slud4716m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/100601slud4716m3.jpg
     caption: Pulau Salu, Jun 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/100613sngd5432m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/100613sngd5432m3a.jpg
     caption: Pulau Senang, Jun 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/100130brkd8519m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/100130brkd8519m3.jpg
     caption: Terumbu Berkas, Jan 10
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/110619tslgd4431m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/110619tslgd4431m3.jpg
     caption: Terumbu Selegie, Jun 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/100629pdrd7422m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/100629pdrd7422m3b.jpg
     caption: Terumbu Pempang Darat, Jun 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/151001blylks5m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/151001blylks5m3.jpg
     caption: Berlayar Creek, Oct 15 Photo shared by Loh Kok Sheng on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Calcified seaweed (
+
   *Halimeda*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/102.md)
+
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/102)
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
+
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+
   . The Singapore Science Centre, Singapore. 160 pp.
+
   - [*Halimeda*
+
   spp.](http://www.seaslugforum.net/factsheet.cfm?base=halimeda)
+
   on the
+
   [Sea Slug Forum](http://www.seaslugforum.net/)
+
   : photo and description of the seaweed and the slugs that eat it.
+
   - [*Halimeda*](http://www.algaebase.org/search/genus/detail/?genus_id=33699)
+
   on
+
   [AlgaeBase](http://www.algaebase.org/)
+
   : Technical fact sheet.
 
+
   **References**
-  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
+
+  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
+  Tsai Min and Wang Luan Keng,
+
   *A photographic guide to the marine algae of Singapore*
+
   , 2015. Tropical Marine Science Institute, 201 pp.
+
   - Pham, M. N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011.
-  [*A Checklist of the Algae of Singapore*](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf)
-  , 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore, Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+
+  [*A Checklist of the Algae of Singapore*](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH
+  Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf)
+
+  , 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
+  Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+
+  '
 location:
 - cj
 - skd
@@ -97,6 +112,9 @@ location:
 - smk
 - tsm
 - lfa
+size:
+- 3.0
+- 5.0
 ---
 
 ## Where seen?
@@ -110,7 +128,7 @@ In
 *Halimeda opuntia*
 , the joined-up segments are not held up on stalks. The segments tend to develop holdfasts where they contact with a hard surface so that the growth habit tends to be more horizontal than vertical.
 
-[Big coin green seaweeds](halbig.md)
+[Big coin green seaweeds](halbig)
 have larger 'coins' that tend to be thinner and unwrinkled.
 
 **Human uses:**

@@ -1,10 +1,9 @@
 ---
 title: Cake sand dollar
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: cake, sand, dollar, arachnoides, placenta, clypeasteroida, echinoidea,
-  echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: cake, sand, dollar, arachnoides, placenta, clypeasteroida, echinoidea, echinoderm,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 attributes:
 - 0
@@ -32,111 +31,107 @@ updated: Mar 2020
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/080506chgd2311m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/080506chgd2311m3.jpg
     caption: Changi, May 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/080506chgd2312m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/080506chgd2312m3.jpg
     caption: Underside.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/080720cjd8021m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/080720cjd8021m6l.jpg
     caption: They are often found in huge numbers. Chek Jawa, Jan 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/080506chgd2311m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/080506chgd2311m3a.jpg
     caption: Upperside.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/080506chgd2312m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/080506chgd2312m3a.jpg
     caption: Mouth on the underside.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2851m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2851m3.jpg
     caption: Upperside of test
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2852m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2852m3.jpg
     caption: Underside of test
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/090628lazd6116m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/090628lazd6116m3.jpg
     caption: Living sand dollar moving under wet sand.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2851m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2851m3a.jpg
     caption: Changi, Jun 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2852m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2852m3b.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/090628lazd6115m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/090628lazd6115m3.jpg
     caption: Living sand dollars, not moving under sand. Lazarus Island, Jun 09
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/mollusca/gastropoda/cassidae/glaucum/110508cyrmng3m3.jpg
-    caption: Is this Grey bonnet snail eating a sand dollar? Cyrene Reef, May 11
-      Photo shared by Marcus Ng on flickr .
-  - url: 
-      http://www.wildsingapore.com/asteroidea/protoreaster/110508cyrmng5m3.jpg
-    caption: Being eaten by a Knobbly sea star ? Cyrene Reef, May 11 Photo 
+  - url: http://www.wildsingapore.com/mollusca/gastropoda/cassidae/glaucum/110508cyrmng3m3.jpg
+    caption: Is this Grey bonnet snail eating a sand dollar? Cyrene Reef, May 11 Photo
       shared by Marcus Ng on flickr .
+  - url: http://www.wildsingapore.com/asteroidea/protoreaster/110508cyrmng5m3.jpg
+    caption: Being eaten by a Knobbly sea star ? Cyrene Reef, May 11 Photo shared
+      by Marcus Ng on flickr .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/mollusca/gastropoda/eulimidae/eulimidae/110830cyrd0357m3a.jpg
+  - url: http://www.wildsingapore.com/mollusca/gastropoda/eulimidae/eulimidae/110830cyrd0357m3a.jpg
     caption: Tiny parasitic snail on a Cake sand dollar. Cyrene, Aug 11
-  - url: 
-      http://www.wildsingapore.com/cnidaria/actiniaria/haddonieat/040218cjd0004m3.jpg
-    caption: Cake sand dollar being swallowed by a Haddon's carpet anemone . 
-      Chek Jawa Feb 04
+  - url: http://www.wildsingapore.com/cnidaria/actiniaria/haddonieat/040218cjd0004m3.jpg
+    caption: Cake sand dollar being swallowed by a Haddon's carpet anemone . Chek
+      Jawa Feb 04
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/100328cjc1801m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/100328cjc1801m3.jpg
     caption: Bird footprints surround the sand dollar. Chek Jawa, Mar 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/100328cjc1802m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/100328cjc1802m3a.jpg
     caption: It seems birds have flipped over some and pecked out the underside.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/100328cjtsgc1803m3.jpg
-    caption: Some are flipped but not harmed. Only egg-bearing females are 
-      pecked? Chek Jawa, Mar 10
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/100328cjtsgc1803m3.jpg
+    caption: Some are flipped but not harmed. Only egg-bearing females are pecked?
+      Chek Jawa, Mar 10
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/251011tgrlks12.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/251011tgrlks12.jpg
     caption: Sentosa Tg Rimau, Oct 25 Photo shared by Loh Kok Sheng on facebook
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/160625tkkjll1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/160625tkkjll1.jpg
     caption: Pulau Tekukor, Jun 16 Photo shared by Jianlin Liu on facebook .
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/090224lazlks02m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/090224lazlks02m3.jpg
     caption: Lazarus, Feb 09 Shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/200820ssismn4.jpg
-    caption: Small Sisters Island, Aug 20 Photo shared by Marcus Ng on facebook 
-      .
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/200820ssismn4.jpg
+    caption: Small Sisters Island, Aug 20 Photo shared by Marcus Ng on facebook .
   gallery8:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/110517tptlks6m3.jpg
-    caption: Terumbu Pempang Tengah, May 11 Photo shared by Loh Kok Sheng on his
-      blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/091205sudd5468m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/110517tptlks6m3.jpg
+    caption: Terumbu Pempang Tengah, May 11 Photo shared by Loh Kok Sheng on his blog
+      .
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/091205sudd5468m3.jpg
     caption: Pulau Sudong, Dec 09
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [The Echinoid Directory](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/)
-  by Dr. Andrew B. Smith on the London Natural History Museum website: everything you could possibly want to know about sand dollars and sea urchins with lots of large close-up images and explanatory diagrams. With technical descriptions of
+
+  by Dr. Andrew B. Smith on the London Natural History Museum website: everything
+  you could possibly want to know about sand dollars and sea urchins with lots of
+  large close-up images and explanatory diagrams. With technical descriptions of
+
   [Family Cylpeasteridae](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/GENERA/CLYPEAST/CLYPINA/CLYPIDAE.jsp)
+
   and photos of dead
+
   [*Arachnoides*](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/GENERA/CLYPEAST/CLYPINA/ARACHNO.jsp)
+
   .
-  - *[Arachnoides placenta](https://singapore.biodiversity.online/taxo4254/mainSpace/Arachnoides placenta.html)*
+
+  - *[Arachnoides placenta](https://singapore.biodiversity.online/taxo4254/mainSpace/Arachnoides
+  placenta.html)*
+
   on Taxo4254.
+
   - [*Arachnoides placenta*](http://www.sealifebase.org/summary/Arachnoides-placenta.html)
+
   on SeaLife Base: Technical fact sheet.
 
+
   **References**
+
   - Calvin Jiah Jay Leow. 31 August 2020.
+
   *Parasitic snail, Eulima adamsii, on sand dollar Arachnoides placenta.*
+
   Singapore Biodiversity Records 2020: 127 ISSN 2345-7597
+
   - Lane, David J.W. and Didier Vandenspiegel. 2003
+
   *. A Guide to Sea Stars and Other Echinoderms of Singapore*
+
   . Singapore Science Centre. 187pp.
+
+  '
 location:
 - chg
 - cj
@@ -154,6 +149,9 @@ location:
 - tpg
 - smk
 - lfa
+size:
+- 6.0
+- 8.0
 ---
 
 ## Where seen?
@@ -168,15 +166,15 @@ Sand dollars may appear dead, but they are very much alive. A living sand dollar
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**What eats sand dollars?**
 Some snails such as the
-[Grey bonnet](../../../mollusca/gastropoda/cassidae/glaucum.md)
+[Grey bonnet](../../../mollusca/gastropoda/cassidae/glaucum)
 are believed to feed on sand dollars. A
-[Knobbly sea star](../../asteroidea/protoreaster.md)
+[Knobbly sea star](../../asteroidea/protoreaster)
 was seen with its stomach stuck to a sand dollar. A
-[Haddon's carpet anemone](../../../cnidaria/actiniaria/haddoni.md)
+[Haddon's carpet anemone](../../../cnidaria/actiniaria/haddoni)
 was also seen in the process of engulfing one. Kok Sheng also shared a video clip (below) of
-[hermit crabs](../../../crustacea/othercrust/anomura/hermit/hermit.md)
+[hermit crabs](../../../crustacea/othercrust/anomura/hermit/hermit)
 arguing over a sand dollar. Tiny
-[parasitic snails](../../../mollusca/gastropoda/eulimidae/eulimidae.md)
+[parasitic snails](../../../mollusca/gastropoda/eulimidae/eulimidae)
 are sometimes seen on them too.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}

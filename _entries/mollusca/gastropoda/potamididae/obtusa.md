@@ -1,10 +1,9 @@
 ---
 title: Red chut-chut snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: chut, cerithidea, obtusa, quadrata, obtuse, cerith, snail, shell, 
-  potamididae, gastropod, mollusc, mangrove, field, guide, seashore, sea, shore,
-  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: chut, cerithidea, obtusa, quadrata, obtuse, cerith, snail, shell, potamididae,
+  gastropod, mollusc, mangrove, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Potamididae
 genus: Cerithidea
@@ -18,61 +17,84 @@ class: Gastropoda
 subclass: Caenogastropoda
 superfamily: Cerithioidea
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/050327sbwrg3834m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/050327sbwrg3834m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/050327sbwrg3834m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/050327sbwrg3834m3.jpg
     caption: Sungei Buloh, Mar 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/090816ubnd9136m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/090816ubnd9136m3b.jpg
     caption: Pulau Ubin, Aug 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/090612pndd3991m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/090612pndd3991m3a.jpg
     caption: The animal has red eyes! Sungei Pandan, Jun 09
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/251200admrqo5.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/251200admrqo5.jpg
     caption: Admiralty Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/251221pndrqo2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/251221pndrqo2.jpg
     caption: Pandan Mangroves, Dec 25 Photo shared by Rui Quan Oh on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/251221pndrqo3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/251221pndrqo3.jpg
     caption: Pandan Mangroves, Dec 25 Photo shared by Rui Quan Oh on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Mud creepers (
+
   *Cerithidea obtusa*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2081.md)
+
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2081)
+
   Ng, Peter K. L. & N. Sivasothi, 1999.
+
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
+
   . Singapore Science Centre. 168 pp.
+
   - [Obtuse creeper (
+
   *Cerithidae obtusa*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/139.md)
+
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/139)
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
+
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+
   . The Singapore Science Centre, Singapore. 160 pp.
+
   - [Obtuse horn snail (
+
   *Cerithidea obtusa*
+
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86855)
+
   in SeaLife Base: Technical fact sheet.
+
   - Obtuse horn snail (
+
   *Cerithidea obtusa*
-  ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+
+  ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide
+  for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
+
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
+
   **References**
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Abbott, R. Tucker, 1991.
+
   *Seashells of South East Asia*
+
   . Graham Brash, Singapore. 145 pp.
+
+  '
 location:
 - sbw
 - prp
@@ -80,6 +102,9 @@ location:
 - cj
 - ecp
 - smk
+size:
+- 3.0
+- 5.0
 ---
 
 ## Where seen?
@@ -94,11 +119,11 @@ which means 'red eyes'. The living snail does indeed have red eyes! As well as a
 
 **Sometimes confused with**
 the
-[Black chut-chut](quadrata.md)
+[Black chut-chut](quadrata)
 and
-[Belitong](sulcata.md)
+[Belitong](sulcata)
 . More on
-[how to tell these snails apart](cfpotamids.md)
+[how to tell these snails apart](cfpotamids)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Human uses:**

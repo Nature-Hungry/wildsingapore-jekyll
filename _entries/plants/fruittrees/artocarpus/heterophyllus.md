@@ -23,29 +23,34 @@ order: Rosales
 tribe: Artocarpeae
 updated: Nov 10
 coverimg: http://www.wildsingapore.com/wildfacts/plants/fruittrees/artocarpus/heterophyllus/091005cjd2013m6l.jpg
-links_references: |
-  **Links**
-  - [*Artocarpus
-    heterophyllus*](http://floraofsingapore.wordpress.com/2010/04/02/artocarpus-heterophyllus/) on Total Vascular Flora of Singapore Online:
-    photos and fact sheet.
-  - [Jackfruit
-    (*Artocarpus heterophyllus*)](http://www.hort.purdue.edu/newcrop/morton/jackfruit_arsl) New Crop Resource Online
-    Program at Purdue University.
-  
-  **References**
-  - Hsuan Keng,
-    S.C. Chin and H. T. W. Tan. 1990, *[The
+links_references: "**Links**\n- [*Artocarpus\n  heterophyllus*](http://floraofsingapore.wordpress.com/2010/04/02/artocarpus-heterophyllus/)\
+  \ on Total Vascular Flora of Singapore Online:\n  photos and fact sheet.\n- [Jackfruit\n\
+  \  (*Artocarpus heterophyllus*)](http://www.hort.purdue.edu/newcrop/morton/jackfruit_arsl)\
+  \ New Crop Resource Online\n  Program at Purdue University.\n\n**References**\n\
+  - Hsuan Keng,\n  S.C. Chin and H. T. W. Tan. 1990, *[The\n"
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/fruittrees/artocarpus/heterophyllus/091005cjd2016m3.jpg"
-      caption: "Pulau Ubin, Oct 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/fruittrees/artocarpus/heterophyllus/091005cjd2015m3.jpg"
-      caption: "Pulau Ubin, Oct 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/fruittrees/artocarpus/heterophyllus/091005cjd2013m6la.jpg"
-      caption: "Pulau Ubin, Oct 09"
+  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/artocarpus/heterophyllus/091005cjd2016m3.jpg
+    caption: Pulau Ubin, Oct 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/artocarpus/heterophyllus/091005cjd2015m3.jpg
+    caption: Pulau Ubin, Oct 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/artocarpus/heterophyllus/091005cjd2013m6la.jpg
+    caption: Pulau Ubin, Oct 09
   gallery2:
-    - url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
-      caption: "Links Artocarpus heterophyllus on Total Vascular Flora of Singapore Online: photos and fact sheet. Jackfruit ( Artocarpus heterophyllus ) New Crop Resource Online Program at Purdue University. References Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University Press. 222 pp. Corners, E. J. H., 1997. Wayside Trees of Malaya: in two volumes . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444."
+  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
+    caption: 'Links Artocarpus heterophyllus on Total Vascular Flora of Singapore
+      Online: photos and fact sheet. Jackfruit ( Artocarpus heterophyllus ) New Crop
+      Resource Online Program at Purdue University. References Hsuan Keng, S.C. Chin
+      and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons
+      . Singapore University Press. 222 pp. Corners, E. J. H., 1997. Wayside Trees
+      of Malaya: in two volumes . Fourth edition, Malayan Nature Society, Kuala Lumpur.
+      Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236. Burkill,
+      I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula .
+      3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
+      Volume 1: 1-1240; volume 2: 1241-2444.'
+size:
+- 1000.0
+- 2000.0
 ---
 
 ## Where seen?

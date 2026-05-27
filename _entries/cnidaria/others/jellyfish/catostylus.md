@@ -1,10 +1,9 @@
 ---
 title: Fat-armed jellyfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: jellyfish, jelly, fish, jellies, catostylus, catostylidae, scyphozoa, 
-  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: jellyfish, jelly, fish, jellies, catostylus, catostylidae, scyphozoa, cnidaria,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 attributes: []
 family: Catosylidae
@@ -19,36 +18,41 @@ subclass: Discomedusae
 order: Rhizostomeae
 suborder: Dactyliophorae
 updated: Sep 2025
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/fatarm/050426cftg5076m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/fatarm/050426cftg5076m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/fatarm/050426cftg5076m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/fatarm/050426cftg5076m3.jpg
     caption: Changi, Apr 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/fatarm/050426chgd2778m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/fatarm/050426chgd2778m3.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/fatarm/050426chgd2778m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/fatarm/050426chgd2778m3b.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/fatarm/101208tmlks1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/fatarm/101208tmlks1m3.jpg
     caption: Tanah Merah, Dec 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/fatarm/160314lazjt2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/fatarm/160314lazjt2.jpg
     caption: Lazarus Island, Mar 16 Photo shared by Jonathan Tan on facebook .
-links_references: |
-  **Links**
-  - *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore*
-  by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
+links_references: '**Links**
+
+  - *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
+  Status for Singapore*
+
+  by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan,
+  D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book:
+  Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663
+  pp.
+
   - [The Scyphozoan website](http://thescyphozoan.ucmerced.edu/)
+
   by Dr Michael N Dawson: lots of info about jellyfishes in Class Scyphozoa.
+
+  '
 location:
 - chg
 - tm
 - laz
+size:
+- 10.0
 ---
 
 ## Where seen?

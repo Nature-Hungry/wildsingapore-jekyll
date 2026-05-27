@@ -1,10 +1,9 @@
 ---
 title: Glittering cuttlefish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: glittering, cuttlefish, sepiella, inermis, sepiidae, cephalopod, 
-  mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: glittering, cuttlefish, sepiella, inermis, sepiidae, cephalopod, mollusc,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Sepiidae
 genus: Sepiella
@@ -21,47 +20,59 @@ order: Sepiida
 suborder: Sepiina
 superfamily: Sepioidea
 updated: May 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutglittering/050524chgd3327m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutglittering/050524chgd3327m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutglittering/050524chgd3327m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutglittering/050524chgd3327m3.jpg
     caption: Changi, May 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutglittering/060502cftd1815m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutglittering/060502cftd1815m3.jpg
     caption: The same cuttlefish rapidly changing ... Changi, May 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutglittering/060502cftd1810m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutglittering/060502cftd1810m3.jpg
     caption: '... colours and patterns. Changi, May 06'
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutglittering/180910chg4dc1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutglittering/180910chg4dc1.jpg
     caption: Changi, Sep 18 Photo shared by Dayna Cheah on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutglittering/210113smkwjt1.jpg
-    caption: Pulau Semakau (West), Jan 21 Photo shared by Jonathan Tan on 
-      facebook .
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutglittering/210113smkwjt1.jpg
+    caption: Pulau Semakau (West), Jan 21 Photo shared by Jonathan Tan on facebook
+      .
+links_references: '**Links**
+
   - [*Sepiella inermis*](http://sealifebase.ca/summary/Sepiella-inermis.html)
+
   on SeaLife Base: Technical fact sheet.
+
   - [*Sepiella inermis*](http://www.iucnredlist.org/details/162500/0)
+
   in IUCN Red List: fact sheet.
+
   - [*Sepiella inermis*](ftp://ftp.fao.org/docrep/fao/009/a0150e/a0150e16.pdf)
+
   on
+
   [Cephalopods of the World](http://www.fao.org/docrep/009/a0150e/a0150e00.HTM)
+
   on the FAO Species Catalogue for Fishery Purposes No. 4, Vol. 1.
+
   - [*Sepiella inermis*](https://wiki.nus.edu.sg/display/TAX/Sepiella+inermis+-+Spineless+cuttlefish)
+
   - Spineless cuttlefish by Anya, 02 Jan 2019 on Taxo4254.
 
+
   **References**
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Norman, Mark and Helmut Debelius, 2000.
+
   *Cephalopods: A World Guide*
+
   . ConchBooks, Germany. 319 pp.
+
+  '
 location:
 - chg
 - cj
@@ -70,6 +81,9 @@ location:
 - ecp
 - tpg
 - smk
+size:
+- 5.0
+- 8.0
 ---
 
 ## Where seen?

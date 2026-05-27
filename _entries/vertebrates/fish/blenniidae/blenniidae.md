@@ -1,9 +1,8 @@
 ---
 title: Blennies
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: blenny, fish, blenniidae, field, guide, seashore, sea, shore, marine, 
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: blenny, fish, blenniidae, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Blenniidae
 genus: ''
@@ -19,135 +18,217 @@ superorder: Acanthomorpha
 order: Blenniiformes
 suborder: Blennioidei
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/051216smkg3405m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/051216smkg3405m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Some can give a nasty 
-      bite! They lay their eggs in empty shells, so please put them back where 
-      you found them. Some of them nibble on bigger living fishes!
+    caption: if you learn only 3 things about them ... Some can give a nasty bite!
+      They lay their eggs in empty shells, so please put them back where you found
+      them. Some of them nibble on bigger living fishes!
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Some can give a nasty bite! They lay their eggs in empty shells, so
-      please put them back where you found them. Some of them nibble on bigger 
-      living fishes!
+    caption: Some can give a nasty bite! They lay their eggs in empty shells, so please
+      put them back where you found them. Some of them nibble on bigger living fishes!
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/051216smkg3405m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/051216smkg3405m3.jpg
     caption: Pulau Semakau, Dec 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/oyster/090819ecpd9415m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/oyster/090819ecpd9415m6l.jpg
     caption: East Coast, Aug 09
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/090918tmd0989m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/090918tmd0989m6l.jpg
     caption: Guarding eggs laid inside a Fan shell . Tanah Merah, Sep 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/091204pawd5376.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/091204pawd5376.jpg
     caption: Guarding eggs laid inside a snail shell. Pulau Pawai, Dec 09
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/091009tmd2618m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/091009tmd2618m3.jpg
     caption: Variable fang-blenny
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/oyster/090819ecpd9415m3c.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/oyster/090819ecpd9415m3c.jpg
     caption: Oyster-blenny
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/rockskipper/190831kusjc2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/rockskipper/190831kusjc2.jpg
     caption: Rockskipper blenny
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Striped Fang-blenny (
+
   *Meiacanthus grammistes*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/356.md)
+
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/356)
+
   ,
+
   [Whitebar Oyster-blenny (
+
   *Omobranchus ferox*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/355.md)
+
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/355)
+
   ,
+
   [Variable Fang-blenny (
+
   *Petroscirtes variabilis*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/357.md)
+
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/357)
+
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
+
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
+
   . Singapore Science Centre. 163 pp.
+
   - [Blennidae (Combtooth blennies)](https://singapore.biodiversity.online/taxon/A-Vert-Fish-Perciformes-Blenniidae)
+
   on The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.
+
   - [Family Blenniidae (Combtooth blennies)](http://fishbase.org/Summary/FamilySummary.cfm?ID=392)
+
   and
+
   *[Entomacrodus lighti](http://www.fishbase.org/summary/60080)*
+
   and
+
   [*Meiacanthus grammistes*
+
   (Striped poison-fang blenny)](http://www.fishbase.org/summary/6069)
+
   and
+
   [*Omobranchus ferox*
+
   (Gossamer blenny)](http://www.fishbase.org/summary/7565)
+
   and
+
   [*Omobranchus elongatus*
+
   (Cloister blenny)](http://www.fishbase.org/summary/8039)
+
   and
+
   [*Petroscirtes variabilis*
+
   (Variable sabretooth blenny)](http://www.fishbase.org/summary/6076)
+
   and
+
   *[Omobranchus zebra](http://www.fishbase.org/summary/25046)*
+
   and
+
   [*Salarias ceramensis*
+
   (Seram blenny)](http://www.fishbase.org/summary/7749)
+
   and
+
   [*Istiblennius dussumieri*
+
   (Streaky rockskipper)](http://www.fishbase.org/summary/7562)
+
   and
+
   [Salarias fasciatus (Jewelled blenny)](http://www.fishbase.org/summary/6058)
+
   and
+
   [*Salarias guttatus*
+
   (Breast-spot blenny)](http://www.fishbase.org/summary/11616)
+
   and
+
   [*Istiblennius lineatus*
+
   (Lined rockskipper)](http://www.fishbase.org/summary/6050)
+
   from
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheet on the family.
+
   - [The sneaky fangblenny has changeable disguises](http://wildshores.blogspot.com/2009/02/sneaky-fangblenny-has-changeable.html)
+
   on the wild shores of singapore blog.
 
+
   **References**
+
   - Daisuke Taira & Kelvin K. P. Lim.
+
   *Shorthead fang-blenny in the Singapore Strait*
-  . 31 July 2018. Singapore Biodiversity Records 2018: 80 ISSN 2345-7597. National University of Singapore.
+
+  . 31 July 2018. Singapore Biodiversity Records 2018: 80 ISSN 2345-7597. National
+  University of Singapore.
+
   - Kelvin K. P. Lim and Victor G. Springer. 31 Oct 2017.
+
   *Singapore records of the crescent oyster blenny, Omobranchus smithi.*
+
   Singapore Biodiversity Records 2017: 145.
+
   - Kelvin Lim Kok Peng & Marcus F. C. Ng. 31 Mar 2017.
+
   *Records of the elongate oyster blenny, Omobranchus elongatus, in Singapore*
+
   . Singapore Biodiversity Records 2017: 58-59.
+
   - Marcus F. C. Ng & Kelvin K. P. Lim . 26 June 2015.
+
   *New record of the black-spotted rockskipper blenny in Singapore*
+
   . Singapore Biodiversity Records 2015: 87
+
   - Kelvin K. P. Lim. 28 November 2014.
+
   *New record of the tasselled blenny in Singapore, Parablennius thysanius*
+
   . Singapore Biodiversity Records 2014: 303-304.
+
   - Ron K. H. Yeo & Kelvin K. P. Lim. 28 March 2014.
+
   *Stellar rockskipper blenny at Big Sister Island*
+
   . Singapore Biodiversity Records 2014: 86.
+
   - Ron K. H. Yeo and Kelvin K. P. Lim. 21 October 2013.
+
   *Yellowfin blenny at Semakau Landfill Enchelyurus flavipes*
+
   . Singapore Biodiversity Records 2013: 29.
+
   - Wee Y.C. and Peter K. L. Ng. 1994.
+
   *A First Look at Biodiversity in Singapore*
+
   . National Council on the Environment. 163pp.
+
   - Allen, Gerry, 2000.
+
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
+
   . Periplus Editions. 292 pp.
+
   - Kuiter, Rudie H. 2002.
+
   *Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers & Fishermen*
+
   New Holland Publishers. 434pp.
+
   - Lieske, Ewald and Robert Myers. 2001.
+
   *Coral Reef Fishes of the World*
+
   Periplus Editions. 400pp.
+
+  '
 location:
 - ecp
 - sji
 - sis
+size:
+- 10.0
+- 15.0
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
@@ -199,14 +280,14 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
 
 **Blennies seen awaiting identification**
 
-[Oyster blenny](oyster.md)
+[Oyster blenny](oyster)
 
 **Family Blenniidae**
 
 *+Enchelyurus flavipes*
 (Yellowfin blenny)
 **
-[Rockskipper blenny](rockskipper.md)
+[Rockskipper blenny](rockskipper)
 **Entomacrodus lighti=Entomacrodus stellifer lighti*
 (Stellar rockskipper blenny)
 *+Entomacrodus striatus*
@@ -214,7 +295,7 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
 **Meiacanthus grammistes*
 (Striped fang-blenny)
 **
-[Oyster-blenny](oyster.md)
+[Oyster-blenny](oyster)
 *+Omobranchus elongatus*
 (Elongate oyster-blenny)
 *Omobranchus ferox*
@@ -236,7 +317,7 @@ Petroscirtes flavipes
 
 Petroscirtes kranjinensis
 
-[Petroscirtes variabilis](variabilis.md)*
+[Petroscirtes variabilis](variabilis)*
 (Variable fang-blenny)
 *Petroscirtes zebra=**Omobranchus zebra
 

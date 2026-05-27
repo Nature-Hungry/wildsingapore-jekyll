@@ -1,10 +1,9 @@
 ---
 title: Grey bonnet snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: helmet, bonnet, phalium, glaucum, cassidae, gastropod, mollusc, snail,
-  shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: helmet, bonnet, phalium, glaucum, cassidae, gastropod, mollusc, snail, shell,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Cassidae
 genus: Phalium
@@ -20,114 +19,130 @@ order: Littorinimorpha
 superfamily: Tonnoidea
 subfamily: Phaliinae
 updated: Jan 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrd0370m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrd0370m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrd0370m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrd0370m3.jpg
     caption: Thick strong foot. Cyrene Reef, Aug 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/111028chged2770m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/111028chged2770m3.jpg
     caption: Buried with only its siphon sticking out. Changi East, Oct 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrlks.JPG
-    caption: Juvenile with less developed shell. Cyrene Reef, Aug 11 Photo 
-      shared by Loh Kok Sheng on flickr .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrlks.JPG
+    caption: Juvenile with less developed shell. Cyrene Reef, Aug 11 Photo shared
+      by Loh Kok Sheng on flickr .
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrd0374m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrd0374m3.jpg
     caption: On top of a Cake sand dollar. Cyrene Reef, Aug 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrd0379m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrd0379m3a.jpg
     caption: Notch in the shell for its siphon.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrd0365m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrd0365m3.jpg
     caption: ''
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/250503cyrlml1.jpg
-    caption: "Cyrene, May 25 Photo shared by Mathias Luk on facebook . Human uses:
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/250503cyrlml1.jpg
+    caption: 'Cyrene, May 25 Photo shared by Mathias Luk on facebook . Human uses:
       It is collected for food and for the shell trade. Status and threats: The Grey
-      bonnet is listed as 'Endangered' in the Red List of threatened animals of Singapore.
-      It is threatened by habitat loss and over-collection. The Book states that it
-      has not been seen since the early 1970s and its status needs investigation to
-      determine if there are any remaining populations."
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/250503cyrlml1.jpg
+      bonnet is listed as ''Endangered'' in the Red List of threatened animals of
+      Singapore. It is threatened by habitat loss and over-collection. The Book states
+      that it has not been seen since the early 1970s and its status needs investigation
+      to determine if there are any remaining populations.'
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/250503cyrlml1.jpg
     caption: Cyrene, May 25 Photo shared by Mathias Luk on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/250503cyrlml1a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/250503cyrlml1a.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/250503cyrlml1b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/250503cyrlml1b.jpg
     caption: ''
   gallery4:
   - url: https://live.staticflickr.com/700/19998112723_8c9d303cdb_z.jpg
     caption: ''
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/191214cjjt3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/191214cjjt3.jpg
     caption: Chek Jawa, Dec 19 Photo shared by Juria Toramae on facebook .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/251206chgelks2.jpg
-    caption: Changi East (Lost Coast), Dec 25 Photo shared by Loh Kok Sheng on 
-      facebook ..
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/220616chgelks9.jpg
-    caption: Eating a sand dollar? Changi East (Lost Coast), Jun 22 Photo shared
-      by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/210529ecpgtch1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/251206chgelks2.jpg
+    caption: Changi East (Lost Coast), Dec 25 Photo shared by Loh Kok Sheng on facebook
+      ..
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/220616chgelks9.jpg
+    caption: Eating a sand dollar? Changi East (Lost Coast), Jun 22 Photo shared by
+      Loh Kok Sheng on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/210529ecpgtch1.jpg
     caption: East Coast (G), May 21 Photo shared by Juria Toramae on facebook .
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/140501kusmn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/140501kusmn.jpg
     caption: Kusu Island, May 14 Photo shared by Marcus Ng on flickr .
   gallery8:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110508cyrmng3m3.jpg
-    caption: Eating a sand dollar? Cyrene Reef, May 11 Photo shared by Marcus Ng
-      on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/260201cyrlks3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110508cyrmng3m3.jpg
+    caption: Eating a sand dollar? Cyrene Reef, May 11 Photo shared by Marcus Ng on
+      flickr .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/260201cyrlks3.jpg
     caption: Cyrene, Feb 26 Photo shared by Loh Kok Sheng on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Grey bonnet (
+
   *Phalium glaucum*
+
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86956)
+
   on SeaLife Base: Technical fact sheet.
+
   - [Grey bonnet (
+
   *Phalim glaucum*
+
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=1233)
+
   on the NParks Flora and Fauna website.
+
   - Grey bonnet (
+
   *Phalium glaucum*
-  ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+
+  ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide
+  for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
+
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
+
   **References**
+
   - Tan Heok Hui and Tan Siong Kiat. 30 November 2016.
+
   *Grey bonnet preying on sand dollar at Changi*
+
   . Singapore Biodiversity Records 2016: 166-167.
+
   - Tan Siong Kiat. 29 Nov 2013.
+
   *Grey bonnet shell (Phalium glaucum) at Semakau Landfill.*
+
   Singapore Biodiversity Records 2013: 79.
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Tan, K. S. & L. M. Chou, 2000.
+
   *A Guide to the Common Seashells of Singapore*
+
   . Singapore Science Centre. 160 pp.
+
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+
   . Nature Society (Singapore). 285 pp.
+
   - Abbott, R. Tucker, 1991.
+
   *Seashells of South East Asia*
+
   . Graham Brash, Singapore. 145 pp.
+
+  '
 location:
 - chg
 - cj
@@ -135,6 +150,11 @@ location:
 - kus
 - laz
 - cyr
+size:
+- 8.0
+- 12.0
+- 9.0
+- 14.0
 ---
 
 ## Where seen?
@@ -146,9 +166,9 @@ This beautiful snail was seen on sandy areas near lush seagrass meadows. Elsewhe
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**
 According to Tan, it feeds on sea urchins but according to Poutiers it feeds on sand dollars. On our shores, they have been seen on top of
-[Cake sand dollars](../../../echinodermata/echinoidea/sandollar/arachnoides.md)
+[Cake sand dollars](../../../echinodermata/echinoidea/sandollar/arachnoides)
 , and when the sand dollar is examined, a hole is seen in the sand dollar skeleton. This suggests the snail bored the hole. For more gruesome feeding details, see
-[Family Cassidae](cassidae.md)
+[Family Cassidae](cassidae)
 .
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**Baby bonnets:**

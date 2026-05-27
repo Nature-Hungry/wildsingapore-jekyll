@@ -1,10 +1,8 @@
 ---
 title: Small hexagonal  corals
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: coral, hard, faviidae, scleractinia, cnidaria, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, 
-  photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: coral, hard, faviidae, scleractinia, cnidaria, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Faviidae
 genus: ''
@@ -18,88 +16,63 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/060527sjid2126m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/060527sjid2126m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/060527sjid2126m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/060527sjid2126m3.jpg
     caption: St. John's Island, May 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/060527sjid2127m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/060527sjid2127m3a.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/060527sjid2127m3c.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/060527sjid2127m3c.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/111127sisd3832m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/111127sisd3832m3.jpg
     caption: Sisters Island, Nov 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/050611kusg7704m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/050611kusg7704m3.jpg
     caption: Kusu Island, Jun 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/070304hntg8014m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/070304hntg8014m3.jpg
     caption: Pulau Hantu, Mar 07
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/101106burs00350m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/101106burs00350m3.jpg
     caption: Terumbu Buran, Nov 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/101108bkoms00640m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/101108bkoms00640m3.jpg
     caption: Terumbu Bukom, Nov 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/101010scyrd2039m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/101010scyrd2039m3.jpg
     caption: South Cyrene, Oct 10
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/091231biod7123m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/091231biod7123m3.jpg
     caption: Pulau Biola, Dec 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/091231biod7080m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/091231biod7080m3.jpg
     caption: Pulau Biola, Dec 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/091231biod7074m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/091231biod7074m3.jpg
     caption: Pulau Biola, Dec 09
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/091204pawd5209m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/091204pawd5209m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/091204pawd5359m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/091204pawd5359m3b.jpg
     caption: Pulau Pawai, Dec 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/091204pawd5220m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/091204pawd5220m3.jpg
     caption: Pulau Pawai, Dec 09
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/091204pawd5216m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/091204pawd5216m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/100810sngd9993m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/100810sngd9993m3.jpg
     caption: Pulau Senang, Aug 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/100613sngd5481m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/100613sngd5481m3.jpg
     caption: Pulau Senang, Jun 10
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/100530tbkd4228m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/100530tbkd4228m3.jpg
     caption: Pulau Berkas, May 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/100601slud4754m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/100601slud4754m3.jpg
     caption: Pulau Salu, Jun 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/100131slud8812m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/100131slud8812m3.jpg
     caption: Terumbu Salu, Jan 10
   gallery8:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/091205sudd5532m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/091205sudd5532m3.jpg
     caption: Pulau Sudong, Dec 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/091205sudd5489m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/091205sudd5489m3.jpg
     caption: Pulau Sudong, Dec 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/091205sudd5486m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/091205sudd5486m3.jpg
     caption: Pulau Sudong, Dec 09
 location:
 - tus
@@ -119,6 +92,9 @@ location:
 - tsm
 - rfl
 - lfa
+size:
+- 10.0
+- 20.0
 ---
 
 ## Where seen?
@@ -139,7 +115,7 @@ species.
 It's hard to distinguish them without close examination of small features and they are grouped here by large external features for convenience of display.
 
 Hard corals with small hexagonal corallites which form colonies that are more encrusting and have jutting bumps, lumps or columns of angular corallites are grouped under
-[Columnar hexagonal corals](hexacolumn.md)
+[Columnar hexagonal corals](hexacolumn)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

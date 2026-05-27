@@ -1,10 +1,8 @@
 ---
 title: 'Smooth hexagonal corals '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: coral, hard, scleractinia, cnidaria, merulinidae, field, guide, 
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: coral, hard, scleractinia, cnidaria, merulinidae, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Faviidae
 genus: ''
@@ -18,38 +16,28 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmooth/050706sntg8979m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmooth/050706sntg8979m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmooth/050706sntg8979m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmooth/050706sntg8979m3.jpg
     caption: Sentosa, Jul 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmooth/050706sntg8981m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmooth/050706sntg8981m3.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmooth/050706sntg8981m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmooth/050706sntg8981m3a.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmooth/060712tusd4117m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmooth/060712tusd4117m3.jpg
     caption: Tuas, Jul 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmooth/050113sntd9751m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmooth/050113sntd9751m3.jpg
     caption: Sentosa, Nov 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmooth/110731tryd8051m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmooth/110731tryd8051m3.jpg
     caption: Terumbu Raya, Jul 11
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmooth/120507srplks2.JPG
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmooth/120507srplks2.JPG
     caption: Sentosa Serapong, May 12 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmooth/160806tplmn1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmooth/160806tplmn1.jpg
     caption: Terumbu Pempang Laut, Aug 16 Photo shared by Marcus Ng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmooth/100131slud8879m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmooth/100131slud8879m3.jpg
     caption: Terumbu Salu, Jan 10
 location:
 - tm
@@ -65,6 +53,9 @@ location:
 - tsm
 - rfl
 - lfa
+size:
+- 20.0
+- 30.0
 ---
 
 ## Where seen?
@@ -79,7 +70,7 @@ Some species of corals recorded for Singapore that have these patterns include:
 . It's hard to distinguish them without close examination of small features and they are grouped here by large external features for convenience of display.
 
 **Sometimes confused with**
-[Neat hexa corals](../../siderastreidae/hexaneat.md)
+[Neat hexa corals](../../siderastreidae/hexaneat)
 (
 *Pseudosiderastrea tayamai*
 ) which belong to Family Siderastreidae.

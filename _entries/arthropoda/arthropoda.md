@@ -15,26 +15,29 @@ updated: Mar 2020
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg"
-      caption: "A pair of anemone shrimps is commonly found in our carpet anemones. Kusu Island, Jul 04"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/050707cftg9086m3.jpg"
-      caption: "Mantis shrimps are not like other shrimps and belong to a different Order Stomatopoda. Changi, Jul 05"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/050206cjdd9978m3.jpg"
-      caption: "Striped hermit crab Chek Jawa, Feb 05"
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg
+    caption: A pair of anemone shrimps is commonly found in our carpet anemones. Kusu
+      Island, Jul 04
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/050707cftg9086m3.jpg
+    caption: Mantis shrimps are not like other shrimps and belong to a different Order
+      Stomatopoda. Changi, Jul 05
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/050206cjdd9978m3.jpg
+    caption: Striped hermit crab Chek Jawa, Feb 05
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/050622cftg8190m3.jpg"
-      caption: "The Flower crab and other decapods are among our favourite seafood! Changi, Jun 05"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/picta/050726chgg0423m3.jpg"
-      caption: "Porcelain crabs often live with other animals. Changi, Jul 05"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/050126cjd9795m3.jpg"
-      caption: "Sea slater Chek Jawa, Jan 05"
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/050622cftg8190m3.jpg
+    caption: The Flower crab and other decapods are among our favourite seafood! Changi,
+      Jun 05
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/picta/050726chgg0423m3.jpg
+    caption: Porcelain crabs often live with other animals. Changi, Jul 05
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/050126cjd9795m3.jpg
+    caption: Sea slater Chek Jawa, Jan 05
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/060627krjd3660m3.jpg"
-      caption: "Mangrove horseshoe crab Pulau Sekudu, Dec03"
-    - url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/050527srbg6987m3.jpg"
-      caption: "Coastal horsehoe crabs Pulau Sarimbun, May 05"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/050510tusg6173m3.jpg"
-      caption: "Barnacles are crustaceans and arthropods! Tuas, May 05"
+  - url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/060627krjd3660m3.jpg
+    caption: Mangrove horseshoe crab Pulau Sekudu, Dec03
+  - url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/050527srbg6987m3.jpg
+    caption: Coastal horsehoe crabs Pulau Sarimbun, May 05
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/050510tusg6173m3.jpg
+    caption: Barnacles are crustaceans and arthropods! Tuas, May 05
 ---
 
 **What are arthropods?**

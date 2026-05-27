@@ -1,10 +1,9 @@
 ---
 title: Cleaner shrimp
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: cleaner, shrimp, lysmata, hippolytidae, decapod, crustacea, field, 
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: cleaner, shrimp, lysmata, hippolytidae, decapod, crustacea, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 attributes:
 - 103
@@ -26,25 +25,19 @@ suborder: Pleocyemata
 infraorder: Caridea
 superfamily: Alpheoidea
 updated: Jan 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/lysmata/031225skdd0066m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/lysmata/031225skdd0066m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/lysmata/031225skdd0066m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/lysmata/031225skdd0066m3.jpg
     caption: Pulau Sekudu, Dec 03
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/lysmata/031225skdd0066m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/lysmata/031225skdd0066m3b.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/lysmata/031225skdd0066m3c.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/lysmata/031225skdd0066m3c.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/lysmata/110120pgllks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/lysmata/110120pgllks.JPG
     caption: Punggol, Jan 11 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/lysmata/210529epcnvc6.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/lysmata/210529epcnvc6.jpg
     caption: East Coast (PCN), May 21 Photo shared by Vincent Choo on facebook .
 location:
 - pgl
@@ -53,6 +46,9 @@ location:
 - skd
 - bb
 - ecp
+size:
+- 1.0
+- 2.0
 ---
 
 ## Where seen?

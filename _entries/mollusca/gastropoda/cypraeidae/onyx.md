@@ -1,10 +1,9 @@
 ---
 title: 'Onyx cowrie '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: cowrie, erronea, cypraea, onyx, cypraeidae, gastropod, mollusc, snail,
-  shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: cowrie, erronea, cypraea, onyx, cypraeidae, gastropod, mollusc, snail, shell,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Cypraeidea
 genus: Erronea
@@ -21,72 +20,88 @@ superfamily: Cypraeoidea
 subfamily: Erroneinae
 tribe: Erroneini
 updated: Jul 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/110518bbd1820m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/110518bbd1820m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/110518bbd1820m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/110518bbd1820m3.jpg
     caption: Beting Bronok, May 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/110518bbd1821m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/110518bbd1821m3.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/110518bbd1822m3.jpg
-    caption: "'Teeth' tinged orange."
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/110518bbd1822m3.jpg
+    caption: '''Teeth'' tinged orange.'
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/121216ubnd2637.jpg
-    caption: Mama cowrie protecting her egg mass with her foot. Pulau Ubin, Dec 
-      12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/121216ubnlks.JPG
-    caption: Mama cowrie protecting her egg mass with her foot. Pulau Ubin, Dec 
-      12 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/170626skdjl3.jpg
-    caption: Mama cowrie with her egg mass. Pulau Sekudu, Jun 17 Photo shared by
-      Jianlin Liu on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/121216ubnd2637.jpg
+    caption: Mama cowrie protecting her egg mass with her foot. Pulau Ubin, Dec 12
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/121216ubnlks.JPG
+    caption: Mama cowrie protecting her egg mass with her foot. Pulau Ubin, Dec 12
+      Photo shared by Loh Kok Sheng on flickr .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/170626skdjl3.jpg
+    caption: Mama cowrie with her egg mass. Pulau Sekudu, Jun 17 Photo shared by Jianlin
+      Liu on facebook .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/170430lyglks8.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/170430lyglks8.jpg
     caption: Changi Loyang, Apr 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/220616chgelks11.jpg
-    caption: Changi Lost Coast, Jun 22 Photo shared by Loh Kok Sheng on facebook
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/220616chgelks11.jpg
+    caption: Changi Lost Coast, Jun 22 Photo shared by Loh Kok Sheng on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/150617ecpbslks8m3.jpg
+    caption: East Coast Park Big Splash, Jun 15 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/150617ecpbslks8m3.jpg
-    caption: East Coast Park Big Splash, Jun 15 Photo shared by Loh Kok Sheng on
-      facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Onyx cowrie (
+
   *Cypraea onyx*
+
   )](http://www.sealifebase.org/Summary/SpeciesSummary.php?ID=86923)
+
   on SeaLife Base: Technical fact sheet.
+
   - Onyx cowrie (
+
   *Cypraea onyx*
-  ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+
+  ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide
+  for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
+
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
+
   **References**
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Tan, K. S. & L. M. Chou, 2000.
+
   *A Guide to the Common Seashells of Singapore*
+
   . Singapore Science Centre. 160 pp.
+
   - Abbott, R. Tucker, 1991.
+
   *Seashells of South East Asia*
+
   . Graham Brash, Singapore. 145 pp.
+
   - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.
-  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
+
+  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive
+  of the vertebrates*
+
   Sea Challengers. 314pp.
+
   - Kuiter, Rudie H and Helmut Debelius. 2009.
+
   *World Atlas of Marine Fauna*
+
   . IKAN-Unterwasserachiv. 723pp.
+
+  '
 location:
 - prp
 - chg
@@ -96,6 +111,10 @@ location:
 - bb
 - ecp
 - kus
+size:
+- 3.0
+- 4.0
+- 6.0
 ---
 
 ## Where seen?
@@ -109,9 +128,9 @@ This stunning snail with a golden-brown shell is sometimes seen on our undisturb
 
 **Sometimes mistaken for**
 a
-[sea slug](../../slug.md)
+[sea slug](../../slug)
 . When the shell is completely covered in its mantle, it is sometimes mistaken for a sea slug. Here's more on
-[how to tell apart slugs and animals that look like slugs](../../../glossary/flatwormslug.md)
+[how to tell apart slugs and animals that look like slugs](../../../glossary/flatwormslug)
 .
 
 **Human uses:**

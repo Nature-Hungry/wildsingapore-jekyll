@@ -20,67 +20,114 @@ updated: May 2020
 coverimg: ../../../Templates/fornatureguides.gif
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: if you learn only 3 things about them ... Squids and cuttlefish are fast moving shelless snails! They have ten arms and two tentacles. Their egg capsules are common on the shores. Don't step on them!
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: Squids and cuttlefish are fast moving shelless snails! They have ten arms and two tentacles. Their egg capsules are common on the shores. Don't step on them!
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... Squids and cuttlefish are fast
+      moving shelless snails! They have ten arms and two tentacles. Their egg capsules
+      are common on the shores. Don't step on them!
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: Squids and cuttlefish are fast moving shelless snails! They have ten
+      arms and two tentacles. Their egg capsules are common on the shores. Don't step
+      on them!
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutglittering/050524chgd3327m3.jpg"
-      caption: "A cuttlefish has fins all around its body. Changi, May 05"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/080422smkd1422m3.jpg"
-      caption: "Other squid have broad fins that extend the length of the body. Pulau Semakau, Apr 08"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/050622cftd4092m3.jpg"
-      caption: "The bobtail or bottletail squids are not streamlined at all! Changi, Jun 05"
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutglittering/050524chgd3327m3.jpg
+    caption: A cuttlefish has fins all around its body. Changi, May 05
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/080422smkd1422m3.jpg
+    caption: Other squid have broad fins that extend the length of the body. Pulau
+      Semakau, Apr 08
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/050622cftd4092m3.jpg
+    caption: The bobtail or bottletail squids are not streamlined at all! Changi,
+      Jun 05
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/pygmy/030802hntd0082m3b.jpg"
-      caption: "Squids have a pair of onger tentacles that extend beyond the shorter arms. Pulau Hantu, Aug 03"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/pygmy/110831tmnbd0631m3.jpg"
-      caption: "The tiny Pgymy squid can catch shrimps almost as big as itself. Tanah Merah, Aug 11"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/030329cjd0083m3.jpg"
-      caption: "Cuttlebone Chek Jawa, Mar 03"
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/pygmy/030802hntd0082m3b.jpg
+    caption: Squids have a pair of onger tentacles that extend beyond the shorter
+      arms. Pulau Hantu, Aug 03
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/pygmy/110831tmnbd0631m3.jpg
+    caption: The tiny Pgymy squid can catch shrimps almost as big as itself. Tanah
+      Merah, Aug 11
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/030329cjd0083m3.jpg
+    caption: Cuttlebone Chek Jawa, Mar 03
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/090606tmftd3187m3.jpg"
-      caption: "Squids taking on different colours. Tanah Merah, Jun 09"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/120505sisd0910m6l.jpg"
-      caption: "Ink squirted out retains its shape. Sister Island, May 12"
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/090606tmftd3187m3.jpg
+    caption: Squids taking on different colours. Tanah Merah, Jun 09
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/120505sisd0910m6l.jpg
+    caption: Ink squirted out retains its shape. Sister Island, May 12
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/080208hntd9473m3.jpg"
-      caption: "Some egg capsules commonly seen. Pulau Hantu, Feb 08"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/020715chgd3359m3.jpg"
-      caption: "String of black egg capsoules Changi, Jul 02"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/030701chgd0073m3.jpg"
-      caption: "Developing babies Changi, Jul 03"
-links_references: |
-  **Links**
-  - [Squid](http://mangrove.nus.edu.sg/pub/seashore/text/167.md)
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/080208hntd9473m3.jpg
+    caption: Some egg capsules commonly seen. Pulau Hantu, Feb 08
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/020715chgd3359m3.jpg
+    caption: String of black egg capsoules Changi, Jul 02
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/030701chgd0073m3.jpg
+    caption: Developing babies Changi, Jul 03
+links_references: '**Links**
+
+  - [Squid](http://mangrove.nus.edu.sg/pub/seashore/text/167)
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
+
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+
   . The Singapore Science Centre, Singapore. 160 pp.
+
   - [The Cephalopod Page](http://www.thecephalopodpage.org/)
-  by Dr James B Wood on the Dalhousie University and the University of Texas Medical Branch website: everything you could possibly want to know about cephalopods. Lots of info, photos, articles and links to cephalopods. Lots of fabulous photos, a delightful and exhaustive FAQ, and lots of cool articles for the laymen. With a very cute ink-squiring squid cursor!
-  - Cephalopods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+
+  by Dr James B Wood on the Dalhousie University and the University of Texas Medical
+  Branch website: everything you could possibly want to know about cephalopods. Lots
+  of info, photos, articles and links to cephalopods. Lots of fabulous photos, a delightful
+  and exhaustive FAQ, and lots of cool articles for the laymen. With a very cute ink-squiring
+  squid cursor!
+
+  - Cephalopods section by J.M. Poutiers in the FAO Species Identification Guide for
+  Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
+
   on the Food and Agriculture Organization of the United Nations (FAO) website.
-  
+
+
   **References**
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
+
   *Rhythm of the Sea: The Life and Times of Labrador Beach.*
-  Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+
+  Division of Biology, School of Science, Nanyang Technological University & Department
+  of Zoology, the National University of Singapore. 160 pp.
+
   - Wee Y.C. and Peter K. L. Ng. 1994.
+
   *A First Look at Biodiversity in Singapore*
+
   . National Council on the Environment. 163pp.
+
   - Ng, P. K. L. & Y. C. Wee, 1994.
+
   *The Singapore Red Data Book: Threatened Plants and Animals of Singapore*
+
   . The Nature Society (Singapore), Singapore. 343 pp.
+
   - Norman, Mark and Helmut Debelius, 2000.
+
   *Cephalopods: A World Guide*
+
   . ConchBooks, Germany. 319 pp
+
   - Norman, Mark and Amanda Reid. 2000.
+
   *A Guide to Squid, Cuttlefish and Octopuses of Australasia*
+
   The Gould League of Australia. 96pp.
+
+  '
+size:
+- 1.0
+- 2.0
+- 10.0
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
@@ -90,17 +137,17 @@ These amazing animals are seasonally common on many of our shores. Tiny squids a
 
 **What are squids and cuttlefish?**
 They are not fish! These animals are
-[molluscs](../mollusca.md)
+[molluscs](../mollusca)
 (Phylum Molusca) like snails, slugs and clams; and
-[cephalopods](../cephalopoda.md)
+[cephalopods](../cephalopoda)
 (Class Cephalopoda) which include
-[octopuses](octopus.md)
+[octopuses](octopus)
 . Most of the commonly encountered cuttlefishes belong to
-[Order Sepiida](sepiidae.md)
+[Order Sepiida](sepiidae)
 , while our commonly encountered squids belong to Order Teuthida,
-[Family Loliginidae](loliginidae.md)
+[Family Loliginidae](loliginidae)
 . The strange ball-shaped cuttlefish-like animals we see belong to
-[Order Sepiolida](sepiolida.md)
+[Order Sepiolida](sepiolida)
 . Some small squids and cuttlefish live in the shallow areas among the seagrasses. Others live in deeper waters and may get trapped in a pool at low tide.
 
 ## Features
@@ -136,7 +183,7 @@ Eggs are laid in capsules, attached to hard objects and surfaces; or inserted in
 Squids usually mate only once in their life and die soon after mating and laying eggs. Cuttlefish don't produce as many eggs as squids.
 
 Here's more photos of
-[squid and cuttlefish eggs](cepeggs.md)
+[squid and cuttlefish eggs](cepeggs)
 sometimes seen.
 
 ---
@@ -173,7 +220,7 @@ from Tan Siong Kiat and Henrietta P. M. Woo, 2010
 
 **Order Sepiida**
 
-[**Family Sepiidae**](sepiidae.md)
+[**Family Sepiidae**](sepiidae)
 **
 (Cuttlefishes) with list of species recorded for Singapore
 
@@ -184,20 +231,20 @@ from Tan Siong Kiat and Henrietta P. M. Woo, 2010
 
 **Order Teuthida**
 
-[**Family Loliginidae**](loliginidae.md)
+[**Family Loliginidae**](loliginidae)
 **
 (Pencil squids) with list of species recorded for Singapore
 
 **Order Sepiolida**
 
-**[Family Sepiolidae](sepiolida.md)**
+**[Family Sepiolidae](sepiolida)**
 (Bobtail squids) with list of species recorded for Singapore
 
 **Family Idiosepiidae**
 (Pygmy squids)
 
 [*Idiosepius*
-sp.](pygmy.md)
+sp.](pygmy)
 (Pygmy squids)
 
 ---

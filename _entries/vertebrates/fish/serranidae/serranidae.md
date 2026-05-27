@@ -1,9 +1,8 @@
 ---
 title: Groupers
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: grouper, fish, serranidae, field, guide, seashore, sea, shore, marine,
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: grouper, fish, serranidae, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 25
@@ -23,94 +22,62 @@ superorder: Acanthomorpha
 order: Perciformes
 suborder: Percoidei
 updated: Oct 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/100527tmd3431m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/100527tmd3431m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They are solitary hunters
-      with an amazing mouth. They can change their gender. They are among our 
-      favourite seafood. However, overharvesting can affect their populations.
+    caption: if you learn only 3 things about them ... They are solitary hunters with
+      an amazing mouth. They can change their gender. They are among our favourite
+      seafood. However, overharvesting can affect their populations.
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They are solitary hunters with an amazing mouth. They can change 
-      their gender. They are among our favourite seafood. However, 
-      overharvesting can affect their populations.
+    caption: They are solitary hunters with an amazing mouth. They can change their
+      gender. They are among our favourite seafood. However, overharvesting can affect
+      their populations.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/100527tmd3431m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/100527tmd3431m3.jpg
     caption: Chocolate hind
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/coioides/120606bbd4364m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/coioides/120606bbd4364m3.jpg
     caption: Orange-spotted grouper
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/formosa/150520ecplks2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/formosa/150520ecplks2.jpg
     caption: Bluelined hind
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/quoyanus/110418tmftd9031m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/quoyanus/110418tmftd9031m3.jpg
     caption: Honeycomb grouper
-links_references: |
-  **Links**
-  - [Marbled Grouper (
-  *Epinephalus tauvina*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/243.md)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988,
-  *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
-  . The Singapore Science Centre, Singapore. 160 pp.
-  - [Orange-spotted Grouper (
-  *Epinephelus coioides*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2103.md)
-  Ng, Peter K. L. & N. Sivasothi, 1999.
-  *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
-  . Singapore Science Centre. 168 pp.
-  - Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
-  *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
-  . Singapore Science Centre. 163 pp.
-  - [IUCN Groupers and Wrasses Specialist Group](http://www.hku.hk/ecology/GroupersWrasses/iucnsg/index.html)
-  : Details on groupers and the threats they face.
-  - [Family Serranidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=289)
-  from
-  [FishBase](http://www.fishbase.org/)
-  : Technical fact sheet on the family, including fact sheets on individual species.
-  - From the wild shores of singapore
-  - [Eating groupers devastates reefs and lives](http://wildshores.blogspot.com/2009/02/eating-live-grouper-devastates-reefs.html)
-  - [Groupers nearly gone](http://wildshores.blogspot.com/2008/10/groupers-nearly-gone.html)
-  - [Groupers are undersea architects building habitats for others](http://wildshores.blogspot.com/2010/01/groupers-are-undersea-architects.html)
-
-  **References**
-  - Neo Mei Lin.
-  *Giant grouper at Semakau*
-  . 28 December 2017. Singapore Biodiversity Records 2017: 179 ISSN 2345-7597. National University of Singapore.
-  - Kelvin K. P. Lim. 28 Jul 2017.
-  *Longfin grouper, Epinephelus quoyanus, in Sisters Islands Marine Park*
-  . Singapore Biodiversity Records 2017: 93.
-  - Toh Chay Hoon. 27 May 2016.
-  *Humpback grouper off Pulau Satumu, Cromileptes altivelis*
-  . Singapore Biodiversity Records 2016: 69
-  - Tan Heok Hui. 18 December 2015.
-  *Sabah grouper in Singapore, Epinephelus lanceolatus x Epinephelus fuscoguttatus*
-  . Singapore Biodiversity Records 2015: 197-198.
-  - Brian Cabrera, Desmond Ong & Siti Maryam Yaakub. 9 October 2015.
-  *Probable breeding pair of grouper*
-  . Singapore Biodiversity Records 2015: 154-155.
-  - Toh Chay Hoon & Kelvin K. P. Lim. 24 July 2015.
-  *Humpback grouper at Chek Jawa*
-  . Singapore Biodiversity Records 2015: 101.
-  - Jeffrey Low K. Y., Jani Isa Thuaibah Tanzil & Zeehan Jaafar, 2009.
-  *Some note-worthy fishes observed in the Singapore Straits*
-  . Nature in Singapore, 2: 77–82.
-  - Wee Y.C. and Peter K. L. Ng. 1994.
-  *A First Look at Biodiversity in Singapore*
-  . National Council on the Environment. 163pp.
-  - Allen, Gerry, 2000.
-  *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
-  . Periplus Editions. 292 pp.
-  - Kuiter, Rudie H. 2002.
-  *Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers and Fishermen*
-  New Holland Publishers. 434pp.
-  - Lieske, Ewald and Robert Myers. 2001.
-  *Coral Reef Fishes of the World*
-  Periplus Editions. 400pp.
+links_references: "**Links**\n- [Marbled Grouper (\n*Epinephalus tauvina*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/243)\n\
+  Tan, Leo W. H. & Ng, Peter K. L., 1988,\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n\
+  . The Singapore Science Centre, Singapore. 160 pp.\n- [Orange-spotted Grouper (\n\
+  *Epinephelus coioides*\n)](http://mangrove.nus.edu.sg/guidebooks/text/2103)\nNg,\
+  \ Peter K. L. & N. Sivasothi, 1999.\n*[A Guide to the Mangroves of Singapore II\
+  \ (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*\n. Singapore Science\
+  \ Centre. 168 pp.\n- Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.\n*[A Guide to\
+  \ the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*\n\
+  . Singapore Science Centre. 163 pp.\n- [IUCN Groupers and Wrasses Specialist Group](http://www.hku.hk/ecology/GroupersWrasses/iucnsg/index.html)\n\
+  : Details on groupers and the threats they face.\n- [Family Serranidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=289)\n\
+  from\n[FishBase](http://www.fishbase.org/)\n: Technical fact sheet on the family,\
+  \ including fact sheets on individual species.\n- From the wild shores of singapore\n\
+  - [Eating groupers devastates reefs and lives](http://wildshores.blogspot.com/2009/02/eating-live-grouper-devastates-reefs.html)\n\
+  - [Groupers nearly gone](http://wildshores.blogspot.com/2008/10/groupers-nearly-gone.html)\n\
+  - [Groupers are undersea architects building habitats for others](http://wildshores.blogspot.com/2010/01/groupers-are-undersea-architects.html)\n\
+  \n**References**\n- Neo Mei Lin.\n*Giant grouper at Semakau*\n. 28 December 2017.\
+  \ Singapore Biodiversity Records 2017: 179 ISSN 2345-7597. National University of\
+  \ Singapore.\n- Kelvin K. P. Lim. 28 Jul 2017.\n*Longfin grouper, Epinephelus quoyanus,\
+  \ in Sisters Islands Marine Park*\n. Singapore Biodiversity Records 2017: 93.\n\
+  - Toh Chay Hoon. 27 May 2016.\n*Humpback grouper off Pulau Satumu, Cromileptes altivelis*\n\
+  . Singapore Biodiversity Records 2016: 69\n- Tan Heok Hui. 18 December 2015.\n*Sabah\
+  \ grouper in Singapore, Epinephelus lanceolatus x Epinephelus fuscoguttatus*\n.\
+  \ Singapore Biodiversity Records 2015: 197-198.\n- Brian Cabrera, Desmond Ong &\
+  \ Siti Maryam Yaakub. 9 October 2015.\n*Probable breeding pair of grouper*\n. Singapore\
+  \ Biodiversity Records 2015: 154-155.\n- Toh Chay Hoon & Kelvin K. P. Lim. 24 July\
+  \ 2015.\n*Humpback grouper at Chek Jawa*\n. Singapore Biodiversity Records 2015:\
+  \ 101.\n- Jeffrey Low K. Y., Jani Isa Thuaibah Tanzil & Zeehan Jaafar, 2009.\n*Some\
+  \ note-worthy fishes observed in the Singapore Straits*\n. Nature in Singapore,\
+  \ 2: 77\u201382.\n- Wee Y.C. and Peter K. L. Ng. 1994.\n*A First Look at Biodiversity\
+  \ in Singapore*\n. National Council on the Environment. 163pp.\n- Allen, Gerry,\
+  \ 2000.\n*Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*\n\
+  . Periplus Editions. 292 pp.\n- Kuiter, Rudie H. 2002.\n*Guide to Sea Fishes of\
+  \ Australia: A Comprehensive Reference for Divers and Fishermen*\nNew Holland Publishers.\
+  \ 434pp.\n- Lieske, Ewald and Robert Myers. 2001.\n*Coral Reef Fishes of the World*\n\
+  Periplus Editions. 400pp.\n"
 location:
 - cj
 - skd
@@ -142,7 +109,7 @@ Members of the Family Serranidae can change their gender! Most are female when t
 Groupers are edible and a highly valued seafood dish for many Singaporeans. However, we may be eating the groupers to extinction.
 
 Groupers are vulnerable to overfishing because they are not numerous to begin with. At the same time, they have high commercial value and are relatively easy to catch. Many are territorial and stay within a particular home range, and most are not shy of divers. In the Hong Kong area, populations of the larger groupers are dwindling and smaller groupers such as the
-[Chocolate hind](boenak.md)
+[Chocolate hind](boenak)
 (
 *Cephalopholis boenak*
 ) are now being targetted.
@@ -150,7 +117,7 @@ Groupers are vulnerable to overfishing because they are not numerous to begin wi
 Being top predators, they are naturally uncommon. They reach maturity and maximum size relatively slowly. Thus overfishing of young fish before they are able to reproduce can have a serious effect. Males are larger and rarer, thus more vulnerable to overfishing. This can result in an imbalance in the gender ratio which can affect reproduction. Overfishing at the spawning sites where large numbers of the usually solitary groupers gather can also devastate the local population of these fishes.
 
 In Southeast Asia, groupers are widely farmed in floating cages or in ponds and tanks. In Singapore, some like the
-[Orange-spotted grouper](coioides.md)
+[Orange-spotted grouper](coioides)
 (
 *Epinephalus coioides*
 ) and Malabar grouper (
@@ -197,9 +164,9 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
 *Anyperodon leucogrammicus*
 *Cephalopholis argus
 
-[Cephalopholis boenak](boenak.md)*
+[Cephalopholis boenak](boenak)*
 (Chocolate hind)
-*[Cephalopholis formosa](formosa.md)*
+*[Cephalopholis formosa](formosa)*
 (Blue-lined hind)
 *Cromileptes altivelis*
 (Humpback grouper)
@@ -221,7 +188,7 @@ Epinephelus boenack=**Cephalopholis boenak
 
 Epinephelus caeruleo-punctatus
 
-[Epinephelus coioides](coioides.md)*
+[Epinephelus coioides](coioides)*
 (Orange-spotted grouper)
 *Epinephelus corallicola
 
@@ -243,7 +210,7 @@ Epinephelus nebulosus=**Epinephelus coioides
 
 Epinephelus pachycentrum=**Cephalopholis boenak
 
-[Epinephelus quoyanus](quoyanus.md)*
+[Epinephelus quoyanus](quoyanus)*
 (Honeycomb/Longfin grouper)
 *Epinephelus sexfasciatus
 
@@ -253,7 +220,7 @@ Epinephelus urodelus=**Cephalopholis urodeta*
 
 ****now in Family Centrogenyidae (False scorpionfishes)**
 
-*[Centrogenys vaigiensis](../centrogenyidae/vaigiensis.md)*
+*[Centrogenys vaigiensis](../centrogenyidae/vaigiensis)*
 (False scorpionfish)
 
 ---

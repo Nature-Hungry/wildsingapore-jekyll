@@ -20,25 +20,25 @@ updated: Sep 2020
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/quadrata/090228smkd7228m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/quadrata/090228smkd7228m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/090704ubnd6325.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/sulcata/050310smkg3209m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/quadrata/090228smkd7231m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/090517ubnd1865m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/sulcata/090307blyd7455m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/quadrata/090411lckd9518m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/090612pndd3991m3a.jpg"
-      caption: ""
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/quadrata/090228smkd7228m3.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/090704ubnd6325.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/sulcata/050310smkg3209m3.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/quadrata/090228smkd7231m3a.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/090517ubnd1865m3a.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/sulcata/090307blyd7455m3.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/quadrata/090411lckd9518m3a.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/090612pndd3991m3a.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cerithiidae/pellucida/050917smkg2563m3.jpg"
-      caption: This is a Mangrove creeper snail and is NOT a Horn snail
+  - url: http://www.wildsingapore.com/wildfacts/cerithiidae/pellucida/050917smkg2563m3.jpg
+    caption: This is a Mangrove creeper snail and is NOT a Horn snail
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

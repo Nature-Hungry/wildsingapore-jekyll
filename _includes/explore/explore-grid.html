@@ -81,11 +81,11 @@ fetch('/assets/search.json')
         { name: "species", weight: 3 },
         { name: "genus", weight: 2 },
         { name: "family", weight: 2 },
-        { name: "keywords", weight: 2 },
-        { name: "summary", weight: 1 },
-        { name: "subfamily", weight: 1 },
-        { name: "infraorder", weight: 1 },
-        { name: "suborder", weight: 1 },
+        { name: "keywords", weight: 2 }, 
+        { name: "summary", weight: 1 }, 
+        { name: "subfamily", weight: 1 }, 
+        { name: "infraorder", weight: 1 }, 
+        { name: "suborder", weight: 1 }, 
         { name: "order", weight: 1 },
         { name: "class", weight: 1 },
         { name: "subphylum", weight: 1 },
@@ -219,15 +219,34 @@ function renderResults() {
         return
     }
 
-  resultsDiv.innerHTML = paginated.map(item => `
+  
+  resultsDiv.innerHTML = paginated.map(item => {
+    let scientificname = ""
+    if(item.species && item.genus){
+      scientificname = `${item.genus} ${item.species}`
+    }else if(item.family){
+      scientificname = `Family ${item.family}`
+    }else if(item.suborder){
+      scientificname = `Suborder ${item.suborder}`
+    }else if(item.order){
+      scientificname = `Order ${item.order}`
+    }else if(item.class){
+      scientificname = `Class ${item.class}`
+    }else{
+      scientificname = `Phylum ${item.phylum}`
+    }
+    
+    
+    return `
     <a href="${item.url}" class="entry">
         <div class="img-container">
             <img src="${item.coverimg ?? 'https://placehold.co/600x400/png'}" alt="">
         </div>
         <h4>${item.title}</h4>
-        <p class="scientific-name">${item.genus} ${item.species}</p>
+        <p class="scientific-name">${scientificname}</p>
     </a>
-  `).join('')
+    `
+  }).join('')
 
   const totalPages = Math.ceil(results.length / perpage)
 

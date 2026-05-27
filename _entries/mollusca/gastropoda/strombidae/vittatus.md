@@ -1,10 +1,9 @@
 ---
 title: 'Vitate conch snail '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: vitate, conch, strombus, doxander, vittatus, apicatus, strombidae, 
-  gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, 
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: vitate, conch, strombus, doxander, vittatus, apicatus, strombidae, gastropod,
+  mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Strombidae
 genus: Doxander
@@ -19,35 +18,33 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Stromboidea
 updated: Jul 2023
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/vittatus/160708sjid5384m6la.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/vittatus/160708sjid5384m6la.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/vittatus/160708sjid5384m6la.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/vittatus/160708sjid5384m6la.jpg
     caption: St John's Island, Jul 16
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/vittatus/160708sjid5382m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/vittatus/160708sjid5382m3.jpg
     caption: St John's Island, Jul 16
   gallery2:
   - url: https://live.staticflickr.com/7289/27888454850_362658f3d7_z.jpg
     caption: ''
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/vittatus/230706bb.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/vittatus/230706bb.jpg
     caption: Beting Bronok, Jul 2023
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/vittatus/240723chgeccn4.jpg
-    caption: Changi East (Lost Coast), Jul 24 Photo shared by Che Cheng Neo on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/vittatus/251009sjitl4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/vittatus/240723chgeccn4.jpg
+    caption: Changi East (Lost Coast), Jul 24 Photo shared by Che Cheng Neo on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/vittatus/251009sjitl4.jpg
     caption: St John's Island, Oct 25 Photo shared by Tammy Lim on facebook .
 location:
 - bb
 - ecp
 - sji
+size:
+- 6.0
+- 8.0
+- 10.0
 ---
 
 ## Where seen?

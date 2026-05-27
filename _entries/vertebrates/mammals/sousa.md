@@ -26,43 +26,46 @@ superfamily: Delphinoidea
 subfamily: Delphininae
 updated: Oct 2019
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/sousa/170823tsmkjt2.jpg
-links_references: |
-  **Links**
-  - *[Sousa chinensis](https://singapore.biodiversity.online/taxo4254/mainSpace/Sousa%20Chinensisl)* (Cetartiodactyla: Delphinidae) Indo-Pacific Humpbacked Dolphin by Yang Jia Qi, 2015, on taxo4254.
-  - [Support ACRES effort for wild dolphins in Singapore](http://wildshores.blogspot.sg/2015/04/support-acres-effort-for-wild-dolphinsl) on the wild shores of singapore blog.
-  - [How
-    to eat live sotong if you have no hands?](http://wildshores.blogspot.com/2009/01/how-to-eat-live-sotong-if-you-have-nol) a dolphin hunting
-    technique on the wild shores of singapore blog.
-  - [Latest
-    media reports on dolphins](http://wildsingaporenews.blogspot.com/search/label/dolphins) on the wildsingapore news blog.
-  - [Singapore
-    Wild Marine Mammal Survey](http://www.tmsi.nus.edu.sg/mmrl) (SWiMMS)
-  
-  **References**
-  - Benjamin P. Y-H. Lee & Michelle Ooi. 30 June 2020. *Indo-Pacific humpback dolphins near Jurong Island*. Singapore Biodiversity Records 2020: 84-85 ISSN 2345-7597
-  - Teresa Stephanie Tay & Rene Ong. 10 October 2014. *Indo-Pacific humpback dolphins off Lazarus Island, Sousa chinensis*. Singapore Biodiversity Records 2014: 275.
-  - Marcus A. H. Chua and Kelvin K. P. Lim. 25 July 014. *Irrawaddy dolphin carcass at East Coast beach, Orcaella brevirostris*. Singapore Biodiversity Records 2014: 201-202.
-  - Marcus A. H. Chua. 25 July 014. *Indo-Pacific humpback dolphin carcass at East Coast beach, Sousa chinensis*. Singapore Biodiversity Record 2014: 206
-  - Teresa Stephanie Tay & Rene Ong. 10 October 2014. *Indo-Pacific humpback dolphins off Lazarus Island, Sousa chinensis*. Singapore Biodiversity Records 2014: 275.
-  - Davison,
-    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-    Red Data Book: Threatened plants and animals of Singapore*.
-    Nature Society (Singapore). 285 pp.
-  - Nowak, Ronald
-    M. 2003. *Walker's
-    Marine Mammals of the World*. The Johns Hopkins University
-    Press. 263 pp.
+links_references: "**Links**\n- *[Sousa chinensis](https://singapore.biodiversity.online/taxo4254/mainSpace/Sousa%20Chinensisl)*\
+  \ (Cetartiodactyla: Delphinidae) Indo-Pacific Humpbacked Dolphin by Yang Jia Qi,\
+  \ 2015, on taxo4254.\n- [Support ACRES effort for wild dolphins in Singapore](http://wildshores.blogspot.sg/2015/04/support-acres-effort-for-wild-dolphinsl)\
+  \ on the wild shores of singapore blog.\n- [How\n  to eat live sotong if you have\
+  \ no hands?](http://wildshores.blogspot.com/2009/01/how-to-eat-live-sotong-if-you-have-nol)\
+  \ a dolphin hunting\n  technique on the wild shores of singapore blog.\n- [Latest\n\
+  \  media reports on dolphins](http://wildsingaporenews.blogspot.com/search/label/dolphins)\
+  \ on the wildsingapore news blog.\n- [Singapore\n  Wild Marine Mammal Survey](http://www.tmsi.nus.edu.sg/mmrl)\
+  \ (SWiMMS)\n\n**References**\n- Benjamin P. Y-H. Lee & Michelle Ooi. 30 June 2020.\
+  \ *Indo-Pacific humpback dolphins near Jurong Island*. Singapore Biodiversity Records\
+  \ 2020: 84-85 ISSN 2345-7597\n- Teresa Stephanie Tay & Rene Ong. 10 October 2014.\
+  \ *Indo-Pacific humpback dolphins off Lazarus Island, Sousa chinensis*. Singapore\
+  \ Biodiversity Records 2014: 275.\n- Marcus A. H. Chua and Kelvin K. P. Lim. 25\
+  \ July 014. *Irrawaddy dolphin carcass at East Coast beach, Orcaella brevirostris*.\
+  \ Singapore Biodiversity Records 2014: 201-202.\n- Marcus A. H. Chua. 25 July 014.\
+  \ *Indo-Pacific humpback dolphin carcass at East Coast beach, Sousa chinensis*.\
+  \ Singapore Biodiversity Record 2014: 206\n- Teresa Stephanie Tay & Rene Ong. 10\
+  \ October 2014. *Indo-Pacific humpback dolphins off Lazarus Island, Sousa chinensis*.\
+  \ Singapore Biodiversity Records 2014: 275.\n- Davison,\n  G.W. H. and P. K. L.\
+  \ Ng and Ho Hua Chew, 2008. *The Singapore\n  Red Data Book: Threatened plants and\
+  \ animals of Singapore*.\n  Nature Society (Singapore). 285 pp.\n- Nowak, Ronald\n\
+  \  M. 2003. *Walker's\n  Marine Mammals of the World*. The Johns Hopkins University\n\
+  \  Press. 263 pp.\n"
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/sousa/170823tsmkjt2.jpg"
-      caption: "St John's Island, Aug 17 Photos by Jonathan Tan on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/sousa/090610smknml1m3.jpg"
-      caption: "Off Pulau Semakau, Jun 09 Photos by Karenne Tun shared on Neo Mei Lin's blog ."
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/sousa/170823tsmkjt2.jpg
+    caption: St John's Island, Aug 17 Photos by Jonathan Tan on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/sousa/090610smknml1m3.jpg
+    caption: Off Pulau Semakau, Jun 09 Photos by Karenne Tun shared on Neo Mei Lin's
+      blog .
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/sousa/090610smknml2m3.jpg"
-      caption: "Off Pulau Semakau, Jun 09 Photos by Karenne Tun shared on Neo Mei Lin's blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/sousa/070521sisckt1m6.jpg"
-      caption: "Off Sisters Islands, May 07 Photo shared by CK Tan on the habitatnews flickr"
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/sousa/090610smknml2m3.jpg
+    caption: Off Pulau Semakau, Jun 09 Photos by Karenne Tun shared on Neo Mei Lin's
+      blog .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/sousa/070521sisckt1m6.jpg
+    caption: Off Sisters Islands, May 07 Photo shared by CK Tan on the habitatnews
+      flickr
+size:
+- 120.0
+- 280.0
 ---
 
 ## Where seen?
@@ -88,7 +91,7 @@ This dolphin is listed as 'Endangered' in the Red List of threatened animals of 
 
 ---
 
-[videoclips](sousa1.md)
+[videoclips](sousa1)
 of dolphins on Singapore shores
 
 ---

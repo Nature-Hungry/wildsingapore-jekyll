@@ -1,10 +1,9 @@
 ---
 title: Forked venus clam
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: venus, shell, clam, gafrarium, divaricatum, veneridae, bivalve, 
-  mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: venus, shell, clam, gafrarium, divaricatum, veneridae, bivalve, mollusc,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info
 layout: entry
 family: Malleidae
 genus: Gafrarium
@@ -23,39 +22,44 @@ order: Venerida
 superfamily: Veneroidea
 subfamily: Gouldiinae
 updated: May 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/070323skdg8233m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/070323skdg8233m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/070323skdg8233m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/070323skdg8233m3.jpg
     caption: Pulau Sekudu, Mar 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/090819ecpd9330m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/090819ecpd9330m3.jpg
     caption: East Coast, Aug 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/080525ubnd4255m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/080525ubnd4255m3.jpg
     caption: Pulau Ubin, May 08
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/091019prplks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/091019prplks.JPG
     caption: Pasir Ris Park, Oct 09 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/171009blyay1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/171009blyay1.jpg
     caption: Berlayar Creek, Oct 17 Photo shared by Abel Yeo on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Gafrarium divaricatum*
+
   (Forked venus)](http://www.sealifebase.org/summary/SpeciesSummary.php?id=86647)
+
   from SeaLife Base: Technical fact sheet.
 
+
   **References**
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Tan, K. S. & L. M. Chou, 2000.
+
   *A Guide to the Common Seashells of Singapore*
+
   . Singapore Science Centre. 160 pp.
+
+  '
 location:
 - prp
 - ubn
@@ -66,6 +70,9 @@ location:
 - lab
 - snt
 - cyr
+size:
+- 4.0
+- 6.0
 ---
 
 ## Where seen?

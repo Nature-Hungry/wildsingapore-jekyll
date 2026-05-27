@@ -1,10 +1,9 @@
 ---
 title: Smooth flowery soft coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: smooth, litophyton, nephtheidae, alcyonacea, soft, coral, cnidaria, 
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: smooth, litophyton, nephtheidae, alcyonacea, soft, coral, cnidaria, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 family: Nephtheidea
 genus: Litophyton
@@ -18,47 +17,55 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Nov 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepsmooth/050510tusg6107m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepsmooth/050510tusg6107m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepsmooth/050510tusg6107m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepsmooth/050510tusg6107m3.jpg
     caption: Tuas, May 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepsmooth/050510tusg6107m3e.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepsmooth/050510tusg6107m3e.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepsmooth/050510tusg6107m3f.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepsmooth/050510tusg6107m3f.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepsmooth/070304hntg8008m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepsmooth/070304hntg8008m3.jpg
     caption: Pulau Hantu, Mar 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepsmooth/070304hntg8008m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepsmooth/070304hntg8008m3a.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepsmooth/070304hntg8008m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepsmooth/070304hntg8008m3b.jpg
     caption: ''
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - *[Litophyton](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Litophyton)*
+
   on
+
   [Reef Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding)
+
   on the
+
   [Marine Species Identification Portal](http://species-identification.org/index.php)
+
   : Technical fact sheet and photos.
 
+
   **References**
+
   - Fabricius, Katharina and Philip Alderslade, 2001.
+
   *Soft Corals and Sea Fans*
-  . Australian Institute of Marine Science and the Museum and Art Gallery of the Northern Territoriy. 264 pp.
+
+  . Australian Institute of Marine Science and the Museum and Art Gallery of the Northern
+  Territoriy. 264 pp.
+
+  '
 location:
 - cj
 - tus
 - hnt
 - smk
+size:
+- 6.0
+- 12.0
 ---
 
 ## Where seen?

@@ -19,30 +19,42 @@ updated: Jan 13
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/050513labg6494m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/050311labg3274m3.jpg"
-      caption: "Labrador, Mar 05"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/050513labg6493m3a.jpg"
-      caption: "Labrador, May 05"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/050513labg6493m3b.jpg"
-      caption: "Labrador, May 05"
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/050311labg3274m3.jpg
+    caption: Labrador, Mar 05
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/050513labg6493m3a.jpg
+    caption: Labrador, May 05
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/050513labg6493m3b.jpg
+    caption: Labrador, May 05
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/080425cyrd1800m3a.jpg"
-      caption: "Cyrene Reef, Oct 07"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/080425cyrd1802m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/080425cyrd1802m3a.jpg"
-      caption: ""
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/080425cyrd1800m3a.jpg
+    caption: Cyrene Reef, Oct 07
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/080425cyrd1802m3.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/080425cyrd1802m3a.jpg
+    caption: ''
+links_references: '**Links**
+
   - [*Caulerpa webbiana*](http://www.algaebase.org/search/species/detail/?species_id=4537)
+
   on
+
   [AlgaeBase](http://www.algaebase.org/)
+
   : Technical fact sheet.
-  
+
+
   **References**
+
   - Huisman, John M. 2000.
+
   *Marine Plants of Australia*
+
   University of Western Australia Press. 300pp.
+
+  '
+size:
+- 4.0
+- 6.0
 ---
 
 ## Where seen?

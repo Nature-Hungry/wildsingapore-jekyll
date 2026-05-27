@@ -1,10 +1,9 @@
 ---
 title: Oval mushroom coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: long, fungia, mushroom, fungiidae, coral, hard, scleractinia, 
-  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: long, fungia, mushroom, fungiidae, coral, hard, scleractinia, cnidaria,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Fungiidae
 genus: Fungia
@@ -18,55 +17,38 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060212sisg4747m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060212sisg4747m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060212sisg4747m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060212sisg4747m3.jpg
     caption: Prominent central furrow. Sisters Island, Feb 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060212sisg4747m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060212sisg4747m3a.jpg
     caption: Tiny teeth.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060212sisg4747m3c.jpg
-    caption: Lines appear smooth when covered with the tissue. Pink tips 
-      tentacles.
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060212sisg4747m3c.jpg
+    caption: Lines appear smooth when covered with the tissue. Pink tips tentacles.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060212sisg4749m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060212sisg4749m3.jpg
     caption: Undeside
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060212sisg4749m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060212sisg4749m3a.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060212sisg4747m3c.jpg
-    caption: Lines appear smooth when covered with the tissue. Pink tips 
-      tentacles.
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060212sisg4747m3c.jpg
+    caption: Lines appear smooth when covered with the tissue. Pink tips tentacles.
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060402ulrd0962m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060402ulrd0962m3.jpg
     caption: Pulau Hantu, Apr 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/110717tbd7222m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/110717tbd7222m3.jpg
     caption: Terumbu Bemban, Jul 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/080707hntd7469m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/080707hntd7469m3.jpg
     caption: Pulau Hantu, Jul 08
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/2007025smknjll1a.jpg
-    caption: Pulau Semakau North, Jul 20 Photo shared by Jianlin Liu on facebook
-      .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/090330trylks1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/2007025smknjll1a.jpg
+    caption: Pulau Semakau North, Jul 20 Photo shared by Jianlin Liu on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/090330trylks1m3.jpg
     caption: Terumbu Raya, Mar 09 Photo shared by Loh Kok Sheng on his flickr
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/100130brklks14m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/100130brklks14m3b.jpg
     caption: Terumbu Berkas, Jan 10 Photo shared by Loh Kok Sheng on his flickr
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/210428slulks8.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/210428slulks8.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
 location:
 - sis
@@ -75,6 +57,9 @@ location:
 - smk
 - tsm
 - lfa
+size:
+- 15.0
+- 25.0
 ---
 
 ## Where seen?
@@ -86,7 +71,7 @@ Oval to elongated convex disks with rounded ends, to about 15-25cm long. Promine
 
 **Sometimes confused with**
 other long mushroom corals. Here's more on how to
-[tell apart elongated mushroom hard corals](cflong.md)
+[tell apart elongated mushroom hard corals](cflong)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

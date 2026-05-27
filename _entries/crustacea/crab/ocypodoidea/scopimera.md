@@ -1,10 +1,9 @@
 ---
 title: Sand bubbler crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: sand, bubbler, crab, scopimera, dotilla, dotillidae, decapod, 
-  crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: sand, bubbler, crab, scopimera, dotilla, dotillidae, decapod, crustacea,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 attributes:
 - 38
@@ -18,109 +17,120 @@ coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They are everywhere on 
-      the sandy shore at low tide. Don't step on them! The tiny sand balls are 
-      processed sand. Not excretion or from burrowing. They are related to 
-      fiddler crabs.
+    caption: if you learn only 3 things about them ... They are everywhere on the
+      sandy shore at low tide. Don't step on them! The tiny sand balls are processed
+      sand. Not excretion or from burrowing. They are related to fiddler crabs.
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They are everywhere on the sandy shore at low tide. Don't step on 
-      them! The tiny sand balls are processed sand. Not excretion or from 
-      burrowing. They are related to fiddler crabs.
+    caption: They are everywhere on the sandy shore at low tide. Don't step on them!
+      The tiny sand balls are processed sand. Not excretion or from burrowing. They
+      are related to fiddler crabs.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/scopimera/050206cjd0046m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/scopimera/050206cjd0046m3.jpg
     caption: Chek Jawa, Feb 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/scopimera/030913cjd0033m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/scopimera/030913cjd0033m3.jpg
     caption: Mating sand bubbler crabs held in the hand. Chek Jawa, Sep 03 .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/scopimera/070422cjd0571m3.jpg
-    caption: Shore covered with tiny balls of sand created by busy sand 
-      bubblers. Chek Jawa, Apr 07
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/scopimera/070422cjd0571m3.jpg
+    caption: Shore covered with tiny balls of sand created by busy sand bubblers.
+      Chek Jawa, Apr 07
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/scopimera/050326cjg3733m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/scopimera/050326cjg3733m3a.jpg
     caption: Chek Jawa, Mar 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/scopimera/050502cjg5648m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/scopimera/050502cjg5648m3a.jpg
     caption: Creating little balls of sand.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/scopimera/050502cjg5645m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/scopimera/050502cjg5645m3a.jpg
     caption: ''
   gallery4:
   - url: https://live.staticflickr.com/1662/25185740855_e0975f8fef_z.jpg
     caption: ''
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/scopimera/200627cnyrk4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/scopimera/200627cnyrk4.jpg
     caption: Coney Island, Jun 20 Photo shared by Richard Kuah on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/scopimera/201019cnyrk8.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/scopimera/201019cnyrk8.jpg
     caption: Coney Island, Oct 20 Photo shared by Richard Kuah on facebook .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/scopimera/260103prpyls11.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/scopimera/260103prpyls11.jpg
     caption: Pasir Ris Park, Jan 26 Photo shared by Yan Le Su on facebook .
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/scopimera/160704cjhpy2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/scopimera/160704cjhpy2.jpg
     caption: Chek Jawa, Jul 16 Photo shared by Heng Pei Yan on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/scopimera/170624cjmn1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/scopimera/170624cjmn1.jpg
     caption: Chek Jawa, Jun 17 Photo shared by Marcus Ng on facebook .
   gallery8:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/scopimera/251206chgetm4.jpg
-    caption: Changi East (Lost Coast), Dec 25 Photo shared by Tammy Lim on 
-      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/scopimera/251206chgetm4.jpg
+    caption: Changi East (Lost Coast), Dec 25 Photo shared by Tammy Lim on facebook
+      .
   gallery9:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/scopimera/151001blylks1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/scopimera/151001blylks1m3.jpg
     caption: Berlayar Creek, Oct 15 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/scopimera/260104trmrqo5.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/scopimera/260104trmrqo5.jpg
     caption: Sentosa Tg Rimau, Jan 26 Photo shared by Rui Quan Oh on facebook .
   gallery10:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/scopimera/160209cyrhpy3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/scopimera/160209cyrhpy3.jpg
     caption: Cyrene Reef, Feb 16 Photo shared by Heng Pei Yan on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/scopimera/190707thntch3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/scopimera/190707thntch3.jpg
     caption: Terumbu Hantu, Jul 19 Photo shared by Toh Chay Hoon on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/scopimera/210629bbbrk3.jpg
-    caption: Beting Bemban Besar, Jun 21 Photo shared by Richard Kuah on 
-      facebook .
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/scopimera/210629bbbrk3.jpg
+    caption: Beting Bemban Besar, Jun 21 Photo shared by Richard Kuah on facebook
+      .
+links_references: '**Links**
+
   - [Sand Bubbler Crab (
+
   *Scopimera*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/193.md)
+
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/193)
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
+
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+
   . The Singapore Science Centre, Singapore. 160 pp.
+
   - [*Scopimera intermedia*](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=2381120)
+
   and
+
   *[Scopimera globosa](http://www.sealifebase.fisheries.ubc.ca/Summary/speciesSummary.php?ID=2381119&genusname=Scopimera&speciesname=globosa)*
+
   on SeaLife Base: Technical fact sheet.
+
   - [Sand bubbler crab (
+
   *Scopimera globosa*
+
   )](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1775&menuentry=soorten)
+
   in Crabs of Japan on Marine Species Identification Portal: Technical fact sheet.
 
+
   **References**
+
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
-  *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs of the world*
+
+  *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs
+  of the world*
+
   . The Raffles Bulletin of Zoology. Supplement No. 17, 31 Jan 2008. 286 pp.
+
   - Ng, P. K. L. & Y. C. Wee, 1994.
+
   *The Singapore Red Data Book: Threatened Plants and Animals of Singapore*
+
   . The Nature Society (Singapore), Singapore. 343 pp.
+
   - Wee Y.C. and Peter K. L. Ng. 1994.
+
   *A First Look at Biodiversity in Singapore*
+
   . National Council on the Environment. 163pp.
+
   - Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.
+
   *Invertebrate Zoology*
+
   Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963.
+
+  '
 location:
 - pgl
 - prp
@@ -140,6 +150,9 @@ location:
 - tpg
 - smk
 - tsm
+size:
+- 1.0
+- 1.5
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

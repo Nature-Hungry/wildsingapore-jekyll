@@ -1,10 +1,9 @@
 ---
 title: Paradise tree snake
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: paradies, flying, tree, snake, chrysopelea, paradisi, elapidae, 
-  colubridae, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: paradies, flying, tree, snake, chrysopelea, paradisi, elapidae, colubridae,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Colubridae
 genus: Chrysopelea
@@ -20,44 +19,68 @@ order: Squamata
 suborder: Serpentes
 subfamily: Chrysopeleinae
 updated: Oct 2016
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/snakes/paradisi/031005ubnad0009m6l.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/paradisi/031005ubnad0009m6l.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/paradisi/120223sbwrmn.jpg
-    caption: Sungei Buloh Wetland Reserve, Feb 12 Photo shared by Marcus Ng on 
-      flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/paradisi/110109ubnd4909m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/paradisi/120223sbwrmn.jpg
+    caption: Sungei Buloh Wetland Reserve, Feb 12 Photo shared by Marcus Ng on flickr
+      .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/paradisi/110109ubnd4909m6l.jpg
     caption: This one landed on the road from a tall tree. Pulau Ubin, Jan 11
-links_references: |
-  **Links**
-  - [Paradise Tree Snake](http://www.ecologyasia.com/verts/snakes/paradise_tree-snake.md)
-  on Nick Baker's EcologyAsia website: fact sheet with photos.
-  - [Paradise Tree Snake](http://www.wildsingapore.per.sg/fauna/facts/snake_paradisetree.md)
-  on Chan Kwok Wai's Wildlife Singapore: fact sheet with photos.
+links_references: '**Links**
+
+  - [Paradise Tree Snake](http://www.ecologyasia.com/verts/snakes/paradise_tree-snake)
+
+  on Nick Baker''s EcologyAsia website: fact sheet with photos.
+
+  - [Paradise Tree Snake](http://www.wildsingapore.per.sg/fauna/facts/snake_paradisetree)
+
+  on Chan Kwok Wai''s Wildlife Singapore: fact sheet with photos.
+
   - [Flying snake home page](http://www.flyingsnake.org/)
+
   by Jake Socha with lots of photos, videos and information about this snake.
+
   - *[Chrysopelea paradisi](https://singapore.biodiversity.online/taxo4254/mainSpace/Chrysopelea%20paradisi.html)*
+
   (Squamata: Colubridae) Paradise Gliding Snake on Taxo4254.
 
+
   **References**
+
   - Lim, Kelvin K. P. & Francis L K Lim, 1992.
+
   *A Guide to the Amphibians and Reptiles of Singapore*
+
   Singapore Science Centre. 160 pp.
+
   - Baker, Nick and Kelvin Lim. 2008.
-  *Wild Animals of Singapore: A Photographic Guide to Mammals, Reptiles, Amphibians and Freshwater Fishes*
+
+  *Wild Animals of Singapore: A Photographic Guide to Mammals, Reptiles, Amphibians
+  and Freshwater Fishes*
+
   Vertebrate Study Group, Nature Society (Singapore). 180 pp.
+
   - Stuebing, Robert B and Robert F. Inger. 1999.
+
   *A Field Guide to the Snakes of Borneo*
+
   Natural History Publications (Borneo). 254 pp.
-  - Cox, Merel J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt. 1998.
-  *A Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular Malaysia and Singapore*
+
+  - Cox, Merel J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt.
+  1998.
+
+  *A Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular Malaysia
+  and Singapore*
+
   New Holland. pp 144.
+
+  '
 location:
 - sbw
 - ubn
+size:
+- 120.0
 ---
 
 ## Where seen?

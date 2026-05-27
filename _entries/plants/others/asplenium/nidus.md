@@ -27,12 +27,15 @@ updated: Aug 09
 coverimg: http://www.wildsingapore.com/wildfacts/plants/others/asplenium/nidus/090613admd4177m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/others/asplenium/nidus/090905sbwrd0142m3.jpg"
-      caption: "Sungei Buloh Wetland Reserve, Sep 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/others/asplenium/nidus/090613admd4178m3.jpg"
-      caption: "Admiralty Park, Jun 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/others/asplenium/nidus/091213ubnd5814m3.jpg"
-      caption: "Pulau Ubin, Dec 09"
+  - url: http://www.wildsingapore.com/wildfacts/plants/others/asplenium/nidus/090905sbwrd0142m3.jpg
+    caption: Sungei Buloh Wetland Reserve, Sep 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/others/asplenium/nidus/090613admd4178m3.jpg
+    caption: Admiralty Park, Jun 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/others/asplenium/nidus/091213ubnd5814m3.jpg
+    caption: Pulau Ubin, Dec 09
+size:
+- 50.0
+- 150.0
 ---
 
 ## Where seen?
@@ -44,7 +47,7 @@ The frond is fresh green, a broad and very long ribbon (50-150cm) with slightly 
 
 **Role in the habitat:**
 The fern is such a rich source of water and nutrients, that often, other ferns and plants may grow on it. Sometimes,
-[small bats](../../../vertebrates/mammals/brachyotis.md)
+[small bats](../../../vertebrates/mammals/brachyotis)
 may roost under the fern, chewing off some of the inner portions of the 'skirt' of dead leaves to create a cosy 'umbrella' for themselves. The Spotted Wood owl may also nest in this fern.
 
 **Human uses:**

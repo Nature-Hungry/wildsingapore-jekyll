@@ -1,10 +1,9 @@
 ---
 title: Brown peachia anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: synpeachia temasek, peachia, anemone, anthozoa, cnidaria, field, 
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: synpeachia temasek, peachia, anemone, anthozoa, cnidaria, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 attributes:
 - 6
@@ -23,26 +22,24 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
 updated: Dec 2024
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/synpeachia/130624chg7d7943.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/synpeachia/130624chg7d7943.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/synpeachia/130624chg7d7943.jpg
-    caption: "'Uprooted' anemone. Changi, Jun 13"
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/synpeachia/120803chgd9338.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/synpeachia/130624chg7d7943.jpg
+    caption: '''Uprooted'' anemone. Changi, Jun 13'
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/synpeachia/120803chgd9338.jpg
     caption: Bumps in the middle of the mouth. Changi, Aug 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/synpeachia/130624chg7d7935.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/synpeachia/130624chg7d7935.jpg
     caption: With tentacles tucked in. Changi, Jun 13
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/synpeachia/130821cjlks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/synpeachia/130821cjlks.JPG
     caption: Chek Jawa, Aug 13 Photo shared by Loh Kok Sheng on flickr .
 location:
 - chg
 - cj
+size:
+- 4.0
+- 5.0
 ---
 
 ## Where seen?
@@ -55,13 +52,13 @@ is a new genus and new species described from Singapore!
 Diameter with tentacles expanded 4-5cm. One ring of 20 tentacles that are thick at the base and tapering at the tips. It has a reddish-brown body column. It is usually seen with its tentacles flat on the surface, spaced out equally so that the anemone resembles a star. The oral disk and tentacles often have V-shaped chevron patterns in shades of white, pink, beige and brown. A structure of 3-5 bumps in the middle of the mouth that sometimes protrudes out of the mouth called a conchula.
 
 **Sometimes mistaken for**
-[White peachia anemone](peachia.md)
+[White peachia anemone](peachia)
 (
 *Metapeachia tropica*
 ) which far more common. It looks similar but has a cream-colored body column and 16 tentacles.
 
 An 'uprooted' Peachia anemone is often mistaken for a sea cucumber or a worm. Here's more on
-[how to tell apart sausage-like creatures](../../glossary/sausage.md)
+[how to tell apart sausage-like creatures](../../glossary/sausage)
 .
 
 **Status and threats:**

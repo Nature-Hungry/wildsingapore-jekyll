@@ -1,10 +1,9 @@
 ---
 title: Meteor  coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: coral, hard, merulinidae, cyphastrea, scleractinia, cnidaria, field, 
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: coral, hard, merulinidae, cyphastrea, scleractinia, cnidaria, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Merulinidae
 genus: Cyphastrea
@@ -18,67 +17,45 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5992m3.jpg
-links_references: |
-  **Links**
-  - [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
-  - [IUCN Red List of Threatened Species](https://www.iucnredlist.org/) with species factsheets.
-  - *[Cyphastrea](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Cyphastrea)*on
-    Reef Corals of the Indo-Malayan Seas, the Marine Species Identification
-    Portal: Technical fact sheet.
-  - *[Cyphastrea
-    chalcidium](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46682), [Cyphastrea
-    microphthalma](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46686)* and *[Cyphastrea
-    serailia](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46688)* on
-    SeaLife Base: Technical fact sheet.
-
-  **References**
-  - Danwei
-    Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec
-    2009. *An
-    inventory of zooxanthellate sclerectinian corals in Singapore
-    including 33 new records* (pdf). Raffles Bulletin of
-    Zoology Supplement No. 22: 69-80.
-  - Veron,
-    Jen. 2000. *Corals
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5992m3.jpg
+links_references: "**Links**\n- [Corals of the World](http://www.coralsoftheworld.org/page/home/)\
+  \ with species factsheets.\n- [IUCN Red List of Threatened Species](https://www.iucnredlist.org/)\
+  \ with species factsheets.\n- *[Cyphastrea](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Cyphastrea)*on\n\
+  \  Reef Corals of the Indo-Malayan Seas, the Marine Species Identification\n  Portal:\
+  \ Technical fact sheet.\n- *[Cyphastrea\n  chalcidium](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46682),\
+  \ [Cyphastrea\n  microphthalma](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46686)*\
+  \ and *[Cyphastrea\n  serailia](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46688)*\
+  \ on\n  SeaLife Base: Technical fact sheet.\n\n**References**\n- Danwei\n  Huang,\
+  \ Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec\n  2009. *An\n  inventory\
+  \ of zooxanthellate sclerectinian corals in Singapore\n  including 33 new records*\
+  \ (pdf). Raffles Bulletin of\n  Zoology Supplement No. 22: 69-80.\n- Veron,\n  Jen.\
+  \ 2000. *Corals\n"
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5992m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5992m3.jpg
     caption: Sisters Island, Jan 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5996m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5996m3.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5993m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5993m3a.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/110715cyrd6653m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/110715cyrd6653m3.jpg
     caption: Cyrene Reef, Jul 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/110715cyrd6652m3c.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/110715cyrd6652m3c.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/110715cyrd6652m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/110715cyrd6652m3.jpg
     caption: ''
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5927m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5927m3.jpg
     caption: Sisters Island, Jan 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/060228labg5282m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/060228labg5282m3.jpg
     caption: Labrador, Feb 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/170430thnt2o4300142.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/170430thnt2o4300142.jpg
     caption: Terumbu Hantu, Apr 17
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/100130brkd8551m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/100130brkd8551m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/100131slud8886m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/100131slud8886m3.jpg
     caption: Terumbu Salu, Jan 10
   gallery5:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -112,6 +89,9 @@ location:
 - tsm
 - rfl
 - lfa
+size:
+- 15.0
+- 30.0
 ---
 
 ## Where seen?
@@ -167,7 +147,7 @@ on the
 [IUCN global list](../faviidae/ring/www.iucnredlist.org)
 .
 
-**[Family Merulinidae](merulinidae.md)
+**[Family Merulinidae](merulinidae)
 
 Genus
 *Cyphastrea***

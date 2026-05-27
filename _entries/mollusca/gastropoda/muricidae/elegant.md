@@ -1,10 +1,8 @@
 ---
 title: Elegant drill
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: drill, muricidae, gastropod, mollusc, snail, shell, field, guide, 
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: drill, muricidae, gastropod, mollusc, snail, shell, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 23
@@ -27,42 +25,31 @@ order: Neogastropoda
 superfamily: Muricoidea
 subfamily: Rapaninae
 updated: Aug 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/060114cjg3840m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/060114cjg3840m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/060114cjg3840m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/060114cjg3840m3.jpg
     caption: Chek Jawa, Jan 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/060114cjg3834m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/060114cjg3834m3.jpg
     caption: Underside
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/050502cjg5704m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/050502cjg5704m3.jpg
     caption: Chek Jawa, May 05
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/060516chgd2071m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/060516chgd2071m3.jpg
     caption: Changi, May 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/050726chgg0441m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/050726chgg0441m3a.jpg
     caption: Changi, Jul 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/050726chgg0441m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/050726chgg0441m3b.jpg
     caption: Underside.
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/050726chgg0439m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/050726chgg0439m3.jpg
     caption: Changi, Jul 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/050726chgg0439m3c.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/050726chgg0439m3c.jpg
     caption: Yellow capsules yet to hatch, Hatched capsules purple.
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/091217sbglks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/091217sbglks.JPG
     caption: Sembawang, Dec 09 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/190423pglsg1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/190423pglsg1.jpg
     caption: Punggol, Apr 19 Photo shared by Shawne Goh on facebook .
 location:
 - sbw
@@ -75,6 +62,9 @@ location:
 - tm
 - ecp
 - sji
+size:
+- 2.0
+- 3.0
 ---
 
 ## Where seen?
@@ -83,7 +73,7 @@ This drill is often seen in groups on large boulders on our Nothern shores. Some
 ## Features
 
 2-3cm. Shell thick but not as thick as those of
-[Chunky drills](chunky.md)
+[Chunky drills](chunky)
 . With variable patterns, some with spiralling grooves, others with
 a spiral pattern of bumps
 or spiral of small blunt spines.

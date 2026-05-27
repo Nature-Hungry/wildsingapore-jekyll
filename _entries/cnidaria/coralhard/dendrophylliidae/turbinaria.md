@@ -1,10 +1,9 @@
 ---
 title: Disk corals
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: disk, turbinaria, dendrophylliidae, coral, hard, scleractinia, 
-  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: disk, turbinaria, dendrophylliidae, coral, hard, scleractinia, cnidaria,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Dendrophyllidae
 genus: Turbinaria
@@ -18,92 +17,112 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Sep 2025
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/060712tusd4096m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/060712tusd4096m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/060712tusd4096m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/060712tusd4096m3.jpg
     caption: Tuas, Jul 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/060712tusd4096m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/060712tusd4096m3a.jpg
     caption: Two different kinds of Disk corals
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3.jpg
-    caption: Flowery disk coral Turbinaria peltata Colony flat plate often 
-      ruffled so it resembles a cabbage.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3.jpg
+    caption: Flowery disk coral Turbinaria peltata Colony flat plate often ruffled
+      so it resembles a cabbage.
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3a.jpg
     caption: Corallites sunken to sticking out and tubular, large (0.6cm).
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3b.jpg
     caption: Polyps large and expanded even during the day.
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/111001sjid1937m3.jpg
-    caption: Encrusting disk coral Colony plate-like thick (1cm) encrusting, 
-      edges against the surface.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/111001sjid1941m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/111001sjid1937m3.jpg
+    caption: Encrusting disk coral Colony plate-like thick (1cm) encrusting, edges
+      against the surface.
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/111001sjid1941m3.jpg
     caption: Corallites sunken to conical.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/111001sjid1942m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/111001sjid1942m3b.jpg
     caption: Polyps tiny with fewer short entacles.
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/110717tbd7128m3.jpg
-    caption: Ruffled disk coral Colony plate-like thin (0.5cm) edges often 
-      folded into ruffles.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/110717tbd7130m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/110717tbd7128m3.jpg
+    caption: Ruffled disk coral Colony plate-like thin (0.5cm) edges often folded
+      into ruffles.
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/110717tbd7130m3.jpg
     caption: Corallites conical.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/110717tbd7133m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/110717tbd7133m3.jpg
     caption: Polyps tiny with many short tentacles.
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/120505sisd0926m3.jpg
-    caption: Thin disk coral Colony plate-like thin (0.2-0.5cm) shaped into a 
-      cup or inverted cone.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/120505sisd0929m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/120505sisd0926m3.jpg
+    caption: Thin disk coral Colony plate-like thin (0.2-0.5cm) shaped into a cup
+      or inverted cone.
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/120505sisd0929m3.jpg
     caption: Corallites tiny low rounded bumps.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/120505sisd0930m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/120505sisd0930m3a.jpg
     caption: Polyps tiny with few short tentacles.
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
+
   with species factsheets.
 
+
   **References**
-  - *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore*
-  by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
+
+  - *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
+  Status for Singapore*
+
+  by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan,
+  D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book:
+  Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663
+  pp.
+
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
-  *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new records*
+
+  *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new
+  records*
+
   (pdf). Raffles Bulletin of Zoology Supplement No. 22: 69-80.
+
   - Veron, Jen. 2000.
+
   *Corals of the World*
+
   Australian Institute of Marine Science, Australia. 3 volumes.
+
   - Chou, L. M., 1998.
+
   *A Guide to the Coral Reef Life of Singapore*
+
   . Singapore Science Centre. 128 pages.
+
   - Chou Loke Meng. 1989.
+
   *Hard corals of Singapore*
+
   . Reef Ecology Study Team, the National University of Singapore. A set of 4 posters.
+
   - Erhardt, Harry and Daniel Knop. 2005.
+
   *Corals: Indo-Pacific Field Guide*
+
   IKAN-Unterwasserachiv, Frankfurt. 305 pp.
+
   - Borneman, Eric H. 2001.
+
   *Aquarium Corals: Selection, Husbandry and Natural History*
+
   T.F. H Publications. 464 pp
+
   - Wee Y.C. and Peter K. L. Ng. 1994.
+
   *A First Look at Biodiversity in Singapore*
+
   . National Council on the Environment. 163pp.
+
   - Ng, P. K. L. & Y. C. Wee, 1994.
+
   *The Singapore Red Data Book: Threatened Plants and Animals of Singapore*
+
   . The Nature Society (Singapore), Singapore. 343 pp.
+
+  '
 location:
 - tm
 - ecp
@@ -174,13 +193,13 @@ in the above.
 *On this website, they are grouped by external features for convenience of display*
 *.*
 
-[Encrusting disk coral](encrust.md)
+[Encrusting disk coral](encrust)
 
-[Ruffled disk coral](ruffled.md)
+[Ruffled disk coral](ruffled)
 
-[Thin disk coral](thin.md)
+[Thin disk coral](thin)
 
-**[Family Dendrophyllidae](dendrophyllidae.md)
+**[Family Dendrophyllidae](dendrophyllidae)
 
 Genus
 *Turbinaria***
@@ -191,7 +210,7 @@ Turbinaria irregularis
 
 Turbinaria mesenterina (Vase coral)
 
-[Turbinaria peltata](flowery.md)
+[Turbinaria peltata](flowery)
 (Flowery disk coral)
 
 Turbinaria radicalis

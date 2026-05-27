@@ -1,10 +1,9 @@
 ---
 title: Nest mussel
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: nest, mussel, clam, musculista, arcuatula, senhousia, mytilidae, 
-  bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: nest, mussel, clam, musculista, arcuatula, senhousia, mytilidae, bivalve,
+  mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info
 layout: entry
 attributes:
 - 2
@@ -24,61 +23,72 @@ order: Mytilida
 superfamily: Mytiloidea
 subfamily: Crenellinae
 updated: May 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/071223skdd8045m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/071223skdd8045m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/071223skdd8045m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/071223skdd8045m3.jpg
     caption: Mats coating boulders and the ground. Pulau Sekudu, Dec 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/070803cjd5010m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/070803cjd5010m3.jpg
     caption: These tiny mussels can form vast mats. Chek Jawa, Aug 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/070704skdd3541m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/070704skdd3541m3.jpg
     caption: Pulau Sekudu, Jul 07
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/090211prplks01m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/090211prplks01m3.jpg
     caption: Pasir Ris, Feb 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/090211prplks02m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/090211prplks02m3.jpg
     caption: Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/090211prplks03m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/090211prplks03m3.jpg
     caption: ''
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/140530prpEd5721m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/140530prpEd5721m3.jpg
     caption: Plain sand star seen on a nest mussel bed. Pasir Ris, Feb 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/120705chgd7098m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/120705chgd7098m3.jpg
     caption: Silt flatworm seen on a nest mussel bed. Changi, Jul 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/120605lygd4072m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/120605lygd4072m3.jpg
     caption: Hairy spoon seagrass growing on a nest mussel bed. Changi, Jun 12
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Nest mussel (
+
   *Musculista senhausii*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2091.md)
+
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2091)
+
   Ng, Peter K. L. & N. Sivasothi, 1999.
+
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
+
   . Singapore Science Centre. 168 pp.
+
   - [Green mussel (
+
   *Musculista senhousia*
+
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=47699)
+
   from SeaLife Base: Technical fact sheet.
+
   - Senhouse horse mussel (
+
   *Musculista senhousia*
-  ) in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+
+  ) in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide
+  for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
+
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
+
   **References**
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
+  '
 location:
 - pgl
 - prp
@@ -86,6 +96,9 @@ location:
 - ubn
 - cj
 - skd
+size:
+- 1.0
+- 2.0
 ---
 
 ## Where seen?
@@ -100,22 +113,22 @@ It is described as an opportunistic species characterised by fast growth and uni
 1-2cm long. The two-part shell is thin, fragile and smooth. These tiny mussels build communal 'nests' out of byssal threads incorporating sediments, bits of broken shells and other debris. Large areas can be covered in such 'nests', pockmarked with little slits, each housing one mussel. These can carpet rocks or soft bottoms.
 
 **Sometimes confused with**
-[Little black mussels](xenostrobus.md)
+[Little black mussels](xenostrobus)
 which are also small, but black and while they may also produce a kind of 'nest', this is not as thick and spongy as the mats created by the Nest mussels.
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**Friends and enemies:**
 Sometimes, small
-[Green mussels](viridis.md)
+[Green mussels](viridis)
 (
 *Perna viridis*
 ) are seen growing among the tinier nest mussels. Animals seen on the mussels include
-[Drills](../../gastropoda/muricidae/muricidae.md)
+[Drills](../../gastropoda/muricidae/muricidae)
 ,
-[Sand stars](../../../echinodermata/asteroidea/astropecten.md)
+[Sand stars](../../../echinodermata/asteroidea/astropecten)
 ,
-[flatworms](../../../worm/polycladida/polycladida.md)
+[flatworms](../../../worm/polycladida/polycladida)
 : possibly eating them? Several times,
-[Hairy spoon seagrass](../../../plants/seagrass/decipiens.md)
+[Hairy spoon seagrass](../../../plants/seagrass/decipiens)
 were seen growing on nest mussel beds.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Human uses:**

@@ -1,10 +1,9 @@
 ---
 title: Punctuated flatworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: flat, worm, flatworm, maritigrella, fuscopunctata, euryleptidae, 
-  polyclad, turbellaria, platyhelminthes, field, guide, seashore, sea, shore, 
-  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: flat, worm, flatworm, maritigrella, fuscopunctata, euryleptidae, polyclad,
+  turbellaria, platyhelminthes, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Euryleptidae
 genus: Maritigrella
@@ -18,69 +17,51 @@ subphylum: Rhabditophora
 order: Polycladida
 suborder: Cotylea
 updated: Feb 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/worm/polycladida/fuscopunctata/050819cjg1561m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/fuscopunctata/050819cjg1561m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/fuscopunctata/050819cjg1561m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fuscopunctata/050819cjg1561m3.jpg
     caption: Chek Jawa, Aug 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/fuscopunctata/200126bsisro2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fuscopunctata/200126bsisro2.jpg
     caption: Big Sisters Island, Jan 20 Shared by Rene Ong on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/fuscopunctata/200126bsisro2a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fuscopunctata/200126bsisro2a.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/fuscopunctata/180714cjro1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fuscopunctata/180714cjro1.jpg
     caption: Chek Jawa, Jul 18 Shared by Rene Ong on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/fuscopunctata/180714cjro1a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fuscopunctata/180714cjro1a.jpg
     caption: Underside.
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/fuscopunctata/180714cjro2a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fuscopunctata/180714cjro2a.jpg
     caption: Underside.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/fuscopunctata/180714cjro2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fuscopunctata/180714cjro2.jpg
     caption: Chek Jawa, Jul 18 Shared by Rene Ong on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/fuscopunctata/210626cjtch5.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fuscopunctata/210626cjtch5.jpg
     caption: Chek Jawa, Jun 21 Shared by Toh Chay Hoon on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/fuscopunctata/180714cjdc1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fuscopunctata/180714cjdc1.jpg
     caption: Chek Jawa, Jul 18 Shared by Dayna Cheah on facebook .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/fuscopunctata/230122jngjll1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fuscopunctata/230122jngjll1.jpg
     caption: Pulau Jong, Jan 23 Shared by Jianlin Liu on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/fuscopunctata/210501tbtch4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fuscopunctata/210501tbtch4.jpg
     caption: Terumbu Bemban, May 21 Shared by Toh Chay Hoon on facebook .
-links_references: |
-  **Links**
-  - [*Maritigrella fuscopunctata*](http://polycladida.lifedesks.org/pages/3313)
-  on Encyclopedia of Life, LifeDesks, Marine Flatworms - Polycladida: Technical fact sheet.
-
-  **References**
-  - Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018.
-  *A preliminary checklist and photographic catalogue of polyclad flatworms recorded from Singapore.*
-  Nature in Singapore 2018 11: 77–125.
-  - Newman, Leslie and Lester Cannon. 2003.
-  *Marine Flatworms: The World of Polyclads*
-  . CSIRO Publishing. 97pp.
-  - Humann, Paul and Ned Deloach. 2010.
-  *Reef Creature Identification: Tropical Pacific*
-  New World Publications. 497pp.
-  - Kuiter, Rudie H and Helmut Debelius. 2009.
-  *World Atlas of Marine Fauna*
-  . IKAN-Unterwasserachiv. 723pp.
+links_references: "**Links**\n- [*Maritigrella fuscopunctata*](http://polycladida.lifedesks.org/pages/3313)\n\
+  on Encyclopedia of Life, LifeDesks, Marine Flatworms - Polycladida: Technical fact\
+  \ sheet.\n\n**References**\n- Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018.\n\
+  *A preliminary checklist and photographic catalogue of polyclad flatworms recorded\
+  \ from Singapore.*\nNature in Singapore 2018 11: 77\u2013125.\n- Newman, Leslie\
+  \ and Lester Cannon. 2003.\n*Marine Flatworms: The World of Polyclads*\n. CSIRO\
+  \ Publishing. 97pp.\n- Humann, Paul and Ned Deloach. 2010.\n*Reef Creature Identification:\
+  \ Tropical Pacific*\nNew World Publications. 497pp.\n- Kuiter, Rudie H and Helmut\
+  \ Debelius. 2009.\n*World Atlas of Marine Fauna*\n. IKAN-Unterwasserachiv. 723pp.\n"
 location:
 - cj
 - jng
 - tsm
+size:
+- 5.0
+- 7.0
 ---
 
 ## Where seen?
@@ -93,7 +74,7 @@ This well camouflaged worm is so far most commonly seen at Chek Jawa, among cora
 **What does it eat?**
 *Maritigrella*
 flatworms eat
-[ascidians](../../ascidiacea/ascidiacea.md)
+[ascidians](../../ascidiacea/ascidiacea)
 by sucking out individual animals with their tube-shaped pharynx (a part of the gut) that can be pushed out through the mouth to engulf the prey.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

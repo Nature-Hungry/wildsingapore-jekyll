@@ -1,7 +1,6 @@
 ---
 description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
-keywords: neptune, cup, sponge, cliona, patera, porifera, field, guide, 
-  seashore,
+keywords: neptune, cup, sponge, cliona, patera, porifera, field, guide, seashore,
 layout: entry
 shape: ''
 title: The Neptune's Cup sponge
@@ -17,31 +16,43 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Clionaida
 updated: Sep 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/porifera/patera/clionapatera1.JPG
+coverimg: http://www.wildsingapore.com/wildfacts/porifera/patera/clionapatera1.JPG
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/patera/clionapatera1.JPG
+  - url: http://www.wildsingapore.com/wildfacts/porifera/patera/clionapatera1.JPG
     caption: Photo from NParks on Today 9 Aug 2016 .
   gallery2:
   - url: https://c1.staticflickr.com/3/2024/2040684894_2f2f8ef950.jpg
     caption: ''
-links_references: |
-  **Links**
-  - [Neptune's Cup discovered in Singapore](http://wildshores.blogspot.sg/2011/10/neptunes-cup-discovered-in-singapore.html)
+links_references: '**Links**
+
+  - [Neptune''s Cup discovered in Singapore](http://wildshores.blogspot.sg/2011/10/neptunes-cup-discovered-in-singapore.html)
+
   on the wild shores of singapore blog.
 
+
   **References**
+
   - Lim Swee-Cheng, Karenne Tun, Eugene Goh. 29 Sep 2012.
-  [Rediscovery of the Neptune's Cup sponge in Singapore:
+
+  [Rediscovery of the Neptune''s Cup sponge in Singapore:
+
   *Cliona*
+
   or
+
   *Poterion*
+
   ?](http://www.tmsi.nus.edu.sg/files/05_Lim_Pg%2049-56.pdf)
+
   Contributions to Marine Science 2012: 49-56.
-  - [DHI scientists rediscover a long-lost treasure: The return of the Neptune's Cup](https://www.dhigroup.com/presences/apac/singapore/news/2011/11/15/dhiscientistsrediscoveralonglosttreasure-thereturnoftheneptune-scup)
+
+  - [DHI scientists rediscover a long-lost treasure: The return of the Neptune''s
+  Cup](https://www.dhigroup.com/presences/apac/singapore/news/2011/11/15/dhiscientistsrediscoveralonglosttreasure-thereturnoftheneptune-scup)
+
   . DHI media release. 21 Nov 2011.
+
+  '
 location:
 - pgl
 - chg
@@ -51,6 +62,9 @@ location:
 - bb
 - tus
 - ecp
+size:
+- 100.0
+- 100.0
 ---
 
 ## Features

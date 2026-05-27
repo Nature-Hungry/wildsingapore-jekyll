@@ -1,10 +1,9 @@
 ---
 title: Tiny black gymnodoris nudibranch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: orange, spot, gymnodoris, nudibranch, slug, seaslug, opisthobranch, 
-  gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: orange, spot, gymnodoris, nudibranch, slug, seaslug, opisthobranch, gastropod,
+  mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 14
@@ -30,43 +29,32 @@ infraorder: Doridoidei
 superfamily: Polyceroidea
 subfamily: Polycerinae
 updated: May 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodorisblack/110705chgd5898m6la.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodorisblack/110705chgd5898m6la.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodorisblack/110705chgd5898m6la.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodorisblack/110705chgd5898m6la.jpg
     caption: Changi, Jul 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodorisblack/060430skdg5862m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodorisblack/060430skdg5862m3.jpg
     caption: A pair of nudibranchs. Pulau Sekudu, Apr 06
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodorisblack/130127cjlks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodorisblack/130127cjlks.JPG
     caption: Chek Jawa, Jan 13 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodorisblack/090426skdtch09m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodorisblack/090426skdtch09m3.jpg
     caption: Pulau Sekudu, Apr 06 Photo shared by Toh Chay Hoon on her blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodorisblack/090426skdmn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodorisblack/090426skdmn.jpg
     caption: Pulau Sekudu, Apr 09 Photo shared by Marcus Ng on flickr .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodorisblack/100612chgtch1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodorisblack/100612chgtch1m3.jpg
     caption: Changi, Jun 10 Photo shared by Toh Chay Hoon on her blog .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodorisblack/080702prptch.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodorisblack/080702prptch.jpg
     caption: Pasir Ris Park, Jul 08 Photo shared by Toh Chay Hoon on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodorisblack/190519prpjll1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodorisblack/190519prpjll1.jpg
     caption: Pasir Ris Park, May 2019 Photo s hared by Jianlin Liu on facebook .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodorisblack/200805sntjll3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodorisblack/200805sntjll3.jpg
     caption: Sentosa Tg Rimau, Aug 20 Photo s hared by Jianlin Liu on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodorisblack/090921kusjk1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodorisblack/090921kusjk1m3.jpg
     caption: Kusu Island, Sep 09 Photo s hared by James Koh on his blog .
 location:
 - prp
@@ -76,6 +64,8 @@ location:
 - tm
 - snt
 - kus
+size:
+- 1.0
 ---
 
 ## Where seen?

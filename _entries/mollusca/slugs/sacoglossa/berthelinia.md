@@ -1,10 +1,9 @@
 ---
 title: Singapore bivalve slug
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: bivalve, slug, berthelinia, singaporensis, juliidae, sacoglossa, 
-  opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine,
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: bivalve, slug, berthelinia, singaporensis, juliidae, sacoglossa, opisthobranch,
+  gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 14
@@ -37,78 +36,82 @@ superorder: Sacoglossa
 superfamily: Oxynooidea
 subfamily: Bertheliniinae
 updated: Jun 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/130511hntd6666m6.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/130511hntd6666m6.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/130511hntd6666m6.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/130511hntd6666m6.jpg
     caption: From the side. Pulau Hantu, May 13
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/130511hntd6673m6.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/130511hntd6673m6.jpg
     caption: From above.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/130511hntd6691m3.jpg
-    caption: Several of various sizes often seen close to one another. Pulau 
-      Hantu, May 13
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/130511hntd6691m3.jpg
+    caption: Several of various sizes often seen close to one another. Pulau Hantu,
+      May 13
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/210527chgsaftch3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/210527chgsaftch3.jpg
     caption: Changi Creek, May 21 Photo shared by Toh Chay Hoon on facebook .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/210613ubntch3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/210613ubntch3.jpg
     caption: Pulau Ubin, Jun 21 Photo shared by Toh Chay Hoon on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/170624cjtch4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/170624cjtch4.jpg
     caption: Chek Jawa, Jun 16 Photo shared by Toh Chay Hoon on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/160705cjlks2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/160705cjlks2.jpg
     caption: Chek Jawa, Jul 16 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/240821skdch7.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/240821skdch7.jpg
     caption: Pulau Sekudu, Aug 24 Photo shared by Chay Hoon on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/160706skdtch2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/160706skdtch2.jpg
     caption: Pulau Sekudu, Jul 16 Photo shared by Toh Chay Hoon on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/170626skdlks1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/170626skdlks1.jpg
     caption: Pulau Sekudu, Jun 17 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/150802bbtch1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/150802bbtch1m3.jpg
     caption: Beting Bronok, Aug 15 Photo shared by Toh Chay Hoon on facebook .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/170812cyrtch1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/170812cyrtch1.jpg
     caption: Cyrene, Aug 17 Photo shared by Toh Chay Hoon on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/170626skdmn1a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/170626skdmn1a.jpg
     caption: Chek Jawa, Jun 17 Photo shared by Marcus Ng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/170626skdmn1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/170626skdmn1.jpg
     caption: ''
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Berthelinia caribbea*](http://www.seaslugforum.net/find/bertcari)
+
   on
+
   [The Sea Slug Forum](http://www.seaslugforum.net/)
+
   by Dr Bill Rudman
 
+
   **References**
+
   - Kathe Jensen & Rene S. L. Ong . 30 Sep 2016.
-  *Shelled sacoglossa from Lazarus and Saint John's Islands*
+
+  *Shelled sacoglossa from Lazarus and Saint John''s Islands*
+
   . Singapore Biodiversity Records 2016: 120-121.
+
   - K. R. Jensen.
+
   *Sacoglossa (Mollusca: Gastropoda: Heterobranchia) from northern coasts of Singapore*
-  . 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 226-249.
+
+  . 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International
+  Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 226-249.
+
   - Debelius, Helmut, 2001.
+
   *Nudibranchs and Sea Snails: Indo-Pacific Field Guide*
+
   IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+
   - Coleman, Neville. 2001.
+
   *1001 Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*
-  . Neville Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
+
+  . Neville Coleman''s Underwater Geographic Pty Ltd, Australia.144pp.
+
+  '
 location:
 - ubn
 - cj
@@ -117,15 +120,18 @@ location:
 - snt
 - cyr
 - hnt
+size:
+- 0.5
+- 1.0
 ---
 
 ## Where seen?
 This tiny slug is sometimes seen on
-[Caulerpa seaweeds](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/caulerpa.md)
+[Caulerpa seaweeds](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/caulerpa)
 such as
-[Bell sea grape seaweeds](../../../plants/seaweed/chlorophyta/bell.md)
+[Bell sea grape seaweeds](../../../plants/seaweed/chlorophyta/bell)
 and
-[Delicate feathery green seaweed](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/sertularioides.md)
+[Delicate feathery green seaweed](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/sertularioides)
 on some of our shores. Several slugs may be seen on one clump of seaweed. It was first described as a new species in July 2015 and named after Singapore.
 
 ## Features

@@ -1,10 +1,9 @@
 ---
 title: Cotton stainer bugs
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: cotton, stainer, bug, dysdercus, decussatus, pyrrhocoridae, insect, 
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
-  facts, fact sheet, info
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: cotton, stainer, bug, dysdercus, decussatus, pyrrhocoridae, insect, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info
 layout: entry
 family: Pyrrhocoridae
 genus: Dysdercus
@@ -22,47 +21,46 @@ suborder: Heteroptera
 infraorder: Pentatomomorpha
 superfamily: Pyrrhocoroidea
 updated: Jan 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/insecta/dysdercus/081206smkd2477m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/insecta/dysdercus/081206smkd2477m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/insecta/dysdercus/081206smkd2477m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/insecta/dysdercus/081206smkd2477m3.jpg
     caption: An adult Bug. Pulau Semakau, Dec 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/insecta/dysdercus/110109ubnd4899m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/insecta/dysdercus/110109ubnd4899m3.jpg
     caption: Some adults have a black head. Pulau Ubin, Jan 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/insecta/dysdercus/090425prpd0345m3.jpg
-    caption: Adult Bugs are often found in large numbers under Sea hibiscus 
-      leaves. Pasir Ris, Apr 09
+  - url: http://www.wildsingapore.com/wildfacts/insecta/dysdercus/090425prpd0345m3.jpg
+    caption: Adult Bugs are often found in large numbers under Sea hibiscus leaves.
+      Pasir Ris, Apr 09
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/insecta/dysdercus/081206smkd2478m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/insecta/dysdercus/081206smkd2478m3.jpg
     caption: Juvenile feeding on Sea hibiscus seeds. Pulau Semakau, Dec 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/insecta/dysdercus/080609ubnod5558m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/insecta/dysdercus/080609ubnod5558m3a.jpg
     caption: Juveniles on a Portia tree . Pulau Ubin, Jun 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/insecta/dysdercus/151010blymn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/insecta/dysdercus/151010blymn.jpg
     caption: Berlayar Creek, Oct 15 Photo shared by Marcus Ng on flickr .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/insecta/dysdercus/151117labmn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/insecta/dysdercus/151117labmn.jpg
     caption: Labrador, Nov 15 Photo shared by Marcus Ng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/insecta/dysdercus/191127lazmn3.jpg
-    caption: A mating pair. Seringat-Kias, Nov 2019 Photo shared by Marcus Ng on
-      facebook .
-links_references: |
-  **Links**
-  - [Cotton stainer bugs](http://mangrove.nus.edu.sg/guidebooks/text/2013.md)
+  - url: http://www.wildsingapore.com/wildfacts/insecta/dysdercus/191127lazmn3.jpg
+    caption: A mating pair. Seringat-Kias, Nov 2019 Photo shared by Marcus Ng on facebook
+      .
+links_references: '**Links**
+
+  - [Cotton stainer bugs](http://mangrove.nus.edu.sg/guidebooks/text/2013)
+
   Ng, Peter K. L. & N. Sivasothi, 1999.
+
   *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)
+
   II (Animal Diversity)*
+
   . Singapore Science Centre. 168 pp.
+
   - [*Dysdercus cingulatus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Dysdercus%20cingulatus.html)
+
   (Hemiptera: Pyrrhocoridae) Cotton Stainer Bug on Taxo4254.
+
+  '
 location:
 - sbw
 - prp
@@ -72,17 +70,19 @@ location:
 - lab
 - laz
 - smk
+size:
+- 1.0
 ---
 
 ## Where seen?
 This colourful insect is sometimes seen in numbers when the Sea hibiscus is fruiting. These colourful bugs feed on the seeds of the
-[Sea Hibiscus](../plants/coastal/hibiscus/tiliaceus.md)
+[Sea Hibiscus](../plants/coastal/hibiscus/tiliaceus)
 (
 *Hibiscus tiliaceus*
 ). Both adults and nymphs are often found in groups under the leaves or among the flowers of this plant. Another related
 *Dysdercus*
 feeds on the
-[Portia tree](../plants/coastal/thespesia/populnea.md)
+[Portia tree](../plants/coastal/thespesia/populnea)
 (
 *Thespesia populnea*
 ); it looks similar but has a black head.

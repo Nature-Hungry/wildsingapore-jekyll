@@ -1,10 +1,9 @@
 ---
 title: 'Lacy red seaweed '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: lacy, red, seaweed, weed, algae, martensia, elegans, delesseriaceae, 
-  rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: lacy, red, seaweed, weed, algae, martensia, elegans, delesseriaceae, rhodophyta,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 division: Rhodophyta
 family: Delesseriaceae
@@ -24,58 +23,52 @@ order: Ceramiales
 subfamily: Nitophylloideae
 tribe: Martensieae
 updated: Jan 13
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/060415hntg5636m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/060415hntg5636m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/060415hntg5636m3c.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/060415hntg5636m3c.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/060415hntg5636m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/060415hntg5636m3a.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/060415hntg5636m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/060415hntg5636m3b.jpg
     caption: Little balls attached to the lacy surface.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/070704jngg1184m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/070704jngg1184m3.jpg
     caption: Pulau Jong, Jul 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/070704jngg1229m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/070704jngg1229m3.jpg
     caption: Pulau Jong, Jul 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/070704jngg1178m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/070704jngg1178m3.jpg
     caption: Pulau Jong, Jul 07 Base of the blade smooth, unperforated.
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/070618rlhg0734m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/070618rlhg0734m3.jpg
     caption: Raffles Lighthouse, Jun 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/091204pawd5358m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/091204pawd5358m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/100601slud5006m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/100601slud5006m3.jpg
     caption: Pulau Salu, Jun 10
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/100130brkd8494m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/100130brkd8494m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/100130brkd8515m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/100130brkd8515m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/100530tbkd4213m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/100530tbkd4213m3.jpg
     caption: Pulau Berkas, May 10
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Martensia elegans*](http://www.algaebase.org/search/species/detail/?species_id=3272)
+
   on
+
   [AlgaeBase](http://www.algaebase.org/)
+
   : Technical fact sheet.
 
+
   **References**
+
   .
+
+  '
 location:
 - sis
 - jng
@@ -86,6 +79,9 @@ location:
 - tsm
 - rfl
 - lfa
+size:
+- 5.0
+- 8.0
 ---
 
 ## Where seen?

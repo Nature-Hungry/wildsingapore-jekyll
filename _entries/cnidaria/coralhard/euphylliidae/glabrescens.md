@@ -1,10 +1,9 @@
 ---
 title: Torch anchor coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: torch, anchor, euphyllia, glabrescens, euphylliidae, caryophyliidae, 
-  coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, 
-  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: torch, anchor, euphyllia, glabrescens, euphylliidae, caryophyliidae, coral,
+  hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Euphylliidae
 genus: Euphyllia
@@ -18,94 +17,100 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/051203smkg3165m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/051203smkg3165m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/051203smkg3165m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/051203smkg3165m3.jpg
     caption: Pulau Semakau, Dec 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/051203smkg3161m3c.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/051203smkg3161m3c.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/051203smkg3161m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/051203smkg3161m3a.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/120609tsmkd5147m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/120609tsmkd5147m3.jpg
     caption: Terumbu Semakau, Jun 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/120609tsmkd5147m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/120609tsmkd5147m3a.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/120609tsmkd5147m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/120609tsmkd5147m3b.jpg
     caption: ''
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/080707hntd7529m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/080707hntd7529m3.jpg
     caption: Pulau Hantu, Jul 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/080707hntd7529m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/080707hntd7529m3a.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/080707hntd7529m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/080707hntd7529m3b.jpg
     caption: ''
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/100617tbjk1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/100617tbjk1m3.jpg
     caption: Terumbu Bemban, Jun 10 Photo shared by James Koh on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/100519tsmjk7m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/100519tsmjk7m3.jpg
     caption: Terumbu Semakau, May 10 Photo shared by James Koh on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/210811tryrk1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/210811tryrk1.jpg
     caption: Terumbu Raya, Aug 21 Photo shared by Richard Kuah on facebook .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/100403tbbjk2m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/100403tbbjk2m3.jpg
     caption: Beting Bemban Besar, Apr 10 Photo shared by James Koh on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/110522bbblks12m3.jpg
-    caption: Beting Bemban Besar, May 11 Photo shared by Loh Kok Sheng on his 
-      blog .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/110522bbblks12m3.jpg
+    caption: Beting Bemban Besar, May 11 Photo shared by Loh Kok Sheng on his blog
+      .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/100530tbkd4225m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/100530tbkd4225m3.jpg
     caption: Pulau Berkas, May 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/100530tbkd4225m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/100530tbkd4225m3a.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/100530tbkd4225m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/100530tbkd4225m3b.jpg
     caption: ''
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
+
   with species factsheets.
+
   - [IUCN Red List of Threatened Species](https://www.iucnredlist.org/)
+
   with species factsheets.
+
   - [*Euphyllia*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Euphyllia)
-  on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal: Technical fact sheet.
+
+  on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal:
+  Technical fact sheet.
+
   - [*Euphyllia glabrescens*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46644)
+
   on SeaLife Base: Technical fact sheet.
 
+
   **References**
+
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
-  *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new records*
+
+  *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new
+  records*
+
   (pdf). Raffles Bulletin of Zoology Supplement No. 22: 69-80.
+
   - Veron, Jen. 2000.
+
   *Corals of the World*
+
   Australian Institute of Marine Science, Australia. 3 volumes.
+
   - Borneman, Eric H. 2001.
+
   *Aquarium Corals: Selection, Husbandry and Natural History*
+
   T.F. H Publications. 464 pp
+
+  '
 location:
 - hnt
 - tpg
 - smk
 - tsm
 - lfa
+size:
+- 10.0
+- 20.0
 ---
 
 ## Where seen?
@@ -121,11 +126,11 @@ other
 species. Here's more on
 [how to tell apart the
 *Euphyllia*
-species](euphyllia.md)
+species](euphyllia)
 .
 
 With their tentacles fully extended, torch corals may also resemble
-[Sunflower mushroom corals](../fungiidae/heliofungia.md)
+[Sunflower mushroom corals](../fungiidae/heliofungia)
 (
 *Heliofungia actiniformis*
 ). The torch coral, however, has much shorter tentacles and of course an entirely different skeleton structure.

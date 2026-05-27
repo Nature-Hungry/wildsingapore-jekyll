@@ -26,45 +26,75 @@ updated: Jan 2013
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/speciosum/090328sbwrd0043m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/speciosum/090328sbwrd0035m3a.jpg"
-      caption: "Young fronds are green. Sungei Buloh Wetland Reserve, Mar 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/speciosum/130202mdd3863m3.jpg"
-      caption: "Sterile fronds have tapering pointed tips. Sungei Buloh Wetland Reserve, Mar 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/speciosum/110307admd6750m3.jpg"
-      caption: "Fertile fronds. Admiralty Park, Mar 11"
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/speciosum/090328sbwrd0035m3a.jpg
+    caption: Young fronds are green. Sungei Buloh Wetland Reserve, Mar 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/speciosum/130202mdd3863m3.jpg
+    caption: Sterile fronds have tapering pointed tips. Sungei Buloh Wetland Reserve,
+      Mar 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/speciosum/110307admd6750m3.jpg
+    caption: Fertile fronds. Admiralty Park, Mar 11
+links_references: '**Links**
+
   - *[Acrostichum speciosum](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=1535)*
+
   on the NParks Flora and Fauna website: photos and fact sheet.
+
   - [Piai Raya (
+
   *Acrostichum aureum*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/1038.md)
+
+  )](http://mangrove.nus.edu.sg/guidebooks/text/1038)
+
   and
+
   [Piai Lasu (
+
   *Acrostichum speciosum*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/1039.md)
+
+  )](http://mangrove.nus.edu.sg/guidebooks/text/1039)
+
   Ng, Peter K. L. & N. Sivasothi, 1999.
+
   *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)
+
   I (Plant Diversity)*
+
   . Singapore Science Centre. 168 pp.
+
   - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.md)
-  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
-  
+
+  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
+
+  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization
+  of the United Nations Regional Office for Asia and the Pacific Bangkok.
+
+
   **References**
+
   - Tomlinson, P. B., 1986.
+
   *The Botany of Mangroves*
+
   Cambridge University Press. USA. 419 pp.
+
   - Burkill, I. H., 1993.
+
   *A Dictionary of the Economic Products of the Malay Peninsula*
-  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
+
+  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
+  Volume 1: 1-1240; volume 2: 1241-2444.
+
+  '
+size:
+- 150.0
+- 200.0
 ---
 
 ## Where seen?
 The more delicate and elegant of our mangrove ferns, it is often seen in back mangroves, flourishing on
-[mud lobster mounds](../../../crustacea/othercrust/lobster/thalassina.md)
+[mud lobster mounds](../../../crustacea/othercrust/lobster/thalassina)
 and other higher ground, usually in the shade. Compared to
-[Piai raya](aureum.md)
+[Piai raya](aureum)
 (
 *A. aureum*
 ), it is found in areas more frequently inundated by tides.
@@ -72,13 +102,13 @@ and other higher ground, usually in the shade. Compared to
 ## Features
 
 The leaflets are thinner and shorter (1.5-2m long) than those of
-[Piai raya](aureum.md)
+[Piai raya](aureum)
 (
 *A. aureum*
 ) and young fronds are green or brownish-green. Rhizomes covered with scales up to 8mm long. The first few pairs near the tips are fertile leaflets, the underside covered below with dark brown spores (sporangia). Sterile leaflets gradually tapering to a narrow tip.
 
 See the
-[main page on mangrove ferns](acrostichum.md)
+[main page on mangrove ferns](acrostichum)
 for their human uses.
 
 *![](http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/speciosum/090328sbwrd0043m6l.jpg)

@@ -22,30 +22,36 @@ order: Dioscoreales
 inat_id: 140999
 updated: Jan 13
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/tacca/leontopetaloides/110820smkd9675m6l.jpg
-links_references: |
-  **Links**
-  - [*Tacca
-    leontopetaloides*](http://floraofsingapore.wordpress.com/2011/06/20/tacca-leontopetaloides/)
-    on The Total Vascular Flora of Singapore Online: photos and fact
-    sheet.
-  - [*Tacca
-    leontopetaloides*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2491) on the NParks Flora and Fauna website:
-    photos and fact sheet.
-  
-  **References**
-  - Hsuan Keng,
-    S.C. Chin and H. T. W. Tan.1998, *[The
+links_references: "**Links**\n- [*Tacca\n  leontopetaloides*](http://floraofsingapore.wordpress.com/2011/06/20/tacca-leontopetaloides/)\n\
+  \  on The Total Vascular Flora of Singapore Online: photos and fact\n  sheet.\n\
+  - [*Tacca\n  leontopetaloides*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2491)\
+  \ on the NParks Flora and Fauna website:\n  photos and fact sheet.\n\n**References**\n\
+  - Hsuan Keng,\n  S.C. Chin and H. T. W. Tan.1998, *[The\n"
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/tacca/leontopetaloides/081206smkd2488m3.jpg"
-      caption: "Fruits. Pulau Semakau, Dec 08"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/tacca/leontopetaloides/081206smkd2489m3.jpg"
-      caption: "Flower cluster with 'whiskers'. Pulau Semakau, Dec 08"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/tacca/leontopetaloides/051018smkg2756m3.jpg"
-      caption: "Flower cluster with 'whiskers'. Pulau Semakau, May 10"
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/tacca/leontopetaloides/081206smkd2488m3.jpg
+    caption: Fruits. Pulau Semakau, Dec 08
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/tacca/leontopetaloides/081206smkd2489m3.jpg
+    caption: Flower cluster with 'whiskers'. Pulau Semakau, Dec 08
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/tacca/leontopetaloides/051018smkg2756m3.jpg
+    caption: Flower cluster with 'whiskers'. Pulau Semakau, May 10
   gallery2:
-    - url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
-      caption: "Links Tacca leontopetaloides on The Total Vascular Flora of Singapore Online: photos and fact sheet. Tacca leontopetaloides on the NParks Flora and Fauna website: photos and fact sheet. References Hsuan Keng, S.C. Chin and H. T. W. Tan.1998, The Concise Flora of Singapore II: Monoctyledons Singapore University Press. 215 pp. Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red Data Book: Threatened plants and animals of Singapore . Nature Society (Singapore). 285 pp. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444."
+  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
+    caption: 'Links Tacca leontopetaloides on The Total Vascular Flora of Singapore
+      Online: photos and fact sheet. Tacca leontopetaloides on the NParks Flora and
+      Fauna website: photos and fact sheet. References Hsuan Keng, S.C. Chin and H.
+      T. W. Tan.1998, The Concise Flora of Singapore II: Monoctyledons Singapore University
+      Press. 215 pp. Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore
+      Red Data Book: Threatened plants and animals of Singapore . Nature Society (Singapore).
+      285 pp. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay
+      Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
+      Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.'
+size:
+- 30.0
+- 70.0
+- 120.0
+- 50.0
+- 50.0
 ---
 
 ## Where seen?

@@ -25,28 +25,37 @@ updated: Nov 10
 coverimg: http://www.wildsingapore.com/wildfacts/plants/others/ixora/congesta/090926cjd1848m6la.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/others/ixora/congesta/090926cjd1830m3.jpg"
-      caption: "Chek Jawa, Sep 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/others/ixora/congesta/090926cjd1827m3.jpg"
-      caption: "Chek Jawa, Sep 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/others/ixora/congesta/090926cjd1832m6l.jpg"
-      caption: "Chek Jawa, Sep 09"
+  - url: http://www.wildsingapore.com/wildfacts/plants/others/ixora/congesta/090926cjd1830m3.jpg
+    caption: Chek Jawa, Sep 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/others/ixora/congesta/090926cjd1827m3.jpg
+    caption: Chek Jawa, Sep 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/others/ixora/congesta/090926cjd1832m6l.jpg
+    caption: Chek Jawa, Sep 09
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/others/ixora/congesta/090926cjd1846m3.jpg"
-      caption: "Chek Jawa, Sep 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/others/ixora/congesta/091128cjd4614m3.jpg"
-      caption: "Chek Jawa, Nov 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/others/ixora/congesta/091128cjd4610m6l.jpg"
-      caption: "Chek Jawa, Nov 09"
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/plants/others/ixora/congesta/090926cjd1846m3.jpg
+    caption: Chek Jawa, Sep 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/others/ixora/congesta/091128cjd4614m3.jpg
+    caption: Chek Jawa, Nov 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/others/ixora/congesta/091128cjd4610m6l.jpg
+    caption: Chek Jawa, Nov 09
+links_references: '**Links**
+
   - *[Ixora congesta](http://floraofsingapore.wordpress.com/2010/05/02/ixora-congesta/)*
+
   on Total Vascular Flora of Singapore Online: photos and fact sheet.
-  
+
+
   **References**
+
   - Tan, Hugh T.W. and T. Morgany. 2001.
+
   *[Growing the Native Plants of Singapore](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*
+
   . BP Science Centre Guidebook. 168pp.
+
+  '
+size:
+- 700.0
 ---
 
 ## Where seen?

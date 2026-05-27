@@ -1,9 +1,8 @@
 ---
 title: Surf clams
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: donax, clam, donacidae, bivalve, mollusc, field, guide, seashore, sea,
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: donax, clam, donacidae, bivalve, mollusc, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Donacidae
 genus: ''
@@ -21,41 +20,33 @@ superorder: Imparidentia
 order: Cardiida
 superfamily: Tellinoidea
 updated: May 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/donacidae/donacidae/101011chgd2129m3a.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/donacidae/donacidae/101011chgd2129m3a.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/donacidae/donacidae/101011chgd2129m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/donacidae/donacidae/101011chgd2129m3a.jpg
     caption: Changi, Oct 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/donacidae/donacidae/101011chgd2129m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/donacidae/donacidae/101011chgd2129m3b.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/donacidae/donacidae/101011chgd2129m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/donacidae/donacidae/101011chgd2129m3.jpg
     caption: ''
-links_references: |
-  **Links**
-  - *[Donax cuneatus](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86593)*
-  and
-  *[Donax faba](http://www.sealifebase.org/Summary/speciesSummary.php?ID=8660)*
-  on SeaLife Base: Technical fact sheet.
-  - Family Donacidae in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
-  on the Food and Agriculture Organization of the United Nations (FAO) website.
-
-  **References**
-  - Tan SK & Low MEY (2013)
-  *Singapore Mollusca: 3. The Family Donacidae (Bivalvia: Veneroida: Tellinoidea)*
-  . Nature in Singapore, 6: 257–263.
-  - Tan Siong Kiat and Henrietta P. M. Woo, 2010
-  *Preliminary Checklist of The Molluscs of Singapore*
-  (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
-  - Tan, K. S. & L. M. Chou, 2000.
-  *A Guide to the Common Seashells of Singapore*
-  . Singapore Science Centre. 160 pp.
+links_references: "**Links**\n- *[Donax cuneatus](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86593)*\n\
+  and\n*[Donax faba](http://www.sealifebase.org/Summary/speciesSummary.php?ID=8660)*\n\
+  on SeaLife Base: Technical fact sheet.\n- Family Donacidae in the Bivalves section\
+  \ by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes:\
+  \ The Living Marine Resources of the Western Central Pacific\n[Volume 1: Seaweeds,\
+  \ corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)\n\
+  on the Food and Agriculture Organization of the United Nations (FAO) website.\n\n\
+  **References**\n- Tan SK & Low MEY (2013)\n*Singapore Mollusca: 3. The Family Donacidae\
+  \ (Bivalvia: Veneroida: Tellinoidea)*\n. Nature in Singapore, 6: 257\u2013263.\n\
+  - Tan Siong Kiat and Henrietta P. M. Woo, 2010\n*Preliminary Checklist of The Molluscs\
+  \ of Singapore*\n(pdf), Raffles Museum of Biodiversity Research, National University\
+  \ of Singapore.\n- Tan, K. S. & L. M. Chou, 2000.\n*A Guide to the Common Seashells\
+  \ of Singapore*\n. Singapore Science Centre. 160 pp.\n"
 location:
 - chg
+size:
+- 2.0
+- 3.0
 ---
 
 ## Where seen?
@@ -67,7 +58,7 @@ The clam or its empty shells are sometimes seen on some of our shores. The dead 
 
 **Surfer dudes!**
 Surf clams actually do surf the waves! They migrate up and down the shore by floating with the waves and then rapidly burying themselves with their strong foot. By doing so, they are able to move up and down the shore with the tides thus exploiting food found in the different shore zones. This also helps them avoid predators such as
-[Moon snails](../../gastropoda/naticidae/naticidae.md)
+[Moon snails](../../gastropoda/naticidae/naticidae)
 (Family Naticidae).
 
 **What do they eat?**

@@ -1,10 +1,9 @@
 ---
 title: 'Mangrove tree-dwelling crab '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: mangrove, tree, dwelling, crab, selatium, brocki, brockii, sesarmidae,
-  decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: mangrove, tree, dwelling, crab, selatium, brocki, brockii, sesarmidae, decapod,
+  crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 38
@@ -30,68 +29,86 @@ zoosection: Eubrachyura
 zoosubsection: Thoracotremata
 superfamily: Grapsoidea
 updated: Dec 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/brockii/031128sbwrad0071m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/brockii/031128sbwrad0071m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/brockii/031128sbwrad0071m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/brockii/031128sbwrad0071m3.jpg
     caption: Sungei Buloh Wetland Reserve, Nov 03
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/brockii/030830sbwrbd0046m3.jpg
-    caption: Pointed legs to climb and cling. Sungei Buloh Wetland Reserve, Aug 
-      03
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/brockii/030830sbwrbd0046m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/brockii/030830sbwrbd0046m3.jpg
+    caption: Pointed legs to climb and cling. Sungei Buloh Wetland Reserve, Aug 03
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/brockii/030830sbwrbd0046m3a.jpg
     caption: Eyes have a greenish tinge.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/brockii/251213prprqo2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/brockii/251213prprqo2.jpg
     caption: Pasir Ris Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/brockii/200819ecptvc4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/brockii/200819ecptvc4.jpg
     caption: East Coast Park, Aug 20 Photo shared by Vincent Choo on facebook .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/brockii/201215bsisvc1.jpg
-    caption: Big Sisters Island, Dec 20 Photo shared by Vincent Choo on facebook
-      .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/brockii/251011ssisyls10.jpg
-    caption: Small Sisters Island, Oct 25 Photo shared by Yan Le Su on facebook 
-      .
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/brockii/201215bsisvc1.jpg
+    caption: Big Sisters Island, Dec 20 Photo shared by Vincent Choo on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/brockii/251011ssisyls10.jpg
+    caption: Small Sisters Island, Oct 25 Photo shared by Yan Le Su on facebook .
+links_references: '**Links**
+
   - [Mangrove tree-dwelling crab (
+
   *Selatium brockii*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2050.md)
+
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2050)
+
   Ng, Peter K. L. & N. Sivasothi, 1999.
+
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
+
   . Singapore Science Centre. 168 pp.
-  - [*Selatium brockii*](http://mangrove.nus.edu.sg/pub/seashore/text/199.md)
+
+  - [*Selatium brockii*](http://mangrove.nus.edu.sg/pub/seashore/text/199)
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
+
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+
   . The Singapore Science Centre, Singapore. 160 pp.
+
   - [*Selatium brockii*](https://singapore.biodiversity.online/taxo4254/mainSpace/Selatium%20brockii.html)
+
   (Decapoda:Sesarmidae) Mangrove tree-dwelling crab by Lim Le Ying, 2013 on taxo4254.
+
   - [*Selatium brockii*](http://www.sealifebase.fisheries.ubc.ca/Summary/speciesSummary.php?ID=2381018&genusname=Selatium&speciesname=brockii)
+
   on
+
   [SeaLifeBase](http://www.sealifebase.org/search.php)
+
   : Technical fact sheet.
 
+
   **References**
+
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
-  *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs of the world.*
+
+  *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs
+  of the world.*
+
   The Raffles Bulletin of Zoology. Supplement No. 17, 31 Jan 2008. 286 pp.
+
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
+
   *Rhythm of the Sea: The Life and Times of Labrador Beach.*
-  Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+
+  Division of Biology, School of Science, Nanyang Technological University & Department
+  of Zoology, the National University of Singapore. 160 pp.
+
+  '
 location:
 - sbw
 - prp
 - chg
 - ecp
 - sis
+size:
+- 2.0
+- 2.5
 ---
 
 ## Where seen?

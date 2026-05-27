@@ -1,10 +1,9 @@
 ---
 title: 'Clown anemonefish '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: false, clown, anemonefish, anemone, fish, ocellaris, pomacentridae, 
-  amphiprion,  amphiprioninae, field, guide, seashore, sea, shore, marine, 
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: false, clown, anemonefish, anemone, fish, ocellaris, pomacentridae, amphiprion,  amphiprioninae,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 attributes:
 - 9
@@ -28,202 +27,199 @@ order: Blenniiformes
 subfamily: Pomacentrinae
 complex: Amphiprion percula
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/040605kusbd0077m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/040605kusbd0077m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about it ... The fish needs its host 
-      anemone. Do not disturb it or the anemone. One anemone may be home to many
-      anemonefishes. These fishes are threatened by over-collection for the 
-      aquarium trade. Don't keep Nemo in your home, he belongs in the ocean.
+    caption: if you learn only 3 things about it ... The fish needs its host anemone.
+      Do not disturb it or the anemone. One anemone may be home to many anemonefishes.
+      These fishes are threatened by over-collection for the aquarium trade. Don't
+      keep Nemo in your home, he belongs in the ocean.
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: The fish needs its host anemone. Do not disturb it or the anemone. 
-      One anemone may be home to many anemonefishes. These fishes are threatened
-      by over-collection for the aquarium trade. Don't keep Nemo in your home, 
-      he belongs in the ocean.
+    caption: The fish needs its host anemone. Do not disturb it or the anemone. One
+      anemone may be home to many anemonefishes. These fishes are threatened by over-collection
+      for the aquarium trade. Don't keep Nemo in your home, he belongs in the ocean.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/040605kusbd0077m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/040605kusbd0077m3.jpg
     caption: In a Giant carpet anemone . Kusu Island, Jun 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/090822sisd9681m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/090822sisd9681m6l.jpg
     caption: In a Giant carpet anemone . Sisters Island, Aug 09
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/190831kus.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/190831kus.jpg
     caption: 'Stranded at low tide: best to leave it alone. Kusu Island, Aug 19'
-  - url: 
-      http://www.wildsingapore.com/cnidaria/actiniaria/mertensii/120411thntd9391m3.jpg
+  - url: http://www.wildsingapore.com/cnidaria/actiniaria/mertensii/120411thntd9391m3.jpg
     caption: In a Merten's carpet anemone . Terumbu Hantu, Apr 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/140713tsmkd7177m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/140713tsmkd7177m3.jpg
     caption: In a Magnificent anemone . Terumbu Semakau, Jul 14
   gallery4:
   - url: https://live.staticflickr.com/31337/51368805976_a982090d14_z.jpg
-    caption: An anemonefish seen swimming away from its home anemone as the tide
-      falls. Terumbu Pempang Laut, Aug 2021
+    caption: An anemonefish seen swimming away from its home anemone as the tide falls.
+      Terumbu Pempang Laut, Aug 2021
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/070728sisd4491m3.jpg
-    caption: Smaller anemonefishes are NOT the babies of larger fishes in the 
-      same anemone! Sisters Island, Jul 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/091205pawlks14m3.jpg
-    caption: Fishes of several different sizes in one Magnificent anemone. Pulau
-      Pawai, Dec 09 Photo shared by Loh Kok Sheng on flickr .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/070728sisd4491m3.jpg
+    caption: Smaller anemonefishes are NOT the babies of larger fishes in the same
+      anemone! Sisters Island, Jul 07
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/091205pawlks14m3.jpg
+    caption: Fishes of several different sizes in one Magnificent anemone. Pulau Pawai,
+      Dec 09 Photo shared by Loh Kok Sheng on flickr .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/091205sdgik2.jpg
-    caption: Eggs laid near the sea anemone. Pulau Sudong, Dec 09 Photo shared 
-      by Ivan Kwan g on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/091205sdgik2a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/091205sdgik2.jpg
+    caption: Eggs laid near the sea anemone. Pulau Sudong, Dec 09 Photo shared by
+      Ivan Kwan g on flickr .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/091205sdgik2a.jpg
     caption: ''
   gallery7:
   - url: https://live.staticflickr.com/7682/27559698565_9175509a7f_z.jpg
     caption: Many Clown anemonefishes of various sizes!
   gallery8:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/220618tmftlks3.jpg
-    caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/240724tmfttt1.jpg
-    caption: Tanah Merah Ferry Terminal, Jun 24 Photo shared by Tommy Tan on 
-      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/220618tmftlks3.jpg
+    caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/240724tmfttt1.jpg
+    caption: Tanah Merah Ferry Terminal, Jun 24 Photo shared by Tommy Tan on facebook
+      .
   gallery9:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/250714srpttt1.jpg
-    caption: In Magnificent anemone Sentosa Serapong, Jul 25 Photo shared by 
-      Tommy Tan on facebook .
-  - url: 
-      http://www.wildsingapore.com/cnidaria/actiniaria/magnifica/120407lazlks1m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/250714srpttt1.jpg
+    caption: In Magnificent anemone Sentosa Serapong, Jul 25 Photo shared by Tommy
+      Tan on facebook .
+  - url: http://www.wildsingapore.com/cnidaria/actiniaria/magnifica/120407lazlks1m3a.jpg
     caption: Seringat Kias, Apr 12 Photo shared by James Koh on his blog .
   gallery10:
-  - url: 
-      http://www.wildsingapore.com/cnidaria/actiniaria/gigantea/101106burlks4m3.JPG
+  - url: http://www.wildsingapore.com/cnidaria/actiniaria/gigantea/101106burlks4m3.JPG
     caption: Terumbu Buran, Nov 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/240528tslrk1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/240528tslrk1.jpg
     caption: Terumbu Selegie, May 24 Photo shared by Richard Kuah on facebook .
   gallery11:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/251009sjilks.jpg
-    caption: In a Magnificent anemone. St John's Island, Oct 25 Photo shared by 
-      Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/240624sjimn2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/251009sjilks.jpg
+    caption: In a Magnificent anemone. St John's Island, Oct 25 Photo shared by Loh
+      Kok Sheng on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/240624sjimn2.jpg
     caption: St John's Island, Jun 24 Photo shared by Marcus Ng on facebook .
   gallery12:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/120506ssisjk.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/120506ssisjk.jpg
     caption: Small Sisters Island, Nov 12 Photo shared by James Koh on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/070725sismn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/070725sismn.jpg
     caption: Sisters Island, Jul 07 Photo shared by Marcus Ng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/100517jngjk.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/100517jngjk.jpg
     caption: Pulau Jong, May 10 Photo shared by James Koh on flickr .
   gallery13:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/200918cyrlks7.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/200918cyrlks7.jpg
     caption: Cyrene, Sep 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/250726cyrjt5.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/250726cyrjt5.jpg
     caption: Cyrene, Jul 25 Photo shared by Jonathan Tan on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/260201cyrmn1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/260201cyrmn1.jpg
     caption: Cyrene, Jul 26 Photo shared by Marcus Ng on facebook .
   gallery14:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/121117hntmn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/121117hntmn.jpg
     caption: Pulau Hantu, Nov 12 Photo shared by Marcus Ng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/210429hntvc2.jpg
-    caption: In Magnificaent anemone Pulau Hantu, Apr 21 Photo shared by Vincent
-      Choo on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/210429hntvc2.jpg
+    caption: In Magnificaent anemone Pulau Hantu, Apr 21 Photo shared by Vincent Choo
+      on facebook .
   gallery15:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/250531thntccn1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/250531thntccn1.jpg
     caption: Terumbu Hantu, May 25 Photo shared by Che Cheng Neo on facebook .
   gallery16:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/080210smktch10m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/080210smktch10m3.jpg
     caption: Pulau Semakau, Feb 08 Photo shared by Toh Chay Hoon on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/100502trygl3m3.JPG
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/100502trygl3m3.JPG
     caption: Terumbu Raya, May 10 Photo shared byGeraldine Lee on her blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/100617tsmklks6m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/100617tsmklks6m3.jpg
     caption: Terumbu Semakau, Jun 10 Photo shared by Loh Kok Sheng on his blog .
   gallery17:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/100617tbtch6m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/100617tbtch6m3.jpg
     caption: Terumbu Bemban, Jun 10 Photo shared by Toh Chay Hoom on her blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/251008bbbky11.jpg
-    caption: Beting Bemban Besar, Oct 25 Photo shared by Kelvin Yong on facebook
-      .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/100530pbklks1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/251008bbbky11.jpg
+    caption: Beting Bemban Besar, Oct 25 Photo shared by Kelvin Yong on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/100530pbklks1m3.jpg
     caption: Pulau Berkas, May 10 Photo shared by Loh Kok Sheng on flickr .
   gallery18:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/091205sdgik.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/091205sdgik.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by Ivan Kwan g on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/091205sdgik2.jpg
-    caption: Eggs laid near the sea anemone. Pulau Sudong, Dec 09 Photo shared 
-      by Ivan Kwan g on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/091205sdgik2a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/091205sdgik2.jpg
+    caption: Eggs laid near the sea anemone. Pulau Sudong, Dec 09 Photo shared by
+      Ivan Kwan g on flickr .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/091205sdgik2a.jpg
     caption: ''
   gallery19:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/100613snglks2m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/100613snglks2m3.jpg
     caption: Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/100612sngmn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/100612sngmn.jpg
     caption: Pulau Senang, Jun 10 Photo shared by Marcus Ng on flickr .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Clown Anemonefish (
+
   *Amphiprion ocellaris*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/337.md)
+
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/337)
+
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
+
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
+
   . Singapore Science Centre. 163 pp.
+
   - [*Amphiprion ocellaris*](https://singapore.biodiversity.online/taxo4254/mainSpace/Amphiprion%20ocellaris.html)
-  (Perciformes: Pomacentridae) False Clown Anemonefish by Joy Wong Shu Yee, 2016, on taxo4254.
+
+  (Perciformes: Pomacentridae) False Clown Anemonefish by Joy Wong Shu Yee, 2016,
+  on taxo4254.
+
   - [Clown Anemonefish (
+
   *Amphiprion ocellaris*
+
   )](http://www.fishbase.org/Summary/speciesSummary.php?ID=6509)
+
   from
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheet on the family, including fact sheet on
+
   - [False-Clown Anemonefish (
+
   *Amphiprion ocellaris*
-  )](http://www.amonline.net.au/fishes/fishfacts/fish/aocellaris.md)
+
+  )](http://www.amonline.net.au/fishes/fishfacts/fish/aocellaris)
+
   on the
+
   [Australian Museum Fish Site](http://www.amonline.net.au/fishes/fishfacts/)
+
   on the Australian Museum Online website: fact sheet with photos
+
   - [*Amphiprion ocellaris*](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=117)
+
   on the NParks Flora and Fauna website.
+
   - On the wild shores of singapore blog
+
   - [Clown anemonefishes need rainforests](http://wildshores.blogspot.sg/2008/08/clown-anemonefishes-need-rainforests.html)
-  - [Wiggly 'Nemos' help sea anemones oxygenate at night](http://wildshores.blogspot.sg/2013/02/wiggly-nemos-help-sea-anemones.html)
+
+  - [Wiggly ''Nemos'' help sea anemones oxygenate at night](http://wildshores.blogspot.sg/2013/02/wiggly-nemos-help-sea-anemones.html)
+
 
   **References**
+
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+
   . Nature Society (Singapore). 285 pp.
+
   - Lieske, Ewald and Robert Myers. 2001.
+
   *Coral Reef Fishes of the World*
+
   Periplus Editions. 400pp.
+
   - Bond, Carl E., 1996.
+
   *Biology of Fishes*
+
   2
+
+  '
 location:
 - skd
 - tus
@@ -242,6 +238,9 @@ location:
 - tsm
 - rfl
 - lfa
+size:
+- 2.0
+- 9.0
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
@@ -264,11 +263,11 @@ Our clown anemonefish (
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Home Sweet Anemone Home:**
 On our intertidal, the fish is often seen in
-[Giant carpet anemones](../../../cnidaria/actiniaria/gigantea.md)
+[Giant carpet anemones](../../../cnidaria/actiniaria/gigantea)
 . It is also sometimes in
-[Magnificent anemones](../../../cnidaria/actiniaria/magnifica.md)
+[Magnificent anemones](../../../cnidaria/actiniaria/magnifica)
 and
-[Merten's carpet anemones](../../../cnidaria/actiniaria/mertensii.md)
+[Merten's carpet anemones](../../../cnidaria/actiniaria/mertensii)
 .
 
 The anemonefish may sometimes be seen stranded at low tide near its anemone home. It is probably best to leave it alone and NOT try to 'rescue' it by putting it in a pool of water far away from its anemone home. These fishes are adapted to surviving at low tide and it is best that they are are close as possible to their anemone home when the tide turns. As the water rushes in, so do predators which will quickly eat up a defenceless anemonefish far from its protective anemone.

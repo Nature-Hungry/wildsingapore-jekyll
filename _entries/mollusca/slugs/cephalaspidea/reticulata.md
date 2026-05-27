@@ -1,10 +1,9 @@
 ---
 title: 'Reticulated tailed-slug '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: tailed, slug, philinopsis, reticulata, aglajidae, cephalaspidea, 
-  gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: tailed, slug, philinopsis, reticulata, aglajidae, cephalaspidea, gastropod,
+  mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Aglajidae
 genus: ''
@@ -21,41 +20,58 @@ subterclass: Tectipleura
 order: Cephalaspidea
 superfamily: Philinoidea
 updated: May 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/reticulata/110319cyrs07381m6la.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/reticulata/110319cyrs07381m6la.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/reticulata/110319cyrs07381m6la.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/reticulata/110319cyrs07381m6la.jpg
     caption: Cyrene Reef, Mar 11
   gallery2:
   - url: https://live.staticflickr.com/1691/24291371114_e18ab08f2a_z.jpg
     caption: ''
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/reticulata/160209cyrlks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/reticulata/160209cyrlks.JPG
     caption: Cyrene Reef, Feb 16 Photo shared by Loh Kok Sheng on flickr .
-links_references: |
-  **Links**
-  - *[Philinopsis reticulata](http://www.seaslugforum.net/philreti.md)*
+links_references: '**Links**
+
+  - *[Philinopsis reticulata](http://www.seaslugforum.net/philreti)*
+
   on
+
   [The Sea Slug Forum](http://www.seaslugforum.net/)
+
   by Dr Bill Rudman: photos and fact sheets.
+
   - [*Philinopsis reticulata*](http://www.sealifebase.org/summary/Philinopsis-reticulata.html)
+
   on SeaLife Base.
 
+
   **References**
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Debelius, Helmut, 2001.
+
   *Nudibranchs and Sea Snails: Indo-Pacific Field Guide*
+
   IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+
   - Coleman, Neville. 2008.
+
   *Nudibranchs Encyclopedia - Catalogue of Asia/Indo Pacific sea slugs*
-  . Neville Coleman's World of Water, Australia. 415pp.
+
+  . Neville Coleman''s World of Water, Australia. 415pp.
+
+  '
 location:
 - cyr
+size:
+- 2.0
+- 3.0
 ---
 
 ## Where seen?
@@ -67,7 +83,7 @@ This small slug was seen at Cyrene in a sandy area near seagrasses and reefs.
 
 **What does it eat?**
 Some species eat
-[bubble shell snails](hamineoidae.md)
+[bubble shell snails](hamineoidae)
 , hunting them by following their slime trail then swallowing them whole.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

@@ -1,10 +1,9 @@
 ---
 title: Electric rays
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: electric, sting, ray, stingray, numbfish, narcine, torpedinidae, 
-  narcinidae, fish, rajiformes, field, guide, seashore, sea, shore, marine, 
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: electric, sting, ray, stingray, numbfish, narcine, torpedinidae, narcinidae,
+  fish, rajiformes, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 attributes: []
 family: Narcinidae
@@ -20,58 +19,85 @@ subclass: Elasmobranchii
 infraclass: Batoidea
 order: Torpediniformes
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/narcinidae/narcine/090622cftd4655m3a.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/narcinidae/narcine/090622cftd4655m3a.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/narcinidae/narcine/090622cftd4655m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/narcinidae/narcine/090622cftd4655m3a.jpg
     caption: Gill openings behind the eyes.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/narcinidae/narcine/090622cftd4655m6l.jpg
-    caption: Narcine maculata Short fat tail with round dorsal and tail fins. 
-      Changi, Jun 05
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/narcinidae/narcine/090622cftd4655m6l.jpg
+    caption: Narcine maculata Short fat tail with round dorsal and tail fins. Changi,
+      Jun 05
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/narcinidae/narcine/040704cjlcp.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/narcinidae/narcine/040704cjlcp.jpg
     caption: Narcine maculata Chek Jawa, Jul 04 Photo shared by Lim Cheng Puay.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/narcinidae/narcine/120605chgmn.jpg
-    caption: Narcine maculata Changi, Jun 12 Photo shared by Marcus Ng on flickr
-      .
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/narcinidae/narcine/120605chgmn.jpg
+    caption: Narcine maculata Changi, Jun 12 Photo shared by Marcus Ng on flickr .
+links_references: '**Links**
+
   - [Family Narcinidae](http://www.fishbase.org/summary/FamilySummary.php?ID=503)
+
   (Numbfishes),
+
   [Family Narkidae](http://www.fishbase.org/summary/FamilySummary.php?ID=672)
+
   (Sleeper rays) and
+
   [*Narke dipterygia*
+
   (Numbray)](http://www.fishbase.org/summary/13689)
+
   and
+
   [*Temera hardwickii*
+
   (Finless sleeper ray)](http://www.fishbase.org/summary/8400)
+
   on
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheet on the order, including fact sheets on individual species
-  - [Volume 3: Batoid Fishes](http://www.fao.org/docrep/009/x2401e/x2401e00.md)
-  edited by Kent E. Carpenter and Volker H. Niem FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific on the Food and Agriculture Organization of the United Nations (FAO) website (pdf).
+
+  - [Volume 3: Batoid Fishes](http://www.fao.org/docrep/009/x2401e/x2401e00)
+
+  edited by Kent E. Carpenter and Volker H. Niem FAO Species Identification Guide
+  for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+  on the Food and Agriculture Organization of the United Nations (FAO) website (pdf).
+
 
   **References**
+
   - Chan Sow Yan. 17 Jan 2014.
+
   *Dark-spotted numbfish (Narcine maculata) neonate at Changi Beach*
+
   . Singapore Biodiversity Records 2014: 22
+
   - Allen, Gerry, 2000.
+
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
+
   . Periplus Editions. 292 pp.
+
   - Kuiter, Rudie H. 2002.
+
   *Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers & Fishermen*
+
   New Holland Publishers. 434pp.
+
   - Lieske, Ewald and Robert Myers. 2001.
+
   *Coral Reef Fishes of the World*
+
   Periplus Editions. 400pp.
+
+  '
 location:
 - chg
 - cj
+size:
+- 15.0
+- 60.0
 ---
 
 ## Where seen?
@@ -79,11 +105,11 @@ This rather chubby ray with a stumpy tail was seen on Changi several times, amon
 
 **What are electric rays?**
 Electric rays are
-[rays](../dasyatidae/rajiformes.md)
+[rays](../dasyatidae/rajiformes)
 belonging to Order Torpediniformes. Some scientists group these fishes in the Family Narcinidae which according to
 [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=503)
 has 9 genera and 24 species. They are found in the Atlantic, Indian and Pacific Oceans. Numbfishes are different from
-[stingrays](../dasyatidae/dasyatidae.md)
+[stingrays](../dasyatidae/dasyatidae)
 that belong to the Family Dasyatidae.
 
 ## Features

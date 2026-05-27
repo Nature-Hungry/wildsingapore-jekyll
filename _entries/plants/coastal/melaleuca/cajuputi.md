@@ -27,22 +27,34 @@ updated: Aug 09
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/melaleuca/cajuputi/090906prpd0365m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/melaleuca/cajuputi/090906prpd0362m3.jpg"
-      caption: "Pasir Ris, Sep 09 Fruits are brown capsules."
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/melaleuca/cajuputi/090906prpd0491m3b.jpg"
-      caption: "Pasir Ris, Sep 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/melaleuca/cajuputi/090906prpd0364m3.jpg"
-      caption: "Pasir Ris, Sep 09 Flaky bark."
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/melaleuca/cajuputi/090906prpd0362m3.jpg
+    caption: Pasir Ris, Sep 09 Fruits are brown capsules.
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/melaleuca/cajuputi/090906prpd0491m3b.jpg
+    caption: Pasir Ris, Sep 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/melaleuca/cajuputi/090906prpd0364m3.jpg
+    caption: Pasir Ris, Sep 09 Flaky bark.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/melaleuca/cajuputi/090823cjd9984m3.jpg"
-      caption: "Chek Jawa, Aug 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/melaleuca/cajuputi/090823cjd9982m3.jpg"
-      caption: "Chek Jawa, Aug 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/melaleuca/cajuputi/090823cjd9980m6l.jpg"
-      caption: "Planted along the visitor trail. Chek Jawa, Aug 09"
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/melaleuca/cajuputi/090823cjd9984m3.jpg
+    caption: Chek Jawa, Aug 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/melaleuca/cajuputi/090823cjd9982m3.jpg
+    caption: Chek Jawa, Aug 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/melaleuca/cajuputi/090823cjd9980m6l.jpg
+    caption: Planted along the visitor trail. Chek Jawa, Aug 09
   gallery3:
-    - url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
-      caption: "References Tee Swee Ping and Wee Mei Lynn (eds). 2001. Trees of our Garden City . National Parks Board. 202 pp. Wee Yeow Chin. 1992. A Guide to Medicinal Plants . The Singapore Science Centre. 160pp Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University Press. 222 pp. Corners, E. J. H., 1997. Wayside Trees of Malaya: in two volumes . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444."
+  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
+    caption: 'References Tee Swee Ping and Wee Mei Lynn (eds). 2001. Trees of our
+      Garden City . National Parks Board. 202 pp. Wee Yeow Chin. 1992. A Guide to
+      Medicinal Plants . The Singapore Science Centre. 160pp Hsuan Keng, S.C. Chin
+      and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons
+      . Singapore University Press. 222 pp. Corners, E. J. H., 1997. Wayside Trees
+      of Malaya: in two volumes . Fourth edition, Malayan Nature Society, Kuala Lumpur.
+      Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236. Burkill,
+      I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula .
+      3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
+      Volume 1: 1-1240; volume 2: 1241-2444.'
+size:
+- 1500.0
+- 2000.0
 ---
 
 ## Where seen?

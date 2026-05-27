@@ -1,10 +1,9 @@
 ---
 title: Plain sand star
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: sand, star, seastar, sea star, starfish, fish, astropecten, indicus, 
-  astropectinidae, echinoderm, field, guide, seashore, sea, shore, marine, 
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: sand, star, seastar, sea star, starfish, fish, astropecten, indicus, astropectinidae,
+  echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 0
@@ -24,85 +23,94 @@ class: Asteroidea
 superorder: Valvatacea
 order: Paxillosida
 updated: Mar 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/050608chgg7360m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/050608chgg7360m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/050608chgg7360m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/050608chgg7360m3.jpg
     caption: Changi, Jun 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/050608chgg7360m3d.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/050608chgg7360m3d.jpg
     caption: Stout flat spines on the sides.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/050402cjg4016m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/050402cjg4016m3a.jpg
     caption: Pointed tube feet
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/050608chgg7360m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/050608chgg7360m3a.jpg
     caption: Tiny parasitic snails sometimes seen.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/050402cjg4016m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/050402cjg4016m3.jpg
     caption: Chek Jawa, Apr 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/080817chgd9707m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/080817chgd9707m3.jpg
     caption: Sometimes with only 4 arms. Changi, Aug 08
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/090310tuslks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/090310tuslks.JPG
     caption: Tuas, Mar 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/201019cnyrk7.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/201019cnyrk7.jpg
     caption: Coney Island, Oct 20 Photo shared by Richard Kuah on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/260216cnyrqo3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/260216cnyrqo3.jpg
     caption: Coney Island, Feb 26 Photo shared by Rui Quan Oh on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/260103prpyls4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/260103prpyls4.jpg
     caption: Pasir Ris Park, Jan 26 Photos shared by Yan Le Su on facebook .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/160125obsmn4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/160125obsmn4.jpg
     caption: Pulau Ubin OBS, Jan 16 Photo shared by Marcus Ng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/250627bbrk2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/250627bbrk2.jpg
     caption: Beting Bronok, Jun 25 Photo shared by Richard Kuah on facebook .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/220616chgelks7.jpg
-    caption: Changi Lost Coast, Jun 22 Photo shared by Loh Kok Sheng on facebook
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/220616chgelks7.jpg
+    caption: Changi Lost Coast, Jun 22 Photo shared by Loh Kok Sheng on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/210115mevc7.jpg
+    caption: East Coast-Marina Bay, Jan 21 Photo shared by Vincent Choo on facebook
       .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/210115mevc7.jpg
-    caption: East Coast-Marina Bay, Jan 21 Photo shared by Vincent Choo on 
-      facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Sand star (
+
   *Astropecten*
-  sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/221.md)
+
+  sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/221)
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
+
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+
   . The Singapore Science Centre, Singapore. 160 pp.
+
   - [*Astropecten indicus*](http://www.sealifebase.org/summary/Astropecten-indicus.html)
+
   from Sealife Base: Technical fact sheet.
 
+
   **References**
+
   - Loisette M. Marsh and Jane Fromont.
+
   *Field Guide to Shallow Water Seastars of Australia*
+
   . 2020. Western Australian Museum. 543pp
+
   - K. S. Loh . 31 Aug.2011.
+
   *Diet and feeding in the sea star Astropecten indicus (Doderlein, 1888)*
-  . The Raffles Bulletin of Zoology 2011 59 (2): 251-258 and Loh Kok Sheng's
+
+  . The Raffles Bulletin of Zoology 2011 59 (2): 251-258 and Loh Kok Sheng''s
+
   [blog post about this study](http://wondercreation.blogspot.sg/2011/09/paper-published-diet-and-feeding-in-sea.html)
+
   .
+
   - Lane, David J.W. and Didier Vandenspiegel. 2003
+
   *. A Guide to Sea Stars and Other Echinoderms of Singapore*
+
   . Singapore Science Centre. 187pp.
+
   - Didier VandenSpiegel et al. 1998.
-  *The Asteroid fauna (Echinodermata) of Singapore with a distribution table and illustrated identification to the species*
+
+  *The Asteroid fauna (Echinodermata) of Singapore with a distribution table and illustrated
+  identification to the species*
+
   . The Raffles Bulletin of Zoology 1998 46(2): 431-470.
+
+  '
 location:
 - pgl
 - prp
@@ -114,6 +122,9 @@ location:
 - tus
 - tm
 - ecp
+size:
+- 4.0
+- 6.0
 ---
 
 ## Where seen?
@@ -128,7 +139,7 @@ According to Marsh and Fromont, it eats clams.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Feeding on a star:**
 Sometimes, tiny white snails are found on the upperside. These are
-[parasitic snails](../../mollusca/gastropoda/eulimidae/eulimidae.md)
+[parasitic snails](../../mollusca/gastropoda/eulimidae/eulimidae)
 (Family Eulimidae).
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**Species are difficult to positively identify without close examination.

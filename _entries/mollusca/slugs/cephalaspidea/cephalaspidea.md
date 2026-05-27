@@ -23,22 +23,22 @@ updated: May 2020
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pilsbryi/080819cyrd9842m3.jpg"
-      caption: Batik tailed-slug
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/reticulata/110319cyrs07381m3.jpg"
-      caption: Reticulated tailed-slug
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/lineolata/150219cyrlks2m3.JPG"
-      caption: Lined tailed-slug
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pilsbryi/080819cyrd9842m3.jpg
+    caption: Batik tailed-slug
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/reticulata/110319cyrs07381m3.jpg
+    caption: Reticulated tailed-slug
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/lineolata/150219cyrlks2m3.JPG
+    caption: Lined tailed-slug
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/black/150219cyrd1308m3.jpg"
-      caption: Black tailed-slug
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/haminoea/101009cjd1866m3.jpg"
-      caption: Mangrove bubble-shell snail
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/black/150219cyrd1308m3.jpg
+    caption: Black tailed-slug
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/haminoea/101009cjd1866m3.jpg
+    caption: Mangrove bubble-shell snail
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/hydatinidae/080412cjtchm3.jpg"
-      caption: Paper bubble snail
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/philine/111028chged2710m3.jpg"
-      caption: "'Attap chee' slug"
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/hydatinidae/080412cjtchm3.jpg
+    caption: Paper bubble snail
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/philine/111028chged2710m3.jpg
+    caption: '''Attap chee'' slug'
 ---
 
 ## Where seen?
@@ -46,11 +46,11 @@ These odd snails and slugs seen on some of our shores with seagrasses and mangro
 
 **What are headshield slugs?**
 Headshield slugs belong to
-[Phylum Mollusca](../../mollusca.md)
+[Phylum Mollusca](../../mollusca)
 and
-[Class Gastropoda](../../gastropoda.md)
+[Class Gastropoda](../../gastropoda)
 . They belong to group of sea slugs (
-[Subclass Opistobranchia](../../slug.md)
+[Subclass Opistobranchia](../../slug)
 ) but most have retained shells as adults, although the shell may be reduced or internal. There are 31 families of headshield slugs.
 
 ## Features
@@ -65,11 +65,11 @@ and
 spp. are herbivores, placidly munching on filamentous algae.
 
 Some tailed slugs are carnivores and eat their prey whole, crushing them with hard calcareous plates in the gizzard. Their prey include other slugs,
-[flatworms](../../../worm/polycladida/polycladida.md)
+[flatworms](../../../worm/polycladida/polycladida)
 ,
-[acoel flatworms](../../../worm/acoela/acoela.md)
+[acoel flatworms](../../../worm/acoela/acoela)
 and
-[polychaete worms](../../../worm/polychaeta/polychaeta.md)
+[polychaete worms](../../../worm/polychaeta/polychaeta)
 . Some have well developed structures to track down their prey by following the prey's mucous trail. Others are herbivores.
 
 ---
@@ -102,7 +102,7 @@ Pupa solidula
 
 Pupa sulcata*
 
-**[Family Aglajidae](aglajidae.md)
+**[Family Aglajidae](aglajidae)
 (tailed-slugs)**
 with list of species recorded for Singapore.
 
@@ -120,17 +120,17 @@ Cylichna bizona=^Mnestia bizona
 
 Cylichna cylindracea*
 
-**[Family Haminoeidae](hamineoa.md)
+**[Family Haminoeidae](hamineoa)
 (bubble-shell snails)**
 with list of species recorded for Singapore
 
-**[Family Aplustridae](hydatinidae.md)
+**[Family Aplustridae](hydatinidae)
 =Hydatinidae (paper bubble snails)**
 with list of species recorded for Singapore
 
 **Family Philinidae**
 
-*[Philine orientalis](philine.md)*
+*[Philine orientalis](philine)*
 ('Attap chee' slug)
 
 **Family Retusidae**

@@ -1,11 +1,9 @@
 ---
 title: Spiky sea pen
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: spiky, pen, seapen, pteroeides, pteroeididae, pennatulidae, 
-  pennatulacea, anthozoa, cnidaria, pteroides, cavernularia, field, guide, 
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: spiky, pen, seapen, pteroeides, pteroeididae, pennatulidae, pennatulacea,
+  anthozoa, cnidaria, pteroides, cavernularia, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Pennatulidae
 genus: Pteroeides
@@ -20,88 +18,73 @@ subclass: Octocorallia
 order: Scleralcyonacea
 superfamily: Pennatuloidea
 updated: Dec 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/120705chgd7083m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/120705chgd7083m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/120705chgd7083m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/120705chgd7083m3.jpg
     caption: Changi, Jul 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/120705chgd7086m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/120705chgd7086m3b.jpg
     caption: Autozooids emerging from the 'leaf' edge. Changi, Jul 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/130820skdd1405m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/130820skdd1405m3.jpg
     caption: Tiny polyps. Pulau Sekudu, Aug 13
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/040716chgd2523m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/040716chgd2523m3.jpg
     caption: Bent over at low tide Changi, Jul 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/040716chgd2523m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/040716chgd2523m3a.jpg
     caption: The Painted porcellain crab is often seen in this sea pen.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/111031chgd3404m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/111031chgd3404m3a.jpg
     caption: Tiny coloutful brittle stars . Changi, Oct 11
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/mollusca/slugs/nudibranchia/semperi/180616chgm3.jpg
-    caption: A nudibranch that eats sea pens is lurking near this one. Beting 
-      Bronok, Jun 18
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/081216prpd3387m3.jpg
+  - url: http://www.wildsingapore.com/mollusca/slugs/nudibranchia/semperi/180616chgm3.jpg
+    caption: A nudibranch that eats sea pens is lurking near this one. Beting Bronok,
+      Jun 18
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/081216prpd3387m3.jpg
     caption: Sometimes seen uprooted with orange foot. Pasir Ris, Dec 08
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/100615tustch4m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/100615tustch4m3.jpg
     caption: Tuas, Jun 10 Photo shared by Toh Chay Hoon on her blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/260103prpyls8.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/260103prpyls8.jpg
     caption: Pasir Ris Park, Jan 26 Photo shared by Yan Le Su on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/151127cnylks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/151127cnylks.JPG
     caption: Coney Island, Nov 15 Photo shared by Loh Kok Sheng on flickr .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/091203ubnjk6m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/091203ubnjk6m3.jpg
     caption: Pulau Ubin, Dec 09 Photo shared by James Koh on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/250627bbal2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/250627bbal2.jpg
     caption: Beting Bronok, Jun 25 Photo shared by Adriane Lee on facebook .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/240723chgeky3.jpg
-    caption: Changi East (Lost Coast), Jul 24 Photo shared by Kelvin Yong on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/201118nsrcssrk1.jpg
-    caption: East Coast, NSRCC, Nov 20 Photo shared by Richard Kuah on facebook 
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/240723chgeky3.jpg
+    caption: Changi East (Lost Coast), Jul 24 Photo shared by Kelvin Yong on facebook
       .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/201118nsrcssrk1.jpg
+    caption: East Coast, NSRCC, Nov 20 Photo shared by Richard Kuah on facebook .
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/090207tmlks08m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/090207tmlks08m3.jpg
     caption: Tanah Merah, Feb 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/090207tmlks09m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/090207tmlks09m3.jpg
     caption: Shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/090821tmjk1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/090821tmjk1m3.jpg
     caption: Tanah Merah, Aug 09 Photo shared by James Koh on his blog .
   gallery8:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/160509srpis2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/160509srpis2.jpg
     caption: Sentosa Serapong, Jun 16 Photo shared by Ian Siah on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/120818lazlks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/120818lazlks.JPG
     caption: Seringat-Kias, Aug 12 Photo shared by Loh Kok Sheng on flickr .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Pteroeides*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Pteroeides)
+
   on
+
   [Reef Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding)
+
   on the
+
   [Marine Species Identification Portal](http://species-identification.org/index.php)
+
   : Technical fact sheet and photos.
+
+  '
 location:
 - pgl
 - prp
@@ -114,6 +97,10 @@ location:
 - ecp
 - snt
 - laz
+size:
+- 15.0
+- 20.0
+- 60.0
 ---
 
 ## Where seen?
@@ -135,12 +122,12 @@ Tiny feeding polyps (autozooids) with 8 branched tentacles emerge from these 'le
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Pen pals:**
 The tiny
-[Painted porcelain crab](../../../crustacea/othercrust/anomura/porcellanidae/picta.md)
+[Painted porcelain crab](../../../crustacea/othercrust/anomura/porcellanidae/picta)
 (
 *Porcellanella picta*
 ) is often found in this sea pen. Sometimes a pair is seen in one sea pen, at other times, many are seen.
 Washed up sea pens sometimes seen with
-[colourful brittle stars](../../../echinodermata/ophiuroidea/tinycolourful.md)
+[colourful brittle stars](../../../echinodermata/ophiuroidea/tinycolourful)
 and other brittle stars. Less friendly animals associated with it are nudibranchs that eat them!
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

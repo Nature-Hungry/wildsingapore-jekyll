@@ -26,31 +26,50 @@ updated: Oct 2016
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/091005cjd2271m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/apiculata/070520smkg9543m3.jpg"
-      caption: "Flower on very short stalks. Pulau Semakau, May 07"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/apiculata/090315smkd8300m3.jpg"
-      caption: "Pulau Semakau, Mar 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/apiculata/090315smkd8295m6la.jpg"
-      caption: "Usually a bent hypocotyl. Pulau Semakau, Mar 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/apiculata/030622cjd0054m3a.jpg"
-      caption: "Chek Jawa, Jun 03"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/apiculata/040131sbwrd0106m3a.jpg"
-      caption: "Fruit on very short stalk, almost stuck to the branch. Sungei Buloh Wetland Reserve, Mar 04"
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/apiculata/070520smkg9543m3.jpg
+    caption: Flower on very short stalks. Pulau Semakau, May 07
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/apiculata/090315smkd8300m3.jpg
+    caption: Pulau Semakau, Mar 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/apiculata/090315smkd8295m6la.jpg
+    caption: Usually a bent hypocotyl. Pulau Semakau, Mar 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/apiculata/030622cjd0054m3a.jpg
+    caption: Chek Jawa, Jun 03
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/apiculata/040131sbwrd0106m3a.jpg
+    caption: Fruit on very short stalk, almost stuck to the branch. Sungei Buloh Wetland
+      Reserve, Mar 04
+links_references: '**Links**
+
   - [*Rhizophora apiculata*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3265)
+
   on the NParks Flora and Fauna website: photos and fact sheet.
+
   - [*Rhizophora apiculata*](https://singapore.biodiversity.online/taxo4254/mainSpace/Clione%20limacina.html)
+
   (Malpighiales: Rhizophoraceae) Bakau minyak by Song Yiluan, 2014, on taxo4254.
+
   - [Bakau minyak (
-  *Rhizophora apiculata*](http://mangrove.nus.edu.sg/guidebooks/text/1069.md)
+
+  *Rhizophora apiculata*](http://mangrove.nus.edu.sg/guidebooks/text/1069)
+
   ) Ng, Peter K. L. & N. Sivasothi, 1999.
+
   *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)
+
   I (Plant Diversity)*
+
   . Singapore Science Centre. 168 pp.
+
   - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.md)
-  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
+
+  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
+
+  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization
+  of the United Nations Regional Office for Asia and the Pacific Bangkok.
+
+  '
+size:
+- 2000.0
+- 3000.0
 ---
 
 ## Where seen?

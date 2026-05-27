@@ -28,52 +28,85 @@ updated: Mar 2020
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090126ubnd6188m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090126ubnd6188m3.jpg"
-      caption: "Leaflets eye-shaped with pointed tips. Pulau Ubin, Jan 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090126ubnd6182m3.jpg"
-      caption: "Bark with longitudinal fissures. Pulau Ubin, Jan 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/100110cjd7878m6l.jpg"
-      caption: "Seasonally, all the leaves may turn yellow. Pulau Ubin, Jan 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090529prpd3038m3.jpg"
-      caption: "Leaflets underside. Pasir Ris Park, May 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090823cjd9863m3a.jpg"
-      caption: "Chek Jawa, Aug 09"
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090126ubnd6188m3.jpg
+    caption: Leaflets eye-shaped with pointed tips. Pulau Ubin, Jan 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090126ubnd6182m3.jpg
+    caption: Bark with longitudinal fissures. Pulau Ubin, Jan 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/100110cjd7878m6l.jpg
+    caption: Seasonally, all the leaves may turn yellow. Pulau Ubin, Jan 10
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090529prpd3038m3.jpg
+    caption: Leaflets underside. Pasir Ris Park, May 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090823cjd9863m3a.jpg
+    caption: Chek Jawa, Aug 09
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090823cjd9874m3.jpg"
-      caption: "Flowers in clusters. Chek Jawa, Aug 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090823cjd9874m3a.jpg"
-      caption: "Chek Jawa, Aug 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090126ubnd6185m3.jpg"
-      caption: "Fruit elliptical. Pulau Ubin, Jan 09"
-links_references: |
-  **Links**
-  - [*Xylocarpus moluccensis*](http://mangrove.nus.edu.sg/guidebooks/text/1077.md)
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090823cjd9874m3.jpg
+    caption: Flowers in clusters. Chek Jawa, Aug 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090823cjd9874m3a.jpg
+    caption: Chek Jawa, Aug 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090126ubnd6185m3.jpg
+    caption: Fruit elliptical. Pulau Ubin, Jan 09
+links_references: '**Links**
+
+  - [*Xylocarpus moluccensis*](http://mangrove.nus.edu.sg/guidebooks/text/1077)
+
   Ng, Peter K. L. & N. Sivasothi, 1999.
+
   *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)
+
   I (Plant Diversity)*
+
   . Singapore Science Centre. 168 pp.
+
   - *[Xylocarpus moluccensis](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3209)*
+
   on the NParks Flora and Fauna website: photos and fact sheet.
+
   - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.md)
-  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
-  
+
+  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
+
+  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization
+  of the United Nations Regional Office for Asia and the Pacific Bangkok.
+
+
   **References**
+
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
+
   *The Concise Flora of Singapore: Gymnosperms and Dicotyledons*
+
   . Singapore University Press. 222 pp.
+
   - Corners, E. J. H., 1997.
+
   *Wayside Trees of Malaya: in two volumes*
-  . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
+
+  . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates
+  1-38; volume 2: 477-861 pp., plates 139-236.
+
   - Tomlinson, P. B., 1986.
+
   *The Botany of Mangroves*
+
   Cambridge University Press. USA. 419 pp.
+
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+
   . Nature Society (Singapore). 285 pp
+
   - Burkill, I. H., 1993.
+
   *A Dictionary of the Economic Products of the Malay Peninsula*
-  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
+
+  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
+  Volume 1: 1-1240; volume 2: 1241-2444.
+
+  '
+size:
+- 500.0
+- 2000.0
 ---
 
 ## Where seen?

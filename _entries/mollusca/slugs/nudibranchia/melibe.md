@@ -1,10 +1,9 @@
 ---
 title: Melibe nudibranch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: melibe, viridis, tethydidae, nudibranchia, slug, seaslug, 
-  opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine,
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: melibe, viridis, tethydidae, nudibranchia, slug, seaslug, opisthobranch,
+  gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Tethydidae
 genus: Melibe
@@ -23,74 +22,78 @@ order: Nudibranchia
 suborder: Dendronotina
 superfamily: Dendronotoidea
 updated: May 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/080721cyrd8148m6l.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/080721cyrd8148m6l.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/080721cyrd8148m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/080721cyrd8148m6l.jpg
     caption: With hood (oral veil) expanded. Cyrene Reef, Jul 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/120621cyrm3.jpg
-    caption: Sensitive hairs on the inner edge of the oral veil. Cyrene Reef, 
-      Jun12
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/120621cyrm3.jpg
+    caption: Sensitive hairs on the inner edge of the oral veil. Cyrene Reef, Jun12
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/080410cyrd0979m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/080410cyrd0979m3.jpg
     caption: Cyrene Reef, Apr 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/080410cyrd0995m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/080410cyrd0995m3.jpg
     caption: Swims upside down. Cyrene Reef, Apr 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/090310tusd7857m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/090310tusd7857m3.jpg
     caption: Tuas, Mar 09
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/081114cyrlks04m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/081114cyrlks04m3.jpg
     caption: Cyrene Reef, Nov 08 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/080608cyrmn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/080608cyrmn.jpg
     caption: Cyrene Reef, Jun 08 Photo shared by Marcus Ng on flickr .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/120621cyrjk1m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/120621cyrjk1m6l.jpg
     caption: Cyrene Reef, Jun 12 Photo shared by James Koh on flickr
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/120621cyrjk1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/120621cyrjk1m3.jpg
     caption: Sensitive hairs on the inner edge of the oral veil.
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/120819cyrlks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/120819cyrlks.JPG
     caption: Cyrene Reef, Aug 12 Photo shared by Loh Kok Sheng on flickr .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/131104smkmn1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/131104smkmn1.jpg
     caption: Pulau Semakau, Nov 13 Photo shared by Marcus Ng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/131104smkmn2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/131104smkmn2.jpg
     caption: Pulau Semakau, Nov 13 Photo shared by Marcus Ng on flickr .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
+
   by Dr Bill Rudman: photos and fact sheet on
+
   *[Melibe viridis](http://www.seaslugforum.net/find/meliviri)*
+
   - [A Guide to Singapore Nudibranchs](http://lkcnhm.nus.edu.sg/nudibranch/main.html)
+
   by Uma Sachidhanandam: with a record of
+
   *Melibe pilosa*
+
   from Changi.
 
+
   **References**
+
   - Marcus F. C. Ng. 21 November 2014.
+
   *Melibe nudibranchs at Semakau Landfill*
+
   . Singapore Biodiversity Records 2014: 301-302.
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
+  '
 location:
 - tus
 - snt
 - cyr
 - smk
+size:
+- 6.0
+- 12.0
 ---
 
 ## Where seen?
@@ -103,7 +106,7 @@ This large nudibranch is sometimes on among seagrasses. It may be seasonal: when
 , this nudibranch has lost its radula and instead has an oral veil that can expand into a "fish net". The veil is used to constantly scan the substrate or to sweep seagrass blades. When the sensitive hairs on the inner edge of the oral veil touch a small crustacean (amphipods, crabs, shrimps), the edge of the veil rapidly contracts, trapping the prey, which is then eaten.
 
 It can 'swim', doing so upside down by vigorously bending side-to-side, touching its head to its tail. See Chay Hoon's
-[video clips](melibev1.md)
+[video clips](melibev1)
 of the hood in action, and the animal swimming.
 
 Its foot is said to be better suited to clinging to seaweeds and seagrasses than for creeping along the ground.

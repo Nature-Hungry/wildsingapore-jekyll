@@ -23,16 +23,27 @@ superfamily: Veneroidea
 subfamily: Gouldiinae
 updated: Nov 11
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/dispar/050510tusg6133m3.jpg
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Gafrarium dispar*
+
   (Discrepant venus)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86642)
+
   from SeaLife Base: Technical fact sheet.
-  
+
+
   **References**
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   [*Preliminary Checklist of The Molluscs of Singapore*](http://rmbr.nus.edu.sg/raffles_museum_pub/preliminary_checklist_molluscs_singapore.pdf)
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
+  '
+size:
+- 4.0
+- 6.0
 ---
 
 ## Where seen?

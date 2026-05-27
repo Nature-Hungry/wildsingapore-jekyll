@@ -22,32 +22,34 @@ order: Malpighiales
 inat_id: 321819
 updated: Sep 09
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/tristellateia/australasiae/091227kntd6390m6l.jpg
-links_references: |
-  **Links**
-  - [*Tristellateia
-    australasiae*](http://floraofsingapore.wordpress.com/2010/03/26/tristellateia-australasiae/) on Total Vascular Flora of Singapore Online:
-    photos and fact sheet.
-  - Giesen, Wim
-    and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-    [*Mangrove
-    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
-    RAP publication 2006/07 Food and Agriculture Organization of the
-    United Nations Regional Office for Asia and the Pacific Bangkok.
-  
-  **References**
-  - Hsuan Keng,
-    S.C. Chin and H. T. W. Tan. 1990, *[The
+links_references: "**Links**\n- [*Tristellateia\n  australasiae*](http://floraofsingapore.wordpress.com/2010/03/26/tristellateia-australasiae/)\
+  \ on Total Vascular Flora of Singapore Online:\n  photos and fact sheet.\n- Giesen,\
+  \ Wim\n  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.\n  [*Mangrove\n\
+  \  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)\
+  \ (PDF online downloadable).\n  RAP publication 2006/07 Food and Agriculture Organization\
+  \ of the\n  United Nations Regional Office for Asia and the Pacific Bangkok.\n\n\
+  **References**\n- Hsuan Keng,\n  S.C. Chin and H. T. W. Tan. 1990, *[The\n"
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/tristellateia/australasiae/090912chgbwd0580m3.jpg"
-      caption: "Changi, Sep 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/tristellateia/australasiae/090912chgbwd0578m3.jpg"
-      caption: "Changi, Sep 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/tristellateia/australasiae/090912chgbwd0575m6la.jpg"
-      caption: "Planted. Changi, Sep 09"
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/tristellateia/australasiae/090912chgbwd0580m3.jpg
+    caption: Changi, Sep 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/tristellateia/australasiae/090912chgbwd0578m3.jpg
+    caption: Changi, Sep 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/tristellateia/australasiae/090912chgbwd0575m6la.jpg
+    caption: Planted. Changi, Sep 09
   gallery2:
-    - url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
-      caption: "Links Tristellateia australasiae on Total Vascular Flora of Singapore Online: photos and fact sheet. Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006. Mangrove Guidebook for Southeast Asia (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok. References Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University Press. 222 pp."
+  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
+    caption: 'Links Tristellateia australasiae on Total Vascular Flora of Singapore
+      Online: photos and fact sheet. Giesen, Wim and Stephan Wulffraat, Max Zieren
+      and Liesbeth Scholten. 2006. Mangrove Guidebook for Southeast Asia (PDF online
+      downloadable). RAP publication 2006/07 Food and Agriculture Organization of
+      the United Nations Regional Office for Asia and the Pacific Bangkok. References
+      Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore:
+      Gymnosperms and Dicotyledons . Singapore University Press. 222 pp.'
+size:
+- 300.0
+- 600.0
+- 1000.0
 ---
 
 ## Where seen?
@@ -63,7 +65,7 @@ Growing wild in a mangrove
 *Kranji Nature Trail, Dec 09*
 
 **Sometimes confused with**
-[Kuku tupai](../caesalpinia/crista.md)
+[Kuku tupai](../caesalpinia/crista)
 (
 *Caesalpinia crista*
 ) when in bloom.

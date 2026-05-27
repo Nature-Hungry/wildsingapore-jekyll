@@ -1,10 +1,8 @@
 ---
 title: Broad-nosed halfbeak
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: broad, nose, halfbeak, half, beak, hemiramphidae, fish, field, guide, 
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: broad, nose, halfbeak, half, beak, hemiramphidae, fish, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 9
@@ -24,55 +22,41 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Beloniformes
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/060723skdd4760m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/060723skdd4760m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/060723skdd4760m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/060723skdd4760m3.jpg
     caption: Pulau Sekudu, Jul 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/090606tmftd3297m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/090606tmftd3297m6l.jpg
     caption: Tanah Merah, Jun 09
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/070812sisg1982m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/070812sisg1982m6l.jpg
     caption: Sisters Island, Aug 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/110730tmftd7525m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/110730tmftd7525m3.jpg
     caption: Is this a juvenile? Tanah Merah, Jul 11
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/150731ecpmn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/150731ecpmn.jpg
     caption: East Coast, Jul 15 Photo shared by Marcus Ng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/170428ecpcnlks4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/170428ecpcnlks4.jpg
     caption: East Coast PCN, Apr 17 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/090922labnml3m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/090922labnml3m3.jpg
     caption: Labrador, Sep 09 Photo shared by Neo Mei Lin on her blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/251011lablks9.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/251011lablks9.jpg
     caption: Labrador, Oct 25 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/110904sntlks6m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/110904sntlks6m3.jpg
     caption: Sentosa, Sep 11 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/250909laztt6.jpg
-    caption: Seringat-Kias mangrove lagoon, Sep 25 Photo shared by Tommy Tan on 
-      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/250909laztt6.jpg
+    caption: Seringat-Kias mangrove lagoon, Sep 25 Photo shared by Tommy Tan on facebook
+      .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/210113smkwjll1.jpg
-    caption: Pulau Semakau (West), Jan 21 Photo shared by Jianlin Liu on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/100418smkjk.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/210113smkwjll1.jpg
+    caption: Pulau Semakau (West), Jan 21 Photo shared by Jianlin Liu on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/100418smkjk.jpg
     caption: Pulau Semakau, Apr 10 Photo shared by James Koh on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/091205sudjk11m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/091205sudjk11m3.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by James Koh on flickr .
 location:
 - pgl
@@ -92,6 +76,9 @@ location:
 - smk
 - rfl
 - lfa
+size:
+- 6.0
+- 8.0
 ---
 
 ## Where seen?

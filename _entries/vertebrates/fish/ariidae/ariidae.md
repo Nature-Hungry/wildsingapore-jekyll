@@ -1,9 +1,8 @@
 ---
 title: Sea catfishes
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: sea, catfish, cat, fish, ariidae, field, guide, seashore, sea, shore, 
-  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: sea, catfish, cat, fish, ariidae, field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 9
@@ -24,68 +23,108 @@ superorder: Ostariophysi
 order: Siluriformes
 suborder: Siluroidei
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/ariidae/ariidae/040509skdad0088m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ariidae/ariidae/040509skdad0088m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ariidae/ariidae/040509skdad0088m3.jpg
-    caption: This large one (about 30cm) was caught by a fisherman. Pulau 
-      Sekudu, May 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ariidae/ariidae/020101bcjd4293m3.jpg
-    caption: This large one (20cm) was trapped in a rock pool at low tide. Chek 
-      Jawa, Jan 02
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ariidae/ariidae/030608cjd0063m3.jpg
-    caption: Small ones (about 6cm) are sometimes seen in large numbers on the 
-      shores. Chek Jawa, Jun 03
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ariidae/ariidae/040509skdad0088m3.jpg
+    caption: This large one (about 30cm) was caught by a fisherman. Pulau Sekudu,
+      May 04
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ariidae/ariidae/020101bcjd4293m3.jpg
+    caption: This large one (20cm) was trapped in a rock pool at low tide. Chek Jawa,
+      Jan 02
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ariidae/ariidae/030608cjd0063m3.jpg
+    caption: Small ones (about 6cm) are sometimes seen in large numbers on the shores.
+      Chek Jawa, Jun 03
+links_references: '**Links**
+
   - [Yellow Sea Catfish (
+
   *Arius venosus*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/223.md)
+
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/223)
+
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
+
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
+
   . Singapore Science Centre. 163 pp.
+
   - [Ariidae (Sea catfishes)](https://singapore.biodiversity.online/taxon/A-Vert-Fish-Siluriformes-Ariidae)
+
   on The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.
+
   - [Family Ariidae](http://www.fishbase.org/summary/FamilySummary.php?ID=145)
+
   and
+
   *[Arius gagora](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=24982)*
+
   and
+
   *[Arius leptonotacanthus](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=23380)*
+
   and
+
   *[Arius oetik](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=23384)*
+
   and
+
   *[Sciades sona](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=1294)*
+
   and
+
   *[Hexanematichthys sagor](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=1281)*
+
   and
+
   *[Netuma bilineata](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=11740)*
+
   and
+
   *[Osteogeneiosus militaris](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=1299)*
+
   and
+
   *[Plicofollis argyropleuron](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=11739)*
+
   and
+
   *[Plicofollis nella](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=23383)*
+
   from
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheet on the order, including fact sheets.
 
+
   **References**
+
   - Ng, H. H., 2012.
+
   *The ariid catfishes of Singapore*
+
   . Nature in Singapore, 5: 211-222. [PDF, 938 KB]
+
   - Wee Y.C. and Peter K. L. Ng. 1994.
+
   *A First Look at Biodiversity in Singapore*
+
   . National Council on the Environment. 163pp.
+
   - Allen, Gerry, 2000.
+
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
+
   . Periplus Editions. 292 pp.
+
+  '
 location:
 - cj
 - skd
+size:
+- 20.0
+- 30.0
 ---
 
 ## Where seen?
@@ -110,7 +149,7 @@ previously known as
 The males usually carry the relatively large eggs in his mouth until the eggs hatch.
 
 **Sometimes mistaken for**
-[eel-tail catfishes](../plotosidae/plotosidae.md)
+[eel-tail catfishes](../plotosidae/plotosidae)
 . Eel-tail catfishes also have barbels but their tail fins are eel-like and not forked as in the sea catfishes.
 
 **What do they eat?**

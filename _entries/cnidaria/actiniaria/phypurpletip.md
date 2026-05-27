@@ -1,10 +1,9 @@
 ---
 title: Purple-tip frilly anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: purple, tip, frilly, anemone, phymanthus, phymantidae, actiniaria, 
-  cnidrian, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: purple, tip, frilly, anemone, phymanthus, phymantidae, actiniaria, cnidrian,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 attributes:
 - 6
@@ -23,50 +22,36 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
 updated: Nov 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/060102sisg3682m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/060102sisg3682m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/060102sisg3682m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/060102sisg3682m3.jpg
     caption: Sisters Islands, Jan 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/060102sisg3682m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/060102sisg3682m3a.jpg
     caption: Fine white lines radiating from the mouth.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/060102sisg3682m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/060102sisg3682m3b.jpg
     caption: Purple or violet tips.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/110220lazlks1m3.JPG
-    caption: Lazarus Island, Feb 11 Photo shared by Loh Kok Sheng on his flickr 
-      .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/100516jngmn1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/110220lazlks1m3.JPG
+    caption: Lazarus Island, Feb 11 Photo shared by Loh Kok Sheng on his flickr .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/100516jngmn1m3.jpg
     caption: Pulau Jong, May 10 Photo shared by Marcus Ng on his flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/180715thndc5.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/180715thndc5.jpg
     caption: Terumbu Hantu, Jul 18 Photo shared by Dayna Cheah on facebook .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/160806tplmn4.jpg
-    caption: Terumbu Pempang Laut, Aug 16 Photo shared by Marcus Ng on facebook 
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/160806tplmn4.jpg
+    caption: Terumbu Pempang Laut, Aug 16 Photo shared by Marcus Ng on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/120721tptlks.JPG
+    caption: Terumbu Pempang Laut, Jul 12 Photo shared by Loh Kok Sheng on flickr
       .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/120721tptlks.JPG
-    caption: Terumbu Pempang Laut, Jul 12 Photo shared by Loh Kok Sheng on 
-      flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/100529pbrkmn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/100529pbrkmn.jpg
     caption: Pulau Berkas, May 10 Photo shared by Marcus Ng on flickr .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/091231biod7020m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/091231biod7020m3.jpg
     caption: Pulau Biola, Dec 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/091205pawlks18m3.jpg
-    caption: Raffles Lighthouse, Jul 07 Photo shared by Loh Kok Sheng on his 
-      flickr .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/091205pawlks18m3.jpg
+    caption: Raffles Lighthouse, Jul 07 Photo shared by Loh Kok Sheng on his flickr
+      .
 location:
 - cj
 - lab
@@ -84,6 +69,9 @@ location:
 - tsm
 - rfl
 - lfa
+size:
+- 8.0
+- 12.0
 ---
 
 ## Where seen?

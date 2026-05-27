@@ -21,31 +21,40 @@ class: Magnoliopsida
 order: Magnoliales
 updated: Jan 13
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/knema/globularia/040208cjd0011m3.jpg
-links_references: |
-  **Links**
-  - [*Knema
-    globularia*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2982)
-    on the NParks Flora and Fauna website: photos and fact sheet.
-  
-  **References**
-  - Hsuan Keng,
-    S.C. Chin and H. T. W. Tan. 1990, *[The
+links_references: "**Links**\n- [*Knema\n  globularia*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2982)\n\
+  \  on the NParks Flora and Fauna website: photos and fact sheet.\n\n**References**\n\
+  - Hsuan Keng,\n  S.C. Chin and H. T. W. Tan. 1990, *[The\n"
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/knema/globularia/080412cjd1319m3.jpg"
-      caption: "Chek Jawa, Aug 04"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/knema/globularia/080412cjd1319m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/knema/globularia/080412cjd1319m3b.jpg"
-      caption: ""
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/knema/globularia/080412cjd1319m3.jpg
+    caption: Chek Jawa, Aug 04
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/knema/globularia/080412cjd1319m3a.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/knema/globularia/080412cjd1319m3b.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/knema/globularia/070623cjd2686m6l.jpg"
-      caption: "Chek Jawa, Jun 07"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/knema/globularia/090926cjd1856m3.jpg"
-      caption: "Chek Jawa, Sep 09"
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/knema/globularia/070623cjd2686m6l.jpg
+    caption: Chek Jawa, Jun 07
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/knema/globularia/090926cjd1856m3.jpg
+    caption: Chek Jawa, Sep 09
   gallery3:
-    - url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
-      caption: "Links Knema globularia on the NParks Flora and Fauna website: photos and fact sheet. References Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University Press. 222 pp. Tan, Hugh T.W. and T. Morgany. 2001. Growing the Native Plants of Singapore . BP Science Centre Guidebook. 168pp. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444. Corners, E. J. H., 1997. Wayside Trees of Malaya: in two volumes . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236. Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red Data Book: Threatened plants and animals of Singapore . Nature Society (Singapore). 285 pp."
+  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
+    caption: 'Links Knema globularia on the NParks Flora and Fauna website: photos
+      and fact sheet. References Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The
+      Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University
+      Press. 222 pp. Tan, Hugh T.W. and T. Morgany. 2001. Growing the Native Plants
+      of Singapore . BP Science Centre Guidebook. 168pp. Burkill, I. H., 1993. A Dictionary
+      of the Economic Products of the Malay Peninsula . 3rd printing. Publication
+      Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume
+      2: 1241-2444. Corners, E. J. H., 1997. Wayside Trees of Malaya: in two volumes
+      . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp,
+      plates 1-38; volume 2: 477-861 pp., plates 139-236. Davison, G.W. H. and P.
+      K. L. Ng and Ho Hua Chew, 2008. The Singapore Red Data Book: Threatened plants
+      and animals of Singapore . Nature Society (Singapore). 285 pp.'
+size:
+- 400.0
+- 500.0
+- 2400.0
 ---
 
 ## Where seen?

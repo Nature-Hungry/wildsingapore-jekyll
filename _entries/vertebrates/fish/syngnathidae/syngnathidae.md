@@ -1,10 +1,8 @@
 ---
 title: 'Pipefishes '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: pipefish, pipe, fish, horse, seahorse, syngnathidae, field, guide, 
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: pipefish, pipe, fish, horse, seahorse, syngnathidae, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Syngnathidae
 genus: ''
@@ -20,84 +18,116 @@ superorder: Acanthomorpha
 order: Syngnathiformes
 suborder: Syngnathoidei
 updated: Oct 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... The males look after the 
-      eggs! They are globally endangered due to overharvesting for the 
-      traditional medicine trade. They are hard to spot and can't move fast. 
-      Watch your step or you might step on one!
+    caption: if you learn only 3 things about them ... The males look after the eggs!
+      They are globally endangered due to overharvesting for the traditional medicine
+      trade. They are hard to spot and can't move fast. Watch your step or you might
+      step on one!
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: The males look after the eggs! They are globally endangered due to 
-      overharvesting for the traditional medicine trade. They are hard to spot 
-      and can't move fast. Watch your step or you might step on one!
+    caption: The males look after the eggs! They are globally endangered due to overharvesting
+      for the traditional medicine trade. They are hard to spot and can't move fast.
+      Watch your step or you might step on one!
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg
-    caption: Often seen in a pair. Flexible tail used to hang onto objects. 
-      Tanah Merah, Aug 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/080523cyrd3895m3c.jpg
-    caption: The Alligator pipefish also has a rehensile tail. Cyrene Reef, May 
-      08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/070702chgd3169m3.jpg
-    caption: Mobile eyes can move while the body remains still. Toothless jaws 
-      used like a straw. Changi, Jul 07
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg
+    caption: Often seen in a pair. Flexible tail used to hang onto objects. Tanah
+      Merah, Aug 09
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/080523cyrd3895m3c.jpg
+    caption: The Alligator pipefish also has a rehensile tail. Cyrene Reef, May 08
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/070702chgd3169m3.jpg
+    caption: Mobile eyes can move while the body remains still. Toothless jaws used
+      like a straw. Changi, Jul 07
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/120312siss04823m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/120312siss04823m3.jpg
     caption: Very pregnant seahorse papa. Sisters Island, Mar 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/060724chgg4880m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/060724chgg4880m3.jpg
     caption: Some seahorses are tiny! Watch your step! Changi, Jul 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/seagrass/130624chg7d8080m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/seagrass/130624chg7d8080m3.jpg
     caption: Very pregnant piepfish papa. Changi, Jun 13
-links_references: |
-  **Links**
-  - [Pipefish (Family Syngnathidae)](http://mangrove.nus.edu.sg/pub/seashore/text/230.md)
+links_references: '**Links**
+
+  - [Pipefish (Family Syngnathidae)](http://mangrove.nus.edu.sg/pub/seashore/text/230)
+
   ,
+
   [Seahorse (
+
   *Hippocampus*
-  sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/229.md)
+
+  sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/229)
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988,
+
   *A
+
   [Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+
   . The Singapore Science Centre, Singapore. 160 pp.
+
   - [Blue-speckled Pipefish (
+
   *Hippichthys cyanospilus*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/250.md)
+
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/250)
+
   ,
+
   [Spotted Seahorse (
+
   *Hippocampus kuda*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/248.md)
+
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/248)
+
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
+
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
+
   . Singapore Science Centre. 163 pp.
+
   - [Project Seahorse](http://seahorse.fisheries.ubc.ca/)
+
   : THE website for everything about seahorses, it also has lots of info about pipefish.
+
   - [Save our Seahorses](http://sosmalaysia.org/)
+
   focusing on seahorses and their habitats in Pulai Johor
 
+
   **References**
+
   - Wee Y.C. and Peter K. L. Ng. 1994.
+
   *A First Look at Biodiversity in Singapore*
+
   . National Council on the Environment. 163pp.
+
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+
   . Nature Society (Singapore). 285 pp.
+
   - Allen, Gerry, 2000.
+
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
+
   . Periplus Editions. 292 pp.
+
   - Kuiter, Rudie H. 2002.
+
   *Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers & Fishermen*
+
   New Holland Publishers. 434pp.
+
   - Lieske, Ewald and Robert Myers. 2001.
+
   *Coral Reef Fishes of the World*
+
   Periplus Editions. 400pp.
+
+  '
 location:
 - pgl
 - prp
@@ -149,10 +179,10 @@ ike other creatures of the intertidal zone, they are affected by human activitie
 
 **Family Syngnathidae**
 
-**[Pipefishes](pipefish.md)**
+**[Pipefishes](pipefish)**
 with list of species recorded for Singapore
 
-**[Seahorses](hippocampus.md)**
+**[Seahorses](hippocampus)**
 with list of species recorded for Singapore
 
 ---

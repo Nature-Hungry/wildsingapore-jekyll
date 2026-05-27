@@ -1,10 +1,9 @@
 ---
 title: Candystripe cardinalfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: candy, stripe,cardinalfish, cardinal, fish, ostorhinchus, apogon, 
-  endekataenia, apogonidae, field, guide, seashore, sea, shore, marine, coastal,
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: candy, stripe,cardinalfish, cardinal, fish, ostorhinchus, apogon, endekataenia,
+  apogonidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 25
@@ -25,46 +24,60 @@ order: Gobiiformes
 suborder: Apogonoidei
 subfamily: Apogoninae
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/candystripe/110506tmftd0831.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/candystripe/110506tmftd0831.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/candystripe/110506tmftd0831.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/candystripe/110506tmftd0831.jpg
     caption: Tanah Merah, May 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/candystripe/110831tmnbd0570m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/candystripe/110831tmnbd0570m6l.jpg
     caption: Tanah Merah, Aug 11
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/candystripe/100528tkkd3753m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/candystripe/100528tkkd3753m6l.jpg
     caption: Pulau Tekukor, May 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/candystripe/120424tmnbd0485m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/candystripe/120424tmnbd0485m3.jpg
     caption: Tanah Merah, Apr 12
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - *[Ostorhinchus endekataenia](http://www.fishbase.org/summary/6524)*
+
   [(Candystripe cardinalfish)](http://www.fishbase.org/summary/6524)
+
   from
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheet with photo.
+
   - [Cardinalfishes](http://ikanfish.wordpress.com/cardinalfishes/)
+
   on Reef Fishes of Singapore by Jeffrey Low.
 
+
   **References**
+
   - Allen, Gerry, 2000.
+
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
+
   . Periplus Editions. 292 pp.
+
   - Lieske, Ewald and Robert Myers. 2001.
+
   *Coral Reef Fishes of the World*
+
   Periplus Editions. 400pp.
+
+  '
 location:
 - pgl
 - tm
 - tkr
 - kus
 - hnt
+size:
+- 14.0
+- 5.0
+- 7.0
 ---
 
 ## Where seen?

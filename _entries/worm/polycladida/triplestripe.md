@@ -1,10 +1,9 @@
 ---
 title: Triple-striped flatworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: flat, worm, flatworm, pseudoceros, tristriatus, polyclad, turbellaria,
-  platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: flat, worm, flatworm, pseudoceros, tristriatus, polyclad, turbellaria, platyhelminthes,  field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 family: Pseudocerotidae
 genus: Pseudoceros
@@ -18,83 +17,60 @@ subphylum: Rhabditophora
 order: Polycladida
 suborder: Cotylea
 updated: Feb 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/060810rlhd5700m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/060810rlhd5700m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/060810rlhd5700m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/060810rlhd5700m3.jpg
     caption: Raffles Lighthouse, Aug 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/060810rlhd5700m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/060810rlhd5700m3a.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/160124smkelks2.jpg
-    caption: Pulau Semakau East, Jan 16 Photo shared by Loh Kok Sheng on 
-      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/160124smkelks2.jpg
+    caption: Pulau Semakau East, Jan 16 Photo shared by Loh Kok Sheng on facebook
+      .
   gallery2:
   - url: https://live.staticflickr.com/7565/27543298016_5f69908b1c_z.jpg
     caption: ''
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/160625tkklks1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/160625tkklks1.jpg
     caption: Pulau Tekukor, Jun 16 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/210824tkktch1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/210824tkktch1.jpg
     caption: Pulau Tekukor, Aug 21 Photo shared by Toh Chay Hoon on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/130211sjilks1m3.JPG
-    caption: St. John's Island, Feb 13 Photo shared by Loh Kok Sheng on his blog
-      .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/220419sjijll1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/130211sjilks1m3.JPG
+    caption: St. John's Island, Feb 13 Photo shared by Loh Kok Sheng on his blog .
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/220419sjijll1.jpg
     caption: St. John's Island, Apr 22 Photo shared by Jianlin Liu on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/251009sjijll1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/251009sjijll1.jpg
     caption: St. John's Island, Oct 25 Photo shared by Jianlin Liu on facebook .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/250909lazml1.jpg
-    caption: Seringat-Kias mangrove lagoon, Sep 25 Photo shared by Mathias Luk 
-      on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/230901kustl1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/250909lazml1.jpg
+    caption: Seringat-Kias mangrove lagoon, Sep 25 Photo shared by Mathias Luk on
+      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/230901kustl1.jpg
     caption: Kusu Island, Sep 23 Photo shared by Tammy Lim on facebook .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/090509sislks1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/090509sislks1.jpg
     caption: Sisters Island, May 09 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/250201bsisvc1.jpg
-    caption: Big Sisters Island, Feb 25 Photo shared by Vincent Choo on facebook
-      .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/250810bsisjll1.jpg
-    caption: Big Sisters Island, Aug 25 Photo shared by Jianlin Liu on facebook 
-      .
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/250201bsisvc1.jpg
+    caption: Big Sisters Island, Feb 25 Photo shared by Vincent Choo on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/250810bsisjll1.jpg
+    caption: Big Sisters Island, Aug 25 Photo shared by Jianlin Liu on facebook .
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/120707jnglks4m3.JPG
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/120707jnglks4m3.JPG
     caption: Pulau Jong, Jun 12 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/210812jngjk1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/210812jngjk1.jpg
     caption: Pulau Jong, Aug 21 Photo shared by James Koh on flickr
   gallery8:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/250331hntjll1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/250331hntjll1.jpg
     caption: Pulau Hantu, Apr 25 Photo shared by Jianlin Liu on facebook .
   gallery9:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/241116smksvc2.jpg
-    caption: Pulau Semakau (South), Nov 24 From video shared by Vincent Choo on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/230708smketch1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/241116smksvc2.jpg
+    caption: Pulau Semakau (South), Nov 24 From video shared by Vincent Choo on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/230708smketch1.jpg
     caption: Pulau Semakau East, Jul 23 Photo shared by Chay Hoon on facebook .
   gallery10:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/240412tbtl1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/240412tbtl1.jpg
     caption: Terumbu Bemban, Apr 24 Photo shared by Tammy Lim on facebook .
 location:
 - tkr
@@ -107,6 +83,9 @@ location:
 - smk
 - tsm
 - rfl
+size:
+- 2.0
+- 4.0
 ---
 
 ## Where seen?
@@ -120,7 +99,7 @@ Worms with only the centre line clear while the outer two lines are faded may be
 
 **Sometimes mistaken for**
 the
-[Ocher-striped flatworm](rubrotentaculatus.md)
+[Ocher-striped flatworm](rubrotentaculatus)
 which also has three lines in the centre of the body, but the lines are bordered dark brown or purplish brown.
 
 According to Rene Ong, this flatworm resembles
@@ -133,7 +112,7 @@ in Singapore.
 
 **Sometimes mistaken for**
 similar flatworms. Here's more on how to tell apart small flatworms with
-[one central line and three central lines](cfstriped.md)
+[one central line and three central lines](cfstriped)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

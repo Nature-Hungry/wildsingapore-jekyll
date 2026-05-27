@@ -17,36 +17,36 @@ updated: Apr 2020
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/040703sisd1564m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/040703sisd1564m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/mexicana/040901sjid6072m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/scalpelliformis/050428cftg5309m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/041116labd8420m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/mexicana/040901sjid6072m3b.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/scalpelliformis/050428cftg5309m3a.jpg"
-      caption: ""
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/040703sisd1564m3.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/mexicana/040901sjid6072m3.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/scalpelliformis/050428cftg5309m3.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/041116labd8420m3a.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/mexicana/040901sjid6072m3b.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/scalpelliformis/050428cftg5309m3a.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/sertularioides/050623cjd4103m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/050621skdg7924m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/050610sntg7630m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/sertularioides/050621skdg7890m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/050621skdg7924m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/050610sntg7630m3a.jpg"
-      caption: ""
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/sertularioides/050623cjd4103m3.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/050621skdg7924m3.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/050610sntg7630m3.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/sertularioides/050621skdg7890m3a.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/050621skdg7924m3a.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/050610sntg7630m3a.jpg
+    caption: ''
   gallery3:
-    - url: "http://www.wildsingapore.com/seagrass/spinulosa/070716chgd4197m3.jpg"
-      caption: Fern seagrass Halophila spinulosa
-    - url: "http://www.wildsingapore.com/seagrass/spinulosa/030928cjd0024m3a.jpg"
-      caption: ""
+  - url: http://www.wildsingapore.com/seagrass/spinulosa/070716chgd4197m3.jpg
+    caption: Fern seagrass Halophila spinulosa
+  - url: http://www.wildsingapore.com/seagrass/spinulosa/030928cjd0024m3a.jpg
+    caption: ''
 ---
 
 These three seaweeds are sometimes confused for one another. Here's more on how to tell them apart.
@@ -64,7 +64,7 @@ These three seaweeds are sometimes confused for one another. Here's more on how 
 ---
 
 how to tell apart
-[seagrasses and seaweeds](../../../glossary/seagrassweed.md)
+[seagrasses and seaweeds](../../../glossary/seagrassweed)
 
 ---
 

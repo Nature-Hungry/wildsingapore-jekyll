@@ -1,10 +1,9 @@
 ---
 title: Zebra moon snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: zebra, moon, snail, shell, tanea, natica, areolata, naticidae, 
-  gastropod, mollusc, sand, collar, field, guide, seashore, sea, shore, marine, 
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: zebra, moon, snail, shell, tanea, natica, areolata, naticidae, gastropod,
+  mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Naticidae
 genus: Tanea
@@ -20,56 +19,49 @@ order: Littorinimorpha
 superfamily: Naticoidea
 subfamily: Naticinae
 updated: Aug 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/zebra/080519sisd3457m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/zebra/080519sisd3457m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/zebra/080519sisd3457m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/zebra/080519sisd3457m3.jpg
     caption: Sisters Island, May 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/zebra/080519sisd3457m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/zebra/080519sisd3457m3b.jpg
     caption: Dragging a tiny snail shell at the tip of the foot.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/zebra/050807sjig0641m3.jpg
-    caption: Small depression on underside. Operculum pearly white with yellow 
-      smudge. St John's Island, Aug 05
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/zebra/050807sjig0641m3.jpg
+    caption: Small depression on underside. Operculum pearly white with yellow smudge.
+      St John's Island, Aug 05
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/zebra/081231bsistch.jpg
-    caption: Big Sisters Island, Dec 08 Photo shared by Toh Chay Hoon on flickr 
-      .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/zebra/230123bsisjll1.jpg
-    caption: Big Sisters Island, Jan 23 Photo shared by Jianlin Liu on facebook 
-      .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/zebra/230831sjijk1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/zebra/081231bsistch.jpg
+    caption: Big Sisters Island, Dec 08 Photo shared by Toh Chay Hoon on flickr .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/zebra/230123bsisjll1.jpg
+    caption: Big Sisters Island, Jan 23 Photo shared by Jianlin Liu on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/zebra/230831sjijk1.jpg
     caption: St. John's Island, Aug 23 Photo shared by James Koh on facebook .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/zebra/141109lazlks7m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/zebra/141109lazlks7m3.jpg
     caption: Seringat-Kias, Nov 14 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/zebra/100711cyrnml1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/zebra/100711cyrnml1m3.jpg
     caption: Cyrene Reef, Jul 10 Photo shared by Neo Mei Lin on her blog .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/zebra/120819cyrlks1.JPG
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/zebra/120819cyrlks1.JPG
     caption: Cyrene Reef, Aug 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/zebra/120819cyrlks2.JPG
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/zebra/120819cyrlks2.JPG
     caption: Photo shared by Loh Kok Sheng on flickr .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Natica areolata*](http://www.sealifebase.org/Summary/SpeciesSummary.php?ID=90352)
+
   on SeaLife Base: Technical fact sheet.
+
+  '
 location:
 - tm
 - laz
 - sji
 - sis
 - cyr
+size:
+- 2.0
+- 3.0
 ---
 
 ## Where seen?

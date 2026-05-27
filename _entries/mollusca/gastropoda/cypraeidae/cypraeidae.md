@@ -1,10 +1,9 @@
 ---
 title: Cowries
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: cowrie, cypraeidae, cypraea, gastropod, mollusc, snail, shell, field, 
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: cowrie, cypraeidae, cypraea, gastropod, mollusc, snail, shell, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 attributes: []
 family: Cypraeidae
@@ -19,133 +18,156 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Cypraeoidea
 updated: Jul 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/040730skdd3368m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/040730skdd3368m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Cowries are often well 
-      camouflaged. Look carefully for them. Their shells are highly prized, thus
-      cowries are threatened by over-collection. With their shells covered, 
-      coowries are sometimes mistaken for slugs!
+    caption: if you learn only 3 things about them ... Cowries are often well camouflaged.
+      Look carefully for them. Their shells are highly prized, thus cowries are threatened
+      by over-collection. With their shells covered, coowries are sometimes mistaken
+      for slugs!
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Cowries are often well camouflaged. Look carefully for them. Their 
-      shells are highly prized, thus cowries are threatened by over-collection. 
-      With their shells covered, coowries are sometimes mistaken for slugs!
+    caption: Cowries are often well camouflaged. Look carefully for them. Their shells
+      are highly prized, thus cowries are threatened by over-collection. With their
+      shells covered, coowries are sometimes mistaken for slugs!
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/040730skdd3368m3.jpg
-    caption: When covered with the 'hairy' mantle they are often mistaken for 
-      slugs Pulau Sekudu, Jul 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/arabica/050625labg8705m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/040730skdd3368m3.jpg
+    caption: When covered with the 'hairy' mantle they are often mistaken for slugs
+      Pulau Sekudu, Jul 04
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/arabica/050625labg8705m3.jpg
     caption: The animal with tentacles and broad foot. Labrador, Jun 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/110123sisd5313m3.jpg
-    caption: The 'toothed' shell opening is only seen when the animal is 
-      completelyretracted. Changi, Jul 02
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/110123sisd5313m3.jpg
+    caption: The 'toothed' shell opening is only seen when the animal is completelyretracted.
+      Changi, Jul 02
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/noid/090210tmd6904m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/noid/090210tmd6904m3.jpg
     caption: A broken shell shows the internal structure of a typical cowrie.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/noid/240212sjivc6.jpg
-    caption: Young cowrie, has not developed 'teeth' at the shell opening yet. 
-      St John's Island, Feb 24 Photo shared by Vincent Choo on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/noid/240212sjivc6.jpg
+    caption: Young cowrie, has not developed 'teeth' at the shell opening yet. St
+      John's Island, Feb 24 Photo shared by Vincent Choo on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/031011cjd0069m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/031011cjd0069m3.jpg
     caption: Eggs turn dark grey as they mature. Chek Jawa, Oct 03
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/100420sntd1507m3.jpg
-    caption: Mama cowrie under a rock, protecting her egg mass with her foot. 
-      Sentosa, Apr 10
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/100420sntd1507m3.jpg
+    caption: Mama cowrie under a rock, protecting her egg mass with her foot. Sentosa,
+      Apr 10
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/080604kusd4832m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/080604kusd4832m3.jpg
     caption: Wandering cowrie
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/070602sjig9814m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/070602sjig9814m3.jpg
     caption: Ovum cowrie
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/120804bbbd9817m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/120804bbbd9817m3.jpg
     caption: Four-spot cowrie
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/090818tmd9300m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/090818tmd9300m3.jpg
     caption: Miliaris cowrie
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/080604kusd4848m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/080604kusd4848m3.jpg
     caption: Onyx cowrie
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/walkeri/080722cyrd8279m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/walkeri/080722cyrd8279m3.jpg
     caption: Walker's cowrie
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/pyriformis/060625bbd3472m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/pyriformis/060625bbd3472m3.jpg
     caption: Pear-shaped cowrie
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/gracilis/130722skdd9913m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/gracilis/130722skdd9913m3.jpg
     caption: Graceful cowrie
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/saulae/130722skdd9948m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/saulae/130722skdd9948m3a.jpg
     caption: Saul's cowrie
   gallery8:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/arabica/050625labg8698m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/arabica/050625labg8698m3.jpg
     caption: Arabian cowrie
   gallery9:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/moneta/190621cyrvt1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/moneta/190621cyrvt1.jpg
     caption: Money cowrie
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/tigris/130824smklks3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/tigris/130824smklks3.jpg
     caption: Tiger cowrie
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/vitellus/040829ssd5648m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/vitellus/040829ssd5648m3.jpg
     caption: Milk-spotted cowrie
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Wandering Cowrie (
+
   *Cypraea errones*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/141.md)
+
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/141)
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
+
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+
   . The Singapore Science Centre, Singapore. 160 pp.
+
   - [Family Cypraeidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Cypraeidae.html)
+
   on
+
   [The Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html)
-  at Washington State University Tri-Cities Natural History Museum website: brief description and photos.
-  - [Family Cypraeidae (Cowry Shells)](http://seashellsofnsw.org.au/Cypraeidae/Pages/cypraeidae_intro.md)
+
+  at Washington State University Tri-Cities Natural History Museum website: brief
+  description and photos.
+
+  - [Family Cypraeidae (Cowry Shells)](http://seashellsofnsw.org.au/Cypraeidae/Pages/cypraeidae_intro)
+
   on the
-  [The Seashells of New South Wales](http://seashellsofnsw.org.au/index.md)
-  website by Des Beechey Research Associate, Australian Museum: family introductions with photos of shells and detailed fact sheets for many species.
-  - Family Cypraeidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+
+  [The Seashells of New South Wales](http://seashellsofnsw.org.au/index)
+
+  website by Des Beechey Research Associate, Australian Museum: family introductions
+  with photos of shells and detailed fact sheets for many species.
+
+  - Family Cypraeidae in the Gastropods section by J.M. Poutiers in the FAO Species
+  Identification Guide for Fishery Purposes: The Living Marine Resources of the Western
+  Central Pacific
+
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
+
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
+
   **References**
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Tan, K. S. & L. M. Chou, 2000.
+
   *A Guide to the Common Seashells of Singapore*
+
   . Singapore Science Centre. 160 pp.
+
   - Wee Y.C. and Peter K. L. Ng. 1994.
+
   *A First Look at Biodiversity in Singapore*
+
   . National Council on the Environment. 163pp.
+
   - Ng, P. K. L. & Y. C. Wee, 1994.
+
   *The Singapore Red Data Book: Threatened Plants and Animals of Singapore*
+
   . The Nature Society (Singapore), Singapore. 343 pp.
+
   - Abbott, R. Tucker, 1991.
+
   *Seashells of South East Asia*
+
   . Graham Brash, Singapore. 145 pp.
+
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+
   . Nature Society (Singapore). 285 pp.
+
   - Kuiter, Rudie H and Helmut Debelius. 2009.
+
   *World Atlas of Marine Fauna*
+
   . IKAN-Unterwasserachiv. 723pp.
+
+  '
 location:
 - cyr
 ---
@@ -157,7 +179,7 @@ Some species of cowries are still common on all our shores. Even these, however,
 
 **Precious shell:**
 Cowries produce among the most beautiful and highly prized shells. One cowrie was even used as currency by Polynesians in the past; it is called the
-[Money cowrie](moneta.md)
+[Money cowrie](moneta)
 ! However, a living cowrie is even more fascinating than an empty shell of a dead cowrie.
 
 **Two-in-one shell:**
@@ -165,7 +187,7 @@ A young cowrie's first shell is a narrow spiral. As it matures, it encloses this
 
 **Marvellous mantle:**
 When alive and moving around, the cowrie usually encloses its shell with its mantle (a part of its body). The mantle may have a different colour and pattern from the shell and is often also 'textured' with tiny projections. When the shell is covered by the mantle, a cowrie is sometimes mistaken for a slug. Here's more on
-[how to tell apart slugs and animals that look like slugs](../../../glossary/flatwormslug.md)
+[how to tell apart slugs and animals that look like slugs](../../../glossary/flatwormslug)
 .
 
 The fleshy mantle is a highly specialised organ. It is the main architect of the glossy shell, as it lays down a layer of pearl-like substances as well as the colour and patterns. It also repairs and enlarges the shell and protects it from algae and encrusting animals. This is why a cowrie shell is so shiny and smooth. When disturbed, the entire mantle retracts into the shell.
@@ -173,7 +195,7 @@ The fleshy mantle is a highly specialised organ. It is the main architect of the
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
 **What do they eat?**
 As a group, cowries eat a wide variety of things from algae,
-[sponges](../../../porifera/porifera.md)
+[sponges](../../../porifera/porifera)
 to scavenging and carnivorous cowries that eat other snails. Each has a radula adapted to its particular prey. Most cowries live in the intertidal zone, hiding during the day and emerging to feed at night. A cowrie has a pair of tentacles and a siphon, which is part of the mantle modified for breathing and sampling the water to look for food and mates.
 
 **Cowrie babies:**
@@ -186,11 +208,11 @@ Some cowries are popular in the live aquarium trade. Cowries are among the most 
 Recent estimates suggest that half the cowrie species in Singapore have been lost. The Gold-ringed cowrie (
 *Cypraea annulus*
 ) has almost if not completely been wiped out on our shores. This small cowrie was previously found in large groups on our rocky shores and reef flats. It has a narrow yellow band around its greyish-white back. Although considered one of the most common cowries in our region, the
-[Tiger Cowrie](tigris.md)
+[Tiger Cowrie](tigris)
 (
 *Cypraea tigris*
 ) is now rarely seen. Both are listed as 'Endangered' while the
-[Arabian cowrie](arabica.md)
+[Arabian cowrie](arabica)
 (
 *Cypraea arabica*
 ) is listed as 'Vulnerable' on the Red List of threatened animals of Singapore.
@@ -243,16 +265,16 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red D
 ^Blasicrura interrupta=Cypraea interrupta
 
 ^
-[Contradusta walkeri](walkeri.md)
+[Contradusta walkeri](walkeri)
 =Cypraea walkeri*
 (Walker's cowrie)
 *^Cribrarula cribraria=Cypraea cribraria
 
-[Cypraea tigris](tigris.md)*
+[Cypraea tigris](tigris)*
 (Tiger cowrie) (EN: Endangered)
 **
 *^
-[Eclogavena quadrimaculata](quadrimaculata.md)
+[Eclogavena quadrimaculata](quadrimaculata)
 =Cypraea quadrimaculata*
 (Four-spot cowrie)
 **
@@ -261,24 +283,24 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red D
 ^Erronea cylindrica=Cypraea cylindrica
 
 ^
-[Erronea errones](errones.md)
+[Erronea errones](errones)
 =Cypraea errones*
 (Wandering cowrie)
 **
 **
 *^
-[Erronea onyx](onyx.md)
+[Erronea onyx](onyx)
 =Cypraea onyx*
 (Onyx cowrie)
 *^
-[Erronea ovum](ovum.md)
+[Erronea ovum](ovum)
 =Cypraea ovum*
 (Ovum cowrie)
 **
 *^Erronea pallida=Cypraea pallida
 
 ^
-[Erronea pyriformis](pyriformis.md)
+[Erronea pyriformis](pyriformis)
 =Cypraea pyriformis*
 (Pear-shaped cowrie)
 **
@@ -290,7 +312,7 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red D
 ^Erosaria lamarckii=Cypraea lamarckii
 
 ^
-[Erosaria miliaris](milliaris.md)
+[Erosaria miliaris](milliaris)
 =Cypraea miliaris*
 (Miliaris cowrie)
 *^Erosaria nebrites=Cypraea nebrites*
@@ -307,13 +329,13 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red D
 ^Lyncina ventriculus=Cypraea ventriculus
 
 ^
-[Lyncina vitellus](vitellus.md)
+[Lyncina vitellus](vitellus)
 =Cypraea vitellus*
 (Milk-spotted cowrie)
 **
 **
 *^
-[Mauritia arabica](arabica.md)
+[Mauritia arabica](arabica)
 =Cypraea arabica*
 (Arabian cowrie) (VU: Vulnerable)
 *^Mauritia eglantina=Cypraea eglantina
@@ -327,7 +349,7 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red D
 *^Monetaria caputserpentis=Cypraea caputserpentis
 
 ^
-[Monetaria moneta](moneta.md)
+[Monetaria moneta](moneta)
 =Cypraea moneta*
 (Money cowrie)
 
@@ -343,7 +365,7 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red D
 ^Palmadusta lutea=Cypraea lutea
 
 +^
-[Palmadusta saulae](saulae.md)
+[Palmadusta saulae](saulae)
 =Cypraea saulae*
 (Saul's cowrie)
 **
@@ -352,7 +374,7 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red D
 ^Purpuradusta fimbriata=Cypraea fimbriata
 
 ^
-[Purpuradusta gracilis](gracilis.md)
+[Purpuradusta gracilis](gracilis)
 =Cypraea gracilis*
 (Graceful cowrie)
 **

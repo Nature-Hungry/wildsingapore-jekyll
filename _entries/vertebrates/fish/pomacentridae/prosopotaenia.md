@@ -1,10 +1,9 @@
 ---
 title: 'Honey-head damsel '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: honey, head, damsel, dischistodus, prosopotaenia, pomacentridae, 
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: honey, head, damsel, dischistodus, prosopotaenia, pomacentridae, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 attributes:
 - 25
@@ -24,60 +23,78 @@ superorder: Acanthomorpha
 order: Blenniiformes
 subfamily: Pomacentrinae
 updated: Oct 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/prosopotaenia/140531sjid5883m.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/prosopotaenia/140531sjid5883m.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/prosopotaenia/140531sjid5883m.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/prosopotaenia/140531sjid5883m.jpg
     caption: Juvenile. St John's Island, May 14
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/prosopotaenia/111029smkd3142m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/prosopotaenia/111029smkd3142m6l.jpg
     caption: Juvenile. Pulau Semakau, Oct 11
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/prosopotaenia/110605tsmkd3956m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/prosopotaenia/110605tsmkd3956m6l.jpg
     caption: Adult caught in a fishing net. Terumbu Semakau, Jun 11
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/prosopotaenia/251207hntml4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/prosopotaenia/251207hntml4.jpg
     caption: Pulau Hantu, Dec 25 Photo shared by Mathias Luk on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/prosopotaenia/230805thnttl2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/prosopotaenia/230805thnttl2.jpg
     caption: Terumbu Hantu, Aug 23 Photo shared by Tammy Lim on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/prosopotaenia/190707thnll2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/prosopotaenia/190707thnll2.jpg
     caption: Terumbu Hantu, Jul 19 Photo shared by Liz Lim on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Honey-head damsel (
+
   *Dischistodus prosopotaenia*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/343.md)
+
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/343)
+
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
+
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
+
   . Singapore Science Centre. 163 pp.
+
   - [*Dischistodus prosopotaenia*
+
   (Honey-head damsel)](http://www.fishbase.org/summary/6608)
+
   from
+
   [FishBase](http://www.fishbase.org/)
+
   : fact sheet
 
+
   **References**
+
   - Allen, Gerry, 2000.
+
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
+
   . Periplus Editions. 292 pp.
+
   - Lieske, Ewald and Robert Myers. 2001.
+
   *Coral Reef Fishes of the World*
+
   Periplus Editions. 400pp.
+
   - Kuiter, Rudie H. 2002.
+
   *Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers & Fishermen*
+
   New Holland Publishers. 434pp.
+
+  '
 location:
 - sji
 - hnt
 - tpg
 - smk
 - tsm
+size:
+- 16.0
+- 2.0
 ---
 
 ## Where seen?

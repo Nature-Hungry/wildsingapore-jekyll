@@ -26,22 +26,31 @@ updated: Dec 09
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/suregada/multiflora/090912chgbwd0535m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/suregada/multiflora/091031cjd3429m3.jpg"
-      caption: "Changi, Oct 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/suregada/multiflora/091021chgd3004m3b.jpg"
-      caption: "Changi, Oct 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/suregada/multiflora/090912chgbwd0534m3.jpg"
-      caption: "Changi, Sep 09"
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/suregada/multiflora/091031cjd3429m3.jpg
+    caption: Changi, Oct 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/suregada/multiflora/091021chgd3004m3b.jpg
+    caption: Changi, Oct 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/suregada/multiflora/090912chgbwd0534m3.jpg
+    caption: Changi, Sep 09
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/suregada/multiflora/091021chgd3011m3.jpg"
-      caption: "Changi, Oct 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/suregada/multiflora/091021chgd3005m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/suregada/multiflora/091021chgd3005m3b.jpg"
-      caption: ""
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/suregada/multiflora/091021chgd3011m3.jpg
+    caption: Changi, Oct 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/suregada/multiflora/091021chgd3005m3a.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/suregada/multiflora/091021chgd3005m3b.jpg
+    caption: ''
   gallery3:
-    - url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
-      caption: "References Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University Press. 222 pp. Corners, E. J. H., 1997. Wayside Trees of Malaya: in two volumes . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444. Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red Data Book: Threatened plants and animals of Singapore . Nature Society (Singapore). 285 pp."
+  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
+    caption: 'References Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise
+      Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University Press.
+      222 pp. Corners, E. J. H., 1997. Wayside Trees of Malaya: in two volumes . Fourth
+      edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38;
+      volume 2: 477-861 pp., plates 139-236. Burkill, I. H., 1993. A Dictionary of
+      the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit,
+      Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2:
+      1241-2444. Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore
+      Red Data Book: Threatened plants and animals of Singapore . Nature Society (Singapore).
+      285 pp.'
 ---
 
 ## Where seen?

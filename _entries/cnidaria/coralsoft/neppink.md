@@ -1,10 +1,9 @@
 ---
 title: Pink flowery soft coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: pink, flower, dendronephthya, nephtheidae, alcyonacea, soft, coral, 
-  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: pink, flower, dendronephthya, nephtheidae, alcyonacea, soft, coral, cnidaria,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Nephtheidea
 genus: Dendronephthya
@@ -18,42 +17,47 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Nov 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/neppink/080705bbd6921m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/neppink/080705bbd6921m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/neppink/080705bbd6921m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/neppink/080705bbd6921m3.jpg
     caption: Beting Bronok, Jul 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/neppink/080705bbd6921m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/neppink/080705bbd6921m3b.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/neppink/060625bbd3316m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/neppink/060625bbd3316m3.jpg
     caption: Beting Bronok, Jun 06
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/mollusca/gastropoda/ovulidae/softcoral/110518bbd1755m3.jpg
+  - url: http://www.wildsingapore.com/mollusca/gastropoda/ovulidae/softcoral/110518bbd1755m3.jpg
     caption: False cowrie snail . Chek Jawa, Apr 08
-  - url: 
-      http://www.wildsingapore.com/echinodermata/ophiuroidea/tinycolourful/080507skdd2477m3a.jpg
+  - url: http://www.wildsingapore.com/echinodermata/ophiuroidea/tinycolourful/080507skdd2477m3a.jpg
     caption: Tiny colourful brittle star Pulau Sekudu, May 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/neppink/060625bbd3494m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/neppink/060625bbd3494m3b.jpg
     caption: Tiny porcelain crab. Beting Bronok, Jun 06
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Dendronephthya*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Dendronephthya)
+
   on
+
   [Reef Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding)
+
   on the
+
   [Marine Species Identification Portal](http://species-identification.org/index.php)
+
   : Technical fact sheet and photos.
 
+
   **References**
+
   - Fabricius, Katharina and Philip Alderslade, 2001.
+
   *Soft Corals and Sea Fans*
-  . Australian Institute of Marine Science and the Museum and Art Gallery of the Northern Territoriy. 264 pp.
+
+  . Australian Institute of Marine Science and the Museum and Art Gallery of the Northern
+  Territoriy. 264 pp.
+
+  '
 location:
 - chg
 - ubn
@@ -62,6 +66,9 @@ location:
 - bb
 - tus
 - ecp
+size:
+- 10.0
+- 15.0
 ---
 
 ## Where seen?
@@ -72,9 +79,9 @@ This bright pink flowery soft coral is seen on our Northern shores. Attached to 
 Colony tree-like about 10-15cm. Colony is branched with sturdy 'stems' emerging from a stout central 'trunk'. The 'stem' white or transparent, with red or pink sclerites embedded in the tissues. Polyps tiny (about 0.5cm) with eight white branched tentacles. The polyps appear in clusters at the tips of the branches, no obvious large spikes next to the polyps. Tends to be pinkish at the polyp clusters. The animals do not have symbiotic algae (zooxanthellae) and thus can be found in murky water and dark places.
 **Flowery friends:**
 Tiny animals found on the soft coral include tiny
-[false cowrie snails](../../mollusca/gastropoda/ovulidae/softcoral.md)
+[false cowrie snails](../../mollusca/gastropoda/ovulidae/softcoral)
 , tiny porcelain crabs and
-[tiny colourful brittle stars](../../echinodermata/ophiuroidea/tinycolourful.md)
+[tiny colourful brittle stars](../../echinodermata/ophiuroidea/tinycolourful)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 ---

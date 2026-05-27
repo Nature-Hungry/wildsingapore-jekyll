@@ -1,10 +1,9 @@
 ---
 title: 'Halibuts '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: flat, fish, flatfish, halibut, psettodes, erumei psettodidae, 
-  pleuronectiformes,  field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: flat, fish, flatfish, halibut, psettodes, erumei psettodidae, pleuronectiformes,  field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 attributes:
 - 9
@@ -25,51 +24,75 @@ superorder: Acanthomorpha
 order: Carangiformes
 suborder: Pleuronectoidei
 updated: Oct 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/psettodidae/erumei/120327tusd7879m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/psettodidae/erumei/120327tusd7879m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/psettodidae/erumei/120327tusd7879m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/psettodidae/erumei/120327tusd7879m3.jpg
     caption: Juvenile Indian halibut (about 3cm long) Tuas, Mar 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/psettodidae/erumei/090622chgd4715m6l.jpg
-    caption: Indian halibutL Large mouth with fang-like teeth. Tail fin well 
-      separated from dorsal and anal fins. Changi, Jun 09
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/psettodidae/erumei/090622chgd4715m6l.jpg
+    caption: Indian halibutL Large mouth with fang-like teeth. Tail fin well separated
+      from dorsal and anal fins. Changi, Jun 09
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/psettodidae/erumei/250615chg6al1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/psettodidae/erumei/250615chg6al1.jpg
     caption: Changi Carpark 6, Jun 25 Photo shared by Adriane Lee on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Indian Halibut (
+
   *Psettodes erumei*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/383.md)
+
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/383)
+
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
+
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
+
   . Singapore Science Centre. 163 pp.
+
   - [Family Psettodidae](http://www.fishbase.org/Summary/FamilySummary.php?ID=437)
+
   and
+
   [Indian spiny turbot (
+
   *Psettodes erumei*
+
   )](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=513)
+
   from
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheet on the family and fact sheets on individual species.
-  - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.md)
-  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
+
+  - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00)
+
+  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources
+  of the Western Central Pacific.
+
 
   **References**
+
   - Wee Y.C. and Peter K. L. Ng. 1994.
+
   *A First Look at Biodiversity in Singapore*
+
   . National Council on the Environment. 163pp.
+
   - Allen, Gerry, 2000.
+
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
+
   . Periplus Editions. 292 pp.
+
+  '
 location:
 - chg
 - tus
 - ecp
+size:
+- 60.0
+- 20.0
 ---
 
 ## Where seen?
@@ -78,7 +101,7 @@ The Indian halibut (
 ) is sometimes seen on some of our shores, often near seagrasses.
 **What are halibuts?**
 They are
-[flatfishes](../pleuronectiformes/pleuronectiformes.md)
+[flatfishes](../pleuronectiformes/pleuronectiformes)
 that belong to the Family Psettodidae. According to
 [FishBase](http://www.fishbase.org/Summary/FamilySummary.php?ID=437)
 : the family has 1 genera and 3 species found in West Africa and the Indo-West Pacific. They are considered the most primitive of the flatfishes for some of their body characteristics and their habit of often swimming in an upright position. The only species that occurs in our region is the Indian halibut (
@@ -91,9 +114,9 @@ The Indian halibut grows to about 60cm, the one seen was about 20cm long. Eyes s
 
 **Sometimes confused with**
 other
-[flatfishes](../pleuronectiformes/pleuronectiformes.md)
+[flatfishes](../pleuronectiformes/pleuronectiformes)
 . Here's more on
-[how to tell apart the flatfish families](../pleuronectiformes/pleuronectiformes1.md)
+[how to tell apart the flatfish families](../pleuronectiformes/pleuronectiformes1)
 commonly seen.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**

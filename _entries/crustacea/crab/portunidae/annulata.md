@@ -1,10 +1,9 @@
 ---
 title: Banded-leg swimming crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: banded, ring, leg, legged, swimming, crab, charybdis, annulata, 
-  portunidae, decapod, crustrace, field, guide, seashore, sea, shore, marine, 
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: banded, ring, leg, legged, swimming, crab, charybdis, annulata, portunidae,
+  decapod, crustrace, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 38
@@ -34,56 +33,68 @@ superfamily: Portunoidea
 subfamily: Thalamitinae
 subgenus: Charybdis
 updated: Dec 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/annulata/080719sntd7851m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/annulata/080719sntd7851m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/annulata/080719sntd7851m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/annulata/080719sntd7851m3.jpg
     caption: Sentosa, Jul 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/annulata/080719sntd7851m3c.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/annulata/080719sntd7851m3c.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/annulata/110504nsrccd0574m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/annulata/110504nsrccd0574m3.jpg
     caption: East Coast, May 11
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/annulata/090820ecplkh1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/annulata/090820ecplkh1m3.jpg
     caption: East Coast, Aug 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/annulata/120802chglks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/annulata/120802chglks.JPG
     caption: Changi, Aug 12 Photo shared by Loh Kok Sheng on flickr .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/annulata/130427sntmn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/annulata/130427sntmn.jpg
     caption: Sentosa, Apr 13 Photo shared by Marcus Ng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/annulata/201213sjivc1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/annulata/201213sjivc1.jpg
     caption: St John's Island, Dec 20 Photo shared by Vincent Choo on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Charybdis annulata*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=83583)
+
   on
+
   [SeaLifeBase](http://www.sealifebase.org/search.php)
+
   : Technical fact sheet.
+
   - [*Charybdis annulata*](Charybdis%20annulata)
+
   on Crabs of Japan in Marine Species Identification Portal: Technical fact sheet.
 
+
   **References**
+
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
-  *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs of the world*
+
+  *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs
+  of the world*
+
   [.](http://lkcnhm.nus.edu.sg/rbz/biblio/s17/s17rbz.pdf)
+
   The Raffles Bulletin of Zoology. Supplement No. 17, 31 Jan 2008. 286 pp.
+
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
+
   *Rhythm of the Sea: The Life and Times of Labrador Beach.*
-  Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+
+  Division of Biology, School of Science, Nanyang Technological University & Department
+  of Zoology, the National University of Singapore. 160 pp.
+
+  '
 location:
 - chg
 - ecp
 - lab
 - snt
 - sji
+size:
+- 5.0
+- 7.0
 ---
 
 ## Where seen?

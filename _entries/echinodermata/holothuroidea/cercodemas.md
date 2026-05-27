@@ -1,10 +1,9 @@
 ---
 title: Pink warty sea cucumber
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: pink, warty, cucumber, seacucumber, cercodemas, anceps, cucumariidae, 
-  holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, 
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: pink, warty, cucumber, seacucumber, cercodemas, anceps, cucumariidae, holothuroidea,
+  echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 0
@@ -26,48 +25,32 @@ class: Holothuroidea
 subclass: Actinopoda
 order: Dendrochirotida
 updated: Apr 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/cercodemas/140502chg7d5173m6l.jpg
-links_references: |
-  **Links**
-  - [*Cercodemas
-    anceps*](http://www.sealifebase.org/summary/Cercodemas-ancepsl)
-    on SeaLife Base: Technical fact sheet.
-  - [*Pentacta
-    anceps*](http://species-identification.org/species.php?species_group=nasc&id=89&menuentry=soorten) in North Australian Sea Cucumbers on the Marine
-    Species Identification Portal: Technical fact sheet.
-
-  **References**
-  - Lane, David
-    J.W. and Didier Vandenspiegel. 2003*. A
-    Guide to Sea Stars and Other Echinoderms of Singapore*.
-    Singapore Science Centre. 187pp.
+coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/cercodemas/140502chg7d5173m6l.jpg
+links_references: "**Links**\n- [*Cercodemas\n  anceps*](http://www.sealifebase.org/summary/Cercodemas-ancepsl)\n\
+  \  on SeaLife Base: Technical fact sheet.\n- [*Pentacta\n  anceps*](http://species-identification.org/species.php?species_group=nasc&id=89&menuentry=soorten)\
+  \ in North Australian Sea Cucumbers on the Marine\n  Species Identification Portal:\
+  \ Technical fact sheet.\n\n**References**\n- Lane, David\n  J.W. and Didier Vandenspiegel.\
+  \ 2003*. A\n  Guide to Sea Stars and Other Echinoderms of Singapore*.\n  Singapore\
+  \ Science Centre. 187pp.\n"
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/cercodemas/140502chg7d5173m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/cercodemas/140502chg7d5173m6l.jpg
     caption: Changi, May 14
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/cercodemas/140502chg7d5173m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/cercodemas/140502chg7d5173m3a.jpg
     caption: Colourful feeding tentacles.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/cercodemas/120705chgd7120m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/cercodemas/120705chgd7120m3.jpg
     caption: Changi, Jul 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/cercodemas/120705chgd7120m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/cercodemas/120705chgd7120m3b.jpg
     caption: Underside with three rows of tube feet.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/cercodemas/140502chg7d5173m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/cercodemas/140502chg7d5173m3b.jpg
     caption: Anus surrounding by five tiny 'teeth'.
   gallery3:
   - url: https://live.staticflickr.com/636/20865881730_b8e98a7370_z.jpg
     caption: ''
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/cercodemas/220616chgelks2.jpg
-    caption: Changi Lost Coast, Jun 22 Photo shared by Loh Kok Sheng on facebook
-      .
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/cercodemas/220616chgelks2.jpg
+    caption: Changi Lost Coast, Jun 22 Photo shared by Loh Kok Sheng on facebook .
 location:
 - prp
 - chg
@@ -77,6 +60,8 @@ location:
 - bb
 - ecp
 - cyr
+size:
+- 8.0
 ---
 
 ## Where seen?
@@ -92,7 +77,7 @@ nus is surrounded by five tiny teeth-like structures.
 
 **Sometimes mistaken for**
 the
-[Thorny sea cucumber](colochirus.md)
+[Thorny sea cucumber](colochirus)
 which looks similar and is found in the same habitat often next to the Pink warty sea cucumber. The Thorny sea cucumber has soft conical projections and is more red than pink and seldom has yellow on its body.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

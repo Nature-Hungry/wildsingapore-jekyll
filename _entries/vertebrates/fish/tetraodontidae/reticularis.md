@@ -1,10 +1,9 @@
 ---
 title: Reticulated pufferfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: starry, pufferfish, puffer, fish, arothon, reticularis, 
-  tetraodontidae, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: starry, pufferfish, puffer, fish, arothon, reticularis, tetraodontidae,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 attributes:
 - 11
@@ -15,43 +14,56 @@ family: Tetraodontidae
 genus: Arothon
 species: reticularis
 updated: Nov 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/reticularis/sbr2018-091.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/reticularis/sbr2018-091.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/reticularis/sbr2018-091.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/reticularis/sbr2018-091.jpg
     caption: 'Photo by Dr Tan Heok Hui from Singapore Biodiversity Records 2016: 102-103'
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/reticularis/161228cjik.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/reticularis/161228cjik.jpg
     caption: Juvenile Chek Jawa, Dec 16 Photo shared by Ivan Kwan on facebook .
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/reticularis/260105prpezxh3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/reticularis/260105prpezxh3.jpg
     caption: Dead Pasir Ris Park, Jan 26 Photo shared by Zen Xuan He on facebook
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/reticularis/081101chgik.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/reticularis/081101chgik.jpg
     caption: Dead Changi, Nov 08 Photo shared by Ivan Kwan on flickr .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Reticulated puffer (
+
   *Arothron reticularis*
+
   )](https://www.fishbase.se/summary/6594)
+
   and from
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheet.
 
+
   **References**
+
   - Toh Chay Hoon & Kelvin K. P. Lim.
-  *Blue-spotted pufferfish (Arothron caeruleopunctatus) observed in the Singapore Strait*
-  . 30 April 2019. Singapore Biodiversity Records 2019: 54-55 ISSN 2345-7597. National University of Singapore.
+
+  *Blue-spotted pufferfish (Arothron caeruleopunctatus) observed in the Singapore
+  Strait*
+
+  . 30 April 2019. Singapore Biodiversity Records 2019: 54-55 ISSN 2345-7597. National
+  University of Singapore.
+
   - Tan Heok Hui.
+
   *Reticulate pufferfish sold for food at a market*
+
   . 31 August 2018. Singapore Biodiversity Records 2018: 91.
+
+  '
 location:
 - prp
 - cj
+size:
+- 45.0
 ---
 
 ## Where seen?

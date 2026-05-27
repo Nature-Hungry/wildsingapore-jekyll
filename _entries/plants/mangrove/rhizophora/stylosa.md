@@ -26,25 +26,42 @@ updated: Jan 2013
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/stylosa/070520smkd1221m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/stylosa/090809sjid8827m3a.jpg"
-      caption: "Fruit on stalks. Fruit not so large compared to sepals. St John's Island, Aug 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/stylosa/130922hntd3180m3a.jpg"
-      caption: "Flower with long style, more visible without petals. Pulau Hantu, Sep 13"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/stylosa/120219smkd7218m3b.jpg"
-      caption: "Pulau Semakau, Feb 12"
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/stylosa/090809sjid8827m3a.jpg
+    caption: Fruit on stalks. Fruit not so large compared to sepals. St John's Island,
+      Aug 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/stylosa/130922hntd3180m3a.jpg
+    caption: Flower with long style, more visible without petals. Pulau Hantu, Sep
+      13
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/stylosa/120219smkd7218m3b.jpg
+    caption: Pulau Semakau, Feb 12
+links_references: '**Links**
+
   - [Bakau pasir (
-  *Rhizophora stylosa*](http://mangrove.nus.edu.sg/guidebooks/text/1071.md)
+
+  *Rhizophora stylosa*](http://mangrove.nus.edu.sg/guidebooks/text/1071)
+
   ) Ng, Peter K. L. & N. Sivasothi, 1999.
+
   *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)
+
   I (Plant Diversity)*
+
   . Singapore Science Centre. 168 pp.
+
   - [*Rhizophora stylosa*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=5200)
+
   on the NParks Flora and Fauna website: photos and fact sheet.
+
   - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.md)
-  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
+
+  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
+
+  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization
+  of the United Nations Regional Office for Asia and the Pacific Bangkok.
+
+  '
+size:
+- 1000.0
 ---
 
 ## Where seen?
@@ -69,7 +86,7 @@ The fruit looks like a brown, upside down pear (2-3cm) and is crowned by short p
 and generally shorter (less than 30cm).
 
 **Sometimes mistaken for**
-[Bakau kurap](mucronata.md)
+[Bakau kurap](mucronata)
 (
 *Rhizophora mucronata*
 ) which has larger leaves and longer, more pimply propagules. The two species can only be distinguished with certainty by looking at the details of the flowers.

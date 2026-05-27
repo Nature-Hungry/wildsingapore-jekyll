@@ -1,10 +1,9 @@
 ---
 description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
-keywords: chimney, sponge, petrosia, porifera, field, guide, seashore, sea, 
-  shore,
+keywords: chimney, sponge, petrosia, porifera, field, guide, seashore, sea, shore,
 layout: entry
 shape: ''
-title: "'Century egg' sponge"
+title: '''Century egg'' sponge'
 family: Suberitidae
 genus: Aaptos
 species: suberitoides*
@@ -17,38 +16,46 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Suberitida
 updated: Oct 2016
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/porifera/centuryegg/120409tptd8846m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/porifera/centuryegg/120409tptd8846m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/centuryegg/120409tptd8846m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/centuryegg/120409tptd8846m3.jpg
     caption: Terumbu Pempang Tengah, Apr 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/centuryegg/150608tplo6080616.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/centuryegg/150608tplo6080616.jpg
     caption: Terumbu Pempang Laut, Jun 15
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/centuryegg/200725smknjc1.jpg
-    caption: Pulau Semakau (North), Jul 20 Photo shared by Joleen Chang on 
-      facebook .
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/porifera/centuryegg/200725smknjc1.jpg
+    caption: Pulau Semakau (North), Jul 20 Photo shared by Joleen Chang on facebook
+      .
+links_references: '**Links**
+
   - [*Aaptos suberitoides*](http://142.103.81.136/summary/Aaptos-suberitoides.html)
+
   on SeaLife Base: technical fact sheet.
+
   - [*Aaptos suberitoides*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=170743)
+
   on the World Porifera Database.
 
+
   **References**
+
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
+
   *A Guide to Sponges of Singapore*
+
   . Singapore Science Centre. 173pp.
+
+  '
 location:
 - snt
 - kus
 - tpg
 - smk
 - tsm
+size:
+- 10.0
+- 15.0
 ---
 
 ## Where seen?

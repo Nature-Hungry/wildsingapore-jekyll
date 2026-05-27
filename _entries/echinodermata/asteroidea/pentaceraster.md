@@ -1,10 +1,9 @@
 ---
 title: Pentaceraster sea star
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: sea star, seastar, star, fish, starfish, pentaceraster, mammillatus, 
-  oreasteridae, asteroidea, echinoderm, field, guide, seashore, sea, shore, 
-  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: sea star, seastar, star, fish, starfish, pentaceraster, mammillatus, oreasteridae,
+  asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 0
@@ -23,79 +22,73 @@ class: Asteroidea
 superorder: Valvatacea
 order: Valvatida
 updated: Mar 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/080425cyrd1807m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/080425cyrd1807m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/080425cyrd1807m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/080425cyrd1807m3.jpg
     caption: Cyrene Reef, Apr 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/080425cyrd1822m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/080425cyrd1822m3a.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/080425cyrd1808m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/080425cyrd1808m3.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/080425cyrd1808m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/080425cyrd1808m3a.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/100402cyrsy1m3b.jpg
-    caption: A small one was seen! Cyrene Reef, Apr 10 Photo shared by Sean Yap 
-      on his blog .
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/100402cyrsy1m3b.jpg
+    caption: A small one was seen! Cyrene Reef, Apr 10 Photo shared by Sean Yap on
+      his blog .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/231214cjlks1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/231214cjlks1.jpg
     caption: Chek Jawa, Dec 23 Shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/231214cjlks1a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/231214cjlks1a.jpg
     caption: Chek Jawa, Dec 23 Shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/231214cjlks1b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/231214cjlks1b.jpg
     caption: Chek Jawa, Dec 23 Shared by Loh Kok Sheng on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/110508cyrlks5m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/110508cyrlks5m3.jpg
     caption: Cyrene Reef, May 11 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/100809cynml2m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/100809cynml2m3.jpg
     caption: Cyrene Reef, Aug 10 Shared by Neo Mei Lin on her blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/100501cyrd2206m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/100501cyrd2206m3.jpg
     caption: A small one about 9cm in diameter. Cyrene Reef, May 10
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/100713cyrtch1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/100713cyrtch1m3.jpg
     caption: Cyrene Reef, Jul 10 Shared by Toh Chay Hoon on her blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/100711cyrlks2m3.JPG
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/100711cyrlks2m3.JPG
     caption: Cyrene Reef, Jul 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/100626cyrlks2m3.JPG
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/100626cyrlks2m3.JPG
     caption: Cyrene Reef, Jun 10 Photo shared by Loh Kok Sheng on his blog .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/090309cyrlks01m3.jpg
-    caption: This star seems unwell. Cyrene Reef, Mar 09 Shared by Loh Kok Sheng
-      on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/160608cyrlks8.JPG
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/090309cyrlks01m3.jpg
+    caption: This star seems unwell. Cyrene Reef, Mar 09 Shared by Loh Kok Sheng on
+      his blog .
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/160608cyrlks8.JPG
     caption: Cyrene Reef, Jun 16 Shared by Loh Kok Sheng on his blog .
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/241117cyrmn2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/241117cyrmn2.jpg
     caption: Cyrene Reef, Nov 24 Photo shared by Marcus Ng n on facebook .
-links_references: |
-  **Links**
-  - [A new star for Singapore: discovery of sea star](http://wildsingaporenews.blogspot.com/2008/05/new-star-for-singapore-discovery-of-sea.html) Discovery of large five-rayed sea star adds to marine biodiversity here David J.W. Lane , Robin Ngiam & Ivan Tan, Straits Times 3 May 08
-  - [Pentaceraster mammilatus](https://singaporefauna.blogspot.com/2008/06/pentaceraster-mammillatus.html) on the creatures big and small blog.
-  - [Super star of the echinoderm hunt](https://naturescouter.blogspot.com/2008/04/super-star-of-echinoderm-hunt-part-ii.html) on the nature scouter blog.
-  - [Stars of Cyrene](https://wildfilms.blogspot.com/2008/04/stars-of-cyrene.html) about the discovery of the star on the wildfilms blog.
+links_references: '**Links**
+
+  - [A new star for Singapore: discovery of sea star](http://wildsingaporenews.blogspot.com/2008/05/new-star-for-singapore-discovery-of-sea.html)
+  Discovery of large five-rayed sea star adds to marine biodiversity here David J.W.
+  Lane , Robin Ngiam & Ivan Tan, Straits Times 3 May 08
+
+  - [Pentaceraster mammilatus](https://singaporefauna.blogspot.com/2008/06/pentaceraster-mammillatus.html)
+  on the creatures big and small blog.
+
+  - [Super star of the echinoderm hunt](https://naturescouter.blogspot.com/2008/04/super-star-of-echinoderm-hunt-part-ii.html)
+  on the nature scouter blog.
+
+  - [Stars of Cyrene](https://wildfilms.blogspot.com/2008/04/stars-of-cyrene.html)
+  about the discovery of the star on the wildfilms blog.
+
+  '
 location:
 - cj
 - sji
 - cyr
+size:
+- 15.0
 ---
 
 ## Where seen?

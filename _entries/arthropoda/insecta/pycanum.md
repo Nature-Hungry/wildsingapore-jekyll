@@ -1,10 +1,9 @@
 ---
 title: Giant shield bug
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: giant, shield, bug, pycanum, rubens, tessaratomidae, insect, field, 
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
-  fact sheet, info
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: giant, shield, bug, pycanum, rubens, tessaratomidae, insect, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info
 layout: entry
 family: Tessaratomidae
 genus: Pycanum
@@ -25,31 +24,35 @@ subfamily: Tessaratominae
 tribe: Tessaratomini
 subtribe: Eusthenaria
 updated: Nov 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/insecta/pycanum/040214ubnd0082m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/insecta/pycanum/040214ubnd0082m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/insecta/pycanum/040214ubnd0082m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/insecta/pycanum/040214ubnd0082m3.jpg
     caption: Adult on Simpoh air leaf. Pulau Ubin, Feb 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/insecta/pycanum/040207ubnd0027m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/insecta/pycanum/040207ubnd0027m3.jpg
     caption: Nymph on Simpoh air leaf. Pulau Ubin, Feb 04
   - url: http://www.wildsingapore.com/wildfacts/insecta/pycanum/151223labmn.jpg
     caption: Labrador, Dec 15 Photo shared by Marcus Ng on flickr .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Giant Shield Bug and Its Host Plant](http://www.natureloveyou.sg/Plant%20Story/Plant%20Story%20-%20Stink%20Bug.html)
+
   on
+
   [The Plant Observatory website](http://www.natureloveyou.sg/)
+
   : photos and detailed observations.
+
+  '
 location:
 - ubn
+size:
+- 3.0
 ---
 
 ## Where seen?
 These brightly coloured bugs are sometimes seen on
-[Simpoh air](../plants/others/dillenia/suffruticosa.md)
+[Simpoh air](../plants/others/dillenia/suffruticosa)
 (
 *Dillenia suffruticosa*
 ) which they are believed to feed on.

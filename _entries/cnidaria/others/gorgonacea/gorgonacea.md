@@ -20,52 +20,56 @@ updated: Dec 2019
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/060613ecpd3100m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: if you learn only 3 things about them ... They are animals and not plants! Don't break or step on them. Each fan is a colony of tiny polyps that produce a hard skeleton. Many fascinating animals live on them. Look for them.
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: They are animals and not plants! Don't break or step on them. Each fan is a colony of tiny polyps that produce a hard skeleton. Many fascinating animals live on them. Look for them.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... They are animals and not plants!
+      Don't break or step on them. Each fan is a colony of tiny polyps that produce
+      a hard skeleton. Many fascinating animals live on them. Look for them.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: They are animals and not plants! Don't break or step on them. Each fan
+      is a colony of tiny polyps that produce a hard skeleton. Many fascinating animals
+      live on them. Look for them.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/060613ecpd3100m3.jpg"
-      caption: "Tiny sea fans dot the rocks. East Coast Park, Jun 06"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/others/040604bbad0081m3.jpg"
-      caption: "Larger sea fans seen on remote shores. Beting Bronok, Jun 04"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/candelabra/111222tusd4654m3.jpg"
-      caption: "Polyps of a sea fan. Tuas, Dec 11"
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/060613ecpd3100m3.jpg
+    caption: Tiny sea fans dot the rocks. East Coast Park, Jun 06
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/others/040604bbad0081m3.jpg
+    caption: Larger sea fans seen on remote shores. Beting Bronok, Jun 04
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/candelabra/111222tusd4654m3.jpg
+    caption: Polyps of a sea fan. Tuas, Dec 11
   gallery3:
-    - url: "http://www.wildsingapore.com/mollusca/bivalvia/pteriidae/pteriidae/130113chgd3570m3a.jpg"
-      caption: "Winged oyster on a sea fan Changi, Jan 13"
-    - url: "http://www.wildsingapore.com/mollusca/gastropoda/ovulidae/red/060626ecpd3582m3.jpg"
-      caption: "Ovulid snails on a sea fan East Coast, Jun 06"
-    - url: "http://www.wildsingapore.com/echinodermata/ophiuroidea/tinycolourful/100727chgd9292m3.jpg"
-      caption: "Tiny colourful brittle stars . Changi, Jul 09"
+  - url: http://www.wildsingapore.com/mollusca/bivalvia/pteriidae/pteriidae/130113chgd3570m3a.jpg
+    caption: Winged oyster on a sea fan Changi, Jan 13
+  - url: http://www.wildsingapore.com/mollusca/gastropoda/ovulidae/red/060626ecpd3582m3.jpg
+    caption: Ovulid snails on a sea fan East Coast, Jun 06
+  - url: http://www.wildsingapore.com/echinodermata/ophiuroidea/tinycolourful/100727chgd9292m3.jpg
+    caption: Tiny colourful brittle stars . Changi, Jul 09
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/060613ecpd3053m3b.jpg"
-      caption: Skinny sea fans
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/asparagus/030521bbd0232m3.jpg"
-      caption: Asparagus sea fan
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/candelabra/060528bbd2416m3.jpg"
-      caption: Candelabra sea fan
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/060613ecpd3053m3b.jpg
+    caption: Skinny sea fans
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/asparagus/030521bbd0232m3.jpg
+    caption: Asparagus sea fan
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/candelabra/060528bbd2416m3.jpg
+    caption: Candelabra sea fan
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/050411tusg4438m3.jpg"
-      caption: Flat branch sea fan
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/gnarled/080705bbd7072m3.jpg"
-      caption: Gnarled sea fan
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lyre/040604bbad0076m3.jpg"
-      caption: Lyre sea fan
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/050411tusg4438m3.jpg
+    caption: Flat branch sea fan
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/gnarled/080705bbd7072m3.jpg
+    caption: Gnarled sea fan
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lyre/040604bbad0076m3.jpg
+    caption: Lyre sea fan
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/050724bbg0161m3.jpg"
-      caption: Maze sea fan
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/tree/030520bbd0241m3.jpg"
-      caption: Tree sea fan
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lemon/160804lygd6866m3.jpg"
-      caption: Lemon sea fan
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/050724bbg0161m3.jpg
+    caption: Maze sea fan
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/tree/030520bbd0241m3.jpg
+    caption: Tree sea fan
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lemon/160804lygd6866m3.jpg
+    caption: Lemon sea fan
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/blue/060516chgd2041.jpg"
-      caption: Blue sea fan
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/leathery/100812tpld0362m3.jpg"
-      caption: Leathery sea fan
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/whip/030714bbd0067m3.jpg"
-      caption: Sea whip
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/blue/060516chgd2041.jpg
+    caption: Blue sea fan
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/leathery/100812tpld0362m3.jpg
+    caption: Leathery sea fan
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/whip/030714bbd0067m3.jpg
+    caption: Sea whip
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
@@ -75,7 +79,7 @@ Most people are surprised to learn that sea fans are still quite commonly seen o
 
 **What are gorgonians?**
 These beautiful delicate creatures are often mistaken for plants. Gorgonians belong to
-[Phylum Cnidaria](../../cnidaria.md)
+[Phylum Cnidaria](../../cnidaria)
 which includes the more familiar sea anemones, hard corals and jellyfishes. Gorgonians are members of the soft coral group (Subclass Alcyonaria/Octocorallia). There are about 18 families of gorgonians.
 
 ## Features
@@ -95,7 +99,7 @@ Studies suggest gorgonian polyps have few or weak stinging cells and feed on par
 A sea fan usually grows so that the branches are at right angles to the flow of the current. This maximises the amount of water filtered and apparently breaks up the water current into curls that wash back over the polyps, for a second chance to filter out more edible bits. Sea fans are most abundant and grow largest where there is a strong one-way current.
 
 A few shallow-water sea fans like the
-[Leathery sea fan](leathery.md)
+[Leathery sea fan](leathery)
 harbour zooxanthellae (symbiotic single-celled algae) inside their polyps. These carry out photosynthesis and contribute nutrients to the host polyp. But most gorgonians do not have zooxanthellae and are thus able to grow in shadier places or murkier water.
 
 **Sea fan babies:**
@@ -105,13 +109,13 @@ Gorgonians sometimes also reproduce by budding off new polyps to enlarge the col
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Role in the habitat:**
 All kinds of small animals live on gorgonians including tunicates, barnacles,
-[clams](../../../mollusca/bivalvia/pteriidae/seafan.md)
+[clams](../../../mollusca/bivalvia/pteriidae/seafan)
 , snails (such as the
-[ovulids](../../../mollusca/gastropoda/ovulidae/ovulidae.md)
+[ovulids](../../../mollusca/gastropoda/ovulidae/ovulidae)
 ), tiny shrimps,
-[brittle stars](../../../echinodermata/ophiuroidea/tinycolourful.md)
+[brittle stars](../../../echinodermata/ophiuroidea/tinycolourful)
 and gobies.
-[Hermit crabs](../../../crustacea/othercrust/anomura/hermit/banded.md)
+[Hermit crabs](../../../crustacea/othercrust/anomura/hermit/banded)
 have also been seen clinging to sea fans. Some of these small animals prey on the sea fan. These animals usually take on the shape and colour of their host. Squids may also lay their eggs on sea fans.
 
 **Human uses:**
@@ -154,7 +158,7 @@ Groups from Fabricius, Katharina and Philip Alderslade, 2001.
 **Family Briareidae**
 
 [*Briareum*
-sp.](../../coralsoft/feafine.md)
+sp.](../../coralsoft/feafine)
 (Fine feathery soft corals)
 
 *Briareum excavatum*
@@ -174,8 +178,8 @@ sp. B
 
 **Family Subergorgiidae**
 
-*[Subergorgia](flatbranch.md)*
-[sp.](flatbranch.md)
+*[Subergorgia](flatbranch)*
+[sp.](flatbranch)
 **
 (Flat branch sea fan)
 *Subergorgia suberosa
@@ -184,7 +188,7 @@ Subergorgia mollis*
 
 ****
 
-**[Family Melithaeidae](tree.md)**
+**[Family Melithaeidae](tree)**
 (Tree sea fan)
 
 *Acabaria robusta
@@ -214,8 +218,8 @@ sp. C
 **
 **Family Plexauridae**
 
-*[Astrogorgia](skinny.md)*
-[sp.](skinny.md)
+*[Astrogorgia](skinny)*
+[sp.](skinny)
 **
 (Skinny sea fan)
 *Astrogorgia*
@@ -229,10 +233,10 @@ cf.
 sp. A
 *Astrogorgia*
 sp. B
-*[Echinomuricea pulchra](gnarled.md)*
+*[Echinomuricea pulchra](gnarled)*
 (Gnarled sea fan)
-*[Echinogorgia](maze.md)*
-[sp.](maze.md)
+*[Echinogorgia](maze)*
+[sp.](maze)
 **
 (Maze sea fan)
 *Echinogorgia*
@@ -254,7 +258,7 @@ sp. E
 sp. F
 
 [*Euplexaura*
-sp.](candelabra.md)
+sp.](candelabra)
 (Candelabra sea fan)
 
 *Euplexaura*
@@ -265,7 +269,7 @@ Euplexaura*
 sp. A
 
 +
-**[Family Gorgoniidae](leathery.md)**
+**[Family Gorgoniidae](leathery)**
 (Leathery sea fan)
 
 **SUBORDER CALCAXONIA**
@@ -273,7 +277,7 @@ sp. A
 **
 **Family Ellisellidae**
 
-*[Ctenocella (Ctenocella) pectinata](lyre.md)*
+*[Ctenocella (Ctenocella) pectinata](lyre)*
 (Lyre sea fan)
 
 *Ctenocella (Ellisella) laevis
@@ -286,12 +290,12 @@ Ctenocella (Umbracella)*
 sp. A
 **
 [*Junceella (Junceella)*
-sp. A](whip.md)
+sp. A](whip)
 (Sea whip)
 
-*[Junceella (Dichotella)](asparagus.md)*
-[cf.](asparagus.md)
-*[gemmacea](asparagus.md)*
+*[Junceella (Dichotella)](asparagus)*
+[cf.](asparagus)
+*[gemmacea](asparagus)*
 (Asparagus sea fan)
 
 **Viminella*

@@ -1,10 +1,8 @@
 ---
 title: 'Helmet and Bonnet snails '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: cassidae, gastropod, mollusc, snail, shell, field, guide, seashore, 
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, 
-  photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: cassidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Cassidae
 genus: ''
@@ -19,71 +17,93 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Tonnoidea
 updated: Jul 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrd0374m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrd0374m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrd0374m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrd0374m3.jpg
     caption: On top of a Cake sand dollar. Cyrene Reef, Aug 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrd0365m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrd0365m3.jpg
     caption: Cyrene Reef, Aug 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrd0370m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrd0370m3.jpg
     caption: Thick strong foot. Cyrene Reef, Aug 11
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/150731nsrccd8371.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/150731nsrccd8371.jpg
     caption: Half buried next to a Cake sand dollar. East Coast Park, Jul 15
-  - url: 
-      http://www.wildsingapore.com/echinodermata/echinoidea/urchin/salmacis/080506chgd2299m3.jpg
-    caption: The 'burn' marks on the test of this recently dead sea urchin might
-      have been made by a Helmet snail!
-  - url: 
-      http://www.wildsingapore.com/echinodermata/echinoidea/urchin/salmacis/080506chgd2299m3b.jpg
+  - url: http://www.wildsingapore.com/echinodermata/echinoidea/urchin/salmacis/080506chgd2299m3.jpg
+    caption: The 'burn' marks on the test of this recently dead sea urchin might have
+      been made by a Helmet snail!
+  - url: http://www.wildsingapore.com/echinodermata/echinoidea/urchin/salmacis/080506chgd2299m3b.jpg
     caption: Changi, May 08
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/090208chglks03m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/090208chglks03m3.jpg
     caption: Japanese bonnet snail
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/111028chged2772m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/111028chged2772m3.jpg
     caption: Grey bonnet snail
-  - url: 
-      http://www.wildsingapore.com/echinodermata/echinoidea/urchin/salmacis/080506chgd2299m3b.jpg
+  - url: http://www.wildsingapore.com/echinodermata/echinoidea/urchin/salmacis/080506chgd2299m3b.jpg
     caption: Changi, May 08
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Family Cassidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Cassidae.html)
-  on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief fact sheet with photos.
-  - [Family Cassidae](http://seashellsofnsw.org.au/Cassidae/Pages/cassidae_intro.md)
+
+  on The Gladys Archerd Shell Collection at Washington State University Tri-Cities
+  Natural History Museum website: brief fact sheet with photos.
+
+  - [Family Cassidae](http://seashellsofnsw.org.au/Cassidae/Pages/cassidae_intro)
+
   on
-  [The Seashells of New South Wales](http://seashellsofnsw.org.au/index.md)
+
+  [The Seashells of New South Wales](http://seashellsofnsw.org.au/index)
+
   by Des Beechey Research Associate, Australian Museum.
-  - Family Cassidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+
+  - Family Cassidae in the Gastropods section by J.M. Poutiers in the FAO Species
+  Identification Guide for Fishery Purposes: The Living Marine Resources of the Western
+  Central Pacific
+
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
+
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
+
   **References**
+
   - Tan Heok Hui and Tan Siong Kiat. 30 November 2016.
+
   *Grey bonnet preying on sand dollar at Changi*
+
   . Singapore Biodiversity Records 2016: 166-167.
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Tan, K. S. & L. M. Chou, 2000.
+
   *A Guide to the Common Seashells of Singapore*
+
   . Singapore Science Centre. 160 pp.
+
   - Wee Y.C. and Peter K. L. Ng. 1994.
+
   *A First Look at Biodiversity in Singapore*
+
   . National Council on the Environment. 163pp.
+
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+
   . Nature Society (Singapore). 285 pp.
+
   - Abbott, R. Tucker, 1991.
+
   *Seashells of South East Asia*
+
   . Graham Brash, Singapore. 145 pp.
+
+  '
 location:
 - chg
 - cj
@@ -112,13 +132,13 @@ The Gladys Archerd Shell Collection describes their feeding technique: To feed o
 According to Poutiers, the snail first squirts neurotoxic saliva over its prey to paralyse the spines. The snail is initially protected from these spines by the thick skin of the foot. Then, the snail pushes its snout through the unprotected anus, or through a hole rasped by radula in the test of the victim which may also be crushed under the weight of the snail.
 
 While the
-[Seashells of New South Wales](http://seashellsofnsw.org.au/Cassidae/Pages/cassidae_intro.md)
+[Seashells of New South Wales](http://seashellsofnsw.org.au/Cassidae/Pages/cassidae_intro)
 website says that most helmet shells live buried in the sand by day, coming out at night to feed on echinoderms, especially sea urchins, which they can locate by smell from at least 30cm away. They immobilise the urchin, crawl onto it with the thick skin of the foot providing protection from the spines, and make a hole in the urchin shell by an acidic secretion and by rasping with the radula, and suck out the soft parts.
 
 On our shores, the
-[Grey bonnet snail](glaucum.md)
+[Grey bonnet snail](glaucum)
 has been seen on top of a
-[Cake sand dollar](../../../echinodermata/echinoidea/sandollar/arachnoides.md)
+[Cake sand dollar](../../../echinodermata/echinoidea/sandollar/arachnoides)
 , and when the sand dollar is examined, a hole is seen in the sand dollar skeleton. This suggests the snail bored the hole.
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**Baby helmets:**
@@ -128,7 +148,7 @@ These snails are commonly collected for food and their large decorative shells a
 
 **Status and threats:**
 The
-[Grey bonnet snail](glaucum.md)
+[Grey bonnet snail](glaucum)
 is listed as Endangered in the Red List of threatened animals of Singapore.
 
 ---
@@ -154,10 +174,10 @@ Nature Society (Singapore). 285 pp.
 
 *Phalium decussatum
 
-[Phalium glaucum](glaucum.md)*
+[Phalium glaucum](glaucum)*
 (Grey bonnet snail) (EN: Endangered)
 
-*[Semicassis bisulcata](bisulcata.md)*
+*[Semicassis bisulcata](bisulcata)*
 (Japanese bonnet snail)
 
 ---

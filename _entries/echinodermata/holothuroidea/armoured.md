@@ -1,10 +1,9 @@
 ---
 title: Armoured sea cucumber
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: armoured, cucumber, sea, cucumber, psolidium, psolidae, holothuroidea,
-  echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: armoured, cucumber, sea, cucumber, psolidium, psolidae, holothuroidea, echinoderm,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 attributes:
 - 0
@@ -26,48 +25,53 @@ class: Holothuroidea
 subclass: Actinopoda
 order: Dendrochirotida
 updated: Apr 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/armoured/120605lygd4011m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/armoured/120605lygd4011m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/armoured/120605lygd4011m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/armoured/120605lygd4011m3.jpg
     caption: Changi, Jun 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/armoured/120605lygd4011m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/armoured/120605lygd4011m3a.jpg
     caption: Mouth (or anus) on conical protrusion.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/armoured/120605lygd4237m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/armoured/120605lygd4237m3a.jpg
     caption: Rows of tube feet on the flat underside. Changi, Jun 12
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/armoured/120605lygd4245m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/armoured/120605lygd4245m3.jpg
     caption: Changi, Jun 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/armoured/120605lygd4245m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/armoured/120605lygd4245m3a.jpg
     caption: Short feeding tentacles.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/armoured/120605lygd4245m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/armoured/120605lygd4245m3b.jpg
     caption: Tiny tube feet all over the body and on underside.
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/armoured/240706ubntch3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/armoured/240706ubntch3.jpg
     caption: Pulau Ubin, Jul 24 Photo by Chay Hoon on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Family Psolidae](http://www.sealifebase.org/summary/FamilySummary.php?ID=106)
+
   on SeaLife Base: Technical fact sheet.
+
   - [Family Psolidae](http://species-identification.org/species.php?species_group=nasc&id=27&menuentry=groepen)
-  in North Australian Sea Cucumbers on Marine Species Identification Portal: Technical fact sheet.
+
+  in North Australian Sea Cucumbers on Marine Species Identification Portal: Technical
+  fact sheet.
+
 
   **References**
+
   - Ong J. Y. & H. P. S. Wong.
+
   *Sea cucumbers (Echinodermata: Holothuroidea) from the Johor Straits, Singapore*
-  . 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 273-291.
+
+  . 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International
+  Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 273-291.
+
+  '
 location:
 - chg
 - ubn
 - skd
+size:
+- 1.0
 ---
 
 ## Where seen?
@@ -80,9 +84,9 @@ About 1cm long. Body oval with distinct flat underside. Upperside covered with h
 
 **Sometimes mistaken for**
 a tiny colony of
-[hard corals](../../cnidaria/coralhard/coralhard.md)
+[hard corals](../../cnidaria/coralhard/coralhard)
 or a hard
-[ascidian](../../ascidiacea/ascidiacea.md)
+[ascidian](../../ascidiacea/ascidiacea)
 .
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

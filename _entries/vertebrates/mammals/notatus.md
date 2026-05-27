@@ -26,32 +26,53 @@ updated: Oct 2016
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/notatus/041002lptd7258m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/notatus/101211sbwrs02032m6l.jpg"
-      caption: "Sungei Buloh Wetland Reserve, Dec 10"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/notatus/040110sbwrd0038m3.jpg"
-      caption: ""
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/notatus/101211sbwrs02032m6l.jpg
+    caption: Sungei Buloh Wetland Reserve, Dec 10
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/notatus/040110sbwrd0038m3.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/notatus/180904snt.jpg"
-      caption: "Sentosa, Sep 18 Photo shared by Malcolm Lord"
-links_references: |
-  **Links**
-  - [Plantain Squirrel](http://www.ecologyasia.com/verts/mammals/plantain_squirrel.md)
-  on Nick Baker's EcologyAsia website: fact sheet with photos.
-  - [Plantain Squirrel](http://www.wildsingapore.per.sg/discovery/factsheet/squirrelplantain.md)
-  on Chan Kwok Wai's Wildlife Singapore website: fact sheet with photos.
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/notatus/180904snt.jpg
+    caption: Sentosa, Sep 18 Photo shared by Malcolm Lord
+links_references: '**Links**
+
+  - [Plantain Squirrel](http://www.ecologyasia.com/verts/mammals/plantain_squirrel)
+
+  on Nick Baker''s EcologyAsia website: fact sheet with photos.
+
+  - [Plantain Squirrel](http://www.wildsingapore.per.sg/discovery/factsheet/squirrelplantain)
+
+  on Chan Kwok Wai''s Wildlife Singapore website: fact sheet with photos.
+
   - [*Callosciurus notatus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Callosciurus%20notatus.html)
+
   (Rodentia: Sciuridae) Plantain Squirrel by Ee Yong Liang, 2012, on taxo4254.
-  
+
+
   **References**
+
   - Tan Heok Hui. 2 October 2013.
+
   [Plantain squirrel gathering mangrove algae](http://lkcnhm.nus.edu.sg/app/uploads/2017/04/sbr2013-011.pdf)
+
   . Singapore Biodiversity Records 2013: 11
+
   - Baker, Nick and Kelvin Lim. 2008.
-  *Wild Animals of Singapore: A Photographic Guide to Mammals, Reptiles, Amphibians and Freshwater Fishes*
+
+  *Wild Animals of Singapore: A Photographic Guide to Mammals, Reptiles, Amphibians
+  and Freshwater Fishes*
+
   Vertebrate Study Group, Nature Society (Singapore). 180 pp.
+
   - Francis, Charles M. 2001.
+
   *Mammals of South-East Asia*
+
   New Holland Publishers. 128 pp.
+
+  '
+size:
+- 22.0
+- 21.0
 ---
 
 ## Where seen?

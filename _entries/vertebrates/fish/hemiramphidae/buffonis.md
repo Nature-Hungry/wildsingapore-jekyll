@@ -1,10 +1,9 @@
 ---
 title: Stripe-nosed   halfbeak
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: stripe, striped, nose, halfbeak, half, beak, zenarchopterus, buffonis,
-  zenarchopteridae, hemiramphidae, fish, field, guide, seashore, sea, shore, 
-  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: stripe, striped, nose, halfbeak, half, beak, zenarchopterus, buffonis, zenarchopteridae,
+  hemiramphidae, fish, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 9
@@ -24,46 +23,69 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Beloniformes
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/buffonis/110205krjd5876.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/buffonis/110205krjd5876.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/buffonis/110205krjd5876.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/buffonis/110205krjd5876.jpg
     caption: Sungei Buloh, Feb 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/buffonis/120215prpd6977m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/buffonis/120215prpd6977m6l.jpg
     caption: Pasir Ris, Feb 12
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Striped-nose Halfbeak (
+
   *Zenarchopterus buffonis*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/237.md)
+
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/237)
+
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
+
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
+
   . Singapore Science Centre. 163 pp.
-  - [Surface-dwelling fishes](http://mangrove.nus.edu.sg/guidebooks/text/2104.md)
+
+  - [Surface-dwelling fishes](http://mangrove.nus.edu.sg/guidebooks/text/2104)
+
   Ng, Peter K. L. & N. Sivasothi, 1999.
+
   *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)
+
   II (Animal Diversity)*
+
   . Singapore Science Centre. 168 pp.
-  - [Stripe-nosed halfbeak](http://www.ecologyasia.com/verts/fishes/stripe-nosed-halfbeak.md)
+
+  - [Stripe-nosed halfbeak](http://www.ecologyasia.com/verts/fishes/stripe-nosed-halfbeak)
+
   on the Ecology Asia website: fact sheet with photos.
-  - [Buffon's river-garfish (
+
+  - [Buffon''s river-garfish (
+
   *Zenarchopterus buffonis*
+
   )](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=17041)
+
   from
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheet.
 
+
   **References**
+
   - Allen, Gerry, 2000.
+
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
+
   . Periplus Editions. 292 pp.
+
+  '
 location:
 - sbw
 - prp
 - laz
+size:
+- 23.0
 ---
 
 ## Where seen?

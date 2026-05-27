@@ -23,122 +23,171 @@ updated: May 2020
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "if you learn only 3 things about them ... Sea hares may secrete a purple dye. But don't tease them to make them do this. Although they can be quite large, they are well camouflaged. Watch your step! Sea hares have very specialised diets and should not be kept in home aquariums."
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "Sea hares may secrete a purple dye. But don't tease them to make them do this. Although they can be quite large, they are well camouflaged. Watch your step! Sea hares have very specialised diets and should not be kept in home aquariums."
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... Sea hares may secrete a purple
+      dye. But don't tease them to make them do this. Although they can be quite large,
+      they are well camouflaged. Watch your step! Sea hares have very specialised
+      diets and should not be kept in home aquariums.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: Sea hares may secrete a purple dye. But don't tease them to make them
+      do this. Although they can be quite large, they are well camouflaged. Watch
+      your step! Sea hares have very specialised diets and should not be kept in home
+      aquariums.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/050608cftg7393m3a.jpg"
-      caption: "Two pairs of tentacles Changi, Jun 05"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/070614chgd2152m3.jpg"
-      caption: "A pair of flaps cover the body, thin internal shell. Changi, Jun 07"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/111124cyrs00191m3.jpg"
-      caption: "Swimming sea hare! Cyrene Reef, Nov 11"
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/050608cftg7393m3a.jpg
+    caption: Two pairs of tentacles Changi, Jun 05
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/070614chgd2152m3.jpg
+    caption: A pair of flaps cover the body, thin internal shell. Changi, Jun 07
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/111124cyrs00191m3.jpg
+    caption: Swimming sea hare! Cyrene Reef, Nov 11
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/bursatella/040509skdbd0143m3.jpg"
-      caption: "Some release a purple dye when disturbed Pulau Sekudu, Apr 05"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/120410chgd9081m3.jpg"
-      caption: "Often seen half buried in soft ground. Changi, Apr 12"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/121116sjjid1458m3.jpg"
-      caption: "This tiny sea hare is perfectly camouflaged on a seagrass blade. St. John's Island, Nov 12"
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/bursatella/040509skdbd0143m3.jpg
+    caption: Some release a purple dye when disturbed Pulau Sekudu, Apr 05
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/120410chgd9081m3.jpg
+    caption: Often seen half buried in soft ground. Changi, Apr 12
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/121116sjjid1458m3.jpg
+    caption: This tiny sea hare is perfectly camouflaged on a seagrass blade. St.
+      John's Island, Nov 12
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/050622cftd4094m3.jpg"
-      caption: "Laying egg strings. Changi, Jun 05"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/100402cyrtch2m3.jpg"
-      caption: "Cyrene Reef, Apr 10"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/100402cyrtch2m3a.jpg"
-      caption: Photo shared by Toh Chay Hoon on her blog .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/050622cftd4094m3.jpg
+    caption: Laying egg strings. Changi, Jun 05
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/100402cyrtch2m3.jpg
+    caption: Cyrene Reef, Apr 10
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/100402cyrtch2m3a.jpg
+    caption: Photo shared by Toh Chay Hoon on her blog .
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/090628lazd6182m3.jpg"
-      caption: Black-tailed sea hare
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/spotted/040509skdbd0100m3.jpg"
-      caption: Spotted sea hare
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/050608cftg7393m3.jpg"
-      caption: Geographic sea hare
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/090628lazd6182m3.jpg
+    caption: Black-tailed sea hare
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/spotted/040509skdbd0100m3.jpg
+    caption: Spotted sea hare
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/050608cftg7393m3.jpg
+    caption: Geographic sea hare
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/060301kusg5370m3.jpg"
-      caption: Extraordinary sea hare
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/050325sjig3648m3.jpg"
-      caption: Furry sea hare
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/bursatella/050511cftg6199m3.jpg"
-      caption: Hairy sea hare
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/060301kusg5370m3.jpg
+    caption: Extraordinary sea hare
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/050325sjig3648m3.jpg
+    caption: Furry sea hare
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/bursatella/050511cftg6199m3.jpg
+    caption: Hairy sea hare
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/parvula/100215sisd9413m3.jpg"
-      caption: Mini sea hare
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/100201hntd9184m3.jpg"
-      caption: Seagrass sea hare
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dolabella/230224trylks1c.jpg"
-      caption: Wedge sea hare
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/parvula/100215sisd9413m3.jpg
+    caption: Mini sea hare
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/100201hntd9184m3.jpg
+    caption: Seagrass sea hare
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dolabella/230224trylks1c.jpg
+    caption: Wedge sea hare
   gallery8:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/others/200820ssistch3.jpg"
-      caption: "Petalifera sp.? on Sargassum . Small Sisters Island, Aug 20 Photo shared by Toh Chay Hoon on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/others/200820ssistch3b.jpg"
-      caption: "Petalifera sp.? on Sargassum. Small Sisters Island, Aug 20 Photo shared by Toh Chay Hoon on facebook ."
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/others/200820ssistch3.jpg
+    caption: Petalifera sp.? on Sargassum . Small Sisters Island, Aug 20 Photo shared
+      by Toh Chay Hoon on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/others/200820ssistch3b.jpg
+    caption: Petalifera sp.? on Sargassum. Small Sisters Island, Aug 20 Photo shared
+      by Toh Chay Hoon on facebook .
   gallery9:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/others/140809hntmn.jpg"
-      caption: "Aplysiomorpha sp. Pulau Hantu, Aug 14 Photo shared by Marcus Ng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/parvula/141011hntlks.JPG"
-      caption: "Pulau Hantu, Oct 14 Photo shared by Loh Kok Sheng on flickr ."
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/101223sntd3969m3.jpg"
-      caption: "On Tape seagrass. Sentosa, Dec 10"
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/others/140809hntmn.jpg
+    caption: Aplysiomorpha sp. Pulau Hantu, Aug 14 Photo shared by Marcus Ng on flickr
+      .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/parvula/141011hntlks.JPG
+    caption: Pulau Hantu, Oct 14 Photo shared by Loh Kok Sheng on flickr .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/101223sntd3969m3.jpg
+    caption: On Tape seagrass. Sentosa, Dec 10
   gallery10:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/parvula/160507cjjt4.jpg"
-      caption: "Chek Jawa, May 16 Photo shared by Jonathan Tan on facebook ."
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/parvula/160507cjjt4.jpg
+    caption: Chek Jawa, May 16 Photo shared by Jonathan Tan on facebook .
+links_references: '**Links**
+
   - [What are Sea Hares?](http://www.seaslugforum.net/factsheet.cfm?base=seahares)
+
   on the
-  [Sea Slug Forum](http://www.seaslugforum.net/welcome.md)
+
+  [Sea Slug Forum](http://www.seaslugforum.net/welcome)
+
   by Dr Bill Rudman: all about sea hares.
+
   - [A test of novel function(s) for the ink of sea hares](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6T8F-3VTHRN1-C&_user=10&_rdoc=1&_fmt=&_orig=search&_sort=d&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=526635ec034c51da46823167b883fa0a)
-  Thomas H. Carefoota, Steven C. Pennings and Jean Paul Danko, Aug 98, abstract on Science Direct.
-  
+
+  Thomas H. Carefoota, Steven C. Pennings and Jean Paul Danko, Aug 98, abstract on
+  Science Direct.
+
+
   **References**
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Wee Y.C. and Peter K. L. Ng. 1994.
+
   *A First Look at Biodiversity in Singapore*
+
   . National Council on the Environment. 163pp.
+
   - Chou, L. M., 1998.
+
   *A Guide to the Coral Reef Life of Singapore*
+
   . Singapore Science Centre. 128 pages.
+
   - Debelius, Helmut, 2001.
+
   *Nudibranchs and Sea Snails: Indo-Pacific Field Guide*
+
   IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+
   - Wells, Fred E. and Clayton W. Bryce. 2000.
-  *Slugs of Western Australia: A guide to the species from the Indian to West Pacific Oceans*
+
+  *Slugs of Western Australia: A guide to the species from the Indian to West Pacific
+  Oceans*
+
   . Western Australian Museum. 184 pp.
+
   - Coleman, Neville. 2001.
+
   *1001 Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*
-  . Neville Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
+
+  . Neville Coleman''s Underwater Geographic Pty Ltd, Australia.144pp.
+
   - Coleman, Neville, 1989.
+
   *Nudibranchs of the South Pacific Vol 1*
+
   . 64 pp.
+
   - Humann, Paul and Ned Deloach. 2010.
+
   *Reef Creature Identification: Tropical Pacific*
+
   New World Publications. 497pp.
+
   - Kuiter, Rudie H and Helmut Debelius. 2009.
+
   *World Atlas of Marine Fauna*
+
   . IKAN-Unterwasserachiv. 723pp.
+
+  '
+size:
+- 60.0
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Among the largest
-[sea slugs](../../slug.md)
+[sea slugs](../../slug)
 to be seen, sea hares may be commonly seen on our Northern and Southern shores in silty and sandy areas near seagrasses and with seaweeds. However, they appear to be seasonal. Sometimes they are everywhere, at other times, none are to be seen.
 
 **What are sea hares?**
 Sea hares are molluscs. They belong to
-[Phylum Mollusca](../../mollusca.md)
+[Phylum Mollusca](../../mollusca)
 and
-[Class Gastropoda](../../gastropoda.md)
+[Class Gastropoda](../../gastropoda)
 like snails. Like many other sea slugs (
-[Subclass Opistobranchia](../../slug.md)
+[Subclass Opistobranchia](../../slug)
 ), sea hares lack external shells as adults. Sea hares belong to Order Anaspidea and are NOT
-[nudibranchs](../../nudibranchia.md)
+[nudibranchs](../../nudibranchia)
 , which belong to a different Order Nudibranchia.
 
 ## Features
@@ -151,7 +200,7 @@ Like other gastropods, most sea hares have a shell, but this is reduced, thin an
 
 **Sometimes confused with**
 other sea slugs that appear similar but belong to different orders. Here's more on how to tell apart
-[sea hares from other sea slugs](../../nudiharesac.md)
+[sea hares from other sea slugs](../../nudiharesac)
 .
 
 **You are what you eat:**
@@ -210,38 +259,38 @@ from Tan Siong Kiat and Henrietta P. M. Woo, 2010
 **Family Aplysiidae**
 
 *Aplysia cornigera*
-*[Aplysia dactylomela](dactylomela.md)*
+*[Aplysia dactylomela](dactylomela)*
 (Black-tailed sea hare)
-*[Aplysia extraordinaria](extraordinaria.md)*
+*[Aplysia extraordinaria](extraordinaria)*
 (Extraordinary sea hare)
 **
 *Aplysia kurodai*
 *+
-[Aplysia oculifera](spotted.md)*
+[Aplysia oculifera](spotted)*
 (Spotted sea hare)
 *+
-[Aplysia parvula](parvula.md)*
+[Aplysia parvula](parvula)*
 (Mini sea hare)
 *+Aplysiomorpha*
 sp.
-*[Bursatella leachii](bursatella.md)*
+*[Bursatella leachii](bursatella)*
 (Hairy sea hare)
-*[Dolabella auricularia](dolabella.md)*
+*[Dolabella auricularia](dolabella)*
 (Wedge sea hare)
 **
 +
 [*Phyllaplysia*
-sp.](seagrass.md)
+sp.](seagrass)
 (Seagrass sea hare)
 **Placobranchus virgatus=Thuridilla virgata*
 (now in
-[Family Plakobranchidae](../sacoglossa/elysiidae.md)
+[Family Plakobranchidae](../sacoglossa/elysiidae)
 )
-*[Stylocheilus](stylocheilus.md)*
-[sp.](stylocheilus.md)
+*[Stylocheilus](stylocheilus)*
+[sp.](stylocheilus)
 (Furry sea hare)
 **
-*[Syphonata geographica](geographica.md)*
+*[Syphonata geographica](geographica)*
 (Geographic sea hare)
 
 ---

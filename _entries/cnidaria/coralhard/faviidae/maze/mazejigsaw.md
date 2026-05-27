@@ -1,10 +1,9 @@
 ---
 title: 'Jigsaw maze corals '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: coral, hard, faviidae, merulinidae, scleractinia, cnidaria, field, 
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: coral, hard, faviidae, merulinidae, scleractinia, cnidaria, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Faviidae
 genus: ''
@@ -18,45 +17,33 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/040605kuscd0015m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/040605kuscd0015m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/040605kuscd0015m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/040605kuscd0015m3.jpg
     caption: Kusu Island, Jun 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/210625kus1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/210625kus1.jpg
     caption: Kusu Island, Jun 21
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/060628sntd3735m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/060628sntd3735m3.jpg
     caption: Sentosa, Jun 06
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/070517sntrd0880m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/070517sntrd0880m3.jpg
     caption: Sentosa, May 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/040606kusd0253m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/040606kusd0253m3.jpg
     caption: Kusu Island, Jun 04
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/100616tsmmn3m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/100616tsmmn3m3.jpg
     caption: Terumbu Semakau, Jun 10 Photo shared by Marcus Ng on his flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/100613sngd5528m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/100613sngd5528m3.jpg
     caption: Pulau Salu, Jun 10 Bleaching.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/100530tbkd4207m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/100530tbkd4207m3b.jpg
     caption: Pulau Berkas, May 10
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/091204pawd0060m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/091204pawd0060m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/100131slud8838m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/100131slud8838m3.jpg
     caption: Terumbu Salu, Jan 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/100811slud0135m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/100811slud0135m3.jpg
     caption: Pulau Salu, Aug 10
 location:
 - tm
@@ -75,6 +62,9 @@ location:
 - tsm
 - rfl
 - lfa
+size:
+- 10.0
+- 25.0
 ---
 
 ## Where seen?
@@ -95,7 +85,7 @@ species.
 It's hard to distinguish them without close examination of small features and they are grouped here by large external features for convenience of display.
 
 Merulind corals with corallites that form short hexagonal or crooked cells are grouped under
-[Maze hexagonal corals](../hexa/mazehexa.md)
+[Maze hexagonal corals](../hexa/mazehexa)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

@@ -1,10 +1,9 @@
 ---
 title: Olive fanworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: olive, fan, worm, fanworm, sabellid, sabellidae, polychaete, annelid, 
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: olive, fan, worm, fanworm, sabellid, sabellidae, polychaete, annelid, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 family: Sabellidae
 genus: ''
@@ -19,28 +18,26 @@ subclass: Sedentaria
 infraclass: Canalipalpata
 order: Sabellida
 updated: Oct 2016
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/olive/091009tmd2683m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/olive/091009tmd2683m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/olive/091009tmd2683m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/olive/091009tmd2683m3.jpg
     caption: Tanah Merah, Oct 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/olive/091009tmd2683m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/olive/091009tmd2683m3b.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/olive/091009tmd2683m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/olive/091009tmd2683m3a.jpg
     caption: Tanah Merah, Oct 09
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/olive/090722chgd7801m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/olive/090722chgd7801m3.jpg
     caption: Sometimes appears 'untidy'. Changi, Jul 09
 location:
 - chg
 - bb
 - tm
 - smk
+size:
+- 6.0
+- 8.0
 ---
 
 ## Where seen?

@@ -8,44 +8,44 @@ layout: entry
 coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/070506sjig9293m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/070506sjig9293m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/070506sjig9292m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/070506sjig9292m3a.jpg"
-      caption: ""
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/070506sjig9293m3.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/070506sjig9292m3.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/070506sjig9292m3a.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/060729sisg6918m3.jpg"
-      caption: "Sisters Island, Jul 06"
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/061106tusd6498m3.jpg"
-      caption: "Tuas, Nov 06"
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/060729sisg6918m3.jpg
+    caption: Sisters Island, Jul 06
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/061106tusd6498m3.jpg
+    caption: Tuas, Nov 06
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/060627krnd3714m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/060627krnd3715m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/060627krjd3715m3a.jpg"
-      caption: ""
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/060627krnd3714m3.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/060627krnd3715m3.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/060627krjd3715m3a.jpg
+    caption: ''
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/050527srbd3455m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/050527srbd3456m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/050527srbd3456m3a.jpg"
-      caption: ""
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/050527srbd3455m3.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/050527srbd3456m3.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/050527srbd3456m3a.jpg
+    caption: ''
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/080511sntd3188m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/080511sntd3188m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/080511sntd3188m3b.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/080511sntd3190m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/080511sntd3190m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/080511sntd3190m3b.jpg"
-      caption: ""
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/080511sntd3188m3.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/080511sntd3188m3a.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/080511sntd3188m3b.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/080511sntd3190m3.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/080511sntd3190m3a.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/080511sntd3190m3b.jpg
+    caption: ''
 ---
 
 **Unidentified nerite snail #070506sjig9293**

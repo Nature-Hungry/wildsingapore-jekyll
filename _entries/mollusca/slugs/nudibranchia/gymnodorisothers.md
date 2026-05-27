@@ -1,10 +1,9 @@
 ---
 title: 'Yellow-spotted gymnodoris nudibranchs '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: yellow, spot, gymnodoris, nudibranchia, slug, seaslug, opisthobranch, 
-  gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: yellow, spot, gymnodoris, nudibranchia, slug, seaslug, opisthobranch, gastropod,
+  mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 14
@@ -30,153 +29,138 @@ infraorder: Doridoidei
 superfamily: Polyceroidea
 subfamily: Polycerinae
 updated: May 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/060102sisg3720m6l.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/060102sisg3720m6l.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/060102sisg3720m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/060102sisg3720m6l.jpg
     caption: Sisters Island, Jan 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/060612cftg6141m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/060612cftg6141m3.jpg
     caption: Changi, Jun 06
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/110830cyrlks1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/110830cyrlks1m3.jpg
     caption: Cyrene Reef, Aug 11 Photo shared by Lok Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/211106sntlks3.jpg
-    caption: Just laid egg string? Sentosa Tg Rimau, Nov 21 Photo shared by Lok 
-      Kok Sheng on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/211106sntlks3.jpg
+    caption: Just laid egg string? Sentosa Tg Rimau, Nov 21 Photo shared by Lok Kok
+      Sheng on facebook .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/130512bsismn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/130512bsismn.jpg
     caption: Big Sisters Island, May 13 Photo shared by Marcus Ng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/120508skdtch2m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/120508skdtch2m3.jpg
     caption: Pulau Sekudu, May 12 Photo shared by Toh Chay Hoon on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/221127lazjk2a.jpg
-    caption: Attempting to eat the larger nudibranch? Lazarus (Eagle Bay), Nov 
-      22 Photo shared by James Koh on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/221127lazjk2.jpg
-    caption: Attempting to eat the larger Blue Dragon nudibranch ? Lazarus 
-      (Eagle Bay), Nov 22 Photo shared by James Koh on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/221127lazjk2a.jpg
+    caption: Attempting to eat the larger nudibranch? Lazarus (Eagle Bay), Nov 22
+      Photo shared by James Koh on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/221127lazjk2.jpg
+    caption: Attempting to eat the larger Blue Dragon nudibranch ? Lazarus (Eagle
+      Bay), Nov 22 Photo shared by James Koh on facebook .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/111030skdlks10m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/111030skdlks10m3.jpg
     caption: Pulau Sekudu, Oct 11 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/111030skdlks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/111030skdlks.JPG
     caption: Pulau Sekudu, Oct 11 Photo shared by Loh Kok Sheng on flickr .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/210626cjtch2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/210626cjtch2.jpg
     caption: Chek Jawa, Jun 21 Photo shared by Toh Chay Hoon on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/180714cjjll1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/180714cjjll1.jpg
     caption: Chek Jawa, Jul 18 Photo shared by Jianlin Liu on facebook .
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/160706skdtch4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/160706skdtch4.jpg
     caption: Pulau Sekudu, Jul 16 Photo shared by Toh Chay Hoon on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/100516skdtch8m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/100516skdtch8m3.jpg
     caption: Pulau Sekudu, May 10 Photo shared by Toh Chay Hoon on her blog .
   gallery8:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/220618tmftccn3.jpg
-    caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Toh Chay Hoon on
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/111226tmftjk1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/220618tmftccn3.jpg
+    caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Toh Chay Hoon on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/111226tmftjk1m3.jpg
     caption: Tanah Merah, Dec 11 Photo shared by James Koh on his blog .
   gallery9:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/211106sntjll2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/211106sntjll2.jpg
     caption: Sentosa Tg Rimau, Nov 21 Photo shared by Jianlin Liu on facebook
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/170129tslgtch1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/170129tslgtch1.jpg
     caption: Terumbu Selegie, Jan 17 Photo shared by Toh Chay Hoon on facebook .
   gallery10:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/170611bsismn2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/170611bsismn2.jpg
     caption: Big Sisters Island, Jun 17 Photo shared by Marcus Ng on facebook .
   gallery11:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/120506lssisjkm6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/120506lssisjkm6l.jpg
     caption: Small Sisters Island, May 12 Photo shared by James Koh on flickr .
   gallery12:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/201115tkkjll4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/201115tkkjll4.jpg
     caption: Pulau Tekukor, Nov 20 Photo shared by Jianlin Liu on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/200112sjiljll3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/200112sjiljll3.jpg
     caption: St John's Island, Jan 20 Photo shared by Jianlin Liu on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/200705kusjll1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/200705kusjll1.jpg
     caption: Kusu Island, Jul 20 Photo shared by Jianlin Liu on facebook .
   gallery13:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/120707jngmn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/120707jngmn.jpg
     caption: Pulau Jong, Jul 12 Photo shared by Marcus Ng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/081113jngtch03m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/081113jngtch03m3.jpg
     caption: Pulau Jong, Nov 08 Shared by Toh Chay Hoon on flickr .
   gallery14:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/250811jngjll3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/250811jngjll3.jpg
     caption: Pulau Jong, Aug 25 Photo shared by Jianlin Liu on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/250811jngjll4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/250811jngjll4.jpg
     caption: Pulau Jong, Aug 25 Photo shared by Jianlin Liu on facebook .
   gallery15:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/091108hntjk4m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/091108hntjk4m3.jpg
     caption: Pulau Hantu, Nov 09 Photo shared by James Koh on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/101108bkomlks7m3.JPG
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/101108bkomlks7m3.JPG
     caption: Terumbu Bukom, Nov 10 Photo shared by Loh Kok Sheng on his blog .
   gallery16:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/201018smkslks7.jpg
-    caption: Pulau Semakau South, Oct 20 Photo shared by Lok Kok Sheng on flickr
-      .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/110814smklks3m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/201018smkslks7.jpg
+    caption: Pulau Semakau South, Oct 20 Photo shared by Lok Kok Sheng on flickr .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/110814smklks3m3.jpg
     caption: Pulau Semakau, Aug 11 Photo shared by Lok Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/160124smkelks5.jpg
-    caption: Pulau Semakau East, Jan 16 Photo shared by Loh Kok Sheng on 
-      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/160124smkelks5.jpg
+    caption: Pulau Semakau East, Jan 16 Photo shared by Loh Kok Sheng on facebook
+      .
   gallery17:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/220102biotch3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/220102biotch3.jpg
     caption: Pulau Biola, Jan 22 Photo shared by Toh Chay Hoon on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
+
   by Dr Bill Rudman: fact sheets and photos of
+
   *[Gymnodoris ceylonica](http://www.seaslugforum.net/find/gymnceyl)*
+
   including photos of them eating other slugs, mating and laying eggs,
+
   *[Gymnodoris citrina](http://www.seaslugforum.net/find/gymncitr)*
+
   including account of cannabalism during mating,
+
   *[Gymnodoris rubropapulosa](http://www.seaslugforum.net/find/gymnrubr)
+
   .*
+
   - [A Guide to Singapore Nudibranchs](http://rmbr.nus.edu.sg/nudibranch/main.html)
+
   by Uma Sachidhanandam: photo and distribution of
+
   [*Gymnodoris alba*](http://rmbr.nus.edu.sg/nudibranch/nudipages/alba.html)
+
   ,
+
   *[Gymnodoris citrina](http://rmbr.nus.edu.sg/nudibranch/nudipages/citrina.html)*
+
   and
+
   *[Gymnodoris rubropapulosa](http://rmbr.nus.edu.sg/nudibranch/nudipages/rubropapulosa.html)*
 
+
   **References**
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
+  '
 location:
 - chg
 - cj
@@ -192,6 +176,9 @@ location:
 - hnt
 - smk
 - rfl
+size:
+- 1.0
+- 2.0
 ---
 
 ## Where seen?
@@ -205,7 +192,7 @@ There are several species of gymnodoris nudibranchs with yellow spots and they a
 
 *Gymnodoris ceylonica*
 : According to Bill Rudman, it has a translucent white body with small bright orange-red spots; large gills with orange lines. It preys on the
-[Long-tailed hairy sea hare](../anaspidae/stylocheilus.md)
+[Long-tailed hairy sea hare](../anaspidae/stylocheilus)
 (
 *Stylocheilus longicauda*
 ). This nudibranch lays eggs in 'strings' that look more like sea hare egg masses. It is widespread in the Indo-West Pacific.
@@ -224,11 +211,11 @@ There are several species of gymnodoris nudibranchs with yellow spots and they a
 {% include img-wrap-group.html items=page.galleries.gallery4 %}
 **What do they eat?**
 Gymnodoris species are described to be 'voracious predators' of other sea slugs like
-[nudibranchs](../../nudibranchia.md)
+[nudibranchs](../../nudibranchia)
 ,
-[sacoglossans](../sacoglossa/sacoglossa.md)
+[sacoglossans](../sacoglossa/sacoglossa)
 and
-[sea hares](../anaspidae/anaspidea.md)
+[sea hares](../anaspidae/anaspidea)
 .
 
 Gymnodoris eating another nudibranch! Filmed diving at Pulau Hantu, Oct 2019

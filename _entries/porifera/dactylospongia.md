@@ -1,8 +1,6 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: sponge, pseudoceratina, purpurea, pseudoceratinidae, porifera, field, 
-  guide,
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: sponge, pseudoceratina, purpurea, pseudoceratinidae, porifera, field, guide,
 layout: entry
 shape: branching
 title: Mustard sponge
@@ -19,36 +17,44 @@ subclass: Keratosa
 order: Dictyoceratida
 subfamily: Thorectinae
 updated: Oct 2016
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/porifera/dactylospongia/100518bbbd3074m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/porifera/dactylospongia/100518bbbd3074m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/dactylospongia/110323smkd7707m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/dactylospongia/110323smkd7707m3.jpg
     caption: Pulau Semakau, Mar 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/dactylospongia/110323smkd7707m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/dactylospongia/110323smkd7707m3b.jpg
     caption: Submerged.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/dactylospongia/100518bbbd3074m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/dactylospongia/100518bbbd3074m3a.jpg
     caption: Out of water.
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - *[Dactylospongia elegans](http://142.103.81.136/summary/Dactylospongia-elegans.html)*
+
   on SeaLife Base: technical fact sheet.
+
   - *[Dactylospongia elegans](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=165312)*
+
   on the World Porifera Database.
 
+
   **References**
+
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
+
   *A Guide to Sponges of Singapore*
+
   . Singapore Science Centre. 173pp.
+
+  '
 location:
 - snt
 - cyr
 - hnt
 - smk
 - tsm
+size:
+- 2.0
+- 5.0
 ---
 
 ## Where seen?
@@ -58,7 +64,7 @@ This encrusting sponge is sometimes seen on coral rubble on our Southern shores.
 Thin encrustation with short (2-5cm) finger-like upright branches. Surface rubbery, spiky and prickly when the sponge is out of water. Large holes at the tips of the 'fingers' or widely separated. Colour uniform mustard (yellowish brown).
 
 **Sometimes confused with**
-[Yellow prickly branching sponges](encrustprickly.md)
+[Yellow prickly branching sponges](encrustprickly)
 (
 *Pseudoceratina purpurea*
 , Family Pseudoceratinidae) which looks very similar. The two kinds of sponges are difficult to tell apart in the field.

@@ -21,84 +21,143 @@ updated: Aug 2025
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/ribbon/110323tsmkd7813m6la.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "if you learn only 3 things about them ... They are not fish! Many can sting. Don't touch jellyfish, even those stranded on the beach. Sea turtles eat jellyfishes and often mistake plastic bags for jellyfishes. Turtles can die from accidentally eating the bags."
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "They are not fish! Many can sting. Don't touch jellyfish, even those stranded on the beach. Sea turtles eat jellyfishes and often mistake plastic bags for jellyfishes. Turtles can die from accidentally eating the bags."
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... They are not fish! Many can
+      sting. Don't touch jellyfish, even those stranded on the beach. Sea turtles
+      eat jellyfishes and often mistake plastic bags for jellyfishes. Turtles can
+      die from accidentally eating the bags.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: They are not fish! Many can sting. Don't touch jellyfish, even those
+      stranded on the beach. Sea turtles eat jellyfishes and often mistake plastic
+      bags for jellyfishes. Turtles can die from accidentally eating the bags.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/ribbon/110323tsmkd7813m6la.jpg"
-      caption: "The Ribbon jellyfish has thin tentacles and thick ruffled long arms. Terumbu Semakau, Mar 11"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/ribbon/110323tsmkd7815m3.jpg"
-      caption: "Terumbu Semakau, Mar 11"
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/ribbon/110323tsmkd7813m6la.jpg
+    caption: The Ribbon jellyfish has thin tentacles and thick ruffled long arms.
+      Terumbu Semakau, Mar 11
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/ribbon/110323tsmkd7815m3.jpg
+    caption: Terumbu Semakau, Mar 11
   gallery3:
-    - url: "https://live.staticflickr.com/3821/32623276364_f8a05dc678_z.jpg"
-      caption: ""
+  - url: https://live.staticflickr.com/3821/32623276364_f8a05dc678_z.jpg
+    caption: ''
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/huge/160610jngmn5.jpg"
-      caption: "Pulau Jong, Jun 16 Photo shared by Marcus Ng on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/huge/160610jngmn4.jpg"
-      caption: Small fishes swimming near the jellyfish.
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/huge/160610jngmn5.jpg
+    caption: Pulau Jong, Jun 16 Photo shared by Marcus Ng on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/huge/160610jngmn4.jpg
+    caption: Small fishes swimming near the jellyfish.
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/mangrove/090410ubnd9384m3.jpg"
-      caption: Mangrove jellyfish
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/fatarm/050426cftg5076m3.jpg"
-      caption: Fat-armed jellyfish
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/ribbon/050624tusg8515m3.jpg"
-      caption: Ribbon jellyfish
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/mangrove/090410ubnd9384m3.jpg
+    caption: Mangrove jellyfish
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/fatarm/050426cftg5076m3.jpg
+    caption: Fat-armed jellyfish
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/ribbon/050624tusg8515m3.jpg
+    caption: Ribbon jellyfish
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/080321smkd0421m3.jpg"
-      caption: Upsidedown jellyfish
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/huge/060516chgd2021m3.jpg"
-      caption: Huge jellyfish
-    - url: "http://www.wildsingapore.com/wildfacts/hydrozoa/thread/040409tusad0160m3.jpg"
-      caption: Thread-tentacled jellyfish
-links_references: |
-  **Links**
-  - [Rhizostome jellyfish](http://mangrove.nus.edu.sg/pub/seashore/text/115.md)
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/080321smkd0421m3.jpg
+    caption: Upsidedown jellyfish
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/huge/060516chgd2021m3.jpg
+    caption: Huge jellyfish
+  - url: http://www.wildsingapore.com/wildfacts/hydrozoa/thread/040409tusad0160m3.jpg
+    caption: Thread-tentacled jellyfish
+links_references: '**Links**
+
+  - [Rhizostome jellyfish](http://mangrove.nus.edu.sg/pub/seashore/text/115)
+
   and
+
   [Sea Nettle (
+
   *Chrysaora melanaster*
-  ) Order Semaeostomeae](http://mangrove.nus.edu.sg/pub/seashore/text/249.md)
+
+  ) Order Semaeostomeae](http://mangrove.nus.edu.sg/pub/seashore/text/249)
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
+
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+
   . The Singapore Science Centre, Singapore. 160 pp.
+
   - [The Scyphozoan website](http://thescyphozoan.ucmerced.edu/)
+
   by Dr Michael N Dawson: lots of info about jellyfishes in Class Scyphozoa.
+
   - [Jellyfish: Do tourists need warnings?](http://wildsingaporenews.blogspot.com/2010/11/jellyfish-do-tourists-need-warnings.html)
-  Some say they must know risk, but others warn against panic Nirmal Ghosh, Straits Times 26 Nov 10;
+
+  Some say they must know risk, but others warn against panic Nirmal Ghosh, Straits
+  Times 26 Nov 10;
+
   - From the wild shores of singapore blog.
+
   - [How to photograph jellyfishes for identification](http://wildshores.blogspot.com/2008/08/how-to-photograph-jellyfishes-for.html)
+
   - [Our jellyfishes identified](http://wildshores.blogspot.com/2008/08/our-jellyfishes-identified.html)
+
   - [Jellyfish and the Nobel Prize](http://wildshores.blogspot.com/2008/10/jellyfish-and-nobel-prize.html)
+
   - [Jellyfish stings are as fast and powerful as bullets](http://wildshores.blogspot.com/2008/12/jellyfish-stingers-are-as-fast-and.html)
+
   - [A plague of jellyfish](http://wildshores.blogspot.com/2008/12/plague-of-jellyfish.html)
+
   - [The truth about jellyfish swarms](http://wildshores.blogspot.com/2008/12/truth-about-jellyfish-swarms.html)
-  - [Silent invasion of 'immortal' jellyfish](http://wildshores.blogspot.com/2009/01/silent-invasion-of-immortal-jellyfish.html)
+
+  - [Silent invasion of ''immortal'' jellyfish](http://wildshores.blogspot.com/2009/01/silent-invasion-of-immortal-jellyfish.html)
+
   - [Mushroom coral munches on jellyfish](http://wildshores.blogspot.com/2009/11/mushroom-coral-munches-on-jellyfish.html)
-  
+
+
   **References**
-  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
+
+  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
+  Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H.
+  Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The
+  Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition.
+  National Parks Board. 663 pp.
+
   - Iffah Iesa, Chuan Chee Hoe & Nicholas Yap Wei Liang. 30 September 2020.
+
   *New record of the jellyfish, Ulmaris snelliusi, in Singapore*
+
   . Singapore Biodiversity Records 2020: 132-133. The National University of Singapore.
+
   - Iffah Iesa & Nicholas Wei Liang Yap.
+
   *Box jellyfish of the genus Morbakka in Singapore*
-  . 31 January 2018. Singapore Biodiversity Records 2018: 13-15 ISSN 2345-7597. National University of Singapore.
+
+  . 31 January 2018. Singapore Biodiversity Records 2018: 13-15 ISSN 2345-7597. National
+  University of Singapore.
+
   - Iffah Iesa.
+
   *Mangrove box jellyfish, Tripedalia cystophora, in Singapore*
-  . 28 December 2017. Singapore Biodiversity Records 2017: 183 ISSN 2345-7597. National University of Singapore.
+
+  . 28 December 2017. Singapore Biodiversity Records 2017: 183 ISSN 2345-7597. National
+  University of Singapore.
+
   - Uwe Will & Iffah Iesa.
+
   *River jellyfish, Acromitus hardenbergi, at Sungei Buloh*
-  . 30 November 2017. Singapore Biodiversity Records 2017: 156-157 ISSN 2345-7597. National University of Singapore.
+
+  . 30 November 2017. Singapore Biodiversity Records 2017: 156-157 ISSN 2345-7597.
+  National University of Singapore.
+
   - Wee Y.C. and Peter K. L. Ng. 1994.
+
   *A First Look at Biodiversity in Singapore*
+
   . National Council on the Environment. 163pp.
+
   - Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.
+
   *Invertebrate Zoology*
+
   Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
+
   - Pechenik, Jan A., 2005.
+
   *Biology of the Invertebrates*
+
   . 5
+
+  '
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
@@ -108,13 +167,13 @@ Almost everyone knows what a jellyfish looks like! These blobs of jelly are crea
 
 **What are jellyfish?**
 Despite their name, they are not fish and are more closely related to sea anemones and corals. They are
-[Cnidarians](../../cnidaria.md)
+[Cnidarians](../../cnidaria)
 (Phylum Cnidaria).
 
 Jellyfish may belong to various groups within the Phylum Cnidaria. Many cnidarians undergo a life cycle in which they take a jellyfish-like form (the medusa) in one stage, and a stationary sea anemone-like form (the polyp) in another stage.
 
 Other cnidarians only take the form of a jellyfish in their life cycle and don't take on the stationary form. These include members of the Class Scyphozoa; Class Cubozoa (which includes the highly venomous box jellies);
-[Class Hydrozoa](../hydrozoa/hydrozoa.md)
+[Class Hydrozoa](../hydrozoa/hydrozoa)
 (which includes the highly venomous Portuguese-Man-of-War in the Order Siphonophora which is a colony and not a solitary animal like other jellyfish). In Class Scyphozoa and Class Cubozoa, the jellyfish form is the dominant and most conspicuous form in the life cycle.
 
 ## Features
@@ -133,7 +192,7 @@ Do not touch jellyfishes. Cover all skin if you have to work in water: long slee
 
 **What do they eat?**
 Some jellyfish sting fishes and crustaceans. Others are suspension feeders, trapping plankton in mucus on the underside of their bell-shaped bodies. The
-[Upsidedown jellyfish](upsidedown.md)
+[Upsidedown jellyfish](upsidedown)
 has a farm in its arms - it harbours microscopic, single-celled algae (called zooxanthellae) inside its body. The algae undergo photosynthesis to produce food from sunlight. The food produced is shared with the jellyfish, which in return provides the algae with shelter and minerals.
 
 **Jellyfish babies:**
@@ -146,9 +205,9 @@ Among the creatures that eat jellyfish are sea turtles. Because plastic bags and
 
 **Jellyfish friends:**
 Sometimes, small fishes can be seen near
-[huge jellyfishes](huge.md)
+[huge jellyfishes](huge)
 and even
-[Ribbon jellyfishes](ribbon.md)
+[Ribbon jellyfishes](ribbon)
 including near their stinging tentacles.
 
 {% include img-wrap-group.html items=page.galleries.gallery4 %}**Human uses:**
@@ -156,7 +215,7 @@ Jellyfish are a delicacy in Chinese cuisine. But so far, there has not been an o
 
 **Status:**
 Except for the
-[Mangrove jellyfish](mangrove.md)
+[Mangrove jellyfish](mangrove)
 which is listed as Vulnerable, there is inadequate information as at 2024 to make an informed assesment of the conservation status of the recorded jellyfishes in Singapore.
 
 ---
@@ -182,9 +241,9 @@ for free download
 **Class Scyphozoa on Singapore Shores**
 from Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
 
-[Huge jellyfishes](huge.md)
+[Huge jellyfishes](huge)
 
-**[Family Cassiopeidae](upsidedown.md)**
+**[Family Cassiopeidae](upsidedown)**
 (Upsidedown jellyfish)
 
 *Cassiopea andromeda*
@@ -194,15 +253,15 @@ from Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Thr
 
 **Family Catostylidae**
 
-*[Acromitus](mangrove.md)*
-[sp.](mangrove.md)
+*[Acromitus](mangrove)*
+[sp.](mangrove)
 (Mangrove jellyfish)
 
 *Acromitus hardenbergi*
 (River jellyfish)
 
-*[Catostylus](catostylus.md)*
-[sp.](catostylus.md)
+*[Catostylus](catostylus)*
+[sp.](catostylus)
 (Fat-armed jellyfish)
 
 **Family Linuchidae**
@@ -218,7 +277,7 @@ from Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Thr
 **Family Pelagiidae**
 
 [*Chrysaora*
-sp.](ribbon.md)
+sp.](ribbon)
 (Ribbon jellyfish)
 *Chrysaora chinensis*
 *Chrysaora melanaster*

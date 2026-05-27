@@ -1,11 +1,9 @@
 ---
 title: Sapphire flatworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: sapphire, flat, worm, flatworm, pseudoceros, caeruleocinctus, 
-  sapphirinus, polyclad, turbellaria, platyhelminthes,  field, guide, seashore, 
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, 
-  photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: sapphire, flat, worm, flatworm, pseudoceros, caeruleocinctus, sapphirinus,
+  polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Pseudocerotidae
 genus: Pseudoceros
@@ -19,46 +17,36 @@ subphylum: Rhabditophora
 order: Polycladida
 suborder: Cotylea
 updated: Feb 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/worm/polycladida/sapphirinus/050411tusg4484m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/sapphirinus/050411tusg4484m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/sapphirinus/050411tusg4484m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/sapphirinus/050411tusg4484m3.jpg
     caption: Tuas, Apr 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/sapphirinus/050411tusg4482m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/sapphirinus/050411tusg4482m3a.jpg
     caption: Pseudotentacles made up of folded edges of body margin.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/sapphirinus/200310lazvc1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/sapphirinus/200310lazvc1.jpg
     caption: Lazarus, Mar 20 Photo shared by VIncent Choo on facebook .
-links_references: |
-  **Links**
-  - [*Pseudoceros sapphirinus*](http://polycladida.lifedesks.org/pages/3132)
-  on Encyclopedia of Life, LifeDesks, Marine Flatworms - Polycladida: Technical fact sheet.
-
-  **References**
-  - Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018.
-  *A preliminary checklist and photographic catalogue of polyclad flatworms recorded from Singapore.*
-  Nature in Singapore 2018 11: 77–125
-  - D. M. Bolaños, B. Q. Gan & R. S. L. Ong. 29 Jun 2016.
-  *First records of pseudocerotid flatworms (Platyhelminthes: Polycladida: Cotylea) from Singapore: A taxonomic report with remarks on colour variation*
-  .(pdf) The Raffles Bulletin of Zoology Supplement No. 34: 130-169 Pp. 130-169.
-  - Newman, L.J. & Cannon, L.R.G.
-  *Pseudoceros (Platyhelminthes: Polycladida) from the Indo-Pacific with twelve new species from Australia and Papua New Guinea.*
-  The Raffles Bulletin of Zoology 1998 Pp. 293-323.
-  - Newman, Leslie and Lester Cannon. 2003.
-  *Marine Flatworms: The World of Polyclads*
-  . CSIRO Publishing. 97pp.
-  - Humann, Paul and Ned Deloach. 2010.
-  *Reef Creature Identification: Tropical Pacific*
-  New World Publications. 497pp.
-  - Kuiter, Rudie H and Helmut Debelius. 2009.
-  *World Atlas of Marine Fauna*
-  . IKAN-Unterwasserachiv. 723pp.
+links_references: "**Links**\n- [*Pseudoceros sapphirinus*](http://polycladida.lifedesks.org/pages/3132)\n\
+  on Encyclopedia of Life, LifeDesks, Marine Flatworms - Polycladida: Technical fact\
+  \ sheet.\n\n**References**\n- Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018.\n\
+  *A preliminary checklist and photographic catalogue of polyclad flatworms recorded\
+  \ from Singapore.*\nNature in Singapore 2018 11: 77\u2013125\n- D. M. Bola\xF1os,\
+  \ B. Q. Gan & R. S. L. Ong. 29 Jun 2016.\n*First records of pseudocerotid flatworms\
+  \ (Platyhelminthes: Polycladida: Cotylea) from Singapore: A taxonomic report with\
+  \ remarks on colour variation*\n.(pdf) The Raffles Bulletin of Zoology Supplement\
+  \ No. 34: 130-169 Pp. 130-169.\n- Newman, L.J. & Cannon, L.R.G.\n*Pseudoceros (Platyhelminthes:\
+  \ Polycladida) from the Indo-Pacific with twelve new species from Australia and\
+  \ Papua New Guinea.*\nThe Raffles Bulletin of Zoology 1998 Pp. 293-323.\n- Newman,\
+  \ Leslie and Lester Cannon. 2003.\n*Marine Flatworms: The World of Polyclads*\n\
+  . CSIRO Publishing. 97pp.\n- Humann, Paul and Ned Deloach. 2010.\n*Reef Creature\
+  \ Identification: Tropical Pacific*\nNew World Publications. 497pp.\n- Kuiter, Rudie\
+  \ H and Helmut Debelius. 2009.\n*World Atlas of Marine Fauna*\n. IKAN-Unterwasserachiv.\
+  \ 723pp.\n"
 location:
 - tus
 - laz
+size:
+- 4.0
 ---
 
 ## Where seen?

@@ -1,10 +1,9 @@
 ---
 title: Yellow-lipped sea krait
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: sea, snake, krait, laticauda, colubrina, elapidae, hydrophiidae, 
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: sea, snake, krait, laticauda, colubrina, elapidae, hydrophiidae, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 family: Elapidae
 genus: Laticauda
@@ -20,100 +19,114 @@ order: Squamata
 suborder: Serpentes
 subfamily: Laticaudinae
 updated: Oct 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/090509sismn1m6l.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/090509sismn1m6l.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/090509sismn1m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/090509sismn1m6l.jpg
     caption: Sisters Island, May 09 Photo shared by Marcus Ng on his flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/031029sntcd0003m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/031029sntcd0003m3.jpg
     caption: It has a paddle-shaped tail. Sentosa, Oct 03
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/031124sised0009m3b.jpg
-    caption: Head and tail can look similar at first glance. Sisters Island, Nov
-      03
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/031224sised0020m3.jpg
-    caption: Like other snakes, it sticks out its tongue to sense its 
-      surroundings Sisters Island, Dec 03
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/050918smkg2666m3.jpg
-    caption: These snakes are curious but will not bite if not provoked (that's 
-      my bootie!) Pulau Semakau, Sep 05
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/031124sised0009m3b.jpg
+    caption: Head and tail can look similar at first glance. Sisters Island, Nov 03
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/031224sised0020m3.jpg
+    caption: Like other snakes, it sticks out its tongue to sense its surroundings
+      Sisters Island, Dec 03
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/050918smkg2666m3.jpg
+    caption: These snakes are curious but will not bite if not provoked (that's my
+      bootie!) Pulau Semakau, Sep 05
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/240820kusmn3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/240820kusmn3.jpg
     caption: Kusu Island, Aug 24 Photo shared by Marcus Ng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/240114kusky1.jpg
-    caption: Kusu Island, Jan 24 About 40-45cm long. Photo shared by Kelvin Yong
-      on facebook . Kusu Island, Apr 17 Photos shared by Toh Chay Hoon on 
-      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/240114kusky1.jpg
+    caption: Kusu Island, Jan 24 About 40-45cm long. Photo shared by Kelvin Yong on
+      facebook . Kusu Island, Apr 17 Photos shared by Toh Chay Hoon on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/120505sisgl2m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/120505sisgl2m6l.jpg
     caption: Sisters Island, May 12 Photos shared by Geraldine Lee on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/110123sislt1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/110123sislt1m3.jpg
     caption: Sisters Island, Jan 11 Photo shared by LIana Tang on facebook .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/260103bsisrqo1.jpg
-    caption: Big Sisters Island, Jan 26 Photo shared by Rui Quan Oh on facebook 
-      .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/110204sislks1m6l.JPG
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/260103bsisrqo1.jpg
+    caption: Big Sisters Island, Jan 26 Photo shared by Rui Quan Oh on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/110204sislks1m6l.JPG
     caption: Sisters Island, Feb 11 Photo shared by Loh Kok Sheng on his blog .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/240624sjiky6.jpg
-    caption: St. John's Island, Jun 24 Photos shared by Kelvin Yong on facebook 
-      .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/201115tkklks6.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/240624sjiky6.jpg
+    caption: St. John's Island, Jun 24 Photos shared by Kelvin Yong on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/201115tkklks6.jpg
     caption: Pulau Tekukor, Nov 20 Photo shared by Loh Kok Sheng on facebook .
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/100601slujk.JPG
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/100601slujk.JPG
     caption: Pulau Salu, Jun 10 Photo shared by James Koh on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/140617tblks1m3.JPG
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/140617tblks1m3.JPG
     caption: Terumbu Benban, Jun 14 Photos shared by Loh Kok Sheng on his blog .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Yellow-lipped Sea Kraits](http://singaporesnakes.blogspot.com/search/label/Yellow-lipped%20Sea%20Krait)
+
   on the
+
   [Singapore Snakes](http://singaporesnakes.blogspot.com/)
+
   blog: fact sheet with photos and links to local sightings and other posts.
-  - [Amphibious Sea Snake](http://www.ecologyasia.com/verts/snakes/amphibious_sea_snake.md)
-  on Nick Baker's EcologyAsia website: fact sheet with photos.
+
+  - [Amphibious Sea Snake](http://www.ecologyasia.com/verts/snakes/amphibious_sea_snake)
+
+  on Nick Baker''s EcologyAsia website: fact sheet with photos.
+
   - [*Laticauda colubrina*](https://singapore.biodiversity.online/taxo4254/mainSpace/Laticauda%20colubrina.html#Laticauda%20colubrina)
-  (Squamata: Hydrophiidae) Yellow-lipped Sea Krait by Lui Chun Yih Gerald, 2011 on taxo4254.
-  - [The 'two-headed' yellow-lipped sea snake](http://wildshores.blogspot.com/2009/08/two-headed-yellow-lipped-sea-krait.html)
+
+  (Squamata: Hydrophiidae) Yellow-lipped Sea Krait by Lui Chun Yih Gerald, 2011 on
+  taxo4254.
+
+  - [The ''two-headed'' yellow-lipped sea snake](http://wildshores.blogspot.com/2009/08/two-headed-yellow-lipped-sea-krait.html)
+
   on the wild shores of singapore blog.
 
+
   **References**
+
   - Lim, Kelvin K. P. & Francis L K Lim, 1992.
+
   *A Guide to the Amphibians and Reptiles of Singapore*
+
   Singapore Science Centre. 160 pp.
+
   - Baker, Nick and Kelvin Lim. 2008.
-  *Wild Animals of Singapore: A Photographic Guide to Mammals, Reptiles, Amphibians and Freshwater Fishes*
+
+  *Wild Animals of Singapore: A Photographic Guide to Mammals, Reptiles, Amphibians
+  and Freshwater Fishes*
+
   Vertebrate Study Group, Nature Society (Singapore). 180 pp.
+
   - Stuebing, Robert B and Robert F. Inger. 1999.
+
   *A Field Guide to the Snakes of Borneo*
+
   Natural History Publications (Borneo). 254 pp.
-  - Cox, Merel J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt. 1998.
-  *A Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular Malaysia and Singapore*
+
+  - Cox, Merel J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt.
+  1998.
+
+  *A Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular Malaysia
+  and Singapore*
+
   New Holland. pp 144.
+
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+
   . Nature Society (Singapore). 285 pp.
+
   - Chou, L. M., 1998.
+
   *A Guide to the Coral Reef Life of Singapore*
+
   . Singapore Science Centre. 128 pages.
+
+  '
 location:
 - snt
 - kus
@@ -123,6 +136,8 @@ location:
 - smk
 - tsm
 - lfa
+size:
+- 140.0
 ---
 
 ## Where seen?
@@ -147,13 +162,13 @@ Wear covered shoes and long pants to cover all skin exposed to water. Don't hara
 
 **Sometimes confused**
 with the harmless
-[Banded file snake](granulatus.md)
+[Banded file snake](granulatus)
 (
 *Acrochordus granulatus*
 ). Here's
-[how to tell apart banded snakes](cfseafile.md)
+[how to tell apart banded snakes](cfseafile)
 seen near the coast. It may also be confused with eels. Here's more on
-[how to tell apart sea snakes, eels and eel-like animals](../../glossary/eelsnake.md)
+[how to tell apart sea snakes, eels and eel-like animals](../../glossary/eelsnake)
 .
 
 **What does it eat?**

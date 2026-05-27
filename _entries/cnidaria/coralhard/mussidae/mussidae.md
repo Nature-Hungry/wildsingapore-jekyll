@@ -1,10 +1,9 @@
 ---
 title: 'Brain corals '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: brain, mussidae, lobophylliidae, lobophyllia, symphyllia, coral, hard,
-  scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: brain, mussidae, lobophylliidae, lobophyllia, symphyllia, coral, hard, scleractinia,
+  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Lobophylliidae
 genus: ''
@@ -18,50 +17,63 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Sep 2025
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/060714rlhg6536m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/060714rlhg6536m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/060714rlhg6536m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/060714rlhg6536m3.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/060714rlhg6536m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/060714rlhg6536m3a.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/100201hntd8950m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/100201hntd8950m3.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/symphyllia/080508cyrd2664m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/symphyllia/080508cyrd2664m3.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/symphyllia/080508cyrd2664m3d.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/symphyllia/080508cyrd2664m3d.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/symphyllia/080816sisd9640m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/symphyllia/080816sisd9640m3.jpg
     caption: ''
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
+
   with species factsheets.
 
+
   **References**
+
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
-  *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new records*
+
+  *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new
+  records*
+
   (pdf). Raffles Bulletin of Zoology Supplement No. 22: 69-80.
+
   - Veron, Jen. 2000.
+
   *Corals of the World*
+
   Australian Institute of Marine Science, Australia. 3 volumes.
+
   - Chou, L. M., 1998.
+
   *A Guide to the Coral Reef Life of Singapore*
+
   . Singapore Science Centre. 128 pages.
+
   - Erhardt, Harry and Daniel Knop. 2005.
+
   *Corals: Indo-Pacific Field Guide*
+
   IKAN-Unterwasserachiv, Frankfurt. 305 pp.
+
   - Borneman, Eric H. 2001.
+
   *Aquarium Corals: Selection, Husbandry and Natural History*
+
   T.F. H Publications. 464 pp
+
+  '
 location:
 - snt
 - tkr
@@ -100,7 +112,7 @@ and
 look very similar and requires close examination to differentiate. On this website they are grouped by external features for convenience of display.
 
 **Sometimes mistaken for**
-[Corals with maze-like patterns](../faviidae/maze/mazeothers.md)
+[Corals with maze-like patterns](../faviidae/maze/mazeothers)
 (Family Faviidae), which have thinner corallite walls without large 'teeth'.
 
 **Status:**
@@ -131,9 +143,9 @@ in the above.
 *On this website, they are grouped by external features for convenience of display*
 *.*
 
-[Lobed brain coral](lobophyllia.md)
+[Lobed brain coral](lobophyllia)
 
-[Grooved brain coral](symphyllia.md)
+[Grooved brain coral](symphyllia)
 
 **Family Lobophylliidae**
 (previously Mussidae)

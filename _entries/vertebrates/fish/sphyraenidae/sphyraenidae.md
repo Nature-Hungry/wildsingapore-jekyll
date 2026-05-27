@@ -1,9 +1,8 @@
 ---
 title: Barracudas
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: barracuda, sphyraenidae, fish, field, guide, seashore, sea, shore, 
-  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: barracuda, sphyraenidae, fish, field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 9
@@ -24,82 +23,51 @@ superorder: Acanthomorpha
 order: Carangiformes
 suborder: Centropomoidei
 updated: Oct 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/090806tmd8369m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/090806tmd8369m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/090806tmd8369m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/090806tmd8369m3.jpg
     caption: Tanah Merah, Aug 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/151129sjimn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/151129sjimn.jpg
     caption: St John's Island, Nov 15 Photo shared by Marcus Ng on facebook .
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/110814smkd8897m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/110814smkd8897m6l.jpg
     caption: Pulau Semakau, Aug 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/110814smkd8897m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/110814smkd8897m3a.jpg
     caption: Upper and lower jaws about the same length.
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/100528kusmn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/100528kusmn.jpg
     caption: Kusu Island, May 10 Photo shared by Marcus Ng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/111002bsismn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/111002bsismn.jpg
     caption: Big Sisters Island, Oct 11 Photo shared by Marcus Ng on flickr .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/080422smkmn01m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/080422smkmn01m3.jpg
     caption: Pulau Semakau, Apr 08 Photo shared by Marcus Ng on his flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/241116smkset2.jpg
-    caption: Pulau Semakau (South), Dec 24 Photo shared by Eugene Tan on 
-      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/241116smkset2.jpg
+    caption: Pulau Semakau (South), Dec 24 Photo shared by Eugene Tan on facebook
+      .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/110731trylks5m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/110731trylks5m6l.jpg
     caption: Terumbu Raya, Jul 11 Photo shared by Lok Kok Sheng on his blog .
-links_references: |
-  **Links**
-  - [Pickhandle Barracuda](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/352.md)
-  (
-  *Sphyraena jello*
-  ) Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
-  *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
-  . Singapore Science Centre. 163 pp.
-  - [Family Sphyraenidae](http://www.fishbase.org/Summary/FamilySummary.php?ID=360)
-  (Barracudas) and
-  [*Sphyraena barracuda*
-  (Great barracuda)](http://www.fishbase.org/summary/1235)
-  and
-  [*Sphyraena jello*
-  (Pickhandle barracuda)](http://www.fishbase.org/summary/4827)
-  and
-  [*Sphyraena obtusata*
-  (Obtuse barracuda)](http://www.fishbase.org/summary/4493)
-  from
-  [FishBase](http://www.fishbase.org/)
-  : Technical fact sheet.
-  - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.md)
-  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
-
-  **References**
-  - Zeehan Jaafar.
-  *Great barracuda at Sisters’ Islands Marine Park*
-  . 31 July 2019. Singapore Biodiversity Records 2019: 91-92 ISSN 2345-7597. National University of Singapore.
-  - Wee Y.C. and Peter K. L. Ng. 1994.
-  *A First Look at Biodiversity in Singapore*
-  . National Council on the Environment. 163pp.
-  - Allen, Gerry, 2000.
-  *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
-  . Periplus Editions. 292 pp.
-  - Kuiter, Rudie H. 2002.
-  *Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers & Fishermen*
-  New Holland Publishers. 434pp.
-  - Lieske, Ewald and Robert Myers. 2001.
-  *Coral Reef Fishes of the World*
-  Periplus Editions. 400pp.
+links_references: "**Links**\n- [Pickhandle Barracuda](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/352)\n\
+  (\n*Sphyraena jello*\n) Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.\n*[A Guide\
+  \ to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*\n\
+  . Singapore Science Centre. 163 pp.\n- [Family Sphyraenidae](http://www.fishbase.org/Summary/FamilySummary.php?ID=360)\n\
+  (Barracudas) and\n[*Sphyraena barracuda*\n(Great barracuda)](http://www.fishbase.org/summary/1235)\n\
+  and\n[*Sphyraena jello*\n(Pickhandle barracuda)](http://www.fishbase.org/summary/4827)\n\
+  and\n[*Sphyraena obtusata*\n(Obtuse barracuda)](http://www.fishbase.org/summary/4493)\n\
+  from\n[FishBase](http://www.fishbase.org/)\n: Technical fact sheet.\n- [Volume 4:\
+  \ Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00)\n\
+  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources\
+  \ of the Western Central Pacific.\n\n**References**\n- Zeehan Jaafar.\n*Great barracuda\
+  \ at Sisters\u2019 Islands Marine Park*\n. 31 July 2019. Singapore Biodiversity\
+  \ Records 2019: 91-92 ISSN 2345-7597. National University of Singapore.\n- Wee Y.C.\
+  \ and Peter K. L. Ng. 1994.\n*A First Look at Biodiversity in Singapore*\n. National\
+  \ Council on the Environment. 163pp.\n- Allen, Gerry, 2000.\n*Marine Fishes of South-East\
+  \ Asia: A Field Guide for Anglers and Divers*\n. Periplus Editions. 292 pp.\n- Kuiter,\
+  \ Rudie H. 2002.\n*Guide to Sea Fishes of Australia: A Comprehensive Reference for\
+  \ Divers & Fishermen*\nNew Holland Publishers. 434pp.\n- Lieske, Ewald and Robert\
+  \ Myers. 2001.\n*Coral Reef Fishes of the World*\nPeriplus Editions. 400pp.\n"
 location:
 - cj
 - tm
@@ -126,9 +94,9 @@ Barracudas belong to the Family Sphyraenidae. According to
 Enormous adults are found in deeper water. Those seen on the intertidal are juveniles usually 5-8cm long. Body short and cylindrical with regular pale bars on a greenish or olive background. Large eyes. Both jaws seem to be about the same length, the upper jaw only a little shorter than the lower jaw. It has a forked tail and the dorsal fins are far apart and well separated.
 
 **Sometimes mistaken for**
-[halfbeaks](../hemiramphidae/hemiramphidae.md)
+[halfbeaks](../hemiramphidae/hemiramphidae)
 . Halfbeaks have an upper jaw that is much shorter than the lower jaw. Here's more on
-[how to tell apart stick-like fishes](../cfstick.md)
+[how to tell apart stick-like fishes](../cfstick)
 commonly seen on our shores.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

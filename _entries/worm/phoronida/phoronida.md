@@ -1,10 +1,9 @@
 ---
 title: Cerianthid phoronid worm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: ceriantharia, cerianthid, phoronid, worm, phoronis, australis, 
-  phoronida, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: ceriantharia, cerianthid, phoronid, worm, phoronis, australis, phoronida,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: ''
 genus: ''
@@ -14,66 +13,71 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Oct 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/worm/phoronida/phoronida/030630chgd0017m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/worm/phoronida/phoronida/030630chgd0017m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet2.gif
-    caption: if you learn only 3 things about them ... They are often seen near 
-      cerianthids. They are shy and hide at the slightest sign of danger. Be 
-      quiet and wait for them to emerge. They look like fanworms but belong to a
-      different animal group. Their tubes are made of chitin, the same substance
-      that insect exoskeleton is made of.
+    caption: if you learn only 3 things about them ... They are often seen near cerianthids.
+      They are shy and hide at the slightest sign of danger. Be quiet and wait for
+      them to emerge. They look like fanworms but belong to a different animal group.
+      Their tubes are made of chitin, the same substance that insect exoskeleton is
+      made of.
   - url: http://www.wildsingapore.com/photos/bullet2.gif
-    caption: They are often seen near cerianthids. They are shy and hide at the 
-      slightest sign of danger. Be quiet and wait for them to emerge. They look 
-      like fanworms but belong to a different animal group. Their tubes are made
-      of chitin, the same substance that insect exoskeleton is made of.
+    caption: They are often seen near cerianthids. They are shy and hide at the slightest
+      sign of danger. Be quiet and wait for them to emerge. They look like fanworms
+      but belong to a different animal group. Their tubes are made of chitin, the
+      same substance that insect exoskeleton is made of.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/phoronida/phoronida/030630chgd0017m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/phoronida/phoronida/030630chgd0017m3.jpg
     caption: Changi, Jun 03
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/phoronida/phoronida/050823chgg2313m3c.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/phoronida/phoronida/050823chgg2313m3c.jpg
     caption: Are the white stuff eggs? Changi, Aug 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/phoronida/phoronida/050823chgg2313m3.jpg
-    caption: The anus is at the top of the body in between the two 'fans'. 
-      Changi, Aug 05
+  - url: http://www.wildsingapore.com/wildfacts/worm/phoronida/phoronida/050823chgg2313m3.jpg
+    caption: The anus is at the top of the body in between the two 'fans'. Changi,
+      Aug 05
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/phoronida/phoronida/150319tusmn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/phoronida/phoronida/150319tusmn.jpg
     caption: Tuas, Mar 15 Photo shared by Marcus Ng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/phoronida/phoronida/150319tusmna.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/phoronida/phoronida/150319tusmna.jpg
     caption: ''
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/phoronida/phoronida/170723ubnlks5.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/phoronida/phoronida/170723ubnlks5.jpg
     caption: Pulau Ubin, Jul 17 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/phoronida/phoronida/090920smklks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/worm/phoronida/phoronida/090920smklks.JPG
     caption: Pulau Semakau, Sep 09 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/phoronida/phoronida/091205sudtch5m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/phoronida/phoronida/091205sudtch5m3a.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by Toh Chay Hoon on flickr .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Phoronis australis](http://paleopolis.rediris.es/LOPH-Album/PHO/P_australis.html)
+
   on
+
   [Phoronidnet](http://paleopolis.rediris.es/Phoronida/)
+
   by Christian C Emig: everything you could possibly want to know about Phoronids.
+
   - [*Phoronis australis*](http://www.sealifebase.org/summary/Phoronis-australis.html)
+
   on SeaLife Base: Technical fact sheet.
 
+
   **References**
+
   - Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.
+
   *Invertebrate Zoology*
+
   Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
+
   - Pechenik, Jan A., 2005.
+
   *Biology of the Invertebrates*
+
   . 5
+
+  '
 location:
 - prp
 - chg
@@ -87,18 +91,20 @@ location:
 - laz
 - smk
 - lfa
+size:
+- 2.0
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Literally overshadowed by their more glamorous hosts, this tiny fluffy worm is commonly seen with
-[cerianthids](../../cnidaria/others/ceriantharia/ceriantharia.md)
+[cerianthids](../../cnidaria/others/ceriantharia/ceriantharia)
 on our northern shores. Often several can be seen near one cerianthid. Very shy, the worms retract at the slightest sign of danger. There's a better chance of seeing them at night.
 
 **What are phoronid worms?**
 Phoronid worms are unsegmented
-[worms](../worm.md)
+[worms](../worm)
 belonging to Phylum Phoronida. This is a small phylum with less than 20 species. They build and live inside tubes made of chitin.
 *Phoronis australis*
 is thus far, the only phoronid known to be encountered with cerianthids and it is found in all warm temperate to tropical coasts from the intertidal to deeper waters.
@@ -107,15 +113,15 @@ is thus far, the only phoronid known to be encountered with cerianthids and it i
 
 *Phoronis australis*
 has a pair of feathery spiralling tentacles (diameter about 2cm). The body is long, unsegemented and worm-like. Those seen on our shores are grey or pinkish black, but elsewhere white ones are also seen. Most phoronids build a tube that is made of chitin (the same substance that insect skeletons are made of). More about
-[tubeworms in general](../tubeworm/tubeworms.md)
+[tubeworms in general](../tubeworm/tubeworms)
 .
 
 **Sometimes confused with**
-[fan worms](../polychaeta/sabellidae.md)
+[fan worms](../polychaeta/sabellidae)
 . Fan worms are segmented worms belonging to Phylum Annelida,
-[Class Polychaeta](../polychaeta/polychaeta.md)
+[Class Polychaeta](../polychaeta/polychaeta)
 . More on how to tell apart
-[animals with a ring of feathery tentacles](../../glossary/feathery.md)
+[animals with a ring of feathery tentacles](../../glossary/feathery)
 .
 
 According to Gosliner, the body of

@@ -17,4 +17,4 @@ on
 .
 
 back to
-[general info on velcro crabs](retusa.md)
+[general info on velcro crabs](retusa)
