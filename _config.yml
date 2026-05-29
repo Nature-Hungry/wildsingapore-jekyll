@@ -1,5 +1,5 @@
 # Site Settings
-title:            Wild Singapore
+title:            Nature Hungry
 tagline:          'Fully Open Source, Free Forever.'
 description:      'The Wild Singapore website, ported over to GitHub Pages.'
 url:              https://wild-singapore.github.io
@@ -11,6 +11,9 @@ highlighter:      rouge    # Pygments is largely deprecated; Rouge is the Jekyll
 
 # Custom vars
 version:          2.1.0
+
+# Backblaze Assets Directly
+b2_url: "https://f003.backblazeb2.com/file/naturehungry/"
 
 github:
   repo:           https://github.com/Wild-Singapore/wild-singapore.github.io

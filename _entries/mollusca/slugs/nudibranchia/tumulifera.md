@@ -1,5 +1,5 @@
 ---
-title: Maroon c
+title: Maroon cow nudibranch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal
   shores
 keywords: chromodoris, tumulifera, chromodoriidae, doridina, nudibranchia, slug,
