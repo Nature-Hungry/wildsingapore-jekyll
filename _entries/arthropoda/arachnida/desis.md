@@ -21,7 +21,7 @@ zoosection: Rta clade
 zoosubsection: Marronoid
 subfamily: Desinae
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/arachnida/desis/180301cyll1.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/180301cyll1.jpg
 galleries:
   gallery1:
   - url: https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/180301cyll1.jpg
