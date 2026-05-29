@@ -1,8 +1,8 @@
 # Site Settings
 title:            Nature Hungry
 tagline:          'Fully Open Source, Free Forever.'
-description:      'The Wild Singapore website, ported over to GitHub Pages.'
-url:              https://wild-singapore.github.io
+description:      'One-stop resource for nature lovers in Singapore. We are a group of volunteers who are passionate about sharing information on Singapore's biodiversity.'
+url:              https://nature-hungry.github.io
 baseurl:          ""
 
 # Dependencies
@@ -16,8 +16,8 @@ version:          2.1.0
 b2_url: "https://f003.backblazeb2.com/file/naturehungry/"
 
 github:
-  repo:           https://github.com/Wild-Singapore/wild-singapore.github.io
-  username:       Wild-Singapore
+  repo:           https://github.com/Nature-Hungry/nature-hungry.github.io
+  username:       Nature-Hungry
 
 # Options
 
@@ -29,8 +29,8 @@ github:
 
 # Specify the author for blog posts
 author:
-  name: Wild Singapore GitHub
-  url: https://github.com/wild-singapore/
+  name: Nature Hungry
+  url: https://github.com/nature-hungry/
   email: hello@wildsingapore.com
 
 collections:
