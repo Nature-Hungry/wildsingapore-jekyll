@@ -19,25 +19,20 @@ order: Neogastropoda
 superfamily: Volutoidea
 updated: Sep 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/melo/100619cjtch1m3.jpg
+trivia_title: if you learn only 3 things about them ...
+trivia_items:
+- They are among the large snails you might see on our shores.
+- They are carnivores. Their prey include smaller snails living beneath the sand!
+- Many volutes are threatened by over-collection as food and for their shells.
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They are among the large snails
-      you might see on our shores. They are carnivores. Their prey include smaller
-      snails living beneath the sand! Many volutes are threatened by over-collection
-      as food and for their shells.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They are among the large snails you might see on our shores. They are
-      carnivores. Their prey include smaller snails living beneath the sand! Many
-      volutes are threatened by over-collection as food and for their shells.
-  gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/melo/100619cjtch1m3.jpg
     caption: Baler snail eating a Noble volute ! Chek Jawa, Jun 10 Photo shared by
       Toh Chay Hoon on her blog.
   - url: http://www.wildsingapore.com/bivalvia/mactridae/bigbrown/120510chgd2887m6l.jpg
     caption: Noble volute hunting down a Big brown mactra clam that eventually escaped.
       Pulau Semakau, Mar 08
-  gallery3:
+  gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/melo/100614bbd5995m3.jpg
     caption: A smaller Baler volute riding on the back of a bigger one. Prelude to
       mating? Beting Bronok, Jun 10
@@ -46,13 +41,13 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/nobilis/080310smktch01m3.jpg
     caption: Baby Noble volute! Pulau Semakau, Mar 08 Photo shared by Toh Chay Hoon
       on her flickr .
-  gallery4:
+  gallery3:
   - url: http://www.wildsingapore.com/cephalopoda/bigseagrass/130624chg7d7811.jpg
     caption: Octopus hiding inside an empty Noble volute shell. Changi, Jun 13
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/melo/090514prpd1730.jpg
     caption: Hermit crab and Slipper snails living in an empty Baler volute shell.
       Pasir Ris, May 09
-  gallery5:
+  gallery4:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/nobilis/060612cftd2873m3.jpg
     caption: Noble volute
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/nobilis/011114cjd841m3.jpg

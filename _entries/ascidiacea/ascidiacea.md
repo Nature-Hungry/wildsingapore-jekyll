@@ -16,61 +16,52 @@ trivia_items:
 - Tunicates and humans belong to the same Phylum Chordata!
 - Unlike sponges, tunicates are complex animals with internal organs.
 galleries:
-  gallery2:
+  gallery1:
   - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/polycarpa/050510tusg6134m3.jpg
     caption: Solitary sea squirt growing on hard surfaces. Tuas, May 05
   - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/ascidiaceanoid/solitary.gif
     caption: Cross-section of a solitary ascidian
   - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/jelly/100726chgd9196m3.jpg
     caption: Solitary sea squirt growing under stones. Changi, Jul 10
-  gallery3:
+  gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/greengumdrop/050309smkg3139m3.jpg
     caption: Colonial ascidians on seagrasses. Pulau Semakau, Mar 05
   - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/ascidiaceanoid/colonial.gif
     caption: Colonial ascidian Arrows show the flow of water through the animals.
   - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/beige/090623ecpd4904m3.jpg
-    caption: Colonial ascidians forming a sheet over hard surfaces. East Coast, Jun
-      09
-  gallery5:
+    caption: Colonial ascidians forming a sheet over hard surfaces. East Coast, Jun 09
+  gallery3:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/dromiidae/dromiidae/050819cjg1656m3.jpg
     caption: Sponge crab using an ascidian disguise. Chek Jawa, Aug 05
   - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/indicus/080619chgd5684m3.jpg
     caption: A flatworm eating an ascidian? Changi, Jun 08
-links_references: "**Links**\n- [Sea Squirt\n*Polycarpa*](http://mangrove.nus.edu.sg/pub/seashore/text/226)\n\
-  Tan, Leo W. H. & Ng, Peter K. L., 1988.\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n\
-  . The Singapore Science Centre, Singapore. 160 pp.\n- [Ascidiacea World Database](http://www.marinespecies.org/ascidiacea/index.php)\n\
-  : technical fact sheets\n- [The Dutch Ascidians Homepage](http://www.ascidians.com/)\n\
-  by Arjan Gittenberger: general introduction and photos of a wide range of ascidians.\n\
-  - [Ascidians: Sea Squirts, Tunicates](http://www.seaslugforum.net/ascidian)\non\
-  \ the Sea Slug Forum by Dr Bill Rudman: an introduction with close-up photos.\n\
-  - [Ascidians](http://www.mesa.edu.au/friends/seashores/ascidians.html)\non\n[Life\
-  \ on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1.html)\n\
-  by Keith Davey on the Marine Education Society of Australia website: a fabulous\
-  \ goldmine of a site which covers various kinds of intertidal habitats and their\
-  \ inhabitants. Fact sheet on ascidians with lovely diagrams showing the changes\
-  \ that the larva goes through as it develops into an adult, and details on a species\
-  \ found in Australia.\n- on the wild shores of singapore blog\n- [Blobs in the sea\
-  \ help us understand human health issues](http://wildshores.blogspot.com/2011/04/blobs-in-sea-help-us-understand-human.html)\n\
-  \n**References**\n- Serina S-C Lee, Janlin Y-H Chan, Serena L-M Teo & Gretchen Lambert.\
-  \ State of knowledge of ascidian diversity in South China Sea and new records for\
-  \ Singapore. 29 June 2016. Raffles Bulletin of Zoology Supplement No. 34: 718\u2013\
-  743.\n- Tan Siong Kiat, Rene Ong & Toh Chay Hoon. 4 December 2015.\n*Records of\
-  \ Lamellaria snails in Singapore*\n. Singapore Biodiversity Records 2015: 193-195\n\
-  - Monniot, Claude, Francoise Monniot and Pierre Laboute 1991.\n*Coral Reef Ascidians\
-  \ of New Caledonia*\n. Editions de Porstom.pp. 247\n- Edward E. Ruppert, Richard\
-  \ S. Fox, Robert D. Barnes. 2004.\n*Invertebrate Zoology*\nBrooks/Cole of Thomson\
-  \ Learning Inc., 7th Edition. pp. 963\n- Pechenik, Jan A., 2005. Biology of the\
-  \ Invertebrates. 5th edition. McGraw-Hill Book Co., Singapore. 578 pp.\n- Wee Y.C.\
-  \ and Peter K. L. Ng. 1994. A First Look at Biodiversity in Singapore. National\
-  \ Council on the Environment. 163pp.\n- Ng, P. K. L. & Y. C. Wee, 1994. The Singapore\
-  \ Red Data Book: Threatened Plants and Animals of Singapore. The Nature Society\
-  \ (Singapore), Singapore. 343 pp.\n"
+links_references: "**Links**
+  - [Sea Squirt *Polycarpa*](http://mangrove.nus.edu.sg/pub/seashore/text/226) Tan, Leo W. H. & Ng, Peter K. L., 1988.
+  - [*A Guide to Seashore Life*](http://mangrove.nus.edu.sg/pub/seashore/). The Singapore Science Centre, Singapore. 160 pp.
+  - [Ascidiacea World Database](http://www.marinespecies.org/ascidiacea/index.php): technical fact sheets
+  - [The Dutch Ascidians Homepage](http://www.ascidians.com/) by Arjan Gittenberger: general introduction and photos of a wide range of ascidians.
+  - [Ascidians: Sea Squirts, Tunicates](http://www.seaslugforum.net/ascidian) on the Sea Slug Forum by Dr Bill Rudman: an introduction with close-up photos.
+  - [Ascidians](http://www.mesa.edu.au/friends/seashores/ascidians.html) on [Life on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1.html) by Keith Davey on the Marine Education Society of Australia website: a fabulous goldmine of a site which covers various kinds of intertidal habitats and their inhabitants. Fact sheet on ascidians with lovely diagrams showing the changes that the larva goes through as it develops into an adult, and details on a species found in Australia.
+  - on the wild shores of singapore blog
+  - [Blobs in the sea help us understand human health issues](http://wildshores.blogspot.com/2011/04/blobs-in-sea-help-us-understand-human.html)
+  
+  **References**
+  
+  - Serina S-C Lee, Janlin Y-H Chan, Serena L-M Teo & Gretchen Lambert. State of knowledge of ascidian diversity in South China Sea and new records for Singapore. 29 June 2016. Raffles Bulletin of Zoology Supplement No. 34: 718-743.
+  - Tan Siong Kiat, Rene Ong & Toh Chay Hoon. 4 December 2015. *Records of Lamellaria snails in Singapore*. Singapore Biodiversity Records 2015: 193-195
+  - Monniot, Claude, Francoise Monniot and Pierre Laboute 1991.\n*Coral Reef Ascidians of New Caledonia*. Editions de Porstom.pp. 247
+  - Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004. *Invertebrate Zoology* Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
+  - Pechenik, Jan A., 2005. Biology of the Invertebrates. 5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
+  - Wee Y.C. and Peter K. L. Ng. 1994. A First Look at Biodiversity in Singapore. National Council on the Environment. 163pp.
+  - Ng, P. K. L. & Y. C. Wee, 1994. The Singapore Red Data Book: Threatened Plants and Animals of Singapore. The Nature Society (Singapore), Singapore. 343 pp."
 ---
+
 ## Where seen?
 These odd blobs are often encountered on many of our shores. They are usually found on hard surfaces such as rocks, jetty pilings and coral rubble. They also grow on seagrasses and other vegetation in the seagrass lagoon.
 
 **What are ascidians?**
 Ascidians are actually closely related to vertebrates like us. We belong to same Phylum Chordata as they do! There are about 3,000 known species of ascidians. These range from tiny ones 1mm long, to those more than 10cm. Most are found in shallow waters but some species are found in very deep waters. There are no freshwater species and most cannot tolerate a salinity lower than 20%.
+
 ## Features
 
 An ascidian is a complex animal. It usually has a circulatory system, a digestive system, a heart and other organs. It generates a one-way current through its body. A part of the gut is modified to filter out plankton from this water flow. On average, an ascidian can filter 1 body volume of water per second. A tiny specimen only a few centimeters long may pump a hundred litres of water in a span of 24 hours.
@@ -84,9 +75,7 @@ Some solitary ascidians have bands of muscles along their body. When these muscl
 **Colonial ascidians:**
 Some ascidians form as solitary animals, sometimes called simple ascidians. Other ascidians may form colonies with many individual animals called zooids. They are called colonial or compound ascidians. In some colonies, the zooids are quite independent of one another. In others, they are highly connected to one another. They may be connected by stem-like structures called stolons, or embedded in a common tissue so the entire colony looks like a slimy layer. In well integrated colonies, the zooids may be arranged in regular patterns such as a ring or star-like shape. In colonial ascidians, the zooids are usually tiny, sometimes microscopic. The colony can range from a few centimeters in diameter to a meter or more, and up to several centimeters thick. Colonial ascidians may grow as slimy layers and blobs on rocks, jetty pilings and other hard surfaces.
 
-Some tropical members of the family Didemnidae contain green symbiotic algae in their tunics and inside the bodies of the zooids. These may also contain symbiotic cyanobacteria. It is believed that the symbionts share the products of photosynthesis with the host ascidian. At least one species of
-*Didemnum*
-can slowly move over the surface, perhaps to maximise the sunlight for the symbionts.
+Some tropical members of the family Didemnidae contain green symbiotic algae in their tunics and inside the bodies of the zooids. These may also contain symbiotic cyanobacteria. It is believed that the symbionts share the products of photosynthesis with the host ascidian. At least one species of *Didemnum* can slowly move over the surface, perhaps to maximise the sunlight for the symbionts.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
 {% include img-wrap-group.html items=page.galleries.gallery4 %}
@@ -111,22 +100,14 @@ Our ascidians are not listed among the threatened animals of Singapore. However,
 
 **Class Ascidiacea on Singapore shores**
 
-[text index](ascidiaceaindex)
-and
-[photo index](ascidiaceafi)
-of ascidians seen on Singapore shores
+[text index](ascidiaceaindex) and [photo index](ascidiaceafi) of ascidians seen on Singapore shores
 
 ---
 
 **Unidentified ascidians on Singapore shores**
 
-On
-[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+On [wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
 
-- [Photos](https://www.flickr.com/search/?user_id=54527470%40N00&sort=date-posted-desc&view_all=1&text=Unidentified%20ascidian)
-for free download
+- [Photos](https://www.flickr.com/search/?user_id=54527470%40N00&sort=date-posted-desc&view_all=1&text=Unidentified%20ascidian) for free download
 
 ---
-
-
-

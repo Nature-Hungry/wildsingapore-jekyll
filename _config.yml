@@ -19,19 +19,8 @@ github:
   repo:           https://github.com/Nature-Hungry/nature-hungry.github.io
   username:       Nature-Hungry
 
-# Options
-
 # Replace this value and uncomment to enable Google Analytics tracking
 google_analytics: G-D6D1VPY6W2
-
-# Replace this value and uncomment to enable Disqus
-# disqus: xxxxxx
-
-# Specify the author for blog posts
-author:
-  name: Nature Hungry
-  url: https://github.com/nature-hungry/
-  email: hello@wildsingapore.com
 
 collections:
   entries:

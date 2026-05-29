@@ -1,9 +1,7 @@
 ---
-title: 'Blob ascidians (Ascidiacea) '
+title: 'Blob ascidians (Ascidiacea)'
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: blob, ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+keywords: blob, ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 updated: Nov 2019
 phylum: Chordata
@@ -34,18 +32,13 @@ size:
 ---
 
 ## Where seen?
-These rounded blob-shaped animals are commonly seen on our Northern shores
-.
+These rounded blob-shaped animals are commonly seen on our Northern shores.
 
 ## Features
 
-Colony about 5-10cm in diameter. Rubbery blobs forming on hard surfaces or on stones
-near the mid-water mark
-. In various shades of black, red, yellow, brown and beige.
+Colony about 5-10cm in diameter. Rubbery blobs forming on hard surfaces or on stones near the mid-water mark. In various shades of black, red, yellow, brown and beige.
 
-These blob ascidians look like the ones that are sometimes used by some
-[sponge crabs](../crustacea/crab/dromiidae/dromiidae)
-for camouflage and protection.
+These blob ascidians look like the ones that are sometimes used by some [sponge crabs](../crustacea/crab/dromiidae/dromiidae) for camouflage and protection.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ***
@@ -57,9 +50,7 @@ On this website, they are grouped by external features for convenience of displa
 
 **Blob ascidians on Singapore shores**
 
-On
-[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+On [wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
 
-- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Blob ascidian)
-for free download
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Blob ascidian) for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Blob%2520ascidian/map?&fLat=1.2612&fLon=103.8661&zl=11&order_by=recent)

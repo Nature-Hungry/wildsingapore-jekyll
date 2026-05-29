@@ -29,18 +29,10 @@ galleries:
     caption: St John's Island, Oct 11
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/040829kusd5626m3.jpg
-    caption: Caught by a Marine spider . Kusu Island, Apr 08
+    caption: Caught by a Marine spider. Kusu Island, Apr 08
 links_references: '**Links**
 
-  - [Mangrove cricket](http://mangrove.nus.edu.sg/guidebooks/text/2010)
-
-  Ng, Peter K. L. & N. Sivasothi, 1999.
-
-  *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)
-
-  II (Animal Diversity)*
-
-  . Singapore Science Centre. 168 pp.
+  - [Mangrove cricket](http://mangrove.nus.edu.sg/guidebooks/text/2010) Ng, Peter K. L. & N. Sivasothi, 1999. *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) II (Animal Diversity)*. Singapore Science Centre. 168 pp.
 
   '
 location:
@@ -74,11 +66,9 @@ Body about 1cm long. A fat bodied insect with long back legs and very long anten
 
 **Shore crickets on Singapore shores**
 
-On
-[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+On [wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
 
-- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Gryllidae)
-for free download
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Gryllidae) for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Gryllidae/map?&fLat=1.2622&fLon=103.8661&zl=11&order_by=recent)
 
 ---

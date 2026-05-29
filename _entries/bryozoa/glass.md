@@ -1,8 +1,7 @@
 ---
 title: Glassy branching bryozoan
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: glass, branching, bryozoa, field, guide, seashore, sea, shore, marine, coastal,
-  intertidal, singapore, facts, fact sheet, info, photo
+keywords: glass, branching, bryozoa, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: ''
 genus: ''
@@ -31,8 +30,7 @@ galleries:
     caption: ''
   gallery3:
   - url: https://f003.backblazeb2.com/file/naturehungry/bryozoa/glass/130112pgllks.JPG
-    caption: Okenia pellucida , a nudibranch that is seen on this Bryozoan. Punggol,
-      Jan 13 Photo shared by Loh Kok Sheng on flickr .
+    caption: Okenia pellucida , a nudibranch that is seen on this Bryozoan. Punggol, Jan 13 Photo shared by Loh Kok Sheng on flickr.
 size:
 - 10.0
 - 20.0
@@ -45,10 +43,7 @@ This pale colony of tiny animals is seasonally common on some of our Nothern sho
 
 Branching stems about 10-20cm long. The thick short 'stems' branch extensively on one plane. The entire colony is often transparent to beige. Sometimes covered with encrusting organisms. Polyps very very tiny, emerging from the branches.
 
-**Sometimes mistaken for**
-a
-[hydroid](../cnidaria/others/hydrozoa/hydrozoa)
-.
+**Sometimes mistaken for** a [hydroid](../cnidaria/others/hydrozoa/hydrozoa).
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ---
@@ -62,17 +57,13 @@ On this website, the animals are grouped by external features for convenience of
 
 **Glassy branching bryozoans on Singapore shores**
 
-On
-[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+On [wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
 
-- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Glassy branching bryozoans)
-for free download
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Glassy branching bryozoans) for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Glassy%2520branching%2520bryozoans/map?&fLat=1.2626&fLon=103.8654&zl=11&order_by=recent)
 
 ---
 
 **Acknowledgment**
 
-Grateful thanks to Dr
-[Dale R. Calder](http://rom.academia.edu/DaleRCalder)
-Department of Natural History Royal Ontario Museum for the identification.
+Grateful thanks to Dr [Dale R. Calder](http://rom.academia.edu/DaleRCalder) Department of Natural History Royal Ontario Museum for the identification.
