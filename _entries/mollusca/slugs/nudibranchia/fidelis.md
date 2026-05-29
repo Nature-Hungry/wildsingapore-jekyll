@@ -1,11 +1,9 @@
 ---
 title: 'Reliable nudibranch '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: goniobranchus, chromodoris, fidelis, chromodoriidae, doridina, 
-  nudibranch, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, 
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: goniobranchus, chromodoris, fidelis, chromodoriidae, doridina, nudibranch,
+  slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 14
@@ -31,53 +29,51 @@ infraorder: Doridoidei
 superfamily: Chromodoridoidea
 subfamily: Chromodoridinae
 updated: May 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fidelis/100528tkkjk6l.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fidelis/100528tkkjk6l.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fidelis/100528tkkjk6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fidelis/100528tkkjk6l.jpg
     caption: Pulau Tekukor, May 10 Photo shared by James Koh on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fidelis/220503tptrk3.jpg
-    caption: Terumbu Pempang Tengah, May 22 Photo shared by Richard Kuah on 
-      facebook .
-  gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fidelis/220419sjijt2.jpg
-    caption: St. John's Island, Apr 22 Photo shared by Jonathan Tan on facebook 
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fidelis/220503tptrk3.jpg
+    caption: Terumbu Pempang Tengah, May 22 Photo shared by Richard Kuah on facebook
       .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fidelis/210430sjijll1.jpg
+  gallery2:
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fidelis/220419sjijt2.jpg
+    caption: St. John's Island, Apr 22 Photo shared by Jonathan Tan on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fidelis/210430sjijll1.jpg
     caption: St John's Island, Apr 21 Photo shared by Jianlin Liu on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fidelis/221127rk2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fidelis/221127rk2.jpg
     caption: Lazarus Island, Nov 22 Photo shared by Richard Kuah on facebook .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fidelis/230122jngjll3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fidelis/230122jngjll3.jpg
     caption: Pulau Jong, Jan 23 Photo shared by Jianlin Liu on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fidelis/230423cyrjll1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fidelis/230423cyrjll1.jpg
     caption: Cyrene, Apr 23 Photo shared by Jianlin Liu on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fidelis/170501tsmkjll1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fidelis/170501tsmkjll1.jpg
     caption: Terumbu Semakau, May 17 Photo shared by Jianlin Liu on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fidelis/090330trylks1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fidelis/090330trylks1m3.jpg
     caption: Terumbu Raya, Mar 09 Photo shared by Loh Kok Sheng on his blog .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Chromodoris fidelis*](http://www.seaslugforum.net/find/chrofide)
+
   on
+
   [The Sea Slug Forum](http://www.seaslugforum.net/)
+
   by Dr Bill Rudman: fact sheet with photos.
 
+
   **References**
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
+  '
 location:
 - tkr
 - laz
@@ -86,6 +82,9 @@ location:
 - cyr
 - tpg
 - tsm
+size:
+- 1.0
+- 2.0
 ---
 
 ## Where seen?

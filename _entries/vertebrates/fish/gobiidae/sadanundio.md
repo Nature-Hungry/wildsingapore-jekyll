@@ -1,10 +1,9 @@
 ---
 title: Grey knight-goby
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: grey, knight, goby, stigmatogobius, sadanundio, fish, gobiidae, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: grey, knight, goby, stigmatogobius, sadanundio, fish, gobiidae, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 attributes:
 - 25
@@ -25,43 +24,61 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Gobionellinae
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/sadanundio/110307admd6810m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/sadanundio/110307admd6810m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/sadanundio/110307admd6810m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/sadanundio/110307admd6810m3.jpg
     caption: Admiralty Park, Mar 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/sadanundio/110307admd6820m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/sadanundio/110307admd6820m6l.jpg
     caption: Admiralty Park, Mar 11
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Grey knight-goby (
+
   *Stigmatogobius sadanundio*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2107.md)
+
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2107)
+
   Ng, Peter K. L. & N. Sivasothi, 1999.
+
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
+
   . Singapore Science Centre. 168 pp.
+
   - [Grey knight-goby (
+
   *Stigmatogobius sadanundio*
+
   )](http://www.fishbase.tw/summary/speciessummary.php?id=25119)
+
   from
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheet.
-  - *[Stigmatogobius sadanundio](http://www.ecologyasia.com/verts/fishes/grey-knight-goby.md)*
+
+  - *[Stigmatogobius sadanundio](http://www.ecologyasia.com/verts/fishes/grey-knight-goby)*
+
   from EcologyAsia.
 
+
   **References**
+
   - Larson, Helen K and Kelvin K. P. Lim. 2005.
+
   *A Guide to Gobies of Singapore*
+
   . Singapore Science Centre. 164pp.
+
+  '
 location:
 - bb
 - tm
 - laz
 - sis
 - tsm
+size:
+- 6.0
 ---
 
 ## Where seen?

@@ -28,8 +28,8 @@ galleries:
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 ---
-{% include img-wrap-group.html items=page.galleries.gallery2 %}[more photos](upsidedown2.md)
+{% include img-wrap-group.html items=page.galleries.gallery2 %}[more photos](upsidedown2)
 of upsidedown brittle stars on Singapore shores
 
 back to
-[general info on upsidedown brittle stars](upsidedown.md)
+[general info on upsidedown brittle stars](upsidedown)

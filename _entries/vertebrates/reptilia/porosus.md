@@ -20,48 +20,92 @@ updated: Apr 2018
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/porosus/100221sbwrd9556m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "if you learn only 3 things about them ... Only healthy mangroves can support these magnificent top predators! When a crocodile smiles (mouth wide open) it's just cooling down, not about to bite. Crocodiles don't eat people."
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "Only healthy mangroves can support these magnificent top predators! When a crocodile smiles (mouth wide open) it's just cooling down, not about to bite. Crocodiles don't eat people."
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... Only healthy mangroves can
+      support these magnificent top predators! When a crocodile smiles (mouth wide
+      open) it's just cooling down, not about to bite. Crocodiles don't eat people.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: Only healthy mangroves can support these magnificent top predators! When
+      a crocodile smiles (mouth wide open) it's just cooling down, not about to bite.
+      Crocodiles don't eat people.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/porosus/091010sbwrbc2m6l.jpg"
-      caption: "Sungei Buloh Wetland Reserve, Oct 09 Photo shared by Brandon Chia on his flickr ."
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/porosus/091010sbwrbc2m6l.jpg
+    caption: Sungei Buloh Wetland Reserve, Oct 09 Photo shared by Brandon Chia on
+      his flickr .
+links_references: '**Links**
+
   - [*Crocodylus porosus*](http://taxo4254.wikispaces.com/Crocodylus+porosus)
+
   (Crocodylia: Crocodylidae) Salt-water Crocodile by Mohamed Hussain, 2012, on taxo4254.
-  - [Is That a Crocodile or a Monitor Lizard?](http://www.sbwr.org.sg/Wetlands/text/06-133-1.md)
-  by Ramakrishnan Kolandavelu in Wetlands, a publication of the Sungei Buloh Wetland Reserve, Vol 13 No 3, 2006.
-  - [Estuarine crocodile](http://www.ecologyasia.com/verts/lizards/estuarine_crocodile.md)
-  on Nick Baker's EcologyAsia website: fact sheet with photos.
+
+  - [Is That a Crocodile or a Monitor Lizard?](http://www.sbwr.org.sg/Wetlands/text/06-133-1)
+
+  by Ramakrishnan Kolandavelu in Wetlands, a publication of the Sungei Buloh Wetland
+  Reserve, Vol 13 No 3, 2006.
+
+  - [Estuarine crocodile](http://www.ecologyasia.com/verts/lizards/estuarine_crocodile)
+
+  on Nick Baker''s EcologyAsia website: fact sheet with photos.
+
   - [*Crocodylus porosus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Crocodylus%20porosus.html)
+
   (Crocodylia: Crocodylidae) Salt-water Crocodile by Mohamed Hussain, 2012 on taxo4254.
+
   - From the wild shores of singapore blog
+
   - [Smile, Singapore got crocodile](http://wildshores.blogspot.sg/2018/01/smile-singapore-got-crocodile.html)
+
   - [Crocodile! What should I do?!](http://wildshores.blogspot.sg/2013/12/crocodile-what-should-i-do.html)
-  
+
+
   **References**
+
   - Marcus Ng and Robert W. Mendyk. 2012.
+
   [Predation of an Adult Malaysian Water monitor (
+
   *Varanus salvator macromaculatus*
+
   ) by an Estuarine Crocodile (
+
   *Crocodylus porosus*
+
   )](https://www.researchgate.net/profile/Robert_Mendyk/publication/307973031_Predation_of_an_Adult_Malaysian_Water_monitor_Varanus_salvator_macromaculatus_by_an_Estuarine_Crocodile_Crocodylus_porosus/links/57d4d86508ae5f03b4916283.pdf?origin=publication_list)
+
   . Biawak, 6(1), pp. 34-38, by International Varanid Interest Group.
+
   - Lim, Kelvin K. P. & Francis L K Lim, 1992.
+
   *A Guide to the Amphibians and Reptiles of Singapore*
+
   **
+
   Singapore Science Centre. 160 pp.
+
   - Baker, Nick and Kelvin Lim. 2008.
-  *Wild Animals of Singapore: A Photographic Guide to Mammals, Reptiles, Amphibians and Freshwater Fishes*
+
+  *Wild Animals of Singapore: A Photographic Guide to Mammals, Reptiles, Amphibians
+  and Freshwater Fishes*
+
   Vertebrate Study Group, Nature Society (Singapore). 180 pp.
-  - Cox, Merel J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt. 1998.
-  *A Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular Malaysia and Singapore*
+
+  - Cox, Merel J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt.
+  1998.
+
+  *A Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular Malaysia
+  and Singapore*
+
   New Holland.
+
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+
   . Nature Society (Singapore). 285 pp.
+
+  '
+size:
+- 800.0
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?
@@ -73,7 +117,7 @@ Up to 8m long. A large triangular head with broad and long snout and bulbous eye
 
 **Sometimes mistaken for**
 the
-[Malayan water monitor lizard](salvator.md)
+[Malayan water monitor lizard](salvator)
 . The lizard's snout is short and narrow, and tail is long and slender. A crocodile has a long snout and a much thicker fatter tail.
 
 The lizard often swims by placing its limbs against its body and undulating its long tail from side to side. The crocodile may swim in the same way as the lizard. It may also often sink into the murky water and emerge some distance away. Sometimes, all that sticks out above water are the crocodile's eyes and the tip of its long snout.

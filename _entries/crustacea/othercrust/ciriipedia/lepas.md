@@ -1,10 +1,9 @@
 ---
 title: Goose barnacle
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: goose, barnacle, lepas, lepadidae, cirripedia, crustacea, field, 
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: goose, barnacle, lepas, lepadidae, cirripedia, crustacea, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Lepadidae
 genus: Lepas
@@ -24,18 +23,14 @@ superorder: Thoracicalcarea
 order: Scalpellomorpha
 superfamily: Lepadoidea
 updated: Mar 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/lepas/040703sisd1824m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/lepas/040703sisd1824m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/lepas/040703sisd1824m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/lepas/040703sisd1824m3.jpg
     caption: Sisters Island, Jul 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/lepas/040703sisd1824m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/lepas/040703sisd1824m3b.jpg
     caption: Leathery stalk attaches the clam-like shell to a hard surface.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/lepas/040703sisd1824m3c.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/lepas/040703sisd1824m3c.jpg
     caption: No operculum to seal the shell opening.
   gallery2:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -48,6 +43,8 @@ galleries:
       of Australian Waters . Reed New Holland. 224 pp.'
 location:
 - sis
+size:
+- 2.0
 ---
 
 ## Where seen?

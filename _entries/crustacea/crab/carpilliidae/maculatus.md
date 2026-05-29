@@ -1,10 +1,8 @@
 ---
 title: Spotted reef crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: coral, crab, carpilius, maculatus, decapod, crustacea, field, guide, 
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: coral, crab, carpilius, maculatus, decapod, crustacea, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 38
@@ -31,42 +29,58 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Carpilioidea
 updated: Dec 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/crustacea/crab/carpilliidae/maculatus/040703sisd1784m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/carpilliidae/maculatus/040703sisd1784m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/carpilliidae/maculatus/040703sisd1784m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/carpilliidae/maculatus/040703sisd1784m3.jpg
     caption: Sisters Island, Jul 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/carpilliidae/maculatus/040703sisd1784m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/carpilliidae/maculatus/040703sisd1784m3a.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/carpilliidae/maculatus/100529kuslks8m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/carpilliidae/maculatus/100529kuslks8m3.jpg
     caption: Kusu Island, Jun 10 Photo shared by Loh Kok Sheng on his blog .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Spotted reef crab](http://www.sealifebase.org/Summary/speciesSummary.php?ID=21380&genusname=Carpilius&speciesname=maculatus)
+
   [(
+
   *Carpilius maculatus*
+
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=21380)
+
   on
+
   [SeaLifeBase](http://www.sealifebase.org/search.php)
+
   by Palomares, M.L.D. and D. Pauly. Editors. 2009: technical fact sheet.
 
+
   **References**
+
   - Lee Bee Yan and Tan Heok Hui. 10 January 2014.
+
   *Spotted reef crab at Pulau Tekukor*
+
   . Singapore Biodiversity Records 2014: 4
+
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+
   . Nature Society (Singapore). 285 pp.
+
   - Wee Y.C. and Peter K. L. Ng. 1994.
+
   *A First Look at Biodiversity in Singapore*
+
   . National Council on the Environment. 163pp.
+
+  '
 location:
 - kus
 - sis
+size:
+- 9.0
 ---
 
 ## Where seen?

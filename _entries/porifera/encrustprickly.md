@@ -1,8 +1,6 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: sponge, pseudoceratina, purpurea, pseudoceratinidae, porifera, field, 
-  guide,
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: sponge, pseudoceratina, purpurea, pseudoceratinidae, porifera, field, guide,
 layout: entry
 shape: encrusting
 title: Yellow prickly branching sponge
@@ -18,62 +16,60 @@ class: Demospongiae
 subclass: Verongimorpha
 order: Verongiida
 updated: Oct 2016
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/110522bbbd2803m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/110522bbbd2803m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/111001sjid2044m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/111001sjid2044m3.jpg
     caption: St. John's Island, Oct 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/111001sjid2044m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/111001sjid2044m3a.jpg
     caption: A Sponge finger oyster embedded in the sponge.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/111001sjid2044m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/111001sjid2044m3b.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/120124sisd5828m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/120124sisd5828m3.jpg
     caption: Sisters Island, Jan 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/040901sjid6066m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/040901sjid6066m3.jpg
     caption: St. John's Island, Sep 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/051204sisg3279m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/051204sisg3279m3.jpg
     caption: Sisters Islands, Dec 05
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/100811slud0122m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/100811slud0122m3.jpg
     caption: Pulau Salu, Aug 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/100811slud0122m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/100811slud0122m3a.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/100811slud0122m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/100811slud0122m3b.jpg
     caption: ''
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/091204pawd0058m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/091204pawd0058m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/091231biod6926m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/091231biod6926m3.jpg
     caption: Pulau Biola, Dec 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/100130brkd8606m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/100130brkd8606m3.jpg
     caption: Terumbu Berkas, Jan 10
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Anti-cancer drugs from a sponge commonly seen on our shores](http://wildshores.blogspot.com/2011/02/anti-cancer-drugs-from-sponge-commonly.html)
+
   on the wild shores of singapore blog.
+
   - [*Pseudoceratina*](http://142.103.81.136/nomenclature/SpeciesList.php?genus=Pseudoceratina)
+
   on SeaLife Base: technical fact sheet.
+
   - [*Pseudoceratina purpurea*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=169702)
+
   on the World Porifera Database.
 
+
   **References**
+
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
+
   *A Guide to Sponges of Singapore*
+
   . Singapore Science Centre. 173pp.
+
+  '
 location:
 - lab
 - snt
@@ -90,6 +86,11 @@ location:
 - tsm
 - rfl
 - lfa
+size:
+- 8.0
+- 12.0
+- 20.0
+- 30.0
 ---
 
 ## Where seen?
@@ -100,14 +101,14 @@ This rubbery prickly sponge usually yellow or with yellow tips is commonly seen 
 Extremely variable in shape from knobs, lobes, to slender branching stems (8-12cm) emerging from an encrusting base (20-30cm). The sponge can cover large areas of coral rubble or small stones. Tips rounded or flattened. The surface feels rubbery and slippery with small bumps that appear spiky and prickly when the sponge is out of water. There are many tiny holes sprinkled all over the sponge. Colours range from bright yellow, green-yellow to olive. Often mainly dark or olive green with yellowish tips. The sponge's species name 'purpurea' means purple. Which seems rather odd as they are not purple at all when alive. A dead sponge, however, rapidly oxidises to a dark brown or deep purple. As taxonomic work on sponges is often based on preserved specimens, this is probably how this sponge got its scientific name.
 
 **Sometimes confused with**
-[Mustard sponge](dactylospongia.md)
+[Mustard sponge](dactylospongia)
 (
 *Dactylospongia elegans*
 , Family Thorectidae) can look very similar. The two kinds of sponges are difficult to tell apart in the field.
 
 **Sponging clams:**
 Sometimes, the sponge is inhabited by
-[Sponge finger oysters](../mollusca/bivalvia/pteriidae/vulsella.md)
+[Sponge finger oysters](../mollusca/bivalvia/pteriidae/vulsella)
 (
 *Vulsella*
 sp.), a kind of clam that lives only in sponges. These are completely covered by the sponge, with only a slit on the surface of the sponge where the bivalve's shell opening is. Often, these bivalves result in flat blade or leaf-like protrusions in the sponge.

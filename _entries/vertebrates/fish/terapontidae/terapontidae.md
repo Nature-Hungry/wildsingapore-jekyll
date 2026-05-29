@@ -1,10 +1,9 @@
 ---
 title: Perch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: grunter, perch, fish, teraponidae, theraponidae, therapontidae, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: grunter, perch, fish, teraponidae, theraponidae, therapontidae, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Terapontidae
 genus: ''
@@ -20,36 +19,72 @@ superorder: Acanthomorpha
 order: Centrarchiformes
 suborder: Terapontoidei
 updated: Oct 2016
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/jarbua/110730tmftd7695m3.jpg
-links_references: |
-  **Links**
-  - [Crescent perch (*Terapon jarbua*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/272.md),[Banded Perch (*Terapon theraps*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/273.md) and [Trumpeter Perch (*Pelates quadrilineatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/271.md) Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998. *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore Science Centre. 163 pp.
-  - [Family Terapontidae](http://www.fishbase.org/Summary/FamilySummary.php?ID=299)and [*Helotes sexlineatus*(Six-lined trumpeter)](http://www.fishbase.org/summary/14940) and [*Pelates quadrilineatus*  (Fourlined terapon)](http://www.fishbase.org/summary/7945) and [*Terapon jarbua*(Jarbua terapon)](http://www.fishbase.org/summary/4458) and [*Terapon puta* (Small-scaled terapon)](http://www.fishbase.org/summary/7946) and [*Terapon theraps* (Largescaled terapon)](http://www.fishbase.org/summary/4829) from [FishBase](http://www.fishbase.org/) : Technical fact sheet.
-  - [Cresent perch (*Terapon jarbua*)](http://www.amonline.net.au/fishes/fishfacts/fish/tjarbua.md) on the [Australian Museum Fish Site](http://www.amonline.net.au/fishes/fishfacts/) on the Australian Museum Online website: factsheets with photos and descriptions
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/jarbua/110730tmftd7695m3.jpg
+links_references: '**Links**
+
+  - [Crescent perch (*Terapon jarbua*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/272),[Banded
+  Perch (*Terapon theraps*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/273)
+  and [Trumpeter Perch (*Pelates quadrilineatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/271)
+  Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998. *[A Guide to the Common Marine Fishes
+  of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+  Science Centre. 163 pp.
+
+  - [Family Terapontidae](http://www.fishbase.org/Summary/FamilySummary.php?ID=299)and
+  [*Helotes sexlineatus*(Six-lined trumpeter)](http://www.fishbase.org/summary/14940)
+  and [*Pelates quadrilineatus*  (Fourlined terapon)](http://www.fishbase.org/summary/7945)
+  and [*Terapon jarbua*(Jarbua terapon)](http://www.fishbase.org/summary/4458) and
+  [*Terapon puta* (Small-scaled terapon)](http://www.fishbase.org/summary/7946) and
+  [*Terapon theraps* (Largescaled terapon)](http://www.fishbase.org/summary/4829)
+  from [FishBase](http://www.fishbase.org/) : Technical fact sheet.
+
+  - [Cresent perch (*Terapon jarbua*)](http://www.amonline.net.au/fishes/fishfacts/fish/tjarbua)
+  on the [Australian Museum Fish Site](http://www.amonline.net.au/fishes/fishfacts/)
+  on the Australian Museum Online website: factsheets with photos and descriptions
+
 
   **References**
+
   - Wee Y.C. and Peter K. L. Ng. 1994.
+
   *A First Look at Biodiversity in Singapore*
+
   . National Council on the Environment. 163pp.
+
   - Allen, Gerry, 2000.
+
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
+
   . Periplus Editions. 292 pp.
+
   - Kuiter, Rudie H. 2002.
+
   *Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers & Fishermen*
+
   New Holland Publishers. 434pp.
+
   - Lieske, Ewald and Robert Myers. 2001.
+
   *Coral Reef Fishes of the World*
+
   Periplus Editions. 400pp.
+
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
+
   *Rhythm of the Sea: The Life and Times of Labrador Beach*
-  . Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+
+  . Division of Biology, School of Science, Nanyang Technological University & Department
+  of Zoology, the National University of Singapore. 160 pp.
+
+  '
 location:
 - chg
 - cj
 - skd
 - lab
 - kus
+size:
+- 3.0
+- 10.0
 ---
 
 ## Where seen?
@@ -71,14 +106,14 @@ Some species of perch are eaten and sold fresh or dried and salted. Some larger 
 
 **![](http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/jarbua/110730tmftd7695m3.jpg)
 
-[Cresent perch](jarbua.md)
+[Cresent perch](jarbua)
 *![](http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/quadrilineatus/030518cjd0267m3.jpg)*
 Juvenile
-[Trumpeter perch](quadrilineatus.md)
+[Trumpeter perch](quadrilineatus)
 
 *![](http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/theraps/110831tmnbd0741m3.jpg)*
 Juvenile
-[Banded perch](theraps.md)**
+[Banded perch](theraps)**
 
 ---
 
@@ -88,13 +123,13 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
 
 *Helotes sexlineatus
 
-[Pelates quadrilineatus](quadrilineatus.md)*
+[Pelates quadrilineatus](quadrilineatus)*
 (Trumpeter perch)
-*[Terapon jarbua](jarbua.md)*
+*[Terapon jarbua](jarbua)*
 (Crescent perch)
 *Terapon puta
 
-[Terapon theraps](theraps.md)*
+[Terapon theraps](theraps)*
 (Banded perch)
 
 {% assign Terapontidae = site.entries | where: "family", "Terapontidae" %}

@@ -23,42 +23,67 @@ updated: Jan 2013
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/allophylus/cobbe/091005cjd2099m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/allophylus/cobbe/130102kntd2955m3.jpg"
-      caption: "Kranji Nature Trail, Jan 13"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/allophylus/cobbe/090905sbwrd0287m3a.jpg"
-      caption: "Sungei Buloh Wetland Reserve, Sep 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/allophylus/cobbe/090905sbwrd0287m3.jpg"
-      caption: "Sungei Buloh Wetland Reserve, Sep 09"
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/allophylus/cobbe/130102kntd2955m3.jpg
+    caption: Kranji Nature Trail, Jan 13
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/allophylus/cobbe/090905sbwrd0287m3a.jpg
+    caption: Sungei Buloh Wetland Reserve, Sep 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/allophylus/cobbe/090905sbwrd0287m3.jpg
+    caption: Sungei Buloh Wetland Reserve, Sep 09
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/allophylus/cobbe/031123sbwrad0006m3.jpg"
-      caption: "Nymphs of bugs seen on berries. Sungei Buloh Wetland Reserve, Mar 11"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/allophylus/cobbe/031123sbwrad0019m3.jpg"
-      caption: "Nymphs of bugs seen on leaves. Sungei Buloh Wetland Reserve, Mar 11"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/allophylus/cobbe/090905sbwrd0285m3.jpg"
-      caption: "Sungei Buloh Wetland Reserve, Sep 09"
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/allophylus/cobbe/031123sbwrad0006m3.jpg
+    caption: Nymphs of bugs seen on berries. Sungei Buloh Wetland Reserve, Mar 11
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/allophylus/cobbe/031123sbwrad0019m3.jpg
+    caption: Nymphs of bugs seen on leaves. Sungei Buloh Wetland Reserve, Mar 11
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/allophylus/cobbe/090905sbwrd0285m3.jpg
+    caption: Sungei Buloh Wetland Reserve, Sep 09
+links_references: '**Links**
+
   - [*Allophylus cobbe*](http://floraofsingapore.wordpress.com/2010/07/25/allophylus-cobbe/)
+
   on Total Vascular Flora of Singapore Online: photos and fact sheet.
+
   - [*Allophylus cobbe*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=1631)
+
   on the NParks Flora and Fauna website: photos and fact sheet.
-  
+
+
   **References**
+
   - Tan, Hugh T.W. and T. Morgany. 2001.
+
   *Growing the Native Plants of Singapore*
+
   . BP Science Centre Guidebook. 168pp.
+
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
+
   *The Concise Flora of Singapore: Gymnosperms and Dicotyledons*
+
   . Singapore University Press. 222 pp.
+
   - Tomlinson, P. B., 1986.
+
   *The Botany of Mangroves*
+
   Cambridge University Press. USA. 419 pp.
+
   - Corners, E. J. H., 1997.
+
   *Wayside Trees of Malaya: in two volumes*
-  . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
+
+  . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates
+  1-38; volume 2: 477-861 pp., plates 139-236.
+
   - V. Selvam. 2007.
+
   *Trees and Shrubs of the Maldives*
+
   . Food and Agriculture Organisation RAP publication 2007/12.
+
+  '
+size:
+- 300.0
+- 500.0
 ---
 
 ## Where seen?

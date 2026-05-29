@@ -1,10 +1,9 @@
 ---
 title: Carpet corallimorph
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: corallimorph, rhodactis, indosinensis, discosomidae, corallimorpharia,
-  anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: corallimorph, rhodactis, indosinensis, discosomidae, corallimorpharia, anthozoa,
+  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 6
@@ -21,65 +20,67 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Corallimorpharia
 updated: Jul 2024
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/031224sisd0121m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/031224sisd0121m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/031224sisd0121m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/031224sisd0121m3.jpg
     caption: Sisters Islands, Dec 03
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/031224sisd0126m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/031224sisd0126m3.jpg
     caption: Underside smooth and brown, edge fringed with short tentacles.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/031224sisd0121m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/031224sisd0121m3b.jpg
     caption: Upturned mouth.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/070701hntg0879m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/070701hntg0879m3.jpg
     caption: Pulau Hantu, Jul 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/070701hntg0879m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/070701hntg0879m3a.jpg
     caption: Each tentacle appears to be branched at the tips.
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/120506sisd1112m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/120506sisd1112m3.jpg
     caption: Sisters Island, May 12 Can retract into the body column.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/080510smkd3053m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/080510smkd3053m3.jpg
     caption: Pulau Semakau, May 08 Tips rounded often white.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/120609tsmkd5116m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/120609tsmkd5116m3a.jpg
     caption: 'Terumbu Semakau, Jun 12 Unidentifed purple strings: eggs?'
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/100130brkd8601m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/100130brkd8601m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/100130brkd8602m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/100130brkd8602m3a.jpg
     caption: ''
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/100403tbbjk1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/100403tbbjk1m3.jpg
     caption: Beting Bemban Besar, Apr 10 Photo shared by James Koh on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/100519tsmjk5m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/100519tsmjk5m3.jpg
     caption: Terumbu Semakau, May 10 Photo shared by James Koh on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/250812tbmn3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/250812tbmn3.jpg
     caption: Terumbu Bemban, Aug 25 Photo shared by Marcus Ng on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Corallimorpharia](https://singapore.biodiversity.online/taxon/A-Cnid-Anth-Corallimorpharia)
+
   on The Biodiversity of Singapore website, Lee Kong Chian Natural History Museum.
+
   - [*Rhodactis indosinensis*](https://wiki.nus.edu.sg/display/TAX/Rhodactis+indosinensis+-+Carpet+corallimorphs)
+
   - Carpet corallimorphs by Oh Ren Min, 05 Mar 2019 on Taxo4254.
 
+
   **References**
-  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
-  - Ren Min Oh, Mei Lin Neo, Nicholas Wei Liang Yap, Sudhanshi Sanjeev Jain, Ria Tan, Chaolun Allen Chen and Danwei Huang, May 2019.
-  *Citizen science meets integrated taxonomy to uncover the diversity and distribution of Corallimorpharia in Singapore*
+
+  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
+  Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H.
+  Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The
+  Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition.
+  National Parks Board. 663 pp.
+
+  - Ren Min Oh, Mei Lin Neo, Nicholas Wei Liang Yap, Sudhanshi Sanjeev Jain, Ria Tan,
+  Chaolun Allen Chen and Danwei Huang, May 2019.
+
+  *Citizen science meets integrated taxonomy to uncover the diversity and distribution
+  of Corallimorpharia in Singapore*
+
   , The Raffles Bulletin of Zoology Volume 67, Pp. 306-321.
+
+  '
 location:
 - snt
 - kus
@@ -93,6 +94,9 @@ location:
 - tsm
 - rfl
 - lfa
+size:
+- 2.0
+- 4.0
 ---
 
 ## Where seen?
@@ -109,7 +113,7 @@ The underside is smooth and brown. The animal can tuck its oral disk into the bo
 A study found that
 *Rhodactis indosinensis*
 can also look like
-[White-tip corallimorphs](whitetip.md)
+[White-tip corallimorphs](whitetip)
 .
 
 **Status and threats:**

@@ -1,10 +1,9 @@
 ---
 title: Tongue-soles
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: tongue, sole, flat, fish, flatfish, cynoglossidae, pleuronectiformes, 
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: tongue, sole, flat, fish, flatfish, cynoglossidae, pleuronectiformes, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 attributes:
 - 9
@@ -25,118 +24,80 @@ superorder: Acanthomorpha
 order: Carangiformes
 suborder: Pleuronectoidei
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/081019chgd1321m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/081019chgd1321m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Small and flat, they are 
-      often mistaken for flatworms! Eyes on left side of the body. Tail, dorsal 
-      and anal fins joined all around the body. Found beneath the sand. Watch 
-      your step!
+    caption: if you learn only 3 things about them ... Small and flat, they are often
+      mistaken for flatworms! Eyes on left side of the body. Tail, dorsal and anal
+      fins joined all around the body. Found beneath the sand. Watch your step!
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Small and flat, they are often mistaken for flatworms! Eyes on left
-      side of the body. Tail, dorsal and anal fins joined all around the body. 
-      Found beneath the sand. Watch your step!
+    caption: Small and flat, they are often mistaken for flatworms! Eyes on left side
+      of the body. Tail, dorsal and anal fins joined all around the body. Found beneath
+      the sand. Watch your step!
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/081019chgd1321m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/081019chgd1321m3.jpg
     caption: A tiny one. Changi, Oct 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/050622cftd4074m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/050622cftd4074m6l.jpg
     caption: Changi, Jun 05
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/110220lazd6353m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/110220lazd6353m6l.jpg
     caption: Seringat-Kias, Feb 11
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/180714prprk1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/180714prprk1.jpg
     caption: Pasir Ris, Jul 18 Shared by Richard Kuah on facebook .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/210114chg7mn1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/210114chg7mn1.jpg
     caption: Changi CP7, Jan 21 Photo shared by Marcus Ng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/090428chglks.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/090428chglks.jpg
     caption: Changi, Apr 09 Photo shared by Loh Kok Sheng on flickr .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/220616chgedc3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/220616chgedc3.jpg
     caption: Changi Lost Coast, Jun 22 Shared by Dayna Cheah on facebook .
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/180812nsrtlks6.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/180812nsrtlks6.jpg
     caption: East Coast, Aug 18 Photo shared by Loh Kok Sheng on facebook .
   gallery8:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/081214ecmlks04m6l.JPG
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/081214ecmlks04m6l.JPG
     caption: East Coast, Dec 08 Photo shared by Loh Kok Sheng on his blog .
   gallery9:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/180812nsrtlks6.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/180812nsrtlks6.jpg
     caption: East Coast, Aug 18 Photo shared by Loh Kok Sheng on facebook .
   gallery10:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/100105tmjk.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/100105tmjk.jpg
     caption: Tanah Merah, Jan 10 Photo shared by James Koh on flickr .
-links_references: |
-  **Links**
-  - [Doublelined Tongue-Sole (
-  *Paraplagusia bilineata*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/390.md)
-  and
-  [Speckled Tongue-Sole (
-  *Cynoglossus puncticeps*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/389.md)
-  Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
-  *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
-  . Singapore Science Centre. 163 pp.
-  - [Family Cynoglossidae](http://www.fishbase.org/summary/FamilySummary.php?ID=442)
-  (Tonguefishes) and
-  [*Cynoglossus arel*
-  (Largescale tonguesole)](http://www.fishbase.org/summary/7523)
-  and
-  [*Cynoglossus bilineatus*
-  (Fourlined tonguesole)](http://www.fishbase.org/summary/5455)
-  and
-  [*Cynoglossus trulla*
-  (Macau sole)](http://www.fishbase.org/summary/9243)
-  and
-  [*Cynoglossus cynoglossus*
-  (Bengal tongue sole)](http://www.fishbase.org/summary/5456)
-  and
-  [*Cynoglossus kopsii*
-  (Shortheaded tonguesole)](http://www.fishbase.org/summary/7647)
-  and
-  [*Cynoglossus lingua*
-  (Long tongue sole)](http://www.fishbase.org/summary/8238)
-  and
-  *[Cynoglossus macrolepidotus](http://www.fishbase.org/summary/59539)*
-  and
-  *[Cynoglossus puncticeps](http://www.fishbase.org/summary/4807)*
-  [(Speckled tonguesole)](http://www.fishbase.org/summary/4807)
-  and
-  *[Cynoglossus sibogae](http://www.fishbase.org/summary/59556)*
-  and
-  [*Paraplagusia bilineata*
-  (Doublelined tonguesole)](http://www.fishbase.org/summary/522)
-  from
-  [FishBase](http://www.fishbase.org/)
-  .
-  - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.md)
-  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
-
-  **References**
-  - Kelvin K. P. Lim & Tan Heok Hui.
-  *Bleeker’s fringelip tongue-sole at East Coast.*
-  29 March 2018. Singapore Biodiversity Records 2018: 33-34 ISSN 2345-7597. National University of Singaporec.
+links_references: "**Links**\n- [Doublelined Tongue-Sole (\n*Paraplagusia bilineata*\n\
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/390)\nand\n[Speckled\
+  \ Tongue-Sole (\n*Cynoglossus puncticeps*\n)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/389)\n\
+  Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.\n*[A Guide to the Common Marine Fishes\
+  \ of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*\n. Singapore\
+  \ Science Centre. 163 pp.\n- [Family Cynoglossidae](http://www.fishbase.org/summary/FamilySummary.php?ID=442)\n\
+  (Tonguefishes) and\n[*Cynoglossus arel*\n(Largescale tonguesole)](http://www.fishbase.org/summary/7523)\n\
+  and\n[*Cynoglossus bilineatus*\n(Fourlined tonguesole)](http://www.fishbase.org/summary/5455)\n\
+  and\n[*Cynoglossus trulla*\n(Macau sole)](http://www.fishbase.org/summary/9243)\n\
+  and\n[*Cynoglossus cynoglossus*\n(Bengal tongue sole)](http://www.fishbase.org/summary/5456)\n\
+  and\n[*Cynoglossus kopsii*\n(Shortheaded tonguesole)](http://www.fishbase.org/summary/7647)\n\
+  and\n[*Cynoglossus lingua*\n(Long tongue sole)](http://www.fishbase.org/summary/8238)\n\
+  and\n*[Cynoglossus macrolepidotus](http://www.fishbase.org/summary/59539)*\nand\n\
+  *[Cynoglossus puncticeps](http://www.fishbase.org/summary/4807)*\n[(Speckled tonguesole)](http://www.fishbase.org/summary/4807)\n\
+  and\n*[Cynoglossus sibogae](http://www.fishbase.org/summary/59556)*\nand\n[*Paraplagusia\
+  \ bilineata*\n(Doublelined tonguesole)](http://www.fishbase.org/summary/522)\nfrom\n\
+  [FishBase](http://www.fishbase.org/)\n.\n- [Volume 4: Bony fishes part 2 (Mugilidae\
+  \ to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00)\nFAO Species Identification\
+  \ Guide for Fishery Purposes The Living Marine Resources of the Western Central\
+  \ Pacific.\n\n**References**\n- Kelvin K. P. Lim & Tan Heok Hui.\n*Bleeker\u2019\
+  s fringelip tongue-sole at East Coast.*\n29 March 2018. Singapore Biodiversity Records\
+  \ 2018: 33-34 ISSN 2345-7597. National University of Singaporec.\n"
 location:
 - prp
 - chg
 - tm
 - ecp
 - laz
+size:
+- 18.0
+- 3.0
+- 6.0
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
@@ -145,7 +106,7 @@ location:
 These tiny flatfishes are sometimes seen on our Northern shores, among seagrasses, buried in sand or hovering over the surface.
 **What are tongue-soles?**
 Tongue-soles are
-[flatfishes](../pleuronectiformes/pleuronectiformes.md)
+[flatfishes](../pleuronectiformes/pleuronectiformes)
 belonging to the Family Cynoglossidae. According to
 [FishBase](http://fishbase.sinica.edu.tw/summary/FamilySummary.cfm?id=442)
 : the family has 3 genera and 110 species. They are found in all warm oceans, most species in shallow waters or near river mouths. One group (Symphurinae) are found in very deep waters 1,000m or more. In Greek, 'kyon' means 'dog' and 'glossa' means 'tongue'.
@@ -155,11 +116,11 @@ To about 18cm, those seen about 3-6cm. Both eyes on the left side, usually very 
 
 **Sometimes confused with**
 other
-[flatfishes](../pleuronectiformes/pleuronectiformes.md)
+[flatfishes](../pleuronectiformes/pleuronectiformes)
 . Here's more on
-[how to tell apart the flatfish families](../pleuronectiformes/pleuronectiformes1.md)
+[how to tell apart the flatfish families](../pleuronectiformes/pleuronectiformes1)
 commonly seen. Tiny, flat and fast, they are also sometimes mistaken for
-[flatworms](../../../worm/polycladida/polycladida.md)
+[flatworms](../../../worm/polycladida/polycladida)
 .
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 {% include img-wrap-group.html items=page.galleries.gallery3 %}

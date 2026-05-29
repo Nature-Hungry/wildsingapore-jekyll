@@ -1,10 +1,8 @@
 ---
 title: Banded krait
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: snake, krait, bungarus fasciatus, elapidae, field, guide, seashore, 
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, 
-  photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: snake, krait, bungarus fasciatus, elapidae, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Elapidae
 genus: Bungarus
@@ -19,62 +17,98 @@ class: Reptilia
 order: Squamata
 suborder: Serpentes
 updated: Oct 2016
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fasciatus/020713cjcpd2754m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fasciatus/020713cjcpd2754m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fasciatus/020713cjcpd2746m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fasciatus/020713cjcpd2746m6l.jpg
     caption: Chek Jawa, Jul 02
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fasciatus/070707cjlks1m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fasciatus/070707cjlks1m6l.jpg
     caption: Chek Jawa, Jul 07 Photo shared by Loh Kok Sheng on his blog .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fasciatus/070707cjlks1m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fasciatus/070707cjlks1m3b.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fasciatus/070707cjlks1m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fasciatus/070707cjlks1m3a.jpg
     caption: ''
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Banded Kraits](http://singaporesnakes.blogspot.com/search/label/Banded%20Krait)
+
   on the
+
   [Singapore Snakes](http://singaporesnakes.blogspot.com/)
+
   blog: fact sheet with photos and links to local sightings and other posts.
-  - [Banded Krait](http://www.ecologyasia.com/verts/snakes/banded_krait.md)
-  on Nick Baker's EcologyAsia website: fact sheet with photos.
+
+  - [Banded Krait](http://www.ecologyasia.com/verts/snakes/banded_krait)
+
+  on Nick Baker''s EcologyAsia website: fact sheet with photos.
+
   - [The Banded Krait that graced the launch of the Chek Jawa boardwalk](http://habitatnews.nus.edu.sg/index.php?entry=/marine/20070708-bungarus_fasciatus.txt)
+
   on the habitatnews blog.
+
   - [*Bungarus fasciatus*](http://www.iucnredlist.org/details/192063/0)
+
   on the IUCN Red List.
 
+
   **References**
+
   - *Banded krait entering mud lobster mound at Chek Jawa*
-  , 31 October 2019, Lim Hong Yao, Singapore Biodiversity Records 2019: 128-129 ISSN 2345-7597, National University of Singapore.
+
+  , 31 October 2019, Lim Hong Yao, Singapore Biodiversity Records 2019: 128-129 ISSN
+  2345-7597, National University of Singapore.
+
   - Tan Heok Hui. 1 Oct 2013.
+
   [Banded krait (
+
   *Bungarus fasciatus*
+
   ) on Pulau Ubin](http://lkcnhm.nus.edu.sg/nis/sbr2013/sbr2013-002.pdf)
+
   . Singapore Biodiversity Records 2013: 2
+
   - Lim, Kelvin K. P. & Francis L K Lim, 1992.
+
   *A Guide to the Amphibians and Reptiles of Singapore*
+
   Singapore Science Centre. 160 pp.
+
   - Baker, Nick and Kelvin Lim. 2008.
-  *Wild Animals of Singapore: A Photographic Guide to Mammals, Reptiles, Amphibians and Freshwater Fishes*
+
+  *Wild Animals of Singapore: A Photographic Guide to Mammals, Reptiles, Amphibians
+  and Freshwater Fishes*
+
   Vertebrate Study Group, Nature Society (Singapore). 180 pp.
+
   - Stuebing, Robert B and Robert F. Inger. 1999.
+
   *A Field Guide to the Snakes of Borneo*
+
   Natural History Publications (Borneo). 254 pp.
-  - Cox, Merel J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt. 1998.
-  *A Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular Malaysia and Singapore*
+
+  - Cox, Merel J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt.
+  1998.
+
+  *A Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular Malaysia
+  and Singapore*
+
   New Holland. pp 144.
+
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+
   . Nature Society (Singapore). 285 pp.
+
+  '
 location:
 - cj
+size:
+- 150.0
+- 200.0
 ---
 
 ## Where seen?
@@ -91,13 +125,13 @@ swimming near mangroves on an offshore island. According to Baker, in Singapore 
 
 **Sometimes confused with**
 the highly venomous
-[Yellow-lipped sea snake](laticauda.md)
+[Yellow-lipped sea snake](laticauda)
 (
 *Laticauda colubrina*
 ). Here's
-[how to tell apart banded snakes](cfseafile.md)
+[how to tell apart banded snakes](cfseafile)
 seen near the coast. It may also be confused with eels. Here's more on
-[how to tell apart sea snakes, eels and eel-like animals](../../glossary/eelsnake.md)
+[how to tell apart sea snakes, eels and eel-like animals](../../glossary/eelsnake)
 .
 
 **What does it eat?**

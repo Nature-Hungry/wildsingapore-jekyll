@@ -1,10 +1,8 @@
 ---
 title: Lionfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: lion, fish, lionfish, pterois, scorpaenidae, field, guide, seashore, 
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, 
-  photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: lion, fish, lionfish, pterois, scorpaenidae, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 9
@@ -27,46 +25,33 @@ order: Perciformes
 suborder: Scorpaenoidei
 subfamily: Pteroinae
 updated: Oct 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/pterois/140809hntlks3m3b.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/pterois/140809hntlks3m3b.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/pterois/140809hntlks3m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/pterois/140809hntlks3m3b.jpg
     caption: Pulau Hantu, Aug 15 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/pterois/140809hntlks3m6l.jpg
-    caption: Russel's scorpionfish (Pterois russelii) Pulau Hantu, Aug 15 Photo 
-      shared by Loh Kok Sheng on his blog .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/pterois/140809hntlks3m6l.jpg
+    caption: Russel's scorpionfish (Pterois russelii) Pulau Hantu, Aug 15 Photo shared
+      by Loh Kok Sheng on his blog .
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/pterois/240623hntlks2b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/pterois/240623hntlks2b.jpg
     caption: Pulau Hantu, Jun 24 Shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/pterois/240623hntlks2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/pterois/240623hntlks2.jpg
     caption: Pulau Hantu, Jun 24 Shared by Loh Kok Sheng on facebook .
-links_references: |
-  **Links**
-  - [*Pterois russelii*
-  (Plaintail turkeyfish)](http://www.fishbase.org/summary/SpeciesSummary.php?ID=6404&genusname=Pterois&speciesname=russelii)
-  on SeaLife Base: Technical fact sheet
-  - [*Pterois volitans*
-  (Red lionfish)](http://fishbase.sinica.edu.tw/summary/Pterois-volitans.html)
-  on SeaLife Base: Technical fact sheet
-
-  **References**
-  - Heng Pei Yan & Kelvin K. P. Lim. 29 May 2015. New record of the volitans lionfish in Singapore. Singapore Biodiversity Records 2015: 64
-  - Loh Kok Sheng & Kelvin K. P. Lim. 5 September 2014. Russell’s lionfish at Pulau Hantu,
-  *Pterois russellii*
-  . Singapore Biodiversity Records 2014: 240.
-  - Tan Heok Hui & Kelvin K. P. Lim. 10 January 2014. Russell’s lionfish in the Singapore Straits,
-  *Pterois russellii*
-  . Singapore Biodiversity Records 2014: 11
-  - Lieske, Ewald and Robert Myers. 2001.
-  *Coral Reef Fishes of the World*
-  Periplus Editions. 400pp.
+links_references: "**Links**\n- [*Pterois russelii*\n(Plaintail turkeyfish)](http://www.fishbase.org/summary/SpeciesSummary.php?ID=6404&genusname=Pterois&speciesname=russelii)\n\
+  on SeaLife Base: Technical fact sheet\n- [*Pterois volitans*\n(Red lionfish)](http://fishbase.sinica.edu.tw/summary/Pterois-volitans.html)\n\
+  on SeaLife Base: Technical fact sheet\n\n**References**\n- Heng Pei Yan & Kelvin\
+  \ K. P. Lim. 29 May 2015. New record of the volitans lionfish in Singapore. Singapore\
+  \ Biodiversity Records 2015: 64\n- Loh Kok Sheng & Kelvin K. P. Lim. 5 September\
+  \ 2014. Russell\u2019s lionfish at Pulau Hantu,\n*Pterois russellii*\n. Singapore\
+  \ Biodiversity Records 2014: 240.\n- Tan Heok Hui & Kelvin K. P. Lim. 10 January\
+  \ 2014. Russell\u2019s lionfish in the Singapore Straits,\n*Pterois russellii*\n\
+  . Singapore Biodiversity Records 2014: 11\n- Lieske, Ewald and Robert Myers. 2001.\n\
+  *Coral Reef Fishes of the World*\nPeriplus Editions. 400pp.\n"
 location:
 - hnt
+size:
+- 30.0
 ---
 
 ## Where seen?

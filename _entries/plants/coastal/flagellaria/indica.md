@@ -22,39 +22,42 @@ order: Poales
 inat_id: 360343
 updated: Nov 10
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/flagellaria/indica/090111smkd4873m3.jpg
-links_references: |
-  **Links**
-  - [*Flagellaria
-    indica*](http://floraofsingapore.wordpress.com/2010/06/20/flagellaria-indica/) on Total Vascular Flora of Singapore Online: photos
-    and fact sheet.
-  - Giesen, Wim
-    and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-    [*Mangrove
-    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
-    RAP publication 2006/07 Food and Agriculture Organization of the
-    United Nations Regional Office for Asia and the Pacific Bangkok.
-  
-  **References**
-  - Hsuan Keng,
-    S.C. Chin and H. T. W. Tan.1998, *[The
+links_references: "**Links**\n- [*Flagellaria\n  indica*](http://floraofsingapore.wordpress.com/2010/06/20/flagellaria-indica/)\
+  \ on Total Vascular Flora of Singapore Online: photos\n  and fact sheet.\n- Giesen,\
+  \ Wim\n  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.\n  [*Mangrove\n\
+  \  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)\
+  \ (PDF online downloadable).\n  RAP publication 2006/07 Food and Agriculture Organization\
+  \ of the\n  United Nations Regional Office for Asia and the Pacific Bangkok.\n\n\
+  **References**\n- Hsuan Keng,\n  S.C. Chin and H. T. W. Tan.1998, *[The\n"
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/flagellaria/indica/090328sbwrd8597m3c.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/flagellaria/indica/090328sbwrd8597m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/flagellaria/indica/090328sbwrd8594m3a.jpg"
-      caption: "Sungei Buloh Wetland Reserve, Mar 09"
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/flagellaria/indica/090328sbwrd8597m3c.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/flagellaria/indica/090328sbwrd8597m3.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/flagellaria/indica/090328sbwrd8594m3a.jpg
+    caption: Sungei Buloh Wetland Reserve, Mar 09
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/flagellaria/indica/090802ubind8222m3.jpg"
-      caption: "Pulau Ubin, Aug 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/flagellaria/indica/090802ubind8225m3.jpg"
-      caption: "Pulau Ubin, Aug 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/flagellaria/indica/100321sgcd0246m3.jpg"
-      caption: "Sungei Cina, Apr 10"
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/flagellaria/indica/090802ubind8222m3.jpg
+    caption: Pulau Ubin, Aug 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/flagellaria/indica/090802ubind8225m3.jpg
+    caption: Pulau Ubin, Aug 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/flagellaria/indica/100321sgcd0246m3.jpg
+    caption: Sungei Cina, Apr 10
   gallery3:
-    - url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
-      caption: "Links Flagellaria indica on Total Vascular Flora of Singapore Online: photos and fact sheet. Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006. Mangrove Guidebook for Southeast Asia (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok. References Hsuan Keng, S.C. Chin and H. T. W. Tan.1998, The Concise Flora of Singapore II: Monoctyledons Singapore University Press. 215 pp. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444."
+  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
+    caption: 'Links Flagellaria indica on Total Vascular Flora of Singapore Online:
+      photos and fact sheet. Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth
+      Scholten. 2006. Mangrove Guidebook for Southeast Asia (PDF online downloadable).
+      RAP publication 2006/07 Food and Agriculture Organization of the United Nations
+      Regional Office for Asia and the Pacific Bangkok. References Hsuan Keng, S.C.
+      Chin and H. T. W. Tan.1998, The Concise Flora of Singapore II: Monoctyledons
+      Singapore University Press. 215 pp. Burkill, I. H., 1993. A Dictionary of the
+      Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry
+      of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.'
+size:
+- 200.0
+- 1500.0
 ---
 
 ## Where seen?

@@ -23,55 +23,88 @@ updated: Mar 2020
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/050707cftg9086m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "if you learn only 3 things about them ... They resemble familiar prawns and shrimps, but belong to a totally different group. Mantis shrimp can hurt you. Don't touch them! They have pincers modified into fearsome weapons."
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "They resemble familiar prawns and shrimps, but belong to a totally different group. Mantis shrimp can hurt you. Don't touch them! They have pincers modified into fearsome weapons."
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... They resemble familiar prawns
+      and shrimps, but belong to a totally different group. Mantis shrimp can hurt
+      you. Don't touch them! They have pincers modified into fearsome weapons.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: They resemble familiar prawns and shrimps, but belong to a totally different
+      group. Mantis shrimp can hurt you. Don't touch them! They have pincers modified
+      into fearsome weapons.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/050707cftg9086m3.jpg"
-      caption: "Changi, Jul 05"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/050707cftg9092m3a.jpg"
-      caption: Amazing eyes!
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/050707cftg9086m3b.jpg"
-      caption: Powerful tail
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/050707cftg9086m3.jpg
+    caption: Changi, Jul 05
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/050707cftg9092m3a.jpg
+    caption: Amazing eyes!
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/050707cftg9086m3b.jpg
+    caption: Powerful tail
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/050707cftg9111m3.jpg"
-      caption: Deadly pincers of a spearer mantis shrimp .
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/050707cftg9111m3b.jpg"
-      caption: "Changi, Jul 05"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/040701chgd1290m3a.jpg"
-      caption: "This is all that is usually seen of a mantis shrimp in hiding. Changi, Jul 04"
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/050707cftg9111m3.jpg
+    caption: Deadly pincers of a spearer mantis shrimp .
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/050707cftg9111m3b.jpg
+    caption: Changi, Jul 05
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/040701chgd1290m3a.jpg
+    caption: This is all that is usually seen of a mantis shrimp in hiding. Changi,
+      Jul 04
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/090529prpd2898m3.jpg"
-      caption: Spearer mantis shrimp
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/smasher/070630sisd2890m3.jpg"
-      caption: Smasher mantis shrimp
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/banded/100527tmd3635m3e.jpg"
-      caption: Banded mantis shrimp
-links_references: |
-  **Links**
-  - [Order Stomatopoda](http://mangrove.nus.edu.sg/pub/seashore/text/217.md)
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/090529prpd2898m3.jpg
+    caption: Spearer mantis shrimp
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/smasher/070630sisd2890m3.jpg
+    caption: Smasher mantis shrimp
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/banded/100527tmd3635m3e.jpg
+    caption: Banded mantis shrimp
+links_references: '**Links**
+
+  - [Order Stomatopoda](http://mangrove.nus.edu.sg/pub/seashore/text/217)
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988,
+
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+
   . The Singapore Science Centre, Singapore. 160 pp.
+
   - [Why the mantis shrimp is my new favourite animal](http://theoatmeal.com/comics/mantis_shrimp)
-  on the Oatmeal: a wondrously inspiring look at the marvelous features and lifestyle of the mantis shrimp.
+
+  on the Oatmeal: a wondrously inspiring look at the marvelous features and lifestyle
+  of the mantis shrimp.
+
   - [Mantis shrimp eyes may inspire better DVD and CD players](http://wildshores.blogspot.com/2009/10/mantis-shrimp-eyes-may-inspire-better.html)
+
   on the wild shores of singapore blog.
-  
+
+
   **References**
+
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
+
   *Rhythm of the Sea: The Life and Times of Labrador Beach*
-  . Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+
+  . Division of Biology, School of Science, Nanyang Technological University & Department
+  of Zoology, the National University of Singapore. 160 pp.
+
   - Jones Diana S. and Gary J. Morgan, 2002.
+
   *A Field Guide to Crustaceans of Australian Waters*
+
   . Reed New Holland. 224 pp.
+
   - Debelius, Helmut, 2001.
+
   *Crustacea Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean*
+
   IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+
   - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.
-  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
+
+  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive
+  of the vertebrates*
+
   Sea Challengers. 314pp.
+
+  '
+size:
+- 10.0
+- 30.0
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
@@ -90,11 +123,11 @@ Mantis shrimps seen on our intertidal shores are mostly juveniles rarely exceedi
 Mantis shrimps got their common names from their huge front pincers that snap with great speed and force. These resemble those of the praying mantis insect or the blade of a pocket knife that folds into the handle. In fact, like a living swiss army knife, all kinds of strange gadgetty limbs are folded under the little animal, ready to be unleashed with lethal effect.
 
 Mantis shrimp pincer modifications are generally of two types: spearers and smashers.
-[Spearer mantis shrimps](spearer.md)
+[Spearer mantis shrimps](spearer)
 pincers are armed with sharp spines, from 2 to 20 spines. These pincers extend and retract much faster than an eye blink and the sharp spines impale soft, fast-moving prey like fishes and prawns.
 
 The pincers of
-[smasher mantis shrimps](smasher.md)
+[smasher mantis shrimps](smasher)
 are modified into clubs. These are used to bludgeon shelled prey. While snails and clams are simply dragged back to the burrow, crabs are often first immobilised by blows to the claws and legs. In the safety of the burrow, the victim's shell is further cracked. The blows of smasher mantis shrimp are so powerful that they have been known to break aquarium glass!
 
 **Warrior shrimp:**
@@ -114,7 +147,7 @@ Like many predators, most mantis shrimp are solitary. They can be highly territo
 
 **Baby mantis shrimps:**
 Mantis shrimp are of separate genders. In some species, the males have larger pincers. The males have well developed copulatory projections called penes at the base of the last pair of legs. In most species, after mating, the female lays her eggs in a safe place like a burrow or carries them until they hatch. Some mantis shrimp species are monogamous. The mated pair share a burrow and while the female looks after the eggs, the male hunts for both of them. The free-swimming larvae look nothing like their parents and drift among the plankton for a while before settling to the bottom and changing into adult form. Here is a fascinating
-[photo of a mantis shrimp larva](http://www.imagequest3d.com/catalogue/larvalforms/pages/a006_jpg.md)
+[photo of a mantis shrimp larva](http://www.imagequest3d.com/catalogue/larvalforms/pages/a006_jpg)
 on
 [Image Quest 3-D Marine Library](http://www.imagequest3d.com/catalogue/larvalforms/)
 .
@@ -141,14 +174,14 @@ from The BIodiversity of Singapore, Lee Kong Chian Natural History Museum.
 
 *Gonodactylellus sentosa
 
-[Gonodactylellus viridis](smasher.md)
+[Gonodactylellus viridis](smasher)
 /Gonodactylus chiragra*
 (Smasher mantis shrimp)
 
 **Family Lysiosquillidae**
 
-*[Lysiosquilla](banded.md)*
-[sp.](smasher.md)
+*[Lysiosquilla](banded)*
+[sp.](smasher)
 (Banded mantis shrimp)
 
 **Family Nannosquillidae**
@@ -157,7 +190,7 @@ from The BIodiversity of Singapore, Lee Kong Chian Natural History Museum.
 
 Alachosquilla vicina*
 
-[**Family Squillidae**](spearer.md)
+[**Family Squillidae**](spearer)
 (Spearer mantis shrimp)
 
 *Carinosquilla lirata

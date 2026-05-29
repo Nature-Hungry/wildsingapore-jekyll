@@ -1,9 +1,8 @@
 ---
 title: Wrasses
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: wrasse, fish, labridae, field, guide, seashore, sea, shore, marine, 
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: wrasse, fish, labridae, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Labridae
 genus: ''
@@ -19,130 +18,89 @@ superorder: Acanthomorpha
 order: Labriformes
 suborder: Labroidei
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/pteragogus/080409tusd0842m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/pteragogus/080409tusd0842m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They belong to the second
-      largest family of fishes after gobies. Young fish may look very different 
-      from adults. Some can give a nasty bite. Don't touch them!
+    caption: if you learn only 3 things about them ... They belong to the second largest
+      family of fishes after gobies. Young fish may look very different from adults.
+      Some can give a nasty bite. Don't touch them!
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They belong to the second largest family of fishes after gobies. 
-      Young fish may look very different from adults. Some can give a nasty 
-      bite. Don't touch them!
+    caption: They belong to the second largest family of fishes after gobies. Young
+      fish may look very different from adults. Some can give a nasty bite. Don't
+      touch them!
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/pteragogus/080409tusd0842m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/pteragogus/080409tusd0842m3.jpg
     caption: Well camouflaged! Tuas, Apr 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/091206tmd5769m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/091206tmd5769m3.jpg
     caption: Often half buried in the sand. Pulau Sekudu, Apr 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/060429skdd1373m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/060429skdd1373m3.jpg
     caption: Seen from above. Pulau Sekudu, Apr 06
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/160608cyrlks6a.jpg
-    caption: Caught by a Carpet eel-blenny . Cyrene Reef, Jun 16 Photo shared by
-      Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/170128smkso1280222m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/160608cyrlks6a.jpg
+    caption: Caught by a Carpet eel-blenny . Cyrene Reef, Jun 16 Photo shared by Loh
+      Kok Sheng on his blog .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/170128smkso1280222m3.jpg
     caption: Often seen in abandoned nets and traps. Pulau Semakau, Jan 17
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/bicolor/140811tryd8448m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/bicolor/140811tryd8448m3.jpg
     caption: Brown-striped wrasse
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/050819cjg1629m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/050819cjg1629m3.jpg
     caption: Diamond wrasse
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/pteragogus/070421cyrg8905m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/pteragogus/070421cyrg8905m3.jpg
     caption: Weedy wrasse
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/schoenleinii/050720sntg9598m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/schoenleinii/050720sntg9598m3.jpg
     caption: Black-spot tuskfish
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/110418tmftd9074m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/110418tmftd9074m3.jpg
     caption: Anchor tuskfish
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/oligacanthus/170812cyrmna.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/oligacanthus/170812cyrmna.jpg
     caption: Singapore tuskfish
-links_references: |
-  **Links**
-  - Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
-  *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
-  . Singapore Science Centre. 163 pp.
-  - Tan, Leo W. H. & Ng, Peter K. L., 1988.
-  *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
-  . The Singapore Science Centre, Singapore. 160 pp.
-  - [IUCN Grouper and Wrasse Specialist Group](http://www.hku.hk/ecology/GroupersWrasses/iucnsg/index.html)
-  on the endangered members of the Family Labridae with latest Red List for this group.
-  - [Volume 6: Bony fishes part 4 (Labridae to Latimeriidae)](http://www.fao.org/docrep/009/y0870e/y0870e00.md)
-  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
-
-  **References**
-  - Adib Adris & Vincent Ting. 29 May 2020.
-  *Floral wrasse at Seringat-Kias*
-  . Singapore Biodiversity Records 2020: 56 ISSN 2345-7597
-  - Adib Adris. 30 April 2020.
-  *Erdmann’s wrasse off Lazarus Island*
-  . Singapore Biodiversity Records 2020: 45 ISSN 2345-7597
-  - Adib Adris. 20 December 2019.
-  *A moon wrasse (Thalassoma lunare) off Lazarus Island.*
-  Singapore Biodiversity Records 2019: 156 ISSN 2345-7597, National University of Singapore.
-  - Daisuke Taira.
-  *A Singapore record of the cutribbon wrasse, Stethojulis interrupta*
-  . 31 October 2018. Singapore Biodiversity Records 2018: 114 ISSN 2345-7597. National University of Singapore.
-  - Daisuke Taira.
-  *A cheek-lined Maori-wrasse in the Singapore Strait*
-  . 22 June 2018. Singapore Biodiversity Records 2018: 65 ISSN 2345-7597. National University of Singapore.
-  - Daisuke Taira. 29 Sep 2017.
-  *Argus wrasses at Pulau Seringat*
-  . Singapore Biodiversity Records 2017: 131-132.
-  - Marcus F. C. Ng. 31 Oct 2017.
-  *Singapore tuskfish at Cyrene Reef*
-  Singapore Biodiversity Records 2017: 147
-  - Jeffrey K. Y. Low & Koh Kwan Siong. 29 January 2016.
-  *Recent sightings of shoulder-spot wrasse in Singapore waters, Leptojulis cyanopleura*
-  . Singapore Biodiversity Records 2016: 12
-  - Jeffrey K. Y. Low. 21 August 2015.
-  *Pastel-green wrasse in the Singapore Strait*
-  . Singapore Biodiversity Records 2015: 114
-  - Jeffrey K. Y. Low. 29 May 2015.
-  *Orangefin wrasse at Pulau Satumu*
-  . Singapore Biodiversity Records 2015: 64
-  - Jeffrey K. Y. Low. 15 May 2015.
-  *Slingjaw wrasse in the Singapore Strait*
-  . Singapore Biodiversity Records 2015: 58
-  - Toh Chay Hoon, Jeffrey K. Y. Low & Debby Ng. 13 Feb 2015.
-  *Bluestreak cleaner wrasse off Big Sister Island*
-  . Singapore Biodiversity Records 2015: 27
-  - Tan Heok Hui & Kelvin K. P. Lim. 21 November 2014.
-  *Moon wrasse off Kusu Island, Thalassoma lunarer*
-  . Singapore Biodiversity Records 2014: 293.
-  - Ria Tan. 6 June 2014.
-  *New record of triplebar razorfish in Singapore, Iniistius trivittatus*
-  . Singapore Biodiversity Records 2014: 154
-  - Wee Y.C. and Peter K. L. Ng. 1994.
-  *A First Look at Biodiversity in Singapore*
-  . National Council on the Environment. 163pp.
-  - Allen, Gerry, 2000.
-  *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
-  . Periplus Editions. 292 pp.
-  - Kuiter, Rudie H. 2002.
-  *Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers & Fishermen*
-  New Holland Publishers. 434pp.
-  - Lieske, Ewald and Robert Myers. 2001.
-  *Coral Reef Fishes of the World*
-  Periplus Editions. 400pp.
-  - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
-  *Rhythm of the Sea: The Life and Times of Labrador Beach*
-  . Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
-  - Sparks, John, 1999.
-  *Battle of the Sexes in the Animal World*
-  BBC Worldwide, London. 224 pp.
+links_references: "**Links**\n- Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.\n*[A\
+  \ Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*\n\
+  . Singapore Science Centre. 163 pp.\n- Tan, Leo W. H. & Ng, Peter K. L., 1988.\n\
+  *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n. The Singapore\
+  \ Science Centre, Singapore. 160 pp.\n- [IUCN Grouper and Wrasse Specialist Group](http://www.hku.hk/ecology/GroupersWrasses/iucnsg/index.html)\n\
+  on the endangered members of the Family Labridae with latest Red List for this group.\n\
+  - [Volume 6: Bony fishes part 4 (Labridae to Latimeriidae)](http://www.fao.org/docrep/009/y0870e/y0870e00)\n\
+  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources\
+  \ of the Western Central Pacific.\n\n**References**\n- Adib Adris & Vincent Ting.\
+  \ 29 May 2020.\n*Floral wrasse at Seringat-Kias*\n. Singapore Biodiversity Records\
+  \ 2020: 56 ISSN 2345-7597\n- Adib Adris. 30 April 2020.\n*Erdmann\u2019s wrasse\
+  \ off Lazarus Island*\n. Singapore Biodiversity Records 2020: 45 ISSN 2345-7597\n\
+  - Adib Adris. 20 December 2019.\n*A moon wrasse (Thalassoma lunare) off Lazarus\
+  \ Island.*\nSingapore Biodiversity Records 2019: 156 ISSN 2345-7597, National University\
+  \ of Singapore.\n- Daisuke Taira.\n*A Singapore record of the cutribbon wrasse,\
+  \ Stethojulis interrupta*\n. 31 October 2018. Singapore Biodiversity Records 2018:\
+  \ 114 ISSN 2345-7597. National University of Singapore.\n- Daisuke Taira.\n*A cheek-lined\
+  \ Maori-wrasse in the Singapore Strait*\n. 22 June 2018. Singapore Biodiversity\
+  \ Records 2018: 65 ISSN 2345-7597. National University of Singapore.\n- Daisuke\
+  \ Taira. 29 Sep 2017.\n*Argus wrasses at Pulau Seringat*\n. Singapore Biodiversity\
+  \ Records 2017: 131-132.\n- Marcus F. C. Ng. 31 Oct 2017.\n*Singapore tuskfish at\
+  \ Cyrene Reef*\nSingapore Biodiversity Records 2017: 147\n- Jeffrey K. Y. Low &\
+  \ Koh Kwan Siong. 29 January 2016.\n*Recent sightings of shoulder-spot wrasse in\
+  \ Singapore waters, Leptojulis cyanopleura*\n. Singapore Biodiversity Records 2016:\
+  \ 12\n- Jeffrey K. Y. Low. 21 August 2015.\n*Pastel-green wrasse in the Singapore\
+  \ Strait*\n. Singapore Biodiversity Records 2015: 114\n- Jeffrey K. Y. Low. 29 May\
+  \ 2015.\n*Orangefin wrasse at Pulau Satumu*\n. Singapore Biodiversity Records 2015:\
+  \ 64\n- Jeffrey K. Y. Low. 15 May 2015.\n*Slingjaw wrasse in the Singapore Strait*\n\
+  . Singapore Biodiversity Records 2015: 58\n- Toh Chay Hoon, Jeffrey K. Y. Low &\
+  \ Debby Ng. 13 Feb 2015.\n*Bluestreak cleaner wrasse off Big Sister Island*\n. Singapore\
+  \ Biodiversity Records 2015: 27\n- Tan Heok Hui & Kelvin K. P. Lim. 21 November\
+  \ 2014.\n*Moon wrasse off Kusu Island, Thalassoma lunarer*\n. Singapore Biodiversity\
+  \ Records 2014: 293.\n- Ria Tan. 6 June 2014.\n*New record of triplebar razorfish\
+  \ in Singapore, Iniistius trivittatus*\n. Singapore Biodiversity Records 2014: 154\n\
+  - Wee Y.C. and Peter K. L. Ng. 1994.\n*A First Look at Biodiversity in Singapore*\n\
+  . National Council on the Environment. 163pp.\n- Allen, Gerry, 2000.\n*Marine Fishes\
+  \ of South-East Asia: A Field Guide for Anglers and Divers*\n. Periplus Editions.\
+  \ 292 pp.\n- Kuiter, Rudie H. 2002.\n*Guide to Sea Fishes of Australia: A Comprehensive\
+  \ Reference for Divers & Fishermen*\nNew Holland Publishers. 434pp.\n- Lieske, Ewald\
+  \ and Robert Myers. 2001.\n*Coral Reef Fishes of the World*\nPeriplus Editions.\
+  \ 400pp.\n- Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.\n*Rhythm of the Sea: The\
+  \ Life and Times of Labrador Beach*\n. Division of Biology, School of Science, Nanyang\
+  \ Technological University & Department of Zoology, the National University of Singapore.\
+  \ 160 pp.\n- Sparks, John, 1999.\n*Battle of the Sexes in the Animal World*\nBBC\
+  \ Worldwide, London. 224 pp.\n"
 location:
 - tm
 - snt
@@ -218,13 +176,13 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
 (Floral wrasse)
 *Cheilinus fasciatus*
 (Red-banded maori wrasse)
-*[Cheilinus oligacanthus](oligacanthus.md)*
+*[Cheilinus oligacanthus](oligacanthus)*
 (Singapore tuskfish)
 *Cheilinus trilobatus=^Cheilinus trilobatus
 
-[Choerodon anchorago](anchorago.md)*
+[Choerodon anchorago](anchorago)*
 (Anchor tuskfish)
-*[Choerodon schoenleinii](schoenleinii.md)*
+*[Choerodon schoenleinii](schoenleinii)*
 (Black-spot tuskfish)
 *Coris gaimard
 
@@ -238,7 +196,7 @@ Epibulus insidiator
 
 +Halichoeres argus*
 (Argus wrasse)
-*[Halichoeres bicolor](bicolor.md)*
+*[Halichoeres bicolor](bicolor)*
 (Brown-stripe wrasse)
 **
 *Halichoeres binotopsis*
@@ -247,7 +205,7 @@ Epibulus insidiator
 *Halichoeres dayi
 
 *Halichoeres dussumieri=^
-[Halichoeres nigrescens](dussumieri.md)*
+[Halichoeres nigrescens](dussumieri)*
 (Diamond tuskfish)
 *+Halichoeres erdmanni*
 (Erdmann’s wrasse)
@@ -292,7 +250,7 @@ Hemiptronotus pendactylus
 (Cheek-lined Maori-wrasse)
 
 [*Pteragogus*
-sp.](pteragogus.md)
+sp.](pteragogus)
 (Weedy wrasse) and list of species recorded for Singapore.
 
 *Stethojulis axillaris=^Stethojulis balteata

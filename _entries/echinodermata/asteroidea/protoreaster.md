@@ -1,11 +1,9 @@
 ---
 title: Knobbly sea star
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: knobbly, chocolate, chip, sea star, seastar, star, fish, starfish, 
-  protoreaster, nodosus, nodulosus, oreasteridae, asteroidea, echinoderm, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: knobbly, chocolate, chip, sea star, seastar, star, fish, starfish, protoreaster,
+  nodosus, nodulosus, oreasteridae, asteroidea, echinoderm, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 0
@@ -24,170 +22,126 @@ class: Asteroidea
 superorder: Valvatacea
 order: Valvatida
 updated: Jul 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/040508skdbd0025m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/040508skdbd0025m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They are no longer common
-      on all our shores. They come in a wide variety of colours and knob 
-      patterns. They use water to pump up their bodies. Don't remove them from 
-      water for too long.
+    caption: if you learn only 3 things about them ... They are no longer common on
+      all our shores. They come in a wide variety of colours and knob patterns. They
+      use water to pump up their bodies. Don't remove them from water for too long.
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They are no longer common on all our shores. They come in a wide 
-      variety of colours and knob patterns. They use water to pump up their 
-      bodies. Don't remove them from water for too long.
+    caption: They are no longer common on all our shores. They come in a wide variety
+      of colours and knob patterns. They use water to pump up their bodies. Don't
+      remove them from water for too long.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/040508skdbd0025m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/040508skdbd0025m3.jpg
     caption: Pulau Sekudu, May 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/040508skdad0056m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/040508skdad0056m3b.jpg
     caption: Tiny pedicellaria near the mouth. Pink or purple tube feet.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/040508skdad0056m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/040508skdad0056m3a.jpg
     caption: Mouth.
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/110508cyrmng5m3.jpg
-    caption: Eating a sand dollar? Cyrene Reef, May 11 Photo shared by Marcus Ng
-      on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/110817cyrL1070555m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/110508cyrmng5m3.jpg
+    caption: Eating a sand dollar? Cyrene Reef, May 11 Photo shared by Marcus Ng on
+      flickr .
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/110817cyrL1070555m3.jpg
     caption: Spawning posture? Cyrene Reef, Aug 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/120311cyrs04691m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/120311cyrs04691m3.jpg
     caption: Spawning posture? Cyrene Reef, Mar 12
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/040604bbg0244m3.jpg
-    caption: On a hot day, may be contorted. It's attempting to cool off. It is 
-      not dying, there is no need to move it. Beting Bronok, Jun 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/080425cyrd1684m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/040604bbg0244m3.jpg
+    caption: On a hot day, may be contorted. It's attempting to cool off. It is not
+      dying, there is no need to move it. Beting Bronok, Jun 04
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/080425cyrd1684m3.jpg
     caption: Juveniles are common on Cyrene Reef Cyrene Reef, Apr 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/080425cyrd1684m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/080425cyrd1684m3a.jpg
     caption: Papulae emerging on the upper surface
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/090109cyrd4603m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/090109cyrd4603m3.jpg
     caption: With six arms . Cyrene Reefs, Jan 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/090109cyrd4629m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/090109cyrd4629m3.jpg
     caption: With four arms. Cyrene Reefs, Jan 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/030715bbd0001m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/030715bbd0001m3.jpg
     caption: Four-armed Beting Bronok, Jul 03
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/031225skdd0026m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/031225skdd0026m3.jpg
     caption: White and pinkish Pulau Sekudu, Dec 03
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/050724bbd5310m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/050724bbd5310m3.jpg
     caption: Brown and chocolate Beting Bronok, Jul 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/110508cyrd1235m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/110508cyrd1235m3.jpg
     caption: Green Cyrene Reef, May 11
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/080720cjd8047m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/080720cjd8047m3.jpg
     caption: Blue Chek Jawa, Jul 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/080706chg7284m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/080706chg7284m3.jpg
     caption: Green Changi, Jul 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/081114cyrd1837m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/081114cyrd1837m3.jpg
     caption: Without knobs on the arms! Cyrene Reef, Nov 08
   gallery8:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/100612chgjk1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/100612chgjk1m3.jpg
     caption: Changi, Jun 10 Photo shared by James Koh on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/100612chgjk3m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/100612chgjk3m3.jpg
     caption: Changi, Jun 10 Photo shared by James Koh on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/100908chgnml1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/100908chgnml1m3.jpg
     caption: Changi, Sep 10 Photo shared by Neo Mei Lin on her blog .
   gallery9:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/100612chglks1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/100612chglks1m3.jpg
     caption: Changi, Jun 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/080522chglks02m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/080522chglks02m3.jpg
     caption: Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/201020chgsafmn3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/201020chgsafmn3.jpg
     caption: Changi, Oct 20 Photo shared by Marcus Ng on facebook .
   gallery10:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/210531chg6jt1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/210531chg6jt1.jpg
     caption: Changi Carpark 6, May 21 Photo shared byJonathan Tan on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/201020chgsafmn2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/201020chgsafmn2.jpg
     caption: Changi, Oct 20 Photo shared by Marcus Ng on facebook .
   gallery11:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/081019cjtch01m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/081019cjtch01m3.jpg
     caption: Chek Jawa, Oct 08 Photo shared by Toh Chay Hoon on flickr .
   gallery12:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/240724tmfttt3.jpg
-    caption: Tanah Merah Ferry Terminal, Jun 24 Photo shared by Tommy Tan on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/160605tmlks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/240724tmfttt3.jpg
+    caption: Tanah Merah Ferry Terminal, Jun 24 Photo shared by Tommy Tan on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/160605tmlks.JPG
     caption: East Coast (PCN), Jun 16 Photo shared by Loh Kok Sheng on flickr .
   gallery13:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/160705ecplks5.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/160705ecplks5.jpg
     caption: East Coast Park, Jul 16 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/160210ecplks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/160210ecplks.JPG
     caption: East Coast Park, Feb 16 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/160210ecplks2.JPG
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/160210ecplks2.JPG
     caption: East Coast Park, Feb 16 Photo shared by Loh Kok Sheng on flickr .
   gallery14:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/210530ecpglks4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/210530ecpglks4.jpg
     caption: East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/210530epcnvc1.jpg
-    caption: East Coast Park (PCN), May 21 Photo shared by Vincent Choo on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/210628ecpBlks5.jpg
-    caption: East Coast Park (B), Jun 21 Photo shared by Loh Kok Sheng on 
-      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/210530epcnvc1.jpg
+    caption: East Coast Park (PCN), May 21 Photo shared by Vincent Choo on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/210628ecpBlks5.jpg
+    caption: East Coast Park (B), Jun 21 Photo shared by Loh Kok Sheng on facebook
+      .
   gallery15:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/151001blyjt6m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/151001blyjt6m3.jpg
     caption: Berlayar Creek, Oct 15 Photo shared by Jonathan Tan on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/151001blyjt17m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/151001blyjt17m3.jpg
     caption: Berlayar Creek, Oct 15 Photo shared by Jonathan Tan on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/200210blylks4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/200210blylks4.jpg
     caption: Berlayar Creek, Feb 20 Photo shared by Loh Kok Sheng on facebook .
   gallery16:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/200112sjijll4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/200112sjijll4.jpg
     caption: St John's Island, Jan 20 Photo shared by Jianlin Liu on facebook ..
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/150829lazlks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/150829lazlks.JPG
     caption: Seringat-Kias, Aug 15 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/150829lazlks1.JPG
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/150829lazlks1.JPG
     caption: Seringat-Kias, Aug 15 Photo shared by Loh Kok Sheng on flickr .
   gallery17:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/160208smkslks5.JPG
-    caption: Pulau Semakau South, Feb 16 Photo shared by Loh Kok Sheng on his 
-      blog .
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/160208smkslks5.JPG
+    caption: Pulau Semakau South, Feb 16 Photo shared by Loh Kok Sheng on his blog
+      .
   gallery18:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: "Acknowledgements With grateful thanks to Chim Chee Kong of the Star
+    caption: 'Acknowledgements With grateful thanks to Chim Chee Kong of the Star
       Trackers for identifying the sea stars. Links The Star Trackers blog all about
       the Knobbly sea stars of Singapore! Protoreaster nodosus (Valvatida: Oreasteridae)
       Knobbly Sea Star by Chiu Po Wei Diana, 2011 on taxo4254. Starfish conservation:
@@ -208,9 +162,9 @@ galleries:
       sea stars, brittle stars, sea urchins, sea cucumbers and feather stars . Times
       Edition, Singapore. 144 pp. Gosliner, Terrence M., David W. Behrens and Gary
       C. Williams. 1996. Coral Reef Animals of the Indo-Pacific: Animal life from
-      Africa to Hawai'i exclusive of the vertebrates Sea Challengers. 314pp. Chou,
+      Africa to Hawai''i exclusive of the vertebrates Sea Challengers. 314pp. Chou,
       L. M., 1998. A Guide to the Coral Reef Life of Singapore . Singapore Science
-      Centre. 128 pages."
+      Centre. 128 pages.'
 location:
 - chg
 - cj
@@ -225,6 +179,10 @@ location:
 - cyr
 - smk
 - tsm
+size:
+- 30.0
+- 8.0
+- 15.0
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

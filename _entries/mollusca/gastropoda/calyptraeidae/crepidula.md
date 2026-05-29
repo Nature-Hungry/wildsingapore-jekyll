@@ -1,11 +1,9 @@
 ---
 title: Flat slipper snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: flat, slipper, siphopatella, crepidula, walshi, clyptraea, 
-  crepidulidae, calyptraeidae, gastropod, mollusc, snail, shell, field, guide, 
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: flat, slipper, siphopatella, crepidula, walshi, clyptraea, crepidulidae,
+  calyptraeidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Calyptraeidae
 genus: Siphopatella
@@ -20,32 +18,24 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Calyptraeoidea
 updated: Jul 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/crepidula/050315cjd1823m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/crepidula/050315cjd1823m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/crepidula/050315cjd1823m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/crepidula/050315cjd1823m3.jpg
     caption: Chek Jawa, Mar 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/crepidula/050315cjd1823m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/crepidula/050315cjd1823m3a.jpg
     caption: The smaller shell is usually the male.
-  - url: 
-      http://www.wildsingapore.com/crustacea/othercrust/anomura/hermit/stripeorange/050428cftg5276m3.jpg
+  - url: http://www.wildsingapore.com/crustacea/othercrust/anomura/hermit/stripeorange/050428cftg5276m3.jpg
     caption: Changi, Apr 05
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/crustacea/othercrust/anomura/hermit/veryhairy/101224sisd4096m3.jpg
+  - url: http://www.wildsingapore.com/crustacea/othercrust/anomura/hermit/veryhairy/101224sisd4096m3.jpg
     caption: Sisters Island, Jan 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/crepidula/130923tmftd3409.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/crepidula/130923tmftd3409.jpg
     caption: Tanah Merah, Sep 13
-  - url: 
-      http://www.wildsingapore.com/arthropoda/limulidae/tachypleus/090428chgd0767m3e.jpg
+  - url: http://www.wildsingapore.com/arthropoda/limulidae/tachypleus/090428chgd0767m3e.jpg
     caption: Changi, Jul 04
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/crepidula/210402tmskvc3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/crepidula/210402tmskvc3.jpg
     caption: Terumbu Semakau, Apr 21 Photo shared by Vincent Choo on facebook .
 location:
 - prp
@@ -58,13 +48,16 @@ location:
 - ecp
 - sis
 - tsm
+size:
+- 1.0
+- 3.5
 ---
 
 ## Where seen?
 This snail is commonly encountered inside a shell occupied by a
-[hermit crab](../../../crustacea/othercrust/anomura/hermit/hermit.md)
+[hermit crab](../../../crustacea/othercrust/anomura/hermit/hermit)
 . It is also sometimes found on the underside of
-[horseshoe crabs](../../../arthropoda/limulidae/limulidae.md)
+[horseshoe crabs](../../../arthropoda/limulidae/limulidae)
 . It was previously known as
 *Crepidula walshi*
 .
@@ -78,7 +71,7 @@ It is usually found in pairs. The larger one is usually the female and the small
 
 **Sometimes confused with limpets**
 which are also gastropods but which can move about. Here's more on
-[how to tell apart limpets, slipper snails and similar animals](../../../glossary/limpetbarnacle.md)
+[how to tell apart limpets, slipper snails and similar animals](../../../glossary/limpetbarnacle)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

@@ -1,10 +1,9 @@
 ---
 title: 'Singapore   tuskfish '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: anchor, tuskfish, tusk, fish, choerodon,  oligacanthus, labridae, 
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: anchor, tuskfish, tusk, fish, choerodon,  oligacanthus, labridae, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 attributes:
 - 25
@@ -25,36 +24,47 @@ order: Labriformes
 suborder: Labroidei
 subfamily: Hypsigenyinae
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/oligacanthus/170812cyrmn.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/oligacanthus/170812cyrmn.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/oligacanthus/170812cyrmn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/oligacanthus/170812cyrmn.jpg
     caption: Cyrene Reef, Oct 17 Photo shared by Marcus Ng on facebook .
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/oligacanthus/210528chg7tch2.jpg
-    caption: Changi Carpark 7, May 21 Photo shared by Toh Chay Hoon on facebook 
-      .
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/oligacanthus/210528chg7tch2.jpg
+    caption: Changi Carpark 7, May 21 Photo shared by Toh Chay Hoon on facebook .
+links_references: '**Links**
+
   - [White-patch tuskfish (
+
   *Choerodon oligacanthus*
+
   )](http://www.fishbase.org/summary/8406)
+
   on SeaLife Base: technical fact sheet.
+
   - [White-patch tuskfish (
+
   *Choerodon oligacanthus*
+
   )](http://www.iucnredlist.org/details/187568/0)
+
   on the IUCN Red List.
 
+
   **References**
+
   - Marcus F. C. Ng. 31 Oct 2017.
+
   *Singapore tuskfish at Cyrene Reef*
+
   Singapore Biodiversity Records 2017: 147
+
+  '
 location:
 - chg
 - cyr
+size:
+- 28.0
 ---
 
 ## Where seen?

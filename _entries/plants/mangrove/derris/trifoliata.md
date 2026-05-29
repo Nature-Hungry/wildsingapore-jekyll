@@ -26,46 +26,75 @@ updated: Jan 2013
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/derris/trifoliata/090612pndd4084m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/derris/trifoliata/090328sbwrd8514m3.jpg"
-      caption: "Sungei Buloh Wetland Reserve, Mar 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/derris/trifoliata/081206smkd2450m3b.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/derris/trifoliata/081206smkd2450m3.jpg"
-      caption: "Pulau Semakau, Jan 09"
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/derris/trifoliata/090328sbwrd8514m3.jpg
+    caption: Sungei Buloh Wetland Reserve, Mar 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/derris/trifoliata/081206smkd2450m3b.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/derris/trifoliata/081206smkd2450m3.jpg
+    caption: Pulau Semakau, Jan 09
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/derris/trifoliata/090816ubind9107m3a.jpg"
-      caption: "Pulau Ubin, Aug 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/derris/trifoliata/090425prpd0385m3.jpg"
-      caption: "Pasir Ris, Apr 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/derris/trifoliata/090612pndd4035m3.jpg"
-      caption: "Sungei Pandan, Jun 09"
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/derris/trifoliata/090816ubind9107m3a.jpg
+    caption: Pulau Ubin, Aug 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/derris/trifoliata/090425prpd0385m3.jpg
+    caption: Pasir Ris, Apr 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/derris/trifoliata/090612pndd4035m3.jpg
+    caption: Sungei Pandan, Jun 09
+links_references: '**Links**
+
   - [*Derris trifoliata*](http://floraofsingapore.wordpress.com/2010/06/20/derris-trifoliata/)
+
   on Total Vascular Flora of Singapore Online: photos and fact sheet.
+
   - [*Derris trifoliata*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=5882)
+
   on the NParks Flora and Fauna website: photos and fact sheet.
+
   - [Common derris (
+
   *Derris trifoliata*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/1057.md)
+
+  )](http://mangrove.nus.edu.sg/guidebooks/text/1057)
+
   Ng, Peter K. L. & N. Sivasothi, 1999.
+
   *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)
+
   I (Plant Diversity)*
+
   . Singapore Science Centre. 168 pp.
+
   - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.md)
-  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
-  
+
+  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
+
+  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization
+  of the United Nations Regional Office for Asia and the Pacific Bangkok.
+
+
   **References**
+
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
+
   *The Concise Flora of Singapore: Gymnosperms and Dicotyledons*
+
   . Singapore University Press. 222 pp.
+
   - Tomlinson, P. B., 1986.
+
   *The Botany of Mangroves*
+
   Cambridge University Press. USA. 419 pp.
+
   - Burkill, I. H., 1993.
+
   *A Dictionary of the Economic Products of the Malay Peninsula*
-  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
+
+  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
+  Volume 1: 1-1240; volume 2: 1241-2444.
+
+  '
+size:
+- 1500.0
 ---
 
 ## Where seen?

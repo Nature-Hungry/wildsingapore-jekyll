@@ -25,15 +25,23 @@ updated: Mar 10
 coverimg: http://www.wildsingapore.com/wildfacts/plants/others/ficus/elastica/091203ubnd5067m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/elastica/091203ubnd5014m3.jpg"
-      caption: "Pulau Ubin, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/elastica/091203ubnd5012m3a.jpg"
-      caption: "Pulau Ubin, Dec 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/elastica/091203ubnd5012m3.jpg"
-      caption: "Pulau Ubin, Dec 09"
+  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/elastica/091203ubnd5014m3.jpg
+    caption: Pulau Ubin, Dec 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/elastica/091203ubnd5012m3a.jpg
+    caption: Pulau Ubin, Dec 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/elastica/091203ubnd5012m3.jpg
+    caption: Pulau Ubin, Dec 09
   gallery2:
-    - url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
-      caption: "References Ng, Angie et. al. 2005. A guide to the fabulous figs of Singapore . Singapore Science Centre.152 pp. Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University Press. 222 pp. Corners, E. J. H., 1997. Wayside Trees of Malaya: in two volumes . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444."
+  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
+    caption: 'References Ng, Angie et. al. 2005. A guide to the fabulous figs of Singapore
+      . Singapore Science Centre.152 pp. Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
+      The Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University
+      Press. 222 pp. Corners, E. J. H., 1997. Wayside Trees of Malaya: in two volumes
+      . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp,
+      plates 1-38; volume 2: 477-861 pp., plates 139-236. Burkill, I. H., 1993. A
+      Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication
+      Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume
+      2: 1241-2444.'
 ---
 
 ## Where seen?
@@ -45,7 +53,7 @@ A large strangling fig with many aerial roots. Leaves glossy dark green, leather
 
 **Human uses:**
 According to Corners, before the introduction of
-[*Hevea brasiliensis*](../../others/hevea/brasiliensis.md)
+[*Hevea brasiliensis*](../../others/hevea/brasiliensis)
 , the India-rubber tree was a major source of rubber in our part of the world. According to Burkill, it lost out because the India-rubber tree latex contains a resin that hardens with time thus making the latex less elastic. It also does not produce as much latex as
 *H. brasiliensis*
 . The Indians apparently had been using latex from the tree to line their containers, e.g., to contain honey or to bail out water. When the Europeans discovered

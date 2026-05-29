@@ -26,44 +26,73 @@ updated: Oct 2016
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/grande/091005cjd2200m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/grande/091005cjd2194m3.jpg"
-      caption: "Chek Jawa, Oct 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/grande/100314cjd9990m3.jpg"
-      caption: "Chek Jawa, Mar 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/grande/100314cjd9992m3.jpg"
-      caption: "Chek Jawa, Mar 10"
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/grande/091005cjd2194m3.jpg
+    caption: Chek Jawa, Oct 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/grande/100314cjd9990m3.jpg
+    caption: Chek Jawa, Mar 10
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/grande/100314cjd9992m3.jpg
+    caption: Chek Jawa, Mar 10
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/grande/110421jngd9564m6l.jpg"
-      caption: "Pulau Jong, Apr 11"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/grande/110421jngd9568m6l.jpg"
-      caption: "Pulau Jong, Apr 11"
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/grande/110421jngd9564m6l.jpg
+    caption: Pulau Jong, Apr 11
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/grande/110421jngd9568m6l.jpg
+    caption: Pulau Jong, Apr 11
+links_references: '**Links**
+
   - *[Syzygium grande](http://floraofsingapore.wordpress.com/2010/04/10/syzygium-grande/)*
+
   on Total Vascular Flora of Singapore Online: photos and fact sheet.
+
   - *[Syzygium grande](https://singapore.biodiversity.online/taxo4254/mainSpace/Syzygium%20grande.html)*
+
   (Myrtales: Myrtaceae) Sea Apple by Tan Wen Ai Lorraine, 2016, on taxo4254.
+
   - [Know 10 trees in Singapore](http://www.nparks.gov.sg/cms/index.php?option=com_content&view=article&id=180&Itemid=161)
+
   on the NParks website: fact sheet with lots of photos of various parts of the tree.
+
   - [Flowering Sea Apple trees in October](http://habitatnews.nus.edu.sg/index.php?entry=/nature/20091012-syzygium_grande-flowering.txt)
+
   from Habitatnews: mapping the mass flowering of sea apples in Singapore.
-  
+
+
   **References**
+
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
+
   *The Concise Flora of Singapore: Gymnosperms and Dicotyledons*
+
   . Singapore University Press. 222 pp.
+
   - Corners, E. J. H., 1997.
+
   *Wayside Trees of Malaya: in two volumes*
-  . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
+
+  . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates
+  1-38; volume 2: 477-861 pp., plates 139-236.
+
   - Burkill, I. H., 1993.
+
   *A Dictionary of the Economic Products of the Malay Peninsula*
-  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
+
+  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
+  Volume 1: 1-1240; volume 2: 1241-2444.
+
   - Tee Swee Ping and Wee Mei Lynn (eds). 2001.
+
   *Trees of our Garden City*
+
   . National Parks Board. 202 pp.
+
   - Wee Yeow Chin. 2003.
+
   *Tropical Trees and Shrubs: A Selection for Urban Plantings*
+
   . Sun Tree Publishing. 392pp.
+
+  '
+size:
+- 3000.0
 ---
 
 ## Where seen?

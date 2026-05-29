@@ -1,10 +1,9 @@
 ---
 title: Corny red seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: feathery, seaweed, weed, spyridia, filamentosa, spyridiaceae, 
-  rhodophyta, algae, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: feathery, seaweed, weed, spyridia, filamentosa, spyridiaceae, rhodophyta,
+  algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 division: Rhodophyta
 family: Rhodomeiaceae
@@ -24,29 +23,39 @@ subclass: Rhodymeniophycidae
 order: Ceramiales
 tribe: Laurencieae
 updated: Oct 15
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/corny/110422tbd9744m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/corny/110422tbd9744m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/corny/110422tbd9744m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/corny/110422tbd9744m3b.jpg
     caption: Sunken pit at the tip of the bumps.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/corny/110422tbd9744m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/corny/110422tbd9744m3a.jpg
     caption: ''
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Palisada perforata*](http://www.algaebase.org/search/species/detail/?species_id=133994)
+
   on
+
   [AlgaeBase](http://www.algaebase.org/)
+
   : Technical fact sheet.
 
+
   **References**
-  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
+
+  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
+  Tsai Min and Wang Luan Keng,
+
   *A photographic guide to the marine algae of Singapore*
+
   , 2015. Tropical Marine Science Institute, 201 pp.
+
+  '
 location:
 - tsm
+size:
+- 4.0
+- 7.0
 ---
 
 ## Where seen?

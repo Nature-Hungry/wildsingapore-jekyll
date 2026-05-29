@@ -1,10 +1,8 @@
 ---
 title: Straw tubeworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: straw, tube, worm, chaetopteridae, tubeworm, polychaete, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: straw, tube, worm, chaetopteridae, tubeworm, polychaete, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Chaetopteridae
 genus: ''
@@ -17,42 +15,45 @@ phylum: Annelida
 class: Polychaeta
 subclass: Sedentaria
 updated: Oct 2016
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/worm/polychaeta/strawtube/080122cjd9082m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/strawtube/080122cjd9082m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polychaeta/strawtube/080122cjd9082m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/strawtube/080122cjd9082m3.jpg
     caption: Regularly separated, not tightly clustered. Chek Jawa, Jan 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polychaeta/strawtube/080801chglks.JPG
-    caption: Peeking out of its tube. Changi, Aug 08 Photo shared by Loh Kok 
-      Sheng on flickr .
+  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/strawtube/080801chglks.JPG
+    caption: Peeking out of its tube. Changi, Aug 08 Photo shared by Loh Kok Sheng
+      on flickr .
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polychaeta/strawtube/120410chgd9214m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/strawtube/120410chgd9214m3.jpg
     caption: Changi, Apr 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polychaeta/strawtube/120410chgd9214m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/strawtube/120410chgd9214m3a.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polychaeta/strawtube/120410chgd9214m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/strawtube/120410chgd9214m3b.jpg
     caption: ''
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polychaeta/strawtube/171206ubnlks4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/strawtube/171206ubnlks4.jpg
     caption: Pulau Ubin, Dec 17 Photo shared by Loh Kok Sheng on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Family Chaetopteridae](http://rmbr.nus.edu.sg/polychaete/Chaetopteridae.html)
+
   by Lim Yun Ping 1997-2000
+
   [A Guide to Singapore Polychaetes](http://rmbr.nus.edu.sg/polychaete/)
-  on the Raffles Museum of Biodiversity Research website: fact sheet and photos of sabellids found in Singapore.
+
+  on the Raffles Museum of Biodiversity Research website: fact sheet and photos of
+  sabellids found in Singapore.
+
 
   **References**
+
   - Wee Y.C. and Peter K. L. Ng. 1994.
+
   *A First Look at Biodiversity in Singapore*
+
   . National Council on the Environment. 163pp.
+
+  '
 location:
 - pgl
 - prp
@@ -60,6 +61,8 @@ location:
 - ubn
 - cj
 - ecp
+size:
+- 0.5
 ---
 
 ## Where seen?

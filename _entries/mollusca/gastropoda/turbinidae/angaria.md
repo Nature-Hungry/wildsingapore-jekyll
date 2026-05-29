@@ -1,10 +1,9 @@
 ---
 title: 'Dolphin snail '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: dolphin, angaria, delphinus, trochidae, angariinae, angariidae, 
-  gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, 
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: dolphin, angaria, delphinus, trochidae, angariinae, angariidae, gastropod,
+  mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Angariidae
 genus: Angaria
@@ -19,54 +18,37 @@ subclass: Vetigastropoda
 order: Trochida
 superfamily: Trochoidea
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/091008tmd2545m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/091008tmd2545m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/091008tmd2545m3.jpg
-    caption: Upper side usuallyunder a thick layer of encrusting organisms. 
-      Tanah Merah, Oct 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/100602tmd5119m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/091008tmd2545m3.jpg
+    caption: Upper side usuallyunder a thick layer of encrusting organisms. Tanah
+      Merah, Oct 09
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/100602tmd5119m3.jpg
     caption: Tanah Merah, Jun 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/091008tmd2543m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/091008tmd2543m3.jpg
     caption: Tanah Merah, Oct 09
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/110504srplks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/110504srplks.JPG
     caption: Sentosa Serapong, May 11 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/110220lazmn.jpg
-    caption: Shell of a dead snail. Lazarus Island, Feb 11 Photo shared by 
-      Marcus Ng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/240608kustl3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/110220lazmn.jpg
+    caption: Shell of a dead snail. Lazarus Island, Feb 11 Photo shared by Marcus
+      Ng on flickr .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/240608kustl3.jpg
     caption: Kusu Island, Jun 24 Photo shared by Tammy Lim on facebook .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/220521bbbccn3.jpg
-    caption: Beting Bemban Besar, May 22 Photo shared by Che Cheng Neo on 
-      facebook .
-links_references: |
-  **Links**
-  - *[Angaria delphinus](http://www.sealifebase.org/Summary/speciesSummary.php?ID=90083)*
-  on SeaLife Base: Technical fact sheet.
-
-  **References**
-  - Tan SK & Low MEY (2013)
-  *Singapore Mollusca: 1. The Family Angariidae (Gastropoda: Vetigastropoda: Angarioidea)*
-  . Nature in Singapore, 6: 239–246.
-  - Tan Siong Kiat and Henrietta P. M. Woo, 2010
-  *Preliminary Checklist of The Molluscs of Singapore*
-  (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
-  - Tan, K. S. & L. M. Chou, 2000.
-  *A Guide to the Common Seashells of Singapore*
-  . Singapore Science Centre. 160 pp.
-  - Abbott, R. Tucker, 1991.
-  *Seashells of South East Asia*
-  . Graham Brash, Singapore. 145 pp.
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/220521bbbccn3.jpg
+    caption: Beting Bemban Besar, May 22 Photo shared by Che Cheng Neo on facebook
+      .
+links_references: "**Links**\n- *[Angaria delphinus](http://www.sealifebase.org/Summary/speciesSummary.php?ID=90083)*\n\
+  on SeaLife Base: Technical fact sheet.\n\n**References**\n- Tan SK & Low MEY (2013)\n\
+  *Singapore Mollusca: 1. The Family Angariidae (Gastropoda: Vetigastropoda: Angarioidea)*\n\
+  . Nature in Singapore, 6: 239\u2013246.\n- Tan Siong Kiat and Henrietta P. M. Woo,\
+  \ 2010\n*Preliminary Checklist of The Molluscs of Singapore*\n(pdf), Raffles Museum\
+  \ of Biodiversity Research, National University of Singapore.\n- Tan, K. S. & L.\
+  \ M. Chou, 2000.\n*A Guide to the Common Seashells of Singapore*\n. Singapore Science\
+  \ Centre. 160 pp.\n- Abbott, R. Tucker, 1991.\n*Seashells of South East Asia*\n\
+  . Graham Brash, Singapore. 145 pp.\n"
 location:
 - tm
 - snt
@@ -79,6 +61,9 @@ location:
 - sis
 - tsm
 - rfl
+size:
+- 4.0
+- 6.0
 ---
 
 ## Where seen?

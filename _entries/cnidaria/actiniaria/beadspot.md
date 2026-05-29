@@ -1,10 +1,9 @@
 ---
 title: Spotted mangrove anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: burgundy, anemone, bunodosoma, goanense, actiniidae, anthozoa, 
-  cnidarian, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: burgundy, anemone, bunodosoma, goanense, actiniidae, anthozoa, cnidarian,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 attributes:
 - 6
@@ -16,22 +15,17 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Nov 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadspot/110703cjd5400m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadspot/110703cjd5400m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadspot/110703cjd5400m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadspot/110703cjd5400m3.jpg
     caption: Chek Jawa, Jul 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadspot/110621nemsd4642m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadspot/110621nemsd4642m3.jpg
     caption: Kranji, Jun 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadspot/110621nemsd4648m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadspot/110621nemsd4648m3a.jpg
     caption: Kranji, Jun 11
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadspot/160125obsll1a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadspot/160125obsll1a.jpg
     caption: Pulau Ubin OBS, Jan 16 Photo shared by Lisa Lim on facebook .
 location:
 - sbw
@@ -40,6 +34,8 @@ location:
 - ubn
 - cj
 - ecp
+size:
+- 0.5
 ---
 
 ## Where seen?

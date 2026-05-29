@@ -1,10 +1,9 @@
 ---
 title: Purple sea cucumber
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: cucumber, seacucumber,  cucumarid, holothuroidea, echinoderm, field, 
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: cucumber, seacucumber,  cucumarid, holothuroidea, echinoderm, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 attributes:
 - 0
@@ -26,67 +25,49 @@ class: Holothuroidea
 subclass: Actinopoda
 order: Dendrochirotida
 updated: Apr 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/031226chgd0061m6l.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/031226chgd0061m6l.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/031226chgd0061m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/031226chgd0061m6l.jpg
     caption: Changi, Dec 03
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/031226chgd0061m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/031226chgd0061m3.jpg
     caption: Tube feet long, thin.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/050820bbg1695m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/050820bbg1695m3a.jpg
     caption: Beting Bronok, Aug 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/030105cjd7001m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/030105cjd7001m3.jpg
     caption: Chek Jawa, Jan 03
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/050624tusd4210m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/050624tusd4210m3.jpg
     caption: Tuas, Jun 05
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/091203ubnjk5m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/091203ubnjk5m3.jpg
     caption: Pulau Ubin, Dec 09 Photo shared by James Koh on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/200723bblks2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/200723bblks2.jpg
     caption: Beting Bronok, Jul 20 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/251208melks4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/251208melks4.jpg
     caption: Marina East, Dec 2025 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/080507ecplks05m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/080507ecplks05m3.jpg
     caption: East Coast, May 08 Photo shared by Loh Kok Sheng on his blog .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/200210blylks3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/200210blylks3.jpg
     caption: Berlayar Creek, Feb 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/110704srplks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/110704srplks.JPG
     caption: Sentosa Serapong, Jul 11 Photo shared by Loh Kok Sheng on flickr .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/090510sntik10m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/090510sntik10m3.jpg
     caption: Siloso, May 09 Photo shared by Ivan Kwan on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/130531tkkmn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/130531tkkmn.jpg
     caption: Pulau Tekukor, May 10 Photo shared by Marcus Ng on flickr .
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/100626cyrlks3m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/100626cyrlks3m6l.jpg
     caption: Cyrene Reef, Jun 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/110508cyrlks12m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/110508cyrlks12m3.jpg
     caption: Cyrene Reef, May 11 Photo shared by Loh Kok Sheng on his blog .
   gallery8:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/131006smklks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/131006smklks.JPG
     caption: Pulau Semakau, Oct 13 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/100502trylks11m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/100502trylks11m3.jpg
     caption: Terumbu Raya, May 10 Photo shared by Loh Kok Sheng on his flickr .
 location:
 - pgl
@@ -104,6 +85,9 @@ location:
 - cyr
 - smk
 - tsm
+size:
+- 8.0
+- 12.0
 ---
 
 ## Where seen?

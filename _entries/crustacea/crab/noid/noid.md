@@ -30,36 +30,56 @@ updated: Oct 2016
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/noid/annulata/080719sntd7851m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/noid/annulata/090820ecplkh1m3.jpg"
-      caption: "East Coast, Aug 09 Photo shared by Loh Kok Sheng on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/noid/annulata/110504nsrccd0574m3.jpg"
-      caption: "East Coast, May 11"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/noid/annulata/080719sntd7851m3c.jpg"
-      caption: ""
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/noid/annulata/090820ecplkh1m3.jpg
+    caption: East Coast, Aug 09 Photo shared by Loh Kok Sheng on his blog .
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/noid/annulata/110504nsrccd0574m3.jpg
+    caption: East Coast, May 11
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/noid/annulata/080719sntd7851m3c.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/noid/160606chglks1.JPG"
-      caption: "Changi, Jun 16"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/noid/160606chglks2.JPG"
-      caption: Photo shared by Loh Kok Sheng on flickr .
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/noid/160606chglks3.JPG"
-      caption: ""
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/noid/160606chglks1.JPG
+    caption: Changi, Jun 16
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/noid/160606chglks2.JPG
+    caption: Photo shared by Loh Kok Sheng on flickr .
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/noid/160606chglks3.JPG
+    caption: ''
+links_references: '**Links**
+
   - [*Charybdis annulata*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=83583)
+
   on
+
   [SeaLifeBase](http://www.sealifebase.org/search.php)
+
   : Technical fact sheet.
+
   - [*Charybdis annulata*](Charybdis%20annulata)
+
   on Crabs of Japan in Marine Species Identification Portal: Technical fact sheet.
-  
+
+
   **References**
+
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
-  [Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs of the world](http://lkcnhm.nus.edu.sg/rbz/biblio/s17/s17rbz.pdfhttp://lkcnhm.nus.edu.sg/nus/index.php/crabs-of-the-world/crabs-of-the-world-4)
+
+  [Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs
+  of the world](http://lkcnhm.nus.edu.sg/rbz/biblio/s17/s17rbz.pdfhttp://lkcnhm.nus.edu.sg/nus/index.php/crabs-of-the-world/crabs-of-the-world-4)
+
   [.](http://lkcnhm.nus.edu.sg/rbz/biblio/s17/s17rbz.pdf)
+
   The Raffles Bulletin of Zoology. Supplement No. 17, 31 Jan 2008. 286 pp.
+
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
+
   *Rhythm of the Sea: The Life and Times of Labrador Beach.*
-  Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+
+  Division of Biology, School of Science, Nanyang Technological University & Department
+  of Zoology, the National University of Singapore. 160 pp.
+
+  '
+size:
+- 5.0
+- 7.0
 ---
 
 ## Where seen?

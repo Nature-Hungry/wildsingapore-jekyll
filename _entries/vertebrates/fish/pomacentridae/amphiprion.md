@@ -1,10 +1,9 @@
 ---
 title: Anemonefishes
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: anemonefish, anemone, fish, pomacentridae, amphiprion, amphiprioninae,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: anemonefish, anemone, fish, pomacentridae, amphiprion, amphiprioninae, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 family: Pomacentridae
 genus: Amphiprion
@@ -20,101 +19,78 @@ superorder: Acanthomorpha
 order: Blenniiformes
 subfamily: Pomacentrinae
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/140713tsmkd7177m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/140713tsmkd7177m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Anemonefish need their 
-      anemones. Do not disturb them or their anemones. One anemone may be home 
-      to many anemonefishes. These fishes are threatened by over-collection for 
-      the aquarium trade. Don't keep Nemo in your home, he belongs in the ocean.
+    caption: if you learn only 3 things about them ... Anemonefish need their anemones.
+      Do not disturb them or their anemones. One anemone may be home to many anemonefishes.
+      These fishes are threatened by over-collection for the aquarium trade. Don't
+      keep Nemo in your home, he belongs in the ocean.
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Anemonefish need their anemones. Do not disturb them or their 
-      anemones. One anemone may be home to many anemonefishes. These fishes are 
-      threatened by over-collection for the aquarium trade. Don't keep Nemo in 
-      your home, he belongs in the ocean.
+    caption: Anemonefish need their anemones. Do not disturb them or their anemones.
+      One anemone may be home to many anemonefishes. These fishes are threatened by
+      over-collection for the aquarium trade. Don't keep Nemo in your home, he belongs
+      in the ocean.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/140713tsmkd7177m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/140713tsmkd7177m3.jpg
     caption: In a Magnificent anemone . Terumbu Semakau, Jul 14
-  - url: 
-      http://www.wildsingapore.com/cnidaria/actiniaria/mertensii/120411thntd9391m3.jpg
+  - url: http://www.wildsingapore.com/cnidaria/actiniaria/mertensii/120411thntd9391m3.jpg
     caption: In a Merten's carpet anemone . Terumbu Hantu, Apr 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/190831kus.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/190831kus.jpg
     caption: 'Stranded at low tide: best to leave it alone. Kusu Island, Aug 19'
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/091205pawlks14m3.jpg
-    caption: Fishes of several different sizes in one anemone. Pulau Pawai, Dec 
-      09 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/frenatus/150606trytch2m3.jpg
-    caption: Eggs laid near the host sea anemone. Terumbu Raya, Jun 15 Photo 
-      shared by Toh Chay Hoon on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/091205pawlks14m3.jpg
+    caption: Fishes of several different sizes in one anemone. Pulau Pawai, Dec 09
+      Photo shared by Loh Kok Sheng on flickr .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/frenatus/150606trytch2m3.jpg
+    caption: Eggs laid near the host sea anemone. Terumbu Raya, Jun 15 Photo shared
+      by Toh Chay Hoon on facebook .
   gallery4:
   - url: https://live.staticflickr.com/3684/32960802914_ca75da216a_z.jpg
     caption: Pulau Semakau, Apr 17
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/040605kusbd0077m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/040605kusbd0077m3.jpg
     caption: Clown anemonefish
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/frenatus/040829kusg1741m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/frenatus/040829kusg1741m3.jpg
     caption: Tomato anemonefish
-links_references: |
-  **Links**
-  - [Field Guide to Anemone Fishes and their host Sea Anemones](http://www.nhm.ku.edu/inverts/ebooks/intro.html)
-  by Dr Daphne G. Fautin and Dr Gerald R. Allen: tons of information and photos of anemonefishes and their sea anemone hosts. Lots of details about how anemonefish develop immunity to sea anemone hosts, their life history and how fish and anemone affect each other.
-  - Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
-  *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
-  . Singapore Science Centre. 163 pp
-  - [Anemonefish](https://ikanfish.wordpress.com/damselfishes/damselfishes-anemonefish/)
-  on Reef fishes of Singapore by Jeffrey Low.
-  - [Clownfish don't need 'Nemo,' they are stars](http://www.susanscott.net/OceanWatch2004/jan30-04.html)
-  on SusanScott.net: an easy-to-read and amusing article about gender switching among anemonefishes.
-  - [Family Pomacentridae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=350)
-  from
-  [FishBase](http://www.fishbase.org/)
-  : Technical fact sheet on the family including fact sheets on the various species.
-  - From the wild shores of singapore blog.
-  - [Nemo leaves home: how far does he go?](http://wildshores.blogspot.com/2009/03/nemo-leaves-home-how-far-does-he-go.html)
-  - [Acid oceans confuse baby nemos](http://wildshores.blogspot.com/2009/02/acid-oceans-confuse-baby-nemos.html)
-  - [Clown anemonefishes need rainforests](http://wildshores.blogspot.com/2008/08/clown-anemonefishes-need-rainforests.html)
-  : about how these fishes find their way to a suitable sea anemone host
-
-  **References**
-  - Toh Chay Hoon. 11 April 2014.
-  *Spawn of the saddleback anemonefish*
-  . Singapore Biodiversity Records 2014: 96.
-  - Jeffrey K. Y. Low. 2013.
-  *More noteworthy fishes observed in the Singapore Straits*
-  . Nature in Singapore, 6: 31–37.
-  - Toh Chay Hoon. 20 December 2013.
-  *Shrimps and saddleback anemonefish on carpet anemone off Pulau Hantu: Holthuis’s anemone shrimp, Periclimenes holthuisi and Saddleback anemonefish, Amphiprion polymnus*
-  . Singapore Biodiversity Records 2013: 126-127.
-  - Chou, L. M., 1998.
-  *A Guide to the Coral Reef Life of Singapore*
-  . Singapore Science Centre. 128 pages.
-  - Wee Y.C. and Peter K. L. Ng. 1994.
-  *A First Look at Biodiversity in Singapore*
-  . National Council on the Environment. 163pp.
-  - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
-  *The Singapore Red Data Book: Threatened plants and animals of Singapore*
-  . Nature Society (Singapore). 285 pp.
-  - Allen, Gerry, 2000.
-  *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
-  . Periplus Editions. 292 pp.
-  - Kuiter, Rudie H. 2002.
-  *Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers & Fishermen*
-  New Holland Publishers. 434pp.
-  - Lieske, Ewald and Robert Myers. 2001.
-  *Coral Reef Fishes of the World*
-  Periplus Editions. 400pp.
-  - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
-  *Rhythm of the Sea: The Life and Times of Labrador Beach*
-  . Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+links_references: "**Links**\n- [Field Guide to Anemone Fishes and their host Sea\
+  \ Anemones](http://www.nhm.ku.edu/inverts/ebooks/intro.html)\nby Dr Daphne G. Fautin\
+  \ and Dr Gerald R. Allen: tons of information and photos of anemonefishes and their\
+  \ sea anemone hosts. Lots of details about how anemonefish develop immunity to sea\
+  \ anemone hosts, their life history and how fish and anemone affect each other.\n\
+  - Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.\n*[A Guide to the Common Marine Fishes\
+  \ of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*\n. Singapore\
+  \ Science Centre. 163 pp\n- [Anemonefish](https://ikanfish.wordpress.com/damselfishes/damselfishes-anemonefish/)\n\
+  on Reef fishes of Singapore by Jeffrey Low.\n- [Clownfish don't need 'Nemo,' they\
+  \ are stars](http://www.susanscott.net/OceanWatch2004/jan30-04.html)\non SusanScott.net:\
+  \ an easy-to-read and amusing article about gender switching among anemonefishes.\n\
+  - [Family Pomacentridae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=350)\n\
+  from\n[FishBase](http://www.fishbase.org/)\n: Technical fact sheet on the family\
+  \ including fact sheets on the various species.\n- From the wild shores of singapore\
+  \ blog.\n- [Nemo leaves home: how far does he go?](http://wildshores.blogspot.com/2009/03/nemo-leaves-home-how-far-does-he-go.html)\n\
+  - [Acid oceans confuse baby nemos](http://wildshores.blogspot.com/2009/02/acid-oceans-confuse-baby-nemos.html)\n\
+  - [Clown anemonefishes need rainforests](http://wildshores.blogspot.com/2008/08/clown-anemonefishes-need-rainforests.html)\n\
+  : about how these fishes find their way to a suitable sea anemone host\n\n**References**\n\
+  - Toh Chay Hoon. 11 April 2014.\n*Spawn of the saddleback anemonefish*\n. Singapore\
+  \ Biodiversity Records 2014: 96.\n- Jeffrey K. Y. Low. 2013.\n*More noteworthy fishes\
+  \ observed in the Singapore Straits*\n. Nature in Singapore, 6: 31\u201337.\n- Toh\
+  \ Chay Hoon. 20 December 2013.\n*Shrimps and saddleback anemonefish on carpet anemone\
+  \ off Pulau Hantu: Holthuis\u2019s anemone shrimp, Periclimenes holthuisi and Saddleback\
+  \ anemonefish, Amphiprion polymnus*\n. Singapore Biodiversity Records 2013: 126-127.\n\
+  - Chou, L. M., 1998.\n*A Guide to the Coral Reef Life of Singapore*\n. Singapore\
+  \ Science Centre. 128 pages.\n- Wee Y.C. and Peter K. L. Ng. 1994.\n*A First Look\
+  \ at Biodiversity in Singapore*\n. National Council on the Environment. 163pp.\n\
+  - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.\n*The Singapore Red Data\
+  \ Book: Threatened plants and animals of Singapore*\n. Nature Society (Singapore).\
+  \ 285 pp.\n- Allen, Gerry, 2000.\n*Marine Fishes of South-East Asia: A Field Guide\
+  \ for Anglers and Divers*\n. Periplus Editions. 292 pp.\n- Kuiter, Rudie H. 2002.\n\
+  *Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers & Fishermen*\n\
+  New Holland Publishers. 434pp.\n- Lieske, Ewald and Robert Myers. 2001.\n*Coral\
+  \ Reef Fishes of the World*\nPeriplus Editions. 400pp.\n- Lim, S., P. Ng, L. Tan,\
+  \ & W. Y. Chin, 1994.\n*Rhythm of the Sea: The Life and Times of Labrador Beach*\n\
+  . Division of Biology, School of Science, Nanyang Technological University & Department\
+  \ of Zoology, the National University of Singapore. 160 pp.\n"
 location:
 - tm
 - snt
@@ -125,6 +101,8 @@ location:
 - smk
 - tsm
 - lfa
+size:
+- 9.0
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?
@@ -132,7 +110,7 @@ Made famous by the cartoon "Finding Nemo", these fishes are a delight and the hi
 
 **What are anemonefishes?**
 Anemonefishes belong to the
-[Family Pomacentridae](pomacentridae.md)
+[Family Pomacentridae](pomacentridae)
 . Anemonefishes are in the subgroup Amphiprioninae in this family.
 ## Features
 
@@ -141,17 +119,17 @@ makes this fish quite unmistakable. Indeed, the most amazing feature of anemonef
 
 **Home Sweet Anemone Home:**
 On our intertidal, the
-[Clown anemonefish](ocellaris.md)
+[Clown anemonefish](ocellaris)
 is often seen in
-[Giant carpet anemones](../../../cnidaria/actiniaria/gigantea.md)
+[Giant carpet anemones](../../../cnidaria/actiniaria/gigantea)
 . It is also sometimes in
-[Magnificent anemones](../../../cnidaria/actiniaria/magnifica.md)
+[Magnificent anemones](../../../cnidaria/actiniaria/magnifica)
 and
-[Merten's carpet anemones](../../../cnidaria/actiniaria/mertensii.md)
+[Merten's carpet anemones](../../../cnidaria/actiniaria/mertensii)
 . While the
-[Tomato anemonefish](frenatus.md)
+[Tomato anemonefish](frenatus)
 is mainly found in
-[Bubble-tip anemones](../../../cnidaria/actiniaria/entacmaea.md)
+[Bubble-tip anemones](../../../cnidaria/actiniaria/entacmaea)
 .
 
 Experiments suggest anemonefishes may protect their host anemones from predatory fishes such as butterflyfish. They may also clean the anemone of parasites and remove dead tissues of the sea anemone. Their swimming action may also increase water circulation around the sea anemone and remove sediments that would foul the sea anemone. Some studies suggest anemonefishes attract other fishes that are captured and eaten by the sea anemone.
@@ -217,11 +195,11 @@ from
 *Amphiprion clarkii*
 (Clark's anemonefish) (VU: Vulnerable)
 **
-*[Amphiprion frenatus](frenatus.md)*
+*[Amphiprion frenatus](frenatus)*
 (Tomato anemonefish)
 **
 (VU: Vulnerable)
-*[Amphiprion ocellaris](ocellaris.md)*
+*[Amphiprion ocellaris](ocellaris)*
 (False clown anemonefish)
 **
 (VU: Vulnerable)

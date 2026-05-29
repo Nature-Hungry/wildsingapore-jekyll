@@ -1,10 +1,9 @@
 ---
 title: Round periwinkle snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: round, periwinkle, echinolittorina, nodilittorina, littorinidae, 
-  gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, 
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: round, periwinkle, echinolittorina, nodilittorina, littorinidae, gastropod,
+  mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 23
@@ -26,18 +25,14 @@ order: Littorinimorpha
 superfamily: Littorinoidea
 subfamily: Littorininae
 updated: Aug 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/round/031028sntad0048m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/round/031028sntad0048m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/round/031028sntad0048m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/round/031028sntad0048m3.jpg
     caption: Sentosa, Oct 03
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/round/060613ecpd3116m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/round/060613ecpd3116m3.jpg
     caption: East Coast Park, Jun 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/round/060613ecpd3115m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/round/060613ecpd3115m3.jpg
     caption: East Coast Park, Jun 06
 location:
 - chg
@@ -49,6 +44,9 @@ location:
 - sji
 - jng
 - smk
+size:
+- 8.0
+- 1.0
 ---
 
 ## Where seen?

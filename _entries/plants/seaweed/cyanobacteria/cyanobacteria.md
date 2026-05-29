@@ -17,55 +17,96 @@ updated: Aug 10
 coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/050529sjid3577m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "if you learn only 3 things about them ... They can undergo photosynthesis, but are more similar to bacteria than algae. They include some of the oldest living fossils: those producing stromatolites. They are the reason why wild flamingos are pink!"
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "They can undergo photosynthesis, but are more similar to bacteria than algae. They include some of the oldest living fossils: those producing stromatolites. They are the reason why wild flamingos are pink!"
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: 'if you learn only 3 things about them ... They can undergo photosynthesis,
+      but are more similar to bacteria than algae. They include some of the oldest
+      living fossils: those producing stromatolites. They are the reason why wild
+      flamingos are pink!'
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: 'They can undergo photosynthesis, but are more similar to bacteria than
+      algae. They include some of the oldest living fossils: those producing stromatolites.
+      They are the reason why wild flamingos are pink!'
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/080422smk3d1587m3.jpg"
-      caption: "Pulau Semakau, Apr 08"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/080719sntd7748m3.jpg"
-      caption: "Sentosa, Jul 08"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/080207sisd9339m3.jpg"
-      caption: "Sisters Island, Feb 08"
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/080422smk3d1587m3.jpg
+    caption: Pulau Semakau, Apr 08
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/080719sntd7748m3.jpg
+    caption: Sentosa, Jul 08
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/080207sisd9339m3.jpg
+    caption: Sisters Island, Feb 08
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/120818lazs02363m6l.jpg"
-      caption: "Lazarus Island, Aug 12"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/100612chgd5266m3.jpg"
-      caption: "Changi, Jun 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/100613sngd5640m3.jpg"
-      caption: "Pulau Senang, Jun 10"
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/120818lazs02363m6l.jpg
+    caption: Lazarus Island, Aug 12
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/100612chgd5266m3.jpg
+    caption: Changi, Jun 10
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/100613sngd5640m3.jpg
+    caption: Pulau Senang, Jun 10
+links_references: '**Links**
+
   - [Introduction to Cyanobacteria](http://www.ucmp.berkeley.edu/bacteria/cyanointro.html)
+
   on the
+
   [Museum of Paleontology, University of California Berkeley](http://www.ucmp.berkeley.edu/)
+
   website: fossil record, life history and ecology, systematics and more on morphology.
-  - [Cynaophyta](http://www.botany.hawaii.edu/faculty/webb/BOT311/Cyanobacteria/Cyanobacteria.md)
-  on the University of Hawai'i Manoa website: lots of photos and lots of brief details on major aspects of the group, quite scientific but the photos and diagrams make it easier to understand.
+
+  - [Cynaophyta](http://www.botany.hawaii.edu/faculty/webb/BOT311/Cyanobacteria/Cyanobacteria)
+
+  on the University of Hawai''i Manoa website: lots of photos and lots of brief details
+  on major aspects of the group, quite scientific but the photos and diagrams make
+  it easier to understand.
+
   - [Cyanosite](http://www-cyanosite.bio.purdue.edu/)
+
   a Webserver for Cyanobacterial Research: photos, taxonomy and links.
-  - [Microbial Mat Page](http://www.uta.edu/paleomap/homepage/Schieberweb/microbial_mat_page.md)
-  by Jurgen Schieber, University of Texas at Arlington Department of Geology website: all about mats produced by microbes with photos and links.
+
+  - [Microbial Mat Page](http://www.uta.edu/paleomap/homepage/Schieberweb/microbial_mat_page)
+
+  by Jurgen Schieber, University of Texas at Arlington Department of Geology website:
+  all about mats produced by microbes with photos and links.
+
   - [Hamelin Pool Marine Nature Reserve](http://www.naturebase.net/component/option,com_hotproperty/task,view/id,56/Itemid,755/)
+
   in Australia is one of the few places where you can see living stromatolites.
-  
+
+
   **References**
-  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
+
+  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
+  Tsai Min and Wang Luan Keng,
+
   *A photographic guide to the marine algae of Singapore*
+
   , 2015. Tropical Marine Science Institute, 201 pp.
+
   - Pham, M. N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011.
-  [*A Checklist of the Algae of Singapore*](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf)
-  , 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore, Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+
+  [*A Checklist of the Algae of Singapore*](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH
+  Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf)
+
+  , 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
+  Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
+
   *Rhythm of the Sea: The Life and Times of Labrador Beach*
-  . Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+
+  . Division of Biology, School of Science, Nanyang Technological University & Department
+  of Zoology, the National University of Singapore. 160 pp.
+
   - Sumich, James L. 1999.
+
   *An Introduction to the Biology of Marine Life*
+
   7th ed., WCB/McGraw-Hill. 484 pp.
+
   - Bell, Peter R. and Hemsley, Alan R. 2000.
+
   *Green Plants: Their Origin and Diversity*
+
   2nd edition. Cambridge University Press. 349 pp.
+
+  '
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
@@ -77,7 +118,7 @@ Cyanobacteria are more abundant in the intertidal zone than in the open ocean. T
 
 ## Where seen?
 On our shores, cyanobacteria can be seen growing on rocks as well as on sandy shores among seagrasses and seaweeds. 90 species of cyanobacteria are recorded for Singapore by Pham (link below). Some live inside other animals such as sponges like
-[*Lamellodysidea herbacea*](../../../porifera/spatula.md)
+[*Lamellodysidea herbacea*](../../../porifera/spatula)
 .
 
 ## Features
@@ -97,11 +138,11 @@ that produce dense blooms in that body of water. African flamingos are pink from
 
 **Role in the habitat:**
 Cyanobacteria are eaten by a wide range of animals. Among the common animals believed to eat cyanobacteria are sea slugs like the
-[Hairy sea hare](../../../mollusca/slugs/anaspidae/bursatella.md)
+[Hairy sea hare](../../../mollusca/slugs/anaspidae/bursatella)
 (
 *Bursatella leachii*
 ) and
-[Long-tailed hairy sea hare](../../../mollusca/slugs/anaspidae/stylocheilus.md)
+[Long-tailed hairy sea hare](../../../mollusca/slugs/anaspidae/stylocheilus)
 (
 *Styloceilus*
 sp.)

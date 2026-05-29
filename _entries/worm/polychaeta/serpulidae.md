@@ -1,9 +1,8 @@
 ---
 title: Keelworms
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: keelworm, keel, worm, polychaete, annelid, field, guide, seashore, 
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: keelworm, keel, worm, polychaete, annelid, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry
 family: Serpulidae
 genus: ''
@@ -18,45 +17,68 @@ subclass: Sedentaria
 infraclass: Canalipalpata
 order: Sabellida
 updated: Oct 2016
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/worm/polychaeta/serpulidae/080731chgd8454m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/serpulidae/080731chgd8454m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polychaeta/serpulidae/111031chgd3457m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/serpulidae/111031chgd3457m3.jpg
     caption: Growing on a living small crab. Changi, Oct 11
-  - url: 
-      http://www.wildsingapore.com/mollusca/bivalvia/pinnidae/pinnidae/060624skdd3239m3d.jpg
+  - url: http://www.wildsingapore.com/mollusca/bivalvia/pinnidae/pinnidae/060624skdd3239m3d.jpg
     caption: Growing on a fan shell . Pulau Sekudu, Jun 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polychaeta/serpulidae/080731chgd8492m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/serpulidae/080731chgd8492m3.jpg
     caption: Growing on a shell occupied by a hermit crab . Changi, Jul 08
-links_references: |
-  **Links**
-  - [Keelworm (Family Serpulidae)](http://mangrove.nus.edu.sg/pub/seashore/text/126.md)
+links_references: '**Links**
+
+  - [Keelworm (Family Serpulidae)](http://mangrove.nus.edu.sg/pub/seashore/text/126)
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
+
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+
   . The Singapore Science Centre, Singapore. 160 pp.
-  - [Tubeworms and Keelworms (Phylum Annelida)](http://mangrove.nus.edu.sg/guidebooks/text/2007.md)
+
+  - [Tubeworms and Keelworms (Phylum Annelida)](http://mangrove.nus.edu.sg/guidebooks/text/2007)
+
   Ng, Peter K. L. & N. Sivasothi, 1999.
+
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
+
   . Singapore Science Centre. 168 pp.
-  - [Family Serpulidae: 'Plume Worms'](http://rmbr.nus.edu.sg/polychaete/Serpulidae.html)
+
+  - [Family Serpulidae: ''Plume Worms''](http://rmbr.nus.edu.sg/polychaete/Serpulidae.html)
+
   from
+
   [A Guide to Singapore Polychaetes](http://rmbr.nus.edu.sg/polychaete/)
-  by Lim Yun Ping 1997-2000 on the Raffles Museum of Biodiversity Research website: fact sheets and photos of polychaetes found in Singapore.: brief introduction and photos, as well as distribution in Singapore.
-  - [Family Serpulidae](http://personal.cityu.edu.hk/%7Ebhworm/sedentary/serpulidae.md)
+
+  by Lim Yun Ping 1997-2000 on the Raffles Museum of Biodiversity Research website:
+  fact sheets and photos of polychaetes found in Singapore.: brief introduction and
+  photos, as well as distribution in Singapore.
+
+  - [Family Serpulidae](http://personal.cityu.edu.hk/%7Ebhworm/sedentary/serpulidae)
+
   from
+
   [Marine Sedentary Polychaetes in Hong Kong](http://personal.cityu.edu.hk/%7Ebhworm/sedentary/)
-  by Man Chun Ho on the City University of Hong Kong website: brief introduction with photos of the worm out of its tube.
+
+  by Man Chun Ho on the City University of Hong Kong website: brief introduction with
+  photos of the worm out of its tube.
+
 
   **References**
+
   - Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.
+
   *Invertebrate Zoology*
+
   Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
+
   - Pechenik, Jan A., 2005.
+
   *Biology of the Invertebrates*
+
   . 5
+
+  '
 location:
 - pgl
 - chg
@@ -70,6 +92,10 @@ location:
 - snt
 - sis
 - smk
+size:
+- 0.5
+- 5.0
+- 8.0
 ---
 
 ## Where seen?
@@ -77,10 +103,10 @@ Keelworm tubes are common under stones and on hard surfaces on probably all our 
 
 **What are keelworms?**
 Keelworms are segmented worms belonging to the Family Serpulidae, Class
-[Polychaeta](polychaeta.md)
+[Polychaeta](polychaeta)
 , Phylum Annelida. The polychaetes include bristleworms, and Phylum Annelida includes the more familiar earthworm.
 Not all tubeworms are polychaetes and not all polychaetes are tubeworms. More about
-[tubeworms in general](../tubeworm/tubeworms.md)
+[tubeworms in general](../tubeworm/tubeworms)
 .
 
 ## Features
@@ -88,9 +114,9 @@ Not all tubeworms are polychaetes and not all polychaetes are tubeworms. More ab
 Tubes about 0.5cm in diameter and 5-8cm long, usually under stones. The keelworm secretes a hard tube out of calcium carbonate to protect their soft bodies. These hard tubes allow them to settle in tough places such as the underside of a stone. A little knob on a stalk, called the operculum, seals the opening from predators and reduces water loss at low tide. The operculum is actually a modified tentacle. The worm's head is topped by a fan of feathery tentacles (called a radiole) that is extended at high tide. They also breathe through these feathery tentacles.
 
 **Sometimes confused with**
-[vermetid snails](../../mollusca/gastropoda/vermetidae/vermetidae.md)
+[vermetid snails](../../mollusca/gastropoda/vermetidae/vermetidae)
 that also build tubes on rocks. Tubes made by worms such as keelworms are dull on the inside and made up of two layers. Tube worms have segmented bodies. Tubes made by snails such as vermetids are glossy on the inside because of a deposit of nacre, and made up of three layers. Vermetid snails do not have segmented bodies. Here's more on how to tell apart
-[animals that make hard coiling tubes](../../glossary/tubehard.md)
+[animals that make hard coiling tubes](../../glossary/tubehard)
 .
 
 **What does it eat?**
@@ -98,7 +124,7 @@ The keelworm is a filter feeder, using its feathery tentacles to gather edible b
 
 **Similar worm:**
 The popular 'Chrismas tree fan worms' that are often photographed by divers belong to this family. These worms have large spiral fans and build hard tubes out of calcium in rocks and dead and living corals. The fan worms that we see more often on the intertidal belong to the
-[Family Sabellidae](sabellidae.md)
+[Family Sabellidae](sabellidae)
 and these build soft tubes out of mucus.
 
 **Human uses:**
@@ -107,7 +133,7 @@ Keelworms are among the important animals that form the fouling community. These
 ![](http://www.wildsingapore.com/wildfacts/worm/polychaeta/serpulidae/080731chgd8454m3.jpg)
 
 On a living
-[Window-pane shell.](../../mollusca/bivalvia/anomiidae/placuna.md)
+[Window-pane shell.](../../mollusca/bivalvia/anomiidae/placuna)
 *Changi, Jul 08
 
 ![](http://www.wildsingapore.com/wildfacts/worm/polychaeta/serpulidae/080731chgd8452m3d.jpg)

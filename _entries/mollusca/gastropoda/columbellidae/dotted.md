@@ -1,10 +1,9 @@
 ---
 title: Dotted dove snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: dotted, dove, shell, snail, euplica, scripta, columbellidae, 
-  gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: dotted, dove, shell, snail, euplica, scripta, columbellidae, gastropod,
+  mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Columbellidae
 genus: Euplica
@@ -19,48 +18,59 @@ subclass: Caenogastropoda
 order: Neogastropoda
 superfamily: Buccinoidea
 updated: Jul 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/200706skd.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/200706skd.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/200706skd.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/200706skd.jpg
     caption: Pulau Sekudu, Jul 20
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/080816sisd9513.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/080816sisd9513.jpg
     caption: Sisters Island, Aug 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/041018sntd7462m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/041018sntd7462m3.jpg
     caption: Sentosa, Oct 04 rs. St. John's Island, Sep 07
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/070901sjig2112.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/070901sjig2112.jpg
     caption: St. John's Island, Sep 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/111030skdd3263m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/111030skdd3263m3.jpg
     caption: Sometimes seen in groups. Pulau Sekudu, Oct 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/070901sjig2116m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/070901sjig2116m3.jpg
     caption: Eating the algae growing on seaweed. St. John's Island, Sep 07
-links_references: |
-  **Links**
-  - [*Euplica scripta*](http://seashellsofnsw.org.au/Columbellidae/Pages/Euplica_scripta.md)
+links_references: '**Links**
+
+  - [*Euplica scripta*](http://seashellsofnsw.org.au/Columbellidae/Pages/Euplica_scripta)
+
   on
-  [The Seashells of New South Wales](http://seashellsofnsw.org.au/index.md)
-  by Des Beechey Research Associate, Australian Museum: family introductions with photos of shells and detailed fact sheets for many species.
+
+  [The Seashells of New South Wales](http://seashellsofnsw.org.au/index)
+
+  by Des Beechey Research Associate, Australian Museum: family introductions with
+  photos of shells and detailed fact sheets for many species.
+
   - [*Euplica scripta*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=102089)
+
   on SeaLife Base: Technical fact sheet.
 
+
   **References**
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Bunjamin Dharma. 1988.
+
   *Indonesian shells (Siput dan Kerang Indonesia)*
+
   . PT Sarana Graha. Indonesia. 111 pp.
+
   - Abbott, R. Tucker, 1991.
+
   *Seashells of South East Asia*
+
   . Graham Brash, Singapore. 145 pp.
+
+  '
 location:
 - chg
 - cj
@@ -73,13 +83,16 @@ location:
 - cyr
 - smk
 - lfa
+size:
+- 1.5
+- 2.0
 ---
 
 ## Where seen?
 This little snail is sometimes seen in numbers on some of our shores. Usually on large seagrasses (such as
-[Tape seagrass](../../../plants/seagrass/enhalus.md)
+[Tape seagrass](../../../plants/seagrass/enhalus)
 ) and large seaweeds (such as
-[Sargassum](../../../plants/seaweed/phaeophyta/sargassum.md)
+[Sargassum](../../../plants/seaweed/phaeophyta/sargassum)
 ). Sometimes many can be seen well dispersed among these leafy lifeforms. It was also known as
 *Columbella versicolor, Pyrene versicolor*
 and

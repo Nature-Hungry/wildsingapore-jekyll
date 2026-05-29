@@ -20,54 +20,79 @@ updated: Dec 2019
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/080422smkd1484m3a.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "if you learn only 3 things about them ... They are animals and not plants! Unlike true anemones, they have two types of tentacles: long outer tentacles and short inner tentacles. They retract into their tubes at low tide. Don't step on the tubes!"
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "They are animals and not plants! Unlike true anemones, they have two types of tentacles: long outer tentacles and short inner tentacles. They retract into their tubes at low tide. Don't step on the tubes!"
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: 'if you learn only 3 things about them ... They are animals and not plants!
+      Unlike true anemones, they have two types of tentacles: long outer tentacles
+      and short inner tentacles. They retract into their tubes at low tide. Don''t
+      step on the tubes!'
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: 'They are animals and not plants! Unlike true anemones, they have two
+      types of tentacles: long outer tentacles and short inner tentacles. They retract
+      into their tubes at low tide. Don''t step on the tubes!'
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/080422smkd1484m3a.jpg"
-      caption: "An inner ring of shorter tentacles identifies this as a cerianthid. Pulau Semakau, Apr 08"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/common/030630chgd0121m3.jpg"
-      caption: "Long body column that slips into an even longer tube. Changi, Jun 03"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/common/120413cjs06290m3.jpg"
-      caption: "Chek Jawa, Apr 12"
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/080422smkd1484m3a.jpg
+    caption: An inner ring of shorter tentacles identifies this as a cerianthid. Pulau
+      Semakau, Apr 08
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/common/030630chgd0121m3.jpg
+    caption: Long body column that slips into an even longer tube. Changi, Jun 03
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/common/120413cjs06290m3.jpg
+    caption: Chek Jawa, Apr 12
   gallery3:
-    - url: "http://www.wildsingapore.com/worm/phoronida/phoronida/030630chgd0017m3.jpg"
-      caption: "Tiny black Phoronid worms are often seen with cerianthids. Changi, Jun 03"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/common/110519chgd2139m3.jpg"
-      caption: "Scorpionfish hiding next to cerianthid. Changi, May 11"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/common/110519chgd2134m3a.jpg"
-      caption: "Laid on a cerianthid tube: eggs? Changi, May 11"
+  - url: http://www.wildsingapore.com/worm/phoronida/phoronida/030630chgd0017m3.jpg
+    caption: Tiny black Phoronid worms are often seen with cerianthids. Changi, Jun
+      03
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/common/110519chgd2139m3.jpg
+    caption: Scorpionfish hiding next to cerianthid. Changi, May 11
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/common/110519chgd2134m3a.jpg
+    caption: 'Laid on a cerianthid tube: eggs? Changi, May 11'
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/banded/050818chgg1386m3.jpg"
-      caption: Banded cerianthid
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/080422smkd1484m3.jpg"
-      caption: Black-mouth cerianthid
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/common/040720chgd2874m3.jpg"
-      caption: Common cerianthid
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/banded/050818chgg1386m3.jpg
+    caption: Banded cerianthid
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/080422smkd1484m3.jpg
+    caption: Black-mouth cerianthid
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/common/040720chgd2874m3.jpg
+    caption: Common cerianthid
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/elegant/070731chgd4705m3.jpg"
-      caption: Elegant cerianthid
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/shy/060809skdd5496m3.jpg"
-      caption: Shy glass cerianthid
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/smallmouth/080705bbd6967m3.jpg"
-      caption: Small-mouth cerianthid
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/elegant/070731chgd4705m3.jpg
+    caption: Elegant cerianthid
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/shy/060809skdd5496m3.jpg
+    caption: Shy glass cerianthid
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/smallmouth/080705bbd6967m3.jpg
+    caption: Small-mouth cerianthid
+links_references: '**Links**
+
   - [Snakelock or cerianthid (
+
   *Cerianthus*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/122.md)
+
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/122)
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
+
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+
   . The Singapore Science Centre, Singapore. 160 pp.
-  
+
+
   **References**
+
   - Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.
+
   *Invertebrate Zoology*
+
   Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
+
   - Pechenik, Jan A., 2005.
+
   *Biology of the Invertebrates*
+
   . 5
+
+  '
+size:
+- 30.0
+- 5.0
+- 15.0
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
@@ -77,11 +102,11 @@ These elegant animals with long colourful tentacles are commonly encountered on 
 
 **What are cerianthids?**
 Cerianthids are
-[Cnidarians](../../cnidaria.md)
+[Cnidarians](../../cnidaria)
 that belong to the same
-[Class Anthozoa](../../anthozoa.md)
+[Class Anthozoa](../../anthozoa)
 as sea anemones. There are 50-75 known species of cerianthids in three families. They come in a wide range of colours and patterns and are thus sometimes called peacock anemones. However, they are not true anemones, which belong to
-[Order Actiniaria](../../actiniaria/actiniaria.md)
+[Order Actiniaria](../../actiniaria/actiniaria)
 .
 
 ## Features
@@ -93,7 +118,7 @@ The cerianthid has two types of tentacles. An outer ring of long graceful tentac
 Cerianthids come in many different colours and patterns, and hence sometimes called Peacock anemones (although they are not true anemones). The short tentacles may be a different colour from the long tentacles. The long tentacles may be banded or variegated. Sometimes, cerianthids are encountered with their long tentacles coiled in spirals.
 
 A cerianthid has
-[stingers like other Cnidarians](../../cnidaria.md)
+[stingers like other Cnidarians](../../cnidaria)
 . A cerianthid makes its tube using specialised stingers called ptychocysts. Only cerianthids have ptychocysts. These stingers create adhesive strings that mat together with sand and slime and hardens to form a tube that has been described as leathery, felt-like and parchment-like.
 
 The tube can be more than 1m length in some cerianthids! Only a short part of the tube sticks out above the ground. The rest is buried in the ground. Often, at low tide, all you will see of a cerianthid is a short portion of its soft tube that sticks out of the ground. Please don't try to dig up a cerianthid. You will hurt it and it may die if it is not properly anchored and gets washed away with the incoming tide.
@@ -105,14 +130,14 @@ The cerianthid's body column is long, narrow and smooth. It doesn't have bumps (
 The cerianthid cannot tuck its tentacles inside its body column like true anemones do. Instead, it bundles its tentacles together and the entire animal retracts down into the protective tube.
 
 **Sometimes confused with**
-[true sea anemones](../../actiniaria/actiniaria.md)
+[true sea anemones](../../actiniaria/actiniaria)
 . Here's more on
-[how to tell apart animals with a ring of smooth tentacles](../../cfringtentacles.md)
+[how to tell apart animals with a ring of smooth tentacles](../../cfringtentacles)
 .
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **What do they eat?**
 Cerianthids do not harbour symbiotic algae (zooxanthellae). They feed on plankton and suspended food particles which they gather from the water. Cerianthids have potent stingers that can even be released into the water. These floating stingers can seriously affect creatures such as fishes and corals. (more about stingers on the
-[Cnidria page](../../cnidaria.md)
+[Cnidria page](../../cnidaria)
 )
 
 **Peacock Babies:**
@@ -120,7 +145,7 @@ They reproduce by releasing eggs and sperm into the water. The larvae are tiny a
 
 **Peacock friends:**
 Various animals may live with a cerianthid. Small black feathery fanworm-like creatures called
-[Phoronid worms](../../../worm/phoronida/phoronida.md)
+[Phoronid worms](../../../worm/phoronida/phoronida)
 may be found near cerianthids. Is it said some small crabs (
 *Lissocarcinus laevis*
 ) also live inside the tube with the cerianthid and some shrimps (
@@ -153,17 +178,17 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
 *On this website, they are grouped by external features for convenience of display*
 *.*
 
-[Banded cerianthid](banded.md)
+[Banded cerianthid](banded)
 
-[Black-mouth cerianthid](blackmouth.md)
+[Black-mouth cerianthid](blackmouth)
 
-[Common cerianthid](common.md)
+[Common cerianthid](common)
 
-[Elegant cerianthid](elegant.md)
+[Elegant cerianthid](elegant)
 
-[Shy glass cerianthid](shy.md)
+[Shy glass cerianthid](shy)
 
-[Small mouth cerianthid](smallmouth.md)
+[Small mouth cerianthid](smallmouth)
 
 **Family Cerianthidae**
 

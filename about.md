@@ -1,5 +1,11 @@
 ---
+<<<<<<< HEAD
 title: About this Site
+=======
+title: "About"
+description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+keywords: "index, worm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+>>>>>>> c5b24c4f9116b0576ad8300aa80b631859551f15
 layout: default
 ---
 
@@ -24,5 +30,9 @@ This site would not have been possible without the kind and generous support of 
   
 For [more about wildsingapore.com](http://www.wildsingapore.com/about) and my [other projects](http://www.wildsingapore.com/projects/index), and more [about me](http://www.wildsingapore.com/riablog/people/ria).  
 
+<<<<<<< HEAD
 ## Contact Us
+=======
+## Contact Me
+>>>>>>> c5b24c4f9116b0576ad8300aa80b631859551f15
 Do email me at [hello@wildsingapore.com](mailto:%20hello@wildsingapore.com) if you have any thoughts, comments and ideas to share. I would be glad to hear from you.  

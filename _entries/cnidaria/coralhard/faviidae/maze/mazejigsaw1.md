@@ -30,4 +30,4 @@ galleries:
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 
 back to
-[general info on jigsaw maze favid corals](mazejigsaw.md)
+[general info on jigsaw maze favid corals](mazejigsaw)

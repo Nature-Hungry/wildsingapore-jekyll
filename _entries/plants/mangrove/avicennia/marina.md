@@ -27,51 +27,79 @@ updated: Jan 2013
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/111022smkd2526m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/110827smkd9885m3.jpg"
-      caption: "Leaves not so white underneath. Pulau Semakau, Aug 11"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/111022smkd2528m3b.jpg"
-      caption: "Large flowers, crowded together.Stem squarish. Pulau Semakau, Oct 11"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/110827smkd9918m3.jpg"
-      caption: "Fruits flattened egg-shape, blunt tip. Bluish. Pulau Semakau, Aug 11"
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/110827smkd9885m3.jpg
+    caption: Leaves not so white underneath. Pulau Semakau, Aug 11
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/111022smkd2528m3b.jpg
+    caption: Large flowers, crowded together.Stem squarish. Pulau Semakau, Oct 11
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/110827smkd9918m3.jpg
+    caption: Fruits flattened egg-shape, blunt tip. Bluish. Pulau Semakau, Aug 11
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/110809smkd8539m3.jpg"
-      caption: "Squarish stem to leaf-bearing portion. Pulau Semakau, Aug 11"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/090405smkd9012m3a.jpg"
-      caption: "Pulau Semakau, Apr 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/090118smkd5762m3c.jpg"
-      caption: "Fruit flattened egg-shape. Pulau Semakau, Jan 09"
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/110809smkd8539m3.jpg
+    caption: Squarish stem to leaf-bearing portion. Pulau Semakau, Aug 11
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/090405smkd9012m3a.jpg
+    caption: Pulau Semakau, Apr 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/090118smkd5762m3c.jpg
+    caption: Fruit flattened egg-shape. Pulau Semakau, Jan 09
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/090112smkd5020m3.jpg"
-      caption: "Bark greenish, pneumatophores very tall. Pulau Semakau, Jan 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/110809smkd8546m3.jpg"
-      caption: "Bark greenish, pneumatophores very tall. Pulau Semakau, Aug 11"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/090112smkd5020m3a.jpg"
-      caption: "Bark greenish, pneumatophores very tall. Pulau Semakau, Jan 09"
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/090112smkd5020m3.jpg
+    caption: Bark greenish, pneumatophores very tall. Pulau Semakau, Jan 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/110809smkd8546m3.jpg
+    caption: Bark greenish, pneumatophores very tall. Pulau Semakau, Aug 11
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/090112smkd5020m3a.jpg
+    caption: Bark greenish, pneumatophores very tall. Pulau Semakau, Jan 09
+links_references: '**Links**
+
   - [Api-api jambu (
+
   *Avicennia marina*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/1050.md)
+
+  )](http://mangrove.nus.edu.sg/guidebooks/text/1050)
+
   Ng, Peter K. L. & N. Sivasothi, 1999.
+
   *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)
+
   I (Plant Diversity)*
+
   . Singapore Science Centre. 168 pp.
+
   - [*Avicennia marina*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=6453)
+
   on NParks Flora and Fauna website: photos and fact sheet.
+
   - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.md)
-  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
-  
+
+  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
+
+  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization
+  of the United Nations Regional Office for Asia and the Pacific Bangkok.
+
+
   **References**
+
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
+
   *The Concise Flora of Singapore: Gymnosperms and Dicotyledons*
+
   . Singapore University Press. 222 pp.
+
   - Tomlinson, P. B., 1986.
+
   *The Botany of Mangroves*
+
   Cambridge University Press. USA. 419 pp.
+
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+
   . Nature Society (Singapore). 285 pp.
+
+  '
+size:
+- 200.0
+- 300.0
+- 200.0
 ---
 
 ## Where seen?

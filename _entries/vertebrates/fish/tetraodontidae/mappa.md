@@ -1,10 +1,9 @@
 ---
 title: Map pufferfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: starry, pufferfish, puffer, fish, arothon, mappa, tetraodontidae, 
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: starry, pufferfish, puffer, fish, arothon, mappa, tetraodontidae, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 attributes:
 - 11
@@ -15,47 +14,59 @@ family: Tetraodontidae
 genus: Arothon
 species: mappa
 updated: Nov 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/mappa/sbr2019-054-055-mappa.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/mappa/sbr2019-054-055-mappa.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/mappa/sbr2019-054-055-mappa.jpg
-    caption: Live one, seen diving. Photo by Toh Chay Hoon from Singapore 
-      Biodiversity Records 2019:54-55
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/mappa/170820kusmn3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/mappa/sbr2019-054-055-mappa.jpg
+    caption: Live one, seen diving. Photo by Toh Chay Hoon from Singapore Biodiversity
+      Records 2019:54-55
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/mappa/170820kusmn3.jpg
     caption: Kusu Island, Aug 17 Photo shared by Marcus Ng on facebook .
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/mappa/170514bbbrl1a.jpg
-    caption: Beting Bemban Besar, May 17 Photo shared by Russel Low on facebook 
-      .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/mappa/170514bbbrl1a.jpg
+    caption: Beting Bemban Besar, May 17 Photo shared by Russel Low on facebook .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/mappa/200626tptjt1a.jpg
-    caption: Found in a large fish trap Terumbu Pempang Tengah, Jun 20 Photo 
-      shared by Jonathan Tan on facebook .
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/mappa/200626tptjt1a.jpg
+    caption: Found in a large fish trap Terumbu Pempang Tengah, Jun 20 Photo shared
+      by Jonathan Tan on facebook .
+links_references: '**Links**
+
   - [Map puffer (
+
   *Arothron mappa*
+
   )](https://www.fishbase.se/summary/7857)
+
   and from
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheet.
 
+
   **References**
+
   - Toh Chay Hoon & Kelvin K. P. Lim.
-  *Blue-spotted pufferfish (Arothron caeruleopunctatus) observed in the Singapore Strait*
-  . 30 April 2019. Singapore Biodiversity Records 2019: 54-55 ISSN 2345-7597. National University of Singapore.
+
+  *Blue-spotted pufferfish (Arothron caeruleopunctatus) observed in the Singapore
+  Strait*
+
+  . 30 April 2019. Singapore Biodiversity Records 2019: 54-55 ISSN 2345-7597. National
+  University of Singapore.
+
   - Ng Boon Leong, Venus Tan, Tan Bok Leng & Kelvin K. P. Lim. 4 December 2015.
+
   *Juvenile map pufferfish (Arothron mappa) in the Singapore Strait*
+
   . Singapore Biodiversity Records 2015: 196
+
+  '
 location:
 - kus
 - tpg
 - tsm
+size:
+- 60.0
 ---
 
 ## Where seen?

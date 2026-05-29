@@ -1,10 +1,9 @@
 ---
 title: Candelabra sea fan
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: seafan, fan, euplexaura, plexauridae, gorgonian, gorgonacea, anthozoa,
-  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: seafan, fan, euplexaura, plexauridae, gorgonian, gorgonacea, anthozoa, cnidaria,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Plexauridae
 genus: ''
@@ -18,45 +17,54 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Dec 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/candelabra/060528bbd2416m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/candelabra/060528bbd2416m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/candelabra/060528bbd2416m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/candelabra/060528bbd2416m3.jpg
     caption: Beting Bronok, May 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/candelabra/060528bbd2416m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/candelabra/060528bbd2416m3a.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/candelabra/111222tusd4656m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/candelabra/111222tusd4656m3.jpg
     caption: Tuas, Dec 11
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/candelabra/170714chgsafo7130425m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/candelabra/170714chgsafo7130425m3a.jpg
     caption: Squid egg capsules attached to the sea fan. Changi, Jul 17
-  - url: 
-      http://www.wildsingapore.com/mollusca/bivalvia/pteriidae/pteriidae/150802bbd8848m3a.jpg
+  - url: http://www.wildsingapore.com/mollusca/bivalvia/pteriidae/pteriidae/150802bbd8848m3a.jpg
     caption: Winged oyster on the sea fan. Beting Bronok, Aug 15
-  - url: 
-      http://www.wildsingapore.com/echinodermata/ophiuroidea/tinycolourful/150704cjd6780m3.jpg
+  - url: http://www.wildsingapore.com/echinodermata/ophiuroidea/tinycolourful/150704cjd6780m3.jpg
     caption: Tiny colourful brittle stars on the sea fan. Chek Jawa, Jul 15
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Euplexaura*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Euplexaura)
+
   on
+
   [Reef Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding)
+
   on the
+
   [Marine Species Identification Portal](http://species-identification.org/index.php)
+
   : Technical fact sheet and photos.
 
+
   **References**
+
   - Fabricius, Katharina and Philip Alderslade, 2001.
+
   *Soft Corals and Sea Fans*
-  . Australian Institute of Marine Science and the Museum and Art Gallery of the Northern Territoriy. 264 pp.
+
+  . Australian Institute of Marine Science and the Museum and Art Gallery of the Northern
+  Territoriy. 264 pp.
+
   - Goh, N.K.C. and Chou, L.M. 20 December 1996.
-  *An annotated checklist of the gorgonians (Anthozoa: Octocorallia) of Singapore, with a discussion of gorgonian diversity in the Indo-West Pacific*
+
+  *An annotated checklist of the gorgonians (Anthozoa: Octocorallia) of Singapore,
+  with a discussion of gorgonian diversity in the Indo-West Pacific*
+
   . Raffles Museum Bulletin of Zoology Pp. 435-459.
+
+  '
 location:
 - chg
 - ubn
@@ -66,6 +74,9 @@ location:
 - tus
 - ecp
 - snt
+size:
+- 10.0
+- 15.0
 ---
 
 ## Where seen?
@@ -77,10 +88,10 @@ This orange sea fan with U-shaped branches that resemble a candelabra are often 
 Colours usually orange, although the colony may appear whitish if the polyps are fully expanded. The white polyps are relatively large (0.5cm) and emerge all around the stem. The white polyps can retract completely into the stem.
 
 Animals seen on the sea fan include
-[Winged oysters,](../../../mollusca/bivalvia/pteriidae/seafan.md)
-[tiny colourful brittle stars](../../../echinodermata/ophiuroidea/tinycolourful.md)
+[Winged oysters,](../../../mollusca/bivalvia/pteriidae/seafan)
+[tiny colourful brittle stars](../../../echinodermata/ophiuroidea/tinycolourful)
 and
-[squid egg capsules](../../../mollusca/cephalopoda/cepeggs.md)
+[squid egg capsules](../../../mollusca/cephalopoda/cepeggs)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

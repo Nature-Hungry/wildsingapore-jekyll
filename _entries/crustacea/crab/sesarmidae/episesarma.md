@@ -1,10 +1,9 @@
 ---
 title: Tree climbing crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: tree, climbing, crab, episesarma, sesarmidae, decapod, crustacea, 
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: tree, climbing, crab, episesarma, sesarmidae, decapod, crustacea, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 attributes:
 - 38
@@ -30,85 +29,117 @@ zoosection: Eubrachyura
 zoosubsection: Thoracotremata
 superfamily: Grapsoidea
 updated: Dec 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/030928sbwad0054m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/030928sbwad0054m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/030928sbwad0054m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/030928sbwad0054m3.jpg
     caption: About to munch on flowers? Sungei Buloh Wetland Reserve, Sep 03
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/101226krjd4185m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/101226krjd4185m3.jpg
     caption: Kranji Nature Trail, Dec 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/031213sbwrd0047m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/031213sbwrd0047m3.jpg
     caption: Sungei Buloh Wetland Reserve, Dec 03
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/031204prpd0094m3.jpg
-    caption: Singapore tree climbing crab ( Episesarma singaporense ) has all 
-      red pincers.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/101226krjd4307m3a.jpg
-    caption: Violet tree climbing crab ( Episesarma versicolor ) has 
-      purple-white pincers.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/110419krjd9186m3.jpg
-    caption: Pink tree climbing crab ( Episesarma chentongense ) has red-white 
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/031204prpd0094m3.jpg
+    caption: Singapore tree climbing crab ( Episesarma singaporense ) has all red
       pincers.
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/101226krjd4307m3a.jpg
+    caption: Violet tree climbing crab ( Episesarma versicolor ) has purple-white
+      pincers.
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/110419krjd9186m3.jpg
+    caption: Pink tree climbing crab ( Episesarma chentongense ) has red-white pincers.
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/110910cjlks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/110910cjlks.JPG
     caption: Chek Jawa, Sep 11 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/120908cjlks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/120908cjlks.JPG
     caption: Chek Jawa, Sep 12 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/141227prplks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/141227prplks.JPG
     caption: Pasir Ris Park, Dec 14 Photo shared by Loh Kok Sheng on flickr .
-links_references: |
-  **Links**
-  - [Sesarmine crabs](http://mangrove.nus.edu.sg/guidebooks/text/2048.md)
+links_references: '**Links**
+
+  - [Sesarmine crabs](http://mangrove.nus.edu.sg/guidebooks/text/2048)
+
   ,
+
   [Tree-climbing/Vinegar crabs (
+
   *Episesarma*
-  spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2049.md)
+
+  spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2049)
+
   Ng, Peter K. L. & N. Sivasothi, 1999.
+
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
+
   . Singapore Science Centre. 168 pp.
+
   - [Sesarmine crabs (
+
   *Episesarma*
+
   and
+
   *Chiromantes*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/198.md)
+
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/198)
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
+
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+
   . The Singapore Science Centre, Singapore. 160 pp.
+
   - [*Episesarma singaporense*
+
   - Singapore vinegar crab](https://singapore.biodiversity.online/taxo4254/mainSpace/Episesarma%20singaporense.html)
+
   . Zeng Yiwen. 2011. Taxo4254, Wiki.nus.
+
   - [*Episesarma versicolor*
+
   - Violet vinegar crab](https://singapore.biodiversity.online/taxo4254/mainSpace/Episesarma%20versicolor.html)
+
   . Hariz. 2017. Taxo4254, Wiki.nus.
 
+
   **References**
+
   - Lee B. Y., Ng N. K. & P. K. L. Ng.
-  *The taxonomy of five species of Episesarma De Man, 1895 in Singapore (Crustacea: Decapoda: Brachyura: Sesarmidae)*
-  . 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 199-215.
+
+  *The taxonomy of five species of Episesarma De Man, 1895 in Singapore (Crustacea:
+  Decapoda: Brachyura: Sesarmidae)*
+
+  . 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International
+  Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 199-215.
+
   - Benjamin Lee Chengf. 29 Sep 2017.
+
   *Vinegar crab, Episesarma singaporense, feeding on dead congene*
+
   r. Singapore Biodiversity Records 2016: 156
+
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
-  *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs of the world.*
+
+  *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs
+  of the world.*
+
   The Raffles Bulletin of Zoology. Supplement No. 17, 31 Jan 2008. 286 pp.
+
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
+
   *Rhythm of the Sea: The Life and Times of Labrador Beach.*
-  Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+
+  Division of Biology, School of Science, Nanyang Technological University & Department
+  of Zoology, the National University of Singapore. 160 pp.
+
+  '
 location:
 - sbw
 - prp
 - cj
 - smk
+size:
+- 4.0
+- 5.0
 ---
 
 ## Where seen?

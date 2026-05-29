@@ -1,10 +1,9 @@
 ---
 title: Rough  anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: rough, anemone, macrodactyla, aspera, actiniidae, anthozoa, cnidaria, 
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: rough, anemone, macrodactyla, aspera, actiniidae, anthozoa, cnidaria, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 attributes:
 - 6
@@ -23,78 +22,60 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
 updated: Jul 2023
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/150219cyrd1327a.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/150219cyrd1327a.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/150219cyrd1327a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/150219cyrd1327a.jpg
     caption: Cyrene, Feb 15
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/150219cyrd1327b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/150219cyrd1327b.jpg
     caption: Brown splotches radiating out.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/150219cyrd1327d.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/150219cyrd1327d.jpg
     caption: Small brown spots on upper side of tentacles.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/180617skdlks1.jpg
-    caption: White 'lips' Pulau Sekudu, Jun 18 Photo shared by Loh Kok Sheng on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/180617skdlks1a.jpg
-    caption: White bumps on the upper body column. Pulau Sekudu, Jun 18 Photo 
-      shared by Loh Kok Sheng on facebook .
-  gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/180518chg1jll.jpg
-    caption: Changi, May 18 Photo shared by Jianlin Liu on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/171204chglks4.jpg
-    caption: Changi, Dec 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/230605chg7lks4.jpg
-    caption: Changi Carpark 7, Jun 23 Photo shared by Loh Kok Sheng on facebook 
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/180617skdlks1.jpg
+    caption: White 'lips' Pulau Sekudu, Jun 18 Photo shared by Loh Kok Sheng on facebook
       .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/180617skdlks1a.jpg
+    caption: White bumps on the upper body column. Pulau Sekudu, Jun 18 Photo shared
+      by Loh Kok Sheng on facebook .
+  gallery2:
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/180518chg1jll.jpg
+    caption: Changi, May 18 Photo shared by Jianlin Liu on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/171204chglks4.jpg
+    caption: Changi, Dec 17 Photo shared by Loh Kok Sheng on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/230605chg7lks4.jpg
+    caption: Changi Carpark 7, Jun 23 Photo shared by Loh Kok Sheng on facebook .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/160706skdrl1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/160706skdrl1.jpg
     caption: Pulau Sekudu, Jul 16 Photo shared by Russel Low on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/170626skdtch1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/170626skdtch1.jpg
     caption: Pulau Sekudu, Jun 17 Photo shared by Toh Chay Hoon on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/140613skdlks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/140613skdlks.JPG
     caption: Pulau Sekudu, Jun 14
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/140613skdlks2.JPG
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/140613skdlks2.JPG
     caption: Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/210628ecpBrk2.jpg
-    caption: East Coast Park (B), Jun 21 Photo shared by Richard Kuah on 
-      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/210628ecpBrk2.jpg
+    caption: East Coast Park (B), Jun 21 Photo shared by Richard Kuah on facebook
+      .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/110606cyrlks1.JPG
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/110606cyrlks1.JPG
     caption: Cyrene Reef, Jun 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/110606cyrlks1a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/110606cyrlks1a.jpg
     caption: Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/110606cyrlks4.JPG
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/110606cyrlks4.JPG
     caption: ''
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/130810cyrlks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/130810cyrlks.JPG
     caption: Cyrene Reef, Aug 13
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/130810cyrlks2.JPG
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/130810cyrlks2.JPG
     caption: Photo shared by Loh Kok Sheng on flickr .
 location:
 - chg
 - skd
 - ecp
 - cyr
+size:
+- 20.0
 ---
 
 ## Where seen?
@@ -107,7 +88,7 @@ means 'rough' in Latin.
 Diameter with tentacles extended 20cm or more. The oral disk 5-8cm in diameter. Tentacles not many. About 48 long tentacles (10cm) translucent, on the upper side covered in scattered small brown spots. Oral disk with thick brown splotches radiating outwards, mouth edge white. The upper body column has rows of bumps (verrucae) that are sticky - bits of sand and stuff often stuck on them.
 
 Sometimes confused with the
-[Glass anemone](dofleinia.md)
+[Glass anemone](dofleinia)
 which has more transparent tentacles that lack the small brown spots and has black rings where the tentacles attach to the oral disk, the oral disk does not have dark brown blotches, and does not have many rows of sticky bumps on the body column.
 
 **Status and threats:**

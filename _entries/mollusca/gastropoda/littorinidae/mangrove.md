@@ -1,10 +1,9 @@
 ---
 title: Mangrove periwinkle snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: mangrove, periwinkle, littoraria, littorinidae, gastropod, mollusc, 
-  snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal,
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: mangrove, periwinkle, littoraria, littorinidae, gastropod, mollusc, snail,
+  shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Littorinidae
 genus: Littoraria
@@ -20,59 +19,67 @@ order: Littorinimorpha
 superfamily: Littorinoidea
 subfamily: Littorininae
 updated: Aug 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/mangrove/070520smkg9552m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/mangrove/070520smkg9552m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/mangrove/070520smkg9552m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/mangrove/070520smkg9552m3.jpg
     caption: Pulau Semakau, May 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/mangrove/060627krjd3652m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/mangrove/060627krjd3652m3.jpg
     caption: Kranji, Jun 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/mangrove/110827smkd9899m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/mangrove/110827smkd9899m3a.jpg
     caption: Pulau Semakau, Aug 11
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/mangrove/161012prpmn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/mangrove/161012prpmn.jpg
     caption: Pasir Ris Park, Oct 16 Photo shared by Marcus Ng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/mangrove/150705skdhpy1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/mangrove/150705skdhpy1m3.jpg
     caption: Pulau Sekudu, Jun 15 Photo shared by Heng Pei Yan on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/mangrove/090405smkmn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/mangrove/090405smkmn.jpg
     caption: Pulau Semakau, Apr 09 Photo shared by Marcus Ng on flickr .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/mangrove/091205sudjk4m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/mangrove/091205sudjk4m3.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by James Koh on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/mangrove/091205sudik.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/mangrove/091205sudik.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by Ivan Kwan on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/mangrove/091205sudik2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/mangrove/091205sudik2.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by Ivan Kwan on flickr .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Mangrove periwinkle (
+
   *Littoraria*
-  sp.)](http://mangrove.nus.edu.sg/guidebooks/text/2080.md)
+
+  sp.)](http://mangrove.nus.edu.sg/guidebooks/text/2080)
+
   Ng, Peter K. L. & N. Sivasothi, 1999.
+
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
+
   . Singapore Science Centre. 168 pp.
-  - [Periwinkle Shells (Family Littorinidae)](http://mangrove.nus.edu.sg/pub/seashore/text/137.md)
+
+  - [Periwinkle Shells (Family Littorinidae)](http://mangrove.nus.edu.sg/pub/seashore/text/137)
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
+
   *A Guide to Seashore Life*
+
   . The Singapore Science Centre, Singapore. 160 pp.
 
+
   **References**
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Tan, K. S. & L. M. Chou, 2000.
+
   *A Guide to the Common Seashells of Singapore*
+
   . Singapore Science Centre. 160 pp.
+
+  '
 location:
 - sbw
 - pgl
@@ -85,6 +92,9 @@ location:
 - hnt
 - smk
 - lfa
+size:
+- 2.0
+- 3.0
 ---
 
 ## Where seen?

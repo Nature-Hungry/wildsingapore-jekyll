@@ -1,7 +1,6 @@
 ---
 description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
-keywords: potato, sponge, biemna, porifera, field, guide, seashore, sea, shore, 
-  marine,
+keywords: potato, sponge, biemna, porifera, field, guide, seashore, sea, shore, marine,
 layout: entry
 shape: sausage
 title: Potato sponge
@@ -17,36 +16,40 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Biemnida
 updated: Jul 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/porifera/potato/100715tbtd8931m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/porifera/potato/100715tbtd8931m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/potato/100715tbtd8931m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/potato/100715tbtd8931m3.jpg
     caption: Terumbu Pempang Tengah, Jul 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/potato/120411thnts06123m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/potato/120411thnts06123m3.jpg
     caption: Terumbu Hantu, Apr 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/potato/120606bbd4277m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/potato/120606bbd4277m3a.jpg
     caption: Beting Bronok, Jun 12
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/potato/200705ecpbslks1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/potato/200705ecpbslks1.jpg
     caption: East Coast Park, Jul 20 Photo shared by Loh Kok Sheng on facebook .
   - url: http://www.wildsingapore.com/wildfacts/porifera/potato/160313trymn9.jpg
     caption: Terumbu Raya, Mar 16 Photo shared by Marcus Ng on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Biemna*](http://www.sealifebase.fisheries.ubc.ca/summary/FamilySummary.php?ID=2661)
+
   on SeaLife Base: technical fact sheets.
+
   - [*Biemna*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=131897)
+
   on the World Porifera Database.
 
+
   **References**
+
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
+
   *A Guide to Sponges of Singapore*
+
   . Singapore Science Centre. 173pp.
+
+  '
 location:
 - chg
 - cj
@@ -63,6 +66,9 @@ location:
 - tpg
 - smk
 - tsm
+size:
+- 10.0
+- 30.0
 ---
 
 ## Where seen?

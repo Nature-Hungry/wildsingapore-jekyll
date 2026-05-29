@@ -24,34 +24,41 @@ updated: Apr 09
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/premna/corymbosa/090412hntd9874m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/premna/corymbosa/090428chgd0934m3.jpg"
-      caption: "Changi Beach, May 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/premna/corymbosa/090428chgd0935m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/premna/corymbosa/090428chgd0937m3.jpg"
-      caption: "'Stout, stocky trunk'"
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/premna/corymbosa/090428chgd0934m3.jpg
+    caption: Changi Beach, May 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/premna/corymbosa/090428chgd0935m3a.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/premna/corymbosa/090428chgd0937m3.jpg
+    caption: '''Stout, stocky trunk'''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/premna/corymbosa/081206smkd2469m3.jpg"
-      caption: "Pulau Semakau, Dec 08"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/premna/corymbosa/081206smkd2473m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/premna/corymbosa/081206smkd2473m3a.jpg"
-      caption: ""
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/premna/corymbosa/081206smkd2469m3.jpg
+    caption: Pulau Semakau, Dec 08
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/premna/corymbosa/081206smkd2473m3.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/premna/corymbosa/081206smkd2473m3a.jpg
+    caption: ''
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/premna/corymbosa/090328sbwrd8580m3.jpg"
-      caption: "Sungei Buloh, Mar 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/premna/corymbosa/090328sbwrd8580m3c.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/premna/corymbosa/090328sbwrd8583m3.jpg"
-      caption: ""
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/premna/corymbosa/090328sbwrd8580m3.jpg
+    caption: Sungei Buloh, Mar 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/premna/corymbosa/090328sbwrd8580m3c.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/premna/corymbosa/090328sbwrd8583m3.jpg
+    caption: ''
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/premna/corymbosa/090822sisd9802m3.jpg"
-      caption: "Sisters Island, Aug 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/premna/corymbosa/090822sisd9802m3a.jpg"
-      caption: ""
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/premna/corymbosa/090822sisd9802m3.jpg
+    caption: Sisters Island, Aug 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/premna/corymbosa/090822sisd9802m3a.jpg
+    caption: ''
   gallery5:
-    - url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
-      caption: "References Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University Press. 222 pp. Corners, E. J. H., 1997. Wayside Trees of Malaya: in two volumes . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444."
+  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
+    caption: 'References Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise
+      Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University Press.
+      222 pp. Corners, E. J. H., 1997. Wayside Trees of Malaya: in two volumes . Fourth
+      edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38;
+      volume 2: 477-861 pp., plates 139-236. Burkill, I. H., 1993. A Dictionary of
+      the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit,
+      Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2:
+      1241-2444.'
 ---
 
 ## Where seen?

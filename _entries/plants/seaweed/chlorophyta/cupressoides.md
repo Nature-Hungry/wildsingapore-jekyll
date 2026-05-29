@@ -1,10 +1,9 @@
 ---
 title: Zipper green seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: zipper, feathery, seaweed, weed, green, caulerpa, cupressoides, 
-  caulerpaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, 
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: zipper, feathery, seaweed, weed, green, caulerpa, cupressoides, caulerpaceae,
+  chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 division: Chlorophyta
 family: Caulerpaceae
@@ -20,49 +19,72 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Oct 2016
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/050621skdg7924m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/050621skdg7924m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/050819cjg1542m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/050819cjg1542m3.jpg
     caption: Chek Jawa, Aug 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/070902skdd6623%20m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/070902skdd6623%20m3.jpg
     caption: Pulau Sekudu, Sep 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/040621sntd0896m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/040621sntd0896m3.jpg
     caption: Sentosa, Jun 04
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/210529epcnvc9.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/210529epcnvc9.jpg
     caption: East Coast (PCN), May 21 Photo shared by Vincent Choo on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Caulerpa cupressoides*](http://www.algaebase.org/search/species/detail/?species_id=3746)
+
   on
+
   [AlgaeBase](http://www.algaebase.org/)
+
   : Technical fact sheet.
+
   - [*Caulerpa cupressoides*](http://species-identification.org/species.php?species_group=caribbean_diving_guide&menuentry=soorten&id=491&tab=beschrijving)
-  on Interactive Guide to Caribbean Diving, the Marine Species Identification Portal: Technical fact sheet.
+
+  on Interactive Guide to Caribbean Diving, the Marine Species Identification Portal:
+  Technical fact sheet.
+
 
   **References**
+
   - Pham, M. N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011.
-  [A Checklist of the Algae of Singapore](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf)
-  , 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore, Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+
+  [A Checklist of the Algae of Singapore](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH
+  Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf)
+
+  , 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
+  Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+
   - Eric Coppejans and Tom Beeckman. 1990.
+
   *[Caulerpa (Chlorophyta, Caulerpales) from the Kenyan coast](http://www.phycology.ugent.be/reprints/p61.pdf)*
-  (pdf). Laboratorium voor Morfologie, Systematiek en Ecologie van de Planten R.U.G. Ledeganckstraat 35, 9000 Gent, Belgium on the
+
+  (pdf). Laboratorium voor Morfologie, Systematiek en Ecologie van de Planten R.U.G.
+  Ledeganckstraat 35, 9000 Gent, Belgium on the
+
   [Phycology Research website](http://www.phycology.ugent.be/)
+
   : identification key and useful diagrams on how to tell apart similar
+
   *Caulerpa*
+
   species.
+
   - Huisman, John M. 2000.
+
   *Marine Plants of Australia*
+
   University of Western Australia Press. 300pp.
+
   - Trono, Gavino. C. Jr., 1997.
+
   *Field Guide and Atlas of the Seaweed Resources of the Philippines.*
+
   . Bookmark, Inc., the Philippines. 306 pp.
+
+  '
 location:
 - chg
 - cj
@@ -75,6 +97,9 @@ location:
 - tpg
 - smk
 - tsm
+size:
+- 4.0
+- 6.0
 ---
 
 ## Where seen?
@@ -88,7 +113,7 @@ These structures emerge along the length of a 'stem' that creeps over hard surfa
 
 **Sometimes confused with**
 similar green seaweeds. Here's more on
-[how to tell apart some green seaweeds](cffeathery.md)
+[how to tell apart some green seaweeds](cffeathery)
 .
 
 **Human uses:**

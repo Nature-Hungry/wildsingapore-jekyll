@@ -1,10 +1,9 @@
 ---
 title: Bottleneck sea cucumber
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: bottleneck, cucumber, seacucumber, holothuria, impatiens, 
-  holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, 
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: bottleneck, cucumber, seacucumber, holothuria, impatiens, holothuroidea,
+  echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 0
@@ -28,64 +27,66 @@ subclass: Actinopoda
 order: Holothuriida
 subgenus: Thymiosycia
 updated: Apr 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/banded/140613skdd6155m3a.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/banded/140613skdd6155m3a.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/banded/140613skdd6155m3a.jpg
-    caption: Narrow end with the mouth sticking out from hiding. Pulau Sekudu, 
-      Jun 14
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/banded/140613skdd6167m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/banded/140613skdd6155m3a.jpg
+    caption: Narrow end with the mouth sticking out from hiding. Pulau Sekudu, Jun
+      14
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/banded/140613skdd6167m6l.jpg
     caption: Pulau Sekudu, Jun 14
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/banded/140613skdlks1.JPG
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/banded/140613skdlks1.JPG
     caption: Pulau Sekudu, Jun 14
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/banded/140613skdlks2.JPG
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/banded/140613skdlks2.JPG
     caption: Photo shared by Loh Kok Sheng on flickr .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/banded/160706skdnml2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/banded/160706skdnml2.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/banded/160706skdnml2l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/banded/160706skdnml2l.jpg
     caption: Pulau Sekudu, Jul 16 Photo shared by Neo Mei Lin on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/banded/100527tmtch6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/banded/100527tmtch6l.jpg
     caption: Tanah Merah, May 10 Photo shared by Toh Chay Hoon on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/banded/220618tmftjll1.jpg
-    caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Jianlin Liu on 
-      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/banded/220618tmftjll1.jpg
+    caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Jianlin Liu on facebook
+      .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/banded/130531tkkmn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/banded/130531tkkmn.jpg
     caption: Pulau Tekukor, May 10 Photo shared by Marcus Ng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/banded/230901kusky1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/banded/230901kusky1.jpg
     caption: Kusu Island, Sep 23 Photo shared by Kelvin Yong on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/banded/250201bsislks2.jpg
-    caption: Big Sisters Island, Feb 25 Photo shared by Loh Kok Sheng on 
-      facebook .
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/banded/250201bsislks2.jpg
+    caption: Big Sisters Island, Feb 25 Photo shared by Loh Kok Sheng on facebook
+      .
+links_references: '**Links**
+
   - [*Holothuria impatiens*
+
   (Impatient sea cucumber)](http://www.sealifebase.org/summary/Holothuria-impatiens.html)
+
   on SeaLife Base: Technical fact sheet.
+
   - [*Holothuria impatiens*](http://species-identification.org/species.php?species_group=nasc&id=64)
-  in North Australian Sea Cucumbers in Marine Species Identification Portal: Technical fact sheet.
+
+  in North Australian Sea Cucumbers in Marine Species Identification Portal: Technical
+  fact sheet.
+
   - [*Holothuria impatiens*](http://www.iucnredlist.org/details/summary/180512/0)
+
   on the IUCN Red List: Technical fact sheet.
+
   ****
+
   - *Holothuria impatiens*
+
   on
-  [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00.md)
+
+  [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00)
+
   , by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
+
+  '
 location:
 - skd
 - tm

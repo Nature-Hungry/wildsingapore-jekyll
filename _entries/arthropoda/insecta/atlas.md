@@ -1,10 +1,9 @@
 ---
 title: Atlas moth
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: atlas, moth, atlas attacus, saturniidae, lepidoptera, insect, field, 
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
-  fact sheet, info
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: atlas, moth, atlas attacus, saturniidae, lepidoptera, insect, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info
 layout: entry
 family: Saturniidae
 genus: Attacus
@@ -22,51 +21,68 @@ superfamily: Bombycoidea
 subfamily: Saturniinae
 tribe: Attacini
 updated: Nov 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/insecta/atlas/040207ubnd0003m6l.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/insecta/atlas/040207ubnd0003m6l.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/insecta/atlas/040207ubnd0003m6l.jpg
-    caption: Probably just emerged from the cocoon or awaiting for a female to 
-      emerge from hers. Pulau Ubin, Feb 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/insecta/atlas/050422adamg4716m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/insecta/atlas/040207ubnd0003m6l.jpg
+    caption: Probably just emerged from the cocoon or awaiting for a female to emerge
+      from hers. Pulau Ubin, Feb 04
+  - url: http://www.wildsingapore.com/wildfacts/insecta/atlas/050422adamg4716m3.jpg
     caption: The caterpillar is large and whitish. Adam Road, May 04
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/insecta/atlas/020116cjcpd4973m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/insecta/atlas/020116cjcpd4973m3.jpg
     caption: The caterpillar creating its cocoon. Pulau Ubin, Jan 02
-  - url: 
-      http://www.wildsingapore.com/wildfacts/insecta/atlas/091230prpd6472m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/insecta/atlas/091230prpd6472m3.jpg
     caption: Cocoons in a Berembang tree . Pasir Ris Park, Dec 09
   gallery3:
   - url: http://www.wildsingapore.com/wildfacts/insecta/atlas/080601cjwlk.jpg
     caption: Chek Jawa, Jun 08 Photo shared by Wong Ley Kun on her blog.
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - The Atlas Moth Chronicles -
+
   [Episode 1](http://butterflycircle.blogspot.sg/2012/08/the-atlas-moth-chronicles-episode-1.html)
+
   and
+
   [Episode 2](http://butterflycircle.blogspot.sg/2012/08/the-atlas-moth-chronicles-episode-2.html)
+
   and
+
   [Episode 3](http://butterflycircle.blogspot.sg/2012/09/the-atlas-moth-chronicles-episode-3.html)
-  on the Butterflies of Singapore blog: documenting the life cycle and other interesting behaviour.
-  - *[Attacus atlas](https://singapore.biodiversity.online/taxo4254/mainSpace/Attacus atlas.html)*
+
+  on the Butterflies of Singapore blog: documenting the life cycle and other interesting
+  behaviour.
+
+  - *[Attacus atlas](https://singapore.biodiversity.online/taxo4254/mainSpace/Attacus
+  atlas.html)*
+
   on Taxo4254.
 
+
   **References**
+
   - Foo Maosheng. 30 Jun 2017.
+
   *An atlas moth infestation at Yishun*
+
   . Singapore Biodiversity Records 2017: 80-81.
+
   - Paul Sterry,
+
   *"Butterflies and Moths: A Portrait of the Animal World"*
+
   , Todtri, 1995.
+
+  '
 location:
 - sbw
 - prp
 - ubn
 - cj
+size:
+- 25.0
+- 30.0
 ---
 
 ## Where seen?

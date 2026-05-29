@@ -1,10 +1,8 @@
 ---
 title: Frogfishes
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: frog, angler, fish, frogfish, anglerfish, antennariidae, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
-  sheet, info,photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: frog, angler, fish, frogfish, anglerfish, antennariidae, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info,photo
 layout: entry
 family: Antennariidae
 genus: ''
@@ -19,8 +17,7 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Lophiiformes
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/080619chgd5686m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/080619chgd5686m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -32,78 +29,116 @@ galleries:
       are awkward swimmers, but they have the fastest mouth! Hard to spot: they resemble
       sponges, rocks. So watch your step!'
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/080619chgd5686m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/080619chgd5686m3.jpg
     caption: Changi, Jun 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/080619chgd5686m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/080619chgd5686m3b.jpg
     caption: A lure that draws prey closer to the mouth
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/black/070812sisg1958m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/black/070812sisg1958m3a.jpg
     caption: Lure and bright markings in the mouth. Sisters Island, Aug 07
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/110409smks09390m3.jpg
-    caption: "'Climbing' on long seagrass with its 'paws'. Pulau Semakau, Apr 11"
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/040803tusd4069m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/110409smks09390m3.jpg
+    caption: '''Climbing'' on long seagrass with its ''paws''. Pulau Semakau, Apr
+      11'
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/040803tusd4069m3.jpg
     caption: Tuas, Aug 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/black/050917smkg2501m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/black/050917smkg2501m3.jpg
     caption: Pulau Semakau, Sep 05
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/black/070812sisg1958m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/black/070812sisg1958m3.jpg
     caption: Black frogfish
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/050725labg0247m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/050725labg0247m3.jpg
     caption: Spotted-tail frogfish
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Spotted-tail frogfish (
+
   *Lophiocharon trisignatus*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/231.md)
+
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/231)
+
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
+
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
+
   . Singapore Science Centre. 163 pp.
+
   - [Family Antennariidae (Frogfishes)](https://singapore.biodiversity.online/taxon/A-Vert-Fish-Lophiiformes-Antennariidae)
+
   on The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.
+
   - [Family Antennariidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=192)
+
   and
+
   *[Antennarius commerson](http://www.fishbase.org/summary/7293)*
-  [(Commerson's frogfish)](http://www.fishbase.org/summary/7293)
+
+  [(Commerson''s frogfish)](http://www.fishbase.org/summary/7293)
+
   and
+
   *[Antennarius pictus](http://www.fishbase.org/summary/10276)*
+
   [(Painted frogfish)](http://www.fishbase.org/summary/10276)
+
   and
+
   [*Antennarius hispidus*
+
   (Shaggy angler)](http://www.fishbase.org/summary/8074)
+
   and
+
   [*Lophiocharon trisignatus*
+
   (Three-spot frogfish)](http://www.fishbase.org/summary/10330)
+
   from
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheet on the family, including fact sheets on individual species.
 
+
   **References**
+
   - Tan Tsu Soo & Toh Chay Hoon. 31 October 2019.
+
   *Rediscovery of spotfin frogfish (Antennatus nummifer) in Singapore*
-  .Singapore Biodiversity Records 2019: 141-142 ISSN 2345-7597, National University of Singapore.
+
+  .Singapore Biodiversity Records 2019: 141-142 ISSN 2345-7597, National University
+  of Singapore.
+
   - Tan Heok Hui. 29 August 2014.
+
   *Egg brooding behaviour of the spot-tail frogfish, Lophiocharon trisignatus*
+
   . Singapore Biodiversity Records 2014; 237-238.
+
   - Wee Y.C. and Peter K. L. Ng. 1994.
+
   *A First Look at Biodiversity in Singapore*
+
   . National Council on the Environment. 163pp.
+
   - Allen, Gerry, 2000.
+
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
+
   . Periplus Editions. 292 pp.
+
   - Kuiter, Rudie H. 2002.
+
   *Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers & Fishermen*
+
   New Holland Publishers. 434pp.
+
   - Lieske, Ewald and Robert Myers. 2001.
+
   *Coral Reef Fishes of the World*
+
   Periplus Editions. 400pp.
+
+  '
 location:
 - chg
 - skd
@@ -121,6 +156,10 @@ location:
 - tpg
 - smk
 - tsm
+size:
+- 6.0
+- 10.0
+- 18.0
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
@@ -140,7 +179,7 @@ Frogfishes come in a wide variety of colours and patterns. Some species are brig
 
 **Sometimes mistaken for**
 stonefish and scorpionfish. Unlike those fishes, the frogfish is harmless. Here's more on
-[how to tell apart fishes that look like stones.](../cfstonefish.md){% include img-wrap-group.html items=page.galleries.gallery2 %}**Fishing with a lure:**
+[how to tell apart fishes that look like stones.](../cfstonefish){% include img-wrap-group.html items=page.galleries.gallery2 %}**Fishing with a lure:**
 The frogfish literally lures prey to come closer. The lure is at the top of its head, just above its very large, upward facing mouth.The lure is made up of the first spine of the dorsal fin. The spine is modified into a rod or stalk (called the illicium) tipped with a fleshy, fluffy or otherwise attractive bit (called the esca). This bit is wriggled, jerked and waved about so it appears to be a helpless and tasty little morsel. While the fish itself remains motionless, looking like just another lump of rock or other harmless thing. Unsuspecting creatures that attempt to eat the lure are instead eaten by the frogfish! Each frogfish species usually targets a specific prey and each species has a lure that resembles something the targeted prey would find tasty. When not in use, the lure is safely flattened against the head.
 
 The victim is usually swallowed whole in one gulp of the frogfish's huge mouth. The frogfish can hugely expand its mouth in less than a second, making it among the fastest capture in the animal kingdom.
@@ -192,7 +231,7 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
 
 **Frogfishes seen awaiting identification**
 
-[Black frogfish](black.md)
+[Black frogfish](black)
 
 **Family Antennariidae**
 
@@ -206,7 +245,7 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
 *+Antennatus nummifer*
 (Spotfin frogfish)
 **
-[Lophiocharon trisignatus](trisignatus.md)*
+[Lophiocharon trisignatus](trisignatus)*
 (Spotted-tail frogfish)
 
 ---

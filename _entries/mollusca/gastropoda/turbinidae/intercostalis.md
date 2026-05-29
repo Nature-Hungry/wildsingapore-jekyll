@@ -1,10 +1,9 @@
 ---
 title: Ribbed turban snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: ribbed, turban, turbo, intercostalis, turbinidae, gastropod, mollusc, 
-  snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal,
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: ribbed, turban, turbo, intercostalis, turbinidae, gastropod, mollusc, snail,
+  shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Turbinidae
 genus: Turbo
@@ -20,71 +19,51 @@ order: Trochida
 superfamily: Trochoidea
 subfamily: Turbininae
 updated: Oct 2016
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/050513labg6477m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/050513labg6477m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/050513labg6477m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/050513labg6477m3.jpg
     caption: Labrador, May 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/050513labg6469m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/050513labg6469m3.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/050513labg6469m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/050513labg6469m3b.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/260104trmlvo8.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/260104trmlvo8.jpg
     caption: Sentosa Tg Rimau, Jan 26 Photo shared by Lon Voon Ong on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/220104tkkvc6.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/220104tkkvc6.jpg
     caption: Pulau Tekukor, Jan 22 Photo shared by Vincent Choo on facebook .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/090108sjilks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/090108sjilks.JPG
     caption: St John's Island, Jan 09 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/250909lazml2.jpg
-    caption: Seringat-Kias mangrove lagoon, Sep 25 Photo shared by Mathias Luk g
-      on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/250810bsismn6.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/250909lazml2.jpg
+    caption: Seringat-Kias mangrove lagoon, Sep 25 Photo shared by Mathias Luk g on
+      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/250810bsismn6.jpg
     caption: Big Sisters, Aug 25 Photo shared by Marcus Ng on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/250726cyrrk3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/250726cyrrk3.jpg
     caption: Cyrene, Jul 25 Photo shared by Richard Kuah on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/250726cyrrk3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/250726cyrrk3a.jpg
     caption: Cyrene, Jul 25 Photo shared by Richard Kuah on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/2007024thntsg2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/2007024thntsg2.jpg
     caption: Terumbu Hantu, Jul 20 Photo shared by Shawne Goh on facebook .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/160208smksjll2.jpg
-    caption: Pulau Semakau South, Feb 16 Photo shared by Jianlin Liu on facebook
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/160208smksjll2.jpg
+    caption: Pulau Semakau South, Feb 16 Photo shared by Jianlin Liu on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/250403smksrk3.jpg
+    caption: Pulau Semakau South, Apr 25 Photo shared by Richard Kuah on facebook
       .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/250403smksrk3.jpg
-    caption: Pulau Semakau South, Apr 25 Photo shared by Richard Kuah on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/240725smkntt3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/240725smkntt3.jpg
     caption: Pulau Semakau North, Jul 24 Photo shared by Tommy Tan on facebook .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/250712tpltl2.jpg
-    caption: Terumbu Pempang Laut, Jul 25 Photo shared by Richard Kuah on 
-      facebook .
-  gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/110517tptik6m3.jpg
-    caption: Terumbu Pempang Tengah, May 11 Photo shared by Ivan Kwan on flickr 
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/250712tpltl2.jpg
+    caption: Terumbu Pempang Laut, Jul 25 Photo shared by Richard Kuah on facebook
       .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/210428sluvc2.jpg
+  gallery7:
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/110517tptik6m3.jpg
+    caption: Terumbu Pempang Tengah, May 11 Photo shared by Ivan Kwan on flickr .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/210428sluvc2.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Vincent Choo on facebook .
 location:
 - chg
@@ -106,6 +85,10 @@ location:
 - tsm
 - rfl
 - lfa
+size:
+- 3.0
+- 5.0
+- 6.0
 ---
 
 ## Where seen?
@@ -117,9 +100,9 @@ Among the most commonly encountered of our turban snails on our shores, this chu
 
 **Sometimes confused with**
 the
-[Top shell snail](../trochidae/trochidae.md)
+[Top shell snail](../trochidae/trochidae)
 (Family Trochidae) has a more pyramidal shell and a thin operculum made of a horn-like material. While the turban shell snail has a shell with more distinct whorls and a thick, chalky operculum. Here's more on
-[how to tell apart turban and top shell snails](../topturban.md)
+[how to tell apart turban and top shell snails](../topturban)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Human uses:**

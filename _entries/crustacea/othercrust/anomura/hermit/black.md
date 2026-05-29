@@ -1,10 +1,9 @@
 ---
 title: All-black hermit crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: black, hermit, crab, clibanarius, diogenidae, anomura, decapod, 
-  crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: black, hermit, crab, clibanarius, diogenidae, anomura, decapod, crustacea,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 attributes:
 - 38
@@ -26,35 +25,30 @@ suborder: Pleocyemata
 infraorder: Anomura
 superfamily: Paguroidea
 updated: Dec 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/black/080816sisd9480m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/black/080816sisd9480m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/black/080816sisd9480m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/black/080816sisd9480m3.jpg
     caption: Sisters Island, Aug 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/black/080816sisd9480m3d.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/black/080816sisd9480m3d.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/black/120210tmftd6284m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/black/120210tmftd6284m3a.jpg
     caption: Tanah Merah, Feb 12
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/black/241210ecpcnky2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/black/241210ecpcnky2.jpg
     caption: East Coast PCN, Feb 24 Photo shared by Kelvin Yong on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/black/240212sjiky1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/black/240212sjiky1.jpg
     caption: St John's Island, Feb 24 Photo shared by Kelvin Yong on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/black/251011ssisyls8.jpg
-    caption: Small Sisters Island, Oct 25 Photo shared by Yan Le Su on facebook 
-      .
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/black/251011ssisyls8.jpg
+    caption: Small Sisters Island, Oct 25 Photo shared by Yan Le Su on facebook .
 location:
 - tm
 - snt
 - sji
 - sis
+size:
+- 1.0
+- 1.5
 ---
 
 ## Where seen?
@@ -66,7 +60,7 @@ Body about 1-1.5cm long, plain dark blue. Both pincers are more or less equal in
 
 More on how to tell apart
 [*Clibanarius*
-hermit crabs](clibanarius.md)
+hermit crabs](clibanarius)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

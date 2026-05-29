@@ -28,42 +28,69 @@ updated: Jan 2013
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/rumphii/090711sjid7167m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/rumphii/090401sntd8891m3.jpg"
-      caption: "Fruits small often in pairs. Sentosa, Apr 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/rumphii/090809sjid8713m3.jpg"
-      caption: "Leaftlets almost heart-shaped with prominent pale veins. St. John's Island, Aug 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/rumphii/090401sntd8875m3.jpg"
-      caption: "Bark with longitudinal fissures. Sentosa, Apr 09"
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/rumphii/090401sntd8891m3.jpg
+    caption: Fruits small often in pairs. Sentosa, Apr 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/rumphii/090809sjid8713m3.jpg
+    caption: Leaftlets almost heart-shaped with prominent pale veins. St. John's Island,
+      Aug 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/rumphii/090401sntd8875m3.jpg
+    caption: Bark with longitudinal fissures. Sentosa, Apr 09
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/rumphii/110203sjid5596m3.jpg"
-      caption: "Fruits small. St. John's Island, Feb 11"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/rumphii/100321sntd9691m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/rumphii/100321sntd9690m3.jpg"
-      caption: "Sentosa, Mar 10"
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/rumphii/110203sjid5596m3.jpg
+    caption: Fruits small. St. John's Island, Feb 11
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/rumphii/100321sntd9691m3.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/rumphii/100321sntd9690m3.jpg
+    caption: Sentosa, Mar 10
+links_references: '**Links**
+
   - *[Xylocarpus rumphii](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3210)*
+
   on the NParks Flora and Fauna website: photos and fact sheet.
-  - [The Struggle for Survival: Five threatened coastal plants once common on our shores](http://habitatnews.nus.edu.sg/pub/naturewatch/text/a061d.md)
+
+  - [The Struggle for Survival: Five threatened coastal plants once common on our
+  shores](http://habitatnews.nus.edu.sg/pub/naturewatch/text/a061d)
+
   by Jean W H Yong, Nature Watch Vol 6 No 1 Jan-Mar 98
-  - [Siloso plant checklist](http://www.eart-h.com/text/siloso.md)
+
+  - [Siloso plant checklist](http://www.eart-h.com/text/siloso)
+
   by Joseph Lai on his eart-h.com website done during the
+
   [Sentosa Survey of 2006](http://www.wildsingapore.com/projects/survey/sentosa/index.html)
+
   - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.md)
-  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
-  
+
+  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
+
+  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization
+  of the United Nations Regional Office for Asia and the Pacific Bangkok.
+
+
   **References**
+
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
+
   *The Concise Flora of Singapore: Gymnosperms and Dicotyledons*
+
   . Singapore University Press. 222 pp.
+
   - Tan, Hugh T.W. and T. Morgany. 2001.
+
   *Growing the Native Plants of Singapore*
+
   . BP Science Centre Guidebook. 168pp.
+
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+
   . Nature Society (Singapore). 285 pp.
+
+  '
+size:
+- 800.0
+- 1000.0
 ---
 
 ## Where seen?

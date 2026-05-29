@@ -1,10 +1,9 @@
 ---
 title: Winged oysters
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: winged, oyster, clam, pteria, pteriidae, bivalve, mollusc, field, 
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: winged, oyster, clam, pteria, pteriidae, bivalve, mollusc, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Pteriidae
 genus: ''
@@ -20,56 +19,70 @@ infraclass: Pteriomorphia
 order: Ostreida
 superfamily: Pterioidea
 updated: May 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/pteriidae/130113chgd3570m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/pteriidae/130113chgd3570m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/pteriidae/130113chgd3570m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/pteriidae/130113chgd3570m3.jpg
     caption: Several sea fan oysters on one sea fan. Changi, Jan 13
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/pteriidae/121215sislks2a.jpg
-    caption: Electroma physoides Sisters Island, Dec 12 Photo shared by Loh Kok 
-      Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/vulsella/200113chgsaf.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/pteriidae/121215sislks2a.jpg
+    caption: Electroma physoides Sisters Island, Dec 12 Photo shared by Loh Kok Sheng
+      on flickr .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/vulsella/200113chgsaf.jpg
     caption: Sponge finger oyster in a sponge. Changi, Jan 20
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/pteriidae/170624cjd3250m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/pteriidae/170624cjd3250m3.jpg
     caption: Sea fan winged oyster
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/vulsella/120511tpld3152m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/vulsella/120511tpld3152m3.jpg
     caption: Sponge finger oyster
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/ephippium/050327sbwrg3830m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/ephippium/050327sbwrg3830m3.jpg
     caption: Leaf oyster
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/isognomum/091206tmd5738m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/isognomum/091206tmd5738m3.jpg
     caption: Elongated toothed oyster
-links_references: |
-  **Links**
-  - Family Pteriidae in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+links_references: '**Links**
+
+  - Family Pteriidae in the Bivalves section by J.M. Poutiers in the FAO Species Identification
+  Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
+
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
+
   **References**
+
   - Chan Sow-Yan & Lau Wing Lup. 30 October 2020.
+
   *New record of the mangrove leaf-oyster, Isognomon spathulatus, in Singapore*
+
   . Singapore Biodiversity Records 2020: 183-186. The National University of Singapore.
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Chou, L. M., 1998.
+
   *A Guide to the Coral Reef Life of Singapore*
+
   . Singapore Science Centre. 128 pages.
+
   - Gosliner, Terrence M., David W. Berens and Gary C. Williams. 1996.
-  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
+
+  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive
+  of the vertebrates*
+
   Sea Challengers. 314pp.
+
   - Abbott, R. Tucker, 1991.
+
   *Seashells of South East Asia*
+
   . Graham Brash, Singapore. 145 pp.
+
+  '
 location:
 - chg
 - ubn
@@ -79,11 +92,14 @@ location:
 - tus
 - ecp
 - cyr
+size:
+- 1.0
+- 8.0
 ---
 
 ## Where seen?
 These strangely shaped clams grow attached to other animals like
-[sea fans](../../../cnidaria/others/gorgonacea/gorgonacea.md)
+[sea fans](../../../cnidaria/others/gorgonacea/gorgonacea)
 and sponges, as well as mangrove trees.
 
 **What are winged oysters?**
@@ -125,7 +141,7 @@ from Tan Siong Kiat and Henrietta P. M. Woo, 2010
 **Family Pteriidae**
 awaiting identification
 
-[Sea fan winged oysters](seafan.md)
+[Sea fan winged oysters](seafan)
 
 **Family Pteriidae**
 
@@ -136,16 +152,16 @@ Electroma physoides*
 ^
 *Isognomon*
 previously in Family Isognomonidae
-*[Isognomon ephippium](ephippium.md)*
+*[Isognomon ephippium](ephippium)*
 (Leaf oyster)
-*[Isognomon isognomum](isognomum.md)*
+*[Isognomon isognomum](isognomum)*
 (Elongated toothed oyster)
 *Isognomon legumen
 
 Isognomon perna
 
 +
-[Isognomon spathulatus](ephippium.md)*
+[Isognomon spathulatus](ephippium)*
 (Mangrove leaf-oyster)
 *Pinctada albina sugillata
 
@@ -163,7 +179,7 @@ Pteria macroptera
 
 Pteria penguin
 
-[Vulsella vulsella](vulsella.md)*
+[Vulsella vulsella](vulsella)*
 (Sponge finger oysters) ^Previously in Family Malleidae
 
 ---

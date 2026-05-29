@@ -1,10 +1,9 @@
 ---
 title: Mangrove bumblebee goby
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: mangrove, bumblebee, bumble, bee, goby, brachygobius, kabiliensis, 
-  fish, gobiidae, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: mangrove, bumblebee, bumble, bee, goby, brachygobius, kabiliensis, fish,
+  gobiidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 25
@@ -25,46 +24,66 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Gobionellinae
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/kabiliensis/130202mndd3882m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/kabiliensis/130202mndd3882m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/kabiliensis/130202mndd3882m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/kabiliensis/130202mndd3882m3.jpg
     caption: Mandai mangroves, Feb 13
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/kabiliensis/110822admd9795m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/kabiliensis/110822admd9795m6l.jpg
     caption: Admiralty Park, Aug 11
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/kabiliensis/251200admrqo3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/kabiliensis/251200admrqo3.jpg
     caption: Admiralty Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Bumblebee goby (
+
   *Brachygobius kabillensis*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2107.md)
+
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2107)
+
   Ng, Peter K. L. & N. Sivasothi, 1999.
+
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
+
   . Singapore Science Centre. 168 pp.
+
   - [Kabili bumblebee goby (
+
   *Brachygobius kabiliensis*
+
   )](http://www.fishbase.org/summary/speciessummary.php?id=25067)
+
   from
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheet.
+
   - [*Brachygobius kabiliensis*](http://www.iucnredlist.org/details/181337/0)
+
   on the IUCN Red List.
 
+
   **References**
+
   - Tan Heok Hui, Low Bi Wei & Jonathan Ho. 11 July 2014.
+
   *Lesser bumblebee goby in Upper Seletar Reservoir, Brachygobius sabanus*
+
   . Singapore Biodiversity Records 2014: 185.
+
   - Larson, Helen K and Kelvin K. P. Lim. 2005.
+
   *A Guide to Gobies of Singapore*
+
   . Singapore Science Centre. 164pp.
+
+  '
 location:
 - sbw
+size:
+- 1.5
 ---
 
 ## Where seen?

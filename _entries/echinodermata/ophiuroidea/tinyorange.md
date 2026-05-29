@@ -1,10 +1,9 @@
 ---
 title: 'Tiny orange brittle stars '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: tiny, orange, brittle, star, brittlestar, ophiothela, mirabilis, 
-  ophiuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: tiny, orange, brittle, star, brittlestar, ophiothela, mirabilis, ophiuroidea,
+  echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 0
@@ -27,59 +26,49 @@ order: Amphilepidida
 suborder: Gnathophiurina
 superfamily: Ophiactoidea
 updated: Oct 2024
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinyorange/111029smkd2954m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinyorange/111029smkd2954m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinyorange/111029smkd2954m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinyorange/111029smkd2954m3.jpg
     caption: Pulau Semakau, Oct 11 In asparagus soft coral .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinyorange/200822jng.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinyorange/200822jng.jpg
     caption: Pulau Jong, Aug 20 In asparagus soft coral .
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinycolourful/160209cyrlks4.JPG
-    caption: On pencil sea urchin spine. Cyrene Reef, Feb 16 Photo shared by Loh
-      Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinyorange/161012cj.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinycolourful/160209cyrlks4.JPG
+    caption: On pencil sea urchin spine. Cyrene Reef, Feb 16 Photo shared by Loh Kok
+      Sheng on his blog .
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinyorange/161012cj.jpg
     caption: Chek Jawa, Oct 16 In Spiky flowery soft coral
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinyorange/200823cyr.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinyorange/200823cyr.jpg
     caption: Cyrene Reef, Aug 20 In Leathery sea fan
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinyorange/230805thntjt1.jpg
-    caption: On Black-and-white leathery soft coral . Terumbu Hantu, Aug 23 
-      Photo shared by Johnathan Tan on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinyorange/200919bsisvc3.jpg
-    caption: . On Black-and-white leathery soft coral . Big Sisters Island, Sep 
-      20 Photo shared by Vincent Choo on facebook
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinyorange/210822ssislks1.jpg
-    caption: Small Sisters Island, Aug 21 Photo shared by Loh Kok Sheng on 
-      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinyorange/230805thntjt1.jpg
+    caption: On Black-and-white leathery soft coral . Terumbu Hantu, Aug 23 Photo
+      shared by Johnathan Tan on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinyorange/200919bsisvc3.jpg
+    caption: . On Black-and-white leathery soft coral . Big Sisters Island, Sep 20
+      Photo shared by Vincent Choo on facebook
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinyorange/210822ssislks1.jpg
+    caption: Small Sisters Island, Aug 21 Photo shared by Loh Kok Sheng on facebook
+      .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinyorange/250430sjilll5.jpg
-    caption: On Leathery sea fan . St John's Island, Apr 25 Photo shared by Low 
-      Liong Leong on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinyorange/240113lazky2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinyorange/250430sjilll5.jpg
+    caption: On Leathery sea fan . St John's Island, Apr 25 Photo shared by Low Liong
+      Leong on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinyorange/240113lazky2.jpg
     caption: Lazarus Island, Jan 24 Photo shared by Kelvin Yong on facebook .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinyorange/240623hntlks9.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinyorange/240623hntlks9.jpg
     caption: Pulau Hantu, Jun 24 Shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinyorange/240412tbccn6.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinyorange/240412tbccn6.jpg
     caption: Terumbu Bemban, Apr 24 Photo shared by Che Cheng Neo on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Ophiothela danae*](https://www.sealifebase.se/summary/Ophiothela-mirabilis.html)
+
   on SeaLife Base: Technical fact sheet.
+
+  '
 location:
 - ubn
 - cj
@@ -92,22 +81,24 @@ location:
 - tpg
 - smk
 - tsm
+size:
+- 1.0
 ---
 
 ## Where seen?
 These tiny brittle stars are sometimes seen on
-[Asparagus soft corals](../../cnidaria/coralsoft/nephtheidae.md)
+[Asparagus soft corals](../../cnidaria/coralsoft/nephtheidae)
 , various soft corals and other cnidarians. A single host can be home to many of these tiny brittle stars.
 
 ## Features
 
 Whole animal about 1cm wide. 5-6 arms with very small spines, held flat, along the sides of the arm. Uniformly bright orange. Sometimes confused with the
-[Tiny colourful brittle star](tinyorange.md)
+[Tiny colourful brittle star](tinyorange)
 which are more colorful and found on a wider variety of animals.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Sometimes confused with**
 the
-[Tiny colourful brittle star](tinycolourful.md)
+[Tiny colourful brittle star](tinycolourful)
 which have colourful bands on their arms and central disk also with colourful markings. The two kinds of tiny brittle stars are sometimes seen together.
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**Species are difficult to positively identify without close examination.

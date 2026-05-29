@@ -25,39 +25,67 @@ updated: Jan 2013
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/merope/angulata/100425kntd1724m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/merope/angulata/110329mndd8247m3.jpg"
-      caption: "Small white flowers. Mandai, Mar 11"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/merope/angulata/110329mndd8243m3.jpg"
-      caption: "Mandai, Mar 11"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/merope/angulata/101226krjd4150m3a.jpg"
-      caption: "Kranji Nature Trail, Dec 10"
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/merope/angulata/110329mndd8247m3.jpg
+    caption: Small white flowers. Mandai, Mar 11
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/merope/angulata/110329mndd8243m3.jpg
+    caption: Mandai, Mar 11
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/merope/angulata/101226krjd4150m3a.jpg
+    caption: Kranji Nature Trail, Dec 10
+links_references: '**Links**
+
   - [*Merope angulata*](http://floraofsingapore.wordpress.com/2011/01/01/merope-angulata/)
+
   on Total Vascular Flora of Singapore Online: photos and fact sheet.
+
   - [*Merope angulata*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=6232)
+
   on the NParks Flora and Fauna website: photos and fact sheet.
+
   - [Limau lelang (
+
   *Merope angulata*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/1067.md)
+
+  )](http://mangrove.nus.edu.sg/guidebooks/text/1067)
+
   Ng, Peter K. L. & N. Sivasothi, 1999.
+
   *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)
+
   I (Plant Diversity)*
+
   . Singapore Science Centre. 168 pp.
-  
+
+
   **References**
+
   - Hsuan Keng, S.C. Chin and H. T. W. Tan.1998,
+
   *The Concise Flora of Singapore II: Monoctyledons*
+
   Singapore University Press. 215 pp.
+
   - Tomlinson, P. B., 1986.
+
   *The Botany of Mangroves*
+
   Cambridge University Press. USA. 419 pp.
+
   - Burkill, I. H., 1993.
+
   *A Dictionary of the Economic Products of the Malay Peninsula*
-  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
+
+  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
+  Volume 1: 1-1240; volume 2: 1241-2444.
+
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+
   . Nature Society (Singapore). 285 pp.
+
+  '
+size:
+- 300.0
 ---
 
 ## Where seen?

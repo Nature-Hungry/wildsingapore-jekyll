@@ -1,10 +1,9 @@
 ---
 title: Hermit porcelain crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: hermit, porcelain, crab, porcellanidae, anomura, decapod, crustacea, 
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: hermit, porcelain, crab, porcellanidae, anomura, decapod, crustacea, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 attributes:
 - 38
@@ -26,28 +25,26 @@ suborder: Pleocyemata
 infraorder: Anomura
 superfamily: Galatheoidea
 updated: Dec 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/050428cftg5276m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/050428cftg5276m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/hermit/stripeorange/050428cftg5276m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/hermit/stripeorange/050428cftg5276m3.jpg
     caption: In a shell occupied by a Striped hermit crab . Changi, Apr 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/hermit/stripeorange/050428cftg5276m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/hermit/stripeorange/050428cftg5276m3a.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/hermit/050315cjd1820m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/hermit/050315cjd1820m3.jpg
     caption: Chek Jawa, Mar 05
 location:
 - chg
 - cj
 - ecp
+size:
+- 1.0
 ---
 
 ## Where seen?
 This tiny porcelain crab is sometimes seen inside large shells occupied by
-[hermit crabs](../hermit/hermit.md)
+[hermit crabs](../hermit/hermit)
 on our Northern shores.
 
 ## Features

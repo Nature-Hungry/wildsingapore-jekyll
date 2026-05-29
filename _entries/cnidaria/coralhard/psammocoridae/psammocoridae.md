@@ -1,10 +1,9 @@
 ---
 title: 'Sandpaper corals '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: sandpaper, psammocora, siderastreidae, psammocoridae, coral, hard, 
-  scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: sandpaper, psammocora, siderastreidae, psammocoridae, coral, hard, scleractinia,
+  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Psammocoridae
 genus: ''
@@ -18,72 +17,87 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/050625labg8619m3c.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/050625labg8619m3c.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/050625labg8619m3c.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/050625labg8619m3c.jpg
     caption: Tiny petal-shaped holes.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/120508skdd1956m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/120508skdd1956m3.jpg
     caption: Granular surface giving their common name of sandpaper coral.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/crinkled/041018sntd7498m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/crinkled/041018sntd7498m3a.jpg
     caption: A tiny shrimp. Sentosa, Oct 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/crinkled/060312hntd0199m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/crinkled/060312hntd0199m3a.jpg
     caption: A tiny scallop clam . Pulau Hantu, Mar 06
-  - url: 
-      http://www.wildsingapore.com/worm/polychaeta/sabellidae/banded/060810rlhd5679m3.jpg
+  - url: http://www.wildsingapore.com/worm/polychaeta/sabellidae/banded/060810rlhd5679m3.jpg
     caption: A fan worm . Raffles Lighthouse, Aug 06
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/crinkled/120408sjid8447m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/crinkled/120408sjid8447m3.jpg
     caption: Crinkled sandpaper coral
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/crinkled/060102sisg3676m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/crinkled/060102sisg3676m3.jpg
     caption: Crinkled sandpaper coral
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/120508skdd1948m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/120508skdd1948m3.jpg
     caption: Boulder sandpaper coral
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/crinkled/120408sjid8450m3d.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/crinkled/120408sjid8450m3d.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/crinkled/060102sisg3677m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/crinkled/060102sisg3677m3.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/120508skdd1952m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/120508skdd1952m3.jpg
     caption: ''
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
+
   with species factsheets.
+
   - [IUCN Red List of Threatened Species](https://www.iucnredlist.org/)
+
   with species factsheets.
+
   - *[Psammocora](http://species-identification.org/species.php?species_group=corals&id=126&menuentry=groepen)*
-  on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal: Technical fact sheet.
+
+  on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal:
+  Technical fact sheet.
+
   - *[Psammocora digitata](http://www.sealifebase.org/Summary/speciesSummary.php?ID=45488)*
+
   on SeaLife Base: Technical fact sheet.
 
+
   **References**
+
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
-  *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new records*
+
+  *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new
+  records*
+
   (pdf). Raffles Bulletin of Zoology Supplement No. 22: 69-80.
+
   - Veron, Jen. 2000.
+
   *Corals of the World*
+
   Australian Institute of Marine Science, Australia. 3 volumes.
+
   - Chou, L. M., 1998.
+
   *A Guide to the Coral Reef Life of Singapore*
+
   . Singapore Science Centre. 128 pages.
+
   - Erhardt, Harry and Daniel Knop. 2005.
+
   *Corals: Indo-Pacific Field Guide*
+
   IKAN-Unterwasserachiv, Frankfurt. 305 pp.
+
   - Borneman, Eric H. 2001.
+
   *Aquarium Corals: Selection, Husbandry and Natural History*
+
   T.F. H Publications. 464 pp.
+
+  '
 location:
 - cj
 - skd
@@ -100,6 +114,9 @@ location:
 - tpg
 - smk
 - rfl
+size:
+- 15.0
+- 30.0
 ---
 
 ## Where seen?
@@ -113,9 +130,9 @@ Colonies 15-30cm. The colony may be shaped like boulders, pillars, flattened bra
 It's hard to distinguish the different species of
 *Psammocora*
 without close examination of small features. On this website, they are grouped into
-[boulder sandpaper coral](psaboulder.md)
+[boulder sandpaper coral](psaboulder)
 (colony is boulder-shaped) and
-[crinkled sand paper coral](psacrinkled.md)
+[crinkled sand paper coral](psacrinkled)
 (colony has short crinkled branches).
 
 **Sandpapery home:**
@@ -156,10 +173,10 @@ on the
 *On this website, they are grouped by external features for convenience of display*
 *.*
 
-[Boulder sandpaper coral](psaboulder.md)
-[Crinkled sand paper coral](psacrinkled.md)
+[Boulder sandpaper coral](psaboulder)
+[Crinkled sand paper coral](psacrinkled)
 
-**[Family Psammocoridae](psammocoridae.md)**
+**[Family Psammocoridae](psammocoridae)**
 
 *Psammocora contigua*
 (Near Threatened)

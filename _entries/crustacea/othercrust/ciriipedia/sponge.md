@@ -1,10 +1,9 @@
 ---
 title: Sponge barnacle
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: sponge, barnacle, membranobalanus, longirostrum, archaeobalanidae, 
-  cirripedia, crustacea, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: sponge, barnacle, membranobalanus, longirostrum, archaeobalanidae, cirripedia,
+  crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Archaeobalanidae
 genus: Membranobalanus
@@ -24,43 +23,43 @@ superorder: Thoracicalcarea
 order: Balanomorpha
 superfamily: Balanoidea
 updated: Mar 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/sponge/050509hntg5946m3b.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/sponge/050509hntg5946m3b.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/sponge/050509hntg5946m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/sponge/050509hntg5946m3b.jpg
     caption: Pulau Hantu, May 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/sponge/080919sntd0612m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/sponge/080919sntd0612m3b.jpg
     caption: Sentosa, Sep 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/sponge/080519sisd3438m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/sponge/080519sisd3438m3b.jpg
     caption: Sisters Island, May 08
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/sponge/120819cyrmn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/sponge/120819cyrmn.jpg
     caption: Cyrene Reef, Aug 12 Photo shared by Marcus Ng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/sponge/180912tkkmn1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/sponge/180912tkkmn1.jpg
     caption: Pulau Tekukor, Sep 19 Photo shared by Marcus Ng on facebook .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/sponge/230522tptmn1.jpg
-    caption: Terumbu Pempang Tengah, May 23 Photo shared by Marcus Ng on 
-      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/sponge/230522tptmn1.jpg
+    caption: Terumbu Pempang Tengah, May 23 Photo shared by Marcus Ng on facebook
+      .
   gallery4:
   - url: https://live.staticflickr.com/8288/7812367154_acf8fbfb05_z.jpg
     caption: Cyrene Reef, Aug 12
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - *[Membranobalanus longirostrum](http://www.sealifebase.org/summary/Membranobalanus-longirostrum.html)*
+
   on SeaLife Base: Technical fact sheet.
 
+
   **References**
+
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
+
   *A Guide to Sponges of Singapore*
+
   . Singapore Science Centre. 173pp.
+
+  '
 location:
 - lab
 - snt
@@ -70,6 +69,8 @@ location:
 - hnt
 - tpg
 - smk
+size:
+- 0.5
 ---
 
 ## Where seen?

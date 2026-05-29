@@ -1,9 +1,8 @@
 ---
 title: Bottlebrush green seaweeds
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: seaweed, weed, green, chlorophyta, algae, field, guide, seashore, sea,
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: seaweed, weed, green, chlorophyta, algae, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 division: Chlorophyta
 family: Caulerpaceae
@@ -19,43 +18,48 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Jan 13
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/050513labg6494m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/050513labg6494m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/050311labg3274m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/050311labg3274m3.jpg
     caption: Labrador, Mar 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/050513labg6493m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/050513labg6493m3a.jpg
     caption: Labrador, May 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/050513labg6493m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/050513labg6493m3b.jpg
     caption: Labrador, May 05
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/080425cyrd1800m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/080425cyrd1800m3a.jpg
     caption: Cyrene Reef, Oct 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/080425cyrd1802m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/080425cyrd1802m3.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/080425cyrd1802m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/080425cyrd1802m3a.jpg
     caption: ''
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Caulerpa webbiana*](http://www.algaebase.org/search/species/detail/?species_id=4537)
+
   on
+
   [AlgaeBase](http://www.algaebase.org/)
+
   : Technical fact sheet.
 
+
   **References**
+
   - Huisman, John M. 2000.
+
   *Marine Plants of Australia*
+
   University of Western Australia Press. 300pp.
+
+  '
 location:
 - lab
 - cyr
+size:
+- 4.0
+- 6.0
 ---
 
 ## Where seen?

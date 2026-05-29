@@ -1,10 +1,9 @@
 ---
 title: Black-lipped conch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: black, lip, conch, strombus, canarium, urceus, strombidae, gastropod, 
-  mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: black, lip, conch, strombus, canarium, urceus, strombidae, gastropod, mollusc,
+  snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 23
@@ -26,8 +25,7 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Stromboidea
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/050611kusg7811m6l.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/050611kusg7811m6l.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -40,89 +38,101 @@ galleries:
       of its features are adaptations to this hopping lifestyle: flared shell, large
       eyes. It is listed among the threatened animals of Singapore.'
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/050611kusg7811m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/050611kusg7811m6l.jpg
     caption: Kusu Island, Jun 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/050611kusg7823m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/050611kusg7823m3.jpg
     caption: ''
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/090512tmlks3m3.JPG
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/090512tmlks3m3.JPG
     caption: Tanah Merah, May 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/220519ecpbrk4.jpg
-    caption: East Coast Park-Marina East, May 22 Photo shared by Richard Kuah on
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/181126lablks.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/220519ecpbrk4.jpg
+    caption: East Coast Park-Marina East, May 22 Photo shared by Richard Kuah on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/181126lablks.jpg
     caption: Labrador, Nov 18 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/100103tkkjk6m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/100103tkkjk6m3.jpg
     caption: Pulau Tekukor, Jan 10 Photo shared by James Koh on his flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/230508srpky1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/230508srpky1.jpg
     caption: Sentosa Serapong, May 23 Photo shared by Kelvin Yong on facebook .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/221127lazjk3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/221127lazjk3.jpg
     caption: Lazarus (Eagle Bay), Nov 22 Photo shared by James Koh on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/110220lazjk1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/110220lazjk1m3.jpg
     caption: Lazarus Island, Feb 11 Photo shared by James Koh on his blog
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/170211cyrmn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/170211cyrmn.jpg
     caption: Cyrene Reef, Feb 17 Photo shared by Marcus Ng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/170501tsmkmn1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/170501tsmkmn1.jpg
     caption: Terumbu Semakau, May 17 Photo shared by Marcus Ng on facebook .
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/100518bbbjk5m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/100518bbbjk5m3.jpg
     caption: Beting Bemban Besar, May 10 Photo shared by James Koh on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/110522bbblks3m3.jpg
-    caption: Beting Bemban Besar, May 11 Photo shared by Loh Kok Sheng on his 
-      blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/200310bbbky3.jpg
-    caption: Beting Bemban Besar, Mar 20 Photo shared by Kelvin Yong on facebook
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/110522bbblks3m3.jpg
+    caption: Beting Bemban Besar, May 11 Photo shared by Loh Kok Sheng on his blog
       .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/200310bbbky3.jpg
+    caption: Beting Bemban Besar, Mar 20 Photo shared by Kelvin Yong on facebook .
   gallery8:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/220201brklks15.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/220201brklks15.jpg
     caption: Pulau Berkas, Feb 22 Photo shared by Loh Kok Sheng on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Little pitcher conch (
+
   *Strombus urceus*
+
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86879)
+
   on SeaLife Base: Technical fact sheet.
+
   - [Black-lipped conch (
+
   *Strombus urceus*
+
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=199)
+
   on the NParks Flora and Fauna website.
+
   - Little pitcher conch (
+
   *Strombus urceus*
-  ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+
+  ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide
+  for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
+
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
+
   **References**
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Tan, K. S. & L. M. Chou, 2000.
+
   *A Guide to the Common Seashells of Singapore*
+
   . Singapore Science Centre. 160 pp.
+
   - Abbott, R. Tucker, 1991.
+
   *Seashells of South East Asia*
+
   . Graham Brash, Singapore. 145 pp.
+
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+
   . Nature Society (Singapore). 285 pp.
+
+  '
 location:
 - chg
 - cj
@@ -143,6 +153,9 @@ location:
 - smk
 - tsm
 - lfa
+size:
+- 3.0
+- 5.0
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

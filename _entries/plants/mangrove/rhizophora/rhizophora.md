@@ -19,55 +19,77 @@ updated: Jan 2013
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/091005cjd2271m3a.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/apiculata/070520smkd1226m3.jpg"
-      caption: Often with a 'skirt' of many prop roots.
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090802ubind8187m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/stylosa/070520smkd1221m3.jpg"
-      caption: With looping stilt roots that can extend some distance from the tree.
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/apiculata/070520smkg9543m3.jpg"
-      caption: Flower on very short stalks.
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090517ubnd1957m3.jpg"
-      caption: Flowers on long branching stalks.
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/stylosa/090809sjid8828m3.jpg"
-      caption: Flowers on long branching stalks.
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/apiculata/030622cjd0054m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090801prpd8011m3b.jpg"
-      caption: Shorter style
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/stylosa/120219smkd7218m3a.jpg"
-      caption: Longer style.
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/apiculata/040131sbwrd0106m3a.jpg"
-      caption: "Fruit on very short stalk, almost stuck to the branch."
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090809sjid8838m3a.jpg"
-      caption: Fruit on stalks. Fruit large compared to sepals.
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/stylosa/090809sjid8827m3a.jpg"
-      caption: Fruit on stalks. Fruit not so large compared to sepals.
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/apiculata/090315smkd8295m6la.jpg"
-      caption: Usually a bent hypocotyl.
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090801prpd8013m6l.jpg"
-      caption: Very long hypocotyl.
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/stylosa/090315smkd8283m6l.jpg"
-      caption: Hypocotyl not so long.
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/apiculata/070520smkd1226m3.jpg
+    caption: Often with a 'skirt' of many prop roots.
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090802ubind8187m3.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/stylosa/070520smkd1221m3.jpg
+    caption: With looping stilt roots that can extend some distance from the tree.
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/apiculata/070520smkg9543m3.jpg
+    caption: Flower on very short stalks.
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090517ubnd1957m3.jpg
+    caption: Flowers on long branching stalks.
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/stylosa/090809sjid8828m3.jpg
+    caption: Flowers on long branching stalks.
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/apiculata/030622cjd0054m3a.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090801prpd8011m3b.jpg
+    caption: Shorter style
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/stylosa/120219smkd7218m3a.jpg
+    caption: Longer style.
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/apiculata/040131sbwrd0106m3a.jpg
+    caption: Fruit on very short stalk, almost stuck to the branch.
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090809sjid8838m3a.jpg
+    caption: Fruit on stalks. Fruit large compared to sepals.
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/stylosa/090809sjid8827m3a.jpg
+    caption: Fruit on stalks. Fruit not so large compared to sepals.
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/apiculata/090315smkd8295m6la.jpg
+    caption: Usually a bent hypocotyl.
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090801prpd8013m6l.jpg
+    caption: Very long hypocotyl.
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/stylosa/090315smkd8283m6l.jpg
+    caption: Hypocotyl not so long.
+links_references: '**Links**
+
   - [Bakau (
-  *Rhizophora*](http://mangrove.nus.edu.sg/guidebooks/text/1069.md)
+
+  *Rhizophora*](http://mangrove.nus.edu.sg/guidebooks/text/1069)
+
   ) Ng, Peter K. L. & N. Sivasothi, 1999.
+
   *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)
+
   I (Plant Diversity)*
+
   . Singapore Science Centre. 168 pp.
+
   - [*Rhizophora apiculata*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3265)
+
   and
+
   [*Rhizophora mucronata*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=4639)
+
   and
+
   [*Rhizophora stylosa*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=5200)
+
   on the NParks Flora and Fauna website: photos and fact sheet.
+
   - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.md)
-  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
+
+  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
+
+  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization
+  of the United Nations Regional Office for Asia and the Pacific Bangkok.
+
   - [Cork warts and aerenchyma pressurize internal airflow: mangrove](http://www.asknature.org/strategy/f03594e44137da289a46047291aafc17)
+
   on AskNature.
+
+  '
+size:
+- 8.0
+- 15.0
 ---
 
 ## Where seen?

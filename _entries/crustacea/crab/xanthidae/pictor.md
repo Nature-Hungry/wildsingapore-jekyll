@@ -1,10 +1,9 @@
 ---
 title: 'Mosaic reef crab '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: mosaic, xanthid, crab, lophozozymus, pictor, xanthidae, decapod, 
-  crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: mosaic, xanthid, crab, lophozozymus, pictor, xanthidae, decapod, crustacea,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 attributes:
 - 38
@@ -32,156 +31,153 @@ zoosubsection: Heterotremata
 superfamily: Xanthoidea
 subfamily: Zosiminae
 updated: Dec 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/100725hnttch2m6l.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/100725hnttch2m6l.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/100725hnttch2m6l.jpg
-    caption: Eating a clam. Pulau Hantu, Jul 10 Photo shared by Toh Chay Hoon on
-      her blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/091106smkd3813m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/100725hnttch2m6l.jpg
+    caption: Eating a clam. Pulau Hantu, Jul 10 Photo shared by Toh Chay Hoon on her
+      blog .
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/091106smkd3813m3.jpg
     caption: Pulau Semakau, Nov 09
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/090509sisjg1m3.jpg
-    caption: Eating a Long-spined black sea urchin . Sisters Island, May 09 
-      Photo shared by Janette Goh on her blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/090510hntjg2m3.jpg
-    caption: Eating a Common sea star . Pulau Hantu, May 09 Photo shared by 
-      Janette Goh on her blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/251008bbbky9.jpg
-    caption: Eating a Common sea star . Beting Bemban Besar, Oct 25 Photo shared
-      by Kelvin Yong on facebook
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/090509sisjg1m3.jpg
+    caption: Eating a Long-spined black sea urchin . Sisters Island, May 09 Photo
+      shared by Janette Goh on her blog .
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/090510hntjg2m3.jpg
+    caption: Eating a Common sea star . Pulau Hantu, May 09 Photo shared by Janette
+      Goh on her blog .
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/251008bbbky9.jpg
+    caption: Eating a Common sea star . Beting Bemban Besar, Oct 25 Photo shared by
+      Kelvin Yong on facebook
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/160607bbro5.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/160607bbro5.jpg
     caption: Beting Bronok, Jun 16 Photo shared by Rene Ong on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/210528lygjll6.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/210528lygjll6.jpg
     caption: Changi Loyang, May 21 Photo shared by Jianlin Liu on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/170626skdlks3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/170626skdlks3.jpg
     caption: Pulau Sekudu, Jun 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/200706skdlks7.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/200706skdlks7.jpg
     caption: Pulau Sekudu, Jul 20 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/251011tgrlks30.jpg
-    caption: Sentosa Tg Rimau, Oct 25 Photo shared by Loh Kok Sheng on facebook 
-      .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/250131tkkll3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/251011tgrlks30.jpg
+    caption: Sentosa Tg Rimau, Oct 25 Photo shared by Loh Kok Sheng on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/250131tkkll3.jpg
     caption: Pulau Tekukor, Jan 25 Photo shared by Liz Lim on facebook .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/240113lazlks4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/240113lazlks4.jpg
     caption: Lazarus Island, Jan 24 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/240624sjitt2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/240624sjitt2.jpg
     caption: St John's Island, Jun 24 Photo shared by Tommy Tan on facebook .
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/090430jnglks01m3.JPG
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/090430jnglks01m3.JPG
     caption: Pulau Jong, Apr 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/150219cyrlks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/150219cyrlks.JPG
     caption: Cyrene Reef, Feb 15 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/250726cyrtl3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/250726cyrtl3.jpg
     caption: Cyrene, Jul 25 Photo shared by Tammy Lim on facebook .
   gallery8:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/100627hntjk4m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/100627hntjk4m3.jpg
     caption: Pulau Hantu, Jun 10 Photo shared by James Koh on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/090208smklksp13m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/090208smklksp13m3.jpg
     caption: Pulau Semakau, Feb 09 Photo shared by Loh Kok Sheng on his blog .
   gallery9:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/230221tryky4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/230221tryky4.jpg
     caption: Terumbu Raya, Feb 23 Photo shared by Kelvin Yong on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/110717tblks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/110717tblks.JPG
     caption: Terumbu Bemban, Jul 11 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/210629bbbrk2.jpg
-    caption: Beting Bemban Besar, Jun 21 Photo shared by Richard Kuah on 
-      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/210629bbbrk2.jpg
+    caption: Beting Bemban Besar, Jun 21 Photo shared by Richard Kuah on facebook
+      .
   gallery10:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/110517tptlks21m3.jpg
-    caption: Terumbu Pempang Tengah, May 11 Photo shared by Loh Kok Sheng on his
-      blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/181223tplll3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/110517tptlks21m3.jpg
+    caption: Terumbu Pempang Tengah, May 11 Photo shared by Loh Kok Sheng on his blog
+      .
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/181223tplll3.jpg
     caption: Terumbu Pempang Laut, Dec 18 Photo shared by Liz Lim on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/240310tplky1.jpg
-    caption: Terumbu Pempang Laut, Mar 24 Photo shared by Kelvin Yong on 
-      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/240310tplky1.jpg
+    caption: Terumbu Pempang Laut, Mar 24 Photo shared by Kelvin Yong on facebook
+      .
   gallery11:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/161117rlhlks12.jpg
-    caption: Raffles Lighthouse, Nov 16 Photo shared by Loh Kok Sheng on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/220102biotch5.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/161117rlhlks12.jpg
+    caption: Raffles Lighthouse, Nov 16 Photo shared by Loh Kok Sheng on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/220102biotch5.jpg
     caption: Pulau Biola, Jan 22 Photo shared by Toh Chay Hoon on facebook .
   gallery12:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/210428slulks6.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/210428slulks6.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/100810sngd9970m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/100810sngd9970m3.jpg
     caption: Pulau Senang, Aug 10
   gallery13:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/100131slulks3m3.jpg
-    caption: Terumbu Salu, Jan 10 Photo shared by Loh Kok Sheng h on his flickr 
-      .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/091204pawjk6m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/100131slulks3m3.jpg
+    caption: Terumbu Salu, Jan 10 Photo shared by Loh Kok Sheng h on his flickr .
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/091204pawjk6m3.jpg
     caption: Pulau Pawai, Dec 09 Photo shared by James Koh on his flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/091205sudjk4m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/091205sudjk4m3.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by James Koh on his flickr .
-links_references: |
-  **Links**
-  - [Poisonous Xanthid Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/252.md)
+links_references: '**Links**
+
+  - [Poisonous Xanthid Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/252)
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
+
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+
   . The Singapore Science Centre, Singapore. 160 pp.
+
   - [Mosaic reef crab (
+
   *Lophozozymus pictor*
+
   )](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=139345&genusname=Lophozozymus&speciesname=pictor)
+
   on
+
   [SeaLife Base](http://www.sealifebase.fisheries.ubc.ca/search.php)
+
   : Technical fact sheet.
+
   - [*Lophozozymus pictor*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1271)
+
   Crabs of Japan, on Marine Species Identification Portal: Technical fact sheet.
 
+
   **References**
+
   - Chou, L. M., 1998.
+
   *A Guide to the Coral Reef Life of Singapore*
+
   . Singapore Science Centre. 128 pages.
+
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
+
   *Rhythm of the Sea: The Life and Times of Labrador Beach.*
-  Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+
+  Division of Biology, School of Science, Nanyang Technological University & Department
+  of Zoology, the National University of Singapore. 160 pp.
+
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+
   . Nature Society (Singapore). 285 pp.
+
   - Gopalakrishnakone P., 1990.
+
   *A Colour Guide to Dangerous Animals*
-  . Venom & Toxin Research Group, Faculty of Medicine, National University of Singapore. 156 pp.
+
+  . Venom & Toxin Research Group, Faculty of Medicine, National University of Singapore.
+  156 pp.
+
   - Jones Diana S. and Gary J. Morgan, 2002.
+
   *A Field Guide to Crustaceans of Australian Waters*
+
   . Reed New Holland. 224 pp.
+
+  '
 location:
 - chg
 - cj
@@ -202,6 +198,9 @@ location:
 - tsm
 - rfl
 - lfa
+size:
+- 8.0
+- 10.0
 ---
 
 ## Where seen?
@@ -214,7 +213,7 @@ Pincers short, both about equal in size, with black tips. Walking legs hairy wit
 
 **Crab of Death:**
 It is the
-[most poisonous crab](xanthidae.md)
+[most poisonous crab](xanthidae)
 of Singapore! There are several documented deaths caused by eating this crab. Cooking does not destroy the toxins. The crab is believed to obtain the toxins from the food it eats, including a poisonous sea cucumber.
 
 **How to stay safe:**

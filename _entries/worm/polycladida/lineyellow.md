@@ -1,10 +1,9 @@
 ---
 title: Yellow-lined flatworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: elegant, striped, blue, lined, flat, worm, flatworm, pseudoceros, 
-  polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, 
-  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: elegant, striped, blue, lined, flat, worm, flatworm, pseudoceros, polyclad,
+  turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Pseudocerotidae
 genus: Pseudoceros
@@ -18,45 +17,33 @@ subphylum: Rhabditophora
 order: Polycladida
 suborder: Cotylea
 updated: Feb 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/worm/polycladida/lineyellow/031025cjd0042m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineyellow/031025cjd0042m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineyellow/031025cjd0042m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineyellow/031025cjd0042m3.jpg
     caption: With a blue-and-yellow line. Chek Jawa, Oct 03
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineyellow/031025cjd0042m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineyellow/031025cjd0042m3a.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineyellow/230606cjky4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineyellow/230606cjky4.jpg
     caption: Chek Jawa, Jun 23 Photo shared by Kelvin Yong on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineyellow/230606cjjll2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineyellow/230606cjjll2.jpg
     caption: Chek Jawa, Jun 23 Photo shared by Jianlin Liu on facebook .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineyellow/210401sntrk1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineyellow/210401sntrk1.jpg
     caption: Sentosa Tg Rimau, Apr 21 Photo shared by Richard Kuah on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineyellow/070902sjitch01m3.jpg
-    caption: St. John's Island, Sep 07 Photo shared by Toh Chay Hoon on her 
-      flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineyellow/070902sjilksm3.JPG
-    caption: St. John's Island, Sep 07 Photo shared by Loh Kok Sheng on his blog
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineyellow/070902sjitch01m3.jpg
+    caption: St. John's Island, Sep 07 Photo shared by Toh Chay Hoon on her flickr
       .
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineyellow/070902sjilksm3.JPG
+    caption: St. John's Island, Sep 07 Photo shared by Loh Kok Sheng on his blog .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineyellow/180912tkkdc2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineyellow/180912tkkdc2.jpg
     caption: Pulau Tekukor, Sep 18 Photo shared by Dayna Cheah on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineyellow/110702lzrlks9m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineyellow/110702lzrlks9m3.jpg
     caption: Lazarus, Jul 11 Shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/lineyellow/110814smklks7m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineyellow/110814smklks7m3.jpg
     caption: Pulau Semakau, Aug 11 Photo shared by Lok Kok Sheng on his blog .
 location:
 - cj
@@ -66,6 +53,9 @@ location:
 - laz
 - sji
 - smk
+size:
+- 2.0
+- 4.0
 ---
 
 ## Where seen?
@@ -77,7 +67,7 @@ This small flatworm is sometimes seen on some of our shores, on coral rubble nea
 
 **Sometimes mistaken for**
 similar flatworms. Here's more on how to tell apart small flatworms with
-[one central line and three central lines](cfstriped.md)
+[one central line and three central lines](cfstriped)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 ***

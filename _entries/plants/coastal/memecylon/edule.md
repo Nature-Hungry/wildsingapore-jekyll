@@ -25,44 +25,67 @@ updated: Oct 2016
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/memecylon/edule/041031cjd7943m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/memecylon/edule/041031cjd7943m3.jpg"
-      caption: "Chek Jawa, Oct 04"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/memecylon/edule/080720cjd8074m3a.jpg"
-      caption: "Chek Jawa, Jul 08"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/memecylon/edule/070422cjg8983m3.jpg"
-      caption: "Chek Jawa, Apr 07"
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/memecylon/edule/041031cjd7943m3.jpg
+    caption: Chek Jawa, Oct 04
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/memecylon/edule/080720cjd8074m3a.jpg
+    caption: Chek Jawa, Jul 08
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/memecylon/edule/070422cjg8983m3.jpg
+    caption: Chek Jawa, Apr 07
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/memecylon/edule/100630sntd7793m6l.jpg"
-      caption: "Sentosa, Jun 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/memecylon/edule/091005cjd2334m6l.jpg"
-      caption: "Chek Jawa, Oct 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/memecylon/edule/091226cjd6360m6l.jpg"
-      caption: "Chek Jawa, Dec 09"
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/memecylon/edule/100630sntd7793m6l.jpg
+    caption: Sentosa, Jun 10
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/memecylon/edule/091005cjd2334m6l.jpg
+    caption: Chek Jawa, Oct 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/memecylon/edule/091226cjd6360m6l.jpg
+    caption: Chek Jawa, Dec 09
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/memecylon/edule/020601cjcpd0058m3.jpg"
-      caption: "Chek Jawa, Jun 02"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/memecylon/edule/091005cjd2287m3a.jpg"
-      caption: "Leaves dip in seawater at high tide. Chek Jawa, Oct 09"
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/memecylon/edule/020601cjcpd0058m3.jpg
+    caption: Chek Jawa, Jun 02
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/memecylon/edule/091005cjd2287m3a.jpg
+    caption: Leaves dip in seawater at high tide. Chek Jawa, Oct 09
+links_references: '**Links**
+
   - [*Memecylon edule*](http://floraofsingapore.wordpress.com/2010/08/10/memecylon-edule/)
+
   on Total Vascular Flora of Singapore Online: photos and fact sheet.
+
   - [*Memecylon edule*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3993)
+
   on the NParks Flora and Fauna website: photos and fact sheet.
-  
+
+
   **References**
+
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
+
   *The Concise Flora of Singapore: Gymnosperms and Dicotyledons*
+
   . Singapore University Press. 222 pp.
+
   - Burkill, I. H., 1993.
+
   *A Dictionary of the Economic Products of the Malay Peninsula*
-  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
+
+  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
+  Volume 1: 1-1240; volume 2: 1241-2444.
+
   - Corners, E. J. H., 1997.
+
   *Wayside Trees of Malaya: in two volumes*
-  . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
+
+  . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates
+  1-38; volume 2: 477-861 pp., plates 139-236.
+
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+
   . Nature Society (Singapore). 285 pp.
+
+  '
+size:
+- 300.0
+- 700.0
 ---
 
 ## Where seen?

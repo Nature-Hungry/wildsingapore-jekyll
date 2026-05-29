@@ -1,10 +1,9 @@
 ---
 title: Three-spot flounder
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: many, eyed, flat, fish, flatfish, flounder, bothidae, grammatobothus, 
-  polyophthalmus, soleidae, pleuronectiformes,  field, guide, seashore, sea, 
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: many, eyed, flat, fish, flatfish, flounder, bothidae, grammatobothus, polyophthalmus,
+  soleidae, pleuronectiformes,  field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 9
@@ -25,43 +24,30 @@ superorder: Acanthomorpha
 order: Carangiformes
 suborder: Pleuronectoidei
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/bothidae/polyophthalmus/080509cyrd2745m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/bothidae/polyophthalmus/080509cyrd2745m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/bothidae/polyophthalmus/080509cyrd2745m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/bothidae/polyophthalmus/080509cyrd2745m3.jpg
     caption: Cyrene Reef, May 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/bothidae/polyophthalmus/080509cyrd2745m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/bothidae/polyophthalmus/080509cyrd2745m3b.jpg
     caption: Eyes on the left side.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/bothidae/polyophthalmus/080509cyrd2745m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/bothidae/polyophthalmus/080509cyrd2745m3a.jpg
     caption: Tail fin separated from the dorsal and anal fins .
-links_references: |
-  **Links**
-  - [Threespot flounder (
-  *Grammatobothus polyophthalmus*
-  )](http://www.fishbase.org/summary/6638)
-  from
-  [FishBase](http://www.fishbase.org/)
-  : Technical fact sheet.
-
-  **References**
-  - Kelvin K. P. Lim.
-  *Singapore record of largescale flounder, Engyprosopon grandisquama*
-  . 16 April 2018. Singapore Biodiversity Records 2018: 45 ISSN 2345-7597. National University of Singapore
-  - Kelvin K. P. Lim. 30 Jun 2017.
-  *First Singapore record of the Günther’s flounder. Laeops guentheri*
-  . Singapore Biodiversity Records 2014: 187.
-  - Kelvin K. P. Lim and Ria Tan. 11 Jul 2014.
-  *New record of many-eyed flounder (Grammatobothus polyophthalmus) in Singapore*
-  . Singapore Biodiversity Records 2014: 187.
-  - Toh Chay Hoon & Kelvin K. P. Lim. 28 March 2014.
-  *New record of intermediate flounder in Singapore*
-  . Singapore Biodiversity Records 2014: 84-85
+links_references: "**Links**\n- [Threespot flounder (\n*Grammatobothus polyophthalmus*\n\
+  )](http://www.fishbase.org/summary/6638)\nfrom\n[FishBase](http://www.fishbase.org/)\n\
+  : Technical fact sheet.\n\n**References**\n- Kelvin K. P. Lim.\n*Singapore record\
+  \ of largescale flounder, Engyprosopon grandisquama*\n. 16 April 2018. Singapore\
+  \ Biodiversity Records 2018: 45 ISSN 2345-7597. National University of Singapore\n\
+  - Kelvin K. P. Lim. 30 Jun 2017.\n*First Singapore record of the G\xFCnther\u2019\
+  s flounder. Laeops guentheri*\n. Singapore Biodiversity Records 2014: 187.\n- Kelvin\
+  \ K. P. Lim and Ria Tan. 11 Jul 2014.\n*New record of many-eyed flounder (Grammatobothus\
+  \ polyophthalmus) in Singapore*\n. Singapore Biodiversity Records 2014: 187.\n-\
+  \ Toh Chay Hoon & Kelvin K. P. Lim. 28 March 2014.\n*New record of intermediate\
+  \ flounder in Singapore*\n. Singapore Biodiversity Records 2014: 84-85\n"
 location:
 - cyr
+size:
+- 17.0
 ---
 
 ## Where seen?
@@ -72,11 +58,11 @@ To about 17cm. Eyes on the left side. Body oval almost circular, it has a tiny p
 
 **Sometimes confused with**
 other
-[flatfishes](../pleuronectiformes/pleuronectiformes.md)
+[flatfishes](../pleuronectiformes/pleuronectiformes)
 . The
-[Large-toothed flounder](../paralichthyidae/paralichthyidae.md)
+[Large-toothed flounder](../paralichthyidae/paralichthyidae)
 (Family Paralichthyidae) looks very similar but is more oval and has more smaller spots. Here's more on
-[how to tell apart the flatfish families](../pleuronectiformes/pleuronectiformes1.md)
+[how to tell apart the flatfish families](../pleuronectiformes/pleuronectiformes1)
 commonly seen.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

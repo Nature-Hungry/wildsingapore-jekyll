@@ -24,56 +24,98 @@ updated: Jan 2013
 coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/090816ubind9120m6la.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/090410ubnd9278m3.jpg"
-      caption: "Bark deeply fissured. Pulau Ubin, Apr 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/090315smkd8194m3b.jpg"
-      caption: "Stamens much longer than petals. Pulau Semakau, Jan 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/090315smkd8194m3.jpg"
-      caption: "Pulau Semakau, Jan 09"
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/090410ubnd9278m3.jpg
+    caption: Bark deeply fissured. Pulau Ubin, Apr 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/090315smkd8194m3b.jpg
+    caption: Stamens much longer than petals. Pulau Semakau, Jan 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/090315smkd8194m3.jpg
+    caption: Pulau Semakau, Jan 09
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/090112smkd4965m3.jpg"
-      caption: "Pulau Semakau, Jan 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/091115ubnd4139m3.jpg"
-      caption: "Pulau Semakau, Nov 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/081213smkd3025m3a.jpg"
-      caption: "Pulau Semakau, Dec 12"
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/090112smkd4965m3.jpg
+    caption: Pulau Semakau, Jan 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/091115ubnd4139m3.jpg
+    caption: Pulau Semakau, Nov 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/081213smkd3025m3a.jpg
+    caption: Pulau Semakau, Dec 12
+links_references: '**Links**
+
   - [*Lumnitzera littorea*](http://floraofsingapore.wordpress.com/2010/08/14/lumnitzera-littorea/)
+
   on Total Vascular Flora of Singapore Online: photos and fact sheet.
+
   - [*Lumnitzera littorea*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3266)
+
   [https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=6232](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=6232)
+
   on the NParks Flora and Fauna website: photos and fact sheet.
+
   - [Teruntum merah (
+
   *Lumnitzera littorea*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/1065.md)
+
+  )](http://mangrove.nus.edu.sg/guidebooks/text/1065)
+
   Ng, Peter K. L. & N. Sivasothi, 1999.
+
   *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)
+
   I (Plant Diversity)*
+
   . Singapore Science Centre. 168 pp.
+
   - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.md)
-  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
-  
+
+  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
+
+  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization
+  of the United Nations Regional Office for Asia and the Pacific Bangkok.
+
+
   **References**
+
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
+
   *The Concise Flora of Singapore: Gymnosperms and Dicotyledons*
+
   . Singapore University Press. 222 pp.
+
   - Corners, E. J. H., 1997.
+
   *Wayside Trees of Malaya: in two volumes*
-  . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
+
+  . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates
+  1-38; volume 2: 477-861 pp., plates 139-236.
+
   - Tomlinson, P. B., 1986.
+
   *The Botany of Mangroves*
+
   Cambridge University Press. USA. 419 pp.
+
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+
   . Nature Society (Singapore). 285 pp.
+
   - Ng, Peter K. L. and Wang Luan Keng and Kelvin K. P. Lim, 2008.
-  *Private Lives: An Expose of Singapore's Mangroves*
+
+  *Private Lives: An Expose of Singapore''s Mangroves*
+
   . The Raffles Museum of Biodiversity Research . 249 pp.
+
   - Burkill, I. H., 1993.
+
   *A Dictionary of the Economic Products of the Malay Peninsula*
-  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
+
+  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
+  Volume 1: 1-1240; volume 2: 1241-2444.
+
+  '
+size:
+- 50.0
+- 65.0
+- 2500.0
 ---
 
 ## Where seen?
@@ -92,7 +134,7 @@ Flowers small (2-3cm) in dense bunches, bright red with five tiny petals (the st
 The small fruits are ribbed, corky and float, and dispersed by water. Each fruit contains one seed.
 
 **Sometimes mistaken for**
-[Chengam](../scyphiphora/hydrophyllacea.md)
+[Chengam](../scyphiphora/hydrophyllacea)
 (
 *Scyphiphora hydrophyllacea*
 ) which has its leaves arranged in a spiral.

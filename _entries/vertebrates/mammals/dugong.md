@@ -23,50 +23,94 @@ updated: Jan 2021
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/dugong/060607rmbr1m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/dugong/060607rmbr1m6l.jpg"
-      caption: "Dead dugong washed up on Pulau Tekong, Jun 06 Photos from Raffles Museum news ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/dugong/070120cjm3.jpg"
-      caption: "Dugong feeding trail. Chek Jawa, Jan 07"
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/dugong/060607rmbr1m6l.jpg
+    caption: Dead dugong washed up on Pulau Tekong, Jun 06 Photos from Raffles Museum
+      news .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/dugong/070120cjm3.jpg
+    caption: Dugong feeding trail. Chek Jawa, Jan 07
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/dugong/b6m6l.jpg"
-      caption: "Gracie the captive dugong at Underwater World Sentosa on her 12th birthday Jan 09, from Channel NewsAsia ."
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/dugong/b6m6l.jpg
+    caption: Gracie the captive dugong at Underwater World Sentosa on her 12th birthday
+      Jan 09, from Channel NewsAsia .
+links_references: '**Links**
+
   - [Latest media reports about dugongs](http://wildsingaporenews.blogspot.com/search/label/dugongs)
+
   on the wildsingapore news blog. See also
+
   [seagrasses](http://wildsingaporenews.blogspot.com/search/label/seagrasses)
+
   .
-  - ["Mermaids": Urgent Action Needed to Save them from Habitat Destruction, Pollution and Entanglement in Fishing Nets](http://www.unep.org/Documents.Multilingual/Default.asp?DocumentID=235&ArticleID=3009&l=en)
-  UNEP 12 Feb 02: about the first global study of dugongs led by Prof Helene Marsh: full details on global distribution, conservation and legislation on dugongs including for Singapore and Johor. With a
+
+  - ["Mermaids": Urgent Action Needed to Save them from Habitat Destruction, Pollution
+  and Entanglement in Fishing Nets](http://www.unep.org/Documents.Multilingual/Default.asp?DocumentID=235&ArticleID=3009&l=en)
+
+  UNEP 12 Feb 02: about the first global study of dugongs led by Prof Helene Marsh:
+  full details on global distribution, conservation and legislation on dugongs including
+  for Singapore and Johor. With a
+
   [summary of the report](http://www.unep.org/dewa/reports/dugongreport.asp)
+
   and
+
   [full report](http://www.unep.org/dewa/Docs/DUGONG.pdf)
+
   (PDF).
+
   - [Dugong: Status Report and Action Plans for Countries and Territories](http://www.tesag.jcu.edu.au/dugong/doc/dugongactplan.pdf)
-  (PDF file) by Helen Marsh, IUCN/SSC Sirenia Specialist Group: full details on global distribution, conservation and legislation on dugongs.
+
+  (PDF file) by Helen Marsh, IUCN/SSC Sirenia Specialist Group: full details on global
+  distribution, conservation and legislation on dugongs.
+
   - [Rescued dugong at Underwater World celebrates 12th birthday](http://wildsingaporenews.blogspot.com/2009/01/rescued-dugong-at-underwater-world.html)
+
   Imelda Saad, Channel NewsAsia 13 Jan 09.
+
   - *[Dugong dugon](https://singapore.biodiversity.online/taxo4254/mainSpace/Dugong%20dugon.html)*
+
   (Sirenia: Dugongidae) Dugong by Nguyen Kieu Trang, 2014, on taxo4254.
+
   - From the wild shores of singapore blog
+
   - [2011 is Pacific Year of the Dugong](http://wildshores.blogspot.com/2011/03/2011-is-pacific-year-of-dugong.html)
+
   - [Dugongs hunted in Thailand are smuggled to Singapore](http://wildshores.blogspot.com/2009/03/dugongs-hunted-in-thailand-are-smuggled.html)
-  - [Dugong's last moments a frantic fight for survival](http://wildshores.blogspot.com/2009/10/dugongs-last-moments-frantic-fight-for.html)
+
+  - [Dugong''s last moments a frantic fight for survival](http://wildshores.blogspot.com/2009/10/dugongs-last-moments-frantic-fight-for.html)
+
   - [Dugong blimp cam survey at Sungai Pulai](http://wildshores.blogspot.com/2010/01/dugong-blimp-cam-survey-at-sungai-pulai.html)
-  
+
+
   **References**
+
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+
   . Nature Society (Singapore). 285 pp.
+
   - Ripple, Jeff, 1999.
+
   *Manatees and Dugongs of the World*
+
   Voyageur Press, USA. 144 pp.
+
   - Nowak, Ronald M. 2003.
-  *Walker's Marine Mammals of the World*
+
+  *Walker''s Marine Mammals of the World*
+
   . The Johns Hopkins University Press. 263 pp.
+
   - Francis, Charles M. 2001.
+
   *Mammals of South-East Asia*
+
   New Holland Publishers. 128 pp.
+
+  '
+size:
+- 240.0
+- 270.0
 ---
 
 ## Where seen?
@@ -85,7 +129,7 @@ A dugong's mouth faces downwards to munch on seagrass and it has large, grinding
 the manatee. The natural range of the manatee is in the tropical coasts of the Americas and Western Africa. While the dugong's natural range is from Eastern Africa, the Red Sea, through India and Southeast Asia to Australia. While the manatee has a circular tail fluke, dugongs have a forked tail fluke.
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**What does it eat?**
-[Seagrass](../../../wildshores/vertebrata/others/g002.md)
+[Seagrass](../../../wildshores/vertebrata/others/g002)
 is the dugong's main food.
 So not surprisingly, it is also sometimes called the Sea Cow! It pulls out a mouthful of seagrasses with its thick lips, shakes it to get rid of the sand and then swallows. Dugong feeding trails are formed when dugongs chomp up seagrasses including their roots, leaving a shallow meandering furrow of about equal width and depth. A dugong often 'cultivates' a favourite patch of seagrass by cropping it frequently. This promotes faster growth of young tender leaves which the dugong prefers to eat.
 The dugong one of the few large animals that can digest fresh seagrass.

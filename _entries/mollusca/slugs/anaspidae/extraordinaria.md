@@ -1,11 +1,9 @@
 ---
 title: Extraordinary sea hare
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: extraordinary, seahare, hare, aplysia, extraordinaria, anaspidea, 
-  aplysiidae, bursatella, leachii, opisthobranch, gastropod, mollusc, field, 
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: extraordinary, seahare, hare, aplysia, extraordinaria, anaspidea, aplysiidae,
+  bursatella, leachii, opisthobranch, gastropod, mollusc, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Aplysiidae
 genus: Aplysia
@@ -22,40 +20,30 @@ subterclass: Tectipleura
 order: Aplysiida
 superfamily: Aplysioidea
 updated: May 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/050410kusg4346m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/050410kusg4346m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/050410kusg4346m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/050410kusg4346m3.jpg
     caption: Kusu Island, Apr 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/050410kusg4346m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/050410kusg4346m3b.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/050410kusg4346m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/050410kusg4346m3a.jpg
     caption: Large, flappy tentacles.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/160208smkso2080102.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/160208smkso2080102.jpg
     caption: Half buried in soft sediments. Pulau Semakau, Feb 16
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/160208smkso2080101.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/160208smkso2080101.jpg
     caption: Releasing purple ink. Pulau Semakau, Feb 16
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/060301kusg5370m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/060301kusg5370m3.jpg
     caption: Kusu Island, Mar 06
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/100402cyrtch2m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/100402cyrtch2m3.jpg
     caption: Cyrene Reef, Apr 10 Photo shared by Toh Chay Hoon on her blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/100402cyrtch2m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/100402cyrtch2m3b.jpg
     caption: A mating pair with one nestled between the parapodia of another!
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/100517jngjk.JPG
-    caption: One sea hare nestled in between the parapodia of another. Pulau 
-      Jong, May 10 Photo shared by James Koh on flickr .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/100517jngjk.JPG
+    caption: One sea hare nestled in between the parapodia of another. Pulau Jong,
+      May 10 Photo shared by James Koh on flickr .
   gallery4:
   - url: https://live.staticflickr.com/1485/24882718476_c86bb964c3_z.jpg
     caption: ''
@@ -63,68 +51,73 @@ galleries:
   - url: https://live.staticflickr.com/5833/23917769951_a95c9aed46_z.jpg
     caption: ''
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/090808tmd8561m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/090808tmd8561m3.jpg
     caption: Tanah Merah, Aug 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/090706tmftd6569m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/090706tmftd6569m3.jpg
     caption: Tanah Merah, Jul 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/090808tmd8563m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/090808tmd8563m3.jpg
     caption: Tanah Merah, Aug 09
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/130211sjilks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/130211sjilks.JPG
     caption: St John's Island, Feb 13 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/100529kusjk4m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/100529kusjk4m3.jpg
     caption: Kusu Island, May 10 Photo shared by James Koh on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/190123lazay1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/190123lazay1.jpg
     caption: Lazarus, Jan 19 Photo shared by Abel Yeo on facebook .
   gallery8:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/100517jnglks1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/100517jnglks1m3.jpg
     caption: Pulau Jong, May 10 Photo shared by Loh Kok Sheng on his blog .
   gallery9:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/210113smkwjll4.jpg
-    caption: Pulau Semakau (West), Jan 21 Photo shared by Jianlin Liu on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/240412tbtl2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/210113smkwjll4.jpg
+    caption: Pulau Semakau (West), Jan 21 Photo shared by Jianlin Liu on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/240412tbtl2.jpg
     caption: Terumbu Bemban, Apr 24 Photo shared by Tammy Lim on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/210811trylks1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/210811trylks1.jpg
     caption: Terumbu Raya, Aug 21 Photo shared by Loh Kok Sheng on facebook .
   gallery10:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/160208smkslks.JPG
-    caption: Pulau Semakau South, Feb 16 Photo shared by Loh Kok Sheng on his 
-      blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/110422tpljk1m3.jpg
-    caption: Terumbu Pempang Laut, Apr 11 Photo shared by James Koh on his blog 
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/160208smkslks.JPG
+    caption: Pulau Semakau South, Feb 16 Photo shared by Loh Kok Sheng on his blog
       .
-links_references: |
-  **Links**
-  - [Sea Slug Forum](http://www.seaslugforum.net/welcome.md)
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/110422tpljk1m3.jpg
+    caption: Terumbu Pempang Laut, Apr 11 Photo shared by James Koh on his blog .
+links_references: '**Links**
+
+  - [Sea Slug Forum](http://www.seaslugforum.net/welcome)
+
   by Dr Bill Rudman: photos and fact sheet on
+
   *[Aplysia extraordinaria](http://www.seaslugforum.net/find/aplyextr)*
 
+
   **References**
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Wells, Fred E. and Clayton W. Bryce. 2000.
-  *Slugs of Western Australia: A guide to the species from the Indian to West Pacific Oceans*
+
+  *Slugs of Western Australia: A guide to the species from the Indian to West Pacific
+  Oceans*
+
   . Western Australian Museum. 184 pp.
+
   - Coleman, Neville. 2001.
+
   *1001 Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*
-  . Neville Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
+
+  . Neville Coleman''s Underwater Geographic Pty Ltd, Australia.144pp.
+
   - Kuiter, Rudie H and Helmut Debelius. 2009.
+
   *World Atlas of Marine Fauna*
+
   . IKAN-Unterwasserachiv. 723pp.
+
+  '
 location:
 - tm
 - kus
@@ -135,6 +128,10 @@ location:
 - tpg
 - smk
 - tsm
+size:
+- 8.0
+- 10.0
+- 40.0
 ---
 
 ## Where seen?

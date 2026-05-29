@@ -1,10 +1,9 @@
 ---
 title: Tongue mushroom coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: tongue, mushroom, herpolitha, limax, fungiidae, coral, hard, 
-  scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: tongue, mushroom, herpolitha, limax, fungiidae, coral, hard, scleractinia,
+  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Fungiidae
 genus: Herpolitha
@@ -18,116 +17,113 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Oct 2016
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/080208hntd9527m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/080208hntd9527m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/080208hntd9527m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/080208hntd9527m3.jpg
     caption: Distinct central furrow. Pulau Hantu, Feb 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/080208hntd9529m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/080208hntd9529m3.jpg
     caption: Tiny tentacles
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/080208hntd9529m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/080208hntd9529m3b.jpg
     caption: Many mouths
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/080208hntd9530m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/080208hntd9530m3.jpg
     caption: Underside concave.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/080208hntd9530m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/080208hntd9530m3a.jpg
     caption: ''
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/040606kusg0472m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/040606kusg0472m3.jpg
     caption: Kusu Island, Jun 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/040606kusg0472m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/040606kusg0472m3b.jpg
     caption: Thin overlapping discontinuous walls.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/040606kusg0472m3c.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/040606kusg0472m3c.jpg
     caption: Tiny tentacles
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/070518tkrd0991m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/070518tkrd0991m3.jpg
     caption: Pulau Tekukor, May 07 Underside
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/110731tryd7891m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/110731tryd7891m3.jpg
     caption: Terumbu Raya, Jun 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/060714rlhg6521m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/060714rlhg6521m3.jpg
     caption: Raffles Lighthouse, Jul 06
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/220618tmftvc1.jpg
-    caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Vincent Choo on 
-      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/220618tmftvc1.jpg
+    caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Vincent Choo on facebook
+      .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/2007024pcnlks17.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/2007024pcnlks17.jpg
     caption: East Coast PCN, Jul 20 Photo shared by Loh Kok Sheng on facebook.
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/240527srplks11.jpg
-    caption: Sentosa Serapong, May 24 Photo shared by Loh Kok Sheng on facebook 
-      .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/240527srplks11.jpg
+    caption: Sentosa Serapong, May 24 Photo shared by Loh Kok Sheng on facebook .
   gallery8:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/101010scyrlks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/101010scyrlks.JPG
     caption: South Cyrene, Oct 10 Photo shared by Loh Kok Sheng on flickr .
   gallery9:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/220202bsislks1.jpg
-    caption: Big SIsters Island, Feb 22 Photo shared by Loh Kok Sheng on 
-      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/220202bsislks1.jpg
+    caption: Big SIsters Island, Feb 22 Photo shared by Loh Kok Sheng on facebook
+      .
   gallery10:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/100617tblks2m3.jpg
-    caption: Terumbu Bemban, Jun 10 Photo shared by Loh Kok Sheng on his flickr 
-      .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/100629tpdjk18m3.jpg
-    caption: Terumbu Pempang Darat, Jun 10 Photo shared by James Koh on his blog
-      .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/100616tsmlks3m3.jpg
-    caption: Terumbu Semakau, Jun 10 Photo shared by Loh Kok Sheng on his flickr
-      .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/100617tblks2m3.jpg
+    caption: Terumbu Bemban, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/100629tpdjk18m3.jpg
+    caption: Terumbu Pempang Darat, Jun 10 Photo shared by James Koh on his blog .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/100616tsmlks3m3.jpg
+    caption: Terumbu Semakau, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
   gallery11:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/210428slulks5.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/210428slulks5.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
   gallery12:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/100131slulks1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/100131slulks1m3.jpg
     caption: Terumbu Salu, Jan 10 Photo shared by Loh Kok Sheng on his flickr
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/100130brklks14m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/100130brklks14m3.jpg
     caption: Terumbu Berkas, Jan 10 Photo shared by Loh Kok Sheng on his flickr
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
+
   with species factsheets.
+
   - [IUCN Red List of Threatened Species](https://www.iucnredlist.org/)
+
   with species factsheets.
+
   - [*Herpolitha limax*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Herpolitha)
-  on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal: Technical factsheet.
+
+  on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal:
+  Technical factsheet.
+
   - *[Herpolitha limax](http://www.sealifebase.org/Summary/speciesSummary.php?ID=45863)*
+
   on SeaLife Base: Technical fact sheets.
 
+
   **References**
+
   - Hoeksema, Bert W. and Esther G. L. Koh. 30 Dec 2009.
-  *Depauration of the mushroom coral fauna (Fungiidae) of Singapore (1860s-2006) in changing reef conditions*
+
+  *Depauration of the mushroom coral fauna (Fungiidae) of Singapore (1860s-2006) in
+  changing reef conditions*
+
   (pdf). Raffles Bulletin of Zoology Supplement No. 22: 91-101.
+
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
-  *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new records*
+
+  *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new
+  records*
+
   - Veron, Jen. 2000.
+
   *Corals of the World*
+
   Australian Institute of Marine Science, Australia. 3 volumes.
+
   - Erhardt, Harry and Daniel Knop. 2005.
+
   *Corals: Indo-Pacific Field Guide*
+
   IKAN-Unterwasserachiv, Frankfurt. 305 pp.
+
+  '
 location:
 - tm
 - ecp
@@ -145,6 +141,9 @@ location:
 - tsm
 - rfl
 - lfa
+size:
+- 20.0
+- 30.0
 ---
 
 ## Where seen?
@@ -160,7 +159,7 @@ Veron considers it to be a colonial animal with many mouths. Numerous mouths are
 
 **Sometimes confused with**
 other long mushroom corals. Here's more on how to
-[tell apart elongated mushroom hard corals](cflong.md)
+[tell apart elongated mushroom hard corals](cflong)
 .
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

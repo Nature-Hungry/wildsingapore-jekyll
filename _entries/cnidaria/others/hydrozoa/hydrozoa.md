@@ -20,82 +20,124 @@ updated: May 2020
 coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/candy/040409tusad0141m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "if you learn only 3 things about them ... Often mistaken for plants, they are animals! Some can sting powerfully. Don't touch them. Each 'bush' is a colony of many little polyps."
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: "Often mistaken for plants, they are animals! Some can sting powerfully. Don't touch them. Each 'bush' is a colony of many little polyps."
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... Often mistaken for plants,
+      they are animals! Some can sting powerfully. Don't touch them. Each 'bush' is
+      a colony of many little polyps.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: Often mistaken for plants, they are animals! Some can sting powerfully.
+      Don't touch them. Each 'bush' is a colony of many little polyps.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/candy/040409tusad0141m3.jpg"
-      caption: "Colourful Candy hydroids . Tuas, Apr 04"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/140420sisd4964.jpg"
-      caption: "Blue button jellyfish (Porpita porpita) Sisters Island, Apr 14"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/thread/040409tuscd0019m3.jpg"
-      caption: "This jellyfish belongs to Class Hydrozoa. Tuas, Apr 04"
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/candy/040409tusad0141m3.jpg
+    caption: Colourful Candy hydroids . Tuas, Apr 04
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/140420sisd4964.jpg
+    caption: Blue button jellyfish (Porpita porpita) Sisters Island, Apr 14
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/thread/040409tuscd0019m3.jpg
+    caption: This jellyfish belongs to Class Hydrozoa. Tuas, Apr 04
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/sertularella/100614bbd6022m3.jpg"
-      caption: "Tiny polyps of the fern hydroid . Beting Bronok, Jun 10"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/120410chgd9302m3.jpg"
-      caption: "Polyp of fluffy hydroid . Changi, Apr 12"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/candy/120508skdd2318m3.jpg"
-      caption: "Capsules of candy hydroids . Pulau Sekudu, May 12"
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/sertularella/100614bbd6022m3.jpg
+    caption: Tiny polyps of the fern hydroid . Beting Bronok, Jun 10
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/120410chgd9302m3.jpg
+    caption: Polyp of fluffy hydroid . Changi, Apr 12
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/candy/120508skdd2318m3.jpg
+    caption: Capsules of candy hydroids . Pulau Sekudu, May 12
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/stinging/050821bbg1938m3.jpg"
-      caption: "Grass-like pale stinging hydroids . Beting Bronok, Aug 05"
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/stinging/120803chgd9398m3.jpg"
-      caption: "Tiny tentacles of stinging hydroids . Changi, Aug 12"
-    - url: "http://www.wildsingapore.com/mollusca/slugs/nudibranchia/sibogae/060812bbd6062m3.jpg"
-      caption: "Cuthona nudibranch on Fern hydroid Beting Bronok, Aug 06"
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/stinging/050821bbg1938m3.jpg
+    caption: Grass-like pale stinging hydroids . Beting Bronok, Aug 05
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/stinging/120803chgd9398m3.jpg
+    caption: Tiny tentacles of stinging hydroids . Changi, Aug 12
+  - url: http://www.wildsingapore.com/mollusca/slugs/nudibranchia/sibogae/060812bbd6062m3.jpg
+    caption: Cuthona nudibranch on Fern hydroid Beting Bronok, Aug 06
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/stinging/050411tusd2333m3.jpg"
-      caption: Stinging hydroids
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/candy/020629chgd1211m3.jpg"
-      caption: Candy hydroids
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/040409tusad0129m3.jpg"
-      caption: Fluffy hydroids
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/stinging/050411tusd2333m3.jpg
+    caption: Stinging hydroids
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/candy/020629chgd1211m3.jpg
+    caption: Candy hydroids
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/040409tusad0129m3.jpg
+    caption: Fluffy hydroids
   gallery6:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/sertularella/030714bbd0074m3.jpg"
-      caption: Fern hydroids
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/050819cjg1531m3a.jpg"
-      caption: Delicate hydroids
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/seagrass/080208hntd9427m3.jpg"
-      caption: Seagrass hydroids grows on seagrasses.
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/sertularella/030714bbd0074m3.jpg
+    caption: Fern hydroids
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/050819cjg1531m3a.jpg
+    caption: Delicate hydroids
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/seagrass/080208hntd9427m3.jpg
+    caption: Seagrass hydroids grows on seagrasses.
   gallery7:
-    - url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/giant/100812tpld0425m6l.jpg"
-      caption: Giant hydroids
-links_references: |
-  **Links**
-  - [Stinging hydroids](http://mangrove.nus.edu.sg/pub/seashore/text/116.md)
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/giant/100812tpld0425m6l.jpg
+    caption: Giant hydroids
+links_references: '**Links**
+
+  - [Stinging hydroids](http://mangrove.nus.edu.sg/pub/seashore/text/116)
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
+
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+
   . The Singapore Science Centre, Singapore. 160 pp.
+
   - [Hydroids and anemones](http://www.habitas.org.uk/marinelife/splist.asp?group=CNIDARIA)
+
   on the
+
   [Encyclopedia of Marine Life of Britain and Ireland](http://www.habitas.org.uk/marinelife/)
+
   Edited by Bernard E. Picton and Christine C. Morrow: photo and fact sheet
-  - [The Hydrozoa Directory](http://www.ville-ge.ch/mhng/hydrozoa/hydrozoa-directory.md)
-  on the Natural History Museum of Geneva website: photos and fact sheets with glossary of terms, covering everything you might want to know about hydroids from nematocysts to life cycle and more.
+
+  - [The Hydrozoa Directory](http://www.ville-ge.ch/mhng/hydrozoa/hydrozoa-directory)
+
+  on the Natural History Museum of Geneva website: photos and fact sheets with glossary
+  of terms, covering everything you might want to know about hydroids from nematocysts
+  to life cycle and more.
+
   - [Shallow-water hydroids](http://www.vattenkikaren.gu.se/fakta/arter/cnidaria/hydrozoa/olikahe.html)
-  on Aquascope of the Tjarno Marine Biological Laboratory: some photos and titbits on the animals.
-  - [Hydroids](http://www.seaslugforum.net/hydroids.md)
-  on the Sea Slug Forum by Dr Bill Rudman: as hydroids are among the stuff that nudibranchs eat, there is some interesting information on them on this site.
-  
+
+  on Aquascope of the Tjarno Marine Biological Laboratory: some photos and titbits
+  on the animals.
+
+  - [Hydroids](http://www.seaslugforum.net/hydroids)
+
+  on the Sea Slug Forum by Dr Bill Rudman: as hydroids are among the stuff that nudibranchs
+  eat, there is some interesting information on them on this site.
+
+
   **References**
-  - *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore*
-  by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024.
+
+  - *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
+  Status for Singapore*
+
+  by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan,
+  D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024.
+
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+
   . 3rd edition. National Parks Board. 663 pp
+
   - Ling Min Kang, Iffah Iesa, Danwei Huang, Nicholas Wei Liang Yap
-  *Diversity of hydromedusae (Cnidaria: Medusozoa: Hydrozoa) at Sentosa, including three new records for Singapore waters*
+
+  *Diversity of hydromedusae (Cnidaria: Medusozoa: Hydrozoa) at Sentosa, including
+  three new records for Singapore waters*
+
   . Nature in Singapore 16: e2023076, 8 August 2023, DOI: 10.26107/NIS-2023-0076.
+
   - Ria Tan. 6 June 2014.
+
   *A blue button at Sisters Islands, Porpita pacifica*
+
   . Singapore Biodiversity Records 2014: 151
+
   - Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.
+
   *Invertebrate Zoology*
+
   Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
+
   - Pechenik, Jan A., 2005.
+
   *Biology of the Invertebrates*
+
   . 5
+
+  '
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
@@ -105,9 +147,9 @@ A wider variety of those that are large and attached to hard surfaces are common
 
 **What are hydroids?**
 They belong to
-[Phylum Cnidaria](../../cnidaria.md)
+[Phylum Cnidaria](../../cnidaria)
 . 'Hydrozoa' means 'water animals' in Greek. Hydrozoans may look like
-[jellyfish](thread.md)
+[jellyfish](thread)
 or appear to be branching plants. There are about 3,000 known species of the Class Hydrozoa.
 
 ## Features
@@ -115,7 +157,7 @@ or appear to be branching plants. There are about 3,000 known species of the Cla
 Hydroids are colonial animals. The polyps are tiny (1mm tall with a smaller diameter). In branching forms, the polyps are encased in a 'skin' made of chitin (the same substance that insect exoskeleton is made of). In some, each polyp lives in a bell-shaped 'container' with a lid. The colony often takes on feathery, branching plant-like forms. The branches arise from a central stalk that is attached to a hard surface.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 The colony may be made up of two different kinds of polyps. Feeding polyps look like sea anemones with tentacles armed with
-[stingers like other Cnidrians](../../cnidaria.md)
+[stingers like other Cnidrians](../../cnidaria)
 . These stingers are used to gather food particles from the water.
 
 Other polyps function as reproductive organs and often don't have tentacles. Some hydroids have defensive polyps, usually club-shaped and well armed with stingers that can inject toxins or are sticky. These not only protect the colony but may also help to capture tiny prey.
@@ -124,7 +166,7 @@ Fire corals (
 *Millepora*
 sp.) are hydroids that produce a massive skeleton so they appear to be hard corals. As their name suggests, these animals have powerful stingers.
 
-[Stinging hydroids](stinging.md)
+[Stinging hydroids](stinging)
 inflict powerful stings that can leave painful and hideous scars on the bare skin of careless visitors or divers.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**What do they eat?**
@@ -157,11 +199,11 @@ There is inadequate information as at 2024 to make an informed assesment of the 
 
 **Class Hydrozoa recorded for Singapore
 
-[text index](../../cnidariaindex.md)
+[text index](../../cnidariaindex)
 and photo index of
-[hydroids](../../hydrozoafi.md)
+[hydroids](../../hydrozoafi)
 and
-[jellyfish](../../jellyfishfi.md)
+[jellyfish](../../jellyfishfi)
 seen on Singapore shores**
 Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
 
@@ -179,7 +221,7 @@ Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat S
 *Zanclea*
 sp.
 
-[**Family Aequoreidae**](thread.md)
+[**Family Aequoreidae**](thread)
 (Thread-tentacled jellyfish)
 
 *Aequorea conica
@@ -239,7 +281,7 @@ sp.
 *Cunina duplicata*
 
 Some
-[Jellyfishes](../jellyfish/jellyfish.md)
+[Jellyfishes](../jellyfish/jellyfish)
 are classified as hydroids.
 
 ---

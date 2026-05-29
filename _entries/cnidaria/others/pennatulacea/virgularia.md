@@ -1,10 +1,9 @@
 ---
 title: Slender sea pen
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: slender, pen, seapen, virgularia, pennatulacea, anthozoa, cnidaria, 
-  pteroides, cavernularia, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: slender, pen, seapen, virgularia, pennatulacea, anthozoa, cnidaria, pteroides,
+  cavernularia, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Virgulariidae
 genus: Virgularia
@@ -19,95 +18,84 @@ subclass: Octocorallia
 order: Scleralcyonacea
 superfamily: Pennatuloidea
 updated: Dec 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/110815chgd9219m6l.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/110815chgd9219m6l.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/110815chgd9219m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/110815chgd9219m6l.jpg
     caption: Changi, Aug 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/120703chgd6507m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/120703chgd6507m6l.jpg
     caption: Changi, Jul 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/130808cyrd0783m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/130808cyrd0783m6l.jpg
     caption: Cyrene Reef, Aug 13
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/090722chgd7702m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/090722chgd7702m3.jpg
     caption: Changi, Jul 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/060724chgg4886m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/060724chgg4886m3.jpg
     caption: Changi, Jul 06
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/050820bbg1699m3.jpg
-    caption: Primary polyp partially retracted into the ground. Beting Bronok, 
-      Aug 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/050820bbg1699m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/050820bbg1699m3.jpg
+    caption: Primary polyp partially retracted into the ground. Beting Bronok, Aug
+      05
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/050820bbg1699m3a.jpg
     caption: Secondary polyps on the leaf-like structures.
-  - url: 
-      http://www.wildsingapore.com/crustacea/othercrust/anomura/porcellanidae/picta/050821bbg1897m3.jpg
-    caption: A pair of Painted porcelain crabs on the sea pen. Beting Bronok, 
-      Aug 05
+  - url: http://www.wildsingapore.com/crustacea/othercrust/anomura/porcellanidae/picta/050821bbg1897m3.jpg
+    caption: A pair of Painted porcelain crabs on the sea pen. Beting Bronok, Aug
+      05
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/060611cjd2726m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/060611cjd2726m3.jpg
     caption: Chek Jawa, Jun 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/170723ubnlks3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/170723ubnlks3.jpg
     caption: Pulau Ubin, Jul 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/121017tuslks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/121017tuslks.JPG
     caption: Tuas, Oct 12 Photo shared by Loh Kok Sheng on flickr .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/230608tmftky4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/230608tmftky4.jpg
     caption: Tanah Merah, Jun 23 Photo shared by Kelvin Yong on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/090821tmjk2m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/090821tmjk2m3.jpg
     caption: Tanah Merah, Aug 09 Photo shared by James Koh on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/170428ecpcnlks3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/170428ecpcnlks3.jpg
     caption: East Coast PCN, Apr 17 Photo shared by Loh Kok Sheng on facebook .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/150829lazlks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/150829lazlks.JPG
     caption: Seringat-Kias, Aug 12 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/240113lazlks7.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/240113lazlks7.jpg
     caption: Seringat-Kias, Jan 24 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/120408sjilks7m3.jpg
-    caption: St. John's Island , Apr 12 Photo shared by Loh Kok Sheng on his 
-      blog .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/120408sjilks7m3.jpg
+    caption: St. John's Island , Apr 12 Photo shared by Loh Kok Sheng on his blog
+      .
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/101009smklks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/101009smklks.JPG
     caption: Pulau Semakau, Jan 10 Photo shared by Loh Kok Sheng on flickr .
   gallery8:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/100813smknml2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/100813smknml2.jpg
     caption: Pulau Semakau, Aug 10 Photo shared by Neo Mei Lin on her blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/201018smkslks1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/201018smkslks1.jpg
     caption: Pulau Semakau, Oct 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/201018smkslks1b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/201018smkslks1b.jpg
     caption: ''
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Virgulariidae](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Virgulariidae)
+
   including
+
   *[Virgularia](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Virgularia)*
+
   and
+
   *[Scytalium](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Scytalium)*
+
   on
+
   [Reef Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding)
+
   on the
+
   [Marine Species Identification Portal](http://species-identification.org/index.php)
+
   : Technical fact sheet and photos.
+
+  '
 location:
 - pgl
 - prp
@@ -137,7 +125,7 @@ When exposed at low tide, the leaf-like structures are collapsed, while the stif
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Pen pals:**
 Slender sea pens are recorded to harbour small creatures such as porcelain crabs, shrimps, brittle stars and small nudibranchs. The
-[Painted porcelain crab](../../../crustacea/othercrust/anomura/porcellanidae/picta.md)
+[Painted porcelain crab](../../../crustacea/othercrust/anomura/porcellanidae/picta)
 (
 *Porcellanella picta*
 ) have been spotted on the Red slender sea pen.

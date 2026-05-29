@@ -1,10 +1,9 @@
 ---
 title: Chameleon nerite snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: chameleon, nerita, nerite, chamaeleon, neritidae, gastropod, mollusc, 
-  snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal,
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: chameleon, nerita, nerite, chamaeleon, neritidae, gastropod, mollusc, snail,
+  shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 23
@@ -27,48 +26,67 @@ order: Cycloneritida
 superfamily: Neritoidea
 subfamily: Neritinae
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8927m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8927m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8927m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8927m3.jpg
     caption: St John's Island, Aug 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8926m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8926m3.jpg
     caption: St John's Island, Aug 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/060516chgd2044m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/060516chgd2044m3.jpg
     caption: Changi, May 06
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/210529epcnvc3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/210529epcnvc3.jpg
     caption: East Coast (PCN), May 21 Photo shared by Vincent Choo on facebcok .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Chameleon nerite (
+
   *Nerita chamaleon*
+
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86831)
+
   on SeaBase Life: Technical fact sheet.
+
   - Chameleon nerite (
+
   *Nerita chamaleon*
-  ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+
+  ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide
+  for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
+
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
+
   **References**
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Tan, S.K. & Clements, R. (2008)
+
   [Taxonomy and distribution of the Neritidae (Mollusca: Gastropoda) on Singapore](http://zoolstud.sinica.edu.tw/Journals/47.4/481.pdf)
+
   . Zoological Studies 47(4): 481-494.
+
   - Tan, K. S. & L. M. Chou, 2000.
+
   *A Guide to the Common Seashells of Singapore*
+
   . Singapore Science Centre. 160 pp.
+
   - Abbott, R. Tucker, 1991.
+
   *Seashells of South East Asia*
+
   . Graham Brash, Singapore. 145 pp.
+
+  '
 location:
 - prp
 - chg
@@ -86,6 +104,9 @@ location:
 - jng
 - hnt
 - smk
+size:
+- 2.5
+- 3.5
 ---
 
 ## Where seen?
@@ -99,7 +120,7 @@ The flat underside white, some have ridges and a few small rounded bumps. Small 
 
 **Sometimes confused with**
 other similar nerites. Here's a comparison of these
-[similar nerite snails](neritidaecf.md)
+[similar nerite snails](neritidaecf)
 and how to tell them apart.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Human uses:**

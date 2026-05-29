@@ -1,8 +1,6 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: tubular, sponge, gelliodes, niphatidae, porifera, field, guide, 
-  seashore,
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: tubular, sponge, gelliodes, niphatidae, porifera, field, guide, seashore,
 layout: entry
 shape: sausage
 title: Spiky tubular sponge
@@ -18,43 +16,50 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Oct 2016
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/porifera/tubespiky/100614bbd5961m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/porifera/tubespiky/100614bbd5961m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/tubespiky/100614bbd5961m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/tubespiky/100614bbd5961m3.jpg
     caption: Beting Bronok, Jun 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/tubespiky/130723bbd0031m3.jpg
-    caption: Beting Bronok, Jul 13 Transparent 'lip' around large opening. Tiny 
-      shrimp and brittle star on sponge.
+  - url: http://www.wildsingapore.com/wildfacts/porifera/tubespiky/130723bbd0031m3.jpg
+    caption: Beting Bronok, Jul 13 Transparent 'lip' around large opening. Tiny shrimp
+      and brittle star on sponge.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/tubespiky/100614bbd6068m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/tubespiky/100614bbd6068m3.jpg
     caption: Beting Bronok, Jun 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/tubespiky/110518bbd1835m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/tubespiky/110518bbd1835m3.jpg
     caption: Beting Bronok, Jun 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/tubespiky/120508skdd1919m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/tubespiky/120508skdd1919m3.jpg
     caption: Pulau Sekudu, May 12
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Gelliodes*](http://www.sealifebase.fisheries.ubc.ca/summary/FamilySummary.php?ID=2645)
+
   on SeaLife Base: technical fact sheet.
+
   - [*Gelliodes*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=131842)
+
   on the World Porifera Database.
 
+
   **References**
+
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
+
   *A Guide to Sponges of Singapore*
+
   . Singapore Science Centre. 173pp.
+
+  '
 location:
 - cj
 - skd
 - bb
 - tpg
+size:
+- 20.0
+- 1.0
+- 2.0
 ---
 
 ## Where seen?
@@ -66,7 +71,7 @@ This tubular with spikes sponge is sometimes seen on Beting Bronok and other und
 A neat small bush (about 20cm) with closely packed narrow tubes (about 1-2cm wide) regularly ringed with large neat spikes, forming a star-like shape around the large hole at the tip of the tube. There is a transparent 'lip' around the hole which is more obvious in a submerged sponge. Colour lilac to bluish.
 
 **Sometimes confused with**
-[Tubular sponges](tube.md)
+[Tubular sponges](tube)
 (
 *Haliclona*
 sp.) which may have spikes around their hollow tubes but the spikes are not as regular or neat.

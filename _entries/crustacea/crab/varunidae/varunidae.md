@@ -1,10 +1,8 @@
 ---
 title: 'Varunid crabs '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: paddler, crab, varunidae, decapod, crustacea, field, guide, seashore, 
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, 
-  photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: paddler, crab, varunidae, decapod, crustacea, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Varunidae
 genus: ''
@@ -26,45 +24,30 @@ zoosection: Eubrachyura
 zoosubsection: Thoracotremata
 superfamily: Grapsoidea
 updated: Dec 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/metaplax/130202mndd3914m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/metaplax/130202mndd3914m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/metaplax/130202mndd3914m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/metaplax/130202mndd3914m3.jpg
     caption: Orange signaller crab
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/070604chgg0129m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/070604chgg0129m3.jpg
     caption: Paddler crab
-links_references: |
-  **Links**
-  - [Paddler crab (
-  *Varuna yui)*](http://mangrove.nus.edu.sg/guidebooks/text/2046.md)
-  ,
-  [Orange signaller crab (
-  *Metaplax elegans*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2051.md)
-  Ng, Peter K. L. & N. Sivasothi, 1999.
-  *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
-  . Singapore Science Centre. 168 pp.
-  - [*Varuna litterata*](http://mangrove.nus.edu.sg/pub/seashore/text/197.md)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988.
-  *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
-  . The Singapore Science Centre, Singapore. 160 pp.
-
-  **References**
-  - Tan Heok Hui. 5 December 2014.
-  *Chinese mitten crab at West Coast marsh pond, Eriocheir sinensis*
-  . Singapore Biodiversity Records 2014: 313.
-  - Bi Wei Low, Ngan Kee NG, Darren CJ Yeo. February 2013.
-  *First record of the invasive Chinese mitten crab, Eriocheir sinensis H. Milne Edwards, 1853 (Crustacea: Brachyura: Varunidae) from Singapore*
-  . BioInvasions Records 2(1):73–78. DOI: 10.3391/bir.2013.2.1.13.
-  - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
-  *Rhythm of the Sea: The Life and Times of Labrador Beach.*
-  Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
-  - Wee Y.C. and Peter K. L. Ng. 1994.
-  *A First Look at Biodiversity in Singapore*
-  . National Council on the Environment. 163pp.
+links_references: "**Links**\n- [Paddler crab (\n*Varuna yui)*](http://mangrove.nus.edu.sg/guidebooks/text/2046)\n\
+  ,\n[Orange signaller crab (\n*Metaplax elegans*\n)](http://mangrove.nus.edu.sg/guidebooks/text/2051)\n\
+  Ng, Peter K. L. & N. Sivasothi, 1999.\n*[A Guide to the Mangroves of Singapore II\
+  \ (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*\n. Singapore Science\
+  \ Centre. 168 pp.\n- [*Varuna litterata*](http://mangrove.nus.edu.sg/pub/seashore/text/197)\n\
+  Tan, Leo W. H. & Ng, Peter K. L., 1988.\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n\
+  . The Singapore Science Centre, Singapore. 160 pp.\n\n**References**\n- Tan Heok\
+  \ Hui. 5 December 2014.\n*Chinese mitten crab at West Coast marsh pond, Eriocheir\
+  \ sinensis*\n. Singapore Biodiversity Records 2014: 313.\n- Bi Wei Low, Ngan Kee\
+  \ NG, Darren CJ Yeo. February 2013.\n*First record of the invasive Chinese mitten\
+  \ crab, Eriocheir sinensis H. Milne Edwards, 1853 (Crustacea: Brachyura: Varunidae)\
+  \ from Singapore*\n. BioInvasions Records 2(1):73\u201378. DOI: 10.3391/bir.2013.2.1.13.\n\
+  - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.\n*Rhythm of the Sea: The Life and\
+  \ Times of Labrador Beach.*\nDivision of Biology, School of Science, Nanyang Technological\
+  \ University & Department of Zoology, the National University of Singapore. 160\
+  \ pp.\n- Wee Y.C. and Peter K. L. Ng. 1994.\n*A First Look at Biodiversity in Singapore*\n\
+  . National Council on the Environment. 163pp.\n"
 location:
 - ''
 ---
@@ -101,7 +84,7 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
 (Chinese mitten crab)
 *Metaplax crenulata
 
-[Metaplax elegans](metaplax.md)*
+[Metaplax elegans](metaplax)*
 (Orange signaller crab)
 *Metaplax sheni
 
@@ -109,7 +92,7 @@ Thalassograpsus harpax
 
 Utica sp.
 
-[Varuna yui](varuna.md)*
+[Varuna yui](varuna)*
 (Paddler crab)
 
 ++

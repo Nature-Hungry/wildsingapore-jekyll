@@ -25,37 +25,41 @@ subtribe: Crininae
 inat_id: 161124
 updated: Nov 10
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/crinum/asiaticum/090214sbwrd7060m3.jpg
-links_references: |
-  **Links**
-  - [*Crinum
-    asiaticum*](http://floraofsingapore.wordpress.com/2010/08/08/crinum-asiaticum/) on Total Vascular Flora of Singapore Online:
-    photos and fact sheet.
-  - Giesen, Wim
-    and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-    [*Mangrove
-    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
-    RAP publication 2006/07 Food and Agriculture Organization of the
-    United Nations Regional Office for Asia and the Pacific Bangkok.
-  
-  **References**
-  - Hsuan Keng,
-    S.C. Chin and H. T. W. Tan.1998, *[The
+links_references: "**Links**\n- [*Crinum\n  asiaticum*](http://floraofsingapore.wordpress.com/2010/08/08/crinum-asiaticum/)\
+  \ on Total Vascular Flora of Singapore Online:\n  photos and fact sheet.\n- Giesen,\
+  \ Wim\n  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.\n  [*Mangrove\n\
+  \  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)\
+  \ (PDF online downloadable).\n  RAP publication 2006/07 Food and Agriculture Organization\
+  \ of the\n  United Nations Regional Office for Asia and the Pacific Bangkok.\n\n\
+  **References**\n- Hsuan Keng,\n  S.C. Chin and H. T. W. Tan.1998, *[The\n"
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/crinum/asiaticum/110317mndd7375m3.jpg"
-      caption: "Wild plant. Mandai, Mar 11"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/crinum/asiaticum/090829cjf3322m3.jpg"
-      caption: "Chek Jawa, Aug 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/crinum/asiaticum/090829cjf3323m3.jpg"
-      caption: ""
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/crinum/asiaticum/110317mndd7375m3.jpg
+    caption: Wild plant. Mandai, Mar 11
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/crinum/asiaticum/090829cjf3322m3.jpg
+    caption: Chek Jawa, Aug 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/crinum/asiaticum/090829cjf3323m3.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/crinum/asiaticum/090214sbwrd7063m3.jpg"
-      caption: "Sungei Buloh Wetland Reserve, Feb 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/crinum/asiaticum/090818sbwrd7494m6l.jpg"
-      caption: "Sungei Buloh Wetland Reserve, Feb 09"
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/crinum/asiaticum/090214sbwrd7063m3.jpg
+    caption: Sungei Buloh Wetland Reserve, Feb 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/crinum/asiaticum/090818sbwrd7494m6l.jpg
+    caption: Sungei Buloh Wetland Reserve, Feb 09
   gallery3:
-    - url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
-      caption: "Links Crinum asiaticum on Total Vascular Flora of Singapore Online: photos and fact sheet. Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006. Mangrove Guidebook for Southeast Asia (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok. References Hsuan Keng, S.C. Chin and H. T. W. Tan.1998, The Concise Flora of Singapore II: Monoctyledons Singapore University Press. 215 pp. Wee Yeow Chin. 1992. A Guide to Medicinal Plants . The Singapore Science Centre. 160pp. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444. Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red Data Book: Threatened plants and animals of Singapore . Nature Society (Singapore). 285 pp."
+  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
+    caption: 'Links Crinum asiaticum on Total Vascular Flora of Singapore Online:
+      photos and fact sheet. Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth
+      Scholten. 2006. Mangrove Guidebook for Southeast Asia (PDF online downloadable).
+      RAP publication 2006/07 Food and Agriculture Organization of the United Nations
+      Regional Office for Asia and the Pacific Bangkok. References Hsuan Keng, S.C.
+      Chin and H. T. W. Tan.1998, The Concise Flora of Singapore II: Monoctyledons
+      Singapore University Press. 215 pp. Wee Yeow Chin. 1992. A Guide to Medicinal
+      Plants . The Singapore Science Centre. 160pp. Burkill, I. H., 1993. A Dictionary
+      of the Economic Products of the Malay Peninsula . 3rd printing. Publication
+      Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume
+      2: 1241-2444. Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore
+      Red Data Book: Threatened plants and animals of Singapore . Nature Society (Singapore).
+      285 pp.'
 ---
 
 ## Where seen?

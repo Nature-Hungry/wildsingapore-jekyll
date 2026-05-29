@@ -15,70 +15,64 @@ updated: Mar 2020
 coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/090820ecpd9495m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/090820ecpd9495m3.jpg"
-      caption: "Some unidentified beach isopods swarming over rotting fruit. East Coast, Aug 09"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/090820ecpd9495m3a.jpg"
-      caption: ""
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/090820ecpd9495m3.jpg
+    caption: Some unidentified beach isopods swarming over rotting fruit. East Coast,
+      Aug 09
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/090820ecpd9495m3a.jpg
+    caption: ''
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/110123sisd5267m3.jpg"
-      caption: "Sisters Island, Jan 11"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/110123sisd5273m3.jpg"
-      caption: "Sisters Island, Jan 11"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/110715cyrd6725m3.jpg"
-      caption: "Cyrene Reef, Jul 11"
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/110123sisd5267m3.jpg
+    caption: Sisters Island, Jan 11
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/110123sisd5273m3.jpg
+    caption: Sisters Island, Jan 11
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/110715cyrd6725m3.jpg
+    caption: Cyrene Reef, Jul 11
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/130721cjd9586m6l.jpg"
-      caption: "Fish isopod. Chek Jawa, Aug 13"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/130721cjd9586m3.jpg"
-      caption: "Chek Jawa, Aug 13"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/130427tptd5711m6.jpg"
-      caption: "Fish isopod. Terumbu Pempang Tengah, Apr 13"
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/130721cjd9586m6l.jpg
+    caption: Fish isopod. Chek Jawa, Aug 13
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/130721cjd9586m3.jpg
+    caption: Chek Jawa, Aug 13
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/130427tptd5711m6.jpg
+    caption: Fish isopod. Terumbu Pempang Tengah, Apr 13
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/121029rmbr1.jpg"
-      caption: "12 Oct, photo from Raffles Museum of Biodiversity Research"
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/121029rmbr1.jpg
+    caption: 12 Oct, photo from Raffles Museum of Biodiversity Research
   gallery5:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/081016cyrmn.jpg"
-      caption: "Cyrene Reef, Aug 10 Photo shared by Marcus Ng on flickr ."
-links_references: |
-  **Links**
-  - [Order Isopoda](http://mangrove.nus.edu.sg/pub/seashore/text/177.md)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988.
-  *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
-  . The Singapore Science Centre, Singapore. 160 pp.
-  - [Warty pill-bug (
-  *Sphaeroma terebrans*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2035.md)
-  Ng, Peter K. L. & N. Sivasothi, 1999.
-  *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
-  . Singapore Science Centre. 168 pp.
-  - [Isopods and amphipods](http://www.mesa.edu.au/friends/seashores/isopods_amphipods.html)
-  on the
-  [Life on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1.html)
-  by Keith Davey on the Marine Education Society of Australia website: Fact sheet, diagrams.
-  
-  **References**
-  - Niel L. Bruce, Melissa B. Martin, Kerry A. Hadfield & Barbara F. Nowak, Redescription of the fish parasitic “tongue biter” Cymothoa rhina Schioedte & Meinert, 1884 (Crustacea: Isopoda: Cymothoidae) from Singapore, 29 June 2016, Raffles Bulletin of Zoology Supplement No. 34: 331–342
-  - Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.
-  *Invertebrate Zoology*
-  Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963.
-  - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
-  *Rhythm of the Sea: The Life and Times of Labrador Beach.*
-  Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
-  - Jones Diana S. and Gary J. Morgan, 2002.
-  *A Field Guide to Crustaceans of Australian Waters*
-  . Reed New Holland. 224 pp.
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/081016cyrmn.jpg
+    caption: Cyrene Reef, Aug 10 Photo shared by Marcus Ng on flickr .
+links_references: "**Links**\n- [Order Isopoda](http://mangrove.nus.edu.sg/pub/seashore/text/177)\n\
+  Tan, Leo W. H. & Ng, Peter K. L., 1988.\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n\
+  . The Singapore Science Centre, Singapore. 160 pp.\n- [Warty pill-bug (\n*Sphaeroma\
+  \ terebrans*\n)](http://mangrove.nus.edu.sg/guidebooks/text/2035)\nNg, Peter K.\
+  \ L. & N. Sivasothi, 1999.\n*[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*\n\
+  . Singapore Science Centre. 168 pp.\n- [Isopods and amphipods](http://www.mesa.edu.au/friends/seashores/isopods_amphipods.html)\n\
+  on the\n[Life on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1.html)\n\
+  by Keith Davey on the Marine Education Society of Australia website: Fact sheet,\
+  \ diagrams.\n\n**References**\n- Niel L. Bruce, Melissa B. Martin, Kerry A. Hadfield\
+  \ & Barbara F. Nowak, Redescription of the fish parasitic \u201Ctongue biter\u201D\
+  \ Cymothoa rhina Schioedte & Meinert, 1884 (Crustacea: Isopoda: Cymothoidae) from\
+  \ Singapore, 29 June 2016, Raffles Bulletin of Zoology Supplement No. 34: 331\u2013\
+  342\n- Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.\n*Invertebrate\
+  \ Zoology*\nBrooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963.\n- Lim,\
+  \ S., P. Ng, L. Tan, & W. Y. Chin, 1994.\n*Rhythm of the Sea: The Life and Times\
+  \ of Labrador Beach.*\nDivision of Biology, School of Science, Nanyang Technological\
+  \ University & Department of Zoology, the National University of Singapore. 160\
+  \ pp.\n- Jones Diana S. and Gary J. Morgan, 2002.\n*A Field Guide to Crustaceans\
+  \ of Australian Waters*\n. Reed New Holland. 224 pp.\n"
+size:
+- 1.0
 ---
 
 ## Where seen?
 These tiny segmented animals are sometimes seen our shores, often swarming in numbers at low tide over rotting fruit or dead matter. The most commonly seen isopod on the beach are
-[sea slaters](ligia.md)
+[sea slaters](ligia)
 (
 *Ligia*
 sp.) or sometimes called sea cockroaches although they are not insects and look nothing like cockroaches (if you ask me).
 
 **What are isopods?**
 They are
-[crustaceans](../../crustacea.md)
+[crustaceans](../../crustacea)
 like crabs and prawns. There are about 4,000 described species of isopods that live in the sea. Some are found in freshwater, and some are terrestrial (these are usually called wood lice or pill bugs). Most marine isopods are tiny (5-15mm long). But one deep sea isopod
 *Bathynomus giganteus*
 can grow to 40cm long! Many may be parasites on other marine creatures.
@@ -86,7 +80,7 @@ can grow to 40cm long! Many may be parasites on other marine creatures.
 ## Features
 
 1cm or less. Their segmented body is flattened downwards (instead of sideways for amphipods such as
-[amphipods](../amphipoda/amphipoda.md)
+[amphipods](../amphipoda/amphipoda)
 ) with legs that are more or less similar. Isopoda meaning 'same feet' while Amphipoda means 'different feet'. Their eyes are NOT on stalks. Some can give a nasty bite.
 
 **What do they eat?**

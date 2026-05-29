@@ -1,55 +1,60 @@
 ---
 title: Dark drill
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: drill, morula, semiricinula, fusca, muricidae, gastropod, mollusc, 
-  snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal,
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: drill, morula, semiricinula, fusca, muricidae, gastropod, mollusc, snail,
+  shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Muricidae
 genus: Semiricinula
 species: fusca
 attributes: []
 updated: Aug 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/050502cjg5693m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/050502cjg5693m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/050502cjg5693m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/050502cjg5693m3.jpg
     caption: Chek Jawa, May 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/050502cjg5694m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/050502cjg5694m3.jpg
     caption: Chek Jawa, May 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/050502cjg5710m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/050502cjg5710m3.jpg
     caption: Chek Jawa, May 05
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/brianong3m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/brianong3m3.jpg
     caption: Photo shared by Brian Ong.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/brianong1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/brianong1m3.jpg
     caption: Photo shared by Brian Ong.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/brianong2m3.jpg
-    caption: Hole drilled into a false limpet, by the drill. Photo shared by 
-      Brian Ong.
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/brianong2m3.jpg
+    caption: Hole drilled into a false limpet, by the drill. Photo shared by Brian
+      Ong.
+links_references: '**Links**
+
   - [More about our
+
   *Morula fusca*](http://wildshores.blogspot.com/2009/03/more-about-our-morula-fusca.html)
+
   on the wild shores of singapore blog: details shared by Brian about these snails.
+
   - [*Morula fusca*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=129974)
+
   on SeaLife Base: Technical fact sheet.
 
+
   **References**
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Tan, K. S. & L. M. Chou, 2000.
+
   *A Guide to the Common Seashells of Singapore*
+
   . Singapore Science Centre. 160 pp.
+
+  '
 location:
 - cj
 - tus
@@ -60,6 +65,9 @@ location:
 - sji
 - sis
 - jng
+size:
+- 2.0
+- 3.0
 ---
 
 ## Where seen?
@@ -73,9 +81,9 @@ This small drill is sometimes seen on large boulders on some of our shores. 'Fus
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**
 According to Brian Ong's study, those on St. John's Island were found to eat false limpets:
-*[Siphonaria javanica](../limpets/javanica.md)*
+*[Siphonaria javanica](../limpets/javanica)*
 and
-*[Siphonaria guamensis](../limpets/guamensis.md)*
+*[Siphonaria guamensis](../limpets/guamensis)*
 . They also rarely ate small bivalves and barnacles. In Brian's study, found that the snail drills a hole through the shell of the false limpet, or by slipping its proboscis under the shell of the false limpet. Brian found that they were not selective about the size of their prey.
 
 **Baby drills:**

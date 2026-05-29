@@ -1,10 +1,9 @@
 ---
 title: Fan clams
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: fan, pen, shell, fanshell, clam, pinnidae, pinna, bivalve, mollusc, 
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: fan, pen, shell, fanshell, clam, pinnidae, pinna, bivalve, mollusc, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 attributes:
 - 2
@@ -23,143 +22,163 @@ infraclass: Pteriomorphia
 order: Ostreida
 superfamily: Pinnoidea
 updated: May 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/050511cftg6307m6l.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/050511cftg6307m6l.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... The razor-sharp edge can 
-      seriously cut barefoot visitors. The part of the shell above the ground 
-      provides a home for many encrusting animals. Let's see what kinds we can 
-      find. Previously common, fan shells are now listed among our threatened 
-      animals.
+    caption: if you learn only 3 things about them ... The razor-sharp edge can seriously
+      cut barefoot visitors. The part of the shell above the ground provides a home
+      for many encrusting animals. Let's see what kinds we can find. Previously common,
+      fan shells are now listed among our threatened animals.
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: The razor-sharp edge can seriously cut barefoot visitors. The part 
-      of the shell above the ground provides a home for many encrusting animals.
-      Let's see what kinds we can find. Previously common, fan shells are now 
-      listed among our threatened animals.
+    caption: The razor-sharp edge can seriously cut barefoot visitors. The part of
+      the shell above the ground provides a home for many encrusting animals. Let's
+      see what kinds we can find. Previously common, fan shells are now listed among
+      our threatened animals.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/050511cftg6307m6l.jpg
-    caption: Byssus threads on the narrow end of the shell anchor the animal in 
-      the ground. Changi, May 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/011021cjd0933m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/050511cftg6307m6l.jpg
+    caption: Byssus threads on the narrow end of the shell anchor the animal in the
+      ground. Changi, May 05
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/011021cjd0933m3.jpg
     caption: The razor-sharp edge can cut barefoot visitors . Chek Jawa, Oct 01
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/060625bbd3447m3.jpg
-    caption: When submerged, the valves of a living clam open slightly and the 
-      animal filter feeds Beting Bronok, Jun 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/120510chgd2921m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/060625bbd3447m3.jpg
+    caption: When submerged, the valves of a living clam open slightly and the animal
+      filter feeds Beting Bronok, Jun 06
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/120510chgd2921m3.jpg
     caption: All kinds of animals stuck on a Fan shell. Changi, May 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/060624skdd3239m3d.jpg
-    caption: Keelworms on the portion of the shell above the ground. Pulau 
-      Sekudu, Jun 06
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/060624skdd3239m3d.jpg
+    caption: Keelworms on the portion of the shell above the ground. Pulau Sekudu,
+      Jun 06
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/2007024chgtch2.jpg
-    caption: Snapping shrimp found inside a living Fan shell. Changi, Jul 20 
-      Photo shared by Toh Chay Hoon on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/2007024chgtch1.jpg
-    caption: Snapping shrimp found inside a living Fan shell. Changi, Jul 20 
-      Photo shared by Toh Chay Hoon on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/2007024chgtch2.jpg
+    caption: Snapping shrimp found inside a living Fan shell. Changi, Jul 20 Photo
+      shared by Toh Chay Hoon on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/2007024chgtch1.jpg
+    caption: Snapping shrimp found inside a living Fan shell. Changi, Jul 20 Photo
+      shared by Toh Chay Hoon on facebook .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/vertebrates/fish/blenniidae/variabilis/090918tmd0989m3a.jpg
-    caption: A fang-blenny guarding eggs laid inside a dead Fan shell. Tanah 
-      Merah, Sep 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/120510chgd2790m3.jpg
+  - url: http://www.wildsingapore.com/vertebrates/fish/blenniidae/variabilis/090918tmd0989m3a.jpg
+    caption: A fang-blenny guarding eggs laid inside a dead Fan shell. Tanah Merah,
+      Sep 09
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/120510chgd2790m3.jpg
     caption: Crab and Drills hiding in a dead Fan shell. Changi, May 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/120510chgs07181m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/120510chgs07181m3.jpg
     caption: Eggs laid on the inside of a dead Fan shell. Changi, May 12
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/190218cnyrk1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/190218cnyrk1.jpg
     caption: Coney Island, Feb 19 Photo shared by Richard Kuah on facebook .
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/250909lazlks8.jpg
-    caption: Seringat-Kias mangrove lagoon, Sep 25 Photo shared by Loh Kok Sheng
-      on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/160508kusjt13.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/250909lazlks8.jpg
+    caption: Seringat-Kias mangrove lagoon, Sep 25 Photo shared by Loh Kok Sheng on
+      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/160508kusjt13.jpg
     caption: Kusu Island, May 16 Photo shared by Jonathan Tan on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/111001sjiro4m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/111001sjiro4m3.jpg
     caption: St. John's Island, Oct 11 Photo shared by Rene Ong on facebook .
   gallery8:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/160208smkshpy2.jpg
-    caption: Pulau Semakau South, Feb 16 Photo shared by Heng Pei Yan on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/100617tblks4m3.jpg
-    caption: Terumbu Bemban, Jun 10 Photo shared by Loh Kok Sheng on his flickr 
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/160208smkshpy2.jpg
+    caption: Pulau Semakau South, Feb 16 Photo shared by Heng Pei Yan on facebook
       .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/250812tbal4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/100617tblks4m3.jpg
+    caption: Terumbu Bemban, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/250812tbal4.jpg
     caption: Terumbu Bemban, Aug 25 Photo shared by Adriane Lee on facebook .
   gallery9:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/100130brklks8m3.jpg
-    caption: Terumbu Berkas, Jan 10 Photo shared by Loh Kok Sheng on his flickr 
-      .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/pinnidae/pinnidae/100601slud4790m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/100130brklks8m3.jpg
+    caption: Terumbu Berkas, Jan 10 Photo shared by Loh Kok Sheng on his flickr .
+  - url: http://www.wildsingapore.com/wildfacts/pinnidae/pinnidae/100601slud4790m3.jpg
     caption: Pulau Salu, Jun 10
   gallery10:
   - url: https://live.staticflickr.com/7906/32210599507_87b4528e75_z.jpg
-    caption: Sudden explosion of Fan clams at Changi, Feb 2019 from the wild 
-      shores of singapore blog.
-links_references: |
-  **Links**
+    caption: Sudden explosion of Fan clams at Changi, Feb 2019 from the wild shores
+      of singapore blog.
+links_references: '**Links**
+
   - [Indo-Pacific fan shell (
+
   *Atrina vexillum*
+
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=210)
+
   and
+
   [Two coloured fan shell (
+
   *Pinna bicolor*
+
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=16)
+
   on the NParks Flora and Fauna website.
+
   - The
-  [pea crab](http://mangrove.nus.edu.sg/pub/seashore/text/270.md)
+
+  [pea crab](http://mangrove.nus.edu.sg/pub/seashore/text/270)
+
   that lives in Fan shells. Tan, Leo W. H. & Ng, Peter K. L., 1988.
+
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+
   . The Singapore Science Centre, Singapore. 160 pp.
+
   - [Family Pinnidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Bivalvia/Pinnidae.html)
+
   on
+
   [The Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html)
-  at Washington State University Tri-Cities Natural History Museum website: brief description and photos.
-  - [Fan Mussel](http://www.marlin.ac.uk/species/Atrinafragilis.md)
+
+  at Washington State University Tri-Cities Natural History Museum website: brief
+  description and photos.
+
+  - [Fan Mussel](http://www.marlin.ac.uk/species/Atrinafragilis)
+
   (
+
   *Atrina fragilis*
-  ) on the Marine Life Information Network for Britain and Ireland website: fact sheet on this Pinnid and about other Pinnids of the area and their uses.
+
+  ) on the Marine Life Information Network for Britain and Ireland website: fact sheet
+  on this Pinnid and about other Pinnids of the area and their uses.
+
 
   **References**
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Tan, K. S. & L. M. Chou, 2000.
+
   *A Guide to the Common Seashells of Singapore*
+
   . Singapore Science Centre. 160 pp.
+
   - Wee Y.C. and Peter K. L. Ng. 1994.
+
   *A First Look at Biodiversity in Singapore*
+
   . National Council on the Environment. 163pp.
+
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+
   . Nature Society (Singapore). 285 pp.
+
   - Abbott, R. Tucker, 1991.
+
   *Seashells of South East Asia*
+
   . Graham Brash, Singapore. 145 pp.
+
   - Chuang, S. H., 1961.
+
   *On Malayan Shores*
+
   . Muwu Shosa, Singapore. 225 pp., plates 1-112.
+
+  '
 location:
 - pgl
 - prp
@@ -184,6 +203,9 @@ location:
 - tpg
 - smk
 - tsm
+size:
+- 10.0
+- 30.0
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
@@ -210,7 +232,7 @@ sp.) and small snapping shrimps are sometimes found living inside these clams. T
 {% include img-wrap-group.html items=page.galleries.gallery5 %}
 **Human uses:**
 Fan clams are edible and were once plentiful in Singapore and collected as food. Like other filter-feeding clams, however, fan clams may be affected by
-[red tide and other harmful algal blooms](../../../plants/seaweed/redtide.md)
+[red tide and other harmful algal blooms](../../../plants/seaweed/redtide)
 . Such clams can then be harmful to eat.
 
 It is said that in the past, people collected the long, golden byssus threads of the Noble pen shell (

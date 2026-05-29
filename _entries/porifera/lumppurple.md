@@ -1,8 +1,6 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: green, lumpy, sponge, haliclona, chalinidae, porifera, field, guide, 
-  seashore,
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: green, lumpy, sponge, haliclona, chalinidae, porifera, field, guide, seashore,
 layout: entry
 shape: encrusting
 title: Lumpy purple sponge
@@ -18,38 +16,40 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Oct 2016
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/porifera/lumpypurple/050412tusd2426m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/porifera/lumpypurple/050412tusd2426m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/lumpypurple/050412tusd2426m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/lumpypurple/050412tusd2426m3.jpg
     caption: Tuas, Apr 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/lumpypurple/080522cjd5879m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/lumpypurple/080522cjd5879m3.jpg
     caption: Chek Jawa, Aug 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/lumpypurple/170624cjd3253m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/lumpypurple/170624cjd3253m3a.jpg
     caption: Chek Jawa, Jun 16
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/lumpypurple/240309tkrrg1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/lumpypurple/240309tkrrg1.jpg
     caption: Pulau Tekukor, Mar 24 Photo shared by Rachael Goh on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/lumpypurple/100617tblks1m3.jpg
-    caption: Terumbu Bemban, Jun 10 Photo shared by Loh Kok Sheng on his flickr 
-      .
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/porifera/lumpypurple/100617tblks1m3.jpg
+    caption: Terumbu Bemban, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
+links_references: '**Links**
+
   - [*Haliclona*](http://www.sealifebase.fisheries.ubc.ca/summary/FamilySummary.php?ID=2641)
+
   on SeaLife Base: technical fact sheet.
+
   - [*Haliclona*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=131834)
+
   on the World Porifera Database.
 
+
   **References**
+
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
+
   *A Guide to Sponges of Singapore*
+
   . Singapore Science Centre. 173pp.
+
+  '
 location:
 - pgl
 - chg
@@ -66,6 +66,9 @@ location:
 - hnt
 - smk
 - tsm
+size:
+- 10.0
+- 15.0
 ---
 
 ## Where seen?

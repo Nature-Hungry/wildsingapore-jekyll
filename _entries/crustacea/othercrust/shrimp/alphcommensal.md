@@ -1,10 +1,9 @@
 ---
 title: Commensal snapping shrimp
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: snapping, shrimp, alpheidae, alpheid, decapod, crustacea, field, 
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: snapping, shrimp, alpheidae, alpheid, decapod, crustacea, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 attributes:
 - 103
@@ -26,24 +25,23 @@ suborder: Pleocyemata
 infraorder: Caridea
 superfamily: Alpheoidea
 updated: Dec 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphcommensal/110603chgd3749m6l.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphcommensal/110603chgd3749m6l.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphcommensal/110603chgd3749m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphcommensal/110603chgd3749m6l.jpg
     caption: Changi, Jun 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphcommensal/110603chgd3749m6la.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphcommensal/110603chgd3749m6la.jpg
     caption: Changi, Jun 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphcommensal/080521chgd3548m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphcommensal/080521chgd3548m3a.jpg
     caption: Changi, May 08 Under a stone.
 location:
 - pgl
 - chg
 - cj
 - ecp
+size:
+- 1.0
+- 2.0
 ---
 
 ## Where seen?
@@ -53,7 +51,7 @@ This tiny snapping shrimp is often found under stones and inside sponges. Often 
 
 Body 1-2cm long. Usually translucent pale with tiny dark spots.
 
-[White snapping shrimps](alphballsoft.md)
+[White snapping shrimps](alphballsoft)
 are also often seen in ball soft corals.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

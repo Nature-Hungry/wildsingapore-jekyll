@@ -1,10 +1,9 @@
 ---
 title: 'Triton snails '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: ranellidae, cymatiidae, gastropod, mollusc, snail, shell, field, 
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: ranellidae, cymatiidae, gastropod, mollusc, snail, shell, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Ranellidae
 genus: ''
@@ -19,46 +18,28 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Tonnoidea
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/gyrineum/070902skdd6596m3.jpg
-links_references: |
-  **Links**
-  - [Family
-    Ranallidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Ranellidae.html)
-    on The
-    Gladys Archerd Shell Collection at Washington State University
-    Tri-Cities Natural History Museum website:
-    brief description and photos.
-  - Family
-    Ranallidae in
-    the Gastropods section by J.M. Poutiers in the FAO Species Identification
-    Guide for Fishery Purposes: The Living Marine Resources of the
-    Western Central Pacific [Volume
-    1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
-    Agriculture Organization of the United Nations (FAO) website.
-
-  **References**
-  - *New record of the hairy triton shell, Monoplex pilearis*, in Singapore, 29 November 2019, Calvin Leow Jiah Jay & Joash Tan, Singapore Biodiversity Records 2019: 148 ISSN 2345-7597, National University of Singapore.
-  - Tan Siong
-    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-    Checklist of The Molluscs of Singapore* (pdf), Raffles
-    Museum of Biodiversity Research, National University of Singapore.
-  - Tan, K. S.
-    & L. M. Chou, 2000. *A
-    Guide to the Common Seashells of Singapore*. Singapore
-    Science Centre. 160 pp.
-  - Wee Y.C.
-    and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-    National Council on the Environment. 163pp.
-  - Ng, P. K.
-    L. & Y. C. Wee, 1994. *The
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/gyrineum/070902skdd6596m3.jpg
+links_references: "**Links**\n- [Family\n  Ranallidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Ranellidae.html)\n\
+  \  on The\n  Gladys Archerd Shell Collection at Washington State University\n  Tri-Cities\
+  \ Natural History Museum website:\n  brief description and photos.\n- Family\n \
+  \ Ranallidae in\n  the Gastropods section by J.M. Poutiers in the FAO Species Identification\n\
+  \  Guide for Fishery Purposes: The Living Marine Resources of the\n  Western Central\
+  \ Pacific [Volume\n  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm)\
+  \ on the Food and\n  Agriculture Organization of the United Nations (FAO) website.\n\
+  \n**References**\n- *New record of the hairy triton shell, Monoplex pilearis*, in\
+  \ Singapore, 29 November 2019, Calvin Leow Jiah Jay & Joash Tan, Singapore Biodiversity\
+  \ Records 2019: 148 ISSN 2345-7597, National University of Singapore.\n- Tan Siong\n\
+  \  Kiat and Henrietta P. M. Woo, 2010 *Preliminary\n  Checklist of The Molluscs\
+  \ of Singapore* (pdf), Raffles\n  Museum of Biodiversity Research, National University\
+  \ of Singapore.\n- Tan, K. S.\n  & L. M. Chou, 2000. *A\n  Guide to the Common Seashells\
+  \ of Singapore*. Singapore\n  Science Centre. 160 pp.\n- Wee Y.C.\n  and Peter K.\
+  \ L. Ng. 1994. *A First Look at Biodiversity in Singapore*.\n  National Council\
+  \ on the Environment. 163pp.\n- Ng, P. K.\n  L. & Y. C. Wee, 1994. *The\n"
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/gyrineum/070902skdd6596m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/gyrineum/070902skdd6596m3.jpg
     caption: Common triton snail
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/cymatium/120510chgd2996m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/cymatium/120510chgd2996m3.jpg
     caption: Leopard triton snail
   gallery2:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -126,7 +107,7 @@ from Tan Siong Kiat and Henrietta P. M. Woo, 2010
 
 *Biplex perca*
 [*Cymatium*
-sp.](cymatium.md)
+sp.](cymatium)
 (Leopard triton snail)
 *Cymatium caudatum=^Ranularia caudata
 
@@ -144,7 +125,7 @@ Gyrineum gyrinum
 
 Gyrineum lacunatum
 
-[Gyrineum natator](gyrineum.md)*
+[Gyrineum natator](gyrineum)*
 (Common triton snails)
 
 +

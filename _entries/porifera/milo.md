@@ -1,10 +1,9 @@
 ---
 description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
-keywords: chimney, sponge, petrosia, porifera, field, guide, seashore, sea, 
-  shore,
+keywords: chimney, sponge, petrosia, porifera, field, guide, seashore, sea, shore,
 layout: entry
 shape: encrusting
-title: "'Milo' sponge"
+title: '''Milo'' sponge'
 family: ''
 genus: ''
 species: identification*
@@ -13,18 +12,14 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Oct 2016
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/porifera/milo/150705skdd7132m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/porifera/milo/150705skdd7132m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/milo/150705skdd7132m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/milo/150705skdd7132m3.jpg
     caption: Pulau Sekudu, Jul 15
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/milo/150705skdd7132m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/milo/150705skdd7132m3a.jpg
     caption: Surface grainy but smooth, glossy.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/milo/150705skdd7133m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/milo/150705skdd7133m3.jpg
     caption: Tiny hole, submerged.
 location:
 - cj

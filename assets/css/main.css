@@ -74,6 +74,7 @@ body {
   margin:0 auto;
 }
 
+
 .page-content {
   flex:      1;
   width:     100%;
@@ -1009,4 +1010,20 @@ li { margin-bottom: 0.2rem; }
 hr{
   color:lightgrey;
   margin:2rem 0;
+}
+
+
+input[type="text"]{
+  border:2px solid lightgrey;
+}
+select{
+  appearance: none;
+  width: 100%;
+  font-size: 1rem;
+  padding: 0.5em 5em 0.5em 1em;
+  background-color: #fff;
+  border: 1px solid #caced1;
+  border-radius: 0.25rem;
+  color: #000;
+  cursor: pointer;
 }

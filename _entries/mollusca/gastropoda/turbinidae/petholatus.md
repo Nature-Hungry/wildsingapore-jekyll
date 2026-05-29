@@ -1,10 +1,9 @@
 ---
 title: Tapestry turban snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: tapestry, turban, turbo, petholatus, turbinidae, gastropod, mollusc, 
-  snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal,
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: tapestry, turban, turbo, petholatus, turbinidae, gastropod, mollusc, snail,
+  shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Turbinidae
 genus: Turbo
@@ -20,21 +19,19 @@ order: Trochida
 superfamily: Trochoidea
 subfamily: Turbininae
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/petholatus/150830hntd9887m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/petholatus/150830hntd9887m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/petholatus/150830hntd9887m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/petholatus/150830hntd9887m3.jpg
     caption: Pulau Hantu, Aug 15
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/petholatus/150830hntd9869m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/petholatus/150830hntd9869m3.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/petholatus/150830hntd9905m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/petholatus/150830hntd9905m3.jpg
     caption: ''
 location:
 - hnt
+size:
+- 6.0
 ---
 
 ## Where seen?
@@ -45,9 +42,9 @@ About 6cm. Shell thick smooth glossy, without any cords. Colours brown, with a s
 
 **Sometimes confused with**
 the
-[Top shell snail](../trochidae/trochidae.md)
+[Top shell snail](../trochidae/trochidae)
 (Family Trochidae) has a more pyramidal shell and a thin operculum made of a horn-like material. While the turban shell snail has a shell with more distinct whorls and a thick, chalky operculum. Here's more on
-[how to tell apart turban and top shell snails](../topturban.md)
+[how to tell apart turban and top shell snails](../topturban)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Human uses:**

@@ -1,10 +1,9 @@
 ---
 title: Painted sweetlips
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: painted, sweetlips, fish, diagramma, pictum, haemulidae,  field, 
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: painted, sweetlips, fish, diagramma, pictum, haemulidae,  field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 attributes:
 - 9
@@ -25,57 +24,78 @@ superorder: Acanthomorpha
 order: Acanthuriformes
 subfamily: Plectorhinchinae
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/pictum/120410chgd9036m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/pictum/120410chgd9036m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/pictum/120410chgd9036m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/pictum/120410chgd9036m3.jpg
     caption: Changi, Apr 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/pictum/120410chgd9038m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/pictum/120410chgd9038m6l.jpg
     caption: Juvenile. Changi, Apr 12
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/pictum/161126chgay1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/pictum/161126chgay1.jpg
     caption: Changi, Nov 16 Photo shared by Abel Yeo on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/pictum/181027smksmn1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/pictum/181027smksmn1.jpg
     caption: Pulau Semakau, Oct 18 Photo shared by Marcus Ng on facebook .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/pictum/131104smkmn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/pictum/131104smkmn.jpg
     caption: . Pulau Semakau, Nov 13 Photo shared by Marcus Ng on flickr .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Painted sweetlips (
+
   *Diagramma pictum*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/283.md)
+
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/283)
+
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
+
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
+
   . Singapore Science Centre. 163 pp.
+
   - [*Diagramma pictum*
+
   (Painted sweetlips)](http://www.fishbase.org/summary/4465)
+
   from
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheet
 
+
   **References**
+
   - Kelvin K. P. Lim. 21 October 2013.
+
   *A post-larval Painted sweetlips, Diagramma pictum*
+
   . Singapore Biodiversity Records 2013: 15
+
   - Allen, Gerry, 2000.
+
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
+
   . Periplus Editions. 292 pp.
+
   - Kuiter, Rudie H. 2002.
+
   *Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers & Fishermen*
+
   New Holland Publishers. 434pp.
+
   - Lieske, Ewald and Robert Myers. 2001.
+
   *Coral Reef Fishes of the World*
+
   Periplus Editions. 400pp.
+
+  '
 location:
 - chg
 - smk
+size:
+- 10.0
 ---
 
 ## Where seen?

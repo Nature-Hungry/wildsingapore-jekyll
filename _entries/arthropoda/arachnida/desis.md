@@ -1,10 +1,8 @@
 ---
 title: Marine spider
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: spider, desis, martensi, arachnid, arthropod, field, guide, seashore, 
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, 
-  photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: spider, desis, martensi, arachnid, arthropod, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Desidae
 genus: Desis
@@ -123,30 +121,53 @@ galleries:
   - url: 
       https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/210428slujll5.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Jianlin Liu on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Desis martensi*](http://www.nparks.gov.sg/cms/docs/redbook/2aDesis%20martensi.pdf)
+
   on Singapore Red Data Book 2008 on the NParks website (pdf).
+
   - [Webs under water: The really bizarre lives of intertidal spiders](https://news.mongabay.com/2018/02/webs-under-water-the-really-bizarre-lives-of-intertidal-spiders/)
+
   by Bhanu Sridharan, Mongabay, 15 Feb 2018. About Desis around the world.
+
   - [Palp romance](http://budak.blogs.com/the_annotated_budak/2012/06/)
-  on The Annotated Budak: Marcus Ng shares some history about the discovery and thoughts about this spider.
+
+  on The Annotated Budak: Marcus Ng shares some history about the discovery and thoughts
+  about this spider.
+
   - [*Desis martensi*
+
   (Marine Spider)](https://wiki.nus.edu.sg/display/TAX/Desis+martensi+-+Marine+Spider)
+
   , on Taxo4254 Wiki.nus by Ng Weng Loong Kieron Gabriel, 15 Jan 2019
+
   - [*Desis martensi*](https://singapore.biodiversity.online/species/A-Arth-Arac-Aran-000046)
+
   on The Biodiversity of Singapore at the Lee Kong Chian Natural History Museum.
 
+
   **References**
+
   - Wee Y.C. and Peter K. L. Ng. 1994.
+
   *A First Look at Biodiversity in Singapore*
+
   . National Council on the Environment. 163pp.
+
   - Ng, P. K. L. & Y. C. Wee, 1994.
+
   *The Singapore Red Data Book: Threatened Plants and Animals of Singapore*
+
   . The Nature Society (Singapore), Singapore. 343 pp.
+
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+
   . Nature Society (Singapore). 285 pp.
+
+  '
 location:
 - skd
 - tus
@@ -167,6 +188,8 @@ location:
 - tsm
 - rfl
 - lfa
+size:
+- 1.0
 ---
 
 ## Where seen?
@@ -178,9 +201,9 @@ Body to about 1cm long. Its head and huge jaws are smooth maroon, body and legs 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**
 These spiders have been seen clutching in their jaws all kinds of animals including
-[shore crickets](../insecta/cricketshore.md)
+[shore crickets](../insecta/cricketshore)
 ,
-[sea slaters](../crustacea/othercrust/isopoda/ligia.md)
+[sea slaters](../crustacea/othercrust/isopoda/ligia)
 and little shrimps.
 
 **Baby spiders:**

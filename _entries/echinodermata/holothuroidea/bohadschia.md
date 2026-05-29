@@ -1,10 +1,9 @@
 ---
 title: Brown sea cucumber
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: brown, cucumber, seacucumber, bohadschia, vitiensis, holothuriidae, 
-  holothuroidae, echinoderm, field, guide, seashore, sea, shore, marine, 
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: brown, cucumber, seacucumber, bohadschia, vitiensis, holothuriidae, holothuroidae,
+  echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 0
@@ -27,127 +26,120 @@ class: Holothuroidea
 subclass: Actinopoda
 order: Holothuriida
 updated: Feb 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/080509cyrd2787m6l.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/080509cyrd2787m6l.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/080509cyrd2787m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/080509cyrd2787m6l.jpg
     caption: Cyrene Reef, May 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/080509cyrd2791m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/080509cyrd2791m3.jpg
     caption: Underside flat, pale. Cyrene Reef, May 08 .
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/080509cyrd2787m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/080509cyrd2787m3.jpg
     caption: Tube feet short with pointed tips. Cyrene Reef, May 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/120722cyrd8493m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/120722cyrd8493m3a.jpg
     caption: Feeding tentacles with bushy tips. Cyrene Reef, Jul 12 .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/091202cyrlks1m3.jpg
-    caption: When disturbed, releases Cuvierian tubules. Cyrene Reef, Dec 09 
-      Photo shared by Loh Kok Sheng on his flickr .
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/091202cyrlks1m3.jpg
+    caption: When disturbed, releases Cuvierian tubules. Cyrene Reef, Dec 09 Photo
+      shared by Loh Kok Sheng on his flickr .
   gallery3:
   - url: https://live.staticflickr.com/2363/32753187671_4ef313ba68_z.jpg
     caption: ''
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/140104cjlks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/140104cjlks.JPG
     caption: Chek Jawa, Jam 14 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/241116smkslks2.jpg
-    caption: Pulau Semakau (South), Nov 24 Photo shared by Loh Kok Sheng on 
-      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/241116smkslks2.jpg
+    caption: Pulau Semakau (South), Nov 24 Photo shared by Loh Kok Sheng on facebook
+      .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/160208smkslks3.JPG
-    caption: Pulau Semakau South, Feb 16 Photo shared by Loh Kok Sheng on his 
-      blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/150717smkshpy5m3.jpg
-    caption: Pulau Semakau South, Jul 15 Photo shared by Heng Pei Yan on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/221225smksccn1.jpg
-    caption: Pulau Semakau South, Dec 22 Photo shared by Che Cheng Neo on 
-      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/160208smkslks3.JPG
+    caption: Pulau Semakau South, Feb 16 Photo shared by Loh Kok Sheng on his blog
+      .
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/150717smkshpy5m3.jpg
+    caption: Pulau Semakau South, Jul 15 Photo shared by Heng Pei Yan on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/221225smksccn1.jpg
+    caption: Pulau Semakau South, Dec 22 Photo shared by Che Cheng Neo on facebook
+      .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/100711cyrlks9m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/100711cyrlks9m6l.jpg
     caption: Cyrene Reef, Jul 10 Photo shared by Loh Kok Sheng on his flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/120722cyrlks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/120722cyrlks.JPG
     caption: Cyrene Reef, Jul 12 Photo shared by Loh Kok Sheng on flickr .
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/091202cyrlks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/091202cyrlks.JPG
     caption: Cyrene Reef, Dec 09 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/091202cyrlks4.JPG
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/091202cyrlks4.JPG
     caption: Cyrene Reef, Dec 09
   gallery8:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/140712cyrlks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/140712cyrlks.JPG
     caption: Cyrene Reef, Jul 14
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/140712cyrlks2.JPG
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/140712cyrlks2.JPG
     caption: Photo shared by Loh Kok Sheng on flickr .
   gallery9:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/150816cyrlksa.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/150816cyrlksa.jpg
     caption: Cyrene Reef, Aug 15 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/150816cyrlks4.JPG
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/150816cyrlks4.JPG
     caption: Cyrene Reef, Aug 15 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/160608cyrmn5.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/160608cyrmn5.jpg
     caption: Cyrene Reef, Jun 16 Photo shared by Marcus Ng on facebook .
   gallery10:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/200209cyrlks4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/200209cyrlks4.jpg
     caption: Cyrene Reef, Feb 20 Photo shared by Loh Kok Sheng on facebook .
   gallery11:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/260101cryyls6.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/260101cryyls6.jpg
     caption: Cyrene Reef, Feb 2026 Photo shared by Yan Le Su on facebook .
   gallery12:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/230423cyrtch1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/230423cyrtch1.jpg
     caption: Cyrene Reef, Apr 23 Photo shared by Chay Hoon on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/230423cyrtch2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/230423cyrtch2.jpg
     caption: Cyrene Reef, Apr 23 Photo shared by Chay Hoon on facebook .
   gallery13:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/241116cyrmn1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/241116cyrmn1.jpg
     caption: . Cyrene Reef, Nov 24 Photo shared by Marcus Ng n on facebook .
   gallery14:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/220201brklks2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/bohadschia/220201brklks2.jpg
     caption: Pulau Berkas, Feb 22 Photo shared by Loh Kok Sheng on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Bohadschia vitiensis*](http://www.sealifebase.org/summary/SpeciesSummary.php?id=83484)
+
   on SeaLife Base: Technical fact sheet.
+
   - [*Bohadschia vitiensis*](http://species-identification.org/species.php?species_group=nasc&id=52&menuentry=soorten)
-  in North Australian Sea Cucumbers on Marine Species Identification Portal: Technical fact sheet.
+
+  in North Australian Sea Cucumbers on Marine Species Identification Portal: Technical
+  fact sheet.
+
   - [*Bohadschia vitiensis*](http://www.iucnredlist.org/details/180352/0)
+
   on IUCN Red List: Technical fact sheet.
+
   - *Bohadschia vitiensis*
+
   on
-  [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00.md)
+
+  [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00)
+
   , by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
 
+
   **References**
+
   - Lane, David J.W. and Didier Vandenspiegel. 2003
+
   *. A Guide to Sea Stars and Other Echinoderms of Singapore*
+
   . Singapore Science Centre. 187pp.
+
+  '
 location:
 - cj
 - cyr
 - smk
 - lfa
+size:
+- 15.0
+- 30.0
 ---
 
 ## Where seen?

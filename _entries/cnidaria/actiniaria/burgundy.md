@@ -1,10 +1,9 @@
 ---
 title: Burgundy anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: burgundy, anemone, bunodosoma, goanense, actiniidae, anthozoa, 
-  cnidarian, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: burgundy, anemone, bunodosoma, goanense, actiniidae, anthozoa, cnidarian,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 attributes:
 - 5
@@ -26,46 +25,60 @@ updated: Jul 2924
 coverimg: https://live.staticflickr.com/7234/7188585879_04af23aa56_c.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/burgundy/110701pgld5000m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/burgundy/110701pgld5000m3.jpg
     caption: Punggol, Jul 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/burgundy/120604pgld3628m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/burgundy/120604pgld3628m3.jpg
     caption: Punggol, Jun 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/burgundy/080702prpd6501m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/burgundy/080702prpd6501m3.jpg
     caption: Pasir Ris, Jul 08
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/burgundy/110620pgld4556m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/burgundy/110620pgld4556m3.jpg
     caption: Punggol, Jul 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/burgundy/110620pgld4558m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/burgundy/110620pgld4558m3a.jpg
     caption: Punggol, Jul 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/burgundy/110620pgld4557m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/burgundy/110620pgld4557m3.jpg
     caption: Punggol, Jul 11
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/burgundy/121016ubnlks1m3.JPG
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/burgundy/121016ubnlks1m3.JPG
     caption: Pulau Ubin, Oct 12 Photo shared by Loh Kok Sheng on his blog .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Bunodosoma goanense*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail.cfm?genus=Bunodosoma&subgenus=&species=goanense&subspecies=&synseniorid=1543&nameid=)
+
   on the
+
   [Hexacorallians of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/order.cfm)
-  website by Dr Daphne G. Fautin with classification, distribution, biological associations and more.
+
+  website by Dr Daphne G. Fautin with classification, distribution, biological associations
+  and more.
+
 
   **References**
-  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
-  - D. G. Fautin, R. Tan, N. W. L. Yap, Tan S. H., A. Crowther, R. Goodwill, K. Sanpanich & Tay Y. C.
-  *Sea anemones (Cnidaria: Actiniaria) of Singapore: shallow water species known also from the Indian subcontinent*
-  . 10 July 2015 The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 44-59.
+
+  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
+  Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H.
+  Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The
+  Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition.
+  National Parks Board. 663 pp.
+
+  - D. G. Fautin, R. Tan, N. W. L. Yap, Tan S. H., A. Crowther, R. Goodwill, K. Sanpanich
+  & Tay Y. C.
+
+  *Sea anemones (Cnidaria: Actiniaria) of Singapore: shallow water species known also
+  from the Indian subcontinent*
+
+  . 10 July 2015 The Comprehensive Marine Biodiversity Survey: Johor Straits International
+  Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 44-59.
+
+  '
 location:
 - pgl
 - prp
 - chg
 - ubn
+size:
+- 5.0
+- 8.0
 ---
 
 ## Where seen?

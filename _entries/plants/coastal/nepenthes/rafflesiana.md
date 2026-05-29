@@ -22,43 +22,47 @@ order: Caryophyllales
 inat_id: 123555
 updated: Jan 13
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/nepenthes/rafflesiana/090609sntd3596m6l.jpg
-links_references: |
-  **Links**
-  - [*Nepenthes
-    rafflesiana*](http://uforest.org/Species/N/Nepenthes_rafflesiana.html) on Urban Forest: phoots and fact sheet.
-  - [*Nepenthes
-    rafflesiana*](http://floraofsingapore.wordpress.com/2010/11/08/nepenthes-rafflesiana/) on Total Vascular Flora of Singapore Online:
-    photos and fact sheet.
-  - [*Nepenthes
-    rafflesiana*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=1459) on the NParks Flora and Fauna website: photos
-    and fact sheet.
-  
-  **References**
-  - Tan, Hugh
-    T.W. 1997. *A Guide to the Carnivorous Plants of SIngapore*.
-    BP Science Centre Guidebook. 176 pp.
-  - Tan, Hugh
-    T.W. and T. Morgany. 2001. *[Growing
-    the Native Plants of Singapore](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*. BP Science Centre Guidebook.
-    168pp.
-  - Hsuan Keng,
-    S.C. Chin and H. T. W. Tan.1998, *[The
+links_references: "**Links**\n- [*Nepenthes\n  rafflesiana*](http://uforest.org/Species/N/Nepenthes_rafflesiana.html)\
+  \ on Urban Forest: phoots and fact sheet.\n- [*Nepenthes\n  rafflesiana*](http://floraofsingapore.wordpress.com/2010/11/08/nepenthes-rafflesiana/)\
+  \ on Total Vascular Flora of Singapore Online:\n  photos and fact sheet.\n- [*Nepenthes\n\
+  \  rafflesiana*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=1459)\
+  \ on the NParks Flora and Fauna website: photos\n  and fact sheet.\n\n**References**\n\
+  - Tan, Hugh\n  T.W. 1997. *A Guide to the Carnivorous Plants of SIngapore*.\n  BP\
+  \ Science Centre Guidebook. 176 pp.\n- Tan, Hugh\n  T.W. and T. Morgany. 2001. *[Growing\n\
+  \  the Native Plants of Singapore](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*.\
+  \ BP Science Centre Guidebook.\n  168pp.\n- Hsuan Keng,\n  S.C. Chin and H. T. W.\
+  \ Tan.1998, *[The\n"
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/nepenthes/rafflesiana/070408sntg8586m3e.jpg"
-      caption: "Female flowers. Sentosa, Apr 04"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/nepenthes/rafflesiana/101223sntd3927m6l.jpg"
-      caption: "Male flowers. Sentosa, Dec 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/nepenthes/rafflesiana/090809sjid8806m3.jpg"
-      caption: "Ripe capsules split, releasing thread-like seeds.. St John's Island, Aug 09"
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/nepenthes/rafflesiana/070408sntg8586m3e.jpg
+    caption: Female flowers. Sentosa, Apr 04
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/nepenthes/rafflesiana/101223sntd3927m6l.jpg
+    caption: Male flowers. Sentosa, Dec 10
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/nepenthes/rafflesiana/090809sjid8806m3.jpg
+    caption: Ripe capsules split, releasing thread-like seeds.. St John's Island,
+      Aug 09
   gallery2:
-    - url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
-      caption: "Links Nepenthes rafflesiana on Urban Forest: phoots and fact sheet. Nepenthes rafflesiana on Total Vascular Flora of Singapore Online: photos and fact sheet. Nepenthes rafflesiana on the NParks Flora and Fauna website: photos and fact sheet. References Tan, Hugh T.W. 1997. A Guide to the Carnivorous Plants of SIngapore . BP Science Centre Guidebook. 176 pp. Tan, Hugh T.W. and T. Morgany. 2001. Growing the Native Plants of Singapore . BP Science Centre Guidebook. 168pp. Hsuan Keng, S.C. Chin and H. T. W. Tan.1998, The Concise Flora of Singapore II: Monoctyledons Singapore University Press. 215 pp. Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red Data Book: Threatened plants and animals of Singapore . Nature Society (Singapore). 285 pp. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444."
+  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
+    caption: 'Links Nepenthes rafflesiana on Urban Forest: phoots and fact sheet.
+      Nepenthes rafflesiana on Total Vascular Flora of Singapore Online: photos and
+      fact sheet. Nepenthes rafflesiana on the NParks Flora and Fauna website: photos
+      and fact sheet. References Tan, Hugh T.W. 1997. A Guide to the Carnivorous Plants
+      of SIngapore . BP Science Centre Guidebook. 176 pp. Tan, Hugh T.W. and T. Morgany.
+      2001. Growing the Native Plants of Singapore . BP Science Centre Guidebook.
+      168pp. Hsuan Keng, S.C. Chin and H. T. W. Tan.1998, The Concise Flora of Singapore
+      II: Monoctyledons Singapore University Press. 215 pp. Davison, G.W. H. and P.
+      K. L. Ng and Ho Hua Chew, 2008. The Singapore Red Data Book: Threatened plants
+      and animals of Singapore . Nature Society (Singapore). 285 pp. Burkill, I. H.,
+      1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing.
+      Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1:
+      1-1240; volume 2: 1241-2444.'
+size:
+- 1000.0
 ---
 
 ## Where seen?
 In Singapore, it is usually found in
-[adinandra belukar](../adinandra/dumosa.md)
+[adinandra belukar](../adinandra/dumosa)
 , forest edges or on seaward sides of our natural cliffs on many of our offshore islands. This plant has the largest pitchers in Singapore and was first discovered in Singapore in 1819 by Dr William Jack, the Scottish botanist and surgeon who accompanied Raffles to Singapore.
 
 ## Features

@@ -24,35 +24,54 @@ updated: Dec 2020
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/versicolor/030531sbwrd0032m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/versicolor/030531sbwrd0032m3.jpg"
-      caption: "Sungei Buloh Wetland Reserve, May 03"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/versicolor/030809ubndd0245m6l.jpg"
-      caption: "Pulau Ubin, Aug 03"
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/versicolor/030531sbwrd0032m3.jpg
+    caption: Sungei Buloh Wetland Reserve, May 03
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/versicolor/030809ubndd0245m6l.jpg
+    caption: Pulau Ubin, Aug 03
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/versicolor/040918sbwrd6805m6l.jpg"
-      caption: "Males develop an orange head with black blotchy cheeks during breeding season. Sungei Buloh Wetland Reserve, Sep 04"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/versicolor/020111sbwrcpd4606m3.jpg"
-      caption: "Sungei Buloh Wetland Reserve, Jan 02"
-links_references: |
-  **Links**
-  - [Changeable lizard](http://www.ecologyasia.com/verts/lizards/changeable_lizard.md)
-  on Nick Baker's EcologyAsia website: fact sheet with photos.
-  
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/versicolor/040918sbwrd6805m6l.jpg
+    caption: Males develop an orange head with black blotchy cheeks during breeding
+      season. Sungei Buloh Wetland Reserve, Sep 04
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/versicolor/020111sbwrcpd4606m3.jpg
+    caption: Sungei Buloh Wetland Reserve, Jan 02
+links_references: '**Links**
+
+  - [Changeable lizard](http://www.ecologyasia.com/verts/lizards/changeable_lizard)
+
+  on Nick Baker''s EcologyAsia website: fact sheet with photos.
+
+
   **References**
+
   - Lim, Kelvin K. P. & Francis L K Lim, 1992.
+
   *A Guide to the Amphibians and Reptiles of Singapore*
+
   Singapore Science Centre. 160 pp.
+
   - Baker, Nick and Kelvin Lim. 2008.
-  *Wild Animals of Singapore: A Photographic Guide to Mammals, Reptiles, Amphibians and Freshwater Fishes*
+
+  *Wild Animals of Singapore: A Photographic Guide to Mammals, Reptiles, Amphibians
+  and Freshwater Fishes*
+
   Vertebrate Study Group, Nature Society (Singapore). 180 pp.
-  - Cox, Merel J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt. 1998.
-  *A Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular Malaysia and Singapore*
+
+  - Cox, Merel J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt.
+  1998.
+
+  *A Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular Malaysia
+  and Singapore*
+
   New Holland.
+
+  '
+size:
+- 37.0
 ---
 
 ## Where seen?
 This large sometimes brightly coloured lizard is commonly seen in our wild places including near mangroves and coastal vegetation. It is active during the day and is arboreal, found in bushes and trees. It is believed to have been introduced to Singapore possibly in the 1980's and has since spread almost everywhere, including in parks and urban areas. It is native to continental Asia up to the northern Peninsular Malaysia. In Singapore, it has displaced the
-[Green crested lizard](cristatella.md)
+[Green crested lizard](cristatella)
 (
 *Bronchodela cristatella*
 ) a native lizard which used to be commonly seen.

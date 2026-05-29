@@ -26,32 +26,49 @@ updated: Oct 2016
 coverimg: http://www.wildsingapore.com/wildfacts/plants/others/drymoglossum/piloselloides/090408wdld9130m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/others/drymoglossum/piloselloides/090408wdld9129m3a.jpg"
-      caption: Brown spores on the fertile frond.
-    - url: "http://www.wildsingapore.com/wildfacts/plants/others/drymoglossum/piloselloides/090408wdld9129m3.jpg"
-      caption: Fertile frond.
-    - url: "http://www.wildsingapore.com/wildfacts/plants/others/drymoglossum/piloselloides/090408wdld9129m3b.jpg"
-      caption: Sterile frond.
+  - url: http://www.wildsingapore.com/wildfacts/plants/others/drymoglossum/piloselloides/090408wdld9129m3a.jpg
+    caption: Brown spores on the fertile frond.
+  - url: http://www.wildsingapore.com/wildfacts/plants/others/drymoglossum/piloselloides/090408wdld9129m3.jpg
+    caption: Fertile frond.
+  - url: http://www.wildsingapore.com/wildfacts/plants/others/drymoglossum/piloselloides/090408wdld9129m3b.jpg
+    caption: Sterile frond.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/others/drymoglossum/piloselloides/110328mndd8055m6l.jpg"
-      caption: "Mandai, Mar 11"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/others/drymoglossum/piloselloides/110328mndd8056m6l.jpg"
-      caption: "Mandai, Mar 11"
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/plants/others/drymoglossum/piloselloides/110328mndd8055m6l.jpg
+    caption: Mandai, Mar 11
+  - url: http://www.wildsingapore.com/wildfacts/plants/others/drymoglossum/piloselloides/110328mndd8056m6l.jpg
+    caption: Mandai, Mar 11
+links_references: '**Links**
+
   - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.md)
-  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
+
+  [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
+
+  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization
+  of the United Nations Regional Office for Asia and the Pacific Bangkok.
+
   - *[Pyrrosia piloselloides](https://singapore.biodiversity.online/taxo4254/mainSpace/Pyrrosia%20piloselloides.html)*
+
   (Polypodiales: Polypodiaceae) by Lee Saeyun, 2016, on taxo4254.
-  
+
+
   **References**
+
   - Burkill, I. H., 1993.
+
   *A Dictionary of the Economic Products of the Malay Peninsula*
-  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
+
+  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
+  Volume 1: 1-1240; volume 2: 1241-2444.
+
   - Wee Yeow Chin. 1983.
+
   *Ferns of Singapore*
+
   . The Singapore Science Centre. 72pp.
+
+  '
+size:
+- 1.0
 ---
 
 ## Where seen?

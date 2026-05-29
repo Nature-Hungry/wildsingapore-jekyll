@@ -1,10 +1,9 @@
 ---
 title: Cuthona nudibranch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: cuthona, sibogae, aeolid, glaucidae, aeolidina, nudibranch, slug, 
-  seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, 
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: cuthona, sibogae, aeolid, glaucidae, aeolidina, nudibranch, slug, seaslug,
+  opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Tergipedidae
 genus: Cuthona
@@ -23,64 +22,75 @@ order: Nudibranchia
 suborder: Aeolidina
 superfamily: Fionoidea
 updated: May 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sibogae/050724bbg0235m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sibogae/050724bbg0235m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sibogae/050724bbg0235m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sibogae/050724bbg0235m3.jpg
     caption: Beting Bronok, Jul 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sibogae/050724bbg0234m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sibogae/050724bbg0234m3a.jpg
     caption: Carrying eggs?
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sibogae/050724bbg0234m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sibogae/050724bbg0234m3.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sibogae/110518bbd1853m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sibogae/110518bbd1853m3a.jpg
     caption: Beting Bronok, May 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sibogae/110518bbd1884m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sibogae/110518bbd1884m6l.jpg
     caption: Mating? Beting Bronok, May 11
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sibogae/190802chgjll1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sibogae/190802chgjll1.jpg
     caption: Changi, Aug 19 Photo shared by Jianlin Liu on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sibogae/250627bbvc1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sibogae/250627bbvc1.jpg
     caption: Beting Bronok, Jun 25 Photo shared by Vincent Choo on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sibogae/110519bbjk.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sibogae/110519bbjk.jpg
     caption: Beting Bronok, May 11 Photo shared by James Koh on facebook .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sibogae/210430sjijll3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sibogae/210430sjijll3.jpg
     caption: St John's Island, Apr 21 Photo shared by Jianlin Liu on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
+
   by Dr Bill Rudman: photos, fact sheet on
+
   *[Cuthona sibogae](http://www.seaslugforum.net/find/cuthsp4)*
 
+
   **References**
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Coleman, Neville. 2001.
+
   *1001 Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*
-  . Neville Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
+
+  . Neville Coleman''s Underwater Geographic Pty Ltd, Australia.144pp.
+
   - Humann, Paul and Ned Deloach. 2010.
+
   *Reef Creature Identification: Tropical Pacific*
+
   New World Publications. 497pp.
+
   - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.
-  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
+
+  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive
+  of the vertebrates*
+
   Sea Challengers. 314pp.
+
+  '
 location:
 - chg
 - bb
 - sji
+size:
+- 2.0
+- 3.5
 ---
 
 ## Where seen?
@@ -92,11 +102,11 @@ This beautiful nudibranch is sometimes seen at Beting Bronok, and often encounte
 
 **Sometimes mistaken for**
 the
-[blue dragon nudibranch](ianthina.md)
+[blue dragon nudibranch](ianthina)
 which has purple bands on the oral tentacles.
 **What does it eat?**
 It eats hydroids, including the orange
-[Fern hydroid](../../../cnidaria/others/hydrozoa/sertularella.md)
+[Fern hydroid](../../../cnidaria/others/hydrozoa/sertularella)
 (
 *Sertularella*
 sp.). According to Bill Rudman, it feeds on

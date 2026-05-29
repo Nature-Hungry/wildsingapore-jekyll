@@ -1,10 +1,8 @@
 ---
 title: Giant carpet anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: giant, carpet, anemone, stichodactyla, gigantea, field, guide, 
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: giant, carpet, anemone, stichodactyla, gigantea, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 6
@@ -31,113 +29,105 @@ suborder: Enthemonae
 superfamily: Actinioidea
 updated: Dec 2024
 coverimg: https://live.staticflickr.com/65535/55164133977_658925fe00_c.jpg
-trivia_title: "if you learn only 3 things about them ..."
-trivia_items: [
-  "They are found among rubble. Don't step on them!",
-  "Don't remove any fishes or shrimps that live in the anemone. They will die and the anemone will also suffer.",
-  "Don't poke the anemone to try to make fishes or shrimps come out. They will instead hide deeper in the anemone."
-]
+trivia_title: if you learn only 3 things about them ...
+trivia_items:
+- They are found among rubble. Don't step on them!
+- Don't remove any fishes or shrimps that live in the anemone. They will die and the
+  anemone will also suffer.
+- Don't poke the anemone to try to make fishes or shrimps come out. They will instead
+  hide deeper in the anemone.
 galleries:
-  
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/140713tsmkd7155m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/140713tsmkd7155m3.jpg
     caption: Terumbu Semakau , Jul 14
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/140713tsmkd7155m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/140713tsmkd7155m3a.jpg
     caption: Rows of colourful verrucae on upper portion of the underside.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/140713tsmkd7155m3c.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/140713tsmkd7155m3c.jpg
     caption: Tentacles not tightly packed.
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/121115tsmkd1073m3.jpg
-    caption: Tentacles may stick to finger and break off. Terumbu Semakau, Nov 
-      12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/070701hntg0823m3.jpg
-    caption: The Peacock-tail anemone shrimp and small False clown anemonefish 
-      in a Giant carpet anemone. Pulau Hantu, Jul 07
-  - url: 
-      http://www.wildsingapore.com/vertebrates/fish/pomacentridae/ocellaris/090822sisd9681m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/121115tsmkd1073m3.jpg
+    caption: Tentacles may stick to finger and break off. Terumbu Semakau, Nov 12
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/070701hntg0823m3.jpg
+    caption: The Peacock-tail anemone shrimp and small False clown anemonefish in
+      a Giant carpet anemone. Pulau Hantu, Jul 07
+  - url: http://www.wildsingapore.com/vertebrates/fish/pomacentridae/ocellaris/090822sisd9681m3.jpg
     caption: Clown anemonefish in a Giant carpet anemone. Sisters Island, Aug 09
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/250501skddc2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/250501skddc2.jpg
     caption: Pulau Sekudu, May 25 Photo shared by Dayna Cheah on facebook .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/140518tmlks4m3.JPG
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/140518tmlks4m3.JPG
     caption: Tanah Merah, May 14 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/151001blylks10m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/151001blylks10m3.jpg
     caption: Berlayar Creek, Oct 15 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/170822labjt1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/170822labjt1.jpg
     caption: Labrador, Aug 17 Photo shared by Jonathan Tan on facebook .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/260104trmrqo11.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/260104trmrqo11.jpg
     caption: Sentosa Tg Rimau, Jan 26 Photo shared by Rui Quan Oh on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/241019lazccn1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/241019lazccn1.jpg
     caption: Lazarus Island, Oct 24 Photo shared by Che Cheng Neo on facebook .
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/101106burlks4m3.JPG
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/101106burlks4m3.JPG
     caption: Terumbu Buran, Nov 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/101108bkoms00610m4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/101108bkoms00610m4.jpg
     caption: Terumbu Bukom, Nov 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/091204pawd0076m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/091204pawd0076m3.jpg
     caption: Pulau Pawai, Dec 09
   gallery8:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/100530tbkd4269m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/100530tbkd4269m3.jpg
     caption: Pulau Berkas, May 10 Bleaching.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/100613sngd5664m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/100613sngd5664m3.jpg
     caption: Pulau Senang, Jun 10 Bleaching.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/100613sngd5632m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/100613sngd5632m3.jpg
     caption: Pulau Senang, Jun 10 Bleaching.
   gallery9:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/100130brkd8696m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/100130brkd8696m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/100131slud8882m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/100131slud8882m3a.jpg
     caption: Terumbu Salu, Jan 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/091205sudjk7m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/091205sudjk7m3.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by James Koh on his flickr .
   gallery10:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/100531biod4500m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/100531biod4500m3.jpg
     caption: Pulau Biola, May 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/091231biod6992m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/091231biod6992m3.jpg
     caption: Pulau Biola, Dec 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/100530tbkd4312m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/100530tbkd4312m3.jpg
     caption: Pulau Berkas, May 10
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Stichodactyla gigantea*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail.cfm?genus=Stichodactyla&subgenus=&species=gigantea&subspecies=&synseniorid=147)
+
   on the
+
   [Hexacorallians of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/)
-  website by Dr Daphne Fautin with classification, distribution, biological associations and more.
+
+  website by Dr Daphne Fautin with classification, distribution, biological associations
+  and more.
+
   - [*Stichodactyla gigantea*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail.cfm?genus=Stichodactyla&subgenus=&species=gigantea&subspecies=&synseniorid=147)
+
   on the
+
   [Hexacorallians of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/)
-  website by Dr Daphne Fautin with classification, distribution, biological associations and more.
+
+  website by Dr Daphne Fautin with classification, distribution, biological associations
+  and more.
+
   - [*Stichodactyla gigantea*](http://www.nhm.ku.edu/inverts/ebooks/ch1.html#gigent)
+
   on Fautin, Daphne G. and Gerald R. Allen, 1992.
+
   [Field guide to anemone fishes and their host sea anemones](http://www.nhm.ku.edu/inverts/ebooks/intro.html)
+
   . Western Australian Museum.
+
   - [*Stichodactyla gigantea*](http://www.sealifebase.org/summary/Stichodactyla-gigantea.html)
+
   on SeaLife Base: technical fact sheet.
+
+  '
 location:
 - pgl
 - skd
@@ -159,6 +149,9 @@ location:
 - tsm
 - rfl
 - lfa
+size:
+- 40.0
+- 50.0
 ---
 
 ## Where seen?
@@ -167,22 +160,22 @@ This enormous colourful anemone with short skinny tentacles is commonly seen on 
 ## Features
 
 Those seen about 40-50cm in diameter when exposed out of water. The oral disk expands when submerged. The large oral disk covered with short tentacles so that it resembles a shaggy carpet. The oral disk is often folded and rarely held flat against the surface, unlike
-[Merten's carpet anemone](mertensii.md)
+[Merten's carpet anemone](mertensii)
 . The long body column is usually buried or inserted into a crevice and ends in a pedal disk that anchors the animal.
 
 Body column is sometimes colourful (bright pink, orange, yellow). Bumps (verrucae) appear as rows of spots, generally in bright colours (pink, purple). They are non-adhesive and found on the upper part of the body column.
 
 Tentacles short (about 1cm), narrow and uniform in length. Usually brown or purplish with lighter coloured tips. The tentacles are not very tightly packed and when submerged, are usually in constant motion. The tentacles are very sticky and may stick to a finger and break off. It does not have a fringe of long-short tentacles at the edge of the oral disk like
-[Haddon's carpet anemone](/wildfacts/cnidaria/actiniaria/haddoni.md)
+[Haddon's carpet anemone](/wildfacts/cnidaria/actiniaria/haddoni)
 .
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Sometimes confused with**
 other large anemones and similar large cnidarians. Here's more on how to tell apart
-[the different kinds of carpet anemones](stichodactyla.md)
+[the different kinds of carpet anemones](stichodactyla)
 and
-[large sea anemones with long tentacles](cfbiglong.md)
+[large sea anemones with long tentacles](cfbiglong)
 and
-[large 'hairy' cnidarians](../cflargecnidarians.md)
+[large 'hairy' cnidarians](../cflargecnidarians)
 .
 
 **Carpet food:**
@@ -192,9 +185,9 @@ Carpet anemones harbour symbiotic single-celled algae (called zooxanthellae). Th
 Besides the symbiotic algae that lives inside the their tentacles several kinds of animals have been associated with giant carpet anemones. These include anemone shrimps (
 *Periclimenes*
 sp.), and fishes such as
-[Three-spot dascyllus](../../vertebrates/fish/pomacentridae/trimaculatus.md)
+[Three-spot dascyllus](../../vertebrates/fish/pomacentridae/trimaculatus)
 and
-[anemonefishes](../../vertebrates/fish/pomacentridae/amphiprion.md)
+[anemonefishes](../../vertebrates/fish/pomacentridae/amphiprion)
 (
 *Amphiprion*
 sp.) including
@@ -202,9 +195,9 @@ sp.) including
 ,
 *A. percula, A. perideraion, A. polymnus*
 . But so far, the only animals observed on giant carpet anemones were: the
-[Peacock-tail anemone shrimps](../../crustacea/othercrust/shrimp/brevicarpalis.md)
+[Peacock-tail anemone shrimps](../../crustacea/othercrust/shrimp/brevicarpalis)
 and the
-[Clown anemonefish](../../vertebrates/fish/pomacentridae/ocellaris.md)
+[Clown anemonefish](../../vertebrates/fish/pomacentridae/ocellaris)
 .
 
 **Stinging carpet!**

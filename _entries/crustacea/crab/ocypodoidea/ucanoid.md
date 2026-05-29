@@ -27,12 +27,12 @@ updated: Mar 11
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/noid/110327cjd7977m3.jpg"
-      caption: "Chek Jawa, Mar 11"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/noid/110327cjd7974m3.jpg"
-      caption: "Chek Jawa, Mar 11"
-    - url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/noid/110102cjd4694m3.jpg"
-      caption: "Chek Jawa, Jan 11"
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/noid/110327cjd7977m3.jpg
+    caption: Chek Jawa, Mar 11
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/noid/110327cjd7974m3.jpg
+    caption: Chek Jawa, Mar 11
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/noid/110102cjd4694m3.jpg
+    caption: Chek Jawa, Jan 11
 ---
 
 **Unidentified fiddler crab #110327cjd7977**

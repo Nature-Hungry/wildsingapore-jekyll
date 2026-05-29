@@ -1,10 +1,9 @@
 ---
 title: Face-banded sesarmine crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: face, banded, perisesarma, chiromantes, indiarum, eumolpe, crab, 
-  sesarmidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, 
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: face, banded, perisesarma, chiromantes, indiarum, eumolpe, crab, sesarmidae,
+  decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 38
@@ -30,79 +29,60 @@ zoosection: Eubrachyura
 zoosubsection: Thoracotremata
 superfamily: Grapsoidea
 updated: Dec 2025
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/100425kntd1687m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/100425kntd1687m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/100425kntd1687m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/100425kntd1687m3.jpg
     caption: Kranji Nature Trail, Apr 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/090228smkd7247m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/090228smkd7247m3.jpg
     caption: Perisesarma indiarum Pulau Semakau, Mar 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/090228smkd7247m3c.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/090228smkd7247m3c.jpg
     caption: Bright upside-down V-shape under the face-band.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/100606prpd5221m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/100606prpd5221m3.jpg
     caption: Pasir Ris, Jun 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/101226krjd4197m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/101226krjd4197m3.jpg
     caption: Kranji Nature Trail, Dec 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/091226cjd6255m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/091226cjd6255m3.jpg
     caption: Chek Jawa, Dec 09
-links_references: |
-  **Links**
-  - [Sesarmine crabs](http://mangrove.nus.edu.sg/guidebooks/text/2048.md)
-  Ng, Peter K. L. & N. Sivasothi, 1999.
-  *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
-  . Singapore Science Centre. 168 pp.
-  - [Sesarmine crabs (
-  *Episesarma*
-  and
-  *Chiromantes*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/198.md)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988.
-  *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
-  . The Singapore Science Centre, Singapore. 160 pp.
-  - [*Perisesarma eumolpe*](https://singapore.biodiversity.online/taxo4254/mainSpace/Perisesarma%20eumolpe.html)
-  (Decapoda: Sesarmidae) Face-banded sesarmine crab by Wong Jinfa, 2012 on taxo4254.
-  - "Feeding ecology of two species of
-  *Perisesarma*
-  (Crustacea: Decapoda: Brachyura: Sesarmidae) in Mandai Mangroves, Singapore" by Boon Pei Ya, Darren C. J. Yeo, and Peter A. Todd in Journal of Crustacean Biology, 28(3): 480-484, 2008 (
-  [Abstract on BioOne](http://www.bioone.org/doi/abs/10.1651/07-2835R.1?journalCode=crus)
-  )
-  - "Inter- and intra-specific variation in the facial colours of
-  *Perisesarma eumolpe*
-  and
-  *Perisesarma indiarum*
-  (Crustacea: Brachyura: Sesarmidae)" by H. Huang, P. A. Todd, D. C. J. Yeo in Hydrobiologia (2008) 598:361-371 DOI 10.1007/s10750-007-9169-z (
-  [Abstract on SpringerLink](http://www.springerlink.com/content/481621434l2r564p/)
-  ).
-  - From the wild shores of singapore blog
-  - [Fascinating face-banded sesarmine crabs](http://wildshores.blogspot.com/2009/04/fascinating-face-banded-sesarmine-crabs.html)
-  - [Wild victory dance of crabs on our shores](http://wildshores.blogspot.com/2009/07/wild-victory-dance-of-crabs-on-our.html)
-  - [When crabs perform their victory dance](http://wildsingaporenews.blogspot.com/2009/07/when-crabs-perform-their-victory-dance.html)
-  Grace Chua, Straits Times 11 Jul 09.
-
-  **References**
-  - "NUS researchers discover what’s behind the electric blue strip on local mangrove crab" Zachary Lim
-  [Straits Times](https://www.straitstimes.com/singapore/environment/nus-researchers-discover-whats-behind-the-electric-blue-strip-on-local-mangrove-crab)
-  16 Jun 2025.
-  - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
-  *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs of the world.*
-  The Raffles Bulletin of Zoology. Supplement No. 17, 31 Jan 2008. 286 pp.
-  - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
-  *Rhythm of the Sea: The Life and Times of Labrador Beach.*
-  Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+links_references: "**Links**\n- [Sesarmine crabs](http://mangrove.nus.edu.sg/guidebooks/text/2048)\n\
+  Ng, Peter K. L. & N. Sivasothi, 1999.\n*[A Guide to the Mangroves of Singapore II\
+  \ (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*\n. Singapore Science\
+  \ Centre. 168 pp.\n- [Sesarmine crabs (\n*Episesarma*\nand\n*Chiromantes*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/198)\n\
+  Tan, Leo W. H. & Ng, Peter K. L., 1988.\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n\
+  . The Singapore Science Centre, Singapore. 160 pp.\n- [*Perisesarma eumolpe*](https://singapore.biodiversity.online/taxo4254/mainSpace/Perisesarma%20eumolpe.html)\n\
+  (Decapoda: Sesarmidae) Face-banded sesarmine crab by Wong Jinfa, 2012 on taxo4254.\n\
+  - \"Feeding ecology of two species of\n*Perisesarma*\n(Crustacea: Decapoda: Brachyura:\
+  \ Sesarmidae) in Mandai Mangroves, Singapore\" by Boon Pei Ya, Darren C. J. Yeo,\
+  \ and Peter A. Todd in Journal of Crustacean Biology, 28(3): 480-484, 2008 (\n[Abstract\
+  \ on BioOne](http://www.bioone.org/doi/abs/10.1651/07-2835R.1?journalCode=crus)\n\
+  )\n- \"Inter- and intra-specific variation in the facial colours of\n*Perisesarma\
+  \ eumolpe*\nand\n*Perisesarma indiarum*\n(Crustacea: Brachyura: Sesarmidae)\" by\
+  \ H. Huang, P. A. Todd, D. C. J. Yeo in Hydrobiologia (2008) 598:361-371 DOI 10.1007/s10750-007-9169-z\
+  \ (\n[Abstract on SpringerLink](http://www.springerlink.com/content/481621434l2r564p/)\n\
+  ).\n- From the wild shores of singapore blog\n- [Fascinating face-banded sesarmine\
+  \ crabs](http://wildshores.blogspot.com/2009/04/fascinating-face-banded-sesarmine-crabs.html)\n\
+  - [Wild victory dance of crabs on our shores](http://wildshores.blogspot.com/2009/07/wild-victory-dance-of-crabs-on-our.html)\n\
+  - [When crabs perform their victory dance](http://wildsingaporenews.blogspot.com/2009/07/when-crabs-perform-their-victory-dance.html)\n\
+  Grace Chua, Straits Times 11 Jul 09.\n\n**References**\n- \"NUS researchers discover\
+  \ what\u2019s behind the electric blue strip on local mangrove crab\" Zachary Lim\n\
+  [Straits Times](https://www.straitstimes.com/singapore/environment/nus-researchers-discover-whats-behind-the-electric-blue-strip-on-local-mangrove-crab)\n\
+  16 Jun 2025.\n- Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.\n\
+  *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs\
+  \ of the world.*\nThe Raffles Bulletin of Zoology. Supplement No. 17, 31 Jan 2008.\
+  \ 286 pp.\n- Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.\n*Rhythm of the Sea: The\
+  \ Life and Times of Labrador Beach.*\nDivision of Biology, School of Science, Nanyang\
+  \ Technological University & Department of Zoology, the National University of Singapore.\
+  \ 160 pp.\n"
 location:
 - sbw
 - lck
 - prp
 - cj
 - smk
+size:
+- 2.0
+- 3.0
 ---
 
 ## Where seen?

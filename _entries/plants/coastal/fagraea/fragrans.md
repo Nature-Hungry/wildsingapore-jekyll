@@ -26,44 +26,69 @@ updated: Nov 10
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/090410ubno058m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/110502prpd0487m3.jpg"
-      caption: "Pasir Ris Park, May 11"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/090410ubnd9403m3.jpg"
-      caption: "Changi, Apr 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/090906prpd0368m3.jpg"
-      caption: "Planted in the Park Pasir Ris, Sep 09"
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/110502prpd0487m3.jpg
+    caption: Pasir Ris Park, May 11
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/090410ubnd9403m3.jpg
+    caption: Changi, Apr 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/090906prpd0368m3.jpg
+    caption: Planted in the Park Pasir Ris, Sep 09
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/090809sjid8737m6l.jpg"
-      caption: "Growing wild on a natural cliff. St. John's Island, Aug 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/090809sjid8738m3.jpg"
-      caption: "St. John's Island, Aug 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/090809sjid8739m3.jpg"
-      caption: "St. John's Island, Aug 09"
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/090809sjid8737m6l.jpg
+    caption: Growing wild on a natural cliff. St. John's Island, Aug 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/090809sjid8738m3.jpg
+    caption: St. John's Island, Aug 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/090809sjid8739m3.jpg
+    caption: St. John's Island, Aug 09
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/110502prpd0486m6l.jpg"
-      caption: "Pasir Ris Park, May 11"
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/110502prpd0486m6l.jpg
+    caption: Pasir Ris Park, May 11
+links_references: '**Links**
+
   - [*Fagraea fragrans*](http://floraofsingapore.wordpress.com/2010/07/15/fagraea-fragrans/)
+
   on Total Vascular Flora of Singapore Online: photos and fact sheet.
+
   - *[Fagraea fragrans](http://taxo4254.wikispaces.com/Fagraea+fragrans)*
+
   (Gentianales: Gentianaceae) Tembusu by Neo Louise, 2011, on taxo4254.
+
   - [Know 10 trees in Singapore](http://www.nparks.gov.sg/cms/index.php?option=com_content&view=article&id=179&Itemid=161)
+
   on the NParks website: fact sheet with lots of photos of various parts of the tree.
-  
+
+
   **References**
+
   - Tee Swee Ping and Wee Mei Lynn (eds). 2001.
+
   *Trees of our Garden City*
+
   . National Parks Board. 202 pp.
+
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
+
   *The Concise Flora of Singapore: Gymnosperms and Dicotyledons*
+
   . Singapore University Press. 222 pp.
+
   - Corners, E. J. H., 1997.
+
   *Wayside Trees of Malaya: in two volumes*
-  . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
+
+  . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates
+  1-38; volume 2: 477-861 pp., plates 139-236.
+
   - Burkill, I. H., 1993.
+
   *A Dictionary of the Economic Products of the Malay Peninsula*
-  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
+
+  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
+  Volume 1: 1-1240; volume 2: 1241-2444.
+
+  '
+size:
+- 3000.0
+- 4000.0
 ---
 
 ## Where seen?

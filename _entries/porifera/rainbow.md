@@ -1,8 +1,6 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: smooth, green, sponge, suberites, suberitidae, porifera, field, guide,
-  seashore,
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: smooth, green, sponge, suberites, suberitidae, porifera, field, guide, seashore,
 layout: entry
 shape: encrusting
 title: Rainbow sponge
@@ -18,45 +16,47 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Suberitida
 updated: Oct 2016
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/porifera/rainbow/120307mmsexs04341m6l.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/porifera/rainbow/120307mmsexs04341m6l.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/rainbow/120307mmsexs04341m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/rainbow/120307mmsexs04341m6l.jpg
     caption: Pulau Ubin, Dec 09
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/rainbow/091203ubnd4949m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/rainbow/091203ubnd4949m3.jpg
     caption: Pulau Ubin, Dec 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/rainbow/091203ubnd4964m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/rainbow/091203ubnd4964m3.jpg
     caption: Pulau Ubin, Dec 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/rainbow/091203ubnd4919m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/rainbow/091203ubnd4919m3.jpg
     caption: Pulau Ubin, Dec 09
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/rainbow/091217sbglks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/porifera/rainbow/091217sbglks.JPG
     caption: Sembawang, Dec 09 Photo shared by Loh Kok Sheng on flickr.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/rainbow/200917sbwmn4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/rainbow/200917sbwmn4.jpg
     caption: Sembawang Beach, Sep 20 Photo shared by Marcus Ng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/porifera/rainbow/150705skdlks1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/porifera/rainbow/150705skdlks1m3.jpg
     caption: Pulau Sekudu, Jun 15 Photo shared by Loh Kok Sheng on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - *[Suberites](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=132072)*
+
   on the World Porifera Database.
 
+
   **References**
+
   - Swee-Cheng Lim, Nicole J. de Voogd and Koh-Siang Tan.
+
   [Fouling sponges (Porifera) on navigation buoys from Singapore waters](https://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/Raffles%20Bulletin%20of%20Zoology/Supplements/Supplement%2022/s22rbz041-058.pdf)
+
   . The Raffles Bulletin of Zoology Supplement No. 22: 41-68, 30 Dec 2009 Pp. 41-58.
+
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
+
   *A Guide to Sponges of Singapore*
+
   . Singapore Science Centre. 173pp.
+
+  '
 location:
 - pgl
 - prp
@@ -64,6 +64,9 @@ location:
 - ubn
 - cj
 - skd
+size:
+- 10.0
+- 20.0
 ---
 
 ## Where seen?
@@ -74,7 +77,7 @@ A thin layer encrusting hard surface covering 10-20cm. Sometimes with with irreg
 
 **Spongey home:**
 A commensal
-[barnacle](../crustacea/othercrust/ciriipedia/cirripedia.md)
+[barnacle](../crustacea/othercrust/ciriipedia/cirripedia)
 (
 *Acasta dofleini*
 ) is reportedly sometimes seen living in this sponge.

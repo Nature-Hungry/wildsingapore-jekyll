@@ -1,10 +1,9 @@
 ---
 title: Yellow-spotted mudskipper
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: yellow, spotted, mudskipper, mud, skipper, fish, periophthalmus, 
-  walailakae, gobiidae, goby, field, guide, seashore, sea, shore, marine, 
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: yellow, spotted, mudskipper, mud, skipper, fish, periophthalmus, walailakae,
+  gobiidae, goby, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 9
@@ -27,64 +26,41 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Oxudercinae
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/071021cjd7025m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/071021cjd7025m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/071021cjd7025m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/071021cjd7025m3.jpg
     caption: A quarreling pair Chek Jawa, Oct 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/091121cjd4533m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/091121cjd4533m6l.jpg
     caption: Chek Jawa, Nov 09
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/091019prpd2908m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/091019prpd2908m3.jpg
     caption: Juveniles often mistaken for other mudskippers. Pasir Ris, Oct 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/140322cjd4070m3.jpg
-    caption: Burrow doesn't have a 'swimming pool' like the Giant mudskipper. 
-      Chek Jawa, Mar 14
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/030822sbwrad0056m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/140322cjd4070m3.jpg
+    caption: Burrow doesn't have a 'swimming pool' like the Giant mudskipper. Chek
+      Jawa, Mar 14
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/030822sbwrad0056m3.jpg
     caption: A pair at their burrow. Sungei Buloh Wetland Reserve, Aug 03
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/130811sbwrmn.jpg
-    caption: Clinging on with its pelvic fins, its pectoral fins on the side. 
-      Sungei Buloh Wetland Reserves, Aug 13 Photo by Marcus Ng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/250430sjiml3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/130811sbwrmn.jpg
+    caption: Clinging on with its pelvic fins, its pectoral fins on the side. Sungei
+      Buloh Wetland Reserves, Aug 13 Photo by Marcus Ng on flickr .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/250430sjiml3.jpg
     caption: St John's Island, Apr 25 Photo shared by Mathias Luk on facebook .
-links_references: |
-  **Links**
-  - [*Periophthalmus walailake*](http://www.mudskipper.it/SpeciesPages/wala.html)
-  from
-  [The Mudskipper website](http://www.mudskipper.it/Intro.html)
-  by Gianluca Polgar: Technical fact sheets with lots of photos.
-  - [*Periophthalmus walailake*](http://www.fishbase.org/Summary/SpeciesSummary.php?id=61443)
-  from
-  [FishBase](http://www.fishbase.org/)
-  : Technical fact sheet.
-  - [Yellow-spotted mudskipper](http://www.ecologyasia.com/verts/brackish-fishes/yellow-spotted-mudskipper.md)
-  on
-  [EcologyAsia](http://www.ecologyasia.com/)
-  : photos and fact sheet.
-
-  **References**
-  - Theresa L. Su & Shirley S. L. Lim. 12 August 2016.
-  *Niche partitioning in two syntopic mudskipper species (Teleostei: Gobiidae: Oxudercinae) in a Singapore mangrove*
-  . Raffles Bulletin of Zoology 64: 220–228.
-  - Zeehan Jaafar, Kelvin K. P. Lim, Loke Ming Chou. Nov 2006.
-  [Taxonomical and morphological notes on two species of mudskippers,
-  *Periophthalmus walailakae*
-  and
-  *Periophthalmodon schlosseri*
-  (Teleostei: Gobiidae) from Singapore](http://www.bioone.org/doi/abs/10.2108/zsj.23.1043)
-  . Zoolog Science 23(11):1043-7.
-  - Larson, Helen K and Kelvin K. P. Lim. 2005.
-  *A Guide to Gobies of Singapore*
-  . Singapore Science Centre. 164pp.
+links_references: "**Links**\n- [*Periophthalmus walailake*](http://www.mudskipper.it/SpeciesPages/wala.html)\n\
+  from\n[The Mudskipper website](http://www.mudskipper.it/Intro.html)\nby Gianluca\
+  \ Polgar: Technical fact sheets with lots of photos.\n- [*Periophthalmus walailake*](http://www.fishbase.org/Summary/SpeciesSummary.php?id=61443)\n\
+  from\n[FishBase](http://www.fishbase.org/)\n: Technical fact sheet.\n- [Yellow-spotted\
+  \ mudskipper](http://www.ecologyasia.com/verts/brackish-fishes/yellow-spotted-mudskipper)\n\
+  on\n[EcologyAsia](http://www.ecologyasia.com/)\n: photos and fact sheet.\n\n**References**\n\
+  - Theresa L. Su & Shirley S. L. Lim. 12 August 2016.\n*Niche partitioning in two\
+  \ syntopic mudskipper species (Teleostei: Gobiidae: Oxudercinae) in a Singapore\
+  \ mangrove*\n. Raffles Bulletin of Zoology 64: 220\u2013228.\n- Zeehan Jaafar, Kelvin\
+  \ K. P. Lim, Loke Ming Chou. Nov 2006.\n[Taxonomical and morphological notes on\
+  \ two species of mudskippers,\n*Periophthalmus walailakae*\nand\n*Periophthalmodon\
+  \ schlosseri*\n(Teleostei: Gobiidae) from Singapore](http://www.bioone.org/doi/abs/10.2108/zsj.23.1043)\n\
+  . Zoolog Science 23(11):1043-7.\n- Larson, Helen K and Kelvin K. P. Lim. 2005.\n\
+  *A Guide to Gobies of Singapore*\n. Singapore Science Centre. 164pp.\n"
 location:
 - sbw
 - prp
@@ -94,6 +70,10 @@ location:
 - sji
 - hnt
 - smk
+size:
+- 13.0
+- 8.0
+- 10.0
 ---
 
 ## Where seen?
@@ -107,10 +87,10 @@ The first dorsal fin has a rounded margin, is brownish red with a broad black ba
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Sometimes mistaken for**
 as juveniles of the
-[Giant mudskipper](schlosseri.md)
+[Giant mudskipper](schlosseri)
 . Unlike the Giant mudskipper, the Yellow-spotted mudskipper does not have a broad black band along the body length and lacks the white-bluish, iridescent speckles often seen on the Giant mudskipper's cheeks. Juvenile Yellow-spotted mudskippers can also be mistaken for other small mudskippers.
 More about
-[how to tell apart small mudskippers](cfmudsmall.md)
+[how to tell apart small mudskippers](cfmudsmall)
 commonly found on our shores.
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**Burrow behaviour:**

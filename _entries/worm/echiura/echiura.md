@@ -1,70 +1,50 @@
 ---
 title: Spoon worms
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: spoon, worm, spoonworm, echiura, echiuran, annelid, field, guide, 
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: spoon, worm, spoonworm, echiura, echiuran, annelid, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: ''
 genus: Class
 species: Echiura
 attributes: []
 updated: Oct 2016
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/worm/echiura/echiura/080801chgd8555m3.jpg
-links_references: |
-  **Links**  
-  - [Introduction
-    to the Echiura: Spoon Worms and Innkeepers](http://www.ucmp.berkeley.edu/annelida/echiural) on the [Phylogeny
-    Wing](http://www.ucmp.berkeley.edu/exhibit/phylogenyl) on the [Museum
-    of Paleontology, University of California Berkeley](http://www.ucmp.berkeley.edu/) website:
-    fossil record, life history and ecology, systematics and more
-    on morphology.
-
-  **References**
-  - Edward E.
-    Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
+coverimg: http://www.wildsingapore.com/wildfacts/worm/echiura/echiura/080801chgd8555m3.jpg
+links_references: "**Links**  \n- [Introduction\n  to the Echiura: Spoon Worms and\
+  \ Innkeepers](http://www.ucmp.berkeley.edu/annelida/echiural) on the [Phylogeny\n\
+  \  Wing](http://www.ucmp.berkeley.edu/exhibit/phylogenyl) on the [Museum\n  of Paleontology,\
+  \ University of California Berkeley](http://www.ucmp.berkeley.edu/) website:\n \
+  \ fossil record, life history and ecology, systematics and more\n  on morphology.\n\
+  \n**References**\n- Edward E.\n  Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate\n"
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/echiura/echiura/080801chgd8555m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/echiura/echiura/080801chgd8555m3.jpg
     caption: Changi, Aug 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/echiura/echiura/080801chgd8555m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/echiura/echiura/080801chgd8555m3b.jpg
     caption: Spoon-shaped prostomium.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/echiura/echiura/070224cjd8556m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/echiura/echiura/070224cjd8556m3.jpg
     caption: Chek Jawa, Feb 07
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/echiura/echiura/2007024chgtch3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/echiura/echiura/2007024chgtch3.jpg
     caption: Changi, Jul 20 Photo shared by Toh Chay Hoon on facebook .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/echiura/echiura/220615prpccn1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/echiura/echiura/220615prpccn1.jpg
     caption: Pasir Ris Park, Jun 22 Photo shared by Che Cheng Neo on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/echiura/echiura/260105prpezxh6.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/echiura/echiura/260105prpezxh6.jpg
     caption: Pasir Ris Park, Jan 26 Photo shared by Zen Xuan He on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/echiura/echiura/240722lygrk2.jpg
-    caption: Changi (Fairy Point), Jul 24 Photo shared by Richard Kuah on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/echiura/echiura/120703chgmn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/echiura/echiura/240722lygrk2.jpg
+    caption: Changi (Fairy Point), Jul 24 Photo shared by Richard Kuah on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/worm/echiura/echiura/120703chgmn.jpg
     caption: Changi, Jul 12 Photo shared by Marcus Ng on flickr .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/echiura/echiura/160511chg7mn1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/echiura/echiura/160511chg7mn1.jpg
     caption: Changi, May 16
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/echiura/echiura/160511chg7mn1a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/echiura/echiura/160511chg7mn1a.jpg
     caption: Photo shared by Marcus Ng on facebook .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/echiura/echiura/250628pcnky1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/echiura/echiura/250628pcnky1.jpg
     caption: East Coast PCN, Jun 25 Photo shared by Kelvin Yong on facebook .
   gallery7:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -78,6 +58,8 @@ location:
 - chg
 - cj
 - ecp
+size:
+- 10.0
 ---
 
 ## Where seen?
@@ -85,7 +67,7 @@ Spoon worms are sometimes seen above ground on our Northern shores, near seagras
 
 **What are spoon worms?**
 Spoon worms are
-[worms](../worm.md)
+[worms](../worm)
 belonging to Phylum Echiura. Some scientist place them in Phylum Annelidae like the more familiar earthworm. Spoon worms are not segmented like other annelids. There are only about 150 species of spoon worms, but they can be quite common in some marine ecosystems.
 
 ## Features
@@ -94,7 +76,7 @@ Those seen on our shores about 10cm long. Body unsegmented and sausage-like. In 
 
 **Sometimes mistaken for**
 'uprooted' sea anemones or sea cucumbers. More on
-[how to tell apart sausage-shaped animals](../../glossary/sausage.md)
+[how to tell apart sausage-shaped animals](../../glossary/sausage)
 .
 
 **What do they eat?**

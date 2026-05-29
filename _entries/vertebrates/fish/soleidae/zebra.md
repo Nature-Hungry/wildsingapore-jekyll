@@ -1,10 +1,9 @@
 ---
 title: Zebra sole
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: zebra, flat, fish, flatfish, sole, zebrias, soleidae, 
-  pleuronectiformes,  field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: zebra, flat, fish, flatfish, sole, zebrias, soleidae, pleuronectiformes,  field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 attributes:
 - 9
@@ -25,51 +24,69 @@ superorder: Acanthomorpha
 order: Carangiformes
 suborder: Pleuronectoidei
 updated: Oct 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/zebra/170821chg1d8552m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/zebra/170821chg1d8552m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/zebra/170821chg1d8552m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/zebra/170821chg1d8552m3.jpg
     caption: Changi, Aug 17
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/zebra/100612chgd5283m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/zebra/100612chgd5283m6l.jpg
     caption: Changi, Jun 10
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/zebra/100612chgd5283m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/zebra/100612chgd5283m3a.jpg
     caption: Colourful tail!
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/zebra/100612chgd5283m3b.jpg
-    caption: Eyes on the right side. Tiny spines sticking out near the gill 
-      covers.
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/zebra/100612chgd5283m3b.jpg
+    caption: Eyes on the right side. Tiny spines sticking out near the gill covers.
   gallery3:
   - url: https://live.staticflickr.com/4341/36704530105_cd62082eba_z.jpg
     caption: ''
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Zebra Sole (
+
   *Zebrias zebra*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/388.md)
+
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/388)
+
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
+
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
+
   . Singapore Science Centre. 163 pp. Family Soleidae .
+
   - [Zebra sole (
+
   *Zebrias zebra*
+
   )](http://www.fishbase.org/summary/8999)
+
   from
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheet.
-  - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.md)
-  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
+
+  - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00)
+
+  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources
+  of the Western Central Pacific.
+
 
   **References**
+
   - Lieske, Ewald and Robert Myers. 2001.
+
   *Coral Reef Fishes of the World*
+
   Periplus Editions. 400pp
+
+  '
 location:
 - chg
 - tm
+size:
+- 6.0
+- 10.0
+- 20.0
 ---
 
 ## Where seen?

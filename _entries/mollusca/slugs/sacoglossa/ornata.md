@@ -1,11 +1,9 @@
 ---
 title: Ornate leaf slug
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: ornate, elysia, ornata, leaf, slug, seaslug, sap, sucking, 
-  sacoglossan, plakobranchidae, elysiidae, opisthobranch, gastropod, mollusc, 
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: ornate, elysia, ornata, leaf, slug, seaslug, sap, sucking, sacoglossan,
+  plakobranchidae, elysiidae, opisthobranch, gastropod, mollusc, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Plakobranchidae
 genus: Elysia
@@ -22,165 +20,114 @@ subterclass: Tectipleura
 superorder: Sacoglossa
 superfamily: Plakobranchoidea
 updated: Oct 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/070602sjig9801m3.jpg
-links_references: |
-  **Links**
-  - [Leaf
-    Slug *Elysia*](http://mangrove.nus.edu.sg/pub/seashore/text/151.htm) Tan, Leo W. H. & Ng, Peter K. L., 1988.
-    *[A Guide
-    to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore.
-    160 pp.
-  - [The
-    Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheet on
-    *[Elysia
-    ornata](http://www.seaslugforum.net/factsheet.cfm?base=elysorna)* including [solar
-    powered slugs](http://www.seaslugforum.net/factsheet.cfm?base=solarpow): about how some slugs retain the chloroplasts
-    from their food.
-
-  **References**
-  - K. R. Jensen. *Sacoglossa (Mollusca: Gastropoda: Heterobranchia) from northern coasts of Singapore*. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 226-249.
-  - Tan Siong
-    Kiat and Henrietta P. M. Woo, 2010 *Preliminary
-    Checklist of The Molluscs of Singapore* (pdf), Raffles
-    Museum of Biodiversity Research, National University of Singapore.
-  - Kathe
-    R. Jensen. 30 Dec 2009. *Sacoglossa
-    (Mollusca: Gastropoda: Opisthobranchia) from Singapore*. The Raffles Bulletin of Zoology, Supplement 22: 207-223.
-  - Chou, L.
-    M., 1998. *A
-    Guide to the Coral Reef Life of Singapore*. Singapore Science
-    Centre. 128 pages.
-  - Debelius,
-    Helmut, 2001. *Nudibranchs
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/070602sjig9801m3.jpg
+links_references: "**Links**\n- [Leaf\n  Slug *Elysia*](http://mangrove.nus.edu.sg/pub/seashore/text/151.htm)\
+  \ Tan, Leo W. H. & Ng, Peter K. L., 1988.\n  *[A Guide\n  to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
+  \ The Singapore Science Centre, Singapore.\n  160 pp.\n- [The\n  Sea Slug Forum](http://www.seaslugforum.net/)\
+  \ by Dr Bill Rudman: photos and fact sheet on\n  *[Elysia\n  ornata](http://www.seaslugforum.net/factsheet.cfm?base=elysorna)*\
+  \ including [solar\n  powered slugs](http://www.seaslugforum.net/factsheet.cfm?base=solarpow):\
+  \ about how some slugs retain the chloroplasts\n  from their food.\n\n**References**\n\
+  - K. R. Jensen. *Sacoglossa (Mollusca: Gastropoda: Heterobranchia) from northern\
+  \ coasts of Singapore*. 10 July 2015. The Comprehensive Marine Biodiversity Survey:\
+  \ Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015\
+  \ Supplement No. 31, Pp. 226-249.\n- Tan Siong\n  Kiat and Henrietta P. M. Woo,\
+  \ 2010 *Preliminary\n  Checklist of The Molluscs of Singapore* (pdf), Raffles\n\
+  \  Museum of Biodiversity Research, National University of Singapore.\n- Kathe\n\
+  \  R. Jensen. 30 Dec 2009. *Sacoglossa\n  (Mollusca: Gastropoda: Opisthobranchia)\
+  \ from Singapore*. The Raffles Bulletin of Zoology, Supplement 22: 207-223.\n- Chou,\
+  \ L.\n  M., 1998. *A\n  Guide to the Coral Reef Life of Singapore*. Singapore Science\n\
+  \  Centre. 128 pages.\n- Debelius,\n  Helmut, 2001. *Nudibranchs\n"
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/070602sjig9801m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/070602sjig9801m3.jpg
     caption: St. John's Island, Jun 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/060429skdd1359m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/060429skdd1359m3.jpg
     caption: Pulau Sekudu, Apr 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/050113sntg2873m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/050113sntg2873m3.jpg
     caption: Sentosa, Jan 05
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/050529sjig7206m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/050529sjig7206m3.jpg
     caption: Mating slugs St. John's Island, May 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/050529sjig7219m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/050529sjig7219m3.jpg
     caption: The white bits are the reproductive organs.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/111002sisd2130m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/111002sisd2130m3.jpg
     caption: Also seen among Sargassum seaweeds. St John's Island, Oct 11
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/040423sntd0153m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/040423sntd0153m3.jpg
     caption: Sentosa, Apr 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/040423sntd0153m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/040423sntd0153m3a.jpg
     caption: Just mated?
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/040423sntd0153m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/040423sntd0153m3b.jpg
     caption: ''
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/230122jnglks1.jpg
-    caption: Recently laid egg strings? Pulau Jong, Jan 23 Photo shared by Lok 
-      Kok Sheng on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/230122jnglks1.jpg
+    caption: Recently laid egg strings? Pulau Jong, Jan 23 Photo shared by Lok Kok
+      Sheng on facebook .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/210528pglrk3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/210528pglrk3.jpg
     caption: Punggol, May 21 Photo shared by Richard Kuah on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/110520chglks3m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/110520chglks3m3.jpg
     caption: Changi, May 11 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/220616chgelks10.jpg
-    caption: Chang Lost Coast, Jun 22 Photo shared by Loh Kok Sheng on facebook 
-      .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/220616chgelks10.jpg
+    caption: Chang Lost Coast, Jun 22 Photo shared by Loh Kok Sheng on facebook .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/080507ecplks03m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/080507ecplks03m3.jpg
     caption: East Coast, May 08 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/201118nsrcssjk1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/201118nsrcssjk1.jpg
     caption: East Coast, NSRCC, Nov 20 Photo shared by James Koh on flickr .
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/150320tusmn1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/150320tusmn1m3.jpg
     caption: Tuas, Mar 15 Photo shared by Marcus Ng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/061208labwl1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/061208labwl1m3.jpg
     caption: Labrador, Dec 06 Photo shared by Wai on her blog .
   gallery8:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/201116lazjll2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/201116lazjll2.jpg
     caption: Lazarus Island, Nov 20 Photo shared by Jianlin Liu on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/110220lazlks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/110220lazlks.JPG
     caption: Lazarus Island, Feb 11 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/240528tsllks2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/240528tsllks2.jpg
     caption: Terumbu Selegie, May 24 Photo shared by Loh Kok Sheng on facebook .
   gallery9:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/091118cyrjk.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/091118cyrjk.jpg
     caption: Cyrene Reef, Nov 09 Photo shared by James Koh on flickr .
   gallery10:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/110421jngtch4m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/110421jngtch4m3.jpg
     caption: Pulau Jong, Apr 11 Photo shared by Toh Chay Hoon on her blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/110619tslgnml3m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/110619tslgnml3m3.jpg
     caption: Terumbu Selegie, Jun 11 Photo shared by Neo Mei Lin on her blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/2104hntrk1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/2104hntrk1.jpg
     caption: Pulau Hantu, Apr 21 Photo shared by Richard Kuah on facebook .
   gallery11:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/140811smklks1m3.JPG
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/140811smklks1m3.JPG
     caption: Pulau Semakau, Aug 14 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/170311bbbrk.jpg
-    caption: Beting Bemban Besar, Mar 17 Photo shared by Richard Kuah on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/140202tryrl.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/170311bbbrk.jpg
+    caption: Beting Bemban Besar, Mar 17 Photo shared by Richard Kuah on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/140202tryrl.jpg
     caption: Terumbu Raya, Feb 14 Photo shared by Russel Low on facebook .
   gallery12:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/210501tbtch5.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/210501tbtch5.jpg
     caption: Terumbu Bemban, May 21 Photo shared by Toh Chay Hoon on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/240310tplta1.jpg
-    caption: Terumbu Pempang Laut, Mar 24 Photo shared by Tommy Arden on 
-      facebook .
-  gallery13:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/161117rlhjll3.jpg
-    caption: Raffles Lighthouse, Nov 16 Photo shared by Jianlin Liu on facebook 
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/240310tplta1.jpg
+    caption: Terumbu Pempang Laut, Mar 24 Photo shared by Tommy Arden on facebook
       .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/091205pawlks11m3.jpg
+  gallery13:
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/161117rlhjll3.jpg
+    caption: Raffles Lighthouse, Nov 16 Photo shared by Jianlin Liu on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/091205pawlks11m3.jpg
     caption: Pulau Pawai, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/210428slulks1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/210428slulks1.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
   gallery14:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/091205sudtch4m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/091205sudtch4m3b.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by Toh Chay Hoon on her flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/091231biod6946m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/091231biod6946m3.jpg
     caption: Pulau Biola, Dec 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/100531biod4501m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/100531biod4501m3a.jpg
     caption: Pulau Biola, May 10
   gallery15:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: "Links Leaf Slug Elysia Tan, Leo W. H. & Ng, Peter K. L., 1988. A Guide
+    caption: 'Links Leaf Slug Elysia Tan, Leo W. H. & Ng, Peter K. L., 1988. A Guide
       to Seashore Life . The Singapore Science Centre, Singapore. 160 pp. The Sea
       Slug Forum by Dr Bill Rudman: photos and fact sheet on Elysia ornata including
       solar powered slugs : about how some slugs retain the chloroplasts from their
@@ -198,12 +145,12 @@ galleries:
       W. Bryce. 2000. Slugs of Western Australia: A guide to the species from the
       Indian to West Pacific Oceans . Western Australian Museum. 184 pp. Coleman,
       Neville. 2001. 1001 Nudibranchs: Catalogue of Indo-Pacific Sea Slugs . Neville
-      Coleman's Underwater Geographic Pty Ltd, Australia.144pp. Coleman, Neville,
+      Coleman''s Underwater Geographic Pty Ltd, Australia.144pp. Coleman, Neville,
       1989. Nudibranchs of the South Pacific Vol 1 . 64 pp. Humann, Paul and Ned Deloach.
       2010. Reef Creature Identification: Tropical Pacific New World Publications.
       497pp. Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996. Coral
       Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive
-      of the vertebrates Sea Challengers. 314pp."
+      of the vertebrates Sea Challengers. 314pp.'
 location:
 - pgl
 - prp
@@ -228,6 +175,9 @@ location:
 - tsm
 - rfl
 - lfa
+size:
+- 4.0
+- 6.0
 ---
 
 ## Where seen?
@@ -239,11 +189,11 @@ Often mistaken for leafy seaweed, this slug is seen on all our shores. However, 
 
 **What does it eat?**
 This slug is believed to eat the
-[Hairy green seaweed](../../../plants/seaweed/chlorophyta/bryopsis.md)
+[Hairy green seaweed](../../../plants/seaweed/chlorophyta/bryopsis)
 (
 *Bryopsis*
 sp.) Indeed, leaf slugs are commonly seen there is a bloom of this green feathery seaweed on the shores. See details in the
-[Family Elysiidae](elysiidae.md)
+[Family Elysiidae](elysiidae)
 for more about how the slug eats and uses the seaweed's chloroplasts.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Baby Sacoglossa:**

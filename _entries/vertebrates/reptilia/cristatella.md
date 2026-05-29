@@ -24,31 +24,55 @@ updated: Dex 2020
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/cristatella/041003btnrd7398m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/cristatella/041003btnrd7398m3.jpg"
-      caption: "Bukit Timah Nature Reserve, Oct 04"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/cristatella/031004lptd0049m6l.jpg"
-      caption: "Lower Peirce Trail, Oct 03"
-links_references: |
-  **Links**
-  - [Green Crested Lizard](http://www.ecologyasia.com/verts/lizards/green-crested_lizard.md)
-  on Nick Baker's EcologyAsia website: fact sheet with photos.
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/cristatella/041003btnrd7398m3.jpg
+    caption: Bukit Timah Nature Reserve, Oct 04
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/cristatella/031004lptd0049m6l.jpg
+    caption: Lower Peirce Trail, Oct 03
+links_references: '**Links**
+
+  - [Green Crested Lizard](http://www.ecologyasia.com/verts/lizards/green-crested_lizard)
+
+  on Nick Baker''s EcologyAsia website: fact sheet with photos.
+
   - [*Bronchocela cristatella*](https://singapore.biodiversity.online/taxo4254/mainSpace/Bronchocela%20cristatella.html)
+
   (Squamata: Agamidae) Green Crested Lizard By Leem Jia Min, Cheryl, 2016, on taxo4254.
-  
+
+
   **References**
+
   - Lim, Kelvin K. P. & Francis L K Lim, 1992.
+
   *A Guide to the Amphibians and Reptiles of Singapore*
+
   **
+
   Singapore Science Centre. 160 pp.
+
   - Baker, Nick and Kelvin Lim. 2008.
-  *Wild Animals of Singapore: A Photographic Guide to Mammals, Reptiles, Amphibians and Freshwater Fishes*
+
+  *Wild Animals of Singapore: A Photographic Guide to Mammals, Reptiles, Amphibians
+  and Freshwater Fishes*
+
   Vertebrate Study Group, Nature Society (Singapore). 180 pp.
-  - Cox, Merel J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt. 1998.
-  *A Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular Malaysia and Singapore*
+
+  - Cox, Merel J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt.
+  1998.
+
+  *A Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular Malaysia
+  and Singapore*
+
   New Holland.
+
   - Das, Indraneil. 2004.
+
   *A Pocket Guide: Lizards of Borneo*
+
   Natural History Publications (Borneo). 83 pp.
+
+  '
+size:
+- 57.0
 ---
 
 ## Where seen?
@@ -67,7 +91,7 @@ Mama lizard lays 1-4 large, spindle-shaped eggs which are buried in the soil.
 
 **Status and threats:**
 It is not listed among our threatened animals. But it is no longer as commonly seen as in the past. It has been displaced by the more aggressive
-[Changeable lizard](versicolor.md)
+[Changeable lizard](versicolor)
 (
 *Calotes versicolor*
 ).

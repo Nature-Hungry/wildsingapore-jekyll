@@ -1,10 +1,8 @@
 ---
 title: Leaf porter crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: leaf, porter, crab, dorippidae, decapod, crustacea, field, guide, 
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: leaf, porter, crab, dorippidae, decapod, crustacea, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 38
@@ -28,84 +26,99 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Dorippoidea
 updated: Dec 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/crustacea/crab/dorippidae/dorippidae/040408chgd0076m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/dorippidae/dorippidae/040408chgd0076m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They use a leaf, flat 
-      shell or other rubbish to hide under. Specialised legs grip the disguise. 
-      At night they swim above the leaf to hide from predators below.
+    caption: if you learn only 3 things about them ... They use a leaf, flat shell
+      or other rubbish to hide under. Specialised legs grip the disguise. At night
+      they swim above the leaf to hide from predators below.
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They use a leaf, flat shell or other rubbish to hide under. 
-      Specialised legs grip the disguise. At night they swim above the leaf to 
-      hide from predators below.
+    caption: They use a leaf, flat shell or other rubbish to hide under. Specialised
+      legs grip the disguise. At night they swim above the leaf to hide from predators
+      below.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/dorippidae/dorippidae/040408chgd0076m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dorippidae/dorippidae/040408chgd0076m3.jpg
     caption: Changi, Apr 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/dorippidae/dorippidae/040408chgd0076m3c.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dorippidae/dorippidae/040408chgd0076m3c.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/dorippidae/dorippidae/040408chgd0076m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dorippidae/dorippidae/040408chgd0076m3a.jpg
     caption: Two kinds of legs.
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/dorippidae/dorippidae/020711chgcpd1920m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dorippidae/dorippidae/020711chgcpd1920m3.jpg
     caption: This one was 'carrying' a clam shell. Changi, Jul 02
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/dorippidae/dorippidae/060128labg4053m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dorippidae/dorippidae/060128labg4053m3.jpg
     caption: Seldom seen upper side. Labrador, Jan 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/dorippidae/dorippidae/050527srbd3428m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dorippidae/dorippidae/050527srbd3428m3b.jpg
     caption: Some have one enlarged pincer. Raffles Marina, May 05
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/dorippidae/dorippidae/120604pgllks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dorippidae/dorippidae/120604pgllks.JPG
     caption: Punggol, Jun 12 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/dorippidae/dorippidae/180616bblks9.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dorippidae/dorippidae/180616bblks9.jpg
     caption: Beting Bronok, Jun 18 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/dorippidae/dorippidae/220616chgemn2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dorippidae/dorippidae/220616chgemn2.jpg
     caption: Changi Lost Coast, Jun 22 Photo shared by Marcus on facebook .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/dorippidae/dorippidae/210115mevc3.jpg
-    caption: East Coast-Marina Bay, Jan 21 Photo shared by Vincent Choo on 
-      facebook.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/dorippidae/dorippidae/240823sntrtl1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dorippidae/dorippidae/210115mevc3.jpg
+    caption: East Coast-Marina Bay, Jan 21 Photo shared by Vincent Choo on facebook.
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dorippidae/dorippidae/240823sntrtl1.jpg
     caption: Sentosa Tg Rimau, Aug 24 Photo shared by Tammy Lim on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Leaf Porter Crab (
+
   *Neodorippe callida*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/204.md)
+
+  )](http://mangrove.nus.edu.sg/pub/seashore/text/204)
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
+
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+
   . The Singapore Science Centre, Singapore. 160 pp.
+
   - [Leaf Porter Crab (
+
   *Neodorippe callida*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2043.md)
+
+  )](http://mangrove.nus.edu.sg/guidebooks/text/2043)
+
   Ng, Peter K. L. & N. Sivasothi, 1999.
+
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
+
   . Singapore Science Centre. 168 pp.
 
+
   **References**
+
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
-  *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs of the world*
+
+  *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs
+  of the world*
+
   . The Raffles Bulletin of Zoology. Supplement No. 17, 31 Jan 2008. 286 pp.
+
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
+
   *Rhythm of the Sea: The Life and Times of Labrador Beach.*
-  Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+
+  Division of Biology, School of Science, Nanyang Technological University & Department
+  of Zoology, the National University of Singapore. 160 pp.
+
   - Wee Y.C. and Peter K. L. Ng. 1994.
+
   *A First Look at Biodiversity in Singapore*
+
   . National Council on the Environment. 163pp.
+
   - Ng, P. K. L. & Y. C. Wee, 1994.
+
   *The Singapore Red Data Book: Threatened Plants and Animals of Singapore*
+
   . The Nature Society (Singapore), Singapore. 343 pp.
+
+  '
 location:
 - pgl
 - prp
@@ -120,6 +133,8 @@ location:
 - snt
 - kus
 - smk
+size:
+- 1.5
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

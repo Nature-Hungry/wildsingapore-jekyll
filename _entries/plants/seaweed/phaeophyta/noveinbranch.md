@@ -1,10 +1,9 @@
 ---
 title: Broad strap brown seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: no, vein, branch, brown, seaweed, weed, phaeophyta, algae, field, 
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: no, vein, branch, brown, seaweed, weed, phaeophyta, algae, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 division: Phaeophyta
 family: Scytosiphonaceae
@@ -21,36 +20,48 @@ class: Phaeophyceae
 subclass: Dictyotophycidae
 order: Dictyotales
 updated: Sep 15
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/noveinbranch/100809cyrd9709m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/noveinbranch/100809cyrd9709m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/noveinbranch/110220lazd6300m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/noveinbranch/110220lazd6300m3a.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/noveinbranch/110220lazd6300m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/noveinbranch/110220lazd6300m3.jpg
     caption: Lazarus Island, Feb 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/noveinbranch/100809cyrd9709m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/noveinbranch/100809cyrd9709m3a.jpg
     caption: ''
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Stypopodium zonale*](http://www.algaebase.org/search/species/detail/?species_id=e0f74cc64e0a94350&-session=abv4:3BBD35E0169c718B75VvF817F080)
+
   on
+
   [AlgaeBase](http://www.algaebase.org/)
+
   : technical fact sheet.
 
+
   **References**
+
   - Pham, M. N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011.
-  [*A Checklist of the Algae of Singapore*](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf)
-  , 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore, Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+
+  [*A Checklist of the Algae of Singapore*](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH
+  Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf)
+
+  , 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
+  Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+
+  '
 location:
 - lab
 - snt
 - laz
 - sji
 - cyr
+size:
+- 2.0
+- 4.0
+- 10.0
+- 15.0
 ---
 
 ## Where seen?

@@ -1,10 +1,8 @@
 ---
 title: Dove snails
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: dove, shell, snail, columbellidae, gastropod, mollusc, field, guide, 
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: dove, shell, snail, columbellidae, gastropod, mollusc, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Columbellidae
 genus: ''
@@ -23,92 +21,65 @@ coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... These small pretty snails
-      are often hidden under stones. Some are well camouflaged. Look carefully 
-      for them. Some shells may contain tiny hermit crabs and not living snails!
+    caption: if you learn only 3 things about them ... These small pretty snails are
+      often hidden under stones. Some are well camouflaged. Look carefully for them.
+      Some shells may contain tiny hermit crabs and not living snails!
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: These small pretty snails are often hidden under stones. Some are 
-      well camouflaged. Look carefully for them. Some shells may contain tiny 
-      hermit crabs and not living snails!
+    caption: These small pretty snails are often hidden under stones. Some are well
+      camouflaged. Look carefully for them. Some shells may contain tiny hermit crabs
+      and not living snails!
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/041212kusd8725m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/041212kusd8725m3.jpg
     caption: Kusu Island, Dec 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/041018sntd7462m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/041018sntd7462m3.jpg
     caption: Sentosa, Oct 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/netted/050610sntg7562m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/netted/050610sntg7562m3b.jpg
     caption: Narrow opening in a thick shell.
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/netted/111128sntd3999m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/netted/111128sntd3999m3.jpg
     caption: Turtle dove snail
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/080802sjid8928m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/080802sjid8928m3.jpg
     caption: Lighting dove snail
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/111030skdd3263m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/111030skdd3263m3.jpg
     caption: Dotted dove snail
-links_references: |
-  **Links**
-  - [Family Columbellidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Columbellidae.html)
-  on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief description and photos.
-  - [Mangrove dove shell (
-  *Columbella duclosiana*
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2086.md)
-  Ng, Peter K. L. & N. Sivasothi, 1999.
-  *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)
-  II (Animal Diversity)*
-  . Singapore Science Centre. 168 pp.
-  - [Pigeon or Dove Shell (
-  *Pyrene*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/147.md)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988.
-  *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
-  . The Singapore Science Centre, Singapore. 160 pp.
-  - [Family Columbellidae](http://seashellsofnsw.org.au/Columbellidae/Pages/Columbellidae_intro.md)
-  on
-  [The Seashells of New South Wales](http://seashellsofnsw.org.au/index.md)
-  by Des Beechey Research Associate, Australian Museum: family introductions with photos of shells and detailed fact sheets for many species.
-  - Family Columbellidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
-  on the Food and Agriculture Organization of the United Nations (FAO) website.
-
-  **References**
-  - Chan Sow-Yan.
-  *Two small species of dove-shells found at East Coast Park: Mitrella pudica and Retizafra intricata*
-  . 30 August 2019. Singapore Biodiversity Records 2019: 110-111 ISSN 2345-7597. National University of Singapore.
-  - Chan Sow-Yan & Lau Wing Lup.
-  *New record of adorned dove-shell, Zafra ornata, in Singapore*
-  . 30 August 2019. Singapore Biodiversity Records 2019: 105-107 ISSN 2345-7597. National University of Singapore.
-  - Tan Siong Kiat, Tan Heok Hui & Iffah Iesa. 31 Oct 2017.
-  *First Singapore record of Essington dove shell, Mitrella essingtonensis*
-  . Singapore Biodiversity Records 2017: 138-139.
-  - Tan Siong Kiat and Henrietta P. M. Woo, 2010
-  *Preliminary Checklist of The Molluscs of Singapore*
-  (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
-  - Wong, H. W., 2008.
-  *A new record of Mitrella moleculina (Duclos, 1840) (Gastropoda: Columbellidae) in Singapore, with notes on colour forms*
-  . Nature in Singapore, 1: 81–83..
-  - Tan, K. S. & L. M. Chou, 2000.
-  *A Guide to the Common Seashells of Singapore*
-  . Singapore Science Centre. 160 pp.
-  - Bunjamin Dharma. 1988.
-  *Indonesian shells (Siput dan Kerang Indonesia)*
-  . PT Sarana Graha. Indonesia. 111 pp.
-  - Wee Y.C. and Peter K. L. Ng. 1994.
-  *A First Look at Biodiversity in Singapore*
-  . National Council on the Environment. 163pp.
-  - Ng, P. K. L. & Y. C. Wee, 1994.
-  *The Singapore Red Data Book: Threatened Plants and Animals of Singapore*
-  . The Nature Society (Singapore), Singapore. 343 pp.
-  - Abbott, R. Tucker, 1991.
-  *Seashells of South East Asia*
-  . Graham Brash, Singapore. 145 pp.
-  - Coleman, Neville. 2003.
-  *2002 Sea Shells: Catalogue of Indo-Pacific Mollusca*
-  Neville Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
+links_references: "**Links**\n- [Family Columbellidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Columbellidae.html)\n\
+  on The Gladys Archerd Shell Collection at Washington State University Tri-Cities\
+  \ Natural History Museum website: brief description and photos.\n- [Mangrove dove\
+  \ shell (\n*Columbella duclosiana*\n)](http://mangrove.nus.edu.sg/guidebooks/text/2086)\n\
+  Ng, Peter K. L. & N. Sivasothi, 1999.\n*[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)\n\
+  II (Animal Diversity)*\n. Singapore Science Centre. 168 pp.\n- [Pigeon or Dove Shell\
+  \ (\n*Pyrene*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/147)\nTan, Leo W.\
+  \ H. & Ng, Peter K. L., 1988.\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n\
+  . The Singapore Science Centre, Singapore. 160 pp.\n- [Family Columbellidae](http://seashellsofnsw.org.au/Columbellidae/Pages/Columbellidae_intro)\n\
+  on\n[The Seashells of New South Wales](http://seashellsofnsw.org.au/index)\nby Des\
+  \ Beechey Research Associate, Australian Museum: family introductions with photos\
+  \ of shells and detailed fact sheets for many species.\n- Family Columbellidae in\
+  \ the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide\
+  \ for Fishery Purposes: The Living Marine Resources of the Western Central Pacific\n\
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)\n\
+  on the Food and Agriculture Organization of the United Nations (FAO) website.\n\n\
+  **References**\n- Chan Sow-Yan.\n*Two small species of dove-shells found at East\
+  \ Coast Park: Mitrella pudica and Retizafra intricata*\n. 30 August 2019. Singapore\
+  \ Biodiversity Records 2019: 110-111 ISSN 2345-7597. National University of Singapore.\n\
+  - Chan Sow-Yan & Lau Wing Lup.\n*New record of adorned dove-shell, Zafra ornata,\
+  \ in Singapore*\n. 30 August 2019. Singapore Biodiversity Records 2019: 105-107\
+  \ ISSN 2345-7597. National University of Singapore.\n- Tan Siong Kiat, Tan Heok\
+  \ Hui & Iffah Iesa. 31 Oct 2017.\n*First Singapore record of Essington dove shell,\
+  \ Mitrella essingtonensis*\n. Singapore Biodiversity Records 2017: 138-139.\n- Tan\
+  \ Siong Kiat and Henrietta P. M. Woo, 2010\n*Preliminary Checklist of The Molluscs\
+  \ of Singapore*\n(pdf), Raffles Museum of Biodiversity Research, National University\
+  \ of Singapore.\n- Wong, H. W., 2008.\n*A new record of Mitrella moleculina (Duclos,\
+  \ 1840) (Gastropoda: Columbellidae) in Singapore, with notes on colour forms*\n\
+  . Nature in Singapore, 1: 81\u201383..\n- Tan, K. S. & L. M. Chou, 2000.\n*A Guide\
+  \ to the Common Seashells of Singapore*\n. Singapore Science Centre. 160 pp.\n-\
+  \ Bunjamin Dharma. 1988.\n*Indonesian shells (Siput dan Kerang Indonesia)*\n. PT\
+  \ Sarana Graha. Indonesia. 111 pp.\n- Wee Y.C. and Peter K. L. Ng. 1994.\n*A First\
+  \ Look at Biodiversity in Singapore*\n. National Council on the Environment. 163pp.\n\
+  - Ng, P. K. L. & Y. C. Wee, 1994.\n*The Singapore Red Data Book: Threatened Plants\
+  \ and Animals of Singapore*\n. The Nature Society (Singapore), Singapore. 343 pp.\n\
+  - Abbott, R. Tucker, 1991.\n*Seashells of South East Asia*\n. Graham Brash, Singapore.\
+  \ 145 pp.\n- Coleman, Neville. 2003.\n*2002 Sea Shells: Catalogue of Indo-Pacific\
+  \ Mollusca*\nNeville Coleman's Underwater Geographic Pty Ltd, Australia.144pp.\n"
 location:
 - cj
 - tm
@@ -124,6 +95,9 @@ location:
 - smk
 - rfl
 - lfa
+size:
+- 1.0
+- 2.0
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?
@@ -166,7 +140,7 @@ from Tan Siong Kiat and Henrietta P. M. Woo, 2010
 
 *Anachis melitoma
 
-[Euplica scripta](dotted.md)*
+[Euplica scripta](dotted)*
 (Dotted dove snail)
 *Mitrella brookei
 
@@ -182,10 +156,10 @@ from Tan Siong Kiat and Henrietta P. M. Woo, 2010
 Parametaria philippinarum
 
 ^
-[Pardalinops testudinaria](netted.md)
+[Pardalinops testudinaria](netted)
 =Pardalina testudinaria*
 (Turtle dove snail)
-*[Pictocolumbella ocellata](ocellata.md)*
+*[Pictocolumbella ocellata](ocellata)*
 (Lightning dove snail)
 *Pseudanachis basedowi
 

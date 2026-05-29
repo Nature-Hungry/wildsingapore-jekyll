@@ -1,10 +1,9 @@
 ---
 title: Green mussel
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: green, mussel, clam, perna, viridis, mytilidae, bivalve, mollusc, 
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
-  facts, fact sheet, info
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: green, mussel, clam, perna, viridis, mytilidae, bivalve, mollusc, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info
 layout: entry
 attributes:
 - 2
@@ -25,84 +24,57 @@ order: Mytilida
 superfamily: Mytiloidea
 subfamily: Crenellinae
 updated: May 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/040121chgd0031m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/040121chgd0031m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... It is among our favourite
-      seafood. But be careful about eating wild caught mussels. It attaches 
-      itself to a hard surface by producing threads! It is considered a pest 
-      outside its natural range.
+    caption: if you learn only 3 things about them ... It is among our favourite seafood.
+      But be careful about eating wild caught mussels. It attaches itself to a hard
+      surface by producing threads! It is considered a pest outside its natural range.
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: It is among our favourite seafood. But be careful about eating wild
-      caught mussels. It attaches itself to a hard surface by producing threads!
-      It is considered a pest outside its natural range.
+    caption: It is among our favourite seafood. But be careful about eating wild caught
+      mussels. It attaches itself to a hard surface by producing threads! It is considered
+      a pest outside its natural range.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/040121chgd0031m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/040121chgd0031m3.jpg
     caption: Growing on a large boulder. Changi, Jan 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/040121chgd0027m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/040121chgd0027m3.jpg
     caption: Growing on a large boulder. Changi, Jan 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/120604pgld3525m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/120604pgld3525m3.jpg
     caption: Growing in cracks of boulder. Punggol, Jun 12
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/031207cjd0034m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/031207cjd0034m3.jpg
     caption: Chek Jawa, Dec 03
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/120604pgld3696m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/120604pgld3696m3.jpg
     caption: When submerged, filter feeds. Punggol, Jun 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/lkcnhm.jpg
-    caption: It has a large mobile foot. From the Lee Kong Chian Natural History
-      Museum
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/lkcnhm.jpg
+    caption: It has a large mobile foot. From the Lee Kong Chian Natural History Museum
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/201116cnyrk1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/201116cnyrk1.jpg
     caption: Coney Island, Nov 20 Photo shared by Richard Kuah on facebook .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/090310tuslks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/090310tuslks.JPG
     caption: Tuas, Mar 09 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/200311blylks7.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/200311blylks7.jpg
     caption: Berlayar Creek, Mar 20 Photo shared by Loh Kok Sheng on facebook.
-links_references: |
-  **Links**
-  - [Green Mussel (
-  *Perna viridis*
-  )](http://mangrove.nus.edu.sg/pub/seashore/text/158.md)
-  Tan, Leo W. H. & Ng, Peter K. L., 1988.
-  *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
-  . The Singapore Science Centre, Singapore. 160 pp.
-  - [Green mussel (
-  *Perna viridis*
-  )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=83835)
-  from SeaLife Base: Technical fact sheet.
-  - Asian brown mussel (
-  *Perna viridis*
-  ) in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
-  on the Food and Agriculture Organization of the United Nations (FAO) website.
-
-  **References**
-  - Stephane Bayen, Gareth Owen Thomas, Hian Kee Lee, Jeffrey Philip Obbard. June 2004.
-  [Organochlorine Pesticides and Heavy Metals in Green Mussel,
-  *Perna viridis*
-  in Singapore](http://link.springer.com/article/10.1023/B:WATE.0000026524.99553.55)
-  . Water, Air, and Soil Pollution, Volume 155, Issue 1, pp 103–116T
-  - Tan Siong Kiat and Henrietta P. M. Woo, 2010
-  *Preliminary Checklist of The Molluscs of Singapore*
-  (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
-  - Tan, K. S. & L. M. Chou, 2000.
-  *A Guide to the Common Seashells of Singapore*
-  . Singapore Science Centre. 160 pp.
-  - Abbott, R. Tucker, 1991.
-  *Seashells of South East Asia*
-  . Graham Brash, Singapore. 145 pp.
+links_references: "**Links**\n- [Green Mussel (\n*Perna viridis*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/158)\n\
+  Tan, Leo W. H. & Ng, Peter K. L., 1988.\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n\
+  . The Singapore Science Centre, Singapore. 160 pp.\n- [Green mussel (\n*Perna viridis*\n\
+  )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=83835)\nfrom SeaLife\
+  \ Base: Technical fact sheet.\n- Asian brown mussel (\n*Perna viridis*\n) in the\
+  \ Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for\
+  \ Fishery Purposes: The Living Marine Resources of the Western Central Pacific\n\
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)\n\
+  on the Food and Agriculture Organization of the United Nations (FAO) website.\n\n\
+  **References**\n- Stephane Bayen, Gareth Owen Thomas, Hian Kee Lee, Jeffrey Philip\
+  \ Obbard. June 2004.\n[Organochlorine Pesticides and Heavy Metals in Green Mussel,\n\
+  *Perna viridis*\nin Singapore](http://link.springer.com/article/10.1023/B:WATE.0000026524.99553.55)\n\
+  . Water, Air, and Soil Pollution, Volume 155, Issue 1, pp 103\u2013116T\n- Tan Siong\
+  \ Kiat and Henrietta P. M. Woo, 2010\n*Preliminary Checklist of The Molluscs of\
+  \ Singapore*\n(pdf), Raffles Museum of Biodiversity Research, National University\
+  \ of Singapore.\n- Tan, K. S. & L. M. Chou, 2000.\n*A Guide to the Common Seashells\
+  \ of Singapore*\n. Singapore Science Centre. 160 pp.\n- Abbott, R. Tucker, 1991.\n\
+  *Seashells of South East Asia*\n. Graham Brash, Singapore. 145 pp.\n"
 location:
 - pgl
 - prp
@@ -112,6 +84,9 @@ location:
 - skd
 - tus
 - lab
+size:
+- 5.0
+- 8.0
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
@@ -131,7 +106,7 @@ Besides humans, other animals that relish them include fishes, crabs and octopus
 
 **Human uses:**
 Green mussels are considered the economically most important mussel in our region. They are farmed in many parts of Southeast Asia as seafood. They grow fast and in dense numbers. Like other filter-feeding clams, however, mussels may be affected by
-[red tide and other harmful algal blooms](../../../plants/seaweed/redtide.md)
+[red tide and other harmful algal blooms](../../../plants/seaweed/redtide)
 . During such times, the mussels concentrate toxins and people who eat them may get seriously ill.
 
 Outside its natural range of the Asia-Pacific region, the Green mussel is considered an introduced pest and an unwelcome invasive species. There, unchecked by natural predators, the mussels multiply rapidly and clog industrial pipes, foul aquaculture and disturb local ecosystems.

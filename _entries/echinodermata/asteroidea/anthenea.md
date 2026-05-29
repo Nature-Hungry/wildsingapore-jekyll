@@ -1,10 +1,9 @@
 ---
 title: Cake sea star
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: cake, sea star, seastar, starfish, star, fish, anthenea, aspera, 
-  oreasteridae, asteroidea, echinoderm, field, guide, seashore, sea, shore, 
-  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: cake, sea star, seastar, starfish, star, fish, anthenea, aspera, oreasteridae,
+  asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 0
@@ -23,117 +22,110 @@ class: Asteroidea
 superorder: Valvatacea
 order: Valvatida
 updated: Jul 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080703chgd6533m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080703chgd6533m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080703chgd6533m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080703chgd6533m3.jpg
     caption: Changi, Jul 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080703chgd6536m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080703chgd6536m3a.jpg
     caption: Upperside covered with tiny pedicellariae.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080703chgd6533m3c.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080703chgd6533m3c.jpg
     caption: Large marginal plates on the sides.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080703chgd6535m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080703chgd6535m3.jpg
     caption: Underside usually with barred pattern.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080703chgd6535m3c.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080703chgd6535m3c.jpg
     caption: Large bivalve pedicellarie on underside
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080703chgd6535m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080703chgd6535m3a.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/100712chgd8422m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/100712chgd8422m3.jpg
     caption: A young Cake sea star with slender arms. Changi, Jul 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/070816cjd5908m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/070816cjd5908m3.jpg
     caption: A small one with broad arms. Chek Jawa, Aug 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/090113prpd5226m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/090113prpd5226m3.jpg
     caption: A small one with broad arms. Pasir Ris Park, Jan 09
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080801chgd8617m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080801chgd8617m3.jpg
     caption: Changi, Jul 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080409tusd0081m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080409tusd0081m3.jpg
     caption: Tuas, Apr 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080720cjd7925m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080720cjd7925m3.jpg
     caption: Chek Jawa, Jul 08
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/090808prplks2m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/090808prplks2m3.jpg
     caption: Pasir Ris Park, Aug 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/200125prpAky1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/200125prpAky1.jpg
     caption: Pasir Ris Park, Jan 20 Photo shared by Kelvin Yong on facebook .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/180811chglks5.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/180811chglks5.jpg
     caption: Changi, Aug 18 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/251012chgmn9.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/251012chgmn9.jpg
     caption: Young one. Changi, Oct 25 Photo shared by Marcus Ng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/251012chgmn9a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/251012chgmn9a.jpg
     caption: ''
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/250627bbvc8.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/250627bbvc8.jpg
     caption: Beting Bronok, Jun 25 Photo shared by Vincent Choo on facebook .
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/250529cjmn1a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/250529cjmn1a.jpg
     caption: Young one Chek Jawa, May 25
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/250529cjmn1b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/250529cjmn1b.jpg
     caption: Photo shared byMarcus Ng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/091203ubnlks1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/091203ubnlks1m3.jpg
     caption: Pulau Ubin, Dec 09 Photo shared by Loh Kok Sheng on his blog .
   gallery8:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/160210ecplks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/160210ecplks.JPG
     caption: East Coast Park, Feb 16 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/210529ecpblks1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/210529ecpblks1.jpg
     caption: East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook .
   gallery9:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080722cyrcck2m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080722cyrcck2m3.jpg
     caption: Cyrene Reef, Jul 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080722cyrcck1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080722cyrcck1m3.jpg
     caption: Photo shared by Chim Chee Kong on his flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/100626cyrlks1m3.JPG
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/100626cyrlks1m3.JPG
     caption: Cyrene Reef, Jun 10 Photo shared by Loh Kok Sheng on his blog .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Anthenea aspera*](http://www.sealifebase.org/summary/Anthenea-aspera.html)
+
   on SeaLife Base: Technical fact sheet.
 
+
   **References**
+
   - Loisette M. Marsh and Jane Fromont.
+
   *Field Guide to Shallow Water Seastars of Australia*
+
   . 2020. Western Australian Museum. 543pp.
+
   - Lane, David J.W. and Didier Vandenspiegel. 2003
+
   *. A Guide to Sea Stars and Other Echinoderms of Singapore*
+
   . Singapore Science Centre. 187pp.
+
   - Didier VandenSpiegel et al. 1998.
-  *The Asteroid fauna (Echinodermata) of Singapore with a distribution table and illustrated identification to the species*
+
+  *The Asteroid fauna (Echinodermata) of Singapore with a distribution table and illustrated
+  identification to the species*
+
   . The Raffles Bulletin of Zoology 1998 46(2): 431-470.
+
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+
   . Nature Society (Singapore). 285 pp.
+
   - Coleman, Neville. 2007.
+
   *Sea stars: Echinoderms of Asia/Indo-Pacific*
-  . Neville Coleman's Underwater Geographic Pty Ltd, Australia.136pp.
+
+  . Neville Coleman''s Underwater Geographic Pty Ltd, Australia.136pp.
+
+  '
 location:
 - prp
 - chg
@@ -144,6 +136,9 @@ location:
 - tus
 - ecp
 - cyr
+size:
+- 10.0
+- 20.0
 ---
 
 ## Where seen?
@@ -157,15 +152,15 @@ Diameter with arms 10-20cm. Stiff body, the upperside usually slightly convex. A
 Cake sea stars come in a wide variety of patterns and colours, from black, brown, red, orange, yellow to even green.
 **Sometimes confused with**
 the
-[Biscuit sea star](goniodiscaster.md)
+[Biscuit sea star](goniodiscaster)
 (
 *Goniodiscaster scaber*
 ). and the
-[Spiny sea star](gymnanthenea.md)
+[Spiny sea star](gymnanthenea)
 (
 *Gymnanthenea laevis*
 ). Here's more on
-[how to tell apart large sea stars](cfbigstars.md)
+[how to tell apart large sea stars](cfbigstars)
 seen on our shores.
 
 **Status and threats:**

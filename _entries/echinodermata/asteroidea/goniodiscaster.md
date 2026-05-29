@@ -1,10 +1,9 @@
 ---
 title: Biscuit sea star
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: biscuit, sea star, seastar, starfish, star, fish, goniodiscater, 
-  scaber, oreasteridae, asteroidea, echinoderm, field, guide, seashore, sea, 
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: biscuit, sea star, seastar, starfish, star, fish, goniodiscater, scaber,
+  oreasteridae, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 0
@@ -23,55 +22,59 @@ class: Asteroidea
 superorder: Valvatacea
 order: Valvatida
 updated: Mar 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/050624tusg8536m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/050624tusg8536m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/050624tusg8536m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/050624tusg8536m3.jpg
     caption: Tuas, Jun 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/050624tusg8536m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/050624tusg8536m3b.jpg
     caption: Upperside.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/050624tusg8535m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/050624tusg8535m3.jpg
     caption: Underside.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/050624tusg8535m3c.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/050624tusg8535m3c.jpg
     caption: Does not have large bivalved pedicellaria.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/050624tusg8535m3d.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/050624tusg8535m3d.jpg
     caption: ''
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/050623cjg8410m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/050623cjg8410m3.jpg
     caption: Chek Jawa, Jun 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/030702cjd0113m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/030702cjd0113m3.jpg
     caption: Chek Jawa, Jul 03
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/101011chgd2150m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/101011chgd2150m3.jpg
     caption: Changi, Oct 10
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/081114cyrlks01m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/081114cyrlks01m3.jpg
     caption: Cyrene Reef, Nov 08 Photo shared by Loh Kok Sheng on his blog .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Goniodiscaster scaber*](http://www.sealifebase.org/summary/Goniodiscaster-scaber.html)
+
   on SeaLife Base: Technical fact sheet
 
+
   **References**
+
   - Lane, David J.W. and Didier Vandenspiegel. 2003
+
   *. A Guide to Sea Stars and Other Echinoderms of Singapore*
+
   . Singapore Science Centre. 187pp.
+
   - Didier VandenSpiegel et al. 1998.
-  *The Asteroid fauna (Echinodermata) of Singapore with a distribution table and illustrated identification to the species*
+
+  *The Asteroid fauna (Echinodermata) of Singapore with a distribution table and illustrated
+  identification to the species*
+
   . The Raffles Bulletin of Zoology 1998 46(2): 431-470.
+
   - Coleman, Neville. 2007.
+
   *Sea stars: Echinoderms of Asia/Indo-Pacific*
-  . Neville Coleman's Underwater Geographic Pty Ltd, Australia.136pp.
+
+  . Neville Coleman''s Underwater Geographic Pty Ltd, Australia.136pp.
+
+  '
 location:
 - prp
 - chg
@@ -81,6 +84,11 @@ location:
 - bb
 - tus
 - cyr
+size:
+- 5.0
+- 15.0
+- 2.0
+- 3.0
 ---
 
 ## Where seen?
@@ -95,15 +103,15 @@ These sea stars have been observed clasping coral rubble coated with encrusting 
 
 **Sometimes confused with**
 the
-[Spiny sea star](gymnanthenea.md)
+[Spiny sea star](gymnanthenea)
 (
 *Gymnanthenea laevis*
 ) and the
-[Cake sea star](anthenea.md)
+[Cake sea star](anthenea)
 (
 *Anthenea aspera*
 ). Here's more on
-[how to tell apart large sea stars](cfbigstars.md)
+[how to tell apart large sea stars](cfbigstars)
 seen on our shores.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

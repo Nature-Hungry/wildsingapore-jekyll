@@ -27,35 +27,34 @@ subtribe: Arecinae
 inat_id: 83108
 updated: Nov 10
 coverimg: http://www.wildsingapore.com/wildfacts/plants/fruittrees/areca/catechu/091005cjd2240m6l.jpg
-links_references: |
-  **Links**
-  - [*Areca
-    catechu*](http://floraofsingapore.wordpress.com/2010/07/15/areca-catechu/) on Total Vascular Flora of Singapore Online: photos
-    and fact sheet.
-  
-  **References**
-  - Wee Yeow
-    Chin. 1992. *[A
-    Guide to Medicinal Plants](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*. The Singapore Science Centre.
-    160pp.
-  - Burkill,
-    I. H., 1993. *[A
+links_references: "**Links**\n- [*Areca\n  catechu*](http://floraofsingapore.wordpress.com/2010/07/15/areca-catechu/)\
+  \ on Total Vascular Flora of Singapore Online: photos\n  and fact sheet.\n\n**References**\n\
+  - Wee Yeow\n  Chin. 1992. *[A\n  Guide to Medicinal Plants](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*.\
+  \ The Singapore Science Centre.\n  160pp.\n- Burkill,\n  I. H., 1993. *[A\n"
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/fruittrees/areca/catechu/091005cjd2244m3a.jpg"
-      caption: Flowers.
-    - url: "http://www.wildsingapore.com/wildfacts/plants/fruittrees/areca/catechu/091005cjd2244m3c.jpg"
-      caption: Fruits.
-    - url: "http://www.wildsingapore.com/wildfacts/plants/fruittrees/areca/catechu/091005cjd2246m6l.jpg"
-      caption: "Chek Jawa, Oct 09"
+  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/areca/catechu/091005cjd2244m3a.jpg
+    caption: Flowers.
+  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/areca/catechu/091005cjd2244m3c.jpg
+    caption: Fruits.
+  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/areca/catechu/091005cjd2246m6l.jpg
+    caption: Chek Jawa, Oct 09
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/fruittrees/areca/catechu/091005cjd2247m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/plants/fruittrees/areca/catechu/091005cjd2247m3.jpg"
-      caption: "Chek Jawa, Oct 09"
+  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/areca/catechu/091005cjd2247m3a.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/areca/catechu/091005cjd2247m3.jpg
+    caption: Chek Jawa, Oct 09
   gallery3:
-    - url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
-      caption: "Links Areca catechu on Total Vascular Flora of Singapore Online: photos and fact sheet. References Wee Yeow Chin. 1992. A Guide to Medicinal Plants . The Singapore Science Centre. 160pp. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444. Whitmore, T. C. 1998 (2nd edition). Palms of Malaya . . White Lotus. 136 pp."
+  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
+    caption: 'Links Areca catechu on Total Vascular Flora of Singapore Online: photos
+      and fact sheet. References Wee Yeow Chin. 1992. A Guide to Medicinal Plants
+      . The Singapore Science Centre. 160pp. Burkill, I. H., 1993. A Dictionary of
+      the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit,
+      Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2:
+      1241-2444. Whitmore, T. C. 1998 (2nd edition). Palms of Malaya . . White Lotus.
+      136 pp.'
+size:
+- 1000.0
 ---
 
 ## Where seen?

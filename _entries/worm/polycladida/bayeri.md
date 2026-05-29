@@ -1,10 +1,9 @@
 ---
 title: Bayer's flatworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: bayers, nymphozoon, bayeri, flat, worm, flatworm,  polyclad, 
-  turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, 
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: bayers, nymphozoon, bayeri, flat, worm, flatworm,  polyclad, turbellaria,
+  platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Pseudocerotidae
 genus: Nymphozoon
@@ -18,80 +17,57 @@ subphylum: Rhabditophora
 order: Polycladida
 suborder: Cotylea
 updated: Feb 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/worm/polycladida/bayeri/060402ulrd1024m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/bayeri/060402ulrd1024m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/bayeri/060402ulrd1024m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bayeri/060402ulrd1024m3.jpg
     caption: Pulau Hantu, Apr 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/bayeri/060402ulrd1024m3a.jpg
-    caption: Pseudotentacles are simple folded edges of the body with white 
-      tips.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/bayeri/180714cjdc4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bayeri/060402ulrd1024m3a.jpg
+    caption: Pseudotentacles are simple folded edges of the body with white tips.
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bayeri/180714cjdc4.jpg
     caption: Chek Jawa, Jul 18 Photo shared by Dayna Cheah on facebook .
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/bayeri/180714cjjll7.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bayeri/180714cjjll7.jpg
     caption: Chek Jawa, Jul 18 Photo shared by Jianlin Liu on facebook .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/bayeri/200723bblks5.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bayeri/200723bblks5.jpg
     caption: Beting Bronok, Jul 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/bayeri/180616bblks14.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bayeri/180616bblks14.jpg
     caption: Beting Bronok, Jun 18 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/bayeri/140518tmlks1m3.JPG
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bayeri/140518tmlks1m3.JPG
     caption: Tanah Merah, May 14 Shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/bayeri/100104tmlks.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bayeri/100104tmlks.jpg
     caption: Tanah Merah, Jan 10 Photo shared by Loh Kok Sheng on flickr .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/bayeri/210530epcnjt1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bayeri/210530epcnjt1.jpg
     caption: East Coast (PCN), May 21 Photo shared by Jonathan Tan on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/bayeri/220517sntccn1.jpg
-    caption: Sentosa Tg Rimau, May 22 Photo shared by Che Cheng Neo on facebook 
-      .
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bayeri/220517sntccn1.jpg
+    caption: Sentosa Tg Rimau, May 22 Photo shared by Che Cheng Neo on facebook .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/bayeri/230831sjirk2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bayeri/230831sjirk2.jpg
     caption: St John's Island. Aug 23 Photo shared by Richard Kuah on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/bayeri/230831sjiky3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bayeri/230831sjiky3.jpg
     caption: St John's Island. Aug 23 Photo shared by Kelvin Yong on facebook .
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/bayeri/250629smkelks19.jpg
-    caption: Pulau Semakau East, Jun 25 Photo shared by Loh Kok Sheng on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/bayeri/220814thntjk1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bayeri/250629smkelks19.jpg
+    caption: Pulau Semakau East, Jun 25 Photo shared by Loh Kok Sheng on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bayeri/220814thntjk1.jpg
     caption: Terumbu Hantu, Aug 22 Photo shared by James Koh on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/bayeri/250812tbio1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bayeri/250812tbio1.jpg
     caption: Terumbu Bemban, Aug 25 Photo shared by Isaac Ong on facebook .
   gallery8:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/bayeri/220105rlhvc1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bayeri/220105rlhvc1.jpg
     caption: Raffles Lighthouse, Jan 22 Shared by Vincent Choo on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/bayeri/220102biolks1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bayeri/220102biolks1.jpg
     caption: Pulau BIola, Jan 22 Shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/bayeri/220201brklks7.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bayeri/220201brklks7.jpg
     caption: Pulau Berkas, Feb 22 Shared by Loh Kok Sheng on facebook .
   gallery9:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/bayeri/100529pbrkmn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bayeri/100529pbrkmn.jpg
     caption: Pulau Berkas, May 10 Photo shared by Marcus Ng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/bayeri/210428slulks1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bayeri/210428slulks1.jpg
     caption: Pulau Salu, Apr 21 Shared by Loh Kok Sheng on facebook .
 location:
 - cj
@@ -104,6 +80,9 @@ location:
 - tsm
 - rfl
 - lfa
+size:
+- 5.0
+- 8.0
 ---
 
 ## Where seen?
@@ -115,7 +94,7 @@ This bold black-and-white flatworm is sometimes seen encountered on coral rubble
 
 **Sometimes mistaken for**
 the
-[Brown-stripe flatworm](brownstripe.md)
+[Brown-stripe flatworm](brownstripe)
 which has a paler brown body and does not have inner bright white margins.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

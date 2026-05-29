@@ -1,10 +1,9 @@
 ---
 title: Big synaptid sea cucumber
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: synaptid, seacucumber, cucumber, synaptidae, apodida, holothuroidea, 
-  echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: synaptid, seacucumber, cucumber, synaptidae, apodida, holothuroidea, echinoderm,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 attributes:
 - 0
@@ -27,78 +26,58 @@ class: Holothuroidea
 subclass: Paractinopoda
 order: Apodida
 updated: Apr 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/071026cyrd7139m6l.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/071026cyrd7139m6l.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/071026cyrd7139m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/071026cyrd7139m6l.jpg
     caption: Cyrene Reef, Oct 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/071026cyrd7141m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/071026cyrd7141m3b.jpg
     caption: Large mottled bobbles separated by distinct plain lines.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/130331tbd5041m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/130331tbd5041m6l.jpg
     caption: Terumbu Bemban, Mar 13
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/130331tbd5041m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/130331tbd5041m3a.jpg
     caption: Four distinct lines separating 'bobble' area.
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/120819cyrd0606m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/120819cyrd0606m3.jpg
     caption: Cyrene Reef, Aug 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/120819cyrd0606m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/120819cyrd0606m3a.jpg
     caption: Feathery feeding tentacles.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/120819cyrd0607m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/120819cyrd0607m3.jpg
     caption: Body covered with tiny hooked sclerites.
   gallery4:
   - url: https://live.staticflickr.com/4178/34606098116_4ba9e8f5c5_z.jpg
     caption: ''
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/250626ubnvc2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/250626ubnvc2.jpg
     caption: Pulau Ubin Jetty, Jun 25 Photo shared by Vincent Choo on facebook .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/110704sntsrpd5655m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/110704sntsrpd5655m3a.jpg
     caption: Sentosa Serapong, Jul 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/090210lablks07m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/090210lablks07m3.jpg
     caption: Labrador, Feb 09 Shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/090210lablks08m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/090210lablks08m3.jpg
     caption: Labrador, Feb 09 Shared by Loh Kok Sheng on his blog .
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/201115tkklks3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/201115tkklks3.jpg
     caption: Pulau Tekukor, Nov 20 Shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/201115tkklks4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/201115tkklks4.jpg
     caption: Pulau Tekukor, Nov 20 Shared by Loh Kok Sheng on facebook .
   gallery8:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/101224sisro5m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/101224sisro5m3.jpg
     caption: Sisters Island, Dec 10 Photo shared by Rene Ong on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/250810bsisal3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/250810bsisal3.jpg
     caption: Big Sisters, Aug 25 Shared by Adriane Lee on facebook .
   gallery9:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/220814thntky1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/220814thntky1.jpg
     caption: Terumbu Hantu, Aug 22 Shared by Kelvin Yong on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/250403smksrk2.jpg
-    caption: Pulau Semakau South, Apr 25 Photo shared by Richard Kuah on 
-      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/250403smksrk2.jpg
+    caption: Pulau Semakau South, Apr 25 Photo shared by Richard Kuah on facebook
+      .
   gallery10:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/210402tmskjk1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/210402tmskjk1.jpg
     caption: Terumbu Semakau, Apr 21 Photo shared by James Koh on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/141108bbblks1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/141108bbblks1m3.jpg
     caption: Beting Bemban Besar, Nov 14 Shared by Loh Kok Sheng on facebook .
   gallery11:
   - url: https://live.staticflickr.com/4178/34606098116_4ba9e8f5c5_z.jpg
@@ -119,6 +98,9 @@ location:
 - hnt
 - smk
 - tsm
+size:
+- 20.0
+- 30.0
 ---
 
 ## Where seen?
@@ -129,9 +111,9 @@ This long fat synaptid sea cucumber with bobbles is sometimes seen on many of ou
 20-30cm to 50 cm long. Body cylindrical, thin skinned. Four rows of large almost spherical bumps ('bobbles') along the body. Bobbles usually mottled, often separated by four distinct plain lines. Feeding tentacles large flat and feathery. Each sea cucumber usually seen alone and not in groups. In various colours and patterns: dark maroon, pink, mottled brown, white. They may be different species.
 
 **Sometimes mistaken for**
-[worms](../../worm/worm.md)
+[worms](../../worm/worm)
 . Here's more on
-[how to tell apart worm-like animals](../../glossary/wormy.md)
+[how to tell apart worm-like animals](../../glossary/wormy)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

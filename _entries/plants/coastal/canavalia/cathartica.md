@@ -26,24 +26,35 @@ updated: Jan 2013
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/canavalia/cathartica/090124ubnd6075m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/canavalia/cathartica/090124ubnd6076m3.jpg"
-      caption: "Pulau Ubin, Jan 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/canavalia/cathartica/100109prpd7712m3.jpg"
-      caption: "Pasir Ris Park, Jan 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/canavalia/cathartica/091019prpd2916m3.jpg"
-      caption: "Pasir Ris Park, Oct 09"
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/canavalia/cathartica/090124ubnd6076m3.jpg
+    caption: Pulau Ubin, Jan 09
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/canavalia/cathartica/100109prpd7712m3.jpg
+    caption: Pasir Ris Park, Jan 10
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/canavalia/cathartica/091019prpd2916m3.jpg
+    caption: Pasir Ris Park, Oct 09
+links_references: '**Links**
+
   - [*Canavalia cathartica*](http://floraofsingapore.wordpress.com/2010/07/21/canavalia-cathartica/)
+
   on Total Vascular Flora of Singapore Online: photos and fact sheet.
-  
+
+
   **References**
+
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
+
   *The Concise Flora of Singapore: Gymnosperms and Dicotyledons*
+
   . Singapore University Press. 222 pp.
+
   - Burkill, I. H., 1993.
+
   *A Dictionary of the Economic Products of the Malay Peninsula*
-  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
+
+  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
+  Volume 1: 1-1240; volume 2: 1241-2444.
+
+  '
 ---
 
 ## Where seen?

@@ -1,10 +1,9 @@
 ---
 title: Tendril slug
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: tendril, slug, lobiger, viridis, seaslug, sap, sucking, sacoglossan, 
-  oxynoidae opisthobranch, gastropod, mollusc, field, guide, seashore, sea, 
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: tendril, slug, lobiger, viridis, seaslug, sap, sucking, sacoglossan, oxynoidae
+  opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 14
@@ -36,49 +35,39 @@ subterclass: Tectipleura
 superorder: Sacoglossa
 superfamily: Oxynooidea
 updated: Jun 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/lobiger/050622cftg8209m3.jpg
-links_references: |
-  **Links**
-  - [The
-    Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheet on
-    [*Lobiger
-    viridis*](http://www.seaslugforum.net/showall.cfm?base=lobiviri) and *[Lobiger
-    souverbii](http://www.seaslugforum.net/factsheet.cfm?base=lobisouv)*
-  - [The
-    Slug Site](http://slugsite.us/)
-    Branch of the Week: photo and fact sheet on *[Lobiger
-    viridis](http://slugsite.us/bow/nudwk401.htm)* and *[Lobiger
-    souverbii](http://slugsite.us/bow/nudwk311.htm)*
-
-  **References**
-  - K. R. Jensen. *Sacoglossa (Mollusca: Gastropoda: Heterobranchia) from northern coasts of Singapore*. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 226-249.
-  - K. R. Jensen & R. S. L. Ong. *Spawning observed in a specimen of the shelled sacoglossan Lobiger viridis Pease, 1863 from Singapore (Mollusca: Gastropoda: Heterobranchia)*.10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 250-254..
-  - Debelius,
-    Helmut, 2001. *Nudibranchs
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/lobiger/050622cftg8209m3.jpg
+links_references: "**Links**\n- [The\n  Sea Slug Forum](http://www.seaslugforum.net/)\
+  \ by Dr Bill Rudman: photos and fact sheet on\n  [*Lobiger\n  viridis*](http://www.seaslugforum.net/showall.cfm?base=lobiviri)\
+  \ and *[Lobiger\n  souverbii](http://www.seaslugforum.net/factsheet.cfm?base=lobisouv)*\n\
+  - [The\n  Slug Site](http://slugsite.us/)\n  Branch of the Week: photo and fact\
+  \ sheet on *[Lobiger\n  viridis](http://slugsite.us/bow/nudwk401.htm)* and *[Lobiger\n\
+  \  souverbii](http://slugsite.us/bow/nudwk311.htm)*\n\n**References**\n- K. R. Jensen.\
+  \ *Sacoglossa (Mollusca: Gastropoda: Heterobranchia) from northern coasts of Singapore*.\
+  \ 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International\
+  \ Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 226-249.\n\
+  - K. R. Jensen & R. S. L. Ong. *Spawning observed in a specimen of the shelled sacoglossan\
+  \ Lobiger viridis Pease, 1863 from Singapore (Mollusca: Gastropoda: Heterobranchia)*.10\
+  \ July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International\
+  \ Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 250-254..\n\
+  - Debelius,\n  Helmut, 2001. *Nudibranchs\n"
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/lobiger/050622cftg8209m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/lobiger/050622cftg8209m3.jpg
     caption: Changi, Jun 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/lobiger/050622cftg8209m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/lobiger/050622cftg8209m3a.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/lobiger/050622cftg8209m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/lobiger/050622cftg8209m3b.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/lobiger/130426tkkd5655m6l.jpg
-    caption: Tendrils can be suddenly unfurled to deter predators. Pulau 
-      Tekukor, Apr 13
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/lobiger/130426tkkd5655m6l.jpg
+    caption: Tendrils can be suddenly unfurled to deter predators. Pulau Tekukor,
+      Apr 13
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/lobiger/121214chgemn1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/lobiger/121214chgemn1.jpg
     caption: Changi East, Dec 12 Photo shared by Marcus Ng on flickr .
   gallery4:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: "Links The Sea Slug Forum by Dr Bill Rudman: photos and fact sheet on
+    caption: 'Links The Sea Slug Forum by Dr Bill Rudman: photos and fact sheet on
       Lobiger viridis and Lobiger souverbii The Slug Site Branch of the Week: photo
       and fact sheet on Lobiger viridis and Lobiger souverbii References K. R. Jensen.
       Sacoglossa (Mollusca: Gastropoda: Heterobranchia) from northern coasts of Singapore
@@ -93,17 +82,19 @@ galleries:
       pp. Wells, Fred E. and Clayton W. Bryce. 2000. Slugs of Western Australia: A
       guide to the species from the Indian to West Pacific Oceans . Western Australian
       Museum. 184 pp. Coleman, Neville. 2001. 1001 Nudibranchs: Catalogue of Indo-Pacific
-      Sea Slugs . Neville Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
+      Sea Slugs . Neville Coleman''s Underwater Geographic Pty Ltd, Australia.144pp.
       Coleman, Neville, 1989. Nudibranchs of the South Pacific Vol 1 . 64 pp. Humann,
       Paul and Ned Deloach. 2010. Reef Creature Identification: Tropical Pacific New
       World Publications. 497pp. Kuiter, Rudie H and Helmut Debelius. 2009. World
       Atlas of Marine Fauna . IKAN-Unterwasserachiv. 723pp. Gosliner, Terrence M.,
       David W. Behrens and Gary C. Williams. 1996. Coral Reef Animals of the Indo-Pacific:
       Animal life from Africa to Hawaii exclusive of the vertebrates Sea Challengers.
-      314pp."
+      314pp.'
 location:
 - chg
 - tkr
+size:
+- 3.0
 ---
 
 ## Where seen?
@@ -115,7 +106,7 @@ To about 3cm. It has a green shell and four long 'fingers' sticking out of the s
 
 **What does it eat?**
 Reports find this slug often among
-[Oval sea grape seaweeds](../../../plants/seaweed/chlorophyta/racemosa.md)
+[Oval sea grape seaweeds](../../../plants/seaweed/chlorophyta/racemosa)
 (
 *Caulerpa racemosa*
 ). The tendrils may also help the slug obtain food from photosynthesis. Like other sacoglossans, this slug retains in its body, the chloroplasts obtained from its seaweed food.

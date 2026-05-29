@@ -1,10 +1,9 @@
 ---
 title: Heart cockle
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: heart, cockle, shell, clam, corculum, cardissa, cardiidae bivalve, 
-  mollusc, clam, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: heart, cockle, shell, clam, corculum, cardissa, cardiidae bivalve, mollusc,
+  clam, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 2
@@ -26,88 +25,102 @@ order: Cardiida
 superfamily: Cardioidea
 subfamily: Fraginae
 updated: May 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090207smkd6289m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090207smkd6289m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090207smkd6289m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090207smkd6289m3.jpg
     caption: Concave on upperside, convex on underside. Pulau Semakau, Feb 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090207smkd6281m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090207smkd6281m3.jpg
     caption: Underside. Pulau Semakau, Feb 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090207smkd6286m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090207smkd6286m3.jpg
     caption: Upperside with translucent 'windows'. Pulau Semakau, Feb 09
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090208smkd6644m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090208smkd6644m3.jpg
     caption: Convex side. Pulau Semakau, Feb 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090208smkd6642m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090208smkd6642m3.jpg
     caption: Flat side.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090208smkd6646m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090208smkd6646m3.jpg
     caption: Side view.
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/220302hntky1b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/220302hntky1b.jpg
     caption: Pulau Hantu, Mar 22 Photo shared by Kelvin Yong on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/201018smksvc2a.jpg
-    caption: Pulau Semakau South, Oct 20 Photo shared by Vincent Choo on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/080223smklks01m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/201018smksvc2a.jpg
+    caption: Pulau Semakau South, Oct 20 Photo shared by Vincent Choo on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/080223smklks01m3.jpg
     caption: Pulau Semakau, Feb 08 Photo shared by Loh Kok Sheng on his blog .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/100613snglks1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/100613snglks1m3.jpg
     caption: Pulau Senang, Jun 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/100613snglks2m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/100613snglks2m3.jpg
     caption: Photo shared by Loh Kok Sheng on his flickr .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/190608bbbll1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/190608bbbll1.jpg
     caption: Beting Bemban Besar, Jun 19 Photo shared by Lisa Lim on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/200626tptdc1.jpg
-    caption: Terumbu Pempang Tengah, Jun 20 Photo shared by Dayna Cheah on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/150524tplhpy5m3.jpg
-    caption: Terumbu Pempang Laut, May 15 Photo shared by Heng Pei Yan on 
-      facebook .
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/200626tptdc1.jpg
+    caption: Terumbu Pempang Tengah, Jun 20 Photo shared by Dayna Cheah on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/150524tplhpy5m3.jpg
+    caption: Terumbu Pempang Laut, May 15 Photo shared by Heng Pei Yan on facebook
+      .
+links_references: '**Links**
+
   - [True heart cockle (
+
   *Corculum cardissa*
+
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=84534)
+
   on SeaBase Life: Technical fact sheet.
+
   - True heart cockle (
+
   *Corculum cardissa*
-  ) in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+
+  ) in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide
+  for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
+
   on the Food and Agriculture Organization of the United Nations (FAO) website.
+
   - [Weird Clam Profile: The Heart Cockles](https://dantheclamman.blog/2018/06/13/weird-clam-profile-the-heart-cockles/)
+
   on Clamsplaining by Dan Killam, Jun 13, 2018.
+
   - [Heart cockle accommodates algae that require light](https://blog.willyvanstrien.nl/2024/12/10/shell-with-windows/)
+
   by Willy van Strien.
 
+
   **References**
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Chou, L. M., 1998.
+
   *A Guide to the Coral Reef Life of Singapore*
+
   . Singapore Science Centre. 128 pages.
+
   - Abbott, R. Tucker, 1991.
+
   *Seashells of South East Asia*
+
   . Graham Brash, Singapore. 145 pp.
+
   - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.
-  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
+
+  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive
+  of the vertebrates*
+
   Sea Challengers. 314pp.
+
+  '
 location:
 - snt
 - sis
@@ -116,6 +129,9 @@ location:
 - smk
 - tsm
 - lfa
+size:
+- 4.0
+- 6.0
 ---
 
 ## Where seen?
@@ -128,7 +144,7 @@ This intriguing clam is sometimes seen on our Southern shores, near reefs. Somet
 **What does it eat?**
 Unlike most other bivalves, the heart cockle harbours symbiotic zooxanthellae (a kind of single-celled algae) in its body. The zooxanthellae produce food through photosynthesis which it shares with the clam. To maximise the productivity of its "farm", the upperside of its shell has translucent 'windows' to let sunlight through the shell.
 In this habit, it is similar to
-[Giant clams](../tridacnidae/tridacnidae.md)
+[Giant clams](../tridacnidae/tridacnidae)
 . It also filter feeds - when submerged, it opens the valves on the underside slightly and sucks in water to filter out edible bits.
 
 **Human uses:**

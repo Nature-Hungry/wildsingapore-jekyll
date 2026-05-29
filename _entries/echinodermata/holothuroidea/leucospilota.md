@@ -1,10 +1,9 @@
 ---
 title: 'Black long sea cucumber '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: black, long, seacucumber, cucumber, holothuria, leucospilota, 
-  cucumariidae, holothuroidea, echinoderm, field, guide, seashore, sea, shore, 
-  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: black, long, seacucumber, cucumber, holothuria, leucospilota, cucumariidae,
+  holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 0
@@ -28,107 +27,74 @@ subclass: Actinopoda
 order: Holothuriida
 subgenus: Mertensiothuria
 updated: Apr 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/leucospilota/050808sntg0846m3.jpg
-links_references: |
-  **Links**
-  - *[Holothuria leucospilota](https://singapore.biodiversity.online/taxo4254/mainSpace/Holothuria%20leucospilotal)* (Aspidochirotida: Holothuriidae) Black Sea Cucumber by Hazel Peh Huiqi, 2014, on taxo4254
-  - *[Holothuria
-    leucospilota](http://coralreef.nus.edu.sg/gallery/ot045)* on the Coral Reefs of Singapore website:
-    photo and brief facts
-  - [*Holothuria
-    leucospilota* (White threads fish)](http://www.sealifebase.org/summary/Holothuria-leucospilotal) on SeaLife Base: Technical
-    fact sheet.
-  - [*Holothuria
-    leucospilota*](http://species-identification.org/species.php?species_group=nasc&id=65) in North Australian Sea Cucumbers on Marine
-    Species Identification Portal: Technical fact sheet.
-  - [*Holothuria
-    leucospilota*](http://www.iucnredlist.org/details/180375/0) on the IUCN Red List: Technical fact sheet.
-  - *Holothuria
-    leucospilota* on [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00), by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
-
-  **References**
-  - Lane, David
-    J.W. and Didier Vandenspiegel. 2003*. A
-    Guide to Sea Stars and Other Echinoderms of Singapore*.
-    Singapore Science Centre. 187pp.
-  - Davison,
-    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-    Red Data Book: Threatened plants and animals of Singapore*.
-    Nature Society (Singapore). 285 pp.
-  - Gosliner,
-    Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-    Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
+coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/leucospilota/050808sntg0846m3.jpg
+links_references: "**Links**\n- *[Holothuria leucospilota](https://singapore.biodiversity.online/taxo4254/mainSpace/Holothuria%20leucospilotal)*\
+  \ (Aspidochirotida: Holothuriidae) Black Sea Cucumber by Hazel Peh Huiqi, 2014,\
+  \ on taxo4254\n- *[Holothuria\n  leucospilota](http://coralreef.nus.edu.sg/gallery/ot045)*\
+  \ on the Coral Reefs of Singapore website:\n  photo and brief facts\n- [*Holothuria\n\
+  \  leucospilota* (White threads fish)](http://www.sealifebase.org/summary/Holothuria-leucospilotal)\
+  \ on SeaLife Base: Technical\n  fact sheet.\n- [*Holothuria\n  leucospilota*](http://species-identification.org/species.php?species_group=nasc&id=65)\
+  \ in North Australian Sea Cucumbers on Marine\n  Species Identification Portal:\
+  \ Technical fact sheet.\n- [*Holothuria\n  leucospilota*](http://www.iucnredlist.org/details/180375/0)\
+  \ on the IUCN Red List: Technical fact sheet.\n- *Holothuria\n  leucospilota* on\
+  \ [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00),\
+  \ by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.\n\n\
+  **References**\n- Lane, David\n  J.W. and Didier Vandenspiegel. 2003*. A\n  Guide\
+  \ to Sea Stars and Other Echinoderms of Singapore*.\n  Singapore Science Centre.\
+  \ 187pp.\n- Davison,\n  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore\n\
+  \  Red Data Book: Threatened plants and animals of Singapore*.\n  Nature Society\
+  \ (Singapore). 285 pp.\n- Gosliner,\n  Terrence M., David W. Behrens and Gary C.\
+  \ Williams. 1996. *Coral\n  Reef Animals of the Indo-Pacific: Animal life from Africa\
+  \ to Hawaii\n"
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/leucospilota/050808sntg0846m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/leucospilota/050808sntg0846m3.jpg
     caption: Sentosa, Aug 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/leucospilota/060131sjig4428m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/leucospilota/060131sjig4428m3a.jpg
     caption: Feeding tentacles with bushy tips. St. John's Island, Jan 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/leucospilota/100102tkkd7198m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/leucospilota/100102tkkd7198m3b.jpg
     caption: A small one (about 10cm long). Pulau Tekukor, Jan 10
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/leucospilota/110619tslgd4393m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/leucospilota/110619tslgd4393m6l.jpg
     caption: Often several under a rock. Terumbu Selegie, Jun 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/leucospilota/120407lazd8085m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/leucospilota/120407lazd8085m3.jpg
     caption: Out of water. Lazarus Island, Apr 12
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/leucospilota/130821cjlks2m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/leucospilota/130821cjlks2m3.jpg
     caption: Chek Jawa, Aug 13 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/leucospilota/240722lygrk1.jpg
-    caption: . Changi (Fairy Point), Jul 24 Photo shared by Richard Kuah on 
-      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/leucospilota/240722lygrk1.jpg
+    caption: . Changi (Fairy Point), Jul 24 Photo shared by Richard Kuah on facebook
+      .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/leucospilota/170428ecpcnlks6.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/leucospilota/170428ecpcnlks6.jpg
     caption: East Coast PCN, Apr 17 Photo shared by Loh Kok Sheng on facebook
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/leucospilota/100518lablks1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/leucospilota/100518lablks1m3.jpg
     caption: Labrador, May 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/leucospilota/170822labjt2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/leucospilota/170822labjt2.jpg
     caption: Labrador, Aug 17 Photo shared by Jonathan Tan on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/leucospilota/211009blylks2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/leucospilota/211009blylks2.jpg
     caption: Berlayar Creek, Oct 21 Photo shared by Loh Kok Sheng on facebook .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/leucospilota/240527srplks10.jpg
-    caption: Sentosa Serapong, May 24 Photo shared by Loh Kok Sheng on facebook 
-      .
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/leucospilota/240527srplks10.jpg
+    caption: Sentosa Serapong, May 24 Photo shared by Loh Kok Sheng on facebook .
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/leucospilota/151225tsmktch2m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/leucospilota/151225tsmktch2m3.jpg
     caption: Terumbu Semakau, Dec 15 Photo shared by Chay Hoon on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/leucospilota/101106tbrnlks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/leucospilota/101106tbrnlks.JPG
     caption: Terumbu Buran, Jan 11 Photo shared by Loh Kok Sheng on flickr .
   gallery8:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/leucospilota/160312tptmn1.jpg
-    caption: Terumbu Pempang Tengah, Mar 16 Photo shared by Marcus Ng on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/leucospilota/130628thntlks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/leucospilota/160312tptmn1.jpg
+    caption: Terumbu Pempang Tengah, Mar 16 Photo shared by Marcus Ng on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/leucospilota/130628thntlks.JPG
     caption: Terumbu Hantu, Jun 13 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/leucospilota/210428slutch1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/leucospilota/210428slutch1.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Toh Chay Hoon on facebook .
   gallery9:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/leucospilota/100130brklks3m3.jpg
-    caption: Terumbu Berkas, Jan 10 Photo shared by Loh Kok Sheng on his flickr 
-      .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/leucospilota/100613snglks3m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/leucospilota/100130brklks3m3.jpg
+    caption: Terumbu Berkas, Jan 10 Photo shared by Loh Kok Sheng on his flickr .
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/leucospilota/100613snglks3m6l.jpg
     caption: Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
   gallery10:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -169,6 +135,10 @@ location:
 - tsm
 - rfl
 - lfa
+size:
+- 30.0
+- 40.0
+- 100.0
 ---
 
 ## Where seen?

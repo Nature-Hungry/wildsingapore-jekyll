@@ -1,10 +1,8 @@
 ---
 title: 'Coral crabs '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: coral, crab, trapeziidae, decapod, crustacea, field, guide, seashore, 
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, 
-  photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: coral, crab, trapeziidae, decapod, crustacea, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Tetraliidae
 genus: ''
@@ -26,15 +24,12 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Trapezioidea
 updated: Dec 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/bandit/100615tmjk4m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/bandit/100615tmjk4m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/bandit/100615tmjk4m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/bandit/100615tmjk4m3.jpg
     caption: Bandit coral crab
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/100711cyrd8229m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/100711cyrd8229m3a.jpg
     caption: Red coral crab
 location:
 - tm
@@ -48,15 +43,17 @@ location:
 - tpg
 - smk
 - tsm
+size:
+- 1.0
 ---
 
 ## Where seen?
 These tiny crabs are only found in living branching hard corals such as
-[Acropora corals](../../../cnidaria/coralhard/acroporidae/acropora.md)
+[Acropora corals](../../../cnidaria/coralhard/acroporidae/acropora)
 (
 *Acropora*
 sp.) and
-[Cauliflower corals](../../../cnidaria/coralhard/pocilloporidae/pocillopora.md)
+[Cauliflower corals](../../../cnidaria/coralhard/pocilloporidae/pocillopora)
 (
 *Pocillopora*
 sp.). They are well hidden and quick, and thus hard to spot and photograph.
@@ -68,28 +65,28 @@ Body width about 1cm. The body is flat and usually pentagonal (hard to see this 
 Usually a pair of male and female are found in one coral colony. The females are generally larger than the males and the males have claws that are proportionally larger. These coral crabs feed on the mucus produced by the hard coral, gathering these with the minute comb-like structures at the tips of their feet.
 
 The
-[Red coral crab](redcoral.md)
+[Red coral crab](redcoral)
 (
 *Trapezia cymodoce*
 ) lives only in
-[Cauliflower corals](../../../cnidaria/coralhard/pocilloporidae/pocillopora.md)
+[Cauliflower corals](../../../cnidaria/coralhard/pocilloporidae/pocillopora)
 (
 *Pocillopora*
 sp.).
 
 The
-[Bandit coral crab](bandit.md)
+[Bandit coral crab](bandit)
 (
 *Tetralia nigrolineata*
 ) lives only in
-[Acropora corals](../../../cnidaria/coralhard/acroporidae/acropora.md)
+[Acropora corals](../../../cnidaria/coralhard/acroporidae/acropora)
 (
 *Acropora*
 sp.).
 
 **Other tiny crabs that live in corals**
 include the
-[Hairy coral crab](../xanthidae/cymo.md)
+[Hairy coral crab](../xanthidae/cymo)
 (
 *Cymo andreossyi*
 )
@@ -132,11 +129,11 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 *Tetralia cavimana*
 
 **
-[*Tetralia nigrolineata*](bandit.md)
+[*Tetralia nigrolineata*](bandit)
 (Bandit coral crab) in Family Tetraliidae
 
 **
-[*Trapezia cymodoce*](redcoral.md)
+[*Trapezia cymodoce*](redcoral)
 (Red coral crab) (VU: Vulnerable) in Family Trapeziidae
 
 ---

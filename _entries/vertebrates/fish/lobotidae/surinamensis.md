@@ -1,10 +1,9 @@
 ---
 title: 'Tripletail '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: triple, tail, tripletail, lobotes, surinamensis, lobotidae, field, 
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: triple, tail, tripletail, lobotes, surinamensis, lobotidae, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 attributes:
 - 7
@@ -24,49 +23,74 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/lobotidae/surinamensis/090607tmftd3410m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/lobotidae/surinamensis/090607tmftd3410m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/lobotidae/surinamensis/090607tmftd3410m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/lobotidae/surinamensis/090607tmftd3410m3.jpg
     caption: Tanah Merah, Jun 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/lobotidae/surinamensis/090606tmftd3242m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/lobotidae/surinamensis/090606tmftd3242m6l.jpg
     caption: Tanah Merah, Jun 09
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/lobotidae/surinamensis/110221tmmn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/lobotidae/surinamensis/110221tmmn.jpg
     caption: Tanah Merah, Feb 11 Photo shared by Marcus Ng on flickr .
-links_references: |
-  **Links**
-  - [Tripletail](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/303.md)
+links_references: '**Links**
+
+  - [Tripletail](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/303)
+
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
+
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
+
   . Singapore Science Centre. 163 pp.
+
   - [Atlantic Tripletail (
+
   *Lobotes surinamensis*
+
   )](http://www.fishbase.org/Summary/speciesSummary.php?ID=1077&genusname=Lobotes&speciesname=surinamensis)
+
   from
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheet.
+
   - [*Lobotes surinamensis*](http://www.iucnredlist.org/details/198670/0)
+
   from IUCN Red List.
-  - [Volume 5: Bony fishes part 3 (Menidae to Pomacentridae)](http://www.fao.org/docrep/009/y0770e/y0770e00.md)
-  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
+
+  - [Volume 5: Bony fishes part 3 (Menidae to Pomacentridae)](http://www.fao.org/docrep/009/y0770e/y0770e00)
+
+  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources
+  of the Western Central Pacific.
+
 
   **References**
+
   - Wee Y.C. and Peter K. L. Ng. 1994.
+
   *A First Look at Biodiversity in Singapore*
+
   . National Council on the Environment. 163pp.
+
   - Allen, Gerry, 2000.
+
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
+
   . Periplus Editions. 292 pp.
+
   - Lieske, Ewald and Robert Myers. 2001.
+
   *Coral Reef Fishes of the World*
+
   Periplus Editions. 400pp.
+
+  '
 location:
 - tm
+size:
+- 20.0
+- 100.0
 ---
 
 ## Where seen?
@@ -78,7 +102,7 @@ This fish floats on its side with its head down, so it resembles a drifting leaf
 
 **May be mistaken for**
 the
-[Brown sweetlips](../haemulidae/gibbosus.md)
+[Brown sweetlips](../haemulidae/gibbosus)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**

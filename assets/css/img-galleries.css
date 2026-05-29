@@ -4,6 +4,7 @@
     gap:1rem;
     flex-wrap: wrap;
     justify-content:center;
+    width:100%;
 }
 .img-wrap-group .img-container img{
     width:auto;
@@ -43,4 +44,14 @@
 }
 .img-grid .img-container .caption p{
     margin:0;
+}
+
+@media screen and (max-width:500px) {
+    .img-wrap-group .img-container img {
+        width: 100%;
+        max-width: 100%;
+    }
+    .img-wrap-group .img-container{
+        width:100%;
+    }
 }

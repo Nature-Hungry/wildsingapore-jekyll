@@ -20,22 +20,28 @@ updated: Mar 10
 coverimg: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091005cjd2233m6l.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091227kntd6471m3.jpg"
-      caption: Figs of the Jejawi
-    - url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091227kntd6471m3a.jpg"
-      caption: Small opening in a fig.
-    - url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091227kntd6471m3c.jpg"
-      caption: Flowers inside the hollow of a fig.
+  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091227kntd6471m3.jpg
+    caption: Figs of the Jejawi
+  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091227kntd6471m3a.jpg
+    caption: Small opening in a fig.
+  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091227kntd6471m3c.jpg
+    caption: Flowers inside the hollow of a fig.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/100314cjd9907m3.jpg"
-      caption: "Chek Jawa, Mar 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/100314cjd9925m3.jpg"
-      caption: "Chek Jawa, Mar 10"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/100314cjd9947m3.jpg"
-      caption: "Chek Jawa, Mar 10"
+  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/100314cjd9907m3.jpg
+    caption: Chek Jawa, Mar 10
+  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/100314cjd9925m3.jpg
+    caption: Chek Jawa, Mar 10
+  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/100314cjd9947m3.jpg
+    caption: Chek Jawa, Mar 10
   gallery3:
-    - url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
-      caption: "References Ng, Angie et. al. 2005. A guide to the fabulous figs of Singapore . Singapore Science Centre.152 pp. Corners, E. J. H., 1997. Wayside Trees of Malaya: in two volumes . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444."
+  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
+    caption: 'References Ng, Angie et. al. 2005. A guide to the fabulous figs of Singapore
+      . Singapore Science Centre.152 pp. Corners, E. J. H., 1997. Wayside Trees of
+      Malaya: in two volumes . Fourth edition, Malayan Nature Society, Kuala Lumpur.
+      Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236. Burkill,
+      I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula .
+      3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
+      Volume 1: 1-1240; volume 2: 1241-2444.'
 ---
 
 ## Where seen?
@@ -75,7 +81,7 @@ The tall Jejawi fig next to Jejawi Tower.
 
 ![](http://www.wildsingapore.com/wildfacts/plants/others/ficus/crassiramea/091213ubnd5794m6l.jpg)*
 The rare
-[Collared fig](crassiramea.md)
+[Collared fig](crassiramea)
 .
 **Pulau Ubin, Dec 09**
 

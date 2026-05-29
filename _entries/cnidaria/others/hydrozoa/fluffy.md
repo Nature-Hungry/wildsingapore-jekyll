@@ -1,54 +1,41 @@
 ---
 title: Fluffy hydroid
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: orange, fluffy, hydroid, hydrozoa, cnidaria, field, guide, seashore, 
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, 
-  photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: orange, fluffy, hydroid, hydrozoa, cnidaria, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: ''
 genus: ''
-phylum: 'Cnidaria'
-class: 'Hydrozoa'
+phylum: Cnidaria
+class: Hydrozoa
 species: identification*
 attributes: []
 inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Dec 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/080731chgd8445m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/080731chgd8445m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/080731chgd8445m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/080731chgd8445m3.jpg
     caption: Changi, Jul 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/080731chgd8442m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/080731chgd8442m3b.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/120410chgd9302m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/120410chgd9302m3a.jpg
     caption: Changi, Apr 12
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/091011mkbd2732m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/091011mkbd2732m3.jpg
     caption: Keppel Bay, Oct 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/080409tusd0786m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/080409tusd0786m3.jpg
     caption: Tuas, Apr 08
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/040409tusad0129m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/040409tusad0129m3.jpg
     caption: Tuas, Apr 04
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/251009sjilks2.jpg
-    caption: St John's Island, Oct 25 Photo shared by Loh Kok Sheng on facebook 
-      .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/251009sjilks2a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/251009sjilks2.jpg
+    caption: St John's Island, Oct 25 Photo shared by Loh Kok Sheng on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/251009sjilks2a.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/251009sjilks2b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/251009sjilks2b.jpg
     caption: ''
 location:
 - chg
@@ -58,6 +45,9 @@ location:
 - tus
 - ecp
 - sji
+size:
+- 10.0
+- 15.0
 ---
 
 ## Where seen?

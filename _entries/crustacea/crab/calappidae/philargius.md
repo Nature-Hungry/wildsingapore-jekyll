@@ -1,10 +1,9 @@
 ---
 title: Spotted box crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: spotted, box, crab, calappa, philargius, calappidae, decapod, 
-  crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: spotted, box, crab, calappa, philargius, calappidae, decapod, crustacea,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 attributes:
 - 38
@@ -31,86 +30,91 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Calappoidea
 updated: Dec 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/120510chgd2776m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/120510chgd2776m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/120510chgd2776m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/120510chgd2776m3.jpg
     caption: Changi, May 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/120510chgd3028m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/120510chgd3028m3a.jpg
     caption: Two different kinds of pincers.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/120510chgd3029m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/120510chgd3029m3.jpg
     caption: Eyes!
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/060529cftd2530m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/060529cftd2530m3.jpg
     caption: Changi, May 06 Underside.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/120510chgd3032m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/120510chgd3032m3a.jpg
     caption: P atterns on inside pincers. Changi, May 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/060529cftd2550m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/060529cftd2550m3.jpg
     caption: A pair buried next to one another. Changi, May 06
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/170624cjlks1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/170624cjlks1.jpg
     caption: Chek Jawa, Jun 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/251205cjccn2.jpg
-    caption: Juvenile? Chek Jawa, Jun 17 Photo shared by Che Cheng Neo on 
-      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/251205cjccn2.jpg
+    caption: Juvenile? Chek Jawa, Jun 17 Photo shared by Che Cheng Neo on facebook
+      .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/200820chgvc1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/200820chgvc1.jpg
     caption: Changi, Aug 20 Photo shared by Vincent Choo on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/170528chg6mn1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/170528chg6mn1.jpg
     caption: Changi, May 17 Photo shared by Marcus Ng on facebook .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/120704chglks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/120704chglks.JPG
     caption: Changi, Jul 12 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/110520chgd2626m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/110520chgd2626m3.jpg
     caption: Changi, May 11 Tanah Merah, May 11
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/120407lazlks11m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/120407lazlks11m3.jpg
     caption: Seringat Kias, Apr 12 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/110508cyrlks7m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/110508cyrlks7m3.jpg
     caption: Cyrene Reef, May 11 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/110520chgd2626m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/110520chgd2626m3.jpg
     caption: Changi, May 11 Tanah Merah, May 11
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Spectacled box crab (
+
   *Calappa philargius*
+
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=83545)
+
   on
+
   [SeaLifeBase](http://www.sealifebase.org/search.php)
+
   : technical fact sheet.
 
+
   **References**
+
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
+
   *Rhythm of the Sea: The Life and Times of Labrador Beach*
-  . Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+
+  . Division of Biology, School of Science, Nanyang Technological University & Department
+  of Zoology, the National University of Singapore. 160 pp.
+
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+
   . Nature Society (Singapore). 285 pp.
+
   - Jones Diana S. and Gary J. Morgan, 2002.
+
   *A Field Guide to Crustaceans of Australian Waters*
+
   . Reed New Holland. 224 pp.
+
+  '
 location:
 - chg
 - cj
 - tm
 - laz
 - cyr
+size:
+- 8.0
+- 10.0
 ---
 
 ## Where seen?

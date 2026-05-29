@@ -1,10 +1,9 @@
 ---
 title: 'Frog spawn coral '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: frog, spawn, euphyllia, paradivisa, euphylliidae, caryophyliidae, 
-  coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, 
-  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: frog, spawn, euphyllia, paradivisa, euphylliidae, caryophyliidae, coral,
+  hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Euphylliidae
 genus: Euphyllia
@@ -18,91 +17,96 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/050310smkg3182m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/050310smkg3182m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/050310smkg3182m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/050310smkg3182m3.jpg
     caption: Pulau Semakau, Mar 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/050310smkg3182m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/050310smkg3182m3a.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/050310smkg3182m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/050310smkg3182m3b.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/050310smkg3182m3d.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/050310smkg3182m3d.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/050310smkg3182m3c.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/050310smkg3182m3c.jpg
     caption: ''
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/061122smkd6849m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/061122smkd6849m3.jpg
     caption: Pulau Semakau, Mar 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/061122smkd6851m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/061122smkd6851m3.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/061122smkd6854m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/061122smkd6854m3b.jpg
     caption: ''
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/150618tmftlks14m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/150618tmftlks14m3.jpg
     caption: Tanah Merah Ferry Terminal, Jun 15 .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/150618tmftlks14m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/150618tmftlks14m3a.jpg
     caption: Photo shared by Loh Kok Sheng on facebook
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/200707hntsg1a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/200707hntsg1a.jpg
     caption: Pulau Hantu, Jul 20 Photo shared by Shawne Goh on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/240623hntrg1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/240623hntrg1.jpg
     caption: Pulau Hantu, Jun 24 Photo shared by Rachael Goh on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/2007024thntsg1a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/2007024thntsg1a.jpg
     caption: Terumbu Hantu, Jul 20 Photo shared by Shawne Goh on facebook .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/160723smkerl1.jpg
-    caption: Pulau Semakau East, Jul 16 Photo shared by Richard Kuah on facebook
-      .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/240725smkntl1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/160723smkerl1.jpg
+    caption: Pulau Semakau East, Jul 16 Photo shared by Richard Kuah on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/240725smkntl1.jpg
     caption: Pulau Semakau North, Jul 24 Photo shared by Tammy Lim on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/040507rlhcd0101m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/040507rlhcd0101m3.jpg
     caption: Raffles Lighthouse, May 04
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
+
   with species factsheets.
+
   - [IUCN Red List of Threatened Species](https://www.iucnredlist.org/)
+
   with species factsheets.
+
   - [*Euphyllia*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Euphyllia)
-  on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal: Technical fact sheet.
+
+  on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal:
+  Technical fact sheet.
+
   - [*Euphyllia paradivisa*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46650)
+
   on SeaLife Base: Technical fact sheet.
 
+
   **References**
+
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
-  *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new records*
+
+  *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new
+  records*
+
   (pdf). Raffles Bulletin of Zoology Supplement No. 22: 69-80.
+
   - Veron, Jen. 2000.
+
   *Corals of the World*
+
   Australian Institute of Marine Science, Australia. 3 volumes.
+
   - Borneman, Eric H. 2001.
+
   *Aquarium Corals: Selection, Husbandry and Natural History*
+
   T.F. H Publications. 464 pp.
+
+  '
 location:
 - tm
 - hnt
 - tpg
 - smk
 - rfl
+size:
+- 20.0
 ---
 
 ## Where seen?
@@ -118,7 +122,7 @@ other
 species. Here's more on
 [how to tell apart the
 *Euphyllia*
-species](euphyllia.md)
+species](euphyllia)
 .
 **Status and threats:**
 This coral is listed as globally Vulnerable

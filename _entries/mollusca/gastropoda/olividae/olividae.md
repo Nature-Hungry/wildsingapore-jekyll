@@ -1,10 +1,9 @@
 ---
 title: 'Olive snails '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: olive, snail, shell, oliva, olividae, gastropod, mollusc, sand, 
-  collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: olive, snail, shell, oliva, olividae, gastropod, mollusc, sand, collar,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Olividae
 genus: ''
@@ -19,94 +18,112 @@ subclass: Caenogastropoda
 order: Neogastropoda
 superfamily: Olivoidea
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/mustelina/060612cftd2912m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/mustelina/060612cftd2912m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/mustelina/060612cftd2912m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/mustelina/060612cftd2912m3.jpg
     caption: Changi, Jun 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/mustelina/110829ecpd0062m6l.jpg
-    caption: Button snails leaping away from a burrowing Olive snail. East Coast
-      Park, Aug 11
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/mustelina/110829ecpd0062m6l.jpg
+    caption: Button snails leaping away from a burrowing Olive snail. East Coast Park,
+      Aug 11
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/090625cyrd5437m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/090625cyrd5437m3.jpg
     caption: Orange-mouth olive snail
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/110830cyrd0490m3.jpg
-    caption: White lip ends at about half the shell opening length. Shell 
-      opening orange or orangey.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/090625cyrd5434m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/110830cyrd0490m3.jpg
+    caption: White lip ends at about half the shell opening length. Shell opening
+      orange or orangey.
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/090625cyrd5434m3b.jpg
     caption: Spire flattened with short pointed tip.
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/130401chgd5120m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/130401chgd5120m3.jpg
     caption: Tigerish olive snail
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/130401chgd5121m3.jpg
-    caption: White lip ends at about half the shell opening length. Shell 
-      opening purplish brown.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/130401chgd5121m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/130401chgd5121m3.jpg
+    caption: White lip ends at about half the shell opening length. Shell opening
+      purplish brown.
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/130401chgd5121m3b.jpg
     caption: Spire conical.
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/mustelina/060612cftd2912m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/mustelina/060612cftd2912m3.jpg
     caption: Weasel olive snail
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/mustelina/090820ecpd9455m3.jpg
-    caption: White lip ends at about half the shell opening length. Shell 
-      opening violet.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/mustelina/090820ecpd9455m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/mustelina/090820ecpd9455m3.jpg
+    caption: White lip ends at about half the shell opening length. Shell opening
+      violet.
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/mustelina/090820ecpd9455m3b.jpg
     caption: Short conical spire.
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/oliva/110814smkd9100m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/oliva/110814smkd9100m3.jpg
     caption: Common olive snail
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/oliva/110814smkd9097m3.jpg
-    caption: White lip ends at less than half the shell opening length. Shell 
-      opening violet.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/oliva/110814smkd9097m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/oliva/110814smkd9097m3.jpg
+    caption: White lip ends at less than half the shell opening length. Shell opening
+      violet.
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/oliva/110814smkd9097m3b.jpg
     caption: Short conical spire.
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - *New Singapore record of the olive shell, Oliva hanleyorum*
-  , 20 December 2019, Calvin Leow Jiah Jay, Singapore Biodiversity Records, 2019: 163 ISSN 2345-7597, National University of Singapore.
+
+  , 20 December 2019, Calvin Leow Jiah Jay, Singapore Biodiversity Records, 2019:
+  163 ISSN 2345-7597, National University of Singapore.
+
   - [Orange-mouth olive snail (
+
   *Olivia sericea*
+
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=202)
+
   on the NParks Flora and Fauna website.
+
   - [Family Olividae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Olividae.html)
-  on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief fact sheet on moon snails with photos.
-  - Family Olividae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+
+  on The Gladys Archerd Shell Collection at Washington State University Tri-Cities
+  Natural History Museum website: brief fact sheet on moon snails with photos.
+
+  - Family Olividae in the Gastropods section by J.M. Poutiers in the FAO Species
+  Identification Guide for Fishery Purposes: The Living Marine Resources of the Western
+  Central Pacific
+
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
+
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
+
   **References**
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+
   . Nature Society (Singapore). 285 pp.
+
   - Abbott, R. Tucker, 1991.
+
   *Seashells of South East Asia*
+
   . Graham Brash, Singapore. 145 pp.
+
   - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.
-  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
+
+  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive
+  of the vertebrates*
+
   Sea Challengers. 314pp.
+
+  '
 location:
 - chg
 - ecp
 - laz
 - sis
 - cyr
+size:
+- 2.0
+- 5.0
 ---
 
 ## Where seen?
@@ -115,11 +132,11 @@ These bullet-shaped snails are sometimes seen on the silty sandy shores near sea
 ## Features
 
 2-5cm. Shell cylindrical and looks like an olive. The shell opening is narrow and many members of this family do not have an operculum. Like a
-[cowrie](../cypraeidae/cypraeidae.md)
+[cowrie](../cypraeidae/cypraeidae)
 , the living olive snail envelopes its shell in its mantle. This is why the shell is so glossy. Most are burrowers that live in the sand. Relying mostly on the sense of smell to find their prey, their eyes are greatly reduced or absent. Olive snails are notoriously variable in colour, even within the same species.
 
 **Sometimes confused with**
-[Cone snails](../conidae/conidae.md)
+[Cone snails](../conidae/conidae)
 (Family Conidae) which can be
 **DEADLY**
 and
@@ -133,7 +150,7 @@ Although sometimes collected for food, they are mainly collected for their attra
 
 **Status and threats:**
 The
-[Orange-mouth olive snail](miniacea.md)
+[Orange-mouth olive snail](miniacea)
 is listed as 'Vulnerable' on the Red List of threatened animals of Singapore.
 
 ---
@@ -178,19 +195,19 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 
 Oliva lignaria
 
-[Oliva miniacea](miniacea.md)*
+[Oliva miniacea](miniacea)*
 (Orange-mouth olive snail) (VU: Vulnerable)
 *=Oliva sericea
 
-[Oliva mustelina](mustelina.md)*
+[Oliva mustelina](mustelina)*
 (Weasel olive snail)
-*[Oliva oliva](oliva.md)*
+*[Oliva oliva](oliva)*
 (Common olive snail)
 *Oliva reticulata
 
 Oliva sidelia
 
-[Oliva tigridella](tigridella.md)*
+[Oliva tigridella](tigridella)*
 (Tigerish olive snail)
 *Olivella plana*
 (^now in Family Olivellidae)

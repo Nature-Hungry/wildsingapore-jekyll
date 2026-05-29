@@ -23,44 +23,51 @@ subfamily: Malvoideae
 tribe: Gossypieae
 updated: Nov 10
 coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/thespesia/populnea/090611prpd3832m6l.jpg
-links_references: |
-  **Links**
-  - *[Thespesia
-    populnea](http://floraofsingapore.wordpress.com/2010/10/17/thespesia-populnea/)* on Total Vascular Flora of Singapore Online:
-    photos and fact sheet.
-  - Giesen, Wim
-    and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
-    [*Mangrove
-    Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00) (PDF online downloadable).
-    RAP publication 2006/07 Food and Agriculture Organization of the
-    United Nations Regional Office for Asia and the Pacific Bangkok.
-  
-  **References**
-  - Hsuan Keng,
-    S.C. Chin and H. T. W. Tan. 1990, *[The
+links_references: "**Links**\n- *[Thespesia\n  populnea](http://floraofsingapore.wordpress.com/2010/10/17/thespesia-populnea/)*\
+  \ on Total Vascular Flora of Singapore Online:\n  photos and fact sheet.\n- Giesen,\
+  \ Wim\n  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.\n  [*Mangrove\n\
+  \  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)\
+  \ (PDF online downloadable).\n  RAP publication 2006/07 Food and Agriculture Organization\
+  \ of the\n  United Nations Regional Office for Asia and the Pacific Bangkok.\n\n\
+  **References**\n- Hsuan Keng,\n  S.C. Chin and H. T. W. Tan. 1990, *[The\n"
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/thespesia/populnea/090611prpd3964m3.jpg"
-      caption: Developing fruits.
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/thespesia/populnea/090611prpd3836m3.jpg"
-      caption: Flowers past their bloom.
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/thespesia/populnea/090611prpd3962m3.jpg"
-      caption: Flower just blossoming.
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/thespesia/populnea/090611prpd3964m3.jpg
+    caption: Developing fruits.
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/thespesia/populnea/090611prpd3836m3.jpg
+    caption: Flowers past their bloom.
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/thespesia/populnea/090611prpd3962m3.jpg
+    caption: Flower just blossoming.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/thespesia/populnea/080216cjd9672m3.jpg"
-      caption: "Chek Jawa, Feb 08 Insect pollinating the flower?"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/thespesia/populnea/080609ubnod5556m3a.jpg"
-      caption: "Pulau Ubin, Jun 08 Cotton stainer bugs on the fruit."
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/thespesia/populnea/090428chgd0933m3.jpg"
-      caption: "Changi, May 09"
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/thespesia/populnea/080216cjd9672m3.jpg
+    caption: Chek Jawa, Feb 08 Insect pollinating the flower?
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/thespesia/populnea/080609ubnod5556m3a.jpg
+    caption: Pulau Ubin, Jun 08 Cotton stainer bugs on the fruit.
+  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/thespesia/populnea/090428chgd0933m3.jpg
+    caption: Changi, May 09
   gallery3:
-    - url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
-      caption: "Links Thespesia populnea on Total Vascular Flora of Singapore Online: photos and fact sheet. Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006. Mangrove Guidebook for Southeast Asia (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok. References Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University Press. 222 pp. Tan, Hugh T.W. and T. Morgany. 2001. Growing the Native Plants of Singapore . BP Science Centre Guidebook. 168pp. Wee Yeow Chin. 1992. A Guide to Medicinal Plants . The Singapore Science Centre. 160pp. Polunin, Ivan. 1987. Plants and Flowers of Singapore . Times Editions. 160pp. Burkill, I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444."
+  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
+    caption: 'Links Thespesia populnea on Total Vascular Flora of Singapore Online:
+      photos and fact sheet. Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth
+      Scholten. 2006. Mangrove Guidebook for Southeast Asia (PDF online downloadable).
+      RAP publication 2006/07 Food and Agriculture Organization of the United Nations
+      Regional Office for Asia and the Pacific Bangkok. References Hsuan Keng, S.C.
+      Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and
+      Dicotyledons . Singapore University Press. 222 pp. Tan, Hugh T.W. and T. Morgany.
+      2001. Growing the Native Plants of Singapore . BP Science Centre Guidebook.
+      168pp. Wee Yeow Chin. 1992. A Guide to Medicinal Plants . The Singapore Science
+      Centre. 160pp. Polunin, Ivan. 1987. Plants and Flowers of Singapore . Times
+      Editions. 160pp. Burkill, I. H., 1993. A Dictionary of the Economic Products
+      of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture,
+      Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.'
+size:
+- 200.0
+- 1000.0
 ---
 
 ## Where seen?
 Not as commonly seen as the
-[Sea hibiscus](../hibiscus/tiliaceus.md)
+[Sea hibiscus](../hibiscus/tiliaceus)
 (
 *Hibiscus tiliceaus*
 ), this similar looking plant is sometimes seen on our shores and near our mangroves. Elsewhere, it is found on beaches, sandy and rocky coasts as well as back mangroves. It has a wide distribution as the seeds can stay alive in seawater for many months.
@@ -79,7 +86,7 @@ The fruit is the primary means of dispersal, although the seeds may also float. 
 
 **Human uses:**
 According to Burkill, thoughout much of the Pacific, the tree is considered sacred and planted near temples. He suggests this is because the tree was so important to sea-faring people. It is used interchangeably with the
-[Sea hibiscus](../hibiscus/tiliaceus.md)
+[Sea hibiscus](../hibiscus/tiliaceus)
 (
 *Hibiscus tiliceaus*
 ) for cordage. The timber is hard and Fiji natives praise it as being "almost indestructible underwater". In the Philippines it is prized for making musical instruments. According to Hugh Tan, oil is extracted from the seeds and gum from the bark, while an orange-yellow dye is extracted from the wood.
@@ -94,7 +101,7 @@ Flower bud about to blossom.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}---
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 
-[more photos](populnea1.md)
+[more photos](populnea1)
 of portia trees on Singapore shores
 
 ---

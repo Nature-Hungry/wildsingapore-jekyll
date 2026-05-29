@@ -1,10 +1,8 @@
 ---
 title: Wentletrap
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: wentletrap, snail, epitoniidae, , gastropod, mollusc, field, guide, 
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: wentletrap, snail, epitoniidae, , gastropod, mollusc, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Epitoniidae
 genus: ''
@@ -18,33 +16,42 @@ class: Gastropoda
 subclass: Caenogastropoda
 superfamily: Epitonioidea
 updated: Aug 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/epitoniidae/epitoniidae/120223sltd7352m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/epitoniidae/epitoniidae/120223sltd7352m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/epitoniidae/epitoniidae/120223sltd7352m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/epitoniidae/epitoniidae/120223sltd7352m3.jpg
     caption: Seletar, Feb 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/epitoniidae/epitoniidae/120223sltd7333m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/epitoniidae/epitoniidae/120223sltd7333m3.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/epitoniidae/epitoniidae/120223sltd7325m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/epitoniidae/epitoniidae/120223sltd7325m3.jpg
     caption: ''
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Family Epitoniidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Epitoniidae.html)
+
   on
+
   [The Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html)
-  at Washington State University Tri-Cities Natural History Museum website: brief fact sheet on drills with photos
+
+  at Washington State University Tri-Cities Natural History Museum website: brief
+  fact sheet on drills with photos
+
 
   **References**
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Abbott, R. Tucker, 1991.
+
   *Seashells of South East Asia*
+
   . Graham Brash, Singapore. 145 pp.
+
+  '
 location:
 - prp
 - sji

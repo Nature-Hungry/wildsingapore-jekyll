@@ -1,10 +1,9 @@
 ---
 title: Asiatic glass perchlets
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: kops, glass, perchlet, fish, ambassis, kopsii, ambassidae, chandidae, 
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
-  facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: kops, glass, perchlet, fish, ambassis, kopsii, ambassidae, chandidae, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 attributes:
 - 25
@@ -23,71 +22,78 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Mugiliformes
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/040828skdd5497m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/040828skdd5497m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... The fish is almost 
-      transparent, like glass. Look carefully to find it. Large eyes and 
-      upturned mouths. Sometimes stranded in pools at low tide. Watch your step!
+    caption: if you learn only 3 things about them ... The fish is almost transparent,
+      like glass. Look carefully to find it. Large eyes and upturned mouths. Sometimes
+      stranded in pools at low tide. Watch your step!
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: The fish is almost transparent, like glass. Look carefully to find 
-      it. Large eyes and upturned mouths. Sometimes stranded in pools at low 
-      tide. Watch your step!
+    caption: The fish is almost transparent, like glass. Look carefully to find it.
+      Large eyes and upturned mouths. Sometimes stranded in pools at low tide. Watch
+      your step!
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/040828skdd5497m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/040828skdd5497m3.jpg
     caption: Mouth upturned, large eyes. Pulau Sekudu, Aug 04
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/050410kusg4216m6l.jpg
-    caption: Kops' glass perchelet (Ambassis kopsii ) Dorsal fin deeply notched,
-      with blackish tip. Kusu Island, Apr 05
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/050410kusg4216m6l.jpg
+    caption: Kops' glass perchelet (Ambassis kopsii ) Dorsal fin deeply notched, with
+      blackish tip. Kusu Island, Apr 05
   gallery3:
   - url: https://live.staticflickr.com/4567/37781483284_ce1cea629d_z.jpg
     caption: Often seen in large schools. Sungei Buloh Wetland Reserve, Nov 17
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/250626ubnrk5.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/250626ubnrk5.jpg
     caption: Pulau Ubin Jetty, Jun 25 Photo shared by Richard Kuah on facebook .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/171010blymn2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/171010blymn2.jpg
     caption: Berlayar Creek, Oct 17 Photo shared by Marcus Ng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/241019lazccn2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/241019lazccn2.jpg
     caption: Lazarus Island, Oct 24 Photo shared by Che Cheng Neo on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/251009sjilks11.jpg
-    caption: St John's Island, Oct 25 Photo shared by Loh Kok Sheng on facebook 
-      .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/251009sjilks11.jpg
+    caption: St John's Island, Oct 25 Photo shared by Loh Kok Sheng on facebook .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/250810bsisjk6.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/250810bsisjk6.jpg
     caption: Big Sisters, Aug 25 Photo shared by Jayden Kang on facebook .
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/160208smkshpy5.jpg
-    caption: Pulau Semakau South, Feb 16 Photo shared by Heng Pei Yan on 
-      facebook .
-links_references: |
-  **Links**
-  - [Kops' Glass Perchlet (
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/160208smkshpy5.jpg
+    caption: Pulau Semakau South, Feb 16 Photo shared by Heng Pei Yan on facebook
+      .
+links_references: '**Links**
+
+  - [Kops'' Glass Perchlet (
+
   *Ambassis kopsii*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/263.md)
+
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/263)
+
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
+
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
+
   . Singapore Science Centre. 163 pp.
+
   - [Asiatic glassfish (Ambassidae)](https://singapore.biodiversity.online/taxon/A-Vert-Fish-Perciformes-Ambassidae)
+
   on The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.
-  - [Glass Perchlets](https://www.ecologyasia.com/verts/fishes/glass-perchlet.md)
+
+  - [Glass Perchlets](https://www.ecologyasia.com/verts/fishes/glass-perchlet)
+
   on Ecology Asia.
+
   - [Singapore glassy perchlet (
+
   *Ambassis kopsii*
+
   )](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=5982)
+
   from
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheet.
+
+  '
 location:
 - pgl
 - ubn
@@ -101,6 +107,8 @@ location:
 - sji
 - sis
 - smk
+size:
+- 10.0
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
@@ -121,9 +129,9 @@ To about 10cm. Body nearly transparent covered with thin scales. Thus it is some
 ) are commonly seen often in a large group of many individuals. Those seen about 5-8cm, grows to about 10cm. Body silvery almost transparent. A distinctive blackish mark on the tip of the dorsal fin, which is deeply notched. Else seen in coastal and brackish waters, sometimes upstream in freshwater. It eats invertebrates. May be marketed fresh or dried and salted.
 
 **Sometimes confused with**
-[Mojarras](../gerreidae/gerreidae.md)
+[Mojarras](../gerreidae/gerreidae)
 (Family Gerreidae) which have a single dorsal fin that is not deeply notched. More on
-[how to tell apart small silvery fishes](../cfsilvery.md)
+[how to tell apart small silvery fishes](../cfsilvery)
 .
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 {% include img-wrap-group.html items=page.galleries.gallery3 %}

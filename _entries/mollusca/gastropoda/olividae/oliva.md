@@ -1,10 +1,9 @@
 ---
 title: Common olive snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: olive, snail, shell, oliva, oliva, olividae, gastropod, mollusc, sand,
-  collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: olive, snail, shell, oliva, oliva, olividae, gastropod, mollusc, sand, collar,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Olividae
 genus: ''
@@ -19,54 +18,70 @@ subclass: Caenogastropoda
 order: Neogastropoda
 superfamily: Olivoidea
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/oliva/110814smkd9100m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/oliva/110814smkd9100m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/oliva/110814smkd9100m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/oliva/110814smkd9100m3.jpg
     caption: Pulau Semakau, Aug 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/oliva/110814smkd9097m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/oliva/110814smkd9097m3b.jpg
     caption: Tall conical spire.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/oliva/110814smkd9097m3.jpg
-    caption: White lip ends at less than half the shell opening length. Shell 
-      opening pinkish.
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/oliva/110814smkd9097m3.jpg
+    caption: White lip ends at less than half the shell opening length. Shell opening
+      pinkish.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/oliva/130428chgmn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/oliva/130428chgmn.jpg
     caption: Changi, Apr 13 Photo shared by Marcus Ng on flickr.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/oliva/100419chgjk.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/oliva/100419chgjk.jpg
     caption: Changi, Apr 10 Photo shared byJames Koh on flickr .
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/oliva/180812nsrtlks10.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/oliva/180812nsrtlks10.jpg
     caption: East Coast Park, Aug 18 Photo shared by Loh Kok Sheng on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Common olive (
+
   *Oliva oliva*
+
   )](http://www.sealifebase.org/summary/Oliva-oliva.html)
+
   on SeaLife Base: Technical fact sheet and photo.
+
   - [Family Olividae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Olividae.html)
-  on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief fact sheet on moon snails with photos.
-  - Family Olividae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+
+  on The Gladys Archerd Shell Collection at Washington State University Tri-Cities
+  Natural History Museum website: brief fact sheet on moon snails with photos.
+
+  - Family Olividae in the Gastropods section by J.M. Poutiers in the FAO Species
+  Identification Guide for Fishery Purposes: The Living Marine Resources of the Western
+  Central Pacific
+
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
+
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
+
   **References**
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Abbott, R. Tucker, 1991.
+
   *Seashells of South East Asia*
+
   . Graham Brash, Singapore. 145 pp.
+
+  '
 location:
 - chg
 - ecp
 - smk
+size:
+- 3.0
+- 4.0
 ---
 
 ## Where seen?

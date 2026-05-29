@@ -1,10 +1,9 @@
 ---
 title: Small ring  coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: coral, hard, faviidae, merulinidae, scleractinia, cnidaria, field, 
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, 
-  fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: coral, hard, faviidae, merulinidae, scleractinia, cnidaria, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Faviidae
 genus: ''
@@ -18,58 +17,42 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringsmall/060402ulrd1178m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringsmall/060402ulrd1178m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringsmall/060402ulrd1178m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringsmall/060402ulrd1178m3.jpg
     caption: Pulau Hantu, Apr 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringsmall/060402ulrd1179m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringsmall/060402ulrd1179m3.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringsmall/060402ulrd1179m3c.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringsmall/060402ulrd1179m3c.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringsmall/110930smkd1722m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringsmall/110930smkd1722m3.jpg
     caption: Pulau Semakau, Sep 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringsmall/070204hntd7882m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringsmall/070204hntd7882m3.jpg
     caption: Pulau Hantu, Feb 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringsmall/070102sisd7332m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringsmall/070102sisd7332m3.jpg
     caption: Sisters Island, Jan 07
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringsmall/101108bkoms00727m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringsmall/101108bkoms00727m3.jpg
     caption: Terumbu Bukom, Nov 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringsmall/100601slud4959m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringsmall/100601slud4959m3.jpg
     caption: Pulau Salu, Jun 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringsmall/100530tbkd4324m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringsmall/100530tbkd4324m3.jpg
     caption: Pulau Berkas, May 10
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringsmall/091205sudd5534m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringsmall/091205sudd5534m3.jpg
     caption: Pulau Sudong, Dec 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringsmall/091231biod7078m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringsmall/091231biod7078m3.jpg
     caption: Pulau Biola, Dec 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringsmall/100131slud8865m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringsmall/100131slud8865m3.jpg
     caption: Terumbu Salu, Jan 10
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringsmall/100130brkd8714m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringsmall/100130brkd8714m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringsmall/100810sngd9983m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringsmall/100810sngd9983m3.jpg
     caption: Pulau Senang, Aug 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringsmall/100613sngd5514m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringsmall/100613sngd5514m3.jpg
     caption: Pulau Senang, Jun 10
 location:
 - bb
@@ -88,6 +71,9 @@ location:
 - tsm
 - rfl
 - lfa
+size:
+- 10.0
+- 15.0
 ---
 
 ## Where seen?

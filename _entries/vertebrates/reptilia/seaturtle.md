@@ -21,90 +21,156 @@ updated: Oct 2019
 coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/100710sistch1m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/100710sistch1m3.jpg"
-      caption: "Young sea turtle found resting in the man-made lagoon. Sisters Island, Jul 10 Photo shared by Toh Chay Hoon on her blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/130909kusrick1m3.jpg"
-      caption: "Kusu Island, Sep 13 Photo shared by Leong Chin Rick on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/071112smktsy3m3.jpg"
-      caption: "Hawksbill turtle (serrated edge of shell at the back). Pulau Semakau, Nov 07 Photo shared by Teo Siyang on his blog ."
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/100710sistch1m3.jpg
+    caption: Young sea turtle found resting in the man-made lagoon. Sisters Island,
+      Jul 10 Photo shared by Toh Chay Hoon on her blog .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/130909kusrick1m3.jpg
+    caption: Kusu Island, Sep 13 Photo shared by Leong Chin Rick on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/071112smktsy3m3.jpg
+    caption: Hawksbill turtle (serrated edge of shell at the back). Pulau Semakau,
+      Nov 07 Photo shared by Teo Siyang on his blog .
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/130721ecpdavid1m3.jpg"
-      caption: "Sea turtle seen attempting to lay eggs. East Coast Park, Jul 13 Photo shared by David Tan on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/090921kusd1412m3.jpg"
-      caption: "Baby sea turtle seen in the man-made lagoon. They were eventually released into the sea. Kusu Island, Sep 09"
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/190320smkm3.jpg"
-      caption: "Bones of a dead sea turtle in an abandoned net. Pulau Semakau, Mar 19"
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/130721ecpdavid1m3.jpg
+    caption: Sea turtle seen attempting to lay eggs. East Coast Park, Jul 13 Photo
+      shared by David Tan on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/090921kusd1412m3.jpg
+    caption: Baby sea turtle seen in the man-made lagoon. They were eventually released
+      into the sea. Kusu Island, Sep 09
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/190320smkm3.jpg
+    caption: Bones of a dead sea turtle in an abandoned net. Pulau Semakau, Mar 19
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/060523ecphn1m3.jpg"
-      caption: "East Coast Park, May 06 Photos shared by Sivasothi on his blog ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/060523ecphn1m3a.jpg"
-      caption: Rescued hawksbill turtle hatchlings.
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/060523ecphn2m3.jpg"
-      caption: Searching for lost Hawksbill hatchlings.
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/060523ecphn1m3.jpg
+    caption: East Coast Park, May 06 Photos shared by Sivasothi on his blog .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/060523ecphn1m3a.jpg
+    caption: Rescued hawksbill turtle hatchlings.
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/060523ecphn2m3.jpg
+    caption: Searching for lost Hawksbill hatchlings.
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/170823tsmkjt1.jpg"
-      caption: "Terumbu Semakau , Aug 17 Photos shared by Jonathan Tan on facebook ."
-    - url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/160625tkklks3.jpg"
-      caption: "Dead sea turtle washed ashore. Pulau Tekukor, Jun 16 Photo shared by Loh Kok Sheng on facebook ."
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/170823tsmkjt1.jpg
+    caption: Terumbu Semakau , Aug 17 Photos shared by Jonathan Tan on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/160625tkklks3.jpg
+    caption: Dead sea turtle washed ashore. Pulau Tekukor, Jun 16 Photo shared by
+      Loh Kok Sheng on facebook .
+links_references: '**Links**
+
   - [Latest media reports on sea turtles](http://wildsingaporenews.blogspot.com/search/label/sea-turtles)
+
   on the wildsingapore news blog.
+
   - [Marine turtles](http://www.worldwildlife.org/species/finder/marineturtles/marineturtles.html)
+
   on the WWF website with fact sheets on
+
   [Green turtles](http://www.worldwildlife.org/species/finder/greenturtle/greenturtle.html)
+
   and
+
   [Hawksbill turtles](http://www.worldwildlife.org/species/finder/hawksbillturtle/hawksbillturtle.html)
+
   .
+
   - [Sea turtles of Malaysia](http://www.wwf.org.my/about_wwf/what_we_do/species_main/turtles/)
+
   on the WWF Malaysia website: with details of
+
   [satellite tracking of hawskbill turtles](http://www.wwf.org.my/about_wwf/what_we_do/species_main/turtles/turtles_projects/conservation_of_hawksbill_turtles___painted_terrapins_in_malacca/turtle_satellite_tracking_of_hawksbill_turtles_ver2/)
+
   and
+
   [maps of sea turtle migration in the Coral Triangle](http://www.wwf.org.my/media_and_information/events_main/?9000/Maps-Reveal-Secret-Life-of-Turtles-and-Marine-Habitat-in-Urgent-Need-of-Protection)
+
   .
+
   - NParks Flora and Fauna website:
+
   [Green turtle (
+
   *Chelonia mydas*
+
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=263)
+
   and
+
   [Hawksbill turtle (
+
   *Eretmochelys imbricata*
+
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=262)
+
   .
+
   - From the wild shores of singapore blog.
+
   - All sighting from 2019 onwards, compiled under the tag:
-  ['mega fauna'](http://wildshores.blogspot.sg/search/label/mega-fauna)
+
+  [''mega fauna''](http://wildshores.blogspot.sg/search/label/mega-fauna)
+
   - [Happy National Day with dolphins, sea turtles and dugongs! (Aug 2018)](http://wildshores.blogspot.com/2018/08/happy-national-day-with-dolphins-sea.html)
+
   - [Sea turtles and dolphins in Singapore waters! (May 2018)](http://wildshores.blogspot.com/2018/06/sea-turtles-and-dolphins-in-singapore.html)
+
   - [Singapore got sea turtles!](http://wildshores.blogspot.sg/2017/02/singapore-got-sea-turtles.html)
+
   - [What killed the sea turtle?](http://wildshores.blogspot.sg/2017/01/what-killed-sea-turtle.html)
+
   - [Do balloon releases kill marine life?](http://wildshores.blogspot.com/2011/01/do-balloon-releases-kill-marine-life.html)
+
   - [Balloons and soft plastic kill sea turtles, slowly and painfully](http://wildshores.blogspot.com/2011/06/balloons-and-soft-plastic-kill-sea.html)
+
   - [Sea turtles of the Coral Triangle and Singapore](http://wildshores.blogspot.com/2009/07/sea-turtles-of-coral-triangle-and.html)
+
   - [Discarded balloons can kill sea turtles](http://wildshores.blogspot.com/2009/07/discarded-balloons-can-kill-sea-turtles.html)
+
   - [Sea turtle connection: Sentosa and Pulau Upeh](http://wildshores.blogspot.com/2009/07/sea-turtle-connection-sentosa-and-pulau.html)
+
   - [Light kills](http://wildshores.blogspot.com/2009/03/light-kills.html)
+
   - [Reactions to mass balloon release](http://wildshores.blogspot.com/2009/03/reactions-to-mass-balloon-release.html)
+
   - [Single abandoned fishing line can kill](http://wildshores.blogspot.com/2009/02/single-abandoned-fishing-line-can-kill.html)
+
   - [How do sea turtles find their way home?](http://wildshores.blogspot.com/2008/12/how-do-sea-turtles-find-their-way-home.html)
-  - [Sea turtles and Singapore's shores](http://wildshores.blogspot.com/2008/08/sea-turtles-and-singapores-shores.html)
-  
+
+  - [Sea turtles and Singapore''s shores](http://wildshores.blogspot.com/2008/08/sea-turtles-and-singapores-shores.html)
+
+
   **References**
+
   - Joseph Cham,
-  *Distribution of marine turtles in Singapore: human-wildlife coexistence in a highly urbanized seascape*
+
+  *Distribution of marine turtles in Singapore: human-wildlife coexistence in a highly
+  urbanized seascape*
+
   , Bulletin of Marine Science, 29 May 2024.
+
   - Ng Juat Ying, Collin H. Y. Tong & Koh Kwan Siong.
+
   *A carcass of an olive ridley turtle at East Coast beach*
-  . 31 May 2019. Singapore Biodiversity Records 2019: 65-66 ISSN 2345-7597. National University of Singapore.
+
+  . 31 May 2019. Singapore Biodiversity Records 2019: 65-66 ISSN 2345-7597. National
+  University of Singapore.
+
   - Lim, Kelvin K. P. & Francis L K Lim, 1992.
+
   *A Guide to the Amphibians and Reptiles of Singapore*
+
   Singapore Science Centre. 160 pp.
-  - Cox, Merel J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt. 1998.
-  *A Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular Malaysia and Singapore*
+
+  - Cox, Merel J., Peter Paul van Dijk, Jarujin Nabhitabhata and Kumthorn Thirakhupt.
+  1998.
+
+  *A Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular Malaysia
+  and Singapore*
+
   New Holland.
+
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+
   . Nature Society (Singapore). 285 pp.
+
+  '
 ---
 
 ## Where seen?

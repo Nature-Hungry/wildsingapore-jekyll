@@ -1,10 +1,9 @@
 ---
 title: 'Feather-hitching brittle stars '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: feather, hitching, brittle, star, brittlestar, ophiomaza, cacaotica, 
-  ophiuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: feather, hitching, brittle, star, brittlestar, ophiomaza, cacaotica, ophiuroidea,
+  echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 0
@@ -27,59 +26,52 @@ order: Amphilepidida
 suborder: Gnathophiurina
 superfamily: Ophiactoidea
 updated: Apr 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/featherstar/060713rlhd4318m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/featherstar/060713rlhd4318m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/featherstar/060713rlhd4318m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/featherstar/060713rlhd4318m3.jpg
     caption: Raffles Lighthouse, Jul 06
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/featherstar/130625ecpd8222.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/featherstar/130625ecpd8222.jpg
     caption: East Coast, Jun 13
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/featherstar/120507srpd1608m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/featherstar/120507srpd1608m3.jpg
     caption: Sentosa, May 12
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/featherstar/060713rlhd4328m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/featherstar/060713rlhd4328m3.jpg
     caption: Upper side.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/featherstar/060713rlhd4328m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/featherstar/060713rlhd4328m3a.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/featherstar/060713rlhd4320m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/featherstar/060713rlhd4320m3.jpg
     caption: Underside.
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/featherstar/180910chg4dc2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/featherstar/180910chg4dc2.jpg
     caption: Changi, Sep 18 Photo shared by Dayna Cheah on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/featherstar/130626ecplks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/featherstar/130626ecplks.JPG
     caption: East Coast Park, Jun 13 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/featherstar/200820ssisjll1.jpg
-    caption: Small Sisters Island, Aug 20 Photo shared byJianlin Liu on facebook
-      .
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/featherstar/200820ssisjll1.jpg
+    caption: Small Sisters Island, Aug 20 Photo shared byJianlin Liu on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/featherstar/170429kuslks1a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/featherstar/170429kuslks1a.jpg
     caption: Kusu Island, Apr 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/featherstar/210625kusjll5.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/featherstar/210625kusjll5.jpg
     caption: Kusu Island, Jun 21 Photo shared by Jianlin Liu on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/featherstar/130921sislks1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/featherstar/130921sislks1.jpg
     caption: Sisters Island, Sep 13 Photo shared by Loh Kok Sheng on flickr .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Ophiomaza cacaotica*](http://www.sealifebase.org/summary/Ophiomaza-cacaotica.html)
+
   on SeaLife Base: Technical fact sheet.
 
+
   **References**
+
   - Lane, David J.W. and Didier Vandenspiegel. 2003
+
   *. A Guide to Sea Stars and Other Echinoderms of Singapore*
+
   . Singapore Science Centre. 187pp.
+
+  '
 location:
 - chg
 - ecp
@@ -87,11 +79,14 @@ location:
 - kus
 - sis
 - rfl
+size:
+- 2.0
+- 3.0
 ---
 
 ## Where seen?
 This brittle star lives only in a
-[feather star](../crinoidea/crinoidea.md)
+[feather star](../crinoidea/crinoidea)
 (Class Crinoidea). It has been seen on many different kinds of feather stars on our shores.
 
 ## Features

@@ -1,10 +1,8 @@
 ---
 title: Mojarra
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: mojarra, siilver, biddy, gerres, gerreidae, field, guide, seashore, 
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, 
-  photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: mojarra, siilver, biddy, gerres, gerreidae, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 25
@@ -23,105 +21,124 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/gerreidae/gerreidae/100528tkk3854.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gerreidae/gerreidae/100528tkk3854.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gerreidae/gerreidae/100528tkk3854.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gerreidae/gerreidae/100528tkk3854.jpg
     caption: Pulau Tekukor, May 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gerreidae/gerreidae/111015cjd2436m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gerreidae/gerreidae/111015cjd2436m6l.jpg
     caption: Chek Jawa, Oct 11
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gerreidae/gerreidae/050917smkg2489m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gerreidae/gerreidae/050917smkg2489m6l.jpg
     caption: Pulau Semakau, Aug 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gerreidae/gerreidae/050917smkg2489m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gerreidae/gerreidae/050917smkg2489m3a.jpg
     caption: Dorsal fin single continunous (not notched) with blackish tip.
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gerreidae/gerreidae/090512tmjk3m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gerreidae/gerreidae/090512tmjk3m3.jpg
     caption: Tanah Merah, May 09 Photo shared by James Koh on his flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gerreidae/gerreidae/131031ecpmblks.JPG
-    caption: East Coast-Marina Bay, Oct 15 Photo shared by Loh Kok Sheng on 
-      flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gerreidae/gerreidae/151001blymn7m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gerreidae/gerreidae/131031ecpmblks.JPG
+    caption: East Coast-Marina Bay, Oct 15 Photo shared by Loh Kok Sheng on flickr
+      .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gerreidae/gerreidae/151001blymn7m3.jpg
     caption: Berlayar Creek, Oct 15 Photo shared by Marcus Ng on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gerreidae/gerreidae/250714srptccn7.jpg
-    caption: Sentosa Serapong, Jul 25 Photo shared by Che Cheng Neo on facebook 
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gerreidae/gerreidae/250714srptccn7.jpg
+    caption: Sentosa Serapong, Jul 25 Photo shared by Che Cheng Neo on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gerreidae/gerreidae/120408sjilks5m3.jpg
+    caption: St. John's Island , Apr 12 Photo shared by Loh Kok Sheng on his blog
       .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gerreidae/gerreidae/120408sjilks5m3.jpg
-    caption: St. John's Island , Apr 12 Photo shared by Loh Kok Sheng on his 
-      blog .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gerreidae/gerreidae/250810bsisjk5.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gerreidae/gerreidae/250810bsisjk5.jpg
     caption: Big Sisters, Aug 25 Photo shared by Jayden Kang on facebook .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gerreidae/gerreidae/240623hnttl3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gerreidae/gerreidae/240623hnttl3.jpg
     caption: Pulau Hantu, Jun 24 Photo shared by Tammy Lim on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gerreidae/gerreidae/240708smkerk1.jpg
-    caption: Pulau Semakau (East), Jul 24 Photo shared by Richard Kuah on 
-      facebook .
-  gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gerreidae/gerreidae/110517tbtro7m3.jpg
-    caption: Terumbu Pempang Tengah, May 11 Photo shared by Rene Ong on facebook
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gerreidae/gerreidae/240708smkerk1.jpg
+    caption: Pulau Semakau (East), Jul 24 Photo shared by Richard Kuah on facebook
       .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gerreidae/gerreidae/161117rlhlks7.jpg
-    caption: Raffles Lighthouse, Nov 16 Photo shared by Loh Kok Sheng on 
-      facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gerreidae/gerreidae/210428slutch2.jpg
+  gallery7:
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gerreidae/gerreidae/110517tbtro7m3.jpg
+    caption: Terumbu Pempang Tengah, May 11 Photo shared by Rene Ong on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gerreidae/gerreidae/161117rlhlks7.jpg
+    caption: Raffles Lighthouse, Nov 16 Photo shared by Loh Kok Sheng on facebook
+      .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gerreidae/gerreidae/210428slutch2.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Toh Chay Hoon on facebook .
-links_references: |
-  **Links**
-  - [Deepbody Mojarra/Silver-biddy](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/304.md)
+links_references: '**Links**
+
+  - [Deepbody Mojarra/Silver-biddy](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/304)
+
   (
+
   *Gerres abbreviatus*
+
   ) and
+
   [Slender Mojarra/Silver-biddy (
+
   *Gerres oyena*
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/305.md)
+
+  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/305)
+
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
+
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
+
   . Singapore Science Centre. 163 pp.
+
   - [Family Gerreidae (Mojarras)](http://www.fishbase.org/Summary/FamilySummary.php?ID=326)
+
   and
+
   [*Gerres erythrourus*
+
   (Deep-bodied mojarra)](http://www.fishbase.org/summary/5800)
+
   and
+
   [*Gerres filamentosus*
+
   (Whipfin silver-biddy)](http://www.fishbase.org/summary/4463)
+
   and
+
   [*Gerres oyena*
+
   (Common silver-biddy)](http://www.fishbase.org/summary/5996)
+
   and
+
   [*Gerres limbatus*
+
   (Saddleback silver-biddy)](http://www.fishbase.org/summary/14295)
+
   and from
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheet on the family
-  - [Volume 5: Bony fishes part 3 (Menidae to Pomacentridae)](http://www.fao.org/docrep/009/y0770e/y0770e00.md)
-  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
+
+  - [Volume 5: Bony fishes part 3 (Menidae to Pomacentridae)](http://www.fao.org/docrep/009/y0770e/y0770e00)
+
+  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources
+  of the Western Central Pacific.
+
 
   **References**
+
   - Wee Y.C. and Peter K. L. Ng. 1994.
+
   *A First Look at Biodiversity in Singapore*
+
   . National Council on the Environment. 163pp.
+
   - Allen, Gerry, 2000.
+
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
+
   . Periplus Editions. 292 pp.
+
+  '
 location:
 - chg
 - cj
@@ -140,6 +157,10 @@ location:
 - tpg
 - smk
 - rfl
+size:
+- 5.0
+- 10.0
+- 25.0
 ---
 
 ## Where seen?
@@ -155,10 +176,10 @@ The Common mojarra is the most commonly seen of the family on the intertidal.
 Those seen about 5-10cm, can grow to 25cm. Body slender, long and silvery. Head with scales but with a smooth upper surface. The tail fin is deeply forked. Dorsal fin single with long and blackish tip and not deeply notched. Juveniles have 7-8 dusky diagonal bars which disappear as they grow older.
 
 **Sometimes confused with**
-[Perchlets](../ambassidae/kopsii.md)
+[Perchlets](../ambassidae/kopsii)
 that have a deeply notched dorsal fin, that Mojarras lack.
 More on
-[how to tell apart small silvery fishes](../cfsilvery.md)
+[how to tell apart small silvery fishes](../cfsilvery)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

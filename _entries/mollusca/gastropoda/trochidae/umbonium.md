@@ -1,10 +1,9 @@
 ---
 title: Button snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: button, shell, snail, umbonium, vestiarium, trochidae, gastropod, 
-  mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: button, shell, snail, umbonium, vestiarium, trochidae, gastropod, mollusc,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info
 layout: entry
 family: Trochidae
 genus: Umbonium
@@ -20,69 +19,96 @@ order: Trochida
 superfamily: Trochoidea
 subfamily: Umboniinae
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/umbonium/120817nsrccd0128m6l.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/umbonium/120817nsrccd0128m6l.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/umbonium/120817nsrccd0128m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/umbonium/120817nsrccd0128m6l.jpg
     caption: East Coast Park, Aug 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/umbonium/070218tmd8071m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/umbonium/070218tmd8071m3.jpg
     caption: Shell opening and operculum. Tanah Merah, Feb 07
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/umbonium/111028chged2810.jpg
-    caption: Tiny button snails leaping away from a hunting moon snail. Changi 
-      East, Oct 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/naticidae/didyma/050427tmg5159m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/umbonium/111028chged2810.jpg
+    caption: Tiny button snails leaping away from a hunting moon snail. Changi East,
+      Oct 11
+  - url: http://www.wildsingapore.com/wildfacts/naticidae/didyma/050427tmg5159m3a.jpg
     caption: Button snails leaping away from a Moon snail Tanah Merah, Apr 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/umbonium/080706chg7378m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/umbonium/080706chg7378m3.jpg
     caption: They can float, forming 'rafts'. Changi, Jul 08
   gallery3:
   - url: https://live.staticflickr.com/7804/47172544461_f9f2f9bd28_z.jpg
     caption: ''
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/umbonium/101206cyrlks2m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/umbonium/101206cyrlks2m3.jpg
     caption: Cyrene Reef, Dec 10 Photo shared by Loh Kok Sheng on his blog .
-links_references: |
-  **Links**
-  - [Family Trochidae](http://mangrove.nus.edu.sg/pub/seashore/text/134.md)
+links_references: '**Links**
+
+  - [Family Trochidae](http://mangrove.nus.edu.sg/pub/seashore/text/134)
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
+
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+
   . The Singapore Science Centre, Singapore. 160 pp.
+
   - [Common button top (
+
   *Umbonium vestiarium*
+
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86800)
+
   in SeaLife Base: Technical fact sheet.
+
   - [Common button top (
+
   *Umbonium vestiarium*
+
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=187)
+
   on the NParks Flora and Fauna website.
+
   - *[Umbonium vestiarium](https://singapore.biodiversity.online/taxo4254/mainSpace/Umbonium%20vestiarium.html)*
+
   (Vestigastropoda: Trochidae) Button snail by Jenny, 2015, on taxo4254.
+
   - Common button top (
+
   *Umbonium vestiarium*
-  ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
-  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.md)
+
+  ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide
+  for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+
+  [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
+
   on the Food and Agriculture Organization of the United Nations (FAO) website.
+
   - [*Umbonium vestiarium*
+
   , a filter-feeding trochid](http://onlinelibrary.wiley.com/doi/10.1111/j.1469-7998.1975.tb02258.x/abstract)
+
   by Vera Fretter In Journal of Zoology (20 Aug 2009).
 
+
   **References**
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Tan, K. S. & L. M. Chou, 2000.
+
   *A Guide to the Common Seashells of Singapore*
+
   . Singapore Science Centre. 160 pp.
+
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+
   . Nature Society (Singapore). 285 pp.
+
+  '
 location:
 - chg
 - cj
@@ -90,6 +116,9 @@ location:
 - ecp
 - lab
 - cyr
+size:
+- 8.0
+- 1.0
 ---
 
 ## Where seen?
@@ -116,11 +145,11 @@ More like bivalves rather than snails, button snails lie just beneath the sand a
 
 **Role in the ecosystem:**
 Button snails appear to be among the favourite prey of
-[Moon snails](../naticidae/naticidae.md)
+[Moon snails](../naticidae/naticidae)
 .
-[Olive snails](../olividae/olividaenoid.md)
+[Olive snails](../olividae/olividaenoid)
 have also been seen hunting them. Other large animals probably also snack on them. Empty buttons shells are favourite homes of tiny
-[hermit crabs](../../../crustacea/othercrust/anomura/hermit/hermit.md)
+[hermit crabs](../../../crustacea/othercrust/anomura/hermit/hermit)
 . So please resist the temptation of taking home even an empty button snail. A homeless hermit crab might need it!
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Human uses:**

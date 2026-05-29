@@ -20,6 +20,8 @@ but we aim to standardize all to what we are working on in the seagrass sections
 			 🟡 Entry attributes
 			 ✅ Atomic entry content
 			 🔲 Higher rank entries content
+          🔲 Central database for all entries to reside
+            🔲 Portal to edit database (GUI that's easy to navigate) for external contributors to use
 		 🔲 Entry guides
 			 🔲 Pages to aggregate guides
 			 🔲 Entry guide content
@@ -34,16 +36,16 @@ but we aim to standardize all to what we are working on in the seagrass sections
 			🔲 Other filters (not decided yet)
 		🔲 Step-by-step Photo indexes
 			🔲 Identify features to group entries by
-			🔲 Prototype
+			🟡 Prototype
 	🔲 New pages that reflect the goals of the new site
 	🟡 Layout components (subject to feedback & change)
 		🔲 Responsive css
 		🟡 Navigation header
 		🔲 Footer
+   🔲 Add a search engine in the "For Teachers" page
+      🔲 Add classroom activities with proper YAML headers
 		
-
-		
-
+---
 
 # Wild Singapore
 

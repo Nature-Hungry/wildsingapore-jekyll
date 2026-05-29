@@ -1,10 +1,9 @@
 ---
 title: Clustered fan green seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: clustered, stiff, fan, seaweed, weed, green, avrainvillea, udoteacea, 
-  chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: clustered, stiff, fan, seaweed, weed, green, avrainvillea, udoteacea, chlorophyta,
+  algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 division: Chlorophyta
 family: Udoteaceae
@@ -20,42 +19,62 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Oct 2016
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrcluster/050610sntd3928m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrcluster/050610sntd3928m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrcluster/100401labd0407m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrcluster/100401labd0407m3b.jpg
     caption: Labrador, Apr 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrcluster/110517tptd1640m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrcluster/110517tptd1640m3.jpg
     caption: Terumbu Pempang Tengah, May 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrcluster/091204pawd5208m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrcluster/091204pawd5208m3.jpg
     caption: Pulau Pawai, Dec 09
-links_references: |
-  **Links**
-  - [*Avrainvillea*](http://mangrove.nus.edu.sg/pub/seashore/text/102.md)
+links_references: '**Links**
+
+  - [*Avrainvillea*](http://mangrove.nus.edu.sg/pub/seashore/text/102)
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
+
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+
   . The Singapore Science Centre, Singapore. 160 pp.
+
   - [*Avrainvillea*
+
   spp.](http://www.seaslugforum.net/factsheet.cfm?base=avrainvillea)
+
   on the
+
   [Sea Slug Forum](http://www.seaslugforum.net/)
+
   : photo and description of the seaweed.
+
   - [*Avrainvillea lacerata*](http://www.algaebase.org/search/species/detail/?species_id=F5718d11674cdcc28&sk=0&from=results)
+
   on
+
   [AlgaeBase](http://www.algaebase.org/)
+
   : Technical fact sheet.
 
+
   **References**
-  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
+
+  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
+  Tsai Min and Wang Luan Keng,
+
   *A photographic guide to the marine algae of Singapore*
+
   , 2015. Tropical Marine Science Institute, 201 pp.
+
   - Pham, M. N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011.
-  [A Checklist of the Algae of Singapore](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf)
-  , 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore, Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+
+  [A Checklist of the Algae of Singapore](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH
+  Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf)
+
+  , 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
+  Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+
+  '
 location:
 - bb
 - tm
@@ -65,6 +84,9 @@ location:
 - cyr
 - tpg
 - lfa
+size:
+- 3.0
+- 4.0
 ---
 
 ## Where seen?
@@ -82,7 +104,7 @@ species.
 
 **Sometimes confused with**
 other fan-shaped green seaweeds. Here's more on
-[how to tell apart fan-shaped green seaweeds](cffan.md)
+[how to tell apart fan-shaped green seaweeds](cffan)
 .
 
 *![](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrcluster/050610sntd3928m3.jpg)

@@ -1,10 +1,9 @@
 ---
 title: 'Star limpet '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: star, limpet, patelloida, saccharinoides, acmaeidae, lottiidae, 
-  gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, 
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: star, limpet, patelloida, saccharinoides, acmaeidae, lottiidae, gastropod,
+  mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 14
@@ -31,35 +30,40 @@ superfamily: Lottioidea
 subfamily: Lottiinae
 tribe: Patelloidini
 updated: Jul 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/patelloida/050108cjd9238m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/patelloida/050108cjd9238m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/patelloida/050108cjd9238m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/patelloida/050108cjd9238m3.jpg
     caption: Chek Jawa, Jan 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/patelloida/050108cjd9237m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/patelloida/050108cjd9237m3.jpg
     caption: Underside.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/patelloida/091021chgd3059m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/patelloida/091021chgd3059m3.jpg
     caption: Changi, Oct 09
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/patelloida/160610jngmn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/patelloida/160610jngmn.jpg
     caption: Pulau Jong, Jun 16 Photo shared by Marcus Ng on flickr .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Patelloida saccharinoides*](http://www.sealifebase.org/summary/SpeciesSummary.php?id=100860)
+
   on SeaLife Base: Technical fact sheet.
 
+
   **References**
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
   - Tan, K. S. & L. M. Chou, 2000.
+
   *A Guide to the Common Seashells of Singapore*
+
   . Singapore Science Centre. 160 pp.
+
+  '
 location:
 - chg
 - cj
@@ -75,6 +79,9 @@ location:
 - jng
 - hnt
 - smk
+size:
+- 2.0
+- 3.0
 ---
 
 ## Where seen?

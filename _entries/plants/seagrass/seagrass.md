@@ -22,147 +22,140 @@ updated: Dec 2019
 coverimg: https://live.staticflickr.com/1236/605886912_becabd5880_c.jpg
 page_images1:
 - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/020714cjd3111m3a.jpg
-  caption: |
-    <p>Seagrass leaves have veins.</p>
+  caption: '<p>Seagrass leaves have veins.</p>
+
     <p>Chek Jawa, Jul 02</p>
+
+    '
 - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/050822cjg2120m3c.jpg
-  caption: |
-    <p>Seagrass have underground stems with roots</p><p>Chek Jawa, Aug 05</p>
+  caption: '<p>Seagrass have underground stems with roots</p><p>Chek Jawa, Aug 05</p>
+
+    '
 - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/050623cjd4106m3.jpg
-  caption: |
-    <p><a href="spinulosa">Fern seagrass</a> has a leaf made up of little leaflets</p><p> Chek Jawa, Jun 05</p>
-page_images2: 
+  caption: "<p><a href=\"spinulosa\">Fern seagrass</a>\_has a leaf made up of little\
+    \ leaflets</p><p> Chek Jawa, Jun 05</p>\n"
+page_images2:
 - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/050428cftg5289m3.jpg
-  caption: |
-    <p>Flowering <a href="ovalis">Spoon seagrass</a>?</p>
+  caption: '<p>Flowering <a href="ovalis">Spoon seagrass</a>?</p>
+
     <p>Changi, Apr 05</p>
+
+    '
 - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/050310smkg3174m3.jpg
-  caption: |
-    <p>Female flower of <a href="enhalus">Tape seagrass</a> with tiny male flowers in the centre.</p>
+  caption: '<p>Female flower of <a href="enhalus">Tape seagrass</a> with tiny male
+    flowers in the centre.</p>
+
     <p>Pulau Semakau, Mar 05</p>
+
+    '
 - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/060228labg5266m3.jpg
-  caption: |
-    <p>Flowers of the <a href="thalassia">Sickle seagrass</a> Labrador, Mar 06</p>
+  caption: '<p>Flowers of the <a href="thalassia">Sickle seagrass</a> Labrador, Mar
+    06</p>
+
+    '
 page_images3:
 - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/100711cyrd8201m3.jpg
-  caption: |
-    <p>The tiny <a href="../../mollusca/slugs/anaspidae/seagrass">seagrass sea hare</a> is sometimes seen on <a href="enhalus">Tape seagrass</a>.</p>
+  caption: '<p>The tiny <a href="../../mollusca/slugs/anaspidae/seagrass">seagrass
+    sea hare</a> is sometimes seen on <a href="enhalus">Tape seagrass</a>.</p>
+
     <p>Cyrene Reef, Jul 10</p>
+
+    '
 - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/080208hntd9427m3a.jpg
-  caption: |
-    <p>Small animals settle on <a href="enhalus">Tape seagrass</a>.</p>
+  caption: '<p>Small animals settle on <a href="enhalus">Tape seagrass</a>.</p>
+
     <p>Pulau Hantu, Feb 08</p>
+
+    '
 - url: http://www.wildsingapore.com/wildfacts/eggs/eggs/080722cyrd8262m3.jpg
-  caption: |
-    <p>Eggs laid on <a href="enhalus">Tape seagrass</a>.</p>
+  caption: '<p>Eggs laid on <a href="enhalus">Tape seagrass</a>.</p>
+
     <p>Cyrene Reef, Jul 08</p>
+
+    '
 page_images4:
 - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/others/070120cjd7618m3.jpg
-  caption: |
-    <p>A fresh dugong feeding trail!</p>
+  caption: '<p>A fresh dugong feeding trail!</p>
+
     <p>Chek Jawa, Jan 07</p>
+
+    '
 - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/others/190523cyrm6l.jpg
-  caption: |
-    <p>Dugong feeding trails Cyrene Reef, May 19 </p>
+  caption: '<p>Dugong feeding trails Cyrene Reef, May 19 </p>
+
+    '
 page_images5:
 - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/1000619cjd6799m3.jpg
-  caption: |
-    <p>Bleaching following oil spill in May 10.</p>
+  caption: '<p>Bleaching following oil spill in May 10.</p>
+
     <p>Chek Jawa, Jun 10</p>
+
+    '
 - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/110509sntd1329m3.jpg
-  caption: |
-    <p>Bleaching, cause unknown.</p>
+  caption: '<p>Bleaching, cause unknown.</p>
+
     <p>Sentosa, Apr 11</p>
+
+    '
 - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/110509sntd1334m3.jpg
-  caption: |
-    <p>Burnt, cause unknown.</p>
+  caption: '<p>Burnt, cause unknown.</p>
+
     <p>Sentosa, Apr 11</p>
-trivia_title: "if you learn only 3 things about them ..."
-trivia_items: [
-  "Not all seagrasses look like land grasses.",
-  "They grow from underground stems and will be damaged if they are stepped upon. Avoid stepping on seagrasses.",
-  "Dugongs eat mainly seagrasses!"
-]
-links_references: |
-  **Links**
-  - [TeamSeagrass
-    blog](http://teamseagrass.blogspot.com/) adventures of volunteers monitoring seagrasses of Singapore.
-    You CAN make a difference. Join TeamSeagrass!
-  - [International
-    Seagrass-Watch](http://www.seagrasswatch.org/) with latest seagrass news articles, updates
-    on seagrass monitoring around the world and more. See especially
-    the [Seagrass
-    Educators Handbook](http://www.seagrasswatch.org/Info_centre/education/Seagrass_Educators_Handbook.pdf) (pdf).
-  - [Survey
-    of Seagrasses of Chek Jawa 2001](http://www.naturia.per.sg/cjsurvey/vegetative/indexl) preliminary findings
-  - [Fan
-    Seagrass (*Halophila*) and Tape Seagrass (*Enhalus*)](http://mangrove.nus.edu.sg/pub/seashore/text/108)
-    Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
-    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-    Singapore. 160 pp.
-  - [Sentosa
-    Seagrass Transect 2006](http://www.wildsingapore.com/projects/survey/sentosa/indexl) on wildsingapore.
-  - From the
-    wild shores of singapore blog
-    - [Mangroves,
-      seagrasses 'lock up' carbon: IUCN report](http://wildshores.blogspot.com/2011/04/mangroves-seagrasses-lock-up-carbonl)
-    - [Bird
-      poop helps heal seagrass damage](http://wildshores.blogspot.com/2010/12/bird-poop-helps-heal-seagrass-damagel)
-    - [Seagrasses
-      critical for commercial fisheries](http://wildshores.blogspot.com/2009/03/seagrasses-critical-for-commerciall)
-    - [How
-      much is seagrass worth?](http://wildshores.blogspot.com/2008/10/how-much-is-seagrass-worthl)
-    - [Destruction
-      of seagrasses on par with loss of rainforests and coral reefs](http://wildshores.blogspot.com/2009/06/destruction-of-seagrass-on-par-withl)
-    - [Animals
-      help pollinate and disperse seagrasses](http://wildshores.blogspot.sg/2012/12/animals-help-pollinate-and-dispersel)
-  - Seagrass
-    media articles on [wildsingapore](http://www.wildsingapore.com/news/topics/seagrass)
-    and on the [wildsingapore
-    news blog](http://wildsingaporenews.blogspot.com/search/label/seagrasses) and on the [teamseagrass
-    blog](http://teamseagrass.blogspot.com/search/label/seagrass%20news).
-  
-  **References**
-  - L. J. McKenzie, S. M. Yaakub, R. Tan, J. Seymour & R. L. Yoshida Pp. 60-77. 29 June 2016. *Seagrass habitats in Singapore: Environmental drivers and key processes.* The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part I of II).
-  - Siti M Yaakub, Lim RLF, Lim WL & Todd PA (2013) *The diversity and distribution of seagrass in Singapore*. Nature in Singapore, 6: 105–111.
-  - Lee Q, Siti Maryam Yaakub, Ng NK, Erftemeije PLA & Todd PA (2012) *The crab fauna of three seagrass meadows in Singapore: a pilot study*. Nature in Singapore, 5: 363–368.
-  - McKenzie,
-    L.J., Yaakub, S.M., and Yoshida, R.L. (2007). *[Seagrass-Watch:
-    Guidelines for TeamSeagrass Singapore Participants](http://www.seagrasswatch.org/Training/proceedings/TeamSeagrass_Singapore_workshop_Mar07.pdf)* (PDF).
-    Proceedings of a training workshop, National Parks Board, Biodiversity
-    Centre, Singapore, 24th-25th March 2007 (DPI&F, Cairns). 32pp.
-  - Tan, Hugh
-    T.W. L.M. Chou, Darren C. J. Yeo and Peter K.L. Ng. 2007. *The
-    Natural Heritage of Singapore*.
-    Second edition. Prentice Hall. 271 pp.
-  - Davison,
-    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-    Red Data Book: Threatened plants and animals of Singapore*.
-    Nature Society (Singapore). 285 pp.
-  - Calumpong,
-    H. P. & Menez, E. G., 1997.*Field
-    Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*.
-    Bookmark, Inc., the Philippines. 197 pp.
-  - Waycott,
-    Michelle (et. al). 2004. *A Guide to Tropical Seagrasses of
-    the Indo-West Pacific*. 2004. James Cook University. 72 pp.
-  - Huisman,
-    John M. 2000. *Marine
-    Plants of Australia*
-    University of Western Australia Press. 300pp.
-  - Lim, S.,
-    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-    and Times of Labrador Beach*. Division of Biology, School of
-    Science, Nanyang Technological University & Department of Zoology,
-    the National University of Singapore. 160 pp.
-  - Ong, Jin
-    Eong & Gong, Wooi Khoon (eds.), 2001. *The
-    Encyclopedia of Malaysia (Vol. 6): The Seas*
-    Didier Millet, Malaysia. 144 pp.
-  - Hsuan Keng,
-    S.C. Chin and H. T. W. Tan.1998, *The
-    Concise Flora of Singapore II: Monoctyledons*
-    Singapore University Press. 215 pp.
+
+    '
+trivia_title: if you learn only 3 things about them ...
+trivia_items:
+- Not all seagrasses look like land grasses.
+- They grow from underground stems and will be damaged if they are stepped upon. Avoid
+  stepping on seagrasses.
+- Dugongs eat mainly seagrasses!
+links_references: "**Links**\n- [TeamSeagrass\n  blog](http://teamseagrass.blogspot.com/)\
+  \ adventures of volunteers monitoring seagrasses of Singapore.\n  You CAN make a\
+  \ difference. Join TeamSeagrass!\n- [International\n  Seagrass-Watch](http://www.seagrasswatch.org/)\
+  \ with latest seagrass news articles, updates\n  on seagrass monitoring around the\
+  \ world and more. See especially\n  the [Seagrass\n  Educators Handbook](http://www.seagrasswatch.org/Info_centre/education/Seagrass_Educators_Handbook.pdf)\
+  \ (pdf).\n- [Survey\n  of Seagrasses of Chek Jawa 2001](http://www.naturia.per.sg/cjsurvey/vegetative/indexl)\
+  \ preliminary findings\n- [Fan\n  Seagrass (*Halophila*) and Tape Seagrass (*Enhalus*)](http://mangrove.nus.edu.sg/pub/seashore/text/108)\n\
+  \  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A\n  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
+  \ The Singapore Science Centre,\n  Singapore. 160 pp.\n- [Sentosa\n  Seagrass Transect\
+  \ 2006](http://www.wildsingapore.com/projects/survey/sentosa/indexl) on wildsingapore.\n\
+  - From the\n  wild shores of singapore blog\n  - [Mangroves,\n    seagrasses 'lock\
+  \ up' carbon: IUCN report](http://wildshores.blogspot.com/2011/04/mangroves-seagrasses-lock-up-carbonl)\n\
+  \  - [Bird\n    poop helps heal seagrass damage](http://wildshores.blogspot.com/2010/12/bird-poop-helps-heal-seagrass-damagel)\n\
+  \  - [Seagrasses\n    critical for commercial fisheries](http://wildshores.blogspot.com/2009/03/seagrasses-critical-for-commerciall)\n\
+  \  - [How\n    much is seagrass worth?](http://wildshores.blogspot.com/2008/10/how-much-is-seagrass-worthl)\n\
+  \  - [Destruction\n    of seagrasses on par with loss of rainforests and coral reefs](http://wildshores.blogspot.com/2009/06/destruction-of-seagrass-on-par-withl)\n\
+  \  - [Animals\n    help pollinate and disperse seagrasses](http://wildshores.blogspot.sg/2012/12/animals-help-pollinate-and-dispersel)\n\
+  - Seagrass\n  media articles on [wildsingapore](http://www.wildsingapore.com/news/topics/seagrass)\n\
+  \  and on the [wildsingapore\n  news blog](http://wildsingaporenews.blogspot.com/search/label/seagrasses)\
+  \ and on the [teamseagrass\n  blog](http://teamseagrass.blogspot.com/search/label/seagrass%20news).\n\
+  \n**References**\n- L. J. McKenzie, S. M. Yaakub, R. Tan, J. Seymour & R. L. Yoshida\
+  \ Pp. 60-77. 29 June 2016. *Seagrass habitats in Singapore: Environmental drivers\
+  \ and key processes.* The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part\
+  \ I of II).\n- Siti M Yaakub, Lim RLF, Lim WL & Todd PA (2013) *The diversity and\
+  \ distribution of seagrass in Singapore*. Nature in Singapore, 6: 105\u2013111.\n\
+  - Lee Q, Siti Maryam Yaakub, Ng NK, Erftemeije PLA & Todd PA (2012) *The crab fauna\
+  \ of three seagrass meadows in Singapore: a pilot study*. Nature in Singapore, 5:\
+  \ 363\u2013368.\n- McKenzie,\n  L.J., Yaakub, S.M., and Yoshida, R.L. (2007). *[Seagrass-Watch:\n\
+  \  Guidelines for TeamSeagrass Singapore Participants](http://www.seagrasswatch.org/Training/proceedings/TeamSeagrass_Singapore_workshop_Mar07.pdf)*\
+  \ (PDF).\n  Proceedings of a training workshop, National Parks Board, Biodiversity\n\
+  \  Centre, Singapore, 24th-25th March 2007 (DPI&F, Cairns). 32pp.\n- Tan, Hugh\n\
+  \  T.W. L.M. Chou, Darren C. J. Yeo and Peter K.L. Ng. 2007. *The\n  Natural Heritage\
+  \ of Singapore*.\n  Second edition. Prentice Hall. 271 pp.\n- Davison,\n  G.W. H.\
+  \ and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore\n  Red Data Book: Threatened\
+  \ plants and animals of Singapore*.\n  Nature Society (Singapore). 285 pp.\n- Calumpong,\n\
+  \  H. P. & Menez, E. G., 1997.*Field\n  Guide to the Common Mangroves, Seagrasses\
+  \ and Algae of the Philippines*.\n  Bookmark, Inc., the Philippines. 197 pp.\n-\
+  \ Waycott,\n  Michelle (et. al). 2004. *A Guide to Tropical Seagrasses of\n  the\
+  \ Indo-West Pacific*. 2004. James Cook University. 72 pp.\n- Huisman,\n  John M.\
+  \ 2000. *Marine\n  Plants of Australia*\n  University of Western Australia Press.\
+  \ 300pp.\n- Lim, S.,\n  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The\
+  \ Life\n  and Times of Labrador Beach*. Division of Biology, School of\n  Science,\
+  \ Nanyang Technological University & Department of Zoology,\n  the National University\
+  \ of Singapore. 160 pp.\n- Ong, Jin\n  Eong & Gong, Wooi Khoon (eds.), 2001. *The\n\
+  \  Encyclopedia of Malaysia (Vol. 6): The Seas*\n  Didier Millet, Malaysia. 144\
+  \ pp.\n- Hsuan Keng,\n  S.C. Chin and H. T. W. Tan.1998, *The\n  Concise Flora of\
+  \ Singapore II: Monoctyledons*\n  Singapore University Press. 215 pp.\n"
 ---
 
   

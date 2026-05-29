@@ -1,10 +1,8 @@
 ---
 title: Twig-like halfbeak
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: twig, halfbeak, half, beak, hemiramphidae, fish, field, guide, 
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: twig, halfbeak, half, beak, hemiramphidae, fish, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 9
@@ -24,52 +22,37 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Beloniformes
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/twig/110730tmftd7547m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/twig/110730tmftd7547m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/twig/110730tmftd7547m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/twig/110730tmftd7547m3.jpg
     caption: Tanah Merah, Jul 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/twig/110630tmftd4796m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/twig/110630tmftd4796m6l.jpg
     caption: Tanah Merah, Jun 11
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/twig/110730tmftd7576m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/twig/110730tmftd7576m6l.jpg
     caption: Tanah Merah, Jul 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/twig/100429prpd1877.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/twig/100429prpd1877.jpg
     caption: Shadow cast resembles a twig. Pasir Ris, Apr 10
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/twig/240706ubntl2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/twig/240706ubntl2.jpg
     caption: Pulau Ubin, Jul 24 Photo shared by Tammy Lim on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/twig/090807tmjk3m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/twig/090807tmjk3m3.jpg
     caption: Tanah Merah, Aug 09 Photo shared by James Koh on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/twig/241021ecppcnsl1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/twig/241021ecppcnsl1.jpg
     caption: East Coast (PCN), Oct 24 Photo shared by Samuel Loh on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/twig/160509srpis3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/twig/160509srpis3.jpg
     caption: Sentosa Serapong, May 16 Photo shared by Ian Siah on facebook .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/twig/200919bsisvc1.jpg
-    caption: Big Sisters Island, Sep 20 Photo shared by Vincent Choo on facebook
-      .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/twig/201019sjilks11.jpg
-    caption: St John's Island, Oct 20 Photo shared by Loh Kok Sheng on facebook 
-      .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/twig/200919bsisvc1.jpg
+    caption: Big Sisters Island, Sep 20 Photo shared by Vincent Choo on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/twig/201019sjilks11.jpg
+    caption: St John's Island, Oct 20 Photo shared by Loh Kok Sheng on facebook .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/twig/251207hntky4.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/twig/251207hntky4.jpg
     caption: Pulau Hantu, Dec 25 Photo shared by Kelvin Yong on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/twig/110422tbmro2m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/twig/110422tbmro2m3.jpg
     caption: Terumbu Bemban, Apr 11 Photo shared by Rene Ong on facebook .
 location:
 - prp
@@ -83,6 +66,10 @@ location:
 - hnt
 - tsm
 - lfa
+size:
+- 2.0
+- 3.0
+- 5.0
 ---
 
 ## Where seen?

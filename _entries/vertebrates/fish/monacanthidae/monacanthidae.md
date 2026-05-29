@@ -1,10 +1,8 @@
 ---
 title: 'Filefishes '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: filefish, file, fish, leather, jacket, monacanthidae, field, guide, 
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: filefish, file, fish, leather, jacket, monacanthidae, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Monacanthidae
 genus: ''
@@ -20,129 +18,172 @@ superorder: Acanthomorpha
 order: Tetraodontiformes
 suborder: Balistoidei
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/030714bbd0204m6l.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/030714bbd0204m6l.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They can change colours 
-      and patterns to match the surroundings. They have a stiff dorsal spine and
-      leathery skin instead of scales. Small ones (2-3cm) are common in 
-      seagrasses. Watch your step!
+    caption: if you learn only 3 things about them ... They can change colours and
+      patterns to match the surroundings. They have a stiff dorsal spine and leathery
+      skin instead of scales. Small ones (2-3cm) are common in seagrasses. Watch your
+      step!
   - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They can change colours and patterns to match the surroundings. 
-      They have a stiff dorsal spine and leathery skin instead of scales. Small 
-      ones (2-3cm) are common in seagrasses. Watch your step!
+    caption: They can change colours and patterns to match the surroundings. They
+      have a stiff dorsal spine and leathery skin instead of scales. Small ones (2-3cm)
+      are common in seagrasses. Watch your step!
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/030714bbd0204m6l.jpg
-    caption: The 'thorn' at the top of the head can be locked into place. There 
-      is usually a flap under the body. Beting Bronok, Mar 07
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/040506cjd0033.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/030714bbd0204m6l.jpg
+    caption: The 'thorn' at the top of the head can be locked into place. There is
+      usually a flap under the body. Beting Bronok, Mar 07
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/040506cjd0033.jpg
     caption: Wrapped closely around a sponge. Chek Jawa, May 04
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/050526cjg6861m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/050526cjg6861m3.jpg
     caption: They can change colours for perfect camouflage! Chek Jawa, May 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/110519chgd2112m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/110519chgd2112m3.jpg
     caption: Tiny green one resembles a seagrass leaf! Changi, May 11
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/penicilligerus/110929tmftd1516m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/penicilligerus/110929tmftd1516m3.jpg
     caption: Three Feathery fishes resembling flotsam. Tanah Merah, Sep 11
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/penicilligerus/090918tmd1029m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/penicilligerus/090918tmd1029m3.jpg
     caption: Feathery filefish
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/anacanthus/080523cyrd3973m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/anacanthus/080523cyrd3973m3.jpg
     caption: Bearded filefish
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/tomentosus/090818tmd9242m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/tomentosus/090818tmd9242m3.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/tomentosus/090818tmd9242m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/tomentosus/090818tmd9242m3a.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/tomentosus/070728sisd4532m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/tomentosus/070728sisd4532m3b.jpg
     caption: ''
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/030716cjd0060m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/030716cjd0060m3.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/030716cjd0060m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/030716cjd0060m3a.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/030716cjd0060m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/030716cjd0060m3b.jpg
     caption: ''
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/macrurus/080605hntd4960m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/macrurus/080605hntd4960m6l.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/macrurus/080605hntd4960m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/macrurus/080605hntd4960m3b.jpg
     caption: ''
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
+
   *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
+
   . Singapore Science Centre. 163 pp.
+
   - [*Monocanthus*
-  sp.](http://mangrove.nus.edu.sg/pub/seashore/text/237.md)
+
+  sp.](http://mangrove.nus.edu.sg/pub/seashore/text/237)
+
   Tan, Leo W. H. & Ng, Peter K. L., 1988.
+
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
+
   . The Singapore Science Centre, Singapore. 160 pp.
-  - [Monacanthidae](http://www.ecologyasia.com/verts/fishes/filefishes.md)
+
+  - [Monacanthidae](http://www.ecologyasia.com/verts/fishes/filefishes)
+
   from Ecology Asia.
+
   - [Family Monacanthidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=517)
+
   (Filefishes) and
+
   [*Anacanthus barbatus*
+
   (Bearded leatherjacket)](http://www.fishbase.org/summary/8178)
+
   and
+
   [*Chaetodermis penicilligerus*
+
   (Prickly leatherjacket)](http://www.fishbase.org/summary/7975)
+
   and
+
   [*Paramonacanthus choirocephalus*
+
   (Pig faced leather jacket)](http://www.fishbase.org/summary/26659)
+
   and
+
   *[Paramonacanthus cryptodon](http://www.fishbase.org/summary/60903)*
+
   and
+
   [*Pseudomonacanthus macrurus*
+
   (Strap-weed file-fish)](http://www.fishbase.org/summary/10598)
+
   and
+
   [*Paramonacanthus sulcatus*
+
   (Mudbank filefish)](http://www.fishbase.org/summary/54598)
+
   and
+
   [*Acreichthys tomentosus*
+
   (Bristle-tail file-fish)](http://www.fishbase.org/summary/7849)
+
   from
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheet on the family, including fact sheets on individual species.
-  - [Volume 6: Bony fishes part 4 (Labridae to Latimeriidae), estuarine crocodiles, sea turtles, sea snakes and marine mammals](http://www.fao.org/docrep/009/y0870e/y0870e00.md)
-  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
+
+  - [Volume 6: Bony fishes part 4 (Labridae to Latimeriidae), estuarine crocodiles,
+  sea turtles, sea snakes and marine mammals](http://www.fao.org/docrep/009/y0870e/y0870e00)
+
+  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources
+  of the Western Central Pacific.
+
 
   **References**
+
   - Karenne Tun & Kelvin K. P. Lim.
+
   *Scrawled filefish, Aluterus scriptus, in the Singapore Strait*
-  . 31 May 2019. Singapore Biodiversity Records 2019: 73 ISSN 2345-7597. National University of Singapore.
+
+  . 31 May 2019. Singapore Biodiversity Records 2019: 73 ISSN 2345-7597. National
+  University of Singapore.
+
   - Abigayle Ng and Kelvin K. P. Lim . 7 February 2014.
-  *Scrawled filefish at Saint John's Island*
+
+  *Scrawled filefish at Saint John''s Island*
+
   . Singapore Biodiversity Records 2014: 35
+
   - Wee Y.C. and Peter K. L. Ng. 1994.
+
   *A First Look at Biodiversity in Singapore*
+
   . National Council on the Environment. 163pp.
+
   - Allen, Gerry, 2000.
+
   *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
+
   . Periplus Editions. 292 pp.
+
   - Kuiter, Rudie H. 2002.
+
   *Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers & Fishermen*
+
   New Holland Publishers. 434pp.
+
   - Lieske, Ewald and Robert Myers. 2001.
+
   *Coral Reef Fishes of the World*
+
   Periplus Editions. 400pp.
+
+  '
 location:
 - cj
 - bb
@@ -163,6 +204,9 @@ location:
 - tsm
 - rfl
 - lfa
+size:
+- 10.0
+- 30.0
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
@@ -240,12 +284,12 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
 (Scrawled filefish)
 
 +
-*[Anacanthus barbatus](anacanthus.md)*
+*[Anacanthus barbatus](anacanthus)*
 (Bearded filefish)
 *Chaetodoerma penicilligera=**
-[Chaetodermis penicilligerus](penicilligerus.md)*
+[Chaetodermis penicilligerus](penicilligerus)*
 (Feathery filefish)
-*[Monacanthus chinensis](chinensis.md)*
+*[Monacanthus chinensis](chinensis)*
 (Fan-bellied filefish)
 *Monacanthus choirocephalus=**Paramonacanthus*
 *choirocephalus*
@@ -253,13 +297,13 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
 *Monacanthus cryptodon=**Paramonacanthus cryptodon
 
 Monacanthus macrurus=**
-[Pseudomonacanthus macrurus](macrurus.md)*
+[Pseudomonacanthus macrurus](macrurus)*
 (Strapweed filefish)
 *Monacanthus nemurus=**Paramonacanthus choirocephalus*
 (Pig-faced leather jacket)
 *Monacanthus sulcatus=**Paramonacanthus sulcatus*
 *Monacanthus tomentosus=*
-[Acreichthys tomentosus](tomentosus.md)*
+[Acreichthys tomentosus](tomentosus)*
 (Seagrass filefish)
 
 ---

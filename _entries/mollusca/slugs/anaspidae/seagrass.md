@@ -1,10 +1,9 @@
 ---
 title: Seagrass       sea hare
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: seagrass, seahare, hare, phyllaplysia, aplysiidae, anaspidea, 
-  opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine,
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: seagrass, seahare, hare, phyllaplysia, aplysiidae, anaspidea, opisthobranch,
+  gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 14
@@ -26,46 +25,48 @@ subterclass: Tectipleura
 order: Aplysiida
 superfamily: Aplysioidea
 updated: May 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/091107hntd3997m6la.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/091107hntd3997m6la.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/091107hntd3997m6la.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/091107hntd3997m6la.jpg
     caption: Pulau Hantu, Nov 09
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/100201hntd9184m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/100201hntd9184m3a.jpg
     caption: Tiny ones! Pulau Hantu, Feb 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/100201hntd9184m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/100201hntd9184m6l.jpg
     caption: Pulau Hantu, Feb 10
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/121116sjjid1458m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/121116sjjid1458m3.jpg
     caption: St. John's Island, Nov 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/121116sjjid1455m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/121116sjjid1455m3.jpg
     caption: St. John's Island, Nov 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/121116sjjid1455m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/121116sjjid1455m3a.jpg
     caption: St. John's Island, Nov 12
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/230901kustch2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/230901kustch2.jpg
     caption: Kusu Island, Aug 23 Photo shared by Chay Hoon on facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Phyllaplysia*
-  spp.](http://www.seaslugforum.net/phyllaply.md)
+
+  spp.](http://www.seaslugforum.net/phyllaply)
+
   on the
-  [Sea Slug Forum](http://www.seaslugforum.net/welcome.md)
+
+  [Sea Slug Forum](http://www.seaslugforum.net/welcome)
+
   by Dr Bill Rudman: photos and fact sheet.
 
+
   **References**
+
   - Humann, Paul and Ned Deloach. 2010.
+
   *Reef Creature Identification: Tropical Pacific*
+
   New World Publications. 497pp.
+
+  '
 location:
 - snt
 - kus
@@ -73,11 +74,13 @@ location:
 - cyr
 - hnt
 - smk
+size:
+- 1.0
 ---
 
 ## Where seen?
 This tiny slug is sometimes seen in numbers on
-[Tape seagrass](../../../plants/seagrass/enhalus.md)
+[Tape seagrass](../../../plants/seagrass/enhalus)
 on our Southern shores.
 
 ## Features

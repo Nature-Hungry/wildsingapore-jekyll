@@ -1,10 +1,9 @@
 ---
 title: Upsidedown brittle star
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: upsidedown, brittle, star, brittlestar, ophiothrix, ophiuroidea, 
-  echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, 
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: upsidedown, brittle, star, brittlestar, ophiothrix, ophiuroidea, echinoderm,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 attributes:
 - 0
@@ -28,39 +27,29 @@ suborder: Gnathophiurina
 superfamily: Ophiactoidea
 subgenus: Ophiothrix
 updated: Apr 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/050621skdg7887m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/050621skdg7887m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/050621skdg7887m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/050621skdg7887m3.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/050621skdg7887m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/050621skdg7887m3a.jpg
     caption: Upperside.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/050621skdg7883m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/050621skdg7883m3.jpg
     caption: Pulau Sekudu, Jun 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/050621skdg7883m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/050621skdg7883m3a.jpg
     caption: Underside.
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/201118pglvc3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/201118pglvc3.jpg
     caption: Punggol, Nov 20 Photo shared by Vincent Choo on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/200917prplks14.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/200917prplks14.jpg
     caption: Pasir Ris Park, Sep 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/151127cnylks1.JPG
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/151127cnylks1.JPG
     caption: Coney Island, Nov 15 Photo shared by Loh Kok Sheng on flickr .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/251012chgmn7.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/251012chgmn7.jpg
     caption: Changi, Oct 25 Photo shared by Marcus Ng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/250627bbal5.jpg
+  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/250627bbal5.jpg
     caption: Beting Bronok, Jun 25 Photo shared by Adriane Lee on facebook .
 location:
 - pgl
@@ -69,6 +58,9 @@ location:
 - cj
 - skd
 - bb
+size:
+- 1.0
+- 5.0
 ---
 
 ## Where seen?

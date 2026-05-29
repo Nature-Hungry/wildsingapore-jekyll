@@ -1,10 +1,9 @@
 ---
 title: Bearded mudskipper
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: bearded, mudskipper, mud, skipper, fish, scartelaos, histophorus, 
-  gobiidae, goby, field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: bearded, mudskipper, mud, skipper, fish, scartelaos, histophorus, gobiidae,
+  goby, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 9
@@ -27,69 +26,79 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Oxudercinae
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/091226cjd6307m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/091226cjd6307m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/091226cjd6307m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/091226cjd6307m3.jpg
     caption: Tall mast-like dorsal fin raised when creeping. Chek Jawa, Dec 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/090720prpd7577m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/090720prpd7577m6l.jpg
     caption: Pasir Ris Park, Jul 09
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/120414cjd9962m6l.jpg
-    caption: When leaping, second dorsal fin is raised, but tall first dorsal 
-      fin is not. Chek Jawa, Apr 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/091226cjd6326.jpg
-    caption: "'Stands' on its tail when it leaps.. Chek Jawa, Dec 09"
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/120414cjd9962m6l.jpg
+    caption: When leaping, second dorsal fin is raised, but tall first dorsal fin
+      is not. Chek Jawa, Apr 12
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/091226cjd6326.jpg
+    caption: '''Stands'' on its tail when it leaps.. Chek Jawa, Dec 09'
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/100110cjjk1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/100110cjjk1.jpg
     caption: Chek Jawa, Jan 10 Photo shared by James Koh on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/110327cjd7895m3.jpg
-    caption: A pair emerging from a narrow burrow that opens sideways into a 
-      pool. Chek Jawa, Mar 11
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/110327cjd7895m3.jpg
+    caption: A pair emerging from a narrow burrow that opens sideways into a pool.
+      Chek Jawa, Mar 11
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/081217prplks01m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/081217prplks01m3.jpg
     caption: Pasir Ris, Dec 08 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/090317prplks01m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/090317prplks01m3.jpg
     caption: Pasir Ris, Mar 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/251213prprqo3.jpg
-    caption: Pasir Ris Mangrove Boardwalk, Dec 25 Photo shared by Rui Quan Oh on
-      facebook .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/251213prprqo3.jpg
+    caption: Pasir Ris Mangrove Boardwalk, Dec 25 Photo shared by Rui Quan Oh on facebook
+      .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/100110cjjk2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/100110cjjk2.jpg
     caption: Chek Jawa, Jan 10 Photo shared by James Koh on flickr .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Scartelaos histophorus*](http://www.mudskipper.it/SpeciesPages/hist.html)
+
   from
+
   [The Mudskipper website](http://www.mudskipper.it/Intro.html)
+
   by Gianluca Polgar: Technical fact sheets with lots of photos.
+
   - [Walking goby (
+
   *Scartelaos histophoru*
+
   )](http://fishbase.mnhn.fr/Summary/SpeciesSummary.php?id=7487)
+
   from
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheet.
+
   - [Mudskippers a-leaping at Chek Jawa](http://wildshores.blogspot.com/2009/12/mudskippers-leaping-at-chek-jawa.html)
+
   on the wild shores of singapore blog.
 
+
   **References**
+
   - Larson, Helen K and Kelvin K. P. Lim. 2005.
+
   *A Guide to Gobies of Singapore*
+
   . Singapore Science Centre. 164pp.
+
+  '
 location:
 - prp
 - cj
+size:
+- 14.0
+- 7.0
+- 10.0
 ---
 
 ## Where seen?

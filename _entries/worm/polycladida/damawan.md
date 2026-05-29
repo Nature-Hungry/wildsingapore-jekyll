@@ -1,10 +1,9 @@
 ---
 title: Damawan flatworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: flat, worm, flatworm, pseudobiceros, damawan, polyclad, turbellaria, 
-  platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, 
-  intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: flat, worm, flatworm, pseudobiceros, damawan, polyclad, turbellaria, platyhelminthes,  field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 family: Pseudocerotidae
 genus: Pseudobiceros
@@ -18,48 +17,38 @@ subphylum: Rhabditophora
 order: Polycladida
 suborder: Cotylea
 updated: Feb 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/worm/polycladida/damawan/100103sislks1m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/damawan/100103sislks1m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/damawan/100103sislks1m3.jpg
-    caption: Sisters Island, Jan 10 Photo shared by Loh Kok Sheng on his flickr 
-      .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/damawan/100103sislks2m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/damawan/100103sislks1m3.jpg
+    caption: Sisters Island, Jan 10 Photo shared by Loh Kok Sheng on his flickr .
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/damawan/100103sislks2m3.jpg
     caption: Pseudotentacles squarish, ruffled on the sided.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/damawan/100103sislks2m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/damawan/100103sislks2m3a.jpg
     caption: Underside white with broad orange and thin black margin.
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/worm/polycladida/damawan/140201kushpy1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/damawan/140201kushpy1m3.jpg
     caption: Kusu Island, Feb 14 Photo shared by Heng Pei Yan on her blog .
-links_references: |
-  **Links**
-  - [*Pseudobiceros damawan*](http://polycladida.lifedesks.org/pages/3186)
-  on Encyclopedia of Life, LifeDesks, Marine Flatworms - Polycladida: Technical fact sheet.
-
-  **References**
-  - Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018.
-  *A preliminary checklist and photographic catalogue of polyclad flatworms recorded from Singapore.*
-  Nature in Singapore 2018 11: 77–125
-  - D. M. Bolaños, B. Q. Gan & R. S. L. Ong. 29 Jun 2016.
-  *First records of pseudocerotid flatworms (Platyhelminthes: Polycladida: Cotylea) from Singapore: A taxonomic report with remarks on colour variation*
-  .(pdf) The Raffles Bulletin of Zoology Supplement No. 34: 130-169 Pp. 130-169.
-  - Newman, L.J. & Cannon, L.R.G.
-  *Nine new species of Pseudobiceros (Platyhelminthes: Polycladida) from Indo-Pacific*
-  . Pp. 341-368. in the Raffles Bulletin of Zoology vol 45.
-  - Newman, Leslie and Lester Cannon. 2003.
-  *Marine Flatworms: The World of Polyclads*
-  . CSIRO Publishing. 97pp.
-  - Kuiter, Rudie H and Helmut Debelius. 2009.
-  *World Atlas of Marine Fauna*
-  . IKAN-Unterwasserachiv. 723pp.
+links_references: "**Links**\n- [*Pseudobiceros damawan*](http://polycladida.lifedesks.org/pages/3186)\n\
+  on Encyclopedia of Life, LifeDesks, Marine Flatworms - Polycladida: Technical fact\
+  \ sheet.\n\n**References**\n- Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018.\n\
+  *A preliminary checklist and photographic catalogue of polyclad flatworms recorded\
+  \ from Singapore.*\nNature in Singapore 2018 11: 77\u2013125\n- D. M. Bola\xF1os,\
+  \ B. Q. Gan & R. S. L. Ong. 29 Jun 2016.\n*First records of pseudocerotid flatworms\
+  \ (Platyhelminthes: Polycladida: Cotylea) from Singapore: A taxonomic report with\
+  \ remarks on colour variation*\n.(pdf) The Raffles Bulletin of Zoology Supplement\
+  \ No. 34: 130-169 Pp. 130-169.\n- Newman, L.J. & Cannon, L.R.G.\n*Nine new species\
+  \ of Pseudobiceros (Platyhelminthes: Polycladida) from Indo-Pacific*\n. Pp. 341-368.\
+  \ in the Raffles Bulletin of Zoology vol 45.\n- Newman, Leslie and Lester Cannon.\
+  \ 2003.\n*Marine Flatworms: The World of Polyclads*\n. CSIRO Publishing. 97pp.\n\
+  - Kuiter, Rudie H and Helmut Debelius. 2009.\n*World Atlas of Marine Fauna*\n. IKAN-Unterwasserachiv.\
+  \ 723pp.\n"
 location:
 - kus
 - sis
+size:
+- 8.0
+- 10.0
 ---
 
 ## Where seen?

@@ -1,9 +1,9 @@
 ---
 title: Tiger-tailed seahorse
 description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
-keywords: hairy, seahorse, horse, hippocampus, comes, syngnathidae, kuda, fish, 
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, 
-  facts, fact sheet, info, photo
+keywords: hairy, seahorse, horse, hippocampus, comes, syngnathidae, kuda, fish, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 attributes:
 - 9
@@ -26,159 +26,129 @@ order: Syngnathiformes
 suborder: Syngnathoidei
 subfamily: Syngnathinae
 updated: Oct 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/101221tmfts02254m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/101221tmfts02254m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/101221tmfts02254m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/101221tmfts02254m3.jpg
     caption: Tanah Merah, Dec 10
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/130512sisd6727m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/130512sisd6727m6l.jpg
     caption: Tail is banded black and yellow. Sisters Island, May 13
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/050625labg8740m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/050625labg8740m3.jpg
     caption: Labrador, Jun 05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/050625labg8740m3a.jpg
-    caption: Little white dots around the eyes and on the cheeks. Labrador, Jun 
-      05
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/130331tbd5104m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/050625labg8740m3a.jpg
+    caption: Little white dots around the eyes and on the cheeks. Labrador, Jun 05
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/130331tbd5104m3.jpg
     caption: Well camouflaged. Terumbu Bemban, Mar 13
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/120820sisd0689m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/120820sisd0689m3.jpg
     caption: Often seen in a pair. Sisters Island, Aug 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/150830hntd9645m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/150830hntd9645m3.jpg
     caption: Pregnant papa. Pulau Hantu, Aug 15
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/120312siss04823m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/120312siss04823m3.jpg
     caption: Very pregnant papa. Sisters Island, Mar 12
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/190802chgjll2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/190802chgjll2.jpg
     caption: Changi, Aug 19 Photo shared by Jianlin Liu on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/170724sjiay1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/170724sjiay1.jpg
     caption: St John's Island, Jul 17 Photo shared by Able Yeo on facebook .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/230424blylks1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/230424blylks1.jpg
     caption: Berlayar Creek, Apr 23 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/130911sismn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/130911sismn.jpg
     caption: Sisters Island, Sep 13 Photo shared by Marcus Ng on flickr .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/250714srptl7a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/250714srptl7a.jpg
     caption: Sentosa Serapong, Jul 25 Photo shared by Tammy Lim on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/250714srptl7b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/250714srptl7b.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/250714srpttt3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/250714srpttt3.jpg
     caption: Sentosa Serapong, Jul 25 Photo shared by Tommy Tan on facebook .
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/130911sismn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/130911sismn.jpg
     caption: Sisters Island, Sep 13 Photo shared by Marcus Ng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/160610jngmn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/160610jngmn.jpg
     caption: Pulau Jong, Jun 16 Photo shared by Marcus Ng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/110122hntro1m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/110122hntro1m3.jpg
     caption: Pulau Hantu, Jan 11 Photo shared by Rene Ong on facebook .
   gallery8:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/080322smktch02m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/080322smktch02m3.jpg
     caption: Pulau Semakau, Mar 08 Photo shared by Toh Chay Hoon on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/090208smklksp16m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/090208smklksp16m3.jpg
     caption: Pulau Semakau, Feb 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/180717smkejh.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/180717smkejh.jpg
     caption: Pulau Semakau East, Jul 18 Photo shared by Jose Hong on facebook .
   gallery9:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/100617tsmjk7m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/100617tsmjk7m3.jpg
     caption: Terumbu Semakau, Jun 10 Photo shared by James Koh on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/100617tsmklks8m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/100617tsmklks8m3.jpg
     caption: Terumbu Semakau, Jun 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/130525tsmklks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/130525tsmklks.JPG
     caption: Terumbu Semakau, May 13 Photo shared by Loh Kok Sheng on flickr .
   gallery10:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/210402tmskmn2.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/210402tmskmn2.jpg
     caption: Terumbu Semakau, Apr 21 Photo shared by Marcus Ng on facebook .
   gallery11:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/190522tsmky1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/190522tsmky1.jpg
     caption: Terumbu Semakau, May 19 Photo shared by Kelvin Yong on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/180520tsmk2rk.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/180520tsmk2rk.jpg
     caption: Terumbu Semakau, May 18 Photo shared by Richard Kuah on facebook .
   gallery12:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/110522bbbrl2m3.jpg
-    caption: Beting Bemban Besar, May 11 Photo shared by Russel Low on facebook 
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/110522bbbrl2m3.jpg
+    caption: Beting Bemban Besar, May 11 Photo shared by Russel Low on facebook .
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/220521bbbccn1.jpg
+    caption: Beting Bemban Besar, May 22 Photo shared by Che Cheng Neo w on facebook
       .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/220521bbbccn1.jpg
-    caption: Beting Bemban Besar, May 22 Photo shared by Che Cheng Neo w on 
-      facebook .
   gallery13:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/220420tbmn1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/220420tbmn1.jpg
     caption: Terumbu Bemban, Apr 22 Photo shared by Marcus Ng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/210501tbjk1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/210501tbjk1.jpg
     caption: Terumbu Bemban, May 21 Photo shared by James Koh on flickr .
   gallery14:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/150606trytch4m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/150606trytch4m3.jpg
     caption: Terumbu Raya, Jun 15 Photo shared by Toh Chay Hoon on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/150606trytch5m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/150606trytch5m3.jpg
     caption: Terumbu Raya, Jun 15 Photo shared by Toh Chay Hoon on facebook .
   gallery15:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/120409tptnml1m3.jpg
-    caption: Terumbu Pempang Tengah, Apr 12 Photo shared by Neo Mei Lin on her 
-      blog.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/111130trymn.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/120409tptnml1m3.jpg
+    caption: Terumbu Pempang Tengah, Apr 12 Photo shared by Neo Mei Lin on her blog.
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/111130trymn.jpg
     caption: Terumbu Raya, Nov 11 Photo shared by Marcus Ng on flickr .
   gallery16:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/120609tsmkmn2m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/120609tsmkmn2m3.jpg
     caption: Terumbu Semakau, Jun 12 Photo shared by Marcus Ng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/100617tbtch8m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/100617tbtch8m6l.jpg
     caption: Terumbu Bemban, Jun 10 Photo shared by Toh Chay Hoom on her blog .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/120511tpljk4m3.jpg
-    caption: Terumbu Pempang Laut, May 12 Photo shared by James Koh on his blog 
-      .
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/120511tpljk4m3.jpg
+    caption: Terumbu Pempang Laut, May 12 Photo shared by James Koh on his blog .
+links_references: '**Links**
+
   - [Tiger tail seahorse (
+
   *Hippocampus comes*
+
   )](http://www.fishbase.org/summary/53792)
+
   from
+
   [FishBase](http://www.fishbase.org/)
+
   : Technical fact sheet.
+
   - [*Hippocampus comes*](https://singapore.biodiversity.online/taxo4254/mainSpace/Hippocampus%20comes.html)
+
   (Gasterosteiformes: Syngnathidae) Tiger-tailed seahorse by Lim Xinjie, 2011 on taxo4254.
 
+
   **References**
+
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
+
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
+
   . Nature Society (Singapore). 285 pp.
+
+  '
 location:
 - chg
 - tm
@@ -192,6 +162,9 @@ location:
 - smk
 - tsm
 - rfl
+size:
+- 6.0
+- 10.0
 ---
 
 ## Where seen?
@@ -202,11 +175,11 @@ This large seahorse with a black-and-yellow banded tail is often seen on our Sou
 6-10cm long. Body without large, obvious spines. Colours seen include black, brown or yellowish with speckles. The tail is banded black and yellow. There are little white dots around the eye and on the cheeks.
 
 It's difficult to tell this seahorse apart from the
-[Estuarine seahorse](kuda.md)
+[Estuarine seahorse](kuda)
 (
 *Hippocampus kuda*
 ). More on
-[how to tell apart the Tiger-tail and Estuarine seahorses](cfcomeskuda.md)
+[how to tell apart the Tiger-tail and Estuarine seahorses](cfcomeskuda)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

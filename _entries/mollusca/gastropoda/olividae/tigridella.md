@@ -1,10 +1,9 @@
 ---
 title: Tigerish olive snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: olive, snail, shell, oliva, tigridella, olividae, gastropod, mollusc, 
-  sand, collar, field, guide, seashore, sea, shore, marine, coastal, intertidal,
-  singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: olive, snail, shell, oliva, tigridella, olividae, gastropod, mollusc, sand,
+  collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Olividae
 genus: ''
@@ -19,54 +18,54 @@ subclass: Caenogastropoda
 order: Neogastropoda
 superfamily: Olivoidea
 updated: Sep 2020
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/130401chgd5120m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/130401chgd5120m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/130401chgd5120m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/130401chgd5120m3.jpg
     caption: Changi, Apr 13
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/130401chgd5121m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/130401chgd5121m3b.jpg
     caption: . Tall conical spire.
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/130401chgd5121m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/130401chgd5121m3.jpg
     caption: Shell opening purplish brown
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/130401chgd5130m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/130401chgd5130m3.jpg
     caption: Changi, Apr 13
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/090622chgd4780m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/090622chgd4780m3.jpg
     caption: Changi, Jun 09
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/090623ecpd4967m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/090623ecpd4967m3b.jpg
     caption: East Coast Park, Jun 09
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/251206chgetm1.jpg
-    caption: Changi East (Lost Coast), Dec 25 Photo shared by Tammy Lim on 
-      facebook ..
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/251206chgetm1a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/251206chgetm1.jpg
+    caption: Changi East (Lost Coast), Dec 25 Photo shared by Tammy Lim on facebook
+      ..
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/251206chgetm1a.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/251206chgetm1b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/251206chgetm1b.jpg
     caption: ''
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [*Oliva tigridella*](http://www.sealifebase.org/summary/SpeciesSummary.php?id=87039)
+
   on SeaLife Base: Technical fact sheet and photo.
 
+
   **References**
+
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
   *Preliminary Checklist of The Molluscs of Singapore*
+
   (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
+  '
 location:
 - chg
 - tm
 - ecp
 - cyr
+size:
+- 2.0
+- 3.5
 ---
 
 ## Where seen?

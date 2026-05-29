@@ -1,10 +1,8 @@
 ---
 title: Rafting crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: plagusia. squamosa, plagusiidae, decapod, crustacea, field, guide, 
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact 
-  sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: plagusia. squamosa, plagusiidae, decapod, crustacea, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 38
@@ -30,87 +28,89 @@ zoosection: Eubrachyura
 zoosubsection: Thoracotremata
 superfamily: Grapsoidea
 updated: Dec 2019
-coverimg: 
-  http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/120703chgd6472m3.jpg
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/120703chgd6472m3.jpg
 galleries:
   gallery1:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/120703chgd6472m3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/120703chgd6472m3.jpg
     caption: Changi, Jul 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/120703chgd6472m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/120703chgd6472m3b.jpg
     caption: ''
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/120703chgd6472m3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/120703chgd6472m3a.jpg
     caption: ''
   gallery2:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/120802chgd9239m6l.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/120802chgd9239m6l.jpg
     caption: Changi, Aug 12
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/120802chgd9239m3b.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/120802chgd9239m3b.jpg
     caption: Depression between the eyes.
   gallery3:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/200722lyglks3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/200722lyglks3.jpg
     caption: Changi-Loyang, Jul 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/251109chgsaflks6.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/251109chgsaflks6.jpg
     caption: Changi Creek, Nov 25 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/130721cjlks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/130721cjlks.JPG
     caption: Chek Jawa, Jul 13 Photo shared by Loh Kok Sheng on flickr .
   gallery5:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/140714ecplks.JPG
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/140714ecplks.JPG
     caption: East Coast Park, Jul 14 Photo shared by Loh Kok Sheng on flickr .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/210529ecpblks6.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/210529ecpblks6.jpg
     caption: East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook .
   gallery6:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/170820kusmn1.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/170820kusmn1.jpg
     caption: Kusu Island, Aug 17 Photo shared by Marcus Ng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/160508kusjt11.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/160508kusjt11.jpg
     caption: Kusu Island, May 16 Photo shared by Jonathan Tan on facebook .
   gallery7:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/250810bsismn3a.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/250810bsismn3a.jpg
     caption: Big Sisters, Aug 25 Photo shared by Marcus Ng on facebook .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/250810bsismn3.jpg
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/250810bsismn3.jpg
     caption: ''
   gallery8:
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/080802rlhlks.JPG
-    caption: Raffles Lighthouse, Aug 08 Photo shared by Loh Kok Sheng on flickr 
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/080802rlhlks.JPG
+    caption: Raffles Lighthouse, Aug 08 Photo shared by Loh Kok Sheng on flickr .
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/161117rlhlks3.jpg
+    caption: Raffles Lighthouse, Nov 16 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: 
-      http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/161117rlhlks3.jpg
-    caption: Raffles Lighthouse, Nov 16 Photo shared by Loh Kok Sheng on 
-      facebook .
-links_references: |
-  **Links**
+links_references: '**Links**
+
   - [Tuberculated Sally-light-foot (
+
   *Plagusia squamosa*
+
   )](http://142.103.81.136/summary/SpeciesSummary.php?genusname=Plagusia&speciesname=squamosa)
+
   on
+
   [SeaLifeBase](http://www.sealifebase.org/search.php)
+
   : Technical fact sheet.
+
   - [Depressed red rock crab (
+
   *Plagusia tuberculata*
+
   )](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1752)
+
   in Crabs of Japan on Marine Species Identification Portal: Technical fact sheet.
 
+
   **References**
+
   - Christoph D. Schubart and Peter K. L. Ng,
-  *"On the identities of the Rafting crabs Cancer depressus Fabricius, 1775, Cancer squamosus Herbst., 1790, Plagusia immaculata Lamarck, 1818, and Plagusia tuberculata Lamarck, 1818 (Crustacea: Decapoda: Brachyura: Plagusiidae)"*
+
+  *"On the identities of the Rafting crabs Cancer depressus Fabricius, 1775, Cancer
+  squamosus Herbst., 1790, Plagusia immaculata Lamarck, 1818, and Plagusia tuberculata
+  Lamarck, 1818 (Crustacea: Decapoda: Brachyura: Plagusiidae)"*
+
   on The Raffles Bulletin of Zoology 2000 48(2): 327-336.
+
   - Jones Diana S. and Gary J. Morgan, 2002.
+
   *A Field Guide to Crustaceans of Australian Waters*
+
   . Reed New Holland. 224 pp.
+
+  '
 location:
 - chg
 - cj
@@ -120,15 +120,18 @@ location:
 - sji
 - sis
 - rfl
+size:
+- 5.0
+- 6.0
 ---
 
 ## Where seen?
 This bumpy crab that resembles the
-[Sally-light-foot crab](../grapsidae/albolineatus.md)
+[Sally-light-foot crab](../grapsidae/albolineatus)
 (
 *Grapsus albolineatus*
 ) is sometimes seen on rocky shores in the North and South. Previously placed in
-[Family Grapsidae](../grapsidae/grapsidae.md)
+[Family Grapsidae](../grapsidae/grapsidae)
 .
 
 ## Features
@@ -137,7 +140,7 @@ Body width 5-6cm. Body oval (not so circular), convex (not flat), covered with s
 
 **Sometimes mistaken for**
 the
-[Sally-light-foot crab](../grapsidae/albolineatus.md)
+[Sally-light-foot crab](../grapsidae/albolineatus)
 (
 *Grapsus albolineatus*
 ) which has a more circular flatter smoother body.

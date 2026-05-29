@@ -20,53 +20,74 @@ updated: Nov 2019
 coverimg: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/050527srbg6987m3.jpg
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: if you learn only 3 things about them ... They are NOT crabs. They are more closely related to spiders than crabs. They don't use their tail to sting people. Don't dangle them by their tail. They will be helpless if the tail is broken. They provided a substance used to test human medications. Singapore scientists made breakthroughs in cloning this substance.
-    - url: "http://www.wildsingapore.com/photos/bullet.gif"
-      caption: They are NOT crabs. They are more closely related to spiders than crabs. They don't use their tail to sting people. Don't dangle them by their tail. They will be helpless if the tail is broken. They provided a substance used to test human medications. Singapore scientists made breakthroughs in cloning this substance.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: if you learn only 3 things about them ... They are NOT crabs. They are
+      more closely related to spiders than crabs. They don't use their tail to sting
+      people. Don't dangle them by their tail. They will be helpless if the tail is
+      broken. They provided a substance used to test human medications. Singapore
+      scientists made breakthroughs in cloning this substance.
+  - url: http://www.wildsingapore.com/photos/bullet.gif
+    caption: They are NOT crabs. They are more closely related to spiders than crabs.
+      They don't use their tail to sting people. Don't dangle them by their tail.
+      They will be helpless if the tail is broken. They provided a substance used
+      to test human medications. Singapore scientists made breakthroughs in cloning
+      this substance.
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/050527srbg6987m3.jpg"
-      caption: "Often seen in a pair, the smaller male on top and behind the larger female. Pulau Sarimbun, May 05"
-    - url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/070803cjg1768m3.jpg"
-      caption: "Using its tail to flip over to the right side. Note the white slipper snails stuck on the underside. Chek Jawa, Aug 07"
-    - url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/071002chgd6891m3.jpg"
-      caption: "Often entangled in abandoned drift nets. Changi, Oct 07"
+  - url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/050527srbg6987m3.jpg
+    caption: Often seen in a pair, the smaller male on top and behind the larger female.
+      Pulau Sarimbun, May 05
+  - url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/070803cjg1768m3.jpg
+    caption: Using its tail to flip over to the right side. Note the white slipper
+      snails stuck on the underside. Chek Jawa, Aug 07
+  - url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/071002chgd6891m3.jpg
+    caption: Often entangled in abandoned drift nets. Changi, Oct 07
   gallery3:
-    - url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/110320cjs07483m3.jpg"
-      caption: "Males have modified front legs to hold on to the female. Chek Jawa, Mar 11"
-    - url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/110320cjs07484m3.jpg"
-      caption: "Females don't have modified front legs. Chek Jawa, Mar 11"
-    - url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/060627krjd3660m3.jpg"
-      caption: "Juvenile horseshoe crab. Kranji, Jun 08 Horseshoe crab eggs seen in sand. Mandai, Apr 11"
+  - url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/110320cjs07483m3.jpg
+    caption: Males have modified front legs to hold on to the female. Chek Jawa, Mar
+      11
+  - url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/110320cjs07484m3.jpg
+    caption: Females don't have modified front legs. Chek Jawa, Mar 11
+  - url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/060627krjd3660m3.jpg
+    caption: Juvenile horseshoe crab. Kranji, Jun 08 Horseshoe crab eggs seen in sand.
+      Mandai, Apr 11
   gallery4:
-    - url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/050726chgg0358m3.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/090428chgd0767m3e.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/050726chgg0358m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/090428chgd0767m3b.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/050726chgg0361m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/071002chgd6898m3b.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/050726chgg0358m3b.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/090428chgd0767m3a.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/050726chgg0358m3d.jpg"
-      caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/090428chgd0767m3d.jpg"
-      caption: ""
-links_references: |
-  **Links**
+  - url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/050726chgg0358m3.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/090428chgd0767m3e.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/050726chgg0358m3a.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/090428chgd0767m3b.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/050726chgg0361m3a.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/071002chgd6898m3b.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/050726chgg0358m3b.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/090428chgd0767m3a.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/050726chgg0358m3d.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/090428chgd0767m3d.jpg
+    caption: ''
+links_references: '**Links**
+
   **About horseshoe crabs in general**
-  
+
+
   **References**
+
   - Ng, P. K. L. & Y. C. Wee, 1994.
+
   *The Singapore Red Data Book: Threatened Plants and Animals of Singapore*
+
   . The Nature Society (Singapore), Singapore. 343 pp.
+
+  '
+size:
+- 15.0
+- 25.0
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
@@ -76,17 +97,17 @@ Horseshoe crabs are sometimes encountered on our shores, more often on our north
 
 **What is a horseshoe crab?**
 The horseshoe crab is a strange, ancient creature that has been around since before the dinosaurs. It is not a crab or even a
-[crustacean](../../crustacea/crustacea.md)
+[crustacean](../../crustacea/crustacea)
 . It is more closely related to spiders and scorpions of the Class Arachnida.
 
 There are only four species of living horseshoes crabs in the world.
 *Limulus polyphemus*
 is found on the Atlantic coast. In Southeast Asia there are three: the
-[Mangrove horseshoe crab](carcinoscorpius.md)
+[Mangrove horseshoe crab](carcinoscorpius)
 (
 *Carcinoscorpius rotundicauda*
 ) which is also the smallest horseshoe, and the
-[Coastal horseshoe crab](tachypleus.md)
+[Coastal horseshoe crab](tachypleus)
 (
 *Tachypleus gigas*
 ) and in Japan, China and southern Sabah are found the Chinese horseshoe (
@@ -97,11 +118,11 @@ is found on the Atlantic coast. In Southeast Asia there are three: the
 Adult body 15-25cm in diameter. Its shape is ideal for bulldozing through the mud and sand, and clinging to the bottom in rough water. It probably got its common name because its shell resembles a horse's hoof.
 
 A horseshoe has an exoskeleton, but unlike a crab's, this does not incorporate calcium and is made of chitin and protein instead. The shell is hard in adults, but more flexible in juveniles. Like other arthropods, a horseshoe crab must moult to grow bigger. During their first year, they may moult 5-6 times, growing 20-25% with each moult. It takes about 7 years to reach maximum size. Sometimes, you might come across what appears to be dead horseshoe crabs on the shore. These might just be moults. Moults are lightweight, have transparent eyes and no bad smell.
-[More about moulting](../../crustacea/moulting.md)
+[More about moulting](../../crustacea/moulting)
 .
 
 **Sometimes confused with**
-[stingrays](../../vertebrates/fish/dasyatidae/dasyatidae.md)
+[stingrays](../../vertebrates/fish/dasyatidae/dasyatidae)
 . In murky waters, these two different animals do have a similar profile, both being round and flat with a long tail. Stingrays are fishes that are related to sharks.
 
 **What does it eat?**
@@ -129,18 +150,18 @@ Horseshoes mate during high spring tides when they can reach the highest part of
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Role in the habitat:**
 Like other scavengers, horseshoe crabs help keep the place clear of dead animals. Although the adults have few natural predators (apparently, only sharks and turtles will eat adults), their eggs and hatchlings are eaten by many creatures. Various creatures may settle on a horseshoe crab including
-[slipper snails](../../mollusca/gastropoda/calyptraeidae/calyptraeidae.md)
+[slipper snails](../../mollusca/gastropoda/calyptraeidae/calyptraeidae)
 ,
-[barnacles](../../crustacea/othercrust/ciriipedia/cirripedia.md)
+[barnacles](../../crustacea/othercrust/ciriipedia/cirripedia)
 ,
-[keelworms](../../worm/polychaeta/serpulidae.md)
+[keelworms](../../worm/polychaeta/serpulidae)
 and other encrusting plants and animals.
 
 **Why are there so many 'dead' horseshoe crabs?**
 You might come across what appears to be dead horseshoe crabs strewn on the shore. These are often not dead horseshoe crabs but merely their discarded skins! Like other
-[arthropods](../arthropoda/arthropoda.md)
+[arthropods](../arthropoda/arthropoda)
 , they a hard exoskeleton (external skeleton) and need to shed their exoskeleton in order to grow bigger. Called moulting, this also allows the animal to regenerate lost limbs. More about
-[moulting](moulting.md)
+[moulting](moulting)
 .
 
 **Human uses:**
@@ -152,11 +173,11 @@ Horseshoe crabs have also contributed in other ways to human health. Much of the
 
 **Status and threats:**
 The
-[Coastal horseshoe crab](tachypleus.md)
+[Coastal horseshoe crab](tachypleus)
 (
 *Tachypleus gigas*
 ) is listed as 'Endangered' and the
-[Mangrove horseshoe crab](carcinoscorpius.md)
+[Mangrove horseshoe crab](carcinoscorpius)
 (
 *Carcinoscorpius rotundicauda*
 ) as 'Vulnerable' on the Red List of threatened animals of Singapore. Populations of these ancient creatures in Singapore have been severely reduced over the last two decades due to habitat loss.
@@ -186,21 +207,21 @@ from Ng, P. K. L. & Y. C. Wee, 1994.
 
 **Family Limulidae**
 
-*[Carcinoscopius rotundicauda](carcinoscorpius.md)*
+*[Carcinoscopius rotundicauda](carcinoscorpius)*
 (Mangrove horseshoe crab) (VU: Vulnerable)
-*[Tachypleus gigas](tachypleus.md)*
+*[Tachypleus gigas](tachypleus)*
 (Coastal horseshoe crab) (EN: Endangered)
 
 ---
 
 
-- [Tai Ho Wan: breeding and nursery ground of horseshoe crabs](http://www.hku.hk/ecology/porcupine/por20/arthropods.md)
+- [Tai Ho Wan: breeding and nursery ground of horseshoe crabs](http://www.hku.hk/ecology/porcupine/por20/arthropods)
 by Terence Ching-wai Fong on the University of Hong Kong website: a study of breeding of
 *Tachypleus*
 and
 *Carcinoscorpius*
 .
-- [Nursery beaches for Horseshoe crabs in Hong Kong](http://www.hku.hk/ecology/porcupine/por18/crabs.md)
+- [Nursery beaches for Horseshoe crabs in Hong Kong](http://www.hku.hk/ecology/porcupine/por18/crabs)
 by Huang Qin, Helen Chiu and Brian Morton on the Porcupine Homepage of the Department of Ecology & Biodiversity, The University of Hong Kong website: examines some of the possible causes of the decline in horseshoe crabs in Hong Kong.
 - [Oldest Horseshoe Crab Fossil Discovered](http://wildsingaporenews.blogspot.com/2008/01/oldest-horseshoe-crab-fossil-discovered.html)
 Jeanna Bryner, LiveScience Yahoo News 28 Jan 08;
@@ -229,11 +250,11 @@ and
 around the main island of Singapore](http://www.int-res.com/articles/ab_oa/b013p127.pdf)
 Lesley Cartwright-Taylor, Yap Von Bing, Hsu Chia Chi, Lou Sieu Tee, Aquatic Biology Vol. 13: 127-136, 2011 doi: 10.3354/ab00346
 - [Mangrove horseshoe crab
-*Carcinoscorpius rotundicauda*](http://mangrove.nus.edu.sg/guidebooks/text/2076.md)
+*Carcinoscorpius rotundicauda*](http://mangrove.nus.edu.sg/guidebooks/text/2076)
 Ng, Peter K. L. & N. Sivasothi, 1999.
 *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*
 . Singapore Science Centre. 168 pp.
-- [Horseshoe Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/175.md)
+- [Horseshoe Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/175)
 Tan, Leo W. H. & Ng, Peter K. L., 1988.
 *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*
 . The Singapore Science Centre, Singapore. 160 pp.
