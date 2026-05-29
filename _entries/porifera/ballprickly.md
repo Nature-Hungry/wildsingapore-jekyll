@@ -6,7 +6,7 @@ shape: ball
 title: Rambutan sponge
 family: Tethyidae
 genus: Tethya
-species: robusta*
+species: robusta
 attributes: []
 inat_id: 707284
 stateofmatter: Life
@@ -75,6 +75,7 @@ location:
 size:
 - 2.0
 - 5.0
+rdb: ike
 ---
 
 ******

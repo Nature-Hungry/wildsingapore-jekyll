@@ -84,6 +84,7 @@ location:
 - rfl
 size:
 - 1.0
+rdb: VU
 ---
 
 ## Where seen?

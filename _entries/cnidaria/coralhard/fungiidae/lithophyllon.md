@@ -7,7 +7,7 @@ keywords: bracket, mushroom, lithophyllon, undulatum, fungidae, coral, hard, scl
 layout: entry
 family: Fungiidae
 genus: Lithophyllon
-species: undulatum*
+species: undulatum
 attributes: []
 inat_id: 104752
 stateofmatter: Life
@@ -121,6 +121,7 @@ location:
 - tsm
 size:
 - 20.0
+rdb: LC
 ---
 
 ## Where seen?

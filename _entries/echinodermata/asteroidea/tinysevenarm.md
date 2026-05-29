@@ -94,6 +94,7 @@ location:
 - smk
 size:
 - 2.0
+rdb: NE
 ---
 
 ## Where seen?

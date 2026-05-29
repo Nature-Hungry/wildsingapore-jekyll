@@ -17,6 +17,7 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Jun 2025
+rdb: VU
 coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3.jpg
 galleries:
   gallery1:

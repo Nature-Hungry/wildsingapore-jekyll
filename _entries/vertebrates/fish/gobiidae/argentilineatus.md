@@ -14,7 +14,7 @@ attributes:
 - 72
 family: Gobiidae
 genus: Periophthalmus
-species: argentilineatus*
+species: argentilineatus
 inat_id: 68720
 stateofmatter: Life
 kingdom: Animalia
@@ -100,6 +100,7 @@ size:
 - 4.0
 - 6.0
 - 9.0
+rdb: VU
 ---
 
 ## Where seen?

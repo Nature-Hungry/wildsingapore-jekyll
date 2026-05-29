@@ -211,6 +211,7 @@ location:
 - smk
 - tsm
 - rfl
+rdb: NT
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

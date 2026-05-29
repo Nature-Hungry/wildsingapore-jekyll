@@ -14,7 +14,7 @@ attributes:
 - 72
 family: Gobiidae
 genus: Periophthalmus
-species: walailakae*
+species: walailakae
 inat_id: 356421
 stateofmatter: Life
 kingdom: Animalia
@@ -74,6 +74,7 @@ size:
 - 13.0
 - 8.0
 - 10.0
+rdb: VU
 ---
 
 ## Where seen?

@@ -136,6 +136,7 @@ location:
 size:
 - 15.0
 - 20.0
+rdb: LC
 ---
 
 ## Where seen?

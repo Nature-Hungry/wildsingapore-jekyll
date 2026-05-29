@@ -5,6 +5,9 @@
 .gap-1{
     gap:1rem;
 }
+.gap-2{
+    gap:2rem;
+}
 
 .justify-between{
     justify-content: space-between;
@@ -20,6 +23,9 @@
     height:30px;
     aspect-ratio: 1;
     margin-bottom: 0.5rem;
+    display:flex;
+    justify-content:center;
+    align-items:center;
 }
 .CR{
     background-color: #D81E05;

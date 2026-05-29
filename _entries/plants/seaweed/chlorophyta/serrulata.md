@@ -8,7 +8,7 @@ layout: entry
 division: Chlorophyta
 family: Caulerpaceae
 genus: Caulerpa
-species: serrulata*
+species: serrulata
 attributes:
 - 46
 - 97
@@ -150,6 +150,7 @@ location:
 size:
 - 4.0
 - 6.0
+rdb: NE
 ---
 
 ## Where seen?

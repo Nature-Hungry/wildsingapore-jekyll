@@ -6,7 +6,7 @@ shape: leafy
 title: Silvery blue  sponge
 family: Dysideidae
 genus: Lamellodysidea
-species: herbacea*
+species: herbacea
 attributes: []
 inat_id: 565912
 stateofmatter: Life
@@ -100,6 +100,7 @@ location:
 size:
 - 10.0
 - 15.0
+rdb: Lc
 ---
 
 ## Where seen?

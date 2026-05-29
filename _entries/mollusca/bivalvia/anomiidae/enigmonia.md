@@ -90,6 +90,7 @@ location:
 - lck
 size:
 - 3.0
+rdb: NT
 ---
 
 ## Where seen?

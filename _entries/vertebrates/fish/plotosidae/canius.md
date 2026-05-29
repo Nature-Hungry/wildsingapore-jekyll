@@ -136,6 +136,7 @@ location:
 - cyr
 - tpg
 - tsm
+rdb: LC
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

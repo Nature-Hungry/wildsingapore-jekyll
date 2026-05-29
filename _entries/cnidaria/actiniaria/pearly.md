@@ -11,7 +11,7 @@ attributes:
 - 88
 family: Actiniidae
 genus: Paracondylactis
-species: sinensis*
+species: sinensis
 inat_id: 780961
 stateofmatter: Life
 kingdom: Animalia
@@ -91,6 +91,7 @@ location:
 size:
 - 5.0
 - 8.0
+rdb: DD
 ---
 
 ## Where seen?

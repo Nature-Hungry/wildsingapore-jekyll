@@ -106,6 +106,7 @@ links_references: '**Links**
   '
 size:
 - 800.0
+rdb: CR
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?

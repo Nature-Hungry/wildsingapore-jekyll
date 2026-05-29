@@ -6,7 +6,7 @@ shape: ''
 title: Yellow pot sponge
 family: Ancorinidae
 genus: Rhabdastrella
-species: globostellata*
+species: globostellata
 attributes: []
 inat_id: 751628
 stateofmatter: Life
@@ -89,6 +89,7 @@ location:
 size:
 - 12.0
 - 15.0
+rdb: Lc
 ---
 
 ## Where seen?

@@ -7,7 +7,7 @@ keywords: obelisk, vertagus, creeper, cerith, snail, shell, rhinoclavis, sinensi
 layout: entry
 family: Cerithiidae
 genus: Rhinoclavis
-species: sinensis*
+species: sinensis
 attributes: []
 inat_id: 346074
 stateofmatter: Life
@@ -106,6 +106,7 @@ location:
 size:
 - 3.0
 - 7.0
+rdb: LC
 ---
 
 ## Where seen?

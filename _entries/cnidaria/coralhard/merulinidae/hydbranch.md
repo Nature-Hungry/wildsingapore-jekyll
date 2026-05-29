@@ -7,7 +7,7 @@ keywords: horn, hydnophora, rigida, merulinidae, coral, hard, scleractinia, cnid
 layout: entry
 family: Merulinidae
 genus: Hydnophora
-species: rigida*
+species: rigida
 attributes: []
 inat_id: 102994
 stateofmatter: Life
@@ -120,6 +120,7 @@ location:
 size:
 - 15.0
 - 20.0
+rdb: NT
 ---
 
 ## Where seen?

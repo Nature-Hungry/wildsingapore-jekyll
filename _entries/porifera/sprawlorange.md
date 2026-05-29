@@ -6,7 +6,7 @@ shape: branching
 title: Orange sprawling sponge
 family: Microcionidae
 genus: Clathria
-species: reinwardti*
+species: reinwardti
 attributes: []
 inat_id: 1432650
 stateofmatter: Life
@@ -80,6 +80,7 @@ location:
 size:
 - 20.0
 - 30.0
+rdb: (ie;
 ---
 
 ## Where seen?

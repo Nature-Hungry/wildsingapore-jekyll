@@ -119,6 +119,7 @@ location:
 size:
 - 20.0
 - 29.0
+rdb: DD
 ---
 
 ## Where seen?

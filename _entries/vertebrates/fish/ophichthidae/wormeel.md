@@ -162,6 +162,7 @@ size:
 - 20.0
 - 10.0
 - 12.0
+rdb: DD
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

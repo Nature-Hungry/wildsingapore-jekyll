@@ -8,7 +8,7 @@ layout: entry
 division: Chlorophyta
 family: Caulerpaceae
 genus: Caulerpa
-species: cupressoides*
+species: cupressoides
 attributes:
 - 46
 - 97
@@ -100,6 +100,7 @@ location:
 size:
 - 4.0
 - 6.0
+rdb: NE
 ---
 
 ## Where seen?

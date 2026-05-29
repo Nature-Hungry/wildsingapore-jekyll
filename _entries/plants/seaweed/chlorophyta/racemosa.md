@@ -8,7 +8,7 @@ layout: entry
 division: Chlorophyta
 family: Caulerpaceae
 genus: Caulerpa
-species: racemosa*
+species: racemosa
 attributes:
 - 97
 - 115
@@ -143,6 +143,7 @@ location:
 - tsm
 - rfl
 - lfa
+rdb: NE
 ---
 
 ## Where seen?

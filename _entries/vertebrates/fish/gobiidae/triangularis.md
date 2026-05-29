@@ -12,7 +12,7 @@ attributes:
 - 108
 family: Gobiidae
 genus: Drombus
-species: triangularis*
+species: triangularis
 inat_id: 529998
 stateofmatter: Life
 kingdom: Animalia
@@ -111,6 +111,7 @@ size:
 - 5.0
 - 3.0
 - 5.0
+rdb: LC
 ---
 
 ## Where seen?

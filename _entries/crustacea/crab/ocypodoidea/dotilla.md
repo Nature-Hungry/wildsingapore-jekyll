@@ -167,6 +167,7 @@ location:
 - lfa
 size:
 - 1.5
+rdb: Lc
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

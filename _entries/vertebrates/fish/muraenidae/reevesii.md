@@ -77,6 +77,7 @@ location:
 - tm
 size:
 - 60.0
+rdb: DD
 ---
 
 ## Where seen?

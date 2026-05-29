@@ -8,7 +8,7 @@ layout: entry
 division: Phaeophyta
 family: Dictyotaceae
 genus: Lobophora
-species: variegata*
+species: variegata
 attributes:
 - 41
 - 97
@@ -91,6 +91,7 @@ location:
 size:
 - 2.0
 - 4.0
+rdb: DD
 ---
 
 ## Where seen?

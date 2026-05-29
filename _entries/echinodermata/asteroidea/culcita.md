@@ -178,6 +178,7 @@ location:
 size:
 - 12.0
 - 20.0
+rdb: NE
 ---
 
 ## Where seen?

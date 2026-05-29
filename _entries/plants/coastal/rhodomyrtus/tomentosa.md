@@ -67,6 +67,7 @@ galleries:
       Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.'
 size:
 - 300.0
+rdb: VU
 ---
 
 ## Where seen?

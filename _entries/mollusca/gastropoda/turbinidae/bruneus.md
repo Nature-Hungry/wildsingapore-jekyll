@@ -7,7 +7,7 @@ keywords: dwarf, turban, turbo, bruneus, turbinidae, gastropod, mollusc, snail, 
 layout: entry
 family: Turbinidae
 genus: Turbo
-species: bruneus*
+species: bruneus
 attributes: []
 inat_id: 541826
 stateofmatter: Life
@@ -79,6 +79,7 @@ location:
 size:
 - 3.0
 - 5.0
+rdb: LC
 ---
 
 ## Where seen?

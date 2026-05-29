@@ -13,7 +13,7 @@ attributes:
 - 81
 family: Platycephalidae
 genus: Cymbacephalus
-species: nematophthalmus*
+species: nematophthalmus
 inat_id: 369141
 stateofmatter: Life
 kingdom: Animalia
@@ -152,6 +152,7 @@ size:
 - 6.0
 - 20.0
 - 58.0
+rdb: VU
 ---
 
 ## Where seen?

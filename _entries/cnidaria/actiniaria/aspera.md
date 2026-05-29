@@ -76,6 +76,7 @@ location:
 - cyr
 size:
 - 20.0
+rdb: DD
 ---
 
 ## Where seen?

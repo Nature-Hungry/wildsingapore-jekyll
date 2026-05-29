@@ -12,7 +12,7 @@ attributes:
 - 108
 family: Gobiidae
 genus: Istigobius
-species: goldmanni*
+species: goldmanni
 inat_id: 530048
 stateofmatter: Life
 kingdom: Animalia
@@ -96,6 +96,7 @@ location:
 - tsm
 size:
 - 5.0
+rdb: LC
 ---
 
 ## Where seen?

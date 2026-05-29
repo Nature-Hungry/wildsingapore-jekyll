@@ -176,6 +176,7 @@ location:
 size:
 - 4.0
 - 6.0
+rdb: LC
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

@@ -7,7 +7,7 @@ keywords: torch, anchor, euphyllia, glabrescens, euphylliidae, caryophyliidae, c
 layout: entry
 family: Euphylliidae
 genus: Euphyllia
-species: glabrescens*
+species: glabrescens
 attributes: []
 inat_id: 100747
 stateofmatter: Life
@@ -111,6 +111,7 @@ location:
 size:
 - 10.0
 - 20.0
+rdb: DD
 ---
 
 ## Where seen?

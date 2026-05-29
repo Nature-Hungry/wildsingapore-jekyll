@@ -7,7 +7,7 @@ keywords: giant, reef, bristle, worm, eunice, aphroditois, eunicid, bristleworm,
 layout: entry
 family: Eunicidae
 genus: Eunice
-species: aphroditois*
+species: aphroditois
 attributes: []
 inat_id: 200950
 stateofmatter: Life
@@ -183,6 +183,7 @@ location:
 - lfa
 size:
 - 150.0
+rdb: NE
 ---
 
 ## Where seen?

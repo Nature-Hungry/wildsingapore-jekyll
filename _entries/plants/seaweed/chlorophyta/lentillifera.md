@@ -8,7 +8,7 @@ layout: entry
 division: Chlorophyta
 family: Caulerpaceae
 genus: Caulerpa
-species: lentillifera*
+species: lentillifera
 attributes:
 - 97
 - 115
@@ -175,6 +175,7 @@ location:
 - smk
 - tsm
 - lfa
+rdb: NE
 ---
 
 ## Where seen?

@@ -60,6 +60,7 @@ galleries:
 size:
 - 300.0
 - 800.0
+rdb: LC
 ---
 
 ## Where seen?

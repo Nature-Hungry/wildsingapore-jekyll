@@ -167,6 +167,7 @@ size:
 - 4.0
 - 10.0
 - 15.0
+rdb: LC
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

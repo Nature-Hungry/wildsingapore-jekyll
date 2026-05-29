@@ -40,6 +40,7 @@ location:
 size:
 - 1.0
 - 2.0
+rdb: EN
 ---
 
 ## Where seen?

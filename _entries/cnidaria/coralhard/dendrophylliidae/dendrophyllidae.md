@@ -133,13 +133,13 @@ For most there is inadequate information as at 2024 to make an informed assesmen
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 ---
 
-**Family Dendrophyllidae recorded for Singapore**
+**Family Dendrophylliidae recorded for Singapore**
 from Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
 
 in red are those listed as threatened
 in the above.
 
-**Family Dendrophyllidae**
+**Family Dendrophylliidae**
 
 *Cladopsammia gracilis*
 (Looks like cave corals)

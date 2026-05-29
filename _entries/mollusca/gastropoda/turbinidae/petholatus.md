@@ -32,6 +32,7 @@ location:
 - hnt
 size:
 - 6.0
+rdb: vu
 ---
 
 ## Where seen?

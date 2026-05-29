@@ -87,6 +87,7 @@ size:
 - 6.0
 - 10.0
 - 20.0
+rdb: VU
 ---
 
 ## Where seen?

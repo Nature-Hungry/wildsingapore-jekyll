@@ -16,7 +16,7 @@ attributes:
 - 92
 family: Caudinidae
 genus: Paracaudina
-species: australis*
+species: australis
 inat_id: 1121186
 stateofmatter: Life
 kingdom: Animalia
@@ -72,6 +72,7 @@ location:
 size:
 - 10.0
 - 15.0
+rdb: VU
 ---
 
 ## Where seen?

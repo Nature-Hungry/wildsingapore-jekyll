@@ -106,6 +106,7 @@ location:
 - bb
 size:
 - 100.0
+rdb: EN
 ---
 
 ## Where seen?

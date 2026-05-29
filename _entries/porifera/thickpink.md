@@ -6,7 +6,7 @@ shape: branching
 title: Champagne  sponge
 family: Callyspongiidae
 genus: Callyspongia
-species: diffusa*
+species: diffusa
 attributes: []
 inat_id: 450023
 stateofmatter: Life
@@ -86,6 +86,7 @@ location:
 size:
 - 10.0
 - 15.0
+rdb: Lc
 ---
 
 ## Where seen?

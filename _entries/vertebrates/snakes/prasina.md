@@ -95,6 +95,7 @@ location:
 - lab
 size:
 - 200.0
+rdb: Lc
 ---
 
 ## Where seen?

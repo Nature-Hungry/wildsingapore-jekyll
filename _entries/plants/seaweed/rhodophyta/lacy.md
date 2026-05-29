@@ -8,7 +8,7 @@ layout: entry
 division: Rhodophyta
 family: Delesseriaceae
 genus: Martensia
-species: elegans*
+species: elegans
 attributes:
 - 97
 - 98
@@ -82,6 +82,7 @@ location:
 size:
 - 5.0
 - 8.0
+rdb: DD
 ---
 
 ## Where seen?

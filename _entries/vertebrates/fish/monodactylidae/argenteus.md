@@ -110,6 +110,7 @@ location:
 size:
 - 4.0
 - 25.0
+rdb: NT
 ---
 
 ## Where seen?

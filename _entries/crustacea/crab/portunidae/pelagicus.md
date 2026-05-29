@@ -152,6 +152,7 @@ size:
 - 5.0
 - 7.0
 - 20.0
+rdb: NE
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

@@ -5,7 +5,7 @@ keywords: disk, turbinaria, peltata, dendrophylliidae, coral, hard, scleractinia
   cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
 layout: entry
-family: Dendrophyllidae
+family: Dendrophylliidae
 genus: Turbinaria
 species: peltata
 attributes: []
@@ -119,6 +119,7 @@ location:
 - tsm
 - rfl
 - lfa
+rdb: LC
 ---
 
 ## Where seen?

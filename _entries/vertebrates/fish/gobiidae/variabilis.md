@@ -7,7 +7,7 @@ keywords: dusky, gill, mudskipper, mud, skipper, fish, gobiidae, goby, periophth
 layout: entry
 family: Gobiidae
 genus: Periophthalmus
-species: variabilis*
+species: variabilis
 attributes: []
 inat_id: 326743
 stateofmatter: Life
@@ -75,6 +75,7 @@ location:
 size:
 - 4.0
 - 6.0
+rdb: VU
 ---
 
 ## Where seen?

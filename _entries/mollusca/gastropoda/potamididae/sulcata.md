@@ -100,6 +100,7 @@ location:
 - smk
 size:
 - 4.0
+rdb: LC
 ---
 
 ## Where seen?

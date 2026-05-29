@@ -15,7 +15,7 @@ attributes:
 - 101
 family: Holothuriidae
 genus: Bohadschia
-species: ocellata*
+species: ocellata
 inat_id: 428374
 stateofmatter: Life
 kingdom: Animalia
@@ -67,6 +67,7 @@ location:
 size:
 - 6.0
 - 8.0
+rdb: VU
 ---
 
 ## Where seen?

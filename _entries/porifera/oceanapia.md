@@ -6,7 +6,7 @@ shape: ball
 title: Pink puff ball sponge
 family: Phloeodictyidae
 genus: Oceanapia
-species: sagittaria*
+species: sagittaria
 attributes: []
 inat_id: 57735
 stateofmatter: Life
@@ -87,6 +87,7 @@ location:
 size:
 - 1.0
 - 2.0
+rdb: LC
 ---
 
 ## Where seen?

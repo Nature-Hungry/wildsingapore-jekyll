@@ -8,7 +8,7 @@ layout: entry
 division: Chlorophyta
 family: Caulerpaceae
 genus: Caulerpa
-species: scalpelliformis*
+species: scalpelliformis
 attributes:
 - 46
 - 97
@@ -99,6 +99,7 @@ location:
 size:
 - 2.0
 - 4.0
+rdb: NE
 ---
 
 ## Where seen?

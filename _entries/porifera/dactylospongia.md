@@ -6,7 +6,7 @@ shape: branching
 title: Mustard sponge
 family: Thorectidae
 genus: Dactylospongia
-species: elegans*
+species: elegans
 attributes: []
 inat_id: 1536626
 stateofmatter: Life
@@ -55,6 +55,7 @@ location:
 size:
 - 2.0
 - 5.0
+rdb: Ke;
 ---
 
 ## Where seen?

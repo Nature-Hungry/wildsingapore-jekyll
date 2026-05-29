@@ -88,6 +88,7 @@ location:
 size:
 - 15.0
 - 27.0
+rdb: LC
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?

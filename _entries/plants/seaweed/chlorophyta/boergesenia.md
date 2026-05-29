@@ -8,7 +8,7 @@ layout: entry
 division: Chlorophyta
 family: Siphonocladaceae
 genus: Boergesenia
-species: forbesii*
+species: forbesii
 attributes:
 - 97
 - 115
@@ -115,6 +115,7 @@ size:
 - 3.0
 - 4.0
 - 1.0
+rdb: NE
 ---
 
 ## Where seen?

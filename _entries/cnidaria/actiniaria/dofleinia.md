@@ -103,6 +103,7 @@ location:
 - cyr
 size:
 - 20.0
+rdb: LC
 ---
 
 ## Where seen?

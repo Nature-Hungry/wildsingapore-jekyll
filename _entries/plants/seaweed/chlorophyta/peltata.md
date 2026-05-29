@@ -8,7 +8,7 @@ layout: entry
 division: Chlorophyta
 family: Caulerpaceae
 genus: Caulerpa
-species: peltata*
+species: peltata
 attributes:
 - 44
 - 97
@@ -97,6 +97,7 @@ location:
 size:
 - 1.0
 - 1.5
+rdb: NE
 ---
 
 ## Where seen?

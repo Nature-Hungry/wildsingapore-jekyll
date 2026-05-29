@@ -65,6 +65,7 @@ location:
 - cyr
 size:
 - 28.0
+rdb: NT
 ---
 
 ## Where seen?

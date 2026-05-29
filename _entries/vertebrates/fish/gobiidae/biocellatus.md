@@ -13,7 +13,7 @@ attributes:
 - 81
 family: Gobiidae
 genus: Psammogobius
-species: biocellatus*
+species: biocellatus
 inat_id: 110764
 stateofmatter: Life
 kingdom: Animalia
@@ -95,6 +95,7 @@ size:
 - 12.0
 - 6.0
 - 8.0
+rdb: NT
 ---
 
 ## Where seen?

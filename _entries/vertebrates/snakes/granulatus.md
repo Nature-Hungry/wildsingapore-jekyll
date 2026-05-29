@@ -116,6 +116,7 @@ location:
 - tsm
 size:
 - 100.0
+rdb: NT
 ---
 
 ## Where seen?

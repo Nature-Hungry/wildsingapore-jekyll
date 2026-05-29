@@ -128,6 +128,7 @@ location:
 - sis
 size:
 - 95.0
+rdb: VU
 ---
 
 ## Where seen?

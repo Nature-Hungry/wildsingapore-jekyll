@@ -5,7 +5,7 @@ keywords: cave, Tubastraea, dendrophylliidae, coral, hard, scleractinia, cnidari
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
 layout: entry
-family: Dendrophyllidae
+family: Dendrophylliidae
 genus: Tubastraea
 species: ''
 attributes: []
@@ -209,7 +209,7 @@ from Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Thr
 in red are those listed as threatened
 in the above.
 
-**[Family Dendrophyllidae](dendrophyllidae)**
+**[Family Dendrophylliidae](Dendrophylliidae)**
 
 *Tubastraea aurea
 

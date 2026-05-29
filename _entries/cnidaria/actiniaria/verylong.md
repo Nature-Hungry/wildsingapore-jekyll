@@ -11,7 +11,7 @@ attributes:
 - 88
 family: Capneidae
 genus: Actinoporus
-species: elongatus*
+species: elongatus
 inat_id: 622560
 stateofmatter: Life
 kingdom: Animalia
@@ -83,6 +83,7 @@ location:
 size:
 - 6.0
 - 8.0
+rdb: DD
 ---
 
 ## Where seen?

@@ -201,6 +201,7 @@ location:
 size:
 - 5.0
 - 7.0
+rdb: VU
 ---
 
 ## Where seen?

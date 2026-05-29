@@ -7,7 +7,7 @@ keywords: blue, dotted, flat, worm, flatworm, pseudoceros, indicus, polyclad, tu
 layout: entry
 family: Pseudocerotidae
 genus: Pseudoceros
-species: indicus*
+species: indicus
 attributes: []
 inat_id: 547553
 stateofmatter: Life
@@ -124,6 +124,7 @@ location:
 size:
 - 2.0
 - 3.0
+rdb: VU
 ---
 
 ## Where seen?

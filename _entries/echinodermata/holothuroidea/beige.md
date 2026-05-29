@@ -15,7 +15,7 @@ attributes:
 - 101
 family: Holothuriidae
 genus: Holothuria
-species: albiventer*
+species: albiventer
 inat_id: 432849
 stateofmatter: Life
 kingdom: Animalia
@@ -105,6 +105,7 @@ location:
 size:
 - 6.0
 - 12.0
+rdb: VU
 ---
 
 ## Where seen?

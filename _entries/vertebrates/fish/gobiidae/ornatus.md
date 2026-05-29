@@ -137,6 +137,7 @@ location:
 - rfl
 size:
 - 10.0
+rdb: LC
 ---
 
 ## Where seen?

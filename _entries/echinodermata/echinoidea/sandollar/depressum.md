@@ -145,6 +145,7 @@ location:
 size:
 - 4.0
 - 6.0
+rdb: VU
 ---
 
 ## Where seen?

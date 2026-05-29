@@ -8,7 +8,7 @@ layout: entry
 division: Rhodophyta
 family: Bonnemaisoniaceae
 genus: Asparagopsis
-species: taxiformis*
+species: taxiformis
 attributes:
 - 97
 - 98
@@ -94,6 +94,7 @@ location:
 size:
 - 6.0
 - 8.0
+rdb: LC
 ---
 
 ## Where seen?

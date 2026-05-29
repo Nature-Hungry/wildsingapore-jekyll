@@ -11,7 +11,7 @@ attributes:
 - 88
 family: Boloceroididae
 genus: Boloceroides
-species: mcmurrichi
+species: memurrichi
 inat_id: 472036
 stateofmatter: Life
 kingdom: Animalia
@@ -183,6 +183,7 @@ location:
 size:
 - 5.0
 - 8.0
+rdb: LC
 ---
 
 ## Where seen?

@@ -7,7 +7,7 @@ keywords: coral, scallop, clam, shell, pedum, spondyloideum, pectinidae, bivalve
 layout: entry
 family: Pectinidae
 genus: Pedum
-species: spondyloideum*
+species: spondyloideum
 attributes: []
 inat_id: 202181
 stateofmatter: Life
@@ -120,6 +120,7 @@ location:
 size:
 - 1.0
 - 1.5
+rdb: DD
 ---
 
 ## Where seen?

@@ -52,6 +52,7 @@ location:
 - sbw
 size:
 - 2.0
+rdb: CR
 ---
 
 ## Where seen?

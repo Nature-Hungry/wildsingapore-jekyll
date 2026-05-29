@@ -110,6 +110,7 @@ location:
 - kus
 - sji
 - hnt
+rdb: LC
 ---
 
 ## Where seen?

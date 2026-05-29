@@ -8,7 +8,7 @@ layout: entry
 division: Chlorophyta
 family: Caulerpaceae
 genus: Caulerpa
-species: taxifolia*
+species: taxifolia
 attributes:
 - 46
 - 97
@@ -180,6 +180,7 @@ location:
 - tsm
 - rfl
 - lfa
+rdb: NE
 ---
 
 ## Where seen?

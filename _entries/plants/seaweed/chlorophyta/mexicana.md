@@ -8,7 +8,7 @@ layout: entry
 division: Chlorophyta
 family: Caulerpaceae
 genus: Caulerpa
-species: mexicana*
+species: mexicana
 attributes:
 - 46
 - 97
@@ -93,6 +93,7 @@ location:
 - snt
 size:
 - 2.0
+rdb: NE
 ---
 
 ## Where seen?

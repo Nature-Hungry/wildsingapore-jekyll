@@ -190,6 +190,7 @@ location:
 size:
 - 10.0
 - 20.0
+rdb: NT
 ---
 
 ## Where seen?

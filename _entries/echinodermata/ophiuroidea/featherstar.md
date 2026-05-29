@@ -12,7 +12,7 @@ attributes:
 - 92
 family: Ophiotrichidae
 genus: Ophiomaza
-species: cacaotica*
+species: cacaotica
 inat_id: 348253
 stateofmatter: Life
 kingdom: Animalia
@@ -82,6 +82,7 @@ location:
 size:
 - 2.0
 - 3.0
+rdb: VU
 ---
 
 ## Where seen?

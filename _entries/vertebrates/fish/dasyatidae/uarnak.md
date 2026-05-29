@@ -94,6 +94,7 @@ location:
 size:
 - 160.0
 - 600.0
+rdb: CR
 ---
 
 ## Where seen?

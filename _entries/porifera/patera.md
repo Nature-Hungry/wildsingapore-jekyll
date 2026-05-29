@@ -65,6 +65,7 @@ location:
 size:
 - 100.0
 - 100.0
+rdb: CR
 ---
 
 ## Features

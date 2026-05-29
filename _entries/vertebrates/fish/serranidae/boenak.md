@@ -80,6 +80,7 @@ size:
 - 30.0
 - 10.0
 - 15.0
+rdb: LC
 ---
 
 ## Where seen?

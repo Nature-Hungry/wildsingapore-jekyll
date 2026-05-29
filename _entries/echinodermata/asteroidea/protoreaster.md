@@ -183,6 +183,7 @@ size:
 - 30.0
 - 8.0
 - 15.0
+rdb: EN
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

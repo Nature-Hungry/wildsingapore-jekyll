@@ -12,7 +12,7 @@ attributes:
 - 81
 family: Callionymidae
 genus: Callionymus
-species: enneactis*
+species: enneactis
 inat_id: 609772
 stateofmatter: Life
 kingdom: Animalia
@@ -101,6 +101,7 @@ location:
 size:
 - 3.0
 - 5.0
+rdb: NT
 ---
 
 ## Where seen?

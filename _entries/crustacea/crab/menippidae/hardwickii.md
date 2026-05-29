@@ -190,6 +190,7 @@ location:
 size:
 - 10.0
 - 12.0
+rdb: LC
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

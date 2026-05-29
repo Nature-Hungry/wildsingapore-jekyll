@@ -7,7 +7,7 @@ keywords: bristleworm, eurythoe, complanata, amphinomidae, polychaete, annelid, 
 layout: entry
 family: Amphinomidae
 genus: Eurythoe
-species: complanata*
+species: complanata
 attributes: []
 inat_id: 194929
 stateofmatter: Life
@@ -119,6 +119,7 @@ location:
 size:
 - 10.0
 - 20.0
+rdb: NE
 ---
 
 ## Where seen?

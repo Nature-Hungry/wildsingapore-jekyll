@@ -7,7 +7,7 @@ keywords: flat, worm, flatworm, maritigrella, virgulata, euryleptidae, polyclad,
 layout: entry
 family: Euryleptidae
 genus: Maritigrella
-species: virgulata*
+species: virgulata
 attributes: []
 inat_id: 841626
 stateofmatter: Life
@@ -54,6 +54,7 @@ location:
 size:
 - 5.0
 - 7.0
+rdb: DD
 ---
 
 **

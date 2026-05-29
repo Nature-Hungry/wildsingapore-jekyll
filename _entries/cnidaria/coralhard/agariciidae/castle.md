@@ -7,7 +7,7 @@ keywords: castle, pachyseris, rugosa, agariciidae, coral, hard, scleractinia, cn
 layout: entry
 family: Agariciidae
 genus: Pachyseris
-species: rugosa*
+species: rugosa
 attributes: []
 inat_id: 520312
 stateofmatter: Life
@@ -87,6 +87,7 @@ location:
 size:
 - 10.0
 - 30.0
+rdb: LC
 ---
 
 ## Where seen?

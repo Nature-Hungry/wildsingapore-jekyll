@@ -8,7 +8,7 @@ layout: entry
 division: Chlorophyta
 family: Udoteaceae
 genus: Avrainvillea
-species: erecta*
+species: erecta
 attributes:
 - 44
 - 97
@@ -140,6 +140,7 @@ location:
 size:
 - 4.0
 - 5.0
+rdb: NE
 ---
 
 ## Where seen?

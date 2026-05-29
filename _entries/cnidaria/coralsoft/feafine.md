@@ -6,7 +6,7 @@ keywords: alcyonacea, soft, coral, octocoral, cnidaria, field, guide, seashore, 
 layout: entry
 family: Briareidae
 genus: Briareum
-species: excavatum*
+species: excavatum
 attributes: []
 updated: Aug 2025
 coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/feafine/120124sisd5837m3.jpg
@@ -96,6 +96,7 @@ location:
 size:
 - 10.0
 - 15.0
+rdb: DD
 ---
 
 ## Where seen?

@@ -186,6 +186,7 @@ size:
 - 10.0
 - 15.0
 - 20.0
+rdb: DD
 ---
 
 ## Where seen?

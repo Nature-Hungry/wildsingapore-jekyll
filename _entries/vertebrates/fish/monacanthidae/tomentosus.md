@@ -13,7 +13,7 @@ attributes:
 - 47
 family: Monacanthidae
 genus: Acreichthys
-species: tomentosus*
+species: tomentosus
 inat_id: 338159
 stateofmatter: Life
 kingdom: Animalia
@@ -194,6 +194,7 @@ location:
 size:
 - 12.0
 - 7.0
+rdb: NT
 ---
 
 ## Where seen?

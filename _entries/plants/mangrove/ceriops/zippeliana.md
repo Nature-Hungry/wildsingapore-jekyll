@@ -41,6 +41,7 @@ galleries:
     caption: Red collar on ripe propagule. Ridged propagules. Pulau Ubin, Aug 09
 size:
 - 1200.0
+rdb: EN
 ---
 
 ## Where seen?

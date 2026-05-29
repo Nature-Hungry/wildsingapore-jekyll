@@ -112,6 +112,7 @@ location:
 - ecp
 size:
 - 1.0
+rdb: VU
 ---
 
 ## Where seen?

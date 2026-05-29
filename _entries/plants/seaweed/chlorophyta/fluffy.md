@@ -8,7 +8,7 @@ layout: entry
 division: Chlorophyta
 family: Caulerpaceae
 genus: Caulerpa
-species: verticillata*
+species: verticillata
 attributes:
 - 46
 - 97
@@ -73,6 +73,7 @@ location:
 size:
 - 1.0
 - 2.0
+rdb: NE
 ---
 
 ## Where seen?

@@ -6,7 +6,7 @@ shape: branching
 title: Daisy sponge
 family: Isodictyidae
 genus: Coelocarteria
-species: singaporensis*
+species: singaporensis
 attributes: []
 inat_id: 710245
 stateofmatter: Life
@@ -99,6 +99,7 @@ location:
 size:
 - 15.0
 - 20.0
+rdb: Lc
 ---
 
 ## Where seen?
