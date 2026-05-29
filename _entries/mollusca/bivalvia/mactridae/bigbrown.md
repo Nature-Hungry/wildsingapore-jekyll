@@ -22,39 +22,39 @@ order: Venerida
 superfamily: Mactroidea
 subfamily: Mactrinae
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/070122chgd7739m3d.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mactridae/bigbrown/070122chgd7739m3d.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/070122chgd7739m3d.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mactridae/bigbrown/070122chgd7739m3d.jpg
     caption: Changi, Jan 07
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/120508skdd1772m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mactridae/bigbrown/120508skdd1772m3.jpg
     caption: Pulau Sekudu, May 12
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/120802chgd9135m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mactridae/bigbrown/120802chgd9135m3.jpg
     caption: Changi, Aug 12
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/110705chgd5864m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mactridae/bigbrown/110705chgd5864m6l.jpg
     caption: A clam using its foot to leap away from a Moon snail . Changi, Jul 11
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/070122chgd7739m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mactridae/bigbrown/070122chgd7739m3a.jpg
     caption: Changi, Jan 07
   gallery3:
   - url: https://live.staticflickr.com/7772/26855158272_842d69af7d_z.jpg
     caption: A clam using its foot to leap away from a Noble volute .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/200710mevc4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mactridae/bigbrown/200710mevc4.jpg
     caption: East Coast-Marina East, Jul 20 Photo shared by Vincent Choo on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/240723chgeky2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mactridae/bigbrown/240723chgeky2.jpg
     caption: Changi East (Lost Coast), Jul 24 Photo shared by Kelvin Yong on facebook
       .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/160410blylks5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mactridae/bigbrown/160410blylks5.jpg
     caption: Berlayar Creek, Apr 16 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/160409sjilks1.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mactridae/bigbrown/160409sjilks1.JPG
     caption: St. John's Island, Apr 16 Photo shared by Loh Kok Sheng on his blog .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/150815bsishpy1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mactridae/bigbrown/150815bsishpy1m3.jpg
     caption: Sisters Island, Aug 15 Photo shared by Heng Pei Yan on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/150815bsishpy2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mactridae/bigbrown/150815bsishpy2m3.jpg
     caption: Sisters Island, Aug 15 Photo shared by Heng Pei Yan on facebook .
 links_references: '**Links**
 

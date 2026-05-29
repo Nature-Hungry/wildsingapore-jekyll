@@ -27,27 +27,27 @@ superfamily: Cypraeoidea
 subfamily: Erroneinae
 tribe: Erroneini
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/gracilis/130722skdd9864m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/gracilis/130722skdd9864m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/gracilis/130722skdd9864m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/gracilis/130722skdd9864m3.jpg
     caption: Pulau Sekudu, Aug 13
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/gracilis/130722skdd9936m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/gracilis/130722skdd9936m6l.jpg
     caption: Pulau Sekudu, Aug 13
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/gracilis/140614cjlks3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/gracilis/140614cjlks3.JPG
     caption: Chek Jawa, Jun 14 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/gracilis/091206ubnjk.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/gracilis/091206ubnjk.JPG
     caption: Pulau Ubin, Dec 09 Photo shared by James Koh on flickr .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/gracilis/140419chglks2.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/gracilis/140419chglks2.JPG
     caption: Changi, Jan 14 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/gracilis/140812chglks1.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/gracilis/140812chglks1.JPG
     caption: Changi, Aug 14 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/gracilis/140613skdlks1.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/gracilis/140613skdlks1.JPG
     caption: Pulau Sekudu, Jun 14 Photo shared by Loh Kok Sheng on flickr .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/gracilis/210628ecpBvc6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/gracilis/210628ecpBvc6.jpg
     caption: East Coast Park (B), Jun 21 Photo shared by Vincent Choo on facebook
       .
 links_references: '**Links**

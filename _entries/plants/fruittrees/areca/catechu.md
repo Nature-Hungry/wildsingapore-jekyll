@@ -26,23 +26,23 @@ tribe: Areceae
 subtribe: Arecinae
 inat_id: 83108
 updated: Nov 10
-coverimg: http://www.wildsingapore.com/wildfacts/plants/fruittrees/areca/catechu/091005cjd2240m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/areca/catechu/091005cjd2240m6l.jpg
 links_references: "**Links**\n- [*Areca\n  catechu*](http://floraofsingapore.wordpress.com/2010/07/15/areca-catechu/)\
   \ on Total Vascular Flora of Singapore Online: photos\n  and fact sheet.\n\n**References**\n\
   - Wee Yeow\n  Chin. 1992. *[A\n  Guide to Medicinal Plants](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*.\
   \ The Singapore Science Centre.\n  160pp.\n- Burkill,\n  I. H., 1993. *[A\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/areca/catechu/091005cjd2244m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/areca/catechu/091005cjd2244m3a.jpg
     caption: Flowers.
-  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/areca/catechu/091005cjd2244m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/areca/catechu/091005cjd2244m3c.jpg
     caption: Fruits.
-  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/areca/catechu/091005cjd2246m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/areca/catechu/091005cjd2246m6l.jpg
     caption: Chek Jawa, Oct 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/areca/catechu/091005cjd2247m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/areca/catechu/091005cjd2247m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/areca/catechu/091005cjd2247m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/areca/catechu/091005cjd2247m3.jpg
     caption: Chek Jawa, Oct 09
   gallery3:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -67,7 +67,7 @@ A tall elegant palm (to 10m). Leaves rather short with stiff leaflets. Tiny pale
 **Human uses:**
 The sliced seeds (endosperm) are chewed, sometimes together with other leaves such as from the pepper plant or gambier as a mild stimulant. Burkill has a long explanation of the palm's history and traditional preparation. All parts of the palm is put to use. The trunks as flooring, the fallen flower spathes as rough buckets, a hat or to line carrying baskets. Besides medicinal uses, various parts of the plant, from fruit to flowers are also used in spiritual ceremonies. According to Wee, the dried ripe seeds are used by the Chinese to expel tapeworms and roundworms, to treat diabetes, indigestion, lumbago and urinary problems. The Malays use the leaves in a treatment for diarrhoea in children.
 
-![](http://www.wildsingapore.com/wildfacts/plants/fruittrees/areca/catechu/091005cjd2240m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/areca/catechu/091005cjd2240m6l.jpg)
 
 *Chek Jawa, Oct 09*
 

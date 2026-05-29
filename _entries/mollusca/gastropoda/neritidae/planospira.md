@@ -19,12 +19,12 @@ order: Cycloneritida
 superfamily: Neritoidea
 subfamily: Neritinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/planospira/050809lckg1009m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/planospira/050809lckg1009m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/planospira/050809lckg1009m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/planospira/050809lckg1009m3.jpg
     caption: Lim Chu Kang, Aug 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/planospira/050809lckg1011m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/planospira/050809lckg1011m3.jpg
     caption: Lim Chu Kang, Aug 05
 links_references: '**Links**
 

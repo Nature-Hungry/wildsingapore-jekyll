@@ -16,24 +16,24 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/porifera/tube/050626smkd4449m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/tube/050626smkd4449m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/tube/050626smkd4449m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/tube/050626smkd4449m3.jpg
     caption: Pulau Semakau, Jun 05
-  - url: http://www.wildsingapore.com/wildfacts/porifera/tube/030418cjd0097m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/tube/030418cjd0097m3.jpg
     caption: Chek Jawa, Apr 03
-  - url: http://www.wildsingapore.com/wildfacts/porifera/tube/050820bbd5730m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/tube/050820bbd5730m3.jpg
     caption: Beting Bronok, Aug 05
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/tube/110518bbd1866m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/tube/110518bbd1866m3.jpg
     caption: Beting Bronok, May 11
-  - url: http://www.wildsingapore.com/wildfacts/porifera/tubeyellow/110518bbd1994m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/tubeyellow/110518bbd1994m3b.jpg
     caption: Beting Bronok, May 11
-  - url: http://www.wildsingapore.com/wildfacts/porifera/tube/060528bbd2371m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/tube/060528bbd2371m3.jpg
     caption: Beting Bronok, May 06
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/tube/161116ecpbslks.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/tube/161116ecpbslks.jpg
     caption: East Coast Park, Nov 16 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 

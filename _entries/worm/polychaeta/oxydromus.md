@@ -10,7 +10,7 @@ genus: Oxydromus
 species: cf.
 attributes: []
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/101011chgd2159m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/salmacis/101011chgd2159m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/echinodermata/echinoidea/urchin/salmacis/101011chgd2159m3.jpg
@@ -18,9 +18,9 @@ galleries:
   - url: http://www.wildsingapore.com/echinodermata/echinoidea/urchin/temnopleurus/040618chgg0672m3a.jpg
     caption: In a Black sea urchin. Changi, Jun 04
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/urchinmouth/101223pgllks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/urchinmouth/101223pgllks.JPG
     caption: Punggol, Dec 10 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/urchinmouth/090514prplks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/urchinmouth/090514prplks.JPG
     caption: Pasir Ris Park, May 09 Photo shared by Loh Kok Sheng on flickr .
   gallery3:
   - url: http://www.wildsingapore.com/echinodermata/echinoidea/urchin/temnopleurus/251205cjky2.jpg

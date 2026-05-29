@@ -17,21 +17,21 @@ subclass: Heteroscleromorpha
 order: Axinellida
 subfamily: Echinodictyinae
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/porifera/blackprickly/091203ubnd5025m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/blackprickly/091203ubnd5025m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/blackprickly/090820ecpd9500m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/blackprickly/090820ecpd9500m3b.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/porifera/blackprickly/090820ecpd9500m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/blackprickly/090820ecpd9500m3.jpg
     caption: East Coast Park, Aug 09
-  - url: http://www.wildsingapore.com/wildfacts/porifera/blackprickly/091203ubnd5025m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/blackprickly/091203ubnd5025m3b.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/blackprickly/120508skdd1866m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/blackprickly/120508skdd1866m3.jpg
     caption: Pulau Sekudu, May 12
-  - url: http://www.wildsingapore.com/wildfacts/porifera/blackprickly/120704chgd6825m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/blackprickly/120704chgd6825m3.jpg
     caption: Changi, Jul 12
-  - url: http://www.wildsingapore.com/wildfacts/porifera/blackprickly/120410chgd9133m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/blackprickly/120410chgd9133m3.jpg
     caption: Changi, Apr 12
 links_references: '**Links**
 
@@ -90,10 +90,10 @@ and Iotrochota purpurea.
 [Black bath sponges](blackbath)
 (Family Spongiidae) which are usually globular dome-shaped or loaf-shaped.
 
-![](http://www.wildsingapore.com/wildfacts/porifera/blackprickly/091203ubnd5025m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/porifera/blackprickly/091203ubnd5025m3.jpg)
 
 *Pulau Ubin, Dec 09*
-![](http://www.wildsingapore.com/wildfacts/porifera/blackprickly/091203ubnd5025m3a.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/porifera/blackprickly/091203ubnd5025m3a.jpg)
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 ---

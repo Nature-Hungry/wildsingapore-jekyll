@@ -24,17 +24,17 @@ superorder: Acanthomorpha
 order: Carangiformes
 suborder: Pleuronectoidei
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/zebra/170821chg1d8552m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/zebra/170821chg1d8552m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/zebra/170821chg1d8552m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/zebra/170821chg1d8552m3.jpg
     caption: Changi, Aug 17
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/zebra/100612chgd5283m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/zebra/100612chgd5283m6l.jpg
     caption: Changi, Jun 10
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/zebra/100612chgd5283m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/zebra/100612chgd5283m3a.jpg
     caption: Colourful tail!
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/zebra/100612chgd5283m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/zebra/100612chgd5283m3b.jpg
     caption: Eyes on the right side. Tiny spines sticking out near the gill covers.
   gallery3:
   - url: https://live.staticflickr.com/4341/36704530105_cd62082eba_z.jpg

@@ -24,7 +24,7 @@ subfamily: Myrtoideae
 tribe: Myrteae
 subtribe: Decasperminae
 updated: Nov 10
-coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090912chgbwd0518m6la.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/rhodomyrtus/tomentosa/090912chgbwd0518m6la.jpg
 links_references: "**Links**\n- [*Rhodomyrtus\n  tomentosa*](http://floraofsingapore.wordpress.com/2010/08/10/rhodomyrtus-tomentosa/)\
   \ on Total Vascular Flora of Singapore Online:\n  photos and fact sheet.\n\n**References**\n\
   - Tan, Hugh\n  T.W. and T. Morgany. 2001. *[Growing\n  the Native Plants of Singapore](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*.\
@@ -34,23 +34,23 @@ links_references: "**Links**\n- [*Rhodomyrtus\n  tomentosa*](http://floraofsinga
   \ W. Tan. 1990, *[The\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090912chgbwd0510m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/rhodomyrtus/tomentosa/090912chgbwd0510m3.jpg
     caption: Changi, Sep 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090912chgbwd0507m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/rhodomyrtus/tomentosa/090912chgbwd0507m3a.jpg
     caption: Changi, Sep 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090912chgbwd0518m6la.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/rhodomyrtus/tomentosa/090912chgbwd0518m6la.jpg
     caption: Changi, Sep 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090531cjd3074m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/rhodomyrtus/tomentosa/090531cjd3074m3a.jpg
     caption: Chek Jawa, May 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090531cjd3074m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/rhodomyrtus/tomentosa/090531cjd3074m3b.jpg
     caption: Chek Jawa, May 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090531cjd3075m6la.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/rhodomyrtus/tomentosa/090531cjd3075m6la.jpg
     caption: Chek Jawa, May 09
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090922sjid1554m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/rhodomyrtus/tomentosa/090922sjid1554m3.jpg
     caption: Growing wild on the natural cliff. St. John's Island, Sep 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090922sjid1554m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/rhodomyrtus/tomentosa/090922sjid1554m3a.jpg
     caption: St. John's Island, Sep 09
   gallery4:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -89,7 +89,7 @@ the more common
 According to Burkill, the edible fruit may be made into jams and used in tarts. The fruits are also used to treat dysentery, diarrhoea. The roots and leaves also used to treat diarrhoea, stomach aches and as a tonic after childbirth. The leaves are also used to treat wounds. Tar from its wood is used to blacken teeth and eyebrows.
 According to Wee, the Chinese use the leaves as a pain killer, roots to treat heartburn and seeds in a tonic for digestion, and to treat snake bites. In Malaysia, the roots, fruits and leaves are used to treat diarrhoea. In Indonesia, the leaves are used to treat wounds.
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090912chgbwd0518m6la.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/rhodomyrtus/tomentosa/090912chgbwd0518m6la.jpg)
 
 *Changi, Sep 09*
 

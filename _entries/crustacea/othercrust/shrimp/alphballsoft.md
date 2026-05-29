@@ -25,24 +25,24 @@ suborder: Pleocyemata
 infraorder: Caridea
 superfamily: Alpheoidea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphballsoft/111222tusd4735m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphballsoft/111222tusd4735m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphballsoft/111222tusd4735m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphballsoft/111222tusd4735m6l.jpg
     caption: Tuas, Dec 11
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphballsoft/080705bbd7036m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphballsoft/080705bbd7036m3.jpg
     caption: Beting Bronok, Jul 08
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphballsoft/080705bbd6935m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphballsoft/080705bbd6935m3.jpg
     caption: Beting Bronok, Jul 08
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphballsoft/080705bbd6936m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphballsoft/080705bbd6936m3.jpg
     caption: Beting Bronok, Jul 08
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphballsoft/110518bbd1955m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphballsoft/110518bbd1955m3.jpg
     caption: Beting Bronok, May 11
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphballsoft/110519chglks4m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphballsoft/110519chglks4m3.jpg
     caption: Changi, May 11 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphballsoft/220716bblks4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphballsoft/220716bblks4.jpg
     caption: Beting Bronok, Jul 22 Photo shared by Loh Kok Sheng on facebook .
 location:
 - chg

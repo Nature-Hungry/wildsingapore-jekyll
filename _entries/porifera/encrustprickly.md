@@ -16,35 +16,35 @@ class: Demospongiae
 subclass: Verongimorpha
 order: Verongiida
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/110522bbbd2803m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/encrustprickly/110522bbbd2803m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/111001sjid2044m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/encrustprickly/111001sjid2044m3.jpg
     caption: St. John's Island, Oct 11
-  - url: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/111001sjid2044m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/encrustprickly/111001sjid2044m3a.jpg
     caption: A Sponge finger oyster embedded in the sponge.
-  - url: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/111001sjid2044m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/encrustprickly/111001sjid2044m3b.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/120124sisd5828m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/encrustprickly/120124sisd5828m3.jpg
     caption: Sisters Island, Jan 12
-  - url: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/040901sjid6066m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/encrustprickly/040901sjid6066m3.jpg
     caption: St. John's Island, Sep 04
-  - url: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/051204sisg3279m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/encrustprickly/051204sisg3279m3.jpg
     caption: Sisters Islands, Dec 05
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/100811slud0122m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/encrustprickly/100811slud0122m3.jpg
     caption: Pulau Salu, Aug 10
-  - url: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/100811slud0122m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/encrustprickly/100811slud0122m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/100811slud0122m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/encrustprickly/100811slud0122m3b.jpg
     caption: ''
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/091204pawd0058m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/encrustprickly/091204pawd0058m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/091231biod6926m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/encrustprickly/091231biod6926m3.jpg
     caption: Pulau Biola, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/100130brkd8606m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/encrustprickly/100130brkd8606m3.jpg
     caption: Terumbu Berkas, Jan 10
 links_references: '**Links**
 
@@ -118,14 +118,14 @@ This sponge contains the chemical psammaplin A which is reported to be a powerfu
 [More details](http://wildshores.blogspot.com/2011/02/anti-cancer-drugs-from-sponge-commonly.html)
 .
 
-![](http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/110522bbbd2803m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/porifera/encrustprickly/110522bbbd2803m3.jpg)
 
 *Beting Bemban Besar, May 11*
-![](http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/110522bbbd2806m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/porifera/encrustprickly/110522bbbd2806m3.jpg)
 
 Usually dark with yellow tips.
 
-![](http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/110522bbbd2805m3a.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/porifera/encrustprickly/110522bbbd2805m3a.jpg)
 
 Many tiny holes on a bumpy surface.
 

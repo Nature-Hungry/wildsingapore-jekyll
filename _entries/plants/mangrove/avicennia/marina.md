@@ -24,28 +24,28 @@ order: Lamiales
 subfamily: Avicennioideae
 inat_id: 75723
 updated: Jan 2013
-coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/111022smkd2526m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/marina/111022smkd2526m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/110827smkd9885m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/marina/110827smkd9885m3.jpg
     caption: Leaves not so white underneath. Pulau Semakau, Aug 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/111022smkd2528m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/marina/111022smkd2528m3b.jpg
     caption: Large flowers, crowded together.Stem squarish. Pulau Semakau, Oct 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/110827smkd9918m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/marina/110827smkd9918m3.jpg
     caption: Fruits flattened egg-shape, blunt tip. Bluish. Pulau Semakau, Aug 11
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/110809smkd8539m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/marina/110809smkd8539m3.jpg
     caption: Squarish stem to leaf-bearing portion. Pulau Semakau, Aug 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/090405smkd9012m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/marina/090405smkd9012m3a.jpg
     caption: Pulau Semakau, Apr 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/090118smkd5762m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/marina/090118smkd5762m3c.jpg
     caption: Fruit flattened egg-shape. Pulau Semakau, Jan 09
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/090112smkd5020m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/marina/090112smkd5020m3.jpg
     caption: Bark greenish, pneumatophores very tall. Pulau Semakau, Jan 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/110809smkd8546m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/marina/110809smkd8546m3.jpg
     caption: Bark greenish, pneumatophores very tall. Pulau Semakau, Aug 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/090112smkd5020m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/marina/090112smkd5020m3a.jpg
     caption: Bark greenish, pneumatophores very tall. Pulau Semakau, Jan 09
 links_references: '**Links**
 
@@ -130,7 +130,7 @@ According to Giesen, the fruits are eaten, leaves fed to livestock while the woo
 **Status and threats:**
 This tree is listed as 'Critically Endangered' in the Red List of threatened plants of Singapore.
 
-![](http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/111022smkd2526m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/marina/111022smkd2526m6l.jpg)
 
 *Pulau Semakau, Oct 11*
 

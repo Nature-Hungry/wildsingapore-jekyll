@@ -33,21 +33,21 @@ galleries:
     caption: This seagrass is rarely seen on our shores. It doesn't flower frequently,
       and the flowers are small. It is eaten by dugongs.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/serrulata/110830cyrd0552m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/serrulata/110830cyrd0552m3a.jpg
     caption: Cyrene Reef, Aug 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/serrulata/110830cyrd0552m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/serrulata/110830cyrd0552m3b.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/serrulata/081212cyrd2974m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/serrulata/081212cyrd2974m3a.jpg
     caption: Flattened leaf sheath. Cyrene Reef, Mar 07
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/serrulata/120624cyrs09444m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/serrulata/120624cyrs09444m6l.jpg
     caption: Sometimes seen with reddish bands. Cyrene, Jun 12
-  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/serrulata/081212cyrd2969m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/serrulata/081212cyrd2969m3.jpg
     caption: Cyrene Reef, Dec 08
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/serrulata/170908lazjt1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/serrulata/170908lazjt1.jpg
     caption: Seringat Kias, Sep 17 Photo shared by Jonathan Tan.
-  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/serrulata/170908lazjt2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/serrulata/170908lazjt2.jpg
     caption: ''
 links_references: '**Links**
 
@@ -136,13 +136,13 @@ are not available.
 It is listed as 'Endangered' on the Red List of threatened plants of Singapore.
 
 **
-*![](http://www.wildsingapore.com/wildfacts/plants/seagrass/serrulata/111030skdd3364m3.jpg)
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/serrulata/111030skdd3364m3.jpg)
 
 Pulau Sekudu, Oct 11
 
-*![](http://www.wildsingapore.com/wildfacts/plants/seagrass/serrulata/090503sgwwd0997m3.jpg)*
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/serrulata/090503sgwwd0997m3.jpg)*
 *Pulau Semakau, May 09*
-**![](http://www.wildsingapore.com/wildfacts/plants/seagrass/serrulata/090503sgwwd0997m3a.jpg)***
+**![](https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/serrulata/090503sgwwd0997m3a.jpg)***
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 {% include img-wrap-group.html items=page.galleries.gallery3 %}

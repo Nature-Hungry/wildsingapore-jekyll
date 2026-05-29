@@ -23,12 +23,12 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Beloniformes
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/buffonis/110205krjd5876.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/buffonis/110205krjd5876.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/buffonis/110205krjd5876.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/buffonis/110205krjd5876.jpg
     caption: Sungei Buloh, Feb 11
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/buffonis/120215prpd6977m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/buffonis/120215prpd6977m6l.jpg
     caption: Pasir Ris, Feb 12
 links_references: '**Links**
 

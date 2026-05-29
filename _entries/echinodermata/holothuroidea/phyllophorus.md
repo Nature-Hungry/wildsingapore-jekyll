@@ -29,35 +29,35 @@ updated: Apr 2020
 coverimg: ../../../Templates/fornatureguides.gif
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/phyllophorus/150831chg1d9949m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/phyllophorus/150831chg1d9949m3.jpg
     caption: Many often buried just beneath the surface. Changi, Aug 15
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/phyllophorus/050428chgg5234m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/phyllophorus/050428chgg5234m3.jpg
     caption: Freshly dug up sea cucumber with anus and mouth facing upwards. Changi,
       Apr 05
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/phyllophorus/070731chgd4722m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/phyllophorus/070731chgd4722m3.jpg
     caption: Feeding tentacles from a buried sea cucumber.. Changi, Jul 07
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/phyllophorus/150702chg7d6334m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/phyllophorus/150702chg7d6334m3.jpg
     caption: Rarely found above ground. Changi, Jul 15
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/phyllophorus/150702chg7d6334m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/phyllophorus/150702chg7d6334m3a.jpg
     caption: Feeding tentacles and long thin tube feet..
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/phyllophorus/161118chg7d9090m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/phyllophorus/161118chg7d9090m3.jpg
     caption: Those found above ground may be inflated into translucent balls and float
       in the water. Changi, Nov 16
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/phyllophorus/260105prpezxh8.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/phyllophorus/260105prpezxh8.jpg
     caption: Pasir Ris Park, Jan 26 Photo shared by Zen Xuan He on facebook.
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/phyllophorus/210529ecpblks9.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/phyllophorus/210529ecpblks9.jpg
     caption: East Coast Park (B), May 21 Photo shared by Loh Kok Sheng on facebook.
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/phyllophorus/151001blyjt14m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/phyllophorus/151001blyjt14m3.jpg
     caption: Berlayar Creek, Oct 15 Photo shared by Jonathan Tan on facebook.
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/phyllophorus/230424blylks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/phyllophorus/230424blylks2.jpg
     caption: Berlayar Creek, Apr 23 Photo shared by Loh Kok Sheng on facebook.
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/phyllophorus/100912kuslks2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/phyllophorus/100912kuslks2m3.jpg
     caption: Kusu Island, Sep 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/phyllophorus/110220lazlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/phyllophorus/110220lazlks.JPG
     caption: Lazarus Island, Feb 11 Photo shared by Loh Kok Sheng on flickr .
 links_references: '**Links**
 

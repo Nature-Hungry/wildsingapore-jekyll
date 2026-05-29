@@ -21,22 +21,22 @@ superfamily: Pectinoidea
 subfamily: Pectininae
 tribe: Aequipectinini
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/singapore/120704chgd7018m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pectinidae/singapore/120704chgd7018m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/singapore/120704chgd7018m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pectinidae/singapore/120704chgd7018m3.jpg
     caption: Changi, Jul 12
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/singapore/120704chgd7021m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pectinidae/singapore/120704chgd7021m3b.jpg
     caption: When submerged, tentacles and tiny eyes can be seen. Changi, Jul 12
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/singapore/080506chgd2321m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pectinidae/singapore/080506chgd2321m3.jpg
     caption: Changi, May 08
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/singapore/180813chgay1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pectinidae/singapore/180813chgay1.jpg
     caption: Changi Aug 18 Photo shared by Abel Yeo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/singapore/190121cjro1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pectinidae/singapore/190121cjro1.jpg
     caption: Chek Jawa, Jan 19 Photo shared by Rene Ong on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/singapore/210530ecpglks7.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pectinidae/singapore/210530ecpglks7.jpg
     caption: East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 

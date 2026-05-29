@@ -18,27 +18,27 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Truncatelloidea
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/assimineidae/assimineidae/040101lckd0019m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/assimineidae/assimineidae/040101lckd0019m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/assimineidae/assimineidae/040101lckd0019m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/assimineidae/assimineidae/040101lckd0019m3.jpg
     caption: Lim Chu Kang, Jan 04
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/assimineidae/assimineidae/050809lckg0995m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/assimineidae/assimineidae/050809lckg0995m3.jpg
     caption: Underside and operculum. Lim Chu Kang, Aug 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/assimineidae/assimineidae/110406sbbd8767m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/assimineidae/assimineidae/110406sbbd8767m3.jpg
     caption: Sungei Buloh Besar, Apr 11
   gallery2:
   - url: https://live.staticflickr.com/7859/46120433674_769c339836_z.jpg
     caption: ''
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/assimineidae/assimineidae/251228spgrqo1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/assimineidae/assimineidae/251228spgrqo1.jpg
     caption: Sg Pang Sua, Dec 25 Photo shared by Rui Quan Oh on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/assimineidae/assimineidae/251228spgrqo1b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/assimineidae/assimineidae/251228spgrqo1b.jpg
     caption: ''
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/assimineidae/assimineidae/161228cjmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/assimineidae/assimineidae/161228cjmn.jpg
     caption: Chek Jawa, Dec 16 Photo shared by Marcus Ng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/assimineidae/assimineidae/260218merqo3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/assimineidae/assimineidae/260218merqo3.jpg
     caption: Marina East, Feb 26 Photo shared by Rui Quan Oh on facebook .
 links_references: '**Links**
 

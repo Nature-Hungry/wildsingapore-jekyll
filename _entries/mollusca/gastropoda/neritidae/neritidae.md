@@ -58,48 +58,48 @@ galleries:
       eggs in pools and among small stones, watch your step! The shell's features
       protect them in the harsh dry area where they live.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/051105sisg2949m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/chamaeleon/051105sisg2949m3a.jpg
     caption: Tough shell with thick operculum. Chek Jawa, Jan 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/polita/090114labd5376m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/polita/090114labd5376m3.jpg
     caption: The same species of Nerites may come in a wide variety of colours and
       patterns. Labrador, Jan 09
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/061106tusd6519m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/oualaniensis/061106tusd6519m3a.jpg
     caption: The tiniest nerites on our shores are aptly named Dubious nerites .
   gallery3:
   - url: https://live.staticflickr.com/1683/25174359603_fac642f0ce_z.jpg
     caption: ''
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/neritidaenoid/090628lazd6229m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/neritidaenoid/090628lazd6229m3.jpg
     caption: Nerites with their white egg capsules. Lazarus Island, Jun 09
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/081214ecmd3109m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/oualaniensis/081214ecmd3109m3a.jpg
     caption: Tiny egg capsules laid by the tiniest nerite. East Coast, Dec 08
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/neritidaenoid/020213cjd6879m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/neritidaenoid/020213cjd6879m3.jpg
     caption: Nerites mating with their white egg capsules. Chek Jawa, Feb 02
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/albicilla/090208smkd6498m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/albicilla/090208smkd6498m3.jpg
     caption: Ox-tongue nerite
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8926m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8926m3.jpg
     caption: Chameleon nerite
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/060102sisg3617m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/undata/060102sisg3617m3.jpg
     caption: Waved nerite
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/histrio/060301kusg5365m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/histrio/060301kusg5365m3.jpg
     caption: Scaly nerite
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/articulata/090114blyd5295m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/articulata/090114blyd5295m3.jpg
     caption: Lined nerite
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/planospira/050809lckg1011m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/planospira/050809lckg1011m3.jpg
     caption: Flat-spire nerite
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/polita/080621labd6164m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/polita/080621labd6164m3.jpg
     caption: Polished nerite
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/061106tusd6519m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/oualaniensis/061106tusd6519m3a.jpg
     caption: Dubious nerites
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/violacea/110328mndd8041m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/violacea/110328mndd8041m3.jpg
     caption: Red-mouth nerite
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/cornucopia/090612pndd4045m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/cornucopia/090612pndd4045m3.jpg
     caption: Black-mouth nerite
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/grayana/130317krjd4642m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/grayana/130317krjd4642m3.jpg
     caption: Grey mangrove nerite
   gallery9:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1

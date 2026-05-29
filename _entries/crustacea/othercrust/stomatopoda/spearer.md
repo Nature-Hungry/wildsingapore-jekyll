@@ -23,71 +23,71 @@ order: Stomatopoda
 suborder: Unipeltata
 superfamily: Squilloidea
 updated: Mar 2020
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/100612chgd5376m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/spearer/100612chgd5376m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/100612chgd5376m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/spearer/100612chgd5376m6l.jpg
     caption: Changi, Jun 10
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/040701chgd1290m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/spearer/040701chgd1290m3a.jpg
     caption: This is all that is usually seen of a mantis shrimp in its burrow. Changi,
       Jul 04
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/060226cjg5028m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/spearer/060226cjg5028m3a.jpg
     caption: All kinds of scary predatory claws on the underside. Chek Jawa, Feb 06
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/070713chgd3770m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/spearer/070713chgd3770m3.jpg
     caption: This one caught a little fish! Changi, Jul 07
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/050707cftg9111m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/spearer/050707cftg9111m3.jpg
     caption: Deadly pincers Changi, Jul 05
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/090310tuslks01m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/spearer/090310tuslks01m3.jpg
     caption: Tuas, Mar 09 Shared by Loh Kok Sheng on his blog .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/200917prplks10.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/spearer/200917prplks10.jpg
     caption: Pasir Ris, Sep 20 Shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/090514prplks2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/spearer/090514prplks2m3.jpg
     caption: Pasir Ris, May 09 Shared by Loh Kok Sheng on his blog .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/230704chg1rk1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/spearer/230704chg1rk1.jpg
     caption: Changi Carpark 1, Jul 23 Photo shared by Richard Kuah on facebook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/240706ubntl1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/spearer/240706ubntl1.jpg
     caption: Pulau Ubin, Jul 24 Photo shared by Tammy Lim on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/100516skdtch1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/spearer/100516skdtch1m3.jpg
     caption: Pulau Sekudu, May 10 Photo shared by Toh Chay Hoon on her blog .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/noid/030412cjd0105m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/noid/030412cjd0105m3.jpg
     caption: Chek Jawa, Apr 02
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/190704bbtch3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/spearer/190704bbtch3.jpg
     caption: Beting Bronok, Jul 19 Shared by Toh Chay Hoon on facebook ..
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/250627bbdc2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/spearer/250627bbdc2.jpg
     caption: Beting Bronok, Jun 25 Photo shared by Dayna Cheah on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/250627bbky5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/spearer/250627bbky5.jpg
     caption: Beting Bronok, Jun 25 Photo shared by Kelvin Yong on facebook .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/200819ecptch7.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/spearer/200819ecptch7.jpg
     caption: East Coast Park, Aug 20 Shared by Toh Chay Hoon on facebook ..
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/220813pcnlks3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/spearer/220813pcnlks3.jpg
     caption: East Coast (PCN), Aug 22 Shared by Loh Kok Sheng on facebook ..
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/210529epcnvc7.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/spearer/210529epcnvc7.jpg
     caption: East Coast (PCN), May 21 Shared by Vincent Choo on facebook ..
   gallery9:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/251208melks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/spearer/251208melks2.jpg
     caption: Marina East, Dec 2025 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/171009blymn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/spearer/171009blymn1.jpg
     caption: Berlayar Creek, Oct 17 Photo shared by Marcus Ng on facebook .
   gallery10:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/260104trmyls4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/spearer/260104trmyls4.jpg
     caption: Sentosa Tg Rimau, Jan 26 Photo shared by Yan Le Su on facebook .
   gallery11:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/140617tbmn1m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/spearer/140617tbmn1m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/140617tbmn1m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/spearer/140617tbmn1m6l.jpg
     caption: Terumbu Bemban, Jun 14 Photo shared by Marcus Ng on facebook .
   gallery12:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/noid/090509sislksm6l.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/noid/090509sislksm6l.JPG
     caption: Sisters Island, May 09 Photo shared by Loh Kok Sheng on his blog .
   gallery13:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/noid/120505sisgl1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/noid/120505sisgl1m3.jpg
     caption: Sisters Island, May 12 Photos shared by Geraldine Lee on facebook .
 links_references: '**Links**
 

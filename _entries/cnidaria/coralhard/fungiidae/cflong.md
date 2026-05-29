@@ -17,38 +17,38 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/060101sisd6444m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/polyphyllia/060101sisd6444m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/060101sisd6444m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/polyphyllia/060101sisd6444m3.jpg
     caption: Mole mushroom hard coral Polyphyllia talpina
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/060101sisg3523m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/polyphyllia/060101sisg3523m3a.jpg
     caption: Central groove may not be distinct.
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/060101sisg3523m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/polyphyllia/060101sisg3523m3b.jpg
     caption: Short, petal-shaped walls that form radial patterns, instead of parallel
       lines. Tentacles tiny.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/040606kusg0472m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/herpolitha/040606kusg0472m3.jpg
     caption: Tongue mushroom hard coral Herpolitha limax
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/040606kusg0472m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/herpolitha/040606kusg0472m3a.jpg
     caption: Long distinct central groove.
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/040606kusg0472m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/herpolitha/040606kusg0472m3c.jpg
     caption: Walls in several short overlapping lines running perpendicular to central
       groove to the edge. Tentacles tiny.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/060713rlhd4335m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/ctenactis/060713rlhd4335m3.jpg
     caption: Feather mushroom hard coral Ctenactis sp.
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/060713rlhd4335m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/ctenactis/060713rlhd4335m3a.jpg
     caption: Long distinct central furrow.
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/060713rlhd4335m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/ctenactis/060713rlhd4335m3b.jpg
     caption: Walls in thin generally unbroken lines running perpendicular to central
       groove to the edge. Tentacles tiny, very sparse.
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060402ulrd0962m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/oval/060402ulrd0962m3.jpg
     caption: Oval mushroom coral Fungia sp.
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060402ulrd0962m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/oval/060402ulrd0962m3a.jpg
     caption: Central furrow distinct in various lengths.
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060212sisg4747m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/oval/060212sisg4747m3a.jpg
     caption: Walls in several long overlapping lines running perpendicular to central
       groove to the edge. Wall teeth tiny not obvious when covered by tissue. Tentacles
       tiny.

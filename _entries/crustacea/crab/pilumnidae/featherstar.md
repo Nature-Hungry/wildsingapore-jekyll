@@ -27,14 +27,14 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Pilumnoidea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/featherstar/150220lsislks2.JPG
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/pilumnidae/featherstar/150220lsislks2.JPG
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/featherstar/150220lsislks2.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/pilumnidae/featherstar/150220lsislks2.JPG
     caption: Sisters Island, Feb 15 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/featherstar/150220lsislks3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/pilumnidae/featherstar/150220lsislks3.JPG
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/featherstar/150220lsislks1.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/pilumnidae/featherstar/150220lsislks1.JPG
     caption: ''
 links_references: '**Links**
 

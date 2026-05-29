@@ -22,50 +22,50 @@ class: Asteroidea
 superorder: Valvatacea
 order: Valvatida
 updated: Mar 2020
-coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/080425cyrd1807m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/pentaceraster/080425cyrd1807m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/080425cyrd1807m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/pentaceraster/080425cyrd1807m3.jpg
     caption: Cyrene Reef, Apr 08
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/080425cyrd1822m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/pentaceraster/080425cyrd1822m3a.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/080425cyrd1808m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/pentaceraster/080425cyrd1808m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/080425cyrd1808m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/pentaceraster/080425cyrd1808m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/100402cyrsy1m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/pentaceraster/100402cyrsy1m3b.jpg
     caption: A small one was seen! Cyrene Reef, Apr 10 Photo shared by Sean Yap on
       his blog .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/231214cjlks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/pentaceraster/231214cjlks1.jpg
     caption: Chek Jawa, Dec 23 Shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/231214cjlks1a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/pentaceraster/231214cjlks1a.jpg
     caption: Chek Jawa, Dec 23 Shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/231214cjlks1b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/pentaceraster/231214cjlks1b.jpg
     caption: Chek Jawa, Dec 23 Shared by Loh Kok Sheng on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/110508cyrlks5m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/pentaceraster/110508cyrlks5m3.jpg
     caption: Cyrene Reef, May 11 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/100809cynml2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/pentaceraster/100809cynml2m3.jpg
     caption: Cyrene Reef, Aug 10 Shared by Neo Mei Lin on her blog .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/100501cyrd2206m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/pentaceraster/100501cyrd2206m3.jpg
     caption: A small one about 9cm in diameter. Cyrene Reef, May 10
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/100713cyrtch1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/pentaceraster/100713cyrtch1m3.jpg
     caption: Cyrene Reef, Jul 10 Shared by Toh Chay Hoon on her blog .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/100711cyrlks2m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/pentaceraster/100711cyrlks2m3.JPG
     caption: Cyrene Reef, Jul 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/100626cyrlks2m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/pentaceraster/100626cyrlks2m3.JPG
     caption: Cyrene Reef, Jun 10 Photo shared by Loh Kok Sheng on his blog .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/090309cyrlks01m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/pentaceraster/090309cyrlks01m3.jpg
     caption: This star seems unwell. Cyrene Reef, Mar 09 Shared by Loh Kok Sheng on
       his blog .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/160608cyrlks8.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/pentaceraster/160608cyrlks8.JPG
     caption: Cyrene Reef, Jun 16 Shared by Loh Kok Sheng on his blog .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/pentaceraster/241117cyrmn2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/pentaceraster/241117cyrmn2.jpg
     caption: Cyrene Reef, Nov 24 Photo shared by Marcus Ng n on facebook .
 links_references: '**Links**
 

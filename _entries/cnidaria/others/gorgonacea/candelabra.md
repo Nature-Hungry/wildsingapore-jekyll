@@ -17,17 +17,17 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/candelabra/060528bbd2416m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/candelabra/060528bbd2416m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/candelabra/060528bbd2416m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/candelabra/060528bbd2416m3.jpg
     caption: Beting Bronok, May 06
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/candelabra/060528bbd2416m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/candelabra/060528bbd2416m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/candelabra/111222tusd4656m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/candelabra/111222tusd4656m3.jpg
     caption: Tuas, Dec 11
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/candelabra/170714chgsafo7130425m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/candelabra/170714chgsafo7130425m3a.jpg
     caption: Squid egg capsules attached to the sea fan. Changi, Jul 17
   - url: http://www.wildsingapore.com/mollusca/bivalvia/pteriidae/pteriidae/150802bbd8848m3a.jpg
     caption: Winged oyster on the sea fan. Beting Bronok, Aug 15

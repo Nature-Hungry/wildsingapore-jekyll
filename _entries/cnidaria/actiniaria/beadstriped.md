@@ -21,33 +21,33 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
 updated: Dec 2024
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadstriped/081216prpd3496m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadstriped/081216prpd3496m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadstriped/081216prpd3496m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadstriped/081216prpd3496m3.jpg
     caption: Pasir Ris Park, Dec 08
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadstriped/081216prpd3494m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadstriped/081216prpd3494m3.jpg
     caption: Pasir Ris Park, Dec 08
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadstriped/190422cnyrk1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadstriped/190422cnyrk1.jpg
     caption: Coney Island, Apr 19 Photo shared by Richard Kuah on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadstriped/160125obsmn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadstriped/160125obsmn1.jpg
     caption: Pulau Ubin OBS, Jan 16 Photo shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadstriped/160125obslks3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadstriped/160125obslks3.jpg
     caption: Pulau Ubin OBS, Jan 16 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadstriped/160704cjmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadstriped/160704cjmn.jpg
     caption: Chek Jawa, Jul 16 Photo shared by Marcus Ng on flickr .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadstriped/171108ecpmblks17.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadstriped/171108ecpmblks17.jpg
     caption: East Coast-Marina Bay, Nov 17 Photo shared by Loh Kok Sheng on facebook
       .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadstriped/120407lazlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadstriped/120407lazlks.JPG
     caption: Seingat-Kias, Apr 11 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadstriped/070801kuslks1m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadstriped/070801kuslks1m3.JPG
     caption: Kusu Island, Aug 07
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadstriped/070801kuslks1m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadstriped/070801kuslks1m3a.jpg
     caption: Photo shared by Loh Kok Sheng on his blog .
 location:
 - sbw

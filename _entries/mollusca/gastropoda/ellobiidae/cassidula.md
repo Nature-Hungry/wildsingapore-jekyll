@@ -22,12 +22,12 @@ order: Ellobiida
 superfamily: Ellobioidea
 subfamily: Pythiinae
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/cassidula/090307brld7462.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ellobiidae/cassidula/090307brld7462.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/cassidula/090307brld7462.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ellobiidae/cassidula/090307brld7462.jpg
     caption: Berlayar Creek, Mar 09
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/cassidula/090307blyd7470m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ellobiidae/cassidula/090307blyd7470m3.jpg
     caption: Berlayar Creek, Mar 09
 links_references: '**Links**
 

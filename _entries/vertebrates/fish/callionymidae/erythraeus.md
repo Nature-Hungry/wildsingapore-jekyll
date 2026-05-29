@@ -23,27 +23,27 @@ superorder: Acanthomorpha
 order: Syngnathiformes
 suborder: Callionymoidei
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/090709chgd6825m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/callionymidae/erythraeus/090709chgd6825m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/090709chgd6825m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/callionymidae/erythraeus/090709chgd6825m3.jpg
     caption: Changi, Jul 09
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/090709chgd6828m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/callionymidae/erythraeus/090709chgd6828m6l.jpg
     caption: Male. Changi, Jun 13
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/110519chgd2047m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/callionymidae/erythraeus/110519chgd2047m6l.jpg
     caption: Male. Changi, Jun 09
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/091020chgd2942m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/callionymidae/erythraeus/091020chgd2942m3a.jpg
     caption: Underside of a dead specimen. Tanah Merah, Oct 09
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/200622chgdc1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/callionymidae/erythraeus/200622chgdc1.jpg
     caption: Changi, Jun 20 Photo shared by Dayna Cheah on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/120801chgmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/callionymidae/erythraeus/120801chgmn.jpg
     caption: Tiny, about 1cm. Changi, Aug 12 Photo shared by Marcus Ng on flickr .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/230607chgemn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/callionymidae/erythraeus/230607chgemn1.jpg
     caption: Changi East, Jun 23 Photo shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/180812nsrtlks7.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/callionymidae/erythraeus/180812nsrtlks7.jpg
     caption: East Coast Park, Aug 18 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 

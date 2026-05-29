@@ -15,26 +15,26 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Aug 2025
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/sertularella/030714bbd0074m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/sertularella/030714bbd0074m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/sertularella/030714bbd0074m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/sertularella/030714bbd0074m3.jpg
     caption: Beting Bronok, Jun 03
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/sertularella/100614bbd6022m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/sertularella/100614bbd6022m3.jpg
     caption: Tiny polyps of the hydroid . Beting Bronok, Jun 10
   - url: http://www.wildsingapore.com/mollusca/slugs/nudibranchia/sibogae/060812bbd6062m3.jpg
     caption: Cuthona nudibranch Beting Bronok, Aug 06
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/sertularella/220617skdlks3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/sertularella/220617skdlks3.jpg
     caption: Pulau Sekudu, Jun 22 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/sertularella/220617skdlks4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/sertularella/220617skdlks4.jpg
     caption: Pulau Sekudu, Jun 22 Photo shared by Loh Kok Sheng on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/sertularella/110518bbd1818m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/sertularella/110518bbd1818m3.jpg
     caption: Beting Bronok, May 11
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/sertularella/060613ecpd2942m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/sertularella/060613ecpd2942m3.jpg
     caption: East Coast, Jun 06
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/sertularella/090623ecpd4882m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/sertularella/090623ecpd4882m3.jpg
     caption: East Coast, Jun 09
 location:
 - pgl

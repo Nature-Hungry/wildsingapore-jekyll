@@ -18,12 +18,12 @@ class: Reptilia
 order: Squamata
 suborder: Serpentes
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/reticulatus/020511sbwrcpd9086m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/reticulatus/020511sbwrcpd9086m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/reticulatus/020511sbwrd9076m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/reticulatus/020511sbwrd9076m6l.jpg
     caption: Sungei Buloh Wetland Reserve, May 02
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/reticulatus/020511sbwrcpd9035m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/reticulatus/020511sbwrcpd9035m3.jpg
     caption: Sungei Buloh Wetland Reserve, May 02
 links_references: '**Links**
 
@@ -111,10 +111,10 @@ Mama snake lays many eggs (124 is the record) and incubates them for three month
 **Status and threats:**
 The snake is considered common and are not listed among the threatened animals of Singapore. However, like other creatures of the shores, they are affected by human activities such as reclamation and pollution.
 
-![](http://www.wildsingapore.com/wildfacts/vertebrates/snakes/reticulatus/020511sbwrcpd9086m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/reticulatus/020511sbwrcpd9086m6l.jpg)
 
 *Sungei Buloh Wetland Reserve, May 02
-![](http://www.wildsingapore.com/wildfacts/vertebrates/snakes/reticulatus/020511sbwrcpd9036m3.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/reticulatus/020511sbwrcpd9036m3.jpg)*
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 ---

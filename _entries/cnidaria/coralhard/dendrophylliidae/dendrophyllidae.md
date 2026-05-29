@@ -17,19 +17,19 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Sep 2025
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3.jpg
     caption: Flowery disk coral
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/060713rlhg6356m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/tubastraea/060713rlhg6356m3.jpg
     caption: Cave corals l
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/110717tbd7128m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/ruffled/110717tbd7128m3.jpg
     caption: Ruffled disk coral
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/031124tuscd0065m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/thin/031124tuscd0065m3.jpg
     caption: Thin disk coral
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/111001sjid1937m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/encrust/111001sjid1937m3.jpg
     caption: Encrusting disk coral
 links_references: '**Links**
 

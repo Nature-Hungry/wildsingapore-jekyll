@@ -17,15 +17,15 @@ subphylum: Rhabditophora
 order: Polycladida
 suborder: Cotylea
 updated: Feb 2020
-coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/scintillatus/180617skdtch1.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/scintillatus/180617skdtch1.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/scintillatus/180617skdtch1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/scintillatus/180617skdtch1.jpg
     caption: Pulau Sekudu, Jun 18 Photo shared by Toh Chay Hoon on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/scintillatus/180714cjcyf1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/scintillatus/180714cjcyf1.jpg
     caption: Chek Jawa, Jul 18 Photo shared by Choo Yi Feng on facebook .
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/scintillatus/150422jngmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/scintillatus/150422jngmn.jpg
     caption: Pulau Jong, Apr 15 Photo shared by Marcus Ng on flickr .
 location:
 - cj

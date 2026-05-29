@@ -23,7 +23,7 @@ order: Malvales
 subfamily: Malvoideae
 tribe: Hibisceae
 updated: Nov 10
-coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/020120sbwrcpd5232m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/hibiscus/tiliaceus/020120sbwrcpd5232m3.jpg
 links_references: "**Links**\n- [*Talipariti\n  tiliaceum*](http://floraofsingapore.wordpress.com/2010/07/11/talipariti-tiliaceum/)\
   \ on Total Vascular Flora of Singapore Online:\n  photos and fact sheet.\n- [Sea\n\
   \  hibiscus (*Hibiscus tiliaceus*)](http://mangrove.nus.edu.sg/guidebooks/text/1063.htm)\
@@ -45,17 +45,17 @@ galleries:
   - url: http://www.wildsingapore.com/insecta/dysdercus/090214sbwrd7160m3a.jpg
     caption: Adult Bugs are often found in large numbers under Sea hibiscus leaves.
       Sungei Buloh Wetland Reserve, Feb 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/090321krjo3211491m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/hibiscus/tiliaceus/090321krjo3211491m3a.jpg
     caption: Kranji Canal, Mar 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/090912chgbwd0552m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/hibiscus/tiliaceus/090912chgbwd0552m3.jpg
     caption: Changi Boardwalk, Sep 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/090912chgbwd0537m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/hibiscus/tiliaceus/090912chgbwd0537m3a.jpg
     caption: Changi Boardwalk, Sep 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/091005cjd2206m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/hibiscus/tiliaceus/091005cjd2206m3.jpg
     caption: Chek Jawa, Oct 09
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/090408wdld9158m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/hibiscus/tiliaceus/090408wdld9158m3.jpg
     caption: Woodland Park, Apr 09
   gallery4:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -111,19 +111,19 @@ The timber has a wide range of uses from building houses, boats, household imple
 
 According to Wee, the leaves are considered cooling in Malaysia and Indonesia and used to control fevers. The leaves are also used to sooth and remove phlegm in respiratory ailments. In the Philippines, fresh bark soaked in water is used to treat dysentery.
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/020120sbwrcpd5232m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/hibiscus/tiliaceus/020120sbwrcpd5232m3.jpg)
 
 *Sungei Buloh Wetland Reserve, Jan 02*
-*![](http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/020415sbwrcpd8160m3.jpg)*
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/hibiscus/tiliaceus/020415sbwrcpd8160m3.jpg)*
 Slits on the leaf veins.
 *Sungei Buloh Wetland Reserve, Apr 02*
-*![](http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/031120sbwrd0002m3.jpg)*
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/hibiscus/tiliaceus/031120sbwrd0002m3.jpg)*
 The yellow flower turns orange
 
 before it drops off.
 *Sungei Buloh Wetland Reserve, Nov 03*
 **
-*![](http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/090117smkd5536m3.jpg)
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/hibiscus/tiliaceus/090117smkd5536m3.jpg)
 
 Pulau Semakau, Jan 09*
 

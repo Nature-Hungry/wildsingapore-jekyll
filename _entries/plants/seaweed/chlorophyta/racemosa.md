@@ -19,29 +19,29 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/070704jngg1230m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/racemosa/070704jngg1230m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/050625labd4351m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/racemosa/050625labd4351m3.jpg
     caption: Labrador, Jun 05
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/050625labd4351m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/racemosa/050625labd4351m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/110715cyrd6602m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/racemosa/110715cyrd6602m3a.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/170723ubnay7.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/racemosa/170723ubnay7.jpg
     caption: Pulau Ubin, Jul 17 Photo shared by Abel Yeo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/081129ecpmlks01m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/racemosa/081129ecpmlks01m3.jpg
     caption: East Coast, Nov 08 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/160124smkegl3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/racemosa/160124smkegl3.jpg
     caption: Pulau Semakau East, Jan 16 Photo shared by Geraldine Lee on facebook
       .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/100531biod4524m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/racemosa/100531biod4524m3.jpg
     caption: Pulau Biola, May 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/100130brkd8609m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/racemosa/100130brkd8609m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/100810sngd9888m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/racemosa/100810sngd9888m3.jpg
     caption: Pulau Senang, Aug 10
 links_references: '**Links**
 
@@ -187,12 +187,12 @@ species produce toxins to protect themselves from browsing fish. This also makes
 
 This seaweed is considered an alien invasive species in the Mediterranean.
 
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/070704jngg1230m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/racemosa/070704jngg1230m3.jpg)
 
 *Pulau Jong, Jul 07*
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/070704jngg1230m3a.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/racemosa/070704jngg1230m3a.jpg)
 
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/110715cyrd6601m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/racemosa/110715cyrd6601m3.jpg)
 
 *Cyrene Reef, Jul 11*
 

@@ -25,41 +25,41 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Stromboidea
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/090711sjid7253m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/marginatus/090711sjid7253m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/090711sjid7253m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/marginatus/090711sjid7253m3.jpg
     caption: St. John's Island, Jul 09
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/110814smkd9070m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/marginatus/110814smkd9070m3.jpg
     caption: Pulau Semakau, Aug 11
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/110814smkd9072m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/marginatus/110814smkd9072m3.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/240723chgeccn3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/marginatus/240723chgeccn3.jpg
     caption: Changi East (Lost Coast), Jul 24 Photo shared by Che Cheng Neo on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/240723chgeccn3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/marginatus/240723chgeccn3b.jpg
     caption: Changi East (Lost Coast), Jul 24 Photo shared by Che Cheng Neo on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/251206chgelks3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/marginatus/251206chgelks3.jpg
     caption: Changi East (Lost Coast), Dec 25 Photo shared by Loh Kok Sheng on facebook
       ..
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/100911ecpnml1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/marginatus/100911ecpnml1m3.jpg
     caption: East Coast Park, Sep 10 Photo shared by Neo Mei Lin on her blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/090207ecplks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/marginatus/090207ecplks.JPG
     caption: East Coast Park, Feb 09 Photo shared by Loh Kok Sheng on flickr .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/090514prplks1.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/marginatus/090514prplks1.JPG
     caption: Pasir Ris, May 09 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/141108bbblks1.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/marginatus/141108bbblks1.JPG
     caption: Beting Bemban Besar, Nov 14 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/110830cyrlks4m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/marginatus/110830cyrlks4m3.jpg
     caption: Cyrene Reef, Aug 11 Photo shared by Loh Kok Sheng on his blog .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/100518bbbnml2m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/marginatus/100518bbbnml2m6l.jpg
     caption: Beting Bemban Besar, May 10 Photo shared by Neo Mei Lin on her blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/141108bbbmn5m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/marginatus/141108bbbmn5m3.jpg
     caption: Beting Bemban Besar, Nov 14 Photo shared by Marcus Ng on facebook .
 links_references: '**Links**
 

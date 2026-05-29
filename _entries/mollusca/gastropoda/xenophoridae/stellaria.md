@@ -18,21 +18,21 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Stromboidea
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/xenophoridae/stellaria/100302tmd9866m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/xenophoridae/stellaria/100302tmd9866m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/xenophoridae/stellaria/100302tmd9866m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/xenophoridae/stellaria/100302tmd9866m3.jpg
     caption: Tanah Merah, Mar 10
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/xenophoridae/stellaria/100302tmd9864m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/xenophoridae/stellaria/100302tmd9864m3.jpg
     caption: Inside of the shell not shiny.
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/xenophoridae/stellaria/100302tmd9864m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/xenophoridae/stellaria/100302tmd9864m3a.jpg
     caption: Fine lines on the underside.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/xenophoridae/stellaria/090824tusd0080m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/xenophoridae/stellaria/090824tusd0080m3.jpg
     caption: Tuas, Aug 09
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/xenophoridae/stellaria/090824tusd0079m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/xenophoridae/stellaria/090824tusd0079m3.jpg
     caption: Tuas, Aug 09
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/xenophoridae/stellaria/101011chgd2128m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/xenophoridae/stellaria/101011chgd2128m3.jpg
     caption: Changi, Oct 10
 links_references: '**Links**
 

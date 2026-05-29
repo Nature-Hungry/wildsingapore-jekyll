@@ -25,7 +25,7 @@ order: Anguilliformes
 suborder: Congroidei
 subfamily: Myrophinae
 updated: Apr 2025
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/040817sntd4718m3a.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/wormeel/040817sntd4718m3a.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -37,56 +37,56 @@ galleries:
       dig backwards with. This small burrowing fish is easily trampled. Watch your
       step!
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/040817sntd4718m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/wormeel/040817sntd4718m3a.jpg
     caption: Has no pectoral fins.
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/040817sntd4718m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/wormeel/040817sntd4718m3b.jpg
     caption: The tail tip is sharp and bony.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/040817sntd4718m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/wormeel/040817sntd4718m6l.jpg
     caption: Sentosa, Aug 04
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/170822labjll3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/wormeel/170822labjll3.jpg
     caption: Labrador, Aug 17 Photo shared by Jianlin Liu on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/210401sntvc3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/wormeel/210401sntvc3.jpg
     caption: Sentosa Tg Rimau, Apr 21 Photo shared by Vincent Choo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/220104tkkvc4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/wormeel/220104tkkvc4.jpg
     caption: Pulau Tekukor, Jan 22 Photo shared by Vincent Choo on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/201019sjijll9.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/wormeel/201019sjijll9.jpg
     caption: St John's Island, Oct 20 Photo shared by Jianlin Liu on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/070303sjimn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/wormeel/070303sjimn.jpg
     caption: St John's Island, Mar 07 Photo shared by Marcus Ng on flickr .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/090624jnglt2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/wormeel/090624jnglt2m3.jpg
     caption: Pulau Jong, Jun 09 Photo shared by Liana Tang on her blog .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/20070724thntrk4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/wormeel/20070724thntrk4.jpg
     caption: Terumbu Hantu, Jul 20 Photo shared by Richard Kuah on facebook .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/201018smksjll2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/wormeel/201018smksjll2.jpg
     caption: Pulau Semakau South, Oct 20 Photo shared by Jianlin Liu on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/210113smkwjll2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/wormeel/210113smkwjll2.jpg
     caption: Pulau Semakau (West), Jan 21 Photo shared by Jianlin Liu on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/100519tsmjk12m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/wormeel/100519tsmjk12m3.jpg
     caption: Terumbu Semakau, May 10 Photo shared by James Koh on his blog .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/110522bbbrl3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/wormeel/110522bbbrl3m3.jpg
     caption: Beting Bemban Besar, May 11 Photo shared by Russel Low on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/251008bbbal1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/wormeel/251008bbbal1.jpg
     caption: Beting Bemban Besar, Oct 25 Photo shared by Adriane Lee on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/250812tbal1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/wormeel/250812tbal1.jpg
     caption: Terumbu Bemban, Aug 25 Photo shared by Adriane Lee on facebook .
   gallery9:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/250712tpljt5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/wormeel/250712tpljt5.jpg
     caption: Terumbu Pempang Laut, Jul 25 Photo shared by Jonathan Tan on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/160312tptjtm1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/wormeel/160312tptjtm1.jpg
     caption: Terumbu Pempang Tengah, Mar 16 Photo shared by Marcus Ng on facebook
       .
   gallery10:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/100130brklks7m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/wormeel/100130brklks7m3.jpg
     caption: Terumbu Berkas, Jan 10 Photo shared by Loh Kok Sheng on his flickr .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/210428slutch1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/wormeel/210428slutch1.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Toh Chay Hoon on facebook .
 links_references: '**Links**
 

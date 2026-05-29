@@ -20,31 +20,31 @@ suborder: Sauria
 infraorder: Anguimorpha
 subgenus: Soterosaurus
 updated: Apr 2018
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/090905sbwrd0298m3c.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/salvator/090905sbwrd0298m3c.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/090905sbwrd0298m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/salvator/090905sbwrd0298m3c.jpg
     caption: Nostrils at the tip of a slender snout.
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/090905sbwrd0298m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/salvator/090905sbwrd0298m3a.jpg
     caption: Small non-overlapping scales. Bands of yellow spots on juveniles that
       fade in adults. Sungei Buloh Wetland Reserve, Sep 09
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/120215prpd6908m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/salvator/120215prpd6908m3.jpg
     caption: Long blue forked tongue! Pasir Ris Park, Feb 12
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/120503admd0764m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/salvator/120503admd0764m6l.jpg
     caption: To swim, it holds its limbs against its body and propels itself with
       its tail. Admiralty Park, May 12
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/120330prpd7937m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/salvator/120330prpd7937m6l.jpg
     caption: Rival males wrestling. Pasir Ris Park, Mar 13
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/120330prpd7933m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/salvator/120330prpd7933m3.jpg
     caption: The aim is to topple your rival onto the ground.
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/120215prpd6936m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/salvator/120215prpd6936m3.jpg
     caption: Pasir Ris Park, Feb 12
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/120215prpd6941m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/salvator/120215prpd6941m3.jpg
     caption: Digging deep in a muddy hole.
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/120215prpd6947m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/salvator/120215prpd6947m3.jpg
     caption: The lizard can hold its breath for a long time!
 links_references: '**Links**
 

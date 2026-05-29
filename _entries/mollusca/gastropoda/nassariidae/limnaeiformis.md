@@ -25,27 +25,27 @@ order: Neogastropoda
 superfamily: Buccinoidea
 subfamily: Nassariinae
 updated: Aug 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/limnaeiformis/130428tsmkd6115.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/limnaeiformis/130428tsmkd6115.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/limnaeiformis/130428tsmkd6115.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/limnaeiformis/130428tsmkd6115.jpg
     caption: Terumbu Semakau, Apr 13
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/limnaeiformis/130428tsmkd6098.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/limnaeiformis/130428tsmkd6098.jpg
     caption: Terumbu Semakau, Apr 13
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/limnaeiformis/130330cyrd4898m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/limnaeiformis/130330cyrd4898m3.jpg
     caption: Patterned spiralling band on shell. Cyrene Reef, Mar 13
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/limnaeiformis/160606chg1lks2.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/limnaeiformis/160606chg1lks2.JPG
     caption: Changi, Jun 16 Photo shared by Loh Kok Sheng on his blog .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/limnaeiformis/160508kusjt5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/limnaeiformis/160508kusjt5.jpg
     caption: Kusu Island, May 16 Photo shared by Jonathan Tan on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/limnaeiformis/181225kuslks6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/limnaeiformis/181225kuslks6.jpg
     caption: Kusu Island, Dec 18 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/limnaeiformis/130808cyrlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/limnaeiformis/130808cyrlks.JPG
     caption: Cyrene Reef, Aug 13 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/limnaeiformis/140713tsmkmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/limnaeiformis/140713tsmkmn.jpg
     caption: Terumbu Semakau, Jul 14 Photo shared by Marcus Ng on flickr .
 links_references: '**Links**
 

@@ -17,24 +17,24 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/050724bbg0137m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/maze/050724bbg0137m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/050724bbg0137m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/maze/050724bbg0137m3.jpg
     caption: Beting Bronok, Jul 05
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/050724bbg0161m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/maze/050724bbg0161m3.jpg
     caption: Beting Bronok, Jul 05
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/200722lyglks6a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/maze/200722lyglks6a.jpg
     caption: Changi-Loyang, Jul 20 Photo shared by Loh Kok Sheng on facebook .
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/240706ubnlks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/maze/240706ubnlks2.jpg
     caption: Pulau Ubin, Jul 24 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/240706ubnlks5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/maze/240706ubnlks5.jpg
     caption: Pulau Ubin, Jul 24 Photo shared by Loh Kok Sheng on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/240821skdrk2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/maze/240821skdrk2.jpg
     caption: Pulau Sekudu, Aug 24
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/240821skdrk2a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/maze/240821skdrk2a.jpg
     caption: Photo shared by Richard Kuah on facebook .
 links_references: '**Links**
 

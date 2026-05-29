@@ -21,24 +21,24 @@ subclass: Dictyotophycidae
 order: Dictyotales
 tribe: Dictyoteae
 updated: Feb 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/ybranched/100102tkkd7445m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/ybranched/100102tkkd7445m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/ybranched/060128labg4063m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/ybranched/060128labg4063m3b.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/ybranched/060128labg4063m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/ybranched/060128labg4063m3.jpg
     caption: Labrador, Jan 06
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/ybranched/060115sntg3955m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/ybranched/060115sntg3955m3.jpg
     caption: Sentosa, Jan 06
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/ybranched/041018sntd7477m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/ybranched/041018sntd7477m3.jpg
     caption: Sentosa, Oct 04
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/ybranched/110220lazd6297m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/ybranched/110220lazd6297m3.jpg
     caption: Lazarus Island, Feb 11
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/ybranched/091231biod7130m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/ybranched/091231biod7130m3.jpg
     caption: Pulau Biola, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/ybranched/091231biod7130m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/ybranched/091231biod7130m3b.jpg
     caption: ''
 links_references: '**Links**
 
@@ -109,10 +109,10 @@ Strap brown seaweed is eaten by people and used as animal feed, medicine for its
 *D. dichotoma*
 is also used to make beer, frozen food, fruit juices, ice cream, jellies, in meat and flavour sauces, milk shakes, pastries and salad dressings. Extracts from it are also used in industry as emulsifiers, gelling agents, stabilisers.
 
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/ybranched/100102tkkd7445m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/ybranched/100102tkkd7445m3.jpg)
 
 *Pulau Tekukor, Oct 10*
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/ybranched/100102tkkd7445m3a.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/ybranched/100102tkkd7445m3a.jpg)
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 ---

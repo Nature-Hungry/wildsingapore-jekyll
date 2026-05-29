@@ -28,47 +28,47 @@ zoosection: Eubrachyura
 zoosubsection: Thoracotremata
 superfamily: Grapsoidea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/120703chgd6472m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/plagusiidae/plagusia/120703chgd6472m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/120703chgd6472m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/plagusiidae/plagusia/120703chgd6472m3.jpg
     caption: Changi, Jul 12
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/120703chgd6472m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/plagusiidae/plagusia/120703chgd6472m3b.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/120703chgd6472m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/plagusiidae/plagusia/120703chgd6472m3a.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/120802chgd9239m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/plagusiidae/plagusia/120802chgd9239m6l.jpg
     caption: Changi, Aug 12
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/120802chgd9239m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/plagusiidae/plagusia/120802chgd9239m3b.jpg
     caption: Depression between the eyes.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/200722lyglks3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/plagusiidae/plagusia/200722lyglks3.jpg
     caption: Changi-Loyang, Jul 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/251109chgsaflks6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/plagusiidae/plagusia/251109chgsaflks6.jpg
     caption: Changi Creek, Nov 25 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/130721cjlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/plagusiidae/plagusia/130721cjlks.JPG
     caption: Chek Jawa, Jul 13 Photo shared by Loh Kok Sheng on flickr .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/140714ecplks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/plagusiidae/plagusia/140714ecplks.JPG
     caption: East Coast Park, Jul 14 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/210529ecpblks6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/plagusiidae/plagusia/210529ecpblks6.jpg
     caption: East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/170820kusmn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/plagusiidae/plagusia/170820kusmn1.jpg
     caption: Kusu Island, Aug 17 Photo shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/160508kusjt11.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/plagusiidae/plagusia/160508kusjt11.jpg
     caption: Kusu Island, May 16 Photo shared by Jonathan Tan on facebook .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/250810bsismn3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/plagusiidae/plagusia/250810bsismn3a.jpg
     caption: Big Sisters, Aug 25 Photo shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/250810bsismn3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/plagusiidae/plagusia/250810bsismn3.jpg
     caption: ''
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/080802rlhlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/plagusiidae/plagusia/080802rlhlks.JPG
     caption: Raffles Lighthouse, Aug 08 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/161117rlhlks3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/plagusiidae/plagusia/161117rlhlks3.jpg
     caption: Raffles Lighthouse, Nov 16 Photo shared by Loh Kok Sheng on facebook
       .
 links_references: '**Links**

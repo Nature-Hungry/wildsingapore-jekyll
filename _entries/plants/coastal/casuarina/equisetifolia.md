@@ -21,19 +21,19 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Fagales
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/casuarina/equisetifolia/090314smkd8054m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/casuarina/equisetifolia/090314smkd8054m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/casuarina/equisetifolia/090314smkd8048m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/casuarina/equisetifolia/090314smkd8048m3.jpg
     caption: Young fruit. Pulau Semakau, Mar 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/casuarina/equisetifolia/090314smkd8048m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/casuarina/equisetifolia/090314smkd8048m3a.jpg
     caption: Female flowers. Pulau Semakau, Mar 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/casuarina/equisetifolia/090314smkd8060m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/casuarina/equisetifolia/090314smkd8060m3.jpg
     caption: Male flowers. Pulau Semakau, Mar 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/casuarina/equisetifolia/090314smkd8040m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/casuarina/equisetifolia/090314smkd8040m3.jpg
     caption: Pulau Semakau, Mar 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/casuarina/equisetifolia/090314smkd8056m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/casuarina/equisetifolia/090314smkd8056m3.jpg
     caption: Fallen fruit, split open to release seeds. Pulau Semakau, Mar 09
 links_references: '**Links**
 
@@ -121,16 +121,16 @@ The flowers are tiny and wind pollinated. Male and female flowers usually grow o
 **Human uses:**
 According to Burkill, the tree was planted where it was desired to allow the soil to dry, as well as to check erosion and to fix drifting sand. It was also planted in India as firewood. Some consider it the best firewood as it will burn even when green. The timber is stronger than teak but splits much. It is sometimes used for beams and rafters, as well as for masts and other heavy duty uses. The bark is used to treat dysentery and diarrhoea, the twigs to treat swellings. According to Giersen, the heavy hard timber makes excellent firewood and charcoal and is sometimes used as beams. The bark yields a resin that is useful for tanning.
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/casuarina/equisetifolia/090314smkd8054m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/casuarina/equisetifolia/090314smkd8054m6l.jpg)
 
 *Pulau Semakau, Mar 09
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/casuarina/equisetifolia/090809sjid8818m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/casuarina/equisetifolia/090809sjid8818m3.jpg)
 
 Growing on rocky shore.
 
 St. John's Island, Aug 09*
-*![](http://www.wildsingapore.com/wildfacts/plants/coastal/casuarina/equisetifolia/090314smkd8041m3a.jpg)
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/casuarina/equisetifolia/090314smkd8041m3a.jpg)
 
 True leaves reduced to tiny scales.
 

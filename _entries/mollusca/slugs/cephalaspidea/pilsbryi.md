@@ -20,36 +20,36 @@ subterclass: Tectipleura
 order: Cephalaspidea
 superfamily: Philinoidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pilsbryi/080819cyrd9842m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/pilsbryi/080819cyrd9842m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pilsbryi/080819cyrd9842m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/pilsbryi/080819cyrd9842m3.jpg
     caption: Cyrene Reef, Aug 08 Pulau Sekudu, Apr 06
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pilsbryi/081211smkd2798m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/pilsbryi/081211smkd2798m3.jpg
     caption: Pulau Semakau, Dec 08
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pilsbryi/090821chgf3172m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/pilsbryi/090821chgf3172m3.jpg
     caption: East Coast, Aug 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pilsbryi/190801chgmn2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/pilsbryi/190801chgmn2.jpg
     caption: Changi, Aug 19 Photo shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pilsbryi/251207chgmn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/pilsbryi/251207chgmn1.jpg
     caption: Changi, Dec 25 Photo shared by Marcus Ng on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pilsbryi/080607bbcck01m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/pilsbryi/080607bbcck01m3.jpg
     caption: Beting Bronok, Jun 08 Photo shared by Chim Chee Kong on his flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pilsbryi/100614bblks6m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/pilsbryi/100614bblks6m3.jpg
     caption: Beting Bronok, Jun 10 Shared by Loh Kok Sheng on his flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pilsbryi/111028chgelks5m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/pilsbryi/111028chgelks5m3.jpg
     caption: Changi East, Oct 11 Photo shared by Loh Kok Sheng on his blog .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pilsbryi/090918tmlks1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/pilsbryi/090918tmlks1m3.jpg
     caption: Tanah Merah, Sep 09 Shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pilsbryi/130623ecplks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/pilsbryi/130623ecplks.JPG
     caption: East Coast Park, Jun 13 Shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pilsbryi/151031ecpmblks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/pilsbryi/151031ecpmblks.JPG
     caption: East Coast-Marina Bay, Oct 15 Shared by Loh Kok Sheng on flickr .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pilsbryi/120819cyrlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/pilsbryi/120819cyrlks.JPG
     caption: Cyrene Reef, Aug 12 Photo shared by Loh Kok Sheng on flickr .
 links_references: '**Links**
 

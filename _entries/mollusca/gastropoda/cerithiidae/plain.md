@@ -24,28 +24,28 @@ class: Gastropoda
 subclass: Caenogastropoda
 superfamily: Cerithioidea
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/050723labg0078m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/plain/050723labg0078m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/050723labg0078m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/plain/050723labg0078m3.jpg
     caption: Labrador, Jul 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/050723labg0078m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/plain/050723labg0078m3b.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/050723labg0078m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/plain/050723labg0078m3a.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/070204hntg7553m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/plain/070204hntg7553m3c.jpg
     caption: Pulau Hantu, Feb 07
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/080208hntd9447m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/plain/080208hntd9447m3.jpg
     caption: Pulau Hantu, Feb 08
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/080207sisg2290m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/plain/080207sisg2290m3.jpg
     caption: Sisters Island, Feb 08
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/081113jngcck03m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/plain/081113jngcck03m3.jpg
     caption: Pulau Jong, Nov 08 Photo shared by Chim Chee Kong on his flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/250812tbrk3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/plain/250812tbrk3.jpg
     caption: Terumbu Bemban, Aug 25 Photo shared by Richard Kuah on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/250812tbrk3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/plain/250812tbrk3a.jpg
     caption: ''
 location:
 - prp

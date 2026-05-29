@@ -17,28 +17,28 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/111029smkd3045m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letsmooth/111029smkd3045m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/111029smkd3045m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letsmooth/111029smkd3045m3.jpg
     caption: Pulau Semakau, Oct 11
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/050808sntg0876m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letsmooth/050808sntg0876m3.jpg
     caption: Sentosa, Aug 05
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/110802smkd8307m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letsmooth/110802smkd8307m3.jpg
     caption: Pulau Semakau, Aug 11
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/100130brkd8597m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letsmooth/100130brkd8597m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/100130brkd8598m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letsmooth/100130brkd8598m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/100130brkd8600m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letsmooth/100130brkd8600m3a.jpg
     caption: ''
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/091205sudd5575m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letsmooth/091205sudd5575m3.jpg
     caption: Pulau Sudong, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/091205sudd5578m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letsmooth/091205sudd5578m3.jpg
     caption: Pulau Sudong, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/100601slud4730m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letsmooth/100601slud4730m3.jpg
     caption: Pulau Salu, Jun 10
 links_references: '**Links**
 

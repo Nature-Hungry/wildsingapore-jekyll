@@ -1,0 +1,193 @@
+---
+title: 'Black-and-white leathery soft coral '
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: cladiella, alcyoniidae, alcyonacea, leathery, soft, coral, cnidaria, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
+layout: entry
+family: Alcyoniidae
+genus: Cladiella
+species: ''
+attributes: []
+inat_id: 508275
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Octocorallia
+order: Malacalcyonacea
+updated: Dec 2024
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/111127sisd3863m3.jpg
+links_references: "**Links**\n- [*Cladiella*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Cladiella)\n\
+  \  on [Reef\n  Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding)\
+  \ on the [Marine\n  Species Identification Portal](http://species-identification.org/index.php):\
+  \ Technical fact sheet and photos.\n\n**References**\n- Checklist of Cnidaria (non-Sclerectinia)\
+  \ Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas,\
+  \ Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y.\
+  \ Lum, D.C.J. Yeo, May 2024. *The Singapore\n  Red Data Book: Threatened plants\
+  \ and animals of Singapore*.\n  3rd edition. National Parks Board. 663 pp.\n- Y.\
+  \ Benayahu\n  and L. M. Chou, 28 Feb 2010. *On\n  some Octocorallia (Cnidaria: Anthozoa:\
+  \ Alcyonacea) from Singapore,\n  with a description of a new Cladiella species*.\
+  \ The Raffles\n  Bulletin of Zoology 58(1) Pp. 1-13.\n- Fabricius,\n  Katharina\
+  \ and Philip Alderslade, 2001. *Soft\n"
+galleries:
+  gallery1:
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/111127sisd3863m3.jpg
+    caption: Sisters Island, Nov 11
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/111127sisd3862m3a.jpg
+    caption: No siphonozooids, smooth surface between feathery autozooid polyps.
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/111127sisd3862m3b.jpg
+    caption: Polyps are brown with a short body column and 8 branched tentacles.
+  gallery2:
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/120124sisd5997m3.jpg
+    caption: Sisters Island, Jan 12
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/120124sisd5999m3a.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/120124sisd5999m3b.jpg
+    caption: ''
+  gallery3:
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/040522kusad0079m3.jpg
+    caption: Kusu Island, Apr 05
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/100715tbtd9020m3.jpg
+    caption: Terumbu Pempang Tengah, Jul 10
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/070518tkrg9329m3.jpg
+    caption: Pulau Tekukor, May 07
+  gallery4:
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/220618tmftlks19.jpg
+    caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on facebook
+      .
+  gallery5:
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/091231biod7093m3.jpg
+    caption: Pulau Biola, Dec 09
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/100613sngd5539m3.jpg
+    caption: Pulau Senang, Jun 10
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/100810sngd9994m3.jpg
+    caption: Pulau Senang, Aug 10
+  gallery6:
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/060714rlhg6636m3.jpg
+    caption: Raffles Lighthouse, Jul 06
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/091204pawd5341m3.jpg
+    caption: Pulau Pawai, Dec 09
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/091205sudd5605m3.jpg
+    caption: Pulau Pawai, Dec 09
+  gallery7:
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/100130brkd8674m3.jpg
+    caption: Terumbu Berkas, Jan 10
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/100130brkd8673m3b.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/100130brkd8673m3.jpg
+    caption: ''
+  gallery8:
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/100811slud0099m3.jpg
+    caption: Pulau Salu, Aug 10
+  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/100530tbkd4393m3.jpg
+    caption: Pulau Berkas, May 10
+  gallery9:
+  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
+    caption: 'Links Cladiella on Reef Corals of the Indo-Malayan Seas on the Marine
+      Species Identification Portal : Technical fact sheet and photos. References
+      Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
+      Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H.
+      Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024.
+      The Singapore Red Data Book: Threatened plants and animals of Singapore . 3rd
+      edition. National Parks Board. 663 pp. Y. Benayahu and L. M. Chou, 28 Feb 2010.
+      On some Octocorallia (Cnidaria: Anthozoa: Alcyonacea) from Singapore, with a
+      description of a new Cladiella species . The Raffles Bulletin of Zoology 58(1)
+      Pp. 1-13. Fabricius, Katharina and Philip Alderslade, 2001. Soft Corals and
+      Sea Fans . Australian Institute of Marine Science and the Museum and Art Gallery
+      of the Northern Territoriy. 264 pp'
+location:
+- tm
+- lab
+- snt
+- tkr
+- kus
+- laz
+- sji
+- sis
+- cyr
+- jng
+- hnt
+- tpg
+- smk
+- tsm
+- rfl
+- lfa
+size:
+- 10.0
+- 20.0
+---
+
+## Where seen?
+This striking leathery coral is commonly seen on our Southern shores. On coral rubble.
+
+## Features
+
+Colony usually 10-20cm, sometimes much larger. Sometimes several are near one another, these are probably clones. The colony may be encrusting or attached to hard surface by a broad short column. Colony has bumps, blobs or 'fingers' which are generally short and closely packed. The leathery common tissue is smooth to the touch and pale or white, although the central column many be orangey-pink. The common tissue can also contract, for example, finger-like structures can contract into rounded blobs.
+
+Only one kind of polyp (autozooids). It has no siphonozooids. It thus has a smooth surface between the feathery autozooid polyps. The autozooid polyps are tiny (0.5cm or smaller) with a short body column and 8 short branched tentacles. The polyps are brown or greenish due to dense concentrations of zooxanthellae (symbiotic algae), particularly in the branches on the tentacles. When disturbed, the polyps retract rapidly into and reveal the white common tissue. This characteristic instantaneous colour change from brown to white is typical of this species.
+
+Other leathery soft corals in the Family Alcyoniidae that look similar include
+*Sinularia*
+and
+*Klyxum*
+species.
+
+**Status and threats:**
+There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
+
+---
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
+---
+{% include img-wrap-group.html items=page.galleries.gallery3 %}
+
+**ID needs confirmation. Species are difficult to positively identify without close examination.
+
+On this website, they are grouped by external features for convenience of display*
+
+---
+
+**Black-and-white leathery soft corals on Singapore shores**
+
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470%40N00&sort=date-posted-desc&view_all=1&text=Cladiella%20sp.)
+for free download
+- [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/cladiella/map?&fLat=1.2629&fLon=103.8661&zl=11&order_by=recent)
+
+---
+
+**Other sightings on Singapore shores**
+
+---
+{% include img-wrap-group.html items=page.galleries.gallery4 %}
+---
+{% include img-wrap-group.html items=page.galleries.gallery5 %}
+---
+{% include img-wrap-group.html items=page.galleries.gallery6 %}
+---
+{% include img-wrap-group.html items=page.galleries.gallery7 %}
+---
+{% include img-wrap-group.html items=page.galleries.gallery8 %}
+---
+
+***Cladiella*
+species recorded for Singapore**
+
+****
+**
+Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
+
+**[Family Alcyoniidae](alcyoniidae)
+
+Genus
+*Cladiella***
+
+*Cladiella hartogi
+
+Cladiella pachyclados*
+
+---
+{% include img-wrap-group.html items=page.galleries.gallery9 %}

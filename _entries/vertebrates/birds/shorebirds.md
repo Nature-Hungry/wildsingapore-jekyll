@@ -12,24 +12,24 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/birds/shorebirds/070101cjd7242m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/birds/shorebirds/070101cjd7242m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/birds/shorebirds/s221a.gif
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/birds/shorebirds/s221a.gif
     caption: Route a migrating shorebird might take on the East Asian- Australasian
       Flyway
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/birds/shorebirds/110102cjd4583m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/birds/shorebirds/110102cjd4583m3.jpg
     caption: Bird poop on the shore. Chek Jawa, Jan 11
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/birds/shorebirds/110102cjd4580m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/birds/shorebirds/110102cjd4580m6l.jpg
     caption: Seabirds resting on the sand bars. Chek Jawa, Jan 11
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/birds/shorebirds/110102cjd4580m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/birds/shorebirds/110102cjd4580m3a.jpg
     caption: Lesser crested-terns . Chek Jawa, Jan 11
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/birds/shorebirds/070101cjd7228m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/birds/shorebirds/070101cjd7228m6l.jpg
     caption: Pacific golden plovers. Chek Jawa, Jan 07
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/birds/shorebirds/091227kntd6403m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/birds/shorebirds/091227kntd6403m3.jpg
     caption: Grey heron. Kranji Nature Trail, Dec 09
 links_references: "**Links**\n- [Migratory birds: supremely designed for travel](http://wildshores.blogspot.com/2009/09/migratory-birds-supremely-designed-for.html)\n\
   on the wild shores of singapore blog.\n- [Comprehensive guide on Singapore's migratory\
@@ -57,7 +57,7 @@ and
 [sandflats](../../concepts/sandy)
 especially during the migratory season of September to March. These are shorebirds visiting from afar. They are sometimes also called waders as they are often seen wading in water.
 
-*![](http://www.wildsingapore.com/wildfacts/vertebrates/birds/shorebirds/070101cjd7242m6l.jpg)*
+*![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/birds/shorebirds/070101cjd7242m6l.jpg)*
 A group of whimbrels on the shore.
 *Chek Jawa, Jan 07*
 

@@ -23,30 +23,30 @@ infraorder: Corophiida
 parvorder: Caprellidira
 superfamily: Caprelloidea
 updated: Mar 2020
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/050508kusg5881m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/amphipoda/amphipoda/050508kusg5881m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/050508kusg5881m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/amphipoda/amphipoda/050508kusg5881m3.jpg
     caption: Kusu Island, May 05
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/050508kusg5881m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/amphipoda/amphipoda/050508kusg5881m3b.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/050508kusg5881m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/amphipoda/amphipoda/050508kusg5881m3c.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/120506sisd1160m6la.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/amphipoda/amphipoda/120506sisd1160m6la.jpg
     caption: Sisters, May 12
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/120506sisd1161m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/amphipoda/amphipoda/120506sisd1161m3a.jpg
     caption: Sisters, May 12
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/091104sntd3638m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/amphipoda/amphipoda/091104sntd3638m3.jpg
     caption: Sentosa, Nov 09
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/091104sntd3650m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/amphipoda/amphipoda/091104sntd3650m3.jpg
     caption: Sentosa, Nov 09
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/120803chgd9400m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/amphipoda/amphipoda/120803chgd9400m6l.jpg
     caption: Skeleton shrimp on Stinging hydroids . Changi, Aug 12
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/120505sisjk1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/amphipoda/amphipoda/120505sisjk1m3.jpg
     caption: Sisters Island, May 12 Photo shared by James Koh on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/120506sisd1130m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/amphipoda/amphipoda/120506sisd1130m3.jpg
     caption: Sisters, May 12
 links_references: '**Links**
 

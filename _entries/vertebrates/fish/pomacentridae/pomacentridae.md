@@ -17,51 +17,51 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Blenniiformes
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/140713tsmkd7177m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/140713tsmkd7177m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/140713tsmkd7177m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/140713tsmkd7177m3.jpg
     caption: Clown anemonfish in a Magnificent anemone . Terumbu Semakau, Jul 14
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/070531sisg9763m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/070531sisg9763m3.jpg
     caption: Juvenile damselfishes can look very different from the adults. Tanah
       Merah, Nov 10
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/fasciatus/060714rlhg6577m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/fasciatus/060714rlhg6577m3.jpg
     caption: Damselfishes can be abundant on some of our shores! Raffles Lighthouse,
       Jul 06
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/040605kusbd0077m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/040605kusbd0077m3.jpg
     caption: False clown anemonefish
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/frenatus/040829kusg1741m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/frenatus/040829kusg1741m3.jpg
     caption: Tomato anemonefish
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/trimaculatus/110619tslgd4444m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/trimaculatus/110619tslgd4444m3.jpg
     caption: Three-spot dascyllus
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/110601tmnbd3146m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/bengalensis/110601tmnbd3146m3.jpg
     caption: Bengal sergeant
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/sexfasciatus/110602tmftd3507m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/sexfasciatus/110602tmftd3507m3.jpg
     caption: Scissortail sergeant
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/sordidus/080816sisd9504m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/sordidus/080816sisd9504m3.jpg
     caption: Black-spot sergeant
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/fasciatus/060714rlhg6577m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/fasciatus/060714rlhg6577m3a.jpg
     caption: Juvenile
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/fasciatus/120818lazd0172m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/fasciatus/120818lazd0172m3.jpg
     caption: Juvenile.
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/fasciatus/070728sisd4510m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/fasciatus/070728sisd4510m3.jpg
     caption: Juvenile.
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/fasciatus/110601tmnbd3185m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/fasciatus/110601tmnbd3185m3a.jpg
     caption: Adult
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/fasciatus/120804bbbd9432m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/fasciatus/120804bbbd9432m3.jpg
     caption: Adult
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/prosopotaenia/100715tptd8836m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/prosopotaenia/100715tptd8836m3.jpg
     caption: Juvenile
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/080410cyrd0050m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/080410cyrd0050m3.jpg
     caption: Juvenile
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/110602tmftd3572m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/110602tmftd3572m3.jpg
     caption: Juvenile
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/050411tusg4489m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/050411tusg4489m3.jpg
     caption: Adult
 links_references: "**Links**\n- Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.\n*[A\
   \ Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*\n\

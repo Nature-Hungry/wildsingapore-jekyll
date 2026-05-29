@@ -26,75 +26,75 @@ order: Syngnathiformes
 suborder: Syngnathoidei
 subfamily: Syngnathinae
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg
     caption: Often seen in a pair. Tanah Merah, Aug 09
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/070702chgd3169m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/070702chgd3169m6l.jpg
     caption: Changi, Jul 07
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/050511cftg6328m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/050511cftg6328m3.jpg
     caption: Often seen in a pair. Changi, May 05
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/070702chgd3169m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/070702chgd3169m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/070702chgd3169m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/070702chgd3169m3.jpg
     caption: ''
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/031226chgd0047m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/031226chgd0047m6l.jpg
     caption: Small ones are 'hairy'. Changi, Dec 03
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/110603chgd3782m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/110603chgd3782m3.jpg
     caption: 'Very well camouflaged! (Hint: it''s the yellow one) Changi, Jun 11'
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/080702prpd6420m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/080702prpd6420m3.jpg
     caption: Pregnant papa Pasir Ris Park, Jul 08
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/110519chgd2195m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/110519chgd2195m3.jpg
     caption: Very pregnant papa . Changi, May 11
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/090918tmd1051m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/090918tmd1051m3.jpg
     caption: A pair with a pregnant papa. Tanah Merah, Sep 09
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/080607prplksm3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/080607prplksm3.jpg
     caption: Pasir Ris Park, Jun 08 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/100429prptch1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/100429prptch1m3.jpg
     caption: Pasir Ris Park, Apr 10 Photo shared by Toh Chay Hoon on her blog .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/170714prpay2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/170714prpay2.jpg
     caption: Pasir Ris Park, Jul 17 Photo shared by Able Yeo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/180714cjjll1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/180714cjjll1.jpg
     caption: Chek Jawa, Jul 18 Photo shared by Jianlin Liu on facebook .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/100614bbtch7m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/100614bbtch7m3.jpg
     caption: Beting Bronok, Jun 10 Photo shared by Toh Chay Hoon on her blog .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/140713bblks1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/140713bblks1m3.jpg
     caption: Beting Bronok, Jul 14 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/140713bblks2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/140713bblks2m3.jpg
     caption: Beting Bronok, Jul 14 Photo shared by Loh Kok Sheng on his blog .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/180616bblks15.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/180616bblks15.jpg
     caption: Beting Bronok, Jun 18 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/200723bbjll2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/200723bbjll2.jpg
     caption: Beting Bronok, Jul 20 Photo shared by Jianlin Liu on facebook .
   gallery9:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/230704chg1rk4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/230704chg1rk4.jpg
     caption: Changi Carpark 1, Jul 23 Photo shared by Richard Kuah on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/170528chgmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/170528chgmn.jpg
     caption: Changi, May 17 Photo shared by Marcus Ng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/090427chgjk.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/090427chgjk.jpg
     caption: Changi, Apr 09 Photo shared by James Koh on flickr .
   gallery10:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/090607tmjk4m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/090607tmjk4m3.jpg
     caption: Tanah Merah, Jun 09 Photo shared by James Koh on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/090607tmjk5m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/090607tmjk5m3.jpg
     caption: Tanah Merah, Jun 09 Photo shared by James Koh on flickr .
   gallery11:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/130723ecplks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/130723ecplks.JPG
     caption: East Coast Park, Jul 13 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/210530ecpglks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/210530ecpglks1.jpg
     caption: East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook .
   gallery12:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/081215sntik1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/081215sntik1m3.jpg
     caption: Siloso, Dec 08 Photo shared by Ivan Kwan on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/180618srpay1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/180618srpay1.jpg
     caption: Sentosa Serapong, Jun 18 Photo shared by Abel Yeo on facebook .
 links_references: '**Links**
 

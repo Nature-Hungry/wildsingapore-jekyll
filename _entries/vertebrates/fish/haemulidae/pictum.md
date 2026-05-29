@@ -24,20 +24,20 @@ superorder: Acanthomorpha
 order: Acanthuriformes
 subfamily: Plectorhinchinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/pictum/120410chgd9036m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/haemulidae/pictum/120410chgd9036m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/pictum/120410chgd9036m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/haemulidae/pictum/120410chgd9036m3.jpg
     caption: Changi, Apr 12
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/pictum/120410chgd9038m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/haemulidae/pictum/120410chgd9038m6l.jpg
     caption: Juvenile. Changi, Apr 12
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/pictum/161126chgay1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/haemulidae/pictum/161126chgay1.jpg
     caption: Changi, Nov 16 Photo shared by Abel Yeo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/pictum/181027smksmn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/haemulidae/pictum/181027smksmn1.jpg
     caption: Pulau Semakau, Oct 18 Photo shared by Marcus Ng on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/pictum/131104smkmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/haemulidae/pictum/131104smkmn.jpg
     caption: . Pulau Semakau, Nov 13 Photo shared by Marcus Ng on flickr .
 links_references: '**Links**
 

@@ -29,85 +29,85 @@ trivia_items:
 - Please don't feed the anemone or 'rescue' any of its prey
 galleries:
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/050623cjg8256m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/haddoni/050623cjg8256m3.jpg
     caption: Chek Jawa, Jun 05
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/050623cjg8256m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/haddoni/050623cjg8256m3a.jpg
     caption: Verrucae invisible.
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/050623cjg8256m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/haddoni/050623cjg8256m3b.jpg
     caption: Distinctive alternating 'long' and 'short' tentacles at the circumference.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/070324cyrd9315m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/haddoni/070324cyrd9315m3.jpg
     caption: Cyrene, Mar 07
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/070217skdg7655m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/haddoni/070217skdg7655m3.jpg
     caption: Pulau Sekudu, Feb 07
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/050623cjd4123m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/haddoni/050623cjd4123m3.jpg
     caption: Chek Jawa, Jun 05
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddonieat/020228cjd7682m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/haddonieat/020228cjd7682m3.jpg
     caption: Capturing small fishes by folding the oral disk over the prey. Chek Jawa,
       Feb 02
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/050621skdg8007m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/carpet/050621skdg8007m3.jpg
     caption: Tiny anemone shrimps are often found in these anemones. Pulau Sekudu,
       Jun 05
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg
     caption: Peacock-tail anemone shrimps are often found in these anemones. Kusu
       Island, Jul 04
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/020225cjd7259m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/haddoni/020225cjd7259m3.jpg
     caption: Some carpet anemones out on the hot dry sand bar at low tide. Chek Jawa,
       Feb 02
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/020225cjd7429m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/haddoni/020225cjd7429m3.jpg
     caption: They can survive out of water for a short time by shrinking their oral
       disk. Chek Jawa, Feb 02
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/030518cjd0312m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/haddoni/030518cjd0312m3.jpg
     caption: They can also tuck the oral disk into the body column. Chek Jawa, May
       03
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/061108cjd6616.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/haddoni/061108cjd6616.jpg
     caption: An uprooted and upside down anemone which is otherwise healthy. Chek
       Jawa, Nov 06
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/070120cjd7673.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/haddoni/070120cjd7673.jpg
     caption: Bleaching and ballooning due to prolonged extreme fall in salinity. Chek
       Jawa, Jan 07
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/070120cjd7636.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/haddoni/070120cjd7636.jpg
     caption: Bleaching and exploded anemone due to prolonged extreme fall in salinity.
       Chek Jawa, Jan 07
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/201020prpalks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/haddoni/201020prpalks1.jpg
     caption: Pasir Ris-Loyang, Oct 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/080507ecplks06m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/haddoni/080507ecplks06m3.jpg
     caption: East Coast, May 08 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/210115mevc5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/haddoni/210115mevc5.jpg
     caption: East Coast-Marina Bay, Jan 21 Photo shared by Vincent Choo on facebook
       .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/170822lablks7.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/haddoni/170822lablks7.jpg
     caption: Labrador, Aug 17 Photo shared by Loh Kok Sheng on facebook .
   gallery9:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/260104trmlvo7.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/haddoni/260104trmlvo7.jpg
     caption: Sentosa Tg Rimau, Jan 26 Photo shared by Lon Voon Ong on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/150706srplks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/haddoni/150706srplks.JPG
     caption: Sentosa Serapong, Jul 15 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/250714srptt1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/haddoni/250714srptt1.jpg
     caption: Sentosa Serapong, Jul 25 Photo shared by Tommy Tan on facebook .
   gallery10:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/070902sjilks02m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/haddoni/070902sjilks02m3.jpg
     caption: St. John's Island, Sep 07 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/260217bsislks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/haddoni/260217bsislks1.jpg
     caption: Big Sister's Island, Feb 26 Photo shared by Loh Kok Sheng on facebook
       .
   gallery11:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/260201cyrtt2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/haddoni/260201cyrtt2.jpg
     caption: Cyrene, Feb 26 Photo shared by Tommy Tan on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/110423tpllks4m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/haddoni/110423tpllks4m3.jpg
     caption: Terumbu Pempang Laut, Apr 11 Photo shared by Loh Kok Sheng on his blog
       .
   gallery12:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/100810snglks2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/haddoni/100810snglks2m3.jpg
     caption: Pulau Senang, Aug 10 Photo shared by Loh Kok Sheng on his flickr .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/091204pawd0005m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/haddoni/091204pawd0005m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/091204pawd5201m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/haddoni/091204pawd5201m3.jpg
     caption: Pulau Pawai, Dec 09
 links_references: '**Links**
 

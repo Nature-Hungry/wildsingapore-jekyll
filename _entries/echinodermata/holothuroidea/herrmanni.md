@@ -26,30 +26,30 @@ class: Holothuroidea
 subclass: Actinopoda
 order: Synallactida
 updated: Apr 2020
-coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/130824smkd2647m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/herrmanni/130824smkd2647m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/130824smkd2647m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/herrmanni/130824smkd2647m6l.jpg
     caption: Pulau Semakau, Aug 13
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/130824smkd2647m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/herrmanni/130824smkd2647m3.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/130824smkd2651m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/herrmanni/130824smkd2651m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/130824smkd2651m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/herrmanni/130824smkd2651m6l.jpg
     caption: Flat underside with three rows of tube feet.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/080803smkd9014m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/herrmanni/080803smkd9014m6l.jpg
     caption: Pulau Semakau, Aug 08
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/080803smkd9015m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/herrmanni/080803smkd9015m3.jpg
     caption: Tube feet on the underside.
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/081214smkelm3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/herrmanni/081214smkelm3.jpg
     caption: Pulau Semakau, Dec 08 Photo by Yvonne Yeoh courtesy of Eric Leong.
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/170501tsmktch2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/herrmanni/170501tsmktch2.jpg
     caption: Terumbu Semakau, May 17 Photo shared by Toh Chay Hoon on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/170501tsmktch3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/herrmanni/170501tsmktch3.jpg
     caption: ''
 links_references: '**Links**
 

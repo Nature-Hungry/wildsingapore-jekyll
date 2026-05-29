@@ -14,7 +14,7 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Aug 10
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/050529sjid3577m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/cyanobacteria/cyanobacteria/050529sjid3577m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -27,18 +27,18 @@ galleries:
       algae. They include some of the oldest living fossils: those producing stromatolites.
       They are the reason why wild flamingos are pink!'
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/080422smk3d1587m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/cyanobacteria/cyanobacteria/080422smk3d1587m3.jpg
     caption: Pulau Semakau, Apr 08
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/080719sntd7748m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/cyanobacteria/cyanobacteria/080719sntd7748m3.jpg
     caption: Sentosa, Jul 08
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/080207sisd9339m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/cyanobacteria/cyanobacteria/080207sisd9339m3.jpg
     caption: Sisters Island, Feb 08
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/120818lazs02363m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/cyanobacteria/cyanobacteria/120818lazs02363m6l.jpg
     caption: Lazarus Island, Aug 12
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/100612chgd5266m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/cyanobacteria/cyanobacteria/100612chgd5266m3.jpg
     caption: Changi, Jun 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/100613sngd5640m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/cyanobacteria/cyanobacteria/100613sngd5640m3.jpg
     caption: Pulau Senang, Jun 10
 links_references: '**Links**
 
@@ -150,19 +150,19 @@ sp.)
 **Human uses:**
 Some species of cyanobacteria are able to breakdown heavy hydrocarbons and may thus have a practical use in cleaning up oil spills. The nitrogen-fixing properties of cyanobacteria are believed to be important to the fertility of ride padi fields. On the other hand, blooms of cyanobacteria in nutrient rich waters (e.g., polluted by agricultural drainage or sewage) can produce toxins that poison the water.
 
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/050529sjid3577m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/cyanobacteria/cyanobacteria/050529sjid3577m3.jpg)
 
 Hair-like cyanobacteria
 
 *St. John's Island, May 05*
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/061223lazd7071m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/cyanobacteria/cyanobacteria/061223lazd7071m3.jpg)
 
 *Lazarus Island, Dec 06*
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/100813cyrd0515m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/cyanobacteria/cyanobacteria/100813cyrd0515m3.jpg)
 
 Growing among and on seagrasses
 *Cyrene Reef, Aug 10*
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/100813cyrd0515m3a.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/cyanobacteria/cyanobacteria/100813cyrd0515m3a.jpg)
 
 ---
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

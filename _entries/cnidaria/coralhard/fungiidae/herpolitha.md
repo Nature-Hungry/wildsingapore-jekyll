@@ -17,65 +17,65 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/080208hntd9527m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/herpolitha/080208hntd9527m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/080208hntd9527m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/herpolitha/080208hntd9527m3.jpg
     caption: Distinct central furrow. Pulau Hantu, Feb 08
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/080208hntd9529m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/herpolitha/080208hntd9529m3.jpg
     caption: Tiny tentacles
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/080208hntd9529m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/herpolitha/080208hntd9529m3b.jpg
     caption: Many mouths
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/080208hntd9530m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/herpolitha/080208hntd9530m3.jpg
     caption: Underside concave.
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/080208hntd9530m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/herpolitha/080208hntd9530m3a.jpg
     caption: ''
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/040606kusg0472m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/herpolitha/040606kusg0472m3.jpg
     caption: Kusu Island, Jun 04
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/040606kusg0472m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/herpolitha/040606kusg0472m3b.jpg
     caption: Thin overlapping discontinuous walls.
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/040606kusg0472m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/herpolitha/040606kusg0472m3c.jpg
     caption: Tiny tentacles
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/070518tkrd0991m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/herpolitha/070518tkrd0991m3.jpg
     caption: Pulau Tekukor, May 07 Underside
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/110731tryd7891m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/herpolitha/110731tryd7891m3.jpg
     caption: Terumbu Raya, Jun 11
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/060714rlhg6521m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/herpolitha/060714rlhg6521m3.jpg
     caption: Raffles Lighthouse, Jul 06
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/220618tmftvc1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/herpolitha/220618tmftvc1.jpg
     caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Vincent Choo on facebook
       .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/2007024pcnlks17.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/herpolitha/2007024pcnlks17.jpg
     caption: East Coast PCN, Jul 20 Photo shared by Loh Kok Sheng on facebook.
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/240527srplks11.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/herpolitha/240527srplks11.jpg
     caption: Sentosa Serapong, May 24 Photo shared by Loh Kok Sheng on facebook .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/101010scyrlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/herpolitha/101010scyrlks.JPG
     caption: South Cyrene, Oct 10 Photo shared by Loh Kok Sheng on flickr .
   gallery9:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/220202bsislks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/herpolitha/220202bsislks1.jpg
     caption: Big SIsters Island, Feb 22 Photo shared by Loh Kok Sheng on facebook
       .
   gallery10:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/100617tblks2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/herpolitha/100617tblks2m3.jpg
     caption: Terumbu Bemban, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/100629tpdjk18m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/herpolitha/100629tpdjk18m3.jpg
     caption: Terumbu Pempang Darat, Jun 10 Photo shared by James Koh on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/100616tsmlks3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/herpolitha/100616tsmlks3m3.jpg
     caption: Terumbu Semakau, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
   gallery11:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/210428slulks5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/herpolitha/210428slulks5.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
   gallery12:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/100131slulks1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/herpolitha/100131slulks1m3.jpg
     caption: Terumbu Salu, Jan 10 Photo shared by Loh Kok Sheng on his flickr
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/100130brklks14m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/herpolitha/100130brklks14m3.jpg
     caption: Terumbu Berkas, Jan 10 Photo shared by Loh Kok Sheng on his flickr
 links_references: '**Links**
 

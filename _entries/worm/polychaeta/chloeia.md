@@ -18,39 +18,39 @@ subclass: Errantia
 order: Amphinomida
 subfamily: Archinominae
 updated: Jun 2022
-coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/050412tusd2407m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/chloeia/050412tusd2407m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/050412tusd2407m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/chloeia/050412tusd2407m3.jpg
     caption: Chloeia flava swimming Raffles Marina, Apr 04
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/050412tusd2407m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/chloeia/050412tusd2407m3b.jpg
     caption: Tail.
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/050412tusd2407m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/chloeia/050412tusd2407m3a.jpg
     caption: Head.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/080521chgd3725m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/chloeia/080521chgd3725m3.jpg
     caption: Changi, May 08
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/080521chgd3725m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/chloeia/080521chgd3725m3a.jpg
     caption: Washed ashore and attacked by springtails.
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/090428chgd0692.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/chloeia/090428chgd0692.jpg
     caption: Dead one being eaten by a Ghost crab. Changi, Apr 09
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/170723ubnay2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/chloeia/170723ubnay2.jpg
     caption: Pulau Ubin, Jul 17 Photo shared by Abel Yeo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/220617skdlks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/chloeia/220617skdlks2.jpg
     caption: Pulau Sekudu, Jun 22 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/251206chgerqo2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/chloeia/251206chgerqo2.jpg
     caption: Changi East (Lost Coast), Dec 25 Photo shared by Rui Quan Oh on facebook
       .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/151001blyjt1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/chloeia/151001blyjt1m3.jpg
     caption: Berlayar Creek, Oct 15 Photo shared by Johnathan Tan on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/120507srplks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/chloeia/120507srplks.JPG
     caption: Sentosa Serapong, May 12 Photo shared by Loh Kok Sheng on flickr .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/240528tslvc3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/chloeia/240528tslvc3.jpg
     caption: Terumbu Selegie, May 24 Photo shared by Vincent Choo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/160508kusdc1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/chloeia/160508kusdc1.jpg
     caption: Kusu Island, May 16 Photo shared by Dayna Cheah on facebook .
 links_references: '**Links**
 

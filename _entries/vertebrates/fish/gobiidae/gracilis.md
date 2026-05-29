@@ -26,12 +26,12 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Oxudercinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gracilis/130614cjd7195m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/gracilis/130614cjd7195m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gracilis/130614cjd7195m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/gracilis/130614cjd7195m3.jpg
     caption: Chek Jawa, Jun 13
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gracilis/090114labd5309m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/gracilis/090114labd5309m6l.jpg
     caption: Large gap between the first dorsal fin and second dorsal fin Labrador,
       Jan 09
 links_references: '**Links**

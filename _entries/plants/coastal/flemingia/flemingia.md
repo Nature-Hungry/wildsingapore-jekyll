@@ -24,25 +24,25 @@ subfamily: Faboideae
 tribe: Phaseoleae
 subtribe: Cajaninae
 updated: Aug 09
-coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/090531cjd3066m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/flemingia/strobilifera/090531cjd3066m3.jpg
 links_references: "**Links**\n- [*Flemingia\n  strobilifera*](http://www.hear.org/pier/species/flemingia_strobilifera.htm)\n\
   \  on the Pacific Islands Ecosystems at Risk website: fact sheet\n  of this plant\
   \ which is considered an invasic in the Pacific Islands.\n\n**References**\n- Burkill,\n\
   \  I. H., 1993. *[A\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/091128cjd4782m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/flemingia/strobilifera/091128cjd4782m3.jpg
     caption: Chek Jawa, Nov 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/090531cjd3064m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/flemingia/strobilifera/090531cjd3064m3b.jpg
     caption: Chek Jawa, May 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/090531cjd3066m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/flemingia/strobilifera/090531cjd3066m3a.jpg
     caption: Chek Jawa, May 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/100314cjd0003m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/flemingia/strobilifera/100314cjd0003m3.jpg
     caption: Chek Jawa, Mar 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/100314cjd0009m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/flemingia/strobilifera/100314cjd0009m6l.jpg
     caption: Chek Jawa, Mar 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/091128cjd4784m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/flemingia/strobilifera/091128cjd4784m6l.jpg
     caption: Chek Jawa, Nov 09
   gallery3:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -73,13 +73,13 @@ According to Burkill, the leaves are administered after childbirth and used for 
 
 This plant is considered an invasive in some places where it has been introduced.
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/090531cjd3066m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/flemingia/strobilifera/090531cjd3066m3.jpg)
 
 Planted specimen
 
 *Chek Jawa, May 09*
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/090531cjd3069m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/flemingia/strobilifera/090531cjd3069m3.jpg)
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

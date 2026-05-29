@@ -14,16 +14,16 @@ family: Blennidae
 genus: ''
 species: ''
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/oyster/090819ecpd9415m3c.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/oyster/090819ecpd9415m3c.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/oyster/090819ecpd9415m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/oyster/090819ecpd9415m3c.jpg
     caption: East Coast Park, Aug 09
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/oyster/170212bsismn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/oyster/170212bsismn.jpg
     caption: Elongate oyster-blenny (Omobranchus elongatus) Big Sisters Island, Feb
       17 Photo shared by Marcus Ng on facebook .
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/oyster/240212sjivc2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/oyster/240212sjivc2.jpg
     caption: With eggs! St John's Island, Feb 24 Photo shared by Vincent Choo on facebook
       .
 location:

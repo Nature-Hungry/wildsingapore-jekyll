@@ -15,17 +15,17 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadspot/110703cjd5400m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadspot/110703cjd5400m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadspot/110703cjd5400m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadspot/110703cjd5400m3.jpg
     caption: Chek Jawa, Jul 11
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadspot/110621nemsd4642m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadspot/110621nemsd4642m3.jpg
     caption: Kranji, Jun 11
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadspot/110621nemsd4648m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadspot/110621nemsd4648m3a.jpg
     caption: Kranji, Jun 11
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadspot/160125obsll1a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadspot/160125obsll1a.jpg
     caption: Pulau Ubin OBS, Jan 16 Photo shared by Lisa Lim on facebook .
 location:
 - sbw

@@ -24,17 +24,17 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Littorinoidea
 updated: Aug 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/rock/070831sntd6384m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/rock/070831sntd6384m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/rock/070831sntd6384m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/rock/070831sntd6384m3.jpg
     caption: Sentosa, Aug 07
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/rock/101207ubnd3209m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/rock/101207ubnd3209m3.jpg
     caption: Pulau Ubin, Dec 10 East Coast Park, Aug 12
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/rock/120817nsrccd9858m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/rock/120817nsrccd9858m6l.jpg
     caption: East Coast Park, Aug 12
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/rock/160125obsmn10.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/rock/160125obsmn10.jpg
     caption: Pulau Ubin OBS, Jan 16 Photo shared by Marcus Ng on facebook .
 links_references: '**Links**
 

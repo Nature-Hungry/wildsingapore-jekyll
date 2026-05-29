@@ -19,14 +19,14 @@ order: Trochida
 superfamily: Trochoidea
 subfamily: Chrysostomatinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/chrysostoma/130429jngd6410m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/chrysostoma/130429jngd6410m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/chrysostoma/130429jngd6410m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/chrysostoma/130429jngd6410m3.jpg
     caption: Pulau Jong, Apr 13
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/chrysostoma/130429jngd6403m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/chrysostoma/130429jngd6403m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/chrysostoma/130429jngd6428m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/chrysostoma/130429jngd6428m3.jpg
     caption: ''
 links_references: '**Links**
 

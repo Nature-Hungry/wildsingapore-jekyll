@@ -22,19 +22,19 @@ class: Florideophyceae
 subclass: Rhodymeniophycidae
 order: Gigartinales
 updated: Sep 2019
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/solieria/040730skdd3322m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/solieria/040730skdd3322m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/solieria/040730skdd3322m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/solieria/040730skdd3322m3.jpg
     caption: Pulau Sekudu, Jul 04
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/solieria/050621skdd4028m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/solieria/050621skdd4028m3.jpg
     caption: Pulau Sekudu, Jul 05
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/solieria/060326tusd0560m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/solieria/060326tusd0560m3.jpg
     caption: Tuas, Mar 06
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/solieria/190218cnyrk5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/solieria/190218cnyrk5.jpg
     caption: Coney Island, Feb 19 Photo shared by Richard Kuah on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/solieria/100613sngd5508m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/solieria/100613sngd5508m3.jpg
     caption: Pulau Senang, Jun 10
 links_references: '**Links**
 

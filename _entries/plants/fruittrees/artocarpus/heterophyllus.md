@@ -22,7 +22,7 @@ class: Magnoliopsida
 order: Rosales
 tribe: Artocarpeae
 updated: Nov 10
-coverimg: http://www.wildsingapore.com/wildfacts/plants/fruittrees/artocarpus/heterophyllus/091005cjd2013m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/artocarpus/heterophyllus/091005cjd2013m6l.jpg
 links_references: "**Links**\n- [*Artocarpus\n  heterophyllus*](http://floraofsingapore.wordpress.com/2010/04/02/artocarpus-heterophyllus/)\
   \ on Total Vascular Flora of Singapore Online:\n  photos and fact sheet.\n- [Jackfruit\n\
   \  (*Artocarpus heterophyllus*)](http://www.hort.purdue.edu/newcrop/morton/jackfruit_arsl)\
@@ -30,11 +30,11 @@ links_references: "**Links**\n- [*Artocarpus\n  heterophyllus*](http://floraofsi
   - Hsuan Keng,\n  S.C. Chin and H. T. W. Tan. 1990, *[The\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/artocarpus/heterophyllus/091005cjd2016m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/artocarpus/heterophyllus/091005cjd2016m3.jpg
     caption: Pulau Ubin, Oct 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/artocarpus/heterophyllus/091005cjd2015m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/artocarpus/heterophyllus/091005cjd2015m3.jpg
     caption: Pulau Ubin, Oct 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/artocarpus/heterophyllus/091005cjd2013m6la.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/artocarpus/heterophyllus/091005cjd2013m6la.jpg
     caption: Pulau Ubin, Oct 09
   gallery2:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -67,7 +67,7 @@ Tall tree (10-20m). Leaves oval with only a blunt tip and very dark shiny green 
 **Human uses:**
 According to Burkill, the flesh of the fruits can be eaten fresh, or candied, salted as pickles, or sun dried as chips. The starchy seeds are boiled and eaten. The timber is highly valued for house building especially where teak does not grow and is also used for musical instruments and furniture. Due to the yellow colour of the timber, it was used in the palaces of Bali and Macassar, and in Indochina was reserved for sacred buildings. The robes of Buddhist priests are coloured from dyes obtained by boiling the wood. Livestock and wild deer relish the leaves and various parts of the tree were also used in traditional medicine.
 
-![](http://www.wildsingapore.com/wildfacts/plants/fruittrees/artocarpus/heterophyllus/091005cjd2013m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/artocarpus/heterophyllus/091005cjd2013m6l.jpg)
 
 *Pulau Ubin, Oct 09*
 

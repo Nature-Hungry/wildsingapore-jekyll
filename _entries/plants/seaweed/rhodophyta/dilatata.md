@@ -13,31 +13,31 @@ attributes:
 - 97
 - 98
 updated: Jan 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/070506sjig9197m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/dilatata/070506sjig9197m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/070506sjig9197m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/dilatata/070506sjig9197m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/070506sjig9197m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/dilatata/070506sjig9197m3b.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/040507rflbd0071m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/dilatata/040507rflbd0071m3.jpg
     caption: Raffles Lighthouse, May 04
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/100403tbbd0648m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/dilatata/100403tbbd0648m3.jpg
     caption: Beting Bemban Besar, Apr 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/041018sntd7551m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/dilatata/041018sntd7551m3.jpg
     caption: Sentosa, Oct 04
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/091204pawd5402m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/dilatata/091204pawd5402m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/100613sngd5620m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/dilatata/100613sngd5620m3.jpg
     caption: Pulau Senang, Jun 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/100530tbkd4300m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/dilatata/100530tbkd4300m3.jpg
     caption: Pulau Berkas, May 10
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/100601slud4815m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/dilatata/100601slud4815m3.jpg
     caption: Pulau Salu, Jun 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/100601slud4815m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/dilatata/100601slud4815m3a.jpg
     caption: ''
 links_references: '**Links**
 
@@ -106,7 +106,7 @@ Like a little petticoat, this large prettily ruffled seaweed is commonly seen ou
 
 Clumps of several sheets up to 10-20cm across, translucent flexible (not stiff) slippery and slimy. Edges smooth (not feathery) often in regular ruffles. Each clump can be quite large but the clumps are scattered. Surface may be plain or have large paler blotches or mottles. Colours red, maroon, brownish-orange.
 
-*![](http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/070506sjig9197m3.jpg)
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/dilatata/070506sjig9197m3.jpg)
 
 St. John's Island, May 07*
 

@@ -22,25 +22,25 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/100527tmd3446m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/siganidae/guttatus/100527tmd3446m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/100527tmd3446m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/siganidae/guttatus/100527tmd3446m3.jpg
     caption: Tanah Merah, May 10
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/020811cjd492m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/siganidae/guttatus/020811cjd492m6l.jpg
     caption: Large golden spot near the tail. Chek Jawa, Aug 02
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/220811pglky2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/siganidae/guttatus/220811pglky2.jpg
     caption: Punggol, Aug 22 Photo shared by Kelvin Yong on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/230608tmftky3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/siganidae/guttatus/230608tmftky3.jpg
     caption: Tanah Merah, Jun 23 Photo shared by Kelvin Yong on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/130527tmlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/siganidae/guttatus/130527tmlks.JPG
     caption: Tanah Merah, May 13 Photo shared by Loh Kok Sheng on flickr .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/240624sjiky5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/siganidae/guttatus/240624sjiky5.jpg
     caption: St John's Island, Jun 24 Photo shared by Kelvin Yong on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/170820kusmn2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/siganidae/guttatus/170820kusmn2.jpg
     caption: Kusu Island, Aug 17 Photo shared by Marcus Ng on facebook .
 links_references: '**Links**
 

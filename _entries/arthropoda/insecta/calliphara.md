@@ -23,20 +23,20 @@ superfamily: Pentatomoidea
 subfamily: Scutellerinae
 tribe: Scutellerini
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/insecta/calliphara/030823sbwrcd0018m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/insecta/calliphara/030823sbwrcd0018m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/insecta/calliphara/030823sbwrcd0018m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/insecta/calliphara/030823sbwrcd0018m3.jpg
     caption: Adult. Sungei Buloh Wetland Reserve, Aug 03
-  - url: http://www.wildsingapore.com/wildfacts/insecta/calliphara/040110sbwrd0045m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/insecta/calliphara/040110sbwrd0045m3.jpg
     caption: Juvenile. Sungei Buloh Wetland Reserve, Jan 04
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/insecta/calliphara/030531sbwrd0020m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/insecta/calliphara/030531sbwrd0020m3.jpg
     caption: A group of adults. Sungei Buloh Wetland Reserve, May 03
-  - url: http://www.wildsingapore.com/wildfacts/insecta/calliphara/040108ubnd0013m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/insecta/calliphara/040108ubnd0013m3a.jpg
     caption: Juveniles on Buta buta fruits. Pulau Ubin, Jan 04
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/insecta/calliphara/251231prprqo5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/insecta/calliphara/251231prprqo5.jpg
     caption: Pasir Ris Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
 links_references: '**Links**
 

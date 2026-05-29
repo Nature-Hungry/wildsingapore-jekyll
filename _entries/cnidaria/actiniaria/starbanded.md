@@ -15,26 +15,26 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/091205sudd5446m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/starbanded/091205sudd5446m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/091205sudd5446m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/starbanded/091205sudd5446m3.jpg
     caption: Pulau Sudong, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/091107hntd3965m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/starbanded/091107hntd3965m3.jpg
     caption: Pulau Hantu, Nov 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/110607hntlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/starbanded/110607hntlks.JPG
     caption: Pulau Hantu, Jun 11 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/110607hntlks1.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/starbanded/110607hntlks1.JPG
     caption: Pulau Hantu, Jun 11 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/110103sjilks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/starbanded/110103sjilks.JPG
     caption: St. John's Island, Feb 11 Photo shared by Loh Kok Sheng on flickr.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/100813smknml3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/starbanded/100813smknml3m3.jpg
     caption: Pulau Semakau, Aug 10 Photo shared by Neo Mei Lin on her blog .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/110717tbjk4m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/starbanded/110717tbjk4m3.jpg
     caption: Terumbu Bemban, Jul 11 Photo shared by James Koh on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/110422tpljk5m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/starbanded/110422tpljk5m3.jpg
     caption: Terumbu Pempang Laut, Apr 11 Photo shared by James Koh on his blog .
 location:
 - sji

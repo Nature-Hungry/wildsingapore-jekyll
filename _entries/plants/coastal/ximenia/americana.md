@@ -21,7 +21,7 @@ class: Magnoliopsida
 order: Santalales
 inat_id: 83832
 updated: Jan 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/ximenia/americana/090412hntd9842m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/ximenia/americana/090412hntd9842m6l.jpg
 links_references: "**Links**\n- *[Ximenia\n  americana](http://floraofsingapore.wordpress.com/2010/06/20/ximenia-americana/)*\
   \ on Total Vascular Flora of Singapore Online:\n  photos and fact sheet.\n- *[Ximenia\n\
   \  americana](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2562)*\
@@ -32,11 +32,11 @@ links_references: "**Links**\n- *[Ximenia\n  americana](http://floraofsingapore.
   \ of the\n  United Nations Regional Office for Asia and the Pacific Bangkok.\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/ximenia/americana/041214smkd8818m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/ximenia/americana/041214smkd8818m3b.jpg
     caption: Pulau Semakau, Dec 04
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/ximenia/americana/041214smkd8818m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/ximenia/americana/041214smkd8818m3.jpg
     caption: Pulau Semakau, Dec 04
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/ximenia/americana/090704ubnd6341m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/ximenia/americana/090704ubnd6341m3.jpg
     caption: Fallen fruits on the shore. Pulau Ubin, Jul 09
   gallery2:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -76,11 +76,11 @@ Fruits oval (2-2.5cm) thin-skinned, green ripening yellow to orange with firm gr
 **Human uses:**
 According to Burkill, the sour fruits are eaten fresh or pickled. They are also used as a substitute for lemon with fish. The seed is oily and the oil is used in cooking in southern India. The nuts are eaten but have a strong purgative effect so ony a few can be taken at a time; "many cause deleterious effects". The crushed leaves smell of bitter almonds and are sometimes used as flavouring by the Dutch who lived in the tropics. The pounded roots are used to treat colic, in Africa the pounded bark is used treat sores on animals and used to keep insects away. The hard, heavy timber is pleasantly scented when freshly cut and is thus sometimes powdered and used as a substitute for sandalwood in India.
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/ximenia/americana/090412hntd9842m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/ximenia/americana/090412hntd9842m6l.jpg)
 
 *Pulau Hantu, Apr 09
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/ximenia/americana/041214smkd8821m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/ximenia/americana/041214smkd8821m3.jpg)
 
 *Pulau Semakau, Dec 04**
 

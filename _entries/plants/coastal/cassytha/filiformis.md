@@ -21,7 +21,7 @@ class: Magnoliopsida
 order: Laurales
 inat_id: 160172
 updated: Jan 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/cassytha/filiformis/110220lazd6172m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cassytha/filiformis/110220lazd6172m6l.jpg
 links_references: "**Links**\n- *[Cassytha\n  filiformis](http://floraofsingapore.wordpress.com/2011/06/22/cassytha-filiformis/)*\n\
   \  on Total Vascular Flora of Singapore Online: photos and fact sheet.\n- *[Cassytha\n\
   \  filiformis](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=1363)*\n\
@@ -36,11 +36,11 @@ links_references: "**Links**\n- *[Cassytha\n  filiformis](http://floraofsingapor
   **References**\n- Hsuan Keng,\n  S.C. Chin and H. T. W. Tan. 1990, *[The\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/cassytha/filiformis/081206smkd2679m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cassytha/filiformis/081206smkd2679m3a.jpg
     caption: Tiny flowers on short stalk. Pulau Semakau, Dec 08
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/cassytha/filiformis/090405smkd8982m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cassytha/filiformis/090405smkd8982m3.jpg
     caption: Small globular berries. Pulau Semakau, Apr 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/cassytha/filiformis/090412hntd9877m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cassytha/filiformis/090412hntd9877m3.jpg
     caption: Pulau Hantu, Apr 09
   gallery2:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -78,7 +78,7 @@ seems to prefer woody hosts and so tends to drape on taller shrubs and trees.
 **Human uses:**
 According to Burkill, the dried, powdered stems are used in hair tonic. While it may not do any good, the use is possibly because the plant is hair-like and luxuriant. In India, it is used in cleaning ulcers and in an eye-wash. In Java, the pounded stems are used for intestinal ailments. According to Giersen, the plant is sometimes cultivated for its medicinal uses in parts of Indonesia.
 
-*![](http://www.wildsingapore.com/wildfacts/plants/coastal/cassytha/filiformis/110220lazd6172m6l.jpg)
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cassytha/filiformis/110220lazd6172m6l.jpg)
 
 Lazarus Island, Feb 11*
 

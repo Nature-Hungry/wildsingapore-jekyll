@@ -21,7 +21,7 @@ class: Magnoliopsida
 order: Caryophyllales
 inat_id: 123555
 updated: Jan 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/nepenthes/rafflesiana/090609sntd3596m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/nepenthes/rafflesiana/090609sntd3596m6l.jpg
 links_references: "**Links**\n- [*Nepenthes\n  rafflesiana*](http://uforest.org/Species/N/Nepenthes_rafflesiana.html)\
   \ on Urban Forest: phoots and fact sheet.\n- [*Nepenthes\n  rafflesiana*](http://floraofsingapore.wordpress.com/2010/11/08/nepenthes-rafflesiana/)\
   \ on Total Vascular Flora of Singapore Online:\n  photos and fact sheet.\n- [*Nepenthes\n\
@@ -34,11 +34,11 @@ links_references: "**Links**\n- [*Nepenthes\n  rafflesiana*](http://uforest.org/
   \ Tan.1998, *[The\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/nepenthes/rafflesiana/070408sntg8586m3e.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/nepenthes/rafflesiana/070408sntg8586m3e.jpg
     caption: Female flowers. Sentosa, Apr 04
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/nepenthes/rafflesiana/101223sntd3927m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/nepenthes/rafflesiana/101223sntd3927m6l.jpg
     caption: Male flowers. Sentosa, Dec 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/nepenthes/rafflesiana/090809sjid8806m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/nepenthes/rafflesiana/090809sjid8806m3.jpg
     caption: Ripe capsules split, releasing thread-like seeds.. St John's Island,
       Aug 09
   gallery2:
@@ -93,10 +93,10 @@ According to Burkill, the tough stems of pitcher plants (species not specified) 
 **Status and threats:**
 The plant is listed as 'Vulnerable' in the Red List of threatened plants of Singapore.
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/nepenthes/rafflesiana/090609sntd3596m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/nepenthes/rafflesiana/090609sntd3596m6l.jpg)
 
 *Sentosa, Jun 09*
-*![](http://www.wildsingapore.com/wildfacts/plants/coastal/nepenthes/rafflesiana/090809sjid8810m6l.jpg)*
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/nepenthes/rafflesiana/090809sjid8810m6l.jpg)*
 Leaf modified into a pitcher.
 *Sentosa, Aug 09*
 **

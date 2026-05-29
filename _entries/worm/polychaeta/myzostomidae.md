@@ -15,24 +15,24 @@ kingdom: Animalia
 phylum: Annelida
 order: Myzostomida
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/myzostomidae/120820sisd0867m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/myzostomidae/120820sisd0867m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/myzostomidae/120606bbjk.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/myzostomidae/120606bbjk.JPG
     caption: Beting Bronok, Jun 12 Photo shared by James Koh on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/myzostomidae/171104chg1lks.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/myzostomidae/171104chg1lks.jpg
     caption: Changi, Nov 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/myzostomidae/201117chg7lks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/myzostomidae/201117chg7lks1.jpg
     caption: Changi, Nov 20 Photo shared by Loh Kok Sheng on facebook .
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/myzostomidae/100103sislks5m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/myzostomidae/100103sislks5m3.jpg
     caption: Sisters Island, Jan 10 Photo shared by Loh Kok Sheng on his flickr
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/myzostomidae/100102sislks1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/myzostomidae/100102sislks1m3.jpg
     caption: Sisters Island, Jan 10 Photo shared by Loh Kok Sheng on his flickr
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/myzostomidae/100102sisjk1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/myzostomidae/100102sisjk1m3.jpg
     caption: Sisters Island, Jan 10 Photo shared by James Koh on his flickr
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/myzostomidae/210428slulks4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/myzostomidae/210428slulks4.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
 location:
 - chg
@@ -60,10 +60,10 @@ About 1cm long. These worms are usually flat and broad with tiny 'feet' which ca
 **What do they eat?**
 They are considered to be parasites on the feather star host.
 
-**![](http://www.wildsingapore.com/wildfacts/worm/polychaeta/myzostomidae/120820sisd0867m3.jpg)*
+**![](https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/myzostomidae/120820sisd0867m3.jpg)*
 *Sisters Island, Aug 12**
 
-*![](http://www.wildsingapore.com/wildfacts/worm/polychaeta/myzostomidae/120820sisd0906m3.jpg)*
+*![](https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/myzostomidae/120820sisd0906m3.jpg)*
 *Sisters Island, Aug 12*
 
 ---

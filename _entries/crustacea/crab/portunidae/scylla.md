@@ -31,38 +31,38 @@ zoosubsection: Heterotremata
 superfamily: Portunoidea
 subfamily: Necronectinae
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/scylla/090110cjd4818m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/scylla/090110cjd4818m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/scylla/090110cjd4818m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/scylla/090110cjd4818m3.jpg
     caption: Chek Jawa, Nov 09
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/scylla/090110cjd4818m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/scylla/090110cjd4818m3b.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/scylla/090110cjd4836m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/scylla/090110cjd4836m3.jpg
     caption: It is better known as Chilli crab!
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/scylla/070716chgd4233m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/scylla/070716chgd4233m3.jpg
     caption: Changi, Jul 07
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/scylla/101013tmftd2410m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/scylla/101013tmftd2410m3.jpg
     caption: Tanah Merah, Oct 10
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/scylla/111128sntd4168m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/scylla/111128sntd4168m3.jpg
     caption: Sentosa, Nov 11
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/scylla/201020swgvc7.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/scylla/201020swgvc7.jpg
     caption: Sembawang, Oct 20 Photo shared by Vincent Choo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/scylla/120604pgllks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/scylla/120604pgllks.JPG
     caption: Punggol, Jun 12 Photo shared by Loh Kok Sheng on flickr .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/scylla/081107prplks01m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/scylla/081107prplks01m3.JPG
     caption: Pasir Ris Park, Nov 08 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/scylla/140613skdmn1m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/scylla/140613skdmn1m6l.jpg
     caption: Pulau Sekudu, Jun 14 Photo shared by Marcus Ng on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/scylla/100528tkkgl1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/scylla/100528tkkgl1m3.jpg
     caption: Pulau Tekukor, May 10 Photo shared byGeraldin Lee on her blog .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/scylla/081227smkmc01m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/scylla/081227smkmc01m3.jpg
     caption: Pulau Semakau, Dec 08 Photo shared by Marcus Ng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/scylla/091204pawd0064m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/scylla/091204pawd0064m3.jpg
     caption: Pulau Pawai, Dec 09
 links_references: '**Links**
 

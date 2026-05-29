@@ -18,7 +18,7 @@ superorder: Acanthomorpha
 order: Syngnathiformes
 suborder: Syngnathoidei
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -31,20 +31,20 @@ galleries:
       for the traditional medicine trade. They are hard to spot and can't move fast.
       Watch your step or you might step on one!
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg
     caption: Often seen in a pair. Flexible tail used to hang onto objects. Tanah
       Merah, Aug 09
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/080523cyrd3895m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/biaculeatus/080523cyrd3895m3c.jpg
     caption: The Alligator pipefish also has a rehensile tail. Cyrene Reef, May 08
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/070702chgd3169m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/070702chgd3169m3.jpg
     caption: Mobile eyes can move while the body remains still. Toothless jaws used
       like a straw. Changi, Jul 07
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/120312siss04823m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/comes/120312siss04823m3.jpg
     caption: Very pregnant seahorse papa. Sisters Island, Mar 12
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/060724chgg4880m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/060724chgg4880m3.jpg
     caption: Some seahorses are tiny! Watch your step! Changi, Jul 06
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/seagrass/130624chg7d8080m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/seagrass/130624chg7d8080m3.jpg
     caption: Very pregnant piepfish papa. Changi, Jun 13
 links_references: '**Links**
 

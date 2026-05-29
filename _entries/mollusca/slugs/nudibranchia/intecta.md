@@ -28,54 +28,54 @@ suborder: Doridina
 infraorder: Doridoidei
 superfamily: Doridoidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/050721cjg9778m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/intecta/050721cjg9778m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/050721cjg9778m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/intecta/050721cjg9778m6l.jpg
     caption: . Chek Jawa, Jul 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/050721cjg9799m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/intecta/050721cjg9799m3.jpg
     caption: Smooth foot on the underside
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/041018sntd7546m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/intecta/041018sntd7546m3.jpg
     caption: . Tiny one about 1cm long. Sentosa, Oct 04
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/210528lygjll3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/intecta/210528lygjll3.jpg
     caption: Changi Loyang, May 21 Photo shared by Jianlin Liu on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/181226chgay3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/intecta/181226chgay3.jpg
     caption: Changi, Dec 18 Photo shared by Abel Yeo on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/101009cjnml2m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/intecta/101009cjnml2m3a.jpg
     caption: Chek Jawa, Oct 10 Photo shared by Neo Mei Lin on her blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/090720skdmn1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/intecta/090720skdmn1m3.jpg
     caption: Pulau Sekudu, Jul 09 Photo shared by Marcus Ng on his flickr .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/090806tmjk6m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/intecta/090806tmjk6m3.jpg
     caption: Tanah Merah, Jul 09
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/090806tmjk6m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/intecta/090806tmjk6m3a.jpg
     caption: Photo shared by James Koh on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/180106sntay2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/intecta/180106sntay2.jpg
     caption: Sentosa Tg. Rimau, Jan 18 Photo shared by Abel Yeo on facebook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/210530epcnvc3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/intecta/210530epcnvc3.jpg
     caption: East Coast (PCN), May 21 Photo shared by Vincent Choo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/211106sntjll1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/intecta/211106sntjll1.jpg
     caption: Sentosa Tg Rimau, Nov 21 Photo shared by Jianlin Liu on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/220419sjijll5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/intecta/220419sjijll5.jpg
     caption: St. John's Island, Apr 22 Photo shared by Jianlin Liu on facebook .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/100725hnttch3m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/intecta/100725hnttch3m6l.jpg
     caption: Pulau Hantu, Sep 10 Photo shared by Toh Chay Hoon on her blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/240410cyrtl1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/intecta/240410cyrtl1.jpg
     caption: Cyrene, Apr 24 Photo shared by Tammy Lim on facebook .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/080210smktch01m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/intecta/080210smktch01m3.jpg
     caption: Pulau Semakau, Feb 08 Photo shared by Toh Chay Hoon on her flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/080210smktch01m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/intecta/080210smktch01m3b.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/080210smktch01m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/intecta/080210smktch01m3a.jpg
     caption: ''
   gallery9:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/250515tpttl3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/intecta/250515tpttl3.jpg
     caption: Terumbu Pempang Tengah, May 25 Photo shared by Tammy Lim on facebook
       .
 links_references: '**Links**

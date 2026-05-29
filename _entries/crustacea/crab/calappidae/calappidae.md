@@ -25,19 +25,19 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Calappoidea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1243m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/hepatica/100417hntd1243m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1243m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/hepatica/100417hntd1243m3.jpg
     caption: Pulau Hantu, Apr 10
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1255m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/hepatica/100417hntd1255m3.jpg
     caption: Underside
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1255m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/hepatica/100417hntd1255m3b.jpg
     caption: Two different kinds of pincers.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1243m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/hepatica/100417hntd1243m3.jpg
     caption: Reef box crab
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/060529cftd2530m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/philargius/060529cftd2530m3.jpg
     caption: Spotted box crab
 location:
 - tm

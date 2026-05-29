@@ -24,14 +24,14 @@ class: Gastropoda
 subclass: Caenogastropoda
 superfamily: Cerithioidea
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/cingulata/070505kusg9136m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/cingulata/070505kusg9136m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/cingulata/070505kusg9136m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/cingulata/070505kusg9136m3.jpg
     caption: Kusu Island, May 07
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/cingulata/070505kusg9136m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/cingulata/070505kusg9136m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/cingulata/070505kusg9136m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/cingulata/070505kusg9136m3b.jpg
     caption: Flared shell opening with spout-like tip.
 links_references: '**Links**
 

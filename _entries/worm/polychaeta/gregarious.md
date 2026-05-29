@@ -12,14 +12,14 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/gregarious/120111chgs01917m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/gregarious/120111chgs01917m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/gregarious/120111chgs01917m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/gregarious/120111chgs01917m3.jpg
     caption: Cyrene Reef, Mar 07
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/gregarious/080608cyrd5403m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/gregarious/080608cyrd5403m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/gregarious/060114cjg3823m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/gregarious/060114cjg3823m3a.jpg
     caption: Chek Jawa, Jan 06
 location:
 - chg

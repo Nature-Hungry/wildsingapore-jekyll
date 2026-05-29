@@ -19,26 +19,26 @@ order: Neogastropoda
 superfamily: Mitroidea
 subfamily: Cylindromitrinae
 updated: Oct 2019
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/mitridae/undulosa/120801chgd8977m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/mitridae/undulosa/120801chgd8977m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/mitridae/undulosa/120801chgd8977m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/mitridae/undulosa/120801chgd8977m3.jpg
     caption: Changi, Aug 12
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/mitridae/undulosa/120801chgd8977m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/mitridae/undulosa/120801chgd8977m3a.jpg
     caption: Changi, Aug 12
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/mitridae/undulosa/120801chgd8870m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/mitridae/undulosa/120801chgd8870m3.jpg
     caption: One big one with two smaller ones. Mating? Changi, Aug 12
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/mitridae/undulosa/150901chg7d0134m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/mitridae/undulosa/150901chg7d0134m3.jpg
     caption: Changi, Sep 15
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/mitridae/undulosa/150901chg7d0133m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/mitridae/undulosa/150901chg7d0133m3.jpg
     caption: Egg capsules laid on a Window-pane shell. Changi, Sep 15
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/mitridae/undulosa/150901chg7d0123m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/mitridae/undulosa/150901chg7d0123m3.jpg
     caption: Laying egg capsules on a dead bivalve shell. Changi, Sep 15
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/mitridae/undulosa/160507cjik1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/mitridae/undulosa/160507cjik1.jpg
     caption: Chek Jawa, May 16 Photo shared by Ivan Kwan on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/mitridae/undulosa/171204chglks6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/mitridae/undulosa/171204chglks6.jpg
     caption: Changi, Dec 17 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 

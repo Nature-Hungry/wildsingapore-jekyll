@@ -18,15 +18,15 @@ infraclass: Pteriomorphia
 order: Ostreida
 superfamily: Pterioidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/vulsella/120511tpld3152m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/vulsella/120511tpld3152m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/vulsella/120511tpld3152m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/vulsella/120511tpld3152m3.jpg
     caption: Embedded in a Yellow prickly branching sponge . Terumbu Pempang Laut,
       May 12
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/vulsella/120511tpld3152m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/vulsella/120511tpld3152m3a.jpg
     caption: A slit in the sponge is the only sign of the clam.
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/vulsella/111225tmskd4863m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/vulsella/111225tmskd4863m3.jpg
     caption: Embedded in a Black bath sponge . Terumbu Semakau, Dec 11
 location:
 - chg

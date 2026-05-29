@@ -19,47 +19,47 @@ order: Squamata
 suborder: Serpentes
 subfamily: Laticaudinae
 updated: Oct 2019
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/090509sismn1m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/laticauda/090509sismn1m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/090509sismn1m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/laticauda/090509sismn1m6l.jpg
     caption: Sisters Island, May 09 Photo shared by Marcus Ng on his flickr .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/031029sntcd0003m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/laticauda/031029sntcd0003m3.jpg
     caption: It has a paddle-shaped tail. Sentosa, Oct 03
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/031124sised0009m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/laticauda/031124sised0009m3b.jpg
     caption: Head and tail can look similar at first glance. Sisters Island, Nov 03
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/031224sised0020m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/laticauda/031224sised0020m3.jpg
     caption: Like other snakes, it sticks out its tongue to sense its surroundings
       Sisters Island, Dec 03
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/050918smkg2666m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/laticauda/050918smkg2666m3.jpg
     caption: These snakes are curious but will not bite if not provoked (that's my
       bootie!) Pulau Semakau, Sep 05
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/240820kusmn3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/laticauda/240820kusmn3.jpg
     caption: Kusu Island, Aug 24 Photo shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/240114kusky1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/laticauda/240114kusky1.jpg
     caption: Kusu Island, Jan 24 About 40-45cm long. Photo shared by Kelvin Yong on
       facebook . Kusu Island, Apr 17 Photos shared by Toh Chay Hoon on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/120505sisgl2m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/laticauda/120505sisgl2m6l.jpg
     caption: Sisters Island, May 12 Photos shared by Geraldine Lee on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/110123sislt1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/laticauda/110123sislt1m3.jpg
     caption: Sisters Island, Jan 11 Photo shared by LIana Tang on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/260103bsisrqo1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/laticauda/260103bsisrqo1.jpg
     caption: Big Sisters Island, Jan 26 Photo shared by Rui Quan Oh on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/110204sislks1m6l.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/laticauda/110204sislks1m6l.JPG
     caption: Sisters Island, Feb 11 Photo shared by Loh Kok Sheng on his blog .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/240624sjiky6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/laticauda/240624sjiky6.jpg
     caption: St. John's Island, Jun 24 Photos shared by Kelvin Yong on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/201115tkklks6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/laticauda/201115tkklks6.jpg
     caption: Pulau Tekukor, Nov 20 Photo shared by Loh Kok Sheng on facebook .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/100601slujk.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/laticauda/100601slujk.JPG
     caption: Pulau Salu, Jun 10 Photo shared by James Koh on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/140617tblks1m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/laticauda/140617tblks1m3.JPG
     caption: Terumbu Benban, Jun 14 Photos shared by Loh Kok Sheng on his blog .
 links_references: '**Links**
 

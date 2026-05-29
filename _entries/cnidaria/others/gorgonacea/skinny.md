@@ -17,31 +17,31 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/060613ecpd3053m3b.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/skinny/060613ecpd3053m3b.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/060613ecpd3053m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/skinny/060613ecpd3053m3b.jpg
     caption: East Coast, Jun 06
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/100727chgd9283m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/skinny/100727chgd9283m3.jpg
     caption: Changi, Jul 09
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/050722cjg9842m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/skinny/050722cjg9842m3b.jpg
     caption: Chek Jawa, Jul 05
   gallery2:
   - url: http://www.wildsingapore.com/echinodermata/ophiuroidea/tinycolourful/120605lygd4160m3a.jpg
     caption: Tiny colourful brittle stars . Changi, Jun 12
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/081214ecmd3212m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/skinny/081214ecmd3212m3.jpg
     caption: Red flatworm ? East Coast, Dec 08
   - url: http://www.wildsingapore.com/mollusca/gastropoda/ovulidae/red/060626ecpd3582m3.jpg
     caption: Ovulid snails East Coast, Jun 06
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/091218tmlks2m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/skinny/091218tmlks2m3.JPG
     caption: Tanah Merah, Dec 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/150618tmftlks7m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/skinny/150618tmftlks7m3.jpg
     caption: Tanah Merah Ferry Terminal, Jun 15 Photo shared by Loh Kok Sheng on facebook.
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/090723ecplks5m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/skinny/090723ecplks5m3.jpg
     caption: East Coast Park, Jul 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/170428ecpcnlks5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/skinny/170428ecpcnlks5.jpg
     caption: East Coast PCN, Apr 17 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 

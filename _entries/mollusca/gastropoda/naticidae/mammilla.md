@@ -19,55 +19,55 @@ order: Littorinimorpha
 superfamily: Naticoidea
 subfamily: Polinicinae
 updated: Aug 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/050611kusg7839m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammilla/050611kusg7839m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/050611kusg7839m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammilla/050611kusg7839m3.jpg
     caption: Kusu Island, May 06
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/050611kusg7838m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammilla/050611kusg7838m3.jpg
     caption: Kusu Island, May 06
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/170812cyrmn2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammilla/170812cyrmn2.jpg
     caption: Cyrene, Aug 17 Photo shared by Marcus Ng on flickr .
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/200726tpl.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammilla/200726tpl.jpg
     caption: Typical trail created when it burrows just beneath the surface. Terumbu
       Pempang Laut, Jul 20
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/090806tmd8343m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammilla/090806tmd8343m3.jpg
     caption: Tanah Merah, Aug 09
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/090609sntd3550m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammilla/090609sntd3550m3.jpg
     caption: Sentosa, Jun 09
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/090609sntd3548m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammilla/090609sntd3548m3.jpg
     caption: Sentosa, Jun 09
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/100302ecplks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammilla/100302ecplks.JPG
     caption: East Coast Park, Mar 10 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/200311blylks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammilla/200311blylks2.jpg
     caption: Berlayar Creek, Mar 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/201116lazlks5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammilla/201116lazlks5.jpg
     caption: Lazarus Island, Nov 20 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/252531thntrk4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammilla/252531thntrk4.jpg
     caption: Terumbu Hantu, May 25 Photo shared by Richard Kuah on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/150718smkelks6m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammilla/150718smkelks6m3.jpg
     caption: Pulau Semakau East, Jul 15 Photo shared by Loh Kok Sheng on facebook
       .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/190902tryky3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammilla/190902tryky3.jpg
     caption: Terumbu Raya, Sep 19 Photo shared by Kelvin Yong on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/151225tsmkjtm1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammilla/151225tsmkjtm1m3.jpg
     caption: Terumbu Semakau, Dec 15 Photo shared by Juria Toramae on facebook .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/201018smkslks4a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammilla/201018smkslks4a.jpg
     caption: Pulau Semakau South, Oct 20 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/201018smksvc3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammilla/201018smksvc3a.jpg
     caption: Pulau Semakau South, Oct 20 Photo shared by Vincent Choo on facebook
       .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/220102biotch8.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammilla/220102biotch8.jpg
     caption: Pulau Biola, Jan 22 Photo shared by Toh Chay Hoon on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/091205sudlks7m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammilla/091205sudlks7m3.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by Loh Kok Sheng on flickr .
 links_references: '**Links**
 

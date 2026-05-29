@@ -24,7 +24,7 @@ order: Mytilida
 superfamily: Mytiloidea
 subfamily: Crenellinae
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/040121chgd0031m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/viridis/040121chgd0031m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -36,26 +36,26 @@ galleries:
       mussels. It attaches itself to a hard surface by producing threads! It is considered
       a pest outside its natural range.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/040121chgd0031m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/viridis/040121chgd0031m3.jpg
     caption: Growing on a large boulder. Changi, Jan 04
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/040121chgd0027m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/viridis/040121chgd0027m3.jpg
     caption: Growing on a large boulder. Changi, Jan 04
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/120604pgld3525m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/viridis/120604pgld3525m3.jpg
     caption: Growing in cracks of boulder. Punggol, Jun 12
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/031207cjd0034m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/viridis/031207cjd0034m3.jpg
     caption: Chek Jawa, Dec 03
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/120604pgld3696m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/viridis/120604pgld3696m3.jpg
     caption: When submerged, filter feeds. Punggol, Jun 12
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/lkcnhm.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/viridis/lkcnhm.jpg
     caption: It has a large mobile foot. From the Lee Kong Chian Natural History Museum
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/201116cnyrk1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/viridis/201116cnyrk1.jpg
     caption: Coney Island, Nov 20 Photo shared by Richard Kuah on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/090310tuslks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/viridis/090310tuslks.JPG
     caption: Tuas, Mar 09 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/200311blylks7.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/viridis/200311blylks7.jpg
     caption: Berlayar Creek, Mar 20 Photo shared by Loh Kok Sheng on facebook.
 links_references: "**Links**\n- [Green Mussel (\n*Perna viridis*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/158)\n\
   Tan, Leo W. H. & Ng, Peter K. L., 1988.\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n\

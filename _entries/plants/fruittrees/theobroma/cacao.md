@@ -21,7 +21,7 @@ class: Magnoliopsida
 order: Malvales
 subfamily: Byttnerioideae
 updated: Nov 10
-coverimg: http://www.wildsingapore.com/wildfacts/plants/fruittrees/theobroma/cacao/091005cjd1999m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/theobroma/cacao/091005cjd1999m6l.jpg
 links_references: "**Links**\n- *[Theobroma\n  cacao](http://floraofsingapore.wordpress.com/2010/08/23/theobroma-cacao/)*\
   \ on Total Vascular Flora of Singapore Online: photos\n  and fact sheet.\n- [*Theobroma\n\
   \  cacao*](http://www.hort.purdue.edu/newcrop/duke_energy/Theobroma_cacaol) New\
@@ -29,11 +29,11 @@ links_references: "**Links**\n- *[Theobroma\n  cacao](http://floraofsingapore.wo
   \  S.C. Chin and H. T. W. Tan. 1990, *[The\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/theobroma/cacao/091213ubnd5881m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/theobroma/cacao/091213ubnd5881m3.jpg
     caption: Pulau Ubin, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/theobroma/cacao/091005cjd2004m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/theobroma/cacao/091005cjd2004m3.jpg
     caption: Pulau Ubin, Oct 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/theobroma/cacao/091005cjd2002m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/theobroma/cacao/091005cjd2002m3.jpg
     caption: Pulau Ubin, Oct 09
   gallery2:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -61,11 +61,11 @@ A tall 'bushy' tree (4-8m), with large leaves. The tiny flowers emerge from the 
 **Human uses:**
 This native of South America was long used by the natives. It was 'discovered' by the Spanish from which it eventually spread to other parts of the world, particularly in Africa. According to Corners, it was introduced to Malaya in the 18th century and often seen in villages.
 
-![](http://www.wildsingapore.com/wildfacts/plants/fruittrees/theobroma/cacao/091005cjd1999m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/theobroma/cacao/091005cjd1999m6l.jpg)
 
 *Pulau Ubin, Oct 09
 
-![](http://www.wildsingapore.com/wildfacts/plants/fruittrees/theobroma/cacao/091213ubnd5886m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/theobroma/cacao/091213ubnd5886m3.jpg)
 
 *Pulau Ubin, Dec 09**
 

@@ -23,43 +23,43 @@ class: Asteroidea
 superorder: Valvatacea
 order: Valvatida
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/tinysevenarm/130628thntlks.JPG
+coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/tinysevenarm/130628thntlks.JPG
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/tinysevenarm/130628thntlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/tinysevenarm/130628thntlks.JPG
     caption: Terumbu Hantu, Jun 13 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/tinysevenarm/100616cyrtch1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/tinysevenarm/100616cyrtch1m3.jpg
     caption: Cyrene Reef, Jun 10 Photo shared by Toh Chay Hoon on her blog .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/tinysevenarm/100616cyrtch2m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/tinysevenarm/100616cyrtch2m3a.jpg
     caption: Photo shared by Toh Chay Hoon on her blog . Cyrene Reef, Jun 10
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/tinysevenarm/200112sjilks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/tinysevenarm/200112sjilks1.jpg
     caption: St John's Island, Jan 20 Photo shared by Loh Kok Sheng on facebook ..
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/tinysevenarm/240309tkrjll1a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/tinysevenarm/240309tkrjll1a.jpg
     caption: Pulau Tekukor, Mar 24 Photo shared by Jianlin Liu on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/tinysevenarm/240309tkrjll1b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/tinysevenarm/240309tkrjll1b.jpg
     caption: Pulau Tekukor, Mar 24 Photo shared by Jianlin Liu on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/tinysevenarm/130210bsislks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/tinysevenarm/130210bsislks.JPG
     caption: Sisters Island, Feb 13 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/tinysevenarm/200707hntdc2a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/tinysevenarm/200707hntdc2a.jpg
     caption: Pulau Hantu, Jul 20 Photo shared by Dyana Cheah on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/tinysevenarm/110421jngtch1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/tinysevenarm/110421jngtch1m3.jpg
     caption: Pulau Jong, Apr 11 Photo shared by Toh Chay Hoon on her blog .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/tinysevenarm/110421jngtch2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/tinysevenarm/110421jngtch2m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/tinysevenarm/110421jngtch3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/tinysevenarm/110421jngtch3m3.jpg
     caption: ''
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/tinysevenarm/100517jngtch3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/tinysevenarm/100517jngtch3m3.jpg
     caption: Pulau Jong, May 10 Photo shared by Toh Chay Hoon on her blog .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/tinysevenarm/100517jngtch4m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/tinysevenarm/100517jngtch4m3.jpg
     caption: Underside.
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/tinysevenarm/100616jnglks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/tinysevenarm/100616jnglks1.jpg
     caption: Pulau Jong, May 10 Photo shared by Loh Kok Sheng on flickr .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/tinysevenarm/210402tmskjll2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/tinysevenarm/210402tmskjll2.jpg
     caption: Terumbu Semakau, Apr 21 Photo shared by Jianlin Liu on facebook ..
 links_references: '**Links**
 

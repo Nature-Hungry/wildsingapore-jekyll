@@ -31,35 +31,35 @@ updated: Dec 2019
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0061m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0061m3.jpg
     caption: Male displaying, waving his legs and enlarged pincer . St John's Island,
       Oct 04
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0059m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0059m3a.jpg
     caption: Smooth on the outer side of the pincer. St John's Island, Oct 04
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0061m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0061m3a.jpg
     caption: Bumpy ridge on the inside 'palm' of the pincer
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/040120cjd0068m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/annulipes/040120cjd0068m3.jpg
     caption: Chek Jawa, Jan 04
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/040411hntd0126m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/annulipes/040411hntd0126m3.jpg
     caption: Pulau Hantu, Apr 04
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/040120cjd0084m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/annulipes/040120cjd0084m3.jpg
     caption: Chek Jawa, Jan 04
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/090614ubnmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/annulipes/090614ubnmn.jpg
     caption: Pulau Ubin Jun, 09 Photo shared by Marcus Ng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/090614ubnmna.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/annulipes/090614ubnmna.jpg
     caption: ''
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/260103merqo1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/annulipes/260103merqo1.jpg
     caption: Marina East, Jan 26 Photo shared by Rui Quan Oh on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/160208smkshpy3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/annulipes/160208smkshpy3.jpg
     caption: Pulau Semakau South, Feb 16 Photo shared by Heng Pei Yan on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/160806tplmn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/annulipes/160806tplmn1.jpg
     caption: Terumbu Pempang Laut, Aug 16 Photo shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/091204pawjk7m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/annulipes/091204pawjk7m3.jpg
     caption: Pulau Pawai, Dec 09 Photo shared by James Koh on his flickr .
 links_references: '**Links**
 

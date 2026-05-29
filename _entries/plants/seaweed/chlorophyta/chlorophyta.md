@@ -26,25 +26,25 @@ galleries:
       small animals eat green seaweeds. 'Carpets' of green seaweed may form on the
       shores. These may shelter small animals. Please avoid stepping on the carpet.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/041116labd8420m2a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/taxifolia/041116labd8420m2a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/ulva/050426cftd2804m.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/ulva/050426cftd2804m.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/050621skdg7924ma.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/cupressoides/050621skdg7924ma.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/neomeris/031029sntad0038m.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/neomeris/031029sntad0038m.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boergesenia/041019labd7671m.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/boergesenia/041019labd7671m.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/040605kusbd0026m.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/halbig/040605kusbd0026m.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/dictyosphaeria/040507rflbd0153m.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/dictyosphaeria/040507rflbd0153m.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/050528kusg7058m.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/racemosa/050528kusg7058m.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrerecta/040703sisd1798m.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/avrerecta/040703sisd1798m.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bryopsis/040919sntd7088m.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bryopsis/040919sntd7088m.jpg
     caption: ''
 links_references: '**Links**
 
@@ -200,7 +200,7 @@ sp.)
 
 During a seaweed 'bloom' there can be a corresponding explosion in the number and variety of animals that eat that particular seaweed. As well as the predators that eat the seaweed-eaters.
 
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/others/070714bbd3887m3a.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/others/070714bbd3887m3a.jpg)
 
 Three different kinds of green seaweeds
 

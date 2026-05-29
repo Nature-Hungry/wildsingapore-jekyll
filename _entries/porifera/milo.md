@@ -12,14 +12,14 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/porifera/milo/150705skdd7132m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/milo/150705skdd7132m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/milo/150705skdd7132m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/milo/150705skdd7132m3.jpg
     caption: Pulau Sekudu, Jul 15
-  - url: http://www.wildsingapore.com/wildfacts/porifera/milo/150705skdd7132m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/milo/150705skdd7132m3a.jpg
     caption: Surface grainy but smooth, glossy.
-  - url: http://www.wildsingapore.com/wildfacts/porifera/milo/150705skdd7133m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/milo/150705skdd7133m3.jpg
     caption: Tiny hole, submerged.
 location:
 - cj

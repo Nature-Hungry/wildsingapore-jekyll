@@ -31,57 +31,57 @@ galleries:
       They are among the most intelligent of invertebrates. They can bite. Don't touch
       them!
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/060501labd1608m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/reefoctopus/060501labd1608m3a.jpg
     caption: Web spreading out along the sides of the tentacle. Labrador, May 06
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/130624chg7d7811.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/bigseagrass/130624chg7d7811.jpg
     caption: Hiding in a dead Noble volute shell. Changi, Jun 13
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/090525chgd2387m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/bigseagrass/090525chgd2387m3.jpg
     caption: '''Walking'' with its head above the ground. Changi, May 09'
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/040801hntd3776m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/reefoctopus/040801hntd3776m3.jpg
     caption: Using web as a net to trap prey. Pulau Hantu, Aug 04
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/070531sisd1525m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/reefoctopus/070531sisd1525m3a.jpg
     caption: Underside is full of suckers. Sisters Island, May 07
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/081016cyrd0036m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/reefoctopus/081016cyrd0036m3.jpg
     caption: Using jet propulsion to move. Cyrene Reef, Oct 08
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/040718sntd2768m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/reefoctopus/040718sntd2768m3.jpg
     caption: These three photos are of the same animal .. Sentosa, Jul 04
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/040718sntd2771m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/reefoctopus/040718sntd2771m3.jpg
     caption: '... taken minutes apart.'
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/040718sntd2773m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/reefoctopus/040718sntd2773m3.jpg
     caption: '...with rapid colour and texture changes!'
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/120330cyrd4840m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/reefoctopus/120330cyrd4840m3.jpg
     caption: Inking - octopus is perfectly camouflaged with the sand. Cyrene, Mar
       12
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/120330cyrd4840.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/reefoctopus/120330cyrd4840.jpg
     caption: The ink coagulated a distance away, distracting from the octopus. Cyrene,
       Mar 12
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/050720sntd5063m6la.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/reefoctopus/050720sntd5063m6la.jpg
     caption: A pair of mating octopuses, one pale and the other dark. Sentosa, Jul
       05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/octopusnoid/120506sisd1212m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/octopusnoid/120506sisd1212m3.jpg
     caption: Tiny octopus among seaweeds. Sisters Island, May 12
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/080801chgd8632m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/bigseagrass/080801chgd8632m3.jpg
     caption: Changi, Jul 09
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/080801chgd8632m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/bigseagrass/080801chgd8632m3a.jpg
     caption: Carrying eggs?
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/080801chgd8632m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/bigseagrass/080801chgd8632m3b.jpg
     caption: ''
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/040703sisd1656m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/reefoctopus/040703sisd1656m3.jpg
     caption: Reef octopus
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/050428cftg5299m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/bigseagrass/050428cftg5299m3.jpg
     caption: Big-head seagrass octopus
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/slenderseagrass/060726chgd4943m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/slenderseagrass/060726chgd4943m3.jpg
     caption: Slender seagrass octopus
   gallery9:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/octopusnoid/201115tkklks2b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/octopusnoid/201115tkklks2b.jpg
     caption: Pulau Tekukor, Nov 20 Photo shares by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/octopusnoid/201115tkklks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/octopusnoid/201115tkklks2.jpg
     caption: Pulau Tekukor, Nov 20 Photo shares by Loh Kok Sheng on facebook .
 links_references: '**Links**
 

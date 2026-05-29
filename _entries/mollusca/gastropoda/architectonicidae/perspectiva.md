@@ -17,32 +17,32 @@ class: Gastropoda
 subclass: Heterobranchia
 superfamily: Architectonicoidea
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/100103sisd7573m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/perspectiva/100103sisd7573m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/100103sisd7573m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/perspectiva/100103sisd7573m3.jpg
     caption: Sisters Island, Jan 10
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/100103sisd7573m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/perspectiva/100103sisd7573m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/1003021hntd9633m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/perspectiva/1003021hntd9633m3.jpg
     caption: Pulau Hantu, Mar 10
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/090529sjilks1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/perspectiva/090529sjilks1m3.jpg
     caption: Laying egg string. St. John's Island, May 09 Photo shared by Loh Kok
       Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/090529sjilks2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/perspectiva/090529sjilks2m3.jpg
     caption: Photo shared by Loh Kok Sheng on his blog .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/170528chg6mn3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/perspectiva/170528chg6mn3.jpg
     caption: Changi, May 17 Photo shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/170528chglks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/perspectiva/170528chglks1.jpg
     caption: Changi, May 17 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/170820kusrk1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/perspectiva/170820kusrk1.jpg
     caption: Kusu Island, Aug 17 Photo shared by Richard Kuah on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/240212sjimn3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/perspectiva/240212sjimn3.jpg
     caption: St John's Island, Feb 24 Photo shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/171104cyrlks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/perspectiva/171104cyrlks2.jpg
     caption: Cyrene Reef, Nov 17 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 

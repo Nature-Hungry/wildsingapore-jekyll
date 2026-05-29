@@ -10,29 +10,29 @@ genus: Platyvindex
 species: ''
 attributes: []
 updated: Jun 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/platyvindex/060627krjd3712m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/platyvindex/060627krjd3712m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/platyvindex/060627krjd3712m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/platyvindex/060627krjd3712m3.jpg
     caption: Kranji, Jun 06
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/platyvindex/060627krjd3713m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/platyvindex/060627krjd3713m3.jpg
     caption: Underside
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/platyvindex/060627krjd3713m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/platyvindex/060627krjd3713m3a.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/platyvindex/090612pndd4042.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/platyvindex/090612pndd4042.jpg
     caption: Sungei Pandan, Jun 09
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/platyvindex/251228spgrqo5a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/platyvindex/251228spgrqo5a.jpg
     caption: Sg Pang Sua, Dec 25 Photo shared by Rui Quan Oh on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/platyvindex/251228spgrqo5b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/platyvindex/251228spgrqo5b.jpg
     caption: ''
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/platyvindex/081206smktch01m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/platyvindex/081206smktch01m3.jpg
     caption: Pulau Semakau, Dec 08
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/platyvindex/081206smktch01m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/platyvindex/081206smktch01m3a.jpg
     caption: Photos shared by Toh Chay Hoon on her flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/platyvindex/081206smktch02m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/platyvindex/081206smktch02m3.jpg
     caption: ''
 links_references: '**Links**
 

@@ -23,7 +23,7 @@ suborder: Yangochiroptera
 superfamily: Emballonuroidea
 subfamily: Taphozoinae
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/saccolaimus/030717skdd0217m6la.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/saccolaimus/030717skdd0217m6la.jpg
 links_references: '**Links**
 
   - [Pouched Tomb Bat](http://www.ecologyasia.com/verts/bats/pouched-tomb-bat)
@@ -72,7 +72,7 @@ This bat is social and roosts in colonies with as many as 300 individuals. They 
 **What does it eat?**
 It eats insects, foraging for these high above the canopy of trees.
 
-*![](http://www.wildsingapore.com/wildfacts/vertebrates/mammals/saccolaimus/030717skdd0217m6la.jpg)*
+*![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/saccolaimus/030717skdd0217m6la.jpg)*
 *Pulau Sekudu,*
 *Jul 03*
 

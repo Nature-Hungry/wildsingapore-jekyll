@@ -19,26 +19,26 @@ order: Trochida
 superfamily: Trochoidea
 subfamily: Umboniinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/umbonium/120817nsrccd0128m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/umbonium/120817nsrccd0128m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/umbonium/120817nsrccd0128m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/umbonium/120817nsrccd0128m6l.jpg
     caption: East Coast Park, Aug 12
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/umbonium/070218tmd8071m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/umbonium/070218tmd8071m3.jpg
     caption: Shell opening and operculum. Tanah Merah, Feb 07
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/umbonium/111028chged2810.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/umbonium/111028chged2810.jpg
     caption: Tiny button snails leaping away from a hunting moon snail. Changi East,
       Oct 11
-  - url: http://www.wildsingapore.com/wildfacts/naticidae/didyma/050427tmg5159m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/naticidae/didyma/050427tmg5159m3a.jpg
     caption: Button snails leaping away from a Moon snail Tanah Merah, Apr 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/umbonium/080706chg7378m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/umbonium/080706chg7378m3.jpg
     caption: They can float, forming 'rafts'. Changi, Jul 08
   gallery3:
   - url: https://live.staticflickr.com/7804/47172544461_f9f2f9bd28_z.jpg
     caption: ''
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/umbonium/101206cyrlks2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/umbonium/101206cyrlks2m3.jpg
     caption: Cyrene Reef, Dec 10 Photo shared by Loh Kok Sheng on his blog .
 links_references: '**Links**
 

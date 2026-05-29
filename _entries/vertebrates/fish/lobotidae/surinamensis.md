@@ -23,15 +23,15 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/lobotidae/surinamensis/090607tmftd3410m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/lobotidae/surinamensis/090607tmftd3410m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/lobotidae/surinamensis/090607tmftd3410m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/lobotidae/surinamensis/090607tmftd3410m3.jpg
     caption: Tanah Merah, Jun 09
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/lobotidae/surinamensis/090606tmftd3242m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/lobotidae/surinamensis/090606tmftd3242m6l.jpg
     caption: Tanah Merah, Jun 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/lobotidae/surinamensis/110221tmmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/lobotidae/surinamensis/110221tmmn.jpg
     caption: Tanah Merah, Feb 11 Photo shared by Marcus Ng on flickr .
 links_references: '**Links**
 

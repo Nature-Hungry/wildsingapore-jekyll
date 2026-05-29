@@ -24,22 +24,22 @@ suborder: Pleocyemata
 infraorder: Caridea
 superfamily: Alpheoidea
 updated: Jan 2020
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/humped/111002sisd2124m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/humped/111002sisd2124m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/humped/111002sisd2124m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/humped/111002sisd2124m3.jpg
     caption: Sisters Island, Oct 11
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/humped/110123sisd5269m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/humped/110123sisd5269m3.jpg
     caption: Sisters Island, Jan 01
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/humped/100809cyrd9757m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/humped/100809cyrd9757m3a.jpg
     caption: On a flowery soft coral. Cyrene Reef, Aug 10
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/humped/220715cjjk1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/humped/220715cjjk1.jpg
     caption: With eggs. Chek Jawa, Jul 22 Photo by James Koh on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/humped/200706skdtch3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/humped/200706skdtch3.jpg
     caption: Pulau Sekudu, Jul 20 Photo by Toh Chay Hoon on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/humped/120722cyrmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/humped/120722cyrmn.jpg
     caption: Cyrene Reef, Jul 12 Photo shared by Marcus Ng on flickr .
 location:
 - cj

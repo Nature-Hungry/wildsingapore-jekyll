@@ -19,19 +19,19 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Cladophorales
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/dictyosphaeria/090412hntd9644m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/dictyosphaeria/090412hntd9644m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/dictyosphaeria/091231biod7001m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/dictyosphaeria/091231biod7001m3.jpg
     caption: Pulau Biola, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/dictyosphaeria/091231biod7033m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/dictyosphaeria/091231biod7033m3.jpg
     caption: Pulau Biola, Dec 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/dictyosphaeria/100130brkd8640m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/dictyosphaeria/100130brkd8640m3a.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/dictyosphaeria/100613sngd5484m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/dictyosphaeria/100613sngd5484m3.jpg
     caption: Pulau Senang, Jun 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/dictyosphaeria/100613sngd5484m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/dictyosphaeria/100613sngd5484m3a.jpg
     caption: ''
 links_references: '**Links**
 
@@ -136,11 +136,11 @@ species.
 **Human uses:**
 Some species are used as human food, fed to animals and as fish bait. They are reported to have anti-microbial properties. Although it is well behaved in Singapore, when this seaweed grows outside its natural range as an invasive alien, it can grow rapidly in carpets, replacing corals and seriously affecting reefs.
 
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/dictyosphaeria/090412hntd9644m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/dictyosphaeria/090412hntd9644m3.jpg)
 
 *Pulau Hantu, Apr 09
 
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/dictyosphaeria/090412hntd9644m3a.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/dictyosphaeria/090412hntd9644m3a.jpg)
 
 Submerged seaweed.*
 

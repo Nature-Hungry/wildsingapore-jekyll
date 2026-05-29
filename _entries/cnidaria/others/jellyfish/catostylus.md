@@ -18,19 +18,19 @@ subclass: Discomedusae
 order: Rhizostomeae
 suborder: Dactyliophorae
 updated: Sep 2025
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/fatarm/050426cftg5076m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/fatarm/050426cftg5076m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/fatarm/050426cftg5076m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/fatarm/050426cftg5076m3.jpg
     caption: Changi, Apr 05
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/fatarm/050426chgd2778m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/fatarm/050426chgd2778m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/fatarm/050426chgd2778m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/fatarm/050426chgd2778m3b.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/fatarm/101208tmlks1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/fatarm/101208tmlks1m3.jpg
     caption: Tanah Merah, Dec 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/fatarm/160314lazjt2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/fatarm/160314lazjt2.jpg
     caption: Lazarus Island, Mar 16 Photo shared by Jonathan Tan on facebook .
 links_references: '**Links**
 

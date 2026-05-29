@@ -17,17 +17,17 @@ subphylum: Rhabditophora
 order: Polycladida
 suborder: Cotylea
 updated: Feb 2020
-coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/damawan/100103sislks1m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/damawan/100103sislks1m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/damawan/100103sislks1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/damawan/100103sislks1m3.jpg
     caption: Sisters Island, Jan 10 Photo shared by Loh Kok Sheng on his flickr .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/damawan/100103sislks2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/damawan/100103sislks2m3.jpg
     caption: Pseudotentacles squarish, ruffled on the sided.
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/damawan/100103sislks2m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/damawan/100103sislks2m3a.jpg
     caption: Underside white with broad orange and thin black margin.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/damawan/140201kushpy1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/damawan/140201kushpy1m3.jpg
     caption: Kusu Island, Feb 14 Photo shared by Heng Pei Yan on her blog .
 links_references: "**Links**\n- [*Pseudobiceros damawan*](http://polycladida.lifedesks.org/pages/3186)\n\
   on Encyclopedia of Life, LifeDesks, Marine Flatworms - Polycladida: Technical fact\

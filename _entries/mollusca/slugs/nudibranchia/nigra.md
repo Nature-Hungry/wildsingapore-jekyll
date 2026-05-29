@@ -28,78 +28,78 @@ suborder: Doridina
 infraorder: Doridoidei
 superfamily: Phyllidioidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/050210kusd0112m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/nigra/050210kusd0112m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/050210kusd0112m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/nigra/050210kusd0112m3.jpg
     caption: Kusu Island, Feb 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/050210kusd0112m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/nigra/050210kusd0112m3b.jpg
     caption: Milky substance secreted when disturbed.
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/050210kusd0112m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/nigra/050210kusd0112m3a.jpg
     caption: Short black rhinophores.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/060312hntd0298.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/nigra/060312hntd0298.jpg
     caption: Underside plain (no stripe or markings). Pulau Hantu, Mar 06
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/070531sisd1471m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/nigra/070531sisd1471m3.jpg
     caption: A pair of oral tentacles on the underside. Sisters Island, May 07
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/070531sisd1471m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/nigra/070531sisd1471m3b.jpg
     caption: Gills hidden under the body.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/200625tbdc4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/nigra/200625tbdc4.jpg
     caption: '''Hole'' from where it just fed? Terumbu Bemban, Jun 20 Photo shared
       by Dayna Cheah on facebook .'
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/220419sjijt4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/nigra/220419sjijt4.jpg
     caption: Mating? St. John's Island, Apr 22 Photo shared by Jonathan Tan on facebook
       .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/210628ecpBlks8.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/nigra/210628ecpBlks8.jpg
     caption: East Coast Park (B), Jun 21 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/080607sntlksm3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/nigra/080607sntlksm3.jpg
     caption: Sentosa, Jul 08 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/210401sntjk1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/nigra/210401sntjk1.jpg
     caption: Sentosa Tg Rimau, Apr 21 Photo shared by James Koh on flickr .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/260217bsislks4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/nigra/260217bsislks4.jpg
     caption: Big Sisters Island, Feb 26 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/110619tslglks1m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/nigra/110619tslglks1m3.JPG
     caption: Terumbu Selegie, Jun 11 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/130511hntlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/nigra/130511hntlks.JPG
     caption: Pulau Hantu, May 13 Photo shared by Loh Kok Sheng on flickr .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/160424smknjll3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/nigra/160424smknjll3.jpg
     caption: Pulau Semakau (North), Apr 16 Photo shared by Jialin Liu on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/090111smklksp14m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/nigra/090111smklksp14m3.jpg
     caption: Pulau Semakau, Feb 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/160625tkklks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/nigra/160625tkklks2.jpg
     caption: Pulau Tekukor, Jun 16 Photo shared by Loh Kok Sheng on facebook .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/100617tsmjk4m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/nigra/100617tsmjk4m3.jpg
     caption: Terumbu Semakau, Jun 10 Photo shared by James Koh on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/100519tsmklks8m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/nigra/100519tsmklks8m3.jpg
     caption: Terumbu Semakau, May 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/110717tbd7170m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/nigra/110717tbd7170m3.jpg
     caption: Terumbu Bemban, Jul 11
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/160806tpllks8.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/nigra/160806tpllks8.jpg
     caption: Terumbu Pempang Laut, Aug 16 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/100403tbblks8m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/nigra/100403tbblks8m3.jpg
     caption: Beting Bemban Besar, Apr 10 Photo shared by Loh Kok Sheng on his flickr
       .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/100617tblks1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/nigra/100617tblks1m3.jpg
     caption: Terumbu Bemban, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
   gallery9:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/150620tbmn4m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/nigra/150620tbmn4m3.jpg
     caption: Terumbu Bemban, Jun 15 Photo shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/141109lazlks1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/nigra/141109lazlks1m3.jpg
     caption: Seringat-Kias, Nov 14 Photo shared by Loh Kok Sheng on facebook .
   gallery10:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/100130brklks11m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/nigra/100130brklks11m3.jpg
     caption: Terumbu Berkas, Jan 10 Photo shared by Loh Kok Sheng on his flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/210428slulks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/nigra/210428slulks2.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 

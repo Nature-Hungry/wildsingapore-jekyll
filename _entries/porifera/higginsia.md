@@ -16,12 +16,12 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Axinellida
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/porifera/higginsia/150802bbd8873m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/higginsia/150802bbd8873m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/higginsia/150802bbd8873m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/higginsia/150802bbd8873m3c.jpg
     caption: Covered with long thin stiff hairs.
-  - url: http://www.wildsingapore.com/wildfacts/porifera/higginsia/150802bbd8873m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/higginsia/150802bbd8873m3a.jpg
     caption: Trapped sediments hides bright orange colour.
 links_references: '**Links**
 
@@ -53,7 +53,7 @@ This bright orange hairy sponge is sometimes seen at Beting Bronok off Pulau Tek
 
 Fat but flattened leaf-like branches or lobes (10-15cm) covered with long thin stiff hairs that traps sediments so the sponge is often obscured. Colour uniform bright orange.
 
-![](http://www.wildsingapore.com/wildfacts/porifera/higginsia/150802bbd8873m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/porifera/higginsia/150802bbd8873m3.jpg)
 
 *Beting Bemban Besar, May 11*
 .

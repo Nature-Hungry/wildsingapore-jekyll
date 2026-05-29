@@ -24,13 +24,13 @@ order: Labriformes
 suborder: Labroidei
 subfamily: Hypsigenyinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/oligacanthus/170812cyrmn.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/oligacanthus/170812cyrmn.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/oligacanthus/170812cyrmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/oligacanthus/170812cyrmn.jpg
     caption: Cyrene Reef, Oct 17 Photo shared by Marcus Ng on facebook .
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/oligacanthus/210528chg7tch2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/oligacanthus/210528chg7tch2.jpg
     caption: Changi Carpark 7, May 21 Photo shared by Toh Chay Hoon on facebook .
 links_references: '**Links**
 

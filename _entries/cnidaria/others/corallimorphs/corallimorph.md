@@ -17,7 +17,7 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Corallimorpharia
 updated: Nov 2024
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/beaded/060527sjig6070m3d.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/beaded/060527sjig6070m3d.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -29,39 +29,39 @@ galleries:
       by an upturned central mouth. They often grow over coral rubble or stones. Don't
       step on them!
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/beaded/060527sjig6070m3d.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/beaded/060527sjig6070m3d.jpg
     caption: Upturned mouth. St. John's Island, May 05
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/031224sisd0126m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/carpet/031224sisd0126m3.jpg
     caption: Underside is usually smooth. Pulau Hantu, Aug 04
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/070901sjid6484m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/frilled/070901sjid6484m3b.jpg
     caption: Oral disk tucked into the body column. St. John's Island, Aug 07
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/031224sisd0121m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/carpet/031224sisd0121m3.jpg
     caption: Many usually found together, often forming a living carpet. Sisters Islands,
       Dec 03
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/080608cyrd5465m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/frilled/080608cyrd5465m3a.jpg
     caption: Dense clusters of corallimorphs may resemble hard corals. Cyrene Reef,
       Jun 08
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/060131sjig4490m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/carpet/060131sjig4490m3b.jpg
     caption: Covered with tiny brown acoel flatworms . St. John's Island, Jan 06
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/070901sjid6484m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/frilled/070901sjid6484m3a.jpg
     caption: Frilled corallimorphs
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/040801hntd3735m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/stubby/040801hntd3735m3a.jpg
     caption: Stubby corallimorphs
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/031224sisd0121m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/carpet/031224sisd0121m3a.jpg
     caption: Carpet corallimorphs
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/beaded/060527sjig6070m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/beaded/060527sjig6070m3a.jpg
     caption: Beaded corallimorphs
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/ridged/050807sjid5570m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/ridged/050807sjid5570m3.jpg
     caption: Ridged corallimorphs
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/striped/110717tbd7305m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/striped/110717tbd7305m3.jpg
     caption: Striped corallimorphs
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/120721tptd7883m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/whitetip/120721tptd7883m3.jpg
     caption: White-tip corallimorphs
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/110703cjd5306m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/balltip/110703cjd5306m3.jpg
     caption: Ball-tip corallimorphs
 links_references: '**Links**
 

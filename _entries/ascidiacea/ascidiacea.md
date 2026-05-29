@@ -9,7 +9,7 @@ phylum: Chordata
 subphylum: Tunicata
 class: Ascidiacea
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/polycarpa/050510tusg6134m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/polycarpa/050510tusg6134m3.jpg
 trivia_title: if you learn only 3 things about them ...
 trivia_items:
 - They are animals and NOT plants.
@@ -17,24 +17,24 @@ trivia_items:
 - Unlike sponges, tunicates are complex animals with internal organs.
 galleries:
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/polycarpa/050510tusg6134m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/polycarpa/050510tusg6134m3.jpg
     caption: Solitary sea squirt growing on hard surfaces. Tuas, May 05
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/ascidiaceanoid/solitary.gif
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/ascidiaceanoid/solitary.gif
     caption: Cross-section of a solitary ascidian
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/100726chgd9196m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/jelly/100726chgd9196m3.jpg
     caption: Solitary sea squirt growing under stones. Changi, Jul 10
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/050309smkg3139m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/greengumdrop/050309smkg3139m3.jpg
     caption: Colonial ascidians on seagrasses. Pulau Semakau, Mar 05
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/ascidiaceanoid/colonial.gif
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/ascidiaceanoid/colonial.gif
     caption: Colonial ascidian Arrows show the flow of water through the animals.
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/beige/090623ecpd4904m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/beige/090623ecpd4904m3.jpg
     caption: Colonial ascidians forming a sheet over hard surfaces. East Coast, Jun
       09
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/050819cjg1656m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/dromiidae/dromiidae/050819cjg1656m3.jpg
     caption: Sponge crab using an ascidian disguise. Chek Jawa, Aug 05
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/080619chgd5684m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/indicus/080619chgd5684m3.jpg
     caption: A flatworm eating an ascidian? Changi, Jun 08
 links_references: "**Links**\n- [Sea Squirt\n*Polycarpa*](http://mangrove.nus.edu.sg/pub/seashore/text/226)\n\
   Tan, Leo W. H. & Ng, Peter K. L., 1988.\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n\

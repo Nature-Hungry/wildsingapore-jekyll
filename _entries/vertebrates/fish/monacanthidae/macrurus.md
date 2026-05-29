@@ -24,29 +24,29 @@ superorder: Acanthomorpha
 order: Tetraodontiformes
 suborder: Balistoidei
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/macrurus/080523cyrd4028m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/macrurus/080523cyrd4028m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/macrurus/080523cyrd4028m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/macrurus/080523cyrd4028m3.jpg
     caption: Cyrene Reef, May 08
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/macrurus/080605hntd4960m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/macrurus/080605hntd4960m6l.jpg
     caption: Pulau Hantu, Jul 08
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/macrurus/171009blyay7.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/macrurus/171009blyay7.jpg
     caption: Berlayar Creek, Oct 17 Photo shared by Abel Yeo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/macrurus/160508kusjt8.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/macrurus/160508kusjt8.jpg
     caption: Kusu Island, May 16 Photo shared by Jonathan Tan on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/macrurus/250401smkaw1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/macrurus/250401smkaw1.jpg
     caption: Pulau Semakau (North), Apr 25 Photo shared by Amy Woon on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/macrurus/150720smknlks6m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/macrurus/150720smknlks6m3.jpg
     caption: Pulau Semakau North, Jul 15 Photo shared by Loh Kok Sheng on facebook
       .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/macrurus/140713tsmkjll2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/macrurus/140713tsmkjll2m3.jpg
     caption: Terumbu Semakau, Jul 14 Photo shared by Jianlin Liu on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/macrurus/090510sntik6m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/macrurus/090510sntik6m6l.jpg
     caption: Siloso, May 09 Photo shared by Ivan Kwan on his blog .
 links_references: '**Links**
 

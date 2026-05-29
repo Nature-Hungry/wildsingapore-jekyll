@@ -22,7 +22,7 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Atheriniformes
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/140810smksd8112m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/atherinidae/duodecimalis/140810smksd8112m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -34,30 +34,30 @@ galleries:
       in the water (not on the sea bottom). They are important prey for larger fishes
       and sea birds.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/140810smksd8112m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/atherinidae/duodecimalis/140810smksd8112m3.jpg
     caption: Pulau Semakau, Aug 14
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/111213tmftd4612m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/atherinidae/duodecimalis/111213tmftd4612m6l.jpg
     caption: Tanah Merah, Dec 11
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/100124cjd7926m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/atherinidae/duodecimalis/100124cjd7926m6l.jpg
     caption: Sometimes large schools are seen. Chek Jawa, Jan 10
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/100124cjd7927m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/atherinidae/duodecimalis/100124cjd7927m3.jpg
     caption: The school, seen from the boardwalk. Chek Jawa, Jan 10
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/090822sisd9645m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/atherinidae/duodecimalis/090822sisd9645m3a.jpg
     caption: Other fishes prey on them. Sisters Island, Aug 09
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/120607kusd4706.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/atherinidae/duodecimalis/120607kusd4706.jpg
     caption: Carpet anemones are among their predators. Kusu Island, Jun 12
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/100912kusjk.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/atherinidae/duodecimalis/100912kusjk.jpg
     caption: Swimming crabs also eat them. Kusu Island, Sep 10 Photo shared by James
       Koh on flickr .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/200706skdmn2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/atherinidae/duodecimalis/200706skdmn2.jpg
     caption: Pulau Sekudu, Jul 20 Photo shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/140713tsmkmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/atherinidae/duodecimalis/140713tsmkmn.jpg
     caption: Terumbu Semakau, Jul 14 Photo shared by Marcus Ng on flickr .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/220102biolks3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/atherinidae/duodecimalis/220102biolks3.jpg
     caption: Pulau Biola, Jan 22 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 

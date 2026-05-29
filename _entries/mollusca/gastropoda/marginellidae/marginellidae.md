@@ -19,17 +19,17 @@ order: Neogastropoda
 superfamily: Volutoidea
 subfamily: Pruninae
 updated: Dec 2025
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/marginellidae/cryptospira/251206chgelks1.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/marginellidae/cryptospira/251206chgelks1.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/marginellidae/cryptospira/251206chgelks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/marginellidae/cryptospira/251206chgelks1.jpg
     caption: Changi East (Lost Coast), Dec 25 Photo shared by Loh Kok Sheng on facebook
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/marginellidae/cryptospira/251206chgelks1a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/marginellidae/cryptospira/251206chgelks1a.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/marginellidae/cryptospira/251206chgelks1d.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/marginellidae/cryptospira/251206chgelks1d.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/marginellidae/cryptospira/210529ecppcnch1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/marginellidae/cryptospira/210529ecppcnch1.jpg
     caption: East Coast (PCN), May 21 Photo shared by Toh Chay Hoon on facebook .
 location:
 - ecp

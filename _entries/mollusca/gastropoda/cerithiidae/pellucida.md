@@ -18,17 +18,17 @@ subclass: Caenogastropoda
 superfamily: Cerithioidea
 subfamily: Cerithiinae
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/pellucida/080220smkd9713m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/pellucida/080220smkd9713m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/pellucida/080220smkd9713m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/pellucida/080220smkd9713m3.jpg
     caption: Pulau Semakau, Feb 08
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/pellucida/080220smkd9714m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/pellucida/080220smkd9714m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/pellucida/080220smkd9714m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/pellucida/080220smkd9714m3a.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/pellucida/161228cjik.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/pellucida/161228cjik.jpg
     caption: Chek Jawa, Dec 2016 Photo shared by Ivan Kwan on facebook .
 links_references: '**Links**
 

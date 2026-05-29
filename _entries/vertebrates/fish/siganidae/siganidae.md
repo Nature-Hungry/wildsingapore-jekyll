@@ -17,7 +17,7 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/110123sisd5272m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/siganidae/canaliculatus/110123sisd5272m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -29,22 +29,22 @@ galleries:
       handle them! They are among our favourite seafood. However, overharvesting can
       affect their populations.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/110123sisd5272m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/siganidae/canaliculatus/110123sisd5272m3.jpg
     caption: Juveniles often seen among Sargassum. There are two here, can you spot
       them? Changi, Apr 07
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/javus/020811cjd0467m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/siganidae/javus/020811cjd0467m6l.jpg
     caption: 'Spines on the dorsal fin raised: these can inject a painful venom. Chek
       Jawa, Aug 02'
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/110605tsmkd3949m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/siganidae/guttatus/110605tsmkd3949m6l.jpg
     caption: Rabbitfishes are often seen trapped in fishing nets. Terumbu Semakau,
       Jun 11
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/100529kusd4023m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/siganidae/canaliculatus/100529kusd4023m3.jpg
     caption: White-spotted rabbitfish
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/020811cjd492m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/siganidae/guttatus/020811cjd492m3.jpg
     caption: Orange-spotted rabbitfish
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/javus/020811cjd0467m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/siganidae/javus/020811cjd0467m3.jpg
     caption: Streaked rabbitfish
 links_references: '**Links**
 

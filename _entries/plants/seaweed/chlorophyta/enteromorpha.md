@@ -19,7 +19,7 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Ulvales
 updated: Jan 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/enteromorpha/050711tmd4976m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/enteromorpha/050711tmd4976m3.jpg
 links_references: "**Links**\n- [*Enteromorpha*](http://mangrove.nus.edu.sg/pub/seashore/text/103)\n\
   \  Tan,\n  Leo W. H. & Ng, Peter K. L., 1988. *[A\n  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
   \ The Singapore Science Centre,\n  Singapore. 160 pp.\n- [*Enteromorpha*](http://www.mbari.org/staff/conn/botany/greens/Ram/index)\n\
@@ -40,11 +40,11 @@ links_references: "**Links**\n- [*Enteromorpha*](http://mangrove.nus.edu.sg/pub/
   \ Singapore Science\n  Centre. 128 pages.\n- Huisman,\n  John M. 2000. *[Marine\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/enteromorpha/100202chgd9210m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/enteromorpha/100202chgd9210m6l.jpg
     caption: Changi, Feb 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/enteromorpha/100202chgd9209m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/enteromorpha/100202chgd9209m3.jpg
     caption: Chek Jawa, Mar 02
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/enteromorpha/020328cjd7853m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/enteromorpha/020328cjd7853m3.jpg
     caption: Chek Jawa, Mar 02
   gallery2:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -118,13 +118,13 @@ Identification of the species is difficult because the internal and external fea
 Some species are eaten by people, the fine mossy ones used to garnish dishes in Japan and some parts of China. They are also used as animal feed, fertiliser and as medicine for their antibacterial properties.
 
 **
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/enteromorpha/050711tmd4976m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/enteromorpha/050711tmd4976m3.jpg)
 
 Coats rocks in a furry carpet.
 *Tanah Merah, Jul 05*
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/enteromorpha/050711tmftd4991m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/enteromorpha/050711tmftd4991m3.jpg)
 
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/enteromorpha/070420sntd0150m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/enteromorpha/070420sntd0150m3.jpg)
 
 Sheets of
 *Ulva*

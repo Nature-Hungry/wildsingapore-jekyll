@@ -34,18 +34,18 @@ galleries:
     caption: Identified by prominent central mid-rib vein. It deson't flower frequently,
       and the flowers are small. It is eaten by dugongs.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/050822cjg2120m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/halodule/050822cjg2120m3c.jpg
     caption: Long skinny Halodule. Chek Jawa, Aug 05
-  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/070603sntrg9935m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/halodule/070603sntrg9935m3.jpg
     caption: Long broad Halodule. Sentosa, Jun 07
-  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/050315cjg3392m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/halodule/050315cjg3392m3.jpg
     caption: Short skinny Halodule. Chek Jawa, Mar 05
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/090503sgwwd1004m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/halodule/090503sgwwd1004m3.jpg
     caption: Pulau Semakau, May 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/110830cyrd0555m6lb.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/halodule/110830cyrd0555m6lb.jpg
     caption: Broad Halodule. Cyrene Reefs, Aug 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/110830cyrd0555m6la.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/halodule/110830cyrd0555m6la.jpg
     caption: Skinny Halodule. Cyrene Reefs, Aug 11
 links_references: '**Links**
 
@@ -148,20 +148,20 @@ is listed as 'Critically Endangered' while
 *Halodule uninervis*
 is listed as 'Vulnerable' on the Red List of threatened plants of Singapore.
 
-![](http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/100419chgc2643m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/halodule/100419chgc2643m6l.jpg)
 
 Large stretches of
 *Halodule.
 
 Changi, Apr 10*
 
-![](http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/070603sntrg9934m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/halodule/070603sntrg9934m3.jpg)
 
 *Halodule*
 with very broad blades.
 *Sentosa, Jun 07*
 
-![](http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/050623cjg8439m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/halodule/050623cjg8439m3.jpg)
 
 *Chek Jawa, Jun 05*
 

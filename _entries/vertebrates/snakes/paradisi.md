@@ -19,13 +19,13 @@ order: Squamata
 suborder: Serpentes
 subfamily: Chrysopeleinae
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/paradisi/031005ubnad0009m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/paradisi/031005ubnad0009m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/paradisi/120223sbwrmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/paradisi/120223sbwrmn.jpg
     caption: Sungei Buloh Wetland Reserve, Feb 12 Photo shared by Marcus Ng on flickr
       .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/paradisi/110109ubnd4909m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/paradisi/110109ubnd4909m6l.jpg
     caption: This one landed on the road from a tall tree. Pulau Ubin, Jan 11
 links_references: '**Links**
 
@@ -102,11 +102,11 @@ According to Nick Baker, it hunts small prey, mainly tree-dwelling lizards. Thei
 **Flying babies:**
 Little is known about their breeding habits. They lay 6-11 eggs, hatchlings are 15-20cm long and have the same pattern as the adults but their colours are brighter.
 
-![](http://www.wildsingapore.com/wildfacts/vertebrates/snakes/paradisi/031005ubnad0009m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/paradisi/031005ubnad0009m6l.jpg)
 
 *Pulau Ubin, Oct 03*
 
-![](http://www.wildsingapore.com/wildfacts/vertebrates/snakes/paradisi/031005ubnad0008m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/paradisi/031005ubnad0008m3.jpg)
 
 Yellow spots form five bands across the head.
 

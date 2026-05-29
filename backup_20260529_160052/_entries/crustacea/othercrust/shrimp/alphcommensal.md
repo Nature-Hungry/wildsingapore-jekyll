@@ -1,0 +1,71 @@
+---
+title: Commensal snapping shrimp
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: snapping, shrimp, alpheidae, alpheid, decapod, crustacea, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
+layout: entry
+attributes:
+- 103
+- 104
+family: Alpheidae
+genus: ''
+species: identification*
+inat_id: 51196
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Eucarida
+order: Decapoda
+suborder: Pleocyemata
+infraorder: Caridea
+superfamily: Alpheoidea
+updated: Dec 2019
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphcommensal/110603chgd3749m6l.jpg
+galleries:
+  gallery1:
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphcommensal/110603chgd3749m6l.jpg
+    caption: Changi, Jun 11
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphcommensal/110603chgd3749m6la.jpg
+    caption: Changi, Jun 11
+  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphcommensal/080521chgd3548m3a.jpg
+    caption: Changi, May 08 Under a stone.
+location:
+- pgl
+- chg
+- cj
+- ecp
+size:
+- 1.0
+- 2.0
+---
+
+## Where seen?
+This tiny snapping shrimp is often found under stones and inside sponges. Often found in pairs.
+
+## Features
+
+Body 1-2cm long. Usually translucent pale with tiny dark spots.
+
+[White snapping shrimps](alphballsoft)
+are also often seen in ball soft corals.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
+
+**Species are difficult to positively identify without close examination.
+
+On this website, they are grouped by external features for convenience of display.*
+
+---
+
+**Commensal snapping shrimps on Singapore shores**
+
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Commensal snapping shrimp)
+for free download
+- [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Commensal%2520snapping%2520shrimp/map?&fLat=1.2616&fLon=103.8661&zl=11&order_by=recent)

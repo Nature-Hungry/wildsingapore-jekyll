@@ -24,7 +24,7 @@ zoosection: Eubrachyura
 zoosubsection: Thoracotremata
 superfamily: Grapsoidea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/030928sbwad0054m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/sesarmidae/episesarma/030928sbwad0054m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -37,19 +37,19 @@ galleries:
       over hard surfaces. They have a flat body to slip through narrow crevices. They
       are very shy and disappear at the slightest sign of trouble.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/030928sbwad0054m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/sesarmidae/episesarma/030928sbwad0054m3.jpg
     caption: About to munch on flowers? Sungei Buloh Wetland Reserve, Sep 03
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/brockii/060627krjd3636m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/sesarmidae/brockii/060627krjd3636m3.jpg
     caption: This mama crab was carrying lots of eggs! Kranji, Jun 06
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/brockii/031128sbwrad0071m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/sesarmidae/brockii/031128sbwrad0071m3.jpg
     caption: Mangrove tree-dwelling crab
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/031213sbwrd0047m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/sesarmidae/episesarma/031213sbwrd0047m3.jpg
     caption: Tree climbing crab
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/100425kntd1687m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/sesarmidae/perisesarma/100425kntd1687m3a.jpg
     caption: Face-banded sesarmine crab
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/sarmatium/110205krjd5938m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/sesarmidae/sarmatium/110205krjd5938m3.jpg
     caption: Mound crab
 links_references: '**Links**
 

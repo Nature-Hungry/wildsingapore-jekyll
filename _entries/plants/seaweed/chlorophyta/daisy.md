@@ -19,21 +19,21 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Dasycladales
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/101223sntd3940m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/daisy/101223sntd3940m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/090922sjid1590m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/daisy/090922sjid1590m3.jpg
     caption: Growing among 'Taugeh' seaweed St. John's Island, Sep 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/101223sntd3940m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/daisy/101223sntd3940m3b.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/101223sntd3940m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/daisy/101223sntd3940m3a.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/160209cyrlks6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/daisy/160209cyrlks6.jpg
     caption: Cyrene Reef, Feb 16 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/100810sngd9935m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/daisy/100810sngd9935m3c.jpg
     caption: Pulau Senang, Aug 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/100130brkd8494m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/daisy/100130brkd8494m3c.jpg
     caption: Terumbu Berkas, Jan 10
 links_references: '**Links**
 
@@ -107,7 +107,7 @@ sp.)
 
 Tiny cap that is shaped like a daisy (about 0.5cm in diameter) made up of 34 petal-shaped 'rays', held up on a thin stalk. This tiny seaweed is calcified, in different degrees depending on the species. The young cap is green and turns white as it ages.
 
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/101223sntd3940m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/daisy/101223sntd3940m3.jpg)
 
 *Sentosa, Dec 10*
 

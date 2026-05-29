@@ -25,19 +25,19 @@ suborder: Pleocyemata
 infraorder: Anomura
 superfamily: Paguroidea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/goldspot/040619sntd0568m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/goldspot/040619sntd0568m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/goldspot/040619sntd0568m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/goldspot/040619sntd0568m3.jpg
     caption: Sentosa, Jun 04
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/goldspot/101221tmfts02215m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/goldspot/101221tmfts02215m3.jpg
     caption: Tanah Merah, Dec 10
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/goldspot/101221tmfts02215m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/goldspot/101221tmfts02215m3b.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/goldspot/110903sntmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/goldspot/110903sntmn.jpg
     caption: Sentosa, Sep 11 Photo shared by Marcus Ng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/goldspot/250909lazky1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/goldspot/250909lazky1.jpg
     caption: Seringat Kias, Sep 25 Photo shared by Kelvin Yong on facebook
 links_references: '**Links**
 

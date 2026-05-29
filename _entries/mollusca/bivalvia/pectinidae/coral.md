@@ -21,35 +21,35 @@ superfamily: Pectinoidea
 subfamily: Pedinae
 tribe: Pedini
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/110601tmnbd3211m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pectinidae/coral/110601tmnbd3211m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/110601tmnbd3211m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pectinidae/coral/110601tmnbd3211m3.jpg
     caption: Tanah Merah, Jun 11
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/110601tmnbd3211m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pectinidae/coral/110601tmnbd3211m3a.jpg
     caption: When submerged, tentacles and tiny eyes can be seen. Beting Bemban Besar,
       Apr 10
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/070406hntg8468m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pectinidae/coral/070406hntg8468m3a.jpg
     caption: Pulau Hantu, Apr 07
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/100130brkd8540.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pectinidae/coral/100130brkd8540.jpg
     caption: Pulau Berkas, Jan 01
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/100403tbbd0666m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pectinidae/coral/100403tbbd0666m3.jpg
     caption: Beting Bemban Besar, Apr 10
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/170822lablks6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pectinidae/coral/170822lablks6.jpg
     caption: Labrador, Aug 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/200822jnglks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pectinidae/coral/200822jnglks2.jpg
     caption: Pulau Jong, Aug 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/200919bsislks6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pectinidae/coral/200919bsislks6.jpg
     caption: Big Sisters Island, Sep 20 Photo shared by Loh Kok Sheng on facebook
       .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/160609thntmn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pectinidae/coral/160609thntmn1.jpg
     caption: Terumbu Hantu, Jun 16 Photo shared by Marcus Ng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/110717tblks2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pectinidae/coral/110717tblks2m3.jpg
     caption: Terumbu Bemban, Jul 11 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/130427tptlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pectinidae/coral/130427tptlks.JPG
     caption: Terumbu Pempang Tengah, Apr 13 Photo shared by Loh Kok Sheng on flickr
       .
 links_references: '**Links**

@@ -30,46 +30,46 @@ zoosubsection: Heterotremata
 superfamily: Majoidea
 subfamily: Majinae
 updated: Dec 2016
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/090525chgd2395m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/schizophrys/090525chgd2395m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/090525chgd2395m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/schizophrys/090525chgd2395m3.jpg
     caption: Changi, May 09
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/090525chgd2397m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/schizophrys/090525chgd2397m3c.jpg
     caption: Eyes wide apart.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/090525chgd2397m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/schizophrys/090525chgd2397m3.jpg
     caption: One pincer bigger than the other.
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/090525chgd2397m3f.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/schizophrys/090525chgd2397m3f.jpg
     caption: Close up of pincers
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/120508skdd2346m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/schizophrys/120508skdd2346m3.jpg
     caption: Pulau Sekudu, May 12
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/120508skdd2348m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/schizophrys/120508skdd2348m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/120508skdd2348m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/schizophrys/120508skdd2348m3a.jpg
     caption: ''
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/110617pgllks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/schizophrys/110617pgllks.JPG
     caption: Punggol, Jun 11 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/120614pgllks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/schizophrys/120614pgllks.JPG
     caption: Punggol, Jun 12 Photo shared by Loh Kok Sheng on his blog .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/121216ubnlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/schizophrys/121216ubnlks.JPG
     caption: Pulau Ubin, Dec 12 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/250626ubnccn3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/schizophrys/250626ubnccn3.jpg
     caption: Pulau Ubin, Jun 25 Photo shared by Che Cheng Neo on facebook ..
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/160607bbjt2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/schizophrys/160607bbjt2.jpg
     caption: Beting Bronok, Jun 16 Photo shared by Jonathan Tan on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/150617ecpbslks2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/schizophrys/150617ecpbslks2m3.jpg
     caption: East Coast Park, Jun 15 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/090818tmjk1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/schizophrys/090818tmjk1m3.jpg
     caption: Tanah Merah, Aug 09 Photo shared by James Koh on his blog .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/060714rlhg6651m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/schizophrys/060714rlhg6651m3.jpg
     caption: Raffles Lighthouse, Jul 06
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/060714rlhg6651m3d.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/schizophrys/060714rlhg6651m3d.jpg
     caption: ''
 links_references: '**Links**
 

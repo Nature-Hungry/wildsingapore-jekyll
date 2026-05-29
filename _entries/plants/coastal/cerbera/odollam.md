@@ -23,7 +23,7 @@ subfamily: Rauvolfioideae
 tribe: Plumerieae
 subtribe: Thevetiinae
 updated: Jan 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/odollam/090410ubnd9387m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/odollam/090410ubnd9387m3.jpg
 links_references: "\n**Links** \n- Cerbera odollam on Total Vascular Flora of Singapore\
   \ Online: photos and fact sheet. \n- Cerbera odollam on the NParks Flora and Fauna\
   \ website: photos and fact sheet. \n- Giesen, Wim and Stephan Wulffraat, Max Zieren\
@@ -46,18 +46,18 @@ links_references: "\n**Links** \n- Cerbera odollam on Total Vascular Flora of Si
   \ Yeow Chin. 1992. A Guide to Medicinal Plants . The Singapore Science Centre. 160pp.\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/odollam/081206smkd2445m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/odollam/081206smkd2445m3.jpg
     caption: Pulau Semakau, Dec 08
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/odollam/090208smkd6467m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/odollam/090208smkd6467m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/odollam/090208smkd6467m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/odollam/090208smkd6467m3.jpg
     caption: Pulau Semakau, Feb 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/odollam/090906prpd0370m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/odollam/090906prpd0370m6l.jpg
     caption: Pasir Ris Park, Sep 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/odollam/090906prpd0371m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/odollam/090906prpd0371m3.jpg
     caption: Pasir Ris Park, Sep 09 Pasir Ris Park, Mar 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/odollam/090822sisd9810m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/odollam/090822sisd9810m3.jpg
     caption: Gernimating fruit. Sisters Island, Aug 09 Sungei Pandan, Jun 09
 size:
 - 1200.0
@@ -90,10 +90,10 @@ for more about their uses.
 **Status and threats:**
 This tree is listed as 'Vulnerable' on the Red List of threatened plants of Singapore.
 
-*![](http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/odollam/090410ubnd9387m3.jpg)
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/odollam/090410ubnd9387m3.jpg)
 
 *Changi, Apr 09*
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/odollam/090410ubnd9387m3a.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/odollam/090410ubnd9387m3a.jpg)*
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

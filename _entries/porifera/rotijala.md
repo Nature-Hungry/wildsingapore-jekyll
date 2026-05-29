@@ -16,14 +16,14 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Suberitida
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/porifera/rotijala/130723bbd0097m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/rotijala/130723bbd0097m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/rotijala/130723bbd0097m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/rotijala/130723bbd0097m3.jpg
     caption: Beting Bronok, Jul 13
-  - url: http://www.wildsingapore.com/wildfacts/porifera/rotijala/130723bbd0115m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/rotijala/130723bbd0115m3a.jpg
     caption: Beting Bronok, Jul 13
-  - url: http://www.wildsingapore.com/wildfacts/porifera/rotijala/130723bbd0115m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/rotijala/130723bbd0115m3.jpg
     caption: Beting Bronok, Jul 13
 location:
 - bb

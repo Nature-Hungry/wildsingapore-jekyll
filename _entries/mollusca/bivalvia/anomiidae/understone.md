@@ -22,22 +22,22 @@ infraclass: Pteriomorphia
 order: Pectinida
 superfamily: Anomioidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/understone/020616cjd0734m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/anomiidae/understone/020616cjd0734m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/understone/020616cjd0734m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/anomiidae/understone/020616cjd0734m3.jpg
     caption: Chek Jawa, Jun 02
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/understone/060624skdd3259m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/anomiidae/understone/060624skdd3259m3.jpg
     caption: Notch in one of the valves is clearly seen in the shell of this dead
       animal Pulau Sekudu, Jun 06
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/understone/080422smkd1586m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/anomiidae/understone/080422smkd1586m3.jpg
     caption: Pulau Semakau, Apr 08
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/understone/120703chgd6691m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/anomiidae/understone/120703chgd6691m3.jpg
     caption: Stuck on a Window pane shell . Changi, Jul 12
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/understone/120703chgd6691m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/anomiidae/understone/120703chgd6691m3a.jpg
     caption: Fringe of tentacles when submerged.
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/understone/120703chgd6695m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/anomiidae/understone/120703chgd6695m3a.jpg
     caption: ''
 location:
 - pgl

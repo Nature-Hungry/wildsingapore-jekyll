@@ -12,33 +12,33 @@ class: Ascidiacea
 family: Styelidae
 genus: Polycarpa
 species: sp.
-coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/polycarpa/020630chgcpd1380m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/polycarpa/020630chgcpd1380m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/polycarpa/020630chgcpd1380m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/polycarpa/020630chgcpd1380m3.jpg
     caption: They settle near the low water mark at the base of rocks. Changi, Jun
       02
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/polycarpa/031223tused0036m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/polycarpa/031223tused0036m3.jpg
     caption: Tuas, Dec 03
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/polycarpa/031223tused0036m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/polycarpa/031223tused0036m3a.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/polycarpa/091022tmd3097m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/polycarpa/091022tmd3097m3.jpg
     caption: Tanah Merah, Oct 09
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/polycarpa/030716cjd0055m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/polycarpa/030716cjd0055m3.jpg
     caption: Chek Jawa, Jul 03
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/polycarpa/110730tmftd7615m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/polycarpa/110730tmftd7615m3.jpg
     caption: Tanah Merah, Jul 11
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/polycarpa/170712prptsc1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/polycarpa/170712prptsc1.jpg
     caption: Pasir Ris, Jul 17 Photo shared by Teo Say Chong on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/polycarpa/200210blyhud1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/polycarpa/200210blyhud1.jpg
     caption: Berlayar Creek, Feb 20 Photo shared by Nurulhuda Abdul Rahim on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/polycarpa/210401sntjk2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/polycarpa/210401sntjk2.jpg
     caption: Sentosa Tg Rimau, Apr 21 Photo shared by James Koh on flickr .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/polycarpa/240113lazljj1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/polycarpa/240113lazljj1.jpg
     caption: Lazarus Island, Jan 24 Photo shared by Lam Jiajun on facebook .
 links_references: '**Links**
 

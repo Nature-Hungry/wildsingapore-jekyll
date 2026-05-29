@@ -27,7 +27,7 @@ superfamily: Cypraeoidea
 subfamily: Erroneinae
 tribe: Erroneini
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/110123sisd5312m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/errones/110123sisd5312m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -40,34 +40,34 @@ galleries:
       are highly prized, thus cowries are threatened by over-collection. Don't rip
       off a cowrie from a stone! It might be a mother cowrie protecting her eggs.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/110123sisd5312m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/errones/110123sisd5312m3.jpg
     caption: Sisters Island, Jan 11
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/110123sisd5314m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/errones/110123sisd5314m3.jpg
     caption: Shell cylindrical with one or two spots. Sisters Island, Jan 11
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/110123sisd5313m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/errones/110123sisd5313m3.jpg
     caption: Teeth' not coloured. Sisters Island, Jan 11 '
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/100420sntd1507m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/errones/100420sntd1507m3.jpg
     caption: Mama cowrie under a rock, protecting her egg mass with her foot. Sentosa,
       Apr 10
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/181126lablks.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/errones/181126lablks.jpg
     caption: Labrador, Nov 18 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/171108ecpmblks11.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/errones/171108ecpmblks11.jpg
     caption: East Coast-Marina Bay, Nov 17 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/240212sjivc4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/errones/240212sjivc4.jpg
     caption: St John's Island, Feb 24 Photo shared by Vincent Choo on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/240309tkccn1a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/errones/240309tkccn1a.jpg
     caption: Pulau Tekukor, Mar 24 Photo shared by Chee Cheng Neo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/250712tplrk1b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/errones/250712tplrk1b.jpg
     caption: Terumbu Pempang Laut, Jul 25 Photo shared by Richard Kuah on facebook
       .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/210501tbvc6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/errones/210501tbvc6.jpg
     caption: Terumbu Bemban, May 21 Photo shared by Vincent Choo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/170514bbbtch3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/errones/170514bbbtch3.jpg
     caption: Beting Bemban Besar, May 17 Photo shared by Toh Chay Hoon on facebook
       .
 links_references: '**Links**

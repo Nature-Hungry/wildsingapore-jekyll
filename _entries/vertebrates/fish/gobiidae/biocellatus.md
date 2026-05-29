@@ -25,30 +25,30 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Gobiinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/biocellatus/100612chgd5308m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/biocellatus/100612chgd5308m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/biocellatus/100612chgd5308m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/biocellatus/100612chgd5308m3.jpg
     caption: Changi, Jun 10
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/biocellatus/070615sntrg0341m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/biocellatus/070615sntrg0341m6l.jpg
     caption: This one caught another goby! Sentosa, Jun 07
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/biocellatus/100612chgd5276.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/biocellatus/100612chgd5276.jpg
     caption: Changi, Jun 10
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/biocellatus/100612chgd5276m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/biocellatus/100612chgd5276m3a.jpg
     caption: Lower jaw longer than upper. Single tiny 'eyelid'.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/biocellatus/081019cjtch.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/biocellatus/081019cjtch.jpg
     caption: Chek Jawa, Oct 08 Photo shared by Toh Chay Hoon on flickr .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/biocellatus/200819ecptch2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/biocellatus/200819ecptch2.jpg
     caption: East Coast Park, Aug 20 Photo shared by Toh Chay Hoon on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/biocellatus/090512tmlks1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/biocellatus/090512tmlks1m3.jpg
     caption: Tanah Merah, May 09 Photo shared by Loh Kok Sheng on his blog .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/biocellatus/250430sjiml2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/biocellatus/250430sjiml2.jpg
     caption: St John's Island, Apr 25 Photo shared by Mathias Luk on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/biocellatus/220302hntjk1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/biocellatus/220302hntjk1.jpg
     caption: Pulau Hantu, Mar 22 Photo shared by James Koh on facebook .
 links_references: '**Links**
 

@@ -22,21 +22,21 @@ subfamily: Caesalpinioideae
 tribe: Caesalpinieae
 inat_id: 1533609
 updated: Jan 2013
-coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/crista/110301sbwrd6481m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/caesalpinia/crista/110301sbwrd6481m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/crista/110301sbwrd6503m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/caesalpinia/crista/110301sbwrd6503m6l.jpg
     caption: Leaf is bipinnate. Kranji Nature Trail, Mar 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/crista/110301sbwrd6504m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/caesalpinia/crista/110301sbwrd6504m3.jpg
     caption: Black thorns on green stems. Kranji Nature Trail, Mar 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/crista/110301sbwrd6501m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/caesalpinia/crista/110301sbwrd6501m3.jpg
     caption: Kranji Nature Trail, Feb 11
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/crista/110301sbwrd6517m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/caesalpinia/crista/110301sbwrd6517m3a.jpg
     caption: Sungei Buloh Wetland Reserve, Mar 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/crista/110207krjd6054m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/caesalpinia/crista/110207krjd6054m3.jpg
     caption: Kranji Nature Trail, Feb 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/crista/091115ubnd4176m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/caesalpinia/crista/091115ubnd4176m3.jpg
     caption: Pulau Ubin, Nov 09
 links_references: '**Links**
 
@@ -116,9 +116,9 @@ According to Giesen, the seeds are used to treat malaria and parasitic worms. Th
 **Status and threats:**
 This tree is listed as 'Vulnerable' in the Red List of threatened plants of Singapore.
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/crista/110301sbwrd6481m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/caesalpinia/crista/110301sbwrd6481m6l.jpg)
 *Kranji Nature Trail, Mar 11*
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/crista/110301sbwrd6495m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/caesalpinia/crista/110301sbwrd6495m3.jpg)
 *Kranji Nature Trail, Feb 11*
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

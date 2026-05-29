@@ -18,45 +18,45 @@ subclass: Caenogastropoda
 order: Neogastropoda
 superfamily: Olivoidea
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/mustelina/060612cftd2912m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/mustelina/060612cftd2912m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/mustelina/060612cftd2912m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/mustelina/060612cftd2912m3.jpg
     caption: Changi, Jun 06
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/mustelina/110829ecpd0062m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/mustelina/110829ecpd0062m6l.jpg
     caption: Button snails leaping away from a burrowing Olive snail. East Coast Park,
       Aug 11
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/090625cyrd5437m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/miniacea/090625cyrd5437m3.jpg
     caption: Orange-mouth olive snail
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/110830cyrd0490m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/miniacea/110830cyrd0490m3.jpg
     caption: White lip ends at about half the shell opening length. Shell opening
       orange or orangey.
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/090625cyrd5434m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/miniacea/090625cyrd5434m3b.jpg
     caption: Spire flattened with short pointed tip.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/130401chgd5120m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/tigridella/130401chgd5120m3.jpg
     caption: Tigerish olive snail
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/130401chgd5121m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/tigridella/130401chgd5121m3.jpg
     caption: White lip ends at about half the shell opening length. Shell opening
       purplish brown.
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/130401chgd5121m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/tigridella/130401chgd5121m3b.jpg
     caption: Spire conical.
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/mustelina/060612cftd2912m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/mustelina/060612cftd2912m3.jpg
     caption: Weasel olive snail
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/mustelina/090820ecpd9455m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/mustelina/090820ecpd9455m3.jpg
     caption: White lip ends at about half the shell opening length. Shell opening
       violet.
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/mustelina/090820ecpd9455m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/mustelina/090820ecpd9455m3b.jpg
     caption: Short conical spire.
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/oliva/110814smkd9100m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/oliva/110814smkd9100m3.jpg
     caption: Common olive snail
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/oliva/110814smkd9097m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/oliva/110814smkd9097m3.jpg
     caption: White lip ends at less than half the shell opening length. Shell opening
       violet.
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/oliva/110814smkd9097m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/oliva/110814smkd9097m3b.jpg
     caption: Short conical spire.
 links_references: '**Links**
 

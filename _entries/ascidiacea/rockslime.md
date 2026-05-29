@@ -9,21 +9,21 @@ updated: Nov 2019
 phylum: Chordata
 subphylum: Tunicata
 class: Ascidiacea
-coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/rockslime/060129skdg4122m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/rockslime/060129skdg4122m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/rockslime/060129skdg4122m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/rockslime/060129skdg4122m3.jpg
     caption: Pulau Sekudu, Jun 05
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/rockslime/060129skdg4122m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/rockslime/060129skdg4122m3c.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/rockslime/060129skdg4124m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/rockslime/060129skdg4124m3.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/rockslime/090623ecpd4854m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/rockslime/090623ecpd4854m3.jpg
     caption: East Coast Park, Jun 09
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/rockslime/140812chg4d8502m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/rockslime/140812chg4d8502m3a.jpg
     caption: Changi, Aug 14
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/rockslime/100812tpld0272m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/rockslime/100812tpld0272m3.jpg
     caption: Terumbu Pempang Laut, Aug 10
 location:
 - chg

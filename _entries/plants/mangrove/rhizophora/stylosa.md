@@ -23,16 +23,16 @@ class: Magnoliopsida
 order: Malpighiales
 inat_id: 196666
 updated: Jan 2013
-coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/stylosa/070520smkd1221m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/stylosa/070520smkd1221m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/stylosa/090809sjid8827m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/stylosa/090809sjid8827m3a.jpg
     caption: Fruit on stalks. Fruit not so large compared to sepals. St John's Island,
       Aug 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/stylosa/130922hntd3180m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/stylosa/130922hntd3180m3a.jpg
     caption: Flower with long style, more visible without petals. Pulau Hantu, Sep
       13
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/stylosa/120219smkd7218m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/stylosa/120219smkd7218m3b.jpg
     caption: Pulau Semakau, Feb 12
 links_references: '**Links**
 
@@ -99,12 +99,12 @@ According to Giesen, it is used as timber, firewood and to produce charcoal. The
 **Status and threats:**
 It is listed as 'Vulnerable' on the Red List of threatened plants of Singapore. It is threatened by habitat destruction and oil spills.
 
-![](http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/stylosa/070520smkd1221m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/stylosa/070520smkd1221m3.jpg)
 
 Looping stilt roots extending outward.
 *Pulau Semakau, May 07
 
-![](http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/stylosa/090315smkd8283m6l.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/stylosa/090315smkd8283m6l.jpg)*
 Flowers on long branching stalks.
 *Pulau Semakau, Mar 09*
 

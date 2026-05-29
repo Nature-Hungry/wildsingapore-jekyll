@@ -53,32 +53,32 @@ links_references: "**Links**  \n- [Phylum\n  Cnidaria](http://mangrove.nus.edu.s
   \ The Nature Society (Singapore), Singapore. 343 pp.\n"
 galleries:
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/100614bbd5984m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/dofleinia/100614bbd5984m3.jpg
     caption: The glass anemone has very long tentacles. Beting Bronok, Jun 10
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/star/060401ulrd0828m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/star/060401ulrd0828m3.jpg
     caption: The Wiggly reef star anemone has few tentacles. Pulau Hantu, Apr 06
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/band/050808sntg0904m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/band/050808sntg0904m3.jpg
     caption: The Phymanthus anemone has branched tentacles. Sentosa, May 08
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/050821bbg1876m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/doreensis/050821bbg1876m3.jpg
     caption: Long body column of a burrowing Snaky anemone . Beting Bronok, Aug 05
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/060624skdg6189m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/boloceroididae/060624skdg6189m3.jpg
     caption: The Swimming anemone really does swim! Pulau Sekudu, Jun 06
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/041031cjd7939m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadbanded/041031cjd7939m3.jpg
     caption: Some anemones are tiny and lie half buried in the sand. Don't step on
       them! Chek Jawa, Oct 04
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddonieat/040218cjd0004m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/haddonieat/040218cjd0004m3.jpg
     caption: Carpet anemone eating a sand dollar Chek Jawa, Feb 04
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tiger/040702chgd1517m6la.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/tiger/040702chgd1517m6la.jpg
     caption: A tiger anemone attempting to swallow a sea pen ! Changi, Jul 04
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitsmall/150617ecpbsmn2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/hermitsmall/150617ecpbsmn2m3.jpg
     caption: Some anemones live on shells occupied by hermit crabs . East Coast Park,
       Jun 15
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg
     caption: So do anemone shrimps ! Kusu Island, Jul 04
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/040605kusbd0077m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/040605kusbd0077m3.jpg
     caption: The False clown anemonefish can live happily in the carpet anemone that
       would eat any other fish. Kusu Island, Jun 04
 trivia_title: if you learn only 3 things about them ...

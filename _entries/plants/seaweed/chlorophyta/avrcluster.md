@@ -19,14 +19,14 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrcluster/050610sntd3928m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/avrcluster/050610sntd3928m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrcluster/100401labd0407m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/avrcluster/100401labd0407m3b.jpg
     caption: Labrador, Apr 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrcluster/110517tptd1640m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/avrcluster/110517tptd1640m3.jpg
     caption: Terumbu Pempang Tengah, May 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrcluster/091204pawd5208m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/avrcluster/091204pawd5208m3.jpg
     caption: Pulau Pawai, Dec 09
 links_references: '**Links**
 
@@ -107,11 +107,11 @@ other fan-shaped green seaweeds. Here's more on
 [how to tell apart fan-shaped green seaweeds](cffan)
 .
 
-*![](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrcluster/050610sntd3928m3.jpg)
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/avrcluster/050610sntd3928m3.jpg)
 
 Sentosa, Jun 05
 
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrcluster/050610sntd3928m3a.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/avrcluster/050610sntd3928m3a.jpg)*
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}**Species are difficult to positively identify without close examination.
 

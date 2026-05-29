@@ -22,7 +22,7 @@ class: Florideophyceae
 subclass: Rhodymeniophycidae
 order: Gracilariales
 updated: Jan 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/gracilaria/020714cjcpd3122m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/gracilaria/020714cjcpd3122m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -34,9 +34,9 @@ galleries:
       hide in them. Look for them! They grow rapidly on abandoned rope. In fact, they
       are farmed on ropes.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/gracilaria/111030skdd3192m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/gracilaria/111030skdd3192m3.jpg
     caption: Pulau Sekudu, Oct 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/salicornia/050526cjg6877m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/salicornia/050526cjg6877m3.jpg
     caption: Made up of club-shaped segments. Knobbly agar-agar red seaweed Chek Jawa,
       May 05
 links_references: '**Links**
@@ -178,18 +178,18 @@ and
 *Pterocladia*
 .
 
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/gracilaria/020714cjcpd3122m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/gracilaria/020714cjcpd3122m3.jpg)
 
 Many bunches growing on
 
 an abandoned net.
 *Chek Jawa, Jul 02*
 
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/gracilaria/050427tmg5203m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/gracilaria/050427tmg5203m3.jpg)
 
 Loose clusters of long 'stems'.
 *Tanah Merah, Apr 05*
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/gracilaria/060613ecpd2949m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/gracilaria/060613ecpd2949m3.jpg)
 
 Denser bunches of short 'stems'.
 *East Coast, Jun 06*

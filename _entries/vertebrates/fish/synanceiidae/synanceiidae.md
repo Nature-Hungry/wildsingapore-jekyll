@@ -19,14 +19,14 @@ superorder: Acanthomorpha
 order: Perciformes
 suborder: Scorpaenoidei
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/060312hntd0311m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/synanceiidae/horrida/060312hntd0311m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/060312hntd0311m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/synanceiidae/horrida/060312hntd0311m3.jpg
     caption: Hollow-cheeked stonefish
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/others/120606chgmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/synanceiidae/others/120606chgmn.jpg
     caption: Stargazer waspfish Trachicephalus uranoscopus Changi, Jun 12
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/others/120606chgmn2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/synanceiidae/others/120606chgmn2.jpg
     caption: Photo shared by Marcus Ng on flickr .
 links_references: '**Links**
 

@@ -26,7 +26,7 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Oxudercinae
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/novemradiatus/071129blyd7686m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/novemradiatus/071129blyd7686m3.jpg
 links_references: '**Links**
 
   - [Dusky-gilled mudskipper (
@@ -106,11 +106,11 @@ A small, well camouflaged mudskipper that is commonly seen near mangroves and ot
 [how to tell apart small mudskippers](cfmudsmall)
 commonly found on our shores.
 
-![](http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/novemradiatus/071129blyd7686m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/novemradiatus/071129blyd7686m3.jpg)
 
 *Berlayar Creek, Nov 07
 
-![](http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/novemradiatus/071129blyd7686m3a.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/novemradiatus/071129blyd7686m3a.jpg)*
 Pectoral fins reddish near the body.
 
 **Species are difficult to positively identify without close examination.

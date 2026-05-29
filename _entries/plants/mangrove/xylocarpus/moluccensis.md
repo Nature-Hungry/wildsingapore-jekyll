@@ -25,25 +25,25 @@ subfamily: Cedreloideae
 tribe: Xylocarpeae
 inat_id: 425825
 updated: Mar 2020
-coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090126ubnd6188m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/moluccensis/090126ubnd6188m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090126ubnd6188m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/moluccensis/090126ubnd6188m3.jpg
     caption: Leaflets eye-shaped with pointed tips. Pulau Ubin, Jan 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090126ubnd6182m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/moluccensis/090126ubnd6182m3.jpg
     caption: Bark with longitudinal fissures. Pulau Ubin, Jan 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/100110cjd7878m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/moluccensis/100110cjd7878m6l.jpg
     caption: Seasonally, all the leaves may turn yellow. Pulau Ubin, Jan 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090529prpd3038m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/moluccensis/090529prpd3038m3.jpg
     caption: Leaflets underside. Pasir Ris Park, May 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090823cjd9863m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/moluccensis/090823cjd9863m3a.jpg
     caption: Chek Jawa, Aug 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090823cjd9874m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/moluccensis/090823cjd9874m3.jpg
     caption: Flowers in clusters. Chek Jawa, Aug 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090823cjd9874m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/moluccensis/090823cjd9874m3a.jpg
     caption: Chek Jawa, Aug 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090126ubnd6185m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/moluccensis/090126ubnd6185m3.jpg
     caption: Fruit elliptical. Pulau Ubin, Jan 09
 links_references: '**Links**
 

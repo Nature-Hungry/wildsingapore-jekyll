@@ -18,20 +18,20 @@ subclass: Caenogastropoda
 order: Neogastropoda
 superfamily: Conoidea
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turridae/turridae/100926cjd1667m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turridae/turridae/100926cjd1667m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turridae/turridae/100926cjd1667m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turridae/turridae/100926cjd1667m3.jpg
     caption: Chek Jawa, Sep 10
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turridae/turridae/100926cjd1665m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turridae/turridae/100926cjd1665m3.jpg
     caption: Chek Jawa, Sep 10
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turridae/turridae/100926cjd1660m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turridae/turridae/100926cjd1660m3.jpg
     caption: Chek Jawa, Sep 10
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turridae/turridae/111028chgelks4m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turridae/turridae/111028chgelks4m3.jpg
     caption: Changi East, Oct 11 Photo shared by Loh Kok Sheng on his blog .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turridae/turridae/150617ecpbsmn1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turridae/turridae/150617ecpbsmn1m3.jpg
     caption: East Coast Park Big Splash, Jun 15 Photo shared by Marcus Ng on facebook
       .
 links_references: '**Links**

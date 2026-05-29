@@ -18,7 +18,7 @@ family: Melongenidae
 genus: Pugilina
 species: cochlidium
 updated: Aug 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/101207ubnd3195m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/melogenidae/cochlidium/101207ubnd3195m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -30,49 +30,49 @@ galleries:
       its dead, the shell's orange colour is visible as tiny hairs drop off. They
       lay large and and interesting egg capsules.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/101207ubnd3195m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/melogenidae/cochlidium/101207ubnd3195m3.jpg
     caption: Fine hairs on the shell of a living snail. Pulau Ubin, Feb 10
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/101207ubnd3196m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/melogenidae/cochlidium/101207ubnd3196m3.jpg
     caption: Underside. Pulau Ubin, Feb 10
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/050428cftd2949m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/melogenidae/cochlidium/050428cftd2949m3.jpg
     caption: The animal's body is black.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/110815chgd9192m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/melogenidae/cochlidium/110815chgd9192m3.jpg
     caption: Mating and laying eggs Changi, Aug 11
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/110929tmftd1502m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/melogenidae/cochlidium/110929tmftd1502m3.jpg
     caption: Laying eggs Tanah Merah, Sep 11
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/111226tmftd5043m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/melogenidae/cochlidium/111226tmftd5043m3.jpg
     caption: Eggs in the capsule Tanah Merah, Dec 11
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/091217sbglks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/melogenidae/cochlidium/091217sbglks.JPG
     caption: Sembawang, Dec 09 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/160125obsrk1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/melogenidae/cochlidium/160125obsrk1.jpg
     caption: Pulau Ubin OBS, Jan 16 Photo shared by Richard Kuah on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/260103prpyls5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/melogenidae/cochlidium/260103prpyls5.jpg
     caption: Pasir Ris Park, Dec 25 Photo shared by Yan Le Su on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/160510ecpbsjt3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/melogenidae/cochlidium/160510ecpbsjt3.jpg
     caption: East Coast Park, May 16 Photo shared by Jonathan Tan on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/200710mevc7.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/melogenidae/cochlidium/200710mevc7.jpg
     caption: East Coast-Marina East, Jul 20 Photo shared by Vincent Choo on facebook
       .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/151001blymn9m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/melogenidae/cochlidium/151001blymn9m3.jpg
     caption: Berlayar Creek, Oct 15 Photo shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/160209cyrjll1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/melogenidae/cochlidium/160209cyrjll1.jpg
     caption: Cyrene Reef, Feb 16 Photo shared by Jianlin Liu on facebook .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/080209smkhw02m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/melogenidae/cochlidium/080209smkhw02m3.jpg
     caption: Pulau Semakau, Feb 08 Photo shared by Dai Jiao on her flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/110814smkjk2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/melogenidae/cochlidium/110814smkjk2m3.jpg
     caption: Pulau Semakau, Aug 11 Photo shared by James Koh on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/130428tsmklks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/melogenidae/cochlidium/130428tsmklks.JPG
     caption: Terumbu Semakau, Apr 13 Photo shared by Loh Kok Sheng on flickr .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/110517tptlks10m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/melogenidae/cochlidium/110517tptlks10m3.jpg
     caption: Terumbu Pempang Tengah, May 11 Photo shared by Loh Kok Sheng on his blog
       .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/100629tpdjk10m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/melogenidae/cochlidium/100629tpdjk10m3.jpg
     caption: Terumbu Pempang Darat, Jun 10 Photo shared by James Koh on his blog .
 links_references: "**Links**\n- [Family Galeodidae (\n*Melongena pugilina*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/145)\n\
   Tan, Leo W. H. & Ng, Peter K. L., 1988.\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n\

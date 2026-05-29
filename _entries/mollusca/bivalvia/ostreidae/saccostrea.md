@@ -20,14 +20,14 @@ order: Ostreida
 superfamily: Ostreoidea
 subfamily: Saccostreinae
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/saccostrea/050512tmg6390m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/ostreidae/saccostrea/050512tmg6390m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/saccostrea/050512tmg6390m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/ostreidae/saccostrea/050512tmg6390m3.jpg
     caption: Tanah Merah, May 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/saccostrea/050512tmg6390m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/ostreidae/saccostrea/050512tmg6390m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/saccostrea/090308blyd7566m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/ostreidae/saccostrea/090308blyd7566m3.jpg
     caption: Berlayar Creek, Mar 09
 links_references: '**Links**
 

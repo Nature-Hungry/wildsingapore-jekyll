@@ -20,18 +20,18 @@ phylum: Bryophyta
 class: Bryopsida
 order: Hypnales
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/drepaneidae/drepane/130811tmftd1284m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/drepaneidae/drepane/130811tmftd1284m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/drepaneidae/drepane/130811tmftd1284m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/drepaneidae/drepane/130811tmftd1284m3.jpg
     caption: Juvenile. Tanah Merah, Aug 13
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/drepaneidae/drepane/130811tmftd1284m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/drepaneidae/drepane/130811tmftd1284m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/drepaneidae/drepane/150306sbwrd1953.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/drepaneidae/drepane/150306sbwrd1953.jpg
     caption: Spotted sicklefish ( Drepane punctata ) Adults were among those seen
       during a mass fish death event. Sungei Buloh Wetland Reserve, Mar 15
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/drepaneidae/drepane/160507cjik.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/drepaneidae/drepane/160507cjik.jpg
     caption: Spotted sicklefish ( Drepane punctata ) Adults removed from fish net
       Chek Jawa, May 16 Photo shared by Ivan Kwan on flickr .
 links_references: '**Links**

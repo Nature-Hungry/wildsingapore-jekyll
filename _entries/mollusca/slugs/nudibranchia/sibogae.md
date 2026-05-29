@@ -22,30 +22,30 @@ order: Nudibranchia
 suborder: Aeolidina
 superfamily: Fionoidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sibogae/050724bbg0235m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/sibogae/050724bbg0235m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sibogae/050724bbg0235m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/sibogae/050724bbg0235m3.jpg
     caption: Beting Bronok, Jul 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sibogae/050724bbg0234m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/sibogae/050724bbg0234m3a.jpg
     caption: Carrying eggs?
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sibogae/050724bbg0234m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/sibogae/050724bbg0234m3.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sibogae/110518bbd1853m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/sibogae/110518bbd1853m3a.jpg
     caption: Beting Bronok, May 11
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sibogae/110518bbd1884m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/sibogae/110518bbd1884m6l.jpg
     caption: Mating? Beting Bronok, May 11
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sibogae/190802chgjll1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/sibogae/190802chgjll1.jpg
     caption: Changi, Aug 19 Photo shared by Jianlin Liu on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sibogae/250627bbvc1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/sibogae/250627bbvc1.jpg
     caption: Beting Bronok, Jun 25 Photo shared by Vincent Choo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sibogae/110519bbjk.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/sibogae/110519bbjk.jpg
     caption: Beting Bronok, May 11 Photo shared by James Koh on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sibogae/210430sjijll3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/sibogae/210430sjijll3.jpg
     caption: St John's Island, Apr 21 Photo shared by Jianlin Liu on facebook .
 links_references: '**Links**
 

@@ -18,7 +18,7 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/050721cjg9723m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/chaetodontidae/ocellatus/050721cjg9723m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -30,26 +30,26 @@ galleries:
       have small pointed snouts with brush-like teeth. They do poorly in aquariums.
       Don't collect them.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/050721cjg9723m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/chaetodontidae/ocellatus/050721cjg9723m3.jpg
     caption: Sometimes many are seen together. Chek Jawa, Jul 05
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/rostratus/031029sntbd0064m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/chaetodontidae/rostratus/031029sntbd0064m3b.jpg
     caption: Pointed snout to nibble on small things. Sentosa, Oct 03
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/rostratus/050526cjg6792m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/chaetodontidae/rostratus/050526cjg6792m3.jpg
     caption: Flattened sideways it's hard to spot from above or head on. Sentosa,
       Oct 03
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/100615tmlks2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/chaetodontidae/octofasciatus/100615tmlks2m3.jpg
     caption: Some are seen among living corals. Tanah Merah, Jun 10
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/050822cjd5868m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/chaetodontidae/ocellatus/050822cjd5868m3.jpg
     caption: Sometimes seen near carpet anemones . Chek Jawa, Jul 05
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/020627chgcpd0638m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/chaetodontidae/ocellatus/020627chgcpd0638m3.jpg
     caption: Seen near a cerianthid . Changi, Jun 02
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/rostratus/100810sngd0004m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/chaetodontidae/rostratus/100810sngd0004m3.jpg
     caption: Copperband butterflyfish
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/080830kusd9981m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/chaetodontidae/ocellatus/080830kusd9981m3.jpg
     caption: Kite butterflyfish
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/101224sisd4066m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/chaetodontidae/octofasciatus/101224sisd4066m3.jpg
     caption: Eightband butterflyfish
 links_references: "**Links**\n- Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.\n*[A\
   \ Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*\n\

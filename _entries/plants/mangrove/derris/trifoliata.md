@@ -23,21 +23,21 @@ subfamily: Faboideae
 tribe: Millettieae
 inat_id: 354252
 updated: Jan 2013
-coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/derris/trifoliata/090612pndd4084m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/derris/trifoliata/090612pndd4084m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/derris/trifoliata/090328sbwrd8514m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/derris/trifoliata/090328sbwrd8514m3.jpg
     caption: Sungei Buloh Wetland Reserve, Mar 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/derris/trifoliata/081206smkd2450m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/derris/trifoliata/081206smkd2450m3b.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/derris/trifoliata/081206smkd2450m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/derris/trifoliata/081206smkd2450m3.jpg
     caption: Pulau Semakau, Jan 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/derris/trifoliata/090816ubind9107m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/derris/trifoliata/090816ubind9107m3a.jpg
     caption: Pulau Ubin, Aug 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/derris/trifoliata/090425prpd0385m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/derris/trifoliata/090425prpd0385m3.jpg
     caption: Pasir Ris, Apr 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/derris/trifoliata/090612pndd4035m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/derris/trifoliata/090612pndd4035m3.jpg
     caption: Sungei Pandan, Jun 09
 links_references: '**Links**
 
@@ -157,15 +157,15 @@ root is pounded and soaked in water. When whole canoes, full of water and pounde
 *Derris*
 , are upset into the river or pong, a very rapid stupefying of the fish occurs, enabling them to be lifted out of the water by hand. This is preceeded by wild attempts of the victims to escape, in which they expose themselves to spearing, and in this spearing is the chief excitement of the sport. After the poisoning, the water soon becomes pure again. This of course is chiefly by diffusion, but also because aqueous solutions of the poison decompose rather quickly."
 
-*![](http://www.wildsingapore.com/wildfacts/plants/mangrove/derris/trifoliata/090612pndd4084m6l.jpg)
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/derris/trifoliata/090612pndd4084m6l.jpg)
 
 Sungei Pandan, Jun 09
 
-![](http://www.wildsingapore.com/wildfacts/plants/mangrove/derris/trifoliata/090905sbwrd0264m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/derris/trifoliata/090905sbwrd0264m3.jpg)
 
 Sungei Buloh, Sep 09
 
-![](http://www.wildsingapore.com/wildfacts/plants/mangrove/derris/trifoliata/090913kntd0711m3.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/derris/trifoliata/090913kntd0711m3.jpg)*
 Scars of derris.
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

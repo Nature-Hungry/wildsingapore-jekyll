@@ -31,21 +31,21 @@ galleries:
   - url: http://www.wildsingapore.com/echinodermata/holothuroidea/colochirus/050821bbg1857m3b.jpg
     caption: About 1cm, several seen on a Thorny sea cucumber . Beting Bronok, Aug
       05
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/other/050524cftg6598m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/other/050524cftg6598m3b.jpg
     caption: About 1cm, a pair seen on a Flowery sea pen . Changi, May 05
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg
     caption: Peacock-tail anemone shrimp
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/050621skdg8007m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/carpet/050621skdg8007m3.jpg
     caption: Tiny carpet anemone shrimp
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/holthuisi/130626chgd8741m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/holthuisi/130626chgd8741m3.jpg
     caption: Gelek anemone shrimp
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/060527sjig6054m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/rednose/060527sjig6054m3.jpg
     caption: Little red nose shrimp
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/coralliocaris/110126hntd5201m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/coralliocaris/110126hntd5201m3.jpg
     caption: Machine gun coral shrimp
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/palaemon/060527sjig6099m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/palaemon/060527sjig6099m3.jpg
     caption: Glass shrimp
 links_references: "**Links**\n- [Glass Shrimp (\n*Periclimenes*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/180)\n\
   Tan, Leo W. H. & Ng, Peter K. L., 1988,\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n\

@@ -21,19 +21,19 @@ superorder: Eupulmonata
 order: Systellommatophora
 superfamily: Onchidioidea
 updated: Jun 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/long/050809lckg1017m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/long/050809lckg1017m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/long/050809lckg1017m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/long/050809lckg1017m3.jpg
     caption: Lim Chu Kang, Aug 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/long/050809lckg1017m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/long/050809lckg1017m3a.jpg
     caption: Eyes on stalks.
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/long/050809lckg1020m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/long/050809lckg1020m3.jpg
     caption: Underside
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/long/251200admrqo2a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/long/251200admrqo2a.jpg
     caption: Admiralty Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/long/251200admrqo2b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/long/251200admrqo2b.jpg
     caption: ''
 location:
 - sbw

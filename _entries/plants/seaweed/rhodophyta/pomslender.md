@@ -25,21 +25,21 @@ suborder: Corallinineae
 subfamily: Corallinoideae
 tribe: Janieae
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/070902skdg2154m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomslender/070902skdg2154m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/120410chgd9015m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomslender/120410chgd9015m3.jpg
     caption: Loose bunches growing among seagrasses. Changi, Apr 12
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/110520chgd2384m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomslender/110520chgd2384m3.jpg
     caption: Growing on an abandoned rope. Changi, May 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/080425cyrd1775m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomslender/080425cyrd1775m3b.jpg
     caption: Loose tangles growing among seagrasses. Cyrene Reef, Apr 08
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/050526cjg6842m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomslender/050526cjg6842m3.jpg
     caption: Chek Jawa, May 05
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/050625labg8597m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomslender/050625labg8597m3.jpg
     caption: Labrador, Jun 05
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/050720sntg9570m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomslender/050720sntg9570m3.jpg
     caption: Sentosa, Jul 05
 links_references: '**Links**
 
@@ -124,11 +124,11 @@ species, seaweed recorded for Singapore that look like Slender crunchy pom-pom r
 other
 [pinkish seaweeds with a pom pom shape.](pompom)
 
-*![](http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/070902skdg2154m3.jpg)
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomslender/070902skdg2154m3.jpg)
 
 Pulau Sekudu, Jul 09
 
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/070902skdg2154m3d.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomslender/070902skdg2154m3d.jpg)*
 White rounded 'caps' at the tips.
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

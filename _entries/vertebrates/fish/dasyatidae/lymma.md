@@ -23,63 +23,63 @@ infraclass: Batoidea
 order: Myliobatiformes
 subfamily: Neotrygoninae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080802sjid8804m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/lymma/080802sjid8804m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080802sjid8804m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/lymma/080802sjid8804m3.jpg
     caption: Oval body with rounded snout. Many bright blue spots. St. John's Island,
       Aug 08
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080802sjid8804m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/lymma/080802sjid8804m3a.jpg
     caption: Broad skin flap under the tail. Blue stripes along length of tail.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080802sjid8875m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/lymma/080802sjid8875m3.jpg
     caption: Spine near the end of the tail.
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080802sjid8875.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/lymma/080802sjid8875.jpg
     caption: St. John's Island, Aug 08
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/100502tryd2314m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/lymma/100502tryd2314m6l.jpg
     caption: Hard to spot under rippling water. Terumbu Raya, May 10
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/070728sisd4474m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/lymma/070728sisd4474m3a.jpg
     caption: May be half buried in sand. Sisters Island, Jul 07
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/091008tmjk4m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/lymma/091008tmjk4m3.jpg
     caption: Hidden under ledges and rocks. Tanah Merah, Oct 09 Photo shared by James
       Koh on his blog .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/170822lablks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/lymma/170822lablks2.jpg
     caption: Labrador, Aug 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/250714srpal2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/lymma/250714srpal2.jpg
     caption: Sentosa Serapong, Jul 25 Photo shared of Adriane Lee on facebook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/201116lazmn3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/lymma/201116lazmn3.jpg
     caption: Lazarus Island, Nov 20 Photo shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/200820ssisjll3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/lymma/200820ssisjll3.jpg
     caption: Small Sisters Island, Aug 20 Photo shared by Jianlin Liu on facebook
       .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/240528tsllks9.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/lymma/240528tsllks9.jpg
     caption: Terumbu Selegie, May 24 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/160711tsmkgl1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/lymma/160711tsmkgl1.jpg
     caption: Terumbu Semakau, Jul 16 Photo shared by Dayna Cheah on facebook .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/201215smkejll6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/lymma/201215smkejll6.jpg
     caption: Pulau Semakau (East), Dec 20 Photo shared by Jianlin Liu on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080510smklksm3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/lymma/080510smklksm3.jpg
     caption: Pulau Semakau, May 08 Photo shared by Loh Kok Sheng on his blog .
   gallery9:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/110423tpllks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/lymma/110423tpllks.JPG
     caption: Terumbu Pempang Laut, Apr 11 Photo shared by Loh Kok Sheng on flickr
       .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/160609thntmn4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/lymma/160609thntmn4.jpg
     caption: Terumbu Hantu, Jun 16 Photo shared by Marcus Ng on facebook .
   gallery10:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/091205sudjk12m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/lymma/091205sudjk12m3.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by James Koh on his flickr .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/100530biomn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/lymma/100530biomn.jpg
     caption: Pulau Biola, May 10 Photo shared by Marcus Ng on flickr .
   gallery11:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/210428slulks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/lymma/210428slulks2.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 

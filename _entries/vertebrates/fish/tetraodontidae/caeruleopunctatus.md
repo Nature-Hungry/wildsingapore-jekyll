@@ -14,16 +14,16 @@ family: Tetraodontidae
 genus: Arothon
 species: caeruleopunctatus
 updated: Nov 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/caeruleopunctatus/sbr2019-054-055-caeruleopunctatus.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/caeruleopunctatus/sbr2019-054-055-caeruleopunctatus.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/caeruleopunctatus/sbr2019-054-055-caeruleopunctatus.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/caeruleopunctatus/sbr2019-054-055-caeruleopunctatus.jpg
     caption: Live one, seen diving. Photo by Toh Chay Hoon from Singapore Biodiversity
       Records 2019:54-55
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/caeruleopunctatus/sbr2019-054-055.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/caeruleopunctatus/sbr2019-054-055.jpg
     caption: Kusu Island, Aug 17 Photo shared by Marcus Ng on facebook .
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/caeruleopunctatus/sbr2015-047.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/caeruleopunctatus/sbr2015-047.jpg
     caption: 'Dead fish washed ashore during mass fish death. Pasir Ris Park, Mar
       15 Photo by Sean Yap from Singapore Biodiversity Records 2015: 47'
 links_references: '**Links**

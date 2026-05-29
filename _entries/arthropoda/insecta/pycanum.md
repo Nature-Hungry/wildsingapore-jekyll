@@ -24,14 +24,14 @@ subfamily: Tessaratominae
 tribe: Tessaratomini
 subtribe: Eusthenaria
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/insecta/pycanum/040214ubnd0082m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/insecta/pycanum/040214ubnd0082m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/insecta/pycanum/040214ubnd0082m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/insecta/pycanum/040214ubnd0082m3.jpg
     caption: Adult on Simpoh air leaf. Pulau Ubin, Feb 04
-  - url: http://www.wildsingapore.com/wildfacts/insecta/pycanum/040207ubnd0027m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/insecta/pycanum/040207ubnd0027m3.jpg
     caption: Nymph on Simpoh air leaf. Pulau Ubin, Feb 04
-  - url: http://www.wildsingapore.com/wildfacts/insecta/pycanum/151223labmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/insecta/pycanum/151223labmn.jpg
     caption: Labrador, Dec 15 Photo shared by Marcus Ng on flickr .
 links_references: '**Links**
 

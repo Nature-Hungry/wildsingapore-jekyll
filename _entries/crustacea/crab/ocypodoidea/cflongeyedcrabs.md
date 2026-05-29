@@ -9,21 +9,21 @@ updated: Apr 2020
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0059m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0059m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/vocans/040108ubid0090m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/vocans/040108ubid0090m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/080830kusd0094m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/macrophthalmus/080830kusd0094m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0059m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0059m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/vocans/040108ubid0090m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/vocans/040108ubid0090m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/080830kusd0094m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/macrophthalmus/080830kusd0094m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0061m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0061m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/vocans/080525ubnd4405m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/vocans/080525ubnd4405m3a.jpg
     caption: ''
 ---
 

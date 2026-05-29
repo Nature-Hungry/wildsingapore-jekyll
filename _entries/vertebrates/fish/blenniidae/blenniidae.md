@@ -18,7 +18,7 @@ superorder: Acanthomorpha
 order: Blenniiformes
 suborder: Blennioidei
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/051216smkg3405m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/variabilis/051216smkg3405m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -29,21 +29,21 @@ galleries:
     caption: Some can give a nasty bite! They lay their eggs in empty shells, so please
       put them back where you found them. Some of them nibble on bigger living fishes!
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/051216smkg3405m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/variabilis/051216smkg3405m3.jpg
     caption: Pulau Semakau, Dec 05
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/oyster/090819ecpd9415m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/oyster/090819ecpd9415m6l.jpg
     caption: East Coast, Aug 09
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/090918tmd0989m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/variabilis/090918tmd0989m6l.jpg
     caption: Guarding eggs laid inside a Fan shell . Tanah Merah, Sep 09
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/091204pawd5376.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/variabilis/091204pawd5376.jpg
     caption: Guarding eggs laid inside a snail shell. Pulau Pawai, Dec 09
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/091009tmd2618m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/variabilis/091009tmd2618m3.jpg
     caption: Variable fang-blenny
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/oyster/090819ecpd9415m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/oyster/090819ecpd9415m3c.jpg
     caption: Oyster-blenny
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/rockskipper/190831kusjc2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/rockskipper/190831kusjc2.jpg
     caption: Rockskipper blenny
 links_references: '**Links**
 

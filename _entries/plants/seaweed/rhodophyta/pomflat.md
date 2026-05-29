@@ -25,31 +25,31 @@ suborder: Corallinineae
 subfamily: Corallinoideae
 tribe: Janieae
 updated: Oct 15
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/070602sjig9819m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomflat/070602sjig9819m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/110903sntd1024m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomflat/110903sntd1024m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/110903sntd1022m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomflat/110903sntd1022m3.jpg
     caption: Sentosa, Sep 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/070602sjig9819m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomflat/070602sjig9819m3b.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/060716sisd4601m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomflat/060716sisd4601m3.jpg
     caption: Sisters Island, Jul 06
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/091104sntd3603m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomflat/091104sntd3603m3.jpg
     caption: Sentosa, Nov 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/100130brkd8628m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomflat/100130brkd8628m3.jpg
     caption: Terumbu Berkas, Jan 10
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/100530tbkd4318m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomflat/100530tbkd4318m3.jpg
     caption: Pulau Berkas, May 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/100810sngd9927m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomflat/100810sngd9927m3.jpg
     caption: Pulau Senang, Aug 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/100531biod4521m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomflat/100531biod4521m3.jpg
     caption: Pulau Biola, May 10
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/100131slud8870m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomflat/100131slud8870m3.jpg
     caption: Terumbu Salu, Jan 10
 links_references: '**Links**
 
@@ -123,7 +123,7 @@ A usually rather flattened cluster (5-8cm) of many stiff, thick, cylindrical but
 other
 [pinkish seaweeds with a pom pom shape.](pompom)
 
-*![](http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/070602sjig9819m3.jpg)
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomflat/070602sjig9819m3.jpg)
 
 St. John's Island, Jun 07*
 

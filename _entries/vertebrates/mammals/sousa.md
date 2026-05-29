@@ -25,7 +25,7 @@ parvorder: Odontoceti
 superfamily: Delphinoidea
 subfamily: Delphininae
 updated: Oct 2019
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/sousa/170823tsmkjt2.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/sousa/170823tsmkjt2.jpg
 links_references: "**Links**\n- *[Sousa chinensis](https://singapore.biodiversity.online/taxo4254/mainSpace/Sousa%20Chinensisl)*\
   \ (Cetartiodactyla: Delphinidae) Indo-Pacific Humpbacked Dolphin by Yang Jia Qi,\
   \ 2015, on taxo4254.\n- [Support ACRES effort for wild dolphins in Singapore](http://wildshores.blogspot.sg/2015/04/support-acres-effort-for-wild-dolphinsl)\
@@ -51,16 +51,16 @@ links_references: "**Links**\n- *[Sousa chinensis](https://singapore.biodiversit
   \  Press. 263 pp.\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/sousa/170823tsmkjt2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/sousa/170823tsmkjt2.jpg
     caption: St John's Island, Aug 17 Photos by Jonathan Tan on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/sousa/090610smknml1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/sousa/090610smknml1m3.jpg
     caption: Off Pulau Semakau, Jun 09 Photos by Karenne Tun shared on Neo Mei Lin's
       blog .
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/sousa/090610smknml2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/sousa/090610smknml2m3.jpg
     caption: Off Pulau Semakau, Jun 09 Photos by Karenne Tun shared on Neo Mei Lin's
       blog .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/sousa/070521sisckt1m6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/sousa/070521sisckt1m6.jpg
     caption: Off Sisters Islands, May 07 Photo shared by CK Tan on the habitatnews
       flickr
 size:

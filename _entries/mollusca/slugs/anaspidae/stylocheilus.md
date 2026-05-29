@@ -20,41 +20,41 @@ subterclass: Tectipleura
 order: Aplysiida
 superfamily: Aplysioidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/050325sjig3648m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/stylocheilus/050325sjig3648m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/050325sjig3648m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/stylocheilus/050325sjig3648m3.jpg
     caption: St John's Island, Mar 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/050325sjig3652m3d.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/stylocheilus/050325sjig3652m3d.jpg
     caption: Long narrow tail with spots.
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/050325sjig3648m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/stylocheilus/050325sjig3648m3a.jpg
     caption: Two pairs of tentacles.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/050325sjig3648m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/stylocheilus/050325sjig3648m3c.jpg
     caption: Spiky projections.
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/050325sjig3648m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/stylocheilus/050325sjig3648m3b.jpg
     caption: Purple or blue spots with fine lines running along the length of the
       body.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/151128sjid0506.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/stylocheilus/151128sjid0506.jpg
     caption: Well camouflaged among seaweeds. St John's Island, Nov 15
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/150604chg7d4928.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/stylocheilus/150604chg7d4928.jpg
     caption: Tiny one among seagrasses. Changi, Jun 15
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/090428chgd0786.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/stylocheilus/090428chgd0786.jpg
     caption: Small one among seagrasses. Changi, Apr 09
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/100617tbtch10m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/stylocheilus/100617tbtch10m3.jpg
     caption: Terumbu Bemban, Jun 10 Photo shared by Toh Chay Hoon on her blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/100617tsmklks9m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/stylocheilus/100617tsmklks9m3.jpg
     caption: Terumbu Semakau, Jun 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/100617tsmjk6m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/stylocheilus/100617tsmjk6m3.jpg
     caption: Terumbu Semakau, Jun 10 Photo shared by James Koh on his blog .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/120407lazlks14m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/stylocheilus/120407lazlks14m3.jpg
     caption: Seringat Kias, Apr 12 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/120407lazlks15m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/stylocheilus/120407lazlks15m3.jpg
     caption: Seringat Kias, Apr 12 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/120407lazlks15m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/stylocheilus/120407lazlks15m3b.jpg
     caption: ''
 links_references: '**Links**
 

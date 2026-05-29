@@ -19,7 +19,7 @@ order: Syngnathiformes
 suborder: Syngnathoidei
 subfamily: Syngnathinae
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg
 links_references: "**Links**\n- [Seahorse\n  (*Hippocampus* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/229)\
   \ Tan, Leo W. H. & Ng, Peter K. L.,\n  1988. *[A\n  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
   \ The Singapore Science Centre,\n  Singapore. 160 pp.\n- [Spotted\n  Seahorse (*Hippocampus\
@@ -66,26 +66,26 @@ galleries:
       'pregnant'. They reproduce slowly. They are globally endangered due to overharvesting
       for the traditional medicine trade.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg
     caption: Often seen in a pair. Tanah Merah, Aug 09
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/050511cftg6328m3d.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/050511cftg6328m3d.jpg
     caption: Flexible tail used to hang onto objects. Changi, May 05
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/070702chgd3169m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/070702chgd3169m3.jpg
     caption: Mobile eyes can move while the body remains still. Toothless jaws used
       like a straw. Changi, Jul 07
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/080702prpd6420m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/080702prpd6420m3.jpg
     caption: Pregnant papa Pasir Ris Park, Jul 08
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/110519chgd2195m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/110519chgd2195m3.jpg
     caption: Very pregnant papa . Changi, May 11
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/120312siss04823m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/comes/120312siss04823m3.jpg
     caption: Very pregnant papa. Sisters Island, Mar 12
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/050511cftg6328m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/050511cftg6328m3.jpg
     caption: Estuarine seahorses body and tail the same colour
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/031226chgd0026m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/031226chgd0026m3.jpg
     caption: Estuarine seahorses 'hairy' and usually small
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/050625labg8740m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/comes/050625labg8740m3.jpg
     caption: Tiger-tailed seahorses tail is banded yellow and black
   gallery5:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1

@@ -22,7 +22,7 @@ order: Gentianales
 subfamily: Rubioideae
 tribe: Palicoureeae
 updated: Dec 09
-coverimg: http://www.wildsingapore.com/wildfacts/plants/fruittrees/coffea/coffea/091213ubnd5838m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/coffea/coffea/091213ubnd5838m6l.jpg
 links_references: "**Links**\n- [Coffee](http://www.hort.purdue.edu/newcrop/Crops/Coffeel)\n\
   \  and *[Coffea\n  arabica](http://www.hort.purdue.edu/newcrop/duke_energy/Coffea_arabical)*\
   \ New Crop Resource Online Program at Purdue University.\n- [The\n  story of coffee](http://www.ico.org/coffee_story.asp)\
@@ -30,16 +30,16 @@ links_references: "**Links**\n- [Coffee](http://www.hort.purdue.edu/newcrop/Crop
   \  S.C. Chin and H. T. W. Tan. 1990, *[The\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/coffea/coffea/091213ubnd5832m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/coffea/coffea/091213ubnd5832m6l.jpg
     caption: Pulau Ubin, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/coffea/coffea/091213ubnd5831m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/coffea/coffea/091213ubnd5831m3.jpg
     caption: Pulau Ubin, Dec 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/coffea/coffea/091213ubnd5830m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/coffea/coffea/091213ubnd5830m3.jpg
     caption: Pulau Ubin, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/coffea/coffea/091213ubnd5832m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/coffea/coffea/091213ubnd5832m3b.jpg
     caption: Pulau Ubin, Oct 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/coffea/coffea/091213ubnd5839m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/coffea/coffea/091213ubnd5839m6l.jpg
     caption: Pulau Ubin, Dec 09
   gallery3:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -74,7 +74,7 @@ A tall bush (to about 5m). Leaves large. Flowers small, white or green, and frag
 **Human uses:**
 This story of coffee is as rich and interesting as the drink itself. Below are links to some sites with more details.
 
-![](http://www.wildsingapore.com/wildfacts/plants/fruittrees/coffea/coffea/091213ubnd5838m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/coffea/coffea/091213ubnd5838m6l.jpg)
 
 *Pulau Ubin, Dec 09*
 

@@ -10,36 +10,36 @@ phylum: Chordata
 subphylum: Tunicata
 class: Ascidiacea
 family: Styelidae
-coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/orange/050722cjg9833m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/orange/050722cjg9833m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/orange/050722cjg9833m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/orange/050722cjg9833m3.jpg
     caption: Chek Jawa, Jul 05
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/orange/050722cjg9833m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/orange/050722cjg9833m3c.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/orange/050722cjg9833m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/orange/050722cjg9833m3b.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/orange/100518tbbc3695m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/orange/100518tbbc3695m3.jpg
     caption: Beting Bemban Besar, May 10
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/orange/050722cjg9833m3d.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/orange/050722cjg9833m3d.jpg
     caption: Some kind of animal embedded in the ascidian.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/orange/050623cjg8270m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/orange/050623cjg8270m3.jpg
     caption: Chek Jawa, Jun 05
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/orange/080704sekd6781m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/orange/080704sekd6781m3.jpg
     caption: Pulau Sekudu, Jul 08
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/orange/110814smkd9103m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/orange/110814smkd9103m3.jpg
     caption: Pulau Semakau, Aug 11
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/orange/150619tuslks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/orange/150619tuslks.JPG
     caption: Tuas, Jun 15 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/orange/241021ecppcnig1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/orange/241021ecppcnig1.jpg
     caption: East Coast (PCN), Oct 24 Photo shared by Isaac Goh on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/orange/101205blylks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/orange/101205blylks2.jpg
     caption: Berlayar Creek, Oct 15 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/orange/160608cyrmn3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/orange/160608cyrmn3.jpg
     caption: Cyrene Reef, Jun 16 Photo shared by Marcus Ng on facebook .
 links_references: '**Links**
 

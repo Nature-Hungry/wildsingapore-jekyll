@@ -9,24 +9,24 @@ updated: Feb 2020
 phylum: Chordata
 subphylum: Tunicata
 class: Ascidiacea
-coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/white/050526cjg6883m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/white/050526cjg6883m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/white/050526cjg6883m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/white/050526cjg6883m3.jpg
     caption: Chek Jawa, May 05
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/white/050526cjg6883m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/white/050526cjg6883m3a.jpg
     caption: Some slightly larger holes have transparent cones with white stripes.
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/white/050526cjg6883m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/white/050526cjg6883m3b.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/white/050623cjg8306m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/white/050623cjg8306m3.jpg
     caption: Chek Jawa, Jun 05
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/white/050822cjg2166m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/white/050822cjg2166m3c.jpg
     caption: Chek Jawa, Aug 05
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/white/110814smkd9123m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/white/110814smkd9123m3.jpg
     caption: Pulau Semakau, Aug 11
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/white/200125prpAhd3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/white/200125prpAhd3.jpg
     caption: Pasir Ris Park, Jan 20 Photo shared by Nurulhuda on facebook .
 location:
 - prp

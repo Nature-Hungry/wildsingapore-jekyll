@@ -21,25 +21,25 @@ class: Phaeophyceae
 subclass: Fucophycidae
 order: Ectocarpales
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/120819cyrd0467m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/colpomenia/120819cyrd0467m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/051103sisg2851m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/colpomenia/051103sisg2851m3a.jpg
     caption: Crisp outer membrance encasing hollow interior. Sisters Islands, Nov
       05
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/120819cyrd0467m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/colpomenia/120819cyrd0467m3a.jpg
     caption: When submerged may have a fine hairy surface.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/090512tmftd1590m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/colpomenia/090512tmftd1590m3.jpg
     caption: Tanah Merah, May 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/060128labg4051m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/colpomenia/060128labg4051m3.jpg
     caption: Labrador, Jan 06
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/101010scyrd1998m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/colpomenia/101010scyrd1998m3.jpg
     caption: South Cyrene, Oct 10
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/101107tburrl.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/colpomenia/101107tburrl.jpg
     caption: Terumbu Buran, Nov 10 Photo shared by Russel Low on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/171009blyay1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/colpomenia/171009blyay1.jpg
     caption: Berlayar Creek, Oct 17 Photo shared by Abel Yeo on facebook .
 links_references: '**Links**
 
@@ -121,7 +121,7 @@ These odd lumpy brown bubbles are sometimes seen on our shores, growing on rocks
 
 Small bubbles 1-6cm, covering a small area, but sometimes many clumps of bubbles may cover an area of 1m or more. A crisp outer membrane with a smooth somewhat shiny texture, encasing a hollow interior. The seaweed starts growing as a single rounded blob and as it gets bigger may form sheets with irregular wrinkled blobs or puffed up lobes. Colours range from beige to yellowish brown.
 
-*![](http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/120819cyrd0467m3.jpg)
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/colpomenia/120819cyrd0467m3.jpg)
 
 Cyrene Reef, Aug 12*
 

@@ -28,45 +28,45 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrowide/070618rlhg0608m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrowide/070618rlhg0608m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrowide/070618rlhg0608m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrowide/070618rlhg0608m3.jpg
     caption: Some acropora coral form table-like colonies. Raffles Lighthouse, Jun
       07
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/051204sisg3229m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrstumpy/051204sisg3229m3.jpg
     caption: Corallites with tentacles contracted. Sisters Island, Dec 05
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrelegant/080422smkd1440m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrelegant/080422smkd1440m3c.jpg
     caption: With the tentacles extended, the colony can appear 'furry'. Pulau Semakau,
       Apr 08
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acropora/050309smkd1518m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acropora/050309smkd1518m3c.jpg
     caption: Producing mucus to protect themselves. Pulau Semakau, Mar 05
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acropora/190220smkm3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acropora/190220smkm3.jpg
     caption: The coral turns pink when stressed. Pulau Semakau, Feb 19
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/080519sisd3399m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrstumpy/080519sisd3399m3a.jpg
     caption: Coral scallop Sisters Island, May 08
   gallery3:
   - url: http://www.wildsingapore.com/crustacea/othercrust/shrimp/coralliocaris/100529kuslks1m3.jpg
     caption: Machine gun shrimp Kusu Island, Jun 10 Photo shared by Loh Kok Sheng
       on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acropora/060305sisd0062m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acropora/060305sisd0062m3.jpg
     caption: Bandit coral crab Sisters Islands, Mar 06
   - url: http://www.wildsingapore.com/vertebrates/fish/gobiidae/histrio/051204sisg3318m3a.jpg
     caption: Acropora goby Sisters Islands, Dec 05
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrelegant/070704jngg1275m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrelegant/070704jngg1275m3.jpg
     caption: Elegant acropora coral
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrtubular/110323tsmkd7657m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrtubular/110323tsmkd7657m3.jpg
     caption: Tubular acropora coral
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstaghorn/070618rlhg0582m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrstaghorn/070618rlhg0582m3.jpg
     caption: Staghorn acropora coral
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrpinecone/060713rlhd4272m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrpinecone/060713rlhd4272m3.jpg
     caption: Pinecone acropora coral
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/070406hntg8468m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrstumpy/070406hntg8468m3.jpg
     caption: Stumpy acropora coral
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/051204sisg3320m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrstumpy/051204sisg3320m3.jpg
     caption: Stumpy acropora coral
   gallery6:
   - url: https://farm1.staticflickr.com/507/19455986182_c73bb99065_z.jpg

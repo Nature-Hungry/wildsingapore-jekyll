@@ -23,7 +23,7 @@ subfamily: Myrtoideae
 tribe: Myrteae
 subtribe: Pimentinae
 updated: Nov 10
-coverimg: http://www.wildsingapore.com/wildfacts/plants/fruittrees/psidium/guajava/091213ubnd5845m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/psidium/guajava/091213ubnd5845m6l.jpg
 links_references: "**Links**\n- *[Psidium\n  guajava](http://floraofsingapore.wordpress.com/2010/04/03/psidium-guajava/)*\
   \ on Total Vascular Flora of Singapore Online: photos\n  and fact sheet.\n- [Guave\n\
   \  (*Psidium guajava*)](http://www.hort.purdue.edu/newcrop/morton/guaval) New Crop\
@@ -31,11 +31,11 @@ links_references: "**Links**\n- *[Psidium\n  guajava](http://floraofsingapore.wo
   \  S.C. Chin and H. T. W. Tan. 1990, *[The\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/psidium/guajava/091213ubnd5841m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/psidium/guajava/091213ubnd5841m3.jpg
     caption: Pulau Ubin, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/psidium/guajava/091213ubnd5842m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/psidium/guajava/091213ubnd5842m3a.jpg
     caption: Pulau Ubin, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/psidium/guajava/091213ubnd5844m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/psidium/guajava/091213ubnd5844m3.jpg
     caption: Pulau Ubin, Dec 09
   gallery2:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -63,7 +63,7 @@ An untidy tree with sparse, drooping branches (to about 6m tall). Bark very smoo
 **Human uses:**
 According to Burkill, the fruit makes "excellent stews, jams and particularly jelly".The leaves are used to produce a black dye as well as to treat stomach ailments.
 
-![](http://www.wildsingapore.com/wildfacts/plants/fruittrees/psidium/guajava/091213ubnd5845m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/psidium/guajava/091213ubnd5845m6l.jpg)
 
 *Pulau Ubin, Dec 09*
 

@@ -17,10 +17,10 @@ subphylum: Vertebrata
 class: Aves
 order: Bucerotiformes
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/birds/albirostris/050126cjd9843m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/birds/albirostris/050126cjd9843m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/birds/albirostris/050126cjd9848m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/birds/albirostris/050126cjd9848m3.jpg
     caption: Pulau Ubin, Jan 05 Pulau Ubin, Feb 04 Chek Jawa, Mar 10
   gallery2:
   - url: http://www.wildsingapore.com/plants/others/ficus/microcarpa/100314cjd9940m3.jpg
@@ -28,11 +28,11 @@ galleries:
   - url: http://www.wildsingapore.com/plants/others/ficus/microcarpa/100314cjd9947m3.jpg
     caption: Chek Jawa, Mar 10
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/birds/albirostris/100314cjd0014m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/birds/albirostris/100314cjd0014m3.jpg
     caption: Chek Jawa, Mar 10 Nesting box in use?
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/birds/albirostris/091121cjd4573m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/birds/albirostris/091121cjd4573m6l.jpg
     caption: Artificial nesting box. Chek Jawa, Nov 09
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/birds/albirostris/091203ubnd4894m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/birds/albirostris/091203ubnd4894m3.jpg
     caption: Pulau Ubin, Dec 09
 links_references: '**Links**
 
@@ -118,7 +118,7 @@ links_references: '**Links**
 ## Where seen?
 Oriental pied-hornbills are commonly seen on Pulau Ubin and sometimes also at Changi. They are the only truly wild hornbills found on Singapore. Unlike most other hornbills, Oriental pied-hornbills can be found outside primary rainforests and may visit inhabited areas to feed on fruit. But they still depend on large living trees for nesting sites.
 
-*![](http://www.wildsingapore.com/wildfacts/vertebrates/birds/albirostris/050126cjd9843m6l.jpg)
+*![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/birds/albirostris/050126cjd9843m6l.jpg)
 
 Pulau Ubin, Jan 05*
 

@@ -25,7 +25,7 @@ subterclass: Tectipleura
 superorder: Sacoglossa
 superfamily: Plakobranchoidea
 updated: Jun 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/costasiella/091108hntjk3m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/costasiella/091108hntjk3m3.jpg
 links_references: "**Links**\n- [*Costasiella*\n  sp. 3](http://www.seaslugforum.net/costsp3.htm)\n\
   \  and [*Avrainvillea*\n  sp.](http://www.seaslugforum.net/factsheet.cfm?base=avrainvillea)\
   \ on [The Sea Slug\n  Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos\
@@ -45,110 +45,110 @@ links_references: "**Links**\n- [*Costasiella*\n  sp. 3](http://www.seaslugforum
   \  497pp.\n- Kuiter, Rudie\n  H and Helmut Debelius. 2009. *World\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/costasiella/091108hntjk3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/costasiella/091108hntjk3m3.jpg
     caption: Pulau Hantu, Nov 09 Photo shared by James Koh on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/costasiella/091206tmd5751m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/costasiella/091206tmd5751m3.jpg
     caption: Tanah Merah, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/costasiella/091206tmd5751m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/costasiella/091206tmd5751m3a.jpg
     caption: Their eyes are close together in between the rhinophores. Tanah Merah,
       Dec 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/costasiella/180520chgtch1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/costasiella/180520chgtch1.jpg
     caption: Changi, May 18 Photo shared by Toh Chay Hoon on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/costasiella/180520chgtch2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/costasiella/180520chgtch2.jpg
     caption: Changi, May 18 Photo shared by Toh Chay Hoon on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/costasiella/180714cjtch2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/costasiella/180714cjtch2.jpg
     caption: Chek Jawa, Jun 18 Photo shared by Toh Chay Hoon on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/costasiella/160704cjtch1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/costasiella/160704cjtch1.jpg
     caption: Chek Jawa, Jul 16 Photo shared by Toh Chay Hoon on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/costasiella/160704cjtch1b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/costasiella/160704cjtch1b.jpg
     caption: Chek Jawa, Jul 16 Photo shared by Toh Chay Hoon on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/costasiella/170624cjtch3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/costasiella/170624cjtch3.jpg
     caption: Chek Jawa, Jun 17 Photo shared by Toh Chay Hoon on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/costasiella/111030skdro3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/costasiella/111030skdro3m3.jpg
     caption: Pulau Sekudu, Oct 11 Photo shared by Rene Ong on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/costasiella/200723bblks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/costasiella/200723bblks1.jpg
     caption: Beting Bronok, Jul 20 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/costasiella/141224tusmn2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/costasiella/141224tusmn2m3.jpg
     caption: Tuas, Dec 14 Photo shared by Loh Kok Sheng on hig blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/costasiella/091010tmjk6m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/costasiella/091010tmjk6m3.jpg
     caption: Tanah Merah, Oct 09 Photo shared by James Koh on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/costasiella/100302ecplks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/costasiella/100302ecplks.JPG
     caption: East Coast Park, Mar 10 Photo shared by Loh Kok Sheng on flickr .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/costasiella/200805sntjll4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/costasiella/200805sntjll4.jpg
     caption: Sentosa Tg Rimau, Aug 20 Photo shared by Jianlin Liu on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/costasiella/171008lazjll.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/costasiella/171008lazjll.jpg
     caption: Lazarus Island, Oct 17 Photo shared by Jianlin Liu on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/costasiella/100103tkkjk4m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/costasiella/100103tkkjk4m3.jpg
     caption: Pulau Tekukor, Photo shared by James Koh on flickr .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/costasiella/200705kusdc7.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/costasiella/200705kusdc7.jpg
     caption: Kusu Island, Jul 20 Photo shared by Dayna Cheah on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/costasiella/150605kustch2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/costasiella/150605kustch2m3.jpg
     caption: Kusu Island, Jun 15 Photo shared by Toh Chay Hoon on facebook .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/costasiella/110203sjilks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/costasiella/110203sjilks.JPG
     caption: St John's Island, Feb 11 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/costasiella/110203sjijk2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/costasiella/110203sjijk2m3.jpg
     caption: St. John's Island, Feb 11 Photo shared by James Koh on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/costasiella/250810bsisjll2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/costasiella/250810bsisjll2.jpg
     caption: Big Sisters Island, Aug 25 Photo shared by Jianlin Liu on facebook .
   gallery9:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/costasiella/170212bsismn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/costasiella/170212bsismn.jpg
     caption: Big Sisters' Island, Feb 17 Photo shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/costasiella/110124bsisjk.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/costasiella/110124bsisjk.jpg
     caption: Big Sisters' Island, Jan 11 Photo shared by James Koh on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/costasiella/210822ssisjll3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/costasiella/210822ssisjll3.jpg
     caption: Small Sisters, Aug 21 Photo shared by Jianlin LIu on facebook .
   gallery10:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/costasiella/210812jngvc2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/costasiella/210812jngvc2.jpg
     caption: Pulau Jong, Aug 21 Photo shared by Vincent Choo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/costasiella/091107hntmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/costasiella/091107hntmn.jpg
     caption: Pulau Hantu, Nov 09 Photo shared by Marcus Ng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/costasiella/140809hntmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/costasiella/140809hntmn.jpg
     caption: Pulau Hantu, Aug 14 Photo shared by Marcus Ng on flickr .
   gallery11:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/costasiella/100402cyrtch1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/costasiella/100402cyrtch1m3.jpg
     caption: Cyrene Reef, Apr 10 Photo shared by Toh Chay Hoon on her blog
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/costasiella/100713cyrtch5m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/costasiella/100713cyrtch5m3.jpg
     caption: . Cyrene Reef, Jul 10 Photo shared by Toh Chay Hoon on her blog .
   gallery12:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/costasiella/160208smkstch3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/costasiella/160208smkstch3.jpg
     caption: Pulau Semakau South, Feb 16 Photo shared by Toh Chay Hoon on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/costasiella/110814smkjk5m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/costasiella/110814smkjk5m3.jpg
     caption: Pulau Semakau, Aug 11 Photo shared by James Koh on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/costasiella/210501tbjk2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/costasiella/210501tbjk2.jpg
     caption: Terumbu Bemban, May 21 Photo shared by James Koh on flickr .
   gallery13:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/costasiella/180615trytch2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/costasiella/180615trytch2.jpg
     caption: Terumbu Raya, Jun 18 Photo shared by Toh Chay Hoon on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/costasiella/170501tsmktch1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/costasiella/170501tsmktch1.jpg
     caption: Terumbu Semakau, May 17 Photo shared by Toh Chay Hoon on facebook .
   gallery14:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/costasiella/251008bbbtl2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/costasiella/251008bbbtl2.jpg
     caption: Beting Bemban Besar, Oct 25 Photo shared by Tammy Lim on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/costasiella/170514bbbtch1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/costasiella/170514bbbtch1.jpg
     caption: Beting Bemban Besar, May 17 Photo shared by Toh Chay Hoon on facebook
       .
   gallery15:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/costasiella/110517tbtro5m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/costasiella/110517tbtro5m3.jpg
     caption: Terumbu Pempang Tengah, May 11 Photo shared by Rene Ong on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/costasiella/110422tpljk2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/costasiella/110422tpljk2m3.jpg
     caption: Terumbu Pempang Laut, Apr 11 Photo shared by James Koh on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/costasiella/210810tpltch2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/costasiella/210810tpltch2.jpg
     caption: Terumbu Pempang Laut, Aug 21 Photo shared by Toh Chay Hoon on facebook
       .
   gallery16:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/costasiella/091204pawjk9m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/costasiella/091204pawjk9m3.jpg
     caption: Pulau Pawai, Dec 09 Photo shared by James Koh on his flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/costasiella/091205sudjk3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/costasiella/091205sudjk3m3.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by James Koh on his flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/costasiella/091205sudtch8m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/costasiella/091205sudtch8m3.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by Toh Chay Hoon on her flickr .
   gallery17:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=as2&o=1&a=3939767255

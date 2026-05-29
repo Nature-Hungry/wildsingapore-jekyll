@@ -22,19 +22,19 @@ order: Ericales
 subfamily: Myrsinoideae
 inat_id: 183233
 updated: Jan 2013
-coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/aegiceras/corniculatum/110419krjd9208m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/aegiceras/corniculatum/110419krjd9208m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/aegiceras/corniculatum/110419krjd9216m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/aegiceras/corniculatum/110419krjd9216m6l.jpg
     caption: Alternating leaves in a spiral. Kranji Nature Trail, Apr 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/aegiceras/corniculatum/110419krjd9216m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/aegiceras/corniculatum/110419krjd9216m3.jpg
     caption: Kranji Nature Trail, Apr 11
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/aegiceras/corniculatum/110419krjd9172m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/aegiceras/corniculatum/110419krjd9172m3.jpg
     caption: Kranji Nature Trail, Apr 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/aegiceras/corniculatum/111121tkgd3731m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/aegiceras/corniculatum/111121tkgd3731m3.jpg
     caption: Pulau Tekong, Nov 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/aegiceras/corniculatum/060905ubnkl1m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/aegiceras/corniculatum/060905ubnkl1m3a.jpg
     caption: Photo shared by Kevin on his blog . Pulau Ubin, Sep 06
 links_references: '**Links**
 
@@ -142,13 +142,13 @@ According to Burkill, the bark is used as a 'fish poison', i.e., to stun fish an
 **Status and threats:**
 This plant is listed as 'Endangered' in the Red List of threatened plants of Singapore. It is threatened by habitat loss and oil spills.
 
-![](http://www.wildsingapore.com/wildfacts/plants/mangrove/aegiceras/corniculatum/110419krjd9208m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/aegiceras/corniculatum/110419krjd9208m6l.jpg)
 
 *Kranji Nature Trail, Apr 11*
-![](http://www.wildsingapore.com/wildfacts/plants/mangrove/aegiceras/corniculatum/110501kntd0403m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/aegiceras/corniculatum/110501kntd0403m3.jpg)
 
 *Kranji Nature Trail, May 11*
-![](http://www.wildsingapore.com/wildfacts/plants/mangrove/aegiceras/corniculatum/110501kntd0403m3a.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/aegiceras/corniculatum/110501kntd0403m3a.jpg)
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 ---

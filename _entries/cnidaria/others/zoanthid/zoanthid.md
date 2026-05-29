@@ -18,7 +18,7 @@ subclass: Hexacorallia
 order: Zoantharia
 suborder: Brachycnemina
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/various/050312hntg3349m3a.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/various/050312hntg3349m3a.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -31,35 +31,35 @@ galleries:
       at low tide. Don't step on them! Their leathery skin is partly made up of chitin,
       the same substance that insect exoskeleton is made up of.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/various/050312hntg3349m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/various/050312hntg3349m3a.jpg
     caption: Two kinds of zoanthids Pulau Hantu, Mar 05
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/various/070518tkrg9365m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/various/070518tkrg9365m3.jpg
     caption: Two kinds of zoanthids Pulau Tekukor, May 07
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/100711cyrd8239m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/mutuki/100711cyrd8239m3a.jpg
     caption: Body column with oral disk edged with short tentacles. Cyrene Reef, Jul
       10
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/050526cj6886m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/zoanthus/050526cj6886m3.jpg
     caption: Sometimes packed so tightly that they are mistaken for hard corals .
       Chek Jawa, May 05
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/050822cjd5877m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/mutuki/050822cjd5877m3.jpg
     caption: At low tide with their tentacles retracted they look like a clump of
       sausages. Chek Jawa, Aug 05
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/100613sngd5448m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/tuberculosa/100613sngd5448m3.jpg
     caption: Sea mat zoanthids have polyps too, embedded in a shared tissue. Kusu
       Island, Oct 04
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/091204pawd5265m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/tuberculosa/091204pawd5265m3a.jpg
     caption: Sea mat zoanthids ( Palythoa tuberculosa ) Polyps embedded in a shared
       mat of tissue.
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/050708labg9179m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/mutuki/050708labg9179m3.jpg
     caption: Broad zoanthids ( Palythoa mutuki ) Polyps with broad oral disk and long
       body column.
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/040804skdd4111m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/zoanthus/040804skdd4111m3b.jpg
     caption: Button zoanthids ( Zoanthus sp.) Polyps with small oral disk and long
       body column.
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/pink/100130brkd8486m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/pink/100130brkd8486m3a.jpg
     caption: Pink button zoanthids ( Zoanthus vietnamensis ) Polyps with pink edges
       at the top of the body column, more obvious in retracted polyp.
 links_references: '**Links**

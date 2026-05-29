@@ -42,39 +42,39 @@ page_images:
 
     '
   col_span: 2
-- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/060115sntg3922m3.jpg
+- url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/ovalis/060115sntg3922m3.jpg
   caption: '<p>Sentosa, Jan 06</p>
 
     '
-- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/050428cftg5289m3a.jpg
+- url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/ovalis/050428cftg5289m3a.jpg
   caption: '<p>Changi, Apr 05*</p>
 
     '
-- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/050511cftg6231m3b.jpg
+- url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/ovalis/050511cftg6231m3b.jpg
   caption: '<p>Tiny algae grow on the leaves which are eaten by tiny animals like
     snails.</p>
 
     <p>Changi, May 05*</p>
 
     '
-- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/121114labd0972m6l.jpg
+- url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/ovalis/121114labd0972m6l.jpg
   caption: '<p>Fruits</p>
 
     <p>Labrador, Nov 12</p>
 
     '
   col_span: 2
-- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/050428cftg5289m3.jpg
+- url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/ovalis/050428cftg5289m3.jpg
   caption: '<p>Spindly female flower of the spoon seagrass?</p>
 
     <p>Changi, Apr 05</p>
 
     '
-- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/090110cjlks01m3.jpg
+- url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/ovalis/090110cjlks01m3.jpg
   caption: "<p>Male flower?</p>\n<p>Chek Jawa, Jan 09</p>  \n<p> Photo shared by Loh\
     \ Kok Sheng on <a href=\"http://wondercreation.blogspot.com/2009/01/first-2009-team-seagrass-trip-at-chekl\"\
     >his blog</a>.</p>\n"
-- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/060624skdg6187m3a.jpg
+- url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/ovalis/060624skdg6187m3a.jpg
   caption: '<p>Burnt leaves.</p>
 
     <p>Pulau Sekudu, Jun 06</p>

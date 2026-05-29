@@ -18,22 +18,22 @@ superorder: Acanthomorpha
 order: Syngnathiformes
 suborder: Callionymoidei
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/120801chgmn.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/callionymidae/erythraeus/120801chgmn.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/120801chgmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/callionymidae/erythraeus/120801chgmn.jpg
     caption: A tiny one about 1cm long. Changi, Aug 12 Photo shared by Marcus Ng on
       flickr .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/mosaic/091008tmd2380m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/callionymidae/mosaic/091008tmd2380m3a.jpg
     caption: Downward pointing mouth. Tanah Merah, Oct 09
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/091020chgd2942m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/callionymidae/erythraeus/091020chgd2942m3.jpg
     caption: Underside of a dead one. Changi, Oct 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/mosaic/091008tmd2380m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/callionymidae/mosaic/091008tmd2380m3.jpg
     caption: Mosaic dragonet
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/090709chgd6825m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/callionymidae/erythraeus/090709chgd6825m3.jpg
     caption: Smallhead dragonet
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/dactylopus/140501kusd5015m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/callionymidae/dactylopus/140501kusd5015m3.jpg
     caption: Kuiter's dragonet
 links_references: '**Links**
 

@@ -29,14 +29,14 @@ zoosubsection: Thoracotremata
 superfamily: Grapsoidea
 subfamily: Cyclograpsinae
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/metaplax/100221sbwrd9527m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/varunidae/metaplax/100221sbwrd9527m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/metaplax/100221sbwrd9527m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/varunidae/metaplax/100221sbwrd9527m3.jpg
     caption: Sungei Buloh Wetland Reserve, Feb 10
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/metaplax/130202mndd3914m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/varunidae/metaplax/130202mndd3914m3.jpg
     caption: Mandai, Feb 13
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/metaplax/130202mndd3914m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/varunidae/metaplax/130202mndd3914m3a.jpg
     caption: Mandai, Feb 13
 links_references: '**Links**
 

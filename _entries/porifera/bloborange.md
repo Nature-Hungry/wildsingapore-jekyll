@@ -21,31 +21,31 @@ subfamily: Satyrinae
 tribe: Satyrini
 subtribe: Mycalesina
 updated: Oct 2019
-coverimg: http://www.wildsingapore.com/wildfacts/porifera/bloborange/040506cjd0125m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/bloborange/040506cjd0125m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/bloborange/040506cjd0125m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/bloborange/040506cjd0125m3.jpg
     caption: Chek Jawa, May 04
-  - url: http://www.wildsingapore.com/wildfacts/porifera/bloborange/050621skdg7908m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/bloborange/050621skdg7908m3.jpg
     caption: Pulau Sekudu, Jun 05
-  - url: http://www.wildsingapore.com/wildfacts/porifera/bloborange/040506cjd0125m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/bloborange/040506cjd0125m3a.jpg
     caption: Tiny brittle stars in the holes.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/bloborange/060611cjd2784m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/bloborange/060611cjd2784m3.jpg
     caption: Chek Jawa, Jun 06
-  - url: http://www.wildsingapore.com/wildfacts/porifera/bloborange/050724bbd5383m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/bloborange/050724bbd5383m3.jpg
     caption: Beting Bronok, Jul 05
-  - url: http://www.wildsingapore.com/wildfacts/porifera/bloborange/031126tusbd0046m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/bloborange/031126tusbd0046m3.jpg
     caption: Tuas, Nov 03 Tiny animals with a feathery fan.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/bloborange/180912tkkmn4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/bloborange/180912tkkmn4.jpg
     caption: Pulau Tekukor, Sep 18 Photo shared by Marcus Ng on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/bloborange/100530tbkd4314m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/bloborange/100530tbkd4314m3.jpg
     caption: Pulau Berkas, May 10
-  - url: http://www.wildsingapore.com/wildfacts/porifera/bloborange/100601slud4818m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/bloborange/100601slud4818m3.jpg
     caption: Pulau Salu, Jun 10
-  - url: http://www.wildsingapore.com/wildfacts/porifera/bloborange/100810sngd9944m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/bloborange/100810sngd9944m3.jpg
     caption: Pulau Senang, Aug 10
 links_references: '**Links**
 

@@ -19,15 +19,15 @@ order: Littorinimorpha
 superfamily: Cypraeoidea
 subfamily: Ovulinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/barbieri/130626chg1d8841ml.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/barbieri/130626chg1d8841ml.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/barbieri/130626chg1d8841ml.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/barbieri/130626chg1d8841ml.jpg
     caption: Changi, Jun 13
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/barbieri/030521bbd0202m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/barbieri/030521bbd0202m3.jpg
     caption: Beting Bronok, May 03
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/barbieri/130526chglks1.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/barbieri/130526chglks1.JPG
     caption: Changi, May 13 Photo shared by Loh Kok Sheng on flickr .
 location:
 - chg

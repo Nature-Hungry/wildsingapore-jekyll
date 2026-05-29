@@ -20,21 +20,21 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Brassicales
 updated: Dec 09
-coverimg: http://www.wildsingapore.com/wildfacts/plants/fruittrees/carica/papaya/091213ubnd5806m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/carica/papaya/091213ubnd5806m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/carica/papaya/091213ubnd5802m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/carica/papaya/091213ubnd5802m3.jpg
     caption: Pulau Ubin, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/carica/papaya/091213ubnd5804m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/carica/papaya/091213ubnd5804m3.jpg
     caption: Male flowers on long stalks.
-  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/carica/papaya/091213ubnd5804m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/carica/papaya/091213ubnd5804m3a.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/carica/papaya/091213ubnd5807m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/carica/papaya/091213ubnd5807m3.jpg
     caption: Pulau Ubin, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/carica/papaya/091213ubnd5807m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/carica/papaya/091213ubnd5807m3a.jpg
     caption: Female flowers on from the main stem.
-  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/carica/papaya/091213ubnd5802m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/carica/papaya/091213ubnd5802m3a.jpg
     caption: ''
   gallery3:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -59,7 +59,7 @@ A tree with a single soft woody stem. The leaf is hand-shaped with 7-11 lobes an
 According to Burkill,
 the ripe fruit is eaten fresh (as it remains today) while young fruits may be boiled and eaten as a vegetable or pickled in vinegar. A traditional method of tenderising beef is to warp it in a papaya leaf. The ingredient, papain, is now commercially harvested from papayas and sold as meat tenderiser. Various parts of the plant are also used in traditional treatment of skin ailments and seeds used to expel parasitic worms.
 
-![](http://www.wildsingapore.com/wildfacts/plants/fruittrees/carica/papaya/091213ubnd5806m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/carica/papaya/091213ubnd5806m6l.jpg)
 
 *Pulau Ubin, Dec 09*
 

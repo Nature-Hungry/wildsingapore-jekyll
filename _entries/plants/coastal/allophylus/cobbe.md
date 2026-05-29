@@ -20,21 +20,21 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Sapindales
 updated: Jan 2013
-coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/allophylus/cobbe/091005cjd2099m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/allophylus/cobbe/091005cjd2099m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/allophylus/cobbe/130102kntd2955m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/allophylus/cobbe/130102kntd2955m3.jpg
     caption: Kranji Nature Trail, Jan 13
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/allophylus/cobbe/090905sbwrd0287m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/allophylus/cobbe/090905sbwrd0287m3a.jpg
     caption: Sungei Buloh Wetland Reserve, Sep 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/allophylus/cobbe/090905sbwrd0287m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/allophylus/cobbe/090905sbwrd0287m3.jpg
     caption: Sungei Buloh Wetland Reserve, Sep 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/allophylus/cobbe/031123sbwrad0006m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/allophylus/cobbe/031123sbwrad0006m3.jpg
     caption: Nymphs of bugs seen on berries. Sungei Buloh Wetland Reserve, Mar 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/allophylus/cobbe/031123sbwrad0019m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/allophylus/cobbe/031123sbwrad0019m3.jpg
     caption: Nymphs of bugs seen on leaves. Sungei Buloh Wetland Reserve, Mar 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/allophylus/cobbe/090905sbwrd0285m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/allophylus/cobbe/090905sbwrd0285m3.jpg
     caption: Sungei Buloh Wetland Reserve, Sep 09
 links_references: '**Links**
 
@@ -110,11 +110,11 @@ and
 **Human uses:**
 According to Giesen, the wood is not considered of good quality and only used for roofing and sometimes as firewood. According to Selvan, the wood was used to make bows. The fruits are edible and according to Selvam, tastes "very sweet". The leaves are used as a mouthwash, to treat fractures, relieve rashes. The roots are used to treat diarrhoea.
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/allophylus/cobbe/091005cjd2099m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/allophylus/cobbe/091005cjd2099m3.jpg)
 
 *Pulau Ubin, Oct 09
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/allophylus/cobbe/090905sbwrd0283m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/allophylus/cobbe/090905sbwrd0283m3.jpg)
 
 Sungei Buloh Wetland Reserve, Sep 09*
 

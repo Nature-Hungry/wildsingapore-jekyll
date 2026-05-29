@@ -24,22 +24,22 @@ class: Magnoliopsida
 order: Malpighiales
 inat_id: 190475
 updated: Jan 2013
-coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/tagal/090117smkd5478m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/ceriops/tagal/090117smkd5478m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/tagal/090412hntd9789m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/ceriops/tagal/090412hntd9789m3.jpg
     caption: Growing on a sea wall. Pulau Hantu, Apr 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/tagal/090117smkd5520m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/ceriops/tagal/090117smkd5520m3a.jpg
     caption: Pulau Semakau, Jan 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/tagal/090124ubnd6050m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/ceriops/tagal/090124ubnd6050m3.jpg
     caption: Flowers small, many one one stalk. Pulau Ubin, Jan 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/tagal/090905sbwrd0234m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/ceriops/tagal/090905sbwrd0234m6l.jpg
     caption: Stilt roots. Sungei Buloh, Sep 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/tagal/090118smkd5854m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/ceriops/tagal/090118smkd5854m3a.jpg
     caption: Brown 'fruit' smooth. Pulau Semakau, Jan 09 Propagules hang down. Pulau
       Ubin, Jan 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/tagal/090118smkd5854m6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/ceriops/tagal/090118smkd5854m6.jpg
     caption: White collar on propagule. Pulau Semakau, Jan 09
 links_references: '**Links**
 
@@ -122,11 +122,11 @@ According to Burkill, it is highly valued as firewood as well as timber and it i
 **Status and threats:**
 It is listed as 'Vulnerable' on the Red List of threatened plants of Singapore.
 
-![](http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/tagal/090117smkd5478m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/ceriops/tagal/090117smkd5478m6l.jpg)
 
 *Pulau Semakau, Jan 09
 
-![](http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/tagal/081211smkd2783m3b.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/ceriops/tagal/081211smkd2783m3b.jpg)
 
 Pulau Semakau, Dec 08*
 

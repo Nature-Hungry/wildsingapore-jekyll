@@ -22,7 +22,7 @@ class: Asteroidea
 superorder: Valvatacea
 order: Valvatida
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/culcita/110717tbd7114m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/culcita/110717tbd7114m3.jpg
 links_references: "**Links**\n- [*Culcita\n  novaeguineae* (Cushion star)](http://www.sealifebase.org/summary/Culcita-novaeguineael)\n\
   \  on SeaLife Base: Technical fact sheet.\n- From the\n  Echinoblog by Dr Chris\
   \ Mah: [The\n  Cushion star *Culcita novaeguineae*: An exercise in growth-related\n\
@@ -40,113 +40,113 @@ links_references: "**Links**\n- [*Culcita\n  novaeguineae* (Cushion star)](http:
   \ *Echinoderms\n  of the Philippines: A guide to common shallow water sea stars,\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/culcita/110717tbd7114m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/culcita/110717tbd7114m3.jpg
     caption: Terumbu Bemban, Jul 11
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/culcita/110717tbd7120m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/culcita/110717tbd7120m3.jpg
     caption: Tube feet on upper surface
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/culcita/110717tbd7120m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/culcita/110717tbd7120m3b.jpg
     caption: Upper surface.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/culcita/110717tbd7127m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/culcita/110717tbd7127m3.jpg
     caption: Underside
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/culcita/110717tbd7127m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/culcita/110717tbd7127m3a.jpg
     caption: Underside.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/culcita/251008bbbtl6a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/culcita/251008bbbtl6a.jpg
     caption: Adult seen hidden under live coral Beting Bemban Besar, Oct 25 Photo
       shared by Tammy Lim on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/culcita/251008bbbtl6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/culcita/251008bbbtl6.jpg
     caption: Adult when removed from hiding.
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/culcita/090309cyrlks02m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/culcita/090309cyrlks02m3.jpg
     caption: Juvenile cushion star Cyrene Reef, Mar 09 Shared by Loh Kok Sheng on
       his blog .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/culcita/100613snglks1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/culcita/100613snglks1m3.jpg
     caption: Juvenile cushion star Pulau Senang, Jun 10 Shared by Loh Kok Sheng on
       his flickr .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/culcita/080623cyrcck1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/culcita/080623cyrcck1m3.jpg
     caption: Juvenile cushion star Cyrene Reef, Jun 08 Photo shared by Chim Chee Kong
       on his flickr .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/culcita/250726cyrjt1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/culcita/250726cyrjt1.jpg
     caption: Juvenile cushion star Cyrene, Jul 25 Photo shared by Jonathan Tan on
       facebook .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/culcita/250726cyrky1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/culcita/250726cyrky1.jpg
     caption: Juvenile cushion star Cyrene, Jul 25 Photo shared by Kelvin Yong on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/culcita/100711cyrlks3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/culcita/100711cyrlks3m3.jpg
     caption: Cyrene Reef, May 08 Photo shared by Loh Kok Sheng on his blog .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/culcita/220911cyrky1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/culcita/220911cyrky1.jpg
     caption: Cyrene Reef, Sep 22 Photo shared by Kelvin Yong on facebook .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/culcita/240623hntlks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/culcita/240623hntlks1.jpg
     caption: Juvenile cushion star Pulau Hantu, Jun 24 Shared by Loh Kok Sheng on
       facebook .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/culcita/240623hntlks1a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/culcita/240623hntlks1a.jpg
     caption: Pulau Hantu, Jun 24 Shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/culcita/240623hntlks1b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/culcita/240623hntlks1b.jpg
     caption: Pulau Hantu, Jun 24 Shared by Loh Kok Sheng on facebook .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/culcita/120411thntjh1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/culcita/120411thntjh1m3.jpg
     caption: Terumbu Hantu, Apr 12 Photo shared by Jose Hong on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/culcita/120411thntsy1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/culcita/120411thntsy1m3.jpg
     caption: Terumbu Hantu, Apr 12 Photo shared by Sam Yeo on facebook .
   gallery9:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/culcita/250811jngtl1a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/culcita/250811jngtl1a.jpg
     caption: Pulau Jong, Aug 25 Shared by Tammy Lim on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/culcita/100519tsmklks9m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/culcita/100519tsmklks9m3.jpg
     caption: Terumbu Semakau, May 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/culcita/120609tmskjk3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/culcita/120609tmskjk3m3.jpg
     caption: Terumbu Semakau, Jun 12 Photo shared by James Koh on his blog .
   gallery10:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/culcita/080723smklksm3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/culcita/080723smklksm3.jpg
     caption: Pulau Semakau, Jul 08 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/culcita/080524smkljh3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/culcita/080524smkljh3m3.jpg
     caption: Pulau Semakau, May 08 Photo shared by Lin Juanhui on her flickr .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/culcita/250629smkelk9.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/culcita/250629smkelk9.jpg
     caption: Pulau Semakau East, Jun 25 Photo shared by Loh Kok Sheng on facebook
       .
   gallery11:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/culcita/200111smksjll1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/culcita/200111smksjll1.jpg
     caption: Pulau Semakau South, Jan 20 Photo shared by Jianlin Liu on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/culcita/160723smkerl2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/culcita/160723smkerl2.jpg
     caption: Pulau Semakau East, Jul 16 Photo shared by Richard Kuah on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/culcita/250727smkwlks10.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/culcita/250727smkwlks10.jpg
     caption: Pulau Semakau West, Jul 25 Photo shared by Loh Kok Sheng on facebook
       .
   gallery12:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/culcita/100617tsmklks7m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/culcita/100617tsmklks7m3.jpg
     caption: Terumbu Semakau, Jun 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/culcita/120609tmskjk3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/culcita/120609tmskjk3m3.jpg
     caption: Terumbu Semakau, Jun 12 Photo shared by James Koh on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/culcita/240822tsmkl1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/culcita/240822tsmkl1.jpg
     caption: Terumbu Semakau, Aug 24 Photo shared by Lon on facebook .
   gallery13:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/culcita/100403tbbjk3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/culcita/100403tbbjk3m3.jpg
     caption: Beting Bemban Besar, Apr 10 Photo shared by James Koh on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/culcita/180815bbbjll2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/culcita/180815bbbjll2.jpg
     caption: Beting Bemban Besar, Aug 18 Photo shared by Jianlin Liu on facebook .
   gallery14:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/culcita/110422tbmlks15m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/culcita/110422tbmlks15m3.jpg
     caption: Terumbu Bemban, Apr 11 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/culcita/110422tbmlks16m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/culcita/110422tbmlks16m3.jpg
     caption: Terumbu Bemban, Apr 11 Photo shared by Loh Kok Sheng on his blog .
   gallery15:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/culcita/150608tptljl1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/culcita/150608tptljl1m3.jpg
     caption: Terumbu Pempang Tengah, Jun 15 Photo shared by Jianlin Liu on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/culcita/210502tptlks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/culcita/210502tptlks1.jpg
     caption: Terumbu Pempang Tengah, May 21 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/culcita/230510tptll1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/culcita/230510tptll1.jpg
     caption: Terumbu Pempang Tengah, May 23 Photo shared by Liz Lim on facebook .
   gallery16:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/culcita/100613snglks4m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/culcita/100613snglks4m3.jpg
     caption: Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/culcita/100530biomn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/culcita/100530biomn.jpg
     caption: Pulau Biola, May 10 Photo shared by Marcus Ng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/culcita/220201brklks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/culcita/220201brklks1.jpg
     caption: Pulau Berkas, Feb 22 Photo shared by Loh Kok Sheng on facebook .
   gallery17:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1

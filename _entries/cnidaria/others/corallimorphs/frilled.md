@@ -20,49 +20,49 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Corallimorpharia
 updated: Jul 2024
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/080608cyrd5465m3a.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/frilled/080608cyrd5465m3a.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/080608cyrd5465m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/frilled/080608cyrd5465m3a.jpg
     caption: Cyrene Reef, Jun 08
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/080608cyrd5465m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/frilled/080608cyrd5465m3.jpg
     caption: Clusters of very short branched tentacles on the oral disk.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/070901sjid6484m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/frilled/070901sjid6484m3.jpg
     caption: St. John's Island, Aug 07
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/070901sjid6484m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/frilled/070901sjid6484m3a.jpg
     caption: Oral disk edged with fine tentacles.
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/070901sjid6484m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/frilled/070901sjid6484m3b.jpg
     caption: Oral disk tucked into the body column.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/060102sisd6496m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/frilled/060102sisd6496m3.jpg
     caption: Sisters Island, Jan 06
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/100215sisd9432m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/frilled/100215sisd9432m3.jpg
     caption: Sisters Island, Feb 10
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/060727jngd5164m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/frilled/060727jngd5164m3.jpg
     caption: Pulau Jong, Jul 06
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/170822lablks5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/frilled/170822lablks5.jpg
     caption: Labrador, Aug 17
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/170822lablks5a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/frilled/170822lablks5a.jpg
     caption: Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/160609thntmn2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/frilled/160609thntmn2.jpg
     caption: Terumbu Hantu, Jun 16 Photo shared by Marcus Ng on facebook
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/160313trymn4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/frilled/160313trymn4.jpg
     caption: Terumbu Raya, Mar 16 Photo shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/100613sngd5533m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/frilled/100613sngd5533m3.jpg
     caption: Pulau Senang, Jun 10
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/100530tbkd4315m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/frilled/100530tbkd4315m3a.jpg
     caption: Bleaching. Pulau Berkas, May 10
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/210810tpltch1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/frilled/210810tpltch1.jpg
     caption: Terumbu Pempang Laut, Aug 21 Photo shared by Toh Chay Hoon on facebook
       .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/100530tbkd4365m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/frilled/100530tbkd4365m3.jpg
     caption: Pulau Berkas, May 10 Bleaching.
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/100130brkd8635m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/frilled/100130brkd8635m3.jpg
     caption: Terumbu Berkas, Jan 10
 links_references: '**Links**
 

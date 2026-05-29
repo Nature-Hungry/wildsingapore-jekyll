@@ -25,41 +25,41 @@ order: Neogastropoda
 superfamily: Buccinoidea
 subfamily: Nassariinae
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/050524cftg6541m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/livescens/050524cftg6541m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/050524cftg6541m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/livescens/050524cftg6541m3.jpg
     caption: Changi, May 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/050524cftg6542m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/livescens/050524cftg6542m3.jpg
     caption: Underside.
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/050524cftg6542m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/livescens/050524cftg6542m3a.jpg
     caption: The operculum has 'teeth' along the edges.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/120705chgd7078m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/livescens/120705chgd7078m6l.jpg
     caption: Very long foot with a pair of tentacles at the end, operculum with a
       dark blotch. Changi, May 05
   - url: http://www.wildsingapore.com/cnidaria/actiniaria/snail/081216prpd3576m3.jpg
     caption: With tiny sea anemones on it. Pasir Ris, Dec 08
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/090224lazlks05m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/livescens/090224lazlks05m3.JPG
     caption: Feeding on a clam! Lazarus Island, Feb 09 Photo shared by Loh Kok Sheng
       on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/090706chgd6731m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/livescens/090706chgd6731m3.jpg
     caption: Cleaning out a shell while hermits wait patiently. Changi, Jul 09
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/090706chgd6764.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/livescens/090706chgd6764.jpg
     caption: Gathered on a dead crab. Changi, Jul 09
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/201019cnyrk6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/livescens/201019cnyrk6.jpg
     caption: Coney Island, Oct 20 Photo shared by Vincent Choo on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/251206chgerk3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/livescens/251206chgerk3.jpg
     caption: Changi East (Lost Coast). Dec 25
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/251206chgetrka.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/livescens/251206chgetrka.jpg
     caption: Photo shared by Richard Kuah on facebook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/201115tkksg1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/livescens/201115tkksg1.jpg
     caption: Pulau Tekukor, Nov 20 Photo shared by Shwne Goh on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/091205sudikw4m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/livescens/091205sudikw4m3.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by Ivan Kwan on his flickr .
 links_references: '**Links**
 

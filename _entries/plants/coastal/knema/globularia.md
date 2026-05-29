@@ -20,22 +20,22 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Magnoliales
 updated: Jan 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/knema/globularia/040208cjd0011m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/knema/globularia/040208cjd0011m3.jpg
 links_references: "**Links**\n- [*Knema\n  globularia*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2982)\n\
   \  on the NParks Flora and Fauna website: photos and fact sheet.\n\n**References**\n\
   - Hsuan Keng,\n  S.C. Chin and H. T. W. Tan. 1990, *[The\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/knema/globularia/080412cjd1319m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/knema/globularia/080412cjd1319m3.jpg
     caption: Chek Jawa, Aug 04
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/knema/globularia/080412cjd1319m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/knema/globularia/080412cjd1319m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/knema/globularia/080412cjd1319m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/knema/globularia/080412cjd1319m3b.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/knema/globularia/070623cjd2686m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/knema/globularia/070623cjd2686m6l.jpg
     caption: Chek Jawa, Jun 07
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/knema/globularia/090926cjd1856m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/knema/globularia/090926cjd1856m3.jpg
     caption: Chek Jawa, Sep 09
   gallery3:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -80,10 +80,10 @@ According to Burkill, the wood is not durable but it is sometimes used for rafte
 **Status and threats:**
 Previously thought to be extinct, with the discoveries of some trees in Pulau Ubin and St. John's Island it is now listed as 'Critically Endangered' in the Red List of threatened plants of Singapore.
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/knema/globularia/040208cjd0011m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/knema/globularia/040208cjd0011m3.jpg)
 
 *Chek Jawa, Feb 04
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/knema/globularia/040208cjd0013m3.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/knema/globularia/040208cjd0013m3.jpg)*
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

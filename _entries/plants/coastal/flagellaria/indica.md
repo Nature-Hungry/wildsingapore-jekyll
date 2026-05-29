@@ -21,7 +21,7 @@ class: Liliopsida
 order: Poales
 inat_id: 360343
 updated: Nov 10
-coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/flagellaria/indica/090111smkd4873m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/flagellaria/indica/090111smkd4873m3.jpg
 links_references: "**Links**\n- [*Flagellaria\n  indica*](http://floraofsingapore.wordpress.com/2010/06/20/flagellaria-indica/)\
   \ on Total Vascular Flora of Singapore Online: photos\n  and fact sheet.\n- Giesen,\
   \ Wim\n  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.\n  [*Mangrove\n\
@@ -31,18 +31,18 @@ links_references: "**Links**\n- [*Flagellaria\n  indica*](http://floraofsingapor
   **References**\n- Hsuan Keng,\n  S.C. Chin and H. T. W. Tan.1998, *[The\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/flagellaria/indica/090328sbwrd8597m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/flagellaria/indica/090328sbwrd8597m3c.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/flagellaria/indica/090328sbwrd8597m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/flagellaria/indica/090328sbwrd8597m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/flagellaria/indica/090328sbwrd8594m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/flagellaria/indica/090328sbwrd8594m3a.jpg
     caption: Sungei Buloh Wetland Reserve, Mar 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/flagellaria/indica/090802ubind8222m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/flagellaria/indica/090802ubind8222m3.jpg
     caption: Pulau Ubin, Aug 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/flagellaria/indica/090802ubind8225m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/flagellaria/indica/090802ubind8225m3.jpg
     caption: Pulau Ubin, Aug 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/flagellaria/indica/100321sgcd0246m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/flagellaria/indica/100321sgcd0246m3.jpg
     caption: Sungei Cina, Apr 10
   gallery3:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -71,11 +71,11 @@ A climber with a thin long stem (2-15m long), woody at the base but generally gr
 **Human uses:**
 According to Burkill, its tough stems are used for basket-making and for stitching attaps. The young leaves are used in hair-washing. Various other parts of the plants are also used for other traditional medicinal uses. According to Giesen, it is considered inferior to true rattan. The leaves may be used as a plaster on wounds.
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/flagellaria/indica/090111smkd4873m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/flagellaria/indica/090111smkd4873m3.jpg)
 
 *Pulau Semakau, Jan 09
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/flagellaria/indica/090111smkd4873m3b.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/flagellaria/indica/090111smkd4873m3b.jpg)*
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

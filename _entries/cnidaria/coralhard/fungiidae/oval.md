@@ -17,38 +17,38 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060212sisg4747m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/oval/060212sisg4747m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060212sisg4747m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/oval/060212sisg4747m3.jpg
     caption: Prominent central furrow. Sisters Island, Feb 06
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060212sisg4747m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/oval/060212sisg4747m3a.jpg
     caption: Tiny teeth.
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060212sisg4747m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/oval/060212sisg4747m3c.jpg
     caption: Lines appear smooth when covered with the tissue. Pink tips tentacles.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060212sisg4749m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/oval/060212sisg4749m3.jpg
     caption: Undeside
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060212sisg4749m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/oval/060212sisg4749m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060212sisg4747m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/oval/060212sisg4747m3c.jpg
     caption: Lines appear smooth when covered with the tissue. Pink tips tentacles.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060402ulrd0962m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/oval/060402ulrd0962m3.jpg
     caption: Pulau Hantu, Apr 06
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/110717tbd7222m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/oval/110717tbd7222m3.jpg
     caption: Terumbu Bemban, Jul 11
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/080707hntd7469m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/oval/080707hntd7469m3.jpg
     caption: Pulau Hantu, Jul 08
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/2007025smknjll1a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/oval/2007025smknjll1a.jpg
     caption: Pulau Semakau North, Jul 20 Photo shared by Jianlin Liu on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/090330trylks1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/oval/090330trylks1m3.jpg
     caption: Terumbu Raya, Mar 09 Photo shared by Loh Kok Sheng on his flickr
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/100130brklks14m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/oval/100130brklks14m3b.jpg
     caption: Terumbu Berkas, Jan 10 Photo shared by Loh Kok Sheng on his flickr
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/210428slulks8.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/oval/210428slulks8.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
 location:
 - sis

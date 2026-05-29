@@ -22,36 +22,36 @@ order: Venerida
 superfamily: Veneroidea
 subfamily: Gouldiinae
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/scripta/070521tusd1267m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/scripta/070521tusd1267m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/scripta/070521tusd1267m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/scripta/070521tusd1267m3.jpg
     caption: Tuas, May 07
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/scripta/070521tusd1269m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/scripta/070521tusd1269m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/scripta/090510hntd1230m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/scripta/090510hntd1230m3.jpg
     caption: Pulau Hantu, May 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/scripta/210530epcnvc6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/scripta/210530epcnvc6.jpg
     caption: East Coast (PCN), May 21 Photo shared by Vincent Choo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/scripta/240723chgeccn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/scripta/240723chgeccn1.jpg
     caption: Changi East (Lost Coast), Jul 24 Photo shared by Che Cheng Neo on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/scripta/240723chgeccn1a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/scripta/240723chgeccn1a.jpg
     caption: Changi East (Lost Coast), Jul 24 Photo shared by Che Cheng Neo on facebook
       .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/scripta/201117blyask1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/scripta/201117blyask1.jpg
     caption: Berlayar Creek, Nov 20 Photo shared by Arjun Sai Krishnan on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/scripta/160508kusjt9.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/scripta/160508kusjt9.jpg
     caption: Kusu Island, May 16 Photo shared by Jonathan Tan on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/scripta/110326sjilks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/scripta/110326sjilks.JPG
     caption: St John's Island, Mar 11 Photo shared by Loh Kok Sheng on flickr .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/scripta/181124bbbll1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/scripta/181124bbbll1.jpg
     caption: Beting Bemban Besar, Nov 18 Photo shared by Liz Lim on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/scripta/181223tplll2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/scripta/181223tplll2.jpg
     caption: Terumbu Pempang Laut, Dec 18 Photo shared by Liz Lim on facebook .
 links_references: '**Links**
 

@@ -23,39 +23,39 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Ophidiiformes
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/060531labd2675m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/bythitidae/iluocoeteoides/060531labd2675m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/060531labd2675m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/bythitidae/iluocoeteoides/060531labd2675m3.jpg
     caption: Labrador, May 06
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/070728sisd4531m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/bythitidae/iluocoeteoides/070728sisd4531m6l.jpg
     caption: Sisters Island, Jul 07
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/060531labd2675m3d.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/bythitidae/iluocoeteoides/060531labd2675m3d.jpg
     caption: Tiny tail fin separated from long dorsal and anal fins.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/140612skdlks1.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/bythitidae/iluocoeteoides/140612skdlks1.JPG
     caption: Pulau Sekudu, Jun 14 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/140612skdlks2.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/bythitidae/iluocoeteoides/140612skdlks2.JPG
     caption: ''
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/200706skdlks4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/bythitidae/iluocoeteoides/200706skdlks4.jpg
     caption: Pulau Sekudu, Jul 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/230705ssismn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/bythitidae/iluocoeteoides/230705ssismn1.jpg
     caption: Small Sisters Island, Jul 23 Photo shared by Marcus Ng on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/251011tgrlks24.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/bythitidae/iluocoeteoides/251011tgrlks24.jpg
     caption: Sentosa Tg Rimau, Oct 25 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/251011tgrlks24a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/bythitidae/iluocoeteoides/251011tgrlks24a.jpg
     caption: Sentosa Tg Rimau, Oct 25 Photo shared by Loh Kok Sheng on facebook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/200918cyrjll1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/bythitidae/iluocoeteoides/200918cyrjll1.jpg
     caption: Cyrene, Sep 20 Photo shared by Jianlin Liu on facebook .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/210501tbrl1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/bythitidae/iluocoeteoides/210501tbrl1.jpg
     caption: Terumbu Bemban, May 21 Photo shared by Russel Low on facebook .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/210428slulks5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/bythitidae/iluocoeteoides/210428slulks5.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 

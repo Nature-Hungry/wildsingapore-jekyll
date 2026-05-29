@@ -19,7 +19,7 @@ infraclass: Pteriomorphia
 order: Arcida
 superfamily: Arcoidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/anadara/050607chgg7280m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/arcidae/anadara/050607chgg7280m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -31,13 +31,13 @@ galleries:
       Its body is red because it has haemoglobin just like us. It can cause cholera,
       hepatitis A and food poisoning.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/anadara/050607chgg7280m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/arcidae/anadara/050607chgg7280m3.jpg
     caption: Changi, Jun 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/anadara/050607chgg7280m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/arcidae/anadara/050607chgg7280m3.jpg
     caption: Changi, Jun 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/anadara/020612selcpd0171m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/arcidae/anadara/020612selcpd0171m3.jpg
     caption: Seletar, Jun 02
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/anadara/050427tmg5176m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/arcidae/anadara/050427tmg5176m3.jpg
     caption: Tanah Merah, Apr 05
 links_references: '**Links**
 

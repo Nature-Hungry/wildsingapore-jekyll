@@ -29,50 +29,50 @@ order: Spatangoida
 suborder: Brissidina
 superfamily: Spatangoidea
 updated: Apr 2020
-coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/040731kusd3539m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/hearturchin/lovenia/040731kusd3539m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/040731kusd3539m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/hearturchin/lovenia/040731kusd3539m3.jpg
     caption: Upperside Kusu Island, Jul 04
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/040731kusd3545m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/hearturchin/lovenia/040731kusd3545m3.jpg
     caption: Side view
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/040731kusd3543m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/hearturchin/lovenia/040731kusd3543m3.jpg
     caption: Underside
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/110517tptd1536m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/hearturchin/lovenia/110517tptd1536m3b.jpg
     caption: Caught by a swimming crab ! Terumbu Pempang Laut, May 11
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/111028chgelks2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/hearturchin/lovenia/111028chgelks2m3.jpg
     caption: Changi East, Oct 11
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/111028chgelks3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/hearturchin/lovenia/111028chgelks3m3.jpg
     caption: Changi East, Oct 11
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/111028chgelks3m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/hearturchin/lovenia/111028chgelks3m3a.jpg
     caption: Photo shared by Loh Kok Sheng on his blog .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/220616chgelks6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/hearturchin/lovenia/220616chgelks6.jpg
     caption: Changi Lost Coast, Jun 22 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/2007024pcnlks25.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/hearturchin/lovenia/2007024pcnlks25.jpg
     caption: East Coast PCN, Jul 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/170529srpjll3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/hearturchin/lovenia/170529srpjll3.jpg
     caption: Sentosa Serapong, May 17 Photo shared by Jianlin Liu on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/120706sntlks2.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/hearturchin/lovenia/120706sntlks2.JPG
     caption: Sentosa, Jul 12
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/120706sntlks3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/hearturchin/lovenia/120706sntlks3.JPG
     caption: Sentosa, Jul 12
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/120706sntlks3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/hearturchin/lovenia/120706sntlks3a.jpg
     caption: Photo shared by Loh Kok Sheng on his blog .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/110508cyrlks13m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/hearturchin/lovenia/110508cyrlks13m3.jpg
     caption: Cyrene Reef, May 11
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/110508cyrlks1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/hearturchin/lovenia/110508cyrlks1m3.jpg
     caption: Photo shared by Loh Kok Sheng on his blog .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/170429kusmn2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/hearturchin/lovenia/170429kusmn2.jpg
     caption: Kusu Island, May 17 Photo shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/120123hntlks1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/hearturchin/lovenia/120123hntlks1m3.jpg
     caption: Pulau Hantu, Jan 12 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/090209smkmn01m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/hearturchin/lovenia/090209smkmn01m3.jpg
     caption: Pulau Semakau, Feb 09 Photo shared by Marcus Ng on his flickr .
 links_references: '**Links**
 

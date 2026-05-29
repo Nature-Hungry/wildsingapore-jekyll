@@ -22,18 +22,18 @@ class: Magnoliopsida
 order: Rosales
 tribe: Ficeae
 updated: Nov 10
-coverimg: http://www.wildsingapore.com/wildfacts/plants/others/ficus/variegata/091213ubnd5873m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/variegata/091213ubnd5873m6l.jpg
 links_references: "**Links**\n- [*Ficus\n  variegata*](http://floraofsingapore.wordpress.com/2010/06/18/ficus-variegata/)\
   \ on Total Vascular Flora of Singapore Online:\n  photos and fact sheet.\n\n**References**\n\
   - Ng, Angie\n  et. al. 2005. *A guide to the fabulous figs of Singapore*.\n  Singapore\
   \ Science Centre.152 pp.\n- Hsuan Keng,\n  S.C. Chin and H. T. W. Tan. 1990, *[The\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/variegata/091213ubnd5877m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/variegata/091213ubnd5877m3.jpg
     caption: Pulau Ubin, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/variegata/091213ubnd5876m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/variegata/091213ubnd5876m3.jpg
     caption: Pulau Ubin, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/variegata/091213ubnd5879m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/variegata/091213ubnd5879m3.jpg
     caption: Pulau Ubin, Dec 09
   gallery2:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -67,7 +67,7 @@ A figging Jejawi attracts a whole range of creatures from fruit eating birds of 
 According to Burkill, the fibrous bark is used by jungle natives to make a felt-like cloth used for loin cloths.
 The sweet bark is chewed or the fruits used instead, to cure dysentery.In the past the latex was used in the batik industry. The fruits are apparently only eaten in times of famine and Burkill said that "no European could stomach them".
 
-![](http://www.wildsingapore.com/wildfacts/plants/others/ficus/variegata/091213ubnd5873m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/variegata/091213ubnd5873m6l.jpg)
 
 *Pulau Ubin, Dec 09*
 

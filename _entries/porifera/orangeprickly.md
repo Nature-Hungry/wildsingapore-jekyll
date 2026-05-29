@@ -17,17 +17,17 @@ subclass: Heteroscleromorpha
 order: Poecilosclerida
 subgenus: Zygomycale
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/porifera/orangeprickly/130623chgd7605m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/orangeprickly/130623chgd7605m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/orangeprickly/130623chgd7605m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/orangeprickly/130623chgd7605m3.jpg
     caption: Changi, Jul 13 Large hole where water is expelled.
-  - url: http://www.wildsingapore.com/wildfacts/porifera/orangeprickly/130723bbd0085m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/orangeprickly/130723bbd0085m3.jpg
     caption: Beting Bronok, Jul 13 Prickly surface.
-  - url: http://www.wildsingapore.com/wildfacts/porifera/orangeprickly/180617skdm3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/orangeprickly/180617skdm3.jpg
     caption: Pulau Sekudu, Jun 18
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/orangeprickly/160125obslks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/orangeprickly/160125obslks2.jpg
     caption: Pulau Ubin OBS, Jan 16 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 

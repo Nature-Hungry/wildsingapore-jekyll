@@ -27,7 +27,7 @@ zoosection: Eubrachyura
 zoosubsection: Thoracotremata
 superfamily: Grapsoidea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/050410kusg4259m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/metopograpsus/050410kusg4259m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -39,47 +39,47 @@ galleries:
       They have a flat body to slip through narrow crevices. The pincers have scalloped
       edges and are used to scrape algae.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/050410kusg4259m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/metopograpsus/050410kusg4259m3.jpg
     caption: Kusu Island, Apr 04
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/050410kusg4259m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/metopograpsus/050410kusg4259m3b.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/050410kusg4259m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/metopograpsus/050410kusg4259m3c.jpg
     caption: Scalloped pincers
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/120112sbwmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/metopograpsus/120112sbwmn.jpg
     caption: Sembawang Park, Jan 12 Photo shared by Marcus Ng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/080609ubnmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/metopograpsus/080609ubnmn.jpg
     caption: Pulau Ubin, Jun 08 Photo shared by Marcus Ng on flickr .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/100124cjd7970m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/metopograpsus/100124cjd7970m3.jpg
     caption: Grabbed a fiddler crab then headed back to the boardwalk legs. Chek Jawa,
       Jan 10
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/090720skdjk6m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/metopograpsus/090720skdjk6m3.jpg
     caption: Pulau Sekudu, Jul 09 Photo shared by James Koh on his blog .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/251208meky9.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/metopograpsus/251208meky9.jpg
     caption: Marina East, Dec 2025 Photo shared by Kelvin Yong on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/101106tburjk.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/metopograpsus/101106tburjk.JPG
     caption: Terumbu Buran, Nov 10 Photo shared by James Koh on flickr .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/141109lazmn2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/metopograpsus/141109lazmn2m3.jpg
     caption: Seringat-Kias, Nov 14 Photo shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/250810bsisky2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/metopograpsus/250810bsisky2.jpg
     caption: Big Sisters, Aug 25 Photo shared by Kelvin Yong on facebook .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/100515sjid2485m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/metopograpsus/100515sjid2485m3.jpg
     caption: A pair, getting ready to mate? St. John's Island, May 10
   - url: http://www.wildsingapore.com/othercrust/isopoda/ligia/090510hntmn.jpg
     caption: Captured a Shore cricket Pulau Hantu May 09 Photo shared by Marcus Ng
       on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/251207hntky8.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/metopograpsus/251207hntky8.jpg
     caption: Pulau Hantu, Dec 2025 Photo shared by Kelvin Yong on facebook .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/100711cyrlks1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/metopograpsus/100711cyrlks1m3.jpg
     caption: Cyrene Reef, Jul 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/101009smklks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/metopograpsus/101009smklks.JPG
     caption: Pulau Semakau, Oct 10 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/110517tptlt3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/metopograpsus/110517tptlt3m3.jpg
     caption: Terumbu Pempang Tengah, May 11 Photo shared by Liana Tang on facebook
       .
 links_references: '**Links**

@@ -9,7 +9,7 @@ genus: Class
 species: Echiura
 attributes: []
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/worm/echiura/echiura/080801chgd8555m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/echiura/echiura/080801chgd8555m3.jpg
 links_references: "**Links**  \n- [Introduction\n  to the Echiura: Spoon Worms and\
   \ Innkeepers](http://www.ucmp.berkeley.edu/annelida/echiural) on the [Phylogeny\n\
   \  Wing](http://www.ucmp.berkeley.edu/exhibit/phylogenyl) on the [Museum\n  of Paleontology,\
@@ -18,33 +18,33 @@ links_references: "**Links**  \n- [Introduction\n  to the Echiura: Spoon Worms a
   \n**References**\n- Edward E.\n  Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/worm/echiura/echiura/080801chgd8555m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/echiura/echiura/080801chgd8555m3.jpg
     caption: Changi, Aug 08
-  - url: http://www.wildsingapore.com/wildfacts/worm/echiura/echiura/080801chgd8555m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/echiura/echiura/080801chgd8555m3b.jpg
     caption: Spoon-shaped prostomium.
-  - url: http://www.wildsingapore.com/wildfacts/worm/echiura/echiura/070224cjd8556m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/echiura/echiura/070224cjd8556m3.jpg
     caption: Chek Jawa, Feb 07
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/worm/echiura/echiura/2007024chgtch3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/echiura/echiura/2007024chgtch3.jpg
     caption: Changi, Jul 20 Photo shared by Toh Chay Hoon on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/worm/echiura/echiura/220615prpccn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/echiura/echiura/220615prpccn1.jpg
     caption: Pasir Ris Park, Jun 22 Photo shared by Che Cheng Neo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/echiura/echiura/260105prpezxh6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/echiura/echiura/260105prpezxh6.jpg
     caption: Pasir Ris Park, Jan 26 Photo shared by Zen Xuan He on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/worm/echiura/echiura/240722lygrk2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/echiura/echiura/240722lygrk2.jpg
     caption: Changi (Fairy Point), Jul 24 Photo shared by Richard Kuah on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/worm/echiura/echiura/120703chgmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/echiura/echiura/120703chgmn.jpg
     caption: Changi, Jul 12 Photo shared by Marcus Ng on flickr .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/worm/echiura/echiura/160511chg7mn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/echiura/echiura/160511chg7mn1.jpg
     caption: Changi, May 16
-  - url: http://www.wildsingapore.com/wildfacts/worm/echiura/echiura/160511chg7mn1a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/echiura/echiura/160511chg7mn1a.jpg
     caption: Photo shared by Marcus Ng on facebook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/worm/echiura/echiura/250628pcnky1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/echiura/echiura/250628pcnky1.jpg
     caption: East Coast PCN, Jun 25 Photo shared by Kelvin Yong on facebook .
   gallery7:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1

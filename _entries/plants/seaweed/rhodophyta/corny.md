@@ -23,12 +23,12 @@ subclass: Rhodymeniophycidae
 order: Ceramiales
 tribe: Laurencieae
 updated: Oct 15
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/corny/110422tbd9744m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/corny/110422tbd9744m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/corny/110422tbd9744m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/corny/110422tbd9744m3b.jpg
     caption: Sunken pit at the tip of the bumps.
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/corny/110422tbd9744m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/corny/110422tbd9744m3a.jpg
     caption: ''
 links_references: '**Links**
 
@@ -65,7 +65,7 @@ This purple maroon seaweed with tiny rows of bumps is sometimes seen on our Sout
 
 Branching 'stems' (4-7cm long). Each 'stem' covered with tiny bumps that has a sunken pit at the tip. The bumps are arranged in rows almost like corn. Colour shades of purple from greenish to dark purple to purplish pink.
 
-*![](http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/corny/110422tbd9744m3.jpg)
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/corny/110422tbd9744m3.jpg)
 
 Terumbu Bemban, Apr 11*
 

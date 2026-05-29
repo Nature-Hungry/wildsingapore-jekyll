@@ -21,14 +21,14 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Metridioidea
 updated: Dec 2024
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/branchtentacle/090705krjd6457m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/branchtentacle/090705krjd6457m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/branchtentacle/090705krjd6457m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/branchtentacle/090705krjd6457m3.jpg
     caption: Kranji, Jul 09
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/branchtentacle/090705krjd6457m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/branchtentacle/090705krjd6457m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/branchtentacle/090705krjd6457m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/branchtentacle/090705krjd6457m3b.jpg
     caption: ''
 links_references: '**Links**
 

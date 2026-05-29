@@ -22,7 +22,7 @@ order: Venerida
 superfamily: Veneroidea
 subfamily: Gouldiinae
 updated: Nov 11
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/dispar/050510tusg6133m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/dispar/050510tusg6133m3.jpg
 links_references: '**Links**
 
   - [*Gafrarium dispar*
@@ -54,7 +54,7 @@ Elsewhere, they are found on intertidal shores with sand.
 
 About 4-6cm. Shell thick with fine ribs and usually a pattern of fine broken lines.
 
-*![](http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/dispar/050510tusg6133m3.jpg)
+*![](https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/dispar/050510tusg6133m3.jpg)
 
 Tuas, May 05*
 

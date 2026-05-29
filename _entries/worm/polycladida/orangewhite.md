@@ -17,71 +17,71 @@ subphylum: Rhabditophora
 order: Polycladida
 suborder: Cotylea
 updated: Feb 2020
-coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/orangewhite/121116sjjid1330m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/orangewhite/121116sjjid1330m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/orangewhite/121116sjjid1330m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/orangewhite/121116sjjid1330m3.jpg
     caption: St John's Island, Nov 12
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/orangewhite/091231biolks12m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/orangewhite/091231biolks12m3.jpg
     caption: Pulau Biola, Dec 09 Pseudotentacles squarish, ruffled on the sides. Photo
       shared by Loh Kok Sheng on his flickr .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/orangewhite/181124bbbjll2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/orangewhite/181124bbbjll2.jpg
     caption: Underside. Beting Bemban Besar, Nov 18 Photo shared by Jianlin Liu on
       facebook .
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/orangewhite/190422srpay1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/orangewhite/190422srpay1.jpg
     caption: Sentosa Serapong, Apr 19 Photo shared by Abel Yeo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/orangewhite/221127rk3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/orangewhite/221127rk3.jpg
     caption: Lazarus Island, Nov 22 Photo shared by Richard Kuah on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/orangewhite/200919bsisvc4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/orangewhite/200919bsisvc4.jpg
     caption: Big Sisters Island, Sep 20 Photo shared by Vincent Choo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/orangewhite/220202bsislks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/orangewhite/220202bsislks2.jpg
     caption: Big SIsters Island, Feb 22 Photo shared by Loh Kok Sheng on facebook
       .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/orangewhite/210812jngjll1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/orangewhite/210812jngjll1.jpg
     caption: Pulau Jong, Aug 21 Photo shared by Jianlin Lia on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/orangewhite/200822jnglks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/orangewhite/200822jnglks1.jpg
     caption: Pulau Jong, Aug 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/orangewhite/180619jngjll2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/orangewhite/180619jngjll2.jpg
     caption: Pulau Jong, Jun 18 Photo shared by Jianlin Liu on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/orangewhite/090223smklks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/orangewhite/090223smklks.JPG
     caption: Pulau Semakau, Feb 09 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/orangewhite/220717smknjk1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/orangewhite/220717smknjk1.jpg
     caption: Pulau Semakau (North), Jul 22 Photo shared by James Koh on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/orangewhite/210402tmskjll6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/orangewhite/210402tmskjll6.jpg
     caption: Terumbu Semakau, Apr 21 Photo shared by Jianlin Liu on facebook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/orangewhite/180520tsmk1ll.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/orangewhite/180520tsmk1ll.jpg
     caption: Terumbu Semakau, May 18 Photo shared by Lisa Lim on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/orangewhite/121115tsmklks1m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/orangewhite/121115tsmklks1m3.JPG
     caption: Terumbu Semakau, Dec 12 Photo shared by Loh Kok Sheng on his blog .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/orangewhite/181124bbbjc.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/orangewhite/181124bbbjc.jpg
     caption: Beting Bemban Besar, Nov 18 Photo shared by Jesselyn Chua on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/orangewhite/240511tryjll1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/orangewhite/240511tryjll1.jpg
     caption: Terumbu Raya, May 24 Photo shared by Jianlin Liu on facebook .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/orangewhite/240412tbccn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/orangewhite/240412tbccn1.jpg
     caption: Terumbu Bemban, Apr 24 Photo shared by Che Cheng Neo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/orangewhite/180716tbay1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/orangewhite/180716tbay1.jpg
     caption: Terumbu Bemban, Jul 18 Photo shared by Abel Yeo on facebook .
   gallery9:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/orangewhite/150121tpkjll6m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/orangewhite/150121tpkjll6m3.jpg
     caption: Terumbu Pempang Kecil, Jan 15 Photo shared by Jianlin Liu on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/orangewhite/160806tpllks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/orangewhite/160806tpllks1.jpg
     caption: Terumbu Pempang Laut, Aug 16 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/orangewhite/160806tpllks1a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/orangewhite/160806tpllks1a.jpg
     caption: ''
   gallery10:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/orangewhite/220201brklks6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/orangewhite/220201brklks6.jpg
     caption: Pulau Berkas, Feb 22 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/orangewhite/210428slulks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/orangewhite/210428slulks2.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
 location:
 - snt

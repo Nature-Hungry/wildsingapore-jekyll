@@ -19,19 +19,19 @@ order: Littorinimorpha
 superfamily: Cypraeoidea
 subfamily: Ovulinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/pellasimnia/060323ulrd0409m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/pellasimnia/060323ulrd0409m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/pellasimnia/060323ulrd0409m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/pellasimnia/060323ulrd0409m3.jpg
     caption: Pulau Hantu, Mar 06
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/pellasimnia/060323ulrd0421m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/pellasimnia/060323ulrd0421m3.jpg
     caption: Underside.
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/pellasimnia/060323ulrd0421m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/pellasimnia/060323ulrd0421m3a.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/pellasimnia/120508ecplks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/pellasimnia/120508ecplks.JPG
     caption: East Coast Park, May 12
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/pellasimnia/120508ecplks2.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/pellasimnia/120508ecplks2.JPG
     caption: Photo shared by Loh Kok Sheng on flickr .
 location:
 - ecp

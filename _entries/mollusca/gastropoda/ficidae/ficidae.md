@@ -16,29 +16,29 @@ phylum: Mollusca
 class: Gastropoda
 order: Littorinimorpha
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ficidae/ficidae/111028chged2740m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ficidae/ficidae/111028chged2740m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ficidae/ficidae/111028chged2740m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ficidae/ficidae/111028chged2740m3.jpg
     caption: Changi, Oct 11
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ficidae/ficidae/081214ecmd3146m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ficidae/ficidae/081214ecmd3146m3.jpg
     caption: East Coast, Dec 08
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ficidae/ficidae/081214ecmd3137m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ficidae/ficidae/081214ecmd3137m3.jpg
     caption: East Coast, Dec 08
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ficidae/ficidae/121214chged2211.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ficidae/ficidae/121214chged2211.jpg
     caption: Buried with only its siphon sticking out. Changi East, Dec 12
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ficidae/ficidae/121214chged2162.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ficidae/ficidae/121214chged2162.jpg
     caption: Changi East, Dec 12
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ficidae/ficidae/200705ecpbsjt1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ficidae/ficidae/200705ecpbsjt1.jpg
     caption: East Coast Park, Jun 20 Photo shared by Jonathan Tan on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ficidae/ficidae/100103ecplt1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ficidae/ficidae/100103ecplt1m3.jpg
     caption: East Coast Park , Jan 10 Photo shared by Liana Tang on her blog .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ficidae/ficidae/200723nrsccrk1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ficidae/ficidae/200723nrsccrk1.jpg
     caption: East Coast Park, Jul 20 Photo shared by Richard Kuah on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ficidae/ficidae/210529ecpgtch2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ficidae/ficidae/210529ecpgtch2.jpg
     caption: East Coast Park (G), May 21 Photo shared by Toh Chay Hoon on facebook
       .
 links_references: '**Links**

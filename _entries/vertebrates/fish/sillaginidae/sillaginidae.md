@@ -23,7 +23,7 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/081117ecpmd2360m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sillaginidae/sillaginidae/081117ecpmd2360m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -35,39 +35,39 @@ galleries:
       if disturbed. There are several species although they look similar at first
       glace.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/081117ecpmd2360m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sillaginidae/sillaginidae/081117ecpmd2360m3.jpg
     caption: East Coast, Nov 08
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/040425cjd0109m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sillaginidae/sillaginidae/040425cjd0109m6l.jpg
     caption: Chek Jawa, Apr 04
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/121117hntd1524m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sillaginidae/sillaginidae/121117hntd1524m6l.jpg
     caption: Pulau Hantu, Nov 12
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/100912kusd1441m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sillaginidae/sillaginidae/100912kusd1441m3.jpg
     caption: Kusu Island, Sep 10
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/220616chgedc5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sillaginidae/sillaginidae/220616chgedc5.jpg
     caption: Changi Lost Coast, Jun 22 Photo shared by Dayna Cheah on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/090512tmjk5m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sillaginidae/sillaginidae/090512tmjk5m3.jpg
     caption: Tanah Merah, May 09 Photo shared by James Koh on his flickr .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/170822labjll5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sillaginidae/sillaginidae/170822labjll5.jpg
     caption: Labrador, Aug 17 Photo shared by Jianlin Liu on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/151001blymn2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sillaginidae/sillaginidae/151001blymn2m3.jpg
     caption: Berlayar Creek, Oct 15 Photo shared by Marcus Ng on facebook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/201019sjijll11.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sillaginidae/sillaginidae/201019sjijll11.jpg
     caption: St John's Island, Oct 20 Photo shared by Jianlin Liu on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/251011ssistl3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sillaginidae/sillaginidae/251011ssistl3.jpg
     caption: St John's Island, Oct 25 Photo shared by Tammy Lim on facebook .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/090628lazlt3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sillaginidae/sillaginidae/090628lazlt3m3.jpg
     caption: Seringat-Kias, Jun 09 Photo shared by Liana Tan on her blog .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/250810bsisrk1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sillaginidae/sillaginidae/250810bsisrk1.jpg
     caption: Big Sisters, Aug 25 Photo shared by Richard Kuah on facebook .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/140810smkmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sillaginidae/sillaginidae/140810smkmn.jpg
     caption: Pulau Semakau, Aug 14 Photo shared by Marcus Ng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/110830cyrlks3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sillaginidae/sillaginidae/110830cyrlks3m3.jpg
     caption: Cyrene Reef, Aug 11 Photo shared by Lok Kok Sheng on his blog .
 links_references: '**Links**
 

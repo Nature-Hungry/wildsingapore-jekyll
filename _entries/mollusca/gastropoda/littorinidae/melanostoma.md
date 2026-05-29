@@ -19,19 +19,19 @@ order: Littorinimorpha
 superfamily: Littorinoidea
 subfamily: Littorininae
 updated: Aug 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/melanostoma/090114labd5301m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/melanostoma/090114labd5301m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/melanostoma/090114labd5301m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/melanostoma/090114labd5301m3.jpg
     caption: Berlayar Creek, Jan 09
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/melanostoma/090114labd5302m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/melanostoma/090114labd5302m3.jpg
     caption: Black edge on the shell opening. Berlayar Creek, Jan 09
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/melanostoma/031128sbwrad0068m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/melanostoma/031128sbwrad0068m3.jpg
     caption: Sungei Buloh Wetland Reserve, Mar 05
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/melanostoma/251229prprqo2a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/melanostoma/251229prprqo2a.jpg
     caption: Pasir Ris Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/melanostoma/251229prprqo2b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/melanostoma/251229prprqo2b.jpg
     caption: ''
 links_references: '**Links**
 

@@ -34,65 +34,65 @@ galleries:
       your step! Sea hares have very specialised diets and should not be kept in home
       aquariums.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/050608cftg7393m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/geographica/050608cftg7393m3a.jpg
     caption: Two pairs of tentacles Changi, Jun 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/070614chgd2152m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/geographica/070614chgd2152m3.jpg
     caption: A pair of flaps cover the body, thin internal shell. Changi, Jun 07
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/111124cyrs00191m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/geographica/111124cyrs00191m3.jpg
     caption: Swimming sea hare! Cyrene Reef, Nov 11
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/bursatella/040509skdbd0143m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/bursatella/040509skdbd0143m3.jpg
     caption: Some release a purple dye when disturbed Pulau Sekudu, Apr 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/120410chgd9081m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/geographica/120410chgd9081m3.jpg
     caption: Often seen half buried in soft ground. Changi, Apr 12
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/121116sjjid1458m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/seagrass/121116sjjid1458m3.jpg
     caption: This tiny sea hare is perfectly camouflaged on a seagrass blade. St.
       John's Island, Nov 12
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/050622cftd4094m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/geographica/050622cftd4094m3.jpg
     caption: Laying egg strings. Changi, Jun 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/100402cyrtch2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/extraordinaria/100402cyrtch2m3.jpg
     caption: Cyrene Reef, Apr 10
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/100402cyrtch2m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/extraordinaria/100402cyrtch2m3a.jpg
     caption: Photo shared by Toh Chay Hoon on her blog .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/090628lazd6182m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/dactylomela/090628lazd6182m3.jpg
     caption: Black-tailed sea hare
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/spotted/040509skdbd0100m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/spotted/040509skdbd0100m3.jpg
     caption: Spotted sea hare
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/050608cftg7393m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/geographica/050608cftg7393m3.jpg
     caption: Geographic sea hare
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/060301kusg5370m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/extraordinaria/060301kusg5370m3.jpg
     caption: Extraordinary sea hare
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/050325sjig3648m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/stylocheilus/050325sjig3648m3.jpg
     caption: Furry sea hare
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/bursatella/050511cftg6199m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/bursatella/050511cftg6199m3.jpg
     caption: Hairy sea hare
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/parvula/100215sisd9413m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/parvula/100215sisd9413m3.jpg
     caption: Mini sea hare
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/100201hntd9184m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/seagrass/100201hntd9184m3.jpg
     caption: Seagrass sea hare
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dolabella/230224trylks1c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/dolabella/230224trylks1c.jpg
     caption: Wedge sea hare
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/others/200820ssistch3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/others/200820ssistch3.jpg
     caption: Petalifera sp.? on Sargassum . Small Sisters Island, Aug 20 Photo shared
       by Toh Chay Hoon on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/others/200820ssistch3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/others/200820ssistch3b.jpg
     caption: Petalifera sp.? on Sargassum. Small Sisters Island, Aug 20 Photo shared
       by Toh Chay Hoon on facebook .
   gallery9:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/others/140809hntmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/others/140809hntmn.jpg
     caption: Aplysiomorpha sp. Pulau Hantu, Aug 14 Photo shared by Marcus Ng on flickr
       .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/parvula/141011hntlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/parvula/141011hntlks.JPG
     caption: Pulau Hantu, Oct 14 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/101223sntd3969m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/seagrass/101223sntd3969m3.jpg
     caption: On Tape seagrass. Sentosa, Dec 10
   gallery10:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/parvula/160507cjjt4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/parvula/160507cjjt4.jpg
     caption: Chek Jawa, May 16 Photo shared by Jonathan Tan on facebook .
 links_references: '**Links**
 

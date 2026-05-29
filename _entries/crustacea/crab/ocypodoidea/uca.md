@@ -58,42 +58,42 @@ galleries:
       pincers and thus can eat twice as fast. They can change colours and species
       cannot be identified by colour alone.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/vocans/090611prpd3944m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/vocans/090611prpd3944m3.jpg
     caption: Female (top) and male (bottom). Pasir Ris, Jun 09
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/vocans/041031cjd7966m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/vocans/041031cjd7966m3a.jpg
     caption: Males can't feed with the enlarged pincer and have only one small pincer
       to feed with. Chek Jawa, Oct 04
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/040108ubnd0080m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/040108ubnd0080m3.jpg
     caption: Females have two small pincers and so can feed faster. Pulau Ubin Jan
       04
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/vocans/040108ubnd0113m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/vocans/040108ubnd0113m3.jpg
     caption: Males may be 'right' or 'left' handed. Pulau Ubin, Jan 04
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0061m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0061m3.jpg
     caption: Male displaying, waving his legs and enlarged pincer . St John's Island,
       Oct 04
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/070505kusg9113m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/070505kusg9113m3.jpg
     caption: Mating usually happens inside the burrow, but this shameless pair was
       outside! Kusu Island, May 07
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0059m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0059m3a.jpg
     caption: Porcelain fiddler crab
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/vocans/090510hntd1140m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/vocans/090510hntd1140m3.jpg
     caption: Orange fiddler crab
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/rosea/021008cjd6155m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/rosea/021008cjd6155m3.jpg
     caption: Rosy fiddler crab
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/stoutpincer/090816sbwrd9021m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/stoutpincer/090816sbwrd9021m3.jpg
     caption: Stout pincered fiddler crab
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/tinycolourful/110327cjd7979m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/tinycolourful/110327cjd7979m3.jpg
     caption: Tiny colourful fiddler crab
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/noid/200111smksll1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/noid/200111smksll1.jpg
     caption: Pulau Semakau (South), Jan 20 Photo shared by Liz Lim on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/noid/110327cjd7977m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/noid/110327cjd7977m3.jpg
     caption: Chek Jawa, Mar 11
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/noid/130923tmftd3476m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/noid/130923tmftd3476m3.jpg
     caption: Tanah Merah, Sep 13
   gallery8:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1

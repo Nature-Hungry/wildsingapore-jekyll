@@ -15,54 +15,54 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/070704jngg1249m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/diploastrea/070704jngg1249m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/070704jngg1249m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/diploastrea/070704jngg1249m3.jpg
     caption: Pulau Jong, Jul 07
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/070704jngg1249m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/diploastrea/070704jngg1249m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/070704jngg1251m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/diploastrea/070704jngg1251m3a.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/150605kusmn2m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/diploastrea/150605kusmn2m3a.jpg
     caption: Tentacles about to emerge? Kusu Island, Jun 15 Photo shared by Marcus
       Ng on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/150706srplks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/diploastrea/150706srplks.JPG
     caption: Sentosa Serapong, Jul 15 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/250714srptl3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/diploastrea/250714srptl3.jpg
     caption: Sentosa Serapong, Jul 25 Photo shared by Tammy Lim on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/250714srptl3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/diploastrea/250714srptl3a.jpg
     caption: ''
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/100515sjilks5m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/diploastrea/100515sjilks5m3.jpg
     caption: St. John's Island, May 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/210430sjilks8.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/diploastrea/210430sjilks8.jpg
     caption: St. John's Island, Apr 21 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/250727smkwlks3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/diploastrea/250727smkwlks3.jpg
     caption: Pulau Semakau West, Jul 25 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/250727smkwlks3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/diploastrea/250727smkwlks3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/250629smkelks7.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/diploastrea/250629smkelks7.jpg
     caption: Pulau Semakau East, Jun 25 Photo shared by Loh Kok Sheng on facebook
       .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/220521bbblks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/diploastrea/220521bbblks2.jpg
     caption: Beting Bemban Besar, May 22 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/120721tptlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/diploastrea/120721tptlks.JPG
     caption: Terumbu Pempang Tengah, Jul 12 Photo shared by Loh Kok Sheng on flickr
       .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/2007025smknlks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/diploastrea/2007025smknlks1.jpg
     caption: Pulau Semakau (North), Jul 20 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/100617tsmlks1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/diploastrea/100617tsmlks1m3.jpg
     caption: Terumbu Semakau, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/100131slud8869m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/diploastrea/100131slud8869m3.jpg
     caption: Terumbu Salu, Jan 10
 links_references: '**Links**
 

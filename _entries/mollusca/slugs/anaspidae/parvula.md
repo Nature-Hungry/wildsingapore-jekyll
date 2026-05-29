@@ -20,14 +20,14 @@ subterclass: Tectipleura
 order: Aplysiida
 superfamily: Aplysioidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/parvula/100215sisd9413m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/parvula/100215sisd9413m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/parvula/100215sisd9413m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/parvula/100215sisd9413m3.jpg
     caption: Sisters Island, Feb 10
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/parvula/100215sisd9414m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/parvula/100215sisd9414m3.jpg
     caption: Rhinophore and oral tentacle tips dark. Tiny eyes under the rhinophores.
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/parvula/100215sisd9414m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/parvula/100215sisd9414m3a.jpg
     caption: Large foramen ringed in black.
 links_references: '**Links**
 

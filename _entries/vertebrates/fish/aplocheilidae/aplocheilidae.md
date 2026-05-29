@@ -23,12 +23,12 @@ superorder: Acanthomorpha
 order: Cyprinodontiformes
 suborder: Aplocheiloidei
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/aplocheilidae/aplocheilidae/110822admd9757m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/aplocheilidae/aplocheilidae/110822admd9757m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/aplocheilidae/aplocheilidae/110822admd9757m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/aplocheilidae/aplocheilidae/110822admd9757m3.jpg
     caption: Whitespot toothcarp (Aplocheilus panchax) Admiralty Park, Mar 11
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/aplocheilidae/aplocheilidae/110822admd9744m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/aplocheilidae/aplocheilidae/110822admd9744m6l.jpg
     caption: Whitespot toothcarp (Aplocheilus panchax) Admiralty Park, Mar 11
 links_references: '**Links**
 

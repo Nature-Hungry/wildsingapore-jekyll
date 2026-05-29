@@ -23,42 +23,42 @@ suborder: Pleocyemata
 infraorder: Anomura
 superfamily: Paguroidea
 updated: Mar 2020
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110504nsrccd0525m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeorange/110504nsrccd0525m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110504nsrccd0525m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeorange/110504nsrccd0525m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110504ecpd0529m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeorange/110504ecpd0529m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110504ecpd0529m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeorange/110504ecpd0529m3a.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tawny/120618tmnbd5283m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/tawny/120618tmnbd5283m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tawny/120618tmnbd5285m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/tawny/120618tmnbd5285m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tawny/120618tmnbd5283m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/tawny/120618tmnbd5283m3a.jpg
     caption: ''
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeblue/110418tmftd8889m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeblue/110418tmftd8889m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeblue/110418tmftd8891m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeblue/110418tmftd8891m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeblue/110418tmftd8891m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeblue/110418tmftd8891m3b.jpg
     caption: ''
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/black/080816sisd9480m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/black/080816sisd9480m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/black/120210tmftd6284m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/black/120210tmftd6284m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/black/080816sisd9480m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/black/080816sisd9480m3a.jpg
     caption: ''
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/goldspot/101221tmfts02215m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/goldspot/101221tmfts02215m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/goldspot/040619sntd0568m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/goldspot/040619sntd0568m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/goldspot/101221tmfts02215m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/goldspot/101221tmfts02215m3b.jpg
     caption: ''
 size:
 - 2.0

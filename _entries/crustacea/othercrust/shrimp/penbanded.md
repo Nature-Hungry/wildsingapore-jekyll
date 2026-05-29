@@ -24,34 +24,34 @@ order: Decapoda
 suborder: Dendrobranchiata
 superfamily: Penaeoidea
 updated: Feb 2020
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/080731chgd8379m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penbanded/080731chgd8379m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/080731chgd8379m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penbanded/080731chgd8379m3.jpg
     caption: Changi, Jul 08
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/080731chgd8379m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penbanded/080731chgd8379m3c.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/080731chgd8379m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penbanded/080731chgd8379m3b.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/040605kusg0375m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penbanded/040605kusg0375m3.jpg
     caption: Kusu Island, Jun 04
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/050721cjg9666m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penbanded/050721cjg9666m3.jpg
     caption: Chek Jawa, Jul 05
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/060611cjd2816m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penbanded/060611cjd2816m3.jpg
     caption: Chek Jawa, Jun 06
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/201020prpalks9.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penbanded/201020prpalks9.jpg
     caption: Pasir Ris-Loyang, Oct 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/171108ecpmblks18.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penbanded/171108ecpmblks18.jpg
     caption: East Coast-Marina Bay, Nov 17 Photo shared by Loh Kok Sheng on facebook
       .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/251011lablks13.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penbanded/251011lablks13.jpg
     caption: Labrador, Oct 25 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/251010blyll2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penbanded/251010blyll2.jpg
     caption: Berlayar Creek, Oct 25 Photo shared by Liz Lim on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/220521bbbccn4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penbanded/220521bbbccn4.jpg
     caption: Beting Bemban Besar, May 22 Photo shared by Che Cheng Neo on facebook
       .
 location:

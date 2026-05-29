@@ -23,7 +23,7 @@ subfamily: Rauvolfioideae
 tribe: Plumerieae
 subtribe: Thevetiinae
 updated: Jan 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/091005cjd2320m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/manghas/091005cjd2320m6l.jpg
 links_references: "**Links**\n- *[Cerbera\n  manghas](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2799)*\n\
   \  on the NParks Flora and Fauna website: photos and fact sheets.\n- Giesen, Wim\n\
   \  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.\n  [*Mangrove\n\
@@ -33,25 +33,25 @@ links_references: "**Links**\n- *[Cerbera\n  manghas](https://florafaunaweb.npar
   **References**\n- Hsuan Keng,\n  S.C. Chin and H. T. W. Tan. 1990, *[The\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/090111smkd4856m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/manghas/090111smkd4856m3.jpg
     caption: Pulau Semakau, Jan 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/090111smkd4852m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/manghas/090111smkd4852m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/090111smkd4851m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/manghas/090111smkd4851m3.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/090726smkf2939m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/manghas/090726smkf2939m3.jpg
     caption: Pulau Semakau, Sep 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/090208smkd6477m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/manghas/090208smkd6477m3.jpg
     caption: Pulau Semakau, Feb 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/090111smkd4851m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/manghas/090111smkd4851m3a.jpg
     caption: ''
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/090711sjid7247m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/manghas/090711sjid7247m3.jpg
     caption: Planted in park. St. John's Island, Jul 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/080412cjd1322m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/manghas/080412cjd1322m3.jpg
     caption: Chek Jawa, Apr 08
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/090627cjd5855m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/manghas/090627cjd5855m3.jpg
     caption: Chek Jawa, Jun 09
   gallery4:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -111,7 +111,7 @@ The tree
 is listed as 'Critically Endangered' on the Red List of threatened plants of Singapore.
 
 **
-*![](http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/091005cjd2320m6l.jpg)
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/manghas/091005cjd2320m6l.jpg)
 
 Near the high water mark
 

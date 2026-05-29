@@ -20,50 +20,50 @@ order: Rhizostomeae
 suborder: Kolpophorae
 infraorder: Kampylomyaria
 updated: Sep 2025
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/080321smkd0421m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/upsidedown/080321smkd0421m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/080321smkd0421m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/upsidedown/080321smkd0421m3.jpg
     caption: Upper side. Pulau Semakau, Mar 08
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/080321smkd0423m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/upsidedown/080321smkd0423m3.jpg
     caption: Turning around.
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/080321smkd0424m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/upsidedown/080321smkd0424m3.jpg
     caption: Upside down.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/071124smkd7488m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/upsidedown/071124smkd7488m3.jpg
     caption: Pulau Semakau, Nov 07
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/071124smkd7488m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/upsidedown/071124smkd7488m3a.jpg
     caption: Closer look at the underside.
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/071124smkd7488m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/upsidedown/071124smkd7488m3c.jpg
     caption: ''
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/220616chgerk2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/upsidedown/220616chgerk2.jpg
     caption: Changi Lost Coast, Jun 22 Shared by Richard Kuah on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/211106sntlks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/upsidedown/211106sntlks2.jpg
     caption: Sentosa Tg Rimau, Nov 21 Shared by James Koh on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/220103sntlks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/upsidedown/220103sntlks2.jpg
     caption: Sentosa Tg Rimau, Jan 22 Shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/240527srplks12.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/upsidedown/240527srplks12.jpg
     caption: Sentosa Serapong, May 24 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/240309tkrrk4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/upsidedown/240309tkrrk4.jpg
     caption: Pulau Tekukor, Mar 24 Shared by Richard Kuah on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/170429kusmn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/upsidedown/170429kusmn1.jpg
     caption: Kusu Island, Apr 17 Shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/090921kusjk2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/upsidedown/090921kusjk2m3.jpg
     caption: Kusu Island, Sep 09 Shared by James Koh on his blog .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/071124smkd7485m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/upsidedown/071124smkd7485m3.jpg
     caption: Upside down. Pulau Semakau, Nov 07
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/121115tsmkd1178m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/upsidedown/121115tsmkd1178m3.jpg
     caption: Upside down. Terumbu Semakau, Nov 12
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/090723tmrjk4m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/upsidedown/090723tmrjk4m3.jpg
     caption: Terumbu Raya, Jul 09 Photo shared by James Koh on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/160124smkemn4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/upsidedown/160124smkemn4.jpg
     caption: Pulau Semakau East, Jan 16 Shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/100403tbblks7m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/upsidedown/100403tbblks7m3.jpg
     caption: Beting Bemban Besar, Apr 10 Shared by Loh Kok Sheng on his flickr .
 links_references: '**Links**
 

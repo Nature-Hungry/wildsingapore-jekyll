@@ -17,34 +17,34 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/110802smkd8256m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/xenia/110802smkd8256m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/110802smkd8256m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/xenia/110802smkd8256m3.jpg
     caption: Pulau Semakau, Aug 11
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/110802smkd8258m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/xenia/110802smkd8258m3a.jpg
     caption: Pulau Semakau, Aug 11
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/120412tbd9762m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/xenia/120412tbd9762m3.jpg
     caption: Contracted polyps look like lumps. Terumbu Bemban, Apr 12
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/120412tbd9780m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/xenia/120412tbd9780m3a.jpg
     caption: Star-shaped siphonozooids. Terumbu Bemban, Apr 12
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/120412tbd9780m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/xenia/120412tbd9780m3.jpg
     caption: Terumbu Bemban, Apr 12
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/111029smkd2974m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/xenia/111029smkd2974m6l.jpg
     caption: Pulau Semakau, Oct 11
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/111029smkd2971m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/xenia/111029smkd2971m3.jpg
     caption: Small star-shaped siphonozooids. Pulau Semakau, Oct 11
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/120414thntrl.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/xenia/120414thntrl.jpg
     caption: Terumbu Hantu, Apr 12 Photo shared by Russel Low on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/160424smknmn2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/xenia/160424smknmn2.jpg
     caption: Pulau Semakau (North), Apr 16
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/160424smknmn2a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/xenia/160424smknmn2a.jpg
     caption: Photo shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/140718tsmkrl.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/xenia/140718tsmkrl.jpg
     caption: Terumbu Semakau, Jul 14 Photo shared by Russel Low on facebook .
 links_references: '**Links**
 

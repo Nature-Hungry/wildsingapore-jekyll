@@ -20,7 +20,7 @@ subclass: Hexacorallia
 order: Zoantharia
 suborder: Brachycnemina
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/040804skdd4111m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/zoanthus/040804skdd4111m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -32,49 +32,49 @@ galleries:
       toxic. Don't touch them! They are small and may retract at low tide. Don't step
       on them!
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/040804skdd4111m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/zoanthus/040804skdd4111m3.jpg
     caption: Pulau Sekudu, Aug 04
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/040804skdd4111m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/zoanthus/040804skdd4111m3b.jpg
     caption: Pulau Sekudu, Aug 04
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/040804skdd4111m3d.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/zoanthus/040804skdd4111m3d.jpg
     caption: Pulau Sekudu, Aug 04
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/060625bbd3512m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/zoanthus/060625bbd3512m3.jpg
     caption: Long body column. Beting Bronok, Jun 06
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/050330labg3938m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/zoanthus/050330labg3938m3b.jpg
     caption: Some have longer tentacles. Labrador, Mar 05
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/050708labg9175m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/zoanthus/050708labg9175m3b.jpg
     caption: Others have shorter tentacles. Labrador, Jul 05
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/100811slud0082m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/zoanthus/100811slud0082m3a.jpg
     caption: With their tentacles tucked in, they look like blobs or little sausages.
       Pulau Salu, Aug 10
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/050526cj6886m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/zoanthus/050526cj6886m3.jpg
     caption: Sometimes packed so tightly that each polyp is polygonal. Thus mistaken
       for hard corals . Chek Jawa, May 05
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/160208smkstch1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/zoanthus/160208smkstch1.jpg
     caption: A nudibranch ( Baeolidia rieae ?) found among these zoanthids. Pulau
       Semakau South, Feb 16 Photo shared by Toh Chay Hoon on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/100130brkd8511m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/zoanthus/100130brkd8511m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/091231biod7025m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/zoanthus/091231biod7025m3.jpg
     caption: Pulau Biola, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/100601slud4702m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/zoanthus/100601slud4702m3.jpg
     caption: Pulau Salu, Jun 10
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/091204pawd5225m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/zoanthus/091204pawd5225m3a.jpg
     caption: Pulau Pawai, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/091204pawd5213m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/zoanthus/091204pawd5213m3a.jpg
     caption: Pulau Pawai, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/091205sudd5442m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/zoanthus/091205sudd5442m3.jpg
     caption: Pulau Sudong, Dec 09
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/100131slud8842m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/zoanthus/100131slud8842m3.jpg
     caption: Terumbu Salu, Jan 10
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/100530tbkd4352m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/zoanthus/100530tbkd4352m3.jpg
     caption: Pulau Berkas, May 10
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/151001blylks4m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/zoanthus/151001blylks4m3.jpg
     caption: Berlayar Creek, Oct 15 Photo shared by Loh Kok Sheng on facebook .
 location:
 - chg

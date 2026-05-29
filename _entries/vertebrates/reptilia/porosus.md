@@ -17,7 +17,7 @@ subphylum: Vertebrata
 class: Reptilia
 order: Crocodylia
 updated: Apr 2018
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/porosus/100221sbwrd9556m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/porosus/100221sbwrd9556m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -29,7 +29,7 @@ galleries:
       a crocodile smiles (mouth wide open) it's just cooling down, not about to bite.
       Crocodiles don't eat people.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/porosus/091010sbwrbc2m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/porosus/091010sbwrbc2m6l.jpg
     caption: Sungei Buloh Wetland Reserve, Oct 09 Photo shared by Brandon Chia on
       his flickr .
 links_references: '**Links**
@@ -142,18 +142,18 @@ Here's NParks's advice on what you should do to stay safe
 - If a crocodile is spotted on the path, stay calm and back away slowly.
 - Do not approach, provoke or feed the crocodile.
 
-*![](http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/porosus/100221sbwrd9556m3.jpg)
+*![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/porosus/100221sbwrd9556m3.jpg)
 
 Sungei Buloh Wetland Reserve, Feb 10
 
-![](http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/porosus/090913sbwrtsy1m3a.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/porosus/090913sbwrtsy1m3a.jpg)*
 *Sungei Buloh Wetland Reserve, Sep 09*
 
 Photo shared by Teo Siyang on
 [his blog](http://uforest.blogspot.com/2009/09/crocodile.html)
 .
 
-*![](http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/porosus/091010sbwrbc3m6l.jpg)
+*![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/porosus/091010sbwrbc3m6l.jpg)
 
 Sungei Buloh Wetland Reserve, Oct 09*
 Photo shared by Brandon Chia on

@@ -21,21 +21,21 @@ class: Magnoliopsida
 order: Rosales
 tribe: Ficeae
 updated: Nov 10
-coverimg: http://www.wildsingapore.com/wildfacts/plants/others/ficus/benjamina/100221sbwrd9519m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/benjamina/100221sbwrd9519m6l.jpg
 links_references: "**Links**\n- [*Ficus\n  benjamina*](http://floraofsingapore.wordpress.com/2010/08/01/ficus-benjamina/)\
   \ on Total Vascular Flora of Singapore Online:\n  photos and fact sheet.\n\n**References**\n\
   - Ng, Angie\n  et. al. 2005. *A guide to the fabulous figs of Singapore*.\n  Singapore\
   \ Science Centre.152 pp.\n- Hsuan Keng,\n  S.C. Chin and H. T. W. Tan. 1990, *[The\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/benjamina/100221sbwrd9518m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/benjamina/100221sbwrd9518m3.jpg
     caption: Sungei Buloh Wetland Reserve, Feb 10
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/benjamina/100221sbwrd9516m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/benjamina/100221sbwrd9516m3.jpg
     caption: Sungei Buloh Wetland Reserve, Feb 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/benjamina/100221sbwrd9522m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/benjamina/100221sbwrd9522m3.jpg
     caption: Sungei Buloh Wetland Reserve, Feb 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/benjamina/100221sbwrd9520m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/benjamina/100221sbwrd9520m3.jpg
     caption: Sungei Buloh Wetland Reserve, Feb 10
   gallery3:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -55,7 +55,7 @@ galleries:
 A commonly seen strangler in our forests, along roads and abandoned kampongs. It also grows on old buildings in cracks and crevices. It is found from India to the Solomon Islands and is commonly planted in Malaya. It is rare in forests and sometimes found on rocky coasts.
 
 **
-*![](http://www.wildsingapore.com/wildfacts/plants/others/ficus/benjamina/100221sbwrd9519m6l.jpg)
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/benjamina/100221sbwrd9519m6l.jpg)
 
 Sungei Buloh Wetland Reserve, Feb 10*
 

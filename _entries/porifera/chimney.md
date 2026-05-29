@@ -16,22 +16,22 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/porifera/chimney/120508skdd1842m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/chimney/120508skdd1842m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/chimney/100518tbbd3081m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/chimney/100518tbbd3081m3.jpg
     caption: Beting Bemban Besar, May 10
-  - url: http://www.wildsingapore.com/wildfacts/porifera/chimney/100518tbbd3081m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/chimney/100518tbbd3081m3b.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/porifera/chimney/120508skdd1842m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/chimney/120508skdd1842m3a.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/chimney/230424blylks3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/chimney/230424blylks3.jpg
     caption: Berlayar Creek, Apr 23 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/porifera/chimney/230424blylks3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/chimney/230424blylks3a.jpg
     caption: ''
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/chimney/170401tptrl.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/chimney/170401tptrl.jpg
     caption: Terumbu Pempang Tengah, Apr 17 Photo shared by Russel Low on facebook
       .
 links_references: '**Links**
@@ -73,7 +73,7 @@ This colourful sponge with short tubular chimneys is sometimes seen on some of o
 
 Ball shaped sponge 10-15cm, with regularly shaped chimneys about 1cm in diameter, 1-2cm tall. Orange, olive-yellow, brown.
 
-![](http://www.wildsingapore.com/wildfacts/porifera/chimney/120508skdd1842m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/porifera/chimney/120508skdd1842m3.jpg)
 
 *Pulau Sekudu, May 12*
 

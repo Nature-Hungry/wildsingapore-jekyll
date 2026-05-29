@@ -22,7 +22,7 @@ subclass: Elasmobranchii
 infraclass: Batoidea
 order: Myliobatiformes
 updated: Dec 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/myliobatidae/narinari/110506tmftd0849m3g.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/myliobatidae/narinari/110506tmftd0849m3g.jpg
 links_references: "**Links**  \n- [Family\n  Myliobatidae](http://www.fishbase.org/summary/FamilySummary.php?ID=22)\
   \ and *[Aetobatus\n  narinari](http://www.fishbase.org/summary/1250)*[(Spotted eagle\
   \ ray)](http://www.fishbase.org/summary/1250) and *[Aetomylaeus\n  nichofii](http://www.fishbase.org/summary/10120)*[(Banded\
@@ -42,15 +42,15 @@ links_references: "**Links**  \n- [Family\n  Myliobatidae](http://www.fishbase.o
   \ Council on the Environment. 163pp.\n- Allen, Gerry,\n  2000. *Marine\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/myliobatidae/narinari/110506tmftd0849m3g.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/myliobatidae/narinari/110506tmftd0849m3g.jpg
     caption: Aetobatus mula Large triangular 'wings' with white spots. Tanah Merah,
       May 11
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/myliobatidae/narinari/110506tmftd0856m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/myliobatidae/narinari/110506tmftd0856m3.jpg
     caption: Eyes and breathing spiracles on the sides of the head. Triangular snout.
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/myliobatidae/narinari/110506tmftd0849m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/myliobatidae/narinari/110506tmftd0849m3.jpg
     caption: Venomous spines at the base of the tail.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/myliobatidae/narinari/161218lab.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/myliobatidae/narinari/161218lab.jpg
     caption: Labrador, Dec 16 Photo shared by Chi Yang
   gallery3:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1

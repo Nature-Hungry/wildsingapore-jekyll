@@ -22,21 +22,21 @@ class: Florideophyceae
 subclass: Rhodymeniophycidae
 order: Gigartinales
 updated: Jan 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/portieria/100809cyrd9738m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/portieria/100809cyrd9738m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/portieria/100810sngd9933m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/portieria/100810sngd9933m3b.jpg
     caption: Pulau Senang, Aug 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/portieria/100810sngd9935m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/portieria/100810sngd9935m3b.jpg
     caption: Pulau Senang, Aug 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/portieria/100809cyrd9738m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/portieria/100809cyrd9738m3a.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/portieria/120506sisd1142m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/portieria/120506sisd1142m3.jpg
     caption: Sisters Island, May 12
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/portieria/120506sisd1142m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/portieria/120506sisd1142m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/portieria/120506sisd1142m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/portieria/120506sisd1142m3b.jpg
     caption: Tips are curled.
 links_references: '**Links**
 
@@ -110,7 +110,7 @@ According to
 
 This seaweed is much studied because it contains a substance that may supress human tumors.
 
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/portieria/100809cyrd9738m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/portieria/100809cyrd9738m3.jpg)
 
 *Cyrene, Aug 10*
 

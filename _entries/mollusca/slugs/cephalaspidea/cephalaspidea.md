@@ -23,21 +23,21 @@ updated: May 2020
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pilsbryi/080819cyrd9842m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/pilsbryi/080819cyrd9842m3.jpg
     caption: Batik tailed-slug
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/reticulata/110319cyrs07381m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/reticulata/110319cyrs07381m3.jpg
     caption: Reticulated tailed-slug
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/lineolata/150219cyrlks2m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/lineolata/150219cyrlks2m3.JPG
     caption: Lined tailed-slug
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/black/150219cyrd1308m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/black/150219cyrd1308m3.jpg
     caption: Black tailed-slug
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/haminoea/101009cjd1866m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/haminoea/101009cjd1866m3.jpg
     caption: Mangrove bubble-shell snail
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/hydatinidae/080412cjtchm3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/hydatinidae/080412cjtchm3.jpg
     caption: Paper bubble snail
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/philine/111028chged2710m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/philine/111028chged2710m3.jpg
     caption: '''Attap chee'' slug'
 ---
 

@@ -22,24 +22,24 @@ class: Florideophyceae
 subclass: Rhodymeniophycidae
 order: Gracilariales
 updated: Jan 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/salicornia/050526cjg6877m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/salicornia/050526cjg6877m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/salicornia/120208cjd6170m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/salicornia/120208cjd6170m3.jpg
     caption: Chek Jawa, Feb 12
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/salicornia/120208cjd6170m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/salicornia/120208cjd6170m3a.jpg
     caption: Chek Jawa, Feb 12
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/salicornia/060712tusd4057m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/salicornia/060712tusd4057m3.jpg
     caption: Tuas, Jul 06
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/salicornia/110827smkd9880m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/salicornia/110827smkd9880m3.jpg
     caption: Pulau Semakau, Aug 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/salicornia/091218tmd5966m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/salicornia/091218tmd5966m3.jpg
     caption: Tanah Merah, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/salicornia/060515labd1919m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/salicornia/060515labd1919m3.jpg
     caption: Labrador, Jun 05
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/salicornia/091204pawd0011m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/salicornia/091204pawd0011m3a.jpg
     caption: Pulau Pawai, Dec 09
 links_references: '**Links**
 
@@ -150,11 +150,11 @@ species, it is also a
 [source of agar-agar](gracilaria)
 and is eaten as a jelly and as a 'crunchy' snack. Other uses include as an insect repellant and to treat knee joints, sores, heart complaints, stomach and intestinal disorders. It is reported to have anti-bacterial and anti-tumor properties.
 
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/salicornia/050526cjg6877m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/salicornia/050526cjg6877m3.jpg)
 
 *Chek Jawa, May 05
 
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/salicornia/050526cjg6877m3a.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/salicornia/050526cjg6877m3a.jpg)*
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 ---

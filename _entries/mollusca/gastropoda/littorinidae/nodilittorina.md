@@ -25,19 +25,19 @@ order: Littorinimorpha
 superfamily: Littorinoidea
 subfamily: Littorininae
 updated: Aug 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/nodilittorina/110203sjim6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/nodilittorina/110203sjim6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/nodilittorina/110203sjim6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/nodilittorina/110203sjim6l.jpg
     caption: St. John's Island, Feb 11
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/nodilittorina/110203sjim3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/nodilittorina/110203sjim3.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/nodilittorina/040706lzrd2452m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/nodilittorina/040706lzrd2452m3.jpg
     caption: Lazarus Island, Jul 04
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/nodilittorina/050502cjg5611m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/nodilittorina/050502cjg5611m3.jpg
     caption: Chek Jawa, May 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/nodilittorina/050502cjg5584m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/nodilittorina/050502cjg5584m3.jpg
     caption: Chek Jawa, May 05
 links_references: '**Links**
 

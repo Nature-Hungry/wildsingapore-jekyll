@@ -5,29 +5,29 @@ keywords: encrusting, sponge, porifera, field, guide, seashore, sea, shore, mari
   coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 updated: Apr 2020
-coverimg: http://www.wildsingapore.com/wildfacts/eggs/eggs/111030skdd3236m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/eggs/eggs/111030skdd3236m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/photos/bullet.gif
+  - url: https://f003.backblazeb2.com/file/naturehungry/photos/bullet.gif
     caption: if you learn only 3 things about them ... Egg blob contain living eggs
       or tiny animals. Don't disturb them. Egg strings are found on mud or sand. Watch
       your step. Please don't bring egg blobs home. Thousands of baby animals may
       die.
-  - url: http://www.wildsingapore.com/wildfacts/photos/bullet.gif
+  - url: https://f003.backblazeb2.com/file/naturehungry/photos/bullet.gif
     caption: Egg blob contain living eggs or tiny animals. Don't disturb them. Egg
       strings are found on mud or sand. Watch your step. Please don't bring egg blobs
       home. Thousands of baby animals may die.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/eggs/eggs/111030skdd3236m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/eggs/eggs/111030skdd3236m3.jpg
     caption: Pulau Sekudu, Oct 11
-  - url: http://www.wildsingapore.com/wildfacts/eggs/eggs/110418tmftd8998m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/eggs/eggs/110418tmftd8998m3.jpg
     caption: On sand Tanah Merah, Apr 11
-  - url: http://www.wildsingapore.com/wildfacts/eggs/eggs/120407lazd7990m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/eggs/eggs/120407lazd7990m3.jpg
     caption: Many blobs sometimes seen. Seringat-Kias, Apr 12
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/eggs/eggs/120408sjid8277m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/eggs/eggs/120408sjid8277m6l.jpg
     caption: St. John's Island, Apr 12
-  - url: http://www.wildsingapore.com/wildfacts/eggs/eggs/120408sjid8279m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/eggs/eggs/120408sjid8279m3a.jpg
     caption: ''
 size:
 - 10.0

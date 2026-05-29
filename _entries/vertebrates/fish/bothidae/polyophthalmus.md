@@ -24,14 +24,14 @@ superorder: Acanthomorpha
 order: Carangiformes
 suborder: Pleuronectoidei
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/bothidae/polyophthalmus/080509cyrd2745m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/bothidae/polyophthalmus/080509cyrd2745m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/bothidae/polyophthalmus/080509cyrd2745m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/bothidae/polyophthalmus/080509cyrd2745m3.jpg
     caption: Cyrene Reef, May 08
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/bothidae/polyophthalmus/080509cyrd2745m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/bothidae/polyophthalmus/080509cyrd2745m3b.jpg
     caption: Eyes on the left side.
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/bothidae/polyophthalmus/080509cyrd2745m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/bothidae/polyophthalmus/080509cyrd2745m3a.jpg
     caption: Tail fin separated from the dorsal and anal fins .
 links_references: "**Links**\n- [Threespot flounder (\n*Grammatobothus polyophthalmus*\n\
   )](http://www.fishbase.org/summary/6638)\nfrom\n[FishBase](http://www.fishbase.org/)\n\

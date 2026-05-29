@@ -29,45 +29,45 @@ suborder: Scutelloida
 infraorder: Scutelliformes
 superfamily: Scutelloidea
 updated: Mar 2020
-coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3.jpg
     caption: Upperside of living sand dollar Chek Jawa, Jul 08
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3c.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3b.jpg
     caption: Petalloid.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7992m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7992m3.jpg
     caption: Underside
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7992m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7992m3c.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7992m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7992m3a.jpg
     caption: ''
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/031122cjd0023m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/echinodiscus/031122cjd0023m3.jpg
     caption: Upperside of test. Chek Jawa, Nov 03
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/031122cjd0019m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/echinodiscus/031122cjd0019m3.jpg
     caption: Upperside of test .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/031122cjd0022m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/echinodiscus/031122cjd0022m3.jpg
     caption: Underside of rest
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/090210tmd6927m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/echinodiscus/090210tmd6927m3.jpg
     caption: Test of dead keyhole sand dollar. Tanah Merah, Feb 09
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/080603tmlks01m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/echinodiscus/080603tmlks01m3.jpg
     caption: East Coast Park, Jun 08 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/121214chgelks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/echinodiscus/121214chgelks.JPG
     caption: Changi East, Dec 12 Photo shared by Loh Kok Sheng on his blog .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/221127rk1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/echinodiscus/221127rk1.jpg
     caption: Lazarus Island, Nov 22 Photo shared by Richard Kuah on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/240410cyrtl3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/echinodiscus/240410cyrtl3.jpg
     caption: Cyrene, Apr 24 Photo shared by Tammy Lim on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/241117cyrlks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/echinodiscus/241117cyrlks2.jpg
     caption: Cyrene, Nov 24 Photo shared by Loh Kok Sheng on facebook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/260201cyrlks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/echinodiscus/260201cyrlks1.jpg
     caption: Cyrene, Feb 26 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 

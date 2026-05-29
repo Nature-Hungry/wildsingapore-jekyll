@@ -12,33 +12,33 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Mar 2020
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/090820ecpd9495m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/isopoda/isopoda/090820ecpd9495m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/090820ecpd9495m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/isopoda/isopoda/090820ecpd9495m3.jpg
     caption: Some unidentified beach isopods swarming over rotting fruit. East Coast,
       Aug 09
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/090820ecpd9495m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/isopoda/isopoda/090820ecpd9495m3a.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/110123sisd5267m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/isopoda/isopoda/110123sisd5267m3.jpg
     caption: Sisters Island, Jan 11
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/110123sisd5273m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/isopoda/isopoda/110123sisd5273m3.jpg
     caption: Sisters Island, Jan 11
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/110715cyrd6725m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/isopoda/isopoda/110715cyrd6725m3.jpg
     caption: Cyrene Reef, Jul 11
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/130721cjd9586m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/isopoda/isopoda/130721cjd9586m6l.jpg
     caption: Fish isopod. Chek Jawa, Aug 13
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/130721cjd9586m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/isopoda/isopoda/130721cjd9586m3.jpg
     caption: Chek Jawa, Aug 13
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/130427tptd5711m6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/isopoda/isopoda/130427tptd5711m6.jpg
     caption: Fish isopod. Terumbu Pempang Tengah, Apr 13
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/121029rmbr1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/isopoda/isopoda/121029rmbr1.jpg
     caption: 12 Oct, photo from Raffles Museum of Biodiversity Research
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/081016cyrmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/isopoda/isopoda/081016cyrmn.jpg
     caption: Cyrene Reef, Aug 10 Photo shared by Marcus Ng on flickr .
 links_references: "**Links**\n- [Order Isopoda](http://mangrove.nus.edu.sg/pub/seashore/text/177)\n\
   Tan, Leo W. H. & Ng, Peter K. L., 1988.\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n\

@@ -33,24 +33,24 @@ superfamily: Portunoidea
 subfamily: Thalamitinae
 subgenus: Charybdis
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/annulata/080719sntd7851m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/annulata/080719sntd7851m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/annulata/080719sntd7851m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/annulata/080719sntd7851m3.jpg
     caption: Sentosa, Jul 08
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/annulata/080719sntd7851m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/annulata/080719sntd7851m3c.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/annulata/110504nsrccd0574m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/annulata/110504nsrccd0574m3.jpg
     caption: East Coast, May 11
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/annulata/090820ecplkh1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/annulata/090820ecplkh1m3.jpg
     caption: East Coast, Aug 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/annulata/120802chglks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/annulata/120802chglks.JPG
     caption: Changi, Aug 12 Photo shared by Loh Kok Sheng on flickr .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/annulata/130427sntmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/annulata/130427sntmn.jpg
     caption: Sentosa, Apr 13 Photo shared by Marcus Ng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/annulata/201213sjivc1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/annulata/201213sjivc1.jpg
     caption: St John's Island, Dec 20 Photo shared by Vincent Choo on facebook .
 links_references: '**Links**
 

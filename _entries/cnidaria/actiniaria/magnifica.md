@@ -39,90 +39,90 @@ trivia_items:
   hide deeper in the anemone.
 galleries:
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/040522kusbd0005m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/magnifica/040522kusbd0005m3.jpg
     caption: Kusu Island, May 04
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/040522kusbd0005m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/magnifica/040522kusbd0005m3b.jpg
     caption: Long tentacles densely cover the oral disk.
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/040522kusad0015m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/magnifica/040522kusad0015m3.jpg
     caption: The animal can tuck its tentacles into its body.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/100201hntd9194m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/magnifica/100201hntd9194m3.jpg
     caption: Pulau Hantu, Jan 10
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/080208hntd9479m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/magnifica/080208hntd9479m3.jpg
     caption: Pulau Hantu, Feb 08
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/120409tptd8774m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/magnifica/120409tptd8774m3.jpg
     caption: Terumbu Pempang Tengah, Apr 12
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/181225kuslks5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/magnifica/181225kuslks5.jpg
     caption: A small fish caught in its tentacles. Kusu Island, Dec 18 Photo shared
       by Loh Kok Sheng on facebook .
   - url: http://www.wildsingapore.com/crustacea/othercrust/shrimp/brevicarpalis/040411hntd0083m3.jpg
     caption: Peacock-tail anemone shrimp on the anemone. Pulau Hantu, Apr 04
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/110802smkd8206m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/magnifica/110802smkd8206m3.jpg
     caption: Clown anemonefish lives safely in the anemone. Pulau Semakau, Aug 11
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/250715bbkky1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/magnifica/250715bbkky1.jpg
     caption: Beting Bemban Kecil, Jul 25 Photo shared by Kelvin Yong on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/250715bbkky2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/magnifica/250715bbkky2.jpg
     caption: Beting Bemban Kecil, Jul 25 Photo shared by Kelvin Yong on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/200707hntdc3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/magnifica/200707hntdc3.jpg
     caption: Sea anemone in the process of cloning itself! Pulau Hantu, Jul 20 Photo
       shared by Dayna Cheah on facebook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/240708smkesg2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/magnifica/240708smkesg2.jpg
     caption: One beaching among normal. Pulau Semakau (East), Jul 24 Photo shared
       by Shawne Goh on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/240708smkerk2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/magnifica/240708smkerk2.jpg
     caption: Bleaching. Pulau Semakau (East), Jul 24 Photo shared by Richard Kuah
       on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/240708smkeky1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/magnifica/240708smkeky1.jpg
     caption: Stressed. Pulau Semakau (East), Jul 24 Photo shared by Kelvin Yong on
       facebook .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/240820kusky5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/magnifica/240820kusky5.jpg
     caption: During global mass coral bleaching. Kusu Island, Aug 24 Photo shared
       by Kelvin Yong on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/240725smknky1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/magnifica/240725smknky1.jpg
     caption: During global mass coral bleaching. Pulau Semakau (North), Jul 24 Photo
       shared by Kelvin Yong on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/250714srpccn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/magnifica/250714srpccn1.jpg
     caption: One bleaching in a cluster of many anemones. Sentosa Serapong, Jul 25
       Photo shared by Che Cheng Neo on facebook .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/120408sjilks4m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/magnifica/120408sjilks4m3.jpg
     caption: St. John's Island , Apr 12 Photo shared by Loh Kok Sheng on his blog
       .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/120707jnglks2m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/magnifica/120707jnglks2m3.JPG
     caption: Pulau Jong, Jun 12 Photo shared by Loh Kok Sheng on his blog .
   gallery9:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/250727smkwlks6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/magnifica/250727smkwlks6.jpg
     caption: Pulau Semakau West, Jul 25 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/250727smkwlks6a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/magnifica/250727smkwlks6a.jpg
     caption: ''
   gallery10:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/110717tbjk3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/magnifica/110717tbjk3m3.jpg
     caption: Terumbu Bemban, Jul 11 Photo shared by James Koh on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/240412tbky1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/magnifica/240412tbky1.jpg
     caption: Terumbu Bemban, 24 Photo shared by Kelvin Yong on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/200624tryjll2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/magnifica/200624tryjll2.jpg
     caption: Terumbu Raya, Jun 20 Photo shared by Jianlin Liu on facebook .
   gallery11:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/100629tpdjk3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/magnifica/100629tpdjk3m3.jpg
     caption: Terumbu Pempang Darat, Jun 10 Photo shared by James Koh on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/250712tpltl1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/magnifica/250712tpltl1.jpg
     caption: Terumbu Pempang Laut, Jul 25 Photo shared by Tammy Lim on facebook .
   gallery12:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/100613snglks2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/magnifica/100613snglks2m3.jpg
     caption: Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/100613snglks4m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/magnifica/100613snglks4m3.jpg
     caption: Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/091204pawjk12m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/magnifica/091204pawjk12m3.jpg
     caption: Pulau Pawai, Dec 09 Photo shared by James Koh on his flickr .
   gallery13:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/210428slulks7.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/magnifica/210428slulks7.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/220201brklks8.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/magnifica/220201brklks8.jpg
     caption: Pulau Berkas, Feb 22 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 

@@ -21,18 +21,18 @@ infraorder: Iguania
 parvorder: Acrodonta
 subfamily: Draconinae
 updated: Dec 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/versicolor/030531sbwrd0032m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/versicolor/030531sbwrd0032m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/versicolor/030531sbwrd0032m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/versicolor/030531sbwrd0032m3.jpg
     caption: Sungei Buloh Wetland Reserve, May 03
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/versicolor/030809ubndd0245m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/versicolor/030809ubndd0245m6l.jpg
     caption: Pulau Ubin, Aug 03
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/versicolor/040918sbwrd6805m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/versicolor/040918sbwrd6805m6l.jpg
     caption: Males develop an orange head with black blotchy cheeks during breeding
       season. Sungei Buloh Wetland Reserve, Sep 04
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/versicolor/020111sbwrcpd4606m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/versicolor/020111sbwrcpd4606m3.jpg
     caption: Sungei Buloh Wetland Reserve, Jan 02
 links_references: '**Links**
 

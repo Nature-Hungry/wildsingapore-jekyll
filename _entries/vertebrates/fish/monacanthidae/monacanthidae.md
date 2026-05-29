@@ -18,7 +18,7 @@ superorder: Acanthomorpha
 order: Tetraodontiformes
 suborder: Balistoidei
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/030714bbd0204m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/chinensis/030714bbd0204m6l.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -31,41 +31,41 @@ galleries:
       have a stiff dorsal spine and leathery skin instead of scales. Small ones (2-3cm)
       are common in seagrasses. Watch your step!
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/030714bbd0204m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/chinensis/030714bbd0204m6l.jpg
     caption: The 'thorn' at the top of the head can be locked into place. There is
       usually a flap under the body. Beting Bronok, Mar 07
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/040506cjd0033.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/chinensis/040506cjd0033.jpg
     caption: Wrapped closely around a sponge. Chek Jawa, May 04
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/050526cjg6861m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/chinensis/050526cjg6861m3.jpg
     caption: They can change colours for perfect camouflage! Chek Jawa, May 05
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/110519chgd2112m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/chinensis/110519chgd2112m3.jpg
     caption: Tiny green one resembles a seagrass leaf! Changi, May 11
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/penicilligerus/110929tmftd1516m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/penicilligerus/110929tmftd1516m3.jpg
     caption: Three Feathery fishes resembling flotsam. Tanah Merah, Sep 11
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/penicilligerus/090918tmd1029m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/penicilligerus/090918tmd1029m3.jpg
     caption: Feathery filefish
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/anacanthus/080523cyrd3973m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/anacanthus/080523cyrd3973m3.jpg
     caption: Bearded filefish
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/tomentosus/090818tmd9242m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/tomentosus/090818tmd9242m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/tomentosus/090818tmd9242m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/tomentosus/090818tmd9242m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/tomentosus/070728sisd4532m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/tomentosus/070728sisd4532m3b.jpg
     caption: ''
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/030716cjd0060m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/chinensis/030716cjd0060m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/030716cjd0060m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/chinensis/030716cjd0060m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/030716cjd0060m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/chinensis/030716cjd0060m3b.jpg
     caption: ''
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/macrurus/080605hntd4960m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/macrurus/080605hntd4960m6l.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/macrurus/080605hntd4960m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/macrurus/080605hntd4960m3b.jpg
     caption: ''
 links_references: '**Links**
 

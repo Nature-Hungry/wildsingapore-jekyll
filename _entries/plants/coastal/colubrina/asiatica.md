@@ -22,7 +22,7 @@ class: Magnoliopsida
 order: Rosales
 inat_id: 51593
 updated: Nov 10
-coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/081206smkd2624m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/colubrina/asiatica/081206smkd2624m3.jpg
 links_references: "**Links**\n- [*Colubrina\n  asiatica*](http://floraofsingapore.wordpress.com/2010/06/04/colubrina-asiatica/)\
   \ on Total Vascular Flora of Singapore Online:\n  photos and fact sheet.\n- Giesen,\
   \ Wim\n  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.\n  [*Mangrove\n\
@@ -32,25 +32,25 @@ links_references: "**Links**\n- [*Colubrina\n  asiatica*](http://floraofsingapor
   **References**\n- Hsuan Keng,\n  S.C. Chin and H. T. W. Tan. 1990, *[The\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/090412hntd9854m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/colubrina/asiatica/090412hntd9854m6l.jpg
     caption: Pulau Hanu, Apr 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/090412hntd9847m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/colubrina/asiatica/090412hntd9847m3.jpg
     caption: Pulau Hantu, Apr 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/090412hntd9856m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/colubrina/asiatica/090412hntd9856m6l.jpg
     caption: Pulau Hanu, Apr 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/090412hntd9853m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/colubrina/asiatica/090412hntd9853m3.jpg
     caption: Pulau Hantu, Apr 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/081206smkd2670m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/colubrina/asiatica/081206smkd2670m3.jpg
     caption: Pulau Semakau, Dec 08
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/090412hntd9857m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/colubrina/asiatica/090412hntd9857m3.jpg
     caption: Pulau Hantu, Apr 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/090412hntd9858m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/colubrina/asiatica/090412hntd9858m3.jpg
     caption: Pulau Hantu, Apr 09
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/110220lazd6241m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/colubrina/asiatica/110220lazd6241m3.jpg
     caption: Lazarus Island, Feb 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/110220lazd6241m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/colubrina/asiatica/110220lazd6241m3a.jpg
     caption: Lazarus Island, Feb 11
   gallery4:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -83,14 +83,14 @@ The seeds are dispersed by water as well as birds. The plant germinates rapidly 
 **Human uses:**
 According to Burkill, the bark contains saponins that lather in the water and is used as a soap. In Samoa it is used for bleaching and cleaning mats. The young leaves are "eaten with relish" in Ambon. According to Giesen, the leaves have the ability to produce foam in water and thus, have long been used as a substitute for soap in the rural areas in some countries. Leaves and fruits are used as fish poison. In the Maldives, leaves are used to alleviate inflammations and boils. In order to alleviate painful swellings, leaves are crushed and juice is rubbed on the affected body. Young stems are cut into pieces and boiled in water, which is drunk to alleviate stomach disorders. Medicinal oil is prepared from seeds along with other ingredients, which is used to treat rheumatism and numbness in adults and also in treating weak legs in children.
 
-*![](http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/081206smkd2624m3.jpg)
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/colubrina/asiatica/081206smkd2624m3.jpg)
 
 *Pulau Semakau, Dec 08*
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/090412hntd9855m3b.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/colubrina/asiatica/090412hntd9855m3b.jpg)
 
 *Pulau Hantu, Apr 09*
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/090412hntd9855m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/colubrina/asiatica/090412hntd9855m3.jpg)
 
 *Pulau Hantu, Apr 09**
 

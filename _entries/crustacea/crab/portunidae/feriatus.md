@@ -33,20 +33,20 @@ superfamily: Portunoidea
 subfamily: Thalamitinae
 subgenus: Charybdis
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/feriatus/050721cjd5144m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/feriatus/050721cjd5144m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/feriatus/050721cjd5144m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/feriatus/050721cjd5144m3.jpg
     caption: Chek Jawa, Jul 05
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/feriatus/050721cjd5144m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/feriatus/050721cjd5144m3b.jpg
     caption: 5 spines on the body side, white cross pattern on its back
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/feriatus/111029smkd3158.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/feriatus/111029smkd3158.jpg
     caption: Seen hiding under a Fire anemone . Pulau Semakau, Oct 11
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/feriatus/170402smknhpy.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/feriatus/170402smknhpy.jpg
     caption: Possibly a juvenile. Pulau Semakau North, Apr 17 Photo shared by Heng
       Pei Yan on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/feriatus/240723chgerg1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/feriatus/240723chgerg1.jpg
     caption: Hiding under a Pearly anemone . Changi East (Lost Coast), Jul 24 Photo
       shared by Rachael Goh on facebook .
 links_references: '**Links**

@@ -12,19 +12,19 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/porifera/yellowbumps/050411tusd2292m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/yellowbumps/050411tusd2292m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/yellowbumps/050411tusd2292m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/yellowbumps/050411tusd2292m3.jpg
     caption: Tuas, Apr 05
-  - url: http://www.wildsingapore.com/wildfacts/porifera/yellowbumps/030618bbd0138m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/yellowbumps/030618bbd0138m3.jpg
     caption: Beting Bronok, Jun 03
-  - url: http://www.wildsingapore.com/wildfacts/porifera/yellowbumps/020101cjcpd3824m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/yellowbumps/020101cjcpd3824m3.jpg
     caption: Chek Jawa, Jan 02
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/yellowbumps/100614bbd5912m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/yellowbumps/100614bbd5912m3.jpg
     caption: Beting Bronok, Jun 10
-  - url: http://www.wildsingapore.com/wildfacts/porifera/yellowbumps/060429skdd1436m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/yellowbumps/060429skdd1436m3.jpg
     caption: Pulau Sekudu, Apr 06
 location:
 - chg

@@ -22,12 +22,12 @@ suborder: Suina
 subfamily: Suinae
 tribe: Suini
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/scrofa/011007cjcpd142m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/scrofa/011007cjcpd142m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/scrofa/120414cjd0013m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/scrofa/120414cjd0013m6l.jpg
     caption: Very young piglets, still with their stripes. Chek Jawa, Apr 12
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/scrofa/111210cjnhcs00571m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/scrofa/111210cjnhcs00571m3.jpg
     caption: Safe closer encounters are possible! Chek Jawa, Dec 11
 links_references: "**Links**\n- [Wild Pig](http://www.ecologyasia.com/verts/mammals/wild_pig)\n\
   on Nick Baker's EcologyAsia website: fact sheet with photos.\n- [*Sus scrofa*](https://singapore.biodiversity.online/taxo4254/mainSpace/Sus%20Scrofa%20-%20Wild%20Boar.html)\n\
@@ -71,16 +71,16 @@ Alas on 27 May 2004, Priscilla was found dead by NParks rangers. There was no ob
 [More about Priscilla](http://wildshores.blogspot.com/2008/09/memories-of-priscilla-pig-of-chek-jawa.html)
 on the wild shores of singapore blog.
 
-*![](http://www.wildsingapore.com/wildfacts/vertebrates/mammals/scrofa/011007cjcpd142m3.jpg)*
+*![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/scrofa/011007cjcpd142m3.jpg)*
 Priscilla the Pig.
 
 Chek Jawa, Oct 01
 
-*![](http://www.wildsingapore.com/wildfacts/vertebrates/mammals/scrofa/030621cjd0058m3.jpg)*
+*![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/scrofa/030621cjd0058m3.jpg)*
 Priscilla the Pig.
 *Chek Jawa, Jun 03*
 
-*![](http://www.wildsingapore.com/wildfacts/vertebrates/mammals/scrofa/040502cjd0158m3.jpg)*
+*![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/scrofa/040502cjd0158m3.jpg)*
 Priscilla the Pig c
 ooling off in a mud wallow.
 *Chek Jawa, May 04*

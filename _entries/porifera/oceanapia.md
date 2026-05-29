@@ -16,32 +16,32 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Oct 2019
-coverimg: http://www.wildsingapore.com/wildfacts/porifera/oceanapia/110521smks01955m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/oceanapia/110521smks01955m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/oceanapia/110521smks01955m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/oceanapia/110521smks01955m3.jpg
     caption: Pulau Semakau, May 11
-  - url: http://www.wildsingapore.com/wildfacts/porifera/oceanapia/080208hntd9514m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/oceanapia/080208hntd9514m3.jpg
     caption: Pulau Hantu, Feb 08
-  - url: http://www.wildsingapore.com/wildfacts/porifera/oceanapia/080208hntd9514m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/oceanapia/080208hntd9514m3a.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/oceanapia/250501skdlll1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/oceanapia/250501skdlll1.jpg
     caption: Pulau Sekudu, May 25 Photo shared by Low Liong Leong on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/porifera/oceanapia/210401sntmn2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/oceanapia/210401sntmn2.jpg
     caption: Sentosa Tg Rimau, Apr 21 Photo shared by Marcus Ng on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/oceanapia/210228lazrk1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/oceanapia/210228lazrk1.jpg
     caption: Lazarus Island, Feb 21 Photo shared by Richard Kuah on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/porifera/oceanapia/251009sjilvo3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/oceanapia/251009sjilvo3.jpg
     caption: St John's Island, Oct 25 Photo shared by Lon Voon Ong on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/oceanapia/170628jngll2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/oceanapia/170628jngll2.jpg
     caption: Pulau Jong, Jun 17 Photo shared by Liz Lim on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/porifera/oceanapia/151225tsmklks1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/oceanapia/151225tsmklks1m3.jpg
     caption: Terumbu Semakau, Dec 15 Photo shared by Loh Kok Sheng on his blog .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/oceanapia/210428slumn3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/oceanapia/210428slumn3.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Marcus Ng on facebook .
 links_references: '**Links**
 

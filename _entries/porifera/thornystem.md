@@ -16,21 +16,21 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/porifera/thornystem/120507sntspgd1360m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/thornystem/120507sntspgd1360m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/thornystem/120507sntspgd1360m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/thornystem/120507sntspgd1360m3.jpg
     caption: Sentosa Serapong, May 12
-  - url: http://www.wildsingapore.com/wildfacts/porifera/thornystem/120607kusd4886m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/thornystem/120607kusd4886m3.jpg
     caption: Kusu Island, Jun 12
-  - url: http://www.wildsingapore.com/wildfacts/porifera/thornystem/090625bbbd5261m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/thornystem/090625bbbd5261m3.jpg
     caption: Beting Bemban Besar, Jun 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/thornystem/090310tuslks1.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/thornystem/090310tuslks1.JPG
     caption: Tuas, Mar 09
-  - url: http://www.wildsingapore.com/wildfacts/porifera/thornystem/090310tuslks2.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/thornystem/090310tuslks2.JPG
     caption: Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/porifera/thornystem/080609hnttsj.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/thornystem/080609hnttsj.JPG
     caption: Pulau Hantu, Jun 08 Photo shared by Tan Sijjie on flickr .
 links_references: '**Links**
 

@@ -22,26 +22,26 @@ class: Magnoliopsida
 order: Myrtales
 subfamily: Olisbeoideae
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/memecylon/edule/041031cjd7943m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/memecylon/edule/041031cjd7943m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/memecylon/edule/041031cjd7943m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/memecylon/edule/041031cjd7943m3.jpg
     caption: Chek Jawa, Oct 04
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/memecylon/edule/080720cjd8074m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/memecylon/edule/080720cjd8074m3a.jpg
     caption: Chek Jawa, Jul 08
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/memecylon/edule/070422cjg8983m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/memecylon/edule/070422cjg8983m3.jpg
     caption: Chek Jawa, Apr 07
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/memecylon/edule/100630sntd7793m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/memecylon/edule/100630sntd7793m6l.jpg
     caption: Sentosa, Jun 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/memecylon/edule/091005cjd2334m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/memecylon/edule/091005cjd2334m6l.jpg
     caption: Chek Jawa, Oct 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/memecylon/edule/091226cjd6360m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/memecylon/edule/091226cjd6360m6l.jpg
     caption: Chek Jawa, Dec 09
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/memecylon/edule/020601cjcpd0058m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/memecylon/edule/020601cjcpd0058m3.jpg
     caption: Chek Jawa, Jun 02
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/memecylon/edule/091005cjd2287m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/memecylon/edule/091005cjd2287m3a.jpg
     caption: Leaves dip in seawater at high tide. Chek Jawa, Oct 09
 links_references: '**Links**
 

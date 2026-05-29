@@ -17,14 +17,14 @@ subclass: Keratosa
 order: Dictyoceratida
 subfamily: Thorectinae
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/porifera/dactylospongia/100518bbbd3074m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/dactylospongia/100518bbbd3074m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/dactylospongia/110323smkd7707m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/dactylospongia/110323smkd7707m3.jpg
     caption: Pulau Semakau, Mar 11
-  - url: http://www.wildsingapore.com/wildfacts/porifera/dactylospongia/110323smkd7707m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/dactylospongia/110323smkd7707m3b.jpg
     caption: Submerged.
-  - url: http://www.wildsingapore.com/wildfacts/porifera/dactylospongia/100518bbbd3074m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/dactylospongia/100518bbbd3074m3a.jpg
     caption: Out of water.
 links_references: '**Links**
 
@@ -69,7 +69,7 @@ Thin encrustation with short (2-5cm) finger-like upright branches. Surface rubbe
 *Pseudoceratina purpurea*
 , Family Pseudoceratinidae) which looks very similar. The two kinds of sponges are difficult to tell apart in the field.
 
-![](http://www.wildsingapore.com/wildfacts/porifera/dactylospongia/100518bbbd3074m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/porifera/dactylospongia/100518bbbd3074m3.jpg)
 
 *Beting Bemban Besar, May 11*
 .

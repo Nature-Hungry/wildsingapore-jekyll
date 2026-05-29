@@ -32,45 +32,45 @@ zoosubsection: Heterotremata
 superfamily: Portunoidea
 subfamily: Thalamitinae
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/bluespined/040818sntd4739m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/bluespined/040818sntd4739m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/bluespined/040818sntd4739m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/bluespined/040818sntd4739m3.jpg
     caption: Sentosa, Aug 04
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/bluespined/040818sntd4739m3h.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/bluespined/040818sntd4739m3h.jpg
     caption: 6 rounded equal-sized lobes between the eyes.
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/bluespined/040818sntd4739m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/bluespined/040818sntd4739m3b.jpg
     caption: Fourth spine tinier than other spines so it may appear to have only four
       spines.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/bluespined/040731kusd3566m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/bluespined/040731kusd3566m3.jpg
     caption: A mating pair. Kusu Island, Jul 04
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/bluespined/250810bsislvo4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/bluespined/250810bsislvo4.jpg
     caption: A pair about to mate? Big Sisters, Aug 25 Photo shared by Lon Voon Ong
       on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/bluespined/210529epcnvc8.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/bluespined/210529epcnvc8.jpg
     caption: East Coast (PCN), May 21 Photo shared by Vincent Choo on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/bluespined/251011lablks8.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/bluespined/251011lablks8.jpg
     caption: Labrador, Oct 25 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/bluespined/201019sjilks4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/bluespined/201019sjilks4.jpg
     caption: St John's Island, Oct 20 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/bluespined/110619tslgjp3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/bluespined/110619tslgjp3m3.jpg
     caption: Terumbu Selegie, Jun 11 Photo shared by Jerome Pang on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/bluespined/200707hntdc1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/bluespined/200707hntdc1.jpg
     caption: Pulau Hantu, Jul 20 Photo shared by Dayna Cheah on facebook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/bluespined/150617ecpbslks3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/bluespined/150617ecpbslks3m3.jpg
     caption: East Coast Park, Jun 15 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/bluespined/160510ecpbsdc1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/bluespined/160510ecpbsdc1.jpg
     caption: East Coast Park, May 16 Photo shared by Dayna Cheah on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/bluespined/150121tpkjll2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/bluespined/150121tpkjll2m3.jpg
     caption: Terumbu Pempang Kecil, Dec 15 Photo shared by Jianlin Liu on facebook
       .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/bluespined/210428slujll3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/bluespined/210428slujll3.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Jianlin Liu on facebook .
 links_references: '**Links**
 

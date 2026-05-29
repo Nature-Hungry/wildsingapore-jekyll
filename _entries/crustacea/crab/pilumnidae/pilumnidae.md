@@ -25,17 +25,17 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Pilumnoidea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/080621labd6040m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/pilumnidae/pilumnidae/080621labd6040m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/080621labd6040m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/pilumnidae/pilumnidae/080621labd6040m3.jpg
     caption: Common hairy crab
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/setifer/130721cjd9597m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/pilumnidae/setifer/130721cjd9597m3.jpg
     caption: Rubble-carrying hairy crab
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/060714rlhg6649m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/pilumnidae/sluiteri/060714rlhg6649m3.jpg
     caption: Fuzzy reef crab
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/featherstar/150220lsislks2.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/pilumnidae/featherstar/150220lsislks2.JPG
     caption: Feather star crab
 links_references: "**Links**\n- [Hairy Crab (\n*Pilumnus vespertilio*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/211)\n\
   Tan, Leo W. H. & Ng, Peter K. L., 1988.\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n\

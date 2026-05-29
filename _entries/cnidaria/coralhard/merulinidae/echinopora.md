@@ -17,39 +17,39 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/060714rlhg6515m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/echinopora/060714rlhg6515m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/060714rlhg6515m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/echinopora/060714rlhg6515m3.jpg
     caption: Raffles Lighthouse, Jul 06
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/060714rlhg6522m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/echinopora/060714rlhg6522m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/060714rlhg6522m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/echinopora/060714rlhg6522m3a.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/060714rlhg6514m3d.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/echinopora/060714rlhg6514m3d.jpg
     caption: Raffles Lighthouse, Jul 06
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/040507rflbd0129m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/echinopora/040507rflbd0129m3.jpg
     caption: Raffles Lighthouse, May 04
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/080803smkd8999m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/echinopora/080803smkd8999m3.jpg
     caption: Pulau Semakau, Aug 08
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/220618tmftlks14.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/echinopora/220618tmftlks14.jpg
     caption: Tanah Merah Ferry Terminal, Jun 22 . Photo shared by Loh Kok Sheng on
       facebook
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/220618tmftlks14a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/echinopora/220618tmftlks14a.jpg
     caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on facebook
       .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/140518tmlks6m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/echinopora/140518tmlks6m3.jpg
     caption: Tanah Merah, May 14 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/220618tmftlks24.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/echinopora/220618tmftlks24.jpg
     caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on facebook
       .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/090919sislks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/echinopora/090919sislks2.jpg
     caption: Sisters Island, Sep 09 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/230806tbrk1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/echinopora/230806tbrk1.jpg
     caption: Terumbu Bemban, Aug 23 Photo shared by Richard Kuah on facebook .
 links_references: '**Links**
 

@@ -24,41 +24,41 @@ order: Gobiiformes
 suborder: Apogonoidei
 subfamily: Apogoninae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/080523cyrd3984m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/margaritophorus/080523cyrd3984m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/080523cyrd3984m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/margaritophorus/080523cyrd3984m3.jpg
     caption: Often seen in small groups. Cyrene, May 08
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/100528tkkd3716m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/margaritophorus/100528tkkd3716m6l.jpg
     caption: Window-like patterns on the sides. Pulau Hantu, Jan 06
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/111029smkd3110m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/margaritophorus/111029smkd3110m6l.jpg
     caption: Brooding eggs in the mouth. Pulau Semakau, Oct 11
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/111029smkd3086m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/margaritophorus/111029smkd3086m3b.jpg
     caption: Pulau Semakau, Oct 11
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/111029smkd3104m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/margaritophorus/111029smkd3104m3.jpg
     caption: Pulau Semakau, Oct 11 Releasing newly hatched babies?
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/090310tuso3101390.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/margaritophorus/090310tuso3101390.jpg
     caption: Hovering near Giant carpet anemone occupied by anemonefishes. Tuas, Mar
       09
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/050426cftd2765.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/margaritophorus/050426cftd2765.jpg
     caption: Hovering near Haddon's carpet anemone . Changi, Apr 05
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/200627cnyrk5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/margaritophorus/200627cnyrk5.jpg
     caption: Hovering near a carpet anemone. Coney Island, Jun 20 Photo shared by
       Richard Kuah on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/210527prprk1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/margaritophorus/210527prprk1.jpg
     caption: Hovering near a carpet anemone. Pasir Ris Park, May 21 Photo shared by
       Richard Kuah on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/20070724thntrk5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/margaritophorus/20070724thntrk5.jpg
     caption: Terumbu Hantu, Jul 20 Photo shared by Richard Kuah on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/080422smkmn02m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/margaritophorus/080422smkmn02m3.jpg
     caption: Pulau Semakau, Apr 08 Photo shared by Marcus Ng on his flickr .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/180815bbbdc3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/margaritophorus/180815bbbdc3.jpg
     caption: Beting Bemban Besar, Aug 18 Photo shared by Dayna Cheah on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/110517tptik4m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/margaritophorus/110517tptik4m3.jpg
     caption: Terumbu Pempang Tengah, May 11 Photo shared by Ivan Kwan on flickr .
 links_references: '**Links**
 

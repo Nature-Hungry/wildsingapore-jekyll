@@ -23,14 +23,14 @@ infraclass: Pteriomorphia
 order: Pectinida
 superfamily: Anomioidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/enigmonia/040101lckd0024m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/anomiidae/enigmonia/040101lckd0024m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/enigmonia/040101lckd0024m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/anomiidae/enigmonia/040101lckd0024m3.jpg
     caption: Lim Chu Kang, Jan 04
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/enigmonia/040101lckd0024m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/anomiidae/enigmonia/040101lckd0024m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/enigmonia/020615sltard0555m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/anomiidae/enigmonia/020615sltard0555m3.jpg
     caption: Seletar, Jun 02
 links_references: '**Links**
 

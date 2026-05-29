@@ -21,19 +21,19 @@ superorder: Imparidentia
 order: Cardiida
 superfamily: Cardioidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090208smkd6644m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/cardiidae/cardissa/090208smkd6644m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090208smkd6644m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/cardiidae/cardissa/090208smkd6644m3.jpg
     caption: Heart cockle
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/large/091104sntd3546m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/cardiidae/large/091104sntd3546m3.jpg
     caption: Large cockle
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/fragum/100629pdrd7618m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/cardiidae/fragum/100629pdrd7618m3.jpg
     caption: Strawberry cockle
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/tridacnidae/squamosa/040123sisd0129m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/tridacnidae/squamosa/040123sisd0129m3.jpg
     caption: Fluted giant clam
-  - url: http://www.wildsingapore.com/wildfacts/tridacnidae/crocea/050312hntg3342m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/tridacnidae/crocea/050312hntg3342m3.jpg
     caption: Burrowing giant clam
 links_references: '**Links**
 

@@ -22,7 +22,7 @@ superorder: Acanthomorpha
 order: Perciformes
 suborder: Percoidei
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/100527tmd3431m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/serranidae/boenak/100527tmd3431m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -34,14 +34,14 @@ galleries:
       gender. They are among our favourite seafood. However, overharvesting can affect
       their populations.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/100527tmd3431m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/serranidae/boenak/100527tmd3431m3.jpg
     caption: Chocolate hind
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/coioides/120606bbd4364m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/serranidae/coioides/120606bbd4364m3.jpg
     caption: Orange-spotted grouper
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/formosa/150520ecplks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/serranidae/formosa/150520ecplks2.jpg
     caption: Bluelined hind
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/quoyanus/110418tmftd9031m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/serranidae/quoyanus/110418tmftd9031m3.jpg
     caption: Honeycomb grouper
 links_references: "**Links**\n- [Marbled Grouper (\n*Epinephalus tauvina*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/243)\n\
   Tan, Leo W. H. & Ng, Peter K. L., 1988,\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n\

@@ -20,16 +20,16 @@ subterclass: Tectipleura
 order: Cephalaspidea
 superfamily: Philinoidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/reticulata/110319cyrs07381m6la.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/reticulata/110319cyrs07381m6la.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/reticulata/110319cyrs07381m6la.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/reticulata/110319cyrs07381m6la.jpg
     caption: Cyrene Reef, Mar 11
   gallery2:
   - url: https://live.staticflickr.com/1691/24291371114_e18ab08f2a_z.jpg
     caption: ''
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/reticulata/160209cyrlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/reticulata/160209cyrlks.JPG
     caption: Cyrene Reef, Feb 16 Photo shared by Loh Kok Sheng on flickr .
 links_references: '**Links**
 

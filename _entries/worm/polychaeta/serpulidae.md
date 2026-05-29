@@ -17,14 +17,14 @@ subclass: Sedentaria
 infraclass: Canalipalpata
 order: Sabellida
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/serpulidae/080731chgd8454m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/serpulidae/080731chgd8454m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/serpulidae/111031chgd3457m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/serpulidae/111031chgd3457m3.jpg
     caption: Growing on a living small crab. Changi, Oct 11
   - url: http://www.wildsingapore.com/mollusca/bivalvia/pinnidae/pinnidae/060624skdd3239m3d.jpg
     caption: Growing on a fan shell . Pulau Sekudu, Jun 06
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/serpulidae/080731chgd8492m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/serpulidae/080731chgd8492m3.jpg
     caption: Growing on a shell occupied by a hermit crab . Changi, Jul 08
 links_references: '**Links**
 
@@ -130,17 +130,17 @@ and these build soft tubes out of mucus.
 **Human uses:**
 Keelworms are among the important animals that form the fouling community. These encrusting animals grow on the undersides (keels) of ships, piers and other hard surfaces in the sea. Fouling animals can affect the efficiency of these structures and equipment and thus affect human activities.
 
-![](http://www.wildsingapore.com/wildfacts/worm/polychaeta/serpulidae/080731chgd8454m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/serpulidae/080731chgd8454m3.jpg)
 
 On a living
 [Window-pane shell.](../../mollusca/bivalvia/anomiidae/placuna)
 *Changi, Jul 08
 
-![](http://www.wildsingapore.com/wildfacts/worm/polychaeta/serpulidae/080731chgd8452m3d.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/serpulidae/080731chgd8452m3d.jpg)
 
-![](http://www.wildsingapore.com/wildfacts/worm/polychaeta/serpulidae/080731chgd8452m3c.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/serpulidae/080731chgd8452m3c.jpg)
 
-![](http://www.wildsingapore.com/wildfacts/worm/polychaeta/serpulidae/060326tusd0666m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/serpulidae/060326tusd0666m3.jpg)
 
 Tuas, Mar 06*
 

@@ -24,12 +24,12 @@ superorder: Acanthomorpha
 order: Carangiformes
 suborder: Toxotoidei
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/chatareus/091226cjd6379m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/toxotidae/chatareus/091226cjd6379m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/chatareus/091226cjd6379m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/toxotidae/chatareus/091226cjd6379m3.jpg
     caption: Changi Jetty, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/chatareus/050225sbwrd1096m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/toxotidae/chatareus/050225sbwrd1096m6l.jpg
     caption: Sungei Buloh Wetland Reserve, Feb 05
 links_references: '**Links**
 

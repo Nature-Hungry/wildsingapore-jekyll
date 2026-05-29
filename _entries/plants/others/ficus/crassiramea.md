@@ -22,21 +22,21 @@ class: Magnoliopsida
 order: Rosales
 tribe: Ficeae
 updated: Dec 09
-coverimg: http://www.wildsingapore.com/wildfacts/plants/others/ficus/crassiramea/091213ubnd5794m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/crassiramea/091213ubnd5794m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/crassiramea/091213ubnd5795m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/crassiramea/091213ubnd5795m3.jpg
     caption: Pulau Ubin, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/crassiramea/091213ubnd5785m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/crassiramea/091213ubnd5785m3.jpg
     caption: Pulau Ubin, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/crassiramea/091213ubnd5788m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/crassiramea/091213ubnd5788m3.jpg
     caption: Pulau Ubin, Dec 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/crassiramea/100410ubnd0897m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/crassiramea/100410ubnd0897m3.jpg
     caption: Pulau Ubin, Apr 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/crassiramea/100410ubnd0897m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/crassiramea/100410ubnd0897m3b.jpg
     caption: Pulau Ubin, Apr 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/crassiramea/100410ubnd0897m3d.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/crassiramea/100410ubnd0897m3d.jpg
     caption: Pulau Ubin, Apr 10
   gallery3:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -62,7 +62,7 @@ It is considered a strangling fig that can grow large. Leaves elliptical, stiff 
 **Status and threats:**
 It is listed as 'Critically Endangered' in the Red List of threatened plants of Singapore.
 
-![](http://www.wildsingapore.com/wildfacts/plants/others/ficus/crassiramea/091213ubnd5794m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/crassiramea/091213ubnd5794m6l.jpg)
 
 *Pulau Ubin, Dec 09*
 

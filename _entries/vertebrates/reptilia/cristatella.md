@@ -21,12 +21,12 @@ infraorder: Iguania
 parvorder: Acrodonta
 subfamily: Draconinae
 updated: Dex 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/cristatella/041003btnrd7398m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/cristatella/041003btnrd7398m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/cristatella/041003btnrd7398m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/cristatella/041003btnrd7398m3.jpg
     caption: Bukit Timah Nature Reserve, Oct 04
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/cristatella/031004lptd0049m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/cristatella/031004lptd0049m6l.jpg
     caption: Lower Peirce Trail, Oct 03
 links_references: '**Links**
 

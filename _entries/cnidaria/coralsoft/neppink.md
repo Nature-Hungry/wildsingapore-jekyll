@@ -17,21 +17,21 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/neppink/080705bbd6921m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/neppink/080705bbd6921m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/neppink/080705bbd6921m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/neppink/080705bbd6921m3.jpg
     caption: Beting Bronok, Jul 08
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/neppink/080705bbd6921m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/neppink/080705bbd6921m3b.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/neppink/060625bbd3316m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/neppink/060625bbd3316m3.jpg
     caption: Beting Bronok, Jun 06
   gallery2:
   - url: http://www.wildsingapore.com/mollusca/gastropoda/ovulidae/softcoral/110518bbd1755m3.jpg
     caption: False cowrie snail . Chek Jawa, Apr 08
   - url: http://www.wildsingapore.com/echinodermata/ophiuroidea/tinycolourful/080507skdd2477m3a.jpg
     caption: Tiny colourful brittle star Pulau Sekudu, May 08
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/neppink/060625bbd3494m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/neppink/060625bbd3494m3b.jpg
     caption: Tiny porcelain crab. Beting Bronok, Jun 06
 links_references: '**Links**
 

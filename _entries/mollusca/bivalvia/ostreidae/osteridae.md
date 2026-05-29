@@ -18,7 +18,7 @@ infraclass: Pteriomorphia
 order: Ostreida
 superfamily: Ostreoidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/plain/080122cjd9030.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/ostreidae/plain/080122cjd9030.jpg
 links_references: "**Links**\n- [Edible\n  Rock Oyster (*Saccostrea*)](http://mangrove.nus.edu.sg/pub/seashore/text/164.htm)\
   \ Tan, Leo W. H. & Ng, Peter\n  K. L., 1988. *[A\n  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
   \ The Singapore Science Centre,\n  Singapore. 160 pp.\n- [Family\n  Ostreidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Bivalvia/Ostreidae.html)\
@@ -56,21 +56,21 @@ galleries:
       NOT come from the Family Ostreida. Oysters are often vandalised by thoughtless
       visitors. Oysters can cause food poisoning.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/plain/080122cjd9030.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/ostreidae/plain/080122cjd9030.jpg
     caption: Oysters often form a distint band on hard surfaces near the high water
       mark. Chek Jawa, Jan 08
   - url: http://www.wildsingapore.com/concepts/pix/080122cjd9042m3.jpg
     caption: All kinds of different animals may settle among the oysters. Chek Jawa,
       Jan 08
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/saccostrea/090308blyd7566m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/ostreidae/saccostrea/090308blyd7566m3.jpg
     caption: Some oysters have spikes on their shells, perhaps to deter predators.
       Berlayar Creek, Mar 09
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/saccostrea/090308blyd7566m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/ostreidae/saccostrea/090308blyd7566m3.jpg
     caption: Spiked rock oysters
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/plain/041031cjd7933m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/ostreidae/plain/041031cjd7933m3.jpg
     caption: Plain rock oysters
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/zigzag/050611kusd3993m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/ostreidae/zigzag/050611kusd3993m3.jpg
     caption: Zig-zag rock oysters
   gallery4:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1

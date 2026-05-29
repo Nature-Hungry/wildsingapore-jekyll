@@ -25,15 +25,15 @@ suborder: Pleocyemata
 infraorder: Anomura
 superfamily: Paguroidea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tawny/140614cjd6449m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/tawny/140614cjd6449m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tawny/140614cjd6449m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/tawny/140614cjd6449m3.jpg
     caption: Chek Jawa, Jun 14
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tawny/120618tmnbd5283m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/tawny/120618tmnbd5283m3.jpg
     caption: Tanah Merah, Jun 12
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tawny/140616cjlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/tawny/140616cjlks.JPG
     caption: Chek Jawa, Jun 14 Photo shared by Loh Kok Sheng on his blog .
 location:
 - cj

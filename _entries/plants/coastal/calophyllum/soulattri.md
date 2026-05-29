@@ -17,12 +17,12 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Malpighiales
 updated: Nov 2010
-coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/calophyllum/soulattri/090823cjd9987m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/calophyllum/soulattri/090823cjd9987m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/calophyllum/soulattri/091005cjd2190m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/calophyllum/soulattri/091005cjd2190m3a.jpg
     caption: Chek Jawa, Oct 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/calophyllum/soulattri/091005cjd2183m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/calophyllum/soulattri/091005cjd2183m3.jpg
     caption: Chek Jawa, Oct 09
 links_references: '**Links**
 
@@ -72,7 +72,7 @@ According to Burkill, the timber was considered the best of the Calophyllum spec
 **Status and threats:**
 This tree is listed as 'Critically Endangered' in the Red List of threatened plants of Singapore.
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/calophyllum/soulattri/090823cjd9987m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/calophyllum/soulattri/090823cjd9987m6l.jpg)
 
 Planted.
 *Chek Jawa, Aug 09*

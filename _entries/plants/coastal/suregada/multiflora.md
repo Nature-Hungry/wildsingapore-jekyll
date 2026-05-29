@@ -23,21 +23,21 @@ order: Malpighiales
 subfamily: Crotonoideae
 tribe: Gelonieae
 updated: Dec 09
-coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/suregada/multiflora/090912chgbwd0535m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/suregada/multiflora/090912chgbwd0535m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/suregada/multiflora/091031cjd3429m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/suregada/multiflora/091031cjd3429m3.jpg
     caption: Changi, Oct 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/suregada/multiflora/091021chgd3004m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/suregada/multiflora/091021chgd3004m3b.jpg
     caption: Changi, Oct 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/suregada/multiflora/090912chgbwd0534m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/suregada/multiflora/090912chgbwd0534m3.jpg
     caption: Changi, Sep 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/suregada/multiflora/091021chgd3011m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/suregada/multiflora/091021chgd3011m3.jpg
     caption: Changi, Oct 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/suregada/multiflora/091021chgd3005m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/suregada/multiflora/091021chgd3005m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/suregada/multiflora/091021chgd3005m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/suregada/multiflora/091021chgd3005m3b.jpg
     caption: ''
   gallery3:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -68,7 +68,7 @@ Fruits resemble small limes (1-2cm), with three 'shoulders', green turning brigh
 **Status and threats:**
 This tree is listed as 'Critically Endangered' in the Red List of threatened plants of Singapore.
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/suregada/multiflora/090912chgbwd0535m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/suregada/multiflora/090912chgbwd0535m6l.jpg)
 
 Planted.
 *Changi, Sep 09*

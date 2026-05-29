@@ -23,17 +23,17 @@ superorder: Thoracicalcarea
 order: Balanomorpha
 superfamily: Chthamaloidea
 updated: Mar 2020
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/euraphia/050512tmg6400m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/euraphia/050512tmg6400m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/euraphia/050512tmg6400m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/euraphia/050512tmg6400m3.jpg
     caption: Tanah Merah, May 05
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/euraphia/060716sisg6735m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/euraphia/060716sisg6735m3.jpg
     caption: Sisters Island, Jul 06
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/euraphia/060613ecpd3118m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/euraphia/060613ecpd3118m3.jpg
     caption: East Coast, Jun 06
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/euraphia/201020swgvc5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/euraphia/201020swgvc5.jpg
     caption: Sembawang, Oct 20 Photo shared by Vincent Choo on facebook .
 links_references: '**Links**
 

@@ -20,21 +20,21 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Myrtales
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/terminalia/catappa/011019cjcpd21m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/terminalia/catappa/011019cjcpd21m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/terminalia/catappa/090329cjd8715m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/terminalia/catappa/090329cjd8715m3a.jpg
     caption: Fallen flowers on the ground. Chek Jawa, Mar 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/terminalia/catappa/120407lazd8079m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/terminalia/catappa/120407lazd8079m3b.jpg
     caption: Lazarus, Apr 12
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/terminalia/catappa/120407lazd8079m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/terminalia/catappa/120407lazd8079m3a.jpg
     caption: Lazarus, Apr 12
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/terminalia/catappa/090125kntd6090m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/terminalia/catappa/090125kntd6090m3a.jpg
     caption: The embryo is edible but not worth the effort to extract.
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/terminalia/catappa/090125kntd6090m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/terminalia/catappa/090125kntd6090m3.jpg
     caption: Sungei Buloh Wetland Reserve, Jan 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/terminalia/catappa/040831sjid6040m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/terminalia/catappa/040831sjid6040m3.jpg
     caption: St. John's Island, Aug 04
 links_references: '**Links**
 
@@ -146,19 +146,19 @@ In Singapore, aquarists often put the leaves in their aquariums as they have an 
 *Callophyllum innophylum*
 ) for building things that need to be tough and durable such as houses, boats and carts. Although the embryo is edible, tasting like almonds, it is not worth the effort to extract. Medicinal uses include the bark to treat dysentery, leaves applied to rheumatic joints, juice of young leaves for headache and colic. According to Wee, the leaves are used in the Philippines to expel intestinal worms.
 
-*![](http://www.wildsingapore.com/wildfacts/plants/coastal/terminalia/catappa/011019cjcpd21m3.jpg)*
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/terminalia/catappa/011019cjcpd21m3.jpg)*
 'Autumn colours' before the tree sheds its leaves.
 *Chek Jawa, Oct 01
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/terminalia/catappa/090419chgcrkd0318m3.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/terminalia/catappa/090419chgcrkd0318m3.jpg)*
 Typical 'pagoda' growth form.
 *Changi, Apr 09
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/terminalia/catappa/1003021hntd9574m3.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/terminalia/catappa/1003021hntd9574m3.jpg)*
 Often with buttress roots.
 *Pulau Hantu, Feb 10
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/terminalia/catappa/090926cjd1967m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/terminalia/catappa/090926cjd1967m3.jpg)
 
 Chek Jawa, Sep 09*
 

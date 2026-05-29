@@ -23,27 +23,27 @@ class: Magnoliopsida
 order: Malpighiales
 inat_id: 196666
 updated: Jan 2013
-coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090802ubind8186m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/mucronata/090802ubind8186m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090809sjid8838m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/mucronata/090809sjid8838m3a.jpg
     caption: Fruit on stalks. Fruit large compared to sepals. St. John's Island, Aug
       09
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090801prpd8011m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/mucronata/090801prpd8011m3b.jpg
     caption: Flower with short style, more visible without petals. Pasir Ris Park,
       Aug 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090517ubnd1957m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/mucronata/090517ubnd1957m3.jpg
     caption: Flowers on long branching stalks. Pulau Ubin, May 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090214sbwrd7091m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/mucronata/090214sbwrd7091m3a.jpg
     caption: Sungei Buloh, Feb 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090801prpd8013m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/mucronata/090801prpd8013m6l.jpg
     caption: Very long hypocotyl. Pasir Ris Park, Aug 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090611prpd3892m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/mucronata/090611prpd3892m3a.jpg
     caption: Short style, more visible without petals.
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090214sbwrd7090m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/mucronata/090214sbwrd7090m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090611prpd3892m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/mucronata/090611prpd3892m3b.jpg
     caption: Pasir Ris, Jun 09
 links_references: '**Links**
 
@@ -110,10 +110,10 @@ has a longer style.
 **Human uses:**
 According to Wee, in Chinese and Japanese herbal medicine, a decoction of the bark is used to treat diarrhoea. The Burmese use the bark to treat blood in the urine and the Indochinese use the roots to contain bleeding. According to Giesen, the timber is difficult to work as it is very heavy and very hard and tends to shrink excessively. The bark is used for tanning and dyeing. it may be used for making fish traps. It may also be planted to protect bunds and dykes. Seedlings that have been dried in the shade for several days before planting avoid being eaten by crabs. It is believed the process causes accumulations of tannin in the tissues.
 
-![](http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090802ubind8186m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/mucronata/090802ubind8186m6l.jpg)
 
 *Pulau Ubin, Aug 09
-![](http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090802ubind8187m3.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/mucronata/090802ubind8187m3.jpg)*
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 ---

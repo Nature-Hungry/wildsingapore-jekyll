@@ -23,15 +23,15 @@ suborder: Sciuromorpha
 subfamily: Callosciurinae
 tribe: Callosciurini
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/notatus/041002lptd7258m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/notatus/041002lptd7258m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/notatus/101211sbwrs02032m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/notatus/101211sbwrs02032m6l.jpg
     caption: Sungei Buloh Wetland Reserve, Dec 10
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/notatus/040110sbwrd0038m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/notatus/040110sbwrd0038m3.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/notatus/180904snt.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/notatus/180904snt.jpg
     caption: Sentosa, Sep 18 Photo shared by Malcolm Lord
 links_references: '**Links**
 
@@ -88,7 +88,7 @@ This mammal lives like a bird. It lives in trees and effortlessly 'flies' from b
 **What does it eat?**
 It eats fruits, seeds, leaves, bark and insects, foraging in the trees.
 
-*![](http://www.wildsingapore.com/wildfacts/vertebrates/mammals/notatus/041002lptd7258m6l.jpg)*
+*![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/notatus/041002lptd7258m6l.jpg)*
 *Lower Peirce Trail, Jan 04*
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

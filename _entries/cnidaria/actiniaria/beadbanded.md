@@ -29,36 +29,36 @@ trivia_items:
 - They tuck their tentacles into their bodies at low tide
 galleries:
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/041031cjd7939m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadbanded/041031cjd7939m3.jpg
     caption: Chek Jawa, Oct 04
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/050315cjd1785m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadbanded/050315cjd1785m3.jpg
     caption: Chek Jawa, Mar 05
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/050315cjd1790m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadbanded/050315cjd1790m3.jpg
     caption: Chek Jawa, Mar 05
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/120604pgld3895m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadbanded/120604pgld3895m3.jpg
     caption: Anthopleura dixoniana Punggol, Jun 12
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/120604pgld3898m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadbanded/120604pgld3898m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/120604pgld3891m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadbanded/120604pgld3891m3.jpg
     caption: ''
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/buddemeieri/111001sjid1809m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/buddemeieri/111001sjid1809m3.jpg
     caption: Anthopleura buddemeieri St. John's Island, Oct 11
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/091021chgd3030m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadbanded/091021chgd3030m6l.jpg
     caption: Changi, Oct 09 Often found in crevices on large rocks.
     row_span: 2
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/090809sjid8699m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadbanded/090809sjid8699m3.jpg
     caption: Anthopleura dixoniana St. John's Island
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/091217sbglks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadbanded/091217sbglks.JPG
     caption: Sembawang, Dec 09 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/160125obsll2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadbanded/160125obsll2.jpg
     caption: Pulau Ubin OBS, Jan 16 Photo shared by Lisa Lim on facebook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/251208meky8.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadbanded/251208meky8.jpg
     caption: Marina East, Dec 2025 Photo shared by Kelvin Yong on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/100103tkkjk9m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadbanded/100103tkkjk9m3.jpg
     caption: Pulau Tekukor, Jan 10 Photo shared by James Koh on his flickr .
 links_references: '**Links**
 

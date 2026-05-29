@@ -19,31 +19,31 @@ infraclass: Pteriomorphia
 order: Ostreida
 superfamily: Pterioidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/pteriidae/130113chgd3570m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/pteriidae/130113chgd3570m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/pteriidae/130113chgd3570m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/pteriidae/130113chgd3570m3.jpg
     caption: Several may be seen on one sea fan. Changi, Jan 13
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/pteriidae/130113chgd3570m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/pteriidae/130113chgd3570m3a.jpg
     caption: Small shell smoother and shinier. Pulau Sekudu, May 12
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/pteriidae/120508skdd2024m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/pteriidae/120508skdd2024m3.jpg
     caption: Large 'hairy' shell covered in seidments. Pulau Sekudu, May 12
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/pteriidae/090624chglks4m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/pteriidae/090624chglks4m3.jpg
     caption: Changi, Jun 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/pteriidae/240706ubnlks7.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/pteriidae/240706ubnlks7.jpg
     caption: Pulau Ubin, Jul 24 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/pteriidae/170626skdlks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/pteriidae/170626skdlks1.jpg
     caption: Pulau Sekudu, Jun 17 Photo shared by Loh Kok Sheng on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/pteriidae/210529ecpblks16.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/pteriidae/210529ecpblks16.jpg
     caption: East Coast (B), May 21 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/pteriidae/090723ecplks1m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/pteriidae/090723ecplks1m3a.jpg
     caption: East Coast, Jul 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/pteriidae/090723ecplks1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/pteriidae/090723ecplks1m3.jpg
     caption: East Coast, Jul 09 Photo shared by Loh Kok Sheng on his blog .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/pteriidae/250726cyrlks5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/pteriidae/250726cyrlks5.jpg
     caption: On Leathery sea fan Cyrene, Jul 25 Photo shared by Loh Kok Sheng on facebook
       .
 location:

@@ -24,64 +24,64 @@ order: Labriformes
 suborder: Labroidei
 subfamily: Julidinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/bicolor/140811tryd8448m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/bicolor/140811tryd8448m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/bicolor/140811tryd8448m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/bicolor/140811tryd8448m3.jpg
     caption: Terumbu Raya, Aug 14
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/bicolor/140617tbmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/bicolor/140617tbmn.jpg
     caption: Terumbu Bemban, Jul 14 Photo shared by Marcus Ng on flickr .
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/bicolor/130330prplks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/bicolor/130330prplks.JPG
     caption: Pasir Ris Park, Mar 13 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/bicolor/140616bbrl1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/bicolor/140616bbrl1m3.jpg
     caption: Beting Bronok, Jun 14 Photo shared by Russel Low on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/bicolor/190830epcnky3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/bicolor/190830epcnky3.jpg
     caption: East Coast Park, Sep 19 Photo shared by Kelvin Yong on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/bicolor/150123chg7mn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/bicolor/150123chg7mn.jpg
     caption: Changi, Jan 15 Photo shared by Marcus Ng on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/bicolor/250529cjmn2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/bicolor/250529cjmn2.jpg
     caption: Chek Jawa, May 25 Photo shared by Marcus Ng on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/bicolor/251011tgrlks28.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/bicolor/251011tgrlks28.jpg
     caption: Sentosa Tg Rimau, Oct 25 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/bicolor/251009sjilks12.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/bicolor/251009sjilks12.jpg
     caption: St John's Island, Oct 25 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/bicolor/250530kusrk3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/bicolor/250530kusrk3.jpg
     caption: Kusu Island, May 25 Photo shared by Richard Kuah on facebook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/bicolor/210822ssislks5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/bicolor/210822ssislks5.jpg
     caption: Small Sisters Island, Aug 21 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/bicolor/200919bsisjll3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/bicolor/200919bsisjll3.jpg
     caption: Big Sisters Island, Sep 20 Photo shared by Jianlin Liu on facebook .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/bicolor/200112sjimn4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/bicolor/200112sjimn4.jpg
     caption: St John's Island, Jan 20 Photo shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/bicolor/110220lazrl13m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/bicolor/110220lazrl13m3.jpg
     caption: Lazarus Island, Feb 11 Photo shared by Russel Low on facebook .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/bicolor/200919bsisjll3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/bicolor/200919bsisjll3.jpg
     caption: Big Sisters Island, Sep 20 Photo shared by Jianlin Liu on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/bicolor/210822ssislks5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/bicolor/210822ssislks5.jpg
     caption: Small Sisters Island, Aug 21 Photo shared by Loh Kok Sheng on facebook
       .
   gallery9:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/bicolor/200918cyrlks8.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/bicolor/200918cyrlks8.jpg
     caption: Cyrene, Sep 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/bicolor/250726cyrlks7.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/bicolor/250726cyrlks7.jpg
     caption: Cyrene, Jul 25 Photo shared by Loh Kok Sheng on facebook .
   gallery10:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/bicolor/140713tsmkjt2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/bicolor/140713tsmkjt2m3.jpg
     caption: Terumbu Semakau, Jul 14 Photo shared by Juria Toramae on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/bicolor/110522bbbrl6m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/bicolor/110522bbbrl6m3.jpg
     caption: Beting Bemban Besar, May 11 Photo shared by Russel Low on facebook .
   gallery11:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/bicolor/110422tbmro6m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/bicolor/110422tbmro6m6l.jpg
     caption: Terumbu Bemban, Apr 11 Photo shared by Rene Ong on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/bicolor/240310tplvc1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/bicolor/240310tplvc1.jpg
     caption: Terumbu Pempang Laut, Mar 24 Photo shared by Vincent Choo on facebook
       .
 links_references: '**Links**

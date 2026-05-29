@@ -14,18 +14,18 @@ family: Tetraodontidae
 genus: Arothon
 species: reticularis
 updated: Nov 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/reticularis/sbr2018-091.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/reticularis/sbr2018-091.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/reticularis/sbr2018-091.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/reticularis/sbr2018-091.jpg
     caption: 'Photo by Dr Tan Heok Hui from Singapore Biodiversity Records 2016: 102-103'
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/reticularis/161228cjik.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/reticularis/161228cjik.jpg
     caption: Juvenile Chek Jawa, Dec 16 Photo shared by Ivan Kwan on facebook .
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/reticularis/260105prpezxh3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/reticularis/260105prpezxh3.jpg
     caption: Dead Pasir Ris Park, Jan 26 Photo shared by Zen Xuan He on facebook
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/reticularis/081101chgik.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/reticularis/081101chgik.jpg
     caption: Dead Changi, Nov 08 Photo shared by Ivan Kwan on flickr .
 links_references: '**Links**
 

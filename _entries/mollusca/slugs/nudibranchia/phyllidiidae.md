@@ -23,7 +23,7 @@ suborder: Doridina
 infraorder: Doridoidei
 superfamily: Phyllidioidea
 updated: Apr 2021
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/070531sisd1471m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/nigra/070531sisd1471m3.jpg
 links_references: "**Links**  \n- [The\n  Sea Slug Forum](http://www.seaslugforum.net/)\
   \ by Dr Bill Rudman\n- [A\n  Guide to Singapore Nudibranchs](http://rmbr.nus.edu.sg/nudibranch/main.html)\
   \ by Uma Sachidhanandam: though\n  without any description of the nudibranchs, there\
@@ -40,30 +40,30 @@ links_references: "**Links**  \n- [The\n  Sea Slug Forum](http://www.seaslugforu
   \ \n- Coleman, Neville, 1989. Nudibranchs of the South Pacific Vol 1 . 64 pp.\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/070531sisd1471m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/nigra/070531sisd1471m3.jpg
     caption: 'Black phyllid : milky substance secreted when disturbed. Sisters Island,
       May 07'
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/120509tsmkd2701m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/varicosa/120509tsmkd2701m3a.jpg
     caption: Short rhinophores of the Varicose phyllid look like the orange blobs
       on its body. St. John's Island, May 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/pustulosa/060323ulrd0430m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/pustulosa/060323ulrd0430m3.jpg
     caption: Gills on the underside along the length of the body St. John's Island,
       Jan 06
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/050210kusd0112m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/nigra/050210kusd0112m3.jpg
     caption: Black phyllid
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/pustulosa/050528kusg7068m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/pustulosa/050528kusg7068m3.jpg
     caption: Pimply phyllid
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ocellata/060813jngd6242m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/ocellata/060813jngd6242m3.jpg
     caption: Eyed phyllid
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/120509tsmkd2701m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/varicosa/120509tsmkd2701m3.jpg
     caption: Varicose phyllid
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/others/2104hntjll1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/others/2104hntjll1.jpg
     caption: Phyllidia elegans Pulau Hantu, Apr 21 Photo shared by Jianlin Liu on
       facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/others/2104hntjll1a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/others/2104hntjll1a.jpg
     caption: Phyllidia elegans (underside)
 ---
 

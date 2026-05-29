@@ -34,14 +34,14 @@ infraclass: Euthyneura
 subterclass: Acteonimorpha
 superfamily: Acteonoidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/hydatinidae/080412cjtchm3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/hydatinidae/080412cjtchm3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/hydatinidae/080412cjtchm3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/hydatinidae/080412cjtchm3.jpg
     caption: Chek Jawa, Apr 08 Photo shared by Toh Chay Hoon on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/hydatinidae/181222prpcp.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/hydatinidae/181222prpcp.jpg
     caption: Pasir Ris Park, Dec 18 Photo shared by Carol Phillips on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/hydatinidae/140104cjlks2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/hydatinidae/140104cjlks2m3.jpg
     caption: Chek Jawa, Jan 14 Photo shared by Loh Kok Sheng on facebook .
 links_references: "**Links**\n- [The Sea Slug Forum](http://www.seaslugforum.net/)\n\
   by Dr Bill Rudman: including descriptions and photos of various bubble snails.\n\

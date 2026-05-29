@@ -23,14 +23,14 @@ subfamily: Faboideae
 tribe: Diocleae
 inat_id: 159808
 updated: Jan 2013
-coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/canavalia/cathartica/090124ubnd6075m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/canavalia/cathartica/090124ubnd6075m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/canavalia/cathartica/090124ubnd6076m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/canavalia/cathartica/090124ubnd6076m3.jpg
     caption: Pulau Ubin, Jan 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/canavalia/cathartica/100109prpd7712m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/canavalia/cathartica/100109prpd7712m3.jpg
     caption: Pasir Ris Park, Jan 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/canavalia/cathartica/091019prpd2916m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/canavalia/cathartica/091019prpd2916m3.jpg
     caption: Pasir Ris Park, Oct 09
 links_references: '**Links**
 
@@ -73,7 +73,7 @@ According to Butterfly Circle, this plant is one of the host plants for the cate
 *Neptis hylas papaja*
 ).
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/canavalia/cathartica/090124ubnd6075m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/canavalia/cathartica/090124ubnd6075m6l.jpg)
 
 *Pulau Ubin, Jan 09*
 

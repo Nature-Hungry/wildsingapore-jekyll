@@ -24,15 +24,15 @@ class: Magnoliopsida
 order: Malpighiales
 inat_id: 189944
 updated: Jan 2013
-coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/cylindrica/091203ubnd4902m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/cylindrica/091203ubnd4902m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/cylindrica/110406sbbd8669m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/cylindrica/110406sbbd8669m3.jpg
     caption: Small flowers, several in a cluster on one stalk. Calyx usually pale.
       Sungei Buloh Besar, Apr 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/cylindrica/110406sbbd8726m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/cylindrica/110406sbbd8726m3a.jpg
     caption: Tassels on petal tips. Sungei Buloh Besar, Jun 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/cylindrica/020418sbwrcpd8227m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/cylindrica/020418sbwrcpd8227m3a.jpg
     caption: Sepals on propagules bend towards stalk. Sungei Buloh, Apr 02
 links_references: '**Links**
 
@@ -129,10 +129,10 @@ According to the NParks Flora and Fauna website, the tree is the preferred local
 **Human uses:**
 According to Burkill, the propagules are occasionally eaten after boiling, and according to Giersen eaten with sugar and coconut. Fishermen do not like to use the wood for fish-traps as they say it has a peculiar smell that frightens fishes away. According to Giersen, the timber is heavy and reddish.
 
-*![](http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/cylindrica/091203ubnd4902m6l.jpg)
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/cylindrica/091203ubnd4902m6l.jpg)
 
 Pulau Ubin, Dec 09
-![](http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/cylindrica/091203ubnd4906m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/cylindrica/091203ubnd4906m3.jpg)
 
 Pulau Ubin, Dec 09*
 

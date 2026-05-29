@@ -18,24 +18,24 @@ subclass: Caenogastropoda
 order: Neogastropoda
 superfamily: Buccinoidea
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/100102tkkd7153.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/columbellidae/ocellata/100102tkkd7153.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/100102tkkd7153.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/columbellidae/ocellata/100102tkkd7153.jpg
     caption: Usually black, but sometimes also red or orange. Pulau Tekukor, Jan 10
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/120407lazd8092m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/columbellidae/ocellata/120407lazd8092m3a.jpg
     caption: Lazarus, Apr 12
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/041212kusd8725m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/columbellidae/ocellata/041212kusd8725m3.jpg
     caption: Kusu Island, Dec 04
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/251009sjirk3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/columbellidae/ocellata/251009sjirk3.jpg
     caption: St John's Island, Oct 25 Photo shared by Richard Kuah on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/151001blyjt7m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/columbellidae/ocellata/151001blyjt7m3.jpg
     caption: Kusu Island, Dec 04 Photo shared by Jonathan Tan on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/160124smkerk2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/columbellidae/ocellata/160124smkerk2.jpg
     caption: Pulau Semakau East, Jan 16 Photo shared by Richard Kuah on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/091202sudik.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/columbellidae/ocellata/091202sudik.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by Ivan Kwan on flickr .
 links_references: '**Links**
 

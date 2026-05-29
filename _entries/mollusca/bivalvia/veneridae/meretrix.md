@@ -22,10 +22,10 @@ order: Venerida
 superfamily: Veneroidea
 subfamily: Meretricinae
 updated: Nov 11
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/meretrix/050512tmg6405m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/meretrix/050512tmg6405m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/meretrix/050512tmg6406m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/meretrix/050512tmg6406m3.jpg
     caption: ''
 links_references: '**Links**
 
@@ -58,7 +58,7 @@ Elsewhere, they are found on intertidal shores with sand and mud.
 
 About 4-6cm. Shell thick rather smooth.
 
-*![](http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/meretrix/050512tmg6405m3.jpg)
+*![](https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/meretrix/050512tmg6405m3.jpg)
 
 Tanah Merah, May 05*
 

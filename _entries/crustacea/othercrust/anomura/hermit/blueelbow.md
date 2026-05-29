@@ -25,24 +25,24 @@ suborder: Pleocyemata
 infraorder: Anomura
 superfamily: Paguroidea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/blueelbow/090626bblks1m3.JPG
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/blueelbow/090626bblks1m3.JPG
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/blueelbow/090626bblks1m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/blueelbow/090626bblks1m3.JPG
     caption: Beting Bronok, May 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/blueelbow/100614bbtch1m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/blueelbow/100614bbtch1m3a.jpg
     caption: Beting Bronok, Jun 10 Photo shared by Toh Chay Hoon on her blog .
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/blueelbow/120703chgcp1mn1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/blueelbow/120703chgcp1mn1m3.jpg
     caption: Changi, Jul 12 Photo shared by Marcus Ng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/blueelbow/120703chgcp1mn1m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/blueelbow/120703chgcp1mn1m3b.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/blueelbow/120703chgcp1mn2m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/blueelbow/120703chgcp1mn2m3a.jpg
     caption: ''
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/blueelbow/090526chmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/blueelbow/090526chmn.jpg
     caption: Changi, May 09 Photo shared by Marcus Ng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/blueelbow/160607bbik2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/blueelbow/160607bbik2.jpg
     caption: Beting Bronok, Jun 16 Photo shared by Ivan Kwan on facebook .
   gallery4:
   - url: http://farm9.staticflickr.com/8378/8453465066_cc5b5b069d_z.jpg

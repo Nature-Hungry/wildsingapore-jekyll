@@ -16,28 +16,28 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Malpighiales
 updated: Jan 2013
-coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/tagal/090117smkd5478m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/ceriops/tagal/090117smkd5478m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/141122lazd0584m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/ceriops/141122lazd0584m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/141122lazd0584m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/ceriops/141122lazd0584m3a.jpg
     caption: Tengar species have a flattened knife-like stipule.
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/141122lazd0596m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/ceriops/141122lazd0596m3a.jpg
     caption: Tengar species have a flattened knife-like stipule.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/tagal/081211smkd2783m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/ceriops/tagal/081211smkd2783m3b.jpg
     caption: Leaves spatula-shaped.
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/tagal/090124ubnd6050m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/ceriops/tagal/090124ubnd6050m3.jpg
     caption: Flowers small, many on one stalk.
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/tagal/090118smkd5854m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/ceriops/tagal/090118smkd5854m3a.jpg
     caption: Brown 'fruit' is smooth. White collar on 'ripe' propagule.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/090704ubnd6338m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/ceriops/zippeliana/090704ubnd6338m3.jpg
     caption: Leaves oval.
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/090124ubnd6058m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/ceriops/zippeliana/090124ubnd6058m3a.jpg
     caption: Flowers small, a few on one stalk.
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/090704ubnd6338m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/ceriops/zippeliana/090704ubnd6338m3a.jpg
     caption: Brown 'fruit' has textured surface. Red collar on 'ripe' propagule.
 links_references: '**Links**
 
@@ -139,7 +139,7 @@ Tengar (
 *Ceriops zippeliana*
 ) as 'Endangered' on the Red List of threatened plants of Singapore.
 
-![](http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/tagal/090117smkd5478m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/ceriops/tagal/090117smkd5478m6l.jpg)
 
 *Pulau Semakau, Jan 09*
 

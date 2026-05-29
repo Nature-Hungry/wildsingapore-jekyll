@@ -21,7 +21,7 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Oxalidales
 updated: Nov 10
-coverimg: http://www.wildsingapore.com/wildfacts/plants/fruittrees/averrhoa/carambola/091005cjd2039m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/averrhoa/carambola/091005cjd2039m6l.jpg
 links_references: "**Links**\n- [*Averrhoa\n  carambola*](http://floraofsingapore.wordpress.com/2010/03/26/averrhoa-carambola/)\
   \ on Total Vascular Flora of Singapore Online:\n  photos and fact sheet.\n- [Carambola\n\
   \  (*Averrhoa carambola*)](http://www.hort.purdue.edu/newcrop/morton/carambolal)\
@@ -29,23 +29,23 @@ links_references: "**Links**\n- [*Averrhoa\n  carambola*](http://floraofsingapor
   - Hsuan Keng,\n  S.C. Chin and H. T. W. Tan. 1990, *[The\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/averrhoa/carambola/091005cjd2047m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/averrhoa/carambola/091005cjd2047m3.jpg
     caption: Pulau Ubin, Oct 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/averrhoa/carambola/091005cjd2046m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/averrhoa/carambola/091005cjd2046m3.jpg
     caption: Pulau Ubin, Oct 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/averrhoa/carambola/091005cjd2047m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/averrhoa/carambola/091005cjd2047m6l.jpg
     caption: Pulau Ubin, Oct 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/averrhoa/carambola/091128cjd4764m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/averrhoa/carambola/091128cjd4764m3b.jpg
     caption: Chek Jawa, Nov 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/averrhoa/carambola/091128cjd4764m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/averrhoa/carambola/091128cjd4764m3.jpg
     caption: Chek Jawa, Nov 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/averrhoa/carambola/091128cjd4764m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/averrhoa/carambola/091128cjd4764m3a.jpg
     caption: ''
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/averrhoa/carambola/091128cjd4766m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/averrhoa/carambola/091128cjd4766m3a.jpg
     caption: Chek Jawa, Nov 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/averrhoa/carambola/091128cjd4766m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/averrhoa/carambola/091128cjd4766m3b.jpg
     caption: ''
   gallery4:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -73,7 +73,7 @@ A small tree (to about 10m), profusely branched. Compound leaves made up of (3-5
 **Human uses:**
 The fruit is considered 'cooling'. According to Burkill, those with sweet fruits are eaten fresh or made into jams and tarts, while sour ones are cooked. The crushed leaves and shoots are used by the Malays to treat chicken pox, ringworm and headaches. The fruits are also used to treat a hangover from too much drinking as well as stomach ailments. The acid in the juices may be used to clean metal.
 
-![](http://www.wildsingapore.com/wildfacts/plants/fruittrees/averrhoa/carambola/091005cjd2039m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/averrhoa/carambola/091005cjd2039m6l.jpg)
 
 *Pulau Ubin, Oct 09*
 

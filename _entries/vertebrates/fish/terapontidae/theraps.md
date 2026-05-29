@@ -23,24 +23,24 @@ superorder: Acanthomorpha
 order: Centrarchiformes
 suborder: Terapontoidei
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/theraps/110831tmnbd0741m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/terapontidae/theraps/110831tmnbd0741m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/theraps/110831tmnbd0798m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/terapontidae/theraps/110831tmnbd0798m3.jpg
     caption: Tanah Merah, Aug 11 .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/theraps/090808tmd8535m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/terapontidae/theraps/090808tmd8535m3.jpg
     caption: Tanah Merah, Aug 09
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/theraps/091022tmd3082m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/terapontidae/theraps/091022tmd3082m3.jpg
     caption: Tanah Merah, Oct 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/theraps/250810bsistt1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/terapontidae/theraps/250810bsistt1.jpg
     caption: Big Sisters, Aug 25 Photo shared by Tommy Tan on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/theraps/240512jngccn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/terapontidae/theraps/240512jngccn1.jpg
     caption: Pulau Jong, May 24 Photo shared by Che Cheng Neo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/theraps/140712cyrlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/terapontidae/theraps/140712cyrlks.JPG
     caption: Cyrene Reef, Jul 14 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/theraps/230805thntky1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/terapontidae/theraps/230805thntky1.jpg
     caption: Terumbu Hantu, Aug 23 Photo shared by Kelvin Yong on facebook .
 links_references: '**Links**
 
@@ -127,7 +127,7 @@ Small juveniles are often seen near reefs in schools.
 
 Grows to 28cm, tiny ones 2-3cm long are sometimes seen in small groups near reefs. It has a tail fin striped black and white, a large prominent black blotch is on the dorsal fin, and about 4 broad blackish longitudinal stripes on sides that run through the eyes. Body colour dusky green above, white below. Juveniles dark brown or greenish with white-silvery spots or indistinct stripes.
 
-![](http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/theraps/110831tmnbd0741m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/terapontidae/theraps/110831tmnbd0741m3.jpg)
 
 *Tanah Merah, Aug 11*
 

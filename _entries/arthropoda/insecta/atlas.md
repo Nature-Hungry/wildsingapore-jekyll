@@ -21,21 +21,21 @@ superfamily: Bombycoidea
 subfamily: Saturniinae
 tribe: Attacini
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/insecta/atlas/040207ubnd0003m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/insecta/atlas/040207ubnd0003m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/insecta/atlas/040207ubnd0003m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/insecta/atlas/040207ubnd0003m6l.jpg
     caption: Probably just emerged from the cocoon or awaiting for a female to emerge
       from hers. Pulau Ubin, Feb 04
-  - url: http://www.wildsingapore.com/wildfacts/insecta/atlas/050422adamg4716m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/insecta/atlas/050422adamg4716m3.jpg
     caption: The caterpillar is large and whitish. Adam Road, May 04
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/insecta/atlas/020116cjcpd4973m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/insecta/atlas/020116cjcpd4973m3.jpg
     caption: The caterpillar creating its cocoon. Pulau Ubin, Jan 02
-  - url: http://www.wildsingapore.com/wildfacts/insecta/atlas/091230prpd6472m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/insecta/atlas/091230prpd6472m3.jpg
     caption: Cocoons in a Berembang tree . Pasir Ris Park, Dec 09
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/insecta/atlas/080601cjwlk.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/insecta/atlas/080601cjwlk.jpg
     caption: Chek Jawa, Jun 08 Photo shared by Wong Ley Kun on her blog.
 links_references: '**Links**
 

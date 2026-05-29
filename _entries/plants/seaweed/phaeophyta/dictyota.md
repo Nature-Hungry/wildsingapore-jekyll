@@ -21,7 +21,7 @@ subclass: Dictyotophycidae
 order: Dictyotales
 tribe: Dictyoteae
 updated: Jan 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/050413labd2529m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/dictyota/050413labd2529m3.jpg
 links_references: "**Links**\n- [*Dictyota*](http://www.algaebase.org/search/genus/detail/?genus_id=51)\n\
   \  on [AlgaeBase](http://www.algaebase.org/): Technical\n  fact sheet.\n\n**References**\n\
   - Pham, M.\n  N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. [*A\n  Checklist\
@@ -31,21 +31,21 @@ links_references: "**Links**\n- [*Dictyota*](http://www.algaebase.org/search/gen
   \ E. G., 1997.*[Field\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/050413labd2529m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/dictyota/050413labd2529m3.jpg
     caption: Labrador, Apr 05
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/060809skdd5554m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/dictyota/060809skdd5554m3.jpg
     caption: Pulau Sekudu, Aug 06
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/050429cftg5397m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/dictyota/050429cftg5397m3.jpg
     caption: Changi, Apr 05
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/120209blyd6238m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/dictyota/120209blyd6238m3.jpg
     caption: Berlayar Creek, Feb 12
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/050624tusg8538m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/dictyota/050624tusg8538m3.jpg
     caption: Tuas, Jun 05
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/070615sntrd2173m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/dictyota/070615sntrd2173m3.jpg
     caption: Sentosa, Jun 07
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/230608tmftvc4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/dictyota/230608tmftvc4.jpg
     caption: Tanah Merah Ferry Terminal, Jun 23 Photo shared by Vincent Choo on facebook.
   gallery4:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1

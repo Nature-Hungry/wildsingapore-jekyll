@@ -27,7 +27,7 @@ order: Nudibranchia
 suborder: Dendronotina
 superfamily: Dendronotoidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/crosslandia/060131sjig4508m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/crosslandia/060131sjig4508m3.jpg
 links_references: "**Links**  \n- [The\n  Sea Slug Forum](http://www.seaslugforum.net/)\
   \ by Dr Bill Rudman: including descriptions and\n  photos of *[Crosslandia\n  daedali](http://www.seaslugforum.net/find/crosdaed)*\n\
   \n**References**\n- Tan Siong\n  Kiat and Henrietta P. M. Woo, 2010 *Preliminary\n\
@@ -37,18 +37,18 @@ links_references: "**Links**  \n- [The\n  Sea Slug Forum](http://www.seaslugforu
   \ to\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/crosslandia/060131sjig4508m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/crosslandia/060131sjig4508m3.jpg
     caption: St. John's Island, Jan 06
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/crosslandia/060131sjig4508m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/crosslandia/060131sjig4508m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/crosslandia/060131sjig4511m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/crosslandia/060131sjig4511m3a.jpg
     caption: Tiny brush-like rhinophore at the tip of long rhinophore stalk.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/crosslandia/111001sjitch1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/crosslandia/111001sjitch1m3.jpg
     caption: St. John's Island, Oct 11 Photo shared by Toh Chay Hoon on her blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/crosslandia/111001sjitch2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/crosslandia/111001sjitch2m3.jpg
     caption: St. John's Island, Oct 11 Photo shared by Toh Chay Hoon on her blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/crosslandia/111001sjitch3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/crosslandia/111001sjitch3m3.jpg
     caption: St. John's Island, Oct 11 Photo shared by Toh Chay Hoon on her blog .
   gallery3:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1

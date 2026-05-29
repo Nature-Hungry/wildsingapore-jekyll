@@ -21,7 +21,7 @@ class: Liliopsida
 order: Dioscoreales
 inat_id: 140999
 updated: Jan 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/tacca/leontopetaloides/110820smkd9675m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/tacca/leontopetaloides/110820smkd9675m6l.jpg
 links_references: "**Links**\n- [*Tacca\n  leontopetaloides*](http://floraofsingapore.wordpress.com/2011/06/20/tacca-leontopetaloides/)\n\
   \  on The Total Vascular Flora of Singapore Online: photos and fact\n  sheet.\n\
   - [*Tacca\n  leontopetaloides*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2491)\
@@ -29,11 +29,11 @@ links_references: "**Links**\n- [*Tacca\n  leontopetaloides*](http://floraofsing
   - Hsuan Keng,\n  S.C. Chin and H. T. W. Tan.1998, *[The\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/tacca/leontopetaloides/081206smkd2488m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/tacca/leontopetaloides/081206smkd2488m3.jpg
     caption: Fruits. Pulau Semakau, Dec 08
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/tacca/leontopetaloides/081206smkd2489m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/tacca/leontopetaloides/081206smkd2489m3.jpg
     caption: Flower cluster with 'whiskers'. Pulau Semakau, Dec 08
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/tacca/leontopetaloides/051018smkg2756m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/tacca/leontopetaloides/051018smkg2756m3.jpg
     caption: Flower cluster with 'whiskers'. Pulau Semakau, May 10
   gallery2:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -71,11 +71,11 @@ The plant is cultivated in the Pacific, East Asia and East Africa for the starch
 **Status and threats:**
 The plant is listed as 'Critically Endangered' in the Red List of threatened plants of Singapore. It is mainly threatened by the loss of its preferred habitats of undisturbed coastal forest. Even in the past only recorded from Pulau Semakau and Pulau Senang.
 
-*![](http://www.wildsingapore.com/wildfacts/plants/coastal/tacca/leontopetaloides/110820smkd9675m6l.jpg)
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/tacca/leontopetaloides/110820smkd9675m6l.jpg)
 
 Pulau Semakau, Aug 11
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/tacca/leontopetaloides/081206smkd2502m3.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/tacca/leontopetaloides/081206smkd2502m3.jpg)*
 Grows in shady spots under
 
 coastal forest trees near the shoreline.

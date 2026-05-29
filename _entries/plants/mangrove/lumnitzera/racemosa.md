@@ -21,14 +21,14 @@ class: Magnoliopsida
 order: Myrtales
 inat_id: 164873
 updated: Jan 2013
-coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/racemosa/110317mndd7431m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/lumnitzera/racemosa/110317mndd7431m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/racemosa/081213smkd3021m3d.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/lumnitzera/racemosa/081213smkd3021m3d.jpg
     caption: PulauSemakau, Dec 08
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/racemosa/081213smkd3022m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/lumnitzera/racemosa/081213smkd3022m3a.jpg
     caption: Pulau Semakau, Dec 08
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/racemosa/030809ubnd0006m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/lumnitzera/racemosa/030809ubnd0006m3b.jpg
     caption: White flowers, stamens same length as petals. Pulau Ubin, Aug 03
 links_references: '**Links**
 
@@ -144,11 +144,11 @@ According to Burkill, the timber has similar properties as that of
 **Status and threats:**
 It is listed as 'Endangered' on the Red List of threatened plants of Singapore.
 
-![](http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/racemosa/110317mndd7431m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/lumnitzera/racemosa/110317mndd7431m6l.jpg)
 
 *Mandai, Mar 11*
 **
-![](http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/racemosa/030809ubnd0005m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/lumnitzera/racemosa/030809ubnd0005m3.jpg)
 
 *Pulau Ubin, Aug 03*
 

@@ -11,58 +11,58 @@ family: Class Scyphozoa
 genus: Order
 species: Rhizostomeae
 updated: Jan 2020
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/huge/020809chgd0006m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/huge/020809chgd0006m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/huge/020809chgd0006m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/huge/020809chgd0006m3.jpg
     caption: Changi, Aug 02
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/huge/060516chgd2021m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/huge/060516chgd2021m3.jpg
     caption: Changi, May 06
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/huge/071027cjd7253m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/huge/071027cjd7253m3.jpg
     caption: Chek Jawa, Oct 07
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/huge/160610jngmn5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/huge/160610jngmn5.jpg
     caption: Pulau Jong, Jun 16 Photo shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/huge/160610jngmn4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/huge/160610jngmn4.jpg
     caption: Small fishes swimming near the jellyfish.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/huge/071027ubnlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/huge/071027ubnlks.JPG
     caption: Chek Jawa, Oct 07 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/huge/171105cjlks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/huge/171105cjlks1.jpg
     caption: Chek Jawa, Nov 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/huge/191214cjky1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/huge/191214cjky1.jpg
     caption: Chek Jawa, Dec 19 Photo shared by Kelvin Yong on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/huge/070616skdlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/huge/070616skdlks.JPG
     caption: Pulau Sekudu, Jun 07 Photo shared by Loh Kok Sheng on flickr .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/huge/120507sntspgd1592m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/huge/120507sntspgd1592m3.jpg
     caption: Sentosa Serapong, May 12
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/huge/120507sntspgd1592m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/huge/120507sntspgd1592m3b.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/huge/120507sntspgd1602m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/huge/120507sntspgd1602m3.jpg
     caption: Small fishes swimming near the jellyfish.
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/huge/080426cylks2.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/huge/080426cylks2.JPG
     caption: Cyrene Reef, Apr 08 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/huge/080426cylks1.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/huge/080426cylks1.JPG
     caption: Cyrene Reef, Apr 08 Photo shared by Loh Kok Sheng on his blog .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/huge/160608cyrlks2.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/huge/160608cyrlks2.JPG
     caption: Cyrene Reef, Jun 16 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/huge/160608cyrlks3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/huge/160608cyrlks3.JPG
     caption: Small fish swimming near the jellyfish.
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/huge/250812tbijk2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/huge/250812tbijk2.jpg
     caption: Washed up on the shore. Terumbu Bemban, Aug 25 Photo shared by Jayden
       Kang on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/huge/250812tbio2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/huge/250812tbio2.jpg
     caption: Another one swiming in the water. Terumbu Bemban, Aug 25 Photo shared
       by Isaac Ong on facebook .
   gallery9:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/huge/210428slulks3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/huge/210428slulks3.jpg
     caption: Pulau Salu, Apr 21
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/huge/210428slulks3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/huge/210428slulks3a.jpg
     caption: Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 

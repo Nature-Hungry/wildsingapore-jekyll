@@ -22,26 +22,26 @@ superorder: Thoracicalcarea
 order: Balanomorpha
 superfamily: Balanoidea
 updated: Mar 2020
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/050510tusg6179m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/balanus/050510tusg6179m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/050510tusg6179m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/balanus/050510tusg6179m3.jpg
     caption: Tuas, May 05 Acorn barnacles on a seawall.
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/050108cjd9209m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/balanus/050108cjd9209m3.jpg
     caption: Chek Jawa, Jan 05 On a rock
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/160110cjo1100049m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/balanus/160110cjo1100049m3a.jpg
     caption: Chek Jawa, Jan 16 On mangrove roots.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/090622chgd4692m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/balanus/090622chgd4692m3c.jpg
     caption: Changi, Jul 09 On a living flower crab .
   - url: http://www.wildsingapore.com/crab/grapsidae/metopograpsus/090820ecpd9482m3.jpg
     caption: East Coast, Aug 09 On a living Purple climber crab .
   - url: http://www.wildsingapore.com/mollusca/gastropoda/nassariidae/olivaceaus/050823chgg2303m3.jpg
     caption: Changi, Aug 05 Acorn barnacles on a living snail.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/150619sntmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/balanus/150619sntmn.jpg
     caption: Sentosa, Jun 15 Photo shared by Marcus Ng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/160705ecplks4a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/balanus/160705ecplks4a.jpg
     caption: East Coast Park, Jul 16 on a sea fan. Photo shared by Loh Kok Sheng on
       his blog .
 links_references: '**Links**

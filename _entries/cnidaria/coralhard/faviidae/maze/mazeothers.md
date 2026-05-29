@@ -17,28 +17,28 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/others/050611kusg7740m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/maze/others/050611kusg7740m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/others/050611kusg7740m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/maze/others/050611kusg7740m3.jpg
     caption: Kusu Island, Jun 05
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/others/070420sntrd0257m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/maze/others/070420sntrd0257m3.jpg
     caption: Sentosa, Apr 07
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/others/100519tsmc4114m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/maze/others/100519tsmc4114m3.jpg
     caption: Terumbu Semakau, May 10 Bleaching.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/others/100130brkd8469m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/maze/others/100130brkd8469m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/others/091204pawd0039m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/maze/others/091204pawd0039m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/others/100530tbkd4325m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/maze/others/100530tbkd4325m3.jpg
     caption: Pulau Berkas, May 10
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/others/100530tbkd4334m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/maze/others/100530tbkd4334m3.jpg
     caption: Bleaching. Pulau Berkas, May 10
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/others/091204pawd5245m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/maze/others/091204pawd5245m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/others/091204pawd5245m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/maze/others/091204pawd5245m3a.jpg
     caption: ''
 location:
 - tm

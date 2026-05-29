@@ -25,18 +25,18 @@ order: Perciformes
 suborder: Scorpaenoidei
 subfamily: Pteroinae
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/pterois/140809hntlks3m3b.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/pterois/140809hntlks3m3b.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/pterois/140809hntlks3m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/pterois/140809hntlks3m3b.jpg
     caption: Pulau Hantu, Aug 15 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/pterois/140809hntlks3m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/pterois/140809hntlks3m6l.jpg
     caption: Russel's scorpionfish (Pterois russelii) Pulau Hantu, Aug 15 Photo shared
       by Loh Kok Sheng on his blog .
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/pterois/240623hntlks2b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/pterois/240623hntlks2b.jpg
     caption: Pulau Hantu, Jun 24 Shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/pterois/240623hntlks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/pterois/240623hntlks2.jpg
     caption: Pulau Hantu, Jun 24 Shared by Loh Kok Sheng on facebook .
 links_references: "**Links**\n- [*Pterois russelii*\n(Plaintail turkeyfish)](http://www.fishbase.org/summary/SpeciesSummary.php?ID=6404&genusname=Pterois&speciesname=russelii)\n\
   on SeaLife Base: Technical fact sheet\n- [*Pterois volitans*\n(Red lionfish)](http://fishbase.sinica.edu.tw/summary/Pterois-volitans.html)\n\

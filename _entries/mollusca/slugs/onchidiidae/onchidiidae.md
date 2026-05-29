@@ -33,41 +33,41 @@ galleries:
       on the rock, see the bare patches on the rock? They are snails without shells,
       and hermaphrodites.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050527srbg7003m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/smooth/050527srbg7003m3.jpg
     caption: Pulau Sarimbun, May 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050527srbg7003m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/smooth/050527srbg7003m3a.jpg
     caption: Eyes on long thin stalks
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050527srbg7006m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/smooth/050527srbg7006m3.jpg
     caption: Broad foot on the underside
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/060714rlhg6623m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/bigpimply/060714rlhg6623m3.jpg
     caption: Raffles Lighthouse, Jul 06
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/060714rlhg6623m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/bigpimply/060714rlhg6623m3b.jpg
     caption: Leaving behind a grazed patch, and a trail of 'processed algae' Raffles
       Lighthouse, Jul 06
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/060714rlhg6624m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/bigpimply/060714rlhg6624m3a.jpg
     caption: One pair of tentacles and a pair of oral flaps at the mouth on the underside.
       Raffles Lighthouse, Jul 06
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/100726chgd9184m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/bigpimply/100726chgd9184m3.jpg
     caption: Underside.
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/100726chgd9184m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/bigpimply/100726chgd9184m3c.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/100726chgd9184m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/bigpimply/100726chgd9184m3a.jpg
     caption: ''
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/050723labg0069m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/bigpimply/050723labg0069m3.jpg
     caption: Big pimply onch slug
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050527srbg7003m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/smooth/050527srbg7003m3.jpg
     caption: Smooth little onch slug
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/long/050809lckg1053m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/long/050809lckg1053m3.jpg
     caption: Long onch slug
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/griseum/050809lckg0948m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/griseum/050809lckg0948m3.jpg
     caption: Orange-footed mangrove onch slug
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/platyvindex/060627krjd3712m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/platyvindex/060627krjd3712m3.jpg
     caption: Grey-footed mangrove onch slug
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/ornate/090125kntd6113m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/ornate/090125kntd6113m3.jpg
     caption: Ornate onch slug
 links_references: '**Links**
 

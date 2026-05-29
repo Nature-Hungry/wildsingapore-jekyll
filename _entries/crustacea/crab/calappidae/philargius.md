@@ -30,44 +30,44 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Calappoidea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/120510chgd2776m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/philargius/120510chgd2776m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/120510chgd2776m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/philargius/120510chgd2776m3.jpg
     caption: Changi, May 12
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/120510chgd3028m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/philargius/120510chgd3028m3a.jpg
     caption: Two different kinds of pincers.
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/120510chgd3029m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/philargius/120510chgd3029m3.jpg
     caption: Eyes!
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/060529cftd2530m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/philargius/060529cftd2530m3.jpg
     caption: Changi, May 06 Underside.
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/120510chgd3032m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/philargius/120510chgd3032m3a.jpg
     caption: P atterns on inside pincers. Changi, May 12
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/060529cftd2550m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/philargius/060529cftd2550m3.jpg
     caption: A pair buried next to one another. Changi, May 06
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/170624cjlks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/philargius/170624cjlks1.jpg
     caption: Chek Jawa, Jun 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/251205cjccn2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/philargius/251205cjccn2.jpg
     caption: Juvenile? Chek Jawa, Jun 17 Photo shared by Che Cheng Neo on facebook
       .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/200820chgvc1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/philargius/200820chgvc1.jpg
     caption: Changi, Aug 20 Photo shared by Vincent Choo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/170528chg6mn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/philargius/170528chg6mn1.jpg
     caption: Changi, May 17 Photo shared by Marcus Ng on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/120704chglks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/philargius/120704chglks.JPG
     caption: Changi, Jul 12 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/110520chgd2626m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/philargius/110520chgd2626m3.jpg
     caption: Changi, May 11 Tanah Merah, May 11
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/120407lazlks11m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/philargius/120407lazlks11m3.jpg
     caption: Seringat Kias, Apr 12 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/110508cyrlks7m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/philargius/110508cyrlks7m3.jpg
     caption: Cyrene Reef, May 11 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/110520chgd2626m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/philargius/110520chgd2626m3.jpg
     caption: Changi, May 11 Tanah Merah, May 11
 links_references: '**Links**
 

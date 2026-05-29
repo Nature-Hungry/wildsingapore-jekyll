@@ -23,15 +23,15 @@ class: Magnoliopsida
 order: Malpighiales
 inat_id: 189949
 updated: Jan 2013
-coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/sexangula/091230prpd6496m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/sexangula/091230prpd6496m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/sexangula/091213ubnd5854m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/sexangula/091213ubnd5854m3.jpg
     caption: Large flowers, each on one stalk. Calyx usually yellow. Pulau Ubin, Dec
       09
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/sexangula/091230prpd6500m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/sexangula/091230prpd6500m3.jpg
     caption: No tassels on petal tips. Pasir Ris, Jan 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/sexangula/100411prpd0923m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/sexangula/100411prpd0923m3a.jpg
     caption: Sepals extend away from the propagule. Pasir Ris, Jan 10
 links_references: '**Links**
 
@@ -117,15 +117,15 @@ According to Burkill, the developing embryo is cooked, soaked overnight and then
 **Status and threats:**
 This plant is listed as 'Critically Endangered' on the Red List of threatened plants of Singapore
 
-*![](http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/sexangula/091230prpd6496m6l.jpg)
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/sexangula/091230prpd6496m6l.jpg)
 
 Pasir Ris, Jan 10
 
-![](http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/sexangula/090329cjd8650m3a.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/sexangula/090329cjd8650m3a.jpg)
 
 Chek Jawa, Mar 09
 
-![](http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/sexangula/091213ubnd5857m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/sexangula/091213ubnd5857m3.jpg)
 
 Pulau Ubin, Dec 09*
 

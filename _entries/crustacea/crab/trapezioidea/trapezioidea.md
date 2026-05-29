@@ -24,12 +24,12 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Trapezioidea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/bandit/100615tmjk4m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/trapezioidea/bandit/100615tmjk4m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/bandit/100615tmjk4m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/trapezioidea/bandit/100615tmjk4m3.jpg
     caption: Bandit coral crab
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/100711cyrd8229m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/trapezioidea/redcoral/100711cyrd8229m3a.jpg
     caption: Red coral crab
 location:
 - tm

@@ -20,12 +20,12 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Oxudercinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/variabilis/091019prpd2907m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/variabilis/091019prpd2907m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/variabilis/091019prpd2907m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/variabilis/091019prpd2907m3.jpg
     caption: Pasir Park, Oct 09
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/variabilis/051019smkg2790m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/variabilis/051019smkg2790m6l.jpg
     caption: Pectoral fins are reddish at the edges Pulau Semakau, Oct 05
 links_references: '**Links**
 

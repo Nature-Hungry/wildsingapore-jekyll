@@ -18,37 +18,37 @@ class: Reptilia
 order: Testudines
 superfamily: Chelonioidea
 updated: Oct 2019
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/100710sistch1m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/seaturtle/100710sistch1m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/100710sistch1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/seaturtle/100710sistch1m3.jpg
     caption: Young sea turtle found resting in the man-made lagoon. Sisters Island,
       Jul 10 Photo shared by Toh Chay Hoon on her blog .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/130909kusrick1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/seaturtle/130909kusrick1m3.jpg
     caption: Kusu Island, Sep 13 Photo shared by Leong Chin Rick on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/071112smktsy3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/seaturtle/071112smktsy3m3.jpg
     caption: Hawksbill turtle (serrated edge of shell at the back). Pulau Semakau,
       Nov 07 Photo shared by Teo Siyang on his blog .
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/130721ecpdavid1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/seaturtle/130721ecpdavid1m3.jpg
     caption: Sea turtle seen attempting to lay eggs. East Coast Park, Jul 13 Photo
       shared by David Tan on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/090921kusd1412m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/seaturtle/090921kusd1412m3.jpg
     caption: Baby sea turtle seen in the man-made lagoon. They were eventually released
       into the sea. Kusu Island, Sep 09
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/190320smkm3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/seaturtle/190320smkm3.jpg
     caption: Bones of a dead sea turtle in an abandoned net. Pulau Semakau, Mar 19
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/060523ecphn1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/seaturtle/060523ecphn1m3.jpg
     caption: East Coast Park, May 06 Photos shared by Sivasothi on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/060523ecphn1m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/seaturtle/060523ecphn1m3a.jpg
     caption: Rescued hawksbill turtle hatchlings.
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/060523ecphn2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/seaturtle/060523ecphn2m3.jpg
     caption: Searching for lost Hawksbill hatchlings.
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/170823tsmkjt1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/seaturtle/170823tsmkjt1.jpg
     caption: Terumbu Semakau , Aug 17 Photos shared by Jonathan Tan on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/160625tkklks3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/seaturtle/160625tkklks3.jpg
     caption: Dead sea turtle washed ashore. Pulau Tekukor, Jun 16 Photo shared by
       Loh Kok Sheng on facebook .
 links_references: '**Links**

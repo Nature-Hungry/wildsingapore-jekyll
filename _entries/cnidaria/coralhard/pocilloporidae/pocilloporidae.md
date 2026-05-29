@@ -16,12 +16,12 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/050625labg8603m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/pocilloporidae/pocillopora/050625labg8603m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/050625labg8603m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/pocilloporidae/pocillopora/050625labg8603m3.jpg
     caption: Labrador, Jun 05
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/050625labg8606m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/pocilloporidae/pocillopora/050625labg8606m3.jpg
     caption: ''
   - url: http://www.wildsingapore.com/crustacea/crab/trapezioidea/redcoral/100711cyrd8229m3a.jpg
     caption: Red coral crab in bleaching Cauliflower coral. Cyrene Reef, Jul 10

@@ -46,14 +46,14 @@ galleries:
       them! The enlarged pincer can be as big as the rest of the shrimp! Sometimes,
       a goby share the burrow with the shrimp.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/050621skdg7874m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphsmooth/050621skdg7874m3c.jpg
     caption: One pincer greatly enlarged. Pulau Sekudu, Jun 05
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/060527sjid2315m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphsmooth/060527sjid2315m3.jpg
     caption: Sideview of the shrimp St. John's Island, May 06
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/020528labd9910m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphsmooth/020528labd9910m3a.jpg
     caption: Using the small pincer to carry things. Labrador, May 02
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphmanyband/050722cjg9923m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphmanyband/050722cjg9923m3.jpg
     caption: This shrimp shares its burrow with a brittle star. Chek Jawa, Jul 05
   - url: http://www.wildsingapore.com/vertebrates/fish/gobiidae/leptocephalus/080830kusd9939m3.jpg
     caption: A Many-band snapping shrimp sharing a burrow with a Pink-speckled shrimp-goby
@@ -62,16 +62,16 @@ galleries:
     caption: A Many-band snapping shrimp sharing a burrow with a Saddled shrimp-goby
       . Labrador, May 05 .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/070304hntg7902m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphornament/070304hntg7902m3.jpg
     caption: Ornamented snapping shrimp
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/050621skdg7874m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphsmooth/050621skdg7874m3.jpg
     caption: Smooth snapping shrimp
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphmanyband/080705bbd7018m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphmanyband/080705bbd7018m3.jpg
     caption: Many-band snapping shrimp
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphcommensal/020710chgcpd1738m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphcommensal/020710chgcpd1738m3.jpg
     caption: Commensal snapping shrimp in sponges and under stones
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphballsoft/110518bbd1955m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphballsoft/110518bbd1955m3.jpg
     caption: White soft coral snapping shrimp in ball flowery soft corals
 links_references: '**Links**
 

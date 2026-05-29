@@ -17,7 +17,7 @@ class: Gastropoda
 subclass: Caenogastropoda
 superfamily: Cerithioidea
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5519m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5519m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -30,23 +30,23 @@ galleries:
       mangroves. Many are edible and were eaten in the past, less so these days. Most
       are harmless herbivores, nibbling on algae.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5519m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5519m3.jpg
     caption: Rodong snails mating? Sungei Buloh Wetland Reserve, Mar 06
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/110101krjd4469m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/obtusa/110101krjd4469m3.jpg
     caption: The Red Chut-chut snail on a mangrove tree trunk. Kranji, Jan 11
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/telescopium/090210nsrccd6965.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/telescopium/090210nsrccd6965.jpg
     caption: Shell structure East Coast Park, Feb 09
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5518m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5518m3.jpg
     caption: Rodong
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/sulcata/050310smkg3209m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/sulcata/050310smkg3209m3.jpg
     caption: Belitong
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/cingulata/070505kusg9136m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/cingulata/070505kusg9136m3.jpg
     caption: Girdled horn snail
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/090816ubnd9136m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/obtusa/090816ubnd9136m3b.jpg
     caption: Red Chut-chut
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/quadrata/090228smkd7229m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/quadrata/090228smkd7229m3.jpg
     caption: Black Chut-chut
 links_references: '**Links**
 

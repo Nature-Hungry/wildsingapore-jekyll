@@ -23,7 +23,7 @@ superorder: Acanthomorpha
 order: Labriformes
 suborder: Uranoscopoidei
 updated: Nov 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/uranoscopidae/lebeck/011021cjcpd0929m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/uranoscopidae/lebeck/011021cjcpd0929m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -35,22 +35,22 @@ galleries:
       usually well hidden under the sand. They lure prey towards them with a filament
       in their mouths.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/uranoscopidae/lebeck/011021cjcpd0929m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/uranoscopidae/lebeck/011021cjcpd0929m3.jpg
     caption: Usually half buried in the sand. Chek Jawa, Oct 01
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/uranoscopidae/lebeck/110705chgd5828m6la.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/uranoscopidae/lebeck/110705chgd5828m6la.jpg
     caption: Changi, Jul 11
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/uranoscopidae/lebeck/110705chgd5830m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/uranoscopidae/lebeck/110705chgd5830m3.jpg
     caption: Changi, Jul 11
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/uranoscopidae/lebeck/110705chgd5831m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/uranoscopidae/lebeck/110705chgd5831m3.jpg
     caption: Protrusible mouth!
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/uranoscopidae/lebeck/110705chgd5831m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/uranoscopidae/lebeck/110705chgd5831m3a.jpg
     caption: Elongated nostrils - wormy-looking things next to the eyes.
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/uranoscopidae/lebeck/110705chgL1060431m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/uranoscopidae/lebeck/110705chgL1060431m6l.jpg
     caption: Was trapped in a driftnet and released alive. Changi, Jul 11
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/uranoscopidae/lebeck/210530ecpglks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/uranoscopidae/lebeck/210530ecpglks2.jpg
     caption: East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 

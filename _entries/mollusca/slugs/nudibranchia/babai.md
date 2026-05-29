@@ -22,21 +22,21 @@ order: Nudibranchia
 suborder: Arminina
 superfamily: Arminoidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/babai/060711chgd4001m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/babai/060711chgd4001m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/babai/060711chgd4001m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/babai/060711chgd4001m3.jpg
     caption: Changi, Jul 06
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/babai/060711chgd4002m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/babai/060711chgd4002m3.jpg
     caption: Rhinophores.
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/babai/060711chgd4001m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/babai/060711chgd4001m3a.jpg
     caption: Shovel-shaped oral veil.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/babai/060711chgd4005m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/babai/060711chgd4005m3.jpg
     caption: Burrowing . Changi, Jul 06
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/babai/060711chgd3992m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/babai/060711chgd3992m3.jpg
     caption: 'Underside: gills under the mantle skirt.'
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/babai/060711chgd3992m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/babai/060711chgd3992m3a.jpg
     caption: ''
 links_references: '**Links**
 

@@ -23,25 +23,25 @@ superorder: Acanthomorpha
 order: Tetraodontiformes
 suborder: Balistoidei
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/nasus/090625cyrd5612m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ostraciidae/nasus/090625cyrd5612m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/nasus/090625cyrd5612m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ostraciidae/nasus/090625cyrd5612m3.jpg
     caption: Cyrene Reef, Jun 09
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/nasus/090625cyrd5620m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ostraciidae/nasus/090625cyrd5620m6l.jpg
     caption: Cyrene Reef, Jun 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/nasus/160607bbjll2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ostraciidae/nasus/160607bbjll2.jpg
     caption: Beting Bronok, Jun 16 Photo shared by Jianlin Liu on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/nasus/190704bbjll1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ostraciidae/nasus/190704bbjll1.jpg
     caption: Beting Bronok, Jul 19 Photo shared by Jianlin Liu on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/nasus/140615skdmn2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ostraciidae/nasus/140615skdmn2m3.jpg
     caption: Pulau Sekudu, Jun 14
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/nasus/140615skdmn2m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ostraciidae/nasus/140615skdmn2m6l.jpg
     caption: Pulau Sekudu, Jun 14 Photo shared by Marcus Ng on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/nasus/220714chgky1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ostraciidae/nasus/220714chgky1.jpg
     caption: Changi Fairy Point, Jul 22 Photo shared by Kelvin Yong on facebook .
 links_references: '**Links**
 

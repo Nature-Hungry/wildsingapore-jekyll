@@ -23,7 +23,7 @@ order: Myrtales
 subfamily: Melastomatoideae
 tribe: Melastomeae
 updated: Nov 10
-coverimg: http://www.wildsingapore.com/wildfacts/plants/others/melastoma/malabathricum/090410ubnd9359m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/others/melastoma/malabathricum/090410ubnd9359m6l.jpg
 links_references: "**Links**\n- *[Melastoma\n  malabathricum](http://floraofsingapore.wordpress.com/2010/08/09/melastoma-malabathricum/)*\
   \ on Total Vascular Flora of Singapore Online:\n  photos and fact sheet.\n- [When\n\
   \  the Melastoma Blooms](http://butterflycircle.blogspot.com/2009/11/when-melastoma-bloomsl)\
@@ -35,18 +35,18 @@ links_references: "**Links**\n- *[Melastoma\n  malabathricum](http://floraofsing
   \ W. Tan. 1990, *[The\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/melastoma/malabathricum/090410ubnd9352m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/melastoma/malabathricum/090410ubnd9352m3.jpg
     caption: Pulau Ubin, Apr 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/melastoma/malabathricum/090410ubnd9354m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/melastoma/malabathricum/090410ubnd9354m3.jpg
     caption: Pulau Ubin, Apr 09 Some have white flowers.
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/melastoma/malabathricum/090410ubnd9361m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/melastoma/malabathricum/090410ubnd9361m3.jpg
     caption: Pulau Ubin, Apr 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/melastoma/malabathricum/090906prpd0481m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/melastoma/malabathricum/090906prpd0481m6l.jpg
     caption: Pasir Ris, Sep 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/melastoma/malabathricum/090906prpd0482m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/melastoma/malabathricum/090906prpd0482m3.jpg
     caption: Pasir Ris, Sep 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/melastoma/malabathricum/091005cjd2174m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/melastoma/malabathricum/091005cjd2174m3.jpg
     caption: Chek Jawa, Oct 09
   gallery3:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -78,7 +78,7 @@ Shrub 1-2m tall, though they can grow into small trees if left uncut. Leaves nar
 **Status and threats:**
 According to Burkill, the sour young leaves are eaten with food in Java, while the leaves and roots are used in traditional treatments of diarrhoea and dysentery.Powdered leaves may be sprinkled over wounds, roots used for a mouthwash for toothache. It is even used to treat elephants! The fruits may also be used to obtain a black dye, while the ashes of the plant is used to fix dyes.
 
-![](http://www.wildsingapore.com/wildfacts/plants/others/melastoma/malabathricum/090410ubnd9359m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/others/melastoma/malabathricum/090410ubnd9359m6l.jpg)
 
 *Pulau Ubin, Apr 09*
 

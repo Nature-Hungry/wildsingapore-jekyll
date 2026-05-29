@@ -24,34 +24,34 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Gobiinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/nebulosus/150716chgsafd7572.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/nebulosus/150716chgsafd7572.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/nebulosus/150716chgsafd7572.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/nebulosus/150716chgsafd7572.jpg
     caption: Sometimes several seen together. Changi, Jul 15
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/nebulosus/060726chgd4918m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/nebulosus/060726chgd4918m6l.jpg
     caption: Changi, Jul 06
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/nebulosus/170723ubnay5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/nebulosus/170723ubnay5.jpg
     caption: Pulau Ubin, Jul 17 Photo shared by Abel Yeo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/nebulosus/150619tusmn1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/nebulosus/150619tusmn1m3.jpg
     caption: Tuas, Jun 15 Photo shared by Marcus Ng on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/nebulosus/201116lazmn4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/nebulosus/201116lazmn4.jpg
     caption: Lazarus Island, Nov 20 Photo shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/nebulosus/250909laztt7.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/nebulosus/250909laztt7.jpg
     caption: Seringat-Kias mangrove lagoon, Sep 25 Photo shared by Tommy Tan on facebook
       .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/nebulosus/250810bsismn7.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/nebulosus/250810bsismn7.jpg
     caption: Big Sisters, Aug 25 Photo shared by Marcus Ng on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/nebulosus/130112smkmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/nebulosus/130112smkmn.jpg
     caption: Pulau Semakau, Jan 13 Photo shared by Marcus Ng on flickr .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/nebulosus/110522bbbrl7m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/nebulosus/110522bbbrl7m3.jpg
     caption: Beting Bemban Besar, May 11 Photo shared by Russel Low on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/nebulosus/110517tptlks9m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/nebulosus/110517tptlks9m3.jpg
     caption: Terumbu Pempang Tengah, May 11 Photo shared by Loh Kok Sheng on his blog
       .
 links_references: '**Links**

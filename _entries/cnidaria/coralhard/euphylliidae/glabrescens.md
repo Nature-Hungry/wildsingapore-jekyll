@@ -17,48 +17,48 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/051203smkg3165m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/glabrescens/051203smkg3165m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/051203smkg3165m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/glabrescens/051203smkg3165m3.jpg
     caption: Pulau Semakau, Dec 05
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/051203smkg3161m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/glabrescens/051203smkg3161m3c.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/051203smkg3161m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/glabrescens/051203smkg3161m3a.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/120609tsmkd5147m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/glabrescens/120609tsmkd5147m3.jpg
     caption: Terumbu Semakau, Jun 12
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/120609tsmkd5147m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/glabrescens/120609tsmkd5147m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/120609tsmkd5147m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/glabrescens/120609tsmkd5147m3b.jpg
     caption: ''
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/080707hntd7529m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/glabrescens/080707hntd7529m3.jpg
     caption: Pulau Hantu, Jul 08
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/080707hntd7529m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/glabrescens/080707hntd7529m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/080707hntd7529m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/glabrescens/080707hntd7529m3b.jpg
     caption: ''
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/100617tbjk1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/glabrescens/100617tbjk1m3.jpg
     caption: Terumbu Bemban, Jun 10 Photo shared by James Koh on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/100519tsmjk7m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/glabrescens/100519tsmjk7m3.jpg
     caption: Terumbu Semakau, May 10 Photo shared by James Koh on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/210811tryrk1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/glabrescens/210811tryrk1.jpg
     caption: Terumbu Raya, Aug 21 Photo shared by Richard Kuah on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/100403tbbjk2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/glabrescens/100403tbbjk2m3.jpg
     caption: Beting Bemban Besar, Apr 10 Photo shared by James Koh on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/110522bbblks12m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/glabrescens/110522bbblks12m3.jpg
     caption: Beting Bemban Besar, May 11 Photo shared by Loh Kok Sheng on his blog
       .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/100530tbkd4225m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/glabrescens/100530tbkd4225m3.jpg
     caption: Pulau Berkas, May 10
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/100530tbkd4225m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/glabrescens/100530tbkd4225m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/100530tbkd4225m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/glabrescens/100530tbkd4225m3b.jpg
     caption: ''
 links_references: '**Links**
 

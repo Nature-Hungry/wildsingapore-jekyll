@@ -26,26 +26,26 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Oxudercinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/071021cjd7025m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/walailakae/071021cjd7025m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/071021cjd7025m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/walailakae/071021cjd7025m3.jpg
     caption: A quarreling pair Chek Jawa, Oct 07
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/091121cjd4533m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/walailakae/091121cjd4533m6l.jpg
     caption: Chek Jawa, Nov 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/091019prpd2908m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/walailakae/091019prpd2908m3.jpg
     caption: Juveniles often mistaken for other mudskippers. Pasir Ris, Oct 09
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/140322cjd4070m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/walailakae/140322cjd4070m3.jpg
     caption: Burrow doesn't have a 'swimming pool' like the Giant mudskipper. Chek
       Jawa, Mar 14
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/030822sbwrad0056m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/walailakae/030822sbwrad0056m3.jpg
     caption: A pair at their burrow. Sungei Buloh Wetland Reserve, Aug 03
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/130811sbwrmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/walailakae/130811sbwrmn.jpg
     caption: Clinging on with its pelvic fins, its pectoral fins on the side. Sungei
       Buloh Wetland Reserves, Aug 13 Photo by Marcus Ng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/250430sjiml3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/walailakae/250430sjiml3.jpg
     caption: St John's Island, Apr 25 Photo shared by Mathias Luk on facebook .
 links_references: "**Links**\n- [*Periophthalmus walailake*](http://www.mudskipper.it/SpeciesPages/wala.html)\n\
   from\n[The Mudskipper website](http://www.mudskipper.it/Intro.html)\nby Gianluca\

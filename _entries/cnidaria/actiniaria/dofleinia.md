@@ -22,37 +22,37 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
 updated: Jul 2024
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/100614bbd5984m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/dofleinia/100614bbd5984m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/100614bbd5984m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/dofleinia/100614bbd5984m3.jpg
     caption: Beting Bronok, Jun 10 Rings of long tentacles and short tentacles.
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/050821bbg1882m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/dofleinia/050821bbg1882m3.jpg
     caption: Beting Bronok, Aug 05
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/060625bbd3345m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/dofleinia/060625bbd3345m3.jpg
     caption: Beting Bronok, Jun 06
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/121216ubnlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/dofleinia/121216ubnlks.JPG
     caption: Pulau Ubin, Dec 12 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/250627bbky3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/dofleinia/250627bbky3.jpg
     caption: Beting Bronok, Jun 25 Photo shared by Kelvin Yong on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/210531chg6jt2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/dofleinia/210531chg6jt2.jpg
     caption: Changi Carpark 6, May 21 Photo shared by Jonathan Tan on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/190801chgjll1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/dofleinia/190801chgjll1.jpg
     caption: Caught a small fish! Changi, Aug 19 Photo shared by Jianlin Liu on facebook
       .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/200706skdlks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/dofleinia/200706skdlks1.jpg
     caption: Pulau Sekudu, Jul 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/180616bbtch1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/dofleinia/180616bbtch1.jpg
     caption: Beting Bronok, Jun 18 Photo shared by Toh Chay Hoon on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/230804ecpcnky1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/dofleinia/230804ecpcnky1.jpg
     caption: East Coast Park (PCN), Aug 23 Photo shared by Kelvin Yong on facebook
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/210529ecpgtch4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/dofleinia/210529ecpgtch4.jpg
     caption: East Coast Park (G), May 21 Photo shared by Toh Chay Hoon on facebook
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/241019lazlks9.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/dofleinia/241019lazlks9.jpg
     caption: Lazarus Island, Oct 24 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 

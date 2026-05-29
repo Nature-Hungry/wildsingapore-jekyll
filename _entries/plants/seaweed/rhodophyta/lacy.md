@@ -23,35 +23,35 @@ order: Ceramiales
 subfamily: Nitophylloideae
 tribe: Martensieae
 updated: Jan 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/060415hntg5636m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/lacy/060415hntg5636m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/060415hntg5636m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/lacy/060415hntg5636m3c.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/060415hntg5636m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/lacy/060415hntg5636m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/060415hntg5636m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/lacy/060415hntg5636m3b.jpg
     caption: Little balls attached to the lacy surface.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/070704jngg1184m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/lacy/070704jngg1184m3.jpg
     caption: Pulau Jong, Jul 07
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/070704jngg1229m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/lacy/070704jngg1229m3.jpg
     caption: Pulau Jong, Jul 07
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/070704jngg1178m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/lacy/070704jngg1178m3.jpg
     caption: Pulau Jong, Jul 07 Base of the blade smooth, unperforated.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/070618rlhg0734m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/lacy/070618rlhg0734m3.jpg
     caption: Raffles Lighthouse, Jun 07
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/091204pawd5358m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/lacy/091204pawd5358m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/100601slud5006m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/lacy/100601slud5006m3.jpg
     caption: Pulau Salu, Jun 10
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/100130brkd8494m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/lacy/100130brkd8494m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/100130brkd8515m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/lacy/100130brkd8515m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/100530tbkd4213m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/lacy/100530tbkd4213m3.jpg
     caption: Pulau Berkas, May 10
 links_references: '**Links**
 
@@ -91,7 +91,7 @@ This odd seaweed is sometimes seen on some of our Southern shores, in small clum
 
 Cluster of a few circular fan-shaped blades about 5-8cm across, smooth and solid, unperforated at the base, a lacy net-like mesh at the outer edges which are often ruffled. Sometimes, with little balls attached to the lacy surface. Young blades mostly solid and not lacy. Colours beige or bright green with tinges of lilac or blue.
 
-*![](http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/060415hntg5636m3.jpg)
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/lacy/060415hntg5636m3.jpg)
 
 Pulau Hantu, Apr 06*
 

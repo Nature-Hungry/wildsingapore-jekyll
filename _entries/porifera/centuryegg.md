@@ -16,15 +16,15 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Suberitida
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/porifera/centuryegg/120409tptd8846m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/centuryegg/120409tptd8846m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/centuryegg/120409tptd8846m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/centuryegg/120409tptd8846m3.jpg
     caption: Terumbu Pempang Tengah, Apr 12
-  - url: http://www.wildsingapore.com/wildfacts/porifera/centuryegg/150608tplo6080616.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/centuryegg/150608tplo6080616.jpg
     caption: Terumbu Pempang Laut, Jun 15
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/centuryegg/200725smknjc1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/centuryegg/200725smknjc1.jpg
     caption: Pulau Semakau (North), Jul 20 Photo shared by Joleen Chang on facebook
       .
 links_references: '**Links**

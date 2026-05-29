@@ -26,23 +26,23 @@ suborder: Muraenoidei
 subfamily: Uropterygiinae
 complex: Uropterygius concolor
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/concolor/040409tusad0048m3a.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/muraenidae/concolor/040409tusad0048m3a.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/concolor/040409tusad0048m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/muraenidae/concolor/040409tusad0048m3a.jpg
     caption: No pelvic fins
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/concolor/040409tusad0048m6la.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/muraenidae/concolor/040409tusad0048m6la.jpg
     caption: Tuas, Apr 04
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/concolor/120409tptd8719m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/muraenidae/concolor/120409tptd8719m6l.jpg
     caption: Terumbu Pempang Tengah, Apr 12
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/concolor/120409tptd8719m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/muraenidae/concolor/120409tptd8719m3b.jpg
     caption: Fins mostly towards the tail.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/concolor/120508skdsy1m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/muraenidae/concolor/120508skdsy1m6l.jpg
     caption: Pulau Sekudu, May 12 Photo shared by Sam Yeo on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/concolor/080819cymn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/muraenidae/concolor/080819cymn.jpg
     caption: Cyrene, Aug 08 Photo shared by Marcus Ng on flickr .
 links_references: '**Links**
 

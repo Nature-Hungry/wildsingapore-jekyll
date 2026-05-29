@@ -23,16 +23,16 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monodactylidae/argenteus/031008sbwrd0042m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monodactylidae/argenteus/031008sbwrd0042m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monodactylidae/argenteus/031008sbwrd0042m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monodactylidae/argenteus/031008sbwrd0042m3.jpg
     caption: Sungei Buloh Wetland Reserve, Oct 03
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monodactylidae/argenteus/031008sbwrad0039m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monodactylidae/argenteus/031008sbwrad0039m3.jpg
     caption: Seen from the front, it resembles a stick! Sungei Buloh Wetland Reserve,
       Oct 03
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monodactylidae/argenteus/090510sntik5m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monodactylidae/argenteus/090510sntik5m3.jpg
     caption: Siloso, May 09 Photo shared by Ivan Kwan on his blog .
 links_references: '**Links**
 

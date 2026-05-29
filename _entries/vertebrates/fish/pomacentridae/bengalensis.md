@@ -27,43 +27,43 @@ superorder: Acanthomorpha
 order: Blenniiformes
 subfamily: Glyphisodontinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/080831sisd0180m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/bengalensis/080831sisd0180m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/080831sisd0180m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/bengalensis/080831sisd0180m3.jpg
     caption: Sisters Island, Aug 08
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/110601tmnbd3146m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/bengalensis/110601tmnbd3146m6l.jpg
     caption: Tanah Merah, Jun 11
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/110418tmftd9066m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/bengalensis/110418tmftd9066m6l.jpg
     caption: Tanah Merah, Apr 11
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/110505tmnbd0705m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/bengalensis/110505tmnbd0705m3.jpg
     caption: Tanah Merah, May 11
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/180911pgldc2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/bengalensis/180911pgldc2.jpg
     caption: Punggol, Sep 18 Photo shared by Dayna Cheah on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/171108ecpmblks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/bengalensis/171108ecpmblks2.jpg
     caption: East Coast-Marina Bay, Nov 17 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/180812nsrtlks12.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/bengalensis/180812nsrtlks12.jpg
     caption: East Coast Park, Aug 18 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/171009blyay11.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/bengalensis/171009blyay11.jpg
     caption: Berlayar Creek, Oct 17 Photo shared by Abel Yeo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/110619tslgjp1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/bengalensis/110619tslgjp1m3.jpg
     caption: Terumbu Selegie, Jun 11 Photo shared by Jerome Pang on facebook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/250714srpal7.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/bengalensis/250714srpal7.jpg
     caption: Sentosa Serapong, Jul 25 Photo shared of Adriane Lee on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/240820kusmn2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/bengalensis/240820kusmn2.jpg
     caption: Kusu Island, Aug 24 Photo shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/250810bsisjk3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/bengalensis/250810bsisjk3.jpg
     caption: Big Sisters, Aug 25 Photo shared by Jayden Kang on facebook .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/110421jngrl1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/bengalensis/110421jngrl1m3.jpg
     caption: Pulau Jong, Apr 11 Photo shared by Russel Low on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/110220lazrl9m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/bengalensis/110220lazrl9m3.jpg
     caption: Lazarus Island, Feb 11 Photo shared by Russel Low on facebook .
 links_references: '**Links**
 

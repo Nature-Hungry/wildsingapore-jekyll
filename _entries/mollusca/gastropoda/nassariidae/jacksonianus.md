@@ -25,17 +25,17 @@ order: Neogastropoda
 superfamily: Buccinoidea
 subfamily: Nassariinae
 updated: Aug 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/jackonianus/080916tusd0461m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/jackonianus/080916tusd0461m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/jackonianus/080916tusd0461m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/jackonianus/080916tusd0461m3.jpg
     caption: Tuas, Sep 08
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/jackonianus/050511cftg6347m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/jackonianus/050511cftg6347m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/jackonianus/070104chgd7435m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/jackonianus/070104chgd7435m3a.jpg
     caption: Large numbers cluster on a dead fish. Changi, Jan 07
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/jackonianus/160125obsmn6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/jackonianus/160125obsmn6.jpg
     caption: Pulau Ubin OBS, Jan 16 Photo shared by Marcus Ng on facebook .
 links_references: '**Links**
 

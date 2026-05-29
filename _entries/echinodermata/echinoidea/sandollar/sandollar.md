@@ -51,34 +51,34 @@ galleries:
       related to sea stars and have five-part symmetry. Living sand dollars have tiny
       moving spines that tickle when you hold them.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/090628lazd6113m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/arachnoides/090628lazd6113m3.jpg
     caption: A sand dollar can move quite far under wet sand. Lazarus Island, Jun
       09
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/090628lazd6115m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/arachnoides/090628lazd6115m3.jpg
     caption: Living sand dollars, not moving under sand. Lazarus Island, Jun 09
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/080720cjd8021m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/arachnoides/080720cjd8021m3.jpg
     caption: Cake sand dollars are often found in huge numbers. Chek Jawa, Jan 09
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/depressum/081117ecpmd2310m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/depressum/081117ecpmd2310m3.jpg
     caption: A living sand dollar is covered with spines! East Coast, Nov 08
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2851m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2851m3.jpg
     caption: Upperside of test of Ceke sand dollar
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2852m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2852m3.jpg
     caption: Underside of test
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/depressum/090628lazd5991m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/depressum/090628lazd5991m3.jpg
     caption: Shape and features of a sand dollar is often more obvious in a dead one.
       Seringat-Kias, Jun 09
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2851m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2851m3a.jpg
     caption: The petalloid is made up of holes where tube feet emerge. This is more
       obvious in the skeleton of a dead sand dollar. Changi, Jun 06
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2852m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2852m3b.jpg
     caption: The central mouth is on the underside. Changi, Jun 06
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3.jpg
     caption: Upperside of living sand dollar Chek Jawa, Jul 08
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3c.jpg
     caption: Slot in a Keyhole sand dollar.
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/031122cjd0023m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/echinodiscus/031122cjd0023m3.jpg
     caption: A dead sand dollar has no spines. Chek Jawa, Nov 02
   gallery5:
   - url: http://www.wildsingapore.com/asteroidea/protoreaster/110508cyrmng5m3.jpg
@@ -118,14 +118,14 @@ galleries:
       and pollution. Trampling by careless visitors and over-collection can also have
       an impact on local populations.'
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/030927cjd0033m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/arachnoides/030927cjd0033m3.jpg
     caption: Cake sand dollar
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3.jpg
     caption: Keyhole sand dollar
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/peronella/080704sekd6788m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/peronella/080704sekd6788m3.jpg
     caption: Pink sand dollar
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/depressum/070420sntrd0301m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/depressum/070420sntrd0301m3.jpg
     caption: Thick-edged sand dollar
   gallery9:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1

@@ -18,21 +18,21 @@ subclass: Polypodiidae
 order: Polypodiales
 suborder: Pteridineae
 updated: Jan 2013
-coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/aureum/040114sbwred0032m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/acrostichum/aureum/040114sbwred0032m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/aureum/040114sbwred0032m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/acrostichum/aureum/040114sbwred0032m3a.jpg
     caption: Larger plant with longer fronds.
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/aureum/090328sbwrd8453m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/acrostichum/aureum/090328sbwrd8453m3a.jpg
     caption: Young fronds are red.
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/aureum/130202mndd3842m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/acrostichum/aureum/130202mndd3842m3.jpg
     caption: Sterile leaves have blunt tips, sometimes with a small sharp point.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/speciosum/090111smkd4872m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/acrostichum/speciosum/090111smkd4872m3.jpg
     caption: Smaller plant with shorter fronds.
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/speciosum/090328sbwrd0035m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/acrostichum/speciosum/090328sbwrd0035m3a.jpg
     caption: Young fronds are green.
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/speciosum/130202mdd3863m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/acrostichum/speciosum/130202mdd3863m3.jpg
     caption: Sterile fronds have tapering pointed tips.
 links_references: '**Links**
 
@@ -117,11 +117,11 @@ Among the first large low-growing plants to grow on the landward side of the man
 **Human uses:**
 According to Burkill, the young leaves are eaten in Borneo, the Celebes and Timor. Medical uses including placing pounded or grated rhizomes as a paste on wounds and boils in Malaya and Borneo. In some parts of our region, the leaves are dried and used as thatching which is considered superior because they last longer. And should they catch fire, they burn so quickly into ash that the fire is not sustained to endanger any other parts of the home.
 
-*![](http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/aureum/040114sbwred0032m3.jpg)*
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/acrostichum/aureum/040114sbwred0032m3.jpg)*
 Piai raya can be huge.
 *Sungei Buloh Wetland Reserve, Jan 04
 
-![](http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/speciosum/110307admd6746m3.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/acrostichum/speciosum/110307admd6746m3.jpg)*
 Piai lasu generally smaller more elegant.
 *Sungei Buloh Wetland Reserve, Mar 09*
 

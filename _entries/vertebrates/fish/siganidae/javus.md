@@ -22,7 +22,7 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/javus/091206tmd5720m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/siganidae/javus/091206tmd5720m3.jpg
 links_references: "**Links**  \n- [Streaked\n  spinefoot (*Siganus javus*)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=4618)\
   \ from [FishBase](http://www.fishbase.org/):\n  Technical fact sheet.\n- [Volume\n\
   \  4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00)\
@@ -31,17 +31,17 @@ links_references: "**Links**  \n- [Streaked\n  spinefoot (*Siganus javus*)](http
   \ *Guide\n  to Sea Fishes of Australia: A Comprehensive Reference for Divers\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/javus/091206tmd5720m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/siganidae/javus/091206tmd5720m3.jpg
     caption: Tanah Merah, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/javus/020811cjd0467m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/siganidae/javus/020811cjd0467m6l.jpg
     caption: Chek Jawa, Aug 02
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/javus/080603tmlks05m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/siganidae/javus/080603tmlks05m3.jpg
     caption: East Coast Park, Jun 08 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/javus/091010tmlks4m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/siganidae/javus/091010tmlks4m6l.jpg
     caption: Tanah Merah, Oct 09 Photo shared by Loh Kok Sheng on his blog .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/javus/090512tmjk1m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/siganidae/javus/090512tmjk1m6l.jpg
     caption: Tanah Merah, May 09 Photo shared by James Koh on his flickr .
   gallery4:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1

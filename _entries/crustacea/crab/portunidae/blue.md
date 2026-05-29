@@ -31,84 +31,84 @@ zoosubsection: Heterotremata
 superfamily: Portunoidea
 subfamily: Thalamitinae
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/blue/110730tmftd7804m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/blue/110730tmftd7804m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/blue/110730tmftd7804m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/blue/110730tmftd7804m3.jpg
     caption: Tanah Merah, Jul 11
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/blue/110730tmftd7804m3d.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/blue/110730tmftd7804m3d.jpg
     caption: 6 rounded equal-sized lobes between the eyes.
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/blue/110730tmftd7804m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/blue/110730tmftd7804m3a.jpg
     caption: 5 spines on the side of the body. Fine hairs on the body that traps sand.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/blue/080409tusd0011m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/blue/080409tusd0011m3.jpg
     caption: Bright orange patch on inner 'elbow'. Tuas, Apr 08
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/blue/230704chgsafmn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/blue/230704chgsafmn1.jpg
     caption: Mating. Changi Creek, Jul 23 Photo shared by Marcus Ng on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/blue/251011ssisyls6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/blue/251011ssisyls6.jpg
     caption: Caught a Rockskipper ( Istiblennius sp.) ID by Yan Le Small Sisters Island,
       Oct 25 Photo shared by Yan Le Su on facbeook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/blue/251011ssisyls6a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/blue/251011ssisyls6a.jpg
     caption: Close up of fish caught. Small Sisters Island, Oct 25 Photo shared by
       Yan Le Su on facbeook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/blue/251011ssisyls5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/blue/251011ssisyls5.jpg
     caption: Maybe a moult? Or cannibalism?! Small Sisters Island, Oct 25 Photo shared
       by Yan Le Su on facbeook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/blue/201118pglvc4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/blue/201118pglvc4.jpg
     caption: Punggol, Nov 20 Photo shared by Vincent Choo on facbeook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/blue/251011lablks4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/blue/251011lablks4.jpg
     caption: Labrador, Oct 25 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/blue/151001blylks2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/blue/151001blylks2m3.jpg
     caption: Berlayar Creek, Oct 15 Photo shared by Loh Kok Sheng on facbeook .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/blue/160509srpmn3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/blue/160509srpmn3.jpg
     caption: Sentosa Serapong, May 16 Photo shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/blue/100528tkkjk5m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/blue/100528tkkjk5m3.jpg
     caption: Pulau Tekukor, May 10 Photo shared by James Koh on his blog .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/blue/101107tburrl.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/blue/101107tburrl.jpg
     caption: Terumbu Buran, Nov 10 Photo shared by Russel Low on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/blue/110619tslgjp4m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/blue/110619tslgjp4m3.jpg
     caption: Terumbu Selegie, Jun 11 Photo shared by Jerome Pang on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/blue/250811jngmn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/blue/250811jngmn1.jpg
     caption: Pulau Jong, Aug 25 Photo shared by Marcus Ng on facebook .
   gallery9:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/blue/160124smkemn3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/blue/160124smkemn3.jpg
     caption: Pulau Semakau East, Jan 16 Photo shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/blue/150606trymn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/blue/150606trymn.jpg
     caption: Terumbu Raya, Jan 15 Photo shared by Marcus Ng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/blue/170627tbay2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/blue/170627tbay2.jpg
     caption: Terumbu Bemban, Jun 17 Photo shared by Abel Yeo on facebook .
   gallery10:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/blue/250712tplal2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/blue/250712tplal2.jpg
     caption: Terumbu Pempang Laut, Jul 25 Photo shared by Adriene Lee on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/blue/250726cyrjt4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/blue/250726cyrjt4.jpg
     caption: Cyrene, Jul 25 Photo shared by Jonathan Tan on facebook .
   gallery11:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/blue/091231biod6999m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/blue/091231biod6999m3.jpg
     caption: Pulau Biola, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/blue/091231biod7052m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/blue/091231biod7052m3.jpg
     caption: Pulau Biola, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/blue/091205sudd5538m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/blue/091205sudd5538m3.jpg
     caption: Pulau Sudong, Dec 09
   gallery12:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/blue/100130brkd8489m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/blue/100130brkd8489m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/blue/100131slud8777m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/blue/100131slud8777m3.jpg
     caption: Terumbu Salu, Jan 10
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/blue/101108bkoms00740m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/blue/101108bkoms00740m3.jpg
     caption: Terumbu Bukom, Nov 10
   gallery13:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/blue/210428slulks5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/blue/210428slulks5.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/blue/100810sngd9930m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/blue/100810sngd9930m3.jpg
     caption: Pulau Senang, Aug 10
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/blue/100811slud0112m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/blue/100811slud0112m3.jpg
     caption: Pulau Salu, Aug 10
 links_references: '**Links**
 

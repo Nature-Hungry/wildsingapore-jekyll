@@ -23,14 +23,14 @@ order: Mytilida
 superfamily: Mytiloidea
 subfamily: Modiolinae
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/modiolus/130820skdd1497m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/modiolus/130820skdd1497m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/modiolus/130820skdd1497m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/modiolus/130820skdd1497m3.jpg
     caption: Pulau Sekudu, Jul 13
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/modiolus/130722skdd9942m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/modiolus/130722skdd9942m3.jpg
     caption: Pulau Sekudu, Jul 13
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/modiolus/190219chg7m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/modiolus/190219chg7m6l.jpg
     caption: Dense carpet on the shore Changi, Feb 19
   gallery2:
   - url: https://live.staticflickr.com/31337/40863986093_1911f36ffc_z.jpg

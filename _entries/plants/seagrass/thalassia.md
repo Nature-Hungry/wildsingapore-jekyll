@@ -34,25 +34,25 @@ galleries:
     caption: This seagrass is rarely seen on our shores. It doesn't flower frequently.
       It is eaten by sea turtles and dugongs.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/080422smkd1570m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/thalassia/080422smkd1570m3.jpg
     caption: Flowering plant. Pulau Semakau, Apr 08
-  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/070322cyrd9192m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/thalassia/070322cyrd9192m3.jpg
     caption: Flowering plant. Cyrene Reef, Mar 07
-  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/060227labg5172m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/thalassia/060227labg5172m3.jpg
     caption: Flowering plant. Labrador, Mar 06
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/120122cyrd5343.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/thalassia/120122cyrd5343.jpg
     caption: Fruit. Cyrene, Jan 12
-  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/120122cyrd5362.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/thalassia/120122cyrd5362.jpg
     caption: Fruit. Cyrene, Jan 12
-  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/120122cyrd5357.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/thalassia/120122cyrd5357.jpg
     caption: Fruit. Cyrene, Jan 12
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/030603labd0133m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/thalassia/030603labd0133m3.jpg
     caption: Shorter Sickle seagrass next to longer Tape seagrass Labrador, Jun 03
-  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/041019labd7736m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/thalassia/041019labd7736m3b.jpg
     caption: Leaves covered with other plants and animals Labrador, Oct 04
-  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/050513labg6440m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/thalassia/050513labg6440m3.jpg
     caption: Thick underground stem Labrador, May 05
 links_references: '**Links**
 
@@ -159,18 +159,18 @@ Among the animals that eat this seagrass are dugongs and green turtles. So it is
 **Status and threats:**
 It is listed as 'Critically Endangered' on the Red List of threatened plants of Singapore.
 
-![](http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/050111labg2732m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/thalassia/050111labg2732m3.jpg)
 
 *Labrador, Nov 05
 
-![](http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/060228labg5266m3.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/thalassia/060228labg5266m3.jpg)*
 With flowers!
 *Labrador, Mar 06*
-*![](http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/071026cyrd7071m3a.jpg)
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/thalassia/071026cyrd7071m3a.jpg)
 
 Cyrene Reef, Oct 07
 
-![](http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/110830cyrd0551m3a.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/thalassia/110830cyrd0551m3a.jpg)
 
 Tip rounded not serrated,
 

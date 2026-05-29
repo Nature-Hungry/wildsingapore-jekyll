@@ -22,7 +22,7 @@ order: Malvales
 subfamily: Malvoideae
 tribe: Gossypieae
 updated: Nov 10
-coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/thespesia/populnea/090611prpd3832m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/thespesia/populnea/090611prpd3832m6l.jpg
 links_references: "**Links**\n- *[Thespesia\n  populnea](http://floraofsingapore.wordpress.com/2010/10/17/thespesia-populnea/)*\
   \ on Total Vascular Flora of Singapore Online:\n  photos and fact sheet.\n- Giesen,\
   \ Wim\n  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.\n  [*Mangrove\n\
@@ -32,18 +32,18 @@ links_references: "**Links**\n- *[Thespesia\n  populnea](http://floraofsingapore
   **References**\n- Hsuan Keng,\n  S.C. Chin and H. T. W. Tan. 1990, *[The\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/thespesia/populnea/090611prpd3964m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/thespesia/populnea/090611prpd3964m3.jpg
     caption: Developing fruits.
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/thespesia/populnea/090611prpd3836m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/thespesia/populnea/090611prpd3836m3.jpg
     caption: Flowers past their bloom.
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/thespesia/populnea/090611prpd3962m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/thespesia/populnea/090611prpd3962m3.jpg
     caption: Flower just blossoming.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/thespesia/populnea/080216cjd9672m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/thespesia/populnea/080216cjd9672m3.jpg
     caption: Chek Jawa, Feb 08 Insect pollinating the flower?
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/thespesia/populnea/080609ubnod5556m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/thespesia/populnea/080609ubnod5556m3a.jpg
     caption: Pulau Ubin, Jun 08 Cotton stainer bugs on the fruit.
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/thespesia/populnea/090428chgd0933m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/thespesia/populnea/090428chgd0933m3.jpg
     caption: Changi, May 09
   gallery3:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -91,11 +91,11 @@ According to Burkill, thoughout much of the Pacific, the tree is considered sacr
 *Hibiscus tiliceaus*
 ) for cordage. The timber is hard and Fiji natives praise it as being "almost indestructible underwater". In the Philippines it is prized for making musical instruments. According to Hugh Tan, oil is extracted from the seeds and gum from the bark, while an orange-yellow dye is extracted from the wood.
 
-*![](http://www.wildsingapore.com/wildfacts/plants/coastal/thespesia/populnea/090611prpd3832m6l.jpg)
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/thespesia/populnea/090611prpd3832m6l.jpg)
 
 Pasir Ris, Jun 09
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/thespesia/populnea/090611prpd3837m3.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/thespesia/populnea/090611prpd3837m3.jpg)*
 Flower bud about to blossom.
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}---

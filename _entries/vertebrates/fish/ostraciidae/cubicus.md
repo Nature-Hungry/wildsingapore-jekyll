@@ -23,14 +23,14 @@ superorder: Acanthomorpha
 order: Tetraodontiformes
 suborder: Balistoidei
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cubicus/070217skdg7635m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ostraciidae/cubicus/070217skdg7635m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cubicus/070217skdg7635m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ostraciidae/cubicus/070217skdg7635m3.jpg
     caption: Pulau Sekudu, Feb 07
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cubicus/070217skdg7635m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ostraciidae/cubicus/070217skdg7635m3b.jpg
     caption: Tiny stick-like tail and tiny dorsal fins.
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cubicus/070217skdg7635m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ostraciidae/cubicus/070217skdg7635m3a.jpg
     caption: Small, downward-pointing tube-like mouth.
 links_references: '**Links**
 

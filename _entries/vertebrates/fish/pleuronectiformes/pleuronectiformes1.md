@@ -18,26 +18,26 @@ superorder: Acanthomorpha
 order: Carangiformes
 suborder: Pleuronectoidei
 updated: Apr 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/050622cftd4074m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/cynoglossidae/cynoglossidae/050622cftd4074m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cynoglossidae/cynoglossidae/050622cftd4074m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cynoglossidae/cynoglossidae/050622cftd4074m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/soleidae/ovata/050511cftg6220m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/soleidae/ovata/050511cftg6220m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/paralichthyidae/paralichthyidae/050917smkg2477m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/paralichthyidae/paralichthyidae/050917smkg2477m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cynoglossidae/cynoglossidae/050622cftd4074m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cynoglossidae/cynoglossidae/050622cftd4074m3b.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/soleidae/ovata/050511cftg6220m3d.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/soleidae/ovata/050511cftg6220m3d.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/paralichthyidae/paralichthyidae/050917smkg2477m4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/paralichthyidae/paralichthyidae/050917smkg2477m4.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cynoglossidae/cynoglossidae/050622cftd4074m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cynoglossidae/cynoglossidae/050622cftd4074m3c.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/soleidae/ovata/050511cftg6220m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/soleidae/ovata/050511cftg6220m3c.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/paralichthyidae/paralichthyidae/050917smkg2477m3e.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/paralichthyidae/paralichthyidae/050917smkg2477m3e.jpg
     caption: ''
   gallery2:
   - url: http://www.wildsingapore.com/mollusca/slugs/nudibranchia/villosa/050529cjg6776m3.jpg
@@ -49,9 +49,9 @@ galleries:
   gallery3:
   - url: http://www.wildsingapore.com/arthropoda/limulidae/carcinoscopius/060627krjd3660m3.jpg
     caption: Horseshoe crab
-  - url: http://www.wildsingapore.com/wildfacts/platycephalidae/nematophthalmus/040730skdd3246m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/platycephalidae/nematophthalmus/040730skdd3246m3.jpg
     caption: Flathead
-  - url: http://www.wildsingapore.com/wildfacts/callionymidae/erythraeus/050511cftg6206m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/callionymidae/erythraeus/050511cftg6206m3.jpg
     caption: Dragonet
 ---
 

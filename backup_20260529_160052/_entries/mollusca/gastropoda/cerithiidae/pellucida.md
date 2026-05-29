@@ -1,0 +1,96 @@
+---
+title: Mangrove creeper snail
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: pellucid, creeper, trail, cerith, snail, shell, clypeomorus, pellucidus,
+  cerithiidae, gastropod, mollusc, mangrove, field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
+layout: entry
+family: Cerithiidae
+genus: Clypeomorus
+species: pellucida
+attributes: []
+inat_id: 570217
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+superfamily: Cerithioidea
+subfamily: Cerithiinae
+updated: Jul 2020
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/pellucida/080220smkd9713m3.jpg
+galleries:
+  gallery1:
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/pellucida/080220smkd9713m3.jpg
+    caption: Pulau Semakau, Feb 08
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/pellucida/080220smkd9714m3.jpg
+    caption: ''
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/pellucida/080220smkd9714m3a.jpg
+    caption: ''
+  gallery2:
+  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/pellucida/161228cjik.jpg
+    caption: Chek Jawa, Dec 2016 Photo shared by Ivan Kwan on facebook .
+links_references: '**Links**
+
+  - [*Clypeomorus pellucida*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=130664&genusname=Clypeomorus&speciesname=pellucida)
+
+  in SeaLife Base: Technical fact sheet.
+
+
+  **References**
+
+  - Tan Siong Kiat and Henrietta P. M. Woo, 2010
+
+  *Preliminary Checklist of The Molluscs of Singapore*
+
+  (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+
+  - Tan, K. S. & L. M. Chou, 2000.
+
+  *A Guide to the Common Seashells of Singapore*
+
+  . Singapore Science Centre. 160 pp.
+
+  - Abbott, R. Tucker, 1991.
+
+  *Seashells of South East Asia*
+
+  . Graham Brash, Singapore. 145 pp.
+
+  '
+location:
+- chg
+- cj
+- smk
+size:
+- 2.0
+- 3.0
+---
+
+## Where seen?
+This rather gnarled creeper snail is sometimes seen near and on mangrove tree roots or stuck to logs near the low water mark.
+
+## Features
+
+****
+About 2-3cm long. Shell thick with irregular ribbing and rather knobbly look. It is believed to eat microalgae.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
+
+---
+
+**Mangrove creeper snails on Singapore shores**
+
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Clypeomorus pellucida)
+for free download
+- [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Clypeomorus%2520pellucida/map?&fLat=1.2612&fLon=103.863&zl=11&order_by=recent)
+
+---
+
+**Other sightings on Singapore shores**
+
+---
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
+---

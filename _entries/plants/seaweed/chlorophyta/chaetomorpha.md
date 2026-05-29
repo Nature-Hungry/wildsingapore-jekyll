@@ -19,21 +19,21 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Cladophorales
 updated: Jan 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/chaetomorpha/020225cjd7289m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/chaetomorpha/020225cjd7289m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/chaetomorpha/100425kntd1761m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/chaetomorpha/100425kntd1761m3.jpg
     caption: Kranji Nature Trail, Apr 10 Forming a mossy carpet under mangrove trees.
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/chaetomorpha/050610sntg7654m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/chaetomorpha/050610sntg7654m3a.jpg
     caption: Sentosa, Jun 05 Often entangled among other seaweeds.
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/chaetomorpha/060115sntg3968m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/chaetomorpha/060115sntg3968m3b.jpg
     caption: Sentosa, Jan 06
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/chaetomorpha/100810sngd9929m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/chaetomorpha/100810sngd9929m3.jpg
     caption: Pulau Senang, Aug 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/chaetomorpha/100810sngd9929m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/chaetomorpha/100810sngd9929m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/chaetomorpha/110323tsmkd7615m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/chaetomorpha/110323tsmkd7615m3b.jpg
     caption: Terumbu Semakau, Mar 11
 links_references: '**Links**
 
@@ -142,11 +142,11 @@ sp.) which has much shorter filaments and appears feathery. Here's more on
 **Human uses:**
 It is used as animal feed and eaten raw by people.
 
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/chaetomorpha/020225cjd7289m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/chaetomorpha/020225cjd7289m3.jpg)
 
 Large piles of the seaweed
 *Chek Jawa, Feb 02*
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/chaetomorpha/020224cjcpd7156m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/chaetomorpha/020224cjcpd7156m3.jpg)
 
 *Chek Jawa, Feb 02*
 

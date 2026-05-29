@@ -18,26 +18,26 @@ subclass: Vetigastropoda
 order: Trochida
 superfamily: Trochoidea
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/091008tmd2545m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/angaria/091008tmd2545m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/091008tmd2545m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/angaria/091008tmd2545m3.jpg
     caption: Upper side usuallyunder a thick layer of encrusting organisms. Tanah
       Merah, Oct 09
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/100602tmd5119m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/angaria/100602tmd5119m3.jpg
     caption: Tanah Merah, Jun 10
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/091008tmd2543m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/angaria/091008tmd2543m3.jpg
     caption: Tanah Merah, Oct 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/110504srplks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/angaria/110504srplks.JPG
     caption: Sentosa Serapong, May 11 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/110220lazmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/angaria/110220lazmn.jpg
     caption: Shell of a dead snail. Lazarus Island, Feb 11 Photo shared by Marcus
       Ng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/240608kustl3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/angaria/240608kustl3.jpg
     caption: Kusu Island, Jun 24 Photo shared by Tammy Lim on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/220521bbbccn3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/angaria/220521bbbccn3.jpg
     caption: Beting Bemban Besar, May 22 Photo shared by Che Cheng Neo on facebook
       .
 links_references: "**Links**\n- *[Angaria delphinus](http://www.sealifebase.org/Summary/speciesSummary.php?ID=90083)*\n\

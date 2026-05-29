@@ -17,50 +17,50 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/040801hntd3753m3a.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/paraancora/040801hntd3753m3a.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/040801hntd3753m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/paraancora/040801hntd3753m3a.jpg
     caption: Fan worm in the middle of the colony.
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/070630sisg0767m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/paraancora/070630sisg0767m3c.jpg
     caption: Mouth in the middle of the tentacles. Sisters Island, Jun 07
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/100617tsmd6504m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/ancora/100617tsmd6504m3a.jpg
     caption: Sadly, these corals are often the first affected during mass coral bleaching.
       Terumbu Semakau, Jun 10
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/060811rlhd0581m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/ancora/060811rlhd0581m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/060811rlhd0583m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/ancora/060811rlhd0583m3c.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/060714rlhg0654m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/ancora/060714rlhg0654m3.jpg
     caption: ''
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/110422tbmd9794m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/paraancora/110422tbmd9794m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/110422tbmd9794m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/paraancora/110422tbmd9794m3c.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/110422tbmd9794m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/paraancora/110422tbmd9794m3a.jpg
     caption: ''
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/051203smkg3165m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/glabrescens/051203smkg3165m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/051203smkg3161m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/glabrescens/051203smkg3161m3c.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/080707hntd7529m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/glabrescens/080707hntd7529m3.jpg
     caption: ''
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/061122smkd6849m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/paradivisa/061122smkd6849m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/061122smkd6854m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/paradivisa/061122smkd6854m3b.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/050310smkg3182m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/paradivisa/050310smkg3182m3.jpg
     caption: ''
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060356m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060356m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3a.jpg
     caption: ''
 links_references: '**Links**
 

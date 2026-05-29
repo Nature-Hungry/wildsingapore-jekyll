@@ -10,21 +10,21 @@ genus: Semiricinula
 species: fusca
 attributes: []
 updated: Aug 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/050502cjg5693m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/fusca/050502cjg5693m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/050502cjg5693m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/fusca/050502cjg5693m3.jpg
     caption: Chek Jawa, May 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/050502cjg5694m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/fusca/050502cjg5694m3.jpg
     caption: Chek Jawa, May 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/050502cjg5710m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/fusca/050502cjg5710m3.jpg
     caption: Chek Jawa, May 05
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/brianong3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/fusca/brianong3m3.jpg
     caption: Photo shared by Brian Ong.
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/brianong1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/fusca/brianong1m3.jpg
     caption: Photo shared by Brian Ong.
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/brianong2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/fusca/brianong2m3.jpg
     caption: Hole drilled into a false limpet, by the drill. Photo shared by Brian
       Ong.
 links_references: '**Links**

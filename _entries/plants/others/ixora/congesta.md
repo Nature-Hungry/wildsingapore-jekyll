@@ -22,21 +22,21 @@ order: Gentianales
 subfamily: Ixoroideae
 tribe: Ixoreae
 updated: Nov 10
-coverimg: http://www.wildsingapore.com/wildfacts/plants/others/ixora/congesta/090926cjd1848m6la.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/others/ixora/congesta/090926cjd1848m6la.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/ixora/congesta/090926cjd1830m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ixora/congesta/090926cjd1830m3.jpg
     caption: Chek Jawa, Sep 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/ixora/congesta/090926cjd1827m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ixora/congesta/090926cjd1827m3.jpg
     caption: Chek Jawa, Sep 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/ixora/congesta/090926cjd1832m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ixora/congesta/090926cjd1832m6l.jpg
     caption: Chek Jawa, Sep 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/ixora/congesta/090926cjd1846m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ixora/congesta/090926cjd1846m3.jpg
     caption: Chek Jawa, Sep 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/ixora/congesta/091128cjd4614m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ixora/congesta/091128cjd4614m3.jpg
     caption: Chek Jawa, Nov 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/ixora/congesta/091128cjd4610m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ixora/congesta/091128cjd4610m6l.jpg
     caption: Chek Jawa, Nov 09
 links_references: '**Links**
 
@@ -68,7 +68,7 @@ A shrub to small tree (up to 7m). Leaves large (12-30cm long), dark green. Flowe
 **Human uses:**
 Burkill indicates that there are no known uses for this plant.
 
-![](http://www.wildsingapore.com/wildfacts/plants/others/ixora/congesta/090926cjd1848m6la.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/others/ixora/congesta/090926cjd1848m6la.jpg)
 
 *Chek Jawa, Sep 09*
 

@@ -14,33 +14,33 @@ attributes:
 - 44
 - 97
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/050509hntd3227m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/spongesmooth/050509hntd3227m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/100131slud8784m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/spongesmooth/100131slud8784m3.jpg
     caption: Terumbu Salu, Jan 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/100102tkkd7199m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/spongesmooth/100102tkkd7199m3.jpg
     caption: Pulau Tekukor, Jan 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/060727jngd5176m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/spongesmooth/060727jngd5176m3.jpg
     caption: Pulau Jong, Jul 06
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/171009blyay5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/spongesmooth/171009blyay5.jpg
     caption: Berlayar Creek, Oct 17 Photo shared by Abel Yeo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/160124smkell3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/spongesmooth/160124smkell3.jpg
     caption: Pulau Semakau East, Jan 16 Photo shared by Lisa Lim on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/100130brkd8495m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/spongesmooth/100130brkd8495m3.jpg
     caption: Terumbu Berkas, Jan 10
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/091205sudd5576m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/spongesmooth/091205sudd5576m3.jpg
     caption: Pulau Sudong, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/091231biod7097m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/spongesmooth/091231biod7097m3.jpg
     caption: Pulau Biola, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/091231biod6938m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/spongesmooth/091231biod6938m3.jpg
     caption: Pulau Biola, Dec 09
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/100811slud0086m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/spongesmooth/100811slud0086m3.jpg
     caption: Pulau Salu, Aug 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/100519tsmc4166m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/spongesmooth/100519tsmc4166m3.jpg
     caption: Terumbu Semakau, May 10
 links_references: '**Links**
 
@@ -146,11 +146,11 @@ the
 *Ceratodictyon*
 sp.) which has more obvious 'holes' along the 'stems'. It is a red seaweed which also has a symbiotic relationship with another kind of sponge. The two organisms are sometimes difficult to tell apart in the field.
 
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/050509hntd3227m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/spongesmooth/050509hntd3227m3.jpg)
 
 *Pulau Hantu, May 05
 
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/111225tmskd4855m3a.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/spongesmooth/111225tmskd4855m3a.jpg)*
 No obvious holes.
 *Terumbu Semakau, Dec 11*
 

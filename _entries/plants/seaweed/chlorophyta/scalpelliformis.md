@@ -19,21 +19,21 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/scalpelliformis/050428cftg5309m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/scalpelliformis/050428cftg5309m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/scalpelliformis/050428cftg5309m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/scalpelliformis/050428cftg5309m3.jpg
     caption: Changi, Apr 04
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/scalpelliformis/050428cftg5309m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/scalpelliformis/050428cftg5309m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/scalpelliformis/070803cjd4992m6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/scalpelliformis/070803cjd4992m6.jpg
     caption: A bloom covering a large area. Chek Jawa, Aug 07
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/scalpelliformis/050621skdg7873m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/scalpelliformis/050621skdg7873m3a.jpg
     caption: Pulau Sekuidu, Jun 05
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/scalpelliformis/251205cj1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/scalpelliformis/251205cj1.jpg
     caption: Chek Jawa, Dec 25
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/scalpelliformis/201019cnyrk4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/scalpelliformis/201019cnyrk4.jpg
     caption: Coney Island, Oct 20 Photo shared by Richard Kuah on facebook .
 links_references: '**Links**
 

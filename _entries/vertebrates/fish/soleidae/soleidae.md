@@ -19,7 +19,7 @@ superorder: Acanthomorpha
 order: Carangiformes
 suborder: Pleuronectoidei
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/040120cjd0035m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/commersonnii/040120cjd0035m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -30,42 +30,42 @@ galleries:
     caption: May be quite large, although small ones are also seen. Eyes on the right
       side of the body. Found beneath the sand. Watch your step!
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/040120cjd0035m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/commersonnii/040120cjd0035m3.jpg
     caption: Lurking under the sand. Chek Jawa, Jan 04
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/040724sbwrd3052m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/040724sbwrd3052m3.jpg
     caption: Underside of a sole in a tank. Sungei Buloh Wetland Reserve, Jul 04
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/070702chgd3131m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/commersonnii/070702chgd3131m3.jpg
     caption: Eating a worm!
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/130911sismn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/130911sismn.jpg
     caption: Pelagic juvenile sole. Sisters Island, Sep 13 Photo shared by Marcus
       Ng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/soleidae/110505tmnbd0602.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/soleidae/110505tmnbd0602.jpg
     caption: Unidentified juvenile sole. Tanah Merah, May 11
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/140501kusmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/140501kusmn.jpg
     caption: Unidentified juvenile sole. Kusu Island, May 14 Photo shared by Marcus
       Ng on flickr .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/050511cftg6220m4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/ovata/050511cftg6220m4.jpg
     caption: Ovate sole
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/050818cftg1401m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/commersonnii/050818cftg1401m3.jpg
     caption: Commerson's sole
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/050722cjg9806m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/pavoninus/050722cjg9806m3.jpg
     caption: Peacock sole
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/050511cftg6220m4d.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/ovata/050511cftg6220m4d.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/050818cftg1401m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/commersonnii/050818cftg1401m3c.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/050722cjg9806m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/pavoninus/050722cjg9806m3c.jpg
     caption: ''
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/090623ecpd4978m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/orientalis/090623ecpd4978m3.jpg
     caption: Oriental sole
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/zebra/100612chgd5283m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/zebra/100612chgd5283m3.jpg
     caption: Zebra sole
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/090623ecpd4978m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/orientalis/090623ecpd4978m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/zebra/100612chgd5283m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/zebra/100612chgd5283m3b.jpg
     caption: ''
 links_references: '**Links**
 

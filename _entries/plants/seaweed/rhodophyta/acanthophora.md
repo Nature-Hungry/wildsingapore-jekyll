@@ -23,38 +23,38 @@ subclass: Rhodymeniophycidae
 order: Ceramiales
 tribe: Chondrieae
 updated: Jan 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/060727jngd5168m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/acanthophora/060727jngd5168m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/050427tmg5201m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/acanthophora/050427tmg5201m3a.jpg
     caption: Overgrown with coat of fine fluffy organisms.
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/050427tmg5201m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/acanthophora/050427tmg5201m3.jpg
     caption: Tanah Merah, Apr 05
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/050610sntg7590m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/acanthophora/050610sntg7590m3.jpg
     caption: Sentosa, Jun 05
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/120208cjd6212m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/acanthophora/120208cjd6212m3.jpg
     caption: Chek Jawa, Feb 12
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/120208cjd6213m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/acanthophora/120208cjd6213m3b.jpg
     caption: Chek Jawa, Feb 12
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/120208cjd6215m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/acanthophora/120208cjd6215m3b.jpg
     caption: Chek Jawa, Feb 12
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/100130brkd8458m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/acanthophora/100130brkd8458m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/091204pawd5303m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/acanthophora/091204pawd5303m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/100601slud4977m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/acanthophora/100601slud4977m3.jpg
     caption: Pulau Salu, Jun 10
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/100613sngd5436m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/acanthophora/100613sngd5436m3.jpg
     caption: Pulau Senang, Jun 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/100530tbkd4313m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/acanthophora/100530tbkd4313m3.jpg
     caption: Pulau Berkas, May 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/100528tkkd3689m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/acanthophora/100528tkkd3689m3a.jpg
     caption: Pulau Berkas, May 10
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/100519tsmc4125m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/acanthophora/100519tsmc4125m3.jpg
     caption: Terumbu Semakau, May 10
 links_references: '**Links**
 
@@ -174,10 +174,10 @@ is eaten as a fresh vegetable in some parts of Vietnam and the Philippines. Burk
 
 In Hawaii, it is considered an introduced and thus alien, invasive weed that affects the native marine life there.
 
-*![](http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/060727jngd5168m3.jpg)*
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/acanthophora/060727jngd5168m3.jpg)*
 *Pulau Jong, Jul 06
 
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/060727jngd5168m3a.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/acanthophora/060727jngd5168m3a.jpg)*
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

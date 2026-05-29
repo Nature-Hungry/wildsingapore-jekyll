@@ -20,15 +20,15 @@ suborder: Ensifera
 infraorder: Gryllidea
 superfamily: Grylloidea
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/insecta/cricket/090820ecpd9469m3a.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/insecta/cricket/090820ecpd9469m3a.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/insecta/cricket/090820ecpd9469m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/insecta/cricket/090820ecpd9469m3a.jpg
     caption: East Coast, Aug 09
-  - url: http://www.wildsingapore.com/wildfacts/insecta/cricket/111001sjid1841.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/insecta/cricket/111001sjid1841.jpg
     caption: St John's Island, Oct 11
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/arachnida/desis/040829kusd5626m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/040829kusd5626m3.jpg
     caption: Caught by a Marine spider . Kusu Island, Apr 08
 links_references: '**Links**
 

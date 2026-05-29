@@ -16,55 +16,55 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Sep 2019
-coverimg: http://www.wildsingapore.com/wildfacts/porifera/xestospongia/020101cjbd4392m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/xestospongia/020101cjbd4392m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/xestospongia/020101cjbd4392m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/xestospongia/020101cjbd4392m3.jpg
     caption: Shapes range from fingers, tubes, branching roots to large vase shapes.
       Chek Jawa, Jan 02
-  - url: http://www.wildsingapore.com/wildfacts/porifera/xestospongia/120408sjid8353m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/xestospongia/120408sjid8353m3.jpg
     caption: St. John's Island, Apr 12
-  - url: http://www.wildsingapore.com/wildfacts/porifera/xestospongia/120408sjid8358m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/xestospongia/120408sjid8358m3a.jpg
     caption: Inside the cavity, texture is uneven and rough.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/xestospongia/030618bbd0195m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/xestospongia/030618bbd0195m3.jpg
     caption: Large animals find shelter inside the 'vase' Beting Bronok, Jun 03
-  - url: http://www.wildsingapore.com/wildfacts/porifera/xestospongia/040803tusd3990m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/xestospongia/040803tusd3990m3a.jpg
     caption: Sponge synaptid sea cucumbers on the outside of the sponge. Tuas, Aug
       04
-  - url: http://www.wildsingapore.com/wildfacts/porifera/xestospongia/060611cjd2786m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/xestospongia/060611cjd2786m3a.jpg
     caption: Coated with Spionid sponge worms on the outside . Chek Jawa, Jun 06
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/xestospongia/220618tmftlks4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/xestospongia/220618tmftlks4.jpg
     caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/porifera/xestospongia/251108ecpblks6a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/xestospongia/251108ecpblks6a.jpg
     caption: East Coast Park (B), Nov 25 Photo shared by Loh Kok Sheng on facebook
       .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/xestospongia/100515sjilks6m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/xestospongia/100515sjilks6m3.jpg
     caption: St. John's Island, May 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/porifera/xestospongia/241019lazlks4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/xestospongia/241019lazlks4.jpg
     caption: Lazarus Island, Oct 24 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/porifera/xestospongia/110421jngsy1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/xestospongia/110421jngsy1m3.jpg
     caption: Pulau Jong, Apr 11 Photo shared by Sam Yeo on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/xestospongia/251207hntjll3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/xestospongia/251207hntjll3.jpg
     caption: Pulau Hantu, Dec 25 Photo shared by Jianlin Liu on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/porifera/xestospongia/080505hntlks01m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/xestospongia/080505hntlks01m3.jpg
     caption: Pulau Hantu, May 08 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/porifera/xestospongia/250531thnttl1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/xestospongia/250531thnttl1.jpg
     caption: Terumbu Hantu, May 25 Photo shared by Tammy Lim on facebook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/xestospongia/250629smkelk10.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/xestospongia/250629smkelk10.jpg
     caption: Pulau Semakau East, Jun 25 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/porifera/xestospongia/100617tblks2m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/xestospongia/100617tblks2m3.JPG
     caption: Terumbu Bemban, Jun 10 Photo shared by Loh Kok Sheng on his blog .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/xestospongia/100613snglks1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/xestospongia/100613snglks1m3.jpg
     caption: Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
-  - url: http://www.wildsingapore.com/wildfacts/porifera/xestospongia/210428slulks6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/xestospongia/210428slulks6.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 

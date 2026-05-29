@@ -20,7 +20,7 @@ subterclass: Tectipleura
 superorder: Sacoglossa
 superfamily: Plakobranchoidea
 updated: Oct 2019
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/070602sjig9801m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/ornata/070602sjig9801m3.jpg
 links_references: "**Links**\n- [Leaf\n  Slug *Elysia*](http://mangrove.nus.edu.sg/pub/seashore/text/151.htm)\
   \ Tan, Leo W. H. & Ng, Peter K. L., 1988.\n  *[A Guide\n  to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
   \ The Singapore Science Centre, Singapore.\n  160 pp.\n- [The\n  Sea Slug Forum](http://www.seaslugforum.net/)\
@@ -39,91 +39,91 @@ links_references: "**Links**\n- [Leaf\n  Slug *Elysia*](http://mangrove.nus.edu.
   \  Centre. 128 pages.\n- Debelius,\n  Helmut, 2001. *Nudibranchs\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/070602sjig9801m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/ornata/070602sjig9801m3.jpg
     caption: St. John's Island, Jun 07
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/060429skdd1359m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/ornata/060429skdd1359m3.jpg
     caption: Pulau Sekudu, Apr 06
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/050113sntg2873m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/ornata/050113sntg2873m3.jpg
     caption: Sentosa, Jan 05
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/050529sjig7206m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/ornata/050529sjig7206m3.jpg
     caption: Mating slugs St. John's Island, May 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/050529sjig7219m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/ornata/050529sjig7219m3.jpg
     caption: The white bits are the reproductive organs.
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/111002sisd2130m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/ornata/111002sisd2130m3.jpg
     caption: Also seen among Sargassum seaweeds. St John's Island, Oct 11
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/040423sntd0153m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/ornata/040423sntd0153m3.jpg
     caption: Sentosa, Apr 04
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/040423sntd0153m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/ornata/040423sntd0153m3a.jpg
     caption: Just mated?
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/040423sntd0153m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/ornata/040423sntd0153m3b.jpg
     caption: ''
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/230122jnglks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/ornata/230122jnglks1.jpg
     caption: Recently laid egg strings? Pulau Jong, Jan 23 Photo shared by Lok Kok
       Sheng on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/210528pglrk3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/ornata/210528pglrk3.jpg
     caption: Punggol, May 21 Photo shared by Richard Kuah on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/110520chglks3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/ornata/110520chglks3m3.jpg
     caption: Changi, May 11 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/220616chgelks10.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/ornata/220616chgelks10.jpg
     caption: Chang Lost Coast, Jun 22 Photo shared by Loh Kok Sheng on facebook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/080507ecplks03m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/ornata/080507ecplks03m3.jpg
     caption: East Coast, May 08 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/201118nsrcssjk1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/ornata/201118nsrcssjk1.jpg
     caption: East Coast, NSRCC, Nov 20 Photo shared by James Koh on flickr .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/150320tusmn1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/ornata/150320tusmn1m3.jpg
     caption: Tuas, Mar 15 Photo shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/061208labwl1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/ornata/061208labwl1m3.jpg
     caption: Labrador, Dec 06 Photo shared by Wai on her blog .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/201116lazjll2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/ornata/201116lazjll2.jpg
     caption: Lazarus Island, Nov 20 Photo shared by Jianlin Liu on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/110220lazlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/ornata/110220lazlks.JPG
     caption: Lazarus Island, Feb 11 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/240528tsllks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/ornata/240528tsllks2.jpg
     caption: Terumbu Selegie, May 24 Photo shared by Loh Kok Sheng on facebook .
   gallery9:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/091118cyrjk.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/ornata/091118cyrjk.jpg
     caption: Cyrene Reef, Nov 09 Photo shared by James Koh on flickr .
   gallery10:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/110421jngtch4m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/ornata/110421jngtch4m3.jpg
     caption: Pulau Jong, Apr 11 Photo shared by Toh Chay Hoon on her blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/110619tslgnml3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/ornata/110619tslgnml3m3.jpg
     caption: Terumbu Selegie, Jun 11 Photo shared by Neo Mei Lin on her blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/2104hntrk1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/ornata/2104hntrk1.jpg
     caption: Pulau Hantu, Apr 21 Photo shared by Richard Kuah on facebook .
   gallery11:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/140811smklks1m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/ornata/140811smklks1m3.JPG
     caption: Pulau Semakau, Aug 14 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/170311bbbrk.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/ornata/170311bbbrk.jpg
     caption: Beting Bemban Besar, Mar 17 Photo shared by Richard Kuah on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/140202tryrl.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/ornata/140202tryrl.jpg
     caption: Terumbu Raya, Feb 14 Photo shared by Russel Low on facebook .
   gallery12:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/210501tbtch5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/ornata/210501tbtch5.jpg
     caption: Terumbu Bemban, May 21 Photo shared by Toh Chay Hoon on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/240310tplta1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/ornata/240310tplta1.jpg
     caption: Terumbu Pempang Laut, Mar 24 Photo shared by Tommy Arden on facebook
       .
   gallery13:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/161117rlhjll3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/ornata/161117rlhjll3.jpg
     caption: Raffles Lighthouse, Nov 16 Photo shared by Jianlin Liu on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/091205pawlks11m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/ornata/091205pawlks11m3.jpg
     caption: Pulau Pawai, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/210428slulks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/ornata/210428slulks1.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
   gallery14:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/091205sudtch4m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/ornata/091205sudtch4m3b.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by Toh Chay Hoon on her flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/091231biod6946m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/ornata/091231biod6946m3.jpg
     caption: Pulau Biola, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/100531biod4501m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/ornata/100531biod4501m3a.jpg
     caption: Pulau Biola, May 10
   gallery15:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1

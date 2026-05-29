@@ -39,96 +39,96 @@ trivia_items:
   hide deeper in the anemone.
 galleries:
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/120609tsmkd5064m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/entacmaea/120609tsmkd5064m3.jpg
     caption: Terumbu Semakau, Jun 12
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/070630sisg0770m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/entacmaea/070630sisg0770m3.jpg
     caption: Sisters Island, Jun 07
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/040410sisbd017m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/entacmaea/040410sisbd017m3a.jpg
     caption: Sisters Islands, Apr 04
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/frenatus/080803smkd9128m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/frenatus/080803smkd9128m3.jpg
     caption: The Tomato anemonefish lives with this anemone Pulau Semakau, Aug 08
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/121215sislks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/121215sislks1.jpg
     caption: Peacock-tail anemone shrimps were seen in this anemone. Sisters Island,
       Dec 12 Photo shared by Loh Kok Sheng on flickr .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/frenatus/090726tmlks6m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/frenatus/090726tmlks6m3.jpg
     caption: Tanah Merah, Jul 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/100615tmlks2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/entacmaea/100615tmlks2m3.jpg
     caption: In a bleaching anemone. Tanah Merah, Jun 10 Photo shared by Loh Kok Sheng
       on his flickr .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/140518tmlks5m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/entacmaea/140518tmlks5m3.JPG
     caption: Tanah Merah, May 14 Photo shared by Loh Kok Sheng on his blog .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/170529srplks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/entacmaea/170529srplks1.jpg
     caption: Sentosa Serapong, May 17
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/170529srplks1a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/entacmaea/170529srplks1a.jpg
     caption: Photo shared by Loh Kok Sheng on facebook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/120407lazlks6m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/entacmaea/120407lazlks6m3.jpg
     caption: Seringat Kias, Apr 12 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/120408sjilks3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/entacmaea/120408sjilks3m3.jpg
     caption: St. John's Island, Apr 12 Shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/230831sjiky1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/entacmaea/230831sjiky1.jpg
     caption: St. John's Island, Aug 23 Shared by Kelvin Yong on facebook .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/220202bsisjk2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/entacmaea/220202bsisjk2.jpg
     caption: Big Sisters Island, Feb 22 Photo shared by James Koh on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/110122sisjk1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/entacmaea/110122sisjk1m3.jpg
     caption: Bleaching. Sisters Island, Jan 11 Photo shared by James Koh on his blog
       .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/251207hntjll6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/entacmaea/251207hntjll6.jpg
     caption: Pulau Hantu, Dec 25 Shared by Jianlin Liu on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/250615hntccn2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/entacmaea/250615hntccn2.jpg
     caption: Pulau Hantu, Jun 25 Photo shared by Che Cheng Neo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/250531thntlks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/entacmaea/250531thntlks1.jpg
     caption: Terumbu Hantu (Cigar Reef), May 25 Photo shared by Loh Kok Sheng on facebook
       .
   gallery9:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/160608cyrlks7.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/entacmaea/160608cyrlks7.JPG
     caption: Bleaching. Cyrene Reef, Jun 16 Photo shared by Loh Kok Sheng on his blog
       .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/210629bbbjll1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/entacmaea/210629bbbjll1.jpg
     caption: Beting Bemban Besar, Jun 21 Photo shared by Jianlin Liu on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/250629smkelks5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/entacmaea/250629smkelks5.jpg
     caption: Pulau Semakau East, Jun 25 Photo shared by Loh Kok Sheng on facebook
       .
   gallery10:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/140909tptlks3m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/entacmaea/140909tptlks3m3.JPG
     caption: Teumbu Pempang Tengah, Sep 14 Photo shared by Loh Kok Sheng on his blog
       .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/210502tptlks8.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/entacmaea/210502tptlks8.jpg
     caption: Teumbu Pempang Tengah, May 21 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/160806tpllks5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/entacmaea/160806tpllks5.jpg
     caption: Bleaching. Teumbu Pempang Laut, Aug 16 Photo shared by Loh Kok Sheng
       on facebook .
   gallery11:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/070701hntlks02m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/entacmaea/070701hntlks02m3.jpg
     caption: Pulau Hantu, Jul 07 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/090412hnttch04m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/entacmaea/090412hnttch04m3.jpg
     caption: Pulau Hantu, Apr 09 Photo shared by Toh Chay Hoon on her blog .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/120411thntrl1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/entacmaea/120411thntrl1m3.jpg
     caption: Terumbu Hantu, Apr 12 Photo shared by Russel Low on facebook .
   gallery12:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/110422tbmlks11m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/entacmaea/110422tbmlks11m3.jpg
     caption: Terumbu Bemban, Apr 11 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/110422tbmlks12m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/entacmaea/110422tbmlks12m3.jpg
     caption: Terumbu Bemban, Apr 11 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/100519tsmjk3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/entacmaea/100519tsmjk3m3.jpg
     caption: Terumbu Semakau, May 10 Photo shared by James Koh on his blog .
   gallery13:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/100613snglks2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/entacmaea/100613snglks2m3.jpg
     caption: Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/100613snglks3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/entacmaea/100613snglks3m3.jpg
     caption: Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/100130slulks19m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/entacmaea/100130slulks19m3.jpg
     caption: Terumbu Salu, Jan 10 Photo shared by Loh Kok Sheng on his flickr .
   gallery14:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/210428slulks10.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/entacmaea/210428slulks10.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/220201brklks9.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/entacmaea/220201brklks9.jpg
     caption: Pulau Berkas, Feb 22 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 

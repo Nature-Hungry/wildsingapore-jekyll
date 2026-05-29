@@ -23,29 +23,29 @@ order: Fabales
 subfamily: Detarioideae
 tribe: Amherstieae
 updated: Nov 10
-coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/tamarindus/indica/090419chgcrko0374m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/tamarindus/indica/090419chgcrko0374m6l.jpg
 links_references: "**Links**\n- [*Tamarindus\n  indica*](http://floraofsingapore.wordpress.com/2010/03/27/tamarindus-indica/)\
   \ on Total Vascular Flora of Singapore Online: photos\n  and fact sheet.\n\n**References**\n\
   - Hsuan Keng,\n  S.C. Chin and H. T. W. Tan. 1990, *[The\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/tamarindus/indica/090419chgcrkd0292m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/tamarindus/indica/090419chgcrkd0292m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/tamarindus/indica/090419chgcrkd0296m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/tamarindus/indica/090419chgcrkd0296m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/tamarindus/indica/090419chgcrkd0302m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/tamarindus/indica/090419chgcrkd0302m3.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/tamarindus/indica/090419chgcrkd0295m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/tamarindus/indica/090419chgcrkd0295m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/tamarindus/indica/090419chgcrkd0287m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/tamarindus/indica/090419chgcrkd0287m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/tamarindus/indica/090419chgcrkd0287m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/tamarindus/indica/090419chgcrkd0287m3a.jpg
     caption: ''
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/tamarindus/indica/091213ubnd5782m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/tamarindus/indica/091213ubnd5782m3.jpg
     caption: Pulau Ubin, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/tamarindus/indica/091213ubnd5782m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/tamarindus/indica/091213ubnd5782m3a.jpg
     caption: ''
   gallery4:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -88,13 +88,13 @@ There is one Asam tree with
 . It is at Surin Ave Park with a girth of 3.5m and height 22m.
 ****
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/tamarindus/indica/090419chgcrko0374m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/tamarindus/indica/090419chgcrko0374m6l.jpg)
 
 *Changi, Apr 09
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/tamarindus/indica/090419chgcrkd0298m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/tamarindus/indica/090419chgcrkd0298m3.jpg)
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/tamarindus/indica/090419chgcrkd0298m3a.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/tamarindus/indica/090419chgcrkd0298m3a.jpg)*
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

@@ -22,29 +22,29 @@ class: Asteroidea
 superorder: Valvatacea
 order: Valvatida
 updated: Mar 2020
-coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/050624tusg8536m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/goniodiscaster/050624tusg8536m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/050624tusg8536m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/goniodiscaster/050624tusg8536m3.jpg
     caption: Tuas, Jun 05
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/050624tusg8536m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/goniodiscaster/050624tusg8536m3b.jpg
     caption: Upperside.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/050624tusg8535m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/goniodiscaster/050624tusg8535m3.jpg
     caption: Underside.
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/050624tusg8535m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/goniodiscaster/050624tusg8535m3c.jpg
     caption: Does not have large bivalved pedicellaria.
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/050624tusg8535m3d.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/goniodiscaster/050624tusg8535m3d.jpg
     caption: ''
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/050623cjg8410m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/goniodiscaster/050623cjg8410m3.jpg
     caption: Chek Jawa, Jun 05
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/030702cjd0113m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/goniodiscaster/030702cjd0113m3.jpg
     caption: Chek Jawa, Jul 03
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/101011chgd2150m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/goniodiscaster/101011chgd2150m3.jpg
     caption: Changi, Oct 10
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/081114cyrlks01m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/goniodiscaster/081114cyrlks01m3.jpg
     caption: Cyrene Reef, Nov 08 Photo shared by Loh Kok Sheng on his blog .
 links_references: '**Links**
 

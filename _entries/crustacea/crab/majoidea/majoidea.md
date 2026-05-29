@@ -25,7 +25,7 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Majoidea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/050822cjg2135m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/retusa/050822cjg2135m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -37,21 +37,21 @@ galleries:
       Some are tiny and look like bits of dirt. They have pointed heads and long skinny
       legs.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/050822cjg2135m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/retusa/050822cjg2135m3.jpg
     caption: Decorated upperside
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/050822cjg2131m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/retusa/050822cjg2131m3.jpg
     caption: Underside, only the pincers are 'undecorated'. Chek Jawa, Aug 05
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/tiny/100711cyrd8196m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/tiny/100711cyrd8196m3.jpg
     caption: Almost impossible to spot until it moves. Cyrene Reef, Jul 10
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/030615cjd0196m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/retusa/030615cjd0196m3.jpg
     caption: Velcro crab
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/090525chgd2395m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/schizophrys/090525chgd2395m3.jpg
     caption: Sea toad spider crab
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/tiny/060225cjg4983m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/tiny/060225cjg4983m3.jpg
     caption: Tiny spider crabs
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/menatheius/050625labg8681m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/menatheius/050625labg8681m3a.jpg
     caption: Arrow-headed spider crab
 links_references: '**Links**
 

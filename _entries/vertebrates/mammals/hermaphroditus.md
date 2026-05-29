@@ -21,10 +21,10 @@ superorder: Laurasiatheria
 order: Carnivora
 subfamily: Paradoxurinae
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/hermaphroditus/071028cjd7399m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/hermaphroditus/071028cjd7399m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/hermaphroditus/071028cjd7391m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/hermaphroditus/071028cjd7391m6l.jpg
     caption: Chek Jawa, Oct 07
 links_references: '**Links**
 
@@ -113,11 +113,11 @@ Civet cats are not social and usually live alone. Except for a mother and her yo
 **Role in the habitat:**
 As a fruit eater, it helps to disperse seeds and contributes to the regeneration of forests.
 
-*![](http://www.wildsingapore.com/wildfacts/vertebrates/mammals/hermaphroditus/071028cjd7399m3.jpg)
+*![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/hermaphroditus/071028cjd7399m3.jpg)
 
 Chek Jawa, Oct 07*
 
-*![](http://www.wildsingapore.com/wildfacts/vertebrates/mammals/hermaphroditus/090517ubnd1906m3.jpg)
+*![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/hermaphroditus/090517ubnd1906m3.jpg)
 
 Civet poop?
 

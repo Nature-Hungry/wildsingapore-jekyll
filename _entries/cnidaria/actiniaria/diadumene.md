@@ -20,24 +20,24 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Metridioidea
 updated: Jul 2024
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/diadumene/070718cjg1646m3a.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/diadumene/070718cjg1646m3a.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/diadumene/070718cjg1646m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/diadumene/070718cjg1646m3a.jpg
     caption: Chek Jawa, Jul 07
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/diadumene/110620pgld4560m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/diadumene/110620pgld4560m3.jpg
     caption: Punggol, Jun 11
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/diadumene/110620pgld4564m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/diadumene/110620pgld4564m3.jpg
     caption: Punggol, Jun 11
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/diadumene/201118pglvc1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/diadumene/201118pglvc1.jpg
     caption: Punggol, Nov 20 Photo shared by Vincent Choo on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/diadumene/160125obsmn11.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/diadumene/160125obsmn11.jpg
     caption: Pulau Ubin OBS, Jan 16 Photo shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/diadumene/090721skdmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/diadumene/090721skdmn.jpg
     caption: Pulau Sekudu, Jul 09 Photo shared by Marcus Ng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/diadumene/130312lsislks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/diadumene/130312lsislks.JPG
     caption: Little Sisters Island, Mar 13 Photo shared by Loh Kok Sheng on flickr
       .
 links_references: '**Links**

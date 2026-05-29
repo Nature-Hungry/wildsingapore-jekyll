@@ -19,44 +19,44 @@ order: Cycloneritida
 superfamily: Neritoidea
 subfamily: Neritininae
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/090512tmftd1473m3b.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/oualaniensis/090512tmftd1473m3b.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/090512tmftd1473m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/oualaniensis/090512tmftd1473m3b.jpg
     caption: Thin greyish operculum. Tanah Merah, May 09
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/101013tmftd2360m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/oualaniensis/101013tmftd2360m3.jpg
     caption: Striped body with long tentacles. Tanah Merah, Oct 10
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/111226tmftd4962m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/oualaniensis/111226tmftd4962m3a.jpg
     caption: Striped body with long tentacles. Tanah Merah, Dec 11
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/101013tmftd2358m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/oualaniensis/101013tmftd2358m3.jpg
     caption: Egg cases laid on seagrass. Tanah Merah, Oct 10 Egg cases laid on seagrass,
       already hatched. East Coast, Dec 08
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/251208melks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/oualaniensis/251208melks1.jpg
     caption: Marina East, De 25 Photo shared by Loh Kok Sheng on facebook . Egg cases
       laid on one another! Sentosa, Apr 09
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/251208melks1a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/oualaniensis/251208melks1a.jpg
     caption: Countless snails on Needle seagrass. Marina East, De 25 Photo shared
       by Loh Kok Sheng on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/251107tmftlks4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/oualaniensis/251107tmftlks4.jpg
     caption: Tanah Merah Ferry Terminal, Nov 25 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/200710mevc5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/oualaniensis/200710mevc5.jpg
     caption: East Coast-Marina East, Jul 20 Photo shared by Vincent Choo on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/061106tusd6519m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/oualaniensis/061106tusd6519m3.jpg
     caption: Tuas, Nov 06
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/081229lazlks01m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/oualaniensis/081229lazlks01m3.JPG
     caption: Lazarus, Dec 08 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/201116lazmn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/oualaniensis/201116lazmn1.jpg
     caption: Seringat-Kias, Nov 20 Photo shared by Marcus Ng on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/250430sjilll1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/oualaniensis/250430sjilll1.jpg
     caption: St John's Island, Apr 25 Photo shared by Low Liong Leong on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/091205sudd5427m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/oualaniensis/091205sudd5427m3.jpg
     caption: Pulau Sudong, Dec 09
 links_references: '**Links**
 

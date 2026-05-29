@@ -19,18 +19,18 @@ order: Sepiida
 suborder: Sepiina
 superfamily: Sepioidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutsmooth/030518cjd0026m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutsmooth/030518cjd0026m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutsmooth/030518cjd0026m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutsmooth/030518cjd0026m3.jpg
     caption: Chek Jawa, May 03
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutsmooth/110418tmftd9109m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutsmooth/110418tmftd9109m3.jpg
     caption: Tanah Merah, Apr 11
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutsmooth/100302ecplks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutsmooth/100302ecplks.JPG
     caption: East Coast Park, Mar 10 Photo shared by Loh Kok Sheng on flickr .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutsmooth/120511tpljk2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutsmooth/120511tpljk2m3.jpg
     caption: Terumbu Pempang Laut, May 12 Photo shared by James Koh on his blog .
 location:
 - sbw

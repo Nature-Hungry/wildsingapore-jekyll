@@ -24,19 +24,19 @@ superorder: Acanthomorpha
 order: Carangiformes
 suborder: Toxotoidei
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/110205krjd5871m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/toxotidae/jaculatrix/110205krjd5871m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/110205krjd5871m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/toxotidae/jaculatrix/110205krjd5871m3.jpg
     caption: Sungei Buloh Wetland Reserve, Feb 11
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/051208sbwrd0532m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/toxotidae/jaculatrix/051208sbwrd0532m6l.jpg
     caption: Sungei Buloh Wetland Reserve, Feb 05
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/090510sntik4m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/toxotidae/jaculatrix/090510sntik4m3.jpg
     caption: Sentosa Siloso, May 09 Photo shared by Ivan Kwan on his blog
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/170820kusmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/toxotidae/jaculatrix/170820kusmn.jpg
     caption: Juvenile. Kusu Island, Aug 17 Photo shared by Marcus Ng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/251207hntlks7.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/toxotidae/jaculatrix/251207hntlks7.jpg
     caption: Juvenile. Pulau Hantu, Dec 25 Photo shared by Loh Kok Sheng on facebook
       .
 links_references: '**Links**

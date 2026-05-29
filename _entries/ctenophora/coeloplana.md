@@ -15,19 +15,19 @@ phylum: Ctenophora
 class: Tentaculata
 order: Platyctenida
 updated: Mar 2020
-coverimg: http://www.wildsingapore.com/wildfacts/ctenophora/coeloplana/111128sntd4108m6la.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/ctenophora/coeloplana/111128sntd4108m6la.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/ctenophora/coeloplana/111128sntd4108m6la.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ctenophora/coeloplana/111128sntd4108m6la.jpg
     caption: Sentosa, Nov 11
-  - url: http://www.wildsingapore.com/wildfacts/ctenophora/coeloplana/120819cyrd0493m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ctenophora/coeloplana/120819cyrd0493m3.jpg
     caption: Cyrene Reef, Aug 12
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/ctenophora/coeloplana/100528ttkkd3747m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ctenophora/coeloplana/100528ttkkd3747m3.jpg
     caption: Pulau Tekukor, May 10
-  - url: http://www.wildsingapore.com/wildfacts/ctenophora/coeloplana/120722cyrd8101m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ctenophora/coeloplana/120722cyrd8101m3.jpg
     caption: Cyrene Reef, Jul 12
-  - url: http://www.wildsingapore.com/wildfacts/ctenophora/coeloplana/120819cyrd0430m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ctenophora/coeloplana/120819cyrd0430m3.jpg
     caption: Cyrene Reef, Aug 12
 links_references: '**Links**
 

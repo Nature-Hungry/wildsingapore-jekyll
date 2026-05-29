@@ -20,30 +20,30 @@ subterclass: Tectipleura
 superorder: Sacoglossa
 superfamily: Plakobranchoidea
 updated: Jun 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/thuridilla/120408sjid8606m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/thuridilla/120408sjid8606m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/thuridilla/120408sjid8606m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/thuridilla/120408sjid8606m3.jpg
     caption: St. John's Island, Apr 12
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/thuridilla/120707jngtch1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/thuridilla/120707jngtch1m3.jpg
     caption: Pulau Jong, Jun 12 Photo shared by Rene Ong on facebook .
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/thuridilla/250201bsisvc3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/thuridilla/250201bsisvc3.jpg
     caption: Big Sisters Island, Feb 25 Photo shared by Vincent Choo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/thuridilla/100528tkkjk.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/thuridilla/100528tkkjk.JPG
     caption: Pulau Tekukor, May 10 Photo shared by James Koh on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/thuridilla/150606tryjt2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/thuridilla/150606tryjt2m3.jpg
     caption: Terumbu Raya, Jun 15 Photo shared by Juria Toramae on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/thuridilla/130824smklks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/thuridilla/130824smklks.JPG
     caption: Pulau Semakau, Aug 13 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/thuridilla/241116smkslks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/thuridilla/241116smkslks1.jpg
     caption: Pulau Semakau (South), Nov 24 Photo shared by Loh Kok Sheng on facebook
       .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/thuridilla/091209pawlks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/thuridilla/091209pawlks1.jpg
     caption: Pulau Pawai, Dec 09 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/thuridilla/230122jngjll4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/thuridilla/230122jngjll4.jpg
     caption: Pulau Jong, Jan 23 Photo shared by Jianlin LIu on facebook .
 links_references: '**Links**
 

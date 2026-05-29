@@ -12,21 +12,21 @@ class: Ascidiacea
 family: Didemnidae
 genus: Didemnum
 species: psammatodes
-coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/beige/090623ecpd4904m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/beige/090623ecpd4904m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/beige/090623ecpd4904m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/beige/090623ecpd4904m3.jpg
     caption: East Coast, Jun 09
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/beige/090623ecpd4897m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/beige/090623ecpd4897m3a.jpg
     caption: East Coast, Jun 09
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/beige/120803chgd9293m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/beige/120803chgd9293m3.jpg
     caption: Changi, Aug 12
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/beige/070714bbd3972m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/beige/070714bbd3972m3.jpg
     caption: Beting Bronok, Jun 10
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/beige/050822cjg2070m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/beige/050822cjg2070m3.jpg
     caption: Flatworm on the ascidian. Chek Jawa, Aug 05
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/beige/101221tmfts02262m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/beige/101221tmfts02262m6l.jpg
     caption: These flatworms were seen on Beige sheet ascidians growing beneath a
       stone. Tanah Merah, Dec 10
 links_references: "**Links**\n- [*Didemnum psammatodes*](https://invasions.si.edu/nemesis/browseDB/SpeciesSummary.jsp?TSN=-333)\n\

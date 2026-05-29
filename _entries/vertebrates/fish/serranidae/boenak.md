@@ -23,7 +23,7 @@ superorder: Acanthomorpha
 order: Perciformes
 suborder: Percoidei
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/090606tmftd3105m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/serranidae/boenak/090606tmftd3105m3.jpg
 links_references: "**Links**  \n- [Chocolate\n  hind (*Cephalopholis boenak*)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=6444)\
   \ from [FishBase](http://www.fishbase.org/):\n  Technical fact sheet\n- [*Cephalopholis\
   \ boenak*](http://www.iucnredlist.org/details/39773/0) from IUCN Red List.\n- Lim,\
@@ -33,29 +33,29 @@ links_references: "**Links**  \n- [Chocolate\n  hind (*Cephalopholis boenak*)](h
   \n**References**\n- Lieske,\n  Ewald and Robert Myers. 2001. *Coral\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/090606tmftd3105m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/serranidae/boenak/090606tmftd3105m3.jpg
     caption: Tanah Merah, Jun 09
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/100527tmd3431m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/serranidae/boenak/100527tmd3431m6l.jpg
     caption: Dark spot on upper edge of gill cover. Tanah Merah, May 10
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/030616cjd0030m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/serranidae/boenak/030616cjd0030m6l.jpg
     caption: Small one near seagrasses. Chek Jawa, Jun 03
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/080519sisd3362m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/serranidae/boenak/080519sisd3362m3.jpg
     caption: Hiding among rocks. Sisters Islands, May 08
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/090527skdlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/serranidae/boenak/090527skdlks.JPG
     caption: Pulau Sekudu, May 09 Photo shared by Loh Kok Sheng on flickr .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/250628pcnal1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/serranidae/boenak/250628pcnal1.jpg
     caption: East Coast PCN, Jun 25 Photo shared by Adriane Lee on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/180616bblks12.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/serranidae/boenak/180616bblks12.jpg
     caption: Beting Bronok, Jun 18 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/250714srpal3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/serranidae/boenak/250714srpal3.jpg
     caption: Sentosa Serapong, Jul 25 Photo shared of Adriane Lee on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/240608kustl1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/serranidae/boenak/240608kustl1.jpg
     caption: Kusu Island, Jun 24 Photo shared by Tammy Lim on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/230509tsmkky1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/serranidae/boenak/230509tsmkky1.jpg
     caption: Terumbu Semakau, May 23 Photo shared by Kelvin Yong on facebook .
   gallery6:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1

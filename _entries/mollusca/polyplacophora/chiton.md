@@ -18,7 +18,7 @@ infraclass: Pteriomorphia
 order: Ostreida
 superfamily: Pinnoidea
 updated: Jun 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/120125chgd6162m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/120125chgd6162m6l.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -30,67 +30,67 @@ galleries:
       Most are tiny and hard to spot. They cling on tenaciously. Don't try to pry
       them off. Leave them alone!
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/120125chgd6162m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/120125chgd6162m6l.jpg
     caption: Changi, Jan 12
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/120125chgd6156m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/120125chgd6156m3.jpg
     caption: Underside.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/120125chgd6156.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/120125chgd6156.jpg
     caption: Mouth.
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/120125chgd6156m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/120125chgd6156m3b.jpg
     caption: Gills on the side of the body.
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/120125chgd6151m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/120125chgd6151m3.jpg
     caption: It can curl up.
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/090922sjid1569m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/090922sjid1569m3.jpg
     caption: The Jewelled chiton is enormous. St. John's Island, Sep 09
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/190123lazm6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/190123lazm6l.jpg
     caption: A large and small one found on artificial seawall. Seringat-Kias, Jan
       19
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/091203ubnlks2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/091203ubnlks2m3.jpg
     caption: Pulau Ubin, Dec 09 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/191214cjfl1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/191214cjfl1.jpg
     caption: Chek Jawa, Dec 19 Photo shared by Frances Loke on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/150619tuslks4m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/150619tuslks4m3.jpg
     caption: Tuas, Jun 15 Photo shared by Loh Kok Sheng on facebook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/100302ecpjk.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/100302ecpjk.jpg
     caption: East Coast Park, Mar 10 Photo shared by James Koh on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/090706tmjk1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/090706tmjk1m3.jpg
     caption: Tanah Merah, Jul 09 Photo shared by James Koh on flickr.
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/080603tmtch.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/080603tmtch.jpg
     caption: Tanah Merah, Jun 08 Photo shared by Toh Chay Hoon on flickr.
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/200210blyjll2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/200210blyjll2.jpg
     caption: Berlayar Creek, Feb 20 Photo shared by Jianlin Liu on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/200210blylks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/200210blylks2.jpg
     caption: Berlayar Creek, Feb 20 Photo shared by Loh Kok Sheng on facebook .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/100302tmlks1m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/100302tmlks1m6l.jpg
     caption: East Coast Park, Mar 10 Shared by Loh Kok Sheng on his flickr .
   gallery9:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/130501sntlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/130501sntlks.JPG
     caption: Sentosa, May 13 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/210625kusjll6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/210625kusjll6.jpg
     caption: Kusu Island, Jun 21 Photo shared by Jianlin Liu on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/170212bsisjll.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/170212bsisjll.jpg
     caption: Big Sisters Island, Feb 17 Photo shared by Jianlin Liu on facebook .
   gallery10:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/100528tkklks7m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/100528tkklks7m3.jpg
     caption: Pulau Tekukor, May 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/150718smkelks9m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/150718smkelks9m3.jpg
     caption: Pulau Semakau East, Jul 15 Photo shared by Loh Kok Sheng on facebook
       .
   gallery11:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/170628jngmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/170628jngmn.jpg
     caption: Pulau Jong, Jun 12 Photo shared by Marcus Ng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/120707jnglks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/120707jnglks.JPG
     caption: Pulau Jong, Jul 12 Photo shared by Loh Kok Sheng on flickr .
   gallery12:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/200823cyrvc1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/200823cyrvc1.jpg
     caption: Cyrene Reef, Aug 20 Photo shared by Vincent Choo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/161117rlhlks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/161117rlhlks2.jpg
     caption: Raffles Lighthouse, Nov 16 Photo shared by Loh Kok Sheng on facebook
       .
 links_references: '**Links**

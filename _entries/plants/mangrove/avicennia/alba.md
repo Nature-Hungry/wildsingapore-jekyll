@@ -24,33 +24,33 @@ order: Lamiales
 subfamily: Avicennioideae
 inat_id: 189583
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/090611prpd3840m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/alba/090611prpd3840m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/090114labd5287m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/alba/090114labd5287m3.jpg
     caption: Leaves very white underneath. Berlayar Creek, Jan 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/020511sbwrcpd9062m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/alba/020511sbwrcpd9062m3.jpg
     caption: Small flowers, spaced apart. Sungei Buloh Wetland Reserve, May 02
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/090307blyd7439m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/alba/090307blyd7439m3.jpg
     caption: Fruits with long pointed tips. Berlayar Creek, Mar 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/090517ubnd1913m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/alba/090517ubnd1913m3b.jpg
     caption: Pulau Ubin, May 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/020511sbwrcpd9062m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/alba/020511sbwrcpd9062m3a.jpg
     caption: Sungei Buloh Wetland Reserve, May 02
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/011107sbwrcpd583m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/alba/011107sbwrcpd583m3a.jpg
     caption: Sungei Buloh, Nov 01
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/090529prpd2908m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/alba/090529prpd2908m3a.jpg
     caption: Young pneumatophore.
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/090611prpd3845m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/alba/090611prpd3845m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/090611prpd3844m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/alba/090611prpd3844m3.jpg
     caption: Pasir Ris, May 09
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/110207krjd6049m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/alba/110207krjd6049m6l.jpg
     caption: Fallen over tree which recovered. Kranji Nature Trail, Feb 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/090322krjd8409m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/alba/090322krjd8409m3.jpg
     caption: May have stilt roots as well as pencil-like pneumatophores. Kranji Canal,
       Mar 09
 links_references: '**Links**
@@ -130,7 +130,7 @@ Seedlings form as soon as the fruit drops off the parent plant. In
 *A. alba*
 , the seedlings have hooked hairs so that the seedlings are often seen in entangled clumps.
 
-*![](http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/090611prpd3840m6l.jpg)
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/alba/090611prpd3840m6l.jpg)
 
 Pasir Ris, May 09*
 

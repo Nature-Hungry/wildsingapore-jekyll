@@ -17,26 +17,26 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/040522kusbd0064m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/caulastraea/040522kusbd0064m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/040522kusbd0064m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/caulastraea/040522kusbd0064m3.jpg
     caption: Kusu Island, May 04
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/040522kusad0062m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/caulastraea/040522kusad0062m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/040522kusad0062m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/caulastraea/040522kusad0062m3c.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/060713rlhg6334m3f.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/caulastraea/060713rlhg6334m3f.jpg
     caption: Raffles Lighthouse, Jul 06 Tentacles peeping out.
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/040606kusg0480m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/caulastraea/040606kusg0480m3.jpg
     caption: Kusu Island, Jun 04
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/090625bsrd5344m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/caulastraea/090625bsrd5344m3.jpg
     caption: Beting Bemban Besar, Jun 09 Trumpet shaped corallites.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/130527tmlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/caulastraea/130527tmlks.JPG
     caption: Tanah Merah, May 13 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/240527srplks6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/caulastraea/240527srplks6.jpg
     caption: Sentosa Serapong, May 24 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 

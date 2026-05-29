@@ -17,48 +17,48 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Jun 2025
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3.jpg
     caption: Terumbu Bemban, Apr 11
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3a.jpg
     caption: Brain-like meandering valleys, made up of large coin-like plates
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060356m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060356m3.jpg
     caption: During the day covered in bubbles.
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3c.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3b.jpg
     caption: ''
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/110607hntlks3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/plerogyra/110607hntlks3.JPG
     caption: Pulau Hantu, Jun 11
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/110607hntlks1.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/plerogyra/110607hntlks1.JPG
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/110607hntlks2.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/plerogyra/110607hntlks2.JPG
     caption: Photo shared by Loh Kok Sheng on flickr .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/140201smklks2.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/plerogyra/140201smklks2.JPG
     caption: Pulau Semakau, Feb 14 Photo shared by Loh Kok Sheng on flickr
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/140201smklks3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/plerogyra/140201smklks3.JPG
     caption: ''
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/260629smkelks1a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/plerogyra/260629smkelks1a.jpg
     caption: Pulau Semakau East, Jun 25 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150720smknlks4m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/plerogyra/150720smknlks4m3.jpg
     caption: Pulau Semakau North, Jul 15 Photo shared by Loh Kok Sheng on facebook
       .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/180520tsmk2lks.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/plerogyra/180520tsmk2lks.jpg
     caption: Terumbu Semakau, May 18 Photo shared by Loh Kok Sheng on facebook .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/140811trylks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/plerogyra/140811trylks.JPG
     caption: Terumbu Raya, Aug 14 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/121115tsmklks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/plerogyra/121115tsmklks.JPG
     caption: Terumbu Semakau, Nov 12 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/121115tsmklks1.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/plerogyra/121115tsmklks1.JPG
     caption: Terumbu Semakau, Nov 12 Photo shared by Loh Kok Sheng on flickr .
 links_references: '**Links**
 

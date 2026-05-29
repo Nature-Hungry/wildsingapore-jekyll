@@ -16,35 +16,35 @@ class: Demospongiae
 subclass: Keratosa
 order: Dictyoceratida
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/porifera/branchbrown/020101cjcpd3703m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/branchbrown/020101cjcpd3703m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/branchbrown/050610sntg7665m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/branchbrown/050610sntg7665m3.jpg
     caption: Sentosa, Jun 05
-  - url: http://www.wildsingapore.com/wildfacts/porifera/branchbrown/050610sntg7665m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/branchbrown/050610sntg7665m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/porifera/branchbrown/020101cjcpd3703m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/branchbrown/020101cjcpd3703m3a.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/branchbrown/070317sntg8089m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/branchbrown/070317sntg8089m3.jpg
     caption: Sentosa, Mar 07
-  - url: http://www.wildsingapore.com/wildfacts/porifera/branchbrown/100812tpld0265m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/branchbrown/100812tpld0265m3.jpg
     caption: Terumbu Pempang Laut, Aug 10
-  - url: http://www.wildsingapore.com/wildfacts/porifera/branchbrown/091204pawd5336m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/branchbrown/091204pawd5336m3.jpg
     caption: Pulau Pawai, Dec 09
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/branchbrown/100130brkd8570m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/branchbrown/100130brkd8570m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: http://www.wildsingapore.com/wildfacts/porifera/branchbrown/100131slud8864m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/branchbrown/100131slud8864m3.jpg
     caption: Terumbu Salu, Jan 10
-  - url: http://www.wildsingapore.com/wildfacts/porifera/branchbrown/100601slud4732m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/branchbrown/100601slud4732m3.jpg
     caption: Pulau Salu, Jun 10
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/branchbrown/100613sngd5511m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/branchbrown/100613sngd5511m3.jpg
     caption: Pulau Senang, Jun 10
-  - url: http://www.wildsingapore.com/wildfacts/porifera/branchbrown/100613sngd5637m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/branchbrown/100613sngd5637m3.jpg
     caption: Pulau Senang, Jun 10
-  - url: http://www.wildsingapore.com/wildfacts/porifera/branchbrown/101108bkoms00719m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/branchbrown/101108bkoms00719m3.jpg
     caption: Terumbu Bukom, Nov 10
 links_references: '**Links**
 
@@ -102,7 +102,7 @@ Another species that may appear similar is
 *Dactylospongia elegans*
 .
 
-![](http://www.wildsingapore.com/wildfacts/porifera/branchbrown/020101cjcpd3703m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/porifera/branchbrown/020101cjcpd3703m3.jpg)
 
 *Chek Jawa, Jan 02*
 

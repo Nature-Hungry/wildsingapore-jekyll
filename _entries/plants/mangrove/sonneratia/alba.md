@@ -23,19 +23,19 @@ class: Magnoliopsida
 order: Myrtales
 inat_id: 196661
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/alba/090117smkd5432m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/alba/090117smkd5432m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/alba/050626smkg4450m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/alba/050626smkg4450m3.jpg
     caption: Calyx sepals pinkish on the inside. Pulau Semakau, Jun 05
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/alba/090117smkd5551m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/alba/090117smkd5551m3.jpg
     caption: Petals inconspicuous, white. Pulau Hantu, Apr 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/alba/090117smkd5509m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/alba/090117smkd5509m3.jpg
     caption: Flower just about to bloom. Pulau Semakau, Jan 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/alba/090411lckd9580m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/alba/090411lckd9580m3.jpg
     caption: Calyx lobes bend backwards towards the stalk. Lim Chu Kang, Apr 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/alba/090412hntd9894m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/alba/090412hntd9894m3.jpg
     caption: Opened fruit on the shore. Pulau Hantu, Apr 09
 links_references: '**Links**
 
@@ -132,11 +132,11 @@ There are two Perepat trees with
 [Heritage Tree status](http://www.nparks.gov.sg/cms/index.php?option=com_content&view=article&id=96&Itemid=79)
 . They are at Pulau Ubin, near House No. 1 one with a girth of 5m and height 14m, another with a girth 4.25m and height 16m.
 
-*![](http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/alba/090117smkd5432m6l.jpg)
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/alba/090117smkd5432m6l.jpg)
 
 Pulau Semakau, Jan 09
 
-![](http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/alba/121216ubnd2662m3.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/alba/121216ubnd2662m3.jpg)*
 Young leaf pale green with pink blush at tips.
 *Pulau Ubin, Dec 12*
 

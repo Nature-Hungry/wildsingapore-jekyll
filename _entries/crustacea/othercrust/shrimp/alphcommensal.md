@@ -25,14 +25,14 @@ suborder: Pleocyemata
 infraorder: Caridea
 superfamily: Alpheoidea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphcommensal/110603chgd3749m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphcommensal/110603chgd3749m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphcommensal/110603chgd3749m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphcommensal/110603chgd3749m6l.jpg
     caption: Changi, Jun 11
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphcommensal/110603chgd3749m6la.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphcommensal/110603chgd3749m6la.jpg
     caption: Changi, Jun 11
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphcommensal/080521chgd3548m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphcommensal/080521chgd3548m3a.jpg
     caption: Changi, May 08 Under a stone.
 location:
 - pgl

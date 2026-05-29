@@ -24,12 +24,12 @@ zoosection: Eubrachyura
 zoosubsection: Thoracotremata
 superfamily: Grapsoidea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/metaplax/130202mndd3914m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/varunidae/metaplax/130202mndd3914m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/metaplax/130202mndd3914m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/varunidae/metaplax/130202mndd3914m3.jpg
     caption: Orange signaller crab
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/070604chgg0129m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/varunidae/varuna/070604chgg0129m3.jpg
     caption: Paddler crab
 links_references: "**Links**\n- [Paddler crab (\n*Varuna yui)*](http://mangrove.nus.edu.sg/guidebooks/text/2046)\n\
   ,\n[Orange signaller crab (\n*Metaplax elegans*\n)](http://mangrove.nus.edu.sg/guidebooks/text/2051)\n\

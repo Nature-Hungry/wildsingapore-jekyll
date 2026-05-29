@@ -25,54 +25,54 @@ galleries:
       affect urban living. They grow on ships and thus affect shipping. Cities rely
       on ships for supplies and transportation!
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/050510tusg6173m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/050510tusg6173m3.jpg
     caption: A variety of barnacles. Tuas, May 05
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/tetraclita/020425cjd8321m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/tetraclita/020425cjd8321m3.jpg
     caption: The large Volcano barnacle has a honey-combed internal structure Chek
       Jawa, Apr 02
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/tetraclita/050510tusg6179m3d.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/tetraclita/050510tusg6179m3d.jpg
     caption: A pair of plates form the operculum that seals the shell opening. Tuas,
       May 05
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/080718wdld7698m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/balanus/080718wdld7698m3.jpg
     caption: Feathery feet of a barnacle. Woodlands, Jul 08
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/sponge/050509hntg5946m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/sponge/050509hntg5946m3b.jpg
     caption: Feathery feet of barnacles in a living sponge. Pulau Hantu, May 05
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/090622chgd4692m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/balanus/090622chgd4692m3a.jpg
     caption: Feathery feet of a barnacle on a living crab. Changi, Jul 09
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/others/120223sltd7372m6la.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/others/120223sltd7372m6la.jpg
     caption: Like other crustaceans, barnacles also moult! Is the long structure its
       penis?! Seletar, Feb 12
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/others/120223sltd7366m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/others/120223sltd7366m3.jpg
     caption: ''
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/others/050512tmg6400.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/others/050512tmg6400.jpg
     caption: Periwinkles sheltering next to barnacles, with a small one inside shell
       of a dead barnacle. Changi, Jun 05
   - url: http://www.wildsingapore.com/mollusca/gastropoda/nassariidae/olivaceaus/050609cftg7531m3b.jpg
     caption: Barnacles on a living snail. Changi, Jun 05
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/parasitic/050428cftg5303m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/parasitic/050428cftg5303m3a.jpg
     caption: Tiny egg sacs of a parasitic barnacle emerging through the joints of
       the crab that it infested. Changi, Apr 05
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/050510tusg6179m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/balanus/050510tusg6179m3a.jpg
     caption: Acorn barnacle
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/euraphia/040502cjd0146m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/euraphia/040502cjd0146m3.jpg
     caption: Star barnacle
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/tetraclita/050510tusg6179m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/tetraclita/050510tusg6179m3c.jpg
     caption: Volcano barnacle
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/lepas/040703sisd1824m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/lepas/040703sisd1824m3.jpg
     caption: Goose barnacle
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/parasitic/050622cftg8139m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/parasitic/050622cftg8139m3b.jpg
     caption: Acorn barnacles on a living crab
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/parasitic/050206cjd0034m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/parasitic/050206cjd0034m3.jpg
     caption: Some barnacles are internal parasites !
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/coral/070618rlhg0562m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/coral/070618rlhg0562m3a.jpg
     caption: Coral barnacles
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/sponge/080519sisd3438m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/sponge/080519sisd3438m3b.jpg
     caption: Barnacles in a sponge
 links_references: '**Links**
 

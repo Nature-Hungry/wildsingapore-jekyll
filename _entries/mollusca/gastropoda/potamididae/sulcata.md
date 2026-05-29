@@ -17,23 +17,23 @@ class: Gastropoda
 subclass: Caenogastropoda
 superfamily: Cerithioidea
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/sulcata/050310smkg3209m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/sulcata/050310smkg3209m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/sulcata/050310smkg3209m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/sulcata/050310smkg3209m3.jpg
     caption: Pulau Semakau, Mar 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/sulcata/090307blyd7455m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/sulcata/090307blyd7455m3.jpg
     caption: Unlike the similarly shaped Chut-chut , the Belitong has a distinctive
       peristome Berlayar Creek, Mar 09
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/sulcata/090307blyd7454m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/sulcata/090307blyd7454m3.jpg
     caption: Berlayar Creek, Mar 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/sulcata/250909lazrk1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/sulcata/250909lazrk1.jpg
     caption: Seringat-Kias mangrove lagoon, Sep 25 Photo shared by Richard Kuah on
       facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/sulcata/2104hntvc2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/sulcata/2104hntvc2.jpg
     caption: Pulau Hantu, Apr 21 Photo shared by Vincent Choo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/sulcata/091205sudikw2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/sulcata/091205sudikw2m3.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by Ivan Kwan on his flickr .
 links_references: '**Links**
 

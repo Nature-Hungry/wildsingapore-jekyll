@@ -17,7 +17,7 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Jan 12
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrerecta/050624tusg8537m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/avrerecta/050624tusg8537m3.jpg
 links_references: '**Links**
 
   - [*Avrainvillea*](http://mangrove.nus.edu.sg/pub/seashore/text/102)
@@ -111,11 +111,11 @@ other fan-shaped green seaweeds. Here's more on
 [how to tell apart fan-shaped green seaweeds](cffan)
 .
 
-***![](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrerecta/050624tusg8537m3.jpg)*
+***![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/avrerecta/050624tusg8537m3.jpg)*
 
 [Solitary fan green seaweed](avrerecta)
 
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrcluster/050610sntd3928m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/avrcluster/050610sntd3928m3.jpg)
 
 [Clustered fan green seaweed](avrcluster)**
 

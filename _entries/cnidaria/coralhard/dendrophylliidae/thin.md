@@ -17,21 +17,21 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Sep 2025
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/060712tusd4103m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/thin/060712tusd4103m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/060712tusd4103m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/thin/060712tusd4103m3.jpg
     caption: Tuas, Jul 06
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/120505sisd0926m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/thin/120505sisd0926m3.jpg
     caption: Sisters Island, May 12
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/040409tusad0074m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/thin/040409tusad0074m3.jpg
     caption: Tuas, Apr 04
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/100615tmlks3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/thin/100615tmlks3m3.jpg
     caption: Tanah Merah, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/080802sjid8859m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/thin/080802sjid8859m3.jpg
     caption: St. John's Island, Aug 08
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/040803tusd3981m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/thin/040803tusd3981m3.jpg
     caption: Tuas, Aug 04
 links_references: '**Links**
 

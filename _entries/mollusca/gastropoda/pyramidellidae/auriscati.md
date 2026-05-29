@@ -20,17 +20,17 @@ subterclass: Tectipleura
 superorder: Pylopulmonata
 superfamily: Pyramidelloidea
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/pyramidellidae/otopleura/091206tmd5714m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/pyramidellidae/otopleura/091206tmd5714m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/pyramidellidae/otopleura/091206tmd5714m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/pyramidellidae/otopleura/091206tmd5714m3.jpg
     caption: Tanah Merah, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/pyramidellidae/otopleura/110220lazd6332m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/pyramidellidae/otopleura/110220lazd6332m3.jpg
     caption: Lazarus, Feb 11
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/pyramidellidae/otopleura/110126hntd5220m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/pyramidellidae/otopleura/110126hntd5220m3.jpg
     caption: Mating? Pulau Hantu, Jan 11
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/pyramidellidae/otopleura/120618tmmn1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/pyramidellidae/otopleura/120618tmmn1m3.jpg
     caption: Tanah Merah, Jun 12 Photo shared by Marcus Ng on facebook .
 links_references: '**Links**
 

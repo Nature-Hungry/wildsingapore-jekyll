@@ -17,45 +17,45 @@ subphylum: Rhabditophora
 order: Polycladida
 suborder: Cotylea
 updated: Feb 2020
-coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/031126tusad0089m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/bifurcus/031126tusad0089m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/031126tusad0089m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/bifurcus/031126tusad0089m3.jpg
     caption: Tuas, Nov 03
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/031126tusad0089m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/bifurcus/031126tusad0089m3a.jpg
     caption: Central line white becoming orange/red near the head, edged with dark
       purple border.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/190801chglks3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/bifurcus/190801chglks3.jpg
     caption: Changi, Aug 19 Shared by Loh Kok Sheng on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/120704chgnml1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/bifurcus/120704chgnml1m3.jpg
     caption: Changi, Jul 12 Photo shared by Neo Mei Lin on her blog .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/190801chgjll3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/bifurcus/190801chgjll3.jpg
     caption: Changi, Aug 19 Photo shared by Jianlin Liu on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/191214cjlks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/bifurcus/191214cjlks2.jpg
     caption: Chek Jawa, Dec 19 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/190706skdjll1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/bifurcus/190706skdjll1.jpg
     caption: Pulau Sekudu, Jul 19 Photo shared by Jianlin Liu on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/170723ubnlks5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/bifurcus/170723ubnlks5.jpg
     caption: Pulau Ubin, Jul 17 Shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/170529srplks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/bifurcus/170529srplks1.jpg
     caption: Sentosa Serapong, May 17 Shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/170529srplks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/bifurcus/170529srplks2.jpg
     caption: Sentosa Serapong, May 17 Shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/160509srpmn10.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/bifurcus/160509srpmn10.jpg
     caption: Sentosa Serapong, May 16 Photo shared by Marcus Ng on facebook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/240527srpky1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/bifurcus/240527srpky1.jpg
     caption: Sentosa Serapong, May 24 Photo shared by Kelvin Yong on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/240113lazky3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/bifurcus/240113lazky3.jpg
     caption: Lazarus Island, Jan 24 Shared by Kelvin Yong on facebook .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/200310lazvc5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/bifurcus/200310lazvc5.jpg
     caption: Beting Bemban Besar, Mar 20 Shared by Vincent Choo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/080220smkpoc1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/bifurcus/080220smkpoc1m3.jpg
     caption: Pulau Semakau, Feb 08 Shared by Lim Swee Cheng on his flickr .
 links_references: "**Links**\n- [*Pseudoceros bifurcus*](http://polycladida.lifedesks.org/pages/4224)\n\
   on Encyclopedia of Life, LifeDesks, Marine Flatworms - Polycladida: Technical fact\

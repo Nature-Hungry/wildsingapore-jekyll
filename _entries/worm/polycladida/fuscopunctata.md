@@ -17,34 +17,34 @@ subphylum: Rhabditophora
 order: Polycladida
 suborder: Cotylea
 updated: Feb 2020
-coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/fuscopunctata/050819cjg1561m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/fuscopunctata/050819cjg1561m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fuscopunctata/050819cjg1561m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/fuscopunctata/050819cjg1561m3.jpg
     caption: Chek Jawa, Aug 05
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fuscopunctata/200126bsisro2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/fuscopunctata/200126bsisro2.jpg
     caption: Big Sisters Island, Jan 20 Shared by Rene Ong on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fuscopunctata/200126bsisro2a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/fuscopunctata/200126bsisro2a.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fuscopunctata/180714cjro1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/fuscopunctata/180714cjro1.jpg
     caption: Chek Jawa, Jul 18 Shared by Rene Ong on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fuscopunctata/180714cjro1a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/fuscopunctata/180714cjro1a.jpg
     caption: Underside.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fuscopunctata/180714cjro2a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/fuscopunctata/180714cjro2a.jpg
     caption: Underside.
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fuscopunctata/180714cjro2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/fuscopunctata/180714cjro2.jpg
     caption: Chek Jawa, Jul 18 Shared by Rene Ong on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fuscopunctata/210626cjtch5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/fuscopunctata/210626cjtch5.jpg
     caption: Chek Jawa, Jun 21 Shared by Toh Chay Hoon on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fuscopunctata/180714cjdc1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/fuscopunctata/180714cjdc1.jpg
     caption: Chek Jawa, Jul 18 Shared by Dayna Cheah on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fuscopunctata/230122jngjll1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/fuscopunctata/230122jngjll1.jpg
     caption: Pulau Jong, Jan 23 Shared by Jianlin Liu on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fuscopunctata/210501tbtch4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/fuscopunctata/210501tbtch4.jpg
     caption: Terumbu Bemban, May 21 Shared by Toh Chay Hoon on facebook .
 links_references: "**Links**\n- [*Maritigrella fuscopunctata*](http://polycladida.lifedesks.org/pages/3313)\n\
   on Encyclopedia of Life, LifeDesks, Marine Flatworms - Polycladida: Technical fact\

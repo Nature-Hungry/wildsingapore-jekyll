@@ -29,30 +29,30 @@ zoosubsection: Thoracotremata
 superfamily: Grapsoidea
 subfamily: Varuninae
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/070604chgg0129m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/varunidae/varuna/070604chgg0129m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/070604chgg0129m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/varunidae/varuna/070604chgg0129m3.jpg
     caption: Changi Jun 07
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/070604chgg0129m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/varunidae/varuna/070604chgg0129m3b.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/070604chgg0129m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/varunidae/varuna/070604chgg0129m3c.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/240526bbb1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/varunidae/varuna/240526bbb1.jpg
     caption: Clinging onto a floating coconut . Beting Bemban Besar, May 24
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/240526bbb1a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/varunidae/varuna/240526bbb1a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/240526bbb2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/varunidae/varuna/240526bbb2.jpg
     caption: Clinging onto floating trash. Beting Bemban Besar, May 24
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/250627bbio5a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/varunidae/varuna/250627bbio5a.jpg
     caption: On floating trash. Beting Bronok, Jun 25 Photo shared by Isaac Ong on
       facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/251009sjiky3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/varunidae/varuna/251009sjiky3.jpg
     caption: On a Nipah palm fruit. St. John's Island, Oct 25 Photo shared by Kelvin
       Yong on facebook
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/250503cyrml2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/varunidae/varuna/250503cyrml2.jpg
     caption: On floating trash. Cyrene, May 25 Photo shared by Mathias Luk on facebook
 links_references: '**Links**
 

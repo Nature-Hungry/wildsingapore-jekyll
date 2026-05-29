@@ -16,24 +16,24 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/porifera/branchpurple/060129skdd6619m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/branchpurple/060129skdd6619m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/050822cjg2143m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/synsponge/050822cjg2143m3.jpg
     caption: Sometimes draped with synaptid sea cucumbers Chek Jawa, Aug 05
-  - url: http://www.wildsingapore.com/wildfacts/porifera/branchpurple/020228cjcpd7746m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/branchpurple/020228cjcpd7746m3.jpg
     caption: Chek Jawa, Feb 02
-  - url: http://www.wildsingapore.com/wildfacts/porifera/branchpurple/060129skdd6619m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/branchpurple/060129skdd6619m3a.jpg
     caption: Pulau Sekudu, Jan 06
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/branchpurple/040620skdd0755m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/branchpurple/040620skdd0755m3.jpg
     caption: Pulau Sekudu, Jun 04
-  - url: http://www.wildsingapore.com/wildfacts/porifera/branchpurple/031223tused0056m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/branchpurple/031223tused0056m3.jpg
     caption: Tuas, Dec 03
-  - url: http://www.wildsingapore.com/wildfacts/porifera/branchpurple/060723skdd4782m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/branchpurple/060723skdd4782m3.jpg
     caption: Pulau Sekudu, Jul 06
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/branchpurple/210529epcnvc11.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/branchpurple/210529epcnvc11.jpg
     caption: East Coast (PCN), May 21 Photo shared by Vincent Choo on facebook ..
 links_references: '**Links**
 
@@ -83,7 +83,7 @@ These sponges are draped with
 [sponge synaptid sea cucumbers](../echinodermata/holothuroidea/synsponge)
 at some times of the year.
 
-![](http://www.wildsingapore.com/wildfacts/porifera/branchpurple/060129skdd6619m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/porifera/branchpurple/060129skdd6619m3.jpg)
 
 *Pulau Sekudu, Jan 06*
 

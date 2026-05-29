@@ -18,7 +18,7 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Calyptraeoidea
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/calyptraea/050429chgg5381m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/calyptraeidae/calyptraea/050429chgg5381m6l.jpg
 links_references: "**Links**\n- [Family\n  Crepidulidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Crepidulidae.html)\
   \ on the Archerd Shell Collection website: brief\n  description and photos.\n\n\
   **References**\n- Tan Siong\n  Kiat and Henrietta P. M. Woo, 2010 *Preliminary\n\
@@ -30,22 +30,22 @@ links_references: "**Links**\n- [Family\n  Crepidulidae](http://shells.tricity.w
   \ L. & Y. C. Wee, 1994. *The\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/calyptraea/050429chgg5381m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/calyptraeidae/calyptraea/050429chgg5381m6l.jpg
     caption: Two different kinds of slipper snails on this shell occupied by a hermit
       crab. Changi, Apr 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/crepidula/050315cjd1823m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/calyptraeidae/crepidula/050315cjd1823m3a.jpg
     caption: The smaller shell is usually the male. Chek Jawa, Mar 05
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/crepidula/130923tmftd3409.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/calyptraeidae/crepidula/130923tmftd3409.jpg
     caption: Tanah Merah, Sep 13
   - url: http://www.wildsingapore.com/arthropoda/limulidae/tachypleus/090428chgd0767m3e.jpg
     caption: On a horseshoe crab . Changi, Jul 04
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/calyptraea/180811chg.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/calyptraeidae/calyptraea/180811chg.jpg
     caption: On a living scallop . Changi, Aug 18
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/calyptraea/100926cjd1682m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/calyptraeidae/calyptraea/100926cjd1682m3.jpg
     caption: Conical slipper snail
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/crepidula/050315cjd1823m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/calyptraeidae/crepidula/050315cjd1823m3.jpg
     caption: Flat slipper snail
   gallery4:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1

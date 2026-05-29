@@ -17,32 +17,32 @@ subphylum: Rhabditophora
 order: Polycladida
 suborder: Cotylea
 updated: Feb 2020
-coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/virgulata/091018smklks1m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/virgulata/091018smklks1m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/virgulata/091018smklks1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/virgulata/091018smklks1m3.jpg
     caption: Pulau Semakau, Oct 09
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/virgulata/091018smklks1m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/virgulata/091018smklks1m3a.jpg
     caption: Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/virgulata/070704jngg1090m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/virgulata/070704jngg1090m3.jpg
     caption: Pulau Jong, Jul 07
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/virgulata/150220lsislks3m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/virgulata/150220lsislks3m3.JPG
     caption: Little Sisters Island, Feb 15 Photo shared by Loh Kok Sheng on his blog
       .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/virgulata/090922sjijk1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/virgulata/090922sjijk1m3.jpg
     caption: St. John's Island, Sep 09 Photo shared by James Koh on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/virgulata/200112sjijc1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/virgulata/200112sjijc1.jpg
     caption: St. John's Island, Jan 20 Photo shared by Joleen Chan on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/virgulata/220419sjijll2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/virgulata/220419sjijll2.jpg
     caption: St. John's Island, Apr 22 Photo shared by Jianlin Liu on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/virgulata/150422jngnml1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/virgulata/150422jngnml1m3.jpg
     caption: Pulau Jong, Apr 15 Photo shared by Neo Mei Lin on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/virgulata/190622jnglks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/virgulata/190622jnglks1.jpg
     caption: Pulau Jong, Jun 19* Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/virgulata/190902trydc1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/virgulata/190902trydc1.jpg
     caption: Terumbu Raya, Sep 19 Photo shared by Dayna Cheah on facebook .
 location:
 - skd

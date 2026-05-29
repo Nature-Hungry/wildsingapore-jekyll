@@ -22,46 +22,46 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ephippidae/platax/120408sjid8416.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ephippidae/platax/120408sjid8416.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ephippidae/platax/120408sjid8416.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ephippidae/platax/120408sjid8416.jpg
     caption: St John's Island, Apr 12
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ephippidae/platax/110814smkd8916.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ephippidae/platax/110814smkd8916.jpg
     caption: Pulau Semakau, Aug 11
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ephippidae/platax/070520smkg9473m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ephippidae/platax/070520smkg9473m6l.jpg
     caption: Pulau Semakau, May 07
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ephippidae/platax/091011mkbd2712m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ephippidae/platax/091011mkbd2712m3.jpg
     caption: Marina at Keppel Bay, Oct 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ephippidae/platax/120408sjid8407m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ephippidae/platax/120408sjid8407m3.jpg
     caption: St. John's Island, Apr 12
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ephippidae/platax/160508kusd1906.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ephippidae/platax/160508kusd1906.jpg
     caption: Resembles a floating leaf. Kusu Island, May 16
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ephippidae/platax/110831tmnbd0775m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ephippidae/platax/110831tmnbd0775m3.jpg
     caption: Tanah Merah, Aug 11
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ephippidae/platax/110831tmnbd0776m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ephippidae/platax/110831tmnbd0776m3.jpg
     caption: A tiny Batfish swallowing a fish almost as large as itself!
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ephippidae/platax/110831tmnbd0786m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ephippidae/platax/110831tmnbd0786m3.jpg
     caption: Finished swallowing its prey!
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ephippidae/platax/090807tmjk4m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ephippidae/platax/090807tmjk4m3.jpg
     caption: Tanah Merah, Aug 09 Photo shared by James Koh on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ephippidae/platax/120818lazlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ephippidae/platax/120818lazlks.JPG
     caption: Seringat-Kias, Aug 12 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ephippidae/platax/240820kustt1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ephippidae/platax/240820kustt1.jpg
     caption: Kusu Island, Aug 24 Photo shared by Tommy Tan on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ephippidae/platax/250430sjiml8.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ephippidae/platax/250430sjiml8.jpg
     caption: St John's Island, Apr 25 Photo shared by Mathias Luk on facebook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ephippidae/platax/081114cyrlks06m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ephippidae/platax/081114cyrlks06m3.JPG
     caption: Cyrene Reef, Nov 08 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ephippidae/platax/241116smksky2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ephippidae/platax/241116smksky2.jpg
     caption: Pulau Semakau (South), Nov 24 Photo shared by Kelvin Yong on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ephippidae/platax/240526bbbrg1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ephippidae/platax/240526bbbrg1.jpg
     caption: Beting Bemban Besar, May 24 Photo shared by Rachael Goh on facebook .
 links_references: '**Links**
 

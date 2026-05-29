@@ -17,60 +17,60 @@ subphylum: Rhabditophora
 order: Polycladida
 suborder: Cotylea
 updated: Feb 2020
-coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/060810rlhd5700m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/triplestripe/060810rlhd5700m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/060810rlhd5700m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/triplestripe/060810rlhd5700m3.jpg
     caption: Raffles Lighthouse, Aug 06
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/060810rlhd5700m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/triplestripe/060810rlhd5700m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/160124smkelks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/triplestripe/160124smkelks2.jpg
     caption: Pulau Semakau East, Jan 16 Photo shared by Loh Kok Sheng on facebook
       .
   gallery2:
   - url: https://live.staticflickr.com/7565/27543298016_5f69908b1c_z.jpg
     caption: ''
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/160625tkklks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/triplestripe/160625tkklks1.jpg
     caption: Pulau Tekukor, Jun 16 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/210824tkktch1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/triplestripe/210824tkktch1.jpg
     caption: Pulau Tekukor, Aug 21 Photo shared by Toh Chay Hoon on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/130211sjilks1m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/triplestripe/130211sjilks1m3.JPG
     caption: St. John's Island, Feb 13 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/220419sjijll1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/triplestripe/220419sjijll1.jpg
     caption: St. John's Island, Apr 22 Photo shared by Jianlin Liu on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/251009sjijll1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/triplestripe/251009sjijll1.jpg
     caption: St. John's Island, Oct 25 Photo shared by Jianlin Liu on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/250909lazml1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/triplestripe/250909lazml1.jpg
     caption: Seringat-Kias mangrove lagoon, Sep 25 Photo shared by Mathias Luk on
       facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/230901kustl1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/triplestripe/230901kustl1.jpg
     caption: Kusu Island, Sep 23 Photo shared by Tammy Lim on facebook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/090509sislks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/triplestripe/090509sislks1.jpg
     caption: Sisters Island, May 09 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/250201bsisvc1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/triplestripe/250201bsisvc1.jpg
     caption: Big Sisters Island, Feb 25 Photo shared by Vincent Choo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/250810bsisjll1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/triplestripe/250810bsisjll1.jpg
     caption: Big Sisters Island, Aug 25 Photo shared by Jianlin Liu on facebook .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/120707jnglks4m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/triplestripe/120707jnglks4m3.JPG
     caption: Pulau Jong, Jun 12 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/210812jngjk1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/triplestripe/210812jngjk1.jpg
     caption: Pulau Jong, Aug 21 Photo shared by James Koh on flickr
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/250331hntjll1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/triplestripe/250331hntjll1.jpg
     caption: Pulau Hantu, Apr 25 Photo shared by Jianlin Liu on facebook .
   gallery9:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/241116smksvc2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/triplestripe/241116smksvc2.jpg
     caption: Pulau Semakau (South), Nov 24 From video shared by Vincent Choo on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/230708smketch1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/triplestripe/230708smketch1.jpg
     caption: Pulau Semakau East, Jul 23 Photo shared by Chay Hoon on facebook .
   gallery10:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/240412tbtl1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/triplestripe/240412tbtl1.jpg
     caption: Terumbu Bemban, Apr 24 Photo shared by Tammy Lim on facebook .
 location:
 - tkr

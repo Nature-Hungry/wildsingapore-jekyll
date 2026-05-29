@@ -18,20 +18,20 @@ subclass: Coleoidea
 superorder: Decapodiformes
 order: Myopsida
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqindian/030712hntbd0022m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/sqindian/030712hntbd0022m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqindian/030712hntbd0022m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/sqindian/030712hntbd0022m3.jpg
     caption: Pulau Hantu, Jul 03
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqindian/091008tmd2517.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/sqindian/091008tmd2517.jpg
     caption: Tanah Merah, Oct 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqindian/130624chglks2.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/sqindian/130624chglks2.JPG
     caption: Changi, Jun 13 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqindian/150802bblks1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/sqindian/150802bblks1m3.jpg
     caption: Beting Bronok, Aug 15 Photo shared by Loh Kok Sheng on his blog .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqindian/110522bbblks5m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/sqindian/110522bbblks5m3.jpg
     caption: Beting Bemban Besar, May 11 Photo shared by Loh Kok Sheng on his blog
       .
 links_references: '**Links**

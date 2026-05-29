@@ -19,96 +19,96 @@ order: Neogastropoda
 superfamily: Muricoidea
 subfamily: Muricinae
 updated: Aug 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chicoreus/090806tmd8396m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chicoreus/090806tmd8396m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chicoreus/090806tmd8396m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chicoreus/090806tmd8396m3.jpg
     caption: Tanah Merah, Aug 09
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chicoreus/090806tmd8397m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chicoreus/090806tmd8397m3.jpg
     caption: Tanah Merah, Aug 09
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chicoreus/110220lazd6351m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chicoreus/110220lazd6351m3.jpg
     caption: Lazarus Island, Feb 11
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chicoreus/170726cyro7260104m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chicoreus/170726cyro7260104m3.jpg
     caption: Many snails clustered together laying egg capsules. Cyrene Reef, Jul
       17
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chicoreus/170726cyro7260099m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chicoreus/170726cyro7260099m3.jpg
     caption: Egg capsules Cyrene Reef, Jul 17
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chicoreus/120423tmftd0067m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chicoreus/120423tmftd0067m3.jpg
     caption: Eating a Bazillion snail ? Tanah Merah, Apr 12
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chicoreus/150520ecpbsjll1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chicoreus/150520ecpbsjll1m3.jpg
     caption: East Coast Park (B), May 15 Photo shared by Jianlin Liu on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chicoreus/251108ecpbky5a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chicoreus/251108ecpbky5a.jpg
     caption: East Coast Park (B), Nov 25 Photo shared by Kelvin Yong on facebook
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chicoreus/200710mevc8.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chicoreus/200710mevc8.jpg
     caption: East Coast Park-Marina East, Jul 20 Photo shared by Vincent Choo on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chicoreus/251208meky3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chicoreus/251208meky3.jpg
     caption: Marina East, Dec 2025 Photo shared by Kelvin Yong on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chicoreus/201117labvc1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chicoreus/201117labvc1.jpg
     caption: Labrador, Nov 22 Photo shared by Vincent Choo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chicoreus/200210blylks3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chicoreus/200210blylks3.jpg
     caption: Berlayar Creek, Feb 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chicoreus/220103sntlks3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chicoreus/220103sntlks3.jpg
     caption: Sentosa Tg Rimau, Jan 22 Photo shared by Loh Kok Sheng on facebook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chicoreus/250201bsisky2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chicoreus/250201bsisky2.jpg
     caption: Big Sisters Island, Feb 25 Photo shared by Kelvin Yong on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chicoreus/101107tburjk.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chicoreus/101107tburjk.JPG
     caption: Terumbu Buran, Nov 10 Photo shared by James Koh on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chicoreus/240528tslrk4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chicoreus/240528tslrk4.jpg
     caption: Terumbu Selegie, May 24 Photo shared by Richard Kuah on facebook .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chicoreus/121023tkkmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chicoreus/121023tkkmn.jpg
     caption: Pulau Tekukor, Oct 12 Photo shared by Marcus Ng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chicoreus/090529sjilks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chicoreus/090529sjilks.JPG
     caption: St John's Island, May 09 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chicoreus/090530kuslks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chicoreus/090530kuslks.JPG
     caption: Kusu Island, May 09 Photo shared by Loh Kok Sheng on flickr .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chicoreus/090822sislks1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chicoreus/090822sislks1m3.jpg
     caption: Sisters Island, Aug 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chicoreus/210812jngvc4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chicoreus/210812jngvc4.jpg
     caption: Pulau Jong, Aug 21 Photo shared by Vincent Choo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chicoreus/250531thnttl3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chicoreus/250531thnttl3.jpg
     caption: Terumbu Hantu, May 25 Photo shared by Tammy Lim on facebook .
   gallery9:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chicoreus/101206cyrlks3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chicoreus/101206cyrlks3m3.jpg
     caption: Cyrene Reef, Dec 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chicoreus/160209cyrlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chicoreus/160209cyrlks.JPG
     caption: Cyrene Reef, Feb 16 Photo shared by Loh Kok Sheng on flickr .
   gallery10:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chicoreus/260201cyrtl2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chicoreus/260201cyrtl2.jpg
     caption: Cyrene Reef, Feb 26 Photo shared by Tammy Lim on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chicoreus/230221tryky1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chicoreus/230221tryky1.jpg
     caption: Terumbu Raya, Feb 23 Photo shared by Kelvin Yong on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chicoreus/160208smksjll3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chicoreus/160208smksjll3.jpg
     caption: Pulau Semakau South, Feb 16 Photo shared by Jianlin Liu on facebook .
   gallery11:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chicoreus/110717tblks3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chicoreus/110717tblks3m3.jpg
     caption: Terumbu Bemban, Jul 11 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chicoreus/210501tbvc7.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chicoreus/210501tbvc7.jpg
     caption: Terumbu Bemban, May 21 Photo shared by Vincent Choo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chicoreus/200210blylks3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chicoreus/200210blylks3.jpg
     caption: Beting Bemban Besar, Mar 20 Photo shared by Kelvin Yong on facebook .
   gallery12:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chicoreus/250712tplmn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chicoreus/250712tplmn1.jpg
     caption: Terumbu Pempang Laut, Jul 25 Photo shared by Marcus Ng on facebook .
   gallery13:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chicoreus/161117rlhlks5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chicoreus/161117rlhlks5.jpg
     caption: Raffles Lighthouse, Nov 16 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chicoreus/100810snglks1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chicoreus/100810snglks1m3.jpg
     caption: Pulau Senang, Aug 10
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chicoreus/100810snglks2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chicoreus/100810snglks2m3.jpg
     caption: Photo shared by Loh Kok Sheng on his flickr .
   gallery14:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chicoreus/100131sluc0867m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chicoreus/100131sluc0867m3.jpg
     caption: Terumbu Salu, Jan 10
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chicoreus/101106burs00369m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chicoreus/101106burs00369m3.jpg
     caption: Terumbu Buran, Nov 10
 links_references: '**Links**
 

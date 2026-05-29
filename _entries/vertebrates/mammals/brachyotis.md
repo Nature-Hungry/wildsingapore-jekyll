@@ -24,7 +24,7 @@ superfamily: Pteropodoidea
 subfamily: Cynopterinae
 tribe: Cynopterini
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/brachyotis/030917sbwrd0086m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/brachyotis/030917sbwrd0086m6l.jpg
 links_references: '**Links**
 
   - [Lesser Dog-faced Fruit Bat](http://www.ecologyasia.com/verts/bats/lesser_dog-faced_fruit-bat)
@@ -86,11 +86,11 @@ Mama bat gives birth to one young which weighs about 11gms at birth. She carries
 **Status and threats:**
 It is not listed among our threatened animals.
 
-*![](http://www.wildsingapore.com/wildfacts/vertebrates/mammals/brachyotis/030917sbwrd0086m6l.jpg)*
+*![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/brachyotis/030917sbwrd0086m6l.jpg)*
 *Sungei Buloh Wetland Reserve, Sep*
 *03*
 
-*![](http://www.wildsingapore.com/wildfacts/vertebrates/mammals/brachyotis/030917sbwrd0079m3.jpg)*
+*![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/brachyotis/030917sbwrd0079m3.jpg)*
 *Sungei Buloh Wetland Reserve, Sep*
 *03*
 

@@ -19,14 +19,14 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Jan 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/udotea/101008tusd1766m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/udotea/101008tusd1766m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/udotea/050411tusd2298m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/udotea/050411tusd2298m3.jpg
     caption: Tuas, Apr 05
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/udotea/080916tusd0495m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/udotea/080916tusd0495m3.jpg
     caption: Tuas, Sep 08
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/udotea/080409tusd0008m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/udotea/080409tusd0008m3.jpg
     caption: Tuas, Apr 08
 links_references: '**Links**
 
@@ -104,10 +104,10 @@ other fan-shaped green seaweeds. Here's more on
 **Human uses:**
 Some species have anti-bacterial and anti-tumor properties.
 
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/udotea/101008tusd1766m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/udotea/101008tusd1766m3.jpg)
 
 *Tuas, Oct 10*
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/udotea/101008tusd1766m3a.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/udotea/101008tusd1766m3a.jpg)
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 ---

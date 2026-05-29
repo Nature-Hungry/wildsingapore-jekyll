@@ -28,24 +28,24 @@ zoosubsection: Heterotremata
 superfamily: Pilumnoidea
 subfamily: Pilumninae
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/setifer/130721cjd9597m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/pilumnidae/setifer/130721cjd9597m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/setifer/130721cjd9597m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/pilumnidae/setifer/130721cjd9597m3.jpg
     caption: Chek Jawa, Jul 13
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/setifer/130721cjd9603m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/pilumnidae/setifer/130721cjd9603m3.jpg
     caption: Chek Jawa, Jul 13
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/setifer/130721cjd9599m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/pilumnidae/setifer/130721cjd9599m3.jpg
     caption: Chek Jawa, Jul 13
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/setifer/160625tkklks3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/pilumnidae/setifer/160625tkklks3.jpg
     caption: Pulau Tekukor, Jun 16 Photo shared by Loh Kok Sheng on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/setifer/120722cyrmn1m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/pilumnidae/setifer/120722cyrmn1m3a.jpg
     caption: Cyrene Reef, Jul 12 Photo shared by Marcus Ng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/setifer/170812cyrmn4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/pilumnidae/setifer/170812cyrmn4.jpg
     caption: Cyrene, Aug 17 Photo shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/setifer/170812cyrmn3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/pilumnidae/setifer/170812cyrmn3.jpg
     caption: Cyrene, Aug 17 Photo shared by Marcus Ng on facebook .
   gallery4:
   - url: https://farm4.staticflickr.com/3766/8911338681_fbe4a946c2_z.jpg

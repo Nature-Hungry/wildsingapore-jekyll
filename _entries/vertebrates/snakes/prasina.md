@@ -18,21 +18,21 @@ order: Squamata
 suborder: Serpentes
 subfamily: Chrysopeleinae
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/prasina/030817cjd0036m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/prasina/030817cjd0036m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/prasina/030817cjd0036m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/prasina/030817cjd0036m3.jpg
     caption: Chek Jawa, Aug 03 Tongue threat display?
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/prasina/030817cjd0039m6la.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/prasina/030817cjd0039m6la.jpg
     caption: A long thin tail. Chek Jawa, Aug 03
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/prasina/110402sbwrmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/prasina/110402sbwrmn.jpg
     caption: Sungei Buloh Wetland Reserve, Apr 11 Photo shared by Marcus Ng on flickr
       .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/prasina/150722labmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/prasina/150722labmn.jpg
     caption: Labrador, Jul 15 Photo shared by Marcus Ng on flickr .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/prasina/251231prprqo1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/prasina/251231prprqo1.jpg
     caption: Pasir Ris Park, Jan 26 Photo shared by Rui Quan Oh on facebook .
 links_references: '**Links**
 

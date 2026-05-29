@@ -18,64 +18,64 @@ class: Reptilia
 order: Squamata
 suborder: Serpentes
 updated: Oct 2019
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/050710skdg9354m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/granulatus/050710skdg9354m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/050710skdg9354m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/granulatus/050710skdg9354m3.jpg
     caption: Pulau Sekudu, Jul 05
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/050710skdg9354m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/granulatus/050710skdg9354m3a.jpg
     caption: Loose, granulated skin Pulau Sekudu, Jul 05
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/050710skdg9361m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/granulatus/050710skdg9361m3.jpg
     caption: Central fold on the underside Pulau Sekudu, Jul 05
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/050710skdg9354m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/granulatus/050710skdg9354m3c.jpg
     caption: Small eyes (clouded, suggesting the snake is about to moult)
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/090721skdd7645m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/granulatus/090721skdd7645m3.jpg
     caption: Loose skin and the tail is not paddle-shaped. Pulau Sekudu, Jul 09
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/170626skdlks4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/granulatus/170626skdlks4.jpg
     caption: Pulau Sekudu, Jun 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/180617skdlks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/granulatus/180617skdlks2.jpg
     caption: Pulau Sekudu, Jun 18 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/250501skddc1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/granulatus/250501skddc1.jpg
     caption: Pulau Sekudu, May 25 Photo shared by Dayna Cheah on facebook
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/130824smklks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/granulatus/130824smklks.JPG
     caption: Covered with algae! Pulau Semakau North, Aug 13 Photo shared by Loh Kok
       Sheng on his blog.
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/181027smksjll1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/granulatus/181027smksjll1.jpg
     caption: Covered with algae! Pulau Semakau South, Oct 18 Photo shared by Jianlin
       Liu on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/140810smkmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/granulatus/140810smkmn.jpg
     caption: Covered with algae! Pulau Semakau, Aug 14 Photo shared by Marcus Ng on
       flickr .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/111029smkmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/granulatus/111029smkmn.jpg
     caption: A pair of snakes mating. Pulau Semakau, Oct 11 Photo shared by Marcus
       Ng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/071103smkljh1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/granulatus/071103smkljh1m3.jpg
     caption: Covered with algae! Pulau Semakau, Nov 07 Photo shared by Lin Juanhui
       on her flickr .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/110814smkjk3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/granulatus/110814smkjk3m3.jpg
     caption: Pulau Semakau, Aug 11 Photo shared by James Koh on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/221225smksmn2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/granulatus/221225smksmn2.jpg
     caption: Pulau Semakau (South), Dec 22 Photo shared by Marcus Ng on facebook .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/260629smkeccn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/granulatus/260629smkeccn1.jpg
     caption: Pulau Semakau East, Jun 25 Photo shared by Che Cheng Neo on facebook
       . .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/260629smkeccn1a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/granulatus/260629smkeccn1a.jpg
     caption: Pulau Semakau East, Jun 25 Photo shared by Che Cheng Neo on facebook
       . .
   gallery9:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/240822tsmkl2a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/granulatus/240822tsmkl2a.jpg
     caption: Terumbu Semakau, Aug 24
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/240822tsmkl2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/granulatus/240822tsmkl2.jpg
     caption: Photo shared by Lon on facebook .
   gallery10:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/200708tsmkmn2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/granulatus/200708tsmkmn2.jpg
     caption: Terumbu Semakau, Jul 20 Photo shared by Marcus Ng on facebook .
 links_references: "**Links**\n- [Banded File Snakes](http://singaporesnakes.blogspot.com/search/label/Banded%20File%20Snake)\n\
   on the\n[Singapore Snakes](http://singaporesnakes.blogspot.com/)\nblog: fact sheet\

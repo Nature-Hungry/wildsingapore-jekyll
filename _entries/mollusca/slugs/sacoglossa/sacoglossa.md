@@ -23,49 +23,49 @@ updated: Jun 2020
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/polybranchia/110519chgd2177m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/polybranchia/110519chgd2177m3.jpg
     caption: Internal shell of the Bushy slug . Changi, May 11
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/130511hntd6666m6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/berthelinia/130511hntd6666m6.jpg
     caption: The Singapore bivalve slug has external shells. Pulau Hantu, May 13
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/050722cjg9966m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/woolly/050722cjg9966m3.jpg
     caption: The Wooly leaf slug has a pair of flaps. Chek Jawa, Jul 05
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/050330labg3921m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/pusilla/050330labg3921m3a.jpg
     caption: Halimeda slugs resemble the seaweed that they eat! Labrador Mar 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/bryopsis/120506sisd1123m6la.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/bryopsis/120506sisd1123m6la.jpg
     caption: Bryopsis slugs are ometimes seen in large numbers on the seaweed that
       they eat. Sisters Island, May 12
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/120620sntd5712m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/volvatella/120620sntd5712m3.jpg
     caption: Smaller 'male' Volvatella slug with a larger hermaphrodite slug. Sentosa,
       Jun 12
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/050529sjig7206m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/ornata/050529sjig7206m3.jpg
     caption: Mating Ornate leaf slugs . St. John's Island, May 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/050529sjig7219m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/ornata/050529sjig7219m3.jpg
     caption: Closer look at the penis. St. John's Island, May 05
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/050625labg8575m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/pusilla/050625labg8575m3.jpg
     caption: Halimeda slug
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/070602sjig9801m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/ornata/070602sjig9801m3.jpg
     caption: Ornate leaf slug
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/050721cjg9776m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/woolly/050721cjg9776m3.jpg
     caption: Woolly leaf slug
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/120620sntd5712m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/volvatella/120620sntd5712m3.jpg
     caption: Volvatella slug
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/polybranchia/050806skdg0455m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/polybranchia/050806skdg0455m3.jpg
     caption: Bushy slug
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/lobiger/050622cftg8209m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/lobiger/050622cftg8209m3.jpg
     caption: Tendril slug
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/thuridilla/120408sjid8606m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/thuridilla/120408sjid8606m3.jpg
     caption: Thuridilla slug
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/costasiella/100302tmd9841m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/costasiella/100302tmd9841m3a.jpg
     caption: Strawberry slug
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/stiliger/120818lazd0303m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/stiliger/120818lazd0303m3.jpg
     caption: Emerald slug
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/150802bbtch1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/berthelinia/150802bbtch1m3.jpg
     caption: Singapore bivalve slug
 links_references: "**Links**\n- [The Sea Slug Forum](http://www.seaslugforum.net/)\n\
   by Dr Bill Rudman:\n[solar powered slugs](http://www.seaslugforum.net/factsheet.cfm?base=solarpow)\n\

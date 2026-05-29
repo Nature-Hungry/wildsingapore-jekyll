@@ -18,7 +18,7 @@ superorder: Acanthomorpha
 order: Carangiformes
 suborder: Pleuronectoidei
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/040120cjd0035m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/commersonnii/040120cjd0035m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet2.gif
@@ -32,40 +32,40 @@ galleries:
       using the fins that border the body edge. They are well camouflaged and some
       are tiny. Don't step on them!
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/soleidae/commersonnii/040120cjd0035m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/soleidae/commersonnii/040120cjd0035m3.jpg
     caption: All that can be seen of the huge buried fish are its eyes! Chek Jawa,
       Jan 04
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pleuronectiformes/pleuronectiformes/050218sbwrd0715m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pleuronectiformes/pleuronectiformes/050218sbwrd0715m3.jpg
     caption: The underside is usually pale and unmarked.
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pleuronectiformes/pleuronectiformes/050218sbwrd0715m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pleuronectiformes/pleuronectiformes/050218sbwrd0715m3a.jpg
     caption: The pectoral fin on the underside is usually reduced. The mouth on the
       underside may bristle with tentacles and teeth!
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pleuronectiformes/pleuronectiformes/201019sjivc4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pleuronectiformes/pleuronectiformes/201019sjivc4.jpg
     caption: Juvenile flatfish. St John's Island, Oct 20 Photo shared by Vincent Choo
       on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/soleidae/110505tmnbd0602.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/soleidae/110505tmnbd0602.jpg
     caption: Unidentified juvenile Sole? Tanah Merah, May 11
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/soleidae/commersonnii/050818cftg1401m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/soleidae/commersonnii/050818cftg1401m3.jpg
     caption: Commerson's sole
-  - url: http://www.wildsingapore.com/wildfacts/cynoglossidae/cynoglossidae/050429cftg5340m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cynoglossidae/cynoglossidae/050429cftg5340m3.jpg
     caption: Tongue-sole
-  - url: http://www.wildsingapore.com/wildfacts/soleidae/pavoninus/050722cjg9806m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/soleidae/pavoninus/050722cjg9806m3.jpg
     caption: Peacock sole
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/paralichthyidae/paralichthyidae/050917smkg2477m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/paralichthyidae/paralichthyidae/050917smkg2477m3.jpg
     caption: Large-tooth flounder
-  - url: http://www.wildsingapore.com/wildfacts/bothidae/polyophthalmus/080509cyrd2745m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/bothidae/polyophthalmus/080509cyrd2745m3.jpg
     caption: Three-spot flounder
-  - url: http://www.wildsingapore.com/wildfacts/soleidae/orientalis/090623ecpd4978m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/soleidae/orientalis/090623ecpd4978m3.jpg
     caption: Oriental sole
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/soleidae/ovata/050511cftg6220m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/soleidae/ovata/050511cftg6220m3.jpg
     caption: Ovate sole
-  - url: http://www.wildsingapore.com/wildfacts/psettodidae/erumei/090622chgd4715m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/psettodidae/erumei/090622chgd4715m3.jpg
     caption: Indian halibut
-  - url: http://www.wildsingapore.com/wildfacts/soleidae/zebra/100612chgd5283m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/soleidae/zebra/100612chgd5283m3.jpg
     caption: Zebra sole
 links_references: '**Links**
 

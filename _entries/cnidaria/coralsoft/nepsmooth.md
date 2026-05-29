@@ -17,21 +17,21 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepsmooth/050510tusg6107m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepsmooth/050510tusg6107m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepsmooth/050510tusg6107m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepsmooth/050510tusg6107m3.jpg
     caption: Tuas, May 05
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepsmooth/050510tusg6107m3e.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepsmooth/050510tusg6107m3e.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepsmooth/050510tusg6107m3f.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepsmooth/050510tusg6107m3f.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepsmooth/070304hntg8008m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepsmooth/070304hntg8008m3.jpg
     caption: Pulau Hantu, Mar 07
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepsmooth/070304hntg8008m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepsmooth/070304hntg8008m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepsmooth/070304hntg8008m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepsmooth/070304hntg8008m3b.jpg
     caption: ''
 links_references: '**Links**
 

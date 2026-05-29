@@ -20,17 +20,17 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltatasmall/070728sisd4512m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/peltatasmall/070728sisd4512m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltatasmall/060713rlhd4358m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/peltatasmall/060713rlhd4358m3.jpg
     caption: Raffles Lighthouse, Jul 06
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltatasmall/60727jngd5070m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/peltatasmall/60727jngd5070m3.jpg
     caption: Pulau Jong, Jul 06
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltatasmall/070615sntrg0283m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/peltatasmall/070615sntrg0283m3.jpg
     caption: Sentosa, Jun 07
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltatasmall/160806tplmn5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/peltatasmall/160806tplmn5.jpg
     caption: Terumbu Pempang Laut, Aug 16 Photo shared by Marcus Ng on facebook .
 links_references: '**Links**
 
@@ -119,10 +119,10 @@ similar green seaweeds. Here's more on
 [how to tell apart some green seaweeds](cfgrapes)
 .
 
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltatasmall/070728sisd4512m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/peltatasmall/070728sisd4512m3.jpg)
 
 *Sisters Island, Aug 07*
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltatasmall/070728sisd4512m3a.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/peltatasmall/070728sisd4512m3a.jpg)
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

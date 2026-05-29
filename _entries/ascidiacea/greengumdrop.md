@@ -12,43 +12,43 @@ class: Ascidiacea
 family: Didemnidae
 genus: Diplosoma
 species: sp.
-coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/050820bbg1769m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/greengumdrop/050820bbg1769m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/050820bbg1769m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/greengumdrop/050820bbg1769m3.jpg
     caption: Beting Bronok, Aug 05
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/070505kusg9099m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/greengumdrop/070505kusg9099m3.jpg
     caption: Kusu Island, May 07
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/100502tryd2284m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/greengumdrop/100502tryd2284m3.jpg
     caption: Terumbu Raya, May 10
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/050309smkg3139m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/greengumdrop/050309smkg3139m3.jpg
     caption: Growing on Tape seagrass Pulau Semakau, Mar 05
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/050309smkg3143m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/greengumdrop/050309smkg3143m3.jpg
     caption: Growing on Tape seagrass Pulau Semakau, Mar 05
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/080722cyrd8227m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/greengumdrop/080722cyrd8227m3.jpg
     caption: Growing on Noodle seagrass Cyrene Reef, Jul 08
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/180912tkkrk2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/greengumdrop/180912tkkrk2.jpg
     caption: Pulau Tekukor, Sep 18 Photo shared by Richard Kuah on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/160124smkerk3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/greengumdrop/160124smkerk3.jpg
     caption: Pulau Semakau, Jan 16 Photo shared by Richard Kuah on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/110423tpllks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/greengumdrop/110423tpllks.JPG
     caption: Terumbu Pempang Laut, Apr 11 Photo shared by Loh Kok Sheng on flickr
       .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/091205sudd5557m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/greengumdrop/091205sudd5557m3a.jpg
     caption: Pulau Sudong, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/100613sngd5427m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/greengumdrop/100613sngd5427m3c.jpg
     caption: Pulau Senang, Aug 10
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/100531biod4466m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/greengumdrop/100531biod4466m3a.jpg
     caption: Pulau Biola, May 10
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/100613sngd5588m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/greengumdrop/100613sngd5588m3.jpg
     caption: Pulau Senang, Jun 10
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/100601slud4831m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/greengumdrop/100601slud4831m3.jpg
     caption: Pulau Salu, Jun 10
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/100530tbkd4290m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/greengumdrop/100530tbkd4290m3.jpg
     caption: Pulau Berkas, May 10
 links_references: '**Links**
 

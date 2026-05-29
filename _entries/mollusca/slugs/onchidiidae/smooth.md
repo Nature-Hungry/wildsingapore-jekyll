@@ -21,24 +21,24 @@ superorder: Eupulmonata
 order: Systellommatophora
 superfamily: Onchidioidea
 updated: Jun 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050527srbg7003m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/smooth/050527srbg7003m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050527srbg7003m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/smooth/050527srbg7003m3.jpg
     caption: Pulau Sarimbun, May 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050527srbg7003m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/smooth/050527srbg7003m3a.jpg
     caption: Eyes on long thin stalks
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050527srbg7006m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/smooth/050527srbg7006m3.jpg
     caption: Broad foot on the underside
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050609chgg7332m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/smooth/050609chgg7332m3.jpg
     caption: Changi, Jun 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050609chgg7332m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/smooth/050609chgg7332m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050607chgg7329m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/smooth/050607chgg7329m3.jpg
     caption: ''
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/080301ubnmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/smooth/080301ubnmn.jpg
     caption: Pulau Ubin, Mar 08 Photo shared by Marcus Ng on flickr .
 location:
 - chg

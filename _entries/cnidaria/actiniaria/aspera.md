@@ -22,52 +22,52 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
 updated: Jul 2023
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/150219cyrd1327a.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/aspera/150219cyrd1327a.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/150219cyrd1327a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/aspera/150219cyrd1327a.jpg
     caption: Cyrene, Feb 15
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/150219cyrd1327b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/aspera/150219cyrd1327b.jpg
     caption: Brown splotches radiating out.
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/150219cyrd1327d.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/aspera/150219cyrd1327d.jpg
     caption: Small brown spots on upper side of tentacles.
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/180617skdlks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/aspera/180617skdlks1.jpg
     caption: White 'lips' Pulau Sekudu, Jun 18 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/180617skdlks1a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/aspera/180617skdlks1a.jpg
     caption: White bumps on the upper body column. Pulau Sekudu, Jun 18 Photo shared
       by Loh Kok Sheng on facebook .
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/180518chg1jll.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/aspera/180518chg1jll.jpg
     caption: Changi, May 18 Photo shared by Jianlin Liu on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/171204chglks4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/aspera/171204chglks4.jpg
     caption: Changi, Dec 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/230605chg7lks4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/aspera/230605chg7lks4.jpg
     caption: Changi Carpark 7, Jun 23 Photo shared by Loh Kok Sheng on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/160706skdrl1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/aspera/160706skdrl1.jpg
     caption: Pulau Sekudu, Jul 16 Photo shared by Russel Low on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/170626skdtch1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/aspera/170626skdtch1.jpg
     caption: Pulau Sekudu, Jun 17 Photo shared by Toh Chay Hoon on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/140613skdlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/aspera/140613skdlks.JPG
     caption: Pulau Sekudu, Jun 14
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/140613skdlks2.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/aspera/140613skdlks2.JPG
     caption: Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/210628ecpBrk2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/aspera/210628ecpBrk2.jpg
     caption: East Coast Park (B), Jun 21 Photo shared by Richard Kuah on facebook
       .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/110606cyrlks1.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/aspera/110606cyrlks1.JPG
     caption: Cyrene Reef, Jun 11
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/110606cyrlks1a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/aspera/110606cyrlks1a.jpg
     caption: Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/110606cyrlks4.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/aspera/110606cyrlks4.JPG
     caption: ''
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/130810cyrlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/aspera/130810cyrlks.JPG
     caption: Cyrene Reef, Aug 13
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/aspera/130810cyrlks2.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/aspera/130810cyrlks2.JPG
     caption: Photo shared by Loh Kok Sheng on flickr .
 location:
 - chg

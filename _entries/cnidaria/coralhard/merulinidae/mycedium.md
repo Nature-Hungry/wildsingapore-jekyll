@@ -17,35 +17,35 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/160410tbo14100193.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/mycedium/160410tbo14100193.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/160410tbo14100193.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/mycedium/160410tbo14100193.jpg
     caption: Terumbu Bemban, Apr 16
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/190607tb.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/mycedium/190607tb.jpg
     caption: Terumbu Bemban, Jun 19
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/190607tbm3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/mycedium/190607tbm3.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/140518tmlks2.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/mycedium/140518tmlks2.JPG
     caption: Tanah Merah, May 14
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/140518tmlks1.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/mycedium/140518tmlks1.JPG
     caption: Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/140518tmlks1a.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/mycedium/140518tmlks1a.JPG
     caption: ''
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/220618tmftdc4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/mycedium/220618tmftdc4.jpg
     caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Dayna Cheah on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/2007024pcnlks8a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/mycedium/2007024pcnlks8a.jpg
     caption: East Coast PCN, Jul 20 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/260629smkelk16.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/mycedium/260629smkelk16.jpg
     caption: Pulau Semakau East, Jun 25 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/260629smkelk16b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/mycedium/260629smkelk16b.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/260629smkelk16a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/mycedium/260629smkelk16a.jpg
     caption: ''
 links_references: '**Links**
 

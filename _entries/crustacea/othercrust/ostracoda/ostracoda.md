@@ -12,12 +12,12 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Mar 2020
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ostracoda/ostracoda/050806skdg0510m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ostracoda/ostracoda/050806skdg0510m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ostracoda/ostracoda/050806skdg0510m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ostracoda/ostracoda/050806skdg0510m3.jpg
     caption: Eating or being eaten by a worm? Pulau Sekudu, Aug 05
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ostracoda/ostracoda/050722cjg9869m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ostracoda/ostracoda/050722cjg9869m3.jpg
     caption: Again seen with a worm. Chek Jawa, Jul 05
 links_references: '**Links**
 

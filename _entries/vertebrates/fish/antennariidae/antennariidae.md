@@ -17,7 +17,7 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Lophiiformes
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/080619chgd5686m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/antennariidae/trisignatus/080619chgd5686m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -29,24 +29,24 @@ galleries:
       are awkward swimmers, but they have the fastest mouth! Hard to spot: they resemble
       sponges, rocks. So watch your step!'
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/080619chgd5686m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/antennariidae/trisignatus/080619chgd5686m3.jpg
     caption: Changi, Jun 08
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/080619chgd5686m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/antennariidae/trisignatus/080619chgd5686m3b.jpg
     caption: A lure that draws prey closer to the mouth
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/black/070812sisg1958m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/antennariidae/black/070812sisg1958m3a.jpg
     caption: Lure and bright markings in the mouth. Sisters Island, Aug 07
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/110409smks09390m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/antennariidae/trisignatus/110409smks09390m3.jpg
     caption: '''Climbing'' on long seagrass with its ''paws''. Pulau Semakau, Apr
       11'
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/040803tusd4069m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/antennariidae/trisignatus/040803tusd4069m3.jpg
     caption: Tuas, Aug 04
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/black/050917smkg2501m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/antennariidae/black/050917smkg2501m3.jpg
     caption: Pulau Semakau, Sep 05
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/black/070812sisg1958m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/antennariidae/black/070812sisg1958m3.jpg
     caption: Black frogfish
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/050725labg0247m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/antennariidae/trisignatus/050725labg0247m3.jpg
     caption: Spotted-tail frogfish
 links_references: '**Links**
 

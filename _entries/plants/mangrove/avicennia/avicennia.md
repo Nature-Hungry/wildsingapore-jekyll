@@ -17,37 +17,37 @@ class: Magnoliopsida
 order: Lamiales
 subfamily: Avicennioideae
 updated: Jan 2013
-coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/090118smkd5783m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/marina/090118smkd5783m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/090114labd5287m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/alba/090114labd5287m3.jpg
     caption: Leaves very white underneath.
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/020511sbwrcpd9062m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/alba/020511sbwrcpd9062m3.jpg
     caption: Small flowers, not so crowded.
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/090307blyd7439m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/alba/090307blyd7439m3.jpg
     caption: Fruits with long pointed tips smooth.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/110827smkd9885m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/marina/110827smkd9885m3.jpg
     caption: Leaves not so white underneath.
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/111022smkd2528m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/marina/111022smkd2528m3b.jpg
     caption: Large flowers, crowded together. Flower stalk squarish to leaf-bearing
       portions.
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/110827smkd9918m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/marina/110827smkd9918m3.jpg
     caption: Fruits oval smooth. Bluish never yellowish.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/rumphiana/030914cjd0030m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/rumphiana/030914cjd0030m3.jpg
     caption: Leaves underneath white and velvety.
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/rumphiana/090118smkd5726m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/rumphiana/090118smkd5726m3a.jpg
     caption: Large flowers, crowded together. Flower stalk squarish NOT to leaf-bearing
       portions.
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/rumphiana/030914cjd0030m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/rumphiana/030914cjd0030m3b.jpg
     caption: Fruits oval usually wrinkly.
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/officinalis/020727cjcpd4363m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/officinalis/020727cjcpd4363m3.jpg
     caption: Leaves glossy and smooth.
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/officinalis/090517ubnd1980m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/officinalis/090517ubnd1980m3a.jpg
     caption: Large flowers, crowded together.
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/officinalis/030817cjd0005m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/officinalis/030817cjd0005m3.jpg
     caption: Fruits oval with pointed tip smooth.
 links_references: '**Links**
 
@@ -159,12 +159,12 @@ According to Burkill, the tree provides an "indifferent firewood" and the timber
 *Avicennia marina*
 is listed as 'Critically Endangered' in the Red List of threatened plants of Singapore.
 
-*![](http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/090118smkd5783m6l.jpg)
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/marina/090118smkd5783m6l.jpg)
 
 Pulau Semakau, Jan 09
-![](http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/090118smkd5783m3a.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/marina/090118smkd5783m3a.jpg)*
 Pencil roots.
-*![](http://www.wildsingapore.com/wildfacts/general/031122cjd0051m3.jpg)*
+*![](https://f003.backblazeb2.com/file/naturehungry/general/031122cjd0051m3.jpg)*
 Germinating
 *Avicennia*
 seedlings.

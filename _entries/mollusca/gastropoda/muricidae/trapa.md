@@ -19,31 +19,31 @@ order: Neogastropoda
 superfamily: Muricoidea
 subfamily: Muricinae
 updated: Aug 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/080801chgd8557m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/trapa/080801chgd8557m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/080801chgd8557m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/trapa/080801chgd8557m3.jpg
     caption: Changi, Aug 08
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/080801chgd8560m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/trapa/080801chgd8560m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/080801chgd8563m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/trapa/080801chgd8563m3.jpg
     caption: Long tentacles and muscular foot.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/080801chgd8584m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/trapa/080801chgd8584m3.jpg
     caption: This one was clasping a bivalve. Changi, Aug 08
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/050823chgg2294m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/trapa/050823chgg2294m3.jpg
     caption: Empty shells are commonly seen. Changi, Aug 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/050429cftg5414m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/trapa/050429cftg5414m3.jpg
     caption: Shell taken over by a hermit crab . Changi, Apr 05
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/230704chg1rk2b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/trapa/230704chg1rk2b.jpg
     caption: Changi Carpark 1, Jul 23 Photo shared by Richard Kuah on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/230704chg1rk2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/trapa/230704chg1rk2.jpg
     caption: ''
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/090807tmjk1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/trapa/090807tmjk1m3.jpg
     caption: Tanah Merah, Aug 09 Photo shared by James Koh on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/210530ecpglks8.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/trapa/210530ecpglks8.jpg
     caption: East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 

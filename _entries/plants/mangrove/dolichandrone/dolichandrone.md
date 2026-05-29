@@ -24,21 +24,21 @@ order: Lamiales
 tribe: Tecomeae
 inat_id: 191683
 updated: Jan 2013
-coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/dolichandrone/dolichandrone/090704ubnd6423m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/dolichandrone/dolichandrone/090704ubnd6423m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/dolichandrone/dolichandrone/090214sbwrd7056m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/dolichandrone/dolichandrone/090214sbwrd7056m3.jpg
     caption: Sungei Buloh Wetland Reserve, Feb 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/dolichandrone/dolichandrone/090328sbwrd8450m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/dolichandrone/dolichandrone/090328sbwrd8450m3.jpg
     caption: Sungei Buloh Wetland Reserve, Mar 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/dolichandrone/dolichandrone/090328sbwrd8451m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/dolichandrone/dolichandrone/090328sbwrd8451m3.jpg
     caption: Trumpet shaped flower. Sungei Buloh Wetland Reserve, Mar 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/dolichandrone/dolichandrone/090214sbwrd7053m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/dolichandrone/dolichandrone/090214sbwrd7053m3a.jpg
     caption: Seeds look like wheat biscuits. Sungei Buloh Wetland Reserve, Feb 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/dolichandrone/dolichandrone/090704ubnd6413m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/dolichandrone/dolichandrone/090704ubnd6413m3.jpg
     caption: Opened pods. Pulau Ubin, Jul 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/dolichandrone/dolichandrone/090214sbwrd7052m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/dolichandrone/dolichandrone/090214sbwrd7052m3.jpg
     caption: Unopened pod. Sungei Buloh Wetland Reserve, Feb 09
 links_references: '**Links**
 
@@ -140,14 +140,14 @@ According to Burkill, the wood is light and thus was prefered by the Javanese fo
 **Status and threats:**
 It is listed as 'Critically Endangered' on the Red List of threatened plants of SIngapore.
 
-*![](http://www.wildsingapore.com/wildfacts/plants/mangrove/dolichandrone/dolichandrone/090704ubnd6423m6l.jpg)*
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/dolichandrone/dolichandrone/090704ubnd6423m6l.jpg)*
 Planted tree near natural mangroves.
 *Pulau Ubin, Jul 09*
-*![](http://www.wildsingapore.com/wildfacts/plants/mangrove/dolichandrone/dolichandrone/090328sbwrd8450m3c.jpg)
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/dolichandrone/dolichandrone/090328sbwrd8450m3c.jpg)
 
 Sungei Buloh Wetland Reserve, Mar 09
 
-![](http://www.wildsingapore.com/wildfacts/plants/mangrove/dolichandrone/dolichandrone/100221sbwrd9570m3.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/dolichandrone/dolichandrone/100221sbwrd9570m3.jpg)*
 *Sungei Buloh Wetland Reserve, Feb 10*
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

@@ -22,14 +22,14 @@ class: Florideophyceae
 subclass: Rhodymeniophycidae
 order: Ceramiales
 updated: Oct 15
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/fluffy/040507rlhad0084m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/fluffy/040507rlhad0084m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/fluffy/040507rlhad0084m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/fluffy/040507rlhad0084m3.jpg
     caption: Raffles Lighthouse, May 04
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/fluffy/101106burd2507m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/fluffy/101106burd2507m3.jpg
     caption: Terumbu Buran, Nov 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/fluffy/251205cj1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/fluffy/251205cj1.jpg
     caption: Bloom on seagrasses Chek Jawa, Dec 25
 location:
 - lab

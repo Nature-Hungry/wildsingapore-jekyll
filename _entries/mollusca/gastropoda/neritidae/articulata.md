@@ -26,27 +26,27 @@ order: Cycloneritida
 superfamily: Neritoidea
 subfamily: Neritinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/articulata/090114blyd5296m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/articulata/090114blyd5296m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/articulata/090114blyd5296m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/articulata/090114blyd5296m3.jpg
     caption: Berlayar, Jan 09
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/articulata/090114blyd5295m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/articulata/090114blyd5295m3.jpg
     caption: Tuas, May 07
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/articulata/050527srbd3462m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/articulata/050527srbd3462m3.jpg
     caption: Pulau Sarimbun, Mar 05
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/articulata/090411lckd9558m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/articulata/090411lckd9558m3.jpg
     caption: Lim Chu Kang, Apr 09
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/articulata/050327sbwrg3808m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/articulata/050327sbwrg3808m3.jpg
     caption: Sungei Buloh, Mar 05
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/articulata/201020swgvc3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/articulata/201020swgvc3.jpg
     caption: Sembawang, Oct 20 Photo shared by Vincent Choo on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/articulata/260103prpezxh2a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/articulata/260103prpezxh2a.jpg
     caption: Pasir Ris Park (E), Jan 26 Photo shared by Zen Xuan He on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/articulata/260103prpezxh2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/articulata/260103prpezxh2.jpg
     caption: ''
 links_references: '**Links**
 

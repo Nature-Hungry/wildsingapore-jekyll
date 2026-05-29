@@ -18,44 +18,44 @@ subclass: Caenogastropoda
 superfamily: Cerithioidea
 subfamily: Cerithiinae
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1464m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1464m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1464m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1464m3.jpg
     caption: Sentosa, Oct 08
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1463m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1463m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1463m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1463m3b.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/070901sjid6524m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/obelisk/070901sjid6524m3b.jpg
     caption: St. John's Island, Sep 07
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/070531sisg9643m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/obelisk/070531sisg9643m3.jpg
     caption: Mating? Sisters Island, May 07
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/141010lablks1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/obelisk/141010lablks1m3.jpg
     caption: Labrador, Oct 14 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/251009sjijll3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/obelisk/251009sjijll3.jpg
     caption: St John's Island, Oct 25 Photo shared by Jianlin Liu on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/251009sjijll3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/obelisk/251009sjijll3.jpg
     caption: ''
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/251011ssisky3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/obelisk/251011ssisky3.jpg
     caption: Small Sisters Island, Oct 25 Photo shared by Kelvin Yong on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/260103bsisrqo4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/obelisk/260103bsisrqo4.jpg
     caption: Big Sisters Island, Dec 25 Photo shared by Rui Quan Oh on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/170129slglks.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/obelisk/170129slglks.jpg
     caption: Terumbu Selegie, Jan 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/2007024thntjt2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/obelisk/2007024thntjt2.jpg
     caption: Terumbu Hantu, Jul 20 Photo shared by Jonathan Tan on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/260201cyrccn2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/obelisk/260201cyrccn2.jpg
     caption: Cyrene, Feb 26 Photo shared by Che Cheng Neo on facebook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/210428slutch4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/obelisk/210428slutch4.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Toh Chay Hoon on facebook ..
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/091231biolks7m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/obelisk/091231biolks7m3.jpg
     caption: Pulau Biola, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
 links_references: '**Links**
 

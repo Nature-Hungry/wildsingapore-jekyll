@@ -23,22 +23,22 @@ superorder: Acanthomorpha
 order: Blenniiformes
 subfamily: Pomacentrinae
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/prosopotaenia/140531sjid5883m.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/prosopotaenia/140531sjid5883m.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/prosopotaenia/140531sjid5883m.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/prosopotaenia/140531sjid5883m.jpg
     caption: Juvenile. St John's Island, May 14
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/prosopotaenia/111029smkd3142m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/prosopotaenia/111029smkd3142m6l.jpg
     caption: Juvenile. Pulau Semakau, Oct 11
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/prosopotaenia/110605tsmkd3956m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/prosopotaenia/110605tsmkd3956m6l.jpg
     caption: Adult caught in a fishing net. Terumbu Semakau, Jun 11
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/prosopotaenia/251207hntml4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/prosopotaenia/251207hntml4.jpg
     caption: Pulau Hantu, Dec 25 Photo shared by Mathias Luk on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/prosopotaenia/230805thnttl2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/prosopotaenia/230805thnttl2.jpg
     caption: Terumbu Hantu, Aug 23 Photo shared by Tammy Lim on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/prosopotaenia/190707thnll2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/prosopotaenia/190707thnll2.jpg
     caption: Terumbu Hantu, Jul 19 Photo shared by Liz Lim on facebook .
 links_references: '**Links**
 

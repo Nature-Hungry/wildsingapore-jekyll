@@ -22,7 +22,7 @@ suborder: Pleocyemata
 infraorder: Anomura
 superfamily: Galatheoidea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/080619chgd5779m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/porcellanidae/petrolisthes/080619chgd5779m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -35,32 +35,32 @@ galleries:
       of walking legs, long antennae. They drop their pincers when stressed, so don''t
       harass them Some live with other animals: sea pens, hermit crabs.'
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/080619chgd5779m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/porcellanidae/petrolisthes/080619chgd5779m3.jpg
     caption: Huge flat pincers.
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/080619chgd5779m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/porcellanidae/petrolisthes/080619chgd5779m3a.jpg
     caption: Long antennae emerging from outside instead of between the eyes. Changi,
       Jun 08
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/050607chgg7319m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/porcellanidae/petrolisthes/050607chgg7319m3a.jpg
     caption: Last pair of legs folded on the sides of the body. Changi, Jun 05
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/120818lazd0353m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/porcellanidae/petrolisthes/120818lazd0353m3a.jpg
     caption: Feathery mouthparts.
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/120818lazd0359m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/porcellanidae/petrolisthes/120818lazd0359m3a.jpg
     caption: Lazarus, Aug 12
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/120818lazd0353m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/porcellanidae/petrolisthes/120818lazd0353m3.jpg
     caption: Big porcelain crab
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/tinystone/080521chgd3524m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/porcellanidae/tinystone/080521chgd3524m3.jpg
     caption: Tiny brown porcelain crab
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/hermit/050315cjd1820m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/porcellanidae/hermit/050315cjd1820m3.jpg
     caption: Hermit porcelain crab
   - url: http://www.wildsingapore.com/cnidaria/others/pennatulacea/spiky/040716chgd2523m3.jpg
     caption: Painted porcelain crab
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/commensal/110715cyrd6659m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/porcellanidae/commensal/110715cyrd6659m3.jpg
     caption: Commensal porcelain crabs
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/others/200705kusjll5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/porcellanidae/others/200705kusjll5.jpg
     caption: Kusu Island, Jul 20 Photo shared by Jianlin Liu on facebook .
 links_references: '**Links**
 

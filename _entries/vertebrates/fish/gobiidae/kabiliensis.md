@@ -24,15 +24,15 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Gobionellinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/kabiliensis/130202mndd3882m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/kabiliensis/130202mndd3882m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/kabiliensis/130202mndd3882m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/kabiliensis/130202mndd3882m3.jpg
     caption: Mandai mangroves, Feb 13
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/kabiliensis/110822admd9795m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/kabiliensis/110822admd9795m6l.jpg
     caption: Admiralty Park, Aug 11
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/kabiliensis/251200admrqo3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/kabiliensis/251200admrqo3.jpg
     caption: Admiralty Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
 links_references: '**Links**
 

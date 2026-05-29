@@ -17,58 +17,58 @@ subphylum: Rhabditophora
 order: Polycladida
 suborder: Cotylea
 updated: Feb 2020
-coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/laingensis/050623cjg8476m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/laingensis/050623cjg8476m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/laingensis/050623cjg8476m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/laingensis/050623cjg8476m3.jpg
     caption: Chek Jawa, Jun 05
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/laingensis/050623cjg8476m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/laingensis/050623cjg8476m3a.jpg
     caption: Pseudotentacles simple fold of the body edge.
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/laingensis/090525chgd2414m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/laingensis/090525chgd2414m3.jpg
     caption: Yellowish body=just ate! Will turn to cream after food is digested. Changi,
       May 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/laingensis/170625bbmn2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/laingensis/170625bbmn2.jpg
     caption: Beting Bronok, Jun 17 Photo shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/laingensis/170625bbmn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/laingensis/170625bbmn1.jpg
     caption: Underside Beting Bronok, Jun 17 Photo shared by Marcus Ng on facebook
       .
   gallery3:
   - url: https://live.staticflickr.com/1784/42129579754_5df4a0baa8_z.jpg
     caption: ''
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/laingensis/131213chglks1m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/laingensis/131213chglks1m3.JPG
     caption: Changi, Dec 13 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/laingensis/170528chg7lks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/laingensis/170528chg7lks2.jpg
     caption: Changi, May 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/laingensis/180813lygjt1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/laingensis/180813lygjt1.jpg
     caption: Changi, Aug 18 Photo shared by Jonathan Tan on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/laingensis/101009cjnml1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/laingensis/101009cjnml1m3.jpg
     caption: Chek Jawa, Oct 10 Photo shared by Neo Mei Lin on her blog .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/laingensis/250529cjvc1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/laingensis/250529cjvc1.jpg
     caption: Chek Jawa, May 25 Photo shared by Vincent Choo on facebook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/laingensis/110518bbtch1m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/laingensis/110518bbtch1m6l.jpg
     caption: Beting Bronok, May 11 Photo shared by Toh Chay Hoon on her blog .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/laingensis/250627bbal1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/laingensis/250627bbal1.jpg
     caption: Betint Bronok, Jun 25 Photo shared by Adriane Lee on facebook .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/laingensis/150706skdlks1m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/laingensis/150706skdlks1m3.JPG
     caption: Pulau Sekudu, Jul 15 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/laingensis/170723ubnay2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/laingensis/170723ubnay2.jpg
     caption: Pulau Ubin, Jul 17 Photo shared by Abel Yeo on facebook ..
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/laingensis/180618srpay3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/laingensis/180618srpay3.jpg
     caption: Sentosa Serapong, Jun 18 Photo shared by Abel Yeo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/laingensis/240527srpky2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/laingensis/240527srpky2.jpg
     caption: Sentosa Serapong, May 24 Photo shared by Kelvin Yong on facebook .
   gallery9:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/laingensis/080510smktsj01m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/laingensis/080510smktsj01m3.jpg
     caption: Pulau Semakau, May 08 Photo shared by Tan Sijie on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/laingensis/110731trylks7m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/laingensis/110731trylks7m3.jpg
     caption: Terumbu Raya, Jul 11 Photo shared by Lok Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/laingensis/150606tryrl2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/laingensis/150606tryrl2m3.jpg
     caption: Terumbu Raya, Jun 15 Photo shared by Russel Low on facebook .
 links_references: "**Links**\n- [*Pseudoceros laingensis*](http://polycladida.lifedesks.org/pages/3101)\n\
   on Encyclopedia of Life, LifeDesks, Marine Flatworms - Polycladida: Technical fact\

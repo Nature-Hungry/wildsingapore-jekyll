@@ -17,7 +17,7 @@ subclass: Coleoidea
 superorder: Decapodiformes
 order: Myopsida
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/120505sisd0910m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/sqbigfin/120505sisd0910m6l.jpg
 links_references: "**Links**\n- Family Loliginidae\n  in the Cephalopod section by\
   \ J.M. Poutiers in the FAO Species\n  Identification Guide for Fishery Purposes:\
   \ The Living Marine Resources\n  of the Western Central Pacific [Volume\n  1: Seaweeds,\
@@ -29,14 +29,14 @@ links_references: "**Links**\n- Family Loliginidae\n  in the Cephalopod section 
   \ 2000. *Cephalopods:\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/120505sisd0910m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/sqbigfin/120505sisd0910m6l.jpg
     caption: Ink squirted out retains its shape. Sister Island, May 12
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/110602tmftd3396m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/sqbigfin/110602tmftd3396m3.jpg
     caption: Which is ink and which is squid? Tanah Merah, Jun 11
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/120618tmnbd5467m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/sqbigfin/120618tmnbd5467m3.jpg
     caption: Bigfin reef squid
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqindian/091008tmd2514m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/sqindian/091008tmd2514m3.jpg
     caption: Indian squid
   gallery3:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1

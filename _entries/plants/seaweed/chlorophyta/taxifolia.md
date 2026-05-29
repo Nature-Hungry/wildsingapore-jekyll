@@ -19,30 +19,30 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Sep 2019
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/040703sisd1564m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/taxifolia/040703sisd1564m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/040703sisd1564m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/taxifolia/040703sisd1564m3.jpg
     caption: Sisters Island, Jul 04
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/041116labd8420m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/taxifolia/041116labd8420m3a.jpg
     caption: Branch sickle-shaped, slight constriction where it attaches to the mid-rib.
       Labrador, Nov 04
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/050706sntg8971m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/taxifolia/050706sntg8971m3.jpg
     caption: Sentosa, Jul 05
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/100811slud0103m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/taxifolia/100811slud0103m3.jpg
     caption: Pulau Salu, Aug 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/110814smkd9055m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/taxifolia/110814smkd9055m3.jpg
     caption: Pulau Semakau, Aug 11
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/190218cnyrk2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/taxifolia/190218cnyrk2.jpg
     caption: Coney Island, Feb 19 Photo shared by Richard Kuah on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/100530tbkd4338m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/taxifolia/100530tbkd4338m3.jpg
     caption: Pulau Berkas, May 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/100530tbkd4338m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/taxifolia/100530tbkd4338m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/151001blymn4m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/taxifolia/151001blymn4m3.jpg
     caption: Berlayar Creek, Oct 15 Photo shared by Marcus Ng on facebook .
 links_references: '**Links**
 

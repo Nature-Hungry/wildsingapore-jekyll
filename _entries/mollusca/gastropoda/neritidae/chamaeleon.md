@@ -26,17 +26,17 @@ order: Cycloneritida
 superfamily: Neritoidea
 subfamily: Neritinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8927m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8927m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8927m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8927m3.jpg
     caption: St John's Island, Aug 08
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8926m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8926m3.jpg
     caption: St John's Island, Aug 08
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/060516chgd2044m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/chamaeleon/060516chgd2044m3.jpg
     caption: Changi, May 06
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/210529epcnvc3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/chamaeleon/210529epcnvc3.jpg
     caption: East Coast (PCN), May 21 Photo shared by Vincent Choo on facebcok .
 links_references: '**Links**
 

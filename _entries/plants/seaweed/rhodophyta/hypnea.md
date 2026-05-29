@@ -22,26 +22,26 @@ class: Florideophyceae
 subclass: Rhodymeniophycidae
 order: Gigartinales
 updated: Jan 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/hypnea/060402ulrd1051m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/hypnea/060402ulrd1051m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/hypnea/060312hntd0256m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/hypnea/060312hntd0256m3.jpg
     caption: Pulau Hantu, Mar 06
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/hypnea/050917smkg2493m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/hypnea/050917smkg2493m3.jpg
     caption: Pulau Semakau, Sep 05
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/hypnea/060227labg5054m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/hypnea/060227labg5054m3.jpg
     caption: Labrador, Feb 06
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/hypnea/100502tryd2341m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/hypnea/100502tryd2341m3.jpg
     caption: Bushy ball red seaweed Terumbu Raya, May 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pannosa/040801hntd3702m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pannosa/040801hntd3702m3.jpg
     caption: Bushy ball red seaweed Pulau Hantu, Aug 04
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/hypnea/100811slud0071m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/hypnea/100811slud0071m3.jpg
     caption: Pulau Salu, Aug 10
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/hypnea/201215bsrpvc11.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/hypnea/201215bsrpvc11.jpg
     caption: Sentosa Serapong, Dec 20 Photo shared by Vincent Choo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/hypnea/100403tbbd0676m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/hypnea/100403tbbd0676m3.jpg
     caption: Beting Bemban Besar, Apr 10
 links_references: '**Links**
 
@@ -126,11 +126,11 @@ species.
 **Human uses:**
 In some places, Hypnea seaweeds are fed to livestock and eaten by people.
 
-*![](http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/hypnea/060402ulrd1051m3.jpg)
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/hypnea/060402ulrd1051m3.jpg)
 
 Pulau Hantu, Apr 06
 
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/hypnea/060402ulrd1051m3a.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/hypnea/060402ulrd1051m3a.jpg)*
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 ---

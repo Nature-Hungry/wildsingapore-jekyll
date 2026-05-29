@@ -23,26 +23,26 @@ subclass: Nemaliophycidae
 order: Nemaliales
 suborder: Galaxaurineae
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/071026cyrd7131m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomthick/071026cyrd7131m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/071026cyrd7131m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomthick/071026cyrd7131m3.jpg
     caption: Cyrene Reef, Oct 07 Rings around the 'stem', tips rounded with dark spot.
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/080608cyrd5365m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomthick/080608cyrd5365m3.jpg
     caption: Cyrene Reef, Jun 07 Darker pink dot the tips of the 'stems'.
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/110220lazd6301m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomthick/110220lazd6301m3.jpg
     caption: Lazarus Island, Feb 11
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/100810sngd9933m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomthick/100810sngd9933m3.jpg
     caption: Pulau Senang, Aug 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/091231biod7036m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomthick/091231biod7036m3.jpg
     caption: Pulau Biola, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/100130brkd8504m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomthick/100130brkd8504m3.jpg
     caption: Terumbu Berkas, Jan 10
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/210501tbvc9.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomthick/210501tbvc9.jpg
     caption: Terumbu Bemban, May 21 Photo shared by Vincent Choo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/091204pawd5391m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomthick/091204pawd5391m3.jpg
     caption: Pulau Pawai, Dec 09
 links_references: '**Links**
 

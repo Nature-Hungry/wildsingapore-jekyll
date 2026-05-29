@@ -17,89 +17,89 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/050720sntg9544m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/mazehexa/050720sntg9544m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/050720sntg9544m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/mazehexa/050720sntg9544m3.jpg
     caption: Sentosa, Jul 05
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/050720sntg9544m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/mazehexa/050720sntg9544m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/050720sntg9545m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/mazehexa/050720sntg9545m3a.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/050723labg9996m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/mazehexa/050723labg9996m3.jpg
     caption: Labrador, Jul 05
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/050723labg9997m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/mazehexa/050723labg9997m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/050723labg9998m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/mazehexa/050723labg9998m3b.jpg
     caption: ''
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/070506sjig9175m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/mazehexa/070506sjig9175m3.jpg
     caption: St. John's Island, May 07
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/070506sjig9175m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/mazehexa/070506sjig9175m3b.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/070506sjig9175m3d.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/mazehexa/070506sjig9175m3d.jpg
     caption: ''
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/050917smkg2438m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/mazehexa/050917smkg2438m3.jpg
     caption: Pulau Semakau, Sep 05
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/050917smkg2439m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/mazehexa/050917smkg2439m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/050917smkg2439m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/mazehexa/050917smkg2439m3c.jpg
     caption: ''
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/111128sntd4153m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/mazehexa/111128sntd4153m3.jpg
     caption: Sentosa, Nov 11
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/111128sntd4157m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/mazehexa/111128sntd4157m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/111128sntd4155m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/mazehexa/111128sntd4155m3a.jpg
     caption: ''
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/050724bbd5393m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/mazehexa/050724bbd5393m3.jpg
     caption: Beting Bronok, Jul 05
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/050724bbg0186m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/mazehexa/050724bbg0186m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/050724bbg0173m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/mazehexa/050724bbg0173m3b.jpg
     caption: ''
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/090512tmlks6m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/mazehexa/090512tmlks6m3.jpg
     caption: Tanah Merah, May 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/090512tmlks10m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/mazehexa/090512tmlks10m3.jpg
     caption: Tanah Merah, May 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/090512tmlks8m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/mazehexa/090512tmlks8m3.jpg
     caption: Tanah Merah, May 09 Photo shared by Loh Kok Sheng on his blog .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/091205sudd5537m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/mazehexa/091205sudd5537m3.jpg
     caption: Pulau Sudong, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/091231biod6958m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/mazehexa/091231biod6958m3.jpg
     caption: Pulau Biola, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/100131slud8844m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/mazehexa/100131slud8844m3.jpg
     caption: Terumbu Salu, Jan 10
   gallery9:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/100130brkd8509m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/mazehexa/100130brkd8509m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/100130brkd8558m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/mazehexa/100130brkd8558m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/091231biod6971m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/mazehexa/091231biod6971m3.jpg
     caption: Pulau Biola, Dec 09
   gallery10:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/100613sngd5429m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/mazehexa/100613sngd5429m3.jpg
     caption: Pulau Senang, Jun 10
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/100613sngd5429m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/mazehexa/100613sngd5429m3b.jpg
     caption: Pulau Senang, Jun 10
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/100613sngd5457m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/mazehexa/100613sngd5457m3.jpg
     caption: Pulau Senang, Jun 10
   gallery11:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/100613sngd5639m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/mazehexa/100613sngd5639m3.jpg
     caption: Pulau Senang, Jun 10
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/100811slud0141m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/mazehexa/100811slud0141m3.jpg
     caption: Pulau Salu, Aug 10
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/100811slud0075m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/mazehexa/100811slud0075m3.jpg
     caption: Pulau Salu, Aug 10
   gallery12:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/100601slud4769m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/mazehexa/100601slud4769m3.jpg
     caption: Pulau Salu, Jun 10
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/100530tbkd4256m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/mazehexa/100530tbkd4256m3.jpg
     caption: Pulau Berkas, May 10
 location:
 - bb

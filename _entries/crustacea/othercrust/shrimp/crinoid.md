@@ -14,15 +14,15 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Feb 2020
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/crinoid/120123hntd5749m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/crinoid/120123hntd5749m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/crinoid/120123hntd5749m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/crinoid/120123hntd5749m3.jpg
     caption: Pulau Hantu, Jan 12
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/crinoid/120407sjilks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/crinoid/120407sjilks.JPG
     caption: St John's Island, Apr 12 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/crinoid/120408hntmn3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/crinoid/120408hntmn3.jpg
     caption: St John's Island, Apr 12 Photo shared by Marcus Ng on flickr .
 location:
 - sji

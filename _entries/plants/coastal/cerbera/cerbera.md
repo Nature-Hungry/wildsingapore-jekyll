@@ -17,7 +17,7 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Gentianales
 updated: Jan 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/090111smkd4853m6.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/manghas/090111smkd4853m6.jpg
 links_references: "**Links**\n- Giesen, Wim\n  and Stephan Wulffraat, Max Zieren and\
   \ Liesbeth Scholten. 2006.\n  [*Mangrove\n  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)\
   \ (PDF online downloadable).\n  RAP publication 2006/07 Food and Agriculture Organization\
@@ -27,23 +27,23 @@ links_references: "**Links**\n- Giesen, Wim\n  and Stephan Wulffraat, Max Zieren
   \n**References**\n- Hsuan Keng,\n  S.C. Chin and H. T. W. Tan. 1990, *[The\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/odollam/090822sisd9810m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/odollam/090822sisd9810m3.jpg
     caption: Sisters Island, Aug 09 Changi, Apr 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/odollam/091115ubnd4199m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/odollam/091115ubnd4199m6l.jpg
     caption: Fruit germinating on the high shore. Pulau Ubin, Nov 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/odollam/081206smkd2445m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/odollam/081206smkd2445m3.jpg
     caption: Yellow-eyed pong pong tree ( Cerbera odollam )
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/odollam/090410ubnd9387m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/odollam/090410ubnd9387m3.jpg
     caption: Flower with yellow eye.
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/odollam/090208smkd6467m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/odollam/090208smkd6467m3a.jpg
     caption: Fruits globular, round. Solitary.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/070623cjd2701m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/manghas/070623cjd2701m3b.jpg
     caption: Pink-eyed pong pong tree (Cerbera manghas)
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/080412cjd1325m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/manghas/080412cjd1325m3.jpg
     caption: Flower with pink eye.
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/090726smkf2939m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/manghas/090726smkf2939m3a.jpg
     caption: Fruits oblong, mango-shaped. Often paired.
   gallery4:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -91,12 +91,12 @@ is listed as 'Vulnerable' while
 *Cerbera manghas*
 is listed as 'Critically Endangered' on the Red List of threatened plants of Singapore.
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/090111smkd4853m6.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/manghas/090111smkd4853m6.jpg)
 
 Growing wild.
 *Pulau Semakau, Jan 09
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/090711sjid7241m3.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/manghas/090711sjid7241m3.jpg)*
 Planted in a park.
 **Changi, Apr 09**
 

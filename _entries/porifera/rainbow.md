@@ -16,24 +16,24 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Suberitida
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/porifera/rainbow/120307mmsexs04341m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/rainbow/120307mmsexs04341m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/rainbow/120307mmsexs04341m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/rainbow/120307mmsexs04341m6l.jpg
     caption: Pulau Ubin, Dec 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/rainbow/091203ubnd4949m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/rainbow/091203ubnd4949m3.jpg
     caption: Pulau Ubin, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/porifera/rainbow/091203ubnd4964m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/rainbow/091203ubnd4964m3.jpg
     caption: Pulau Ubin, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/porifera/rainbow/091203ubnd4919m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/rainbow/091203ubnd4919m3.jpg
     caption: Pulau Ubin, Dec 09
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/rainbow/091217sbglks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/rainbow/091217sbglks.JPG
     caption: Sembawang, Dec 09 Photo shared by Loh Kok Sheng on flickr.
-  - url: http://www.wildsingapore.com/wildfacts/porifera/rainbow/200917sbwmn4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/rainbow/200917sbwmn4.jpg
     caption: Sembawang Beach, Sep 20 Photo shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/porifera/rainbow/150705skdlks1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/rainbow/150705skdlks1m3.jpg
     caption: Pulau Sekudu, Jun 15 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 

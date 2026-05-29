@@ -26,21 +26,21 @@ galleries:
       Lots of little animals often hide in large brown seaweeds. Look for them! Extracts
       of brown seaweeds are used extensively in our processed food.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/040423sntd0023m.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/padina/040423sntd0023m.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/040423snted0054m.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/sargassum/040423snted0054m.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/031226chgd0017m.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/dictyota/031226chgd0017m.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/051103sisg2851m.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/colpomenia/051103sisg2851m.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/ybranched/040818sntd4759m.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/ybranched/040818sntd4759m.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/veinedbranch/040919sntd7025m.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/veinedbranch/040919sntd7025m.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/noveinbranch/060115sntg3912m.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/noveinbranch/060115sntg3912m.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/turbinaria/040507flhcd0150ma.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/turbinaria/040507flhcd0150ma.jpg
     caption: ''
 links_references: '**Links**
 
@@ -163,7 +163,7 @@ For example, alginates make smoother ice cream, dripless paint and cosmetics. Th
 
 Alginates are extracted from larger brown seaweeds which are more numerous in colder waters thus the major producers are in countries bordering colder waters such as the US, France, Norway, UK and Japan. Kelp is an important source of this product. Annual world production of alginates is estimated at 27,000 tonnes from 500,000 tonnes of raw material, valued at around US$230million (as at 2000).
 
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/others/040423snted0087m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/others/040423snted0087m3.jpg)
 **
 Various brown seaweeds
 *Sentosa, Apr 04*

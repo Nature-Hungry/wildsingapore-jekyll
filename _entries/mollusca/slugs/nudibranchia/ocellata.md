@@ -28,20 +28,20 @@ suborder: Doridina
 infraorder: Doridoidei
 superfamily: Phyllidioidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ocellata/060813jngd6242m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/ocellata/060813jngd6242m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ocellata/060813jngd6242m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/ocellata/060813jngd6242m3.jpg
     caption: Pulau Jong, Aug 06
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ocellata/060813jngd6242m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/ocellata/060813jngd6242m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ocellata/060813jngd6240m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/ocellata/060813jngd6240m3.jpg
     caption: Pulau Jong, Aug 06
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ocellata/200310bbbjc1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/ocellata/200310bbbjc1.jpg
     caption: Beting Bemban Besar, Mar 2020 Photo shared by Jesselyn Chua on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ocellata/200310bbbjc1b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/ocellata/200310bbbjc1b.jpg
     caption: ''
 links_references: '**Links**
 

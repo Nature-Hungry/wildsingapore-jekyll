@@ -21,18 +21,18 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Ericales
 updated: Jun 2020
-coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/barringtonia/asiatica/090410ubnd9434m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/barringtonia/asiatica/090410ubnd9434m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/barringtonia/asiatica/090410ubnd9434m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/barringtonia/asiatica/090410ubnd9434m3.jpg
     caption: Bark pinkish grey.
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/barringtonia/asiatica/070803cjd5053m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/barringtonia/asiatica/070803cjd5053m3b.jpg
     caption: Young leaves pinkish.
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/barringtonia/asiatica/020120sbwrcp5221m6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/barringtonia/asiatica/020120sbwrcp5221m6.jpg
     caption: Sungei Buloh Wetland Reserve, Jan 02
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/barringtonia/asiatica/030910sbwrad0078m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/barringtonia/asiatica/030910sbwrad0078m3.jpg
     caption: Showy pom-pom shaped flower.
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/barringtonia/asiatica/090410ubnd9435m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/barringtonia/asiatica/090410ubnd9435m3.jpg
     caption: Squarish fruits that resemble lanterns.
 links_references: '**Links**
 

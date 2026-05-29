@@ -17,7 +17,7 @@ subphylum: Vertebrata
 class: Aves
 order: Passeriformes
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/060625bbd3342m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/melo/060625bbd3342m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -29,51 +29,51 @@ galleries:
       living beneath the sand. It is threatened by over-collection as food and for
       it shell.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/060625bbd3342m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/melo/060625bbd3342m3.jpg
     caption: Beting Bronok, Jun 06
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/050820bbg1813m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/melo/050820bbg1813m6l.jpg
     caption: Beting Bronok, Aug 05
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/140616bbmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/melo/140616bbmn.jpg
     caption: Baler snail eating a Noble volute ! Beting Bronok, Jun 14 Photo shared
       by Marcus Ng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/100619cjtch1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/melo/100619cjtch1m3.jpg
     caption: Baler snail eating a Noble volute ! Chek Jawa, Jun 10 Photo shared by
       Toh Chay Hoon on her blog.
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/100614bbd5993m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/melo/100614bbd5993m6l.jpg
     caption: A much smaller one riding on the back of a bigger one. Prelude to mating?
       Beting Bronok, Jun 10
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/080705bbd7195.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/melo/080705bbd7195.jpg
     caption: Small juvenile snail. Beting Bronok, Jul 08
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/110520chglks4m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/melo/110520chglks4m3a.jpg
     caption: '''Face'' of the Baler snail! Changi, May 11 Photo shared by Loh Kok
       Sheng on his blog .'
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/090622chglks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/melo/090622chglks.JPG
     caption: Changi, Jun 09 Photo shared by Loh Kok Sheng on flickr .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/120802chglks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/melo/120802chglks.JPG
     caption: Changi, Aug 12 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/100912chgnml1m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/melo/100912chgnml1m3a.jpg
     caption: Changi, Sep 10 Photo shared by Neo Mei Lin on her blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/180811chglks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/melo/180811chglks1.jpg
     caption: Changi, Aug 18 Photo shared by Loh Kok Sheng on facebook .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/080704bblks.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/melo/080704bblks.jpg
     caption: Eating a Gong-gong snail ? Beting Bronok, Jul 08 Photo shared by Loh
       Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/210627bbtch1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/melo/210627bbtch1.jpg
     caption: Beting Bronok, Jun 21 Photo shared by Toh Chay Hoon on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/230706bbky2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/melo/230706bbky2.jpg
     caption: Beting Bronok, Jul 23 Photo shared by Kelvin Yong on facebook .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/150618tmfhpy2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/melo/150618tmfhpy2m3.jpg
     caption: Tanah Merah Ferry Terminal, Jun 15 Photo shared by Heng Pei Yan on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/180909ecpdc1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/melo/180909ecpdc1.jpg
     caption: East Coast Park, Sep 18 Photo shared by Dayna Cheah on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/200723nrsccrk3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/melo/200723nrsccrk3.jpg
     caption: East Coast Park, Jul 20 Photo shared by Richard Kuah on facebook .
 links_references: '**Links**
 

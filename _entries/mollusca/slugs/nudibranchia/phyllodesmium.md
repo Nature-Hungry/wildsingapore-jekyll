@@ -22,31 +22,31 @@ order: Nudibranchia
 suborder: Aeolidina
 superfamily: Aeolidioidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phyllodesmium/191214cjjt5.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/phyllodesmium/191214cjjt5.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phyllodesmium/191214cjjt5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/phyllodesmium/191214cjjt5.jpg
     caption: Chek Jawa, Dec 19 Photo shared by Jonathan Tan on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phyllodesmium/171105cjtch.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/phyllodesmium/171105cjtch.jpg
     caption: Chek Jawa, Nov 17 Photo shared by Loh Kok Sheng on facebook .
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phyllodesmium/230606cjjll3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/phyllodesmium/230606cjjll3.jpg
     caption: Chek Jawa, Jun 23 Photo shared by Jianlin Liu on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phyllodesmium/210527chgsaftch1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/phyllodesmium/210527chgsaftch1.jpg
     caption: Changi Creek, May 21 Photo shared by Toh Chay Hoon on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phyllodesmium/210527prpvc2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/phyllodesmium/210527prpvc2.jpg
     caption: Pasir Ris, May 21 Photo shared by Vincent Choo on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phyllodesmium/070607sntmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/phyllodesmium/070607sntmn.jpg
     caption: Sentosa, Jun 07 Photo shared by Marcus Ng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phyllodesmium/080622snttch1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/phyllodesmium/080622snttch1m3.jpg
     caption: Sentosa, Jun 08 Photo shared by Toh Chay Hoon on flickr
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phyllodesmium/220419sjitch1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/phyllodesmium/220419sjitch1.jpg
     caption: Phyllodesmium macphersonae St. John's Island, Apr 22 Photo and ID shared
       by Toh Chay Hoon on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phyllodesmium/090513sntlks1m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/phyllodesmium/090513sntlks1m6l.jpg
     caption: Sentosa, May 09 Photo shared by Loh Kok Sheng on his blog .
 links_references: '**Links**
 

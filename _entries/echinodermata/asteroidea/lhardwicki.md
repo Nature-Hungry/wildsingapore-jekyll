@@ -22,22 +22,22 @@ class: Asteroidea
 superorder: Valvatacea
 order: Paxillosida
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8657m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/lhardwicki/080801chgd8657m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8657m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/lhardwicki/080801chgd8657m3.jpg
     caption: Changi, Aug 08
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8657m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/lhardwicki/080801chgd8657m3b.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8658m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/lhardwicki/080801chgd8658m3.jpg
     caption: Underside.
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8658m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/lhardwicki/080801chgd8658m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8658m3d.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/lhardwicki/080801chgd8658m3d.jpg
     caption: Pointed tube feet.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/170710chgay1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/lhardwicki/170710chgay1.jpg
     caption: Changi, Jul 17 Photo shared by Abel Yeo on facebook ..
 links_references: '**Links**
 

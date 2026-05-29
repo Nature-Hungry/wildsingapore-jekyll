@@ -20,18 +20,18 @@ subterclass: Tectipleura
 order: Cephalaspidea
 superfamily: Philinoidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/lineolata/150219cyrlks2m3.JPG
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/lineolata/150219cyrlks2m3.JPG
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/lineolata/150219cyrlks2m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/lineolata/150219cyrlks2m3.JPG
     caption: Cyrene Reef, Feb 1 5 Photo shared by Loh Kok Sheng on his blog Identified
       by Toh Chay Hoon on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/lineolata/160210cyrmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/lineolata/160210cyrmn.jpg
     caption: Cyrene Reef, Feb 16 Photo shared by Marcus Ng on facebook .
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/lineolata/111030skdlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/lineolata/111030skdlks.JPG
     caption: Pulau Sekudu, Oct 11 Photo shared by Lim Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/lineolata/180420chg4ay.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/lineolata/180420chg4ay.jpg
     caption: Changi, Apr 18 Photo shared by Abel Yeo on facebook .
 links_references: '**Links**
 

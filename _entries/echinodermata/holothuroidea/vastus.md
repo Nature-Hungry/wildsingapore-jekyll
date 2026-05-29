@@ -26,19 +26,19 @@ class: Holothuroidea
 subclass: Actinopoda
 order: Synallactida
 updated: Apr 2020
-coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/vastus/160723smkelks3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/vastus/160723smkelks3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/vastus/160723smkelks3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/vastus/160723smkelks3.jpg
     caption: Pulau Semakau, Jul 16 Photo by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/vastus/160723smkelks4a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/vastus/160723smkelks4a.jpg
     caption: Large conical bumps with dark stripes.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/vastus/160723smkelks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/vastus/160723smkelks2.jpg
     caption: Flat underside.
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/vastus/160723smkelks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/vastus/160723smkelks1.jpg
     caption: Short tube feet in three broad rows.
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/vastus/160723smkelks1a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/vastus/160723smkelks1a.jpg
     caption: Short tube feet.
 links_references: '**Links**
 

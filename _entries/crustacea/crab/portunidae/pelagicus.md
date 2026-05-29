@@ -32,7 +32,7 @@ zoosubsection: Heterotremata
 superfamily: Portunoidea
 subfamily: Portuninae
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/050622cftg8190m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/pelagicus/050622cftg8190m3.jpg
 links_references: "**Links**\n- [Flower\n  Crab (*Portunus pelagicus*)](http://mangrove.nus.edu.sg/pub/seashore/text/202)\n\
   \  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A\n  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
   \ The Singapore Science Centre,\n  Singapore. 160 pp.\n- [Flower\n  Crab (*Portunus\
@@ -69,36 +69,36 @@ galleries:
     caption: They are edible and among our favourite seafood. They can swim fast using
       their paddle-shaped last legs. They do not survive long out of water.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/050622cftg8190m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/pelagicus/050622cftg8190m3.jpg
     caption: Changi, Jun 05
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/tiny/040719sntd2861m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/tiny/040719sntd2861m3.jpg
     caption: Flower crab (top) next to its moulted shell (bottom) Sentosa, Jul 04
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/050621skdg8000m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/pelagicus/050621skdg8000m3.jpg
     caption: Mating crabs, male on top. Pulau Sekudu, Jun 05
   gallery3:
   - url: http://www.wildsingapore.com/othercrust/ciriipedia/parasitic/060429skdd1418m3.jpg
     caption: Those infected with parasitic barnacles tend to be covered with seaweeds
       . Pulau Sekudu, Apr 06
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/101008tusd1761m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/pelagicus/101008tusd1761m3.jpg
     caption: Buried in sand. Tuas, Oct 10
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/050428cftd2923m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/pelagicus/050428cftd2923m3.jpg
     caption: Tiny ones are also seen. This one is hardly bigger than a Button snail.
       Changi, Apr 05
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/201020prpalks4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/pelagicus/201020prpalks4.jpg
     caption: Pasir Ris-Loyang, Oct 20 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/100528tkknml5m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/pelagicus/100528tkknml5m3.jpg
     caption: Pulau Tekukor , May 10 Photo shared by Neo Mei Lin on her blog .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/110423tpllks1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/pelagicus/110423tpllks1m3.jpg
     caption: Terumbu Pempang Laut, Apr 11 Photo shared by Loh Kok Sheng on his blog
       .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/151001blylks11m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/pelagicus/151001blylks11m3.jpg
     caption: Berlayar Creek, Oct 15 Photo shared by Loh Kok Sheng on facebook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/100130brkd8464m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/pelagicus/100130brkd8464m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/100810snglks4m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/pelagicus/100810snglks4m3.jpg
     caption: Pulau Senang, Aug 10 Photo shared by Loh Kok Sheng on his flickr .
   gallery7:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1

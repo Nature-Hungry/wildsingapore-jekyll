@@ -20,14 +20,14 @@ suborder: Heteroptera
 infraorder: Gerromorpha
 superfamily: Gerroidea
 updated: Jan 2020
-coverimg: http://www.wildsingapore.com/wildfacts/insecta/skater/080831sisd0183m3a.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/insecta/skater/080831sisd0183m3a.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/insecta/skater/080831sisd0183m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/insecta/skater/080831sisd0183m3a.jpg
     caption: A mating pair of Halobates hayanus Sisters Island, Aug 08
-  - url: http://www.wildsingapore.com/wildfacts/insecta/skater/070102sismn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/insecta/skater/070102sismn.jpg
     caption: A mating pair of Halobates hayanus Sisters Island, Jan 07
-  - url: http://www.wildsingapore.com/wildfacts/insecta/skater/200111smksjc2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/insecta/skater/200111smksjc2.jpg
     caption: Pulau Semakau (South), Jan 20 Photo shared by Joleen Chan on facebook
       .
 links_references: '**Links**

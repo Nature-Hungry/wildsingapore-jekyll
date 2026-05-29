@@ -17,93 +17,93 @@ subphylum: Rhabditophora
 order: Polycladida
 suborder: Cotylea
 updated: Feb 2020
-coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/fineline/180714cjm6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/fineline/180714cjm6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fineline/180714cjm6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/fineline/180714cjm6l.jpg
     caption: Chek Jawa, Jul 18
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fineline/180714cjm3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/fineline/180714cjm3b.jpg
     caption: Underside plain pink.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fineline/180714cjm3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/fineline/180714cjm3a.jpg
     caption: Erect pseudotentacles.
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fineline/180714cjm3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/fineline/180714cjm3c.jpg
     caption: Black wide margin with fine lines.
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fineline/180714cjm3d.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/fineline/180714cjm3d.jpg
     caption: Underside with wide black margin.
   gallery3:
   - url: https://live.staticflickr.com/31337/49370284232_d78e8ae378_z.jpg
     caption: ''
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fineline/171204chglks3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/fineline/171204chglks3.jpg
     caption: Changi, Dec 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fineline/181226chgay1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/fineline/181226chgay1.jpg
     caption: Changi, Dec 18 Photo shared by Abel Yeo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fineline/210528chg7lks7.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/fineline/210528chg7lks7.jpg
     caption: Changi Carpark 7, May 21 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fineline/130820skdlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/fineline/130820skdlks.JPG
     caption: Pulau Sekudu, Aug 13 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fineline/090527skdlks1m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/fineline/090527skdlks1m3.JPG
     caption: Pulau Sekudu, May 09 Photo shared by Loh Kok Sheng on his blog .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fineline/130721cjlks1.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/fineline/130721cjlks1.JPG
     caption: Chek Jawa, Jul 13 Photo shared by Loh Kok Sheng on flickr .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fineline/141109lazlks8m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/fineline/141109lazlks8m3.jpg
     caption: Seringat-Kias, Nov 14 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fineline/141109lazlks4m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/fineline/141109lazlks4m3.jpg
     caption: Seringat-Kias, Nov 14 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fineline/240113lazlks3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/fineline/240113lazlks3.jpg
     caption: Lazarus Island, Jan 24 Photo shared by Loh Kok Sheng on facebook .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fineline/240527srplks15.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/fineline/240527srplks15.jpg
     caption: Sentosa Serapong, May 24 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fineline/240211bigsistch2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/fineline/240211bigsistch2.jpg
     caption: Big Sisters Island, Feb 24 Photo shared by Toh Chay Hoon on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fineline/260217bsislks6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/fineline/260217bsislks6.jpg
     caption: Big Sisters Island, Feb 26 Photo shared by Loh Kok Sheng on facebook
       .
   gallery9:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fineline/200112sjiljll5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/fineline/200112sjiljll5.jpg
     caption: St John's Island, Jan 20 Photo shared by Jianlin Liu on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fineline/200126bsisjll6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/fineline/200126bsisjll6.jpg
     caption: Big Sisters Island, Jan 20 Photo shared by Jianlin Liu on facebook .
   gallery10:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fineline/190520hntlks6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/fineline/190520hntlks6.jpg
     caption: Pulau Hantu, May 19 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fineline/121114smklks1m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/fineline/121114smklks1m3.JPG
     caption: Pulau Semakau, Nov 12 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fineline/201215smkejll4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/fineline/201215smkejll4.jpg
     caption: Pulau Semakau (East), Dec 20 Photo shared by Jianlin Liu on facebook
       .
   gallery11:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fineline/080210smktch02m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/fineline/080210smktch02m3.jpg
     caption: Pulau Semakau, Feb 08
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fineline/080210smktch02m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/fineline/080210smktch02m3a.jpg
     caption: Photo shared by Toh Chay Hoon on her flickr .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fineline/080210smktch03m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/fineline/080210smktch03m3.jpg
     caption: ''
   gallery12:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fineline/170823tsmkjt3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/fineline/170823tsmkjt3.jpg
     caption: Terumbu Semakau, Aug 17 Photo shared by Jonathan Tan on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fineline/121115tsmklks.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/fineline/121115tsmklks.jpg
     caption: Terumbu Semakau, Nov 12 Photo shared by Loh Kok Sheng on flickr .
   gallery13:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fineline/170627tbay1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/fineline/170627tbay1.jpg
     caption: Terumbu Bemban, Jun 17 Photo shared by Abel Yeo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fineline/180717tbll1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/fineline/180717tbll1.jpg
     caption: Terumbu Bemban, Jul 18 Photo shared by Liz Lim on facebook .
   gallery14:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fineline/181124bbbjc.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/fineline/181124bbbjc.jpg
     caption: Beting Bemban Besar, Nov 18 Photo shared by Jesselyn Chua on facebook
       .
   gallery15:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fineline/150121tpkjl1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/fineline/150121tpkjl1m3.jpg
     caption: Terumbu Pempang Kecil, Jan 15 Photo shared by Jerome Lim on his blog
       .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/fineline/220201brklks5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/fineline/220201brklks5.jpg
     caption: Pulau Berkas, Feb 22 Photo shared by Loh Kok Sheng on facebook .
   gallery16:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1

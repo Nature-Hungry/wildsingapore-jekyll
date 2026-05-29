@@ -22,7 +22,7 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Mugiliformes
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/040828skdd5497m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ambassidae/kopsii/040828skdd5497m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -34,29 +34,29 @@ galleries:
       Large eyes and upturned mouths. Sometimes stranded in pools at low tide. Watch
       your step!
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/040828skdd5497m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ambassidae/kopsii/040828skdd5497m3.jpg
     caption: Mouth upturned, large eyes. Pulau Sekudu, Aug 04
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/050410kusg4216m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ambassidae/kopsii/050410kusg4216m6l.jpg
     caption: Kops' glass perchelet (Ambassis kopsii ) Dorsal fin deeply notched, with
       blackish tip. Kusu Island, Apr 05
   gallery3:
   - url: https://live.staticflickr.com/4567/37781483284_ce1cea629d_z.jpg
     caption: Often seen in large schools. Sungei Buloh Wetland Reserve, Nov 17
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/250626ubnrk5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ambassidae/kopsii/250626ubnrk5.jpg
     caption: Pulau Ubin Jetty, Jun 25 Photo shared by Richard Kuah on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/171010blymn2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ambassidae/kopsii/171010blymn2.jpg
     caption: Berlayar Creek, Oct 17 Photo shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/241019lazccn2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ambassidae/kopsii/241019lazccn2.jpg
     caption: Lazarus Island, Oct 24 Photo shared by Che Cheng Neo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/251009sjilks11.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ambassidae/kopsii/251009sjilks11.jpg
     caption: St John's Island, Oct 25 Photo shared by Loh Kok Sheng on facebook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/250810bsisjk6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ambassidae/kopsii/250810bsisjk6.jpg
     caption: Big Sisters, Aug 25 Photo shared by Jayden Kang on facebook .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/160208smkshpy5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ambassidae/kopsii/160208smkshpy5.jpg
     caption: Pulau Semakau South, Feb 16 Photo shared by Heng Pei Yan on facebook
       .
 links_references: '**Links**

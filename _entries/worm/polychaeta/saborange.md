@@ -18,37 +18,37 @@ subclass: Sedentaria
 infraclass: Canalipalpata
 order: Sabellida
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/orange/060809skdd5505m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/orange/060809skdd5505m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/orange/060809skdd5505m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/orange/060809skdd5505m3.jpg
     caption: Pulau Sekudu, Jul 07
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/orange/060809skdd5505m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/orange/060809skdd5505m3c.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/orange/060809skdd5505m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/orange/060809skdd5505m3a.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/orange/220616chgelks12.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/orange/220616chgelks12.jpg
     caption: Changi Lost Coast, Jan 22 Photo shared by Loh Kok Sheng on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/orange/090628lazlt4m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/orange/090628lazlt4m3.jpg
     caption: Seringat-Kias, Jun 09 Photo shared by Liana Tang on her blog .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/orange/250909lazlks9.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/orange/250909lazlks9.jpg
     caption: Seringat-Kias mangrove lagoon, Sep 25 Photo shared by Loh Kok Sheng on
       facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/orange/160509srpdc6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/orange/160509srpdc6.jpg
     caption: Sentosa Serapong, May 16 Photo shared by Dayna Cheah on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/orange/130628thntlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/orange/130628thntlks.JPG
     caption: Terumbu Hantu, Jun 13 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/orange/240528tsllks4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/orange/240528tsllks4.jpg
     caption: Terumbu Selegie, May 24 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/orange/091204pawjk10m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/orange/091204pawjk10m3.jpg
     caption: Pulau Pawai, Dec 09 Photo shared by James Koh on his flickr .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/orange/100131slud8816m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/orange/100131slud8816m3a.jpg
     caption: Terumbu Salu, Jan 10
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/orange/100601slud4714m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/orange/100601slud4714m3.jpg
     caption: Pulau Salu, Jun 10
 location:
 - chg

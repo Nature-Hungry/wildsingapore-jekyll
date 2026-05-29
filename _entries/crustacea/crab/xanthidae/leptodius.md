@@ -30,25 +30,25 @@ zoosubsection: Heterotremata
 superfamily: Xanthoidea
 subfamily: Xanthinae
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/leptodius/090922sjid1621m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/leptodius/090922sjid1621m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/leptodius/090922sjid1621m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/leptodius/090922sjid1621m3.jpg
     caption: Pincers with bumpy elbows. St. John's Island, Sep 09
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/leptodius/040919sntd7033m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/leptodius/040919sntd7033m3.jpg
     caption: Sentosa, Sep 04
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/leptodius/040919sntd7033m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/leptodius/040919sntd7033m3a.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/leptodius/200706skdmn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/leptodius/200706skdmn1.jpg
     caption: Pulau Sekudu, Jul 20 Photo shared by Marcus Ng on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/leptodius/210822ssisvc2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/leptodius/210822ssisvc2.jpg
     caption: Small Sisters Island, Aug 21 Photo shared by Vincent Choo on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/leptodius/100528tkkjk2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/leptodius/100528tkkjk2m3.jpg
     caption: Pulau Tekukor, May 10 Photo shared by James Koh on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/leptodius/100612sngmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/leptodius/100612sngmn.jpg
     caption: Pulau Senang, Jun 10 Photo shared by Marcus Ng on flickr .
 links_references: '**Links**
 

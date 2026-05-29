@@ -21,12 +21,12 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Dilleniales
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/plants/others/dillenia/suffruticosa/101212admd3398m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/others/dillenia/suffruticosa/101212admd3398m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/dillenia/suffruticosa/031115rmbrad0018m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/dillenia/suffruticosa/031115rmbrad0018m3.jpg
     caption: Opened fruit with red seeds. Sungei Buloh Wetland Reserve, Nov 03
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/dillenia/suffruticosa/031115rmbrad0082m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/dillenia/suffruticosa/031115rmbrad0082m3a.jpg
     caption: Yellow flower. Sungei Buloh Wetland Reserve, Nov 03
   gallery2:
   - url: http://www.wildsingapore.com/insecta/pycanum/040207ubnd0027m3.jpg
@@ -101,15 +101,15 @@ sp.) are often seen on the plant and it appears to feed on the plant, sucking th
 **Human uses:**
 The large leaves of the Simpoh air were used to wrap food such as tempeh (fermented soyabean cakes), or formed into shallow cones to contain traditional "fast food" such as rojak.
 
-*![](http://www.wildsingapore.com/wildfacts/plants/others/dillenia/suffruticosa/101212admd3398m6l.jpg)
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/others/dillenia/suffruticosa/101212admd3398m6l.jpg)
 
 Admiralty Park, Dec 10
 
-![](http://www.wildsingapore.com/wildfacts/plants/others/dillenia/suffruticosa/090418admd0201m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/others/dillenia/suffruticosa/090418admd0201m3.jpg)
 
 Admiralty Park, Apr 09
 
-![](http://www.wildsingapore.com/wildfacts/plants/others/dillenia/suffruticosa/101212admd3403m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/others/dillenia/suffruticosa/101212admd3403m3.jpg)
 
 Young leaf.
 

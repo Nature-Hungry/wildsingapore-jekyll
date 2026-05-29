@@ -18,17 +18,17 @@ subclass: Sedentaria
 infraclass: Canalipalpata
 order: Sabellida
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/olive/091009tmd2683m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/olive/091009tmd2683m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/olive/091009tmd2683m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/olive/091009tmd2683m3.jpg
     caption: Tanah Merah, Oct 09
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/olive/091009tmd2683m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/olive/091009tmd2683m3b.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/olive/091009tmd2683m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/olive/091009tmd2683m3a.jpg
     caption: Tanah Merah, Oct 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/olive/090722chgd7801m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/olive/090722chgd7801m3.jpg
     caption: Sometimes appears 'untidy'. Changi, Jul 09
 location:
 - chg

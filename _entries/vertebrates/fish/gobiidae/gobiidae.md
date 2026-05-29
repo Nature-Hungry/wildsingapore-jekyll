@@ -18,7 +18,7 @@ superorder: Acanthomorpha
 order: Gobiiformes
 suborder: Gobioidei
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/020811cjcpd0419m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/stethophthalmus/020811cjcpd0419m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -30,71 +30,71 @@ galleries:
       Some gobies live with snapping shrimps, others in corals. They are well camouflaged.
       Watch your step!
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/020811cjcpd0419m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/stethophthalmus/020811cjcpd0419m3.jpg
     caption: Gobies can be colourful! Chek Jawa, Aug 02
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/ornatus/050607chgg7251m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/ornatus/050607chgg7251m3.jpg
     caption: But most are well camouflaged. Changi, Jul 05
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histrio/100201hntd9103.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/histrio/100201hntd9103.jpg
     caption: The Broad barred acropora goby lives only in Acropora corals. Pulau Hantu,
       Feb 10
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/maudae/050513labg6528m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/maudae/050513labg6528m3.jpg
     caption: Many-banded snapping shrimp with a young Saddled shrimp-goby . Labrador,
       May 05
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/maudae/090208smkthb1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/maudae/090208smkthb1m3.jpg
     caption: Many-banded snapping shrimp with an adult Saddled shrimp-goby . Pulau
       Semakau, Feb 09 Photos shared by Tang Hung Bun.
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/leptocephalus/080830kusd9939m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/leptocephalus/080830kusd9939m3.jpg
     caption: Many-banded snapping shrimp with a Pink-speckled shrimp-goby . Kusu Island,
       Aug 08
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/boddarti/130421ubnd5457m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/boddarti/130421ubnd5457m3.jpg
     caption: Mudskippers are gobies too! Pulau Ubin, Apr 13
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/kabiliensis/110822admd9796m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/kabiliensis/110822admd9796m3.jpg
     caption: The Bumblebee goby is found in mangroves. Admiralty Park, Mar 11
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/biocellatus/100612chgd5308m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/biocellatus/100612chgd5308m3.jpg
     caption: The Crocodile flathead goby looks different! Changi, Jun 10
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gobiidaenoid/230606cjky7.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/gobiidaenoid/230606cjky7.jpg
     caption: Seen on a sea whip . Chek Jawa, Jun 23 Photo shared by Kelvin Yong on
       facebook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/caninus/100913prpd1556m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/caninus/100913prpd1556m3.jpg
     caption: Green-shouldered goby
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/bathygobius/070901sjid6547m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/bathygobius/070901sjid6547m3.jpg
     caption: Frill-fin goby
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/nebulosus/060726chgd4918m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/nebulosus/060726chgd4918m3.jpg
     caption: Shadow goby
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/triangularis/100429prpd1888m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/triangularis/100429prpd1888m3.jpg
     caption: Brown shore goby
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/goldmanni/140811tryd8309m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/goldmanni/140811tryd8309m3a.jpg
     caption: Black-spotted lagoon-goby
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/ornatus/110506tmftd0826m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/ornatus/110506tmftd0826m3.jpg
     caption: Ornate lagoon-goby
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/biocellatus/100612chgd5276m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/biocellatus/100612chgd5276m3.jpg
     caption: Crocodile flathead goby
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/120820sisd0649m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/stethophthalmus/120820sisd0649m3.jpg
     caption: Head-stripe goby
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/muralis/110601tmnbd3312m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/muralis/110601tmnbd3312m3.jpg
     caption: Mural glider-goby
   gallery9:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/leptocephalus/080830kusd9939m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/leptocephalus/080830kusd9939m3b.jpg
     caption: Slender-lined shrimp goby
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/maudae/050513labg6519m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/maudae/050513labg6519m3.jpg
     caption: Saddled shrimp goby
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/maudae/090625cyrd5636m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/maudae/090625cyrd5636m3.jpg
     caption: Saddled shrimp goby
   gallery10:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histrio/051204sisg3318m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/histrio/051204sisg3318m3.jpg
     caption: Broad barred acropora goby
   gallery11:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/kabiliensis/110822admd9796m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/kabiliensis/110822admd9796m3.jpg
     caption: Mangrove bumblebee goby
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/javanicus/060627krjd3690m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/javanicus/060627krjd3690m3.jpg
     caption: Java fatnose goby
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/sadanundio/110307admd6820m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/sadanundio/110307admd6820m3.jpg
     caption: Grey knight goby
 links_references: "**Links**\n- [Mudskippers](http://mangrove.nus.edu.sg/guidebooks/text/2106)\n\
   Ng, Peter K. L. & N. Sivasothi, 1999.\n*[A Guide to the Mangroves of Singapore II\

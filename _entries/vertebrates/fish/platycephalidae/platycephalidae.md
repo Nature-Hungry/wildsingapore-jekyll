@@ -18,26 +18,26 @@ superorder: Acanthomorpha
 order: Perciformes
 suborder: Scorpaenoidei
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/081117ecpmd2274m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/platycephalidae/indicus/081117ecpmd2274m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/081117ecpmd2274m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/platycephalidae/indicus/081117ecpmd2274m3.jpg
     caption: East Coast, Nov 08
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/nematophthalmus/070614chgg0248m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/platycephalidae/nematophthalmus/070614chgg0248m6l.jpg
     caption: Changi, Jun 07
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/030927cjd0083m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/platycephalidae/indicus/030927cjd0083m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/030927cjd0083m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/platycephalidae/indicus/030927cjd0083m3c.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/030927cjd0083m3e.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/platycephalidae/indicus/030927cjd0083m3e.jpg
     caption: ''
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/nematophthalmus/040730skdd3246m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/platycephalidae/nematophthalmus/040730skdd3246m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/nematophthalmus/040730skdd3246m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/platycephalidae/nematophthalmus/040730skdd3246m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/nematophthalmus/040730skdd3246m3d.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/platycephalidae/nematophthalmus/040730skdd3246m3d.jpg
     caption: ''
 links_references: '**Links**
 

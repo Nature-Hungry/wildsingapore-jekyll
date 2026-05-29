@@ -27,19 +27,19 @@ subterclass: Echinacea
 order: Camarodonta
 infraorder: Temnopleuridea
 updated: Apr 2020
-coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/bicolor/090528mecpd2807m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/bicolor/090528mecpd2807m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/bicolor/090528mecpd2807m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/bicolor/090528mecpd2807m3.jpg
     caption: East Coast Park, May 09
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/bicolor/090528mecpd2807m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/bicolor/090528mecpd2807m3b.jpg
     caption: 'Long banded spines:'
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/bicolor/090528mecpd2814m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/bicolor/090528mecpd2814m3c.jpg
     caption: Close up of spines and tube feet.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/bicolor/090528mecpd2814m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/bicolor/090528mecpd2814m3.jpg
     caption: Underside.
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/bicolor/090528mecpd2814m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/bicolor/090528mecpd2814m3a.jpg
     caption: Mouth on underside.
 links_references: '**Links**
 

@@ -17,19 +17,19 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/100201hntd8975m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/galaxea/100201hntd8975m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/100201hntd8975m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/galaxea/100201hntd8975m3.jpg
     caption: Galaxy coral
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/110422tbmd9794m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/paraancora/110422tbmd9794m3.jpg
     caption: Branching anchor coral
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/060714rlhg0654m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/ancora/060714rlhg0654m3.jpg
     caption: Anchor coral
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/051203smkg3165m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/glabrescens/051203smkg3165m3.jpg
     caption: Torch coral
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/050310smkg3182m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/paradivisa/050310smkg3182m3c.jpg
     caption: Frog spawn coral
 links_references: '**Links**
 

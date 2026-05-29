@@ -13,7 +13,7 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Oct 2019
-coverimg: http://www.wildsingapore.com/wildfacts/worm/phoronida/phoronida/030630chgd0017m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/phoronida/phoronida/030630chgd0017m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet2.gif
@@ -28,25 +28,25 @@ galleries:
       but belong to a different animal group. Their tubes are made of chitin, the
       same substance that insect exoskeleton is made of.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/worm/phoronida/phoronida/030630chgd0017m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/phoronida/phoronida/030630chgd0017m3.jpg
     caption: Changi, Jun 03
-  - url: http://www.wildsingapore.com/wildfacts/worm/phoronida/phoronida/050823chgg2313m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/phoronida/phoronida/050823chgg2313m3c.jpg
     caption: Are the white stuff eggs? Changi, Aug 05
-  - url: http://www.wildsingapore.com/wildfacts/worm/phoronida/phoronida/050823chgg2313m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/phoronida/phoronida/050823chgg2313m3.jpg
     caption: The anus is at the top of the body in between the two 'fans'. Changi,
       Aug 05
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/worm/phoronida/phoronida/150319tusmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/phoronida/phoronida/150319tusmn.jpg
     caption: Tuas, Mar 15 Photo shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/phoronida/phoronida/150319tusmna.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/phoronida/phoronida/150319tusmna.jpg
     caption: ''
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/worm/phoronida/phoronida/170723ubnlks5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/phoronida/phoronida/170723ubnlks5.jpg
     caption: Pulau Ubin, Jul 17 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/worm/phoronida/phoronida/090920smklks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/phoronida/phoronida/090920smklks.JPG
     caption: Pulau Semakau, Sep 09 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/worm/phoronida/phoronida/091205sudtch5m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/phoronida/phoronida/091205sudtch5m3a.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by Toh Chay Hoon on flickr .
 links_references: '**Links**
 

@@ -18,7 +18,7 @@ superorder: Acanthomorpha
 order: Gobiiformes
 suborder: Gobioidei
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/chrysospilos/050611kusg7778m3d.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/chrysospilos/050611kusg7778m3d.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -29,37 +29,37 @@ galleries:
     caption: They are fishes but can breathe out of water. How do they do it? They
       use their pectoral fins to crawl. They are well camouflaged. Watch your step!
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/chrysospilos/050611kusg7778m3d.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/chrysospilos/050611kusg7778m3d.jpg
     caption: Bulbous eyes high on the head. Kusu Island, Jun 05
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/chrysospilos/091226cjd6306m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/chrysospilos/091226cjd6306m3a.jpg
     caption: Dorsal fin often colourful and raised to communicate with other mudskippers.
       Chek Jawa, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/071021cjd7025m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/walailakae/071021cjd7025m3a.jpg
     caption: These fishes can be quite quarrelsome. Chek Jawa, Oct 07
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/120215sbwrd6794m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/schlosseri/120215sbwrd6794m3.jpg
     caption: A tunnel at the base of the 'swimming pool'. Sungei Buloh Wetland Reserve,
       Feb 12
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/120215sbwrd6785m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/schlosseri/120215sbwrd6785m6l.jpg
     caption: Mudskipper tracks on the mud. Sungei Buloh Wetland Reserve, Feb 12
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/chrysospilos/110220lazd6337m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/chrysospilos/110220lazd6337m3.jpg
     caption: Gold-spotted mudskipper
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/150313deadfishd2601m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/schlosseri/150313deadfishd2601m3.jpg
     caption: Giant mudskipper
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/091121cjd4533m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/walailakae/091121cjd4533m3.jpg
     caption: Yellow-spotted mudskipper
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/091226cjd6307m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/histophorus/091226cjd6307m3.jpg
     caption: Bearded mudskipper
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/boddarti/130614cjd7164m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/boddarti/130614cjd7164m3.jpg
     caption: Blue-spotted mudskipper
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/argentilineatus/090229smkd7272m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/argentilineatus/090229smkd7272m3.jpg
     caption: Silver lined mudskipper
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gracilis/090114labd5309m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/gracilis/090114labd5309m3.jpg
     caption: Slender mudskipper
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/variabilis/051019smkg2790m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/variabilis/051019smkg2790m3.jpg
     caption: Dusky-gilled mudskipper
 links_references: '**Links**
 

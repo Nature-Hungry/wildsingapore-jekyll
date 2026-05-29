@@ -18,7 +18,7 @@ superorder: Acanthomorpha
 order: Tetraodontiformes
 suborder: Tetraodontoidei
 updated: Nov 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/stellatus/161214sjiro2.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/stellatus/161214sjiro2.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -31,31 +31,31 @@ galleries:
       or air to deter predators. But don't force a pufferfish to do this. They have
       powerful teeth and can give a nasty bite.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/stellatus/161214sjiro2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/stellatus/161214sjiro2.jpg
     caption: And inflated fish that was dead/dying and washed ashore. St. John's Island,
       Dec 16 Photo shared by Rene Ong on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/reticularis/081101chgik2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/reticularis/081101chgik2.jpg
     caption: Fused teeth, on a dead pufferfish. Changi, Nov 08 Photo shared by Ivan
       Kwan on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/reticularis/081101chgik2a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/reticularis/081101chgik2a.jpg
     caption: Fine prickly skin, on a dead pufferfish. Changi, Nov 08 Photo shared
       by Ivan Kwan on flickr .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/patoca/050708labd4747m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/patoca/050708labd4747m3.jpg
     caption: Milk-spotted pufferfish
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/nigroviridis/050218sbwrd0424m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/nigroviridis/050218sbwrd0424m3.jpg
     caption: Spotted green pufferfish
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/070219sisd8189m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/immaculatus/070219sisd8189m3.jpg
     caption: Yelloweye pufferfish
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/caeruleopunctatus/sbr2019-054-055-caeruleopunctatus.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/caeruleopunctatus/sbr2019-054-055-caeruleopunctatus.jpg
     caption: Blue-spotted pufferfish
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/stellatus/sbr2019-054-055-stellatus.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/stellatus/sbr2019-054-055-stellatus.jpg
     caption: Starry pufferfish
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/reticularis/sbr2018-091.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/reticularis/sbr2018-091.jpg
     caption: Reticulated pufferfish
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/mappa/sbr2019-054-055-mappa.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/mappa/sbr2019-054-055-mappa.jpg
     caption: Map pufferfish
 links_references: '**Links**
 

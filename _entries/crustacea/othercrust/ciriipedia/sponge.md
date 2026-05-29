@@ -23,22 +23,22 @@ superorder: Thoracicalcarea
 order: Balanomorpha
 superfamily: Balanoidea
 updated: Mar 2020
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/sponge/050509hntg5946m3b.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/sponge/050509hntg5946m3b.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/sponge/050509hntg5946m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/sponge/050509hntg5946m3b.jpg
     caption: Pulau Hantu, May 05
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/sponge/080919sntd0612m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/sponge/080919sntd0612m3b.jpg
     caption: Sentosa, Sep 08
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/sponge/080519sisd3438m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/sponge/080519sisd3438m3b.jpg
     caption: Sisters Island, May 08
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/sponge/120819cyrmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/sponge/120819cyrmn.jpg
     caption: Cyrene Reef, Aug 12 Photo shared by Marcus Ng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/sponge/180912tkkmn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/sponge/180912tkkmn1.jpg
     caption: Pulau Tekukor, Sep 19 Photo shared by Marcus Ng on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/sponge/230522tptmn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/sponge/230522tptmn1.jpg
     caption: Terumbu Pempang Tengah, May 23 Photo shared by Marcus Ng on facebook
       .
   gallery4:

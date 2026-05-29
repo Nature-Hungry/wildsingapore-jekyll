@@ -19,44 +19,44 @@ order: Sapindales
 subfamily: Cedreloideae
 tribe: Xylocarpeae
 updated: Jan 2013
-coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090208smkd6456m6.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/granatum/090208smkd6456m6.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090208smkd6456m6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/granatum/090208smkd6456m6.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090823cjd9861m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/moluccensis/090823cjd9861m6l.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/rumphii/090711sjid7167m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/rumphii/090711sjid7167m6l.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090208smkd6461m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/granatum/090208smkd6461m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090126ubnd6185m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/moluccensis/090126ubnd6185m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/rumphii/090401sntd8891m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/rumphii/090401sntd8891m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090124ubnd6016m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/granatum/090124ubnd6016m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090126ubnd6188m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/moluccensis/090126ubnd6188m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/rumphii/090809sjid8713m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/rumphii/090809sjid8713m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090126ubnd6191m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/granatum/090126ubnd6191m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090126ubnd6182m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/moluccensis/090126ubnd6182m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/rumphii/090401sntd8875m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/rumphii/090401sntd8875m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090124ubnd6015m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/granatum/090124ubnd6015m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090823cjd9863m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/moluccensis/090823cjd9863m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/rumphii/090401sntd8897m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/rumphii/090401sntd8897m3b.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090411lckd9438m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/granatum/090411lckd9438m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090823cjd9874m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/moluccensis/090823cjd9874m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/rumphii/100321sntd9690m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/rumphii/100321sntd9690m3a.jpg
     caption: ''
 links_references: '**Links**
 
@@ -127,7 +127,7 @@ is listed as 'Endangered', while
 *Xylocarpus rumphii*
 is listed as 'Critically Endangered' on the Red List of threatened plants of Singapore.
 
-![](http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090208smkd6456m6.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/granatum/090208smkd6456m6.jpg)
 
 *Pulau Semakau, Jan 09*
 

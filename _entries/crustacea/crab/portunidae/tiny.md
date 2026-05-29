@@ -16,26 +16,26 @@ family: Portunidae
 genus: Portunus
 species: pelacigus
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/tiny/050426cftg5050m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/tiny/050426cftg5050m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/tiny/050426cftg5050m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/tiny/050426cftg5050m3.jpg
     caption: Changi, Apr 05
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/tiny/050426cftg5050m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/tiny/050426cftg5050m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/tiny/070728sisd4545m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/tiny/070728sisd4545m3.jpg
     caption: Sisters Island, Jul 07
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/tiny/070603sntrg9950m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/tiny/070603sntrg9950m3.jpg
     caption: Sentosa, Jun 07
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/tiny/090413blyd9992m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/tiny/090413blyd9992m3.jpg
     caption: Berlayar Creek, Apr 09
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/tiny/060225cjg5012m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/tiny/060225cjg5012m3.jpg
     caption: Chek Jawa, Feb 05
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/tiny/251208melks5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/tiny/251208melks5.jpg
     caption: Marina East, Dec 2025 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/tiny/110220lazro5m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/tiny/110220lazro5m3.jpg
     caption: Lazarus Island, Feb 11 Photo shared by Rene Ong on facebook .
 size:
 - 2.0

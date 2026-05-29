@@ -27,69 +27,69 @@ superorder: Acanthomorpha
 order: Blenniiformes
 subfamily: Pomacentrinae
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/080410cyrd0050m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/080410cyrd0050m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/080410cyrd0050m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/080410cyrd0050m3.jpg
     caption: Tiny juvenile. Cyrene, Apr 08
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/110602tmftd3572m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/110602tmftd3572m6l.jpg
     caption: Juvenile. Tanah Merah, Jun 11
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/050411tusg4489m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/050411tusg4489m6l.jpg
     caption: Adult. Tuas, Apr 05
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/110602tmftd3566m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/110602tmftd3566m3.jpg
     caption: Juvenile. Tanah Merah, Jun 11
   gallery3:
   - url: https://live.staticflickr.com/2805/33971040050_e22ae4991b_z.jpg
     caption: ''
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/200722lyglks5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/200722lyglks5.jpg
     caption: Changi-Loyang, Jul 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/180517skddc1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/180517skddc1.jpg
     caption: Pulau Sekudu, May 18 Photo shared by Dayna Cheah on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/120508skdmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/120508skdmn.jpg
     caption: Pulau Sekudu, May 12 Photo shared by Marcus Ng on flickr .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/090818tmjk5m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/090818tmjk5m3.jpg
     caption: Tanah Merah, Aug 09 Photo shared by James Koh on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/090918tmjk2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/090918tmjk2m3.jpg
     caption: Tanah Merah, Sep 09 Photo shared by James Koh on his blog .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/220813pcnccn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/220813pcnccn1.jpg
     caption: East Coast Park (PCN), Aug 22 Photo shared by Che Cheng Neo on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/210628ecpBlks7.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/210628ecpBlks7.jpg
     caption: East Coast Park (B), Jun 21 Photo shared by Loh Kok Sheng on facebook
       .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/240527sntccn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/240527sntccn1.jpg
     caption: Sentosa Tg Rimau, May 24 Photo shared by Che Cheng Neo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/240527sntlks4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/240527sntlks4.jpg
     caption: Sentosa Tg Rimau, May 24 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/240527sntlks5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/240527sntlks5.jpg
     caption: Sentosa Tg Rimau, May 24 Photo shared by Loh Kok Sheng on facebook .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/260104trmlvo3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/260104trmlvo3.jpg
     caption: Sentosa Tg Rimau, Jan 26 Photo shared by Lon Voon Ong on facebook .
   gallery9:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/171009blyay10.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/171009blyay10.jpg
     caption: Berlayar Creek, Oct 17 Photo shared by Abel Yeo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/240820kusmn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/240820kusmn1.jpg
     caption: Kusu Island, Aug 24 Photo shared by Marcus Ng on facebook .
   gallery10:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/100502trylks1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/100502trylks1m3.jpg
     caption: Terumbu Raya, May 10 Photo shared by Loh Kok Sheng on his flickr .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/140810smkmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/140810smkmn.jpg
     caption: Pulau Semakau, Aug 14 Photo shared by Marcus Ng on flickr .
   gallery11:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/180514jngll1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/180514jngll1.jpg
     caption: Pulau Jong, Aug 18 Photo shared by Liz Lim on facebook
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/190522tsmll1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/190522tsmll1.jpg
     caption: Terumbu Semakau, May 19 Photo shared by Liz Lim on facebook.
   gallery12:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/110517tptsy1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/110517tptsy1m3.jpg
     caption: Terumbu Pempang Tengah, May 11 Photo shared by Sam Yeo on facebook
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/100530biomn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/100530biomn.jpg
     caption: Pulau Biola, May 10 Photo shared by Marcus Ng on flickr .
 links_references: '**Links**
 

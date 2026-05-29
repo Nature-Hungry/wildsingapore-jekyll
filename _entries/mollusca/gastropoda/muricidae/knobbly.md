@@ -19,14 +19,14 @@ order: Neogastropoda
 superfamily: Muricoidea
 subfamily: Ergalataxinae
 updated: Aug 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/knobbly/081206smkd2440m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/knobbly/081206smkd2440m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/knobbly/081206smkd2440m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/knobbly/081206smkd2440m3.jpg
     caption: Pulau Semakau, Dec 08
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/knobbly/081206smkd2439m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/knobbly/081206smkd2439m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/knobbly/041212kusd8712m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/knobbly/041212kusd8712m3.jpg
     caption: Teeth at narrow shell opening Kusu Island, Dec 04
 location:
 - lab

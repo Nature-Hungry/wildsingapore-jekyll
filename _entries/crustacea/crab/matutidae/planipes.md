@@ -29,14 +29,14 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Calappoidea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/planipes/050818cftg1360m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/matutidae/planipes/050818cftg1360m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/planipes/050818cftg1360m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/matutidae/planipes/050818cftg1360m3.jpg
     caption: Changi, Aug 05
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/planipes/050511cftd3257m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/matutidae/planipes/050511cftd3257m3.jpg
     caption: Changi, May 05
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/planipes/080706chg7404m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/matutidae/planipes/080706chg7404m3.jpg
     caption: Changi, Jul 08
 links_references: '**Links**
 

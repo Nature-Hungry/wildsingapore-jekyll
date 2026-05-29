@@ -22,14 +22,14 @@ subclass: Dictyotophycidae
 order: Dictyotales
 tribe: Zonarieae
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/bracket/060501labd1721m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/bracket/060501labd1721m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/bracket/060501labd1696m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/bracket/060501labd1696m3.jpg
     caption: Labrador, May 06
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/bracket/081115sntd2005m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/bracket/081115sntd2005m3.jpg
     caption: Sentosa, Nov 08
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/bracket/110619tslgd4319m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/bracket/110619tslgd4319m3.jpg
     caption: Terumbu Selegie, Jun 11
 links_references: '**Links**
 
@@ -111,11 +111,11 @@ According to
 : there are 10 species of
 *Lobophora.*
 
-*![](http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/bracket/060501labd1721m3.jpg)
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/bracket/060501labd1721m3.jpg)
 
 Labrador, May 06
 
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/bracket/060501labd1721m3b.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/bracket/060501labd1721m3b.jpg)*
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}**Seaweed species are difficult to positively identify without microscopic examination.
 

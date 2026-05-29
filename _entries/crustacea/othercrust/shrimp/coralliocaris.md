@@ -25,45 +25,45 @@ suborder: Pleocyemata
 infraorder: Caridea
 superfamily: Palaemonoidea
 updated: Jan 2020
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/coralliocaris/100809cyrd9823m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/coralliocaris/100809cyrd9823m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/coralliocaris/100809cyrd9823m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/coralliocaris/100809cyrd9823m3.jpg
     caption: Cyrene Reef, Aug 10
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/coralliocaris/100809cyrd9823m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/coralliocaris/100809cyrd9823m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/coralliocaris/110126hntd5201m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/coralliocaris/110126hntd5201m3.jpg
     caption: Pulau Hantu, Jan 11
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/coralliocaris/100615tmjk5m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/coralliocaris/100615tmjk5m3.jpg
     caption: Tanah Merah, Jun 10 Photo shared by James Koh on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/coralliocaris/130527tmlks.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/coralliocaris/130527tmlks.jpg
     caption: Tanah Merah, May 13 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/coralliocaris/110618tmftlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/coralliocaris/110618tmftlks.JPG
     caption: Tanah Merah, Jun 11 Photo shared by Loh Kok Sheng on his blog .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/coralliocaris/190901lablks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/coralliocaris/190901lablks2.jpg
     caption: Labrador, Sep 19 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/coralliocaris/120507sntsrglks1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/coralliocaris/120507sntsrglks1m3.jpg
     caption: A juvenile. Sentosa Serapong, May 12 Photo shared by Loh Kok Sheng on
       his blog .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/coralliocaris/120507srpmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/coralliocaris/120507srpmn.jpg
     caption: Sentosa Serapong, May 12 Photo shared by Marcus Ng on flickr .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/coralliocaris/150605kusmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/coralliocaris/150605kusmn.jpg
     caption: Kusu Island, Jun 15 Photo shared by Marcus Ng and flickr .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/coralliocaris/100529kuslks1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/coralliocaris/100529kuslks1m3.jpg
     caption: Kusu Island, Jun 10 Photo shared by Loh Kok Sheng on his blog .
   gallery5:
   - url: http://www.wildsingapore.com/cnidaria/coralhard/acroporidae/acrstumpy/250810bsislvo2b.jpg
     caption: In Stumpy acropora coral Big Sisters, Aug 25 Photo shared by Lon Voon
       Ong on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/coralliocaris/210625kusjk2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/coralliocaris/210625kusjk2.jpg
     caption: Kusu Island, Jun 21 Photo shared by James Koh on flickr .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/coralliocaris/100612sngmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/coralliocaris/100612sngmn.jpg
     caption: Pulau Senang, Jun 10 Photo shared by Marcus Ng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/coralliocaris/130428tsmklks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/coralliocaris/130428tsmklks.JPG
     caption: Terumbu Semakau, Nov 12 Photo shared by Loh Kok Sheng on flickr .
 links_references: '**Links**
 

@@ -17,31 +17,31 @@ class: Gastropoda
 subclass: Caenogastropoda
 superfamily: Cerithioidea
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1464m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1464m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1464m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1464m3.jpg
     caption: Sentosa, Oct 08
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1463m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1463m3.jpg
     caption: Shell opening.
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1463m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1463m3b.jpg
     caption: Operculum with only a few whorls.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/130823prp.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/plain/130823prp.jpg
     caption: Plain creeper snails sometimes seen in large numbers. Pasir Ris Park,
       Aug 13
   - url: http://www.wildsingapore.com/crustacea/othercrust/anomura/hermit/huddling/060131sjig4376m3b.jpg
     caption: Empty shells may be taken over by tiny huddling hermit crabs . St John's
       Island, Jan 06
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/050723labg0078m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/plain/050723labg0078m3.jpg
     caption: Plain creeper snails
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/080509cyrd2908m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/obelisk/080509cyrd2908m3.jpg
     caption: Obelisk creeper snail
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/variegated/060212sisg4837m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/variegated/060212sisg4837m3.jpg
     caption: Variegated creeper snail
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/pellucida/050917smkg2563m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/pellucida/050917smkg2563m3.jpg
     caption: Mangrove creeper snail
 links_references: '**Links**
 

@@ -23,14 +23,14 @@ subfamily: Sesuvioideae
 tribe: Sesuvieae
 inat_id: 130743
 updated: Jan 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/ipomoea/pescaprae/090118smkd5798m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/ipomoea/pescaprae/090118smkd5798m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/sesuvium/portulacastrum/090126ubnd6233m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/sesuvium/portulacastrum/090126ubnd6233m3a.jpg
     caption: Pulau Ubin, Jan 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/sesuvium/portulacastrum/090126ubnd6233m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/sesuvium/portulacastrum/090126ubnd6233m3.jpg
     caption: Pulau Ubin, Jan 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/sesuvium/portulacastrum/090405smkd9020m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/sesuvium/portulacastrum/090405smkd9020m3.jpg
     caption: Pulau Semakau, Apr 09
 links_references: '**Links**
 
@@ -84,14 +84,14 @@ Small, pollen-collecting bees and day-flying moths pollinate the flowers.
 **Human uses:**
 According to Burkill, the fresh leaves make a very good vegetable, but only after cooking by 2-3 boilings as they contain much salt. According to Geisen, in Thailand, this plant is used widely as forage and feed for sheep, cattle and pigs and even as a vegetable for human consumption.
 
-![](http://www.wildsingapore.com/wildfacts/ipomoea/pescaprae/090118smkd5798m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/ipomoea/pescaprae/090118smkd5798m3.jpg)
 
 Growing with
 [Beach morning glory](../ipomoea/pescaprae)
 .
 *Pulau Semakau, Jan 09*
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/sesuvium/portulacastrum/090405smkd9021m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/sesuvium/portulacastrum/090405smkd9021m3.jpg)
 
 *Pulau Semakau, Apr 09*
 

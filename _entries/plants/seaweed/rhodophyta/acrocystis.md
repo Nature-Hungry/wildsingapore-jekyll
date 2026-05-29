@@ -22,12 +22,12 @@ class: Florideophyceae
 subclass: Rhodymeniophycidae
 order: Ceramiales
 updated: Jan 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acrocystis/110719sntd7453m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/acrocystis/110719sntd7453m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acrocystis/110719sntd7454m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/acrocystis/110719sntd7454m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acrocystis/110719sntd7453m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/acrocystis/110719sntd7453m3a.jpg
     caption: ''
 links_references: '**Links**
 
@@ -86,7 +86,7 @@ According to
 *Acrocystis*
 .
 
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acrocystis/110719sntd7453m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/acrocystis/110719sntd7453m3.jpg)
 
 *Sentosa, Jul 11*
 

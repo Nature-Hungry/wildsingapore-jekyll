@@ -20,7 +20,7 @@ subclass: Corallinophycidae
 order: Corallinales
 suborder: Corallinineae
 updated: Aug 08
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/050610sntg7603m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/encrust/050610sntg7603m3.jpg
 links_references: "**Links**\n- [Red\n  Encrusting Algae](http://mangrove.nus.edu.sg/pub/seashore/text/106)\
   \ Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A\n  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
   \ The Singapore Science Centre,\n  Singapore. 160 pp.\n- [Introduction\n  to Coralline\
@@ -63,7 +63,7 @@ These red seaweeds are hard because they incorporate calcium carbonate. Being ha
 **Role in the habitat:**
 Many coralline algae produce chemicals that promote the settlement of larvae of sea creatures. These sea creatures may help the coralline algae by grazing at competing, faster growing algae. Some of these sea creatures are commercially important, e.g., abalones. By cementing small things together, encrusting red seaweeds help to maintain and build up the reef. The algae also provide hiding places for tiny creatures and larvae.
 
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/050610sntg7603m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/encrust/050610sntg7603m3.jpg)
 
 [Encrusting coralline algae](encrust)
 *Sentosa, Jun 05

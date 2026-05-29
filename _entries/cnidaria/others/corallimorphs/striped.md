@@ -20,21 +20,21 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Corallimorpharia
 updated: Jul 2024
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/striped/110717tbd7304m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/striped/110717tbd7304m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/striped/110717tbd7304m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/striped/110717tbd7304m3.jpg
     caption: Terumbu Bemban, Jul 11
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/striped/110717tbd7305m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/striped/110717tbd7305m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/striped/110717tbd7305m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/striped/110717tbd7305m3.jpg
     caption: Terumbu Bemban, Jul 11
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/striped/070304hntg7964m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/striped/070304hntg7964m3.jpg
     caption: Pulau Hantu, Mar 07
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/striped/070701hntg0880m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/striped/070701hntg0880m3.jpg
     caption: Pulau Hantu, Jul 07
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/striped/050312hntg3326m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/striped/050312hntg3326m3.jpg
     caption: Pulau Hantu, Mar 05
 location:
 - hnt

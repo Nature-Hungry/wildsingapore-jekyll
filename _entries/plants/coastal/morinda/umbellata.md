@@ -22,24 +22,24 @@ subfamily: Rubioideae
 tribe: Morindeae
 inat_id: 1415440
 updated: Nov 10
-coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/umbellata/090513labd1669m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/morinda/umbellata/090513labd1669m6l.jpg
 links_references: "**Links**\n- [*Morinda\n  umbellata*](http://floraofsingapore.wordpress.com/2010/08/08/morinda-umbellata/)\
   \ on Total Vascular Flora of Singapore Online:\n  photos and fact sheet.\n\n**References**\n\
   - Hsuan Keng,\n  S.C. Chin and H. T. W. Tan. 1990, *[The\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/umbellata/090513labd1670m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/morinda/umbellata/090513labd1670m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/umbellata/090513labd1668m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/morinda/umbellata/090513labd1668m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/umbellata/090513labd1668m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/morinda/umbellata/090513labd1668m3c.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/umbellata/090517ubnd2004m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/morinda/umbellata/090517ubnd2004m3.jpg
     caption: Pulau Ubin, May 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/umbellata/090517ubnd2003m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/morinda/umbellata/090517ubnd2003m3b.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/umbellata/090513labd1668m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/morinda/umbellata/090513labd1668m3b.jpg
     caption: ''
   gallery3:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -64,7 +64,7 @@ A climbing shrub, it has elegant leaves that are thin, leathery, narrow and 7-12
 **Human uses:**
 According to Burkill, the roots are used to produce a yellow dye. Boiled roots and leaves are used in traditional medicine. In India, the fruits may be eaten while green in curries and when raw when ripe. The tough stems are used as ropes in Sri Lanka.
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/umbellata/090513labd1669m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/morinda/umbellata/090513labd1669m6l.jpg)
 
 *Labrador, May 09*
 

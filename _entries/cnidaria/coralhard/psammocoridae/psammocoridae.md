@@ -17,32 +17,32 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/050625labg8619m3c.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/psammocoridae/boulder/050625labg8619m3c.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/050625labg8619m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/psammocoridae/boulder/050625labg8619m3c.jpg
     caption: Tiny petal-shaped holes.
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/120508skdd1956m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/psammocoridae/boulder/120508skdd1956m3.jpg
     caption: Granular surface giving their common name of sandpaper coral.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/crinkled/041018sntd7498m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/psammocoridae/crinkled/041018sntd7498m3a.jpg
     caption: A tiny shrimp. Sentosa, Oct 04
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/crinkled/060312hntd0199m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/psammocoridae/crinkled/060312hntd0199m3a.jpg
     caption: A tiny scallop clam . Pulau Hantu, Mar 06
   - url: http://www.wildsingapore.com/worm/polychaeta/sabellidae/banded/060810rlhd5679m3.jpg
     caption: A fan worm . Raffles Lighthouse, Aug 06
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/crinkled/120408sjid8447m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/psammocoridae/crinkled/120408sjid8447m3.jpg
     caption: Crinkled sandpaper coral
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/crinkled/060102sisg3676m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/psammocoridae/crinkled/060102sisg3676m3.jpg
     caption: Crinkled sandpaper coral
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/120508skdd1948m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/psammocoridae/boulder/120508skdd1948m3.jpg
     caption: Boulder sandpaper coral
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/crinkled/120408sjid8450m3d.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/psammocoridae/crinkled/120408sjid8450m3d.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/crinkled/060102sisg3677m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/psammocoridae/crinkled/060102sisg3677m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/120508skdd1952m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/psammocoridae/boulder/120508skdd1952m3.jpg
     caption: ''
 links_references: '**Links**
 

@@ -30,42 +30,42 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Eriphioidea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/oziidae/guttatus/051018smkg2734m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/oziidae/guttatus/051018smkg2734m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/oziidae/guttatus/051018smkg2734m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/oziidae/guttatus/051018smkg2734m3.jpg
     caption: Pulau Semakau, Oct 05
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/oziidae/guttatus/051018smkg2737m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/oziidae/guttatus/051018smkg2737m3a.jpg
     caption: Plain smooth upper side.
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/oziidae/guttatus/051018smkg2748m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/oziidae/guttatus/051018smkg2748m3.jpg
     caption: Spotted belly on the underside.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/oziidae/guttatus/040521sntad0043m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/oziidae/guttatus/040521sntad0043m3.jpg
     caption: One with a 'peeled' snail. Sentosa, May 04
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/oziidae/guttatus/040521sntad0043m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/oziidae/guttatus/040521sntad0043m3b.jpg
     caption: Eyes dark with pale spots.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/oziidae/guttatus/091206tmlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/oziidae/guttatus/091206tmlks.JPG
     caption: Tanah Merah, Dec 09 Photo shared by Loh Kok Sheng on flickr .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/oziidae/guttatus/251010blytl2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/oziidae/guttatus/251010blytl2.jpg
     caption: Berlayar Creek, Oct 25 Photo shared by Tammy Lim on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/oziidae/guttatus/180912tkkmn3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/oziidae/guttatus/180912tkkmn3.jpg
     caption: Pulau Tekukor, Sep 18 Photo shared by Marcus Ng on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/oziidae/guttatus/220104lazky1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/oziidae/guttatus/220104lazky1.jpg
     caption: Lazarus, Jan 22 Photo shared by Kelvin Yong on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/oziidae/guttatus/220104lazky1a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/oziidae/guttatus/220104lazky1a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/oziidae/guttatus/230831sjirk4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/oziidae/guttatus/230831sjirk4.jpg
     caption: St, John's Ialand, Aug 23 Photo shared by Richard Kuah on facebook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/oziidae/guttatus/210822ssisvc1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/oziidae/guttatus/210822ssisvc1.jpg
     caption: Small Sisters Island, Aug 21 Photo shared by Vincent Choo on facebook
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/oziidae/guttatus/250331hntky2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/oziidae/guttatus/250331hntky2.jpg
     caption: Pulau Hantu, Apr 25 Photo shared by Kelvin Yong on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/oziidae/guttatus/110421jngmn1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/oziidae/guttatus/110421jngmn1m3.jpg
     caption: Pulau Jong, Apr 11 Photo shared by Marcus Ng on facebook
 links_references: '**Links**
 

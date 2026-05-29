@@ -18,7 +18,7 @@ subclass: Elasmobranchii
 infraclass: Batoidea
 order: Myliobatiformes
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/030717skdd0039m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/walga/030717skdd0039m6l.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -30,35 +30,35 @@ galleries:
       give birth to live young. They will not sting unless you step on them. Watch
       your step!
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/030717skdd0039m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/walga/030717skdd0039m6l.jpg
     caption: Swimming with undulations of the enlarged pectoral fins. Pulau Sekudu,
       May 04
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/040509skddd0030m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/walga/040509skddd0030m3.jpg
     caption: Underside. Pulau Sekudu, May 04
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/narcinidae/narcine/090622cftd4655m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/narcinidae/narcine/090622cftd4655m6l.jpg
     caption: 'Cute but shocking: the Electric ray. Changi, Jun 05'
-  - url: http://www.wildsingapore.com/wildfacts/narcinidae/narcine/090622cftd4655m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/narcinidae/narcine/090622cftd4655m3a.jpg
     caption: Gill openings behind the eyes.
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080802sjid8875.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/lymma/080802sjid8875.jpg
     caption: A commonly encountered stingray. St. John's Island, Aug 08
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080802sjid8875m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/lymma/080802sjid8875m3.jpg
     caption: Spine near the end of the tail.
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080802sjid8804m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/lymma/080802sjid8804m3.jpg
     caption: Blue-spotted fantail ray
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/110520chgd2528.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/walga/110520chgd2528.jpg
     caption: Mangrove whipray
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/kuhlii/071226chgd8385m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/kuhlii/071226chgd8385m3.jpg
     caption: Blue-spotted stingray
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m3.jpg
     caption: Honeycomb whipray
-  - url: http://www.wildsingapore.com/wildfacts/narcinidae/narcine/090622cftd4655m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/narcinidae/narcine/090622cftd4655m3.jpg
     caption: Numbfish
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/myliobatidae/narinari/110506tmftd0849m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/myliobatidae/narinari/110506tmftd0849m6l.jpg
     caption: Spotted eagle ray
 links_references: '**Links**
 

@@ -19,49 +19,49 @@ order: Littorinimorpha
 superfamily: Naticoidea
 subfamily: Naticinae
 updated: Aug 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/110714chgd6457m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/vitellus/110714chgd6457m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/110714chgd6457m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/vitellus/110714chgd6457m3.jpg
     caption: Changi, Jul 11
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/110714chgd6460m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/vitellus/110714chgd6460m3.jpg
     caption: Small depression on underside. Operculum chalky with dark smudge. Changi,
       Jul 11
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/110714chgd6460m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/vitellus/110714chgd6460m3a.jpg
     caption: Operculum with a pair of spiralling grooves on the outer margin and finely
       serrated inner margin.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/200917prplks3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/vitellus/200917prplks3a.jpg
     caption: Pasir Ris Park, Sep 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/200917prplks3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/vitellus/200917prplks3b.jpg
     caption: Pasir Ris Park, Sep 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/200917prplks3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/vitellus/200917prplks3c.jpg
     caption: Pasir Ris Park, Sep 20 Photo shared by Loh Kok Sheng on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/100116cjlks1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/vitellus/100116cjlks1m3.jpg
     caption: Chek Jawa, Jan 10 Photo shared by Loh Kok Sheng on his flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/251109chgsaflks7b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/vitellus/251109chgsaflks7b.jpg
     caption: Changi Creek, Nov 25 Photo shared by Kelvin Yong on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/111125chgelks1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/vitellus/111125chgelks1m3.jpg
     caption: Changi (Lost Coast), Nov 11 Photo shared by Loh Kok Sheng on his blog
       .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/100614bblks1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/vitellus/100614bblks1m3.jpg
     caption: Beting Bronok, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/220716bbccn1a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/vitellus/220716bbccn1a.jpg
     caption: Beting Bronok, Jul 22 Photo shared by Che Cheng Neo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/251008bbbtl1b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/vitellus/251008bbbtl1b.jpg
     caption: Beting Bronok, Jul 22 Photo shared by Tammy Lim on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/251107tmftlks3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/vitellus/251107tmftlks3a.jpg
     caption: Tanah Merah Ferry Terminal, Nov 25 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/251107tmftlks3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/vitellus/251107tmftlks3b.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/251107tmftlks3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/vitellus/251107tmftlks3c.jpg
     caption: ''
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/160608cyrjt1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/vitellus/160608cyrjt1.jpg
     caption: Cyrene Reef, Jun 16 Photo shared by Jonathan Tan on facebook .
 links_references: '**Links**
 

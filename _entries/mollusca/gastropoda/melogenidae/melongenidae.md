@@ -17,12 +17,12 @@ subclass: Caenogastropoda
 order: Neogastropoda
 superfamily: Buccinoidea
 updated: Aug 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/020823smbgd4228m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/melogenidae/cochlidium/020823smbgd4228m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/020823smbgd4228m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/melogenidae/cochlidium/020823smbgd4228m3.jpg
     caption: Spiral melongena
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/ternatanus/140812chg4d8531m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/melogenidae/ternatanus/140812chg4d8531m3.jpg
     caption: Ternate false fusus
 links_references: "**Links**\n- [Family Galeodidae (\n*Melongena pugilina*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/145)\n\
   Tan, Leo W. H. & Ng, Peter K. L., 1988.\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n\

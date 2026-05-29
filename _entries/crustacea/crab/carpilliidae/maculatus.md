@@ -29,14 +29,14 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Carpilioidea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/carpilliidae/maculatus/040703sisd1784m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/carpilliidae/maculatus/040703sisd1784m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/carpilliidae/maculatus/040703sisd1784m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/carpilliidae/maculatus/040703sisd1784m3.jpg
     caption: Sisters Island, Jul 04
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/carpilliidae/maculatus/040703sisd1784m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/carpilliidae/maculatus/040703sisd1784m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/carpilliidae/maculatus/100529kuslks8m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/carpilliidae/maculatus/100529kuslks8m3.jpg
     caption: Kusu Island, Jun 10 Photo shared by Loh Kok Sheng on his blog .
 links_references: '**Links**
 

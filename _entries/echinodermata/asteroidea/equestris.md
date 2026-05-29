@@ -23,31 +23,31 @@ class: Asteroidea
 superorder: Valvatacea
 order: Valvatida
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/equestris/110814smkd9075m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/equestris/110814smkd9075m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/equestris/110814smkd9075m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/equestris/110814smkd9075m3.jpg
     caption: Pulau Semakau, Aug 11
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/equestris/110814smkd9084m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/equestris/110814smkd9084m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/equestris/110814smkd9084m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/equestris/110814smkd9084m3b.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/equestris/100420sntd1471m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/equestris/100420sntd1471m3.jpg
     caption: Sentosa, Apr 10
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/equestris/100420sntd1471m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/equestris/100420sntd1471m3a.jpg
     caption: ''
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/equestris/100420sntd1475m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/equestris/100420sntd1475m3.jpg
     caption: Pale underside with colourful markings
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/equestris/100420sntd1475m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/equestris/100420sntd1475m3a.jpg
     caption: Tube feet with sucker tips.
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/equestris/20251010blytl4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/equestris/20251010blytl4.jpg
     caption: Berlayar Creek, Oct 25 Photo shared by Tammy Lim on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/equestris/20251010blytl4c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/equestris/20251010blytl4c.jpg
     caption: Tiny conical points on upperside
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/equestris/20251010blytl4b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/equestris/20251010blytl4b.jpg
     caption: Underside
 links_references: '**Links**
 

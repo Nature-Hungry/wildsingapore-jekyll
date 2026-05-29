@@ -10,12 +10,12 @@ genus: Pseudocerotid
 species: 8
 attributes: []
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/felis/091205sudd5623m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/felis/091205sudd5623m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/felis/091205sudlks12m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/felis/091205sudlks12m6l.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/felis/091205sudd5623m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/felis/091205sudd5623m3a.jpg
     caption: ''
 links_references: '**Links**
 
@@ -50,7 +50,7 @@ Seen once on a remote reef. Although it looks like
 
 8-10cm long. Body mottled cream or yellow with dark tiny blotches on a grey background. Edges with black irregular bars. Narrow orange with thin black margin. Underside uniformly grey with narrow orange and thin black margin. It has a pair of pseudotentacles at the front made up of folded edges of the body.
 
-![](http://www.wildsingapore.com/wildfacts/worm/polycladida/felis/091205sudd5623m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/felis/091205sudd5623m3.jpg)
 
 *Pulau Sudong, Dec 09*
 

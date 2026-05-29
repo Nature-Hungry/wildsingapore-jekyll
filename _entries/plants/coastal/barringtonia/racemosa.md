@@ -20,18 +20,18 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Ericales
 updated: Jun 2020
-coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/barringtonia/racemosa/090418admd0144m3a.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/barringtonia/racemosa/090418admd0144m3a.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/barringtonia/racemosa/090418admd0144m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/barringtonia/racemosa/090418admd0144m3a.jpg
     caption: Leaf edge finely toothed.
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/barringtonia/racemosa/080720cjd8101m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/barringtonia/racemosa/080720cjd8101m3.jpg
     caption: Blooming flowers on a long hanging spike.
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/barringtonia/racemosa/090329cjo3291633m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/barringtonia/racemosa/090329cjo3291633m6l.jpg
     caption: Planted tree. Chek Jawa, Mar 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/barringtonia/racemosa/080720cjd8100m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/barringtonia/racemosa/080720cjd8100m3.jpg
     caption: After the stamens have fallen.
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/barringtonia/racemosa/090329cjd8703m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/barringtonia/racemosa/090329cjd8703m3.jpg
     caption: Fruits egg- or pear-shaped with angles.
 links_references: '**Links**
 

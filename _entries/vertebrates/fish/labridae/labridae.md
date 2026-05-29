@@ -18,7 +18,7 @@ superorder: Acanthomorpha
 order: Labriformes
 suborder: Labroidei
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/pteragogus/080409tusd0842m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/pteragogus/080409tusd0842m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -30,31 +30,31 @@ galleries:
       fish may look very different from adults. Some can give a nasty bite. Don't
       touch them!
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/pteragogus/080409tusd0842m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/pteragogus/080409tusd0842m3.jpg
     caption: Well camouflaged! Tuas, Apr 08
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/091206tmd5769m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/dussumieri/091206tmd5769m3.jpg
     caption: Often half buried in the sand. Pulau Sekudu, Apr 06
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/060429skdd1373m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/dussumieri/060429skdd1373m3.jpg
     caption: Seen from above. Pulau Sekudu, Apr 06
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/160608cyrlks6a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/dussumieri/160608cyrlks6a.jpg
     caption: Caught by a Carpet eel-blenny . Cyrene Reef, Jun 16 Photo shared by Loh
       Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/170128smkso1280222m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/anchorago/170128smkso1280222m3.jpg
     caption: Often seen in abandoned nets and traps. Pulau Semakau, Jan 17
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/bicolor/140811tryd8448m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/bicolor/140811tryd8448m3.jpg
     caption: Brown-striped wrasse
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/050819cjg1629m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/dussumieri/050819cjg1629m3.jpg
     caption: Diamond wrasse
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/pteragogus/070421cyrg8905m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/pteragogus/070421cyrg8905m3.jpg
     caption: Weedy wrasse
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/schoenleinii/050720sntg9598m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/schoenleinii/050720sntg9598m3.jpg
     caption: Black-spot tuskfish
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/110418tmftd9074m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/anchorago/110418tmftd9074m3.jpg
     caption: Anchor tuskfish
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/oligacanthus/170812cyrmna.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/oligacanthus/170812cyrmna.jpg
     caption: Singapore tuskfish
 links_references: "**Links**\n- Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.\n*[A\
   \ Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*\n\

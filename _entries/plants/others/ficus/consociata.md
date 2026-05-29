@@ -18,14 +18,14 @@ class: Magnoliopsida
 order: Rosales
 tribe: Ficeae
 updated: Feb 11
-coverimg: http://www.wildsingapore.com/wildfacts/plants/others/ficus/consociata/110220lazd6196m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/consociata/110220lazd6196m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/consociata/090628lazd6098m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/consociata/090628lazd6098m3.jpg
     caption: Lazarus Island, Jun 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/consociata/110220lazd6195m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/consociata/110220lazd6195m3.jpg
     caption: Lazarus Island, Feb 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/consociata/110220lazd6188m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/consociata/110220lazd6188m3a.jpg
     caption: Lazarus Island, Feb 11
   gallery2:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -65,11 +65,11 @@ var
 *murtoni*
 is listed as 'Critically Endangered' in the Red List of threatened plants of Singapore.
 
-![](http://www.wildsingapore.com/wildfacts/plants/others/ficus/consociata/110220lazd6196m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/consociata/110220lazd6196m6l.jpg)
 
 *Lazarus Island, Feb 11
 
-![](http://www.wildsingapore.com/wildfacts/plants/others/ficus/consociata/110220lazd6188m3.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/consociata/110220lazd6188m3.jpg)*
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 ---

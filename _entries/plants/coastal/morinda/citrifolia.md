@@ -22,7 +22,7 @@ order: Gentianales
 subfamily: Rubioideae
 tribe: Morindeae
 updated: Jan 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/citrifolia/090124ubnd5992m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/morinda/citrifolia/090124ubnd5992m3.jpg
 links_references: "**Links**\n- *[Morinda\n  citrifolia](http://floraofsingapore.wordpress.com/2010/08/01/morinda-citrifolia/)*\
   \ on Total Vascular Flora of Singapore Online:\n  photos and fact sheet.\n- *[Morinda\n\
   \  citrifolia](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3033)*\
@@ -85,14 +85,14 @@ species are cultivated for the dyes produced by the root bark: shades of red, pu
 *M. citrifolia*
 was cultivated for this purpose (to produce yellow to deep orange) but not in the Malay peninsula. Medicinally, the fruit was used for a wide range of ailments including diabetes and coughs. Heated leaves may be applied to the chest for coughs. According to Wee, in Chinese medicine and in Japan it was used to contain fever and as a tonic. According to Giesen, it produces a timber with a fine and even texture. The fruits may be eaten in rojak in Indonesia, and as a staple in some Pacific Islands where they are eaten raw or cooked. The fruits may also be fed to pigs. Young leaves may be eaten as a vegetable and contain high levels of protein. Seeds may also be roasted and eaten.
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/citrifolia/090124ubnd5992m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/morinda/citrifolia/090124ubnd5992m3.jpg)
 
 *Pulau Ubin, Jan 09
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/citrifolia/090328sbwrd8470m3.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/morinda/citrifolia/090328sbwrd8470m3.jpg)*
 *Sungei Buloh Wetland Reserve, Mar 09*
-*![](http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/citrifolia/090328sbwrd8470m3a.jpg)*
-*![](http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/citrifolia/090124ubnd5994m3.jpg)*
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/morinda/citrifolia/090328sbwrd8470m3a.jpg)*
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/morinda/citrifolia/090124ubnd5994m3.jpg)*
 Ripening fruit.
 *Pulau Ubin, Jan 09*
 

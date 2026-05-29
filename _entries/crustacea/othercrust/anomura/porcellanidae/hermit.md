@@ -25,14 +25,14 @@ suborder: Pleocyemata
 infraorder: Anomura
 superfamily: Galatheoidea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/050428cftg5276m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeorange/050428cftg5276m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/hermit/stripeorange/050428cftg5276m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/hermit/stripeorange/050428cftg5276m3.jpg
     caption: In a shell occupied by a Striped hermit crab . Changi, Apr 05
-  - url: http://www.wildsingapore.com/wildfacts/hermit/stripeorange/050428cftg5276m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/hermit/stripeorange/050428cftg5276m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/hermit/050315cjd1820m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/porcellanidae/hermit/050315cjd1820m3.jpg
     caption: Chek Jawa, Mar 05
 location:
 - chg

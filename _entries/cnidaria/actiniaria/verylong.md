@@ -22,41 +22,41 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinostoloidea
 updated: Jul 2024
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/verylong/100711cyrd8275m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/verylong/100711cyrd8275m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/verylong/100711cyrd8275m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/verylong/100711cyrd8275m3.jpg
     caption: Cyrene Reef,Jul 10
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/verylong/100711cyrd8275m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/verylong/100711cyrd8275m3b.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/verylong/100711cyrd8272m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/verylong/100711cyrd8272m3.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/verylong/200210blylks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/verylong/200210blylks2.jpg
     caption: Berlayar Creek, Feb 20 Photo shared by Lok Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/verylong/160314lazlks3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/verylong/160314lazlks3.JPG
     caption: Lazarus Island, Mar 16 Photo shared by Lok Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/verylong/241019lazlks11.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/verylong/241019lazlks11.jpg
     caption: Lazarus Island, Oct 24 Photo shared by Loh Kok Sheng on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/verylong/251207hntrk1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/verylong/251207hntrk1.jpg
     caption: Pulau Hantu, Dec 25 Photos shared by Richard Kuah on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/verylong/180421smkslks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/verylong/180421smkslks1.jpg
     caption: Pulau Semakau (South), Apr 18 Photo shared by Lok Kok Sheng on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/verylong/231030smklks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/verylong/231030smklks1.jpg
     caption: Pulau Semakau (South), Oct 23 Photo shared by Lok Kok Sheng on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/verylong/231030smklks1a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/verylong/231030smklks1a.jpg
     caption: Pulau Semakau (South), Oct 23 Photo shared by Lok Kok Sheng on facebook
       .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/verylong/110814smklks4m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/verylong/110814smklks4m3.jpg
     caption: Pulau Semakau, Aug 11 Photo shared by Lok Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/verylong/110814smklks5m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/verylong/110814smklks5m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/verylong/110814smklks5m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/verylong/110814smklks5m3a.jpg
     caption: ''
 links_references: '**Links**
 

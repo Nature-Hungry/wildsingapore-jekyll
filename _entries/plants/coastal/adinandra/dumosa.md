@@ -20,14 +20,14 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Ericales
 updated: Nov 2010
-coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/adinandra/dumosa/090401sntd8846m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/adinandra/dumosa/090401sntd8846m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/adinandra/dumosa/090418admd0213m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/adinandra/dumosa/090418admd0213m3.jpg
     caption: Admiralty Park, Apr 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/adinandra/dumosa/090418admd0215m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/adinandra/dumosa/090418admd0215m3.jpg
     caption: Admiralty Park, Apr 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/adinandra/dumosa/091005cjd2144m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/adinandra/dumosa/091005cjd2144m3.jpg
     caption: Chek Jawa, Oct 09
 links_references: '**Links**
 
@@ -92,11 +92,11 @@ Corners adds that it is said the flowers are pollinated by bees, but as they do 
 **Human uses:**
 According to Burkill, its wood is considered of little use as it is such a small tree. But it is used as firewood.
 
-*![](http://www.wildsingapore.com/wildfacts/plants/coastal/adinandra/dumosa/090401sntd8846m6l.jpg)
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/adinandra/dumosa/090401sntd8846m6l.jpg)
 
 Sentosa, Apr 09
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/adinandra/dumosa/090401sntd8849m3b.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/adinandra/dumosa/090401sntd8849m3b.jpg)*
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 ---

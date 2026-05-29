@@ -23,20 +23,20 @@ superorder: Acanthomorpha
 order: Perciformes
 suborder: Percoidei
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/coioides/120606bbd4364m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/serranidae/coioides/120606bbd4364m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/coioides/120606bbd4364m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/serranidae/coioides/120606bbd4364m3.jpg
     caption: Beting Bronok, Jun 12
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/coioides/140502chgmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/serranidae/coioides/140502chgmn.jpg
     caption: Changi, May 14 Photo shared by Marcus Ng on flickr .
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/coioides/060430skdg5868m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/serranidae/coioides/060430skdg5868m3.jpg
     caption: Pulau Sekudu, Apr 06
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/coioides/180616bblks18.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/serranidae/coioides/180616bblks18.jpg
     caption: Beting Bronok, Jun 18 Photo shared by Loh Kok Sheng on facebook ..
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/coioides/120609bbrl.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/serranidae/coioides/120609bbrl.jpg
     caption: Beting Bronok, Jun 12 Photo shared by Russel Low on facebook .
 links_references: '**Links**
 

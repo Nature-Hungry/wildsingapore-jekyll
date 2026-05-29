@@ -27,57 +27,57 @@ subclass: Actinopoda
 order: Holothuriida
 subgenus: Theelothuria
 updated: Apr 2020
-coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/080817chgd9698m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/notabilis/080817chgd9698m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/080817chgd9698m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/notabilis/080817chgd9698m3.jpg
     caption: Changi, Aug 08 Underside pale with paler markings.
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/070505kusg9037m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/notabilis/070505kusg9037m3.JPG
     caption: Kusu Island, May 07 Few stumpy tube feet.
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/100419chgd1369m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/notabilis/100419chgd1369m3.jpg
     caption: Changi, Apr 10 Opening at the tapered end is the anus.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/110814smkd9061m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/notabilis/110814smkd9061m6l.jpg
     caption: Can produce Cuvierian tubules but rarely does so. Pulau Semakau, Aug
       11
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/071027cjlks01m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/notabilis/071027cjlks01m3.jpg
     caption: Chek Jawa, Oct 07 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/pic6a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/notabilis/pic6a.jpg
     caption: Ossicles of the sea cucumber Photos shared Robin Ngiam Wen Jiang, see
       also his blog .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/pic7a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/notabilis/pic7a.jpg
     caption: ''
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/210528chg7lks6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/notabilis/210528chg7lks6.jpg
     caption: Changi Carpark 7, May 21 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/100612chglks2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/notabilis/100612chglks2m3.jpg
     caption: Changi, Jun 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/230605chg7lks6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/notabilis/230605chg7lks6.jpg
     caption: Changi Carpark 7, Jun 23 Photo shared by Loh Kok Sheng on facebook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/160605tmlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/notabilis/160605tmlks.JPG
     caption: Tanah Merah, Jun 16 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/180812nsrtch7.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/notabilis/180812nsrtch7.jpg
     caption: East Coast Park, Aug 18 Photo shared by Toh Chay Hoon on facebook .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/151001blylks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/notabilis/151001blylks1.jpg
     caption: Berlayar Creek, Oct 15 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/151001blylks2.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/notabilis/151001blylks2.JPG
     caption: Berlayar Creek, Oct 15 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/151001blyjt15m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/notabilis/151001blyjt15m3.jpg
     caption: Berlayar Creek, Oct 15 Photo shared by Jonathan Tan on facebook .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/120818lazlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/notabilis/120818lazlks.JPG
     caption: Seringat-Kias, Aug 12 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/240608kusmn3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/notabilis/240608kusmn3.jpg
     caption: Kusu Island, Jun 24 Photo shared by Marcus Ng on facebook .
   gallery9:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/100713cyrtch3m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/notabilis/100713cyrtch3m6l.jpg
     caption: Cyrene Reef, Jul 10 Photo shared by Toh Chay Hoon on her blog .
   gallery10:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/100711cyrlks8m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/notabilis/100711cyrlks8m6l.jpg
     caption: Cyrene Reef, Jul 10 Photo shared by Loh Kok Sheng on his blog .
 links_references: '**Links**
 

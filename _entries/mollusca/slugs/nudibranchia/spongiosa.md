@@ -28,53 +28,53 @@ suborder: Doridina
 infraorder: Doridoidei
 superfamily: Doridoidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/130722skdd9737m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/spongiosa/130722skdd9737m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/130722skdd9737m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/spongiosa/130722skdd9737m3.jpg
     caption: Well camouflaged. Pulau Sekudu, Jul 08
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/130722skdd9723m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/spongiosa/130722skdd9723m6l.jpg
     caption: Pulau Sekudu, Jul 08
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/130722skdd9723m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/spongiosa/130722skdd9723m3a.jpg
     caption: Rhinophores.
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/130722skdd9723m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/spongiosa/130722skdd9723m3.jpg
     caption: Feathery gills.
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/130722skdd9726m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/spongiosa/130722skdd9726m3.jpg
     caption: Underside.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/080507skdd2517m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/spongiosa/080507skdd2517m3.jpg
     caption: Pulau Sekudu, May 08
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/080507skdd2517m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/spongiosa/080507skdd2517m3a.jpg
     caption: Feathery gills.
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/080507skdd2509m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/spongiosa/080507skdd2509m3.jpg
     caption: Underside.
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/050623cjg8302m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/spongiosa/050623cjg8302m3.jpg
     caption: Laying eggs . Chek Jawa, Jun 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/050623cjg8302m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/spongiosa/050623cjg8302m3b.jpg
     caption: Rhinophore.
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/050623cjg8302m3d.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/spongiosa/050623cjg8302m3d.jpg
     caption: Feathery gills.
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/210528lygjll1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/spongiosa/210528lygjll1.jpg
     caption: Changi Loyang, May 21 Photo by Jianlin Liu on facebook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/240706ubnky2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/spongiosa/240706ubnky2.jpg
     caption: Pulau Ubin, Jul 24 Photo shared by Kelvin Yong on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/240706ubnky2a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/spongiosa/240706ubnky2a.jpg
     caption: Pulau Ubin, Jul 24 Photo shared by Kelvin Yong on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/170723ubnlks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/spongiosa/170723ubnlks1.jpg
     caption: Pulau Ubin, Jul 17 Photo shared by Loh Kok Sheng on facebook .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/160704cjmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/spongiosa/160704cjmn.jpg
     caption: Chek Jawa, Jul 16 Photo shared by Marcus Ng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/170723ubnlks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/spongiosa/170723ubnlks1.jpg
     caption: Chek Jawa, May 25 Photo shared by Richard Kuah on facebook .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/170626skdlks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/spongiosa/170626skdlks2.jpg
     caption: Pulau Sekudu, Jun 17 Photo by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/210527prpvc1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/spongiosa/210527prpvc1.jpg
     caption: Pasir Ris Park, May 21 Photo by Vincent Choo on facebook .
 links_references: '**Links**
 

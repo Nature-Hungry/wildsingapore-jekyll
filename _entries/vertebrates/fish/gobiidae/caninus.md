@@ -24,15 +24,15 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Gobiinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/caninus/070616chgg0370m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/caninus/070616chgg0370m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/caninus/070616chgg0370m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/caninus/070616chgg0370m3.jpg
     caption: Changi, Jun 07
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/caninus/100913prpd1556m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/caninus/100913prpd1556m6l.jpg
     caption: Large dark spot on its 'shoulder'. Pasir Ris, Sep 10
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/caninus/251009sjiccn2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/caninus/251009sjiccn2.jpg
     caption: St John's Island, Oct 25 Photo shared by Che Cheng Neo on facebook .
 links_references: '**Links**
 

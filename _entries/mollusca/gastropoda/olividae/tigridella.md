@@ -18,29 +18,29 @@ subclass: Caenogastropoda
 order: Neogastropoda
 superfamily: Olivoidea
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/130401chgd5120m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/tigridella/130401chgd5120m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/130401chgd5120m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/tigridella/130401chgd5120m3.jpg
     caption: Changi, Apr 13
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/130401chgd5121m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/tigridella/130401chgd5121m3b.jpg
     caption: . Tall conical spire.
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/130401chgd5121m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/tigridella/130401chgd5121m3.jpg
     caption: Shell opening purplish brown
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/130401chgd5130m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/tigridella/130401chgd5130m3.jpg
     caption: Changi, Apr 13
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/090622chgd4780m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/tigridella/090622chgd4780m3.jpg
     caption: Changi, Jun 09
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/090623ecpd4967m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/tigridella/090623ecpd4967m3b.jpg
     caption: East Coast Park, Jun 09
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/251206chgetm1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/tigridella/251206chgetm1.jpg
     caption: Changi East (Lost Coast), Dec 25 Photo shared by Tammy Lim on facebook
       ..
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/251206chgetm1a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/tigridella/251206chgetm1a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/251206chgetm1b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/tigridella/251206chgetm1b.jpg
     caption: ''
 links_references: '**Links**
 

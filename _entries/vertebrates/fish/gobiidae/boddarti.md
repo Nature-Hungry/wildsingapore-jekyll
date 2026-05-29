@@ -26,22 +26,22 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Oxudercinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/boddarti/130421ubnd5457m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/boddarti/130421ubnd5457m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/boddarti/130421ubnd5457m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/boddarti/130421ubnd5457m3.jpg
     caption: Adult females have elongated spines on the first dorsal fin. Pulau Ubin,
       Apr 13
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/boddarti/100124cjd8051m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/boddarti/100124cjd8051m6l.jpg
     caption: Chek Jawa, Jan 10
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/boddarti/110828seld0022.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/boddarti/110828seld0022.jpg
     caption: Seletar, Aug 11
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/boddarti/061216sbwrmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/boddarti/061216sbwrmn.jpg
     caption: Sungei Buloh Wetland Reserve, Dec 06 Photo shared by Marcus Ng on flickr
       .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/boddarti/101125prplks1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/boddarti/101125prplks1m3.jpg
     caption: Pasir Ris, Dec 10 Photo shared by Loh Kok Sheng on his blog .
 links_references: '**Links**
 

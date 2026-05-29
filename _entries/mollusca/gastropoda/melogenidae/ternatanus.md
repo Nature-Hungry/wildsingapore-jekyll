@@ -26,14 +26,14 @@ subclass: Caenogastropoda
 order: Neogastropoda
 superfamily: Buccinoidea
 updated: Aug 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/ternatanus/140812chg4d8531m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/melogenidae/ternatanus/140812chg4d8531m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/ternatanus/140812chg4d8531m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/melogenidae/ternatanus/140812chg4d8531m3.jpg
     caption: Upper side of living snail . Changi, Aug 14
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/ternatanus/140812chg4d8531m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/melogenidae/ternatanus/140812chg4d8531m3a.jpg
     caption: Fine hairs on the shell of a living snail shell.
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/ternatanus/140812chg4d8531m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/melogenidae/ternatanus/140812chg4d8531m3b.jpg
     caption: The animal's body is pale with black speckles..
 location:
 - chg

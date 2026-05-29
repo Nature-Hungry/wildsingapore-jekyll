@@ -19,7 +19,7 @@ superorder: Ostariophysi
 order: Siluriformes
 suborder: Siluroidei
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/canius/050818cftg1436m3a.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/canius/050818cftg1436m3a.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -31,20 +31,20 @@ galleries:
       don't sting. They are used to find food in murky waters. They have venomous
       spines. Don't touch them!
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/canius/050818cftg1436m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/canius/050818cftg1436m3a.jpg
     caption: '''Whiskers'' help it to find food in murky waters. Changi, Aug 05'
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/040605kuscd0186m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/lineatus/040605kuscd0186m3.jpg
     caption: Small ones may swim in tight groups. Kusu Island, Jun 04
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/canius/100124cjd7939m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/canius/100124cjd7939m3.jpg
     caption: Great billed heron caught an eeltail catfish! Chek Jawa, Jan 10
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/040919sntd7020m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/lineatus/040919sntd7020m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/canius/050818cftg1436m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/canius/050818cftg1436m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/040919sntd7020m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/lineatus/040919sntd7020m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/canius/050818cftg1436m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/canius/050818cftg1436m3a.jpg
     caption: ''
 links_references: '**Links**
 

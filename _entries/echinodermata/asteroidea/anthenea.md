@@ -22,68 +22,68 @@ class: Asteroidea
 superorder: Valvatacea
 order: Valvatida
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080703chgd6533m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/anthenea/080703chgd6533m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080703chgd6533m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/anthenea/080703chgd6533m3.jpg
     caption: Changi, Jul 08
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080703chgd6536m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/anthenea/080703chgd6536m3a.jpg
     caption: Upperside covered with tiny pedicellariae.
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080703chgd6533m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/anthenea/080703chgd6533m3c.jpg
     caption: Large marginal plates on the sides.
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080703chgd6535m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/anthenea/080703chgd6535m3.jpg
     caption: Underside usually with barred pattern.
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080703chgd6535m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/anthenea/080703chgd6535m3c.jpg
     caption: Large bivalve pedicellarie on underside
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080703chgd6535m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/anthenea/080703chgd6535m3a.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/100712chgd8422m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/anthenea/100712chgd8422m3.jpg
     caption: A young Cake sea star with slender arms. Changi, Jul 10
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/070816cjd5908m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/anthenea/070816cjd5908m3.jpg
     caption: A small one with broad arms. Chek Jawa, Aug 07
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/090113prpd5226m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/anthenea/090113prpd5226m3.jpg
     caption: A small one with broad arms. Pasir Ris Park, Jan 09
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080801chgd8617m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/anthenea/080801chgd8617m3.jpg
     caption: Changi, Jul 08
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080409tusd0081m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/anthenea/080409tusd0081m3.jpg
     caption: Tuas, Apr 08
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080720cjd7925m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/anthenea/080720cjd7925m3.jpg
     caption: Chek Jawa, Jul 08
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/090808prplks2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/anthenea/090808prplks2m3.jpg
     caption: Pasir Ris Park, Aug 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/200125prpAky1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/anthenea/200125prpAky1.jpg
     caption: Pasir Ris Park, Jan 20 Photo shared by Kelvin Yong on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/180811chglks5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/anthenea/180811chglks5.jpg
     caption: Changi, Aug 18 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/251012chgmn9.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/anthenea/251012chgmn9.jpg
     caption: Young one. Changi, Oct 25 Photo shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/251012chgmn9a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/anthenea/251012chgmn9a.jpg
     caption: ''
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/250627bbvc8.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/anthenea/250627bbvc8.jpg
     caption: Beting Bronok, Jun 25 Photo shared by Vincent Choo on facebook .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/250529cjmn1a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/anthenea/250529cjmn1a.jpg
     caption: Young one Chek Jawa, May 25
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/250529cjmn1b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/anthenea/250529cjmn1b.jpg
     caption: Photo shared byMarcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/091203ubnlks1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/anthenea/091203ubnlks1m3.jpg
     caption: Pulau Ubin, Dec 09 Photo shared by Loh Kok Sheng on his blog .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/160210ecplks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/anthenea/160210ecplks.JPG
     caption: East Coast Park, Feb 16 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/210529ecpblks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/anthenea/210529ecpblks1.jpg
     caption: East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook .
   gallery9:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080722cyrcck2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/anthenea/080722cyrcck2m3.jpg
     caption: Cyrene Reef, Jul 08
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/080722cyrcck1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/anthenea/080722cyrcck1m3.jpg
     caption: Photo shared by Chim Chee Kong on his flickr .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/anthenea/100626cyrlks1m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/anthenea/100626cyrlks1m3.JPG
     caption: Cyrene Reef, Jun 10 Photo shared by Loh Kok Sheng on his blog .
 links_references: '**Links**
 

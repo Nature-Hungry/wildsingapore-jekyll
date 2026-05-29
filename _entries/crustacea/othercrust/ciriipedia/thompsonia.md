@@ -23,12 +23,12 @@ superfamily: Cerambycoidea
 subfamily: Cerambycinae
 tribe: Callichromatini
 updated: Mar 2020
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/parasitic/081018cjd1123m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/parasitic/081018cjd1123m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/parasitic/081018cjd1123m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/parasitic/081018cjd1123m3.jpg
     caption: Chek Jawa, Oct 08
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/parasitic/050428cftg5303m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/parasitic/050428cftg5303m3.jpg
     caption: Changi, Apr 05 Tiny egg sacs emerging through the joints.
 links_references: '**Links**
 

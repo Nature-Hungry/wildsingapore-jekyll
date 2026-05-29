@@ -17,43 +17,43 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/060101sisd6444m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/polyphyllia/060101sisd6444m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/060101sisd6444m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/polyphyllia/060101sisd6444m3.jpg
     caption: Sisters Island, Jan 06
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/060101sisg3523m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/polyphyllia/060101sisg3523m3a.jpg
     caption: Petal-like, radial patterns.
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/060101sisg3523m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/polyphyllia/060101sisg3523m3b.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/060101sisd6445m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/polyphyllia/060101sisd6445m3.jpg
     caption: Underside
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/060101sisd6445m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/polyphyllia/060101sisd6445m3a.jpg
     caption: ''
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/050720sntg9591m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/polyphyllia/050720sntg9591m3.jpg
     caption: Sentosa, Jul 05
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/060628sntd3787m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/polyphyllia/060628sntd3787m3.jpg
     caption: Sentosa, Jun 06
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/030802hntd0196m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/polyphyllia/030802hntd0196m3.jpg
     caption: Pulau Hantu, Aug 03
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/210430sjijk1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/polyphyllia/210430sjijk1.jpg
     caption: St John's Island, Apr 21 Photo shared by James Koh on flickr .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/100616tsmlks2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/polyphyllia/100616tsmlks2m3.jpg
     caption: Bleaching. Terumbu Semakau, Jun 10 Photo shared by Loh Kok Sheng on his
       flickr .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/100131slulks1m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/polyphyllia/100131slulks1m6l.jpg
     caption: Terumbu Salu, Jan 10 Photo shared by Loh Kok Sheng on his flickr .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/100130brklks16m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/polyphyllia/100130brklks16m3.jpg
     caption: Terumbu Berkas Besar, Jan 10 Photo shared by Loh Kok Sheng on his flickr
       .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/100613sngd5487m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/polyphyllia/100613sngd5487m3.jpg
     caption: Pulau Senang, Jun 10 Bleaching.
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/210428slulks13.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/polyphyllia/210428slulks13.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 

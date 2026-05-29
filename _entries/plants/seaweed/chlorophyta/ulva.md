@@ -33,11 +33,11 @@ galleries:
       and animals live among the seaweeds. Can eat or not? Yes you can if you're a
       pig. It used to be fed to pigs.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/ulva/050426cftd2745m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/ulva/050426cftd2745m3.jpg
     caption: Some form sheets.
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/ulva/040620skdd0716m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/ulva/040620skdd0716m3.jpg
     caption: Others are ribbon-like or net-like.
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/ulva/070614chgg0190m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/ulva/070614chgg0190m3.jpg
     caption: Tiny shrimp on sea lettuce. Changi, Jun 07
 links_references: '**Links**
 
@@ -184,7 +184,7 @@ It is also reported to have antibacterial properties, and to be used to treat go
 seaweeds](caulerpa)
 during shipping and transport, or to cover fish for sale. As sea lettuce tends to grow well in polluted waters, it is also used as an indicator of water quality.
 
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/ulva/090110cjd4696m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/ulva/090110cjd4696m3.jpg)
 **
 May sometimes form a thick
 
@@ -192,11 +192,11 @@ green carpet on shores.
 
 *Chek Jawa, Jan 09
 
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/ulva/050311labd1637m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/ulva/050311labd1637m3.jpg)
 
 Labrador, Mar 05
 
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/ulva/050513labg6446m3.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/ulva/050513labg6446m3.jpg)*
 Transparent blade: reproducing?
 
 *Labrador, May 05*

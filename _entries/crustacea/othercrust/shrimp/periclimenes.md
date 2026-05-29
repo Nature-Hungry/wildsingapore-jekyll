@@ -34,13 +34,13 @@ galleries:
     caption: They live on other animals such as sea anemones and hard corals. They
       are often found in pairs. They are an excellent example of commensalism.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/060527sjig6054m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/rednose/060527sjig6054m3.jpg
     caption: Little red-nose shrimps are also found on living hard and soft corals.
       St. John's Island, May 06
   - url: http://www.wildsingapore.com/echinodermata/holothuroidea/colochirus/050821bbg1857m3b.jpg
     caption: About 1cm, several seen on a Thorny sea cucumber . Beting Bronok, Aug
       05
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/other/050524cftg6598m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/other/050524cftg6598m3b.jpg
     caption: About 1cm, a pair seen on a Flowery sea pen . Changi, May 05
 links_references: '**Links**
 
@@ -111,14 +111,14 @@ Unfortunately, these amazing shrimps are popular in the live aquarium trade and 
 **Status and threats:**
 Some of our commensal shrimps are listed as 'Vulnerable' on the Red List of threatened animals of Singapore. Llike other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection by hobbyists also have an impact on local populations.
 
-*![](http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg)*
+*![](https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg)*
 [Five-spot anemone shrimp](brevicarpalis)
 
 seen on carpet anemones in pairs.
 [../../../cnidaria/actiniaria/haddoni.htm](../../../cnidaria/actiniaria/haddoni)
 *Kusu Island, Jul 04*
 
-![](http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/050621skdg8007m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/carpet/050621skdg8007m3.jpg)
 
 [Tiny carpet anemone shrimp](carpet)
 

@@ -23,20 +23,20 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Beloniformes
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/far/110119manyislandd5081m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/far/110119manyislandd5081m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/far/110119manyislandd5081m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/far/110119manyislandd5081m3.jpg
     caption: Sultan Shoal, Jan 11
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/far/091206tmd5674m6la.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/far/091206tmd5674m6la.jpg
     caption: Tanah Merah, Dec 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/far/241116smkslks3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/far/241116smkslks3a.jpg
     caption: Pulau Semakau (South), Nov 24
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/far/241116smkslks3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/far/241116smkslks3.jpg
     caption: Photo shared by Loh Kok Sheng on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/far/251008bbblvo6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/far/251008bbblvo6.jpg
     caption: Beting Bemban Besar, Oct 25 Photo shared by Lon Voon Ong on facebook
       .
 links_references: '**Links**

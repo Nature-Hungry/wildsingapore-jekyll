@@ -18,7 +18,7 @@ order: Rhizostomeae
 suborder: Kolpophorae
 infraorder: Kampylomyaria
 updated: Aug 2025
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/ribbon/110323tsmkd7813m6la.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/ribbon/110323tsmkd7813m6la.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -31,32 +31,32 @@ galleries:
       stranded on the beach. Sea turtles eat jellyfishes and often mistake plastic
       bags for jellyfishes. Turtles can die from accidentally eating the bags.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/ribbon/110323tsmkd7813m6la.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/ribbon/110323tsmkd7813m6la.jpg
     caption: The Ribbon jellyfish has thin tentacles and thick ruffled long arms.
       Terumbu Semakau, Mar 11
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/ribbon/110323tsmkd7815m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/ribbon/110323tsmkd7815m3.jpg
     caption: Terumbu Semakau, Mar 11
   gallery3:
   - url: https://live.staticflickr.com/3821/32623276364_f8a05dc678_z.jpg
     caption: ''
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/huge/160610jngmn5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/huge/160610jngmn5.jpg
     caption: Pulau Jong, Jun 16 Photo shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/huge/160610jngmn4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/huge/160610jngmn4.jpg
     caption: Small fishes swimming near the jellyfish.
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/mangrove/090410ubnd9384m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/mangrove/090410ubnd9384m3.jpg
     caption: Mangrove jellyfish
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/fatarm/050426cftg5076m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/fatarm/050426cftg5076m3.jpg
     caption: Fat-armed jellyfish
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/ribbon/050624tusg8515m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/ribbon/050624tusg8515m3.jpg
     caption: Ribbon jellyfish
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/080321smkd0421m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/upsidedown/080321smkd0421m3.jpg
     caption: Upsidedown jellyfish
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/huge/060516chgd2021m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/huge/060516chgd2021m3.jpg
     caption: Huge jellyfish
-  - url: http://www.wildsingapore.com/wildfacts/hydrozoa/thread/040409tusad0160m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/hydrozoa/thread/040409tusad0160m3.jpg
     caption: Thread-tentacled jellyfish
 links_references: '**Links**
 

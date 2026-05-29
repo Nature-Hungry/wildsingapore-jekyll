@@ -24,14 +24,14 @@ infraorder: Doridoidei
 superfamily: Chromodoridoidea
 subfamily: Miamirinae
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/020629chgcpd1310m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/hypselodoris/020629chgcpd1310m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/020629chgcpd1310m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/hypselodoris/020629chgcpd1310m3.jpg
     caption: Pink-gilled hypselodoris
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hymaritima/060429skdg5808m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/hymaritima/060429skdg5808m3.jpg
     caption: Hypselodoris maritima
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hykanga/020713cjcpd2511m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/hykanga/020713cjcpd2511m3.jpg
     caption: Hypselodoris kanga
   gallery2:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1

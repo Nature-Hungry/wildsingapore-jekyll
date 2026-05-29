@@ -34,17 +34,17 @@ galleries:
       well camouflaged, others are buried in the sand, yet others transparent. Some
       live on other animals such as sea anemones and hard corals.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/070615sntrg0335m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penbluetail/070615sntrg0335m3.jpg
     caption: The Blue-tail prawn like other shrimps contracts its abdomen to swim
       backwards.
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/040919sntd7078m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/rednose/040919sntd7078m3.jpg
     caption: Red-nose shrimps are also found among seaweeds, and living hard and soft
       corals.
   - url: http://www.wildsingapore.com/echinodermata/holothuroidea/colochirus/050821bbg1857m3b.jpg
     caption: A tiny transparent commensal shrimp , several seen on a Thorny sea cucumber
       . Beting Bronok, Aug 05
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/meta1.gif
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/meta1.gif
     caption: 'How do they mate? Shrimps have separate genders. To mate, a male inserts
       his sperm packet into a special receptacle in the female. Fertilisation, however,
       is external. The female releases the sperms from the packet together with her
@@ -58,30 +58,30 @@ galleries:
       further. Eventually, they look more shrimp-like and migrate back to shallow
       waters. Here they develop into mature adults before starting the cycle all over
       again. larvae juvenile adult'
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/meta1.gif
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/meta1.gif
     caption: larvae juvenile adult
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphballsoft/110518bbd1955m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphballsoft/110518bbd1955m3.jpg
     caption: White snapping shrimps live in Ball flowery soft corals. Beting Bronok,
       May 11
   - url: http://www.wildsingapore.com/vertebrates/fish/gobiidae/leptocephalus/080830kusd9939m3.jpg
     caption: A Many-band snapping shrimp sharing a burrow with a Pink-speckled shrimp-goby
       . Kusu Island, Aug 08
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg
     caption: A pair of Five-spot anemone shrimps is commonly found in our carpet anemones.
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/050721cjg9666m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penbanded/050721cjg9666m3.jpg
     caption: Penaeid prawn
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/050621skdg7874m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphsmooth/050621skdg7874m3.jpg
     caption: Snapping shrimps
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/050621skdg8007m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/carpet/050621skdg8007m3.jpg
     caption: Commensal shrimps
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/redband/060130hntg4350m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/redband/060130hntg4350m3.jpg
     caption: Red-banded shrimp
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/saron/090818tmd9180m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/saron/090818tmd9180m3.jpg
     caption: Saron shrimp
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/humped/111002sisd2124m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/humped/111002sisd2124m3.jpg
     caption: Humpbacked shrimp
 links_references: '**Links**
 

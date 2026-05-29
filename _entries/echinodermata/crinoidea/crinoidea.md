@@ -23,7 +23,7 @@ subclass: Articulata
 order: Comatulida
 superfamily: Himerometroidea
 updated: Apr 2020
-coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/red/150706srpd7354.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/red/150706srpd7354.jpg
 links_references: "**Links**\n- [Class\n  Echinoidea](http://mangrove.nus.edu.sg/pub/seashore/text/223)\n\
   \  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A\n  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
   \ The Singapore Science Centre,\n  Singapore. 160 pp.\n\n**References**\n- C. G.\
@@ -49,25 +49,25 @@ galleries:
       about from place to place. Their long spiny arms are fragile and break easily.
       Don't disturb them.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/red/150706srpd7354.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/red/150706srpd7354.jpg
     caption: Many gathered on a hard coral. Sentosa Serapong, Jul 15
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/blue/080607chgd5324m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/blue/080607chgd5324m3.jpg
     caption: Beautiful shades and colours. Changi, Jun 08
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/pale/091008tmd2430m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/pale/091008tmd2430m3.jpg
     caption: Some can be tiny. Tanah Merah, Oct 09
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/blue/060528bbd2369m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/blue/060528bbd2369m3.jpg
     caption: Clinging on with the cirri. Beting Bronok, May 06
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/red/120123hntd5777m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/red/120123hntd5777m3a.jpg
     caption: Tiny tube feet on the pinnules. Pulau Hantu, Jan 12
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/crinoid/120820sisd0810m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/crinoid/120820sisd0810m3a.jpg
     caption: Channels along the pinnules and arm. Sisters Island, Aug 12
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/pale/060713rlhd4327m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/pale/060713rlhd4327m3a.jpg
     caption: Regenerating arm tips. Chek Jawa, May 05
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/crinoid/120820sisd0875m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/crinoid/120820sisd0875m3.jpg
     caption: Pink eggs in the pinnules? Sisters Island, Aug 12
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/pale/091008tmd2430m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/pale/091008tmd2430m3.jpg
     caption: Some can be tiny. Tanah Merah, Oct 09
   gallery5:
   - url: http://www.wildsingapore.com/crustacea/crab/pilumnidae/featherstar/150220lsislks2.JPG
@@ -77,25 +77,25 @@ galleries:
   - url: http://www.wildsingapore.com/worm/polychaeta/myzostomidae/120820sisd0906m3.jpg
     caption: Worm Sisters Island, Aug 12
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/pale/060713rlhd4317m3d.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/pale/060713rlhd4317m3d.jpg
     caption: Brittle star Raffles Lighthouse, Jul 06
-  - url: http://www.wildsingapore.com/wildfacts/ophiuroidea/featherstar/130626ecplks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/ophiuroidea/featherstar/130626ecplks.JPG
     caption: Brittle star East Coast Park, Jun 13
-  - url: http://www.wildsingapore.com/wildfacts/ophiuroidea/featherstar/130625ecpd8222.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ophiuroidea/featherstar/130625ecpd8222.jpg
     caption: Brittle star East Coast Park, Jun 13
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/blue/091203ubnd5078m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/blue/091203ubnd5078m3.jpg
     caption: Blue feather star
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/red/090822sisd9753m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/red/090822sisd9753m3.jpg
     caption: Red feather star
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/brown/080209htnlks01m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/brown/080209htnlks01m3.jpg
     caption: Brown feather star
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/black/040604bbg0240m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/black/040604bbg0240m3.jpg
     caption: Black-and-white feather star
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/pale/080605hntlks02m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/pale/080605hntlks02m3.jpg
     caption: Pale feather star
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/purpurea/050623cjg8337m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/purpurea/050623cjg8337m3.jpg
     caption: Purple feather star
   gallery9:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1

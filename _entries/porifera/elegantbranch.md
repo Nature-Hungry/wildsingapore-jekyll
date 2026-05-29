@@ -16,17 +16,17 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/porifera/elegantbranch/100727chgd9336m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/elegantbranch/100727chgd9336m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/elegantbranch/060613ecpd3003m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/elegantbranch/060613ecpd3003m3.jpg
     caption: East Coast, Jun 06
-  - url: http://www.wildsingapore.com/wildfacts/porifera/elegantbranch/030520bbd0015m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/elegantbranch/030520bbd0015m3.jpg
     caption: Beting Bronok, May 03
-  - url: http://www.wildsingapore.com/wildfacts/porifera/elegantbranch/060516chgd2019m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/elegantbranch/060516chgd2019m3.jpg
     caption: Changi, May 06
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/elegantbranch/160125obslks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/elegantbranch/160125obslks1.jpg
     caption: Pulau Ubin OBS, Jan 16 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 
@@ -69,15 +69,15 @@ This elegant branching sponge is often seen on our Northern shores, growing on h
 
 The sponge looks like thin roots that spread out over a hard surface. Branches thin (about 2cm wide) tapering to points. Some have recessed holes along the length, others have spikes, knobs with large holes or short hollow tubes along the length. The entire sponge may cover an area of about 30cm. Colours bright light blue, bright purple or olive green. Sometimes bright yellow.
 
-![](http://www.wildsingapore.com/wildfacts/porifera/elegantbranch/100727chgd9336m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/porifera/elegantbranch/100727chgd9336m6l.jpg)
 
 *Changi, Jul 10*
 
-![](http://www.wildsingapore.com/wildfacts/porifera/elegantbranch/050721cjd5123m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/porifera/elegantbranch/050721cjd5123m3.jpg)
 
 *Chek Jawa, Jul 05*
 
-*![](http://www.wildsingapore.com/wildfacts/porifera/elegantbranch/050721cjd5123m3b.jpg)*
+*![](https://f003.backblazeb2.com/file/naturehungry/porifera/elegantbranch/050721cjd5123m3b.jpg)*
 
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

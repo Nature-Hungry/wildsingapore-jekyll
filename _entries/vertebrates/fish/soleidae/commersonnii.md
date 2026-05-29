@@ -24,23 +24,23 @@ superorder: Acanthomorpha
 order: Carangiformes
 suborder: Pleuronectoidei
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/070614chgd2121m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/commersonnii/070614chgd2121m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/070614chgd2121m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/commersonnii/070614chgd2121m3.jpg
     caption: Changi, Jun 07
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/050818cftg1401m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/commersonnii/050818cftg1401m6l.jpg
     caption: Tail fin joined to the dorsal and anal fins. Changi, Aug 05
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/040120cjd0026m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/commersonnii/040120cjd0026m3.jpg
     caption: Big eyes and tentacles around the mouth. Chek Jawa, Jan 04
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/070702chgd3131m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/commersonnii/070702chgd3131m3.jpg
     caption: Swallowing a very LOOONG worm. Changi, Jul 07
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/070422cjmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/commersonnii/070422cjmn.jpg
     caption: Chek Jawa, Apr 07 Photo shared by Marcus Ng on flickr .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/220616chgelks21.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/commersonnii/220616chgelks21.jpg
     caption: Changi Lost Coast, Jun 22 Photo shared by Loh Kok Sheng on facebook .
 links_references: "**Links**\n- [Commerson's sole (\n*Synaptura commersonnii*\n)](http://www.fishbase.org/summary/14395)\n\
   from\n[FishBase](http://www.fishbase.org/)\n: Technical fact sheet.\n- [Volume 4:\

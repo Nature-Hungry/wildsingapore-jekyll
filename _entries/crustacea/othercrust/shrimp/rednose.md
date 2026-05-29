@@ -25,42 +25,42 @@ suborder: Pleocyemata
 infraorder: Caridea
 superfamily: Palaemonoidea
 updated: Jan 2020
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/040919sntd7078m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/rednose/040919sntd7078m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/040919sntd7078m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/rednose/040919sntd7078m3.jpg
     caption: Sentosa, Aug 04
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/031126tusad0069m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/rednose/031126tusad0069m3.jpg
     caption: Female with pincers which are not so long and body with white markings.
       Tuas, Nov 03
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/111001sjid1881m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/rednose/111001sjid1881m3.jpg
     caption: Male with very long pincers and transparent body. St. John's Island,
       Oct 11
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/080830kusd0026m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/rednose/080830kusd0026m3.jpg
     caption: Kusu Island, Aug 08
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/080830kusd0026m3d.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/rednose/080830kusd0026m3d.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/080830kusd0026m3e.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/rednose/080830kusd0026m3e.jpg
     caption: ''
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/031030sntd0027m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/rednose/031030sntd0027m3.jpg
     caption: Among seaweeds. Sentosa, Oct 03
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/060131sjig4529m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/rednose/060131sjig4529m3.jpg
     caption: On sand. St. John's Island, Jan 06
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/060613ecpd3067m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/rednose/060613ecpd3067m3.jpg
     caption: On sea fan. East Coast, Jun 06
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/080830kusd0015m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/rednose/080830kusd0015m3.jpg
     caption: On hard coral. Kusu Island, Aug 08
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/060527sjig6054m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/rednose/060527sjig6054m3.jpg
     caption: On hard coral. St. John's Island, May 06
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/031126tusad0069m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/rednose/031126tusad0069m3.jpg
     caption: Among soft corals. Tuas, Nov 03
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/110220lazrl6m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/rednose/110220lazrl6m3.jpg
     caption: Lazarus Island, Feb 11 Photo shared by Russel Low on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/110421jngrl3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/rednose/110421jngrl3m3.jpg
     caption: Pulau Jong, Apr 11 Photo shared by Russel Low on facebook .
 location:
 - prp

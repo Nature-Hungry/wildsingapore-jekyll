@@ -24,14 +24,14 @@ suborder: Aspleniinae
 section: Thamnopteris
 inat_id: 84356
 updated: Aug 09
-coverimg: http://www.wildsingapore.com/wildfacts/plants/others/asplenium/nidus/090613admd4177m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/others/asplenium/nidus/090613admd4177m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/asplenium/nidus/090905sbwrd0142m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/asplenium/nidus/090905sbwrd0142m3.jpg
     caption: Sungei Buloh Wetland Reserve, Sep 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/asplenium/nidus/090613admd4178m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/asplenium/nidus/090613admd4178m3.jpg
     caption: Admiralty Park, Jun 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/asplenium/nidus/091213ubnd5814m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/asplenium/nidus/091213ubnd5814m3.jpg
     caption: Pulau Ubin, Dec 09
 size:
 - 50.0
@@ -53,7 +53,7 @@ may roost under the fern, chewing off some of the inner portions of the 'skirt' 
 **Human uses:**
 According to Wee, the leaves are used to ease labour pains by a tribe in Malaysia. The Malays use the leaves for a lotion to treat fever.
 
-![](http://www.wildsingapore.com/wildfacts/plants/others/asplenium/nidus/090613admd4177m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/others/asplenium/nidus/090613admd4177m6l.jpg)
 
 Growing on a mangrove tree.
 

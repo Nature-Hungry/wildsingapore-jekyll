@@ -42,28 +42,28 @@ galleries:
   - url: http://www.wildsingapore.com/worm/polychaeta/giant/040410sisbd0011m3.jpg
     caption: A Giant reef worm snatching a mouthful of seaweed back into its lair.
       Sisters Island, Apr 04
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bryopsis/091104sntd3635m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bryopsis/091104sntd3635m3.jpg
     caption: '` Lots of tiny creatures are often seen on this seaweed. Sentosa, Nov
       09'
   - url: http://www.wildsingapore.com/mollusca/slugs/sacoglossa/bryopsis/080919sntd0665m3.jpg
     caption: Tiny Bryopsis slugs are often abundant on this seaweed. Sentosa, Sep
       08
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bryopsis/080720cjd7926m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bryopsis/080720cjd7926m3.jpg
     caption: Sometimes parts may be orange. Chek Jawa, Jul 08
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bryopsis/060115sntg3898m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bryopsis/060115sntg3898m3.jpg
     caption: Sentosa, Jan 06
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bryopsis/050608cftg7418m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bryopsis/050608cftg7418m3.jpg
     caption: Changi, Jun 05
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bryopsis/100131slud8789m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bryopsis/100131slud8789m3a.jpg
     caption: Terumbu Salu, Jan 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bryopsis/100811slud0104m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bryopsis/100811slud0104m3.jpg
     caption: Pulau Salu, Aug 10
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bryopsis/091204pawd5236m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bryopsis/091204pawd5236m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bryopsis/100810sngd9940m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bryopsis/100810sngd9940m3.jpg
     caption: Pulau Senang, Aug 10
 links_references: '**Links**
 
@@ -194,14 +194,14 @@ Although some Bryopsis species produces chemicals to defend against herbivores, 
 *Eunice aphroditois*
 ) snatching this seaweed back to its lair.
 
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bryopsis/081017sntd0996m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bryopsis/081017sntd0996m6l.jpg)
 
 Seasonally may bloom, covering the shore
 
 in a thick furry blanket.
 *Sentosa, Nov 10*
 
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bryopsis/101109sntd2697m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bryopsis/101109sntd2697m3.jpg)
 
 Hairy green seaweeds of different structures
 

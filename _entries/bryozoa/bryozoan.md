@@ -13,41 +13,41 @@ stateofmatter: Life
 kingdom: Animalia
 phylum: Bryozoa
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/040604bbg0196m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/bryozoa/bryozoannoid/040604bbg0196m3.jpg
 trivia_title: 'if you learn only 3 things about them ... '
 trivia_items:
 - They are animals and NOT plants. Each is a colony of many tiny animals.
 - Unlike sponges, bryozoans are complex animals with internal organs.
 galleries:
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/ig901l.gif
+  - url: https://f003.backblazeb2.com/file/naturehungry/bryozoa/bryozoannoid/ig901l.gif
     caption: Bryozoans are complex animals with tiny tentacles and live inside a hard
       case that they can retract into.
-  - url: http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/080817chgd9745m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/bryozoa/bryozoannoid/080817chgd9745m3a.jpg
     caption: Encrusting a living seagrasses Changi, Aug 08
-  - url: http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/050823chgg2279m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/bryozoa/bryozoannoid/050823chgg2279m3.jpg
     caption: Encrusting a living seaweed! Changi, Aug 05
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/bryozoa/glass/111030skdd3345m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/bryozoa/glass/111030skdd3345m3.jpg
     caption: Glassy branching bryozoans Pulau Sekudu, Oct 11
-  - url: http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/130822cjd1835m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/bryozoa/bryozoannoid/130822cjd1835m3.jpg
     caption: Chek Jawa, Aug 13
-  - url: http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/130822cjd1835m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/bryozoa/bryozoannoid/130822cjd1835m3a.jpg
     caption: Growing on a living horseshoe crab.
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/101223pgllsk1.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/bryozoa/bryozoannoid/101223pgllsk1.JPG
     caption: Punggol, Dec 10 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/091203ubnd4954m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/bryozoa/bryozoannoid/091203ubnd4954m3b.jpg
     caption: Pulau Ubin, Dec 09
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/091203ubnd4946m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/bryozoa/bryozoannoid/091203ubnd4946m3.jpg
     caption: Pulau Ubin, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/031012cjad0005m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/bryozoa/bryozoannoid/031012cjad0005m3.jpg
     caption: Chek Jawa, Oct 03
-  - url: http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/040604bbg0196m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/bryozoa/bryozoannoid/040604bbg0196m3.jpg
     caption: Beting Bronok, Jun 04
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/210529ecpblks15.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/bryozoa/bryozoannoid/210529ecpblks15.jpg
     caption: East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 

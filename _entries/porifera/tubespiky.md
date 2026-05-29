@@ -16,20 +16,20 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/porifera/tubespiky/100614bbd5961m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/tubespiky/100614bbd5961m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/tubespiky/100614bbd5961m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/tubespiky/100614bbd5961m3.jpg
     caption: Beting Bronok, Jun 10
-  - url: http://www.wildsingapore.com/wildfacts/porifera/tubespiky/130723bbd0031m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/tubespiky/130723bbd0031m3.jpg
     caption: Beting Bronok, Jul 13 Transparent 'lip' around large opening. Tiny shrimp
       and brittle star on sponge.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/tubespiky/100614bbd6068m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/tubespiky/100614bbd6068m3.jpg
     caption: Beting Bronok, Jun 10
-  - url: http://www.wildsingapore.com/wildfacts/porifera/tubespiky/110518bbd1835m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/tubespiky/110518bbd1835m3.jpg
     caption: Beting Bronok, Jun 10
-  - url: http://www.wildsingapore.com/wildfacts/porifera/tubespiky/120508skdd1919m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/tubespiky/120508skdd1919m3.jpg
     caption: Pulau Sekudu, May 12
 links_references: '**Links**
 

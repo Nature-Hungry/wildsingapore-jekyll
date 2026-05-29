@@ -22,17 +22,17 @@ infraclass: Pteriomorphia
 order: Ostreida
 superfamily: Pterioidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/ephippium/050809lckg1060m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/ephippium/050809lckg1060m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/ephippium/050809lckg1060m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/ephippium/050809lckg1060m3.jpg
     caption: Lim Chu Kang, Aug 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/ephippium/031128sbwrbd0035m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/ephippium/031128sbwrbd0035m3.jpg
     caption: Growing on a mangrove tree. Sungei Buloh Wetland Reserve, Nov 03
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/ephippium/170515chgsafd2376m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/ephippium/170515chgsafd2376m3.jpg
     caption: Growing along a muddy mangrove creek. Changi Creek mangroves, May 17
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/ephippium/200125prpAhd1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/ephippium/200125prpAhd1.jpg
     caption: Pasir Ris Park, Jan 20 Photo shared by Nurulhuda on facebook .
 links_references: '**Links**
 

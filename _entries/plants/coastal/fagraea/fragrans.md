@@ -23,24 +23,24 @@ order: Gentianales
 tribe: Potalieae
 subtribe: Potaliinae
 updated: Nov 10
-coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/090410ubno058m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/fagraea/fragrans/090410ubno058m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/110502prpd0487m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/fagraea/fragrans/110502prpd0487m3.jpg
     caption: Pasir Ris Park, May 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/090410ubnd9403m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/fagraea/fragrans/090410ubnd9403m3.jpg
     caption: Changi, Apr 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/090906prpd0368m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/fagraea/fragrans/090906prpd0368m3.jpg
     caption: Planted in the Park Pasir Ris, Sep 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/090809sjid8737m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/fagraea/fragrans/090809sjid8737m6l.jpg
     caption: Growing wild on a natural cliff. St. John's Island, Aug 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/090809sjid8738m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/fagraea/fragrans/090809sjid8738m3.jpg
     caption: St. John's Island, Aug 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/090809sjid8739m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/fagraea/fragrans/090809sjid8739m3.jpg
     caption: St. John's Island, Aug 09
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/110502prpd0486m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/fagraea/fragrans/110502prpd0486m6l.jpg
     caption: Pasir Ris Park, May 11
 links_references: '**Links**
 
@@ -118,12 +118,12 @@ There are twelve Tembusu trees with
 **Sentosa**
 (beside IOS) with a girth of 4.6m and height 27m. The Tembusu tree at the Singapore Botanic Gardens is reportedly more than 150 years old and a photograph of it is reproduced on the back of the ‘Portrait’ series $5 note.
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/090410ubno058m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/fagraea/fragrans/090410ubno058m6l.jpg)
 
 Planted next to Changi Creek.
 *Changi, Apr 09
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/090410ubnd9405m3.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/fagraea/fragrans/090410ubnd9405m3.jpg)*
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 ---

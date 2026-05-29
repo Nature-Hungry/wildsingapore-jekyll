@@ -20,19 +20,19 @@ subterclass: Tectipleura
 superorder: Sacoglossa
 superfamily: Plakobranchoidea
 updated: Sep 12
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/040423snt0116m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/ornata/040423snt0116m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/050721cjg9776m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/woolly/050721cjg9776m3.jpg
     caption: Woolly leaf slug
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/091008tmd2443m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/ornata/091008tmd2443m3.jpg
     caption: Ornate leaf slug
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/050625labg8575m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/pusilla/050625labg8575m3.jpg
     caption: Halimeda slug
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/bangtawaensis/110101krjd4571m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/bangtawaensis/110101krjd4571m3a.jpg
     caption: Mangrove leaf slug
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/120223sltd7301m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/elysianoid/120223sltd7301m3.jpg
     caption: Unidentified leaf slugs
 links_references: "**Links**\n- [Leaf Slug\n*Elysia*](http://mangrove.nus.edu.sg/pub/seashore/text/151)\n\
   Tan, Leo W. H. & Ng, Peter K. L., 1988.\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n\
@@ -86,13 +86,13 @@ in the fact sheet on the Sacoglossans in general.
 Some elysia slugs retain the algae's chloroplasts (the part that contains chlorophyll). These chloroplasts continue to carry out photosynthesis inside the slug and provide the slug with extra nutrients.
 It gets its bright green colour from the choloplasts that it retains from its seaweed food. The chloroplasts are distributed throughout the parapodia and in the body wall in fine branches of the gut.
 
-![](http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/040423snt0116m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/ornata/040423snt0116m3.jpg)
 
 Not green, perhaps not fed yet?
 
 *Sentosa, Apr 04*
 
-![](http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/050529sjig7219m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/ornata/050529sjig7219m3.jpg)
 
 Mating Elysia slugs.
 *St. John's Island, May 05*

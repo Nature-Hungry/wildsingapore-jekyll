@@ -18,20 +18,20 @@ subclass: Vetigastropoda
 order: Lepetellida
 superfamily: Fissurelloidea
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/keyhole/130426tkkd5687.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/keyhole/130426tkkd5687.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/keyhole/130426tkkd5687.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/keyhole/130426tkkd5687.jpg
     caption: Pulau Tekukor, Apr 13
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/keyhole/130426tkkd5691m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/keyhole/130426tkkd5691m6l.jpg
     caption: Pulau Tekukor, Apr 13
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/keyhole/240113laztl2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/keyhole/240113laztl2.jpg
     caption: Lazarus Island, Jan 24 Photo shared by Tammy Lim on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/keyhole/210502tptvc7.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/keyhole/210502tptvc7.jpg
     caption: Terumbu Pempang Tengah, May 21 Photo shared by Vincent Choo on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/keyhole/210810tplvc3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/keyhole/210810tplvc3.jpg
     caption: Terumbu Pempang Laut, Aug 21 Photo shared by Vincent Choo on facebook
       .
 links_references: '**Links**

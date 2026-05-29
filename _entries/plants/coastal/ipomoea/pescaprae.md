@@ -23,7 +23,7 @@ subfamily: Convolvuloideae
 tribe: Ipomoeeae
 inat_id: 60879
 updated: Jan 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/ipomoea/pescaprae/090118smkd5798m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/ipomoea/pescaprae/090118smkd5798m3.jpg
 links_references: "**Links**\n- *[Ipomoea\n  pescaprae](http://floraofsingapore.wordpress.com/2010/08/22/ipomoea-pes-caprae/)*\
   \ on Total Vascular Flora of Singapore Online:\n  photos and fact sheet.\n- *[Ipomoea\n\
   \  pes-caprae](https://florafaunaweb.nparks.gov.sg/special-pages/plant-detail.aspx?id=1431)*\n\
@@ -38,11 +38,11 @@ links_references: "**Links**\n- *[Ipomoea\n  pescaprae](http://floraofsingapore.
   - Hsuan Keng,\n  S.C. Chin and H. T. W. Tan. 1990, *[The\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/ipomoea/pescaprae/090405smkd8945m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/ipomoea/pescaprae/090405smkd8945m3b.jpg
     caption: Lobed leaf may resemble a hoof print. Pulau Semakau, Jan 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/ipomoea/pescaprae/100117chgec0527m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/ipomoea/pescaprae/100117chgec0527m3.jpg
     caption: Opened fruit capsules. Changi, Jan 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/ipomoea/pescaprae/090118smkd5717m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/ipomoea/pescaprae/090118smkd5717m3.jpg
     caption: Fruit capsule. Pulau Semakau, Jan 09
   gallery2:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -89,15 +89,15 @@ According to Polunin, is the most important coloniser of many tropical beaches a
 **Human uses:**
 According to Wee, the juice squeezed from the plant is used in Malaysia to treat fish stings. The leaves are used in Indonesia to hasten the bursting of boils; sap from the young leaves are boiled in coconut juice and used to treat sores and ulcers; and the seeds chewed with areca nut, soothe abdominal pains and cramps. In the Philippines, the boiled leaves are used to treat rheumatism. While Polunin records its use as a purgative in Malay medicine. Burkill includes the use of boiled tubers to relieve bladder problems as they have a diuretic effect. According to Burkill, animals will eat the leaves but they will taint the milk of cows. The leaves are also fed to pigs.
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/ipomoea/pescaprae/090118smkd5798m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/ipomoea/pescaprae/090118smkd5798m3.jpg)
 
 *Pulau Semakau, Jan 09
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/ipomoea/pescaprae/090405smkd8943m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/ipomoea/pescaprae/090405smkd8943m3.jpg)
 
 Pulau Semakau, Apr 09
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/ipomoea/pescaprae/090405smkd8945m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/ipomoea/pescaprae/090405smkd8945m3.jpg)
 
 Pulau Semakau, Apr 09*
 

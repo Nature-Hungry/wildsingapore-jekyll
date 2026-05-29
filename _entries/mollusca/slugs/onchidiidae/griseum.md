@@ -10,24 +10,24 @@ genus: Onchidium
 species: griseum
 attributes: []
 updated: Jun 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/griseum/050809lckg0948m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/griseum/050809lckg0948m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/griseum/050809lckg0948m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/griseum/050809lckg0948m3.jpg
     caption: Lim Chu Kang, Aug 05 Underside
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/griseum/110104pndd4731m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/griseum/110104pndd4731m3.jpg
     caption: Sungei Pandan, Jan 11 Underside
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/griseum/101226krjd4187.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/griseum/101226krjd4187.jpg
     caption: Kranji, Dec 10 Underside
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/griseum/110109ubnjk2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/griseum/110109ubnjk2.jpg
     caption: Pulau Ubin, Jan 11 Photo shared by James Koh on flickr.
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/griseum/110109ubnjk1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/griseum/110109ubnjk1.jpg
     caption: Underside
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/griseum/260218meky2a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/griseum/260218meky2a.jpg
     caption: Marina East, Feb 26 Photo shared by Kelvin Yong on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/griseum/260218meky2b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/griseum/260218meky2b.jpg
     caption: ''
 links_references: '**Links**
 

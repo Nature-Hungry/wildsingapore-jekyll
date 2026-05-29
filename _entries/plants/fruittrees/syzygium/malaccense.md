@@ -23,7 +23,7 @@ order: Myrtales
 subfamily: Myrtoideae
 tribe: Syzygieae
 updated: Nov 10
-coverimg: http://www.wildsingapore.com/wildfacts/plants/fruittrees/syzygium/malaccense/091005cjd2125m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/syzygium/malaccense/091005cjd2125m6l.jpg
 links_references: "**Links**\n- *[Szyzigium\n  malaccense](http://floraofsingapore.wordpress.com/2010/04/29/syzygium-malaccense/)*\
   \ on Total Vascular Flora of Singapore Online:\n  photos and fact sheet.\n- [Malay\n\
   \  apple (*Szyzigium malaccense*)](http://www.hort.purdue.edu/newcrop/morton/malay_applel)\
@@ -31,16 +31,16 @@ links_references: "**Links**\n- *[Szyzigium\n  malaccense](http://floraofsingapo
   - Hsuan Keng,\n  S.C. Chin and H. T. W. Tan. 1990, *[The\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/syzygium/malaccense/091005cjd2130m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/syzygium/malaccense/091005cjd2130m3.jpg
     caption: Pulau Ubin, Oct 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/syzygium/malaccense/091005cjd2120m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/syzygium/malaccense/091005cjd2120m3.jpg
     caption: Pulau Ubin, Oct 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/syzygium/malaccense/091005cjd2129m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/syzygium/malaccense/091005cjd2129m3.jpg
     caption: Pulau Ubin, Oct 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/syzygium/malaccense/091128cjd4768m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/syzygium/malaccense/091128cjd4768m3a.jpg
     caption: Chek Jawa, Nov 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/syzygium/malaccense/091128cjd4768m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/syzygium/malaccense/091128cjd4768m3.jpg
     caption: ''
   gallery3:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -72,7 +72,7 @@ Tall tree (6-10m). Leaves are large, arranged opposite one another. Young leaves
 **Human uses:**
 According to Burkill, the tasteless but juicy fruits are eaten raw or cooked and sometimes combined with tastier fruits to make a jam. the dried and powdered leaves are used to treat tongue ailments, and the bark used as a mouthwash to treat mouth diseases. The roots are used to treat itches. According to Wee, a cooling drink is also made of the seeds and fruits.
 
-![](http://www.wildsingapore.com/wildfacts/plants/fruittrees/syzygium/malaccense/091005cjd2125m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/syzygium/malaccense/091005cjd2125m6l.jpg)
 
 *Pulau Ubin, Oct 09*
 

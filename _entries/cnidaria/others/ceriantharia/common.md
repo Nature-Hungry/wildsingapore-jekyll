@@ -13,56 +13,56 @@ family: updated Nov 2019
 genus: ''
 species: identification*
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/common/050722cjg9829m3a.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/common/050722cjg9829m3a.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/common/050722cjg9829m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/common/050722cjg9829m3a.jpg
     caption: Furry tube and smooth body column. Chek Jawa, Jul 05
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/common/040720chgd2929m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/common/040720chgd2929m3.jpg
     caption: Long outer tentacles, short inner tentacles. Changi, Jul 04
   - url: http://www.wildsingapore.com/worm/phoronida/phoronida/030630chgd0017m3.jpg
     caption: With black Phoronid worms in the tube. Changi, Jun 03
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/common/030927cjd0065m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/common/030927cjd0065m3.jpg
     caption: Chek Jawa, Sep 03
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/common/040720chgd2874m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/common/040720chgd2874m3.jpg
     caption: Changi, Jul 04
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/common/080425cyrd1722m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/common/080425cyrd1722m3.jpg
     caption: Cyrene Reef, Apr 08
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/common/160125obsjt3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/common/160125obsjt3.jpg
     caption: Pulau Ubin OBS, Jan 16 Photo shared by Jonathan Tan on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/common/251108ecpblks15.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/common/251108ecpblks15.jpg
     caption: East Coast Park (B), Nov 25 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/common/210115mevc4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/common/210115mevc4.jpg
     caption: Marina East, Jan 21 Photo shared by Vincent Choo on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/common/250726cyrlks6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/common/250726cyrlks6.jpg
     caption: Cyrene, Jul 25 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/common/250727smkwrk3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/common/250727smkwrk3.jpg
     caption: Pulau Semakau (West), Jul 25 Photo shared by Richard Kuah on facebook
       .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/common/100617tblks3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/common/100617tblks3m3.jpg
     caption: Terumbu Bemban, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/common/110423tpllks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/common/110423tpllks.JPG
     caption: Terumbu Pempang Laut, Apr 11 Photo shared by Loh Kok Sheng on flickr
       .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/common/250515tptky3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/common/250515tptky3.jpg
     caption: Terumbu Pempang Tengah, May 25 Photo shared by Kelvin Yong on facebook
       ..
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/common/110517tptlks17m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/common/110517tptlks17m3.jpg
     caption: Terumbu Pempang Tengah, May 11 Photo shared by Loh Kok Sheng on his blog
       .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/common/091205sudlks1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/common/091205sudlks1m3.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/common/220201brklks11.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/common/220201brklks11.jpg
     caption: Pulau Berkas, Feb 22 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/common/100530tbkd4260m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/common/100530tbkd4260m3.jpg
     caption: Pulau Berkas, May 10
 location:
 - pgl

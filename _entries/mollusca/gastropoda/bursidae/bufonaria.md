@@ -18,26 +18,26 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Tonnoidea
 updated: Oct 2019
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/bursidae/bufonaria/081117ecpmd2288m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/bursidae/bufonaria/081117ecpmd2288m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/bursidae/bufonaria/081117ecpmd2288m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/bursidae/bufonaria/081117ecpmd2288m3.jpg
     caption: East Coast, Nov 08
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/bursidae/bufonaria/081117ecpmd2290m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/bursidae/bufonaria/081117ecpmd2290m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/bursidae/bufonaria/090723ecplks9m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/bursidae/bufonaria/090723ecplks9m3.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/bursidae/bufonaria/081117ecpmd2297m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/bursidae/bufonaria/081117ecpmd2297m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/bursidae/bufonaria/081117ecpmd2297m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/bursidae/bufonaria/081117ecpmd2297m3a.jpg
     caption: Muscular foot with operculum.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/bursidae/bufonaria/090723ecplks9m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/bursidae/bufonaria/090723ecplks9m3.jpg
     caption: East Coast, Jul 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/bursidae/bufonaria/180616bblks17a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/bursidae/bufonaria/180616bblks17a.jpg
     caption: Beting Bronok, Jun 18 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/bursidae/bufonaria/180616bblks17.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/bursidae/bufonaria/180616bblks17.jpg
     caption: Beting Bronok, Jun 18 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 

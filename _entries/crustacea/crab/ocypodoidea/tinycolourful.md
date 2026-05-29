@@ -30,19 +30,19 @@ updated: Dec 2019
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/tinycolourful/090329cjd8662m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/tinycolourful/090329cjd8662m3a.jpg
     caption: Chek Jawa, Mar 09
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/tinycolourful/110327cjd7979m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/tinycolourful/110327cjd7979m3.jpg
     caption: Chek Jawa, Mar 11
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/tinycolourful/090329cjd8659m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/tinycolourful/090329cjd8659m3.jpg
     caption: Chek Jawa, Mar 09
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/tinycolourful/090329cjd8668m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/tinycolourful/090329cjd8668m3.jpg
     caption: Chek Jawa, Mar 09
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/tinycolourful/201216cjlks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/tinycolourful/201216cjlks1.jpg
     caption: Chek Jawa, Dec 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/tinycolourful/201216cjlks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/tinycolourful/201216cjlks2.jpg
     caption: Chek Jawa, Dec 20 Photo shared by Loh Kok Sheng on facebook .
 location:
 - cj

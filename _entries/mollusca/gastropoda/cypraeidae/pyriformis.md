@@ -27,31 +27,31 @@ superfamily: Cypraeoidea
 subfamily: Erroneinae
 tribe: Erroneini
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/pyriformis/060625bbd3472m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/pyriformis/060625bbd3472m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/pyriformis/060625bbd3472m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/pyriformis/060625bbd3472m3.jpg
     caption: Beting Bronok, Jun 06
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/pyriformis/060528bbd2333m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/pyriformis/060528bbd2333m3.jpg
     caption: Beting Bronok, May 06
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/pyriformis/060528bbd2335.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/pyriformis/060528bbd2335.jpg
     caption: '''Teeth'' dark.'
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/pyriformis/160607bbik3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/pyriformis/160607bbik3.jpg
     caption: Beting Bronok, Jun 16 Photo shared by Ivan Kwan on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/pyriformis/160607bbik2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/pyriformis/160607bbik2.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/pyriformis/160607bbik.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/pyriformis/160607bbik.jpg
     caption: ''
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/pyriformis/250627bbccn1a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/pyriformis/250627bbccn1a.jpg
     caption: Beting Bronok, Jun 25 Photo shared by Che Cheng New on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/pyriformis/250627bbccn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/pyriformis/250627bbccn1.jpg
     caption: ''
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/pyriformis/090526bblks2.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/pyriformis/090526bblks2.JPG
     caption: Beting Bronok, May 09 Photo shared by Loh Kok Sheng on flickr
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/pyriformis/090526bblks1.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/pyriformis/090526bblks1.JPG
     caption: Beting Bronok, May 09 Photo shared by Loh Kok Sheng on flickr
 links_references: '**Links**
 

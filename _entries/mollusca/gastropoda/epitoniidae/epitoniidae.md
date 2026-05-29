@@ -16,14 +16,14 @@ class: Gastropoda
 subclass: Caenogastropoda
 superfamily: Epitonioidea
 updated: Aug 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/epitoniidae/epitoniidae/120223sltd7352m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/epitoniidae/epitoniidae/120223sltd7352m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/epitoniidae/epitoniidae/120223sltd7352m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/epitoniidae/epitoniidae/120223sltd7352m3.jpg
     caption: Seletar, Feb 12
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/epitoniidae/epitoniidae/120223sltd7333m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/epitoniidae/epitoniidae/120223sltd7333m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/epitoniidae/epitoniidae/120223sltd7325m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/epitoniidae/epitoniidae/120223sltd7325m3.jpg
     caption: ''
 links_references: '**Links**
 

@@ -30,17 +30,17 @@ superfamily: Lottioidea
 subfamily: Lottiinae
 tribe: Patelloidini
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/patelloida/050108cjd9238m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/patelloida/050108cjd9238m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/patelloida/050108cjd9238m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/patelloida/050108cjd9238m3.jpg
     caption: Chek Jawa, Jan 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/patelloida/050108cjd9237m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/patelloida/050108cjd9237m3.jpg
     caption: Underside.
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/patelloida/091021chgd3059m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/patelloida/091021chgd3059m3.jpg
     caption: Changi, Oct 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/patelloida/160610jngmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/patelloida/160610jngmn.jpg
     caption: Pulau Jong, Jun 16 Photo shared by Marcus Ng on flickr .
 links_references: '**Links**
 

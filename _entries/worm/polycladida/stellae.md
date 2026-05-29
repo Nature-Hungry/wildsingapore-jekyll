@@ -17,47 +17,47 @@ subphylum: Rhabditophora
 order: Polycladida
 suborder: Cotylea
 updated: Feb 2020
-coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/stellae/060301kusg5358m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/stellae/060301kusg5358m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/stellae/060301kusg5358m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/stellae/060301kusg5358m3.jpg
     caption: Kusu Island, Mar 06
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/stellae/060301kusg5358m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/stellae/060301kusg5358m3a.jpg
     caption: White-tipped pseudotentacles.
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/stellae/060301kusg5353m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/stellae/060301kusg5353m3.jpg
     caption: Pale underside.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/stellae/170130lazlks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/stellae/170130lazlks1.jpg
     caption: Seringat Kias, Jan 17 Photo shared by Loh Kok Sheng on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/stellae/201116lazlks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/stellae/201116lazlks1.jpg
     caption: Lazarus Island, Nov 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/stellae/100912kustch4m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/stellae/100912kustch4m3.jpg
     caption: Kusu Island, Sep 10 Photo shared by Toh Chay Hoon on her blog .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/stellae/110702lzrlks3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/stellae/110702lzrlks3m3.jpg
     caption: Seringat Kias, Jul 11 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/stellae/120818lazlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/stellae/120818lazlks.JPG
     caption: Seringat Kias, Aug 12 Photo shared by Loh Kok Sheng on flickr .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/stellae/110830cyrlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/stellae/110830cyrlks.JPG
     caption: Cyrene Reef, Aug 11 Photo shared by Loh Kok Sheng on flickr
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/stellae/120819cyrlks1m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/stellae/120819cyrlks1m3.JPG
     caption: Cyrene Reef, Aug 12 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/stellae/200918cyrlks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/stellae/200918cyrlks1.jpg
     caption: Cyrene Reef, Sep 20 Photo shared by Loh Kok Sheng on facebook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/stellae/180812cyrjt1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/stellae/180812cyrjt1.jpg
     caption: Cyrene Reef, Aug 18 Photo shared by Jonathan Tan on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/stellae/260201cyrjll3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/stellae/260201cyrjll3.jpg
     caption: Cyrene, Feb 26 Photo shared by Jianlin Liu on facebook .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/stellae/081211smklks01m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/stellae/081211smklks01m3a.jpg
     caption: Pulau Semakau, Dec 08 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/stellae/081211smklks02m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/stellae/081211smklks02m3.jpg
     caption: White underside with black margin.
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/stellae/091108hntlks1m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/stellae/091108hntlks1m6l.jpg
     caption: Pulau Hantu, Nov 09 Photo shared by Loh Kok Sheng on his blog
 location:
 - tm

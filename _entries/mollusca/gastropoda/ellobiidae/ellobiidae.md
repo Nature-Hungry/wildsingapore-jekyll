@@ -21,23 +21,23 @@ superorder: Eupulmonata
 order: Ellobiida
 superfamily: Ellobioidea
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/cassidula/100606prpd5217m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ellobiidae/cassidula/100606prpd5217m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/cassidula/100606prpd5217m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ellobiidae/cassidula/100606prpd5217m3.jpg
     caption: Two different kinds of Belongkeng snails Pasir Ris, Jun 10
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/pythia/110406sbbd8644m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ellobiidae/pythia/110406sbbd8644m6l.jpg
     caption: Sometimes seen in small groups on mangrove tree trunks. Sungei Buloh
       Besar, Apr 11
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/banded/090228smkd7233m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ellobiidae/banded/090228smkd7233m3.jpg
     caption: Banded mangrove ear snail
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/cassidula/090307blyd7470m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ellobiidae/cassidula/090307blyd7470m3.jpg
     caption: Mangrove ear snail
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/090212smkd6996m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ellobiidae/ellobium/090212smkd6996m3.jpg
     caption: Belongkeng snail
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/pythia/031204prpad0039m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ellobiidae/pythia/031204prpad0039m3.jpg
     caption: Pythia snail
 links_references: '**Links**
 

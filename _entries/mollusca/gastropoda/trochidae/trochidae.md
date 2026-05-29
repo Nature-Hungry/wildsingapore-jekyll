@@ -20,24 +20,24 @@ updated: Sep 2020
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/maculatus/050513labg6457m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/maculatus/050513labg6457m3.jpg
     caption: The Spotted top shell snail has a large foot with tentacles fringing
       the body mantle. Labrador, May 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/050807sjig0794m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/labio/050807sjig0794m3.jpg
     caption: The Toothed top shell snail also has a large foot with tentacles fringing
       the body mantle. St. John's Island, Aug 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/umbonium/120817nsrccd0110m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/umbonium/120817nsrccd0110m3.jpg
     caption: Tiny button snails have a long mobile foot and tentacles fringing the
       body mantle. East Coast, Aug 12
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/maculatus/020628lazcpd0833m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/maculatus/020628lazcpd0833m3.jpg
     caption: Spotted top shell snail
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/060716sisg6748m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/labio/060716sisg6748m3.jpg
     caption: Toothed top shell snail
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/chrysostoma/130429jngd6403m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/chrysostoma/130429jngd6403m3.jpg
     caption: Orange-mouth top shell snail
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/umbonium/050402cjg3983m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/umbonium/050402cjg3983m3.jpg
     caption: Button snails
 links_references: '**Links**
 

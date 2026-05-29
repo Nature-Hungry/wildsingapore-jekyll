@@ -22,22 +22,22 @@ order: Fabales
 subfamily: Mimosoideae
 tribe: Mimoseae
 updated: Nov 10
-coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/leucaena/leucocephala/090405smkd9068m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/leucaena/leucocephala/090405smkd9068m6l.jpg
 links_references: "**Links**\n- [*Leucaena\n  leucocephala*](http://floraofsingapore.wordpress.com/2010/04/14/leucaena-leucocephala/)\
   \ on Total Vascular Flora of Singapore Online:\n  photos and fact sheet.\n\n**References**\n\
   - Hsuan Keng,\n  S.C. Chin and H. T. W. Tan. 1990, *[The\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/leucaena/leucocephala/090405smkd9059m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/leucaena/leucocephala/090405smkd9059m3a.jpg
     caption: Pulau Semakau, Apr 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/leucaena/leucocephala/090405smkd9063m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/leucaena/leucocephala/090405smkd9063m3.jpg
     caption: Pulau Semakau, Apr 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/leucaena/leucocephala/090405smkd9067m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/leucaena/leucocephala/090405smkd9067m3.jpg
     caption: Pulau Semakau, Apr 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/leucaena/leucocephala/090809sjid8862m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/leucaena/leucocephala/090809sjid8862m3.jpg
     caption: St. John's Island, Aug 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/leucaena/leucocephala/090809sjid8862m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/leucaena/leucocephala/090809sjid8862m3b.jpg
     caption: ''
   gallery3:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -69,7 +69,7 @@ A shrub to small tree (to about 10m). Feathery compound leaves made up of leafle
 **Human uses:**
 Originally from tropical America, the fast-growing tree is often planted for firewood, as a shade tree and for its fruits. Young pods are eaten as a vegetable by Malays and the raw seeds are said to be tasty. It is also used in reforestation in parts of Southeast Asia. Traditional cures include the leaves to treat poisonous bites and stings, the seeds to treat intestinal worms and in a remedy for diabetes. According to Corners, it is 'peculiarly poisonous' to horses, causing them to lose their mane, tail and ultimately if the horse 'persistently eats' it, its hooves as well! According to Burkill, cattle and goats can eat it without harm. The wood is strong but can only be used for small objects, such as fish-traps.
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/leucaena/leucocephala/090405smkd9068m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/leucaena/leucocephala/090405smkd9068m6l.jpg)
 
 *Pulau Semakau, Apr 09*
 

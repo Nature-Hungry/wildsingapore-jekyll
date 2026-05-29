@@ -22,26 +22,26 @@ subfamily: Caesalpinioideae
 tribe: Caesalpinieae
 inat_id: 851888
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/081206smkd2637m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/caesalpinia/bonduc/081206smkd2637m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/120219smkd7194m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/caesalpinia/bonduc/120219smkd7194m3.jpg
     caption: Pulau Semakau, Feb 12
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/111022smkd2571m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/caesalpinia/bonduc/111022smkd2571m6l.jpg
     caption: Pulau Semakau, Oct 11
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/111022smkd2561m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/caesalpinia/bonduc/111022smkd2561m6l.jpg
     caption: Pulau Semakau, Nov 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/111022smkd2570m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/caesalpinia/bonduc/111022smkd2570m3.jpg
     caption: Pulau Semakau, Nov 11 Developing flowers. Pulau Semakau, Dec 08
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/111022smkd2576m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/caesalpinia/bonduc/111022smkd2576m3.jpg
     caption: Pulau Semakau, Nov 11
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/111022smkd2556m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/caesalpinia/bonduc/111022smkd2556m3.jpg
     caption: Pulau Semakau, Nov 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/081206smkd2638m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/caesalpinia/bonduc/081206smkd2638m3.jpg
     caption: Pulau Semakau, Dec 08
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/111022smkd2553m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/caesalpinia/bonduc/111022smkd2553m3.jpg
     caption: Pulau Semakau, Nov 11
 links_references: '**Links**
 
@@ -120,7 +120,7 @@ According to Giesen, root is used to treat stomach aches and to stimulate the ap
 **Status and threats:**
 This tree is listed as 'Critically Endangered' in the Red List of threatened plants of Singapore.
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/081206smkd2637m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/caesalpinia/bonduc/081206smkd2637m6l.jpg)
 *Pulau Semakau, Dec 08*
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

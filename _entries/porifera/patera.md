@@ -16,10 +16,10 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Clionaida
 updated: Sep 2019
-coverimg: http://www.wildsingapore.com/wildfacts/porifera/patera/clionapatera1.JPG
+coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/patera/clionapatera1.JPG
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/patera/clionapatera1.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/patera/clionapatera1.JPG
     caption: Photo from NParks on Today 9 Aug 2016 .
   gallery2:
   - url: https://c1.staticflickr.com/3/2024/2040684894_2f2f8ef950.jpg

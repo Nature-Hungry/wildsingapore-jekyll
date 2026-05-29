@@ -17,7 +17,7 @@ class: Gastropoda
 subclass: Heterobranchia
 superfamily: Architectonicoidea
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perdix/170401tpto4010158.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/perdix/170401tpto4010158.jpg
 links_references: "**Links**\n- [Family\n  Architectonicidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Architectonicidae.html)\
   \ on The Gladys Archerd Shell Collection at\n  Washington State University Tri-Cities\
   \ Natural History Museum\n  website: brief fact sheet with photos.\n- [*Architectonica\n\
@@ -32,21 +32,21 @@ links_references: "**Links**\n- [Family\n  Architectonicidae](http://shells.tric
   - Abbott,\n  R. Tucker, 1991. *Seashells\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perdix/170401tpto4010158.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/perdix/170401tpto4010158.jpg
     caption: Dead specimen. Terumbu Pempang Tengah, Apr 17
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perdix/170401tpto4010157.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/perdix/170401tpto4010157.jpg
     caption: Underside. Terumbu Pempang Tengah, Apr 17
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perdix/200723nrsccrk2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/perdix/200723nrsccrk2.jpg
     caption: East Coast Park, Jul 20 Photo shared by Richard Kuah on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perdix/130427tptlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/perdix/130427tptlks.JPG
     caption: Terumbu Pempang Tengah, Apr 13 Photo shared by Loh Kok Sheng on flickr
       .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perdix/130427tptlks2.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/perdix/130427tptlks2.JPG
     caption: Terumbu Pempang Tengah, Apr 13 Photo shared by Loh Kok Sheng on flickr
       .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perdix/120330cjtch1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/perdix/120330cjtch1m3.jpg
     caption: Photo shared by Toh Chay Hoon on facebook . Chek Jawa, Mar 13
   gallery4:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1

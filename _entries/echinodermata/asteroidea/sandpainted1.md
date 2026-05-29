@@ -5,7 +5,7 @@ keywords: sand, star, seastar, sea star, starfish, fish, astropecten, astropecti
   echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
 layout: entry
-coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandpainted/081214ecmlks03m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandpainted/081214ecmlks03m3.jpg
 ---
 
  
@@ -13,7 +13,7 @@ coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandpa
   
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandpainted/081214ecmlks03m3.jpg"
+    - url: "https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandpainted/081214ecmlks03m3.jpg"
       caption: "East Coast, Dec 08 Photo shared by Loh Kok Sheng on his blog ."
 ---
 

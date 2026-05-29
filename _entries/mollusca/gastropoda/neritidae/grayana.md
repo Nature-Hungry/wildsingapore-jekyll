@@ -19,14 +19,14 @@ order: Cycloneritida
 superfamily: Neritoidea
 subfamily: Neritinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/grayana/130317krjd4641m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/grayana/130317krjd4641m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/grayana/130317krjd4641m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/grayana/130317krjd4641m3.jpg
     caption: Kranji, Mar 13
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/grayana/130317krjd4642m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/grayana/130317krjd4642m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/grayana/130317krjd4642m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/grayana/130317krjd4642m3a.jpg
     caption: ''
 location:
 - sbw

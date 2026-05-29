@@ -18,7 +18,7 @@ subclass: Elasmobranchii
 infraclass: Batoidea
 order: Myliobatiformes
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/030717skdd0039m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/walga/030717skdd0039m6l.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -31,39 +31,39 @@ galleries:
       swim by undulating greatly enlarged pectoral fins. They will not sting unless
       you handle them or step on them. Watch your step!
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/030717skdd0039m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/walga/030717skdd0039m6l.jpg
     caption: Swimming. Pulau Sekudu, May 04
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/040509skddd0030m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/walga/040509skddd0030m3.jpg
     caption: Underside. Pulau Sekudu, May 04
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080802sjid8875.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/lymma/080802sjid8875.jpg
     caption: St. John's Island, Aug 08
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080802sjid8875m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/lymma/080802sjid8875m3.jpg
     caption: Spine near the end of the tail.
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/100502tryd2314m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/lymma/100502tryd2314m6l.jpg
     caption: Hard to spot under rippling water. Terumbu Raya, May 10
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/070728sisd4474m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/lymma/070728sisd4474m3a.jpg
     caption: May be half buried in sand. Sisters Island, Jul 07
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/020501cjd8899m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/walga/020501cjd8899m3.jpg
     caption: '''Craters'' left behind by feeding stingrays? Chek Jawa, May 02'
-  - url: http://www.wildsingapore.com/wildfacts/selachii/selachii/080524sntd4108m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/selachii/selachii/080524sntd4108m3.jpg
     caption: An egg case laid by a shark or a ray. Sentosa, Jun 08
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/110705chgL1060451.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/walga/110705chgL1060451.jpg
     caption: Often seen trapped in fishing nets. Changi, Jul 11
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080802sjid8804m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/lymma/080802sjid8804m3.jpg
     caption: Blue-spotted fantail ray
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/110520chgd2528.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/walga/110520chgd2528.jpg
     caption: Mangrove whipray
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/kuhlii/071226chgd8385m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/kuhlii/071226chgd8385m3.jpg
     caption: Blue-spotted stingray
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m3.jpg
     caption: Honeycomb whipray
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/220618tmftlks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/220618tmftlks2.jpg
     caption: Whitespotted whipray ( Himantura gerrardi ) Tanah Merah Ferry Terminal,
       Jun 22 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**

@@ -22,23 +22,23 @@ infraclass: Pteriomorphia
 order: Ostreida
 superfamily: Pterioidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/isognomum/091206tmd5738m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/isognomum/091206tmd5738m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/isognomum/091206tmd5738m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/isognomum/091206tmd5738m3.jpg
     caption: A large area of mother-of-pearl relative to shell length. Tanah Merah,
       Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/isognomum/091206tmd5738m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/isognomum/091206tmd5738m3a.jpg
     caption: A long row of notches at the hinge.
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/isognomum/121115tsmkd1126m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/isognomum/121115tsmkd1126m3.jpg
     caption: Terumbu Semakau, Nov 12
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/isognomum/120804bbbd9826m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/isognomum/120804bbbd9826m6l.jpg
     caption: Beting Bemban Besar, Aug 12
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/isognomum/120804bbbd9825m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/isognomum/120804bbbd9825m3.jpg
     caption: A long row of notches at the hinge.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/isognomum/210811tryvc2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/isognomum/210811tryvc2.jpg
     caption: Terumbu Raya, Aug 21 Photo shared by Vincent Choo on facebook .
 links_references: '**Links**
 

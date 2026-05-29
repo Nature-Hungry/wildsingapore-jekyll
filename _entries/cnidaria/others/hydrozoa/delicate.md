@@ -14,31 +14,31 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/050819cjg1531m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/delicate/050819cjg1531m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/050819cjg1531m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/delicate/050819cjg1531m3.jpg
     caption: Chek Jawa, Aug 05
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/050819cjg1531m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/delicate/050819cjg1531m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/050819cjg1531m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/delicate/050819cjg1531m3c.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/050722cjg9836m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/delicate/050722cjg9836m3.jpg
     caption: Chek Jawa, Jul 05
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/050720sntg9553m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/delicate/050720sntg9553m3.jpg
     caption: Sentosa, Jul 05
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/060527sjid2107m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/delicate/060527sjid2107m3.jpg
     caption: St. John's Island, May 06
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/100629pdrd7406m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/delicate/100629pdrd7406m3a.jpg
     caption: Terumbu Pempang Darat, Jun 10
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/090625bsrd5219m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/delicate/090625bsrd5219m3.jpg
     caption: Beting Bemban Besar, Jun 09
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/091231biod7088m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/delicate/091231biod7088m3.jpg
     caption: Pulau Biola, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/100811slud0097m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/delicate/100811slud0097m3.jpg
     caption: Pulau Salu, Aug 10
 location:
 - cj

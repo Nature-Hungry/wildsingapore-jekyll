@@ -22,42 +22,42 @@ superorder: Acanthomorpha
 order: Acanthuriformes
 subfamily: Owstoniinae
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/050525hntg6712m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/macrophthalmus/050525hntg6712m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/050525hntg6712m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/macrophthalmus/050525hntg6712m3.jpg
     caption: Pulau Hantu, May 05
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/190520hntjll3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/macrophthalmus/190520hntjll3a.jpg
     caption: Pulau Hantu, May 19 Photo shared by Jianlin Liu on facebook .
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/090113prpd5223m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/macrophthalmus/090113prpd5223m3.jpg
     caption: Nibbling on a worm. Pasir Ris, Jan 09
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/090621hntd4596m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/macrophthalmus/090621hntd4596m3.jpg
     caption: Squarish burrow opening. Pulau Hantu, Jun 09
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/081216prpd3404m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/macrophthalmus/081216prpd3404m3.jpg
     caption: Just moulted! Moult has transparent eyes. Pasir Ris, Dec 08
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/250627bbrk10.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/macrophthalmus/250627bbrk10.jpg
     caption: Beting Bronok, Jun 25 Photo shared by Richard Kuah on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/251207hntrqo2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/macrophthalmus/251207hntrqo2.jpg
     caption: Moult with transparent eyestalks and eye Pulau Hantu, Dec 25 Photo shared
       by Rui Quan Oh on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/210115mevc2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/macrophthalmus/210115mevc2.jpg
     caption: East Coast-Marina Bay, Jan 21 Photo shared by Vincent Choo on facebook
       .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/130111sjilks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/macrophthalmus/130111sjilks.JPG
     caption: St John's Island, Jan 13 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/250430sjilll2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/macrophthalmus/250430sjilll2.jpg
     caption: St John's Island, Apr 25 Photo shared by Low Liong Leong on facebook
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/100912kuslks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/macrophthalmus/100912kuslks.JPG
     caption: Kusu Island, Sep 10 Photo shared by Loh Kok Sheng on flickr . .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/180815bbbll1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/macrophthalmus/180815bbbll1.jpg
     caption: Beting Bemban Besar, Aug 18 Photo shared by Liz Lim on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/210810tplvc4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/macrophthalmus/210810tplvc4.jpg
     caption: Terumbu Pempang Laut, Aug 21 Photo shared by Vincent Choo on facebook
       .
 links_references: '**Links**

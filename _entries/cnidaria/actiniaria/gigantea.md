@@ -38,62 +38,62 @@ trivia_items:
   hide deeper in the anemone.
 galleries:
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/140713tsmkd7155m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/140713tsmkd7155m3.jpg
     caption: Terumbu Semakau , Jul 14
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/140713tsmkd7155m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/140713tsmkd7155m3a.jpg
     caption: Rows of colourful verrucae on upper portion of the underside.
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/140713tsmkd7155m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/140713tsmkd7155m3c.jpg
     caption: Tentacles not tightly packed.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/121115tsmkd1073m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/121115tsmkd1073m3.jpg
     caption: Tentacles may stick to finger and break off. Terumbu Semakau, Nov 12
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/070701hntg0823m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/070701hntg0823m3.jpg
     caption: The Peacock-tail anemone shrimp and small False clown anemonefish in
       a Giant carpet anemone. Pulau Hantu, Jul 07
   - url: http://www.wildsingapore.com/vertebrates/fish/pomacentridae/ocellaris/090822sisd9681m3.jpg
     caption: Clown anemonefish in a Giant carpet anemone. Sisters Island, Aug 09
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/250501skddc2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/250501skddc2.jpg
     caption: Pulau Sekudu, May 25 Photo shared by Dayna Cheah on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/140518tmlks4m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/140518tmlks4m3.JPG
     caption: Tanah Merah, May 14 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/151001blylks10m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/151001blylks10m3.jpg
     caption: Berlayar Creek, Oct 15 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/170822labjt1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/170822labjt1.jpg
     caption: Labrador, Aug 17 Photo shared by Jonathan Tan on facebook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/260104trmrqo11.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/260104trmrqo11.jpg
     caption: Sentosa Tg Rimau, Jan 26 Photo shared by Rui Quan Oh on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/241019lazccn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/241019lazccn1.jpg
     caption: Lazarus Island, Oct 24 Photo shared by Che Cheng Neo on facebook .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/101106burlks4m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/101106burlks4m3.JPG
     caption: Terumbu Buran, Nov 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/101108bkoms00610m4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/101108bkoms00610m4.jpg
     caption: Terumbu Bukom, Nov 10
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/091204pawd0076m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/091204pawd0076m3.jpg
     caption: Pulau Pawai, Dec 09
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/100530tbkd4269m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/100530tbkd4269m3.jpg
     caption: Pulau Berkas, May 10 Bleaching.
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/100613sngd5664m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/100613sngd5664m3.jpg
     caption: Pulau Senang, Jun 10 Bleaching.
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/100613sngd5632m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/100613sngd5632m3.jpg
     caption: Pulau Senang, Jun 10 Bleaching.
   gallery9:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/100130brkd8696m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/100130brkd8696m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/100131slud8882m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/100131slud8882m3a.jpg
     caption: Terumbu Salu, Jan 10
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/091205sudjk7m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/091205sudjk7m3.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by James Koh on his flickr .
   gallery10:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/100531biod4500m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/100531biod4500m3.jpg
     caption: Pulau Biola, May 10
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/091231biod6992m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/091231biod6992m3.jpg
     caption: Pulau Biola, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/100530tbkd4312m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/100530tbkd4312m3.jpg
     caption: Pulau Berkas, May 10
 links_references: '**Links**
 

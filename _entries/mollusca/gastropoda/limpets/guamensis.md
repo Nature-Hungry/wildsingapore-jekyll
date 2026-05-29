@@ -31,22 +31,22 @@ superorder: Siphonarimorpha
 order: Siphonariida
 superfamily: Siphonarioidea
 updated: Aug 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/guamensis/020527chgcpd9714m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/guamensis/020527chgcpd9714m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/guamensis/020527chgcpd9714m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/guamensis/020527chgcpd9714m3.jpg
     caption: Changi, May 02
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/guamensis/120817nsrccd9861.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/guamensis/120817nsrccd9861.jpg
     caption: East Coast Park, Aug 12
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/guamensis/041212kusd8718m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/guamensis/041212kusd8718m3.jpg
     caption: A broad foot to cling firmly to the surface. Kusu Island, Dec 04
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/guamensis/130113chgd3583.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/guamensis/130113chgd3583.jpg
     caption: Coiled egg mass laid on a rock. Changi, Jan 13
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/guamensis/130113chgd3585.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/guamensis/130113chgd3585.jpg
     caption: Tiny eggs embedded in the coiled egg mass. Changi, Jan 13
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/guamensis/170626skdmn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/guamensis/170626skdmn1.jpg
     caption: Pulau Sekudu, Jun 17 Photo shared by Marcus Ng on flickr .
 location:
 - pgl

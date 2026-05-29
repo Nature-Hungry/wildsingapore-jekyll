@@ -21,14 +21,14 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
 updated: Dec 2024
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tapetum/080720cjd7934m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/tapetum/080720cjd7934m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tapetum/080720cjd7934m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/tapetum/080720cjd7934m3.jpg
     caption: Chek Jawa, Jul 08
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tapetum/080720cjd7934m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/tapetum/080720cjd7934m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tapetum/110519chgd2284m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/tapetum/110519chgd2284m3.jpg
     caption: Changi, May 11
 links_references: '**Links**
 

@@ -25,39 +25,39 @@ class: Holothuroidea
 subclass: Actinopoda
 order: Dendrochirotida
 updated: Apr 2020
-coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/110519chgd2253m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/hamatus/110519chgd2253m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/110519chgd2253m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/hamatus/110519chgd2253m3.jpg
     caption: Half buried in silty sand. Changi, May 11
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/100712chgd8504m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/hamatus/100712chgd8504m3.jpg
     caption: Changi, Jul 10
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/100712chgd8504m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/hamatus/100712chgd8504m3a.jpg
     caption: Tube feet short, stiff, conical with orange tips.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/160804chg4ll1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/hamatus/160804chg4ll1.jpg
     caption: Changi, Aug 16 Photo shared by Lisa Lim on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/180910chg4dc4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/hamatus/180910chg4dc4.jpg
     caption: Changi, Sep 18 Photo shared by Dayna Cheah on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/210528chg7lks10.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/hamatus/210528chg7lks10.jpg
     caption: Changi Carpark 6, May 21 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/230704chg1rk5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/hamatus/230704chg1rk5.jpg
     caption: Changi Carpark 1, Jul 23 Photo shared by Richard Kuah on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/200622chglks3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/hamatus/200622chglks3.jpg
     caption: Changi, Jun 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/251012chgmn10.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/hamatus/251012chgmn10.jpg
     caption: Changi, Oct 25 Photo shared by Marcus Ng on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/200723bbtch2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/hamatus/200723bbtch2.jpg
     caption: Beting Bronok, Jul 20 Photo shared by Toh Chay Hoon on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/230706bbky1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/hamatus/230706bbky1.jpg
     caption: Beting Bronok, Jul 23 Photo shared by Kelvin Yong on facebook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/190704bbvc2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/hamatus/190704bbvc2.jpg
     caption: Beting Bronok, Jul 19 Photo shared by Vincent Choo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/160510ecpbsyj1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/hamatus/160510ecpbsyj1.jpg
     caption: East Coast Park, May 16 Photo shared by Ywee Chieh on facebook .
 links_references: '**Links**
 

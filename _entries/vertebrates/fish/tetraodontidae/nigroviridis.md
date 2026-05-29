@@ -23,19 +23,19 @@ superorder: Acanthomorpha
 order: Tetraodontiformes
 suborder: Tetraodontoidei
 updated: Nov 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/nigroviridis/050218sbwrd0424m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/nigroviridis/050218sbwrd0424m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/nigroviridis/050218sbwrd0424m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/nigroviridis/050218sbwrd0424m3.jpg
     caption: Sungei Buloh Wetland Reserve, Feb 05
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/nigroviridis/151031ecpmblks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/nigroviridis/151031ecpmblks2.jpg
     caption: East Coast-Marina Bay, Oct 15 Photo shared by Loh Kok Sheng on flickr
       .
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/nigroviridis/151031ecpmblks3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/nigroviridis/151031ecpmblks3.jpg
     caption: East Coast-Marina Bay, Oct 15 Photo shared by Loh Kok Sheng on flickr
       .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/nigroviridis/200819ecptch5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/nigroviridis/200819ecptch5.jpg
     caption: East Coast Park, Aug 20 Photo shared by Toh Chay Hoon on facebook .
 links_references: '**Links**
 

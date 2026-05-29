@@ -20,7 +20,7 @@ superorder: Imparidentia
 order: Cardiida
 superfamily: Tellinoidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tellinidae/tellinidae/050309smkd1477m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tellinidae/tellinidae/050309smkd1477m3.jpg
 links_references: "**Links**\n- [Family\n  Tellinidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Bivalvia/Tellinidae.html)\
   \ on\n  [The\n  Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html)\
   \ at Washington State University\n  Tri-Cities Natural History Museum website:\n\
@@ -40,14 +40,14 @@ links_references: "**Links**\n- [Family\n  Tellinidae](http://shells.tricity.wsu
   \ 163pp.\n- Ng, P. K.\n  L. & Y. C. Wee, 1994. *The\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tellinidae/tellinidae/050309smkd1477m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tellinidae/tellinidae/050309smkd1477m3.jpg
     caption: Pulau Semakau, Mar 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tellinidae/tellinidae/110409smks09259m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tellinidae/tellinidae/110409smks09259m3.jpg
     caption: Pulau Semakau, Apr 11
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tellinidae/tellinidae/190520hntjc2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tellinidae/tellinidae/190520hntjc2.jpg
     caption: Pulau Hantu, May 19 Photo shared by Joleen Chan on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tellinidae/tellinidae/090711sjigl3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tellinidae/tellinidae/090711sjigl3m3.jpg
     caption: St. John's Island, Jul 09 Photo shared by Geraldine Lee on her blog .
   gallery3:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1

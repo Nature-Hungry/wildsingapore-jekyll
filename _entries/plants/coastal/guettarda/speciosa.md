@@ -22,7 +22,7 @@ order: Gentianales
 subfamily: Cinchonoideae
 tribe: Guettardeae
 updated: Jan 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/guettarda/speciosa/090405smkd9088m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/guettarda/speciosa/090405smkd9088m6l.jpg
 links_references: "**Links**\n- [*Guettarda\n  speciosa*](http://floraofsingapore.wordpress.com/2010/04/26/guettarda-speciosa/)\
   \ on Total Vascular Flora of Singapore Online:\n  photos and fact sheet.\n- [*Guettarda\n\
   \  speciosa*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2946)\
@@ -34,18 +34,18 @@ links_references: "**Links**\n- [*Guettarda\n  speciosa*](http://floraofsingapor
   **References**\n- Hsuan Keng,\n  S.C. Chin and H. T. W. Tan. 1990, *[The\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/guettarda/speciosa/090405smkd9080m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/guettarda/speciosa/090405smkd9080m3.jpg
     caption: Pulau Semakau, Apr 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/guettarda/speciosa/090405smkd9077m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/guettarda/speciosa/090405smkd9077m3a.jpg
     caption: Pulau Semakau, Apr 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/guettarda/speciosa/090405smkd9077m3d.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/guettarda/speciosa/090405smkd9077m3d.jpg
     caption: Pulau Semakau, Apr 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/guettarda/speciosa/090405smkd9090m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/guettarda/speciosa/090405smkd9090m3.jpg
     caption: Pulau Semakau, Apr 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/guettarda/speciosa/090405smkd9081m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/guettarda/speciosa/090405smkd9081m3.jpg
     caption: Pulau Semakau, Apr 04
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/guettarda/speciosa/090412hntd9865m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/guettarda/speciosa/090412hntd9865m3.jpg
     caption: Pulau Hantu, Apr 09
   gallery3:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -103,10 +103,10 @@ According to Giesen, the bark is used to treat dysentery as well as applied to w
 **Status and threats:**
 This tree is listed as 'Endangered' in the Red List of threatened plants of Singapore.
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/guettarda/speciosa/090405smkd9088m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/guettarda/speciosa/090405smkd9088m6l.jpg)
 
 *Pulau Semakau, Apr 09*
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/guettarda/speciosa/090405smkd9085m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/guettarda/speciosa/090405smkd9085m3.jpg)
 
 *Pulau Semakau, Apr 09*
 

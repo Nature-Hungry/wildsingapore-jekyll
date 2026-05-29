@@ -13,24 +13,24 @@ stateofmatter: Life
 kingdom: Animalia
 phylum: Bryozoa
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/bryozoa/glass/111030skdd3345m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/bryozoa/glass/111030skdd3345m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/bryozoa/glass/111030skdd3345m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/bryozoa/glass/111030skdd3345m3.jpg
     caption: Pulau Sekudu, Oct 11
-  - url: http://www.wildsingapore.com/wildfacts/bryozoa/glass/111030skdd3349m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/bryozoa/glass/111030skdd3349m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/bryozoa/glass/111030skdd3347m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/bryozoa/glass/111030skdd3347m3a.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/bryozoa/glass/120410chgd9021m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/bryozoa/glass/120410chgd9021m3.jpg
     caption: Changi, Apr 12
-  - url: http://www.wildsingapore.com/wildfacts/bryozoa/glass/120410chgd9304m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/bryozoa/glass/120410chgd9304m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/bryozoa/glass/120410chgd9305m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/bryozoa/glass/120410chgd9305m3.jpg
     caption: ''
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/bryozoa/glass/130112pgllks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/bryozoa/glass/130112pgllks.JPG
     caption: Okenia pellucida , a nudibranch that is seen on this Bryozoan. Punggol,
       Jan 13 Photo shared by Loh Kok Sheng on flickr .
 size:

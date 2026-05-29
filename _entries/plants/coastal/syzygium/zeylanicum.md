@@ -24,27 +24,27 @@ order: Myrtales
 subfamily: Myrtoideae
 tribe: Syzygieae
 updated: Feb 11
-coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/zeylanicum/110203sjid5606m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/syzygium/zeylanicum/110203sjid5606m6l.jpg
 links_references: "**Links**\n- *[Syzygium\n  zeylanicum](http://floraofsingapore.wordpress.com/2010/06/27/syzygium-zeylanicum/)*\
   \ on Total Vascular Flora of Singapore Online:\n  photos and fact sheet.\n\n**References**\n\
   - Hsuan Keng,\n  S.C. Chin and H. T. W. Tan. 1990, *[The\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/zeylanicum/110203sjid5606m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/syzygium/zeylanicum/110203sjid5606m3c.jpg
     caption: St. John's Island, Feb 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/zeylanicum/110203sjid5606m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/syzygium/zeylanicum/110203sjid5606m3a.jpg
     caption: St. John's Island, Feb 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/zeylanicum/110203sjid5609m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/syzygium/zeylanicum/110203sjid5609m6l.jpg
     caption: St. John's Island, Feb 11
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/zeylanicum/110220lazd6181m6la.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/syzygium/zeylanicum/110220lazd6181m6la.jpg
     caption: Lazarus Island, Feb 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/zeylanicum/110220lazd6180m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/syzygium/zeylanicum/110220lazd6180m3a.jpg
     caption: Lazarus Island, Feb 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/zeylanicum/110502prpd0477m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/syzygium/zeylanicum/110502prpd0477m3.jpg
     caption: Pasir Ris Park, May 11 Planted in the park.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/zeylanicum/110502prpd0479m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/syzygium/zeylanicum/110502prpd0479m6l.jpg
     caption: Pasir Ris Park, May 11 Planted in the park.
   gallery4:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -78,7 +78,7 @@ According to Burkill, the fruit is sweet, aromatic and edible. The reddish or br
 
 ****
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/zeylanicum/110203sjid5606m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/syzygium/zeylanicum/110203sjid5606m6l.jpg)
 
 *St. John's Island, Feb 11*
 

@@ -9,17 +9,17 @@ genus: Clathria
 species: cf.
 attributes: []
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/porifera/veined/110812chgd8798m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/veined/110812chgd8798m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/veined/110812chgd8798m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/veined/110812chgd8798m3.jpg
     caption: Changi, Aug 11
-  - url: http://www.wildsingapore.com/wildfacts/porifera/veined/110812chgd8798m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/veined/110812chgd8798m3b.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/veined/130501sntlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/veined/130501sntlks.JPG
     caption: Sentosa, May 13 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/porifera/veined/101205blylks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/veined/101205blylks1.jpg
     caption: Berlayar Creek, Dec 10 Photo shared by Loh Kok Sheng on flickr .
 links_references: '**Links**
 

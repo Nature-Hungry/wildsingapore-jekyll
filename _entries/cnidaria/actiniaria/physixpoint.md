@@ -22,28 +22,28 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/sixpoint/050820bbg1791m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/sixpoint/050820bbg1791m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/sixpoint/050820bbg1791m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/sixpoint/050820bbg1791m3.jpg
     caption: Beting Bronok, Aug 05
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/sixpoint/090923labd1744m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/sixpoint/090923labd1744m3.jpg
     caption: Labrador, Sep 09
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/sixpoint/060809skdd5528m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/sixpoint/060809skdd5528m3.jpg
     caption: Pulau Sekudu, Aug 06
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/sixpoint/150320tusmn1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/sixpoint/150320tusmn1m3.jpg
     caption: Tuas, Mar 15 Photo shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/sixpoint/100617tblks1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/sixpoint/100617tblks1m3.jpg
     caption: Terumbu Bemban, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/sixpoint/100529tbrkmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/sixpoint/100529tbrkmn.jpg
     caption: Pulau Berkas, May 10 Photo shared by Marcus Ng on flickr .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/sixpoint/091204pawd5403m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/sixpoint/091204pawd5403m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/sixpoint/091205pawlks3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/sixpoint/091205pawlks3m3.jpg
     caption: Pulau Pawai, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/sixpoint/091231biojk4m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/sixpoint/091231biojk4m3.jpg
     caption: Pulau Biola, Dec 09 Photo shared by James Koh on his flickr .
 location:
 - cj

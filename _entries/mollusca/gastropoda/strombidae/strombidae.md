@@ -18,7 +18,7 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Stromboidea
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/canarium/111212tmnbs00821m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/canarium/111212tmnbs00821m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -30,38 +30,38 @@ galleries:
       surface. Many of its features are adaptations to this hopping lifestyle: flared
       shell, large eyes. Many are edible.'
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/canarium/111212tmnbs00821m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/canarium/111212tmnbs00821m3.jpg
     caption: Hopping along Tanah Merah, Dec 11
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/lambis/060813jngd6116m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/lambis/060813jngd6116m3.jpg
     caption: Claw-like operculum on a strong narrow foot. Pulau Jong, Aug 06
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/canarium/150519chgcp1d4533.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/canarium/150519chgcp1d4533.jpg
     caption: The shell is a coiled beneath the flared lip.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/lambis/120411thnts06115m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/lambis/120411thnts06115m3.jpg
     caption: Laying bright orange egg string. Terumbu Hantu, Apr 12
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/canarium/100728tmd9438m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/canarium/100728tmd9438m3.jpg
     caption: Laying fine beige egg string. Tanah Merah, Jul 10
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/lambis/070704jngg1106m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/lambis/070704jngg1106m3.jpg
     caption: A young Spider conch that hasn't developed spines on its shell yet. Pulau
       Jong, Jul 07
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/canarium/140812chg4d8590.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/canarium/140812chg4d8590.jpg
     caption: Harvesting Gong-gong, dragging box behind. Changi, Aug 14
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/canarium/140812chg4d8600.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/canarium/140812chg4d8600.jpg
     caption: Gong-gong in the box dragged behind. Changi, Aug 14
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/canarium/041114kusd8273m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/canarium/041114kusd8273m3.jpg
     caption: Gong-gong or Pearl conch
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/050611kusg7823m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/urceus/050611kusg7823m3.jpg
     caption: Black-lipped conch
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/vittatus/160708sjio7080261m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/vittatus/160708sjio7080261m3.jpg
     caption: Vitate conch
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/110814smkd9070m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/marginatus/110814smkd9070m3.jpg
     caption: Margined conch
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/aratrum/090428chgd0825m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/aratrum/090428chgd0825m3.jpg
     caption: Dark Diana conch
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/lambis/060813jngd6116m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/lambis/060813jngd6116m3.jpg
     caption: Spider conch
 links_references: '**Links**
 

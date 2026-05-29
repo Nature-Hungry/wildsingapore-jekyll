@@ -35,7 +35,7 @@ subterclass: Tectipleura
 superorder: Sacoglossa
 superfamily: Oxynooidea
 updated: Jun 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/lobiger/050622cftg8209m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/lobiger/050622cftg8209m3.jpg
 links_references: "**Links**\n- [The\n  Sea Slug Forum](http://www.seaslugforum.net/)\
   \ by Dr Bill Rudman: photos and fact sheet on\n  [*Lobiger\n  viridis*](http://www.seaslugforum.net/showall.cfm?base=lobiviri)\
   \ and *[Lobiger\n  souverbii](http://www.seaslugforum.net/factsheet.cfm?base=lobisouv)*\n\
@@ -52,18 +52,18 @@ links_references: "**Links**\n- [The\n  Sea Slug Forum](http://www.seaslugforum.
   - Debelius,\n  Helmut, 2001. *Nudibranchs\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/lobiger/050622cftg8209m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/lobiger/050622cftg8209m3.jpg
     caption: Changi, Jun 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/lobiger/050622cftg8209m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/lobiger/050622cftg8209m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/lobiger/050622cftg8209m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/lobiger/050622cftg8209m3b.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/lobiger/130426tkkd5655m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/lobiger/130426tkkd5655m6l.jpg
     caption: Tendrils can be suddenly unfurled to deter predators. Pulau Tekukor,
       Apr 13
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/lobiger/121214chgemn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/lobiger/121214chgemn1.jpg
     caption: Changi East, Dec 12 Photo shared by Marcus Ng on flickr .
   gallery4:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1

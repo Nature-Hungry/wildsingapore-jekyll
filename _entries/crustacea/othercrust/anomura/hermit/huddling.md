@@ -14,33 +14,33 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/huddling/060131sjig4376m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/huddling/060131sjig4376m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/huddling/060131sjig4376m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/huddling/060131sjig4376m3.jpg
     caption: A heap of tiny but different kinds of shells. St John's Island, Jan 06
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/huddling/081216prpd3546m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/huddling/081216prpd3546m3.jpg
     caption: Pasir Ris, Dec 08
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/huddling/050917smkg2549m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/huddling/050917smkg2549m3.jpg
     caption: Pulau Semakau, Sep 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/huddling/050428cftg5217m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/huddling/050428cftg5217m3.jpg
     caption: Changi, Apr 05
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/huddling/050428cftg5223m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/huddling/050428cftg5223m3a.jpg
     caption: Changi, Apr 05
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/huddling/050429cftg5366m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/huddling/050429cftg5366m3a.jpg
     caption: Changi, Apr 05
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/huddling/200710mevc6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/huddling/200710mevc6.jpg
     caption: East Coast-Marina East, Jul 20 Photo shared by Vincent Choo on facebook
       .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/huddling/201115sntvc4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/huddling/201115sntvc4.jpg
     caption: Sentosa Tg. Rimau, Nov 20 Photo shared by Vincent Choo on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/huddling/160625tkkis3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/huddling/160625tkkis3.jpg
     caption: Pulau Tekukor, Jun 16 Photo shared by Ian Siah on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/huddling/101107tburjk2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/huddling/101107tburjk2.jpg
     caption: Terumbu Buran, Nov 10 Photo shared by James Koh on flickr .
 location:
 - prp

@@ -18,7 +18,7 @@ superorder: Acanthomorpha
 order: Gobiiformes
 suborder: Apogonoidei
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/031125hntad0022m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/margaritophorus/031125hntad0022m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -29,23 +29,23 @@ galleries:
     caption: They have large eyes, mouth and scales. Some are colourful. The male
       broods the eggs in his mouth. Don't touch them, some can give a nasty bite!
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/031125hntad0022m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/margaritophorus/031125hntad0022m3.jpg
     caption: Sometimes found in groups. Pulau Hantu, Nov 03
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/111029smkd3106m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/margaritophorus/111029smkd3106m3b.jpg
     caption: Brooding eggs in the mouth. Pulau Semakau, Oct 11
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/111029smkd3110m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/margaritophorus/111029smkd3110m3.jpg
     caption: Brooding young in the mouth. Pulau Semakau, Oct 11
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/060130hntg4314m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/margaritophorus/060130hntg4314m3.jpg
     caption: Chequered cardinalfish
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/candystripe/110506tmftd0831.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/candystripe/110506tmftd0831.jpg
     caption: Candystripe cardinalfish
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/candystripe/100528tkkd3753m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/candystripe/100528tkkd3753m3.jpg
     caption: Candystripe cardinalfish
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/orbicularis/040830hntd5831m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/orbicularis/040830hntd5831m3.jpg
     caption: Orbicular cardinalfish
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/melas/100810sngd9986m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/melas/100810sngd9986m3.jpg
     caption: Black cardinalfish
 links_references: "**Links**\n- Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.\n*[A\
   \ Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*\n\

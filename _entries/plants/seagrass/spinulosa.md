@@ -36,19 +36,19 @@ galleries:
     caption: It is made of up little leaflets. It is most commonly seen on Chek Jawa,
       but rarely seen elsewhere. It is eaten by dugongs.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/110916cjd1153m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/spinulosa/110916cjd1153m6l.jpg
     caption: Chek Jawa, Sep 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/110916cjd1153m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/spinulosa/110916cjd1153m3a.jpg
     caption: Chek Jawa, Sep 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/070716chgd4197m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/spinulosa/070716chgd4197m3.jpg
     caption: Changi, Jul 07 Small one-sided fold at the base of each leaf. Chek Jawa,
       Sep 03
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/050819cjg1506m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/spinulosa/050819cjg1506m3a.jpg
     caption: Tiny snails grazing on algae on the leaves. Chek Jawa, Aug 05
   - url: http://www.wildsingapore.com/bryozoa/bryozoannoid/080817chgd9745m3a.jpg
     caption: Bryozoans growing on the seagrass. Changi, Aug 08
-  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/071126chgd7629m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/spinulosa/071126chgd7629m3c.jpg
     caption: Tiny organisms growing on leaflet. Changi, Nov 07
 links_references: '**Links**
 
@@ -124,12 +124,12 @@ Dugongs are known to graze on this seagrass.
 **Status and threats:**
 It is listed as 'Critically Endangered' on the Red List of threatened plants of Singapore.
 
-*![](http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/080412cjd1263m6l.jpg)*
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/spinulosa/080412cjd1263m6l.jpg)*
 Fern seagrass sometimes grows right up
 
 to the rocky shore on Chek Jawa!
 *Chek Jawa, Apr 08*
-*![](http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/020213cjd6797m3.jpg)*
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/spinulosa/020213cjd6797m3.jpg)*
 Leaves emerge from underground stems.
 *Chek Jawa, Feb 02*
 

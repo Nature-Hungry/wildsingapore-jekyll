@@ -20,7 +20,7 @@ superorder: Imparidentia
 order: Adapedonta
 superfamily: Solenoidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/solenidae/solenidae/040120cjd0014m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/solenidae/solenidae/040120cjd0014m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -33,16 +33,16 @@ galleries:
       The thin flexible shell allows it to slip easily into the sand. They are rapid
       burrowers. Let's put this one down and see how fast it can burrow.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/solenidae/solenidae/040120cjd0014m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/solenidae/solenidae/040120cjd0014m3.jpg
     caption: Razor clam ( Solen brevisiima ) Foot burrowing in (left) and siphon extended
       (right). Chek Jawa, Jan 04
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/solenidae/solenidae/120703chgd6621m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/solenidae/solenidae/120703chgd6621m3.jpg
     caption: Siphon of a large buried razor clam Changi, Jul 11
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/solenidae/solenidae/111227prpd5118m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/solenidae/solenidae/111227prpd5118m6l.jpg
     caption: Bulbous tip of the muscular foot. Pasir Ris, Dec 11
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/solenidae/solenidae/091230prpjk1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/solenidae/solenidae/091230prpjk1m3.jpg
     caption: Pasir Ris Park, Dec 09 Photo shared by James Koh on his blog .
 links_references: '**Links**
 

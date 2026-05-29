@@ -19,14 +19,14 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Cladophorales
 updated: Jan 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/valonia/070615sntrg0285m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/valonia/070615sntrg0285m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/valonia/100912kusd1448m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/valonia/100912kusd1448m3.jpg
     caption: Kusu Island, Sep 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/valonia/100912kusd1448m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/valonia/100912kusd1448m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/valonia/040812labcpd0702m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/valonia/040812labcpd0702m3.jpg
     caption: Labrador, Aug 04
 links_references: '**Links**
 
@@ -110,11 +110,11 @@ species.
 **Human uses:**
 Some species are eaten by people.
 
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/valonia/070615sntrg0285m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/valonia/070615sntrg0285m3.jpg)
 
 *Sentosa, Jun 07
 
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/valonia/070615sntrg0285m3b.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/valonia/070615sntrg0285m3b.jpg)*
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

@@ -23,7 +23,7 @@ order: Gentianales
 tribe: Potalieae
 subtribe: Potaliinae
 updated: Feb 11
-coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/auriculata/110220lazd6220m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/fagraea/auriculata/110220lazd6220m6l.jpg
 links_references: "**Links**\n- [*Fagraea\n  auriculata*](http://floraofsingapore.wordpress.com/2011/02/20/fagraea-auriculata/)\n\
   \  on the Total Vascular Plants of Singapore blog: photos and fact\n  sheet.\n\n\
   **References**\n- Tan, Hugh\n  T.W. and T. Morgany. 2001. *[A\n  Guide to Growing\
@@ -32,21 +32,21 @@ links_references: "**Links**\n- [*Fagraea\n  auriculata*](http://floraofsingapor
   \ Tan. 1990, *[The\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/auriculata/110220lazd6221m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/fagraea/auriculata/110220lazd6221m3a.jpg
     caption: Lazarus Island, Feb 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/auriculata/110220lazd6224m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/fagraea/auriculata/110220lazd6224m3.jpg
     caption: A pair of 'ears' at the base of the leaf stalk. Lazarus Island, Feb 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/auriculata/110220lazd6224m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/fagraea/auriculata/110220lazd6224m3a.jpg
     caption: Lazarus Island, Feb 11
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/auriculata/100531biod4654m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/fagraea/auriculata/100531biod4654m6l.jpg
     caption: Pulau Biola, May 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/auriculata/100531biod4665m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/fagraea/auriculata/100531biod4665m3a.jpg
     caption: Pulau Biola, May 10
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/auriculata/100528tkkd3981m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/fagraea/auriculata/100528tkkd3981m6l.jpg
     caption: Pulau Tekukor, May 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/auriculata/100528tkkd3986m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/fagraea/auriculata/100528tkkd3986m3.jpg
     caption: Pulau Tekukor, May 10
   gallery4:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -78,7 +78,7 @@ According to Burkill the very sticky substance found under the thin skin of the 
 **Status and threats:**
 This plant is listed as 'Critically Endangered' in the Red List of threatened plants of Singapore.
 
-****![](http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/auriculata/110220lazd6220m6l.jpg)*
+****![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/fagraea/auriculata/110220lazd6220m6l.jpg)*
 
 *Lazarus Island, Feb 11*
 *****

@@ -18,7 +18,7 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Vermetoidea
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/vermetidae/vermetidae/130722skdd9664.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/vermetidae/vermetidae/130722skdd9664.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -30,22 +30,22 @@ galleries:
       feed at high tide, gathering bits with a 'net'. Look for them on large boulders
       and other hard surfaces.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/vermetidae/vermetidae/130722skdd9664.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/vermetidae/vermetidae/130722skdd9664.jpg
     caption: Pulau Sekudu, Jul 13
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/vermetidae/vermetidae/050429cftg5490m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/vermetidae/vermetidae/050429cftg5490m3a.jpg
     caption: Changi, Apr 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/vermetidae/vermetidae/050510tusg6099m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/vermetidae/vermetidae/050510tusg6099m3.jpg
     caption: Tuas, May 05
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/vermetidae/vermetidae/020617tuscpd0757m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/vermetidae/vermetidae/020617tuscpd0757m3.jpg
     caption: Feeding with mucus strands? Raffles Marina, Jun 02
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/vermetidae/vermetidae/120604pgld3575m6la.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/vermetidae/vermetidae/120604pgld3575m6la.jpg
     caption: Often, the shell is covered in encrusting lifeforms and only the shell
       opening is seen. Punggol, Jun 12
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/vermetidae/vermetidae/201020prpalks8.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/vermetidae/vermetidae/201020prpalks8.jpg
     caption: Pasir Ris-Loyang, Oct 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/vermetidae/vermetidae/260103prpyls10.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/vermetidae/vermetidae/260103prpyls10.jpg
     caption: Pasir Ris Park, Dec 25 Photo shared by Yan Le Su on facebook .
 links_references: '**Links**
 

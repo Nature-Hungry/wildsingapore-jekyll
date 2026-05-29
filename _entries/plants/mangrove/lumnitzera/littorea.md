@@ -21,21 +21,21 @@ class: Magnoliopsida
 order: Myrtales
 inat_id: 196656
 updated: Jan 2013
-coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/090816ubind9120m6la.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/lumnitzera/littorea/090816ubind9120m6la.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/090410ubnd9278m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/lumnitzera/littorea/090410ubnd9278m3.jpg
     caption: Bark deeply fissured. Pulau Ubin, Apr 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/090315smkd8194m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/lumnitzera/littorea/090315smkd8194m3b.jpg
     caption: Stamens much longer than petals. Pulau Semakau, Jan 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/090315smkd8194m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/lumnitzera/littorea/090315smkd8194m3.jpg
     caption: Pulau Semakau, Jan 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/090112smkd4965m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/lumnitzera/littorea/090112smkd4965m3.jpg
     caption: Pulau Semakau, Jan 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/091115ubnd4139m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/lumnitzera/littorea/091115ubnd4139m3.jpg
     caption: Pulau Semakau, Nov 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/081213smkd3025m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/lumnitzera/littorea/081213smkd3025m3a.jpg
     caption: Pulau Semakau, Dec 12
 links_references: '**Links**
 
@@ -151,10 +151,10 @@ According to Burkill, the timber is hard and durable, and thus sought after for 
 **Status and threats:**
 It is listed as 'Endangered' on the Red List of threatened plants of Singapore.
 
-![](http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/090816ubind9120m6la.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/lumnitzera/littorea/090816ubind9120m6la.jpg)
 
 *Pulau Ubin, Aug 09*
-![](http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/090816ubind9122m3b.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/lumnitzera/littorea/090816ubind9122m3b.jpg)
 
 Small gland at the leaf tip.
 

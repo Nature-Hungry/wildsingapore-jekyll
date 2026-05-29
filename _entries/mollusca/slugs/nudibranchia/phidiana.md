@@ -22,21 +22,21 @@ order: Nudibranchia
 suborder: Aeolidina
 superfamily: Aeolidioidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phidiana/050429cftg5446m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/phidiana/050429cftg5446m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phidiana/050429cftg5446m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/phidiana/050429cftg5446m3.jpg
     caption: Changi, Apr 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phidiana/050429chgg5462m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/phidiana/050429chgg5462m6l.jpg
     caption: Changi, Apr 05
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phidiana/170626skdtch4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/phidiana/170626skdtch4.jpg
     caption: Pulau Sekudu, Jun 17 Photo shared by Toh Chay Hoon on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phidiana/250201bsislks3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/phidiana/250201bsislks3.jpg
     caption: Big Sisters Island, Feb 25 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phidiana/210213bsistch1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/phidiana/210213bsistch1.jpg
     caption: Big Sisters Island, Feb 21 Photo shared by Toh Chay Hoon on facebook
       .
 links_references: '**Links**

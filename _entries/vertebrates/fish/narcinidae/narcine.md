@@ -19,18 +19,18 @@ subclass: Elasmobranchii
 infraclass: Batoidea
 order: Torpediniformes
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/narcinidae/narcine/090622cftd4655m3a.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/narcinidae/narcine/090622cftd4655m3a.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/narcinidae/narcine/090622cftd4655m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/narcinidae/narcine/090622cftd4655m3a.jpg
     caption: Gill openings behind the eyes.
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/narcinidae/narcine/090622cftd4655m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/narcinidae/narcine/090622cftd4655m6l.jpg
     caption: Narcine maculata Short fat tail with round dorsal and tail fins. Changi,
       Jun 05
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/narcinidae/narcine/040704cjlcp.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/narcinidae/narcine/040704cjlcp.jpg
     caption: Narcine maculata Chek Jawa, Jul 04 Photo shared by Lim Cheng Puay.
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/narcinidae/narcine/120605chgmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/narcinidae/narcine/120605chgmn.jpg
     caption: Narcine maculata Changi, Jun 12 Photo shared by Marcus Ng on flickr .
 links_references: '**Links**
 

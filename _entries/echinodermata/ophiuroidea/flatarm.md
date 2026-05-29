@@ -17,42 +17,42 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Apr 2020
-coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/flatarm/050622chgg8104m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/flatarm/050622chgg8104m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/flatarm/050622chgg8104m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/flatarm/050622chgg8104m3.jpg
     caption: Changi, Jun 05
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/flatarm/050622chgg8104m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/flatarm/050622chgg8104m3a.jpg
     caption: Upperside, some with scalloped edges.
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/flatarm/050622chgg8104m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/flatarm/050622chgg8104m3c.jpg
     caption: Upperside of arm.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/flatarm/050622chgg8102m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/flatarm/050622chgg8102m3a.jpg
     caption: Underside.
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/flatarm/050622chgg8102m3d.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/flatarm/050622chgg8102m3d.jpg
     caption: Underside of arm with flat spines and long tapered tube feet.
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/flatarm/070803cjd5005m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/flatarm/070803cjd5005m3.jpg
     caption: Sometimes seen in large numbers. Chek Jawa, Aug 07
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/flatarm/100926cjd1676m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/flatarm/100926cjd1676m3.jpg
     caption: Chek Jawa, Sep 10
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/flatarm/100926cjd1675m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/flatarm/100926cjd1675m3.jpg
     caption: Underside.
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/flatarm/100926cjd1675m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/flatarm/100926cjd1675m3a.jpg
     caption: Underside of arm with flat spines and long tapered tube feet.
   gallery4:
   - url: https://live.staticflickr.com/1679/24563344489_d486526b25_z.jpg
     caption: ''
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/flatarm/240723chgeccn5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/flatarm/240723chgeccn5.jpg
     caption: Stuck on a sand collar . Changi East (Lost Coast), Jul 24 Photo shared
       by Che Cheng Neo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/flatarm/151001blyjt17m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/flatarm/151001blyjt17m3.jpg
     caption: Berlayar Creek, Oct 15 Photo shared by Jonathan Tan on facebook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/flatarm/250726cyrjt7.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/flatarm/250726cyrjt7.jpg
     caption: Cyrene, Jul 25 Photo shared by Jonathan Tan on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/flatarm/250726cyrjt7a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/flatarm/250726cyrjt7a.jpg
     caption: ''
 location:
 - chg

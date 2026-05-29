@@ -29,36 +29,36 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Calappoidea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1243m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/hepatica/100417hntd1243m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1243m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/hepatica/100417hntd1243m3.jpg
     caption: Pulau Hantu, Apr 10
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1247m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/hepatica/100417hntd1247m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1240m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/hepatica/100417hntd1240m3.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1255m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/hepatica/100417hntd1255m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1255m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/hepatica/100417hntd1255m3b.jpg
     caption: ''
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/120407lazlks1.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/hepatica/120407lazlks1.JPG
     caption: Seringat-Kias, Apr 12 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/170212bsismn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/hepatica/170212bsismn.jpg
     caption: Big Sisters Island, Feb 17 Photo shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/250201bsistt1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/hepatica/250201bsistt1.jpg
     caption: Big Sisters Island, Feb 25 Photo shared by Tommy Tan on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/150219cyrlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/hepatica/150219cyrlks.JPG
     caption: Cyrene Reef, Feb 15 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/230423cyrlks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/hepatica/230423cyrlks1.jpg
     caption: Cyrene Reef, Apr 23 Photo shared by Loh Kok Sheng on facebook ..
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/110508cyrlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/hepatica/110508cyrlks.JPG
     caption: Cyrene Reef, May 11
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/110508cyrlks2.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/hepatica/110508cyrlks2.JPG
     caption: Photo shared by Loh Kok Sheng on flickr .
 links_references: '**Links**
 

@@ -18,23 +18,23 @@ subclass: Caenogastropoda
 order: Neogastropoda
 superfamily: Olivoidea
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/oliva/110814smkd9100m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/oliva/110814smkd9100m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/oliva/110814smkd9100m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/oliva/110814smkd9100m3.jpg
     caption: Pulau Semakau, Aug 11
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/oliva/110814smkd9097m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/oliva/110814smkd9097m3b.jpg
     caption: Tall conical spire.
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/oliva/110814smkd9097m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/oliva/110814smkd9097m3.jpg
     caption: White lip ends at less than half the shell opening length. Shell opening
       pinkish.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/oliva/130428chgmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/oliva/130428chgmn.jpg
     caption: Changi, Apr 13 Photo shared by Marcus Ng on flickr.
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/oliva/100419chgjk.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/oliva/100419chgjk.jpg
     caption: Changi, Apr 10 Photo shared byJames Koh on flickr .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/oliva/180812nsrtlks10.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/oliva/180812nsrtlks10.jpg
     caption: East Coast Park, Aug 18 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 

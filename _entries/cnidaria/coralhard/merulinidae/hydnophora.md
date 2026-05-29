@@ -17,21 +17,21 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Jun 13
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/070618rlhg0547m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/hydbranch/070618rlhg0547m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/070618rlhg0549m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/hydbranch/070618rlhg0549m3.jpg
     caption: Colony may be a combination of encrusting and branching .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/070618rlhg0549m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/hydbranch/070618rlhg0549m3b.jpg
     caption: Sometimes forming short valleys.
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/070618rlhg0549m3d.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/hydbranch/070618rlhg0549m3d.jpg
     caption: Tentacles around the mounds.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydboulder/060402ulrd1100m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/hydboulder/060402ulrd1100m3.jpg
     caption: Boulder horn coral
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/060714rlhg6493m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/hydbranch/060714rlhg6493m3.jpg
     caption: Branching horn coral
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/040705sisd2233m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/hydbranch/040705sisd2233m3.jpg
     caption: Branching horn coral
 links_references: '**Links**
 
@@ -116,11 +116,11 @@ Colonies seen about 15-20cm across, sometimes 50cm in undisturbed shores. The un
 **Status and threats:**
 Our horn corals are not listed among the endangered animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors, and over-collection also have an impact on local populations.
 
-![](http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/070618rlhg0547m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/hydbranch/070618rlhg0547m3.jpg)
 
 *Raffles Lighthouse, Jun 07
 
-![](http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/070618rlhg0549m3a.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/hydbranch/070618rlhg0549m3a.jpg)*
 Conical mounds called monticules.
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

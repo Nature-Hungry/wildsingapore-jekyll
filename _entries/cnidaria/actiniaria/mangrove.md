@@ -22,26 +22,26 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Metridioidea
 updated: Dec 2024
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mangrove/031128sbwrad0012m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/mangrove/031128sbwrad0012m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mangrove/031128sbwrad0012m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/mangrove/031128sbwrad0012m3.jpg
     caption: Sungei Buloh Wetland Reserve, Nov 03
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mangrove/031128sbwrad0012m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/mangrove/031128sbwrad0012m3a.jpg
     caption: Mouth ringed with petal-like structures.
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mangrove/081216prpd3508m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/mangrove/081216prpd3508m3.jpg
     caption: Pasir Ris Park, Dec 08
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mangrove/031128sbwrad0060m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/mangrove/031128sbwrad0060m3.jpg
     caption: Sungei Buloh Wetland Reserve, Nov 03
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mangrove/081228smbd4194m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/mangrove/081228smbd4194m3.jpg
     caption: Sembawang, Dec 08
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mangrove/080718wdld7674m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/mangrove/080718wdld7674m3.jpg
     caption: Woodlands, Jul 08
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mangrove/250528chsafmn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/mangrove/250528chsafmn1.jpg
     caption: Changi SAF chalet, May 25 Photo shared by Marcus Ng on facebook ..
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mangrove/260222ubnrqo1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/mangrove/260222ubnrqo1.jpg
     caption: Pulau Ubin, Feb 26 Photo shared by Rui Quan Oh on facebook ..
 links_references: '**Links**
 

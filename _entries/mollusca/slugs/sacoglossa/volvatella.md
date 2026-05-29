@@ -35,56 +35,56 @@ subterclass: Tectipleura
 superorder: Sacoglossa
 superfamily: Oxynooidea
 updated: Jun 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/120620sntd5876m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/volvatella/120620sntd5876m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/120620sntd5876m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/volvatella/120620sntd5876m3.jpg
     caption: Smaller 'males' on top of a larger hermaphrodite snail. Sentosa, Jun
       12
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/120620sntd5884m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/volvatella/120620sntd5884m6l.jpg
     caption: Sentosa, Jun 12
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/110812prpd8594m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/volvatella/110812prpd8594m6l.jpg
     caption: Produces a white fluid when disturbed. Pasir Ris, Aug 11
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/210527chgsaftch2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/volvatella/210527chgsaftch2.jpg
     caption: Laying eggs? Changi Creek, May 21 Photo shared by Toh Chay Hoon on facebook
       .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/251012chgmn6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/volvatella/251012chgmn6.jpg
     caption: Changi, Oct 25 Photo shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/110519chglks3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/volvatella/110519chglks3m3.jpg
     caption: Changi, May 11 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/140517chg1tch1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/volvatella/140517chg1tch1m3.jpg
     caption: Changi, May 14 Photo shared by Toh Chay Hoon on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/171206ubnlks8.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/volvatella/171206ubnlks8.jpg
     caption: Pulau Ubin, Dec 17 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/240821skdch4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/volvatella/240821skdch4.jpg
     caption: Pulau Sekudu, Aug 24 Photo shared by Chay Hoon on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/100516skdtch7m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/volvatella/100516skdtch7m3a.jpg
     caption: Pulau Sekudu, May 10 Photo shared by Toh Chay Hoon on her blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/090720skdmn3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/volvatella/090720skdmn3m3.jpg
     caption: Pulau Sekudu, Jul 09 Photo shared by Marcus Ng on his flickr .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/180714cjmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/volvatella/180714cjmn.jpg
     caption: Chek Jawa, Jul 18 Photo shared by Marcus Ng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/170624cjtch2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/volvatella/170624cjtch2.jpg
     caption: Chek Jawa, Jun 17 Photo shared by Toh Chay Hoon on facebook .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/101009cjnml2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/volvatella/101009cjnml2m3.jpg
     caption: Chek Jawa, Oct 10 Photo shared by Neo Mei Lin on her blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/210626cjtch3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/volvatella/210626cjtch3.jpg
     caption: Chek Jawa, Jun 21 Photo shared by Toh Chay Hoon on facebook .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/220616chgelks14.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/volvatella/220616chgelks14.jpg
     caption: Changi Lost Coast, Jun 22 Photo shared by Loh Kok Sheng on facebook .
   gallery9:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/100515sjlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/volvatella/100515sjlks.JPG
     caption: St. John's Island, May 10 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/140712cyrlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/volvatella/140712cyrlks.JPG
     caption: Cyrene Reef, Jul 14 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/170501tsmktch6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/volvatella/170501tsmktch6.jpg
     caption: Terumbu Semakau, May 17 Photo shared by Toh Chay Hoon on facebook .
 links_references: "**Links**\n- [*Volvatella vigourouxi*](http://www.seaslugforum.net/factsheet.cfm?base=volvvigo)\n\
   on\n[The Sea Slug Forum](http://www.seaslugforum.net/)\nby Dr Bill Rudman: photos\

@@ -23,14 +23,14 @@ subfamily: Asclepiadoideae
 tribe: Marsdenieae
 inat_id: 804837
 updated: Jan 2013
-coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/hoya/diversifolia/090411lckd9480m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/hoya/diversifolia/090411lckd9480m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/hoya/diversifolia/110822admd9843m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/hoya/diversifolia/110822admd9843m3.jpg
     caption: Admiralty Park, Aug 11 Hoya diversifolia
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/hoya/verticillata/011215cjcpd2329m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/hoya/verticillata/011215cjcpd2329m3.jpg
     caption: Chek Jawa, Dec 01 Hoya verticillata
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/hoya/verticillata/030517cjad0042m6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/hoya/verticillata/030517cjad0042m6.jpg
     caption: Fruits. Chek Jawa, May 03
 links_references: '**Links**
 
@@ -109,7 +109,7 @@ Many of our hoyas are listed in the Red List of threatened plants of Singapore. 
 *Hoya diversifolia*
 is listed as 'Critically Endangered'.
 
-*![](http://www.wildsingapore.com/wildfacts/plants/mangrove/hoya/diversifolia/090411lckd9480m6l.jpg)
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/hoya/diversifolia/090411lckd9480m6l.jpg)
 
 Lim Chu Kang, Apr 09*
 

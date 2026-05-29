@@ -17,49 +17,49 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/050509hntg5989m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/050509hntg5989m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/050509hntg5989m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/050509hntg5989m3.jpg
     caption: Pulau Hantu, May 05
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/050509hntg5989m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/050509hntg5989m3b.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/050509hntg5989m3f.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/050509hntg5989m3f.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/031029sntbd0058m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/031029sntbd0058m3.jpg
     caption: Sentosa, Oct 03
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/031029sntbd0058m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/031029sntbd0058m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/031029sntbd0058m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/031029sntbd0058m3b.jpg
     caption: ''
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/050525hntg6679m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/050525hntg6679m3.jpg
     caption: Pulau Hantu, May 05
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/050525hntg6679m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/050525hntg6679m3b.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/050525hntg6681m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/050525hntg6681m3a.jpg
     caption: ''
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/080623cyrd6266m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/080623cyrd6266m3.jpg
     caption: Cyrene Reef, Jun 08
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/080422smkd1415m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/080422smkd1415m3.jpg
     caption: Pulau Semakau, Apr 08
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/070517sntrd0849m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/070517sntrd0849m3.jpg
     caption: Sentosa, May 07
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/100130brkd8476m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/100130brkd8476m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/100613sngd5425m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/100613sngd5425m3a.jpg
     caption: Pulau Senang, Jun 10
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/100601slud4715m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/100601slud4715m3.jpg
     caption: Pulau Salu, Jun 10
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/100601slud4754m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/100601slud4754m3b.jpg
     caption: Pulau Salu, Jun 10
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/100601slud4758m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/100601slud4758m3.jpg
     caption: Pulau Salu, Jun 10
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/100530tbkd4355m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/100530tbkd4355m3.jpg
     caption: Pulau Berkas, May 10
 location:
 - bb

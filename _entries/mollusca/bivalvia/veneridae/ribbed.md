@@ -22,41 +22,41 @@ order: Venerida
 superfamily: Veneroidea
 subfamily: Gouldiinae
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/070204hntg7547m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/ribbed/070204hntg7547m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/070204hntg7547m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/ribbed/070204hntg7547m3.jpg
     caption: Gafrarium pectinatum? Pulau Hantu, Feb 07
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/070204hntg7549m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/ribbed/070204hntg7549m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/070204hntg7549m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/ribbed/070204hntg7549m3a.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/070505kusg9114m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/ribbed/070505kusg9114m3.jpg
     caption: Gafrarium tumidum? Kusu Island, May 07
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/100729tmd9682m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/ribbed/100729tmd9682m3.jpg
     caption: Gafrarium pectinatum? Tanah Merah, Jul 10
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/110220lazlks4m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/ribbed/110220lazlks4m3.jpg
     caption: Lazarus Island, Feb 11 Photo shared by Loh Kok Sheng on his flickr .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/210530epcnvc7.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/ribbed/210530epcnvc7.jpg
     caption: East Coast (PCN), May 21 Photo shared by Vincent Choo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/260218merqo2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/ribbed/260218merqo2.jpg
     caption: Marina East, Feb 26 Photo shared by Rui Quan Oh on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/171009brlay.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/ribbed/171009brlay.jpg
     caption: Berlayar Creek, Oct 17 Photo shared by Abel Yeo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/0914104sntlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/ribbed/0914104sntlks.JPG
     caption: Sentosa, Dec 09 Photo shared by Loh Kok Sheng on flickr .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/251009sjitl5a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/ribbed/251009sjitl5a.jpg
     caption: St John's Island, Oct 25 Photo shared by Tammy Lim on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/251009sjitl5b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/ribbed/251009sjitl5b.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/110326sjilks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/ribbed/110326sjilks.JPG
     caption: St John's Island, Mar 11 Photo shared by Loh Kok Sheng on flickr .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/181027smksjt1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/ribbed/181027smksjt1.jpg
     caption: Pulau Semakau South, Oct 18 Photo shared by Juria Toramae on facebook
       .
 links_references: '**Links**

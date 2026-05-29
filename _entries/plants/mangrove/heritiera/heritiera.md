@@ -24,19 +24,19 @@ order: Malvales
 subfamily: Sterculioideae
 inat_id: 193310
 updated: Jan 2013
-coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/heritiera/heritiera/120414cjd9900m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/heritiera/heritiera/120414cjd9900m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/heritiera/heritiera/120414cjd9902m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/heritiera/heritiera/120414cjd9902m3a.jpg
     caption: Bell-shaped flowers pink and velvety. Chek Jawa, Apr 12
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/heritiera/heritiera/110329mndd8261m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/heritiera/heritiera/110329mndd8261m3c.jpg
     caption: Bell-shaped flowers pink and velvety. Mandai mangroves, Mar 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/heritiera/heritiera/090214sbwrd7115m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/heritiera/heritiera/090214sbwrd7115m3.jpg
     caption: Sungei Buloh Wetland Reserve, Feb 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/heritiera/heritiera/110901krjL1020254m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/heritiera/heritiera/110901krjL1020254m6l.jpg
     caption: Kranji Nature Trail , Sep 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/heritiera/heritiera/110901krjL1020250m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/heritiera/heritiera/110901krjL1020250m3.jpg
     caption: Thin ridge in the centre.
 links_references: '**Links**
 
@@ -133,11 +133,11 @@ According to Burkill, considered "possibly the toughest of Malayan timbers", it 
 **Status and threats:**
 It is listed as 'Endangered' in the Red List of threatened plants of Singapore.
 
-*![](http://www.wildsingapore.com/wildfacts/plants/mangrove/heritiera/heritiera/120414cjd9900m6l.jpg)
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/heritiera/heritiera/120414cjd9900m6l.jpg)
 
 Chek Jawa, Apr 12
 
-![](http://www.wildsingapore.com/wildfacts/plants/mangrove/heritiera/heritiera/090411lckd9477m3.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/heritiera/heritiera/090411lckd9477m3.jpg)*
 Leaves dark green above, silvery below.
 *Lim Chu Kang, Apr 09*
 

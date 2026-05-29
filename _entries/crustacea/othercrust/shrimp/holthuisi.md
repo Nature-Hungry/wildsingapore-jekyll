@@ -25,15 +25,15 @@ suborder: Pleocyemata
 infraorder: Caridea
 superfamily: Palaemonoidea
 updated: Jan 2020
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/holthuisi/130626chgd8870m6la.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/holthuisi/130626chgd8870m6la.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/holthuisi/130626chgd8870m6la.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/holthuisi/130626chgd8870m6la.jpg
     caption: Seen in a Haddon's carpet anemone . Changi, Aug 13
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/holthuisi/130626chgd8741m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/holthuisi/130626chgd8741m3.jpg
     caption: Seen in a Haddon's carpet anemone. Changi, Aug 13
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/holthuisi/110802smkmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/holthuisi/110802smkmn.jpg
     caption: Seen in a Magnificent anemone . Pulau Semakau, Aug 11 Photo shared by
       Marcus Ng on flickr .
 location:

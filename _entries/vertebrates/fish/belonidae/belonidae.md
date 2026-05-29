@@ -22,36 +22,36 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Beloniformes
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/091128cjd4669m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/belonidae/belonidae/091128cjd4669m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/091128cjd4669m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/belonidae/belonidae/091128cjd4669m3.jpg
     caption: Chek Jawa, Nov 09
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/091128cjd4669m6lb.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/belonidae/belonidae/091128cjd4669m6lb.jpg
     caption: Chek Jawa, Nov 09
   gallery2:
   - url: https://live.staticflickr.com/697/23083752273_7b02985f61_z.jpg
     caption: ''
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/161010cjjc1b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/belonidae/belonidae/161010cjjc1b.jpg
     caption: Chek Jawa, Oct 16 Photo shared by James Chua on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/161010cjjc2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/belonidae/belonidae/161010cjjc2.jpg
     caption: Chek Jawa, Oct 16
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/260218meky1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/belonidae/belonidae/260218meky1.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/260218meky1a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/belonidae/belonidae/260218meky1a.jpg
     caption: Dead fish. Marina East, Feb 26 Photo shared by Kelvin Yong on facebook
       .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/150829lazlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/belonidae/belonidae/150829lazlks.JPG
     caption: Seringat-Kias, Aug 15 Photo shared by Loh Kok Sheng on flickr .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/161213sjimn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/belonidae/belonidae/161213sjimn.jpg
     caption: St John's Island, Dec 16 Photo shared by Marcus Ng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/251207hntlvo1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/belonidae/belonidae/251207hntlvo1.jpg
     caption: Pulau Hantu, Dec 25 Photo shared by Lon Voon Ong on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/130808cyrlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/belonidae/belonidae/130808cyrlks.JPG
     caption: Cyrene Reef, Aug 13 Photo shared by Loh Kok Sheng on flickr .
 links_references: '**Links**
 

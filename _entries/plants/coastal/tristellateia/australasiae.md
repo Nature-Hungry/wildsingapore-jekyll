@@ -21,7 +21,7 @@ class: Magnoliopsida
 order: Malpighiales
 inat_id: 321819
 updated: Sep 09
-coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/tristellateia/australasiae/091227kntd6390m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/tristellateia/australasiae/091227kntd6390m6l.jpg
 links_references: "**Links**\n- [*Tristellateia\n  australasiae*](http://floraofsingapore.wordpress.com/2010/03/26/tristellateia-australasiae/)\
   \ on Total Vascular Flora of Singapore Online:\n  photos and fact sheet.\n- Giesen,\
   \ Wim\n  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.\n  [*Mangrove\n\
@@ -31,11 +31,11 @@ links_references: "**Links**\n- [*Tristellateia\n  australasiae*](http://floraof
   **References**\n- Hsuan Keng,\n  S.C. Chin and H. T. W. Tan. 1990, *[The\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/tristellateia/australasiae/090912chgbwd0580m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/tristellateia/australasiae/090912chgbwd0580m3.jpg
     caption: Changi, Sep 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/tristellateia/australasiae/090912chgbwd0578m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/tristellateia/australasiae/090912chgbwd0578m3.jpg
     caption: Changi, Sep 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/tristellateia/australasiae/090912chgbwd0575m6la.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/tristellateia/australasiae/090912chgbwd0575m6la.jpg
     caption: Planted. Changi, Sep 09
   gallery2:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -60,7 +60,7 @@ A popular ornamental, this pretty plant with bright yellow flowers is commonly s
 It is a liana (3-6m up to 10m long). The twigs are puple with bumps (lenticels). The leaves (7-12cm) a fresh green, arranged opposite one another. The star-shaped flowers (2-3cm) are bright yellow appearing in clusters (4-30cm long).
 ****
 
-*![](http://www.wildsingapore.com/wildfacts/plants/coastal/tristellateia/australasiae/091227kntd6390m6l.jpg)*
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/tristellateia/australasiae/091227kntd6390m6l.jpg)*
 Growing wild in a mangrove
 *Kranji Nature Trail, Dec 09*
 
@@ -70,7 +70,7 @@ Growing wild in a mangrove
 *Caesalpinia crista*
 ) when in bloom.
 
-*![](http://www.wildsingapore.com/wildfacts/plants/coastal/tristellateia/australasiae/091227kntd6389m3.jpg)*
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/tristellateia/australasiae/091227kntd6389m3.jpg)*
 *Kranji Nature Trail, Dec 09*
 
 ---

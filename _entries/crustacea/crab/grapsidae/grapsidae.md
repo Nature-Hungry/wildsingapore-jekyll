@@ -24,7 +24,7 @@ zoosection: Eubrachyura
 zoosubsection: Thoracotremata
 superfamily: Grapsoidea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/101224sisd4109m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/metopograpsus/101224sisd4109m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -36,9 +36,9 @@ galleries:
       They have a flat body to slip through narrow crevices. They are very shy and
       disappear at the slightest sign of trouble.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/101224sisd4109m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/metopograpsus/101224sisd4109m3.jpg
     caption: Purple climber crab
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/050410kusg4263m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/albolineatus/050410kusg4263m3.jpg
     caption: Sally-light-foot crab
 links_references: '**Links**
 

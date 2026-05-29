@@ -22,19 +22,19 @@ order: Venerida
 superfamily: Veneroidea
 subfamily: Gouldiinae
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/070323skdg8233m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/forked/070323skdg8233m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/070323skdg8233m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/forked/070323skdg8233m3.jpg
     caption: Pulau Sekudu, Mar 07
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/090819ecpd9330m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/forked/090819ecpd9330m3.jpg
     caption: East Coast, Aug 09
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/080525ubnd4255m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/forked/080525ubnd4255m3.jpg
     caption: Pulau Ubin, May 08
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/091019prplks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/forked/091019prplks.JPG
     caption: Pasir Ris Park, Oct 09 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/171009blyay1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/forked/171009blyay1.jpg
     caption: Berlayar Creek, Oct 17 Photo shared by Abel Yeo on facebook .
 links_references: '**Links**
 

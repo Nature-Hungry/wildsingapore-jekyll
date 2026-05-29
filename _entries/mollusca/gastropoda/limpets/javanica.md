@@ -32,25 +32,25 @@ order: Siphonariida
 superfamily: Siphonarioidea
 complex: Siphonaria laciniosa
 updated: Aug 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/070217skdg7695m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/javanica/070217skdg7695m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/070217skdg7695m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/javanica/070217skdg7695m3.jpg
     caption: Pulau Sekudu, Feb 07
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/040901sjid6160m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/javanica/040901sjid6160m3.jpg
     caption: St. John's Island, Sep 04
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/070901sjimn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/javanica/070901sjimn.jpg
     caption: Drill snail drilled a hole in the limpet shell. St. John's Island, Sep
       07 Photo shared by Marcus Ng on flickr .
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/110829ecpd0205m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/javanica/110829ecpd0205m6l.jpg
     caption: Coiled egg mass laid on a rock. East Coast Park, Aug 11
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/110829ecpd0209m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/javanica/110829ecpd0209m3a.jpg
     caption: Tiny eggs embedded in the coiled egg mass. East Coast Park, Aug 11
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/170626skdmn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/javanica/170626skdmn1.jpg
     caption: Pulau Sekudu, Jun 17 Photo shared by Marcus Ng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/201117labvc4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/javanica/201117labvc4.jpg
     caption: Labrador, Nov 20 Photo shared by Vincent Choo on facebook .
 links_references: '**Links**
 

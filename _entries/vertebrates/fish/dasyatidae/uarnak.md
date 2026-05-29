@@ -23,27 +23,27 @@ infraclass: Batoidea
 order: Myliobatiformes
 subfamily: Urogymninae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m6l.jpg
     caption: Tail very long and slender. A large dead one seen on the sand bar. Chek
       Jawa, May 03
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/030525cjd0114m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/uarnak/030525cjd0114m3a.jpg
     caption: Granular skin on adult.
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m3a.jpg
     caption: Broadly triangular snout.
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/030525cjd0108m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/uarnak/030525cjd0108m3.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/101200cjro1m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/uarnak/101200cjro1m6l.jpg
     caption: Chek Jawa, Dec 10 Photo shared by Rene Ong on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/101200cjro2m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/uarnak/101200cjro2m3a.jpg
     caption: ''
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/250501skdjt1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/uarnak/250501skdjt1.jpg
     caption: Pulau Sekudu, May 25
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/250501skdjt1a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/uarnak/250501skdjt1a.jpg
     caption: Photo shared by Jonathan Tan on facebook
 links_references: '**Links**
 

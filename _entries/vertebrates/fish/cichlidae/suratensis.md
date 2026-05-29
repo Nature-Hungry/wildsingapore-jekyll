@@ -22,13 +22,13 @@ superorder: Acanthomorpha
 order: Cichliformes
 subfamily: Etroplinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/cichlidae/suratensis/120215prpd7007m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/cichlidae/suratensis/120215prpd7007m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/cichlidae/suratensis/120215prpd7007m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/cichlidae/suratensis/120215prpd7007m6l.jpg
     caption: Pasir Ris Park, Feb 12
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/cichlidae/suratensis/251108ecpblks17.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/cichlidae/suratensis/251108ecpblks17.jpg
     caption: East Coast Park (B), Nov 25 Photo shared by Loh Kok Sheng on facebook
       .
 links_references: '**Links**

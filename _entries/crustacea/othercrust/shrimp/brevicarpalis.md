@@ -25,87 +25,87 @@ suborder: Pleocyemata
 infraorder: Caridea
 superfamily: Palaemonoidea
 updated: Jan 2020
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/070505kusg9020m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/070505kusg9020m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/070505kusg9020m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/070505kusg9020m3.jpg
     caption: Kusu Island, May 07
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/070505kusg9020m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/070505kusg9020m3c.jpg
     caption: Five black-ringed orange spots on the tail.
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/070505kusg9020m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/070505kusg9020m3b.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/080706chg7333m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/080706chg7333m3.jpg
     caption: The male often smaller and more transparent.
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/080706chg7333m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/080706chg7333m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/080706chg7333m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/080706chg7333m3b.jpg
     caption: ''
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/040508skdbd0073m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/040508skdbd0073m3.jpg
     caption: This filefish appeared to be presenting itself to the shrimp Pulau Sekudu,
       May 05
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3618m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3618m3.jpg
     caption: '''Locked out'' of its sea anemone at low tide! Kusu Island, Jul 04'
   - url: http://www.wildsingapore.com/cnidaria/actiniaria/gigantea/070701hntg0823m3.jpg
     caption: Sometimes, both anemone shrimps and anemonefishes share the same anemone.
       Pulau Hantu, Jul 07
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg
     caption: In a Haddon's carpet anemone Kusu Island, Jul 04
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/040411hntd0083m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/040411hntd0083m3.jpg
     caption: In a Magnificent anemone Pulau Hantu, Apr 04
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/070603sntrg9937m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/070603sntrg9937m3.jpg
     caption: In a Giant carpet anemone Sentosa, Jun 07
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/100529kuslks6m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/100529kuslks6m3a.jpg
     caption: On a pizza anemone . Kusu Island, Jun 10 Photo shared by Loh Kok Sheng
       on his blog .
   - url: http://www.wildsingapore.com/cnidaria/actiniaria/crispa/100528kusmn1m3.jpg
     caption: On a leathery anemone . Kusu Island, May 10 Photo shared by Marcus Ng
       on his flickr .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/110507cyrd0994m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/110507cyrd0994m3.jpg
     caption: On a snaky anemone . Cyrene Reef, May 11
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/121215sislks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/121215sislks1.jpg
     caption: On a bubble-tip anemone Sisters Island, Dec 12 Photo shared by Loh Kok
       Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/130527tmlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/130527tmlks.JPG
     caption: On a Frilly anemone Tanah Merah, May 13 Photo shared by Loh Kok Sheng
       on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/230804pcn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/230804pcn1.jpg
     caption: On a Fire anemone East Coast PCN, Aug 2023
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/171009blylks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/171009blylks2.jpg
     caption: Berlayar Creek, Oct 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/201019sjijll6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/201019sjijll6.jpg
     caption: St John's Island, Oct 20 Photo shared by Jianlin Liu on facebook .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/250726cyrjt6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/250726cyrjt6.jpg
     caption: Cyrene, Jul 25 Photo shared by Jonathan Tan on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/250531thntrk2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/250531thntrk2.jpg
     caption: Terumbu Hantu, May 25 Photo shared by Richard Kuah on facebook .
   gallery9:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/100519tsmjk4m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/100519tsmjk4m3.jpg
     caption: Terumbu Semakau, May 10 Photo shared by James Koh on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/100502trygl2m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/100502trygl2m3.JPG
     caption: Terumbu Raya, May 10 Photo shared byGeraldine Lee on her blog .
   - url: http://www.wildsingapore.com/cnidaria/actiniaria/crispa/110422tbmrl2m3.jpg
     caption: Terumbu Bemban, Apr 11 Photo shared by Russel Low on facebook .
   gallery10:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/251008bbbmn3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/251008bbbmn3.jpg
     caption: Beting Bemban Besar, Oct 25 Photo shared by Marcus Ng on facebook .
   gallery11:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/100811slud0041m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/100811slud0041m3.jpg
     caption: Pulau Salu, Aug 10
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/100811slud0119m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/100811slud0119m3.jpg
     caption: Pulau Salu, Aug 10
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/100811slud0119m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/100811slud0119m3a.jpg
     caption: Pulau Salu, Aug 10
   gallery12:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/091204pawd5203m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/091204pawd5203m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/100613snglks5m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/100613snglks5m3.jpg
     caption: Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
   - url: http://www.wildsingapore.com/cnidaria/actiniaria/mertensii/100613snglks3m3a.jpg
     caption: Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .

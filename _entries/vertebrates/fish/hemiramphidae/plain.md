@@ -22,22 +22,22 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Beloniformes
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/plain/080831sisd0179.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/plain/080831sisd0179.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/plain/080831sisd0179.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/plain/080831sisd0179.jpg
     caption: Sisters Island, Aug 08
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/plain/031030sntd0034m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/plain/031030sntd0034m6l.jpg
     caption: Sentosa, Oct 03
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/plain/110716kusd6882m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/plain/110716kusd6882m6l.jpg
     caption: Kusu Island, Jul 11
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/plain/060713rlhd4211m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/plain/060713rlhd4211m3.jpg
     caption: Sometimes seen in a small group. Raffles Lighthouse, Jul 06
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/plain/240706ubnlks3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/plain/240706ubnlks3.jpg
     caption: Pulau Ubin, Jul 24 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/plain/250909laztt4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/plain/250909laztt4.jpg
     caption: Seringat-Kias mangrove lagoon, Sep 25 Photo shared by Tommy Tan on facebook
       .
 location:

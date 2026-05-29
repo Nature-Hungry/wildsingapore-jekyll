@@ -16,21 +16,21 @@ class: Demospongiae
 subclass: Keratosa
 order: Dictyoceratida
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/porifera/blackbath/100812tpld0275m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/blackbath/100812tpld0275m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/blackbath/120123hntd5371m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/blackbath/120123hntd5371m3.jpg
     caption: Pulau Hantu, Jan 12
-  - url: http://www.wildsingapore.com/wildfacts/porifera/blackbath/120123hntd5373m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/blackbath/120123hntd5373m3.jpg
     caption: Sponge finger oysters embedded in the sponge.
-  - url: http://www.wildsingapore.com/wildfacts/porifera/blackbath/100502tryd2247m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/blackbath/100502tryd2247m3a.jpg
     caption: Spionid sponge worms on the surface.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/blackbath/091204pawd5212m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/blackbath/091204pawd5212m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/porifera/blackbath/091205sudd5487m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/blackbath/091205sudd5487m3.jpg
     caption: Pulau Sudong, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/porifera/blackbath/091205sudd5487m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/blackbath/091205sudd5487m3a.jpg
     caption: Sponge finger oysters embedded in the sponge.
 links_references: '**Links**
 
@@ -108,12 +108,12 @@ Today, the sponges you use at home are synthetic and not made from living sponge
 *Spongia officinalis*
 that is found in the Mediterranean Sea. Other species of the Family Spongiidae may also be used for this purpose as these sponges produce only spongin skeletons and do not have lots of sharp, poky spicules like most other sponges. To make a bath sponge, the living sponge is harvested, killed and processed to remove all the soft portions, leaving behind the skeleton. The spongin itself cannot absorb water, it is the structure of the skeleton that can absorb a huge amount of water, which can be easily released when the skeleton is squeezed.
 
-![](http://www.wildsingapore.com/wildfacts/porifera/blackbath/100812tpld0275m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/porifera/blackbath/100812tpld0275m3.jpg)
 
 *Terumbu Pempang Laut, Aug 10*
-![](http://www.wildsingapore.com/wildfacts/porifera/blackbath/100812tpld0275m3a.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/porifera/blackbath/100812tpld0275m3a.jpg)
 
-![](http://www.wildsingapore.com/wildfacts/porifera/blackbath/100502tryd2247m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/porifera/blackbath/100502tryd2247m3.jpg)
 
 *Terumbu Raya, May 10*
 

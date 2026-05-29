@@ -21,14 +21,14 @@ class: Phaeophyceae
 subclass: Fucophycidae
 order: Ectocarpales
 updated: Jan 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/perforated/1003021hntd9614m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/perforated/1003021hntd9614m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/perforated/120123hntd5401m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/perforated/120123hntd5401m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/perforated/120123hntd5401m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/perforated/120123hntd5401m3.jpg
     caption: Pulau Hantu, Jan 12
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/perforated/1003021hntd9614m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/perforated/1003021hntd9614m3a.jpg
     caption: ''
 links_references: '**Links**
 
@@ -102,7 +102,7 @@ Each clump about 6-10cm. The seaweed is made up of fleshy but narrow strips perf
 **Human uses:**
 It is eaten by people as a salad mixed with vegetables or as a spice. It is also used as animal feed, fertiliser and medicine.
 
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/perforated/1003021hntd9614m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/perforated/1003021hntd9614m3.jpg)
 *Pulau Hantu, Mar 10*
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

@@ -18,7 +18,7 @@ superorder: Elopomorpha
 order: Anguilliformes
 suborder: Congroidei
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/040817sntd4718m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/wormeel/040817sntd4718m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -30,11 +30,11 @@ galleries:
       gills. They have smooth skin instead of scales. Most are burrowing and only
       active at night.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/040817sntd4718m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/wormeel/040817sntd4718m3.jpg
     caption: Worm-eels
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/evermann/081231sisd4444m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/evermann/081231sisd4444m3.jpg
     caption: Evermann's snake-eel
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/mangrove/121227prpd2813m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/mangrove/121227prpd2813m3a.jpg
     caption: Mangrove snake-eel
 links_references: '**Links**
 

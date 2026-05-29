@@ -34,21 +34,21 @@ galleries:
       with a limited global distribution. It's found at Chek Jawa, Sungei Buloh, Kranji
       and Mandai mangroves.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/090502cjf0882m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/beccarii/090502cjf0882m3b.jpg
     caption: Seen growing next to byssus nests created by Nest mussels . Chek Jawa,
       May 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/030913cjd0097m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/beccarii/030913cjd0097m3.jpg
     caption: Chek Jawa, Sep 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/110916cjd1181m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/beccarii/110916cjd1181m3b.jpg
     caption: Chek Jawa, Sep 11
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/090816sbwrd9032m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/beccarii/090816sbwrd9032m6l.jpg
     caption: Lush carpets of this tiny seagrass grow under the Sungei Buloh mangrove
       boardwalk. Sungei Buloh Wetland Reserve, Aug 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/070803cjd5024m6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/beccarii/070803cjd5024m6.jpg
     caption: Patches of this tiny seagrass sometimes grow near the Chek Jawa boardwalk.
       Chek Jawa, Aug 07
-  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/110317mndd7384m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/beccarii/110317mndd7384m3.jpg
     caption: . Mandai, Mar 11
 links_references: '**Links**
 
@@ -174,11 +174,11 @@ in many regions.
 **Status and threats:**
 It is listed as 'Critically Endangered' on the Red List of threatened plants of Singapore.
 
-*![](http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/130728mnds02897m6l.jpg)
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/beccarii/130728mnds02897m6l.jpg)
 
 Mandai mangroves, Jul 2013
 
-*![](http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/110916cjd1175m3.jpg)**
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/beccarii/110916cjd1175m3.jpg)**
 Emerges in a rosette of 5-10 leaves.
 **Chek Jawa, Sep 11**
 

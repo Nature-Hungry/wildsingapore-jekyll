@@ -18,7 +18,7 @@ superorder: Acanthomorpha
 order: Carangiformes
 suborder: Toxotoidei
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/040110sbwrd0029m3a.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/toxotidae/jaculatrix/040110sbwrd0029m3a.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -30,20 +30,20 @@ galleries:
       prefer to jump out of the water to grab them. There are two different species
       of archerfishes in our waters.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/040110sbwrd0029m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/toxotidae/jaculatrix/040110sbwrd0029m3a.jpg
     caption: Archerfishes hanging under the main bridge. Sungei Buloh Wetland Reserve,
       Nov 04
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/110205krjd5875m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/toxotidae/jaculatrix/110205krjd5875m6l.jpg
     caption: Swimming at the surface among floating debris. Kranji, Feb 11
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/031008sbwrd0038m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/toxotidae/jaculatrix/031008sbwrd0038m6l.jpg
     caption: A large upward facing mouth. Sungei Buloh Wetland Reserve, Oct 03
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/170820kusmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/toxotidae/jaculatrix/170820kusmn.jpg
     caption: Juvenile. Kusu Island, Aug 17 Photo shared by Marcus Ng on flickr .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/051208sbwrd0532m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/toxotidae/jaculatrix/051208sbwrd0532m3.jpg
     caption: Banded archerfish
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/chatareus/050225sbwrd1096m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/toxotidae/chatareus/050225sbwrd1096m3.jpg
     caption: Spotted archerfish
 links_references: '**Links**
 

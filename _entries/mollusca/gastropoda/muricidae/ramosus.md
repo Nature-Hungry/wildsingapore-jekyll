@@ -19,43 +19,43 @@ order: Neogastropoda
 superfamily: Muricoidea
 subfamily: Muricinae
 updated: Feb 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/ramosus/130808cyrd0900m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/ramosus/130808cyrd0900m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/ramosus/130808cyrd0900m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/ramosus/130808cyrd0900m3.jpg
     caption: Cyrene Reef, Aug 13
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/ramosus/130808cyrd0902m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/ramosus/130808cyrd0902m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/ramosus/170528chg6mn2a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/ramosus/170528chg6mn2a.jpg
     caption: Changi, May 17 Photo shared by Marcus Ng on facebook .
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/ramosus/170528chg6mn2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/ramosus/170528chg6mn2.jpg
     caption: Changi, May 17 Photo shared by Marcus Ng on facebook ..
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/ramosus/120704chglks1m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/ramosus/120704chglks1m3.JPG
     caption: Changi, Jul 12 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/ramosus/170528chg7lks4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/ramosus/170528chg7lks4.jpg
     caption: Changi, May 17 Photo shared by Loh Kok Sheng on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/ramosus/250528chgsafal1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/ramosus/250528chgsafal1.jpg
     caption: Changi SAF Chalet, May 25 Photo shared by Adriane Lee on facebook
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/ramosus/251109chgsaflks4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/ramosus/251109chgsaflks4.jpg
     caption: Changi SAF Chalet, Nov 25 Photo shared by Loh Kok Sheng on facebook
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/ramosus/190706skdro1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/ramosus/190706skdro1.jpg
     caption: Pulau Sekudu, Jul 19 Photo shared by Rene Ong on facebook
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/ramosus/210628ecpBrk2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/ramosus/210628ecpBrk2.jpg
     caption: East Coast Park (B), Jun 21 Photo shared by Richard Kuah on facebook
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/ramosus/251108ecpblks4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/ramosus/251108ecpblks4.jpg
     caption: East Coast Park (B), Nov 25 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/ramosus/220421smkejt1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/ramosus/220421smkejt1.jpg
     caption: Pulau Semakau (East), Apr 22 Photo shared by Juria Toramae on facebook
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/ramosus/161215cyris.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/ramosus/161215cyris.jpg
     caption: Cyrene Reef, Dec 16 Photo shared by Ian Siah on facebook
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/ramosus/200209cyrtch1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/ramosus/200209cyrtch1.jpg
     caption: Cyrene Reef, Feb 20 Photo shared by Toh Chay Hoon on facebook
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/ramosus/210502tptlks3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/ramosus/210502tptlks3.jpg
     caption: Terumbu Pempang Tengah, May 21 Photo shared by Loh Kok Sheng on facebook
 links_references: '**Links**
 

@@ -18,21 +18,21 @@ subclass: Caenogastropoda
 order: Neogastropoda
 superfamily: Buccinoidea
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/200706skd.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/columbellidae/dotted/200706skd.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/200706skd.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/columbellidae/dotted/200706skd.jpg
     caption: Pulau Sekudu, Jul 20
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/080816sisd9513.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/columbellidae/dotted/080816sisd9513.jpg
     caption: Sisters Island, Aug 08
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/041018sntd7462m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/columbellidae/dotted/041018sntd7462m3.jpg
     caption: Sentosa, Oct 04 rs. St. John's Island, Sep 07
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/070901sjig2112.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/columbellidae/dotted/070901sjig2112.jpg
     caption: St. John's Island, Sep 07
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/111030skdd3263m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/columbellidae/dotted/111030skdd3263m3.jpg
     caption: Sometimes seen in groups. Pulau Sekudu, Oct 11
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/070901sjig2116m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/columbellidae/dotted/070901sjig2116m3.jpg
     caption: Eating the algae growing on seaweed. St. John's Island, Sep 07
 links_references: '**Links**
 

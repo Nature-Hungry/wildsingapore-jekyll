@@ -22,52 +22,52 @@ class: Asteroidea
 superorder: Valvatacea
 order: Paxillosida
 updated: Mar 2020
-coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandorange/130809smkd1086m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandorange/130809smkd1086m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandorange/130809smkd1086m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandorange/130809smkd1086m3.jpg
     caption: Cyrene Reef, Aug 13
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandorange/130809smkd1086m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandorange/130809smkd1086m3c.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandorange/130809smkd1114m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandorange/130809smkd1114m3.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandorange/130809smkd1087m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandorange/130809smkd1087m3.jpg
     caption: Bright orange underside.
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandorange/130809smkd1087m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandorange/130809smkd1087m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandorange/080731chgd8476m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandorange/080731chgd8476m3.jpg
     caption: Tiny orange star? Changi, Jul 08
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandorange/130331tmlks1.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandorange/130331tmlks1.JPG
     caption: Tanah Merah, Mar 13
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandorange/130331tmlks2.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandorange/130331tmlks2.JPG
     caption: Photo shared by Loh Kok Sheng on flickr .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandorange/240113lazlks8a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandorange/240113lazlks8a.jpg
     caption: Lazarus Island, Jan 24 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandorange/241019lazlks7.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandorange/241019lazlks7.jpg
     caption: Lazarus Island, Oct 24 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandorange/240212sjilks4a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandorange/240212sjilks4a.jpg
     caption: St John's Island, Feb 24 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandorange/201019sjivc3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandorange/201019sjivc3a.jpg
     caption: St John's Island, Oct 20
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandorange/201019sjivc3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandorange/201019sjivc3c.jpg
     caption: Photo shared by Vincent Choo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandorange/201019sjivc3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandorange/201019sjivc3b.jpg
     caption: ''
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandorange/130808cyrhpy1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandorange/130808cyrhpy1m3.jpg
     caption: Cyrene Reef, Aug 13 Photo shared by Heng Pei Yan on her blog .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandorange/130808cyrhpy2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandorange/130808cyrhpy2m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandorange/130808cyrhpy3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandorange/130808cyrhpy3m3.jpg
     caption: Bright orange tubefeet with white pointed tips.
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandorange/250503cyrlks3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandorange/250503cyrlks3.jpg
     caption: Cyrene, May 25 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandorange/250503cyrlks3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandorange/250503cyrlks3a.jpg
     caption: ''
 location:
 - chg

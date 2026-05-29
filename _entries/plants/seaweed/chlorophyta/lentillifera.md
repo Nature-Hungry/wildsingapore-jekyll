@@ -19,32 +19,32 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100519tsmc4126m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/lentillifera/100519tsmc4126m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100403tbbd0650m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/lentillifera/100403tbbd0650m3.jpg
     caption: Beting Bemban Besar, Apr 10 Constriction where the 'grape' attached to
       the stalk.
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/090513labd1640m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/lentillifera/090513labd1640m3.jpg
     caption: Labrador, May 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/080510smkd3052m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/lentillifera/080510smkd3052m3.jpg
     caption: Pulau Semakau, May 08
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100810sngd9919m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/lentillifera/100810sngd9919m3.jpg
     caption: Pulau Senang, Aug 10
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100130brkd8604m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/lentillifera/100130brkd8604m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100130brkd8605m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/lentillifera/100130brkd8605m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100130brkd8605m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/lentillifera/100130brkd8605m3a.jpg
     caption: ''
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100601slud4773m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/lentillifera/100601slud4773m3.jpg
     caption: Pulau Salu, Jun 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100601slud4773m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/lentillifera/100601slud4773m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100811slud0078m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/lentillifera/100811slud0078m3b.jpg
     caption: Pulau Salu, Aug 10
 links_references: '**Links**
 
@@ -201,11 +201,11 @@ In the Philippines, the seaweed is eaten fresh as a salad, or salted so it can b
 *Caulerpa*
 species produce toxins to protect themselves from browsing fish. This also makes them toxic to humans.
 
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100519tsmc4126m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/lentillifera/100519tsmc4126m3.jpg)
 
 *Terumbu Semakau, May 10*
 
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100519tsmc4126m3a.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/lentillifera/100519tsmc4126m3a.jpg)
 
 Tightly packed 'grapes' form a sausage-like shape.
 

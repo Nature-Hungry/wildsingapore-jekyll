@@ -12,35 +12,35 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Apr 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/030616cj0113m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/granulatus/030616cj0113m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/030616cj0113m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/granulatus/030616cj0113m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/031124sised0009m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/laticauda/031124sised0009m3b.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/030616cjd0076m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/granulatus/030616cjd0076m3b.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/031029snbd0072m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/laticauda/031029snbd0072m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/030616cjd0079m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/granulatus/030616cjd0079m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/031029sncd0002m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/laticauda/031029sncd0002m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/030616cjd0076m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/granulatus/030616cjd0076m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/031124sised0009m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/laticauda/031124sised0009m3a.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fasciatus/020713cjcpd2753m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/fasciatus/020713cjcpd2753m3.jpg
     caption: The Banded krait is not commonly seen. It has a black head and its tail
       is not flattened.
-  - url: http://www.wildsingapore.com/wildfacts/fish/muraenidae/reevesii/100527tmd3450m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/fish/muraenidae/reevesii/100527tmd3450m3.jpg
     caption: The Moray eel is a fish that appears snake-like.
-  - url: http://www.wildsingapore.com/wildfacts/fish/pseudochromidae/subducens/040703sisg0979m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/fish/pseudochromidae/subducens/040703sisg0979m3.jpg
     caption: The Carpet eel-blenny also appears snake-like.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/fish/ophichthidae/wormeel/040411hntd0060m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/fish/ophichthidae/wormeel/040411hntd0060m3.jpg
     caption: The worm eel is a fish that appears worm- or snake-like.
   - url: http://www.wildsingapore.com/worm/sipuncula/sipuncula/031122cjd0011m3.jpg
     caption: Peanut worms don't move very fast either.

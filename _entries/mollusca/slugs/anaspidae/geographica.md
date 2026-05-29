@@ -20,7 +20,7 @@ subterclass: Tectipleura
 order: Aplysiida
 superfamily: Aplysioidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/050608cftg7393m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/geographica/050608cftg7393m3.jpg
 links_references: "**Links**\n- [Sea\n  Slug Forum](http://www.seaslugforum.net/welcome.htm)\
   \ by Dr Bill Rudman: all about sea hares, nudibranchs\n  and other sea slugs; including\
   \ details [*Syphonota\n  geographica*](http://www.seaslugforum.net/factsheet.cfm?base=syphgeog)\
@@ -38,28 +38,28 @@ links_references: "**Links**\n- [Sea\n  Slug Forum](http://www.seaslugforum.net/
   \ *Coral\n  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/050608cftg7393m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/geographica/050608cftg7393m3.jpg
     caption: Changi, Jun 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/050608cftg7393m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/geographica/050608cftg7393m3a.jpg
     caption: Tiny rhinophores near one another, held between parapodia.
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/070614chgd2152m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/geographica/070614chgd2152m3.jpg
     caption: Thin internal shell. Changi, Jun 07
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/050622cftd4094m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/geographica/050622cftd4094m3.jpg
     caption: Laying egg string Changi, Jun 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/120410chgd9081m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/geographica/120410chgd9081m3.jpg
     caption: Half buried in soft sediment. Changi, Apr 12
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/111124cyrs00191m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/geographica/111124cyrs00191m3.jpg
     caption: Swimming sea hare! Cyrene Reef, Nov 11
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/160510ecpbsyj2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/geographica/160510ecpbsyj2.jpg
     caption: East Coast Park, May 16 Photo shared by Ywee Chieh on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/150320tuslks2m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/geographica/150320tuslks2m3.JPG
     caption: Tuas, Mar 15 Photo shared by Loh Kok Sheng on his blog .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/110830cyrnml1m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/geographica/110830cyrnml1m3.JPG
     caption: Cyrene Reef, Aug 11 Photo shared by Neo Mei Lin on her blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/200627cyrlks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/geographica/200627cyrlks2.jpg
     caption: Cyrene, Jun 20 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1

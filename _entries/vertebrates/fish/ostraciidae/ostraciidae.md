@@ -18,7 +18,7 @@ superorder: Acanthomorpha
 order: Tetraodontiformes
 suborder: Balistoidei
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/080606cyrd5195m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ostraciidae/cornuta/080606cyrd5195m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -29,11 +29,11 @@ galleries:
     caption: Boxfishes are poisonous to eat! They have a hard shell around their body.
       They can swim quickly if they have to, even though they have tiny fins!
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/080606cyrd5195m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ostraciidae/cornuta/080606cyrd5195m3.jpg
     caption: Longhorned cowfish
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/nasus/090625cyrd5620m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ostraciidae/nasus/090625cyrd5620m3.jpg
     caption: Shortnosed boxfish
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cubicus/070217skdg7635m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ostraciidae/cubicus/070217skdg7635m3.jpg
     caption: Yellow boxfish
 links_references: '**Links**
 

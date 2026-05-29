@@ -17,14 +17,14 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Jun 13
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/boulder/120508skdd1952m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/siderastreidae/boulder/120508skdd1952m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/crinkled/120408sjid8447m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/siderastreidae/crinkled/120408sjid8447m3.jpg
     caption: Crinkled sandpaper coral
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/boulder/050411tusd2323m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/siderastreidae/boulder/050411tusd2323m3.jpg
     caption: Boulder sandpaper coral
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/hexaneat/050821bbg2002m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/siderastreidae/hexaneat/050821bbg2002m3.jpg
     caption: Neat hexa coral
 links_references: '**Links**
 
@@ -86,7 +86,7 @@ is listed as globally Near Threatened
 [by the IUCN](http://www.iucnredlist.org/apps/redlist/details/133453/0)
 . Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors, and over-collection also have an impact on local populations.
 
-![](http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/boulder/120508skdd1952m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/siderastreidae/boulder/120508skdd1952m3.jpg)
 
 A closer look at the tiny corallites that
 

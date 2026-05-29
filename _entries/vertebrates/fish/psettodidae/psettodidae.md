@@ -24,16 +24,16 @@ superorder: Acanthomorpha
 order: Carangiformes
 suborder: Pleuronectoidei
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/psettodidae/erumei/120327tusd7879m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/psettodidae/erumei/120327tusd7879m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/psettodidae/erumei/120327tusd7879m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/psettodidae/erumei/120327tusd7879m3.jpg
     caption: Juvenile Indian halibut (about 3cm long) Tuas, Mar 12
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/psettodidae/erumei/090622chgd4715m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/psettodidae/erumei/090622chgd4715m6l.jpg
     caption: Indian halibutL Large mouth with fang-like teeth. Tail fin well separated
       from dorsal and anal fins. Changi, Jun 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/psettodidae/erumei/250615chg6al1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/psettodidae/erumei/250615chg6al1.jpg
     caption: Changi Carpark 6, Jun 25 Photo shared by Adriane Lee on facebook .
 links_references: '**Links**
 

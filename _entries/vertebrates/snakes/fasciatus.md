@@ -17,18 +17,18 @@ class: Reptilia
 order: Squamata
 suborder: Serpentes
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fasciatus/020713cjcpd2754m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/fasciatus/020713cjcpd2754m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fasciatus/020713cjcpd2746m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/fasciatus/020713cjcpd2746m6l.jpg
     caption: Chek Jawa, Jul 02
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fasciatus/070707cjlks1m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/fasciatus/070707cjlks1m6l.jpg
     caption: Chek Jawa, Jul 07 Photo shared by Loh Kok Sheng on his blog .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fasciatus/070707cjlks1m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/fasciatus/070707cjlks1m3b.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fasciatus/070707cjlks1m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/fasciatus/070707cjlks1m3a.jpg
     caption: ''
 links_references: '**Links**
 
@@ -137,11 +137,11 @@ seen near the coast. It may also be confused with eels. Here's more on
 **What does it eat?**
 Mainly lizards and other snakes, as well as other small vertebrates. It considered to be mainly a coastal snake, and terrestrial. Although we have observed one hunting on the coral rubble area at Chek Jawa, investigating crevices, then swimming away in the shallow water.
 
-*![](http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fasciatus/020713cjcpd2754m3.jpg)*
+*![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/fasciatus/020713cjcpd2754m3.jpg)*
 Swimming in shallow water near coral rubble.
 *Chek Jawa, Jul 02
 
-![](http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fasciatus/020713cjcpd2753m3a.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/fasciatus/020713cjcpd2753m3a.jpg)*
 Black patch on the head forms a V-shape
 
 with the first black band on the body.

@@ -32,12 +32,12 @@ zoosubsection: Heterotremata
 superfamily: Portunoidea
 subfamily: Portuninae
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/sanguinolentus/150605kusmn4m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/sanguinolentus/150605kusmn4m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/sanguinolentus/150605kusmn4m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/sanguinolentus/150605kusmn4m3.jpg
     caption: Kusu Island, Jun 15
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/sanguinolentus/150605kusmn4m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/sanguinolentus/150605kusmn4m3a.jpg
     caption: Photo shared by Marcus Ng on facebook .
 links_references: '**Links**
 

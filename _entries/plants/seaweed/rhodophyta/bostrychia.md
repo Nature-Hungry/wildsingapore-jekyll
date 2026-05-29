@@ -21,14 +21,14 @@ subphylum: Vertebrata
 class: Aves
 order: Pelecaniformes
 updated: Jan 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bostrychia/110719sntd7447m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/bostrychia/110719sntd7447m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bostrychia/111224labd4802m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/bostrychia/111224labd4802m3.jpg
     caption: Labrador, Dec 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bostrychia/111224labd4802m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/bostrychia/111224labd4802m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bostrychia/110719sntd7447m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/bostrychia/110719sntd7447m3a.jpg
     caption: ''
 links_references: '**Links**
 
@@ -99,7 +99,7 @@ According to
 *Bostrychia*
 .
 
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bostrychia/110719sntd7447m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/bostrychia/110719sntd7447m3.jpg)
 
 *Sentosa, Jul 11*
 

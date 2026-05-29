@@ -23,14 +23,14 @@ subfamily: Ixoroideae
 tribe: Scyphiphoreae
 inat_id: 426640
 updated: Jan 2013
-coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/scyphiphora/hydrophyllacea/091115ubnd4242m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/scyphiphora/hydrophyllacea/091115ubnd4242m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/scyphiphora/hydrophyllacea/090126ubnd6180m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/scyphiphora/hydrophyllacea/090126ubnd6180m3.jpg
     caption: Small ridged fruits. Pulau Ubin, Jan 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/scyphiphora/hydrophyllacea/090517ubnd1888m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/scyphiphora/hydrophyllacea/090517ubnd1888m3a.jpg
     caption: Small pinkish flowers. Pulau Ubin, May 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/scyphiphora/hydrophyllacea/090802ubind8202m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/scyphiphora/hydrophyllacea/090802ubind8202m3b.jpg
     caption: St. John's Island, Jul 09
 links_references: '**Links**
 
@@ -114,10 +114,10 @@ sp.), which has its leaves arranged in a spiral.
 **Human uses:**
 According to Giesen, the wood may be used to make household objects such as spoons, while larger pieces are used for fence posts and firewood. The leaves are used to treat stomach problems.
 
-*![](http://www.wildsingapore.com/wildfacts/plants/mangrove/scyphiphora/hydrophyllacea/091115ubnd4242m6l.jpg)
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/scyphiphora/hydrophyllacea/091115ubnd4242m6l.jpg)
 
 Pulau Ubin, Nov 09
-![](http://www.wildsingapore.com/wildfacts/plants/mangrove/scyphiphora/hydrophyllacea/090802ubind8202m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/scyphiphora/hydrophyllacea/090802ubind8202m3.jpg)
 
 St. John's Island, Jul 09*
 

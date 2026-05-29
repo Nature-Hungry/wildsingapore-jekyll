@@ -19,21 +19,21 @@ order: Neogastropoda
 superfamily: Muricoidea
 subfamily: Muricinae
 updated: Aug 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/capucinus/091019prpd2893m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/capucinus/091019prpd2893m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/capucinus/091019prpd2893m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/capucinus/091019prpd2893m3.jpg
     caption: Pasir Ris Park, Oct 09
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/capucinus/091019prpd2895m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/capucinus/091019prpd2895m3.jpg
     caption: Pasir Ris Park, Oct 09
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/capucinus/050327sbwrg3818m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/capucinus/050327sbwrg3818m3.jpg
     caption: Sungei Buloh, Mar 05
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/capucinus/110207krjd6090m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/capucinus/110207krjd6090m3.jpg
     caption: Kranji Nature Trail, Feb 11
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/capucinus/110207krjd6090m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/capucinus/110207krjd6090m3a.jpg
     caption: Egg capsules?
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/capucinus/050809lckg1034.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/capucinus/050809lckg1034.jpg
     caption: Feeding on Little black mussels ? Lim Chu Kang, Aug 05
 links_references: '**Links**
 

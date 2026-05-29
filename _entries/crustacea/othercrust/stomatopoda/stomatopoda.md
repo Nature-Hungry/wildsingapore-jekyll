@@ -20,7 +20,7 @@ order: Stomatopoda
 suborder: Unipeltata
 superfamily: Gonodactyloidea
 updated: Mar 2020
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/050707cftg9086m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/spearer/050707cftg9086m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -32,26 +32,26 @@ galleries:
       group. Mantis shrimp can hurt you. Don't touch them! They have pincers modified
       into fearsome weapons.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/050707cftg9086m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/spearer/050707cftg9086m3.jpg
     caption: Changi, Jul 05
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/050707cftg9092m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/spearer/050707cftg9092m3a.jpg
     caption: Amazing eyes!
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/050707cftg9086m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/spearer/050707cftg9086m3b.jpg
     caption: Powerful tail
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/050707cftg9111m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/spearer/050707cftg9111m3.jpg
     caption: Deadly pincers of a spearer mantis shrimp .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/050707cftg9111m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/spearer/050707cftg9111m3b.jpg
     caption: Changi, Jul 05
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/040701chgd1290m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/spearer/040701chgd1290m3a.jpg
     caption: This is all that is usually seen of a mantis shrimp in hiding. Changi,
       Jul 04
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/090529prpd2898m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/spearer/090529prpd2898m3.jpg
     caption: Spearer mantis shrimp
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/smasher/070630sisd2890m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/smasher/070630sisd2890m3.jpg
     caption: Smasher mantis shrimp
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/banded/100527tmd3635m3e.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/banded/100527tmd3635m3e.jpg
     caption: Banded mantis shrimp
 links_references: '**Links**
 

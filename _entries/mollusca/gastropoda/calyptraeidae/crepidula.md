@@ -18,24 +18,24 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Calyptraeoidea
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/crepidula/050315cjd1823m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/calyptraeidae/crepidula/050315cjd1823m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/crepidula/050315cjd1823m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/calyptraeidae/crepidula/050315cjd1823m3.jpg
     caption: Chek Jawa, Mar 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/crepidula/050315cjd1823m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/calyptraeidae/crepidula/050315cjd1823m3a.jpg
     caption: The smaller shell is usually the male.
   - url: http://www.wildsingapore.com/crustacea/othercrust/anomura/hermit/stripeorange/050428cftg5276m3.jpg
     caption: Changi, Apr 05
   gallery2:
   - url: http://www.wildsingapore.com/crustacea/othercrust/anomura/hermit/veryhairy/101224sisd4096m3.jpg
     caption: Sisters Island, Jan 11
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/crepidula/130923tmftd3409.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/calyptraeidae/crepidula/130923tmftd3409.jpg
     caption: Tanah Merah, Sep 13
   - url: http://www.wildsingapore.com/arthropoda/limulidae/tachypleus/090428chgd0767m3e.jpg
     caption: Changi, Jul 04
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/crepidula/210402tmskvc3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/calyptraeidae/crepidula/210402tmskvc3.jpg
     caption: Terumbu Semakau, Apr 21 Photo shared by Vincent Choo on facebook .
 location:
 - prp

@@ -15,35 +15,35 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/polkadot/080619chgd5746m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/polkadot/080619chgd5746m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/polkadot/080619chgd5746m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/polkadot/080619chgd5746m3.jpg
     caption: Changi, Jun 08
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/polkadot/080619chgd5746m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/polkadot/080619chgd5746m3a.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/polkadot/080619chgd5742m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/polkadot/080619chgd5742m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/polkadot/080619chgd5742m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/polkadot/080619chgd5742m3a.jpg
     caption: ''
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/polkadot/120705chgd7096m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/polkadot/120705chgd7096m3.jpg
     caption: Changi, Jul 12
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/polkadot/120705chgd7096m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/polkadot/120705chgd7096m3b.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/polkadot/120705chgd7096m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/polkadot/120705chgd7096m3a.jpg
     caption: ''
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/polkadot/160209cyrlks5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/polkadot/160209cyrlks5.jpg
     caption: Cyrene Reef, Feb 16 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/polkadot/110606cyrlks2.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/polkadot/110606cyrlks2.JPG
     caption: Cyrene Reef, Jun 11 Photo shared by Loh Kok Sheng on flickr.
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/polkadot/150718smkelks7m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/polkadot/150718smkelks7m3.jpg
     caption: Pulau Semakau East, Jul 15 Photo shared by Loh Kok Sheng n on facebook
       .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/polkadot/150718smkehpy1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/polkadot/150718smkehpy1m3.jpg
     caption: Pulau Semakau East, Jul 15 Photo shared by Heng Pei Yan on facebook .
 location:
 - chg

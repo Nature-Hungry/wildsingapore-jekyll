@@ -40,23 +40,23 @@ links_references: "**Links**\n- [Prawns\n  (*Penaeus* and *Metapenaeus*)](http:/
   \ *The\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/050721cjg9666m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penbanded/050721cjg9666m3.jpg
     caption: Chek Jawa, Jul 05
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/070615sntrg0335m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penbluetail/070615sntrg0335m3.jpg
     caption: Like other shrimps, it contracts its abdomen to quickly swim backwards.
       Sentosa, Jun 07
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/030716cjd0023m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penbluetail/030716cjd0023m3.jpg
     caption: Some hide in the sand with only the 'nose' and eyes sticking out. Chek
       Jawa, Jul 03
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/030716cjd0025m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penbluetail/030716cjd0025m3.jpg
     caption: Blue-tailed penaeid prawns
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/080731chgd8379m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penbanded/080731chgd8379m3.jpg
     caption: Banded penaeid prawns
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penslender/041019labd7633m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penslender/041019labd7633m3.jpg
     caption: Slender penaid prawns
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/091106smkd3846m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penspeckled/091106smkd3846m3.jpg
     caption: Speckled penaeid prawns
   gallery4:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1

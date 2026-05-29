@@ -27,21 +27,21 @@ superfamily: Portunoidea
 subfamily: Thalamitinae
 subgenus: Charybdis
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/noid/annulata/080719sntd7851m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/noid/annulata/080719sntd7851m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/noid/annulata/090820ecplkh1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/noid/annulata/090820ecplkh1m3.jpg
     caption: East Coast, Aug 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/noid/annulata/110504nsrccd0574m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/noid/annulata/110504nsrccd0574m3.jpg
     caption: East Coast, May 11
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/noid/annulata/080719sntd7851m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/noid/annulata/080719sntd7851m3c.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/noid/160606chglks1.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/noid/160606chglks1.JPG
     caption: Changi, Jun 16
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/noid/160606chglks2.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/noid/160606chglks2.JPG
     caption: Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/noid/160606chglks3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/noid/160606chglks3.JPG
     caption: ''
 links_references: '**Links**
 
@@ -89,7 +89,7 @@ This swimming crab with bands on its legs is sometimes seen on some of our rocky
 
 Body width 5-7cm. Body somewhat fan-shaped with 6 spines on the sides. The eyes are not wide apart. Last pair of legs are paddle-shaped and rotate like boat propellers, so the crab swims well in all directions. It is a fully marine crab and cannot live long out of water. Body colours include plain olive, greenish grey, orange. The legs have alternating bands of dark brown and bright blue. The tips of the pincers are also banded dark brown and bright blue. There is a fine network of brown lines on the pincers.
 
-![](http://www.wildsingapore.com/wildfacts/crustacea/crab/noid/annulata/080719sntd7851m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/noid/annulata/080719sntd7851m3.jpg)
 
 *Sentosa, Jul 08*
 

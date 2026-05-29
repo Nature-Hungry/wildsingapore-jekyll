@@ -26,35 +26,35 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Oxudercinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/091226cjd6307m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/histophorus/091226cjd6307m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/091226cjd6307m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/histophorus/091226cjd6307m3.jpg
     caption: Tall mast-like dorsal fin raised when creeping. Chek Jawa, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/090720prpd7577m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/histophorus/090720prpd7577m6l.jpg
     caption: Pasir Ris Park, Jul 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/120414cjd9962m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/histophorus/120414cjd9962m6l.jpg
     caption: When leaping, second dorsal fin is raised, but tall first dorsal fin
       is not. Chek Jawa, Apr 12
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/091226cjd6326.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/histophorus/091226cjd6326.jpg
     caption: '''Stands'' on its tail when it leaps.. Chek Jawa, Dec 09'
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/100110cjjk1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/histophorus/100110cjjk1.jpg
     caption: Chek Jawa, Jan 10 Photo shared by James Koh on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/110327cjd7895m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/histophorus/110327cjd7895m3.jpg
     caption: A pair emerging from a narrow burrow that opens sideways into a pool.
       Chek Jawa, Mar 11
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/081217prplks01m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/histophorus/081217prplks01m3.jpg
     caption: Pasir Ris, Dec 08 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/090317prplks01m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/histophorus/090317prplks01m3.jpg
     caption: Pasir Ris, Mar 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/251213prprqo3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/histophorus/251213prprqo3.jpg
     caption: Pasir Ris Mangrove Boardwalk, Dec 25 Photo shared by Rui Quan Oh on facebook
       .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/100110cjjk2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/histophorus/100110cjjk2.jpg
     caption: Chek Jawa, Jan 10 Photo shared by James Koh on flickr .
 links_references: '**Links**
 

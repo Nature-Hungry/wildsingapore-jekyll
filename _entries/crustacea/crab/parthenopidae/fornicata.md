@@ -30,33 +30,33 @@ zoosubsection: Heterotremata
 superfamily: Parthenopoidea
 subfamily: Parthenopinae
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/060711chgd4013m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/parthenopidae/fornicata/060711chgd4013m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/060711chgd4013m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/parthenopidae/fornicata/060711chgd4013m3.jpg
     caption: A domed body covers its limbs. Changi, Jul 06
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/060711chgd4013m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/parthenopidae/fornicata/060711chgd4013m3b.jpg
     caption: Large, angular pincers
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/060711chgd4013m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/parthenopidae/fornicata/060711chgd4013m3a.jpg
     caption: Tiny eyes.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/090526bbd2664m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/parthenopidae/fornicata/090526bbd2664m3.jpg
     caption: Beting Bronok, May 09
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/090526bbd2664m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/parthenopidae/fornicata/090526bbd2664m3b.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/090526bbd2661m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/parthenopidae/fornicata/090526bbd2661m3.jpg
     caption: Carrying eggs.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/120605chgmn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/parthenopidae/fornicata/120605chgmn1.jpg
     caption: Changi, Jun 12 Photo shared by Marcus Ng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/120605chgmn2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/parthenopidae/fornicata/120605chgmn2.jpg
     caption: ''
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/130325tsmklks1.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/parthenopidae/fornicata/130325tsmklks1.JPG
     caption: Terumbu Semakau, Mar 13 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/111126bblks1.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/parthenopidae/fornicata/111126bblks1.JPG
     caption: Beting Bronok , Nov 11 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/180714cjtch1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/parthenopidae/fornicata/180714cjtch1.jpg
     caption: Chek Jawa, Jul 18 Photo shared by Toh Chay Hoon on facebook ..
 links_references: '**Links**
 

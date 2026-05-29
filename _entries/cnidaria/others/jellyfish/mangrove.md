@@ -18,17 +18,17 @@ subclass: Discomedusae
 order: Rhizostomeae
 suborder: Dactyliophorae
 updated: Sep 2025
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/mangrove/090214sbwrbc1m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/mangrove/090214sbwrbc1m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/mangrove/090214sbwrbc1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/mangrove/090214sbwrbc1m3.jpg
     caption: Sungei Buloh Wetland Reserve, Feb 09 Photo shared by Brandon Chia
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/mangrove/090410ubnd9384m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/mangrove/090410ubnd9384m3.jpg
     caption: Pulau Ubin, Apr 09
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/mangrove/080412cjd1238m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/mangrove/080412cjd1238m3.jpg
     caption: Chek Jawa, Apr 08
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/mangrove/121110cjlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/mangrove/121110cjlks.JPG
     caption: Chek Jawa, Dec 12 Photo shared by Loh Kok Sheng on flickr .
   gallery3:
   - url: https://live.staticflickr.com/3821/32623276364_f8a05dc678_z.jpg

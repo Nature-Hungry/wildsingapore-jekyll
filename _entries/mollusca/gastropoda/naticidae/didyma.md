@@ -19,17 +19,17 @@ order: Littorinimorpha
 superfamily: Naticoidea
 subfamily: Polinicinae
 updated: Aug 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/070218tmd8018m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/didyma/070218tmd8018m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/070218tmd8018m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/didyma/070218tmd8018m3.jpg
     caption: Tanah Merah, Feb 07
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/070218tmd8019m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/didyma/070218tmd8019m3.jpg
     caption: Tanah Merah, Feb 07
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/110520chgd2415m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/didyma/110520chgd2415m6l.jpg
     caption: Changi, May 11
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/110520chgd2415m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/didyma/110520chgd2415m3a.jpg
     caption: Siphon (upper left) and tentcles
 links_references: '**Links**
 

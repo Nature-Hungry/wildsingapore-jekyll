@@ -20,19 +20,19 @@ order: Sepiida
 suborder: Sepiina
 superfamily: Sepioidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutglittering/050524chgd3327m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutglittering/050524chgd3327m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutglittering/050524chgd3327m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutglittering/050524chgd3327m3.jpg
     caption: Changi, May 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutglittering/060502cftd1815m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutglittering/060502cftd1815m3.jpg
     caption: The same cuttlefish rapidly changing ... Changi, May 06
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutglittering/060502cftd1810m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutglittering/060502cftd1810m3.jpg
     caption: '... colours and patterns. Changi, May 06'
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutglittering/180910chg4dc1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutglittering/180910chg4dc1.jpg
     caption: Changi, Sep 18 Photo shared by Dayna Cheah on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutglittering/210113smkwjt1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutglittering/210113smkwjt1.jpg
     caption: Pulau Semakau (West), Jan 21 Photo shared by Jonathan Tan on facebook
       .
 links_references: '**Links**

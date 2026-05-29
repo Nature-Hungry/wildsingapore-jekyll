@@ -22,17 +22,17 @@ order: Ellobiida
 superfamily: Ellobioidea
 subfamily: Pythiinae
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/banded/090228smkd7234m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ellobiidae/banded/090228smkd7234m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/banded/090228smkd7234m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ellobiidae/banded/090228smkd7234m3.jpg
     caption: Pulau Semakau, Mar 09
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/banded/090307blyd7467m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ellobiidae/banded/090307blyd7467m3.jpg
     caption: Berlayar Creek, Mar 09
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/banded/090228smkd7233m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ellobiidae/banded/090228smkd7233m3.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/banded/251219cnyrqo2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ellobiidae/banded/251219cnyrqo2.jpg
     caption: Coney Island, Dec 25 Photo shared by Rui Quan Oh on facebook .
 links_references: '**Links**
 

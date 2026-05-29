@@ -18,34 +18,34 @@ subclass: Caenogastropoda
 order: Neogastropoda
 superfamily: Olivoidea
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/090625cyrd5437m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/miniacea/090625cyrd5437m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/090625cyrd5437m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/miniacea/090625cyrd5437m3.jpg
     caption: Cyrene Reef, Jun 09
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/090625cyrd5434m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/miniacea/090625cyrd5434m3b.jpg
     caption: Spire flattened with short pointed tip.
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/090625cyrd5434m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/miniacea/090625cyrd5434m3.jpg
     caption: Shell opening often orange or orangey.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/110830cyrd0488m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/miniacea/110830cyrd0488m3.jpg
     caption: Cyrene Reef, Aug 11
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/110830cyrd0490m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/miniacea/110830cyrd0490m3.jpg
     caption: Cyrene Reef, Aug 11
   gallery3:
   - url: https://live.staticflickr.com/4583/38793224572_99b6c0b452_z.jpg
     caption: ''
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/220616chgeccn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/miniacea/220616chgeccn1.jpg
     caption: Changi Lost Coast, Jun 22 Photo shared by Che Cheng Neo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/2007024pcnlks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/miniacea/2007024pcnlks1.jpg
     caption: East Coast PCN, Jul 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/081017cyrtch02m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/miniacea/081017cyrtch02m3.jpg
     caption: Cyrene Reef, Oct 08 Photo shared by Toh Chay Hoon on her flickr .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/251011tgrlks12a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/miniacea/251011tgrlks12a.jpg
     caption: Sentosa Tg Rimau, Oct 25 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/260104trmyls3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/miniacea/260104trmyls3a.jpg
     caption: Sentosa Tg Rimau, Jan 26 Photo shared by Yan Le Su on facebook .
 links_references: '**Links**
 

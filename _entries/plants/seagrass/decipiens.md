@@ -26,23 +26,23 @@ updated: Mar 14
 rdb: CR
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/decipiens/200728bb.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/decipiens/200728bb.jpg
     caption: Beting Bronok, Jul 20
-  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/decipiens/120605lygd4072m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/decipiens/120605lygd4072m3.jpg
     caption: Growing on carpet on Nest mussels . Changi, Jun 12
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/decipiens/070522skdg9587.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/decipiens/070522skdg9587.jpg
     caption: Pulau Sekusu, Jul 07
-  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/decipiens/090427chgd0665m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/decipiens/090427chgd0665m3a.jpg
     caption: Minute hairs on the leaf. Changi Apr 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/decipiens/090427chgd0666m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/decipiens/090427chgd0666m3.jpg
     caption: Leaf blade longer than wide. Changi Apr 09
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/decipiens/130823prpd2336m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/decipiens/130823prpd2336m3a.jpg
     caption: Flower. Pasir Ris Park, Aug 13
-  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/decipiens/130823prpd2337m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/decipiens/130823prpd2337m3.jpg
     caption: Fruit Pasir Ris Park, Aug 13
-  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/decipiens/130823prpd2354m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/decipiens/130823prpd2354m3.jpg
     caption: Seeds. Pasir Ris Park, Aug 13
 links_references: '**Links**
 

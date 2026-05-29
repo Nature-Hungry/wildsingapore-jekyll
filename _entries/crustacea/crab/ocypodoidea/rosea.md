@@ -33,23 +33,23 @@ updated: Dec 2019
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/rosea/090905sbwrd0144m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/rosea/090905sbwrd0144m3.jpg
     caption: Sungei Buloh, Sep 09
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/rosea/090905sbwrd0144m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/rosea/090905sbwrd0144m3a.jpg
     caption: Sungei Buloh, Sep 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/rosea/100411prpd1064m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/rosea/100411prpd1064m3.jpg
     caption: Pasir Ris Park, Apr 10
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/rosea/120317prpnhcd7762m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/rosea/120317prpnhcd7762m3.jpg
     caption: Pasir Ris Park, Mar 12
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/rosea/091226cjd6256m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/rosea/091226cjd6256m3.jpg
     caption: Chek Jawa, Dec 09
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/rosea/100411prpd1058m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/rosea/100411prpd1058m3.jpg
     caption: Pasir Ris Park, Apr 10
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/rosea/100411prpd1060m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/rosea/100411prpd1060m3.jpg
     caption: Pasir Ris Park, Apr 10
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/rosea/021008cjd6155m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/rosea/021008cjd6155m3.jpg
     caption: Chek Jawa, Oct 02
 location:
 - sbw

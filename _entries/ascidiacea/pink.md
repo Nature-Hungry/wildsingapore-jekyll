@@ -12,27 +12,27 @@ class: Ascidiacea
 family: Polycitoridae
 genus: Eudistoma
 species: sp.
-coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/pink/081114cyrd1908m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/pink/081114cyrd1908m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/pink/081114cyrd1908m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/pink/081114cyrd1908m3.jpg
     caption: Cyrene Reef, Nov 08
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/pink/070531sisg9641m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/pink/070531sisg9641m3.jpg
     caption: Sisters Island, May 07
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/pink/070531sisg9641m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/pink/070531sisg9641m3a.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/pink/260104trmrqo8.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/pink/260104trmrqo8.jpg
     caption: Sentosa Tg Rimau, Jan 26 Photo shared by Rui Quan Oh on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/pink/170809tkktsc1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/pink/170809tkktsc1.jpg
     caption: Pulau Tekukor, Aug 17 Photo shared by Teo Say Chong on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/pink/181225kusll1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/pink/181225kusll1.jpg
     caption: Kusu Island, Dec 18 Photo shared by Liz Lim on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/pink/181027smkscsm1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/pink/181027smkscsm1.jpg
     caption: Pulau Semakau South, Oct 18 Photo shared by Chong SiewMin on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/pink/100601slud4718m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/pink/100601slud4718m3.jpg
     caption: Pulau Salu, Jun 10
 links_references: "**Links**\n- Various\n*Eudistoma*\nsp. in the\n[Family Polycitoridae](https://singapore.biodiversity.online/taxon/A-Tuni-Asci-Aplo-Polycitoridae)\n\
   on The Biodiversity of Singapore website of the Lee Kong Chian Natural History Museum.\n\

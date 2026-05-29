@@ -5,22 +5,22 @@ keywords: ardisia, elliptica, myrsinaceae, tree, mangrove, mangroves, field, gui
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
 layout: entry
-coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/ardisia/elliptica/090329cjd8714m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/ardisia/elliptica/090329cjd8714m3.jpg
 ---
 
  
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/ardisia/elliptica/090329cjd8714m3.jpg"
+    - url: "https://f003.backblazeb2.com/file/naturehungry/plants/coastal/ardisia/elliptica/090329cjd8714m3.jpg"
       caption: "Chek Jawa, Mar 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/ardisia/elliptica/090329cjd8708m3a.jpg"
+    - url: "https://f003.backblazeb2.com/file/naturehungry/plants/coastal/ardisia/elliptica/090329cjd8708m3a.jpg"
       caption: "Chek Jawa, Mar 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/ardisia/elliptica/090329cjd8708m6l.jpg"
+    - url: "https://f003.backblazeb2.com/file/naturehungry/plants/coastal/ardisia/elliptica/090329cjd8708m6l.jpg"
       caption: "Planted specimen. Chek Jawa, Mar 09"
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/ardisia/elliptica/090425prpd0367m3.jpg"
+    - url: "https://f003.backblazeb2.com/file/naturehungry/plants/coastal/ardisia/elliptica/090425prpd0367m3.jpg"
       caption: "Pasir Ris, Apr 09"
-    - url: "http://www.wildsingapore.com/wildfacts/plants/coastal/ardisia/elliptica/090425prpd0379m6l.jpg"
+    - url: "https://f003.backblazeb2.com/file/naturehungry/plants/coastal/ardisia/elliptica/090425prpd0379m6l.jpg"
       caption: "Planted specimen. Pasir Ris, Apr 09"
 ---
 

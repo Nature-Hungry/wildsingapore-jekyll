@@ -24,59 +24,59 @@ order: Decapoda
 suborder: Pleocyemata
 infraorder: Gebiidea
 updated: Mar 2020
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/110401mndd8415m6lb.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/upogebiidae/110401mndd8415m6lb.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/110401mndd8415m6lb.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/upogebiidae/110401mndd8415m6lb.jpg
     caption: Mandai, Apr 11
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/110401mndd8409m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/upogebiidae/110401mndd8409m3b.jpg
     caption: Mandai, Mar 11
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/101008tusd1760m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/upogebiidae/101008tusd1760m6l.jpg
     caption: Tuas, Oct 10
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/101008tusd1758m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/upogebiidae/101008tusd1758m3a.jpg
     caption: Close up of flared tail.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/100615tustch1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/upogebiidae/100615tustch1m3.jpg
     caption: Tuas, Jun 10 Photo shared by Toh Chay Hoon on her blog .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/190519prpjll2c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/upogebiidae/190519prpjll2c.jpg
     caption: Pasir Ris Park, May 19 Photo shared by Jianlin Liu on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/190519prpjc1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/upogebiidae/190519prpjc1.jpg
     caption: Pasir Ris Park, May 19 Photo shared by Jesselyn Chua on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/260103prplks5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/upogebiidae/260103prplks5.jpg
     caption: Moult Pasir Ris Park, Jan 26 Photo shared by Loh Kok Sheng on facebook
       .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/110520chglks5m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/upogebiidae/110520chglks5m3.jpg
     caption: Changi, May 11 Photo shared by Loh Kok Sheng on his blog .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/071003chgtch01m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/upogebiidae/071003chgtch01m3.jpg
     caption: Changi, Oct 07 Photo shared by Toh Chay Hoon on her flickr .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/251012chgal1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/upogebiidae/251012chgal1.jpg
     caption: Changi, Oct 25 Photo shared by Adriane Lee on facebook
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/120508skdrom6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/upogebiidae/120508skdrom6l.jpg
     caption: Pulau Sekudu, May 12 Photo shared by Rene Ong on facebook .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/251205cjrqo2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/upogebiidae/251205cjrqo2.jpg
     caption: Chek Jawa, Dec 25 Photo shared by Rui Quan Oh on facebook .
   gallery9:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/240625bbtt1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/upogebiidae/240625bbtt1.jpg
     caption: Beting Bronok, Jun 24 Photo shared by Tommy Tan on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/170625bblks6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/upogebiidae/170625bblks6.jpg
     caption: Beting Bronok, Jun 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/140616bbmn3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/upogebiidae/140616bbmn3m3.jpg
     caption: Beting Bronok, Jun 14 Photo shared by Marcus Ng on facebook .
   gallery10:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/190704bbay1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/upogebiidae/190704bbay1.jpg
     caption: Beting Bronok, Jul 19 Photo shared by Able Yeo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/111126bblks1.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/upogebiidae/111126bblks1.JPG
     caption: Beting Bronok, Nov 11 Photo shared by Loh Kok Sheng on his blog .
   gallery11:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/090626bbmnm6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/upogebiidae/090626bbmnm6l.jpg
     caption: Beting Bronok, May 09 Photo shared by Marcus Ng on his flickr .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/250727smkwml3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/upogebiidae/250727smkwml3.jpg
     caption: Pulau Semakau (West), Jul 25 Photo shared by Mathias Luk on fcebook .
 links_references: '**Links**
 

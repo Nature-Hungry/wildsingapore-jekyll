@@ -32,15 +32,15 @@ order: Siphonariida
 superfamily: Siphonarioidea
 complex: Siphonaria atra
 updated: Aug 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/atra/050509hntd3208m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/atra/050509hntd3208m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/atra/050509hntd3208m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/atra/050509hntd3208m3.jpg
     caption: Pulau Hantu, May 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/atra/051103sisg2849m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/atra/051103sisg2849m3.jpg
     caption: Underside. Sisters Islands, Sep 05
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/atra/160610jngmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/atra/160610jngmn.jpg
     caption: Pulau Jong, Jun 16 Photo shared by Marcus Ng on facebook .
 links_references: '**Links**
 

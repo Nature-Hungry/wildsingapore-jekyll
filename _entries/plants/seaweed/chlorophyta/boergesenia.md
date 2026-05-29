@@ -19,25 +19,25 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Cladophorales
 updated: Sep 2019
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boergesenia/120408sjid8637m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/boergesenia/120408sjid8637m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boergesenia/120408sjid8637m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/boergesenia/120408sjid8637m3.jpg
     caption: St. John's Island, Apr 12
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boergesenia/120408sjid8637m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/boergesenia/120408sjid8637m3a.jpg
     caption: St. John's Island, Apr 12
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boergesenia/060727jngd5253m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/boergesenia/060727jngd5253m3.jpg
     caption: Pulau Jong, Jul 06
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boergesenia/171108ecpmblks.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/boergesenia/171108ecpmblks.jpg
     caption: East Coast-Marina Bay, Nov 17 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boergesenia/100913kusrl.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/boergesenia/100913kusrl.jpg
     caption: Kusu Island, Sep 10 Photo shared by Russel Low on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boergesenia/100130brkd8480m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/boergesenia/100130brkd8480m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boergesenia/100811slud0115m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/boergesenia/100811slud0115m3.jpg
     caption: Pulau Salu, Aug 10
 links_references: '**Links**
 

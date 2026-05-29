@@ -18,10 +18,10 @@ class: Reptilia
 order: Squamata
 suborder: Serpentes
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/buccata/060826sbwrd6350m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/buccata/060826sbwrd6350m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/buccata/060826sbwrd6352m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/buccata/060826sbwrd6352m6l.jpg
     caption: Sungei Buloh Wetland Reserve, Aug 06
 links_references: '**Links**
 
@@ -110,11 +110,11 @@ Human uses: In Cambodia, this snake is heavily exploited and sold as food and fo
 **Status and threats:**
 This snake is listed as 'Vulnerable' on the Red List of threatened animals of Singapore.
 
-*![](http://www.wildsingapore.com/wildfacts/vertebrates/snakes/buccata/060826sbwrd6350m3.jpg)
+*![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/buccata/060826sbwrd6350m3.jpg)
 
 Sungei Buloh Wetland Reserve, Aug 06
 
-![](http://www.wildsingapore.com/wildfacts/vertebrates/snakes/buccata/060826sbwrd6350m3a.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/buccata/060826sbwrd6350m3a.jpg)*
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 ---

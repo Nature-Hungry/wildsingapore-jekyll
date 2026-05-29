@@ -29,15 +29,15 @@ galleries:
       Each soft coral is a colony of countless tiny polyps. Tiny animals may live
       in the colony. Look for them.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/040411hntd0107m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepasparagus/040411hntd0107m3.jpg
     caption: When the brown polyps are retracted, the colony can appear different.
       Pulau Hantu, Apr 04
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/120123hntd5532m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepspiky/120123hntd5532m3b.jpg
     caption: Polyps tiny with eight branched tentacles. Pulau Hantu, Jan 12
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/111222tusd4717m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepspiky/111222tusd4717m3a.jpg
     caption: Polyps reinforced with large sclerites. Tuas, Dec 11
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/031126tusad0068m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepspiky/031126tusad0068m3.jpg
     caption: Tiny red nose shrimp in Spiky flowery soft coral. Tuas, Nov 03
   - url: http://www.wildsingapore.com/crustacea/othercrust/shrimp/alphballsoft/110518bbd1955m3.jpg
     caption: A pair of white snapping shrimps in a ball flowery soft coral. Beting
@@ -50,19 +50,19 @@ galleries:
   - url: http://www.wildsingapore.com/echinodermata/ophiuroidea/tinyorange/161012cj.jpg
     caption: Tiny colourful brittle star and tiny orange brittle star Chek Jawa, Oct
       16 In Spiky flowery soft coral
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/031124tuscd0030m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepspiky/031124tuscd0030m3b.jpg
     caption: Tiny colourful brittle star in Spiky flowery soft coral. Tuas, Nov 03
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/040605kusg0314m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepasparagus/040605kusg0314m3.jpg
     caption: Asparagus flowery soft corals Bushy, don't have spikes.
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/neppink/060625bbd3316m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/neppink/060625bbd3316m3.jpg
     caption: Pink flowery soft corals Pink bushy, don't have spikes .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepsmooth/050510tusg6107m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepsmooth/050510tusg6107m3.jpg
     caption: Smooth flowery soft corals Long branches, without spikes.
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/031124tusbd0074m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepspiky/031124tusbd0074m3.jpg
     caption: Spiky flowery soft corals Long branches, with spikes.
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepball/060625bbd3408m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepball/060625bbd3408m3.jpg
     caption: Ball flowery soft corals Spherical, with spikes.
 links_references: '**Links**
 

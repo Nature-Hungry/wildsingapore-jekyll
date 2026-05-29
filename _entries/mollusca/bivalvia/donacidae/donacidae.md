@@ -20,14 +20,14 @@ superorder: Imparidentia
 order: Cardiida
 superfamily: Tellinoidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/donacidae/donacidae/101011chgd2129m3a.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/donacidae/donacidae/101011chgd2129m3a.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/donacidae/donacidae/101011chgd2129m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/donacidae/donacidae/101011chgd2129m3a.jpg
     caption: Changi, Oct 10
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/donacidae/donacidae/101011chgd2129m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/donacidae/donacidae/101011chgd2129m3b.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/donacidae/donacidae/101011chgd2129m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/donacidae/donacidae/101011chgd2129m3.jpg
     caption: ''
 links_references: "**Links**\n- *[Donax cuneatus](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86593)*\n\
   and\n*[Donax faba](http://www.sealifebase.org/Summary/speciesSummary.php?ID=8660)*\n\

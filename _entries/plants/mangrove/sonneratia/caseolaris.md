@@ -23,31 +23,31 @@ class: Magnoliopsida
 order: Myrtales
 inat_id: 196662
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/100411prpd0907m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/caseolaris/100411prpd0907m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/091230prpd6480m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/caseolaris/091230prpd6480m3.jpg
     caption: Calyx lobes flat, spreading out horizontally. Pasir Ris Park, Jan 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/110311prpd7026m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/caseolaris/110311prpd7026m3.jpg
     caption: Calyx sepals greenish on the inside. Pasir Ris Park, Mar 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/121227prpd2739m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/caseolaris/121227prpd2739m3.jpg
     caption: Petals red, stamens pinkish at the base. Woodland Park, Dec 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/091220wdld6131m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/caseolaris/091220wdld6131m6l.jpg
     caption: Wild tree. Woodland Park, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/091220wdld6135m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/caseolaris/091220wdld6135m3.jpg
     caption: Woodland Park, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/121227prpd2726m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/caseolaris/121227prpd2726m6l.jpg
     caption: Young branches hang down like those of the weeping willow. Pasir Ris
       Park, Dec 12
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/091220wdld6136m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/caseolaris/091220wdld6136m3.jpg
     caption: ''
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/091230prpd6475m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/caseolaris/091230prpd6475m3.jpg
     caption: Mating Atlas moths on the tree.
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/091230prpd6472m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/caseolaris/091230prpd6472m3.jpg
     caption: Atlas moth cocoon on the tree. Pasir Ris Park, Jan 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/091230prpd6477m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/caseolaris/091230prpd6477m3.jpg
     caption: Sunbird nesting in Berembang. Pasir Ris Park, Jan 10
 links_references: '**Links**
 
@@ -173,11 +173,11 @@ According to Burkill, the young fruit is sour and used to flavour curries and ch
 **Status and threats:**
 It is listed as 'Critically Endangered' on the Red List of threatened plants of Singapore.
 
-*![](http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/100411prpd0907m6l.jpg)*
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/caseolaris/100411prpd0907m6l.jpg)*
 Planted in the Park
 *Pasir Ris Park, Apr 10
 
-![](http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/091230prpd6485m3.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/caseolaris/091230prpd6485m3.jpg)*
 Red petals on unopened flower.
 *Pasir Ris Park, Jan 10*
 

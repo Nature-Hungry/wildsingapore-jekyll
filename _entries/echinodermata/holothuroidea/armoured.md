@@ -25,24 +25,24 @@ class: Holothuroidea
 subclass: Actinopoda
 order: Dendrochirotida
 updated: Apr 2020
-coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/armoured/120605lygd4011m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/armoured/120605lygd4011m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/armoured/120605lygd4011m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/armoured/120605lygd4011m3.jpg
     caption: Changi, Jun 12
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/armoured/120605lygd4011m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/armoured/120605lygd4011m3a.jpg
     caption: Mouth (or anus) on conical protrusion.
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/armoured/120605lygd4237m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/armoured/120605lygd4237m3a.jpg
     caption: Rows of tube feet on the flat underside. Changi, Jun 12
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/armoured/120605lygd4245m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/armoured/120605lygd4245m3.jpg
     caption: Changi, Jun 12
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/armoured/120605lygd4245m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/armoured/120605lygd4245m3a.jpg
     caption: Short feeding tentacles.
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/armoured/120605lygd4245m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/armoured/120605lygd4245m3b.jpg
     caption: Tiny tube feet all over the body and on underside.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/armoured/240706ubntch3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/armoured/240706ubntch3.jpg
     caption: Pulau Ubin, Jul 24 Photo by Chay Hoon on facebook .
 links_references: '**Links**
 

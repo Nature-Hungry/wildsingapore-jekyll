@@ -31,19 +31,19 @@ zoosubsection: Thoracotremata
 superfamily: Ocypodoidea
 subfamily: Ocypodinae
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/cordimanus/110903sntd1076m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/cordimanus/110903sntd1076m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/cordimanus/110903sntd1076m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/cordimanus/110903sntd1076m3.jpg
     caption: Sentosa, Sep 11
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/cordimanus/110903sntd1076m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/cordimanus/110903sntd1076m3b.jpg
     caption: Eyes without 'horns'.
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/cordimanus/110903sntd1078m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/cordimanus/110903sntd1078m3.jpg
     caption: Back without dark marks.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/cordimanus/110903sntd1086m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/cordimanus/110903sntd1086m3.jpg
     caption: Lacks ridges on inner palm.
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/cordimanus/110903sntd1076m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/cordimanus/110903sntd1076m3c.jpg
     caption: ''
 links_references: '**Links**
 

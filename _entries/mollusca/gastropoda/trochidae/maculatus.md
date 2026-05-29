@@ -19,67 +19,67 @@ order: Trochida
 superfamily: Trochoidea
 subfamily: Trochinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/maculatus/130923tmftd3526m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/maculatus/130923tmftd3526m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/maculatus/130923tmftd3526m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/maculatus/130923tmftd3526m3.jpg
     caption: Tanah Merah, Sep 13
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/maculatus/130923tmftd3524m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/maculatus/130923tmftd3524m3.jpg
     caption: Tanah Merah, Sep 13
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/maculatus/130923tmftd3531m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/maculatus/130923tmftd3531m3.jpg
     caption: Tanah Merah, Sep 13
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/maculatus/090512tmlks5m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/maculatus/090512tmlks5m3.jpg
     caption: Tanah Merah, May 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/maculatus/171108ecpmblks12.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/maculatus/171108ecpmblks12.jpg
     caption: East Coast-Marina Bay, Nov 17 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/maculatus/200819ecptvc3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/maculatus/200819ecptvc3.jpg
     caption: East Coas Park, Aug 20 Photo shared by Vincent Choo on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/maculatus/151001blylks6m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/maculatus/151001blylks6m3.jpg
     caption: Berlayar Creek, Oct 15 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/maculatus/260104trmlvo7.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/maculatus/260104trmlvo7.jpg
     caption: Sentosa Tg Rimau, Jan 26 Photo shared by Lon Voon Ong on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/maculatus/251106lazky2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/maculatus/251106lazky2.jpg
     caption: Lazarus, Nov 25 Photo shared by Kelvin Yong on facebook
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/maculatus/201115tkkmn3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/maculatus/201115tkkmn3.jpg
     caption: Pulau Tekukor, Nov 20 Photo shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/maculatus/251009sjirk4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/maculatus/251009sjirk4.jpg
     caption: St John's Island, Oct 25 Photo shared by Richard Kuah on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/maculatus/240528tslrk8.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/maculatus/240528tslrk8.jpg
     caption: Terumbu Selegie, May 24 Photo shared by Richard Kuah on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/maculatus/250811jngky1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/maculatus/250811jngky1.jpg
     caption: Pulau Jong, Aug 25 Photo shared by Kelvin Yong on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/maculatus/260201cyrtt3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/maculatus/260201cyrtt3.jpg
     caption: Cyrene, Feb 26 Photo shared by Tommy Tan on facebook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/maculatus/240725smkntt1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/maculatus/240725smkntt1.jpg
     caption: Pulau Semakau North, Jul 24 Photo shared by Tommy Tan on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/maculatus/250727smkwtt1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/maculatus/250727smkwtt1.jpg
     caption: Pulau Semakau (West), Jul 25 Photo shared by Tommy Tan on facebook .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/maculatus/240412tbccn4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/maculatus/240412tbccn4.jpg
     caption: Terumbu Bemban, Apr 24 Photo shared by Che Cheng Neo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/maculatus/190902tryky4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/maculatus/190902tryky4.jpg
     caption: Terumbu Raya, Sep 19 Photo shared by Kelvin Yong on facebook .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/maculatus/110517tbtro4m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/maculatus/110517tbtro4m3.jpg
     caption: Terumbu Pempang Tengah, May 11 Photo shared by Rene Ong on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/maculatus/210502tptvc5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/maculatus/210502tptvc5.jpg
     caption: Terumbu Pempang Tengah, May 21 Photo shared by Vincent Choo on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/maculatus/2007026tplvc1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/maculatus/2007026tplvc1.jpg
     caption: Terumbu Pempang Laut, Jul 20 Photo shared by Vincent Choo on facebook
       .
   gallery9:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/maculatus/100130brkd8447m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/maculatus/100130brkd8447m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/maculatus/100811slud0145m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/maculatus/100811slud0145m3.jpg
     caption: Pulau Salu, Aug 10
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/maculatus/210428sluvc3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/maculatus/210428sluvc3.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Vincent Choo on facebook .
 links_references: '**Links**
 

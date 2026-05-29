@@ -23,15 +23,15 @@ order: Polypodiales
 suborder: Pteridineae
 inat_id: 48437
 updated: Jan 2013
-coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/aureum/090328sbwrd0006m6.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/acrostichum/aureum/090328sbwrd0006m6.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/aureum/090328sbwrd8453m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/acrostichum/aureum/090328sbwrd8453m3.jpg
     caption: Young fronds are red. Sungei Buloh Wetland Reserve, Mar 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/aureum/130202mndd3842m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/acrostichum/aureum/130202mndd3842m3.jpg
     caption: Sterile leaves have blunt tips sometimes with a small sharp point. Pasir
       Ris, Sep 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/aureum/090425prpd0411m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/acrostichum/aureum/090425prpd0411m3.jpg
     caption: Fertile fronds with spores. Pasir Ris, Apr 09
 links_references: '**Links**
 
@@ -117,7 +117,7 @@ See the
 [main page on mangrove ferns](acrostichum)
 for their human uses.
 
-*![](http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/aureum/090328sbwrd0006m6.jpg)
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/acrostichum/aureum/090328sbwrd0006m6.jpg)
 
 Sungei Buloh Wetland Reserve, Mar 09*
 

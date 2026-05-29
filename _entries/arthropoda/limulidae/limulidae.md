@@ -17,7 +17,7 @@ subphylum: Chelicerata
 class: Merostomata
 order: Xiphosurida
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/050527srbg6987m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/arthropoda/limulidae/tachypleus/050527srbg6987m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -33,43 +33,43 @@ galleries:
       to test human medications. Singapore scientists made breakthroughs in cloning
       this substance.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/050527srbg6987m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/arthropoda/limulidae/tachypleus/050527srbg6987m3.jpg
     caption: Often seen in a pair, the smaller male on top and behind the larger female.
       Pulau Sarimbun, May 05
-  - url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/070803cjg1768m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/arthropoda/limulidae/carcinoscopius/070803cjg1768m3.jpg
     caption: Using its tail to flip over to the right side. Note the white slipper
       snails stuck on the underside. Chek Jawa, Aug 07
-  - url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/071002chgd6891m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/arthropoda/limulidae/tachypleus/071002chgd6891m3.jpg
     caption: Often entangled in abandoned drift nets. Changi, Oct 07
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/110320cjs07483m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/arthropoda/limulidae/carcinoscopius/110320cjs07483m3.jpg
     caption: Males have modified front legs to hold on to the female. Chek Jawa, Mar
       11
-  - url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/110320cjs07484m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/arthropoda/limulidae/carcinoscopius/110320cjs07484m3.jpg
     caption: Females don't have modified front legs. Chek Jawa, Mar 11
-  - url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/060627krjd3660m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/arthropoda/limulidae/carcinoscopius/060627krjd3660m3.jpg
     caption: Juvenile horseshoe crab. Kranji, Jun 08 Horseshoe crab eggs seen in sand.
       Mandai, Apr 11
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/050726chgg0358m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/arthropoda/limulidae/carcinoscopius/050726chgg0358m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/090428chgd0767m3e.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/arthropoda/limulidae/tachypleus/090428chgd0767m3e.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/050726chgg0358m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/arthropoda/limulidae/carcinoscopius/050726chgg0358m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/090428chgd0767m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/arthropoda/limulidae/tachypleus/090428chgd0767m3b.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/050726chgg0361m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/arthropoda/limulidae/carcinoscopius/050726chgg0361m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/071002chgd6898m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/arthropoda/limulidae/tachypleus/071002chgd6898m3b.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/050726chgg0358m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/arthropoda/limulidae/carcinoscopius/050726chgg0358m3b.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/090428chgd0767m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/arthropoda/limulidae/tachypleus/090428chgd0767m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/050726chgg0358m3d.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/arthropoda/limulidae/carcinoscopius/050726chgg0358m3d.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/090428chgd0767m3d.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/arthropoda/limulidae/tachypleus/090428chgd0767m3d.jpg
     caption: ''
 links_references: '**Links**
 

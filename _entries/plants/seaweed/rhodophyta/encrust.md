@@ -23,12 +23,12 @@ subclass: Corallinophycidae
 order: Corallinales
 suborder: Corallinineae
 updated: Sep 2019
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/050610sntg7603m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/encrust/050610sntg7603m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/050610sntg7603m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/encrust/050610sntg7603m3.jpg
     caption: Encrusting dead coral. Sentosa, Jun 05
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/100103sisd7480m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/encrust/100103sisd7480m3.jpg
     caption: Encrusting a rock. Sisters Island, Jan 10
   - url: http://www.wildsingapore.com/mollusca/bivalvia/malleidae/malleus/090207smkd6360m3.jpg
     caption: Encrusting a Hammer oyster . Pulau Semakau. Feb 09
@@ -36,23 +36,23 @@ galleries:
   - url: http://www.wildsingapore.com/seagrass/thalassia/041019labd7736m3b.jpg
     caption: The whitish stuff that grows on seagrass leaves is probably also coralline
       algae Labrador, Oct 04
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/081030sntd1456m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/encrust/081030sntd1456m3.jpg
     caption: Encrusting seagrasses. Sentosa, Oct 08
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/081030sntd1456m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/encrust/081030sntd1456m3a.jpg
     caption: ''
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/110220lazd6287m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/encrust/110220lazd6287m3.jpg
     caption: Lazarus Island, Feb 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/100103sisd7479m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/encrust/100103sisd7479m3.jpg
     caption: Sisters Islands, Jan 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/100103sisd7480m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/encrust/100103sisd7480m3.jpg
     caption: Sisters Islands, Jan 10
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/100810sngd9944m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/encrust/100810sngd9944m3a.jpg
     caption: Pulau Senang, Aug 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/100617tbd6269m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/encrust/100617tbd6269m3c.jpg
     caption: Terumbu Bemban, Jun 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/091204pawd5392m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/encrust/091204pawd5392m3.jpg
     caption: Pulau Pawai, Dec 09
 links_references: '**Links**
 

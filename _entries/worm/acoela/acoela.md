@@ -19,24 +19,24 @@ subterclass: Tectipleura
 order: Cephalaspidea
 superfamily: Philinoidea
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/worm/acoela/acoela/111029smkd2994m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/acoela/acoela/111029smkd2994m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/worm/acoela/acoela/111029smkd2994m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/acoela/acoela/111029smkd2994m3.jpg
     caption: A hard coral thickly covered with acoel worms. Pulau Semakau, Oct 11
-  - url: http://www.wildsingapore.com/wildfacts/worm/acoela/acoela/111029smkd3000m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/acoela/acoela/111029smkd3000m3a.jpg
     caption: Pulau Semakau, Oct 11
-  - url: http://www.wildsingapore.com/wildfacts/worm/acoela/acoela/111029smkd3000m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/acoela/acoela/111029smkd3000m3b.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/worm/acoela/acoela/031223tused0053m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/acoela/acoela/031223tused0053m3b.jpg
     caption: On Small goniopora coral . Tuas, Dec 03
-  - url: http://www.wildsingapore.com/wildfacts/worm/acoela/acoela/110802smkd8294m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/acoela/acoela/110802smkd8294m3.jpg
     caption: On Anemone coral . Pulau Semakau, Aug 11
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/worm/acoela/acoela/151225tsmktch3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/acoela/acoela/151225tsmktch3m3.jpg
     caption: On Button zoanthid . Terumbu Semakau, Dec 15 Photo shared by Toh Chay
       Hoon on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/acoela/acoela/250515tpttl2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/acoela/acoela/250515tpttl2.jpg
     caption: On Leathery soft coral Terumbu Pempang Tengah, May 25 Photo shared by
       Tammy Lim on facebook .
   gallery3:

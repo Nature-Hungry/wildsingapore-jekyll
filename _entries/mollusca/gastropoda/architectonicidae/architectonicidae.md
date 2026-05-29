@@ -17,23 +17,23 @@ class: Gastropoda
 subclass: Heterobranchia
 superfamily: Architectonicoidea
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/090529sjilks1m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/perspectiva/090529sjilks1m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/090529sjilks1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/perspectiva/090529sjilks1m3.jpg
     caption: Laying egg string. St. John's Island, May 09 Photo shared by Loh Kok
       Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/variegatus/080606cyrcck2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/variegatus/080606cyrcck2m3.jpg
     caption: Laying egg string. Cyrene Reef, Jun 08 Photo shared by Chim Chee Kong
       on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/variegatus/130211sjid4300.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/variegatus/130211sjid4300.jpg
     caption: St John's Island, Feb 13
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/100103sisd7573m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/perspectiva/100103sisd7573m3.jpg
     caption: Clear sundial snail
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perdix/170401tpto4010158.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/perdix/170401tpto4010158.jpg
     caption: Dead specimen. Partridge sundial snail
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/variegatus/130211sjid4147.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/variegatus/130211sjid4147.jpg
     caption: Variegated sundial snail
 links_references: '**Links**
 

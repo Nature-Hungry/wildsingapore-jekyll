@@ -24,24 +24,24 @@ infraorder: Doridoidei
 superfamily: Chromodoridoidea
 subfamily: Chromodoridinae
 updated: May 2025
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/orientalis/240625bbtch3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/orientalis/240625bbtch3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/orientalis/240625bbtch3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/orientalis/240625bbtch3.jpg
     caption: Beting Bronok, Jun 24 Photo shared by Toh Chay Hoon on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/orientalis/240625bbtch3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/orientalis/240625bbtch3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/orientalis/240625bbtch3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/orientalis/240625bbtch3b.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/orientalis/210528lygjll10.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/orientalis/210528lygjll10.jpg
     caption: Changi Loyang, May 21 Photo shared by Jianlin LIu on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/orientalis/251012chgmn4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/orientalis/251012chgmn4.jpg
     caption: Changi, Oct 25 Photo shared by Marcus Ng on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/orientalis/250529cjmn3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/orientalis/250529cjmn3.jpg
     caption: Chek Jawa, May 25 Photo shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/orientalis/050724bbg0228m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/orientalis/050724bbg0228m3.jpg
     caption: Beting Bronok, Jul 05
 links_references: '**Links**
 

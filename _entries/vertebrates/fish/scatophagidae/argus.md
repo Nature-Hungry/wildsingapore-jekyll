@@ -22,7 +22,7 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scatophagidae/argus/031012cjad0011m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scatophagidae/argus/031012cjad0011m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -33,25 +33,25 @@ galleries:
     caption: It is more commonly seen near mangroves. It is popular among anglers
       and as food. It has sharp poisonous spines. Don't handle it!
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scatophagidae/argus/031012cjad0011m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scatophagidae/argus/031012cjad0011m3.jpg
     caption: Chek Jawa, Oct 03
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scatophagidae/argus/100602tmd5032.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scatophagidae/argus/100602tmd5032.jpg
     caption: Tanah Merah, May 10
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scatophagidae/argus/140616bbrl.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scatophagidae/argus/140616bbrl.jpg
     caption: Beting Bronok, Jun 14 Photo shared by Russel Low on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scatophagidae/argus/160706skdlks4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scatophagidae/argus/160706skdlks4.jpg
     caption: Pulau Sekudu, Jul 16 Photo shared by Loh Kok Sheng on his blog .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scatophagidae/argus/091008tmjk2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scatophagidae/argus/091008tmjk2m3.jpg
     caption: Tanah Merah, Oct 09 Photo shared by James Koh on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scatophagidae/argus/091008tmjk3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scatophagidae/argus/091008tmjk3m3.jpg
     caption: Tanah Merah, Oct 09 Photo shared by James Koh on his blog .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scatophagidae/argus/161017wcpsbr.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scatophagidae/argus/161017wcpsbr.jpg
     caption: Juvenile. West Coast Park, Oct 16 Photo shared on the Singapore Biodiversity
       Records
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scatophagidae/argus/200707hntjt3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scatophagidae/argus/200707hntjt3.jpg
     caption: Pulau Hantu, Jul 20 Photo shared by Juria Toramae on facebook .
 links_references: '**Links**
 

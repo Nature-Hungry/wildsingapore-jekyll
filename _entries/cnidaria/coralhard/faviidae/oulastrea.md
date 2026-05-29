@@ -29,42 +29,42 @@ galleries:
       They have a distinctive black-and-white skeleton. Polyps on submerged portions
       may be extended, look for them.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/oulastrea/120407lazd8127m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/oulastrea/120407lazd8127m3.jpg
     caption: Lazarus, Apr 12
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/oulastrea/120123hntd5465m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/oulastrea/120123hntd5465m3.jpg
     caption: Pulau Hantu, Jan 12
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/oulastrea/120123hntd5640m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/oulastrea/120123hntd5640m3.jpg
     caption: Pulau Hantu, Jan 12
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/oulastrea/110812prpd8599m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/oulastrea/110812prpd8599m3.jpg
     caption: Pasir Ris, Aug 11
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/oulastrea/060516chgd2001m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/oulastrea/060516chgd2001m3.jpg
     caption: Changi, May 06
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/oulastrea/080525ubnd4244m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/oulastrea/080525ubnd4244m3.jpg
     caption: Pulau Ubin, Jun 08
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/oulastrea/050821bbg2001m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/oulastrea/050821bbg2001m3.jpg
     caption: Beting Bronok, Aug 05
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/oulastrea/050821bbg2001m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/oulastrea/050821bbg2001m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/oulastrea/050821bbg2001m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/oulastrea/050821bbg2001m3b.jpg
     caption: ''
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/oulastrea/160124smkemn2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/oulastrea/160124smkemn2.jpg
     caption: Pulau Semakau East, Jan 16 Photo shared by Marcus Ng on facebook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/oulastrea/100130brkd8717m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/oulastrea/100130brkd8717m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/oulastrea/091204pawd5282m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/oulastrea/091204pawd5282m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/oulastrea/091231biojk10m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/oulastrea/091231biojk10m3.jpg
     caption: Pulau Biola, Dec 09 Photo shared by Jamed Koh on his flickr .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/oulastrea/100811slud0117m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/oulastrea/100811slud0117m3.jpg
     caption: Pulau Salu, Aug 10
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/oulastrea/100811slud0117m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/oulastrea/100811slud0117m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/oulastrea/100601slud4934m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/oulastrea/100601slud4934m3.jpg
     caption: Pulau Salu, Jun 10
 links_references: '**Links**
 

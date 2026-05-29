@@ -21,83 +21,83 @@ suborder: ''
 updated: Dec 2019
 coverimg: https://live.staticflickr.com/1236/605886912_becabd5880_c.jpg
 page_images1:
-- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/020714cjd3111m3a.jpg
+- url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/ovalis/020714cjd3111m3a.jpg
   caption: '<p>Seagrass leaves have veins.</p>
 
     <p>Chek Jawa, Jul 02</p>
 
     '
-- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/050822cjg2120m3c.jpg
+- url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/halodule/050822cjg2120m3c.jpg
   caption: '<p>Seagrass have underground stems with roots</p><p>Chek Jawa, Aug 05</p>
 
     '
-- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/050623cjd4106m3.jpg
+- url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/spinulosa/050623cjd4106m3.jpg
   caption: "<p><a href=\"spinulosa\">Fern seagrass</a>\_has a leaf made up of little\
     \ leaflets</p><p> Chek Jawa, Jun 05</p>\n"
 page_images2:
-- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/050428cftg5289m3.jpg
+- url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/ovalis/050428cftg5289m3.jpg
   caption: '<p>Flowering <a href="ovalis">Spoon seagrass</a>?</p>
 
     <p>Changi, Apr 05</p>
 
     '
-- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/050310smkg3174m3.jpg
+- url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/enhalus/050310smkg3174m3.jpg
   caption: '<p>Female flower of <a href="enhalus">Tape seagrass</a> with tiny male
     flowers in the centre.</p>
 
     <p>Pulau Semakau, Mar 05</p>
 
     '
-- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/060228labg5266m3.jpg
+- url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/thalassia/060228labg5266m3.jpg
   caption: '<p>Flowers of the <a href="thalassia">Sickle seagrass</a> Labrador, Mar
     06</p>
 
     '
 page_images3:
-- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/100711cyrd8201m3.jpg
+- url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/seagrass/100711cyrd8201m3.jpg
   caption: '<p>The tiny <a href="../../mollusca/slugs/anaspidae/seagrass">seagrass
     sea hare</a> is sometimes seen on <a href="enhalus">Tape seagrass</a>.</p>
 
     <p>Cyrene Reef, Jul 10</p>
 
     '
-- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/080208hntd9427m3a.jpg
+- url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/enhalus/080208hntd9427m3a.jpg
   caption: '<p>Small animals settle on <a href="enhalus">Tape seagrass</a>.</p>
 
     <p>Pulau Hantu, Feb 08</p>
 
     '
-- url: http://www.wildsingapore.com/wildfacts/eggs/eggs/080722cyrd8262m3.jpg
+- url: https://f003.backblazeb2.com/file/naturehungry/eggs/eggs/080722cyrd8262m3.jpg
   caption: '<p>Eggs laid on <a href="enhalus">Tape seagrass</a>.</p>
 
     <p>Cyrene Reef, Jul 08</p>
 
     '
 page_images4:
-- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/others/070120cjd7618m3.jpg
+- url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/others/070120cjd7618m3.jpg
   caption: '<p>A fresh dugong feeding trail!</p>
 
     <p>Chek Jawa, Jan 07</p>
 
     '
-- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/others/190523cyrm6l.jpg
+- url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/others/190523cyrm6l.jpg
   caption: '<p>Dugong feeding trails Cyrene Reef, May 19 </p>
 
     '
 page_images5:
-- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/1000619cjd6799m3.jpg
+- url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/ovalis/1000619cjd6799m3.jpg
   caption: '<p>Bleaching following oil spill in May 10.</p>
 
     <p>Chek Jawa, Jun 10</p>
 
     '
-- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/110509sntd1329m3.jpg
+- url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/ovalis/110509sntd1329m3.jpg
   caption: '<p>Bleaching, cause unknown.</p>
 
     <p>Sentosa, Apr 11</p>
 
     '
-- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/110509sntd1334m3.jpg
+- url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/ovalis/110509sntd1334m3.jpg
   caption: '<p>Burnt, cause unknown.</p>
 
     <p>Sentosa, Apr 11</p>

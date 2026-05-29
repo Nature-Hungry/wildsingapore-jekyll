@@ -17,17 +17,17 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Oct 15
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060356m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060356m3.jpg
     caption: During the day covered in bubbles.
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3c.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3b.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150720smknlks4m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/plerogyra/150720smknlks4m3.jpg
     caption: Pulau Semakau North, Jul 15 Photo shared by Loh Kok Sheng on facebook
       .
 links_references: '**Links**
@@ -94,10 +94,10 @@ This coral is not listed amont the threatened animals of Singapore. But it is li
 [by the IUCN](http://www.iucnredlist.org/apps/redlist/details/133453/0)
 . Although it is widespread and common throughout its range, it is heavily harvested for the aquarium trade and has suffered extensive reduction of coral reef habitat due to a combination of threats.
 
-![](http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3.jpg)
 
 *Terumbu Bemban, Apr 11*
-![](http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3a.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3a.jpg)
 
 Brain-like meandering valleys,
 

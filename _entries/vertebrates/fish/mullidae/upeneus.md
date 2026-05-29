@@ -23,39 +23,39 @@ superorder: Acanthomorpha
 order: Syngnathiformes
 suborder: Mulloidei
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/130624chg7d7878m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/mullidae/upeneus/130624chg7d7878m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/130624chg7d7878m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/mullidae/upeneus/130624chg7d7878m3.jpg
     caption: Pair of barbels under the chin Changi, Jun 13
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/100810sngd9966m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/mullidae/upeneus/100810sngd9966m6l.jpg
     caption: Pulau Senang, Aug 10
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/150802bbtch.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/mullidae/upeneus/150802bbtch.jpg
     caption: Beting Bronok, Aug 15 Photo shared by Toh Chay Hoon on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/251011lablks11.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/mullidae/upeneus/251011lablks11.jpg
     caption: Labrador, Oct 25 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/170429kusis1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/mullidae/upeneus/170429kusis1.jpg
     caption: Kusu Island, Apr 17 Photo shared by Ian Siah on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/250331hntrg2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/mullidae/upeneus/250331hntrg2.jpg
     caption: Pulau Hantu, Apr 25 Photo shared by Rachael Goh on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/191028bsisvc4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/mullidae/upeneus/191028bsisvc4.jpg
     caption: Big Sisters Island, Oct 19 Photo shared by Vincent Choo on facebook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/250810bsisrk8.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/mullidae/upeneus/250810bsisrk8.jpg
     caption: Big Sisters, Aug 25 Photo shared by Richard Kuah on facebook .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/240410cyrky3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/mullidae/upeneus/240410cyrky3.jpg
     caption: Cyrene, Apr 24 Photo shared by Kelvin Yong on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/140810smkmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/mullidae/upeneus/140810smkmn.jpg
     caption: Pulau Semakau, Aug 14 Photo shared by Marcus Ng on flickr .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/110517tptik8m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/mullidae/upeneus/110517tptik8m3.jpg
     caption: Terumbu Pempang Tengah, May 11 Photo shared by Ivan Kwan on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/190902tryky1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/mullidae/upeneus/190902tryky1.jpg
     caption: Terumbu Raya, Sep 19 Photo shared by Kelvin Yong on facebook .
 links_references: '**Links**
 

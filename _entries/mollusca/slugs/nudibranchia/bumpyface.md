@@ -28,22 +28,22 @@ order: Nudibranchia
 suborder: Arminina
 superfamily: Arminoidea
 updated: Mar 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bumpyface/050707chgg9063m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/bumpyface/050707chgg9063m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bumpyface/050707chgg9063m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/bumpyface/050707chgg9063m3.jpg
     caption: Changi, Jul 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bumpyface/050707chgg9063m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/bumpyface/050707chgg9063m3a.jpg
     caption: '''Bumps'' on its ''face''.'
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bumpyface/050707cftg9069m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/bumpyface/050707cftg9069m3.jpg
     caption: Wiggly lines under the mantle. Changi, Jul 05
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bumpyface/050818chgg1380m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/bumpyface/050818chgg1380m3.jpg
     caption: Jelly-like egg mass next to it? Changi, Aug 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bumpyface/050622chgg8137m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/bumpyface/050622chgg8137m3.jpg
     caption: Next to a sea pencil . Changi, Jun 05
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bumpyface/190221nsrctsc1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/bumpyface/190221nsrctsc1.jpg
     caption: On a spiky sea pen. East Coast Park, Feb 19 Photo shared by Teo Say Chong
       on facebook .
 links_references: '**Links**

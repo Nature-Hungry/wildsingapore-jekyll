@@ -22,21 +22,21 @@ order: Malvales
 subfamily: Helicteroideae
 tribe: Durioneae
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/plants/fruittrees/durio/zibethinus/091005cjd2007m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/durio/zibethinus/091005cjd2007m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/durio/zibethinus/080412cjd1335m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/durio/zibethinus/080412cjd1335m3.jpg
     caption: Fallen flowers. Chek Jawa, Apr 08
-  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/durio/zibethinus/100410ubnd0869m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/durio/zibethinus/100410ubnd0869m3.jpg
     caption: Flowers on a thick branch. Pulau Ubin, Apr 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/durio/zibethinus/091005cjd2011m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/durio/zibethinus/091005cjd2011m3a.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/durio/zibethinus/031011ubnd0016m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/durio/zibethinus/031011ubnd0016m3.jpg
     caption: Pulau Ubin, Oct 03
-  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/durio/zibethinus/031011ubnd0016m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/durio/zibethinus/031011ubnd0016m3b.jpg
     caption: Pulau Ubin, Oct 03
-  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/durio/zibethinus/031011ubnd0019m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/durio/zibethinus/031011ubnd0019m3.jpg
     caption: Pulau Ubin, Oct 03
 links_references: '**Links**
 
@@ -109,10 +109,10 @@ are important sources of food for these bats.
 **Human uses:**
 The durian fruit evokes extreme reactions. People either love it or hate it, few are indifferent to it. Burkill declares 'many writers have attempted to describe the taste, and differ in their description, perhaps much more widely than the taste itself.'
 
-![](http://www.wildsingapore.com/wildfacts/plants/fruittrees/durio/zibethinus/091005cjd2007m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/durio/zibethinus/091005cjd2007m6l.jpg)
 
 *Pulau Ubin, Oct 09*
-*![](http://www.wildsingapore.com/wildfacts/plants/fruittrees/durio/zibethinus/091005cjd2011m3.jpg)
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/durio/zibethinus/091005cjd2011m3.jpg)
 
 Pulau Ubin, Oct 09*
 

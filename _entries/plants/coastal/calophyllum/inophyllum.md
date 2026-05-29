@@ -21,14 +21,14 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Malpighiales
 updated: Jan 2013
-coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/calophyllum/inophyllum/090410ubno066m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/calophyllum/inophyllum/090410ubno066m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/calophyllum/inophyllum/031028sntbd0101m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/calophyllum/inophyllum/031028sntbd0101m3a.jpg
     caption: Fruit. Sentosa, Oct 03
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/calophyllum/inophyllum/090410ubnd9412m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/calophyllum/inophyllum/090410ubnd9412m3.jpg
     caption: Changi, Apr 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/calophyllum/inophyllum/090124ubnd5983m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/calophyllum/inophyllum/090124ubnd5983m3.jpg
     caption: Pulau Ubin, Jan 09
 links_references: '**Links**
 
@@ -166,22 +166,22 @@ Ground with a girth of 5.4m and height of 16m,
 **Canterbury Road**
 , at junction with Berkshire Road with a girth of 4.5m and height of 18m.
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/calophyllum/inophyllum/090410ubno066m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/calophyllum/inophyllum/090410ubno066m6l.jpg)
 
 Planted in a park.
 *Changi Beach, Apr 09
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/calophyllum/inophyllum/090410ubnd9415m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/calophyllum/inophyllum/090410ubnd9415m3.jpg)
 
 Changi, Apr 09
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/calophyllum/inophyllum/031028sntbd0101m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/calophyllum/inophyllum/031028sntbd0101m3.jpg)
 
 Fine parallel veins on leaf.
 
 Sentosa, Oct 03
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/calophyllum/inophyllum/090124ubnd5979m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/calophyllum/inophyllum/090124ubnd5979m3.jpg)
 
 Pulau Ubin, Jan 09*
 

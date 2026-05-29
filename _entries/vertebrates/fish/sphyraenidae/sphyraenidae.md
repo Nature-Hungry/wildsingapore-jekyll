@@ -23,31 +23,31 @@ superorder: Acanthomorpha
 order: Carangiformes
 suborder: Centropomoidei
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/090806tmd8369m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sphyraenidae/sphyraenidae/090806tmd8369m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/090806tmd8369m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sphyraenidae/sphyraenidae/090806tmd8369m3.jpg
     caption: Tanah Merah, Aug 09
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/151129sjimn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sphyraenidae/sphyraenidae/151129sjimn.jpg
     caption: St John's Island, Nov 15 Photo shared by Marcus Ng on facebook .
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/110814smkd8897m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sphyraenidae/sphyraenidae/110814smkd8897m6l.jpg
     caption: Pulau Semakau, Aug 11
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/110814smkd8897m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sphyraenidae/sphyraenidae/110814smkd8897m3a.jpg
     caption: Upper and lower jaws about the same length.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/100528kusmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sphyraenidae/sphyraenidae/100528kusmn.jpg
     caption: Kusu Island, May 10 Photo shared by Marcus Ng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/111002bsismn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sphyraenidae/sphyraenidae/111002bsismn.jpg
     caption: Big Sisters Island, Oct 11 Photo shared by Marcus Ng on flickr .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/080422smkmn01m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sphyraenidae/sphyraenidae/080422smkmn01m3.jpg
     caption: Pulau Semakau, Apr 08 Photo shared by Marcus Ng on his flickr .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/241116smkset2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sphyraenidae/sphyraenidae/241116smkset2.jpg
     caption: Pulau Semakau (South), Dec 24 Photo shared by Eugene Tan on facebook
       .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/110731trylks5m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sphyraenidae/sphyraenidae/110731trylks5m6l.jpg
     caption: Terumbu Raya, Jul 11 Photo shared by Lok Kok Sheng on his blog .
 links_references: "**Links**\n- [Pickhandle Barracuda](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/352)\n\
   (\n*Sphyraena jello*\n) Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.\n*[A Guide\

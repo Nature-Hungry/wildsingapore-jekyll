@@ -25,7 +25,7 @@ order: Malpighiales
 hybrid: "Bruguiera \xD7 hainesii"
 inat_id: 1539958
 updated: Jan 2013
-coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/hainesii/110109ubns02866m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/hainesii/110109ubns02866m6l.jpg
 links_references: "**Links**\n- Giesen, Wim\n  and Stephan Wulffraat, Max Zieren and\
   \ Liesbeth Scholten. 2006.\n  [*Mangrove\n  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)\
   \ (PDF online downloadable).\n  RAP publication 2006/07 Food and Agriculture Organization\
@@ -47,20 +47,20 @@ links_references: "**Links**\n- Giesen, Wim\n  and Stephan Wulffraat, Max Zieren
   \  Research website).\n- Tomlinson,\n  P. B., 1986. *The\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/hainesii/110608krjL1000225m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/hainesii/110608krjL1000225m3.jpg
     caption: Tassels on petal tips. Fresh petals white, turning orange. Kranji Nature
       Trail, Jun 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/hainesii/090614ubnd4258m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/hainesii/090614ubnd4258m3.jpg
     caption: Medim-sized flowers, each on one stalk. Calyx usually pinkish or yellowish.
       Pulau Ubin, Jun 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/hainesii/101230krjd4324m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/hainesii/101230krjd4324m3a.jpg
     caption: Lenticles on buttress roots. Kranji Nature Trail, Dec 10
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/hainesii/090614ubnd4261m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/hainesii/090614ubnd4261m3.jpg
     caption: Sepals held away from the propagule. Pulau Ubin, Jun 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/hainesii/110109ubnd4822m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/hainesii/110109ubnd4822m3.jpg
     caption: Crab spider lurks to pounce on insect visitors. Pulau Ubin, Jul 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/hainesii/090704ubnd6331m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/hainesii/090704ubnd6331m3.jpg
     caption: Insect visitor to flower. Pulau Ubin, Jul 09
   gallery3:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -106,11 +106,11 @@ According to Tomlinson, the small flowers are pollinated by day flying insects s
 **Status and threats:**
 This plant is listed as 'Critically Endangered' on the Red List of threatened plants of Singapore, as well as globally on the IUCN Red List.
 
-![](http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/hainesii/110109ubns02866m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/hainesii/110109ubns02866m6l.jpg)
 
 *Pulau Ubin, Jan 11
 
-![](http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/hainesii/101230krjd4324m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/hainesii/101230krjd4324m3.jpg)
 
 Kranji Nature Trail, Dec 10*
 

@@ -19,48 +19,48 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
 updated: Dec 2024
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/plain/110522bbbd2711m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/plain/110522bbbd2711m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/plain/110522bbbd2711m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/plain/110522bbbd2711m3.jpg
     caption: Beting Bemban Besar, May 11
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/plain/110522bbbd2711m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/plain/110522bbbd2711m3b.jpg
     caption: Only one side of the tentacle bears 'branches'.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/plain/080422smkd1433m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/plain/080422smkd1433m3.jpg
     caption: Body column pale becoming darker near the top with rows of white spots.
       Pulau Semakau, Apr 08
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/plain/201019sjijll5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/plain/201019sjijll5.jpg
     caption: St John's Island, Oct 20 Photo shared by Jianlin Liu on facebook .
   gallery3:
   - url: http://www.wildsingapore.com/crustacea/othercrust/shrimp/brevicarpalis/130527tmlks.JPG
     caption: A pair of Peacock-tail anemone shrimps seen in this anemone. Tanah Merah,
       May 13 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/others/100711cyrd8263m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/others/100711cyrd8263m3.jpg
     caption: Bleaching frilly anemone Cyrene Reef, Jul 10
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/100809cyrd9724m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/purpletip/100809cyrd9724m3.jpg
     caption: Bleaching frilly anemone Cyrene Reef, Aug 10
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/sixpoint/050820bbg1791m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/sixpoint/050820bbg1791m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/band/050808sntg0904m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/band/050808sntg0904m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/plain/060729sisd5407m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/plain/060729sisd5407m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/sixpoint/050820bbg1791m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/sixpoint/050820bbg1791m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/band/050808sntg0904m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/band/050808sntg0904m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/plain/060729sisd5407m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/plain/060729sisd5407m3a.jpg
     caption: ''
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/smooth/050808sntg0859m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/smooth/050808sntg0859m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/050808sntg0899m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/purpletip/050808sntg0899m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/smooth/050808sntg0859m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/smooth/050808sntg0859m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/050808sntg0899m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/purpletip/050808sntg0899m3a.jpg
     caption: ''
 links_references: '**Links**
 

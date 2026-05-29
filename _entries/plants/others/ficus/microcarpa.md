@@ -22,48 +22,48 @@ class: Magnoliopsida
 order: Rosales
 tribe: Ficeae
 updated: Feb 11
-coverimg: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091005cjd2233m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/microcarpa/091005cjd2233m6l.jpg
 links_references: "**Links**\n- [*Ficus\n  microcarpa*](http://floraofsingapore.wordpress.com/2010/07/29/memecylon-minutiflorum/)\
   \ on Total Vascular Flora of Singapore Online:\n  photos and fact sheet.\n\n**References**\n\
   - Ng, Angie\n  et. al. 2005. *A guide to the fabulous figs of Singapore*.\n  Singapore\
   \ Science Centre.152 pp.\n- Hsuan Keng,\n  S.C. Chin and H. T. W. Tan. 1990, *[The\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091031cjd3440m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/microcarpa/091031cjd3440m3.jpg
     caption: Chek Jawa, Oct 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091005cjd2238m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/microcarpa/091005cjd2238m6l.jpg
     caption: Chek Jawa, Oct 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091005cjd2236m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/microcarpa/091005cjd2236m6l.jpg
     caption: Chek Jawa, Oct 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091227kntd6471m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/microcarpa/091227kntd6471m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091227kntd6471m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/microcarpa/091227kntd6471m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091227kntd6471m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/microcarpa/091227kntd6471m3c.jpg
     caption: ''
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/110220lazd6228m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/microcarpa/110220lazd6228m6l.jpg
     caption: On a natural cliff Lazarus Island, Feb 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/110220lazd6233m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/microcarpa/110220lazd6233m3.jpg
     caption: Lazarus Island, Feb 11
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/110509snts01724m6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/microcarpa/110509snts01724m6.jpg
     caption: On a natural cliff Sentosa, Apr 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/110509sntd1307m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/microcarpa/110509sntd1307m3.jpg
     caption: Sentosa, Apr 11
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/100314cjd9901m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/microcarpa/100314cjd9901m3.jpg
     caption: Chek Jawa, Mar 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/100314cjd9936m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/microcarpa/100314cjd9936m3.jpg
     caption: Chek Jawa, Mar 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/100314cjd9940m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/microcarpa/100314cjd9940m3.jpg
     caption: Chek Jawa, Mar 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/100314cjd9907m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/microcarpa/100314cjd9907m3.jpg
     caption: Chek Jawa, Mar 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/100314cjd9925m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/microcarpa/100314cjd9925m3.jpg
     caption: Chek Jawa, Mar 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/100314cjd9947m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/microcarpa/100314cjd9947m3.jpg
     caption: Chek Jawa, Mar 10
   gallery6:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -96,7 +96,7 @@ A figging Jejawi attracts a whole range of creatures from fruit eating birds of 
 **Human uses:**
 According to Burkill, in India, various parts of the tree are used to treat wounds, bruises, headaches and other ailments.
 
-![](http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091005cjd2233m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/microcarpa/091005cjd2233m6l.jpg)
 
 The tall Jejawi next to Jejawi Tower.
 *Chek Jawa, Oct 09*

@@ -24,27 +24,27 @@ superorder: Acanthomorpha
 order: Perciformes
 suborder: Scorpaenoidei
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/081117ecpmd2274m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/platycephalidae/indicus/081117ecpmd2274m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/081117ecpmd2274m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/platycephalidae/indicus/081117ecpmd2274m3.jpg
     caption: East Coast Park, Nov 08
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/100202chgsafd9255m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/platycephalidae/indicus/100202chgsafd9255m6l.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/251107tmftlks8a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/platycephalidae/indicus/251107tmftlks8a.jpg
     caption: Tanah Merah Ferry Terminal, Nov 25 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/251107tmftlks8b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/platycephalidae/indicus/251107tmftlks8b.jpg
     caption: Tanah Merah Ferry Terminal, Nov 25 Photo shared by Loh Kok Sheng on facebook
       .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/030927cjd0083m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/platycephalidae/indicus/030927cjd0083m3c.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/030927cjd0083m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/platycephalidae/indicus/030927cjd0083m6l.jpg
     caption: Chek Jawa, Sep 03
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/240820kusky3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/platycephalidae/indicus/240820kusky3.jpg
     caption: Kusu Island, Aug 24 Photo shared by Kelvin Yong on facebook .
 links_references: '**Links**
 

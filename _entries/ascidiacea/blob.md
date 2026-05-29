@@ -9,14 +9,14 @@ updated: Nov 2019
 phylum: Chordata
 subphylum: Tunicata
 class: Ascidiacea
-coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/blob/091203ubnd4985m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/blob/091203ubnd4985m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/blob/091203ubnd4985m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/blob/091203ubnd4985m3.jpg
     caption: Pulau Ubin, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/blob/060516chgd2023m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/blob/060516chgd2023m3.jpg
     caption: Changi, May 06
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/blob/120604pgld3538m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/blob/120604pgld3538m6l.jpg
     caption: Punggol, Jun 12
 location:
 - pgl

@@ -24,7 +24,7 @@ tribe: Amaryllideae
 subtribe: Crininae
 inat_id: 161124
 updated: Nov 10
-coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/crinum/asiaticum/090214sbwrd7060m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/crinum/asiaticum/090214sbwrd7060m3.jpg
 links_references: "**Links**\n- [*Crinum\n  asiaticum*](http://floraofsingapore.wordpress.com/2010/08/08/crinum-asiaticum/)\
   \ on Total Vascular Flora of Singapore Online:\n  photos and fact sheet.\n- Giesen,\
   \ Wim\n  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.\n  [*Mangrove\n\
@@ -34,16 +34,16 @@ links_references: "**Links**\n- [*Crinum\n  asiaticum*](http://floraofsingapore.
   **References**\n- Hsuan Keng,\n  S.C. Chin and H. T. W. Tan.1998, *[The\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/crinum/asiaticum/110317mndd7375m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/crinum/asiaticum/110317mndd7375m3.jpg
     caption: Wild plant. Mandai, Mar 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/crinum/asiaticum/090829cjf3322m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/crinum/asiaticum/090829cjf3322m3.jpg
     caption: Chek Jawa, Aug 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/crinum/asiaticum/090829cjf3323m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/crinum/asiaticum/090829cjf3323m3.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/crinum/asiaticum/090214sbwrd7063m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/crinum/asiaticum/090214sbwrd7063m3.jpg
     caption: Sungei Buloh Wetland Reserve, Feb 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/crinum/asiaticum/090818sbwrd7494m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/crinum/asiaticum/090818sbwrd7494m6l.jpg
     caption: Sungei Buloh Wetland Reserve, Feb 09
   gallery3:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -77,14 +77,14 @@ According to Burkill, it is poisonous and medicinal uses include inducing vomiti
 **Status and threats:**
 It is listed as 'Critically Endangered' in the Red List of threatened plants of Singapore.
 
-*![](http://www.wildsingapore.com/wildfacts/plants/coastal/crinum/asiaticum/090214sbwrd7060m3.jpg)
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/crinum/asiaticum/090214sbwrd7060m3.jpg)
 
 *Sungei Buloh Wetland Reserve, Feb 09*
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/crinum/asiaticum/090307blyd7421m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/crinum/asiaticum/090307blyd7421m3.jpg)
 
 Labrador, Mar 09
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/crinum/asiaticum/090307blyd7421m3a.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/crinum/asiaticum/090307blyd7421m3a.jpg)*
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

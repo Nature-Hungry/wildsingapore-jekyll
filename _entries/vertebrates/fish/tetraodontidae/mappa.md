@@ -14,19 +14,19 @@ family: Tetraodontidae
 genus: Arothon
 species: mappa
 updated: Nov 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/mappa/sbr2019-054-055-mappa.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/mappa/sbr2019-054-055-mappa.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/mappa/sbr2019-054-055-mappa.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/mappa/sbr2019-054-055-mappa.jpg
     caption: Live one, seen diving. Photo by Toh Chay Hoon from Singapore Biodiversity
       Records 2019:54-55
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/mappa/170820kusmn3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/mappa/170820kusmn3.jpg
     caption: Kusu Island, Aug 17 Photo shared by Marcus Ng on facebook .
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/mappa/170514bbbrl1a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/mappa/170514bbbrl1a.jpg
     caption: Beting Bemban Besar, May 17 Photo shared by Russel Low on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/mappa/200626tptjt1a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/mappa/200626tptjt1a.jpg
     caption: Found in a large fish trap Terumbu Pempang Tengah, Jun 20 Photo shared
       by Jonathan Tan on facebook .
 links_references: '**Links**

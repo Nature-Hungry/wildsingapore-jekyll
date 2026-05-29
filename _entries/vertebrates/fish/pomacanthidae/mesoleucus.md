@@ -23,12 +23,12 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/mesoleucus/040605kusbd0137m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacanthidae/mesoleucus/040605kusbd0137m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/mesoleucus/040605kusbd0137m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacanthidae/mesoleucus/040605kusbd0137m3.jpg
     caption: An adult caught in a fish trap. Kusu Island, Jun 04
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/mesoleucus/120721tptlks6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacanthidae/mesoleucus/120721tptlks6l.jpg
     caption: Terumbu Pempang Tengah, Jul 12 Photo shared by Loh Kok Sheng on flickr
       .
 links_references: '**Links**

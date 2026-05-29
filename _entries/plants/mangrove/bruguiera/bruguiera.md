@@ -16,50 +16,50 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Malpighiales
 updated: Jan 2013
-coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/gymnorrhiza/090809sjid8843m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/gymnorrhiza/090809sjid8843m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/cylindrica/090405smkd8985m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/cylindrica/090405smkd8985m3.jpg
     caption: Typical pouched petals of Bruguiera .
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/cylindrica/090405smkd8985m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/cylindrica/090405smkd8985m3a.jpg
     caption: Open and closed pouched petals.
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/hainesii/090614ubnd4270m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/hainesii/090614ubnd4270m3a.jpg
     caption: Fallen petals.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/cylindrica/091203ubnd4906m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/cylindrica/091203ubnd4906m3.jpg
     caption: Small flowers several on one stalk. Calyx usually pale.
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/cylindrica/110406sbbd8726m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/cylindrica/110406sbbd8726m3a.jpg
     caption: Tassels on petal tips.
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/cylindrica/020418sbwrcpd8227m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/cylindrica/020418sbwrcpd8227m3a.jpg
     caption: Sepals on propagules bend towards stalk.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/hainesii/090614ubnd4258m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/hainesii/090614ubnd4258m3.jpg
     caption: Medim-sized flowers, each on one stalk. Calyx usually pinkish or yellowish.
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/hainesii/110608krjL1000225m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/hainesii/110608krjL1000225m3.jpg
     caption: Tassels on petal tips.
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/hainesii/090614ubnd4261m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/hainesii/090614ubnd4261m3.jpg
     caption: Sepals held away from the propagule.
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/gymnorrhiza/090118smkd5887m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/gymnorrhiza/090118smkd5887m3.jpg
     caption: Large flowers, each on one stalk. Calyx usually red, sometimes pale.
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/gymnorrhiza/090502cjf0890m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/gymnorrhiza/090502cjf0890m3a.jpg
     caption: Tassels on petal tips.
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/gymnorrhiza/090801prpd8001m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/gymnorrhiza/090801prpd8001m3a.jpg
     caption: Sepals bend towards the propagule.
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/sexangula/091213ubnd5854m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/sexangula/091213ubnd5854m3.jpg
     caption: Large flowers, each on one stalk. Calyx usually yellow.
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/sexangula/091230prpd6500m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/sexangula/091230prpd6500m3.jpg
     caption: No tassels on petal tips.
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/sexangula/100411prpd0923m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/sexangula/100411prpd0923m3a.jpg
     caption: Sepals extend away from the propagule.
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/parviflora/100411prpd1040m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/parviflora/100411prpd1040m3.jpg
     caption: Long narrow flowers, several on one stalk. Calyx very long and narrow,
       pale.
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/parviflora/110502prpd0442m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/parviflora/110502prpd0442m3a.jpg
     caption: Tassels on petal tips.
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/parviflora/090801prpd8079m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/parviflora/090801prpd8079m3b.jpg
     caption: Sepals clasp the propagule.
 links_references: '**Links**
 
@@ -175,7 +175,7 @@ The timber and other parts of these trees have many traditional applications. Se
 *Bruguiera sexangula*
 ) are both listed as 'Critically Endangered' in the Red List of threatened plants of Singapore.
 
-![](http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/gymnorrhiza/090809sjid8843m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/gymnorrhiza/090809sjid8843m6l.jpg)
 
 Tumu with buttress and knee roots
 *St. John's Island, Aug 09*

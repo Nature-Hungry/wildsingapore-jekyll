@@ -27,38 +27,38 @@ subterclass: Tectipleura
 superorder: Sacoglossa
 superfamily: Plakobranchoidea
 updated: Jun 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/050330labg3921m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/pusilla/050330labg3921m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/050330labg3921m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/pusilla/050330labg3921m3.jpg
     caption: Labrador, Mar 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/050330labg3921m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/pusilla/050330labg3921m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/050625labg8575m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/pusilla/050625labg8575m3.jpg
     caption: Labrador, Jun 05
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/101106brnjk.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/pusilla/101106brnjk.jpg
     caption: Terumbu Buran, Nov 11 Photo shared by James Koh on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/101106brnjk2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/pusilla/101106brnjk2.jpg
     caption: Seen on Bryopsis seaweed . Terumbu Buran, Nov 11 Photo shared by James
       Koh on flickr .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/251011tgrlks3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/pusilla/251011tgrlks3.jpg
     caption: Sentosa Tg Rimau, Oct 25 Shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/210712srpvc1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/pusilla/210712srpvc1.jpg
     caption: Sentosa Serapong, Jul 21 Photo shared by Vincent Choo on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/211204cyrtch1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/pusilla/211204cyrtch1.jpg
     caption: Cyrene, Dec 21 Photo shared by Toh Chay Hoon on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/170501tsmktch5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/pusilla/170501tsmktch5.jpg
     caption: Terumbu Semakau, May 17 Photo shared by Toh Chay Hoon on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/170501tsmktch5a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/pusilla/170501tsmktch5a.jpg
     caption: Terumbu Semakau, May 17 Photo shared by Toh Chay Hoon on facebook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/180615trytch1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/pusilla/180615trytch1.jpg
     caption: Terumbu Raya, Jun 18 Photo shared by Toh Chay Hoon on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/210823smkevc2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/pusilla/210823smkevc2.jpg
     caption: Pulau Semakau (East), Aug 21 Photo shared by Vincent Choo on facebook
       .
 links_references: "**Links**\n- [The Sea Slug Forum](http://www.seaslugforum.net/)\n\

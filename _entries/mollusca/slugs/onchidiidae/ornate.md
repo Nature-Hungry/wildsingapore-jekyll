@@ -21,21 +21,21 @@ superorder: Eupulmonata
 order: Systellommatophora
 superfamily: Onchidioidea
 updated: Jun 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/ornate/090125kntd6113m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/ornate/090125kntd6113m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/ornate/090125kntd6113m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/ornate/090125kntd6113m3.jpg
     caption: Kranji Nature Trail, Jan 09
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/ornate/090125kntd6113m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/ornate/090125kntd6113m3a.jpg
     caption: Eyes on stalks.
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/ornate/090125kntd6114m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/ornate/090125kntd6114m3.jpg
     caption: Underside
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/ornate/090208smkd6515m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/ornate/090208smkd6515m3.jpg
     caption: Pulau Semakau, Feb 09
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/ornate/090208smkd6515m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/ornate/090208smkd6515m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/ornate/090208smkd6516m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/ornate/090208smkd6516m3.jpg
     caption: ''
 location:
 - sbw

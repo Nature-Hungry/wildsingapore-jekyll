@@ -17,7 +17,7 @@ subphylum: Rhabditophora
 order: Polycladida
 suborder: Cotylea
 updated: Feb 2020
-coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/bedfordi/070324cyrd9371m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/bedfordi/070324cyrd9371m3.jpg
 links_references: "**Links**\n- [*Pseudobiceros\n  bedfordi*](http://seaslugs.free.fr/flatworm/planaire/pseudobiceros_bedfordi_a)\
   \ on the [South-west\n  Indian Ocean Flatworm site](http://seaslugs.free.fr/flatworm/planaire/a_intro):\
   \ fact sheets and photos with references.\n- [*Pseudobiceros\n  bedfordi*](http://polycladida.lifedesks.org/pages/3182)\
@@ -34,73 +34,73 @@ links_references: "**Links**\n- [*Pseudobiceros\n  bedfordi*](http://seaslugs.fr
   \ M., David W. Behrens and Gary C. Williams. 1996. *Coral\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bedfordi/070324cyrd9371m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/bedfordi/070324cyrd9371m3.jpg
     caption: Cyrene Reef, Mar 07
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bedfordi/070324cyrd9371m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/bedfordi/070324cyrd9371m3a.jpg
     caption: Pseudotentacles made up of folded body edges.
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bedfordi/060130hntg4262m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/bedfordi/060130hntg4262m3.jpg
     caption: Underside pink with black margin. Pulau Hantu, Jan 06
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bedfordi/230803skdky2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/bedfordi/230803skdky2.jpg
     caption: Pulau Sekudu, Aug 23 Photo shared by Jianlin Liu on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bedfordi/090607tmik1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/bedfordi/090607tmik1m3.jpg
     caption: Tanah Merah, Jun 09 Photo shared by Ivan Kwan on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bedfordi/220517sntrk1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/bedfordi/220517sntrk1.jpg
     caption: Sentosa Tg Rimau, May 22 Photo shared by Richard Kuah on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bedfordi/201116lazjll1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/bedfordi/201116lazjll1.jpg
     caption: Lazarus Island, Nov 20 Photo shared by Jianlin Liu on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bedfordi/141109lazlks2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/bedfordi/141109lazlks2m3.jpg
     caption: Seringat-Kias, Nov 14 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bedfordi/220104tkkvc2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/bedfordi/220104tkkvc2.jpg
     caption: Pulau Tekukkor, Jan 22 Photo shared by Vincent Choo on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bedfordi/140503sislks1m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/bedfordi/140503sislks1m3.JPG
     caption: Sisters Island, May 14 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bedfordi/230122jngvc1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/bedfordi/230122jngvc1.jpg
     caption: Pulau Jong, Jan 23 Photo shared by Vincent Choo on facebook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bedfordi/201019sjivc1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/bedfordi/201019sjivc1.jpg
     caption: St John's Island, Oct 20 Photo shared by Vincent Choo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bedfordi/070507sjid1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/bedfordi/070507sjid1m3.jpg
     caption: St John's Island, May 07 Photo shared by Dickson on his blog .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bedfordi/190523hntmn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/bedfordi/190523hntmn1.jpg
     caption: Pulau Hantu, May 19* Photo shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bedfordi/190520hnttch3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/bedfordi/190520hnttch3.jpg
     caption: Pulau Hantu, May 19 Photo shared by Toh Chay Hoon on facebook .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bedfordi/081001smklksm3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/bedfordi/081001smklksm3.jpg
     caption: Pulau Semakau, Oct 08 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bedfordi/200111smksjll2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/bedfordi/200111smksjll2.jpg
     caption: Pulau Semakau South, Jan 20 Photo shared by Jianlin Liu on facebook .
   gallery9:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bedfordi/141009smknjll1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/bedfordi/141009smknjll1m3.jpg
     caption: Pulau Semakau North, Nov 14 Photo shared by Jianlin Liu on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bedfordi/231030smkjk1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/bedfordi/231030smkjk1.jpg
     caption: Pulau Semakau North, Oct 23 Photo shared by James Koh on facebook .
   gallery10:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bedfordi/121105tsmkhpy1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/bedfordi/121105tsmkhpy1m3.jpg
     caption: Terumbu Semakau, Nov 12 Photo shared by Heng Pei Yan on her blog .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bedfordi/180717tbll6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/bedfordi/180717tbll6.jpg
     caption: Terumbu Bemban, Jul 18 Photo shared by Lisa Lim on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bedfordi/181124bbbjll1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/bedfordi/181124bbbjll1.jpg
     caption: Beting Bemban Besar, Nov 18 Photo shared by Jianlin Liu on facebook .
   gallery11:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bedfordi/181125jt.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/bedfordi/181125jt.jpg
     caption: Terumbu Pempang Tengah, Nov 18 Photo shared by Juria Toramae on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bedfordi/190521tpljll1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/bedfordi/190521tpljll1.jpg
     caption: Terumbu Pempang Laut, May 19 Photo shared by Jianlin Liu on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bedfordi/150121tpkjll1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/bedfordi/150121tpkjll1m3.jpg
     caption: Terumbu Pempang Kecil, Jan 15 Photo shared by Jianlin Liu on facebook
       .
   gallery12:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bedfordi/100613snglks1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/bedfordi/100613snglks1m3.jpg
     caption: Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bedfordi/220102biojll1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/bedfordi/220102biojll1.jpg
     caption: Pulau Biola, Jan 22 Photo shared by Jianlin Liu on facebook .
   gallery13:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1

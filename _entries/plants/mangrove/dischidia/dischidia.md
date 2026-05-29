@@ -23,21 +23,21 @@ subfamily: Asclepiadoideae
 tribe: Marsdenieae
 inat_id: 345969
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/dischidia/dischidia/040501cjd0003m6.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/dischidia/dischidia/040501cjd0003m6.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/dischidia/dischidia/030913cjd0026m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/dischidia/dischidia/030913cjd0026m3.jpg
     caption: Roots grow nside the hollow leaf. Chek Jawa, Sep 03
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/dischidia/dischidia/040501cjd0003m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/dischidia/dischidia/040501cjd0003m3a.jpg
     caption: Small circular fat leaves. Chek Jawa, May 04
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/dischidia/dischidia/040501cjd0003m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/dischidia/dischidia/040501cjd0003m3.jpg
     caption: Large hollow leaves. Chek Jawa, May 04
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/dischidia/dischidia/110317mndd7360m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/dischidia/dischidia/110317mndd7360m6l.jpg
     caption: Mandai, Mar 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/dischidia/dischidia/110317mndd7360m6la.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/dischidia/dischidia/110317mndd7360m6la.jpg
     caption: Fruit pods. Mandai, Mar 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/dischidia/dischidia/110317mndd7360m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/dischidia/dischidia/110317mndd7360m3b.jpg
     caption: Flower bud. Mandai, Mar 11 Chek Jawa, Sep 09
 links_references: '**Links**
 
@@ -106,7 +106,7 @@ Many of our
 *Dischia*
 species are listed as 'Nationally Extinct' or 'Critically Endangered' on the Red List of threatened plants of Singapore.
 
-![](http://www.wildsingapore.com/wildfacts/plants/mangrove/dischidia/dischidia/040501cjd0003m6.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/dischidia/dischidia/040501cjd0003m6.jpg)
 
 *Chek Jawa, May 04*
 

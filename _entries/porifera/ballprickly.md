@@ -16,24 +16,24 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Tethyida
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/porifera/ballprickly/040409tusbd0078m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/ballprickly/040409tusbd0078m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/ballprickly/090113prpd5187m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/ballprickly/090113prpd5187m3a.jpg
     caption: Sometimes with raised polygonal bumps.
-  - url: http://www.wildsingapore.com/wildfacts/porifera/ballprickly/090113prpd5187m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/ballprickly/090113prpd5187m3.jpg
     caption: Pasir Ris, Jan 09
-  - url: http://www.wildsingapore.com/wildfacts/porifera/ballprickly/120125chgd6067m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/ballprickly/120125chgd6067m3a.jpg
     caption: Filaments anchor or root the sponge to a hard surface.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/ballprickly/081211smkd2810m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/ballprickly/081211smkd2810m3.jpg
     caption: Pulau Semakau, Dec 08
-  - url: http://www.wildsingapore.com/wildfacts/porifera/ballprickly/081211smkd2810m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/ballprickly/081211smkd2810m3b.jpg
     caption: Buds on ends of stalks may develop into new sponges.
-  - url: http://www.wildsingapore.com/wildfacts/porifera/ballprickly/120125chgd6062m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/ballprickly/120125chgd6062m3.jpg
     caption: Inside of the sponge. Changi, Jan 12
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/ballprickly/120112smbs02077m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/ballprickly/120112smbs02077m3.jpg
     caption: Sembawang, Jan 12
 links_references: '**Links**
 
@@ -91,10 +91,10 @@ the
 [Golf ball sponge](golfball)
 which has a denser coat of finer spines without bulbous tips and which never have stringy tissues to anchor the sponge to the surface.
 
-![](http://www.wildsingapore.com/wildfacts/porifera/ballprickly/040409tusbd0078m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/porifera/ballprickly/040409tusbd0078m3.jpg)
 
 *Tuas, Apr 04*
-![](http://www.wildsingapore.com/wildfacts/porifera/ballprickly/120125chgd6067m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/porifera/ballprickly/120125chgd6067m3.jpg)
 
 *Changi, Jan 12*
 

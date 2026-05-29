@@ -22,7 +22,7 @@ class: Magnoliopsida
 order: Lamiales
 subfamily: Ajugoideae
 updated: Jan 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/clerodendrum/inerme/090411lckd9586m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/clerodendrum/inerme/090411lckd9586m6l.jpg
 links_references: "**Links**\n- *[Clerodendrum\n  inerme](http://floraofsingapore.wordpress.com/2010/07/14/clerodendrum-inerme/)*\
   \ on Total Vascular Flora of Singapore Online: photos\n  and fact sheet.\n- [*Volkameria\n\
   \  inermis*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=1823)\
@@ -34,11 +34,11 @@ links_references: "**Links**\n- *[Clerodendrum\n  inerme](http://floraofsingapor
   **References**\n- Hsuan Keng,\n  S.C. Chin and H. T. W. Tan. 1990, *[The\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/clerodendrum/inerme/090517ubnd1946m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/clerodendrum/inerme/090517ubnd1946m3.jpg
     caption: Pulau Ubin, May 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/clerodendrum/inerme/110317mndd7324m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/clerodendrum/inerme/110317mndd7324m3a.jpg
     caption: Mandai, Mar 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/clerodendrum/inerme/090411lckd9574m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/clerodendrum/inerme/090411lckd9574m3.jpg
     caption: Lim Chu Kang, Apr 09
   gallery2:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -76,7 +76,7 @@ Fruit round or egg-shaped (1cm), green ripening to black. The dry fruit then bre
 **Human uses:**
 According to Giesen, the seeds and roots are used to treat poisoning from fish and other marine animals. The leaves are used to treat wounds, and fruits to dysentery. The leaves are used in an appetizer dish in Indonesia.
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/clerodendrum/inerme/090411lckd9586m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/clerodendrum/inerme/090411lckd9586m6l.jpg)
 
 *Lim Chu Kang, Apr 09*
 **

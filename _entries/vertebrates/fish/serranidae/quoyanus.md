@@ -23,15 +23,15 @@ superorder: Acanthomorpha
 order: Perciformes
 suborder: Percoidei
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/quoyanus/110602tmftd3552m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/serranidae/quoyanus/110602tmftd3552m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/quoyanus/110602tmftd3552m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/serranidae/quoyanus/110602tmftd3552m3.jpg
     caption: Tanah Merah, Jun 11
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/quoyanus/110418tmftd9031m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/serranidae/quoyanus/110418tmftd9031m6l.jpg
     caption: Tanah Merah, Apr 11
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/quoyanus/180106sntay1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/serranidae/quoyanus/180106sntay1.jpg
     caption: Sentosa Tg Rimau, Jan 18 Photo shared by Abel Yeo on facebook .
 links_references: '**Links**
 

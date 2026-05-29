@@ -20,28 +20,28 @@ subclass: Corallinophycidae
 order: Corallinales
 suborder: Corallinineae
 updated: Jan 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/080207sisg2261m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomthick/080207sisg2261m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/080919sntd0623m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomflat/080919sntd0623m3.jpg
     caption: Growing among sponges on rocks. Sentosa, Sep 08
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/110520chgd2384m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomslender/110520chgd2384m3.jpg
     caption: Growing on an abandoned rope in seagrass meadows. Changi, May 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/080425cyrd1775m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomslender/080425cyrd1775m3b.jpg
     caption: Loose tangles growing among seagrasses forming a crunchy carpet. Cyrene
       Reef, Apr 08
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/070902skdg2154m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomslender/070902skdg2154m3.jpg
     caption: Slender crunchy pom pom seaweed
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/071026cyrd7131m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomthick/071026cyrd7131m3.jpg
     caption: Thick crunchy pom pom seaweed
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/070602sjig9819m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomflat/070602sjig9819m3.jpg
     caption: Flat crunchy pom pom red seaweed
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/070902skdg2154m3d.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomslender/070902skdg2154m3d.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/071026cyrd7131m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomthick/071026cyrd7131m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/070602sjig9819m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomflat/070602sjig9819m3b.jpg
     caption: ''
 links_references: '**Links**
 
@@ -115,7 +115,7 @@ There are many pinkish seaweeds with a pom pom shape that belong to Family Coral
 **Cosy home:**
 All kinds of tiny creatures are sometimes seen among the 'branches'. From small snails to tiny seahorses. Seastars, especially juveniles, are often abundant on 'meadows' of these crunchy seaweed.
 
-*![](http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/080207sisg2261m3.jpg)*
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomthick/080207sisg2261m3.jpg)*
 Growing in clumps on coral rubble near reefs.
 *Sisters Island, Feb 08
 

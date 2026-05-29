@@ -23,17 +23,17 @@ subfamily: Salticinae
 tribe: Plexippini
 subtribe: Plexippina
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/arachnida/hyllus/090704ubnd6404m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/arachnida/hyllus/090704ubnd6404m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/arachnida/hyllus/090704ubnd6404m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/arachnida/hyllus/090704ubnd6404m3.jpg
     caption: Pulau Ubin, Jul 09
-  - url: http://www.wildsingapore.com/wildfacts/arachnida/hyllus/090704ubnd6405m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/arachnida/hyllus/090704ubnd6405m3.jpg
     caption: Pulau Ubin, Jul 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/arachnida/hyllus/110809smkmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/arachnida/hyllus/110809smkmn.jpg
     caption: Pulau Semakau, Aug 11 Photo shared by Marcus Ng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/arachnida/hyllus/251213prprqo4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/arachnida/hyllus/251213prprqo4.jpg
     caption: Pasir Ris Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
 links_references: '**Links**
 

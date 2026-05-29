@@ -20,7 +20,7 @@ superorder: Imparidentia
 order: Cardiida
 superfamily: Cardioidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/040123sisd0129m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tridacnidae/squamosa/040123sisd0129m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -33,34 +33,34 @@ galleries:
       algae in their bodies. The algae provides the clams food. They are globally
       endangered due to overcollection as a delicacy.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/040123sisd0129m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tridacnidae/squamosa/040123sisd0129m3.jpg
     caption: The Fluted giant clam is usually firmly attached to a hard surface. Sisters
       Island, Jan 04
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/crocea/210823smkevc3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tridacnidae/crocea/210823smkevc3.jpg
     caption: Shell is anchored by a large byssus mass that emerges from a gap at the
       bottom. Seen here in this dead clam. Pulau Semakau (East), Aug 21 Photo shared
       by Vincent Choo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/crocea/050312hntg3342m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tridacnidae/crocea/050312hntg3342m3.jpg
     caption: The Burrowing giant clam are often embedded inside corals. Pulau Hantu,
       Mar 05
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/crocea/060211hntg4575m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tridacnidae/crocea/060211hntg4575m3.jpg
     caption: Burrowing giant clam. Pulau Hantu, Feb 06
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/081113jngd1820m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tridacnidae/squamosa/081113jngd1820m3.jpg
     caption: Fluted giant clam. Pulau Jong, Nov 08
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/crocea/180812cyrm6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tridacnidae/crocea/180812cyrm6l.jpg
     caption: Burrowing giant clam. Cyrene, Aug 18
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/130717bsisd0581m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tridacnidae/squamosa/130717bsisd0581m3.jpg
     caption: Fluted giant clam. Big Sisters Island, Jul 13
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/130628thntd9014m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tridacnidae/squamosa/130628thntd9014m3.jpg
     caption: Fluted giant clam. Terumbu Hantu, Jun 13
   gallery4:
   - url: https://live.staticflickr.com/1681/26583361756_e8899b025a_z.jpg
     caption: ''
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/040123sisd0129m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tridacnidae/squamosa/040123sisd0129m3.jpg
     caption: Fluted giant clam
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/crocea/050312hntg3342m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tridacnidae/crocea/050312hntg3342m3.jpg
     caption: Burrowing giant clam
 links_references: "**Links**\n- [Giant Clam (\n*Tridacna squamosa*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/267)\n\
   Tan, Leo W. H. & Ng, Peter K. L., 1988.\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n\

@@ -21,17 +21,17 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Ericales
 updated: Dec 09
-coverimg: http://www.wildsingapore.com/wildfacts/plants/fruittrees/manilkara/zapota/091213ubnd5792m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/manilkara/zapota/091213ubnd5792m6l.jpg
 links_references: "**Links**\n- [Sapodilla\n  (*Manilkara zapota*)](http://www.hort.purdue.edu/newcrop/morton/sapodillal)\
   \ New Crop Resource Online Program\n  at Purdue University.\n\n**References**\n\
   - Hsuan Keng,\n  S.C. Chin and H. T. W. Tan. 1990, *[The\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/manilkara/zapota/091213ubnd5791m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/manilkara/zapota/091213ubnd5791m3.jpg
     caption: Pulau Ubin, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/manilkara/zapota/091213ubnd5790m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/manilkara/zapota/091213ubnd5790m3.jpg
     caption: Pulau Ubin, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/manilkara/zapota/091213ubnd5789m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/manilkara/zapota/091213ubnd5789m3.jpg
     caption: Pulau Ubin, Dec 09
   gallery2:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -66,7 +66,7 @@ The fruits are relished by bats. I've observed a steady stream of
 **Human uses:**
 According to Burkill, while in Asia it is valued for its fruits, in its native tropical America it is valued for its timber and latex. The gummy latex called 'chicle' was used as an ingredient in chewing gum. Burkill says it 'becomes plastic at the temperature of the mouth'. It has since been replaced by synthetic gums.
 
-![](http://www.wildsingapore.com/wildfacts/plants/fruittrees/manilkara/zapota/091213ubnd5792m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/manilkara/zapota/091213ubnd5792m6l.jpg)
 
 *Pulau Ubin, Dec 09*
 

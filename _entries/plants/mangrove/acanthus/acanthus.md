@@ -23,14 +23,14 @@ tribe: Acantheae
 subtribe: Acanthinae
 inat_id: 70046
 updated: Jan 2013
-coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/acanthus/acanthus/090125kntd6093m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/acanthus/acanthus/090125kntd6093m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/acanthus/acanthus/090322krjd8344m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/acanthus/acanthus/090322krjd8344m3.jpg
     caption: Kranji Canal, Mar 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/acanthus/acanthus/090125kntd6093m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/acanthus/acanthus/090125kntd6093m3a.jpg
     caption: Kranji Nature Trail, Jan 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/acanthus/acanthus/090816ubind9154m6la.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/acanthus/acanthus/090816ubind9154m6la.jpg
     caption: Sometimes scrambling up trees. Pulau Ubin, Aug 09
 links_references: '**Links**
 
@@ -189,18 +189,18 @@ are listed as 'Vulnerable' in the Red List of threatened plants of Singapore.
 
 **
 **
-![](http://www.wildsingapore.com/wildfacts/plants/mangrove/acanthus/acanthus/090125kntd6093m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/acanthus/acanthus/090125kntd6093m3.jpg)
 
 Sometimes the same plant may have
 
 spiky as well as smooth leaves.
 *Kranji Nature Trail, Jan 09
 
-![](http://www.wildsingapore.com/wildfacts/plants/mangrove/acanthus/acanthus/090322krjd8345m3.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/acanthus/acanthus/090322krjd8345m3.jpg)*
 Exploded fruit capsule.
 *Kranji Canal, Mar 09
 
-![](http://www.wildsingapore.com/wildfacts/plants/mangrove/acanthus/acanthus/130102kntd3007m3.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/acanthus/acanthus/130102kntd3007m3.jpg)*
 Flower structure to allow the flower
 
 to pick up pollen from insect visitors
@@ -208,7 +208,7 @@ to pick up pollen from insect visitors
 before deposting pollen as they depart.
 *Kranji Nature Trail, Jan 13
 
-![](http://www.wildsingapore.com/wildfacts/plants/mangrove/acanthus/acanthus/090913kntd0812m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/acanthus/acanthus/090913kntd0812m6l.jpg)
 
 Kranji Nature Trail, Sep 09*
 

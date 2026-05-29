@@ -26,7 +26,7 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Oxudercinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/121227prpd2761m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/schlosseri/121227prpd2761m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -38,25 +38,25 @@ galleries:
       'swimming pool' and often found near it. It has a different body pattern at
       night than during the daytime.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/121227prpd2761m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/schlosseri/121227prpd2761m3.jpg
     caption: 'Night pattern: additional dark bars. Pasir Risk Park, Dec 12'
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/150313deadfishd2601m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/schlosseri/150313deadfishd2601m6l.jpg
     caption: 'Day pattern: dark stripe along the body. Pasir Ris Park, Feb 12'
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/120215sbwrd6794m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/schlosseri/120215sbwrd6794m3.jpg
     caption: A tunnel at the base of the 'swimming pool'. Sungei Buloh Wetland Reserve,
       Feb 12
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/120215sbwrd6810m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/schlosseri/120215sbwrd6810m3.jpg
     caption: Swirling at the base of the pool face down. Sungei Buloh Wetland Reserve,
       Feb 12
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/120215sbwrd6815m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/schlosseri/120215sbwrd6815m3.jpg
     caption: Then spitting out a mouthful of mud.
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/120215prpd7035m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/schlosseri/120215prpd7035m3.jpg
     caption: Pasir Ris Park, Feb 12
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/120215prpd7035m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/schlosseri/120215prpd7035m3a.jpg
     caption: The poor fish often a target of mosquitoes!
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/120215prpd7035m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/schlosseri/120215prpd7035m3b.jpg
     caption: ''
 links_references: "**Links**\n- [Giant mudskipper (\n*Periophthalmodon schlosseri*\n\
   )](http://mangrove.nus.edu.sg/guidebooks/text/2106)\nNg, Peter K. L. & N. Sivasothi,\

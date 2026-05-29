@@ -22,17 +22,17 @@ order: Ellobiida
 superfamily: Ellobioidea
 subfamily: Pythiinae
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/pythia/110406sbbd8682m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ellobiidae/pythia/110406sbbd8682m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/pythia/110406sbbd8682m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ellobiidae/pythia/110406sbbd8682m3.jpg
     caption: Sungei Buloh Besar, Apr 11
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/pythia/090112smkd5042m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ellobiidae/pythia/090112smkd5042m3.jpg
     caption: Pulau Semakau, Jan 09
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/pythia/031204prpad0039m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ellobiidae/pythia/031204prpad0039m3.jpg
     caption: Pasir Ris Park, Dec 03
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/pythia/110406sbbd8644m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ellobiidae/pythia/110406sbbd8644m6l.jpg
     caption: Sungei Buloh Besar, Apr 11
 links_references: '**Links**
 

@@ -28,88 +28,88 @@ suborder: Doridina
 infraorder: Doridoidei
 superfamily: Phyllidioidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/pustulosa/050528kusg7068m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/pustulosa/050528kusg7068m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/pustulosa/050528kusg7068m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/pustulosa/050528kusg7068m3.jpg
     caption: Kusu Island, May 05 Coloured margin around the body edge.
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/pustulosa/060211hntg4690m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/pustulosa/060211hntg4690m3a.jpg
     caption: Pulau Hantu, Feb 06 Gills on the sides of the body.
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/pustulosa/110731tryd7959m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/pustulosa/110731tryd7959m3.jpg
     caption: Terumbu Raya, Jul 11 Bare patch under the nudibranch - was it eating
       the sponge?
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/pustulosa/060323ulrd0424m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/pustulosa/060323ulrd0424m3.jpg
     caption: Tiny ones about 1cm are sometimes seen. Pulau Hantu, Mar 06
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/pustulosa/060323ulrd0328m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/pustulosa/060323ulrd0328m3a.jpg
     caption: Some have pink bumps. Pulau Hantu, Mar 06
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/pustulosa/190608bbbjll1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/pustulosa/190608bbbjll1.jpg
     caption: Some have pale blue bumps. Beting Bemban Besar, Jun 19 Photo shared by
       Jianlin Liu on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/pustulosa/220618tmftlks6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/pustulosa/220618tmftlks6.jpg
     caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/pustulosa/251108ecpbky8.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/pustulosa/251108ecpbky8.jpg
     caption: East Coast Park (B), Nov 25 Photo shared by Kelvin Yong on facebook
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/pustulosa/100528tkknml3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/pustulosa/100528tkknml3m3.jpg
     caption: Pulau Tekukor, May 10 Photo shared by Neo Mei Lin on her blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/pustulosa/240528tsllks7.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/pustulosa/240528tsllks7.jpg
     caption: Terumbu Selegie, May 24 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/pustulosa/090711sjilks1m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/pustulosa/090711sjilks1m3.JPG
     caption: St. John's Island, Jul 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/pustulosa/250811jngjk3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/pustulosa/250811jngjk3.jpg
     caption: Pulau Jong, May 25 Photo shared byJayden Kang on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/pustulosa/130628thntlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/pustulosa/130628thntlks.JPG
     caption: Terumbu Hantu, Jun 13 Photo shared by Loh Kok Sheng on flickr .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/pustulosa/100131slulks10m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/pustulosa/100131slulks10m3.jpg
     caption: Pulau Semakau, Dec 08 Photo shared byLoh Kok Sheng on his flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/pustulosa/071225smkmn02m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/pustulosa/071225smkmn02m3a.jpg
     caption: Pulau Semakau, Dec 08 Photo shared by Marcus Ng on his flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/pustulosa/210402tmskjll7.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/pustulosa/210402tmskjll7.jpg
     caption: Terumbu Semakau, Apr 21 Photo shared by Jianlin Liu on facebook .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/pustulosa/100502trygl1m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/pustulosa/100502trygl1m3.JPG
     caption: Terumbu Raya, May 10 Photo shared by Geraldine Lee on her blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/pustulosa/150606tryjt1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/pustulosa/150606tryjt1m3.jpg
     caption: Terumbu Raya, Jun 15 Photo shared by Juria Toramae on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/pustulosa/110731trylks3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/pustulosa/110731trylks3m3.jpg
     caption: Terumbu Raya, Jul 11 Photo shared by Lok Kok Sheng on his blog .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/pustulosa/170627tbay5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/pustulosa/170627tbay5.jpg
     caption: Terumbu Bemban, Jun 17 Photo shared by Abel Yeo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/pustulosa/100617tblks3m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/pustulosa/100617tblks3m3.JPG
     caption: Terumbu Bemban, Jun 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/pustulosa/200625tbdc5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/pustulosa/200625tbdc5.jpg
     caption: Terumbu Bemban, Jun 20 Photo shared by Dayna Cheah on facebook .
   gallery9:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/pustulosa/110522bbblks10m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/pustulosa/110522bbblks10m3.jpg
     caption: Beting Bemban Besar, May 11 Photo shared by Loh Kok Sheng on his blog
       .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/pustulosa/180815bbbdc1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/pustulosa/180815bbbdc1.jpg
     caption: Beting Bemban Besar, Aug 18 Photo shared by Dayna Cheah on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/pustulosa/190608bbbjll4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/pustulosa/190608bbbjll4.jpg
     caption: Beting Bemban Besar, Jun 19 Photo shared by Jianlin Liu on facebook .
   gallery10:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/pustulosa/100629tpdjk8m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/pustulosa/100629tpdjk8m3.jpg
     caption: Terumbu Pempang Darat, Jun 10 Photo shared by James Koh on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/pustulosa/250515tptky2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/pustulosa/250515tptky2.jpg
     caption: Terumbu Pempang Tengah, May 25 Photo shared by Kelvin Yong on facebook
       ..
   gallery11:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/pustulosa/160806tplmn3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/pustulosa/160806tplmn3.jpg
     caption: Terumbu Pempang Laut, Jul 16 Photo shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/pustulosa/250712tplmn3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/pustulosa/250712tplmn3.jpg
     caption: Terumbu Pempang Laut, Jul 25 Photo shared by Marcus Ng on facebook .
   gallery12:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/pustulosa/100531bioc4518m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/pustulosa/100531bioc4518m3.jpg
     caption: Pulau Biola, May 10
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/pustulosa/091205pawlks4m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/pustulosa/091205pawlks4m3.jpg
     caption: Pulau Pawai, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/pustulosa/210428slulks3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/pustulosa/210428slulks3.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 

@@ -23,41 +23,41 @@ class: Asteroidea
 superorder: Valvatacea
 order: Paxillosida
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/080705bbd7206m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/craspidaster/080705bbd7206m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/080705bbd7206m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/craspidaster/080705bbd7206m3.jpg
     caption: Beting Bronok, Jul 08
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/080705bbd7204m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/craspidaster/080705bbd7204m3a.jpg
     caption: Paxillae cover the upper body.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/080705bbd7199m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/craspidaster/080705bbd7199m3.jpg
     caption: Underside.
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/080705bbd7198m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/craspidaster/080705bbd7198m3c.jpg
     caption: Pointed tube feet.
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/250627bbrk4b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/craspidaster/250627bbrk4b.jpg
     caption: Pointed tube feet. Beting Bronok, Jun 25 Photo shared by Richard Kuah
       on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/250627bbrk4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/craspidaster/250627bbrk4.jpg
     caption: Beting Bronok, Jun 25 Photo shared by Richard Kuah on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/250627bbrk4a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/craspidaster/250627bbrk4a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/250627bbrk4b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/craspidaster/250627bbrk4b.jpg
     caption: ''
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/160607bbjll1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/craspidaster/160607bbjll1.jpg
     caption: Beting Bronok, Jun 16 Shared by Jianlin Liu on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/170625bbmn3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/craspidaster/170625bbmn3.jpg
     caption: Beting Bronok, Jun 17 Shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/180616bblks16.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/craspidaster/180616bblks16.jpg
     caption: Beting Bronok, Jun 18 Shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/090207tmlks03m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/craspidaster/090207tmlks03m3.jpg
     caption: East Coast Park, Feb 09 Shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/140713bblks4m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/craspidaster/140713bblks4m3.jpg
     caption: Beting Bronok, Jul 14 Shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/160607bbjll1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/craspidaster/160607bbjll1.jpg
     caption: Beting Bronok, Jun 16 Shared by Jianlin Liu on facebook .
 links_references: '**Links**
 

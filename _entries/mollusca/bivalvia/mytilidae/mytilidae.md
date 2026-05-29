@@ -18,7 +18,7 @@ infraclass: Pteriomorphia
 order: Mytilida
 superfamily: Mytiloidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/040121chgd0031m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/viridis/040121chgd0031m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -29,22 +29,22 @@ galleries:
     caption: Some species of mussels can bore into concrete. Some tiny mussels live
       in a colony of thousands. Mussels can cause food poisoning.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/040121chgd0031m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/viridis/040121chgd0031m3.jpg
     caption: Green mussels growing on a large boulder. Changi, Jan 04
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/070803cjd5010m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/musculista/070803cjd5010m3.jpg
     caption: Nest mussels can form vast mats Chek Jawa, Aug 07
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/070704skdd3544m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/viridis/070704skdd3544m3.jpg
     caption: Tiny Green mussels growing among tinier Nest mussels . Pulau Sekudu,
       Jul 07
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/031207cjd0034m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/viridis/031207cjd0034m3.jpg
     caption: Green mussels
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/modiolus/130820skdd1497m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/modiolus/130820skdd1497m3.jpg
     caption: Horse mussels
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/xenostrobus/080704skdd6838m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/xenostrobus/080704skdd6838m3a.jpg
     caption: Little black mussels
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/070704skdd3541m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/musculista/070704skdd3541m3.jpg
     caption: Nest mussels
 links_references: '**Links**
 

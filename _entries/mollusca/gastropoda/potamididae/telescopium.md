@@ -25,7 +25,7 @@ class: Gastropoda
 subclass: Caenogastropoda
 superfamily: Cerithioidea
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5518m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5518m3.jpg
 links_references: "**Links**\n- [Rodong/Berongan\n  (*Telescopium telescopium*)](http://mangrove.nus.edu.sg/guidebooks/text/2084.htm)\
   \ Ng, Peter K. L. & N. Sivasothi,\n  1999. *[A Guide\n  to the Mangroves of Singapore\
   \ II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore\n \
@@ -53,14 +53,14 @@ galleries:
       mangroves. It is edible and was eaten in the past, less so these days. It is
       a harmless herbivore, nibbling on algae.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5518m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5518m3.jpg
     caption: Sungei Buloh Wetland Reserve, Mar 06
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5519m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5519m3.jpg
     caption: Mating? Sungei Buloh Wetland Reserve, Mar 06
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5564m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5564m3.jpg
     caption: Laying eggs? Sungei Buloh Wetland Reserve, Mar 06
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/telescopium/251219cnyrqo1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/telescopium/251219cnyrqo1.jpg
     caption: Coney Island, Dec 25 Photo shared by Rui Quan Oh on facebook .
   gallery4:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1

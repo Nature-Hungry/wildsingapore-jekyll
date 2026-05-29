@@ -24,7 +24,7 @@ order: Gobiiformes
 suborder: Apogonoidei
 subfamily: Apogoninae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/orbicularis/040830hntd5831m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/orbicularis/040830hntd5831m3.jpg
 links_references: "**Links**  \n- [Orbicular\n  cardinalfish (*Sphaeramia orbicularis*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/279)\
   \ Lim, Kelvin K.\n  P. & Jeffrey K. Y. Low, 1998. *[A\n  Guide to the Common Marine\
   \ Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore\n\
@@ -33,16 +33,16 @@ links_references: "**Links**  \n- [Orbicular\n  cardinalfish (*Sphaeramia orbicu
   - Allen, Gerry,\n  2000. *Marine\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/orbicularis/040830hntd5831m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/orbicularis/040830hntd5831m3.jpg
     caption: Pulau Hantu, Aug 04
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/orbicularis/190520hntlks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/orbicularis/190520hntlks1.jpg
     caption: Pulau Hantu, May 19 Photo shared by Loh Kok Sheng on facebook .
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/orbicularis/090510sntik3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/orbicularis/090510sntik3m3.jpg
     caption: Siloso, May 09 Photo shared by Ivan Kwan on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/orbicularis/250714srptl1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/orbicularis/250714srptl1.jpg
     caption: Sentosa Serapong, Jul 25 Photo shared by Tammy Lim on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/orbicularis/240623hntlks7.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/orbicularis/240623hntlks7.jpg
     caption: Pulau Hantu, Jun 24 Shared by Loh Kok Sheng on facebook .
   gallery3:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1

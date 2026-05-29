@@ -17,37 +17,37 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/tree/101008tusc7643m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/tree/101008tusc7643m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/tree/101008tusc7643m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/tree/101008tusc7643m3.jpg
     caption: Tuas, Oct 10
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/tree/050821bbg2020m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/tree/050821bbg2020m3.jpg
     caption: Beting Bronok, Aug 05 Swollen nodes at branching points.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/tree/160510ecpbsjt4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/tree/160510ecpbsjt4.jpg
     caption: East Coast Park, May 16 Photo shared by Jonathan Tan on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/tree/210628ecpBlks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/tree/210628ecpBlks1.jpg
     caption: East Coast Park (B), Jun 21 Photo shared by Loh Kok Sheng on facebook
       .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/tree/210628ecpBlks2a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/tree/210628ecpBlks2a.jpg
     caption: East Coast Park (B), Jun 21 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/tree/210628ecpBlks2b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/tree/210628ecpBlks2b.jpg
     caption: ''
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/tree/140519srplks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/tree/140519srplks.JPG
     caption: Sentosa Serapong, May 14 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/tree/110422tbmlks13m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/tree/110422tbmlks13m3.jpg
     caption: Terumbu Bemban, Apr 11 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/tree/100617tsmklks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/tree/100617tsmklks.JPG
     caption: Terumbu Semakau, Jun 10 Photo shared by Loh Kok Sheng on flickr .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/tree/130427tptlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/tree/130427tptlks.JPG
     caption: Terumbu Pempang Tengah, Apr 13 Photo shared by Loh Kok Sheng on flickr
       .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/tree/210502tptlks7.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/tree/210502tptlks7.jpg
     caption: Terumbu Pempang Tengah, May 21 Photo shared by Loh Kok Sheng on facenook
       .
 links_references: '**Links**

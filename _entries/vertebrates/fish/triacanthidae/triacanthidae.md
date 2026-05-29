@@ -23,7 +23,7 @@ superorder: Acanthomorpha
 order: Tetraodontiformes
 suborder: Triacanthodoidei
 updated: Nov 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/triacanthidae/triacanthidae/020225cjcpd7376m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/triacanthidae/triacanthidae/020225cjcpd7376m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -35,43 +35,43 @@ galleries:
       do indeed have three spines. Don't take the fish out of the water or it may
       die.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/triacanthidae/triacanthidae/020225cjcpd7376m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/triacanthidae/triacanthidae/020225cjcpd7376m3.jpg
     caption: Chek Jawa, Feb 02
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/triacanthidae/triacanthidae/031213sbwrd0034m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/triacanthidae/triacanthidae/031213sbwrd0034m6l.jpg
     caption: Sungei Buloh Wetland Reserve, Dec 03
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/triacanthidae/triacanthidae/050622cftg8073m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/triacanthidae/triacanthidae/050622cftg8073m6l.jpg
     caption: Disappears when seen from above! Changi, Jun 05
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/triacanthidae/triacanthidae/050818cftg1406m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/triacanthidae/triacanthidae/050818cftg1406m3.jpg
     caption: About 2cm long, this juvenile has flaps on its pointed fins. Changi,
       Aug 05 .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/triacanthidae/triacanthidae/201019cnyrk9.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/triacanthidae/triacanthidae/201019cnyrk9.jpg
     caption: Coney Island, Oct 20 Shared by Richard Kuah on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/triacanthidae/triacanthidae/090514prplks3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/triacanthidae/triacanthidae/090514prplks3m3.jpg
     caption: Pasir Ris, May 09 Shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/triacanthidae/triacanthidae/260103prpezxh7.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/triacanthidae/triacanthidae/260103prpezxh7.jpg
     caption: Pasir Ris Park (E), Jan 26 Photo shared by Zen Xuan He on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/triacanthidae/triacanthidae/240821skdch3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/triacanthidae/triacanthidae/240821skdch3.jpg
     caption: Pulau Sekudu, Aug 24 Photo shared by Chay Hoon on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/triacanthidae/triacanthidae/240821skdn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/triacanthidae/triacanthidae/240821skdn1.jpg
     caption: Pulau Sekudu, Aug 24 Photo shared by Muhd Nasry on facebook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/triacanthidae/triacanthidae/160705cjlks4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/triacanthidae/triacanthidae/160705cjlks4.jpg
     caption: Chek Jawa, Jul 16 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/triacanthidae/triacanthidae/220716bbccn2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/triacanthidae/triacanthidae/220716bbccn2.jpg
     caption: Beting Bronok, Jul 22 Shared by Che Cheng Neo on facebook .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/triacanthidae/triacanthidae/251205cjrg1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/triacanthidae/triacanthidae/251205cjrg1.jpg
     caption: Chek Jawa, Dec 25 Photo shared by Rachael Goh on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/triacanthidae/triacanthidae/220616chgelks18.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/triacanthidae/triacanthidae/220616chgelks18.jpg
     caption: Changi Lost Coast, Jun 22 Photo shared by Loh Kok Sheng on facebook .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/triacanthidae/triacanthidae/090918tmjk8m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/triacanthidae/triacanthidae/090918tmjk8m3.jpg
     caption: Tanah Merah, Sep 09 Photo shared by James Koh on his blog .
   gallery9:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/triacanthidae/triacanthidae/110508cyrmng4m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/triacanthidae/triacanthidae/110508cyrmng4m3.jpg
     caption: Cyrene Reef, May 11 Photo shared by Marcus Ng on flickr .
 links_references: '**Links**
 

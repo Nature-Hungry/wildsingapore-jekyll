@@ -26,32 +26,32 @@ class: Holothuroidea
 subclass: Actinopoda
 order: Synallactida
 updated: Apr 2020
-coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/110802smkd8110m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/horrens/110802smkd8110m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/110802smkd8110m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/horrens/110802smkd8110m6l.jpg
     caption: Pulau Semakau, Aug 11
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/110802smkd8110m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/horrens/110802smkd8110m3.jpg
     caption: Close up of 'thorns'
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/110802smkd8115m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/horrens/110802smkd8115m3.jpg
     caption: Tube feet on the flat underside.
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/110802smkd8115m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/horrens/110802smkd8115m6l.jpg
     caption: ''
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/100617tbtch9m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/horrens/100617tbtch9m3.jpg
     caption: Terumbu Bemban, Jun 10 Photo shared by Toh Chay Hoon on her blog .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/230902smkntl1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/horrens/230902smkntl1.jpg
     caption: Pulau Semakau North, Sep 23 Photo shared by Tammy Lim on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/101009smklks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/horrens/101009smklks.JPG
     caption: Pulau Semakau, Oct 10 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/101009smklks3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/horrens/101009smklks3.JPG
     caption: ''
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/150719smklks1.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/horrens/150719smklks1.JPG
     caption: Pulau Semakau, Jul 15 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/150719smklks3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/horrens/150719smklks3.JPG
     caption: ''
 links_references: '**Links**
 

@@ -17,21 +17,21 @@ class: Gastropoda
 subclass: Heterobranchia
 superfamily: Architectonicoidea
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/variegatus/130211sjid4149.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/variegatus/130211sjid4149.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/variegatus/130211sjid4149.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/variegatus/130211sjid4149.jpg
     caption: St John's Island, Feb 13
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/variegatus/130211sjid4147.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/variegatus/130211sjid4147.jpg
     caption: Operculum is conical and resembles a drill. St John's Island, Feb 13
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/variegatus/130211sjid4300.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/variegatus/130211sjid4300.jpg
     caption: St John's Island, Feb 13
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/variegatus/080606cyrcck1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/variegatus/080606cyrcck1m3.jpg
     caption: Cyrene Reef, Jun 08 Photo shared by Chim Chee Kong on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/variegatus/080606cyrcck2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/variegatus/080606cyrcck2m3.jpg
     caption: Cyrene Reef, Jun 08 Photo shared by Chim Chee Kong on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/variegatus/080606cyrcck2m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/variegatus/080606cyrcck2m3b.jpg
     caption: ''
 links_references: '**Links**
 

@@ -28,7 +28,7 @@ infraorder: Brachyura
 zoosection: Dromiacea
 superfamily: Dromioidea
 updated: Feb 2020
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/050819cjg1661m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/dromiidae/dromiidae/050819cjg1661m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -39,51 +39,51 @@ galleries:
     caption: They use living sponges or ascidians as a disguise. Specialised legs
       grip the disguise. They tend to move slowly.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/050819cjg1661m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/dromiidae/dromiidae/050819cjg1661m3.jpg
     caption: From above, looks like just another uninteresting blob . Chek Jawa, Aug
       05
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/050819cjg1661m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/dromiidae/dromiidae/050819cjg1661m3.jpg
     caption: From above, looks like just another uninteresting blob . Chek Jawa, Aug
       05
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/050819cjg1656m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/dromiidae/dromiidae/050819cjg1656m3.jpg
     caption: The crab is underneath!
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/050819cjg1656m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/dromiidae/dromiidae/050819cjg1656m3a.jpg
     caption: Pink tips on the pincers.
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/050819cjg1656m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/dromiidae/dromiidae/050819cjg1656m3b.jpg
     caption: Last two pairs of legs bent over its back to grip the disguise.
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/080707prplksm3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/dromiidae/dromiidae/080707prplksm3.jpg
     caption: Pasir Ris Park, Jul 08 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/080707prplksm3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/dromiidae/dromiidae/080707prplksm3a.jpg
     caption: Pasir Ris Park, Jul 08 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/171204chglks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/dromiidae/dromiidae/171204chglks2.jpg
     caption: Changi, Dec 17 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/210628ecpBvc2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/dromiidae/dromiidae/210628ecpBvc2.jpg
     caption: East Coasr Park (B), Jun 21 Photo shared by Vincent Choo on facebook
       .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/100615tustch2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/dromiidae/dromiidae/100615tustch2m3.jpg
     caption: Tuas, Jun 10 Photo shared by Toh Chay Hoon on her blog .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/200210blylks7.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/dromiidae/dromiidae/200210blylks7.jpg
     caption: Berlayar Creek, Feb 20 Photo shared by Loh Kok Sheng on facebook .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/091104sntlks1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/dromiidae/dromiidae/091104sntlks1m3.jpg
     caption: Sentosa, Nov 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/110830cyrjk2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/dromiidae/dromiidae/110830cyrjk2m3.jpg
     caption: Cyrene Reef, Aug 11 Photo shared byJames Koh on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/110619tslglk3m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/dromiidae/dromiidae/110619tslglk3m3.JPG
     caption: Terumbu Selegie, Jun 11 Photo shared by Loh Kok Sheng on his blog .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/121215sislks4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/dromiidae/dromiidae/121215sislks4.jpg
     caption: Sisters Island, Dec 12 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/170212bsismn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/dromiidae/dromiidae/170212bsismn.jpg
     caption: Sisters Island, Feb 17 Photo shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/210822cyrjll5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/dromiidae/dromiidae/210822cyrjll5.jpg
     caption: Small Sisters, Aug 21 Photo shared by Jianlin Liu on facebook .
   gallery9:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/180815bbbjll3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/dromiidae/dromiidae/180815bbbjll3.jpg
     caption: Beting Bemban Besar, Aug 18 Photo shared by Jianlin Liu on facebook .
 links_references: '**Links**
 

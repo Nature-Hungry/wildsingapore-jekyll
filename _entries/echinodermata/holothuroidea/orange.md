@@ -25,54 +25,54 @@ class: Holothuroidea
 subclass: Actinopoda
 order: Dendrochirotida
 updated: Apr 2020
-coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/080521chgd3646m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/orange/080521chgd3646m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/080521chgd3646m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/orange/080521chgd3646m3.jpg
     caption: Body squarish in cross section. Tube feet long thin orange. Changi, May
       08
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/091011mkbd2773m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/orange/091011mkbd2773m3a.jpg
     caption: Feeding tentacles extended. Marina Keppel Bay, Oct 09
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/100712chgd8467m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/orange/100712chgd8467m3.jpg
     caption: Feeding tentacles not fully extended. Changi, Jul 10
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/081117ecpmd2346.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/orange/081117ecpmd2346.jpg
     caption: Dark blue body with orange tube feet. Changi, Jul 10
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/100712chgd8465m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/orange/100712chgd8465m3.jpg
     caption: Half buried. Changi, Jul 10
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/030521bb0099m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/orange/030521bb0099m3.jpg
     caption: Bloated. Beting Bronok, May 03
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/210528lyg.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/orange/210528lyg.jpg
     caption: Feeding tentacles extended. Changi Loyang, May 21
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/210531chg6jt3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/orange/210531chg6jt3.jpg
     caption: Changi Carpark 6, May 21 Photo shared by Jonathan Tan on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/251012chgmn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/orange/251012chgmn1.jpg
     caption: Changi, Oct 25 Photo shared by Marcus Ng on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/210628ecpBrk1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/orange/210628ecpBrk1.jpg
     caption: East Coast Park (B), Jun 21 Photo shared by Richard Kuah on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/171108ecpmblks8.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/orange/171108ecpmblks8.jpg
     caption: East Coast-Marina Bay, Nov 17 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/081214ecmlks01m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/orange/081214ecmlks01m3.JPG
     caption: East Coast, Dec 08 Photo shared by Loh Kok Sheng on his blog .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/170529srplks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/orange/170529srplks2.jpg
     caption: Sentosa Serapong, May 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/130501sntlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/orange/130501sntlks.JPG
     caption: Sentosa, May 13 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/130111sjilks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/orange/130111sjilks.JPG
     caption: St John's Island, Jan 13 Photo shared by Loh Kok Sheng on flickr .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/200627cyrlks5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/orange/200627cyrlks5.jpg
     caption: Cyrene, Jun 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/160209cyrlks2.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/orange/160209cyrlks2.JPG
     caption: Cyrene Reef, Feb 16 Photo shared by Loh Kok Sheng on his blog .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/orange/200626tptvc2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/orange/200626tptvc2.jpg
     caption: Terumbu Pempang Tengah, Jun 20 Photo shared by Vincent Choo on facebook
       .
 links_references: '**Links**

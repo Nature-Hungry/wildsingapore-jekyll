@@ -22,7 +22,7 @@ infraclass: Pteriomorphia
 order: Pectinida
 superfamily: Anomioidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/050511cftg6311m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/placunidae/placuna/050511cftg6311m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -35,45 +35,45 @@ galleries:
       The living animal can be seen when the shell is held against the light. The
       clam is globally endangered due to overcollection.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/050511cftg6311m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/placunidae/placuna/050511cftg6311m3.jpg
     caption: View of both upper and underside . Changi, May 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/050511cftg6308m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/placunidae/placuna/050511cftg6308m3.jpg
     caption: View of concave underside.
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/050511cftg6310m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/placunidae/placuna/050511cftg6310m3.jpg
     caption: View of convex upperside usually encrusted with other animals.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/110519chgd2299m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/placunidae/placuna/110519chgd2299m3a.jpg
     caption: Changi, May 11
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/020129cjcpd5761m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/placunidae/placuna/020129cjcpd5761m3.jpg
     caption: The living animal can be seen when the paper-thin shell is held up against
       the light. Chek Jawa, Jan 01
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/110520chgd2430m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/placunidae/placuna/110520chgd2430m3.jpg
     caption: Tiny baby window-pane clams? Changi, May 11
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/150519chgcp1d4494.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/placunidae/placuna/150519chgcp1d4494.jpg
     caption: Octopus hiding under a WIndow-pane clam/ Changi, May 15
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/120510chgd2870m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/placunidae/placuna/120510chgd2870m3.jpg
     caption: Zebra coral growing on a window pane shell. Changi, May 11
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/080507chd2321.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/placunidae/placuna/080507chd2321.jpg
     caption: Scallop stuck on a living Window-pane clam while some hermit crabs find
       shelter too . Changi, May 08
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/251206chgerqo6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/placunidae/placuna/251206chgerqo6.jpg
     caption: Changi East (Lost Coast), Dec 25 Photo shared by Rui Quan Oh on facebook
       .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/171108ecpmblks7.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/placunidae/placuna/171108ecpmblks7.jpg
     caption: East Coast-Marina Bay, Nov 17 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/200710mevc3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/placunidae/placuna/200710mevc3.jpg
     caption: East Coast-Marina Bay, Jul 20 Photo shared by Vincent Choo on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/251208meky2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/placunidae/placuna/251208meky2.jpg
     caption: Marina East, Dec 2025 Photo shared by Kelvin Yong on facebook .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/110522bbbro3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/placunidae/placuna/110522bbbro3m3.jpg
     caption: Beting Bemban Besar, May 11 Photo shared by Rene Ong on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/110522bbbro2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/placunidae/placuna/110522bbbro2m3.jpg
     caption: Beting Bemban Besar, May 11 Photo shared by Rene Ong on facebook .
 links_references: "**Links**\n- [Saddle oyster (\n*Placuna ephippium*\n)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=84399&genusname=Placuna&speciesname=ephippium)\n\
   and\n[Windowpane oyster (\n*Placuna placenta*\n)](http://www.sealifebase.org/Summary/SpeciesSummary.php?ID=84398)\n\

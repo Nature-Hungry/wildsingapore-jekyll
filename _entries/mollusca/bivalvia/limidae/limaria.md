@@ -19,60 +19,60 @@ infraclass: Pteriomorphia
 order: Limida
 superfamily: Limoidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/120721tptd8003m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/limidae/limidae/120721tptd8003m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/120721tptd8003m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/limidae/limidae/120721tptd8003m3.jpg
     caption: Terumbu Pempang Tengah, Jul 12
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/120721tptd8018m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/limidae/limidae/120721tptd8018m3.jpg
     caption: Terumbu Pempang Tengah, Jul 12
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/120721tptd8018m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/limidae/limidae/120721tptd8018m3a.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/201019sjijk1b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/limidae/limidae/201019sjijk1b.jpg
     caption: Wedged in a crevice. St John's Island, Oct 20 Photo shared by James Koh
       on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/201019sjijk1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/limidae/limidae/201019sjijk1.jpg
     caption: St John's Island, Oct 20 Photo shared by James Koh on flickr .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/201115sntvc1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/limidae/limidae/201115sntvc1.jpg
     caption: Sentosa Tg Rimau, Nov 20 Photo shared by Vincent Choo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/201215bsrpvc1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/limidae/limidae/201215bsrpvc1.jpg
     caption: Sentosa Serapong, Dec 20 Photo shared by Vincent Choo on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/250131tkkvc2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/limidae/limidae/250131tkkvc2.jpg
     caption: Pulau Tekukor, Jan 25 Photo shared by Vincent Choo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/201116lazvc4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/limidae/limidae/201116lazvc4.jpg
     caption: Lazarus Island, Nov 20 Photo shared by Vincent Choo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/240113lazjll3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/limidae/limidae/240113lazjll3.jpg
     caption: Lazarus Island, Jan 24 Photo shared by Jianlin Liu on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/200705kusrk1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/limidae/limidae/200705kusrk1.jpg
     caption: Kusu Island, Jul 20 Photo shared by Richard Kuah on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/251009sjiccn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/limidae/limidae/251009sjiccn1.jpg
     caption: St John's Island, Oct 25 Photo shared by Che Cheng Neo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/210213bsisjc2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/limidae/limidae/210213bsisjc2.jpg
     caption: Big Sisters Island, Feb 21 Photo shared by Joleen Chan on facebook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/230521hntrk1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/limidae/limidae/230521hntrk1.jpg
     caption: Pulau Hantu, May 23 Photo shared by Richard Kuah on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/210403cyrvc1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/limidae/limidae/210403cyrvc1.jpg
     caption: Cyrene Reef, Apr 21 Photo shared by Vincent Choo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/210402tmskjll4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/limidae/limidae/210402tmskjll4.jpg
     caption: Terumbu Semakau, Apr 21 Photo shared by Jianlin Liu on facebook .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/2007026tplvc2b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/limidae/limidae/2007026tplvc2b.jpg
     caption: Terumbu Pempang Laut, Jul 20 Photo shared by Vincent Choo on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/2007026tplvc2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/limidae/limidae/2007026tplvc2.jpg
     caption: ''
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/110517tptik12m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/limidae/limidae/110517tptik12m3.jpg
     caption: Terumbu Pempang Tengah, May 11 Photo shared by Ivan Kwan on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/210502tptvc8.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/limidae/limidae/210502tptvc8.jpg
     caption: Terumbu Pempang Tengah, May 21 Photo shared by Vincent Choo on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/150121tpkmn1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/limidae/limidae/150121tpkmn1m3.jpg
     caption: Terumbu Pempang Kecil, Jan 15 Photo shared by Marcus Ng on facebook .
 links_references: '**Links**
 

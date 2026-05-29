@@ -12,20 +12,20 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: May 2025
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/blue/060516chgd2041.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/blue/060516chgd2041.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/blue/060516chgd2041.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/blue/060516chgd2041.jpg
     caption: Changi, May 06
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/blue/060516chgd2041b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/blue/060516chgd2041b.jpg
     caption: Polyps fully retracted into the stem.
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/blue/250501skdlks6a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/blue/250501skdlks6a.jpg
     caption: Polyps fully retracted into the stem.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/blue/250501skdlks6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/blue/250501skdlks6.jpg
     caption: Pulau Sekudu, May 25 Photo shared by Loh Kok Sheng on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/blue/250428chgky1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/blue/250428chgky1.jpg
     caption: Changi-Loyang, Apr 25 Photo shared by Kelvin Yong on facebook .
 location:
 - chg

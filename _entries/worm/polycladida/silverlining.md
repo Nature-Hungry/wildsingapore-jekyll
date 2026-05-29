@@ -10,24 +10,24 @@ genus: Pseudoceros
 species: cf.
 attributes: []
 updated: Feb 2020
-coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/silverlining/121215sislks3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/silverlining/121215sislks3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/silverlining/121215sislks3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/silverlining/121215sislks3.jpg
     caption: Sisters Island, Dec 12 Photo shared by Loh Kok Sheng on flickr
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/silverlining/100103sislk2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/silverlining/100103sislk2m3.jpg
     caption: Sisters Island, Jan 10 Photo shared by Loh Kok Sheng on his blog .
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/silverlining/120501sntloks.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/silverlining/120501sntloks.jpg
     caption: Sentosa, May 13 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/silverlining/070902sjilks1m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/silverlining/070902sjilks1m3.JPG
     caption: St John's Island , Sep 07 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/silverlining/200918cyrjll4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/silverlining/200918cyrjll4.jpg
     caption: Cyrene, Sep 20 Photo shared by Jianlin Liu on facbook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/silverlining/181223tplsg1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/silverlining/181223tplsg1.jpg
     caption: Terumbu Pempang Laut, Dec 18 Photo shared by Shawne Goh on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/silverlining/181124bbbjll3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/silverlining/181124bbbjll3.jpg
     caption: Beting Bemban Besar, Nov 18 Photo shared by Jianlin Liu on facebook .
 location:
 - snt

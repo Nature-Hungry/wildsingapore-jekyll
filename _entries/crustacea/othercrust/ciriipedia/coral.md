@@ -23,21 +23,21 @@ subfamily: Tarachodinae
 tribe: Tarachodini
 subtribe: Tarachodina
 updated: Mar 2020
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/coral/060527sjid2249m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/coral/060527sjid2249m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/coral/060527sjid2249m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/coral/060527sjid2249m3.jpg
     caption: St John's Island, May 06
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/coral/070618rlhg0562m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/coral/070618rlhg0562m3.jpg
     caption: Raffles Lighthouse, Jun 07
   - url: http://www.wildsingapore.com/cnidaria/coralhard/poritidae/gonsmall/250529cjlk4a.jpg
     caption: Chek Jawa, May 2025 Photo shared by Loh Kok Sheng on facebook .
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/coral/040410sisbd0030m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/coral/040410sisbd0030m3.jpg
     caption: Sisters Island, Apr 04
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/coral/040410sisbd0031m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/coral/040410sisbd0031m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/coral/090806tmd8391m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/coral/090806tmd8391m3a.jpg
     caption: Tanah Merah, Aug 09
 location:
 - tm

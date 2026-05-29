@@ -20,22 +20,22 @@ order: Mytilida
 superfamily: Mytiloidea
 subfamily: Xenostrobinae
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/xenostrobus/080122cjd9042m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/xenostrobus/080122cjd9042m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/xenostrobus/080122cjd9042m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/xenostrobus/080122cjd9042m6l.jpg
     caption: Shiny black ones on a large boulder among oysters. Chek Jawa, Jan 08
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/xenostrobus/050809lckg1048m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/xenostrobus/050809lckg1048m3.jpg
     caption: Greyish ones on mangrove roots Lim Chu Kang, Aug 05
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/xenostrobus/080704skdd6838m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/xenostrobus/080704skdd6838m3a.jpg
     caption: Pulau Sekudu, Jul 08
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/xenostrobus/080122cjd9039m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/xenostrobus/080122cjd9039m3a.jpg
     caption: Byssus threads form a kind of nest. Chek Jawa, Jan 08
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/xenostrobus/101207ubnd3208m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/xenostrobus/101207ubnd3208m3b.jpg
     caption: Pulau Ubin, Jan 10
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/xenostrobus/101216pgllks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/xenostrobus/101216pgllks.JPG
     caption: Punggol, Dec 10 Shared by Loh Kok Sheng on flickr .
 links_references: '**Links**
 

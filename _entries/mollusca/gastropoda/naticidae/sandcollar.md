@@ -18,7 +18,7 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Naticoidea
 updated: Aug 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sandcollar/030703skdd0250m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/sandcollar/030703skdd0250m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -31,11 +31,11 @@ galleries:
       baby snails! The size of the collar depends on the size of the mother moon snail.
       When the baby snails hatch, the sand collar disintegrates.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sandcollar/030703skdd0250m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/sandcollar/030703skdd0250m3.jpg
     caption: Pulau Sekudu, Jul 03
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sandcollar/041127cjd8603m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/sandcollar/041127cjd8603m3.jpg
     caption: Chek Jawa, Nov 04
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/080704sekd6848m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/pink/080704sekd6848m3.jpg
     caption: Pulau Sekudu, Jul 08
 links_references: '**Links**
 

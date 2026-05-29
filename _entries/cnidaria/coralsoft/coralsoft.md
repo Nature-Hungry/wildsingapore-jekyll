@@ -44,11 +44,11 @@ galleries:
       They don't produce a hard skeleton. Each soft coral is a colony of countless
       tiny polyps.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/neppink/080705bbd6921m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/neppink/080705bbd6921m3.jpg
     caption: Beting Bronok, Jul 08 Polyps of a flowery soft coral
-  - url: http://www.wildsingapore.com/wildfacts/others/gorgonacea/candelabra/060528bbd2416m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/others/gorgonacea/candelabra/060528bbd2416m3.jpg
     caption: Beting Bronok, May 06 Polyps of a sea fan .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/050807sjig0617m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letomelette/050807sjig0617m3.jpg
     caption: St. John's Island, Aug 05 Polyps of a leathery coral
   gallery3:
   - url: http://www.wildsingapore.com/echinodermata/ophiuroidea/tinycolourful/080507skdd2477m3.jpg
@@ -56,36 +56,36 @@ galleries:
       Nov 03
   - url: http://www.wildsingapore.com/mollusca/gastropoda/ovulidae/softcoral/120508skdd2250m3.jpg
     caption: Often seen in a pair. Pulau Sekudu, May 12
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/031126tusad0068m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepspiky/031126tusad0068m3.jpg
     caption: Tiny red nose shrimp are sometimes seen in numbers in flowery soft coral.
       Tuas, Nov 03
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/050807sjig0617m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letomelette/050807sjig0617m3.jpg
     caption: Leathery soft corals
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/040411hntd0107m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepasparagus/040411hntd0107m3.jpg
     caption: Flowery soft corals
-  - url: http://www.wildsingapore.com/wildfacts/others/gorgonacea/others/040604bbad0081m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/others/gorgonacea/others/040604bbad0081m3.jpg
     caption: Sea fans
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/060430skdg5827m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/knobbly/060430skdg5827m3.jpg
     caption: Knobbly soft corals
-  - url: http://www.wildsingapore.com/wildfacts/others/heliopora/heliopora/060402ulrd1105m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/others/heliopora/heliopora/060402ulrd1105m3.jpg
     caption: Blue corals
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/110802smkd8256m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/xenia/110802smkd8256m3.jpg
     caption: Xenia soft coral
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feafine/120124sisd5837m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/feafine/120124sisd5837m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/050807sjig0759m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/feabroad/050807sjig0759m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabrown/050329sntg3905m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/feabrown/050329sntg3905m3.jpg
     caption: ''
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feafine/120124sisd5837m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/feafine/120124sisd5837m3b.jpg
     caption: Fine feathery soft coral
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/050807sjig0760m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/feabroad/050807sjig0760m3.jpg
     caption: Broad feathery soft coral
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabrown/050329sntg3905m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/feabrown/050329sntg3905m3b.jpg
     caption: Brown feathery soft coral
   gallery8:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1

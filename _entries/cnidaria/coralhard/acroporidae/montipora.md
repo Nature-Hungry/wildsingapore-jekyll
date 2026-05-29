@@ -17,21 +17,21 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Sep 2025
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/060301kusg5359m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/monbranch/060301kusg5359m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/060301kusg5359m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/monbranch/060301kusg5359m3.jpg
     caption: Branching montipora coral
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100809cyrd9819m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/monbranch/100809cyrd9819m3.jpg
     caption: Branching montipora coral
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monridged/070221kusg7762m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/monridged/070221kusg7762m3.jpg
     caption: Ridged montipora coral
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/051204sisg3262m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/monplate/051204sisg3262m3.jpg
     caption: Plate montipora coral
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/050625labg8578m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/monplate/050625labg8578m3.jpg
     caption: Plate montipora coral
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monridged/060714rlhg6486m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/monridged/060714rlhg6486m3.jpg
     caption: Ridged montipora coral
 links_references: '**Links**
 

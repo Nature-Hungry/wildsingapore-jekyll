@@ -22,7 +22,7 @@ order: Malpighiales
 subfamily: Crotonoideae
 tribe: Heveae
 updated: Oct 09
-coverimg: http://www.wildsingapore.com/wildfacts/plants/others/hevea/brasiliensis/091005cjd2065m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/others/hevea/brasiliensis/091005cjd2065m6l.jpg
 links_references: "**Links**\n- [Rainforest\n  Rojak](http://habitatnews.nus.edu.sg/pub/naturewatch/text/a051c)\
   \ from Nature Watch, a magazine of the Nature Society\n  (Singapore).\n- [A\n  tale\
   \ of rubber tapping](http://yesterday.sg/2009/07/por-a-tale-of-rubber-tapping/)\
@@ -35,18 +35,18 @@ links_references: "**Links**\n- [Rainforest\n  Rojak](http://habitatnews.nus.edu
   \ S.C. Chin and H. T. W. Tan. 1990, *[The\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/hevea/brasiliensis/090802ubind8240m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/hevea/brasiliensis/090802ubind8240m3.jpg
     caption: Pulau Ubin, Aug 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/hevea/brasiliensis/091005cjd2068m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/hevea/brasiliensis/091005cjd2068m3.jpg
     caption: Pulau Ubin, Oct 09 Pulau Ubin, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/hevea/brasiliensis/091005cjd2140m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/hevea/brasiliensis/091005cjd2140m6l.jpg
     caption: Tapping rubber latex. Pulau Ubin, Oct 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/hevea/brasiliensis/091115ubnd4293m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/hevea/brasiliensis/091115ubnd4293m3.jpg
     caption: Pulau Ubin, Nov 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/hevea/brasiliensis/091115ubnd4293m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/hevea/brasiliensis/091115ubnd4293m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/hevea/brasiliensis/091115ubnd4293m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/hevea/brasiliensis/091115ubnd4293m3b.jpg
     caption: ''
   gallery3:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -90,10 +90,10 @@ There are two rubber trees with
 [Heritage Tree status](http://www.nparks.gov.sg/cms/index.php?option=com_content&view=article&id=96&Itemid=79)
 : One is at Japanese Cemetery Park, Chuan Hoe Avenue 89 and another at the Singapore Botanic Gardens, behind the Green Pavilion.
 
-![](http://www.wildsingapore.com/wildfacts/plants/others/hevea/brasiliensis/091005cjd2065m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/others/hevea/brasiliensis/091005cjd2065m6l.jpg)
 
 *Pulau Ubin, Oct 09
-![](http://www.wildsingapore.com/wildfacts/plants/others/hevea/brasiliensis/091005cjd2142m6l.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/plants/others/hevea/brasiliensis/091005cjd2142m6l.jpg)*
 Next to the path to Chek Jawa.
 **Pulau Ubin, Oct 09**
 

@@ -16,45 +16,45 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Mar 2020
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/080422smkd1484m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/blackmouth/080422smkd1484m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/080422smkd1484m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/blackmouth/080422smkd1484m3.jpg
     caption: Pulau Semakau, Apr 08
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/080422smkd1484m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/blackmouth/080422smkd1484m3b.jpg
     caption: Fine stripes on outer tentacles.
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/080422smkd1484m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/blackmouth/080422smkd1484m3a.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/160607bblks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/blackmouth/160607bblks1.jpg
     caption: Beting Bronok, Jun 16 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/080124sntlks01m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/blackmouth/080124sntlks01m3.jpg
     caption: Sentosa, Feb 08 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/100711cyrlks1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/blackmouth/100711cyrlks1m3.jpg
     caption: Cyrene Reef, Jul 10 Photo shared by Loh Kok Sheng on his flickr .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/181027smksjll2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/blackmouth/181027smksjll2.jpg
     caption: Pulau Semakau South, Oct 18 Photo shared by Jianlin Liu on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/250403smksrk5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/blackmouth/250403smksrk5.jpg
     caption: Pulau Semakau South, Apr 25 Photo shared by Richard Kuah on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/201215smkejll5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/blackmouth/201215smkejll5.jpg
     caption: Pulau Semakau (East), Dec 20 Photo shared by Jianlin Liu on facebook
       .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/250727smkwky1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/blackmouth/250727smkwky1.jpg
     caption: Pulau Semakau West, Jul 25 Photo shared by Kelvin Yong on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/100519tsmjk13m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/blackmouth/100519tsmjk13m3.jpg
     caption: Terumbu Semakau, May 10 Photo shared by James Koh on his blog .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/170514bbbrl2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/blackmouth/170514bbbrl2.jpg
     caption: Beting Bemban Besar, Apr 17 Photo shared by Russel Low on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/200310bbbmn2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/blackmouth/200310bbbmn2.jpg
     caption: Beting Bemban Besar, Mar 20 Photo shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/251008bbbyls3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/blackmouth/251008bbbyls3.jpg
     caption: Beting Bemban Besar, Oct 25 Photo shared by Yan Le Su on facebook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/091231biolks9m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/blackmouth/091231biolks9m3.jpg
     caption: Pulau Biola, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
 location:
 - chg

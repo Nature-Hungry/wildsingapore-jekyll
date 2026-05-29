@@ -17,7 +17,7 @@ subclass: Sedentaria
 infraclass: Canalipalpata
 order: Sabellida
 updated: Oct 2019
-coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/reef/040804skdd4129m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/reef/040804skdd4129m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -28,21 +28,21 @@ galleries:
     caption: Their bristles can cause severe pain. Don't touch! They have well developed
       heads with specialised jaws. Some have a spectacular way of reproducing.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/reef/040804skdd4129m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/reef/040804skdd4129m3.jpg
     caption: Pulau Sekudu, Aug 04
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/reef/040804skdd4129m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/reef/040804skdd4129m3b.jpg
     caption: Bristles on the sides of the worm
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/040702cjd1447m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/diopatra/040702cjd1447m3.jpg
     caption: This tiny tubeworm has eyes, tentacles, and feathery appendages on the
       sides that act as gills. Changi, Jul 04
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/050412tusd2407m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/chloeia/050412tusd2407m3.jpg
     caption: This fireworm swims actively and has really elaborate bristles. Raffles
       Marina, Apr 05
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/banded/040830hntd5883m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/banded/040830hntd5883m3.jpg
     caption: Fanworms are bristleworms with a delicate fan of feathery tentacles on
       their heads. Pulau Hantu, Aug 04
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/scaleworm/120511tpld3253m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/scaleworm/120511tpld3253m3.jpg
     caption: Scale worms are tiny and often overlooked. Terumbu Pempang Laut, May
       12
 links_references: '**Links**

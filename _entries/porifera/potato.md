@@ -16,19 +16,19 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Biemnida
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/porifera/potato/100715tbtd8931m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/potato/100715tbtd8931m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/potato/100715tbtd8931m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/potato/100715tbtd8931m3.jpg
     caption: Terumbu Pempang Tengah, Jul 10
-  - url: http://www.wildsingapore.com/wildfacts/porifera/potato/120411thnts06123m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/potato/120411thnts06123m3.jpg
     caption: Terumbu Hantu, Apr 12
-  - url: http://www.wildsingapore.com/wildfacts/porifera/potato/120606bbd4277m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/potato/120606bbd4277m3a.jpg
     caption: Beting Bronok, Jun 12
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/potato/200705ecpbslks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/potato/200705ecpbslks1.jpg
     caption: East Coast Park, Jul 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/porifera/potato/160313trymn9.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/potato/160313trymn9.jpg
     caption: Terumbu Raya, Mar 16 Photo shared by Marcus Ng on facebook .
 links_references: '**Links**
 

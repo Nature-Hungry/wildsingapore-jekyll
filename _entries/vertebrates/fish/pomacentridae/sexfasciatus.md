@@ -25,12 +25,12 @@ superorder: Acanthomorpha
 order: Blenniiformes
 subfamily: Glyphisodontinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/sexfasciatus/110418tmftd9063m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/sexfasciatus/110418tmftd9063m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/sexfasciatus/110418tmftd9063m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/sexfasciatus/110418tmftd9063m3.jpg
     caption: Tanah Merah, Apr 11
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/sexfasciatus/110602tmftd3507m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/sexfasciatus/110602tmftd3507m6l.jpg
     caption: Sisters Island, Jan 10
 links_references: '**Links**
 

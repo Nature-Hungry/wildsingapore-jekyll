@@ -23,22 +23,22 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Beloniformes
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/shortnose/100527tmd3593m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/shortnose/100527tmd3593m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/shortnose/100527tmd3593m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/shortnose/100527tmd3593m3.jpg
     caption: Tanah Merah, May 10
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/shortnose/110602tmftd3544m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/shortnose/110602tmftd3544m6l.jpg
     caption: Sisters Island, Dec 10
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/shortnose/160608cyrmn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/shortnose/160608cyrmn1.jpg
     caption: Cyrene Reef, Jun 16 Photo shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/shortnose/090607tmjk.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/shortnose/090607tmjk.jpg
     caption: Tanah Merah, Jun 09 Photo shared by James Koh on flickr .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/shortnose/100709tmmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/shortnose/100709tmmn.jpg
     caption: Tanah Merah, Jul 10 Photo shared by Marcus Ng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/shortnose/111029smkjp3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/shortnose/111029smkjp3m3.jpg
     caption: Pulau Semakau, Oct 11 Photo shared by Jerome Pang on facebook .
 links_references: '**Links**
 

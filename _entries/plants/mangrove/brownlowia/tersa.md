@@ -22,16 +22,16 @@ order: Malvales
 subfamily: Brownlowioideae
 inat_id: 189938
 updated: Jan 2013
-coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/brownlowia/tersa/110317mndd7351m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/brownlowia/tersa/110317mndd7351m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/brownlowia/tersa/090408wdld9187m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/brownlowia/tersa/090408wdld9187m3a.jpg
     caption: Woodlands Park, Apr 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/brownlowia/tersa/110317mndd7452m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/brownlowia/tersa/110317mndd7452m6l.jpg
     caption: Mandai, Mar 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/brownlowia/tersa/090516wdld1792m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/brownlowia/tersa/090516wdld1792m6l.jpg
     caption: Woodlands Park, May 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/brownlowia/tersa/110317mndd7400m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/brownlowia/tersa/110317mndd7400m3a.jpg
     caption: Mandai, Mar 11
 links_references: '**Links**
 
@@ -124,11 +124,11 @@ is considered 'Presumed Nationally Extinct' while
 *Brownlowia tersa*
 is 'Endangered'. on the Red List of threatened plants of Singapore.
 
-*![](http://www.wildsingapore.com/wildfacts/plants/mangrove/brownlowia/tersa/110317mndd7351m6l.jpg)*
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/brownlowia/tersa/110317mndd7351m6l.jpg)*
 Leaves glossy above, hairy below.
 *Mandai, Mar 11
 
-![](http://www.wildsingapore.com/wildfacts/plants/mangrove/brownlowia/tersa/090408wdld9190m3.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/brownlowia/tersa/090408wdld9190m3.jpg)*
 Tiny pink flowers.
 *Woodlands Park, Apr 09*
 

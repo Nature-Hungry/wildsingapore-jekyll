@@ -22,17 +22,17 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
 updated: Dec 2024
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/synpeachia/130624chg7d7943.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/synpeachia/130624chg7d7943.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/synpeachia/130624chg7d7943.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/synpeachia/130624chg7d7943.jpg
     caption: '''Uprooted'' anemone. Changi, Jun 13'
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/synpeachia/120803chgd9338.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/synpeachia/120803chgd9338.jpg
     caption: Bumps in the middle of the mouth. Changi, Aug 12
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/synpeachia/130624chg7d7935.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/synpeachia/130624chg7d7935.jpg
     caption: With tentacles tucked in. Changi, Jun 13
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/synpeachia/130821cjlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/synpeachia/130821cjlks.JPG
     caption: Chek Jawa, Aug 13 Photo shared by Loh Kok Sheng on flickr .
 location:
 - chg

@@ -25,14 +25,14 @@ parvorder: Catarrhini
 subfamily: Cercopithecinae
 tribe: Papionini
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/fascicularis/070331sisg8439m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/fascicularis/070331sisg8439m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/fascicularis/110928sisd1427m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/fascicularis/110928sisd1427m3.jpg
     caption: Foraging on the sea shore, turning over rocks. Sisters Island, Sep 11
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/fascicularis/090613admd4211m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/fascicularis/090613admd4211m3.jpg
     caption: Admiralty Park, Jun 09
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/fascicularis/090613admd4205m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/fascicularis/090613admd4205m6l.jpg
     caption: Admiralty Park, Jun 09
 links_references: '**Links**
 
@@ -114,19 +114,19 @@ Be a responsible visitor to our wild places:
 - Dispose your litter into the monkey-proof bins provided. Better still, take your litter out of the Reserves with you.
 - If you see people feeding the monkeys, explain gently why this hurts the monkeys. People who feed monkeys usually mean well and will usually eventually understand and stop feeding them.
 
-*![](http://www.wildsingapore.com/wildfacts/vertebrates/mammals/fascicularis/070331sisg8439m3.jpg)
+*![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/fascicularis/070331sisg8439m3.jpg)
 
 Sisters Island, Mar 07
 
-![](http://www.wildsingapore.com/wildfacts/vertebrates/mammals/fascicularis/031004lptd0053m3m6l.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/fascicularis/031004lptd0053m3m6l.jpg)*
 The monkey can't read, but we can.
 *Lower Peirce, Oct 03
 
-![](http://www.wildsingapore.com/wildfacts/vertebrates/mammals/fascicularis/031004lpted0040m3.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/fascicularis/031004lpted0040m3.jpg)*
 Drive-by feeding kills monkeys as they rush towards cars, associating cars with food.
 *Lower Peirce, Oct 03
 
-![](http://www.wildsingapore.com/wildfacts/vertebrates/mammals/fascicularis/030907btnrd0011m3.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/fascicularis/030907btnrd0011m3.jpg)*
 Junk food is bad for people AND monkeys.
 *Bukit Timah Nature Reserve, Sep 03*
 

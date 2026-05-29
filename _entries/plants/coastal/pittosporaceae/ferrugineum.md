@@ -20,14 +20,14 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Apiales
 updated: Feb 11
-coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/pittosporaceae/ferrugineum/110220lazd6170m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pittosporaceae/ferrugineum/110220lazd6170m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/pittosporaceae/ferrugineum/110220lazd6171m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pittosporaceae/ferrugineum/110220lazd6171m3a.jpg
     caption: Lazarus Island, Feb 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/pittosporaceae/ferrugineum/110220lazd6171m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pittosporaceae/ferrugineum/110220lazd6171m3c.jpg
     caption: Lazarus Island, Feb 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/pittosporaceae/ferrugineum/110220lazd6171m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pittosporaceae/ferrugineum/110220lazd6171m3b.jpg
     caption: Lazarus Island, Feb 11
   gallery2:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -56,7 +56,7 @@ According to Burkill, the leaves and roots are used in poulticing for malaria. T
 **Status and threats:**
 This tree is listed as 'Vulnerable' in the Red List of threatened plants of Singapore.
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/pittosporaceae/ferrugineum/110220lazd6170m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pittosporaceae/ferrugineum/110220lazd6170m6l.jpg)
 
 Growing also the natural shore
 *Lazarus Island, Feb 11*

@@ -32,14 +32,14 @@ galleries:
     caption: This seagrass is rarely seen on our shores. It doesn't flower frequently,
       and the flowers are complex. It is eaten by dugongs.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/syringodium/100519tsmc4069m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/syringodium/100519tsmc4069m3.jpg
     caption: Terumbu Semakau, May 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/syringodium/081016cyrd0933m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/syringodium/081016cyrd0933m3.jpg
     caption: Cyrene Reef, Oct 08
-  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/syringodium/110830cyrd0547m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/syringodium/110830cyrd0547m3.jpg
     caption: Cyrene Reef, Aug 11
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seagrass/syringodium/220618tmftvc4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/syringodium/220618tmftvc4.jpg
     caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Vincent Choo on facebook
       .
 links_references: '**Links**
@@ -132,13 +132,13 @@ seagrasses available. So it is also sometimes called Dugong grass.
 **Status and threats:**
 It is listed as 'Endangered' on the Red List of threatened plants of Singapore.
 
-*![](http://www.wildsingapore.com/wildfacts/plants/seagrass/syringodium/050309smkd1462m3.jpg)*
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/syringodium/050309smkd1462m3.jpg)*
 
 *Pulau Semakau, Mar 05*
-*![](http://www.wildsingapore.com/wildfacts/plants/seagrass/syringodium/050626smkg8824m3.jpg)*
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/syringodium/050626smkg8824m3.jpg)*
 
 *Pulau Semakau, Jun 05*
-*![](http://www.wildsingapore.com/wildfacts/plants/seagrass/syringodium/050626smkg8824m3a.jpg)*
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/syringodium/050626smkg8824m3a.jpg)*
 
 *Pulau Semakau, Jun 05*
 

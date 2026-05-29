@@ -29,21 +29,21 @@ zoosection: Eubrachyura
 zoosubsection: Thoracotremata
 superfamily: Grapsoidea
 updated: Dec 2025
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/100425kntd1687m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/sesarmidae/perisesarma/100425kntd1687m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/100425kntd1687m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/sesarmidae/perisesarma/100425kntd1687m3.jpg
     caption: Kranji Nature Trail, Apr 10
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/090228smkd7247m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/sesarmidae/perisesarma/090228smkd7247m3.jpg
     caption: Perisesarma indiarum Pulau Semakau, Mar 09
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/090228smkd7247m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/sesarmidae/perisesarma/090228smkd7247m3c.jpg
     caption: Bright upside-down V-shape under the face-band.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/100606prpd5221m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/sesarmidae/perisesarma/100606prpd5221m3.jpg
     caption: Pasir Ris, Jun 10
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/101226krjd4197m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/sesarmidae/perisesarma/101226krjd4197m3.jpg
     caption: Kranji Nature Trail, Dec 10
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/091226cjd6255m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/sesarmidae/perisesarma/091226cjd6255m3.jpg
     caption: Chek Jawa, Dec 09
 links_references: "**Links**\n- [Sesarmine crabs](http://mangrove.nus.edu.sg/guidebooks/text/2048)\n\
   Ng, Peter K. L. & N. Sivasothi, 1999.\n*[A Guide to the Mangroves of Singapore II\

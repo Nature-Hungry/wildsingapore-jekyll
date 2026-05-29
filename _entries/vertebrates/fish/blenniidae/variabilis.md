@@ -25,53 +25,53 @@ order: Blenniiformes
 suborder: Blennioidei
 subfamily: Blenniinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/051216smkg3405m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/variabilis/051216smkg3405m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/051216smkg3405m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/variabilis/051216smkg3405m3.jpg
     caption: Pulau Semakau, Dec 05
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/070716chgd4280m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/variabilis/070716chgd4280m3.jpg
     caption: Changi, Jul 07
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/080523cyrd3923m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/variabilis/080523cyrd3923m3.jpg
     caption: Pair of long curved fangs on lower jaw. Cyrene Reef, May 08
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/210502tptvc1b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/variabilis/210502tptvc1b.jpg
     caption: Guarding eggs in an empty Fan shell clam. Terumbu Pempang Tengah, May
       21 Photo shared by Vincent Choo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/210502tptvc1a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/variabilis/210502tptvc1a.jpg
     caption: 'Close up of the eggs: about to hatch?!'
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/091204pawd5376.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/variabilis/091204pawd5376.jpg
     caption: Guarding eggs laid inside a large snail shell. Pulau Pawai, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/210402tmskvc5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/variabilis/210402tmskvc5.jpg
     caption: A pair seen with eggs inside an empty Fan shell clam. Terumbu Semakau,
       Apr 21 Photo shared by Vincent Choo on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/181126lablks.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/variabilis/181126lablks.jpg
     caption: Labrador, Nov 18 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/160509srpik6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/variabilis/160509srpik6.jpg
     caption: Sentosa Serapong, May 16 Photo shared by Ivan Kwan on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/200112sjilks9.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/variabilis/200112sjilks9.jpg
     caption: St John's Island, Jan 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/111001sjiro5m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/variabilis/111001sjiro5m3.jpg
     caption: St. John's Island, Oct 11 Photo shared by Rene Ong on facebook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/220518kusbc1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/variabilis/220518kusbc1.jpg
     caption: Kusu Island, May 22 Photo shared by Benny Cheong on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/201019sjijll10.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/variabilis/201019sjijll10.jpg
     caption: St John's Island, Oct 20 Photo shared by Jianlin Liu on facebook .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/200126bsisro3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/variabilis/200126bsisro3.jpg
     caption: Big Sisters Island, Jan 20 Photo shared by Rene Ong on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/251207hntky3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/variabilis/251207hntky3.jpg
     caption: Pulau Hantu, Dec 25 Photo shared by Kelvin Yong on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/200918cyrlks6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/variabilis/200918cyrlks6.jpg
     caption: Cyrene, Sep 20 Photo shared by Loh Kok Sheng on facebook .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/130428tsmklks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/variabilis/130428tsmklks.JPG
     caption: Terumbu Semakau, Apr 13 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/091204pawjk1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/variabilis/091204pawjk1m3.jpg
     caption: Pulau Pawai, Dec 09 Photo shared by James Koh on his flickr .
 links_references: '**Links**
 

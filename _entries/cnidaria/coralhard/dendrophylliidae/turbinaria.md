@@ -17,44 +17,44 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Sep 2025
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/060712tusd4096m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/thin/060712tusd4096m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/060712tusd4096m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/thin/060712tusd4096m3.jpg
     caption: Tuas, Jul 06
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/060712tusd4096m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/thin/060712tusd4096m3a.jpg
     caption: Two different kinds of Disk corals
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3.jpg
     caption: Flowery disk coral Turbinaria peltata Colony flat plate often ruffled
       so it resembles a cabbage.
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3a.jpg
     caption: Corallites sunken to sticking out and tubular, large (0.6cm).
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3b.jpg
     caption: Polyps large and expanded even during the day.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/111001sjid1937m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/encrust/111001sjid1937m3.jpg
     caption: Encrusting disk coral Colony plate-like thick (1cm) encrusting, edges
       against the surface.
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/111001sjid1941m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/encrust/111001sjid1941m3.jpg
     caption: Corallites sunken to conical.
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/111001sjid1942m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/encrust/111001sjid1942m3b.jpg
     caption: Polyps tiny with fewer short entacles.
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/110717tbd7128m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/ruffled/110717tbd7128m3.jpg
     caption: Ruffled disk coral Colony plate-like thin (0.5cm) edges often folded
       into ruffles.
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/110717tbd7130m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/ruffled/110717tbd7130m3.jpg
     caption: Corallites conical.
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/110717tbd7133m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/ruffled/110717tbd7133m3.jpg
     caption: Polyps tiny with many short tentacles.
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/120505sisd0926m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/thin/120505sisd0926m3.jpg
     caption: Thin disk coral Colony plate-like thin (0.2-0.5cm) shaped into a cup
       or inverted cone.
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/120505sisd0929m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/thin/120505sisd0929m3.jpg
     caption: Corallites tiny low rounded bumps.
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/120505sisd0930m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/thin/120505sisd0930m3a.jpg
     caption: Polyps tiny with few short tentacles.
 links_references: '**Links**
 

@@ -14,24 +14,24 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/giant/130628tpklks.JPG
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/giant/130628tpklks.JPG
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/giant/130628tpklks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/giant/130628tpklks.JPG
     caption: Terumbu Pempang Kecil, Jun 13
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/giant/160628tpklks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/giant/160628tpklks.JPG
     caption: Photo shared by Loh Kok Sheng on flickr .
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/giant/050510tusg6144m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/giant/050510tusg6144m3.jpg
     caption: Tuas, May 05
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/giant/050510tusg6145m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/giant/050510tusg6145m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/giant/090724cyrf2729m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/giant/090724cyrf2729m6l.jpg
     caption: One sample that got caught in the boat anchor.
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/giant/100812tpld0425m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/giant/100812tpld0425m6l.jpg
     caption: Terumbu Pempang Laut, Aug 10
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/giant/210429hntvc3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/giant/210429hntvc3.jpg
     caption: Pulau Hantu, Apr 21 Photo shared by Vincent Choo on facebook .
 location:
 - tus

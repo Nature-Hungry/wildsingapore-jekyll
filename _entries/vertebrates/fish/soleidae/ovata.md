@@ -24,22 +24,22 @@ superorder: Acanthomorpha
 order: Carangiformes
 suborder: Pleuronectoidei
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/050511cftg6220m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/ovata/050511cftg6220m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/050511cftg6220m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/ovata/050511cftg6220m3.jpg
     caption: Changi, May 05
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/050818cftg1318m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/ovata/050818cftg1318m6l.jpg
     caption: Changi, Aug 05
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/050511cftg6220m3d.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/ovata/050511cftg6220m3d.jpg
     caption: Eyes on the right side.
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/050511cftg6220m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/ovata/050511cftg6220m3c.jpg
     caption: Tail fin separate from the dorsal and anal fins.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/240114kusrk1b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/ovata/240114kusrk1b.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/240114kusrk1a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/ovata/240114kusrk1a.jpg
     caption: Kusu Island, Jan 24 Photo shared by Richard Kuah on facebook .
 links_references: '**Links**
 

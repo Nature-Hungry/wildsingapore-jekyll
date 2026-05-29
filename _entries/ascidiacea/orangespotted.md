@@ -9,22 +9,22 @@ updated: Mar 2020
 phylum: Chordata
 subphylum: Tunicata
 class: Ascidiacea
-coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/orangespotted/111128sntd3993m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/orangespotted/111128sntd3993m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/orangespotted/111128sntd3993m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/orangespotted/111128sntd3993m3.jpg
     caption: Sentosa, Nov 11
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/orangespotted/120621cyrd5911m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/orangespotted/120621cyrd5911m3.jpg
     caption: Cyrene Reef, Jun 12
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/orangespotted/111212tmlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/orangespotted/111212tmlks.JPG
     caption: Tanah Merah, Dec 12 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/orangespotted/201116lazvc7.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/orangespotted/201116lazvc7.jpg
     caption: Lazarus, Nov 20 Photo shared by Vincent Choo on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/orangespotted/110814smklks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/orangespotted/110814smklks.JPG
     caption: Pulau Semakau, Aug 11 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/ascidiacea/orangespotted/200310bbbsg1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/orangespotted/200310bbbsg1.jpg
     caption: Beting Bemban Besar, Mar 20 Photo shared by Shawne Goh on facebook .
 location:
 - chg

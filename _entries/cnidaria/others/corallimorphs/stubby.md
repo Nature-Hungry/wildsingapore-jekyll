@@ -20,26 +20,26 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Corallimorpharia
 updated: Jul 2024
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/050611kusd3973m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/stubby/050611kusd3973m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/050611kusd3973m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/stubby/050611kusd3973m3.jpg
     caption: Kusu Island, Jun 05
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/050611kusg7747m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/stubby/050611kusg7747m3b.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/050611kusg7747m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/stubby/050611kusg7747m3.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/040801hntd3735m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/stubby/040801hntd3735m3a.jpg
     caption: Pulau Hantu, Aug 04
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/040705sisd2131m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/stubby/040705sisd2131m3.jpg
     caption: Sisters Island, Jul 04
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/070506sjig9212m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/stubby/070506sjig9212m3.jpg
     caption: St. John's Island, May 07
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/130528cyrmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/stubby/130528cyrmn.jpg
     caption: Cyrene Reef, May 13 Photo shared by Marcus Ng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/160609thntmn3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/stubby/160609thntmn3.jpg
     caption: Terumbu Hantu, Jun 2016 Photo shared by Marcus Ng on facebook .
 links_references: '**Links**
 

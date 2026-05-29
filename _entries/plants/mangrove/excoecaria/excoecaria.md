@@ -25,14 +25,14 @@ subfamily: Euphorbioideae
 tribe: Hippomaneae
 inat_id: 192360
 updated: Jan 2013
-coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/excoecaria/excoecaria/031217sbwrd0077m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/excoecaria/excoecaria/031217sbwrd0077m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/excoecaria/excoecaria/090905sbwrd0118m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/excoecaria/excoecaria/090905sbwrd0118m3.jpg
     caption: Leaves turning red at the same time. Sungei Buloh, Sep 09
   - url: http://www.wildsingapore.com/insecta/calliphara/040108ubnd0013m3a.jpg
     caption: Juvenile Mangrove shield bugs . Pulau Ubin, Jan 04
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/excoecaria/excoecaria/090321krjo3211561m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/excoecaria/excoecaria/090321krjo3211561m3.jpg
     caption: Fruits. Kranji Canal, Mar 09
 links_references: '**Links**
 
@@ -144,19 +144,19 @@ According to Burkill, the timber is much used in some places for firewood and to
 Various traditional medicinal uses are made of the bark, leaves and roots. According to Wee, the plant contains behenic acid. The Burmese used the leaves to treat epilepsy, in the Solomon Islands the latex is taken with coconut milk as a powerful purgative and an emetic, and oil distilled from the wood is used by the Malays to treat itching and skin infections. According to Giersen, it is not used as firewood as it produces an unpleasant smoke. But the wood is used to make matchsticks in the Philippines, also sold as aromatic wood, and is considered useful for carving. The roots are used to treat toothache and swellings.
 
 **
-*![](http://www.wildsingapore.com/wildfacts/plants/mangrove/excoecaria/excoecaria/031217sbwrd0077m3.jpg)*
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/excoecaria/excoecaria/031217sbwrd0077m3.jpg)*
 Red leaves and male flowers.
 *Sungei Buloh Wetland Reserve, Dec 03
 
-![](http://www.wildsingapore.com/wildfacts/plants/mangrove/excoecaria/excoecaria/090322krjd8372m3.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/excoecaria/excoecaria/090322krjd8372m3.jpg)*
 Male flowers.
 *Kranji Canal, Mar 00
 
-![](http://www.wildsingapore.com/wildfacts/plants/mangrove/excoecaria/excoecaria/090321krjo3211569m3.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/excoecaria/excoecaria/090321krjo3211569m3.jpg)*
 Female flowers.
 *Kranji Canal, Mar 09*
 **
-*![](http://www.wildsingapore.com/wildfacts/plants/mangrove/excoecaria/excoecaria/020120sbwrcp5219m3.jpg)*
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/excoecaria/excoecaria/020120sbwrcp5219m3.jpg)*
 Often with multiple trunks.
 
 No specialised roots.

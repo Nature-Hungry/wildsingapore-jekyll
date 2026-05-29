@@ -23,15 +23,15 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/annularis/060114cjg3805m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacanthidae/annularis/060114cjg3805m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/annularis/060114cjg3805m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacanthidae/annularis/060114cjg3805m3.jpg
     caption: In an aquarium at a seafood restaurant. Pulau Ubin, Jan 06
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/annularis/110418tmftd9010m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacanthidae/annularis/110418tmftd9010m6l.jpg
     caption: The juvenile looks very different. Tanah Merah, Apr 11
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/annularis/200820ssismn3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacanthidae/annularis/200820ssismn3.jpg
     caption: Small Sisters Island, Aug 20 Photo shared by Marcus Ng on facebook .
 links_references: '**Links**
 

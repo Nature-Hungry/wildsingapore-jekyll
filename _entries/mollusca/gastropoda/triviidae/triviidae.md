@@ -18,27 +18,27 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Velutinoidea
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/triviidae/triviidae/100712cyrlks4m6la.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/triviidae/triviidae/100712cyrlks4m6la.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/triviidae/triviidae/100712cyrlks4m6la.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/triviidae/triviidae/100712cyrlks4m6la.jpg
     caption: Cyrene Reef, Jul 10 Photo shared by Loh Kok Sheng on his flickr .
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/triviidae/triviidae/100102sntlks3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/triviidae/triviidae/100102sntlks3m3.jpg
     caption: Sentosa, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/triviidae/triviidae/100102sntlks2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/triviidae/triviidae/100102sntlks2m3.jpg
     caption: Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/triviidae/triviidae/100102sntlks4m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/triviidae/triviidae/100102sntlks4m3.jpg
     caption: ''
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/triviidae/triviidae/110606cyrlks6.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/triviidae/triviidae/110606cyrlks6.JPG
     caption: Cyrene Reef, Jun 11
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/triviidae/triviidae/110606cyrlks7.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/triviidae/triviidae/110606cyrlks7.JPG
     caption: Photo shared by Loh Kok Sheng on his flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/triviidae/triviidae/110606cyrlks8.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/triviidae/triviidae/110606cyrlks8.JPG
     caption: ''
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/triviidae/triviidae/140712cyrlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/triviidae/triviidae/140712cyrlks.JPG
     caption: Cyrene Reef, Jul 14 Photo shared by Loh Kok Sheng on his flickr .
 links_references: '**Links**
 

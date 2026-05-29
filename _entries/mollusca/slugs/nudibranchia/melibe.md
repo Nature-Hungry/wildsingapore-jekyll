@@ -22,37 +22,37 @@ order: Nudibranchia
 suborder: Dendronotina
 superfamily: Dendronotoidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/080721cyrd8148m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/melibe/080721cyrd8148m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/080721cyrd8148m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/melibe/080721cyrd8148m6l.jpg
     caption: With hood (oral veil) expanded. Cyrene Reef, Jul 08
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/120621cyrm3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/melibe/120621cyrm3.jpg
     caption: Sensitive hairs on the inner edge of the oral veil. Cyrene Reef, Jun12
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/080410cyrd0979m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/melibe/080410cyrd0979m3.jpg
     caption: Cyrene Reef, Apr 08
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/080410cyrd0995m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/melibe/080410cyrd0995m3.jpg
     caption: Swims upside down. Cyrene Reef, Apr 08
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/090310tusd7857m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/melibe/090310tusd7857m3.jpg
     caption: Tuas, Mar 09
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/081114cyrlks04m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/melibe/081114cyrlks04m3.jpg
     caption: Cyrene Reef, Nov 08 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/080608cyrmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/melibe/080608cyrmn.jpg
     caption: Cyrene Reef, Jun 08 Photo shared by Marcus Ng on flickr .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/120621cyrjk1m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/melibe/120621cyrjk1m6l.jpg
     caption: Cyrene Reef, Jun 12 Photo shared by James Koh on flickr
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/120621cyrjk1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/melibe/120621cyrjk1m3.jpg
     caption: Sensitive hairs on the inner edge of the oral veil.
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/120819cyrlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/melibe/120819cyrlks.JPG
     caption: Cyrene Reef, Aug 12 Photo shared by Loh Kok Sheng on flickr .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/131104smkmn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/melibe/131104smkmn1.jpg
     caption: Pulau Semakau, Nov 13 Photo shared by Marcus Ng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/131104smkmn2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/melibe/131104smkmn2.jpg
     caption: Pulau Semakau, Nov 13 Photo shared by Marcus Ng on flickr .
 links_references: '**Links**
 

@@ -10,21 +10,21 @@ genus: Echinomuricea
 species: pulchra*
 attributes: []
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/gnarled/080705bbd7072m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/gnarled/080705bbd7072m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/gnarled/080705bbd7072m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/gnarled/080705bbd7072m3.jpg
     caption: Beting Bronok, Jul 08
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/gnarled/080705bbd7072m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/gnarled/080705bbd7072m3a.jpg
     caption: Stems look gnarled with polyps retracted.
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/gnarled/150616chgfpd5415m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/gnarled/150616chgfpd5415m3.jpg
     caption: Closer look at the stem with polyps retracted.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/gnarled/050820bbg1706m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/gnarled/050820bbg1706m3.jpg
     caption: Beting Bronok, Aug 05
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/gnarled/100908chgd0758m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/gnarled/100908chgd0758m3.jpg
     caption: Changi, Sep 10
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/gnarled/030714bbd0045m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/gnarled/030714bbd0045m3.jpg
     caption: Beting Bronok, Jul 03
   gallery3:
   - url: http://www.wildsingapore.com/mollusca/cephalopoda/cepeggs/030618bbd0161m3.jpg

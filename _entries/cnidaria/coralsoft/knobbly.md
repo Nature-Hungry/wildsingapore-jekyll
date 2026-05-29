@@ -16,27 +16,27 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/091011mkbd2708m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/knobbly/091011mkbd2708m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/091011mkbd2708m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/knobbly/091011mkbd2708m3.jpg
     caption: Keppel Bay, Oct 09
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/091011mkbd2708m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/knobbly/091011mkbd2708m3a.jpg
     caption: Secondary polyps emerge from a capsule.
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/091011mkbd2708m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/knobbly/091011mkbd2708m3b.jpg
     caption: Eight branched tentacles.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/060430skdg5827m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/knobbly/060430skdg5827m3.jpg
     caption: Pulau Sekudu, Apr 06
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/070604chgg0134m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/knobbly/070604chgg0134m3.jpg
     caption: Changi, Jul 07
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/120704chgd6877m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/knobbly/120704chgd6877m3.jpg
     caption: Changi, Jul 12 Growing on a living sea fan.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/170723ubnlks4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/knobbly/170723ubnlks4.jpg
     caption: Pulau Ubin, Jul 17 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/160806tpllks7.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/knobbly/160806tpllks7.jpg
     caption: Terumbu Pempang Laut, Aug 16 Photo shared by Loh Kok Sheng on facebook
       .
 links_references: '**Links**

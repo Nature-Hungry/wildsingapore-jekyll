@@ -18,7 +18,7 @@ superorder: Acanthomorpha
 order: Syngnathiformes
 suborder: Syngnathoidei
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes.gif
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/comes.gif
 links_references: '**Links**
 
   - [Project Seahorse](http://seahorse.fisheries.ubc.ca/relatives.html)
@@ -53,8 +53,8 @@ These two diagrams were taken from Lourie, S. A., Sarah J. Foster, Ernest W. T. 
 
 ---
 
-![](http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes.gif)
+![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/comes.gif)
 
-![](http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda.gif)
+![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda.gif)
 
 ---

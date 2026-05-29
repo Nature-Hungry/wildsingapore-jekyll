@@ -19,30 +19,30 @@ order: Trochida
 superfamily: Trochoidea
 subfamily: Turbininae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/080208hntd9446m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/bruneus/080208hntd9446m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/080208hntd9446m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/bruneus/080208hntd9446m3.jpg
     caption: Pulau Hantu, Feb 08
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/080208hntd9445m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/bruneus/080208hntd9445m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/080208hntd9445m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/bruneus/080208hntd9445m3b.jpg
     caption: Many tiny bumps on the operculum.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/210115mevc9.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/bruneus/210115mevc9.jpg
     caption: East Coast-Marina Bay, Jan 21 Photo shared by Vincent Choo on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/210628ecpBvc3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/bruneus/210628ecpBvc3.jpg
     caption: East Coast (B), Jun21 Photo shared by Vincent Choo on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/240113laztl1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/bruneus/240113laztl1.jpg
     caption: Lazarus Island, Jan 24 Photo shared by Tammy Lim on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/251009sjirk1a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/bruneus/251009sjirk1a.jpg
     caption: St John's Island, Oct 25 Photo shared by Richard Kuah on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/240412tbccn3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/bruneus/240412tbccn3.jpg
     caption: Terumbu Bemban, Apr 24 Photo shared by Che Cheng Neo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/091204pawikw2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/bruneus/091204pawikw2m3.jpg
     caption: Pulau Pawai, Dec 09 Photo shared by Ivan Kwan on his flickr .
 links_references: "**Links**\n- [Dwarf Turban Shell (\n*Turbo brunneus*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/133)\n\
   Tan, Leo W. H. & Ng, Peter K. L., 1988.\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n\

@@ -17,7 +17,7 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5992m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5992m3.jpg
 links_references: "**Links**\n- [Corals of the World](http://www.coralsoftheworld.org/page/home/)\
   \ with species factsheets.\n- [IUCN Red List of Threatened Species](https://www.iucnredlist.org/)\
   \ with species factsheets.\n- *[Cyphastrea](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Cyphastrea)*on\n\
@@ -32,30 +32,30 @@ links_references: "**Links**\n- [Corals of the World](http://www.coralsoftheworl
   \ 2000. *Corals\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5992m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5992m3.jpg
     caption: Sisters Island, Jan 12
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5996m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5996m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5993m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5993m3a.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/110715cyrd6653m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/cyphastrea/110715cyrd6653m3.jpg
     caption: Cyrene Reef, Jul 11
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/110715cyrd6652m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/cyphastrea/110715cyrd6652m3c.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/110715cyrd6652m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/cyphastrea/110715cyrd6652m3.jpg
     caption: ''
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5927m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5927m3.jpg
     caption: Sisters Island, Jan 12
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/060228labg5282m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/cyphastrea/060228labg5282m3.jpg
     caption: Labrador, Feb 06
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/170430thnt2o4300142.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/cyphastrea/170430thnt2o4300142.jpg
     caption: Terumbu Hantu, Apr 17
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/100130brkd8551m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/cyphastrea/100130brkd8551m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/100131slud8886m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/cyphastrea/100131slud8886m3.jpg
     caption: Terumbu Salu, Jan 10
   gallery5:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1

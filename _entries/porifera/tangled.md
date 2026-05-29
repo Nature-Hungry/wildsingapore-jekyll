@@ -16,19 +16,19 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/porifera/tangled/091204pawd5238m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/tangled/091204pawd5238m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/tangled/091204pawd5238m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/tangled/091204pawd5238m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/porifera/tangled/080510smkd3114m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/tangled/080510smkd3114m3.jpg
     caption: Pulau Semakau, May 08
-  - url: http://www.wildsingapore.com/wildfacts/porifera/tangled/070701hntd3035m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/tangled/070701hntd3035m3.jpg
     caption: Pulau Hantu, Jul 07
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/tangled/110324tryrl1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/tangled/110324tryrl1m3.jpg
     caption: Terumbu Raya, Mar 11 Photo shared by Russel Low on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/porifera/tangled/110522bbbrl5m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/tangled/110522bbbrl5m3.jpg
     caption: Beting Bemban Besar, May 11 Photo shared by Russel Low on facebook .
 links_references: '**Links**
 

@@ -33,42 +33,42 @@ superfamily: Portunoidea
 subfamily: Thalamitinae
 subgenus: Charybdis
 updated: Feb 2020
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/natator/050426cftg5047m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/natator/050426cftg5047m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/natator/050426cftg5047m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/natator/050426cftg5047m3.jpg
     caption: Changi, Apr 05
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/natator/120124sisd6045m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/natator/120124sisd6045m3.jpg
     caption: Sisters Island, Jan 12
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/natator/120124sisd6045m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/natator/120124sisd6045m3a.jpg
     caption: 6 spines on the body side.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/natator/130428chgmn2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/natator/130428chgmn2.jpg
     caption: Changi, Apr 13 Photo shared by Marcus Ng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/natator/210528chg7lks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/natator/210528chg7lks2.jpg
     caption: Changi Carpark 7, May 21 Photo shared by Loh Kok Sheng on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/natator/250501skdlks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/natator/250501skdlks1.jpg
     caption: Pulau Sekudu, May 25 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/natator/130331tmlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/natator/130331tmlks.JPG
     caption: Tanah Merah, Mar 13
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/natator/130331tmlks2.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/natator/130331tmlks2.JPG
     caption: Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/natator/140501kusro1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/natator/140501kusro1m3.jpg
     caption: Kusu Island, May 14 Photo shared by Rene Ong on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/natator/190123lazmn2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/natator/190123lazmn2.jpg
     caption: Lazarus Island, Jan 19 Photo shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/natator/120407lazlks13m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/natator/120407lazlks13m3.jpg
     caption: Lazarus Island, Apr 12 Photo shared by Loh Kok Sheng on his blog .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/natator/161215cyrlks.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/natator/161215cyrlks.jpg
     caption: Cyrene Reef, Dec 16 Photo shared by Marcus Ng on facebook .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/natator/200209cyrlt2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/natator/200209cyrlt2.jpg
     caption: Cyrene, Feb 20 Photo shared by Leon Tan on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/natator/210821cyrlks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/natator/210821cyrlks2.jpg
     caption: Cyrene, Aug 21 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 

@@ -19,28 +19,28 @@ order: Littorinimorpha
 superfamily: Littorinoidea
 subfamily: Littorininae
 updated: Aug 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/mangrove/070520smkg9552m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/mangrove/070520smkg9552m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/mangrove/070520smkg9552m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/mangrove/070520smkg9552m3.jpg
     caption: Pulau Semakau, May 07
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/mangrove/060627krjd3652m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/mangrove/060627krjd3652m3.jpg
     caption: Kranji, Jun 06
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/mangrove/110827smkd9899m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/mangrove/110827smkd9899m3a.jpg
     caption: Pulau Semakau, Aug 11
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/mangrove/161012prpmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/mangrove/161012prpmn.jpg
     caption: Pasir Ris Park, Oct 16 Photo shared by Marcus Ng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/mangrove/150705skdhpy1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/mangrove/150705skdhpy1m3.jpg
     caption: Pulau Sekudu, Jun 15 Photo shared by Heng Pei Yan on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/mangrove/090405smkmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/mangrove/090405smkmn.jpg
     caption: Pulau Semakau, Apr 09 Photo shared by Marcus Ng on flickr .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/mangrove/091205sudjk4m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/mangrove/091205sudjk4m3.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by James Koh on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/mangrove/091205sudik.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/mangrove/091205sudik.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by Ivan Kwan on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/mangrove/091205sudik2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/mangrove/091205sudik2.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by Ivan Kwan on flickr .
 links_references: '**Links**
 

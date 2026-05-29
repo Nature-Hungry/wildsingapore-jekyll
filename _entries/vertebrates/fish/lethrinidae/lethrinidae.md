@@ -17,14 +17,14 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/lentjan/070614chgg0240m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/lethrinidae/lentjan/070614chgg0240m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/lentjan/070614chgg0240m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/lethrinidae/lentjan/070614chgg0240m3.jpg
     caption: Pink ear emperor
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/lentjan/070419chgg8754m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/lethrinidae/lentjan/070419chgg8754m3.jpg
     caption: Pink ear emperor
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/nebulosus/120508skdd1871m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/lethrinidae/nebulosus/120508skdd1871m3.jpg
     caption: Spangled emperor
 links_references: '**Links**
 

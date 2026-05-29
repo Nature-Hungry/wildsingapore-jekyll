@@ -23,26 +23,26 @@ order: Arecales
 subfamily: Nypoideae
 inat_id: 83106
 updated: Jan 2013
-coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/nypa/nypa/090124ubnd5977m6.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/nypa/nypa/090124ubnd5977m6.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/nypa/nypa/100110cjd7870m6lb.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/nypa/nypa/100110cjd7870m6lb.jpg
     caption: Underground stem. Pulau Ubin, Jan 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/nypa/nypa/070422cjg8991m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/nypa/nypa/070422cjg8991m3.jpg
     caption: Fruits, most have fallen off. Chek Jawa, Apr 07
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/nypa/nypa/030719cjad0005m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/nypa/nypa/030719cjad0005m3.jpg
     caption: Female flowering cone. Chek Jawa, Jul 03
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/nypa/nypa/020224cjcpd6961m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/nypa/nypa/020224cjcpd6961m3.jpg
     caption: Attap chee. Chek Jawa, Feb 02
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/nypa/nypa/020116cjcpd5051m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/nypa/nypa/020116cjcpd5051m3.jpg
     caption: Growing fruit. Chek Jawa, Nov 02
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/nypa/nypa/090418admd0239m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/nypa/nypa/090418admd0239m3.jpg
     caption: Male flowers with pollinators. Admiralty Park, Apr 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/nypa/nypa/090418admd0234m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/nypa/nypa/090418admd0234m3.jpg
     caption: Male flowers with pollinators. Admiralty Park, Apr 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/nypa/nypa/090418admd0277m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/nypa/nypa/090418admd0277m3.jpg
     caption: Male flowers with pollinators. Admiralty Park, Apr 09
 links_references: '**Links**
 
@@ -161,17 +161,17 @@ Burkill describes the tapping process: A palm is fit to tap at 5 years of age or
 **Status and threats:**
 It is listed as 'Vulnerable' in the Red List of threatened plants of Singapore. According to Davison, most of the localities where this palm is found is not in protected areas, so there is the danger of development wiping out populations. Only populations at Sungei Buloh, Pulau Ubin and Pulau Tekong are protected.
 
-![](http://www.wildsingapore.com/wildfacts/plants/mangrove/nypa/nypa/090124ubnd5977m6.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/nypa/nypa/090124ubnd5977m6.jpg)
 
 *Pulau Ubin, Jan 09
 
-![](http://www.wildsingapore.com/wildfacts/plants/mangrove/nypa/nypa/090418admd0248m6la.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/nypa/nypa/090418admd0248m6la.jpg)*
 Ball-shaped female flower with
 
 long yellow spikes of male flowers.
 *Admiralty Park, Apr 09
 
-![](http://www.wildsingapore.com/wildfacts/plants/mangrove/nypa/nypa/090124ubnd5971m3.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/nypa/nypa/090124ubnd5971m3.jpg)*
 Growing fruit.
 *Chek Jawa, Feb 09*
 

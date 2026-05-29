@@ -20,14 +20,14 @@ class: Phaeophyceae
 subclass: Dictyotophycidae
 order: Dictyotales
 updated: Sep 15
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/noveinbranch/100809cyrd9709m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/noveinbranch/100809cyrd9709m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/noveinbranch/110220lazd6300m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/noveinbranch/110220lazd6300m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/noveinbranch/110220lazd6300m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/noveinbranch/110220lazd6300m3.jpg
     caption: Lazarus Island, Feb 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/noveinbranch/100809cyrd9709m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/noveinbranch/100809cyrd9709m3a.jpg
     caption: ''
 links_references: '**Links**
 
@@ -71,7 +71,7 @@ This broad strap-like seaweed is sometimes seen on our Southern shores, attached
 
 Clumps of flat blades 2-4cm wide and 10-15cm long. The broad strap-like blades branch irregularly near the ends on the same plane into flat strips. Tips squarish or irregularly ragged. There is no "vein" down the centre of the blade. Colours golden, yellowish to reddish brown.
 
-*![](http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/noveinbranch/100809cyrd9709m3.jpg)
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/noveinbranch/100809cyrd9709m3.jpg)
 
 Cyrene Reef, Aug 10*
 

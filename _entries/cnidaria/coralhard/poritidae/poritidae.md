@@ -17,17 +17,17 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Sep 2025
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/060102sisg3684m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/porboulder/060102sisg3684m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/060102sisg3684m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/porboulder/060102sisg3684m3.jpg
     caption: Boulder pore coral
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porbranch/070221kusd8248m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/porbranch/070221kusd8248m3.jpg
     caption: Branching pore coral
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/051204sisd6415m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/gonbig/051204sisd6415m3.jpg
     caption: Anemone corals
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonsmall/050625labg8612m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/gonsmall/050625labg8612m3.jpg
     caption: Small goniopora corals
 links_references: '**Links**
 

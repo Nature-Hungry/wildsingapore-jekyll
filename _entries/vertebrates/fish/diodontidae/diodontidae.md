@@ -22,14 +22,14 @@ superorder: Acanthomorpha
 order: Tetraodontiformes
 suborder: Tetraodontoidei
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/diodontidae/diodontidae/200623chgsbr.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/diodontidae/diodontidae/200623chgsbr.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/diodontidae/diodontidae/200623chgsbr.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/diodontidae/diodontidae/200623chgsbr.jpg
     caption: Freckled porcupinefish (Diodon holacanthus ) Changi, Apr 20 Photo shared
       by Adib Adris on Singapore Biodiversity Records.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/diodontidae/diodontidae/200209cyrjt.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/diodontidae/diodontidae/200209cyrjt.jpg
     caption: Black-blotched porcupinefish (Diodon liturosus ) Cyrene, Feb 20 Photo
       shared by Jonathan Tan on facebook .
 links_references: '**Links**

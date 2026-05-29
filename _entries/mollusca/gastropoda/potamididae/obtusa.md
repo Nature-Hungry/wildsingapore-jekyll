@@ -17,22 +17,22 @@ class: Gastropoda
 subclass: Caenogastropoda
 superfamily: Cerithioidea
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/050327sbwrg3834m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/obtusa/050327sbwrg3834m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/050327sbwrg3834m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/obtusa/050327sbwrg3834m3.jpg
     caption: Sungei Buloh, Mar 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/090816ubnd9136m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/obtusa/090816ubnd9136m3b.jpg
     caption: Pulau Ubin, Aug 09
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/090612pndd3991m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/obtusa/090612pndd3991m3a.jpg
     caption: The animal has red eyes! Sungei Pandan, Jun 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/251200admrqo5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/obtusa/251200admrqo5.jpg
     caption: Admiralty Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/251221pndrqo2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/obtusa/251221pndrqo2.jpg
     caption: Pandan Mangroves, Dec 25 Photo shared by Rui Quan Oh on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/251221pndrqo3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/obtusa/251221pndrqo3.jpg
     caption: Pandan Mangroves, Dec 25 Photo shared by Rui Quan Oh on facebook .
 links_references: '**Links**
 

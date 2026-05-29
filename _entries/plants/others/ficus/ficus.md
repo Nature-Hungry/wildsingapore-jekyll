@@ -17,21 +17,21 @@ class: Magnoliopsida
 order: Rosales
 tribe: Ficeae
 updated: Mar 10
-coverimg: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091005cjd2233m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/microcarpa/091005cjd2233m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091227kntd6471m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/microcarpa/091227kntd6471m3.jpg
     caption: Figs of the Jejawi
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091227kntd6471m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/microcarpa/091227kntd6471m3a.jpg
     caption: Small opening in a fig.
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091227kntd6471m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/microcarpa/091227kntd6471m3c.jpg
     caption: Flowers inside the hollow of a fig.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/100314cjd9907m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/microcarpa/100314cjd9907m3.jpg
     caption: Chek Jawa, Mar 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/100314cjd9925m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/microcarpa/100314cjd9925m3.jpg
     caption: Chek Jawa, Mar 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/100314cjd9947m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/microcarpa/100314cjd9947m3.jpg
     caption: Chek Jawa, Mar 10
   gallery3:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -74,12 +74,12 @@ Some figs are important culturally. For example, Buddha is believed to have gain
 *Ficus religiosa*
 ). Enormous fig trees in Asia often become stuff of legend and are treated with respect. Figs also provide food and medicine.
 
-![](http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091005cjd2233m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/microcarpa/091005cjd2233m6l.jpg)
 
 The tall Jejawi fig next to Jejawi Tower.
 *Chek Jawa, Oct 09
 
-![](http://www.wildsingapore.com/wildfacts/plants/others/ficus/crassiramea/091213ubnd5794m6l.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/crassiramea/091213ubnd5794m6l.jpg)*
 The rare
 [Collared fig](crassiramea)
 .

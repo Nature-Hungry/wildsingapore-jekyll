@@ -19,31 +19,31 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Dasycladales
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bornetella/100502tryd2285m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bornetella/100502tryd2285m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bornetella/100617tsmd6418m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bornetella/100617tsmd6418m3.jpg
     caption: Terumbu Semakau, Jun 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bornetella/100617tsmd6418m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bornetella/100617tsmd6418m3b.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bornetella/040522kusad0037m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bornetella/040522kusad0037m3.jpg
     caption: With thinner white-stemmed seaweed . Kusu Island , May 04
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bornetella/160314lazjt1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bornetella/160314lazjt1.jpg
     caption: Lazarus Island, Mar 16 Photo shared by Jonathan Tan on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bornetella/060713rlhd4364m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bornetella/060713rlhd4364m3.jpg
     caption: Raffles Lighthouse, Jul 06
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bornetella/100531biod4454m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bornetella/100531biod4454m3.jpg
     caption: Pulau Biola, May 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bornetella/100613sngd5536m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bornetella/100613sngd5536m3.jpg
     caption: Pulau Senang, Jun 10
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bornetella/091231biod6815m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bornetella/091231biod6815m3.jpg
     caption: Pulau Biola, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bornetella/091231biod6815m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bornetella/091231biod6815m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bornetella/091231biod6815m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bornetella/091231biod6815m3b.jpg
     caption: ''
 links_references: '**Links**
 
@@ -143,11 +143,11 @@ and
 *Bornetella nitida*
 form clusters of club shapes (to 5cm tall) that are slightly curved, sometimes with reddish tips. The two species are only positively distinguished by microscopic examination of reproductive features.
 
-*![](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bornetella/100502tryd2285m3.jpg)
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bornetella/100502tryd2285m3.jpg)
 
 Terumbu Raya, May 10
 
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bornetella/100502tryd2286m3a.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bornetella/100502tryd2286m3a.jpg)*
 Tufts of white filaments at the tips.
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

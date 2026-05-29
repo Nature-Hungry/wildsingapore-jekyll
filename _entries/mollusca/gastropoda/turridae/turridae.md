@@ -18,18 +18,18 @@ subclass: Caenogastropoda
 order: Neogastropoda
 superfamily: Conoidea
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turridae/turridae/030914cjd0075m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turridae/turridae/030914cjd0075m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turridae/turridae/030914cjd0075m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turridae/turridae/030914cjd0075m6l.jpg
     caption: Turricula javana Chek Jawa, Sep 03
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turridae/turridae/100926cjd1660m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turridae/turridae/100926cjd1660m3.jpg
     caption: Turricula javana Chek Jawa, Sep 10
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turridae/turridae/180616bblks8.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turridae/turridae/180616bblks8.jpg
     caption: Turris nadaensis Beting Bronok, Jun 18 Photo shared by Loh Kok Sheng
       on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turridae/turridae/180616bblks8a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turridae/turridae/180616bblks8a.jpg
     caption: ''
 links_references: '**Links**
 

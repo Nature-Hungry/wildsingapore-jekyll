@@ -17,23 +17,23 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/hexaneat/050821bbg2002m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/siderastreidae/hexaneat/050821bbg2002m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/hexaneat/050821bbg2002m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/siderastreidae/hexaneat/050821bbg2002m3.jpg
     caption: Beting Bronok, Aug 05
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/hexaneat/120704chgd6845m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/siderastreidae/hexaneat/120704chgd6845m3.jpg
     caption: Changi, Jul 12
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/hexaneat/250712tplmn5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/siderastreidae/hexaneat/250712tplmn5.jpg
     caption: Terumbu Pempang Laut, Jul 25 Photo shared by Marcus Ng on facebook .
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/hexaneat/170723ubnay6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/siderastreidae/hexaneat/170723ubnay6.jpg
     caption: Pulau Ubin, Jul 17 Photo shared by Abel Yeo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/hexaneat/210529ecpblks17.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/siderastreidae/hexaneat/210529ecpblks17.jpg
     caption: East Coast Park (B), May 21 Photo shared by Loh Kok Sheng on facebook
       .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/hexaneat/220419sjimn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/siderastreidae/hexaneat/220419sjimn1.jpg
     caption: St John's Island, Apr 22 Photo shared by Marcus Ng on facebook
 links_references: '**Links**
 

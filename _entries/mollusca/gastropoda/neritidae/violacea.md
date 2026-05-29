@@ -19,14 +19,14 @@ order: Cycloneritida
 superfamily: Neritoidea
 subfamily: Neritininae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/violacea/110328mndd8043m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/violacea/110328mndd8043m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/violacea/110328mndd8043m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/violacea/110328mndd8043m3.jpg
     caption: Side view. Mandai, Mar 11
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/violacea/110328mndd8041m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/violacea/110328mndd8041m3.jpg
     caption: Underside. Mandai, Mar 11
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/violacea/110328mndd8039m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/violacea/110328mndd8039m3.jpg
     caption: Animal emerging from the shell. Mandai, Mar 11
 links_references: '**Links**
 

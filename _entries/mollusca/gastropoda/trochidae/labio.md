@@ -19,22 +19,22 @@ order: Trochida
 superfamily: Trochoidea
 subfamily: Monodontinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/050508kusg5899m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/labio/050508kusg5899m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/050508kusg5899m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/labio/050508kusg5899m3.jpg
     caption: Kusu Island, May 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/050508kus58911m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/labio/050508kus58911m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/050807sjig0794m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/labio/050807sjig0794m3.jpg
     caption: St. John's Island, Aug 05
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/210628ecpBvc5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/labio/210628ecpBvc5.jpg
     caption: East Coast Park (B), Jun 21 Photo shared by Vincent Choo on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/160509srpik1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/labio/160509srpik1.jpg
     caption: Sentosa Serapong, May 16 Photo shared by Ivan Kwan on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/091205sudikw1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/labio/091205sudikw1m3.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by Ivan Kwan on his flickr .
 links_references: "**Links**\n- [Family Trochidae](http://mangrove.nus.edu.sg/pub/seashore/text/134)\n\
   Tan, Leo W. H. & Ng, Peter K. L., 1988.\n[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)\n\

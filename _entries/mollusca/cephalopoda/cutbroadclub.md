@@ -20,60 +20,60 @@ order: Sepiida
 suborder: Sepiina
 superfamily: Sepioidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutbroadclub/111226tmftd5030m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutbroadclub/111226tmftd5030m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutbroadclub/111226tmftd5030m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutbroadclub/111226tmftd5030m6l.jpg
     caption: Tanah Merah, Dec 11
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutbroadclub/111226tmftd5031m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutbroadclub/111226tmftd5031m3c.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutbroadclub/091009tmd2690m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutbroadclub/091009tmd2690m3.jpg
     caption: Young cuttlefish resembles a floating mangrove leaf with midrib, veins
       and stem. Tanah Merah, Oct 09
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutbroadclub/091009tmd2690m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutbroadclub/091009tmd2690m3b.jpg
     caption: ''
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutbroadclub/150802bblks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutbroadclub/150802bblks2.jpg
     caption: Beting Bronok, Aug 15 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutbroadclub/121117hntmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutbroadclub/121117hntmn.jpg
     caption: Pulau Hantu, Nov 12 Photo shared by Marcus Ng on flickr .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutbroadclub/091008tmjk5m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutbroadclub/091008tmjk5m3.jpg
     caption: Tanah Merah, Oct 09 Photo shared by James Koh on his blog .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutbroadclub/160509srpik7.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutbroadclub/160509srpik7.jpg
     caption: Sentosa Serapong, May 16 Photo shared by Ivan Kwan on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutbroadclub/240212sjiky2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutbroadclub/240212sjiky2.jpg
     caption: St John's Island, Feb 24 Photo shared by Kelvin Yong on facebook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutbroadclub/210113smkwvc3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutbroadclub/210113smkwvc3b.jpg
     caption: Pulau Semakau (West), Jan 21 Photo shared by Vincent Choo on facebook
       ..
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutbroadclub/210113smkwvc3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutbroadclub/210113smkwvc3.jpg
     caption: Pulau Semakau (West), Jan 21 Photo shared by Vincent Choo on facebook
       ..
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutbroadclub/221225smksmn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutbroadclub/221225smksmn1.jpg
     caption: Pulau Semakau (South), Dec 22 Photo shared by Marcus Ng on facebook .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutbroadclub/121115tsmklks2.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutbroadclub/121115tsmklks2.JPG
     caption: Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutbroadclub/121115tsmklks1.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutbroadclub/121115tsmklks1.JPG
     caption: Terumbu Semakau, Nov 12
   gallery9:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutbroadclub/131006smklks1.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutbroadclub/131006smklks1.JPG
     caption: Pulau Semakau, Oct 13
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutbroadclub/131006smklks2.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutbroadclub/131006smklks2.JPG
     caption: The same cuttlefish changi colour. Photo shared by Loh Kok Sheng on his
       blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutbroadclub/111026smklks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutbroadclub/111026smklks.JPG
     caption: Pulau Semakau, Oct 11 Photo shared by Loh Kok Sheng on flickr .
   gallery10:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutbroadclub/170311bbbjt.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutbroadclub/170311bbbjt.jpg
     caption: Beting Bemban Besar, Mar 17 Photo shared by Juria Toramae on facebook
       ..
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutbroadclub/220521bbbjll1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutbroadclub/220521bbbjll1.jpg
     caption: Beting Bemban Besar, May 22 Photo shared by Jianlin LIu on facebook ..
 links_references: '**Links**
 

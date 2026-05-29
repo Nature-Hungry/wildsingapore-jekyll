@@ -17,7 +17,7 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/110730tmftd7666m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/circular/110730tmftd7666m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -30,31 +30,31 @@ galleries:
       giant solitary polyps (although some are colonial). The sandy areas in a reef
       may have many of these animals. Watch your step!
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/110730tmftd7666m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/circular/110730tmftd7666m3.jpg
     caption: Young mushroom corals start life attached to a hard surface on stalks.
       Tanah Merah, Jul 2011
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/110423tpld9895m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/circular/110423tpld9895m3.jpg
     caption: '''Stalk'' on underside of dead mushroom coral. Sisters Island, Aug 08'
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/060131sjig4475m3e.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/circular/060131sjig4475m3e.jpg
     caption: Underside of a mushroom coral. St. John's Island, Jan 06
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3.jpg
     caption: Circular mushroom coral
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060402ulrd0962m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/oval/060402ulrd0962m3.jpg
     caption: Oval mushroom coral
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/040801hntd3805m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/heliofungia/040801hntd3805m3.jpg
     caption: Sunflower mushroom coral often mistaken for a sea anemone.
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/100502tryd2301m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/polyphyllia/100502tryd2301m3.jpg
     caption: Mole mushroom coral
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/040606kusg0472m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/herpolitha/040606kusg0472m3.jpg
     caption: Tongue mushroom coral
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/110717tbd7197m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/ctenactis/110717tbd7197m3.jpg
     caption: Feather mushroom coral
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/bracket/110731tryd7884m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/bracket/110731tryd7884m3.jpg
     caption: Bracket mushroom coral
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/070324cyrd9365m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/lithophyllon/070324cyrd9365m3.jpg
     caption: Lithophyllon mushroom coral
 links_references: '**Links**
 

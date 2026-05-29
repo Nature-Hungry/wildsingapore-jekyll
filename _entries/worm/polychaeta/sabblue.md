@@ -18,31 +18,31 @@ subclass: Sedentaria
 infraclass: Canalipalpata
 order: Sabellida
 updated: Oct 2019
-coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/blue/050623cjg8275m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/blue/050623cjg8275m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/blue/050623cjg8275m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/blue/050623cjg8275m3.jpg
     caption: Chek Jawa, Jun 05
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/blue/050623cjg8275m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/blue/050623cjg8275m3c.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/blue/050623cjg8275m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/blue/050623cjg8275m3b.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/blue/050721cjd5115m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/blue/050721cjd5115m3.jpg
     caption: Chek Jawa , Jul 05
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/blue/060528bbd2473m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/blue/060528bbd2473m3.jpg
     caption: Beting Bronok, May 06
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/blue/060528bbd2473m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/blue/060528bbd2473m3a.jpg
     caption: ''
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/blue/251012chgal5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/blue/251012chgal5.jpg
     caption: Changi, Oct 25 Photo shared by Adriane Lee on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/blue/180714cjjll4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/blue/180714cjjll4.jpg
     caption: Chek Jawa, Jul 18 Photo shared by Jianlin LIu on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/blue/230803skdmn2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/blue/230803skdmn2.jpg
     caption: Pulau Sekudu, Aug 23 Photo shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/blue/240625bbky2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/blue/240625bbky2.jpg
     caption: Beting Bronok, Jun 24 Photo shared by Kelvin Yong on facebook .
 location:
 - chg

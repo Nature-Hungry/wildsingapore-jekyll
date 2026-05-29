@@ -17,24 +17,24 @@ class: Anthozoa
 subclass: Octocorallia
 order: Scleralcyonacea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lyre/060812bbd6033m3la.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/lyre/060812bbd6033m3la.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lyre/060812bbd6033m3la.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/lyre/060812bbd6033m3la.jpg
     caption: Beting Bronok, May 06
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lyre/060812bbd6033m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/lyre/060812bbd6033m3b.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lyre/040604bbad0076m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/lyre/040604bbad0076m3.jpg
     caption: Beting Bronok, Jun 04
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lyre/030520bbd0332m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/lyre/030520bbd0332m3.jpg
     caption: Beting Bronok, May 03
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lyre/120704chgd6848m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/lyre/120704chgd6848m3.jpg
     caption: Changi, Jul 12
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lyre/240706ubnlks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/lyre/240706ubnlks1.jpg
     caption: Changi-Loyang, Jul 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lyre/240706ubnlks1a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/lyre/240706ubnlks1a.jpg
     caption: ''
 links_references: '**Links**
 

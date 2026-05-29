@@ -17,74 +17,74 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Sep 2025
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/symphyllia/060415hntd1262m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/symphyllia/060415hntd1262m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/symphyllia/060415hntd1262m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/symphyllia/060415hntd1262m3.jpg
     caption: With tentacles extended. Pulau Hantu, Apr 06
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/symphyllia/060415hntd1263m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/symphyllia/060415hntd1263m3.jpg
     caption: With tentacles retracted.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/symphyllia/060415hntd1263m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/symphyllia/060415hntd1263m3b.jpg
     caption: With tentacles retracted, groove at the top of the walls.
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/symphyllia/060415hntd1262m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/symphyllia/060415hntd1262m3c.jpg
     caption: ''
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/symphyllia/120424tmnbd0416m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/symphyllia/120424tmnbd0416m3.jpg
     caption: Tanah Merah, Apr 12
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/symphyllia/120618tmnbd5302m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/symphyllia/120618tmnbd5302m3.jpg
     caption: . Tanah Merah, Jun 12
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/symphyllia/080508cyrd2664m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/symphyllia/080508cyrd2664m3.jpg
     caption: Cyrene Reef, May 08
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/symphyllia/040703sisd1775m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/symphyllia/040703sisd1775m3.jpg
     caption: Sisters Island, Jul 04
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/symphyllia/060402ulrd1191m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/symphyllia/060402ulrd1191m3.jpg
     caption: Pulau Hantu, Apr 06
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/symphyllia/060713rlhd4238m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/symphyllia/060713rlhd4238m3.jpg
     caption: Raffles Lighthouse, Jul 06
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/symphyllia/111029smkd3005m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/symphyllia/111029smkd3005m3.jpg
     caption: Pulau Semakau, Oct 11
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/symphyllia/070701hntd2998m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/symphyllia/070701hntd2998m3.jpg
     caption: Pulau Hantu, Jul 07
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/symphyllia/080816sisd9640m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/symphyllia/080816sisd9640m3.jpg
     caption: Sisters Island, Aug 08
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/symphyllia/100615tmlks4m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/symphyllia/100615tmlks4m3a.jpg
     caption: Tanah Merah, Jun 10 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/symphyllia/130527tmlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/symphyllia/130527tmlks.JPG
     caption: Tanah Merah, May 13 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/symphyllia/090512tmlks17m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/symphyllia/090512tmlks17m3.jpg
     caption: Tanah Merah, May 09 Photo shared by Loh Kok Sheng on his blog
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/symphyllia/150520ecpbslks2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/symphyllia/150520ecpbslks2m3.jpg
     caption: East Coast Park (B), May 15 Photo shared by Loh Kok Sheng on his blog
       .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/symphyllia/251108ecpblks12.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/symphyllia/251108ecpblks12.jpg
     caption: East Coast Park (B), Nov 25 Photo shared by Loh Kok Sheng on facebook
       .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/symphyllia/100519tsmjk9m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/symphyllia/100519tsmjk9m3.jpg
     caption: Terumbu Semakau, May 10 Photo shared by James Koh on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/symphyllia/100629tpdjk19m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/symphyllia/100629tpdjk19m3.jpg
     caption: Terumbu Pempang Darat, Jun 10 Photo shared by James Koh on his blog .
   gallery9:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/symphyllia/091204pawd0033m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/symphyllia/091204pawd0033m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/symphyllia/100130brkd8662m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/symphyllia/100130brkd8662m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/symphyllia/100130brkd8710m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/symphyllia/100130brkd8710m3.jpg
     caption: Terumbu Berkas, Jan 10
   gallery10:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/symphyllia/100613sngd5504m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/symphyllia/100613sngd5504m3.jpg
     caption: Pulau Senang, Jun 10 Bleaching.
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/symphyllia/100613sngd5608m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/symphyllia/100613sngd5608m3.jpg
     caption: Pulau Senang, Jun 10
   gallery11:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/symphyllia/100530tbkd4259m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/symphyllia/100530tbkd4259m3.jpg
     caption: Bleaching. Pulau Berkas, May 10
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/symphyllia/100601slud4994m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/symphyllia/100601slud4994m3.jpg
     caption: Bleaching. Pulau Salu, Jun 10
 links_references: '**Links**
 

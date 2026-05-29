@@ -22,67 +22,67 @@ class: Asteroidea
 superorder: Valvatacea
 order: Valvatida
 updated: Mar 2020
-coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/gymnanthenea/081018cjd1194m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/gymnanthenea/081018cjd1194m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/gymnanthenea/081018cjd1194m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/gymnanthenea/081018cjd1194m3.jpg
     caption: Chek Jawa, Oct 08
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/gymnanthenea/081018cjd1194m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/gymnanthenea/081018cjd1194m3a.jpg
     caption: Large plate-like spines on upperside.
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/gymnanthenea/081018cjd1194m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/gymnanthenea/081018cjd1194m3b.jpg
     caption: Large block-like plates on sides of the arms. Spines on the tips of the
       arms.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/gymnanthenea/081018cjd1196m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/gymnanthenea/081018cjd1196m3.jpg
     caption: Underside may be plain or spotted.
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/gymnanthenea/081018cjd1196m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/gymnanthenea/081018cjd1196m3c.jpg
     caption: Large bivalved pedicelleria on the underside.
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/gymnanthenea/210613chg4vc2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/gymnanthenea/210613chg4vc2.jpg
     caption: A tiny one. Changi (4), Jun 21 Photo shared by Vincent Choo on facebook
       .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/gymnanthenea/170723ubnay9.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/gymnanthenea/170723ubnay9.jpg
     caption: Pulau Ubin, Jul 17 Photo shared by Abel Yeo on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/gymnanthenea/200723bbtch1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/gymnanthenea/200723bbtch1.jpg
     caption: Beting Bronok, Jul 20 Photo shared by Toh Chay Hoon on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/gymnanthenea/250627bbio1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/gymnanthenea/250627bbio1.jpg
     caption: Beting Bronok, Jun 25 Photo shared by Isaac Ong on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/gymnanthenea/250627bbvc7.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/gymnanthenea/250627bbvc7.jpg
     caption: Beting Bronok, Jun 25 Photo shared by Vincent Choo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/gymnanthenea/250627bbvc7a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/gymnanthenea/250627bbvc7a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/gymnanthenea/250627bbvc7b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/gymnanthenea/250627bbvc7b.jpg
     caption: ''
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/gymnanthenea/250528chsafmn2a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/gymnanthenea/250528chsafmn2a.jpg
     caption: Changi SAF chalets, May 25 Photo shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/gymnanthenea/250529cjrk3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/gymnanthenea/250529cjrk3.jpg
     caption: Chek Jawa, May 25 Photo shared by Richard Kuah on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/gymnanthenea/090821tmlks2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/gymnanthenea/090821tmlks2m3.jpg
     caption: Tanah Merah, Aug 09 Photo shared by Loh Kok Sheng on his blog .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/gymnanthenea/090723ecplks8m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/gymnanthenea/090723ecplks8m3.jpg
     caption: East Coast, Jul 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/gymnanthenea/170527ecplks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/gymnanthenea/170527ecplks2.jpg
     caption: East Coast, May 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/gymnanthenea/210628ecpBlks3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/gymnanthenea/210628ecpBlks3.jpg
     caption: East Coast Park (B), Jun 21 Photo shared by Loh Kok Sheng on facebook
       .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/gymnanthenea/080508cyrlks01m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/gymnanthenea/080508cyrlks01m3.jpg
     caption: Cyrene Reef, May 08
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/gymnanthenea/080508cyrlks02m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/gymnanthenea/080508cyrlks02m3.jpg
     caption: Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/gymnanthenea/080508cyrlks03m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/gymnanthenea/080508cyrlks03m3.jpg
     caption: ''
   gallery9:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/gymnanthenea/100713cyrtch2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/gymnanthenea/100713cyrtch2m3.jpg
     caption: Cyrene Reef, Jul 10
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/gymnanthenea/100713cyrtch2m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/gymnanthenea/100713cyrtch2m3a.jpg
     caption: Photo shared by Toh Chay Hoon on her blog .
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/gymnanthenea/100713cyrtch2m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/gymnanthenea/100713cyrtch2m3b.jpg
     caption: ''
 links_references: '**Links**
 

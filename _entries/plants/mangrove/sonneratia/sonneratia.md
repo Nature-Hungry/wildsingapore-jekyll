@@ -20,37 +20,37 @@ updated: Jan 2013
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/091230prpd6477m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/caseolaris/091230prpd6477m3.jpg
     caption: Sunbird nesting in Berembang. Pasir Ris Park, Jan 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/091230prpd6472m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/caseolaris/091230prpd6472m3.jpg
     caption: Atlas moth cocoon on Berembang. Pasir Ris Park, Jan 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/ovata/110531krjL1000195m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/ovata/110531krjL1000195m3.jpg
     caption: Ripe fruit falls and splits open releasing seeds. Kranji Nature Trail,
       Jun 11
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/alba/121216ubnd2662m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/alba/121216ubnd2662m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/121227prpd2726m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/caseolaris/121227prpd2726m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/ovata/090410ubnd9315m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/ovata/090410ubnd9315m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/alba/090117smkd5551m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/alba/090117smkd5551m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/121227prpd2739m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/caseolaris/121227prpd2739m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/ovata/110428prpd0243m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/ovata/110428prpd0243m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/alba/050626smkg4450m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/alba/050626smkg4450m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/110311prpd7026m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/caseolaris/110311prpd7026m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/ovata/110328mndd8069m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/ovata/110328mndd8069m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/alba/090411lckd9580m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/alba/090411lckd9580m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/091230prpd6480m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/caseolaris/091230prpd6480m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/ovata/090410ubnd9310m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/ovata/090410ubnd9310m3.jpg
     caption: ''
 links_references: '**Links**
 
@@ -173,15 +173,15 @@ Fireflies are also associated with other Sonneratia species and other mangrove t
 *Pteroptyx valida*
 which doesn't flash in a synchronised manner and is found in other kinds of mangrove trees.
 
-![](http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/alba/090117smkd5432m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/alba/090117smkd5432m6l.jpg)
 
 *Pulau Semakau, Jan 09
 
-![](http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/alba/090611prpd3865m3.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/alba/090611prpd3865m3.jpg)*
 Conical pneumatophores.
 *Pasir Ris, May 09
 
-![](http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/alba/081211smkd2766m3.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/alba/081211smkd2766m3.jpg)*
 Side roots from the pneumatophore.
 *Pulau Semakau, Dec 08*
 

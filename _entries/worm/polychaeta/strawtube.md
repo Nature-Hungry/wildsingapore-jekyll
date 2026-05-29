@@ -15,23 +15,23 @@ phylum: Annelida
 class: Polychaeta
 subclass: Sedentaria
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/strawtube/080122cjd9082m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/strawtube/080122cjd9082m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/strawtube/080122cjd9082m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/strawtube/080122cjd9082m3.jpg
     caption: Regularly separated, not tightly clustered. Chek Jawa, Jan 08
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/strawtube/080801chglks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/strawtube/080801chglks.JPG
     caption: Peeking out of its tube. Changi, Aug 08 Photo shared by Loh Kok Sheng
       on flickr .
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/strawtube/120410chgd9214m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/strawtube/120410chgd9214m3.jpg
     caption: Changi, Apr 12
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/strawtube/120410chgd9214m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/strawtube/120410chgd9214m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/strawtube/120410chgd9214m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/strawtube/120410chgd9214m3b.jpg
     caption: ''
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/strawtube/171206ubnlks4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/strawtube/171206ubnlks4.jpg
     caption: Pulau Ubin, Dec 17 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 

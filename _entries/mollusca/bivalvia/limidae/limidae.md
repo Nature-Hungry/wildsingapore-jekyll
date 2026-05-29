@@ -18,24 +18,24 @@ infraclass: Pteriomorphia
 order: Limida
 superfamily: Limoidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/120721tptd8003m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/limidae/limidae/120721tptd8003m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/120721tptd8003m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/limidae/limidae/120721tptd8003m3.jpg
     caption: Swimming file clam can swim! Terumbu Pempang Tengah, Jul 12
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/120820sisd0717m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/limidae/limidae/120820sisd0717m3.jpg
     caption: Common file clam stuck to a rock. Sisters Island, Aug 12
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/230806tbrk4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/limidae/limidae/230806tbrk4.jpg
     caption: Super tiny one! Terumbu Bemban, Aug 23 Photo shared by Richard Kuah on
       facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/201019sjijk1b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/limidae/limidae/201019sjijk1b.jpg
     caption: Swimming file clam wedged in a crevice. St John's Island, Oct 20 Photo
       shared by James Koh on flickr .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/120721tptd8018m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/limidae/limidae/120721tptd8018m3.jpg
     caption: Swimming file clam
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/120820sisd0881m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/limidae/limidae/120820sisd0881m3.jpg
     caption: Common file clam
 links_references: '**Links**
 

@@ -18,40 +18,40 @@ class: Holothuroidea
 subclass: Paractinopoda
 order: Apodida
 updated: Apr 2020
-coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/030717skdd0090m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/synsponge/030717skdd0090m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/030717skdd0090m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/synsponge/030717skdd0090m3.jpg
     caption: Synaptids on a sponge usual many seen together. Pulau Sekudu, Jul 03
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/080422smkd1534m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/synbig/080422smkd1534m3.jpg
     caption: Big synaptid is usually seen alone. Pulau Semakau, Apr 08
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/130331tbd5041m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/synbig/130331tbd5041m3.jpg
     caption: Big synaptid when 'bobbles' are not expanded. Terumbu Bemban, Mar 13
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/120819cyrd0606m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/synbig/120819cyrd0606m3.jpg
     caption: Feeding tentacles. Cyrene Reef, Aug 12
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/120819cyrd0606m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/synbig/120819cyrd0606m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/120819cyrd0607m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/synbig/120819cyrd0607m3.jpg
     caption: Body covered with tiny hooked sclerites.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/050722cjg9849m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/synsponge/050722cjg9849m3.jpg
     caption: Sponge synaptid sea cucumber
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/050822cjg2143m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/synsponge/050822cjg2143m3.jpg
     caption: Usually many seen on a sponge.
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/050722cjg9849m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/synsponge/050722cjg9849m3b.jpg
     caption: Feeding tentacles
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/071026cyrd7139m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/synbig/071026cyrd7139m3.jpg
     caption: Big synaptid sea cucumber
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/071026cyrd7141m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/synbig/071026cyrd7141m3b.jpg
     caption: Usually seen alone. With distinct stripes between 'bobbles'.
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/071026cyrd7141m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/synbig/071026cyrd7141m3a.jpg
     caption: Feeding tentacles
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synmangrove/200125prpAm6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/synmangrove/200125prpAm6l.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synmangrove/200125prpAm3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/synmangrove/200125prpAm3.jpg
     caption: ''
 links_references: "**Links**\n- [Family Synaptidae](http://species-identification.org/species.php?species_group=nasc&id=6&menuentry=groepen)\n\
   in North Australian Sea Cucumbers on Marine Species Identification Portal: Technical\

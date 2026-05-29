@@ -20,14 +20,14 @@ superfamily: Cypraeoidea
 subfamily: Luriinae
 tribe: Austrocypraeini
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/vitellus/040829kusd5644m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/vitellus/040829kusd5644m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/vitellus/040829kusd5644m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/vitellus/040829kusd5644m3.jpg
     caption: Kusu Island, Aug 04
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/vitellus/040829ssd5648m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/vitellus/040829ssd5648m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/vitellus/040829ssd5649m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/vitellus/040829ssd5649m3.jpg
     caption: Underside.
 links_references: '**Links**
 

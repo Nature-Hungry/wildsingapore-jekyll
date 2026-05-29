@@ -25,14 +25,14 @@ subclass: Caenogastropoda
 superfamily: Cerithioidea
 subfamily: Turritellinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turritellidae/turritella/081019chgd1320m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turritellidae/turritella/081019chgd1320m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turritellidae/turritella/081019chgd1320m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turritellidae/turritella/081019chgd1320m3.jpg
     caption: Changi, Oct 08
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turritellidae/turritella/081019chgd1320m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turritellidae/turritella/081019chgd1320m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turritellidae/turritella/060626ecpd3524m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turritellidae/turritella/060626ecpd3524m3.jpg
     caption: East Coast, Jun 06
 links_references: '**Links**
 

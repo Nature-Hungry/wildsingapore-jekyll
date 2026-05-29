@@ -23,24 +23,24 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Gobiinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/bathygobius/090621hntd4458.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/bathygobius/090621hntd4458.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/bathygobius/090621hntd4458.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/bathygobius/090621hntd4458.jpg
     caption: Pulau Hantu, Jun 09
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/bathygobius/070901sjid6547m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/bathygobius/070901sjid6547m6l.jpg
     caption: Tiny white dots regularly spaced on face and in rows on its body. St.
       John's Island, Sep 07
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/bathygobius/201118nsrcssjk5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/bathygobius/201118nsrcssjk5.jpg
     caption: East Coast NSRCC, Nov 20 Photo shared by James Koh on flickr.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/bathygobius/151001blyjt10m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/bathygobius/151001blyjt10m3.jpg
     caption: Berlayar Creek, Oct 15 Photo shared by Jonathan Tan on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/bathygobius/160509srpmn4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/bathygobius/160509srpmn4.jpg
     caption: Sentosa Serapong, May 16 Photo shared by Marcus Ng on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/bathygobius/090624jnglt1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/bathygobius/090624jnglt1m3.jpg
     caption: Pulau Jong, Jun 09 Photo shared by Liana Tang on her blog .
 links_references: '**Links**
 

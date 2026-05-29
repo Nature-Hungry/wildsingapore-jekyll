@@ -30,21 +30,21 @@ updated: Dec 2019
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/stoutpincer/090905sbwrd0180m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/stoutpincer/090905sbwrd0180m3.jpg
     caption: Sungei Buloh Wetland Reserve, Sep 09
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/stoutpincer/090816sbwrd9021m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/stoutpincer/090816sbwrd9021m3.jpg
     caption: Sungei Buloh Wetland Reserve, Aug 09
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/stoutpincer/090926cjd1900m3e.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/stoutpincer/090926cjd1900m3e.jpg
     caption: Chek Jawa, Sep 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/stoutpincer/091226cjd6274m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/stoutpincer/091226cjd6274m3.jpg
     caption: Chek Jawa, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/stoutpincer/100411prpd1059m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/stoutpincer/100411prpd1059m3.jpg
     caption: Pasir Ris Park, Apr 10
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/stoutpincer/090905sbwrd0179m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/stoutpincer/090905sbwrd0179m3.jpg
     caption: Sungei Buloh Wetland Reserve, Sep 09
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/stoutpincer/090829cjjk1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/stoutpincer/090829cjjk1m3.jpg
     caption: Chek Jawa, Aug 09 Photo shared by James Koh on his blog .
 location:
 - sbw

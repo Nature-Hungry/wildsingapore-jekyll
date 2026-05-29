@@ -17,44 +17,44 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Sep 2025
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/130824smkd2605m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/lobophyllia/130824smkd2605m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/130824smkd2605m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/lobophyllia/130824smkd2605m3.jpg
     caption: Pulau Semakau, Aug 13
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/130824smkd2605m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/lobophyllia/130824smkd2605m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/130824smkd2605m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/lobophyllia/130824smkd2605m3b.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/050528kusd3539m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/lobophyllia/050528kusd3539m3.jpg
     caption: Kusu Island, May 05 Those with smaller circular corallites sometimes
       mistaken for Trumpet corals .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/050528kusg7047m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/lobophyllia/050528kusg7047m3b.jpg
     caption: Lobed brain corals have bigger 'teeth' than Trumpet corals .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/100201hntd8950m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/lobophyllia/100201hntd8950m3.jpg
     caption: Pulau Hantu, Jan 10
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/040705sisd2169m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/lobophyllia/040705sisd2169m3.jpg
     caption: Sisters Island, Jul 04
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/060714rlhg6536m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/lobophyllia/060714rlhg6536m3.jpg
     caption: Raffles Lighthouse, Jul 06
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/150706srplks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/lobophyllia/150706srplks.JPG
     caption: Sentosa Serapong, Jul 15 Photo shared by Loh Kok Sheng on flickr .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/100530tbkd4263m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/lobophyllia/100530tbkd4263m3.jpg
     caption: Pulau Berkas, May 10
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/100530tbkd4396m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/lobophyllia/100530tbkd4396m3.jpg
     caption: Pulau Berkas, May 10
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/091204pawd5317m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/lobophyllia/091204pawd5317m3.jpg
     caption: Pulau Pawai, Dec 09
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/100613snglks2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/lobophyllia/100613snglks2m3.jpg
     caption: Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/091205pawlks8m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/lobophyllia/091205pawlks8m3.jpg
     caption: Pulau Pawai, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/100616tsmmn1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/lobophyllia/100616tsmmn1m3.jpg
     caption: Terumbu Semakau, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
 links_references: '**Links**
 

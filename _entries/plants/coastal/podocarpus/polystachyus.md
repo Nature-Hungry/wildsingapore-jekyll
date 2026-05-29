@@ -20,21 +20,21 @@ phylum: Tracheophyta
 class: Pinopsida
 order: Pinales
 updated: Jan 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/podocarpus/polystachyus/090401snto4011691m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/podocarpus/polystachyus/090401snto4011691m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/podocarpus/polystachyus/080511sntd3314m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/podocarpus/polystachyus/080511sntd3314m3.jpg
     caption: Green seed on top of swollen receptacle. Sentosa, Apr 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/podocarpus/polystachyus/080511sntd3315m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/podocarpus/polystachyus/080511sntd3315m3.jpg
     caption: Female cones Sentosa, May 08
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/podocarpus/polystachyus/130107blyd3209m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/podocarpus/polystachyus/130107blyd3209m3.jpg
     caption: Young female cones Berlayar Creek, Jan 13
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/podocarpus/polystachyus/090413blyd0130m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/podocarpus/polystachyus/090413blyd0130m3.jpg
     caption: Swollen red receptacle attracts birds and bats. Labrador Park, Apr 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/podocarpus/polystachyus/070831sntd6389m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/podocarpus/polystachyus/070831sntd6389m3a.jpg
     caption: Male cones. Sentosa, Aug 07
-  - url: http://www.wildsingapore.com/wildfacts/plants/coastal/podocarpus/polystachyus/090401sntd8840m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/podocarpus/polystachyus/090401sntd8840m3.jpg
     caption: Sentosa, Apr 09
 links_references: '**Links**
 
@@ -136,12 +136,12 @@ and
 [Sentosa's natural cliffs](http://wildfilms.blogspot.com/2008/05/sea-teak-of-sentosa.html)
 at the Tanjung Rimau natural shore. According to the Red Data Book, it is also found at St. John's Island. On the mainland, it is only found in the Sungei Mandai area. But the tree is now widely planted in many of our coastal parks.
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/podocarpus/polystachyus/090401snto4011691m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/podocarpus/polystachyus/090401snto4011691m6l.jpg)
 
 Growing wild on a natural cliff.
 *Sentosa, Apr 09
 
-![](http://www.wildsingapore.com/wildfacts/plants/coastal/podocarpus/polystachyus/090401sntd8839m3b.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/podocarpus/polystachyus/090401sntd8839m3b.jpg)
 
 *Sentosa, Apr 09**
 

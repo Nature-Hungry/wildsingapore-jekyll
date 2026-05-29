@@ -19,60 +19,60 @@ order: Littorinimorpha
 superfamily: Tonnoidea
 subfamily: Phaliinae
 updated: Jan 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrd0370m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cassidae/glaucum/110830cyrd0370m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrd0370m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cassidae/glaucum/110830cyrd0370m3.jpg
     caption: Thick strong foot. Cyrene Reef, Aug 11
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/111028chged2770m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cassidae/glaucum/111028chged2770m3.jpg
     caption: Buried with only its siphon sticking out. Changi East, Oct 11
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cassidae/glaucum/110830cyrlks.JPG
     caption: Juvenile with less developed shell. Cyrene Reef, Aug 11 Photo shared
       by Loh Kok Sheng on flickr .
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrd0374m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cassidae/glaucum/110830cyrd0374m3.jpg
     caption: On top of a Cake sand dollar. Cyrene Reef, Aug 11
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrd0379m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cassidae/glaucum/110830cyrd0379m3a.jpg
     caption: Notch in the shell for its siphon.
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrd0365m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cassidae/glaucum/110830cyrd0365m3.jpg
     caption: ''
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/250503cyrlml1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cassidae/glaucum/250503cyrlml1.jpg
     caption: 'Cyrene, May 25 Photo shared by Mathias Luk on facebook . Human uses:
       It is collected for food and for the shell trade. Status and threats: The Grey
       bonnet is listed as ''Endangered'' in the Red List of threatened animals of
       Singapore. It is threatened by habitat loss and over-collection. The Book states
       that it has not been seen since the early 1970s and its status needs investigation
       to determine if there are any remaining populations.'
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/250503cyrlml1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cassidae/glaucum/250503cyrlml1.jpg
     caption: Cyrene, May 25 Photo shared by Mathias Luk on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/250503cyrlml1a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cassidae/glaucum/250503cyrlml1a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/250503cyrlml1b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cassidae/glaucum/250503cyrlml1b.jpg
     caption: ''
   gallery4:
   - url: https://live.staticflickr.com/700/19998112723_8c9d303cdb_z.jpg
     caption: ''
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/191214cjjt3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cassidae/glaucum/191214cjjt3.jpg
     caption: Chek Jawa, Dec 19 Photo shared by Juria Toramae on facebook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/251206chgelks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cassidae/glaucum/251206chgelks2.jpg
     caption: Changi East (Lost Coast), Dec 25 Photo shared by Loh Kok Sheng on facebook
       ..
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/220616chgelks9.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cassidae/glaucum/220616chgelks9.jpg
     caption: Eating a sand dollar? Changi East (Lost Coast), Jun 22 Photo shared by
       Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/210529ecpgtch1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cassidae/glaucum/210529ecpgtch1.jpg
     caption: East Coast (G), May 21 Photo shared by Juria Toramae on facebook .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/140501kusmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cassidae/glaucum/140501kusmn.jpg
     caption: Kusu Island, May 14 Photo shared by Marcus Ng on flickr .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110508cyrmng3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cassidae/glaucum/110508cyrmng3m3.jpg
     caption: Eating a sand dollar? Cyrene Reef, May 11 Photo shared by Marcus Ng on
       flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/260201cyrlks3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cassidae/glaucum/260201cyrlks3.jpg
     caption: Cyrene, Feb 26 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 

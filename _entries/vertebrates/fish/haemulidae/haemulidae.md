@@ -17,14 +17,14 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/090806tmd8315m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/haemulidae/gibbosus/090806tmd8315m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/090806tmd8315m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/haemulidae/gibbosus/090806tmd8315m3.jpg
     caption: Brown sweetlips
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/chaetodonoides/111030skdd3323m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/haemulidae/chaetodonoides/111030skdd3323m3.jpg
     caption: Harlequin sweetlips
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/pictum/120410chgd9036m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/haemulidae/pictum/120410chgd9036m3.jpg
     caption: Painted sweetlips
 links_references: "**Links**\n- Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.\n*[A\
   \ Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*\n\

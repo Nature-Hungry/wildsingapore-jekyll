@@ -19,17 +19,17 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Jan 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bell/100519tsmc4159m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bell/100519tsmc4159m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bell/100519tsmc4159m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bell/100519tsmc4159m3.jpg
     caption: Terumbu Semakau, May 10
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bell/080510smkd3075m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bell/080510smkd3075m3.jpg
     caption: Pulau Semakau, May 08
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bell/060727jngd5132m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bell/060727jngd5132m3.jpg
     caption: Pulau Jong, Jul 06
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bell/200626tptvc5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bell/200626tptvc5.jpg
     caption: Terumbu Pempang Tengah, Jun 20 Photo shared by Vincent Choo on facebook
       .
 links_references: '**Links**

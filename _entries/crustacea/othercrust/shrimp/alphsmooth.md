@@ -25,92 +25,92 @@ suborder: Pleocyemata
 infraorder: Caridea
 superfamily: Alpheoidea
 updated: Jan 2020
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/050621skdg7874m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphsmooth/050621skdg7874m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/050621skdg7874m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphsmooth/050621skdg7874m3.jpg
     caption: Pulau Sekudu, Jun 05
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/050621skdg7874m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphsmooth/050621skdg7874m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/050621skdg7874m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphsmooth/050621skdg7874m3b.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/040618chgd0526m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphsmooth/040618chgd0526m3.jpg
     caption: Sharing a burrow with a goby? Changi, Jun 06
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/080603prpd4695m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphsmooth/080603prpd4695m3.jpg
     caption: Sharing a burrow with a goby? Pasir Ris Park, Jun 08
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/250626ubnrk1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphsmooth/250626ubnrk1.jpg
     caption: Sharing a burrow with a goby? Pulau Ubin Jetty, Jun 25 Photo shared by
       Richard Kuah on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/250626ubnrk1a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphsmooth/250626ubnrk1a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/020528labd9910m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphsmooth/020528labd9910m3a.jpg
     caption: The smaller claw used to carry things. Labrador, May 02
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/090510hntd1205m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphsmooth/090510hntd1205m3b.jpg
     caption: Pulau Hantu, May 09
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/040701chgd1330m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphsmooth/040701chgd1330m3a.jpg
     caption: Changi, Jul 04
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/070901sjig2136m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphsmooth/070901sjig2136m3a.jpg
     caption: St. John's Island, Sep 09
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/1301107pglmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphsmooth/1301107pglmn.jpg
     caption: Punggol, Nov 13 Photo shared by Marcus Ng on flickr .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/080609ubnmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphsmooth/080609ubnmn.jpg
     caption: Pulau Ubin, Jun 08 Photo shared by Marcus Ng on flickr . .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/171206ubnll1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphsmooth/171206ubnll1.jpg
     caption: Pulau Ubin, Dec 17 Photo shared by Liz Lim on facebook ..
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/250626ubncc1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphsmooth/250626ubncc1.jpg
     caption: Pulau Ubin, Jun 25 Photo shared by Che Cheng Neo on facebook .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/171108ecpmblks9.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphsmooth/171108ecpmblks9.jpg
     caption: East Coast-Marina Bay, Nov 17 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/090820ecplks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphsmooth/090820ecplks.JPG
     caption: East Coast Park, Aug 09 Photo shared by Loh Kok Sheng on his blog .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/160509srpdc2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphsmooth/160509srpdc2.jpg
     caption: Sentosa Serapong, May 16 Photo shared by Dayna Cheah on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/230508srpky4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphsmooth/230508srpky4.jpg
     caption: Sentosa Serapong, May 23 Photo shared by Kelvin Yong on facebook .
   gallery9:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/200919bsislks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphsmooth/200919bsislks1.jpg
     caption: Big Sisters Island, Sep 20 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/100528tkkjk10m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphsmooth/100528tkkjk10m3.jpg
     caption: Pulau Tekukor, May 10 Photo shared by James Koh on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/240528tslrk5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphsmooth/240528tslrk5.jpg
     caption: Terumbu Selegie, May 24 Photo shared by Richard Kuah on facebook .
   gallery10:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/200627cyrlks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphsmooth/200627cyrlks1.jpg
     caption: Cyrene, Ju 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/250811jngccn2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphsmooth/250811jngccn2.jpg
     caption: Pulau Jong, Aug 25 Photo shared by Che Cheng Neo on facebook .
   gallery11:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/260202smkerqo2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphsmooth/260202smkerqo2.jpg
     caption: Pulau Semakau East, Feb 26 Photo shared by Rui Quan Oh on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/200111smksjc1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphsmooth/200111smksjc1.jpg
     caption: Pulau Semakau (South), Jan 20 Photo shared by Liz Lim on facebook .
   gallery12:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/180815bbbrk1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphsmooth/180815bbbrk1.jpg
     caption: Beting Bemban Besar, Aug 18 Photo shared by Richard Kuah on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/110717tbjk2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphsmooth/110717tbjk2m3.jpg
     caption: Terumbu Bemban, Jul 11 Photo shared by James Koh on his blog .
   gallery13:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/220619tsmtl2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphsmooth/220619tsmtl2.jpg
     caption: Terumbu Semakau, Jun 22 Photo shared by Tammy Lim on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/110517tptik9m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphsmooth/110517tptik9m3.jpg
     caption: Terumbu Pempang Tengah, May 11 Photo shared by Ivan Kwan on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/250712tpljt3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphsmooth/250712tpljt3.jpg
     caption: Terumbu Pempang Laut, Jul 25 Photo shared by Jonathan Tan on facebook
       .
   gallery14:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/100613sngd5543m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphsmooth/100613sngd5543m3.jpg
     caption: Pulau Senang, Jun 10
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/210428slumn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphsmooth/210428slumn1.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Marcus Ng on facebook .
 location:
 - pgl

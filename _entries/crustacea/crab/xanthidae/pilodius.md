@@ -27,14 +27,14 @@ zoosubsection: Heterotremata
 superfamily: Xanthoidea
 subfamily: Chlorodiellinae
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pilodius/111001sjid1824m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/pilodius/111001sjid1824m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pilodius/111001sjid1824m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/pilodius/111001sjid1824m3.jpg
     caption: St. John's Island, Oct 11
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pilodius/111001sjid1827m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/pilodius/111001sjid1827m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pilodius/111001sjid1827m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/pilodius/111001sjid1827m3a.jpg
     caption: ''
 links_references: '**Links**
 

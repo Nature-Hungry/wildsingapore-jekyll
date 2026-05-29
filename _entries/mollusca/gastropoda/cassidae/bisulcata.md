@@ -10,42 +10,42 @@ genus: Phalium/Semicassis
 species: bisulcata
 attributes: []
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/120621cyrd6131m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cassidae/bisulcata/120621cyrd6131m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/120621cyrd6131m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cassidae/bisulcata/120621cyrd6131m3.jpg
     caption: Cyrene Reef, Jun 12
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/120621cyrd6142m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cassidae/bisulcata/120621cyrd6142m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/120621cyrd6144m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cassidae/bisulcata/120621cyrd6144m3.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/110520chgd2598m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cassidae/bisulcata/110520chgd2598m3.jpg
     caption: Changi, May 11
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/110520chgd2591m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cassidae/bisulcata/110520chgd2591m3.jpg
     caption: Underside.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/251205cjccn3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cassidae/bisulcata/251205cjccn3.jpg
     caption: Dead one. Chek Jawa, Dec 25 Photo shared by Che Cheng Neo on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/090208chglks03m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cassidae/bisulcata/090208chglks03m3.jpg
     caption: Changi, Feb 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/180104chgay1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cassidae/bisulcata/180104chgay1.jpg
     caption: Changi, Jan 18 Photo shared by Abel Yeo on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/230804ecpcnta1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cassidae/bisulcata/230804ecpcnta1.jpg
     caption: East Coast PCN, Aug 23 Photo shared by Tommy Arden on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/230804ecpcnta1b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cassidae/bisulcata/230804ecpcnta1b.jpg
     caption: East Coast PCN, Aug 23 Photo shared by Tommy Arden on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/090309cyrlks06m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cassidae/bisulcata/090309cyrlks06m3.jpg
     caption: Cyrene Reef, Mar 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/090309cyrcck1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cassidae/bisulcata/090309cyrcck1m3.jpg
     caption: Cyrene Reef, Mar 09 Photo shared by Chim Chee Kong on his flickr .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/110606cyrlk2.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cassidae/bisulcata/110606cyrlk2.JPG
     caption: Cyrene Reef, Jun 11
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/110606cyrlk3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cassidae/bisulcata/110606cyrlk3.JPG
     caption: Photo shared by Loh Kok Sheng on flickr .
 links_references: '**Links**
 

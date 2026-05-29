@@ -18,7 +18,7 @@ superorder: Acanthomorpha
 order: Perciformes
 suborder: Scorpaenoidei
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/picta/110730tmftd7492m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/picta/110730tmftd7492m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -30,28 +30,28 @@ galleries:
       spines. Don't handle them! Their venom is only used for protection from predators
       and not to catch prey.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/picta/110730tmftd7492m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/picta/110730tmftd7492m3.jpg
     caption: Perfectly camouflaged! Tanah Merah, Jul 11
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/pterois/140809hntlks3m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/pterois/140809hntlks3m6l.jpg
     caption: The Lionfish doesn't bother to hide! Pulau Hantu, Aug 15 Photo shared
       by Loh Kok Sheng on his blog .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/synanceiidae/horrida/060312hntd0311m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/synanceiidae/horrida/060312hntd0311m3.jpg
     caption: The Stonefish is from a different family.
-  - url: http://www.wildsingapore.com/wildfacts/centrogenyidae/vaigiensis/031029sntcd0014m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/centrogenyidae/vaigiensis/031029sntcd0014m3.jpg
     caption: The False scorpionfish is from a dffierent family.
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/longispinis/050623cjg8365m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/longispinis/050623cjg8365m3.jpg
     caption: The Long-spined waspfish is now in a different family
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/picta/090923labd1778m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/picta/090923labd1778m3a.jpg
     caption: Painted scorpionfish
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/diabolus/120818lazd0164m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/diabolus/120818lazd0164m3c.jpg
     caption: False stonefish
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/pterois/140809hntlks3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/pterois/140809hntlks3m3.jpg
     caption: Lionfish
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/picta/090923labd1778m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/picta/090923labd1778m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/diabolus/120818lazd0164m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/diabolus/120818lazd0164m3a.jpg
     caption: ''
 links_references: '**Links**
 

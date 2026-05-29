@@ -24,7 +24,7 @@ superorder: Ostariophysi
 order: Siluriformes
 suborder: Siluroidei
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/040919sntd7020m3a.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/lineatus/040919sntd7020m3a.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -36,53 +36,53 @@ galleries:
       group! The 'whiskers' don't sting. They are used to find food in murky waters.
       It has venomous spines. Don't touch it!
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/040919sntd7020m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/lineatus/040919sntd7020m3a.jpg
     caption: '''Whiskers'' (barbels) at the top of the snout do not extend past the
       eyes.'
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/040919sntd7020m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/lineatus/040919sntd7020m6l.jpg
     caption: Sentosa, Sep 04
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/060628sntd3748m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/lineatus/060628sntd3748m3.jpg
     caption: Each about 6cm long. Sentosa, Jun 06
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/040605kuscd0186m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/lineatus/040605kuscd0186m3.jpg
     caption: Each about 4cm long. Kusu Island, Jun 04
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/110409smks09415m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/lineatus/110409smks09415m3.jpg
     caption: Pulau Semakau, Apr 11
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/190704bbvc3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/lineatus/190704bbvc3.jpg
     caption: Beting Bronok, Jul 19 Photo shared by Vincent Choo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/171009blyay13.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/lineatus/171009blyay13.jpg
     caption: Berlayar Creek, Oct 17 Photo shared by Abel Yeo on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/160410blylks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/lineatus/160410blylks2.jpg
     caption: Berlayar Creek, Apr 16 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/251011lablvo5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/lineatus/251011lablvo5.jpg
     caption: Labrador, Oct 25 Photo shared by Lon Voon Ong on facebook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/201116lazlks10.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/lineatus/201116lazlks10.jpg
     caption: Lazarus Island, Nov 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/110220lazlks7m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/lineatus/110220lazlks7m3.jpg
     caption: Seringat-Kias, Feb 11
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/110220lazlks7m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/lineatus/110220lazlks7m3a.jpg
     caption: Photo shared by Loh Kok Sheng on his flickr .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/100528tkklks1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/lineatus/100528tkklks1m3.jpg
     caption: Pulau Tekukor, May 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/090509sislks2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/lineatus/090509sislks2m3.jpg
     caption: Sisters Island, May 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/210429hntns1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/lineatus/210429hntns1.jpg
     caption: Pulau Hantu, Apr 21 Photo shared by Nathaniel Soon on facebook .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/130427tptlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/lineatus/130427tptlks.JPG
     caption: Terumbu Pempang Tengah, Apr 13 Photo shared by Loh Kok Sheng on flickr
       .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/230522tptrk2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/lineatus/230522tptrk2.jpg
     caption: Terumbu Pempang Tengah, May 23 Photo shared by Richard Kuah on facebook
       .
   gallery9:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/190622jnglks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/lineatus/190622jnglks2.jpg
     caption: Pulau Jong, 19 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/100130brkblks3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/lineatus/100130brkblks3m3.jpg
     caption: Terumbu Berkas Besar, Jan 10 Photo shared by Loh Kok Sheng on his flickr
       .
 links_references: '**Links**

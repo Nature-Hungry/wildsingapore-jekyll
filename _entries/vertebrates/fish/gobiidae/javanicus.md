@@ -24,15 +24,15 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Gobionellinae
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/javanicus/060317sbwrg5578m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/javanicus/060317sbwrg5578m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/javanicus/060317sbwrg5578m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/javanicus/060317sbwrg5578m3.jpg
     caption: Sungei Buloh Wetland Reserve, Mar 06
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/javanicus/060627krjd3690m6la.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/javanicus/060627krjd3690m6la.jpg
     caption: Kranji, Jun 06
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/javanicus/060627krjd3690m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/javanicus/060627krjd3690m3c.jpg
     caption: First dorsal fin with black blotch at the rear portion, black bar under
       the first dorsal fin.
 links_references: '**Links**

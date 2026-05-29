@@ -19,7 +19,7 @@ order: Squamata
 suborder: Serpentes
 subfamily: Crotalinae
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/purpureomaculatus/031102sbwrd0031m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/purpureomaculatus/031102sbwrd0031m3.jpg
 links_references: '**Links**
 
   - [Shore Pit Vipers](http://singaporesnakes.blogspot.com/search/label/Shore%20Pit-viper)
@@ -116,14 +116,14 @@ Mama snake gives birth to live young in litters of 7-14. Hatchlings have dark br
 **Status and threats:**
 Our Shore pit vipers are listed as 'Endangered' on the Red List of threatened animals of Singapore. Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution.
 
-![](http://www.wildsingapore.com/wildfacts/vertebrates/snakes/purpureomaculatus/031102sbwrd0031m3.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/purpureomaculatus/031102sbwrd0031m3.jpg)
 
 *Sungei Buloh Wetland Reserve, Nov 03
 
-![](http://www.wildsingapore.com/wildfacts/vertebrates/snakes/purpureomaculatus/031102sbwrd0031m3a.jpg)*
+![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/purpureomaculatus/031102sbwrd0031m3a.jpg)*
 A prehensile tail.
 
-*![](http://www.wildsingapore.com/wildfacts/vertebrates/snakes/purpureomaculatus/031102sbwrd0031m3b.jpg)*
+*![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/purpureomaculatus/031102sbwrd0031m3b.jpg)*
 
 ---
 

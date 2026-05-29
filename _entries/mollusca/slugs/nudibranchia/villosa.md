@@ -23,35 +23,35 @@ suborder: Doridina
 infraorder: Doridoidei
 superfamily: Doridoidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/050529cjg6776m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/villosa/050529cjg6776m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/050529cjg6776m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/villosa/050529cjg6776m3.jpg
     caption: Chek Jawa, May 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/050529cjg6776m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/villosa/050529cjg6776m3c.jpg
     caption: Tapering papillae on the body.
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/050526cj6777m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/villosa/050526cj6777m3.jpg
     caption: Underside.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/120604pgld3790m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/villosa/120604pgld3790m3.jpg
     caption: Punggol, Jun 12
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/120604pgld3796m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/villosa/120604pgld3796m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/120604pgld3792m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/villosa/120604pgld3792m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/120604pgld3800m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/villosa/120604pgld3800m3b.jpg
     caption: Small feathery gills.
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/120604pgld3796m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/villosa/120604pgld3796m3a.jpg
     caption: Larger bumps are filled with fluid.
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/120604pgld3800m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/villosa/120604pgld3800m3a.jpg
     caption: Rhinophores.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/210528chgsafmn3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/villosa/210528chgsafmn3.jpg
     caption: Changi Creek, May 21 Photo shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/210528lygjll8.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/villosa/210528lygjll8.jpg
     caption: Changi Loyang, May 21 Photo shared by Jianline Liu on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/220716bbtl2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/villosa/220716bbtl2.jpg
     caption: Beting Bronok, Jul 22 Photo shared by Tammy Lim on facebook .
 links_references: '**Links**
 

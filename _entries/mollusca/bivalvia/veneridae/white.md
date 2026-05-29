@@ -20,19 +20,19 @@ superorder: Imparidentia
 order: Venerida
 superfamily: Veneroidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/white/070323skdg8230m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/white/070323skdg8230m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/white/070323skdg8230m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/white/070323skdg8230m3.jpg
     caption: Pulau Sekudu, Mar 07
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/white/070323skdg8230m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/white/070323skdg8230m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/white/070323skdg8231m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/white/070323skdg8231m3.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/white/090510hntlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/white/090510hntlks.JPG
     caption: Pulau Hantu, May 09 Photo shared by Loh Kok Sheng on flickr.
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/white/170429kusmn3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/white/170429kusmn3.jpg
     caption: Pulau Kusu, Apr 17 Photo shared by Marcus Ng on facebook .
 location:
 - skd

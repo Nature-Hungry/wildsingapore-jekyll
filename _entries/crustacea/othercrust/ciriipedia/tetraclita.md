@@ -22,27 +22,27 @@ superorder: Thoracicalcarea
 order: Balanomorpha
 superfamily: Coronuloidea
 updated: Mar 2020
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/tetraclita/070323skdg8250m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/tetraclita/070323skdg8250m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/tetraclita/070323skdg8250m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/tetraclita/070323skdg8250m3.jpg
     caption: Pulau Sekudu, Mar 07
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/tetraclita/070323skdg8250m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/tetraclita/070323skdg8250m3a.jpg
     caption: Operculum with pointed tip.
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/tetraclita/020425cjd8321m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/tetraclita/020425cjd8321m3.jpg
     caption: Thick shell with air-filled, honey-comb internal structure. Chek Jawa,
       Apr 02
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/tetraclita/060728sisd5354m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/tetraclita/060728sisd5354m3.jpg
     caption: Sisters Island, Jul 06
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/tetraclita/030712hntd0053m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/tetraclita/030712hntd0053m3.jpg
     caption: Pulau Hantu, Jul 03
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/tetraclita/070323skdd9276m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/tetraclita/070323skdd9276m3.jpg
     caption: Pulau Sekudu, Mar 07 Spot where a Volcano barnacle used to be?
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/tetraclita/101106tburjk.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/tetraclita/101106tburjk.JPG
     caption: Terumbu Buran, Nov 10 Photo shared by James Koh on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/tetraclita/200921chgwvc1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/tetraclita/200921chgwvc1.jpg
     caption: '''Feet'' of the barnacle. Changi West, Sep 20 Photo shared by Vincent
       Choo on facebook .'
 links_references: '**Links**

@@ -22,14 +22,14 @@ class: Florideophyceae
 subclass: Rhodymeniophycidae
 order: Bonnemaisoniales
 updated: Jan 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/catstail/050329sntg3861m3a.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/catstail/050329sntg3861m3a.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/catstail/050410kusd2187m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/catstail/050410kusd2187m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/catstail/050410kusd2187m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/catstail/050410kusd2187m3.jpg
     caption: Kusu Island, Apr 05
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/catstail/050329sntg3861m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/catstail/050329sntg3861m3b.jpg
     caption: ''
 links_references: '**Links**
 
@@ -113,7 +113,7 @@ species.
 
 Human uses: It is used as animal feed, fertiliser and human food. It is also reported to have antibacterial and antibiotic properties, and to be used to treat livestock diseases.
 
-*![](http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/catstail/050329sntg3861m3a.jpg)
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/catstail/050329sntg3861m3a.jpg)
 
 Sentosa, Mar 05*
 

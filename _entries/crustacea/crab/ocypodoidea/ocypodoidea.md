@@ -39,41 +39,41 @@ galleries:
       cover the shore. Don''t step on them! They are very shy. To see them, wait quietly
       without moving.'
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/090818tmd9312m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/ceratophthalmus/090818tmd9312m3a.jpg
     caption: The eye stalks of a ghost crab 'fold' away into grooves at the side of
       its body. Tanah Merah, Aug 09
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/050525hntg6712m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/macrophthalmus/050525hntg6712m3a.jpg
     caption: The Sentinel crab has super long eye stalks. Pulau Hantu, May 05
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/tinycolourful/090329cjd8659m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/tinycolourful/090329cjd8659m3.jpg
     caption: Some fiddler crabs have brightly coloured eye stalks. Chek Jawa, Mar
       09
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/060713rlhd4149m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/ceratophthalmus/060713rlhd4149m3.jpg
     caption: Horn-eyed ghost crab
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/cordimanus/110903sntd1078m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/cordimanus/110903sntd1078m3.jpg
     caption: Smooth-eyed ghost crab
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/050525hntg6712m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/macrophthalmus/050525hntg6712m3.jpg
     caption: Sentinel crab
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/scopimera/050326cjg3733m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/scopimera/050326cjg3733m3a.jpg
     caption: Sand bubbler crab
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/041127cjd8656m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/dotilla/041127cjd8656m3.jpg
     caption: Soldier crab
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ilyoplax/040101lckd0135m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/ilyoplax/040101lckd0135m3.jpg
     caption: Semaphore crab
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0059m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0059m3a.jpg
     caption: Porcelain fiddler crab
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/vocans/090510hntd1140m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/vocans/090510hntd1140m3.jpg
     caption: Orange fiddler crab
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/rosea/021008cjd6155m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/rosea/021008cjd6155m3.jpg
     caption: Rosy fiddler crab
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/stoutpincer/090816sbwrd9021m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/stoutpincer/090816sbwrd9021m3.jpg
     caption: Stout pincered fiddler crab
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/tinycolourful/110327cjd7979m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/tinycolourful/110327cjd7979m3.jpg
     caption: Tiny colourful fiddler crab
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/noid/110327cjd7977m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/noid/110327cjd7977m3.jpg
     caption: Other unidentified fiddler crabs
 links_references: '**Links**
 

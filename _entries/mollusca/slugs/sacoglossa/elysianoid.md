@@ -5,28 +5,28 @@ keywords: wooly, elysia, leaf, slug, seaslug, sap, sucking, sacoglossan, elysiid
   opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/040508skdbd0108m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/elysianoid/040508skdbd0108m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/040508skdbd0108m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/elysianoid/040508skdbd0108m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/040508skdbd0108m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/elysianoid/040508skdbd0108m3b.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/040508skdbd0108m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/elysianoid/040508skdbd0108m3a.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/120223sltd7318m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/elysianoid/120223sltd7318m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/120223sltd7318m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/elysianoid/120223sltd7318m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/120223sltd7321m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/elysianoid/120223sltd7321m3a.jpg
     caption: ''
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/120223sltd7301m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/elysianoid/120223sltd7301m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/120223sltd7301m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/elysianoid/120223sltd7301m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/120223sltd7301m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/elysianoid/120223sltd7301m3c.jpg
     caption: White knobs possibly the penis?
 ---
 

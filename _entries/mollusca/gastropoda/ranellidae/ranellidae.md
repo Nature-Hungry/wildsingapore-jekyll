@@ -18,7 +18,7 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Tonnoidea
 updated: Sep 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/gyrineum/070902skdd6596m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ranellidae/gyrineum/070902skdd6596m3.jpg
 links_references: "**Links**\n- [Family\n  Ranallidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Ranellidae.html)\n\
   \  on The\n  Gladys Archerd Shell Collection at Washington State University\n  Tri-Cities\
   \ Natural History Museum website:\n  brief description and photos.\n- Family\n \
@@ -37,9 +37,9 @@ links_references: "**Links**\n- [Family\n  Ranallidae](http://shells.tricity.wsu
   \ on the Environment. 163pp.\n- Ng, P. K.\n  L. & Y. C. Wee, 1994. *The\n"
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/gyrineum/070902skdd6596m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ranellidae/gyrineum/070902skdd6596m3.jpg
     caption: Common triton snail
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/cymatium/120510chgd2996m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ranellidae/cymatium/120510chgd2996m3.jpg
     caption: Leopard triton snail
   gallery2:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1

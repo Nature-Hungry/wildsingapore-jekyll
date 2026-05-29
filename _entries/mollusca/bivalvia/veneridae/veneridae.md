@@ -20,7 +20,7 @@ superorder: Imparidentia
 order: Venerida
 superfamily: Veneroidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/030717skdd0098m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/forked/030717skdd0098m3.jpg
 links_references: "**Links**\n- [Clams\n  (*Marcia marmorata*)](http://mangrove.nus.edu.sg/guidebooks/text/2096.htm),\
   \ [Kepah\n  (*Meretrix meretrix)*](http://mangrove.nus.edu.sg/guidebooks/text/2096.htm)\
   \ Ng, Peter K. L. & N. Sivasothi,\n  1999. *[A Guide\n  to the Mangroves of Singapore\
@@ -63,23 +63,23 @@ galleries:
       some may make you ill. They are eaten by snails that bore a hole in their shell.
       See if you can find such a shell?
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/030717skdd0098m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/forked/030717skdd0098m3.jpg
     caption: Venus clams being harvested. Pulau Sekudu, Jul 03
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/020908cjd5785m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/forked/020908cjd5785m3.jpg
     caption: Half buried under a stone. Chek Jawa, Sep 02
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/others/020227chgd7581m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/others/020227chgd7581m3.jpg
     caption: Siphon sticking out. Changi, Feb 02
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/070323skdg8233m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/forked/070323skdg8233m3.jpg
     caption: Forked venus clam
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/scripta/090510hntd1230m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/scripta/090510hntd1230m3.jpg
     caption: Script venus clam
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/bean/060612cftd2894m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/bean/060612cftd2894m3.jpg
     caption: Bean-shaped venus clam
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/070204hntg7547m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/ribbed/070204hntg7547m3.jpg
     caption: Ribbed venus clam
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/white/070323skdg8230m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/white/070323skdg8230m3.jpg
     caption: White venus clam
   gallery5:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1

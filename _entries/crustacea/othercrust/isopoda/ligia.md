@@ -21,7 +21,7 @@ order: Isopoda
 suborder: Oniscidea
 infraorder: Diplocheta
 updated: Mar 2020
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/060627krjd3707m3a.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/isopoda/ligia/060627krjd3707m3a.jpg
 links_references: "**Links**\n- [Order\n  Isopoda](http://mangrove.nus.edu.sg/pub/seashore/text/177)\
   \ Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A\n  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
   \ The Singapore Science Centre,\n  Singapore. 160 pp.\n- [Mangrove\n  sea slater\
@@ -47,30 +47,30 @@ galleries:
     caption: They are NOT insects! They are more like crabs. They have seven pairs
       of legs and move very quickly. They are scavengers.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/060627krjd3707m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/isopoda/ligia/060627krjd3707m3a.jpg
     caption: Mating? Kranji, Jun 06
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/200706skd.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/isopoda/ligia/200706skd.jpg
     caption: Just moulted. Empty skin on the left. Pulau Sekudu, Jul 20
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/090513labd1684m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/isopoda/ligia/090513labd1684m3a.jpg
     caption: Body very flat. Labrador, May 09
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/041018sntd7584m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/isopoda/ligia/041018sntd7584m3.jpg
     caption: Sentosa, Oct 04
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/050126cjd9795m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/isopoda/ligia/050126cjd9795m3.jpg
     caption: Chek Jawa, Jan 05
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/090820ecpd9480m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/isopoda/ligia/090820ecpd9480m3.jpg
     caption: Feeding on recently destroyed barnacles?
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/160125obsmn12.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/isopoda/ligia/160125obsmn12.jpg
     caption: Pulau Ubin OBS, Jan 16 Photo shared by Marcus Ng on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/210822ssisvc3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/isopoda/ligia/210822ssisvc3.jpg
     caption: Small Sisters Island, Aug 21 Photo shared by Vincent Choo on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/090510hntmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/isopoda/ligia/090510hntmn.jpg
     caption: Captured by a Purple climbing crab . Pulau Hantu May 09 Photo shared
       by Marcus Ng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/200822jngjc4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/isopoda/ligia/200822jngjc4.jpg
     caption: Pulau Jong, Aug 20 Photo shared by Joleen Chan on facebook .
   gallery6:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1

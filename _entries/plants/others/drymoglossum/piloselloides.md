@@ -23,19 +23,19 @@ suborder: Polypodiineae
 subfamily: Platycerioideae
 inat_id: 345927
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/plants/others/drymoglossum/piloselloides/090408wdld9130m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/others/drymoglossum/piloselloides/090408wdld9130m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/drymoglossum/piloselloides/090408wdld9129m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/drymoglossum/piloselloides/090408wdld9129m3a.jpg
     caption: Brown spores on the fertile frond.
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/drymoglossum/piloselloides/090408wdld9129m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/drymoglossum/piloselloides/090408wdld9129m3.jpg
     caption: Fertile frond.
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/drymoglossum/piloselloides/090408wdld9129m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/drymoglossum/piloselloides/090408wdld9129m3b.jpg
     caption: Sterile frond.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/drymoglossum/piloselloides/110328mndd8055m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/drymoglossum/piloselloides/110328mndd8055m6l.jpg
     caption: Mandai, Mar 11
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/drymoglossum/piloselloides/110328mndd8056m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/drymoglossum/piloselloides/110328mndd8056m6l.jpg
     caption: Mandai, Mar 11
 links_references: '**Links**
 
@@ -89,7 +89,7 @@ These tough little ferns pave the way for less hardy ferns to settle on the dry 
 **Human uses:**
 According to Giersen, the leaves are used to treat rashes, whilst a decoction is used in a lotion for smallpox, and used in a poultice for headaches.
 
-![](http://www.wildsingapore.com/wildfacts/plants/others/drymoglossum/piloselloides/090408wdld9130m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/others/drymoglossum/piloselloides/090408wdld9130m6l.jpg)
 
 *Woodlands Park, Apr 09*
 

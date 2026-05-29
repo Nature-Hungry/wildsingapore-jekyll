@@ -21,17 +21,17 @@ order: Decapoda
 suborder: Pleocyemata
 infraorder: Achelata
 updated: Mar 2020
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/palinuridae/090623d4995m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/palinuridae/090623d4995m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/palinuridae/090623d4995m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/palinuridae/090623d4995m6l.jpg
     caption: Lobster
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/011114cjd689m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/thalassina/011114cjd689m3.jpg
     caption: Mud lobster
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/glypturus/040521sntbd0050m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/glypturus/040521sntbd0050m3.jpg
     caption: Coral ghost shrimp
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/110401mndd8415m6lb.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/upogebiidae/110401mndd8415m6lb.jpg
     caption: Mud shrimp
 ---
 

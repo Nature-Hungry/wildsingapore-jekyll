@@ -17,30 +17,30 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepball/060625bbd3408m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepball/060625bbd3408m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepball/060625bbd3408m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepball/060625bbd3408m3.jpg
     caption: Beting Bronok, Jun 06 Polyps in clusters with spikes. Beting Bronok,
       Jun 06
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepball/080705bbd7119m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepball/080705bbd7119m3.jpg
     caption: Beting Bronok, Jul 08
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepball/110518bbd1694m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepball/110518bbd1694m3.jpg
     caption: Beting Bronok, May 11
   gallery2:
   - url: http://www.wildsingapore.com/echinodermata/ophiuroidea/white/111222tusd4699m3.jpg
     caption: Ghost brittle star . Tuas, Dec 11
   - url: http://www.wildsingapore.com/mollusca/gastropoda/ovulidae/softcoral/090824tusd0011m3a.jpg
     caption: False cowrie eats the soft coral. Tuas, Aug 09
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepball/080705bbd7110m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepball/080705bbd7110m3a.jpg
     caption: Tiny white snapping shrimps often found in a pair in this soft coral.
       Beting Bronok, Jul 08
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepball/170430lyglks3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepball/170430lyglks3.jpg
     caption: Changi Loyang, Apr 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepball/170716prpay1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepball/170716prpay1.jpg
     caption: Pasir Ris Park, Jul 17 Photo shared by Abel Yeo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepball/220617skdjt1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepball/220617skdjt1.jpg
     caption: Porcelain crabs seen in a colony. Pulau Sekudu, Jun 22 Photo shared by
       Jonathan Tan on facebook .
 links_references: '**Links**

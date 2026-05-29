@@ -12,14 +12,14 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/porifera/lumpyorange/150802bbd8779m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/lumpyorange/150802bbd8779m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/lumpyorange/150802bbd8779m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/lumpyorange/150802bbd8779m3.jpg
     caption: Beting Bronok, Aug 15
-  - url: http://www.wildsingapore.com/wildfacts/porifera/lumpyorange/150802bbd8779m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/lumpyorange/150802bbd8779m3b.jpg
     caption: Tiny hole, submerged.
-  - url: http://www.wildsingapore.com/wildfacts/porifera/lumpyorange/150802bbd8779m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/lumpyorange/150802bbd8779m3a.jpg
     caption: Surface grainy but smooth, glossy.
 location:
 - pgl

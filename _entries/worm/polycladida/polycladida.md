@@ -10,7 +10,7 @@ family: Callioplanidae
 genus: Order
 species: Polycladida
 updated: Feb 2020
-coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/orangewhite/121116sjjid1330m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/orangewhite/121116sjjid1330m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -22,137 +22,137 @@ galleries:
       and hunt and eat other animals. Being really flat has some advantages. Can you
       think of some?
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/orangewhite/121116sjjid1330m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/orangewhite/121116sjjid1330m3.jpg
     caption: Some may be colourfully patterned. St John's Island, Nov 12
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/silt/100215sisd9466m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/silt/100215sisd9466m3.jpg
     caption: Some may be nearly transparent! Sisters Island, Feb 10
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/050709skdg9312m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/baibaiye/050709skdg9312m3a.jpg
     caption: Pseudo tentacles made out folded edges of the body margin. Mouth is on
       the underside. Pulau Sekudu, Jul 05
   gallery3:
   - url: https://live.staticflickr.com/828/27333526027_54c0f6d7b2_z.jpg
     caption: ''
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bedfordi/060130hntg4262m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/bedfordi/060130hntg4262m3.jpg
     caption: The mouth of a flatworm may be towards the middle of the underside of
       the body. Pulau Hantu, Jan 06
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/080619chgd5684m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/indicus/080619chgd5684m3.jpg
     caption: Eating Yellow clustered bead ascidians ? Changi, Jun 08
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/acanthozoon/050112smkd9730m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/acanthozoon/050112smkd9730m3.jpg
     caption: Bigger flatworms may undulate the sides of their bodies to 'swim'. Pulau
       Semakau, Jan 05
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/acanthozoon/170625bbd3587m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/acanthozoon/170625bbd3587m3.jpg
     caption: Two worms 'penis fencing'. Beting Bronok, Jun 17
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/acanthozoon/100130brklks6m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/acanthozoon/100130brklks6m3.jpg
     caption: '''Penis fencing'' Terumbu Berkas, Jan 10 Photo shared by Loh Kok Sheng
       on his flickr .'
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/acanthozoon/100617tblks4m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/acanthozoon/100617tblks4m3.JPG
     caption: '''Penis fencing'' Terumbu Bemban, Jun 10 Photo shared by Loh Kok Sheng
       on his blog .'
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/140913pgllks1m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/others/140913pgllks1m3.JPG
     caption: Possibly Stylochid Punggol, Sep 14 Photo shared by Loh Kok Sheng on his
       blog .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/110105sellks.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/others/110105sellks.jpg
     caption: Stylochid 8 Seletar, Jan 11 Photo shared by Loh Kok Sheng on flickr
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/140114cjlks1m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/others/140114cjlks1m3.JPG
     caption: Pseudocerotidae 2 Chek Jawa, Jan 14 Photo shared by Loh Kok Sheng on
       his blog .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/150221sjilks1m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/others/150221sjilks1m3.JPG
     caption: Pseudocerotidae St John's Island, Mar 13 Photo shared by Loh Kok Sheng
       on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/120818lazlks1m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/others/120818lazlks1m3.JPG
     caption: Pseudobiceros hymanae Seringat Kias, Aug 12 Photo shared by Loh Kok Sheng
       on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/230221tryjll1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/others/230221tryjll1.jpg
     caption: Pseudobiceros hymanae Terumbu Raya, Feb 23 Photo shared by Jianlin Liu
       on facebook .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/181224sntlks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/others/181224sntlks1.jpg
     caption: Pseudoceros cf cruentus Sentosa, Dec 18 Photo shared by Loh Kok Sheng
       on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/211108ecpjll1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/others/211108ecpjll1.jpg
     caption: Pseudoceros cf cruentus East Coast Park, Nov 21 Photo shared by Jianlin
       Liu on facebook .
   gallery9:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/141011hntlks1.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/others/141011hntlks1.JPG
     caption: Tytthosoceros sp. 2 Pulau Hantu, Oct 14 Photo shared by Loh Kok Sheng
       on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/141011hntlks2.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/others/141011hntlks2.JPG
     caption: Tytthosoceros sp. 2 Pulau Hantu, Oct 14 Photo shared by Loh Kok Sheng
       on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/200209cyrjll1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/others/200209cyrjll1.jpg
     caption: Pseudobiceros hymanae Cyrene, Feb 20 Photo shared by JIanlin Liu on facebook
       .
   gallery10:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/200210blylks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/others/200210blylks1.jpg
     caption: Eurylepta sp. Berlayar Creek, Feb 20 Photo shared by Loh Kok Sheng on
       facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/241019lazvc1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/others/241019lazvc1.jpg
     caption: Eurylepta sp. Lazarus, Oct 24 Photo shared by Vincent Choo on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/181125tptgt.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/others/181125tptgt.jpg
     caption: Maritigrella sp Terumbu Pempang Tengah, Nov 18 Photo shared by Gina Tan
       on facebook .
   gallery11:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/201117chg7lks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/others/201117chg7lks2.jpg
     caption: Pseudoceros cf stimpsoni Changi, Nov 20 Photo shared by Loh Kok Sheng
       on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/240528tslvc1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/others/240528tslvc1.jpg
     caption: Terumbu Selegie, May 24 Photo shared by Vincent Choo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/250201bsisvc2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/others/250201bsisvc2.jpg
     caption: Big Sisters Island, Feb 25 Photo shared by Vincent Choo on facebook .
   gallery12:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/140809hntlks1m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/others/140809hntlks1m3.JPG
     caption: Acanthozoon/Thysanozoon sp. 2 Pulau Hantu, Aug 14 Photo shared by Loh
       Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/140809hntlks2m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/others/140809hntlks2m3.JPG
     caption: Underside.
   gallery13:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/251207hntky2b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/others/251207hntky2b.jpg
     caption: About 2cm Pulau Hantu, Dec 25 Photo shared by Kelvin Yong on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/251207hntky2c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/others/251207hntky2c.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/251207hntky2d.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/others/251207hntky2d.jpg
     caption: ''
   gallery14:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/210213bsismn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/others/210213bsismn1.jpg
     caption: Thysanozoon nigrum Big Sisters Island, Feb 21 Photo shared by Marcus
       Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/210213bsisjc3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/others/210213bsisjc3.jpg
     caption: Thysanozoon nigropapillosum Big Sisters Island, Feb 21 Photo shared by
       Joleen Chan on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/260202smkerk1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/others/260202smkerk1.jpg
     caption: Thysanozoon nigropapillosum Pulau Semakau East, Feb 26 Photo shared by
       Richard Kuah on facebook .
   gallery15:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/171008srgjll2a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/others/171008srgjll2a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/171008srgjll2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/others/171008srgjll2.jpg
     caption: Thysanozoon nigropapillosum Seringat-Kias, Oct 17 Photo shared by Jianlin
       Liu on facebook .
   gallery16:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/130210sislks1m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/others/130210sislks1m3.JPG
     caption: Sisters Island, Feb 13 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/130210sislks2m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/others/130210sislks2m3.JPG
     caption: Underside.
   gallery17:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/150720smknlks2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/others/150720smknlks2m3.jpg
     caption: Pulau Semakau North, Jul 15 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/090510hntlks1mn3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/others/090510hntlks1mn3.JPG
     caption: Pulau Hantu, May 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/210428slujll1a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/others/210428slujll1a.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Jianlin Liu on facebook .
   gallery18:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/210810tplmn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/others/210810tplmn1.jpg
     caption: Pseuobiceros bajae (ID by Rene Ong). Terumbu Pempang Laut, Aug 21 Photo
       shared by Marcus Ng on facebook .
   gallery19:
-  - url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/110606cyrlks1m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/others/110606cyrlks1m3.JPG
     caption: Planocerid 7 Cyrene Reef, Jun 11 Photo shared by Loh Kok Sheng on his
       blog .
   gallery20:

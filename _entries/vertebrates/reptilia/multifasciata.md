@@ -20,17 +20,17 @@ suborder: Sauria
 infraorder: Scincomorpha
 subfamily: Mabuyinae
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/multifasciata/020527sbwrcpd9548m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/multifasciata/020527sbwrcpd9548m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/multifasciata/020527sbwrcpd9548m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/multifasciata/020527sbwrcpd9548m3a.jpg
     caption: Sungei Buloh Wetland Reserve, May 02
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/multifasciata/090905sbwrd0091m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/multifasciata/090905sbwrd0091m3.jpg
     caption: Sungei Buloh Wetland Reserve, Sep 09
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/multifasciata/090905sbwrd0091m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/multifasciata/090905sbwrd0091m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/multifasciata/090905sbwrd0091m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/multifasciata/090905sbwrd0091m3b.jpg
     caption: With black stripes on the back and white dots on the sides.
 links_references: '**Links**
 
@@ -82,7 +82,7 @@ This small shiny skink is often seen slithering among the undergrowth and leaf l
 *Mabuya multifasciata*
 .
 
-*![](http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/multifasciata/020527sbwrcpd9548m6l.jpg)*
+*![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/multifasciata/020527sbwrcpd9548m6l.jpg)*
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

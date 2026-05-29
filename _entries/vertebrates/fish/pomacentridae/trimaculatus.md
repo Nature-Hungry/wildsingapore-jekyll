@@ -26,18 +26,18 @@ superorder: Acanthomorpha
 order: Blenniiformes
 subfamily: Chrominae
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/trimaculatus/110619tslgd4444m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/trimaculatus/110619tslgd4444m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/trimaculatus/110619tslgd4444m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/trimaculatus/110619tslgd4444m3.jpg
     caption: Often seen together with Peacock anemoneshrimps . Terumbu Selegie, Jun
       11
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/trimaculatus/110619tslgd4444m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/trimaculatus/110619tslgd4444m6l.jpg
     caption: Terumbu Selegie, Jun 11
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/trimaculatus/140420sismn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/trimaculatus/140420sismn.jpg
     caption: Sisters Island, Apr 14 Photo shared by Marcus Ng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/trimaculatus/110508cyrlks2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/trimaculatus/110508cyrlks2m3.jpg
     caption: Juvenile fish in Giant carpet anemone Cyrene Reef, May 11 Photo shared
       by Loh Kok Sheng on his blog .
 links_references: "**Links**\n- [Threespot dascyllus (\n*Dascyllus trimaculatus*\n\

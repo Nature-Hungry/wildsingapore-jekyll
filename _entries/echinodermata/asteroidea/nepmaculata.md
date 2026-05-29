@@ -23,21 +23,21 @@ class: Asteroidea
 superorder: Valvatacea
 order: Valvatida
 updated: Jul 2020
-coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/nepmaculata/050821bbg1978m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/nepmaculata/050821bbg1978m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/nepmaculata/050821bbg1978m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/nepmaculata/050821bbg1978m3.jpg
     caption: Beting Bronok, Aug 05
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/nepmaculata/050821bbg1978m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/nepmaculata/050821bbg1978m3a.jpg
     caption: Scales on the upperside.
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/nepmaculata/050821bbg1978m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/nepmaculata/050821bbg1978m3b.jpg
     caption: Tiny tube feet emerge among the scales.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/nepmaculata/050821bbg1983m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/nepmaculata/050821bbg1983m3.jpg
     caption: Pale underside.
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/nepmaculata/050821bbg1983m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/nepmaculata/050821bbg1983m3a.jpg
     caption: Long tube feet from the grooves on the underside.
-  - url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/nepmaculata/050821bbg1978m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/nepmaculata/050821bbg1978m3b.jpg
     caption: Tiny tube feet emerge among the scales.
 location:
 - bb

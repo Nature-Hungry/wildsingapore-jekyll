@@ -17,7 +17,7 @@ subclass: Hydroidolina
 order: Anthoathecata
 suborder: Filifera
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/candy/040409tusad0141m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/candy/040409tusad0141m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -28,42 +28,42 @@ galleries:
     caption: Often mistaken for plants, they are animals! Some can sting powerfully.
       Don't touch them. Each 'bush' is a colony of many little polyps.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/candy/040409tusad0141m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/candy/040409tusad0141m3.jpg
     caption: Colourful Candy hydroids . Tuas, Apr 04
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/140420sisd4964.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/140420sisd4964.jpg
     caption: Blue button jellyfish (Porpita porpita) Sisters Island, Apr 14
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/thread/040409tuscd0019m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/thread/040409tuscd0019m3.jpg
     caption: This jellyfish belongs to Class Hydrozoa. Tuas, Apr 04
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/sertularella/100614bbd6022m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/sertularella/100614bbd6022m3.jpg
     caption: Tiny polyps of the fern hydroid . Beting Bronok, Jun 10
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/120410chgd9302m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/fluffy/120410chgd9302m3.jpg
     caption: Polyp of fluffy hydroid . Changi, Apr 12
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/candy/120508skdd2318m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/candy/120508skdd2318m3.jpg
     caption: Capsules of candy hydroids . Pulau Sekudu, May 12
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/stinging/050821bbg1938m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/stinging/050821bbg1938m3.jpg
     caption: Grass-like pale stinging hydroids . Beting Bronok, Aug 05
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/stinging/120803chgd9398m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/stinging/120803chgd9398m3.jpg
     caption: Tiny tentacles of stinging hydroids . Changi, Aug 12
   - url: http://www.wildsingapore.com/mollusca/slugs/nudibranchia/sibogae/060812bbd6062m3.jpg
     caption: Cuthona nudibranch on Fern hydroid Beting Bronok, Aug 06
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/stinging/050411tusd2333m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/stinging/050411tusd2333m3.jpg
     caption: Stinging hydroids
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/candy/020629chgd1211m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/candy/020629chgd1211m3.jpg
     caption: Candy hydroids
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/040409tusad0129m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/fluffy/040409tusad0129m3.jpg
     caption: Fluffy hydroids
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/sertularella/030714bbd0074m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/sertularella/030714bbd0074m3.jpg
     caption: Fern hydroids
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/050819cjg1531m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/delicate/050819cjg1531m3a.jpg
     caption: Delicate hydroids
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/seagrass/080208hntd9427m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/seagrass/080208hntd9427m3.jpg
     caption: Seagrass hydroids grows on seagrasses.
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/giant/100812tpld0425m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/giant/100812tpld0425m6l.jpg
     caption: Giant hydroids
 links_references: '**Links**
 

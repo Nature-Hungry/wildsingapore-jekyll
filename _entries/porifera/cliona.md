@@ -16,15 +16,15 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Clionaida
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/porifera/cliona/160424smkno4240098.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/cliona/160424smkno4240098.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/cliona/160424smkno4240098.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/cliona/160424smkno4240098.jpg
     caption: Pulau Semakau (North), Apr 16
-  - url: http://www.wildsingapore.com/wildfacts/porifera/cliona/260629smkeal3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/cliona/260629smkeal3.jpg
     caption: Pulau Semakau (East), Jun 25 Photo shared by Adriane Lee on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/porifera/cliona/110620smklks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/cliona/110620smklks.JPG
     caption: Pulau Semakau , Jun 11 Photo shared by Loh Kok Sheng on flickr .
 links_references: '**Links**
 

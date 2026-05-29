@@ -21,24 +21,24 @@ class: Florideophyceae
 subclass: Rhodymeniophycidae
 order: Halymeniales
 updated: Jan 13
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/maculata/040817sntd4664m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/maculata/040817sntd4664m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/maculata/050725labg0263m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/maculata/050725labg0263m3a.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/maculata/050725labg0263m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/maculata/050725labg0263m3.jpg
     caption: Labrador, Jul 05
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/maculata/040817sntd4664m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/maculata/040817sntd4664m3a.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/maculata/050413labg4689m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/maculata/050413labg4689m3.jpg
     caption: Labrador, Apr 05
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/maculata/060727jngd5024m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/maculata/060727jngd5024m3.jpg
     caption: Pulau Jong, Jul 06
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/maculata/040603sntg0161m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/maculata/040603sntg0161m3.jpg
     caption: Sentosa, Jun 04
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/maculata/100613sngd5537m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/maculata/100613sngd5537m3.jpg
     caption: Pulau Senang, Jun 10
 links_references: '**Links**
 
@@ -102,7 +102,7 @@ Like frilly sheets, clumps of this seaweed is often seen on our Southern shores,
 
 Each blade about 8-10cm long, not translucent, leathery (not slippery) and somewhat stiff. The portion near the base is flat but towards the edges it forms short flat branches with very frilly edges. The surface has little, regular bumps all over it, sometimes giving the seaweed a mottled look. Colours from dull greyish brown to chocolate brown and purplish; also bright yellowish or orangey brown.
 
-*![](http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/maculata/040817sntd4664m3.jpg)
+*![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/maculata/040817sntd4664m3.jpg)
 
 Sentosa, Aug 04*
 

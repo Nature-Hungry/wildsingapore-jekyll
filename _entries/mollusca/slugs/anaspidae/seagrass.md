@@ -25,25 +25,25 @@ subterclass: Tectipleura
 order: Aplysiida
 superfamily: Aplysioidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/091107hntd3997m6la.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/seagrass/091107hntd3997m6la.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/091107hntd3997m6la.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/seagrass/091107hntd3997m6la.jpg
     caption: Pulau Hantu, Nov 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/100201hntd9184m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/seagrass/100201hntd9184m3a.jpg
     caption: Tiny ones! Pulau Hantu, Feb 10
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/100201hntd9184m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/seagrass/100201hntd9184m6l.jpg
     caption: Pulau Hantu, Feb 10
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/121116sjjid1458m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/seagrass/121116sjjid1458m3.jpg
     caption: St. John's Island, Nov 12
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/121116sjjid1455m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/seagrass/121116sjjid1455m3.jpg
     caption: St. John's Island, Nov 12
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/121116sjjid1455m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/seagrass/121116sjjid1455m3a.jpg
     caption: St. John's Island, Nov 12
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/230901kustch2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/seagrass/230901kustch2.jpg
     caption: Kusu Island, Aug 23 Photo shared by Chay Hoon on facebook .
 links_references: '**Links**
 

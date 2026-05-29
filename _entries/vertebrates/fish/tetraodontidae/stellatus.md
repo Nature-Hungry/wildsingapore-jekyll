@@ -14,20 +14,20 @@ family: Tetraodontidae
 genus: Arothon
 species: stellatus
 updated: Nov 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/stellatus/sbr2019-054-055-stellatus.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/stellatus/sbr2019-054-055-stellatus.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/stellatus/sbr2019-054-055-stellatus.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/stellatus/sbr2019-054-055-stellatus.jpg
     caption: Live one, seen diving. Photo by Toh Chay Hoon from Singapore Biodiversity
       Records 2019:54-55
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/stellatus/161214sjiro1a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/stellatus/161214sjiro1a.jpg
     caption: Dead one that washed ashore. St. John's Island, Dec 16 Photo shared by
       Rene Ong on facebook .
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/stellatus/230608tmftky2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/stellatus/230608tmftky2.jpg
     caption: Tanah Merah Ferry Terminal, Jun 23 Photo shared by Kelvin Yong on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/stellatus/161214sjiro2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/stellatus/161214sjiro2.jpg
     caption: Dead/dying washed ashore. St. John's Island, Dec 16 Photo shared by Rene
       Ong on facebook .
 links_references: '**Links**

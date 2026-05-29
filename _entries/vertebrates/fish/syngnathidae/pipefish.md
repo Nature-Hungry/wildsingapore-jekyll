@@ -18,7 +18,7 @@ superorder: Acanthomorpha
 order: Syngnathiformes
 suborder: Syngnathoidei
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/seagrass/071001chgd6784m6la.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/seagrass/071001chgd6784m6la.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -30,21 +30,21 @@ galleries:
       They are hard to spot and can't move fast. Watch your step or you might step
       on one!
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/seagrass/071001chgd6784m6la.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/seagrass/071001chgd6784m6la.jpg
     caption: Changi, Oct 07
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/seagrass/140812chg4d8517m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/seagrass/140812chg4d8517m3.jpg
     caption: Long tube-like toothless snout. Tiny tubular nostrils. Tiny pelvic fins.
       Changi, Aug 14
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/050627smkg8911m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/biaculeatus/050627smkg8911m3.jpg
     caption: Carrying eggs on the underside Pulau Semakau, Jun 05
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/seagrass/090427chgd0639m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/seagrass/090427chgd0639m6l.jpg
     caption: Very pregnant papa with a bulging pouch on the underside. Changi, Apr
       09
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/seagrass/120510chgd2756m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/seagrass/120510chgd2756m3.jpg
     caption: Seagrass pipefish
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/080523cyrd3932m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/biaculeatus/080523cyrd3932m3.jpg
     caption: Alligator pipefish
 links_references: "**Links**\n- [Pipefish (Family Syngnathidae)](http://mangrove.nus.edu.sg/pub/seashore/text/230)\n\
   Tan, Leo W. H. & Ng, Peter K. L., 1988,\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n\

@@ -22,60 +22,60 @@ order: Nudibranchia
 suborder: Aeolidina
 superfamily: Aeolidioidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/081216prpd3552m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/cerberilla/081216prpd3552m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/081216prpd3552m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/cerberilla/081216prpd3552m3.jpg
     caption: Pasir Ris, Dec 08
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/081216prpd3552m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/cerberilla/081216prpd3552m3b.jpg
     caption: Yellow colour is inside, and are the digestive glands in the cerata.
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/081216prpd3552m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/cerberilla/081216prpd3552m3a.jpg
     caption: Long oral tentacles and short rhinophores.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/060624skdg6202m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/cerberilla/060624skdg6202m3.jpg
     caption: Burrowing into the ground. Pulau Sekudu, Jun 06
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/060624skdg6203m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/cerberilla/060624skdg6203m3.jpg
     caption: Cerata 'bristling' when disturbed. Pulau Sekudu, Jun 06
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/081216prpd3552m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/cerberilla/081216prpd3552m3b.jpg
     caption: Yellow colour is inside, and are the digestive glands in the cerata.
   gallery3:
   - url: https://live.staticflickr.com/4404/36469803576_5149b68755_z.jpg
     caption: ''
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/120510chgjk1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/cerberilla/120510chgjk1m3.jpg
     caption: Changi, May 12 Photo shared by James Koh on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/140529chgsafhpy1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/cerberilla/140529chgsafhpy1m3.jpg
     caption: Changi, May 14 Photo shared by Heng Pei Yan on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/080720cjtch01m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/cerberilla/080720cjtch01m3.jpg
     caption: Chek Jawa, Jul 08 Photo shared by Toh Chay Hoon on her flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/030203cjd7118m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/cerberilla/030203cjd7118m3.jpg
     caption: Chek Jawa, Feb 02
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/210626cjtch1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/cerberilla/210626cjtch1.jpg
     caption: Chek Jawa, Jun 21 Photo shared by Toh Chay Hoon on facebook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/111030skdlks1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/cerberilla/111030skdlks1m3.jpg
     caption: Pulau Sekudu, Oct 11 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/120731prpd8758m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/cerberilla/120731prpd8758m3.jpg
     caption: Pasir Ris, Jul 12
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/090426skdtch08m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/cerberilla/090426skdtch08m3.jpg
     caption: Pulau Sekudu, Apr 09 Photo shared by Toh Chay Hoon on her blog .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/140615skdlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/cerberilla/140615skdlks.JPG
     caption: Pulau Sekudu, Jun 14 Photo shared by Loh Kok Sheng on flickr .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/111030skdlks2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/cerberilla/111030skdlks2m3.jpg
     caption: Pulau Sekudu, Oct 11 Photo shared by Loh Kok Sheng on his blog .
   gallery9:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/190704bbay5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/cerberilla/190704bbay5.jpg
     caption: Beting Bronok, Jul 19 Photo shared by Abel Yeo on facebook .
   gallery10:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/110508cyrlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/cerberilla/110508cyrlks.JPG
     caption: Cyrene Reef, May 11 Photo shared by Loh Kok Sheng on flickr .
   gallery11:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/120819cyrlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/cerberilla/120819cyrlks.JPG
     caption: Cyrene Reef, Aug 12 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/170812cyrlks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/cerberilla/170812cyrlks1.jpg
     caption: Cyrene Reef, Aug 17 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 

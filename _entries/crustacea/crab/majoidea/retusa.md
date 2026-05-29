@@ -29,7 +29,7 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Majoidea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/050822cjg2135m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/retusa/050822cjg2135m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -40,76 +40,76 @@ galleries:
     caption: They attach living sponges and seaweeds as a disguise. The disguise continues
       to grow and other animals live on it. They tend to move slowly.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/050822cjg2135m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/retusa/050822cjg2135m3.jpg
     caption: Upperside Chek Jawa, Aug 05
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/050822cjg2135m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/retusa/050822cjg2135m3.jpg
     caption: Upperside Chek Jawa, Aug 05
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/050822cjg2131m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/retusa/050822cjg2131m3.jpg
     caption: Underside.
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/050822cjg2131m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/retusa/050822cjg2131m3a.jpg
     caption: Pincers are undecorated.
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/080704sekd6776m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/retusa/080704sekd6776m3.jpg
     caption: Pulau Sekudu, Jul 08
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/030716cjd0013m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/retusa/030716cjd0013m3.jpg
     caption: Chek Jawa, Jul 03
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/030615cjd0196m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/retusa/030615cjd0196m3.jpg
     caption: Chek Jawa, Jun 03
   gallery4:
   - url: https://live.staticflickr.com/4580/23979805717_50c817cf46_z.jpg
     caption: Upside down crab (showing its small undecorated pincers) righting itself.
       Changi, Dec 17
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/240821skd2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/retusa/240821skd2.jpg
     caption: Crabs decorated with Stinging hydroids . Pulau Sekudu, Aug 24
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/240821skd1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/retusa/240821skd1.jpg
     caption: Pulau Sekudu, Aug 24
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/201020swgvc8.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/retusa/201020swgvc8.jpg
     caption: Sembawang, Oct 20 Photo shared by Vincent Choo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/251012chgmn2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/retusa/251012chgmn2.jpg
     caption: Changi, Oct 25 Photo shared by Marcus Ng on facebook .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/171205ubnay2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/retusa/171205ubnay2.jpg
     caption: Pulau Ubin, Dec 17 Photo shared by Abel Yeo on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/180616bblks2a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/retusa/180616bblks2a.jpg
     caption: Beting Bronok, Jun 18
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/180616bblks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/retusa/180616bblks2.jpg
     caption: Photo shared by Loh Kok Sheng on facebook .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/121017tuslks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/retusa/121017tuslks.JPG
     caption: Tuas, Oct 12 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/170429epcnlks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/retusa/170429epcnlks1.jpg
     caption: East Coast Park, Apr 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/220519ecpbky2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/retusa/220519ecpbky2.jpg
     caption: East Coast Park-Marina East, May 22 Photo shared by Kelvin Yong on facebook
       .
   gallery9:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/130427sntmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/retusa/130427sntmn.jpg
     caption: Sentosa, Apr 13 Photo shared by Marcus Ng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/120818lazlks2.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/retusa/120818lazlks2.JPG
     caption: Seringat Kias, Aug 12 Photo shared by Loh Kok Sheng on his blog .
   gallery10:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/170726lsisjll1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/retusa/170726lsisjll1.jpg
     caption: Little Sisters Island, Jul 17 Photo shared by Jianlin Liu on facebook
       .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/101224sislks2m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/retusa/101224sislks2m3.JPG
     caption: Sisters Island, Dec 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/110123sislks1m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/retusa/110123sislks1m3.JPG
     caption: Sisters Island, Jan 11 Photo shared by Loh Kok Sheng on his blog .
   gallery11:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/100710sistch3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/retusa/100710sistch3m3.jpg
     caption: St. John's Island, Jul 10 Photo shared by Toh Chay Hoon on her blog .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/070902sjilks01m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/retusa/070902sjilks01m3.jpg
     caption: St. John's Island, Sep 07 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/070901sjimn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/retusa/070901sjimn.jpg
     caption: St. John's Island, Sep 07 Photo shared by Marcus Ng on flickr.
   gallery12:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/100528tkkjk.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/retusa/100528tkkjk.JPG
     caption: Pulau Tekukor, May 10 Photo shared by James Koh on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/120411hntmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/retusa/120411hntmn.jpg
     caption: Pulau Hantu, Apr 12 Photo shared by Marcus Ng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/140715tryhpy.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/retusa/140715tryhpy.jpg
     caption: Terumbu Raya, Jul 14 Photo shared by Heng Pei Yan on flickr .
 links_references: '**Links**
 

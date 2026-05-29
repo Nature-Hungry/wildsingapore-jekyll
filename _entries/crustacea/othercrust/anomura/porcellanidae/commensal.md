@@ -25,34 +25,34 @@ suborder: Pleocyemata
 infraorder: Anomura
 superfamily: Galatheoidea
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/commensal/070615sntrd2221m3c.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/porcellanidae/commensal/070615sntrd2221m3c.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/commensal/070615sntrd2221m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/porcellanidae/commensal/070615sntrd2221m3c.jpg
     caption: In branching hard coral . Sentosa, Jun 07
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/commensal/060625bbd3494m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/porcellanidae/commensal/060625bbd3494m3a.jpg
     caption: On pink flowery soft coral . Beting Bronok, Jun 06
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/commensal/050621skdg7978m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/porcellanidae/commensal/050621skdg7978m3.jpg
     caption: On a sponge . Pulau Sekudu, Jun 05
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/commensal/060516chgd2003m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/porcellanidae/commensal/060516chgd2003m3a.jpg
     caption: Changi, May 06 On pink flowery soft coral .
   - url: http://www.wildsingapore.com/cnidaria/coralsoft/nepball/060625bbd3423m3c.jpg
     caption: Beting Bronok, Jun 06 In ball flowery soft coral .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/commensal/110715cyrd6659m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/porcellanidae/commensal/110715cyrd6659m3.jpg
     caption: Cyrene Reef, Jul 11 In asparagus flowery soft coral .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/commensal/140913pgllks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/porcellanidae/commensal/140913pgllks.JPG
     caption: On an ascidian . Punggol, Sep 14 Photo shared by Loh Kok Sheng on his
       blog .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/commensal/240706ubnlks4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/porcellanidae/commensal/240706ubnlks4.jpg
     caption: On pink flowery soft coral . Pulau Ubin, Jul 24 Photo shared by Loh Kok
       Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/commensal/101224bsislks.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/porcellanidae/commensal/101224bsislks.jpg
     caption: On hard coral. Sisters Island, Dec 10 Photo shared by Loh Kok Sheng on
       his blog .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/commensal/160704cjlks2l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/porcellanidae/commensal/160704cjlks2l.jpg
     caption: On a sponge. Chek Jawa, Jul 16 Photo shared by Loh Kok Sheng on his blog
       .
 location:

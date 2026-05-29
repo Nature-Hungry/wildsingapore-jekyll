@@ -22,14 +22,14 @@ class: Magnoliopsida
 order: Rosales
 tribe: Ficeae
 updated: Mar 10
-coverimg: http://www.wildsingapore.com/wildfacts/plants/others/ficus/elastica/091203ubnd5067m6l.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/elastica/091203ubnd5067m6l.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/elastica/091203ubnd5014m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/elastica/091203ubnd5014m3.jpg
     caption: Pulau Ubin, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/elastica/091203ubnd5012m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/elastica/091203ubnd5012m3a.jpg
     caption: Pulau Ubin, Dec 09
-  - url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/elastica/091203ubnd5012m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/elastica/091203ubnd5012m3.jpg
     caption: Pulau Ubin, Dec 09
   gallery2:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
@@ -59,7 +59,7 @@ According to Corners, before the introduction of
 . The Indians apparently had been using latex from the tree to line their containers, e.g., to contain honey or to bail out water. When the Europeans discovered
 the latex, thousands of India-rubber trees were planted in Malaysia in an effort to produce the latex in commercial quantities.
 
-![](http://www.wildsingapore.com/wildfacts/plants/others/ficus/elastica/091203ubnd5067m6l.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/elastica/091203ubnd5067m6l.jpg)
 
 *Pulau Ubin, Dec 09*
 

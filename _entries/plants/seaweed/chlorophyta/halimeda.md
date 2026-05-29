@@ -17,12 +17,12 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Jan 12
-coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/050528kusg7092m3a.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/halsmall/050528kusg7092m3a.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/060527sjid2273m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/halsmall/060527sjid2273m3.jpg
     caption: Small coin green seaweed
-  - url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/060527sjid2264m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/halbig/060527sjid2264m3.jpg
     caption: Big coin green seaweed
 links_references: '**Links**
 
@@ -156,14 +156,14 @@ According to
 species.
 
 **
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/050528kusg7092m3a.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/halsmall/050528kusg7092m3a.jpg)
 
 Big and small coin green seaweed
 
 next to one another
 *Kusu Island, May 05*
 
-![](http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/050330labg3921m3a.jpg)
+![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/halbig/050330labg3921m3a.jpg)
 
 A pair of
 [Halimeda slugs](../../../mollusca/slugs/sacoglossa/pusilla)

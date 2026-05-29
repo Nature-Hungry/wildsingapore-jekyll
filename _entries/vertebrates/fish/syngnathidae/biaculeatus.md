@@ -25,48 +25,48 @@ order: Syngnathiformes
 suborder: Syngnathoidei
 subfamily: Syngnathinae
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/080523cyrd4008m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/biaculeatus/080523cyrd4008m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/080523cyrd4008m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/biaculeatus/080523cyrd4008m3.jpg
     caption: Cyrene Reef, May 08
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/050627smkg8893m6la.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/biaculeatus/050627smkg8893m6la.jpg
     caption: Pulau Semakau, Jun 05
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/080523cyrd3932m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/biaculeatus/080523cyrd3932m3a.jpg
     caption: Long narrow snout. Tiny pelvic fins. Cyrene Reef, May 08
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/050627smkg8908m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/biaculeatus/050627smkg8908m3a.jpg
     caption: A pair of tentacles on the long snout. Pulau Semakau, Jun 05
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/080523cyrd3895m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/biaculeatus/080523cyrd3895m3c.jpg
     caption: Prehensile tail. Cyrene Reef, May 08
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/050627smkg8911m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/biaculeatus/050627smkg8911m3.jpg
     caption: Eggs on the underside. Pulau Semakau, Jun 05
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/080523cyrd4003m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/biaculeatus/080523cyrd4003m3.jpg
     caption: Eggs on the underside. Cyrene, May 08
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/070217skdg7690m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/biaculeatus/070217skdg7690m3.jpg
     caption: Juvenile? Pulau Sekudu, Feb 07
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/070422cjmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/biaculeatus/070422cjmn.jpg
     caption: Juvenile? Chek Jawa, Apr 07 Photo shared by Marcus Ng on flickr .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/250627bbjjl5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/biaculeatus/250627bbjjl5.jpg
     caption: Beting Bronok, Jun 25 Photo by Jianlin Liu on facebook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/190122cyrjll3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/biaculeatus/190122cyrjll3.jpg
     caption: Juvenile? Cyrene, Jan 19 Photo shared by Jianlin Liu on facebook .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/200209cyrlks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/biaculeatus/200209cyrlks1.jpg
     caption: Juvenile? Cyrene, Feb 20 Photo shared by Loh Kok Sheng on facebook .
   gallery8:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/100301hntjk.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/biaculeatus/100301hntjk.jpg
     caption: Juvenile? Pulau Hantu, Mar 10 Photo shared by James Koh on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/080511smkljh1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/biaculeatus/080511smkljh1m3.jpg
     caption: Pulau Semakau, May 08 Photo shared by Lin Juanhui on flickr
   gallery9:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/250713tryjk1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/biaculeatus/250713tryjk1.jpg
     caption: Terumbu Raya, Jul 25 Photo shared by Jayden Kang on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/250715bbbtl1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/biaculeatus/250715bbbtl1.jpg
     caption: Beting Bemban Besar, Jul 25 Photo shared by Tammy Lim on facebook .
 links_references: '**Links**
 

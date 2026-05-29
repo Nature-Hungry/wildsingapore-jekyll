@@ -28,26 +28,26 @@ zoosubsection: Heterotremata
 superfamily: Xanthoidea
 subfamily: Cymoinae
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/cymo/081231sisd4418m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/cymo/081231sisd4418m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/cymo/081231sisd4418m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/cymo/081231sisd4418m3.jpg
     caption: Sisters Island, Dec 08
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/cymo/070531sisg9708m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/cymo/070531sisg9708m3.jpg
     caption: Sisters Island, May 07
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/cymo/100615tmjk7m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/cymo/100615tmjk7m3.jpg
     caption: Tanah Merah, Jun 10 Photo shared by James Koh on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/cymo/120507srpmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/cymo/120507srpmn.jpg
     caption: Sentosa Serapong, May 12 Photo shared by Marcus Ng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/cymo/100529kusjk3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/cymo/100529kusjk3m3.jpg
     caption: Kusu Island, May 10 Photo shared by James Koh on his blog .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/cymo/160209cyrmn2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/cymo/160209cyrmn2.jpg
     caption: Cyrene Reef, Feb 16 Photo shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/cymo/160209cyrmn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/cymo/160209cyrmn1.jpg
     caption: Cyrene Reef, Feb 16 Photo shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/cymo/160608cyrmn4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/cymo/160608cyrmn4.jpg
     caption: Cyrene Reef, Jun 16 Photo shared by Marcus Ng on facebook .
 links_references: '**Links**
 

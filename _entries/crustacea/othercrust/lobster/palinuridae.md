@@ -25,22 +25,22 @@ order: Decapoda
 suborder: Pleocyemata
 infraorder: Achelata
 updated: Mar 2020
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/palinuridae/060527sjid2192m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/palinuridae/060527sjid2192m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/palinuridae/060527sjid2192m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/palinuridae/060527sjid2192m3.jpg
     caption: Lobsters are sometimes seen on the intertidal, sadly, usually in driftnets.
       St John's Island, May 06
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/palinuridae/090623d4995m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/palinuridae/090623d4995m6l.jpg
     caption: A lobster released from a driftnet. Jun 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/palinuridae/120407lazlks8m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/palinuridae/120407lazlks8m3.jpg
     caption: Seringat Kias, Apr 12 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/palinuridae/220104lazky4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/palinuridae/220104lazky4.jpg
     caption: Trapped in a net, Lazarus, Jan 22 Photo shared by Kelvin Yong on facebook
       .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/palinuridae/250201bsisrk2a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/palinuridae/250201bsisrk2a.jpg
     caption: Big Sisters Island, Feb 25 Photo shared by Richard Kuah on facebook .
 links_references: '**Links**
 

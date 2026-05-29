@@ -16,46 +16,46 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Nov 2019
-coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pimply/090707prpd6686m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/pimply/090707prpd6686m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pimply/090707prpd6686m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/pimply/090707prpd6686m3.jpg
     caption: Pasir Ris, Jun 09
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pimply/090707prpd6694m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/pimply/090707prpd6694m3.jpg
     caption: Pasir Ris, Jun 09
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pimply/080408chgd0641m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/pimply/080408chgd0641m3.jpg
     caption: Changi, Apr 08
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pimply/110416lckd09904m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/pimply/110416lckd09904m3.jpg
     caption: Lim Chu Kang, Apr 11
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pimply/110416lckd09893m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/pimply/110416lckd09893m3.jpg
     caption: Lim Chu Kang, Apr 11
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pimply/160125obslks4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/pimply/160125obslks4.jpg
     caption: Pulau Ubin OBS, Jan 16 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pimply/250626ubnrk4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/pimply/250626ubnrk4.jpg
     caption: Pulau Ubin Jetty, Jun 25 Photo shared by Richard Kuah on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pimply/130721cjlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/pimply/130721cjlks.JPG
     caption: Chek Jawa, Jul 13 Photo shared by Loh Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pimply/170624cjlks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/pimply/170624cjlks2.jpg
     caption: Chek Jawa, Jun 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pimply/170624cjlks3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/pimply/170624cjlks3.jpg
     caption: Chek Jawa, Jun 17 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pimply/241216cjlks1a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/pimply/241216cjlks1a.jpg
     caption: Chek Jawa, Dec 24 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pimply/241216cjlks1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/pimply/241216cjlks1.jpg
     caption: Chek Jawa, Dec 24 Photo shared by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pimply/241216cjlks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/pimply/241216cjlks2.jpg
     caption: Chek Jawa, Dec 24 Photo shared by Loh Kok Sheng on facebook .
   gallery6:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pimply/241216cjccn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/pimply/241216cjccn1.jpg
     caption: Chek Jawa, Dec 24 Photo shared by Che Cheng Neo on facebook .
   gallery7:
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pimply/230704chgsafmn4.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/pimply/230704chgsafmn4.jpg
     caption: Changi Creek, Jul 23 Photo shared by Marcus Ng on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pimply/251012chgmn11.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/pimply/251012chgmn11.jpg
     caption: Changi Creek, Oct 25 Photo shared by Marcus Ng on facebook .
 location:
 - lck

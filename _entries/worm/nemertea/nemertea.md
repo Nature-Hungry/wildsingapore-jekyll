@@ -10,7 +10,7 @@ genus: Phylum
 species: Nemertea
 attributes: []
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/worm/nemertea/pink/050510tusg6052m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/pink/050510tusg6052m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -21,26 +21,26 @@ galleries:
     caption: They can be very long! They are predators and efficient hunters. They
       are delicate and some are venomous. Don't touch!
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/worm/nemertea/pink/050510tusg6052m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/pink/050510tusg6052m3.jpg
     caption: Sometimes seen swimming in the water. Tuas, May 05
-  - url: http://www.wildsingapore.com/wildfacts/worm/nemertea/verylong/091205sudd5585m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/verylong/091205sudd5585m6l.jpg
     caption: This one can be more than 1m long. Pulau Sudong, Dec 09
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/worm/nemertea/short/060531labd2669m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/short/060531labd2669m3.jpg
     caption: Wrapped around a drill snail. Labrador, May 06
-  - url: http://www.wildsingapore.com/wildfacts/worm/nemertea/short/070304hntg7898m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/short/070304hntg7898m3.jpg
     caption: Coiled around a paralysed shrimp. Pulau Hantu, Mar 07
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/worm/nemertea/short/100213tmd9299m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/short/100213tmd9299m3a.jpg
     caption: Short ribbon worm
-  - url: http://www.wildsingapore.com/wildfacts/worm/nemertea/redreef/050111labd9614m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/redreef/050111labd9614m3.jpg
     caption: Red reef ribbon worm
-  - url: http://www.wildsingapore.com/wildfacts/worm/nemertea/pink/060726chgd5005m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/pink/060726chgd5005m3.jpg
     caption: Pink ribbon worm
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/worm/nemertea/twotone/080603prpd4699m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/twotone/080603prpd4699m3b.jpg
     caption: Two-toned ribbon worm
-  - url: http://www.wildsingapore.com/wildfacts/worm/nemertea/verylong/091205sudd5587m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/verylong/091205sudd5587m3.jpg
     caption: Very long ribbon worm
 links_references: '**Links**
 

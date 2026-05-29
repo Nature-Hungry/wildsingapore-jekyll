@@ -5,30 +5,30 @@ keywords: wandering, cowrie, cypraeidae, errones, cypraea, gastropod, mollusc, s
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
 layout: entry
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/080604kusd4832m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/errones/080604kusd4832m3.jpg
 ---
 
  
 galleries:
   gallery1:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/080604kusd4832m3.jpg"
+    - url: "https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/errones/080604kusd4832m3.jpg"
       caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/070602sjig9814m3.jpg"
+    - url: "https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/ovum/070602sjig9814m3.jpg"
       caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/110123sisd5313m3.jpg"
+    - url: "https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/errones/110123sisd5313m3.jpg"
       caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/110517tptlks2m3.jpg"
+    - url: "https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/ovum/110517tptlks2m3.jpg"
       caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/110123sisd5313m3a.jpg"
+    - url: "https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/errones/110123sisd5313m3a.jpg"
       caption: ""
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/070602sjig9813m3a.jpg"
+    - url: "https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/ovum/070602sjig9813m3a.jpg"
       caption: ""
   gallery2:
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/110123sisd5312m3.jpg"
+    - url: "https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/errones/110123sisd5312m3.jpg"
       caption: Wandering cowrie
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/070602sjig9811m3.jpg"
+    - url: "https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/ovum/070602sjig9811m3.jpg"
       caption: Ovum cowrie
-    - url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/120804bbbd9817m3.jpg"
+    - url: "https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/quadrimaculata/120804bbbd9817m3.jpg"
       caption: Four-spot cowrie
 ---
 

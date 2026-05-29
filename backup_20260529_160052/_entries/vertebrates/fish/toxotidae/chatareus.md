@@ -1,0 +1,118 @@
+---
+title: Spotted archerfish
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: spotted, acherfish, archer, fish, toxotidae, toxotes, chatareus, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
+layout: entry
+attributes:
+- 7
+- 9
+- 25
+- 42
+- 47
+family: Toxotidae
+genus: Toxotes
+species: chatareus
+inat_id: 202152
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Carangiformes
+suborder: Toxotoidei
+updated: Oct 2020
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/chatareus/091226cjd6379m3.jpg
+galleries:
+  gallery1:
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/chatareus/091226cjd6379m3.jpg
+    caption: Changi Jetty, Dec 09
+  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/chatareus/050225sbwrd1096m6l.jpg
+    caption: Sungei Buloh Wetland Reserve, Feb 05
+links_references: '**Links**
+
+  - *[Toxotes chatareus](https://florafaunaweb.nparks.gov.sg/special-pages/animal-detail.aspx?id=1232)*
+
+  on NParks Flora and Fauna website.
+
+  - [Spotted archerfish (
+
+  *Toxotes chatareus*
+
+  )](http://fishbase.org/summary/8079)
+
+  from
+
+  [FishBase](http://www.fishbase.org/)
+
+  : Technical fact sheet
+
+  - [Seven-spot archerfish (
+
+  *Toxotes chatareus*
+
+  )](http://www.amonline.net.au/fishes/fishfacts/fish/tchatar)
+
+  from the
+
+  [Australian Museum Fish Site](http://www.amonline.net.au/fishes/fishfacts/)
+
+  : fact sheet with photo of fish and closeup of the structure of the fish''s mouth
+  with groove on the roof and shape of tongue.
+
+
+  **References**
+
+  - Allen, Gerry, 2000.
+
+  *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
+
+  . Periplus Editions. 292 pp.
+
+  '
+location:
+- sbw
+- chg
+size:
+- 20.0
+- 40.0
+---
+
+## Where seen?
+It is not seen as often as
+[Banded archerfishes](jaculatrix)
+, but sometimes seen together with these. Under jetties, bridges in streams near mangroves.
+
+## Features
+
+About 20cm, to about 40cm long. Smaller black spots between the broad black bands. Sometimes also called the Seven-spot archerfish. From above, their eyes have a golden sheen. Banded archerfishes lack these black spots and their eyes don't have the golden sheen.
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
+**What does it eat?**
+The Spotted archerfish feeds on floating titbits including insects and vegetation, as well as crustaceans and small fishes.
+[More](toxotidae)
+about the archerfishes' infamous ability to shoot down insects.
+
+**Spotted babies:**
+A female Spotted archerfish can produce lots of floating eggs, 20,000-150,000 of them.
+
+**Human uses:**
+Sometimes taken by anglers and considered good eating. Sold fresh in markets. Also taken for the live aquarium trade.
+
+---
+
+**Spotted archerfishes on Singapore shores**
+
+On
+[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+
+- [Photos](https://www.flickr.com/search/?text=Toxotes chatareus&sort=date-taken-desc&user_id=54527470@N00)
+for free download
+- [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Toxotes%2520chatareus/map?&fLat=1.2626&fLon=103.8647&zl=11&order_by=recent)
+
+---
+
+**Other sightings on Singapore shores**
+
+---

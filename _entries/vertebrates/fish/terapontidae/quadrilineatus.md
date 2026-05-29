@@ -23,26 +23,26 @@ superorder: Acanthomorpha
 order: Centrarchiformes
 suborder: Terapontoidei
 updated: Oct 2020
-coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/quadrilineatus/030418cjd0160m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/terapontidae/quadrilineatus/030418cjd0160m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/quadrilineatus/030418cjd0160m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/terapontidae/quadrilineatus/030418cjd0160m3.jpg
     caption: Chek Jawa, Apr 03
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/quadrilineatus/080731chgd8425m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/terapontidae/quadrilineatus/080731chgd8425m6l.jpg
     caption: Changi, Jul 08
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/quadrilineatus/200804chg4rk2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/terapontidae/quadrilineatus/200804chg4rk2.jpg
     caption: Changi, Aug 20 Photo shared by Richard Kuah on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/quadrilineatus/220616chgevc5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/terapontidae/quadrilineatus/220616chgevc5.jpg
     caption: Changi Lost Coast, Jun 22 Photo shared by Vincent Choo on facebook .
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/quadrilineatus/160507cjmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/terapontidae/quadrilineatus/160507cjmn.jpg
     caption: Chek Jawa, May 16 Photo shared by Marcus Ng on flickr .
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/quadrilineatus/151001blyjt11m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/terapontidae/quadrilineatus/151001blyjt11m3.jpg
     caption: Berlayar Creek, Oct 15 Photo shared by Jonathan Tan on facebook .
-  - url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/quadrilineatus/100912kuslks6m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/terapontidae/quadrilineatus/100912kuslks6m6l.jpg
     caption: Kusu Island, Sep 10 Photo shared by Loh Kok Sheng on his flickr .
 links_references: '**Links**
 

@@ -16,19 +16,19 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/porifera/lumpygreen/060611cjd2766m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/lumpygreen/060611cjd2766m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/lumpygreen/060611cjd2766m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/lumpygreen/060611cjd2766m3.jpg
     caption: Chek Jawa, Jun 06
-  - url: http://www.wildsingapore.com/wildfacts/porifera/lumpygreen/060429skdd1401m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/lumpygreen/060429skdd1401m3.jpg
     caption: Pulau Sekudu, Apr 06
-  - url: http://www.wildsingapore.com/wildfacts/porifera/lumpygreen/060723skdg6764m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/lumpygreen/060723skdg6764m3.jpg
     caption: Pulau Sekudu, Jul 06
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/porifera/lumpygreen/060712tusd4053m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/lumpygreen/060712tusd4053m3.jpg
     caption: Tuas, Jul 06
-  - url: http://www.wildsingapore.com/wildfacts/porifera/lumpygreen/031124tuscd0048m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/lumpygreen/031124tuscd0048m3.jpg
     caption: Tuas, Nov 03
 links_references: '**Links**
 

@@ -29,17 +29,17 @@ zoosubsection: Thoracotremata
 superfamily: Ocypodoidea
 subfamily: Dotillinae
 updated: Dec 2019
-coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ilyoplax/050809lckg1072m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/ilyoplax/050809lckg1072m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ilyoplax/050809lckg1072m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/ilyoplax/050809lckg1072m3.jpg
     caption: Lim Chu Kang, Aug 05
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ilyoplax/050809lckg1074m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/ilyoplax/050809lckg1074m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ilyoplax/040101lckd0135m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/ilyoplax/040101lckd0135m3.jpg
     caption: Lim Chu Kang, Jan 04
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ilyoplax/111107sbwrlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/ilyoplax/111107sbwrlks.JPG
     caption: Sungei Buloh, Nov 11 Photo shared by Loh Kok Sheng on flickr .
 links_references: '**Links**
 

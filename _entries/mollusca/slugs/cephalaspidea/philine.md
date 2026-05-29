@@ -20,20 +20,20 @@ subterclass: Tectipleura
 order: Cephalaspidea
 superfamily: Philinoidea
 updated: May 2020
-coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/philine/111028chged2710m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/philine/111028chged2710m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/philine/111028chged2710m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/philine/111028chged2710m3.jpg
     caption: Changi East, Oct 11
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/philine/111028chged2713m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/philine/111028chged2713m3.jpg
     caption: Burrowing, with the head in the sand.
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/philine/111028chged2710m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/philine/111028chged2710m3b.jpg
     caption: East Coast, Aug 09
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/philine/120704chglks1m2.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/philine/120704chglks1m2.JPG
     caption: Changi, Jul 12 Photo shared by Loh Kok Sheng on his blog .
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/philine/090207tmlks1m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/philine/090207tmlks1m3.JPG
     caption: East Coast Park, Feb 09 Photo shared by Loh Kok Sheng on his blog .
 links_references: '**Links**
 

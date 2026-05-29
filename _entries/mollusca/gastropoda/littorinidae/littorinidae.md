@@ -31,29 +31,29 @@ galleries:
       may die. Periwinkles do move! But only at high tide or in cool weather. The
       area around a periwinkle is often grazed bare of algae.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/others/050822cjg2240m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/others/050822cjg2240m3.jpg
     caption: Several kinds of periwinkles may be found together. Chek Jawa, Aug 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/nodilittorina/050502cjg5584m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/nodilittorina/050502cjg5584m3.jpg
     caption: Like other snails, they have a broad foot and tentacles . Chek Jawa,
       May 05
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/rock/050513labg6424m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/rock/050513labg6424m3.jpg
     caption: A thin operculum. Labrador, May 05
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/melanostoma/130317krjd4625m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/melanostoma/130317krjd4625m3.jpg
     caption: Kranji, Mar 13
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/melanostoma/130317krjd4625m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/melanostoma/130317krjd4625m3a.jpg
     caption: Mucus strands used to stick onto a tree.
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/nodilittorina/040706lzrd2452m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/nodilittorina/040706lzrd2452m3.jpg
     caption: Knobbly periwinkle
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/rock/041031cjd7944m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/rock/041031cjd7944m3.jpg
     caption: Rock periwinkle
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/round/031028sntad0048m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/round/031028sntad0048m3a.jpg
     caption: Round periwinkle
   gallery5:
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/mangrove/070304hntg7887m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/mangrove/070304hntg7887m3.jpg
     caption: Mangrove periwinkle
-  - url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/melanostoma/050327sbwrg3810m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/melanostoma/050327sbwrg3810m3.jpg
     caption: Black-mouth mangrove periwinkle
 links_references: '**Links**
 

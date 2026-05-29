@@ -17,7 +17,7 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Vermetoidea
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/wildfacts/worm/tubeworm/tubeworm/020225cjd7437m3.jpg
+coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/tubeworm/tubeworm/020225cjd7437m3.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/photos/bullet.gif
@@ -28,26 +28,26 @@ galleries:
     caption: Tubes of tiny worms may look like roots, don't step on them. Some can
       bite or sting. Don't touch! They live deep in the sand, don't dig them out.
   gallery2:
-  - url: http://www.wildsingapore.com/wildfacts/worm/tubeworm/tubeworm/020225cjd7437m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/tubeworm/tubeworm/020225cjd7437m3.jpg
     caption: Various kinds of tubes made by worms. Chek Jawa, Feb 02
-  - url: http://www.wildsingapore.com/wildfacts/polychaeta/diopatra/050823chgg2333m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/polychaeta/diopatra/050823chgg2333m3.jpg
     caption: Tube washed ashore Changi, Aug 05
-  - url: http://www.wildsingapore.com/wildfacts/polychaeta/strawtube/120410chgd9214m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/polychaeta/strawtube/120410chgd9214m3.jpg
     caption: Some tubeworms are more complex looking! Changi, Apr 12
   gallery3:
-  - url: http://www.wildsingapore.com/wildfacts/polychaeta/diopatra/110611cjlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/polychaeta/diopatra/110611cjlks.JPG
     caption: Being eaten by a mudskipper Chek Jawa, Jun 11 Photo shared by Loh Kok
       Sheng on his blog .
-  - url: http://www.wildsingapore.com/wildfacts/polychaeta/diopatra/100429prpd1812m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/polychaeta/diopatra/100429prpd1812m3.jpg
     caption: Reaching out to grab a mangrove propagule. Pasir Ris Park, Apr 10
-  - url: http://www.wildsingapore.com/wildfacts/polychaeta/gregarious/060114cjg3823m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/polychaeta/gregarious/060114cjg3823m3a.jpg
     caption: Forming shaggy mats may help anchor sediments Chek Jawa, Jan 06
   gallery4:
-  - url: http://www.wildsingapore.com/wildfacts/polychaeta/gregarious/120111chgs01934m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/polychaeta/gregarious/120111chgs01934m3.jpg
     caption: Gregarious tubeworms
-  - url: http://www.wildsingapore.com/wildfacts/polychaeta/strawtube/020627chgd0515m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/polychaeta/strawtube/020627chgd0515m3.jpg
     caption: Straw tubeworms
-  - url: http://www.wildsingapore.com/wildfacts/polychaeta/diopatra/040702chgg0938m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/polychaeta/diopatra/040702chgg0938m3.jpg
     caption: Solitary tubeworm
 links_references: '**Links**
 
