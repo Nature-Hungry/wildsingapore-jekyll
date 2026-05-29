@@ -69,6 +69,7 @@ galleries:
 size:
 - 400.0
 - 2200.0
+rdb: EN
 ---
 
 ## Where seen?

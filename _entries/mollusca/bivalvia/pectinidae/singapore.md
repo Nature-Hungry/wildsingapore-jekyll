@@ -7,7 +7,7 @@ keywords: coral, scallop, clam, shell, volachlamys, singaporina, pectinidae, biv
 layout: entry
 family: Pectinidae
 genus: Volachlamys
-species: singaporina*
+species: singaporina
 attributes: []
 inat_id: 370295
 stateofmatter: Life
@@ -64,6 +64,7 @@ location:
 size:
 - 3.0
 - 6.0
+rdb: LC
 ---
 
 ## Where seen?

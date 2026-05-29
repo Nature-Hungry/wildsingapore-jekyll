@@ -127,6 +127,7 @@ size:
 - 20.0
 - 7.0
 - 10.0
+rdb: LC
 ---
 
 ## Where seen?

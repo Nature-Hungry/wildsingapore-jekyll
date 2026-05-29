@@ -153,6 +153,7 @@ size:
 - 3.0
 - 5.0
 - 7.0
+rdb: LC
 ---
 
 ## Where seen?

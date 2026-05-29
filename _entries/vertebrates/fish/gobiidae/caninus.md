@@ -12,7 +12,7 @@ attributes:
 - 108
 family: Gobiidae
 genus: Acentrogobius
-species: caninus*
+species: caninus
 inat_id: 342823
 stateofmatter: Life
 kingdom: Animalia
@@ -65,6 +65,7 @@ size:
 - 10.0
 - 3.0
 - 5.0
+rdb: LC
 ---
 
 ## Where seen?

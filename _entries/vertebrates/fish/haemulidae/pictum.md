@@ -96,6 +96,7 @@ location:
 - smk
 size:
 - 10.0
+rdb: VU
 ---
 
 ## Where seen?

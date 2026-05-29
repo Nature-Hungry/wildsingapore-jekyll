@@ -7,7 +7,7 @@ keywords: tongue, mushroom, herpolitha, limax, fungiidae, coral, hard, scleracti
 layout: entry
 family: Fungiidae
 genus: Herpolitha
-species: limax*
+species: limax
 attributes: []
 inat_id: 102656
 stateofmatter: Life
@@ -144,6 +144,7 @@ location:
 size:
 - 20.0
 - 30.0
+rdb: LC
 ---
 
 ## Where seen?

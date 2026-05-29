@@ -82,6 +82,7 @@ size:
 - 17.0
 - 22.0
 - 15.0
+rdb: LC
 ---
 
 ## Where seen?

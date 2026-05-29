@@ -47,6 +47,7 @@ location:
 - laz
 size:
 - 4.0
+rdb: DD
 ---
 
 ## Where seen?

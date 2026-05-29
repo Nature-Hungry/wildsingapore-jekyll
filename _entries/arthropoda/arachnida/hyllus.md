@@ -84,6 +84,7 @@ location:
 - smk
 size:
 - 1.0
+rdb: DD
 ---
 
 ## Where seen?

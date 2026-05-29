@@ -7,7 +7,7 @@ keywords: coral, hard, plesiastrea, versipora, plesiastreidae, scleractinia, cni
 layout: entry
 family: Plesiastreidae
 genus: Plesiastrea
-species: versipora*
+species: versipora
 attributes: []
 inat_id: 503821
 stateofmatter: Life
@@ -87,6 +87,7 @@ location:
 size:
 - 15.0
 - 20.0
+rdb: DD
 ---
 
 ## Where seen?

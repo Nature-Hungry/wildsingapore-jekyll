@@ -6,7 +6,7 @@ shape: blobs
 title: Brownie sponge
 family: Spongiidae
 genus: Hyattella
-species: tubaria*
+species: tubaria
 attributes: []
 updated: Oct 2016
 coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/brownie/120708tryd7520m3.jpg
@@ -47,6 +47,7 @@ location:
 size:
 - 10.0
 - 15.0
+rdb: LC
 ---
 
 ## Where seen?

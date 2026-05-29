@@ -137,6 +137,7 @@ location:
 - chg
 - cj
 - ecp
+rdb: NT
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

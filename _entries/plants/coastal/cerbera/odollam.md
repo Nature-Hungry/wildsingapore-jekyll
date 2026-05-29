@@ -62,6 +62,7 @@ galleries:
 size:
 - 1200.0
 - 1500.0
+rdb: vu
 ---
 
 ## Where seen?

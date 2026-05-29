@@ -77,6 +77,7 @@ location:
 size:
 - 20.0
 - 40.0
+rdb: NT
 ---
 
 **

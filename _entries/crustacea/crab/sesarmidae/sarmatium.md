@@ -85,6 +85,7 @@ location:
 size:
 - 3.0
 - 8.0
+rdb: NT
 ---
 
 ## Where seen?

@@ -127,6 +127,7 @@ location:
 - lfa
 size:
 - 12.0
+rdb: NT
 ---
 
 ## Where seen?

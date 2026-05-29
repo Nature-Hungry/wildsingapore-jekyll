@@ -107,6 +107,7 @@ location:
 size:
 - 6.0
 - 7.0
+rdb: LC
 ---
 
 ## Where seen?

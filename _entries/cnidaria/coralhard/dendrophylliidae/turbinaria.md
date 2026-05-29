@@ -5,7 +5,7 @@ keywords: disk, turbinaria, dendrophylliidae, coral, hard, scleractinia, cnidari
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
 layout: entry
-family: Dendrophyllidae
+family: Dendrophylliidae
 genus: Turbinaria
 species: ''
 attributes: []
@@ -199,7 +199,7 @@ in the above.
 
 [Thin disk coral](thin)
 
-**[Family Dendrophyllidae](dendrophyllidae)
+**[Family Dendrophylliidae](Dendrophylliidae)
 
 Genus
 *Turbinaria***

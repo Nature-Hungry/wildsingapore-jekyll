@@ -98,6 +98,7 @@ location:
 - cyr
 size:
 - 35.0
+rdb: EN
 ---
 
 ## Where seen?

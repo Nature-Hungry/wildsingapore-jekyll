@@ -6,7 +6,7 @@ shape: branching
 title: Tangled sponge
 family: Callyspongiidae
 genus: Callyspongia
-species: samarensis*
+species: samarensis
 attributes: []
 inat_id: 1077657
 stateofmatter: Life
@@ -59,6 +59,7 @@ size:
 - 15.0
 - 20.0
 - 1.0
+rdb: Lc
 ---
 
 ## Where seen?

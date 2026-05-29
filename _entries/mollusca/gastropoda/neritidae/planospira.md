@@ -79,6 +79,7 @@ location:
 - lck
 size:
 - 2.0
+rdb: NT
 ---
 
 ## Where seen?

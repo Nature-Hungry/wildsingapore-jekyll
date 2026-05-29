@@ -60,6 +60,7 @@ galleries:
       Volume 1: 1-1240; volume 2: 1241-2444.'
 size:
 - 1000.0
+rdb: Ke;
 ---
 
 ## Where seen?

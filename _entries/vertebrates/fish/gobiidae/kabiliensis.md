@@ -84,6 +84,7 @@ location:
 - sbw
 size:
 - 1.5
+rdb: NT
 ---
 
 ## Where seen?

@@ -12,7 +12,7 @@ attributes:
 - 92
 family: Ophiotrichidae
 genus: Ophiothela
-species: danae*
+species: danae
 inat_id: 195664
 stateofmatter: Life
 kingdom: Animalia
@@ -102,6 +102,7 @@ location:
 - cyr
 size:
 - 1.0
+rdb: NE
 ---
 
 ## Where seen?

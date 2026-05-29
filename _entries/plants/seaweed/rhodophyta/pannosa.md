@@ -8,7 +8,7 @@ layout: entry
 division: Rhodophyta
 family: Cystocloniaceae
 genus: Hypnea
-species: pannosa*
+species: pannosa
 attributes:
 - 50
 - 97
@@ -95,6 +95,7 @@ location:
 size:
 - 6.0
 - 8.0
+rdb: LC
 ---
 
 ## Where seen?

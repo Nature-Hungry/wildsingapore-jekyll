@@ -109,6 +109,7 @@ location:
 size:
 - 2.0
 - 2.5
+rdb: NE
 ---
 
 ## Where seen?

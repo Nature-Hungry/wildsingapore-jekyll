@@ -11,7 +11,7 @@ attributes:
 - 92
 family: Himerometridae
 genus: Himerometra
-species: robustipinna*
+species: robustipinna
 inat_id: 349155
 stateofmatter: Life
 kingdom: Animalia
@@ -133,6 +133,7 @@ location:
 size:
 - 6.0
 - 12.0
+rdb: 'Ke:'
 ---
 
 ## Where seen?

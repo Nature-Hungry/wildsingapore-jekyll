@@ -91,6 +91,7 @@ location:
 size:
 - 20.0
 - 100.0
+rdb: VU
 ---
 
 ## Where seen?

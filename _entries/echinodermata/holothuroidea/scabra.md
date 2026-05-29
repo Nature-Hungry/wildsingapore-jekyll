@@ -196,6 +196,7 @@ size:
 - 15.0
 - 20.0
 - 40.0
+rdb: EN
 ---
 
 ## Where seen?

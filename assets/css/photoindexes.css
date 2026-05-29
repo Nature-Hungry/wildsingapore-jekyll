@@ -27,7 +27,6 @@
 
 .entry-summary-row .attributes{
     display:flex;
-    gap:0.5rem;
     justify-content: left;
 }
 .entry-summary-row .attribute{

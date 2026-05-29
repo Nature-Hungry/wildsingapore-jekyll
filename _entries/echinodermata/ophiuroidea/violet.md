@@ -12,7 +12,7 @@ attributes:
 - 92
 family: Ophiotrichidae
 genus: Macrophiothrix
-species: nereidina*
+species: nereidina
 inat_id: 348203
 stateofmatter: Life
 kingdom: Animalia
@@ -120,6 +120,7 @@ location:
 - lfa
 size:
 - 1.0
+rdb: NE
 ---
 
 ## Where seen?

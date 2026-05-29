@@ -8,7 +8,7 @@ layout: entry
 division: Rhodophyta
 family: Rhodomelaceae
 genus: Acrocystis
-species: nana*
+species: nana
 attributes:
 - 52
 - 97
@@ -71,6 +71,7 @@ location:
 size:
 - 0.5
 - 1.0
+rdb: DD
 ---
 
 ## Where seen?

@@ -8,7 +8,7 @@ layout: entry
 division: Rhodophyta
 family: Rhizophyllidaceae
 genus: Portieria
-species: hornemannii*
+species: hornemannii
 attributes:
 - 52
 - 97
@@ -91,6 +91,7 @@ location:
 - lfa
 size:
 - 5.0
+rdb: DD
 ---
 
 ## Where seen?

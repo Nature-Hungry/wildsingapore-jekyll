@@ -156,6 +156,7 @@ location:
 size:
 - 15.0
 - 20.0
+rdb: vu
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

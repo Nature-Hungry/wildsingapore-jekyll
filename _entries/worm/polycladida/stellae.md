@@ -7,7 +7,7 @@ keywords: starry, flat, worm, flatworm, pseudobiceros, stellae, polyclad, turbel
 layout: entry
 family: Pseudocerotidae
 genus: Pseudobiceros
-species: stellae*
+species: stellae
 attributes: []
 inat_id: 372164
 stateofmatter: Life
@@ -70,6 +70,7 @@ location:
 size:
 - 4.0
 - 8.0
+rdb: VU
 ---
 
 ## Where seen?

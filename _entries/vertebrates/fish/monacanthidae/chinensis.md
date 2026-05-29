@@ -13,7 +13,7 @@ attributes:
 - 47
 family: Monacanthidae
 genus: Monacanthus
-species: chinensis*
+species: chinensis
 inat_id: 368999
 stateofmatter: Life
 kingdom: Animalia
@@ -161,6 +161,7 @@ size:
 - 38.0
 - 5.0
 - 8.0
+rdb: LC
 ---
 
 ## Where seen?

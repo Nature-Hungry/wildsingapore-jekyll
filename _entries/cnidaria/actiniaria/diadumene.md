@@ -87,6 +87,7 @@ location:
 - sis
 size:
 - 0.5
+rdb: LC
 ---
 
 ## Where seen?

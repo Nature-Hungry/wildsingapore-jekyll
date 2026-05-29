@@ -105,6 +105,7 @@ location:
 - hnt
 size:
 - 4.0
+rdb: VU
 ---
 
 ## Where seen?

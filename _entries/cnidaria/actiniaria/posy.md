@@ -12,7 +12,7 @@ attributes:
 - 102
 family: Actiniidae
 genus: Mesactinia
-species: ganensis*
+species: ganensis
 inat_id: 827832
 stateofmatter: Life
 kingdom: Animalia
@@ -71,6 +71,7 @@ location:
 size:
 - 3.0
 - 4.0
+rdb: DD
 ---
 
 ## Where seen?

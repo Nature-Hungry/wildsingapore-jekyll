@@ -151,6 +151,7 @@ size:
 - 70.0
 - 2.0
 - 12.0
+rdb: VU
 ---
 
 ## Where seen?

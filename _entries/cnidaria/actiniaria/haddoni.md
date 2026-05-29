@@ -213,6 +213,7 @@ size:
 - 50.0
 - 75.0
 - 80.0
+rdb: LC
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

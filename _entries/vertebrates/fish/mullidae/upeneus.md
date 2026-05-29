@@ -175,6 +175,7 @@ size:
 - 30.0
 - 4.0
 - 8.0
+rdb: NT
 ---
 
 ## Where seen?

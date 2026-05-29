@@ -94,6 +94,7 @@ location:
 - lfa
 size:
 - 15.0
+rdb: VU
 ---
 
 ## Where seen?

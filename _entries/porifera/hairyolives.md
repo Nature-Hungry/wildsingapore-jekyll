@@ -6,7 +6,7 @@ shape: bristley
 title: '''Hairy olives'' sponge'
 family: Ancorinidae
 genus: Stelletta
-species: clavosa*
+species: clavosa
 attributes: []
 inat_id: 764906
 stateofmatter: Life
@@ -81,6 +81,7 @@ location:
 - lfa
 size:
 - 2.0
+rdb: Lc
 ---
 
 ## Where seen?

@@ -86,6 +86,7 @@ location:
 - laz
 size:
 - 23.0
+rdb: LC
 ---
 
 ## Where seen?

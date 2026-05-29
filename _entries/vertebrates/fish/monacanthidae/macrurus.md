@@ -13,7 +13,7 @@ attributes:
 - 47
 family: Monacanthidae
 genus: Pseudomonacanthus
-species: macrurus*
+species: macrurus
 inat_id: 272552
 stateofmatter: Life
 kingdom: Animalia
@@ -93,6 +93,7 @@ location:
 size:
 - 24.0
 - 10.0
+rdb: VU
 ---
 
 ## Where seen?

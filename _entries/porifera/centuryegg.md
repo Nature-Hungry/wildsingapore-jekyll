@@ -6,7 +6,7 @@ shape: ''
 title: '''Century egg'' sponge'
 family: Suberitidae
 genus: Aaptos
-species: suberitoides*
+species: suberitoides
 attributes: []
 inat_id: 1536347
 stateofmatter: Life
@@ -56,6 +56,7 @@ location:
 size:
 - 10.0
 - 15.0
+rdb: te
 ---
 
 ## Where seen?

@@ -25,94 +25,72 @@ coverimg: https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/180301c
 galleries:
   gallery1:
   - url: https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/180301cyll1.jpg
-    caption: "'Walking' on water. Cyrene Reef, Mar 18 Photo shared by Liz Lim on facebook."
-  - url: 
-      https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/110717tblks1m3.jpg
-    caption: Mating? Terumbu Bemban, Jul 11 Photo shared by Loh Kok Sheng on his
-      blog .
+    caption: '''Walking'' on water. Cyrene Reef, Mar 18 Photo shared by Liz Lim on
+      facebook.'
+  - url: https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/110717tblks1m3.jpg
+    caption: Mating? Terumbu Bemban, Jul 11 Photo shared by Loh Kok Sheng on his blog
+      .
   - url: https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/090711sjilks.JPG
-    caption: The spider's high tide shelter? St John's Island, Jul 09 Photo 
-      shared by Loh Kok Sheng on flickr.
+    caption: The spider's high tide shelter? St John's Island, Jul 09 Photo shared
+      by Loh Kok Sheng on flickr.
   gallery2:
-  - url: 
-      https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/050510tusg6159m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/050510tusg6159m3.jpg
     caption: Caught a shrimp almost as big as itself! Tuas, May 05
-  - url: 
-      https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/040829kusd5626m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/040829kusd5626m3.jpg
     caption: Caught a shore cricket . Kusu Island, Apr 08
-  - url: 
-      https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/050329sntg3913m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/050329sntg3913m3.jpg
     caption: Caught a Sea slater ? Sentosa, Mar 05
   gallery3:
-  - url: 
-      https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/100515skdmn1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/100515skdmn1m3.jpg
     caption: Pulau Sekudu, May 10 Photo shared by Marcus Ng on his flickr .
-  - url:
-      https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/251205cjrqo3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/251205cjrqo3.jpg
     caption: Chek Jawa, Dec 25 Photo shared by Rui Quan Oh on facebook .
-  - url: 
-      https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/090820ecpjk1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/090820ecpjk1m3.jpg
     caption: East Coast, Aug 09 Photo shared by James Koh on his blog .
   gallery4:
-  - url: 
-      https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/101108bkomlks5m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/101108bkomlks5m3.JPG
     caption: Terumbu Bukom, Nov 10 Photo shared by Loh Kok Sheng on his blog .
   gallery5:
-  - url: 
-      https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/260103bsisrqo3.jpg
-    caption: Big Sisters Island, Jan 26 Photo shared by Rui Quan Oh on facebook 
+  - url: https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/260103bsisrqo3.jpg
+    caption: Big Sisters Island, Jan 26 Photo shared by Rui Quan Oh on facebook .
+  - url: https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/210822ssisvc4.jpg
+    caption: Small SIsters Island, Aug 21 Photo shared by Vincent Choo on facebook
       .
-  - url: 
-      https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/210822ssisvc4.jpg
-    caption: Small SIsters Island, Aug 21 Photo shared by Vincent Choo on 
-      facebook .
-  - url: 
-      https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/251011ssisyls7.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/251011ssisyls7.jpg
     caption: Small Sisters Island, Oct 25 Photo shared by Yan Le Su on facebook.
   gallery6:
-  - url: 
-      https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/260101cryyls3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/260101cryyls3a.jpg
     caption: Cyrene, Feb 26 Photo by Yan Le Su on facebook.
   gallery7:
-  - url: 
-      https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/100502tryjk1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/100502tryjk1m3.jpg
     caption: Terumbu Raya, May 10 Photo shared by James Koh on his blog.
-  - url: 
-      https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/150606trymn2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/150606trymn2m3.jpg
     caption: Terumbu Raya, Jun 15 Photo shared by Marcus Ng on facebook.
-  - url:
-      https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/250713trytl2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/250713trytl2.jpg
     caption: Terumbu Raya, Jul 25 Photo shared by Tammy Lim on facebook.
   gallery8:
-  - url:
-      https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/170311bbbrk.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/170311bbbrk.jpg
     caption: Beting Bemban Besar, Mar 17 Photo shared by Richard Kuah on facebook.
-  - url:
-      https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/250812tbijk1.jpg
-    caption: Washed up on the shore. Terumbu Bemban, Aug 25 Photo shared by 
-      Jayden Kang on facebook.
+  - url: https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/250812tbijk1.jpg
+    caption: Washed up on the shore. Terumbu Bemban, Aug 25 Photo shared by Jayden
+      Kang on facebook.
   gallery9:
-  - url:
-      https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/180717tbll3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/180717tbll3.jpg
     caption: Terumbu Bemban, Jul 18 Photo shared by Liz Lim on facebook.
-  - url:
-      https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/220420tbmn3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/220420tbmn3.jpg
     caption: Terumbu Bemban, Apr 22 Photo shared by Marcus Ng on facebook.
   gallery10:
-  - url: 
-      https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/110517tptik10m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/110517tptik10m3.jpg
     caption: Terumbu Pempang Tengah, May 11 Photo shared by Ivan Kwan on flickr.
   - url: https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/200626tptjt3.jpg
     caption: Terumbu Pempang Tengah, Jun 20 Photo shared by Jonathan Tan on facebook.
   gallery11:
-  - url: 
-      https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/170513tpltch1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/170513tpltch1.jpg
     caption: Terumbu Pempang Laut, May 17 Photo shared by Toh Chay Hoon on facebook.
   - url: https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/250712tplal5.jpg
     caption: Terumbu Pempang Laut, Jul 25 Photo shared by Adriene Lee on facebook.
   gallery12:
-  - url: 
-      https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/210428slujll5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/210428slujll5.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Jianlin Liu on facebook.
 links_references: '**Links**
 
@@ -183,6 +161,7 @@ location:
 - lfa
 size:
 - 1.0
+rdb: VU
 ---
 
 ## Where seen?

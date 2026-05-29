@@ -7,7 +7,7 @@ keywords: flat, worm, flatworm, tytthosoceros, lizardensis, polyclad, polycladid
 layout: entry
 family: Pseudocerotidae
 genus: Tytthosoceros
-species: lizardensis*
+species: lizardensis
 attributes: []
 inat_id: 603920
 stateofmatter: Life
@@ -92,6 +92,7 @@ location:
 size:
 - 8.0
 - 10.0
+rdb: VU
 ---
 
 ## Where seen?

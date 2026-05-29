@@ -147,6 +147,7 @@ location:
 size:
 - 15.0
 - 20.0
+rdb: EN
 ---
 
 ## Where seen?

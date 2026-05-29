@@ -7,7 +7,7 @@ keywords: serpent, pachyseris, speciosa, agariciidae, coral, hard, scleractinia,
 layout: entry
 family: Agariciidae
 genus: Pachyseris
-species: speciosa*
+species: speciosa
 attributes: []
 inat_id: 520313
 stateofmatter: Life
@@ -102,6 +102,7 @@ location:
 size:
 - 10.0
 - 20.0
+rdb: LC
 ---
 
 ## Where seen?

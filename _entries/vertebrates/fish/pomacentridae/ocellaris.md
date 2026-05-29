@@ -241,6 +241,7 @@ location:
 size:
 - 2.0
 - 9.0
+rdb: NT
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

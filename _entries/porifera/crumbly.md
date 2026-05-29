@@ -6,7 +6,7 @@ shape: encrusting
 title: Crumbly sponge
 family: Halichondriidae
 genus: Amorphinopsis
-species: excavans*
+species: excavans
 attributes: []
 inat_id: 1636800
 stateofmatter: Life
@@ -65,6 +65,7 @@ location:
 size:
 - 10.0
 - 15.0
+rdb: LC
 ---
 
 ## Where seen?

@@ -6,7 +6,7 @@ shape: blobs
 title: Black prickly sponge
 family: Raspailiidae
 genus: Echinodictyum
-species: conulosum*
+species: conulosum
 attributes: []
 inat_id: 1654174
 stateofmatter: Life
@@ -74,6 +74,7 @@ location:
 - snt
 - sji
 - lfa
+rdb: LC
 ---
 
 ## Where seen?

@@ -70,6 +70,7 @@ location:
 - tpg
 size:
 - 18.0
+rdb: NT
 ---
 
 ## Where seen?

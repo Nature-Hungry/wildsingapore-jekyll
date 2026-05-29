@@ -18,7 +18,7 @@ attributes:
 - 108
 family: Gobiidae
 genus: Cryptocentrus
-species: maudae*
+species: maudae
 inat_id: 502485
 stateofmatter: Life
 kingdom: Animalia
@@ -139,6 +139,7 @@ location:
 size:
 - 7.0
 - 1.5
+rdb: LC
 ---
 
 ## Where seen?

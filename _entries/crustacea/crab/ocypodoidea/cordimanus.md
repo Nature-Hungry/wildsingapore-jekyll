@@ -96,6 +96,7 @@ location:
 - snt
 size:
 - 5.0
+rdb: EN
 ---
 
 ## Where seen?

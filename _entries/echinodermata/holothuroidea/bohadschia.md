@@ -16,7 +16,7 @@ attributes:
 - 92
 family: Holothuriidae
 genus: Bohadschia
-species: vitiensis*
+species: vitiensis
 inat_id: 348151
 stateofmatter: Life
 kingdom: Animalia
@@ -140,6 +140,7 @@ location:
 size:
 - 15.0
 - 30.0
+rdb: EN
 ---
 
 ## Where seen?

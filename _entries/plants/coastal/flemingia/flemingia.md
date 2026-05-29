@@ -54,6 +54,7 @@ galleries:
 size:
 - 100.0
 - 150.0
+rdb: CR
 ---
 
 ## Where seen?

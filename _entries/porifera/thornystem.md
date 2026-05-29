@@ -6,7 +6,7 @@ shape: branching
 title: Thorny stem sponge
 family: Niphatidae
 genus: Gelliodes
-species: fibulata*
+species: fibulata
 attributes: []
 inat_id: 604340
 stateofmatter: Life
@@ -63,6 +63,7 @@ location:
 size:
 - 10.0
 - 20.0
+rdb: LC
 ---
 
 ## Where seen?

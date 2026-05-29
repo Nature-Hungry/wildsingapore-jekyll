@@ -8,10 +8,17 @@
         border-bottom: 2px solid lightgrey;
         padding-bottom: 2rem;
         margin-bottom: 2rem;
+        width:100%;
+    }
+    .species-head-left{
+        display:flex;
+        height:100%;
+        width:100%;
+        max-width:400px
     }
     .species-cover-container{
-        max-width: 418px;
-        width: 418px;
+        width:100%;
+
     }
     .species-cover-container img{
         height: 100%;
@@ -35,7 +42,6 @@
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        gap:0.5rem;
     }
     .attribute-icon{
         height:50px;
@@ -105,7 +111,7 @@
     <!-- Page content -->
     <main class="page-content" id="main-content">
       <section class="species-head">
-            <div class="flex" style="height:100%">
+            <div class="species-head-left">
                 <div class="other-images">
                   {% for img in page.images %}
                     <img src="{{img}}" alt="" class=" selected">
@@ -120,7 +126,7 @@
                 {% endif %}
                 </div>
             </div>
-          <div>
+          <div class="species-head-right">
                 <p>
                     <a href="/{{page.phylum}}">{{page.phylum}}</a>
                     > 
@@ -152,7 +158,24 @@
                 {% endif %}
 
                 <p><em>Updated {{page.updated}}</em></p>
+
+                {% if page.size %}
+                <p>
+                    {{page.size[0]}}
+                    {% if page.size[1] %}
+                        - {{page.size[1]}}
+                    {% endif %}
+                    cm
+                </p>
+                {% endif %}
+
                 <div class="attributes-row">
+                    {% if page.rdb %}
+                        <div class="attribute">
+                            <div class="redlist {{page.rdb}}">{{page.rdb}}</div>
+                            <p>RDB3</p>
+                        </div>
+                    {% endif %}
                   {% for a in page.display_attributes %}
                     
                     <div class="attribute">

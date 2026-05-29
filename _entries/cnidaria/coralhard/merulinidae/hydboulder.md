@@ -7,7 +7,7 @@ keywords: horn, hydnophora, exesa. merulinidae, coral, hard, scleractinia, cnida
 layout: entry
 family: Merulinidae
 genus: Hydnophora
-species: exesa*
+species: exesa
 attributes: []
 inat_id: 102990
 stateofmatter: Life
@@ -153,6 +153,7 @@ location:
 size:
 - 15.0
 - 20.0
+rdb: LC
 ---
 
 ## Where seen?

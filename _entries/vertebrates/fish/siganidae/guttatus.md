@@ -88,6 +88,7 @@ size:
 - 40.0
 - 15.0
 - 20.0
+rdb: NT
 ---
 
 ## Where seen?

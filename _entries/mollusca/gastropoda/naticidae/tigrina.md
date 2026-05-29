@@ -123,6 +123,7 @@ location:
 size:
 - 2.0
 - 3.0
+rdb: LC
 ---
 
 ## Where seen?

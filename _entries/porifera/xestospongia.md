@@ -6,7 +6,7 @@ shape: sausage
 title: Barrel  sponge
 family: Petrosiidae
 genus: Xestospongia
-species: testudinaria*
+species: testudinaria
 attributes: []
 inat_id: 319598
 stateofmatter: Life
@@ -144,6 +144,7 @@ location:
 - smk
 - tsm
 - lfa
+rdb: Lc
 ---
 
 ## Where seen?

@@ -8,7 +8,7 @@ layout: entry
 division: Phaeophyta
 family: Scytosiphonaceae
 genus: Colpomenia
-species: sinuosa*
+species: sinuosa
 attributes:
 - 41
 - 97
@@ -112,6 +112,7 @@ size:
 - 1.0
 - 6.0
 - 100.0
+rdb: NE
 ---
 
 ## Where seen?

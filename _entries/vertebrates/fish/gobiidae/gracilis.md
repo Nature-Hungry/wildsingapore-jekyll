@@ -14,7 +14,7 @@ attributes:
 - 72
 family: Gobiidae
 genus: Periophthalmus
-species: gracilis*
+species: gracilis
 inat_id: 461060
 stateofmatter: Life
 kingdom: Animalia
@@ -79,6 +79,7 @@ location:
 size:
 - 4.0
 - 5.0
+rdb: VU
 ---
 
 ## Where seen?

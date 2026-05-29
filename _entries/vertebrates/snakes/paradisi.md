@@ -81,6 +81,7 @@ location:
 - ubn
 size:
 - 120.0
+rdb: Lc
 ---
 
 ## Where seen?

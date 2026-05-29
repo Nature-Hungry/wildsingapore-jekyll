@@ -130,6 +130,7 @@ links_references: '**Links**
 size:
 - 500.0
 - 900.0
+rdb: VU
 ---
 
 ## Where seen?

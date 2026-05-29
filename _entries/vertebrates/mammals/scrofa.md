@@ -46,6 +46,7 @@ links_references: "**Links**\n- [Wild Pig](http://www.ecologyasia.com/verts/mamm
 size:
 - 150.0
 - 200.0
+rdb: LC
 ---
 
 ## Where seen?

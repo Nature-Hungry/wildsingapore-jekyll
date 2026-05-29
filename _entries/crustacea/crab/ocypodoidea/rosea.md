@@ -11,7 +11,7 @@ attributes:
 - 112
 family: Ocypodidae
 genus: Tubuca
-species: rosea*
+species: rosea
 inat_id: 739177
 stateofmatter: Life
 kingdom: Animalia
@@ -58,6 +58,7 @@ location:
 size:
 - 1.0
 - 1.5
+rdb: VU
 ---
 
 ## Where seen?

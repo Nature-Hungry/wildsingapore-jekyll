@@ -8,7 +8,7 @@ layout: entry
 division: Chlorophyta
 family: Polyphysaceae
 genus: Parvocaulis
-species: parvulus*
+species: parvulus
 attributes:
 - 44
 - 97
@@ -94,6 +94,7 @@ location:
 - lfa
 size:
 - 0.5
+rdb: NE
 ---
 
 ## Where seen?

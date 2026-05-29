@@ -7,7 +7,7 @@ keywords: elegant, striped, blue, lined, flat, worm, flatworm, pseudoceros, conc
 layout: entry
 family: Pseudocerotidae
 genus: Pseudoceros
-species: concinnus*
+species: concinnus
 attributes: []
 inat_id: 508285
 stateofmatter: Life
@@ -152,6 +152,7 @@ galleries:
 size:
 - 2.0
 - 4.0
+rdb: VU
 ---
 
 ## Where seen?

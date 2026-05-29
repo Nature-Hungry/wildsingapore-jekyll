@@ -54,6 +54,7 @@ location:
 size:
 - 2.0
 - 4.0
+rdb: DD
 ---
 
 ## Where seen?

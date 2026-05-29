@@ -13,7 +13,7 @@ attributes:
 - 81
 family: Platycephalidae
 genus: Platycephalus
-species: indicus*
+species: indicus
 inat_id: 109634
 stateofmatter: Life
 kingdom: Animalia
@@ -101,6 +101,7 @@ location:
 size:
 - 8.0
 - 12.0
+rdb: VU
 ---
 
 ## Where seen?

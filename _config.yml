@@ -1,9 +1,9 @@
 # Site Settings
-title:            Nature Hungry
-tagline:          'Fully Open Source, Free Forever.'
-description:      'One-stop resource for nature lovers in Singapore. We are a group of volunteers who are passionate about sharing information on Singapore's biodiversity.'
-url:              https://nature-hungry.github.io
-baseurl:          ""
+title: "Nature Hungry"
+tagline: "Fully Open Source, Free Forever."
+description: "One-stop resource for nature lovers in Singapore. We are a group of volunteers who are passionate about sharing information on Singapore's biodiversity."
+url: "https://nature-hungry.github.io"
+baseurl: ""
 
 # Dependencies
 markdown:         kramdown

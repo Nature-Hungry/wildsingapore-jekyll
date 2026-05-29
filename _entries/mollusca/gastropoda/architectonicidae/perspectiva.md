@@ -133,6 +133,7 @@ location:
 size:
 - 5.0
 - 7.0
+rdb: DD
 ---
 
 ## Where seen?

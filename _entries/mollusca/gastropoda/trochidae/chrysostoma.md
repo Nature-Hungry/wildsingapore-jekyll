@@ -59,6 +59,7 @@ location:
 - jng
 size:
 - 2.5
+rdb: LC
 ---
 
 ## Where seen?

@@ -12,7 +12,7 @@ attributes:
 - 108
 family: Apogonidae
 genus: Sphaeramia
-species: orbicularis*
+species: orbicularis
 inat_id: 320624
 stateofmatter: Life
 kingdom: Animalia
@@ -60,6 +60,7 @@ location:
 size:
 - 11.0
 - 6.0
+rdb: NT
 ---
 
 ## Where seen?

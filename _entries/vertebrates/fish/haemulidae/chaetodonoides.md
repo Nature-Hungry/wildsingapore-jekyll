@@ -107,6 +107,7 @@ location:
 - smk
 size:
 - 10.0
+rdb: EN
 ---
 
 ## Where seen?

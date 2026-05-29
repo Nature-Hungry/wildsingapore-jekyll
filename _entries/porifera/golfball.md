@@ -6,7 +6,7 @@ shape: ball
 title: Golf ball sponge
 family: Tetillidae
 genus: Cinachyrella
-species: australiensis*
+species: australiensis
 attributes: []
 inat_id: 551979
 stateofmatter: Life
@@ -113,6 +113,7 @@ location:
 size:
 - 6.0
 - 8.0
+rdb: Le
 ---
 
 ## Where seen?

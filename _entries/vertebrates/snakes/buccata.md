@@ -86,6 +86,7 @@ location:
 - sbw
 size:
 - 120.0
+rdb: VU
 ---
 
 ## Where seen?

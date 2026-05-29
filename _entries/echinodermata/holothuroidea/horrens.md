@@ -16,7 +16,7 @@ attributes:
 - 92
 family: Stichopodidae
 genus: Stichopus
-species: horrens*
+species: horrens
 inat_id: 195744
 stateofmatter: Life
 kingdom: Animalia
@@ -92,6 +92,7 @@ location:
 size:
 - 20.0
 - 50.0
+rdb: VU
 ---
 
 ## Where seen?
