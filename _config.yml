@@ -1,9 +1,17 @@
 # Site Settings
+<<<<<<< HEAD
+title:            Nature Hungry
+tagline:          'Fully Open Source, Free Forever.'
+description:      'One-stop resource for nature lovers in Singapore. We are a group of volunteers who are passionate about sharing information on Singaporean biodiversity.'
+url:              https://nature-hungry.github.io
+baseurl:          ""
+=======
 title: "Nature Hungry"
 tagline: "Fully Open Source, Free Forever."
 description: "One-stop resource for nature lovers in Singapore. We are a group of volunteers who are passionate about sharing information on Singapore's biodiversity."
 url: "https://nature-hungry.github.io"
 baseurl: ""
+>>>>>>> e90b9ec73d3227dc10a63e873ef088a8c10cf70d
 
 # Dependencies
 markdown:         kramdown
@@ -19,19 +27,8 @@ github:
   repo:           https://github.com/Nature-Hungry/nature-hungry.github.io
   username:       Nature-Hungry
 
-# Options
-
 # Replace this value and uncomment to enable Google Analytics tracking
-# google_analytics: UA-000000-0
-
-# Replace this value and uncomment to enable Disqus
-# disqus: xxxxxx
-
-# Specify the author for blog posts
-author:
-  name: Nature Hungry
-  url: https://github.com/nature-hungry/
-  email: hello@wildsingapore.com
+google_analytics: G-D6D1VPY6W2
 
 collections:
   entries:

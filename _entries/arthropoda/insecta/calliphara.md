@@ -40,19 +40,7 @@ galleries:
     caption: Pasir Ris Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
 links_references: '**Links**
 
-  - [Shield/Stink bug (
-
-  *Calliphara nobilis*
-
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2012)
-
-  Ng, Peter K. L. & N. Sivasothi, 1999.
-
-  *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)
-
-  II (Animal Diversity)*
-
-  . Singapore Science Centre. 168 pp.
+  - [Shield/Stink bug (*Calliphara nobilis*)](http://mangrove.nus.edu.sg/guidebooks/text/2012) Ng, Peter K. L. & N. Sivasothi, 1999. *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) II (Animal Diversity)* . Singapore Science Centre. 168 pp.
 
   '
 location:
@@ -82,11 +70,9 @@ Adults about 1-1.5cm long. The larvae are only found on
 
 **Mangrove shield bugs on Singapore shores**
 
-On
-[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+On [wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
 
-- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Calliphara nobilis)
-for free download
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Calliphara nobilis) for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Calliphara%2520nobilis/map?&fLat=1.2619&fLon=103.8661&zl=11&order_by=recent)
 
 ---

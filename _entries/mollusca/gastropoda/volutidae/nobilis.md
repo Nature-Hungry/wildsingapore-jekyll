@@ -29,97 +29,81 @@ links_references: "**Links**\n- [Noble\n  volute (*Cymbiola nobilis*)](https://f
   \ Singapore\n  Science Centre. 160 pp.\n- Gosliner,\n  Terrence M., David W. Behrens\
   \ and Gary C. Williams. 1996. *Coral\n  Reef Animals of the Indo-Pacific: Animal\
   \ life from Africa to Hawaii\n"
+trivia_title: if you learn only 3 things about them ...
+trivia_items:
+- It is among the large snails you might see on our shores.
+- It is carnivorous. Its prey include smaller snails living beneath the sand!
+- Many volutes are threatened by over-collection as food and for their shells.
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about it ... It is among the large snails
-      you might see on our shores. It is carnivorous. Its prey include smaller snails
-      living beneath the sand! Many volutes are threatened by over-collection as food
-      and for their shells.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: It is among the large snails you might see on our shores. It is carnivorous.
-      Its prey include smaller snails living beneath the sand! Many volutes are threatened
-      by over-collection as food and for their shells.
-  gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/nobilis/050623cjd4111m3.jpg
     caption: Chek Jawa, Jun 05
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/nobilis/050623cjd4113m3.jpg
     caption: Underside, no operculum.
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/nobilis/130624chg7d7899.jpg
     caption: Burrowing with siphon sticking out. Changi, Jun 13
-  gallery3:
+  gallery2:
   - url: http://www.wildsingapore.com/bivalvia/mactridae/bigbrown/120510chgd2887m6l.jpg
-    caption: Noble volute hunting down a Big brown mactra clam that eventually escaped.
-      Pulau Semakau, Mar 08
-  gallery4:
+    caption: Noble volute hunting down a Big brown mactra clam that eventually escaped. Pulau Semakau, Mar 08
+  gallery3:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/nobilis/251205cjccn1.jpg
-    caption: From video of whelk leaping to escape. Chek Jawa, Dec 25 Photo shared
-      by Che Cheng Neo on facebook .
+    caption: From video of whelk leaping to escape. Chek Jawa, Dec 25 Photo shared by Che Cheng Neo on facebook.
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/nobilis/130624chg7d7981.jpg
     caption: Attempting to eat a Fan clam ? Changi, Jun 13
-  gallery5:
+  gallery4:
   - url: https://live.staticflickr.com/7772/26855158272_842d69af7d_z.jpg
     caption: A clam using its foot to leap away from a Noble volute.
-  gallery6:
+  gallery5:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/nobilis/130820skdd1424.jpg
     caption: A much smaller one riding on the back of a bigger one. Prelude to mating?
       Pulau Sekudu, Aug 13
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/nobilis/070325smkd9603m3.jpg
     caption: Laying eggs Pulau Semakau, Mar 07
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/nobilis/080310smktch01m3.jpg
-    caption: Baby volute! Pulau Semakau, Mar 08 Photo shared by Toh Chay Hoon on her
-      flickr .
-  gallery7:
+    caption: Baby volute! Pulau Semakau, Mar 08 Photo shared by Toh Chay Hoon on her flickr.
+  gallery6:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/nobilis/160511chg7mn2.jpg
-    caption: Changi, May 16 Photo shared by Marcus Ng on facebook .
+    caption: Changi, May 16 Photo shared by Marcus Ng on facebook.
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/nobilis/140502chg7tch1m3.jpg
-    caption: Eating a clam Changi, May 14 Photo shared by Toh Chay Hoon on facebook
-      .
+    caption: Eating a clam Changi, May 14 Photo shared by Toh Chay Hoon on facebook.
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/nobilis/230220cjccn1.jpg
-    caption: Eating a Gong-gong snail . Chek Jawa, Feb 23 Photo shared by Che Cheng
-      Neo on facebook .
-  gallery8:
+    caption: Eating a Gong-gong snail . Chek Jawa, Feb 23 Photo shared by Che Cheng Neo on facebook.
+  gallery7:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/nobilis/230607chgeccn1.jpg
-    caption: Eating a clam. Changi East, Jun 23 Photo shared by Che Cheng Neo on facebook
-      .
+    caption: Eating a clam. Changi East, Jun 23 Photo shared by Che Cheng Neo on facebook.
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/nobilis/220519ecpbrk3.jpg
-    caption: East Coast Park-Marina East, May 22 Photo shared by Richard Kuah on facebook
-      .
-  gallery9:
+    caption: East Coast Park-Marina East, May 22 Photo shared by Richard Kuah on facebook.
+  gallery8:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/nobilis/251207hntml1.jpg
-    caption: Pulau Hantu, Dec 25 Photo shared by Mathias Luk on facebook .
-  gallery10:
+    caption: Pulau Hantu, Dec 25 Photo shared by Mathias Luk on facebook.
+  gallery9:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/nobilis/201215smkelks3.jpg
-    caption: Pulau Semakau (East), Dec 20 Photo shared by Loh Kok Sheng on facebook
-      .
+    caption: Pulau Semakau (East), Dec 20 Photo shared by Loh Kok Sheng on facebook.
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/nobilis/240708smkett2.jpg
-    caption: Pulau Semakau (East), Jul 24 Photo shared by Tommy Tan on facebook .
+    caption: Pulau Semakau (East), Jul 24 Photo shared by Tommy Tan on facebook.
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/nobilis/151225tsmkjll1m3.jpg
-    caption: Terumbu Semakau, Dec 15 Photo shared by Jianlin Liu on facebook .
-  gallery11:
+    caption: Terumbu Semakau, Dec 15 Photo shared by Jianlin Liu on facebook.
+  gallery10:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/nobilis/100502trylks12m3.jpg
-    caption: Terumbu Raya, May 10 Photo shared by Loh Kok Sheng on his flickr .
+    caption: Terumbu Raya, May 10 Photo shared by Loh Kok Sheng on his flickr.
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/nobilis/100518bbbnml3m3.jpg
-    caption: Beting Bemban Besar, May 10 Photo shared by Neo Mei Lin on her blog .
+    caption: Beting Bemban Besar, May 10 Photo shared by Neo Mei Lin on her blog.
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/nobilis/251008bbbky7.jpg
-    caption: Eating a clam. Beting Bemban Besar, Oct 25 Photo shared by Kelvin Yong
-      on facebook .
-  gallery12:
+    caption: Eating a clam. Beting Bemban Besar, Oct 25 Photo shared by Kelvin Yong on facebook.
+  gallery11:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/nobilis/240412tbtl4.jpg
-    caption: Terumbu Bemban, Apr 24 Photo shared by Tammy Lim on facebook .
-  gallery13:
+    caption: Terumbu Bemban, Apr 24 Photo shared by Tammy Lim on facebook.
+  gallery12:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/nobilis/110517tptlks14m3.jpg
-    caption: Terumbu Pempang Tengah, May 11 Photo shared by Loh Kok Sheng on his blog
-      .
+    caption: Terumbu Pempang Tengah, May 11 Photo shared by Loh Kok Sheng on his blog.
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/nobilis/160312tptmn3.jpg
-    caption: Terumbu Pempang Tengah, Mar 16 Photo shared by Marcus Ng on facebook
-      .
-  gallery14:
+    caption: Terumbu Pempang Tengah, Mar 16 Photo shared by Marcus Ng on facebook.
+  gallery13:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/nobilis/091204pawjk1m3a.jpg
-    caption: Pulau Pawai, Dec 09 Photo shared by James Koh on his flickr .
+    caption: Pulau Pawai, Dec 09 Photo shared by James Koh on his flickr.
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/nobilis/220201brkvc3.jpg
-    caption: Pulau Berkas, Feb 22 Photo shared by Vincent Choo on facebook .
-  gallery15:
+    caption: Pulau Berkas, Feb 22 Photo shared by Vincent Choo on facebook.
+  gallery14:
   - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
     caption: 'Links Noble volute ( Cymbiola nobilis ) on the NParks Flora and Fauna
       website. References Tan Siong Kiat and Henrietta P. M. Woo, 2010 Preliminary

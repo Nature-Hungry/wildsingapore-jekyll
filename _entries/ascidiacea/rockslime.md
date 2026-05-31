@@ -1,9 +1,7 @@
 ---
 title: 'Rock slime ascidians (Ascidiacea) '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: rock, slime, ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate,
-  chordate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+keywords: rock, slime, ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 updated: Nov 2019
 phylum: Chordata
@@ -45,8 +43,7 @@ size:
 ---
 
 ## Where seen?
-This animal is sometimes seen on hard surfaces in shady places (overhang of boulders, under jetties on pilings) on our Northern shores near the mid-water mark
-, as well as on coral rubble among sponges.
+This animal is sometimes seen on hard surfaces in shady places (overhang of boulders, under jetties on pilings) on our Northern shores near the mid-water mark, as well as on coral rubble among sponges.
 
 ## Features
 
@@ -56,18 +53,13 @@ This animal is sometimes seen on hard surfaces in shady places (overhang of boul
 ---
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 
-***
-*Species are difficult to positively identify without examination of internal parts.
-
-On this website, they are grouped by external features for convenience of display.*
+*Species are difficult to positively identify without examination of internal parts. On this website, they are grouped by external features for convenience of display.*
 
 ---
 
 **Rock slime ascidians on Singapore shores**
 
-On
-[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+On [wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
 
-- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Rock slime ascidian)
-for free download
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Rock slime ascidian) for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Rock%2520slime%2520ascidian/map?&fLat=1.2605&fLon=103.8647&zl=11&order_by=recent)

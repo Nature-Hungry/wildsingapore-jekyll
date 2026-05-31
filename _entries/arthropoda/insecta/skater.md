@@ -68,26 +68,16 @@ Sea skaters may feed on land insects that have fallen or washed to sea. They hav
 **Baby skaters:**
 Coastal skaters lay their eggs on hard surfaces near the low water mark. Oceanic skaters lay theirs on floating stuff. The nymph that emerges from the eggs look somewhat like the adult.
 
-Sea skaters recorded in Singapore include
-*Halovelia*
-sp. (Family Veliidae) and
-*Halobates*
-sp. (Family Gerridae). Thanks to Tay Ywee Chieh and Lanna Cheng for identifying some of the sea skaters seen as
-*Halobates hayanus*
-(bigger) and Mrs Yang Changman for identifying
-*Haloveloides sundaensis*
-(tiny).
+Sea skaters recorded in Singapore include *Halovelia* sp. (Family Veliidae) and *Halobates* sp. (Family Gerridae). Thanks to Tay Ywee Chieh and Lanna Cheng for identifying some of the sea skaters seen as *Halobates hayanus* (bigger) and Mrs Yang Changman for identifying *Haloveloides sundaensis* (tiny).
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ---
 
 **Sea skaters on Singapore shores**
 
-On
-[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+On [wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
 
-- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Sea skater)
-for free download
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Sea skater) for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Sea%2520skater/map?&fLat=1.2616&fLon=103.8647&zl=11&order_by=recent)
 
 ---

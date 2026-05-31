@@ -37,44 +37,18 @@ galleries:
     caption: Pasir Ris Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
 links_references: '**Links**
 
-  - [Heavy jumper (
+  - [Heavy jumper (*Hyllus diardi*)](http://habitatnews.nus.edu.sg/guidebooks/spiders/text/Hyllus_diardi) Koh, Joseph K. H., 1989. A Guide to Common Singapore Spiders. Singapore Science Centre, 160pp. online version
 
-  *Hyllus diardi*
-
-  )](http://habitatnews.nus.edu.sg/guidebooks/spiders/text/Hyllus_diardi)
-
-  Koh, Joseph K. H., 1989. A Guide to Common Singapore Spiders. Singapore Science
-  Centre, 160pp. online version
-
-  - [Heavy jumper (
-
-  *Hyllus diardii*
-
-  )](http://mangrove.nus.edu.sg/guidebooks/text/2071)
-
-  Ng, Peter K. L. & N. Sivasothi, 1999. A Guide to the Mangroves of Singapore II (Animal
-  Diversity). Singapore Science Centre. 168 pp.
+  - [Heavy jumper (*Hyllus diardii*)](http://mangrove.nus.edu.sg/guidebooks/text/2071) Ng, Peter K. L. & N. Sivasothi, 1999. A Guide to the Mangroves of Singapore II (Animal Diversity). Singapore Science Centre. 168 pp.
 
 
   **References**
 
-  - Wee Y.C. and Peter K. L. Ng. 1994.
+  - Wee Y.C. and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*. National Council on the Environment. 163pp.
 
-  *A First Look at Biodiversity in Singapore*
+  - Ng, P. K. L. & Y. C. Wee, 1994. *The Singapore Red Data Book: Threatened Plants and Animals of Singapore*. The Nature Society (Singapore), Singapore. 343 pp.
 
-  . National Council on the Environment. 163pp.
-
-  - Ng, P. K. L. & Y. C. Wee, 1994.
-
-  *The Singapore Red Data Book: Threatened Plants and Animals of Singapore*
-
-  . The Nature Society (Singapore), Singapore. 343 pp.
-
-  - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
-
-  *The Singapore Red Data Book: Threatened plants and animals of Singapore*
-
-  . Nature Society (Singapore). 285 pp.
+  - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore Red Data Book: Threatened plants and animals of Singapore*. Nature Society (Singapore). 285 pp.
 
   '
 location:
@@ -105,11 +79,9 @@ Male jumping spiders perform amusing rituals to entice a female to mate with the
 
 **Heavy jumping spiders on Singapore shores**
 
-On
-[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+On [wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
 
-- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Hyllus diardi)
-for free download
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Hyllus diardi) for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Hyllus%2520diardi/map?&fLat=1.2626&fLon=103.8661&zl=11&order_by=recent)
 
 ---

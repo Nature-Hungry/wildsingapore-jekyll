@@ -1,9 +1,7 @@
 ---
-title: 'White ascidian (Ascidiacea) '
+title: 'White ascidian (Ascidiacea)'
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: white, blob, ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate,
-  chordate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+keywords: white, blob, ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 updated: Feb 2020
 phylum: Chordata
@@ -33,7 +31,7 @@ galleries:
     caption: Pulau Semakau, Aug 11
   gallery3:
   - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/white/200125prpAhd3.jpg
-    caption: Pasir Ris Park, Jan 20 Photo shared by Nurulhuda on facebook .
+    caption: Pasir Ris Park, Jan 20 Photo shared by Nurulhuda on facebook.
 location:
 - prp
 - chg
@@ -48,6 +46,7 @@ size:
 ---
 
 ## Where seen?
+
 These white blobs are sometimes seen on some of our shores.
 On coral rubble or seagrasses and seaweeds.
 
@@ -60,20 +59,15 @@ Irregular blobs
 ---
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 
-***
-*Species are difficult to positively identify without examination of internal parts.
-
-On this website, they are grouped by external features for convenience of display.*
+*Species are difficult to positively identify without examination of internal parts. On this website, they are grouped by external features for convenience of display.*
 
 ---
 
 **White ascidians on Singapore shores**
 
-On
-[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+On [wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
 
-- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=White ascidian)
-for free download
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=White ascidian) for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/White%2520ascidian/map?&fLat=1.2598&fLon=103.864&zl=11&order_by=recent)
 
 ---
