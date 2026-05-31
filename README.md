@@ -42,11 +42,11 @@ but we aim to standardize all to what we are working on in the seagrass sections
 		🔲 Responsive css
 		🟡 Navigation header
 		🔲 Footer
-   🔲 Add a search engine in the "For Teachers" page
-      🔲 Add classroom activities with proper YAML headers
+    🔲 Add a search engine in the "For Teachers" page
+       🔲 Add classroom activities with proper YAML headers
 
-# The Future
-   🔲 Client-server hybrid architecture
+# The Future 
+    🔲 Client-server hybrid architecture
       🔲 Features
          🔲 Visual editor
          🔲 Contributor dashboard for editing authorized entries
