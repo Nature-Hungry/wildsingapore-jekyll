@@ -24,17 +24,6 @@ superfamily: Pinnoidea
 updated: May 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pinnidae/pinnidae/050511cftg6307m6l.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... The razor-sharp edge can seriously
-      cut barefoot visitors. The part of the shell above the ground provides a home
-      for many encrusting animals. Let's see what kinds we can find. Previously common,
-      fan shells are now listed among our threatened animals.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: The razor-sharp edge can seriously cut barefoot visitors. The part of
-      the shell above the ground provides a home for many encrusting animals. Let's
-      see what kinds we can find. Previously common, fan shells are now listed among
-      our threatened animals.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pinnidae/pinnidae/050511cftg6307m6l.jpg
     caption: Byssus threads on the narrow end of the shell anchor the animal in the
@@ -206,9 +195,13 @@ location:
 size:
 - 10.0
 - 30.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- The razor-sharp edge can seriously cut barefoot visitors
+- The part of the shell above the ground provides a home for many encrusting animals
+- Let's see what kinds we can find
+- Previously common, fan shells are now listed among our threatened animals.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 These thin, fan-shaped clams are commonly seen on some of our shores, usually near good seagrass meadows. However, they are often overlooked as most of the shell is often buried with only about 2-3cm of the shell sticking out of the ground. Their razor-sharp edges can give a nasty cut to barefoot visitors. So please always wear appropriate footwear when visiting the shores.

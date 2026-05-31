@@ -1,7 +1,8 @@
 ---
 title: Sea anemones
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: anemone, actiniaria, cnidrian, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: anemone, actiniaria, cnidrian, field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Actiniidae
 genus: ''
@@ -24,28 +25,37 @@ suborder: Enthemonae
 superfamily: Actinioidea
 updated: Dec 2024
 coverimg: https://live.staticflickr.com/65535/51394196778_ccdc0c1404_c.jpg
-links_references: "**Links**
-  - [Phylum Cnidaria](http://mangrove.nus.edu.sg/pub/seashore/text/114.htm) and [Sea anemones (*Stoichactis* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/120.htm) Tan, Leo W. H. & Ng, Peter K. L., 1988.
-  - *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore. 160 pp.
-  - [Mangrove anemones](http://mangrove.nus.edu.sg/guidebooks/text/2001.htm) Ng, Peter K. L. & N. Sivasothi, 1999. *[A\n  Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore Science Centre. 168 pp.
-  - [Hexacorallians of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/) website by Dr Daphne Fautin: all about sea anemones, corals and their allies with classification, distribution, biological associations and more.
-  - From the wild shores of singapore blog.
-  - [Warrior anemones: blobs can be belligerent](http://wildshores.blogspot.com/2008/12/warrior-anemones-blobs-can-be.html)\n\
-  - [Sea anemone venom may help treat multiple sclerosis](http://wildshores.blogspot.com/2008/12/sea-anemone-venom-may-help-treat.html)
-  - [Sea anemone stingers for younger looking skin](http://wildshores.blogspot.com/2009/10/sea-anemone-stingers-for-younger.html)
-  - [Can eat or not? - Sea anemones](http://wildshores.blogspot.sg/2013/04/can-eat-or-not-sea-anemones.html)
-  
-  **References**
-
-  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024.
-  - *The Singapore Red Data Book: Threatened plants and animals of Singapore*. 3rd edition. National Parks Board. 663 pp.
-  - D. G. Fautin, R. Tan, N. W. L. Yap, Tan S. H., A. Crowther, R. Goodwill, K. Sanpanich & Tay Y. C. *Sea anemones (Cnidaria: Actiniaria) of Singapore: shallow water species known also from the Indian subcontinent*. 10 July 2015
-  - The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 44-59.
-  - Daphne Gail Fautin, S. H. Tan and Ria Tan. Dec 2009. *Sea anemones (Cnidaria: Actiniaria) of Singapore: abundant and well-known shallow-water species*. The Raffles Bulletin of Zoology. Pp. 121-143.
-  - Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.Invertebrate Zoology Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
-  - Pechenik, Jan A., 2005. Biology of the Invertebrates. 5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
-  - Wee Y.C. and Peter K. L. Ng. 1994. A First Look at Biodiversity in Singapore. National Council on the Environment. 163pp.
-  - Ng, P. K. L. & Y. C. Wee, 1994. The Singapore Red Data Book: Threatened Plants and Animals of Singapore. The Nature Society (Singapore), Singapore. 343 pp."
+links_references: "**Links** - [Phylum Cnidaria](http://mangrove.nus.edu.sg/pub/seashore/text/114.htm)\
+  \ and [Sea anemones (*Stoichactis* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/120.htm)\
+  \ Tan, Leo W. H. & Ng, Peter K. L., 1988. - *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
+  \ The Singapore Science Centre, Singapore. 160 pp. - [Mangrove anemones](http://mangrove.nus.edu.sg/guidebooks/text/2001.htm)\
+  \ Ng, Peter K. L. & N. Sivasothi, 1999. *[A\n  Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)*.\
+  \ Singapore Science Centre. 168 pp. - [Hexacorallians of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/)\
+  \ website by Dr Daphne Fautin: all about sea anemones, corals and their allies with\
+  \ classification, distribution, biological associations and more. - From the wild\
+  \ shores of singapore blog. - [Warrior anemones: blobs can be belligerent](http://wildshores.blogspot.com/2008/12/warrior-anemones-blobs-can-be.html)\n\
+  - [Sea anemone venom may help treat multiple sclerosis](http://wildshores.blogspot.com/2008/12/sea-anemone-venom-may-help-treat.html)\
+  \ - [Sea anemone stingers for younger looking skin](http://wildshores.blogspot.com/2009/10/sea-anemone-stingers-for-younger.html)\
+  \ - [Can eat or not? - Sea anemones](http://wildshores.blogspot.sg/2013/04/can-eat-or-not-sea-anemones.html)\n\
+  **References**\n- Checklist of Cnidaria (non-Sclerectinia) Species with their Category\
+  \ of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa\
+  \ in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo,\
+  \ May 2024. - *The Singapore Red Data Book: Threatened plants and animals of Singapore*.\
+  \ 3rd edition. National Parks Board. 663 pp. - D. G. Fautin, R. Tan, N. W. L. Yap,\
+  \ Tan S. H., A. Crowther, R. Goodwill, K. Sanpanich & Tay Y. C. *Sea anemones (Cnidaria:\
+  \ Actiniaria) of Singapore: shallow water species known also from the Indian subcontinent*.\
+  \ 10 July 2015 - The Comprehensive Marine Biodiversity Survey: Johor Straits International\
+  \ Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 44-59.\
+  \ - Daphne Gail Fautin, S. H. Tan and Ria Tan. Dec 2009. *Sea anemones (Cnidaria:\
+  \ Actiniaria) of Singapore: abundant and well-known shallow-water species*. The\
+  \ Raffles Bulletin of Zoology. Pp. 121-143. - Edward E. Ruppert, Richard S. Fox,\
+  \ Robert D. Barnes. 2004.Invertebrate Zoology Brooks/Cole of Thomson Learning Inc.,\
+  \ 7th Edition. pp. 963 - Pechenik, Jan A., 2005. Biology of the Invertebrates. 5th\
+  \ edition. McGraw-Hill Book Co., Singapore. 578 pp. - Wee Y.C. and Peter K. L. Ng.\
+  \ 1994. A First Look at Biodiversity in Singapore. National Council on the Environment.\
+  \ 163pp. - Ng, P. K. L. & Y. C. Wee, 1994. The Singapore Red Data Book: Threatened\
+  \ Plants and Animals of Singapore. The Nature Society (Singapore), Singapore. 343\
+  \ pp."
 galleries:
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/dofleinia/100614bbd5984m3.jpg
@@ -60,7 +70,8 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/boloceroididae/060624skdg6189m3.jpg
     caption: The Swimming anemone really does swim! Pulau Sekudu, Jun 06
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadbanded/041031cjd7939m3.jpg
-    caption: Some anemones are tiny and lie half buried in the sand. Don't step on them! Chek Jawa, Oct 04
+    caption: Some anemones are tiny and lie half buried in the sand. Don't step on
+      them! Chek Jawa, Oct 04
   gallery4:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/haddonieat/040218cjd0004m3.jpg
     caption: Carpet anemone eating a sand dollar Chek Jawa, Feb 04
@@ -68,11 +79,13 @@ galleries:
     caption: A tiger anemone attempting to swallow a sea pen ! Changi, Jul 04
   gallery5:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/hermitsmall/150617ecpbsmn2m3.jpg
-    caption: Some anemones live on shells occupied by hermit crabs . East Coast Park, Jun 15
+    caption: Some anemones live on shells occupied by hermit crabs . East Coast Park,
+      Jun 15
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg
     caption: So do anemone shrimps ! Kusu Island, Jul 04
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/040605kusbd0077m3.jpg
-    caption: The False clown anemonefish can live happily in the carpet anemone that would eat any other fish. Kusu Island, Jun 04
+    caption: The False clown anemonefish can live happily in the carpet anemone that
+      would eat any other fish. Kusu Island, Jun 04
 trivia_title: if you learn only 3 things about them ...
 trivia_items:
 - An anemone is an animal and not a plant.

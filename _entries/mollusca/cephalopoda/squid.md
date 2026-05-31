@@ -19,15 +19,6 @@ order: Myopsida
 updated: May 2020
 coverimg: ../../../Templates/fornatureguides.gif
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Squids and cuttlefish are fast
-      moving shelless snails! They have ten arms and two tentacles. Their egg capsules
-      are common on the shores. Don't step on them!
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Squids and cuttlefish are fast moving shelless snails! They have ten
-      arms and two tentacles. Their egg capsules are common on the shores. Don't step
-      on them!
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutglittering/050524chgd3327m3.jpg
     caption: A cuttlefish has fins all around its body. Changi, May 05
@@ -128,9 +119,12 @@ size:
 - 1.0
 - 2.0
 - 10.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Squids and cuttlefish are fast moving shelless snails! They have ten arms and two
+  tentacles
+- Their egg capsules are common on the shores. Don't step on them!
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 These amazing animals are seasonally common on many of our shores. Tiny squids are also common in seagrass areas, but often overlooked. Their eggs are also seasonally seen. Although better known as seafood, these delightful creatures are equally delicious to observe, with their colour changes and busy behaviour. They are more active at night.

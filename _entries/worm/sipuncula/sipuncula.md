@@ -16,14 +16,6 @@ order: Sipuncula
 updated: Oct 2016
 coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/sipuncula/sipuncula/070421cyrg8928m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They are smooth unsegmented
-      worms. Common but rarely seen as they usually remain underground. The introvert
-      is one of the interesting parts of this worm.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They are smooth unsegmented worms. Common but rarely seen as they usually
-      remain underground. The introvert is one of the interesting parts of this worm.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/worm/sipuncula/sipuncula/070421cyrg8928m3.jpg
     caption: Cyrene Reef, Apr 07
@@ -162,9 +154,12 @@ location:
 size:
 - 5.0
 - 10.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They are smooth unsegmented worms
+- Common but rarely seen as they usually remain underground
+- The introvert is one of the interesting parts of this worm.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 These pink smooth fat worms are sometimes seen on some of our shores. They are more commonly encountered in mangroves and on soft ground (silty or muddy). But also in sandy areas near seagrasses.

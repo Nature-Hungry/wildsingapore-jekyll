@@ -19,16 +19,6 @@ superfamily: Muricoidea
 updated: Aug 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/muricidaenoid/041212kusd8712m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They are fierce predators!
-      Some can bore a hole through the prey's shell. It takes them a long time to
-      get at their prey. Don't remove drills. Some lay large collections of egg capsules
-      on the rocks.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They are fierce predators! Some can bore a hole through the prey's shell.
-      It takes them a long time to get at their prey. Don't remove drills. Some lay
-      large collections of egg capsules on the rocks.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/muricidaenoid/041212kusd8712m3.jpg
     caption: Kusu Island, Dec 04
@@ -267,9 +257,15 @@ location:
 - jng
 - hnt
 - rfl
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They are fierce predators! Some can bore a hole through the prey's shell
+- It takes them a long time to get at their prey
+- Don't remove drills
+- Some lay large collections of egg capsules on the rocks.
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?
+## Where seen?
 You will almost be certain to meet this ferocious predator on our rocky shores! Drills are commonly seen on boulders and rocks, including man-made structures such as breakwaters and jetty pilings.
 
 ## Features

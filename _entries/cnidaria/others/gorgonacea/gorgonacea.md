@@ -19,15 +19,6 @@ order: Scleralcyonacea
 updated: Dec 2019
 coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/skinny/060613ecpd3100m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They are animals and not plants!
-      Don't break or step on them. Each fan is a colony of tiny polyps that produce
-      a hard skeleton. Many fascinating animals live on them. Look for them.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They are animals and not plants! Don't break or step on them. Each fan
-      is a colony of tiny polyps that produce a hard skeleton. Many fascinating animals
-      live on them. Look for them.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/skinny/060613ecpd3100m3.jpg
     caption: Tiny sea fans dot the rocks. East Coast Park, Jun 06
@@ -70,9 +61,13 @@ galleries:
     caption: Leathery sea fan
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/whip/030714bbd0067m3.jpg
     caption: Sea whip
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They are animals and not plants! Don't break or step on them
+- Each fan is a colony of tiny polyps that produce a hard skeleton
+- Many fascinating animals live on them
+- Look for them.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Most people are surprised to learn that sea fans are still quite commonly seen on our shores. Large colonies may be seen on undisturbed intertidal reefs in the North. But smaller ones may be seen even on Changi and East Coast Park. Divers may encounter large sea fans on our Southern islands.

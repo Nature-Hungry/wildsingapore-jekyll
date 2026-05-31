@@ -53,15 +53,6 @@ links_references: "**Links**\n- [Clams\n  (*Marcia marmorata*)](http://mangrove.
   \ *A First Look at Biodiversity in Singapore*.\n  National Council on the Environment.\
   \ 163pp.\n- Ng, P. K.\n  L. & Y. C. Wee, 1994. *The\n"
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Many venus clam species are
-      edible. However, don't eat wild clams as some may make you ill. They are eaten
-      by snails that bore a hole in their shell. See if you can find such a shell?
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Many venus clam species are edible. However, don't eat wild clams as
-      some may make you ill. They are eaten by snails that bore a hole in their shell.
-      See if you can find such a shell?
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/forked/030717skdd0098m3.jpg
     caption: Venus clams being harvested. Pulau Sekudu, Jul 03
@@ -131,9 +122,15 @@ location:
 size:
 - 3.0
 - 4.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Many venus clam species are edible
+- However, don't eat wild clams as some may make you ill
+- They are eaten by snails that bore a hole in their shell
+- See if you can find such a shell?
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?
+## Where seen?
 Another seafood favourite, in Singapore, these clams are also called 'la-la'. Venus clams are still commonly seen on some of our shores, in sandy and rocky areas near seagrasses and coral rubble.
 
 ****

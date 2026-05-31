@@ -29,7 +29,8 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/insecta/dysdercus/110109ubnd4899m3.jpg
     caption: Some adults have a black head. Pulau Ubin, Jan 11
   - url: https://f003.backblazeb2.com/file/naturehungry/insecta/dysdercus/090425prpd0345m3.jpg
-    caption: Adult Bugs are often found in large numbers under Sea hibiscus leaves. Pasir Ris, Apr 09
+    caption: Adult Bugs are often found in large numbers under Sea hibiscus leaves.
+      Pasir Ris, Apr 09
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/insecta/dysdercus/081206smkd2478m3.jpg
     caption: Juvenile feeding on Sea hibiscus seeds. Pulau Semakau, Dec 08
@@ -44,9 +45,12 @@ galleries:
     caption: A mating pair. Seringat-Kias, Nov 2019 Photo shared by Marcus Ng on facebook.
 links_references: '**Links**
 
-  - [Cotton stainer bugs](http://mangrove.nus.edu.sg/guidebooks/text/2013) Ng, Peter K. L. & N. Sivasothi, 1999. *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) II (Animal Diversity)*. Singapore Science Centre. 168 pp.
+  - [Cotton stainer bugs](http://mangrove.nus.edu.sg/guidebooks/text/2013) Ng, Peter
+  K. L. & N. Sivasothi, 1999. *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)
+  II (Animal Diversity)*. Singapore Science Centre. 168 pp.
 
-  - [*Dysdercus cingulatus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Dysdercus%20cingulatus.html) (Hemiptera: Pyrrhocoridae) Cotton Stainer Bug on Taxo4254.
+  - [*Dysdercus cingulatus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Dysdercus%20cingulatus.html)
+  (Hemiptera: Pyrrhocoridae) Cotton Stainer Bug on Taxo4254.
 
   '
 location:

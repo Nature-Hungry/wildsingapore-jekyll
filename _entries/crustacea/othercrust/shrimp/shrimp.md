@@ -23,16 +23,6 @@ superfamily: Penaeoidea
 updated: Apr 2020
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... There is no scientific difference
-      between shrimps and prawns. Many are well camouflaged, others are buried in
-      the sand, yet others transparent. Some live on other animals such as sea anemones
-      and hard corals.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: There is no scientific difference between shrimps and prawns. Many are
-      well camouflaged, others are buried in the sand, yet others transparent. Some
-      live on other animals such as sea anemones and hard corals.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penbluetail/070615sntrg0335m3.jpg
     caption: The Blue-tail prawn like other shrimps contracts its abdomen to swim
@@ -148,9 +138,12 @@ links_references: '**Links**
   '
 size:
 - 5.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- There is no scientific difference between shrimps and prawns
+- Many are well camouflaged, others are buried in the sand, yet others transparent
+- Some live on other animals such as sea anemones and hard corals.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Among our favourite seafood, prawns and shrimps come in various sizes and colours. Close observation is needed to appreciate their delicate patterns and colours, and amusing behaviour. Prawns and shrimps are common on almost every shore. However, they are difficult to spot as they are often small, and hide in burrows or just beneath the sand. Even those in plain sight disappear from view as many are nearly transparent. They are adapted for bottom dwelling.

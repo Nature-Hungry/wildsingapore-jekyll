@@ -38,14 +38,6 @@ links_references: "**Links**\n- [Order\n  Isopoda](http://mangrove.nus.edu.sg/pu
   \ by\n  J. Masterson on Smithsonian Marine Station at Fort Pierce.\n\n**References**\n\
   - Edward E.\n  Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate\n"
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They are NOT insects! They
-      are more like crabs. They have seven pairs of legs and move very quickly. They
-      are scavengers.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They are NOT insects! They are more like crabs. They have seven pairs
-      of legs and move very quickly. They are scavengers.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/isopoda/ligia/060627krjd3707m3a.jpg
     caption: Mating? Kranji, Jun 06
@@ -109,9 +101,12 @@ location:
 size:
 - 2.0
 - 3.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They are NOT insects! They are more like crabs
+- They have seven pairs of legs and move very quickly
+- They are scavengers.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 These nervous little animals are commonly seen on almost all our shores, often swarming in large numbers at low tide. They are common on rocky shores, also among mangroves.

@@ -20,16 +20,6 @@ suborder: Balistoidei
 updated: Sep 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/chinensis/030714bbd0204m6l.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They can change colours and
-      patterns to match the surroundings. They have a stiff dorsal spine and leathery
-      skin instead of scales. Small ones (2-3cm) are common in seagrasses. Watch your
-      step!
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They can change colours and patterns to match the surroundings. They
-      have a stiff dorsal spine and leathery skin instead of scales. Small ones (2-3cm)
-      are common in seagrasses. Watch your step!
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/chinensis/030714bbd0204m6l.jpg
     caption: The 'thorn' at the top of the head can be locked into place. There is
@@ -207,9 +197,13 @@ location:
 size:
 - 10.0
 - 30.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They can change colours and patterns to match the surroundings
+- They have a stiff dorsal spine and leathery skin instead of scales
+- Small ones (2-3cm) are common in seagrasses
+- Watch your step!
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 These strange-looking fishes are quite commonly seen on many of our shores, especially in areas with seagrasses and among coral rubble. They can be quite large but are hard to spot as they blend in well with their surroundings. Some tiny filefishes are hardly bigger than a seagrass leaf and are often the same colour as the seagrasses! So do watch your step to avoid squashing these small fishes.

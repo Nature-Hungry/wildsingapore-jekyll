@@ -20,15 +20,6 @@ species: cochlidium
 updated: Aug 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/melogenidae/cochlidium/101207ubnd3195m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Large and common, they are
-      overlooked as they are well camouflaged. When its dead, the shell's orange colour
-      is visible as tiny hairs drop off. They lay large and and interesting egg capsules.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Large and common, they are overlooked as they are well camouflaged. When
-      its dead, the shell's orange colour is visible as tiny hairs drop off. They
-      lay large and and interesting egg capsules.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/melogenidae/cochlidium/101207ubnd3195m3.jpg
     caption: Fine hairs on the shell of a living snail. Pulau Ubin, Feb 10
@@ -118,9 +109,12 @@ location:
 size:
 - 8.0
 - 12.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Large and common, they are overlooked as they are well camouflaged
+- When its dead, the shell's orange colour is visible as tiny hairs drop off
+- They lay large and and interesting egg capsules.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 This large snail is commonly seen on our muddy-sandy shores particularly on our Northern shores, on rocky shores and seagrass meadows and near mangroves.

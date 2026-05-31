@@ -25,15 +25,6 @@ order: Acanthuriformes
 updated: Oct 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sillaginidae/sillaginidae/081117ecpmd2360m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They are important food fish
-      in some places. They may hide in the sand if disturbed. There are several species
-      although they look similar at first glace.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They are important food fish in some places. They may hide in the sand
-      if disturbed. There are several species although they look similar at first
-      glace.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sillaginidae/sillaginidae/081117ecpmd2360m3.jpg
     caption: East Coast, Nov 08
@@ -154,9 +145,14 @@ size:
 - 30.0
 - 6.0
 - 8.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They are important food fish in some places
+- They may hide in the sand if disturbed
+- There are several species although they look similar at first glace.
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?
+## Where seen?
 These silvery topedo-shaped fishes are often encountered on many of our sandy shores especially near reefs.
 **What are whitings?**
 Whitings belong to the Family Sillaginidae. According to

@@ -21,15 +21,6 @@ superfamily: Octopodoidea
 updated: May 2020
 coverimg: ../../../Templates/fornatureguides.gif
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Octopuses are common on many
-      of our shores. They are just hard to spot. They are among the most intelligent
-      of invertebrates. They can bite. Don't touch them!
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Octopuses are common on many of our shores. They are just hard to spot.
-      They are among the most intelligent of invertebrates. They can bite. Don't touch
-      them!
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/reefoctopus/060501labd1608m3a.jpg
     caption: Web spreading out along the sides of the tentacle. Labrador, May 06
@@ -219,9 +210,13 @@ location:
 - ecp
 - snt
 - laz
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Octopuses are common on many of our shores
+- They are just hard to spot
+- They are among the most intelligent of invertebrates
+- They can bite. Don't touch them!
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Most people are surprised to hear that octopuses are quite commonly encountered on many of our shores. Even the most 'beat up' looking shore eventually turns up a resident. They are generally more common in areas with coral rubble, but may also be seen in seagrass areas. You need patience and some experience, however, to spot an octopus. These marvellous masters of camouflage are shy and generally only active at night. During the day, they are often well hidden in some cosy den. Some octopuses seen are as large as 1m across with their arms outstretched. Others are tiny, less than 10cm across.

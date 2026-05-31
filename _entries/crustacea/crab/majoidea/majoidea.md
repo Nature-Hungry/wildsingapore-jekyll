@@ -27,15 +27,6 @@ superfamily: Majoidea
 updated: Dec 2019
 coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/retusa/050822cjg2135m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They are often very well camouflaged.
-      Look out for unusual movement. Some are tiny and look like bits of dirt. They
-      have pointed heads and long skinny legs.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They are often very well camouflaged. Look out for unusual movement.
-      Some are tiny and look like bits of dirt. They have pointed heads and long skinny
-      legs.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/retusa/050822cjg2135m3.jpg
     caption: Decorated upperside
@@ -124,9 +115,13 @@ location:
 size:
 - 0.5
 - 3.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They are often very well camouflaged
+- Look out for unusual movement
+- Some are tiny and look like bits of dirt
+- They have pointed heads and long skinny legs.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Spider crabs are encountered on all our shores. But they're hard to spot. In addition to being slow-moving and well camouflaged, many are also small.

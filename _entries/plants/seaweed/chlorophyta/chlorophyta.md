@@ -15,16 +15,6 @@ kingdom: Animalia
 updated: Aug 08
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Some kinds of green seaweeds
-      are often mistaken for seagrasses. Many small animals eat green seaweeds. 'Carpets'
-      of green seaweed may form on the shores. These may shelter small animals. Please
-      avoid stepping on the carpet.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Some kinds of green seaweeds are often mistaken for seagrasses. Many
-      small animals eat green seaweeds. 'Carpets' of green seaweed may form on the
-      shores. These may shelter small animals. Please avoid stepping on the carpet.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/taxifolia/041116labd8420m2a.jpg
     caption: ''
@@ -127,9 +117,14 @@ links_references: '**Links**
   . Bookmark, Inc., the Philippines. 306 pp.
 
   '
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Some kinds of green seaweeds are often mistaken for seagrasses
+- Many small animals eat green seaweeds
+- '''Carpets'' of green seaweed may form on the shores'
+- These may shelter small animals
+- Please avoid stepping on the carpet.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Green seaweeds are commonly seen on many of our shores. Some grow on boulders, coral rubble and other hard surfaces. Others are found entwined around seagrasses.

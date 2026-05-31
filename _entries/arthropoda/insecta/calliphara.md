@@ -40,7 +40,9 @@ galleries:
     caption: Pasir Ris Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
 links_references: '**Links**
 
-  - [Shield/Stink bug (*Calliphara nobilis*)](http://mangrove.nus.edu.sg/guidebooks/text/2012) Ng, Peter K. L. & N. Sivasothi, 1999. *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) II (Animal Diversity)* . Singapore Science Centre. 168 pp.
+  - [Shield/Stink bug (*Calliphara nobilis*)](http://mangrove.nus.edu.sg/guidebooks/text/2012)
+  Ng, Peter K. L. & N. Sivasothi, 1999. *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)
+  II (Animal Diversity)* . Singapore Science Centre. 168 pp.
 
   '
 location:

@@ -20,15 +20,6 @@ order: Myliobatiformes
 updated: Sep 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/walga/030717skdd0039m6l.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They are related to sharks
-      and have cartilage instead of bones. They give birth to live young. They will
-      not sting unless you step on them. Watch your step!
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They are related to sharks and have cartilage instead of bones. They
-      give birth to live young. They will not sting unless you step on them. Watch
-      your step!
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/walga/030717skdd0039m6l.jpg
     caption: Swimming with undulations of the enlarged pectoral fins. Pulau Sekudu,
@@ -125,9 +116,13 @@ links_references: '**Links**
   of Zoology, the National University of Singapore. 160 pp.
 
   '
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They are related to sharks and have cartilage instead of bones
+- They give birth to live young
+- They will not sting unless you step on them
+- Watch your step!
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Elegant discs with bulbous eyes and a narrow tail, these large fishes are often seen in our mangroves, seagrass meadows and coral reefs.

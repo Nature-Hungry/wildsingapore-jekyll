@@ -22,17 +22,6 @@ superfamily: Aplysioidea
 updated: May 2020
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Sea hares may secrete a purple
-      dye. But don't tease them to make them do this. Although they can be quite large,
-      they are well camouflaged. Watch your step! Sea hares have very specialised
-      diets and should not be kept in home aquariums.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Sea hares may secrete a purple dye. But don't tease them to make them
-      do this. Although they can be quite large, they are well camouflaged. Watch
-      your step! Sea hares have very specialised diets and should not be kept in home
-      aquariums.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/geographica/050608cftg7393m3a.jpg
     caption: Two pairs of tentacles Changi, Jun 05
@@ -170,9 +159,14 @@ links_references: '**Links**
   '
 size:
 - 60.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Sea hares may secrete a purple dye
+- But don't tease them to make them do this
+- Although they can be quite large, they are well camouflaged
+- Watch your step! Sea hares have very specialised diets and should not be kept in
+  home aquariums.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Among the largest

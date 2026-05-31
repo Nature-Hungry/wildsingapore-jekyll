@@ -26,15 +26,6 @@ suborder: Pleuronectoidei
 updated: Sep 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/cynoglossidae/cynoglossidae/081019chgd1321m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Small and flat, they are often
-      mistaken for flatworms! Eyes on left side of the body. Tail, dorsal and anal
-      fins joined all around the body. Found beneath the sand. Watch your step!
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Small and flat, they are often mistaken for flatworms! Eyes on left side
-      of the body. Tail, dorsal and anal fins joined all around the body. Found beneath
-      the sand. Watch your step!
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/cynoglossidae/cynoglossidae/081019chgd1321m3.jpg
     caption: A tiny one. Changi, Oct 08
@@ -98,9 +89,14 @@ size:
 - 18.0
 - 3.0
 - 6.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Small and flat, they are often mistaken for flatworms! Eyes on left side of the
+  body
+- Tail, dorsal and anal fins joined all around the body
+- Found beneath the sand
+- Watch your step!
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 These tiny flatfishes are sometimes seen on our Northern shores, among seagrasses, buried in sand or hovering over the surface.

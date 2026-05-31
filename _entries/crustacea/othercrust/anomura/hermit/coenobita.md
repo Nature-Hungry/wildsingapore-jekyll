@@ -27,16 +27,6 @@ superfamily: Paguroidea
 updated: Dec 2019
 coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/coenobita/080222sntd0091m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... This hermit crab is seldom
-      seen on the mainland. Every empty shell is a potential hermit crab home. Don't
-      take any shells home! It is so well adapted to land it will drown if kept under
-      water!
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: This hermit crab is seldom seen on the mainland. Every empty shell is
-      a potential hermit crab home. Don't take any shells home! It is so well adapted
-      to land it will drown if kept under water!
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/coenobita/080222sntd0091m3.jpg
     caption: Sentosa, Feb 08
@@ -168,9 +158,12 @@ size:
 - 3.0
 - 6.0
 - 1.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- This hermit crab is seldom seen on the mainland
+- Every empty shell is a potential hermit crab home. Don't take any shells home! It
+  is so well adapted to land it will drown if kept under water!
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 This large hermit crab is sometimes seen on our undisturbed shores near the high water line, especially on our offshore islands. Near the high water mark among rocks, boulders and marine debris, and even some distance inland among grass and under trees. But it is only active at night.

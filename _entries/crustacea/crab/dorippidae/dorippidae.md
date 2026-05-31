@@ -28,15 +28,6 @@ superfamily: Dorippoidea
 updated: Dec 2019
 coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/dorippidae/dorippidae/040408chgd0076m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They use a leaf, flat shell
-      or other rubbish to hide under. Specialised legs grip the disguise. At night
-      they swim above the leaf to hide from predators below.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They use a leaf, flat shell or other rubbish to hide under. Specialised
-      legs grip the disguise. At night they swim above the leaf to hide from predators
-      below.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/dorippidae/dorippidae/040408chgd0076m3.jpg
     caption: Changi, Apr 04
@@ -135,9 +126,12 @@ location:
 - smk
 size:
 - 1.5
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They use a leaf, flat shell or other rubbish to hide under
+- Specialised legs grip the disguise
+- At night they swim above the leaf to hide from predators below.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 This shy and sneaky crab is commonly seen, by the sharp-eyed observer, especially on our Northern shores. To spot one, look for odd movement in a leaf or a shell, perhaps moving too quickly or against the currents. Often in mangroves, near seagrasses but also on shores near reefs, even under jetties in calm waters.

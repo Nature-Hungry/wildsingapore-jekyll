@@ -95,8 +95,6 @@ size:
 - 2.0
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
-
 ## Where seen?
 Literally overshadowed by their more glamorous hosts, this tiny fluffy worm is commonly seen with
 [cerianthids](../../cnidaria/others/ceriantharia/ceriantharia)

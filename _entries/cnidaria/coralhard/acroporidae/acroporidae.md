@@ -19,15 +19,6 @@ order: Scleractinia
 updated: Sep 2025
 coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrowide/070618rlhg0608m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They include some of the fastest-growing
-      hard corals. Branching species are fragile, don't touch them. Branching species
-      often shelter a variety of small animals. Look for them.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They include some of the fastest-growing hard corals. Branching species
-      are fragile, don't touch them. Branching species often shelter a variety of
-      small animals. Look for them.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrowide/070618rlhg0608m3.jpg
     caption: Some acropora coral form table-like colonies. Raffles Lighthouse, Jun
@@ -122,9 +113,13 @@ location:
 - tpg
 - smk
 - tsm
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They include some of the fastest-growing hard corals
+- Branching species are fragile, don't touch them
+- Branching species often shelter a variety of small animals
+- Look for them.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Corals belonging to the Family Acroporidae are seen on many of our Southern shores. On undisturbed shores, often more colonies, larger colonies, and a wider range of species are encountered.

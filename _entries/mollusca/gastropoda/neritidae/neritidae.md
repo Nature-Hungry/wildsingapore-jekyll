@@ -47,16 +47,6 @@ links_references: "**Links**\n- [Common\n  nerite (*Nerita lineata*)](http://man
   \ Singapore*.\n  National Council on the Environment. 163pp.\n- Ng, P. K.\n  L.\
   \ & Y. C. Wee, 1994. *The\n"
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Nerite snails can be very common
-      on our rocky shores. They lay their eggs in pools and among small stones, watch
-      your step! The shell's features protect them in the harsh dry area where they
-      live.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Nerite snails can be very common on our rocky shores. They lay their
-      eggs in pools and among small stones, watch your step! The shell's features
-      protect them in the harsh dry area where they live.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/chamaeleon/051105sisg2949m3a.jpg
     caption: Tough shell with thick operculum. Chek Jawa, Jan 05
@@ -144,9 +134,12 @@ location:
 size:
 - 2.0
 - 4.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Nerite snails can be very common on our rocky shores
+- They lay their eggs in pools and among small stones, watch your step! The shell's
+  features protect them in the harsh dry area where they live.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 These snails with thick, rounded shells are common in our mangroves and rocky shores. Some colourful nerites are hard to spot as they blend well with the equally colourful rocks they are found on. They are usually immobile at low tide during the day. At night and on a cool wet day, you might see them creeping about. Tan and Clements based on surveys of 31 sites over a period of 10 years reveals 19 species with 6 new records for Singapore!

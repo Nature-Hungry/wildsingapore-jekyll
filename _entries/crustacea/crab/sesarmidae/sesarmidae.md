@@ -26,16 +26,6 @@ superfamily: Grapsoidea
 updated: Dec 2019
 coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/sesarmidae/episesarma/030928sbwad0054m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... These crabs have long legs
-      with pointy tips to cling to and scramble over hard surfaces. They have a flat
-      body to slip through narrow crevices. They are very shy and disappear at the
-      slightest sign of trouble.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: These crabs have long legs with pointy tips to cling to and scramble
-      over hard surfaces. They have a flat body to slip through narrow crevices. They
-      are very shy and disappear at the slightest sign of trouble.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/sesarmidae/episesarma/030928sbwad0054m3.jpg
     caption: About to munch on flowers? Sungei Buloh Wetland Reserve, Sep 03
@@ -138,9 +128,12 @@ location:
 size:
 - 4.0
 - 6.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- These crabs have long legs with pointy tips to cling to and scramble over hard surfaces
+- They have a flat body to slip through narrow crevices
+- They are very shy and disappear at the slightest sign of trouble.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Small sesarmid crabs are commonly seen in our mangroves, especially at night. There are as many as 40 species of these crabs in our mangroves. They are often hard to spot as they are well camouflaged, although some may have colourful markings. They are more active at night.

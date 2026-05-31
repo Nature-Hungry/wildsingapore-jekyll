@@ -40,16 +40,6 @@ links_references: "**Links**\n- [Class\n  Echinoidea](http://mangrove.nus.edu.sg
   \ and the Indo-Pacific*.\n  Capricornia Publications. 180pp.\n- Edward E.\n  Ruppert,\
   \ Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate\n"
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Sand dollars are alive! They
-      are animals. Don't step on them! They are related to sea stars and have five-part
-      symmetry. Living sand dollars have tiny moving spines that tickle when you hold
-      them.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Sand dollars are alive! They are animals. Don't step on them! They are
-      related to sea stars and have five-part symmetry. Living sand dollars have tiny
-      moving spines that tickle when you hold them.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/arachnoides/090628lazd6113m3.jpg
     caption: A sand dollar can move quite far under wet sand. Lazarus Island, Jun
@@ -170,9 +160,12 @@ location:
 - tpg
 - smk
 - lfa
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Sand dollars are alive! They are animals. Don't step on them! They are related to
+  sea stars and have five-part symmetry
+- Living sand dollars have tiny moving spines that tickle when you hold them.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Sand dollars are seen on many of our sandy shores and can be particularly common on Chek Jawa, Tanah Merah and some Southern shores. Usually half buried in the sand. Some kinds of sand dollars are more commonly seen near seagrasses.

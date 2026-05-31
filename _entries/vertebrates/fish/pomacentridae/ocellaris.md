@@ -29,16 +29,6 @@ complex: Amphiprion percula
 updated: Sep 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/040605kusbd0077m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about it ... The fish needs its host anemone.
-      Do not disturb it or the anemone. One anemone may be home to many anemonefishes.
-      These fishes are threatened by over-collection for the aquarium trade. Don't
-      keep Nemo in your home, he belongs in the ocean.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: The fish needs its host anemone. Do not disturb it or the anemone. One
-      anemone may be home to many anemonefishes. These fishes are threatened by over-collection
-      for the aquarium trade. Don't keep Nemo in your home, he belongs in the ocean.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/040605kusbd0077m3.jpg
     caption: In a Giant carpet anemone . Kusu Island, Jun 04
@@ -242,9 +232,14 @@ size:
 - 2.0
 - 9.0
 rdb: NT
+trivia_title: if you learn only 3 things about it ..
+trivia_items:
+- The fish needs its host anemone
+- Do not disturb it or the anemone
+- One anemone may be home to many anemonefishes
+- These fishes are threatened by over-collection for the aquarium trade
+- Don't keep Nemo in your home, he belongs in the ocean.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 This delightful fish is commonly seen in large sea anemones on some of our Southern Islands. At low tide, it is usually well hidden under or among the sea anemone tentacles. It is more active when the sea anemone is submerged. Look for it with the outgoing tide, when the water is clearer (than the incoming tide).

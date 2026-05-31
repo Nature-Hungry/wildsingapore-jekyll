@@ -134,8 +134,6 @@ size:
 - 2.0
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
-
 ## Where seen?
 These small anemones are often seen on our rocky areas that are exposed even at moderate tides. Usually in clusters of many individuals. Crowded near the base of boulders, in crevices and cracks of the boulders and even in the sand nearby.
 

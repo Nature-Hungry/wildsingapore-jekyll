@@ -20,16 +20,6 @@ superfamily: Cypraeoidea
 updated: Jul 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/milliaris/040730skdd3368m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Cowries are often well camouflaged.
-      Look carefully for them. Their shells are highly prized, thus cowries are threatened
-      by over-collection. With their shells covered, coowries are sometimes mistaken
-      for slugs!
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Cowries are often well camouflaged. Look carefully for them. Their shells
-      are highly prized, thus cowries are threatened by over-collection. With their
-      shells covered, coowries are sometimes mistaken for slugs!
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/milliaris/040730skdd3368m3.jpg
     caption: When covered with the 'hairy' mantle they are often mistaken for slugs
@@ -170,9 +160,13 @@ links_references: '**Links**
   '
 location:
 - cyr
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Cowries are often well camouflaged
+- Look carefully for them
+- Their shells are highly prized, thus cowries are threatened by over-collection
+- With their shells covered, coowries are sometimes mistaken for slugs!
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Some species of cowries are still common on all our shores. Even these, however, are usually well camouflaged or well hidden under rocks, nooks and crannies or in rubble. They are usually more active at night.

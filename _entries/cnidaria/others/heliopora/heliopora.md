@@ -19,16 +19,6 @@ order: Scleralcyonacea
 updated: Dec 2024
 coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/heliopora/heliopora/070704jngg1167m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They produce a hard skeleton
-      but considered soft corals because of their polyps. Their skeleton is blue on
-      the inside. But don't break the skeleton to see this! They are considered living
-      fossils.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They produce a hard skeleton but considered soft corals because of their
-      polyps. Their skeleton is blue on the inside. But don't break the skeleton to
-      see this! They are considered living fossils.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/heliopora/heliopora/070704jngg1167m3.jpg
     caption: Pulau Jong, Jul 07
@@ -83,9 +73,12 @@ location:
 - tsm
 - rfl
 - lfa
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They produce a hard skeleton but considered soft corals because of their polyps
+- Their skeleton is blue on the inside
+- But don't break the skeleton to see this! They are considered living fossils.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 These living fossils are commonly seen on our Southern shores, sometimes forming many large colonies. Found among hard corals.

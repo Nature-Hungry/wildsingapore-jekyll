@@ -26,15 +26,6 @@ suborder: Siluroidei
 updated: Sep 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/lineatus/040919sntd7020m3a.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about it ... Often seen in a group of many
-      fishes, for safety. Don't break up the group! The 'whiskers' don't sting. They
-      are used to find food in murky waters. It has venomous spines. Don't touch it!
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Often seen in a group of many fishes, for safety. Don't break up the
-      group! The 'whiskers' don't sting. They are used to find food in murky waters.
-      It has venomous spines. Don't touch it!
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/lineatus/040919sntd7020m3a.jpg
     caption: '''Whiskers'' (barbels) at the top of the snout do not extend past the
@@ -179,9 +170,14 @@ size:
 - 1.0
 - 15.0
 rdb: LC
+trivia_title: if you learn only 3 things about it ..
+trivia_items:
+- Often seen in a group of many fishes, for safety
+- Don't break up the group! The 'whiskers' don't sting
+- They are used to find food in murky waters
+- It has venomous spines
+- Don't touch it!
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 This eel-like fish in pajamas is often seen on many of our shores, among seagrasses, coral rubble and near reefs. Tiny to small ones often a ball of many squirming individuals, while larger ones are seen in smaller groups or alone. Sometimes, larger ones can be seen gasping for air at the opening of a burrow at low tide.

@@ -1,7 +1,9 @@
 ---
 title: Jelly sea squirt (Ascidia gemmata)
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: blob, ascidian, squirt, seasquirt, tunicate, ascidia gemmata, ascidiidae, ascidiacea, urochordate, chordate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: blob, ascidian, squirt, seasquirt, tunicate, ascidia gemmata, ascidiidae,
+  ascidiacea, urochordate, chordate, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 updated: Nov 2019
 phylum: Chordata
@@ -59,7 +61,8 @@ galleries:
     caption: Terumbu Bemban, May 21 Photo by Vincent Choo on facebook.
 links_references: '**Links**
 
-  - [*Ascidia gemmata*](https://singapore.biodiversity.online/species/A-Tunicata-000001) on The Biodiversity of Singapore website of the Lee Kong Chian Natural History Museum.
+  - [*Ascidia gemmata*](https://singapore.biodiversity.online/species/A-Tunicata-000001)
+  on The Biodiversity of Singapore website of the Lee Kong Chian Natural History Museum.
 
   '
 location:

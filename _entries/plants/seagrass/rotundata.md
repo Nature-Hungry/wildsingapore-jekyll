@@ -25,14 +25,6 @@ order: Alismatales
 updated: Mar 14
 rdb: CR
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... This seagrass is rarely seen
-      on our shores. It doesn't flower frequently, and the flowers are small. It is
-      eaten by dugongs.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: This seagrass is rarely seen on our shores. It doesn't flower frequently,
-      and the flowers are small. It is eaten by dugongs.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/rotundata/060114cjg3880m3.jpg
     caption: Thick rhizomes with 2-7 leaves. Chek Jawa, Nov 06
@@ -97,9 +89,12 @@ size:
 - 1.0
 - 7.0
 - 15.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- This seagrass is rarely seen on our shores
+- It doesn't flower frequently, and the flowers are small
+- It is eaten by dugongs.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 There is a small patch of this seagrass on Chek Jawa and they have also been seen on Cyrene Reef.

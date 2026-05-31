@@ -27,16 +27,6 @@ superfamily: Paguroidea
 updated: Dec 2019
 coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/tidal/090208smkd6573m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They come in all sizes from
-      tiny ones you can hardly see, to larger ones. Every empty shell is a potential
-      hermit crab home. Don't take any shells home! Many other animals live together
-      with a hermit crab. Look for them.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They come in all sizes from tiny ones you can hardly see, to larger ones.
-      Every empty shell is a potential hermit crab home. Don't take any shells home!
-      Many other animals live together with a hermit crab. Look for them.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/tidal/090208smkd6573m3.jpg
     caption: Pulau Semakau, Feb 09
@@ -114,9 +104,13 @@ location:
 size:
 - 1.0
 - 2.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They come in all sizes from tiny ones you can hardly see, to larger ones
+- Every empty shell is a potential hermit crab home. Don't take any shells home! Many
+  other animals live together with a hermit crab
+- Look for them.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 This little hermit crab is commonly seen on many of our shores, on silty or sandy areas and among seagrasses. Sometimes in groups of many individuals, even when the tide is not very low. Many but not all of these hermit crabs may be

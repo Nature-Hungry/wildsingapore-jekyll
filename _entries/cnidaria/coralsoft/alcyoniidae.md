@@ -19,15 +19,6 @@ order: Malacalcyonacea
 updated: Dec 2024
 coverimg: ../../../Templates/fornatureguides.gif
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They are animals! Although
-      they look like plants. Don't step on them! They don't produce a hard skeleton.
-      Each soft coral is a colony of countless tiny polyps.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They are animals! Although they look like plants. Don't step on them!
-      They don't produce a hard skeleton. Each soft coral is a colony of countless
-      tiny polyps.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letpinwheel/050312hntg3315m3.jpg
     caption: Leathery soft corals can be quite large! Pulau Hantu, Mar 05
@@ -191,9 +182,12 @@ location:
 - tsm
 - rfl
 - lfa
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They are animals! Although they look like plants. Don't step on them! They don't
+  produce a hard skeleton
+- Each soft coral is a colony of countless tiny polyps.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Leathery soft corals are commonly seen on our Southern shores and in some places can grow quite large! Exposed out of water at low tide, some look like fried eggs, others like a pile of discarded rubber gloves, and yet others like some bizarre leathery giant carnation or a big floppy pinwheel.

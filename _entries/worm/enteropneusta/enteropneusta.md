@@ -20,14 +20,6 @@ links_references: "**Links**  \n- [Acorn\n  worms](http://mangrove.nus.edu.sg/pu
   \ Portal: Technical fact\n  sheet.\n\n**References**\n- Edward E.\n  Ruppert, Richard\
   \ S. Fox, Robert D. Barnes. 2004.*Invertebrate\n"
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They are rarely seen above
-      ground. They are advanced worms and play a role in recycling nutrients. They
-      are very delicate. Don't dig them up!
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They are rarely seen above ground. They are advanced worms and play a
-      role in recycling nutrients. They are very delicate. Don't dig them up!
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/worm/enteropneusta/enteropneusta/160508kusjt10.jpg
     caption: Kusu Island, May 16 Photo shared by Jonathan Tan on facebook .
@@ -84,9 +76,13 @@ size:
 - 9.0
 - 45.0
 - 200.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They are rarely seen above ground
+- They are advanced worms and play a role in recycling nutrients
+- They are very delicate
+- Don't dig them up!
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Evidence of this curious animal is commonly seen on many of our shores. On sand bars, in sandy areas especially near seagrasses. The animal itself is almost never seen above ground. All that most people see is its coiled, grey cast (although many may use a less polite word). Sometimes if you are lucky, you might spot a bit of its backside poking out of the ground as it creates its cast. Acorn worms are delicate and almost certain to disintegrate if they are dug up. So please don't try to dig them up.

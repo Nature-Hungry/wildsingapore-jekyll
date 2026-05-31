@@ -27,16 +27,6 @@ superfamily: Stromboidea
 updated: Sep 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/urceus/050611kusg7811m6l.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: 'if you learn only 3 things about them ... A lively snail that hops instead
-      of creeping along the surface. Many of its features are adaptations to this
-      hopping lifestyle: flared shell, large eyes. It is listed among the threatened
-      animals of Singapore.'
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: 'A lively snail that hops instead of creeping along the surface. Many
-      of its features are adaptations to this hopping lifestyle: flared shell, large
-      eyes. It is listed among the threatened animals of Singapore.'
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/urceus/050611kusg7811m6l.jpg
     caption: Kusu Island, Jun 05
@@ -157,9 +147,13 @@ size:
 - 3.0
 - 5.0
 rdb: Lc
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- A lively snail that hops instead of creeping along the surface
+- 'Many of its features are adaptations to this hopping lifestyle: flared shell, large
+  eyes'
+- It is listed among the threatened animals of Singapore.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 This narrow conch with black lips is sometimes seen in seagrass areas on our shores. Elsewhere, they are found on sand or sandy mud bottoms, sometimes associated with sparse algae. Often occurring in colonies. Intertidal and sublittoral zones to a depth of about 40 m. It was previously known as

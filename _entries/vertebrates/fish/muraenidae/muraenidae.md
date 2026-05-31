@@ -20,15 +20,6 @@ suborder: Muraenoidei
 updated: Sep 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/muraenidae/tile/101224sisd4114m6l.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Often mistaken for snakes,
-      they are fish! They breathe through gills. They have smooth skin instead of
-      scales. Some have strong jaws with sharp teeth. Don't touch them!
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Often mistaken for snakes, they are fish! They breathe through gills.
-      They have smooth skin instead of scales. Some have strong jaws with sharp teeth.
-      Don't touch them!
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/muraenidae/tile/101224sisd4114m6l.jpg
     caption: Dorsal, anal and tail fins are continuous. Sisters Island, Jan 1
@@ -201,9 +192,13 @@ location:
 - cj
 - bb
 - tm
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Often mistaken for snakes, they are fish! They breathe through gills
+- They have smooth skin instead of scales
+- Some have strong jaws with sharp teeth
+- Don't touch them!
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Often mistaken for snakes, these large wriggly fishes are occasionally seen on our shores. Moray eels are secretive fishes and usually seen only at night and in the more undisturbed shores with reefs and coral rubble. Sightings are usually brief as the fish disappears quickly into some crevice or hiding place.

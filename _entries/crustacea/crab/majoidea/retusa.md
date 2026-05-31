@@ -31,14 +31,6 @@ superfamily: Majoidea
 updated: Dec 2019
 coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/retusa/050822cjg2135m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They attach living sponges
-      and seaweeds as a disguise. The disguise continues to grow and other animals
-      live on it. They tend to move slowly.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They attach living sponges and seaweeds as a disguise. The disguise continues
-      to grow and other animals live on it. They tend to move slowly.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/retusa/050822cjg2135m3.jpg
     caption: Upperside Chek Jawa, Aug 05
@@ -188,9 +180,12 @@ size:
 - 3.0
 - 6.0
 rdb: NT
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They attach living sponges and seaweeds as a disguise
+- The disguise continues to grow and other animals live on it
+- They tend to move slowly.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 This superbly disguised crab is commonly encountered on our Northern shores, on coral rubble and seagrasse areas. But it requires a keen eye to spot!

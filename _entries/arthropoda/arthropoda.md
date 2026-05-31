@@ -1,7 +1,8 @@
 ---
 title: Arthropods
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: arthropoda, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info
+keywords: arthropoda, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info
 layout: entry
 family: ''
 genus: ''
@@ -15,14 +16,17 @@ coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/sh
 galleries:
   gallery1:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg
-    caption: A pair of anemone shrimps is commonly found in our carpet anemones. Kusu Island, Jul 04
+    caption: A pair of anemone shrimps is commonly found in our carpet anemones. Kusu
+      Island, Jul 04
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/spearer/050707cftg9086m3.jpg
-    caption: Mantis shrimps are not like other shrimps and belong to a different Order Stomatopoda. Changi, Jul 05
+    caption: Mantis shrimps are not like other shrimps and belong to a different Order
+      Stomatopoda. Changi, Jul 05
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeorange/050206cjdd9978m3.jpg
     caption: Striped hermit crab Chek Jawa, Feb 05
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/pelagicus/050622cftg8190m3.jpg
-    caption: The Flower crab and other decapods are among our favourite seafood! Changi, Jun 05
+    caption: The Flower crab and other decapods are among our favourite seafood! Changi,
+      Jun 05
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/porcellanidae/picta/050726chgg0423m3.jpg
     caption: Porcelain crabs often live with other animals. Changi, Jul 05
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/isopoda/ligia/050126cjd9795m3.jpg

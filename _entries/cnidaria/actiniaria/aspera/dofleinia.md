@@ -1,7 +1,9 @@
 ---
 title: Glass anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: glass, anemone, dofleinia, actiniidae, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: glass, anemone, dofleinia, actiniidae, anthozoa, cnidaria, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Actiniidae
 genus: Dofleinia
@@ -79,14 +81,20 @@ galleries:
     caption: Photo shared by Loh Kok Sheng on flickr.
 links_references: '**Links**
 
-  - [*Dofleinia*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/supraspecific_detail.cfm?taxon=Dofleinia&namesearched=Dofleinia&genus=Dofleinia&subgenus=&correctgenus=Dofleinia&correctsubgenus=) on the [Hexacorallians of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/) website by Dr Daphne Fautin with classification, distribution, biological associations and more.
+  - [*Dofleinia*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/supraspecific_detail.cfm?taxon=Dofleinia&namesearched=Dofleinia&genus=Dofleinia&subgenus=&correctgenus=Dofleinia&correctsubgenus=)
+  on the [Hexacorallians of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/)
+  website by Dr Daphne Fautin with classification, distribution, biological associations
+  and more.
 
-  - [Striped Anemone (*Dofleinia armata*)](http://deh.gov.au/cgi-bin/species-bank/sbank-treatment.pl?id=81299) on the Australian Biological Resources Study website: photo, distribution, features, ecology, interaction with humans, other comments.
+  - [Striped Anemone (*Dofleinia armata*)](http://deh.gov.au/cgi-bin/species-bank/sbank-treatment.pl?id=81299)
+  on the Australian Biological Resources Study website: photo, distribution, features,
+  ecology, interaction with humans, other comments.
 
 
   **References**
 
-  - Erhardt, Harry and Daniel Knop. 2005. *Corals: Indo-Pacific Field Guide* IKAN-Unterwasserachiv, Frankfurt. 305 pp.
+  - Erhardt, Harry and Daniel Knop. 2005. *Corals: Indo-Pacific Field Guide* IKAN-Unterwasserachiv,
+  Frankfurt. 305 pp.
 
   '
 size:

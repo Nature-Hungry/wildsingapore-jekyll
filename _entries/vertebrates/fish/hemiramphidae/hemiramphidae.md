@@ -19,15 +19,6 @@ order: Beloniformes
 updated: Sep 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/buffonis/031212sbwrd0069m6l.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They specialise in foraging
-      at the water surface. Their lower jaw is many times longer than their upper
-      jaw. Some are well camouflaged as floating twigs or rubbish.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They specialise in foraging at the water surface. Their lower jaw is
-      many times longer than their upper jaw. Some are well camouflaged as floating
-      twigs or rubbish.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/buffonis/031212sbwrd0069m6l.jpg
     caption: The lower jaw is many times longer than the upper jaw. Sungei Buloh,
@@ -123,9 +114,14 @@ location:
 - hnt
 size:
 - 10.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They specialise in foraging at the water surface
+- Their lower jaw is many times longer than their upper jaw
+- Some are well camouflaged as floating twigs or rubbish.
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?
+## Where seen?
 These stick-like fishes are commonly encountered on many of our shores. They swim at the water surface, often quite actively at night. Small ones may be mistaken for floating twigs or other bits of flotsam.
 
 **What are halfbeaks?**

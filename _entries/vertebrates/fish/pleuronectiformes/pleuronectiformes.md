@@ -135,8 +135,6 @@ links_references: '**Links**
 location: []
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
-
 ## Where seen?
 Like animated leaves, these fishes are encountered on many of our shores.
 ****

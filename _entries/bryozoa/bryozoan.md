@@ -1,7 +1,8 @@
 ---
 title: Bryozoans
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: bryozoan, lace, moss, animal, bryozoa, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: bryozoan, lace, moss, animal, bryozoa, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: ''
 genus: ''
@@ -21,7 +22,8 @@ trivia_items:
 galleries:
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/bryozoa/bryozoannoid/ig901l.gif
-    caption: Bryozoans are complex animals with tiny tentacles and live inside a hard case that they can retract into.
+    caption: Bryozoans are complex animals with tiny tentacles and live inside a hard
+      case that they can retract into.
   - url: https://f003.backblazeb2.com/file/naturehungry/bryozoa/bryozoannoid/080817chgd9745m3a.jpg
     caption: Encrusting a living seagrasses Changi, Aug 08
   - url: https://f003.backblazeb2.com/file/naturehungry/bryozoa/bryozoannoid/050823chgg2279m3.jpg
@@ -50,21 +52,34 @@ galleries:
     caption: East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook.
 links_references: '**Links**
 
-  - [Moss animals (Phylum Ectoprocta=Bryozoa)](http://mangrove.nus.edu.sg/pub/seashore/text/129) Tan, Leo W. H. & Ng, Peter K. L., 1988, *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore. 160 pp.
+  - [Moss animals (Phylum Ectoprocta=Bryozoa)](http://mangrove.nus.edu.sg/pub/seashore/text/129)
+  Tan, Leo W. H. & Ng, Peter K. L., 1988, *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.
+  The Singapore Science Centre, Singapore. 160 pp.
 
-  - [Flowers of the Sea: Bryozoans](http://www.microscopy-uk.org.uk/mag/artmay01/bryozoan.html) by Jean-Marie Cavanihac on the Microscopy UK website: fact sheet on bryozoans with lots of lovely super close look at tiny bryozoans.
+  - [Flowers of the Sea: Bryozoans](http://www.microscopy-uk.org.uk/mag/artmay01/bryozoan.html)
+  by Jean-Marie Cavanihac on the Microscopy UK website: fact sheet on bryozoans with
+  lots of lovely super close look at tiny bryozoans.
 
-  - [Bryozoa](http://www.ucmp.berkeley.edu/bryozoa/bryozoa.html) on the Museum of Paleontology, University of California, Berkeley website: details with photos.
+  - [Bryozoa](http://www.ucmp.berkeley.edu/bryozoa/bryozoa.html) on the Museum of
+  Paleontology, University of California, Berkeley website: details with photos.
 
   **References**
 
-  - K. J. Tilbrook & D. P. Gordon. 29 June 2016. *Checklist of Singapore Bryozoa and Entoprocta*. The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part I of II) Pp. 593-603.
+  - K. J. Tilbrook & D. P. Gordon. 29 June 2016. *Checklist of Singapore Bryozoa and
+  Entoprocta*. The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part I of II)
+  Pp. 593-603.
 
-  - K. J. Tilbrook & D. P. Gordon. *Bryozoa from the Straits of Johor, Singapore, with the description of new species*. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 255-263.
+  - K. J. Tilbrook & D. P. Gordon. *Bryozoa from the Straits of Johor, Singapore,
+  with the description of new species*. 10 July 2015. The Comprehensive Marine Biodiversity
+  Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology
+  2015 Supplement No. 31, Pp. 255-263.
 
-  - Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004. *Invertebrate Zoology : A Functional Evolutionary Approach* Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
+  - Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004. *Invertebrate Zoology
+  : A Functional Evolutionary Approach* Brooks/Cole of Thomson Learning Inc., 7th
+  Edition. pp. 963
 
-  - Pechenik, Jan A., 2005. *Biology of the Invertebrates* . 5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
+  - Pechenik, Jan A., 2005. *Biology of the Invertebrates* . 5th edition. McGraw-Hill
+  Book Co., Singapore. 578 pp.
 
   '
 ---

@@ -21,14 +21,6 @@ superfamily: Ostreoidea
 updated: Aug 2020
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Limpets are sometimes confused
-      with barnacles. Limpets can move! But only at high tide. The area around a limpet
-      is often grazed bare of algae.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Limpets are sometimes confused with barnacles. Limpets can move! But
-      only at high tide. The area around a limpet is often grazed bare of algae.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/keyhole/130426tkkd5691m6l.jpg
     caption: A limpet is a snail with an umbrella shaped shell. Pulau Tekukor, Apr
@@ -236,9 +228,12 @@ location:
 - smk
 - rfl
 - lfa
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Limpets are sometimes confused with barnacles
+- Limpets can move! But only at high tide
+- The area around a limpet is often grazed bare of algae.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Limpets are found many of our shores. Both on and under stones, as well as on rocks and other hard surfaces. Sometimes the shell is covered with algae and mud and the limpet might look like a sea slug. Immobile at low tide, these abundant snails are often considered uninteresting and ignored by visitors. But they are actually quite amazing little creatures.

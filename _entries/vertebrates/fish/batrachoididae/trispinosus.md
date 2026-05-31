@@ -24,15 +24,6 @@ order: Batrachoidiformes
 updated: Sep 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/batrachoididae/trispinosus/050526cjg6754m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: 'if you learn only 3 things about them ... They are ambush predators;
-      lurking in hiding for passing prey. They can croak like a toad. But don''t touch,
-      they may bite! Hard to spot: they resemble stones. So watch your step!'
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: 'They are ambush predators; lurking in hiding for passing prey. They
-      can croak like a toad. But don''t touch, they may bite! Hard to spot: they resemble
-      stones. So watch your step!'
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/batrachoididae/trispinosus/050526cjg6754m3.jpg
     caption: Huge eyes often the first sign of the fish hidden under stones. Chek
@@ -202,9 +193,13 @@ size:
 - 10.0
 - 20.0
 - 30.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They are ambush predators; lurking in hiding for passing prey
+- They can croak like a toad
+- 'But don''t touch, they may bite! Hard to spot: they resemble stones'
+- So watch your step!
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 These bottom-dwelling fishes are commonly seen on all our shores but often overlooked. Skulking under stones, near coral rubble, or half covered in sand and sediments, they are hard to spot. Even out in the open, they look like algae-covered stones.

@@ -15,15 +15,6 @@ kingdom: Animalia
 updated: Dec 11
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Red seaweeds are not always
-      red. They may be green, black, brown. The seaweed used in sushi is a red seaweed!
-      Extracts of red seaweed are used in our everyday processed food and products.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Red seaweeds are not always red. They may be green, black, brown. The
-      seaweed used in sushi is a red seaweed! Extracts of red seaweed are used in
-      our everyday processed food and products.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/solieria/040730skdd3322m.jpg
     caption: ''
@@ -141,9 +132,13 @@ links_references: '**Links**
   . Bookmark, Inc., the Philippines. 306 pp.
 
   '
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Red seaweeds are not always red
+- They may be green, black, brown
+- The seaweed used in sushi is a red seaweed! Extracts of red seaweed are used in
+  our everyday processed food and products.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Red seaweeds are found on all our shores. Some are huge red sheets often mistaken for plastic bags, others are fine feathery pink tufts. Yet others are bunches of long skinny filaments or juicy fat stems; or crunchy pink branches that form balls.

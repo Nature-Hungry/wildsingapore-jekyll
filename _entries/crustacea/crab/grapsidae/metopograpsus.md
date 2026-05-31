@@ -29,15 +29,6 @@ superfamily: Grapsoidea
 updated: Dec 2019
 coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/metopograpsus/050410kusg4259m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... These crabs have long pointy
-      legs to cling to and scramble over rocks. They have a flat body to slip through
-      narrow crevices. The pincers have scalloped edges and are used to scrape algae.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: These crabs have long pointy legs to cling to and scramble over rocks.
-      They have a flat body to slip through narrow crevices. The pincers have scalloped
-      edges and are used to scrape algae.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/metopograpsus/050410kusg4259m3.jpg
     caption: Kusu Island, Apr 04
@@ -164,9 +155,12 @@ location:
 size:
 - 2.0
 - 4.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- These crabs have long pointy legs to cling to and scramble over rocks
+- They have a flat body to slip through narrow crevices
+- The pincers have scalloped edges and are used to scrape algae.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 This small purple crab is commonly seen on our rocky shores in the North and South. Usually only active at night. During the day, it is usually well hidden in crevices.

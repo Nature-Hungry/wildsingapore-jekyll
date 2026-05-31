@@ -45,8 +45,6 @@ size:
 - 0.3
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
-
 ## Where seen?
 These noodle-like egg masses are sometimes seen among seagrasses and seaweeds in clumps.
 

@@ -20,16 +20,6 @@ suborder: Syngnathoidei
 updated: Oct 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... The males look after the eggs!
-      They are globally endangered due to overharvesting for the traditional medicine
-      trade. They are hard to spot and can't move fast. Watch your step or you might
-      step on one!
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: The males look after the eggs! They are globally endangered due to overharvesting
-      for the traditional medicine trade. They are hard to spot and can't move fast.
-      Watch your step or you might step on one!
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg
     caption: Often seen in a pair. Flexible tail used to hang onto objects. Tanah
@@ -142,9 +132,13 @@ location:
 - snt
 - sji
 - cyr
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- The males look after the eggs! They are globally endangered due to overharvesting
+  for the traditional medicine trade
+- They are hard to spot and can't move fast
+- Watch your step or you might step on one!
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Pipefishes and seahorses are more common than we might imagine. They are well camouflaged and thus usually overlooked. But the patient and keen-eyed observer is often rewarded with a sighting of these amazing fishes on many of our shores especially in seagrass areas.

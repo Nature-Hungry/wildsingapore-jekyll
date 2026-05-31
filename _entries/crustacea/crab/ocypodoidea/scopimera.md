@@ -15,15 +15,6 @@ species: and
 updated: Dec 2019
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They are everywhere on the
-      sandy shore at low tide. Don't step on them! The tiny sand balls are processed
-      sand. Not excretion or from burrowing. They are related to fiddler crabs.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They are everywhere on the sandy shore at low tide. Don't step on them!
-      The tiny sand balls are processed sand. Not excretion or from burrowing. They
-      are related to fiddler crabs.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/scopimera/050206cjd0046m3.jpg
     caption: Chek Jawa, Feb 05
@@ -153,9 +144,13 @@ location:
 size:
 - 1.0
 - 1.5
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They are everywhere on the sandy shore at low tide. Don't step on them! The tiny
+  sand balls are processed sand
+- Not excretion or from burrowing
+- They are related to fiddler crabs.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 This tiny ball-shaped crab is often seen on our sandy shores, just below the high water line. Resembling the little sand balls that it creates all over the shore at low tide, the crab itself is often missed. It is also very nervous and disappears instantly into its burrows at the slightest sign of danger. To spot these crabs, you will have to wait quietly next to their burrows. Stay low and avoid casting a shadow over the burrow. In a few minutes, they will appear. If you stay still, they will go about their amusing business. Do avoid stepping on sand balls on the shore as you might be stepping on a little crab!

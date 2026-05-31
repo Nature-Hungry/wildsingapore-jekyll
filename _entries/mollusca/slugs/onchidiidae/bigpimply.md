@@ -23,15 +23,6 @@ superfamily: Onchidioidea
 updated: Jun 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/bigpimply/101222chgd3855m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Onchs are very well camouflaged.
-      Don't step on them! Onchs graze on alge on the rock, see the bare patches on
-      the rock? They are slippery and hard to handle, so please don't touch them.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Onchs are very well camouflaged. Don't step on them! Onchs graze on alge
-      on the rock, see the bare patches on the rock? They are slippery and hard to
-      handle, so please don't touch them.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/bigpimply/101222chgd3855m3.jpg
     caption: Changi, Dec 10
@@ -130,9 +121,12 @@ location:
 size:
 - 4.0
 - 5.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Onchs are very well camouflaged
+- Don't step on them! Onchs graze on alge on the rock, see the bare patches on the
+  rock? They are slippery and hard to handle, so please don't touch them.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 This medium to large onch slug is commonly seen, sometimes in large numbers, on many of our natural rocky shores. Usually on large rocks and boulders, also on small stones on rocky shores, sometimes also on sea walls. The slug is often covered with sand (so they probably burrow into sand to hide?). These slugs are usually well hidden on a warm and sunny day. But on cool days or early in the morning or at dusk, you might see lots of them crawling about. They can move quite fast!

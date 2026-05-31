@@ -30,14 +30,6 @@ superfamily: Dromioidea
 updated: Feb 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/dromiidae/dromiidae/050819cjg1661m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They use living sponges or
-      ascidians as a disguise. Specialised legs grip the disguise. They tend to move
-      slowly.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They use living sponges or ascidians as a disguise. Specialised legs
-      grip the disguise. They tend to move slowly.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/dromiidae/dromiidae/050819cjg1661m3.jpg
     caption: From above, looks like just another uninteresting blob . Chek Jawa, Aug
@@ -153,9 +145,14 @@ location:
 size:
 - 0.5
 - 5.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They use living sponges or ascidians as a disguise
+- Specialised legs grip the disguise
+- They tend to move slowly.
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?
+## Where seen?
 This intriguing crab is seen on our Northern shores, in coral rubble and seagrasses areas. Those seen often 'carry' ascidians and not sponges.
 
 ## Features

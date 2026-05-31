@@ -19,15 +19,6 @@ order: Crocodylia
 updated: Apr 2018
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/porosus/100221sbwrd9556m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Only healthy mangroves can
-      support these magnificent top predators! When a crocodile smiles (mouth wide
-      open) it's just cooling down, not about to bite. Crocodiles don't eat people.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Only healthy mangroves can support these magnificent top predators! When
-      a crocodile smiles (mouth wide open) it's just cooling down, not about to bite.
-      Crocodiles don't eat people.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/porosus/091010sbwrbc2m6l.jpg
     caption: Sungei Buloh Wetland Reserve, Oct 09 Photo shared by Brandon Chia on
@@ -107,9 +98,14 @@ links_references: '**Links**
 size:
 - 800.0
 rdb: CR
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Only healthy mangroves can support these magnificent top predators! When a crocodile
+  smiles (mouth wide open) it's just cooling down, not about to bite
+- Crocodiles don't eat people.
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?
+## Where seen?
 This awesome reptile is often seen at Sungei Buloh Wetland Reserve. According to Davison, it has been recorded in our estuaries and reservoirs including the Singapore River, Kallang River, Sungei Seletar and Kranji Reservoir, and Pulau Tekong. Also called the Saltwater crocodile, it is the most widely distributed of the crocodiles and found in tropical Asia and the Pacific. It lives in b rackish and freshwater habitats.
 
 ## Features

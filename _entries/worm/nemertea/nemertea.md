@@ -12,14 +12,6 @@ attributes: []
 updated: Oct 2016
 coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/pink/050510tusg6052m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They can be very long! They
-      are predators and efficient hunters. They are delicate and some are venomous.
-      Don't touch!
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They can be very long! They are predators and efficient hunters. They
-      are delicate and some are venomous. Don't touch!
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/pink/050510tusg6052m3.jpg
     caption: Sometimes seen swimming in the water. Tuas, May 05
@@ -111,9 +103,12 @@ links_references: '**Links**
   '
 size:
 - 100.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They can be very long! They are predators and efficient hunters
+- They are delicate and some are venomous
+- Don't touch!
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Ribbon worms regularly seen in coral rubble areas on many of our shores. They are more active at night. During the day, they burrow in the ground or remain in other hiding places.

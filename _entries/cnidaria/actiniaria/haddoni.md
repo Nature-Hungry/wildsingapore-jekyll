@@ -222,8 +222,6 @@ size:
 rdb: LC
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
-
 ## Where seen?
 This enormous anemone bigger than your face is commonly seen on many of shores. In sandy areas, among seagrasses and also on coral rubble.
 

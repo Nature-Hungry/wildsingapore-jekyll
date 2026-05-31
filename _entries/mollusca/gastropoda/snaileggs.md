@@ -54,8 +54,6 @@ galleries:
     caption: Nerites mating with their white egg capsules. Chek Jawa, Feb 02
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
-
 ## Where seen?
 Egg capsules and masses laid by shelled snails are seen on many of our shores. Often, these are laid on hard surfaces.
 

@@ -1,7 +1,9 @@
 ---
 title: 'Bubble ascidians (Ascidiacea) '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: blob, ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: blob, ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 updated: Nov 2019
 phylum: Chordata
@@ -31,16 +33,21 @@ galleries:
     caption: ''
   gallery3:
   - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/bubble/180617skdlks3.jpg
-    caption: Ecteinascidia thurstoni? Pulau Sekudu, Jun 18 Photo shared by Loh Kok Sheng on facebook.
+    caption: Ecteinascidia thurstoni? Pulau Sekudu, Jun 18 Photo shared by Loh Kok
+      Sheng on facebook.
   - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/bubble/180617skdlks3a.jpg
     caption: ''
-links_references: "**Links**
+links_references: '**Links**
 
-  - [*Ecteinascidia thurstoni*](https://singapore.biodiversity.online/species/A-Tunicata-000155) and [*Clavelina* sp.](https://singapore.biodiversity.online/species/A-Tunicata-000007) on The Biodiversity of Singapore website of the Lee Kong Chian Natural History Museum.
+  - [*Ecteinascidia thurstoni*](https://singapore.biodiversity.online/species/A-Tunicata-000155)
+  and [*Clavelina* sp.](https://singapore.biodiversity.online/species/A-Tunicata-000007)
+  on The Biodiversity of Singapore website of the Lee Kong Chian Natural History Museum.
 
   **References**
-  
-  - Serina S-C Lee, Janlin Y-H Chan, Serena L-M Teo & Gretchen Lambert. *State of knowledge of ascidian diversity in South China Sea and new records for Singapore*. 29 June 2016. Raffles Bulletin of Zoology Supplement No. 34: 718-743."
+
+  - Serina S-C Lee, Janlin Y-H Chan, Serena L-M Teo & Gretchen Lambert. *State of
+  knowledge of ascidian diversity in South China Sea and new records for Singapore*.
+  29 June 2016. Raffles Bulletin of Zoology Supplement No. 34: 718-743.'
 location:
 - ubn
 - cj

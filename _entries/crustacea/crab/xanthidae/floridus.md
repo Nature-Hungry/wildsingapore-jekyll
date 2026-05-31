@@ -33,15 +33,6 @@ subfamily: Zosiminae
 updated: Dec 2019
 coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/floridus/040521sntad0102m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... These crabs are poisonous to
-      eat! Their toxins are NOT destroyed by cooking. They are generally secretive
-      and slow-moving. They are not venomous but it's best not to touch them.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: These crabs are poisonous to eat! Their toxins are NOT destroyed by cooking.
-      They are generally secretive and slow-moving. They are not venomous but it's
-      best not to touch them.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/floridus/040521sntad0102m3.jpg
     caption: Sentosa, May 04
@@ -206,9 +197,12 @@ size:
 - 8.0
 - 10.0
 rdb: VU
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- These crabs are poisonous to eat! Their toxins are NOT destroyed by cooking
+- They are generally secretive and slow-moving
+- They are not venomous but it's best not to touch them.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 This round well-camouflaged crab is commonly seen on our Southern shores, among coral rubble or reefs. But sightings usually not as numerous as the

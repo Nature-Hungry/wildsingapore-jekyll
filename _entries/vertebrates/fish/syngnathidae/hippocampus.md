@@ -55,16 +55,6 @@ links_references: "**Links**\n- [Seahorse\n  (*Hippocampus* sp.)](http://mangrov
   \ Threatened plants and animals of Singapore*.\n  Nature Society (Singapore). 285\
   \ pp.\n- Allen, Gerry,\n  2000. *Marine\n"
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They are fishes and have bones
-      inside as well as outside The father gets 'pregnant'. They reproduce slowly.
-      They are globally endangered due to overharvesting for the traditional medicine
-      trade.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They are fishes and have bones inside as well as outside The father gets
-      'pregnant'. They reproduce slowly. They are globally endangered due to overharvesting
-      for the traditional medicine trade.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg
     caption: Often seen in a pair. Tanah Merah, Aug 09
@@ -125,9 +115,13 @@ size:
 - 30.0
 - 5.0
 - 12.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They are fishes and have bones inside as well as outside The father gets 'pregnant'
+- They reproduce slowly
+- They are globally endangered due to overharvesting for the traditional medicine
+  trade.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Almost everyone knows what a seahorse looks like. An endearing, unfish-like fish, it truly captures the imagination.

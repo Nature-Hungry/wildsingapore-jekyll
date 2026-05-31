@@ -20,16 +20,6 @@ order: Sabellida
 updated: Oct 2016
 coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/banded/070406hntg8511m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... These worms are segmented like
-      the more familiar earthworm. They disappear rapidly into their tubes. Don't
-      step on their tubes. The feathery fan is actually made up of modified tentacles.
-      It gathers food.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: These worms are segmented like the more familiar earthworm. They disappear
-      rapidly into their tubes. Don't step on their tubes. The feathery fan is actually
-      made up of modified tentacles. It gathers food.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/banded/070406hntg8511m3.jpg
     caption: Growing in living hard coral. Pulau Hantu, Apr 07
@@ -125,9 +115,14 @@ links_references: '**Links**
   . 5
 
   '
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- These worms are segmented like the more familiar earthworm
+- They disappear rapidly into their tubes
+- Don't step on their tubes
+- The feathery fan is actually made up of modified tentacles
+- It gathers food.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Even those who find worms icky will be delighted by these elegant feathery creatures. They are more commonly seen on our Northern shores but also encountered on the Southern shores. They are found mainly in or near coral rubble areas. Some are found in the sand. There are large ones (about 8cm in diameter), small ones (2-3cm in diameter) and even tinier ones that can hardly be seen. These worms are wary, though, and will disappear instantly into their tubes are the slightest sign of danger. So you have to approach them stealthily.

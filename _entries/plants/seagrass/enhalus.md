@@ -26,16 +26,6 @@ order: Alismatales
 updated: Oct 2016
 rdb: CR
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... It is the longest seagrasses
-      found on our shores. Pulau Semakau has the largest bed of tape seagrasses on
-      Singapore that ordinary people can visit. It is believed to be among the main
-      food of dugongs.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: It is the longest seagrasses found on our shores. Pulau Semakau has the
-      largest bed of tape seagrasses on Singapore that ordinary people can visit.
-      It is believed to be among the main food of dugongs.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/enhalus/120219smkd7285m6l.jpg
     caption: Leaf with smooth rounded tip. Pulau Semakau, Feb 12
@@ -180,9 +170,13 @@ location:
 - tsm
 - rfl
 - lfa
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- It is the longest seagrasses found on our shores
+- Pulau Semakau has the largest bed of tape seagrasses on Singapore that ordinary
+  people can visit
+- It is believed to be among the main food of dugongs.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Tape seagrass can be seen on many our undisturbed shores. Pulau Semakau has the largest bed of tape seagrass that ordinary people can visit. It covers kilometres of the shoreline. Elsewhere, tape seagrass is usually seen in clumps sparsely distributed along the shore, usually near coral rubble. There is only one species of

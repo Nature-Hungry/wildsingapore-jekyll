@@ -21,17 +21,6 @@ order: Ulvales
 updated: Jan 13
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... It is only two cells thick
-      so it grows rapidly when the water has lots of nutrients. Avoid stepping on
-      the green carpet of sea lettuce. It's slippery and animals live among the seaweeds.
-      Can eat or not? Yes you can if you're a pig. It used to be fed to pigs.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: It is only two cells thick so it grows rapidly when the water has lots
-      of nutrients. Avoid stepping on the green carpet of sea lettuce. It's slippery
-      and animals live among the seaweeds. Can eat or not? Yes you can if you're a
-      pig. It used to be fed to pigs.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/ulva/050426cftd2745m3.jpg
     caption: Some form sheets.
@@ -132,9 +121,14 @@ location:
 - jng
 - hnt
 - smk
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- It is only two cells thick so it grows rapidly when the water has lots of nutrients
+- Avoid stepping on the green carpet of sea lettuce
+- It's slippery and animals live among the seaweeds
+- Can eat or not? Yes you can if you're a pig
+- It used to be fed to pigs.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Sea lettuce looks just like its namesake land plant. Seasonally, there is an explosive growth or 'bloom' of this

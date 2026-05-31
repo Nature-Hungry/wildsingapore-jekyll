@@ -25,14 +25,6 @@ superfamily: Palaemonoidea
 updated: Oct 2016
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They live on other animals
-      such as sea anemones and hard corals. They are often found in pairs. They are
-      an excellent example of commensalism.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They live on other animals such as sea anemones and hard corals. They
-      are often found in pairs. They are an excellent example of commensalism.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/rednose/060527sjig6054m3.jpg
     caption: Little red-nose shrimps are also found on living hard and soft corals.
@@ -94,9 +86,12 @@ links_references: '**Links**
 size:
 - 1.0
 - 3.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They live on other animals such as sea anemones and hard corals
+- They are often found in pairs
+- They are an excellent example of commensalism.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 These transparent shrimps are often seen living on other animals such as sea anemones, sea cucumbers, and hard and soft corals. Some are also seen in small groups on the ground and among seaweeds. These shrimps are hard to spot as they are small and transparent; and usually only active at night and when their host is submerged.

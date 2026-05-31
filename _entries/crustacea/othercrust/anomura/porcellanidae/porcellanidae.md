@@ -24,16 +24,6 @@ superfamily: Galatheoidea
 updated: Dec 2019
 coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/porcellanidae/petrolisthes/080619chgd5779m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: 'if you learn only 3 things about them ... They are NOT true crabs. Some
-      differences from true crabs: only 3 pairs of walking legs, long antennae. They
-      drop their pincers when stressed, so don''t harass them Some live with other
-      animals: sea pens, hermit crabs.'
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: 'They are NOT true crabs. Some differences from true crabs: only 3 pairs
-      of walking legs, long antennae. They drop their pincers when stressed, so don''t
-      harass them Some live with other animals: sea pens, hermit crabs.'
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/porcellanidae/petrolisthes/080619chgd5779m3.jpg
     caption: Huge flat pincers.
@@ -141,9 +131,13 @@ location:
 - cyr
 size:
 - 1.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They are NOT true crabs
+- 'Some differences from true crabs: only 3 pairs of walking legs, long antennae'
+- 'They drop their pincers when stressed, so don''t harass them Some live with other
+  animals: sea pens, hermit crabs.'
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Porcelain crabs are plentiful under the stones of our rocky shores, scattering in all directions as a stone is lifted. Some porcelain crabs live on or with other larger animals.

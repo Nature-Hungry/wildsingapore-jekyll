@@ -20,16 +20,6 @@ superfamily: Littorinoidea
 updated: Aug 2020
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Don't take them off the rocks!
-      They will wash away with the tide and may die. Periwinkles do move! But only
-      at high tide or in cool weather. The area around a periwinkle is often grazed
-      bare of algae.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Don't take them off the rocks! They will wash away with the tide and
-      may die. Periwinkles do move! But only at high tide or in cool weather. The
-      area around a periwinkle is often grazed bare of algae.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/others/050822cjg2240m3.jpg
     caption: Several kinds of periwinkles may be found together. Chek Jawa, Aug 05
@@ -177,9 +167,12 @@ location:
 size:
 - 2.0
 - 5.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Don't take them off the rocks! They will wash away with the tide and may die
+- Periwinkles do move! But only at high tide or in cool weather
+- The area around a periwinkle is often grazed bare of algae.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Periwinkles sprinkle the rocks on many of our shores. They appear dead but are very much alive. At low tide, they are usually wedged into crevices and cracks in rocks and even inside the empty shells of dead oysters and barnacles.

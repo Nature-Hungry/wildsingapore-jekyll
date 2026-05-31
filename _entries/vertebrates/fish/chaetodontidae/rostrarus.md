@@ -27,14 +27,6 @@ subfamily: Heniochinae
 updated: Sep 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/chaetodontidae/rostratus/031029sntbd0064m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about it ... Has a false eye to distract potential
-      predators. This fish forms monogamous pairs. It does poorly in a home aquarium,
-      Don't collect them.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Has a false eye to distract potential predators. This fish forms monogamous
-      pairs. It does poorly in a home aquarium, Don't collect them.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/chaetodontidae/rostratus/031029sntbd0064m3.jpg
     caption: Sentosa, Oct 03
@@ -218,9 +210,12 @@ size:
 - 4.0
 - 8.0
 rdb: LC
+trivia_title: if you learn only 3 things about it ..
+trivia_items:
+- Has a false eye to distract potential predators
+- This fish forms monogamous pairs
+- It does poorly in a home aquarium, Don't collect them.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 This strikingly patterned fish is commonly seen on many of our shores, among coral rubble and near reefs. It is said to be more active during the day, but those seen at night can be quite frisky. Elsewhere, they are found on rocky shores, coral reefs, estuaries and silty inner reefs.

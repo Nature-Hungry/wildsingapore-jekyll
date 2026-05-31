@@ -26,15 +26,6 @@ subfamily: Synanceiinae
 updated: Oct 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/synanceiidae/horrida/060312hntd0311m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about it ... It is well camouflaged. Look
-      carefully. It has venomous spines. Don't handle it! Watch your step! Its venom
-      is only used for protection from predators and not to catch prey.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: It is well camouflaged. Look carefully. It has venomous spines. Don't
-      handle it! Watch your step! Its venom is only used for protection from predators
-      and not to catch prey.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/synanceiidae/horrida/060312hntd0311m3.jpg
     caption: Large pectoral fins. Tail curled. Spines up. Pulau Hantu, Mar 06
@@ -212,9 +203,14 @@ location:
 - tsm
 - rfl
 rdb: NT
+trivia_title: if you learn only 3 things about it ..
+trivia_items:
+- It is well camouflaged
+- Look carefully
+- It has venomous spines
+- Don't handle it! Watch your step! Its venom is only used for protection from predators
+  and not to catch prey.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 This squat grumpy-looking, ugly fish is, to our discomfort, quite commonly encountered on many of our shores including our recreational beaches. It is particularly abundant near artificial seawalls. It is also present in living reefs and rubbly areas nearby. Resembling a encrusted stone, it is often overlooked. When spotted, however, a stonefish is often the subject of morbid fascination due to its hideous appearance and potent venom.

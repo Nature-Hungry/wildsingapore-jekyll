@@ -25,15 +25,6 @@ suborder: Syngnathoidei
 updated: Oct 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/seagrass/120510chgd2756m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about it ... It looks just like a bit of root
-      or rubbish. Look carefully to find one. It hides among seaweeds and can't move
-      fast. Watch your step! The male looks carries the eggs.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: It looks just like a bit of root or rubbish. Look carefully to find one.
-      It hides among seaweeds and can't move fast. Watch your step! The male looks
-      carries the eggs.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/seagrass/120510chgd2756m3.jpg
     caption: Changi, May 12
@@ -164,9 +155,13 @@ location:
 size:
 - 8.0
 - 10.0
+trivia_title: if you learn only 3 things about it ..
+trivia_items:
+- It looks just like a bit of root or rubbish
+- Look carefully to find one
+- It hides among seaweeds and can't move fast
+- Watch your step! The male looks carries the eggs.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 This skinny long fish can be seasonally abundant in seagrass areas on our Northern shores. Also sometimes seen in seagrasses in the South. At low tide, it generally remains motionless among seagrasses and seaweeds, and resembles roots or twigs. Watch your step!

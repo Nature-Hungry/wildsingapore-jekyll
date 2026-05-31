@@ -20,16 +20,6 @@ superfamily: Naticoidea
 updated: Aug 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/sandcollar/030703skdd0250m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Although it feels plasticky
-      and dead, the sand collar is full of living baby snails! The size of the collar
-      depends on the size of the mother moon snail. When the baby snails hatch, the
-      sand collar disintegrates.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Although it feels plasticky and dead, the sand collar is full of living
-      baby snails! The size of the collar depends on the size of the mother moon snail.
-      When the baby snails hatch, the sand collar disintegrates.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/sandcollar/030703skdd0250m3.jpg
     caption: Pulau Sekudu, Jul 03
@@ -68,9 +58,12 @@ links_references: '**Links**
   . Singapore Science Centre. 160 pp.
 
   '
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Although it feels plasticky and dead, the sand collar is full of living baby snails!
+  The size of the collar depends on the size of the mother moon snail
+- When the baby snails hatch, the sand collar disintegrates.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 These frilly edged flat spirals

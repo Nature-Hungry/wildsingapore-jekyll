@@ -45,16 +45,6 @@ links_references: "**Links**\n- [Edible\n  Rock Oyster (*Saccostrea*)](http://ma
   \ at Biodiversity in Singapore*.\n  National Council on the Environment. 163pp.\n\
   - Ng, P. K.\n  L. & Y. C. Wee, 1994. *The\n"
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Oysters take a long time to
-      grow to a large size. Valuable pearls do NOT come from the Family Ostreida.
-      Oysters are often vandalised by thoughtless visitors. Oysters can cause food
-      poisoning.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Oysters take a long time to grow to a large size. Valuable pearls do
-      NOT come from the Family Ostreida. Oysters are often vandalised by thoughtless
-      visitors. Oysters can cause food poisoning.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/ostreidae/plain/080122cjd9030.jpg
     caption: Oysters often form a distint band on hard surfaces near the high water
@@ -113,9 +103,13 @@ location:
 - laz
 - hnt
 - smk
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Oysters take a long time to grow to a large size
+- Valuable pearls do NOT come from the Family Ostreida
+- Oysters are often vandalised by thoughtless visitors
+- Oysters can cause food poisoning.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Among our favourite seafood, oysters are often over-collected on some of our more accessible shores. Sometimes, they are merely vandalised by thoughtless visitors. They are common on the rocks and other hard surfaces of many of our shores.

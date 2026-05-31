@@ -20,16 +20,6 @@ suborder: Tetraodontoidei
 updated: Nov 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/stellatus/161214sjiro2.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Pufferfishes are poisonous
-      to eat! They can inflate themselves with water or air to deter predators. But
-      don't force a pufferfish to do this. They have powerful teeth and can give a
-      nasty bite.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Pufferfishes are poisonous to eat! They can inflate themselves with water
-      or air to deter predators. But don't force a pufferfish to do this. They have
-      powerful teeth and can give a nasty bite.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/stellatus/161214sjiro2.jpg
     caption: And inflated fish that was dead/dying and washed ashore. St. John's Island,
@@ -159,9 +149,13 @@ location:
 size:
 - 10.0
 - 30.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Pufferfishes are poisonous to eat! They can inflate themselves with water or air
+  to deter predators
+- But don't force a pufferfish to do this
+- They have powerful teeth and can give a nasty bite.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 These rotund fishes are sometimes seen on some of our shores. They are found among seagrasses, near coral rubble as well as in mangroves. Sometimes seen in fish traps, and also washed ashore during mass fish death incidents. Divers also encounter on some of our reefs, including very large ones!

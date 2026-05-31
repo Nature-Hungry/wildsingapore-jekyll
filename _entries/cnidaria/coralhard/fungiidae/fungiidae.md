@@ -19,16 +19,6 @@ order: Scleractinia
 updated: Nov 2019
 coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/circular/110730tmftd7666m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Most mushroom corals are not
-      attached to the ground as adults. Most are giant solitary polyps (although some
-      are colonial). The sandy areas in a reef may have many of these animals. Watch
-      your step!
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Most mushroom corals are not attached to the ground as adults. Most are
-      giant solitary polyps (although some are colonial). The sandy areas in a reef
-      may have many of these animals. Watch your step!
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/circular/110730tmftd7666m3.jpg
     caption: Young mushroom corals start life attached to a hard surface on stalks.
@@ -158,9 +148,13 @@ location:
 - tsm
 - rfl
 - lfa
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Most mushroom corals are not attached to the ground as adults
+- Most are giant solitary polyps (although some are colonial)
+- The sandy areas in a reef may have many of these animals
+- Watch your step!
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 These hard corals that may be mushroom-shaped or long and tongue-like are sometimes seen on many of our Southern shores. In sheltered reefy lagoons, they can be quite plentiful. Often, mushroom corals of several different species are found together. On the Northern shores, they were only encountered on Beting Bronok.

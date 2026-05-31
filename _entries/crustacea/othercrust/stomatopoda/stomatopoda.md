@@ -22,15 +22,6 @@ superfamily: Gonodactyloidea
 updated: Mar 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/spearer/050707cftg9086m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They resemble familiar prawns
-      and shrimps, but belong to a totally different group. Mantis shrimp can hurt
-      you. Don't touch them! They have pincers modified into fearsome weapons.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They resemble familiar prawns and shrimps, but belong to a totally different
-      group. Mantis shrimp can hurt you. Don't touch them! They have pincers modified
-      into fearsome weapons.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/spearer/050707cftg9086m3.jpg
     caption: Changi, Jul 05
@@ -105,9 +96,12 @@ links_references: '**Links**
 size:
 - 10.0
 - 30.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They resemble familiar prawns and shrimps, but belong to a totally different group
+- Mantis shrimp can hurt you. Don't touch them! They have pincers modified into fearsome
+  weapons.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 These large and busy shrimp-like animals are often seen on our Northern shores, especially among seagrasses.

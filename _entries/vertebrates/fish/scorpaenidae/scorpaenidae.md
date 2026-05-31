@@ -20,15 +20,6 @@ suborder: Scorpaenoidei
 updated: Oct 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/picta/110730tmftd7492m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They are well camouflaged.
-      Look carefully to find them. Some have venomous spines. Don't handle them! Their
-      venom is only used for protection from predators and not to catch prey.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They are well camouflaged. Look carefully to find them. Some have venomous
-      spines. Don't handle them! Their venom is only used for protection from predators
-      and not to catch prey.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/picta/110730tmftd7492m3.jpg
     caption: Perfectly camouflaged! Tanah Merah, Jul 11
@@ -121,9 +112,14 @@ location:
 - hnt
 - smk
 - lfa
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They are well camouflaged
+- Look carefully to find them
+- Some have venomous spines
+- Don't handle them! Their venom is only used for protection from predators and not
+  to catch prey.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 These prickly well-camouflaged fishes are seen on many of our shores, in seagrass and coral rubble areas. Masters of disguise, some can also be very small. Most stay motionless and thus do not betray their presence through movement. Patience and a keen eye is required to spot one.

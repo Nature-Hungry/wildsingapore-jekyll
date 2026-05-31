@@ -34,15 +34,6 @@ links_references: "**Links**\n- [Soft\n  corals (Order Alcyonacea)](http://mangr
   \ Cladiella species*. The Raffles\n  Bulletin of Zoology 58(1) Pp. 1-13.\n- Borneman,\n\
   \  Eric H. 2001. *Aquarium\n"
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They are animals! Although
-      they look like plants. Don't step on them. They don't produce a hard skeleton.
-      Each soft coral is a colony of countless tiny polyps.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They are animals! Although they look like plants. Don't step on them.
-      They don't produce a hard skeleton. Each soft coral is a colony of countless
-      tiny polyps.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/neppink/080705bbd6921m3.jpg
     caption: Beting Bronok, Jul 08 Polyps of a flowery soft coral
@@ -113,9 +104,12 @@ galleries:
       on the Environment. 163pp. Ng, P. K. L. & Y. C. Wee, 1994. The Singapore Red
       Data Book: Threatened Plants and Animals of Singapore . The Nature Society (Singapore),
       Singapore. 343 pp.'
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They are animals! Although they look like plants. Don't step on them
+- They don't produce a hard skeleton
+- Each soft coral is a colony of countless tiny polyps.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Soft corals are commonly seen on many of our shores. Some resemble flowery bushes, others giant leathery disks. Yet others are tiny and overlooked. They are found growing on boulders and other hard surfaces, as well as among coral rubble and living hard corals on the reef flats.

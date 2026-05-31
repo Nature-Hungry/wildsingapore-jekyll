@@ -22,15 +22,6 @@ suborder: Brachycnemina
 updated: Dec 2019
 coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/zoanthus/040804skdd4111m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They are like tiny sea anemones
-      with long bodies. Some may be highly toxic. Don't touch them! They are small
-      and may retract at low tide. Don't step on them!
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They are like tiny sea anemones with long bodies. Some may be highly
-      toxic. Don't touch them! They are small and may retract at low tide. Don't step
-      on them!
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/zoanthus/040804skdd4111m3.jpg
     caption: Pulau Sekudu, Aug 04
@@ -104,9 +95,11 @@ size:
 - 10.0
 - 15.0
 - 1.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They are like tiny sea anemones with long bodies
+- Don't touch them! They are small and may retract at low tide. Don't step on them!
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Like a carpet of tiny flowers, these animals are often seen on many of our shores, growing on stones and coral rubble, as well as under seagrasses in vast seagrass meadows.

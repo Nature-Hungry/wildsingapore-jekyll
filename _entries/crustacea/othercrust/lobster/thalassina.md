@@ -27,16 +27,6 @@ infraorder: Gebiidea
 updated: Mar 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/thalassina/011114cjd689m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They are rarely seen but are
-      a vital part of a healthy mangrove. They are responsible for the huge mounds
-      of mud in the back mangroves. Many other plants and animals live and feed on
-      these mounds.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They are rarely seen but are a vital part of a healthy mangrove. They
-      are responsible for the huge mounds of mud in the back mangroves. Many other
-      plants and animals live and feed on these mounds.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/thalassina/011114cjd689m3.jpg
     caption: Chek Jawa, Nov 01
@@ -152,9 +142,12 @@ location:
 - cj
 size:
 - 30.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They are rarely seen but are a vital part of a healthy mangrove
+- They are responsible for the huge mounds of mud in the back mangroves
+- Many other plants and animals live and feed on these mounds.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 The mud lobster is almost never seen out of its burrow in the mangrove mud. But the impressive mounds created by this animal are still commonly seen in the undisturbed back mangroves on our shores.

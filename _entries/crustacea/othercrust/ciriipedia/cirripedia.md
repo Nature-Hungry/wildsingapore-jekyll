@@ -11,19 +11,6 @@ species: ''
 updated: Mar 2020
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They are NOT clams or even
-      snails! They are more similar to crabs and shrimps! A living barnacle has a
-      door over the opening in its shell. A dead one has a gaping hole. Other animals
-      may shelter in the empty shell. Barnacles affect urban living. They grow on
-      ships and thus affect shipping. Cities rely on ships for supplies and transportation!
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They are NOT clams or even snails! They are more similar to crabs and
-      shrimps! A living barnacle has a door over the opening in its shell. A dead
-      one has a gaping hole. Other animals may shelter in the empty shell. Barnacles
-      affect urban living. They grow on ships and thus affect shipping. Cities rely
-      on ships for supplies and transportation!
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/050510tusg6173m3.jpg
     caption: A variety of barnacles. Tuas, May 05
@@ -149,9 +136,16 @@ links_references: '**Links**
   . 5
 
   '
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They are NOT clams or even snails! They are more similar to crabs and shrimps! A
+  living barnacle has a door over the opening in its shell
+- A dead one has a gaping hole
+- Other animals may shelter in the empty shell
+- Barnacles affect urban living
+- They grow on ships and thus affect shipping
+- Cities rely on ships for supplies and transportation!
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Barnacles are often ignored as our attention is drawn to more colourful and attractive shore animals. But barnacles are fascinating in their own right! Barnacles will grow on any hard surface immersed in seawater, so they are found literally everywhere in the intertidal zone. Barnacles are found on rocks, mangrove trees, pillars, boats. Barnacles are even found on other animals such as

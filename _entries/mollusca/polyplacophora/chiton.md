@@ -20,15 +20,6 @@ superfamily: Pinnoidea
 updated: Jun 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/120125chgd6162m6l.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Although they have segmented
-      shells, they are molluscs and not crustaceans. Most are tiny and hard to spot.
-      They cling on tenaciously. Don't try to pry them off. Leave them alone!
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Although they have segmented shells, they are molluscs and not crustaceans.
-      Most are tiny and hard to spot. They cling on tenaciously. Don't try to pry
-      them off. Leave them alone!
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/120125chgd6162m6l.jpg
     caption: Changi, Jan 12
@@ -173,9 +164,14 @@ size:
 - 3.0
 - 12.0
 - 300.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Although they have segmented shells, they are molluscs and not crustaceans
+- Most are tiny and hard to spot
+- They cling on tenaciously
+- Don't try to pry them off
+- Leave them alone!
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 These odd creatures with segmented armour is sometimes seen on many of our shores. On hard surfaces such as rocks as well as large flat clams such as Window pane shell clams (Placuna sp.) and Fan shell clams (Family Pinnidae). Most are tiny and overlooked. But once,

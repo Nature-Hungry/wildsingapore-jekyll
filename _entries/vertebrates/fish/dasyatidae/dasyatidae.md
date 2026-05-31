@@ -20,16 +20,6 @@ order: Myliobatiformes
 updated: Sep 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/walga/030717skdd0039m6l.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They are related to sharks
-      and have cartilage instead of bones. They swim by undulating greatly enlarged
-      pectoral fins. They will not sting unless you handle them or step on them. Watch
-      your step!
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They are related to sharks and have cartilage instead of bones. They
-      swim by undulating greatly enlarged pectoral fins. They will not sting unless
-      you handle them or step on them. Watch your step!
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/walga/030717skdd0039m6l.jpg
     caption: Swimming. Pulau Sekudu, May 04
@@ -200,9 +190,13 @@ location:
 - skd
 size:
 - 400.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They are related to sharks and have cartilage instead of bones
+- They swim by undulating greatly enlarged pectoral fins
+- They will not sting unless you handle them or step on them
+- Watch your step!
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Like strange 'flying' saucers with bulbous eyes and long whip-like tails, these fishes are often seen in our mangroves and coral reefs. They can sting painfully! These fishes often hide in silty bottoms and under coral ledges, watch where you step and where you put your hand.

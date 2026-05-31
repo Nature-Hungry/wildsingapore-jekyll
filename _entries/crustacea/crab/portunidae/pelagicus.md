@@ -60,14 +60,6 @@ links_references: "**Links**\n- [Flower\n  Crab (*Portunus pelagicus*)](http://m
   \ Guide to Crustaceans of\n  Australian Waters*. Reed New Holland. 224 pp.\n- Edward\
   \ E.\n  Ruppert, Richard S. Fox, Robert D. Barnes. 2004. *Invertebrate\n"
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They are edible and among our
-      favourite seafood. They can swim fast using their paddle-shaped last legs. They
-      do not survive long out of water.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They are edible and among our favourite seafood. They can swim fast using
-      their paddle-shaped last legs. They do not survive long out of water.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/pelagicus/050622cftg8190m3.jpg
     caption: Changi, Jun 05
@@ -153,9 +145,12 @@ size:
 - 7.0
 - 20.0
 rdb: NE
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They are edible and among our favourite seafood
+- They can swim fast using their paddle-shaped last legs
+- They do not survive long out of water.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Flower crabs are among our favourite seafood! It is commonly seen on many of our shores, especially the Northern shores and those with seaweeds and seagrasses. But it is not easy to spot. If trapped in a pool at low tide, it buries itself in the sand or mud. Besides the larger adults, there are also lots of smaller juvenile flower crabs hiding among the seagrass and seaweeds.

@@ -25,15 +25,6 @@ suborder: Triacanthodoidei
 updated: Nov 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/triacanthidae/triacanthidae/020225cjcpd7376m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... These fishes can be tiny and
-      well camouflaged. Watch your step! They do indeed have three spines. Don't take
-      the fish out of the water or it may die.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: These fishes can be tiny and well camouflaged. Watch your step! They
-      do indeed have three spines. Don't take the fish out of the water or it may
-      die.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/triacanthidae/triacanthidae/020225cjcpd7376m3.jpg
     caption: Chek Jawa, Feb 02
@@ -171,9 +162,12 @@ location:
 size:
 - 6.0
 - 25.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- These fishes can be tiny and well camouflaged
+- Watch your step! They do indeed have three spines
+- Don't take the fish out of the water or it may die.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 These flat silvery fishes with surprising pointy spines can sometimes be commonly seen on our Northern shores, among seagrasses. Some may be tiny (less than 3cm) and being flat, virtually disappear when seen from above. Larger ones may be seen in streams flowing out of the mangroves during low tide. They are often caught in fishing nets.

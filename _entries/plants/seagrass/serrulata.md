@@ -24,14 +24,6 @@ order: Alismatales
 updated: Sep 2017
 rdb: EN
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... This seagrass is rarely seen
-      on our shores. It doesn't flower frequently, and the flowers are small. It is
-      eaten by dugongs.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: This seagrass is rarely seen on our shores. It doesn't flower frequently,
-      and the flowers are small. It is eaten by dugongs.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/serrulata/110830cyrd0552m3a.jpg
     caption: Cyrene Reef, Aug 11
@@ -97,9 +89,12 @@ location:
 - cyr
 - smk
 - tsm
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- This seagrass is rarely seen on our shores
+- It doesn't flower frequently, and the flowers are small
+- It is eaten by dugongs.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 These seagrasses are common on Pulau Semakau, growing among the more dominant

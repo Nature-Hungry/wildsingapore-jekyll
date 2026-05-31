@@ -20,14 +20,6 @@ suborder: Apogonoidei
 updated: Sep 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/margaritophorus/031125hntad0022m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They have large eyes, mouth
-      and scales. Some are colourful. The male broods the eggs in his mouth. Don't
-      touch them, some can give a nasty bite!
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They have large eyes, mouth and scales. Some are colourful. The male
-      broods the eggs in his mouth. Don't touch them, some can give a nasty bite!
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/margaritophorus/031125hntad0022m3.jpg
     caption: Sometimes found in groups. Pulau Hantu, Nov 03
@@ -111,9 +103,13 @@ location:
 size:
 - 3.0
 - 5.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They have large eyes, mouth and scales
+- Some are colourful
+- The male broods the eggs in his mouth
+- Don't touch them, some can give a nasty bite!
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 These big-eyed fishes are commonly seen on many of our shores. They are small and often well hidden in pools. They swim about more actively at night than during the day.

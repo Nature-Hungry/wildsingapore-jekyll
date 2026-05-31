@@ -28,15 +28,6 @@ order: Orectolobiformes
 updated: Oct 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/selachii/selachii/070228hnttch2m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Sharks can still be found in
-      Singapore waters! They will not harm humans if they are left alone. As top predators,
-      they play an important role in the health and balance of the marine ecosystem.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Sharks can still be found in Singapore waters! They will not harm humans
-      if they are left alone. As top predators, they play an important role in the
-      health and balance of the marine ecosystem.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/selachii/selachii/070228hnttch2m3.jpg
     caption: Bamboo shark spotted diving. Pulau Hantu, Feb 07 Photo shared by Toh
@@ -210,9 +201,13 @@ location:
 - smk
 - tsm
 - rfl
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Sharks can still be found in Singapore waters! They will not harm humans if they
+  are left alone
+- As top predators, they play an important role in the health and balance of the marine
+  ecosystem.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Sharks are sometimes seen by divers in our waters, and during intertidal trips to Singapore's southern submerged reefs.

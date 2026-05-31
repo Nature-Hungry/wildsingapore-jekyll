@@ -19,15 +19,6 @@ order: Scleractinia
 updated: Nov 2019
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... These small corals are common
-      on stones and rocks. Don't step on them! They have a distinctive black-and-white
-      skeleton. Polyps on submerged portions may be extended, look for them.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: These small corals are common on stones and rocks. Don't step on them!
-      They have a distinctive black-and-white skeleton. Polyps on submerged portions
-      may be extended, look for them.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/oulastrea/120407lazd8127m3.jpg
     caption: Lazarus, Apr 12
@@ -148,9 +139,12 @@ location:
 size:
 - 10.0
 - 15.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- These small corals are common on stones and rocks. Don't step on them! They have
+  a distinctive black-and-white skeleton
+- Polyps on submerged portions may be extended, look for them.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 This hard coral with a black-and-white skeleton is among the most commonly encountered of our hard corals. Even rather 'beat up' shores may have small colonies encrusting rocks and stones. This hardy coral grows in murky waters and even where it is often exposed to air at low tide. Elsewhere, the colonies are encrusting and grow only to a few centimetres.

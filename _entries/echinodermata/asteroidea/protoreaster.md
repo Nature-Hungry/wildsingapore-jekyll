@@ -24,15 +24,6 @@ order: Valvatida
 updated: Jul 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/protoreaster/040508skdbd0025m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They are no longer common on
-      all our shores. They come in a wide variety of colours and knob patterns. They
-      use water to pump up their bodies. Don't remove them from water for too long.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They are no longer common on all our shores. They come in a wide variety
-      of colours and knob patterns. They use water to pump up their bodies. Don't
-      remove them from water for too long.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/protoreaster/040508skdbd0025m3.jpg
     caption: Pulau Sekudu, May 04
@@ -184,9 +175,12 @@ size:
 - 8.0
 - 15.0
 rdb: EN
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They are no longer common on all our shores
+- They come in a wide variety of colours and knob patterns
+- They use water to pump up their bodies. Don't remove them from water for too long.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 This huge and colourful sea star is sometimes on some of our undisturbed Northern and Southern Shores. Adults are usually seen in coral rubble areas, sometimes many individuals gathered together. These spectacular animals are the highlight of a shore trip! According to Marsh and Fromont, it is found on mud, sand, seagrass flats, sandy coral reef flats in Australia.

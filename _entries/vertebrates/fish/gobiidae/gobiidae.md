@@ -20,15 +20,6 @@ suborder: Gobioidei
 updated: Sep 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/stethophthalmus/020811cjcpd0419m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Gobies are the largest family
-      of marine fishes with about 1,800 species! Some gobies live with snapping shrimps,
-      others in corals. They are well camouflaged. Watch your step!
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Gobies are the largest family of marine fishes with about 1,800 species!
-      Some gobies live with snapping shrimps, others in corals. They are well camouflaged.
-      Watch your step!
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/stethophthalmus/020811cjcpd0419m3.jpg
     caption: Gobies can be colourful! Chek Jawa, Aug 02
@@ -163,9 +154,13 @@ location:
 size:
 - 5.0
 - 10.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Gobies are the largest family of marine fishes with about 1,800 species! Some gobies
+  live with snapping shrimps, others in corals
+- They are well camouflaged
+- Watch your step!
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Gobies are abundant on many of our shores. But they are hard to spot. At the slightest sign of danger, they bolt into burrows or dart under rocks. Even in plain sight, they blend in with the sand and mud. So watch your step or you might squash a tiny fish! Besides those that are found in pools, another kind of familiar goby found on our shores are the

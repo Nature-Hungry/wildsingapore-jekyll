@@ -33,8 +33,6 @@ size:
 - 10.0
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
-
 ## Where seen?
 These translucent blobs are sometimes seen on our mudflats and sandflats. Seasonally, in large numbers.
 

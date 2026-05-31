@@ -21,17 +21,6 @@ subfamily: Pomacentrinae
 updated: Sep 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/140713tsmkd7177m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Anemonefish need their anemones.
-      Do not disturb them or their anemones. One anemone may be home to many anemonefishes.
-      These fishes are threatened by over-collection for the aquarium trade. Don't
-      keep Nemo in your home, he belongs in the ocean.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Anemonefish need their anemones. Do not disturb them or their anemones.
-      One anemone may be home to many anemonefishes. These fishes are threatened by
-      over-collection for the aquarium trade. Don't keep Nemo in your home, he belongs
-      in the ocean.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/140713tsmkd7177m3.jpg
     caption: In a Magnificent anemone . Terumbu Semakau, Jul 14
@@ -103,9 +92,16 @@ location:
 - lfa
 size:
 - 9.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Anemonefish need their anemones
+- Do not disturb them or their anemones
+- One anemone may be home to many anemonefishes
+- These fishes are threatened by over-collection for the aquarium trade
+- Don't keep Nemo in your home, he belongs in the ocean.
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?
+## Where seen?
 Made famous by the cartoon "Finding Nemo", these fishes are a delight and the highlight of a trip. Anemonefishes are commonly seen among the sea anemones of our Southern shores. At low tide, they may shelter in a pool nearby while their anemone is left high and dry.
 
 **What are anemonefishes?**

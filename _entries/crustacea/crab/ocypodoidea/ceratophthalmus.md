@@ -34,16 +34,6 @@ complex: Ocypode ceratophthalmus
 updated: Mar 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/ceratophthalmus/060713rlhd4149m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They only seen at night. But
-      the large holes to their burrows are commonly seen on sandy shores near the
-      high water mark. Their burrows are deep. Don't try to dig them up. They can
-      move very fast.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They only seen at night. But the large holes to their burrows are commonly
-      seen on sandy shores near the high water mark. Their burrows are deep. Don't
-      try to dig them up. They can move very fast.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/ceratophthalmus/060713rlhd4149m3.jpg
     caption: Raffles Lighthouse, Jul 06
@@ -136,9 +126,16 @@ size:
 - 6.0
 - 8.0
 rdb: LC
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They only seen at night
+- But the large holes to their burrows are commonly seen on sandy shores near the
+  high water mark
+- Their burrows are deep. Don't try to dig them up
+- They can move very fast.
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?
+## Where seen?
 This large but elusive crab is commonly seen on many of our shores. Yet, it is hard to spot. It probably got its common name because it is active only at night, and it moves so swiftly over the sand that you usually literally only get a ghostly glimpse as it skitters away in the darkness.
 
 ## Features

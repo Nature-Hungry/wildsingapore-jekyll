@@ -19,16 +19,6 @@ superfamily: Cerithioidea
 updated: Sep 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5519m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... You are almost certain to see
-      these large snails during a visit to our mangroves. Many are edible and were
-      eaten in the past, less so these days. Most are harmless herbivores, nibbling
-      on algae.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: You are almost certain to see these large snails during a visit to our
-      mangroves. Many are edible and were eaten in the past, less so these days. Most
-      are harmless herbivores, nibbling on algae.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5519m3.jpg
     caption: Rodong snails mating? Sungei Buloh Wetland Reserve, Mar 06
@@ -155,9 +145,12 @@ location:
 - lab
 - kus
 - smk
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- You are almost certain to see these large snails during a visit to our mangroves
+- Many are edible and were eaten in the past, less so these days
+- Most are harmless herbivores, nibbling on algae.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Horn snails are common in our mangroves but often overlooked. Small ones creep on mangrove tree trunks and leaves, larger ones are found on mud.

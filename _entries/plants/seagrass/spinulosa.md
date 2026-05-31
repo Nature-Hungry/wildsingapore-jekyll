@@ -27,14 +27,6 @@ order: Alismatales
 updated: Mar 14
 rdb: CR
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... It is made of up little leaflets.
-      It is most commonly seen on Chek Jawa, but rarely seen elsewhere. It is eaten
-      by dugongs.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: It is made of up little leaflets. It is most commonly seen on Chek Jawa,
-      but rarely seen elsewhere. It is eaten by dugongs.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/spinulosa/110916cjd1153m6l.jpg
     caption: Chek Jawa, Sep 11
@@ -95,9 +87,12 @@ location:
 - chg
 - cj
 - skd
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- It is made of up little leaflets
+- It is most commonly seen on Chek Jawa, but rarely seen elsewhere
+- It is eaten by dugongs.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 The seagrass is sometimes seen in small patches on some of our Northern shores. But on Chek Jawa and some parts of Changi, it forms extensive meadows. The

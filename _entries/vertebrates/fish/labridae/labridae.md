@@ -20,15 +20,6 @@ suborder: Labroidei
 updated: Sep 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/pteragogus/080409tusd0842m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They belong to the second largest
-      family of fishes after gobies. Young fish may look very different from adults.
-      Some can give a nasty bite. Don't touch them!
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They belong to the second largest family of fishes after gobies. Young
-      fish may look very different from adults. Some can give a nasty bite. Don't
-      touch them!
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/pteragogus/080409tusd0842m3.jpg
     caption: Well camouflaged! Tuas, Apr 08
@@ -111,9 +102,13 @@ location:
 - smk
 - tsm
 - lfa
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They belong to the second largest family of fishes after gobies
+- Young fish may look very different from adults
+- Some can give a nasty bite
+- Don't touch them!
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 These colourful fishes are sometimes seen on many of our shores. Among the more colourful little fishes to be seen in tide pools at low tide, wrasses are nevertheless often overlooked as they are often well hidden. Many are active during the day, sheltering during the night in hiding places. Small ones may burrow into sand.

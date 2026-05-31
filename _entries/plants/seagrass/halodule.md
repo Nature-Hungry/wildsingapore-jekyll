@@ -25,14 +25,6 @@ order: Alismatales
 updated: Mar 14
 rdb: VU
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Identified by prominent central
-      mid-rib vein. It deson't flower frequently, and the flowers are small. It is
-      eaten by dugongs.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Identified by prominent central mid-rib vein. It deson't flower frequently,
-      and the flowers are small. It is eaten by dugongs.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/halodule/050822cjg2120m3c.jpg
     caption: Long skinny Halodule. Chek Jawa, Aug 05
@@ -109,9 +101,12 @@ location:
 - cyr
 - smk
 - tsm
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Identified by prominent central mid-rib vein
+- It deson't flower frequently, and the flowers are small
+- It is eaten by dugongs.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 This thin flat needle-like seagrass is sometimes seen on some of our shores, often mixed with other seagrasses. But luxuriant growths are more commonly seen on large natural shores such as Chek Jawa, where it is commonly found on the seaward side of the sand bars. The

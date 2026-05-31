@@ -12,15 +12,6 @@ attributes: []
 updated: Sep 2019
 coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/pennatulacea/spiky/081216prpd3387m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Each sea pen is a colony of
-      many animals living together. Small crabs and other creatures often live among
-      the fronds. At low tide, they retract into the ground. Don't step on them!
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Each sea pen is a colony of many animals living together. Small crabs
-      and other creatures often live among the fronds. At low tide, they retract into
-      the ground. Don't step on them!
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/pennatulacea/spiky/081216prpd3387m3.jpg
     caption: The orange foot is visible in this Spiky sea fan that washed ashore.
@@ -109,9 +100,12 @@ links_references: '**Links**
 size:
 - 15.0
 - 25.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Each sea pen is a colony of many animals living together
+- Small crabs and other creatures often live among the fronds
+- At low tide, they retract into the ground. Don't step on them!
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 These strange animals are commonly seen on our Northern shores. In soft, silty sand near seagrasses. At low tide, they are often retracted completely into the sand. Sometimes, an "uprooted" sea pen might be seen washed up on the shore or stranded in a pool.

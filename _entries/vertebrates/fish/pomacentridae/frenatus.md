@@ -28,16 +28,6 @@ subfamily: Pomacentrinae
 updated: Sep 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/frenatus/040829kusg1741m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about it ... The fish needs its host anemone.
-      Do not disturb it or the anemone. One anemone may be home to many anemonefishes.
-      These fishes are threatened by over-collection for the aquarium trade. Don't
-      keep Nemo in your home, he belongs in the ocean.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: The fish needs its host anemone. Do not disturb it or the anemone. One
-      anemone may be home to many anemonefishes. These fishes are threatened by over-collection
-      for the aquarium trade. Don't keep Nemo in your home, he belongs in the ocean.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/frenatus/040829kusg1741m3.jpg
     caption: Kusu Island, Aug 04
@@ -201,9 +191,14 @@ location:
 size:
 - 5.0
 - 14.0
+trivia_title: if you learn only 3 things about it ..
+trivia_items:
+- The fish needs its host anemone
+- Do not disturb it or the anemone
+- One anemone may be home to many anemonefishes
+- These fishes are threatened by over-collection for the aquarium trade
+- Don't keep Nemo in your home, he belongs in the ocean.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 This beautiful anemonefish with a white 'head band' lives mainly in the

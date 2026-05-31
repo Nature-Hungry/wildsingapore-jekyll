@@ -20,16 +20,6 @@ infraorder: Kampylomyaria
 updated: Aug 2025
 coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/ribbon/110323tsmkd7813m6la.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They are not fish! Many can
-      sting. Don't touch jellyfish, even those stranded on the beach. Sea turtles
-      eat jellyfishes and often mistake plastic bags for jellyfishes. Turtles can
-      die from accidentally eating the bags.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They are not fish! Many can sting. Don't touch jellyfish, even those
-      stranded on the beach. Sea turtles eat jellyfishes and often mistake plastic
-      bags for jellyfishes. Turtles can die from accidentally eating the bags.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/ribbon/110323tsmkd7813m6la.jpg
     caption: The Ribbon jellyfish has thin tentacles and thick ruffled long arms.
@@ -158,9 +148,13 @@ links_references: '**Links**
   . 5
 
   '
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They are not fish! Many can sting. Don't touch jellyfish, even those stranded on
+  the beach
+- Sea turtles eat jellyfishes and often mistake plastic bags for jellyfishes
+- Turtles can die from accidentally eating the bags.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Almost everyone knows what a jellyfish looks like! These blobs of jelly are creatures of the open waters and are only sometimes encountered on the shores. In the water, these elegant creatures are a delight to watch. Sometimes, they are trapped in a pool. More unluckily, they are sometimes stranded on the shore and look like sorry heaps of jelly. But no matter where you see them, don't touch them!

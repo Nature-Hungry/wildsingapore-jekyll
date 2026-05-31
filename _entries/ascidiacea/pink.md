@@ -1,7 +1,9 @@
 ---
-title: 'Pink ascidians (Ascidiacea)'
+title: Pink ascidians (Ascidiacea)
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 updated: Nov 2019
 phylum: Chordata
@@ -37,13 +39,16 @@ galleries:
     caption: Pulau Semakau South, Oct 18 Photo shared by Chong SiewMin on facebook.
   - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/pink/100601slud4718m3.jpg
     caption: Pulau Salu, Jun 10
-links_references: "**Links**
+links_references: '**Links**
 
-  - Various *Eudistoma* sp. in the [Family Polycitoridae](https://singapore.biodiversity.online/taxon/A-Tuni-Asci-Aplo-Polycitoridae) on The Biodiversity of Singapore website of the Lee Kong Chian Natural History Museum.
-  
+  - Various *Eudistoma* sp. in the [Family Polycitoridae](https://singapore.biodiversity.online/taxon/A-Tuni-Asci-Aplo-Polycitoridae)
+  on The Biodiversity of Singapore website of the Lee Kong Chian Natural History Museum.
+
   **References**
-  
-  - Serina S-C Lee, Janlin Y-H Chan, Serena L-M Teo & Gretchen Lambert. *State of knowledge of ascidian diversity in South China Sea and new records for Singapore*. 29 June 2016. Raffles Bulletin of Zoology Supplement No. 34: 718-743."
+
+  - Serina S-C Lee, Janlin Y-H Chan, Serena L-M Teo & Gretchen Lambert. *State of
+  knowledge of ascidian diversity in South China Sea and new records for Singapore*.
+  29 June 2016. Raffles Bulletin of Zoology Supplement No. 34: 718-743.'
 location:
 - cj
 - skd

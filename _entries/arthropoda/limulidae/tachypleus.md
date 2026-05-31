@@ -39,7 +39,8 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/arthropoda/limulidae/tachypleus/090428chgd0767m3a.jpg
     caption: Tail with a groove on the underside near the body.
   - url: https://f003.backblazeb2.com/file/naturehungry/arthropoda/limulidae/tachypleus/071002chgd6898m3b.jpg
-    caption: Tail near the body is triangular in cross-section with small spines on the upperside.
+    caption: Tail near the body is triangular in cross-section with small spines on
+      the upperside.
   gallery3:
   - url: https://f003.backblazeb2.com/file/naturehungry/arthropoda/limulidae/tachypleus/201020chgsafmn6.jpg
     caption: Changi, Oct 20 Photo shared by Marcus Ng on facebook.
@@ -85,18 +86,26 @@ galleries:
     caption: Pulau Semakau, Oct 18 Photo shared by Marcus Ng and flickr.
 links_references: '**Links**
 
-  - [Horseshoe Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/175) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore. 160 pp.
+  - [Horseshoe Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/175) Tan, Leo W.
+  H. & Ng, Peter K. L., 1988. *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.
+  The Singapore Science Centre, Singapore. 160 pp.
 
-  - [*Tachypleus gigas*](https://singapore.biodiversity.online/taxo4254/mainSpace/tachypleus%20gigas.html) (Xiphosura: Limulidae) Coastal Horseshoe Crab by Leng Jun Mun Germaine, 2013 on taxo4254.
+  - [*Tachypleus gigas*](https://singapore.biodiversity.online/taxo4254/mainSpace/tachypleus%20gigas.html)
+  (Xiphosura: Limulidae) Coastal Horseshoe Crab by Leng Jun Mun Germaine, 2013 on
+  taxo4254.
 
-  - [*Tachypleus gigas*](http://www.iucnredlist.org/details/21308/0) on the IUCN Red List.
+  - [*Tachypleus gigas*](http://www.iucnredlist.org/details/21308/0) on the IUCN Red
+  List.
 
-  - [Coastal horseshoe crab (*Tachypleus gigas*)](http://www.sealifebase.fisheries.ubc.ca/summary/Tachypleus-gigas.html) on SeaLife Base.
+  - [Coastal horseshoe crab (*Tachypleus gigas*)](http://www.sealifebase.fisheries.ubc.ca/summary/Tachypleus-gigas.html)
+  on SeaLife Base.
 
 
   **References**
 
-  - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore Red Data Book: Threatened plants and animals of Singapore*. Nature Society (Singapore). 285 pp.
+  - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore Red Data
+  Book: Threatened plants and animals of Singapore*. Nature Society (Singapore). 285
+  pp.
 
   '
 location:

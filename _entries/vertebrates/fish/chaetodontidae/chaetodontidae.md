@@ -20,15 +20,6 @@ order: Acanthuriformes
 updated: Sep 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/chaetodontidae/ocellatus/050721cjg9723m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Colourful stripes. With false
-      eye on the dorsal fin or tail base. They have small pointed snouts with brush-like
-      teeth. They do poorly in aquariums. Don't collect them.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Colourful stripes. With false eye on the dorsal fin or tail base. They
-      have small pointed snouts with brush-like teeth. They do poorly in aquariums.
-      Don't collect them.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/chaetodontidae/ocellatus/050721cjg9723m3.jpg
     caption: Sometimes many are seen together. Chek Jawa, Jul 05
@@ -113,9 +104,14 @@ size:
 - 20.0
 - 5.0
 - 10.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Colourful stripes
+- With false eye on the dorsal fin or tail base
+- They have small pointed snouts with brush-like teeth
+- They do poorly in aquariums
+- Don't collect them.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 People are generally surprised to hear that colourful butterflyfishes are commonly seen on many of our shores. They usually hide among coral rubble and rocks, or among seagrasses. Fishes seen range from tiny ones less than 5cm to larger ones up to 20cm. Butterflyfishes are generally active during the day and hide in safe resting places at night.

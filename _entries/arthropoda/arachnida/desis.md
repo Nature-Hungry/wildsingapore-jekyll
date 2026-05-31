@@ -94,24 +94,34 @@ galleries:
     caption: Pulau Salu, Apr 21 Photo shared by Jianlin Liu on facebook.
 links_references: '**Links**
 
-  - [*Desis martensi*](http://www.nparks.gov.sg/cms/docs/redbook/2aDesis%20martensi.pdf) on Singapore Red Data Book 2008 on the NParks website (pdf).
+  - [*Desis martensi*](http://www.nparks.gov.sg/cms/docs/redbook/2aDesis%20martensi.pdf)
+  on Singapore Red Data Book 2008 on the NParks website (pdf).
 
-  - [Webs under water: The really bizarre lives of intertidal spiders](https://news.mongabay.com/2018/02/webs-under-water-the-really-bizarre-lives-of-intertidal-spiders/) by Bhanu Sridharan, Mongabay, 15 Feb 2018. About Desis around the world.
+  - [Webs under water: The really bizarre lives of intertidal spiders](https://news.mongabay.com/2018/02/webs-under-water-the-really-bizarre-lives-of-intertidal-spiders/)
+  by Bhanu Sridharan, Mongabay, 15 Feb 2018. About Desis around the world.
 
-  - [Palp romance](http://budak.blogs.com/the_annotated_budak/2012/06/) on The Annotated Budak: Marcus Ng shares some history about the discovery and thought about this spider.
+  - [Palp romance](http://budak.blogs.com/the_annotated_budak/2012/06/) on The Annotated
+  Budak: Marcus Ng shares some history about the discovery and thought about this
+  spider.
 
-  - [*Desis martensi* (Marine Spider)](https://wiki.nus.edu.sg/display/TAX/Desis+martensi+-+Marine+Spider) , on Taxo4254 Wiki.nus by Ng Weng Loong Kieron Gabriel, 15 Jan 2019
+  - [*Desis martensi* (Marine Spider)](https://wiki.nus.edu.sg/display/TAX/Desis+martensi+-+Marine+Spider)
+  , on Taxo4254 Wiki.nus by Ng Weng Loong Kieron Gabriel, 15 Jan 2019
 
-  - [*Desis martensi*](https://singapore.biodiversity.online/species/A-Arth-Arac-Aran-000046) on The Biodiversity of Singapore at the Lee Kong Chian Natural History Museum.
+  - [*Desis martensi*](https://singapore.biodiversity.online/species/A-Arth-Arac-Aran-000046)
+  on The Biodiversity of Singapore at the Lee Kong Chian Natural History Museum.
 
 
   **References**
 
-  - Wee Y.C. and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore* . National Council on the Environment. 163pp.
+  - Wee Y.C. and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*
+  . National Council on the Environment. 163pp.
 
-  - Ng, P. K. L. & Y. C. Wee, 1994. *The Singapore Red Data Book: Threatened Plants and Animals of Singapore* . The Nature Society (Singapore), Singapore. 343 pp.
+  - Ng, P. K. L. & Y. C. Wee, 1994. *The Singapore Red Data Book: Threatened Plants
+  and Animals of Singapore* . The Nature Society (Singapore), Singapore. 343 pp.
 
-  - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore Red Data Book: Threatened plants and animals of Singapore* . Nature Society (Singapore). 285 pp.
+  - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore Red Data
+  Book: Threatened plants and animals of Singapore* . Nature Society (Singapore).
+  285 pp.
 
   '
 location:

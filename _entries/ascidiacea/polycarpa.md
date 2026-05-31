@@ -1,7 +1,9 @@
 ---
-title: 'Thumbs-up sea squirt (Polycarpa)'
+title: Thumbs-up sea squirt (Polycarpa)
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: solitary, ascidian, squirt, seasquirt, polycarpa, tunicate, ascidiacea, urochordate, chordate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: solitary, ascidian, squirt, seasquirt, polycarpa, tunicate, ascidiacea,
+  urochordate, chordate, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 updated: Feb 2020
 phylum: Chordata
@@ -20,7 +22,8 @@ coverimg: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/polycarpa/02
 galleries:
   gallery1:
   - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/polycarpa/020630chgcpd1380m3.jpg
-    caption: They settle near the low water mark at the base of rocks. Changi, Jun 02
+    caption: They settle near the low water mark at the base of rocks. Changi, Jun
+      02
   - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/polycarpa/031223tused0036m3.jpg
     caption: Tuas, Dec 03
   - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/polycarpa/031223tused0036m3a.jpg
@@ -44,14 +47,19 @@ galleries:
     caption: Lazarus Island, Jan 24 Photo shared by Lam Jiajun on facebook.
 links_references: '**Links**
 
-  - [Sea Squirt *Polycarpa*](http://mangrove.nus.edu.sg/pub/seashore/text/226) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore. 160 pp.
+  - [Sea Squirt *Polycarpa*](http://mangrove.nus.edu.sg/pub/seashore/text/226) Tan,
+  Leo W. H. & Ng, Peter K. L., 1988. *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.
+  The Singapore Science Centre, Singapore. 160 pp.
 
 
   **References**
 
-  - [Family Styelidae](https://singapore.biodiversity.online/taxon/A-Tuni-Asci-Stol-Styelidae) on The Biodiversity of Singapore website of the Lee Kong Chian Natural History Museum.
+  - [Family Styelidae](https://singapore.biodiversity.online/taxon/A-Tuni-Asci-Stol-Styelidae)
+  on The Biodiversity of Singapore website of the Lee Kong Chian Natural History Museum.
 
-  - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life and Times of Labrador Beach*. Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+  - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life and Times
+  of Labrador Beach*. Division of Biology, School of Science, Nanyang Technological
+  University & Department of Zoology, the National University of Singapore. 160 pp.
 
   '
 location:

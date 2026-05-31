@@ -19,15 +19,6 @@ superfamily: Buccinoidea
 updated: Jul 2020
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... These small pretty snails are
-      often hidden under stones. Some are well camouflaged. Look carefully for them.
-      Some shells may contain tiny hermit crabs and not living snails!
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: These small pretty snails are often hidden under stones. Some are well
-      camouflaged. Look carefully for them. Some shells may contain tiny hermit crabs
-      and not living snails!
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/columbellidae/ocellata/041212kusd8725m3.jpg
     caption: Kusu Island, Dec 04
@@ -98,9 +89,15 @@ location:
 size:
 - 1.0
 - 2.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- These small pretty snails are often hidden under stones
+- Some are well camouflaged
+- Look carefully for them
+- Some shells may contain tiny hermit crabs and not living snails!
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?
+## Where seen?
 These pretty small snails can be common on some of our natural rocky shores and also in our seagrass meadows. But they are usually overlooked, the pretty patterns on their shells sometimes hidden by algae and encrusting animals.
 
 ## Features

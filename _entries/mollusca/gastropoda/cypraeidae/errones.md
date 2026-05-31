@@ -29,16 +29,6 @@ tribe: Erroneini
 updated: Jul 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/errones/110123sisd5312m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Cowries are often well camouflaged.
-      Look carefully for them. Their shells are highly prized, thus cowries are threatened
-      by over-collection. Don't rip off a cowrie from a stone! It might be a mother
-      cowrie protecting her eggs.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Cowries are often well camouflaged. Look carefully for them. Their shells
-      are highly prized, thus cowries are threatened by over-collection. Don't rip
-      off a cowrie from a stone! It might be a mother cowrie protecting her eggs.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/errones/110123sisd5312m3.jpg
     caption: Sisters Island, Jan 11
@@ -137,9 +127,14 @@ location:
 size:
 - 2.0
 - 3.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Cowries are often well camouflaged
+- Look carefully for them
+- Their shells are highly prized, thus cowries are threatened by over-collection.
+  Don't rip off a cowrie from a stone! It might be a mother cowrie protecting her
+  eggs.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 This little cowrie is commonly seen on our Northern shores usually under stones, but sometimes crawling about in the open. Sometimes also seen on our Southern shores among coral rubble. It was previously known as

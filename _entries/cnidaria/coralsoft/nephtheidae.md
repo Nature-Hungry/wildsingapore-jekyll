@@ -19,15 +19,6 @@ order: Malacalcyonacea
 updated: Nov 2019
 coverimg: ../../../Templates/fornatureguides.gif
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They are animals! Although
-      they look like plants. Don't step on them! Each soft coral is a colony of countless
-      tiny polyps. Tiny animals may live in the colony. Look for them.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They are animals! Although they look like plants. Don't step on them!
-      Each soft coral is a colony of countless tiny polyps. Tiny animals may live
-      in the colony. Look for them.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepasparagus/040411hntd0107m3.jpg
     caption: When the brown polyps are retracted, the colony can appear different.
@@ -127,9 +118,13 @@ location:
 - ecp
 size:
 - 20.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They are animals! Although they look like plants. Don't step on them! Each soft
+  coral is a colony of countless tiny polyps
+- Tiny animals may live in the colony
+- Look for them.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Flowery soft corals are commonly seen on many of our shores. They are usually attached to hard surfaces including boulders, jetty pilings and coral rubble.

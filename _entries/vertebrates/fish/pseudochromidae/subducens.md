@@ -26,14 +26,6 @@ subfamily: Congrogadinae
 updated: Sep 2019
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pseudochromidae/subducens/040703sisg0982m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about it ... Often mistaken for an eel or
-      snake, it is actually a harmless fish. It may be green, brown or even bluish.
-      It is well camouflaged. Don't step on it!
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Often mistaken for an eel or snake, it is actually a harmless fish. It
-      may be green, brown or even bluish. It is well camouflaged. Don't step on it!
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pseudochromidae/subducens/040703sisg0982m3.jpg
     caption: Sisters Island, Jul 04
@@ -247,9 +239,13 @@ size:
 - 15.0
 - 5.0
 rdb: LC
+trivia_title: if you learn only 3 things about it ..
+trivia_items:
+- Often mistaken for an eel or snake, it is actually a harmless fish
+- It may be green, brown or even bluish
+- It is well camouflaged
+- Don't step on it!
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 This snake-like fish is commonly seen on many of our shores, among coral rubble and near seagrasses. Most are well camouflaged and are thus often overlooked. Big ones trapped in small pools at low tide usually hide deep under coral rubble with only a bit of the tail sticking out. But small ones may be seen swimming about in larger pools among seagrass, corals or coral rubble.

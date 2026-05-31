@@ -26,14 +26,6 @@ suborder: Pleuronectoidei
 updated: Sep 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/paralichthyidae/paralichthyidae/060711cftd3957m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Eyes on the left side of the
-      body only. Tail and dorsal and anal fins separated. Found beneath the sand.
-      Watch your step!
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Eyes on the left side of the body only. Tail and dorsal and anal fins
-      separated. Found beneath the sand. Watch your step!
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/paralichthyidae/paralichthyidae/060711cftd3957m3.jpg
     caption: Some species have a white patch under the pectoral fin. Changi, Jul 06.
@@ -189,9 +181,13 @@ size:
 - 40.0
 - 15.0
 - 20.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Eyes on the left side of the body only
+- Tail and dorsal and anal fins separated
+- Found beneath the sand
+- Watch your step!
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 These large flatfishes are seen on some of our shores, on sandy areas near seagrasses or near coral reefs.

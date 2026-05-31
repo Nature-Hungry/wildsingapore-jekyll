@@ -22,16 +22,6 @@ superfamily: Cardioidea
 updated: May 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tridacnidae/squamosa/040123sisd0129m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They are among the largest
-      clams to have existed on Earth! They 'farm' algae in their bodies. The algae
-      provides the clams food. They are globally endangered due to overcollection
-      as a delicacy.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They are among the largest clams to have existed on Earth! They 'farm'
-      algae in their bodies. The algae provides the clams food. They are globally
-      endangered due to overcollection as a delicacy.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tridacnidae/squamosa/040123sisd0129m3.jpg
     caption: The Fluted giant clam is usually firmly attached to a hard surface. Sisters
@@ -114,9 +104,13 @@ location:
 size:
 - 15.0
 - 40.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They are among the largest clams to have existed on Earth! They 'farm' algae in
+  their bodies
+- The algae provides the clams food
+- They are globally endangered due to overcollection as a delicacy.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 These enormous clams are sometimes seen on our undisturbed Southern shores. Some burrow into coral rubble or among live coral and are thus easily overlooked. Others lie above but attached to coral rubble.

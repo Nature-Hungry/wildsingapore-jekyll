@@ -24,15 +24,6 @@ suborder: Percoidei
 updated: Oct 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/serranidae/boenak/100527tmd3431m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They are solitary hunters with
-      an amazing mouth. They can change their gender. They are among our favourite
-      seafood. However, overharvesting can affect their populations.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They are solitary hunters with an amazing mouth. They can change their
-      gender. They are among our favourite seafood. However, overharvesting can affect
-      their populations.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/serranidae/boenak/100527tmd3431m3.jpg
     caption: Chocolate hind
@@ -88,9 +79,13 @@ location:
 - kus
 - sis
 - tsm
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They are solitary hunters with an amazing mouth
+- They can change their gender
+- They are among our favourite seafood
+- However, overharvesting can affect their populations.
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Groupers are sometimes seen on some of our shores. At low tide, they may be stranded in pools or hiding under large chunks of coral rubble. Juveniles are common in muddy, sandy river mouths and among mangroves. Adults found in reefs as solitary carnivores. Small groupers are sometimes encountered on our shores at low tide. Do leave them alone, so they can grow bigger and perhaps one day we can enjoy them in a different way.

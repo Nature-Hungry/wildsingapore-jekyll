@@ -1,7 +1,9 @@
 ---
-title: 'Brain ascidians (Ascidiacea)'
+title: Brain ascidians (Ascidiacea)
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: brain, ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts fact sheet, info, photo
+keywords: brain, ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts
+  fact sheet, info, photo
 layout: entry
 updated: Nov 2019
 phylum: Chordata

@@ -17,7 +17,12 @@ attributes:
 - 88
 family: ''
 genus: ''
-species: identification*
+species: ''
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Actiniaria
 inat_id: 1
 stateofmatter: Life
 kingdom: Animalia

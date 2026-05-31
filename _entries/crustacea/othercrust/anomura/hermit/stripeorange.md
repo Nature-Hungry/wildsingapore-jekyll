@@ -27,15 +27,6 @@ superfamily: Paguroidea
 updated: Dec 2019
 coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeorange/110504ecpd0529m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They come in orange, red and
-      blue. Every empty shell is a potential hermit crab home. Don't take any shells
-      home! Many other animals live together with a hermit crab. Look for them.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They come in orange, red and blue. Every empty shell is a potential hermit
-      crab home. Don't take any shells home! Many other animals live together with
-      a hermit crab. Look for them.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeorange/110504ecpd0529m3.jpg
     caption: East Coast Park, May 11
@@ -160,9 +151,15 @@ location:
 size:
 - 3.0
 - 5.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They come in orange, red and blue
+- Every empty shell is a potential hermit crab home. Don't take any shells home! Many
+  other animals live together with a hermit crab
+- Look for them.
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?
+## Where seen?
 This large often colourful hermit crab is quite commonly seen on many of our shores, in sandy or silty areas and among seagrasses. Those seen on our Northern shores are usually larger. Elsewhere, it is found near river mouths on fine sand or sand-mud bottoms in mangrove areas.
 
 ## Features

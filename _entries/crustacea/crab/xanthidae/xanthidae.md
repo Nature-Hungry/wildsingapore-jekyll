@@ -26,15 +26,6 @@ superfamily: Xanthoidea
 updated: Dec 2019
 coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/pictor/070615sntrg0276m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... These colourful crabs are poisonous
-      to eat! Their toxins are NOT destroyed by cooking. They are generally secretive
-      and slow-moving. They are not venomous but it's best not to touch them.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: These colourful crabs are poisonous to eat! Their toxins are NOT destroyed
-      by cooking. They are generally secretive and slow-moving. They are not venomous
-      but it's best not to touch them.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/pictor/070615sntrg0276m3.jpg
     caption: The Mosaic reef crab is the most poisonous crab on our shores. Sentosa,
@@ -103,9 +94,14 @@ location:
 size:
 - 5.0
 - 10.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- These colourful crabs are poisonous to eat! Their toxins are NOT destroyed by cooking
+- They are generally secretive and slow-moving
+- They are not venomous but it's best not to touch them.
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?
+## Where seen?
 This group includes the most colourful large crabs that you might commonly encounter on the shore.
 The Egg crabs (
 *Atergatis*
