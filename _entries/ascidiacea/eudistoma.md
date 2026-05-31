@@ -9,6 +9,12 @@ updated: Mar 2020
 phylum: Chordata
 subphylum: Tunicata
 class: Ascidiacea
+attributes:
+- 130
+- 131
+- 139
+- 150
+- 129
 family: Polycitoridae
 genus: Eudistoma
 species: sp.

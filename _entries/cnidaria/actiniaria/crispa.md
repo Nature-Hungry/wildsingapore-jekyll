@@ -6,6 +6,12 @@ keywords: leathery, anemone, radianthus, heteractis, crispa, stichodactylidae, a
   fact sheet, info, photo
 layout: entry
 attributes:
+- 129
+- 130
+- 133
+- 153
+- 150
+- 143
 - 6
 - 88
 - 113

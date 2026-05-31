@@ -6,6 +6,12 @@ keywords: haeckel, anemone, actinostephanus, haeckeli, actinodendridae, anthozoa
   facts, fact sheet, info, photo
 layout: entry
 attributes:
+- 129
+- 130
+- 133
+- 153
+- 150
+- 143
 - 6
 - 88
 - 113

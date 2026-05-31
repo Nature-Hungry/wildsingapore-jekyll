@@ -8,7 +8,13 @@ layout: entry
 family: Actiniidae
 genus: Anthopleura
 species: buddemeieri
-attributes: []
+attributes:
+- 129
+- 130
+- 133
+- 153
+- 150
+- 143
 inat_id: 712064
 stateofmatter: Life
 kingdom: Animalia

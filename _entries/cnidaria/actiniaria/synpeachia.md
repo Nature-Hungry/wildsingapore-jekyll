@@ -6,6 +6,12 @@ keywords: synpeachia temasek, peachia, anemone, anthozoa, cnidaria, field, guide
   info, photo
 layout: entry
 attributes:
+- 129
+- 130
+- 133
+- 153
+- 150
+- 143
 - 6
 - 67
 - 88

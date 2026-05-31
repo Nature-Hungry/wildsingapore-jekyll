@@ -9,6 +9,12 @@ updated: Feb 2020
 phylum: Chordata
 subphylum: Tunicata
 class: Ascidiacea
+attributes:
+- 130
+- 131
+- 139
+- 150
+- 129
 family: Styelidae
 genus: Polycarpa
 species: sp.

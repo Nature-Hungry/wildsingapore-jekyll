@@ -9,6 +9,12 @@ updated: Nov 2019
 phylum: Chordata
 subphylum: Tunicata
 class: Ascidiacea
+attributes:
+- 130
+- 131
+- 139
+- 150
+- 129
 family: Ascidiidae
 genus: Ascidia
 species: gemmata

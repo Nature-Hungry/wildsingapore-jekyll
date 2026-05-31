@@ -27,6 +27,7 @@
 
 .entry-summary-row .attributes{
     display:flex;
+    gap:0.5rem;
     justify-content: left;
 }
 .entry-summary-row .attribute{
@@ -67,9 +68,13 @@
     display:flex;
     align-items:center;
     gap:1rem;
+    height:200px;
+    margin-bottom:1rem;
+
 }
 .photo-index-images-text-row .img-grid{
     margin: 1rem 0;
+    height: 100%;
 }
 
 
@@ -79,10 +84,12 @@
         gap:0;
         align-items: start;
         margin-top:1rem;
+        height: fit-content;
     }
     .photo-index-images-text-row .img-grid{
         order:1;
         margin:0;
+        gap:0;
     }
 }
 

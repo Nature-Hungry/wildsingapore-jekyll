@@ -8,6 +8,12 @@ layout: entry
 phylum: Chordata
 subphylum: Tunicata
 class: Ascidiacea
+attributes:
+- 130
+- 131
+- 139
+- 150
+- 129
 updated: Nov 2019
 coverimg: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/polycarpa/050510tusg6134m3.jpg
 trivia_title: if you learn only 3 things about them ...

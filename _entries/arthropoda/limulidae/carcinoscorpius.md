@@ -8,7 +8,13 @@ layout: entry
 family: Limulidae
 genus: Carcinoscorpius
 species: rotundicauda
-attributes: []
+attributes:
+- 128
+- 133
+- 145
+- 150
+- 143
+- 138
 inat_id: 362577
 stateofmatter: Life
 kingdom: Animalia

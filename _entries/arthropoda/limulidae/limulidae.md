@@ -8,7 +8,13 @@ layout: entry
 family: Limulidae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 128
+- 133
+- 145
+- 150
+- 143
+- 138
 inat_id: 326110
 stateofmatter: Life
 kingdom: Animalia

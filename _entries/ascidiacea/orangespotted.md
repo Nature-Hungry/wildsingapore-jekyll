@@ -9,6 +9,12 @@ updated: Mar 2020
 phylum: Chordata
 subphylum: Tunicata
 class: Ascidiacea
+attributes:
+- 130
+- 131
+- 139
+- 150
+- 129
 coverimg: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/orangespotted/111128sntd3993m3.jpg
 galleries:
   gallery1:

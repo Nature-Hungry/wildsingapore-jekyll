@@ -6,6 +6,12 @@ keywords: banded, bead, anemone, anthopleura, actiniidae, anthozoa, cnidarian, f
   sheet, info, photo
 layout: entry
 attributes:
+- 129
+- 130
+- 133
+- 153
+- 150
+- 143
 - 6
 - 88
 family: Actiniidae

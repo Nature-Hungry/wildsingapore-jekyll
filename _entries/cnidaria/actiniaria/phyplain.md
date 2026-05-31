@@ -6,6 +6,12 @@ keywords: plain, frilly, anemone, phymanthus, phymantidae, actiniaria, cnidrian,
   sheet, info, photo
 layout: entry
 attributes:
+- 129
+- 130
+- 133
+- 153
+- 150
+- 143
 - 6
 - 51
 - 88

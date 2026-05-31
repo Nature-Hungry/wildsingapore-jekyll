@@ -8,7 +8,13 @@ layout: entry
 family: Limulidae
 genus: Tachypleus
 species: gigas
-attributes: []
+attributes:
+- 128
+- 133
+- 145
+- 150
+- 143
+- 138
 inat_id: 364051
 stateofmatter: Life
 kingdom: Animalia

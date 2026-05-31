@@ -6,6 +6,12 @@ keywords: smooth, branched, tentacle, anemone, phymanthus, phymantidae, actiniar
   facts, fact sheet, info, photo
 layout: entry
 attributes:
+- 129
+- 130
+- 133
+- 153
+- 150
+- 143
 - 6
 - 51
 - 88

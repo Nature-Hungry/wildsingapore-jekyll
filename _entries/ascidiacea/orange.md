@@ -9,6 +9,12 @@ updated: Nov 2019
 phylum: Chordata
 subphylum: Tunicata
 class: Ascidiacea
+attributes:
+- 130
+- 131
+- 139
+- 150
+- 129
 family: Styelidae
 coverimg: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/orange/050722cjg9833m3.jpg
 galleries:

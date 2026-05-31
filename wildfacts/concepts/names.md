@@ -4,48 +4,53 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "name, scientific, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
-[index](indexl)
-of concepts
-**What's
-in a name?**
+## What is in a name?
+[index](/) of concepts
 
 ---
-
-if you
-learn only 3 things about them ...  
-![](../photos/bullet.gif)The
-same animal may have different common names.  
-![](../photos/bullet.gif) Scientific names CAN CHANGE!  
-![](../photos/bullet.gif)Scientific
-names are always written in italics.
   
 In this website,
 you will often come across a perfectly understandable name like 'Copperband
 butterflyfish' followed immediately by something like '*Chelmon
 rostratus*'. 'Copperband butterflyfish' is the common name for
 the animal and '*Chelmon rostratus*' is its scientific name.  
+
+
+<div class="flex gap-2">
+  <div>
   
-**Why
-do we have scientific names?**  
-Scientists everywhere use the same scientific name regardless
-of the language they speak or write. Thus they know exactly
-which living thing is discussed. In this universal scientific
-naming system, each kind of living things has a unique name
-in a language which includes Latin and Greek words.   
-  
-**Why
-not just use common names?** Common names are confusing
-because one living thing may have several common names; or one
-common name can refer to several different living things.
-If you need to find out more about a living thing, say on the
-internet, for a more accurate search, use the scientific name
-rather than the common name.
-***![](pix/i002d2.gif)  
-Butterflyfish***
-***![](pix/i002d1.gif)  
-Chelmon rostratus***
-**Secrets
-of scientific names:**  Scientific names reveal the relationship among living things. Just
+      <h3>Why do we have scientific names?</h3>
+      <p>Scientists everywhere use the same scientific name regardless
+      of the language they speak or write. Thus they know exactly
+      which living thing is discussed. In this universal scientific
+      naming system, each kind of living things has a unique name
+      in a language which includes Latin and Greek words.   
+      </p>
+
+      <h3>Why not just use common names?</h3>
+      <p>
+      Common names are confusing because one living thing may have several common names; or one
+      common name can refer to several different living things.
+      If you need to find out more about a living thing, say on the
+      internet, for a more accurate search, use the scientific name
+      rather than the common name.
+      </p>
+  </div>
+  <div style="flex-grow:2">
+    <div class="img-container" style="margin:0;">
+      <img src="http://www.wildsingapore.com/wildfacts/concepts/pix/i002d2.gif">
+      <p class="caption">Butterflyfish</p>
+    </div>
+    <div class="img-container" style="margin:0">
+      <img src="http://www.wildsingapore.com/wildfacts/concepts/pix/i002d1.gif">
+      <p class="caption">Chelmon rostratus</p>
+    </div>
+  </div>
+</div>
+
+
+### Secrets of scientific names
+Scientific names reveal the relationship among living things. Just
 as we may guess that two people with the same surname are somehow
 related. Scientific
 names organise living things into groups.

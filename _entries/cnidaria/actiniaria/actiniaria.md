@@ -7,7 +7,13 @@ layout: entry
 family: Actiniidae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 129
+- 130
+- 133
+- 153
+- 150
+- 143
 inat_id: 47796
 stateofmatter: Life
 kingdom: Animalia

@@ -1,0 +1,133 @@
+---
+title: "Step-by-step guide to identifying living things in singapore"
+
+---
+{% include global/header.html %}
+
+<style>
+    .attribute-span{
+        font-weight:normal;
+        background-color: rgb(253, 189, 166);
+        padding:0.5rem;
+        font-size: 1rem;
+    }
+    #results-title{
+        margin-bottom:1rem;
+    }
+</style>
+<main class="page-content" id="main-content">
+    <h2 id="results-title">Results for </h2>
+
+    
+</main>
+
+{% include global/footer.html %}
+<script defer>
+    const urlParams = new URLSearchParams(window.location.search);
+    const allParams = Object.fromEntries(urlParams.entries());
+    const paramAttributes = allParams['attrs'].split(',')
+    let attributes = [Number.parseInt(allParams["substrate"])]
+    const attribute_map = {{ site.data.attribute_map | jsonify }};
+    
+    const resultsTitle = document.getElementById('results-title')
+
+    let matchedIndexes = {}
+    let sortedKeys = []
+
+    paramAttributes.forEach(e=>{
+        if(attribute_map[e]){
+            attributes.push(Number.parseInt(e))
+        }
+
+
+
+    })
+
+
+    console.log(attributes)
+    attributes.forEach(a=>{
+        resultsTitle.insertAdjacentHTML("beforeend",`
+        <span class="attribute-span">${attribute_map[a]}</span>
+        `)
+    })
+    resultsTitle.insertAdjacentHTML("beforeend",`
+        <span class="attribute-span">${allParams["zone"]}</span>
+        `)
+    
+    fetch('/assets/photoindexes.json')
+    .then(res => res.json())
+    .then(json => {
+        json.forEach(j=>{
+            let count = countIntersection(j["attributes"], attributes)
+            if(matchedIndexes[count]){
+                matchedIndexes[count].push(j)
+            }else{
+                matchedIndexes[count] = [j]
+            }
+        })
+
+        console.log(matchedIndexes)
+        
+        sortedKeys = Object.keys(matchedIndexes)
+            .map(Number)
+            .sort((a, b) => b - a); 
+        
+        render()
+    })
+
+    function render(){
+        const mainContent = document.getElementById("main-content")
+
+        for(let i = 0; sortedKeys[i] > 0; i++){
+            console.log("id:",sortedKeys[i])
+            matchedIndexes[sortedKeys[i]].forEach(m=>{
+                console.log("Rendering: ", m["title"])
+                let images = ""
+                if(m["coverimgs"]){
+                    m["coverimgs"].forEach(image=>{
+                        images += `
+                            <div class="img-container">
+                                <img src="${image}" alt="">
+                            </div>
+                        `
+                    })
+                }
+                let content = `
+                    <div class="photo-index-images-text-row">
+                        <div class="img-grid" style="grid-template-columns: repeat(5,minmax(30px, 300px));">
+                            ${images}
+                        </div>
+                        <div>
+                            <h3><a href="${m["url"]}">${m["title"]}</h3>
+                        
+                        </div>
+                    </div>
+                `
+                mainContent.insertAdjacentHTML("beforeend", content)
+
+            })
+
+        }
+    }
+
+
+
+    function countIntersection(arr1, arr2) {
+        const freq = new Map();
+
+        for (const x of arr2) {
+            freq.set(x, (freq.get(x) || 0) + 1);
+        }
+
+        let count = 0;
+
+        for (const x of arr1) {
+            if (freq.get(x) > 0) {
+            count++;
+            freq.set(x, freq.get(x) - 1);
+            }
+        }
+
+        return count;
+    }
+</script>

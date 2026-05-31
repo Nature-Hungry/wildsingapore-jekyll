@@ -9,6 +9,12 @@ updated: Nov 2019
 phylum: Chordata
 subphylum: Tunicata
 class: Ascidiacea
+attributes:
+- 130
+- 131
+- 139
+- 150
+- 129
 coverimg: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/rockslime/060129skdg4122m3.jpg
 galleries:
   gallery1:

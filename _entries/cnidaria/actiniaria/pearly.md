@@ -6,6 +6,12 @@ keywords: pearly, anemone, anthozoa, cnidaria, actiniidae, paracondylactis, sine
   fact sheet, info, photo
 layout: entry
 attributes:
+- 129
+- 130
+- 133
+- 153
+- 150
+- 143
 - 5
 - 6
 - 88

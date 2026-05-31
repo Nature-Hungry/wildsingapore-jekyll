@@ -5,6 +5,12 @@ keywords: anemone, actiniaria, cnidaria, field, guide, seashore, sea, shore, mar
   coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
+- 129
+- 130
+- 133
+- 153
+- 150
+- 143
 - 6
 - 67
 - 88

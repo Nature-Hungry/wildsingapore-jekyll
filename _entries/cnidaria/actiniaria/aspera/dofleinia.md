@@ -8,7 +8,13 @@ layout: entry
 family: Actiniidae
 genus: Dofleinia
 species: ''
-attributes: []
+attributes:
+- 129
+- 130
+- 133
+- 153
+- 150
+- 143
 inat_id: 361260
 stateofmatter: Life
 kingdom: Animalia
