@@ -8,7 +8,7 @@ but we aim to standardize all to what we are working on in the seagrass sections
 
 
 
-# Roadmap
+# Initial Roadmap
 	🟡 Clean and structure original data from http://www.wildsingapore.com
 		🟡 Entries	
 			 ✅ Image galleries
@@ -20,8 +20,8 @@ but we aim to standardize all to what we are working on in the seagrass sections
 			 🟡 Entry attributes
 			 ✅ Atomic entry content
 			 🔲 Higher rank entries content
-          🔲 Central database for all entries to reside
-            🔲 Portal to edit database (GUI that's easy to navigate) for external contributors to use
+			 🔲 Assigning zones to entries
+			 🔲 Assigning habitats to entries
 		 🔲 Entry guides
 			 🔲 Pages to aggregate guides
 			 🔲 Entry guide content
@@ -44,7 +44,15 @@ but we aim to standardize all to what we are working on in the seagrass sections
 		🔲 Footer
    🔲 Add a search engine in the "For Teachers" page
       🔲 Add classroom activities with proper YAML headers
-		
+
+# The Future
+   🔲 Client-server hybrid architecture
+      🔲 Features
+         🔲 Visual editor
+         🔲 Contributor dashboard for editing authorized entries
+         🔲 Reviewer dashboard
+         🔲 Admin dashboard
+      
 ---
 
 # Wild Singapore
