@@ -112,6 +112,8 @@ trivia_items:
 - They are animals and not plants! They are distinguished from sea anemones by an
   upturned central mouth
 - They often grow over coral rubble or stones. Don't step on them!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

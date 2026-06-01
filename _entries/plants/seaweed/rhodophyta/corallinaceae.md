@@ -51,6 +51,8 @@ galleries:
       John M. 2000. Marine Plants of Australia University of Western Australia Press.
       300pp. Trono, Gavino. C. Jr., 1997. Field Guide and Atlas of the Seaweed Resources
       of the Philippines. . Bookmark, Inc., the Philippines. 306 pp.'
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

@@ -96,6 +96,8 @@ links_references: '**Links**
   . The Singapore Science Centre. 72pp.
 
   '
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

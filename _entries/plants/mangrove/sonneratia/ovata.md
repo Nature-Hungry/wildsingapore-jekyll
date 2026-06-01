@@ -117,6 +117,8 @@ size:
 - 500.0
 - 2000.0
 rdb: CR
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

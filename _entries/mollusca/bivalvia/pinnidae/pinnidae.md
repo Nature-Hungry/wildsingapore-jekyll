@@ -201,6 +201,8 @@ trivia_items:
 - The part of the shell above the ground provides a home for many encrusting animals
 - Let's see what kinds we can find
 - Previously common, fan shells are now listed among our threatened animals.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

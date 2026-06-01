@@ -110,6 +110,8 @@ trivia_items:
 - It is an ingredient in laksa and char kuay teow, favourite local dishes
 - Its body is red because it has haemoglobin just like us
 - It can cause cholera, hepatitis A and food poisoning.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

@@ -60,6 +60,8 @@ location:
 - ecp
 - lab
 - snt
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

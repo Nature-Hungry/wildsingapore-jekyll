@@ -166,6 +166,8 @@ trivia_items:
 - Although they can be quite large, they are well camouflaged
 - Watch your step! Sea hares have very specialised diets and should not be kept in
   home aquariums.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

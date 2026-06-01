@@ -144,6 +144,8 @@ trivia_items:
 - These small corals are common on stones and rocks. Don't step on them! They have
   a distinctive black-and-white skeleton
 - Polyps on submerged portions may be extended, look for them.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

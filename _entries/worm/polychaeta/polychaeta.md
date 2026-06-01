@@ -142,6 +142,8 @@ trivia_items:
 - Their bristles can cause severe pain
 - Don't touch! They have well developed heads with specialised jaws
 - Some have a spectacular way of reproducing.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

@@ -78,6 +78,8 @@ trivia_items:
 - They produce a hard skeleton but considered soft corals because of their polyps
 - Their skeleton is blue on the inside
 - But don't break the skeleton to see this! They are considered living fossils.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

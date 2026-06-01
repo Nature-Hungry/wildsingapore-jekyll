@@ -82,6 +82,8 @@ links_references: '**Links**
   Book Co., Singapore. 578 pp.
 
   '
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 

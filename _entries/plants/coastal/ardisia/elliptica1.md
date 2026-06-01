@@ -6,6 +6,8 @@ keywords: ardisia, elliptica, myrsinaceae, tree, mangrove, mangroves, field, gui
   info, photo
 layout: entry
 coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/ardisia/elliptica/090329cjd8714m3.jpg
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
  

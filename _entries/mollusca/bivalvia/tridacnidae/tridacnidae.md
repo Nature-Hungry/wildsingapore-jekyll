@@ -110,6 +110,8 @@ trivia_items:
   their bodies
 - The algae provides the clams food
 - They are globally endangered due to overcollection as a delicacy.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

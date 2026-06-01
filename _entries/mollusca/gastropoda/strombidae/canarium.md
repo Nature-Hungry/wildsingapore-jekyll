@@ -122,6 +122,8 @@ trivia_items:
 - 'Many of its features are adaptations to this hopping lifestyle: flared shell, large
   eyes'
 - It is edible, but who could eat such a cute little snail!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

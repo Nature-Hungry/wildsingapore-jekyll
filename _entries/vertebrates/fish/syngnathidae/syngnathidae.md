@@ -138,6 +138,8 @@ trivia_items:
   for the traditional medicine trade
 - They are hard to spot and can't move fast
 - Watch your step or you might step on one!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

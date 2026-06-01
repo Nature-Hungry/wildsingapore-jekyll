@@ -134,6 +134,8 @@ trivia_items:
 - They are used to find food in murky waters
 - It has venomous spines
 - Don't touch it!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

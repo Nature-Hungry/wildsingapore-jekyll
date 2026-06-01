@@ -150,6 +150,8 @@ trivia_items:
 - They are edible and among our favourite seafood
 - They can swim fast using their paddle-shaped last legs
 - They do not survive long out of water.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

@@ -150,6 +150,8 @@ trivia_items:
 - They are important food fish in some places
 - They may hide in the sand if disturbed
 - There are several species although they look similar at first glace.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

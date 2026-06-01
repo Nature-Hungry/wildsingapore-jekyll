@@ -88,6 +88,8 @@ trivia_items:
 - 'They are animals and not plants! Unlike true anemones, they have two types of tentacles:
   long outer tentacles and short inner tentacles'
 - They retract into their tubes at low tide. Don't step on the tubes!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

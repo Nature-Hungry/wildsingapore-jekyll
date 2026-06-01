@@ -111,6 +111,8 @@ trivia_items:
 - They have small pointed snouts with brush-like teeth
 - They do poorly in aquariums
 - Don't collect them.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

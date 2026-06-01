@@ -75,6 +75,8 @@ trivia_items:
 - The thin flexible shell allows it to slip easily into the sand
 - They are rapid burrowers
 - Let's put this one down and see how fast it can burrow.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

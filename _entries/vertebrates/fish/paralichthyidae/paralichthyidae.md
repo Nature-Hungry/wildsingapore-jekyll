@@ -187,6 +187,8 @@ trivia_items:
 - Tail and dorsal and anal fins separated
 - Found beneath the sand
 - Watch your step!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

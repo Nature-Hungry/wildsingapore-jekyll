@@ -64,6 +64,8 @@ location:
 - cj
 - tm
 - sji
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

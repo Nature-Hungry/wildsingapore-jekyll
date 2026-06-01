@@ -95,6 +95,8 @@ trivia_items:
 - Some are well camouflaged
 - Look carefully for them
 - Some shells may contain tiny hermit crabs and not living snails!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

@@ -5,6 +5,8 @@ keywords: plantain, squirrel, callosciurus, notatus, sciuridae, vertebrate, fiel
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
 layout: entry
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ****

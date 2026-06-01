@@ -143,6 +143,8 @@ trivia_items:
 - There is no scientific difference between shrimps and prawns
 - Many are well camouflaged, others are buried in the sand, yet others transparent
 - Some live on other animals such as sea anemones and hard corals.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

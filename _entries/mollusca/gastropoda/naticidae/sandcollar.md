@@ -63,6 +63,8 @@ trivia_items:
 - Although it feels plasticky and dead, the sand collar is full of living baby snails!
   The size of the collar depends on the size of the mother moon snail
 - When the baby snails hatch, the sand collar disintegrates.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

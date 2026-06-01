@@ -161,6 +161,8 @@ trivia_items:
 - Look carefully to find one
 - It hides among seaweeds and can't move fast
 - Watch your step! The male looks carries the eggs.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

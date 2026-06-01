@@ -61,6 +61,8 @@ galleries:
       Red Data Book: Threatened plants and animals of Singapore . Nature Society (Singapore).
       285 pp.'
 rdb: CR
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

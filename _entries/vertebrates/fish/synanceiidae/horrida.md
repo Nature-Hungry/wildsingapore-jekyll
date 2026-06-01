@@ -210,6 +210,8 @@ trivia_items:
 - It has venomous spines
 - Don't handle it! Watch your step! Its venom is only used for protection from predators
   and not to catch prey.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

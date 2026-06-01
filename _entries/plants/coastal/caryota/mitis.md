@@ -67,6 +67,8 @@ links_references: '**Links**
 size:
 - 600.0
 rdb: Lc
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

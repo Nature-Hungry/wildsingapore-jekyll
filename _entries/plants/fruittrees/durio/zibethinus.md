@@ -83,6 +83,8 @@ links_references: '**Links**
   Cambridge University Press. USA. 419 pp.
 
   '
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

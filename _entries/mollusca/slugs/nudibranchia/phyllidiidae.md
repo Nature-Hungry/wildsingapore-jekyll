@@ -65,6 +65,8 @@ galleries:
       facebook .
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/others/2104hntjll1a.jpg
     caption: Phyllidia elegans (underside)
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

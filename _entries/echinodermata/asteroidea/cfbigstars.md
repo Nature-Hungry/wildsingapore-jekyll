@@ -60,6 +60,8 @@ galleries:
       distinctive underside helps to identify it.
   - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/protoreaster/080425cyrd1775m3.jpg
     caption: Young Knobbly sea stars can be as large as adults of the other stars.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ******

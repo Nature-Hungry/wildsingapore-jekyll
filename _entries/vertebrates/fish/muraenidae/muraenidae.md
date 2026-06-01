@@ -198,6 +198,8 @@ trivia_items:
 - They have smooth skin instead of scales
 - Some have strong jaws with sharp teeth
 - Don't touch them!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

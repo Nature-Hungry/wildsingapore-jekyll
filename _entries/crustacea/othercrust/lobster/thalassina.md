@@ -147,6 +147,8 @@ trivia_items:
 - They are rarely seen but are a vital part of a healthy mangrove
 - They are responsible for the huge mounds of mud in the back mangroves
 - Many other plants and animals live and feed on these mounds.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

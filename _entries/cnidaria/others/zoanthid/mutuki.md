@@ -100,6 +100,8 @@ trivia_title: if you learn only 3 things about them ..
 trivia_items:
 - They look like tiny sea anemones with long bodies
 - Don't touch them! They are small and may retract at low tide. Don't step on them!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

@@ -50,6 +50,8 @@ size:
 - 600.0
 - 1000.0
 rdb: EN
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 <div class="flex gap-2">

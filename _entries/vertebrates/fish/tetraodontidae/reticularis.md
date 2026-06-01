@@ -64,6 +64,8 @@ location:
 - cj
 size:
 - 45.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

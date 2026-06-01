@@ -68,6 +68,8 @@ galleries:
       to Medicinal Plants . The Singapore Science Centre. 160pp.'
 size:
 - 1500.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 **

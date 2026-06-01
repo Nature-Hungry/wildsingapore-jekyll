@@ -94,6 +94,8 @@ links_references: '**Links**
 size:
 - 100.0
 - 400.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

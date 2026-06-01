@@ -93,6 +93,8 @@ location:
 - tm
 - ecp
 - laz
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

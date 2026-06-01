@@ -124,6 +124,8 @@ trivia_items:
   coral is a colony of countless tiny polyps
 - Tiny animals may live in the colony
 - Look for them.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

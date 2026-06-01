@@ -47,6 +47,8 @@ links_references: "**Links**\n- [Family Galeodidae (\n*Melongena pugilina*\n)](h
 location:
 - chg
 - cj
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

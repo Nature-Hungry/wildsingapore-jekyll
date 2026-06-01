@@ -215,6 +215,8 @@ trivia_items:
   to their camouflage'
 - So please watch out when you step among the rocks
 - They are mildy poisonous!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

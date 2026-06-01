@@ -207,6 +207,8 @@ trivia_items:
   are left alone
 - As top predators, they play an important role in the health and balance of the marine
   ecosystem.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

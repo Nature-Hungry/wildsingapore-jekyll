@@ -263,6 +263,8 @@ trivia_items:
 - It takes them a long time to get at their prey
 - Don't remove drills
 - Some lay large collections of egg capsules on the rocks.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

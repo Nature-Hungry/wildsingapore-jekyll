@@ -62,6 +62,8 @@ location:
 - prp
 size:
 - 80.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

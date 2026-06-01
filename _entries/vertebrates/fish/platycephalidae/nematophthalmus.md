@@ -153,6 +153,8 @@ size:
 - 20.0
 - 58.0
 rdb: VU
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

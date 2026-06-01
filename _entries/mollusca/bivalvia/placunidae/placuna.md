@@ -112,6 +112,8 @@ trivia_items:
 - Sometimes mistaken for fish scales or other parts of a larger animal
 - The living animal can be seen when the shell is held against the light
 - The clam is globally endangered due to overcollection.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

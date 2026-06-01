@@ -85,6 +85,8 @@ trivia_items:
 - They can change their gender
 - They are among our favourite seafood
 - However, overharvesting can affect their populations.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

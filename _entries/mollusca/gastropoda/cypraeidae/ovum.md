@@ -144,7 +144,10 @@ trivia_title: if you learn only 3 things about them ..
 trivia_items:
 - Cowries are often well camouflaged Look carefully for them
 - Their shells are highly prized, thus cowries are threatened by over-collection.
-- Don't rip off a cowrie from a stone! It might be a mother cowrie protecting her eggs.
+- Don't rip off a cowrie from a stone! It might be a mother cowrie protecting her
+  eggs.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

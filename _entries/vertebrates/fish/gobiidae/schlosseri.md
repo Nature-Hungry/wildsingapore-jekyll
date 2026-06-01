@@ -85,6 +85,8 @@ trivia_items:
 - It is the largest mudskipper seen in Singapore
 - It creates an impressive 'swimming pool' and often found near it
 - It has a different body pattern at night than during the daytime.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

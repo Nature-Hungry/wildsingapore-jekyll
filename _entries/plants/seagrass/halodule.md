@@ -106,6 +106,8 @@ trivia_items:
 - Identified by prominent central mid-rib vein
 - It deson't flower frequently, and the flowers are small
 - It is eaten by dugongs.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

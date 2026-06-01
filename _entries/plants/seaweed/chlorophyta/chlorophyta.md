@@ -124,6 +124,8 @@ trivia_items:
 - '''Carpets'' of green seaweed may form on the shores'
 - These may shelter small animals
 - Please avoid stepping on the carpet.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

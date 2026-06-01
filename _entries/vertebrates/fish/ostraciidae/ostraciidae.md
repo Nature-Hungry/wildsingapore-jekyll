@@ -101,6 +101,8 @@ trivia_title: if you learn only 3 things about them ..
 trivia_items:
 - Boxfishes are poisonous to eat! They have a hard shell around their body
 - They can swim quickly if they have to, even though they have tiny fins!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

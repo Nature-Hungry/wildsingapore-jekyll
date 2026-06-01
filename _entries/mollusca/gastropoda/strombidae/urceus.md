@@ -153,6 +153,8 @@ trivia_items:
 - 'Many of its features are adaptations to this hopping lifestyle: flared shell, large
   eyes'
 - It is listed among the threatened animals of Singapore.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

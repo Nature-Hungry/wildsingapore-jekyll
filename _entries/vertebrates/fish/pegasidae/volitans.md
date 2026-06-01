@@ -172,6 +172,8 @@ trivia_items:
 - Their large pectoral fins are often spread out, thus they resemble moths
 - They have a long stiff snout and a bony outer skeleton, like the seahorse
 - They are collected for the traditional Chinese medicine trade.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

@@ -121,6 +121,8 @@ trivia_items:
 - They reproduce slowly
 - They are globally endangered due to overharvesting for the traditional medicine
   trade.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

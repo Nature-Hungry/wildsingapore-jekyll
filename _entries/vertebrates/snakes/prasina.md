@@ -96,6 +96,8 @@ location:
 size:
 - 200.0
 rdb: Lc
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

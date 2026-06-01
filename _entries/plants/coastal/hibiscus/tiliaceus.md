@@ -80,6 +80,8 @@ galleries:
 size:
 - 1000.0
 - 1500.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

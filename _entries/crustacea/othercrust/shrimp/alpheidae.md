@@ -150,6 +150,8 @@ trivia_items:
 - You will probably hear one than see one on the shores
 - Listen out for them! The enlarged pincer can be as big as the rest of the shrimp!
   Sometimes, a goby share the burrow with the shrimp.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

@@ -139,6 +139,8 @@ trivia_items:
 - Nerite snails can be very common on our rocky shores
 - They lay their eggs in pools and among small stones, watch your step! The shell's
   features protect them in the harsh dry area where they live.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

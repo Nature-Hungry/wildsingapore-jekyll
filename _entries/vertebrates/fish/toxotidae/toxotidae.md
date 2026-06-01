@@ -120,6 +120,8 @@ trivia_items:
 - These fishes can shoot down insects from overhanging foliage
 - But they prefer to jump out of the water to grab them
 - There are two different species of archerfishes in our waters.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

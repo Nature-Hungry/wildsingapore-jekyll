@@ -76,6 +76,8 @@ size:
 - 2.0
 - 5.0
 rdb: ike
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ******

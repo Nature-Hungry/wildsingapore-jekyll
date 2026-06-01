@@ -157,6 +157,8 @@ trivia_items:
 - 'They are awkward swimmers, but they have the fastest mouth! Hard to spot: they
   resemble sponges, rocks'
 - So watch your step!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

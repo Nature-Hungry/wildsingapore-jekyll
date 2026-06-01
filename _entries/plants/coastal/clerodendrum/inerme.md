@@ -56,6 +56,8 @@ size:
 - 50.0
 - 300.0
 - 1000.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

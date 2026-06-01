@@ -38,6 +38,8 @@ galleries:
     caption: Coastal horsehoe crabs Pulau Sarimbun, May 05
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/050510tusg6173m3.jpg
     caption: Barnacles are crustaceans and arthropods! Tuas, May 05
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 **What are arthropods?**

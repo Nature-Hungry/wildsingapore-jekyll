@@ -33,6 +33,8 @@ galleries:
     caption: Coral ghost shrimp
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/upogebiidae/110401mndd8415m6lb.jpg
     caption: Mud shrimp
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

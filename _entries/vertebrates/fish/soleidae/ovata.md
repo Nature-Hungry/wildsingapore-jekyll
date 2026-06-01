@@ -79,6 +79,8 @@ location:
 - snt
 - kus
 rdb: DD
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

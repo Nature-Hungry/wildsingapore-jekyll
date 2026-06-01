@@ -122,6 +122,8 @@ trivia_items:
 - Some species of mussels can bore into concrete
 - Some tiny mussels live in a colony of thousands
 - Mussels can cause food poisoning.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

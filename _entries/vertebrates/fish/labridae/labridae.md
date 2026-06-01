@@ -108,6 +108,8 @@ trivia_items:
 - Young fish may look very different from adults
 - Some can give a nasty bite
 - Don't touch them!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

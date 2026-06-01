@@ -128,6 +128,8 @@ trivia_items:
 - However, don't eat wild clams as some may make you ill
 - They are eaten by snails that bore a hole in their shell
 - See if you can find such a shell?
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

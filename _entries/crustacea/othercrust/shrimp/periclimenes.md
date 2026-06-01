@@ -91,6 +91,8 @@ trivia_items:
 - They live on other animals such as sea anemones and hard corals
 - They are often found in pairs
 - They are an excellent example of commensalism.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

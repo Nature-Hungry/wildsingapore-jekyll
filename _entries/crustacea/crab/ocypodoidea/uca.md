@@ -136,6 +136,8 @@ trivia_items:
 - It is too big to use for feeding
 - Females have two small pincers and thus can eat twice as fast
 - They can change colours and species cannot be identified by colour alone.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

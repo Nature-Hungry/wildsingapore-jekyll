@@ -43,6 +43,8 @@ galleries:
     caption: Limpet with its egg capsule. East Coast Park, Aug 11
 size:
 - 0.3
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

@@ -5,6 +5,8 @@ keywords: smooth, otter, lutrogale, perspicillata, mustelidae, vertebrate, field
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
 layout: entry
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 Otters, Tanah Merah Ferry Terminal, Aug 2013

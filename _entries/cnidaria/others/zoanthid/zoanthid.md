@@ -94,6 +94,8 @@ trivia_items:
 - Don't touch them! They are small and may retract at low tide. Don't step on them!
   Their leathery skin is partly made up of chitin, the same substance that insect
   exoskeleton is made up of.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

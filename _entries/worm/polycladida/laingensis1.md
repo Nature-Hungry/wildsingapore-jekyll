@@ -6,6 +6,8 @@ keywords: flat, worm, flatworm, polyclad, turbellaria, platyhelminthes,  field, 
   info, photo
 layout: entry
 coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/laingensis/110518bbtch1m6l.jpg
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
  

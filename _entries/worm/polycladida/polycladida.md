@@ -216,6 +216,8 @@ trivia_items:
 - Don't touch! They are fearsome predators and hunt and eat other animals
 - Being really flat has some advantages
 - Can you think of some?
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

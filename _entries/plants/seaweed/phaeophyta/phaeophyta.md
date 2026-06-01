@@ -119,6 +119,8 @@ trivia_items:
 - Lots of little animals often hide in large brown seaweeds
 - Look for them! Extracts of brown seaweeds are used extensively in our processed
   food.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

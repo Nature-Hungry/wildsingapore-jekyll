@@ -145,6 +145,8 @@ trivia_items:
 - That's why we should avoid stepping areas thick with seaweeds and seagrasses
 - Their 'elbows' are often much longer than their bodies! To see one, look carefully
   at every bit of 'rubbish'.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

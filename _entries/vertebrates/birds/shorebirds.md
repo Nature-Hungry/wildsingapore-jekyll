@@ -48,6 +48,8 @@ links_references: "**Links**\n- [Migratory birds: supremely designed for travel]
   in Singapore. Nature in Singapore, 1: 69\u201373.\n- Davison, G.W. H. and P. K.\
   \ L. Ng and Ho Hua Chew, 2008.\n*The Singapore Red Data Book: Threatened plants\
   \ and animals of Singapore*\n. Nature Society (Singapore). 285 pp.\n"
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

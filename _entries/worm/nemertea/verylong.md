@@ -145,6 +145,8 @@ location:
 size:
 - 40.0
 - 100.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

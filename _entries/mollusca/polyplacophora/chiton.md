@@ -171,6 +171,8 @@ trivia_items:
 - They cling on tenaciously
 - Don't try to pry them off
 - Leave them alone!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

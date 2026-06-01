@@ -125,6 +125,8 @@ trivia_items:
 - This seagrass is rarely seen on our shores
 - It doesn't flower frequently
 - It is eaten by sea turtles and dugongs.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

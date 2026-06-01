@@ -177,6 +177,8 @@ trivia_items:
 - They are slender and silvery, often bluish
 - They feed on tiny animals in the water (not on the sea bottom)
 - They are important prey for larger fishes and sea birds.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

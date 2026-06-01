@@ -154,6 +154,8 @@ trivia_items:
 - Most are giant solitary polyps (although some are colonial)
 - The sandy areas in a reef may have many of these animals
 - Watch your step!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

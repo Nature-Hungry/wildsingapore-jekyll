@@ -196,6 +196,8 @@ trivia_items:
 - They swim by undulating greatly enlarged pectoral fins
 - They will not sting unless you handle them or step on them
 - Watch your step!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

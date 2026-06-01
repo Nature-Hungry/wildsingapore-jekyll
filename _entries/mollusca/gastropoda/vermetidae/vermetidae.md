@@ -91,6 +91,8 @@ trivia_items:
 - Although they look like worms, they are actually snails! They filter feed at high
   tide, gathering bits with a 'net'
 - Look for them on large boulders and other hard surfaces.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

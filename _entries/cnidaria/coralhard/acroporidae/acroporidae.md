@@ -119,6 +119,8 @@ trivia_items:
 - Branching species are fragile, don't touch them
 - Branching species often shelter a variety of small animals
 - Look for them.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

@@ -61,6 +61,8 @@ galleries:
 size:
 - 1000.0
 rdb: Ke;
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

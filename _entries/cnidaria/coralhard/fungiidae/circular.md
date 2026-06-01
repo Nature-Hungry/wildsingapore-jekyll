@@ -119,6 +119,8 @@ trivia_items:
 - When they are large, they are not attached to the ground
 - Tiny ones may be seen attached to coral rubble
 - Watch your step as you might break these flat animals that live on sandy areas.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

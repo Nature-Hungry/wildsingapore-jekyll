@@ -74,6 +74,8 @@ links_references: '**Links** - [Sea Squirt *Polycarpa*](http://mangrove.nus.edu.
   Council on the Environment. 163pp. - Ng, P. K. L. & Y. C. Wee, 1994. The Singapore
   Red Data Book: Threatened Plants and Animals of Singapore. The Nature Society (Singapore),
   Singapore. 343 pp.'
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

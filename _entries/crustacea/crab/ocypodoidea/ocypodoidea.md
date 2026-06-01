@@ -186,6 +186,8 @@ trivia_items:
 - They come out at low tide and cover the shore. Don't step on them! They are very
   shy
 - To see them, wait quietly without moving.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

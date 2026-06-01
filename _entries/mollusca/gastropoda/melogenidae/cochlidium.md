@@ -114,6 +114,8 @@ trivia_items:
 - Large and common, they are overlooked as they are well camouflaged
 - When its dead, the shell's orange colour is visible as tiny hairs drop off
 - They lay large and and interesting egg capsules.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

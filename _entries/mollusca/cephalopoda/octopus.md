@@ -216,6 +216,8 @@ trivia_items:
 - They are just hard to spot
 - They are among the most intelligent of invertebrates
 - They can bite. Don't touch them!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

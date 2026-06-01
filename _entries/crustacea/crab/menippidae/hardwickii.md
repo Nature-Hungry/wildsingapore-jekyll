@@ -187,6 +187,8 @@ trivia_items:
 - Common but usually well hidden, look carefully for them
 - They have big, powerful pincers. Don't touch them
 - They are identified by their bright green eyes ringed in red.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

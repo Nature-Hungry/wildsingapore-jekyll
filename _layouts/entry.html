@@ -209,6 +209,16 @@
         <section>
             {{page.links_references | markdownify}}
         </section>
+        <section>
+            <h4>Authors</h4>
+            <p>
+                {% for author in page.authors %}
+                    {{author | markdownify}}
+                {% unless forloop.last %} | {% endunless %}
+                {% endfor %}
+            </p>
+            
+        </section>
 
     </main>
 

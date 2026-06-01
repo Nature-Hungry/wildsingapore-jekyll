@@ -85,6 +85,8 @@ trivia_items:
 - But be careful about eating wild caught mussels
 - It attaches itself to a hard surface by producing threads! It is considered a pest
   outside its natural range.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

@@ -122,6 +122,8 @@ trivia_items:
 - Don't step on their tubes
 - The feathery fan is actually made up of modified tentacles
 - It gathers food.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

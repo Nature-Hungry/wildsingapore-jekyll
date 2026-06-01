@@ -105,6 +105,8 @@ trivia_items:
 - Each sea pen is a colony of many animals living together
 - Small crabs and other creatures often live among the fronds
 - At low tide, they retract into the ground. Don't step on them!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

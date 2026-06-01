@@ -54,6 +54,8 @@ links_references: '**Links**
   . Zoological Studies 47(4): 481-494.
 
   '
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 These snails with thick hemispherical shells belong to the Family Neritidae. Each species may come in a wide variety of patterns and colours, so they can't be distinguished by shell patterns and colours alone. Their shell structures look very similar. Here's how to roughly tell apart some of the most similar looking nerites. Positive identification, however, can only be made by looking at internal features of the shell and animal.

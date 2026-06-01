@@ -61,6 +61,8 @@ links_references: "**Links**\n- [Order Isopoda](http://mangrove.nus.edu.sg/pub/s
   \ of Australian Waters*\n. Reed New Holland. 224 pp.\n"
 size:
 - 1.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

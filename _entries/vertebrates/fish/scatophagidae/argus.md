@@ -149,6 +149,8 @@ trivia_items:
 - It is popular among anglers and as food
 - It has sharp poisonous spines
 - Don't handle it!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

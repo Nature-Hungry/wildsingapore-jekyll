@@ -136,6 +136,8 @@ trivia_items:
 - Tiny narrow leaves emerge in a rosette
 - It is considered globally rare with a limited global distribution
 - It's found at Chek Jawa, Sungei Buloh, Kranji and Mandai mangroves.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

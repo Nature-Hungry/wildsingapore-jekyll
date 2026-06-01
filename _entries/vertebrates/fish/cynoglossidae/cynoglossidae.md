@@ -96,6 +96,8 @@ trivia_items:
 - Tail, dorsal and anal fins joined all around the body
 - Found beneath the sand
 - Watch your step!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

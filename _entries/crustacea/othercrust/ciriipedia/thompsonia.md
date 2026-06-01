@@ -65,6 +65,8 @@ links_references: '**Links**
 location:
 - chg
 - cj
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

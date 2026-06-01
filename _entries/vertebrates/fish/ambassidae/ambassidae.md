@@ -80,6 +80,8 @@ trivia_items:
 - Large eyes and upturned mouths
 - Sometimes stranded in pools at low tide
 - Watch your step!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

@@ -166,6 +166,8 @@ trivia_items:
 - Look carefully for them
 - Their shells are highly prized, thus cowries are threatened by over-collection
 - With their shells covered, coowries are sometimes mistaken for slugs!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

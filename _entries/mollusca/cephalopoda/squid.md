@@ -124,6 +124,8 @@ trivia_items:
 - Squids and cuttlefish are fast moving shelless snails! They have ten arms and two
   tentacles
 - Their egg capsules are common on the shores. Don't step on them!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

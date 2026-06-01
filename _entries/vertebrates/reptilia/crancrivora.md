@@ -40,6 +40,8 @@ links_references: '**Links**
   Vertebrate Study Group, Nature Society (Singapore). 180 pp..
 
   '
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

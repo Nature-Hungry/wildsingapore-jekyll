@@ -144,6 +144,8 @@ trivia_items:
 - How do they do it? They use their pectoral fins to crawl
 - They are well camouflaged
 - Watch your step!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

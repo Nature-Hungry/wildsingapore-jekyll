@@ -5,6 +5,8 @@ keywords: velcro, crab, camposcia, retusa, majidae, decapod, crustacea, field, g
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info,  photo
 layout: entry
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 Filmed at Sisters Island, Dec 10

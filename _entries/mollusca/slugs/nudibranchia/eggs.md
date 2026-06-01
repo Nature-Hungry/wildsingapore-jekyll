@@ -61,6 +61,8 @@ trivia_items:
 - Watch your step
 - Please don't bring egg capsules home
 - Thousands of baby snails may die.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

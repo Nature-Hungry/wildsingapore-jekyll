@@ -150,6 +150,8 @@ trivia_items:
 - They use living sponges or ascidians as a disguise
 - Specialised legs grip the disguise
 - They tend to move slowly.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

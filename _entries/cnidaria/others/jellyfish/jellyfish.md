@@ -154,6 +154,8 @@ trivia_items:
   the beach
 - Sea turtles eat jellyfishes and often mistake plastic bags for jellyfishes
 - Turtles can die from accidentally eating the bags.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

@@ -156,6 +156,8 @@ trivia_items:
 - When you see a dead thing, look for them! The siphon of a whelk can be as long as
   its body
 - Sometimes, a tiny sea anemone hitches a ride on the shell of a living whelk.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

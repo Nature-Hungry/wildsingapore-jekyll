@@ -75,6 +75,8 @@ links_references: '**Links**
   Natural History Publications (Borneo). 83 pp.
 
   '
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

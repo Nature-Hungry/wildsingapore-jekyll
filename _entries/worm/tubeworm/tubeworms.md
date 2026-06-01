@@ -124,6 +124,8 @@ trivia_items:
 - Tubes of tiny worms may look like roots, don't step on them
 - Some can bite or sting
 - Don't touch! They live deep in the sand, don't dig them out.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

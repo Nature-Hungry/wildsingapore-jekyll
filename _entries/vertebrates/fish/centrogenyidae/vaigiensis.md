@@ -166,6 +166,8 @@ trivia_items:
 - This harmless fish is easily mistaken for a scorpionfish
 - It hides among seaweeds and under stones
 - Watch your step!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

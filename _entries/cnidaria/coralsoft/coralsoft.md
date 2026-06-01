@@ -109,6 +109,8 @@ trivia_items:
 - They are animals! Although they look like plants. Don't step on them
 - They don't produce a hard skeleton
 - Each soft coral is a colony of countless tiny polyps.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

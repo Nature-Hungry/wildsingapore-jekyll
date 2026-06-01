@@ -6,6 +6,8 @@ keywords: bearded, mudskipper, mud, skipper, fish, scartelaos, histophorus, gobi
   facts, fact sheet, info, photo
 layout: entry
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/histophorus/081217prplks01m3.jpg
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
  

@@ -94,6 +94,8 @@ location:
 - kus
 - sis
 rdb: VU
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

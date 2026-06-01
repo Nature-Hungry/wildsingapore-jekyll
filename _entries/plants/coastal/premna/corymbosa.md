@@ -59,6 +59,8 @@ galleries:
       the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit,
       Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2:
       1241-2444.'
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

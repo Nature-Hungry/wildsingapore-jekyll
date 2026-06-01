@@ -52,6 +52,8 @@ galleries:
     caption: Another mama cowrie with her eggs. Chek Jawa, Feb 05
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/neritidaenoid/020213cjd6879m3.jpg
     caption: Nerites mating with their white egg capsules. Chek Jawa, Feb 02
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

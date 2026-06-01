@@ -176,6 +176,8 @@ location:
 - tsm
 - lfa
 rdb: NE
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

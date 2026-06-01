@@ -53,6 +53,8 @@ galleries:
     caption: Flathead
   - url: https://f003.backblazeb2.com/file/naturehungry/callionymidae/erythraeus/050511cftg6206m3.jpg
     caption: Dragonet
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 Here's how to tell apart the

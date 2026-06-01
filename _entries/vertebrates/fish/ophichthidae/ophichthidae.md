@@ -142,6 +142,8 @@ trivia_items:
 - Often mistaken for snakes or worms, they are fish! They breathe through gills
 - They have smooth skin instead of scales
 - Most are burrowing and only active at night.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

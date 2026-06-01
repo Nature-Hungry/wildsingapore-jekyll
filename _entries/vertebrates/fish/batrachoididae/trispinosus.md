@@ -199,6 +199,8 @@ trivia_items:
 - They can croak like a toad
 - 'But don''t touch, they may bite! Hard to spot: they resemble stones'
 - So watch your step!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

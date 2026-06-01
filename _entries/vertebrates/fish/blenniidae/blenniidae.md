@@ -226,6 +226,8 @@ trivia_items:
 - Some can give a nasty bite! They lay their eggs in empty shells, so please put them
   back where you found them
 - Some of them nibble on bigger living fishes!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

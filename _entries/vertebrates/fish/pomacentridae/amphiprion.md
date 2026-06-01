@@ -99,6 +99,8 @@ trivia_items:
 - One anemone may be home to many anemonefishes
 - These fishes are threatened by over-collection for the aquarium trade
 - Don't keep Nemo in your home, he belongs in the ocean.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

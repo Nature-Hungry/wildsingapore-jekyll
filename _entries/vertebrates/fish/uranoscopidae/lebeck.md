@@ -134,6 +134,8 @@ trivia_items:
 - It has venomous spines! Don't touch or kick them! Most of the fish is usually well
   hidden under the sand
 - They lure prey towards them with a filament in their mouths.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

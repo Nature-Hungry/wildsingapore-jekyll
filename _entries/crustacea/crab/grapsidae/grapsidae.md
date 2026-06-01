@@ -108,6 +108,8 @@ trivia_items:
 - These crabs have long pointy legs to cling to and scramble over rocks
 - They have a flat body to slip through narrow crevices
 - They are very shy and disappear at the slightest sign of trouble.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

@@ -160,6 +160,8 @@ trivia_items:
   live with snapping shrimps, others in corals
 - They are well camouflaged
 - Watch your step!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

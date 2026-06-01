@@ -103,6 +103,8 @@ trivia_items:
 - Only healthy mangroves can support these magnificent top predators! When a crocodile
   smiles (mouth wide open) it's just cooling down, not about to bite
 - Crocodiles don't eat people.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

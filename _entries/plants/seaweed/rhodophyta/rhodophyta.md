@@ -138,6 +138,8 @@ trivia_items:
 - They may be green, black, brown
 - The seaweed used in sushi is a red seaweed! Extracts of red seaweed are used in
   our everyday processed food and products.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

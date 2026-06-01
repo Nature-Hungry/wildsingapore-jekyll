@@ -119,6 +119,8 @@ trivia_items:
 - They specialise in foraging at the water surface
 - Their lower jaw is many times longer than their upper jaw
 - Some are well camouflaged as floating twigs or rubbish.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

@@ -159,6 +159,8 @@ trivia_items:
 - They are smooth unsegmented worms
 - Common but rarely seen as they usually remain underground
 - The introvert is one of the interesting parts of this worm.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

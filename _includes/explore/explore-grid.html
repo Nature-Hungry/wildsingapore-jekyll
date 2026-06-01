@@ -56,12 +56,13 @@ let results = []
 const params = new URLSearchParams(window.location.search)
 const tree = document.getElementById('tax-filters')
 
-const initialQuery = params.get('q') || ''
+let initialQuery = params.get('q') || ''
 
 let currentPage = parseInt(params.get('page'), 10)
 if (isNaN(currentPage) || currentPage < 1) {
   currentPage = 1
 }
+
 
 const perpage = 20
 
@@ -116,10 +117,19 @@ let query = ""
 
 input.value = initialQuery
 
+document.addEventListener("DOMContentLoaded", () => {
+    initialQuery = params.get('q') || ''
+    currentPage = parseInt(params.get('page'), 10)
+    if (isNaN(currentPage) || currentPage < 1) {
+      currentPage = 1
+    }
+    query = initialQuery
+    
+});
 
-input.addEventListener('keydown', () => {
+input.addEventListener('keyup', () => {
   query = input.value.trim().toLowerCase()
-
+  console.log(query)
   currentPage = 1
 
   updateURL()

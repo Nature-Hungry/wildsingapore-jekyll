@@ -163,6 +163,8 @@ trivia_items:
 - This hermit crab is seldom seen on the mainland
 - Every empty shell is a potential hermit crab home. Don't take any shells home! It
   is so well adapted to land it will drown if kept under water!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

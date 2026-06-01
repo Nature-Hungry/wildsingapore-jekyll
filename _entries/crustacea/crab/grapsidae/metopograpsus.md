@@ -160,6 +160,8 @@ trivia_items:
 - These crabs have long pointy legs to cling to and scramble over rocks
 - They have a flat body to slip through narrow crevices
 - The pincers have scalloped edges and are used to scrape algae.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

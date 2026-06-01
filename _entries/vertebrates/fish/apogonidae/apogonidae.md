@@ -109,6 +109,8 @@ trivia_items:
 - Some are colourful
 - The male broods the eggs in his mouth
 - Don't touch them, some can give a nasty bite!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

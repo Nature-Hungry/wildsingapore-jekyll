@@ -55,6 +55,8 @@ galleries:
       136 pp.'
 size:
 - 1000.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

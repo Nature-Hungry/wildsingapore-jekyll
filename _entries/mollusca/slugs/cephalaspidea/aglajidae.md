@@ -46,6 +46,8 @@ location:
 - cj
 - ecp
 - cyr
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

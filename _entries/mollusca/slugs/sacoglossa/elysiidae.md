@@ -66,6 +66,8 @@ links_references: "**Links**\n- [Leaf Slug\n*Elysia*](http://mangrove.nus.edu.sg
 size:
 - 1.0
 - 4.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

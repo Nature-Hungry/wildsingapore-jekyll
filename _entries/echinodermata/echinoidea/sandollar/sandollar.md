@@ -165,6 +165,8 @@ trivia_items:
 - Sand dollars are alive! They are animals. Don't step on them! They are related to
   sea stars and have five-part symmetry
 - Living sand dollars have tiny moving spines that tickle when you hold them.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

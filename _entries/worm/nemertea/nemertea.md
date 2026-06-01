@@ -108,6 +108,8 @@ trivia_items:
 - They can be very long! They are predators and efficient hunters
 - They are delicate and some are venomous
 - Don't touch!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

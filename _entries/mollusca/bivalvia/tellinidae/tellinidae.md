@@ -76,6 +76,8 @@ location:
 - tsm
 size:
 - 5.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

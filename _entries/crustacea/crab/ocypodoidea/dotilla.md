@@ -164,6 +164,8 @@ trivia_items:
   very shy
 - To see them, wait quietly without moving
 - Unlike most crabs, they can run forwards, backwards as well as sideways.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

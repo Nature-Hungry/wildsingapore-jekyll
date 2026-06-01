@@ -128,6 +128,8 @@ trivia_items:
 - Lots of little animals often hide in them
 - Look for them! They grow rapidly on abandoned rope
 - In fact, they are farmed on ropes.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

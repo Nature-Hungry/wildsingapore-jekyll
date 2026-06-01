@@ -121,6 +121,8 @@ trivia_items:
 - Look out for unusual movement
 - Some are tiny and look like bits of dirt
 - They have pointed heads and long skinny legs.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

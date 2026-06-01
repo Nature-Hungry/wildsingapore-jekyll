@@ -176,6 +176,8 @@ trivia_items:
 - Pulau Semakau has the largest bed of tape seagrasses on Singapore that ordinary
   people can visit
 - It is believed to be among the main food of dugongs.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

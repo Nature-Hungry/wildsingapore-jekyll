@@ -109,6 +109,8 @@ trivia_items:
 - Valuable pearls do NOT come from the Family Ostreida
 - Oysters are often vandalised by thoughtless visitors
 - Oysters can cause food poisoning.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

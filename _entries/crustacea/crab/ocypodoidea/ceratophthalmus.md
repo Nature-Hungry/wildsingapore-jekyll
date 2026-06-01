@@ -133,6 +133,8 @@ trivia_items:
   high water mark
 - Their burrows are deep. Don't try to dig them up
 - They can move very fast.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

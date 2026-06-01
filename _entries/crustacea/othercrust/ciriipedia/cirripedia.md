@@ -145,6 +145,8 @@ trivia_items:
 - Barnacles affect urban living
 - They grow on ships and thus affect shipping
 - Cities rely on ships for supplies and transportation!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

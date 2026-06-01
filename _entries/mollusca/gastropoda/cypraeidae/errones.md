@@ -134,6 +134,8 @@ trivia_items:
 - Their shells are highly prized, thus cowries are threatened by over-collection.
   Don't rip off a cowrie from a stone! It might be a mother cowrie protecting her
   eggs.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

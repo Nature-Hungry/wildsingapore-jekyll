@@ -247,6 +247,8 @@ trivia_items:
 - These colourful crabs are poisonous to eat! Their toxins are NOT destroyed by cooking
 - They are generally secretive and slow-moving
 - They are not venomous but it's best not to touch them.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

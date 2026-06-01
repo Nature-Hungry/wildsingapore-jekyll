@@ -160,6 +160,8 @@ trivia_items:
   with
 - This small burrowing fish is easily trampled
 - Watch your step!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

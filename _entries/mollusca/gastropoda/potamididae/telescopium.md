@@ -86,6 +86,8 @@ trivia_items:
 - You are almost certain to see many of large snails on mudflats in the mangroves
 - It is edible and was eaten in the past, less so these days
 - It is a harmless herbivore, nibbling on algae.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

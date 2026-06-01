@@ -137,6 +137,8 @@ links_references: '**Links**
 location:
 - kus
 - tpg
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

@@ -122,6 +122,8 @@ trivia_items:
 - They give birth to live young
 - They will not sting unless you step on them
 - Watch your step!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

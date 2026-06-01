@@ -55,6 +55,8 @@ links_references: '**Links**
 location:
 - prp
 - sji
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

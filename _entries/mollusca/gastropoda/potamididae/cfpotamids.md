@@ -39,6 +39,8 @@ galleries:
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/cerithiidae/pellucida/050917smkg2563m3.jpg
     caption: This is a Mangrove creeper snail and is NOT a Horn snail
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

@@ -167,6 +167,8 @@ trivia_items:
 - These fishes can be tiny and well camouflaged
 - Watch your step! They do indeed have three spines
 - Don't take the fish out of the water or it may die.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

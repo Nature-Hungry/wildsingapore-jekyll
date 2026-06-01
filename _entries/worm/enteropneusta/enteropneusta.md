@@ -82,6 +82,8 @@ trivia_items:
 - They are advanced worms and play a role in recycling nutrients
 - They are very delicate
 - Don't dig them up!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

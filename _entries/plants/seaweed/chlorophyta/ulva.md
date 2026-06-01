@@ -128,6 +128,8 @@ trivia_items:
 - It's slippery and animals live among the seaweeds
 - Can eat or not? Yes you can if you're a pig
 - It used to be fed to pigs.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

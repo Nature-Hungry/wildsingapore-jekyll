@@ -92,6 +92,8 @@ trivia_items:
 - It is made of up little leaflets
 - It is most commonly seen on Chek Jawa, but rarely seen elsewhere
 - It is eaten by dugongs.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

@@ -6,6 +6,8 @@ keywords: painted scorpionfish, scorpion, fish, parascorpaena, picta, scorpaenid
   fact sheet, info, photo
 layout: entry
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/picta/100528tkkjk9m6l.jpg
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
  

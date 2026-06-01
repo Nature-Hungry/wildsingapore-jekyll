@@ -81,6 +81,8 @@ size:
 - 20.0
 - 30.0
 rdb: (ie;
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

@@ -150,6 +150,8 @@ trivia_items:
   sand balls are processed sand
 - Not excretion or from burrowing
 - They are related to fiddler crabs.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

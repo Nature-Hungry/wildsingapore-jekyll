@@ -155,6 +155,8 @@ trivia_items:
 - The thick, chalky operculum resembles a cat's eye
 - The pretty shell is often hidden under encrusting growths
 - Some are threatened by over-collection.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

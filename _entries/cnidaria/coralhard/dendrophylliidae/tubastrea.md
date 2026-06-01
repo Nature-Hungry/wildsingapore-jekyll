@@ -144,6 +144,8 @@ location:
 - tpg
 - tsm
 - rfl
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

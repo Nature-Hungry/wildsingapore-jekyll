@@ -172,6 +172,8 @@ trivia_items:
 - Don't take them off the rocks! They will wash away with the tide and may die
 - Periwinkles do move! But only at high tide or in cool weather
 - The area around a periwinkle is often grazed bare of algae.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

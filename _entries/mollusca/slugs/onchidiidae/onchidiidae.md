@@ -160,6 +160,8 @@ trivia_items:
 - Onchs are very well camouflaged
 - Don't step on them! Onchs graze on alge on the rock, see the bare patches on the
   rock? They are snails without shells, and hermaphrodites.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

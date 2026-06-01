@@ -225,6 +225,8 @@ trivia_items:
 - Look for trails in the sand! They are fierce predators that hunt other snails and
   clams
 - The body of a moon snail can inflate to many times the size of its shell.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

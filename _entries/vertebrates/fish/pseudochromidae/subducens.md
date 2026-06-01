@@ -245,6 +245,8 @@ trivia_items:
 - It may be green, brown or even bluish
 - It is well camouflaged
 - Don't step on it!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

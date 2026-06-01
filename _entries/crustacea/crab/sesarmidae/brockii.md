@@ -110,6 +110,8 @@ size:
 - 2.0
 - 2.5
 rdb: NE
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

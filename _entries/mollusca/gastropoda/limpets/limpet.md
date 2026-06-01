@@ -233,6 +233,8 @@ trivia_items:
 - Limpets are sometimes confused with barnacles
 - Limpets can move! But only at high tide
 - The area around a limpet is often grazed bare of algae.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

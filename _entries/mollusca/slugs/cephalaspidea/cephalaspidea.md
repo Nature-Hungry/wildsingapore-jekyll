@@ -39,6 +39,8 @@ galleries:
     caption: Paper bubble snail
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/philine/111028chged2710m3.jpg
     caption: '''Attap chee'' slug'
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

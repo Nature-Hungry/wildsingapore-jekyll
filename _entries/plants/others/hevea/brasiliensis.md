@@ -65,6 +65,8 @@ galleries:
       Volume 1: 1-1240; volume 2: 1241-2444.'
 size:
 - 2000.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

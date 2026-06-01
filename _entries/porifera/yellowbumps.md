@@ -36,6 +36,8 @@ location:
 - kus
 - hnt
 - smk
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

@@ -54,6 +54,8 @@ links_references: '**Links**
   '
 location:
 - kus
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

@@ -185,6 +185,8 @@ trivia_items:
 - They attach living sponges and seaweeds as a disguise
 - The disguise continues to grow and other animals live on it
 - They tend to move slowly.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

@@ -102,6 +102,8 @@ trivia_items:
 - They can undergo photosynthesis, but are more similar to bacteria than algae
 - 'They include some of the oldest living fossils: those producing stromatolites'
 - They are the reason why wild flamingos are pink!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

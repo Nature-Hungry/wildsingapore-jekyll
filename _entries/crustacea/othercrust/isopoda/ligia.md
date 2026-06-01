@@ -106,6 +106,8 @@ trivia_items:
 - They are NOT insects! They are more like crabs
 - They have seven pairs of legs and move very quickly
 - They are scavengers.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

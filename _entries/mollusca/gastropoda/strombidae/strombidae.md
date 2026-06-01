@@ -152,6 +152,8 @@ trivia_items:
 - 'Many of its features are adaptations to this hopping lifestyle: flared shell, large
   eyes'
 - Many are edible.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

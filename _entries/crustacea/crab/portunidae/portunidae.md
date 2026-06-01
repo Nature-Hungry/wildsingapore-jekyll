@@ -205,6 +205,8 @@ trivia_items:
   like fish
 - They can give a nasty pinch
 - Leave them alone!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

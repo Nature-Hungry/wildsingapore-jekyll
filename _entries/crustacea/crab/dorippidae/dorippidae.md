@@ -131,6 +131,8 @@ trivia_items:
 - They use a leaf, flat shell or other rubbish to hide under
 - Specialised legs grip the disguise
 - At night they swim above the leaf to hide from predators below.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

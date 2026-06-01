@@ -215,6 +215,8 @@ trivia_items:
 - Has a false eye to distract potential predators
 - This fish forms monogamous pairs
 - It does poorly in a home aquarium, Don't collect them.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

@@ -76,6 +76,8 @@ location:
 - smk
 - tsm
 rdb: NE
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

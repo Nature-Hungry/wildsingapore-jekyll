@@ -67,6 +67,8 @@ trivia_items:
 - Each fan is a colony of tiny polyps that produce a hard skeleton
 - Many fascinating animals live on them
 - Look for them.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

@@ -139,6 +139,8 @@ location:
 - lfa
 size:
 - 20.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

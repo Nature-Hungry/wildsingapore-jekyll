@@ -150,6 +150,8 @@ trivia_items:
 - You are almost certain to see these large snails during a visit to our mangroves
 - Many are edible and were eaten in the past, less so these days
 - Most are harmless herbivores, nibbling on algae.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

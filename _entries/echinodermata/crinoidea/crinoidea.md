@@ -121,6 +121,8 @@ trivia_items:
 - Feather stars are rarely found near the shore
 - Most species can move about from place to place
 - Their long spiny arms are fragile and break easily. Don't disturb them.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

@@ -135,6 +135,8 @@ trivia_items:
 - Often mistaken for plants, they are animals! Some can sting powerfully. Don't touch
   them
 - Each 'bush' is a colony of many little polyps.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

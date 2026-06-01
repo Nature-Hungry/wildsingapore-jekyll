@@ -83,6 +83,8 @@ galleries:
     caption: Tiny swimming crabs
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/powderblue/110730tmd7500m3.jpg
     caption: Powder blue-clawed swimming crab
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 **Swamped by swimming crabs?**

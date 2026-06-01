@@ -155,6 +155,8 @@ trivia_items:
   to deter predators
 - But don't force a pufferfish to do this
 - They have powerful teeth and can give a nasty bite.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

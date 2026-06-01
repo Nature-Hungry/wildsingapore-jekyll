@@ -186,6 +186,8 @@ trivia_items:
 - Eyes on the right side of the body
 - Found beneath the sand
 - Watch your step!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

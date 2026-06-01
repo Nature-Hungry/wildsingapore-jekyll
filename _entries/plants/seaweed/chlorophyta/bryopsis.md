@@ -149,6 +149,8 @@ trivia_items:
 - It's slippery and animals live among the seaweeds
 - Tiny animals are often found in this seaweed
 - Look for them.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

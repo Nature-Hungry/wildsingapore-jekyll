@@ -203,6 +203,8 @@ trivia_items:
 - They have a stiff dorsal spine and leathery skin instead of scales
 - Small ones (2-3cm) are common in seagrasses
 - Watch your step!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

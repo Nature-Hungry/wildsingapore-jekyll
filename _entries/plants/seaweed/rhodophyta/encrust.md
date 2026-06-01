@@ -151,6 +151,8 @@ location:
 - smk
 - tsm
 - lfa
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?

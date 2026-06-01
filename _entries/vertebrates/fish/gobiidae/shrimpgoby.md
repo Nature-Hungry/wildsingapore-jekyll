@@ -106,6 +106,8 @@ links_references: '**Links**
   . Singapore Biodiversity Records 2014: 299-300.
 
   '
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
 
 ## Where seen?
