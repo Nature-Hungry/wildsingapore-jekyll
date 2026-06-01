@@ -43,6 +43,7 @@
             <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
           </a>
         </div>
+         
           {%endif%}
         <div class="nav-links">
             <a href="/explore">Explore</a>
@@ -53,6 +54,38 @@
         </div>
         <div class="nav-socials">
         {% if site.data.social %}
+          <div class="site-sidebar__social" aria-label="Social links">
+            {% for item in site.data.social %}
+            <a href="{{ item.url }}" class="social-btn" aria-label="{{ item.title }}" title="{{ item.title }}"
+              {% unless item.url contains 'mailto' %}target="_blank" rel="noopener noreferrer"{% endunless %}>
+              <i class="{{ item.icon }}" aria-hidden="true"></i>
+            </a>
+            {% endfor %}
+          </div>
+        {% endif %}
+        </div>
+
+
+        <div class="mobile-nav-spacer"></div>
+        <input type="checkbox" autocomplete="off" id="menu-toggle-checkbox" class="menu-checkbox">
+        <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
+          #
+        </label>
+
+        <div class="side-menu">
+          <div class="side-menu-head">
+            <h3>Nature.Hungry</h3>
+            <label for="menu-toggle-checkbox" class="menu-toggle" aria-label="Toggle navigation">
+              x
+            </label>
+          </div>
+          <a href="/explore">Explore</a>
+          <a href="/wildfacts/concepts">Concepts</a>
+          <a href="/about">About</a>
+          <a href="/wildfacts/makeadiff/">Make a Difference</a>
+          <a href="/links">Useful Links</a>
+          <hr>
+          {% if site.data.social %}
           <div class="site-sidebar__social" aria-label="Social links">
             {% for item in site.data.social %}
             <a href="{{ item.url }}" class="social-btn" aria-label="{{ item.title }}" title="{{ item.title }}"
