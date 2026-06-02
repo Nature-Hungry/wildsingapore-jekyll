@@ -89,7 +89,8 @@ It feeds on fishes, crustaceans and other squids. It may also cannabalise other 
 **Baby Indian squids:**
 Eggs are laid in masses called egg mops, made up of many capsules, each capsule containing many eggs (100-300 eggs).
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
-**Human uses:**
+## Human uses
+
 It is an important seafood item in India and Thailand and harvested in various ways from trawling, net with lights, pushnet and hook and line. There is currently efforts to aquaculture this squid in Thailand.
 
 **Species are difficult to positively identify without close examination.

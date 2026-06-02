@@ -177,7 +177,8 @@ According to an account of being stung on a finger: "There was a sharp initial p
 **How to stay safe:**
 Don't grope around with bare hands.
 
-**Human uses:**
+## Human uses
+
 These fishes are sometimes taken for the aquarium trade..
 
 ---

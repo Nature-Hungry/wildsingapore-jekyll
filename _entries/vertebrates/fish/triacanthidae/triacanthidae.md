@@ -186,7 +186,8 @@ Tripodfishes belong to Family Triacanthidae. According to
 **What do they eat?**
 Tripodfish are adapted for sandy or muddy coastal areas. Here, they hunt for small fish and bottom-dwelling animals, sucking these up with their pointed mouths.
 
-**Human uses:**
+## Human uses
+
 Tripodfish are generally not considered good eating. When caught by trawlers together with other more marketable fish, tripodfish are considered trash. They are wastefully thrown back, often dead. In some places, however, such 'trash' fish are converted into fish meal or fertiliser. One species, the Short-nosed tripodfish (
 *Triacanthus biaculeatus*
 ) is said to be used in traditional Chinese medicine.

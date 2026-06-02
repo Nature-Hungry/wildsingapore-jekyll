@@ -125,7 +125,8 @@ It digs long, smooth sided burrows in solid coral rubble. The burrows are said t
 **Coral ghost shrimp food:**
 Most ghost shrimps species eat detritus and bacteria or on decaying seagrass and seaweeds.
 
-**Human uses:**
+## Human uses
+
 In Australia, some species are caught by fishermen and used as bait.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

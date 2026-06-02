@@ -125,7 +125,8 @@ a
 and visa versa. In murky waters, these two different animals do have a similar profile, both being round and flat with a long tail. But the horseshoe crab moves very differently- creeping slowly, while the stingray can dash away quickly.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
-**Human uses:**
+## Human uses
+
 It is harvested commercially as a food fish. According to
 [FishBase](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=15484)
 : It is caught in large quantities as by-catch of bottom trawl and trammel net fisheries. It is often seen among the fishes trapped in abandoned fishing nets and traps on our shores.

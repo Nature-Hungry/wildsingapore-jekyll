@@ -130,7 +130,8 @@ Body width 3-5cm. It has a squarish body and flat legs. The last two pairs of le
 **What does it eat?**
 It is a scavenger.
 
-**Human uses:**
+## Human uses
+
 In many parts of Southeast Asia, these little crabs are harvested as food. The females with eggs are particularly relished.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

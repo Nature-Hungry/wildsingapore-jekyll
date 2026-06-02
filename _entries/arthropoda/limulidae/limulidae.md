@@ -93,7 +93,7 @@ authors:
 Horseshoe crabs are sometimes encountered on our shores, more often on our northern shores especially near mangroves.
 
 **What is a horseshoe crab?**
-The horseshoe crab is a strange, ancient creature that has been around since before the dinosaurs. It is not a crab or even a [crustacean](../../crustacea/crustacea). It is more closely related to spiders and scorpions of the Class Arachnida.
+The horseshoe crab is a strange, ancient creature that has been around since before the dinosaurs. It is not a crab or even a [crustacean](/wildfacts/guides/crustacea/crustacea/crustacea). It is more closely related to spiders and scorpions of the Class Arachnida.
 
 There are only four species of living horseshoes crabs in the world. *Limulus polyphemus* is found on the Atlantic coast. In Southeast Asia there are three: the [Mangrove horseshoe crab](carcinoscorpius) (*Carcinoscorpius rotundicauda*) which is also the smallest horseshoe, and the [Coastal horseshoe crab](tachypleus) (*Tachypleus gigas*) and in Japan, China and southern Sabah are found the Chinese horseshoe (*Tachypleus tridentatus*).
 ## Features
@@ -101,7 +101,7 @@ There are only four species of living horseshoes crabs in the world. *Limulus po
 Adult body 15-25cm in diameter. Its shape is ideal for bulldozing through the mud and sand, and clinging to the bottom in rough water. It probably got its common name because its shell resembles a horse's hoof.
 
 A horseshoe has an exoskeleton, but unlike a crab's, this does not incorporate calcium and is made of chitin and protein instead. The shell is hard in adults, but more flexible in juveniles. Like other arthropods, a horseshoe crab must moult to grow bigger. During their first year, they may moult 5-6 times, growing 20-25% with each moult. It takes about 7 years to reach maximum size. Sometimes, you might come across what appears to be dead horseshoe crabs on the shore. These might just be moults. Moults are lightweight, have transparent eyes and no bad smell.
-[More about moulting](../../crustacea/moulting).
+[More about moulting](/wildfacts/guides/crustacea/crustacea/moulting).
 
 **Sometimes confused with** [stingrays](../../vertebrates/fish/dasyatidae/dasyatidae) . In murky waters, these two different animals do have a similar profile, both being round and flat with a long tail. Stingrays are fishes that are related to sharks.
 
@@ -128,13 +128,14 @@ The sharp tail of the horseshoe crab is is connected to the body in a ball-and-s
 **Horsing around:**
 Horseshoes mate during high spring tides when they can reach the highest part of the beach. The males are smaller and usually hitch a ride on the females using their specially adapted hooked first legs. Sometimes several males latch onto each other forming a chain on a female. The female digs a pit near the high water mark and lays about 200-300 eggs. The males release sperm over the eggs and the nest is covered. They may come back again at the next high tide and a female may lay a total of 2,000-30,000 eggs. In the US, migrating birds time their arrival to feed on this bonanza of horseshoe crab eggs. Eggs hatch at the next full moon when the tide is at its highest again. The hatchlings (called trilobite larvae) look like miniature adults but without tails, and are bright green! The larvae burrow into the sand and after a few moults begins to develop tails.
 
-{% include img-wrap-group.html items=page.galleries.gallery3 %}**Role in the habitat:**
-Like other scavengers, horseshoe crabs help keep the place clear of dead animals. Although the adults have few natural predators (apparently, only sharks and turtles will eat adults), their eggs and hatchlings are eaten by many creatures. Various creatures may settle on a horseshoe crab including [slipper snails](../../mollusca/gastropoda/calyptraeidae/calyptraeidae), [barnacles](../../crustacea/othercrust/ciriipedia/cirripedia), [keelworms](../../worm/polychaeta/serpulidae) and other encrusting plants and animals.
+{% include img-wrap-group.html items=page.galleries.gallery3 %}## Role in habitat
+Like other scavengers, horseshoe crabs help keep the place clear of dead animals. Although the adults have few natural predators (apparently, only sharks and turtles will eat adults), their eggs and hatchlings are eaten by many creatures. Various creatures may settle on a horseshoe crab including [slipper snails](../../mollusca/gastropoda/calyptraeidae/calyptraeidae), [barnacles](/wildfacts/guides/crustacea/crustacea/othercrust/ciriipedia/cirripedia), [keelworms](../../worm/polychaeta/serpulidae) and other encrusting plants and animals.
 
 **Why are there so many 'dead' horseshoe crabs?**
 You might come across what appears to be dead horseshoe crabs strewn on the shore. These are often not dead horseshoe crabs but merely their discarded skins! Like other[arthropods](../arthropoda/arthropoda), they a hard exoskeleton (external skeleton) and need to shed their exoskeleton in order to grow bigger. Called moulting, this also allows the animal to regenerate lost limbs. More about [moulting](moulting).
 
-**Human uses:**
+## Human uses
+
 Horseshoe crab blood has a substance that is so sensitive to bacteria that purified extracts of the blood are used to test for the presence of bacteria in human medication (e.g., intravenous fluids) and in medical tests. For more on how this test was discovered and exactly how it works, see the [Horseshoe Crab website](http://www.horseshoecrab.org/med/med.html) . About 200,000 crabs are bled every year for this substance. About 20% of a horseshoe's blood is extracted and in the US, laws require that the animal be returned to the sea. But about 10% die in the process. A team from the National University of Singapore's Department of Zoology has cloned a substance to replace wild-extracted horseshoe blood. Links to more info below.
 
 Horseshoe crabs have also contributed in other ways to human health. Much of the basic principles of vision is based on studies of the horseshoe crab's eyes.

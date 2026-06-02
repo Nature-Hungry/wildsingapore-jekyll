@@ -49,7 +49,8 @@ After the leaf-fall, flowers appear on long stalks (8-12cm) from the ends of the
 
 According to Corners, the word 'Saga' has been traced to the Arabic for goldsmith. In India and Sri Lanka, the seeds of this tee have been used as units of weight for fine measures, of gold for instance. Burkill suggests the seeds of the tree were the basis of the very earliest of such systems. Corners remarks "What more delightful counters for the primitive and bloody mind than these hard, red, heart-shaped seeds?"
 
-**Human uses:**
+## Human uses
+
 Burkill says the raw seeds are considered intoxicants. There are records that in Java, the seeds are roasted, shelled and eaten with rice and said to taste like soyabeans. In India, the seeds are also used in medicine. And everywhere, the seeds are used to make necklaces.
 
 The trees are also commonly planted as shade trees, although Burkill says they are "not ideal for the purpose, becoming untidy at the time of leaf-fall". According to Burkill, the timber is used in some places for house-building and cabinet-making. The wood produces a red dye but is not widely used, although in India it is pounded into a powder and used to make caste-marks. The wood is also used in tonics while the leaves are used to treat rheumatism and gout.

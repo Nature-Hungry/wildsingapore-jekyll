@@ -129,7 +129,8 @@ The tiny Pea crab (
 sp.) is sometimes found living inside these bivalves.
 The crab not only gains shelter but also eats some of the food gathered by the host clam.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
-**Human uses:**
+## Human uses
+
 'See-hum' is relished in many local favourites such as char kway teow and laksa. However, they may be affected by
 [red tide and other harmful algal blooms](../../../plants/seaweed/redtide)
 . They are also linked to cholera, hepatitis A and dysenteric shellfish poisoning. 'See-ham' is farmed in some places for sale as seafood. In Malaysia, it is a major mollusc that is marketed with an annual catch exceeding 75,000 metric tons.

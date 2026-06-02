@@ -93,7 +93,8 @@ This large yellow sea cucumber with little 'eye-spots' is sometimes seen near li
 
 15-20cm long. Body hard heavy, squarish in cross-section, blunt at the ends, with a wrinkled skin. Mostly yellowish brown with a pattern of 'eye-spots' that appear into 2-4 rows along the body length. 'Ocellatus' means 'having little spots' or 'marked with eyes'. These are not real eyes but comprise a large white bump with a dark tip. Distinct flat underside with many large tube feet with suckers appearing in three rows along the body length. The mouth is downward facing.
 
-**Human uses:**
+## Human uses
+
 It is among the sea cucumbers harvested for food.
 
 **Status and threats:**

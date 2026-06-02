@@ -76,7 +76,8 @@ and
 
 Usually a bush, sometimes a short tree (rarely exceeding 10m). Leaves leathery with very short leaf stalks, 2cm or less. Leaves oval, leathery with pointed tips, arranged opposite, in pairs. No stipules and no latex from broken parts. The young leaves are purple pink. The puffy white inflorescence is very short and dense (2cm or less) and calyx is minutely pimpled with oil glands. When the bushy trees are in bloom, the effect is 'snowy'. The fruit is small (less than 1cm) oblong, white and pithy, appearing in bunches.
 
-**Human uses:**
+## Human uses
+
 According to Burkill, the fruit is sweet, aromatic and edible. The reddish or brown wood is used for fuel and in boat building. The leaves and roots are also used in traditional medicine.
 
 ****

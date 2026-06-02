@@ -188,7 +188,8 @@ Dive video of cuttlefishes courting and laying egg capsules deep in a colony of 
 
 *Pulau Hantu, Aug 2020*
 
-**Human uses:**
+## Human uses
+
 People everywhere enjoy eating squids and cuttlefish. In Asia, they may be eaten freshly cooked, or they may be dried. They are also made into candied snacks. In the past, cuttlefish ink, called 'sepia', was used for writing and painting.
 
 Squids also have a role in human medical applications. Squids have gigantic nerve cells that are relatively easy to study. Much of what we know about our own nervous system is based on studies of squid nerve cells. Several Nobel prizes were based on such studies! The squid's efficient jet propulsion system is also inspiring designs for better underwater vehicles.

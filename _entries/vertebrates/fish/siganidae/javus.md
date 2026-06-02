@@ -84,7 +84,8 @@ Wear covered shoes. Don't handle rabbitfishes.
 **What does it eat?**
 Juveniles feed on algae growing on the bottom, sometimes entering river mouths to do so. Adults may feed on plankton in mid-water.
 
-**Human uses:**
+## Human uses
+
 The fish is marketed fresh in some places as food.
 
 ---

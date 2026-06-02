@@ -148,7 +148,8 @@ and
 *Zeuzera conferta*
 .
 
-**Human uses:**
+## Human uses
+
 According to Ng, the fruit is eaten. As a result, the tree is often cultivated in Malay villages.
 
 **Status and threats:**

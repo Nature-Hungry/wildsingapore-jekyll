@@ -275,7 +275,8 @@ In bottom-dwelling octopuses, the female looks after her eggs; keeping them oxyg
 
 The eggs do not hatch into free-swimming larvae. Instead, miniature octopuses emerge. Some are rather well-developed and settle down soon after hatching. Others may drift with the plankton before settling down.
 
-**Human uses:**
+## Human uses
+
 Octopuses are widely eaten in Asia. They are caught in many ways, including by lines, in pots or by trawling.
 
 **Status and threats:**

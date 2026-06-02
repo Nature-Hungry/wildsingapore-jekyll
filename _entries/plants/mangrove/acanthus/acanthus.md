@@ -147,7 +147,7 @@ authors:
 
 ## Where seen?
 These prickly plants with pretty flowers are often seen in thickets in the back mangroves, especially on
-[mud lobster mounds](../../../crustacea/othercrust/lobster/thalassina)
+[mud lobster mounds](..//wildfacts/guides/crustacea/crustacea/othercrust/lobster/thalassina)
 . These plants have no relation whatsoever with the Christmas holly, although they appear similar. In fact, not all the leaves of a Sea holly plant may have spiny edges. Leaves growing the deep shade can be totally spineless.
 
 ## Features
@@ -180,7 +180,8 @@ Open flower 2-2.5cm long, petals white. Inflorescence variable. Ripe fruit short
 
 Open flower 2-2.5cm long, petals white. Inflorescence variable usually shorter and with fewer flowers. Ripe fruit shorter than 2cm, but fruits are rare. Leaves usually wide above the middle. Usually with slender, sprawling stems without spines. It is more of a climber than the other species and in undisturbed forests may be seen even in the canopies.
 
-**Human uses:**
+## Human uses
+
 According to Burkill, the Malays have many medicinal uses for the plants and do not distinguish among the species. These include the seeds a part of cures such as cough-mixtures, as deworming for children and cures for boils. The pounded seeds used as a poultice on boils. The juice of the leaves are used to preserve the hair, the roots are used in a cure for shingles. A Malay ritual also includes using the prickly leaves under the house to ward off evil from pregnant women and using the leaves as part of rituals to heal mad people. According to Giesen, the fruit is pounded and used as a blood purifier and dressing for burns. Leaves relieve rheumatism. A compress of the fruit or roots is sometimes applied in cases of snakebite and arrow poisoning. Seeds are said to be used to treat internal worms. The plant may also be used as fodder.
 
 **Status and threats:**

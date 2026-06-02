@@ -108,7 +108,8 @@ This snail is often seen actively hunting
 [Button snails](../trochidae/umbonium)
 .
 
-**Human uses:**
+## Human uses
+
 It is collected as food and for the shell trade. In Thailand it is commonly collected using fishing nets at depths of 2-10m.
 
 ---

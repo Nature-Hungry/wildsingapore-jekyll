@@ -167,7 +167,8 @@ it has a shield over the front of the body which is used to plough through the s
 **What does it eat?**
 It grazes on algae growing on mangrove mud, usually feeding in shady parts of the mangrove forest.
 
-**Human uses:**
+## Human uses
+
 Some bubble-shell snails are eaten, preserved in soya sauce and fermented bean paste. The Malay name for a
 *Haminoea*
 species is Siput Bawang or Onion snail.

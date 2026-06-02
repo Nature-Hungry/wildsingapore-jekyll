@@ -119,7 +119,8 @@ Flowers, small (0.5cm) several in a dense ball-shaped cluster. Calyx thick with 
 
 Fruit brown and smooth without any texture. Hypocotyl long pointed (15-25cm long) with fluted ridges along the length and a white collar when ready to drop off.
 
-**Human uses:**
+## Human uses
+
 According to Burkill, it is highly valued as firewood as well as timber and it is "exploited so much that well-grown trees are rare". The bark was one of the chief dyes in Malaya and the batik industry, producing shades of purple, brown and black. It is also used to dye mats. The bark was also used for tanning and toughening fishing lines. It was said the natives of the Andamans sometimes eat the fruit. Medicinal uses include the bark for women in childbirth and as part of a lotion for ulcers.
 
 **Status and threats:**

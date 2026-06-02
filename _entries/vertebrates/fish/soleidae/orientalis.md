@@ -135,7 +135,8 @@ commonly seen.
 **What does it eat?**
 Lying buried in the sand, it preys on bottom dwelling animals especially crustaceans.
 
-**Human uses:**
+## Human uses
+
 It is eaten in some places and marketed fresh, frozen or dried salted.
 
 ---

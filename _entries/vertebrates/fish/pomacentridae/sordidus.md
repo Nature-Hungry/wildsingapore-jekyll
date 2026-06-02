@@ -90,7 +90,8 @@ To about 23cm, the one seen about 8cm long. Head and body white. It is identifie
 **What does it eat?**
 It is said to feed on algae, crustaceans and other invertebrates during the day.
 
-**Human uses:**
+## Human uses
+
 It is considered a food fish in Hawaii.
 
 ---

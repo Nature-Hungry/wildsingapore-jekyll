@@ -209,7 +209,8 @@ The fishes form pairs during breeding season. Elsewhere, juveniles sometimes see
 **What does it eat?**
 It eats small bottom-dwelling creatures and possibly sponges. It is also reported to be omnivorous.
 
-**Human uses:**
+## Human uses
+
 Unfortunately these beautiful fishes are popular in the live aquarium trade although they are considered difficult to keep and feed.
 
 ---

@@ -107,7 +107,8 @@ the
 [how to tell apart turban and top shell snails](../topturban)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
-**Human uses:**
+## Human uses
+
 It is collected for food by coastal dwellers.
 
 ---

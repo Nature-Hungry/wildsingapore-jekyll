@@ -103,7 +103,8 @@ Though not all
 *Hoyas*
 are vines, those in our mangroves are climbing twining vines that can be many metres long. Leaves (6-10cm) thick and succulent. Flowers emerge in a ball-like cluster. Each flower star-shaped with 5 waxy thick triangular petals, a smaller star-shaped structure in the centre. Fruits are long (10-15cm) bean-like which split open when ripe to release fluffy wind-dispersed seeds. A milky sap oozes out of cuts in the plant.
 
-**Human uses:**
+## Human uses
+
 According to Burkill, uses include the latex to stimulate digestion. According to Hugh Tan, the poisonous latex is used in Malaysia to ease painful catfish stings, in hot baths to treat rheumatism and to cure coughs and asthma.
 
 **Status and threats:**

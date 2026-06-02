@@ -196,7 +196,7 @@ Most jellyfish belonging to Class Scyphozoa and Class Cubozoa have of separate g
 
 In some small jellyfish, these larvae eventually settle down and develop into polyps that feed and grow. These polyps may reproduce asexually by budding off more polyps. Eventually, the polyp may reproduce asexually by budding off medusa forms. These medusa swim off and develop into adults that may eventually reproduce sexually. The original polyp may remain alive to produce medusa forms again later on.
 
-**Role in the habitat:**
+## Role in habitat
 Among the creatures that eat jellyfish are sea turtles. Because plastic bags and balloons look like jellyfish, sea turtles may eat them and eventually become ill and/or die. This is why it is important to dispose of plastic bags and balloons properly. Our litter can kill!
 
 **Jellyfish friends:**
@@ -206,7 +206,8 @@ and even
 [Ribbon jellyfishes](ribbon)
 including near their stinging tentacles.
 
-{% include img-wrap-group.html items=page.galleries.gallery4 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery4 %}## Human uses
+
 Jellyfish are a delicacy in Chinese cuisine. But so far, there has not been an outcry against harvesting them. Jellyfish themselves can become a threat. Introduced jellyfish (through ballast water) can upset the natural balance by out-competing native animals. Some jellyfish are seasonally abundant and those that sting can be a danger to swimmers when they are plentiful. A sudden increase in jellyfishes can also impair commercial fishing as they clog up nets. Explosions of jellyfish populations are considered to be an indicator of an imbalance in the ecosystem, or pollution.
 
 **Status:**

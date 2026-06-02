@@ -107,13 +107,14 @@ This large and handsome tree which mass flowers once a year is commonly planted.
 
 A tall tree (to 30m) that grows quickly. Crown oblong to irregular. Leaves shiny, leathery (12-18cm) with short stalks and distinctly downturned tip and 9-13 well spaced pairs of veins. The leaves are arranged opposite, in pairs. No stipules and no latex from broken parts. The trees flower at the same time after a dry season, usually once, sometimes twice a year. The white flowers are pom-pom like with white petals and many white stamens, appearing in clusters. They last 4-5 days. Corners describes them as having a 'sickly sweet' fragrance, and the mass flowering as 'most striking', with 'the crown whitened as with snow'. Fruits oblong to almost spherical (1.5-4cm), green leathery skin when ripe with a single seed. Bark is rough, greyish and shallowly fissured and somewhat flaky. The base of the trunk may be fluted but never buttressed.
 
-**Role in the habitat:**
+## Role in habitat
 The flowers are pollinated by insects and the fruits are 'eagerly sought after' by monkeys, bats and birds who disperse the seeds.
 
 **Sometimes other similar trees are mistaken**
 for the Sea apple. There are more than 1,000 species of similar trees in Africa and Asia.
 
-**Human uses:**
+## Human uses
+
 According to Wee, the timber is used in ship and house building. According to Burkill, it was planted extensively in Singapore in the 1800's as fire breaks as it is resistant to lallang fires.
 
 **Heritage Trees:**

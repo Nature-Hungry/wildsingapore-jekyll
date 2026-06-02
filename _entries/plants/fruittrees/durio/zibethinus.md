@@ -108,7 +108,8 @@ especially
 *[S. alba](../../mangrove/sonneratia/alba)*
 are important sources of food for these bats.
 
-**Human uses:**
+## Human uses
+
 The durian fruit evokes extreme reactions. People either love it or hate it, few are indifferent to it. Burkill declares 'many writers have attempted to describe the taste, and differ in their description, perhaps much more widely than the taste itself.'
 
 ![](https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/durio/zibethinus/091005cjd2007m6l.jpg)

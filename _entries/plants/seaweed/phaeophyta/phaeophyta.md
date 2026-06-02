@@ -132,13 +132,14 @@ Brown seaweeds have green chlorophyll but this is masked by other pigments, in p
 
 Brown seaweeds are only found in the sea and are not found in freshwater.
 
-**Role in the habitat:**
+## Role in habitat
 Brown seaweeds provide shelter and food for small animals. The large sargassum seaweeds in particular may shelter tiny octopuses, shrimps and fishes. The
 [Crosslandia slug](../../../mollusca/slugs/nudibranchia/crosslandia)
 (
 *Crosslandia*
 sp.) looks exactly like a sargassum blade!
-**Human uses:**
+## Human uses
+
 Unlike
 [red seaweeds](../rhodophyta/rhodophyta)
 and

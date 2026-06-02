@@ -118,7 +118,8 @@ This flat moon snail with a U-shaped depression on the underside is often seen o
 
 4-6cm. Shell smooth glossy, thick heavy, semi-spherical (wider than long), very flat with an almost flat spire. Shell pattern white at the spire, uniform colour elsewhere: white, cream, pale yellow to brown and orangey brown. On the underside, a deep U-shaped depression. Operculum smooth, made of a thin horn-like material, reddish or yellowish brown. Body huge, opaque white and when expanded it does resemble the albumen of a hard boiled egg. Tentacles short, white.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
-**Human uses:**
+## Human uses
+
 Where common, it is harvested for food and for the shell. In Thailand, commonly collected by fishing nets from depths of 2 to 10 m. Known also to be sold as food in the markets of Kyushu (Japan).
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

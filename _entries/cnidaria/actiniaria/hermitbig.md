@@ -79,7 +79,7 @@ authors:
 
 ## Where seen?
 This rather large anemone is sometimes seen on shells occupied by
-[hermit crabs](../../crustacea/othercrust/anomura/hermit/hermit)
+[hermit crabs](/wildfacts/guides/crustacea/crustacea/othercrust/anomura/hermit/hermit)
 on our Northern shores. The anemone is sometimes many times larger than the hermit crab! It is also seen attached to rocks and other small rubble, rubbish with a hard surface, as well as living snails.
 
 ## Features

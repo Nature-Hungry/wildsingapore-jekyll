@@ -122,9 +122,9 @@ sp.).
 
 **What are amphipods?**
 They are
-[crustaceans](../../crustacea)
+[crustaceans](/wildfacts/guides/crustacea/crustacea)
 that resemble shrimps. While shrimps belong to the Class
-[Decapoda](../../decapoda)
+[Decapoda](/wildfacts/guides/crustacea/decapoda)
 , beachfleas and other amphipods belong to the Order Amphipoda. Among the most numerous and most diverse of bottom-dwelling crustaceans, they are sometimes also called amphipods, sand hoppers or sandfleas. While most beachfleas are tiny, one monstrous beachflea (
 *Alicella gigantea*
 ) grows to 25cm! Fortunately, we are unlikely to encounter it as it lives at the bottom of the deep sea.
@@ -142,7 +142,7 @@ Most beachfleas are scavengers or feed on detritus. Some are filter feeders. A f
 **Beachflea babies:**
 Beachfleas mums brood their young in special pouches under their chest.
 
-**Role in the habitat:**
+## Role in habitat
 Beachfleas are eaten by many animals and are an important part of the food chain.
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

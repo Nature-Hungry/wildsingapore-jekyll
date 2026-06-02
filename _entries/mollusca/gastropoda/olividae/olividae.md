@@ -147,7 +147,8 @@ and
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What do they eat?**
 Olive snails are predators. They feed on other snails, small crustaceans and also scavenge on dead animals. An Olive snail remains in the sand while it sticks its siphon above the surface. When it 'smells' suitable prey, it emerges to engulf the prey with its large foot, smothering it with slime and then dragging it beneath the sand to be eaten at leisure.
-**Human uses:**
+## Human uses
+
 Although sometimes collected for food, they are mainly collected for their attractive shells for the shell trade.
 
 **Status and threats:**

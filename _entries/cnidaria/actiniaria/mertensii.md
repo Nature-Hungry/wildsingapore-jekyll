@@ -196,7 +196,7 @@ Besides the symbiotic algae that lives inside the their tentacles several kinds 
 sp.) including
 *A. akallopisos, A. akindynos, A. allardi, A. chrysogaster, A. chrysopterus, A. clarkii, A. fuscocaudatus, A. latifasciatus, A. leucokranos, A. ocellaris, A. sandaracinos, A. tricinctus*
 . But so far, the only animals observed on Merten's carpet anemones were the
-[Five-spot anemone shrimps](../../crustacea/othercrust/shrimp/brevicarpalis)
+[Five-spot anemone shrimps](/wildfacts/guides/crustacea/crustacea/othercrust/shrimp/brevicarpalis)
 (
 *Periclimines brevicarpalis*
 ) and the

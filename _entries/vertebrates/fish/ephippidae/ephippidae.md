@@ -172,7 +172,8 @@ the
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**What do they eat?**
 They feed on seaweeds and small animals.
 
-{% include img-wrap-group.html items=page.galleries.gallery3 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery3 %}## Human uses
+
 Juvenile batfishes are often taken from the wild for the aquarium trade.
 
 **Status and threats:**

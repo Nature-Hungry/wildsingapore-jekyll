@@ -188,7 +188,8 @@ More on
 **What does it eat?**
 It has a very protractile mouth which points downwards when extended. It sucks up a mouthful of sand with the protractile mouth and sorts out edible small bottom-dwelling animals, before spitting out the debris and sand.
 
-**Human uses:**
+## Human uses
+
 It may be sold fresh in local markets and is also ground up and used as fish meal or fed to ducks.
 
 *Species are difficult to positively identify without close examination.

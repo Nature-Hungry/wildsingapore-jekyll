@@ -138,7 +138,8 @@ An adult butterflyfish is usually restricted to a small territory and doesn't tr
 **Butterflyfish Babies:**
 The male and female of these fishes generally look similar. Many are found in monogamous mated pairs. In many species, the pairs are stable for at least three years and some may pair for life. A mating pair will rise to the water surface together, simultaneously releasing eggs and sperm. A unique feature of this family is a prolonged larval stage in which the free-swimming larvae may remain drifting with plankton for 2-3 months before changing into juvenile butterflyfishes. As a result, butterflyfishes are quite widely distributed. They are unique among fishes in that the larvae pass through a stage when a bony sheath encases the head.
 
-{% include img-wrap-group.html items=page.galleries.gallery3 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery3 %}## Human uses
+
 Butterflyfishes of various kinds are popular in the live aquarium trade. The family is the third most frequently exported and second highest in total value in the aquarium trade. However, most species are difficult to maintain in captivity. Those that eat only specialised prey are doomed to die of starvation in an aquarium.
 
 Harvesting of butterflyfishes and their relatives from the wild for the live aquarium trade may involve the use of cyanide or blasting, which damage the habitat and kill many other creatures. Like other fish and creatures harvested from the wild, most die before they can reach the retailers. Without professional care, most die soon after they are sold. Often of starvation as owners are unable to provide the small creatures and plants that these fishes need to survive. Those that do survive are unlikely to breed.

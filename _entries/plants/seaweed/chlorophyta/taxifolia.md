@@ -200,7 +200,8 @@ and how to tell apart
 [feathery green seaweeds and seagrasses](../../../glossary/seagrassweed)
 .
 
-**Human uses:**
+## Human uses
+
 ****
 This green seaweed is reported to be edible, to have antibacterial and antifungal properties, and used to treat tuberculosis and high blood pressure. However, some
 *Caulerpa*

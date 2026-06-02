@@ -146,7 +146,7 @@ Porcelain crabs are plentiful under the stones of our rocky shores, scattering i
 
 **What are porcelain crabs?**
 Porcelain crabs belong to the subgroup Anomura of the Order
-[Decapoda](../../../decapoda)
+[Decapoda](..//wildfacts/guides/crustacea/decapoda)
 . Anomurans includes
 [hermit crabs](../hermit/hermit)
 . Porcelain crabs belong to Family Porcellanidae.
@@ -171,7 +171,7 @@ Porcelain crabs filter feed at high tide. They have large mouthparts which are f
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Porcelain babies:**
 Porcelain crab eggs hatch into free-swimming larvae that only later settle down and develop into miniatures of their parents.
 
-**Role in the habitat:**
+## Role in habitat
 Some porcelain crabs live with other animals. One kind of porcelain crab lives on a
 [sea pen](../../../../cnidaria/others/pennatulacea/pennatulacea)
 . Elsewhere, there are porcelain crabs that live in

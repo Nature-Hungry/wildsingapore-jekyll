@@ -213,7 +213,8 @@ found that the dye irriates other animals such as crabs, sea urchins, fishes and
 {% include img-wrap-group.html items=page.galleries.gallery4 %}**Hare today, gone tomorrow!**
 Sea hares do not live long as large, mature adults, rarely longer than a year. They die soon after they reproduce. They are hermaphrodites, each animal having both male and female reproductive organs. The male organ appears on the neck, and the female opening is within the body mantle. Some sea hares are said to form mating chains, each one acting as male to the one in front of it and as a female to the one behind. They lay eggs in strings or ribbons. There is often a seasonal abundance of sea hares on our shores, with not a hare in sight in between.
 
-**Human uses:**
+## Human uses
+
 It is said that some Pacific Islanders eat sea hares. Yet again, there are reports of dogs being poisoned after eating sea hares. It appears that the algae that the sea hares eat may be responsible for the toxins.
 
 **Status and threats:**

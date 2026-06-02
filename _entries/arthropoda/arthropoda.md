@@ -48,7 +48,8 @@ Arthropods are among the most familar animals to us. 75% of all known animal spe
 **Arthropod features:**
 Arthropods have a harded outer skeleton (exoskeleton) called the cuticle. 'Arthropoda' means 'jointed foot' in Greek. Indeed, arthropods have jointed legs. Arthropods make up most of all known animals, so this body plan seems to work well.
 
-**Human uses:**
+## Human uses
+
 Arthropods are well used by people everywhere. They are among our favourite food! Remember that crabs and shrimps are also arthropods. Insects have influenced humans since the beginning of time. Their useful functions include pollinating our food crops. On the flip side, they also spread disease and destroy our food crops.
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

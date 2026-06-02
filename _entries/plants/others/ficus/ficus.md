@@ -68,10 +68,11 @@ There are many variations and different details, but this is what generally happ
 
 Figs and fig-wasps depend completely on one another. The fig-wasps can only develop in figs, and figs can only be pollinated by fig-wasps. Not only that, each species of figs depends on its own species of fig-wasps, and each fig-wasp on its particular figs!
 
-**Role in the habitat:**
+## Role in habitat
 Figs play a critical role in many habitats. While other trees in the forest often only fruit at long intervals, fig trees fig regularly and more frequently. The figs are relished by a wide variety of animals from birds to monkeys which disperse the plants.
 
-**Human uses:**
+## Human uses
+
 Some figs are important culturally. For example, Buddha is believed to have gained enlightenment under the Bodhi tree (
 *Ficus religiosa*
 ). Enormous fig trees in Asia often become stuff of legend and are treated with respect. Figs also provide food and medicine.

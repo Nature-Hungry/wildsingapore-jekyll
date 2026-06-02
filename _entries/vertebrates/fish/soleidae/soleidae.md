@@ -231,7 +231,8 @@ Soles hunt small animals that live on the bottom of the sea including other fish
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Single-sided Fish:**
 Flatfishes undergo an amazing change as they grow up. When it first hatches, a flatfish larva looks like the larva of other 'normal' fish. As the larva matures, it starts to swim on one side of its body. One eye moves to what becomes the upperside, also called the eyed side. The mouth and one pectoral fin also becomes asymmetrically distorted. There are also changes in the skeleton and digestive system. The change may be completed within five days.
 
-**Human uses:**
+## Human uses
+
 Some species are economically very important and are harvested for the food trade.
 
 ---

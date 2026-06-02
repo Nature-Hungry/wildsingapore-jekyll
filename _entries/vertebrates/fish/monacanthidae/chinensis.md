@@ -185,7 +185,8 @@ and
 [hydroids](../../../cnidaria/others/hydrozoa/hydrozoa)
 .
 
-**Human uses:**
+## Human uses
+
 It is sold as seafood in some places.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}

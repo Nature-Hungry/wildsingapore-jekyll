@@ -137,7 +137,8 @@ and
 *L. racemosa*
 practically exclude each other in habitat and have never been collected in exactly the same stand. The exact cause of this different ecological behaviour is not yet known.
 
-**Human uses:**
+## Human uses
+
 According to Burkill, the timber has similar properties as that of
 [Teruntum merah](littorea)
 (

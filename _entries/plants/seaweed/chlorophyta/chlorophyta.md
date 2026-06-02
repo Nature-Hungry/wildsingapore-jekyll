@@ -159,7 +159,8 @@ and
 [feathery green seaweeds and seagrasses](../../../glossary/seagrassweed)
 .
 
-**Human uses:**
+## Human uses
+
 Many green seaweeds are eaten directly by people. In the Philippines,
 [sea grapes](lentillifera)
 (
@@ -172,7 +173,7 @@ and
 [red seaweeds](../rhodophyta/rhodophyta)
 , green seaweeds are not a major source of extracts used commercially.
 
-**Role in the habitat:**
+## Role in habitat
 Like other seaweeds, green seaweeds provide food and shelter for a wide range of marine animals.
 
 Some of the animals that eat green seaweeds look like the seaweeds! Those commonly seen include the

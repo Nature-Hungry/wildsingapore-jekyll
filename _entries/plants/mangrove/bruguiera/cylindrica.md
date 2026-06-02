@@ -129,7 +129,8 @@ According to the NParks Flora and Fauna website, the tree is the preferred local
 *Olene mendosa*
 .
 
-**Human uses:**
+## Human uses
+
 According to Burkill, the propagules are occasionally eaten after boiling, and according to Giersen eaten with sugar and coconut. Fishermen do not like to use the wood for fish-traps as they say it has a peculiar smell that frightens fishes away. According to Giersen, the timber is heavy and reddish.
 
 *![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/cylindrica/091203ubnd4902m6l.jpg)

@@ -201,12 +201,13 @@ Some gobies (
 *Gobiosoma*
 spp.) perform 'cleaning' functions on larger fishes and other marine creatures. These gobies are usually colourful.
 
-{% include img-wrap-group.html items=page.galleries.gallery3 %}**Role in the habitat:**
+{% include img-wrap-group.html items=page.galleries.gallery3 %}## Role in habitat
 Being relatively abundant in the ecosystems they inhabit, these small fishes are believed to play a vital part in the food chain. In fact, the absence of gobies may be a sign of danger to the habitat, as
 [this study of reefs found](http://wildshores.blogspot.com/2009/08/tiniest-reef-fishes-warn-of-risks-to.html)
 .
 
-{% include img-wrap-group.html items=page.galleries.gallery4 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery4 %}## Human uses
+
 Gobies are generally not eaten, although it is said that large
 [mudskippers](mudskipper)
 are eaten in places like Taiwan. Some of the more colourful gobies are collected for the live aquarium trade.

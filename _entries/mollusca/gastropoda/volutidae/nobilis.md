@@ -160,7 +160,8 @@ This predator eats molluscs seeking out buried prey with its siphon and encloses
 Mama noble volutes lay large egg capsules. Each capsule about 10cm long, oval with angular bumps, translucent white to beige or yellowish. The capsules are usually stacked up to form a cylindrical, generally oval shape and the entire assembly attached to a hard, embedded object such as coral rubble. Each capsule contains many eggs, but only one or a few develop, the survivor having eaten the others. The eggs hatch and undergo metamorphosis within the egg capsules, emerging as tiny crawling snails. Because there
 is no free-swimming larval stage the snail has a restricted range and local populations can be wiped out by over-collection.
 
-{% include img-wrap-group.html items=page.galleries.gallery6 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery6 %}## Human uses
+
 Called 'kilah' in Malay, the Noble volute is edible. It is also 'often collected for its attractive shell.
 
 **Status and threats:**

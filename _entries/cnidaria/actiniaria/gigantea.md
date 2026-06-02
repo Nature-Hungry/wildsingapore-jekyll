@@ -204,7 +204,7 @@ sp.) including
 ,
 *A. percula, A. perideraion, A. polymnus*
 . But so far, the only animals observed on giant carpet anemones were: the
-[Peacock-tail anemone shrimps](../../crustacea/othercrust/shrimp/brevicarpalis)
+[Peacock-tail anemone shrimps](/wildfacts/guides/crustacea/crustacea/othercrust/shrimp/brevicarpalis)
 and the
 [Clown anemonefish](../../vertebrates/fish/pomacentridae/ocellaris)
 .
@@ -216,7 +216,8 @@ Like other anemones, the Carpet anemone has stingers in its tentacles. Generally
 **Carpet babies:**
 There is not much information on how Carpet anemones reproduce.
 
-**Human uses:**
+## Human uses
+
 Unfortunately, these beautiful anemones are harvested for the live aqurium trade.
 
 **Status and threats:**

@@ -186,7 +186,8 @@ Many conch snails are scavengers, eating decaying plants and animals. Others eat
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Conch babies:**
 Mama snails lay egg strings. Young conch snails may look different from adults, with thinner lips on the shells or lacking spines.
 
-{% include img-wrap-group.html items=page.galleries.gallery4 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery4 %}## Human uses
+
 Conch snails are edible and eaten everywhere they are found. In Singapore,
 [Gong-gong](canarium)
 were once plentiful, they are still harvested from our shores in small numbers. The Gong-gong is the most popularly eaten conch, fried with chilli or as fritters. You can sometimes still see them served at hawker centres. The

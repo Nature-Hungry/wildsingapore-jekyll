@@ -60,7 +60,8 @@ This native of South America is sometimes seen in Singapore. There are several t
 
 A tall 'bushy' tree (4-8m), with large leaves. The tiny flowers emerge from the trunk and thicker branches. Few of the hundreds of flowers set into fruits. Corners attributed this to the lack of pollinators. The large fruit pods (10–30 cm) are pale green turning orange and contain 20-60 seeds set in a slimy pulp. These seeds are fermented then processed to produce the cocoa that eventually becomes the chocolate that we so love.
 
-**Human uses:**
+## Human uses
+
 This native of South America was long used by the natives. It was 'discovered' by the Spanish from which it eventually spread to other parts of the world, particularly in Africa. According to Corners, it was introduced to Malaya in the 18th century and often seen in villages.
 
 ![](https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/theobroma/cacao/091005cjd1999m6l.jpg)

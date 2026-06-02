@@ -148,7 +148,8 @@ on
 [Image Quest 3-D Marine Library](http://www.imagequest3d.com/catalogue/larvalforms/)
 .
 
-**Human uses:**
+## Human uses
+
 Mantis shrimp are said to be edible but not worth collecting commercially because they hard to catch. Their solitary and anti-social nature makes them impossible to farm. They are also not popular for the aquarium trade as they are ferocious predators. Smashers also can damage aquariums. However, mantis shrimp in the wild are attractive subjects for divers and other visitors to marine habitats.
 
 **Status and threats:**

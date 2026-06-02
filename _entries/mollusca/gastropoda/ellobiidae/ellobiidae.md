@@ -148,7 +148,8 @@ These snails with thick shells are sometimes seen on leaves and trunks of mangro
 **What do they eat?**
 They graze on algae and lichen growing on mangrove trees and debris.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
-**Human uses:**
+## Human uses
+
 The larger snails are eaten as traditional and subsistence food in some coastal communities.
 
 **Status and threats:**

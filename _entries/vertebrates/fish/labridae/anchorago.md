@@ -160,7 +160,8 @@ To 38cm, those seen 20-30cm. With variable coloration, it is identified by a pal
 **What does it eat?**
 It fees mainly on hard-shelled prey including crustaceans, molluscs and sea urchins.
 
-**Human uses:**
+## Human uses
+
 It is sold fresh and as live seafood in Hong Kong.
 It is also harvested for the aquarium trade.
 

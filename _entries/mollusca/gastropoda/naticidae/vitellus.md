@@ -120,7 +120,8 @@ means calf in Latin.
 
 3-4cm. Shell thick smooth spherical (not flat), the spiral tip hardly sticks out. Shell beige, brown or orange with 1-3 darker spiralling bands of various widths, this is usually more obvious on the underside. On the underside, a small depression. Operculum white with with a dark smudge where the whorl begins, a pair of spiralling grooves on the outer margin and finely serrated inner margin. Body plain white or beige.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
-**Human uses:**
+## Human uses
+
 It is collected for food and for the shell trade. In Thailand, it is commonly collected by fishing nets from depths of 2-10m.
 
 ---

@@ -97,7 +97,8 @@ are sometimes seen on our sandy shores.
 
 The Family Turridae is among the largest of marine snails and members are difficult to distinguish. These snails are active predators that can rasp at prey with their radula or stab with detachable needle-like teeth charged with venom.
 
-**Human uses:**
+## Human uses
+
 They are not actively harvested although they are occasionally caught by shrimp trawlers.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

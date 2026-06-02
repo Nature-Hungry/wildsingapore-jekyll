@@ -152,10 +152,11 @@ Button snails appear to be among the favourite prey of
 .
 [Olive snails](../olividae/olividaenoid)
 have also been seen hunting them. Other large animals probably also snack on them. Empty buttons shells are favourite homes of tiny
-[hermit crabs](../../../crustacea/othercrust/anomura/hermit/hermit)
+[hermit crabs](..//wildfacts/guides/crustacea/crustacea/othercrust/anomura/hermit/hermit)
 . So please resist the temptation of taking home even an empty button snail. A homeless hermit crab might need it!
 
-{% include img-wrap-group.html items=page.galleries.gallery3 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery3 %}## Human uses
+
 Sadly, these beautiful tiny animals are collected, killed and their shells sold as cheap curios and for handicrafts. In the Philippines they are commonly gathered as food. Vendors traditionally provide the buyer with an aromatic thorn from the Acacia to pry the meat out.
 
 **Status and threats:**

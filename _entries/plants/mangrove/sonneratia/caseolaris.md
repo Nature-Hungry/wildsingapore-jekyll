@@ -170,7 +170,8 @@ The
 *Attacus atlas*
 ) has been seen feeding on the tree.
 
-**Human uses:**
+## Human uses
+
 According to Burkill, the young fruit is sour and used to flavour curries and chutnies. When ripe, the fruit have a "cheese-like taste" and is eaten raw or cooked. The pneumatophores are converted into corks for fishing net floats by shaping them and boiling them in water. The timber is not much used as the salt in it rusts iron nails and screws. Medicinal uses include various parts of the fruit for haemorrhage and coughs. According to Giesen, it makes poor timber but is occasionally used in salt-water piling. The pnematophores are used for making wooden soles of shoes.
 
 **Status and threats:**

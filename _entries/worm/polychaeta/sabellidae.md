@@ -157,7 +157,8 @@ Feather-duster or 'Christmas tree fanworms' more familiar to divers belong to
 . These worms build hard tubes out of calcium, while fanworms' don't. Feather duster worms usually have an operculum to cover the tube opening, while fanworms don't. More on how to tell apart
 [animals with a ring of feathery tentacles](../../glossary/feathery)
 .
-**Human uses:**
+## Human uses
+
 Unfortunately, fanworms are popular in the live aquarium trade and collected for this purpose. A fanworm (
 *Sabella spallanzanii*
 ) introduced to Australian harbours and coasts is affecting some mussel farms because they grow on the lines meant for mussel larvae settlement. Dense growths of these worms foul up dredges and nets, overgrow seagrass and are such effective filter feeders that they deprive native filter feeders of food.

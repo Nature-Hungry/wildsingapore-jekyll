@@ -58,7 +58,7 @@ galleries:
 size:
 - 200.0
 - 1500.0
-rdb: Lc
+rdb: LC
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
@@ -71,7 +71,8 @@ This elegant and pretty climber is sometimes seen among shore vegetation and in 
 A climber with a thin long stem (2-15m long), woody at the base but generally green along most of its length. Leaves narrow and long (6-7cm) with a curling tip that winds around other plants. Small white flowers in clusters at the ends of the stem. Fruits round, smooth, shiny berry, green turning pink to orange. Each fruit with only one seed.
 
 ****
-**Human uses:**
+## Human uses
+
 According to Burkill, its tough stems are used for basket-making and for stitching attaps. The young leaves are used in hair-washing. Various other parts of the plants are also used for other traditional medicinal uses. According to Giesen, it is considered inferior to true rattan. The leaves may be used as a plaster on wounds.
 
 ![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/flagellaria/indica/090111smkd4873m3.jpg)

@@ -155,7 +155,8 @@ Some other species found on our shore that resemble Gracilaria include
 *Hydropuntia edulis*
 which also belongs to Family Gracilariaceae
 
-**Human uses:**
+## Human uses
+
 The
 *Gracilaria*
 species are a major source of food-grade agar. The seaweed is both harvested from the wild and farmed for commercial applications. On farms, they are grown on ropes. A wide range of Gracilaria species have commercial uses. About 30,000 tons of

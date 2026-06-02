@@ -112,7 +112,8 @@ Each individual zooid may completely degenerate within its house and is later re
 **Bryozoan Babies:**
 A bryozoan colony grows by budding, but bryozoans also reproduce sexually. Most bryozoan colonies are hermaphrodites, but each zooid is usually either male or female. Most bryozoans shed their sperm into the water but brood their eggs. The parent zooid usually degenerates as the embryo develops. It may later be regenerated after the free-swimming larva literally leaves the house. These eventually settle down and start a new bryozoan colony. Some produce a particular kind of larva called cyphonautes that is enclosed by a pair of shells and can remain drifting for many months.
 
-**Human uses:**
+## Human uses
+
 Being immobile, bryozoans may help protect themselves with chemicals which deter potential predators. Some of these chemicals are being studied for human medical applications. A bryozoan compound is part of the drug bryostatin which is being tested as an anti-cancer drug.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}

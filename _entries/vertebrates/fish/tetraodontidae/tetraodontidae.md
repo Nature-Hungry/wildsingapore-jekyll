@@ -190,7 +190,8 @@ Some species appear to eat whatever they can find. Others may specialise in eati
 **Puffer babies:**
 Pufferfishes lay eggs in a nest and it is presumed that the nest is defended.
 
-**Human uses:**
+## Human uses
+
 Despite their toxic nature, pufferfishes are eaten in Japan as a delicacy.
 
 **Status and threats:**

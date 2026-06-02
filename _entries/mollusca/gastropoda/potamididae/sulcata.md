@@ -121,7 +121,8 @@ and
 [how to tell these snails apart](cfpotamids)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
-**Human uses:**
+## Human uses
+
 It is extensively collected for food and the shell used to produce lime in the Philippines.
 
 ---

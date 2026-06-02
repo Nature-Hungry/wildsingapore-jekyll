@@ -205,7 +205,8 @@ Seamoths are believed to have social behaviour and form monogamous pair bonds. U
 **What do they eat?**
 They are predators, feeding on tiny creatures on the sea bottom. These are sucked up with their small, toothless mouths found under the snout.
 
-**Human uses:**
+## Human uses
+
 Seamoths are collected for use in traditional Chinese medicine, like their unfortunate cousins the seahorses and pipefishes. This puts pressure on wild populations.
 
 ---

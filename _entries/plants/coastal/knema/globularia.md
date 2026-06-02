@@ -76,7 +76,8 @@ Flowers tiny (0.5cm) brown and woolly on the outside.
 
 Fruits globular (1-2cm) with a thin skin, when ripe, splitting to reveal a bright red and pulpy aril which probably attract birds that disperse the seed within.
 
-**Human uses:**
+## Human uses
+
 According to Burkill, the wood is not durable but it is sometimes used for rafters.
 
 **Status and threats:**

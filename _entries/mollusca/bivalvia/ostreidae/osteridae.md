@@ -130,7 +130,7 @@ It is hard to distinguish oyster species by their shell shape alone. Their shell
 **Sometimes mistaken for**
 [limpets](../../gastropoda/limpets/limpet)
 or
-[barnacles](../../../crustacea/othercrust/ciriipedia/cirripedia)
+[barnacles](..//wildfacts/guides/crustacea/crustacea/othercrust/ciriipedia/cirripedia)
 . Here's more on how to tell apart
 [shelled animals found on the rocks](../../../glossary/limpetbarnacle)
 .
@@ -141,7 +141,8 @@ Like most other bivalves, oysters are filter feeders. When submerged, an oyster 
 **Oyster babies:**
 Oysters may produce eggs or larvae. Some species may change gender while others are simlutaneous hermaprodites being predominantly male or female depending on the temperature of their environment and availability of food.
 
-**Human uses:**
+## Human uses
+
 Oysters are relished by people everywhere as a delicacy. They are also believed to have aphrodisiac properties in some cultures. Like other filter-feeding clams, however, oysters may be affected by
 [red tide and other harmful algal blooms](../../../plants/seaweed/redtide)
 when they are then harmful to eat.

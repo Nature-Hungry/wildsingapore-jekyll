@@ -112,7 +112,8 @@ The dove snails commonly seen on our shores graze on algae. Those that live on s
 **Dove babies:**
 Dove snails lay hemi-spherical eggs under rocks and other nooks and crannies.
 
-**Human uses:**
+## Human uses
+
 They are mainly collected for their colourful shells often made into necklaces for the tourist souvenir trade, although sometimes used for food.
 
 **Status and threats:**

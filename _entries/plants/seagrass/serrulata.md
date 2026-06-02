@@ -122,7 +122,7 @@ other ribbon-like seagrasses. Here's more on
 **Flowers and fruits:**
 This seagrass has separate male and female plants. Flowering is rarely observed. The female flower appears in pairs at the base of the leaves. They have a prong-like stigma. The male flowers form within the leaf sheath. Seeds (10mm) are dark coloured with a hard-coated, beaked nut with three blunt ridges along the length. The seeds are attached to the rhizome.
 
-**Role in the habitat:**
+## Role in habitat
 Dugongs eat this seagrass where smaller
 *Halophila*
 and

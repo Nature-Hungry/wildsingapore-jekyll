@@ -162,7 +162,7 @@ On Chek Jawa, patches were seen among the byssus nests created by
 *Musculita senhausia*
 ). In Singapore's northern mangroves, mangrove seedlings are often seen in patches of this seagrass.
 
-**Role in the habitat:**
+## Role in habitat
 Studies suggest that beds of Beccari's seagrass are an important nursery for
 [horseshoe crabs](../../arthropoda/limulidae/limulidae)
 in many regions.

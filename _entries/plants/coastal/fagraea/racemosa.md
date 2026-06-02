@@ -51,7 +51,8 @@ This beautiful bush can grow tall. It is commonly seen along the forest trail to
 
 A shrub to small tree (2-3m). Bark pale and somewhat fissured. Leaves are large (15-30cm), fleshy and leathery, dark green and glossy. Flowers (2cm wide) white crowded on a spike (6-14cm long) that emerges under the leaves. Fruits oval with a pointed tip. According to Corners, there is a variety with the flowers more loosely arranged on the inflorescence. It flowers seasonally, usually twice a year.
 
-**Human uses:**
+## Human uses
+
 According to Burkill the plant is "much used by the Malays in medicine", and its name "Sepuleh" means "the restorer" in Malay. The roots are used in a treatment for fever, leaves used in a tonic, to treat fevers, rheumatism. It so closely resembles a coffee bush that it is also called the False coffee plant or 'Kopi Hutan' which means 'Coffee of the Forest'. But none of its uses involve anything vaguely similar to that of real coffee.
 
 **Status and threats:**

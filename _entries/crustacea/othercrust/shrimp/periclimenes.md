@@ -102,7 +102,8 @@ These transparent shrimps are often seen living on other animals such as sea ane
 
 1-3cm long. These little shrimps are usually transparent. They are thus sometimes also called glass shrimps. Sometimes, all that can be seen of them are their beady little eyes! At night, the shine from their eyes make them easy to spot. Some have white markings or a fine stripe along the body.
 
-**Human uses:**
+## Human uses
+
 Unfortunately, these amazing shrimps are popular in the live aquarium trade and thus harvested from wild reefs to supply the trade.
 
 **Status and threats:**

@@ -114,7 +114,8 @@ According to the NParks Flora and Fauna website, the tree is the preferred local
 *Bruguiera gymnorrhiza*
 ) but differs in smaller, thinner leaves and the flower petal tips are blunt without hairy tassels.
 
-**Human uses:**
+## Human uses
+
 According to Burkill, the developing embryo is cooked, soaked overnight and then eaten. Juice from the fruits may be used to treat sore eyes, shingles or treat burns. According to Giersen, the heavy to very heavy timber is hard and strong. Used for poles as well as firewood and charcoal. In Sulawesi, the fruits are eaten after they are soaked and boiled.
 
 **Status and threats:**

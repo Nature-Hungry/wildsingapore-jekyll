@@ -105,7 +105,8 @@ looks similar.
 **What does it eat?**
 It hunts small animals living on the bottom of the sea, especially small crustaceans.
 
-**Human uses:**
+## Human uses
+
 It is marketed fresh, frozen and dried-salted.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}

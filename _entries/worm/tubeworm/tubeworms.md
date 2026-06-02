@@ -194,7 +194,8 @@ The tubes of
 [Gregarious tubeworms](../polychaeta/gregarious)
 may also help anchor sediments. These tubeworms may live packed so closely together that they form mounds up to 1m or more across! These mounds trap pools of water at low tide for small creatures to shelter in. Thesetubeworms are often seen in areas with seagrass. Perhaps these worms anchor the sediments that allow seagrasses to grow, or visa versa?
 
-**Human uses:**
+## Human uses
+
 Fishermen sometimes dig out tubeworms to use as bait.
 
 **Status and threats:**

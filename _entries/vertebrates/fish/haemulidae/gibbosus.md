@@ -177,7 +177,8 @@ It can change colour rapidly from pale patterns to dark. Often seen in pairs or 
 **What does it eat?**
 It eats small bottom-dwelling animals.
 
-**Human uses:**
+## Human uses
+
 This fish is considered excellent to eat and is harvested by handline and spear.
 
 ---

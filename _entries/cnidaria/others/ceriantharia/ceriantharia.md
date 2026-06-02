@@ -147,7 +147,8 @@ may be found near cerianthids. Is it said some small crabs (
 *Periclimenes*
 sp.) are associated with the cerianthid.
 
-{% include img-wrap-group.html items=page.galleries.gallery3 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery3 %}## Human uses
+
 Cerianthids are sometimes taken for the live aquarium trade. However, they do not make good tank mates as their floating stingers affect other creatures in the tank. Their burrowing habit and long body columns means they require deep tank beds. They also only take suspended food. This makes them difficult to keep alive in a home aquarium.
 
 **Status and threats:**

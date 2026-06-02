@@ -141,7 +141,8 @@ No!
 No!
 '.
 
-**Human uses:**
+## Human uses
+
 It is said to be eaten in some places and sometimes sold in markets.
 
 ---

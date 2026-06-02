@@ -155,7 +155,8 @@ Like many other bivalves, venus clams are filter feeders. They lie buried in the
 [drawing of this complex filter](http://shells.tricity.wsu.edu/ArcherdShellCollection/Illustrations/Venus_Gilll.html)
 .
 
-{% include img-wrap-group.html items=page.galleries.gallery2 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery2 %}## Human uses
+
 Many of the commercially important clams are venus clams. Some are also used as fish bait. Venus clams are among the favourite seafood of people everywhere. Like other filter-feeding clams, however, venus clams may be affected by
 [red tide and other harmful algal blooms](../../../plants/seaweed/redtide)
 . Such clams can then be harmful to eat.

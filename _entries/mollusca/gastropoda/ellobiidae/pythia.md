@@ -92,7 +92,8 @@ This odd-shaped snail is sometimes seen in our back mangroves, on leaves and tru
 **What does it eat?**
 It grazes on algae growing on mangrove tree leaves and trunks.
 
-**Human uses:**
+## Human uses
+
 In Indonesia, they are sometimes collected for food.
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

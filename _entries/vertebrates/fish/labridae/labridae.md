@@ -135,7 +135,8 @@ An intriguing member of this family is the Cleaner wrasse (
 **Wrasse babies:**
 Wrasses can change their gender! Most wrasses grow to become females first. A female can turn into a fully functional male within a few days. In some species, each male has a harem of females. When the male dies, the largest female changes gender and takes his place. In some species, however, there are two kinds of males. One that is born a male (primary male), and another that was born a female and later turned male. Primary males can produce more sperm than those that change into males; however, primary males usually wear the colours of a female! Mating wrasses rise up to the water surface together, releasing eggs and sperm simultaneously.
 
-{% include img-wrap-group.html items=page.galleries.gallery3 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery3 %}## Human uses
+
 Being colourful and lively, wrasses of various kinds are extensively harvested from the wild for the live aquarium trade. Some large ones are harvested as food. The Napolean wrasse (
 *Cheilinus undulatus*
 ) is a large fish that is being over-collected as a luxury food item for the Chinese market. These gentle, intelligent fishes can live for 50 years and reach up to 180kgs. Unsustainable harvesting of these fishes may doom them to extinction.

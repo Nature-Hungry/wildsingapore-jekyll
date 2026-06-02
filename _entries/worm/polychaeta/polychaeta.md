@@ -212,7 +212,8 @@ The Singapore Biodiversity Records has an article that might be related to brist
 **Role in the ecosystem:**
 Bristleworms are eaten by many creatures higher up in the food chain. Shorebirds, for example, depend on worms for sustenance to make their long migrations.
 
-**Human uses:**
+## Human uses
+
 Fishermen sometimes dig out bristleworms to use as bait.
 
 **Status and threats:**

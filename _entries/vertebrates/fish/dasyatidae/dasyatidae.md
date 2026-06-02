@@ -245,7 +245,8 @@ The snout may function as an electroreceptive organ, sensitive to electric charg
 ****
 Stingrays practice internal fertilisation. Males have a pair of claspers near the pelvic fins with grooves to introduce the sperm into the female. Stingrays give birth to live, fully developed young.
 
-**Human uses:**
+## Human uses
+
 ****
 Stingrays are a popular seafood dish in Singapore. The large pectoral fins are barbequed and served with chilli, often on a banana leaf. You can see their cartilageous bones as you eat the flesh. The
 [Blue-spotted fantail ray](lymma)

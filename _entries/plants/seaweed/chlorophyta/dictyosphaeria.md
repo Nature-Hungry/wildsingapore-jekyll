@@ -135,7 +135,8 @@ According to
 *Dictyosphaeria*
 species.
 
-**Human uses:**
+## Human uses
+
 Some species are used as human food, fed to animals and as fish bait. They are reported to have anti-microbial properties. Although it is well behaved in Singapore, when this seaweed grows outside its natural range as an invasive alien, it can grow rapidly in carpets, replacing corals and seriously affecting reefs.
 
 ![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/dictyosphaeria/090412hntd9644m3.jpg)

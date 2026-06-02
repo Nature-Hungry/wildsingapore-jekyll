@@ -135,7 +135,8 @@ They hunt on the sea bottom for a variety of small animals. These are picked off
 **Baby emperors:**
 In some species, females can change gender to males.
 
-**Human uses:**
+## Human uses
+
 Large species are important commercially as seafood. In some countries, they are the most important catch by weight.
 
 **Status and threats:**

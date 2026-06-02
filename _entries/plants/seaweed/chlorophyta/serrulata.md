@@ -167,7 +167,8 @@ similar green seaweeds. Here's more on
 [how to tell apart some green seaweeds](cffeathery)
 .
 
-**Human uses:**
+## Human uses
+
 This seaweed is reported to be edible and used in medicines as an antibacterial and antifungal agent as well as to lower blood pressure.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

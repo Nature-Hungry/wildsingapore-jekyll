@@ -176,7 +176,8 @@ Horn snails graze on detritus and algae growing on the bottom or other surfaces 
 **Horn snail babies:**
 Members of this family have separate genders. The male transfers a sperm packet into the female. Eggs are laid in a gelatinuous mass on hard surfaces or the muddy bottom.
 
-**Human uses:**
+## Human uses
+
 Many Horn snails are eaten by people.
 [Rodong](telescopium)
 is said to be delicious when steamed and eaten with chilli.

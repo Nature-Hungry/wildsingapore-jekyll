@@ -53,7 +53,8 @@ This large tree can be seen on Pulau Ubin. According to Hsuan Keng, it is native
 
 A large strangling fig with many aerial roots. Leaves glossy dark green, leathery, large (7.5-25cm) with many fine parellel veins. The large stipules are bright red. The small figs are oval (1cm long) and ripen yellow. Large red buds also appear on the lower branches.
 
-**Human uses:**
+## Human uses
+
 According to Corners, before the introduction of
 [*Hevea brasiliensis*](../../others/hevea/brasiliensis)
 , the India-rubber tree was a major source of rubber in our part of the world. According to Burkill, it lost out because the India-rubber tree latex contains a resin that hardens with time thus making the latex less elastic. It also does not produce as much latex as

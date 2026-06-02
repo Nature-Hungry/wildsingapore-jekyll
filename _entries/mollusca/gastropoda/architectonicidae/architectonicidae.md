@@ -111,7 +111,8 @@ They feed on sea anemones, corals and zoanthids. The mouth region is lined with 
 
 **Sundial babies:**
 The snails are simultaneous hermaphrodites. Eggs are numerous, laid in capsules and embedded in a gelatinous mass anchored to the substrate, hatching as planktonic larvae. Pelagic larval stages often long, hence the snails have a very wide distribution.
-**Human uses:**
+## Human uses
+
 They are occasionally collected by shrimp trawlers, consumed by fishermen and used as decorative items in the shellcraft industry.
 
 **Status and threats:**

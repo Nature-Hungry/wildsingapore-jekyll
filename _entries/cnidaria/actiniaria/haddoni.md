@@ -268,11 +268,11 @@ and
 sp.) including
 *A. akindynos, A. clarkii, A. fuscocaudatus, A. polymnus, A. sebae, A. xanthurus.*
 But so far, the only animals seen living on our Haddon's carpet anemones are the
-[tiny carpet anemoneshrimp](../../crustacea/othercrust/shrimp/carpet)
+[tiny carpet anemoneshrimp](/wildfacts/guides/crustacea/crustacea/othercrust/shrimp/carpet)
 (
 *Periclimenes*
 sp.),
-[Peacock-tail anemone shrimp](../../crustacea/othercrust/shrimp/brevicarpalis)
+[Peacock-tail anemone shrimp](/wildfacts/guides/crustacea/crustacea/othercrust/shrimp/brevicarpalis)
 (
 *Periclimenes brevicarpalis*
 ).
@@ -318,7 +318,8 @@ There is not much information on how Carpet anemones reproduce. Small carpet ane
 *Stichodactyla tapetum*
 ) and not a young version of the Haddon's carpet anemone.
 
-**Human uses:**
+## Human uses
+
 Unfortunately, these anemones are harvested for the live aquarium trade. Like other animals harvested for the live aquarium trade, most die before they can reach the retailers. Without professional care, most die soon after they are sold. Those that do survive are unlikely to breed successfully.
 
 **Status and threats:**

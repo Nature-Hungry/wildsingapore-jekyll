@@ -156,7 +156,7 @@ and sea snakes. There are often even barnacles on top of other barnacles!
 
 **What are barnacles?**
 Barnacles are
-[crustaceans](../../crustacea)
+[crustaceans](/wildfacts/guides/crustacea/crustacea)
 like crabs and shrimps. But they belong to a different group, their own Class Cirripedia. There are about 900 species of barnacles.
 
 ## Features
@@ -205,14 +205,15 @@ Some barnacles have become parasites that live inside other animals. Parasitic b
 sp.](thompsonia)
 grow through the body of the host crab like a root system. The parasite does not kill the crab but it does affect the crab's reproductive system such that the crab becomes infertile. The parasitic barnacle eventually produces egg sacs that emerge through the crab's joints.
 
-**Role in the habitat:**
+## Role in habitat
 Despite their protective plates that are strongly glued down, barnacles are eaten by crabs, snails such as
 [drills](../../../mollusca/gastropoda/muricidae/muricidae)
 and the
 [Spiral melongena snail](../../../mollusca/gastropoda/melogenidae/cochlidium)
 and other predators. Dead barnacle shells provide hiding places for many small creatures. Sometimes you might see tiny mussels, small periwinkles and other animals hiding in the hollow shell of a dead barnacle.
 
-{% include img-wrap-group.html items=page.galleries.gallery5 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery5 %}## Human uses
+
 Barnacles are considered a menace to the shipping industry. An encrustation of barnacles soon develops over every ship hull. This reduces the speed of the ship and increases fuel consumption. Efforts to deter barnacle infestation include coating ship hulls with a toxic paint. However, this does not last and the toxic paint poisons the surroundings.
 
 The barnacles' tendency to accumulate heavy metals in their plates, however, makes them useful as bio-indicators to measure water pollution.

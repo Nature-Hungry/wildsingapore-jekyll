@@ -220,7 +220,8 @@ commonly seen.
 **What do they eat?**
 Large-tooth flounders hunt animals and fishes living on the bottom of the sea. They can swim quickly and are active during the day.
 
-**Human uses:**
+## Human uses
+
 Some larger species are considered excellent to eat and are economically important.
 
 **Species are difficult to positively identify without close examination.

@@ -135,7 +135,8 @@ According to Yeo and Lim, the
 **What do they eat?**
 According to FishBase, they feed mainly on insects and have been used for mosquito control.
 
-**Human uses:**
+## Human uses
+
 They are said to be a popular aquarium fish although they are also reported to be difficult to maintain in captivity.
 
 **Species are difficult to positively identify without close examination.

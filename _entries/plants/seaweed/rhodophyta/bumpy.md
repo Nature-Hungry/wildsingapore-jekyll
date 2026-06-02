@@ -124,7 +124,8 @@ These seaweeds may be
 species or
 *Kappaphycus*
 species both of the Family Solieriaceae.
-**Human uses:**
+## Human uses
+
 *Eucheuma*
 and
 *Kappaphycus*

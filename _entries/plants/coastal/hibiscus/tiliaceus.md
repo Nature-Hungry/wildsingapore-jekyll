@@ -97,7 +97,7 @@ based on DNA studies. But the old name
 
 A shrub to a tall tree growing to 10-15m. Leaves (10-15cm) heart-shaped, dark green and shiny above, white and finely furry beneath. The leaves have tiny slits on the main veins on the underside of the leaf. Secretions from these slits often attracts ants. Flower a typical hibiscus-shape, yellow with maroon eye fading to dull pink or orange before falling. Stigma column light yellow, stigma deep crimson purple. According to Corners, the flower blooms at about 9am, long after sunrise and close in the afternoon at about 4pm. The petals usually fall off the same evening or the next morning. Usually, every flower sets fruit. Fruit ripens to a tiny dry capsule (2-3cm) surrounded by the calyx. It splits open to reveal the seeds which float and can withstand extended periods of immersion in sea water.
 
-**Role in the habitat:**
+## Role in habitat
 Each of three veins on the underside of the leaf near the stalk have a small slit. A sweet substance is secreted from these slits, and ants of all sizes can be seen drinking from them. Among these, are the fierce Weaver ants (
 *Oecophylla smaragdina*
 ), which may help keep off insect pests. Some insects that feed on the plant include the
@@ -106,7 +106,8 @@ Each of three veins on the underside of the leaf near the stalk have a small sli
 *Dysdercus decussatus*
 ) that feeds on its seeds.
 
-**Human uses:**
+## Human uses
+
 According to Burkill, this shrub has been "one of the most important fibre-plants among the inhabitants of Malaya" and were planted wherever the Malays went. The fibres from the plant is used to make cords as well as to caulk boats. Cords are made into fishing lines and nets as well as bags. Cords were also used for harpoons to catch dugongs, and in elephant gear for dragging timbers. In the Pacific, it was the fibre "par excellence" and used for all purposes. The cords may be strengthened by tanning. To prepare the fibre, the bark is stripped and spread out on the ground for a day or two to dry. The fibre is then separated from the outer layers and twisted or plaited into a rope.
 
 The timber has a wide range of uses from building houses, boats, household implements to firewood. The leaves may be fed to cattle.

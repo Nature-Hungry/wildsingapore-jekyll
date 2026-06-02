@@ -277,7 +277,8 @@ The Carpet eel-blenny preys on small fish, crabs and shrimps. It usually hunts a
 Carpet eel-blennies lay their eggs in small clumps.
 
 {% include img-wrap-group.html items=page.galleries.gallery4 %}
-**Human uses:**
+## Human uses
+
 Although large, the Carpet eel-blenny is not eaten by people. It is, however, harvested from the wild for the live aquarium trade and sold as "wolf eels". But they are not the most popular aquarium fish, as they tend to eat their tankmates.
 
 **Status and threats:**

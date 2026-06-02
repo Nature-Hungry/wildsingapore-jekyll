@@ -73,7 +73,7 @@ links_references: '**Links**
   '
 size:
 - 57.0
-rdb: Lc
+rdb: LC
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---

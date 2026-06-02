@@ -126,7 +126,8 @@ sp.) have a flattened knife-like stipule (leaf bud at the tip of a branch). For 
 *Kandelia candel*
 ), Tengar leaf stalks usually not pinkish.
 
-**Human uses:**
+## Human uses
+
 Tengar (
 *Ceriops tagal*
 ) is valued as timber, firewood and a source of dyes. It is also used in traditional medicine.

@@ -92,7 +92,8 @@ Flowers (1-2cm) in pairs on very short stalks so they appear to be stuck directl
 
 The fruit looks like a brown, upside down pear (about 2cm) and is crowned by short persistent sepals. The cylindrical hypocotyl can be up to 38cm long, somewhat smooth, green ripening purple.
 
-**Human uses:**
+## Human uses
+
 According to Giesen, the wood is heavy and hard and requires careful seasoning to prevent splitting but thereafter works and finishes well. It is used for foundations in piling, beams and the outriggers of dugout canoes, as well as furniture and interiors of houses. Branched stilt roots as used for making anchors. It is also used for firewood and it is the preferred mangrove tree for
 [making charcoal](http://wildshores.blogspot.com/2009/04/how-is-charcoal-made-from-mangroves.html)
 . It is sometimes planted to protect bunds and dykes. It is also used in mangrove rehabilitation and plantation forestry.

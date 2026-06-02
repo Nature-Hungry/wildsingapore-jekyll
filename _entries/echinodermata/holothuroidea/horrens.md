@@ -113,7 +113,8 @@ Mouth facing downwards with 20 feeding tentacles. It disintegrates when it is re
 It reaches sexual maturity at 16-18cm. It has also been known to undergoe asexual reproduction by dividing into two (fission).
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
-**Human uses:**
+## Human uses
+
 This is one of the sea cucumbers whose body fluids are harvested in Malaysia for 'Air Gamat', a local health tonic that believed to aid healing and other ailments. Choo describes how in some places, the fluids are drained from the sea cucumbers which are then returned to the net cages holding them. The fluids are boiled in oil together with some herbs.
 
 It is commercially harvested many places for food. According to the

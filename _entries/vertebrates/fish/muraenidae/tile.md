@@ -132,7 +132,8 @@ sea snakes or eels. Here's more on
 [how to tell apart sea snakes, eels and eel-like animals](../../../glossary/eelsnake)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
-**Human uses:**
+## Human uses
+
 Unfortunately, it is commonly taken for the live aquarium trade.
 
 ---

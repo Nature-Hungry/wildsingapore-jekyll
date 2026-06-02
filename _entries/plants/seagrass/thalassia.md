@@ -148,7 +148,7 @@ other ribbon-like seagrasses. Here's more on
 [how to tell apart ribbon-like seagrasses](cfribbon)
 .
 
-**Role in the habitat:**
+## Role in habitat
 Algae often grow thickly on the leaves, colouring the leaves white or pink. These are eaten by small grazing creatures like snails.
 
 Among the animals that eat this seagrass are dugongs and green turtles. So it is also sometimes called Dugong grass or Turtle grass.

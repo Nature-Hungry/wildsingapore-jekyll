@@ -81,7 +81,7 @@ location:
 - ubn
 size:
 - 120.0
-rdb: Lc
+rdb: LC
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---

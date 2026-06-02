@@ -127,18 +127,19 @@ This large snail is commonly seen on our muddy-sandy shores particularly on our 
 
 **'Hairy' shell:**
 The shell of a living spiral melongena is covered with a layer of fine hairs (called the periostracum). These hairs trap surrounding sediment so that the snail blends perfectly into the mud. The living snail is thus rarely spotted although relatively large and common. When the snail dies, the hairs drop off revealing a glossy, orange shell. The large empty shell is often taken over by a
-[hermit crab](../../../crustacea/othercrust/anomura/hermit/hermit)
+[hermit crab](..//wildfacts/guides/crustacea/crustacea/othercrust/anomura/hermit/hermit)
 .
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **What does it eat?**
 The spiral melongena eats
-[barnacles](../../../crustacea/othercrust/ciriipedia/cirripedia)
+[barnacles](..//wildfacts/guides/crustacea/crustacea/othercrust/ciriipedia/cirripedia)
 . It is believed to get to the barnacle by forcing its long proboscis between the plates that seal the barnacle's shell opening.
 
 **Spiral babies:**
 The spiral melongena is responsible for the strange yellow zipper-like egg capsules that are often encountered on rocks and other hard surfaces. The young hatch as miniature snails with a shell and a foot.
 
-{% include img-wrap-group.html items=page.galleries.gallery3 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery3 %}## Human uses
+
 It is collected as food in Indonesia, Malaysia and the Philippines, and the shells used to make lime.
 
 **Species are difficult to positively identify without close examination.

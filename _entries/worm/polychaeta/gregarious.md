@@ -49,7 +49,7 @@ The tubes are thin, 1-2mm in diameter. The thin, brown tubes are often mistaken 
 **What does it eat?**
 It is a deposit feeder, eating sediments and digesting the organic, edible bits.
 
-**Role in the habitat:**
+## Role in habitat
 The worms and their tubes might play a role in keeping sediments down and creating mounds that trap pools of water at low tide for small creatures to shelter in. Seagrasses and seaweeds often grow among the mat of tubes.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **

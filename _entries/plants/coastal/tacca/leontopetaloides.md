@@ -68,7 +68,8 @@ A low growing plant with bright green hand-shaped leaves (30-70cm wide, 120cm lo
 
 The plant grows from underground tubers, hard and potato-like. Leaves may die down as it lays dormant for sometime. Eventually, new leaves will emerge.
 
-**Human uses:**
+## Human uses
+
 The plant is cultivated in the Pacific, East Asia and East Africa for the starch in its underground roots. According to Burkill, its tubers are very bitter when raw but can be made edible with "suitable preparation". When the plant dies down, the tubers are dug up, rasped into meal, soaked in water, the raspings strained out and starch allowed to settle out of the water. Well purified starch is known as Tahiti Arrowroot. The plant was cultivated in Thailand and may have been in the northern parts of the Malay peninsula.
 
 **Status and threats:**

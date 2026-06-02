@@ -103,7 +103,8 @@ in Malay.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **What does it eat?**
 Rodong sucks up detritus and algae from the mud surface at low tide, using its proboscis.
-**Human uses:**
+## Human uses
+
 It is eaten and is said to be delicious when steamed and eaten with chilli. It is gathered for food in Southeast Asia and often sold in traditional markets.
 
 ---

@@ -70,7 +70,8 @@ In Singapore, those seen appear to eat long
 [bristleworms](../../../worm/polychaeta/polychaeta)
 . Elsewhere, it is said to hunt small animals living on the bottom of the sea, especially small crustaceans.
 
-**Human uses:**
+## Human uses
+
 It is economically important and marketed fresh, frozen and dried-salted.
 
 **Status and threats:**

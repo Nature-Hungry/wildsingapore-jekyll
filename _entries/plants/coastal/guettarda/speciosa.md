@@ -100,7 +100,8 @@ or Ketapang (
 [how to tell apart Sea almond and other similar trees on the shores](../cfketapang)
 .
 
-**Human uses:**
+## Human uses
+
 According to Giesen, the bark is used to treat dysentery as well as applied to wounds. The fragrant flowers were strung into garlands. The timber is used in Fiji for house blocks, although it is considered of little value elsewhere. The bark is used in traditional medicine in some places.
 
 **Status and threats:**

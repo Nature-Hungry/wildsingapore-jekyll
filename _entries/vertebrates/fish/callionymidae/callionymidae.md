@@ -187,7 +187,8 @@ for
 **What do they eat?**
 They pick off small animals from the surface with their pointed, downward facing mouth.
 
-**Human uses:**
+## Human uses
+
 Some colourful species (
 *Synchiropus*
 sp.) are popular in the live aquarium trade. Unfortunately, they do poorly in captivity as they are difficult to feed since they only eat tiny animals.

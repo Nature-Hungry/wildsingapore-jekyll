@@ -147,7 +147,8 @@ sp.) create a safe hiding place for themselves by drilling into dead coral and e
 **What do they eat?**
 Like most other bivalves, sea mussels are filter feeders. At high tide, they open their shells a little. They then generate a current of water through the shell and sieve out the food particles with enlarged gills. When the tide goes out, they clamp up their shells tightly to prevent water loss.
 
-**Human uses:**
+## Human uses
+
 Sea mussels are among the favourite seafood of people everywhere. The
 [Green mussel](viridis)
 (

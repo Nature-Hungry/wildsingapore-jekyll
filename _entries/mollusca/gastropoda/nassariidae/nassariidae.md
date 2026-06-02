@@ -174,10 +174,11 @@ Whelks are active scavengers and often seen busily foraging in pools at the chan
 Often, a
 [tiny sea anemone](../../../cnidaria/actiniaria/snail)
 hitches a ride on the shell of a whelk! The anemone probably benefits from the whelk's left overs, and avoids being permanently buried in the sediments. It is not certain if the whelk gets anything in return.
-[Barnacles](../../../crustacea/othercrust/ciriipedia/cirripedia)
+[Barnacles](..//wildfacts/guides/crustacea/crustacea/othercrust/ciriipedia/cirripedia)
 may sometimes also be found on the shells of large living whelks.
 
-**Human uses:**
+## Human uses
+
 Although abundant, they are not much collected. Locally, they may be used as food or bait, and the shells sometimes used for shell craft.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}

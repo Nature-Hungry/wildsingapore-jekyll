@@ -162,7 +162,8 @@ This sea cucumber is said to be a host to the pearl fish
 *Encheliophis vermicularis*
 .
 
-{% include img-wrap-group.html items=page.galleries.gallery2 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery2 %}## Human uses
+
 This sea cucumber does not have high commercial value and is not harvested for the food trade nor live aquarium trade, because of its thin skin and tendency to produce Cuvierian tubules when stressed. But there seems to be many studies investigating their biochemical properties.
 
 **Status and threats:**

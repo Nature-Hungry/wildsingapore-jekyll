@@ -230,7 +230,8 @@ To about 20cm, those seen during low tide usually about 4-8cm. Body flat, circul
 It uses its long snout to pick out bottom dwelling creatures from crevices.
 These include worms and small crabs.
 
-**Human uses:**
+## Human uses
+
 Unfortunately these beautiful fishes are popular in the live aquarium trade although they are considered among the most difficult to keep and feed. According to the IUCN Red List, "there is no data on how harvest for the aquarium trade affects the population. There appear to be no other major threats to this species." Fish traps left on the intertidal often contain several of these beautiful fishes. Sometimes, they are already dead as the trap is exposed out of water.
 
 ---

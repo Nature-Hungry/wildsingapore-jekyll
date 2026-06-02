@@ -123,7 +123,7 @@ authors:
 
 ## Where seen?
 This snake with bands is sometimes seen on some of our shores, near seagrass meadows and mangroves. According to Baker, it is mainly found in the Johor Straits including Sungei Buloh Wetland Reserve and was also found out of water, hidden in
-[mudlobster mounds](../../crustacea/othercrust/lobster/thalassina)
+[mudlobster mounds](/wildfacts/guides/crustacea/crustacea/othercrust/lobster/thalassina)
 . A nocturnal snake, it is usually seen in the late evening or early morning. It is widely distributed from India to Southeast Asia to southern China and northern Australia. It was previously known as
 *Chersydrus granulatus*
 .

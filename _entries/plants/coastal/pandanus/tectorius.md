@@ -84,7 +84,8 @@ The male flowers form a pendulous ‘cone’ (25-60cm) comprising many small flo
 
 Each fruit (4-20cm wide, 8-30cm long), hard and fibrous, containing usually 5-11 seeds. The fruits form an egg-shaped compound fruit that looks like a pineapple. Green ripening orange. The fruits float and can remain viable for a long time as they disperse with the sea. Some accounts suggest animals also disperse the seeds of those varieties with sweet pulp.
 
-**Human uses:**
+## Human uses
+
 According to Burkill, many varieties are widely cultivated for various purposes. Each cultivated variety has different uses, e.g., for making mats, for the fruits and so on. Up to 28 varieties of this plant have been described. It is important to traditional coastal dwellers particularly in the Pacific.
 
 The leaves are widely used to make matting, bags. To prepare the leaves for weaving into mats, they are first split down the midle to remove the spiny midrib, then cut into strips by dragging them over a board with brass spikes in it. The strips are softened by pulling them over a bamboo and pounding them withe a pestle, then soaked for three days with changes in water. The strips are then bleached in the sun before they are woven into mats, cords, sugar bags, hats and in the past, even boat sails.

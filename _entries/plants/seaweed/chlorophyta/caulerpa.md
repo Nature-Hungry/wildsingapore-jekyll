@@ -202,7 +202,8 @@ According to
 *Caulerpa*
 species.
 
-**Human uses:**
+## Human uses
+
 Caulerpa species are among those grown for human consumption. These include
 *[Caulerpa lentillifera](lentillifera)*
 . However, some

@@ -71,7 +71,8 @@ This tall tree with bright eye-piercing pink fluffy flowers is sometimes seen in
 
 Tall tree (6-10m). Leaves are large, arranged opposite one another. Young leaves are pinkish. Flowers are large (6cm) and fluffy, in a bright almost painful shade of pink, in clusters on branches behind the leaves. Fruits are large (5-7.5cm), oblong to pear-shaped, with with brilliant crimson-pink patches. The flesh is white and juicy.
 
-**Human uses:**
+## Human uses
+
 According to Burkill, the tasteless but juicy fruits are eaten raw or cooked and sometimes combined with tastier fruits to make a jam. the dried and powdered leaves are used to treat tongue ailments, and the bark used as a mouthwash to treat mouth diseases. The roots are used to treat itches. According to Wee, a cooling drink is also made of the seeds and fruits.
 
 ![](https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/syzygium/malaccense/091005cjd2125m6l.jpg)

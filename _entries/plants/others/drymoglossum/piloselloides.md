@@ -84,11 +84,12 @@ According to Giersen, it is one of the most common epiphytic ferns in the lowlan
 
 A fern with small round fleshy glossy fronds (about 1cm across) without stalks. Sometimes also more oval in shape. These are the sterile fronds. The fronds bearing spores (fertile leaves) are long and narrow (3-15cm long) and held on a stalk. Sometimes the tips are branching. The thin stems are covered by scales and there are minute star-shaped hairs on the underside of the frond. All these help to conserve water.
 
-**Role in the habitat:**
+## Role in habitat
 These tough little ferns pave the way for less hardy ferns to settle on the dry trunks and branches of trees by creating more conducive micro-habitats.
 
 ****
-**Human uses:**
+## Human uses
+
 According to Giersen, the leaves are used to treat rashes, whilst a decoction is used in a lotion for smallpox, and used in a poultice for headaches.
 
 ![](https://f003.backblazeb2.com/file/naturehungry/plants/others/drymoglossum/piloselloides/090408wdld9130m6l.jpg)

@@ -144,7 +144,8 @@ Hard surfaces are scarce in the habitat where the Window-pane clams live. So sea
 [sea urchin](../../../echinodermata/echinoidea/urchin/urchin)
 as an umbrella, or as a shelter for all kinds of animals from tiny hermit crabs, to larger octopuses.
 
-{% include img-wrap-group.html items=page.galleries.gallery4 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery4 %}## Human uses
+
 This clam is collected and in some places cultivated. Its lustrous shells are made into souvenirs while the animal is eaten for food. The animal is also said to produce tiny pearls which are lead-coloured and irregularly shaped.
 
 In the Philippines, they are made into chandeliers and wind chimes. In 1991, the clam ranked fifth among the major fishery exports of the country bringing in US$35 million. Overexploitation began in the late 1970s until the clam disappeared in the late 1980s due to world demand. Among other causes of depletion are destructive methods of fishing and gathering with methods such as trawling, use of mechanical rakes and dredges and compressor diving. Efforts to reintroduce and farm the clam is constrained by continued illegal harvesting.

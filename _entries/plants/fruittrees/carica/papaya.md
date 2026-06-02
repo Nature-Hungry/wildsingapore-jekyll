@@ -57,7 +57,8 @@ A distinctive tree, it is widely grown in gardens and often found growing wild i
 
 A tree with a single soft woody stem. The leaf is hand-shaped with 7-11 lobes and is large (50-60cm) on very long stalks appearing in a spiral around the single stem. Flowers white and according to Corners 'very fragrant', blooming at night. Male and female flowers generally on different trees. Male flowers in bunches on long stalks, blooming for only one night. Female flowers emerge from the stem. According to Corners, the flowers are visited by moths. The fruit is green ripening yellow or orange. Corners described it as 'an ever-leafing and ever-flowering tree and one of the most prolific'.
 
-**Human uses:**
+## Human uses
+
 According to Burkill,
 the ripe fruit is eaten fresh (as it remains today) while young fruits may be boiled and eaten as a vegetable or pickled in vinegar. A traditional method of tenderising beef is to warp it in a papaya leaf. The ingredient, papain, is now commercially harvested from papayas and sold as meat tenderiser. Various parts of the plant are also used in traditional treatment of skin ailments and seeds used to expel parasitic worms.
 

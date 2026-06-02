@@ -104,7 +104,7 @@ For most species, each sea fan colony is usually either male or female. In most 
 
 Gorgonians sometimes also reproduce by budding off new polyps to enlarge the colony. Some gorgonians purposely nip off a portion that breaks off and drifts away to settle down elsewhere and expand into a new colony. Some sea whips reproduce by dropping off a branch tip that 'roots' and starts a new colony.
 
-{% include img-wrap-group.html items=page.galleries.gallery3 %}**Role in the habitat:**
+{% include img-wrap-group.html items=page.galleries.gallery3 %}## Role in habitat
 All kinds of small animals live on gorgonians including tunicates, barnacles,
 [clams](../../../mollusca/bivalvia/pteriidae/seafan)
 , snails (such as the
@@ -112,10 +112,11 @@ All kinds of small animals live on gorgonians including tunicates, barnacles,
 ), tiny shrimps,
 [brittle stars](../../../echinodermata/ophiuroidea/tinycolourful)
 and gobies.
-[Hermit crabs](../../../crustacea/othercrust/anomura/hermit/banded)
+[Hermit crabs](..//wildfacts/guides/crustacea/crustacea/othercrust/anomura/hermit/banded)
 have also been seen clinging to sea fans. Some of these small animals prey on the sea fan. These animals usually take on the shape and colour of their host. Squids may also lay their eggs on sea fans.
 
-**Human uses:**
+## Human uses
+
 Gorgonians, especially fan-shaped ones, are harvested for the live aquarium trade or sold dried as ornaments. "Red coral" that is harvested for jewellery is a gorgonian that is found in the Mediterranean Sea and Sea of Japan. Gorgonians are notoriously difficult to maintain artificially in an aquarium and may release toxins that kill off tank mates.
 
 **Status and threats:**

@@ -102,7 +102,8 @@ Groupers come in various shapes and colours and patterns. Generally, they have l
 **Grouper babies:**
 Members of the Family Serranidae can change their gender! Most are female when they first reach maturity. As they get larger, some may change into males. Some groupers gather in large aggregations at a particular place to spawn. Such aggregation sites are often the part of a reef with strong currents that wash the fertilised eggs out to sea, to develop away from hungry filter-feeders.
 
-**Human uses:**
+## Human uses
+
 Groupers are edible and a highly valued seafood dish for many Singaporeans. However, we may be eating the groupers to extinction.
 
 Groupers are vulnerable to overfishing because they are not numerous to begin with. At the same time, they have high commercial value and are relatively easy to catch. Many are territorial and stay within a particular home range, and most are not shy of divers. In the Hong Kong area, populations of the larger groupers are dwindling and smaller groupers such as the

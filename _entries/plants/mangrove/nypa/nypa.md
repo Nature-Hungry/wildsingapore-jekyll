@@ -150,7 +150,8 @@ and small flies of the Family Drosophilidae. Bees may not be important pollinato
 
 Fruits are chestnut brown, in cluster forming a globular shape (20-25cm). Each fruit bears one seed which starts to germinate while still on the parent palm and just when the fruits drop off, the seedling is already starting to pierce through the husk of the fruit. The fruits are fibrous and air cavities in the seed coat and fruit coat help keep the seedling afloat.
 
-**Human uses:**
+## Human uses
+
 The Nipah palm is among the more commercially valuable plants of the mangroves. The leaves are used as thatch for 'attap' huts, the immature seed (endosperm) is harvested as a jellylike sweetmeat called 'attap-chee' and is a favourite in local desserts. The sap is extracted from the inflorescence and when fermented, is called 'toddy', a local alcoholic drink. The
 [Common palm civet](../../../vertebrates/mammals/hermaphroditus)
 (

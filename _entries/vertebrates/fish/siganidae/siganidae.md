@@ -228,7 +228,8 @@ Wear covered shoes. Don't handle rabbitfishes.
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**What do they eat?**
 Most rabbitfishes are herbivores, grazing on algae that grows on the sea bottom, seaweeds and seagrasses. They have small mouths with tiny teeth. They are active during the day, and sleep at night. Rabbitfishes often travel in schools, sometimes in pairs.
 
-**Human uses:**
+## Human uses
+
 The
 [White-spotted rabbitfish](canaliculatus)
 (

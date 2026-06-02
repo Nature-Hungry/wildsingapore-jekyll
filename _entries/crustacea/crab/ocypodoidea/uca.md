@@ -164,7 +164,7 @@ Fiddler crabs eat the thin coating of detritus on sand grains. They scoop sand t
 **Fiddler babies:**
 When a male Fiddler crab succeeds in persuading a female to mate with him, they retire into his burrow. The female may remain there until the eggs hatch. The eggs hatch into free-swimming larvae that drift with the plankton, changing into yet another form before settling down and developing into Fiddler crabs.
 
-{% include img-wrap-group.html items=page.galleries.gallery3 %}**Role in the habitat:**
+{% include img-wrap-group.html items=page.galleries.gallery3 %}## Role in habitat
 Fiddler crabs are eaten by many animals higher up in the food chain. The Kingfisher is among the birds that might snack on them.
 
 **Status and threats:**

@@ -133,7 +133,8 @@ In
 [Big coin green seaweeds](halbig)
 have larger 'coins' that tend to be thinner and unwrinkled.
 
-**Human uses:**
+## Human uses
+
 Some species of
 *Halimeda*
 are used as fertilizers to recondition acidic soils. They are also used as animal feed and reportedly have anti-bacterial and anti-fungal properties.

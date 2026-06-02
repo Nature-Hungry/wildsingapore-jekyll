@@ -130,7 +130,8 @@ Fruits are egg-shaped (4-5cm) woody with a ridge along the centre of one side so
 
 The seeds are eaten by large crabs, monkeys and wild boar.
 
-**Human Uses:**
+## Human uses
+
 According to Burkill, considered "possibly the toughest of Malayan timbers", it is valued for boat building. As masts if the trunk is straight enough, or for rudders and other parts. It is also used in a wide range of household uses. According to Burkill, "the people of Malaysia formerly valued it for stopping bullets. They built stockades of it and raised the thwarts of their pirate canoes with it." Medicinal uses include using the twigs as tooth-brushes, the tanning in them may be good for the gums. Seeds are used in cures for diarrhoea and dysentery. According to Giesen, the heavy wood is good for raw material to be made into wrapping or printing paper. The fruits and seeds are used in treating diarrhoea and dysentery, seeds are used in fish dishes and roots used as fish poison.
 
 **Status and threats:**

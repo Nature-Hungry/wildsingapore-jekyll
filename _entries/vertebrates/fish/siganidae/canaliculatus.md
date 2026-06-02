@@ -190,7 +190,8 @@ Wear covered shoes. Don't handle rabbitfishes.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**What does it eat?**
 It eats seaweeeds and to a much lesser extent, seagrasses. It is active during the day.
 
-**Human uses:**
+## Human uses
+
 This fish is highly sought after for eating during the Chinese Lunar New Year. At this time, the fishes breed and their roe are particularly relished. Called
 *'Pei Tor'*
 , the Chinese believe it eating it brings good luck. Other species are important foodfishes in other parts of the world. Some of the more colourful reef rabbitfishes are also collected for the aquarium trade.

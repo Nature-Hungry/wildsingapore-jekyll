@@ -107,7 +107,8 @@ The Family Xenophoridae are called carrier shell snails because they cement bits
 [turban snails](../turbinidae/turbinidae)
 (Family Turbinidae). Unlike turban snails, carrier shell snails do not have shiny mother-of pearl on the inside of the shell.
 
-**Human uses:**
+## Human uses
+
 Occasionally collected in shrimp trawls. The shell is used in shellcraft.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

@@ -159,7 +159,8 @@ also looks like Cave corals.
 **:**
 Colony small, about 2-4cm in diameter, with a few large corallites often arranged like a bouquet of flowers. Usually in shady places in shallow water, e.g., under overhangs, under jetties, at the entrances of underwater caves, but also in other places with strong currents that bring in lots of plankton and nutrients. Corallites long and tubular. Polyp large (1-2cm), fleshy with many long slender tentacles. May be transparent, orange-yellow or brown. The polyps lack symbiotic algae (zooxanthellae) and usually only expand at night to feed on plankton. Cave corals produce among the most dense skeletons of hard corals and can grow quite fast in good conditions
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
-**Human uses:**
+## Human uses
+
 *Tubastraea*
 corals are among the first to have their bioactive compounds isolated. One compound called tubastrine was found to have anti-viral properties. The coral also produces substances that are toxic to the larvae of other hard corals, probably preventing these from settling near them.
 

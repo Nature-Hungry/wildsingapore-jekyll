@@ -137,7 +137,8 @@ This moon snail with a spotted shell is sometimes seen on our sandy Northern sho
 
 2-3cm. Shell smooth thick pear-shaped with the spiral tip sticking out quite a bit, usually longer than wide. Shell pattern white or beige with brown or black spots (more of a leopard pattern than a tiger pattern). On the underside, a small comma-shaped depression. Operculum white sometimes with a dark smudge where the whorl starts, sometimes small to large bright yellow patches, a pair of spiralling grooves on the outer margin and finely serrated inner margin. Body mostly plain white or beige sometimes with darkish edges, the fleshy area near the shell often with small white spots. Tentacles short.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
-**Human uses:**
+## Human uses
+
 Where it is abundant, it is collected for food and the shell trade, especially in Japan, Malaysia and Indonesia.
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

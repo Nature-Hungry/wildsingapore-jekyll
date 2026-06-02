@@ -182,7 +182,8 @@ also appear to grow better on these mounds. The condominium comes complete with 
 [mudskippers](../../../vertebrates/fish/gobiidae/mudskipper)
 .
 
-{% include img-wrap-group.html items=page.galleries.gallery3 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery3 %}## Human uses
+
 Mud lobsters are eaten in some Pacific Islands such as Fiji. In our part of the world, they are considered a nuinsance by fish and prawn farmers as their digging activities undermine the bunds (raised edges of mud) that surround fish and prawn ponds.
 
 **Status and threats:**

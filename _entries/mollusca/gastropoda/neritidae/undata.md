@@ -132,7 +132,8 @@ other similar nerites. Here's a comparison of these
 [similar nerite snails](neritidaecf)
 and how to tell them apart.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
-**Human uses:**
+## Human uses
+
 Where it is common, it is often collected for food and shellcraft by coastal dwellers.
 
 ---

@@ -96,7 +96,8 @@ and generally shorter (less than 30cm).
 *R. stylosa*
 has a longer style.
 
-**Human uses:**
+## Human uses
+
 According to Giesen, it is used as timber, firewood and to produce charcoal. The Australian aborigines use it to make boomerangs, spears and ceremonial objects. The fruit is used to make a light wine and a concoction to treat blood in the urine.
 
 **Status and threats:**

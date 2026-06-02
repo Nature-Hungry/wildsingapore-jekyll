@@ -160,7 +160,7 @@ Other flowery soft corals don't have zooxanthellae and gather edible bits from t
 
 **Flowery friends and frenemies:**
 Many kinds of small animals may be found on flowery soft corals. Some like tiny transparent shrimps,
-[snapping shrimps](../../crustacea/othercrust/shrimp/alphballsoft)
+[snapping shrimps](/wildfacts/guides/crustacea/crustacea/othercrust/shrimp/alphballsoft)
 , porcelain crabs,
 [brittle stars](../../echinodermata/ophiuroidea/tinycolourful)
 probably just find shelter within the branching arms of the soft coral. Others, like
@@ -169,7 +169,8 @@ probably just find shelter within the branching arms of the soft coral. Others, 
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
 {% include img-wrap-group.html items=page.galleries.gallery4 %}
-**Human uses:**
+## Human uses
+
 Soft corals protect themselves with unusual substances that are being studied for possible anti-cancer properties. These beautiful and delicate animals are also harvested from the wild for the aquarium trade. Collection methods usually harm the soft coral and other marine life and many specimens die before they even reach the retailer. Many more die in home aquariums due to lack of proper care. Living coral reefs, however, are worth far more to humans when they left alone. Reefs bring in tourists which generate business beyond the shore (e.g., hotels, restaurants and travel-related industries).
 
 **Status and threats:**

@@ -114,7 +114,8 @@ Winged oysters belong to the Family Pteriidae.
 Unlike other bivalves, they have comb-like teeth in the hinge, a feature of this family. They stick to hard surfaces by byssus threads.
 
 ****
-**Human uses:**
+## Human uses
+
 Some species are collected for food by coastal populations and used as a substitute for true oysters. The oysters that produce commercial precious pearls belong to this family, but those seen on our shores do not produce pearls.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

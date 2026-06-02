@@ -136,7 +136,7 @@ other ribbon-like seagrasses. Here's more on
 **Flowers and fruits:**
 Needle seagrass has separate male and female plants. The flowers are tiny, usually forming at the base of the leaf sheath, buried in the sediment and emerging only for a short period. It produces seeds with a hard seed coat. Needle seagrass has an unusual way of releasing its seeds directly into the sediments so the seeds are not washed away by the currents. Studies suggest the seeds can remain dormant for some time. In this way, the seeds may help re-establish the species if the parent plants are destroyed by some natural disturbance. However, needle seagrass tends to spread more by vegetative growth than through its seeds.
 
-**Role in the habitat:**
+## Role in habitat
 Although tiny, needle seagrass grows rapidly and densely from its underground stems. Forming a mat, it traps, builds up, and stabilises sediments. This allows other seagrasses to establish themselves and provides a more stable environment for burrowing creatures. Needle seagrass is also one of the seagrasses preferred by dugongs.
 
 **Status and threats:**

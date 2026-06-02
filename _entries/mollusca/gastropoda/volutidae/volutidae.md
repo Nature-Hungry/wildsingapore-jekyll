@@ -164,14 +164,15 @@ All members of the Family Volutidae are carnivorous. Their prey include molluscs
 **Volute babies:**
 In members of the Famliy Volutidae, the male fertilises the female internally. There is no free-swimming larval stage and crawling juvenile snails emerge from the egg. As a result, volutes have a restricted range and local populations can be wiped out by over-collection. Noble volutes lay translucent egg capsules that contain many eggs. But only one or a few develop, the survivor having eaten the others. The eggs hatch and undergo metamorphosis within the egg capsules, emerging as tiny crawling snails.
 
-{% include img-wrap-group.html items=page.galleries.gallery3 %}**Role in the habitat:**
+{% include img-wrap-group.html items=page.galleries.gallery3 %}## Role in habitat
 Even after it dies, the snails shell continues to provide shelter! Many of the Noble volute shells contain a
-[hermit crab](../../../crustacea/othercrust/anomura/hermit/hermit)
+[hermit crab](..//wildfacts/guides/crustacea/crustacea/othercrust/anomura/hermit/hermit)
 instead of the living snail. The hermit crabs need the shell more than we do so we should not collect these shells even if they are empty. Sometimes,
 [octopuses](../../cephalopoda/bigseagrass)
 are seen sheltering in the empty shells too.
 
-{% include img-wrap-group.html items=page.galleries.gallery4 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery4 %}## Human uses
+
 Called 'kilah' in Malay, the Noble volute is edible. It is also 'often collected for its attractive shell. The Baler shell was also eaten and its empty shell used by fishermen to scoop water out of their boats, as well as to scoop sugar, salt and flour in markets.
 
 **Status and threats:**

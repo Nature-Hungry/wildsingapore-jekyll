@@ -112,7 +112,8 @@ Like the seahorse, the male pipefish also carries the eggs. In some species, the
 
 Some pipefishes may perform courtship dances before mating. Unlike seahorses, a mating pair of pipefishes may not remain faithful only to one another. A female might lay her eggs on several males, and a male might carry the eggs of several females.
 
-{% include img-wrap-group.html items=page.galleries.gallery3 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery3 %}## Human uses
+
 Pipefishes are used in traditional Chinese medicine, often as a substitute for seahorses. Some species are also caught for the live aquarium trade.
 
 **Status and threats:**

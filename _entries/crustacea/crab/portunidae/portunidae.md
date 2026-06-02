@@ -238,7 +238,8 @@ Like other crabs, swimming crabs often mate when the female is
 **Monstrous crabs:**
 In Greek Mythology, Scylla is a female sea monster, who lives along a narrow channel, opposite the dwelling place of Charybdis, another female sea monster, sometimes a whirlpool. Thus arose the idiom: "between Scylla and Charybdis" meaning a precarious position where avoiding of one danger exposes oneself to another danger.
 
-**Human uses:**
+## Human uses
+
 Swimming crabs are edible and enjoyed by people everywhere. In our part of the world, from Asia to Australia., the
 [Flower crab](pelagicus)
 (

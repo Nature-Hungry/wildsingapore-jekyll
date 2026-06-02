@@ -87,7 +87,8 @@ These almost cylindrical clams can move surprisingly quickly and are rarely seen
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**What do they eat?**
 Like other bivalves, razor clams are filter feeders. The buried clam sticks its long siphon out to the surface. When submerged, it sucks in a current of water through the siphon. It uses its enlarged gills to sieve food particles out of this current.
-**Human uses:**
+## Human uses
+
 Larger razor shells are edible and are collected as food. Like other filter-feeding clams, however, razor clams may be affected by
 [red tide and other harmful algal blooms](../../../plants/seaweed/redtide)
 . Such clams can then be harmful to eat.

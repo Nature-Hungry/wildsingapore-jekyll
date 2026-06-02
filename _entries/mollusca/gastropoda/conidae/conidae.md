@@ -249,7 +249,8 @@ on The Gladys Archerd Shell Collection website). The harpoon remains embedded in
 **What do they eat?**
 Cone snails are predators. They feed on worms, other snails and small fishes. Many are only active at night, hiding during the day.
 
-**Human uses:**
+## Human uses
+
 Cone snails are mainly collected for their attractive shells for the shell trade. Research on their toxins have resulted in some medical applications to help humans cope with pain and diseases.
 
 **Status and threats:**

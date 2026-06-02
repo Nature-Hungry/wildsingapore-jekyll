@@ -250,7 +250,8 @@ and
 **What do they eat?**
 Leathery corals harbour microscopic, single-celled symbiotic algae (zooxanthellae) within their bodies. The algae undergo photosynthesis to produce food from sunlight. The food produced is shared with the host, which in return provides the algae with shelter and minerals.
 
-**Human uses:**
+## Human uses
+
 Leathery soft corals are considered toxic in the live aquarium trade. They produce substances that inhibit or stunt the growth of hard corals nearby.
 
 **Status and threats:**

@@ -181,7 +181,8 @@ var
 [how to tell apart the sea grapes seaweeds](cfgrapes)
 .
 
-**Human uses:**
+## Human uses
+
 This seaweed is eaten in some places
 *.*
 In the Philippines, it is eaten fresh as a salad, or salted so it can be eaten later. Small quantities are also exported to Japan. It is also eaten in Malaysia and Indonesia. It is also reported to have antibacterial and antifungal properties, and to be used to treat high blood pressure and rheumatism. The seaweed is also fed to livestock and fish. However, some

@@ -116,7 +116,8 @@ A worm snail 'nets' food from the water. A sticky mucus net is secreted from a g
 **Worm snail babies:**
 Male worm snails release their sperm in packets. Female worm snails 'net' these sperm packets in the same way that they gather food. As the sperm packets are hauled near the female's body, the sperm is released from the packet. Or the female may store the sperm to fertilise the eggs later. Eggs are retained inside the tube. They don't have a free-swimming stage and emerge out of the tube as little snails. After crawling about briefly, they cement themselves to a hard surface.
 
-**Human uses:**
+## Human uses
+
 In Polynesia, they are a traditional food of some coastal people.
 
 ---

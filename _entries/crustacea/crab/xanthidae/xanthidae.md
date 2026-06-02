@@ -126,7 +126,8 @@ Their toxins are similar to the neurotoxins of puffer fishes, and just as deadly
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**What do they eat?**
 Most of these crabs are said to be vegetarians, but at least one was seen chomping happily on a fish.
 
-**Human uses:**
+## Human uses
+
 The study of the unique toxins in these crabs may help develop new drugs or achieve better understanding of human health.
 **Status and threats:**
 Several of these crabs are listed among the threatened animals of Singapore. L

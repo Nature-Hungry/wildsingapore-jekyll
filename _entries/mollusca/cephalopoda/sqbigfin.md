@@ -182,7 +182,8 @@ According to FAO, it eats mainly prawns and fishes, occasionally on stomatopods 
 During breeding, males and females perform elaborate courtship displays. Females lay lumpy sausage-like egg capsules in clusters attached to hard surfaces.
 Each sausage contains about 13 eggs in a row.
 
-**Human uses:**
+## Human uses
+
 It is an important seafood item sold fresh or dried and harvested in a wide range of ways from trawling, nets, spears and even traps (which they enter to spawn, attracted by the clusters of eggs placed in the traps by the fishermen).
 
 {% include img-wrap-group.html items=page.galleries.gallery4 %}

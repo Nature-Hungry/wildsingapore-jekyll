@@ -125,7 +125,7 @@ Up to about 5cm, those seen about 3-5cm. It has a chubby face with small eyes an
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Living with a shrimp:**
 This fish is sometimes seen sharing a burrow with a
-[Smooth snapping shrimp](../../../crustacea/othercrust/shrimp/alphsmooth)
+[Smooth snapping shrimp](..//wildfacts/guides/crustacea/crustacea/othercrust/shrimp/alphsmooth)
 . More about the
 [goby and shrimp partnership](shrimpgoby)
 .

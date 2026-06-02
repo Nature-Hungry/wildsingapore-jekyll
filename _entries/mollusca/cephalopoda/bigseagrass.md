@@ -102,7 +102,8 @@ and
 **Good parent:**
 Sometimes the octopus can be seen with strings of what seems to be developing eggs. While hiding inside a shelter or even dragging the strings along behind it.
 
-**Human uses:**
+## Human uses
+
 Fishermen have been observed gathering it on Changi to be used as bait.
 
 {% include img-wrap-group.html items=page.galleries.gallery4 %}**Species are difficult to positively identify without close examination.

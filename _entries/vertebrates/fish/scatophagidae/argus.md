@@ -167,7 +167,8 @@ Scats belong to Family Scatophagidae. According to
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**What does it eat?**
 It eats detritus and algae from the sea bottom as well as worms, insects and small crustaceans. It also eats droppings of other animals including ours. Its scientific name 'scatophagus' means 'shit-eater'.
 
-**Human uses:**
+## Human uses
+
 Spotted scats are a popular catch among anglers. They are also marketed fresh and as live fish for the table. Juveniles are said to be popular aquarium fish. According to FishBase, it is used in traditional Chinese medicine.
 
 ---

@@ -216,7 +216,8 @@ Striped eeltail catfishes lay eggs that sink to the bottom (demersal eggs). Thes
 
 Young striped eeltail catfishes are often found swimming together in a 'ball' of hundreds of fishes, constantly moving but remaining in a dense ball. Smaller fishes tend to swim in groups of more individuals. As the fishes get bigger, they are found in smaller groups. Adults are usually seen alone.
 
-**Human uses:**
+## Human uses
+
 Adults are harvested commercially as a food fish with seine nets on the beach or by trawling and marketed fresh. They are also popular in the live aquarium trade although they eat their tankmates, and even one another, as they get bigger.
 
 ---

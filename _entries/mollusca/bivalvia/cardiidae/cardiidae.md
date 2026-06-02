@@ -116,7 +116,8 @@ in subfamily Tridacninae.
 5-7cm. The two-part shell is sturdy and usually ridged. The hinge has two strong teeth in each valve. They have a short fringed siphon and
 can use their long, strong, sickle-shaped foot to jump and escape predators.
 
-**Human uses:**
+## Human uses
+
 They are collected for shell craft and sometimes eaten by coastal dwellers.
 
 ---

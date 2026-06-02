@@ -98,7 +98,7 @@ Body diameter 5-8cm, with tiny sharp spines. It has long tube feet and is often 
 **What does it eat?**
 It eats seaweeds.
 
-**Role in the habitat:**
+## Role in habitat
 Despite being prickly, come animals can eat them. Examination of tests (skeleton of a dead sea urchin) suggest that large snails might prey on them.
 Other animals
 live on the urchin, including

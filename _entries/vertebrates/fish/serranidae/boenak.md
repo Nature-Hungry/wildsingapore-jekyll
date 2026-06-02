@@ -96,7 +96,8 @@ To about 20-30cm, but those seen usually about 10-15cm. Brownish to greenish wit
 **What does it eat?**
 It hunts mainly fishes and crustaceans.
 
-**Human uses:**
+## Human uses
+
 In some places they harvested for eating, particularly when larger groupers have been overfished.
 
 ---

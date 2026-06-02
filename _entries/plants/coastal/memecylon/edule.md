@@ -22,6 +22,7 @@ class: Magnoliopsida
 order: Myrtales
 subfamily: Olisbeoideae
 updated: Oct 2016
+rdb: EN
 coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/memecylon/edule/041031cjd7943m3.jpg
 galleries:
   gallery1:
@@ -105,7 +106,8 @@ Flowers tiny (0.5cm) many in ball-shaped cluster, calyx pink with bright blue pe
 
 Fruit globular (1cm), green ripening to pinkish then yellow and black.
 
-**Human uses:**
+## Human uses
+
 According to Burkill, the wood is very hard and heavy and good for house posts, rafters. It is an excellent fuel and makes good charcoal. After cutting, the stump coppices well. The fruit is said to be 'just edible'. In India, the leaves were used for a yellow dye. The leaves are part of a 'decoction of considerable reputation' in India for the treatment of gonorrhoea. The bark is used to poultice bruises.
 
 **Status and threats:**

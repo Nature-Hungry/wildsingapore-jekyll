@@ -156,7 +156,7 @@ To about 8cm (according to FishBase, up to 12cm), those seen on our shores about
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Living with a shrimp:**
 This fish is often seen sharing a burrow with a
-[Many-band snapping shrimp](../../../crustacea/othercrust/shrimp/alphmanyband)
+[Many-band snapping shrimp](..//wildfacts/guides/crustacea/crustacea/othercrust/shrimp/alphmanyband)
 . The burrow is near the mid-water mark. More about the
 [goby and shrimp partnership](shrimpgoby)
 .

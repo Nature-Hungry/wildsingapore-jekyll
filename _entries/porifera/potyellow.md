@@ -89,7 +89,7 @@ location:
 size:
 - 12.0
 - 15.0
-rdb: Lc
+rdb: LC
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---

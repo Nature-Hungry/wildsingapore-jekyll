@@ -49,7 +49,7 @@ authors:
 
 ## Where seen?
 This snail is often seen on the a shell occupied by a
-[hermit crab](../../../crustacea/othercrust/anomura/hermit/hermit)
+[hermit crab](..//wildfacts/guides/crustacea/crustacea/othercrust/anomura/hermit/hermit)
 , usually on the outside of the shell. It is not seen as often as the
 [Flat slipper snail](crepidula)
 , which is white and usually found on the inside of the shell. It was previously known as

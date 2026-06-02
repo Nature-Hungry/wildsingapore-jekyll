@@ -82,7 +82,8 @@ typically swim by 'wagging' their large tails resulting in a twisting motion.
 **What do they eat?**
 Young fishes eat plankton but grow up to be carnivorous adults, feeding on small fishes and small animals living on on the sea bottom. These fishes have teeth not only in the jaws but also in their throats.
 
-**Human uses:**
+## Human uses
+
 Some species are considered valuable seafoood. They are caught by spear, line and nets; and marketed fresh or salted.
 
 ---

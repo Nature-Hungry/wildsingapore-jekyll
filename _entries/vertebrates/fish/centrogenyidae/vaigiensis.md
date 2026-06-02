@@ -195,7 +195,8 @@ and
 **What does it eat?**
 It eats small fishes, shrimps and crabs, hunting during the day.
 
-**Human uses:**
+## Human uses
+
 Sometimes harvested for the aquarium trade.
 
 ---

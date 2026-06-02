@@ -145,7 +145,8 @@ has been seen on top of a
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**Baby helmets:**
 The snails have separate genders and practice internal fertilisation. The shell of the female is often larger. Eggs laid in large masses of numerous, small horny capsules, forming irregular or cylindrical, tower-like structures. Each capsule contains several hundred eggs, most of which often serve as food for the developing embryos. The eggs hatch into planktonic larvae or crawling juveniles, depending upon the species.
-**Human uses:**
+## Human uses
+
 These snails are commonly collected for food and their large decorative shells are popular in the shell trade. Some of the larger species are used as raw material for lime or for cameo-carving.
 
 **Status and threats:**

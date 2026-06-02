@@ -150,7 +150,8 @@ which has round grape-like bubbles when fully inflated.
 Euphyllia corals have separate male and female colonies (not all corals do), and most release eggs and sperm for external fertilization in the water, which then form larvae. Some of those that live along the equator, however, may brood larvae internally.
 **
 
-**Human uses:**
+## Human uses
+
 These corals are among those taken for the live aquarium trade, often in unsustainable numbers.
 
 **Status and threats:**

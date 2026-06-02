@@ -133,7 +133,7 @@ that produce dense blooms in that body of water. African flamingos are pink from
 *Sirulina*
 . Some species of cyanobacteria can fix atmospheric nitrogen for their own needs. Some of these are believed to benefit seagrasses by fixing nitrogen for the seagrasses.
 
-**Role in the habitat:**
+## Role in habitat
 Cyanobacteria are eaten by a wide range of animals. Among the common animals believed to eat cyanobacteria are sea slugs like the
 [Hairy sea hare](../../../mollusca/slugs/anaspidae/bursatella)
 (
@@ -144,7 +144,8 @@ Cyanobacteria are eaten by a wide range of animals. Among the common animals bel
 *Styloceilus*
 sp.)
 
-**Human uses:**
+## Human uses
+
 Some species of cyanobacteria are able to breakdown heavy hydrocarbons and may thus have a practical use in cleaning up oil spills. The nitrogen-fixing properties of cyanobacteria are believed to be important to the fertility of ride padi fields. On the other hand, blooms of cyanobacteria in nutrient rich waters (e.g., polluted by agricultural drainage or sewage) can produce toxins that poison the water.
 
 ![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/cyanobacteria/cyanobacteria/050529sjid3577m3.jpg)

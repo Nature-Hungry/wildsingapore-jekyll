@@ -68,7 +68,7 @@ links_references: '**Links**
 size:
 - 600.0
 - 700.0
-rdb: Lc
+rdb: LC
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
@@ -94,14 +94,15 @@ The fruits take exactly five weeks to set and opens at 3am. The pink star-shaped
 [monkeys](../../../vertebrates/mammals/fascicularis)
 . So much so that it is difficult to come across an open fruit with the seeds still present. According to Corners, small birds pick up the seeds from the opened star-shaped fruits, especially bulbuls. The seeds are swallowed whole together the fleshy aril around them, and thus dispersed by the birds.The empty husk falls off at about 8am the following day.
 
-**Role in the habitat:**
+## Role in habitat
 Nymphs and adults of the colourful
 [Giant shield bug](../../../insecta/pycanum)
 (
 *Pycanum*
 sp.) are often seen on the plant and it appears to feed on the plant, sucking the sap. The large leaves are used by tailorbirds to sew together into a pouch for their tiny nests. Unfortunately, after they fall to the ground, the large leaves also hold shallow pools of rainwater in which mosquitos breed. Thus areas with Simpoh air are often mosquito infested.
 
-**Human uses:**
+## Human uses
+
 The large leaves of the Simpoh air were used to wrap food such as tempeh (fermented soyabean cakes), or formed into shallow cones to contain traditional "fast food" such as rojak.
 
 *![](https://f003.backblazeb2.com/file/naturehungry/plants/others/dillenia/suffruticosa/101212admd3398m6l.jpg)

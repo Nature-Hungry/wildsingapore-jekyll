@@ -137,7 +137,8 @@ To about 10cm. Body nearly transparent covered with thin scales. Thus it is some
 They eat tiny crustaceans such as ostracods and copepods, insects and sometimes fishes.
 
 ****
-**Human uses:**
+## Human uses
+
 Perchlets are eaten in some places and sold fresh or dried and salted. Some are used as an ingredient in making fish sauce. They are also used as bait.
 
 ---

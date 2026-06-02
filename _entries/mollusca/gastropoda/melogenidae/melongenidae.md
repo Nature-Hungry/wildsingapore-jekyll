@@ -61,7 +61,8 @@ Shell large and thick. They have a tough operculum made of a horn-like material.
 **What do they eat?**
 Many species of melongena snails eat bivalves, especially oysters.
 
-**Human uses:**
+## Human uses
+
 They are collected for food by coastal dwellers and the shell used to make lime.
 
 ---

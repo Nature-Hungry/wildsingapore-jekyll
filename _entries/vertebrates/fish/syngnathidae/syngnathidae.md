@@ -160,7 +160,8 @@ Seahorses and pipefishes feed on tiny creatures. These are sucked up with their 
 **Pregnant fathers:**
 In many members of this family, the male carries the eggs. In some species, the male has a pouch. For those without a pouch, such as pipefishes, the eggs may be glued to the underside of the male's tail or abdomen. Often the eggs are embedded in a spongy tissue. Some have a pair of flaps that fold over the eggs. Females have an ovipositor to lay eggs on the male's body, where the eggs are then fertilised. In some species, 'pregnant' males may hang out together in small groups. The eggs develop safely on dad's body. The father 'gives birth' to live young, which emerge as miniatures of the adults.
 
-{% include img-wrap-group.html items=page.galleries.gallery3 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery3 %}## Human uses
+
 Pipefishes and seahorses are used in traditional Chinese medicine. Some species are also caught for the live aquarium trade.
 
 **Status and threats:**

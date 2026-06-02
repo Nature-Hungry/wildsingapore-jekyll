@@ -199,7 +199,8 @@ Periwinkles graze on tiny algae growing as a film over the rocks. Some species e
 **Periwinkle Babies:**
 In periwinkles, the genders are separate and they practice internal fertilisation. The males have a prong-like male organ. Some females shed their eggs directly into the water where these drift with the plankton as they develop. Others lay gelatinous egg masses or retain their eggs until these hatch. Free-swimming larvae hatch from the eggs, only later developing into snails.
 
-{% include img-wrap-group.html items=page.galleries.gallery3 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery3 %}## Human uses
+
 In our region, they are collected for subsistence food by coastal dwellers and for shellcraft. Large periwinkles are eaten in temperate countries such as England. In fact, the name 'periwinkle' comes from the Old English for 'penny winkle' as they were then sold for a penny per handful. They were also used as jewellery.
 
 **Status and threats:**

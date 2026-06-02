@@ -134,7 +134,8 @@ and
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
-**Human uses:**
+## Human uses
+
 This is one of the sea cucumbers whose body fluids are harvested in Malaysia for 'Air Gamat', a local health tonic that believed to aid healing and other ailments. According to Choo, in Pulau Langkawi, the processing industry has depleted the resources of
 *S. hermanni*
 , which is now an endangered if not an extinct species in the vicinity of the Langkawi Islands.

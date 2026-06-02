@@ -89,7 +89,8 @@ According to Hsuan Keng, it was formerly a native tree at Changi coast but consi
 
 A tree that usually grows to 15m (up to 35m). Dark green leaves made up of many little leaflets. The leaves are usually shed after dry weather, in our region usually in January-February and in July-August. The fragrant yellow flower (3cm) has wrinkled petals, several flowers emerging on a long stalk. During the flowering season, the entire tree may be covered in yellow blossoms. The fruit is a brown, flat woody winged purple-brown pod with up to 4 seeds that look like sunflower seeds. The pods remain on the tree for several months. Bark is smooth and grey. The tree grows well in poor soils because it contains nitrogen fixing bacteria in its roots.
 
-**Human uses:**
+## Human uses
+
 According to Burkill, the tree is commonly planted not just for its beauty but also as a shade tree and a good roadside tree as it sends its roots deep and does not disturb pavements. It is also used to shade coffee and to recover lallang infested land. The leaves can also be fed to cattle. The timber is considered strong by some, but assessed as not durable by others. Considerable quantities of the bark were used to produce a yellow-brown dye for the batik industry in Java. The bark was also used for treatment of dysentery, sprains, muscular aches, ulcers, eye lotions, gargles and tooth powders.
 
 **Heritage Tree:**

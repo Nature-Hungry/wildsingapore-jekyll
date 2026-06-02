@@ -137,7 +137,8 @@ Our tiny spider crabs are cousins of the biggest crab in the world! The Japanese
 *Macrocheira kaempferi*
 ), with a leg span of 4m, belongs to the same family.
 
-**Human uses:**
+## Human uses
+
 Unfortunately, the
 [Velcro crab](retusa)
 (

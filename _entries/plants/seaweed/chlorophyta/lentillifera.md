@@ -197,7 +197,8 @@ can look very similar but lack the distinct constriction where the 'grape' attac
 [how to tell apart the sea grapes seaweeds](cfgrapes)
 .
 
-**Human uses:**
+## Human uses
+
 Round sea grapes are a popular edible species in some places.
 **
 In the Philippines, the seaweed is eaten fresh as a salad, or salted so it can be eaten later. Small quantities are also exported to Japan. It is also eaten in Malaysia and Indonesia. This seaweed is commercially farmed in Cebu, Philippines. Cuttings are planted by hand in muddy mangrove ponds and harvested about two months later. The seaweed is also fed to livestock and fish. The seaweed is high in minerals and is said to taste refreshing. It is also reported to have antibacterial and antifungal properties, and to be used to treat high blood pressure and rheumatism. However, some

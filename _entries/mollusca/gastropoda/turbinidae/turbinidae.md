@@ -184,7 +184,8 @@ the
 **What do they eat?**
 Turban shells graze the algae that thrive on the rocks, scraping this off with their radula.
 
-**Human uses:**
+## Human uses
+
 In our region, the larger turban snails are collected for food and their mother-of-pearl shell. The large Giant green turban snail (
 *Turbo mamoratus*
 ) is collected for food and its shell carved into ornaments and jewellery. In recent years, heavy commercial exploitation has depleted local populations.

@@ -113,7 +113,8 @@ Operculum thin, circular, made of a horn-like material.
 This tiny snail is able to withstand high temperatures. It is even hardier than other kinds of periwinkles. It is believed that the knobbly texture of the shell helps to keep the animal cool. It is often found so high up on the rocks that it is only wet for a few hours for the few days of high spring tides every two weeks or so. This tough snail feeds only during these high spring tides or perhaps when it rains.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
-**Human uses:**
+## Human uses
+
 Surprisingly, even though it is so tiny, this snail is said to be collected for food and the shell trade especially in Vietnam and the Gulf of Thailand.
 
 ---

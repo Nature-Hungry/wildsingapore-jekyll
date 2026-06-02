@@ -102,7 +102,8 @@ Females, which are usually bigger than males, lay a single black globular egg ca
 **What does it eat?**
 The cuttlefish hunts fishes, crustaceans and other cephalopods.
 
-**Human uses:**
+## Human uses
+
 The cuttlefish is an important commercial seafood harvested by trawls, nets with lights at night. There has been efforts to aquaculture this cuttlefish.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

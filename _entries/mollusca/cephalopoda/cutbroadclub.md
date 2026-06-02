@@ -152,7 +152,8 @@ sp.). A male cuttlefish establishes a territory over coral colonies suitable for
 [cephalopod eggs](cepeggs)
 .
 
-**Human uses:**
+## Human uses
+
 The cuttlefish is an important commercial seafood harvested by trawl, setnet, jig, handline and spear.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

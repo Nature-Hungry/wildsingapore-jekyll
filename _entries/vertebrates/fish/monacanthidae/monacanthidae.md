@@ -235,7 +235,8 @@ Filefishes will eat almost any food source. These include small bottom-dwelling 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Filefish babies:**
 Many filefishes lay eggs that settle on the bottom, onto a site prepared and guarded by the male or both parents. Some subtropical species may release their eggs into open waters.
 
-**Human uses:**
+## Human uses
+
 Filefishes are edible and eaten in some traditional dishes. Unlike most other edible fishes which are scaled before we eat them, for filefishes, the rough skin has to be 'peeled' off first.
 
 **Status and threats:**

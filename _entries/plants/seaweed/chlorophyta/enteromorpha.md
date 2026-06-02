@@ -116,7 +116,8 @@ According to
 species.
 
 Identification of the species is difficult because the internal and external features used to distinguish among the species can vary with age, salinity, nutrient level, amount of sunlight, wave and tidal exposure.
-**Human uses:**
+## Human uses
+
 Some species are eaten by people, the fine mossy ones used to garnish dishes in Japan and some parts of China. They are also used as animal feed, fertiliser and as medicine for their antibacterial properties.
 
 **

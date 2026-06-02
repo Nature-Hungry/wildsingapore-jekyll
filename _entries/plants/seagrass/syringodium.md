@@ -119,7 +119,7 @@ sp.). While both are long and narrow, noodle seagrass, however, is cylindrical l
 **Flowers and fruits:**
 Noodle seagrass has separate male and female plants. The flowers form a complex inflorescence (called a cyme). Each flower forms in a branching array on a stem. The fruit forms a small nut that is hard and beaked. An inflorescence with mature seeds may break off and float away some distance.
 
-**Role in the habitat:**
+## Role in habitat
 Dugongs graze on this seagrass where there are no
 *Halophila*
 or

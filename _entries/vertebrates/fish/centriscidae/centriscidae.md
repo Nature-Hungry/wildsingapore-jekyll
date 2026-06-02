@@ -220,7 +220,8 @@ and
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**What do they eat?**
 Razorfishes eat tiny planktonic crustaceans and zoo plankton, sucking these up with the small toothless mouth. The mouth is at the tip of a long, tube-like snout.
 
-**Human uses:**
+## Human uses
+
 These bizarre fishes are sometimes taken for the live aquarium trade. Some species are harvested and ground up into fishmeal.
 
 ---

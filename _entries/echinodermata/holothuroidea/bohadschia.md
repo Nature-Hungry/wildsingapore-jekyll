@@ -159,7 +159,8 @@ to be the same.
 **Babie cucumbers:**
 It is recorded to reproduce annually in various parts of the world. Juveniles appear similar to small adults.
 
-**Human uses:**
+## Human uses
+
 It is sometimes harvested together with other edible sea cucumbers, by hand collecting and free diving, sometimes using lead bombs. But the Cuvierian tubules make them 'disagreeable' and they do not have a high commercial value. It is considered a delicacy by Asians. It is also an important protein component in traditional diets of island communities or eaten in times of hardship.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

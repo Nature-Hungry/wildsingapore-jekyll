@@ -92,7 +92,8 @@ Surf clams belong to the Family Mactridae. They are also called Trough clams.
 
 About 6cm. The two-part shells are thick and smooth. They are active burrowers of sandy and muddy bottoms.
 
-**Human uses:**
+## Human uses
+
 Some are harvested commercially, but are of secondary importance. They are, however, more regularly eaten by coastal dwellers.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

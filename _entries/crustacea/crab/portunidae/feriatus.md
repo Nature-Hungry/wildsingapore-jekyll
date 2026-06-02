@@ -132,7 +132,8 @@ Body width 5-7cm, to 20cm. Body somewhat fan-shaped, with 5 spines on the sides.
 **Holy crab?**
 Some people believe that these crabs were blessed by the missionary, St Francis Xavier. The Jesuit story is that in February 1546, St Francis was caught in a storm in eastern Indonesia. In an attempt to calm the storm, he took his crucifix and dipped it into the sea, but it slipped from his grasp and fell into the water. The next morning, as he reached the shores of Seram Island, a crab with a cross-shaped mark approached him holding his cross. Xavier knelt down, retrieved the cross, and blessed the crab.
 
-**Human uses:**
+## Human uses
+
 The commercially most important of the
 *Charybdis*
 species, caught by bottom trawls, sometimes by traps and nets. It sells for a premium in East Asia. More delicate than Mud crabs (

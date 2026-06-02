@@ -115,7 +115,7 @@ This beautiful seagrass has tiny leaves that grow in opposite pairs on a long th
 **Flowers and fruits:**
 Fern seagrass has separate male and female plants. The flowers form at the junction where each tiny leaf attaches to the central stem. There may be several flowers on a single stem. The tiny fruits are flask-shaped and may contain up to 30 tiny seeds.
 
-**Role in the habitat:**
+## Role in habitat
 Dugongs are known to graze on this seagrass.
 
 **Status and threats:**

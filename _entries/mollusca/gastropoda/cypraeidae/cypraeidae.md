@@ -197,7 +197,8 @@ to scavenging and carnivorous cowries that eat other snails. Each has a radula a
 **Cowrie babies:**
 The mother cowrie lays her eggs in a horny capsule attached to a hard surface by a short stalk, these capsules are grouped in a cluster. Some mother cowries remain with their egg capsules until they hatch. The eggs are at first white or yellow and turn dark grey as they mature. Some large cowries can live for 10 years, while smaller one for 2-3 years.
 
-{% include img-wrap-group.html items=page.galleries.gallery4 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery4 %}## Human uses
+
 Some cowries are popular in the live aquarium trade. Cowries are among the most harvested snails for the shell trade. In the past, they were traditionally collected for food. Some islanders use cowries to bait traps for octopus.
 
 **Status and threats:**

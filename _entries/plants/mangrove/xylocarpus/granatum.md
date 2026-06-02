@@ -140,7 +140,8 @@ When ripe, the fruit splits open and/or drops off the tree and shatters, releasi
 *Granatum*
 ' means 'full of seeds'. The angular seeds fit perfectly inside the round fruit. But once spilled from the fruit, the seeds are hard to fit back together. So the tree is sometimes called the 'Puzzle nut' mangrove or 'Monkey puzzle' tree.
 
-**Human uses:**
+## Human uses
+
 According to Burkill, it is produces a timber valued in making boats, houses and furniture. It is also valued as firewood. The bark is so popular in tanning and tougening fishing nets that "in one part of Java, it is rare to find a tree which has not been peeled." The bark is dark outside and bright red within, and so thin that a tree yields very little of it. Medicinal uses include the bark for dysentery, roots in a secret recipe against cholera, and the seeds for various ailments.
 
 ![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/granatum/090112smkd5008m6l.jpg)

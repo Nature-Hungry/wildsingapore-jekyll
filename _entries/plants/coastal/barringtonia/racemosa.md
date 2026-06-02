@@ -119,7 +119,8 @@ It is the food plant for caterpillars of the moths
 *Thosea andamanica*
 .
 
-**Human uses:**
+## Human uses
+
 The plant contains a toxin called saponin, concentrated mainly in the seeds but also found in other parts of the plant. According to Burkill, the leaves are used in a poultice for itching and chicken-pox, as well as to treat sore throats. The young leaves are eaten raw in Eastern Malaysia, and in the Philippines the fruits are used to poison wild pigs.
 
 **Status and threats:**

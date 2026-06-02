@@ -256,7 +256,8 @@ sp.) including
 **Status and threats:**
 As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.
 
-{% include img-wrap-group.html items=page.galleries.gallery3 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery3 %}## Human uses
+
 Unfortunately, this beautiful anemone is collected for the live aquarium trade.
 
 **Status and threats:**

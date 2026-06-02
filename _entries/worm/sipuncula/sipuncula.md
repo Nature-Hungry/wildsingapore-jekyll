@@ -183,7 +183,8 @@ Most peanut worms eat detritus, most of them mopping it up from the surface. Oth
 **Peanut worm babies:**
 Peanut worms have separate genders, releasing eggs and sperm simultaneously into the water for external fertilisation. Some have a free-swimming larval stage that can travel long distances. In others, the eggs develop directly into little peanut worms.
 
-**Human uses:**
+## Human uses
+
 Peanut worms were once so plentiful in Singapore that they were collected and fed to ducks.
 
 **Status and threats:**

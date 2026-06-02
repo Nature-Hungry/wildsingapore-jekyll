@@ -115,7 +115,8 @@ Sometimes, the sponge is inhabited by
 *Vulsella*
 sp.), a kind of clam that lives only in sponges. These are completely covered by the sponge, with only a slit on the surface of the sponge where the bivalve's shell opening is. Often, these bivalves result in flat blade or leaf-like protrusions in the sponge.
 
-**Human uses:**
+## Human uses
+
 This sponge contains the chemical psammaplin A which is reported to be a powerful blocker of several components of the processing machinery in cancer cells, preventing them from growing and dividing.
 [More details](http://wildshores.blogspot.com/2011/02/anti-cancer-drugs-from-sponge-commonly.html)
 .

@@ -222,7 +222,8 @@ This amazing snail is among the large cowries sometimes seen near reefs on our S
 
 5-8cm. Shell egg-shaped, generally bluish with pattern of fine dotted brown lines, but patterns vary. Underside pale beige to light orange with brown spots and brown or orange 'teeth'. The living animal has a mantle covered with fine white 'hairs'. Siphon and tentacles black. So far, we have not encountered a living animal with the mantle covering the entire shell.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
-**Human uses:**
+## Human uses
+
 It is collected for food by coastal dwellers and the shell is used for shellcraft and for the shell trade.
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

@@ -78,7 +78,8 @@ This climber with large lilac flowers and dark green leaves is sometimes seen on
 
 The climber (2-10m long) creeps over other coastal plants. The end of the plant sometimes twines and often it roots from the nodes. Compound leaf with three fleshy, oval leaflets (3-15cm). Flowers (2-2.5cm) reddish-violet with a white streak down the middle, and are upside down when fully opened. Several flowers on a long stalk. They are sweetly scented. Fruits are bean-like pods, straight or slightly curved (6-15 cm long) with 2-10 seeds, brown oval.
 
-**Human uses:**
+## Human uses
+
 According to Burkill, the Malays use the flowers as flavouring, the young seeds are said to make a good peas porridge and the pods are edible when young. According to Giesen, young pods and seeds are edible after (prolonged) boiling. Flower used as spice. The plant is considered suitable as ground cover against soil erosion on eroding coastal lands.
 
 ![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/canavalia/canavalia/090405smkd9044m6l.jpg)

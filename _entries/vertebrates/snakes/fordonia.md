@@ -86,7 +86,7 @@ authors:
 
 ## Where seen?
 Rarely seen, usually in mangroves such as Pasir Ris and Sungei Buloh, often near
-[mud lobster mounds](../../crustacea/othercrust/lobster/thalassina)
+[mud lobster mounds](/wildfacts/guides/crustacea/crustacea/othercrust/lobster/thalassina)
 . This snake is nocturnal and is seldom seen during the day.
 
 ## Features

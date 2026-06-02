@@ -104,7 +104,8 @@ a
 [how to tell apart slugs and animals that look like slugs](../../../glossary/flatwormslug)
 .
 
-**Human uses:**
+## Human uses
+
 It is collected for food and the shell for the shell trade.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

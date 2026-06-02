@@ -153,7 +153,8 @@ Red seaweeds have chlorophyll but this is masked by phycocyanin and phycoerythri
 
 Red seaweeds may not always be red. If the pigment phycoerythrin is destroyed, they may appear purple, brown, green, or yellow. But when held up against the light, tints of red or pink can be seen. Rhodon means 'rose' or 'red' in Greek.
 
-**Human uses:**
+## Human uses
+
 Red seaweed are among our favourite seafood. The familiar dried seaweed used in Japanese sushi is a red seaweed
 *Porphyra*
 sp. which has been cultivated in Japan for more than 300 years. It is also eaten fresh. Other red seaweeds are also eaten. In the Philippines, some species of red seaweeds are eaten as salads. These include

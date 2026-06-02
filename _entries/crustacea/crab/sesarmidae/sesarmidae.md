@@ -144,7 +144,7 @@ Small sesarmid crabs are commonly seen in our mangroves, especially at night. Th
 
 Body width 4-6cm. Sesarmid crabs are adapted for scrambling over slippery surfaces. They have well-developed hooks on the tips of their long legs that grip these surfaces. Their bodies and legs are flattened, allowing them to squeeze deep into narrow cracks and crevices. In some species, males have larger pincers than females. Many can stay out of the water for some time.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
-**Role in the habitat:**
+## Role in habitat
 By feeding on mangrove leaves, these crabs recycle nutrients in the mangrove forest. Quickly breaking down the leaves for others in the food chain to eat, e.g., animals that eat the fragments left over by the crabs, what comes out of the crab after it eats the leaves, and of course, the crab itself!
 
 **Status and threats:**

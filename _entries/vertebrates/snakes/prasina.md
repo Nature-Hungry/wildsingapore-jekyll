@@ -95,7 +95,7 @@ location:
 - lab
 size:
 - 200.0
-rdb: Lc
+rdb: LC
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
@@ -107,7 +107,6 @@ This elegant snake is arboreal and lives in bushes and trees. It is common in ma
 
 ## Features
 
-****
 To about 2m long. Considered the largest and longest of the whip snakes, it is nevertheless still quite a slender snake. It has a long thin tail that can take up nearly 40% of the length of the snake.
 
 Adults are a fresh almost flourescent green, while juveniles may be yellow to pale brown. It has a broad but elegant head with small eyes. The groove infront of the eyes allows the snake stereoscopic vision for more accurate judgement of distance and thus a successful strike at prey.
@@ -117,7 +116,6 @@ According to Stuebing, it has interesting threat display of extending the tongue
 It is mildly venomous but shy and will prefer to slide away into the undergrowth. If you want to take a closer look at it, avoid disturbing it. Its venom is too weak to affect humans. But sadly, it is often killed on sight by people who fear snakes.
 
 **What does it eat?**
-****
 It eats mainly lizards, but also frogs and small birds.
 
 **Whip babies:**

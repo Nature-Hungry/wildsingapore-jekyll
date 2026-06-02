@@ -105,7 +105,8 @@ groves.
 **What does it eat?**
 It grazes on algae growing on mangrove trees and on the ground.
 
-**Human uses:**
+## Human uses
+
 Traditionally collected as food by Indonesian coastal dwellers.
 
 **Status and threats:**

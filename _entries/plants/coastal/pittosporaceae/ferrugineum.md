@@ -52,7 +52,8 @@ According to Hsuan Keng it was often seen along seashores, including at Kranji, 
 
 Corners describes it as "an insignificant little tree unless its branches are weighed with fruit". It is distinguished by narrow leaves with wavy edges and young parts which are hairy brown. A shrub or small tree (seldom exceeding 10m). Leaves small, narrow pointed at both ends, the leaf edge very wavy. The leaves appear in clusters along slender twigs. Young leaves pale green, withering yellow. Flowers yellowish white in clusters, with faintly honey-sweet scent. Fruit in compact clusters of 4-12 at the tips of twigs, ripening orange ochre and tipped with a pin-like style. When ripened, splits to reveal scarlet mass of pulpy seeds. Seeds pale yellow, hard with thin red sticky pulp. Burkill says the fruit tastes sweetish but "would doubtless be dangerous to eat".
 
-**Human uses:**
+## Human uses
+
 According to Burkill, the leaves and roots are used in poulticing for malaria. The leaves and fruit are also used as fish poison.
 
 **Status and threats:**

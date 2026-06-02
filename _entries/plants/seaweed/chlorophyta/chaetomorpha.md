@@ -141,7 +141,8 @@ sp.) which has much shorter filaments and appears feathery. Here's more on
 [how to tell apart some green seaweeds](cffeathery)
 .
 
-**Human uses:**
+## Human uses
+
 It is used as animal feed and eaten raw by people.
 
 ![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/chaetomorpha/020225cjd7289m3.jpg)

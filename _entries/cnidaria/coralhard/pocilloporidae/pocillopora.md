@@ -175,12 +175,13 @@ Colony colours seen include yellow or brown with a bluish or greenish tinge. It 
 
 **Cauliflower friends:**
 The branches of the colony provide shelter for small animals such as shrimps and crabs. While most just shelter among the corals, some of these eat the polyps. The
-[Red coral crab](../../../crustacea/crab/trapezioidea/redcoral)
+[Red coral crab](..//wildfacts/guides/crustacea/crustacea/crab/trapezioidea/redcoral)
 (
 *Trapezia cymodoce*
 ) is found only in Cauliflower corals. It feeds on the mucus produced by the coral, and in return, protects the corals from predators.
 
-**Human uses:**
+## Human uses
+
 Cauliflower coral are among those harvested for sale as cheap souvenirs. Being tough, cauliflower coral are often kept in captivity and used in laboratory conditions. They are sometimes called the coral guinea pigs. They are among the best studied corals.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

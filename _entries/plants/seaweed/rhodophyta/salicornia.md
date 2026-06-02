@@ -146,7 +146,8 @@ Small clumps of this distinctive knobbly seaweed is sometimes seen on many of ou
 
 'Stem' made up of succulent club-shaped structures (each about 1-3cm long) joined together. May form loose clusters of long 'stems' (10-15cm)'. Or dense clumps of short 'stems' (1-3cm) growing low against rock or coral rubble. Black or brownish with only the slightest tinge of red, sometimes yellowish brown.
 
-**Human uses:**
+## Human uses
+
 It is used as animal feed, and fertiliser for coconut trees and coffee bushes in China, India and Sri Lanka. Like other
 *Gracilaria*
 species, it is also a

@@ -180,7 +180,8 @@ They curl their muscular body sideways then push against the mud to spring forwa
 [Bearded mudskipper](histophorus)
 can 'stand' on its tail, if only for a brief moment, in an attempt to impress the ladies.
 
-{% include img-wrap-group.html items=page.galleries.gallery3 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery3 %}## Human uses
+
 The
 [Giant mudskipper](schlosseri)
 is eaten in some places such as Taiwan. They are caught with nets strung at ground level, or with cast-nets.

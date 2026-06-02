@@ -95,7 +95,7 @@ links_references: '**Links**
   '
 size:
 - 1500.0
-rdb: Lc
+rdb: LC
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
@@ -119,7 +119,7 @@ Flowers delicate, pale pink (1.5cm) several in a loose cluster on a slender infl
 
 Fruits coin-like circular flat pods (3-4cm) with 1-2 seeds. The pods are green at first, and turn brown and woody as they ripen. The pod contains air cavities and thus floats. Although the wind might also blow them around a fair bit.
 
-**Role in the habitat:**
+## Role in habitat
 Like other climbers, it provides shelter for smaller creatures of the mangroves. The plants also form an interlocking framework among trees, which may add to strength of the forest against coastal storms. The plant twines around trees and shrubs and can form deep "choke" marks on trees as their trunks expand. But eventually, the trees usually prevail, breaking the vines. Thus common derris doesn't 'strangle' trees.
 
 According to the NParks Flora and Fauna website, it is the preferred local food plant for caterpillars of the dark caerulean butterfly (
@@ -144,7 +144,8 @@ and
 *Phaedyma columella singa*
 ).
 
-**Human uses:**
+## Human uses
+
 According to Burkill, the plant roots are also used to produce 'tuba', a poison used in poison arrow and as an insecticide, particularly in vegetable gardening. It has some medicinal uses, and the twinning stems are also used as rough cords. According to Geisen, the commercial fish poison 'rotenone' or Derris dust is derived from the tuberous roots of another South East Asian species,
 *D. elliptica*
 .

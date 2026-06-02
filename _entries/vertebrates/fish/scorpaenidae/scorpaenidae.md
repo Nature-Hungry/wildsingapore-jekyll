@@ -155,7 +155,8 @@ Most scorpionfishes skulk on or near the bottom, staying motionless for hours to
 **Scorpionfish babies:**
 Most scorpionfishes reproduce through internal fertilisation. Some species lay their eggs in a gelatinous balloon. The larvae are planktonic.
 
-**Human uses:**
+## Human uses
+
 Scorpionfishes are venomous but not poisonous. In temperate climates, large members of this group called rockfishes or rockcods (
 *Sebastes*
 sp.) are considered good eating and are caught by sport fishermen as well as commercially for as food fish. Rockfishes are vulnerable to overfishing as they grow slowly and reach maturity late.

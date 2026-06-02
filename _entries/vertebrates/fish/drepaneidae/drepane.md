@@ -87,7 +87,8 @@ Juveniles may be mistaken for
 **What does it eat?**
 It eats bottom dwelling animals.
 
-**Human uses:**
+## Human uses
+
 It is sometimes sold fresh in local markets.
 
 ---

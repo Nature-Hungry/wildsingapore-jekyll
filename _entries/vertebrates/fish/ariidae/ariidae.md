@@ -157,7 +157,8 @@ The males usually carry the relatively large eggs in his mouth until the eggs ha
 **What do they eat?**
 Adapted for hunting in murky waters for prawns, worms and other titbits hiding on or in the ground. The barbels around the catfish's mouth help find prey where visibility is poor. The barbels have taste buds to help sense food. They don't use their barbels to sting.
 
-**Human uses:**
+## Human uses
+
 Some species are important commercial food fishes, sold fresh or salted.
 
 **Status and threats:**

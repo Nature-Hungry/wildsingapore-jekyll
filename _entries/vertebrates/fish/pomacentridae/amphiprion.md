@@ -153,7 +153,8 @@ Each species of anemonefish lives in a specific species of sea anemone. Some spe
 [One study suggests](http://wildshores.blogspot.com/2008/08/clown-anemonefishes-need-rainforests.html)
 the fishes use the smell of leaves from the rainforest to find their way to a suitable habitat. Even so, this is not the end of the problems for the young fish. If the anemone already has resident anemonefishes, the new fish is usually bullied by the residents and may even be driven away.
 
-{% include img-wrap-group.html items=page.galleries.gallery4 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery4 %}## Human uses
+
 Unfortunately, these fishes are taken in large numbers from the wild for the aquarium trade. The harvest may involve the use of cyanide or blasting, which damage the habitat and kill many other creatures. Like other fish and creatures harvested from the wild, most die before they can reach the retailers. Without professional care, most die soon after they are sold. Often of starvation as owners are unable to provide the small creatures and plants that these fishes need to survive. In artificial conditions, many succumb to diseases and poor health. Those that do survive are unlikely to breed.
 
 There have been some success in breeding anemonefish for the aquarium trade. Although captive bred anemonefish are hardier, they are more expensive. Harvesting from the wild will probably continue so long as there are unscrupulous traders and aquarists.

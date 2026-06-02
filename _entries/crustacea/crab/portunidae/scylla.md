@@ -202,7 +202,8 @@ The Mud crab we often eat at restaurants are actually from the Giant mud crab (
 **What does it eat?**
 This crab is a predator and will eat any animal that it can catch. It appears to prefer snails and clams.
 
-**Human uses:**
+## Human uses
+
 These crabs are edible and a favourite dish for many Singaporeans. They are traditionally caught by hooking them out of their burrows with long iron rods.
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

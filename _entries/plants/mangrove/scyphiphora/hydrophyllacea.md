@@ -113,7 +113,8 @@ Fruit tiny (0.5cm) oblong with 6-8 ridges, first green then white. The outer lay
 (
 *Lumnitzera*
 sp.), which has its leaves arranged in a spiral.
-**Human uses:**
+## Human uses
+
 According to Giesen, the wood may be used to make household objects such as spoons, while larger pieces are used for fence posts and firewood. The leaves are used to treat stomach problems.
 
 *![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/scyphiphora/hydrophyllacea/091115ubnd4242m6l.jpg)

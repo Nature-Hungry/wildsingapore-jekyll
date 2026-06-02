@@ -157,7 +157,7 @@ location:
 - lfa
 size:
 - 1.5
-rdb: Lc
+rdb: LC
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
 - They are everywhere on the sandy shore at low tide. Don't step on them! They are

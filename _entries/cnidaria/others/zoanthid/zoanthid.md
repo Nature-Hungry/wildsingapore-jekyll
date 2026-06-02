@@ -138,7 +138,7 @@ Although they look harmlessly pretty, some zoanthids contain powerful toxins to 
 Wear covered shoes and long pants to cover all skin exposed to water. Do not touch zoanthids.
 
 Despite their toxins, some animals have adapted to eat zoanthids. These include the
-[Common hairy crab](../../../crustacea/crab/pilumnidae/pilumnidae)
+[Common hairy crab](..//wildfacts/guides/crustacea/crustacea/crab/pilumnidae/pilumnidae)
 ,
 [filefishes](../../../vertebrates/fish/monacanthidae/monacanthidae)
 and
@@ -150,7 +150,8 @@ Most zoanthids feed on plankton, some also feed on finer particles. Many harbour
 **Zoanthid babies:**
 Zoanthids generally reproduce asexually: new polyps bud to enlarge the colony. However, they also reproduce sexually. The polyps may produce sperm or eggs, but usually only either one at a time. Eggs and sperm are released synchronously for external fertilization, in mass spawning similiar to that practiced by hard corals.
 
-**Human uses:**
+## Human uses
+
 Palytoxin, the poison extracted from a zoanthid, has been used to better understand how our body works and may provide better treatment of hypertension, heart disease and other disorders. Zoanthids are also a popular item in the live aquarium trade, although their toxins make them dangerous to handle.
 
 **Status and threats:**

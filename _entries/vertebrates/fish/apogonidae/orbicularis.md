@@ -87,7 +87,8 @@ of one Orbicular cardinalfish "snapping up
 [Tropical silversides](../atherinidae/duodecimalis)
 using its tongue and rapidly swallowing the prey whole (like a frog eating a fly)."
 
-**Human uses:**
+## Human uses
+
 It is popular in the live aquarium trade.
 
 **Species are difficult to positively identify without close examination.

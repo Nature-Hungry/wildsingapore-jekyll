@@ -90,7 +90,8 @@ Despite the treacherous nature of the pitcher, the Nepenthes Crab Spider (
 *Virachola kessuma deliochus*
 ) lays its eggs on a maturing seedpod and the developing caterpillars bore into the pod and devour the developing seeds, moving onto another pod as it grows, finally pupating in yet another pod or even inside a pitcher.
 
-**Human uses:**
+## Human uses
+
 According to Burkill, the tough stems of pitcher plants (species not specified) are used in rope making, while the roots are used to treat stomach aches, dysentery and in poultices. The stem may be used to treat coughs and fevers.
 
 **Status and threats:**

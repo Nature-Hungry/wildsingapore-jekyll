@@ -182,10 +182,11 @@ growing on their bodies, pincers and legs. These crabs are usually those infecte
 *Thompsonia*
 sp.)
 
-**Role in the habitat:**
+## Role in habitat
 Flower crabs are predators. In turn, they are eaten by animals higher up in the food chain.
 
-**Human uses:**
+## Human uses
+
 Flower crabs are edible and a favourite dish for many Singaporeans. They are caught with nets or baited traps. In Western Australia, they are an important fishery resource with 740 tonnes, valued at around $2.2 million, harvested in 1997/98.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}

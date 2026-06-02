@@ -95,7 +95,7 @@ authors:
 **What are Palaemonid shrimps?**
 Palaemonid
 shrimps are
-[crustaceans](../../crustacea)
+[crustaceans](/wildfacts/guides/crustacea/crustacea)
 that belong to Family Palaemonidae.
 ****
 

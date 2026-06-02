@@ -207,7 +207,8 @@ other small silvery fishes. More on
 **What do they eat?**
 Many feed on zoo plankton or other tiny creatures that live in the water column (as opposed to on the sea bottom). Being so numerous, they are important prey for other larger fishes, other marine life and sea birds.
 
-{% include img-wrap-group.html items=page.galleries.gallery4 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery4 %}## Human uses
+
 Only a few species of this Family are large enough to be valuable as human food. Smaller ones maybe used as bait or pet food.
 
 **Species are difficult to positively identify without close examination.

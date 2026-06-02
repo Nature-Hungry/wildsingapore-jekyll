@@ -80,7 +80,8 @@ To 28cm. It has bluish stripes on the lower sides of its body and does NOT have 
 describes it as: Recognized by the bright white patch that is highly visible in dirty water. Colour orange with light grey longitudinal stripes, a large bright yellow oval spot on side above lateral line and below anterior half of dorsal fin.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
-**Human uses:**
+## Human uses
+
 It is sold fresh
 .
 

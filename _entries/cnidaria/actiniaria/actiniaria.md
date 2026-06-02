@@ -148,7 +148,7 @@ Many anemones also harbour symbiotic single-celled algae (called zooxanthellae) 
 
 ### Anemone friends
 
-Some anemones may live with other animals such as [hermit crabs](hermitsmall) and [living snails](snail). Other animals have adapted to live among the tentacles of anemones. The [Anemonefish](../../vertebrates/fish/pomacentridae/amphiprion) (*Amphiprion* sp.) is coated with mucus that does not trigger off the host anemone's stingers. Other creatures that also make their homes in anemones include [anemone shrimps](../../crustacea/othercrust/shrimp/palaemonidae) (*Periclimenes* sp.).
+Some anemones may live with other animals such as [hermit crabs](hermitsmall) and [living snails](snail). Other animals have adapted to live among the tentacles of anemones. The [Anemonefish](../../vertebrates/fish/pomacentridae/amphiprion) (*Amphiprion* sp.) is coated with mucus that does not trigger off the host anemone's stingers. Other creatures that also make their homes in anemones include [anemone shrimps](/wildfacts/guides/crustacea/crustacea/othercrust/shrimp/palaemonidae) (*Periclimenes* sp.).
 
 ### Should I 'save' animals trapped in an anemone?
 

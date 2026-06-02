@@ -141,7 +141,8 @@ It gathers plankton and suspended organic particles from the water with feathery
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**Living on a cucumber**
 Sometimes small creatures are seen on the sea cucumber. Such as parasitic snails and tiny shrimps.
 
-{% include img-wrap-group.html items=page.galleries.gallery3 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery3 %}## Human uses
+
 Thorny sea cucumbers are among the sea cucumbers harvested for the live aquarium trade, although not as popular as the more colourful
 [Sea apple sea cucumber](violaceaus)
 (

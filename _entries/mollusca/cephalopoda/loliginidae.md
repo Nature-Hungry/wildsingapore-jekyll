@@ -85,7 +85,8 @@ Those seen 8-12cm long, but other species of this family that live in deeper wat
 The family has 5 genera and more than 40 species that can only be identified by examining fin size and shape, sucker ring shapes and modifications on the lower left arm of mature males.
 Most members of this family are smooth, streamlined, torpedo-shaped squids that can swim fast.
 
-**Human uses:**
+## Human uses
+
 Our popular seafood squids belong to this family.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **

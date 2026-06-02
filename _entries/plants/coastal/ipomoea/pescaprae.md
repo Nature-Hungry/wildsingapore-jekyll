@@ -85,10 +85,11 @@ Flowers large trumpet-shaped (3-5cm) thin delicate, usually pink, reddish purple
 
 Fruit ripens to a small (about 1cm) globular, dry capsule which explodes to release four black, densely hairy seeds. The seeds float and are resistant to salt water, and dispersed by sea.
 
-**Role in the habitat:**
+## Role in habitat
 According to Polunin, is the most important coloniser of many tropical beaches around the world. Its creeping rooting stems often form dense patches which hold down the sand and produce humus.
 
-**Human uses:**
+## Human uses
+
 According to Wee, the juice squeezed from the plant is used in Malaysia to treat fish stings. The leaves are used in Indonesia to hasten the bursting of boils; sap from the young leaves are boiled in coconut juice and used to treat sores and ulcers; and the seeds chewed with areca nut, soothe abdominal pains and cramps. In the Philippines, the boiled leaves are used to treat rheumatism. While Polunin records its use as a purgative in Malay medicine. Burkill includes the use of boiled tubers to relieve bladder problems as they have a diuretic effect. According to Burkill, animals will eat the leaves but they will taint the milk of cows. The leaves are also fed to pigs.
 
 ![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/ipomoea/pescaprae/090118smkd5798m3.jpg)

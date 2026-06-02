@@ -147,7 +147,8 @@ Some pipefishes may perform courtship dances before mating. Unlike seahorses, a 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**What does it eat?**
 It feeds on tiny planktonic animals.
 
-**Human uses:**
+## Human uses
+
 This is among the pipefishes used in traditional Chinese medicine, to extract 'Hailong' considered an important drug. This species has been reared in captivity.
 
 **Status and threats:**

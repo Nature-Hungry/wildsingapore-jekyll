@@ -122,7 +122,8 @@ for other flattened fishes that live on the sea bottom. Here's more on
 ---
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 ---
-{% include img-wrap-group.html items=page.galleries.gallery3 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery3 %}## Human uses
+
 It is considered a good food fish and is used in traditional Chinese medicine.
 
 **Species are difficult to positively identify without close examination.

@@ -156,7 +156,7 @@ Lumpy blobby Codium green seaweed
 *Colpomenia sinuosa*
 ) which is golden brown.
 
-**Role in the habitat:**
+## Role in habitat
 Some
 *Codium*
 species are eaten by
@@ -170,7 +170,8 @@ are considered invasive alien introduced species in temperate shores. As these i
 *Codium*
 species take root, they displace the native kelp seaweeds and the marine life associated with these seaweeds. These invasive species are believed to have been introduced via attachment to ship hulls, or oyster shells, as fouling organisms in drag nets and packing material for fishery products.
 
-**Human uses:**
+## Human uses
+
 Some species are used as animal feed and eaten by people. In Korea, they are harvested fresh from the wild and sold in local markets. They are also used as insect repellant. They are reported to have anti-bacterial and anti-tumor properties.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

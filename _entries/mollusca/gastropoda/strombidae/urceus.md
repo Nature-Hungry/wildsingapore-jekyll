@@ -146,7 +146,7 @@ location:
 size:
 - 3.0
 - 5.0
-rdb: Lc
+rdb: LC
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
 - A lively snail that hops instead of creeping along the surface
@@ -166,7 +166,8 @@ This narrow conch with black lips is sometimes seen in seagrass areas on our sho
 
 3-5cm long. Shell heavy thick, long and narrow, lip slightly flared quite wavy. The flared shell protects the long proboscis as the animal sweeps the bottom for titbits. Upperside smooth often covered in silt and sometimes with encrusting plants and animals. Shell opening is shiny black, although in some, this may appear as just a black border around the edges of the shell's underside. Body greenish sometimes with white or with beige spots. Large eyes on eyestalks, each eyestalk has a tentacle, the purpose of which is not known. Like other conch snails, it hops using the knife-like operculum at the tip of a long muscular foot.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
-**Human uses:**
+## Human uses
+
 The snails are actively collected in the Philippines and often sold in the markets of northern Luzon. Shell frequently used to make decorative items.
 
 **Status and threats:**

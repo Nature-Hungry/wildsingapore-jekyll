@@ -122,7 +122,8 @@ Flowers small (about 1cm) with thick petals which are fuzzy and hairy on the ins
 
 Fruits are cresent-shaped pods (8-10cm) fleshy ribbed in a pair, described as resembling the horns of a buffalo. Each fruit contains many brown flat seeds.
 
-**Human uses:**
+## Human uses
+
 According to Burkill, the leaves are eaten in salads in the Moluccas, but "apparently this use does not extend to Malaya". According to Ang et al, this plant was recently found to contain substances that have antibacterial properties against fish diseases.
 
 **Status and threats:**

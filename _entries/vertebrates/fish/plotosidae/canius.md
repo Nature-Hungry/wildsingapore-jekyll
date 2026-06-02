@@ -165,7 +165,8 @@ It has venomous spines on the dorsal fin and on each of the pectoral fins, which
 **What does it eat?**
 It eats crustaceans, molluscs and fishes. It is adapted for hunting on the sea bottom in murky waters.The 'whiskers' (barbels) around the mouth do not sting, they help find prey where visibility is poor. The barbels have taste buds to help sense food. The fish also has a keen sense of hearing. Also a strong sense of smell, using their 'noses' (nostril-like openings on the snout).
 
-**Human uses:**
+## Human uses
+
 The large adults are harvested commercially for eating.
 
 ---

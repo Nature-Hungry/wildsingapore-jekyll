@@ -114,7 +114,8 @@ According to
 *Turbinaria*
 species.
 
-**Human uses:**
+## Human uses
+
 Pyramid seaweed is eaten by people (apparently best eaten boiled then pickled), used as fertiliser, pesticide, insecticide and insect repellent as well as medicine to treat fever in children (mixed with other seagrasses, boiled and the steam inhaled). It is often a minor component of sargassum seaweed (
 *Sargassum*
 sp.) harvests for commercial uses.

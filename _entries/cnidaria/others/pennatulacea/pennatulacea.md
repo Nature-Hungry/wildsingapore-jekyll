@@ -156,7 +156,7 @@ sp.) is among those seen near
 
 **Pen pals:**
 Sea pens are often homes to other small creatures. The tiny
-[Painted porcelain crab](../../../crustacea/othercrust/anomura/porcellanidae/picta)
+[Painted porcelain crab](..//wildfacts/guides/crustacea/crustacea/othercrust/anomura/porcellanidae/picta)
 (
 *Porcellanella picta*
 ) is often found in the
@@ -167,7 +167,8 @@ sp.). Sometimes, tiny transparent shrimps are seen on
 [Flowery sea pens](veretillidae)
 (Family Vertillidae)
 
-**Human uses:**
+## Human uses
+
 These beautiful animals are sometimes taken for the live aquarium trade. However, they usually don't do well in captivity and eventually die of starvation.
 
 **Status and threats:**

@@ -4,7 +4,6 @@ description: Fact sheet with photos on flora and fauna of Singapore's intertidal
 keywords: prawn, shrimp, decapod, crustacea, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry
-family: Penaeidae
 genus: ''
 species: ''
 attributes: []
@@ -18,8 +17,6 @@ class: Malacostraca
 subclass: Eumalacostraca
 superorder: Eucarida
 order: Decapoda
-suborder: Dendrobranchiata
-superfamily: Penaeoidea
 updated: Apr 2020
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
@@ -30,31 +27,21 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/rednose/040919sntd7078m3.jpg
     caption: Red-nose shrimps are also found among seaweeds, and living hard and soft
       corals.
-  - url: http://www.wildsingapore.com/echinodermata/holothuroidea/colochirus/050821bbg1857m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/colochirus/050821bbg1857m3b.jpg
     caption: A tiny transparent commensal shrimp , several seen on a Thorny sea cucumber
       . Beting Bronok, Aug 05
   gallery3:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/meta1.gif
-    caption: 'How do they mate? Shrimps have separate genders. To mate, a male inserts
-      his sperm packet into a special receptacle in the female. Fertilisation, however,
-      is external. The female releases the sperms from the packet together with her
-      eggs. A female prawn produces a huge number of eggs, as much as one million
-      in one spawning! Some may carry their eggs under their tails. Prawn babies:
-      Like many marine creatures, shrimps undergo metamorphosis. That is, they change
-      their shape as they develop through their life cycle. Most adult shrimps migrate
-      to deeper waters to breed and release their eggs. Eggs usually hatch quickly,
-      within a day or so. After hatching from the egg, the larvae look nothing like
-      the adults! These larvae drift with the plankton, changing shape as they develop
-      further. Eventually, they look more shrimp-like and migrate back to shallow
-      waters. Here they develop into mature adults before starting the cycle all over
-      again. larvae juvenile adult'
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/meta1.gif
-    caption: larvae juvenile adult
+    caption: 'larvae'
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/meta2.gif
+    caption: juvenile
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/meta3.gif
+    caption: adult
   gallery4:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphballsoft/110518bbd1955m3.jpg
     caption: White snapping shrimps live in Ball flowery soft corals. Beting Bronok,
       May 11
-  - url: http://www.wildsingapore.com/vertebrates/fish/gobiidae/leptocephalus/080830kusd9939m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/leptocephalus/080830kusd9939m3.jpg
     caption: A Many-band snapping shrimp sharing a burrow with a Pink-speckled shrimp-goby
       . Kusu Island, Aug 08
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg
@@ -152,9 +139,9 @@ Among our favourite seafood, prawns and shrimps come in various sizes and colour
 
 **What are prawns and shrimps?**
 Prawns and shrimps are
-[crustaceans](../../crustacea)
+[crustaceans](/wildfacts/guides/crustacea/crustacea)
 that belong to various groups in the larger Order
-[Decapoda](../../decapoda)
+[Decapoda](/wildfacts/guides/crustacea/decapoda)
 . There are no clear scientific differences between prawns and shrimps. Generally, smaller ones are called shrimps while larger ones prawns.
 
 ## Features
@@ -164,16 +151,32 @@ Usually less than 5cm long. Unlike crabs which have stiff shells to protect thei
 Many shrimps are transparent, blending in wherever they are. Some may be red, a colour that is hard to distinguish in the dark or in deeper water.
 
 **What do they eat?**
+
 Larger shrimps are mostly scavengers or eat small plants and animals. Smaller ones feed on plankton and algae.
-{% include img-wrap-group.html items=page.galleries.gallery2 %}
+
+### How do they mate? 
+Shrimps have separate genders. To mate, a male inserts his sperm packet into a special receptacle in the female. Fertilisation, however, is external. The female releases the sperms from the packet together with her eggs. A female prawn produces a huge number of eggs, as much as one million in one spawning! Some may carry their eggs under their tails. 
+
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
+**Prawn babies:** 
+Like many marine creatures, shrimps undergo metamorphosis. That is, they change
+their shape as they develop through their life cycle. Most adult shrimps migrate
+to deeper waters to breed and release their eggs. Eggs usually hatch quickly,
+within a day or so. After hatching from the egg, the larvae look nothing like
+the adults! These larvae drift with the plankton, changing shape as they develop
+further. Eventually, they look more shrimp-like and migrate back to shallow
+waters. Here they develop into mature adults before starting the cycle all over
+again. larvae juvenile adult
+
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
 {% include img-wrap-group.html items=page.galleries.gallery4 %}
-**Role in the habitat:**
+## Role in habitat
 Shrimps are numerous and eaten by a wide variety of larger creatures. In coral reefs, some species of shrimps act as cleaners, picking parasites and dead skin off fishes. The fish 'clients' allow the cleaner shrimps to do their job without eating them. These cleaners are often brightly marked. Some shrimps also live with other sea creatures.
 [Anemone shrimps](palaemonidae)
 , for example, frolick happily among the tentacles of a sea anemone that would kill and eat other creatures.
 
-**Human uses:**
+## Human uses
+
 Shrimps and prawns are relished food by people everywhere. In Asia, shrimps are eaten in many ways. Besides the usual dishes made from whole shrimps, they may also be dried, or made into paste ('belachan') or mixtures ('cincaluk'). Tiny shrimps are used as condiments, and shrimps flavour crackers, balls and other delicacies. While traditional farming and harvesting methods are sustainable, large-scale commercial prawn farms and prawn trawling are more destructive and unsustainable.
 [More about prawn farming](../../../concepts/prawnfarms)
 and trawling.
@@ -193,101 +196,70 @@ Some of our shrimps and prawns are listed among the threatened animals of Singap
 
 **Marine shrimps and prawns recorded for Singapore**
 
-from Wee Y.C. and Peter K. L. Ng. 1994.
-*A First Look at Biodiversity in Singapore*
-.
-
-in red are those listed among the threatened animals of Singapore
-from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
-*The Singapore Red Data Book: Threatened plants and animals of Singapore*
-.
-
-*from Tan, Leo W. H. & Ng, Peter K. L., 1988,
-*A Guide to Seashore Life*
-
-**from Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
-*Rhythm of the Sea: The Life and Times of Labrador Beach*
-.
-
+<small> from Wee Y.C. and Peter K. L. Ng. 1994. <em>A First Look at Biodiversity in Singapore</em><br>
+<span style="color:red">in red are those listed among the threatened animals of Singapore</span> from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red Data Book: Threatened plants and animals of Singapore
+*from Tan, Leo W. H. & Ng, Peter K. L., 1988, <em>A Guide to Seashore Life</em>
+<br>
+**from Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994. Rhythm of the Sea: The Life and Times of Labrador Beach
+<br>
 +from our observation.
+<br>
+^from <a href="http://www.marinespecies.org/">WORMS</a>
+</small>
 
-^from
-[WORMS](http://www.marinespecies.org/)
 
-**Prawns and shrimps seen awaiting identification**
+#### Prawns and shrimps seen awaiting identification
 *Species are difficult to positively identify without close examination of small features. On this website, they are grouped by external features for convenience of display.*
+  - [Red-banded shrimps](redband)
+  - [Humpbacked shrimps](humped)
 
-[Red-banded shrimps](redband)
+---
 
-[Humpbacked shrimps](humped)
-
-**[Family Penaeidae](penaeidae)
+**[Family Penaeidae](../penaeidae)
 (penaeid prawns)**
 with list of species recorded for Singapore
 
-**Infraorder Caridea**
+### Infraorder Caridea
+ 
+- **[Family Alpheidae](../alpheidae) (snapping shrimps)** with list of species recorded for Singapore
 
-**[Family Alpheidae](alpheidae)
-(snapping shrimps)**
-with list of species recorded for Singapore
+- **Family Atyidae (freshwater shrimps)**
+  *Most members of this family are freshwater shrimps*
+  - Caridina gracilirostris
 
-****
+  - Caridina peninsularis
 
-**Family Atyidae (freshwater shrimps)**
-*Most members of this family are freshwater shrimps*
+  - Caridina propinqua(Mangrove hairy-handed prawn)
+  - Caridina tonkinensis
 
-*Caridina gracilirostris
+  - Caridina weberi sumtrensis
 
-Caridina peninsularis
+  - <span style="color:red">Caridina temasek(Temasek shrimp) (EN: Endangered)</span>
 
-Caridina propinqua*
-(Mangrove hairy-handed prawn)
-*Caridina tonkinensis
 
-Caridina weberi sumtrensis
+- **[Family Hippolytidae](../hippolytidae) (humpbacked shrimps, cleaner shrimps, saron shrimps)**with list of species recorded for Singapore
 
-Caridina temasek*
-(Temasek shrimp) (EN: Endangered)
 
-****
+- **[Family Palaemonidae](../palaemonidae) (glass shrimps and commensal shrimps)**with list of species recorded for Singapore
 
-**[Family Hippolytidae](hippolytidae)
-(humpbacked shrimps, cleaner shrimps, saron shrimps)**
-with list of species recorded for Singapore
 
-****
 
-**[Family Palaemonidae](palaemonidae)
-(glass shrimps and commensal shrimps)**
-with list of species recorded for Singapore
+- **Family Pandalidae (marine carid shrimps)**
+  - Chorotocella gracilis
+  - Heterocarpoides levicarina=^Procletes levicarina
 
-****
 
-**Family Pandalidae (marine carid shrimps)**
+- **Family Sergestidae**
+  - *Acetes sp. (Belachan shrimp)
+  - Acetes japonicus
 
-*Chorotocella gracilis
 
-Heterocarpoides levicarina=^Procletes levicarina*
+- **Family Thalassocarididae**
+  - Chlorotocoides spinicauda
 
-****
+### Infraorder Stenopodidea
 
-***Family Sergestidae**
-
-**Acetes sp.*
-(Belachan shrimp)
-
-*Acetes japonicus*
-
-****
-
-**Family Thalassocarididae**
-
-*Chlorotocoides spinicauda*
-
-**Infraorder Stenopodidea**
-
-**Family Stenopodidae (boxer shrimps)**
-
-*Stenopus hispidus*
+- **Family Stenopodidae (boxer shrimps)**
+  - Stenopus hispidus
 
 ---

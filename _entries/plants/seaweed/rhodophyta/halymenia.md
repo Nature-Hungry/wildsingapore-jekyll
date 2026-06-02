@@ -181,7 +181,8 @@ According to
 *Halymenia*
 species.
 
-**Human uses:**
+## Human uses
+
 Among the Halymenia species that are eaten by people are
 *H. discoidea*
 and

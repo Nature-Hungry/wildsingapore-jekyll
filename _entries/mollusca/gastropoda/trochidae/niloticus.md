@@ -199,7 +199,8 @@ sparsely fringed with long tentacles
 ---
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**What does it eat?**
 It eats filamentous algae and generally avoids sandy bottoms and living corals.
-**Human uses:**
+## Human uses
+
 This large snail is the most economically important snail in the tropical West Pacific. Both as an important traditional food and a leading export item as the source of mother-of-pearl buttons and jewellery. Total annual harvest is estimated at 5-6 million tons. As a result of severe overfishing, in many places policies are in place to manage their harvest and aquaculture trials are underway.
 
 **Status and threats:**

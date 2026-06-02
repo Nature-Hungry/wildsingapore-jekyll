@@ -200,7 +200,8 @@ Accounts suggest the Freckled goatfish comes in a wide variety of colours and pa
 **What does it eat?**
 It feeds on bottom dwelling such as worms, shrimps, crabs, snails and clams, echinoderms and little fishes.
 
-**Human uses:**
+## Human uses
+
 Large ones are eaten as food fish.
 
 ---

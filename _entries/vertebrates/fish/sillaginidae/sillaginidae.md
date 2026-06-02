@@ -199,7 +199,8 @@ other small silvery fishes. More on
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**What do they eat?**
 They eat small animals found on the sea bottom such as worms, small shrimps and prawns.
 
-**Human Uses:**
+## Human uses
+
 In some places, they are highly valued as seafood and some species are important in fish farming. They are sold fresh or frozen.
 
 **Status and threats:**

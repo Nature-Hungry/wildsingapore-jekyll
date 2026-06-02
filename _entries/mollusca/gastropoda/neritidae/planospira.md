@@ -99,7 +99,8 @@ means 'flat',
 refer to 'spiral'). It has a thin, brown 'skin' (periostracum) which covers a pink shell with dark bands and patches.
 The flat underside white or beige with a dark blotch at the edge. Small notched 'teeth' (4-5) on the straight edge at the shell opening. Operculum thick, smooth, glossy, grey or black. Body black.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
-**Human uses:**
+## Human uses
+
 It is occasionally collected for food and shellcraft.
 
 **Status and threats:**

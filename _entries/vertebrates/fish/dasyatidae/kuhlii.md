@@ -134,7 +134,8 @@ and visa versa. In murky waters, these two different animals do have a similar p
 **What does it eat?**
 It feeds on crabs, shrimps and other animals that live buried in the sand.
 
-**Human uses:**
+## Human uses
+
 This stingray is harvested commercially to be eaten, and also taken for the live aquarium trade. It is considered one of the most commercially important rays in our region and is trawled in large quantities in the Gulf of Thailand.
 
 ---

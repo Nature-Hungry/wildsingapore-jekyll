@@ -110,7 +110,8 @@ These juveniles grow up to be voracious predators more than 1m long. The adults 
 **Barracuda babies:**
 The adults may be found near coastal reefs and they spawn in schools.
 
-**Human uses:**
+## Human uses
+
 Barracudas are prized as food and game fishes, but large specimens may be toxic (ciguatoxic).
 
 ---

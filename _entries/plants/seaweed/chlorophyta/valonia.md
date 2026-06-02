@@ -109,7 +109,8 @@ According to
 *Valonia*
 species.
 
-**Human uses:**
+## Human uses
+
 Some species are eaten by people.
 
 ![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/valonia/070615sntrg0285m3.jpg)

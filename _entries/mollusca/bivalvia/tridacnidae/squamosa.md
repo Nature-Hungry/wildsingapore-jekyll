@@ -161,7 +161,8 @@ This beautifully sculptured giant clam is sometimes seen on our undisturbed Sout
 
 15-30cm. The two-part shell has 5-6 rows of deep open flutes on the valves. The wavy shell opening faces the sunlight, while the hinged side is firmly attached to rocks or coral rubble in relatively shallow water near living reefs. It does not burrow into coral or hard surfaces. When submerged, the thick 'lips' of fleshy tissue are expanded. These come in various colours and patterns, from those that camouflage against its surroundings to bright colours.
 
-**Human uses:**
+## Human uses
+
 Giant clams are considered a delicacy and in some places, an aphrodisiac. The large shells of these magnificent creatures are often turned into tacky souvenirs like ash-trays. There are efforts to cultivate giant clams on a commercial basis so as to reduce over-collection of wild clams.
 
 **Status and threats:**

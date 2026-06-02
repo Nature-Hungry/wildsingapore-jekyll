@@ -125,7 +125,8 @@ commonly seen. Tiny, flat and fast, they are also sometimes mistaken for
 **What do they eat?**
 Like other flatfishes, they are ambush predators. Lying in wait for prey, just beneath the sediment or sand, with only the eyes sticking out.
 
-**Human uses:**
+## Human uses
+
 Many large tongue-sole species are commercially important as food. Elsewhere, some species can reach 40cm long.
 
 ---

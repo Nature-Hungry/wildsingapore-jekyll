@@ -161,10 +161,11 @@ But Archerfishes don't just eat above-water prey. They also hunt small aquatic c
 **Archer babies:**
 It is believed that only the juveniles are found in brackish water while the adults are more solitary and swim out to the coral reefs to breed. 20,000-150,000 eggs are laid. Only a few reach maturity in 1-2 years. Young fish have iridescent yellow patches on their upper body between the dark bands, which perhaps helps them to school together in the muddy waters. As they get older, patches disappear and the black bands get shorter and eventually only seen on the uppermost part of the body.
 
-**Role in the habitat:**
+## Role in habitat
 Archerfishes control populations of their prey. They are also food for others higher up on the food chain.
 
-**Human uses:**
+## Human uses
+
 Two Southeast Asian species are collected for the aquarium fish trade. They are not bred in captivity. In Kew Gardens, Archer fishes are kept in ponds with tropical waterlilies to help keep down small insect pests and aphids!
 
 **Status and threats:**

@@ -155,13 +155,14 @@ Most soft corals feed on plankton, some also feed on finer particles. Like other
 
 Many soft corals harbour microscopic, single-celled symbiotic algae (zooxanthellae) within their bodies. The algae undergo photosynthesis to produce food from sunlight. The food produced is shared with the host, which in return provides the algae with shelter and minerals.
 
-**Role in the habitat:**
+## Role in habitat
 Some soft corals are homes to tiny animals. Some tiny animals eat soft corals and look just like their much larger prey.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Soft coral babies:**
 Soft corals can reproduce asexually: budding of new polyps enlarges the colony. However, they also reproduce sexually. The polyps may produce sperm or eggs. The eggs develop into free-swimming larvae that drift with the plankton before settling down to start a new colonies.
 
-**Human uses:**
+## Human uses
+
 Soft corals protect themselves with unusual substances which are being studied for possible anti-cancer properties. Soft corals are also harvested from the wild for the aquarium trade. Living coral reefs, however, are worth far more to humans when they left alone. Reefs bring in tourists which generate business beyond the shore (e.g., hotels, restaurants and travel-related industries).
 
 **Status and threats:**

@@ -42,9 +42,9 @@ Among our favourite seafood, lobsters do exist on our shores but they are usuall
 
 **What are lobsters?**
 Lobsters and their relatives are
-[crustaceans](../../crustacea)
+[crustaceans](/wildfacts/guides/crustacea/crustacea)
 that belong to various Infraorders in the larger Order
-[Decapoda](../../decapoda)
+[Decapoda](/wildfacts/guides/crustacea/decapoda)
 . The Family Palinuridae include some of the lobsters that we eat. There are other lobster-like animals that are not really shrimps. Those more commonly found on our shores include the
 [mud lobsters](thalassina)
 and
@@ -57,7 +57,8 @@ and
 
 Like shrimps, lobsters and lobster-like crustaceans have a long body and broad tail, and long antennae. Lobsters have heavy shells, unlike the light flexible exoskeletons of shrimps. Lobsters and lobster-like crustacea have heavier legs and tend to have powerful claws. They don't have swimmeretes (pleopods) like shrimps do. But they can also rapidly move backwards by flexing the abdomen and broad tail.
 
-**Human uses:**
+## Human uses
+
 Larger lobsters are harvested as seafood everywhere.
 ****
 

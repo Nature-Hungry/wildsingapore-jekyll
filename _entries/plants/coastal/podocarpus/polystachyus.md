@@ -122,7 +122,8 @@ Leaves long, narrow and pointed (3-10cm) thick glossy, bright green.
 
 The Sea teak is a conifer. That is, it produces seeds but no flowers. Instead, it has reproductive structures called cones or strobili. Male plants produce clusters of 3-5 cream-coloured cones which shed whitish, powdery pollen. From Corners, the scientific name refers to 'many (poly) ears of corn (stachys)' which is what the male cones resemble. Female plants produce a highly modified cone. The seed is green when ripe and below it is a fleshy red swollen receptacle which is eaten by birds and bats.
 
-**Human uses:**
+## Human uses
+
 According to Burkill, the timber is small but still used for house building, carts and various other uses. Indeed, the Malay name for the tree is Jati Laut (translating to Sea teak) as well as Setada or Sentada. Burkill notes that medicinal uses possibly ascribed to it include the use of the leaves as an alternative to treat rheumatism and painful joints.
 
 **Status and threats:**

@@ -159,7 +159,7 @@ You will most likely hear a snapping shrimp before you see one. These little cre
 
 **What are snapping shrimps?**
 Snapping shrimps are
-[crustaceans](../../crustacea)
+[crustaceans](/wildfacts/guides/crustacea/crustacea)
 that belong to Family Alpheidae.
 ****
 

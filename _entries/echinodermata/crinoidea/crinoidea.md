@@ -169,9 +169,9 @@ Feather stars have separate genders and are usually either male or female. The e
 
 {% include img-wrap-group.html items=page.galleries.gallery5 %}**Living off a star:**
 Various small
-[crabs](../../crustacea/crab/pilumnidae/featherstar)
+[crabs](/wildfacts/guides/crustacea/crustacea/crab/pilumnidae/featherstar)
 ,
-[shrimps](../../crustacea/othercrust/shrimp/crinoid)
+[shrimps](/wildfacts/guides/crustacea/crustacea/othercrust/shrimp/crinoid)
 ,
 [worms](../../worm/polychaeta/myzostomidae)
 ,
@@ -184,7 +184,8 @@ Feather stars are the most ancient and considered the most primitive of echinode
 **Star on a stick:**
 Stalked stars, called sea lilies, are mostly found in deep waters 100m or lower. There are about 80 species of sea lilies. Some living sea lilies can have stalks up to 1m long!
 
-**Human uses:**
+## Human uses
+
 Feather stars are not widely used for human purposes. Although they almost invariably die a slow death from starvation in marine aquariums, they are sometimes taken for the live aquarium trade.
 
 **Status and threats:**

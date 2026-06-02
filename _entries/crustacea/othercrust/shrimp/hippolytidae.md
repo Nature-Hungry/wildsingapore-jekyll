@@ -55,7 +55,7 @@ authors:
 
 **What are Hippolytid shrimps?**
 Hippolytid shrimps are
-[crustaceans](../../crustacea)
+[crustaceans](/wildfacts/guides/crustacea/crustacea)
 that belong to Family Hippolytidae.
 ****
 

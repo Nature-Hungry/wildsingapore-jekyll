@@ -225,7 +225,8 @@ sp.) and small snapping shrimps are sometimes found living inside these clams. T
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
 {% include img-wrap-group.html items=page.galleries.gallery4 %}
 {% include img-wrap-group.html items=page.galleries.gallery5 %}
-**Human uses:**
+## Human uses
+
 Fan clams are edible and were once plentiful in Singapore and collected as food. Like other filter-feeding clams, however, fan clams may be affected by
 [red tide and other harmful algal blooms](../../../plants/seaweed/redtide)
 . Such clams can then be harmful to eat.

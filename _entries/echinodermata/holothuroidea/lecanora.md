@@ -138,7 +138,8 @@ This large fat sea cucumber with a white ring around its back end is commonly se
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 One distinguishing feature of this sea cucumber is the white or greyish zone around the rear end. The anus is guarded by five calcareous yellowish teeth-like structures. When feeding, the mouth is usually facing downwards towards the ground. It does not have Cuvierian tubules.
 
-**Human uses:**
+## Human uses
+
 This sea cucumber is among the edible ones harvested for the food trade, usually by hand using lead-bombs and free-diving. Tests indicate these sea cucumbers contain toxins. They must be properly prepared before they are safe to eat.
 
 ---

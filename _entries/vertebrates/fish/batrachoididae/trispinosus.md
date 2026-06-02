@@ -244,7 +244,8 @@ A sluggish fish that swims poorly, the toadfish is an ambush predator. It waits 
 **Baby toadfishes:**
 According to the Encyclopedia of Life, males call mates to their nest with croaking, hooting, grunting and humming sounds they make using their swim bladder; toadfish also make (different) noises when threatened. In some species, male looks after the eggs after they are laid in the nest on on ceilings of narrow or low overhangs of rock or rubble. The male protects the embryos until they are self-sufficient, about 3-4 weeks. WE have observed an adult toadfish with many tiny fishes under the shelter of a rock.
 
-{% include img-wrap-group.html items=page.galleries.gallery3 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery3 %}## Human uses
+
 ****
 In some places, members of this family are considered edible delicacies. It is also sold in the live aquarium trade.
 

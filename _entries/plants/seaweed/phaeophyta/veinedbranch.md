@@ -112,7 +112,8 @@ According to
 *Dictyopteris*
 species.
 
-**Human uses:**
+## Human uses
+
 ****
 It is eaten by people and is believed to have antibacterial and antitumor properties.
 

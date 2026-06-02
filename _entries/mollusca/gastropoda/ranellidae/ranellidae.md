@@ -84,7 +84,8 @@ The larger species of triton snails are more famous. They can grow to 50cm up to
 **What do they eat?**
 Some large tritons eat living sea stars and sea cucumbers. Others may prey on other snails and on clams, or ascidians, sponges, hydroids. The prey is often first paralysed with an acidic salivary secretion before it is devoured. They may spray or inject an anaesthetic to paralyse their prey. Some tear off bits of flesh with their radula, while others liquify the prey's flesh then suck up the soup with their proboscis.
 
-**Human uses:**
+## Human uses
+
 In the past, large specimens were used a trumpets. Thus another common name for them is Trumpet shells.
 
 ---

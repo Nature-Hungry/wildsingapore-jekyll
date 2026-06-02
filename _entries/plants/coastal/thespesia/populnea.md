@@ -63,7 +63,7 @@ galleries:
 size:
 - 200.0
 - 1000.0
-rdb: Lc
+rdb: LC
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
@@ -87,7 +87,8 @@ Fruits large (2-4cm), flattened globe containing 3-4 seeds covered with dense, s
 
 The fruit is the primary means of dispersal, although the seeds may also float. Bark light grey becoming rugged with deep fissures.
 
-**Human uses:**
+## Human uses
+
 According to Burkill, thoughout much of the Pacific, the tree is considered sacred and planted near temples. He suggests this is because the tree was so important to sea-faring people. It is used interchangeably with the
 [Sea hibiscus](../hibiscus/tiliaceus)
 (

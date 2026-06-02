@@ -139,7 +139,8 @@ corals. In one species of crab, the female intentionally traps herself inside a 
 *Stylophora*
 corals. In turn, it is believed the coral benefits from the waste materials of the fish as corals with these fishes have been found to grow much faster.
 
-**Human Uses:**
+## Human uses
+
 Many pocilloporid species are harvested for sale as souvenirs. Being tough,
 *Pocillopora*
 coral are often kept in captivity and used in laboratory conditions. They are sometimes called the coral guinea pigs. They are among the best studied corals.

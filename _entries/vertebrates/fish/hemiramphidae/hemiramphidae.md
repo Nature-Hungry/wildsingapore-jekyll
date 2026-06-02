@@ -151,7 +151,8 @@ Halfbeaks eat things that float on the surface such as algae, tiny animals like 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Halfbeak babies:**
 Most halfbeak lay eggs attached to seaweed in shallow waters. Some, however, may give birth to live young. In some, fertilisation takes place internally and the males have modified fins to fertilise the females with.
 
-**Human uses:**
+## Human uses
+
 Halfbeaks apparently taste good and large species (like the
 [Black-barred halfbeak](far)
 ) are eaten in some places, sold fresh and dried salted. Or they are used as bait fish. They are caught with nets under lights at night. Some freshwater species are popular in the live aquarium trade.

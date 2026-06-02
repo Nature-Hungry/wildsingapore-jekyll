@@ -101,7 +101,8 @@ Each clump about 6-10cm. The seaweed is made up of fleshy but narrow strips perf
 *Clathratus*
 ' means 'latticed'.
 
-**Human uses:**
+## Human uses
+
 It is eaten by people as a salad mixed with vegetables or as a spice. It is also used as animal feed, fertiliser and medicine.
 
 ![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/perforated/1003021hntd9614m3.jpg)

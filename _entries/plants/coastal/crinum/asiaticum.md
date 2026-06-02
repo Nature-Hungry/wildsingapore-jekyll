@@ -74,7 +74,8 @@ Elsewhere, it is usually found in shaded areas, from sea level to 700m, but also
 
 The plant arises from an underground, fleshy bulb. From this grows a rounded and fleshy 'stem' (actually the lower part of the leaves). Leaves long (50cm-1m) and narrow with a pointed tip. Many white flowers in a cluster, large (8-9cm) and sweetly scented. Fruit irregularly rounded, white (about 5cm) containing green seeds.
 
-**Human uses:**
+## Human uses
+
 According to Burkill, it is poisonous and medicinal uses include inducing vomiting when wounded by a poison arrow. The leaves are used by Malays in a poultice to treat fevers, headaches, swellings. Boiling the plant results in a lotion for general use on the body. According to Wee, the crushed leaves are used to wash piles. Mixed with honey they are applied to wounds and abscesses.
 
 **Status and threats:**

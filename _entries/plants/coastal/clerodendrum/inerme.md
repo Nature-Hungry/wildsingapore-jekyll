@@ -75,7 +75,8 @@ Flower trumpet-shaped (1.5-4cm long) white with long purple stamens, in clusters
 
 Fruit round or egg-shaped (1cm), green ripening to black. The dry fruit then breaks into 4 lobes, each with a thick corky wall.
 
-**Human uses:**
+## Human uses
+
 According to Giesen, the seeds and roots are used to treat poisoning from fish and other marine animals. The leaves are used to treat wounds, and fruits to dysentery. The leaves are used in an appetizer dish in Indonesia.
 
 ![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/clerodendrum/inerme/090411lckd9586m6l.jpg)

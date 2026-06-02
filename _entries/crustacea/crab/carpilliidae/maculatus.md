@@ -94,7 +94,8 @@ This crab with big red round spots is seldom seen on our shores. So far, on reef
 Body width to about 9cm. This crab has a distinctive pattern of large spots on a beige to pink body. It has four blunt spines between the eyes.
 It is more active at night.
 
-**Human uses:**
+## Human uses
+
 According to
 [SeaLifeBase](http://www.sealifebase.org/Summary/speciesSummary.php?ID=21380)
 , it is collected extensively for food. While it is reported as poisonous, tests could not confirm it. Possibly the crab becomes toxic for a short period after feeding on poisonous molluscs.

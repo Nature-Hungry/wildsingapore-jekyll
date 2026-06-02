@@ -112,7 +112,7 @@ It is omnivorous and is said to have a particular fondness for fruits. But it al
 **Baby civets:**
 Civet cats are not social and usually live alone. Except for a mother and her young. Mama civet gives birth to 2-5 kittens, usually in a tree hollow, crevice or other hiding place. Babies are born with their eyes closed. They are mature at 11-12 months. Civet cats can live for 22-24 years.
 
-**Role in the habitat:**
+## Role in habitat
 As a fruit eater, it helps to disperse seeds and contributes to the regeneration of forests.
 
 *![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/hermaphroditus/071028cjd7399m3.jpg)

@@ -130,7 +130,8 @@ Cardinalfishes are mouth brooders. The fertilised egg mass is kept in the mouth 
 **What do they eat?**
 As a group they eat a wide variety from small fishes, crabs, prawns and other tiny animals including plankton. Most are more active at night.
 
-**Human uses:**
+## Human uses
+
 Some species of cardinalfish like the Five-lined Cardinalfish (
 *Cheilodipterus quinquelineatus*
 ) and

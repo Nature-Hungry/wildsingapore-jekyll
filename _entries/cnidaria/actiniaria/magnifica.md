@@ -231,7 +231,7 @@ The Magnificent anemone harbours symbiotic algae (called zooxanthellae) that pho
 
 Several kinds of animals may live happily among and unharmed by the tentacles of the Magnificent anemone. These include A
 nemone shrimps like the
-[Peacock-anemone anemone shrimp](../../crustacea/othercrust/shrimp/brevicarpalis)
+[Peacock-anemone anemone shrimp](/wildfacts/guides/crustacea/crustacea/othercrust/shrimp/brevicarpalis)
 (
 *Periclimenes brevicarpalis*
 ) and

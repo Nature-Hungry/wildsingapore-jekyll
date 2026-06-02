@@ -170,7 +170,8 @@ According to
 *Acanthophora*
 species.
 
-**Human uses:**
+## Human uses
+
 *A. spicifera*
 is eaten as a fresh vegetable in some parts of Vietnam and the Philippines. Burkill recorded it as being eaten in Java and the Philippines, but not in Malaya. It is also used as animal feed. It is reported to have antibacterial, antibiotic properties.
 

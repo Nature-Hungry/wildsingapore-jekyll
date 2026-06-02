@@ -144,7 +144,8 @@ Adults to about 95cm. Juveniles seen are much smaller. The adult is brown with d
 **What does it eat?**
 It eats small fishes, shrimps and crabs.
 
-**Human uses:**
+## Human uses
+
 It is among the common fishes eaten in Singapore. Here, these fishes are sometimes reared in floating cages from fingerlings (young fishes) that are imported from neighbouring countries, until they reach marketable size.
 
 ---

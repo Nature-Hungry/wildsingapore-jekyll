@@ -100,7 +100,8 @@ which does not have flared shell opening and spout-like tip.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**
 It grazes on tiny things growing or settling on the muddy bottom, such as diatoms, bacteria and detritus.
-**Human uses:**
+## Human uses
+
 Extensively collected for food and the shell used to make lime in the Philippines.
 
 ---

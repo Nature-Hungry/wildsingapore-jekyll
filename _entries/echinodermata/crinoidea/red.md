@@ -147,7 +147,7 @@ This bright red feather star is sometimes seen near living reefs on our Southern
 
 **Feather friend:**
 Sometimes, a tiny
-[Crinoid shrimp](../../crustacea/othercrust/shrimp/crinoid)
+[Crinoid shrimp](/wildfacts/guides/crustacea/crustacea/othercrust/shrimp/crinoid)
 is seen living in this feather star. It closely resembles the feather star in colour and pattern.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

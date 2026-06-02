@@ -103,7 +103,7 @@ links_references: '**Links**
 size:
 - 300.0
 - 3000.0
-rdb: Lc
+rdb: LC
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
@@ -127,7 +127,8 @@ See page on
 [*Sonneratia*](sonneratia)
 in general for more about bats, durians and these mangrove trees, as well as fireflies.
 
-**Human uses:**
+## Human uses
+
 According to Burkill, it is used as firewood, but not when other trees are available. The timber is used in some places, but not valued in other places. The fruits are eaten when "quite ripe" by the Malays and in Java, and used to flavour fish in the Moluccas. The leaves are also eaten raw and cooked. According to Giesen, the fruits are sour but edible. The fruits are used in a compress to check haemorrhaging. The timber is used for boats and houses in Indonesia, as well as bridge and wharf construction. Also for interior work including furniture, musical instruments but requires bronze nails. The Papuans make corks and floats out of the bouyant pneumatophores.
 
 **Heritage Tree:**

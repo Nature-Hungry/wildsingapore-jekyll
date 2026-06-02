@@ -174,7 +174,8 @@ This swimming crab with powder blue pincers is sometimes seen near seagrasses an
 
 Body width 5-7cm. Body somewhat rectangular, the sides of the body with 5 light blue-light brown tipped spines of about equal size. The eyes are wide apart. Between the eyes are 6 small rounded lobes. Walking legs greenish or bluish with orange joints and orange or red tips. Last pair of legs are paddle-shaped. Body and pincers sand coloured, plain light olive or pinkish, The body edge may have a fine powder blue-brown banded pattern. The pincers are powder blue with dark red tips.
 
-**Human uses:**
+## Human uses
+
 Harvested elsewhere by traps, trawling and nets although it is not as commercially valuable as other swimming crabs.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

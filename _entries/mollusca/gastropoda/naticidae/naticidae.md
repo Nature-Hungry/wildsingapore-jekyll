@@ -276,10 +276,11 @@ The sand collar is the moon snail's egg mass. When the eggs hatch, the collar di
 [about sand collars](sandcollar)
 .
 
-{% include img-wrap-group.html items=page.galleries.gallery6 %}**Role in the habitat:**
+{% include img-wrap-group.html items=page.galleries.gallery6 %}## Role in habitat
 When a moon snail dies, its shell is usually quickly taken over by a hermit crab. Many of the moon snail shells you see on the surface will probably be so occupied. Living moon snails are rarely seen above ground during the day.
 
-**Human uses:**
+## Human uses
+
 Some larger moon snail species are sold as food in Asian markets.
 
 **Status and threats:**

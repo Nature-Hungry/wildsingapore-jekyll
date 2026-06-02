@@ -75,7 +75,8 @@ This rare scrambling shrub is found on natural cliffs of our offshore islands. A
 
 A climbing shrub or epiphyte (growing on other trees). According to Burkill, it starts life as an epiphyte, extending its roots to the ground in the process killing the host tree. Leaves leathery and large (25-35cm) with a pair of 'ears' (auricles) at the base of the leaf stalk. Leaves are arranged opposite to one another and appear at the tips of thick twigs. Flowers creamy yellow and fleshy, tubular with a long corolla (30cm) and large petals (to 30cm across). 'Pelir musang' means 'civet cat's testicles' in Malay, referring to the fruits. The fruits have a thin skin.
 
-**Human uses:**
+## Human uses
+
 According to Burkill the very sticky substance found under the thin skin of the fruit is used for making glue that is considered very good.
 
 **Status and threats:**

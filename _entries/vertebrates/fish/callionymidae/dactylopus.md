@@ -99,7 +99,8 @@ for
 **What does it eat?**
 It feeds on molluscs, worms and crustaceans.
 
-**Human uses:**
+## Human uses
+
 May be harvested for the aquarium trade.
 
 ---

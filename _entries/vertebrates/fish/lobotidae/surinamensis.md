@@ -111,7 +111,8 @@ the
 **What does it eat?**
 It feeds on small fishes and crustaceans that live on the bottom.
 
-**Human uses:**
+## Human uses
+
 It is eaten in some places.
 
 ---

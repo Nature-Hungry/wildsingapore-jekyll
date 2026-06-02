@@ -140,7 +140,8 @@ Gong-gong may gather in groups to mate and lay eggs - in fine long strings. Fema
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
 {% include img-wrap-group.html items=page.galleries.gallery4 %}
-**Human uses:**
+## Human uses
+
 Where common it is commercially harvested for food in many parts of Southeast Asia. In the Philippines, the shells are traditionally used by fishermen as sinkers for nets.
 
 **Status and threats:**

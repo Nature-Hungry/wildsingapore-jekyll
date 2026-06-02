@@ -161,12 +161,13 @@ When the shores are covered with sea lettuce, you can smell the distinctive arom
 **Sea lettuce babies:**
 Sometimes, you might come across a sea lettuce blade that is white or transparent. This could be because the sea lettuce has become fertile and converted some of its cells into reproductive cells and released these cells. Often, this happens along the edge of the blade.
 
-**Role in the habitat:**
+## Role in habitat
 Sea lettuce is one of the seaweeds eaten by the Green turtle (
 *Chelonia mydas*
 ), as well as other creatures. The dense tangle of seaweed also provides plenty of hiding places for the small animals that live in the seagrass lagoon.
 
-**Human uses:**
+## Human uses
+
 Sea lettuce is fed to pigs and livestock. In the past, they were collected in boatloads in the Straits of Johor, washed in freshwater then cooked and fed to pigs. Sea lettuce is cultivated for animal feed in some places.
 
 In some places, it is also eaten by humans, as a salad or mixed with other vegetables. The species that are used commercially include

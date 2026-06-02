@@ -174,7 +174,7 @@ similar green seaweeds such as
 sp.) and small turfing species of
 *Cladophoropsis*
 .
-**Role in the habitat:**
+## Role in habitat
 Although some Bryopsis species produces chemicals to defend against herbivores, when hairy green seaweeds are abundant on the shores, there is also an abundance of some sea slugs such as the
 [Leaf slug](../../../mollusca/slugs/sacoglossa/ornata)
 (
@@ -184,7 +184,7 @@ Although some Bryopsis species produces chemicals to defend against herbivores, 
 (
 *Placida dendritica*
 ).These sap-sucking slugs probably eat the seaweed. Sometimes, the seaweed is thick with tiny little
-[beachfleas](../../../crustacea/othercrust/amphipoda/amphipoda)
+[beachfleas](..//wildfacts/guides/crustacea/crustacea/othercrust/amphipoda/amphipoda)
 (Order Amphipoda). We have also seen the
 [Giant reef worm](../../../worm/polychaeta/giant)
 (

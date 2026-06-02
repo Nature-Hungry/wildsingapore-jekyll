@@ -163,7 +163,8 @@ As a family, they eat a wide variety of things. These include filamentous algae,
 **Angelfish babies:**
 Most can change gender (protogynous hermaphrodites) and have a social system of one male with a harem of females. The male usually has 2-5 females in his harem and is territorial, claiming about a few square metres to more than 1,000 square metres as his territory. They usually spawn at sunset. The male performs a courtship display when a female approaches; involving fin raising, rapid swimming back and forth, and quivering his body. The male and female then slowly spiral towards the surface and suddenly release eggs and sperm simultaneously into the water before swimming back to the bottom. The male may mate with several females one after another.
 
-**Human uses:**
+## Human uses
+
 Many members of this family are harvested from the wild for the live aquarium trade.
 
 **Status and threats:**

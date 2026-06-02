@@ -66,7 +66,8 @@ and
 
 Tall tree (10-20m). Leaves oval with only a blunt tip and very dark shiny green above. Flowers are small (2-3cm) with male and female flowers in clusters. The fruits are huge (30cm-1m long). They are barrel- or pear-shaped, cream to golden yellow, covered with small sharp conical warts. The fruit has a strong smell, described by Corners as 'sickly sweat', while Burkill describes the taste as 'mawkishly sweet and mousy'. All parts of the plant exude a white sticky latex. The sticky latex makes it a challenge to cut the fruit as the knife soon gets gummed up. This is prevented by rubbing vegetable oil on the knife and hands before handling the unripe fruit.
 
-**Human uses:**
+## Human uses
+
 According to Burkill, the flesh of the fruits can be eaten fresh, or candied, salted as pickles, or sun dried as chips. The starchy seeds are boiled and eaten. The timber is highly valued for house building especially where teak does not grow and is also used for musical instruments and furniture. Due to the yellow colour of the timber, it was used in the palaces of Bali and Macassar, and in Indochina was reserved for sacred buildings. The robes of Buddhist priests are coloured from dyes obtained by boiling the wood. Livestock and wild deer relish the leaves and various parts of the tree were also used in traditional medicine.
 
 ![](https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/artocarpus/heterophyllus/091005cjd2013m6l.jpg)

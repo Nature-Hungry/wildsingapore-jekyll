@@ -211,7 +211,8 @@ The Moses sole (
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**What does it eat?**
 Lying buried in the sand, it preys on bottom dwelling animals including worms, small crustaceans and molluscs.
 
-**Human uses:**
+## Human uses
+
 Although the skin is said to have a bitter taste, the flesh is described as good to eat.
 
 ---

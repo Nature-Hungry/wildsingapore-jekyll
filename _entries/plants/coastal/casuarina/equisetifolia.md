@@ -95,7 +95,7 @@ links_references: '**Links**
 size:
 - 5000.0
 - 300.0
-rdb: Lc
+rdb: LC
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---
@@ -121,7 +121,8 @@ Leaves are reduced to tiny, pointed scales arranged in whorls of 6-10 at the joi
 
 The flowers are tiny and wind pollinated. Male and female flowers usually grow on separate trees. The tiny male flowers appear on short spikes (1.5-3cm long). Female flowers appear as pink fluffy bits on a short stalk. These turn into green cones. When ripe, the cones turn brown and the bracts on the cone open up, releasing small winged nuts. The cones are dispersed by water.
 
-**Human uses:**
+## Human uses
+
 According to Burkill, the tree was planted where it was desired to allow the soil to dry, as well as to check erosion and to fix drifting sand. It was also planted in India as firewood. Some consider it the best firewood as it will burn even when green. The timber is stronger than teak but splits much. It is sometimes used for beams and rafters, as well as for masts and other heavy duty uses. The bark is used to treat dysentery and diarrhoea, the twigs to treat swellings. According to Giersen, the heavy hard timber makes excellent firewood and charcoal and is sometimes used as beams. The bark yields a resin that is useful for tanning.
 
 ![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/casuarina/equisetifolia/090314smkd8054m6l.jpg)

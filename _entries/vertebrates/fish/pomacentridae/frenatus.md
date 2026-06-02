@@ -221,7 +221,8 @@ Anemonefishes can change their gender. Often, a sea anemone will be home to seve
 **What does it eat?**
 It feeds on plankton (mostly copepods) and also munches on bottom-dwelling algae.
 
-**Human uses:**
+## Human uses
+
 Unfortunately, these fishes are taken in large numbers from the wild for the aquarium trade. The harvest may involve the use of cyanide or blasting, which damage the habitat and kill many other creatures. Like other fish and creatures harvested from the wild, most die before they can reach the retailers. Without professional care, most die soon after they are sold. Often of starvation as owners are unable to provide the small creatures and plants that these fishes need to survive. In artificial conditions, many succumb to diseases and poor health. Those that do survive are unlikely to breed.
 
 There have been some success in breeding anemonefish for the aquarium trade. Although captive bred anemonefish are hardier, they are more expensive. Harvesting from the wild will probably continue so long as there are unscrupulous traders and aquarists.

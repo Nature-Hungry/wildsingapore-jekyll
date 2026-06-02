@@ -109,7 +109,8 @@ Like other cephalopods, the cuttlefish can squirt ink that distracts predators a
 [cephalopods](../cephalopoda)
 .
 
-**Human uses:**
+## Human uses
+
 Cuttlefishes are important fishery items in many parts of the world. Cuttlebones are marketted in the caged bird trade to provide calcium to these birds. In the past, cuttlefish ink, called 'sepia', was used for writing and painting.
 
 ---

@@ -111,7 +111,8 @@ means "root bearer" in Greek.
 
 According to Tomlinson, the flowers of most species of Rhizophora are wind pollinated.
 
-**Human uses:**
+## Human uses
+
 According to Burkill, the trees are most used for firewood. One great advantage "in the eyes of the firewood seller" is the ease in which the timber can be split. So the seller taking it from door to door can split it to meet the needs of the buyer. It also burns evenly and produces good quality heat, even comparable to coal. It was also used to
 [make charcoal](http://wildshores.blogspot.com/2009/04/how-is-charcoal-made-from-mangroves.html)
 . It is also valued as a source of tannins. In fact, the use of mangrove trees in tanning leather has been recorded by early Arab traders. Besides tanning leather, the bark was originally used by fishermen to toughen their fishing lines and ropes. The tree is much in demand for piling and house frames built near mangroves and swamps. As well as for building fishtraps.

@@ -185,7 +185,8 @@ The spaces among the tubular corallites provide shelter for all kinds of animals
 *Galaxea fascicularis*
 has a unique method of reproducing. There are two types of colonies. One type is a female colony that produces only red eggs. Another type is hermaphrodite that produces sperm and white 'eggs'. The eggs are not real eggs and help the sperm to float up to the surface where they can fertilise the real red eggs.
 
-**Human uses:**
+## Human uses
+
 These corals are among those taken for the live aquarium trade. They often do poorly in captivity. They are fragile and break easily, and collection techniques usually result in poor specimens that quickly die from disease. In addition, their habit of producing sweeper tentacles make them poor tank-mates.
 
 **Status and threats:**

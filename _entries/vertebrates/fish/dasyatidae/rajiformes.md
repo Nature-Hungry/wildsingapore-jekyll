@@ -156,7 +156,8 @@ Don't touch rays. Wear covered shoes. Watch your step and walk slowly. Stingrays
 {% include img-wrap-group.html items=page.galleries.gallery4 %}**Baby rays:**
 Rays practice internal fertilisation. Most rays give birth to live fully developed young, although some may lay eggs enclosed in a capsule.
 
-**Human uses:**
+## Human uses
+
 Stingrays are a popular seafood dish in Singapore. The large pectoral fins are barbequed and served with chilli, often on a banana leaf. You can see their cartilageous bones as you eat the flesh.
 [Blue-spotted fantail ray](lymma)
 is also popular in the live aquarium trade although it does not do well in captivity.

@@ -103,7 +103,8 @@ other fan-shaped green seaweeds. Here's more on
 [how to tell apart fan-shaped green seaweeds](cffan)
 .
 
-**Human uses:**
+## Human uses
+
 Some species have anti-bacterial and anti-tumor properties.
 
 ![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/udotea/101008tusd1766m3.jpg)

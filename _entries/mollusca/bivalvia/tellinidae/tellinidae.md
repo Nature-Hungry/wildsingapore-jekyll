@@ -93,7 +93,8 @@ About 5cm. Tellin clams have a two-part shell. They are specialised for deep bur
 **What do they eat?**
 Unlike other bivalves filter feed, Tellin clams use their long siphons like vacuum cleaners to suck up edible bits that settle on the bottom. They do this while their shells are safely tucked away deep in the ground, often in a horizontal position.
 
-**Human uses:**
+## Human uses
+
 Some are collected for food and the shell trade.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

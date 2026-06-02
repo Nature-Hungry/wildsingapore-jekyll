@@ -233,7 +233,8 @@ A moray eel has a special trick up its throat to help it swallow prey. Lots of f
 **Don't touch!**
 Moray eels have razor sharp teeth and powerful bites that can cause serious lacerations prone to infection because of the bacteria in their mouth. But their reputation as vicious beasts is undeserved. Moray eels are usually docile. Like other wild animals, they will bite only if provoked. So don't touch moray eels, don't put your hand into holes or crevices.
 
-**Human uses:**
+## Human uses
+
 Some species are havested for the aquarium trade. Some species have poisonous flesh which causes ciguatera poisoning and should thus not be eaten.
 
 **Status and threats:**

@@ -119,7 +119,8 @@ is usually found on lower shores and exposed on mudflats as well as estuarine se
 6-10cm. The two-part shell is flat, thin but strong, and usually semi-circular, with a flat base where the hinge is.
 Usually white or greyish. It sticks to tree roots with byssus threads, thus giving the common name of tree oyster. Often found in clusters.
 
-**Human uses:**
+## Human uses
+
 In Thailand, they are regularly collected for food and marketed.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

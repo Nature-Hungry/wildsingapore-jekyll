@@ -67,7 +67,7 @@ authors:
 This black anemonefish with white spots is sometimes seen on our submerged reefs, living in a
 [Giant carpet anemone](../../../cnidaria/actiniaria/gigantea)
 , often sharing the anemone with
-[Peacock anemoneshrimps](../../../crustacea/othercrust/shrimp/brevicarpalis)
+[Peacock anemoneshrimps](..//wildfacts/guides/crustacea/crustacea/othercrust/shrimp/brevicarpalis)
 . Elsewhere, juveniles are often seen living in large sea anemones, sea urchins, or branching corals. Adults found in pairs or small groups around coral mounds or rocks.
 
 ## Features
@@ -77,7 +77,8 @@ To 11cm. Juveniles are jet black with white blotch on forehead and on the sides 
 **What does it eat?**
 It feeds on algae, copepods, and other planktonic crustaceans.
 
-**Human uses:**
+## Human uses
+
 Unfortunately, these fishes are taken from the wild for the aquarium trade. The harvest may involve the use of cyanide or blasting, which damage the habitat and kill many other creatures. Like other fish and creatures harvested from the wild, most die before they can reach the retailers. Without professional care, most die soon after they are sold. Often of starvation as owners are unable to provide the small creatures and plants that these fishes need to survive. In artificial conditions, many succumb to diseases and poor health. Those that do survive are unlikely to breed.
 
 ---

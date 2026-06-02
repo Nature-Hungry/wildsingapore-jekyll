@@ -91,7 +91,8 @@ Shrub to tree (2-10m). The leaves (5-10cm long) are leathery, dark green above a
 
 Corners adds that it is said the flowers are pollinated by bees, but as they do not open, it is likely that they are self pollinated. The seeds are distributed by small fruit bats which carry the fruits one at a time from to the tree to their resting places where they suck out the pulp contents and disgorge the seeds.
 
-**Human uses:**
+## Human uses
+
 According to Burkill, its wood is considered of little use as it is such a small tree. But it is used as firewood.
 
 *![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/adinandra/dumosa/090401sntd8846m6l.jpg)

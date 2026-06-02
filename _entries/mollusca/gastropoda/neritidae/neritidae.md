@@ -166,7 +166,8 @@ When alarmed, nerites can immediately unclamp and retract into their hard round 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Nerite babies:**
 Nerites have separate genders and engage in internal fertilisation. They have a complex reproductive system to achieve this, and to produce nutrition-packed eggs in protective capsules. The white circular egg capsules are sometimes seen in rock pools, under rocks and in moist crevices. Each egg capsule may have more than 30 eggs. These hatch into free-swimming larvae that only later settle down to develop into snails.
 
-{% include img-wrap-group.html items=page.galleries.gallery4 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery4 %}## Human uses
+
 They are gathered as food by coastal dwellers. Some species of nerites are eaten raw or toasted. The shell is also used in shell craft.
 
 **Status and threats:**

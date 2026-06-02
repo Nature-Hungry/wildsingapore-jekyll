@@ -73,7 +73,8 @@ A tall bush (to about 5m). Leaves large. Flowers small, white or green, and frag
 *Paradoxurus hermaphroditus*
 ). Yes, the civet cat eats the coffee beans, which passes out and are collected to be made into coffee for humans to drink!
 
-**Human uses:**
+## Human uses
+
 This story of coffee is as rich and interesting as the drink itself. Below are links to some sites with more details.
 
 ![](https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/coffea/coffea/091213ubnd5838m6l.jpg)

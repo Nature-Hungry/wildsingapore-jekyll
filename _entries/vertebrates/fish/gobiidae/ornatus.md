@@ -160,7 +160,8 @@ the
 **What does it eat?**
 It eats small bottom-dwelling creatures.
 
-**Human uses:**
+## Human uses
+
 It commercially collected for the aquarium trade.
 
 **Species are difficult to positively identify without close examination.

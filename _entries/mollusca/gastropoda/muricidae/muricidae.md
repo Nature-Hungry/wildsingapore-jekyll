@@ -282,7 +282,7 @@ sp.). Drills usually have thick shells and a thick operculum made of a horn-like
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Bored to Death:**
 Drills that live on the rocks are predatory molluscs that bore into other shelled creatures, especially
-[barnacles](../../../crustacea/othercrust/ciriipedia/cirripedia)
+[barnacles](..//wildfacts/guides/crustacea/crustacea/othercrust/ciriipedia/cirripedia)
 .
 
 To bore a hole through the victim's shell, a drilling snail softens the shell with a weak acid secreted by a special gland on the underside of its foot. The softened shell is then slowly scraped off by the snail's radula. The radula is the main physical tool in creating the hole. It can take eight hours for a drill to get through a shell 2mm thick. Yawn!
@@ -302,7 +302,8 @@ Some drills lay clusters of bright yellow egg capsules on hard surfaces. Each eg
 
 {% include img-wrap-group.html items=page.galleries.gallery4 %}
 {% include img-wrap-group.html items=page.galleries.gallery5 %}
-**Human uses:**
+## Human uses
+
 Since 1,500 BC in the Mediterranean, snails of the Family Muricidae were harvested to produce a dye called Tyrian purple (which was actually more maroon). The dye resisted fading, but involved so much labour to produce that only royalty and the very rich could afford it. Thousands of shells were crushed to obtain minute quantities of the dye. The dye was worth several times its weight in gold.
 
 The dye industry brought fame and fortune to Tyre (now modern Lebanon). Tyre was a great Phoenician city. In fact Phoenicia means "purple people". Tyre ruled the seas and founded prosperous colonies such as Cadiz and Carthage. The prosperity of Tyre allowed the arts and sciences to flourish. For example, Marinus of Tyre was considered the founder of mathematical geography and introduced the concept of latitude and longitude in map design. As merchants who needed to keep records, the Phoenicians simplified the 550 characters in the cuneiform alphabet with a phonetic alphabet, based on distinct sounds, consisting of 22 alphabets. This alphabet, with modifications introduced by the Greeks and Romans, is the one we use today.

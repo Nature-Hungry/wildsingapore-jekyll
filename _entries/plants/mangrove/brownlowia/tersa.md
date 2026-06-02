@@ -118,7 +118,8 @@ grows on brackish tidal sandy soil and is rare, and was recorded at Kranji. Whil
 *Brownlowia tersa*
 grows in mangroves and was recorded for Kranji and Sungei Mandai.
 
-**Human uses:**
+## Human uses
+
 According to Giesen, the timber is sometimes used for fencing or as fuelwood.
 
 **Status and threats:**

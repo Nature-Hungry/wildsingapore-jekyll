@@ -134,7 +134,8 @@ the
 **What does it eat?**
 It feeds on plankton and detritus and are said to be highly territorial.
 
-**Human uses:**
+## Human uses
+
 The fish is sometimes caught by local anglers and is considered a common and popular freshwater aquarium fish.
 
 ---

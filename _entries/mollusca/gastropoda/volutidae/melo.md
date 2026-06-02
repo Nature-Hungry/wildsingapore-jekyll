@@ -176,7 +176,8 @@ and also
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Volute babies:**
 In members of the Famliy Volutidae, the male fertilises the female internally. There is no free-swimming larval stage and crawling juvenile snails emerge from the egg. As a result, volutes have a restricted range and local populations can be wiped out by over-collection.
 
-{% include img-wrap-group.html items=page.galleries.gallery4 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery4 %}## Human uses
+
 This snail is collected for food even, sadly, on Singapore shores. Elsewhere, the empty shell is used elsewhere to
 bail out water from 'sampans' (little boats used by fishermen), also to measure out sugar, salt and flour in local markets.
 

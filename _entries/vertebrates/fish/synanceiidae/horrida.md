@@ -250,7 +250,8 @@ Incredible as it may sound, some animals do eat them. According to the
 *Astrotia stokesii*
 ) eats them! And of course, some people eat them as a delicacy.
 
-**Human uses:**
+## Human uses
+
 The stonefish is harvested for the live aquarium trade, as well as an exotic delicacy.
 
 ---

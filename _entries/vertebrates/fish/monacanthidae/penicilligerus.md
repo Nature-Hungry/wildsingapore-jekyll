@@ -127,7 +127,8 @@ This amazing 'fluffy' fish is sometimes seen on some of our shores, near seagras
 To about 31cm, those seen about 8-10cm. Smaller ones 2-3cm sometimes seen among seagrasses. Body more disk-shaped (circular). Distinguished by thick feathery tassel-like extensions all over the body including the dorsal spine. Dark stripes along the sides of the body, sometimes with short bright blue lines. Seen in a wide variety of colours from shades of green, blue, purple and brown. Tail fin large, triangular and mostly transparent.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
-**Human uses:**
+## Human uses
+
 It is considered good eating in some places although it is not known to be marketed.
 
 ---

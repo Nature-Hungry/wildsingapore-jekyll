@@ -149,7 +149,8 @@ Those shaped like tongue depressors stuck in crevices are
 [Elongated toothed oysters](../pteriidae/isognomum)
 that have a similar shape and also stuck upright in crevices. It is difficult to tell them apart without ripping them out of their hiding place and looking at the inside of the shell. On the inside, Hammer oysters have a small depression at the hinge and a small area of mother-of-pearl, relative to the shell length.
 
-**Human uses:**
+## Human uses
+
 In Indonesia and the Philippines, they are collected. The shell may be used for shellcraft or as lime.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

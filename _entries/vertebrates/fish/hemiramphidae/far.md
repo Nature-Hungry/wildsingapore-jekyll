@@ -93,7 +93,8 @@ Those seen about 20cm, can grow to 40cm long. Body long, cylindrical and plump. 
 **What does it eat?**
 The adults feed on seagrasses and to a lesser extent, green seaweeds and diatoms.
 
-**Human uses:**
+## Human uses
+
 Considered tasty, it is marketed fresh and dried.
 
 ---
