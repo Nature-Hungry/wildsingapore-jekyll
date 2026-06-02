@@ -25,6 +25,7 @@ subclass: Hexacorallia
 order: Actiniaria
 suborder: Enthemonae
 superfamily: Metridioidea
+summary: "Less than 0.5cm, at low tide, a tiny blob with fine stripes in white, orange, yellow or red. Among barnacles, on jetty legs and other hard surfaces. Commonly seen on our Northern shores."
 updated: Jul 2024
 coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/diadumene/070718cjg1646m3a.jpg
 galleries:

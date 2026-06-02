@@ -26,6 +26,7 @@ subclass: Hexacorallia
 order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
+summary: "1-2cm. One row of tapered tentacles with a banded pattern. Large oral relative to tentacles. Usually brownish. On rocky shores, in sand or in cracks in large boulders and sea walls. Commonly seen on our shores."
 updated: Jul 2024
 coverimg: https://live.staticflickr.com/2589/3794249548_d269fce181_c.jpg
 trivia_title: if you learn only 3 things about them ...

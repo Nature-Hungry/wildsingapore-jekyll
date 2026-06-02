@@ -1,0 +1,26 @@
+{% assign width = include.width %}
+{% assign item = include.item %}
+
+{% if width %}
+     {% assign style = "max-width:" | append: width | append: "px;" %}
+{% endif %}
+
+{% if item %}
+<div class="entry-summary-card" style="{{style}}">
+  <div class="img-container">
+      <img src="{{item.coverimg}}" />
+  </div>
+  <div>
+    <div class="flex gap-1">
+      <h3><a href="{{ item.url | relative_url }}">{{item.title}}</a></h3>
+      <div class="attributes">
+        <div class="attribute {{item.rdb}} redlist">{{item.rdb}}</div>
+      </div>
+    </div>
+    <p class="scientific-name-subtitle">{{item.genus}} {{item.species}}</p>
+    <p class="summary">
+      {{item.summary}}
+    </p>
+  </div>
+</div>
+{% endif %}

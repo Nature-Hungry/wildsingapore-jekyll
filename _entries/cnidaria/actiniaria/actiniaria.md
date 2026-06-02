@@ -4,7 +4,7 @@ description: Fact sheet with photos on flora and fauna of Singapore's intertidal
 keywords: anemone, actiniaria, cnidrian, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-family: Actiniidae
+family: ''
 genus: ''
 species: ''
 attributes:
@@ -21,8 +21,6 @@ phylum: Cnidaria
 class: Anthozoa
 subclass: Hexacorallia
 order: Actiniaria
-suborder: Enthemonae
-superfamily: Actinioidea
 updated: Dec 2024
 coverimg: https://live.staticflickr.com/65535/51394196778_ccdc0c1404_c.jpg
 links_references: "**Links** - [Phylum Cnidaria](http://mangrove.nus.edu.sg/pub/seashore/text/114.htm)\
@@ -99,6 +97,7 @@ size:
 - 5.0
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+hideFromPhotoindex: true
 ---
 
 

@@ -20,6 +20,7 @@ subclass: Hexacorallia
 order: Zoantharia
 suborder: Brachycnemina
 updated: Dec 2019
+summary: "Colony 5-10cm, a cluster of a few individual polyps. Polyp 1-2cm with long body column, broad oral disk. On coral rubble. Commonly seen on our shores."
 coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/mutuki/050708labg9179m3.jpg
 galleries:
   gallery2:

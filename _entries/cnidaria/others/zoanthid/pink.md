@@ -1,5 +1,5 @@
 ---
-title: Pink   button zoanthid
+title: Pink button zoanthid
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: pink, button, colonial, anemone, zoanthid, zoanthus, vietnamensis, zoanthidae,
   anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal,
@@ -20,6 +20,7 @@ subclass: Hexacorallia
 order: Zoantharia
 suborder: Brachycnemina
 updated: Dec 2019
+summary: "Colony10-15cm, encrusting small stones and rubble. Polyps about 1cm with long body column tipped in bright pink. Sometimes seen on our shores."
 coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/pink/080607chgd5260m3.jpg
 galleries:
   gallery1:

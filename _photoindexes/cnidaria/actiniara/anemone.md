@@ -15,42 +15,50 @@ attributes:
 - 153
 - 130
 - 133
-gallery1:
+- 134
+child_pages:
+- label: "[Diameter < 3cm](/photoindexes/cnidaria/actiniara/anemone_lt3)<br>including small ones on snail shells"
+  images:
   - url: "https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadbanded/050527srbd3486m.jpg"
   - url: "https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/tuberculosa/040123sisd0133m.jpg"
   - url: "https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/hermitbig/040701chgd1385m.jpg"
   - url: "https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/zoanthus/040828skdd5545ma.jpg"
-gallery2:
+- label: "[Diameter < 3-5cm Long tentacles]()"
+  images:
   - url: "https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/sandstripe/060429skdd1375m.jpg"
   - url: "https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/spoke/050509hntg5945m.jpg"
-  - url: "https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/hermitbig/040701chgd1385m.jpg"
+  - url: "https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/star/060401ulrd0828m.jpg"
   - url: "https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/mangrove/060627krjd3666ma.jpg"
-gallery3:
+- label: "[Diameter < 3-5cm Short tentacles]()<br>"
+  images:
   - url: "https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/whitetip/120721tptd7882m.jpg"
   - url: "https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/ridged/050807sjid5570m.jpg"
   - url: "https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/beaded/060527sjig6070ma.jpg"
   - url: "https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/stubby/040705sisd2131m.jpg"
-gallery4:
+ 
+- label: "[Diameter 5-10cm]()<br>"
+  images:
   - url: "https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/boloceroididae/060624skdg6189m.jpg"
   - url: "https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/tiger/050818chgg1345m.jpg"
   - url: "https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/pearly/091206tmd5757m.jpg"
   - url: "https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/pimply/080408chgd0640m.jpg"
-gallery5:
+
+- label: "[Diameter > 10cm smooth tentacles]()<br>"
+  images:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/040606kusg0481m.jpg
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/actinostephanus/090210trysvpd0133m.jpg
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/doreensis/050821bbd5815m.jpg
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/entacmaea/040410sisbd017m.jpg
-gallery6:
+
+- label: "[Diameter > 10cm frilly tentacles]()<br>"
+  images:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/cryptodendrum/060811rlhd5835m.jpg
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/actinodendron/030714bbd0002m.jpg
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/band/050808sntg0904m.jpg
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/sixpoint/070602sjig9829m.jpg
-gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/common/030927cjd0058m.jpg
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/common/040701chgd1388m.jpg
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/shy/070901sjid6472m.jpg
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/blackmouth/050820bbg1690m.jpg
-gallery8:
+  
+- label: "[Cerianthids]()<br>also known as peacock or tube anemones"
+  images:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/common/030927cjd0058m.jpg
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/common/040701chgd1388m.jpg
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/shy/070901sjid6472m.jpg
@@ -59,138 +67,46 @@ gallery8:
 ---
 
 
-
-Cnidaria > Anthozoa > Actiniaria
-
-# Photo index of anemones and anemone-like animals on Singapore shores 
 a central mouth; a ring of tentacles, or a disk covered with short tentacles (sometimes just bumps).
 on sand, stuck to hard surfaces (stones, seagrasses, other animals).
 
 <p> Other cnidarians <a href="">text index</a> | <a href="">photo index</a> </p>
 
+<br>
+{% for row in page.child_pages %}
 <div class="photo-index-images-text-row">
-{% include img-grid.html items=page.gallery1 cols=4 %}
+{% include img-grid.html items=row.images cols=4 %}
   <div>
-    <p><a href="">Diameter < 3cm</a> <br>including small ones on snail shells</p>
+    <p>{{ row.label | markdownify}}</p>
   
   </div>
 </div>
-<div class="photo-index-images-text-row">
-{% include img-grid.html items=page.gallery2 cols=4 %}
-  <div>
-    <p><a href="">Diameter 3-5cm  Long tentacles</a></p>
-  
-  </div>
-</div>
-
-<div class="photo-index-images-text-row">
-{% include img-grid.html items=page.gallery3 cols=4 %}
-  <div>
-    <p><a href="">Diameter 3-5cm Short tentacles</a></p>
-  
-  </div>
-</div>
-
-
-
-<div class="photo-index-images-text-row">
-{% include img-grid.html items=page.gallery4 cols=4 %}
-  <div>
-    <p><a href="">Diameter 5-10cm</a></p>
-  
-  </div>
-</div>
-
-<div class="photo-index-images-text-row">
-{% include img-grid.html items=page.gallery5 cols=4 %}
-  <div>
-    <p><a href="">Diameter > 10cm smooth tentacles</a></p>
-  </div>
-</div>
-<div class="photo-index-images-text-row">
-{% include img-grid.html items=page.gallery6 cols=4 %}
-  <div>
-    <p><a href="">Diameter > 10cm frilly tentacles</a></p>
-  </div>
-</div>
-
-<div class="photo-index-images-text-row">
-{% include img-grid.html items=page.gallery7 cols=4 %}
-  <div>
-    <p><a href="">Cerianthids</a><br>also known as peacock or tube anemones</p>
-  </div>
-</div>
-
-
-
-
-
+{% endfor %}
 ---
 
-**These
-are NOT sea anemones**  
+## These are NOT sea anemones
 
-
-This
-is a hard coral.
-This
-is a hard coral..
-This
-is a hard coral.
-This
-is a soft coral.
-This
-is a soft coral
+<div class="flex flex-wrap gap-1">
+{% assign entry = site.entries | where : "title","Brain anchor coral" | first %}
+{% include entry-summary-card.html item=entry %}
+{% assign entry = site.entries | where : "title","White-tipped mushroom coral" | first %}
+{% include entry-summary-card.html item=entry %}
+{% assign entry = site.entries | where : "title","Anemone coral" | first %}
+{% include entry-summary-card.html item=entry %}
+{% assign entry = site.entries | where : "title","Sunflower mushroom coral" | first %}
+{% include entry-summary-card.html item=entry %}
+{% assign entry = site.entries | where : "title","Broad feathery soft coral" | first %}
+{% include entry-summary-card.html item=entry %}
+</div>
 
 ---
 
 how to tell apart
 
-- [large
-  'hairy' cnidarians](cflargecnidarians.htm)
-- [animals
-  with a ring of smooth tentacles](cfringtentacles.htm)
-- [animals
-  with a ring of feathery arm](../glossary/feathery.htm)
+- [large 'hairy' cnidarians](cflargecnidarians.htm)
+- [animals with a ring of smooth tentacles](cfringtentacles.htm)
+- [animals with a ring of feathery arm](../glossary/feathery.htm)
 
   
   
-  
 
-photo
-index of   
-cnidarians on this site
-
- **Phylum Cnidaria   
- [with soft body](cnidariafi2.htm)  
-  
-sea anemones and anemone-like**  
-  
-[Diameter < 3cm](anemonefi2.htm)  
-  
-Diameter 3-5cm  
- 
-[long
-tentacles](anemonefi3.htm)  
-[short tentacles](anemonefi4.htm)
- [Diameter 5-10cm](anemonefi5.htm)  
-  
-Diameter >10cm  
- 
-[smooth
-tentacles](anemonefi7.htm)  
-[frilly tentacles](anemonefi6.htm)
-  
-[Cerianthids](anemonefi8.htm)
-
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

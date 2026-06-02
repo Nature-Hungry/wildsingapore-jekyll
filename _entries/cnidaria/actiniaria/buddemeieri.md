@@ -24,6 +24,7 @@ subclass: Hexacorallia
 order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
+summary: "1-2cm. Pale column with pink spots in rows. One row of tapered tentacles pale, greyish with pinkish cast. Near high water mark on bouldery rocky shore under rich coastal forest. Seen on our Southern shores."
 updated: Jul 2024
 coverimg: https://live.staticflickr.com/6116/6236544510_4d481dbcf9_c.jpg
 galleries:

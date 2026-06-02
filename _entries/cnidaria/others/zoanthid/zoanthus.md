@@ -20,6 +20,7 @@ subclass: Hexacorallia
 order: Zoantharia
 suborder: Brachycnemina
 updated: Dec 2019
+summary: "Colony10-15cm, encrusting small stones and rubble sometimes forming dense carpet. Polyps about 1cm with long body column, oral disk appears to be split into two. Commonly seen on our shores."
 coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/zoanthus/040804skdd4111m3.jpg
 galleries:
   gallery2:
