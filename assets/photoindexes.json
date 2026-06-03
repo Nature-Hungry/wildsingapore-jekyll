@@ -8,7 +8,8 @@ layout: none
   "title": {{ post.title | jsonify }},
   "url": {{ post.url | jsonify }},
   "attributes": {{ post.attributes | jsonify }},
-  "coverimgs": {{post.coverimgs | jsonify}}
+  "coverimgs": {{post.coverimgs | jsonify}},
+  "summary": {{post.summary | jsonify}}
   
 }{% unless forloop.last %},{% endunless %}
 {% endfor %}

@@ -17,11 +17,12 @@ but we aim to standardize all to what we are working on in the seagrass sections
 			 🔲 Text section titles
 			 ✅ Location information
 			 🔲 IUCN & RDB status
-			 🟡 Entry attributes
+			 🔲 !Entry attributes
 			 ✅ Atomic entry content
 			 🔲 Higher rank entries content
-			 🔲 Assigning zones to entries
-			 🔲 Assigning habitats to entries
+			 🔲 !Assigning zones to entries
+			 🔲 !Assigning habitats to entries
+			 🔲 !Adding form information to entries (juvenile, larvae form etc.)
 		 🔲 Entry guides
 			 🔲 Pages to aggregate guides
 			 🔲 Entry guide content

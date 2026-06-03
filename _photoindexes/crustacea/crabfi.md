@@ -1,21 +1,5 @@
 ---
-title: "Crabs & similar looking arthropods"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
-keywords: "photo, index, crab, decapoda, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
-coverimgs:
-- https://f003.backblazeb2.com/file/naturehungry/arthropoda/limulidae/tachypleus/050527srbg6987m3.jpg
-- https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/albolineatus/050410kusg4263m3.jpg
-- https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/dotilla/041127cjd8656m3.jpg
-- https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/porcellanidae/petrolisthes/080619chgd5779m3.jpg
-- https://live.staticflickr.com/3825/9834545704_d8f3963608_m.jpg
-attributes:
-- 128
-- 138
-- 141
-- 143
-- 145
-- 150
+title: Photo index of crabs on Singapore shores
 child_pages:
 - label: "<a href=\"crabfi1c.htm\">small</a><br/>\n            body width &lt; 3 cm"
   images:
@@ -52,7 +36,7 @@ child_pages:
 layout: default
 ---
 {% for row in page.child_pages %}<div class="photo-index-images-text-row">
-{% include img-grid.html items=row.images cols=4 width=150 %}
+{% include img-grid.html items=row.images cols=4 %}
   <div>
     <p>{{ row.label | markdownify}}</p>
   
