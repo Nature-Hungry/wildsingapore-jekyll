@@ -46,6 +46,9 @@ galleries:
     caption: Giant top shell snail
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 **Top or Turban?**

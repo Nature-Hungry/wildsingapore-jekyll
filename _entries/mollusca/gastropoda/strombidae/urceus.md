@@ -155,6 +155,9 @@ trivia_items:
 - It is listed among the threatened animals of Singapore.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

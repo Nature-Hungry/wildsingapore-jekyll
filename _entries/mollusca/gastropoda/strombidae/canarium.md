@@ -124,6 +124,9 @@ trivia_items:
 - It is edible, but who could eat such a cute little snail!
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

@@ -87,6 +87,9 @@ trivia_items:
 - However, overharvesting can affect their populations.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

@@ -154,6 +154,9 @@ trivia_items:
 - Many are edible.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

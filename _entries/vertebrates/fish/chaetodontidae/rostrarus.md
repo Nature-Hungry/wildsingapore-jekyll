@@ -217,6 +217,9 @@ trivia_items:
 - It does poorly in a home aquarium, Don't collect them.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

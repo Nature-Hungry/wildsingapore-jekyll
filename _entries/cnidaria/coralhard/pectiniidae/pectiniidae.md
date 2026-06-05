@@ -20,6 +20,9 @@ superfamily: Pectinoidea
 updated: May 13
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ---

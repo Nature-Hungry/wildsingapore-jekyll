@@ -126,6 +126,9 @@ trivia_items:
 - Please avoid stepping on the carpet.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

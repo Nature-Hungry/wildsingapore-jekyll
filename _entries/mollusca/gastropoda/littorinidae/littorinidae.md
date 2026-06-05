@@ -174,6 +174,9 @@ trivia_items:
 - The area around a periwinkle is often grazed bare of algae.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

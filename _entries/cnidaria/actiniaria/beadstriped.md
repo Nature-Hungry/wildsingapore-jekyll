@@ -26,7 +26,8 @@ subclass: Hexacorallia
 order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
-summary: 2-3cm. Abut 40 tentacles with dark stripes and white bars. On hard surfaces and rocky shores. Common on our Northern shores.
+summary: 2-3cm. Abut 40 tentacles with dark stripes and white bars. On hard surfaces
+  and rocky shores. Common on our Northern shores.
 updated: Dec 2024
 coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadstriped/081216prpd3496m3.jpg
 galleries:
@@ -73,6 +74,9 @@ size:
 rdb: DD
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

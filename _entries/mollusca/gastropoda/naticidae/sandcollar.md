@@ -65,6 +65,9 @@ trivia_items:
 - When the baby snails hatch, the sand collar disintegrates.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

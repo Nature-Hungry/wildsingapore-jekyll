@@ -161,6 +161,9 @@ trivia_items:
 - The introvert is one of the interesting parts of this worm.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

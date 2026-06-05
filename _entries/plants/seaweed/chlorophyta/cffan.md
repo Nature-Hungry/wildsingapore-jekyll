@@ -17,6 +17,9 @@ updated: Jan 13
 coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/avrerecta/050624tusg8537m3.jpg
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
  

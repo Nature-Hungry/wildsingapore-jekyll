@@ -136,6 +136,9 @@ trivia_items:
 - They lure prey towards them with a filament in their mouths.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

@@ -112,6 +112,9 @@ trivia_items:
 - They are globally endangered due to overcollection as a delicacy.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

@@ -43,6 +43,8 @@ galleries:
       plants and animals of Singapore . Nature Society (Singapore). 285 pp.'
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- terrestrial
 ---
 
 ## Where seen?

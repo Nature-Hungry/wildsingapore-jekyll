@@ -30,6 +30,9 @@ galleries:
     caption: White knobs possibly the penis?
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 **Unidentified

@@ -41,6 +41,9 @@ galleries:
     caption: This is a Mangrove creeper snail and is NOT a Horn snail
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

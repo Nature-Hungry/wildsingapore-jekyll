@@ -111,6 +111,9 @@ trivia_items:
 - Don't touch them, some can give a nasty bite!
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

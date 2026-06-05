@@ -105,6 +105,9 @@ trivia_items:
 - Crocodiles don't eat people.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

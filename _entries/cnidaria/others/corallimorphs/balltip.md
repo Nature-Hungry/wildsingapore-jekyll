@@ -20,7 +20,9 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Corallimorpharia
 updated: Jul 2024
-summary: "1.5-4cm. Tentacles many, long thin, transparent with darker ball-shaped tip. Body column smooth and brightly coloured brown, blue, orange or red. Oral disk usually dark. On rocks. Seen on our Northern shores."
+summary: 1.5-4cm. Tentacles many, long thin, transparent with darker ball-shaped tip.
+  Body column smooth and brightly coloured brown, blue, orange or red. Oral disk usually
+  dark. On rocks. Seen on our Northern shores.
 coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/balltip/110703cjd5306m3.jpg
 galleries:
   gallery1:
@@ -120,6 +122,9 @@ size:
 - 4.0
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

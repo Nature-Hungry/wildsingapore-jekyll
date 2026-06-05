@@ -111,6 +111,9 @@ trivia_items:
 - Oysters can cause food poisoning.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

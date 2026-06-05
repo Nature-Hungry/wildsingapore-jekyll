@@ -123,6 +123,9 @@ trivia_items:
 - They have pointed heads and long skinny legs.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

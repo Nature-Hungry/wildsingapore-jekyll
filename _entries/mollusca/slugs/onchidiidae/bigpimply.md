@@ -128,6 +128,9 @@ trivia_items:
   rock? They are slippery and hard to handle, so please don't touch them.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

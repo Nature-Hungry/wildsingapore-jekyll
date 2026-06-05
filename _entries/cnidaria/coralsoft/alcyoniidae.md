@@ -189,6 +189,9 @@ trivia_items:
 - Each soft coral is a colony of countless tiny polyps.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

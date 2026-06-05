@@ -12,6 +12,9 @@ species: parvulus
 coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/daisy/110220lazd6249m3a.jpg
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
  

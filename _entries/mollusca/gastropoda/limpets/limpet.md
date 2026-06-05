@@ -235,6 +235,9 @@ trivia_items:
 - The area around a limpet is often grazed bare of algae.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

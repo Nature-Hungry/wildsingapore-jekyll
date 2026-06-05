@@ -88,6 +88,9 @@ trivia_items:
 - Watch your step or you might step on one!
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

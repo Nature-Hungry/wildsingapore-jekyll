@@ -139,6 +139,9 @@ trivia_items:
   animals: sea pens, hermit crabs.'
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

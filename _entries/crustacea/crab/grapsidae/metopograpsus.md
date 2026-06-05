@@ -162,6 +162,9 @@ trivia_items:
 - The pincers have scalloped edges and are used to scrape algae.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

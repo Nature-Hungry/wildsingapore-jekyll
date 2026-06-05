@@ -218,6 +218,9 @@ trivia_items:
 - Can you think of some?
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

@@ -140,6 +140,9 @@ trivia_items:
   our everyday processed food and products.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

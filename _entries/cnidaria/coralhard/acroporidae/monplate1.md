@@ -8,6 +8,9 @@ layout: entry
 coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/monplate/110324tryas07908m3.jpg
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
  

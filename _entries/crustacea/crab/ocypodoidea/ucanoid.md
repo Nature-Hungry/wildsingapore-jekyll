@@ -35,6 +35,9 @@ galleries:
     caption: Chek Jawa, Jan 11
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 **Unidentified fiddler crab #110327cjd7977**

@@ -90,6 +90,9 @@ trivia_items:
 - They retract into their tubes at low tide. Don't step on the tubes!
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

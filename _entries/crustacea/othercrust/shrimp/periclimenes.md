@@ -93,6 +93,9 @@ trivia_items:
 - They are an excellent example of commensalism.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

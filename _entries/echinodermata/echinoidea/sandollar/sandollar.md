@@ -167,6 +167,9 @@ trivia_items:
 - Living sand dollars have tiny moving spines that tickle when you hold them.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

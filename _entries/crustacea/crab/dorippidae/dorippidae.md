@@ -133,6 +133,9 @@ trivia_items:
 - At night they swim above the leaf to hide from predators below.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

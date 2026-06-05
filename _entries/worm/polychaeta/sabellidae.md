@@ -124,6 +124,9 @@ trivia_items:
 - It gathers food.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

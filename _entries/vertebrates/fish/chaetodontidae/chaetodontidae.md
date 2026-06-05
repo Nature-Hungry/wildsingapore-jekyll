@@ -113,6 +113,9 @@ trivia_items:
 - Don't collect them.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

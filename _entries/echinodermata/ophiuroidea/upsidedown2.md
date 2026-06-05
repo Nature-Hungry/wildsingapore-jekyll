@@ -8,6 +8,9 @@ layout: entry
 coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/upsidedown/050621skdg7962m3.jpg
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
  

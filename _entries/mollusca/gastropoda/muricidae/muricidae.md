@@ -265,6 +265,9 @@ trivia_items:
 - Some lay large collections of egg capsules on the rocks.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

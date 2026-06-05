@@ -203,6 +203,9 @@ trivia_items:
 - Previously common, fan shells are now listed among our threatened animals.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

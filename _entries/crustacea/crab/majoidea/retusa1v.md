@@ -7,6 +7,9 @@ keywords: velcro, crab, camposcia, retusa, majidae, decapod, crustacea, field, g
 layout: entry
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 Filmed at Sisters Island, Dec 10

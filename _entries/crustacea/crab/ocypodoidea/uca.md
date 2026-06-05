@@ -138,6 +138,9 @@ trivia_items:
 - They can change colours and species cannot be identified by colour alone.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

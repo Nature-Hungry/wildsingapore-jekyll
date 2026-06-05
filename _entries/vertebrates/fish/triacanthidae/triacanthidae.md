@@ -169,6 +169,9 @@ trivia_items:
 - Don't take the fish out of the water or it may die.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

@@ -141,6 +141,9 @@ trivia_items:
   features protect them in the harsh dry area where they live.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

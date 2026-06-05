@@ -97,6 +97,9 @@ trivia_items:
 - Some shells may contain tiny hermit crabs and not living snails!
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

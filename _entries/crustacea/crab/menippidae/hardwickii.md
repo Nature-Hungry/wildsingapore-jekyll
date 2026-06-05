@@ -189,6 +189,9 @@ trivia_items:
 - They are identified by their bright green eyes ringed in red.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

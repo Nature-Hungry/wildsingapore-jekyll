@@ -200,6 +200,9 @@ trivia_items:
 - Don't keep Nemo in your home, he belongs in the ocean.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

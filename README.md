@@ -20,7 +20,7 @@ but we aim to standardize all to what we are working on in the seagrass sections
 			 🔲 !Entry attributes
 			 ✅ Atomic entry content
 			 🔲 Higher rank entries content
-			 🔲 !Assigning zones to entries
+			 ✅ Assigning zones to entries
 			 🔲 !Assigning habitats to entries
 			 🔲 !Adding form information to entries (juvenile, larvae form etc.)
 		 🔲 Entry guides

@@ -147,6 +147,9 @@ trivia_items:
 - Cities rely on ships for supplies and transportation!
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

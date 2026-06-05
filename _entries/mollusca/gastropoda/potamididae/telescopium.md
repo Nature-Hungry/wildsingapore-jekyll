@@ -88,6 +88,9 @@ trivia_items:
 - It is a harmless herbivore, nibbling on algae.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

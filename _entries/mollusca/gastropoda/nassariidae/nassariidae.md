@@ -158,6 +158,9 @@ trivia_items:
 - Sometimes, a tiny sea anemone hitches a ride on the shell of a living whelk.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

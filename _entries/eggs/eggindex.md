@@ -6,6 +6,9 @@ keywords: egg, capsule, mass, coils, field, guide, seashore, sea, shore, marine,
 layout: entry
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 **Eggs of marine creatures**

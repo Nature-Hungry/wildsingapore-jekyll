@@ -178,6 +178,9 @@ trivia_items:
 - It is believed to be among the main food of dugongs.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

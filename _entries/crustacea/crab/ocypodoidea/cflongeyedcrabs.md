@@ -27,6 +27,9 @@ galleries:
     caption: ''
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 Some crabs with long eye stalks are sometimes seen on some of our sandy shores.

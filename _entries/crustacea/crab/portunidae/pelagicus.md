@@ -152,6 +152,9 @@ trivia_items:
 - They do not survive long out of water.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

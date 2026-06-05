@@ -23,7 +23,8 @@ subclass: Hexacorallia
 order: Actiniaria
 inat_id: 1
 stateofmatter: Life
-summary: "Less than 1cm. Many translucent tentacles with tiny spots, body column short with tiny bumps. Sometimes seen stuck on seagrasses on some of our shores."
+summary: Less than 1cm. Many translucent tentacles with tiny spots, body column short
+  with tiny bumps. Sometimes seen stuck on seagrasses on some of our shores.
 updated: Nov 2019
 coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/seagrass/120801chgd8965m3.jpg
 galleries:
@@ -61,6 +62,9 @@ size:
 - 1.0
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

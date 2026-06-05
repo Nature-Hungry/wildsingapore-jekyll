@@ -104,6 +104,9 @@ trivia_items:
 - They are the reason why wild flamingos are pink!
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

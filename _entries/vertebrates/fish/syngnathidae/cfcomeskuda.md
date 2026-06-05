@@ -39,6 +39,9 @@ links_references: '**Links**
   '
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 It is hard to tell apart these two kinds of seahorses. According to the Singapore Red Data Book, the

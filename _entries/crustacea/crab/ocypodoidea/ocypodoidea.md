@@ -188,6 +188,9 @@ trivia_items:
 - To see them, wait quietly without moving.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

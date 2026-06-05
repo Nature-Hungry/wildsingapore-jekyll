@@ -152,6 +152,9 @@ trivia_items:
 - Most are harmless herbivores, nibbling on algae.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

@@ -124,6 +124,9 @@ trivia_items:
 - Mussels can cause food poisoning.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

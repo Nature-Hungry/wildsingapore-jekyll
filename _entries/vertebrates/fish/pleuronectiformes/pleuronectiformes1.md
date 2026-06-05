@@ -55,6 +55,9 @@ galleries:
     caption: Dragonet
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 Here's how to tell apart the

@@ -97,6 +97,8 @@ size:
 - 100.0
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- terrestrial
 ---
 
 ## Where seen?

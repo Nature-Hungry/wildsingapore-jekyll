@@ -173,6 +173,9 @@ trivia_items:
 - Leave them alone!
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

@@ -228,6 +228,9 @@ trivia_items:
 - Some of them nibble on bigger living fishes!
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

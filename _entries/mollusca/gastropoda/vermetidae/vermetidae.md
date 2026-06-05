@@ -93,6 +93,9 @@ trivia_items:
 - Look for them on large boulders and other hard surfaces.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

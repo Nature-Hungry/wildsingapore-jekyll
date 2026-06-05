@@ -135,6 +135,9 @@ trivia_items:
 - They are very shy and disappear at the slightest sign of trouble.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

@@ -121,6 +121,9 @@ trivia_items:
 - Watch your step as you might break these flat animals that live on sandy areas.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

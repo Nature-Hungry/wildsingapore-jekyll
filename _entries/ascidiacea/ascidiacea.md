@@ -76,6 +76,9 @@ links_references: '**Links** - [Sea Squirt *Polycarpa*](http://mangrove.nus.edu.
   Singapore. 343 pp.'
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

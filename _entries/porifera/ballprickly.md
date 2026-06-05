@@ -78,6 +78,9 @@ size:
 rdb: ike
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ******

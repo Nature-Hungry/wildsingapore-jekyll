@@ -67,6 +67,9 @@ galleries:
     caption: Phyllidia elegans (underside)
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

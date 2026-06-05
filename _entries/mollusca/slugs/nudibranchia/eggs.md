@@ -63,6 +63,9 @@ trivia_items:
 - Thousands of baby snails may die.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

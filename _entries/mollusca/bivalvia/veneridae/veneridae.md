@@ -130,6 +130,9 @@ trivia_items:
 - See if you can find such a shell?
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

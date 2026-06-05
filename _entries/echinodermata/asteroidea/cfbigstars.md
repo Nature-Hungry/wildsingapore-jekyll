@@ -62,6 +62,9 @@ galleries:
     caption: Young Knobbly sea stars can be as large as adults of the other stars.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ******

@@ -80,6 +80,9 @@ trivia_items:
 - But don't break the skeleton to see this! They are considered living fossils.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

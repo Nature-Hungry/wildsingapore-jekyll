@@ -51,6 +51,9 @@ galleries:
     caption: Green sea sausage seaweed Bornetella sp.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 Here's how to tell apart these two green seaweeds with little round shapes.

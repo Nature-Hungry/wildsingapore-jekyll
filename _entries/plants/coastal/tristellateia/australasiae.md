@@ -52,6 +52,8 @@ size:
 rdb: EN
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- terrestrial
 ---
 
 <div class="flex gap-2">

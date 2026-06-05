@@ -114,6 +114,9 @@ trivia_items:
 - They often grow over coral rubble or stones. Don't step on them!
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

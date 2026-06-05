@@ -146,6 +146,9 @@ trivia_items:
 - Polyps on submerged portions may be extended, look for them.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

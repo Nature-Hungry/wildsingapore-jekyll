@@ -19,7 +19,9 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Zoantharia
 suborder: Brachycnemina
-summary: Colony 20-40cm, encrusts rocks and rubble like a rubbery mat. Polyps 1-2cm in diameter embedded in this common tissue, short or no body column. Coral rubble, boulders. Commonly seen on our Southern shores.
+summary: Colony 20-40cm, encrusts rocks and rubble like a rubbery mat. Polyps 1-2cm
+  in diameter embedded in this common tissue, short or no body column. Coral rubble,
+  boulders. Commonly seen on our Southern shores.
 updated: Dec 2019
 coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/tuberculosa/110517tptd1356m3.jpg
 galleries:
@@ -97,6 +99,9 @@ trivia_items:
 - Don't touch them! The rubbery mat is living tissue and animals. Don't step on it!
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

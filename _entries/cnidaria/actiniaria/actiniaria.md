@@ -98,6 +98,9 @@ size:
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 hideFromPhotoindex: true
+zone:
+- intertidal
+- marine
 ---
 
 

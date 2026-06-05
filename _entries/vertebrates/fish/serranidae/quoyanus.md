@@ -35,7 +35,8 @@ galleries:
     caption: Sentosa Tg Rimau, Jan 18 Photo shared by Abel Yeo on facebook .
 links_references: '**Links**
 
-  - [Longfin grouper (*Epinephelus quoyanus*)](http://fishbase.sinica.edu.tw/Summary/speciesSummary.php?ID=6475) from [FishBase](http://www.fishbase.org/): Technical fact sheet.
+  - [Longfin grouper (*Epinephelus quoyanus*)](http://fishbase.sinica.edu.tw/Summary/speciesSummary.php?ID=6475)
+  from [FishBase](http://www.fishbase.org/): Technical fact sheet.
 
 
   **References**
@@ -74,6 +75,9 @@ size:
 rdb: VU
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

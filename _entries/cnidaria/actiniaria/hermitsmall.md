@@ -21,7 +21,10 @@ phylum: Cnidaria
 class: Anthozoa
 subclass: Hexacorallia
 order: Actiniaria
-summary: "1-2cm. Many short tapering tentacles. Oral disk white or with white radiating stripes. Body column short, smooth and not covered in sediments, pale some with faint stripes. On shells occupied by hermit crabs. Sometimes seen on our Northern shores."
+summary: 1-2cm. Many short tapering tentacles. Oral disk white or with white radiating
+  stripes. Body column short, smooth and not covered in sediments, pale some with
+  faint stripes. On shells occupied by hermit crabs. Sometimes seen on our Northern
+  shores.
 updated: Nov 2019
 coverimg: https://live.staticflickr.com/2579/4042787644_faec49c2ba_c.jpg
 galleries:
@@ -60,6 +63,9 @@ size:
 - 2.0
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

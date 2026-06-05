@@ -227,6 +227,9 @@ trivia_items:
 - The body of a moon snail can inflate to many times the size of its shell.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

@@ -130,6 +130,9 @@ trivia_items:
 - In fact, they are farmed on ropes.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

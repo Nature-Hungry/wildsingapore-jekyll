@@ -157,6 +157,9 @@ trivia_items:
 - They have powerful teeth and can give a nasty bite.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

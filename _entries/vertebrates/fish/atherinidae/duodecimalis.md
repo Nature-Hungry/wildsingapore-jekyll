@@ -179,6 +179,9 @@ trivia_items:
 - They are important prey for larger fishes and sea birds.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

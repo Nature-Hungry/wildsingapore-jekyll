@@ -126,6 +126,9 @@ trivia_items:
 - Their egg capsules are common on the shores. Don't step on them!
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

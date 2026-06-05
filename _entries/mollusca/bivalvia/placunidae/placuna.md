@@ -114,6 +114,9 @@ trivia_items:
 - The clam is globally endangered due to overcollection.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

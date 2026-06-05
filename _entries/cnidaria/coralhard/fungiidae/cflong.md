@@ -54,6 +54,9 @@ galleries:
       tiny.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 These elongated mushroom corals that lie unattached to the ground may look similar at first glance. Here's more on how to tell them apart.

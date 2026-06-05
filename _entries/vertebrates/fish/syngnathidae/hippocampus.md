@@ -53,14 +53,14 @@ links_references: "**Links**\n- [Seahorse\n  (*Hippocampus* sp.)](http://mangrov
   \ & Department of Zoology,\n  the National University of Singapore. 160 pp.\n- Davison,\n\
   \  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore\n  Red Data Book:\
   \ Threatened plants and animals of Singapore*.\n  Nature Society (Singapore). 285\
-  \ pp.\n
-  - Allen, Gerry, 2000. Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers . Periplus Editions. 292 pp. 
-  - Kuiter, Rudie H. 2002. Guide to Sea Fishes of Australia: A Comprehensive Reference forDivers & Fishermen New Holland Publishers. 434pp. 
-  -Lieske, Ewald and Robert Myers. 2001. Coral Reef Fishes of the World Periplus Editions. 400pp. 
-  - Kuiter, Rudie H., 2000 (English edition). Seahorses, Pipefishes and their Relatives: A Comprehensive Guide to Syngnathiformes TMC Publishing, UK. 240 pp. 
-  -Sparks, John, 1999. Battle of the Sexes in the Animal World BBC Worldwide, London. 224 pp.
-  
-  "
+  \ pp.\n - Allen, Gerry, 2000. Marine Fishes of South-East Asia: A Field Guide for\
+  \ Anglers and Divers . Periplus Editions. 292 pp. - Kuiter, Rudie H. 2002. Guide\
+  \ to Sea Fishes of Australia: A Comprehensive Reference forDivers & Fishermen New\
+  \ Holland Publishers. 434pp. -Lieske, Ewald and Robert Myers. 2001. Coral Reef Fishes\
+  \ of the World Periplus Editions. 400pp. - Kuiter, Rudie H., 2000 (English edition).\
+  \ Seahorses, Pipefishes and their Relatives: A Comprehensive Guide to Syngnathiformes\
+  \ TMC Publishing, UK. 240 pp. -Sparks, John, 1999. Battle of the Sexes in the Animal\
+  \ World BBC Worldwide, London. 224 pp.\n"
 galleries:
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg
@@ -84,7 +84,6 @@ galleries:
     caption: Estuarine seahorses 'hairy' and usually small
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/comes/050625labg8740m3.jpg
     caption: Tiger-tailed seahorses tail is banded yellow and black
-  
 size:
 - 30.0
 - 5.0
@@ -97,6 +96,9 @@ trivia_items:
   trade.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

@@ -165,6 +165,9 @@ trivia_items:
   is so well adapted to land it will drown if kept under water!
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

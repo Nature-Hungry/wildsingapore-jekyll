@@ -101,6 +101,9 @@ trivia_items:
 - They are not venomous but it's best not to touch them.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

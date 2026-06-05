@@ -152,6 +152,9 @@ trivia_items:
 - There are several species although they look similar at first glace.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

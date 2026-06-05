@@ -144,6 +144,9 @@ trivia_items:
 - Most are burrowing and only active at night.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

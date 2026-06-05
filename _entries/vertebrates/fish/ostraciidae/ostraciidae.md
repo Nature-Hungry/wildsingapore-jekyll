@@ -103,6 +103,9 @@ trivia_items:
 - They can swim quickly if they have to, even though they have tiny fins!
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

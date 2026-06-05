@@ -49,6 +49,9 @@ galleries:
       swim about very fast.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 **Banded confusion**

@@ -94,6 +94,9 @@ trivia_items:
 - It is eaten by dugongs.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

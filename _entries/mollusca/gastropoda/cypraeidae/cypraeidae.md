@@ -168,6 +168,9 @@ trivia_items:
 - With their shells covered, coowries are sometimes mistaken for slugs!
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

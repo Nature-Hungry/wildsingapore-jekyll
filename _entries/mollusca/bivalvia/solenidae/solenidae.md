@@ -77,6 +77,9 @@ trivia_items:
 - Let's put this one down and see how fast it can burrow.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

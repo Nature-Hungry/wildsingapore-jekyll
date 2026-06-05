@@ -151,6 +151,9 @@ trivia_items:
 - Don't handle it!
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

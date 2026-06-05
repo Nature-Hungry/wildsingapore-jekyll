@@ -116,6 +116,9 @@ trivia_items:
 - They lay large and and interesting egg capsules.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

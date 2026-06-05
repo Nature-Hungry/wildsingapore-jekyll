@@ -122,6 +122,9 @@ trivia_items:
 - There are two different species of archerfishes in our waters.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

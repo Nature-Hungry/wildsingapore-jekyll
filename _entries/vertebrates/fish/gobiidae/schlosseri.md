@@ -87,6 +87,9 @@ trivia_items:
 - It has a different body pattern at night than during the daytime.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

@@ -54,6 +54,9 @@ galleries:
     caption: Nerites mating with their white egg capsules. Chek Jawa, Feb 02
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

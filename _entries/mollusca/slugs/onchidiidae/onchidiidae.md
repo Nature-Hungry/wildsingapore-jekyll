@@ -162,6 +162,9 @@ trivia_items:
   rock? They are snails without shells, and hermaphrodites.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

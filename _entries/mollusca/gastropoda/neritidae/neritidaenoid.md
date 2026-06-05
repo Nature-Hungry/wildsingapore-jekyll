@@ -48,6 +48,9 @@ galleries:
     caption: ''
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 **Unidentified nerite snail #070506sjig9293**

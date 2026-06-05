@@ -32,15 +32,14 @@ links_references: "**Links**\n- *[Melastoma\n  malabathricum](http://floraofsing
   \ plant when it is in bloom.\n\n**References**\n- Foo Toik\n  Shiew, 1985. *Guide\
   \ to the Wildflowers of Singapore*. Singapore\n  Science Centre. 160 pp.\n- Wee\
   \ Yeow\n  Chin. 1992. *[A\n  Guide to Medicinal Plants](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*.\
-  \ The Singapore Science Centre.\n  160pp.\n
-  - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University Press. 222 pp.
-  - Corners, E. J. H., 1997. Wayside Trees of Malaya: in two volumes . Fourth
-      edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38;
-      volume 2: 477-861 pp., plates 139-236. 
-  - Burkill, I. H., 1993. A Dictionary of
-      the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit,
-      Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2:
-      1241-2444.'n"
+  \ The Singapore Science Centre.\n  160pp.\n - Hsuan Keng, S.C. Chin and H. T. W.\
+  \ Tan. 1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons . Singapore\
+  \ University Press. 222 pp. - Corners, E. J. H., 1997. Wayside Trees of Malaya:\
+  \ in two volumes . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume\
+  \ 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236. - Burkill, I.\
+  \ H., 1993. A Dictionary of the Economic Products of the Malay Peninsula . 3rd printing.\
+  \ Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240;\
+  \ volume 2: 1241-2444.'n"
 galleries:
   gallery1:
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/melastoma/malabathricum/090410ubnd9352m3.jpg
@@ -56,12 +55,13 @@ galleries:
     caption: Pasir Ris, Sep 09
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/melastoma/malabathricum/091005cjd2174m3.jpg
     caption: Chek Jawa, Oct 09
- 
 size:
 - 100.0
 - 200.0
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- terrestrial
 ---
 
 ## Where seen?

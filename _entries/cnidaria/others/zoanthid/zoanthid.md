@@ -96,6 +96,9 @@ trivia_items:
   exoskeleton is made up of.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

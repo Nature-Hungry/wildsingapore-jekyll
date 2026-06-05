@@ -175,6 +175,9 @@ trivia_items:
 - Don't touch them!
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

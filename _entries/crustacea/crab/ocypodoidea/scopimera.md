@@ -152,6 +152,9 @@ trivia_items:
 - They are related to fiddler crabs.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

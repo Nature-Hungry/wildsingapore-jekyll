@@ -66,6 +66,8 @@ galleries:
 rdb: CR
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- terrestrial
 ---
 
 ## Where seen?

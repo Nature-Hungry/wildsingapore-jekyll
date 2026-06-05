@@ -44,6 +44,8 @@ galleries:
       2: 1241-2444.'
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- terrestrial
 ---
 
 ## Where seen?

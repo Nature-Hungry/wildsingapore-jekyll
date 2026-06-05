@@ -127,6 +127,9 @@ trivia_items:
 - It is eaten by sea turtles and dugongs.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

@@ -26,7 +26,10 @@ subclass: Hexacorallia
 order: Actiniaria
 suborder: Enthemonae
 superfamily: Metridioidea
-summary: 2-3cm. Few transparent tentacles, that branch at least once ending in tapering tips, with narrow white rings at the branching point. Oral disk tiny. Body column pale. Sometimes seen on mudflats near mangroves and freshwater flows on our Nothern shores.
+summary: 2-3cm. Few transparent tentacles, that branch at least once ending in tapering
+  tips, with narrow white rings at the branching point. Oral disk tiny. Body column
+  pale. Sometimes seen on mudflats near mangroves and freshwater flows on our Nothern
+  shores.
 updated: Dec 2024
 coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/branchtentacle/090705krjd6457m3.jpg
 galleries:
@@ -62,6 +65,9 @@ size:
 rdb: CR
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

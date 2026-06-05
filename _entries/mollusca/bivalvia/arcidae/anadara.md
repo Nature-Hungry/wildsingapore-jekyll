@@ -112,6 +112,9 @@ trivia_items:
 - It can cause cholera, hepatitis A and food poisoning.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

@@ -138,6 +138,9 @@ trivia_items:
 - It's found at Chek Jawa, Sungei Buloh, Kranji and Mandai mangroves.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

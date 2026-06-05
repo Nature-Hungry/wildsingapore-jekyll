@@ -15,6 +15,9 @@ updated: Aug 08
 coverimg: ../../Templates/fornatureguides.gif
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 **What are sponges?**

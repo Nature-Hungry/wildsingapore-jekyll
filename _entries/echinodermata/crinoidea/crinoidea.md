@@ -123,6 +123,9 @@ trivia_items:
 - Their long spiny arms are fragile and break easily. Don't disturb them.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

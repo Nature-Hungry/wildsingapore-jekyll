@@ -25,7 +25,9 @@ subclass: Hexacorallia
 order: Actiniaria
 suborder: Enthemonae
 superfamily: Metridioidea
-summary: "2-3cm. Many short tapering tentacles. Oral disk with fine white stripes. Body column thick, long with broad dark bars. On shells occupied by hermit crabs. Sometimes seen on our Northern shores."
+summary: 2-3cm. Many short tapering tentacles. Oral disk with fine white stripes.
+  Body column thick, long with broad dark bars. On shells occupied by hermit crabs.
+  Sometimes seen on our Northern shores.
 updated: Jul 2024
 coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/hermitbig/080801chgd8683m3.jpg
 galleries:
@@ -76,6 +78,9 @@ size:
 - 3.0
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

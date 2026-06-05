@@ -85,6 +85,9 @@ galleries:
     caption: Powder blue-clawed swimming crab
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 **Swamped by swimming crabs?**

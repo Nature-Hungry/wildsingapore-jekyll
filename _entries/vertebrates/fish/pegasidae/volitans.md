@@ -174,6 +174,9 @@ trivia_items:
 - They are collected for the traditional Chinese medicine trade.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

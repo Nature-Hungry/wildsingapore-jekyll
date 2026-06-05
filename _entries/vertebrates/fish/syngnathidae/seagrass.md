@@ -163,6 +163,9 @@ trivia_items:
 - Watch your step! The male looks carries the eggs.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

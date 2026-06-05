@@ -50,6 +50,9 @@ links_references: "**Links**\n- [Migratory birds: supremely designed for travel]
   \ and animals of Singapore*\n. Nature Society (Singapore). 285 pp.\n"
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

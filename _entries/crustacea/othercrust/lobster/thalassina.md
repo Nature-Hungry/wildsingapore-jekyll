@@ -149,6 +149,9 @@ trivia_items:
 - Many other plants and animals live and feed on these mounds.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

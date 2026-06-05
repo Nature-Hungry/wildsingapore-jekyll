@@ -137,6 +137,9 @@ trivia_items:
 - Each 'bush' is a colony of many little polyps.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

@@ -20,7 +20,8 @@ subclass: Hexacorallia
 order: Zoantharia
 suborder: Brachycnemina
 updated: Dec 2019
-summary: "Colony10-15cm, encrusting small stones and rubble. Polyps about 1cm with long body column tipped in bright pink. Sometimes seen on our shores."
+summary: Colony10-15cm, encrusting small stones and rubble. Polyps about 1cm with
+  long body column tipped in bright pink. Sometimes seen on our shores.
 coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/pink/080607chgd5260m3.jpg
 galleries:
   gallery1:
@@ -60,6 +61,9 @@ size:
 - 1.0
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

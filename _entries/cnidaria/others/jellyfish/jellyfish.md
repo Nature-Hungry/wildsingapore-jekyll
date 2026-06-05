@@ -156,6 +156,9 @@ trivia_items:
 - Turtles can die from accidentally eating the bags.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

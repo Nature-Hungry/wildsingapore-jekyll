@@ -158,6 +158,9 @@ links_references: "**Links**\n- [TeamSeagrass\n  blog](http://teamseagrass.blogs
   \ Singapore II: Monoctyledons*\n  Singapore University Press. 215 pp.\n"
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
   

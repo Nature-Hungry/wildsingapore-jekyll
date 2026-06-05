@@ -144,6 +144,9 @@ trivia_items:
 - Some have a spectacular way of reproducing.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

@@ -89,6 +89,9 @@ size:
 rdb: VU
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- freshwater
+- terrestrial
 ---
 
 ## Where seen?

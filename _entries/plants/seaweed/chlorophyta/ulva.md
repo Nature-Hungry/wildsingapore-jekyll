@@ -130,6 +130,9 @@ trivia_items:
 - It used to be fed to pigs.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

@@ -40,6 +40,9 @@ galleries:
     caption: Barnacles are crustaceans and arthropods! Tuas, May 05
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 **What are arthropods?**

@@ -32,7 +32,7 @@ galleries:
       . Beting Bronok, Aug 05
   gallery3:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/meta1.gif
-    caption: 'larvae'
+    caption: larvae
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/meta2.gif
     caption: juvenile
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/meta3.gif
@@ -132,6 +132,9 @@ trivia_items:
 - Some live on other animals such as sea anemones and hard corals.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

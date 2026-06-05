@@ -126,6 +126,9 @@ trivia_items:
 - Don't touch! They live deep in the sand, don't dig them out.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
