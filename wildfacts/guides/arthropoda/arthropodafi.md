@@ -1,5 +1,5 @@
 ---
-title: "Marine arthropods on Singapore shores: photo index"
+title: Photo index of other arthropods on Singapore shores
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "sponge, porifera, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
@@ -8,7 +8,6 @@ layout: default
 
 arthropods [text index](arthropodaindex)
 | Phylum [Arthropoda](arthropoda)
-# Photo index of other arthropods on Singapore shores
 
 **except crustaceans**(see [crustacean photo index](../crustacea/crustaceafi))
 

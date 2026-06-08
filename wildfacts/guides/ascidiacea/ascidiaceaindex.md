@@ -1,5 +1,5 @@
 ---
-title: "Ascidians on Singapore shores: text index"
+title: Ascidians on Singapore shores
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "checklist, check, list, index, ascidiacea, ascidian, tunicate, squirt, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
@@ -10,7 +10,6 @@ ascidians [photo index](ascidiaceafi)
 | Subphylum Tunicata/Urochordata
 | Class [Ascidiacea](ascidiacea)
 
-# Ascidians on Singapore shores**  
 Don't know the name of the ascidian? Try the [ascidian photo index](ascidiaceafi)  
 
 ---

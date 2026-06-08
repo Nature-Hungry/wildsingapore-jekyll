@@ -1,11 +1,10 @@
 ---
-title: "Animals on Singapore shores: text index"
+title: "Animals on This Website"
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "index, animal, fauna, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
 
-# Animals on this site  
 don't know the name of the animal? Try the [photo index of lifeforms](photoindex)
 
 **[Phylum Porifera](porifera/poriferaindex)**

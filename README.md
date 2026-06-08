@@ -23,8 +23,8 @@ but we aim to standardize all to what we are working on in the seagrass sections
           🔲 Central database for all entries to reside
             🔲 Portal to edit database (GUI that's easy to navigate) for external contributors to use
 		 🔲 Entry guides
-			 🔲 Pages to aggregate guides
-			 🔲 Entry guide content
+			 🔲 Pages to aggregate guides (files not ending in fi.md)
+			 🔲 Entry guide content (files ending in fi.md)
 	🟡 Entry aggregates
 		🟡 Explore page
 			✅ Text query search
@@ -44,14 +44,22 @@ but we aim to standardize all to what we are working on in the seagrass sections
 		🔲 Footer
    🔲 Add a search engine in the "For Teachers" page
       🔲 Add classroom activities with proper YAML headers
-		
+   🔲 Add For Teachers section
+      🔲 Create search.json for For Teachers section
+      🔲 Add classroom activities (same concept as entries, but different genre)
+	🔲 Add ilovenature.sg images (when received)
+      🔲 Reformat ilovenature.sg site structure into Nature Hungry entries
+      🔲 Add text for Flora pages 
+      🔲 Add terrestrial forest concepts to Concepts.md
+   🔲 Add LepakInSG OWS2.0 text into grid of sites in Singapore (~/Guides/Nature Sites)
+
 ---
 
 # Wild Singapore
 
-The Wild Singapore website is a guide to the flora and fauna of Singapore's intertidal shores. 
+The Wild Singapore website is a guide to the flora and fauna of Singapore's intertidal shores.
 
-**Original Site:** [wildsingapore.com](http://www.wildsingapore.com)  
+**Original Site:** [wildsingapore.com](http://www.wildsingapore.com)
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Arthropods on Singapore shores: text index"
+title: Arthropods of Singapore
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "checklist, check, list, index, arthropoda, arthropod, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
@@ -8,8 +8,6 @@ layout: default
 arthropods [photo index](arthropodafi)
 | Phylum [Arthropoda](arthropoda)
 | about [moulting](../crustacea/moulting)
-
-# Arthropods of Singapore
 
 ## Intertidal and marine arthropods**
 

@@ -1,9 +1,7 @@
 ---
 title: Noble volute
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: noble, volute, cymbiola, nobilis, volutidae, gastropod, mollusc, snail,
-  shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+keywords: noble, volute, cymbiola, nobilis, volutidae, gastropod, mollusc, snail shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Volutidae
 genus: Cymbiola
@@ -21,14 +19,12 @@ subfamily: Amoriinae
 tribe: Melonini
 updated: Sep 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/nobilis/050623cjd4111m3.jpg
-links_references: "**Links**\n- [Noble\n  volute (*Cymbiola nobilis*)](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=205)\
-  \ on the NParks Flora and Fauna\n  website.\n\n**References**\n- Tan Siong\n  Kiat\
-  \ and Henrietta P. M. Woo, 2010 *Preliminary\n  Checklist of The Molluscs of Singapore*\
-  \ (pdf), Lee Kong Chian Natural History Museum, National University of Singapore.\n\
-  - Tan, K. S.\n  & L. M. Chou, 2000. *A\n  Guide to the Common Seashells of Singapore*.\
-  \ Singapore\n  Science Centre. 160 pp.\n- Gosliner,\n  Terrence M., David W. Behrens\
-  \ and Gary C. Williams. 1996. *Coral\n  Reef Animals of the Indo-Pacific: Animal\
-  \ life from Africa to Hawaii\n"
+links_references: "**Links**
+- [Noble volute (*Cymbiola nobilis*)](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=205) on the NParks Flora and Fauna website.
+  **References**
+  - Tan Siong Kiat and Henrietta P. M. Woo, 2010 *Preliminary Checklist of The Molluscs of Singapore* (pdf), Lee Kong Chian Natural History Museum, National University of Singapore.
+  - Tan, K. S. & L. M. Chou, 2000. *A Guide to the Common Seashells of Singapore*. Singapore Science Centre. 160 pp.
+  - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii"
 trivia_title: if you learn only 3 things about them ...
 trivia_items:
 - It is among the large snails you might see on our shores.
@@ -137,6 +133,7 @@ rdb: NT
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
+
 This large, beautifully marked snail is sometimes encountered on sandy areas near seagrasses and coral rubble on some of our shores. It is more commonly seen moving above the surface at night, and is usually buried during the day.
 According to the Singapore Red Data Book, this beautiful snail is restricted to our part of the world, in particular, Singapore and Peninsular Malaysia.
 Empty shells of dead noble volutes are quickly taken over by large hermit crabs.
@@ -145,13 +142,17 @@ Empty shells of dead noble volutes are quickly taken over by large hermit crabs.
 
 12-20cm. Shell thick heavy, conical. Shell orange, yellow or beige with red or brown zig-zag patterns. Sometimes all black. A wide variety of patterns can be seen, although in some, the pattern may be obscured by encrusting lifeforms. No operculum. Body large fleshy, black with bright orange or yellow spots. It has a long siphon that sticks out above the sand when the animal is buried.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
+
 **What does it eat?**
+
 This predator eats molluscs seeking out buried prey with its siphon and encloses the prey in its huge foot then waits. When the exhausted bivalve opens up to breathe (which can take several days!), the snail sticks its proboscis in and rasps the flesh of its prey with its radula. While it may hunt from the surface, it often burrows to eat their prey under the sand.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
 {% include img-wrap-group.html items=page.galleries.gallery4 %}
 {% include img-wrap-group.html items=page.galleries.gallery5 %}
+
 **Baby nobles:**
+
 Mama noble volutes lay large egg capsules. Each capsule about 10cm long, oval with angular bumps, translucent white to beige or yellowish. The capsules are usually stacked up to form a cylindrical, generally oval shape and the entire assembly attached to a hard, embedded object such as coral rubble. Each capsule contains many eggs, but only one or a few develop, the survivor having eaten the others. The eggs hatch and undergo metamorphosis within the egg capsules, emerging as tiny crawling snails. Because there
 is no free-swimming larval stage the snail has a restricted range and local populations can be wiped out by over-collection.
 
@@ -159,6 +160,7 @@ is no free-swimming larval stage the snail has a restricted range and local popu
 Called 'kilah' in Malay, the Noble volute is edible. It is also 'often collected for its attractive shell.
 
 **Status and threats:**
+
 The Noble volute is listed as 'Vulnerable' on the Red List of threatened animals of Singapore due to habitat loss. It was previously abundant in Singapore but is now considered vulnerable due to habitat degradation and overcollection for food and for its attractive shell.
 Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Over-collection can also have an impact on local populations.
 
@@ -166,11 +168,9 @@ Like other creatures of the intertidal zone, they are affected by human activiti
 
 **Noble volutes on Singapore shores**
 
-On
-[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+On [wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
 
-- [Photos](https://www.flickr.com/search/?user_id=54527470%40N00&view_all=1&text=Cymbiola%20nobilis&sort=date-taken-desc)
-for free download
+- [Photos](https://www.flickr.com/search/?user_id=54527470%40N00&view_all=1&text=Cymbiola%20nobilis&sort=date-taken-desc) for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Cymbiola%2520nobilis/map?&fLat=1.202&fLon=103.7828&zl=14&order_by=recent)
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Tunicates and Sea squirts (Ascidiacea) on Singapore shores: photo index"
+title: Photo index of ascidians on Singapore shores
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
@@ -9,8 +9,6 @@ layout: default
 ascidians [text index](ascidiaceaindex)
 | Phylum Chordata
 | Subphylum Tunicata/Urochordata | Class [Ascidiacea](ascidiacea)
-
-# Photo index of ascidians on Singapore shores
 
 ![](polycarpa/050510tusg6134m.jpg)  
 [Thumbs-up sea squirt](polycarpa) *Polycarpa* sp.

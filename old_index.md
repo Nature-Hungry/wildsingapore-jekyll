@@ -1,11 +1,10 @@
 ---
-title: "Wild Fact Sheets of marine life on Singapore shores"
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "index, flora, fauna, animal, plant, guide, biology, ecology, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 
 grid_items:
-  - img: assets/images/photos/whazzat.jpg
+  - img: https://f003.backblazeb2.com/file/naturehungry/whazzat.jpg
     alt: Photo Index
     url: /wildfacts/photoindex/
     label: Photo Index
@@ -20,7 +19,7 @@ grid_items:
     url: /redlist/
     label: The Singapore Red List
 
-  - img: assets/images/photos/fornatureguides.jpg
+  - img: https://f003.backblazeb2.com/file/naturehungry/fornatureguides.jpg
     alt: For Nature Guides
     url: /wildfacts/forguides/
     label: For Nature Guides

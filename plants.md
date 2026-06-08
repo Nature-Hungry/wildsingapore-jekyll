@@ -1,11 +1,10 @@
 ---
-title: "Seagrasses and seaweeds on Singapore shores: text index"
+title: "Plants on This Website"
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "index, plants, seagrass, seaweed, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
 
-# Plants on This Site  
 don't know the name of the plant? Try the [photo index of lifeforms](photoindex)   
 
 # Intertidal and Marine Plants

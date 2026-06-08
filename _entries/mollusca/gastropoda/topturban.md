@@ -49,7 +49,7 @@ galleries:
 **Top or Turban?**
 
 These two kinds of snails are commonly encountered on our rocky shores. Here's how to tell them apart.
-**
+
 
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
