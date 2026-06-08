@@ -6,6 +6,12 @@ keywords: snail, mollusca, gastropod, anemone, paraiptasia, radiata, aiptasiidae
   intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
+- 129
+- 130
+- 133
+- 153
+- 150
+- 143
 - 6
 - 88
 family: Aiptasiidae
@@ -20,6 +26,8 @@ subclass: Hexacorallia
 order: Actiniaria
 suborder: Enthemonae
 superfamily: Metridioidea
+summary: 1cm. On living snails. Many long thin tentacles. Body brown with pale stripes.
+  On shells of living snails. Sometimes seen on some of our shores.
 updated: Dec 2024
 coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/snail/080507skdd2382m3.jpg
 galleries:
@@ -92,6 +100,11 @@ size:
 - 1.0
 - 1.5
 rdb: LC
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

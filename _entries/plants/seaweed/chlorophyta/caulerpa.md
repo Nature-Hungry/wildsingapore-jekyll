@@ -183,6 +183,11 @@ location:
 - tpg
 - smk
 - tsm
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -200,7 +205,8 @@ According to
 *Caulerpa*
 species.
 
-**Human uses:**
+## Human uses
+
 Caulerpa species are among those grown for human consumption. These include
 *[Caulerpa lentillifera](lentillifera)*
 . However, some

@@ -61,6 +61,11 @@ links_references: "**Links**\n- [Order Isopoda](http://mangrove.nus.edu.sg/pub/s
   \ of Australian Waters*\n. Reed New Holland. 224 pp.\n"
 size:
 - 1.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -72,7 +77,7 @@ sp.) or sometimes called sea cockroaches although they are not insects and look 
 
 **What are isopods?**
 They are
-[crustaceans](../../crustacea)
+[crustaceans](/wildfacts/guides/crustacea/crustacea)
 like crabs and prawns. There are about 4,000 described species of isopods that live in the sea. Some are found in freshwater, and some are terrestrial (these are usually called wood lice or pill bugs). Most marine isopods are tiny (5-15mm long). But one deep sea isopod
 *Bathynomus giganteus*
 can grow to 40cm long! Many may be parasites on other marine creatures.

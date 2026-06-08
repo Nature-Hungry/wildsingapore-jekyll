@@ -112,6 +112,11 @@ size:
 - 33.0
 - 8.0
 - 12.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -124,7 +129,8 @@ Grows to about 33cm, but those seen were 8-12cm. The nasal organ has a pair of e
 {% include img-wrap-group.html items=page.galleries.gallery1 %}**What does it eat?**
 When small it feeds mostly on detritus, as it grows, it transitions to a diet of animals that live on the ground.
 
-**Human uses:**
+## Human uses
+
 Although it is toxic (gonad, liver, flesh and skin), it is considered a delicacy in Japan.
 
 ---

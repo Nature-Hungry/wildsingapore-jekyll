@@ -93,6 +93,11 @@ location:
 size:
 - 60.0
 - 20.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -122,7 +127,8 @@ commonly seen.
 **What does it eat?**
 The Indian halibut hunts mainly other fishes on the muddy and sandy bottom. During the day it lies deeply buried in the sand and it only comes out at night.
 
-**Human uses:**
+## Human uses
+
 It is harvested for the food trade and sold fresh, frozen or smoked. In some places it is processed into fish flour.
 
 ---

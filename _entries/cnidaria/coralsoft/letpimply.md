@@ -111,6 +111,11 @@ location:
 size:
 - 20.0
 - 40.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

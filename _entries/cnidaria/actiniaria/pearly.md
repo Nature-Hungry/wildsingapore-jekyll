@@ -6,6 +6,12 @@ keywords: pearly, anemone, anthozoa, cnidaria, actiniidae, paracondylactis, sine
   fact sheet, info, photo
 layout: entry
 attributes:
+- 129
+- 130
+- 133
+- 153
+- 150
+- 143
 - 5
 - 6
 - 88
@@ -92,6 +98,11 @@ size:
 - 5.0
 - 8.0
 rdb: DD
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

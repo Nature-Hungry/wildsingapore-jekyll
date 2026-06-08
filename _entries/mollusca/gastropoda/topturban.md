@@ -44,6 +44,11 @@ galleries:
     caption: Spotted top shell snail
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/niloticus/120818lazs02354m3.jpg
     caption: Giant top shell snail
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 **Top or Turban?**

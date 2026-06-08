@@ -22,15 +22,6 @@ superfamily: Gonodactyloidea
 updated: Mar 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/spearer/050707cftg9086m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They resemble familiar prawns
-      and shrimps, but belong to a totally different group. Mantis shrimp can hurt
-      you. Don't touch them! They have pincers modified into fearsome weapons.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They resemble familiar prawns and shrimps, but belong to a totally different
-      group. Mantis shrimp can hurt you. Don't touch them! They have pincers modified
-      into fearsome weapons.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/spearer/050707cftg9086m3.jpg
     caption: Changi, Jul 05
@@ -105,9 +96,17 @@ links_references: '**Links**
 size:
 - 10.0
 - 30.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They resemble familiar prawns and shrimps, but belong to a totally different group
+- Mantis shrimp can hurt you. Don't touch them! They have pincers modified into fearsome
+  weapons.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 These large and busy shrimp-like animals are often seen on our Northern shores, especially among seagrasses.
@@ -152,7 +151,8 @@ on
 [Image Quest 3-D Marine Library](http://www.imagequest3d.com/catalogue/larvalforms/)
 .
 
-**Human uses:**
+## Human uses
+
 Mantis shrimp are said to be edible but not worth collecting commercially because they hard to catch. Their solitary and anti-social nature makes them impossible to farm. They are also not popular for the aquarium trade as they are ferocious predators. Smashers also can damage aquariums. However, mantis shrimp in the wild are attractive subjects for divers and other visitors to marine habitats.
 
 **Status and threats:**

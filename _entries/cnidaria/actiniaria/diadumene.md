@@ -5,6 +5,12 @@ keywords: banded, bead, anemone, anthozoa, cnidarian, field, guide, seashore, se
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
+- 129
+- 130
+- 133
+- 153
+- 150
+- 143
 - 6
 - 88
 family: Diadumenidae
@@ -19,6 +25,9 @@ subclass: Hexacorallia
 order: Actiniaria
 suborder: Enthemonae
 superfamily: Metridioidea
+summary: Less than 0.5cm, at low tide, a tiny blob with fine stripes in white, orange,
+  yellow or red. Among barnacles, on jetty legs and other hard surfaces. Commonly
+  seen on our Northern shores.
 updated: Jul 2024
 coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/diadumene/070718cjg1646m3a.jpg
 galleries:
@@ -88,6 +97,11 @@ location:
 size:
 - 0.5
 rdb: LC
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

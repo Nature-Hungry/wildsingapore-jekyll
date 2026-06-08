@@ -108,6 +108,11 @@ location:
 size:
 - 8.0
 - 20.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -122,7 +127,8 @@ These seaweeds may be
 species or
 *Kappaphycus*
 species both of the Family Solieriaceae.
-**Human uses:**
+## Human uses
+
 *Eucheuma*
 and
 *Kappaphycus*

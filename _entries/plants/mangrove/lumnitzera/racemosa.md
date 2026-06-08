@@ -106,6 +106,10 @@ links_references: '**Links**
 size:
 - 800.0
 rdb: EN
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
 ---
 
 ## Where seen?
@@ -135,7 +139,8 @@ and
 *L. racemosa*
 practically exclude each other in habitat and have never been collected in exactly the same stand. The exact cause of this different ecological behaviour is not yet known.
 
-**Human uses:**
+## Human uses
+
 According to Burkill, the timber has similar properties as that of
 [Teruntum merah](littorea)
 (

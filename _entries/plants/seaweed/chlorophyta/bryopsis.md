@@ -27,17 +27,6 @@ tribe: Bryophilini
 updated: Oct 2016
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... There may be different forms
-      of this seaweed from hairy to feathery. Take a closer look. Avoid stepping on
-      the green carpet of hairy seaweeds. It's slippery and animals live among the
-      seaweeds. Tiny animals are often found in this seaweed. Look for them.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: There may be different forms of this seaweed from hairy to feathery.
-      Take a closer look. Avoid stepping on the green carpet of hairy seaweeds. It's
-      slippery and animals live among the seaweeds. Tiny animals are often found in
-      this seaweed. Look for them.
   gallery2:
   - url: http://www.wildsingapore.com/worm/polychaeta/giant/040410sisbd0011m3.jpg
     caption: A Giant reef worm snatching a mouthful of seaweed back into its lair.
@@ -152,9 +141,20 @@ location:
 size:
 - 6.0
 - 8.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- There may be different forms of this seaweed from hairy to feathery
+- Take a closer look
+- Avoid stepping on the green carpet of hairy seaweeds
+- It's slippery and animals live among the seaweeds
+- Tiny animals are often found in this seaweed
+- Look for them.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 This green seaweed is commonly seen on many of our shores, attached to coral rubble. Sometimes in small clumps on sandy areas too. It seems to be seasonally abundant, especially on our Southern shores. At times, vast areas of the intertidal zone may be blanketed in a thick green carpet of this seaweed which disappear after a few weeks. These blooms are suspected to be related to high nutrient concentrations. It is reported that this seaweed can tolerate low salinities.
@@ -177,7 +177,7 @@ similar green seaweeds such as
 sp.) and small turfing species of
 *Cladophoropsis*
 .
-**Role in the habitat:**
+## Role in habitat
 Although some Bryopsis species produces chemicals to defend against herbivores, when hairy green seaweeds are abundant on the shores, there is also an abundance of some sea slugs such as the
 [Leaf slug](../../../mollusca/slugs/sacoglossa/ornata)
 (
@@ -187,7 +187,7 @@ Although some Bryopsis species produces chemicals to defend against herbivores, 
 (
 *Placida dendritica*
 ).These sap-sucking slugs probably eat the seaweed. Sometimes, the seaweed is thick with tiny little
-[beachfleas](../../../crustacea/othercrust/amphipoda/amphipoda)
+[beachfleas](..//wildfacts/guides/crustacea/crustacea/othercrust/amphipoda/amphipoda)
 (Order Amphipoda). We have also seen the
 [Giant reef worm](../../../worm/polychaeta/giant)
 (

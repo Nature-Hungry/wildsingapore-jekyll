@@ -84,7 +84,11 @@ links_references: '**Links**
 size:
 - 300.0
 - 500.0
-rdb: Lc
+rdb: LC
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- terrestrial
 ---
 
 ## Where seen?
@@ -108,7 +112,8 @@ and
 *[Nacaduba pavana singapura](http://www.butterflycircle.com/checklist%20V2/CI/index.php/start-page/startpage/showbutterfly/192)*
 .
 
-**Human uses:**
+## Human uses
+
 According to Giesen, the wood is not considered of good quality and only used for roofing and sometimes as firewood. According to Selvan, the wood was used to make bows. The fruits are edible and according to Selvam, tastes "very sweet". The leaves are used as a mouthwash, to treat fractures, relieve rashes. The roots are used to treat diarrhoea.
 
 ![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/allophylus/cobbe/091005cjd2099m3.jpg)

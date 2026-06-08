@@ -111,6 +111,11 @@ size:
 - 50.0
 - 15.0
 rdb: LC
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -123,7 +128,8 @@ To about 50cm, those seen on the intertidal about 15cm. Like other members of th
 **What does it eat?**
 It eats mainly crustaceans and snails and clams, but also eats considerable quantities of echinoderms, worms and fishes.
 
-**Human uses:**
+## Human uses
+
 It is valued as seafood.
 
 ---

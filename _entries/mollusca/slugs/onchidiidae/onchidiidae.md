@@ -23,15 +23,6 @@ superfamily: Onchidioidea
 updated: Jun 2020
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Onchs are very well camouflaged.
-      Don't step on them! Onchs graze on alge on the rock, see the bare patches on
-      the rock? They are snails without shells, and hermaphrodites.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Onchs are very well camouflaged. Don't step on them! Onchs graze on alge
-      on the rock, see the bare patches on the rock? They are snails without shells,
-      and hermaphrodites.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/smooth/050527srbg7003m3.jpg
     caption: Pulau Sarimbun, May 05
@@ -164,9 +155,17 @@ links_references: '**Links**
 size:
 - 1.0
 - 5.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Onchs are very well camouflaged
+- Don't step on them! Onchs graze on alge on the rock, see the bare patches on the
+  rock? They are snails without shells, and hermaphrodites.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Onch slugs are common on all our shores, on algae-covered rocks or other hard surfaces, or on mud in mangroves or mangrove tree roots. But they are often well hidden especially on a hot day, or well camouflaged even when moving about in the open.

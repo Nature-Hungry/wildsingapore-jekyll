@@ -6,6 +6,12 @@ keywords: cork, screw, corkscrew, tentacle, anemone, macrodactyla, heteractis, d
   intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
+- 129
+- 130
+- 133
+- 153
+- 150
+- 143
 - 6
 - 88
 - 113
@@ -147,6 +153,11 @@ size:
 - 50.0
 - 20.0
 - 30.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -173,7 +184,7 @@ and
 The anemone harbours symbiotic single-celled algae (called zooxanthellae). The algae undergo photosynthesis to produce food from sunlight. The food produced is shared with the anemone, which in return provides the algae with shelter and minerals. The zooxanthellae are believed to give tentacles their brown or greenish tinge.
 
 Several kinds of animals have been associated with snaky anemones including
-[anemone shrimps](../../crustacea/othercrust/shrimp/palaemonidae)
+[anemone shrimps](/wildfacts/guides/crustacea/crustacea/othercrust/shrimp/palaemonidae)
 (
 *Periclimenes*
 sp.) and
@@ -186,7 +197,8 @@ sp.) including
 *A. percula, A. perideraion, A. polymnus*
 (juvenile and adult). But these are rarely observed on the Snaky anemones seen on the intertidal during low tide.
 
-**Human uses:**
+## Human uses
+
 Unfortunately, these beautiful animals are harvested from the wild for the live aquarium trade, although they are difficult to maintain in captivity.
 ****
 **Status and threats:**

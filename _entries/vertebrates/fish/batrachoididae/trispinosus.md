@@ -24,15 +24,6 @@ order: Batrachoidiformes
 updated: Sep 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/batrachoididae/trispinosus/050526cjg6754m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: 'if you learn only 3 things about them ... They are ambush predators;
-      lurking in hiding for passing prey. They can croak like a toad. But don''t touch,
-      they may bite! Hard to spot: they resemble stones. So watch your step!'
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: 'They are ambush predators; lurking in hiding for passing prey. They
-      can croak like a toad. But don''t touch, they may bite! Hard to spot: they resemble
-      stones. So watch your step!'
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/batrachoididae/trispinosus/050526cjg6754m3.jpg
     caption: Huge eyes often the first sign of the fish hidden under stones. Chek
@@ -202,9 +193,18 @@ size:
 - 10.0
 - 20.0
 - 30.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They are ambush predators; lurking in hiding for passing prey
+- They can croak like a toad
+- 'But don''t touch, they may bite! Hard to spot: they resemble stones'
+- So watch your step!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 These bottom-dwelling fishes are commonly seen on all our shores but often overlooked. Skulking under stones, near coral rubble, or half covered in sand and sediments, they are hard to spot. Even out in the open, they look like algae-covered stones.
@@ -247,7 +247,8 @@ A sluggish fish that swims poorly, the toadfish is an ambush predator. It waits 
 **Baby toadfishes:**
 According to the Encyclopedia of Life, males call mates to their nest with croaking, hooting, grunting and humming sounds they make using their swim bladder; toadfish also make (different) noises when threatened. In some species, male looks after the eggs after they are laid in the nest on on ceilings of narrow or low overhangs of rock or rubble. The male protects the embryos until they are self-sufficient, about 3-4 weeks. WE have observed an adult toadfish with many tiny fishes under the shelter of a rock.
 
-{% include img-wrap-group.html items=page.galleries.gallery3 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery3 %}## Human uses
+
 ****
 In some places, members of this family are considered edible delicacies. It is also sold in the live aquarium trade.
 

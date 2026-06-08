@@ -108,6 +108,10 @@ size:
 - 500.0
 - 2000.0
 rdb: EN
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
 ---
 
 ## Where seen?
@@ -125,7 +129,8 @@ Compound leaf comprising 2-3 pairs of leaflets (4-12cm long) that are oblong wit
 
 Flowers tiny white to pinkish in clusters on an inflorescence. Fruit oval (not globular) (8-12cm in diameter) containing 5-10 seeds.
 
-{% include img-wrap-group.html items=page.galleries.gallery2 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery2 %}## Human uses
+
 According to Giesen, the timber is moderately light and soft, but strong and seasons well. It is used in construction of houses and boats. In Java, also for the handles of traditional daggers called 'kris'. It is also used as firewood. Traditional medicinal uses include the seeds for treating stomachaches, fruits to increase appetite, bark tannin for intestinal lailments. The bark is also used to tan fishing nets.
 
 **Status and threats:**

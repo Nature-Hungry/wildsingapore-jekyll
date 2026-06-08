@@ -26,15 +26,6 @@ superfamily: Grapsoidea
 updated: Dec 2019
 coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/metopograpsus/101224sisd4109m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... These crabs have long pointy
-      legs to cling to and scramble over rocks. They have a flat body to slip through
-      narrow crevices. They are very shy and disappear at the slightest sign of trouble.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: These crabs have long pointy legs to cling to and scramble over rocks.
-      They have a flat body to slip through narrow crevices. They are very shy and
-      disappear at the slightest sign of trouble.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/metopograpsus/101224sisd4109m3.jpg
     caption: Purple climber crab
@@ -112,9 +103,17 @@ location:
 size:
 - 4.0
 - 6.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- These crabs have long pointy legs to cling to and scramble over rocks
+- They have a flat body to slip through narrow crevices
+- They are very shy and disappear at the slightest sign of trouble.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Small grapsid crabs are commonly seen on many of our rocky shores and mangroves, especially at night. They are among the colourful crabs you might see even at high tide. But they are more active at night and fast moving. During the day, you will rarely see more than a purplish hairy leg peeking out from a crevice! The larger species are sometimes seen on the offshore Southern Islands.

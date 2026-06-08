@@ -5,6 +5,12 @@ keywords: star, anemone, actiniaria, cnidria, field, guide, seashore, sea, shore
   marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
+- 129
+- 130
+- 133
+- 153
+- 150
+- 143
 - 6
 - 67
 - 88
@@ -46,6 +52,11 @@ location:
 size:
 - 4.0
 - 5.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

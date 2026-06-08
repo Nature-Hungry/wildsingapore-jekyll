@@ -74,6 +74,11 @@ size:
 - 23.0
 - 8.0
 rdb: DD
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -88,7 +93,8 @@ To about 23cm, the one seen about 8cm long. Head and body white. It is identifie
 **What does it eat?**
 It is said to feed on algae, crustaceans and other invertebrates during the day.
 
-**Human uses:**
+## Human uses
+
 It is considered a food fish in Hawaii.
 
 ---

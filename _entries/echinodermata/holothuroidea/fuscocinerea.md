@@ -130,6 +130,11 @@ size:
 - 15.0
 - 20.0
 rdb: VU
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -143,7 +148,8 @@ looks very similar. Teo Siyang, Lionel Ng and Loh Kok Sheng have identified it a
 *Fuscocinerea*
 ' suggests 'dark' and 'ashy' and indeed, the sea cucumber does look like it has been rolled in ash. Upperside generally pale pink or beige with irregular dark blotchy bars or blobs along the length. Small dark-circled white spots all over the upperside, with tiny spiky protrusions in the centre of the white spots. Anus is distinctly ringed with dark brown or dark purple. Mouth facing down with 20 large feeding tentacles short white with bushy tips. When disturbed, it readily releases from its backside, many very thick sticky white cylindrical tubes called Cuvierian tubules.
 
-**Human uses:**
+## Human uses
+
 It is listed among the commercially important sea cucumbers of the world. This species does not have a commercial value in the western central Pacific; however, it is of commercial importance in China, Malaysia and the Philippines. In China, it is of low commercial importance. It is exploited in a multispecies fishery in Sri Lanka.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

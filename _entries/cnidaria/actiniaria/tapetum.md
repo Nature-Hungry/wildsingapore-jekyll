@@ -5,6 +5,12 @@ keywords: tinycarpet, anemone, stichodactyla, tapetum, field, guide, seashore, s
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
+- 129
+- 130
+- 133
+- 153
+- 150
+- 143
 - 6
 - 88
 - 102
@@ -78,6 +84,11 @@ size:
 - 2.0
 - 6.0
 rdb: LC
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

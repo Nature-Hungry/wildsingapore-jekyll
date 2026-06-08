@@ -24,15 +24,6 @@ order: Atheriniformes
 updated: Sep 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/atherinidae/duodecimalis/140810smksd8112m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They are slender and silvery,
-      often bluish. They feed on tiny animals in the water (not on the sea bottom).
-      They are important prey for larger fishes and sea birds.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They are slender and silvery, often bluish. They feed on tiny animals
-      in the water (not on the sea bottom). They are important prey for larger fishes
-      and sea birds.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/atherinidae/duodecimalis/140810smksd8112m3.jpg
     caption: Pulau Semakau, Aug 14
@@ -181,9 +172,17 @@ location:
 size:
 - 3.0
 - 10.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They are slender and silvery, often bluish
+- They feed on tiny animals in the water (not on the sea bottom)
+- They are important prey for larger fishes and sea birds.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 These flashy little fishes are commonly seen on many of our Southern shores, near living reefs. Usually in groups of small numbers, zipping about near the water surface, especially at night. Sometimes, large schools are seen from a boardwalk. In our mangroves, they may school in the hundreds and sometimes seen leaping out of the water to escape underwater prey.
@@ -211,7 +210,8 @@ other small silvery fishes. More on
 **What do they eat?**
 Many feed on zoo plankton or other tiny creatures that live in the water column (as opposed to on the sea bottom). Being so numerous, they are important prey for other larger fishes, other marine life and sea birds.
 
-{% include img-wrap-group.html items=page.galleries.gallery4 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery4 %}## Human uses
+
 Only a few species of this Family are large enough to be valuable as human food. Smaller ones maybe used as bait or pet food.
 
 **Species are difficult to positively identify without close examination.

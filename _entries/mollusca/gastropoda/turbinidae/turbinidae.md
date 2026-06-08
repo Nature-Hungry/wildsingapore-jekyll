@@ -19,14 +19,6 @@ superfamily: Trochoidea
 updated: Oct 2019
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... The thick, chalky operculum
-      resembles a cat's eye. The pretty shell is often hidden under encrusting growths.
-      Some are threatened by over-collection.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: The thick, chalky operculum resembles a cat's eye. The pretty shell is
-      often hidden under encrusting growths. Some are threatened by over-collection.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/intercostalis/111002sisd2101m3.jpg
     caption: Sisters Island, Oct 11
@@ -158,9 +150,17 @@ location:
 size:
 - 3.0
 - 5.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- The thick, chalky operculum resembles a cat's eye
+- The pretty shell is often hidden under encrusting growths
+- Some are threatened by over-collection.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 These tough snails are commonly seen on many of our rocky shores including on man-made sea walls. Smaller ones are also found under stones. Turban shells are not as well adapted to dry condictions as the
@@ -187,7 +187,8 @@ the
 **What do they eat?**
 Turban shells graze the algae that thrive on the rocks, scraping this off with their radula.
 
-**Human uses:**
+## Human uses
+
 In our region, the larger turban snails are collected for food and their mother-of-pearl shell. The large Giant green turban snail (
 *Turbo mamoratus*
 ) is collected for food and its shell carved into ornaments and jewellery. In recent years, heavy commercial exploitation has depleted local populations.

@@ -83,6 +83,11 @@ size:
 - 10.0
 - 15.0
 - 30.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -92,7 +97,8 @@ This long stick-like fish with a short, blunt lower jaw is sometimes seen on our
 
 Those seen about 10-15cm, can grow to 30cm long. Body cylindrical, silvery, sometimes bright blue. The lower jaw is not as elongated as those in other halfbeaks and has a reddish tip. Dorsal fin has black edges. Tail fin is forked.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
-**Human uses:**
+## Human uses
+
 It is marketted fresh and dried salted.
 
 **Species are difficult to positively identify without closer examination.

@@ -81,6 +81,11 @@ location:
 size:
 - 2.0
 - 4.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -101,7 +106,8 @@ other fan-shaped green seaweeds. Here's more on
 [how to tell apart fan-shaped green seaweeds](cffan)
 .
 
-**Human uses:**
+## Human uses
+
 Some species have anti-bacterial and anti-tumor properties.
 
 ![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/udotea/101008tusd1766m3.jpg)

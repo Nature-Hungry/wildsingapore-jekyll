@@ -98,6 +98,11 @@ location:
 size:
 - 30.0
 rdb: EN
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -109,7 +114,8 @@ To about 30cm. Golden brown to orange body with diagonal blue lines on the sides
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**
 It eats sponges, ascidians and zooplankton.
-**Human Uses:**
+## Human uses
+
 This fish is unfortunately harvested from the wild for the live aquarium trade.
 
 **Status and threats:**

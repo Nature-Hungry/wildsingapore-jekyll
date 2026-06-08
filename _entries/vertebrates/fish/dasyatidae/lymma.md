@@ -181,6 +181,11 @@ size:
 - 15.0
 - 20.0
 rdb: VU
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -199,7 +204,8 @@ The ray moves into shallow sandy areas with the rising tide to forage for snails
 **Fantail ray babies:**
 The ray gives birth to live young.
 
-{% include img-wrap-group.html items=page.galleries.gallery3 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery3 %}## Human uses
+
 This stingray is harvested commercially as seafood. It is also considered an important gamefish for recreational fishermen. Small specimens are also taken for the aquarium trade, although they don't do well in captivity.
 
 **Status and threats:**

@@ -156,6 +156,11 @@ links_references: "**Links**\n- [TeamSeagrass\n  blog](http://teamseagrass.blogs
   \  Encyclopedia of Malaysia (Vol. 6): The Seas*\n  Didier Millet, Malaysia. 144\
   \ pp.\n- Hsuan Keng,\n  S.C. Chin and H. T. W. Tan.1998, *The\n  Concise Flora of\
   \ Singapore II: Monoctyledons*\n  Singapore University Press. 215 pp.\n"
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
   

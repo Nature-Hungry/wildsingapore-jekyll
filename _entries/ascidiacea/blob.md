@@ -1,12 +1,20 @@
 ---
-title: 'Blob ascidians (Ascidiacea)'
+title: Blob ascidians (Ascidiacea)
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: blob, ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: blob, ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 updated: Nov 2019
 phylum: Chordata
 subphylum: Tunicata
 class: Ascidiacea
+attributes:
+- 130
+- 131
+- 139
+- 150
+- 129
 coverimg: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/blob/091203ubnd4985m3.jpg
 galleries:
   gallery1:
@@ -29,6 +37,11 @@ location:
 size:
 - 5.0
 - 10.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

@@ -78,6 +78,10 @@ galleries:
       3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
       Volume 1: 1-1240; volume 2: 1241-2444.'
 rdb: LC
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- terrestrial
 ---
 
 ## Where seen?
@@ -91,10 +95,11 @@ and
 
 A strangling fig that can grow into enormous trees. Young saplings often grow in cracks in old drains and walls and on delapidated buildings. They can grow into large trees with stout prop roots and a curtain of slender aerial roots. According to Corners, those growing on rocky shores which are constantly exposed to wind and salty spray are often "dwarfed into creeping bushes with gnarled branches, growing flat along the rocks". Whereas in town, the tree "gets out of hand and attacks many roadside trees" giving Fort Canning as an example. The oval leaves are small (5-7cm), smooth and leathery. The figs are round and small (about 1cm) and ripens dark pink to deep purple.
 
-**Role in the habitat:**
+## Role in habitat
 A figging Jejawi attracts a whole range of creatures from fruit eating birds of all kinds to squirrels and long-tailed macaques.
 
-**Human uses:**
+## Human uses
+
 According to Burkill, in India, various parts of the tree are used to treat wounds, bruises, headaches and other ailments.
 
 ![](https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/microcarpa/091005cjd2233m6l.jpg)

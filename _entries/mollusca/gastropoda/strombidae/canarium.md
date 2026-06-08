@@ -30,16 +30,6 @@ links_references: "**Links**\n- [Dog\n  conch (*Strombus canarium*)](http://www.
   \ *A\n  Guide to the Common Seashells of Singapore*. Singapore\n  Science Centre.\
   \ 160 pp.\n- Abbott, R.\n  Tucker, 1991. *Seashells\n"
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: 'if you learn only 3 things about them ... A lively snail that hops instead
-      of creeping along the surface. Many of its features are adaptations to this
-      hopping lifestyle: flared shell, large eyes. It is edible, but who could eat
-      such a cute little snail!'
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: 'A lively snail that hops instead of creeping along the surface. Many
-      of its features are adaptations to this hopping lifestyle: flared shell, large
-      eyes. It is edible, but who could eat such a cute little snail!'
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/canarium/041114kusd8273m3.jpg
     caption: Kusu Island, Nov 04
@@ -126,9 +116,20 @@ size:
 - 6.0
 - 7.0
 - 10.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- A lively snail that hops instead of creeping along the surface
+- 'Many of its features are adaptations to this hopping lifestyle: flared shell, large
+  eyes'
+- It is edible, but who could eat such a cute little snail!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?
+## Where seen?
 This delightful 'fat' little conch snail is often seen on many of our shores, on silty and sandy areas with good seagrass growths. Although large, these snails are well camouflaged. It was previously known as
 *Strombus canarium*
 . 'Canarium' means 'dog' in Latin, and it is sometimes also called the Dog conch.
@@ -142,7 +143,8 @@ Gong-gong may gather in groups to mate and lay eggs - in fine long strings. Fema
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
 {% include img-wrap-group.html items=page.galleries.gallery4 %}
-**Human uses:**
+## Human uses
+
 Where common it is commercially harvested for food in many parts of Southeast Asia. In the Philippines, the shells are traditionally used by fishermen as sinkers for nets.
 
 **Status and threats:**

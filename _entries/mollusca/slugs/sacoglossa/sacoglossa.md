@@ -96,6 +96,11 @@ links_references: "**Links**\n- [The Sea Slug Forum](http://www.seaslugforum.net
   \ 497pp.\n- Kuiter, Rudie H and Helmut Debelius. 2009.\n*World Atlas of Marine Fauna*\n\
   . IKAN-Unterwasserachiv. 723pp.\n- Wee Y.C. and Peter K. L. Ng. 1994.\n*A First\
   \ Look at Biodiversity in Singapore*\n. National Council on the Environment. 163pp.\n"
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

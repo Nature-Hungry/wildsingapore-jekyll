@@ -21,15 +21,6 @@ superfamily: Arcoidea
 updated: May 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/arcidae/anadara/050607chgg7280m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... It is an ingredient in laksa
-      and char kuay teow, favourite local dishes. Its body is red because it has haemoglobin
-      just like us. It can cause cholera, hepatitis A and food poisoning.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: It is an ingredient in laksa and char kuay teow, favourite local dishes.
-      Its body is red because it has haemoglobin just like us. It can cause cholera,
-      hepatitis A and food poisoning.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/arcidae/anadara/050607chgg7280m3.jpg
     caption: Changi, Jun 05
@@ -114,9 +105,19 @@ location:
 size:
 - 3.0
 - 4.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- It is an ingredient in laksa and char kuay teow, favourite local dishes
+- Its body is red because it has haemoglobin just like us
+- It can cause cholera, hepatitis A and food poisoning.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?
+## Where seen?
 This robust little clam is still commonly seen on some parts of our Northern shores, particularly on silty sand.
 'See-hum' is what locals call it. They are now no longer as common as they used to be in the past. Those sold in our markets and restaurants come mostly from Malaysia.
 
@@ -131,7 +132,8 @@ The tiny Pea crab (
 sp.) is sometimes found living inside these bivalves.
 The crab not only gains shelter but also eats some of the food gathered by the host clam.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
-**Human uses:**
+## Human uses
+
 'See-hum' is relished in many local favourites such as char kway teow and laksa. However, they may be affected by
 [red tide and other harmful algal blooms](../../../plants/seaweed/redtide)
 . They are also linked to cholera, hepatitis A and dysenteric shellfish poisoning. 'See-ham' is farmed in some places for sale as seafood. In Malaysia, it is a major mollusc that is marketed with an annual catch exceeding 75,000 metric tons.

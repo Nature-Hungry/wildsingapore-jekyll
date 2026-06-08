@@ -78,6 +78,11 @@ location:
 size:
 - 10.0
 - 20.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -95,7 +100,8 @@ cf.
 ) which look similar but are blue, green or lilac. Also similar to
 [Smooth green sponge](smoothgreen)
 which is not as smooth has has a texture of tiny bumps.
-**Human uses:**
+## Human uses
+
 The sponge is sticky when crushed and fishermen in Micronesia use this sponge to caulk (waterproof) their canoes.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

@@ -115,6 +115,10 @@ links_references: '**Links**
 size:
 - 600.0
 - 1500.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- terrestrial
 ---
 
 ## Where seen?
@@ -124,7 +128,8 @@ This beautiful tree was formerly common on the coast including Changi, Siglap, J
 
 The tree grows to 6-15m tall. The compound leaves appear in two rows, each heart-shaped leaflet is shiny, dark green and thinly leathery. The flowers look like those of bean plants, and are lilac, appearing in bunches on a stalk. Tiny insects seem attracted to the flowers. Fruits are flat bean-like pods that are somewhat oval with a little beak at the tip, appearing in bunches. Each pod contains one seed.
 
-**Human uses:**
+## Human uses
+
 The leaves are fed to livestock. The bark is used to make string and rope. Although the seeds are poisonous, an oil extracted from them (called Pongamol or hongay oil) is used for lighting, to manufacture soap and candles, and in medicinal uses. The roots and seeds are used as a fish poison in Australia and Indonesia. Various parts of the trees are also used in traditional medicine.. According to Tomlinson and Giesen, the tree is often planted as a shade tree along roads, but Corners says it is rarely planted in Malaya.
 
 **Status and threats:**

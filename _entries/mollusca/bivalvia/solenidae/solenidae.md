@@ -22,16 +22,6 @@ superfamily: Solenoidea
 updated: May 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/solenidae/solenidae/040120cjd0014m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... On one end is the long siphon,
-      and the other a strong muscular foot. The thin flexible shell allows it to slip
-      easily into the sand. They are rapid burrowers. Let's put this one down and
-      see how fast it can burrow.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: On one end is the long siphon, and the other a strong muscular foot.
-      The thin flexible shell allows it to slip easily into the sand. They are rapid
-      burrowers. Let's put this one down and see how fast it can burrow.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/solenidae/solenidae/040120cjd0014m3.jpg
     caption: Razor clam ( Solen brevisiima ) Foot burrowing in (left) and siphon extended
@@ -79,9 +69,18 @@ location:
 - skd
 - tm
 - ecp
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- On one end is the long siphon, and the other a strong muscular foot
+- The thin flexible shell allows it to slip easily into the sand
+- They are rapid burrowers
+- Let's put this one down and see how fast it can burrow.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 These almost cylindrical clams can move surprisingly quickly and are rarely seen as they are usually buried in the sand. They are sometimes seen above ground on the undisturbed sandy shores near seagrass areas on our northern shores. They are adapted for burrowing deeply in soft bottoms.
@@ -91,7 +90,8 @@ These almost cylindrical clams can move surprisingly quickly and are rarely seen
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**What do they eat?**
 Like other bivalves, razor clams are filter feeders. The buried clam sticks its long siphon out to the surface. When submerged, it sucks in a current of water through the siphon. It uses its enlarged gills to sieve food particles out of this current.
-**Human uses:**
+## Human uses
+
 Larger razor shells are edible and are collected as food. Like other filter-feeding clams, however, razor clams may be affected by
 [red tide and other harmful algal blooms](../../../plants/seaweed/redtide)
 . Such clams can then be harmful to eat.

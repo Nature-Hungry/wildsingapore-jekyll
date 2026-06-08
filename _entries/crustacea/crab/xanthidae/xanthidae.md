@@ -26,15 +26,6 @@ superfamily: Xanthoidea
 updated: Dec 2019
 coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/pictor/070615sntrg0276m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... These colourful crabs are poisonous
-      to eat! Their toxins are NOT destroyed by cooking. They are generally secretive
-      and slow-moving. They are not venomous but it's best not to touch them.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: These colourful crabs are poisonous to eat! Their toxins are NOT destroyed
-      by cooking. They are generally secretive and slow-moving. They are not venomous
-      but it's best not to touch them.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/pictor/070615sntrg0276m3.jpg
     caption: The Mosaic reef crab is the most poisonous crab on our shores. Sentosa,
@@ -103,9 +94,19 @@ location:
 size:
 - 5.0
 - 10.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- These colourful crabs are poisonous to eat! Their toxins are NOT destroyed by cooking
+- They are generally secretive and slow-moving
+- They are not venomous but it's best not to touch them.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?
+## Where seen?
 This group includes the most colourful large crabs that you might commonly encounter on the shore.
 The Egg crabs (
 *Atergatis*
@@ -128,7 +129,8 @@ Their toxins are similar to the neurotoxins of puffer fishes, and just as deadly
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**What do they eat?**
 Most of these crabs are said to be vegetarians, but at least one was seen chomping happily on a fish.
 
-**Human uses:**
+## Human uses
+
 The study of the unique toxins in these crabs may help develop new drugs or achieve better understanding of human health.
 **Status and threats:**
 Several of these crabs are listed among the threatened animals of Singapore. L

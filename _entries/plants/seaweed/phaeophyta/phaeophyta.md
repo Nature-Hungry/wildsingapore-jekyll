@@ -15,16 +15,6 @@ kingdom: Animalia
 updated: Aug 08
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only three things about them ... Large brown seaweeds are
-      more common on our Southern than Northern shores. Lots of little animals often
-      hide in large brown seaweeds. Look for them! Extracts of brown seaweeds are
-      used extensively in our processed food.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Large brown seaweeds are more common on our Southern than Northern shores.
-      Lots of little animals often hide in large brown seaweeds. Look for them! Extracts
-      of brown seaweeds are used extensively in our processed food.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/padina/040423sntd0023m.jpg
     caption: ''
@@ -123,9 +113,20 @@ links_references: '**Links**
   . Bookmark, Inc., the Philippines. 306 pp.
 
   '
+trivia_title: if you learn only three things about them ..
+trivia_items:
+- Large brown seaweeds are more common on our Southern than Northern shores
+- Lots of little animals often hide in large brown seaweeds
+- Look for them! Extracts of brown seaweeds are used extensively in our processed
+  food.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?
+## Where seen?
 Large brown seaweeds like sargassum are more common on our Southern shores, but other brown seaweeds are also seen on our Northern shores. Like other seaweeds, brown seaweeds appear to be seasonal. At certain times, for example, the Southern shores are blanketed under a thick golden carpet of sargassum.
 
 ## Features
@@ -134,13 +135,14 @@ Brown seaweeds have green chlorophyll but this is masked by other pigments, in p
 
 Brown seaweeds are only found in the sea and are not found in freshwater.
 
-**Role in the habitat:**
+## Role in habitat
 Brown seaweeds provide shelter and food for small animals. The large sargassum seaweeds in particular may shelter tiny octopuses, shrimps and fishes. The
 [Crosslandia slug](../../../mollusca/slugs/nudibranchia/crosslandia)
 (
 *Crosslandia*
 sp.) looks exactly like a sargassum blade!
-**Human uses:**
+## Human uses
+
 Unlike
 [red seaweeds](../rhodophyta/rhodophyta)
 and

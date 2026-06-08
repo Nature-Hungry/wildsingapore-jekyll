@@ -19,15 +19,6 @@ order: Malacalcyonacea
 updated: Nov 2019
 coverimg: ../../../Templates/fornatureguides.gif
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They are animals! Although
-      they look like plants. Don't step on them! Each soft coral is a colony of countless
-      tiny polyps. Tiny animals may live in the colony. Look for them.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They are animals! Although they look like plants. Don't step on them!
-      Each soft coral is a colony of countless tiny polyps. Tiny animals may live
-      in the colony. Look for them.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepasparagus/040411hntd0107m3.jpg
     caption: When the brown polyps are retracted, the colony can appear different.
@@ -127,9 +118,18 @@ location:
 - ecp
 size:
 - 20.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They are animals! Although they look like plants. Don't step on them! Each soft
+  coral is a colony of countless tiny polyps
+- Tiny animals may live in the colony
+- Look for them.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Flowery soft corals are commonly seen on many of our shores. They are usually attached to hard surfaces including boulders, jetty pilings and coral rubble.
@@ -163,7 +163,7 @@ Other flowery soft corals don't have zooxanthellae and gather edible bits from t
 
 **Flowery friends and frenemies:**
 Many kinds of small animals may be found on flowery soft corals. Some like tiny transparent shrimps,
-[snapping shrimps](../../crustacea/othercrust/shrimp/alphballsoft)
+[snapping shrimps](/wildfacts/guides/crustacea/crustacea/othercrust/shrimp/alphballsoft)
 , porcelain crabs,
 [brittle stars](../../echinodermata/ophiuroidea/tinycolourful)
 probably just find shelter within the branching arms of the soft coral. Others, like
@@ -172,7 +172,8 @@ probably just find shelter within the branching arms of the soft coral. Others, 
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
 {% include img-wrap-group.html items=page.galleries.gallery4 %}
-**Human uses:**
+## Human uses
+
 Soft corals protect themselves with unusual substances that are being studied for possible anti-cancer properties. These beautiful and delicate animals are also harvested from the wild for the aquarium trade. Collection methods usually harm the soft coral and other marine life and many specimens die before they even reach the retailer. Many more die in home aquariums due to lack of proper care. Living coral reefs, however, are worth far more to humans when they left alone. Reefs bring in tourists which generate business beyond the shore (e.g., hotels, restaurants and travel-related industries).
 
 **Status and threats:**

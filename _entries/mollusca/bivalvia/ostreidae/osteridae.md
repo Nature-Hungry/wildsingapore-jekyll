@@ -45,16 +45,6 @@ links_references: "**Links**\n- [Edible\n  Rock Oyster (*Saccostrea*)](http://ma
   \ at Biodiversity in Singapore*.\n  National Council on the Environment. 163pp.\n\
   - Ng, P. K.\n  L. & Y. C. Wee, 1994. *The\n"
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Oysters take a long time to
-      grow to a large size. Valuable pearls do NOT come from the Family Ostreida.
-      Oysters are often vandalised by thoughtless visitors. Oysters can cause food
-      poisoning.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Oysters take a long time to grow to a large size. Valuable pearls do
-      NOT come from the Family Ostreida. Oysters are often vandalised by thoughtless
-      visitors. Oysters can cause food poisoning.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/ostreidae/plain/080122cjd9030.jpg
     caption: Oysters often form a distint band on hard surfaces near the high water
@@ -113,9 +103,18 @@ location:
 - laz
 - hnt
 - smk
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Oysters take a long time to grow to a large size
+- Valuable pearls do NOT come from the Family Ostreida
+- Oysters are often vandalised by thoughtless visitors
+- Oysters can cause food poisoning.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Among our favourite seafood, oysters are often over-collected on some of our more accessible shores. Sometimes, they are merely vandalised by thoughtless visitors. They are common on the rocks and other hard surfaces of many of our shores.
@@ -134,7 +133,7 @@ It is hard to distinguish oyster species by their shell shape alone. Their shell
 **Sometimes mistaken for**
 [limpets](../../gastropoda/limpets/limpet)
 or
-[barnacles](../../../crustacea/othercrust/ciriipedia/cirripedia)
+[barnacles](..//wildfacts/guides/crustacea/crustacea/othercrust/ciriipedia/cirripedia)
 . Here's more on how to tell apart
 [shelled animals found on the rocks](../../../glossary/limpetbarnacle)
 .
@@ -145,7 +144,8 @@ Like most other bivalves, oysters are filter feeders. When submerged, an oyster 
 **Oyster babies:**
 Oysters may produce eggs or larvae. Some species may change gender while others are simlutaneous hermaprodites being predominantly male or female depending on the temperature of their environment and availability of food.
 
-**Human uses:**
+## Human uses
+
 Oysters are relished by people everywhere as a delicacy. They are also believed to have aphrodisiac properties in some cultures. Like other filter-feeding clams, however, oysters may be affected by
 [red tide and other harmful algal blooms](../../../plants/seaweed/redtide)
 when they are then harmful to eat.

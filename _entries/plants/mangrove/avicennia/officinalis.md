@@ -95,7 +95,11 @@ links_references: '**Links**
 size:
 - 1200.0
 - 2200.0
-rdb: Lc
+rdb: LC
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
 ---
 
 ## Where seen?
@@ -117,7 +121,8 @@ trees blooming at the same time.
 
 Fruit oval slightly beaked (2-3cm long) smooth velvety.
 
-**Human uses:**
+## Human uses
+
 According to Giesen, the fruits are eaten, and timber used as fuel while the bark resin is used in traditional medicine as a contraceptive.
 
 ![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/officinalis/090614ubnd4313m3.jpg)

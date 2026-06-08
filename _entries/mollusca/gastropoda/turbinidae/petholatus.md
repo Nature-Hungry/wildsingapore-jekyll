@@ -33,6 +33,11 @@ location:
 size:
 - 6.0
 rdb: vu
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -48,7 +53,8 @@ the
 [how to tell apart turban and top shell snails](../topturban)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
-**Human uses:**
+## Human uses
+
 It is listed as Endangered on the Red List of threatened animals of Singapore. Although never abundant, it could be found up until the early 1970s.
 
 ---

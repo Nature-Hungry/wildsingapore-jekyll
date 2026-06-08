@@ -1,12 +1,20 @@
 ---
 title: 'Beige sheet ascidians (Ascidiacea) '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: blob, ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: blob, ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 updated: Nov 2019
 phylum: Chordata
 subphylum: Tunicata
 class: Ascidiacea
+attributes:
+- 130
+- 131
+- 139
+- 150
+- 129
 family: Didemnidae
 genus: Didemnum
 species: psammatodes
@@ -25,13 +33,14 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/beige/050822cjg2070m3.jpg
     caption: Flatworm on the ascidian. Chek Jawa, Aug 05
   - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/beige/101221tmfts02262m6l.jpg
-    caption: These flatworms were seen on Beige sheet ascidians growing beneath a stone. Tanah Merah, Dec 10
-links_references: "**Links**
-  - [*Didemnum psammatodes*](https://invasions.si.edu/nemesis/browseDB/SpeciesSummary.jsp?TSN=-333) on the National Exotic Marine and Estuarine Species Information System, Smithsonian Environmental Research Centre.
-  
-  **References**
-
-- Serina S-C Lee, Janlin Y-H Chan, Serena L-M Teo & Gretchen Lambert. *State of knowledge of ascidian diversity in South China Sea and new records for Singapore*\n. 29 June 2016. Raffles Bulletin of Zoology Supplement No. 34: 718\u2013743.\n"
+    caption: These flatworms were seen on Beige sheet ascidians growing beneath a
+      stone. Tanah Merah, Dec 10
+links_references: "**Links** - [*Didemnum psammatodes*](https://invasions.si.edu/nemesis/browseDB/SpeciesSummary.jsp?TSN=-333)\
+  \ on the National Exotic Marine and Estuarine Species Information System, Smithsonian\
+  \ Environmental Research Centre.\n**References**\n- Serina S-C Lee, Janlin Y-H Chan,\
+  \ Serena L-M Teo & Gretchen Lambert. *State of knowledge of ascidian diversity in\
+  \ South China Sea and new records for Singapore*\n. 29 June 2016. Raffles Bulletin\
+  \ of Zoology Supplement No. 34: 718\u2013743.\n"
 location:
 - pgl
 - prp
@@ -51,6 +60,11 @@ location:
 size:
 - 5.0
 - 10.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

@@ -138,6 +138,11 @@ location:
 size:
 - 10.0
 rdb: LC
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -158,7 +163,8 @@ the
 **What does it eat?**
 It eats small bottom-dwelling creatures.
 
-**Human uses:**
+## Human uses
+
 It commercially collected for the aquarium trade.
 
 **Species are difficult to positively identify without close examination.

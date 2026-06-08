@@ -25,14 +25,6 @@ order: Alismatales
 updated: Mar 14
 rdb: VU
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Identified by prominent central
-      mid-rib vein. It deson't flower frequently, and the flowers are small. It is
-      eaten by dugongs.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Identified by prominent central mid-rib vein. It deson't flower frequently,
-      and the flowers are small. It is eaten by dugongs.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/halodule/050822cjg2120m3c.jpg
     caption: Long skinny Halodule. Chek Jawa, Aug 05
@@ -109,9 +101,17 @@ location:
 - cyr
 - smk
 - tsm
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Identified by prominent central mid-rib vein
+- It deson't flower frequently, and the flowers are small
+- It is eaten by dugongs.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 This thin flat needle-like seagrass is sometimes seen on some of our shores, often mixed with other seagrasses. But luxuriant growths are more commonly seen on large natural shores such as Chek Jawa, where it is commonly found on the seaward side of the sand bars. The
@@ -139,7 +139,7 @@ other ribbon-like seagrasses. Here's more on
 **Flowers and fruits:**
 Needle seagrass has separate male and female plants. The flowers are tiny, usually forming at the base of the leaf sheath, buried in the sediment and emerging only for a short period. It produces seeds with a hard seed coat. Needle seagrass has an unusual way of releasing its seeds directly into the sediments so the seeds are not washed away by the currents. Studies suggest the seeds can remain dormant for some time. In this way, the seeds may help re-establish the species if the parent plants are destroyed by some natural disturbance. However, needle seagrass tends to spread more by vegetative growth than through its seeds.
 
-**Role in the habitat:**
+## Role in habitat
 Although tiny, needle seagrass grows rapidly and densely from its underground stems. Forming a mat, it traps, builds up, and stabilises sediments. This allows other seagrasses to establish themselves and provides a more stable environment for burrowing creatures. Needle seagrass is also one of the seagrasses preferred by dugongs.
 
 **Status and threats:**

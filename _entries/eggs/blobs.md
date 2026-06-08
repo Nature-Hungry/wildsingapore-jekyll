@@ -31,9 +31,12 @@ galleries:
     caption: ''
 size:
 - 10.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 These translucent blobs are sometimes seen on our mudflats and sandflats. Seasonally, in large numbers.

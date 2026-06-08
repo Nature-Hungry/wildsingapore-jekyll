@@ -55,6 +55,10 @@ size:
 - 400.0
 - 500.0
 - 2400.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- terrestrial
 ---
 
 ## Where seen?
@@ -74,7 +78,8 @@ Flowers tiny (0.5cm) brown and woolly on the outside.
 
 Fruits globular (1-2cm) with a thin skin, when ripe, splitting to reveal a bright red and pulpy aril which probably attract birds that disperse the seed within.
 
-**Human uses:**
+## Human uses
+
 According to Burkill, the wood is not durable but it is sometimes used for rafters.
 
 **Status and threats:**

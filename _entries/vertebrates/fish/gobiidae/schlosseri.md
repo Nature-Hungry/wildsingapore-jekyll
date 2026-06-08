@@ -28,15 +28,6 @@ subfamily: Oxudercinae
 updated: Sep 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/schlosseri/121227prpd2761m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... It is the largest mudskipper
-      seen in Singapore. It creates an impressive 'swimming pool' and often found
-      near it. It has a different body pattern at night than during the daytime.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: It is the largest mudskipper seen in Singapore. It creates an impressive
-      'swimming pool' and often found near it. It has a different body pattern at
-      night than during the daytime.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/schlosseri/121227prpd2761m3.jpg
     caption: 'Night pattern: additional dark bars. Pasir Risk Park, Dec 12'
@@ -89,9 +80,19 @@ size:
 - 15.0
 - 27.0
 rdb: LC
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- It is the largest mudskipper seen in Singapore
+- It creates an impressive 'swimming pool' and often found near it
+- It has a different body pattern at night than during the daytime.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?
+## Where seen?
 This large mudskipper is often seen in mudflats and the back mangroves of our Northern shores. At low tide, large ones are often seen in or near their 'swimming pool'.
 At high tide, they may be seen clinging to mangrove tree roots.
 
@@ -113,7 +114,7 @@ Possible courtship behaviour was reported, with two fishes stayed close together
 An aggressive hunter, it eats crabs (one study found it prefers crabs) as well as prawns, worms and insects. It may even snack on smaller mudskippers, and one was observed eating a snake.
 [One study found](http://www.kmae-journal.org/articles/kmae/pdf/2012/02/kmae110093.pdf)
 that it eats mostly
-[fiddler crabs](../../../crustacea/crab/ocypodoidea/uca)
+[fiddler crabs](..//wildfacts/guides/crustacea/crustacea/crab/ocypodoidea/uca)
 , Medaka fish (
 *Oryzias*
 sp.) and juvenile fishes.

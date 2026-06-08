@@ -99,6 +99,10 @@ links_references: '**Links**
 size:
 - 500.0
 - 1500.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- terrestrial
 ---
 
 ## Where seen?
@@ -114,7 +118,8 @@ A coarse climbing vine (5-15m long) to a prickly shrub. The compound leaf is bip
 *Tristellateia australasiae*
 ) especially when in bloom.
 
-**Human uses:**
+## Human uses
+
 According to Giesen, root is used to treat stomach aches and to stimulate the appetite.
 
 **Status and threats:**

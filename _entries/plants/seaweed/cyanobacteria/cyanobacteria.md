@@ -16,16 +16,6 @@ kingdom: Animalia
 updated: Aug 10
 coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/cyanobacteria/cyanobacteria/050529sjid3577m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: 'if you learn only 3 things about them ... They can undergo photosynthesis,
-      but are more similar to bacteria than algae. They include some of the oldest
-      living fossils: those producing stromatolites. They are the reason why wild
-      flamingos are pink!'
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: 'They can undergo photosynthesis, but are more similar to bacteria than
-      algae. They include some of the oldest living fossils: those producing stromatolites.
-      They are the reason why wild flamingos are pink!'
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/cyanobacteria/cyanobacteria/080422smk3d1587m3.jpg
     caption: Pulau Semakau, Apr 08
@@ -107,6 +97,16 @@ links_references: '**Links**
   2nd edition. Cambridge University Press. 349 pp.
 
   '
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They can undergo photosynthesis, but are more similar to bacteria than algae
+- 'They include some of the oldest living fossils: those producing stromatolites'
+- They are the reason why wild flamingos are pink!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
@@ -136,7 +136,7 @@ that produce dense blooms in that body of water. African flamingos are pink from
 *Sirulina*
 . Some species of cyanobacteria can fix atmospheric nitrogen for their own needs. Some of these are believed to benefit seagrasses by fixing nitrogen for the seagrasses.
 
-**Role in the habitat:**
+## Role in habitat
 Cyanobacteria are eaten by a wide range of animals. Among the common animals believed to eat cyanobacteria are sea slugs like the
 [Hairy sea hare](../../../mollusca/slugs/anaspidae/bursatella)
 (
@@ -147,7 +147,8 @@ Cyanobacteria are eaten by a wide range of animals. Among the common animals bel
 *Styloceilus*
 sp.)
 
-**Human uses:**
+## Human uses
+
 Some species of cyanobacteria are able to breakdown heavy hydrocarbons and may thus have a practical use in cleaning up oil spills. The nitrogen-fixing properties of cyanobacteria are believed to be important to the fertility of ride padi fields. On the other hand, blooms of cyanobacteria in nutrient rich waters (e.g., polluted by agricultural drainage or sewage) can produce toxins that poison the water.
 
 ![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/cyanobacteria/cyanobacteria/050529sjid3577m3.jpg)

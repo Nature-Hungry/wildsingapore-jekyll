@@ -20,15 +20,6 @@ superfamily: Stromboidea
 updated: Sep 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/canarium/111212tmnbs00821m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: 'if you learn only 3 things about them ... The conch is a lively snail
-      that hops instead of creeping along the surface. Many of its features are adaptations
-      to this hopping lifestyle: flared shell, large eyes. Many are edible.'
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: 'The conch is a lively snail that hops instead of creeping along the
-      surface. Many of its features are adaptations to this hopping lifestyle: flared
-      shell, large eyes. Many are edible.'
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/canarium/111212tmnbs00821m3.jpg
     caption: Hopping along Tanah Merah, Dec 11
@@ -155,6 +146,17 @@ location:
 - bb
 - ecp
 - sji
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- The conch is a lively snail that hops instead of creeping along the surface
+- 'Many of its features are adaptations to this hopping lifestyle: flared shell, large
+  eyes'
+- Many are edible.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
@@ -187,7 +189,8 @@ Many conch snails are scavengers, eating decaying plants and animals. Others eat
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Conch babies:**
 Mama snails lay egg strings. Young conch snails may look different from adults, with thinner lips on the shells or lacking spines.
 
-{% include img-wrap-group.html items=page.galleries.gallery4 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery4 %}## Human uses
+
 Conch snails are edible and eaten everywhere they are found. In Singapore,
 [Gong-gong](canarium)
 were once plentiful, they are still harvested from our shores in small numbers. The Gong-gong is the most popularly eaten conch, fried with chilli or as fritters. You can sometimes still see them served at hawker centres. The

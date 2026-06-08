@@ -191,6 +191,11 @@ size:
 - 10.0
 - 20.0
 rdb: NT
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -208,7 +213,8 @@ It grazes on fine red algae.
 **Look ma, no spines:**
 The long spines on its shell are found only on adults and gives it its common name. The shell of young snails look like large volutes. Male and female snails look very different. The shell of the males usually smaller and with shorter spines on the outer lip. Mama snails lay bright orange egg strings.
 
-{% include img-wrap-group.html items=page.galleries.gallery3 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery3 %}## Human uses
+
 Where common, it is often collected for food by coastal populations, and the shell used in shellcraft. Appears in markets in the northern Philippines and in Fiji Islands.
 
 **Status and threats:**

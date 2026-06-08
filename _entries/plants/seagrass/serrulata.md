@@ -24,14 +24,6 @@ order: Alismatales
 updated: Sep 2017
 rdb: EN
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... This seagrass is rarely seen
-      on our shores. It doesn't flower frequently, and the flowers are small. It is
-      eaten by dugongs.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: This seagrass is rarely seen on our shores. It doesn't flower frequently,
-      and the flowers are small. It is eaten by dugongs.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/serrulata/110830cyrd0552m3a.jpg
     caption: Cyrene Reef, Aug 11
@@ -97,9 +89,17 @@ location:
 - cyr
 - smk
 - tsm
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- This seagrass is rarely seen on our shores
+- It doesn't flower frequently, and the flowers are small
+- It is eaten by dugongs.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 These seagrasses are common on Pulau Semakau, growing among the more dominant
@@ -125,7 +125,7 @@ other ribbon-like seagrasses. Here's more on
 **Flowers and fruits:**
 This seagrass has separate male and female plants. Flowering is rarely observed. The female flower appears in pairs at the base of the leaves. They have a prong-like stigma. The male flowers form within the leaf sheath. Seeds (10mm) are dark coloured with a hard-coated, beaked nut with three blunt ridges along the length. The seeds are attached to the rhizome.
 
-**Role in the habitat:**
+## Role in habitat
 Dugongs eat this seagrass where smaller
 *Halophila*
 and

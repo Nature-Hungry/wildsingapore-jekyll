@@ -103,6 +103,11 @@ size:
 - 2.0
 - 3.0
 - 4.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -116,7 +121,8 @@ Greenish foot . A false limpet, it breathes through lungs instead of gills. This
 [drills](../muricidae/muricidae)
 .
 
-**Human uses:**
+## Human uses
+
 It is sometimes collected as food by coastal dwellers in Southeast Asia.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Limpet Babies:**

@@ -110,6 +110,11 @@ size:
 - 150.0
 - 200.0
 rdb: VU
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- terrestrial
 ---
 
 ## Where seen?

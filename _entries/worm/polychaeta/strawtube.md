@@ -63,6 +63,11 @@ location:
 - ecp
 size:
 - 0.5
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

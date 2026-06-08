@@ -5,6 +5,12 @@ keywords: hermit, crab, anemone, anthozoa, cnidaria, field, guide, seashore, sea
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
+- 129
+- 130
+- 133
+- 153
+- 150
+- 143
 - 6
 - 88
 family: ''
@@ -15,6 +21,10 @@ phylum: Cnidaria
 class: Anthozoa
 subclass: Hexacorallia
 order: Actiniaria
+summary: 1-2cm. Many short tapering tentacles. Oral disk white or with white radiating
+  stripes. Body column short, smooth and not covered in sediments, pale some with
+  faint stripes. On shells occupied by hermit crabs. Sometimes seen on our Northern
+  shores.
 updated: Nov 2019
 coverimg: https://live.staticflickr.com/2579/4042787644_faec49c2ba_c.jpg
 galleries:
@@ -51,6 +61,11 @@ location:
 size:
 - 1.0
 - 2.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

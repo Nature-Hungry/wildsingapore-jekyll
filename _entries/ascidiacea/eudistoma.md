@@ -1,12 +1,20 @@
 ---
-title: 'Yellow clustered bead ascidians (Eudistoma)'
+title: Yellow clustered bead ascidians (Eudistoma)
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: yellow, clustered, bead, ascidian, eudistoma, polycitoridae, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: yellow, clustered, bead, ascidian, eudistoma, polycitoridae, squirt, seasquirt,
+  tunicate, ascidiacea, urochordate, chordate, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 updated: Mar 2020
 phylum: Chordata
 subphylum: Tunicata
 class: Ascidiacea
+attributes:
+- 130
+- 131
+- 139
+- 150
+- 129
 family: Polycitoridae
 genus: Eudistoma
 species: sp.
@@ -52,6 +60,11 @@ location:
 - tsm
 size:
 - 1.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

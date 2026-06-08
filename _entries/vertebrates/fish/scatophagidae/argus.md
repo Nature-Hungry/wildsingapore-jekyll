@@ -24,14 +24,6 @@ order: Acanthuriformes
 updated: Oct 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scatophagidae/argus/031012cjad0011m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about it ... It is more commonly seen near
-      mangroves. It is popular among anglers and as food. It has sharp poisonous spines.
-      Don't handle it!
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: It is more commonly seen near mangroves. It is popular among anglers
-      and as food. It has sharp poisonous spines. Don't handle it!
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scatophagidae/argus/031012cjad0011m3.jpg
     caption: Chek Jawa, Oct 03
@@ -151,9 +143,20 @@ size:
 - 10.0
 - 30.0
 rdb: LC
+trivia_title: if you learn only 3 things about it ..
+trivia_items:
+- It is more commonly seen near mangroves
+- It is popular among anglers and as food
+- It has sharp poisonous spines
+- Don't handle it!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?
+## Where seen?
 This odd-shaped fish is sometimes seen in muddy and seagrass areas near mangroves or along the coasts. Also under jetties. It can tolerate freshwater so it's sometimes also seen near moonsoon drains.
 
 **What are scats?**
@@ -167,7 +170,8 @@ Scats belong to Family Scatophagidae. According to
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**What does it eat?**
 It eats detritus and algae from the sea bottom as well as worms, insects and small crustaceans. It also eats droppings of other animals including ours. Its scientific name 'scatophagus' means 'shit-eater'.
 
-**Human uses:**
+## Human uses
+
 Spotted scats are a popular catch among anglers. They are also marketed fresh and as live fish for the table. Juveniles are said to be popular aquarium fish. According to FishBase, it is used in traditional Chinese medicine.
 
 ---

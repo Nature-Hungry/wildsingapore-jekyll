@@ -101,6 +101,11 @@ size:
 - 15.0
 - 20.0
 - 60.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -122,7 +127,7 @@ Tiny feeding polyps (autozooids) with 8 branched tentacles emerge from these 'le
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Pen pals:**
 The tiny
-[Painted porcelain crab](../../../crustacea/othercrust/anomura/porcellanidae/picta)
+[Painted porcelain crab](..//wildfacts/guides/crustacea/crustacea/othercrust/anomura/porcellanidae/picta)
 (
 *Porcellanella picta*
 ) is often found in this sea pen. Sometimes a pair is seen in one sea pen, at other times, many are seen.

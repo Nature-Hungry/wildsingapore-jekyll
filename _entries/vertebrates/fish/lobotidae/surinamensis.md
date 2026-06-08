@@ -92,6 +92,11 @@ size:
 - 20.0
 - 100.0
 rdb: VU
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -109,7 +114,8 @@ the
 **What does it eat?**
 It feeds on small fishes and crustaceans that live on the bottom.
 
-**Human uses:**
+## Human uses
+
 It is eaten in some places.
 
 ---

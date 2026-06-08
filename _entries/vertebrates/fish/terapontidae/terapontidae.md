@@ -85,6 +85,11 @@ location:
 size:
 - 3.0
 - 10.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -101,7 +106,8 @@ Perch belong to the Family Terapontidae. The family name is sometimes also spelt
 **What do they eat?**
 These fishes eat other fishes as well as insects, seaweed and other animals that live in the sand. Young perch often shelter in seagrass beds and mangroves.
 
-**Human uses:**
+## Human uses
+
 Some species of perch are eaten and sold fresh or dried and salted. Some larger species of perch are also highly valued in sport fishing.
 
 **![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/terapontidae/jarbua/110730tmftd7695m3.jpg)

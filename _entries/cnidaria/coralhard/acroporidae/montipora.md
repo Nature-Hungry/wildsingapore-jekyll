@@ -112,6 +112,11 @@ location:
 - tsm
 - rfl
 - lfa
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -129,14 +134,15 @@ Corallites and polyps are tiny (0.2-0.5cm or smaller). Polyps look like tiny sea
 There are probably several different species on these pages.
 It's hard to distinguish them without close examination of small features. On this website, they are grouped by large external features for convenience of display.
 
-**Role in the habitat:**
+## Role in habitat
 Montipora corals are among the important building blocks of a reef. Together with
 [Acropora coral](acropora)
 (
 *Acropora*
 sp.), another member of the Family Acroporidae, montipora corals account for one-third of reef-building coral species. Those with branching forms provide shelter for all kinds of animals including seahorses, tiny clams and all kinds of crabs.
 
-**Human uses:**
+## Human uses
+
 Montipora corals are taken from the wild for the live aquarium trade and wild colonies are often taken from the natural reefs to supply this demand. There are efforts to cultivate some of the hardier, faster-growing
 *Montipora*
 species for the live aquarium trade so as to reduce collection pressure from the wild. Although captive bred corals are healthier and easier to care for than wild collected specimens, captive bred corals are more expensive.

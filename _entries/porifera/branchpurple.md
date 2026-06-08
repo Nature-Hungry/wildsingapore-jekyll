@@ -70,6 +70,11 @@ size:
 - 1.5
 - 10.0
 - 15.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ******

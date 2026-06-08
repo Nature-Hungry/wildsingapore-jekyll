@@ -43,9 +43,12 @@ galleries:
     caption: Limpet with its egg capsule. East Coast Park, Aug 11
 size:
 - 0.3
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 These noodle-like egg masses are sometimes seen among seagrasses and seaweeds in clumps.

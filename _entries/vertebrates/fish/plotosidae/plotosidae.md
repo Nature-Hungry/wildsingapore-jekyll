@@ -21,15 +21,6 @@ suborder: Siluroidei
 updated: Sep 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/canius/050818cftg1436m3a.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They lack scales and are sometimes
-      mistaken for eels or snakes. The 'whiskers' don't sting. They are used to find
-      food in murky waters. They have venomous spines. Don't touch them!
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They lack scales and are sometimes mistaken for eels or snakes. The 'whiskers'
-      don't sting. They are used to find food in murky waters. They have venomous
-      spines. Don't touch them!
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/canius/050818cftg1436m3a.jpg
     caption: '''Whiskers'' help it to find food in murky waters. Changi, Aug 05'
@@ -175,9 +166,19 @@ location:
 size:
 - 5.0
 - 30.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They lack scales and are sometimes mistaken for eels or snakes
+- The 'whiskers' don't sting
+- They are used to find food in murky waters
+- They have venomous spines
+- Don't touch them!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 These squirmy fishes that resemble eels are the only catfishes commonly seen in coral reefs and intertidal areas. They are sometimes abundant on many of our shores. Juveniles about 10cm long or smaller can be seen close to mid-water mark, while larger ones are often sighted hiding among seagrass or coral rubble in deeper waters.
@@ -208,7 +209,8 @@ These fishes have venomous spines on the dorsal fin and on each of the pectoral 
 **What do they eat?**
 Small ones eat tiny animals and algae. Adult eel-tail catfishes are adapted for hunting on the sea bottom in murky waters. Prey include crustaceans, molluscs, worms and sometimes fishes. The 'whiskers' (barbels) around the mouth do not sting, they help find prey where visibility is poor. The barbels have taste buds to help sense food. They also have a keen sense of hearing. Also a strong sense of smell, using their 'noses' (nostril-like openings on the snout).
 
-**Human uses:**
+## Human uses
+
 The Black eeltail catfish is fished for food and sport in some places. Striped eeltail catfishes are popular in the aquarium trade although they eat their tankmates, and even one another, as they get bigger. These are harvested from the wild.
 
 ---

@@ -125,6 +125,11 @@ location:
 size:
 - 6.0
 rdb: LC
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -141,7 +146,8 @@ These tentacles are sticky and can break off if the animal is distressed. The an
 *Limaria*
 sp.).
 
-**Human uses:**
+## Human uses
+
 In the Philippines, the shells are used to make ornaments.
 
 **Status and threats:**

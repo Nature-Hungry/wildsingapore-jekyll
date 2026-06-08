@@ -24,16 +24,6 @@ superfamily: Galatheoidea
 updated: Dec 2019
 coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/porcellanidae/petrolisthes/080619chgd5779m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: 'if you learn only 3 things about them ... They are NOT true crabs. Some
-      differences from true crabs: only 3 pairs of walking legs, long antennae. They
-      drop their pincers when stressed, so don''t harass them Some live with other
-      animals: sea pens, hermit crabs.'
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: 'They are NOT true crabs. Some differences from true crabs: only 3 pairs
-      of walking legs, long antennae. They drop their pincers when stressed, so don''t
-      harass them Some live with other animals: sea pens, hermit crabs.'
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/porcellanidae/petrolisthes/080619chgd5779m3.jpg
     caption: Huge flat pincers.
@@ -141,16 +131,25 @@ location:
 - cyr
 size:
 - 1.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They are NOT true crabs
+- 'Some differences from true crabs: only 3 pairs of walking legs, long antennae'
+- 'They drop their pincers when stressed, so don''t harass them Some live with other
+  animals: sea pens, hermit crabs.'
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Porcelain crabs are plentiful under the stones of our rocky shores, scattering in all directions as a stone is lifted. Some porcelain crabs live on or with other larger animals.
 
 **What are porcelain crabs?**
 Porcelain crabs belong to the subgroup Anomura of the Order
-[Decapoda](../../../decapoda)
+[Decapoda](..//wildfacts/guides/crustacea/decapoda)
 . Anomurans includes
 [hermit crabs](../hermit/hermit)
 . Porcelain crabs belong to Family Porcellanidae.
@@ -175,7 +174,7 @@ Porcelain crabs filter feed at high tide. They have large mouthparts which are f
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Porcelain babies:**
 Porcelain crab eggs hatch into free-swimming larvae that only later settle down and develop into miniatures of their parents.
 
-**Role in the habitat:**
+## Role in habitat
 Some porcelain crabs live with other animals. One kind of porcelain crab lives on a
 [sea pen](../../../../cnidaria/others/pennatulacea/pennatulacea)
 . Elsewhere, there are porcelain crabs that live in

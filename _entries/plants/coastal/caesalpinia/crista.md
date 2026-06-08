@@ -87,6 +87,10 @@ links_references: '**Links**
 size:
 - 500.0
 - 2000.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- terrestrial
 ---
 
 ## Where seen?
@@ -110,7 +114,8 @@ The fruits (4-7cm long) are flat smooth pods (not prickly) with a beak which con
 *Tristellateia australasiae*
 ) especially when in bloom.
 
-**Human uses:**
+## Human uses
+
 According to Giesen, the seeds are used to treat malaria and parasitic worms. The leaves are used to treat Hepatitis A. The seeds are also used by children as marbles.
 
 **Status and threats:**

@@ -42,6 +42,10 @@ galleries:
 size:
 - 1200.0
 rdb: EN
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
 ---
 
 ## Where seen?

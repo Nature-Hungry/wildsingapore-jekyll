@@ -6,6 +6,12 @@ keywords: banded, bead, anemone, anthopleura, actiniidae, anthozoa, cnidarian, f
   sheet, info, photo
 layout: entry
 attributes:
+- 129
+- 130
+- 133
+- 153
+- 150
+- 143
 - 6
 - 88
 family: Actiniidae
@@ -20,6 +26,9 @@ subclass: Hexacorallia
 order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
+summary: 1-2cm. One row of tapered tentacles with a banded pattern. Large oral relative
+  to tentacles. Usually brownish. On rocky shores, in sand or in cracks in large boulders
+  and sea walls. Commonly seen on our shores.
 updated: Jul 2024
 coverimg: https://live.staticflickr.com/2589/3794249548_d269fce181_c.jpg
 trivia_title: if you learn only 3 things about them ...
@@ -126,9 +135,12 @@ location:
 size:
 - 1.0
 - 2.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 These small anemones are often seen on our rocky areas that are exposed even at moderate tides. Usually in clusters of many individuals. Crowded near the base of boulders, in crevices and cracks of the boulders and even in the sand nearby.

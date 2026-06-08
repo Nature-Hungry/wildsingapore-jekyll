@@ -8,7 +8,13 @@ layout: entry
 family: Limulidae
 genus: Carcinoscorpius
 species: rotundicauda
-attributes: []
+attributes:
+- 128
+- 133
+- 145
+- 150
+- 143
+- 138
 inat_id: 362577
 stateofmatter: Life
 kingdom: Animalia
@@ -47,18 +53,26 @@ galleries:
     caption: Pandan Mangroves, Dec 25 Photo shared by Rui Quan Oh on facebook.
 links_references: '**Links**
 
-  - [Mangrove horseshoe crab *Carcinoscorpius rotundicauda*](http://mangrove.nus.edu.sg/guidebooks/text/2076) Ng, Peter K. L. & N. Sivasothi, 1999. *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore Science Centre. 168 pp.
+  - [Mangrove horseshoe crab *Carcinoscorpius rotundicauda*](http://mangrove.nus.edu.sg/guidebooks/text/2076)
+  Ng, Peter K. L. & N. Sivasothi, 1999. *[A Guide to the Mangroves of Singapore II
+  (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore Science
+  Centre. 168 pp.
 
-  - [*Carcinoscorpius rotundicauda*](https://singapore.biodiversity.online/taxo4254/mainSpace/Carcinoscorpius%20rotundicauda.html) (Xiphosura: Limulidae) Mangrove Horseshoe Crab by Oh Rui Ying, Rachel, 2011 on taxo4254.
+  - [*Carcinoscorpius rotundicauda*](https://singapore.biodiversity.online/taxo4254/mainSpace/Carcinoscorpius%20rotundicauda.html)
+  (Xiphosura: Limulidae) Mangrove Horseshoe Crab by Oh Rui Ying, Rachel, 2011 on taxo4254.
 
-  - *[Carcinoscorpius rotundicauda](http://www.iucnredlist.org/details/3856/0)* on the IUCN Red List.
+  - *[Carcinoscorpius rotundicauda](http://www.iucnredlist.org/details/3856/0)* on
+  the IUCN Red List.
 
-  - [Mangrove horseshoe crab (*Carcinoscorpius rotundicauda*)](https://taxo4254.wikispaces.com/Carcinoscorpius+rotundicauda) on taxo4254.
+  - [Mangrove horseshoe crab (*Carcinoscorpius rotundicauda*)](https://taxo4254.wikispaces.com/Carcinoscorpius+rotundicauda)
+  on taxo4254.
 
 
   **References**
 
-  - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore Red Data Book: Threatened plants and animals of Singapore*. Nature Society (Singapore). 285 pp.
+  - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore Red Data
+  Book: Threatened plants and animals of Singapore*. Nature Society (Singapore). 285
+  pp.
 
   '
 location:
@@ -73,6 +87,11 @@ location:
 size:
 - 15.0
 rdb: VU
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

@@ -56,6 +56,10 @@ size:
 - 1500.0
 - 2000.0
 rdb: DD
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- terrestrial
 ---
 
 ## Where seen?
@@ -75,7 +79,8 @@ The trunk is often gnarled and twisted. The thick spongy bark is whitish to grey
 
 A hardy tree that grows rapidly and can withstand poor waterlogged soils, wind, heat and even withstand fires, it can become an invasive weed where introduced outside its native range.
 
-**Human uses:**
+## Human uses
+
 The leaves are used to distill 'cajeputi' or 'tea-tree oil' which has medicinal and antiseptic uses. According to Wee, the Burmese use it to treat gout, the Indochinese to treat rheumatism and joint pains, the Malaysians to treat colic and cholera, the Indonesians to treat burns, colic, cramps, skin diseases, wounds and various aches and pains. The pinkish-brown timber has a uniform texture and is popular for use in carving, cabinet work, boat building, fencing as well as for fire wood. The bark flakes are used for insulation and for stuffing pillows.
 
 According to Corners, the timber is hard and durable and is used as the main firewood where bakau or mangrove wood is unavailable. The papery bark is used to caulk boats as the bark swells in water, thus sealing seams. The dried fruits are sold as a spice.

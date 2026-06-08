@@ -20,6 +20,7 @@ layout: none
   "species": {{ post.species | jsonify }},
   "genus": {{ post.genus | jsonify }},
   "inat_id": {{ post.inat_id | jsonify }},
+  "zone": {{ post.zone | jsonify }},
   "search_text": {{
     post.title
     | append: ' '

@@ -6,6 +6,12 @@ keywords: haeckel, anemone, actinostephanus, haeckeli, actinodendridae, anthozoa
   facts, fact sheet, info, photo
 layout: entry
 attributes:
+- 129
+- 130
+- 133
+- 153
+- 150
+- 143
 - 6
 - 88
 - 113
@@ -142,6 +148,11 @@ size:
 - 10.0
 - 20.0
 rdb: LC
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

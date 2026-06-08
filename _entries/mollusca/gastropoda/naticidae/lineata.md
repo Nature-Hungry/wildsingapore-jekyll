@@ -92,6 +92,11 @@ size:
 - 3.0
 - 4.0
 rdb: LC
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -103,7 +108,8 @@ This beautiful moon snail is sometimes seen, usually in sand near seagrasses. El
 
 3-4cm. Shell thick smooth spherical (not flat), the spiral tip sticking out a little. Shell pattern white or beige with fine brown spiralling lines. On the underside, a small depression. Operculum white with a yellow smudge where the whorl begins, a pair of spiralling grooves on the outer margin. Body white or pale beige, front shield darker brown. Tentacles short, brown.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
-**Human uses:**
+## Human uses
+
 It is collected in trawls for food and for the shell trade.
 
 ---

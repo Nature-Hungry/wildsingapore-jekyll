@@ -115,6 +115,10 @@ links_references: '**Links**
 size:
 - 1500.0
 - 3000.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
 ---
 
 ## Where seen?
@@ -138,7 +142,8 @@ According to the NParks Flora and Fauna website, the tree is the preferred local
 *Olene mendosa*
 .
 
-**Human uses:**
+## Human uses
+
 According to Burkill, tannin extracted from it is used to treat fishing lines as well as a black dye. The hypocotyls are eaten, after boiling and scraping the outer skin, "but not when there is anything better available". The bark is used to flavour raw fish, but "eating too much is dangerous". Leaves are also served raw as flavouring. Medicinal uses include the bark as an astrigent in diarrhoea and sometimes to treat malaria in Cambodia. According to Giersen, in Indonesia, a sweet meat is made out of the inner hypocotyl flesh plus sugar. The red timber is hard and used for heavy duty purposes such as foundation pilings, mine timbers, house posts. As well as furniture and cabinet work. Also as firewood and for making charcoal.
 
 ![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/gymnorrhiza/110430lckd0375m6l.jpg)

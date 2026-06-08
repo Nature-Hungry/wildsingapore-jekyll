@@ -20,15 +20,6 @@ suborder: Scorpaenoidei
 updated: Oct 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/picta/110730tmftd7492m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They are well camouflaged.
-      Look carefully to find them. Some have venomous spines. Don't handle them! Their
-      venom is only used for protection from predators and not to catch prey.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They are well camouflaged. Look carefully to find them. Some have venomous
-      spines. Don't handle them! Their venom is only used for protection from predators
-      and not to catch prey.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/picta/110730tmftd7492m3.jpg
     caption: Perfectly camouflaged! Tanah Merah, Jul 11
@@ -121,9 +112,19 @@ location:
 - hnt
 - smk
 - lfa
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They are well camouflaged
+- Look carefully to find them
+- Some have venomous spines
+- Don't handle them! Their venom is only used for protection from predators and not
+  to catch prey.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 These prickly well-camouflaged fishes are seen on many of our shores, in seagrass and coral rubble areas. Masters of disguise, some can also be very small. Most stay motionless and thus do not betray their presence through movement. Patience and a keen eye is required to spot one.
@@ -157,7 +158,8 @@ Most scorpionfishes skulk on or near the bottom, staying motionless for hours to
 **Scorpionfish babies:**
 Most scorpionfishes reproduce through internal fertilisation. Some species lay their eggs in a gelatinous balloon. The larvae are planktonic.
 
-**Human uses:**
+## Human uses
+
 Scorpionfishes are venomous but not poisonous. In temperate climates, large members of this group called rockfishes or rockcods (
 *Sebastes*
 sp.) are considered good eating and are caught by sport fishermen as well as commercially for as food fish. Rockfishes are vulnerable to overfishing as they grow slowly and reach maturity late.

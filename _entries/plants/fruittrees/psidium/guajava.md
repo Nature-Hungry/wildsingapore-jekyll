@@ -51,6 +51,10 @@ galleries:
       2: 1241-2444.'
 size:
 - 600.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- terrestrial
 ---
 
 ## Where seen?
@@ -60,7 +64,8 @@ This fruit tree is often seen in old kampong areas such as on Pulau Ubin. Origin
 
 An untidy tree with sparse, drooping branches (to about 6m tall). Bark very smooth, coppery orange-brown mottled greenish or pale yellowish, peeling off in thin flakes. Flowers white, fruits pear-shaped rippening yellow with fragrant and pink flesh. According to Corners, the tree fruits in its second year and does so continuously for its lifespan of 30-40 years.
 
-**Human uses:**
+## Human uses
+
 According to Burkill, the fruit makes "excellent stews, jams and particularly jelly".The leaves are used to produce a black dye as well as to treat stomach ailments.
 
 ![](https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/psidium/guajava/091213ubnd5845m6l.jpg)

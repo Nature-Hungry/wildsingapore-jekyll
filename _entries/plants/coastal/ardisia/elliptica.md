@@ -93,7 +93,11 @@ links_references: '**Links**
   '
 size:
 - 500.0
-rdb: Lc
+rdb: LC
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- terrestrial
 ---
 
 ## Where seen?
@@ -107,7 +111,8 @@ A shrub growing to 5m tall, with a single stem producing short perpendicular bra
 
 According to Tomlinson, from the structure of the flowers and the fact that these produce nectar and a fragrance, the plant seems to be pollinated by insects. But there are no records of flower visitors. It is said that birds and other small fruit-eating mammals eat the fruits.
 
-**Human uses:**
+## Human uses
+
 According to Burkill, the young shoots were eaten in the Malay Peninsula. Medicinal uses include boiled leaves or roots used to treat heartache. Another Malay name is '
 *Daun bisa hati'*
 or 'Heartache Leaf'. According to Wee, the Malays use a decoction of the leaves to treat heart pain. According to Giersen, the leaves are used to treat scabies and intestinal worms.

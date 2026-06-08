@@ -124,6 +124,11 @@ size:
 - 10.0
 - 15.0
 rdb: DD
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -141,7 +146,8 @@ Juveniles lack the horns in the front and back
 **What does it eat?**
 It feeds on tiny animals hidden in the sand. The fish uncovers these titbits by blowing away the sand with its downturned tubular mouth.
 
-**Human uses:**
+## Human uses
+
 Elsewhere, these amazing fishes are sadly harvested and dried to make into ornaments for the tourist trade.
 
 ---

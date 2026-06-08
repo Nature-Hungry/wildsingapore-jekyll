@@ -114,7 +114,11 @@ links_references: '**Links**
 size:
 - 2000.0
 - 3500.0
-rdb: Lc
+rdb: LC
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- terrestrial
 ---
 
 ## Where seen?
@@ -132,7 +136,7 @@ Many tiny white flowers emerge on long spikes (10-12cm long). The flowers lack p
 
 The fruit is almond-shaped (4-8cm long), developing in clusters, green ripening yellow. The fruit has a thick, leathery, corky outer layer enclosing air cavities, with a hard thick stone in the centre. Inside the stone is a sliver of edible kernel composed of tightly coiled seed-leaves of the embryo. But this is difficult to extract. The fruit floats and is able to survive for many days in water, during which time the fibrous outer coating rots away.
 
-**Role in the habitat:**
+## Role in habitat
 According to Corners, fruit bats eat the husk of the fruit. According to Giersen, besides bats, the fruits are also dispersed by monkeys and by water.
 
 **Sometimes other similar trees are mistaken**
@@ -140,7 +144,8 @@ for Sea almond. Here's more on
 [how to tell apart Sea almond and other similar trees on the shores](../cfketapang)
 .
 
-**Human uses:**
+## Human uses
+
 In Singapore, aquarists often put the leaves in their aquariums as they have an antibacterial effect due to the release of tannic and humic acid, which is believed to promote the fish health and provide a calming effect. According to Burkill, the timber is considered good as it is elastic, easy to work and seasons well. It is used interchangeably in some places as
 [Penaga Laut](../calophyllum/inophyllum)
 (

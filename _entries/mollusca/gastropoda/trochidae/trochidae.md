@@ -120,6 +120,11 @@ location:
 size:
 - 3.0
 - 15.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -142,7 +147,8 @@ the
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What do they eat?**
 Top shells graze the algae that thrive on the rocks, scraping this off with their radula.
-**Human uses:**
+## Human uses
+
 The shell is lined with mother-of-pearl. Larger species are collected for food and their shells that are made into ornaments and pearl buttons. This is still a significant industry in some Pacific Islands and effort is being made to establish a susbtainable method of farming these snails.
 
 **Status and threats:**

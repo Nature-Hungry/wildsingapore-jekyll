@@ -6,6 +6,11 @@ keywords: small, snail, shell, gastropod, mollusc, mollusk, mollusca, field, gui
   info, photo
 layout: entry
 coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/melogenidae/cochlidium/050806skdg0609m.jpg
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
  

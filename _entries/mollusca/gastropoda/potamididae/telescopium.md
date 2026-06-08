@@ -43,15 +43,6 @@ links_references: "**Links**\n- [Rodong/Berongan\n  (*Telescopium telescopium*)]
   \  Checklist of The Molluscs of Singapore* (pdf), Raffles\n  Museum of Biodiversity\
   \ Research, National University of Singapore.\n- Abbott, R.\n  Tucker, 1991. *Seashells\n"
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... You are almost certain to see
-      many of large snails on mudflats in the mangroves. It is edible and was eaten
-      in the past, less so these days. It is a harmless herbivore, nibbling on algae.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: You are almost certain to see many of large snails on mudflats in the
-      mangroves. It is edible and was eaten in the past, less so these days. It is
-      a harmless herbivore, nibbling on algae.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5518m3.jpg
     caption: Sungei Buloh Wetland Reserve, Mar 06
@@ -90,9 +81,17 @@ size:
 - 8.0
 - 15.0
 rdb: LC
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- You are almost certain to see many of large snails on mudflats in the mangroves
+- It is edible and was eaten in the past, less so these days
+- It is a harmless herbivore, nibbling on algae.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 This large snail is about the size and shape of an ice-cream cone! It is commonly seen in our mangroves, on mud, sometimes in the hundreds covering a large area. It is also called
@@ -107,7 +106,8 @@ in Malay.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **What does it eat?**
 Rodong sucks up detritus and algae from the mud surface at low tide, using its proboscis.
-**Human uses:**
+## Human uses
+
 It is eaten and is said to be delicious when steamed and eaten with chilli. It is gathered for food in Southeast Asia and often sold in traditional markets.
 
 ---

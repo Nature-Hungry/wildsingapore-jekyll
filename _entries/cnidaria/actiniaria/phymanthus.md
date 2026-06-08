@@ -8,7 +8,13 @@ layout: entry
 family: Phymantidae
 genus: Phymanthus
 species: ''
-attributes: []
+attributes:
+- 129
+- 130
+- 133
+- 153
+- 150
+- 143
 inat_id: 361297
 stateofmatter: Life
 kingdom: Animalia
@@ -124,6 +130,11 @@ location:
 size:
 - 8.0
 - 12.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -146,7 +157,7 @@ As at 2024, it is assessed not to be approaching the criteria for being listed a
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Frilly friends:**
 The Frilly anemone harbours symbiotic algae (called zooxanthellae) that undergo photosynthesis to produce food. The algae share this food with the anemone, which in turn provides the algae with shelter and minerals. A pair of
-[Peacock-tail anemone shrimps](../../crustacea/othercrust/shrimp/brevicarpalis)
+[Peacock-tail anemone shrimps](/wildfacts/guides/crustacea/crustacea/othercrust/shrimp/brevicarpalis)
 were seen once in a Frilly anemone.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}

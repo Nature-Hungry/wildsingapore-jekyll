@@ -19,15 +19,6 @@ order: Scleractinia
 updated: Nov 2019
 coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... When they are large, they are
-      not attached to the ground. Tiny ones may be seen attached to coral rubble.
-      Watch your step as you might break these flat animals that live on sandy areas.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: When they are large, they are not attached to the ground. Tiny ones may
-      be seen attached to coral rubble. Watch your step as you might break these flat
-      animals that live on sandy areas.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3.jpg
     caption: Raffles Lighthouse, Jul 06
@@ -123,9 +114,17 @@ size:
 - 15.0
 - 1.0
 - 2.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- When they are large, they are not attached to the ground
+- Tiny ones may be seen attached to coral rubble
+- Watch your step as you might break these flat animals that live on sandy areas.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 This saucer-shaped hard coral is sometimes seen on many of our Southern shores, on sandy shallow areas near living reefs. On some undisturbed shores, many individuals in various stages of development can be seen near one another.

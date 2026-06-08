@@ -55,6 +55,10 @@ size:
 - 100.0
 - 150.0
 rdb: CR
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- terrestrial
 ---
 
 ## Where seen?
@@ -67,7 +71,8 @@ This strange bush with tassels of dry flower bracts are planted at Chek Jawa. Ac
 A shrub (1-1.5m tall). Leaves with prominent veins, arranged alternately. Young leaves are small and appear to overlap one another. The papery flower bracts appear in a long drooping row. Green when young, turning brown. Fruits are pods that explode when ripe. The seeds are tiny, brown-black with red mottling.
 
 ****
-**Human uses:**
+## Human uses
+
 According to Burkill, the leaves are administered after childbirth and used for bathing the body. It is also used to treat rheumatism. The leaves were used to stuff pillows in Perak. The wood is burned for use in blackening the teeth. Some species of
 *Flemingia*
 (but not this one) produce a brilliant orange dye but this can only be used on silk and does not work on cotton.

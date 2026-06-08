@@ -106,6 +106,11 @@ size:
 - 3.0
 - 5.0
 rdb: LC
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -127,7 +132,8 @@ and
 [how to tell these snails apart](cfpotamids)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
-**Human uses:**
+## Human uses
+
 Chut-chut are eaten in Singapore. They are boiled and eaten by biting off the tip of the shell and sucking out the animal. They are also collected for food in other parts of Southeast Asia.
 
 ---

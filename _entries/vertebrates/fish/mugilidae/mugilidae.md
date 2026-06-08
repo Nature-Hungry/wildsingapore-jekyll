@@ -180,6 +180,11 @@ location:
 size:
 - 1.0
 - 4.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -196,7 +201,8 @@ On the intertidal, tiny to small juveniles (1-4cm) can be seen. Body long and cy
 **What do they eat?**
 They feed by filtering large quantities of bottom detritus, to eat microscopic algae and other tiny organisms. They may have only tiny teeth or no teeth at all. Most are found in brackish coastal waters, in some, the juveniles are found in freshwater.
 
-**Human uses:**
+## Human uses
+
 They are among the important fishes harvested for food with a wide variety of nets.
 
 ---

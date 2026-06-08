@@ -20,14 +20,6 @@ suborder: Blennioidei
 updated: Sep 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/variabilis/051216smkg3405m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Some can give a nasty bite!
-      They lay their eggs in empty shells, so please put them back where you found
-      them. Some of them nibble on bigger living fishes!
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Some can give a nasty bite! They lay their eggs in empty shells, so please
-      put them back where you found them. Some of them nibble on bigger living fishes!
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/variabilis/051216smkg3405m3.jpg
     caption: Pulau Semakau, Dec 05
@@ -229,9 +221,17 @@ location:
 size:
 - 10.0
 - 15.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Some can give a nasty bite! They lay their eggs in empty shells, so please put them
+  back where you found them
+- Some of them nibble on bigger living fishes!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Small fang-blennies are sometimes encountered on some of our Southern shores, among seagrasses. Divers probably see a greater variety of blennies.

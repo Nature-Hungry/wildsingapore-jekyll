@@ -19,15 +19,6 @@ order: Corallimorpharia
 updated: Nov 2024
 coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/beaded/060527sjig6070m3d.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They are animals and not plants!
-      They are distinguished from sea anemones by an upturned central mouth. They
-      often grow over coral rubble or stones. Don't step on them!
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They are animals and not plants! They are distinguished from sea anemones
-      by an upturned central mouth. They often grow over coral rubble or stones. Don't
-      step on them!
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/beaded/060527sjig6070m3d.jpg
     caption: Upturned mouth. St. John's Island, May 05
@@ -116,9 +107,17 @@ links_references: '**Links**
 size:
 - 1.0
 - 2.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They are animals and not plants! They are distinguished from sea anemones by an
+  upturned central mouth
+- They often grow over coral rubble or stones. Don't step on them!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 These little disk-shaped animals are commonly encountered on our Southern shores, where they can sometimes form carpets over coral rubble.
@@ -161,7 +160,7 @@ and tiny shrimps are sometimes seen on corallimorphs.
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Corallimorph babies:**
 Corallimorphs can reproduce by budding or by fission, in which the parent divides to produce a new polyp.
 
-**Role in the habitat:**
+## Role in habitat
 Corallimorphs are secondary colonisers that rapidly cover empty spaces in a reef, e.g., dead corals. Corallimorphs are more resistant against pollutants and are thus used as indicators of pollution.
 **Status and threats:**
 As at 2024, none of our corallimorphs are listed among the endangered animals of Singapore. Some are listed as

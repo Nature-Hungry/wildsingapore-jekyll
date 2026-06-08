@@ -95,6 +95,11 @@ size:
 - 160.0
 - 600.0
 rdb: CR
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -107,7 +112,8 @@ A large ray that can grow to about 160cm in diameter and 6m in total length. It 
 **What does it eat?**
 Small fishes, clams, crabs, shrimps, worms and jellyfishes
 
-**Human uses:**
+## Human uses
+
 It is commonly caught although not esteemed as a food fish.
 
 **Status and threats:**

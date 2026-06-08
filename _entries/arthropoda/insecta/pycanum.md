@@ -35,13 +35,19 @@ galleries:
     caption: Labrador, Dec 15 Photo shared by Marcus Ng on flickr.
 links_references: '**Links**
 
-  - [Giant Shield Bug and Its Host Plant](http://www.natureloveyou.sg/Plant%20Story/Plant%20Story%20-%20Stink%20Bug.html) on [The Plant Observatory website](http://www.natureloveyou.sg/): photos and detailed observations.
+  - [Giant Shield Bug and Its Host Plant](http://www.natureloveyou.sg/Plant%20Story/Plant%20Story%20-%20Stink%20Bug.html)
+  on [The Plant Observatory website](http://www.natureloveyou.sg/): photos and detailed
+  observations.
 
   '
 location:
 - ubn
 size:
 - 3.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- terrestrial
 ---
 
 ## Where seen?

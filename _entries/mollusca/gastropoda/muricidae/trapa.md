@@ -122,7 +122,12 @@ location:
 size:
 - 6.0
 - 7.0
-rdb: Lc
+rdb: LC
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -135,7 +140,8 @@ It is rare to come across the living snail but the shells of dead snails are oft
 **What does it eat?**
 Like other drills (Family Muricidae) the Rare-spined murex snail can drill through the shells of clams and snails.
 
-{% include img-wrap-group.html items=page.galleries.gallery2 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery2 %}## Human uses
+
 It is sometimes collected as food by coastal dwellers (e.g., in Malaysia) and for its shell for the shell trade.
 
 **Status and threats:**

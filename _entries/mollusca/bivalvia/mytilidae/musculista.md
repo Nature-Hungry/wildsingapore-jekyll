@@ -100,6 +100,11 @@ size:
 - 1.0
 - 2.0
 rdb: DD
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -132,7 +137,8 @@ Sometimes, small
 [Hairy spoon seagrass](../../../plants/seagrass/decipiens)
 were seen growing on nest mussel beds.
 
-{% include img-wrap-group.html items=page.galleries.gallery3 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery3 %}## Human uses
+
 These mussels are considered pests where they establish themselves outside their natural range, e.g., in New Zealand and California. They probably arrived as larvae carried in the ballast water of ocean-going ships. In China and Thailand, they are an inexpensive food and also used to feed poultry, shrimp and fish.
 
 ---

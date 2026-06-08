@@ -122,6 +122,11 @@ location:
 size:
 - 4.0
 - 7.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -144,7 +149,8 @@ are often embedded in living hard corals.
 **What do they eat?**
 Like most other bivalves, scallops are filter feeders. When submerged, a scallop opens its valves slightly and sucks in a current of water. It uses its enlarged gills to sieve food particles out of this current.
 
-{% include img-wrap-group.html items=page.galleries.gallery2 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery2 %}## Human uses
+
 Larger scallop species are harvested for seafood. Usually what is eaten is only the adductor muscle that holds the two valves together. Our wild scallops are much too small to yield the kind of scallops you can buy at the supermarket. The flesh of the adductor muscle is sweet because it contains a high amount of gylcogen. Like other filter-feeding clams, however, scallops may be affected by
 [red tide and other harmful algal blooms](../../../plants/seaweed/redtide)
 when they are then harmful to eat.

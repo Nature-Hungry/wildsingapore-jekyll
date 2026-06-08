@@ -106,6 +106,11 @@ links_references: '**Links**
   . Singapore Biodiversity Records 2014: 299-300.
 
   '
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -114,7 +119,7 @@ These fish and shrimp partnership is seen on some of our shores. Their co-operat
 ## Features
 
 The shrimp goby lives in the same burrow with a
-[snapping shrimp](../../../crustacea/othercrust/shrimp/alpheidae)
+[snapping shrimp](..//wildfacts/guides/crustacea/crustacea/othercrust/shrimp/alpheidae)
 . With keener eyesight, the goby keeps a look-out while the shrimp busily digs out and maintains their shared home. The shrimp is literally constantly in touch with the goby with at least one of its antennae always on the goby. When the goby darts into the burrow, the shrimp is right behind it!
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

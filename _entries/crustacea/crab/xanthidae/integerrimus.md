@@ -33,15 +33,6 @@ subfamily: Zosiminae
 updated: Dec 2019
 coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/integerrimus/060811rlhd5792m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... These colourful crabs are poisonous
-      to eat! Their toxins are NOT destroyed by cooking. They are generally secretive
-      and slow-moving. They are not venomous but it's best not to touch them.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: These colourful crabs are poisonous to eat! Their toxins are NOT destroyed
-      by cooking. They are generally secretive and slow-moving. They are not venomous
-      but it's best not to touch them.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/integerrimus/060811rlhd5792m3.jpg
     caption: Raffles Lighthouse, Aug 06
@@ -251,9 +242,17 @@ size:
 - 8.0
 - 10.0
 rdb: NT
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- These colourful crabs are poisonous to eat! Their toxins are NOT destroyed by cooking
+- They are generally secretive and slow-moving
+- They are not venomous but it's best not to touch them.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 This colourful round crab can be very commonly seen on many of our shores in coral rubble areas and reefs. Slow moving, it usually hides under large coral rubble pieces, but can be quite active at night.

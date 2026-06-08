@@ -79,6 +79,11 @@ size:
 - 20.0
 - 40.0
 rdb: NT
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -98,7 +103,8 @@ about the archerfishes' infamous ability to shoot down insects.
 **Spotted babies:**
 A female Spotted archerfish can produce lots of floating eggs, 20,000-150,000 of them.
 
-**Human uses:**
+## Human uses
+
 Sometimes taken by anglers and considered good eating. Sold fresh in markets. Also taken for the live aquarium trade.
 
 ---

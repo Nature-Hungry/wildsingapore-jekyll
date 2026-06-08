@@ -6,6 +6,12 @@ keywords: bulb, bubble, tip, anemone, entacmaea, quadricolor, actiniidae, actini
   fact sheet, info, photo
 layout: entry
 attributes:
+- 129
+- 130
+- 133
+- 153
+- 150
+- 143
 - 6
 - 9
 - 15
@@ -210,6 +216,11 @@ size:
 - 30.0
 - 40.0
 rdb: LC
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 
@@ -248,7 +259,8 @@ sp.) including
 **Status and threats:**
 As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.
 
-{% include img-wrap-group.html items=page.galleries.gallery3 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery3 %}## Human uses
+
 Unfortunately, this beautiful anemone is collected for the live aquarium trade.
 
 **Status and threats:**

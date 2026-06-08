@@ -32,15 +32,6 @@ subfamily: Pilumninae
 updated: Sep 2019
 coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/pilumnidae/pilumnidae/080621labd6040m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... 'Hair' covers almost every
-      part of the body! The hairs trap sediments, adding to their camouflage. So please
-      watch out when you step among the rocks. They are mildy poisonous!
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: '''Hair'' covers almost every part of the body! The hairs trap sediments,
-      adding to their camouflage. So please watch out when you step among the rocks.
-      They are mildy poisonous!'
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/pilumnidae/pilumnidae/080621labd6040m3.jpg
     caption: Labrador, Jun 08
@@ -218,9 +209,18 @@ location:
 size:
 - 3.0
 - 5.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- '''Hair'' covers almost every part of the body! The hairs trap sediments, adding
+  to their camouflage'
+- So please watch out when you step among the rocks
+- They are mildy poisonous!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Hairy crabs are commonly seen on rocky and coral rubble areas on many of our shores. The "teddy-bear" of crabs, these hairy little creatures fluff up in the water and look positively cuddlesome. But they are hard to spot and usually well hidden, especially during the day. They are more active at night, but even then, they usually scuttle into the nearest crack or crevice at the first sign of danger.

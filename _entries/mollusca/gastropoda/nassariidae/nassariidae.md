@@ -20,16 +20,6 @@ superfamily: Buccinoidea
 updated: Aug 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/olivaceaus/050609cftg7531m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... These tiny snails are scavengers.
-      When you see a dead thing, look for them! The siphon of a whelk can be as long
-      as its body. Sometimes, a tiny sea anemone hitches a ride on the shell of a
-      living whelk.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: These tiny snails are scavengers. When you see a dead thing, look for
-      them! The siphon of a whelk can be as long as its body. Sometimes, a tiny sea
-      anemone hitches a ride on the shell of a living whelk.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/olivaceaus/050609cftg7531m3.jpg
     caption: With a large barnacle on the shell. Changi, May 08
@@ -160,9 +150,20 @@ location:
 - sis
 size:
 - 2.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- These tiny snails are scavengers
+- When you see a dead thing, look for them! The siphon of a whelk can be as long as
+  its body
+- Sometimes, a tiny sea anemone hitches a ride on the shell of a living whelk.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?
+## Where seen?
 Whelks are commonly seen on many of our shores. On sandy or muddy shores and among seagrasses. Most whelks live in shallow waters, often in large groups. They are sometimes also called Nassa mud snails or Dog whelks. These small snails are among the busiest creatures you might come across at low tide, as they try to beat one another to any fresh dead animals left on the shore. When not foraging, whelks hide in the sand.
 
 ## Features
@@ -176,10 +177,11 @@ Whelks are active scavengers and often seen busily foraging in pools at the chan
 Often, a
 [tiny sea anemone](../../../cnidaria/actiniaria/snail)
 hitches a ride on the shell of a whelk! The anemone probably benefits from the whelk's left overs, and avoids being permanently buried in the sediments. It is not certain if the whelk gets anything in return.
-[Barnacles](../../../crustacea/othercrust/ciriipedia/cirripedia)
+[Barnacles](..//wildfacts/guides/crustacea/crustacea/othercrust/ciriipedia/cirripedia)
 may sometimes also be found on the shells of large living whelks.
 
-**Human uses:**
+## Human uses
+
 Although abundant, they are not much collected. Locally, they may be used as food or bait, and the shells sometimes used for shell craft.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}

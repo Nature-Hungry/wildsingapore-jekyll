@@ -76,6 +76,11 @@ location:
 size:
 - 15.0
 - 50.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -97,7 +102,8 @@ About 15cm but can grow to 50cm. Like more familiar pufferfishes, the porcupinef
 **What do they eat?**
 They eat mainly hard-shelled invertebrates like snails, crabs, sea urchins, crushing these with their beak-like teeth. Some are only active at night.
 
-{% include img-wrap-group.html items=page.galleries.gallery2 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery2 %}## Human uses
+
 Some species are harvested for traditional chinese medicine.
 
 **Status and threats:**

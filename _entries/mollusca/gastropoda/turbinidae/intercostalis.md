@@ -89,6 +89,11 @@ size:
 - 3.0
 - 5.0
 - 6.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -105,7 +110,8 @@ the
 [how to tell apart turban and top shell snails](../topturban)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
-**Human uses:**
+## Human uses
+
 It is collected for food by coastal dwellers.
 
 ---

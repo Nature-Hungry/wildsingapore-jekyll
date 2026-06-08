@@ -88,12 +88,17 @@ location:
 - tsm
 - rfl
 - lfa
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 **What are Palaemonid shrimps?**
 Palaemonid
 shrimps are
-[crustaceans](../../crustacea)
+[crustaceans](/wildfacts/guides/crustacea/crustacea)
 that belong to Family Palaemonidae.
 ****
 

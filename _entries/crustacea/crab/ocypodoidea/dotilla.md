@@ -31,16 +31,6 @@ subfamily: Dotillinae
 updated: Dec 2019
 coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/dotilla/041127cjd8656m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They are everywhere on the
-      sandy shore at low tide. Don't step on them! They are very shy. To see them,
-      wait quietly without moving. Unlike most crabs, they can run forwards, backwards
-      as well as sideways.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They are everywhere on the sandy shore at low tide. Don't step on them!
-      They are very shy. To see them, wait quietly without moving. Unlike most crabs,
-      they can run forwards, backwards as well as sideways.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/dotilla/041127cjd8656m3.jpg
     caption: Chek Jawa, Nov 04
@@ -167,10 +157,19 @@ location:
 - lfa
 size:
 - 1.5
-rdb: Lc
+rdb: LC
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They are everywhere on the sandy shore at low tide. Don't step on them! They are
+  very shy
+- To see them, wait quietly without moving
+- Unlike most crabs, they can run forwards, backwards as well as sideways.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 This amusing tiny ball-shaped crab with enormously elongated pincers is sometimes seen on natural sand bars. While the shy crab itself is seldom seen (it hides as soon as it senses footsteps far away), the balls of sand that it leaves on the shore at low tide indicate where it is active. To spot one, you will have to wait quietly next to a burrow. Stay low and avoid casting a shadow over the burrow. In a few minutes, it and its neighbours will appear. If you stay still, they will go about their amusing business

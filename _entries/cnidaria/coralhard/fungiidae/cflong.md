@@ -52,6 +52,11 @@ galleries:
     caption: Walls in several long overlapping lines running perpendicular to central
       groove to the edge. Wall teeth tiny not obvious when covered by tissue. Tentacles
       tiny.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 These elongated mushroom corals that lie unattached to the ground may look similar at first glance. Here's more on how to tell them apart.

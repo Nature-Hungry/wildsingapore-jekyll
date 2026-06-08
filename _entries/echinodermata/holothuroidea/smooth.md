@@ -93,6 +93,11 @@ location:
 - tm
 - ecp
 - laz
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

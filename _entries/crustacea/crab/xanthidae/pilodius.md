@@ -64,6 +64,11 @@ location:
 - sji
 size:
 - 1.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

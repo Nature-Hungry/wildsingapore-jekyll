@@ -162,6 +162,11 @@ size:
 - 5.0
 - 8.0
 rdb: LC
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -183,7 +188,8 @@ and
 [hydroids](../../../cnidaria/others/hydrozoa/hydrozoa)
 .
 
-**Human uses:**
+## Human uses
+
 It is sold as seafood in some places.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}

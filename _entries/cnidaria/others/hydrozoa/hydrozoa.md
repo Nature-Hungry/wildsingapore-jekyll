@@ -19,14 +19,6 @@ suborder: Filifera
 updated: May 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/candy/040409tusad0141m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Often mistaken for plants,
-      they are animals! Some can sting powerfully. Don't touch them. Each 'bush' is
-      a colony of many little polyps.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Often mistaken for plants, they are animals! Some can sting powerfully.
-      Don't touch them. Each 'bush' is a colony of many little polyps.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/candy/040409tusad0141m3.jpg
     caption: Colourful Candy hydroids . Tuas, Apr 04
@@ -138,9 +130,17 @@ links_references: '**Links**
   . 5
 
   '
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Often mistaken for plants, they are animals! Some can sting powerfully. Don't touch
+  them
+- Each 'bush' is a colony of many little polyps.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 A wider variety of those that are large and attached to hard surfaces are commonly encountered on our Northern intertidal shores. Forming colourful fluffy patches. Some fiery stinging ones are also commonly seen on our Southern Islands. They are often overlooked as they resemble plants. Many small to tiny jellyfish-like hydroids are recorded in the water (unattached to surfaces).

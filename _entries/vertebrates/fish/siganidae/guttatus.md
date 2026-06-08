@@ -89,6 +89,11 @@ size:
 - 15.0
 - 20.0
 rdb: NT
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -107,7 +112,8 @@ Wear covered shoes. Don't handle rabbitfishes.
 
 **What does it eat?**
 It eats algae that grows on the sea bottom.
-**Human uses:**
+## Human uses
+
 Sold fresh in some places as food.
 
 ---

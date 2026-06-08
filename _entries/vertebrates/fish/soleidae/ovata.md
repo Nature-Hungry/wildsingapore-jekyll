@@ -79,6 +79,11 @@ location:
 - snt
 - kus
 rdb: DD
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -92,7 +97,8 @@ To about 9cm long, those seen 4-5cm. Eyes on right side. Small, highly curved mo
 **What does it eat?**
 It hunts small animals that live on the sea bottom especially crustaceans.
 
-**Human uses:**
+## Human uses
+
 Large specimens are economically important and sold fresh, frozen and dried-salted.
 
 ---

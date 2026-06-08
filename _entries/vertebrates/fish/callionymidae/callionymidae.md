@@ -161,6 +161,11 @@ size:
 - 3.0
 - 5.0
 - 10.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -185,7 +190,8 @@ for
 **What do they eat?**
 They pick off small animals from the surface with their pointed, downward facing mouth.
 
-**Human uses:**
+## Human uses
+
 Some colourful species (
 *Synchiropus*
 sp.) are popular in the live aquarium trade. Unfortunately, they do poorly in captivity as they are difficult to feed since they only eat tiny animals.

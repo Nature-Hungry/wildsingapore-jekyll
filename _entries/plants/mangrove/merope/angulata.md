@@ -87,6 +87,10 @@ links_references: '**Links**
 size:
 - 300.0
 rdb: CR
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
 ---
 
 ## Where seen?
@@ -98,7 +102,8 @@ This rare lime-look-alike is found in the back mangroves, growing under mangrove
 
 A thorny shrub to about 3m tall, or scrambling plant. Leaves leathery, arranged alternately. The leaves (7-16cm long) give off a lime-like smell when crushed. There are stout spines in pairs or singly. Flowers small with 5 white petals, fragrant, one appearing in the leaf angles. Fruits (2.5-4cm) yellow, resembling a small lemon with three flat sides. They contain large, long, flattened seeds.
 
-**Human uses:**
+## Human uses
+
 The plant is valued by the Malays for medicinal purposes. According to Burkill, the roots are used to treat abdominal pains, and in childbirth treatment. A lotion of it is used to treat syphilis.
 
 **Status and threats:**

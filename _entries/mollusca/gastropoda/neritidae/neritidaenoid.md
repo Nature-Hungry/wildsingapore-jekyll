@@ -46,6 +46,11 @@ galleries:
     caption: ''
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/noid/080511sntd3190m3b.jpg
     caption: ''
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 **Unidentified nerite snail #070506sjig9293**

@@ -107,6 +107,11 @@ location:
 size:
 - 5.0
 - 8.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -138,7 +143,8 @@ species lack obvious 'teeth' and can grow to
 **Baby prawns:**
 Young Black tiger prawns live in mangroves and estuarine areas. Young Green tiger prawns settle in seagrass meadows. Adults move to deeper waters 20-50m. Adults mate and lay eggs in deeper waters.
 
-**Human uses:**
+## Human uses
+
 The larger prawns are important commercially. Tiger prawns are widely aquacultured and often raised unsustainably. More about the
 [impact of prawn farming](../../../concepts/prawnfarms)
 .

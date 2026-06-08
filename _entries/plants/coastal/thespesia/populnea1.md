@@ -5,6 +5,10 @@ keywords: portia, thespesia, populnea, malvaceae, plant, tree, field, guide, sea
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/thespesia/populnea/090428chgd0929m3.jpg
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- terrestrial
 ---
 
  

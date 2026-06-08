@@ -39,16 +39,23 @@ galleries:
     caption: Chek Jawa, Jun 08 Photo shared by Wong Ley Kun on her blog.
 links_references: '**Links**
 
-  - The Atlas Moth Chronicles - [Episode 1](http://butterflycircle.blogspot.sg/2012/08/the-atlas-moth-chronicles-episode-1.html) and [Episode 2](http://butterflycircle.blogspot.sg/2012/08/the-atlas-moth-chronicles-episode-2.html) and [Episode 3](http://butterflycircle.blogspot.sg/2012/09/the-atlas-moth-chronicles-episode-3.html) on the Butterflies of Singapore blog: documenting the life cycle and other interesting behaviour.
+  - The Atlas Moth Chronicles - [Episode 1](http://butterflycircle.blogspot.sg/2012/08/the-atlas-moth-chronicles-episode-1.html)
+  and [Episode 2](http://butterflycircle.blogspot.sg/2012/08/the-atlas-moth-chronicles-episode-2.html)
+  and [Episode 3](http://butterflycircle.blogspot.sg/2012/09/the-atlas-moth-chronicles-episode-3.html)
+  on the Butterflies of Singapore blog: documenting the life cycle and other interesting
+  behaviour.
 
-  - *[Attacus atlas](https://singapore.biodiversity.online/taxo4254/mainSpace/Attacus atlas.html)* on Taxo4254.
+  - *[Attacus atlas](https://singapore.biodiversity.online/taxo4254/mainSpace/Attacus
+  atlas.html)* on Taxo4254.
 
 
   **References**
 
-  - Foo Maosheng. 30 Jun 2017.*An atlas moth infestation at Yishun*. Singapore Biodiversity Records 2017: 80-81.
+  - Foo Maosheng. 30 Jun 2017.*An atlas moth infestation at Yishun*. Singapore Biodiversity
+  Records 2017: 80-81.
 
-  - Paul Sterry,*"Butterflies and Moths: A Portrait of the Animal World"*, Todtri, 1995.
+  - Paul Sterry,*"Butterflies and Moths: A Portrait of the Animal World"*, Todtri,
+  1995.
 
   '
 location:
@@ -60,6 +67,10 @@ size:
 - 25.0
 - 30.0
 rdb: LC
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- terrestrial
 ---
 
 ## Where seen?

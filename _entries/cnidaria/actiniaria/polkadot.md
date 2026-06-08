@@ -5,15 +5,25 @@ keywords: polka, dot, actiniaria, anthozoa, cnidarian, field, guide, seashore, s
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
+- 129
+- 130
+- 133
+- 153
+- 150
+- 143
 - 6
 - 67
 - 88
 family: ''
 genus: ''
-species: identification*
+species: ''
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Actiniaria
 inat_id: 1
 stateofmatter: Life
-kingdom: Animalia
 updated: Nov 2019
 coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/polkadot/080619chgd5746m3.jpg
 galleries:
@@ -52,6 +62,11 @@ location:
 size:
 - 3.0
 - 4.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

@@ -1,10 +1,9 @@
 ---
 title: Maroon cow nudibranch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal
-  shores
-keywords: chromodoris, tumulifera, chromodoriidae, doridina, nudibranchia, slug,
-  seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, 
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: chromodoris, tumulifera, chromodoriidae, doridina, nudibranchia, slug, seaslug,
+  opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Chromodorididae
 genus: Goniobranchus
@@ -70,6 +69,11 @@ location:
 size:
 - 2.0
 - 3.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

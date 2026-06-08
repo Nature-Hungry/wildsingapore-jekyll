@@ -11,19 +11,6 @@ species: ''
 updated: Mar 2020
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They are NOT clams or even
-      snails! They are more similar to crabs and shrimps! A living barnacle has a
-      door over the opening in its shell. A dead one has a gaping hole. Other animals
-      may shelter in the empty shell. Barnacles affect urban living. They grow on
-      ships and thus affect shipping. Cities rely on ships for supplies and transportation!
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They are NOT clams or even snails! They are more similar to crabs and
-      shrimps! A living barnacle has a door over the opening in its shell. A dead
-      one has a gaping hole. Other animals may shelter in the empty shell. Barnacles
-      affect urban living. They grow on ships and thus affect shipping. Cities rely
-      on ships for supplies and transportation!
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/050510tusg6173m3.jpg
     caption: A variety of barnacles. Tuas, May 05
@@ -149,9 +136,21 @@ links_references: '**Links**
   . 5
 
   '
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They are NOT clams or even snails! They are more similar to crabs and shrimps! A
+  living barnacle has a door over the opening in its shell
+- A dead one has a gaping hole
+- Other animals may shelter in the empty shell
+- Barnacles affect urban living
+- They grow on ships and thus affect shipping
+- Cities rely on ships for supplies and transportation!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Barnacles are often ignored as our attention is drawn to more colourful and attractive shore animals. But barnacles are fascinating in their own right! Barnacles will grow on any hard surface immersed in seawater, so they are found literally everywhere in the intertidal zone. Barnacles are found on rocks, mangrove trees, pillars, boats. Barnacles are even found on other animals such as
@@ -160,7 +159,7 @@ and sea snakes. There are often even barnacles on top of other barnacles!
 
 **What are barnacles?**
 Barnacles are
-[crustaceans](../../crustacea)
+[crustaceans](/wildfacts/guides/crustacea/crustacea)
 like crabs and shrimps. But they belong to a different group, their own Class Cirripedia. There are about 900 species of barnacles.
 
 ## Features
@@ -209,14 +208,15 @@ Some barnacles have become parasites that live inside other animals. Parasitic b
 sp.](thompsonia)
 grow through the body of the host crab like a root system. The parasite does not kill the crab but it does affect the crab's reproductive system such that the crab becomes infertile. The parasitic barnacle eventually produces egg sacs that emerge through the crab's joints.
 
-**Role in the habitat:**
+## Role in habitat
 Despite their protective plates that are strongly glued down, barnacles are eaten by crabs, snails such as
 [drills](../../../mollusca/gastropoda/muricidae/muricidae)
 and the
 [Spiral melongena snail](../../../mollusca/gastropoda/melogenidae/cochlidium)
 and other predators. Dead barnacle shells provide hiding places for many small creatures. Sometimes you might see tiny mussels, small periwinkles and other animals hiding in the hollow shell of a dead barnacle.
 
-{% include img-wrap-group.html items=page.galleries.gallery5 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery5 %}## Human uses
+
 Barnacles are considered a menace to the shipping industry. An encrustation of barnacles soon develops over every ship hull. This reduces the speed of the ship and increases fuel consumption. Efforts to deter barnacle infestation include coating ship hulls with a toxic paint. However, this does not last and the toxic paint poisons the surroundings.
 
 The barnacles' tendency to accumulate heavy metals in their plates, however, makes them useful as bio-indicators to measure water pollution.

@@ -21,14 +21,6 @@ superfamily: Ostreoidea
 updated: Aug 2020
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Limpets are sometimes confused
-      with barnacles. Limpets can move! But only at high tide. The area around a limpet
-      is often grazed bare of algae.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Limpets are sometimes confused with barnacles. Limpets can move! But
-      only at high tide. The area around a limpet is often grazed bare of algae.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/keyhole/130426tkkd5691m6l.jpg
     caption: A limpet is a snail with an umbrella shaped shell. Pulau Tekukor, Apr
@@ -236,9 +228,17 @@ location:
 - smk
 - rfl
 - lfa
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Limpets are sometimes confused with barnacles
+- Limpets can move! But only at high tide
+- The area around a limpet is often grazed bare of algae.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Limpets are found many of our shores. Both on and under stones, as well as on rocks and other hard surfaces. Sometimes the shell is covered with algae and mud and the limpet might look like a sea slug. Immobile at low tide, these abundant snails are often considered uninteresting and ignored by visitors. But they are actually quite amazing little creatures.
@@ -250,7 +250,7 @@ Limpets are found many of our shores. Both on and under stones, as well as on ro
 , and like the snails more familiar to us, also have a broad foot upon which they creep about. Unlike snails, however, limpets don't have an operculum to seal the opening in their shell. Instead, they clamp down tightly against the rock, forming a seal between the shell edge and the rock. Their grip is so strong that if you try to pry them off, you will hurt them. So please don't do this. If you want to see what the limpet looks like under its shell, have a look at the factsheets instead.
 
 **Sometimes confused with**
-[barnacles](../../../crustacea/othercrust/ciriipedia/cirripedia)
+[barnacles](..//wildfacts/guides/crustacea/crustacea/othercrust/ciriipedia/cirripedia)
 which are crustacea; small
 [oysters](../../bivalvia/ostreidae/osteridae)
 (Family Ostreidae) which are
@@ -312,7 +312,8 @@ More on how to
 *Siphonaria*
 limpets lay eggs in circular or coiling jelly-like masses that contain thousands of eggs suspended in a gelatinous matrix, attached to a hard surface. The free-swimming limpet larvae have a little spiral shell like other 'normal' snails. As they develop, the shell flattens and becomes umbrella-shaped.
 
-{% include img-wrap-group.html items=page.galleries.gallery5 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery5 %}## Human uses
+
 Large limpets are often harvested as food by coastal dwellers.
 
 **Status and threats:**

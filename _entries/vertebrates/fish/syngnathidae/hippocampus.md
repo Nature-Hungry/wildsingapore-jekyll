@@ -53,18 +53,15 @@ links_references: "**Links**\n- [Seahorse\n  (*Hippocampus* sp.)](http://mangrov
   \ & Department of Zoology,\n  the National University of Singapore. 160 pp.\n- Davison,\n\
   \  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore\n  Red Data Book:\
   \ Threatened plants and animals of Singapore*.\n  Nature Society (Singapore). 285\
-  \ pp.\n- Allen, Gerry,\n  2000. *Marine\n"
+  \ pp.\n - Allen, Gerry, 2000. Marine Fishes of South-East Asia: A Field Guide for\
+  \ Anglers and Divers . Periplus Editions. 292 pp. - Kuiter, Rudie H. 2002. Guide\
+  \ to Sea Fishes of Australia: A Comprehensive Reference forDivers & Fishermen New\
+  \ Holland Publishers. 434pp. -Lieske, Ewald and Robert Myers. 2001. Coral Reef Fishes\
+  \ of the World Periplus Editions. 400pp. - Kuiter, Rudie H., 2000 (English edition).\
+  \ Seahorses, Pipefishes and their Relatives: A Comprehensive Guide to Syngnathiformes\
+  \ TMC Publishing, UK. 240 pp. -Sparks, John, 1999. Battle of the Sexes in the Animal\
+  \ World BBC Worldwide, London. 224 pp.\n"
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They are fishes and have bones
-      inside as well as outside The father gets 'pregnant'. They reproduce slowly.
-      They are globally endangered due to overharvesting for the traditional medicine
-      trade.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They are fishes and have bones inside as well as outside The father gets
-      'pregnant'. They reproduce slowly. They are globally endangered due to overharvesting
-      for the traditional medicine trade.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg
     caption: Often seen in a pair. Tanah Merah, Aug 09
@@ -87,47 +84,22 @@ galleries:
     caption: Estuarine seahorses 'hairy' and usually small
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/comes/050625labg8740m3.jpg
     caption: Tiger-tailed seahorses tail is banded yellow and black
-  gallery5:
-  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: 'Links Seahorse ( Hippocampus sp.) Tan, Leo W. H. & Ng, Peter K. L.,
-      1988. A Guide to Seashore Life . The Singapore Science Centre, Singapore. 160
-      pp. Spotted Seahorse ( Hippocampus kuda ) Lim, Kelvin K. P. & Jeffrey K. Y.
-      Low, 1998. A Guide to the Common Marine Fishes of Singapore . Singapore Science
-      Centre. 163 pp. Seahorses on NParks Flora and Fauna website. Project Seahorse
-      : THE website for everything about seahorses. Lots of info on seahorses and
-      details on the threats to them and conservation efforts, including a downloadable
-      ID guide to seahorses. Kingdom of the Seahorse on the Nova Online page of the
-      PBS website: lots of info and photos on seahorses, what they are and threats
-      to their existence. What is the social life of a seahorse? on the Mad Scientist
-      website: Ingrid Dodge explains the fascinating interactions among seahorses.
-      On a seahorse, what purpose does the coronet have? on the Mad Scientist website:
-      Ingrid Dodge suggests some reasons for the little crown on the seahorse''s head.
-      Family Syngnathidae and Tiger tail seahorse ( Hippocampus comes ) and Hedgehog
-      seahorse ( Hippocampus spinosissimus ) and Spotted seahorse ( Hippocampus kuda
-      ) and Long-nosed seahorse ( Hippocampus trimaculatus ) from FishBase : Technical
-      fact sheet. Papa seahorses prefer Big Mamas on the wild shores of singapore
-      blog. References Kelvin K. P. Lim. 15 November 2013. New Singapore record of
-      the seahorse, Japanese seahorse, Hippocampus mohnikei . Singapore Biodiversity
-      Records 2013: 68-69. Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994. Rhythm of the
-      Sea: The Life and Times of Labrador Beach . Division of Biology, School of Science,
-      Nanyang Technological University & Department of Zoology, the National University
-      of Singapore. 160 pp. Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
-      The Singapore Red Data Book: Threatened plants and animals of Singapore . Nature
-      Society (Singapore). 285 pp. Allen, Gerry, 2000. Marine Fishes of South-East
-      Asia: A Field Guide for Anglers and Divers . Periplus Editions. 292 pp. Kuiter,
-      Rudie H. 2002. Guide to Sea Fishes of Australia: A Comprehensive Reference for
-      Divers & Fishermen New Holland Publishers. 434pp. Lieske, Ewald and Robert Myers.
-      2001. Coral Reef Fishes of the World Periplus Editions. 400pp. Kuiter, Rudie
-      H., 2000 (English edition). Seahorses, Pipefishes and their Relatives: A Comprehensive
-      Guide to Syngnathiformes TMC Publishing, UK. 240 pp. Sparks, John, 1999. Battle
-      of the Sexes in the Animal World BBC Worldwide, London. 224 pp.'
 size:
 - 30.0
 - 5.0
 - 12.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They are fishes and have bones inside as well as outside The father gets 'pregnant'
+- They reproduce slowly
+- They are globally endangered due to overharvesting for the traditional medicine
+  trade.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Almost everyone knows what a seahorse looks like. An endearing, unfish-like fish, it truly captures the imagination.
@@ -211,5 +183,3 @@ which includes
 
 Hippocampus trimaculatus*
 
----
-{% include img-wrap-group.html items=page.galleries.gallery5 %}

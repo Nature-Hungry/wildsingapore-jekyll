@@ -46,6 +46,10 @@ galleries:
       2: 1241-2444.'
 size:
 - 1000.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- terrestrial
 ---
 
 ## Where seen?
@@ -63,7 +67,8 @@ The fruits are relished by bats. I've observed a steady stream of
 *Cynopterus brachyotis*
 ) feasting on a fruiting Chiku tree. Each bat clings onto the fruit that is almost as large as itself, and gorges it.
 
-**Human uses:**
+## Human uses
+
 According to Burkill, while in Asia it is valued for its fruits, in its native tropical America it is valued for its timber and latex. The gummy latex called 'chicle' was used as an ingredient in chewing gum. Burkill says it 'becomes plastic at the temperature of the mouth'. It has since been replaced by synthetic gums.
 
 ![](https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/manilkara/zapota/091213ubnd5792m6l.jpg)

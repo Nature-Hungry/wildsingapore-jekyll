@@ -94,6 +94,11 @@ size:
 - 7.0
 - 9.0
 rdb: DD
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -114,7 +119,8 @@ is a subspecies of
 may be what the ear of the goddess Diana looks like, hence the common name Diana conch or Diana Ear conch.
 *S. aratrum*
 is more elongate and has a brown-stained shell opening. Thus its common name is Dark Diana conch!
-**Human uses:**
+## Human uses
+
 *S. aurisdianae*
 is collected for food where it is abundant. The shell is used in shellcraft. It is sold in local markets of the central and northern Philippines.
 

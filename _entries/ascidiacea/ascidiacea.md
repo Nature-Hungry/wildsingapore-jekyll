@@ -8,6 +8,12 @@ layout: entry
 phylum: Chordata
 subphylum: Tunicata
 class: Ascidiacea
+attributes:
+- 130
+- 131
+- 139
+- 150
+- 129
 updated: Nov 2019
 coverimg: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/polycarpa/050510tusg6134m3.jpg
 trivia_title: if you learn only 3 things about them ...
@@ -29,31 +35,50 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/ascidiaceanoid/colonial.gif
     caption: Colonial ascidian Arrows show the flow of water through the animals.
   - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/beige/090623ecpd4904m3.jpg
-    caption: Colonial ascidians forming a sheet over hard surfaces. East Coast, Jun 09
+    caption: Colonial ascidians forming a sheet over hard surfaces. East Coast, Jun
+      09
   gallery3:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/dromiidae/dromiidae/050819cjg1656m3.jpg
     caption: Sponge crab using an ascidian disguise. Chek Jawa, Aug 05
   - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/indicus/080619chgd5684m3.jpg
     caption: A flatworm eating an ascidian? Changi, Jun 08
-links_references: "**Links**
-  - [Sea Squirt *Polycarpa*](http://mangrove.nus.edu.sg/pub/seashore/text/226) Tan, Leo W. H. & Ng, Peter K. L., 1988.
-  - [*A Guide to Seashore Life*](http://mangrove.nus.edu.sg/pub/seashore/). The Singapore Science Centre, Singapore. 160 pp.
-  - [Ascidiacea World Database](http://www.marinespecies.org/ascidiacea/index.php): technical fact sheets
-  - [The Dutch Ascidians Homepage](http://www.ascidians.com/) by Arjan Gittenberger: general introduction and photos of a wide range of ascidians.
-  - [Ascidians: Sea Squirts, Tunicates](http://www.seaslugforum.net/ascidian) on the Sea Slug Forum by Dr Bill Rudman: an introduction with close-up photos.
-  - [Ascidians](http://www.mesa.edu.au/friends/seashores/ascidians.html) on [Life on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1.html) by Keith Davey on the Marine Education Society of Australia website: a fabulous goldmine of a site which covers various kinds of intertidal habitats and their inhabitants. Fact sheet on ascidians with lovely diagrams showing the changes that the larva goes through as it develops into an adult, and details on a species found in Australia.
-  - on the wild shores of singapore blog
-  - [Blobs in the sea help us understand human health issues](http://wildshores.blogspot.com/2011/04/blobs-in-sea-help-us-understand-human.html)
-  
+links_references: '**Links** - [Sea Squirt *Polycarpa*](http://mangrove.nus.edu.sg/pub/seashore/text/226)
+  Tan, Leo W. H. & Ng, Peter K. L., 1988. - [*A Guide to Seashore Life*](http://mangrove.nus.edu.sg/pub/seashore/).
+  The Singapore Science Centre, Singapore. 160 pp. - [Ascidiacea World Database](http://www.marinespecies.org/ascidiacea/index.php):
+  technical fact sheets - [The Dutch Ascidians Homepage](http://www.ascidians.com/)
+  by Arjan Gittenberger: general introduction and photos of a wide range of ascidians.
+  - [Ascidians: Sea Squirts, Tunicates](http://www.seaslugforum.net/ascidian) on the
+  Sea Slug Forum by Dr Bill Rudman: an introduction with close-up photos. - [Ascidians](http://www.mesa.edu.au/friends/seashores/ascidians.html)
+  on [Life on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1.html)
+  by Keith Davey on the Marine Education Society of Australia website: a fabulous
+  goldmine of a site which covers various kinds of intertidal habitats and their inhabitants.
+  Fact sheet on ascidians with lovely diagrams showing the changes that the larva
+  goes through as it develops into an adult, and details on a species found in Australia.
+  - on the wild shores of singapore blog - [Blobs in the sea help us understand human
+  health issues](http://wildshores.blogspot.com/2011/04/blobs-in-sea-help-us-understand-human.html)
+
   **References**
-  
-  - Serina S-C Lee, Janlin Y-H Chan, Serena L-M Teo & Gretchen Lambert. State of knowledge of ascidian diversity in South China Sea and new records for Singapore. 29 June 2016. Raffles Bulletin of Zoology Supplement No. 34: 718-743.
-  - Tan Siong Kiat, Rene Ong & Toh Chay Hoon. 4 December 2015. *Records of Lamellaria snails in Singapore*. Singapore Biodiversity Records 2015: 193-195
-  - Monniot, Claude, Francoise Monniot and Pierre Laboute 1991.\n*Coral Reef Ascidians of New Caledonia*. Editions de Porstom.pp. 247
-  - Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004. *Invertebrate Zoology* Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
-  - Pechenik, Jan A., 2005. Biology of the Invertebrates. 5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
-  - Wee Y.C. and Peter K. L. Ng. 1994. A First Look at Biodiversity in Singapore. National Council on the Environment. 163pp.
-  - Ng, P. K. L. & Y. C. Wee, 1994. The Singapore Red Data Book: Threatened Plants and Animals of Singapore. The Nature Society (Singapore), Singapore. 343 pp."
+
+  - Serina S-C Lee, Janlin Y-H Chan, Serena L-M Teo & Gretchen Lambert. State of knowledge
+  of ascidian diversity in South China Sea and new records for Singapore. 29 June
+  2016. Raffles Bulletin of Zoology Supplement No. 34: 718-743. - Tan Siong Kiat,
+  Rene Ong & Toh Chay Hoon. 4 December 2015. *Records of Lamellaria snails in Singapore*.
+  Singapore Biodiversity Records 2015: 193-195 - Monniot, Claude, Francoise Monniot
+  and Pierre Laboute 1991.
+
+  *Coral Reef Ascidians of New Caledonia*. Editions de Porstom.pp. 247 - Edward E.
+  Ruppert, Richard S. Fox, Robert D. Barnes. 2004. *Invertebrate Zoology* Brooks/Cole
+  of Thomson Learning Inc., 7th Edition. pp. 963 - Pechenik, Jan A., 2005. Biology
+  of the Invertebrates. 5th edition. McGraw-Hill Book Co., Singapore. 578 pp. - Wee
+  Y.C. and Peter K. L. Ng. 1994. A First Look at Biodiversity in Singapore. National
+  Council on the Environment. 163pp. - Ng, P. K. L. & Y. C. Wee, 1994. The Singapore
+  Red Data Book: Threatened Plants and Animals of Singapore. The Nature Society (Singapore),
+  Singapore. 343 pp.'
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

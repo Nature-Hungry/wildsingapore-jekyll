@@ -87,6 +87,11 @@ size:
 - 2.0
 - 3.0
 rdb: NE
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -103,7 +108,8 @@ other fan-shaped green seaweeds. Here's more on
 [how to tell apart fan-shaped green seaweeds](cffan)
 .
 
-**Human uses:**
+## Human uses
+
 Some species have anti-bacterial and anti-tumor properties.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Species are difficult to positively identify without close examination of internal parts.

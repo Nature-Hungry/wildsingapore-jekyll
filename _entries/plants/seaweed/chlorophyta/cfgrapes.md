@@ -49,6 +49,11 @@ galleries:
     caption: Beaded cushion green seaweed Valonia sp.
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bornetella/050509hntg6001m3.jpg
     caption: Green sea sausage seaweed Bornetella sp.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 Here's how to tell apart these two green seaweeds with little round shapes.

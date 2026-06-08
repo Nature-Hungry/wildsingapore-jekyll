@@ -102,6 +102,10 @@ links_references: '**Links**
 size:
 - 700.0
 rdb: CR
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
 ---
 
 ## Where seen?
@@ -119,7 +123,8 @@ Flowers (1.5-2cm long) white, calyx usually with 5-6 slender lobes, in clusters 
 
 Propagule slender (25-40cm long) and tapered at each end, capped by the persistent sepals whose tips bend backwards to the fruit stalk.
 
-**Human uses:**
+## Human uses
+
 According to Burkill, the timber is too small for any real value and it only used for firewood.
 
 **Status and threats:**

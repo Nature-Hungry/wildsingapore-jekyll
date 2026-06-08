@@ -98,6 +98,11 @@ size:
 - 1.0
 - 1.5
 rdb: NE
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -115,7 +120,8 @@ similar green seaweeds. Here's more on
 [how to tell apart some green seaweeds](cfgrapes)
 .
 
-**Human uses:**
+## Human uses
+
 It is eaten in some places and used as medicine for its antifungal properties and ability to lower blood pressure.
 
 ![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/peltata/070714bbd3996m3.jpg)

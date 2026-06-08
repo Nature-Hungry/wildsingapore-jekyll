@@ -147,6 +147,11 @@ size:
 - 5.0
 - 6.0
 rdb: LC
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -164,7 +169,8 @@ the
 that is easily distinguished by its spherical shell which has a brown-coloured blotch on the underside.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
-**Human uses:**
+## Human uses
+
 Elsewhere, it is collected in large quantities for food and the shell trade. In Thailand, it is actively collected at low tide by hand and sold by weight for shell craft, in batches of 5,000-10,000 shells.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}

@@ -154,6 +154,11 @@ location:
 - tsm
 - rfl
 - lfa
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -179,7 +184,8 @@ According to
 *Halymenia*
 species.
 
-**Human uses:**
+## Human uses
+
 Among the Halymenia species that are eaten by people are
 *H. discoidea*
 and

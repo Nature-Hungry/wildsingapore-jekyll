@@ -186,6 +186,11 @@ location:
 size:
 - 50.0
 - 50.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -218,7 +223,8 @@ These surface-dwelling fishes hunt small surface-dwelling fishes, catching these
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**Baby needlefishes:**
 Their eggs have entangling tendrils so the eggs cling to one another or to objects in the water. Juveniles of some species shelter in mangroves, moving out to deeper waters when they mature.
 
-**Human uses:**
+## Human uses
+
 In some places, they are caught for eating. Although the flesh is said to taste good, the fishes have many small bones which are green and thus appear rather unappetising.
 
 ---

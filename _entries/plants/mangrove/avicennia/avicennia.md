@@ -134,6 +134,10 @@ size:
 - 3000.0
 - 1000.0
 - 2500.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
 ---
 
 ## Where seen?
@@ -152,7 +156,8 @@ Fruits small (1-2cm long), different shapes depending on the species. The fruit 
 *Avicennia*
 is named after Ibn Sina (980-1037 AD), a Persian physician-philosopher who gained fame by curing, at the tender age of 17, the King of Bukhhara of an ailment that other physicians were unable to treat. As a reward, he asked only for permission to use the King's library. Ibn Sina went on to write an immense encyclopaedia of the medical knowledge of his time, which remained in use for the next six centuries. The encyclopaedia included his own insights into the causes and spread of diseases and their treatment including tuberculosis, meningitis (he was the first to describe it), gynaecological and diseases of childhood. He also wrote an encyclopaedia of other scientific and philosophical knowledge covering physics, mathematics, economics and politics. In this, he also added his own insights into among others, the laws of physics, astronomical measurements and mathematical verifications.
 
-**Human uses:**
+## Human uses
+
 According to Burkill, the tree provides an "indifferent firewood" and the timber often too twisted to be of use. However, he reported it was widely used to smoke fish as it gave "an agreeable flavour" and also for smoking rubber. The 'seeds' are also eaten in various ways by various coastal natives with much treatment such as boiling then soaking or sun drying or roasting in order to make them more palatable. The leaves are fed to cattle in the Red Sea, Persian Gulf and India as well as Australia. Medical uses include the resin for toothache, as a contraceptive, an aphrodisiac. The ash from burnt wood is used to make soap as there is a large amount of alkali in it.
 
 **Status and threats:**

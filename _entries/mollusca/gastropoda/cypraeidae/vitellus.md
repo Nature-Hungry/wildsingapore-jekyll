@@ -84,6 +84,11 @@ location:
 size:
 - 7.0
 - 10.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -102,7 +107,8 @@ a
 [how to tell apart slugs and animals that look like slugs](../../../glossary/flatwormslug)
 .
 
-**Human uses:**
+## Human uses
+
 It is collected for food and the shell for the shell trade.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

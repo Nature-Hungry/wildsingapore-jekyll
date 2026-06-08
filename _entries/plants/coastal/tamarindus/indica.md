@@ -62,6 +62,10 @@ galleries:
 size:
 - 2000.0
 - 2500.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- terrestrial
 ---
 
 ## Where seen?
@@ -73,7 +77,8 @@ The tree is a native of East Africa and West Asia but is now widespread througho
 
 A tall tree (20-25m). The compound leaves (6-12cm long) are made up of little leaflets. The leaflet tips are minutely notched and the leaflets fold together at dusk. The beautiful small flowers are rose red in the bud and when blooming is pale yellowish with pink veins. The sausage-shaped pods (4-20cm long) are scurfy brown, according to Corners, and pithy green inside when unripe. When ripe it contains a soft acidic pulp and many hard-coated seeds.
 
-**Human uses:**
+## Human uses
+
 The Asam tree has plenty of uses. Burkill shares how the pulp is processed and used: the ripe pods are cracked, and pulp and seeds squeezed out. A little salt or sugar might be added and the pulp is ready to use for cooking in condiments such as chutney and deserts, sweets and chilled drinks. It is an important ingredient in the local favourite: asam fish! Boiled with an equal weight of sugar, the pulp becomes a jam. A syrup can also be made.
 
 The pulp also has medicinal uses. It is a gentle laxative, sometimes the roots are used instead. Burkill says the salted pulp may also be made up into balls and steamed then dried in the sun and then 'exposed at night to the dew for a week'. They are then packed into earthenware jars which are 'well closed'. A liquid, running thickly like oil, drains from them in storage, especially if the jars are allowed to stand in the sun. The liquid is used for medicinal uses such as treating mouth ailments.

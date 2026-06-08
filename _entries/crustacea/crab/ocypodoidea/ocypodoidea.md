@@ -27,17 +27,6 @@ superfamily: Ocypodoidea
 updated: Dec 2019
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: 'if you learn only 3 things about them ... This group includes crabs
-      usually found on sandy shores: fiddler crabs, soldier crabs, sand bubblers and
-      ghost crabs. They come out at low tide and cover the shore. Don''t step on them!
-      They are very shy. To see them, wait quietly without moving.'
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: 'This group includes crabs usually found on sandy shores: fiddler crabs,
-      soldier crabs, sand bubblers and ghost crabs. They come out at low tide and
-      cover the shore. Don''t step on them! They are very shy. To see them, wait quietly
-      without moving.'
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/ceratophthalmus/090818tmd9312m3a.jpg
     caption: The eye stalks of a ghost crab 'fold' away into grooves at the side of
@@ -190,9 +179,19 @@ links_references: '**Links**
 location:
 - sbw
 - lck
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- 'This group includes crabs usually found on sandy shores: fiddler crabs, soldier
+  crabs, sand bubblers and ghost crabs'
+- They come out at low tide and cover the shore. Don't step on them! They are very
+  shy
+- To see them, wait quietly without moving.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Crabs belonging to this family include some of the most commonly encountered on our shores during the day:

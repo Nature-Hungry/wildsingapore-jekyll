@@ -6,6 +6,12 @@ keywords: leathery, anemone, radianthus, heteractis, crispa, stichodactylidae, a
   fact sheet, info, photo
 layout: entry
 attributes:
+- 129
+- 130
+- 133
+- 153
+- 150
+- 143
 - 6
 - 88
 - 113
@@ -175,6 +181,11 @@ size:
 - 30.0
 - 50.0
 rdb: EN
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -195,7 +206,7 @@ and
 
 **Leathery friends:**
 The Leathery anemone harbours symbiotic algae (called zooxanthellae) that photosynthesize. The algae share the food produced with the anemone, which in turn provides the algae with shelter and minerals. Several kinds of animals may live happily among and unharmed by the tentacles of the anemone. These include the
-[Peacock-tail anemone shrimp](../../crustacea/othercrust/shrimp/brevicarpalis)
+[Peacock-tail anemone shrimp](/wildfacts/guides/crustacea/crustacea/othercrust/shrimp/brevicarpalis)
 (
 *Periclimenes brevicarpalis*
 ) and fishes such as

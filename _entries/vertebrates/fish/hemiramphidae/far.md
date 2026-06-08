@@ -78,6 +78,11 @@ size:
 - 20.0
 - 40.0
 rdb: NT
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 **
@@ -91,7 +96,8 @@ Those seen about 20cm, can grow to 40cm long. Body long, cylindrical and plump. 
 **What does it eat?**
 The adults feed on seagrasses and to a lesser extent, green seaweeds and diatoms.
 
-**Human uses:**
+## Human uses
+
 Considered tasty, it is marketed fresh and dried.
 
 ---

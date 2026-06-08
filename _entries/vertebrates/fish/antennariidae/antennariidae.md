@@ -19,15 +19,6 @@ order: Lophiiformes
 updated: Sep 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/antennariidae/trisignatus/080619chgd5686m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: 'if you learn only 3 things about them ... They are fishes that go fishing!
-      They use lures to attract prey. They are awkward swimmers, but they have the
-      fastest mouth! Hard to spot: they resemble sponges, rocks. So watch your step!'
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: 'They are fishes that go fishing! They use lures to attract prey. They
-      are awkward swimmers, but they have the fastest mouth! Hard to spot: they resemble
-      sponges, rocks. So watch your step!'
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/antennariidae/trisignatus/080619chgd5686m3.jpg
     caption: Changi, Jun 08
@@ -160,9 +151,18 @@ size:
 - 6.0
 - 10.0
 - 18.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They are fishes that go fishing! They use lures to attract prey
+- 'They are awkward swimmers, but they have the fastest mouth! Hard to spot: they
+  resemble sponges, rocks'
+- So watch your step!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 These rotund fishes are sometimes seen on some of our shores. They are probably quite common and often simply overlooked as they are extremely well camouflaged.

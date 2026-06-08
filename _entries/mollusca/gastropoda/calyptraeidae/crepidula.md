@@ -51,11 +51,16 @@ location:
 size:
 - 1.0
 - 3.5
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
 This snail is commonly encountered inside a shell occupied by a
-[hermit crab](../../../crustacea/othercrust/anomura/hermit/hermit)
+[hermit crab](..//wildfacts/guides/crustacea/crustacea/othercrust/anomura/hermit/hermit)
 . It is also sometimes found on the underside of
 [horseshoe crabs](../../../arthropoda/limulidae/limulidae)
 . It was previously known as

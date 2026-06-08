@@ -128,6 +128,11 @@ size:
 - 7.0
 - 10.0
 rdb: LC
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -140,7 +145,8 @@ To about 20cm long, those seen about 7-10cm. 4-5 broad black vertical bands that
 [More](toxotidae)
 about the archerfishes' infamous ability to shoot down insects.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
-**Human uses:**
+## Human uses
+
 Sometimes sold fresh in markets. Also taken for the live aquarium trade.
 
 ---

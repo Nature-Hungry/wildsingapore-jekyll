@@ -63,6 +63,11 @@ size:
 - 10.0
 - 20.0
 rdb: NT
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -82,7 +87,8 @@ Wear covered shoes. Don't handle rabbitfishes.
 **What does it eat?**
 Juveniles feed on algae growing on the bottom, sometimes entering river mouths to do so. Adults may feed on plankton in mid-water.
 
-**Human uses:**
+## Human uses
+
 The fish is marketed fresh in some places as food.
 
 ---

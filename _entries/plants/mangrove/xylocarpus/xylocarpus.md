@@ -106,6 +106,10 @@ links_references: '**Links**
   . Nature Society (Singapore). 285 pp.
 
   '
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
 ---
 
 ## Where seen?

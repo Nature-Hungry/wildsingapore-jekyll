@@ -101,6 +101,11 @@ size:
 - 4.0
 - 6.0
 rdb: NE
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -117,7 +122,8 @@ similar green seaweeds. Here's more on
 [how to tell apart some green seaweeds](cffeathery)
 .
 
-**Human uses:**
+## Human uses
+
 Zipper seaweed is reported to be edible, to have antibacterial and antifungal properties, and used to treat high blood pressure. However, some
 *Caulerpa*
 species produce toxins to protect themselves from browsing fish. This also makes them toxic to humans.

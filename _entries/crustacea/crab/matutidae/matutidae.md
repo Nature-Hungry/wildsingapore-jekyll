@@ -121,6 +121,11 @@ location:
 - hnt
 - smk
 - tsm
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -134,7 +139,8 @@ a pair of long spikes on the sides. Pincers short, sturdy, held against the body
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**What do they eat?**
 They eat worms, clams and other small animals, foraging more actively at night. A juicy dead fish, however, may lure them out of hiding even during the day.
 
-**Human uses:**
+## Human uses
+
 These crabs are eaten in some other countries.
 
 **Status and threats:**

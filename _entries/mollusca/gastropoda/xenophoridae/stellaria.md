@@ -55,6 +55,11 @@ location:
 size:
 - 8.0
 - 10.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -69,7 +74,8 @@ The Family Xenophoridae are called carrier shell snails because they cement bits
 
 **Sometimes confused with** [turban snails](../turbinidae/turbinidae) (Family Turbinidae). Unlike turban snails, carrier shell snails do not have shiny mother-of pearl on the inside of the shell.
 
-**Human uses:**
+## Human uses
+
 Occasionally collected in shrimp trawls. The shell is used in shellcraft.
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

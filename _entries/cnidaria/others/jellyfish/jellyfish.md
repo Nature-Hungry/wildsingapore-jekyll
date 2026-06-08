@@ -20,16 +20,6 @@ infraorder: Kampylomyaria
 updated: Aug 2025
 coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/ribbon/110323tsmkd7813m6la.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They are not fish! Many can
-      sting. Don't touch jellyfish, even those stranded on the beach. Sea turtles
-      eat jellyfishes and often mistake plastic bags for jellyfishes. Turtles can
-      die from accidentally eating the bags.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They are not fish! Many can sting. Don't touch jellyfish, even those
-      stranded on the beach. Sea turtles eat jellyfishes and often mistake plastic
-      bags for jellyfishes. Turtles can die from accidentally eating the bags.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/ribbon/110323tsmkd7813m6la.jpg
     caption: The Ribbon jellyfish has thin tentacles and thick ruffled long arms.
@@ -158,9 +148,18 @@ links_references: '**Links**
   . 5
 
   '
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They are not fish! Many can sting. Don't touch jellyfish, even those stranded on
+  the beach
+- Sea turtles eat jellyfishes and often mistake plastic bags for jellyfishes
+- Turtles can die from accidentally eating the bags.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Almost everyone knows what a jellyfish looks like! These blobs of jelly are creatures of the open waters and are only sometimes encountered on the shores. In the water, these elegant creatures are a delight to watch. Sometimes, they are trapped in a pool. More unluckily, they are sometimes stranded on the shore and look like sorry heaps of jelly. But no matter where you see them, don't touch them!
@@ -200,7 +199,7 @@ Most jellyfish belonging to Class Scyphozoa and Class Cubozoa have of separate g
 
 In some small jellyfish, these larvae eventually settle down and develop into polyps that feed and grow. These polyps may reproduce asexually by budding off more polyps. Eventually, the polyp may reproduce asexually by budding off medusa forms. These medusa swim off and develop into adults that may eventually reproduce sexually. The original polyp may remain alive to produce medusa forms again later on.
 
-**Role in the habitat:**
+## Role in habitat
 Among the creatures that eat jellyfish are sea turtles. Because plastic bags and balloons look like jellyfish, sea turtles may eat them and eventually become ill and/or die. This is why it is important to dispose of plastic bags and balloons properly. Our litter can kill!
 
 **Jellyfish friends:**
@@ -210,7 +209,8 @@ and even
 [Ribbon jellyfishes](ribbon)
 including near their stinging tentacles.
 
-{% include img-wrap-group.html items=page.galleries.gallery4 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery4 %}## Human uses
+
 Jellyfish are a delicacy in Chinese cuisine. But so far, there has not been an outcry against harvesting them. Jellyfish themselves can become a threat. Introduced jellyfish (through ballast water) can upset the natural balance by out-competing native animals. Some jellyfish are seasonally abundant and those that sting can be a danger to swimmers when they are plentiful. A sudden increase in jellyfishes can also impair commercial fishing as they clog up nets. Explosions of jellyfish populations are considered to be an indicator of an imbalance in the ecosystem, or pollution.
 
 **Status:**

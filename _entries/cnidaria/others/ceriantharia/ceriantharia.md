@@ -19,16 +19,6 @@ order: Spirularia
 updated: Dec 2019
 coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/blackmouth/080422smkd1484m3a.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: 'if you learn only 3 things about them ... They are animals and not plants!
-      Unlike true anemones, they have two types of tentacles: long outer tentacles
-      and short inner tentacles. They retract into their tubes at low tide. Don''t
-      step on the tubes!'
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: 'They are animals and not plants! Unlike true anemones, they have two
-      types of tentacles: long outer tentacles and short inner tentacles. They retract
-      into their tubes at low tide. Don''t step on the tubes!'
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/blackmouth/080422smkd1484m3a.jpg
     caption: An inner ring of shorter tentacles identifies this as a cerianthid. Pulau
@@ -93,9 +83,17 @@ size:
 - 30.0
 - 5.0
 - 15.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- 'They are animals and not plants! Unlike true anemones, they have two types of tentacles:
+  long outer tentacles and short inner tentacles'
+- They retract into their tubes at low tide. Don't step on the tubes!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 These elegant animals with long colourful tentacles are commonly encountered on many of our shores. They are often seen in soft, silty muddy areas, as well as in sandy areas near seagrasses. At low tide during a cool morning or evening, cerianthids in a pool of water might continue to extend their tentacles. Otherwise, they are often overlooked because their long colourful tentacles are retracted completely into their sand-coloured tubes. Do watch your step to avoid stepping on them.
@@ -152,7 +150,8 @@ may be found near cerianthids. Is it said some small crabs (
 *Periclimenes*
 sp.) are associated with the cerianthid.
 
-{% include img-wrap-group.html items=page.galleries.gallery3 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery3 %}## Human uses
+
 Cerianthids are sometimes taken for the live aquarium trade. However, they do not make good tank mates as their floating stingers affect other creatures in the tank. Their burrowing habit and long body columns means they require deep tank beds. They also only take suspended food. This makes them difficult to keep alive in a home aquarium.
 
 **Status and threats:**

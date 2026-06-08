@@ -86,6 +86,10 @@ size:
 - 0.3
 - 1.0
 - 800.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
 ---
 
 ## Where seen?
@@ -103,7 +107,8 @@ Flowers tiny (0.2-0.3cm), in loose clusters with a four tiny white petals.
 
 Fruit small teardrop shaped (about 1cm) with one seed, ripening yellow. The corky berry is adapted to water dispersal.
 
-**Human uses:**
+## Human uses
+
 According to Giersen, the husk of the fruit is said to be used to stupefy fish. It is also used as firewood.
 
 **Status and threats:**

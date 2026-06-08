@@ -35,16 +35,6 @@ superfamily: Alpheoidea
 updated: Dec 2019
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... You will probably hear one
-      than see one on the shores. Listen out for them! The enlarged pincer can be
-      as big as the rest of the shrimp! Sometimes, a goby share the burrow with the
-      shrimp.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: You will probably hear one than see one on the shores. Listen out for
-      them! The enlarged pincer can be as big as the rest of the shrimp! Sometimes,
-      a goby share the burrow with the shrimp.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphsmooth/050621skdg7874m3c.jpg
     caption: One pincer greatly enlarged. Pulau Sekudu, Jun 05
@@ -155,16 +145,24 @@ location: []
 size:
 - 2.0
 - 7.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- You will probably hear one than see one on the shores
+- Listen out for them! The enlarged pincer can be as big as the rest of the shrimp!
+  Sometimes, a goby share the burrow with the shrimp.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 You will most likely hear a snapping shrimp before you see one. These little creatures make the incessant pops that you hear at low tide. They range from tiny ones to rather large ones that can pack a really loud pop. They are common on many of our shores, on mudflats, sandy shores, in seagrass meadows, rocky areas and reefs. But they are often tucked away in their burrows or other hiding places such as under rocks, even under carpet anemones and within sponges. Snapping shrimps forage outside their burrows more actively at night.
 
 **What are snapping shrimps?**
 Snapping shrimps are
-[crustaceans](../../crustacea)
+[crustaceans](/wildfacts/guides/crustacea/crustacea)
 that belong to Family Alpheidae.
 ****
 

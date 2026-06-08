@@ -191,6 +191,11 @@ location:
 size:
 - 5.0
 - 7.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -221,7 +226,8 @@ Like other drills in the Family Muricidae, this snail can also drill through she
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**Baby drills**
 Once, many clusters of many snails were seen on Cyrene Reef apparently laying egg capsules on dead Fan clam shells and other hard surfaces.
 
-**Human uses:**
+## Human uses
+
 Elsewhere, this snail is frequently collected for food and its shell used for shellcraft. In some places, populations have been greatly reduced due to over-collection.
 
 **Species are difficult to positively identify without close examination.

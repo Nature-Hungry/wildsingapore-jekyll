@@ -59,6 +59,10 @@ size:
 - 200.0
 - 400.0
 rdb: Le
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- terrestrial
 ---
 
 ## Where seen?
@@ -74,7 +78,8 @@ Flowers small (2-2.5cm) white and hairy, grows in clusters.
 
 Fruits oval (2-2.5cm) thin-skinned, green ripening yellow to orange with firm green flesh. The fruits are edible but very sour and contains a hard stone. According to Giersen, the seeds are dispersed by birds and by the sea.
 
-**Human uses:**
+## Human uses
+
 According to Burkill, the sour fruits are eaten fresh or pickled. They are also used as a substitute for lemon with fish. The seed is oily and the oil is used in cooking in southern India. The nuts are eaten but have a strong purgative effect so ony a few can be taken at a time; "many cause deleterious effects". The crushed leaves smell of bitter almonds and are sometimes used as flavouring by the Dutch who lived in the tropics. The pounded roots are used to treat colic, in Africa the pounded bark is used treat sores on animals and used to keep insects away. The hard, heavy timber is pleasantly scented when freshly cut and is thus sometimes powdered and used as a substitute for sandalwood in India.
 
 ![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/ximenia/americana/090412hntd9842m6l.jpg)

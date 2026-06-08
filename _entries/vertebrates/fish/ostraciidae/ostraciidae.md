@@ -20,14 +20,6 @@ suborder: Balistoidei
 updated: Sep 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ostraciidae/cornuta/080606cyrd5195m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Boxfishes are poisonous to
-      eat! They have a hard shell around their body. They can swim quickly if they
-      have to, even though they have tiny fins!
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Boxfishes are poisonous to eat! They have a hard shell around their body.
-      They can swim quickly if they have to, even though they have tiny fins!
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ostraciidae/cornuta/080606cyrd5195m3.jpg
     caption: Longhorned cowfish
@@ -105,9 +97,16 @@ location:
 size:
 - 40.0
 - 50.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Boxfishes are poisonous to eat! They have a hard shell around their body
+- They can swim quickly if they have to, even though they have tiny fins!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 These strange cube-like fishes are sometimes seen on some of our shores.

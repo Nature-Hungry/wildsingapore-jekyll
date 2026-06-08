@@ -137,6 +137,11 @@ location:
 size:
 - 10.0
 - 15.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -161,7 +166,8 @@ are seen on the oral disk or body columns of anemone coral polyps.
 **Anemone coral babies:**
 Goniopora corals may reproduce by producing balls of polyps.
 
-**Human uses:**
+## Human uses
+
 Goniopora corals do poorly in captivity because they need lots of plankton, especially plant plankton. Those kept in aquariums usually die a slow death of starvation.
 
 **Status:**

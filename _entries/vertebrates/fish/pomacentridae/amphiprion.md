@@ -21,17 +21,6 @@ subfamily: Pomacentrinae
 updated: Sep 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/140713tsmkd7177m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Anemonefish need their anemones.
-      Do not disturb them or their anemones. One anemone may be home to many anemonefishes.
-      These fishes are threatened by over-collection for the aquarium trade. Don't
-      keep Nemo in your home, he belongs in the ocean.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Anemonefish need their anemones. Do not disturb them or their anemones.
-      One anemone may be home to many anemonefishes. These fishes are threatened by
-      over-collection for the aquarium trade. Don't keep Nemo in your home, he belongs
-      in the ocean.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/140713tsmkd7177m3.jpg
     caption: In a Magnificent anemone . Terumbu Semakau, Jul 14
@@ -103,9 +92,21 @@ location:
 - lfa
 size:
 - 9.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Anemonefish need their anemones
+- Do not disturb them or their anemones
+- One anemone may be home to many anemonefishes
+- These fishes are threatened by over-collection for the aquarium trade
+- Don't keep Nemo in your home, he belongs in the ocean.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?
+## Where seen?
 Made famous by the cartoon "Finding Nemo", these fishes are a delight and the highlight of a trip. Anemonefishes are commonly seen among the sea anemones of our Southern shores. At low tide, they may shelter in a pool nearby while their anemone is left high and dry.
 
 **What are anemonefishes?**
@@ -155,7 +156,8 @@ Each species of anemonefish lives in a specific species of sea anemone. Some spe
 [One study suggests](http://wildshores.blogspot.com/2008/08/clown-anemonefishes-need-rainforests.html)
 the fishes use the smell of leaves from the rainforest to find their way to a suitable habitat. Even so, this is not the end of the problems for the young fish. If the anemone already has resident anemonefishes, the new fish is usually bullied by the residents and may even be driven away.
 
-{% include img-wrap-group.html items=page.galleries.gallery4 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery4 %}## Human uses
+
 Unfortunately, these fishes are taken in large numbers from the wild for the aquarium trade. The harvest may involve the use of cyanide or blasting, which damage the habitat and kill many other creatures. Like other fish and creatures harvested from the wild, most die before they can reach the retailers. Without professional care, most die soon after they are sold. Often of starvation as owners are unable to provide the small creatures and plants that these fishes need to survive. In artificial conditions, many succumb to diseases and poor health. Those that do survive are unlikely to breed.
 
 There have been some success in breeding anemonefish for the aquarium trade. Although captive bred anemonefish are hardier, they are more expensive. Harvesting from the wild will probably continue so long as there are unscrupulous traders and aquarists.

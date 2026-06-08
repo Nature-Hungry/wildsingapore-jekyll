@@ -88,6 +88,11 @@ size:
 - 10.0
 - 20.0
 rdb: VU
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -103,7 +108,8 @@ looks similar.
 **What does it eat?**
 It hunts small animals living on the bottom of the sea, especially small crustaceans.
 
-**Human uses:**
+## Human uses
+
 It is marketed fresh, frozen and dried-salted.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}

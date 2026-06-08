@@ -20,17 +20,10 @@ subclass: Hexacorallia
 order: Zoantharia
 suborder: Brachycnemina
 updated: Dec 2019
+summary: Colony 5-10cm, a cluster of a few individual polyps. Polyp 1-2cm with long
+  body column, broad oral disk. On coral rubble. Commonly seen on our shores.
 coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/mutuki/050708labg9179m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They look like tiny sea anemones
-      with long bodies. Some may be highly toxic. Don't touch them! They are small
-      and may retract at low tide. Don't step on them!
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They look like tiny sea anemones with long bodies. Some may be highly
-      toxic. Don't touch them! They are small and may retract at low tide. Don't step
-      on them!
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/mutuki/050708labg9179m3.jpg
     caption: Labrador, Jul 05
@@ -105,9 +98,16 @@ size:
 - 10.0
 - 1.0
 - 2.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They look like tiny sea anemones with long bodies
+- Don't touch them! They are small and may retract at low tide. Don't step on them!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Like a cluster of little brown anemones, this animal is often seen on many of our shores. On coral rubble and among seagrasses in large seagrass meadows.

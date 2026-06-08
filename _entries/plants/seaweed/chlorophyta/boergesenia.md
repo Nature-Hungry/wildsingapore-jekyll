@@ -116,6 +116,11 @@ size:
 - 4.0
 - 1.0
 rdb: NE
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

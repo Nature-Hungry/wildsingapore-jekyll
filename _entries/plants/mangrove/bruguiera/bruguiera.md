@@ -143,6 +143,10 @@ links_references: '**Links**
   . Nature Society (Singapore). 285 pp.
 
   '
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
 ---
 
 ## Where seen?
@@ -158,7 +162,8 @@ A tree generally with knee roots, sometimes without. Leaves eye-shaped, shiny gr
 *[Rhizophora](../rhizophora/rhizophora)*
 . Flowers small, usually with cup-shaped calyx. Petals thin and fringed with hairs. The stamens are enclosed in pairs in a 'pouched petal'. When triggered, the pouch explodes, dousing the pollinator with pollen. Propagule develops on the parent plant and may be long and thin or thick and short depending on the species.
 
-**Human uses:**
+## Human uses
+
 The timber and other parts of these trees have many traditional applications. See the fact sheets for the individual species for more details.
 
 **Status and threats:**

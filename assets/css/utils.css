@@ -16,29 +16,37 @@
     align-items: center;
 }
 
-
+.flex-wrap{
+    flex-wrap: wrap;
+}
 
 .redlist{
-    color:white;
+    color:black;
     height:30px;
     aspect-ratio: 1;
     margin-bottom: 0.5rem;
     display:flex;
     justify-content:center;
     align-items:center;
+    background-color: lightgrey;
 }
 .CR{
+    color:white;
     background-color: #D81E05;
 }
 .EN{
+    color:white;
     background-color:#FC7F3F;
 }
 .VU{
+    color:white;
     background-color:#F9E814 ;
 }
 .NT{
+    color:white;
     background-color:#CCE226;
 }
 .LC{
+    color:white;
     background-color:#60C659;
 }

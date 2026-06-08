@@ -107,7 +107,11 @@ links_references: '**Links**
   '
 size:
 - 1500.0
-rdb: Lc
+rdb: LC
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
 ---
 
 ## Where seen?
@@ -139,7 +143,8 @@ The colourful
 *Sauris*
 .
 
-**Human uses:**
+## Human uses
+
 According to Burkill, the timber is much used in some places for firewood and to make small articles. It is tricky to cut down the tree as the spattering of the milky sap can blister bare skin and cause eye damage. Experienced wood cutters first remove the bark before felling the tree. The latex is used as a fish poison as well as in dart poison.
 
 Various traditional medicinal uses are made of the bark, leaves and roots. According to Wee, the plant contains behenic acid. The Burmese used the leaves to treat epilepsy, in the Solomon Islands the latex is taken with coconut milk as a powerful purgative and an emetic, and oil distilled from the wood is used by the Malays to treat itching and skin infections. According to Giersen, it is not used as firewood as it produces an unpleasant smoke. But the wood is used to make matchsticks in the Philippines, also sold as aromatic wood, and is considered useful for carving. The roots are used to treat toothache and swellings.

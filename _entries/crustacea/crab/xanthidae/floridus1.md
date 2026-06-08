@@ -6,6 +6,11 @@ keywords: floral, egg, xanthid, crab, atergatis, floridus, xanthidae, decapod, c
   fact sheet, info, photo
 layout: entry
 coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/floridus/110517tptlks25m3.jpg
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
  

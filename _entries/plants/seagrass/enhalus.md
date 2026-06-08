@@ -26,16 +26,6 @@ order: Alismatales
 updated: Oct 2016
 rdb: CR
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... It is the longest seagrasses
-      found on our shores. Pulau Semakau has the largest bed of tape seagrasses on
-      Singapore that ordinary people can visit. It is believed to be among the main
-      food of dugongs.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: It is the longest seagrasses found on our shores. Pulau Semakau has the
-      largest bed of tape seagrasses on Singapore that ordinary people can visit.
-      It is believed to be among the main food of dugongs.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/enhalus/120219smkd7285m6l.jpg
     caption: Leaf with smooth rounded tip. Pulau Semakau, Feb 12
@@ -180,9 +170,18 @@ location:
 - tsm
 - rfl
 - lfa
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- It is the longest seagrasses found on our shores
+- Pulau Semakau has the largest bed of tape seagrasses on Singapore that ordinary
+  people can visit
+- It is believed to be among the main food of dugongs.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Tape seagrass can be seen on many our undisturbed shores. Pulau Semakau has the largest bed of tape seagrass that ordinary people can visit. It covers kilometres of the shoreline. Elsewhere, tape seagrass is usually seen in clumps sparsely distributed along the shore, usually near coral rubble. There is only one species of
@@ -211,7 +210,7 @@ The female flower is large and held on a long stalk. It has three large ribbed w
 
 The fruit is round to tear-drop shaped and large (4-6cm in diameter) with dark, ribbed hairy skin. When ripe, the fruit splits open releasing 6-7 white seeds. The opened fruit is sometimes mistaken for a flower because of the petal-shaped split segments. The seeds float for only about 5 hours before they start to sink, thus they don't travel far. Roots develop rapidly and the seeds germinate quickly. Like other seagrasses, tape seagrass spreads mostly by vegetative reproduction.
 
-**Role in the habitat:**
+## Role in habitat
 Tape seagrass is believed to be among the main food of the Dugong (
 *Dugong dugon*
 ). On the seagrass blade grows a wide variety of tiny encrusting animals like
@@ -223,7 +222,8 @@ Tiny algae often grows on the leaves of this seagrass, providing food for grazin
 [Seagrass sea hare](../../mollusca/slugs/anaspidae/seagrass)
 and snails. The mat of rhizomes also provides shelter for many small animals.
 
-**Human uses:**
+## Human uses
+
 The seeds are eaten by traditional people living on the coasts of Australia and the Philippines. Eaten raw, they are said to taste like water chestnuts. A durable fibre useful for fishing nets is also made from it.
 
 **Status and threats:**

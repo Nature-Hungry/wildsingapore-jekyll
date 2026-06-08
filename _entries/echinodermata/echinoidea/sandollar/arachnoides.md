@@ -153,6 +153,11 @@ size:
 - 6.0
 - 8.0
 rdb: NT
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -173,7 +178,7 @@ are believed to feed on sand dollars. A
 was seen with its stomach stuck to a sand dollar. A
 [Haddon's carpet anemone](../../../cnidaria/actiniaria/haddoni)
 was also seen in the process of engulfing one. Kok Sheng also shared a video clip (below) of
-[hermit crabs](../../../crustacea/othercrust/anomura/hermit/hermit)
+[hermit crabs](..//wildfacts/guides/crustacea/crustacea/othercrust/anomura/hermit/hermit)
 arguing over a sand dollar. Tiny
 [parasitic snails](../../../mollusca/gastropoda/eulimidae/eulimidae)
 are sometimes seen on them too.

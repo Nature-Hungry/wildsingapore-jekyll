@@ -111,6 +111,11 @@ size:
 - 4.0
 - 25.0
 rdb: NT
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -132,7 +137,8 @@ the
 **What does it eat?**
 It feeds on plankton and detritus and are said to be highly territorial.
 
-**Human uses:**
+## Human uses
+
 The fish is sometimes caught by local anglers and is considered a common and popular freshwater aquarium fish.
 
 ---

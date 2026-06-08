@@ -24,15 +24,6 @@ order: Alismatales
 updated: Mar 14
 rdb: EN
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Tiny narrow leaves emerge in
-      a rosette. It is considered globally rare with a limited global distribution.
-      It's found at Chek Jawa, Sungei Buloh, Kranji and Mandai mangroves.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Tiny narrow leaves emerge in a rosette. It is considered globally rare
-      with a limited global distribution. It's found at Chek Jawa, Sungei Buloh, Kranji
-      and Mandai mangroves.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/beccarii/090502cjf0882m3b.jpg
     caption: Seen growing next to byssus nests created by Nest mussels . Chek Jawa,
@@ -140,9 +131,17 @@ location:
 - cj
 size:
 - 0.5
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Tiny narrow leaves emerge in a rosette
+- It is considered globally rare with a limited global distribution
+- It's found at Chek Jawa, Sungei Buloh, Kranji and Mandai mangroves.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 This small seagrass is quite commonly encountered on Chek Jawa, usually in small patches on bare sand that are exposed at low tide near the boardwalk, with larger meadows on the shore west of House No. 1. The
@@ -166,7 +165,7 @@ On Chek Jawa, patches were seen among the byssus nests created by
 *Musculita senhausia*
 ). In Singapore's northern mangroves, mangrove seedlings are often seen in patches of this seagrass.
 
-**Role in the habitat:**
+## Role in habitat
 Studies suggest that beds of Beccari's seagrass are an important nursery for
 [horseshoe crabs](../../arthropoda/limulidae/limulidae)
 in many regions.

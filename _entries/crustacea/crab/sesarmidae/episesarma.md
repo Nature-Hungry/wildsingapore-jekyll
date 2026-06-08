@@ -140,6 +140,11 @@ location:
 size:
 - 4.0
 - 5.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -158,7 +163,8 @@ species seen in Singapore can be distinguished by the colour of their pincers.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**What does it eat?**
 It eats mainly leaves, gathering these at night from the ground or by climbing up trees. These crabs have been observed as high as 6m up in trees. It may also scavenge any dead animals that it comes across. They may even eat other tree climbing crabs.
 
-**Human uses:**
+## Human uses
+
 The Teochew pickle these crabs in black sauce with vinegar and eat them with porridge. The Thais eat them salted with the roe or fried whole. They are considered pests in mangrove plantations because they attack mangrove seedlings.
 
 ---

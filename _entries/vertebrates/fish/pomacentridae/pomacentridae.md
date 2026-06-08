@@ -131,6 +131,11 @@ location:
 - jng
 - rfl
 - lfa
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -158,7 +163,8 @@ lives in the upper edge of outer reef slopes and inshore rocky reefs at depths o
 
 **Damsel babies:**
 In many species, a nest site is prepared by one or both partners. The eggs are attached by adhesive threads to the site and the male usually guards them until they hatch into free-swimming larvae.
-**Human uses:**
+## Human uses
+
 Many members of this family are harvested from the wild for the live aquarium trade. Harvesting tropical scorpionfishes for the live aquarium trade may involve the use of cyanide or blasting, which damage the habitat and kill many other creatures. Like other fish and creatures harvested for the live aquarium trade, most die before they can reach the retailers. Without professional care, most die soon after they are sold. Those that do survive are unlikely to breed successfully.
 
 **Status and threats:**

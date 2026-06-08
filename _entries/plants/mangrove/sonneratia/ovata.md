@@ -117,6 +117,10 @@ size:
 - 500.0
 - 2000.0
 rdb: CR
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
 ---
 
 ## Where seen?
@@ -146,7 +150,8 @@ and
 *Zeuzera conferta*
 .
 
-**Human uses:**
+## Human uses
+
 According to Ng, the fruit is eaten. As a result, the tree is often cultivated in Malay villages.
 
 **Status and threats:**

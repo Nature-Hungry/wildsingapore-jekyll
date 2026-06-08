@@ -101,6 +101,10 @@ size:
 - 300.0
 - 200.0
 rdb: CR
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
 ---
 
 ## Where seen?
@@ -125,7 +129,8 @@ Flowers big (0.3-0.6cm) in tight clusters. According to Tomlinson, the flowers a
 
 Fruit oval, flattened circular or egg-shaped ("always as long as it is wide" according to Tomlinson) (2cm), with a small point at the tip, smooth velvety. Greyish or bluish green, never yellowish.
 
-**Human uses:**
+## Human uses
+
 According to Giesen, the fruits are eaten, leaves fed to livestock while the wood produces good-quality pulp for paper production. In traditional medicine, the bark resin is used as a contraceptive and the leaves used to treat burns.
 
 **Status and threats:**

@@ -27,16 +27,6 @@ suborder: Dactylopteroidei
 updated: Sep 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pegasidae/volitans/030812chgd0049.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Their large pectoral fins are
-      often spread out, thus they resemble moths. They have a long stiff snout and
-      a bony outer skeleton, like the seahorse. They are collected for the traditional
-      Chinese medicine trade.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Their large pectoral fins are often spread out, thus they resemble moths.
-      They have a long stiff snout and a bony outer skeleton, like the seahorse. They
-      are collected for the traditional Chinese medicine trade.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pegasidae/volitans/030812chgd0049.jpg
     caption: Changi, Aug 03
@@ -177,9 +167,17 @@ size:
 - 4.0
 - 6.0
 rdb: LC
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Their large pectoral fins are often spread out, thus they resemble moths
+- They have a long stiff snout and a bony outer skeleton, like the seahorse
+- They are collected for the traditional Chinese medicine trade.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 This odd long-nosed fish with wings is sometimes seen on some of our shores. At some times of the year, several may be seen on a single trip and then not to be seen again for some time. An active little fish, it is sometimes seen swimming about among seagrasses especially at night. Seamoths probably got their name for their long, stiff snouts and the pair of broad, fan-like pectoral fins. They are also called Sea robins.
@@ -210,7 +208,8 @@ Seamoths are believed to have social behaviour and form monogamous pair bonds. U
 **What do they eat?**
 They are predators, feeding on tiny creatures on the sea bottom. These are sucked up with their small, toothless mouths found under the snout.
 
-**Human uses:**
+## Human uses
+
 Seamoths are collected for use in traditional Chinese medicine, like their unfortunate cousins the seahorses and pipefishes. This puts pressure on wild populations.
 
 ---

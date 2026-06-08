@@ -89,6 +89,10 @@ links_references: '**Links**
 size:
 - 3000.0
 - 4000.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- terrestrial
 ---
 
 ## Where seen?
@@ -104,7 +108,8 @@ Corners describes how "flying foxes come to gorge upon the fruits at night". He 
 
 A slow growing, long-lived (more than 100 years) hardy tree that is quite resistant to pests and diseases. Corners says "in all its activities, the tree is leisurely", slow to flower, put out new leaves and even describes it as "lethargic".
 
-**Human uses:**
+## Human uses
+
 The timber is extremely durable and resistant to termite attacks. Thus is it used for heavy duty construction such as railroads, bridges, boats and wharves as well as for flooring, panelling, furniture. According to Burkill, the Malay metaphor for a hard heart compares it to the Tembusu. In Singapore, huge wooden chopping boards used by hawkers to chop up chicken and meat are often made of Tembusu timber.
 
 **Heritage Trees:**

@@ -6,6 +6,12 @@ keywords: banded, branched, tentacle, anemone, phymanthus, phymantidae, actiniar
   facts, fact sheet, info, photo
 layout: entry
 attributes:
+- 129
+- 130
+- 133
+- 153
+- 150
+- 143
 - 6
 - 51
 - 88
@@ -69,6 +75,11 @@ location:
 size:
 - 8.0
 - 12.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

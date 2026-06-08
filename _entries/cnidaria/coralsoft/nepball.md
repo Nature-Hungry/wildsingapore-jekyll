@@ -88,6 +88,11 @@ location:
 size:
 - 6.0
 - 10.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -100,9 +105,9 @@ Out of water, the colony spherical about 6-10cm in diameter. When submerged, may
 Small animals seen in this soft coral include
 [false cowries](../../mollusca/gastropoda/ovulidae/softcoral)
 , tiny shrimps,
-[white soft coral snapping shrimps](../../crustacea/othercrust/shrimp/alphballsoft)
+[white soft coral snapping shrimps](/wildfacts/guides/crustacea/crustacea/othercrust/shrimp/alphballsoft)
 ,
-[porcelain crabs](../../crustacea/othercrust/anomura/porcellanidae/commensal)
+[porcelain crabs](/wildfacts/guides/crustacea/crustacea/othercrust/anomura/porcellanidae/commensal)
 and
 [tiny colourful brittle stars](../../echinodermata/ophiuroidea/tinycolourful)
 and large

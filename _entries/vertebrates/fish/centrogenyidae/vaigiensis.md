@@ -27,15 +27,6 @@ suborder: Labroidei
 updated: Sep 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/centrogenyidae/vaigiensis/031029sntcd0014m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about it ... It is small and well camouflaged.
-      Look carefully to find one. This harmless fish is easily mistaken for a scorpionfish.
-      It hides among seaweeds and under stones. Watch your step!
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: It is small and well camouflaged. Look carefully to find one. This harmless
-      fish is easily mistaken for a scorpionfish. It hides among seaweeds and under
-      stones. Watch your step!
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/centrogenyidae/vaigiensis/031029sntcd0014m3.jpg
     caption: Sentosa, Oct 03
@@ -168,9 +159,19 @@ size:
 - 10.0
 - 15.0
 rdb: LC
+trivia_title: if you learn only 3 things about it ..
+trivia_items:
+- It is small and well camouflaged
+- Look carefully to find one
+- This harmless fish is easily mistaken for a scorpionfish
+- It hides among seaweeds and under stones
+- Watch your step!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 This small scorpionfish wannabe is commonly encountered on many of our shores in the North and South, among coral rubble and seagrass areas. Masters of disguise, some can also be very small. Most stay motionless and thus do not betray their presence through movement. Patience and a keen eye is required to spot one. Elsewhere, it is found in brackish estuaries and silty coastal reefs.
@@ -197,7 +198,8 @@ and
 **What does it eat?**
 It eats small fishes, shrimps and crabs, hunting during the day.
 
-**Human uses:**
+## Human uses
+
 Sometimes harvested for the aquarium trade.
 
 ---

@@ -47,6 +47,11 @@ galleries:
   - url: http://www.wildsingapore.com/worm/nemertea/verylong/050325sjid1973m3.jpg
     caption: Ribbon worms can be very long. They usually stay on the ground and don't
       swim about very fast.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 **Banded confusion**

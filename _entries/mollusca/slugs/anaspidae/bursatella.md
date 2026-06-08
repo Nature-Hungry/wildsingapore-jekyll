@@ -22,17 +22,6 @@ superfamily: Aplysioidea
 updated: May 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/bursatella/050511cftg6199m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Sea hares may secrete a purple
-      dye. But don't tease them to make them do this. Although they can be quite large,
-      they are well camouflaged. Watch your step! Sea hares have very specialised
-      diets and should not be kept in home aquariums.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Sea hares may secrete a purple dye. But don't tease them to make them
-      do this. Although they can be quite large, they are well camouflaged. Watch
-      your step! Sea hares have very specialised diets and should not be kept in home
-      aquariums.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/bursatella/050511cftg6199m3.jpg
     caption: Changi, May 05
@@ -155,9 +144,19 @@ location:
 size:
 - 6.0
 - 12.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Sea hares may secrete a purple dye
+- But don't tease them to make them do this
+- Although they can be quite large, they are well camouflaged
+- Watch your step! Sea hares have very specialised diets and should not be kept in
+  home aquariums.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 This hirsute sea hare is sometimes seen on our Northern shores among seagrasses and seaweeds. Sometimes many are seen scattered everywhere, then they are no longer seen for many months. Sometimes, several are seen gathered together, densely packed in large numbers, possibly mating? Or simply gathering around a good source of food?

@@ -26,15 +26,6 @@ suborder: Siluroidei
 updated: Sep 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/lineatus/040919sntd7020m3a.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about it ... Often seen in a group of many
-      fishes, for safety. Don't break up the group! The 'whiskers' don't sting. They
-      are used to find food in murky waters. It has venomous spines. Don't touch it!
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Often seen in a group of many fishes, for safety. Don't break up the
-      group! The 'whiskers' don't sting. They are used to find food in murky waters.
-      It has venomous spines. Don't touch it!
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/lineatus/040919sntd7020m3a.jpg
     caption: '''Whiskers'' (barbels) at the top of the snout do not extend past the
@@ -179,9 +170,19 @@ size:
 - 1.0
 - 15.0
 rdb: LC
+trivia_title: if you learn only 3 things about it ..
+trivia_items:
+- Often seen in a group of many fishes, for safety
+- Don't break up the group! The 'whiskers' don't sting
+- They are used to find food in murky waters
+- It has venomous spines
+- Don't touch it!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 This eel-like fish in pajamas is often seen on many of our shores, among seagrasses, coral rubble and near reefs. Tiny to small ones often a ball of many squirming individuals, while larger ones are seen in smaller groups or alone. Sometimes, larger ones can be seen gasping for air at the opening of a burrow at low tide.
@@ -218,7 +219,8 @@ Striped eeltail catfishes lay eggs that sink to the bottom (demersal eggs). Thes
 
 Young striped eeltail catfishes are often found swimming together in a 'ball' of hundreds of fishes, constantly moving but remaining in a dense ball. Smaller fishes tend to swim in groups of more individuals. As the fishes get bigger, they are found in smaller groups. Adults are usually seen alone.
 
-**Human uses:**
+## Human uses
+
 Adults are harvested commercially as a food fish with seine nets on the beach or by trawling and marketed fresh. They are also popular in the live aquarium trade although they eat their tankmates, and even one another, as they get bigger.
 
 ---

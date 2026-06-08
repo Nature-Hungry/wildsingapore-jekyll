@@ -76,6 +76,10 @@ size:
 - 200.0
 - 300.0
 rdb: EN
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- terrestrial
 ---
 
 ## Where seen?
@@ -86,7 +90,8 @@ This rather innocent looking treelet has a formidable reputation as a purported 
 A small tree or a shrub (2-3m tall) with an umbrella-like rosette of leaves at the tips of the branches. The leaf (50-60cm long) is made up of 45-80 leaflets. The tiny, hairy cup-shaped flowers are purplish-crimson, and according to Corners, with a slightly foetid smell. Male and female flowers are found on different trees. These turn into oval fruits that ripen yellow then red.
 
 ****
-**Human uses:**
+## Human uses
+
 The tree has many traditional medicinal uses. According to Corners, the bark and especially the roots are 'exceedingly bitter' and the bark was used as one of the native remedies for malaria. According to Burkill, the bark is also used in a tonic for after childbirth. It is also pounded and used externally for headaches, wounds, ulcers and sores.
 
 **Status and threats:**

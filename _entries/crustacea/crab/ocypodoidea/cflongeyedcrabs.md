@@ -25,6 +25,11 @@ galleries:
     caption: ''
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/vocans/080525ubnd4405m3a.jpg
     caption: ''
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 Some crabs with long eye stalks are sometimes seen on some of our sandy shores.

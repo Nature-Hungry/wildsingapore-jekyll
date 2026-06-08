@@ -20,17 +20,6 @@ superfamily: Aplysioidea
 updated: May 2020
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Sea hares may secrete a purple
-      dye. But don't tease them to make them do this. Although they can be quite large,
-      they are well camouflaged. Watch your step! Sea hares have very specialised
-      diets and should not be kept in home aquariums.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Sea hares may secrete a purple dye. But don't tease them to make them
-      do this. Although they can be quite large, they are well camouflaged. Watch
-      your step! Sea hares have very specialised diets and should not be kept in home
-      aquariums.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/geographica/050608cftg7393m3a.jpg
     caption: Two pairs of tentacles Changi, Jun 05
@@ -168,9 +157,19 @@ links_references: '**Links**
   '
 size:
 - 60.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Sea hares may secrete a purple dye
+- But don't tease them to make them do this
+- Although they can be quite large, they are well camouflaged
+- Watch your step! Sea hares have very specialised diets and should not be kept in
+  home aquariums.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Among the largest
@@ -215,7 +214,8 @@ found that the dye irriates other animals such as crabs, sea urchins, fishes and
 {% include img-wrap-group.html items=page.galleries.gallery4 %}**Hare today, gone tomorrow!**
 Sea hares do not live long as large, mature adults, rarely longer than a year. They die soon after they reproduce. They are hermaphrodites, each animal having both male and female reproductive organs. The male organ appears on the neck, and the female opening is within the body mantle. Some sea hares are said to form mating chains, each one acting as male to the one in front of it and as a female to the one behind. They lay eggs in strings or ribbons. There is often a seasonal abundance of sea hares on our shores, with not a hare in sight in between.
 
-**Human uses:**
+## Human uses
+
 It is said that some Pacific Islanders eat sea hares. Yet again, there are reports of dogs being poisoned after eating sea hares. It appears that the algae that the sea hares eat may be responsible for the toxins.
 
 **Status and threats:**

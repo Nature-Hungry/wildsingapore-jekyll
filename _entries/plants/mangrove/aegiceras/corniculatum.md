@@ -112,6 +112,11 @@ size:
 - 100.0
 - 200.0
 rdb: CR
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- terrestrial
 ---
 
 ## Where seen?
@@ -137,7 +142,8 @@ species and
 *Zeuzera conferta*
 .
 
-**Human uses:**
+## Human uses
+
 According to Burkill, the bark is used as a 'fish poison', i.e., to stun fish and scoop them up. He identifies the toxin as a saponin. The seeds also contain the same poison. The leaves were eaten by poor people in the Moluccas raw or cooked, while women wore the scented flowers in their hair. According to Giersen, the wood is used to make charcoal. The flowers are probably an important source of nectar for local honey industries.
 
 **Status and threats:**

@@ -72,6 +72,11 @@ size:
 - 3.0
 - 15.0
 rdb: CR
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -97,7 +102,8 @@ for
 **What does it eat?**
 It feeds on molluscs, worms and crustaceans.
 
-**Human uses:**
+## Human uses
+
 May be harvested for the aquarium trade.
 
 ---

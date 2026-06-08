@@ -27,14 +27,6 @@ superfamily: Portunoidea
 updated: Dec 2019
 coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/purpleleg/040508skdad0127m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Unlike other crabs, they swim
-      very well! They move quickly to hunt fast-moving prey like fish. They can give
-      a nasty pinch. Leave them alone!
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Unlike other crabs, they swim very well! They move quickly to hunt fast-moving
-      prey like fish. They can give a nasty pinch. Leave them alone!
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/purpleleg/040508skdad0127m3.jpg
     caption: Mating swimming crabs Pulau Sekudu, May 04
@@ -207,9 +199,18 @@ location:
 size:
 - 5.0
 - 15.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Unlike other crabs, they swim very well! They move quickly to hunt fast-moving prey
+  like fish
+- They can give a nasty pinch
+- Leave them alone!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Swimming crabs are commonly seen on all our shores. They particularly active at night, but are often also out and about during the day. Besides the large adults, small juvenile swimming crabs are also hidden among the seagrass and seaweed, and other nooks and crannies. These active crabs come in all kinds of colours. Some can react fiercely by waving spiny pincers, and may even give you a nip. So don't touch these crabs.
@@ -240,7 +241,8 @@ Like other crabs, swimming crabs often mate when the female is
 **Monstrous crabs:**
 In Greek Mythology, Scylla is a female sea monster, who lives along a narrow channel, opposite the dwelling place of Charybdis, another female sea monster, sometimes a whirlpool. Thus arose the idiom: "between Scylla and Charybdis" meaning a precarious position where avoiding of one danger exposes oneself to another danger.
 
-**Human uses:**
+## Human uses
+
 Swimming crabs are edible and enjoyed by people everywhere. In our part of the world, from Asia to Australia., the
 [Flower crab](pelagicus)
 (

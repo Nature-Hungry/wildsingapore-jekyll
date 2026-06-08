@@ -52,6 +52,10 @@ galleries:
 size:
 - 7.0
 - 12.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- terrestrial
 ---
 
 ## Where seen?
@@ -61,7 +65,8 @@ This pretty climber with bright orange fruits is often seen in coastal forests, 
 
 A climbing shrub, it has elegant leaves that are thin, leathery, narrow and 7-12cm long. The small white flowers appear in clusters on long stalks arranged like rays of a star. The little compound fruits are green and turn orange.
 
-**Human uses:**
+## Human uses
+
 According to Burkill, the roots are used to produce a yellow dye. Boiled roots and leaves are used in traditional medicine. In India, the fruits may be eaten while green in curries and when raw when ripe. The tough stems are used as ropes in Sri Lanka.
 
 ![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/morinda/umbellata/090513labd1669m6l.jpg)

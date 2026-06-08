@@ -115,6 +115,11 @@ size:
 - 3.0
 - 4.0
 - 6.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -133,7 +138,8 @@ a
 [how to tell apart slugs and animals that look like slugs](../../../glossary/flatwormslug)
 .
 
-**Human uses:**
+## Human uses
+
 It is collected for subsistence food by coastal dwellers and the shell for the shell trade.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Leave cowries alone:**

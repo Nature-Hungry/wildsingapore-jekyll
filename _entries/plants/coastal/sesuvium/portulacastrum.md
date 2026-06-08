@@ -66,7 +66,11 @@ links_references: '**Links**
   Volume 1: 1-1240; volume 2: 1241-2444.
 
   '
-rdb: Lc
+rdb: LC
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- terrestrial
 ---
 
 ## Where seen?
@@ -82,7 +86,8 @@ A spreading creeper with many branches forming a carpet on the high shores of sa
 
 Small, pollen-collecting bees and day-flying moths pollinate the flowers.
 
-**Human uses:**
+## Human uses
+
 According to Burkill, the fresh leaves make a very good vegetable, but only after cooking by 2-3 boilings as they contain much salt. According to Geisen, in Thailand, this plant is used widely as forage and feed for sheep, cattle and pigs and even as a vegetable for human consumption.
 
 ![](https://f003.backblazeb2.com/file/naturehungry/ipomoea/pescaprae/090118smkd5798m3.jpg)

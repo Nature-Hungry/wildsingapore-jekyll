@@ -50,6 +50,11 @@ links_references: "**Links**\n- [Paddler crab (\n*Varuna yui)*](http://mangrove.
   . National Council on the Environment. 163pp.\n"
 location:
 - ''
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

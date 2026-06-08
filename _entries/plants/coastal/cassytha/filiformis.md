@@ -61,6 +61,10 @@ size:
 - 300.0
 - 800.0
 rdb: LC
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- terrestrial
 ---
 
 ## Where seen?
@@ -76,7 +80,8 @@ looks similar and is also a semi-parasite. But it has flowers in a globular clus
 seems to prefer woody hosts and so tends to drape on taller shrubs and trees.
 
 ****
-**Human uses:**
+## Human uses
+
 According to Burkill, the dried, powdered stems are used in hair tonic. While it may not do any good, the use is possibly because the plant is hair-like and luxuriant. In India, it is used in cleaning ulcers and in an eye-wash. In Java, the pounded stems are used for intestinal ailments. According to Giersen, the plant is sometimes cultivated for its medicinal uses in parts of Indonesia.
 
 *![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cassytha/filiformis/110220lazd6172m6l.jpg)

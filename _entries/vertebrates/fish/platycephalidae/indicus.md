@@ -102,6 +102,11 @@ size:
 - 8.0
 - 12.0
 rdb: VU
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -120,7 +125,8 @@ for other flattened fishes that live on the sea bottom. Here's more on
 ---
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 ---
-{% include img-wrap-group.html items=page.galleries.gallery3 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery3 %}## Human uses
+
 It is considered a good food fish and is used in traditional Chinese medicine.
 
 **Species are difficult to positively identify without close examination.

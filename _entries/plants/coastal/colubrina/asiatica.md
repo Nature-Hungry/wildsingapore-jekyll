@@ -69,7 +69,11 @@ size:
 - 400.0
 - 600.0
 - 700.0
-rdb: Lc
+rdb: LC
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- terrestrial
 ---
 
 ## Where seen?
@@ -81,7 +85,8 @@ A climbing glossy shrub that normally grows up to 4m tall but in the presence of
 
 The seeds are dispersed by water as well as birds. The plant germinates rapidly in full sun growing upwards where there is supporting vegetation, rooting where the stem falls back onto the groud and then growing upwards again. The stems resprout vigorously when cut or injured. As such, the plant may overgrow other shrubby vegetation on the coast.
 
-**Human uses:**
+## Human uses
+
 According to Burkill, the bark contains saponins that lather in the water and is used as a soap. In Samoa it is used for bleaching and cleaning mats. The young leaves are "eaten with relish" in Ambon. According to Giesen, the leaves have the ability to produce foam in water and thus, have long been used as a substitute for soap in the rural areas in some countries. Leaves and fruits are used as fish poison. In the Maldives, leaves are used to alleviate inflammations and boils. In order to alleviate painful swellings, leaves are crushed and juice is rubbed on the affected body. Young stems are cut into pieces and boiled in water, which is drunk to alleviate stomach disorders. Medicinal oil is prepared from seeds along with other ingredients, which is used to treat rheumatism and numbness in adults and also in treating weak legs in children.
 
 *![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/colubrina/asiatica/081206smkd2624m3.jpg)

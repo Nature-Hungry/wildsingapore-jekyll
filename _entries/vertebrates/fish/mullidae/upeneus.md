@@ -176,6 +176,11 @@ size:
 - 4.0
 - 8.0
 rdb: NT
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -198,7 +203,8 @@ Accounts suggest the Freckled goatfish comes in a wide variety of colours and pa
 **What does it eat?**
 It feeds on bottom dwelling such as worms, shrimps, crabs, snails and clams, echinoderms and little fishes.
 
-**Human uses:**
+## Human uses
+
 Large ones are eaten as food fish.
 
 ---

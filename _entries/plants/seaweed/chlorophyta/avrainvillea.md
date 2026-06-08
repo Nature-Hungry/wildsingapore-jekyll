@@ -90,6 +90,11 @@ links_references: '**Links**
   Keystone Books. 194pp.
 
   '
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

@@ -84,6 +84,11 @@ location:
 size:
 - 2.0
 - 5.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -107,7 +112,8 @@ According to
 *Valonia*
 species.
 
-**Human uses:**
+## Human uses
+
 Some species are eaten by people.
 
 ![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/valonia/070615sntrg0285m3.jpg)

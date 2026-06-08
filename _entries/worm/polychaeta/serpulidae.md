@@ -96,6 +96,11 @@ size:
 - 0.5
 - 5.0
 - 8.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -127,7 +132,8 @@ The popular 'Chrismas tree fan worms' that are often photographed by divers belo
 [Family Sabellidae](sabellidae)
 and these build soft tubes out of mucus.
 
-**Human uses:**
+## Human uses
+
 Keelworms are among the important animals that form the fouling community. These encrusting animals grow on the undersides (keels) of ships, piers and other hard surfaces in the sea. Fouling animals can affect the efficiency of these structures and equipment and thus affect human activities.
 
 ![](https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/serpulidae/080731chgd8454m3.jpg)

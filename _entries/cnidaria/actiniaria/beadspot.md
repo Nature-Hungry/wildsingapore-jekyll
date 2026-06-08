@@ -6,14 +6,28 @@ keywords: burgundy, anemone, bunodosoma, goanense, actiniidae, anthozoa, cnidari
   fact sheet, info, photo
 layout: entry
 attributes:
+- 129
+- 130
+- 133
+- 153
+- 150
+- 143
 - 6
 - 88
 family: ''
 genus: ''
-species: identification*
+species: ''
 inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Actiniaria
+suborder: Enthemonae
+superfamily: Actinioidea
+summary: 'Less than 0.5cm, at low tide, a tiny blob with ''eye spots'': black centre
+  with white and orange edges. Among barnacles, wood on the high shore among mangroves.'
 updated: Nov 2019
 coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadspot/110703cjd5400m3.jpg
 galleries:
@@ -36,6 +50,11 @@ location:
 - ecp
 size:
 - 0.5
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

@@ -74,6 +74,10 @@ galleries:
       Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.'
 size:
 - 1800.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- terrestrial
 ---
 
 ## Where seen?

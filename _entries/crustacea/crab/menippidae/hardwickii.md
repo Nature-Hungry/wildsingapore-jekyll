@@ -32,15 +32,6 @@ superfamily: Eriphioidea
 updated: Dec 2019
 coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/menippidae/hardwickii/050110skdd9348m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Common but usually well hidden,
-      look carefully for them. They have big, powerful pincers. Don't touch them.
-      They are identified by their bright green eyes ringed in red.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Common but usually well hidden, look carefully for them. They have big,
-      powerful pincers. Don't touch them. They are identified by their bright green
-      eyes ringed in red.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/menippidae/hardwickii/050110skdd9348m3.jpg
     caption: Pulau Sekudu, Jan 05
@@ -191,9 +182,17 @@ size:
 - 10.0
 - 12.0
 rdb: LC
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Common but usually well hidden, look carefully for them
+- They have big, powerful pincers. Don't touch them
+- They are identified by their bright green eyes ringed in red.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 This sturdy crab is commonly seen on our Northern shores near freshwater sources, in rocky and rubbly area.

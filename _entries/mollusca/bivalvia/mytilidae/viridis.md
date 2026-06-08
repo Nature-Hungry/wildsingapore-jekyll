@@ -26,15 +26,6 @@ subfamily: Crenellinae
 updated: May 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/viridis/040121chgd0031m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... It is among our favourite seafood.
-      But be careful about eating wild caught mussels. It attaches itself to a hard
-      surface by producing threads! It is considered a pest outside its natural range.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: It is among our favourite seafood. But be careful about eating wild caught
-      mussels. It attaches itself to a hard surface by producing threads! It is considered
-      a pest outside its natural range.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/viridis/040121chgd0031m3.jpg
     caption: Growing on a large boulder. Changi, Jan 04
@@ -88,9 +79,18 @@ size:
 - 5.0
 - 8.0
 rdb: LC
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- It is among our favourite seafood
+- But be careful about eating wild caught mussels
+- It attaches itself to a hard surface by producing threads! It is considered a pest
+  outside its natural range.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 This edible clam is sometimes very common on our Northern shores, forming dense clusters on hard surfaces like rocks, pilings, floats. It is well adapted to waters that are murky and sediment laden.
@@ -105,7 +105,8 @@ Like most other bivalves, it is a filter feeder. At high tide, it opens its shel
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**What eats it?**
 Besides humans, other animals that relish them include fishes, crabs and octopuses.
 
-**Human uses:**
+## Human uses
+
 Green mussels are considered the economically most important mussel in our region. They are farmed in many parts of Southeast Asia as seafood. They grow fast and in dense numbers. Like other filter-feeding clams, however, mussels may be affected by
 [red tide and other harmful algal blooms](../../../plants/seaweed/redtide)
 . During such times, the mussels concentrate toxins and people who eat them may get seriously ill.

@@ -6,6 +6,12 @@ keywords: synpeachia temasek, peachia, anemone, anthozoa, cnidaria, field, guide
   info, photo
 layout: entry
 attributes:
+- 129
+- 130
+- 133
+- 153
+- 150
+- 143
 - 6
 - 67
 - 88
@@ -41,6 +47,11 @@ size:
 - 4.0
 - 5.0
 rdb: CR
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

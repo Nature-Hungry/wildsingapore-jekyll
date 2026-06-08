@@ -59,6 +59,10 @@ galleries:
       the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit,
       Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2:
       1241-2444.'
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- terrestrial
 ---
 
 ## Where seen?
@@ -74,7 +78,8 @@ According to Corners, the species is "so variable that it is still undecided whe
 
 The tiny white flowers appear on a many branched cluster that resembles a little white tree. 'Corymbus' means cluster or bunch of flowers. The tiny fruits are oval and black.
 
-**Human uses:**
+## Human uses
+
 According to Burkill, the leaves are eaten as a vegetable and sometimes cooked with fish of "an objectionable flavour to mask their taste". The timber is not considered of high value, although small household items are sometimes made of it. Various parts of the plant are used in traditional medicine and one of the common names for this plant is 'Headache tree'. I'm not sure whether this means the plant gives us a headache or cures the headache.
 
 ![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/premna/corymbosa/090412hntd9874m6l.jpg)

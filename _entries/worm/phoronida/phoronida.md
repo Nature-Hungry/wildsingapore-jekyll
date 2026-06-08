@@ -93,9 +93,12 @@ location:
 - lfa
 size:
 - 2.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Literally overshadowed by their more glamorous hosts, this tiny fluffy worm is commonly seen with

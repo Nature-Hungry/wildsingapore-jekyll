@@ -51,6 +51,11 @@ galleries:
       John M. 2000. Marine Plants of Australia University of Western Australia Press.
       300pp. Trono, Gavino. C. Jr., 1997. Field Guide and Atlas of the Seaweed Resources
       of the Philippines. . Bookmark, Inc., the Philippines. 306 pp.'
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -60,7 +65,7 @@ Forming pinkish encrusting growths on coral rubble, coralline algae are commonly
 
 These red seaweeds are hard because they incorporate calcium carbonate. Being hard, they are sometimes also called coralline algae. Some kinds of coralline algae cover hard surfaces in a thin, slow- growing layer. They grow on things like stones, coral rubble, litter such as discarded bottles and washed up pieces of wood. They may even coat the shells of living snails. Other kinds of coralline algae may form upright structures such as leafy or branched forms.
 
-**Role in the habitat:**
+## Role in habitat
 Many coralline algae produce chemicals that promote the settlement of larvae of sea creatures. These sea creatures may help the coralline algae by grazing at competing, faster growing algae. Some of these sea creatures are commercially important, e.g., abalones. By cementing small things together, encrusting red seaweeds help to maintain and build up the reef. The algae also provide hiding places for tiny creatures and larvae.
 
 ![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/encrust/050610sntg7603m3.jpg)

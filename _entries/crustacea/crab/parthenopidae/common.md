@@ -28,16 +28,6 @@ superfamily: Parthenopoidea
 updated: Dec 2019
 coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/parthenopidae/common/060502cftd1785m6la.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They are tiny well camouflaged
-      crabs. That's why we should avoid stepping areas thick with seaweeds and seagrasses.
-      Their 'elbows' are often much longer than their bodies! To see one, look carefully
-      at every bit of 'rubbish'.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They are tiny well camouflaged crabs. That's why we should avoid stepping
-      areas thick with seaweeds and seagrasses. Their 'elbows' are often much longer
-      than their bodies! To see one, look carefully at every bit of 'rubbish'.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/parthenopidae/common/060502cftd1785m6la.jpg
     caption: Pincers many times longer than its body. Changi, May 06
@@ -149,9 +139,18 @@ location:
 size:
 - 1.0
 - 2.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They are tiny well camouflaged crabs
+- That's why we should avoid stepping areas thick with seaweeds and seagrasses
+- Their 'elbows' are often much longer than their bodies! To see one, look carefully
+  at every bit of 'rubbish'.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 These tiny, slow-moving crabs look like bits of dirt or junk among seaweeds. Look very carefully to find them. Elbow crabs are commonly seen on our Northern shores, among seagrasses and seaweeds.

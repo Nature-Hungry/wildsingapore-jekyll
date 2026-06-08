@@ -12,15 +12,6 @@ species: Polycladida
 updated: Feb 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/orangewhite/121116sjjid1330m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They are fragile and tear easily.
-      Don't touch! They are fearsome predators and hunt and eat other animals. Being
-      really flat has some advantages. Can you think of some?
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They are fragile and tear easily. Don't touch! They are fearsome predators
-      and hunt and eat other animals. Being really flat has some advantages. Can you
-      think of some?
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/orangewhite/121116sjjid1330m3.jpg
     caption: Some may be colourfully patterned. St John's Island, Nov 12
@@ -219,9 +210,18 @@ size:
 - 1.0
 - 8.0
 - 10.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They are fragile and tear easily
+- Don't touch! They are fearsome predators and hunt and eat other animals
+- Being really flat has some advantages
+- Can you think of some?
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Marine flatworms are ferocious predators that glide around the shores like liquid death. They are common on all our shores. Ranging from tiny ones found under rocks to larger monsters that roam out in the open. Some are brightly coloured and patterned, others blend with their surroundings. Flatworms are usually more active when it is dark when they skim the ground with elegant ruffles of their body edges, or even swim short distances in the water.

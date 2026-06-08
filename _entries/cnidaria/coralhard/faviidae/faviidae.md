@@ -72,6 +72,11 @@ links_references: '**Links**
   T.F. H Publications. 464 pp
 
   '
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

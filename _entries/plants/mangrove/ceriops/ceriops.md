@@ -105,6 +105,10 @@ links_references: '**Links**
   Volume 1: 1-1240; volume 2: 1241-2444.
 
   '
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
 ---
 
 ## Where seen?
@@ -124,7 +128,8 @@ sp.) have a flattened knife-like stipule (leaf bud at the tip of a branch). For 
 *Kandelia candel*
 ), Tengar leaf stalks usually not pinkish.
 
-**Human uses:**
+## Human uses
+
 Tengar (
 *Ceriops tagal*
 ) is valued as timber, firewood and a source of dyes. It is also used in traditional medicine.

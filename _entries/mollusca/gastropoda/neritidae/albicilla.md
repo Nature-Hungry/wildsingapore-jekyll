@@ -120,6 +120,11 @@ size:
 - 2.0
 - 3.0
 rdb: LC
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -134,7 +139,8 @@ means 'ox-tongue'). Small ridged 'teeth' on the straight edge at the shell openi
 **Many patterns:**
 The shell may be lightly grooved, sometimes glossy. The shell pattern can vary widely from bold spirals to mottled or plain. Some can be white and chalky from exposure and carry barnacles.
 
-{% include img-wrap-group.html items=page.galleries.gallery2 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery2 %}## Human uses
+
 It is collected as food by coastal dwellers as well as for its shell for the shell trade.
 
 ---

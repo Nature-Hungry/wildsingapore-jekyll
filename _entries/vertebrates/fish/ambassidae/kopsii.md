@@ -24,15 +24,6 @@ order: Mugiliformes
 updated: Sep 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ambassidae/kopsii/040828skdd5497m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... The fish is almost transparent,
-      like glass. Look carefully to find it. Large eyes and upturned mouths. Sometimes
-      stranded in pools at low tide. Watch your step!
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: The fish is almost transparent, like glass. Look carefully to find it.
-      Large eyes and upturned mouths. Sometimes stranded in pools at low tide. Watch
-      your step!
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ambassidae/kopsii/040828skdd5497m3.jpg
     caption: Mouth upturned, large eyes. Pulau Sekudu, Aug 04
@@ -109,9 +100,19 @@ location:
 - smk
 size:
 - 10.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- The fish is almost transparent, like glass
+- Look carefully to find it
+- Large eyes and upturned mouths
+- Sometimes stranded in pools at low tide
+- Watch your step!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Groups of these silvery fishes are frequently encountered in pools at low tide near seagrasses on many of our shores. Elsewhere, they are found in mangroves, estuaries and freshwater. They form groups during the day among mangrove roots and submerged plants. They disperse at night to feed.
@@ -139,7 +140,8 @@ To about 10cm. Body nearly transparent covered with thin scales. Thus it is some
 They eat tiny crustaceans such as ostracods and copepods, insects and sometimes fishes.
 
 ****
-**Human uses:**
+## Human uses
+
 Perchlets are eaten in some places and sold fresh or dried and salted. Some are used as an ingredient in making fish sauce. They are also used as bait.
 
 ---

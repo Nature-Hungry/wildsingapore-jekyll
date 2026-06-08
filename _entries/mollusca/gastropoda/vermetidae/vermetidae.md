@@ -20,15 +20,6 @@ superfamily: Vermetoidea
 updated: Oct 2016
 coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/vermetidae/vermetidae/130722skdd9664.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Although they look like worms,
-      they are actually snails! They filter feed at high tide, gathering bits with
-      a 'net'. Look for them on large boulders and other hard surfaces.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Although they look like worms, they are actually snails! They filter
-      feed at high tide, gathering bits with a 'net'. Look for them on large boulders
-      and other hard surfaces.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/vermetidae/vermetidae/130722skdd9664.jpg
     caption: Pulau Sekudu, Jul 13
@@ -95,9 +86,17 @@ size:
 - 1.0
 - 2.0
 - 10.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Although they look like worms, they are actually snails! They filter feed at high
+  tide, gathering bits with a 'net'
+- Look for them on large boulders and other hard surfaces.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 These odd-looking snails are seen coiled on rocks, stones and other hard surfaces. Commonly seen on our Northern shores. Often, the snail shell is covered with encrusting lifeforms, so only the shell opening is visible. Some snails of the
@@ -120,7 +119,8 @@ A worm snail 'nets' food from the water. A sticky mucus net is secreted from a g
 **Worm snail babies:**
 Male worm snails release their sperm in packets. Female worm snails 'net' these sperm packets in the same way that they gather food. As the sperm packets are hauled near the female's body, the sperm is released from the packet. Or the female may store the sperm to fertilise the eggs later. Eggs are retained inside the tube. They don't have a free-swimming stage and emerge out of the tube as little snails. After crawling about briefly, they cement themselves to a hard surface.
 
-**Human uses:**
+## Human uses
+
 In Polynesia, they are a traditional food of some coastal people.
 
 ---

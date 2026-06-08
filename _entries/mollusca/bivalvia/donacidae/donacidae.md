@@ -47,6 +47,11 @@ location:
 size:
 - 2.0
 - 3.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -63,7 +68,8 @@ Surf clams actually do surf the waves! They migrate up and down the shore by flo
 
 **What do they eat?**
 They are suspension or deposit feeders.
-**Human uses:**
+## Human uses
+
 Some are collected for food by coastal dwellers. In the Philippines, one species is collected in fairly large quantities.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

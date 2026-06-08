@@ -20,16 +20,6 @@ superfamily: Naticoidea
 updated: Aug 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/didyma/110520chgd2415m6l.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Moon snails usually hunt and
-      rest under the sand. Look for trails in the sand! They are fierce predators
-      that hunt other snails and clams. The body of a moon snail can inflate to many
-      times the size of its shell.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Moon snails usually hunt and rest under the sand. Look for trails in
-      the sand! They are fierce predators that hunt other snails and clams. The body
-      of a moon snail can inflate to many times the size of its shell.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/didyma/110520chgd2415m6l.jpg
     caption: The Ball moon snail, like most moon snails, can deflate the huge body
@@ -229,9 +219,18 @@ location:
 - lfa
 size:
 - 2.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Moon snails usually hunt and rest under the sand
+- Look for trails in the sand! They are fierce predators that hunt other snails and
+  clams
+- The body of a moon snail can inflate to many times the size of its shell.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 With spherical or oval shells and a huge body, these fierce burrowing snails are commonly seen on our sandy shores. These snails are more commonly seen above ground at night. But a keen observer may still detect their presence by the distinctive trails these snails leave on the surface as they quietly burrow just beneath the sand.
@@ -280,10 +279,11 @@ The sand collar is the moon snail's egg mass. When the eggs hatch, the collar di
 [about sand collars](sandcollar)
 .
 
-{% include img-wrap-group.html items=page.galleries.gallery6 %}**Role in the habitat:**
+{% include img-wrap-group.html items=page.galleries.gallery6 %}## Role in habitat
 When a moon snail dies, its shell is usually quickly taken over by a hermit crab. Many of the moon snail shells you see on the surface will probably be so occupied. Living moon snails are rarely seen above ground during the day.
 
-**Human uses:**
+## Human uses
+
 Some larger moon snail species are sold as food in Asian markets.
 
 **Status and threats:**

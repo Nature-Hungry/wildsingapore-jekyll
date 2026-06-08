@@ -106,6 +106,11 @@ links_references: '**Links**
 
   '
 location: []
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 **What are Rivulines?**
@@ -133,7 +138,8 @@ According to Yeo and Lim, the
 **What do they eat?**
 According to FishBase, they feed mainly on insects and have been used for mosquito control.
 
-**Human uses:**
+## Human uses
+
 They are said to be a popular aquarium fish although they are also reported to be difficult to maintain in captivity.
 
 **Species are difficult to positively identify without close examination.

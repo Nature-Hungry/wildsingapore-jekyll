@@ -104,6 +104,11 @@ size:
 - 3.0
 - 4.0
 rdb: LC
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -117,7 +122,8 @@ This snail with a flattened wheel-shaped shell is sometimes seen on our offshore
 *Calcar*
 means 'spur' and indeed, the outer shell has a spiral of blunt bumps and spikes. The shell is usually encrusted and thus well camouflaged on the rocks. Underside of the shell with rings of small bead, shell opening white, smooth and pearly. Operculum small, chalky, hemi-spherical with a smooth glossy surface. Body pale with fine black stripes, long tentacles with fine black bars.
 
-**Human uses:**
+## Human uses
+
 Sometimes gathered for food by coastal dwellers.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

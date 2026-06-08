@@ -71,6 +71,11 @@ location:
 size:
 - 18.0
 rdb: NT
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -83,7 +88,8 @@ To about 18cm. Body oval with yellow tail, blackish, purplish brown rear portion
 **What does it eat?**
 It eats sponges, ascidians and filamentous algae.
 
-**Human uses:**
+## Human uses
+
 It is frequently sold in the aquarium trade.
 
 ---

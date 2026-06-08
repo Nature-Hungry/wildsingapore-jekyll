@@ -15,15 +15,6 @@ kingdom: Animalia
 updated: Dec 11
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Red seaweeds are not always
-      red. They may be green, black, brown. The seaweed used in sushi is a red seaweed!
-      Extracts of red seaweed are used in our everyday processed food and products.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Red seaweeds are not always red. They may be green, black, brown. The
-      seaweed used in sushi is a red seaweed! Extracts of red seaweed are used in
-      our everyday processed food and products.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/solieria/040730skdd3322m.jpg
     caption: ''
@@ -141,9 +132,18 @@ links_references: '**Links**
   . Bookmark, Inc., the Philippines. 306 pp.
 
   '
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Red seaweeds are not always red
+- They may be green, black, brown
+- The seaweed used in sushi is a red seaweed! Extracts of red seaweed are used in
+  our everyday processed food and products.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Red seaweeds are found on all our shores. Some are huge red sheets often mistaken for plastic bags, others are fine feathery pink tufts. Yet others are bunches of long skinny filaments or juicy fat stems; or crunchy pink branches that form balls.
@@ -156,7 +156,8 @@ Red seaweeds have chlorophyll but this is masked by phycocyanin and phycoerythri
 
 Red seaweeds may not always be red. If the pigment phycoerythrin is destroyed, they may appear purple, brown, green, or yellow. But when held up against the light, tints of red or pink can be seen. Rhodon means 'rose' or 'red' in Greek.
 
-**Human uses:**
+## Human uses
+
 Red seaweed are among our favourite seafood. The familiar dried seaweed used in Japanese sushi is a red seaweed
 *Porphyra*
 sp. which has been cultivated in Japan for more than 300 years. It is also eaten fresh. Other red seaweeds are also eaten. In the Philippines, some species of red seaweeds are eaten as salads. These include

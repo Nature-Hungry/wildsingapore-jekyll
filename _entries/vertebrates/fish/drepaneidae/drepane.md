@@ -68,6 +68,11 @@ location:
 size:
 - 25.0
 - 45.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -85,7 +90,8 @@ Juveniles may be mistaken for
 **What does it eat?**
 It eats bottom dwelling animals.
 
-**Human uses:**
+## Human uses
+
 It is sometimes sold fresh in local markets.
 
 ---

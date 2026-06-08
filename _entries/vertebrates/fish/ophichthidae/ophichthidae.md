@@ -20,15 +20,6 @@ suborder: Congroidei
 updated: Sep 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/wormeel/040817sntd4718m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Often mistaken for snakes or
-      worms, they are fish! They breathe through gills. They have smooth skin instead
-      of scales. Most are burrowing and only active at night.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Often mistaken for snakes or worms, they are fish! They breathe through
-      gills. They have smooth skin instead of scales. Most are burrowing and only
-      active at night.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/wormeel/040817sntd4718m3.jpg
     caption: Worm-eels
@@ -146,9 +137,17 @@ location:
 size:
 - 20.0
 - 20.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Often mistaken for snakes or worms, they are fish! They breathe through gills
+- They have smooth skin instead of scales
+- Most are burrowing and only active at night.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 These worm-like fishes are often seen near coral rubble where there are lots of hiding places, especially on our Southern shores. Larger snake eels sometimes also seen, especially at night.

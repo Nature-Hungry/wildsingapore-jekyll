@@ -57,6 +57,10 @@ links_references: '**Links**
 size:
 - 700.0
 rdb: LC
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- terrestrial
 ---
 
 ## Where seen?
@@ -66,7 +70,8 @@ This large shrub is seen in forests near the shores such as at Chek Jawa. They b
 
 A shrub to small tree (up to 7m). Leaves large (12-30cm long), dark green. Flowers bright orange, trumpet shaped and appear in bunches 15-20cm across. The Malay name 'Jarum-jarum' means 'bunch of needles' which is what the unopened flowers look like. The plant flowers seasonally, and not all the time, like the cultivated varieties. The fruit is a thinly pulpy berry, ripening red then purple or black, with 1-2 large seeds.
 
-**Human uses:**
+## Human uses
+
 Burkill indicates that there are no known uses for this plant.
 
 ![](https://f003.backblazeb2.com/file/naturehungry/plants/others/ixora/congesta/090926cjd1848m6la.jpg)

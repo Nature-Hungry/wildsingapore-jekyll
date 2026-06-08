@@ -72,6 +72,10 @@ galleries:
       2: 1241-2444.'
 size:
 - 300.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- terrestrial
 ---
 
 ## Where seen?
@@ -81,7 +85,8 @@ A shrub or small tree with branches leaning out to form a low umbrella over the 
 
 A small tree to about 3m, "often prostrate towards the sea". The leaves are made up of three leaflets that are oval or have a blunt tip, thinly leathery and hairy beneath. According to Selvam, the middle leaflet is always larger (6-8cm long) than the side leaflets. The flowers are small (1-1.5cm) creamy white in short clusters. The brown pod is short (3-4cm) curved with 3-5 segments and 1-4 rather thick joints. The small seeds are hard and oval. According to Selvam, pods break into one seed units that are sticky and thus spread by animals and human. It is reported that seeds are also dispersed by the sea. The plant also has a pretty pattern on its bark.
 
-**Human uses:**
+## Human uses
+
 According to Burkill, in Singapore and the Moluccas, the young leaves were eaten as a vegetable. Which may account for another Malay name for the plant: 'Lemak ketam'. According to Selvam, it is a nitrogen fixing plant and excellent in controlling soil erosion. In the Maldives, straight sticks are used as beams along the length of the roof and also as sides of the traditional timber built houses. Straight branches are also used as handle for scoops used for drawing water from wells. Charcoal produced from the wood is widely used by blacksmiths. Leaves are used as in a tonic for women after childbirth. It is also grown as an ornamental plant.
 
 ![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/desmodium/umbellatum/090412hnto0283m3.jpg)

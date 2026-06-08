@@ -92,6 +92,11 @@ size:
 - 4.0
 - 6.0
 - 17.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -101,7 +106,8 @@ Chubby cuttlefishes are sometimes common on our Northern shores. Seen among seag
 
 4-6cm long, grows up to 17cm long and weighs 0.4kg. Squat oval body with short tapered arms. Narrow transparent fins all around the body. There is a pattern of small bumps extending into the fins along the edge where the fins attach to the body. Patterns include mottled bands with circles, to more muted bands. The animal can change the body texture from smooth to spiky.When alarmed, it tucks its arms under its heads and the tips of the middle arms are often held upright.
 
-**Human uses:**
+## Human uses
+
 The cuttlefish is harvested commercially in Hong Kong and Thailand by traw and net.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

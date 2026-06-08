@@ -79,6 +79,11 @@ location:
 size:
 - 9.0
 - 10.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -101,7 +106,8 @@ Mainly echinoderms such as sea cucumbers and crustaceans. The snail first paraly
 
 **Baby tuns:**
 The egg mass is a wide gelatinous ribbon containing many small, transparent eggs. The planktonic larvae take a very long time to develop, thus some species are widely dispersed by ocean currents.
-**Human uses:**
+## Human uses
+
 It is sometimes collected for food by coastal dwellers and the shell used as decorative items.
 
 ---

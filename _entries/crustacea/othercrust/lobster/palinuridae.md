@@ -84,6 +84,11 @@ size:
 - 25.0
 - 35.0
 - 50.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -98,7 +103,8 @@ Two pairs of very long thick antennae. Wide range of colours.
 **Lobster lifestyle:**
 It is solitary, may live in pairs and has been found in larger concentrations.
 
-**Human uses:**
+## Human uses
+
 It is harvested everywhere, but on a small scale.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

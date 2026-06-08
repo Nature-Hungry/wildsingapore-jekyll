@@ -102,6 +102,11 @@ location:
 - smk
 - tsm
 - lfa
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -123,7 +128,8 @@ According to
 *Hypnea*
 species.
 
-**Human uses:**
+## Human uses
+
 In some places, Hypnea seaweeds are fed to livestock and eaten by people.
 
 *![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/hypnea/060402ulrd1051m3.jpg)

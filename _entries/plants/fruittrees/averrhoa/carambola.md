@@ -61,6 +61,10 @@ galleries:
       Volume 1: 1-1240; volume 2: 1241-2444.'
 size:
 - 1000.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- terrestrial
 ---
 
 ## Where seen?
@@ -70,7 +74,8 @@ This tree with pretty pink flowers were commonly planted by villagers and are se
 
 A small tree (to about 10m), profusely branched. Compound leaves made up of (3-5 pairs of small (5-10cm long) leaftlets, the end leaflets rather large. Flowers small, bell-shaped, pink or red. The fruit is star-shaped in cross section, long (8-12cm), green and juicy. According to Corners, some trees bear sweet fruits, others sour ones.
 
-**Human uses:**
+## Human uses
+
 The fruit is considered 'cooling'. According to Burkill, those with sweet fruits are eaten fresh or made into jams and tarts, while sour ones are cooked. The crushed leaves and shoots are used by the Malays to treat chicken pox, ringworm and headaches. The fruits are also used to treat a hangover from too much drinking as well as stomach ailments. The acid in the juices may be used to clean metal.
 
 ![](https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/averrhoa/carambola/091005cjd2039m6l.jpg)

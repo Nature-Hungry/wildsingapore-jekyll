@@ -33,6 +33,11 @@ galleries:
     caption: Chek Jawa, Mar 11
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/noid/110102cjd4694m3.jpg
     caption: Chek Jawa, Jan 11
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 **Unidentified fiddler crab #110327cjd7977**

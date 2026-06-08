@@ -197,6 +197,11 @@ size:
 - 20.0
 - 40.0
 rdb: EN
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -217,7 +222,7 @@ This sea cucumber has an internal breathing system of branching tubes along the 
 *Pinnotheres*
 sp.) are sometimes found living in the Garlic bread sea cucumber's rear end! These cannot be seen unless the animal is killed and dissected, so please do not prod the sea cucumber to try to see these crabs.
 
-**Role in the habitat:**
+## Role in habitat
 [A study](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=7399412&next=true&jid=MBI&volumeId=90&issueId=02)
 has found that this sea cucumber plays an important role in the health of seagrasses. Much like terrestrial earthworms, by eating sediments and burrowing in the ground, the sea cucumber makes more nutrients available to the seagrasses. More about this on the
 [Echinoblog](http://echinoblog.blogspot.com/2010/06/ecology-of-holothuria-scabra-cuke-sea.html)
@@ -230,7 +235,8 @@ has found that this sea cucumber plays an important role in the health of seagra
 ) as well as mangrove areas.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
-**Human uses:**
+## Human uses
+
 This harmless sea cucumber is among those collected as a Chinese delicacy. They are gutted and dried for sale as 'trepang' or 'beche-de-mer'. It is called sandfish in the trade. Growing up to 40cm and weighing up to 1.5kg, it is considered the most widely collected and among the more valuable sources of beche-de-mer. Tests indicate these sea cucumbers contain toxins. They must be properly prepared before they are safe to eat.
 
 Collection of sea cucumbers has been a traditional activity for centuries by coastal peoples in many parts of the world ranging from Madagascar to the Philippines. However, the recent high market price of this delicacy has resulted in increased collection in last 20 years. Some edible sea cucumbers are globally threatened by over-collection. In some areas, such sea cucumbers have become scarce. In others, specimens collected are smaller and have to be harvested from deeper waters. Efforts to culture edible sea cucumbers have only just started.

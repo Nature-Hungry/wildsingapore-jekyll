@@ -99,7 +99,11 @@ links_references: '**Links**
 size:
 - 3000.0
 - 300.0
-rdb: Lc
+rdb: LC
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
 ---
 
 ## Where seen?
@@ -122,7 +126,8 @@ Flowers large orange-yellow (1cm) in a tight cluster that is more or less globul
 Fruit oval (1.5-2cm long) woolly often wrinkled.
 Contains one seed.
 
-**Human uses:**
+## Human uses
+
 According to Giesen, the seeds are boiled and eaten and in some places sold in markets as vegetables. The fragrant flowers produce some of the best honey when collected by bees. The timber is used for buildings. It is rarely used to make charcoal and is used as firewood only to smoke fish or rubber. This fast growing mangrove tree is among the few used in mangrove replanting to protect coastlines.
 
 ![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/rumphiana/090208smkd6473m6.jpg)

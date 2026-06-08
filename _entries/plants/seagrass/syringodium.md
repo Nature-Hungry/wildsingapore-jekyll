@@ -23,14 +23,6 @@ order: Alismatales
 updated: Mar 14
 rdb: EN
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... This seagrass is rarely seen
-      on our shores. It doesn't flower frequently, and the flowers are complex. It
-      is eaten by dugongs.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: This seagrass is rarely seen on our shores. It doesn't flower frequently,
-      and the flowers are complex. It is eaten by dugongs.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/syringodium/100519tsmc4069m3.jpg
     caption: Terumbu Semakau, May 10
@@ -95,9 +87,17 @@ size:
 - 5.0
 - 10.0
 - 50.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- This seagrass is rarely seen on our shores
+- It doesn't flower frequently, and the flowers are complex
+- It is eaten by dugongs.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 This seagrass is abundant on Pulau Semakau, growing among the more dominant
@@ -122,7 +122,7 @@ sp.). While both are long and narrow, noodle seagrass, however, is cylindrical l
 **Flowers and fruits:**
 Noodle seagrass has separate male and female plants. The flowers form a complex inflorescence (called a cyme). Each flower forms in a branching array on a stem. The fruit forms a small nut that is hard and beaked. An inflorescence with mature seeds may break off and float away some distance.
 
-**Role in the habitat:**
+## Role in habitat
 Dugongs graze on this seagrass where there are no
 *Halophila*
 or

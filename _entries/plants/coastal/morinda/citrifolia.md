@@ -56,7 +56,11 @@ galleries:
 size:
 - 300.0
 - 1000.0
-rdb: Lc
+rdb: LC
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- terrestrial
 ---
 
 ## Where seen?
@@ -74,12 +78,13 @@ Flowers small (1cm long) white, tubular emerging from an egg-shaped structure.
 
 Fruits egg-shaped (8-10cm), described by Burkill as "greyish transparent white, in appearance anything but appetizing, in flavour as of soap and sugar mixed, with a smell like decaying cheese". The ripe fruit rots readily and the smell has been described as a "terrible stench" that resembles vomit. The fruit contains many seeds.
 
-**Role in the habitat:**
+## Role in habitat
 According to Giesen, it is often infested by Weaver ants (
 *Oecophylla smaragdina*
 ) which build their nests out of the large leaves of the plant.
 
-**Human uses:**
+## Human uses
+
 According to Burkill, the
 *Morinda*
 species are cultivated for the dyes produced by the root bark: shades of red, purple and chocolate. In Java,

@@ -107,7 +107,11 @@ links_references: '**Links**
 size:
 - 1000.0
 - 2000.0
-rdb: Lc
+rdb: LC
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
 ---
 
 ## Where seen?

@@ -6,6 +6,12 @@ keywords: macrodactyla, fautinae, tiger, anemone, anthozoa, cnidaria, field, gui
   info, photo
 layout: entry
 attributes:
+- 129
+- 130
+- 133
+- 153
+- 150
+- 143
 - 5
 - 6
 - 88
@@ -66,6 +72,11 @@ location:
 size:
 - 6.0
 - 10.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

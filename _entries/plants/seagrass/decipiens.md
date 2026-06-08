@@ -82,6 +82,11 @@ size:
 - 1.0
 - 2.5
 - 0.5
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -97,7 +102,7 @@ The seagrass has oval leaves that are longer (1-2.5cm) than the width (0.5cm). T
 **Flowers and fruits:**
 Small green fruits (0.5cm) contain up to 30 tiny seeds. The species sometimes behaves as an annual, growing, flowering, setting seed and dying in a short period of time.
 
-**Role in the habitat:**
+## Role in habitat
 This seagrass may be an important food source for marine grazers.
 
 **Status and threats:**

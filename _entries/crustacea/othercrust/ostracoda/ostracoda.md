@@ -63,6 +63,11 @@ location:
 size:
 - 1.0
 - 0.5
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -70,9 +75,9 @@ Often seen on our Northern shores, usually only by the bioluminescence they prod
 
 **What are mussel shrimps?**
 They are
-[crustaceans](../../crustacea)
+[crustaceans](/wildfacts/guides/crustacea/crustacea)
 like crabs and prawns. But while crabs and prawns belong to Class Malacostraca, Order
-[Decapoda](../../decapoda)
+[Decapoda](/wildfacts/guides/crustacea/decapoda)
 , mussel shrimps belong to Class Ostracoda. These tiny animals are poorly known. They are also sometimes called seed shrimps.
 
 ## Features

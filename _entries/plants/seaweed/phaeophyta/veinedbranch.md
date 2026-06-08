@@ -95,6 +95,11 @@ size:
 - 1.0
 - 2.0
 - 10.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -110,7 +115,8 @@ According to
 *Dictyopteris*
 species.
 
-**Human uses:**
+## Human uses
+
 ****
 It is eaten by people and is believed to have antibacterial and antitumor properties.
 

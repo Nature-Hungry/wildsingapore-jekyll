@@ -1,9 +1,17 @@
 ---
 title: Fire anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: fire, anemone, actinodendron, arboreum, actinodendridae, actiniaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: fire, anemone, actinodendron, arboreum, actinodendridae, actiniaria, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 attributes:
+- 129
+- 130
+- 133
+- 153
+- 150
+- 143
 - 6
 - 51
 - 88
@@ -42,7 +50,8 @@ galleries:
   - url: http://www.wildsingapore.com/crustacea/othercrust/shrimp/brevicarpalis/230804pcn1a.jpg
     caption: With peacock-tail anemone shrimp.
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/actinodendron/240820kusky6.jpg
-    caption: Caught a fish, which was still struggling. Kusu Island, Aug 24 Photo shared by Kelvin Yong on facebook.
+    caption: Caught a fish, which was still struggling. Kusu Island, Aug 24 Photo
+      shared by Kelvin Yong on facebook.
   gallery4:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/actinodendron/251107tmftlks7.jpg
     caption: Tanah Merah Ferry Terminal, Nov 25 Photo shared by Loh Kok Sheng on facebook.
@@ -81,7 +90,8 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/actinodendron/151225tsmklks2m3.jpg
     caption: Terumbu Semakau, Dec 15 Photos shared by Loh Kok Sheng on his blog.
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/actinodendron/160711tsmklks1.jpg
-    caption: This one seen near coral. Terumbu Semakau, Jul 16 Photo shared by Loh Kok Sheng on facebook.
+    caption: This one seen near coral. Terumbu Semakau, Jul 16 Photo shared by Loh
+      Kok Sheng on facebook.
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/actinodendron/160410tbrl1.jpg
     caption: Terumbu Bemban, Apr 16 Photo shared by Richard Lim on facebook.
   gallery11:
@@ -98,24 +108,38 @@ galleries:
     caption: Pulau Berkas, May 10 Photo shared by Loh Kok Sheng on his flickr.
 links_references: '**Links**
 
-  - [*Actinodendron*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/supraspecific_detail.cfm?genusname=Actinodendron) on the [Hexacorallians of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/order.cfm) website by Daphne G. Fautin with classification, distribution, biological associations and more.
+  - [*Actinodendron*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/supraspecific_detail.cfm?genusname=Actinodendron)
+  on the [Hexacorallians of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/order.cfm)
+  website by Daphne G. Fautin with classification, distribution, biological associations
+  and more.
 
-  - [*Actinodendron*](http://www.sealifebase.fisheries.ubc.ca/nomenclature/SpeciesList.php?genus=Actinodendron) on SeaLife Base: technical fact sheet.
+  - [*Actinodendron*](http://www.sealifebase.fisheries.ubc.ca/nomenclature/SpeciesList.php?genus=Actinodendron)
+  on SeaLife Base: technical fact sheet.
 
 
   **References**
 
-  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024.
+  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
+  Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H.
+  Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024.
 
-  - The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
+  - The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition.
+  National Parks Board. 663 pp.
 
-  - G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, 2024. *The Singapore Red Data Book: Threatened plants and animals of Singapore*. 3rd edition. National Parks Board. 258 pp.
+  - G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, 2024.
+  *The Singapore Red Data Book: Threatened plants and animals of Singapore*. 3rd edition.
+  National Parks Board. 258 pp.
 
-  - Daphne Gail Fautin, S. H. Tan and Ria Tan. Dec 2009. *Sea anemones (Cnidaria: Actiniaria) of Singapore: abundant and well-known shallow-water species* . The Raffles Bulletin of Zoology. Pp. 121-143.
+  - Daphne Gail Fautin, S. H. Tan and Ria Tan. Dec 2009. *Sea anemones (Cnidaria:
+  Actiniaria) of Singapore: abundant and well-known shallow-water species* . The Raffles
+  Bulletin of Zoology. Pp. 121-143.
 
-  - Erhardt, Harry and Daniel Knop. 2005. *Corals: Indo-Pacific Field Guide* IKAN-Unterwasserachiv, Frankfurt. 305 pp.
+  - Erhardt, Harry and Daniel Knop. 2005. *Corals: Indo-Pacific Field Guide* IKAN-Unterwasserachiv,
+  Frankfurt. 305 pp.
 
-  - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates* Sea Challengers. 314pp.
+  - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral Reef
+  Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the
+  vertebrates* Sea Challengers. 314pp.
 
   '
 location:
@@ -137,6 +161,11 @@ size:
 - 15.0
 - 20.0
 rdb: LC
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -155,7 +184,7 @@ The common name comes from its powerful and nasty sting
 Do not touch the sea anemone.
 
 **Fiery friends:**
-Usually, we don't see symbiotic animals living in a Fire anemone. But once, a [Peacock-tail anemone shrimp](../../crustacea/othercrust/shrimp/brevicarpalis) (*Periclimenes brevicarpalis*) was seen in a Fire anemone.
+Usually, we don't see symbiotic animals living in a Fire anemone. But once, a [Peacock-tail anemone shrimp](/wildfacts/guides/crustacea/crustacea/othercrust/shrimp/brevicarpalis) (*Periclimenes brevicarpalis*) was seen in a Fire anemone.
 
 **Status and threats:**
 As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.

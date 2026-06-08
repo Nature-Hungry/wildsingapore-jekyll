@@ -19,15 +19,6 @@ order: Malacalcyonacea
 updated: Dec 2024
 coverimg: ../../../Templates/fornatureguides.gif
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They are animals! Although
-      they look like plants. Don't step on them! They don't produce a hard skeleton.
-      Each soft coral is a colony of countless tiny polyps.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They are animals! Although they look like plants. Don't step on them!
-      They don't produce a hard skeleton. Each soft coral is a colony of countless
-      tiny polyps.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letpinwheel/050312hntg3315m3.jpg
     caption: Leathery soft corals can be quite large! Pulau Hantu, Mar 05
@@ -191,9 +182,17 @@ location:
 - tsm
 - rfl
 - lfa
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They are animals! Although they look like plants. Don't step on them! They don't
+  produce a hard skeleton
+- Each soft coral is a colony of countless tiny polyps.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Leathery soft corals are commonly seen on our Southern shores and in some places can grow quite large! Exposed out of water at low tide, some look like fried eggs, others like a pile of discarded rubber gloves, and yet others like some bizarre leathery giant carnation or a big floppy pinwheel.
@@ -254,7 +253,8 @@ and
 **What do they eat?**
 Leathery corals harbour microscopic, single-celled symbiotic algae (zooxanthellae) within their bodies. The algae undergo photosynthesis to produce food from sunlight. The food produced is shared with the host, which in return provides the algae with shelter and minerals.
 
-**Human uses:**
+## Human uses
+
 Leathery soft corals are considered toxic in the live aquarium trade. They produce substances that inhibit or stunt the growth of hard corals nearby.
 
 **Status and threats:**

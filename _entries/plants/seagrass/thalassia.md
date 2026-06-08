@@ -25,14 +25,6 @@ order: Alismatales
 updated: Oct 2016
 rdb: EN
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... This seagrass is rarely seen
-      on our shores. It doesn't flower frequently. It is eaten by sea turtles and
-      dugongs.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: This seagrass is rarely seen on our shores. It doesn't flower frequently.
-      It is eaten by sea turtles and dugongs.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/thalassia/080422smkd1570m3.jpg
     caption: Flowering plant. Pulau Semakau, Apr 08
@@ -128,9 +120,17 @@ size:
 - 7.0
 - 40.0
 - 25.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- This seagrass is rarely seen on our shores
+- It doesn't flower frequently
+- It is eaten by sea turtles and dugongs.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 This seagrass only abundant on Labrador, which has quite a large patch. On Chek Jawa, it is found in small patches. The
@@ -151,7 +151,7 @@ other ribbon-like seagrasses. Here's more on
 [how to tell apart ribbon-like seagrasses](cfribbon)
 .
 
-**Role in the habitat:**
+## Role in habitat
 Algae often grow thickly on the leaves, colouring the leaves white or pink. These are eaten by small grazing creatures like snails.
 
 Among the animals that eat this seagrass are dugongs and green turtles. So it is also sometimes called Dugong grass or Turtle grass.

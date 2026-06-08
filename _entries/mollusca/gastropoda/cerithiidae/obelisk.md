@@ -107,6 +107,11 @@ size:
 - 3.0
 - 7.0
 rdb: LC
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -121,7 +126,8 @@ They are preyed upon by other snails such as
 [Drills](../muricidae/muricidae)
 as well as by crabs.
 
-**Human uses:**
+## Human uses
+
 Where they are abundant, they may be collected for food and for their shell.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

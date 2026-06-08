@@ -20,15 +20,6 @@ suborder: Toxotoidei
 updated: Oct 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/toxotidae/jaculatrix/040110sbwrd0029m3a.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... These fishes can shoot down
-      insects from overhanging foliage. But they prefer to jump out of the water to
-      grab them. There are two different species of archerfishes in our waters.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: These fishes can shoot down insects from overhanging foliage. But they
-      prefer to jump out of the water to grab them. There are two different species
-      of archerfishes in our waters.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/toxotidae/jaculatrix/040110sbwrd0029m3a.jpg
     caption: Archerfishes hanging under the main bridge. Sungei Buloh Wetland Reserve,
@@ -124,9 +115,17 @@ location:
 - chg
 size:
 - 20.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- These fishes can shoot down insects from overhanging foliage
+- But they prefer to jump out of the water to grab them
+- There are two different species of archerfishes in our waters.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 These surface dwelling fishes are commonly seen in mangroves and under jetties on our Northern shores. There are usually large groups of big fat archerfishes under the main bridge at Sungei Buloh Wetland Reserve. Smaller ones are sometimes seen at the Changi Village jetty.
@@ -165,10 +164,11 @@ But Archerfishes don't just eat above-water prey. They also hunt small aquatic c
 **Archer babies:**
 It is believed that only the juveniles are found in brackish water while the adults are more solitary and swim out to the coral reefs to breed. 20,000-150,000 eggs are laid. Only a few reach maturity in 1-2 years. Young fish have iridescent yellow patches on their upper body between the dark bands, which perhaps helps them to school together in the muddy waters. As they get older, patches disappear and the black bands get shorter and eventually only seen on the uppermost part of the body.
 
-**Role in the habitat:**
+## Role in habitat
 Archerfishes control populations of their prey. They are also food for others higher up on the food chain.
 
-**Human uses:**
+## Human uses
+
 Two Southeast Asian species are collected for the aquarium fish trade. They are not bred in captivity. In Kew Gardens, Archer fishes are kept in ponds with tropical waterlilies to help keep down small insect pests and aphids!
 
 **Status and threats:**

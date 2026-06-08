@@ -82,6 +82,11 @@ location:
 size:
 - 3.0
 - 5.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -106,7 +111,8 @@ This snail is often seen actively hunting
 [Button snails](../trochidae/umbonium)
 .
 
-**Human uses:**
+## Human uses
+
 It is collected as food and for the shell trade. In Thailand it is commonly collected using fishing nets at depths of 2-10m.
 
 ---

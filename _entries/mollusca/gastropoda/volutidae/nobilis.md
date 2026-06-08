@@ -40,10 +40,12 @@ galleries:
     caption: Burrowing with siphon sticking out. Changi, Jun 13
   gallery2:
   - url: http://www.wildsingapore.com/bivalvia/mactridae/bigbrown/120510chgd2887m6l.jpg
-    caption: Noble volute hunting down a Big brown mactra clam that eventually escaped. Pulau Semakau, Mar 08
+    caption: Noble volute hunting down a Big brown mactra clam that eventually escaped.
+      Pulau Semakau, Mar 08
   gallery3:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/nobilis/251205cjccn1.jpg
-    caption: From video of whelk leaping to escape. Chek Jawa, Dec 25 Photo shared by Che Cheng Neo on facebook.
+    caption: From video of whelk leaping to escape. Chek Jawa, Dec 25 Photo shared
+      by Che Cheng Neo on facebook.
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/nobilis/130624chg7d7981.jpg
     caption: Attempting to eat a Fan clam ? Changi, Jun 13
   gallery4:
@@ -56,14 +58,16 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/nobilis/070325smkd9603m3.jpg
     caption: Laying eggs Pulau Semakau, Mar 07
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/nobilis/080310smktch01m3.jpg
-    caption: Baby volute! Pulau Semakau, Mar 08 Photo shared by Toh Chay Hoon on her flickr.
+    caption: Baby volute! Pulau Semakau, Mar 08 Photo shared by Toh Chay Hoon on her
+      flickr.
   gallery6:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/nobilis/160511chg7mn2.jpg
     caption: Changi, May 16 Photo shared by Marcus Ng on facebook.
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/nobilis/140502chg7tch1m3.jpg
     caption: Eating a clam Changi, May 14 Photo shared by Toh Chay Hoon on facebook.
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/nobilis/230220cjccn1.jpg
-    caption: Eating a Gong-gong snail . Chek Jawa, Feb 23 Photo shared by Che Cheng Neo on facebook.
+    caption: Eating a Gong-gong snail . Chek Jawa, Feb 23 Photo shared by Che Cheng
+      Neo on facebook.
   gallery7:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/nobilis/230607chgeccn1.jpg
     caption: Eating a clam. Changi East, Jun 23 Photo shared by Che Cheng Neo on facebook.
@@ -85,7 +89,8 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/nobilis/100518bbbnml3m3.jpg
     caption: Beting Bemban Besar, May 10 Photo shared by Neo Mei Lin on her blog.
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/nobilis/251008bbbky7.jpg
-    caption: Eating a clam. Beting Bemban Besar, Oct 25 Photo shared by Kelvin Yong on facebook.
+    caption: Eating a clam. Beting Bemban Besar, Oct 25 Photo shared by Kelvin Yong
+      on facebook.
   gallery11:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/nobilis/240412tbtl4.jpg
     caption: Terumbu Bemban, Apr 24 Photo shared by Tammy Lim on facebook.
@@ -128,9 +133,12 @@ size:
 - 12.0
 - 20.0
 rdb: NT
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 
@@ -156,7 +164,8 @@ This predator eats molluscs seeking out buried prey with its siphon and encloses
 Mama noble volutes lay large egg capsules. Each capsule about 10cm long, oval with angular bumps, translucent white to beige or yellowish. The capsules are usually stacked up to form a cylindrical, generally oval shape and the entire assembly attached to a hard, embedded object such as coral rubble. Each capsule contains many eggs, but only one or a few develop, the survivor having eaten the others. The eggs hatch and undergo metamorphosis within the egg capsules, emerging as tiny crawling snails. Because there
 is no free-swimming larval stage the snail has a restricted range and local populations can be wiped out by over-collection.
 
-{% include img-wrap-group.html items=page.galleries.gallery6 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery6 %}## Human uses
+
 Called 'kilah' in Malay, the Noble volute is edible. It is also 'often collected for its attractive shell.
 
 **Status and threats:**

@@ -9,7 +9,7 @@ attributes:
 - 23
 - 33
 - 71
-- 75
+- 130
 - 100
 - 111
 - 123
@@ -117,6 +117,11 @@ size:
 - 2.0
 - 3.0
 rdb: LC
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

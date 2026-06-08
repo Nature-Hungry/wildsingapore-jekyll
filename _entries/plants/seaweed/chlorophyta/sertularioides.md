@@ -153,6 +153,11 @@ size:
 - 5.0
 - 7.0
 rdb: NE
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -171,12 +176,13 @@ and how to tell apart
 [feathery green seaweeds and seagrasses](../../../glossary/seagrassweed)
 .
 
-**Role in the habitat:**
+## Role in habitat
 The seaweed is said to be eaten by some species of
 [sea hares](../../../mollusca/slugs/anaspidae/anaspidea)
 .
 
-**Human uses:**
+## Human uses
+
 This seaweed is reported to be edible, to have antibacterial, antifungal and antitumor properties, and to be used to treat high blood pressure and goiter. However, some
 *Caulerpa*
 species produce toxins to protect themselves from browsing fish. This also makes them toxic to humans.

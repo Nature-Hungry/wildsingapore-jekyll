@@ -11,16 +11,6 @@ species: ''
 updated: Jan 2020
 coverimg: ../../../../../Templates/fornatureguides.gif
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They belong in their shells.
-      Don't try to remove them! Every empty shell is a potential hermit crab home.
-      Don't take any shells home! Many other animals may live together with a hermit
-      crab. Don't take hermits home!
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They belong in their shells. Don't try to remove them! Every empty shell
-      is a potential hermit crab home. Don't take any shells home! Many other animals
-      may live together with a hermit crab. Don't take hermits home!
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeorange/110520chgd2437m3.jpg
     caption: Changi, May 11
@@ -279,16 +269,23 @@ location:
 - hnt
 - smk
 - rfl
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Don't take any shells home! Many other animals may live together with a hermit crab.
+  Don't take hermits home!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Hermit crabs are commonly seen on many of our shores. They come in all sizes from tiny to large, and live in all kinds of shells. The same kind of hermit crab may live in different kinds of empty shells. Hermit crabs may live even in broken shells.
 
 **What are hermit crabs?**
 Hermit crabs belong a subgroup called Anomurans in the Order
-[Decapoda](../../../decapoda)
+[Decapoda](..//wildfacts/guides/crustacea/decapoda)
 . Anomurans includes
 [porcelain crabs](../porcellanidae/porcellanidae)
 . These crab-like animals are not true crabs. True crabs belong to a subgroup called Brachyurans within the Order Decapoda.

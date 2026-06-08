@@ -109,6 +109,11 @@ size:
 - 5.0
 - 9.0
 rdb: LC
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -123,7 +128,7 @@ Operculum dark.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**
 It eats a wide variety of prey from
-[barnacles](../../../crustacea/othercrust/ciriipedia/cirripedia)
+[barnacles](..//wildfacts/guides/crustacea/crustacea/othercrust/ciriipedia/cirripedia)
 ,
 [nest-building mussels](../../bivalvia/mytilidae/musculista)
 to snails and clams hiding in the mud and worms in rotten wood.

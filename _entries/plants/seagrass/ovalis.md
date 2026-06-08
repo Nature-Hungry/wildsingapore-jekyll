@@ -25,7 +25,7 @@ subphylum: Angiospermae
 class: Liliopsida
 order: Alismatales
 updated: Mar 14
-rdb: Lc
+rdb: LC
 display_attributes:
 - Intertidal
 - In the mud
@@ -130,6 +130,11 @@ location:
 - smk
 - tsm
 - lfa
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 

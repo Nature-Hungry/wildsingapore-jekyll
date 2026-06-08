@@ -5,6 +5,12 @@ keywords: giant, carpet, anemone, stichodactyla, gigantea, field, guide, seashor
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
+- 129
+- 130
+- 133
+- 153
+- 150
+- 143
 - 6
 - 9
 - 15
@@ -153,6 +159,11 @@ size:
 - 40.0
 - 50.0
 rdb: LC
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -196,7 +207,7 @@ sp.) including
 ,
 *A. percula, A. perideraion, A. polymnus*
 . But so far, the only animals observed on giant carpet anemones were: the
-[Peacock-tail anemone shrimps](../../crustacea/othercrust/shrimp/brevicarpalis)
+[Peacock-tail anemone shrimps](/wildfacts/guides/crustacea/crustacea/othercrust/shrimp/brevicarpalis)
 and the
 [Clown anemonefish](../../vertebrates/fish/pomacentridae/ocellaris)
 .
@@ -208,7 +219,8 @@ Like other anemones, the Carpet anemone has stingers in its tentacles. Generally
 **Carpet babies:**
 There is not much information on how Carpet anemones reproduce.
 
-**Human uses:**
+## Human uses
+
 Unfortunately, these beautiful anemones are harvested for the live aqurium trade.
 
 **Status and threats:**

@@ -26,16 +26,6 @@ suborder: Siluroidei
 updated: Oct 2019
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/canius/050818cftg1436m3a.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about it ... It is small and usually hidden
-      among seaweeds or under rubbish. Watch your step! The 'whiskers' don't sting.
-      They are used to find food in murky waters. It has venomous spines. Don't touch
-      it!
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: It is small and usually hidden among seaweeds or under rubbish. Watch
-      your step! The 'whiskers' don't sting. They are used to find food in murky waters.
-      It has venomous spines. Don't touch it!
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/canius/050818cftg1436m3a.jpg
     caption: '''Whiskers'' (barbels) at the top of the snout can extend past the eyes
@@ -137,9 +127,19 @@ location:
 - tpg
 - tsm
 rdb: LC
+trivia_title: if you learn only 3 things about it ..
+trivia_items:
+- It is small and usually hidden among seaweeds or under rubbish
+- Watch your step! The 'whiskers' don't sting
+- They are used to find food in murky waters
+- It has venomous spines
+- Don't touch it!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 These wriggly place eel-like fishes are sometimes seen on some of our shore. Usually seen alone, hiding in pools under stones or other debris on the shore, near seagrasses. Elsewhere, adults found mostly in estuaries and lagoons, and sometimes up rivers in nearly fresh waters
@@ -168,7 +168,8 @@ It has venomous spines on the dorsal fin and on each of the pectoral fins, which
 **What does it eat?**
 It eats crustaceans, molluscs and fishes. It is adapted for hunting on the sea bottom in murky waters.The 'whiskers' (barbels) around the mouth do not sting, they help find prey where visibility is poor. The barbels have taste buds to help sense food. The fish also has a keen sense of hearing. Also a strong sense of smell, using their 'noses' (nostril-like openings on the snout).
 
-**Human uses:**
+## Human uses
+
 The large adults are harvested commercially for eating.
 
 ---

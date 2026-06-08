@@ -59,7 +59,12 @@ size:
 - 15.0
 - 20.0
 - 1.0
-rdb: Lc
+rdb: LC
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

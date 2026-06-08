@@ -6,6 +6,12 @@ keywords: magnificent, anemone, heteractis, magnifica, stichodactylidae, actinia
   fact sheet, info, photo
 layout: entry
 attributes:
+- 129
+- 130
+- 133
+- 153
+- 150
+- 143
 - 6
 - 9
 - 15
@@ -194,6 +200,11 @@ size:
 - 50.0
 - 100.0
 rdb: LC
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 
@@ -223,7 +234,7 @@ The Magnificent anemone harbours symbiotic algae (called zooxanthellae) that pho
 
 Several kinds of animals may live happily among and unharmed by the tentacles of the Magnificent anemone. These include A
 nemone shrimps like the
-[Peacock-anemone anemone shrimp](../../crustacea/othercrust/shrimp/brevicarpalis)
+[Peacock-anemone anemone shrimp](/wildfacts/guides/crustacea/crustacea/othercrust/shrimp/brevicarpalis)
 (
 *Periclimenes brevicarpalis*
 ) and

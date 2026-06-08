@@ -19,14 +19,6 @@ order: Sabellida
 updated: Oct 2019
 coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/reef/040804skdd4129m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Their bristles can cause severe
-      pain. Don't touch! They have well developed heads with specialised jaws. Some
-      have a spectacular way of reproducing.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Their bristles can cause severe pain. Don't touch! They have well developed
-      heads with specialised jaws. Some have a spectacular way of reproducing.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/reef/040804skdd4129m3.jpg
     caption: Pulau Sekudu, Aug 04
@@ -145,9 +137,17 @@ links_references: '**Links**
   . 5
 
   '
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Their bristles can cause severe pain
+- Don't touch! They have well developed heads with specialised jaws
+- Some have a spectacular way of reproducing.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Bristleworms are abundant on our shores. Even the most 'beat up' shore will have these worms. But they are rarely seen as they burrow in the ground or remain in other hiding places. In coral rubble, giant reef worms that grow to 1m long hide inside crevices. Others about 10cm long crawl about in sandy and muddy areas. Some beautiful ones swim about in the water. Others live in
@@ -215,7 +215,8 @@ The Singapore Biodiversity Records has an article that might be related to brist
 **Role in the ecosystem:**
 Bristleworms are eaten by many creatures higher up in the food chain. Shorebirds, for example, depend on worms for sustenance to make their long migrations.
 
-**Human uses:**
+## Human uses
+
 Fishermen sometimes dig out bristleworms to use as bait.
 
 **Status and threats:**

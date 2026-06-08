@@ -79,11 +79,16 @@ location:
 - smk
 size:
 - 2.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
 This sturdy nerite is sometimes seen in back mangroves and among
-[mud lobster mounds](../../../crustacea/othercrust/lobster/thalassina)
+[mud lobster mounds](..//wildfacts/guides/crustacea/crustacea/othercrust/lobster/thalassina)
 .
 The study by Tan & Clements (2008) found this snail on our Northern shores as well as at Berlayar Creek. It was previously known as
 *Dostia violacea*

@@ -24,16 +24,6 @@ superfamily: Anomioidea
 updated: May 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/placunidae/placuna/050511cftg6311m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Sometimes mistaken for fish
-      scales or other parts of a larger animal. The living animal can be seen when
-      the shell is held against the light. The clam is globally endangered due to
-      overcollection.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Sometimes mistaken for fish scales or other parts of a larger animal.
-      The living animal can be seen when the shell is held against the light. The
-      clam is globally endangered due to overcollection.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/placunidae/placuna/050511cftg6311m3.jpg
     caption: View of both upper and underside . Changi, May 05
@@ -117,9 +107,17 @@ size:
 - 12.0
 - 18.0
 - 20.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Sometimes mistaken for fish scales or other parts of a larger animal
+- The living animal can be seen when the shell is held against the light
+- The clam is globally endangered due to overcollection.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 This large animal with a thin translucent shell is still commonly encountered on our Northern shores, and some of our Southern shores. Among seagrass meadows, lying loose on the ground.
@@ -149,7 +147,8 @@ Hard surfaces are scarce in the habitat where the Window-pane clams live. So sea
 [sea urchin](../../../echinodermata/echinoidea/urchin/urchin)
 as an umbrella, or as a shelter for all kinds of animals from tiny hermit crabs, to larger octopuses.
 
-{% include img-wrap-group.html items=page.galleries.gallery4 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery4 %}## Human uses
+
 This clam is collected and in some places cultivated. Its lustrous shells are made into souvenirs while the animal is eaten for food. The animal is also said to produce tiny pearls which are lead-coloured and irregularly shaped.
 
 In the Philippines, they are made into chandeliers and wind chimes. In 1991, the clam ranked fifth among the major fishery exports of the country bringing in US$35 million. Overexploitation began in the late 1970s until the clam disappeared in the late 1980s due to world demand. Among other causes of depletion are destructive methods of fishing and gathering with methods such as trawling, use of mechanical rakes and dredges and compressor diving. Efforts to reintroduce and farm the clam is constrained by continued illegal harvesting.

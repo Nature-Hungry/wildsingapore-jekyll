@@ -20,16 +20,6 @@ superfamily: Littorinoidea
 updated: Aug 2020
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Don't take them off the rocks!
-      They will wash away with the tide and may die. Periwinkles do move! But only
-      at high tide or in cool weather. The area around a periwinkle is often grazed
-      bare of algae.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Don't take them off the rocks! They will wash away with the tide and
-      may die. Periwinkles do move! But only at high tide or in cool weather. The
-      area around a periwinkle is often grazed bare of algae.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/others/050822cjg2240m3.jpg
     caption: Several kinds of periwinkles may be found together. Chek Jawa, Aug 05
@@ -177,9 +167,17 @@ location:
 size:
 - 2.0
 - 5.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Don't take them off the rocks! They will wash away with the tide and may die
+- Periwinkles do move! But only at high tide or in cool weather
+- The area around a periwinkle is often grazed bare of algae.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Periwinkles sprinkle the rocks on many of our shores. They appear dead but are very much alive. At low tide, they are usually wedged into crevices and cracks in rocks and even inside the empty shells of dead oysters and barnacles.
@@ -204,7 +202,8 @@ Periwinkles graze on tiny algae growing as a film over the rocks. Some species e
 **Periwinkle Babies:**
 In periwinkles, the genders are separate and they practice internal fertilisation. The males have a prong-like male organ. Some females shed their eggs directly into the water where these drift with the plankton as they develop. Others lay gelatinous egg masses or retain their eggs until these hatch. Free-swimming larvae hatch from the eggs, only later developing into snails.
 
-{% include img-wrap-group.html items=page.galleries.gallery3 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery3 %}## Human uses
+
 In our region, they are collected for subsistence food by coastal dwellers and for shellcraft. Large periwinkles are eaten in temperate countries such as England. In fact, the name 'periwinkle' comes from the Old English for 'penny winkle' as they were then sold for a penny per handful. They were also used as jewellery.
 
 **Status and threats:**

@@ -117,6 +117,10 @@ size:
 - 65.0
 - 2500.0
 rdb: EN
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
 ---
 
 ## Where seen?
@@ -146,7 +150,8 @@ and
 *L. racemosa*
 practically exclude each other in habitat and have never been collected in exactly the same stand. The exact cause of this different ecological behaviour is not yet known.
 
-**Human uses:**
+## Human uses
+
 According to Burkill, the timber is hard and durable, and thus sought after for marine pilings as well as bridges, wharves, parts of canoes and other household items. There are reports that pier posts made of the tree were still sound after 20-50 years. When first cut it smells of roses. But large-sized timber is rare. It is also used as firewood.
 
 **Status and threats:**

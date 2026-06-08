@@ -47,6 +47,11 @@ galleries:
     caption: Fern seagrass Halophila spinulosa
   - url: http://www.wildsingapore.com/seagrass/spinulosa/030928cjd0024m3a.jpg
     caption: ''
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 These three seaweeds are sometimes confused for one another. Here's more on how to tell them apart.

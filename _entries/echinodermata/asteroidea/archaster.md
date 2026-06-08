@@ -48,15 +48,6 @@ links_references: "**Links**\n- [Sea\n  star (*Archaster typicus*)](http://mangr
   \ Singapore*.\n  Nature Society (Singapore). 285 pp.\n- Schoppe,\n  Sabine, 2000.\
   \ *Echinoderms\n  of the Philippines: A guide to common shallow water sea stars,\n"
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They are no longer common on
-      all our shores. Their method of mating is unique among sea stars They use water
-      to pump up their bodies. Don't remove them from water for too long.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They are no longer common on all our shores. Their method of mating is
-      unique among sea stars They use water to pump up their bodies. Don't remove
-      them from water for too long.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/archaster/031207cjd0027m3.jpg
     caption: Various colours and patterns, sometimes four or six arms Chek Jawa, Dec
@@ -192,9 +183,17 @@ size:
 - 12.0
 - 15.0
 rdb: vu
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They are no longer common on all our shores
+- Their method of mating is unique among sea stars They use water to pump up their
+  bodies. Don't remove them from water for too long.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Despite its name, this elegant sea star is no longer common on all our shores. In the North, Chek Jawa used to be the only place where it was seen in large numbers. But following massive flooding in Johor in early 2007, there were mass deaths among these animals (more about the mass deaths on the

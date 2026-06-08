@@ -63,6 +63,10 @@ size:
 - 1200.0
 - 1500.0
 rdb: vu
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- terrestrial
 ---
 
 ## Where seen?
@@ -82,7 +86,8 @@ It is the caterpillar host-plant of the King Crow butterfly (
 *Euploea phaenareta castelnaui*
 ).
 
-**Human uses:**
+## Human uses
+
 See the fact sheets on
 *[Cerbera](cerbera)*
 [species in general](cerbera)

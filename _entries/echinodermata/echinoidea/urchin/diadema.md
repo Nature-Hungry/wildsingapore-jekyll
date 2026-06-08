@@ -232,6 +232,11 @@ size:
 - 8.0
 - 10.0
 rdb: NE
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -288,7 +293,8 @@ The sea urchin is sometimes home to other animals such as
 *Coeloplana*
 sp.). Small white parasitic snails are also said to be associated with it.
 
-**Human uses:**
+## Human uses
+
 In some places, the roe of this sea urchin is eaten resulting in heavy harversting.
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

@@ -25,15 +25,6 @@ suborder: Uranoscopoidei
 updated: Nov 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/uranoscopidae/lebeck/011021cjcpd0929m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... It has venomous spines! Don't
-      touch or kick them! Most of the fish is usually well hidden under the sand.
-      They lure prey towards them with a filament in their mouths.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: It has venomous spines! Don't touch or kick them! Most of the fish is
-      usually well hidden under the sand. They lure prey towards them with a filament
-      in their mouths.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/uranoscopidae/lebeck/011021cjcpd0929m3.jpg
     caption: Usually half buried in the sand. Chek Jawa, Oct 01
@@ -138,9 +129,17 @@ location:
 - cj
 - ecp
 rdb: NT
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- It has venomous spines! Don't touch or kick them! Most of the fish is usually well
+  hidden under the sand
+- They lure prey towards them with a filament in their mouths.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 This bizarre pop-eyed fish is sometimes seen on our Northern shores, usually buried in sand bars and sandy shores near seagrass areas with only their tiny eyes sticking out. A large one (about 30cm) that we rescued from a fish net immediately wiggled into the wet sand, leaving only its bulbous eyes peeping out. Sometimes, dead ones are seen washed ashore.

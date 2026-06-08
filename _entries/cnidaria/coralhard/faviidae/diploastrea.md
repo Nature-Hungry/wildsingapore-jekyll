@@ -134,6 +134,11 @@ size:
 - 30.0
 - 500.0
 - 200.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

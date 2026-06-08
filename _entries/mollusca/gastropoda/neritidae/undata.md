@@ -9,7 +9,7 @@ attributes:
 - 23
 - 33
 - 71
-- 75
+- 130
 - 100
 - 111
 - 123
@@ -116,6 +116,11 @@ location:
 size:
 - 2.0
 - 4.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -130,7 +135,8 @@ other similar nerites. Here's a comparison of these
 [similar nerite snails](neritidaecf)
 and how to tell them apart.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
-**Human uses:**
+## Human uses
+
 Where it is common, it is often collected for food and shellcraft by coastal dwellers.
 
 ---

@@ -118,6 +118,11 @@ size:
 - 10.0
 - 12.0
 rdb: EN
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -130,7 +135,8 @@ This large long smooth sea cucumber with dark markings is sometimes seen buried 
 **Baby cucumbers:**
 It is
 reaches sexual maturity at 9cm in length or 60g in weight. It spawns once a year.
-**Human uses:**
+## Human uses
+
 It is among the sea cucumbers harvested in Madagascar, all for export to China. It is collected by women and children by wading at low tide and by men snorkeolling at coastal sites from canoes.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

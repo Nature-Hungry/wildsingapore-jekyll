@@ -46,17 +46,6 @@ links_references: "**Links**  \n- [Fiddler\n  crabs (*Uca* spp.)](http://mangrov
   \ Genus *Uca*, Princeton\n  University Press. 737pp\n- Edward E.\n  Ruppert, Richard\
   \ S. Fox, Robert D. Barnes. 2004.*Invertebrate\n"
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They common on undisturbed
-      shores. Don't step on them! Only males have an enlarge pincer. It is too big
-      to use for feeding. Females have two small pincers and thus can eat twice as
-      fast. They can change colours and species cannot be identified by colour alone.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They common on undisturbed shores. Don't step on them! Only males have
-      an enlarge pincer. It is too big to use for feeding. Females have two small
-      pincers and thus can eat twice as fast. They can change colours and species
-      cannot be identified by colour alone.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/vocans/090611prpd3944m3.jpg
     caption: Female (top) and male (bottom). Pasir Ris, Jun 09
@@ -140,9 +129,19 @@ location:
 size:
 - 2.0
 - 3.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They common on undisturbed shores. Don't step on them! Only males have an enlarge
+  pincer
+- It is too big to use for feeding
+- Females have two small pincers and thus can eat twice as fast
+- They can change colours and species cannot be identified by colour alone.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Fiddler crabs are common on our natural undisturbed shores, especially those near mangroves. They are often found in large numbers. Fiddler crabs are highly sensitive to movement and will vanish when they feel footsteps on the sand or see shadows. To see them, wait patiently near their burrows without moving. They will soon re-emerge and you will be rewarded with their amusing behaviour: frantically feeding, squabbling and courting, all at the same time.
@@ -168,7 +167,7 @@ Fiddler crabs eat the thin coating of detritus on sand grains. They scoop sand t
 **Fiddler babies:**
 When a male Fiddler crab succeeds in persuading a female to mate with him, they retire into his burrow. The female may remain there until the eggs hatch. The eggs hatch into free-swimming larvae that drift with the plankton, changing into yet another form before settling down and developing into Fiddler crabs.
 
-{% include img-wrap-group.html items=page.galleries.gallery3 %}**Role in the habitat:**
+{% include img-wrap-group.html items=page.galleries.gallery3 %}## Role in habitat
 Fiddler crabs are eaten by many animals higher up in the food chain. The Kingfisher is among the birds that might snack on them.
 
 **Status and threats:**

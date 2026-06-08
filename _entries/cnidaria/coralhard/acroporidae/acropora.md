@@ -151,6 +151,11 @@ size:
 - 15.0
 - 20.0
 - 50.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -178,14 +183,15 @@ As a group, acropora corals are adaptable and found in a wide range of habitats 
 
 Some acropora corals are rather delicate and will shatter if they are knocked against. So please do not touch them, in fact, we should not touch any living hard corals.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
-**Role in the habitat:**
+## Role in habitat
 Acropora corals are among the important building blocks of a reef. Together with
 *Montipora*
 species, also members of the Family Acroporidae, acropora corals account for one-third of reef-building coral species. Acropora corals include some of the fastest growing hard corals. Their branching forms provide shelter to a wide variety of animals, from small fishes to tiny clams, small crabs to shrimps.
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
-**Human uses:**
+## Human uses
+
 Acropora corals are popular in the live aquarium trade and wild colonies are often taken from the natural reefs to supply this demand. Efforts to breed and raise acropora corals have been successful and it is hoped this supply will reduce collection from the wild. Although captive bred acropora corals are healthier and easier to care for than wild collected specimens, captive bred corals are more expensive.
 
 **Status:**

@@ -27,14 +27,6 @@ subfamily: Heniochinae
 updated: Sep 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/chaetodontidae/rostratus/031029sntbd0064m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about it ... Has a false eye to distract potential
-      predators. This fish forms monogamous pairs. It does poorly in a home aquarium,
-      Don't collect them.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Has a false eye to distract potential predators. This fish forms monogamous
-      pairs. It does poorly in a home aquarium, Don't collect them.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/chaetodontidae/rostratus/031029sntbd0064m3.jpg
     caption: Sentosa, Oct 03
@@ -218,9 +210,17 @@ size:
 - 4.0
 - 8.0
 rdb: LC
+trivia_title: if you learn only 3 things about it ..
+trivia_items:
+- Has a false eye to distract potential predators
+- This fish forms monogamous pairs
+- It does poorly in a home aquarium, Don't collect them.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 This strikingly patterned fish is commonly seen on many of our shores, among coral rubble and near reefs. It is said to be more active during the day, but those seen at night can be quite frisky. Elsewhere, they are found on rocky shores, coral reefs, estuaries and silty inner reefs.
@@ -233,7 +233,8 @@ To about 20cm, those seen during low tide usually about 4-8cm. Body flat, circul
 It uses its long snout to pick out bottom dwelling creatures from crevices.
 These include worms and small crabs.
 
-**Human uses:**
+## Human uses
+
 Unfortunately these beautiful fishes are popular in the live aquarium trade although they are considered among the most difficult to keep and feed. According to the IUCN Red List, "there is no data on how harvest for the aquarium trade affects the population. There appear to be no other major threats to this species." Fish traps left on the intertidal often contain several of these beautiful fishes. Sometimes, they are already dead as the trap is exposed out of water.
 
 ---

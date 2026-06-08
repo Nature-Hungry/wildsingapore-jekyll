@@ -88,11 +88,16 @@ links_references: '**Links**
 size:
 - 150.0
 - 200.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- terrestrial
 ---
 
 ## Where seen?
 The more delicate and elegant of our mangrove ferns, it is often seen in back mangroves, flourishing on
-[mud lobster mounds](../../../crustacea/othercrust/lobster/thalassina)
+[mud lobster mounds](..//wildfacts/guides/crustacea/crustacea/othercrust/lobster/thalassina)
 and other higher ground, usually in the shade. Compared to
 [Piai raya](aureum)
 (

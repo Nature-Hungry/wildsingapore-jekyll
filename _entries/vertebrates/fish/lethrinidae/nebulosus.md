@@ -92,6 +92,11 @@ size:
 - 70.0
 - 15.0
 rdb: NT
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -104,7 +109,8 @@ To about 70cm, those seen on the intertidal about 15cm. Like other members of th
 **What does it eat?**
 It eats echinoderms, molluscs and crustaceans, and to some extent on polychaetes worms and other fishes.
 
-**Human uses:**
+## Human uses
+
 It is valued as seafood. This species can survive for long periods in salinities as low as 10 parts per thousand and therefore it is a potential estuarine aquaculture species.
 
 ---

@@ -59,6 +59,11 @@ location:
 size:
 - 1.0
 - 2.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -71,7 +76,8 @@ Some, especially larger hermit crabs may have one or more
 [sea anemones on the shell](../../../../cnidaria/actiniaria/hermitsmall)
 .
 
-**Human uses:**
+## Human uses
+
 Hermit crabs have become popular pets and these are usually taken from the wild. Hermit crabs, however, belong in their habitats and not in our homes. More about the
 [impact of keeping hermit crabs as pets](hermit.htm#pets)
 .

@@ -108,6 +108,11 @@ location:
 size:
 - 10.0
 rdb: EN
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -123,7 +128,8 @@ It usually swims head down in a typical 'drunken' dance, flip flopping all its l
 **What does it eat?**
 It eats small bottom-dwelling animals such as crustaceans, molluscs and other fishes.
 
-**Human uses:**
+## Human uses
+
 The adult fish is eaten and small juveniles are harvested for the aquarium trade.
 
 ---

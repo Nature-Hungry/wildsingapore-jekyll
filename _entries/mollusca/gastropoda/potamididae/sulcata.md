@@ -101,6 +101,11 @@ location:
 size:
 - 4.0
 rdb: LC
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -119,7 +124,8 @@ and
 [how to tell these snails apart](cfpotamids)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
-**Human uses:**
+## Human uses
+
 It is extensively collected for food and the shell used to produce lime in the Philippines.
 
 ---

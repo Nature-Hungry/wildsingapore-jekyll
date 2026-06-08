@@ -103,6 +103,11 @@ size:
 - 15.0
 - 20.0
 - 50.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -122,7 +127,7 @@ which, unlike the soft coral, has white stripes radiating from the centre of the
 
 **Flowery friends:**
 Sometimes, tiny transparent
-[red nose shrimps](../../crustacea/othercrust/shrimp/rednose)
+[red nose shrimps](/wildfacts/guides/crustacea/crustacea/othercrust/shrimp/rednose)
 and
 [tiny colourful brittle stars](../../echinodermata/ophiuroidea/tinycolourful)
 can be seen on this soft coral.

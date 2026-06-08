@@ -77,6 +77,11 @@ location:
 size:
 - 8.0
 - 10.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -93,7 +98,8 @@ The lower (right) valve is cemented very firmly to the hard surface and is more 
 **What do they eat?**
 Like most other bivalves, it is a filter feeder. When submerged, it opens its valves slightly and sucks in a current of water. It uses its enlarged gills to sieve food particles out of this current. When the tide goes out, it clamps up the valves tightly to prevent water loss.
 
-**Human uses:**
+## Human uses
+
 Collected for for food and the shell trade by coastal dwellers. Their shells may also be used in shellcraft or to make lime.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

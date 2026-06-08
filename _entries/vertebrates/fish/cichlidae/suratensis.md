@@ -79,6 +79,11 @@ location:
 size:
 - 30.0
 - 20.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -94,7 +99,8 @@ It is mainly herbivorous feeding on filamentous algae, plant material. It may al
 **Baby chromides:**
 Several adults may take care of a single brood that presumably were spawned by only two of the adults. Tan Heok Hui and Lionel Ng Chin Soon observed a pair with a shoal of fry in Sentosa, suggesting that the fishes have adapted to more marine conditions and may spread among our Southern shores, potentially displacing native species that occupy the same niche.
 
-**Human uses:**
+## Human uses
+
 Elsewhere, it is raised in aquaculture and also in the aquarium trade.
 
 ---

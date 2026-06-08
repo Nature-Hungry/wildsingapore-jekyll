@@ -133,6 +133,11 @@ size:
 - 4.0
 - 6.0
 rdb: NT
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -148,7 +153,8 @@ In this habit, it is similar to
 [Giant clams](../tridacnidae/tridacnidae)
 . It also filter feeds - when submerged, it opens the valves on the underside slightly and sucks in water to filter out edible bits.
 
-**Human uses:**
+## Human uses
+
 It is collected for shell craft.
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

@@ -20,15 +20,6 @@ suborder: Labroidei
 updated: Sep 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/pteragogus/080409tusd0842m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They belong to the second largest
-      family of fishes after gobies. Young fish may look very different from adults.
-      Some can give a nasty bite. Don't touch them!
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They belong to the second largest family of fishes after gobies. Young
-      fish may look very different from adults. Some can give a nasty bite. Don't
-      touch them!
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/pteragogus/080409tusd0842m3.jpg
     caption: Well camouflaged! Tuas, Apr 08
@@ -111,9 +102,18 @@ location:
 - smk
 - tsm
 - lfa
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They belong to the second largest family of fishes after gobies
+- Young fish may look very different from adults
+- Some can give a nasty bite
+- Don't touch them!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 These colourful fishes are sometimes seen on many of our shores. Among the more colourful little fishes to be seen in tide pools at low tide, wrasses are nevertheless often overlooked as they are often well hidden. Many are active during the day, sheltering during the night in hiding places. Small ones may burrow into sand.
@@ -138,7 +138,8 @@ An intriguing member of this family is the Cleaner wrasse (
 **Wrasse babies:**
 Wrasses can change their gender! Most wrasses grow to become females first. A female can turn into a fully functional male within a few days. In some species, each male has a harem of females. When the male dies, the largest female changes gender and takes his place. In some species, however, there are two kinds of males. One that is born a male (primary male), and another that was born a female and later turned male. Primary males can produce more sperm than those that change into males; however, primary males usually wear the colours of a female! Mating wrasses rise up to the water surface together, releasing eggs and sperm simultaneously.
 
-{% include img-wrap-group.html items=page.galleries.gallery3 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery3 %}## Human uses
+
 Being colourful and lively, wrasses of various kinds are extensively harvested from the wild for the live aquarium trade. Some large ones are harvested as food. The Napolean wrasse (
 *Cheilinus undulatus*
 ) is a large fish that is being over-collected as a luxury food item for the Chinese market. These gentle, intelligent fishes can live for 50 years and reach up to 180kgs. Unsustainable harvesting of these fishes may doom them to extinction.

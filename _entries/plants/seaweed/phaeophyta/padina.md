@@ -155,6 +155,11 @@ location:
 - smk
 - tsm
 - lfa
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -172,7 +177,8 @@ According to
 *Padina*
 species.
 
-**Human uses:**
+## Human uses
+
 Mermaid's fan seaweed is eaten in some places. It is also used as animal feed, fertiliser and traditional medicine.
 
 ![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/padina/040423sntd0023m3.jpg)

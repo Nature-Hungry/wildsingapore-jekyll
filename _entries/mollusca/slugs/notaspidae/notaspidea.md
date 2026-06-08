@@ -35,6 +35,11 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/notaspidae/others/170528chgjll1.jpg
     caption: Pleurobranchea brockii Changi, May 17 Photo shared by Jianlin Liu on
       facebook .
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

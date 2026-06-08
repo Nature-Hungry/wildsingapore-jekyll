@@ -55,6 +55,10 @@ galleries:
       136 pp.'
 size:
 - 1000.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- terrestrial
 ---
 
 ## Where seen?
@@ -64,7 +68,8 @@ Now no longer fashionable, this palm is sometimes seen in sites of old 'kampungs
 
 A tall elegant palm (to 10m). Leaves rather short with stiff leaflets. Tiny pale flowers appear in an inflorescence on zig-zag 'stems'. The small oval fruits are green turning orange and are miscalled 'nuts'.
 
-**Human uses:**
+## Human uses
+
 The sliced seeds (endosperm) are chewed, sometimes together with other leaves such as from the pepper plant or gambier as a mild stimulant. Burkill has a long explanation of the palm's history and traditional preparation. All parts of the palm is put to use. The trunks as flooring, the fallen flower spathes as rough buckets, a hat or to line carrying baskets. Besides medicinal uses, various parts of the plant, from fruit to flowers are also used in spiritual ceremonies. According to Wee, the dried ripe seeds are used by the Chinese to expel tapeworms and roundworms, to treat diabetes, indigestion, lumbago and urinary problems. The Malays use the leaves in a treatment for diarrhoea in children.
 
 ![](https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/areca/catechu/091005cjd2240m6l.jpg)

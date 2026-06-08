@@ -31,9 +31,11 @@ galleries:
     caption: Beting Bronok, Aug 05
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/melo/140616bbmn.jpg
-    caption: Baler snail eating a Noble volute ! Beting Bronok, Jun 14 Photo shared by Marcus Ng on flickr.
+    caption: Baler snail eating a Noble volute ! Beting Bronok, Jun 14 Photo shared
+      by Marcus Ng on flickr.
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/melo/100619cjtch1m3.jpg
-    caption: Baler snail eating a Noble volute ! Chek Jawa, Jun 10 Photo shared by Toh Chay Hoon on her blog.
+    caption: Baler snail eating a Noble volute ! Chek Jawa, Jun 10 Photo shared by
+      Toh Chay Hoon on her blog.
   gallery3:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/melo/100614bbd5993m6l.jpg
     caption: A much smaller one riding on the back of a bigger one. Prelude to mating?
@@ -42,7 +44,8 @@ galleries:
     caption: Small juvenile snail. Beting Bronok, Jul 08
   gallery4:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/melo/110520chglks4m3a.jpg
-    caption: '''Face'' of the Baler snail! Changi, May 11 Photo shared by Loh Kok Sheng on his blog.'
+    caption: '''Face'' of the Baler snail! Changi, May 11 Photo shared by Loh Kok
+      Sheng on his blog.'
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/melo/090622chglks.JPG
     caption: Changi, Jun 09 Photo shared by Loh Kok Sheng on flickr.
   gallery5:
@@ -54,7 +57,8 @@ galleries:
     caption: Changi, Aug 18 Photo shared by Loh Kok Sheng on facebook.
   gallery6:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/melo/080704bblks.jpg
-    caption: Eating a Gong-gong snail ? Beting Bronok, Jul 08 Photo shared by Loh Kok Sheng on flickr.
+    caption: Eating a Gong-gong snail ? Beting Bronok, Jul 08 Photo shared by Loh
+      Kok Sheng on flickr.
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/melo/210627bbtch1.jpg
     caption: Beting Bronok, Jun 21 Photo shared by Toh Chay Hoon on facebook.
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/melo/230706bbky2.jpg
@@ -148,9 +152,12 @@ size:
 - 15.0
 - 20.0
 rdb: vu
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 This magnificent large snail sometimes seen on our Northern shores and is more common on undisturbed shores. It is usually found on muddy bottoms, near mangroves and seagrasses.
@@ -172,7 +179,8 @@ and also
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Volute babies:**
 In members of the Famliy Volutidae, the male fertilises the female internally. There is no free-swimming larval stage and crawling juvenile snails emerge from the egg. As a result, volutes have a restricted range and local populations can be wiped out by over-collection.
 
-{% include img-wrap-group.html items=page.galleries.gallery4 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery4 %}## Human uses
+
 This snail is collected for food even, sadly, on Singapore shores. Elsewhere, the empty shell is used elsewhere to
 bail out water from 'sampans' (little boats used by fishermen), also to measure out sugar, salt and flour in local markets.
 

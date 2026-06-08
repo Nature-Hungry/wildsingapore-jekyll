@@ -20,14 +20,6 @@ suborder: Gobioidei
 updated: Sep 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/chrysospilos/050611kusg7778m3d.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They are fishes but can breathe
-      out of water. How do they do it? They use their pectoral fins to crawl. They
-      are well camouflaged. Watch your step!
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They are fishes but can breathe out of water. How do they do it? They
-      use their pectoral fins to crawl. They are well camouflaged. Watch your step!
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/chrysospilos/050611kusg7778m3d.jpg
     caption: Bulbous eyes high on the head. Kusu Island, Jun 05
@@ -146,9 +138,18 @@ location:
 size:
 - 6.0
 - 12.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They are fishes but can breathe out of water
+- How do they do it? They use their pectoral fins to crawl
+- They are well camouflaged
+- Watch your step!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Mudskippers are commonly seen on some of our shores. They are particularly abundant in mangroves and muddy shores, but some like the
@@ -182,7 +183,8 @@ They curl their muscular body sideways then push against the mud to spring forwa
 [Bearded mudskipper](histophorus)
 can 'stand' on its tail, if only for a brief moment, in an attempt to impress the ladies.
 
-{% include img-wrap-group.html items=page.galleries.gallery3 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery3 %}## Human uses
+
 The
 [Giant mudskipper](schlosseri)
 is eaten in some places such as Taiwan. They are caught with nets strung at ground level, or with cast-nets.

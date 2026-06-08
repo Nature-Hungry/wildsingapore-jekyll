@@ -19,15 +19,6 @@ order: Acanthuriformes
 updated: Oct 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/siganidae/canaliculatus/110123sisd5272m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They graze (on algae) just
-      like rabbits. They have venomous spines. Don't handle them! They are among our
-      favourite seafood. However, overharvesting can affect their populations.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They graze (on algae) just like rabbits. They have venomous spines. Don't
-      handle them! They are among our favourite seafood. However, overharvesting can
-      affect their populations.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/siganidae/canaliculatus/110123sisd5272m3.jpg
     caption: Juveniles often seen among Sargassum. There are two here, can you spot
@@ -205,9 +196,18 @@ location:
 size:
 - 8.0
 - 15.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They graze (on algae) just like rabbits
+- They have venomous spines
+- Don't handle them! They are among our favourite seafood
+- However, overharvesting can affect their populations.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 These fishes may be common in seagrass areas on many of our shores. They often lie quietly among seagrasses or hidden among coral rubble, relying on their camouflage to avoid detection.
@@ -231,7 +231,8 @@ Wear covered shoes. Don't handle rabbitfishes.
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**What do they eat?**
 Most rabbitfishes are herbivores, grazing on algae that grows on the sea bottom, seaweeds and seagrasses. They have small mouths with tiny teeth. They are active during the day, and sleep at night. Rabbitfishes often travel in schools, sometimes in pairs.
 
-**Human uses:**
+## Human uses
+
 The
 [White-spotted rabbitfish](canaliculatus)
 (

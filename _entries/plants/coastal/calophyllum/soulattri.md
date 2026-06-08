@@ -53,6 +53,10 @@ links_references: '**Links**
   . Nature Society (Singapore). 285 pp.
 
   '
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- terrestrial
 ---
 
 ## Where seen?
@@ -66,7 +70,8 @@ A small tree that looks very much like a
 *Calophyllum inophyllum*
 ) but the leaves are narrower. The flowers and fruits look similar too.
 
-**Human uses:**
+## Human uses
+
 According to Burkill, the timber was considered the best of the Calophyllum species and used in masts, spars and planking. Some considered it better than teak in being more elastic and harder. The gummy resin is considered poisonous to dogs. The resin and parts of the tree has various traditional medicinal uses.
 
 **Status and threats:**

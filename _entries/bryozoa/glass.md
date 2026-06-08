@@ -1,7 +1,8 @@
 ---
 title: Glassy branching bryozoan
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: glass, branching, bryozoa, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: glass, branching, bryozoa, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: ''
 genus: ''
@@ -30,10 +31,16 @@ galleries:
     caption: ''
   gallery3:
   - url: https://f003.backblazeb2.com/file/naturehungry/bryozoa/glass/130112pgllks.JPG
-    caption: Okenia pellucida , a nudibranch that is seen on this Bryozoan. Punggol, Jan 13 Photo shared by Loh Kok Sheng on flickr.
+    caption: Okenia pellucida , a nudibranch that is seen on this Bryozoan. Punggol,
+      Jan 13 Photo shared by Loh Kok Sheng on flickr.
 size:
 - 10.0
 - 20.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

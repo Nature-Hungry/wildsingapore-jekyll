@@ -20,6 +20,12 @@ updated: Jan 12
 coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/halsmall/050528kusg7092m3a.jpg
 galleries:
   gallery1:
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/halsmall/050528kusg7092m3a.jpg
+    caption: Big and small coin green seaweed next to one another. <br>Kusu Island,
+      May 05
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/halbig/050330labg3921m3a.jpg
+    caption: A pair of <a href="/entries/mollusca/slugs/sacoglossa/pusilla">Halimeda
+      slugs</a> on the seaweed. <br>Labrador, Mar 05
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/halsmall/060527sjid2273m3.jpg
     caption: Small coin green seaweed
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/halbig/060527sjid2264m3.jpg
@@ -126,6 +132,11 @@ location:
 - tsm
 - rfl
 - lfa
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -156,19 +167,7 @@ According to
 species.
 
 **
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/halsmall/050528kusg7092m3a.jpg)
 
-Big and small coin green seaweed
-
-next to one another
-*Kusu Island, May 05*
-
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/halbig/050330labg3921m3a.jpg)
-
-A pair of
-[Halimeda slugs](../../../mollusca/slugs/sacoglossa/pusilla)
-on the seaweed.
-*Labrador, Mar 05*
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

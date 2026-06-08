@@ -131,6 +131,11 @@ size:
 - 4.0
 - 6.0
 - 50.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -150,7 +155,8 @@ sp.). A male cuttlefish establishes a territory over coral colonies suitable for
 [cephalopod eggs](cepeggs)
 .
 
-**Human uses:**
+## Human uses
+
 The cuttlefish is an important commercial seafood harvested by trawl, setnet, jig, handline and spear.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

@@ -170,6 +170,11 @@ location:
 size:
 - 6.0
 - 25.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -194,7 +199,8 @@ Flatheads often lie buried in sandy or muddy bottoms, sometimes with only their 
 **What do they eat?**
 Flatheads eat small fishes, octopus and cuttlefish, crustaceans and other animals that live on the bottom. Their large, long mouths expand into a huge funnel to suck up prey. They have vomerine teeth (bumps on the roof of the mouth) to help grip and swallow prey.
 
-**Human uses:**
+## Human uses
+
 Some large species of flatheads are considered good eating. They are caught by seining and trawling. The Bartail flathead (
 *Platycephalus indicus*
 ) is commercially cultured in Japan for the table and is also used in Chinese traditional medicine.

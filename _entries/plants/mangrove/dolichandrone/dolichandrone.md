@@ -117,6 +117,10 @@ size:
 - 500.0
 - 2000.0
 rdb: CR
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
 ---
 
 ## Where seen?
@@ -134,7 +138,8 @@ Flowers trumpet-shaped large (15-20cm long) white delicate with ruffled edges, i
 
 Pods long curling bean-like (25-60cm long) and contain many seeds. The pods are green at first, turning brown. The seeds resemble small rectangular wheat biscuits; they are pale white to beige, small (about 1.5cm) flat, rectangular to square, with a corky wing. They float readily and are probably dispersed by water and not wind.
 
-**Human uses:**
+## Human uses
+
 According to Burkill, the wood is light and thus was prefered by the Javanese for making saddles. It is also used in floats for fishing nets and for wooden shoes in the Philippines. According to Giersen, it is used as firewood, and also for making traditional '
 *wayang kulit*
 ' (shadow puppet) masks in Indonesia. Tea brewed from the leaves are used to treat mouth infections.

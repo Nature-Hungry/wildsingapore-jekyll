@@ -28,6 +28,11 @@ galleries:
     caption: ''
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/elysianoid/120223sltd7301m3c.jpg
     caption: White knobs possibly the penis?
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 **Unidentified

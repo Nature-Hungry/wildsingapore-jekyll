@@ -133,6 +133,11 @@ size:
 - 20.0
 - 30.0
 rdb: NT
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -145,7 +150,8 @@ This large and beautifully sculptured snail is sometimes seen, often many of sim
 **What does it eat?**
 It feeds on clams and snails and is considered a pest on pearl oyster beds.
 
-**Human uses:**
+## Human uses
+
 It is actively collected in some parts of the world.
 
 **Status and threats:**

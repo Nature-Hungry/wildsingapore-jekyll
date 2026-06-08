@@ -88,6 +88,11 @@ location:
 size:
 - 4.0
 - 9.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -103,7 +108,8 @@ groves.
 **What does it eat?**
 It grazes on algae growing on mangrove trees and on the ground.
 
-**Human uses:**
+## Human uses
+
 Traditionally collected as food by Indonesian coastal dwellers.
 
 **Status and threats:**

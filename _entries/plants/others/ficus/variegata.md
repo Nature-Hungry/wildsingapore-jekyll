@@ -47,7 +47,11 @@ galleries:
       I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula .
       3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
       Volume 1: 1-1240; volume 2: 1241-2444.'
-rdb: Lc
+rdb: LC
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- terrestrial
 ---
 
 ## Where seen?
@@ -61,10 +65,11 @@ The tree is not a strangler. It can grow very tall (up to 30m). Leaves thin, hea
 
 Generally, only trees taller than 5m bear figs. The figs appear in dense clusters on the trunk and main branches. According to Corners, when the tree is "plastered" with figs, "a more prolific organism cannot be imagined and it may well be taken as an emblem of tropical luxuriance". The figs are round (2-5cm) on long stalks, green ripening rose red with pale streaks. The bark is smooth, pale pinkish brown with stumpy black twigs from which the figs emerge. It has spreading buttress roots.
 
-**Role in the habitat:**
+## Role in habitat
 A figging Jejawi attracts a whole range of creatures from fruit eating birds of all kinds to squirrels and long-tailed macaques.
 
-**Human uses:**
+## Human uses
+
 According to Burkill, the fibrous bark is used by jungle natives to make a felt-like cloth used for loin cloths.
 The sweet bark is chewed or the fruits used instead, to cure dysentery.In the past the latex was used in the batik industry. The fruits are apparently only eaten in times of famine and Burkill said that "no European could stomach them".
 

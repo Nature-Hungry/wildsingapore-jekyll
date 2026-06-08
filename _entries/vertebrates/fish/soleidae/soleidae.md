@@ -21,14 +21,6 @@ suborder: Pleuronectoidei
 updated: Oct 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/commersonnii/040120cjd0035m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... May be quite large, although
-      small ones are also seen. Eyes on the right side of the body. Found beneath
-      the sand. Watch your step!
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: May be quite large, although small ones are also seen. Eyes on the right
-      side of the body. Found beneath the sand. Watch your step!
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/commersonnii/040120cjd0035m3.jpg
     caption: Lurking under the sand. Chek Jawa, Jan 04
@@ -188,9 +180,18 @@ location:
 size:
 - 10.0
 - 30.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- May be quite large, although small ones are also seen
+- Eyes on the right side of the body
+- Found beneath the sand
+- Watch your step!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Some of these flatfishes really do look like the sole of a shoe! Others have pretty patterns. They are often seen on our Northern shores, sometimes also on our Southern shores. Usually in sandy areas near seagrass meadows.
@@ -233,7 +234,8 @@ Soles hunt small animals that live on the bottom of the sea including other fish
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Single-sided Fish:**
 Flatfishes undergo an amazing change as they grow up. When it first hatches, a flatfish larva looks like the larva of other 'normal' fish. As the larva matures, it starts to swim on one side of its body. One eye moves to what becomes the upperside, also called the eyed side. The mouth and one pectoral fin also becomes asymmetrically distorted. There are also changes in the skeleton and digestive system. The change may be completed within five days.
 
-**Human uses:**
+## Human uses
+
 Some species are economically very important and are harvested for the food trade.
 
 ---

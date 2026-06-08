@@ -39,6 +39,11 @@ galleries:
     caption: ''
   - url: http://www.wildsingapore.com/polyplacophora/chiton/110803chgd8435m3.jpg
     caption: ''
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 **Limpets Look-alike**

@@ -98,6 +98,11 @@ size:
 - 3.0
 - 6.0
 - 14.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -109,7 +114,8 @@ Those seen 3-6cm, grows to about 14cm. Smooth, globular. Adult has a green back 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**
 It eats molluscs, crustaceans and other invertebrates as well as some plants.
-**Human uses:**
+## Human uses
+
 These fishes are sometimes taken for the live aquarium trade, although they can be aggressive towards tankmates and are not recommended for home aquariums. It is said that they may eat the scales and fins of other fishes. They are also used as bait.
 
 ---

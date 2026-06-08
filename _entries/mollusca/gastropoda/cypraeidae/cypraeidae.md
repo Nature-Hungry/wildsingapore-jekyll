@@ -20,16 +20,6 @@ superfamily: Cypraeoidea
 updated: Jul 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/milliaris/040730skdd3368m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Cowries are often well camouflaged.
-      Look carefully for them. Their shells are highly prized, thus cowries are threatened
-      by over-collection. With their shells covered, coowries are sometimes mistaken
-      for slugs!
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Cowries are often well camouflaged. Look carefully for them. Their shells
-      are highly prized, thus cowries are threatened by over-collection. With their
-      shells covered, coowries are sometimes mistaken for slugs!
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/milliaris/040730skdd3368m3.jpg
     caption: When covered with the 'hairy' mantle they are often mistaken for slugs
@@ -170,9 +160,18 @@ links_references: '**Links**
   '
 location:
 - cyr
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Cowries are often well camouflaged
+- Look carefully for them
+- Their shells are highly prized, thus cowries are threatened by over-collection
+- With their shells covered, coowries are sometimes mistaken for slugs!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Some species of cowries are still common on all our shores. Even these, however, are usually well camouflaged or well hidden under rocks, nooks and crannies or in rubble. They are usually more active at night.
@@ -201,7 +200,8 @@ to scavenging and carnivorous cowries that eat other snails. Each has a radula a
 **Cowrie babies:**
 The mother cowrie lays her eggs in a horny capsule attached to a hard surface by a short stalk, these capsules are grouped in a cluster. Some mother cowries remain with their egg capsules until they hatch. The eggs are at first white or yellow and turn dark grey as they mature. Some large cowries can live for 10 years, while smaller one for 2-3 years.
 
-{% include img-wrap-group.html items=page.galleries.gallery4 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery4 %}## Human uses
+
 Some cowries are popular in the live aquarium trade. Cowries are among the most harvested snails for the shell trade. In the past, they were traditionally collected for food. Some islanders use cowries to bait traps for octopus.
 
 **Status and threats:**

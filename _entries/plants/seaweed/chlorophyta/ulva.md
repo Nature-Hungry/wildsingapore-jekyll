@@ -21,17 +21,6 @@ order: Ulvales
 updated: Jan 13
 coverimg: ../../../../Templates/fornatureguides.gif
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... It is only two cells thick
-      so it grows rapidly when the water has lots of nutrients. Avoid stepping on
-      the green carpet of sea lettuce. It's slippery and animals live among the seaweeds.
-      Can eat or not? Yes you can if you're a pig. It used to be fed to pigs.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: It is only two cells thick so it grows rapidly when the water has lots
-      of nutrients. Avoid stepping on the green carpet of sea lettuce. It's slippery
-      and animals live among the seaweeds. Can eat or not? Yes you can if you're a
-      pig. It used to be fed to pigs.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/ulva/050426cftd2745m3.jpg
     caption: Some form sheets.
@@ -132,9 +121,19 @@ location:
 - jng
 - hnt
 - smk
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- It is only two cells thick so it grows rapidly when the water has lots of nutrients
+- Avoid stepping on the green carpet of sea lettuce
+- It's slippery and animals live among the seaweeds
+- Can eat or not? Yes you can if you're a pig
+- It used to be fed to pigs.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Sea lettuce looks just like its namesake land plant. Seasonally, there is an explosive growth or 'bloom' of this
@@ -165,12 +164,13 @@ When the shores are covered with sea lettuce, you can smell the distinctive arom
 **Sea lettuce babies:**
 Sometimes, you might come across a sea lettuce blade that is white or transparent. This could be because the sea lettuce has become fertile and converted some of its cells into reproductive cells and released these cells. Often, this happens along the edge of the blade.
 
-**Role in the habitat:**
+## Role in habitat
 Sea lettuce is one of the seaweeds eaten by the Green turtle (
 *Chelonia mydas*
 ), as well as other creatures. The dense tangle of seaweed also provides plenty of hiding places for the small animals that live in the seagrass lagoon.
 
-**Human uses:**
+## Human uses
+
 Sea lettuce is fed to pigs and livestock. In the past, they were collected in boatloads in the Straits of Johor, washed in freshwater then cooked and fed to pigs. Sea lettuce is cultivated for animal feed in some places.
 
 In some places, it is also eaten by humans, as a salad or mixed with other vegetables. The species that are used commercially include

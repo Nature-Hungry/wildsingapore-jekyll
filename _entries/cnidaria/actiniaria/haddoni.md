@@ -5,6 +5,12 @@ keywords: haddon's, carpet, anemone, stichodactyla, haddoni, field, guide, seash
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
+- 129
+- 130
+- 133
+- 153
+- 150
+- 143
 - 6
 - 88
 - 113
@@ -214,9 +220,12 @@ size:
 - 75.0
 - 80.0
 rdb: LC
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 This enormous anemone bigger than your face is commonly seen on many of shores. In sandy areas, among seagrasses and also on coral rubble.
@@ -262,11 +271,11 @@ and
 sp.) including
 *A. akindynos, A. clarkii, A. fuscocaudatus, A. polymnus, A. sebae, A. xanthurus.*
 But so far, the only animals seen living on our Haddon's carpet anemones are the
-[tiny carpet anemoneshrimp](../../crustacea/othercrust/shrimp/carpet)
+[tiny carpet anemoneshrimp](/wildfacts/guides/crustacea/crustacea/othercrust/shrimp/carpet)
 (
 *Periclimenes*
 sp.),
-[Peacock-tail anemone shrimp](../../crustacea/othercrust/shrimp/brevicarpalis)
+[Peacock-tail anemone shrimp](/wildfacts/guides/crustacea/crustacea/othercrust/shrimp/brevicarpalis)
 (
 *Periclimenes brevicarpalis*
 ).
@@ -312,7 +321,8 @@ There is not much information on how Carpet anemones reproduce. Small carpet ane
 *Stichodactyla tapetum*
 ) and not a young version of the Haddon's carpet anemone.
 
-**Human uses:**
+## Human uses
+
 Unfortunately, these anemones are harvested for the live aquarium trade. Like other animals harvested for the live aquarium trade, most die before they can reach the retailers. Without professional care, most die soon after they are sold. Those that do survive are unlikely to breed successfully.
 
 **Status and threats:**

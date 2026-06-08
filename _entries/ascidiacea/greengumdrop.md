@@ -1,12 +1,20 @@
 ---
-title: 'Green gum drops ascidians (Ascidiacea)'
+title: Green gum drops ascidians (Ascidiacea)
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 updated: Nov 2019
 phylum: Chordata
 subphylum: Tunicata
 class: Ascidiacea
+attributes:
+- 130
+- 131
+- 139
+- 150
+- 129
 family: Didemnidae
 genus: Diplosoma
 species: sp.
@@ -49,7 +57,12 @@ galleries:
     caption: Pulau Berkas, May 10
 links_references: '**Links**
 
-  - [*Diplosoma* sp. 1](https://singapore.biodiversity.online/species/A-Tunicata-000152) and [*Diplosoma* sp. 2](https://singapore.biodiversity.online/species/A-Tunicata-000153) and [Didemnidae sp. 27](https://singapore.biodiversity.online/species/A-Tunicata-000216) and [Didemnidae sp. 29](https://singapore.biodiversity.online/species/A-Tunicata-000218) and [Didemnidae sp. 31](https://singapore.biodiversity.online/species/A-Tunicata-000223) on The Biodiversity of Singapore website of the Lee Kong Chian Natural History Museum.
+  - [*Diplosoma* sp. 1](https://singapore.biodiversity.online/species/A-Tunicata-000152)
+  and [*Diplosoma* sp. 2](https://singapore.biodiversity.online/species/A-Tunicata-000153)
+  and [Didemnidae sp. 27](https://singapore.biodiversity.online/species/A-Tunicata-000216)
+  and [Didemnidae sp. 29](https://singapore.biodiversity.online/species/A-Tunicata-000218)
+  and [Didemnidae sp. 31](https://singapore.biodiversity.online/species/A-Tunicata-000223)
+  on The Biodiversity of Singapore website of the Lee Kong Chian Natural History Museum.
 
   '
 location:
@@ -72,6 +85,11 @@ location:
 - lfa
 size:
 - 1.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?

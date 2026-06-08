@@ -119,6 +119,11 @@ location:
 - lfa
 size:
 - 2.5
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -138,12 +143,13 @@ Tiny creeper snails are common on our shores but often overlooked. They may be f
 **What do they eat?**
 Creeper snails are often found in groups of many individuals packed close to one another. They feed on algae and detritus on the sea bottom, often near reefs.
 
-**Role in the habitat:**
+## Role in habitat
 Should the tiny snail die, the empty shell is often taken over by
-[tiny hermit crabs](../../../crustacea/othercrust/anomura/hermit/hermit)
+[tiny hermit crabs](..//wildfacts/guides/crustacea/crustacea/othercrust/anomura/hermit/hermit)
 .
 
-{% include img-wrap-group.html items=page.galleries.gallery2 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery2 %}## Human uses
+
 Some of the prettier species are collected for the shell trade.
 
 **Status and threats:**

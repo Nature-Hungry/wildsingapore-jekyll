@@ -20,16 +20,6 @@ suborder: Brachycnemina
 updated: Dec 2019
 coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/various/050312hntg3349m3a.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Some may be highly toxic. Don't
-      touch them! They are small and may retract at low tide. Don't step on them!
-      Their leathery skin is partly made up of chitin, the same substance that insect
-      exoskeleton is made up of.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Some may be highly toxic. Don't touch them! They are small and may retract
-      at low tide. Don't step on them! Their leathery skin is partly made up of chitin,
-      the same substance that insect exoskeleton is made up of.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/various/050312hntg3349m3a.jpg
     caption: Two kinds of zoanthids Pulau Hantu, Mar 05
@@ -99,9 +89,17 @@ links_references: '**Links**
   . 5
 
   '
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Don't touch them! They are small and may retract at low tide. Don't step on them!
+  Their leathery skin is partly made up of chitin, the same substance that insect
+  exoskeleton is made up of.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 These tiny but tough flower-like animals often carpet rocky and rubbly areas. Some are adapted be regularly exposed to the air at low tide. These animals are often the first to settle on any vacated space in a reef.
@@ -143,7 +141,7 @@ Although they look harmlessly pretty, some zoanthids contain powerful toxins to 
 Wear covered shoes and long pants to cover all skin exposed to water. Do not touch zoanthids.
 
 Despite their toxins, some animals have adapted to eat zoanthids. These include the
-[Common hairy crab](../../../crustacea/crab/pilumnidae/pilumnidae)
+[Common hairy crab](..//wildfacts/guides/crustacea/crustacea/crab/pilumnidae/pilumnidae)
 ,
 [filefishes](../../../vertebrates/fish/monacanthidae/monacanthidae)
 and
@@ -155,7 +153,8 @@ Most zoanthids feed on plankton, some also feed on finer particles. Many harbour
 **Zoanthid babies:**
 Zoanthids generally reproduce asexually: new polyps bud to enlarge the colony. However, they also reproduce sexually. The polyps may produce sperm or eggs, but usually only either one at a time. Eggs and sperm are released synchronously for external fertilization, in mass spawning similiar to that practiced by hard corals.
 
-**Human uses:**
+## Human uses
+
 Palytoxin, the poison extracted from a zoanthid, has been used to better understand how our body works and may provide better treatment of hypertension, heart disease and other disorders. Zoanthids are also a popular item in the live aquarium trade, although their toxins make them dangerous to handle.
 
 **Status and threats:**

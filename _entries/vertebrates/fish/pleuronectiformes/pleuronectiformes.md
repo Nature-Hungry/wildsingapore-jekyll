@@ -133,9 +133,12 @@ links_references: '**Links**
 
   '
 location: []
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Like animated leaves, these fishes are encountered on many of our shores.
@@ -160,7 +163,8 @@ If the right eye migrates to the left side, the flatfish is left-eyed (sinistral
 [how to tell apart flatfish families](pleuronectiformes1)
 commonly seen on our shores.
 
-**Human uses:**
+## Human uses
+
 Many flatfishes are edible and some species are important commercially. Soles are said to retain their flavour for days.
 
 ---

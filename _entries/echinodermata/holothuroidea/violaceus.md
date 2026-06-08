@@ -98,6 +98,11 @@ size:
 - 10.0
 - 20.0
 rdb: VU
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -108,7 +113,8 @@ This amazing technicolour sea cucumber is sometimes seen on our Northern shores,
 10-20cm long. Body long or spherical with five rows of tube feet that are bright yellow long slender, but the two rows on the upper side of the body are usually less distinct. Body usually red on the upperside, shading to lilac and white to the underside. The mouth is ringed with blue. Feeding tentacles red, branched tips may be tinged purple, yellow and white. During low tide, it retracts its colourful feeding tentacles. Anus is surrounded by five tiny teeth-like structures that are bright yellow. When relaxed, the normal shape is short and sausage-like as with most other sea cucumbers. When stressed, however, it may inflate itself into a large round ball.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
-**Human uses:**
+## Human uses
+
 These beautiful sea cucumbers unfortunately are harvested for the aquarium trade. Ironically, they do not make good aquarium specimens as they are often toxic to their tank mates.
 
 **Status and threats:**

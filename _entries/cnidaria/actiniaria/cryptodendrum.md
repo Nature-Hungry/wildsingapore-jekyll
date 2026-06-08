@@ -6,6 +6,12 @@ keywords: pizza, anemone, cryptodendrum, adhaesivum, thalassianthidae, actiniari
   fact sheet, info, photo
 layout: entry
 attributes:
+- 129
+- 130
+- 133
+- 153
+- 150
+- 143
 - 6
 - 51
 - 88
@@ -195,6 +201,11 @@ size:
 - 25.0
 - 30.0
 rdb: CR
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -212,7 +223,7 @@ The body column may be brightly coloured; those seen were purple or yellow. Gene
 The Pizza anemone harbours symbiotic algae (called zooxanthellae) that photosynthesize. The algae share the food produced with the anemone, which in turn provides the algae with shelter and minerals.
 
 Several kinds of animals may live happily and unharmed on the Pizza anemone. These include the
-[Peacock-tail anemone shrimp](../../crustacea/othercrust/shrimp/brevicarpalis)
+[Peacock-tail anemone shrimp](/wildfacts/guides/crustacea/crustacea/othercrust/shrimp/brevicarpalis)
 (
 *Periclimenes brevicarpalis*
 ). Elsewhere it is said that

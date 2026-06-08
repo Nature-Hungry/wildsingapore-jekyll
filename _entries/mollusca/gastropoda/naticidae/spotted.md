@@ -148,6 +148,11 @@ location:
 size:
 - 2.0
 - 3.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -161,7 +166,8 @@ It is also known as Gualtieri's moon snail.
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
-**Human uses:**
+## Human uses
+
 It is collected for food and the shell trade.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}

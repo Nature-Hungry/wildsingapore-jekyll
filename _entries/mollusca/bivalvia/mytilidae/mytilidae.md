@@ -20,14 +20,6 @@ superfamily: Mytiloidea
 updated: May 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/viridis/040121chgd0031m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Some species of mussels can
-      bore into concrete. Some tiny mussels live in a colony of thousands. Mussels
-      can cause food poisoning.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Some species of mussels can bore into concrete. Some tiny mussels live
-      in a colony of thousands. Mussels can cause food poisoning.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/viridis/040121chgd0031m3.jpg
     caption: Green mussels growing on a large boulder. Changi, Jan 04
@@ -125,9 +117,17 @@ location:
 - ubn
 - cj
 - skd
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Some species of mussels can bore into concrete
+- Some tiny mussels live in a colony of thousands
+- Mussels can cause food poisoning.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Mussels are common on many of our shores and mangroves, stuck to rocks, tree roots and other hard surfaces. Some create 'nests' out on the sand or mudflats.
@@ -150,7 +150,8 @@ sp.) create a safe hiding place for themselves by drilling into dead coral and e
 **What do they eat?**
 Like most other bivalves, sea mussels are filter feeders. At high tide, they open their shells a little. They then generate a current of water through the shell and sieve out the food particles with enlarged gills. When the tide goes out, they clamp up their shells tightly to prevent water loss.
 
-**Human uses:**
+## Human uses
+
 Sea mussels are among the favourite seafood of people everywhere. The
 [Green mussel](viridis)
 (

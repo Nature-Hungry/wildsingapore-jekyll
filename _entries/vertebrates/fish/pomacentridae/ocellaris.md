@@ -29,16 +29,6 @@ complex: Amphiprion percula
 updated: Sep 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/040605kusbd0077m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about it ... The fish needs its host anemone.
-      Do not disturb it or the anemone. One anemone may be home to many anemonefishes.
-      These fishes are threatened by over-collection for the aquarium trade. Don't
-      keep Nemo in your home, he belongs in the ocean.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: The fish needs its host anemone. Do not disturb it or the anemone. One
-      anemone may be home to many anemonefishes. These fishes are threatened by over-collection
-      for the aquarium trade. Don't keep Nemo in your home, he belongs in the ocean.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/040605kusbd0077m3.jpg
     caption: In a Giant carpet anemone . Kusu Island, Jun 04
@@ -242,9 +232,19 @@ size:
 - 2.0
 - 9.0
 rdb: NT
+trivia_title: if you learn only 3 things about it ..
+trivia_items:
+- The fish needs its host anemone
+- Do not disturb it or the anemone
+- One anemone may be home to many anemonefishes
+- These fishes are threatened by over-collection for the aquarium trade
+- Don't keep Nemo in your home, he belongs in the ocean.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 This delightful fish is commonly seen in large sea anemones on some of our Southern Islands. At low tide, it is usually well hidden under or among the sea anemone tentacles. It is more active when the sea anemone is submerged. Look for it with the outgoing tide, when the water is clearer (than the incoming tide).
@@ -281,7 +281,8 @@ Anemonefishes can change their gender. Often, a sea anemone will be home to seve
 {% include img-wrap-group.html items=page.galleries.gallery5 %}
 {% include img-wrap-group.html items=page.galleries.gallery6 %}
 {% include img-wrap-group.html items=page.galleries.gallery7 %}
-**Human uses:**
+## Human uses
+
 Unfortunately, these fishes are taken in large numbers from the wild for the aquarium trade. The harvest may involve the use of cyanide or blasting, which damage the habitat and kill many other creatures. Like other fish and creatures harvested from the wild, most die before they can reach the retailers. Without professional care, most die soon after they are sold. Often of starvation as owners are unable to provide the small creatures and plants that these fishes need to survive. In artificial conditions, many succumb to diseases and poor health. Those that do survive are unlikely to breed.
 
 There have been some success in breeding anemonefish for the aquarium trade. Although captive bred anemonefish are hardier, they are more expensive. Harvesting from the wild will probably continue so long as there are unscrupulous traders and aquarists.

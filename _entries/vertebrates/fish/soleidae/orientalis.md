@@ -109,6 +109,11 @@ size:
 - 12.0
 - 30.0
 rdb: DD
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -133,7 +138,8 @@ commonly seen.
 **What does it eat?**
 Lying buried in the sand, it preys on bottom dwelling animals especially crustaceans.
 
-**Human uses:**
+## Human uses
+
 It is eaten in some places and marketed fresh, frozen or dried salted.
 
 ---

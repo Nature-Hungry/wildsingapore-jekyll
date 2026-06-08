@@ -9,7 +9,7 @@ attributes:
 - 23
 - 33
 - 71
-- 75
+- 130
 - 100
 - 111
 - 123
@@ -91,6 +91,11 @@ location:
 size:
 - 3.0
 - 4.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -103,7 +108,8 @@ The study by Tan & Clements (2008) found this snail on intertidal rocks. They ob
 Shell colour and pattern varies widely. The flat underside white, smooth and glossy, sometimes slightly wrinkled. Tiny notched 'teeth' on the straight edge at the shell opening, the uppermost one is squarish. Operculum thick, greenish grey smooth except for a border of fine bars at the edge. Body pale with fine black bands.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
-**Human uses:**
+## Human uses
+
 In some places it is prized as food and for its attractive shell.
 
 ---

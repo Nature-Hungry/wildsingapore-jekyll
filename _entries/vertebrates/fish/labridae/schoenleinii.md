@@ -110,6 +110,11 @@ size:
 - 90.0
 - 20.0
 rdb: NT
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -121,7 +126,8 @@ To about 90cm and can weigh 9kgs! Those seen about 20cm long. It has a black spo
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**
 It rests on the bottom during the day and forages at night, often by overturning large stones. It is a solitary hunter, eating hard-shelled prey such as crabs, snails and sea urchins.
-**Human uses:**
+## Human uses
+
 It heavily fished for for the live seafood trade. It is also highly sought after by recreational fishermen throughout its distribution.
 
 **Status and threats:**

@@ -24,15 +24,6 @@ order: Gracilariales
 updated: Jan 13
 coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/gracilaria/020714cjcpd3122m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Agar-agar is extracted from
-      these seaweeds. Lots of little animals often hide in them. Look for them! They
-      grow rapidly on abandoned rope. In fact, they are farmed on ropes.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Agar-agar is extracted from these seaweeds. Lots of little animals often
-      hide in them. Look for them! They grow rapidly on abandoned rope. In fact, they
-      are farmed on ropes.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/gracilaria/111030skdd3192m3.jpg
     caption: Pulau Sekudu, Oct 11
@@ -131,9 +122,20 @@ location:
 size:
 - 15.0
 - 20.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Agar-agar is extracted from these seaweeds
+- Lots of little animals often hide in them
+- Look for them! They grow rapidly on abandoned rope
+- In fact, they are farmed on ropes.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}## Where seen?
+## Where seen?
 These rather succulent red seaweeds are commonly seen on many of our shores. On boulders, coral rubble as well as on abandoned ropes, nets and other objects left on the shore.
 
 ## Features
@@ -156,7 +158,8 @@ Some other species found on our shore that resemble Gracilaria include
 *Hydropuntia edulis*
 which also belongs to Family Gracilariaceae
 
-**Human uses:**
+## Human uses
+
 The
 *Gracilaria*
 species are a major source of food-grade agar. The seaweed is both harvested from the wild and farmed for commercial applications. On farms, they are grown on ropes. A wide range of Gracilaria species have commercial uses. About 30,000 tons of

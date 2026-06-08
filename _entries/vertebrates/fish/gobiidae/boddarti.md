@@ -121,6 +121,11 @@ size:
 - 6.0
 - 8.0
 rdb: VU
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -139,7 +144,8 @@ No!
 No!
 '.
 
-**Human uses:**
+## Human uses
+
 It is said to be eaten in some places and sometimes sold in markets.
 
 ---

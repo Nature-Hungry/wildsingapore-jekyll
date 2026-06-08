@@ -151,6 +151,11 @@ location:
 - smk
 - tsm
 - lfa
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -165,7 +170,7 @@ Encrusting pinkish seaweeds may belong to several groups including:
 from Family Hapalidiaceae and
 *Hydrolithon*
 species from Family Corallinaceae.
-**Role in the habitat:**
+## Role in habitat
 By growing over bits and pieces, this seaweed is literally the cement of the reef, stabilising the reef structure. Thus providing shelter for reef dwellers. This role is especially important in places where the currents or wave action are too strong for hard corals to grow well. In such places, coralline algae fortify and reinforce the reefs, reducing erosion.
 
 Although they don't look very tasty, some young animals such as lobsters may eat a great deal of coralline algae.

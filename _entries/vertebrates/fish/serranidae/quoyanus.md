@@ -35,17 +35,8 @@ galleries:
     caption: Sentosa Tg Rimau, Jan 18 Photo shared by Abel Yeo on facebook .
 links_references: '**Links**
 
-  - [Longfin grouper (
-
-  *Epinephelus quoyanus*
-
-  )](http://fishbase.sinica.edu.tw/Summary/speciesSummary.php?ID=6475)
-
-  from
-
-  [FishBase](http://www.fishbase.org/)
-
-  : Technical fact sheet.
+  - [Longfin grouper (*Epinephelus quoyanus*)](http://fishbase.sinica.edu.tw/Summary/speciesSummary.php?ID=6475)
+  from [FishBase](http://www.fishbase.org/): Technical fact sheet.
 
 
   **References**
@@ -82,6 +73,11 @@ size:
 - 35.0
 - 40.0
 rdb: VU
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -94,7 +90,8 @@ To about 35-40cm. There are many species of groupers with a mosaic-like pattern.
 **What does it eat?**
 It eats crustaceans, fishes and worms.
 
-**Human uses:**
+## Human uses
+
 It is among the common fishes eaten in Singapore. Here, these fishes are sometimes reared in floating cages from fingerlings (young fishes) that are imported from neighbouring countries, until they reach marketable size.
 
 ---

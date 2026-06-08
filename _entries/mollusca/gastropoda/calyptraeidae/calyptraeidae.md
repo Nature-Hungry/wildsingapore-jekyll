@@ -64,6 +64,11 @@ location:
 size:
 - 2.0
 - 3.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -79,7 +84,7 @@ that belong to the Family Crepidulidae.
 ## Features
 
 2-3cm. Shell conical or flat domed. Several may be found stuck firmly onto inside of a shell occupied by a
-[hermit crab](../../../crustacea/othercrust/anomura/hermit/hermit)
+[hermit crab](..//wildfacts/guides/crustacea/crustacea/othercrust/anomura/hermit/hermit)
 . They take advantage of the constant current of freshly oxygenated water that the hermit crab creates for itself. They are also found on the underside of living
 [horseshoe crabs](../../../arthropoda/limulidae/limulidae)
 .

@@ -26,15 +26,6 @@ subfamily: Tetraroginae
 updated: Oct 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/longispinis/050623cjg8365m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about it ... It is small and well camouflaged.
-      Look carefully to find one. It has venomous spines. Don't handle it! Its venom
-      is only used for protection from predators and not to catch prey.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: It is small and well camouflaged. Look carefully to find one. It has
-      venomous spines. Don't handle it! Its venom is only used for protection from
-      predators and not to catch prey.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/longispinis/050623cjg8365m3.jpg
     caption: Chek Jawa, Jun 05
@@ -147,9 +138,19 @@ location:
 size:
 - 5.0
 - 7.0
+trivia_title: if you learn only 3 things about it ..
+trivia_items:
+- It is small and well camouflaged
+- Look carefully to find one
+- It has venomous spines
+- Don't handle it! Its venom is only used for protection from predators and not to
+  catch prey.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 This little waspfish is commonly seen on many of our shores, among coral rubble or seagrasses. But it is small and well camouflaged and thus often overlooked. Now in Family Tetrarogidae (waspfishes), it used to be placed in
@@ -179,7 +180,8 @@ According to an account of being stung on a finger: "There was a sharp initial p
 **How to stay safe:**
 Don't grope around with bare hands.
 
-**Human uses:**
+## Human uses
+
 These fishes are sometimes taken for the aquarium trade..
 
 ---

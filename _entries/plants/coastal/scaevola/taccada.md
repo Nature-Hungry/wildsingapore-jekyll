@@ -70,7 +70,11 @@ galleries:
 size:
 - 300.0
 - 1000.0
-rdb: Lc
+rdb: LC
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- terrestrial
 ---
 
 ## Where seen?
@@ -90,7 +94,8 @@ Flowers (2-2.5cm) emerge in clusters. The flower is distinctive 'split-into-half
 
 Fruit globular small (1-1.5cm) fleshy, green ripening white. Each fruit contains 1-2 corky seeds. The fruits float in the sea and may be dispersed by water, as well as by birds.
 
-**Human uses:**
+## Human uses
+
 According to Corners, the leaves are bitter and "scarcely edible" but the juice of the fruits are soothing and refreshing for inflamed eyes. The large pith of the young twigs are sometimes used by Malays to cut into fancy flowers and other objects. According to Burkill, medicinal uses including the bitter leaves in indigestion, pith for diarrhoea, poultice of leaves for headaches and on swollen legs, juice of berries for sore eyes. According to Wee, in Indonesia the roots are used as an antidote to eating poisonous fish and crabs. According to Giersen, the wood is resistant to sea water but found in small quantities so it is used for making nails for canoes.
 
 ![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/scaevola/taccada/090118smkd5793m3.jpg)

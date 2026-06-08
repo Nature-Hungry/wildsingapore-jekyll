@@ -81,6 +81,11 @@ location:
 size:
 - 300.0
 - 800.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -100,7 +105,8 @@ Mama Eagle ray gives birth to live young, a litter of 2-4 pups after a gestation
 **What does it eat?**
 It feeds on clams but also eats shrimps, crabs, octopus, worms, snails and small fishes.
 
-**Human uses:**
+## Human uses
+
 The fish is eaten by humans and the tail is sometimes used as a decorative item. It is commonly caught in trawl nets and gillnets.
 **Status and threats:**
 Although the Eagle ray is not listed in Singapore's Red List, on the international IUCN Red List it is classified as Near Threatened. The fish naturally reproduces slowly and is threatened mainly by overfishing

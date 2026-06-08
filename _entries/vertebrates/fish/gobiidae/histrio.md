@@ -140,6 +140,11 @@ size:
 - 3.0
 - 4.0
 rdb: NT
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -155,7 +160,7 @@ produce a bitter mucus.
 
 **Sometimes mistaken for**
 the
-[Machine gun coral shrimp](../../../crustacea/othercrust/shrimp/coralliocaris)
+[Machine gun coral shrimp](..//wildfacts/guides/crustacea/crustacea/othercrust/shrimp/coralliocaris)
 which also lives in Acropora hard corals and is sometimes also green with orange stripes.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Coral friend:**
@@ -163,7 +168,8 @@ This fish lives among the branches of
 [Acropora hard corals](../../../cnidaria/coralhard/acroporidae/acropora)
 . A study showed that this fish almost never leaves its coral home and stays despite low oxygen levels in the water and even when the coral is exposed at low tide. To do so, the fish is able to breathe air! There is rarely more than two of these fishes in one colony of Acropora coral. They can change gender from male to female or female to male.
 
-**Human uses:**
+## Human uses
+
 Unfortunately, these fishes are often harvested from the wild for the aquarium trade.
 
 ---

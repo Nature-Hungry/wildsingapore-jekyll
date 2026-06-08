@@ -20,15 +20,6 @@ suborder: Syngnathoidei
 updated: Oct 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/seagrass/071001chgd6784m6la.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... They have bones inside as well
-      as outside. The male carries the eggs. They are hard to spot and can't move
-      fast. Watch your step or you might step on one!
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: They have bones inside as well as outside. The male carries the eggs.
-      They are hard to spot and can't move fast. Watch your step or you might step
-      on one!
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/seagrass/071001chgd6784m6la.jpg
     caption: Changi, Oct 07
@@ -89,9 +80,18 @@ links_references: "**Links**\n- [Pipefish (Family Syngnathidae)](http://mangrove
   \ of the World*\nPeriplus Editions. 400pp.\n- Kuiter, Rudie H., 2000 (English edition).\n\
   *Seahorses, Pipefishes and their Relatives: A Comprehensive Guide to Syngnathiformes*\n\
   TMC Publishing, UK. 240 pp.\n"
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- They have bones inside as well as outside
+- The male carries the eggs
+- They are hard to spot and can't move fast
+- Watch your step or you might step on one!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 A cousin of the more famous seahorse, these extremely well camouflaged fishes are often mistaken for roots and overlooked. Particularly as they often lie motionless among the seagrasses and seaweeds. Pipefishes are seen on many of our shores. In the North, they appear to be seasonally common. They are more often seen when it is dark. During the day, they remain well hidden.
@@ -115,7 +115,8 @@ Like the seahorse, the male pipefish also carries the eggs. In some species, the
 
 Some pipefishes may perform courtship dances before mating. Unlike seahorses, a mating pair of pipefishes may not remain faithful only to one another. A female might lay her eggs on several males, and a male might carry the eggs of several females.
 
-{% include img-wrap-group.html items=page.galleries.gallery3 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery3 %}## Human uses
+
 Pipefishes are used in traditional Chinese medicine, often as a substitute for seahorses. Some species are also caught for the live aquarium trade.
 
 **Status and threats:**

@@ -7,14 +7,18 @@
 }
 
 .entry{
-    height:fit-content;
+    height:100%;
     position: relative;
-    
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
 }
 .entry .img-container{
     width:100%;
-    aspect-ratio: 4/3;
+    height: 15vw;
+    max-height: 180px;
     margin:0;
+    overflow: hidden;
 }
 .entry .img-container img{
     width: 100%;
@@ -24,6 +28,36 @@
 
 .scientific-name{
     font-size: 0.6rem;
+}
+.entry-content{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex-grow: 1;
+  
+}
+
+.zone{
+  height:5px;
+  aspect-ratio: 1;
+  background-color: lightgray;
+}
+.zone-markers{
+  display:flex;
+  gap:2px;
+}
+
+.terrestrial{
+  background-color: rgb(142, 83, 68);
+}
+.intertidal{
+  background-color: rgb(108, 209, 234);
+}
+.marine{
+  background-color: rgb(57, 100, 179);
+}
+.freshwater{
+  background-color: rgb(46, 139, 108);
 }
 
 @media (max-width:800px){
@@ -35,6 +69,9 @@
 @media (max-width:600px){
   .entries-grid{  
     grid-template-columns: repeat(3, minmax(60px, 1fr));
+  }
+  .entry .img-container{
+    height:30vw;
   }
 }
 
@@ -56,12 +93,13 @@ let results = []
 const params = new URLSearchParams(window.location.search)
 const tree = document.getElementById('tax-filters')
 
-const initialQuery = params.get('q') || ''
+let initialQuery = params.get('q') || ''
 
 let currentPage = parseInt(params.get('page'), 10)
 if (isNaN(currentPage) || currentPage < 1) {
   currentPage = 1
 }
+
 
 const perpage = 20
 
@@ -91,6 +129,7 @@ fetch('/assets/search.json')
         { name: "subphylum", weight: 1 },
         { name: "phylum", weight: 1 },
         { name: "kingdom", weight: 1 },
+        { name: "zone", weight: 1 },
 
         { name: "search_text", weight: 0.5 }, // fallback for partial strings
       ]
@@ -113,13 +152,23 @@ const nextBtn = document.getElementById('next')
 let taxaFilters = new Set()
 let excludeFilters = new Set()
 let query = ""
+let zone = "all"
 
 input.value = initialQuery
 
+document.addEventListener("DOMContentLoaded", () => {
+    initialQuery = params.get('q') || ''
+    currentPage = parseInt(params.get('page'), 10)
+    if (isNaN(currentPage) || currentPage < 1) {
+      currentPage = 1
+    }
+    query = initialQuery
+    
+});
 
-input.addEventListener('keydown', () => {
+input.addEventListener('keyup', () => {
   query = input.value.trim().toLowerCase()
-
+  console.log(query)
   currentPage = 1
 
   updateURL()
@@ -135,6 +184,8 @@ input.addEventListener('keydown', () => {
 function filterResults(){
   let taxafilter = item=>true
   let excludeFilter = item=>false
+  let zoneFilter = item=>true
+
   if(taxaFilters.size > 0){
     taxafilter = item => {
       return Array.from(taxaFilters).some(t => {
@@ -166,6 +217,14 @@ function filterResults(){
 
   }
 
+  if(zone != "all"){
+    zoneFilter = item=>{
+      if(item.zone.includes(zone)){
+        console.log(item.title)
+      }
+      return item.zone.includes(zone)
+    }
+  }
   
 
 
@@ -177,11 +236,13 @@ function filterResults(){
     )
   }
   partialResults = partialResults.filter(item => taxafilter(item))
+  partialResults = partialResults.filter(zoneFilter)
 
   // Step 2: Fuse.js ranking
   let fuseResults = fuse.search(query).map(r => r.item) 
   fuseResults = fuseResults.filter(item => taxafilter(item))
-
+  fuseResults = fuseResults.filter(zoneFilter)
+  console.log(fuseResults.length)
   // Merge results, remove duplicates
   const combined = [...new Set([...fuseResults, ...partialResults])]
 
@@ -236,14 +297,25 @@ function renderResults() {
       scientificname = `Phylum ${item.phylum}`
     }
     
+    zones = ""
+    item.zone.forEach(z=>{
+      zones += `<div class="zone ${z}"></div>`
+    })
     
     return `
     <a href="${item.url}" class="entry">
         <div class="img-container">
             <img src="${item.coverimg ?? 'https://placehold.co/600x400/png'}" alt="">
         </div>
-        <h4>${item.title}</h4>
-        <p class="scientific-name">${scientificname}</p>
+        <div class="entry-content">
+          <div>
+            <h4>${item.title}</h4>
+            <p class="scientific-name">${scientificname}</p>
+          </div>
+          <div>
+            <div class="zone-markers">${zones}</div>
+          </div>
+        </div>
     </a>
     `
   }).join('')
@@ -267,6 +339,8 @@ function updateURL() {
   if (currentPage > 0) {
     params.set('page', currentPage)
   }
+
+  params.set('zone', zone)
 
   const newURL =
     `${window.location.pathname}?${params.toString()}`
@@ -329,7 +403,17 @@ function updateTaxaFilters(value, checked){
 
 
 
+const filters = document.getElementsByClassName("filters")[0]
+filters.addEventListener('change', e=>{
+  console.log(e.target.name , e.target.value)
+  if(e.target.name == "zone"){
+    zone = e.target.value
+  }
 
+  updateURL()
+  filterResults()
+  renderResults()
+})
 
 
 tree.addEventListener('change', e => {

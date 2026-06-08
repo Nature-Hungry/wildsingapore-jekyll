@@ -19,14 +19,6 @@ superfamily: Vermetoidea
 updated: Oct 2016
 coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/tubeworm/tubeworm/020225cjd7437m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Tubes of tiny worms may look
-      like roots, don't step on them. Some can bite or sting. Don't touch! They live
-      deep in the sand, don't dig them out.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Tubes of tiny worms may look like roots, don't step on them. Some can
-      bite or sting. Don't touch! They live deep in the sand, don't dig them out.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/worm/tubeworm/tubeworm/020225cjd7437m3.jpg
     caption: Various kinds of tubes made by worms. Chek Jawa, Feb 02
@@ -127,9 +119,17 @@ links_references: '**Links**
   . 5
 
   '
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Tubes of tiny worms may look like roots, don't step on them
+- Some can bite or sting
+- Don't touch! They live deep in the sand, don't dig them out.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Tubeworms are common on all our shores and near mangroves. They are most obvious on sand bars and flat shores (sandy or muddy) where they stick out of the surface in large numbers. In seagrass areas, some are found in large numbers in mounds that can be 1m or more wide. Their tubes can extend quite deep into the ground, only a little bit of the tube sticks out of the ground. At low tide, the worm may be even deeper still. Some tubeworms can give a nasty bite. Please don't dig up tubes to try to see the worm.
@@ -197,7 +197,8 @@ The tubes of
 [Gregarious tubeworms](../polychaeta/gregarious)
 may also help anchor sediments. These tubeworms may live packed so closely together that they form mounds up to 1m or more across! These mounds trap pools of water at low tide for small creatures to shelter in. Thesetubeworms are often seen in areas with seagrass. Perhaps these worms anchor the sediments that allow seagrasses to grow, or visa versa?
 
-**Human uses:**
+## Human uses
+
 Fishermen sometimes dig out tubeworms to use as bait.
 
 **Status and threats:**

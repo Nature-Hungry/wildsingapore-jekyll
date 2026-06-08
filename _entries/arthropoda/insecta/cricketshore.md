@@ -32,7 +32,9 @@ galleries:
     caption: Caught by a Marine spider. Kusu Island, Apr 08
 links_references: '**Links**
 
-  - [Mangrove cricket](http://mangrove.nus.edu.sg/guidebooks/text/2010) Ng, Peter K. L. & N. Sivasothi, 1999. *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/) II (Animal Diversity)*. Singapore Science Centre. 168 pp.
+  - [Mangrove cricket](http://mangrove.nus.edu.sg/guidebooks/text/2010) Ng, Peter
+  K. L. & N. Sivasothi, 1999. *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)
+  II (Animal Diversity)*. Singapore Science Centre. 168 pp.
 
   '
 location:
@@ -47,6 +49,10 @@ location:
 - smk
 size:
 - 1.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- terrestrial
 ---
 
 ## Where seen?

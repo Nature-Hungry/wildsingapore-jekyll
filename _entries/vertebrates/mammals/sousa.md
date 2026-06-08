@@ -67,6 +67,10 @@ size:
 - 120.0
 - 280.0
 rdb: CR
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- marine
 ---
 
 ## Where seen?

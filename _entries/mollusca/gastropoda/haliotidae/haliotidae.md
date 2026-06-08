@@ -102,6 +102,11 @@ location:
 size:
 - 4.0
 - 7.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -117,7 +122,8 @@ Small ones are sometimes seen on our undisturbed reefs, under rocks and rubble.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ---
-{% include img-wrap-group.html items=page.galleries.gallery2 %}**Human uses:**
+{% include img-wrap-group.html items=page.galleries.gallery2 %}## Human uses
+
 Temperate climate species grow much larger than tropical species, and are harvested for their shell, used for shell crafts, and the animal is eaten as a delicacy in Asia. Due to the high value of the animal in the food trade, even smaller tropical species are threatened with over collection.
 
 **Status and threats:**

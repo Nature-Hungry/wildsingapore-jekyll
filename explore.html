@@ -30,13 +30,15 @@ keywords: "index, flora, fauna, animal, plant, guide, biology, ecology, field, g
             margin-bottom: 1rem;
             display:flex;
             justify-content: left;
-            gap:2rem;
+            gap:1rem;
+            flex-wrap:wrap;
         }
 
         .filter-container{
             display:flex;
             align-items: center;
             gap:0.5rem;
+            min-width:100px;
         }
         .filter-container p{
             margin:0;
@@ -108,12 +110,35 @@ keywords: "index, flora, fauna, animal, plant, guide, biology, ecology, field, g
                 <div class="filters">
                     <div class="filter-container">
                         <p>Zone</p>
-                        <select name="" id="">
-                            <option value="">All</option>
-                            <option value="">Terrestrial</option>
-                            <option value="">Freshwater</option>
-                            <option value="">Intertidal</option>
-                            <option value="">Marine</option>
+                        <select name="zone" id="">
+                            <option value="all">All</option>
+                            <option value="terrestrial">Terrestrial</option>
+                            <option value="freshwater">Freshwater</option>
+                            <option value="intertidal">Intertidal</option>
+                            <option value="marine">Marine</option>
+                        </select>
+                    </div>
+                    <div class="filter-container">
+                        <p>Habitat</p>
+                        <select name="habitat" id="">
+                            <option value="all">All</option>
+                            <option value="mangrove">mangrove</option>
+                            <option value="mudflat">mudflat</option>
+                            <option value="coastal forest">coastal forest</option>
+                            <option value="rocky shore">rocky shore</option>
+                            <option value="sandy shore">sandy shore</option>
+                            <option value="seagrass meadow">seagrass meadow</option>
+                            <option value="coral rubble">coral rubble</option>
+                            <option value="coral reef">coral reef</option>
+                            <option value="native forest">native forest</option>
+                            <option value="exotic forest">exotic forest</option>
+                            <option value="grassland">grassland</option>
+                            <option value="scrubland">scrubland</option>
+                            <option value="urban park">urban park</option>
+                            <option value="built-up">built-up</option>
+                            <option value="freshwater swamp">freshwater swamp</option>
+                            <option value="freshwater marsh">freshwater marsh</option>
+                            
                         </select>
                     </div>
                    
@@ -128,13 +153,13 @@ keywords: "index, flora, fauna, animal, plant, guide, biology, ecology, field, g
 
 
                 <div class="pagination-view-group">
-                    <div style="
+                    {%- comment -%} <div style="
                         display: flex;
                         gap:1rem;
                     ">
                         <p class="view-btn">Map view</p>
                         <p class="view-btn active">Grid view</p>
-                    </div>
+                    </div> {%- endcomment -%}
 
                     <div id="pagination">
                         <button id="prev">Prev</button>

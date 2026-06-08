@@ -68,6 +68,11 @@ location:
 - lfa
 size:
 - 15.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
 
 ## Where seen?
@@ -103,7 +108,8 @@ the
 *Echinodictyum conulosum*
 ) which has a very prickly surface.
 
-**Human uses:**
+## Human uses
+
 Today, the sponges you use at home are synthetic and not made from living sponges. In the past, natural sponges were used for padding and packing, to paint with and to bathe with. Natural sponges are still used today as luxury bath items. Commercial bath sponges come mainly from
 *Spongia officinalis*
 that is found in the Mediterranean Sea. Other species of the Family Spongiidae may also be used for this purpose as these sponges produce only spongin skeletons and do not have lots of sharp, poky spicules like most other sponges. To make a bath sponge, the living sponge is harvested, killed and processed to remove all the soft portions, leaving behind the skeleton. The spongin itself cannot absorb water, it is the structure of the skeleton that can absorb a huge amount of water, which can be easily released when the skeleton is squeezed.

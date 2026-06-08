@@ -39,15 +39,6 @@ links_references: "**Links**\n- [Class\n  Echinoidea](http://mangrove.nus.edu.sg
   \ A\n  Guide to Sea Stars and Other Echinoderms of Singapore*.\n  Singapore Science\
   \ Centre. 187pp.\n- Ng, P. K.\n  L. & Y. C. Wee, 1994. *The\n"
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Feather stars are rarely found
-      near the shore. Most species can move about from place to place. Their long
-      spiny arms are fragile and break easily. Don't disturb them.
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Feather stars are rarely found near the shore. Most species can move
-      about from place to place. Their long spiny arms are fragile and break easily.
-      Don't disturb them.
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/red/150706srpd7354.jpg
     caption: Many gathered on a hard coral. Sentosa Serapong, Jul 15
@@ -125,9 +116,17 @@ galleries:
       brittle stars, sea urchins, sea cucumbers and feather stars . Times Edition,
       Singapore. 144 pp. Coleman, Neville. undated. Sea Stars of Australasia and their
       relatives . Neville Coleman''s World of Water, Australia. 64pp.'
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Feather stars are rarely found near the shore
+- Most species can move about from place to place
+- Their long spiny arms are fragile and break easily. Don't disturb them.
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 These feathery animals are sometimes seen on some of our shores, generally near living reefs. They are also encountered by divers on our Southern reefs.
@@ -173,9 +172,9 @@ Feather stars have separate genders and are usually either male or female. The e
 
 {% include img-wrap-group.html items=page.galleries.gallery5 %}**Living off a star:**
 Various small
-[crabs](../../crustacea/crab/pilumnidae/featherstar)
+[crabs](/wildfacts/guides/crustacea/crustacea/crab/pilumnidae/featherstar)
 ,
-[shrimps](../../crustacea/othercrust/shrimp/crinoid)
+[shrimps](/wildfacts/guides/crustacea/crustacea/othercrust/shrimp/crinoid)
 ,
 [worms](../../worm/polychaeta/myzostomidae)
 ,
@@ -188,7 +187,8 @@ Feather stars are the most ancient and considered the most primitive of echinode
 **Star on a stick:**
 Stalked stars, called sea lilies, are mostly found in deep waters 100m or lower. There are about 80 species of sea lilies. Some living sea lilies can have stalks up to 1m long!
 
-**Human uses:**
+## Human uses
+
 Feather stars are not widely used for human purposes. Although they almost invariably die a slow death from starvation in marine aquariums, they are sometimes taken for the live aquarium trade.
 
 **Status and threats:**

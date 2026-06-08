@@ -65,6 +65,10 @@ galleries:
       Volume 1: 1-1240; volume 2: 1241-2444.'
 size:
 - 2000.0
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- terrestrial
 ---
 
 ## Where seen?
@@ -82,7 +86,8 @@ Apparently wild boar love to eat rubber seeds, well at least the tame wild boar 
 [Ubin blog](http://www.sgkopi.com/ubin/2009/01/jack-the-wild-boar/)
 .
 
-**Human uses:**
+## Human uses
+
 Burkill has a long account of the history of the tree, how wild trees were tapped in the Amazon, its introduction to cultivation in Malaya and the experiments done to test the different ways to tap the tree. The oily seeds are fed to livestock and eaten by people in some places but only after special preparation. Eating too much and ill-prepared seeds can make you ill. The wood of old rubber trees are sometimes made into charcoal.
 
 **Heritage Trees:**

@@ -19,17 +19,12 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Zoantharia
 suborder: Brachycnemina
+summary: Colony 20-40cm, encrusts rocks and rubble like a rubbery mat. Polyps 1-2cm
+  in diameter embedded in this common tissue, short or no body column. Coral rubble,
+  boulders. Commonly seen on our Southern shores.
 updated: Dec 2019
 coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/tuberculosa/110517tptd1356m3.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about them ... Each is a colony of many little
-      animals. Some may be highly toxic. Don't touch them! The rubbery mat is living
-      tissue and animals. Don't step on it!
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Each is a colony of many little animals. Some may be highly toxic. Don't
-      touch them! The rubbery mat is living tissue and animals. Don't step on it!
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/tuberculosa/110517tptd1356m3.jpg
     caption: Coating a rock in a rubbery mat. Terumbu Pempang Tengah, May 11
@@ -98,9 +93,16 @@ size:
 - 40.0
 - 1.0
 - 2.0
+trivia_title: if you learn only 3 things about them ..
+trivia_items:
+- Each is a colony of many little animals
+- Don't touch them! The rubbery mat is living tissue and animals. Don't step on it!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 Like some weird rubber mat that coats rocks and rubble, this colony of animals is commonly seen on our Southern shores. It is often found in areas where waves crash onto the rocks in shallow waters. When the animals find a happy spot, the colony can cover a large area.

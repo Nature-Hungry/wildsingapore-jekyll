@@ -27,15 +27,6 @@ subfamily: Myrophinae
 updated: Apr 2025
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/wormeel/040817sntd4718m3a.jpg
 galleries:
-  gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: if you learn only 3 things about it ... Often mistaken for a worms, it
-      is a fish! It has a sharp bony tail to dig backwards with. This small burrowing
-      fish is easily trampled. Watch your step!
-  - url: http://www.wildsingapore.com/photos/bullet.gif
-    caption: Often mistaken for a worms, it is a fish! It has a sharp bony tail to
-      dig backwards with. This small burrowing fish is easily trampled. Watch your
-      step!
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/wormeel/040817sntd4718m3a.jpg
     caption: Has no pectoral fins.
@@ -163,9 +154,18 @@ size:
 - 10.0
 - 12.0
 rdb: DD
+trivia_title: if you learn only 3 things about it ..
+trivia_items:
+- Often mistaken for a worms, it is a fish! It has a sharp bony tail to dig backwards
+  with
+- This small burrowing fish is easily trampled
+- Watch your step!
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
 ---
-
-{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ## Where seen?
 This small worm-like fish is often seen near coral rubble where there are lots of hiding places, especially on our Southern shores. A secretive fish, it is usually active only at night. Sightings are usually brief as it wriggles rapidly past and disappears into some crevice or hole.
