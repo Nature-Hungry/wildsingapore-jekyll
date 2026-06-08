@@ -226,3 +226,45 @@ layout: default
         
     </div>
 </section>
+
+
+<script defer>
+{% assign random_posts = site.entries | sample: 40 %}
+
+
+const random_sample = [
+{% for post in random_posts %}
+{
+  "title": {{ post.title | jsonify }},
+  "url": {{ post.url | jsonify }}, 
+  "coverimg": {{ post.smallcoverimg | default: post.coverimg | jsonify }}, 
+  
+}{% unless forloop.last %},{% endunless %}
+{% endfor %}
+]
+
+
+for (let i = random_sample.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [random_sample[i], random_sample[j]] = [random_sample[j], random_sample[i]];
+}
+
+const randomPosts = random_sample.slice(0, 4);
+
+// 4. Render the posts
+const container = document.getElementsByClassName('random-container')[0];
+if (randomPosts.length > 0) {
+let html = '';
+randomPosts.forEach(post => {
+    html += `
+     <a class="random" href="${post.url}">
+        <img src=${post.coverimg} alt="">
+        <p class="caption">${post.title}</p>
+
+    </a>
+    `;
+});
+container.innerHTML = html;
+}
+
+</script>

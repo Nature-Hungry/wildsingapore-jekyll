@@ -4,51 +4,16 @@ title: "Step-by-step guide to identifying living things in singapore"
 ---
 {% include global/header.html %}
 
-  <link rel="stylesheet" href="{{ '/assets/css/stepbystep.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/stepbystep.css' | relative_url }}">
 <main class="page-content" id="main-content">
     <div class="sliding-wrapper">
         <div class="slider">
-            <!-- 
             
-            STEP 1: WHAT GENERIC HABITAT IS IT IN
-            
-            -->
-            <section class="step">
-                <h2 style="text-align: center;">Where did you see it?</h2>
-                <!-- <p style="text-align: right;">Skip ></p> -->
-                <div class="zones step-items">
-                    <a href="./terrestrial.html" class="zone" id="on-dry-land">
-                        <div class="icon"></div>
-                        <h3>On dry land</h3>
-                        <p>In the sky, on the ground or in the trees</p>
-                    </a>
-                    
-                    <a href="./saltwater" class="zone" id="by-the-sea">
-                        <div class="icon"></div>
-        
-                        <h3>By the sea</h3>
-                        <p>Where it is frequently or perpetually inundated by seawater</p>
-                    </a>
-                    <a href="./freshwater.html" class="zone">
-                        <div class="icon"></div>
-        
-                        <h3>In freshwater</h3>
-                        <p>Found in and along canals, reservoirs and streams</p>
-                    </a>
-        
-                </div>
-            </section>
-
-            <!-- 
-            
-            STEP 2: SUBSTRATE
-
-            -->
             <section class="step">
                 <div class="sub-step" id="sub-by-the-sea">
                     <h2>What surface/substrate did you see it on?</h2>
                     <div class="step-nav">
-                        <p class="prev-step">&lt; Back</p>
+                        {%- comment -%} <p class="prev-step">&lt; Back</p> {%- endcomment -%}
                         <!-- <p>Next ></p> -->
                     </div>
                     <div class="substrates step-items">
@@ -75,32 +40,8 @@ title: "Step-by-step guide to identifying living things in singapore"
         
                     </div>
                 </div>
-                <div class="sub-step" id="sub-on-dry-land">
-                    <h2>What surface/substrate did you see it on?</h2>
-                    <div class="step-nav">
-                        <p class="prev-step">&lt; Back</p>
-                        <p>Next ></p>
-                    </div>
-                    <div class="substrates step-items">
-                        <div class="zone" id="on-plants">
-                            <div class="icon"></div>
-                            <h3>On plants</h3>
-                            <p>On branches of trees or among shrubs</p>
-                        </div>
-                        <div class="zone" id="ground">
-                            <div class="icon"></div>
-                            <h3>On the ground</h3>
-                            <p>Moving on or anchored to the ground</p>
-                        </div>
-                        <div class="zone" id="sky">
-                            <div class="icon"></div>
-                            <h3>In the sky</h3>
-                            <p>Flying or soaring</p>
-                        </div>
-                       
-        
-                    </div>
-                </div>
+                
+                
             </section>
 
 
@@ -116,11 +57,11 @@ title: "Step-by-step guide to identifying living things in singapore"
                         <p class="prev-step">&lt; Back</p>
                         <p class="next-step">Next ></p>
                     </div>
-                    <div class="step-items">
+                    <div class="step-items radio-group">
                         <label for="hard-radio" class="step-radio">
                             <div class="icon"></div>
-                            <p>
                                 <input type="radio" name="hardness" id="hard-radio" value="128">
+                            <p>
                                 Hard
                             </p>
                         </label>
@@ -128,16 +69,16 @@ title: "Step-by-step guide to identifying living things in singapore"
                         <label for="firm-radio" class="step-radio">
                             <div class="icon"></div>
 
-                            <p>
                                 <input type="radio" name="hardness" id="firm-radio" value="129">
+                            <p>
                                 Firm
                             </p>
                         </label>
                         <label for="soft-radio" class="step-radio">
                             <div class="icon"></div>
 
-                            <p>
                                 <input type="radio" name="hardness" id="soft-radio" value="130">
+                            <p>
                                 Soft
                             </p>
                         </label>
@@ -146,8 +87,8 @@ title: "Step-by-step guide to identifying living things in singapore"
                     <div class="step-items">
                         <label for="elongated-radio" class="step-radio">
                             <div class="icon"></div>
-                            <p>
                                 <input type="checkbox" name="shape1" id="elongated-radio" value="137">
+                            <p>
                                 Elongated
                             </p>
                         </label>
@@ -155,32 +96,32 @@ title: "Step-by-step guide to identifying living things in singapore"
                         <label for="compact-radio" class="step-radio">
                             <div class="icon"></div>
 
-                            <p>
                                 <input type="checkbox" name="shape1" id="compact-radio" value="138">
+                            <p>
                                 Compact
                             </p>
                         </label>
                         <label for="blob-radio" class="step-radio">
                             <div class="icon"></div>
 
-                            <p>
                                 <input type="checkbox" name="shape1" id="blob-radio" value="139">
+                            <p>
                                 Blob
                             </p>
                         </label>
                         <label for="branching-radio" class="step-radio">
                             <div class="icon"></div>
 
-                            <p>
                                 <input type="checkbox" name="shape1" id="branching-radio" value="140">
+                            <p>
                                 Branching
                             </p>
                         </label>
                         <label for="spherical-radio" class="step-radio">
                             <div class="icon"></div>
 
-                            <p>
                                 <input type="checkbox" name="shape1" id="spherical-radio" value="141">
+                            <p>
                                 Round
                             </p>
                         </label>
@@ -189,8 +130,8 @@ title: "Step-by-step guide to identifying living things in singapore"
                     <div class="step-items">
                         <label for="narrow-radio" class="step-radio">
                             <div class="icon"></div>
-                            <p>
                                 <input type="checkbox" name="shape1" id="narrow-radio" value="142">
+                            <p>
                                 narrow
                             </p>
                         </label>
@@ -198,42 +139,51 @@ title: "Step-by-step guide to identifying living things in singapore"
                         <label for="flat-radio" class="step-radio">
                             <div class="icon"></div>
 
-                            <p>
                                 <input type="checkbox" name="shape1" id="flat-radio" value="143">
+                            <p>
                                 flat
                             </p>
                         </label>
                         <label for="cylindrical-radio" class="step-radio">
                             <div class="icon"></div>
 
-                            <p>
                                 <input type="checkbox" name="shape1" id="cylindrical-radio" value="144">
+                            <p>
                                 cylindrical
                             </p>
                         </label>
                         <label for="dome-radio" class="step-radio">
                             <div class="icon"></div>
 
-                            <p>
                                 <input type="checkbox" name="shape1" id="dome-radio" value="145">
+                            <p>
                                 dome
                             </p>
                         </label>
                         <label for="tapered-radio" class="step-radio">
                             <div class="icon"></div>
 
-                            <p>
                                 <input type="checkbox" name="shape1" id="tapered-radio" value="146">
+                            <p>
                                 tapered
                             </p>
                         </label>
 
+                        <label for="fan-radio" class="step-radio">
+                            <div class="icon"></div>
+
+                                <input type="checkbox" name="shape1" id="fan-radio" value="154">
+                            <p>
+                                fan-shaped
+                            </p>
+                        </label>
+
                     </div>
-                    <div class="step-items">
+                    <div class="step-items radio-group">
                         <label for="spiky-radio" class="step-radio">
                             <div class="icon"></div>
-                            <p>
                                 <input type="radio" name="texture" id="spiky-radio" value="147">
+                            <p>
                                 spiky
                             </p>
                         </label>
@@ -241,68 +191,56 @@ title: "Step-by-step guide to identifying living things in singapore"
                         <label for="feathery-radio" class="step-radio">
                             <div class="icon"></div>
 
-                            <p>
                                 <input type="radio" name="texture" id="feathery-radio" value="148">
+                            <p>
                                 feathery
                             </p>
                         </label>
                         <label for="bristley-radio" class="step-radio">
                             <div class="icon"></div>
 
-                            <p>
                                 <input type="radio" name="texture" id="bristley-radio" value="149">
+                            <p>
                                 bristley
                             </p>
                         </label>
                         <label for="smooth-radio" class="step-radio">
                             <div class="icon"></div>
 
-                            <p>
                                 <input type="radio" name="texture" id="smooth-radio" value="150">
+                            <p>
                                 smooth
                             </p>
                         </label>
                         <label for="rough-radio" class="step-radio">
                             <div class="icon"></div>
 
-                            <p>
                                 <input type="radio" name="texture" id="rough-radio" value="151">
+                            <p>
                                 rough
                             </p>
                         </label>
                         <label for="leafy-radio" class="step-radio">
                             <div class="icon"></div>
 
-                            <p>
                                 <input type="radio" name="texture" id="leafy-radio" value="152">
+                            <p>
                                 leafy
                             </p>
                         </label>
                         <label for="tentacled-radio" class="step-radio">
                             <div class="icon"></div>
 
-                            <p>
                                 <input type="radio" name="texture" id="tentacled-radio" value="153">
+                            <p>
                                 tentacled
                             </p>
                         </label>
-                        <label for="fan-radio" class="step-radio">
-                            <div class="icon"></div>
-
-                            <p>
-                                <input type="radio" name="texture" id="fan-radio" value="154">
-                                fan-shaped
-                            </p>
-                        </label>
+                        
 
                     </div>
                 </div>
-                <div zone="on-dry-land" class="sub-step">
-                    <h2>Dry land</h2>
-                </div>
-                <div zone="in-freshwater" class="sub-step">
-                    <h2>freshwater</h2>
-                </div>
+                
             </section>
 
             <!-- 
@@ -321,44 +259,44 @@ title: "Step-by-step guide to identifying living things in singapore"
                     <div class="step-items">
                         <label for="lt2-radio" class="step-radio">
                             <div class="icon"></div>
-                            <p>
                                 <input type="radio" name="size" id="lt2-radio" value="lt2">
+                            <p>
                                 &lt; 2cm
                             </p>
                         </label>
                         <label for="2-5-radio" class="step-radio">
                             <div class="icon"></div>
-                            <p>
                                 <input type="radio" name="size" id="2-5-radio" value="2-5">
+                            <p>
                                 2cm - 5cm
                             </p>
                         </label>
                         <label for="5-30-radio" class="step-radio">
                             <div class="icon"></div>
-                            <p>
                                 <input type="radio" name="size" id="5-30-radio" value="5-30">
+                            <p>
                                 5cm - 30cm
                             </p>
                         </label>
                        
                         <label for="30-100-radio" class="step-radio">
                             <div class="icon"></div>
-                            <p>
                                 <input type="radio" name="size" id="30-100-radio" value="30-100">
+                            <p>
                                 30cm - 1m
                             </p>
                         </label>
                         <label for="100-300-radio" class="step-radio">
                             <div class="icon"></div>
-                            <p>
                                 <input type="radio" name="size" id="100-300-radio" value="100-300">
+                            <p>
                                 1m - 3m
                             </p>
                         </label>
                         <label for="gt300-radio" class="step-radio">
                             <div class="icon"></div>
-                            <p>
                                 <input type="radio" name="size" id="gt300-radio" value="gt300">
+                            <p>
                                 > 3m
                             </p>
                         </label>
@@ -370,32 +308,6 @@ title: "Step-by-step guide to identifying living things in singapore"
 
     </div>
 
-
-    <!-- <section>
-        <h2>Familiar lifeforms</h2>
-        <div class="lifeforms">
-            <div class="lifeform-group">
-                <div class="lifeform-image-group">
-                    <img src="https://live.staticflickr.com/1925/45539839332_35ed0fcb7f_w.jpg" alt="">
-                    <img src="https://live.staticflickr.com/5026/5749599865_82bdfd51f1_w.jpg" alt="">
-                    <img src="https://live.staticflickr.com/1236/605886912_becabd5880_c.jpg" alt="">
-                    <img src="https://live.staticflickr.com/2131/32857583232_294466bb57_w.jpg" alt="">
-                </div>
-                <h3>Plants</h3>
-            </div>
-            <div class="lifeform-group">
-                <div class="lifeform-image-group">
-                    <img src="https://live.staticflickr.com/65535/11513180943_2152f900b6_c.jpg" alt="">
-                    <img src="https://live.staticflickr.com/3243/2923767005_07d61c62a7_w.jpg" alt="">
-                    <img src="https://live.staticflickr.com/65535/5767817345_eedafd24c3_w.jpg" alt="">
-                    <img src="https://live.staticflickr.com/65535/5482298010_b4b91f460c_w.jpg" alt="">
-                </div>
-                <h3>Fish</h3>
-            </div>
-           
-
-        </div>
-    </section> -->
 </main>
 
 
@@ -404,7 +316,7 @@ title: "Step-by-step guide to identifying living things in singapore"
 <script defer>
 document.addEventListener('DOMContentLoaded', () => {
     
-let zone = ""
+let zone = "by-the-sea"
 let substrate = ""
 
 let step = 0
@@ -423,13 +335,10 @@ document.querySelectorAll('.step-items').forEach(s=>{
             if(event.target.id){
 
                 if(step == 0){
-                    zone = event.target.id
-                }
-                else if(step == 1){
                     substrate = event.target.id
                 }
                 console.log("clicked on", event.target.id)
-                let substep = document.querySelector(`#sub-${event.target.id}`)
+                /*let substep = document.querySelector(`#sub-${event.target.id}`)
                 if(substep){
                     substep.parentElement.querySelectorAll('.sub-step').forEach(e=>{
                         e.classList.remove('active')
@@ -446,7 +355,7 @@ document.querySelectorAll('.step-items').forEach(s=>{
                         e.classList.add('active')
                     })
                 }
-
+*/
                 step++
                 renderStep()
             }

@@ -20,6 +20,19 @@ filters:
                     amphibians:
                         name: amphibia
                         rank: class
+                    fish:
+                        filters:
+                        - name: actinopterygii
+                          rank: class
+                        - name: chondrichthyes
+                          rank: class
+                        children:
+                            ray-finned fish:
+                                name: actinopterygii
+                                rank: class
+                            cartilaginous fish:
+                                name: chondrichthyes
+                                rank: class
             arthropods:
                 name: arthropoda
                 rank: phylum
