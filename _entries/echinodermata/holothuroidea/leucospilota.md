@@ -28,24 +28,51 @@ order: Holothuriida
 subgenus: Mertensiothuria
 updated: Apr 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/leucospilota/050808sntg0846m3.jpg
-links_references: "**Links**\n- *[Holothuria leucospilota](https://singapore.biodiversity.online/taxo4254/mainSpace/Holothuria%20leucospilotal)*\
-  \ (Aspidochirotida: Holothuriidae) Black Sea Cucumber by Hazel Peh Huiqi, 2014,\
-  \ on taxo4254\n- *[Holothuria\n  leucospilota](http://coralreef.nus.edu.sg/gallery/ot045)*\
-  \ on the Coral Reefs of Singapore website:\n  photo and brief facts\n- [*Holothuria\n\
-  \  leucospilota* (White threads fish)](http://www.sealifebase.org/summary/Holothuria-leucospilotal)\
-  \ on SeaLife Base: Technical\n  fact sheet.\n- [*Holothuria\n  leucospilota*](http://species-identification.org/species.php?species_group=nasc&id=65)\
-  \ in North Australian Sea Cucumbers on Marine\n  Species Identification Portal:\
-  \ Technical fact sheet.\n- [*Holothuria\n  leucospilota*](http://www.iucnredlist.org/details/180375/0)\
-  \ on the IUCN Red List: Technical fact sheet.\n- *Holothuria\n  leucospilota* on\
-  \ [Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00),\
-  \ by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.\n\n\
-  **References**\n- Lane, David\n  J.W. and Didier Vandenspiegel. 2003*. A\n  Guide\
-  \ to Sea Stars and Other Echinoderms of Singapore*.\n  Singapore Science Centre.\
-  \ 187pp.\n- Davison,\n  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore\n\
-  \  Red Data Book: Threatened plants and animals of Singapore*.\n  Nature Society\
-  \ (Singapore). 285 pp.\n- Gosliner,\n  Terrence M., David W. Behrens and Gary C.\
-  \ Williams. 1996. *Coral\n  Reef Animals of the Indo-Pacific: Animal life from Africa\
-  \ to Hawaii\n"
+links_references: '**Links**
+
+  - *[Holothuria leucospilota](https://singapore.biodiversity.online/taxo4254/mainSpace/Holothuria%20leucospilota.html)*(Aspidochirotida:
+  Holothuriidae) Black Sea Cucumber by Hazel Peh Huiqi, 2014, on taxo4254
+
+
+  - *[Holothuria leucospilota](http://coralreef.nus.edu.sg/gallery/ot045.htm)*on the
+  Coral Reefs of Singapore website: photo and brief facts
+
+
+  - [*Holothuria leucospilota*(White threads fish)](http://www.sealifebase.org/summary/Holothuria-leucospilota.html)on
+  SeaLife Base: Technical fact sheet.
+
+
+  - [*Holothuria leucospilota*](http://species-identification.org/species.php?species_group=nasc&id=65)in
+  North Australian Sea Cucumbers on Marine Species Identification Portal: Technical
+  fact sheet.
+
+
+  - [*Holothuria leucospilota*](http://www.iucnredlist.org/details/180375/0)on the
+  IUCN Red List: Technical fact sheet.
+
+
+  - *Holothuria leucospilota*on[Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00.htm),
+  by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
+
+
+  **References**
+
+  - Lane, David J.W. and Didier Vandenspiegel. 2003*. A Guide to Sea Stars and Other
+  Echinoderms of Singapore*. Singapore Science Centre. 187pp.
+
+
+  - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.*The Singapore Red Data
+  Book: Threatened plants and animals of Singapore*. Nature Society (Singapore). 285
+  pp.
+
+
+  - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.*Coral Reef
+  Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the
+  vertebrates*Sea Challengers. 314pp.
+
+
+  - Allen, Gerald R and Roger Steene. 2002.*Indo-Pacific Coral Reef Field Guide*.
+  Tropical Reef Research. 378pp.'
 galleries:
   gallery1:
   - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/leucospilota/050808sntg0846m3.jpg
@@ -96,24 +123,6 @@ galleries:
     caption: Terumbu Berkas, Jan 10 Photo shared by Loh Kok Sheng on his flickr .
   - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/leucospilota/100613snglks3m6l.jpg
     caption: Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
-  gallery10:
-  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: 'Links Holothuria leucospilota (Aspidochirotida: Holothuriidae) Black
-      Sea Cucumber by Hazel Peh Huiqi, 2014, on taxo4254 Holothuria leucospilota on
-      the Coral Reefs of Singapore website: photo and brief facts Holothuria leucospilota
-      (White threads fish) on SeaLife Base: Technical fact sheet. Holothuria leucospilota
-      in North Australian Sea Cucumbers on Marine Species Identification Portal: Technical
-      fact sheet. Holothuria leucospilota on the IUCN Red List: Technical fact sheet.
-      Holothuria leucospilota on Commercially important sea cucumbers of the world
-      , by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
-      References Lane, David J.W. and Didier Vandenspiegel. 2003 . A Guide to Sea
-      Stars and Other Echinoderms of Singapore . Singapore Science Centre. 187pp.
-      Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red Data
-      Book: Threatened plants and animals of Singapore . Nature Society (Singapore).
-      285 pp. Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.
-      Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive
-      of the vertebrates Sea Challengers. 314pp. Allen, Gerald R and Roger Steene.
-      2002. Indo-Pacific Coral Reef Field Guide . Tropical Reef Research. 378pp.'
 location:
 - chg
 - cj

@@ -23,21 +23,47 @@ superorder: Valvatacea
 order: Valvatida
 updated: Jul 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/culcita/110717tbd7114m3.jpg
-links_references: "**Links**\n- [*Culcita\n  novaeguineae* (Cushion star)](http://www.sealifebase.org/summary/Culcita-novaeguineael)\n\
-  \  on SeaLife Base: Technical fact sheet.\n- From the\n  Echinoblog by Dr Chris\
-  \ Mah: [The\n  Cushion star *Culcita novaeguineae*: An exercise in growth-related\n\
-  \  taxonomic confusion!](http://echinoblog.blogspot.sg/2009/02/cushion-star-culcita-novaeguineael)\n\
-  \n**References**\n- Loisette M. Marsh and Jane Fromont. *Field Guide to Shallow\
-  \ Water Seastars of Australia*. 2020. Western Australian Museum. 543pp.\n- Lane,\
-  \ David\n  J.W. and Didier Vandenspiegel. 2003*. A\n  Guide to Sea Stars and Other\
-  \ Echinoderms of Singapore*.\n  Singapore Science Centre. 187pp.\n- Didier VandenSpiegel\n\
-  \  et al. 1998. *The\n  Asteroid fauna (Echinodermata) of Singapore with a distribution\n\
-  \  table and illustrated identification to the species*. The Raffles\n  Bulletin\
-  \ of Zoology 1998 46(2): 431-470.\n- Chou, L.\n  M., 1998. *A\n  Guide to the Coral\
-  \ Reef Life of Singapore*. Singapore Science\n  Centre. 128 pages.\n- Coleman,\n\
-  \  Neville. 2007. *Sea\n  stars: Echinoderms of Asia/Indo-Pacific*. Neville Coleman's\n\
-  \  Underwater Geographic Pty Ltd, Australia.136pp.\n- Schoppe,\n  Sabine, 2000.\
-  \ *Echinoderms\n  of the Philippines: A guide to common shallow water sea stars,\n"
+links_references: '**Links**
+
+  - [*Culcita novaeguineae*(Cushion star)](http://www.sealifebase.org/summary/Culcita-novaeguineae.html)on
+  SeaLife Base: Technical fact sheet.
+
+
+  - From the Echinoblog by Dr Chris Mah:[The Cushion star*Culcita novaeguineae*: An
+  exercise in growth-related taxonomic confusion!](http://echinoblog.blogspot.sg/2009/02/cushion-star-culcita-novaeguineae.html)
+
+
+  **References**
+
+  - Loisette M. Marsh and Jane Fromont.*Field Guide to Shallow Water Seastars of Australia*.
+  2020. Western Australian Museum. 543pp.
+
+
+  - Lane, David J.W. and Didier Vandenspiegel. 2003*. A Guide to Sea Stars and Other
+  Echinoderms of Singapore*. Singapore Science Centre. 187pp.
+
+
+  - Didier VandenSpiegel et al. 1998.*The Asteroid fauna (Echinodermata) of Singapore
+  with a distribution table and illustrated identification to the species*. The Raffles
+  Bulletin of Zoology 1998 46(2): 431-470.
+
+
+  - Chou, L. M., 1998.*A Guide to the Coral Reef Life of Singapore*. Singapore Science
+  Centre. 128 pages.
+
+
+  - Coleman, Neville. 2007.*Sea stars: Echinoderms of Asia/Indo-Pacific*. Neville
+  Coleman''s Underwater Geographic Pty Ltd, Australia.136pp.
+
+
+  - Schoppe, Sabine, 2000.*Echinoderms of the Philippines: A guide to common shallow
+  water sea stars, brittle stars, sea urchins, sea cucumbers and feather stars*. Times
+  Edition, Singapore. 144 pp.
+
+
+  - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.*Coral Reef
+  Animals of the Indo-Pacific: Animal life from Africa to Hawai''I exclusive of the
+  vertebrates*Sea Challengers. 314pp.'
 galleries:
   gallery1:
   - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/culcita/110717tbd7114m3.jpg
@@ -148,25 +174,6 @@ galleries:
     caption: Pulau Biola, May 10 Photo shared by Marcus Ng on flickr .
   - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/culcita/220201brklks1.jpg
     caption: Pulau Berkas, Feb 22 Photo shared by Loh Kok Sheng on facebook .
-  gallery17:
-  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: 'Links Culcita novaeguineae (Cushion star) on SeaLife Base: Technical
-      fact sheet. From the Echinoblog by Dr Chris Mah: The Cushion star Culcita novaeguineae
-      : An exercise in growth-related taxonomic confusion! References Loisette M.
-      Marsh and Jane Fromont. Field Guide to Shallow Water Seastars of Australia .
-      2020. Western Australian Museum. 543pp. Lane, David J.W. and Didier Vandenspiegel.
-      2003 . A Guide to Sea Stars and Other Echinoderms of Singapore . Singapore Science
-      Centre. 187pp. Didier VandenSpiegel et al. 1998. The Asteroid fauna (Echinodermata)
-      of Singapore with a distribution table and illustrated identification to the
-      species . The Raffles Bulletin of Zoology 1998 46(2): 431-470. Chou, L. M.,
-      1998. A Guide to the Coral Reef Life of Singapore . Singapore Science Centre.
-      128 pages. Coleman, Neville. 2007. Sea stars: Echinoderms of Asia/Indo-Pacific
-      . Neville Coleman''s Underwater Geographic Pty Ltd, Australia.136pp. Schoppe,
-      Sabine, 2000. Echinoderms of the Philippines: A guide to common shallow water
-      sea stars, brittle stars, sea urchins, sea cucumbers and feather stars . Times
-      Edition, Singapore. 144 pp. Gosliner, Terrence M., David W. Behrens and Gary
-      C. Williams. 1996. Coral Reef Animals of the Indo-Pacific: Animal life from
-      Africa to Hawai''I exclusive of the vertebrates Sea Challengers. 314pp.'
 location:
 - cyr
 - jng

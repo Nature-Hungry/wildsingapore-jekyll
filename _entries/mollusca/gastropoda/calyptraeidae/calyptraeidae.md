@@ -19,15 +19,29 @@ order: Littorinimorpha
 superfamily: Calyptraeoidea
 updated: Jul 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/calyptraeidae/calyptraea/050429chgg5381m6l.jpg
-links_references: "**Links**\n- [Family\n  Crepidulidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Crepidulidae.html)\
-  \ on the Archerd Shell Collection website: brief\n  description and photos.\n\n\
-  **References**\n- Tan Siong\n  Kiat and Henrietta P. M. Woo, 2010 *Preliminary\n\
-  \  Checklist of The Molluscs of Singapore* (pdf), Raffles\n  Museum of Biodiversity\
-  \ Research, National University of Singapore.\n- Tan, K. S.\n  & L. M. Chou, 2000.\
-  \ *A\n  Guide to the Common Seashells of Singapore*. Singapore\n  Science Centre.\
-  \ 160 pp.\n- Wee Y.C.\n  and Peter K. L. Ng. 1994. *A First Look at Biodiversity\
-  \ in Singapore*.\n  National Council on the Environment. 163pp.\n- Ng, P. K.\n \
-  \ L. & Y. C. Wee, 1994. *The\n"
+links_references: '**Links**
+
+  - [Family Crepidulidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Crepidulidae.html)on
+  the Archerd Shell Collection website: brief description and photos.
+
+
+  **References**
+
+  - Tan Siong Kiat and Henrietta P. M. Woo, 2010*Preliminary Checklist of The Molluscs
+  of Singapore*(pdf), Raffles Museum of Biodiversity Research, National University
+  of Singapore.
+
+
+  - Tan, K. S. & L. M. Chou, 2000.*A Guide to the Common Seashells of Singapore*.
+  Singapore Science Centre. 160 pp.
+
+
+  - Wee Y.C. and Peter K. L. Ng. 1994.*A First Look at Biodiversity in Singapore*.
+  National Council on the Environment. 163pp.
+
+
+  - Ng, P. K. L. & Y. C. Wee, 1994.*The Singapore Red Data Book: Threatened Plants
+  and Animals of Singapore*. The Nature Society (Singapore), Singapore. 343 pp.'
 galleries:
   gallery1:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/calyptraeidae/calyptraea/050429chgg5381m6l.jpg
@@ -47,17 +61,6 @@ galleries:
     caption: Conical slipper snail
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/calyptraeidae/crepidula/050315cjd1823m3.jpg
     caption: Flat slipper snail
-  gallery4:
-  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: 'Links Family Crepidulidae on the Archerd Shell Collection website: brief
-      description and photos. References Tan Siong Kiat and Henrietta P. M. Woo, 2010
-      Preliminary Checklist of The Molluscs of Singapore (pdf), Raffles Museum of
-      Biodiversity Research, National University of Singapore. Tan, K. S. & L. M.
-      Chou, 2000. A Guide to the Common Seashells of Singapore . Singapore Science
-      Centre. 160 pp. Wee Y.C. and Peter K. L. Ng. 1994. A First Look at Biodiversity
-      in Singapore . National Council on the Environment. 163pp. Ng, P. K. L. & Y.
-      C. Wee, 1994. The Singapore Red Data Book: Threatened Plants and Animals of
-      Singapore . The Nature Society (Singapore), Singapore. 343 pp.'
 location:
 - chg
 - cj

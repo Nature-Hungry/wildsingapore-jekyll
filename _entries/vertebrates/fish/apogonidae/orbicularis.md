@@ -25,12 +25,26 @@ suborder: Apogonoidei
 subfamily: Apogoninae
 updated: Sep 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/orbicularis/040830hntd5831m3.jpg
-links_references: "**Links**  \n- [Orbicular\n  cardinalfish (*Sphaeramia orbicularis*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/279)\
-  \ Lim, Kelvin K.\n  P. & Jeffrey K. Y. Low, 1998. *[A\n  Guide to the Common Marine\
-  \ Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore\n\
-  \  Science Centre. 163 pp.\n- [Orbiculate\n  cardinalfish (*Sphaeramia orbicularis*)](http://www.fishbase.org/Summary/SpeciesSummary.php?id=4926)\
-  \ from [FishBase](http://www.fishbase.org/):\n  Technical fact sheet.\n\n**References**\n\
-  - Allen, Gerry,\n  2000. *Marine\n"
+links_references: '**Links**
+
+  - [Orbicular cardinalfish (*Sphaeramia orbicularis*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/279.htm)Lim,
+  Kelvin K. P. & Jeffrey K. Y. Low, 1998.*[A Guide to the Common Marine Fishes of
+  Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore Science
+  Centre. 163 pp.
+
+
+  - [Orbiculate cardinalfish (*Sphaeramia orbicularis*)](http://www.fishbase.org/Summary/SpeciesSummary.php?id=4926)from[FishBase](http://www.fishbase.org/):
+  Technical fact sheet.
+
+
+  **References**
+
+  - Allen, Gerry, 2000.*Marine Fishes of South-East Asia: A Field Guide for Anglers
+  and Divers*. Periplus Editions. 292 pp.
+
+
+  - Lieske, Ewald and Robert Myers. 2001.*Coral Reef Fishes of the World*Periplus
+  Editions. 400pp.'
 galleries:
   gallery1:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/orbicularis/040830hntd5831m3.jpg
@@ -44,15 +58,6 @@ galleries:
     caption: Sentosa Serapong, Jul 25 Photo shared by Tammy Lim on facebook .
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/orbicularis/240623hntlks7.jpg
     caption: Pulau Hantu, Jun 24 Shared by Loh Kok Sheng on facebook .
-  gallery3:
-  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: 'Links Orbicular cardinalfish ( Sphaeramia orbicularis ) Lim, Kelvin
-      K. P. & Jeffrey K. Y. Low, 1998. A Guide to the Common Marine Fishes of Singapore
-      . Singapore Science Centre. 163 pp. Orbiculate cardinalfish ( Sphaeramia orbicularis
-      ) from FishBase : Technical fact sheet. References Allen, Gerry, 2000. Marine
-      Fishes of South-East Asia: A Field Guide for Anglers and Divers . Periplus Editions.
-      292 pp. Lieske, Ewald and Robert Myers. 2001. Coral Reef Fishes of the World
-      Periplus Editions. 400pp.'
 location:
 - tus
 - snt

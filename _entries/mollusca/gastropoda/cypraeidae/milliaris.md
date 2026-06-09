@@ -20,13 +20,30 @@ superfamily: Cypraeoidea
 subfamily: Erosariinae
 updated: Jul 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/milliaris/040730skdd3368m3.jpg
-links_references: "**Links**\n- *[Cypraea\n  milliaris](http://www.sealifebase.org/Summary/SpeciesSummary.php?ID=104987)*\
-  \ on SeaLife Base: Technical fact sheet.\n\n**References**\n- Tan Siong\n  Kiat\
-  \ and Henrietta P. M. Woo, 2010 *Preliminary\n  Checklist of The Molluscs of Singapore*\
-  \ (pdf), Raffles\n  Museum of Biodiversity Research, National University of Singapore.\n\
-  - Abbott, R.\n  Tucker, 1991. *Seashells\n  of South East Asia*.\n  Graham Brash,\
-  \ Singapore. 145 pp.\n- Gosliner,\n  Terrence M., David W. Behrens and Gary C. Williams.\
-  \ 1996. *Coral\n  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii\n"
+links_references: '**Links**
+
+  - *[Cypraea milliaris](http://www.sealifebase.org/Summary/SpeciesSummary.php?ID=104987)*on
+  SeaLife Base: Technical fact sheet.
+
+
+  **References**
+
+  - Tan Siong Kiat and Henrietta P. M. Woo, 2010*Preliminary Checklist of The Molluscs
+  of Singapore*(pdf), Raffles Museum of Biodiversity Research, National University
+  of Singapore.
+
+
+  - Abbott, R. Tucker, 1991.*Seashells of South East Asia*. Graham Brash, Singapore.
+  145 pp.
+
+
+  - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.*Coral Reef
+  Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the
+  vertebrates*Sea Challengers. 314pp.
+
+
+  - Kuiter, Rudie H and Helmut Debelius. 2009.*World Atlas of Marine Fauna*. IKAN-Unterwasserachiv.
+  723pp.'
 galleries:
   gallery1:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/milliaris/040730skdd3368m3.jpg
@@ -80,17 +97,6 @@ galleries:
     caption: Terumbu Semakau, May 13
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/milliaris/130525tsmklks2.JPG
     caption: Photo shared by Loh Kok Sheng on flickr .
-  gallery9:
-  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: 'Links Cypraea milliaris on SeaLife Base: Technical fact sheet. References
-      Tan Siong Kiat and Henrietta P. M. Woo, 2010 Preliminary Checklist of The Molluscs
-      of Singapore (pdf), Raffles Museum of Biodiversity Research, National University
-      of Singapore. Abbott, R. Tucker, 1991. Seashells of South East Asia . Graham
-      Brash, Singapore. 145 pp. Gosliner, Terrence M., David W. Behrens and Gary C.
-      Williams. 1996. Coral Reef Animals of the Indo-Pacific: Animal life from Africa
-      to Hawaii exclusive of the vertebrates Sea Challengers. 314pp. Kuiter, Rudie
-      H and Helmut Debelius. 2009. World Atlas of Marine Fauna . IKAN-Unterwasserachiv.
-      723pp.'
 location:
 - prp
 - chg

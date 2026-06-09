@@ -22,18 +22,37 @@ order: Laurales
 inat_id: 160172
 updated: Jan 13
 coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cassytha/filiformis/110220lazd6172m6l.jpg
-links_references: "**Links**\n- *[Cassytha\n  filiformis](http://floraofsingapore.wordpress.com/2011/06/22/cassytha-filiformis/)*\n\
-  \  on Total Vascular Flora of Singapore Online: photos and fact sheet.\n- *[Cassytha\n\
-  \  filiformis](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=1363)*\n\
-  \  on the NParks Flora and Fauna website: photos and fact sheet.\n- [*Cassytha\n\
-  \  filiformis*](http://www.ctahr.hawaii.edu/oc/freepubs/pdf/PD-42.pdf)\n  (pdf)\
-  \ by Scot C. Nelson Department of Plant and Environmental\n  Protection Sciences:\
-  \ detailed fact sheet and comparison with Cuscuta\n  species which look similar.\n\
-  - Giesen, Wim\n  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.\n\
-  \  [*Mangrove\n  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)\
-  \ (PDF online downloadable).\n  RAP publication 2006/07 Food and Agriculture Organization\
-  \ of the\n  United Nations Regional Office for Asia and the Pacific Bangkok.\n\n\
-  **References**\n- Hsuan Keng,\n  S.C. Chin and H. T. W. Tan. 1990, *[The\n"
+links_references: '**Links**
+
+  - *[Cassytha filiformis](http://floraofsingapore.wordpress.com/2011/06/22/cassytha-filiformis/)*on
+  Total Vascular Flora of Singapore Online: photos and fact sheet.
+
+
+  - *[Cassytha filiformis](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=1363)*on
+  the NParks Flora and Fauna website: photos and fact sheet.
+
+
+  - [*Cassytha filiformis*](http://www.ctahr.hawaii.edu/oc/freepubs/pdf/PD-42.pdf)(pdf)
+  by Scot C. Nelson Department of Plant and Environmental Protection Sciences: detailed
+  fact sheet and comparison with Cuscuta species which look similar.
+
+
+  - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.[*Mangrove
+  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.htm)(PDF
+  online downloadable). RAP publication 2006/07 Food and Agriculture Organization
+  of the United Nations Regional Office for Asia and the Pacific Bangkok.
+
+
+  **References**
+
+  - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,*[The Concise Flora of Singapore:
+  Gymnosperms and Dicotyledons](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FConcise-Flora-Singapore-Gymnosperms-Dicotyledons%2Fdp%2F9971691353%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580156%26sr%3D8-2&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*.
+  Singapore University Press. 222 pp.
+
+
+  - Burkill, I. H., 1993.*[A Dictionary of the Economic Products of the Malay Peninsula](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fdictionary-economic-products-Malay-Peninsula%2Fdp%2FB0006EUWTE%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175505620%26sr%3D1-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*.
+  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
+  Volume 1: 1-1240; volume 2: 1241-2444.'
 galleries:
   gallery1:
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cassytha/filiformis/081206smkd2679m3a.jpg
@@ -42,21 +61,6 @@ galleries:
     caption: Small globular berries. Pulau Semakau, Apr 09
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cassytha/filiformis/090412hntd9877m3.jpg
     caption: Pulau Hantu, Apr 09
-  gallery2:
-  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: 'Links Cassytha filiformis on Total Vascular Flora of Singapore Online:
-      photos and fact sheet. Cassytha filiformis on the NParks Flora and Fauna website:
-      photos and fact sheet. Cassytha filiformis (pdf) by Scot C. Nelson Department
-      of Plant and Environmental Protection Sciences: detailed fact sheet and comparison
-      with Cuscuta species which look similar. Giesen, Wim and Stephan Wulffraat,
-      Max Zieren and Liesbeth Scholten. 2006. Mangrove Guidebook for Southeast Asia
-      (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization
-      of the United Nations Regional Office for Asia and the Pacific Bangkok. References
-      Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore:
-      Gymnosperms and Dicotyledons . Singapore University Press. 222 pp. Burkill,
-      I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula .
-      3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
-      Volume 1: 1-1240; volume 2: 1241-2444.'
 size:
 - 300.0
 - 800.0

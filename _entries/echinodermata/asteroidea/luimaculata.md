@@ -23,20 +23,48 @@ superorder: Valvatacea
 order: Paxillosida
 updated: Jul 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/luimaculata/080801chgd8668m3.jpg
-links_references: "**Links**\n- [Learning about *Luidia*! 5 Things about The OTHER\
-  \ Sand Star!](http://echinoblog.blogspot.sg/2014/04/learning-about-luidia-5-things-aboutl)\
-  \ by Dr Christopher Mah on Echinoblog\n- [*Luidia maculata*](https://wiki.nus.edu.sg/display/TAX/Luidia+maculata+-+Eight-armed+Sea+Star)\
-  \ - Eight-armed Sea Star by Tashfia Raquib, 02 Jan 2019 on Taxo4254.\n\n**References**\n\
-  - Loisette M. Marsh and Jane Fromont. *Field Guide to Shallow Water Seastars of\
-  \ Australia*. 2020. Western Australian Museum. 543pp.\n- Lane, David\n  J.W. and\
-  \ Didier Vandenspiegel. 2003*. A\n  Guide to Sea Stars and Other Echinoderms of\
-  \ Singapore*.\n  Singapore Science Centre. 187pp.\n- Didier VandenSpiegel\n  et\
-  \ al. 1998. *The\n  Asteroid fauna (Echinodermata) of Singapore with a distribution\n\
-  \  table and illustrated identification to the species*. The Raffles\n  Bulletin\
-  \ of Zoology 1998 46(2): 431-470.\n- Davison,\n  G.W. H. and P. K. L. Ng and Ho\
-  \ Hua Chew, 2008. *The Singapore\n  Red Data Book: Threatened plants and animals\
-  \ of Singapore*.\n  Nature Society (Singapore). 285 pp.\n- Schoppe,\n  Sabine, 2000.\
-  \ *Echinoderms\n  of the Philippines: A guide to common shallow water sea stars,\n"
+links_references: '**Links**
+
+  - [Learning about*Luidia*! 5 Things about The OTHER Sand Star!](http://echinoblog.blogspot.sg/2014/04/learning-about-luidia-5-things-about.html)by
+  Dr Christopher Mah on Echinoblog
+
+
+  - [*Luidia maculata*](https://wiki.nus.edu.sg/display/TAX/Luidia+maculata+-+Eight-armed+Sea+Star)-
+  Eight-armed Sea Star by Tashfia Raquib, 02 Jan 2019 on Taxo4254.
+
+
+  **References**
+
+  - Loisette M. Marsh and Jane Fromont.*Field Guide to Shallow Water Seastars of Australia*.
+  2020. Western Australian Museum. 543pp.
+
+
+  - Lane, David J.W. and Didier Vandenspiegel. 2003*. A Guide to Sea Stars and Other
+  Echinoderms of Singapore*. Singapore Science Centre. 187pp.
+
+
+  - Didier VandenSpiegel et al. 1998.*The Asteroid fauna (Echinodermata) of Singapore
+  with a distribution table and illustrated identification to the species*. The Raffles
+  Bulletin of Zoology 1998 46(2): 431-470.
+
+
+  - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.*The Singapore Red Data
+  Book: Threatened plants and animals of Singapore*. Nature Society (Singapore). 285
+  pp.
+
+
+  - Schoppe, Sabine, 2000.*Echinoderms of the Philippines: A guide to common shallow
+  water sea stars, brittle stars, sea urchins, sea cucumbers and feather stars*. Times
+  Edition, Singapore. 144 pp.
+
+
+  - Coleman, Neville. 2007. Sea stars: Echinoderms of Asia/Indo-Pacific. Neville Coleman''s
+  Underwater Geographic Pty Ltd, Australia.136pp.
+
+
+  - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.*Coral Reef
+  Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the
+  vertebrates*Sea Challengers. 314pp.'
 galleries:
   gallery1:
   - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/luimaculata/080801chgd8668m3.jpg
@@ -89,26 +117,6 @@ galleries:
     caption: Pulau Semakau, Aug 11
   - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/luimaculata/110814smkjk4m3a.jpg
     caption: Photo shared by James Koh on his blog .
-  gallery9:
-  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: 'Links Learning about Luidia ! 5 Things about The OTHER Sand Star! by
-      Dr Christopher Mah on Echinoblog Luidia maculata - Eight-armed Sea Star by Tashfia
-      Raquib, 02 Jan 2019 on Taxo4254. References Loisette M. Marsh and Jane Fromont.
-      Field Guide to Shallow Water Seastars of Australia . 2020. Western Australian
-      Museum. 543pp. Lane, David J.W. and Didier Vandenspiegel. 2003 . A Guide to
-      Sea Stars and Other Echinoderms of Singapore . Singapore Science Centre. 187pp.
-      Didier VandenSpiegel et al. 1998. The Asteroid fauna (Echinodermata) of Singapore
-      with a distribution table and illustrated identification to the species . The
-      Raffles Bulletin of Zoology 1998 46(2): 431-470. Davison, G.W. H. and P. K.
-      L. Ng and Ho Hua Chew, 2008. The Singapore Red Data Book: Threatened plants
-      and animals of Singapore . Nature Society (Singapore). 285 pp. Schoppe, Sabine,
-      2000. Echinoderms of the Philippines: A guide to common shallow water sea stars,
-      brittle stars, sea urchins, sea cucumbers and feather stars . Times Edition,
-      Singapore. 144 pp. Coleman, Neville. 2007. Sea stars: Echinoderms of Asia/Indo-Pacific.
-      Neville Coleman''s Underwater Geographic Pty Ltd, Australia.136pp. Gosliner,
-      Terrence M., David W. Behrens and Gary C. Williams. 1996. Coral Reef Animals
-      of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates
-      Sea Challengers. 314pp.'
 location:
 - pgl
 - prp

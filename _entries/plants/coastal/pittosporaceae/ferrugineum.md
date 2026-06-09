@@ -29,22 +29,22 @@ galleries:
     caption: Lazarus Island, Feb 11
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pittosporaceae/ferrugineum/110220lazd6171m3b.jpg
     caption: Lazarus Island, Feb 11
-  gallery2:
-  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: 'Acknowledgements With grateful thanks to Bian Tan for identifying this
-      plant. References Hsuan Keng, S.C. Chin and H. T. W. Tan.1998, The Concise Flora
-      of Singapore II: Monoctyledons Singapore University Press. 215 pp. Corners,
-      E. J. H., 1997. Wayside Trees of Malaya: in two volumes . Fourth edition, Malayan
-      Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861
-      pp., plates 139-236. Burkill, I. H., 1993. A Dictionary of the Economic Products
-      of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture,
-      Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444. Davison, G.W.
-      H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red Data Book: Threatened
-      plants and animals of Singapore . Nature Society (Singapore). 285 pp.'
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:
 - terrestrial
+links_references: "**Acknowledgements** \nWith grateful thanks to Bian Tan for identifying\
+  \ this plant.\n\n**References**\n- Hsuan Keng, S.C. Chin and H. T. W. Tan.1998,*[The\
+  \ Concise Flora of Singapore II: Monoctyledons](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FConcise-Flora-Singapore-Monocotyledons%2Fdp%2F9971692074%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580156%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*Singapore\
+  \ University Press. 215 pp.\n\n- Corners, E. J. H., 1997.*[Wayside Trees of Malaya:\
+  \ in two volumes](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FWAYSIDE-TREES-MALAYA-2-Volumes%2Fdp%2FB000H9ABCG%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175578169%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*.\
+  \ Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates\
+  \ 1-38; volume 2: 477-861 pp., plates 139-236.\n\n- Burkill, I. H., 1993.*[A Dictionary\
+  \ of the Economic Products of the Malay Peninsula](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fdictionary-economic-products-Malay-Peninsula%2Fdp%2FB0006EUWTE%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175505620%26sr%3D1-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*.\
+  \ 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.\
+  \ Volume 1: 1-1240; volume 2: 1241-2444.\n\n- Davison, G.W. H. and P. K. L. Ng and\
+  \ Ho Hua Chew, 2008.*The Singapore Red Data Book: Threatened plants and animals\
+  \ of Singapore*. Nature Society (Singapore). 285 pp."
 ---
 
 ## Where seen?

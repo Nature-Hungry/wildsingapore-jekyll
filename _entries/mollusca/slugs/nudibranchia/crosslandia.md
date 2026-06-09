@@ -28,13 +28,26 @@ suborder: Dendronotina
 superfamily: Dendronotoidea
 updated: May 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/crosslandia/060131sjig4508m3.jpg
-links_references: "**Links**  \n- [The\n  Sea Slug Forum](http://www.seaslugforum.net/)\
-  \ by Dr Bill Rudman: including descriptions and\n  photos of *[Crosslandia\n  daedali](http://www.seaslugforum.net/find/crosdaed)*\n\
-  \n**References**\n- Tan Siong\n  Kiat and Henrietta P. M. Woo, 2010 *Preliminary\n\
-  \  Checklist of The Molluscs of Singapore* (pdf), Raffles\n  Museum of Biodiversity\
-  \ Research, National University of Singapore.\n- Wells, Fred\n  E. and Clayton W.\
-  \ Bryce. 2000. *Slugs\n  of Western Australia: A guide to the species from the Indian\
-  \ to\n"
+links_references: '**Links**
+
+  - [The Sea Slug Forum](http://www.seaslugforum.net/)by Dr Bill Rudman: including
+  descriptions and photos of*[Crosslandia daedali](http://www.seaslugforum.net/find/crosdaed)*
+
+
+  **References**
+
+  - Tan Siong Kiat and Henrietta P. M. Woo, 2010*Preliminary Checklist of The Molluscs
+  of Singapore*(pdf), Raffles Museum of Biodiversity Research, National University
+  of Singapore.
+
+
+  - Wells, Fred E. and Clayton W. Bryce. 2000.*Slugs of Western Australia: A guide
+  to the species from the Indian to West Pacific Oceans*. Western Australian Museum.
+  184 pp.
+
+
+  - Coleman, Neville. 2001.*1001 Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*.
+  Neville Coleman''s Underwater Geographic Pty Ltd, Australia.144pp.'
 galleries:
   gallery1:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/crosslandia/060131sjig4508m3.jpg
@@ -50,16 +63,6 @@ galleries:
     caption: St. John's Island, Oct 11 Photo shared by Toh Chay Hoon on her blog .
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/crosslandia/111001sjitch3m3.jpg
     caption: St. John's Island, Oct 11 Photo shared by Toh Chay Hoon on her blog .
-  gallery3:
-  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: 'Links The Sea Slug Forum by Dr Bill Rudman: including descriptions and
-      photos of Crosslandia daedali References Tan Siong Kiat and Henrietta P. M.
-      Woo, 2010 Preliminary Checklist of The Molluscs of Singapore (pdf), Raffles
-      Museum of Biodiversity Research, National University of Singapore. Wells, Fred
-      E. and Clayton W. Bryce. 2000. Slugs of Western Australia: A guide to the species
-      from the Indian to West Pacific Oceans . Western Australian Museum. 184 pp.
-      Coleman, Neville. 2001. 1001 Nudibranchs: Catalogue of Indo-Pacific Sea Slugs
-      . Neville Coleman''s Underwater Geographic Pty Ltd, Australia.144pp.'
 location:
 - sji
 - sis

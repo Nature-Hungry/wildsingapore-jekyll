@@ -24,24 +24,51 @@ infraorder: Anomura
 superfamily: Paguroidea
 updated: Sep 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/lambis/060813jngd6116m3.jpg
-links_references: "**Links**\n- [Family\n  Strombidae](http://mangrove.nus.edu.sg/pub/seashore/text/140.htm)\
-  \ including the Spider conch (*Lambis lambis*)\n  and the Black-lipped Conch (*Strombus\
-  \ urceus*). Tan, Leo\n  W. H. & Ng, Peter K. L., 1988, *[A\n  Guide to Seashore\
-  \ Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,\n\
-  \  Singapore. 160 pp.\n- [Common\n  spider conch (*Lambis lambis*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86869)\
-  \ on SeaLife Base: Technical\n  fact sheet.\n- [Spider\n  conch (*Lambis lambis*)](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=191)\
-  \ on the NParks Flora and Fauna\n  website.\n- Common spider\n  conch (*Lambis lambis*)\
-  \ in\n  the Gastropods section by J.M. Poutiers in the FAO Species Identification\n\
-  \  Guide for Fishery Purposes: The Living Marine Resources of the\n  Western Central\
-  \ Pacific [Volume\n  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm)\
-  \ on the Food and\n  Agriculture Organization of the United Nations (FAO) website.\n\
-  \n**References**\n- Tan Siong\n  Kiat and Henrietta P. M. Woo, 2010 *Preliminary\n\
-  \  Checklist of The Molluscs of Singapore* (pdf), Raffles\n  Museum of Biodiversity\
-  \ Research, National University of Singapore.\n- Tan, K. S.\n  & L. M. Chou, 2000.\
-  \ *A\n  Guide to the Common Seashells of Singapore*. Singapore\n  Science Centre.\
-  \ 160 pp.\n- Tan, Hugh\n  T.W. L.M. Chou, Darren C. J. Yeo and Peter K.L. Ng. 2007.\
-  \ *The\n  Natural Heritage of Singapore*. Second edition. Prentice\n  Hall. 271\
-  \ pp.\n- Abbott, R.\n  Tucker, 1991. *Seashells\n"
+links_references: '**Links**
+
+  - [Family Strombidae](http://mangrove.nus.edu.sg/pub/seashore/text/140.htm)including
+  the Spider conch (*Lambis lambis*) and the Black-lipped Conch (*Strombus urceus*).
+  Tan, Leo W. H. & Ng, Peter K. L., 1988,*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.
+  The Singapore Science Centre, Singapore. 160 pp.
+
+
+  - [Common spider conch (*Lambis lambis*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86869)on
+  SeaLife Base: Technical fact sheet.
+
+
+  - [Spider conch (*Lambis lambis*)](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=191)on
+  the NParks Flora and Fauna website.
+
+
+  - Common spider conch (*Lambis lambis*) in the Gastropods section by J.M. Poutiers
+  in the FAO Species Identification Guide for Fishery Purposes: The Living Marine
+  Resources of the Western Central Pacific[Volume 1: Seaweeds, corals, bivalves and
+  gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm)on the Food and Agriculture
+  Organization of the United Nations (FAO) website.
+
+
+  **References**
+
+  - Tan Siong Kiat and Henrietta P. M. Woo, 2010*Preliminary Checklist of The Molluscs
+  of Singapore*(pdf), Raffles Museum of Biodiversity Research, National University
+  of Singapore.
+
+
+  - Tan, K. S. & L. M. Chou, 2000.*A Guide to the Common Seashells of Singapore*.
+  Singapore Science Centre. 160 pp.
+
+
+  - Tan, Hugh T.W. L.M. Chou, Darren C. J. Yeo and Peter K.L. Ng. 2007.*The Natural
+  Heritage of Singapore*. Second edition. Prentice Hall. 271 pp.
+
+
+  - Abbott, R. Tucker, 1991.*Seashells of South East Asia*. Graham Brash, Singapore.
+  145 pp.
+
+
+  - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.*The Singapore Red Data
+  Book: Threatened plants and animals of Singapore*. Nature Society (Singapore). 285
+  pp.'
 galleries:
   gallery1:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/lambis/060813jngd6116m3.jpg
@@ -148,27 +175,6 @@ galleries:
   - url: https://farm3.staticflickr.com/2548/4196519281_7794a4b7d7_z.jpg?zz=1
     caption: A spider conch flipping itself back, Tanah Merah, Dec 09 Video clip shared
       by Marcus Ng on his flickr .
-  gallery17:
-  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: 'Links Family Strombidae including the Spider conch ( Lambis lambis )
-      and the Black-lipped Conch ( Strombus urceus ). Tan, Leo W. H. & Ng, Peter K.
-      L., 1988, A Guide to Seashore Life . The Singapore Science Centre, Singapore.
-      160 pp. Common spider conch ( Lambis lambis ) on SeaLife Base: Technical fact
-      sheet. Spider conch ( Lambis lambis ) on the NParks Flora and Fauna website.
-      Common spider conch ( Lambis lambis ) in the Gastropods section by J.M. Poutiers
-      in the FAO Species Identification Guide for Fishery Purposes: The Living Marine
-      Resources of the Western Central Pacific Volume 1: Seaweeds, corals, bivalves
-      and gastropods on the Food and Agriculture Organization of the United Nations
-      (FAO) website. References Tan Siong Kiat and Henrietta P. M. Woo, 2010 Preliminary
-      Checklist of The Molluscs of Singapore (pdf), Raffles Museum of Biodiversity
-      Research, National University of Singapore. Tan, K. S. & L. M. Chou, 2000. A
-      Guide to the Common Seashells of Singapore . Singapore Science Centre. 160 pp.
-      Tan, Hugh T.W. L.M. Chou, Darren C. J. Yeo and Peter K.L. Ng. 2007. The Natural
-      Heritage of Singapore . Second edition. Prentice Hall. 271 pp. Abbott, R. Tucker,
-      1991. Seashells of South East Asia . Graham Brash, Singapore. 145 pp. Davison,
-      G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red Data Book:
-      Threatened plants and animals of Singapore . Nature Society (Singapore). 285
-      pp.'
 location:
 - cj
 - tm

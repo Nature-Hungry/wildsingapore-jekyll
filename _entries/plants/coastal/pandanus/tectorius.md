@@ -24,16 +24,33 @@ order: Pandanales
 inat_id: 70026
 updated: Jan 13
 coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pandanus/tectorius/070520smkd1228m6.jpg
-links_references: "**Links**\n- [*Pandanus\n  tectorius*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=5242)\
-  \ on the NParks Flora and Fauna website: photos\n  and fact sheet.\n- Giesen, Wim\n\
-  \  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.\n  [*Mangrove\n\
-  \  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.htm)\
-  \ (PDF online downloadable).\n  RAP publication 2006/07 Food and Agriculture Organization\
-  \ of the\n  United Nations Regional Office for Asia and the Pacific Bangkok.\n-\
-  \ [Hala,\n  screwpine (*Pandanus tectorius*) (PDF)](http://www.ctahr.hawaii.edu/forestry/Data/CommonTreesHI/CFT_Pandanus_tectorius.pdf)\
-  \ on the [Common\n  Forest Trees of Hawaii](http://www.ctahr.hawaii.edu/forestry/trees/little_skolmen.html)\
-  \ USDA Agriculture Handbook No. 679 Elbert\n  L. Little Jr. and Roger G. Skolmen,\
-  \ 1989\n\n**References**\n- Hsuan Keng,\n  S.C. Chin and H. T. W. Tan.1998, *[The\n"
+links_references: '**Links**
+
+  - [*Pandanus tectorius*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=5242)on
+  the NParks Flora and Fauna website: photos and fact sheet.
+
+
+  - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.[*Mangrove
+  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.htm)(PDF
+  online downloadable). RAP publication 2006/07 Food and Agriculture Organization
+  of the United Nations Regional Office for Asia and the Pacific Bangkok.
+
+
+  - [Hala, screwpine (*Pandanus tectorius*) (PDF)](http://www.ctahr.hawaii.edu/forestry/Data/CommonTreesHI/CFT_Pandanus_tectorius.pdf)on
+  the[Common Forest Trees of Hawaii](http://www.ctahr.hawaii.edu/forestry/trees/little_skolmen.html)USDA
+  Agriculture Handbook No. 679 Elbert L. Little Jr. and Roger G. Skolmen, 1989
+
+
+  **References**
+
+  - Hsuan Keng, S.C. Chin and H. T. W. Tan.1998,*[The Concise Flora of Singapore II:
+  Monoctyledons](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FConcise-Flora-Singapore-Monocotyledons%2Fdp%2F9971692074%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580156%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*Singapore
+  University Press. 215 pp.
+
+
+  - Burkill, I. H., 1993.*[A Dictionary of the Economic Products of the Malay Peninsula](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fdictionary-economic-products-Malay-Peninsula%2Fdp%2FB0006EUWTE%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175505620%26sr%3D1-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*.
+  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
+  Volume 1: 1-1240; volume 2: 1241-2444.'
 galleries:
   gallery1:
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pandanus/tectorius/120407lazd8215m3.jpg
@@ -42,19 +59,6 @@ galleries:
     caption: Male flowers.
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pandanus/tectorius/090315smkd8276m3.jpg
     caption: Male flowers tiny white in a long cone. Pulau Semakau, Mar 09
-  gallery2:
-  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: 'Links Pandanus tectorius on the NParks Flora and Fauna website: photos
-      and fact sheet. Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten.
-      2006. Mangrove Guidebook for Southeast Asia (PDF online downloadable). RAP publication
-      2006/07 Food and Agriculture Organization of the United Nations Regional Office
-      for Asia and the Pacific Bangkok. Hala, screwpine ( Pandanus tectorius ) (PDF)
-      on the Common Forest Trees of Hawaii USDA Agriculture Handbook No. 679 Elbert
-      L. Little Jr. and Roger G. Skolmen, 1989 References Hsuan Keng, S.C. Chin and
-      H. T. W. Tan.1998, The Concise Flora of Singapore II: Monoctyledons Singapore
-      University Press. 215 pp. Burkill, I. H., 1993. A Dictionary of the Economic
-      Products of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of
-      Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.'
 size:
 - 200.0
 - 300.0

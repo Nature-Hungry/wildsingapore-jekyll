@@ -24,11 +24,29 @@ order: Acanthuriformes
 subfamily: Lethrininae
 updated: Sep 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/lethrinidae/nebulosus/100710sisd8119m3.jpg
-links_references: "**Links**  \n- [Spangled\n  emperor (*Lethrinus nebulosus*)](http://www.fishbase.org/summary/speciessummary.php?id=1846)\
-  \ from [FishBase](http://www.fishbase.org/):\n  Technical fact sheet.\n- [Volume\n\
-  \  5: Bony fishes part 3 (Menidae to Pomacentridae)](http://www.fao.org/docrep/009/y0770e/y0770e00)\
-  \ FAO Species\n  Identification Guide for Fishery Purposes The Living Marine Resources\n\
-  \  of the Western Central Pacific.\n\n**References**\n- Allen, Gerry,\n  2000. *Marine\n"
+links_references: '**Links**
+
+  - [Spangled emperor (*Lethrinus nebulosus*)](http://www.fishbase.org/summary/speciessummary.php?id=1846)from[FishBase](http://www.fishbase.org/):
+  Technical fact sheet.
+
+
+  - [Volume 5: Bony fishes part 3 (Menidae to Pomacentridae)](http://www.fao.org/docrep/009/y0770e/y0770e00.htm)FAO
+  Species Identification Guide for Fishery Purposes The Living Marine Resources of
+  the Western Central Pacific.
+
+
+  **References**
+
+  - Allen, Gerry, 2000.*Marine Fishes of South-East Asia: A Field Guide for Anglers
+  and Divers*. Periplus Editions. 292 pp.
+
+
+  - Kuiter, Rudie H. 2002.*Guide to Sea Fishes of Australia: A Comprehensive Reference
+  for Divers & Fishermen*New Holland Publishers. 434pp.
+
+
+  - Lieske, Ewald and Robert Myers. 2001.*Coral Reef Fishes of the World*Periplus
+  Editions. 400pp.'
 galleries:
   gallery1:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/lethrinidae/nebulosus/100710sisd8119m3.jpg
@@ -62,16 +80,6 @@ galleries:
   gallery8:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/lethrinidae/nebulosus/210428slumn2.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Marcus Ng on facebook .
-  gallery9:
-  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: 'Links Spangled emperor ( Lethrinus nebulosus ) from FishBase : Technical
-      fact sheet. Volume 5: Bony fishes part 3 (Menidae to Pomacentridae) FAO Species
-      Identification Guide for Fishery Purposes The Living Marine Resources of the
-      Western Central Pacific. References Allen, Gerry, 2000. Marine Fishes of South-East
-      Asia: A Field Guide for Anglers and Divers . Periplus Editions. 292 pp. Kuiter,
-      Rudie H. 2002. Guide to Sea Fishes of Australia: A Comprehensive Reference for
-      Divers & Fishermen New Holland Publishers. 434pp. Lieske, Ewald and Robert Myers.
-      2001. Coral Reef Fishes of the World Periplus Editions. 400pp.'
 location:
 - chg
 - cj

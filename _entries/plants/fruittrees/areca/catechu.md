@@ -27,10 +27,25 @@ subtribe: Arecinae
 inat_id: 83108
 updated: Nov 10
 coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/areca/catechu/091005cjd2240m6l.jpg
-links_references: "**Links**\n- [*Areca\n  catechu*](http://floraofsingapore.wordpress.com/2010/07/15/areca-catechu/)\
-  \ on Total Vascular Flora of Singapore Online: photos\n  and fact sheet.\n\n**References**\n\
-  - Wee Yeow\n  Chin. 1992. *[A\n  Guide to Medicinal Plants](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*.\
-  \ The Singapore Science Centre.\n  160pp.\n- Burkill,\n  I. H., 1993. *[A\n"
+links_references: '**Links**
+
+  - [*Areca catechu*](http://floraofsingapore.wordpress.com/2010/07/15/areca-catechu/)on
+  Total Vascular Flora of Singapore Online: photos and fact sheet.
+
+
+  **References**
+
+  - Wee Yeow Chin. 1992.*[A Guide to Medicinal Plants](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*.
+  The Singapore Science Centre. 160pp.
+
+
+  - Burkill, I. H., 1993.*[A Dictionary of the Economic Products of the Malay Peninsula](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fdictionary-economic-products-Malay-Peninsula%2Fdp%2FB0006EUWTE%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175505620%26sr%3D1-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*.
+  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
+  Volume 1: 1-1240; volume 2: 1241-2444.
+
+
+  - Whitmore, T. C. 1998 (2nd edition).[*Palms of Malaya*.](http://www.amazon.com/gp/product/0196382424?ie=UTF8&tag=wildsingapo08-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0196382424).
+  White Lotus. 136 pp.'
 galleries:
   gallery1:
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/areca/catechu/091005cjd2244m3a.jpg
@@ -44,15 +59,6 @@ galleries:
     caption: ''
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/areca/catechu/091005cjd2247m3.jpg
     caption: Chek Jawa, Oct 09
-  gallery3:
-  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: 'Links Areca catechu on Total Vascular Flora of Singapore Online: photos
-      and fact sheet. References Wee Yeow Chin. 1992. A Guide to Medicinal Plants
-      . The Singapore Science Centre. 160pp. Burkill, I. H., 1993. A Dictionary of
-      the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit,
-      Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2:
-      1241-2444. Whitmore, T. C. 1998 (2nd edition). Palms of Malaya . . White Lotus.
-      136 pp.'
 size:
 - 1000.0
 authors:

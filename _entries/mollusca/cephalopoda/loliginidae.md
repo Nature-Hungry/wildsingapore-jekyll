@@ -18,15 +18,27 @@ superorder: Decapodiformes
 order: Myopsida
 updated: May 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/sqbigfin/120505sisd0910m6l.jpg
-links_references: "**Links**\n- Family Loliginidae\n  in the Cephalopod section by\
-  \ J.M. Poutiers in the FAO Species\n  Identification Guide for Fishery Purposes:\
-  \ The Living Marine Resources\n  of the Western Central Pacific [Volume\n  1: Seaweeds,\
-  \ corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm)\
-  \ on the Food and\n  Agriculture Organization of the United Nations (FAO) website.\n\
-  \n**References**\n- Tan Siong\n  Kiat and Henrietta P. M. Woo, 2010 *Preliminary\n\
-  \  Checklist of The Molluscs of Singapore* (pdf), Raffles\n  Museum of Biodiversity\
-  \ Research, National University of Singapore.\n- Norman, Mark\n  and Helmut Debelius,\
-  \ 2000. *Cephalopods:\n"
+links_references: '**Links**
+
+  - Family Loliginidae in the Cephalopod section by J.M. Poutiers in the FAO Species
+  Identification Guide for Fishery Purposes: The Living Marine Resources of the Western
+  Central Pacific[Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm)on
+  the Food and Agriculture Organization of the United Nations (FAO) website.
+
+
+  **References**
+
+  - Tan Siong Kiat and Henrietta P. M. Woo, 2010*Preliminary Checklist of The Molluscs
+  of Singapore*(pdf), Raffles Museum of Biodiversity Research, National University
+  of Singapore.
+
+
+  - Norman, Mark and Helmut Debelius, 2000.*Cephalopods: A World Guide*. ConchBooks,
+  Germany. 319 pp
+
+
+  - Norman, Mark and Amanda Reid. 2000.*A Guide to Squid, Cuttlefish and Octopuses
+  of Australasia*The Gould League of Australia. 96pp.'
 galleries:
   gallery1:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/sqbigfin/120505sisd0910m6l.jpg
@@ -38,18 +50,6 @@ galleries:
     caption: Bigfin reef squid
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/sqindian/091008tmd2514m3.jpg
     caption: Indian squid
-  gallery3:
-  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: 'Links Family Loliginidae in the Cephalopod section by J.M. Poutiers
-      in the FAO Species Identification Guide for Fishery Purposes: The Living Marine
-      Resources of the Western Central Pacific Volume 1: Seaweeds, corals, bivalves
-      and gastropods on the Food and Agriculture Organization of the United Nations
-      (FAO) website. References Tan Siong Kiat and Henrietta P. M. Woo, 2010 Preliminary
-      Checklist of The Molluscs of Singapore (pdf), Raffles Museum of Biodiversity
-      Research, National University of Singapore. Norman, Mark and Helmut Debelius,
-      2000. Cephalopods: A World Guide . ConchBooks, Germany. 319 pp Norman, Mark
-      and Amanda Reid. 2000. A Guide to Squid, Cuttlefish and Octopuses of Australasia
-      The Gould League of Australia. 96pp.'
 location:
 - prp
 - chg

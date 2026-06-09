@@ -18,18 +18,48 @@ subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
 coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5992m3.jpg
-links_references: "**Links**\n- [Corals of the World](http://www.coralsoftheworld.org/page/home/)\
-  \ with species factsheets.\n- [IUCN Red List of Threatened Species](https://www.iucnredlist.org/)\
-  \ with species factsheets.\n- *[Cyphastrea](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Cyphastrea)*on\n\
-  \  Reef Corals of the Indo-Malayan Seas, the Marine Species Identification\n  Portal:\
-  \ Technical fact sheet.\n- *[Cyphastrea\n  chalcidium](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46682),\
-  \ [Cyphastrea\n  microphthalma](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46686)*\
-  \ and *[Cyphastrea\n  serailia](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46688)*\
-  \ on\n  SeaLife Base: Technical fact sheet.\n\n**References**\n- Danwei\n  Huang,\
-  \ Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec\n  2009. *An\n  inventory\
-  \ of zooxanthellate sclerectinian corals in Singapore\n  including 33 new records*\
-  \ (pdf). Raffles Bulletin of\n  Zoology Supplement No. 22: 69-80.\n- Veron,\n  Jen.\
-  \ 2000. *Corals\n"
+links_references: '**Links**
+
+  - [Corals of the World](http://www.coralsoftheworld.org/page/home/)with species
+  factsheets.
+
+
+  - [IUCN Red List of Threatened Species](https://www.iucnredlist.org/)with species
+  factsheets.
+
+
+  - *[Cyphastrea](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Cyphastrea)*on
+  Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal:
+  Technical fact sheet.
+
+
+  - *[Cyphastrea chalcidium](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46682),[Cyphastrea
+  microphthalma](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46686)*and*[Cyphastrea
+  serailia](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46688)*on SeaLife
+  Base: Technical fact sheet.
+
+
+  **References**
+
+  - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.*An
+  inventory of zooxanthellate sclerectinian corals in Singapore including 33 new records*(pdf).
+  Raffles Bulletin of Zoology Supplement No. 22: 69-80.
+
+
+  - Veron, Jen. 2000.*Corals of the World*Australian Institute of Marine Science,
+  Australia. 3 volumes.
+
+
+  - Chou, L. M., 1998.*A Guide to the Coral Reef Life of Singapore*. Singapore Science
+  Centre. 128 pages.
+
+
+  - Erhardt, Harry and Daniel Knop. 2005.*Corals: Indo-Pacific Field Guide*IKAN-Unterwasserachiv,
+  Frankfurt. 305 pp.
+
+
+  - Borneman, Eric H. 2001.*Aquarium Corals: Selection, Husbandry and Natural History*T.F.
+  H Publications. 464 pp'
 galleries:
   gallery1:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5992m3.jpg
@@ -57,21 +87,6 @@ galleries:
     caption: Terumbu Berkas, Jan 10
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/cyphastrea/100131slud8886m3.jpg
     caption: Terumbu Salu, Jan 10
-  gallery5:
-  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: 'Links Corals of the World with species factsheets. IUCN Red List of
-      Threatened Species with species factsheets. Cyphastrea on Reef Corals of the
-      Indo-Malayan Seas, the Marine Species Identification Portal: Technical fact
-      sheet. Cyphastrea chalcidium , Cyphastrea microphthalma and Cyphastrea serailia
-      on SeaLife Base: Technical fact sheet. References Danwei Huang, Karenne P. P.
-      Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. An inventory of zooxanthellate
-      sclerectinian corals in Singapore including 33 new records (pdf). Raffles Bulletin
-      of Zoology Supplement No. 22: 69-80. Veron, Jen. 2000. Corals of the World Australian
-      Institute of Marine Science, Australia. 3 volumes. Chou, L. M., 1998. A Guide
-      to the Coral Reef Life of Singapore . Singapore Science Centre. 128 pages. Erhardt,
-      Harry and Daniel Knop. 2005. Corals: Indo-Pacific Field Guide IKAN-Unterwasserachiv,
-      Frankfurt. 305 pp. Borneman, Eric H. 2001. Aquarium Corals: Selection, Husbandry
-      and Natural History T.F. H Publications. 464 pp'
 location:
 - tm
 - lab

@@ -40,18 +40,6 @@ galleries:
     caption: Chek Jawa, Aug 09
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/melaleuca/cajuputi/090823cjd9980m6l.jpg
     caption: Planted along the visitor trail. Chek Jawa, Aug 09
-  gallery3:
-  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: 'References Tee Swee Ping and Wee Mei Lynn (eds). 2001. Trees of our
-      Garden City . National Parks Board. 202 pp. Wee Yeow Chin. 1992. A Guide to
-      Medicinal Plants . The Singapore Science Centre. 160pp Hsuan Keng, S.C. Chin
-      and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and Dicotyledons
-      . Singapore University Press. 222 pp. Corners, E. J. H., 1997. Wayside Trees
-      of Malaya: in two volumes . Fourth edition, Malayan Nature Society, Kuala Lumpur.
-      Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236. Burkill,
-      I. H., 1993. A Dictionary of the Economic Products of the Malay Peninsula .
-      3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
-      Volume 1: 1-1240; volume 2: 1241-2444.'
 size:
 - 1500.0
 - 2000.0
@@ -60,6 +48,29 @@ authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:
 - terrestrial
+links_references: '**References**
+
+  - Tee Swee Ping and Wee Mei Lynn (eds). 2001.*Trees of our Garden City*. National
+  Parks Board. 202 pp.
+
+
+  - Wee Yeow Chin. 1992.*[A Guide to Medicinal Plants](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*.
+  The Singapore Science Centre. 160pp
+
+
+  - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,*[The Concise Flora of Singapore:
+  Gymnosperms and Dicotyledons](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FConcise-Flora-Singapore-Gymnosperms-Dicotyledons%2Fdp%2F9971691353%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580156%26sr%3D8-2&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*.
+  Singapore University Press. 222 pp.
+
+
+  - Corners, E. J. H., 1997.*[Wayside Trees of Malaya: in two volumes](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FWAYSIDE-TREES-MALAYA-2-Volumes%2Fdp%2FB000H9ABCG%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175578169%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*.
+  Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates
+  1-38; volume 2: 477-861 pp., plates 139-236.
+
+
+  - Burkill, I. H., 1993.*[A Dictionary of the Economic Products of the Malay Peninsula](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fdictionary-economic-products-Malay-Peninsula%2Fdp%2FB0006EUWTE%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175505620%26sr%3D1-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*.
+  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
+  Volume 1: 1-1240; volume 2: 1241-2444.'
 ---
 
 ## Where seen?

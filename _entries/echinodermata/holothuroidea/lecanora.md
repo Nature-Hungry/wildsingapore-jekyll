@@ -27,20 +27,39 @@ subclass: Actinopoda
 order: Holothuriida
 updated: Apr 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/lecanora/091204pawd5302m3.jpg
-links_references: "**Links**\n- [Sea\n  cucumbers](http://mangrove.nus.edu.sg/pub/seashore/text/222)\n\
-  \  Tan, Leo W. H. & Ng, Peter K. L., 1988. *A Guide to Seashore\n  Life*. The Singapore\
-  \ Science Centre, Singapore. 160 pp.\n- [*Actinopyga\n  lecanora* (White-bottomed\
-  \ sea cucumber)](http://www.sealifebase.org/summary/Actinopyga-lecanoral) on SeaLife\
-  \ Base:\n  Technical fact sheet.\n- [*Actinopyga\n  lecanora*](http://species-identification.org/species.php?species_group=nasc&id=47)\
-  \ in North Australian Sea Cucumbers in Marine Species\n  Identification Portal:\
-  \ Technical fact sheet.\n- [*Actinopyga\n  lecanora*](http://www.iucnredlist.org/details/180266/0)\
-  \ on the IUCN Red List: Technical fact sheet.\n- *Actinopyga lecanora* on [Commercially\
-  \ important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00),\
-  \ by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.\n\n\
-  **References**\n- Lane, David\n  J.W. and Didier Vandenspiegel. 2003*. A\n  Guide\
-  \ to Sea Stars and Other Echinoderms of Singapore*.\n  Singapore Science Centre.\
-  \ 187pp.\n- Gosliner,\n  Terrence M., David W. Behrens and Gary C. Williams. 1996.\
-  \ *Coral\n  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii\n"
+links_references: '**Links**
+
+  - [Sea cucumbers](http://mangrove.nus.edu.sg/pub/seashore/text/222.htm)Tan, Leo
+  W. H. & Ng, Peter K. L., 1988.*A Guide to Seashore Life*. The Singapore Science
+  Centre, Singapore. 160 pp.
+
+
+  - [*Actinopyga lecanora*(White-bottomed sea cucumber)](http://www.sealifebase.org/summary/Actinopyga-lecanora.html)on
+  SeaLife Base: Technical fact sheet.
+
+
+  - [*Actinopyga lecanora*](http://species-identification.org/species.php?species_group=nasc&id=47)in
+  North Australian Sea Cucumbers in Marine Species Identification Portal: Technical
+  fact sheet.
+
+
+  - [*Actinopyga lecanora*](http://www.iucnredlist.org/details/180266/0)on the IUCN
+  Red List: Technical fact sheet.
+
+
+  - *Actinopyga lecanora*on[Commercially important sea cucumbers of the world](http://www.fao.org/docrep/017/i1918e/i1918e00.htm),
+  by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
+
+
+  **References**
+
+  - Lane, David J.W. and Didier Vandenspiegel. 2003*. A Guide to Sea Stars and Other
+  Echinoderms of Singapore*. Singapore Science Centre. 187pp.
+
+
+  - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.*Coral Reef
+  Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the
+  vertebrates*Sea Challengers. 314pp.'
 galleries:
   gallery1:
   - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/lecanora/091204pawd5302m3.jpg
@@ -93,20 +112,6 @@ galleries:
     caption: Pulau Biola, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
   - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/lecanora/220201brklks3.jpg
     caption: Pulau Berkas, Feb 22 Photo shared by Loh Kok Sheng on facebook .
-  gallery9:
-  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: 'Links Sea cucumbers Tan, Leo W. H. & Ng, Peter K. L., 1988. A Guide
-      to Seashore Life . The Singapore Science Centre, Singapore. 160 pp. Actinopyga
-      lecanora (White-bottomed sea cucumber) on SeaLife Base: Technical fact sheet.
-      Actinopyga lecanora in North Australian Sea Cucumbers in Marine Species Identification
-      Portal: Technical fact sheet. Actinopyga lecanora on the IUCN Red List: Technical
-      fact sheet. Actinopyga lecanora on Commercially important sea cucumbers of the
-      world , by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
-      References Lane, David J.W. and Didier Vandenspiegel. 2003 . A Guide to Sea
-      Stars and Other Echinoderms of Singapore . Singapore Science Centre. 187pp.
-      Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996. Coral Reef
-      Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of
-      the vertebrates Sea Challengers. 314pp.'
 location:
 - snt
 - tkr

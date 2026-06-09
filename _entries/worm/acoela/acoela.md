@@ -39,12 +39,6 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/worm/acoela/acoela/250515tpttl2.jpg
     caption: On Leathery soft coral Terumbu Pempang Tengah, May 25 Photo shared by
       Tammy Lim on facebook .
-  gallery3:
-  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: 'References Gosliner, Terrence M., David W. Behrens and Gary C. Williams.
-      1996. Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
-      exclusive of the vertebrates Sea Challengers. 314pp. Newman, Leslie and Lester
-      Cannon. 2003. Marine Flatworms: The World of Polyclads . CSIRO Publishing. 97pp.'
 location:
 - bb
 - tus
@@ -63,6 +57,15 @@ authors:
 zone:
 - intertidal
 - marine
+links_references: '**References**
+
+  - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.*Coral Reef
+  Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the
+  vertebrates*Sea Challengers. 314pp.
+
+
+  - Newman, Leslie and Lester Cannon. 2003.*Marine Flatworms: The World of Polyclads*.
+  CSIRO Publishing. 97pp.'
 ---
 
 ## Where seen?

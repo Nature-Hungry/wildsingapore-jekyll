@@ -10,34 +10,72 @@ species: Penaeidae
 attributes: []
 updated: Feb 2020
 coverimg: ../../../../Templates/fornatureguides.gif
-links_references: "**Links**\n- [Prawns\n  (*Penaeus* and *Metapenaeus*)](http://mangrove.nus.edu.sg/pub/seashore/text/182)\
-  \ Tan,\n  Leo W. H. & Ng, Peter K. L., 1988, *[A\n  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
-  \ The Singapore Science Centre,\n  Singapore. 160 pp.\n- [Marine\n  prawns (*Penaeus\
-  \ and Metapenaeus* spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2038) Ng, Peter\
-  \ K.\n  L. & N. Sivasothi, 1999. *[A\n  Guide to the Mangroves of Singapore II (Animal\
-  \ Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.\n  Singapore Science Centre.\
-  \ 168 pp.\n- [*Penaeus\n  monodon*](http://www.fao.org/fishery/culturedspecies/Penaeus_monodon/en)\
-  \ and *[Penaeus\n  semisulcatus](http://www.fao.org/fishery/species/3408/en)* on\
-  \ Cultured Aquatic Species Information Programme,\n  FAO Fisheries and Aquaculture\
-  \ Department.\n- [Black\n  tiger prawn (*Penaeus monodon*)](http://www.sealifebase.org/summary/Penaeus-monodonl)\n\
-  \  and [Green\n  tiger prawn (*Penaeus semiculcatus*)](http://sealifebase.org/summary/Penaeus-semisulcatusl)\
-  \ and *[Heteropenaeus\n  longimanus](http://www.sealifebase.ca/summary/Heteropenaeus-longimanusl)*\
-  \ and [Adonis\n  shrimp (*Parapenaeopsis venusta*)](http://www.sealifebase.ca/summary/Parapenaeopsis-venustal)\
-  \ and [Torpedo\n  shrimp (*Parapenaeopsis maxillipedo*)](http://www.sealifebase.ca/summary/Parapenaeopsis-maxillipedol)\
-  \ and [Whiskered\n  velvet shrimp (*Metapenaeopsis barbata*)](http://www.sealifebase.ca/summary/Metapenaeopsis-barbatal)\
-  \ and [Mogi\n  velvet shrimp (*Metapenaeopsis mogiensis*)](http://www.sealifebase.ca/summary/Metapenaeopsis-mogiensisl)\
-  \ and [Jinga\n  shrimp (*Metapenaeus affinis*)](http://www.sealifebase.ca/summary/Metapenaeus-affinisl)\
-  \ and [Yellow\n  shrimp (*Metapenaeus brevicornis*)](http://www.sealifebase.ca/summary/Metapenaeus-brevicornisl)\
-  \ and [Moyebi\n  shrimp (*Metapenaeus moyebi*)](http://www.sealifebase.ca/summary/Metapenaeus-moyebil)\
-  \ and [Periscope\n  shrimp (*Atypopenaeus stenodactylus*)](http://www.sealifebase.ca/summary/Atypopenaeus-stenodactylusl)\
-  \ on SeaLife Base.\n- [Prawn\n  'sex tapes' reveals lust is lacking in captive-breds](http://wildshores.blogspot.com/2009/03/prawn-sex-tapes-reveals-lust-is-lackingl)\
-  \ on the\n  wild shores of singapore blog.\n\n**References**\n- T. Upanoi. *The\
-  \ penaid prawns of the Straits of Johor: Preliminary results*. 10 July 2015. The\
-  \ Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop\
-  \ (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 169-181.\n\
-  - Wee Y.C.\n  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.\n\
-  \  National Council on the Environment. 163pp.\n- Ng, P. K.\n  L. & Y. C. Wee, 1994.\
-  \ *The\n"
+links_references: '**Links**
+
+  - [Prawns (*Penaeus*and*Metapenaeus*)](http://mangrove.nus.edu.sg/pub/seashore/text/182.htm)Tan,
+  Leo W. H. & Ng, Peter K. L., 1988,*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.
+  The Singapore Science Centre, Singapore. 160 pp.
+
+
+  - [Marine prawns (*Penaeus and Metapenaeus*spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2038.htm)Ng,
+  Peter K. L. & N. Sivasothi, 1999.*[A Guide to the Mangroves of Singapore II (Animal
+  Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore Science Centre.
+  168 pp.
+
+
+  - [*Penaeus monodon*](http://www.fao.org/fishery/culturedspecies/Penaeus_monodon/en)and*[Penaeus
+  semisulcatus](http://www.fao.org/fishery/species/3408/en)*on Cultured Aquatic Species
+  Information Programme, FAO Fisheries and Aquaculture Department.
+
+
+  - [Black tiger prawn (*Penaeus monodon*)](http://www.sealifebase.org/summary/Penaeus-monodon.html)and[Green
+  tiger prawn (*Penaeus semiculcatus*)](http://sealifebase.org/summary/Penaeus-semisulcatus.html)and*[Heteropenaeus
+  longimanus](http://www.sealifebase.ca/summary/Heteropenaeus-longimanus.html)*and[Adonis
+  shrimp (*Parapenaeopsis venusta*)](http://www.sealifebase.ca/summary/Parapenaeopsis-venusta.html)and[Torpedo
+  shrimp (*Parapenaeopsis maxillipedo*)](http://www.sealifebase.ca/summary/Parapenaeopsis-maxillipedo.html)and[Whiskered
+  velvet shrimp (*Metapenaeopsis barbata*)](http://www.sealifebase.ca/summary/Metapenaeopsis-barbata.html)and[Mogi
+  velvet shrimp (*Metapenaeopsis mogiensis*)](http://www.sealifebase.ca/summary/Metapenaeopsis-mogiensis.html)and[Jinga
+  shrimp (*Metapenaeus affinis*)](http://www.sealifebase.ca/summary/Metapenaeus-affinis.html)and[Yellow
+  shrimp (*Metapenaeus brevicornis*)](http://www.sealifebase.ca/summary/Metapenaeus-brevicornis.html)and[Moyebi
+  shrimp (*Metapenaeus moyebi*)](http://www.sealifebase.ca/summary/Metapenaeus-moyebi.html)and[Periscope
+  shrimp (*Atypopenaeus stenodactylus*)](http://www.sealifebase.ca/summary/Atypopenaeus-stenodactylus.html)on
+  SeaLife Base.
+
+
+  - [Prawn ''sex tapes'' reveals lust is lacking in captive-breds](http://wildshores.blogspot.com/2009/03/prawn-sex-tapes-reveals-lust-is-lacking.html)on
+  the wild shores of singapore blog.
+
+
+  **References**
+
+  - T. Upanoi.*The penaid prawns of the Straits of Johor: Preliminary results*. 10
+  July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International
+  Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 169-181.
+
+
+  - Wee Y.C. and Peter K. L. Ng. 1994.*A First Look at Biodiversity in Singapore*.
+  National Council on the Environment. 163pp.
+
+
+  - Ng, P. K. L. & Y. C. Wee, 1994.*The Singapore Red Data Book: Threatened Plants
+  and Animals of Singapore*. The Nature Society (Singapore), Singapore. 343 pp.
+
+
+  - Ong, Jin Eong & Gong, Wooi Khoon (eds.), 2001.*The Encyclopedia of Malaysia (Vol.
+  6): The Seas*Didier Millet, Malaysia. 144 pp.
+
+
+  - Jones Diana S. and Gary J. Morgan, 2002.*A Field Guide to Crustaceans of Australian
+  Waters*. Reed New Holland. 224 pp.
+
+
+  - Debelius, Helmut, 2001.*Crustacea Guide of the World: Atlantic Ocean, Indian Ocean,
+  Pacific Ocean*IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+
+
+  - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.*Coral Reef
+  Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the
+  vertebrates*Sea Challengers. 314pp.'
 galleries:
   gallery1:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penbanded/050721cjg9666m3.jpg
@@ -58,36 +96,6 @@ galleries:
   gallery3:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penspeckled/091106smkd3846m3.jpg
     caption: Speckled penaeid prawns
-  gallery4:
-  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: 'Links Prawns ( Penaeus and Metapenaeus ) Tan, Leo W. H. & Ng, Peter
-      K. L., 1988, A Guide to Seashore Life . The Singapore Science Centre, Singapore.
-      160 pp. Marine prawns ( Penaeus and Metapenaeus spp.) Ng, Peter K. L. & N. Sivasothi,
-      1999. A Guide to the Mangroves of Singapore II (Animal Diversity) . Singapore
-      Science Centre. 168 pp. Penaeus monodon and Penaeus semisulcatus on Cultured
-      Aquatic Species Information Programme, FAO Fisheries and Aquaculture Department.
-      Black tiger prawn ( Penaeus monodon ) and Green tiger prawn ( Penaeus semiculcatus
-      ) and Heteropenaeus longimanus and Adonis shrimp ( Parapenaeopsis venusta )
-      and Torpedo shrimp ( Parapenaeopsis maxillipedo ) and Whiskered velvet shrimp
-      ( Metapenaeopsis barbata ) and Mogi velvet shrimp ( Metapenaeopsis mogiensis
-      ) and Jinga shrimp ( Metapenaeus affinis ) and Yellow shrimp ( Metapenaeus brevicornis
-      ) and Moyebi shrimp ( Metapenaeus moyebi ) and Periscope shrimp ( Atypopenaeus
-      stenodactylus ) on SeaLife Base. Prawn ''sex tapes'' reveals lust is lacking
-      in captive-breds on the wild shores of singapore blog. References T. Upanoi.
-      The penaid prawns of the Straits of Johor: Preliminary results . 10 July 2015.
-      The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop
-      (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 169-181.
-      Wee Y.C. and Peter K. L. Ng. 1994. A First Look at Biodiversity in Singapore
-      . National Council on the Environment. 163pp. Ng, P. K. L. & Y. C. Wee, 1994.
-      The Singapore Red Data Book: Threatened Plants and Animals of Singapore . The
-      Nature Society (Singapore), Singapore. 343 pp. Ong, Jin Eong & Gong, Wooi Khoon
-      (eds.), 2001. The Encyclopedia of Malaysia (Vol. 6): The Seas Didier Millet,
-      Malaysia. 144 pp. Jones Diana S. and Gary J. Morgan, 2002. A Field Guide to
-      Crustaceans of Australian Waters . Reed New Holland. 224 pp. Debelius, Helmut,
-      2001. Crustacea Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean
-      IKAN-Unterwasserachiv, Frankfurt. 321 pp. Gosliner, Terrence M., David W. Behrens
-      and Gary C. Williams. 1996. Coral Reef Animals of the Indo-Pacific: Animal life
-      from Africa to Hawaii exclusive of the vertebrates Sea Challengers. 314pp.'
 location:
 - chg
 - cj

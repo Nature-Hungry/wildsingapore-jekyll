@@ -18,18 +18,39 @@ subclass: Heterobranchia
 superfamily: Architectonicoidea
 updated: Sep 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/perdix/170401tpto4010158.jpg
-links_references: "**Links**\n- [Family\n  Architectonicidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Architectonicidae.html)\
-  \ on The Gladys Archerd Shell Collection at\n  Washington State University Tri-Cities\
-  \ Natural History Museum\n  website: brief fact sheet with photos.\n- [*Architectonica\n\
-  \  perdix*](http://www.sealifebase.fisheries.ubc.ca/summary/Architectonica-perdix.html)\
-  \ in SeaLife Base: Technical fact sheet.\n\n**References**  \n- Neo Mei Lin. 29\
-  \ Sep 2017. *Possible mating and spawning behaviour of partridge sundial snails*.\
-  \ Singapore Biodiversity Records 2017: 121-122.\n- Tan Siong Kiat & Chan Sow-Yan.\
-  \ 31 Aug 2017. *Recent sightings of two species of sundial shells at eastern Singapore*.\
-  \ Singapore Biodiversity Records 2017: 116-118.\n- Tan\n  Siong Kiat and Henrietta\
-  \ P. M. Woo, 2010 *Preliminary\n  Checklist of The Molluscs of Singapore* (pdf),\
-  \ Raffles\n  Museum of Biodiversity Research, National University of Singapore.\n\
-  - Abbott,\n  R. Tucker, 1991. *Seashells\n"
+links_references: '**Links**
+
+  - [Family Architectonicidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Architectonicidae.html)on
+  The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural
+  History Museum website: brief fact sheet with photos.
+
+
+  - [*Architectonica perdix*](http://www.sealifebase.fisheries.ubc.ca/summary/Architectonica-perdix.html)in
+  SeaLife Base: Technical fact sheet.
+
+
+  **References**
+
+  - Neo Mei Lin. 29 Sep 2017.*Possible mating and spawning behaviour of partridge
+  sundial snails*. Singapore Biodiversity Records 2017: 121-122.
+
+
+  - Tan Siong Kiat & Chan Sow-Yan. 31 Aug 2017.*Recent sightings of two species of
+  sundial shells at eastern Singapore*. Singapore Biodiversity Records 2017: 116-118.
+
+
+  - Tan Siong Kiat and Henrietta P. M. Woo, 2010*Preliminary Checklist of The Molluscs
+  of Singapore*(pdf), Raffles Museum of Biodiversity Research, National University
+  of Singapore.
+
+
+  - Abbott, R. Tucker, 1991.*Seashells of South East Asia*. Graham Brash, Singapore.
+  145 pp.
+
+
+  - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.*Coral Reef
+  Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the
+  vertebrates*Sea Challengers. 314pp.'
 galleries:
   gallery1:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/perdix/170401tpto4010158.jpg
@@ -48,22 +69,6 @@ galleries:
       .
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/perdix/120330cjtch1m3.jpg
     caption: Photo shared by Toh Chay Hoon on facebook . Chek Jawa, Mar 13
-  gallery4:
-  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: 'Links Family Architectonicidae on The Gladys Archerd Shell Collection
-      at Washington State University Tri-Cities Natural History Museum website: brief
-      fact sheet with photos. Architectonica perdix in SeaLife Base: Technical fact
-      sheet. References Neo Mei Lin. 29 Sep 2017. Possible mating and spawning behaviour
-      of partridge sundial snails . Singapore Biodiversity Records 2017: 121-122.
-      Tan Siong Kiat & Chan Sow-Yan. 31 Aug 2017. Recent sightings of two species
-      of sundial shells at eastern Singapore . Singapore Biodiversity Records 2017:
-      116-118. Tan Siong Kiat and Henrietta P. M. Woo, 2010 Preliminary Checklist
-      of The Molluscs of Singapore (pdf), Raffles Museum of Biodiversity Research,
-      National University of Singapore. Abbott, R. Tucker, 1991. Seashells of South
-      East Asia . Graham Brash, Singapore. 145 pp. Gosliner, Terrence M., David W.
-      Behrens and Gary C. Williams. 1996. Coral Reef Animals of the Indo-Pacific:
-      Animal life from Africa to Hawaii exclusive of the vertebrates Sea Challengers.
-      314pp.'
 location:
 - cj
 - ecp

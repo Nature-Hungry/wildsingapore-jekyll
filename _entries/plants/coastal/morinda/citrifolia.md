@@ -23,36 +23,50 @@ subfamily: Rubioideae
 tribe: Morindeae
 updated: Jan 13
 coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/morinda/citrifolia/090124ubnd5992m3.jpg
-links_references: "**Links**\n- *[Morinda\n  citrifolia](http://floraofsingapore.wordpress.com/2010/08/01/morinda-citrifolia/)*\
-  \ on Total Vascular Flora of Singapore Online:\n  photos and fact sheet.\n- *[Morinda\n\
-  \  citrifolia](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3033)*\
-  \ on the NParks Flora and Fauna website: photos\n  and fact sheet.\n- *[Morinda\n\
-  \  citrifolia](http://taxo4254.wikispaces.com/Morinda+citrifolia)* (Gentianales:\
-  \ Rubiaceae) Noni by Chen Junhao,\n  2012 on taxo4254.\n- Giesen,\n  Wim and Stephan\
-  \ Wulffraat, Max Zieren and Liesbeth Scholten. 2006.\n  [*Mangrove\n  Guidebook\
-  \ for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.htm) (PDF online\
-  \ downloadable).\n  RAP publication 2006/07 Food and Agriculture Organization of\
-  \ the\n  United Nations Regional Office for Asia and the Pacific Bangkok.\n\n**References**\n\
-  - Hsuan Keng,\n  S.C. Chin and H. T. W. Tan. 1990, *[The\n"
-galleries:
-  gallery1:
-  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: 'Links Morinda citrifolia on Total Vascular Flora of Singapore Online:
-      photos and fact sheet. Morinda citrifolia on the NParks Flora and Fauna website:
-      photos and fact sheet. Morinda citrifolia (Gentianales: Rubiaceae) Noni by Chen
-      Junhao, 2012 on taxo4254. Giesen, Wim and Stephan Wulffraat, Max Zieren and
-      Liesbeth Scholten. 2006. Mangrove Guidebook for Southeast Asia (PDF online downloadable).
-      RAP publication 2006/07 Food and Agriculture Organization of the United Nations
-      Regional Office for Asia and the Pacific Bangkok. References Hsuan Keng, S.C.
-      Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and
-      Dicotyledons . Singapore University Press. 222 pp. Wee Yeow Chin. 1992. A Guide
-      to Medicinal Plants . The Singapore Science Centre. 160pp Corners, E. J. H.,
-      1997. Wayside Trees of Malaya: in two volumes . Fourth edition, Malayan Nature
-      Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp.,
-      plates 139-236. Burkill, I. H., 1993. A Dictionary of the Economic Products
-      of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture,
-      Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444. Wee Yeow Chin.
-      1992. A Guide to Medicinal Plants . The Singapore Science Centre. 160pp.'
+links_references: '**Links**
+
+  - *[Morinda citrifolia](http://floraofsingapore.wordpress.com/2010/08/01/morinda-citrifolia/)*on
+  Total Vascular Flora of Singapore Online: photos and fact sheet.
+
+
+  - *[Morinda citrifolia](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3033)*on
+  the NParks Flora and Fauna website: photos and fact sheet.
+
+
+  - *[Morinda citrifolia](http://taxo4254.wikispaces.com/Morinda+citrifolia)*(Gentianales:
+  Rubiaceae) Noni by Chen Junhao, 2012 on taxo4254.
+
+
+  - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.[*Mangrove
+  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.htm)(PDF
+  online downloadable). RAP publication 2006/07 Food and Agriculture Organization
+  of the United Nations Regional Office for Asia and the Pacific Bangkok.
+
+
+  **References**
+
+  - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,*[The Concise Flora of Singapore:
+  Gymnosperms and Dicotyledons](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FConcise-Flora-Singapore-Gymnosperms-Dicotyledons%2Fdp%2F9971691353%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580156%26sr%3D8-2&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*.
+  Singapore University Press. 222 pp.
+
+
+  - Wee Yeow Chin. 1992.*[A Guide to Medicinal Plants](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*.
+  The Singapore Science Centre. 160pp
+
+
+  - Corners, E. J. H., 1997.*[Wayside Trees of Malaya: in two volumes](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FWAYSIDE-TREES-MALAYA-2-Volumes%2Fdp%2FB000H9ABCG%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175578169%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*.
+  Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates
+  1-38; volume 2: 477-861 pp., plates 139-236.
+
+
+  - Burkill, I. H., 1993.*[A Dictionary of the Economic Products of the Malay Peninsula](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fdictionary-economic-products-Malay-Peninsula%2Fdp%2FB0006EUWTE%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175505620%26sr%3D1-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*.
+  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
+  Volume 1: 1-1240; volume 2: 1241-2444.
+
+
+  - Wee Yeow Chin. 1992.*[A Guide to Medicinal Plants](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*.
+  The Singapore Science Centre. 160pp.'
+galleries: {}
 size:
 - 300.0
 - 1000.0

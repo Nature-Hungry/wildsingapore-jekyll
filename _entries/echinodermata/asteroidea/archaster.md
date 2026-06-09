@@ -23,30 +23,62 @@ superorder: Valvatacea
 order: Valvatida
 updated: Mar 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/archaster/031207cjd0027m3.jpg
-links_references: "**Links**\n- [Sea\n  star (*Archaster typicus*)](http://mangrove.nus.edu.sg/pub/seashore/text/221)\
-  \ Tan, Leo W. H. & Ng, Peter\n  K. L., 1988. *[A\n  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
-  \ The Singapore Science Centre,\n  Singapore. 160 pp.\n- [*Archaster\n  typicus*](http://www.sealifebase.org/summary/Archaster-typicusl)\
-  \ on Sealife Base: Technical fact sheet.\n- [*Archaster typicus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Archaster%20typicusl)\
-  \ (Valvatida: Archasteridae) Common Sea Star by Chan Yong Kit Samuel, 2015, on taxo4254.\n\
-  \n**References**\n- Loisette M. Marsh and Jane Fromont. *Field Guide to Shallow\
-  \ Water Seastars of Australia*. 2020. Western Australian Museum. 543pp.\n- J. Q.\
-  \ Run\n  *et al.* [Mating\n  behaviour and reproductive cycle of *Archaster typicus*\
-  \ (Echinodermata:\n  Asteroidea)](http://link.springer.com/article/10.1007%2FBF00391987).\
-  \ Marine Biology September 1988, Volume 99, Issue\n  2, pp 247-253.\n- Arthur R.\n\
-  \  Bos et al. [Ontogenetic\n  habitat shift, population growth, and burrowing behavior\
-  \ of the\n  Indo-Pacific beach star, *Archaster typicus* (Echinodermata;\n  Asteroidea)](http://link.springer.com/article/10.1007%2Fs00227-010-1588-0).\
-  \ Marine Biology March 2011, Volume 158, Issue\n  3, pp 639-648.\n- Lane, David\n\
-  \  J.W. and Didier Vandenspiegel. 2003*. A\n  Guide to Sea Stars and Other Echinoderms\
-  \ of Singapore*.\n  Singapore Science Centre. 187pp.\n- Didier VandenSpiegel\n \
-  \ et al. 1998. *The\n  Asteroid fauna (Echinodermata) of Singapore with a distribution\n\
-  \  table and illustrated identification to the species*. The Raffles\n  Bulletin\
-  \ of Zoology 1998 46(2): 431-470.\n- Coleman,\n  Neville. 2007. Sea\n  stars: Echinoderms\
-  \ of Asia/Indo-Pacific. Neville Coleman's\n  Underwater Geographic Pty Ltd, Australia.136pp.\n\
-  - Chou, L.\n  M., 1998. *A\n  Guide to the Coral Reef Life of Singapore*. Singapore\
-  \ Science\n  Centre. 128 pages.\n- Davison,\n  G.W. H. and P. K. L. Ng and Ho Hua\
-  \ Chew, 2008. *The Singapore\n  Red Data Book: Threatened plants and animals of\
-  \ Singapore*.\n  Nature Society (Singapore). 285 pp.\n- Schoppe,\n  Sabine, 2000.\
-  \ *Echinoderms\n  of the Philippines: A guide to common shallow water sea stars,\n"
+links_references: '**Links**
+
+  - [Sea star (*Archaster typicus*)](http://mangrove.nus.edu.sg/pub/seashore/text/221.htm)Tan,
+  Leo W. H. & Ng, Peter K. L., 1988.*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.
+  The Singapore Science Centre, Singapore. 160 pp.
+
+
+  - [*Archaster typicus*](http://www.sealifebase.org/summary/Archaster-typicus.html)on
+  Sealife Base: Technical fact sheet.
+
+
+  - [*Archaster typicus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Archaster%20typicus.html)(Valvatida:
+  Archasteridae) Common Sea Star by Chan Yong Kit Samuel, 2015, on taxo4254.
+
+
+  **References**
+
+  - Loisette M. Marsh and Jane Fromont.*Field Guide to Shallow Water Seastars of Australia*.
+  2020. Western Australian Museum. 543pp.
+
+
+  - J. Q. Run*et al.*[Mating behaviour and reproductive cycle of*Archaster typicus*(Echinodermata:
+  Asteroidea)](http://link.springer.com/article/10.1007%2FBF00391987). Marine Biology
+  September 1988, Volume 99, Issue 2, pp 247-253.
+
+
+  - Arthur R. Bos et al.[Ontogenetic habitat shift, population growth, and burrowing
+  behavior of the Indo-Pacific beach star,*Archaster typicus*(Echinodermata; Asteroidea)](http://link.springer.com/article/10.1007%2Fs00227-010-1588-0).
+  Marine Biology March 2011, Volume 158, Issue 3, pp 639-648.
+
+
+  - Lane, David J.W. and Didier Vandenspiegel. 2003*. A Guide to Sea Stars and Other
+  Echinoderms of Singapore*. Singapore Science Centre. 187pp.
+
+
+  - Didier VandenSpiegel et al. 1998.*The Asteroid fauna (Echinodermata) of Singapore
+  with a distribution table and illustrated identification to the species*. The Raffles
+  Bulletin of Zoology 1998 46(2): 431-470.
+
+
+  - Coleman, Neville. 2007. Sea stars: Echinoderms of Asia/Indo-Pacific. Neville Coleman''s
+  Underwater Geographic Pty Ltd, Australia.136pp.
+
+
+  - Chou, L. M., 1998.*A Guide to the Coral Reef Life of Singapore*. Singapore Science
+  Centre. 128 pages.
+
+
+  - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.*The Singapore Red Data
+  Book: Threatened plants and animals of Singapore*. Nature Society (Singapore). 285
+  pp.
+
+
+  - Schoppe, Sabine, 2000.*Echinoderms of the Philippines: A guide to common shallow
+  water sea stars, brittle stars, sea urchins, sea cucumbers and feather stars*. Times
+  Edition, Singapore. 144 pp.'
 galleries:
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/archaster/031207cjd0027m3.jpg
@@ -135,31 +167,6 @@ galleries:
     caption: Pulau Senang, Aug 10 Photo shared by Loh Kok Sheng on his flickr .
   - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/archaster/100130brkd8493m3.jpg
     caption: Terumbu Berkas, Jan 10
-  gallery17:
-  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: 'Links Sea star ( Archaster typicus ) Tan, Leo W. H. & Ng, Peter K. L.,
-      1988. A Guide to Seashore Life . The Singapore Science Centre, Singapore. 160
-      pp. Archaster typicus on Sealife Base: Technical fact sheet. Archaster typicus
-      (Valvatida: Archasteridae) Common Sea Star by Chan Yong Kit Samuel, 2015, on
-      taxo4254. References Loisette M. Marsh and Jane Fromont. Field Guide to Shallow
-      Water Seastars of Australia . 2020. Western Australian Museum. 543pp. J. Q.
-      Run et al. Mating behaviour and reproductive cycle of Archaster typicus (Echinodermata:
-      Asteroidea) . Marine Biology September 1988, Volume 99, Issue 2, pp 247-253.
-      Arthur R. Bos et al. Ontogenetic habitat shift, population growth, and burrowing
-      behavior of the Indo-Pacific beach star, Archaster typicus (Echinodermata; Asteroidea)
-      . Marine Biology March 2011, Volume 158, Issue 3, pp 639-648. Lane, David J.W.
-      and Didier Vandenspiegel. 2003 . A Guide to Sea Stars and Other Echinoderms
-      of Singapore . Singapore Science Centre. 187pp. Didier VandenSpiegel et al.
-      1998. The Asteroid fauna (Echinodermata) of Singapore with a distribution table
-      and illustrated identification to the species . The Raffles Bulletin of Zoology
-      1998 46(2): 431-470. Coleman, Neville. 2007. Sea stars: Echinoderms of Asia/Indo-Pacific.
-      Neville Coleman''s Underwater Geographic Pty Ltd, Australia.136pp. Chou, L.
-      M., 1998. A Guide to the Coral Reef Life of Singapore . Singapore Science Centre.
-      128 pages. Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore
-      Red Data Book: Threatened plants and animals of Singapore . Nature Society (Singapore).
-      285 pp. Schoppe, Sabine, 2000. Echinoderms of the Philippines: A guide to common
-      shallow water sea stars, brittle stars, sea urchins, sea cucumbers and feather
-      stars . Times Edition, Singapore. 144 pp.'
 location:
 - chg
 - cj

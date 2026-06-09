@@ -19,33 +19,37 @@ order: Cycloneritida
 superfamily: Neritoidea
 updated: Sep 2020
 coverimg: ../../../../Templates/fornatureguides.gif
-links_references: "**Links**\n- [Common\n  nerite (*Nerita lineata*)](http://mangrove.nus.edu.sg/guidebooks/text/2078.htm)\
-  \ and [Violet\n  nerite (*Dostia violacea*)](http://mangrove.nus.edu.sg/guidebooks/text/2079.htm)\
-  \ Ng, Peter K. L. & N. Sivasothi,\n  1999. *[A Guide\n  to the Mangroves of Singapore\
-  \ II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore\n \
-  \ Science Centre. 168 pp.\n- [*Nerita*\n  sp and *Clithon oualaniensis*](http://mangrove.nus.edu.sg/pub/seashore/text/135.htm)\
-  \ Tan, Leo W. H. & Ng, Peter\n  K. L., 1988. *[A\n  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
-  \ The Singapore Science Centre,\n  Singapore. 160 pp.\n- [Family\n  Neritidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Neritidae.html)\
-  \ on The Gladys Archerd Shell Collection at Washington\n  State University Tri-Cities\
-  \ Natural History Museum website: brief\n  fact sheet on Nerites with photos.\n\
-  - Family Neritidae\n  in\n  the Gastropods section by J.M. Poutiers in the FAO Species\
-  \ Identification\n  Guide for Fishery Purposes: The Living Marine Resources of the\n\
-  \  Western Central Pacific [Volume\n  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm)\
-  \ on the Food and\n  Agriculture Organization of the United Nations (FAO) website.\n\
-  \n**References**\n- Chan Sow-Yan & Lau Wing Lup. 30 October 2020. *Disruption in\
-  \ shell colour patterns of nerite snails*. Singapore Biodiversity Records 2020:\
-  \ 181-182. The National University of Singapore.\n- Tan Siong Kiat, Toh Chay Hoon.\
-  \ 31 Oct 2017. *First Singapore record of Souverbie\u2019s nerite, Smaragdia souverbiana*.\
-  \ Singapore Biodiversity Records 2017:140-141.\n- Tan Siong\n  Kiat and Henrietta\
-  \ P. M. Woo, 2010 *Preliminary\n  Checklist of The Molluscs of Singapore* (pdf),\
-  \ Raffles\n  Museum of Biodiversity Research, National University of Singapore.\n\
-  - Tan, S.K.\n  & Clements, R. (2008) [Taxonomy\n  and distribution of the Neritidae\
-  \ (Mollusca: Gastropoda) on Singapore](http://zoolstud.sinica.edu.tw/Journals/47.4/481.pdf).\n\
-  \  Zoological Studies 47(4): 481-494.\n- Tan, K. S.\n  & L. M. Chou, 2000. *A\n\
-  \  Guide to the Common Seashells of Singapore*. Singapore\n  Science Centre. 160\
-  \ pp.\n- Wee Y.C.\n  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in\
-  \ Singapore*.\n  National Council on the Environment. 163pp.\n- Ng, P. K.\n  L.\
-  \ & Y. C. Wee, 1994. *The\n"
+links_references: "**Links**\n- [Common nerite (*Nerita lineata*)](http://mangrove.nus.edu.sg/guidebooks/text/2078.htm)and[Violet\
+  \ nerite (*Dostia violacea*)](http://mangrove.nus.edu.sg/guidebooks/text/2079.htm)Ng,\
+  \ Peter K. L. & N. Sivasothi, 1999.*[A Guide to the Mangroves of Singapore II (Animal\
+  \ Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore Science Centre.\
+  \ 168 pp.\n\n- [*Nerita*sp and*Clithon oualaniensis*](http://mangrove.nus.edu.sg/pub/seashore/text/135.htm)Tan,\
+  \ Leo W. H. & Ng, Peter K. L., 1988.*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
+  \ The Singapore Science Centre, Singapore. 160 pp.\n\n- [Family Neritidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Neritidae.html)on\
+  \ The Gladys Archerd Shell Collection at Washington State University Tri-Cities\
+  \ Natural History Museum website: brief fact sheet on Nerites with photos.\n\n-\
+  \ Family Neritidae in the Gastropods section by J.M. Poutiers in the FAO Species\
+  \ Identification Guide for Fishery Purposes: The Living Marine Resources of the\
+  \ Western Central Pacific[Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm)on\
+  \ the Food and Agriculture Organization of the United Nations (FAO) website.\n\n\
+  **References**\n- Chan Sow-Yan & Lau Wing Lup. 30 October 2020.*Disruption in shell\
+  \ colour patterns of nerite snails*. Singapore Biodiversity Records 2020: 181-182.\
+  \ The National University of Singapore.\n\n- Tan Siong Kiat, Toh Chay Hoon. 31 Oct\
+  \ 2017.*First Singapore record of Souverbie\u2019s nerite, Smaragdia souverbiana*.\
+  \ Singapore Biodiversity Records 2017:140-141.\n\n- Tan Siong Kiat and Henrietta\
+  \ P. M. Woo, 2010*Preliminary Checklist of The Molluscs of Singapore*(pdf), Raffles\
+  \ Museum of Biodiversity Research, National University of Singapore.\n\n- Tan, S.K.\
+  \ & Clements, R. (2008)[Taxonomy and distribution of the Neritidae (Mollusca: Gastropoda)\
+  \ on Singapore](http://zoolstud.sinica.edu.tw/Journals/47.4/481.pdf). Zoological\
+  \ Studies 47(4): 481-494.\n\n- Tan, K. S. & L. M. Chou, 2000.*A Guide to the Common\
+  \ Seashells of Singapore*. Singapore Science Centre. 160 pp.\n\n- Wee Y.C. and Peter\
+  \ K. L. Ng. 1994.*A First Look at Biodiversity in Singapore*. National Council on\
+  \ the Environment. 163pp.\n\n- Ng, P. K. L. & Y. C. Wee, 1994.*The Singapore Red\
+  \ Data Book: Threatened Plants and Animals of Singapore*. The Nature Society (Singapore),\
+  \ Singapore. 343 pp.\n\n- Abbott, R. Tucker, 1991.*Seashells of South East Asia*.\
+  \ Graham Brash, Singapore. 145 pp.\n\n- Coleman, Neville. 2003.*2002 Sea Shells:\
+  \ Catalogue of Indo-Pacific Mollusca*. Neville Coleman's Underwater Geographic Pty\
+  \ Ltd, Australia.144pp."
 galleries:
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/chamaeleon/051105sisg2949m3a.jpg
@@ -91,36 +95,6 @@ galleries:
     caption: Black-mouth nerite
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/grayana/130317krjd4642m3.jpg
     caption: Grey mangrove nerite
-  gallery9:
-  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: "Links Common nerite ( Nerita lineata ) and Violet nerite ( Dostia violacea\
-      \ ) Ng, Peter K. L. & N. Sivasothi, 1999. A Guide to the Mangroves of Singapore\
-      \ II (Animal Diversity) . Singapore Science Centre. 168 pp. Nerita sp and Clithon\
-      \ oualaniensis Tan, Leo W. H. & Ng, Peter K. L., 1988. A Guide to Seashore Life\
-      \ . The Singapore Science Centre, Singapore. 160 pp. Family Neritidae on The\
-      \ Gladys Archerd Shell Collection at Washington State University Tri-Cities\
-      \ Natural History Museum website: brief fact sheet on Nerites with photos. Family\
-      \ Neritidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification\
-      \ Guide for Fishery Purposes: The Living Marine Resources of the Western Central\
-      \ Pacific Volume 1: Seaweeds, corals, bivalves and gastropods on the Food and\
-      \ Agriculture Organization of the United Nations (FAO) website. References Chan\
-      \ Sow-Yan & Lau Wing Lup. 30 October 2020. Disruption in shell colour patterns\
-      \ of nerite snails . Singapore Biodiversity Records 2020: 181-182. The National\
-      \ University of Singapore. Tan Siong Kiat, Toh Chay Hoon. 31 Oct 2017. First\
-      \ Singapore record of Souverbie\u2019s nerite, Smaragdia souverbiana . Singapore\
-      \ Biodiversity Records 2017:140-141. Tan Siong Kiat and Henrietta P. M. Woo,\
-      \ 2010 Preliminary Checklist of The Molluscs of Singapore (pdf), Raffles Museum\
-      \ of Biodiversity Research, National University of Singapore. Tan, S.K. & Clements,\
-      \ R. (2008) Taxonomy and distribution of the Neritidae (Mollusca: Gastropoda)\
-      \ on Singapore . Zoological Studies 47(4): 481-494. Tan, K. S. & L. M. Chou,\
-      \ 2000. A Guide to the Common Seashells of Singapore . Singapore Science Centre.\
-      \ 160 pp. Wee Y.C. and Peter K. L. Ng. 1994. A First Look at Biodiversity in\
-      \ Singapore . National Council on the Environment. 163pp. Ng, P. K. L. & Y.\
-      \ C. Wee, 1994. The Singapore Red Data Book: Threatened Plants and Animals of\
-      \ Singapore . The Nature Society (Singapore), Singapore. 343 pp. Abbott, R.\
-      \ Tucker, 1991. Seashells of South East Asia . Graham Brash, Singapore. 145\
-      \ pp. Coleman, Neville. 2003. 2002 Sea Shells: Catalogue of Indo-Pacific Mollusca\
-      \ . Neville Coleman's Underwater Geographic Pty Ltd, Australia.144pp."
 location:
 - tus
 - tm

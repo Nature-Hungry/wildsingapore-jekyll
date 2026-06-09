@@ -19,27 +19,31 @@ superorder: Valvatacea
 order: Paxillosida
 updated: Mar 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandplain/080702prpd6358m3.jpg
-links_references: "**Links**\n- [Sand\n  star (*Astropecten* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/221)\n\
-  \  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A\n  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
-  \ The Singapore Science Centre,\n  Singapore. 160 pp.\n- *[Astropecten\n  bengalensis](http://www.sealifebase.fisheries.ubc.ca/summary/Astropecten-bengalensisl)*\
-  \ and [*Astropecten\n  indicus*](http://www.sealifebase.org/summary/Astropecten-indicusl)\
-  \ from Sealife Base: Technical fact sheet.\n- From The\n  Echinoblog by Dr Chris\
-  \ Mah\n  - [Telling\n    Apart Sand Stars: Archaster vs. Astropecten! Two Common\
-  \ Trade\n    Species](http://echinoblog.blogspot.sg/2011/04/telling-apart-sand-stars-archaster-vsl)\n\
-  \  - [What\n    are the FASTEST known Starfish??](http://echinoblog.blogspot.sg/2012/07/what-are-fastest-known-starfishl)\n\
-  \  - [SAND\n    ANGELS! Astropecten The starfish that dig it!](http://echinoblog.blogspot.sg/2013/12/sand-angels-astropectnen-starfish-thatl)\n\
-  \n**References**\n- Loisette M. Marsh and Jane Fromont. *Field Guide to Shallow\
-  \ Water Seastars of Australia*. 2020. Western Australian Museum. 543pp\n- K. S.\
-  \ Loh\n  . 31 Aug.2011. *Diet\n  and feeding in the sea star Astropecten indicus\
-  \ (Doderlein,\n  1888)*. The Raffles Bulletin of Zoology 2011 59 (2): 251-258\n\
-  \  and Loh Kok Sheng's [blog\n  post about this study](http://wondercreation.blogspot.sg/2011/09/paper-published-diet-and-feeding-in-seal).\n\
-  - Lane, David\n  J.W. and Didier Vandenspiegel. 2003*. A\n  Guide to Sea Stars and\
-  \ Other Echinoderms of Singapore*.\n  Singapore Science Centre. 187pp.\n- Didier\
-  \ VandenSpiegel\n  et al. 1998. *The\n  Asteroid fauna (Echinodermata) of Singapore\
-  \ with a distribution\n  table and illustrated identification to the species*. The\
-  \ Raffles\n  Bulletin of Zoology 1998 46(2): 431-470.\n- Coleman,\n  Neville. 2007.\
-  \ Sea\n  stars: Echinoderms of Asia/Indo-Pacific. Neville Coleman's\n  Underwater\
-  \ Geographic Pty Ltd, Australia.136pp.\n- Ng, P. K.\n  L. & Y. C. Wee, 1994. *The\n"
+links_references: "**Links**\n- [Sand star (*Astropecten*sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/221.htm)Tan,\
+  \ Leo W. H. & Ng, Peter K. L., 1988.*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
+  \ The Singapore Science Centre, Singapore. 160 pp.\n\n- *[Astropecten bengalensis](http://www.sealifebase.fisheries.ubc.ca/summary/Astropecten-bengalensis.html)*and[*Astropecten\
+  \ indicus*](http://www.sealifebase.org/summary/Astropecten-indicus.html)from Sealife\
+  \ Base: Technical fact sheet.\n\n- From The Echinoblog by Dr Chris Mah\n - [Telling\
+  \ Apart Sand Stars: Archaster vs. Astropecten! Two Common Trade Species](http://echinoblog.blogspot.sg/2011/04/telling-apart-sand-stars-archaster-vs.html)\n\
+  \ - [What are the FASTEST known Starfish??](http://echinoblog.blogspot.sg/2012/07/what-are-fastest-known-starfish.html)\n\
+  \ - [SAND ANGELS! Astropecten The starfish that dig it!](http://echinoblog.blogspot.sg/2013/12/sand-angels-astropectnen-starfish-that.html)\n\
+  \n**References**\n- Loisette M. Marsh and Jane Fromont.*Field Guide to Shallow Water\
+  \ Seastars of Australia*. 2020. Western Australian Museum. 543pp\n\n- K. S. Loh\
+  \ . 31 Aug.2011.*Diet and feeding in the sea star Astropecten indicus (Doderlein,\
+  \ 1888)*. The Raffles Bulletin of Zoology 2011 59 (2): 251-258 and Loh Kok Sheng's[blog\
+  \ post about this study](http://wondercreation.blogspot.sg/2011/09/paper-published-diet-and-feeding-in-sea.html).\n\
+  \n- Lane, David J.W. and Didier Vandenspiegel. 2003*. A Guide to Sea Stars and Other\
+  \ Echinoderms of Singapore*. Singapore Science Centre. 187pp.\n\n- Didier VandenSpiegel\
+  \ et al. 1998.*The Asteroid fauna (Echinodermata) of Singapore with a distribution\
+  \ table and illustrated identification to the species*. The Raffles Bulletin of\
+  \ Zoology 1998 46(2): 431-470.\n\n- Coleman, Neville. 2007. Sea stars: Echinoderms\
+  \ of Asia/Indo-Pacific. Neville Coleman's Underwater Geographic Pty Ltd, Australia.136pp.\n\
+  \n- Ng, P. K. L. & Y. C. Wee, 1994.*The Singapore Red Data Book: Threatened Plants\
+  \ and Animals of Singapore*. The Nature Society (Singapore), Singapore. 343 pp.\n\
+  \n- Schoppe, Sabine, 2000.*Echinoderms of the Philippines: A guide to common shallow\
+  \ water sea stars, brittle stars, sea urchins, sea cucumbers and feather stars*.\
+  \ Times Edition, Singapore. 144 pp.\n\n- Chou, L. M., 1998.*A Guide to the Coral\
+  \ Reef Life of Singapore*. Singapore Science Centre. 128 pages."
 galleries:
   gallery1:
   - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandplain/080702prpd6358m3.jpg
@@ -76,30 +80,6 @@ galleries:
     caption: Bright orange underside.
   - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandorange/130809smkd1086m3c.jpg
     caption: ''
-  gallery6:
-  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: 'Links Sand star ( Astropecten sp.) Tan, Leo W. H. & Ng, Peter K. L.,
-      1988. A Guide to Seashore Life . The Singapore Science Centre, Singapore. 160
-      pp. Astropecten bengalensis and Astropecten indicus from Sealife Base: Technical
-      fact sheet. From The Echinoblog by Dr Chris Mah Telling Apart Sand Stars: Archaster
-      vs. Astropecten! Two Common Trade Species What are the FASTEST known Starfish??
-      SAND ANGELS! Astropecten The starfish that dig it! References Loisette M. Marsh
-      and Jane Fromont. Field Guide to Shallow Water Seastars of Australia . 2020.
-      Western Australian Museum. 543pp K. S. Loh . 31 Aug.2011. Diet and feeding in
-      the sea star Astropecten indicus (Doderlein, 1888) . The Raffles Bulletin of
-      Zoology 2011 59 (2): 251-258 and Loh Kok Sheng''s blog post about this study
-      . Lane, David J.W. and Didier Vandenspiegel. 2003 . A Guide to Sea Stars and
-      Other Echinoderms of Singapore . Singapore Science Centre. 187pp. Didier VandenSpiegel
-      et al. 1998. The Asteroid fauna (Echinodermata) of Singapore with a distribution
-      table and illustrated identification to the species . The Raffles Bulletin of
-      Zoology 1998 46(2): 431-470. Coleman, Neville. 2007. Sea stars: Echinoderms
-      of Asia/Indo-Pacific. Neville Coleman''s Underwater Geographic Pty Ltd, Australia.136pp.
-      Ng, P. K. L. & Y. C. Wee, 1994. The Singapore Red Data Book: Threatened Plants
-      and Animals of Singapore . The Nature Society (Singapore), Singapore. 343 pp.
-      Schoppe, Sabine, 2000. Echinoderms of the Philippines: A guide to common shallow
-      water sea stars, brittle stars, sea urchins, sea cucumbers and feather stars
-      . Times Edition, Singapore. 144 pp. Chou, L. M., 1998. A Guide to the Coral
-      Reef Life of Singapore . Singapore Science Centre. 128 pages.'
 location:
 - pgl
 - prp

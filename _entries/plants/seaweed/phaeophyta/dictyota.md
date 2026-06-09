@@ -22,13 +22,31 @@ order: Dictyotales
 tribe: Dictyoteae
 updated: Jan 13
 coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/dictyota/050413labd2529m3.jpg
-links_references: "**Links**\n- [*Dictyota*](http://www.algaebase.org/search/genus/detail/?genus_id=51)\n\
-  \  on [AlgaeBase](http://www.algaebase.org/): Technical\n  fact sheet.\n\n**References**\n\
-  - Pham, M.\n  N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. [*A\n  Checklist\
-  \ of the Algae of Singapore*](http://rmbr.nus.edu.sg/raffles_museum_pub/singapore_algae_checklist.pdf)\
-  \ (pdf). Raffles Museum\n  of Biodiversity Research, National University of Singapore,\
-  \ Singapore.\n  100 pp. Uploaded 1 August 2011.\n- Calumpong,\n  H. P. & Menez,\
-  \ E. G., 1997.*[Field\n"
+links_references: '**Links**
+
+  - [*Dictyota*](http://www.algaebase.org/search/genus/detail/?genus_id=51)on[AlgaeBase](http://www.algaebase.org/):
+  Technical fact sheet.
+
+
+  **References**
+
+  - Pham, M. N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011.[*A Checklist of the
+  Algae of Singapore*](http://rmbr.nus.edu.sg/raffles_museum_pub/singapore_algae_checklist.pdf)(pdf).
+  Raffles Museum of Biodiversity Research, National University of Singapore, Singapore.
+  100 pp. Uploaded 1 August 2011.
+
+
+  - Calumpong, H. P. & Menez, E. G., 1997.*[Field Guide to the Common Mangroves, Seagrasses
+  and Algae of the Philippines](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FField-common-mangroves-seagrasses-Philippines%2Fdp%2F9715691978%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175577689%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*
+
+
+  - Huisman, John M. 2000.*[Marine Plants of Australia](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FMarine-Plants-Australia-John-Huisman%2Fdp%2F1876268336%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580260%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*University
+  of Western Australia Press. 300pp.
+
+
+  - Trono, Gavino. C. Jr., 1997.*[Field Guide and Atlas of the Seaweed Resources of
+  the Philippines.](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FField-guide-seaweed-resources-Philippines%2Fdp%2F9715692524%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1176262450%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*.
+  Bookmark, Inc., the Philippines. 306 pp.'
 galleries:
   gallery1:
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/dictyota/050413labd2529m3.jpg
@@ -47,17 +65,6 @@ galleries:
   gallery3:
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/dictyota/230608tmftvc4.jpg
     caption: Tanah Merah Ferry Terminal, Jun 23 Photo shared by Vincent Choo on facebook.
-  gallery4:
-  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: 'Links Dictyota on AlgaeBase : Technical fact sheet. References Pham,
-      M. N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011. A Checklist of the Algae
-      of Singapore (pdf). Raffles Museum of Biodiversity Research, National University
-      of Singapore, Singapore. 100 pp. Uploaded 1 August 2011. Calumpong, H. P. &
-      Menez, E. G., 1997. Field Guide to the Common Mangroves, Seagrasses and Algae
-      of the Philippines . Bookmark, Inc., the Philippines. 197 pp. Huisman, John
-      M. 2000. Marine Plants of Australia University of Western Australia Press. 300pp.
-      Trono, Gavino. C. Jr., 1997. Field Guide and Atlas of the Seaweed Resources
-      of the Philippines. . Bookmark, Inc., the Philippines. 306 pp.'
 location:
 - prp
 - chg

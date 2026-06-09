@@ -23,15 +23,27 @@ order: Lamiales
 subfamily: Ajugoideae
 updated: Jan 13
 coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/clerodendrum/inerme/090411lckd9586m6l.jpg
-links_references: "**Links**\n- *[Clerodendrum\n  inerme](http://floraofsingapore.wordpress.com/2010/07/14/clerodendrum-inerme/)*\
-  \ on Total Vascular Flora of Singapore Online: photos\n  and fact sheet.\n- [*Volkameria\n\
-  \  inermis*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=1823)\
-  \ on the NParks Flora and Fauna website: photos\n  and fact sheet.\n- Giesen, Wim\n\
-  \  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.\n  [*Mangrove\n\
-  \  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)\
-  \ (PDF online downloadable).\n  RAP publication 2006/07 Food and Agriculture Organization\
-  \ of the\n  United Nations Regional Office for Asia and the Pacific Bangkok.\n\n\
-  **References**\n- Hsuan Keng,\n  S.C. Chin and H. T. W. Tan. 1990, *[The\n"
+links_references: '**Links**
+
+  - *[Clerodendrum inerme](http://floraofsingapore.wordpress.com/2010/07/14/clerodendrum-inerme/)*on
+  Total Vascular Flora of Singapore Online: photos and fact sheet.
+
+
+  - [*Volkameria inermis*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=1823)on
+  the NParks Flora and Fauna website: photos and fact sheet.
+
+
+  - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.[*Mangrove
+  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.htm)(PDF
+  online downloadable). RAP publication 2006/07 Food and Agriculture Organization
+  of the United Nations Regional Office for Asia and the Pacific Bangkok.
+
+
+  **References**
+
+  - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,*[The Concise Flora of Singapore:
+  Gymnosperms and Dicotyledons](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FConcise-Flora-Singapore-Gymnosperms-Dicotyledons%2Fdp%2F9971691353%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580156%26sr%3D8-2&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*.
+  Singapore University Press. 222 pp..'
 galleries:
   gallery1:
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/clerodendrum/inerme/090517ubnd1946m3.jpg
@@ -40,16 +52,6 @@ galleries:
     caption: Mandai, Mar 11
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/clerodendrum/inerme/090411lckd9574m3.jpg
     caption: Lim Chu Kang, Apr 09
-  gallery2:
-  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: 'Links Clerodendrum inerme on Total Vascular Flora of Singapore Online:
-      photos and fact sheet. Volkameria inermis on the NParks Flora and Fauna website:
-      photos and fact sheet. Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth
-      Scholten. 2006. Mangrove Guidebook for Southeast Asia (PDF online downloadable).
-      RAP publication 2006/07 Food and Agriculture Organization of the United Nations
-      Regional Office for Asia and the Pacific Bangkok. References Hsuan Keng, S.C.
-      Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and
-      Dicotyledons . Singapore University Press. 222 pp..'
 size:
 - 100.0
 - 400.0

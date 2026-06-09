@@ -146,66 +146,6 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/others/110606cyrlks1m3.JPG
     caption: Planocerid 7 Cyrene Reef, Jun 11 Photo shared by Loh Kok Sheng on his
       blog .
-  gallery20:
-  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: "Acknowledgement With grateful thanks to Leslie H. Harris of the Natural\
-      \ History Museum of Los Angeles County for comments on and identifying some\
-      \ of these flatworms. Grateful thanks to Rene Ong for sharing details and identifying\
-      \ the flatworms on this page. Links Marine flatworms Tan, Leo W. H. & Ng, Peter\
-      \ K. L., 1988. A Guide to Seashore Life . The Singapore Science Centre, Singapore.\
-      \ 160 pp. Mangrove flatworms (Platyhelminthes) Ng, Peter K. L. & N. Sivasothi,\
-      \ 1999. A Guide to the Mangroves of Singapore II (Animal Diversity) . Singapore\
-      \ Science Centre. 168 pp. Flatworms on The Sea Slug Forum by Dr Bill Rudman:\
-      \ Introduction to flatworms with lots of examples of nudibranchs and slugs mistaken\
-      \ for flatworms and visa versa. Platyhelminthes in YOU on the wild shores of\
-      \ singapore blog. References Samantha Jia Wen Tong and Rene S.L. Ong. Mating\
-      \ behavior, spawning, parental care, and embryonic development of some marine\
-      \ pseudocerotid flatworms (Platyhelminthes: Rhabditophora: Polycladida) in Singapore\
-      \ . 27 June 2020. Invertebrate Biology. Seven new records of marine polyclads\
-      \ for Singapore. Rene Ong, Loh Koh Sheng, Ng Boon Leong, Tan Tsu Soo & Toh Chay\
-      \ Hoon. 30 April 2020. Singapore Biodiversity Records 2020: 43-44 ISSN 2345-7597.\
-      \ A marine flatworm, Pseudobiceros hymanae, at Cyrene Reef . Jianlin Liu and\
-      \ Rene S. L. Ong. 27 March 2020. Singapore Biodiversity Records 2020: 28 ISSN\
-      \ 2345-7597 Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018. A preliminary\
-      \ checklist and photographic catalogue of polyclad flatworms recorded from Singapore.\
-      \ Nature in Singapore 2018 11: 77\u2013125. Rene S. L. Ong, D. Marcela Bola\xF1\
-      os and Samantha J.W. Tong, 19 June 2018. New records of marine flatworms (Platyhelminthes:\
-      \ Polycladida: Cotylea) from Singapore. Nature in Singapore 2018 11: 53\u2013\
-      62. D. M. Bola\xF1os, B. Q. Gan & R. S. L. Ong. 29 Jun 2016. First records of\
-      \ pseudocerotid flatworms (Platyhelminthes: Polycladida: Cotylea) from Singapore:\
-      \ A taxonomic report with remarks on colour variation . The Raffles Bulletin\
-      \ of Zoology Supplement No. 34: 130-169 Pp. 130-169. Rene Ong, Samantha Tong\
-      \ & Teresa Stephanie Tay. 13 November 2015. Marine flatworms at Seringat Kias\
-      \ . Singapore Biodiversity Records 2015: 182-184 Chim C. K., R. S. L. Ong &\
-      \ Gan B. Q. Penis fencing, spawning, parental care and embryonic development\
-      \ in the cotylean flatworm Pseudoceros indicus (Platyhelminthes: Polycladida:\
-      \ Pseudocerotidae) from Singapore . 10 July 2015. The Comprehensive Marine Biodiversity\
-      \ Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of\
-      \ Zoology 2015 Supplement No. 31, Pp. 60-67. Tan Yee Keat. 26 June 2015. Apparent\
-      \ mimicry of marine flatworm and nudibranch: Marine flatworm, Pseudoceros sp.;\
-      \ Nudibranch, Gymnodoris impudica . Singapore Biodiversity Records 2015: 85-86.\
-      \ Newman, L.J. & Cannon, L.R.G. 1997. Nine new species of Pseudobiceros (Platyhelminthes:\
-      \ Polycladida) from Indo-Pacific . The Raffles Bulletin of Zoology 45(2): 341-368.\
-      \ Newman, L.J. & Cannon, L.R.G. 1995. Colour pattern variation in the tropical\
-      \ flatworm, Pseudoceros (Platyhelminthes: Polycladida), with descriptions of\
-      \ three new species . The Raffles Bulletin of Zoology 43(2): 435-446. Newman,\
-      \ L.J. & Cannon, L.R.G. 1998. Pseudoceros (Platyhelminthes: Polycladida) from\
-      \ the Indo-Pacific with twelve new species from Australia and Papua New Guinea\
-      \ . The Raffles Bulletin of Zoology 46(2): 293-323. Davison, G.W. H. and P.\
-      \ K. L. Ng and Ho Hua Chew, 2008. The Singapore Red Data Book: Threatened plants\
-      \ and animals of Singapore . Nature Society (Singapore). 285 pp. Newman, Leslie\
-      \ and Lester Cannon. 2003. Marine Flatworms: The World of Polyclads . CSIRO\
-      \ Publishing. 97pp. Humann, Paul and Ned Deloach. 2010. Reef Creature Identification:\
-      \ Tropical Pacific New World Publications. 497pp. Kuiter, Rudie H and Helmut\
-      \ Debelius. 2009. World Atlas of Marine Fauna . IKAN-Unterwasserachiv. 723pp.\
-      \ Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996. Coral\
-      \ Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive\
-      \ of the vertebrates Sea Challengers. 314pp. Allen, Gerald R and Roger Steene.\
-      \ 2002. Indo-Pacific Coral Reef Field Guide . Tropical Reef Research. 378pp.\
-      \ Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004. Invertebrate Zoology\
-      \ Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963 Pechenik, Jan A.,\
-      \ 2005. Biology of the Invertebrates . 5 th edition. McGraw-Hill Book Co., Singapore.\
-      \ 578 pp."
 size:
 - 1.0
 - 8.0
@@ -221,6 +161,66 @@ authors:
 zone:
 - intertidal
 - marine
+links_references: "**Acknowledgement** \nWith grateful thanks to Leslie H. Harris\
+  \ of the [Natural\nHistory Museum of Los Angeles County](http://www.nhm.org/) for\
+  \ comments on and identifying\nsome of these flatworms.Grateful thanks to Rene Ong\
+  \ for sharing details and identifying the flatworms on this page.**Links**\n- [Marine\
+  \ flatworms](http://mangrove.nus.edu.sg/pub/seashore/text/124.htm)Tan, Leo W. H.\
+  \ & Ng, Peter K. L., 1988.*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
+  \ The Singapore Science Centre, Singapore. 160 pp.\n\n- [Mangrove flatworms (Platyhelminthes)](http://mangrove.nus.edu.sg/guidebooks/text/2002.htm)Ng,\
+  \ Peter K. L. & N. Sivasothi, 1999.*[A Guide to the Mangroves of Singapore II (Animal\
+  \ Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore Science Centre.\
+  \ 168 pp.\n\n- [Flatworms](http://www.seaslugforum.net/find/flatworm)on[The Sea\
+  \ Slug Forum](http://www.seaslugforum.net/)by Dr Bill Rudman: Introduction to flatworms\
+  \ with lots of examples of nudibranchs and slugs mistaken for flatworms and visa\
+  \ versa.\n\n- [Platyhelminthes in YOU](http://wildshores.blogspot.com/2009/02/platyhelminthes-in-you.html)on\
+  \ the wild shores of singapore blog.\n\n**References**\n- Samantha Jia Wen Tong\
+  \ and Rene S.L. Ong.*[Mating behavior, spawning, parental care, and embryonic development\
+  \ of some marine pseudocerotid flatworms (Platyhelminthes: Rhabditophora: Polycladida)\
+  \ in Singapore](https://doi.org/10.1111/ivb.12293)*. 27 June 2020. Invertebrate\
+  \ Biology.\n\n- *Seven new records of marine polyclads for Singapore.*Rene Ong,\
+  \ Loh Koh Sheng, Ng Boon Leong, Tan Tsu Soo & Toh Chay Hoon. 30 April 2020. Singapore\
+  \ Biodiversity Records 2020: 43-44 ISSN 2345-7597.\n\n- *A marine flatworm, Pseudobiceros\
+  \ hymanae, at Cyrene Reef*. Jianlin Liu and Rene S. L. Ong. 27 March 2020. Singapore\
+  \ Biodiversity Records 2020: 28 ISSN 2345-7597\n\n- Rene S.L. Ong and Samantha J.W.\
+  \ Tong. 29 October 2018.*A preliminary checklist and photographic catalogue of polyclad\
+  \ flatworms recorded from Singapore.*Nature in Singapore 2018 11: 77\u2013125.\n\
+  \n- Rene S. L. Ong, D. Marcela Bola\xF1os and Samantha J.W. Tong, 19 June 2018.*New\
+  \ records of marine flatworms (Platyhelminthes: Polycladida: Cotylea) from Singapore.*Nature\
+  \ in Singapore 2018 11: 53\u201362.\n\n- D. M. Bola\xF1os, B. Q. Gan & R. S. L.\
+  \ Ong. 29 Jun 2016.*First records of pseudocerotid flatworms (Platyhelminthes: Polycladida:\
+  \ Cotylea) from Singapore: A taxonomic report with remarks on colour variation*.\
+  \ The Raffles Bulletin of Zoology Supplement No. 34: 130-169 Pp. 130-169.\n\n- Rene\
+  \ Ong, Samantha Tong & Teresa Stephanie Tay. 13 November 2015.*Marine flatworms\
+  \ at Seringat Kias*. Singapore Biodiversity Records 2015: 182-184\n\n- Chim C. K.,\
+  \ R. S. L. Ong & Gan B. Q.*Penis fencing, spawning, parental care and embryonic\
+  \ development in the cotylean flatworm Pseudoceros indicus (Platyhelminthes: Polycladida:\
+  \ Pseudocerotidae) from Singapore*. 10 July 2015. The Comprehensive Marine Biodiversity\
+  \ Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology\
+  \ 2015 Supplement No. 31, Pp. 60-67.\n\n- Tan Yee Keat. 26 June 2015.*Apparent mimicry\
+  \ of marine flatworm and nudibranch: Marine flatworm, Pseudoceros sp.; Nudibranch,\
+  \ Gymnodoris impudica*. Singapore Biodiversity Records 2015: 85-86.\n\n- Newman,\
+  \ L.J. & Cannon, L.R.G. 1997.*Nine new species of Pseudobiceros (Platyhelminthes:\
+  \ Polycladida) from Indo-Pacific*. The Raffles Bulletin of Zoology 45(2): 341-368.\n\
+  \n- Newman, L.J. & Cannon, L.R.G. 1995.*Colour pattern variation in the tropical\
+  \ flatworm, Pseudoceros (Platyhelminthes: Polycladida), with descriptions of three\
+  \ new species*. The Raffles Bulletin of Zoology 43(2): 435-446.\n\n- Newman, L.J.\
+  \ & Cannon, L.R.G. 1998.*Pseudoceros (Platyhelminthes: Polycladida) from the Indo-Pacific\
+  \ with twelve new species from Australia and Papua New Guinea*. The Raffles Bulletin\
+  \ of Zoology 46(2): 293-323.\n\n- Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew,\
+  \ 2008.*The Singapore Red Data Book: Threatened plants and animals of Singapore*.\
+  \ Nature Society (Singapore). 285 pp.\n\n- Newman, Leslie and Lester Cannon. 2003.*Marine\
+  \ Flatworms: The World of Polyclads*. CSIRO Publishing. 97pp.\n\n- Humann, Paul\
+  \ and Ned Deloach. 2010.*Reef Creature Identification: Tropical Pacific*New World\
+  \ Publications. 497pp.\n\n- Kuiter, Rudie H and Helmut Debelius. 2009.*World Atlas\
+  \ of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.\n\n- Gosliner, Terrence M., David\
+  \ W. Behrens and Gary C. Williams. 1996.*Coral Reef Animals of the Indo-Pacific:\
+  \ Animal life from Africa to Hawaii exclusive of the vertebrates*Sea Challengers.\
+  \ 314pp.\n\n- Allen, Gerald R and Roger Steene. 2002.*Indo-Pacific Coral Reef Field\
+  \ Guide*. Tropical Reef Research. 378pp.\n\n- Edward E. Ruppert, Richard S. Fox,\
+  \ Robert D. Barnes. 2004.*Invertebrate Zoology*Brooks/Cole of Thomson Learning Inc.,\
+  \ 7th Edition. pp. 963\n\n- Pechenik, Jan A., 2005.*Biology of the Invertebrates*.\
+  \ 5thedition. McGraw-Hill Book Co., Singapore. 578 pp."
 ---
 
 ## Where seen?
