@@ -3,6 +3,7 @@
     display: grid;
     grid-template-columns: repeat(5, minmax(100px, 1fr));
     gap:1rem;
+    margin-bottom:2rem;
     
 }
 
@@ -84,7 +85,7 @@
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0"></script>
-<script defer>
+<script>
 let fuse
 let data = []
 let results = []
@@ -103,6 +104,32 @@ if (isNaN(currentPage) || currentPage < 1) {
 
 const perpage = 20
 
+
+
+const input = document.getElementById('search-input')
+const resultsDiv = document.getElementById('entries-grid')
+let pageInfo = Array.from(document.getElementsByClassName('page-info'))
+
+let prevBtn = Array.from(document.getElementsByClassName('prev'))
+let nextBtn = Array.from(document.getElementsByClassName('next'))
+let taxaFilters = new Set()
+let excludeFilters = new Set()
+let query = ""
+let zone = "all"
+
+input.value = initialQuery
+
+document.addEventListener("DOMContentLoaded", init);
+
+function init(){
+initialQuery = params.get('q') || ''
+    currentPage = parseInt(params.get('page'), 10)
+    if (isNaN(currentPage) || currentPage < 1) {
+      currentPage = 1
+    }
+    query = initialQuery
+
+    
 fetch('/assets/search.json')
   .then(res => res.json())
   .then(json => {
@@ -143,28 +170,33 @@ fetch('/assets/search.json')
 
   })
 
+  pageInfo = Array.from(document.getElementsByClassName('page-info'))
 
-const input = document.getElementById('search-input')
-const resultsDiv = document.getElementById('entries-grid')
-const pageInfo = document.getElementById('page-info')
-const prevBtn = document.getElementById('prev')
-const nextBtn = document.getElementById('next')
-let taxaFilters = new Set()
-let excludeFilters = new Set()
-let query = ""
-let zone = "all"
+  prevBtn = Array.from(document.getElementsByClassName('prev'))
+  nextBtn = Array.from(document.getElementsByClassName('next'))
 
-input.value = initialQuery
-
-document.addEventListener("DOMContentLoaded", () => {
-    initialQuery = params.get('q') || ''
-    currentPage = parseInt(params.get('page'), 10)
-    if (isNaN(currentPage) || currentPage < 1) {
-      currentPage = 1
+  prevBtn.forEach(pb=>{
+  pb.addEventListener('click', () => {
+    if (currentPage > 1) {
+      currentPage--
+      updateURL()
+      renderResults()
     }
-    query = initialQuery
-    
-});
+  })
+})
+nextBtn.forEach(nb=>{
+  nb.addEventListener('click', () => {
+    const totalPages = Math.ceil(results.length / perpage)
+  
+    if (currentPage < totalPages) {
+      currentPage++
+      updateURL()
+      renderResults()
+    }
+  })
+
+})
+}
 
 input.addEventListener('keyup', () => {
   query = input.value.trim().toLowerCase()
@@ -250,23 +282,8 @@ function filterResults(){
   results = combined
 }
 
-prevBtn.addEventListener('click', () => {
-  if (currentPage > 1) {
-    currentPage--
-    updateURL()
-    renderResults()
-  }
-})
+console.log(prevBtn)
 
-nextBtn.addEventListener('click', () => {
-  const totalPages = Math.ceil(results.length / perpage)
-
-  if (currentPage < totalPages) {
-    currentPage++
-    updateURL()
-    renderResults()
-  }
-})
 
 
 function renderResults() {
@@ -321,11 +338,19 @@ function renderResults() {
   }).join('')
 
   const totalPages = Math.ceil(results.length / perpage)
+  console.log(pageInfo)
+  pageInfo.forEach(pi=>{
+    console.log(pi)
+    pi.textContent = `Page ${currentPage} of ${totalPages || 1}`
 
-  pageInfo.textContent = `Page ${currentPage} of ${totalPages || 1}`
+  })
 
-  prevBtn.disabled = currentPage === 1
-  nextBtn.disabled = currentPage >= totalPages
+  prevBtn.forEach(pb=>{
+    pb.disabled = currentPage === 1
+  })
+  nextBtn.forEach(nb=>{
+    nb.disabled = currentPage >= totalPages
+  })
 }
 
 function updateURL() {

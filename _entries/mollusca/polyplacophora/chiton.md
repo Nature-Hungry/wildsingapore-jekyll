@@ -24,11 +24,7 @@ trivia_items:
 - Most are tiny and hard to spot.
 - They cling on tenaciously. Don't try to pry them off. Leave them alone!
 galleries:
-<<<<<<< HEAD
-  gallery1:
-=======
   gallery2:
->>>>>>> 3edb260582b90415e602571db201fec4cd096fb7
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/120125chgd6162m6l.jpg
     caption: Changi, Jan 12
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/120125chgd6156m3.jpg

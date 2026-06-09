@@ -29,14 +29,14 @@ updated: Sep 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/frenatus/040829kusg1741m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/frenatus/040829kusg1741m3.jpg
-    caption: Kusu Island, Aug 04
+ 
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/frenatus/100617tbd6333m6l.jpg
     caption: Terumbu Bemban, Jun 10
   gallery3:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/frenatus/180520tsmk5lks.jpg
     caption: Females larger and more blackish, males smaller and usually all red.
       Terumbu Semakau, May 18 Photo shared by Loh Kok Sheng on facebook
+    col_span: 2
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/frenatus/150606trytch2m3.jpg
     caption: Terumbu Raya, Jun 15 Photo shared by Toh Chay Hoon on facebook .
   gallery4:
@@ -45,7 +45,7 @@ galleries:
   gallery5:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/frenatus/090726tmlks6m3.jpg
     caption: Tanah Merah, Jul 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/cnidaria/actiniaria/entacmaea/100615tmlks2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/entacmaea/100615tmlks2m3.jpg
     caption: Tanah Merah, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/frenatus/220618tmftlks1.jpg
     caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on facebook
@@ -58,9 +58,9 @@ galleries:
   gallery7:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/frenatus/160409sjilks4.JPG
     caption: St John's Island, Apr 16 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/cnidaria/actiniaria/entacmaea/070701hntlks02m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/entacmaea/070701hntlks02m3.jpg
     caption: Pulau Hantu, Jul 07 Photo shared by Loh Kok Sheng on his blog .
-  - url: http://www.wildsingapore.com/cnidaria/actiniaria/entacmaea/120411thntrl1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/entacmaea/120411thntrl1m3.jpg
     caption: Terumbu Hantu, Apr 12 Photo shared by Russel Low on facebook .
   gallery8:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/frenatus/160516jngtyc.jpg
@@ -84,57 +84,27 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/frenatus/150607bbbtch6m3.jpg
     caption: Beting Bemban Besar, Jun 15 Photo shared by Russel Low on facebook .
   gallery11:
-  - url: http://www.wildsingapore.com/cnidaria/actiniaria/entacmaea/160806tpllks5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/entacmaea/160806tpllks5.jpg
     caption: Teumbu Pempang Laut, Aug 16 Photo shared by Loh Kok Sheng on facebook
       .
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/frenatus/100810snglks1m3.jpg
     caption: Pulau Senang, Aug 10 Photo shared by Loh Kok Sheng on his flickr .
-  - url: http://www.wildsingapore.com/cnidaria/actiniaria/entacmaea/100613snglks3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/entacmaea/100613snglks3m3.jpg
     caption: Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
-  gallery12:
-  - url: http://www.wildsingapore.com/cnidaria/actiniaria/entacmaea/210428slulks10.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/entacmaea/210428slulks10.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
+  gallery12:
 links_references: '**Links**
 
-  - [Tomato Anemonefish (
-
-  *Amphiprion frenatus*
-
-  )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/338)
-
-  Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
-
-  *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*
-
-  . Singapore Science Centre. 163 pp.
+  - [Tomato Anemonefish (*Amphiprion frenatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/338)Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.*[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore Science Centre. 163 pp.
 
   - Joy Wong Shu Yee. 2016.
 
-  [*Amphiprion ocellaris*
+  [*Amphiprion ocellaris*(Perciformes: Pomacentridae) False Clown Anemonefish](https://taxo4254.wikispaces.com/Amphiprion+ocellaris) from taxo4254.
 
-  (Perciformes: Pomacentridae) False Clown Anemonefish](https://taxo4254.wikispaces.com/Amphiprion+ocellaris)
+  - [Tomato Anemonefish (*Amphiprion frenatus*)](http://www.fishbase.org/Summary/speciesSummary.php?ID=6522) from [FishBase](http://www.fishbase.org/): fact sheet
 
-  from taxo4254.
-
-  - [Tomato Anemonefish (
-
-  *Amphiprion frenatus*
-
-  )](http://www.fishbase.org/Summary/speciesSummary.php?ID=6522)
-
-  from
-
-  [FishBase](http://www.fishbase.org/)
-
-  : fact sheet
-
-  - [*Amphiprion frenatus*](http://www.nhm.ku.edu/inverts/ebooks/ch2.html#frena)
-
-  from the
-
-  [the Field Guide to Anemone Fishes and their host Sea Anemones](http://www.nhm.ku.edu/inverts/ebooks/intro.html)
-
-  by Dr Daphne G. Fautin and Dr Gerald R. Allen: brief fact sheet with photo.
+  - [*Amphiprion frenatus*](http://www.nhm.ku.edu/inverts/ebooks/ch2.html#frena) from the [the Field Guide to Anemone Fishes and their host Sea Anemones](http://www.nhm.ku.edu/inverts/ebooks/intro.html) by Dr Daphne G. Fautin and Dr Gerald R. Allen: brief fact sheet with photo.
 
 
   **References**
@@ -215,12 +185,12 @@ too.
 ## Features
 
 5-14cm. Body red to black with one black-edged white bar just behind the eyes. There may be a second black-edged white bar in the middle of the body. Juveniles are usually red and may have 2-3 narrow white bars.
-{% include img-wrap-group.html items=page.galleries.gallery2 %}
+{% include img-grid.html items=page.galleries.gallery2 %}
 **Amazing gender switch:**
 Anemonefishes can change their gender. Often, a sea anemone will be home to several anemonefishes of the same species. Usually the largest anemonefish in the group is the female and the next largest is the functioning male (although he is often less than half her size). Besides being larger, females have blackish sides while males are a lot smaller and lack the blackish colour being mostly red overall. If the female is removed from the group, the male becomes a female and the next largest becomes the dominant male. In this way, anemonefishes can continue to breed throughout the year. Small anemonefishes are not necessarily younger, just lower in the "pecking order". It is believed they remain small because of the constant harassment by the dominant pair. Small anemonefishes are thus NOT the babies of larger anemonefishes in the same anemone.
 
-{% include img-wrap-group.html items=page.galleries.gallery3 %}
-{% include img-wrap-group.html items=page.galleries.gallery4 %}
+{% include img-grid.html items=page.galleries.gallery3 %}
+{% include img-grid.html items=page.galleries.gallery4 %}
 **What does it eat?**
 It feeds on plankton (mostly copepods) and also munches on bottom-dwelling algae.
 
